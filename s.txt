@@ -678,39 +678,22 @@ Curriculum & Evaluation Scheme (VII & VIII semester) Page 16
 
 -----------------------------------------------------------------------------------------------------------
 
-
-
-
-
 Internet of Things (KCS712)
-Course Outcome (CO) Bloom’s Knowledge Level (KL)
-At the end of course, the student will be able to understand
-CO 1 Demonstrate basic concepts, principles and challenges in IoT. K1,K2
-CO 2 Illustrate functioning of hardware devices and sensors used for IoT. K2
-CO 3 Analyze network communication aspects and protocols used in IoT. K4
-CO 4 Apply IoT for developing real life applications using Ardunio programming. K3
- CP 5 To develop IoT infrastructure for popular applications K2, K3
-DETAILED SYLLABUS 3-1-0
-Unit Topic Proposed
-Lecture
 I
 Internet of Things (IoT): Vision, Definition, Conceptual Framework, Architectural view,
 technology behind IoT, Sources of the IoT, M2M Communication, IoT Examples. Design
 Principles for Connected Devices: IoT/M2M systems layers and design standardization,
 communication technologies, data enrichment and consolidation, ease of designing and
 affordability
-08
 II
 Hardware for IoT: Sensors, Digital sensors, actuators, radio frequency identification (RFID)
 technology, wireless sensor networks, participatory sensing technology. Embedded Platforms for
 IoT: Embedded computing basics, Overview of IOT supported Hardware platforms such as
 Arduino, NetArduino, Raspberry pi, Beagle Bone, Intel Galileo boards and ARM cortex.
-08
 III
 Network & Communication aspects in IoT: Wireless Medium access issues, MAC protocol
 survey, Survey routing protocols, Sensor deployment & Node discovery, Data aggregation &
 dissemination
-08
 IV Programming the Ardunio: Ardunio Platform Boards Anatomy, Ardunio IDE, coding, using
 emulator, using libraries, additions in ardunio, programming the ardunio for IoT. 08
 V
@@ -718,16 +701,7 @@ Challenges in IoT Design challenges: Development Challenges, Security Challenges
 challenges IoT Applications: Smart Metering, E-health, City Automation, Automotive
 Applications, home automation, smart cards, communicating data with H/W units, mobiles, tablets,
 Designing of smart street lights in smart city.
-08
-Text books:
-1. Olivier Hersent,David Boswarthick, Omar Elloumi “The Internet of Things key applications and protocols”, wiley
-2. Jeeva Jose, Internet of Things, Khanna Publishing House
-3. Michael Miller “The Internet of Things” by Pearson
-4. Raj Kamal “INTERNET OF THINGS”, McGraw-Hill, 1ST Edition, 2016
-5. ArshdeepBahga, Vijay Madisetti “Internet of Things (A hands on approach)” 1ST edition, VPI publications,2014
-6. Adrian McEwen,Hakin Cassimally “Designing the Internet of Things” Wiley India
-COMPUTER SCIENCE AND ENGINEERING/CS
-Curriculum & Evaluation Scheme (VII & VIII semester) Page 17
+
 
 
 -----------------------------------------------------------------------------------------------------------

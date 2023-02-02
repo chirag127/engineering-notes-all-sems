@@ -69,7 +69,7 @@ def main():
                 # a = False
 
                 if a:
-                    m = 120
+                    m = 20
                 else:
                     m = 1
 
@@ -120,6 +120,6 @@ from r import remove
 
 if __name__ == "__main__":
 
-    for i in range(10000):
+    for i in range(1):
         remove()
         main()
