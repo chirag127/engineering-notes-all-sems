@@ -1,0 +1,2 @@
+### Introduction for the notes of the Unit 4 - Technology I – ANDROID of Design & Development Of Applications ( KCS075) in the subject of Design & Development Of Applications ( KCS075)
+Unit 4 - Technology I - ANDROID focuses on the basics of Android app development and its architecture. The unit covers topics such as Android Studio, activities, intents, user interface design, and data storage. Students will learn how to create and deploy basic Android apps. By the end of this unit, students will have a solid understanding of how to develop apps for the Android platform.

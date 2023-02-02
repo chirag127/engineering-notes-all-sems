@@ -1,0 +1,8 @@
+## Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES
+Unit 1 covers the basics of security attacks, services, and mechanisms, as well as classical and modern encryption techniques.
+
+Classical encryption techniques include substitution ciphers and transposition ciphers. Substitution ciphers replace each letter in a message with another letter, while transposition ciphers rearrange the letters of a message. Cryptanalysis is the study of methods for breaking encryption. Steganography is the practice of hiding information within other information.
+
+Stream and block ciphers are two types of modern encryption techniques. Stream ciphers encrypt data one bit or byte at a time, while block ciphers encrypt data in fixed-size blocks.
+
+Modern block ciphers are based on the principles of confusion and diffusion, as described by Shannon's theory. The Fiestal structure is a common design for block ciphers. The Data Encryption Standard (DES) is an example of a block cipher, and its strength has been widely debated. Differential cryptanalysis is a method for analyzing the security of encryption algorithms. Block cipher modes of operations determine how block ciphers encrypt data in practice. Triple DES is a variation of DES that uses three encryption keys.
