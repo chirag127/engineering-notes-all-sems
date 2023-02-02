@@ -69,7 +69,7 @@ def main():
                 # a = False
 
                 if a:
-                    m = 30
+                    m = 120
                 else:
                     m = 1
 

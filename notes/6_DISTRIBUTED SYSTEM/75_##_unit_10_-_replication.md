@@ -1,0 +1,2 @@
+## Unit 10 - Replication
+Unit 10 Replication refers to the process of copying data from one database to another. It is a key aspect of database management and helps to ensure data consistency and availability. Replication can be done in several ways, including master-slave replication, peer-to-peer replication, and multi-master replication. The choice of replication method depends on the requirements of the database system, such as data consistency, performance, and scalability. Replication also helps to ensure data backup and recovery in case of system failures.

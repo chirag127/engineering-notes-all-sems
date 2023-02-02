@@ -1,0 +1,10 @@
+### finite field of the form GF(p) for the notes of the Unit 2 - Introduction to group, field, finite field of the form GF(p), modular arithmetic, prime and relative prime numbers, Extended Euclidean Algorithm, Advanced Encryption Standard (AES) encryption and decryptionFermat’s and Euler’s theorem, Primarily testing, Chinese Remainder theorem, Discrete Logarithmic Problem,Principals of public key crypto systems, RSA algorithm, security of RSA in the subject of Cryptography & Network Security
+A finite field of the form GF(p) is a field with p elements, where p is a prime number. It is used in cryptography for its mathematical properties, including modular arithmetic operations. Modular arithmetic is an arithmetic system where numbers "wrap around" after reaching a certain value, known as the modulus. In finite fields, modular arithmetic is performed within the constraints of the field size, ensuring that the result of any operation is always an element of the field.
+
+In cryptography, prime numbers and relatively prime numbers play a crucial role in the security of algorithms such as the Extended Euclidean Algorithm and the RSA algorithm. Fermat's and Euler's theorem are mathematical theorems that provide a relationship between the values of a prime number and its modular arithmetic operations.
+
+The Advanced Encryption Standard (AES) is a widely used symmetric-key encryption algorithm that uses finite fields in its operations. The Chinese Remainder Theorem and the Discrete Logarithmic Problem are mathematical problems that are important in cryptography, particularly in public key cryptography systems.
+
+The RSA algorithm is a widely used public key cryptography system that uses the mathematical properties of prime numbers to secure communication. The security of RSA is based on the difficulty of factoring large numbers, which is a well-studied mathematical problem.
+
+In summary, finite fields of the form GF(p) play a crucial role in cryptography and network security, providing the mathematical foundations for many encryption and decryption algorithms.

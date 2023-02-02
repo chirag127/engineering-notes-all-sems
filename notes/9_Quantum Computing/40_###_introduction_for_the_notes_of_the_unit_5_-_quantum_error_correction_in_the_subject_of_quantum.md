@@ -1,0 +1,4 @@
+### Introduction for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+Introduction to Unit 5 - Quantum Error Correction:
+
+Quantum error correction is a crucial aspect of quantum computing, as quantum systems are susceptible to errors due to their delicate nature. This unit will cover the basics of quantum error correction, including the types of errors that can occur in quantum systems, the methods used to detect and correct these errors, and the impact of error correction on the overall performance of quantum computers. The goal of this unit is to provide a comprehensive understanding of quantum error correction, so that students can develop the skills necessary to design and implement error correction strategies in real-world quantum computing applications.

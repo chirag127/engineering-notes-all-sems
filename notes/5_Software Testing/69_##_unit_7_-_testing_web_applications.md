@@ -1,0 +1,2 @@
+## Unit 7 - Testing Web Applications
+Unit 7 - Testing Web Applications covers the various methods and tools used to test the functionality and performance of web applications. It includes topics such as manual testing, automation testing, load testing, security testing, and integration testing. The goal is to ensure that the web application meets the requirements and specifications and performs as expected in different scenarios. Effective testing can identify and fix bugs, improve the user experience, and increase the reliability and security of the web application.

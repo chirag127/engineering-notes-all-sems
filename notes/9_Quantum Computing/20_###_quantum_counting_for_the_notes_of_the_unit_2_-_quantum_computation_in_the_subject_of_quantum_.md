@@ -1,0 +1,6 @@
+### Quantum counting for the notes of the Unit 2 - Quantum Computation in the subject of Quantum Computing
+Quantum counting is a process in quantum computing where the number of items in a set is determined by using quantum algorithms. It is a quantum analogue of classical counting algorithms, but it has exponential speedup over classical algorithms. The main idea behind quantum counting is to use the interference of quantum states to determine the number of items in a set. This is achieved by encoding the items in quantum states and then applying a quantum algorithm to the states. The output of the quantum algorithm is then measured to determine the number of items in the set. This process is faster than classical algorithms because it takes advantage of the quantum parallelism of quantum states.
+
+Quantum counting has several applications in quantum computing, including quantum database search, quantum simulation, and quantum optimization. It is also used in quantum error correction, where it helps to detect and correct errors in quantum computations.
+
+Overall, quantum counting is an important concept in quantum computing and it has the potential to revolutionize many areas of computer science and technology.

@@ -1,0 +1,6 @@
+### Desktop Grids for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+Desktop Grids are a type of grid computing technology that enables the use of idle computing power of desktop computers for high performance computing tasks. They are formed by connecting multiple desktop computers over a network, where each computer acts as a node, contributing its unused processing power to the grid. Desktop grids can be used for various purposes such as scientific simulations, data analysis, and large scale computations. They offer advantages such as low cost, ease of use and scalability. However, they also face challenges such as security, reliability and resource management.
+
+Desktop grids can be used in a variety of fields, including scientific research, engineering, and finance. They can also be used for volunteer computing projects, where individuals can donate their unused computing power to help solve important scientific and humanitarian problems.
+
+In summary, Desktop Grids are a cost-effective and scalable solution for high performance computing, leveraging the unused processing power of desktop computers to perform large scale computations.

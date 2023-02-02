@@ -1,0 +1,2 @@
+## Unit 1 - Introduction to security attacks, services and mechanism
+Unit 1 covers the basics of computer security, including types of attacks (e.g. malware, phishing, denial of service), security services (e.g. confidentiality, integrity, availability), and security mechanisms (e.g. firewalls, encryption, access controls). It provides an overview of the security landscape and the importance of protecting information and systems.
