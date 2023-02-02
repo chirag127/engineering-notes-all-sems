@@ -1,0 +1,6 @@
+### Searching with Partial Observations for the notes of the Unit 2 - Problem Solving Methods in the subject of Artificial Intelligence
+Searching with Partial Observations is a problem solving method in Artificial Intelligence where the goal is to find a solution to a problem by searching through a state space while only having limited information about the state. This method is often used in situations where the state space is too large to search exhaustively, or when the state information is uncertain or incomplete. The search process involves making educated guesses about the state and updating the information as more observations are made. The algorithm continues until a solution is found or it is determined that a solution does not exist.
+
+This method can be applied to a wide range of problems, including decision making, path finding, and game playing. It is often used in robotics, where a robot must navigate an unknown environment and make decisions based on limited sensory information.
+
+In summary, Searching with Partial Observations is a powerful problem solving method in Artificial Intelligence that allows for finding solutions in situations where complete information is not available.

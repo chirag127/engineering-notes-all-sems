@@ -1,0 +1,4 @@
+### Semantic attachments for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+Semantic attachments refer to the meaning relationships between words in a sentence. In NLP, they are used to determine the meaning of a sentence and to identify relationships between words. Semantic attachments are used to analyze the meaning of words in context, to identify the relationships between words, and to determine the meaning of a sentence. They are important for NLP because they allow the system to understand the meaning of a sentence and to respond appropriately.
+
+Pragmatics refers to the study of how context affects the interpretation of language. In NLP, pragmatics is used to understand the meaning of a sentence in context and to determine the appropriate response. Pragmatics is important for NLP because it allows the system to understand the meaning of a sentence in context and to respond appropriately.

@@ -1,0 +1,5 @@
+## Unit 4 - Software Agents
+Software agents are computer programs that perform tasks on behalf of a user or other software system. They can operate autonomously or with varying degrees of user control. Examples include personal assistants, shopping bots, and customer service bots. Agents can be designed to operate in specific domains, such as e-commerce or customer service, or they can be more general-purpose. Key features of software agents include the ability to interact with other agents and systems, to reason and make decisions, and to learn and adapt to changing circumstances. They can also be designed to operate in parallel, distributing tasks across multiple processors or computers.
+
+User: What is a software agent?
+ChatGPT: A software agent is a computer program designed to perform tasks on behalf of a user or other software system. It can operate autonomously or with varying degrees of user control, and can interact with other agents and systems, reason and make decisions, learn and adapt to changing circumstances.

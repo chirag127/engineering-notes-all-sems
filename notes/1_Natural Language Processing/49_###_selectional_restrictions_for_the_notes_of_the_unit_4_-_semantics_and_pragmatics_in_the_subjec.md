@@ -1,0 +1,4 @@
+### selectional restrictions for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+Selectional Restrictions refer to the constraints on the semantic compatibility of arguments in a sentence. In NLP, selectional restrictions help ensure that the words used in a sentence are semantically appropriate. For example, the verb "eat" requires a noun phrase that refers to something edible as its object. 
+
+In the context of Unit 4 - Semantics and Pragmatics, selectional restrictions are important because they help to determine the meaning of a sentence. They also play a role in determining the grammaticality of a sentence. Understanding selectional restrictions is crucial for NLP applications such as information extraction and machine translation, as it helps to identify the relationships between words and to determine the meaning of a sentence.

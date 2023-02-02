@@ -59,7 +59,14 @@ Springer, 2003.
 University Press, 2010.
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 5
-Natural Language Processing (KC072)
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Natural Language Processing (KCS072)
 Course Outcome ( CO) Bloom’s Knowledge Level (KL)
 At the end of course , the student will be able :
 CO 1 To learn the fundamentals of natural language processing K1 , K2
@@ -130,10 +137,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 7
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -184,10 +187,6 @@ Text books:
 5. RajkumarBuyya. High Performance Cluster Computing: Architectures and Systems. PrenticeHall India, 1999.
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 8
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -252,10 +251,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 9
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -312,10 +307,6 @@ Text books:
 6. Development: Exploring the iOS SDK”, Apress, 2013.
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 10
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -381,10 +372,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 11
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -447,10 +434,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 12
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -505,10 +488,6 @@ Text books:
 Mapping with MOOCS: https://onlinecourses.nptel.ac.in/noc18_cs41/preview
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 13
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -574,10 +553,6 @@ ICON Group International; 1st Edition, 2017; ASIN: B06WGPN8YD.
 Publishers & Distributors; 2010; ISBN-13: 9789350231081
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 14
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -646,10 +621,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 15
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -705,10 +676,6 @@ COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 16
 
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -761,10 +728,6 @@ Text books:
 6. Adrian McEwen,Hakin Cassimally “Designing the Internet of Things” Wiley India
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 17
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -825,10 +788,6 @@ Press, 2017.
 Systems for EC2 and Beyond (Theory in Practice), O’Reilly, 2009.
 COMPUTER SCIENCE AND ENGINEERING/CS
 Curriculum & Evaluation Scheme (VII & VIII semester) Page 18
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------

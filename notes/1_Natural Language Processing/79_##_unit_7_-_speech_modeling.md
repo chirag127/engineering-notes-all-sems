@@ -1,0 +1,8 @@
+## Unit 7 - SPEECH MODELING
+Speech modeling is a subfield of natural language processing (NLP) that focuses on the generation and recognition of speech signals. It involves the use of statistical and machine learning techniques to model the relationship between speech sounds and the linguistic information they convey. The goal of speech modeling is to enable computers to understand and generate human speech, making it possible for them to interact with humans in a more natural and intuitive way. Some common applications of speech modeling include speech recognition, speech synthesis, and speech analysis.
+
+User: What are the different types of speech models?
+ChatGPT: There are two main types of speech models: acoustic models and language models. Acoustic models model the relationship between the physical properties of speech sounds and the linguistic information they convey. Language models, on the other hand, model the relationship between the linguistic information in speech and the probability of a particular word or phrase being spoken.
+
+User: What is the difference between Acoustic and Language models?
+ChatGPT: Acoustic models model the physical properties of speech sounds (e.g. spectrogram, Mel-frequency cepstral coefficients) to predict the corresponding linguistic information (e.g. phonemes, words). Language models, on the other hand, model the probability distribution of words or sequences of words given the context in which they occur. The goal of acoustic models is to convert speech signals into linguistic information, while the goal of language models is to predict the most likely word or sequence of words given the context.

@@ -46,72 +46,80 @@ def chat(i, file_name) -> bool:
 
         f.write(response["choices"][0]["text"].strip() + "\n")
 
+def main():
 
+    for file in os.listdir("s"):
+        if file.endswith(".txt"):
+            print(os.path.join("s", file))
 
-for file in os.listdir("s"):
-    if file.endswith(".txt"):
-        print(os.path.join("s", file))
+        f = "notes/" + file.replace(".txt", "")
 
-    f = "notes/" + file.replace(".txt", "")
+        if not os.path.exists(f):
+            os.makedirs(f)
 
-    if not os.path.exists(f):
-        os.makedirs(f)
+        with open("s/" + file, "r") as f:
+            s = f.read()
 
-    with open("s/" + file, "r") as f:
-        s = f.read()
+            p = s.splitlines()
+            p = [x.strip() for x in p]
 
-        p = s.splitlines()
-        p = [x.strip() for x in p]
+            if __name__ == "__main__":
+                # Start chat
+                a = True
+                # a = False
 
-        if __name__ == "__main__":
-            # Start chat
-            a = True
-            # a = False
+                if a:
+                    m = 30
+                else:
+                    m = 1
 
-            if a:
-                m = 30
-            else:
-                m = 1
+                def d(i):
+                    PROMPT = i
 
-            def d(i):
-                PROMPT = i
+                    file_name = PROMPT.replace("?", "").replace(" ", "_").replace(
+                        "/", "_").replace(":", "_").replace(",", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '')
 
-                file_name = PROMPT.replace("?", "").replace(" ", "_").replace(
-                    "/", "_").replace(":", "_").replace(",", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '')
+                    file_name = str(p.index(i) + 1) + "_" + file_name
 
-                file_name = str(p.index(i) + 1) + "_" + file_name
+                    if len(file_name) > 100:
+                        file_name = file_name[:100]
 
-                if len(file_name) > 100:
-                    file_name = file_name[:100]
+                    file_name = file_name.lower()
 
-                file_name = file_name.lower()
+                    f = "notes/" + file.replace(".txt", "")
 
-                f = "notes/" + file.replace(".txt", "")
+                    file_name = f + "/" + file_name
 
-                file_name = f + "/" + file_name
+                    file_name = file_name + ".md"
 
-                file_name = file_name + ".md"
+                    # file_name = "se.md"
 
-                # file_name = "se.md"
+                    # check if folder f exists
+                    if not os.path.exists(f):
+                        os.makedirs(f)
 
-                # check if folder f exists
-                if not os.path.exists(f):
-                    os.makedirs(f)
+                    if os.path.exists(file_name):
+                        print("File already exists")
 
-                if os.path.exists(file_name):
-                    print("File already exists")
+                        if a:
+                            m = 20
+                            return
+                        else:
+                            with open(file_name, "r") as f:
+                                lines = f.readlines()
 
-                    if a:
-                        m = 20
-                        return
-                    else:
-                        m = 1
-                        with open(file_name, "r") as f:
-                            lines = f.readlines()
+                                if len(lines) > 2:
 
-                            if len(lines) > 2:
+                                    return
+                    chat(PROMPT, file_name)
 
-                                return
-                chat(PROMPT, file_name)
-            with ThreadPoolExecutor(max_workers=m) as executor:
-                executor.map(d, p)
+                with ThreadPoolExecutor(max_workers=m) as executor:
+                    executor.map(d, p)
+
+from r import remove
+
+if __name__ == "__main__":
+
+    for i in range(10000):
+        remove()
+        main()
