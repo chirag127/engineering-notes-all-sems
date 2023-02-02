@@ -1,0 +1,59 @@
+## Unit 1 - Internet of Things (IoT)
+### Vision for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### Definition for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### Conceptual Framework for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### Architectural view for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### technology behind IoT for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### Sources of the IoT for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### M2M Communication for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### IoT Examples for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### Design Principles for Connected Devices for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### IoT/M2M systems layers and design standardization for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### communication technologies for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### data enrichment and consolidation for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+### ease of designing and affordability for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+## Unit 2 - Hardware for IoT
+### Sensors for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+### Digital sensors for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+### actuators for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+### radio frequency identification (RFID) technology for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+### wireless sensor networks for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+### participatory sensing technology for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+## Unit 3 - Embedded Platforms for IoT
+### Embedded computing basics for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### Overview of IOT supported Hardware platforms such as Arduino for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### NetArduino for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### Raspberry pi for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### Beagle Bone for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### Intel Galileo boards for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+### ARM cortex for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+## Unit 4 - Network & Communication aspects in IoT
+### Wireless Medium access issues for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+### MAC protocol survey for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+### Survey routing protocols for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+### Sensor deployment & Node discovery for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+### Data aggregation & dissemination for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+## Unit 5 - Programming the Ardunio
+### Ardunio Platform Boards Anatomy for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### Ardunio IDE for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### coding for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### using emulator for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### using libraries for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### additions in ardunio for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+### programming the ardunio for IoT for the notes of the Unit 5 - Programming the Ardunio in the subject of Internet of Things
+## Unit 6 - Challenges in IoT
+### Design challenges for the notes of the Unit 6 - Challenges in IoT in the subject of Internet of Things
+### Development Challenges for the notes of the Unit 6 - Challenges in IoT in the subject of Internet of Things
+### Security Challenges for the notes of the Unit 6 - Challenges in IoT in the subject of Internet of Things
+### Other challenges for the notes of the Unit 6 - Challenges in IoT in the subject of Internet of Things
+## Unit 7 - IoT Applications
+### Smart Metering for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### E-health for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### City Automation for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### Automotive Applications for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### home automation for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### smart cards for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### communicating data with H/W units for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### mobiles for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### tablets for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+### Designing of smart street lights in smart city for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things

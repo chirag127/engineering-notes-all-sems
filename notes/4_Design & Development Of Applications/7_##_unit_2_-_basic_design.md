@@ -1,2 +1,1 @@
 ## Unit 2 - BASIC DESIGN
-Unit 2 - Basic Design covers the fundamental principles and elements of design, including color theory, composition, typography, and imagery. It teaches how to use these elements to create visually appealing and effective designs. The unit also introduces design software and tools, and covers the design process from concept to final product. The goal is to provide a solid foundation for further study in graphic design.

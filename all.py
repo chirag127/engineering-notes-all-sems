@@ -14,6 +14,11 @@ from revChatGPT.Official import Chatbot
 # Initialize chatbot
 
 
+api_keys = ["***REMOVED***",
+            "***REMOVED***", "***REMOVED***"]
+
+chatbot = Chatbot(api_key=random.choice(api_keys))
+
 def chat(i, file_name) -> bool:
 
     PROMPT = i
@@ -28,11 +33,6 @@ def chat(i, file_name) -> bool:
     PROMPT = "write in detail about " + PROMPT
     start = time.perf_counter()
     print("User: " + PROMPT)
-
-    api_keys = ["***REMOVED***",
-                "***REMOVED***", "***REMOVED***"]
-
-    chatbot = Chatbot(api_key=random.choice(api_keys))
 
     response = chatbot.ask(PROMPT)
     print("ChatGPT: " + response["choices"][0]["text"])
@@ -66,7 +66,7 @@ def main():
             if __name__ == "__main__":
                 # Start chat
                 a = True
-                # a = False
+                a = False
 
                 if a:
                     m = 20
@@ -113,8 +113,11 @@ def main():
                                     return
                     chat(PROMPT, file_name)
 
-                with ThreadPoolExecutor(max_workers=m) as executor:
-                    executor.map(d, p)
+                # with ThreadPoolExecutor(max_workers=m) as executor:
+                #     executor.map(d, p)
+
+                for i in p:
+                    d(i)
 
 from r import remove
 

@@ -1,2 +1,0 @@
-### What is Regression Testing for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
-Regression testing is a type of software testing that verifies that changes made to the system (e.g. bug fixes, enhancements) have not introduced new bugs or impacted existing functionality. It involves re-running previously executed tests to ensure that the changes have not caused unintended consequences. Regression testing helps to maintain the stability and reliability of the system over time.
