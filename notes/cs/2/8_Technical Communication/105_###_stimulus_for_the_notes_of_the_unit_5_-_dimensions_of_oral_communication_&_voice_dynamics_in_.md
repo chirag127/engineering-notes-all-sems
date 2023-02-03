@@ -1,0 +1,7 @@
+### Stimulus for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+Stimulus is a term used to describe the external factors that influence the content and delivery of oral communication. In technical communication, stimuli can include the audience, the setting, the purpose of the communication, and the topic being discussed.
+
+Stimuli can have a significant impact on the content and delivery of oral communication, and technical communicators must be able to effectively respond to these stimuli in order to deliver an effective and engaging presentation. For example, the audience can influence the level of technical detail that is included in the presentation, and the setting can impact the use of visual aids and the tone of the presentation.
+
+In this unit, we will study the role of stimuli in technical communication, including the impact of the audience, setting, purpose, and topic on the content and delivery of oral communication. We will also examine the strategies for effectively responding to stimuli in technical communication, and explore the use of stimuli in various applications, such as technical writing, technical editing, and technical illustration. This will provide a foundation for understanding the principles and practices of technical communication, and for exploring the various applications of technical communication in the workplace.

@@ -1,0 +1,9 @@
+### Sampling Theory (Small and Large) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+
+Sampling theory is a branch of statistics that deals with the study of random samples and their properties. Sampling theory is used to make inferences about a population based on a sample of the population. There are two types of sampling theory: small-sample theory and large-sample theory.
+
+Small-sample theory deals with the properties of samples when the sample size is small, typically less than 30. In this case, the sample statistics, such as the sample mean and variance, are subject to large fluctuations and are not necessarily representative of the population. Small-sample theory is used to make inferences about the population based on small samples, and to determine the sample size needed to obtain a desired level of precision.
+
+Large-sample theory deals with the properties of samples when the sample size is large, typically greater than 30. In this case, the sample statistics are more representative of the population and are subject to smaller fluctuations. Large-sample theory is used to make inferences about the population based on large samples, and to determine the confidence intervals for population parameters.
+
+In this module, we will study the concepts of small-sample and large-sample theory, including the properties of sample statistics, the use of confidence intervals, and the methods for estimating population parameters. We will also examine the applications of sampling theory in various fields, such as survey research, quality control, and market research. This will provide a foundation for understanding the use of statistical techniques for making inferences about populations, and for exploring the various applications of statistical techniques in the field of mathematics and science.

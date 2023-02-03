@@ -1,0 +1,9 @@
+### Recovery with Concurrent Transaction for the notes of the Unit 5 - Concurrency Control Techniques in the subject of Database Management System
+
+Recovery with concurrent transactions is a technique used in database management systems to ensure the consistency and reliability of data when multiple transactions are executing simultaneously. It involves using concurrency control techniques to manage the access and modification of data in a database, and to ensure that the data remains consistent and accurate, even when multiple transactions are executing at the same time.
+
+In a database management system, multiple transactions can be executing simultaneously, and they can access and modify the same data at the same time. This can result in conflicts and data inconsistencies, and it is important to ensure that the data remains consistent and accurate, even when multiple transactions are executing at the same time.
+
+To ensure the consistency and reliability of data in a database management system, recovery with concurrent transactions involves using techniques such as locking, timestamping, and optimistic concurrency control. These techniques are used to manage the access and modification of data in a database, and to ensure that the data remains consistent and accurate, even when multiple transactions are executing at the same time.
+
+In this unit, you will learn about recovery with concurrent transactions, including the various techniques used to manage the access and modification of data in a database. You will also learn about the importance of concurrency control in ensuring the consistency and reliability of data in a database management system, and explore the various concepts and techniques used in database management systems. This will provide a foundation for understanding the principles and practices of concurrency control, and for exploring the various concepts and techniques used in database management systems.

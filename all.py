@@ -1,6 +1,5 @@
 # get all files in s folder
 
-import asyncio
 import os
 import random
 import time
@@ -58,7 +57,7 @@ def chat(i, file_name) -> bool:
     except Exception as error:
         print("Error: " + str(error))
 
-        sleep(20)
+        sleep(30)
         return False
 
     with open(file_name, "w") as f:

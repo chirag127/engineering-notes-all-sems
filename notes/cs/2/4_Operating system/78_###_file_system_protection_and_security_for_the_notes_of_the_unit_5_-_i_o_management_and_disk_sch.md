@@ -1,0 +1,9 @@
+### File system protection and security for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+
+File system protection and security is a critical aspect of operating systems, as it ensures that sensitive and confidential data is protected from unauthorized access, modification, or deletion. In order to provide protection and security, operating systems use a combination of access control mechanisms and encryption techniques to secure the file system.
+
+Access control mechanisms are used to control the access to files and directories, and can include permissions, access control lists, and capabilities. Permissions specify the actions that can be performed on a file or directory, such as read, write, and execute. Access control lists specify the users and groups that are allowed to access a file or directory, and the actions that they are allowed to perform. Capabilities specify the privileges that a process has with respect to a file or directory.
+
+Encryption is a technique that is used to secure data by converting it into an unreadable format, using a secret key. Encryption can be used to secure the contents of files and directories, as well as the metadata associated with files and directories.
+
+In this unit, we will study the concepts of file system protection and security, and examine the different access control mechanisms and encryption techniques used in operating systems. We will also study the trade-offs involved in choosing different protection and security mechanisms, and examine the performance and scalability of these mechanisms. This will provide a foundation for understanding the design and implementation of file system protection and security in operating systems, and for exploring the various approaches to ensuring the security and privacy of data in operating systems.

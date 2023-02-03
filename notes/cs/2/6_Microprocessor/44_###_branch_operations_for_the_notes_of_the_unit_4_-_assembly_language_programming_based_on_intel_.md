@@ -1,0 +1,11 @@
+### branch operations for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086. Instructions, data transfer, arithmetic, logic, branch operations, looping, counting, indexing, programming techniques, counters and time delays, stacks and subroutines, conditional call and return instructions in the subject of Microprocessor KCS
+
+Branch operations are a type of instruction in the instruction set of the 8085 and 8086 microprocessors that allow the program to change the flow of execution based on certain conditions. These instructions are used to implement control structures such as if-then-else statements, loops, and subroutines.
+
+Branch operations in the 8085 and 8086 microprocessors include unconditional branches, which always cause a change in the flow of execution, and conditional branches, which change the flow of execution only if a certain condition is met.
+
+Unconditional branches include the jump (JMP) instruction, which transfers control to a specified memory location, and the call (CALL) instruction, which transfers control to a subroutine. Conditional branches include the conditional jump (CJMP) instruction, which transfers control to a specified memory location if a certain condition is met, and the conditional call (CCALL) instruction, which transfers control to a subroutine if a certain condition is met.
+
+Branch operations are implemented using the program counter (PC) register, which holds the address of the next instruction to be executed. The PC register is updated by the execution unit when a branch instruction is executed, causing the flow of execution to change.
+
+In this unit, we will study the different types of branch operations in the 8085 and 8086 microprocessors, and examine the algorithms used to implement these instructions. We will also study the use of branch operations in assembly language programming, and examine the techniques used to implement control structures such as loops and subroutines. This will provide a foundation for understanding the design and implementation of algorithms for processing data with the 8085 and 8086 microprocessors, and for exploring the various applications of microprocessors in the field of microprocessor KCS.

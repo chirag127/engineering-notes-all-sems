@@ -1,2 +1,6 @@
 revchatgpt
 openai
+black
+ruff
+ruff
+pylint

@@ -1,0 +1,1 @@
+### interrupts for the notes of the Unit 1 - Microprocessor evolution and types, microprocessor architecture and operation of its components, addressing modes, interrupts, data transfer schemes, instruction and data flow, timer and timing diagram, Interfacing devices. in the subject of Microprocessor KCS

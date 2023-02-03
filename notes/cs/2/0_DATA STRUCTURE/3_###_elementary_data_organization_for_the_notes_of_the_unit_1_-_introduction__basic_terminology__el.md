@@ -1,0 +1,11 @@
+### Elementary Data Organization for the notes of the Unit 1 - Introduction: Basic Terminology, Elementary Data Organization, Built in Data Types in C. Algorithm, Efficiency of an Algorithm, Time and Space Complexity, Asymptotic notations: Big Oh, Big Theta and Big Omega, Time-Space trade-off. Abstract Data Types (ADT) in the subject of DATA STRUCTURE
+
+The topic of "Elementary Data Organization" is part of Unit 1 - Introduction: Basic Terminology, Elementary Data Organization, Built in Data Types in C. Algorithm, Efficiency of an Algorithm, Time and Space Complexity, Asymptotic notations: Big Oh, Big Theta and Big Omega, Time-Space trade-off. Abstract Data Types (ADT) in the subject of Data Structure. This unit covers the fundamental concepts and terminology of data structures and algorithms.
+
+Elementary data organization refers to the basic ways in which data can be organized in a computer system. The most common elementary data organizations include arrays, linked lists, stacks, and queues. These data organizations provide the basic building blocks for more complex data structures, such as trees and graphs.
+
+In the notes for Unit 1, the topic of elementary data organization is likely to be covered in detail, including the basic concepts, properties, and operations of arrays, linked lists, stacks, and queues. The notes may also cover the use of these data organizations in various applications, including data storage and retrieval, data processing, and data manipulation.
+
+The notes may also cover the implementation of these data organizations, including the use of algorithms and data structures to create and manage the data organizations. The notes may also cover the efficiency of these data organizations, including the time and space complexity of the algorithms used to implement them.
+
+Overall, the topic of elementary data organization is an important aspect of the subject of Data Structure and is likely to be covered in detail in the notes for Unit 1. By learning about elementary data organization, students and professionals will be equipped with the knowledge and skills they need to design and implement efficient and effective data structures for various applications.
