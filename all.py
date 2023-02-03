@@ -35,7 +35,6 @@ def myChatbot(api_key):
     return chatbot
 
 
-
 def chat(i, file_name) -> bool:
     PROMPT = i
 
@@ -55,8 +54,6 @@ def chat(i, file_name) -> bool:
     try:
         start = time.perf_counter()
         print("User: " + PROMPT)
-
-
 
         chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
         response = chatbot.ask(PROMPT)
@@ -153,13 +150,17 @@ def main(files):
 
                 # for i in p:
                 #     d(i)
+
     with ThreadPoolExecutor(max_workers=4) as executor:
         executor.map(main_2, files)
+
 
 if __name__ == "__main__":
     import glob
 
-    for i in range(100):
+    for i in range(10):
+
+        print(i)
         # get all files in p_s folder
         files = glob.glob("p_s/**/*.txt", recursive=True)
 

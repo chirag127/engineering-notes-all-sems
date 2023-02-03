@@ -23,8 +23,6 @@ def main(file_name):
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
 
-
-
     titles = []
 
     for i in range(len(syllables)):
@@ -44,7 +42,6 @@ def main(file_name):
         if titles[i] not in unduplicate_titles:
             unduplicate_titles.append(titles[i])
             unduplicate_syllables.append(syllables[i])
-
 
     titles = unduplicate_titles
     syllables = unduplicate_syllables
