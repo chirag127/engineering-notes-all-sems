@@ -148,7 +148,7 @@ def main(files):
 if __name__ == "__main__":
     import glob
 
-    for i in range(1):
+    for i in range(1000):
         # get all files in p_s folder
         files = glob.glob("p_s/**/*.txt", recursive=True)
 
