@@ -1,0 +1,3 @@
+### 3. Engineering Physics Practical- S K Gupta ( Krishna Prakashan Meerut)
+
+"Engineering Physics Practical" by S K Gupta is a textbook that focuses on the practical applications of physics in engineering. It covers various topics such as mechanics, thermodynamics, electromagnetism, optics, and modern physics. The book is designed to provide hands-on experience to students in performing experiments and analyzing data, which is essential for engineering students. The book is published by Krishna Prakashan Meerut, a well-known publisher of academic and technical books. The book is widely used as a reference for engineering students and is considered to be a comprehensive guide for students who want to gain a deeper understanding of the practical aspects of physics.

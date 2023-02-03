@@ -43,7 +43,7 @@ def chat(i, file_name) -> bool:
         print("No space in prompt")
         print(error)
 
-    PROMPT = "write in detail as long as for you possible about " + PROMPT
+    PROMPT = "write in detail as long as possible for you about " + PROMPT
 
     try:
         start = time.perf_counter()

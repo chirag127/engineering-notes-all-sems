@@ -1,0 +1,3 @@
+##### 9. To determine the coefficient of viscosity of a given liquid.
+
+To determine the coefficient of viscosity of a liquid, you can perform a viscometer experiment. The most common method is to use a rotational viscometer, which measures the torque required to rotate a disk in the liquid. The viscosity is then calculated from the torque and the rotational speed. Another method is to use a falling ball viscometer, which measures the time it takes for a ball to fall a certain distance through the liquid. The viscosity is then calculated from the time and the diameter of the ball. The results of these experiments can be used to determine the viscosity of the liquid at different temperatures and shear rates.

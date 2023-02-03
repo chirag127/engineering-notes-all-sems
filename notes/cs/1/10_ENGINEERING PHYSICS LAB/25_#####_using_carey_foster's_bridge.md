@@ -1,0 +1,3 @@
+##### using Carey Foster's Bridge.
+
+Carey Foster's Bridge is a device used to measure electrical resistance. It consists of four arms, each with a different resistance, that are connected in a bridge configuration. The device is used by connecting a known voltage across the bridge and measuring the current through the unknown resistance. The resistance can then be calculated using Ohm's law. The bridge is useful for measuring small resistances, as it can cancel out the resistance of the connecting wires. This makes it especially useful in electrical and electronics applications. The bridge is simple to use and can be built using inexpensive components.
