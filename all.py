@@ -43,7 +43,7 @@ def chat(i, file_name) -> bool:
         print("No space in prompt")
         print(error)
 
-    PROMPT = "write in detail about " + PROMPT
+    PROMPT = "write in detail as long as for you possible about " + PROMPT
 
     try:
         start = time.perf_counter()
@@ -58,7 +58,7 @@ def chat(i, file_name) -> bool:
     except Exception as error:
         print("Error: " + str(error))
 
-        sleep(10)
+        sleep(20)
         return False
 
     with open(file_name, "w") as f:
@@ -92,7 +92,7 @@ def main(files):
                 # a = False
 
                 if a:
-                    m = 6
+                    m = 10
                 else:
                     m = 1
 
