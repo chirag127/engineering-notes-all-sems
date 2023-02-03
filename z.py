@@ -4,8 +4,8 @@ import os
 
 sem = "2"
 
-def main(sem):
 
+def main(sem):
     for folder in glob.glob(f"notes/cs/{sem}/*"):
         if os.path.isdir(folder):
             print(folder)

@@ -1,6 +1,7 @@
-import os
-import openai
 import glob
+import os
+
+import openai
 
 
 def main(file_name):
@@ -22,6 +23,8 @@ def main(file_name):
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
 
+
+
     titles = []
 
     for i in range(len(syllables)):
@@ -33,6 +36,18 @@ def main(file_name):
     titles = [i.replace("(", "") for i in titles]
 
     titles = [i.strip() for i in titles]
+
+    # remove title and syllable if title is duplicate
+    unduplicate_titles = []
+    unduplicate_syllables = []
+    for i in range(len(titles)):
+        if titles[i] not in unduplicate_titles:
+            unduplicate_titles.append(titles[i])
+            unduplicate_syllables.append(syllables[i])
+
+
+    titles = unduplicate_titles
+    syllables = unduplicate_syllables
 
     print(titles)
     openai.api_key = "***REMOVED***"
@@ -61,7 +76,12 @@ def main(file_name):
             )
 
             with open(file_of_syllable, "w") as f:
-                f.write(response["choices"][0]["text"].strip())
+                f.write(
+                    "# "
+                    + titles[syllables.index(syllable)]
+                    + "\n"
+                    + response["choices"][0]["text"].strip()
+                )
     except Exception as e:
         print(e)
         pass
@@ -75,4 +95,5 @@ if __name__ == "__main__":
         for file in files:
             if os.path.isfile(file):
                 main(file)
+                print(file)
                 print(file)

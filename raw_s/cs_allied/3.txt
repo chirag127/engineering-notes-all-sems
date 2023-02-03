@@ -1,0 +1,1822 @@
+
+ARTIFICIAL INTELLIGENCE KCS
+
+I
+INTRODUCTION :
+Introduction–Definition – Future of Artificial Intelligence – Characteristics of Intelligent Agents–
+Typical Intelligent Agents – Problem Solving Approach to Typical AI problems.
+08
+II
+PROBLEM SOLVING METHODS
+Problem solving Methods – Search Strategies- Uninformed – Informed – Heuristics – Local Search
+Algorithms and Optimization Problems – Searching with Partial Observations – Constraint
+Satisfaction Problems – Constraint Propagation – Backtracking Search – Game Playing – Optimal
+Decisions in Games – Alpha – Beta Pruning – Stochastic Games
+08
+III
+KNOWLEDGE REPRESENTATION
+First Order Predicate Logic – Prolog Programming – Unification – Forward Chaining-Backward
+Chaining – Resolution – Knowledge Representation – Ontological Engineering-Categories and
+Objects – Events – Mental Events and Mental Objects – Reasoning Systems for Categories –
+Reasoning with Default Information
+08
+IV
+SOFTWARE AGENTS
+Architecture for Intelligent Agents – Agent communication – Negotiation and Bargaining –
+Argumentation among Agents – Trust and Reputation in Multi-agent systems.
+08
+V
+APPLICATIONS
+AI applications – Language Models – Information Retrieval- Information Extraction – Natural
+Language Processing – Machine Translation – Speech Recognition – Robot – Hardware –
+Perception – Planning – Moving
+08
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION  KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to understand
+CO 1 Describe the life cycle phases of Data Analytics through discovery, planning and
+building.
+K3
+CO 2 Understand and apply Data Analysis Techniques. K3, K4
+CO 3 Implement various Data streams. K2, K3
+CO 4 Understand item sets, Clustering, frame works & Visualizations. K2, K4
+CO 5 Understand the Data Visualizations & Human Vision K2, K3
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction to Data Analytics: Sources and nature of data, classification of data
+(structured, semi-structured, unstructured), characteristics of data, introduction to Big Data
+platform, need of data analytics, evolution of analytic scalability, analytic process and
+tools, analysis vs reporting, modern data analytic tools, applications of data analytics.
+Data Analytics Lifecycle: Need, key roles for successful analytic projects, various phases
+of data analytics lifecycle – discovery, data preparation, model planning, model building,
+communicating results, operationalization.
+08
+II
+Data Analysis: Regression modeling, multivariate analysis, Bayesian modeling, inference
+and Bayesian networks, support vector and kernel methods, analysis of time series: linear
+systems analysis & nonlinear dynamics, rule induction, neural networks: learning and
+generalisation, competitive learning, principal component analysis and neural networks,
+fuzzy logic: extracting fuzzy models from data, fuzzy decision trees, stochastic search
+methods.
+08
+III
+Mining Data Streams: Introduction to streams concepts, stream data model and
+architecture, stream computing, sampling data in a stream, filtering streams, counting
+distinct elements in a stream, estimating moments, counting oneness in a window,
+decaying window, Real-time Analytics Platform ( RTAP) applications, Case studies – real
+time sentiment analysis, stock market predictions.
+08
+IV
+Frequent Itemsets and Clustering: Mining frequent itemsets, market based modelling,
+Apriori algorithm, handling large data sets in main memory, limited pass algorithm,
+counting frequent itemsets in a stream, clustering techniques: hierarchical, K-means,
+clustering high dimensional data, CLIQUE and ProCLUS, frequent pattern based clustering
+methods, clustering in non-euclidean space, clustering for streams and parallelism.
+08
+V
+Introduction to Visualization and Stages – Computational Support – Issues – Different
+Types of Tasks – Data representation – Limitation: Display Space- Rendering Time –
+Navigation Links.
+Human Vision – Space Limitation – Time Limitations – Design – Exploration of Complex
+Information Space – Figure Caption in Visual Interface – Visual Objects and Data Objects
+-Space Perception and Data in Space – Images, Narrative and Gestures for Explanation.
+08
+Text books:
+1. Michael Berthold, David J. Hand, Intelligent Data Analysis, Springer
+2. Anand Rajaraman and Jeffrey David Ullman, Mining of Massive Datasets, Cambridge University Press.
+3. Bill Franks, Taming the Big Data Tidal wave: Finding Opportunities in Huge Data Streams with Advanced
+Analytics, John Wiley & Sons.
+4. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data, Big Analytics: Emerging Business
+Intelligence and Analytic Trends for Today's Businesses", Wiley
+5. David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big Data Analytics”, EMC Education Series,
+John Wiley
+6. Frank J Ohlhorst, “Big Data Analytics: Turning Big Data into Big Money”, Wiley and SAS Business Series
+7. Colleen Mccue, “Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis”,
+Elsevier
+8. Anil Maheshwari, “Data Analytics”, McGraw Hill Education
+9. Paul Zikopoulos, Chris Eaton, Paul Zikopoulos, “Understanding Big Data: Analytics for Enterprise Class
+Hadoop and Streaming Data”, McGraw Hill
+10. Trevor Hastie, Robert Tibshirani, Jerome Friedman, "The Elements of Statistical Learning", Springer
+11. Mark Gardner, “Beginning R: The Statistical Programming Language”, Wrox Publication
+12. Pete Warden, Big Data Glossary, O’Reilly
+13. Glenn J. Myatt, Making Sense of Data, John Wiley & Sons
+14. Pete Warden, Big Data Glossary, O’Reilly.
+15. Peter Bühlmann, Petros Drineas, Michael Kane, Mark van der Laan, "Handbook of Big Data", CRC Press
+16. Jiawei Han, Micheline Kamber “Data Mining Concepts and Techniques”, Second Edition, ElsevierRobert
+Spence, “Information Visualization Design for Interaction”, Second Edition, Pearson Education, 2006.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1
+Understand and apply the probability distributions, random number generation and density
+estimations to perform analysis of various kinds of data
+K2, K4, K6
+CO 2
+Understand and manipulate data, design and perform simple Monte Carlo experiments, and be
+able to use resampling methods
+K5, K6
+CO 3 Perform statistical analysis on variety of data K2, K5
+CO 4 Perform appropriate statistical tests using R and visualize the outcome K2, K4
+CO 5
+Discuss the results obtained from their analyses after creating customized graphical and
+numerical summaries
+K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Descriptive Statistics: Diagrammatic representation of data, measures of central tendency, measures
+of dispersion, measures of skewness and kurtosis, correlation, inference procedure for correlation
+coefficient, bivariate correlation, multiple correlations, linear regression and its inference procedure,
+multiple regression.
+Probability: Measures of probability, conditional probability, independent event, Bayes’ theorem,
+random variable, discrete and continuous probability distributions, expectation and variance, markov
+inequality, chebyshev’s inequality, central limit theorem.
+08
+II
+Inferential Statistics: Sampling & Confidence Interval, Inference & Significance. Estimation and
+Hypothesis Testing, Goodness of fit, Test of Independence, Permutations and Randomization Test, ttest/z-test (one sample, independent, paired), ANOVA, chi-square.
+Linear Methods for Regression Analysis: multiple regression analysis, orthogonalization by
+Householder transformations (QR); singular value decomposition (SVD); linear dimension reduction
+using principal component analysis (PCA).
+08
+III
+Pseudo-Random Numbers: Random number generation, Inverse-transform, acceptance-rejection,
+transformations, multivariate probability calculations.
+Monte Carlo Integration: Simulation and Monte Carlo integration, variance reduction, Monte Carlo
+hypothesis testing, antithetic variables/control variates, importance sampling, stratified sampling
+Markov chain Monte Carlo (McMC): Markov chains; Metropolis-Hastings algorithm; Gibbs
+sampling; convergence
+08
+IV
+Vector Spaces- Vector Space, Subspace , Linear Combination, Linear Independence, Basis,
+Dimension, Finding a Basis of a Vector Space , Coordinates, Change of Basis
+Inner Product Spaces- Inner Product, Length, Orthogonal Vectors, Triangle Inequality, CauchySchwarz Inequality, Orthonormal (Orthogonal) Basis, Gram-Schmidt Process
+08
+V
+Linear Transformations- Linear Transformations and Matrices for Linear Transformation, Kernel
+and Range of a Linear Transformations, Change of Basis
+Eigenvalues and Eigenvectors- Definition of Eigenvalue and Eigenvector, Diagonalization ,
+Symmetric Matrices and Orthogonal Diagonalization
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+BUSINESS INTELLIGENCE AND ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the essentials of BI & data analytics and the corresponding
+terminologies
+K2
+CO 2 Analyze the steps involved in the BI - Analytics process K3, K4
+CO 3 Illustrate competently on the topic of analytics K2, K3
+CO 4 Understand & Implement the K-Means Clustering with Iris Dataset K2, K3
+CO 5 Demonstrate the real time scenario (Case study) by using BI & Analytics
+techniques
+K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+BUSINESS INTELLIGENCE – INTRODUCTION: Introduction - History and Evolution:
+Effective and Timely decisions, Data Information and Knowledge,
+Architectural Representation, Role of mathematical Models, Real Time Business Intelligent
+System.
+8
+II
+BI – DATA MINING & WAREHOUSING:Data Mining - Introduction to Data Mining,
+Architecture of Data Mining and How Data mining
+works(Process) , Functionalities & Classifications of Data Mining, Representation of Input
+Data, Analysis Methodologies.
+Data Warehousing - Introduction to Data Warehousing, Data Mart, Online Analytical
+Processing (OLAP) – Tools, Data Modelling, Difference between OLAP and OLTP, Schema –
+Star and Snowflake Schemas, ETL Process – Role of ETL
+8
+III
+BI – DATA PREPARTTION: Data Validation - Introduction to Data Validation, Data
+Transformation – Standardization and Feature Extraction, Data Reduction – Sampling,
+Selection, PCA, Data Discretization
+8
+IV
+BI – DATA ANALYTICS PROCESS - Introduction to analytics process, Types of Analytical
+Techniques in BI –Descriptive, Predictive, Perspective, Social Media Analytics, Behavioral,
+Iris Datasets
+8
+V
+IMPLEMENTATION OF BI – Business Activity Monitoring, Complex Event Processing,
+Business Process Management, Metadata, Root Cause Analysis. 8
+Text Books:
+1. Carlo-Vercellis, “Business Intelligence Data Mining and Optimization for Decision-Making”, First Edition
+2. Drew Bentely, “Business Intelligence and Analytics” ,@2017 Library Pres., ISBN: 978-1-9789-2136-8
+3. Larissa T. Moss & Shaku Atre, “Business Intelligence Roadmap: The Complete Project Lifecycle
+4. For Decision-Support Applications”, First Edition, Addison-Wesley Professional,2003
+5. Kimball, R., Ross, M., Thornthwaite, W., Mundy, J., and Becker, B. John, “The Data Warehouse
+6. Lifecycle Toolkit: Practical Techniques for Building Data Warehouse and Business Intelligence
+Systems”, Second Edition, Wiley & Sons, 2008.
+7. Cindi Howson, “Successful Business Intelligence”, Second Edition, McGraw-Hill Education, 2013.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+DISTRIBUTED SYSTEM KCS
+I
+Characterization of Distributed Systems: Introduction, Examples of distributed Systems, Resource
+sharing and the Web Challenges. Architectural models, Fundamental Models. Theoretical
+Foundation for Distributed System: Limitation of Distributed system, absence of global clock, shared
+memory, Logical clocks ,Lamport’s & vectors logical clocks. Concepts in Message Passing Systems:
+causal order, total order, total causal order, Techniques for Message Ordering, Causal ordering of
+messages, global state, termination detection.
+08
+II
+Distributed Mutual Exclusion: Classification of distributed mutual exclusion, requirement of
+mutual exclusion theorem, Token based and non token based algorithms, performance metric for
+distributed mutual exclusion algorithms. Distributed Deadlock Detection: system model, resource Vs
+communication deadlocks, deadlock prevention, avoidance, detection & resolution, centralized dead
+lock detection, distributed dead lock detection, path pushing algorithms, edge chasing algorithms.
+08
+III
+Agreement Protocols: Introduction, System models, classification of Agreement Problem,
+Byzantine agreement problem, Consensus problem, Interactive consistency Problem, Solution to
+Byzantine Agreement problem, Application of Agreement problem, Atomic Commit in Distributed
+Database system. Distributed Resource Management: Issues in distributed File Systems, Mechanism
+for building distributed file systems, Design issues in Distributed Shared Memory, Algorithm for
+Implementation of Distributed Shared Memory.
+08
+IV
+Failure Recovery in Distributed Systems: Concepts in Backward and Forward recovery, Recovery in
+Concurrent systems, Obtaining consistent Checkpoints, Recovery in Distributed Database Systems.
+Fault Tolerance: Issues in Fault Tolerance, Commit Protocols, Voting protocols, Dynamic voting
+protocols
+08
+V
+Transactions and Concurrency Control: Transactions, Nested transactions, Locks, Optimistic
+Concurrency control, Timestamp ordering, Comparison of methods for concurrency control.
+Distributed Transactions: Flat and nested distributed transactions, Atomic Commit protocols,
+Concurrency control in distributed transactions, Distributed deadlocks, Transaction recovery.
+Replication: System model and group communication, Fault – tolerant services, highly available
+services, Transactions with replicated data.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+ARTIFICIAL INTELLIGENCE KCS
+
+I
+INTRODUCTION :
+Introduction–Definition – Future of Artificial Intelligence – Characteristics of Intelligent Agents–
+Typical Intelligent Agents – Problem Solving Approach to Typical AI problems.
+08
+II
+PROBLEM SOLVING METHODS
+Problem solving Methods – Search Strategies- Uninformed – Informed – Heuristics – Local Search
+Algorithms and Optimization Problems – Searching with Partial Observations – Constraint
+Satisfaction Problems – Constraint Propagation – Backtracking Search – Game Playing – Optimal
+Decisions in Games – Alpha – Beta Pruning – Stochastic Games
+08
+III
+KNOWLEDGE REPRESENTATION
+First Order Predicate Logic – Prolog Programming – Unification – Forward Chaining-Backward
+Chaining – Resolution – Knowledge Representation – Ontological Engineering-Categories and
+Objects – Events – Mental Events and Mental Objects – Reasoning Systems for Categories –
+Reasoning with Default Information
+08
+IV
+SOFTWARE AGENTS
+Architecture for Intelligent Agents – Agent communication – Negotiation and Bargaining –
+Argumentation among Agents – Trust and Reputation in Multi-agent systems.
+08
+V
+APPLICATIONS
+AI applications – Language Models – Information Retrieval- Information Extraction – Natural
+Language Processing – Machine Translation – Speech Recognition – Robot – Hardware –
+Perception – Planning – Moving
+08
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION  KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to understand
+CO 1 Describe the life cycle phases of Data Analytics through discovery, planning and
+building.
+K3
+CO 2 Understand and apply Data Analysis Techniques. K3, K4
+CO 3 Implement various Data streams. K2, K3
+CO 4 Understand item sets, Clustering, frame works & Visualizations. K2, K4
+CO 5 Understand the Data Visualizations & Human Vision K2, K3
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction to Data Analytics: Sources and nature of data, classification of data
+(structured, semi-structured, unstructured), characteristics of data, introduction to Big Data
+platform, need of data analytics, evolution of analytic scalability, analytic process and
+tools, analysis vs reporting, modern data analytic tools, applications of data analytics.
+Data Analytics Lifecycle: Need, key roles for successful analytic projects, various phases
+of data analytics lifecycle – discovery, data preparation, model planning, model building,
+communicating results, operationalization.
+08
+II
+Data Analysis: Regression modeling, multivariate analysis, Bayesian modeling, inference
+and Bayesian networks, support vector and kernel methods, analysis of time series: linear
+systems analysis & nonlinear dynamics, rule induction, neural networks: learning and
+generalisation, competitive learning, principal component analysis and neural networks,
+fuzzy logic: extracting fuzzy models from data, fuzzy decision trees, stochastic search
+methods.
+08
+III
+Mining Data Streams: Introduction to streams concepts, stream data model and
+architecture, stream computing, sampling data in a stream, filtering streams, counting
+distinct elements in a stream, estimating moments, counting oneness in a window,
+decaying window, Real-time Analytics Platform ( RTAP) applications, Case studies – real
+time sentiment analysis, stock market predictions.
+08
+IV
+Frequent Itemsets and Clustering: Mining frequent itemsets, market based modelling,
+Apriori algorithm, handling large data sets in main memory, limited pass algorithm,
+counting frequent itemsets in a stream, clustering techniques: hierarchical, K-means,
+clustering high dimensional data, CLIQUE and ProCLUS, frequent pattern based clustering
+methods, clustering in non-euclidean space, clustering for streams and parallelism.
+08
+V
+Introduction to Visualization and Stages – Computational Support – Issues – Different
+Types of Tasks – Data representation – Limitation: Display Space- Rendering Time –
+Navigation Links.
+Human Vision – Space Limitation – Time Limitations – Design – Exploration of Complex
+Information Space – Figure Caption in Visual Interface – Visual Objects and Data Objects
+-Space Perception and Data in Space – Images, Narrative and Gestures for Explanation.
+08
+Text books:
+1. Michael Berthold, David J. Hand, Intelligent Data Analysis, Springer
+2. Anand Rajaraman and Jeffrey David Ullman, Mining of Massive Datasets, Cambridge University Press.
+3. Bill Franks, Taming the Big Data Tidal wave: Finding Opportunities in Huge Data Streams with Advanced
+Analytics, John Wiley & Sons.
+4. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data, Big Analytics: Emerging Business
+Intelligence and Analytic Trends for Today's Businesses", Wiley
+5. David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big Data Analytics”, EMC Education Series,
+John Wiley
+6. Frank J Ohlhorst, “Big Data Analytics: Turning Big Data into Big Money”, Wiley and SAS Business Series
+7. Colleen Mccue, “Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis”,
+Elsevier
+8. Anil Maheshwari, “Data Analytics”, McGraw Hill Education
+9. Paul Zikopoulos, Chris Eaton, Paul Zikopoulos, “Understanding Big Data: Analytics for Enterprise Class
+Hadoop and Streaming Data”, McGraw Hill
+10. Trevor Hastie, Robert Tibshirani, Jerome Friedman, "The Elements of Statistical Learning", Springer
+11. Mark Gardner, “Beginning R: The Statistical Programming Language”, Wrox Publication
+12. Pete Warden, Big Data Glossary, O’Reilly
+13. Glenn J. Myatt, Making Sense of Data, John Wiley & Sons
+14. Pete Warden, Big Data Glossary, O’Reilly.
+15. Peter Bühlmann, Petros Drineas, Michael Kane, Mark van der Laan, "Handbook of Big Data", CRC Press
+16. Jiawei Han, Micheline Kamber “Data Mining Concepts and Techniques”, Second Edition, ElsevierRobert
+Spence, “Information Visualization Design for Interaction”, Second Edition, Pearson Education, 2006.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1
+Understand and apply the probability distributions, random number generation and density
+estimations to perform analysis of various kinds of data
+K2, K4, K6
+CO 2
+Understand and manipulate data, design and perform simple Monte Carlo experiments, and be
+able to use resampling methods
+K5, K6
+CO 3 Perform statistical analysis on variety of data K2, K5
+CO 4 Perform appropriate statistical tests using R and visualize the outcome K2, K4
+CO 5
+Discuss the results obtained from their analyses after creating customized graphical and
+numerical summaries
+K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Descriptive Statistics: Diagrammatic representation of data, measures of central tendency, measures
+of dispersion, measures of skewness and kurtosis, correlation, inference procedure for correlation
+coefficient, bivariate correlation, multiple correlations, linear regression and its inference procedure,
+multiple regression.
+Probability: Measures of probability, conditional probability, independent event, Bayes’ theorem,
+random variable, discrete and continuous probability distributions, expectation and variance, markov
+inequality, chebyshev’s inequality, central limit theorem.
+08
+II
+Inferential Statistics: Sampling & Confidence Interval, Inference & Significance. Estimation and
+Hypothesis Testing, Goodness of fit, Test of Independence, Permutations and Randomization Test, ttest/z-test (one sample, independent, paired), ANOVA, chi-square.
+Linear Methods for Regression Analysis: multiple regression analysis, orthogonalization by
+Householder transformations (QR); singular value decomposition (SVD); linear dimension reduction
+using principal component analysis (PCA).
+08
+III
+Pseudo-Random Numbers: Random number generation, Inverse-transform, acceptance-rejection,
+transformations, multivariate probability calculations.
+Monte Carlo Integration: Simulation and Monte Carlo integration, variance reduction, Monte Carlo
+hypothesis testing, antithetic variables/control variates, importance sampling, stratified sampling
+Markov chain Monte Carlo (McMC): Markov chains; Metropolis-Hastings algorithm; Gibbs
+sampling; convergence
+08
+IV
+Vector Spaces- Vector Space, Subspace , Linear Combination, Linear Independence, Basis,
+Dimension, Finding a Basis of a Vector Space , Coordinates, Change of Basis
+Inner Product Spaces- Inner Product, Length, Orthogonal Vectors, Triangle Inequality, CauchySchwarz Inequality, Orthonormal (Orthogonal) Basis, Gram-Schmidt Process
+08
+V
+Linear Transformations- Linear Transformations and Matrices for Linear Transformation, Kernel
+and Range of a Linear Transformations, Change of Basis
+Eigenvalues and Eigenvectors- Definition of Eigenvalue and Eigenvector, Diagonalization ,
+Symmetric Matrices and Orthogonal Diagonalization
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+BUSINESS INTELLIGENCE AND ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the essentials of BI & data analytics and the corresponding
+terminologies
+K2
+CO 2 Analyze the steps involved in the BI - Analytics process K3, K4
+CO 3 Illustrate competently on the topic of analytics K2, K3
+CO 4 Understand & Implement the K-Means Clustering with Iris Dataset K2, K3
+CO 5 Demonstrate the real time scenario (Case study) by using BI & Analytics
+techniques
+K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+BUSINESS INTELLIGENCE – INTRODUCTION: Introduction - History and Evolution:
+Effective and Timely decisions, Data Information and Knowledge,
+Architectural Representation, Role of mathematical Models, Real Time Business Intelligent
+System.
+8
+II
+BI – DATA MINING & WAREHOUSING:Data Mining - Introduction to Data Mining,
+Architecture of Data Mining and How Data mining
+works(Process) , Functionalities & Classifications of Data Mining, Representation of Input
+Data, Analysis Methodologies.
+Data Warehousing - Introduction to Data Warehousing, Data Mart, Online Analytical
+Processing (OLAP) – Tools, Data Modelling, Difference between OLAP and OLTP, Schema –
+Star and Snowflake Schemas, ETL Process – Role of ETL
+8
+III
+BI – DATA PREPARTTION: Data Validation - Introduction to Data Validation, Data
+Transformation – Standardization and Feature Extraction, Data Reduction – Sampling,
+Selection, PCA, Data Discretization
+8
+IV
+BI – DATA ANALYTICS PROCESS - Introduction to analytics process, Types of Analytical
+Techniques in BI –Descriptive, Predictive, Perspective, Social Media Analytics, Behavioral,
+Iris Datasets
+8
+V
+IMPLEMENTATION OF BI – Business Activity Monitoring, Complex Event Processing,
+Business Process Management, Metadata, Root Cause Analysis. 8
+Text Books:
+1. Carlo-Vercellis, “Business Intelligence Data Mining and Optimization for Decision-Making”, First Edition
+2. Drew Bentely, “Business Intelligence and Analytics” ,@2017 Library Pres., ISBN: 978-1-9789-2136-8
+3. Larissa T. Moss & Shaku Atre, “Business Intelligence Roadmap: The Complete Project Lifecycle
+4. For Decision-Support Applications”, First Edition, Addison-Wesley Professional,2003
+5. Kimball, R., Ross, M., Thornthwaite, W., Mundy, J., and Becker, B. John, “The Data Warehouse
+6. Lifecycle Toolkit: Practical Techniques for Building Data Warehouse and Business Intelligence
+Systems”, Second Edition, Wiley & Sons, 2008.
+7. Cindi Howson, “Successful Business Intelligence”, Second Edition, McGraw-Hill Education, 2013.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+APPLICATION OF SOFT COMPUTING TECHNIQUES KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to :
+CO 1 Recognize the feasibility of applying a soft computing methodology for a particular problem K2, K4
+CO 2
+Understand the concepts and techniques of soft computing and foster their abilities in designing
+and implementing soft computing based solutions for real-world and engineering problems.
+K2,K4, K6
+CO 3
+Apply neural networks to pattern classification and regression problems and compare
+solutions by various soft computing approaches for a given problem.
+K3, K5
+CO 4 Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems K3, K4
+CO 5 Apply genetic algorithms to combinatorial optimization problems K3, K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Neural Networks-I (Introduction & Architecture) : Neuron, Nerve structure and synapse,
+Artificial Neuron and its model, activation functions, Neural network architecture: single layer and
+multilayer feed forward networks, recurrent networks. Various learning techniques; perception and
+convergence rule, Auto-associative and hetro-associative memory.
+08
+II
+Neural Networks-II (Back propagation networks): Architecture: perceptron model, solution,
+single layer artificial neural network, multilayer perception model; back propagation learning
+methods, effect of learning rule co-efficient ;back propagation algorithm, factors affecting
+backpropagation training, applications.
+08
+III Fuzzy Logic-I (Introduction): Basic concepts of fuzzy logic, Fuzzy sets and Crisp sets, Fuzzy set
+theory and operations, Properties of fuzzy sets, Fuzzy and Crisp relations, Fuzzy to Crisp
+conversion.
+08
+IV Fuzzy Logic –II (Fuzzy Membership, Rules) : Membership functions, interference in fuzzy logic,
+fuzzy if-then rules, Fuzzy implications and Fuzzy algorithms, Fuzzyfications & Defuzzificataions,
+Fuzzy Controller, Industrial applications
+08
+V Genetic Algorithm(GA): Basic concepts, working principle, procedures of GA, flow chart of GA,
+Genetic representations, (encoding) Initialization and selection, Genetic operators, Mutation,
+Generational Cycle, applications.
+08
+Text books:
+1. S. Rajsekaran & G.A. Vijayalakshmi Pai, “Neural Networks,Fuzzy Logic and Genetic Algorithm:Synthesis and
+Applications” Prentice Hall of India.
+2. N.P.Padhy,”Artificial Intelligence and Intelligent Systems” Oxford University Press. Reference Books:
+3. Siman Haykin,”Neural Networks”Prentice Hall of India
+4. Saroj Kaushik, Sunita Tiwari, “Soft Computing: Fundamentals, Techniques and Applications”, McGraw Hill
+Education
+5. Timothy J. Ross, “Fuzzy Logic with Engineering Applications” Wiley India.
+6. Kumar Satish, “Neural Networks” Tata Mc Graw Hill
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+ARTIFICIAL INTELLIGENCE KCS
+
+I
+INTRODUCTION :
+Introduction–Definition – Future of Artificial Intelligence – Characteristics of Intelligent Agents–
+Typical Intelligent Agents – Problem Solving Approach to Typical AI problems.
+08
+II
+PROBLEM SOLVING METHODS
+Problem solving Methods – Search Strategies- Uninformed – Informed – Heuristics – Local Search
+Algorithms and Optimization Problems – Searching with Partial Observations – Constraint
+Satisfaction Problems – Constraint Propagation – Backtracking Search – Game Playing – Optimal
+Decisions in Games – Alpha – Beta Pruning – Stochastic Games
+08
+III
+KNOWLEDGE REPRESENTATION
+First Order Predicate Logic – Prolog Programming – Unification – Forward Chaining-Backward
+Chaining – Resolution – Knowledge Representation – Ontological Engineering-Categories and
+Objects – Events – Mental Events and Mental Objects – Reasoning Systems for Categories –
+Reasoning with Default Information
+08
+IV
+SOFTWARE AGENTS
+Architecture for Intelligent Agents – Agent communication – Negotiation and Bargaining –
+Argumentation among Agents – Trust and Reputation in Multi-agent systems.
+08
+V
+APPLICATIONS
+AI applications – Language Models – Information Retrieval- Information Extraction – Natural
+Language Processing – Machine Translation – Speech Recognition – Robot – Hardware –
+Perception – Planning – Moving
+08
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION  KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to understand
+CO 1 Describe the life cycle phases of Data Analytics through discovery, planning and
+building.
+K3
+CO 2 Understand and apply Data Analysis Techniques. K3, K4
+CO 3 Implement various Data streams. K2, K3
+CO 4 Understand item sets, Clustering, frame works & Visualizations. K2, K4
+CO 5 Understand the Data Visualizations & Human Vision K2, K3
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction to Data Analytics: Sources and nature of data, classification of data
+(structured, semi-structured, unstructured), characteristics of data, introduction to Big Data
+platform, need of data analytics, evolution of analytic scalability, analytic process and
+tools, analysis vs reporting, modern data analytic tools, applications of data analytics.
+Data Analytics Lifecycle: Need, key roles for successful analytic projects, various phases
+of data analytics lifecycle – discovery, data preparation, model planning, model building,
+communicating results, operationalization.
+08
+II
+Data Analysis: Regression modeling, multivariate analysis, Bayesian modeling, inference
+and Bayesian networks, support vector and kernel methods, analysis of time series: linear
+systems analysis & nonlinear dynamics, rule induction, neural networks: learning and
+generalisation, competitive learning, principal component analysis and neural networks,
+fuzzy logic: extracting fuzzy models from data, fuzzy decision trees, stochastic search
+methods.
+08
+III
+Mining Data Streams: Introduction to streams concepts, stream data model and
+architecture, stream computing, sampling data in a stream, filtering streams, counting
+distinct elements in a stream, estimating moments, counting oneness in a window,
+decaying window, Real-time Analytics Platform ( RTAP) applications, Case studies – real
+time sentiment analysis, stock market predictions.
+08
+IV
+Frequent Itemsets and Clustering: Mining frequent itemsets, market based modelling,
+Apriori algorithm, handling large data sets in main memory, limited pass algorithm,
+counting frequent itemsets in a stream, clustering techniques: hierarchical, K-means,
+clustering high dimensional data, CLIQUE and ProCLUS, frequent pattern based clustering
+methods, clustering in non-euclidean space, clustering for streams and parallelism.
+08
+V
+Introduction to Visualization and Stages – Computational Support – Issues – Different
+Types of Tasks – Data representation – Limitation: Display Space- Rendering Time –
+Navigation Links.
+Human Vision – Space Limitation – Time Limitations – Design – Exploration of Complex
+Information Space – Figure Caption in Visual Interface – Visual Objects and Data Objects
+-Space Perception and Data in Space – Images, Narrative and Gestures for Explanation.
+08
+Text books:
+1. Michael Berthold, David J. Hand, Intelligent Data Analysis, Springer
+2. Anand Rajaraman and Jeffrey David Ullman, Mining of Massive Datasets, Cambridge University Press.
+3. Bill Franks, Taming the Big Data Tidal wave: Finding Opportunities in Huge Data Streams with Advanced
+Analytics, John Wiley & Sons.
+4. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data, Big Analytics: Emerging Business
+Intelligence and Analytic Trends for Today's Businesses", Wiley
+5. David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big Data Analytics”, EMC Education Series,
+John Wiley
+6. Frank J Ohlhorst, “Big Data Analytics: Turning Big Data into Big Money”, Wiley and SAS Business Series
+7. Colleen Mccue, “Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis”,
+Elsevier
+8. Anil Maheshwari, “Data Analytics”, McGraw Hill Education
+9. Paul Zikopoulos, Chris Eaton, Paul Zikopoulos, “Understanding Big Data: Analytics for Enterprise Class
+Hadoop and Streaming Data”, McGraw Hill
+10. Trevor Hastie, Robert Tibshirani, Jerome Friedman, "The Elements of Statistical Learning", Springer
+11. Mark Gardner, “Beginning R: The Statistical Programming Language”, Wrox Publication
+12. Pete Warden, Big Data Glossary, O’Reilly
+13. Glenn J. Myatt, Making Sense of Data, John Wiley & Sons
+14. Pete Warden, Big Data Glossary, O’Reilly.
+15. Peter Bühlmann, Petros Drineas, Michael Kane, Mark van der Laan, "Handbook of Big Data", CRC Press
+16. Jiawei Han, Micheline Kamber “Data Mining Concepts and Techniques”, Second Edition, ElsevierRobert
+Spence, “Information Visualization Design for Interaction”, Second Edition, Pearson Education, 2006.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1
+Understand and apply the probability distributions, random number generation and density
+estimations to perform analysis of various kinds of data
+K2, K4, K6
+CO 2
+Understand and manipulate data, design and perform simple Monte Carlo experiments, and be
+able to use resampling methods
+K5, K6
+CO 3 Perform statistical analysis on variety of data K2, K5
+CO 4 Perform appropriate statistical tests using R and visualize the outcome K2, K4
+CO 5
+Discuss the results obtained from their analyses after creating customized graphical and
+numerical summaries
+K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Descriptive Statistics: Diagrammatic representation of data, measures of central tendency, measures
+of dispersion, measures of skewness and kurtosis, correlation, inference procedure for correlation
+coefficient, bivariate correlation, multiple correlations, linear regression and its inference procedure,
+multiple regression.
+Probability: Measures of probability, conditional probability, independent event, Bayes’ theorem,
+random variable, discrete and continuous probability distributions, expectation and variance, markov
+inequality, chebyshev’s inequality, central limit theorem.
+08
+II
+Inferential Statistics: Sampling & Confidence Interval, Inference & Significance. Estimation and
+Hypothesis Testing, Goodness of fit, Test of Independence, Permutations and Randomization Test, ttest/z-test (one sample, independent, paired), ANOVA, chi-square.
+Linear Methods for Regression Analysis: multiple regression analysis, orthogonalization by
+Householder transformations (QR); singular value decomposition (SVD); linear dimension reduction
+using principal component analysis (PCA).
+08
+III
+Pseudo-Random Numbers: Random number generation, Inverse-transform, acceptance-rejection,
+transformations, multivariate probability calculations.
+Monte Carlo Integration: Simulation and Monte Carlo integration, variance reduction, Monte Carlo
+hypothesis testing, antithetic variables/control variates, importance sampling, stratified sampling
+Markov chain Monte Carlo (McMC): Markov chains; Metropolis-Hastings algorithm; Gibbs
+sampling; convergence
+08
+IV
+Vector Spaces- Vector Space, Subspace , Linear Combination, Linear Independence, Basis,
+Dimension, Finding a Basis of a Vector Space , Coordinates, Change of Basis
+Inner Product Spaces- Inner Product, Length, Orthogonal Vectors, Triangle Inequality, CauchySchwarz Inequality, Orthonormal (Orthogonal) Basis, Gram-Schmidt Process
+08
+V
+Linear Transformations- Linear Transformations and Matrices for Linear Transformation, Kernel
+and Range of a Linear Transformations, Change of Basis
+Eigenvalues and Eigenvectors- Definition of Eigenvalue and Eigenvector, Diagonalization ,
+Symmetric Matrices and Orthogonal Diagonalization
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+BUSINESS INTELLIGENCE AND ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the essentials of BI & data analytics and the corresponding
+terminologies
+K2
+CO 2 Analyze the steps involved in the BI - Analytics process K3, K4
+CO 3 Illustrate competently on the topic of analytics K2, K3
+CO 4 Understand & Implement the K-Means Clustering with Iris Dataset K2, K3
+CO 5 Demonstrate the real time scenario (Case study) by using BI & Analytics
+techniques
+K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+BUSINESS INTELLIGENCE – INTRODUCTION: Introduction - History and Evolution:
+Effective and Timely decisions, Data Information and Knowledge,
+Architectural Representation, Role of mathematical Models, Real Time Business Intelligent
+System.
+8
+II
+BI – DATA MINING & WAREHOUSING:Data Mining - Introduction to Data Mining,
+Architecture of Data Mining and How Data mining
+works(Process) , Functionalities & Classifications of Data Mining, Representation of Input
+Data, Analysis Methodologies.
+Data Warehousing - Introduction to Data Warehousing, Data Mart, Online Analytical
+Processing (OLAP) – Tools, Data Modelling, Difference between OLAP and OLTP, Schema –
+Star and Snowflake Schemas, ETL Process – Role of ETL
+8
+III
+BI – DATA PREPARTTION: Data Validation - Introduction to Data Validation, Data
+Transformation – Standardization and Feature Extraction, Data Reduction – Sampling,
+Selection, PCA, Data Discretization
+8
+IV
+BI – DATA ANALYTICS PROCESS - Introduction to analytics process, Types of Analytical
+Techniques in BI –Descriptive, Predictive, Perspective, Social Media Analytics, Behavioral,
+Iris Datasets
+8
+V
+IMPLEMENTATION OF BI – Business Activity Monitoring, Complex Event Processing,
+Business Process Management, Metadata, Root Cause Analysis. 8
+Text Books:
+1. Carlo-Vercellis, “Business Intelligence Data Mining and Optimization for Decision-Making”, First Edition
+2. Drew Bentely, “Business Intelligence and Analytics” ,@2017 Library Pres., ISBN: 978-1-9789-2136-8
+3. Larissa T. Moss & Shaku Atre, “Business Intelligence Roadmap: The Complete Project Lifecycle
+4. For Decision-Support Applications”, First Edition, Addison-Wesley Professional,2003
+5. Kimball, R., Ross, M., Thornthwaite, W., Mundy, J., and Becker, B. John, “The Data Warehouse
+6. Lifecycle Toolkit: Practical Techniques for Building Data Warehouse and Business Intelligence
+Systems”, Second Edition, Wiley & Sons, 2008.
+7. Cindi Howson, “Successful Business Intelligence”, Second Edition, McGraw-Hill Education, 2013.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+STREAM PROCESSING AND ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Explain the need for stream processing K1, K2
+CO 2 Comprehend the architectures of stream processing. K2, K3
+CO 3 Explain and run Distributed Processing and Resilience Model K1, K2
+CO 4 Design effective streaming solutions using Structured Streaming K5, K6
+CO 5 Design effective streaming solutions using Spark Streaming K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Fundamentals of Stream Processing: What Is Stream Processing? Examples of Stream
+Processing- Scaling
+Up Data Processing- Distributed Stream Processing- Introducing Apache Spark.
+Stream-Processing Model: Sources and Sinks- Immutable Streams Defined from One AnotherTransformations and Aggregations- Window Aggregations - Stateless and Stateful Processing- The
+Effect of
+Time.
+Practical Component:
+a. Installing and configuring Apache Spark
+b. Installing and configuring the Scala IDE
+c. Installing and configuring JDK
+08
+II
+Components of a Data Platform- Architectural Models- The Use of a Batch-Processing
+Component in a
+Streaming Application- Referential Streaming Architectures- Streaming Versus Batch Algorithms.
+Apache Spark as a Stream-Processing Engine: Spark’s Memory Usage- Understanding LatencyThroughputOriented Processing- Fast Implementation of Data Analysis.
+Practical Component:
+a. Write your own Spark Streaming program, to count the number of words in text data received
+from
+a data server listening on a TCP socket
+b. Write a simple Spark Streaming program that prints a sample of the tweets it receives from
+Twitter
+every second.
+08
+III
+Spark’s Distributed Processing Model: Running Apache Spark with a Cluster Manager- Spark’s
+Own Cluster
+Manager - Resilience and Fault Tolerance in a Distributed System- Data Delivery SemanticsMicrobatching and One-Element-at-a-Time - Bringing Microbatch and One-Record-at a- Time
+Closer Together- Dynamic Batch Interval- Structured Streaming Processing Model. Spark’s
+Resilience Model: Resilient Distributed
+Datasets in Spark - Spark Components - Spark’s Fault-Tolerance Guarantees.
+Practical Component:
+a. Create Spark RDD using parallelize with sparkContext.Parallelize() method and using Spark
+shell
+b. Write a scripts in Spark to Read all text files from a directory into a single RDD
+c. Write a spark program to load a CSV file into Spark RDD using a Scala
+d. Write a Spark Streaming program for adding 1 to the stream of integers in a reliable, fault
+tolerantmanner, and then visualize them.
+08
+IV Introducing Structured Streaming- The Structured Streaming Programming Model – Structured 08
+Streaming in Action – Structured Streaming Sources – Structured Streaming Sinks - Event Time–
+Based Stream Processing.
+Practical Component:
+a. Develop a streaming application by- Connecting to a Stream, Preparing the Data in the Stream,
+Performing Operations on Streaming Dataset, creating a Query, Starting the Stream Processing and
+Exploring the data.
+b. Create a Structured streaming job by Initializing Spark, acquiring streaming data from sources,
+declaring the operations we want to apply to the streaming data and outputting the resulting data
+using Sinks.
+c. Create a small but complete Internet of Things (IoT)-inspired streaming program.
+d. Define the schema in Structured Streaming to handle the data at different levels.
+e. Create custom sinks to write data to systems not supported by the default implementations
+V
+Introducing Spark Streaming - The Spark Streaming Programming Model - The Spark Streaming
+Execution
+Model - Spark Streaming Sources - Spark Streaming Sinks - Time-Based Stream ProcessingWorking with
+Spark SQL – Checkpointing - Monitoring Spark Streaming- Performance Tuning.
+Practical Component:
+(i) Develop any Spark Streaming application and do the following :
+a) Create a Spark Streaming Context,
+b) Define one or several DStreams from data sources or other DStreams
+c) Define one or more output operations to materialize the results of these
+08
+Text Books:
+1. Gerard Maas and Francois Garillot , “Stream Processing with Apache Spark: Mastering Structured
+Streaming and Spark Streaming”, O’Reilly, 2019.
+2. Henrique C. M. Andrade, Buǧra Gedik and Deepak S. Turaga, “Fundamentals of Stream Processing:
+Application Design, Systems, and Analytics”, Cambridge University Press, 2014.
+3. Bryon Ellis, “Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data”, Wiley, 1st
+Edition, 2014.
+4. Anindita Basak, Krishna Venkataraman, Ryan Murphy, Manpreet Singh, “Stream Analytics with
+Microsoft Azure”, Packt Publishing, December 2017.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+INTELLIGENT DATABASE SYSTEM KCS
+
+Introduction to IDBSInformal definition of the domain - General characteristics of IDBSs - Data models and the
+relational data model - A taxonomy of intelligent database systems - Guidelines for using
+intelligent database systems.
+Practical Component:
+(a) Install the LAMP
+(b) Configure and setup the Connection between back end & Front End.
+08
+II
+Semantic Data Models
+Nested and semantic data models – Introduction - The nested relational model - Semantic
+models - Hyper-semantic data models - Object-oriented approaches to semantic data modeling
+– Objectoriented database systems - Basic concepts of a core object-oriented data model -
+Comparison with other data models - Query languages and query processing - Operational
+aspects – Systems – The ODMG standard - The object-relational data model - Java and
+databases – Conclusions – Active database systems - Basic concepts – Issues – Architectures -
+Research relational prototypes—the Starburst Rule System - Commercial relational
+approaches.
+Practical Component:
+(a) Design & create the DB user in database.
+(b) Using SQL - create sample DB for Language –DDL, DML and DCL.
+(c) Create sample java/PHP pages with database access.
+08
+III
+Knowledge-Based Systems- AI Ccontext
+Characteristics and classification of the knowledge-based systems – Introduction - The
+resolution principle - Inference by inheritance – Conclusion - Deductive database systems -
+Basic concepts - DATALOG language - Deductive database systems and logic programming
+systems—differences - Architectural approaches - Research prototypes - Updates in deductive
+databases - Integration of deductive database and object database technologies - Constraint
+databases - Conclusions.
+Practical Component:
+1. Working on basic commands on datalog
+2. Practice on projection and Selection in datalog
+3. Write a program that uses + and - from racket/base as external queries using DATALOG
+language
+08
+IV
+Advanced Knowledge-Based Systems
+Introduction - Architectural solutions - The 'general bridge' solution - Extending a KBS with
+components proper to a DBMS - The 'tight coupling' approach – Conclusion - Advanced
+solutions: Introduction - A 'knowledge level' approach to the interaction with an IAS- TELOS -
+a language for implementing very large 'integral approach' systems- The CYC project - Other
+projects based on a 'conceptual representation' approach - Lexical approaches to the
+construction of large KBs.
+Practical Component:
+Implement the techniques to manage knowledge-based systems.
+08
+V
+Applications in IDBS
+Introduction - Temporal databases - Basic concepts - Temporal data models - Temporal query
+languages – Ontologies -Ontology theoretical foundations - Environments for building
+ontologies - Structured, semi-structured and unstructured data - Multimedia database - Semistructured data - Mediators – Motivation – Architecture - Application of mediators to
+heterogeneous systems –Proposals - Multi-Agents systems - Main issues in designing a multiagent system - Open problems.
+Internet indexing and retrieval - Basic indexing methods - Search engines or meta-searchers –
+Internet spiders - Data mining - Data mining tasks - Data mining tools - Medical and legal
+information systems - Medical information systems - Legal information systems –
+Conclusions.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+IMAGE ANALYTICS KCS
+Lecture
+I
+Fundamentals:
+Introduction – Fundamental steps in Image Processing Systems – Image Acquisition –
+Sampling and Quantization – Pixel Relationships – Mathematical Tools Used in Digital Image
+Processing. Some Basic Intensity Transformation Functions: Image Negatives, Log
+Transformations, Power-Law Transformations - Histogram Processing. Color Fundamentals -
+Fundamentals of Spatial Filtering - Smoothing Spatial Filters - Sharpening Spatial Filters.
+Practical Component: Use Python/ MATLAB
+1. Apply various intensity transformations functions.
+2. Computing and plotting image histograms and use standard image processing toolbox
+Spatial filters.
+3. Implement color image Smoothing and Sharpening.
+08
+II
+Morphological Image Processing:
+Morphological Image Processing: Fundamentals - Erosion and Dilation - Opening and Closing
+– Hit or Miss Transform - Some Basic Morphological Algorithms – Morphological
+Reconstruction – Grayscale Morphology
+Practical Component: Use Python/ MATLAB
+1. Implement Morphological operations.
+2. Implement Morphological Reconstruction.
+3. Implement Grayscale Morphology.
+08
+III
+Image Segmentation
+Introduction - Point, Line, and Edge Detection – Thresholding: Foundation, Basic Global
+thresholding, Optimum Global Thresholding using Otsu’s Method, Multiple Thresholds,
+Variable Thresholding –Segmentation by Region Growing and by Region Splitting and
+Merging – Image Segmentation: Active Contours: Snakes and Level Sets.
+Practical Component: Use Python/ MATLAB
+1. Implement Optimum Global Thresholding using Otsu’s Method.
+2. Implement Image segmentation by Region Growing, Splitting and Merging
+3. Implement Image Segmentation by Active Contours using anyone method Snakes and Level
+Sets.
+08
+IV
+Feature Extraction
+Background - Representation – Boundary Preprocessing – Boundary Feature Descriptors:
+Some Basic Boundary Descriptors, Shape Numbers, Fourier Descriptors, Statistical Moments -
+08
+Regional Feature Descriptors: Some Basic Descriptors, Topological and Texture Descriptors,
+Moment Invariants – Principal Components as Feature Descriptors – Whole-image Features
+Object – Scale-Invariant Feature Transform (SIFT).
+Practical Component: Use Python/ MATLAB
+1. Implement Boundary Feature Descriptors
+2. Implement Topological and Texture Descriptors
+3. Implement Scale-Invariant Feature Transform (SIFT)
+V
+Image Pattern Classification
+Background -Patterns and Pattern Classes – Pattern Classification by Prototype Matching:
+Minimum-Distance Classifier, Using Correlation for 2-D prototype matching, Matching SIFT
+Features, Matching Structural Prototypes - Optimum (Bayes) Statistical Classifiers - Neural
+Networks and Deep Learning: Background - The Perceptron - Multilayer Feedforward Neural
+Networks - Deep Convolutional Neural Networks
+Practical Component: Use Python/ MATLAB
+1. Implement Minimum-Distance Classification Algorithm.
+2. Implement Optimum (Bayes) Statistical Classification Algorithm.
+3. Implement Deep Convolutional Neural Network.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+SOCIAL NETWORK ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand a social network analysis K1, K2
+CO 2 Understand the Web data and semantics in social network applications K1, K2
+CO 3 Model and aggregate the social network data K2, K3
+CO 4 Develop social–semantic applications K6
+CO 5 Evaluate the social network extraction with case studies K4, K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Social Network Analysis:
+Network analysis- Development of Social network analysis- Key concepts and measures in
+network analysis –The global structure of networks – The macro-structure of social networks –
+Personal networks.
+Practical Component:
+To Searching for the keyword Paris using the geographic search of Flickr.
+ 08
+II
+Web Semantics in Social Network Applications:
+Electronic sources for network analysis – Electronic discussion networks – Blogs and online
+communities –Web-based networks – Knowledge Representation on the Semantic Web –
+Ontologies and their role in theSemantic Web Ontology languages for the Semantic Web – The
+Resource Description Framework (RDF)and RDF Schema – The Web Ontology Language
+(OWL) – Comparison to the Unified Modelling Language(UML) – Comparison to the
+Entity/Relationship (E/R) model and the relational model – Comparison to theExtensible
+Markup Language (XML) and XML Schema.
+Practical Component:
+Identify the features in web pages that can be used for social network extraction.
+08
+III
+Modelling and Aggregating Social Network Data:
+State-of-the-art in network data representation – Ontological representation of social
+individuals – Ontological representation of social relationships – Aggregating and reasoning
+with social network data – Representing identity – On the notion of equality – Determining
+equality – Reasoning with instance equality – Evaluating smushing
+Practical Component
+a. Add data to a Sesame repository using the web interface
+b. Query data through the web interface of Sesame and display the results.
+08
+IV
+Developing Social-Semantic Applications
+Building Semantic Web applications with social network features –The generic architecture of
+Semantic Web applications –Sesame – Elmo – GraphUtil – The features of Flink – System
+design – open academia: distributed, semantic-based publication management – The features of
+open academia – System design.
+Practical Component: (Algorithm Implementation)
+1. Creating and write out a FOAF profile Using Elmo.
+08
+V
+Evaluation of Social Network Analysis
+Evaluation of web-based social network extraction – Data collection – Preparing the data –
+Optimizing goodness of fit – Comparison across methods and networks – Predicting the
+goodness of fit – Evaluation through analysis – Semantic-based Social Network Analysis in the
+sciences – Data acquisition –Representation, storage and reasoning- Visualization and Analysis
+– Results – Descriptive analysis – Structural and cognitive effects on scientific performance .
+Practical Component: (Algorithm Implementation) 08
+1.Collect personal and social data using a custom-built online survey system which an online
+survey offers several advantages compared to a paper questionnaire
+2. Draw the Histogram for the number of web pages per individual.
+Text Books:
+1. Peter Mika , Social Networks and the Semantics Web”,Springer, 2007
+2. Borko Furht, “Handbook of Social Network Technologies and Applications”, 1st Edition, Springer,
+
+
+-----------------------------------------------------------------------------------------------------------
+
+BIG DATA AND ANALYTICS LAB KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Optimize business decisions and create competitive advantage with Big data analytics K3, K5
+CO 2 Practice java concepts required for developing map reduce programs K4, K5
+CO 3 Impart the architectural concepts of Hadoop and introducing map reduce paradigm. K4, K5
+CO 4 Practice programming tools PIG and HIVE in Hadoop eco system. K5
+CO 5 Implement best practices for Hadoop development. K5, K6
+DETAILED SYLLABUS
+1. Downloading and installing Hadoop; Understanding different Hadoop modes. Startup scripts, Configuration files.
+ 2. Implement the following file management tasks in Hadoop:
+i. Adding files and directories
+ ii. Retrieving files
+iii. Deleting files Hint: A typical Hadoop workflow creates data files (such as log files) elsewhere and copies them
+into HDFS using one of the above command line utilities
+3. Implement of Matrix Multiplication with Hadoop Map Reduce
+4. Write a Map Reduce program that mines weather data. Hint: Weather sensors collecting data every hour at many
+locations across the globe gather a large volume of log data, which is a good candidate for analysis with Map Reduce,
+since it is semi structured and record-oriented
+ 5. Run a basic Word Count Map Reduce program to understand Map Reduce Paradigm.
+6. Implementation of K-means clustering using Map Reduce
+7. Installation of Hive along with practice examples.
+8. Installation of HBase, Installing thrift along with Practice examples
+9. Patrice importing and exporting data from various data bases .
+10. Write PIG Commands: Write Pig Latin scripts sort, group, join, project, and filter your data.
+11. Run the Pig Latin Scripts to find Word Count .
+12. Run the Pig Latin Scripts to find a max temp for each and every year.
+Note: The Instructor may add/delete/modify/tune experiments
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+INTRODUCTION TO INTERNET OF THINGS KCS
+Course Outcome (CO) Bloom’s Knowledge Level (KL)
+At the end of course, the student will be able to understand
+CO 1 Demonstrate basic concepts, principles and challenges in IoT. K1,K2
+CO 2 Illustrate functioning of hardware devices and sensors used for IoT. K2
+CO 3 Analyze network communication aspects and protocols used in IoT. K4
+CO 4 Apply IoT for developing real life applications using Ardunio programming. K3
+ CP 5 To develop IoT infrastructure for popular applications K2, K3
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Internet of Things (IoT): Vision, Definition, Conceptual Framework, Architectural view,
+technology behind IoT, Sources of the IoT, M2M Communication, IoT Examples. Design
+Principles for Connected Devices: IoT/M2M systems layers and design standardization,
+communication technologies, data enrichment and consolidation, ease of designing and
+affordability
+08
+II
+Hardware for IoT: Sensors, Digital sensors, actuators, radio frequency identification (RFID)
+technology, wireless sensor networks, participatory sensing technology. Embedded Platforms for
+IoT: Embedded computing basics, Overview of IOT supported Hardware platforms such as
+Arduino, NetArduino, Raspberry pi, Beagle Bone, Intel Galileo boards and ARM cortex.
+08
+III
+Network & Communication aspects in IoT: Wireless Medium access issues, MAC protocol
+survey, Survey routing protocols, Sensor deployment & Node discovery, Data aggregation &
+dissemination
+08
+IV Programming the Ardunio:Ardunio Platform Boards Anatomy, Ardunio IDE, coding, using
+emulator, using libraries, additions in ardunio, programming the ardunio for IoT. 08
+V
+Challenges in IoT Design challenges: Development Challenges, Security Challenges, Other
+challenges IoT Applications: Smart Metering, E-health, City Automation, Automotive
+Applications, home automation, smart cards, communicating data with H/W units, mobiles, tablets,
+Designing of smart street lights in smart city.
+08
+Text books:
+ 1. Olivier Hersent,DavidBoswarthick, Omar Elloumi“The Internet of Things key applications and protocols”, willey
+ 2. Jeeva Jose, Internet of Things, Khanna Publishing House
+ 3. Michael Miller “The Internet of Things” by Pearson
+ 4. Raj Kamal “INTERNET OF THINGS”, McGraw-Hill, 1ST Edition, 2016
+5. ArshdeepBahga, Vijay Madisetti “Internet of Things (A hands on approach)” 1ST edition, VPI publications,2014
+6. Adrian McEwen,HakinCassimally “Designing the Internet of Things” Wiley India
+
+
+-----------------------------------------------------------------------------------------------------------
+
+SENSORS, ACTUATORS AND SIGNAL PROCESSING KCS
+
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the concept of Sensors and Transducers K2
+CO 2 Application of Sensors, Actuators and Signal Processing K3, K4
+CO 3 Understand the concept of Radiation Sensors and smart sensor K2, K3
+CO 4 Learn various types of sensors and actuators used. K2, K3
+CO 5 Learn fundamentals of signal processors and digital signal processors K1, K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Sensors / Transducers: Principles Classification, Parameters, Characteristics, Environmental
+Parameters (EP), Characterization. Mechanical and Electromechanical Sensors: Introduction,
+Resistive Potentiometer, Strain Gauge, Resistance Strain Gauge, Semiconductor Strain Gauges,
+Inductive Sensors- Sensitivity and Linearity of the Sensor, Types- Capacitive Sensors, Electrostatic
+Transducer, Force/Stress Sensors using Quartz Resonators, Ultrasonic Sensors.
+8
+II
+Thermal Sensors: Introduction, Gas thermometric Sensors, Thermal Expansion Type
+Thermometric Sensors, Acoustic Temperature Sensor, Dielectric Constant and Refractive Index
+Thermo-sensors, Helium Low Temperature Thermometer, Nuclear Thermometer, Magnetic
+Thermometer, Resistance Change Type Thermometric Sensors, Thermo-EMF Sensors, Junction
+Semiconductor Types, Thermal Radiation Sensors, Quartz Crystal Thermo-electric Sensors, NQR
+Thermometry, Spectroscopic Thermometry, Noise Thermometry, Heat Flux Sensors. Magnetic
+Sensors: Introduction, Sensors and the Principles Behind, Magneto-resistive Sensors, Anisotropic
+Magneto-resistive Sensing, Semiconductor Magneto-resistors, Hall Effect and Sensors, Inductance
+and Eddy Current Sensors, Angular/Rotary Movement Transducers, Synchronous, Synchronousresolvers, Eddy Current Sensors, Electromagnetic Flow meter, Switching Magnetic Sensors,
+SQUID Sensors.
+8
+III
+Radiation Sensors: Introduction – Basic Characteristics – Types of Photosensistors/Photo
+detectors– X-ray and Nuclear Radiation Sensors– Fiber Optic Sensors Electro Analytical Sensors:
+Introduction – The Electrochemical Cell – The Cell Potential – Standard Hydrogen Electrode
+(SHE) – Liquid Junction and Other Potentials – Polarization – Concentration Polarization–
+Reference Electrodes – Sensor Electrodes – Electro ceramics in Gas Media .
+Smart Sensors: Introduction, Primary Sensors, Excitation, Amplification, Filters, Converters,
+Compensation, Information Coding/Processing, Data Communication, Standards for Smart Sensor
+Interface, the Automation. Sensors Applications: Introduction, On-board Automobile Sensors
+(Automotive Sensors), Home Appliance Sensors, Aerospace Sensors, Sensors for Manufacturing,
+Sensors for environmental Monitoring.
+8
+IV
+Actuators: Pneumatic and Hydraulic Actuation Systems- Actuation systems, Pneumatic and
+hydraulic systems, Directional Control valves, Pressure control valves, Cylinders, Servo and
+proportional control valves, Process control valves, Rotary actuators. Mechanical Actuation
+SystemsTypes of motion, Kinematic chains, Cams, Gears, Ratchet and pawl, Belt and chain drives,
+Bearings, Mechanical aspects of motor selection, Electrical Actuation Systems, Electrical systems,
+Mechanical switches, Solid-state switches, Solenoids, D.C. Motors, A.C. Motors, Stepper motors.
+8
+V
+Introduction of Signal Processing: Classification of systems: Continuous, discrete, linear, causal,
+stable, dynamic, recursive, time variance; classification of signals: continuous and discrete, energy
+Syllabus B. Tech., ICE: July 2018 admissions onwards Page36 and power; mathematical
+representation of signals; spectral density; sampling techniques, quantization, quantization error,
+Nyquist rate, aliasing effect. Digital signal representation
+Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats –
+Functional modes – Introduction to Commercial Processors.
+8
+Text Books:
+1. D. Patranabis,” Sensors and Transducers”, PHI Learning Private Limited.
+2. W. Bolton, “Mechatronics”, Pearson Education Limited.
+3. Patranabis , “Sensors and Actuators”, 2nd Edition, PHI, 2013.
+4. Proakis JG and Manolakis DG, “Digital signal processing,” Pearson Education India
+5. Ifeacher EC and Jerris BW, “Digital signal processing – A practical approach,” Pearson Education
+
+-----------------------------------------------------------------------------------------------------------
+
+
+PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand advanced and emerging networking technologies K1, K2
+CO 2 Obtain skills to do advanced networking research and programming K3, K4
+CO 3 Learn how to use software programs to perform varying and complex networking tasks K1, K2
+CO 4 Understand Advanced I/O Interfacing K2, K3
+CO 5 Expand upon the knowledge learned and apply it to solve real world problems K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+INTRODUCTION
+Introduction – History – Creative Coding Platforms – Open Source Platforms – PIC – Arduino,
+Sketch, Raspberry Pi, Iterative coding methodology – Python Programming –Mobile phones and
+similar devices – Arm Devices – Getting used to Arduino – Sensor Characterization: Safety, Basic
+Electronics (circuit theory, measurements, parts identification) Sensors and Software:
+Understanding Processing Code Structure, variables and flow control, Interfacing to the Real World
+08
+II
+SOFTWARE FRAMEWORKS
+Software: openFrameworks as our IDE (C/C++) – “Arduino” Language (C/C++) – Hardware:
+Desktop / Laptop / Raspberry Pi – How to approach a programming problem? Representing
+“reality” with computers.Digital vs. Analog circuits, audio, communication, etc.Analog to Digital
+Conversion (ADC) – Digital to Analog Conversion (DAC) – Microcontrollers
+08
+III
+HARDWARE COMMUNICATION
+Communication – Serial& Parallel – Hardware to Hardware Communication – I2C/IIC (InterIntegrated Circuit) – SPI (Serial Peripheral Interface) – Serial UART Communication –
+Introduction to the command line – git/github. Introduction to Programming: A comparative studio
+between Arduino + open Frameworks – Arduino compatible Microcontrollers Sensors and
+Actuators
+08
+IV
+ADVANCED I/O INTERFACING
+Advanced I/O – open Frameworks: Live Network feeds (push and pull) – Data persistence
+(saving data and preferences) – Database interface (MySQL, sqLite, XML, PHP/Web) –
+Arduino:Wired/Wireless Networking
+08
+V
+IoT, FUTURE AND PERSPECTIVES
+Talking to the cloud: Baby steps to Internet of Things, TCP/IP and UDP – Building peer
+to peer communication system using Bluetooth &WiFi– Experiments
+08
+Text Books:
+1. Programming Interactivity, Second Edition By Josha Noble, 2012
+2. Programming the Raspberry Pi: Getting Started with Python 2E, 2016
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+NATURAL LANGUAGE PROCESSING KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able :
+CO 1 To learn the fundamentals of natural language processing K1 , K2
+CO 2 To understand the use of CFG and PCFG in NLP K1 , K2
+CO 3 To understand the role of semantics of sentences and pragmatic K2
+CO 4 To Introduce Speech Production And Related Parameters Of Speech. K1 , K2
+CO 5 To Show The Computation And Use Of Techniques Such As Short Time Fourier Transform,
+Linear Predictive Coefficients And Other Coefficients In The Analysis Of Speech. K3, K4
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+INTRODUCTION: Origins and challenges of NLP – Language Modeling: Grammar-based LM,
+Statistical LM – Regular Expressions, Finite-State Automata – English Morphology, Transducers for
+lexicon and rules, Tokenization, Detecting and Correcting Spelling Errors, Minimum Edit Distance
+WORD LEVEL ANALYSIS : Unsmoothed N-grams, Evaluating N-grams, Smoothing,
+Interpolation and Backoff – Word Classes, Part-of-Speech Tagging, Rule-based, Stochastic and
+Transformation-based tagging, Issues in PoS tagging – Hidden Markov and Maximum Entropy
+models.
+08
+II
+SYNTACTIC ANALYSIS: Context Free Grammars, Grammar rules for English, Treebanks, Normal
+Forms for grammar – Dependency Grammar – Syntactic Parsing, Ambiguity, Dynamic Programming
+parsing – Shallow parsing – Probabilistic CFG, Probabilistic CYK, Probabilistic Lexicalized CFGs –
+Feature structures, Unification of feature structures.
+08
+III
+SEMANTICS AND PRAGMATICS:
+Requirements for representation, First-Order Logic, Description Logics – Syntax-Driven Semantic
+analysis, Semantic attachments – Word Senses, Relations between Senses, Thematic Roles,
+selectional restrictions – Word Sense Disambiguation, WSD using Supervised, Dictionary &
+Thesaurus, Bootstrapping methods – Word Similarity using Thesaurus and Distributional methods.
+08
+IV
+BASIC CONCEPTS of Speech Processing :Speech Fundamentals: Articulatory Phonetics –
+Production And Classification Of Speech Sounds; Acoustic Phonetics – Acoustics Of Speech
+Production; Review Of Digital Signal Processing Concepts; Short-Time Fourier Transform, FilterBank And LPC Methods.
+08
+V
+SPEECH-ANALYSIS: Features, Feature Extraction And Pattern Comparison Techniques: Speech
+Distortion Measures– Mathematical And Perceptual – Log–Spectral Distance, Cepstral Distances,
+Weighted Cepstral Distances And Filtering, Likelihood Distortions, Spectral Distortion Using A
+Warped Frequency Scale, LPC, PLP And MFCC Coefficients, Time Alignment And Normalization –
+Dynamic Time Warping, Multiple Time – Alignment Paths.
+SPEECH MODELING : Hidden Markov Models: Markov Processes, HMMs – Evaluation, Optimal
+State Sequence – Viterbi Search, Baum-Welch Parameter Re-Estimation, Implementation Issues.
+08
+Text books:
+1. Daniel Jurafsky, James H. Martin―Speech and Language Processing: An Introduction to Natural Language
+Processing, Computational Linguistics and Speech, Pearson Publication, 2014.
+2. Steven Bird, Ewan Klein and Edward Loper, ―Natural Language Processing with Python, First Edition, OReilly
+Media, 2009.
+3. Lawrence RabinerAndBiing-Hwang Juang, “Fundamentals Of Speech Recognition”, Pearson Education, 2003.
+4. Daniel JurafskyAnd James H Martin, “Speech And Language Processing – An Introduction To Natural Language
+Processing, Computational Linguistics, And Speech Recognition”, Pearson Education, 2002.
+5. Frederick Jelinek, “Statistical Methods Of Speech Recognition”, MIT Press, 1997.
+6. 1. Breck Baldwin, ―Language Processing with Java and LingPipe Cookbook, Atlantic Publisher, 2015.
+7. Richard M Reese, ―Natural Language Processing with Java, OReilly Media, 2015.
+8. Nitin Indurkhya and Fred J. Damerau, ―Handbook of Natural Language Processing, Second Edition, Chapman and
+Hall/CRC Press, 2010.
+9. Tanveer Siddiqui, U.S. Tiwary, ―Natural Language Processing and Information Retrieval, Oxford University
+Press, 2008.
+
+-----------------------------------------------------------------------------------------------------------
+
+
+WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand advanced and emerging technologies K1, K2
+CO 2 Obtain skills to do advanced research and programming K1, K2
+CO 3 Learn how to use software programs to perform varying andcomplex tasks K1, K2
+CO 4 Expand upon the knowledge learned and apply it to solve real worldproblems K3, K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+INTRODUCTION : Introduction – History - Creative Coding Platforms - Open Source Platforms
+– PIC - Arduino, Sketch, Raspberry Pi, Iterative coding methodology – Python Programming -
+Mobile phones and similar devices - Arm Devices - Basic Electronics (circuit theory,
+measurements, parts identification) Sensors and Software: Understanding Processing Code
+Structure, variables and flow control, Interfacing to the Real World
+08
+II
+SOFTWARE HARDWARE FRAMEWORKS: Software: open Frameworks as our IDE (C/C++)
+- “Arduino” Language (C/C++) - Hardware: Desktop / Laptop / Raspberry Pi - How to approach a
+programming problem? Representing “reality” with computers. Digital vs. Analog circuits, audio,
+communication, etc. Analog to Digital Conversion (ADC) - Digital to Analog Conversion (DAC)–
+Microcontrollers - Communication – Serial& Parallel - Hardware to Hardware Communication -
+I2C/IIC (Inter-Integrated Circuit) - SPI (Serial Peripheral Interface) – Serial UART
+Communication
+08
+III
+CYBERNETICS AND HUMANISTIC INTELLIGENCE: Wearables - Augmented Reality –
+Mixed Reality. Case studies, Oculus Rift (2012, 2013), AR versus VR - IoT and Wearables: Smart
+Cites and Wearable Computing as a form of urban design - Advanced I/O – open Frameworks:Live
+Network feeds (push and pull) - Data persistence (saving data and preferences) - Database interface
+(MySQL, sqLite, XML, PHP/Web) - Arduino: Wired/Wireless Networking (hardware vs. USB
+proxy) - Software serial (RS-232) talking to other devices - Advanced sensor/device
+communication SPI - Advance IC interfacing / Bitbanging (bitwise operators) - Linux –GPIO
+08
+IV
+THE WORLD OF THE FUTURE – INTERNET OF EVERYTHING: Humanistic Intelligence,
+Mann 1998. Wearable Computing and IoT (Internet of Things) The scalespace theory;
+sur/surveillance; integrity; Veillance Contract; Humanistic Intelligence; MedialityAxis? Overview
+of Mobile and Wearable Computing, Augmented Reality, and Internet of Things. The fundamental
+axes of the Wearables + IoT + AR space - Free-roaming AR: Wearable Computing, Wireless,
+Sensing, and Metasensing with light bulbs Phenomenal Augmented Reality: Real world physical
+phenomena as the fundamental basis of mobile and wearable AR.
+08
+V FUTURE AND PERSPECTIVES: Internet of Everything – The Future and perspectives -
+Challenges 08
+Text Books:
+1. Practical Electronics for Inventors, Third Edition,” by Paul ScherzandSimon Monk. 2016
+2. Intel Galileo and Intel Galileo Gen 2API Features and Arduino Projects for Linux Programmers, Ramon, Manoel
+2014 (Open Access)
+3. Fundamentals of Wearable Computers and Augmented Reality, Second Edition by Woodrow Barfield 2015
+4. Making Sense of Sensors: End-to-End Algorithms and Infrastructure Design By OmeshTickoo, Ravi Iyer 2016
+5. Programming Interactivity, Second Edition By Josha Noble, 2012
+6. Programming the Raspberry Pi: Getting Started with Python 2E, 2016
+
+-----------------------------------------------------------------------------------------------------------
+
+PRIVACY AND SECURITY IN IOT KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Ability to understand the Security requirements in IoT. K1, K2
+CO 2 Understand the cryptographic fundamentals for IoT K1, K2
+CO 3 Ability to understand the authentication credentials and access
+control
+K1, K2
+CO 4 Understand the various types Trust models and Cloud Security. K1, K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+INTRODUCTION: SECURING THE INTERNET OF THINGS: Security Requirements in IoT
+Architecture - Security in Enabling Technologies -Security Concerns in IoT Applications. Security
+Architecture in the Internet of Things -Security Requirements in IoT - Insufficient
+Authentication/Authorization – Insecure Access Control - Threats to Access Control, Privacy, and
+Availability - Attacks Specific to IoT. Vulnerabilities – Secrecy and Secret-Key Capacity -
+Authentication/Authorization for Smart Devices - Transport Encryption – Attack & Fault trees
+08
+II
+CRYPTOGRAPHIC FUNDAMENTALS FOR IOT: Cryptographic primitives and its role in
+IoT – Encryption and Decryption – Hashes –Digital Signatures – Random number generation –
+Cipher suites – key management fundamentals – cryptographic controls built into IoT messaging
+and communication protocols – IoT Node Authentication
+08
+III
+IDENTITY & ACCESS MANAGEMENT SOLUTIONS FOR IOT: Identity lifecycle –
+authentication credentials – IoT IAM infrastructure – Authorization with Publish / Subscribe
+schemes – access control
+08
+IV
+PRIVACY PRESERVATION AND TRUST MODELS FOR IOT: Concerns in data
+dissemination – Lightweight and robust schemes for Privacy protection – Trust and Trust models
+for IoT – self-organizing Things - Preventing unauthorized access
+08
+V
+CLOUD SECURITY FOR IOT:
+Cloud services and IoT – offerings related to IoT from cloud service providers – Cloud IoT security
+controls – An enterprise IoT cloud security architecture – New directions
+in cloud enabled IoT computing
+08
+Text Books:
+1. Practical Internet of Things Security (Kindle Edition) by Brian Russell, Drew Van Duren
+2. Securing the Internet of Things Elsevier
+3. Security and Privacy in Internet of Things (IoTs): Models, Algorithms, and Implementations
+
+-----------------------------------------------------------------------------------------------------------
+
+EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM  KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 To understand the aspects of Real Time Embedded concepts K1, K2
+CO 2 To learn the Essentials of Open Source RTOS and their usage K1, K2
+CO 3 To select the proper technique to design a Real-Time System K1, K2
+CO 4 To understand VxWorks RTOS and real time application programming with it K2, K3
+CO 5 To build the device driver and kernel internal for Embedded OS and RTOSearn and
+apply the knowledge of Memory systems
+K5, K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+EMBEDDED OS INTERNALS: Linux internals: Process Management, File Management,
+Memory Management, I/O Management. Overview of POSIX APIs, Threads – Creation,
+Cancellation, POSIX Threads Inter Process Communication – Semaphore, Pipes, FIFO, Shared
+Memory Kernel: Structure, Kernel Module Programming Schedulers and types of scheduling.
+Interfacing: Serial, Parallel Interrupt Handling Linux Device Drivers: Character, USB,
+Block & Network.
+08
+II
+OPEN SOURCE RTOS: Basics of RTOS: Real-time concepts, Hard Real time and Soft Realtime, Differences between General Purpose OS & RTOS, Basic architecture of an RTOS,
+Scheduling Systems, Inter-process communication, Performance Matric in scheduling models,
+Interrupt management in RTOS environment, Memory management, File systems, I/O
+Systems, Advantage and disadvantage of RTOS. POSIX standards, RTOS Issues – Selecting a
+Real-Time Operating System, RTOS comparative study
+08
+III
+REAL TIME KERNEL BASICS: Converting a normal Linux kernel to real time kernel,
+Xenomai basics. Overview of Open source RTOS for Embedded systems (Free RTOS/
+ChibiosRT) and application development. Real Time Operating Systems: Event based, process
+based and graph based models, Petrinet models. Real time languages, real time kernel, OS tasks,
+task states, task scheduling, interrupt processing, clocking, communication and Synchronization.
+Control blocks, memory requirements and control, kernel services,
+basic design using RTOS
+08
+IV
+VXWORKS / FREE RTOS: VxWorks/ Free RTOS Scheduling and Task Management –
+Realtime scheduling, Task Creation, Intertask Communication, Pipes, Semaphore, Message
+Queue, Signals, Sockets, Interrupts I/O Systems – General Architecture, Device Driver Studies,
+Driver Module explanation, Implementation of Device Driver for a peripheral.
+08
+V
+CASE STUDY: Software Development and Tools: Simulators, debuggers, cross compilers, in
+circuit emulators for the microcontrollers. Interface Issues Related to Embedded Systems:A/D,
+D/A converters, FPGA, ASIC, diagnostic port. Cross compilers, debugging
+Techniques, Creation of binaries & porting stages for Embedded Development board
+(Beagle Bone Black, Rpi or similar), Porting an Embedded OS/ RTOS to a target board
+().Testing a real-time application on the board.
+08
+Text Books:
+1. VenkateswaranSreekrishnan,” Essential Linux Device Drivers” , Ist Kindle edition, Prentice Hall, 2008
+2. Jerry Cooperstein , ”Writing Linux Device Drivers: A Guide with Exercises”, J. Cooperstein publishers ,2009
+3. Qing Li and CarolynYao,”3Real Time Concepts for Embedded Systems – Qing Li, Elsevier ISBN:1578201241
+CMP Books c 2003
+4. Raj Kamal,” Embedded Systems Architecture Programming and Design”:,Tata McGraw Hill, 2011
+5. KVK Prasad, ”Embedded/Real Time Systems Concepts, Design and Programming Black Book”, , Wiley India
+2003
+6. Seppo J. Ovaska Phillip A. Laplante,”Real-Time Systems Design and Analysis:Tools for the Practitioner”, 4ed
+Paperback – 17 May 2013
+7. Ward, Paul T & Mellor, Stephen,” Structured Development for Real – Time Systems v1, v2,V3 : Implementation
+ModelingTechniques “ Prentice hall,2015
+
+-----------------------------------------------------------------------------------------------------------
+
+
+KOT 551 INTERNET OF THINGS LAB KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Understand the concept of Internet of Things K3
+CO 2 Implement interfacing of various sensors with Arduino/Raspberry Pi K4, K5
+CO 3 Demonstrate the ability to transmit data wirelessly between different devices. K4
+CO 4 Show an ability to upload/download sensor data on cloud and server K2
+CO 5 Examine various SQL queries from MySQL database K4, K5
+DETAILED SYLLABUS
+The student should have hands on experience in using various sensors like temperature, humidity, smoke, light, etc. and
+should be able to use control web camera, network, and relays connected to the Pi.
+1. Start Raspberry Pi and try various Linix commands in command terminal window: ls, cd, touch, mv, rm, man,
+mkdir, rmdir, tar, gzip, cat, more, less, ps, sudo, cron, chown, chgrp, ping etc.
+2. Run some python programs on Pi like:
+a) Read your name and print Hello message with name
+b) Read two numbers and print their sum, difference, product and division.
+c) Word and character count of a given string.
+d) Area of a given shape (rectangle, triangle and circle) reading shape and appropriate values from standard
+input.
+3. Run some python programs on Pi like: a) Print a name 'n' times, where name and n are read from standard input,
+using for and while loops. b) Handle Divided by Zero Exception. c) Print current time for 10 times with an
+interval of 10 seconds. d) Read a file line by line and print the word count of each line.
+4. a) Light an LED through Python program
+b) Get input from two switches and switch on corresponding LEDs
+c) Flash an LED at a given on time and off time cycle, where the two times are taken from a file.
+5. a) Flash an LED based on cron output (acts as an alarm)
+ b) Switch on a relay at a given time using cron, where the relay's contact terminals are connected to a load.
+c) Get the status of a bulb at a remote place (on the LAN) through web.
+Note: The Instructor may add/delete/modify/tune experiments
+
+-----------------------------------------------------------------------------------------------------------
+
+IOT ARCHITECTURE AND PROTOCOLS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 To Understand the Architectural Overview of IoT K1,K2
+CO 2 To Understand the IoT Reference Architecture and RealWorldDesign Constraints K1,K2
+CO 3 To Understand the various IoT Protocols ( Datalink, Network, Transport, Session,
+Service) K3
+CO 4 Application of various IoT Protocols ( Datalink, Network, Transport, Session, Service) K4,K5
+CO 5 To Understand the various Real-World Design Constraints. K4,K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lectures
+I
+IoT-An Architectural Overview: Building an architecture, Main design principles and needed
+capabilities, An IoT architecture outline, standards considerations. M2M and IoT Technology
+Fundamentals- Devices and gateways, Local and wide area networking, Data management,
+Business processes in IoT, Everything as a Service(XaaS), M2M and IoT Analytics, Knowledge
+Management
+06
+II
+Reference Architecture: IoT Architecture-State of the Art – Introduction, State of the art,
+Reference Model and architecture, IoT reference Model - IoT Reference Architecture- Introduction,
+Functional View, Information View, Deployment and Operational View, Other Relevant
+architectural views. Real-World Design Constraints- Introduction, Technical Design constraintshardware is popular again, Data representation and visualization, Interaction and remote control.
+08
+III
+IOT Data Link Layer & Network Layer Protocols : PHY/MAC Layer(3GPP MTC, IEEE
+802.11, IEEE 802.15), WirelessHART,ZWave, Bluetooth Low Energy, Zigbee Smart Energy,
+DASH7 - Network Layer-IPv4, IPv6, 6LoWPAN, 6TiSCH,ND, DHCP, ICMP, RPL, CORPL,
+CARP
+08
+IV Transport & Session Layer Protocols: Transport Layer (TCP, MPTCP, UDP, DCCP, SCTP)-
+(TLS, DTLS) – Session Layer-HTTP, CoAP, XMPP, AMQP, MQTT 08
+V
+Service Layer Protocols & Security : Service Layer -oneM2M, ETSI M2M, OMA, BBF –
+Security in IoT Protocols – MAC 802.15.4 , 6LoWPAN, RPL, Application Layer 08
+Text books
+1. Jan Holler, VlasiosTsiatsis, Catherine Mulligan, Stefan Avesand,StamatisKarnouskos, David Boyle, “From
+Machine-to-Machine to the Internet of Things: Introduction to a New Age of Intelligence”, 1st Edition, Academic
+Press,2014.
+2. Peter Waher, “Learning Internet of Things”, PACKT publishing, BIRMINGHAM –MUMBAI
+3. Bernd Scholz-Reiter, Florian Michahelles, “Architecting the Internet of Things”,ISBN 978-3-642-19156-5 eISBN 978-3-642-19157-2, Springer
+4. Daniel Minoli, “Building the Internet of Things with IPv6 and MIPv6: The Evolving World of M2M
+Communications”, ISBN: 978-1-118-47347-4, Willy Publications
+5. Vijay Madisetti and ArshdeepBahga, “Internet of Things (A Hands-on-Approach)”, 1st Edition, VPT, 2014.
+
+-----------------------------------------------------------------------------------------------------------
+
+
+CYBER FORENSIC ANALYTICS KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Outline the Cyber crime and its types. K1, K2
+CO 2 Explore the Cyber Forensics Techniques K1, K2
+CO 3 Use the Cyber Investigation Techniques K3, K4
+CO 4 Explore the Cyber Evidence Management Techniques K3, K4
+CO 5 Outline the Cyber Laws in India K1, K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Cyber Crime:
+Cyber Space – Cyber Crime – Criminal Behaviour – Jurisdictional Concerns - Jurisprudential
+Inconsistency – eCash Security – Prepaid Cards – Stored Values Cards – Mobile Payments –
+Internet Payment Services -Cyber stalking - Cyber extortion – Cyber terrorism - Cyber warfare –
+Cyber weapons -ATM frauds –
+Phreaking – Internet Gambling
+Practical Component:
+1. Key logger
+2. Email Fraud
+08
+II
+Cyber Forensics:
+Digital device – Hard disk –Disk characteristics - Disk imaging - Data Carving – Techniques –
+commercial piracy - soft lifting – Steganography – Network components - Port scans - Wireshark -
+pcap analysis - Trojans and Backdoors – Botnets - DoS – DDoS Attacks - Honey Pots – Malware
+– Virus and Worms
+Practical Component:
+1. Pcab file Analysis – Case Study
+2. Network Port Scan – Forensics
+08
+III
+Cyber Investigation
+Concepts of Investigation - cyber investigation, Network Investigation - Investigating audit logs -
+Investigating Web attacks - Investigating Computer Intrusions - Profiling – Cyber Criminal
+profiling – Stylometric Techniques – Warranted searches – Warrantless searches – Undercover
+Techniques
+Practical Component:
+1. Investigating Audit Logs
+2. Investigating Web attacks
+08
+IV
+Evidence Management:
+Evidence – Digital Evidence - Types – physical evidence – Real evidence – Circumstantial
+evidence –network evidence - Evidence collection – Evidence Analysis - Contextual Information –
+Evidence Management – pre search activities – On Scene activities – Report Preparations
+Practical Component:
+1. Digital Evidence Analysis
+2. Network Analysis
+08
+V
+Cyber Laws and Authorities
+Information Technology Act 2000 – Digital signature - Electronic Governance - Secure electronic
+records
+- Regulation of certifying authorities – CERNTin - Electronic signature certificates - Penalties
+compensation - Future Trends and Emerging Concerns
+Practical Component:
+1. Digital Signature
+08
+Text Books:
+1. Marjie T. Britz, “Computer Forensics and Cyber Crime”, Pearson, 2013.
+2. Garima Tiwari, “Understanding Laws– Cyber Laws And Cyber Crimes”, Lexis Nexis, 2014.
+3. Chuck Easttom, Jeff Taylor, “Computer Crime, Investigation, and the Law”, Course Technology, 2018.
+4. Eoghan Casey, “Digital Evidence and Computer Crime: Forensic Science, Computers, and the
+Internet”, Eoghan Casey, 2018.
+
+-----------------------------------------------------------------------------------------------------------
+
+KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the Concepts of big data analytics K1, K2
+CO 2 Understand the concepts about Internet of things K1, K2
+CO 3 understand and implement smart systems K1, K2
+CO 4 Understand the Concept of FOG Computing K1, K2
+CO 5 Understand the Sustainability Data and Analytics K1, K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+BIG DATA PLATFORMS FOR THE INTERNET OF THINGS
+Big Data Platforms for the Internet of Things: network protocol- data dissemination –
+current state of art- Improving Data and Service Interoperability with
+Structure,Compliance, Conformance and Context Awareness: interoperability problem in
+the IoT
+context- Big Data Management Systems for the Exploitation of PervasiveEnvironments -
+Big Data challenges and requirements coming from different SmartCity applications
+08
+II
+RFID FALSE AUTHENTICATIONS
+On RFID False Authentications: YA TRAP – Necessary and sufficient condition for
+false authentication prevention - Adaptive Pipelined Neural Network Structure in
+SelfawareInternet of Things: self-healing systems- Role of adaptive neural networkSpatial Dimensions of Big Data: Application of Geographical Concepts and
+SpatialTechnology to the Internet of Things- Applying spatial relationships, functions,
+andmodels
+III
+FOG COMPUTING
+Fog Computing: A Platform for Internet of Things and Analytics: a massivelydistributed
+number of sources - Big Data Metadata Management in Smart Grids:semantic
+inconsistencies – role of metadata
+IV
+WEB ENHANCED BUILDING
+Toward Web Enhanced Building Automation Systems: heterogeneity between existing
+installations and native IP devices - loosely-coupled Web protocol stack –energysaving
+in smart building- Intelligent Transportation Systems and Wireless Access inVehicular
+Environment Technology for Developing Smart Cities: advantages andachievementsEmerging Technologies in Health Information Systems: GenomicsDriven Wellness
+Tracking and Management System (GO-WELL) – predictive care –personalized
+medicine
+V
+SUSTAINABILITY DATA AND ANALYTICS
+Sustainability Data and Analytics in Cloud-Based M2M Systems – potential
+stakeholders and their complex relationships to data and analytics applications – Social
+Networking Analysis - Building a useful understanding of a social network – Leveraging
+Social Media and IoT to Bootstrap Smart Environments : lightweight Cyber Physical
+Social Systems - citizen actuation
+08
+Text Books:
+1. Stackowiak, R., Licht, A., Mantha, V., Nagode, L.,” Big Data and The Internet of Things Enterprise
+Information Architecture for A New Age”, Apress, 2015.
+2. Dr. John Bates , “Thingalytics - Smart Big Data Analytics for the Internet of Things”, john Bates,
+2015.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the various energy sources and energy harvesting based
+sensor networks
+K1, K2
+CO 2 Learn about the various Piezoelectric materials and Non-linear techniques K1, K2
+CO 3 Understand the various Power sources for WSN K1, K2
+CO 4 Learn about the applications of Energy harvesting systems. K1, K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+ENERGY HARVESTING SYSTEMS: Introduction – Energy sources – energy harvesting based
+sensor networks –photovoltaic cell technologies – generation of electric power in semiconductor
+PV cells – types
+08
+II
+PIEZO-ELECTRIC ENERGY HARVESTING AND ELECTROMECHANICAL
+MODELING :Piezoelectric materials – transducers – harvesters – microgenerators – strategies for
+enhancing the performance of energy harvesters. Electromechanical modeling of Lumped
+parameter model and coupled distributed parameter models and closed-form
+solutions
+III
+ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+:Basic principles – micro fabricated coils and magnetic materials – scaling – power maximations –
+micro and macro scale implementations. Non-linear techniques –vibration control & steady state
+cases
+IV
+ENERGY HARVESTING WIRELESS SENSORS: Power sources for WSN – Power generation
+– conversion – examples – case studies. Harvesting microelectronic circuits – power conditioning
+and losses
+V
+SELECTED APPLICATIONS OF ENERGY HARVESTING SYSTEMS: Case studies for
+Implanted medical devices – Bio-MEMS based applications – harvesting for RF sensors and ID
+tags – powering wireless SHM sensor nodes
+08
+Text Books:
+1. Carlos Manuel Ferreira Carvalho, Nuno Filipe Silva VerissimoPaulino, “CMOS Indoor Light Energy
+Harvesting System for Wireless Sensing Applications”, springer
+2. Danick Briand, Eric Yeatman, Shad Roundy ,“Micro Energy Harvesting”
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+ADVANCE INTERNET OF THINGS LAB KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Understanding the implementation of IOT K5, K6
+CO 2 Solving Societal problems with the help of IOT K5, K6
+CO 3 Problem Analysis and Designing a Solution K5, K6
+CO 4 Understanding the importance of Technology in the life of common men. K5, K6
+DETAILED SYLLABUS
+A students should implement two case studies from the IOT Projects List ( Individually or in small group)
+1. Wearable Computer With Temperature Distance Sensors
+2. Weather Imaging CubeSat with Telemetry Transmission
+3. IOT Water Pollution Monitor RC Boat
+4. Mountain Climber Health & GPS Tracker
+5. Contactless IOT Doorbell
+6. IOT Smart Parking Using RFID
+7. IOT Contactless Covid Testing Booth Automation
+8. IOT Social Distancing & Monitoring Robot For Queue
+9. IOT Covid Patient Health Monitor in Quarantine
+10. IOT based Manhole Detection and Monitoring System
+11. IOT based Smart Energy Meter Monitoring with Theft Detection
+12. IOT Weather Station Airship
+13. IOT based Three Phase Power Failure Monitoring with SMS Alerts
+14. IOT based Intelligent Gas Leakage Detector Using Arduino
+15. 360° Aerial Surveillance UAV With IOT Camera
+16. IOT Garbage Segregator & Bin Level Indicator
+17. IOT Temperature & Mask Scan Entry System
+18. IOT based Smart Agriculture Monitoring System Project
+19. IOT Based Automatic Vehicle Accident Detection and Rescue System
+20. Greenhouse Monitoring and Control System using IOT Project
+21. IOT Based Coal Mine Safety Monitoring and Alerting System
+22. IOT Based Heart Monitoring System Using ECG
+23. IOT based Anti-theft Flooring System using Raspberry Pi
+24. Raspberry Pi based Weather Reporting Over IOT
+25. IOT Early Flood Detection & Avoidance
+26. IOT Garbage Monitoring Using Raspberry Pi
+27. IOT Circuit Breaker Project
+28. IOT Mining Tracking & Worker Safety Helmet
+29. IOT Prison Break Monitoring & Alerting System
+30. Raspberry Pi Air and Noise Pollution Monitoring System Over IOT
+Note: The Instructor may add/delete/modify/tune experiments

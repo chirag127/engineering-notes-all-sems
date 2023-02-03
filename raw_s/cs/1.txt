@@ -1469,3 +1469,144 @@ CO5 Fabricate a job by 3D printing manufacturing technique K3
 2. Mechanical Workshop Practice, K C John, PHI
 3. Workshop Practice Vol 1, and Vol 2, by HazraChoudhary , Media promoters and Publications
 4. CNC Fundamentals and Programming, By P. M. Agrawal, V. J. Patel, Charotar Publication.
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+REMEDIAL BIOLOGY-I KCS
+Course Objective:
+Basic idea of the course will be to introduce the basic knowledge of biology and its application for
+students who are starting biotechnology engineering courses. Our main objective is to be aware
+of the students with basic knowledge of biology who have a mathematical background so that
+they can use this information in biotechnology and higher research.
+Content Contact
+Hours
+Unit-1: 8
+The cell concept, structure of prokaryotic, eukaryotic cells, plant cells and animal cells,
+Structure and function of cell membrane, cell organelles and their function, Basics of cell
+signaling, Structure and use of compound microscope, Basic chemical constituents of
+living body
+Unit-2: 8
+Tissues in animal and plants, Morphology, anatomy and functions of different parts of
+plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+Unit-3: 8
+Classification of living organisms (Five kingdom classification, major groups and
+principles of classification in each kingdom), Systematic and binomial system of
+nomenclature, Concept of animal and plant classification
+Unit-4: 8
+Concepts of alleles and genes, Mendelian Experiments, Cell cycle (Elementary Idea),
+mitosis and meiosis, techniques to study mitosis and meiosis. Origin of life, evidences for
+biological evolution, Mechanism of evolution −Variation (Mutation and Recombination),
+Natural Selection with examples, Types of natural selection
+Unit-5: 8
+Plant Physiology: Concepts of diffusion, osmosis, imbibitions, Movement of water, food,
+nutrients and gasses, Photosynthesis, plant growth and development .Plant growth
+regulators
+Page 14 of 44
+Course Outcomes:
+Course Outcome (CO) Bloom’s
+Level
+At the end of this course, the students will be able to:
+CO 1 To understand the basics of living systems K1,
+K2
+CO 2 To understand key common features of living organisms &
+its function
+K1, K2
+CO 3 To know the basic concepts of anatomy and functions of cells K2, K3
+CO 4 To understand the concept of the alleles and genes K2, K3, K4
+CO 5 To understand and analyze the basics of plant physiology K4, K5
+K1 – Remember, K2 – Understand, K3 – Apply, K4 – Analyze, K5 – Evaluate, K6 – Create
+Recommended Text Book:
+1. Biology-Textbook of Class XI, NCERT Publication
+2. Biology-Textbook of Class XII, NCERT Publication
+Reference Book:
+1. Biology by Peter H Raven, George b Johnson, Kenneth A., Mason, Jonathan
+Losos, Susan Singer (McGraw Hill Publication)
+Page 15 of 44
+BBT202 : REMEDIAL BIOLOGY-II
+Course Objective:
+Basic idea of the course will be to introduce the basic knowledge of human biology and
+biological evolution. Our target is to be aware of the students with basic knowledge of human
+physiology and immunology who have mathematical backgrounds so that they can use these
+information in daily life and in higher research.
+Content Contact
+Hours
+Unit-1: 8
+Brief history of microbiology, Types of microorganisms, Basic idea of domain bacteria,
+proteobacteria, non proteobacteria Gram –ve and Gram +ve bacteria, lichens, algae,
+protozoa, helminthes, viral structures, viral multiplication, Role of microorganisms in
+the production of industrial chemicals and pharmaceuticals
+Unit-2: 8
+Functional Anatomy of Prokaryotic and Eukaryotic Cells: Size, shape, and arrangement
+of bacterial cells. Structure and function of cells
+Unit-3: 8
+Catabolic & anabolic reactions: enzymes, energy production and carbohydrate
+metabolism. Lipid & protein catabolism, Energy production mechanism, metabolic
+diversity & pathways of energy use. Integration of metabolism
+Unit-4: 8
+Energy Utilization: Structure of mitochondria, cellular respiration, relationship of
+carbohydrate metabolism to other compounds, Glycolysis, formation of acetyl co-A, Kreb
+cycle, Electron Transport System and Oxidative Phosphorylation, ATP, factors affecting
+respiration
+Unit-5: 8
+Reproductive health and human welfare: Population and birth control, sexually
+transmitted diseases, infertility, Cancer and AIDS, Basic concepts of immunology,
+vaccines. Diagnosis of diseases- molecular and other methods
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+REMEDIAL BIOLOGY-II KCS
+Course Objective:
+Basic idea of the course will be to introduce the basic knowledge of human biology and
+biological evolution. Our target is to be aware of the students with basic knowledge of human
+physiology and immunology who have mathematical backgrounds so that they can use these
+information in daily life and in higher research.
+Content Contact
+Hours
+Unit-1: 8
+Brief history of microbiology, Types of microorganisms, Basic idea of domain bacteria,
+proteobacteria, non proteobacteria Gram –ve and Gram +ve bacteria, lichens, algae,
+protozoa, helminthes, viral structures, viral multiplication, Role of microorganisms in
+the production of industrial chemicals and pharmaceuticals
+Unit-2: 8
+Functional Anatomy of Prokaryotic and Eukaryotic Cells: Size, shape, and arrangement
+of bacterial cells. Structure and function of cells
+Unit-3: 8
+Catabolic & anabolic reactions: enzymes, energy production and carbohydrate
+metabolism. Lipid & protein catabolism, Energy production mechanism, metabolic
+diversity & pathways of energy use. Integration of metabolism
+Unit-4: 8
+Energy Utilization: Structure of mitochondria, cellular respiration, relationship of
+carbohydrate metabolism to other compounds, Glycolysis, formation of acetyl co-A, Kreb
+cycle, Electron Transport System and Oxidative Phosphorylation, ATP, factors affecting
+respiration
+Unit-5: 8
+Reproductive health and human welfare: Population and birth control, sexually
+transmitted diseases, infertility, Cancer and AIDS, Basic concepts of immunology,
+vaccines. Diagnosis of diseases- molecular and other methods
+Page 16 of 44
+Course Outcomes:
+Course Outcome (CO) Bloom’s
+Level
+At the end of this course, the students will be able to:
+CO 1 To know the basic concepts and elementary knowledge of
+Microbiology
+K1, K2
+CO 2 To understand the functional Anatomy of Cells K2, K3
+CO 3 To know the energy production mechanism in the living cell K1, K2
+CO 4 To understand and analyze the energy utilization mechanism K2, K3, K4
+CO 5 Understand the reproductive health and human welfare K2.K4, K5, K6
+K1 – Remember, K2 – Understand, K3 – Apply, K4 – Analyze, K5 – Evaluate, K6 – Create
+Recommended Text Book:
+1. Biology-Textbook of Class XI, NCERT Publication
+2. Biology-Textbook of Class XII, NCERT Publication
+3. Microbiology- Pelzar, Tata Mcgraw- Hill Publishing Com. Ltd., 2002
+4. An introduction to immunology by C.V. Rao, Narosa publishing house
+Reference Book:
+1. Biology by Peter H Raven, George b Johnson, Kenneth A., Mason, Jonathan
+Losos, Susan Singer (MacGraw Hill Publication)
+2. General Microbiology: Stainier, Adelberq and Ingraham.
