@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-allnotes
 get-pip.py
 .buildozer
 install-kivy-buildozer-dependencies.sh

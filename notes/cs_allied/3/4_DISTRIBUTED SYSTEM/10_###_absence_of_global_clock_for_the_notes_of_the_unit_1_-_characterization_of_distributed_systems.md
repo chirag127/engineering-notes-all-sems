@@ -1,0 +1,11 @@
+### absence of global clock for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+The absence of a global clock in a distributed system refers to the fact that each node in the system has its own clock and there is no single, authoritative clock that all nodes can rely on. This lack of a global clock can have significant implications for the design and implementation of distributed systems, as it affects the ability of nodes to coordinate and synchronize their activities.
+
+One of the main challenges posed by the absence of a global clock is the difficulty of determining the order of events in a distributed system. In a centralized system, it is relatively straightforward to determine the order of events, as there is a single clock that all nodes can use to determine the timing of events. In a distributed system, however, each node may have a slightly different view of the timing of events, making it more difficult to determine the order of events.
+
+Another challenge posed by the absence of a global clock is the difficulty of synchronizing the activities of nodes in a distributed system. In a centralized system, all nodes can rely on the same clock to coordinate their activities, but in a distributed system, each node must use its own clock to determine when to perform certain actions. This can result in nodes performing actions at different times, leading to inconsistencies and errors in the system.
+
+To address these challenges, distributed systems often employ various techniques to compensate for the absence of a global clock. For example, some systems use a consensus algorithm to agree on a common notion of time, while others use timestamps to order events. Additionally, some systems use clock synchronization protocols to ensure that the clocks on different nodes are as accurate as possible.
+
+In conclusion, the absence of a global clock in a distributed system is a significant challenge that must be addressed in the design and implementation of these systems. Without a global clock, it can be difficult to determine the order of events and synchronize the activities of nodes, leading to inconsistencies and errors in the system. However, various techniques can be employed to compensate for the absence of a global clock and ensure the correct operation of a distributed system.

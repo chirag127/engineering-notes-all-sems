@@ -48,6 +48,8 @@ def chat(i, file_name) -> bool:
         start = time.perf_counter()
         print("User: " + PROMPT)
 
+
+
         chatbot = random.choice([chatbot1, chatbot2, chatbot3])
         response = chatbot.ask(PROMPT)
         print("ChatGPT: " + response["choices"][0]["text"])
@@ -57,7 +59,7 @@ def chat(i, file_name) -> bool:
     except Exception as error:
         print("Error: " + str(error))
 
-        sleep(30)
+        sleep(60)
         return False
 
     with open(file_name, "w") as f:
@@ -67,7 +69,7 @@ def chat(i, file_name) -> bool:
 
 
 def main(files):
-    for file in files:
+    def main_2(file):
         if file.endswith(".txt"):
             process_file_name = file
             file = file.replace("p_s/", "")
@@ -91,7 +93,7 @@ def main(files):
                 # a = False
 
                 if a:
-                    m = 13
+                    m = 3
                 else:
                     m = 1
 
@@ -143,7 +145,8 @@ def main(files):
 
                 # for i in p:
                 #     d(i)
-
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        executor.map(main_2, files)
 
 if __name__ == "__main__":
     import glob
