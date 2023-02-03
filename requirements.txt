@@ -4,3 +4,4 @@ black
 ruff
 ruff
 pylint
+tiktoken

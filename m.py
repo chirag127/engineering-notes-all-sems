@@ -15,11 +15,14 @@ def get_max_tokens(prompt: str) -> int:
 
 def pawan(p, api):
 
-    response = requests.post('https://chatgpt.pawan.krd/init', headers={
+
+    response = requests.post('https://chatgpt.pawan.krd/ask', headers={
         'Content-Type': 'application/json'
     }, data=json.dumps({
         'key': api,
-        'options': {
+        'prompt': p,
+        'id': 'default',
+                'options': {
             "temperature": 0.2,
             "max_tokens": get_max_tokens(p),
             "top_p": 0.9,
@@ -31,33 +34,7 @@ def pawan(p, api):
 
     }))
 
-    if response.json()["status"] is not True:
-        raise "the got error  in the init "
-
-
-
-    response = requests.post('https://chatgpt.pawan.krd/ask', headers={
-        'Content-Type': 'application/json'
-    }, data=json.dumps({
-        'key': api,
-        'prompt': p,
-        'id': 'default'
-    }))
-
-    # print(response.json())
-
-    requests.post('https://chatgpt.pawan.krd/reset', headers={
-        'Content-Type': 'application/json'
-    }, data=json.dumps({
-        'key': api,
-        # 'prompt': p,
-        'id': 'default'
-    }))
-
-    # print(response.json())
-
     return response.json()["response"]
-
 
 if __name__ == '__main__':
     print(pawan("hello", "***REMOVED***"))
