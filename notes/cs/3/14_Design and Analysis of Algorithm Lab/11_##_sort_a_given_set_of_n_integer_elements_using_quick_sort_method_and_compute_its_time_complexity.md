@@ -1,0 +1,9 @@
+## Sort a given set of n integer elements using Quick Sort method and compute its time complexity. Run the program for varied values of n> 5000 and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the divide and- conquer method works along with its time complexity analysis: worst case, average case and best case. for the notes of the Design and Analysis of Algorithm Lab in the subject of Real Time System
+
+Quick Sort is a divide-and-conquer sorting algorithm that sorts a given set of n integer elements by selecting a pivot element and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively.
+
+The time complexity of Quick Sort can be analyzed in terms of the worst case, average case, and best case scenarios. In the worst case, when the pivot is always chosen as the largest or smallest element, the time complexity is O(n^2). In the average case, when the pivot is chosen randomly, the time complexity is O(n log n). In the best case, when the pivot is always chosen as the median element, the time complexity is O(n log n).
+
+To demonstrate the divide-and-conquer method and time complexity analysis of Quick Sort using Java, the program can be written to read the elements from a file or generate the elements using a random number generator. The program can then sort the elements using Quick Sort, and record the time taken to sort for varied values of n greater than 5000. The time taken to sort can be plotted on a graph to visualize the performance of Quick Sort.
+
+This lab will provide a foundation for understanding the principles and practices of Quick Sort, and for exploring the various concepts and techniques used in the field of Real Time Systems and the Design and Analysis of Algorithms.

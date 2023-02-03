@@ -1,21 +1,6 @@
 
 
 Artificial Intelligence (KCS071)
-Course Outcome ( CO) Bloom’s Knowledge Level (KL)
-At the end of course , the student will be able to understand
-CO 1 Understand the basics of the theory and practice of Artificial Intelligence as a discipline and
-about intelligent agents.
-K2
-CO 2 Understand search techniques and gaming theory. K2, K3
-CO 3 The student will learn to apply knowledge representation techniques and problem solving
-strategies to common AI applications.
-K3 , K4
-CO 4 Student should be aware of techniques used for classification and clustering. K2 , K3
-CO 5 Student should aware of basics of pattern recognition and steps required for it. K2 , K4
-DETAILED SYLLABUS 3‐0‐0
-Unit Topic Proposed
-Lecture
-I
 INTRODUCTION :
 Introduction–Definition – Future of Artificial Intelligence – Characteristics of Intelligent Agents–
 Typical Intelligent Agents – Problem Solving Approach to Typical AI problems.
@@ -44,21 +29,7 @@ APPLICATIONS:
 AI applications – Language Models – Information Retrieval- Information Extraction – Natural
 Language Processing – Machine Translation – Speech Recognition – Robot – Hardware –
 Perception – Planning – Moving
-08
-Text books:
-1. S. Russell and P. Norvig, “Artificial Intelligence: A Modern Approach‖, Prentice Hall, Third Edition, 2009.
-2. I. Bratko, “Prolog: Programming for Artificial Intelligence”, Fourth edition, Addison-Wesley Educational Publishers
-Inc., 2011.
-3. M. Tim Jones, ―Artificial Intelligence: A Systems Approach(Computer Science)‖, Jones and Bartlett Publishers,
-Inc.First Edition, 2008
-4. Nils J. Nilsson, ―The Quest for Artificial Intelligence‖, Cambridge University Press, 2009.
-5. William F. Clocksin and Christopher S. Mellish,‖ Programming in Prolog: Using the ISO Standard‖, Fifth Edition,
-Springer, 2003.
-6. Gerhard Weiss, ―Multi Agent Systems‖, Second Edition, MIT Press, 2013.
-7. David L. Poole and Alan K. Mackworth, ―Artificial Intelligence: Foundations of Computational Agents‖, Cambridge
-University Press, 2010.
-COMPUTER SCIENCE AND ENGINEERING/CS
-Curriculum & Evaluation Scheme (VII & VIII semester) Page 5
+
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -67,17 +38,7 @@ Curriculum & Evaluation Scheme (VII & VIII semester) Page 5
 
 
 Natural Language Processing (KCS072)
-Course Outcome ( CO) Bloom’s Knowledge Level (KL)
-At the end of course , the student will be able :
-CO 1 To learn the fundamentals of natural language processing K1 , K2
-CO 2 To understand the use of CFG and PCFG in NLP K1 , K2
-CO 3 To understand the role of semantics of sentences and pragmatic K2
-CO 4 To Introduce Speech Production And Related Parameters Of Speech. K1 , K2
-CO 5 To Show The Computation And Use Of Techniques Such As Short Time Fourier Transform,
-Linear Predictive Coefficients And Other Coefficients In The Analysis Of Speech. K3, K4
-DETAILED SYLLABUS 3-0-0
-Unit Topic Proposed
-Lecture
+
 I
 INTRODUCTION: Origins and challenges of NLP – Language Modeling: Grammar-based LM,
 Statistical LM – Regular Expressions, Finite-State Automata – English Morphology, Transducers
@@ -115,26 +76,6 @@ Warped Frequency Scale, LPC, PLP And MFCC Coefficients, Time Alignment And Norma
 SPEECH MODELING : Hidden Markov Models: Markov Processes, HMMs – Evaluation,
 Optimal State Sequence – Viterbi Search, Baum-Welch Parameter Re-Estimation, Implementation
 Issues.
-08
-COMPUTER SCIENCE AND ENGINEERING/CS
-Curriculum & Evaluation Scheme (VII & VIII semester) Page 6
-Text books:
-1. Daniel Jurafsky, James H. Martin―Speech and Language Processing: An Introduction to Natural Language
-Processing, Computational Linguistics and Speech, Pearson Publication, 2014.
-2. Steven Bird, Ewan Klein and Edward Loper, ―Natural Language Processing with Python, First Edition, OReilly
-Media, 2009.
-3. Lawrence Rabiner And Biing-Hwang Juang, “Fundamentals Of Speech Recognition”, Pearson Education, 2003.
-4. Daniel Jurafsky And James H Martin, “Speech And Language Processing – An Introduction To Natural Language
-Processing, Computational Linguistics, And Speech Recognition”, Pearson Education, 2002.
-5. Frederick Jelinek, “Statistical Methods Of Speech Recognition”, MIT Press, 1997.
-6. Breck Baldwin, ―Language Processing with Java and LingPipe Cookbook, Atlantic Publisher, 2015
-7. Richard M Reese, ―Natural Language Processing with Java, OReilly Media, 2015.
-8. Nitin Indurkhya and Fred J. Damerau, ―Handbook of Natural Language Processing, Second Edition, Chapman
-and Hall/CRC Press, 2010.
-9. Tanveer Siddiqui, U.S. Tiwary, ―Natural Language Processing and Information Retrieval, Oxford University
-Press, 2008.
-COMPUTER SCIENCE AND ENGINEERING/CS
-Curriculum & Evaluation Scheme (VII & VIII semester) Page 7
 
 
 -----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+## Sort a given set of n integer elements using Merge Sort method and compute its time complexity. Run the program for varied values of n> 5000, and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate how the divide and- conquer method works along with its time complexity analysis: worst case, average case and best case. for the notes of the Design and Analysis of Algorithm Lab in the subject of Real Time System
+
+Merge Sort is a divide and conquer algorithm used to sort a given set of n integer elements. The basic idea behind Merge Sort is to divide the unsorted list into n sub-lists, each containing one element, and then repeatedly merging sub-lists to produce new sorted sub-lists until there is only one sub-list remaining.
+
+The time complexity of Merge Sort can be analyzed in terms of worst case, average case, and best case scenarios. In the worst case scenario, the time complexity of Merge Sort is O(n log n), where n is the number of elements in the list. In the average case scenario, the time complexity of Merge Sort is also O(n log n). In the best case scenario, the time complexity of Merge Sort is O(n log n).
+
+To demonstrate how the divide and conquer method works, it is helpful to consider an example. For example, consider a list of 10 elements: [5, 2, 9, 1, 4, 6, 8, 3, 7, 10]. To sort this list using Merge Sort, we first divide the list into two sub-lists: [5, 2, 9, 1, 4] and [6, 8, 3, 7, 10]. We then sort each sub-list using Merge Sort, and merge the two sorted sub-lists to produce a single sorted list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+To compute the time taken to sort the list using Merge Sort, we can run the program for varied values of n > 5000, and record the time taken to sort. We can then plot a graph of the time taken versus n to visualize the relationship between the time taken and the size of the list.
+
+This unit will provide a foundation for understanding the principles and practices of Merge Sort, and for exploring the various concepts and techniques used in the field of Real Time Systems and the Design and Analysis of Algorithms Lab.

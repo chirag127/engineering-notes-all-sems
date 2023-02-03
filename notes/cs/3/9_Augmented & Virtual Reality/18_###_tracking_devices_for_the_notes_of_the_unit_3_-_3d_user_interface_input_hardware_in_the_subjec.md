@@ -1,0 +1,11 @@
+### Tracking Devices for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+
+Unit 3 of the Augmented & Virtual Reality course focuses on 3D User Interface Input Hardware and covers the aspect of Tracking Devices.
+
+Tracking devices are hardware devices that are used to track the position and orientation of objects and users in a virtual environment. Tracking devices are used to provide input to virtual environments, allowing users to interact with the environment in a natural and intuitive way.
+
+There are several types of tracking devices, including head-mounted displays (HMDs), hand-held controllers, motion capture systems, and optical tracking systems. Head-mounted displays are wearable devices that are worn on the head and display a virtual environment in front of the user's eyes. Hand-held controllers are handheld devices that allow users to interact with the virtual environment. Motion capture systems are systems that use cameras and sensors to track the movements of objects and users, and can be used to capture the movements of actors for use in animation and virtual environments. Optical tracking systems are systems that use cameras and sensors to track the position and orientation of objects and users, and can be used for a variety of applications, including virtual reality, augmented reality, and robotics.
+
+In the context of the Augmented & Virtual Reality course, students in Unit 3 will learn about tracking devices as part of the discussion on 3D User Interface Input Hardware. This may include working with examples of tracking devices, analyzing the benefits and limitations of different types of tracking devices, and learning how to choose the appropriate tracking device for a given application.
+
+In summary, Unit 3 of the Augmented & Virtual Reality course focuses on 3D User Interface Input Hardware and covers the aspect of Tracking Devices. Tracking devices are hardware devices that are used to track the position and orientation of objects and users in a virtual environment, and are used to provide input to virtual environments. Students will learn about tracking devices through interactive activities and hands-on experiences, and will learn how to choose the appropriate tracking device for a given application.

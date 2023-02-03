@@ -1,0 +1,13 @@
+### Basic Priority-Inheritance and Priority-Ceiling Protocols for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+Unit 3 - Resources Sharing in the subject of Real Time System will cover the concepts of Basic Priority-Inheritance and Priority-Ceiling Protocols, two techniques used for resource sharing in real-time systems.
+
+Basic Priority-Inheritance is a technique used to prevent priority inversion, a situation where a low-priority task holds a resource that a high-priority task requires. In Basic Priority-Inheritance, the priority of the task holding a resource is temporarily increased to the priority of the highest-priority task waiting for the resource. This ensures that the high-priority task can obtain the resource in a timely manner.
+
+Priority-Ceiling Protocol is a technique used to prevent priority inversion by assigning a priority ceiling to each resource. The priority ceiling is the highest priority of any task that can use the resource. When a task requests a resource, its priority is temporarily increased to the priority ceiling of the resource. This ensures that the task holding the resource has a higher priority than any other task that may need the resource.
+
+In the context of Unit 3 - Resources Sharing in the subject of Real Time System, students will learn about Basic Priority-Inheritance and Priority-Ceiling Protocols, including the basics of these techniques, their advantages and disadvantages, and how to use these techniques for resource sharing in real-time systems. This may include working with examples of Basic Priority-Inheritance and Priority-Ceiling Protocols, analyzing the syntax and structure of these techniques, and learning how to use these techniques for resource sharing in real-time systems.
+
+In Unit 3 - Resources Sharing in the subject of Real Time System, students will also learn about other techniques used for resource sharing in real-time systems, such as resource reservation and resource allocation, and will learn how these techniques can be used in real-time applications.
+
+In summary, in Unit 3 - Resources Sharing in the subject of Real Time System, students will learn about Basic Priority-Inheritance and Priority-Ceiling Protocols, two techniques used for resource sharing in real-time systems. They will learn about the basics of these techniques, their advantages and disadvantages, and how to use these techniques for resource sharing in real-time systems, and will learn about other techniques used for resource sharing in real-time systems and how these techniques can be used in real-time applications.

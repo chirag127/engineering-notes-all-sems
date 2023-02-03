@@ -1,0 +1,9 @@
+### Structural Testing (White Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+Structural Testing, also known as White Box Testing, is a form of software testing that focuses on the internal structure of a software system. In the context of Unit 4 - Software Testing in the subject of Software Engineering, students will learn about Structural Testing and how it is used in software testing.
+
+Structural Testing is based on the idea that the internal structure of a software system can be used to identify potential defects and to validate the correct functioning of the system. Structural Testing involves testing the individual components and functions of a software system, and verifying that these components and functions work together correctly to produce the desired behavior of the system.
+
+In the Unit 4 - Software Testing in the subject of Software Engineering, students will learn about the techniques and methods used in Structural Testing, including code coverage analysis, control flow analysis, and data flow analysis. They will also learn about the benefits and limitations of Structural Testing, and how to use Structural Testing in conjunction with other forms of software testing, such as functional testing and performance testing.
+
+In summary, in Unit 4 - Software Testing in the subject of Software Engineering, students will learn about Structural Testing, a form of software testing that focuses on the internal structure of a software system. They will learn about the techniques and methods used in Structural Testing, including code coverage analysis, control flow analysis, and data flow analysis, and will learn about the benefits and limitations of Structural Testing and how to use it in conjunction with other forms of software testing.

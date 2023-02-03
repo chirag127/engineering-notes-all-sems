@@ -1,0 +1,13 @@
+### Effect of Resource Contention and Resource Access Control (RAC) for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+Unit 3 - Resources Sharing in the subject of Real Time System will cover the concepts of Resource Contention and Resource Access Control (RAC), two important aspects of real-time systems.
+
+Resource Contention refers to the situation in which multiple tasks compete for the same resource, such as CPU time, memory, or I/O devices. Resource Contention can result in decreased performance, increased latency, and decreased reliability in real-time systems.
+
+Resource Access Control (RAC) refers to the mechanisms used to manage access to resources in a real-time system. RAC mechanisms include locking mechanisms, priority-based scheduling, and scheduling algorithms. RAC mechanisms are used to prevent Resource Contention and to ensure that real-time tasks have access to the resources they need to complete their tasks in a timely manner.
+
+In the context of Unit 3 - Resources Sharing in the subject of Real Time System, students will learn about the Effect of Resource Contention and Resource Access Control (RAC), including the basics of Resource Contention and Resource Access Control (RAC), the different types of Resource Contention and Resource Access Control (RAC) mechanisms, and how to design and implement Resource Contention and Resource Access Control (RAC) mechanisms. This may include working with examples of Resource Contention and Resource Access Control (RAC), analyzing the syntax and structure of Resource Contention and Resource Access Control (RAC) mechanisms, and learning how to use Resource Contention and Resource Access Control (RAC) mechanisms for real-time applications.
+
+In Unit 3 - Resources Sharing in the subject of Real Time System, students will also learn about other aspects of real-time systems, such as real-time communication, real-time synchronization, and real-time programming languages, and will learn how these concepts can be used in real-time applications.
+
+In summary, in Unit 3 - Resources Sharing in the subject of Real Time System, students will learn about the Effect of Resource Contention and Resource Access Control (RAC), two important aspects of real-time systems. They will learn about the basics of Resource Contention and Resource Access Control (RAC), the different types of Resource Contention and Resource Access Control (RAC) mechanisms, and how to design and implement Resource Contention and Resource Access Control (RAC) mechanisms, and will learn about other aspects of real-time systems and how these concepts can be used in real-time applications.
