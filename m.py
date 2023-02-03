@@ -1,6 +1,6 @@
-import requests
-
 import json
+
+import requests
 import tiktoken
 
 ENCODER = tiktoken.get_encoding("gpt2")
@@ -12,33 +12,52 @@ def get_max_tokens(prompt: str) -> int:
     """
     return 3500 - len(ENCODER.encode(prompt))
 
-def pawan(p,api):
+
+def pawan(p, api):
 
     response = requests.post('https://chatgpt.pawan.krd/init', headers={
         'Content-Type': 'application/json'
     }, data=json.dumps({
-        'key': '***REMOVED***',
-        'options':{
-  "temperature": 0.2,
-  "max_tokens": get_max_tokens(p),
-  "top_p": 0.9,
-  "frequency_penalty": 0,
-  "presence_penalty": 0,
-  "instructions": '''You are an AI language model developed by OpenAI, called ChatGPT. you have been trained on a large corpus of text data to generate human-like text and answer questions. You can answer comprehensively.''',
-  "stop": "<|im_end|>"
-}
+        'key': api,
+        'options': {
+            "temperature": 0.2,
+            "max_tokens": get_max_tokens(p),
+            "top_p": 0.9,
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "instructions": '''You are an AI language model developed by OpenAI, called ChatGPT. you have been trained on a large corpus of text data to generate human-like text and answer questions. You can answer comprehensively.''',
+            "stop": "<|im_end|>"
+        }
 
     }))
 
-    if response.json()
+    if response.json()["status"] is not True:
+        raise "the got error  in the init "
+
 
 
     response = requests.post('https://chatgpt.pawan.krd/ask', headers={
         'Content-Type': 'application/json'
     }, data=json.dumps({
-        'key': '***REMOVED***',
-        'prompt': 'who are you?',
+        'key': api,
+        'prompt': p,
         'id': 'default'
     }))
 
-    if response.json()
+    # print(response.json())
+
+    requests.post('https://chatgpt.pawan.krd/reset', headers={
+        'Content-Type': 'application/json'
+    }, data=json.dumps({
+        'key': api,
+        # 'prompt': p,
+        'id': 'default'
+    }))
+
+    # print(response.json())
+
+    return response.json()["response"]
+
+
+if __name__ == '__main__':
+    print(pawan("hello", "***REMOVED***"))
