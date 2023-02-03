@@ -1,0 +1,7 @@
+### The Resource Description Framework (RDF)and RDF Schema for the notes of the Unit 2 - Web Semantics in Social Network Applications in the subject of SOCIAL NETWORK ANALYTICS
+
+The Resource Description Framework (RDF) is a standard for modeling and exchanging structured data on the web. It provides a way to represent information about resources, such as web pages, people, or events, using a graph-based data model. In RDF, each piece of information is represented as a triple consisting of a subject, predicate, and object. The subject represents the resource being described, the predicate represents the relationship between the subject and the object, and the object represents the value being associated with the relationship.
+
+RDF Schema (RDFS) is a vocabulary for describing the structure of RDF data. It provides a way to define classes of resources and the properties that describe them, as well as relationships between classes. Using RDFS, one can define a hierarchy of classes, specify the range and domain of properties, and define constraints on the use of properties.
+
+In the context of social network analytics, RDF and RDFS can be used to represent and analyze the relationships between individuals and organizations in a social network. This information can be used to gain insights into the structure and behavior of the network, as well as to make predictions about future behavior. Additionally, RDF and RDFS can be used to integrate data from multiple sources, allowing for a more comprehensive view of the network and its relationships.

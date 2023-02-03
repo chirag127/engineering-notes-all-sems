@@ -1,0 +1,11 @@
+### Wearable Computer With Temperature Distance Sensors for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+
+Wearable Computers with Temperature Distance Sensors are devices that are designed to monitor and track various physical and environmental parameters in real-time. These devices are part of the Internet of Things (IoT) and are used to solve various societal problems, such as health and safety, environmental monitoring, and energy efficiency.
+
+The Wearable Computer with Temperature Distance Sensors typically includes a combination of sensors, such as temperature sensors, distance sensors, and accelerometers, and a wireless communication device that is integrated into a wearable device, such as a wristband or smartwatch. The sensors are used to collect data about various physical and environmental parameters, such as temperature, distance, and motion, and to transmit this data to a central monitoring system.
+
+The central monitoring system is used to process and analyze the data collected by the sensors, and to provide real-time alerts and insights about the physical and environmental parameters being monitored. This information can be used to inform decisions and actions aimed at solving various societal problems, such as improving health and safety, reducing energy consumption, and promoting sustainability.
+
+In the context of Advance Internet of Things Lab, it is important to understand the implementation of Wearable Computers with Temperature Distance Sensors, and to be familiar with the applications and benefits of these devices. This may include understanding the components and architecture of the system, as well as the data processing and analysis techniques that are used to extract insights from the data collected by the system.
+
+Overall, Wearable Computers with Temperature Distance Sensors are an important tool for solving various societal problems, and are an important aspect of the study of Advance Internet of Things Lab. Understanding the implementation of these devices and the applications and benefits of IoT in the field of health and safety, environmental monitoring, and energy efficiency is critical to the effective and ethical practice of Internet of Things.

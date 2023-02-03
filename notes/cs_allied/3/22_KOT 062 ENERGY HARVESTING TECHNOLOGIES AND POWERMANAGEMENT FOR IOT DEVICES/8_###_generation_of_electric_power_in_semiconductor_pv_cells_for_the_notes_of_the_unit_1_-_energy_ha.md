@@ -1,0 +1,9 @@
+### generation of electric power in semiconductor PV cells for the notes of the Unit 1 - ENERGY HARVESTING SYSTEMS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+Photovoltaic (PV) cells, also known as solar cells, are a type of semiconductor device that are used to convert light into electricity. PV cells are made from materials such as silicon, which are doped with impurities to create a p-n junction. When light is absorbed by the PV cell, it creates an electric field across the p-n junction, which generates a flow of electrons and creates an electric current.
+
+The generation of electric power in semiconductor PV cells is based on the photovoltaic effect, which is the phenomenon where light energy is converted into electrical energy. The photovoltaic effect occurs when light is absorbed by the PV cell, which causes electrons to become excited and move from their normal energy state to a higher energy state. This creates a flow of electrons, which generates an electric current.
+
+In order to maximize the generation of electric power in PV cells, it is important to optimize the design and materials used in the PV cell, as well as the conditions under which the PV cell is operated. Factors that can affect the generation of electric power in PV cells include the type and quality of the materials used in the PV cell, the size and shape of the PV cell, and the intensity and wavelength of the light that is absorbed by the PV cell.
+
+Overall, the generation of electric power in semiconductor PV cells is a critical aspect of energy harvesting systems, and is an important aspect of the study of KOT 062 Energy Harvesting Technologies and Power Management for IoT Devices. Understanding the photovoltaic effect and the factors that affect the generation of electric power in PV cells is essential for the design and implementation of efficient and effective energy harvesting systems.

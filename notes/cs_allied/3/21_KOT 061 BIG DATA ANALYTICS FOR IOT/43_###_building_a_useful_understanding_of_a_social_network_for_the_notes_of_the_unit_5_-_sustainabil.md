@@ -1,0 +1,9 @@
+### Building a useful understanding of a social network for the notes of the Unit 5 - SUSTAINABILITY DATA AND ANALYTICS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+Building a useful understanding of a social network involves collecting and analyzing data related to the relationships and interactions between individuals and groups within a social network. This data can be used to gain insights into the structure and dynamics of the network, and to inform decisions and actions aimed at promoting sustainability and reducing the environmental impact of human activities.
+
+In the context of Sustainability Data and Analytics, it is important to understand the principles of social network analysis, and to be familiar with the tools and techniques used to collect and analyze data related to social networks. This may include understanding the types of data that are collected, such as demographic information, interaction patterns, and communication networks, and the methods used to collect and store this data, such as surveys, questionnaires, and social media data.
+
+In addition, the course may cover the use of social network analysis to inform decision-making and actions aimed at promoting sustainability and reducing the environmental impact of human activities. This may include the use of network visualization and reporting tools to communicate sustainability information to stakeholders, as well as the use of predictive analytics and simulation models to evaluate the impact of different sustainability initiatives on the structure and dynamics of the network.
+
+Overall, building a useful understanding of a social network is an important aspect of promoting sustainability and reducing the environmental impact of human activities, and understanding the principles and applications of social network analysis is an important aspect of the study of KOT 061 Big Data Analytics for IoT KCS.

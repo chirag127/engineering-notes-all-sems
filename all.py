@@ -21,11 +21,19 @@ api_keys = [
     "***REMOVED***",
     "***REMOVED***",
     "***REMOVED***",
+    "***REMOVED***",
 ]
 
 chatbot1 = Chatbot(api_key=api_keys[0])
 chatbot2 = Chatbot(api_key=api_keys[1])
 chatbot3 = Chatbot(api_key=api_keys[2])
+chatbot4 = Chatbot(api_key=api_keys[3])
+
+
+def myChatbot(api_key):
+    chatbot = Chatbot(api_key=api_key)
+    return chatbot
+
 
 
 def chat(i, file_name) -> bool:
@@ -50,7 +58,7 @@ def chat(i, file_name) -> bool:
 
 
 
-        chatbot = random.choice([chatbot1, chatbot2, chatbot3])
+        chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
         response = chatbot.ask(PROMPT)
         print("ChatGPT: " + response["choices"][0]["text"])
         end = time.perf_counter()
@@ -93,7 +101,7 @@ def main(files):
                 # a = False
 
                 if a:
-                    m = 3
+                    m = 4
                 else:
                     m = 1
 
@@ -151,7 +159,7 @@ def main(files):
 if __name__ == "__main__":
     import glob
 
-    for i in range(1000):
+    for i in range(100):
         # get all files in p_s folder
         files = glob.glob("p_s/**/*.txt", recursive=True)
 

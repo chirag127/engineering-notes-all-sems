@@ -1,0 +1,49 @@
+<?php
+
+//must install guzzlehttp
+//composer require guzzlehttp/guzzle
+
+require 'vendor/autoload.php';
+$client = new GuzzleHttp\Client();
+
+
+$headers = [
+  'Content-Type' => 'application/json'
+];
+$body = [
+  "id" => "default",
+  "key" => "sk-xxxxxxx",
+  "max_tokens" => 10,
+  "options" => [
+    "instructions" => "You are ChatGPT, your name Is ChatGPT!"
+  ]
+];
+$body = json_encode($body);
+
+$request = $client->request('POST', 'https://chatgpt.pawan.krd/init', [
+  'headers' => $headers,
+  'body' => $body
+]);
+$done = json_decode($request->getBody());
+
+
+
+// $keyword = 'best CHANEL clutch bag';
+$headers = [
+  'Content-Type' => 'application/json'
+];
+$body = [
+  "id" => "default",
+  "key" => "sk-xxxxxxxxx",
+  "prompt" => "who are you?",
+];
+
+$body = json_encode($body);
+
+$request = $client->request('POST', 'https://chatgpt.pawan.krd/ask', [
+  'headers' => $headers,
+  'body' => $body
+]);
+$done = json_decode($request->getBody());
+print_r($done);
+exit;

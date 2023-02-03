@@ -1,0 +1,13 @@
+### IOT based Manhole Detection and Monitoring System for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+
+The IoT based Manhole Detection and Monitoring System is a system designed to monitor and detect manholes in real-time. The system is part of the Internet of Things (IoT) and uses a network of sensors, wireless communication technologies, and data analytics to monitor and detect manholes.
+
+The IoT based Manhole Detection and Monitoring System typically includes sensors for monitoring various parameters, such as the presence of manholes, the temperature and humidity within manholes, and the level of toxic gases in manholes. The data collected by the sensors is transmitted to a central monitoring system, where it is analyzed using data analytics techniques to detect potential hazards and anomalies.
+
+In the event of a potential hazard, such as the presence of toxic gases or the presence of a manhole that is not properly secured, the central monitoring system generates real-time alerts that are sent to relevant authorities and stakeholders, such as sewer managers, emergency responders, and workers. The alerts may include information about the location and nature of the potential hazard, as well as instructions for responding to the situation.
+
+In the context of Advance Internet of Things Lab, it is important to understand the implementation of the IoT based Manhole Detection and Monitoring System, and to be familiar with the applications and benefits of this system. This may include understanding the components and architecture of the system, as well as the data processing and analysis techniques that are used to extract insights from the data collected by the system.
+
+In the problem analysis and design phase of the Advance Internet of Things Lab, it is important to understand the challenges and requirements of the IoT based Manhole Detection and Monitoring System, and to design a solution that meets the needs of the stakeholders and users. This may include conducting a needs assessment, developing a requirements specification, and designing a system architecture that meets the requirements of the system.
+
+Overall, the IoT based Manhole Detection and Monitoring System is an important tool for improving the safety and security of manholes, and is an important aspect of the study of Advance Internet of Things Lab. Understanding the implementation and design of this system and the applications and benefits of IoT in the field of safety and security is critical to the effective and ethical practice of Internet of Things.

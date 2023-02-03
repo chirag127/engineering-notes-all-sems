@@ -1,0 +1,11 @@
+### IOT Based Coal Mine Safety Monitoring and Alerting System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+
+The IoT Based Coal Mine Safety Monitoring and Alerting System is a system that is designed to monitor and prevent safety hazards in coal mines. The system is part of the Internet of Things (IoT) and uses a network of sensors, wireless communication technologies, and data analytics to monitor and alert authorities in the event of a potential safety hazard.
+
+The IoT Based Coal Mine Safety Monitoring and Alerting System typically includes sensors for monitoring various parameters, such as air quality, temperature, humidity, and gas levels, as well as the movements and activities of miners and mine equipment. The data collected by the sensors is transmitted to a central monitoring system, where it is analyzed using data analytics techniques to detect potential safety hazards and anomalies.
+
+In the event of a potential safety hazard, the central monitoring system generates real-time alerts that are sent to relevant authorities and stakeholders, such as mine supervisors, emergency responders, and miners. The alerts may include information about the location and nature of the potential hazard, as well as instructions for responding to the situation.
+
+In the context of Advance Internet of Things Lab, it is important to understand the implementation of the IoT Based Coal Mine Safety Monitoring and Alerting System, and to be familiar with the applications and benefits of this system. This may include understanding the components and architecture of the system, as well as the data processing and analysis techniques that are used to extract insights from the data collected by the system.
+
+Overall, the IoT Based Coal Mine Safety Monitoring and Alerting System is an important tool for improving the safety and security of coal mines, and is an important aspect of the study of Advance Internet of Things Lab. Understanding the implementation of this system and the applications and benefits of IoT in the field of safety and security is critical to the effective and ethical practice of Internet of Things.
