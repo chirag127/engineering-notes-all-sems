@@ -1,0 +1,2 @@
+revchatgpt
+openai

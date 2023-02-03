@@ -1,0 +1,9 @@
+### Shannon’s theory of confusion and diffusion for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
+
+Shannon's theory of confusion and diffusion is a fundamental concept in cryptography and is used to evaluate the security of encryption algorithms. Confusion refers to the idea of making the relationship between the plaintext and the ciphertext as complex and difficult to determine as possible, while diffusion refers to spreading the plaintext information evenly across the ciphertext.
+
+Confusion is achieved through the use of substitution and permutation operations, controlled by the encryption key, to scramble the plaintext into the ciphertext. The goal is to make the ciphertext appear random and unrelated to the plaintext, even if a small portion of the plaintext is known.
+
+Diffusion, on the other hand, aims to ensure that a change in the plaintext results in a widespread change in the ciphertext. This makes it difficult for an attacker to determine the relationship between the plaintext and ciphertext, even if they have a large amount of ciphertext to analyze.
+
+Shannon's theory of confusion and diffusion is widely used to evaluate the security of encryption algorithms and is a critical component of the design of modern block ciphers. The principles of confusion and diffusion are incorporated into the design of block ciphers such as DES and Triple DES to ensure the security of encrypted data.

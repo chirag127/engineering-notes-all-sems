@@ -1,8 +1,0 @@
-### Use of Priority-Ceiling Protocol in Dynamic Priority Systems for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
-The Priority-Ceiling Protocol (PCP) is a resource allocation mechanism used in real-time systems to resolve priority inversion problems. It works by assigning a ceiling priority to each shared resource, which is higher than the priority of any task that uses that resource. When a task requests access to a shared resource, it temporarily raises its priority to the ceiling priority of that resource. This ensures that no lower-priority task can preempt the task that is currently using the resource.
-
-In dynamic priority systems, the priority of tasks can change dynamically, which can result in priority inversion problems. PCP helps to resolve these problems by ensuring that the ceiling priority of a shared resource is always higher than the priority of any task that uses it. This ensures that the resource is never preempted by a lower-priority task.
-
-PCP is used in real-time systems where resources must be shared between tasks with different priorities. It can also be used in systems where the priority of tasks can change dynamically, such as in embedded systems where the priority of tasks can change based on external events.
-
-In conclusion, the Priority-Ceiling Protocol is an important resource allocation mechanism used in real-time systems to resolve priority inversion problems. It works by assigning a ceiling priority to each shared resource, which is higher than the priority of any task that uses it, and temporarily raising the priority of tasks that request access to the resource. This ensures that the resource is never preempted by a lower-priority task.

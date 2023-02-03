@@ -1,0 +1,66 @@
+## Unit 1 - Quantum Mechanics
+### Inadequacy of classical mechanics for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Planck’s theory of black body radiation(qualitative) for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Compton effect for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### de-Broglie concept of matter waves for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Davisson and Germer Experiment for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Phase velocity and group velocity for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Time-dependent and time-independent Schrodinger wave equations for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Physical interpretation of wave function for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+### Particle in a one-Dimensional box for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS
+## Unit 2 - Electromagnetic Field Theory
+### Basic concept of Stoke’s theorem and Divergence theorem for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Basic laws of electricity and magnetism for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Continuity equation for current density for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Displacement current for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Maxwell equations in integral and differential form for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Maxwell equations in vacuum and in conducting medium for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Poynting vector and Poynting theorem for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Plane electromagnetic waves in vacuum and their transverse nature for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Relation between electric and magnetic fields of an electromagnetic wave for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Plane electromagnetic waves in conducting medium for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+### Skin depth for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS
+## Unit 3 - Wave Optics
+### Coherent sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Interference in uniform and wedge shaped thin films for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Necessity of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Newton’s Rings and its applications for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Introduction to diffraction for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Fraunhoffer diffraction at single slit and double slit for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Absent spectra for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Diffraction grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Spectra with grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Dispersive power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Resolving power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Rayleigh’s criterion of resolution for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+### Resolving power of grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS KCS
+## Unit 4 - Fiber Optics & Laser
+### Fibre Optics: Principle and construction of optical fiber for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Acceptance angle for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Numerical aperture for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Acceptance cone for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Step index and graded index fibers for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Fiber optic communication principle for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Attenuation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Dispersion for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Application of fiber for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Laser: Absorption of radiation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Spontaneous and stimulated emission of radiation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Population inversion for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Einstein’s Coefficients for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Principles of laser action for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Solid state Laser (Ruby laser) and Gas Laser (He-Ne laser) for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+### Laser applications for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS KCS
+## Unit 5 - Superconductors and Nano-Materials:
+### Superconductors: Temperature dependence of resistivity in superconducting materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Meissner effect for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Temperature dependence of critical field for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Persistent current for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Type I and Type II superconductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### High temperature superconductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Properties and Applications of Super-conductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Nano-Materials: Introduction and properties of nano materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Basics concept of Quantum Dots for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Quantum wires and Quantum well for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Fabrication of nano materials -TopDown approach (CVD) and Bottom-Up approach (Sol Gel) for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS
+### Properties and Application of nano materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS

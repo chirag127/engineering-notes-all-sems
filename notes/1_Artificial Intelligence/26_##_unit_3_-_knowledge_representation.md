@@ -1,2 +1,0 @@
-## Unit 3 - Knowledge Representation
-Unit 3 - Knowledge Representation deals with how knowledge is stored and represented in a computer system. It covers topics such as ontologies, semantic networks, frames, and rules. The goal is to represent knowledge in a way that is easily understood by both humans and machines. This unit also covers reasoning and inference techniques, which allow computers to make inferences based on the knowledge they have been given.

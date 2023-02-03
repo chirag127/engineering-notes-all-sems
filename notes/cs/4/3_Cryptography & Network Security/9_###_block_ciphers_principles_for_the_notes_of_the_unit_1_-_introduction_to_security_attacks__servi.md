@@ -1,0 +1,11 @@
+### Block ciphers principles for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
+
+Block ciphers are symmetric encryption algorithms that encrypt fixed-sized blocks of plaintext to produce a corresponding block of ciphertext. The principles of block ciphers are based on two theories proposed by Claude Shannon: confusion and diffusion. Confusion aims to make the relationship between the plaintext and the ciphertext as complex and difficult to determine as possible, while diffusion aims to distribute the plaintext information evenly across the ciphertext.
+
+The Feistel structure is a widely used design for block ciphers, named after Horst Feistel. It consists of several rounds of substitution and permutation operations on the plaintext block, with the key being used to control the operations in each round.
+
+Data Encryption Standard (DES) is a widely used block cipher that was adopted as a standard by the US government in the 1970s. DES uses a 56-bit key, which has become relatively easy to crack. The strength of DES can be increased by using Triple DES, which encrypts the plaintext three times using three different keys.
+
+Differential cryptanalysis is a method of analyzing and attacking ciphers by studying the difference between plaintext and ciphertext pairs. Block cipher modes of operation specify how the cipher should be used with a given plaintext. Common modes include ECB (Electronic Codebook), CBC (Cipher Block Chaining), and CTR (Counter).
+
+In conclusion, block ciphers are an important part of cryptography and play a vital role in securing communication over networks. Understanding the principles of block ciphers, as well as their strengths and weaknesses, is crucial for designing secure systems and defending against attacks.

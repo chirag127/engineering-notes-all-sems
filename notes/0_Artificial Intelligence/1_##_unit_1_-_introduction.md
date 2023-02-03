@@ -1,2 +1,0 @@
-## Unit 1 - Introduction
-Unit 1: Introduction provides an overview of the subject. It covers the fundamentals of the topic and sets the stage for the rest of the course. This unit is designed to give students a basic understanding of the concepts and ideas that will be explored in greater depth in later units. Topics include: definition of the subject, key terms and concepts, and a brief history of the field. The goal of Unit 1 is to provide students with a solid foundation for the rest of the course.

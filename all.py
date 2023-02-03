@@ -14,6 +14,7 @@ from revChatGPT.Official import Chatbot
 # Initialize chatbot
 
 
+
 api_keys = ["***REMOVED***",
             "***REMOVED***", "***REMOVED***"]
 
@@ -42,22 +43,28 @@ def chat(i, file_name) -> bool:
 
     with open(file_name, "w") as f:
 
-        f.write(i + "\n")
+        f.write(i)
 
-        f.write(response["choices"][0]["text"].strip() + "\n")
+        f.write("\n\n" + response["choices"][0]["text"].strip() + "\n")
 
-def main():
+def main(files):
 
-    for file in os.listdir("s"):
+    for file in files:
         if file.endswith(".txt"):
-            print(os.path.join("s", file))
+
+            process_file_name = file
+            file = file.replace("p_s/", "")
 
         f = "notes/" + file.replace(".txt", "")
 
         if not os.path.exists(f):
             os.makedirs(f)
 
-        with open("s/" + file, "r") as f:
+
+        notes_folder = f
+
+
+        with open(process_file_name, "r") as f:
             s = f.read()
 
             p = s.splitlines()
@@ -66,10 +73,10 @@ def main():
             if __name__ == "__main__":
                 # Start chat
                 a = True
-                a = False
+                # a = False
 
                 if a:
-                    m = 20
+                    m = 30
                 else:
                     m = 1
 
@@ -86,17 +93,16 @@ def main():
 
                     file_name = file_name.lower()
 
-                    f = "notes/" + file.replace(".txt", "")
 
-                    file_name = f + "/" + file_name
+
+                    file_name = notes_folder + "/" + file_name
 
                     file_name = file_name + ".md"
 
-                    # file_name = "se.md"
 
                     # check if folder f exists
-                    if not os.path.exists(f):
-                        os.makedirs(f)
+                    if not os.path.exists(notes_folder):
+                        os.makedirs(notes_folder)
 
                     if os.path.exists(file_name):
                         print("File already exists")
@@ -108,7 +114,7 @@ def main():
                             with open(file_name, "r") as f:
                                 lines = f.readlines()
 
-                                if len(lines) > 2:
+                                if len(lines) > 1:
 
                                     return
                     chat(PROMPT, file_name)
@@ -123,6 +129,11 @@ from r import remove
 
 if __name__ == "__main__":
 
+    import glob
+
     for i in range(1):
-        remove()
-        main()
+
+        # get all files in p_s folder
+        files = glob.glob("p_s/**/*.txt", recursive=True)
+
+        main(files)
