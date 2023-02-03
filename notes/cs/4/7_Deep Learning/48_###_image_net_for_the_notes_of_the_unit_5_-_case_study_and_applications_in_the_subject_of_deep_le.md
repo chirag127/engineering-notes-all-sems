@@ -1,0 +1,3 @@
+### Image net for the notes of the Unit 5 - CASE STUDY AND APPLICATIONS in the subject of Deep Learning
+
+ImageNet is a large-scale image dataset used for computer vision and deep learning research. It contains over 14 million images labeled into over 20,000 categories. ImageNet has played a significant role in the development of deep learning, particularly in the field of computer vision. The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual competition that evaluates the performance of computer vision models on a subset of the ImageNet dataset. The competition has driven significant advancements in the field of computer vision and deep learning, with the winning models setting new state-of-the-art performance benchmarks.

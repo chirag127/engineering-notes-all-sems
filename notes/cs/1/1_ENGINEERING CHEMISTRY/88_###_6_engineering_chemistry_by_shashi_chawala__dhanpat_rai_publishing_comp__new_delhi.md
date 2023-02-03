@@ -1,0 +1,3 @@
+### 6. Engineering Chemistry by Shashi Chawala, Dhanpat Rai Publishing Comp, New Delhi
+
+Engineering Chemistry by Shashi Chawala is a textbook published by Dhanpat Rai Publishing Company in New Delhi. It is widely used by engineering students to understand the basic principles of chemistry and their practical applications in engineering. The book covers topics such as chemical thermodynamics, chemical kinetics, electrochemistry, and corrosion science. It provides a comprehensive understanding of the subject and includes numerous examples and exercises to help students grasp the concepts. The book is well-organized and easy to understand, making it a valuable resource for students and professionals alike.

@@ -1,0 +1,3 @@
+## Unit 3 - Differential Calculus-II
+
+Unit 3 of Differential Calculus-II covers advanced topics in differential calculus, building on the concepts introduced in Unit 1 and 2. It typically covers topics such as higher-order derivatives, implicit differentiation, partial derivatives, and optimization. The unit also covers applications of these concepts, such as finding maximum and minimum values, tangent lines, and optimization problems in multiple variables. Students learn to use these tools to model real-world situations, such as optimization in engineering and economics. The unit emphasizes the importance of understanding the underlying concepts and developing problem-solving skills, as these skills are critical for success in many fields.

@@ -1,0 +1,3 @@
+understanding of Chemistry of Engineering materials (Cement).
+
+Cement is a hydraulic binder made by heating a mixture of limestone and clay to form clinker, which is then ground with gypsum to form a fine powder. The chemical reactions that occur during the mixing and setting of cement involve the formation of calcium silicate hydrate (C-S-H) and calcium hydroxide, which give the material its strength and durability. The properties of cement can be modified by adding various chemical admixtures, such as air-entraining agents, superplasticizers, and pozzolanic materials. The type of cement used in construction, such as Portland cement, can also vary based on the desired set time and strength properties.

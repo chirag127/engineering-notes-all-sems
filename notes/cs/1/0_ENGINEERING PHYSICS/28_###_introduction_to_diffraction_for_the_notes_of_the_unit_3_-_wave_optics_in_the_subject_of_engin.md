@@ -1,0 +1,3 @@
+### Introduction to diffraction for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+
+Diffraction is a wave phenomenon where a wave encounters an obstacle or opening and spreads out, bending around the edges of the obstacle. This results in the wavefront being partially transmitted and partially reflected, leading to the formation of a diffraction pattern. Diffraction is an important concept in wave optics and is used to explain the behavior of light and other electromagnetic waves when they pass through apertures or obstacles. In engineering physics, diffraction is studied to understand the behavior of light and sound in various optical and acoustical systems.

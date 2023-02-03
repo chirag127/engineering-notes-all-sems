@@ -1,0 +1,3 @@
+of Paris (POP).
+
+Paris (POP) is a term used to refer to the Paris Agreement, which is a legally binding international treaty signed by 196 countries in 2016 under the United Nations Framework Convention on Climate Change (UNFCCC). The main objective of the Paris Agreement is to limit global warming to well below 2°C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5°C. To achieve this goal, countries agreed to regularly report on their emissions and their efforts to reduce emissions. The Paris Agreement also established a financial mechanism to assist developing countries in their transition to a low-carbon economy. It is considered a landmark agreement in the global effort to address climate change.

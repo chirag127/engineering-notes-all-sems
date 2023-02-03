@@ -1,1 +1,3 @@
 ### ResNet for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+ResNet (Residual Network) is a type of deep neural network architecture that was introduced in 2015. It is designed to alleviate the vanishing gradient problem in deep networks by using skip connections. The residual blocks in ResNet allow information to bypass one or more layers, allowing for easier flow of gradients during backpropagation. This results in better training performance and deeper networks can be trained without encountering the vanishing gradient problem. ResNet has been successful in a wide range of computer vision tasks and is widely used in industry.

@@ -1,0 +1,3 @@
+## Unit 5 - Introduction to Measurement and Mechatronics
+
+Unit 5 of Introduction to Measurement and Mechatronics covers the principles and techniques of measurement and instrumentation in mechanical engineering. The unit covers topics such as measurement accuracy and precision, signal processing, data acquisition, and control systems. The unit also introduces students to the field of mechatronics, which is the integration of mechanical, electrical, and computer systems for the design and control of complex systems. Understanding the principles of measurement and mechatronics is important for students studying mechanical engineering, as it provides a foundation for more advanced topics in the design and control of mechanical systems.

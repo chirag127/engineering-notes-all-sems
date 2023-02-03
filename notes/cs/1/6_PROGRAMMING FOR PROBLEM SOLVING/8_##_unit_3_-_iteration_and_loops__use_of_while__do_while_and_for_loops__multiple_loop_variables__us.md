@@ -1,0 +1,3 @@
+## Unit 3 - Iteration and Loops: Use of While, do While and for Loops, Multiple Loop Variables, Use of Break , Goto and Continue Statements.
+
+Unit 3 of Iteration and Loops covers the use of iteration constructs in programming, including while, do while, and for loops. Loops allow a set of statements to be executed repeatedly until a certain condition is met. The unit covers the use of multiple loop variables, which allow multiple variables to be updated in a single loop. The unit also covers the use of break, goto, and continue statements, which allow for more control over the execution of loops. Understanding iteration and loops is important for students studying programming, as it provides a basis for writing efficient and effective code.

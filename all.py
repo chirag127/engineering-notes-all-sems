@@ -1,12 +1,15 @@
 # get all files in s folder
 
-from concurrent.futures import ThreadPoolExecutor
+import asyncio
 import os
 import random
 import time
+from concurrent.futures import ThreadPoolExecutor
+from time import sleep
 from revChatGPT.Official import Chatbot
 
 from r import remove
+
 
 # a = random.randint(1, 1000)
 # print("Sleeping for {} seconds".format(a))
@@ -21,7 +24,9 @@ api_keys = [
     "***REMOVED***",
 ]
 
-chatbot = Chatbot(api_key=random.choice(api_keys))
+chatbot1 = Chatbot(api_key=api_keys[0])
+chatbot2 = Chatbot(api_key=api_keys[1])
+chatbot3 = Chatbot(api_key=api_keys[2])
 
 
 def chat(i, file_name) -> bool:
@@ -40,11 +45,11 @@ def chat(i, file_name) -> bool:
 
     PROMPT = "write in detail about " + PROMPT
 
-
     try:
         start = time.perf_counter()
         print("User: " + PROMPT)
 
+        chatbot = random.choice([chatbot1, chatbot2, chatbot3])
         response = chatbot.ask(PROMPT)
         print("ChatGPT: " + response["choices"][0]["text"])
         end = time.perf_counter()
@@ -52,8 +57,9 @@ def chat(i, file_name) -> bool:
         print(f"Time taken: {end - start:0.4f} seconds")
     except Exception as error:
         print("Error: " + str(error))
+
+        sleep(10)
         return False
-        
 
     with open(file_name, "w") as f:
         f.write(i)
@@ -86,7 +92,7 @@ def main(files):
                 # a = False
 
                 if a:
-                    m = 10
+                    m = 6
                 else:
                     m = 1
 
@@ -121,7 +127,7 @@ def main(files):
                         os.makedirs(notes_folder)
 
                     if os.path.exists(file_name):
-                        print("File already exists")
+                        # print("File already exists")
 
                         if a:
                             return
@@ -140,7 +146,6 @@ def main(files):
                 #     d(i)
 
 
-
 if __name__ == "__main__":
     import glob
 
@@ -150,5 +155,7 @@ if __name__ == "__main__":
 
         # remove files in notes folder
         remove()
+
+        main(files)
 
         main(files)

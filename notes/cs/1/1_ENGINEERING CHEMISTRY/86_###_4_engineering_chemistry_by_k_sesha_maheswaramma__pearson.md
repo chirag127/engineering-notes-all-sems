@@ -1,0 +1,3 @@
+### 4. Engineering Chemistry by K. Sesha Maheswaramma, Pearson
+
+"Engineering Chemistry" by K. Sesha Maheswaramma is a textbook published by Pearson. It is designed for engineering students and covers various topics in the field of chemistry, including chemical reactions, thermodynamics, and electrochemistry. The book provides a comprehensive understanding of the fundamental principles of chemistry and their applications in engineering. It includes numerous examples and exercises to help students understand and apply the concepts covered. The book is well-organized and written in a clear and concise manner, making it a useful resource for students and instructors alike.

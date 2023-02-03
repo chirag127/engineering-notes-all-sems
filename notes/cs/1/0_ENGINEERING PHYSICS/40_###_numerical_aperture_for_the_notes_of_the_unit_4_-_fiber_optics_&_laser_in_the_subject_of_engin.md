@@ -1,0 +1,3 @@
+### Numerical aperture for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+
+Numerical Aperture (NA) is a measure of the maximum angle of light that can be accepted by an optical fiber and is defined as the sine of half the maximum acceptance angle. It is a key parameter in determining the fiber's light-gathering ability and bandwidth. Higher NA values result in greater light-gathering ability and bandwidth, but also result in increased dispersion. NA values range from 0.1 to 0.5 for single-mode fibers and 0.2 to 1.0 for multimode fibers. NA is defined as the ratio of the maximum angle of light acceptance to the index of refraction of the core material.

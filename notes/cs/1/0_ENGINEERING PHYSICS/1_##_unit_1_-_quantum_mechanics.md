@@ -1,0 +1,3 @@
+## Unit 1 - Quantum Mechanics
+
+Quantum Mechanics is a branch of physics that deals with the behavior of particles at the atomic and subatomic level. It describes how particles can exist in multiple states simultaneously and how they interact with each other and with energy and forces. Key concepts include wave-particle duality, quantization of energy, and the Heisenberg uncertainty principle. The mathematical framework of quantum mechanics is used to make predictions about the behavior of particles in various systems and is essential for understanding phenomena such as quantum entanglement and quantum computing.

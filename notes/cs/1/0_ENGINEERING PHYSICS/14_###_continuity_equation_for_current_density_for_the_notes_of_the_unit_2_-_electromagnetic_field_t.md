@@ -1,0 +1,3 @@
+### Continuity equation for current density for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+
+Continuity equation for current density states that the rate of change of current density at a point in a given region is equal to the rate of flow of current into the region minus the rate of flow of current out of the region. Mathematically, it is represented as ∇.J = -dρ/dt, where J is current density, ρ is charge density and t is time. This equation is a fundamental principle in electromagnetism and is used to calculate the distribution of current in a conductor.

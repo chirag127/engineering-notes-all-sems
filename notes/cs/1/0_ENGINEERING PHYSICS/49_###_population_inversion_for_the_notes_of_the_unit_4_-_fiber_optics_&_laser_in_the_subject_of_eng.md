@@ -1,0 +1,3 @@
+### Population inversion for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+
+Population inversion is a condition in which a larger number of atoms or molecules are in an excited state than in the ground state. In a population inversion, the energy levels of the atoms or molecules are such that it is more likely for a photon to be absorbed than emitted. This is the key requirement for laser action, as the population inversion provides the necessary energy to sustain the laser process. The population inversion is achieved through various methods, including pumping, optical pumping, and electrical pumping. In fiber optics and laser technology, population inversion plays a crucial role in the generation and amplification of laser light.

@@ -1,0 +1,3 @@
+### Persistent current for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+
+Persistent current is a current that continues to flow in a superconducting material without any external electrical source. It is due to the zero resistance of the superconducting material and the absence of an electrical field in the material. The current can persist for an indefinite period of time, thus the name "persistent current". This current is important in the study of superconductors and nano-materials because it provides insight into the behavior of electrons in these materials. Additionally, it has potential applications in the development of quantum computing and other quantum technologies.

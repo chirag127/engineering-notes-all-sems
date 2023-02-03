@@ -1,0 +1,3 @@
+### Compton effect for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+
+Compton effect refers to the scattering of photons by free electrons, resulting in a decrease in energy (and increase in wavelength) of the scattered photon. It was first described by Arthur Compton in 1923 and confirmed the wave-particle duality of light. The effect can be described by the Compton formula, which relates the change in wavelength to the scattering angle of the photon. It is a fundamental process in physics and has important applications in fields such as medical imaging and cosmic ray studies.

@@ -1,0 +1,3 @@
+### Acceptance cone for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+
+Acceptance cone is the region in which light enters the optical fiber. It is defined by the numerical aperture (NA) of the fiber, which is a measure of the maximum angle of light that can enter the fiber. An optical fiber with a larger NA will have a larger acceptance cone, allowing more light to enter the fiber. The acceptance cone is important in fiber optics because it determines the amount of light that can be transmitted through the fiber and the amount of signal loss that will occur. In the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS, the acceptance cone is a key concept that is covered in detail.
