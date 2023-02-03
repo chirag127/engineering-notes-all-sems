@@ -1,0 +1,3 @@
+### Clippers for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+Clippers are electronic circuits that remove parts of a waveform. They are used to limit the amplitude of a waveform to a defined maximum value. There are two types of clippers: positive clippers and negative clippers. Positive clippers clip only positive half cycles, while negative clippers clip only negative half cycles. Clippers are commonly used in analog circuits to prevent overloading of amplifiers and to reduce noise in signals. They are also used in digital circuits for waveform shaping and to remove unwanted parts of a signal.

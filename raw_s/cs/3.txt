@@ -1,0 +1,1823 @@
+Database Management System (KCS501)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Apply knowledge of database for real life applications. K3
+CO 2 Apply query processing techniques to automate the real time problems of databases. K3, K4
+CO 3 Identify and solve the redundancy problem in database tables using normalization. K2, K3
+CO 4
+Understand the concepts of transactions, their processing so they will familiar with broad range
+of database management issues including data integrity, security and recovery.
+K2, K4
+CO 5 Design, develop and implement a small database project using database tools. K3, K6
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: Overview, Database System vs File System, Database System Concept and
+Architecture, Data Model Schema and Instances, Data Independence and Database Language and
+Interfaces, Data Definitions Language, DML, Overall Database Structure. Data Modeling Using the
+Entity Relationship Model: ER Model Concepts, Notation for ER Diagram, Mapping Constraints,
+Keys, Concepts of Super Key, Candidate Key, Primary Key, Generalization, Aggregation,
+Reduction of an ER Diagrams to Tables, Extended ER Model, Relationship of Higher Degree.
+08
+II
+Relational data Model and Language: Relational Data Model Concepts, Integrity Constraints,
+Entity Integrity, Referential Integrity, Keys Constraints, Domain Constraints, Relational Algebra,
+Relational Calculus, Tuple and Domain Calculus. Introduction on SQL: Characteristics of SQL,
+Advantage of SQL. SQl Data Type and Literals. Types of SQL Commands. SQL Operators and
+Their Procedure. Tables, Views and Indexes. Queries and Sub Queries. Aggregate Functions.
+Insert, Update and Delete Operations, Joins, Unions, Intersection, Minus, Cursors, Triggers,
+Procedures in SQL/PL SQL
+08
+III
+Data Base Design & Normalization: Functional dependencies, normal forms, first, second, 8 third
+normal forms, BCNF, inclusion dependence, loss less join decompositions, normalization using
+FD, MVD, and JDs, alternative approaches to database design
+08
+IV
+Transaction Processing Concept: Transaction System, Testing of Serializability, Serializability of
+Schedules, Conflict & View Serializable Schedule, Recoverability, Recovery from Transaction
+Failures, Log Based Recovery, Checkpoints, Deadlock Handling. Distributed Database: Distributed
+Data Storage, Concurrency Control, Directory System.
+08
+V
+Concurrency Control Techniques: Concurrency Control, Locking Techniques for Concurrency
+Control, Time Stamping Protocols for Concurrency Control, Validation Based Protocol, Multiple
+Granularity, Multi Version Schemes, Recovery with Concurrent Transaction, Case Study of Oracle.
+08
+Text books:
+1. Korth, Silbertz, Sudarshan,” Database Concepts”, McGraw Hill
+2. Date C J, “An Introduction to Database Systems”, Addision Wesley
+3. Elmasri, Navathe, “ Fundamentals of Database Systems”, Addision Wesley
+4. O’Neil, Databases, Elsevier Pub.
+5. RAMAKRISHNAN"Database Management Systems",McGraw Hill
+6. Leon & Leon,”Database Management Systems”, Vikas Publishing House
+7. Bipin C. Desai, “ An Introduction to Database Systems”, Gagotia Publications
+8. Majumdar & Bhattacharya, “Database Management System”, TMH
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 4
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Compiler Design (KCS-502)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1
+Acquire knowledge of different phases and passes of the compiler and also able to use the
+compiler tools like LEX, YACC, etc. Students will also be able to design different types of
+compiler tools to meet the requirements of the realistic constraints of compilers.
+K3, K6
+CO 2
+Understand the parser and its types i.e. Top-Down and Bottom-up parsers and construction of
+LL, SLR, CLR, and LALR parsing table.
+K2, K6
+CO 3 Implement the compiler using syntax-directed translation method and get knowledge about the
+synthesized and inherited attributes.
+K4, K5
+CO 4 Acquire knowledge about run time data structure like symbol table organization and different
+techniques used in that.
+K2, K3
+CO 5
+Understand the target machine’s run time environment, its instruction set for code generation
+and techniques used for code optimization.
+K2, K4
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction to Compiler: Phases and passes, Bootstrapping, Finite state machines and regular
+expressions and their applications to lexical analysis, Optimization of DFA-Based Pattern Matchers
+implementation of lexical analyzers, lexical-analyzer generator, LEX compiler, Formal grammars
+and their application to syntax analysis, BNF notation, ambiguity, YACC. The syntactic
+specification of programming languages: Context free grammars, derivation and parse trees,
+capabilities of CFG.
+08
+II
+Basic Parsing Techniques: Parsers, Shift reduce parsing, operator precedence parsing, top down
+parsing, predictive parsers Automatic Construction of efficient Parsers: LR parsers, the canonical
+Collection of LR(0) items, constructing SLR parsing tables, constructing Canonical LR parsing
+tables, Constructing LALR parsing tables, using ambiguous grammars, an automatic parser
+generator, implementation of LR parsing tables.
+08
+III
+Syntax-directed Translation: Syntax-directed Translation schemes, Implementation of Syntaxdirected Translators, Intermediate code, postfix notation, Parse trees & syntax trees, three address
+code, quadruple & triples, translation of assignment statements, Boolean expressions, statements
+that alter the flow of control, postfix translation, translation with a top down parser. More about
+translation: Array references in arithmetic expressions, procedures call, declarations and case
+statements.
+08
+IV
+Symbol Tables: Data structure for symbols tables, representing scope information. Run-Time
+Administration: Implementation of simple stack allocation scheme, storage allocation in block
+structured language. Error Detection & Recovery: Lexical Phase errors, syntactic phase errors
+semantic errors.
+08
+V
+Code Generation: Design Issues, the Target Language. Addresses in the Target Code, Basic
+Blocks and Flow Graphs, Optimization of Basic Blocks, Code Generator. Code optimization:
+Machine-Independent Optimizations, Loop optimization, DAG representation of basic blocks,
+value numbers and algebraic laws, Global Data-Flow analysis.
+08
+Text books:
+1. Aho, Sethi & Ullman, "Compilers: Principles, Techniques and Tools”, Pearson Education
+2. K. Muneeswaran,Compiler Design,First Edition,Oxford University Press
+3. J.P. Bennet, “Introduction to Compiler Techniques”, Second Edition, McGraw-Hill,2003.
+4. Henk Alblas and Albert Nymeyer, “Practice and Principles of Compiler Building with C”, PHI, 2001.
+5. V Raghvan, “ Principles of Compiler Design”, McGraw-Hill,
+6. Kenneth Louden,” Compiler Construction”, Cengage Learning.
+7. Charles Fischer and Ricard LeBlanc,” Crafting a Compiler with C”, Pearson Education
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 5
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Design and Analysis of Algorithm (KCS503)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Design new algorithms, prove them correct, and analyze their asymptotic and absolute runtime
+and memory demands.
+K4, K6
+CO 2 Find an algorithm to solve the problem (create) and prove that the algorithm solves the problem
+correctly (validate).
+K5, K6
+CO 3 Understand the mathematical criterion for deciding whether an algorithm is efficient, and know
+many practically important problems that do not admit any efficient algorithms.
+K2, K5
+CO 4 Apply classical sorting, searching, optimization and graph algorithms. K2, K4
+CO 5 Understand basic techniques for designing algorithms, including the techniques of recursion,
+divide-and-conquer, and greedy.
+K2, K3
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: Algorithms, Analyzing Algorithms, Complexity of Algorithms, Growth of
+Functions, Performance Measurements, Sorting and Order Statistics - Shell Sort, Quick Sort, Merge
+Sort, Heap Sort, Comparison of Sorting Algorithms, Sorting in Linear Time.
+08
+II
+Advanced Data Structures: Red-Black Trees, B – Trees, Binomial Heaps, Fibonacci Heaps,
+Tries, Skip List 08
+III
+Divide and Conquer with Examples Such as Sorting, Matrix Multiplication, Convex Hull and
+Searching.
+Greedy Methods with Examples Such as Optimal Reliability Allocation, Knapsack, Minimum
+Spanning Trees – Prim’s and Kruskal’s Algorithms, Single Source Shortest Paths - Dijkstra’s and
+Bellman Ford Algorithms.
+08
+IV
+Dynamic Programming with Examples Such as Knapsack. All Pair Shortest Paths – Warshal’s
+and Floyd’s Algorithms, Resource Allocation Problem.
+Backtracking, Branch and Bound with Examples Such as Travelling Salesman Problem, Graph
+Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets.
+08
+V
+Selected Topics: Algebraic Computation, Fast Fourier Transform, String Matching, Theory of NPCompleteness, Approximation Algorithms and Randomized Algorithms 08
+Text books:
+1. Thomas H. Coreman, Charles E. Leiserson and Ronald L. Rivest, “Introduction to Algorithms”, Printice Hall of
+India.
+2. E. Horowitz & S Sahni, "Fundamentals of Computer Algorithms",
+3. Aho, Hopcraft, Ullman, “The Design and Analysis of Computer Algorithms” Pearson Education, 2008.
+4. LEE "Design & Analysis of Algorithms (POD)",McGraw Hill
+5. Richard E.Neapolitan "Foundations of Algorithms" Jones & Bartlett Learning
+6. Jon Kleinberg and Éva Tardos, Algorithm Design, Pearson, 2005.
+7. Michael T Goodrich and Roberto Tamassia, Algorithm Design: Foundations, Analysis, and Internet Examples,
+Second Edition, Wiley, 2006.
+8. Harry R. Lewis and Larry Denenberg, Data Structures and Their Algorithms, Harper Collins, 1997
+9. Robert Sedgewick and Kevin Wayne, Algorithms, fourth edition, Addison Wesley, 2011.
+10. Harsh Bhasin,”Algorithm Design and Analysis”,First Edition,Oxford University Press.
+11. Gilles Brassard and Paul Bratley,Algorithmics:Theory and Practice,Prentice Hall,1995.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 6
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Data Analytics (KCS-051)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to :
+CO 1 Describe the life cycle phases of Data Analytics through discovery, planning and
+building.
+K1,K2
+CO 2 Understand and apply Data Analysis Techniques. K2, K3
+CO 3 Implement various Data streams. K3
+CO 4 Understand item sets, Clustering, frame works & Visualizations. K2
+CO 5 Apply R tool for developing and evaluating real time applications. K3,K5,K6
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction to Data Analytics: Sources and nature of data, classification of data
+(structured, semi-structured, unstructured), characteristics of data, introduction to Big Data
+platform, need of data analytics, evolution of analytic scalability, analytic process and
+tools, analysis vs reporting, modern data analytic tools, applications of data analytics.
+Data Analytics Lifecycle: Need, key roles for successful analytic projects, various phases
+of data analytics lifecycle – discovery, data preparation, model planning, model building,
+communicating results, operationalization.
+08
+II
+Data Analysis: Regression modeling, multivariate analysis, Bayesian modeling, inference
+and Bayesian networks, support vector and kernel methods, analysis of time series: linear
+systems analysis & nonlinear dynamics, rule induction, neural networks: learning and
+generalisation, competitive learning, principal component analysis and neural networks,
+fuzzy logic: extracting fuzzy models from data, fuzzy decision trees, stochastic search
+methods.
+08
+III
+Mining Data Streams: Introduction to streams concepts, stream data model and
+architecture, stream computing, sampling data in a stream, filtering streams, counting
+distinct elements in a stream, estimating moments, counting oneness in a window,
+decaying window, Real-time Analytics Platform ( RTAP) applications, Case studies – real
+time sentiment analysis, stock market predictions.
+08
+IV
+Frequent Itemsets and Clustering: Mining frequent itemsets, market based modelling,
+Apriori algorithm, handling large data sets in main memory, limited pass algorithm,
+counting frequent itemsets in a stream, clustering techniques: hierarchical, K-means,
+clustering high dimensional data, CLIQUE and ProCLUS, frequent pattern based clustering
+methods, clustering in non-euclidean space, clustering for streams and parallelism.
+08
+V
+Frame Works and Visualization: MapReduce, Hadoop, Pig, Hive, HBase, MapR,
+Sharding, NoSQL Databases, S3, Hadoop Distributed File Systems, Visualization: visual
+data analysis techniques, interaction techniques, systems and applications.
+Introduction to R - R graphical user interfaces, data import and export, attribute and data
+types, descriptive statistics, exploratory data analysis, visualization before analysis,
+analytics for unstructured data.
+08
+Text books and References:
+1. Michael Berthold, David J. Hand, Intelligent Data Analysis, Springer
+2. Anand Rajaraman and Jeffrey David Ullman, Mining of Massive Datasets, Cambridge University Press.
+3. Bill Franks, Taming the Big Data Tidal wave: Finding Opportunities in Huge Data Streams with Advanced
+Analytics, John Wiley & Sons.
+4. John Garrett, Data Analytics for IT Networks : Developing Innovative Use Cases, Pearson Education
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 7
+5. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data, Big Analytics: Emerging Business
+Intelligence and Analytic Trends for Today's Businesses", Wiley
+6. David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big Data Analytics”, EMC Education Series,
+John Wiley
+7. Frank J Ohlhorst, “Big Data Analytics: Turning Big Data into Big Money”, Wiley and SAS Business Series
+8. Colleen Mccue, “Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis”,
+Elsevier
+9. Michael Berthold, David J. Hand,” Intelligent Data Analysis”, Springer
+10. Paul Zikopoulos, Chris Eaton, Paul Zikopoulos, “Understanding Big Data: Analytics for Enterprise Class
+Hadoop and Streaming Data”, McGraw Hill
+11. Trevor Hastie, Robert Tibshirani, Jerome Friedman, "The Elements of Statistical Learning", Springer
+12. Mark Gardner, “Beginning R: The Statistical Programming Language”, Wrox Publication
+13. Pete Warden, Big Data Glossary, O’Reilly
+14. Glenn J. Myatt, Making Sense of Data, John Wiley & Sons
+15. Pete Warden, Big Data Glossary, O’Reilly.
+16. Peter Bühlmann, Petros Drineas, Michael Kane, Mark van der Laan, "Handbook of Big Data", CRC Press
+17. Jiawei Han, Micheline Kamber “Data Mining Concepts and Techniques”, Second Edition, Elsevier
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 8
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Web Designing (KCS-052)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand principle of Web page design and about types of websites K3, K4
+CO 2 Visualize and Recognize the basic concept of HTML and application in web designing. K1, K2
+CO 3 Recognize and apply the elements of Creating Style Sheet (CSS). K2, K4
+CO 4 Understand the basic concept of Java Script and its application. K2, K3
+CO 5 Introduce basics concept of Web Hosting and apply the concept of SEO K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction : Basic principles involved in developing a web site, Planning process , Domains and
+Hosting, Responsive Web Designing , Types of Websites (Static and Dynamic Websites), Web
+Standards and W3C recommendations,
+Introduction to HTML: What is HTML , HTML Documents, Basic structure of an HTML
+document , Creating an HTML document , Mark up Tags , Heading-Paragraphs , Line Breaks
+08
+II
+Elements of HTML: HTML Tags., Working with Text , Working with Lists, Tables and Frames,
+Working with Hyperlinks, Images and Multimedia, Working with Forms and controls 08
+III
+Concept of CSS: Creating Style Sheet, CSS Properties , CSS Styling(Background, Text Format,
+Controlling Fonts) , Working with block elements and objects , Working with Lists and Tables ,
+CSS Id and Class, Box Model(Introduction, Border properties, Padding Properties, Margin
+properties) CSS Advanced(Grouping, Dimension, Display, Positioning, Floating, Align, Pseudo
+class, Navigation Bar, Image Sprites, Attribute sector) , CSS Color , Creating page Layout and Site
+Designs.
+08
+IV
+Introduction to Client Side Scripting , Introduction to Java Script , Javascript Types , Variables in
+JS, Operators in JS , Conditions Statements , Java Script Loops, JS Popup Boxes , JS Events , JS
+Arrays, Working with Arrays, JS Objects ,JS Functions , Using Java Script in Real time ,
+Validation of Forms, Related Examples
+08
+V
+Web Hosting: Web Hosting Basics , Types of Hosting Packages, Registering domains , Defining
+Name Servers , Using Control Panel, Creating Emails in Cpanel , Using FTP Client, Maintaining a
+Website
+Concepts of SEO : Basics of SEO, Importance of SEO, Onpage Optimization Basics
+08
+Text Books:
+1. Steven M. Schafer, “HTML, XHTML, and CSS Bible, 5ed”, Wiley India
+2. Ian Pouncey, Richard York, “Beginning CSS: Cascading Style Sheets for Web Design”, Wiley India
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 9
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Computer Graphics (KCS-053)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the graphics hardware used in field of computer graphics. K2
+CO 2
+Understand the concept of graphics primitives such as lines and circle based on different
+algorithms.
+K2, K4
+CO 3 Apply the 2D graphics transformations, composite transformation and Clipping concepts. K4
+CO 4
+Apply the concepts of and techniques used in 3D computer graphics, including viewing
+transformations.
+K2, K3
+CO 5 Perform the concept of projections, curve and hidden surfaces in real life. K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction and Line Generation: Types of computer graphics, Graphic Displays- Random scan
+displays, Raster scan displays, Frame buffer and video controller, Points and lines, Line drawing
+algorithms, Circle generating algorithms, Mid-point circle generating algorithm, and parallel
+version of these algorithms.
+08
+II
+Transformations: Basic transformation, Matrix representations and homogenous coordinates,
+Composite transformations, Reflections and shearing.
+Windowing and Clipping: Viewing pipeline, Viewing transformations, 2-D Clipping algorithmsLine clipping algorithms such as Cohen Sutherland line clipping algorithm, Liang Barsky
+algorithm, Line clipping against non rectangular clip windows; Polygon clipping – Sutherland
+Hodgeman polygon clipping, Weiler and Atherton polygon clipping, Curve clipping, Text clipping
+08
+III Three Dimensional: 3-D Geometric Primitives, 3-D Object representation, 3-D Transformation, 3-
+D viewing, projections, 3-D Clipping.
+08
+IV Curves and Surfaces: Quadric surfaces, Spheres, Ellipsoid, Blobby objects, Introductory concepts
+of Spline, Bspline and Bezier curves and surfaces.
+08
+V
+Hidden Lines and Surfaces: Back Face Detection algorithm, Depth buffer method, A- buffer
+method, Scan line method, basic illumination models– Ambient light, Diffuse reflection, Specular
+reflection and Phong model, Combined approach, Warn model, Intensity Attenuation, Color
+consideration, Transparency and Shadows.
+08
+Text books:
+1. Donald Hearn and M Pauline Baker, “Computer Graphics C Version”, Pearson Education
+2. Foley, Vandam, Feiner, Hughes – “Computer Graphics principle”, Pearson Education.
+3. Rogers, “ Procedural Elements of Computer Graphics”, McGraw Hill
+4. W. M. Newman, R. F. Sproull – “Principles of Interactive computer Graphics” – McGraw Hill.
+5. Amrendra N Sinha and Arun D Udai,” Computer Graphics”, McGraw Hill.
+6. R.K. Maurya, “Computer Graphics ” Wiley Dreamtech Publication.
+7. Mukherjee, Fundamentals of Computer graphics & Multimedia, PHI Learning Private Limited.
+8. Donald Hearn and M Pauline Baker, “Computer Graphics with Open GL”, Pearson education
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 10
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Object Oriented System Design (KCS-054)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Understand the application development and analyze the insights of object oriented
+programming to implement application
+K2, K4
+CO 2 Understand, analyze and apply the role of overall modeling concepts (i.e. System, structural) K2, K3
+CO 3 Understand, analyze and apply oops concepts (i.e. abstraction, inheritance) K2, K3, K4
+CO 4 Understand the basic concepts of C++ to implement the object oriented concepts K2, K3
+CO 5 To understand the object oriented approach to implement real world problem. K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: The meaning of Object Orientation, object identity, Encapsulation, information
+hiding, polymorphism, generosity, importance of modelling, principles of modelling, object oriented
+modelling, Introduction to UML, conceptual model of the UML, Architecture.
+08
+II
+Basic Structural Modeling: Classes, Relationships, common Mechanisms, and diagrams. Class
+&Object Diagrams: Terms, concepts, modelling techniques for Class & Object Diagrams.
+Collaboration Diagrams: Terms, Concepts, depicting a message, polymorphism in collaboration
+Diagrams, iterated messages, use of self in messages. Sequence Diagrams: Terms, concepts,
+depicting asynchronous messages with/without priority, call-back mechanism, broadcast messages.
+Basic Behavioural Modeling: Use cases, Use case Diagrams, Activity Diagrams, State Machine ,
+Process and thread, Event and signals, Time diagram, interaction diagram, Package diagram.
+Architectural Modeling: Component, Deployment, Component diagrams and Deployment
+diagrams.
+08
+III
+Object Oriented Analysis: Object oriented design, Object design, Combining three models, Designing
+algorithms, design optimization, Implementation of control, Adjustment of inheritance, Object
+representation, Physical packaging, Documenting design considerations.
+Structured analysis and structured design (SA/SD), Jackson Structured Development
+(JSD).Mapping object oriented concepts using non-object oriented language, Translating classes into
+data structures, Passing arguments to methods, Implementing inheritance, associations encapsulation.
+Object oriented programming style: reusability, extensibility, robustness, programming in the
+large. Procedural v/s OOP, Object oriented language features. Abstraction and Encapsulation.
+08
+IV
+C++ Basics : Overview, Program structure, namespace, identifiers, variables, constants, enum,
+operators, typecasting, control structures
+C++ Functions : Simple functions, Call and Return by reference, Inline functions, Macro Vs. Inline
+functions, Overloading of functions, default arguments, friend functions, virtual functions
+08
+V
+Objects and Classes : Basics of object and class in C++, Private and public members, static data
+and function members, constructors and their types, destructors, operator overloading, type
+conversion. Inheritance : Concept of Inheritance, types of inheritance: single, multiple, multilevel,
+hierarchical, hybrid, protected members, overriding, virtual base class
+Polymorphism : Pointers in C++, Pointes and Objects, this pointer, virtual and pure virtual
+functions, Implementing polymorphism
+08
+Text Books
+1. James Rumbaugh et. al, “Object Oriented Modeling and Design”, Pearson Education
+2. Grady Booch, James Rumbaugh, Ivar Jacobson, “The Unified Modeling Language User Guide”, Pearson
+Education
+3. Object Oriented Programming With C++, E Balagurusamy, McGraw Hill.
+4. C++ Programming, Black Book, Steven Holzner, dreamtech
+5. Object Oriented Programming in Turbo C++, Robert Lafore, Galgotia
+6. Object Oriented Programming with ANSI and Turbo C++, Ashok Kamthane, Pearson
+7. The Compete Reference C++, Herbert Schlitz, McGraw Hill.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 11
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Machine Learning Techniques (KCS 055)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able:
+CO 1 To understand the need for machine learning for various problem solving K1 , K2
+CO 2 To understand a wide variety of learning algorithms and how to evaluate models generated
+from data
+K1 , K3
+CO 3 To understand the latest trends in machine learning K2 , K3
+CO 4 To design appropriate machine learning algorithms and apply the algorithms to a real-world
+problems
+K4 , K6
+CO 5 To optimize the models learned and report on the expected accuracy that can be achieved by
+applying the models
+K4, K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+INTRODUCTION – Learning, Types of Learning, Well defined learning problems, Designing a
+Learning System, History of ML, Introduction of Machine Learning Approaches – (Artificial
+Neural Network, Clustering, Reinforcement Learning, Decision Tree Learning, Bayesian
+networks, Support Vector Machine, Genetic Algorithm), Issues in Machine Learning and Data
+Science Vs Machine Learning;
+08
+II
+REGRESSION: Linear Regression and Logistic Regression
+BAYESIAN LEARNING - Bayes theorem, Concept learning, Bayes Optimal Classifier, Naïve
+Bayes classifier, Bayesian belief networks, EM algorithm.
+SUPPORT VECTOR MACHINE: Introduction, Types of support vector kernel – (Linear
+kernel, polynomial kernel,and Gaussiankernel), Hyperplane – (Decision surface), Properties of
+SVM, and Issues in SVM.
+08
+III
+DECISION TREE LEARNING - Decision tree learning algorithm, Inductive bias, Inductive
+inference with decision trees, Entropy and information theory, Information gain, ID-3 Algorithm,
+Issues in Decision tree learning.
+INSTANCE-BASED LEARNING – k-Nearest Neighbour Learning, Locally Weighted
+Regression, Radial basis function networks, Case-based learning.
+08
+IV
+ARTIFICIAL NEURAL NETWORKS – Perceptron’s, Multilayer perceptron, Gradient
+descent and the Delta rule, Multilayer networks, Derivation of Backpropagation Algorithm,
+Generalization, Unsupervised Learning – SOM Algorithm and its variant;
+DEEP LEARNING - Introduction,concept of convolutional neural network , Types of layers –
+(Convolutional Layers , Activation function , pooling , fully connected) , Concept of Convolution
+(1D and 2D) layers, Training of network, Case study of CNN for eg on Diabetic Retinopathy,
+Building a smart speaker, Self-deriving car etc.
+08
+V
+REINFORCEMENT LEARNING–Introduction to Reinforcement Learning , Learning
+Task,Example of Reinforcement Learning in Practice, Learning Models for Reinforcement –
+(Markov Decision process , Q Learning - Q Learning function, Q Learning Algorithm ),
+Application of Reinforcement Learning,Introduction to Deep Q Learning.
+GENETIC ALGORITHMS: Introduction, Components, GA cycle of reproduction, Crossover,
+Mutation, Genetic Programming, Models of Evolution and Learning, Applications.
+08
+Text books:
+1. Tom M. Mitchell, ―Machine Learning, McGraw-Hill Education (India) Private Limited, 2013.
+2. Ethem Alpaydin, ―Introduction to Machine Learning (Adaptive Computation and
+Machine Learning), The MIT Press 2004.
+3. Stephen Marsland, ―Machine Learning: An Algorithmic Perspective, CRC Press, 2009.
+4. Bishop, C., Pattern Recognition and Machine Learning. Berlin: Springer-Verlag.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 12
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Application of Soft Computing (KCS- 056)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to :
+CO 1 Recognize the feasibility of applying a soft computing methodology for a particular problem K2, K4
+CO 2
+Understand the concepts and techniques of soft computing and foster their abilities in designing
+and implementing soft computing based solutions for real-world and engineering problems.
+K2,K4, K6
+CO 3
+Apply neural networks to pattern classification and regression problems and compare
+solutions by various soft computing approaches for a given problem.
+K3, K5
+CO 4 Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems K3, K4
+CO 5 Apply genetic algorithms to combinatorial optimization problems K3, K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Neural Networks-I (Introduction & Architecture) : Neuron, Nerve structure and synapse,
+Artificial Neuron and its model, activation functions, Neural network architecture: single layer and
+multilayer feed forward networks, recurrent networks. Various learning techniques; perception and
+convergence rule, Auto-associative and hetro-associative memory.
+08
+II
+Neural Networks-II (Back propagation networks): Architecture: perceptron model, solution,
+single layer artificial neural network, multilayer perception model; back propagation learning
+methods, effect of learning rule co-efficient ;back propagation algorithm, factors affecting
+backpropagation training, applications.
+08
+III Fuzzy Logic-I (Introduction): Basic concepts of fuzzy logic, Fuzzy sets and Crisp sets, Fuzzy set
+theory and operations, Properties of fuzzy sets, Fuzzy and Crisp relations, Fuzzy to Crisp
+conversion.
+08
+IV Fuzzy Logic –II (Fuzzy Membership, Rules) : Membership functions, interference in fuzzy logic,
+fuzzy if-then rules, Fuzzy implications and Fuzzy algorithms, Fuzzyfications & Defuzzificataions,
+Fuzzy Controller, Industrial applications
+08
+V
+Genetic Algorithm(GA): Basic concepts, working principle, procedures of GA, flow chart of GA,
+Genetic representations, (encoding) Initialization and selection, Genetic operators, Mutation,
+Generational Cycle, applications.
+08
+Text books:
+1. S. Rajsekaran & G.A. Vijayalakshmi Pai, “Neural Networks,Fuzzy Logic and Genetic Algorithm:Synthesis and
+ Applications” Prentice Hall of India.
+2. N. P. Padhy, "Artificial Intelligence and Intelligent Systems” Oxford University Press. Reference
+Books:
+3. Siman Haykin, "Neural Netowrks”, Pearson Education
+4. Timothy J. Ross, “Fuzzy Logic with Engineering Applications” Wiley India.
+5. Kumar Satish, “Neural Networks” McGraw Hill
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 13
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Augmented & Virtual Reality (KCS- 057)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able :
+CO 1
+To make students know the basic concept and understand the framework of virtual
+reality.
+K1 , K2
+CO 2
+To understand principles and multidisciplinary features of virtual reality and apply it in
+developing applications.
+K2 , K4
+CO 3
+To know the technology for multimodal user interaction and perception VR, in
+particular the visual, audial and haptic interface and behavior.
+K2 , K3
+CO 4
+To understand and apply technology for managing large scale VR environment in real
+time.
+K2 , K3
+CO 5
+To understand an introduction to the AR system framework and apply AR tools in
+software development.
+K2 , K3,
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS: The historical development of VR:
+Scientific landmarks Computer Graphics, Real-time computer graphics, Flight simulation, Virtual
+environments, Requirements for VR, benefits of Virtual reality.
+HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES: Visual Displays Auditory
+Displays, Haptic Displays, Choosing Output Devices for 3D User Interfaces.
+08
+II
+3D USER INTERFACE INPUT HARDWARE: Input device characteristics, Desktop input
+devices, Tracking Devices, 3D Mice, Special Purpose Input Devices, Direct Human Input, Home -
+Brewed Input Devices, Choosing Input Devices for 3D Interfaces.
+08
+III
+SOFTWARE TECHNOLOGIES: Database - World Space, World Coordinate, World
+Environment, Objects - Geometry, Position / Orientation, Hierarchy, Bounding Volume, Scripts
+and other attributes, VR Environment - VR Database, Tessellated Data, LODs, Cullers and
+Occluders, Lights and Cameras, Scripts, Interaction - Simple, Feedback, Graphical User Interface,
+Control Panel, 2D Controls, Hardware Controls, Room / Stage / Area Descriptions, World
+Authoring and Playback, VR toolkits, Available software in the market
+08
+IV
+3D INTERACTION TECHNIQUES: 3D Manipulation tasks, Manipulation Techniques and
+Input Devices, Interaction Techniques for 3D Manipulation, Deign Guidelines - 3D Travel Tasks,
+Travel Techniques, Design Guidelines - Theoretical Foundations of Wayfinding, User Centered
+Wayfinding Support, Environment Centered Wayfinding Support, Evaluating Wayfinding Aids,
+Design Guidelines - System Control, Classification, Graphical Menus, Voice Commands, Gestrual
+Commands, Tools, Mutimodal System Control Techniques, Design Guidelines, Case Study:
+Mixing System Control Methods, Symbolic Input Tasks, symbolic Input Techniques, Design
+Guidelines, Beyond Text and Number entry .
+08
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 14
+DESIGNING AND DEVELOPING 3D USER INTERFACES: Strategies for Designing and
+Developing Guidelines and Evaluation.
+VIRTUAL REALITY APPLICATIONS: Engineering, Architecture, Education, Medicine,
+Entertainment, Science, Training.
+V
+Augmented and Mixed Reality, Taxonomy, technology and features of augmented reality,
+difference between AR and VR, Challenges with AR, AR systems and functionality, Augmented
+reality methods, visualization techniques for augmented reality, wireless displays in educational
+augmented reality applications, mobile projection interfaces, marker-less tracking for augmented
+reality, enhancing interactivity in AR environments, evaluating AR systems.
+08
+Text books:
+1. Alan B Craig, William R Sherman and Jeffrey D Will, “Developing Virtual Reality Applications: Foundations of
+Effective Design”, Morgan Kaufmann, 2009.
+2. Gerard Jounghyun Kim, “Designing Virtual Systems: The Structured Approach”, 2005.
+3. Doug A Bowman, Ernest Kuijff, Joseph J LaViola, Jr and Ivan Poupyrev, “3D User Interfaces, Theory and Practice”,
+Addison Wesley, USA, 2005.
+4. Oliver Bimber and Ramesh Raskar, “Spatial Augmented Reality: Meging Real and Virtual Worlds”, 2005.
+5. Burdea, Grigore C and Philippe Coiffet, “Virtual Reality Technology”, Wiley Interscience, India, 2003.
+6. John Vince, “Virtual Reality Systems”, Addison Wesley, 1995.
+7. Howard Rheingold, “Virtual Reality: The Revolutionary Technology and how it Promises to Transform Society”,
+Simon and Schuster, 1991.
+8. William R Sherman and Alan B Craig, “Understanding Virtual Reality: Interface, Application and Design (The Morgan
+Kaufmann Series in Computer Graphics)”. Morgan Kaufmann Publishers, San Francisco, CA, 2002
+9. Alan B. Craig, Understanding Augmented Reality, Concepts and Applications, Morgan Kaufmann, 2013.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 15
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Human Computer Interface (KCS- 058)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1
+Understand and analyze the common methods in the user-centered design process and the
+appropriateness of individual methods for a given problem.
+K2, K4
+CO 2 Apply , adapt and extend classic design standards, guidelines, and patterns. K3, K5
+CO 3 Employ selected design methods and evaluation methods at a basic level of competence. K4, K5
+CO 4
+Build prototypes at varying levels of fidelity, from paper prototypes to functional,
+interactive prototypes.
+K4, K5
+CO 5
+Demonstrate sufficient theory of human computer interaction, experimental methodology
+and inferential statistics to engage with the contemporary research literature in interface
+technology and design.
+K3, K4
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: Importance of user Interface – definition, importance of 8 good design. Benefits of
+good design. A brief history of Screen design. The graphical user interface – popularity of graphics,
+the concept of direct manipulation, graphical system, Characteristics, Web user – Interface
+popularity, characteristics- Principles of user interface
+08
+II
+Design process: Human interaction with computers, importance of 8 human characteristics human
+consideration, Human interaction speeds, understanding business junctions. III Screen Designing :
+Design goals – Scre
+08
+III
+Screen Designing : Design goals – Screen planning and purpose, 8 organizing screen elements,
+ordering of screen data and content – screen navigation and flow – Visually pleasing composition –
+amount of information – focus and emphasis – presentation information simply and meaningfully –
+information retrieval on web – statistical graphics – Technological consideration in interface
+design.
+08
+IV
+Windows : New and Navigation schemes selection of window, 8 selection of devices based and
+screen based controls. Components – text and messages, Icons and increases – Multimedia, colors,
+uses problems, choosing colors
+08
+V
+Software tools : Specification methods, interface – Building Tools. 8 Interaction Devices –
+Keyboard and function keys – pointing devices – speech recognition digitization and generation –
+image and video displays – drivers.
+08
+Text books:
+1. Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale Human Computer Interaction, 3rd Edition Prentice Hall, 2004.
+2. Jonathan Lazar Jinjuan Heidi Feng, Harry Hochheiser, Research Methods in HumanComputer Interaction, Wiley, 2010.
+3. Ben Shneiderman and Catherine Plaisant Designing the User Interface: Strategies for Effective Human-Computer
+Interaction (5th Edition, pp. 672, ISBN 0- 321-53735-1, March 2009), Reading, MA: Addison-Wesley Publishing Co.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 16
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Database Management Systems Lab (KCS-551)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1
+Understand and apply oracle 11 g products for creating tables, views, indexes, sequences and
+other database objects.
+K2, K4
+CO 2
+Design and implement a database schema for company data base, banking data base, library
+information system, payroll processing system, student information system.
+K3, K5,
+K6
+CO 3 Write and execute simple and complex queries using DDL, DML, DCL and TCL K4, K5
+CO 4 Write and execute PL/SQL blocks, procedure functions, packages and triggers, cursors. K4, K5
+CO 5
+Enforce entity integrity, referential integrity, key constraints, and domain constraints
+on database.
+K3, K4
+DETAILED SYLLABUS
+1. Installing oracle/ MYSQL
+2. Creating Entity-Relationship Diagram using case tools.
+3. Writing SQL statements Using ORACLE /MYSQL:
+a)Writing basic SQL SELECT statements.
+b) Restricting and sorting data.
+c)Displaying data from multiple tables.
+d)Aggregating data using group function.
+e)Manipulating data.
+e)Creating and managing tables.
+4. Normalization
+5. Creating cursor
+6. Creating procedure and functions
+7. Creating packages and triggers
+8. Design and implementation of payroll processing system
+9. Design and implementation of Library Information System
+10. Design and implementation of Student Information System
+11. Automatic Backup of Files and Recovery of Files
+12. Mini project (Design & Development of Data and Application ) for following :
+a) Inventory Control System.
+b) Material Requirement Processing.
+c) Hospital Management System.
+d) Railway Reservation System.
+e) Personal Information System.
+f) Web Based User Identification System.
+g) Timetable Management System.
+h) Hotel Management System
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 17
+It is also suggested that open source tools should be preferred to conduct the lab (MySQL , SQL server ,
+ Oracle ,MongoDB ,Cubrid ,MariaDBetc)
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Database Management Systems Mapping with Virtual Lab Lab (KCS-551):
+Name of the Lab Name of the Experiment
+Database Management Lab
+
+
+
+
+Data Definition Language(DDL) Statements: (Create table, Alter table, Drop table)
+Data Manipulation Language(DML) Statements
+Data Query Language(DQL) Statements: (Select statement with operations like Where
+clause, Order by, Logical operators, Scalar functions and Aggregate functions)
+Transaction Control Language(TCL) statements: (Commit(make changes permanent),
+Rollback (undo)
+Describe statement: To view the structure of the table created
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 18
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+COMPILER DESIGN LAB (KCS-552)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Identify patterns, tokens & regular expressions for lexical analysis. K2, K4
+CO 2 Design Lexical analyser for given language using C and LEX /YACC tools K3, K5
+CO 3 Design and analyze top down and bottom up parsers. K4, K5
+CO 4 Generate the intermediate code K4, K5
+CO 5 Generate machine code from the intermediate code forms K3, K4
+DETAILED SYLLABUS
+1.Design and implement a lexical analyzer for given language using C and the lexical analyzer should ignore redundant
+spaces, tabs and new lines.
+2. Implementation of Lexical Analyzer using Lex Tool
+3. Generate YACC specification for a few syntactic categories.
+a) Program to recognize a valid arithmetic expression that uses operator +, – , * and /.
+b) Program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
+c) Implementation of Calculator using LEX and YACC
+d) Convert the BNF rules into YACC form and write code to generate abstract syntax tree
+4. Write program to find ε – closure of all states of any given NFA with ε transition.
+5. Write program to convert NFA with ε transition to NFA without ε transition.
+6. Write program to convert NFA to DFA
+7. Write program to minimize any given DFA.
+8. Develop an operator precedence parser for a given language.
+9. Write program to find Simulate First and Follow of any given grammar.
+10. Construct a recursive descent parser for an expression.
+11. Construct a Shift Reduce Parser for a given language.
+12. Write a program to perform loop unrolling.
+13. Write a program to perform constant propagation.
+14. Implement Intermediate code generation for simple expressions.
+15. Implement the back end of the compiler which takes the three address code and produces the 8086 assembly language
+instructions that can be assembled and run using an 8086 assembler. The target assembly instructions can be simple move,
+add, sub, jump etc.
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+It is also suggested that open source tools should be preferred to conduct the lab ( C, C++ , Lex or Flex and
+YACC tools ( Unix/Linux utilities )etc)
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 19
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Design and Analysis of Algorithm Lab (KCS-553)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to:
+CO 1 Implement algorithm to solve problems by iterative approach. K2, K4
+CO 2 Implement algorithm to solve problems by divide and conquer approach K3, K5
+CO 3 Implement algorithm to solve problems by Greedy algorithm approach. K4, K5
+CO 4
+Implement algorithm to solve problems by Dynamic programming, backtracking,
+branch and bound approach.
+K4, K5
+CO 5 Implement algorithm to solve problems by branch and bound approach. K3, K4
+DETAILED SYLLABUS
+1. Program for Recursive Binary & Linear Search.
+2. Program for Heap Sort.
+3. Program for Merge Sort.
+4. Program for Selection Sort.
+5. Program for Insertion Sort.
+6. Program for Quick Sort.
+7. Knapsack Problem using Greedy Solution
+8. Perform Travelling Salesman Problem
+9. Find Minimum Spanning Tree using Kruskal’s Algorithm
+10. Implement N Queen Problem using Backtracking
+11. Sort a given set of n integer elements using Quick Sort method and compute its time complexity. Run the program for
+varied values of n> 5000 and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The
+elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the
+divide and- conquer method works along with its time complexity analysis: worst case, average case and best case.
+12. Sort a given set of n integer elements using Merge Sort method and compute its time complexity. Run the program for
+varied values of n> 5000, and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The
+elements can be read from a file or can be generated using the random number generator. Demonstrate how the divide
+and- conquer method works along with its time complexity analysis: worst case, average case and best case.
+13.6. Implement , the 0/1 Knapsack problem using
+(a) Dynamic Programming method
+(b) Greedy method.
+14. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
+15. Find Minimum Cost Spanning Tree of a given connected undirected graph using Kruskal's algorithm. Use Union-Find
+algorithms in your program.
+16. Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm.
+17. Write programs to (a) Implement All-Pairs Shortest Paths problem using Floyd's algorithm.
+(b) Implement Travelling Sales Person problem using Dynamic programming.
+18. Design and implement to find a subset of a given set S = {Sl, S2,.....,Sn} of n positive integers whose SUM is equal to
+a given positive integer d. For example, if S ={1, 2, 5, 6, 8} and d= 9, there are two solutions {1,2,6}and {1,8}. Display a
+suitable message, if the given problem instance doesn't have a solution.
+19. Design and implement to find all Hamiltonian Cycles in a connected undirected Graph G of n vertices using
+backtracking principle.
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+ It is also suggested that open source tools should be preferred to conduct the lab ( C, C++ etc)
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 20
+B.TECH. (CSE & CS)
+SIXTH SEMESTER (DETAILED SYLLABUS)
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Software Engineering (KCS-601)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course, the student will be able to
+CO 1 Explain various software characteristics and analyze different software Development
+Models. K1, K2
+CO 2 Demonstrate the contents of a SRS and apply basic software quality assurance practices to
+ensure that design, development meet or exceed applicable standards. K1, K2
+CO 3 Compare and contrast various methods for software design K2, K3
+CO 4 Formulate testing strategy for software systems, employ techniques such as unit testing, Test
+driven development and functional testing. K3
+CO 5 Manage software development process independently as well as in teams and make use of
+Various software management tools for development, maintenance and analysis. K5
+DETAILED SYLLABUS 3-1-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: Introduction to Software Engineering, Software Components, Software
+Characteristics, Software Crisis, Software Engineering Processes, Similarity and Differences from
+Conventional Engineering Processes, Software Quality Attributes. Software Development Life
+Cycle (SDLC) Models: Water Fall Model, Prototype Model, Spiral Model, Evolutionary
+Development Models, Iterative Enhancement Models.
+08
+II
+Software Requirement Specifications (SRS): Requirement Engineering Process: Elicitation,
+Analysis, Documentation, Review and Management of User Needs, Feasibility Study, Information
+Modelling, Data Flow Diagrams, Entity Relationship Diagrams, Decision Tables, SRS Document,
+IEEE Standards for SRS. Software Quality Assurance (SQA): Verification and Validation, SQA
+Plans, Software Quality Frameworks, ISO 9000 Models, SEI-CMM Model.
+08
+III
+Software Design: Basic Concept of Software Design, Architectural Design, Low Level Design:
+Modularization, Design Structure Charts, Pseudo Codes, Flow Charts, Coupling and Cohesion
+Measures, Design Strategies: Function Oriented Design, Object Oriented Design, Top-Down and
+Bottom-Up Design. Software Measurement and Metrics: Various Size Oriented Measures:
+Halestead’s Software Science, Function Point (FP) Based Measures, Cyclomatic Complexity
+Measures: Control Flow Graphs.
+08
+IV
+Software Testing: Testing Objectives, Unit Testing, Integration Testing, Acceptance Testing,
+Regression Testing, Testing for Functionality and Testing for Performance, TopDown and BottomUp Testing Strategies: Test Drivers and Test Stubs, Structural Testing (White Box Testing),
+Functional Testing (Black Box Testing), Test Data Suit Preparation, Alpha and Beta Testing of
+Products. Static Testing Strategies: Formal Technical Reviews (Peer Reviews), Walk Through,
+Code Inspection, Compliance with Design and Coding Standards.
+08
+V
+Software Maintenance and Software Project Management: Software as an Evolutionary Entity,
+Need for Maintenance, Categories of Maintenance: Preventive, Corrective and Perfective
+Maintenance, Cost of Maintenance, Software Re- Engineering, Reverse Engineering. Software
+Configuration Management Activities, Change Control Process, Software Version Control, An
+Overview of CASE Tools. Estimation of Various Parameters such as Cost, Efforts,
+08
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 21
+Schedule/Duration, Constructive Cost Models (COCOMO), Resource Allocation Models, Software
+Risk Analysis and Management.
+Text books:
+1.RS Pressman, Software Engineering: A Practitioners Approach, McGraw Hill.
+2. Pankaj Jalote, Software Engineering, Wiley
+3. Rajib Mall, Fundamentals of Software Engineering, PHI Publication.
+4. KK Aggarwal and Yogesh Singh, Software Engineering, New Age International Publishers.
+5. Ghezzi, M. Jarayeri, D. Manodrioli, Fundamentals of Software Engineering, PHI Publication.
+6. Ian Sommerville, Software Engineering, Addison Wesley.
+7. Kassem Saleh, “Software Engineering”, Cengage Learning.
+8. P fleeger, Software Engineering, Macmillan Publication
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 22
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Web Technology (KCS-602)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Explain web development Strategies and Protocols governing Web. K1, K2
+CO 2 Develop Java programs for window/web-based applications. K2, K3
+CO 3 Design web pages using HTML, XML, CSS and JavaScript. K2, K3
+CO 4 Creation of client-server environment using socket programming K1, K2,
+CO 5 Building enterprise level applications and manipulate web databases using JDBC K3, K4
+CO6 Design interactive web applications using Servlets and JSP K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: Introduction and Web Development Strategies, History of Web and Internet, Protocols
+Governing Web, Writing Web Projects, Connecting to Internet, Introduction to Internet services and
+tools, Introduction to client-server computing. Core Java: Introduction, Operator, Data type, Variable,
+Arrays, Methods & Classes, Inheritance, Package and Interface, Exception Handling, Multithread
+programming, I/O, Java Applet, String handling, Event handling, Introduction to AWT, AWT
+controls, Layout managers
+08
+II
+Web Page Designing: HTML: List, Table, Images, Frames, forms, CSS, Document type definition,
+XML: DTD, XML schemes, Object Models, presenting and using XML, Using XML Processors:
+DOM and SAX, Dynamic HTML
+08
+III
+Scripting: Java script: Introduction, documents, forms, statements, functions, objects; introduction to
+AJAX, Networking : Internet Addressing, InetAddress, Factory Methods, Instance Methods,
+TCP/IP Client Sockets, URL, URL Connection, TCP/IP Server Sockets, Datagram.
+08
+IV
+Enterprise Java Bean: Preparing a Class to be a JavaBeans, Creating a JavaBeans, JavaBeans
+Properties, Types of beans, Stateful Session bean, Stateless Session bean, Entity bean
+Java Database Connectivity (JDBC): Merging Data from Multiple Tables: Joining,
+Manipulating, Databases with JDBC, Prepared Statements, Transaction Processing, Stored
+Procedures.
+08
+V
+Servlets: Servlet Overview and Architecture, Interface Servlet and the Servlet Life Cycle,
+Handling HTTP get Requests, Handling HTTP post Requests, Redirecting Requests to Other
+Resources, Session Tracking, Cookies, Session Tracking with Http Session
+Java Server Pages (JSP): Introduction, Java Server Pages Overview, A First Java Server Page
+Example, Implicit Objects, Scripting, Standard Actions, Directives, Custom Tag Libraries..
+08
+Text books:
+1. Burdman, Jessica, “Collaborative Web Development” Addison Wesley
+2. Xavier, C, “ Web Technology and Design” , New Age International
+3. Ivan Bayross,” HTML, DHTML, Java Script, Perl & CGI”, BPB Publication
+4. Bhave, “Programming with Java”, Pearson Education
+5. Herbert Schieldt, “The Complete Reference:Java”, McGraw Hill.
+6. Hans Bergsten, “Java Server Pages”, SPD O’Reilly
+7. Margaret Levine Young, “The Complete Reference Internet”, McGraw Hill.
+8. Naughton, Schildt, “The Complete Reference JAVA2”, McGraw Hill.
+9. Balagurusamy E, “Programming in JAVA”, McGraw Hill.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 23
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Computer Networks(KCS- 603)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO1 Explain basic concepts, OSI reference model, services and role of each layer of OSI model and
+TCP/IP, networks devices and transmission media, Analog and digital data transmission K1,K2
+CO2 Apply channel allocation, framing, error and flow control techniques. K3
+CO3 Describe the functions of Network Layer i.e. Logical addressing, subnetting & Routing
+Mechanism. K2,K3
+CO4 Explain the different Transport Layer function i.e. Port addressing, Connection Management,
+Error control and Flow control mechanism. K2,K3
+CO5 Explain the functions offered by session and presentation layer and their Implementation. K2,K3
+CO6 Explain the different protocols used at application layer i.e. HTTP, SNMP, SMTP, FTP,
+TELNET and VPN. K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introductory Concepts: Goals and applications of networks, Categories of networks,
+Organization of the Internet, ISP, Network structure and architecture (layering principles, services,
+protocols and standards), The OSI reference model, TCP/IP protocol suite, Network devices and
+components.
+Physical Layer:
+Network topology design, Types of connections, Transmission media, Signal transmission and
+encoding, Network performance and transmission impairments, Switching techniques and
+multiplexing.
+08
+II
+Link layer: Framing, Error Detection and Correction, Flow control (Elementary Data Link
+Protocols, Sliding Window protocols).
+Medium Access Control and Local Area Networks: Channel allocation, Multiple access protocols,
+LAN standards, Link layer switches & bridges (learning bridge and spanning tree algorithms).
+08
+III Network Layer: Point-to-point networks, Logical addressing, Basic internetworking (IP, CIDR,
+ARP, RARP, DHCP, ICMP), Routing, forwarding and delivery, Static and dynamic routing,
+Routing algorithms and protocols, Congestion control algorithms, IPv6.
+08
+IV Transport Layer: Process-to-process delivery, Transport layer protocols (UDP and TCP),
+Multiplexing, Connection management, Flow control and retransmission, Window management,
+TCP Congestion control, Quality of service.
+08
+V
+Application Layer: Domain Name System, World Wide Web and Hyper Text Transfer Protocol,
+Electronic mail, File Transfer Protocol, Remote login, Network management, Data compression,
+Cryptography – basic concepts.
+08
+Text books and References:
+1. Behrouz Forouzan, “Data Communication and Networking”, McGraw Hill
+2. Andrew Tanenbaum “Computer Networks”, Prentice Hall.
+3. William Stallings, “Data and Computer Communication”, Pearson.
+4. Kurose and Ross, “Computer Networking- A Top-Down Approach”, Pearson.
+5. Peterson and Davie, “Computer Networks: A Systems Approach”, Morgan Kaufmann
+6. W. A. Shay, “Understanding Communications and Networks”, Cengage Learning.
+7. D. Comer, “Computer Networks and Internets”, Pearson.
+8. Behrouz Forouzan, “TCP/IP Protocol Suite”, McGraw Hill.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 24
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Big Data(KCS-061)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Demonstrate knowledge of Big Data Analytics concepts and its applications in business. K1,K2
+CO 2 Demonstrate functions and components of Map Reduce Framework and HDFS. K1,K2
+CO 3 Discuss Data Management concepts in NoSQL environment. K6
+CO 4 Explain process of developing Map Reduce based distributed processing applications. K2,K5
+CO 5 Explain process of developing applications using HBASE, Hive, Pig etc. K2,K5
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lectures
+I
+Introduction to Big Data: Types of digital data, history of Big Data innovation,
+introduction to Big Data platform, drivers for Big Data, Big Data architecture and
+characteristics, 5 Vs of Big Data, Big Data technology components, Big Data importance
+and applications, Big Data features – security, compliance, auditing and protection, Big
+Data privacy and ethics, Big Data Analytics, Challenges of conventional systems,
+intelligent data analysis, nature of data, analytic processes and tools, analysis vs reporting,
+modern data analytic tools.
+06
+II
+Hadoop: History of Hadoop, Apache Hadoop, the Hadoop Distributed File System,
+components of Hadoop, data format, analyzing data with Hadoop, scaling out, Hadoop
+streaming, Hadoop pipes, Hadoop Echo System.
+Map Reduce: Map Reduce framework and basics, how Map Reduce works, developing a
+Map Reduce application, unit tests with MR unit, test data and local tests, anatomy of a
+Map Reduce job run, failures, job scheduling, shuffle and sort, task execution, Map Reduce
+types, input formats, output formats, Map Reduce features, Real-world Map Reduce
+08
+III
+HDFS (Hadoop Distributed File System): Design of HDFS, HDFS concepts, benefits
+and challenges, file sizes, block sizes and block abstraction in HDFS, data replication, how
+does HDFS store, read, and write files, Java interfaces to HDFS, command line interface,
+Hadoop file system interfaces, data flow, data ingest with Flume and Scoop, Hadoop
+archives, Hadoop I/O: compression, serialization, Avro and file-based data structures.
+Hadoop Environment: Setting up a Hadoop cluster, cluster specification, cluster setup
+and installation, Hadoop configuration, security in Hadoop, administering Hadoop, HDFS
+monitoring & maintenance, Hadoop benchmarks, Hadoop in the cloud
+08
+IV
+Hadoop Eco System and YARN: Hadoop ecosystem components, schedulers, fair and
+capacity, Hadoop 2.0 New Features - NameNode high availability, HDFS federation,
+MRv2, YARN, Running MRv1 in YARN.
+NoSQL Databases: Introduction to NoSQL
+MongoDB: Introduction, data types, creating, updating and deleing documents, querying,
+introduction to indexing, capped collections
+Spark: Installing spark, spark applications, jobs, stages and tasks, Resilient Distributed
+Databases, anatomy of a Spark job run, Spark on YARN
+SCALA: Introduction, classes and objects, basic types and operators, built-in control
+structures, functions and closures, inheritance.
+09
+V
+Hadoop Eco System Frameworks: Applications on Big Data using Pig, Hive and HBase
+Pig - Introduction to PIG, Execution Modes of Pig, Comparison of Pig with Databases,
+Grunt, Pig Latin, User Defined Functions, Data Processing operators,
+09
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 25
+Hive - Apache Hive architecture and installation, Hive shell, Hive services, Hive
+metastore, comparison with traditional databases, HiveQL, tables, querying data and user
+defined functions, sorting and aggregating, Map Reduce scripts, joins & subqueries.
+HBase – Hbase concepts, clients, example, Hbase vs RDBMS, advanced usage, schema
+design, advance indexing, Zookeeper – how it helps in monitoring a cluster, how to build
+applications with Zookeeper.
+IBM Big Data strategy, introduction to Infosphere, BigInsights and Big Sheets,
+introduction to Big SQL.
+Text books and References:
+1. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data, Big Analytics: Emerging Business
+Intelligence and Analytic Trends for Today's Businesses", Wiley
+2. Big-Data Black Book, DT Editorial Services, Wiley
+3. Dirk deRoos, Chris Eaton, George Lapis, Paul Zikopoulos, Tom Deutsch, “Understanding Big Data Analytics for
+Enterprise Class Hadoop and Streaming Data”, McGrawHill.
+4. Thomas Erl, Wajid Khattak, Paul Buhler, “Big Data Fundamentals: Concepts, Drivers and Techniques”, Prentice
+Hall.
+5. Bart Baesens “Analytics in a Big Data World: The Essential Guide to Data Science and its Applications (WILEY
+Big Data Series)”, John Wiley & Sons
+6. ArshdeepBahga, Vijay Madisetti, “Big Data Science & Analytics: A HandsOn Approach “, VPT
+7. Anand Rajaraman and Jeffrey David Ullman, “Mining of Massive Datasets”, CUP
+8. Tom White, "Hadoop: The Definitive Guide", O'Reilly.
+9. Eric Sammer, "Hadoop Operations", O'Reilly.
+10. Chuck Lam, “Hadoop in Action”, MANNING Publishers
+11. Deepak Vohra, “Practical Hadoop Ecosystem: A Definitive Guide to Hadoop-Related Frameworks and Tools”,
+Apress
+12. E. Capriolo, D. Wampler, and J. Rutherglen, "Programming Hive", O'Reilly
+13. Lars George, "HBase: The Definitive Guide", O'Reilly.
+14. Alan Gates, "Programming Pig", O'Reilly.
+15. Michael Berthold, David J. Hand, “Intelligent Data Analysis”, Springer
+16. Bill Franks, “Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced
+Analytics”, John Wiley & sons
+17. Glenn J. Myatt, “Making Sense of Data”, John Wiley & Sons
+18. Pete Warden, “Big Data Glossary”, O’Reilly
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 26
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Image Processing (KCS-062)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able:
+CO 1 Explain the basic concepts of two-dimensional signal acquisition, sampling,
+quantization and color model.
+K1, K2
+CO 2 Apply image processing techniques for image enhancement in both the spatial and
+frequency domains.
+K2, K3
+CO 3 Apply and compare image restoration techniques in both spatial and frequency domain. K2, K3
+CO 4 Compare edge based and region based segmentation algorithms for ROI extraction. K3, K4
+CO 5 Explain compression techniques and descriptors for image processing. K2, K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+DIGITAL IMAGE FUNDAMENTALS: Steps in Digital Image Processing – Components –
+Elements of Visual Perception – Image Sensing and Acquisition – Image Sampling and
+Quantization – Relationships between pixels – Color image fundamentals – RGB, HSI models,
+Two-dimensional mathematical preliminaries, 2D transforms – DFT, DCT.
+08
+II
+IMAGE ENHANCEMENT:
+Spatial Domain: Gray level transformations – Histogram processing – Basics of Spatial Filtering–
+Smoothing and Sharpening Spatial Filtering, Frequency Domain: Introduction to Fourier
+Transform– Smoothing and Sharpening frequency domain filters – Ideal, Butterworth and Gaussian
+filters, Homomorphic filtering, Color image enhancement.
+08
+III
+IMAGE RESTORATION:
+Image Restoration – degradation model, Properties, Noise models – Mean Filters – Order Statistics
+– Adaptive filters – Band reject Filters – Band pass Filters – Notch Filters – Optimum Notch
+Filtering – Inverse Filtering – Wiener filtering
+08
+IV
+IMAGE SEGMENTATION:
+Edge detection, Edge linking via Hough transform – Thresholding – Region based segmentation –
+Region growing – Region splitting and merging – Morphological processing- erosion and dilation,
+Segmentation by morphological watersheds – basic concepts – Dam construction – Watershed
+segmentation algorithm.
+08
+V
+IMAGE COMPRESSION AND RECOGNITION:
+Need for data compression, Huffman, Run Length Encoding, Shift codes, Arithmetic coding, JPEG
+standard, MPEG. Boundary representation, Boundary description, Fourier Descriptor, Regional
+Descriptors – Topological feature, Texture – Patterns and Pattern classes – Recognition based on
+matching.
+08
+Text books:
+1.Rafael C. Gonzalez, Richard E. Woods,Digital Image Processing Pearson, Third Edition, 2010
+2.Anil K. Jain,Fundamentals of Digital Image Processing Pearson, 2002.
+3.Kenneth R. Castleman,Digital Image Processing Pearson, 2006.
+4.Rafael C. Gonzalez, Richard E. Woods, Steven Eddins,Digital Image Processing using MATLAB Pearson Education,
+Inc., 2011.
+5.D,E. Dudgeon and RM. Mersereau,Multidimensional Digital Signal Processing Prentice Hall Professional Technical
+Reference, 1990.
+6.William K. Pratt,Digital Image Processing John Wiley, New York, 2002
+7.Milan Sonka et al Image processing, analysis and machine vision Brookes/Cole, Vikas Publishing House, 2nd edition,
+1999
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 27
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Real Time System (KCS-063)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able:
+CO 1 illustrate the need and the challenges in the design of hard and soft real time systems. K3
+CO 2 Compare different scheduling algorithms and the schedulable criteria. K4
+CO 3 Discuss resource sharing methods in real time environment. K3
+CO 4 Compare and contrast different real time communication and medium access control
+techniques.
+K4, K5
+CO 5 Analyze real time Operating system and Commercial databases K2, K4
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction
+Definition, Typical Real Time Applications: Digital Control, High Level Controls, Signal
+Processing etc., Release Times, Deadlines, and Timing Constraints, Hard Real Time Systems and
+Soft Real Time Systems, Reference Models for Real Time Systems: Processors and Resources,
+Temporal Parameters of Real Time Workload, Periodic Task Model, Precedence Constraints and
+Data Dependency.
+05
+II
+Real Time Scheduling
+Common Approaches to Real Time Scheduling: Clock Driven Approach, Weighted Round Robin
+Approach, Priority Driven Approach, Dynamic Versus Static Systems, Optimality of EffectiveDeadlineFirst (EDF) and Least-Slack-Time-First (LST) Algorithms, Rate Monotonic Algorithm,
+Offline Versus Online Scheduling, Scheduling Aperiodic and Sporadic jobs in Priority Driven and
+Clock Driven Systems.
+09
+III
+Resources Sharing
+Effect of Resource Contention and Resource Access Control (RAC), Non-preemptive Critical
+Sections, Basic Priority-Inheritance and Priority-Ceiling Protocols, Stack Based Priority-Ceiling
+Protocol, Use of Priority-Ceiling Protocol in Dynamic Priority Systems, Preemption Ceiling
+Protocol, Access Control in Multiple-Unit Resources, Controlling Concurrent Accesses to Data
+Objects.
+09
+IV
+Real Time Communication
+Basic Concepts in Real time Communication, Soft and Hard RT Communication systems, Model of
+Real Time Communication, Priority-Based Service and Weighted Round-Robin Service Disciplines
+for Switched Networks, Medium Access Control Protocols for Broadcast Networks, Internet and
+Resource Reservation Protocols
+09
+V
+Real Time Operating Systems and Databases
+Features of RTOS, Time Services, UNIX as RTOS, POSIX Issues, Characteristic of Temporal data,
+Temporal Consistency, Concurrency Control, Overview of Commercial Real Time databases 08
+Text books:
+1. Real Time Systems by Jane W. S. Liu, Pearson Education Publication.
+2. Phillip A Laplanta,SeppoJ.Ovaska Real time System Design and Analysis Tools for practitioner, Wiley
+3. Mall Rajib, “Real Time Systems”, Pearson Education
+4. Albert M. K. Cheng , “Real-Time Systems: Scheduling, Analysis, and Verification”, Wiley.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 28
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Data Compression (KCS-064)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Describe the evolution and fundamental concepts of Data Compression and Coding
+Techniques.
+K1, K2
+CO 2 Apply and compare different static coding techniques (Huffman & Arithmetic coding) for text
+compression.
+K2, K3
+CO 3 Apply and compare different dynamic coding techniques (Dictionary Technique) for text
+compression.
+K2, K3
+CO 4 Evaluate the performance of predictive coding technique for Image Compression. K2, K3
+CO 5 Apply and compare different Quantization Techniques for Image Compression. K2,K3
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Compression Techniques: Loss less compression, Lossy Compression, Measures of performance,
+Modeling and coding, Mathematical Preliminaries for Lossless compression: A brief introduction
+to information theory, Models: Physical models, Probability models, Markov models, composite
+source model, Coding: uniquely decodable codes, Prefix codes.
+08
+II
+The Huffman coding algorithm: Minimum variance Huffman codes, Adaptive Huffman coding:
+Update procedure, Encoding procedure, Decoding procedure. Golomb codes, Rice codes, Tunstall
+codes, Applications of Hoffman coding: Loss less image compression, Text compression, Audio
+Compression.
+08
+III
+Coding a sequence, Generating a binary code, Comparison of Binary and Huffman coding,
+Applications: Bi-level image compression-The JBIG standard, JBIG2, Image compression.
+Dictionary Techniques: Introduction, Static Dictionary: Diagram Coding, Adaptive Dictionary. The
+LZ77 Approach, The LZ78 Approach, Applications: File Compression-UNIX compress, Image
+Compression: The Graphics Interchange Format (GIF), Compression over Modems: V.42 bits,
+Predictive Coding: Prediction with Partial match (ppm): The basic algorithm, The ESCAPE
+SYMBOL, length of context, The Exclusion Principle, The Burrows-Wheeler Transform: Movetofront coding, CALIC, JPEG-LS, Multi-resolution Approaches, Facsimile Encoding, Dynamic
+Markoy Compression.
+08
+IV Distortion criteria, Models, Scalar Ouantization: The Quantization problem, Uniform Quantizer,
+Adaptive Quantization, Non uniform Quantization.
+08
+V Advantages of Vector Quantization over Scalar Quantization, The Linde-Buzo-Gray Algorithm,
+Tree structured Vector Quantizers. Structured VectorQuantizers.
+08
+Text books:
+1. Khalid Sayood, Introduction to Data Compression, Morgan Kaufmann Publishers
+2. Elements of Data Compression,Drozdek, Cengage Learning
+3. Introduction to Data Compression, Second Edition, Khalid Sayood,The Morgan aufmann Series
+4.Data Compression: The Complete Reference 4th Edition byDavid Salomon, Springer
+5.Text Compression1st Edition by Timothy C. Bell Prentice Hall
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 29
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Software Engineering Lab (KCS-661)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Identify ambiguities, inconsistencies and incompleteness from a requirements specification and
+state functional and non-functional requirement K2, K4
+CO 2 Identify different actors and use cases from a given problem statement and draw use case
+diagram to associate use cases with different types of relationship K3, K5
+CO 3 Draw a class diagram after identifying classes and association among them K4, K5
+CO 4 Graphically represent various UML diagrams , and associations among them and identify
+the logical sequence of activities undergoing in a system, and represent them pictorially K4, K5
+CO 5 Able to use modern engineering tools for specification, design, implementation and testing K3, K4
+DETAILED SYLLABUS
+For any given case/ problem statement do the following;
+1. Prepare a SRS document in line with the IEEE recommended standards.
+2. Draw the use case diagram and specify the role of each of the actors. Also state the precondition, post
+condition and function of each use case.
+3. Draw the activity diagram.
+4. Identify the classes. Classify them as weak and strong classes and draw the class diagram.
+5. Draw the sequence diagram for any two scenarios.
+6. Draw the collaboration diagram.
+7. Draw the state chart diagram.
+8. Draw the component diagram.
+9. Perform forward engineering in java. (Model to code conversion)
+10. Perform reverse engineering in java. (Code to Model conversion) 11. Draw the deployment diagram.
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+It is also suggested that open source tools should be preferred to conduct the lab ( Open Office , Libra ,
+ Junit, Open Project , GanttProject , dotProject, AgroUML, StarUML etc. )
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Software Engineering Mapping with Virtual Lab Lab (KCS-661):
+Name of the Lab Name of the Experiment
+
+
+
+Software Engineering Lab (KCS-661)
+Identifying the Requirements from Problem Statements
+Estimation of Project Metrics
+Modeling UML Use Case Diagrams and Capturing Use Case Scenarios
+E-R Modeling from the Problem Statements
+Identifying Domain Classes from the Problem Statements
+Statechart and Activity Modeling
+Modeling UML Class Diagrams and Sequence diagrams
+Modeling Data Flow Diagrams
+Estimation of Test Coverage Metrics and Structural Complexity
+Designing Test Suites
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 30
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Web Technology Lab (KCS-652)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Develop static web pages using HTML K2, K3
+CO 2 Develop Java programs for window/web-based applications. K2, K3
+CO 3 Design dynamic web pages using Javascript and XML. K3, K4
+CO 4 Design dynamic web page using server site programming Ex. ASP/JSP/PHP K3, K4
+CO 5 Design server site applications using JDDC,ODBC and section tracking API K3, K4
+DETAILED SYLLABUS
+This lab is based on the Web Technologies. Some examples are as follows:
+1. Write HTML/Java scripts to display your CV in navigator, your Institute website, Department Website and Tutorial
+website for specific subject
+2. Write an HTML program to design an entry form of student details and send it to store at database server like SQL,
+Oracle or MS Access.
+3. Write programs using Java script for Web Page to display browsers information.
+5. Write a Java applet to display the Application Program screen i.e. calculator and other.
+6. Writing program in XML for creation of DTD, which specifies set of rules. Create a style sheet in CSS/ XSL & display
+the document in internet explorer.
+7. Program to illustrate JDBC connectivity. Program for maintaining database by sending queries. Design and implement
+a simple servlet book query with the help of JDBC & SQL. Create MS Access Database, Create on ODBC link,
+Compile & execute JAVA JDVC Socket.
+8. Install TOMCAT web server and APACHE. Access the above developed static web pages for books web site, using
+these servers by putting the web pages developed.
+9. Assume four users user1, user2, user3 and user4 having the passwords pwd1, pwd2, pwd3 and pwd4 respectively.
+Write a servlet for doing the following. Create a Cookie and add these four user id’s and passwords to this Cookie. 2.
+Read the user id and passwords entered in the Login form and authenticate with the values available in the cookies.
+10. Install a database (Mysql or Oracle). Create a table which should contain at least the following fields: name, password,
+email-id, phone number Write a java program/servlet/JSP to connect to that database and extract data from the tables
+and display them. Insert the details of the users who register with the web site, whenever a new user clicks the submit
+button in the registration page.
+11. Write a JSP which insert the details of the 3 or 4 users who register with the web site by using registration form.
+Authenticate the user when he submits the login form using the user name and password from the database
+12. Design and implement a simple shopping cart example with session tracking API.
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+It is also suggested that open source tools should be preferred to conduct the lab ( Java , JSP , Bootstrap
+Firebug , WampServer , MongoDB, etc)
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 31
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Computer Networks Lab (KCS-663)
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able to
+CO 1 Simulate different network topologies. K3, K4
+CO 2 Implement various framing methods of Data Link Layer. K3, K4
+CO 3 Implement various Error and flow control techniques. K3, K4
+CO 4 Implement network routing and addressing techniques. K3, K4
+CO 5 Implement transport and security mechanisms K3, K4
+DETAILED SYLLABUS
+1. Implementation of Stop and Wait Protocol and Sliding Window Protocol.
+2. Study of Socket Programming and Client – Server model
+3. Write a code simulating ARP /RARP protocols.
+4. Write a code simulating PING and TRACEROUTE commands
+5. Create a socket for HTTP for web page upload and download.
+6. Write a program to implement RPC (Remote Procedure Call)
+7. Implementation of Subnetting .
+8. Applications using TCP Sockets like
+a. Echo client and echo server b. Chat c. File Transfer
+9. Applications using TCP and UDP Sockets like d. DNS e. SNMP f. File Transfer
+10. Study of Network simulator (NS).and Simulation of Congestion Control Algorithms using NS
+11. Perform a case study about the different routing algorithms to select the network path with its optimum and
+economical during data transfer. i. Link State routing ii. Flooding iii. Distance vector
+12. To learn handling and configuration of networking hardware like RJ-45 connector, CAT-6 cable, crimping tool, etc.
+13. Configuration of router, hub, switch etc. (using real devices or simulators)
+14. Running and using services/commands like ping, traceroute, nslookup, arp, telnet, ftp, etc.
+15.Network packet analysis using tools like Wireshark, tcpdump, etc.
+16. Network simulation using tools like Cisco Packet Tracer, NetSim, OMNeT++, NS2, NS3, etc.
+17.Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative &
+concurrent servers)
+Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+It is also suggested that open source tools should be preferred to conduct the lab ( C , C++ , Java , NS3,
+Mininet, Opnet, TCP Dump, Wireshark etc.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+Basics of Data Base Management System KCS
+KOE-068 Software Project Management
+Basics of Data Base Management System (KOE-067)
+Course Outcome ( CO) Bloom’s Knowledge Level
+(KL)
+At the end of course , the student will be able to:
+CO 1 Describe the features of a database system and its application and compare various types of
+data models. K2
+CO 2 Construct an ER Model for a given problem and transform it into a relation database
+schema. K5, K6
+CO 3
+Formulate solution to a query problem using SQL Commands, relational algebra, tuple
+calculus and domain calculus. K5, K6
+CO 4 Explain the need of normalization and normalize a given relation to the desired normal form. K2, K3
+CO 5 Explain different approaches of transaction processing and concurrency control. K2
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Introduction: An overview of database management system, database system vs file
+system, database system concepts and architecture, views of data – levels of abstraction,
+data models, schema and instances, data independence, database languages and interfaces,
+data definition languages, DML, overall database structure, transaction management, storage
+management, database users and administrator.
+Data Modeling using the Entity Relationship Model: ER model concepts, notation for
+ER diagram, mapping constraints, keys, concepts of super key, candidate key, primary key,
+generalization, aggregation, reduction of an ER diagrams to tables, extended ER model,
+relationships of higher degree.
+08
+II
+Relational Database Concepts: Introduction to relational database, relational database
+structure, relational model terminology – domains, attributes, tuples, relations & relational
+database schema, integrity constraints, entity integrity, referential integrity, keys
+constraints, domain constraints, Relational algebra - relational calculus, tuple and domain
+calculus, basic operations – selection and projection, set-theoretic operations, join
+operations.
+Data Base Design & Normalization: Functional dependencies, normal forms, first,
+second, & third normal forms, BCNF, inclusion dependence, loss less join decompositions,
+normalization using FD, MVD, and JDs, alternative approaches to database design
+08
+III
+Structured Query Language (SQL): Basics of SQL, DDL, DML, DCL, advantage of
+SQL, SQL data type and literals, types of SQL commands, SQL operators and their
+procedure, tables – creation & alteration, defining constraints, views and indexes, queries
+and sub queries, aggregate functions, built-in functions, insert, update and delete
+08
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 33
+operations, joins, unions, intersection, minus, transaction control commands.
+PL/SQL: Introduction, features, syntax and constructs, SQL within Pl/SL, DML in
+PL/SQL Cursors, stored procedures, stored function, database triggers, indices
+IV
+Transaction Processing Concepts: Transaction concepts, properties of transaction,
+testing of serializability, Serializability of schedules, conflict & view serializable schedule,
+recoverability, recovery from transaction failures, two-phase commit protocol, log based
+recovery, checkpoints, deadlock handling.
+Concurrency Control Techniques: Concurrency control, locking techniques for
+concurrency control, time stamping protocols for concurrency control, validation based
+protocol, multiple granularity, multi-version schemes, recovery with concurrent
+transaction.
+08
+V
+Database Security – Types of security, system failure, backup & recovery techniques,
+authorization & authentication, system policies, levels of security – physical, OS, network
+& DBMS, privileges – grant & revoke.
+Recent Trends in Database Management Systems: Centralized and Client-Server
+Architectures, Distributed Databases, Object-Oriented Database, Spatial & Temporal
+Databases, Decision Support Systems, Data Analysis, Data Mining & Warehousing, Data
+Visualization, Mobile Databases, OODB & XML Databases, Multimedia & Web
+Databases, Spatial and Geographical Databases, Web and Mobile Databases, Active
+Databases
+08
+Text Books and References:
+1. Elmasri, Navathe, “Fundamentals of Database System”, Addision Wesley.
+2. Korth, Silbertz, Sudarshan, “Database Concepts”, Mc Graw Hill.
+3. Bipin C. Desai, “An Introduction to Database System”, Galgotia Publication.
+4. Majumdar & Bhattacharya, “ Database Management System”, McGraw Hill..
+5. Date C.J., “An Introduction to Database System”, Addision Wesley.
+6. Ramakrishnan, Gehrke, “Database Management System”, McGraw Hill.
+7. Atul Kahate, “Introduction to Database Management Systems”, Pearson Education.
+8. Paul Beynon Davies, “Database System”, Palgrave Macmillan.
+9. Bharti P.K., “ An Introduction to Database Systems”, JPNP.
+10. Rajesh Narang, “Database Management System”, PHI.
+11. Singh, S.K., “Database System Concepts – design & application”, Pearson Education.
+12. Leon & Leon, “Database Management Systems”, Vikas Publishing House.
+13. O’Neil, “Databases”, Elsevier Pub.
+14. Ivan Bayross, “SQL, PL/SQL – The Programming Language of Oracle”, BPB Publications.
+15. P.S. Deshpande, “SQL and PL/SQL for Oracle 10g, Black Book”, Dreamtech Press.
+16. George Koch, Kevin Loney, “Oracle: The Complete Reference”, McGraw Hill..
+17. Coronel, Morris and Rob, “Database Principles: Fundamentals of Design, Implementation and Management”,
+Cengage Learning.
+18. Gillenson, Paulraj Ponniah, “Introduction to Database Management”, Wiley.
+19. G. K. Gupta, “Database Management Systems”, McGraw Hill.
+20. Shraman Shah, “Oracle for Professional”, SPD.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 34\
+
+
+
+
+
+
+
+
+
+Software Project Management KCS
+Course Outcome ( CO) Bloom’s Knowledge Level (KL)
+At the end of course , the student will be able :
+CO 1 Identify project planning objectives, along with various cost/effort estimation models. K3
+CO 2 Organize & schedule project activities to compute critical path for risk analysis. K3
+CO 3 Monitor and control project activities. K4, K5
+CO 4 Formulate testing objectives and test plan to ensure good software quality under SEI-CMM. K6
+CO 5 Configure changes and manage risks using project management tools. K2, K4
+DETAILED SYLLABUS 3-0-0
+Unit Topic Proposed
+Lecture
+I
+Project Evaluation and Project Planning :
+Importance of Software Project Management – Activities – Methodologies – Categorization of
+Software Projects – Setting objectives – Management Principles – Management Control – Project
+portfolio Management – Cost-benefit evaluation technology – Risk evaluation – Strategic program
+Management – Stepwise Project Planning.
+08
+II
+Project Life Cycle and Effort Estimation :
+Software process and Process Models – Choice of Process models – Rapid Application
+development – Agile methods – Dynamic System Development Method – Extreme Programming–
+Managing interactive processes – Basics of Software estimation – Effort and Cost estimation
+techniques – COSMIC Full function points – COCOMO II – a Parametric Productivity Model.
+08
+III
+Activity Planning and Risk Management :
+Objectives of Activity planning – Project schedules – Activities – Sequencing and scheduling –
+Network Planning models – Formulating Network Model – Forward Pass & Backward Pass
+techniques – Critical path (CRM) method – Risk identification – Assessment – Risk Planning –Risk
+Management – – PERT technique – Monte Carlo simulation – Resource Allocation – Creation of
+critical paths – Cost schedules.
+08
+IV
+Project Management and Control:
+Framework for Management and control – Collection of data – Visualizing progress – Cost
+monitoring – Earned Value Analysis – Prioritizing Monitoring – Project tracking – Change control
+– Software Configuration Management – Managing contracts – Contract Management.
+08
+V
+Staffing in Software Projects :
+Managing people – Organizational behavior – Best methods of staff selection – Motivation – The
+Oldham – Hackman job characteristic model – Stress – Health and Safety – Ethical and
+Professional concerns – Working in teams – Decision making – Organizational structures –
+Dispersed and Virtual teams – Communications genres – Communication plans – Leadership.
+08
+Text books:
+1. Bob Hughes, Mike Cotterell and Rajib Mall: Software Project Management – Fifth Edition, McGraw Hill,
+New Delhi, 2012.
+2. Robert K. Wysocki ―Effective Software Project Management – Wiley Publication, 2011.
+3. Walker Royce: ―Software Project Management- Addison-Wesley, 1998.
+4. Gopalaswamy Ramesh, ―Managing Global Software Projects – McGraw Hill Education (India), Fourteenth
+Reprint 2013.
+Curriculum & Evaluation Scheme CS & CSE (V & VI semester) 35

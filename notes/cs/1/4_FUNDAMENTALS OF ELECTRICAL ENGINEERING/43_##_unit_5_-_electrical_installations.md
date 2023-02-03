@@ -1,0 +1,3 @@
+## Unit 5 - Electrical Installations
+
+Unit 5 - Electrical Installations covers the principles and practices of electrical installations. Topics include electrical safety, electrical circuits, wiring systems, and electrical equipment. Students learn how to install, test, and maintain electrical systems in residential, commercial, and industrial settings. The unit also covers the regulations and standards that govern electrical installations, including the National Electric Code (NEC). The unit concludes with a focus on energy efficiency and the use of renewable energy sources in electrical installations.

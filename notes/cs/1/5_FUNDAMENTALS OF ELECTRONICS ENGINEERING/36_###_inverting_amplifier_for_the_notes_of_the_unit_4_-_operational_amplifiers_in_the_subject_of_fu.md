@@ -1,0 +1,3 @@
+### Inverting Amplifier for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+An Inverting Amplifier is a type of operational amplifier circuit that amplifies the input signal while also reversing its phase. It has a gain factor (A) that is determined by the ratio of the feedback resistor (Rf) to the input resistor (Ri). The input is applied to the non-inverting terminal and the output is taken from the inverting terminal. The input voltage is subtracted from the reference voltage at the inverting terminal, producing a negative output voltage that is proportional to the input voltage. The circuit is commonly used in applications such as signal processing, filtering, and voltage regulation.

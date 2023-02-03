@@ -1,0 +1,3 @@
+### Proof of Work (PoW) for the notes of the Unit 2 - Consensus in the subject of Block chain Architecture Design
+
+PoW is a consensus algorithm used in blockchain to validate transactions and produce new blocks. It requires nodes to solve complex mathematical problems to validate transactions, adding a block to the chain and receiving a reward. The difficulty of the problems is adjusted to control the rate of block creation. This makes it computationally infeasible for any single node to control the majority of the network and ensures the security of the blockchain. PoW is used in cryptocurrencies such as Bitcoin and Ethereum.

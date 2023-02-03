@@ -1,4 +1,3 @@
-KCS
 ## Course Objectives:
 ### 1. To enable the students to understand about the Chemistry of Atomic and Molecular structure, Chemistry of
 advanced Materials like Liquid crystals, Nanomaterials, Graphite & fullerenes and Green Chemistry.

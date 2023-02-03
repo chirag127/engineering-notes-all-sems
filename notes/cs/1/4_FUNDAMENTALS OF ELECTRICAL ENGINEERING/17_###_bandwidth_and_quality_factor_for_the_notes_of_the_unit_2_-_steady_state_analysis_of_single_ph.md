@@ -1,0 +1,5 @@
+### bandwidth and quality factor for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+Bandwidth refers to the range of frequencies over which a system, such as an electrical circuit, is capable of operating. In electrical engineering, the term is used to describe the range of frequencies over which a circuit, such as a filter or amplifier, can pass signals without significant loss or distortion.
+
+Quality factor (Q) is a dimensionless parameter that describes the damping of an oscillator or resonant circuit. It is defined as the ratio of energy stored in the resonant circuit to the energy dissipated per cycle. The higher the Q factor, the less damping and the more energy is stored in the circuit. This results in a sharper resonant peak and a narrower bandwidth. In electrical engineering, the Q factor is used to describe the performance of filters, resonant circuits, and other components that are designed to operate at a specific frequency.

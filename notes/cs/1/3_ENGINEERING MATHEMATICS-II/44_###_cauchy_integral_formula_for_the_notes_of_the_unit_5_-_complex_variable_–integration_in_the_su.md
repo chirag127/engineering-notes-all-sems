@@ -1,0 +1,3 @@
+### Cauchy integral formula for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+
+Cauchy's Integral Formula states that if f(z) is a complex analytic function in a simply connected region D, then for any closed curve C in D, the value of the line integral of f(z) over C is equal to 2πi times the sum of the residues of f(z) inside C. The formula is named after Augustin Cauchy, a French mathematician who first published it in 1814. It is a fundamental result in complex analysis and has numerous applications, including the evaluation of definite integrals and the solution of differential equations.

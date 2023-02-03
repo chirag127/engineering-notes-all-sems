@@ -1,0 +1,3 @@
+### Debugging for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+Debugging is the process of identifying and fixing errors in software code. It involves analyzing code, identifying the cause of the error, and making changes to the code to correct it. Debugging can be done manually or with the help of debugging tools. Some common types of errors that can be found during debugging include syntax errors, semantic errors, and runtime errors. Debugging can be time-consuming, but it is an important part of the software development process to ensure that the software is functioning correctly.

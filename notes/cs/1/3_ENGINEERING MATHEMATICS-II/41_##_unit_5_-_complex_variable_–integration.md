@@ -1,0 +1,3 @@
+## Unit 5 - Complex Variable –Integration
+
+Unit 5 in complex variables covers the topic of integration. Integration in complex variables is a technique used to find the integral of complex functions. The main difference between real and complex integration is that the latter can be evaluated over contours in the complex plane. The Cauchy integral theorem and the Cauchy integral formula are two important results in complex integration that allow for the evaluation of integrals of analytic functions. The residue theorem is another important result in complex integration that relates the values of an integral to the poles of a function. These techniques are used in many areas of mathematics and physics, including fluid dynamics, electromagnetism, and control theory.

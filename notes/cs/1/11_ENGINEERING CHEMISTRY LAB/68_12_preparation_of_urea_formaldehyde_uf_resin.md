@@ -1,0 +1,3 @@
+12. Preparation of Urea formaldehyde (UF) resin.
+
+Urea formaldehyde (UF) resin is a type of synthetic polymer made by the reaction of urea and formaldehyde. The reaction is typically carried out in an acidic environment, such as aqueous hydrochloric acid, to facilitate the formation of the polymer. The reaction mixture is heated to a temperature of 60-80°C and held at that temperature for several hours to allow the reaction to proceed to completion. The resulting polymer is then cooled and solidified, and can be used as a starting material for the production of molded products, adhesives, and coatings.

@@ -1,0 +1,1 @@
+### Applications of PN Junction diode: Half & Full wave rectifier- Measurement of Vrms,Vdc, and ripple factor. http://vlabs.iitkgp.ernet.in/be/exp6/index.html http://vlabs.iitkgp.ernet.in/be/exp7/index.html

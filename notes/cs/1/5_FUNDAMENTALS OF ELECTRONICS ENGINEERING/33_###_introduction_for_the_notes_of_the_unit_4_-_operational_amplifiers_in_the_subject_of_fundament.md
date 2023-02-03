@@ -1,0 +1,3 @@
+### Introduction for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+Operational Amplifiers (Op-Amps) are integrated circuits that perform mathematical operations such as amplification, summation, and differentiation. They are widely used in electronics engineering for applications such as signal processing and control systems. In this unit, we will study the basic principles of Op-Amps, including their input and output characteristics, and applications of different types of Op-Amps. The goal is to understand how Op-Amps can be used to solve real-world problems in electronics engineering.

@@ -1,0 +1,1 @@
+### Maxwell equations in vacuum and in conducting medium for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS KCS

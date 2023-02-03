@@ -1,0 +1,3 @@
+### singularities and its classification for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+
+Singularities are points in the complex plane where a complex function is not defined or is not well-behaved. They are important in complex analysis, as they can affect the behavior of a function in the vicinity of the singularity. Singularities can be classified into three types: removable, essential, and poles. Removable singularities are points where the function can be redefined to make it continuous. Essential singularities are points where the function is not defined and cannot be redefined to make it continuous. Poles are essential singularities that occur when the function has a behavior like 1/z near the singularity.

@@ -1,0 +1,1 @@
+### Working principles of hydraulic turbines (Pelton Wheel and Francis)& pumps (Centrifugal and Reciprocating) and their classifications and hydraulic lift for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING

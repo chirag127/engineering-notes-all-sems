@@ -1,0 +1,3 @@
+### public distribution system social welfare systems for the notes of the Unit 8 - Use case 3 in the subject of Block chain Architecture Design
+
+Public distribution systems are government-run programs aimed at providing basic necessities to the less privileged in a society. Social welfare systems are similar but can also include non-government organizations. Blockchain technology can be used to enhance the efficiency, transparency, and accountability of these systems. For example, a blockchain-based system can be used to track the distribution of resources, prevent fraud, and ensure that the intended recipients receive the benefits. This can help to reduce corruption, increase trust, and improve the overall effectiveness of the distribution system.

@@ -1,0 +1,1 @@
+### Part B Study of Lab Equipment’s and Components: CRO, Multi meter, Function Generator, Power supplyActive, Passive Components and Bread Board. NA, These test equipment can be Demonstrated online from any lab of ECE department or physical mode is only option.

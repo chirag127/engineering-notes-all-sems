@@ -1,0 +1,3 @@
+### CO-2 Measure the molecular / system properties such as surface tension,
+
+Carbon dioxide (CO2) is a colorless, odorless gas that has a molecular formula of CO2. It has a molecular weight of 44.01 g/mol and is composed of one carbon atom and two oxygen atoms. CO2 is a non-polar molecule, meaning it has no permanent dipole moment. The surface tension of CO2 is low due to its non-polar nature. CO2 is a gas at room temperature and pressure, but it can be compressed and cooled to form a solid or liquid. It is important to note that CO2 is a greenhouse gas and its increasing concentration in the atmosphere is causing global warming.

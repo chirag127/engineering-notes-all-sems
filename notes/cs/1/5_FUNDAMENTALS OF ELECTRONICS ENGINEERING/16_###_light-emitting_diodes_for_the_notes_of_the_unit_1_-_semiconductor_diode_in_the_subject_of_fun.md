@@ -1,0 +1,3 @@
+### Light-Emitting Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+Light-Emitting Diodes (LEDs) are a type of semiconductor diode that emit light when a current is passed through them. They are made of a semiconductor material, typically a p-n junction, which emits light when electrons and holes recombine. LEDs have many advantages over traditional light sources, including lower energy consumption, longer lifespan, faster switching, and higher efficiency. They are widely used in a variety of applications, such as displays, lighting, and signals. LEDs can be made to emit light in different colors by using different materials and doping levels, making them a versatile and cost-effective light source.

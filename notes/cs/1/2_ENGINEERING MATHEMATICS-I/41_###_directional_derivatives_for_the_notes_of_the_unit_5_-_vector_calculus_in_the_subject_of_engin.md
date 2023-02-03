@@ -1,0 +1,3 @@
+### Directional derivatives for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+
+Directional derivatives are a measure of how much a multivariable function changes in a particular direction. It is a derivative of a scalar-valued function of several variables in a chosen direction. The directional derivative is found by taking the derivative of the function in the direction of a unit vector. The directional derivative can be used to find the maximum rate of change of a function in a particular direction. The concept of directional derivatives is fundamental in vector calculus and is used in many engineering applications, including optimization and control theory.

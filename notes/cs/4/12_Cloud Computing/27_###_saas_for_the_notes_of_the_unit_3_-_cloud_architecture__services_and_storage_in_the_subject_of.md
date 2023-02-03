@@ -1,0 +1,3 @@
+### SaaS for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+
+SaaS (Software as a Service) is a cloud computing model where software applications are hosted by a third-party provider and made available to customers over the internet. The provider manages the infrastructure, security, and maintenance, freeing up customers from these responsibilities. SaaS is typically accessed through a web browser and can be used on any device with internet access. Examples of SaaS include email, customer relationship management, and project management tools. Advantages of SaaS include lower costs, scalability, and accessibility, while disadvantages include limited customization and dependence on internet connectivity.

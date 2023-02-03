@@ -1,0 +1,3 @@
+### Verification of Truth Table of Various Logic Gate https://de-iitr.vlabs.ac.in/digitalelectronics-iitr/exp/truth-table-gates/
+
+A truth table is a table used to represent the behavior of a Boolean function. In digital electronics, truth tables are used to verify the behavior of various logic gates, such as AND, OR, NOT, NAND, NOR, XOR, and XNOR. To verify the truth table of a logic gate, the inputs and outputs of the gate are listed in a table, and the inputs are varied to determine the corresponding outputs. The truth table of a logic gate is verified by comparing the expected outputs with the actual outputs obtained from the gate.

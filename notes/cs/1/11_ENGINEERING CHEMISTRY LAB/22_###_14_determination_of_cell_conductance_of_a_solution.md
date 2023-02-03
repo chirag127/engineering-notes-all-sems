@@ -1,0 +1,3 @@
+### 14. Determination of Cell Conductance of a solution.
+
+Cell conductance is a measure of the ability of a solution to conduct electricity. It is determined by measuring the electrical current that flows through the solution when an electrical potential is applied across the electrodes. The cell conductance is proportional to the concentration of ions in the solution. The experiment is performed by placing electrodes in the solution and applying a potential difference across the electrodes. The current is then measured and the conductance is calculated from the current and the potential difference. The conductance can be used to determine the concentration of ions in the solution, as well as the type of ions present.

@@ -28,8 +28,13 @@ def chat(i, file_name) -> bool:
 
         f.write(PROMPT + "\n")
     print(PROMPT)
+
+    try:
     # divide prompt by first space
-    PROMPT = PROMPT.split(" ", 1)[1]
+        PROMPT = PROMPT.split(" ", 1)[1]
+    except Exception as error:
+        print("No space in prompt")
+        print(error)
 
     PROMPT = "write in detail about " + PROMPT
     start = time.perf_counter()
@@ -108,7 +113,7 @@ def main(files):
                         print("File already exists")
 
                         if a:
-                            m = 20
+                            m = 10
                             return
                         else:
                             with open(file_name, "r") as f:
@@ -119,11 +124,11 @@ def main(files):
                                     return
                     chat(PROMPT, file_name)
 
-                # with ThreadPoolExecutor(max_workers=m) as executor:
-                #     executor.map(d, p)
+                with ThreadPoolExecutor(max_workers=m) as executor:
+                    executor.map(d, p)
 
-                for i in p:
-                    d(i)
+                # for i in p:
+                #     d(i)
 
 from r import remove
 

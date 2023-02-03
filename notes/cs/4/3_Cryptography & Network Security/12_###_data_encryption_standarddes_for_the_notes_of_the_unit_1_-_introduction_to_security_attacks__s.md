@@ -1,1 +1,9 @@
 ### Data encryption standard(DES) for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
+
+Data Encryption Standard (DES) is a widely used block cipher that was adopted as a standard by the US government in the 1970s. DES uses a 56-bit key, which has become relatively easy to crack due to advances in computing power. DES is based on the Feistel structure and uses 16 rounds of substitution and permutation operations to encrypt the plaintext.
+
+DES has been widely used and has been the subject of extensive cryptanalysis. Despite its relatively short key length, DES has proven to be a secure encryption algorithm, with no practical attacks discovered until the advent of brute force attacks using specialized hardware.
+
+In recent years, DES has been largely replaced by more secure algorithms, such as AES (Advanced Encryption Standard), which uses a longer key length and more advanced encryption techniques. However, DES is still widely used in legacy systems and continues to play an important role in cryptography and network security.
+
+In conclusion, DES was a widely used and important encryption standard, but its relatively short key length has made it less secure in the face of advances in computing power. Despite this, DES continues to play a role in cryptography and network security and understanding its principles is important for designing secure systems and defending against attacks.
