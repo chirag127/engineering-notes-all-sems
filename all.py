@@ -5,10 +5,10 @@ import random
 import time
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
+
 from revChatGPT.Official import Chatbot
 
 from r import remove
-
 
 # a = random.randint(1, 1000)
 # print("Sleeping for {} seconds".format(a))
@@ -38,7 +38,8 @@ def myChatbot(api_key):
 def chat(i, file_name) -> bool:
     PROMPT = i
 
-    with open(file_name, "w") as f:
+    jls_extract_var = open(file_name, "w",encoding="utf-8")
+    with jls_extract_var as f:
         f.write(PROMPT + "\n")
     print(PROMPT)
 
