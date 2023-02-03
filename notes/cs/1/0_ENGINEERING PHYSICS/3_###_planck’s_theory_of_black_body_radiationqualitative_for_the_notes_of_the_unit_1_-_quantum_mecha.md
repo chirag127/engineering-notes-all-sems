@@ -1,1 +1,0 @@
-### Planck’s theory of black body radiation(qualitative) for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS KCS

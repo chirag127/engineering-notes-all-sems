@@ -1,0 +1,3 @@
+## c. List all he trains that depart from a particular station within the next one hour of a given time.
+
+To find all trains departing from a particular station within the next one hour of a given time, you need to access the train schedule for that station. The schedule will list the departure time for each train, and you can compare the departure time with the given time to determine if the train is departing within the next hour. If it is, add the train to your list. Repeat this process for each train listed in the schedule until you have a complete list of all trains departing from the station within the next hour.

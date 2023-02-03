@@ -1,0 +1,94 @@
+## Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS
+### The historical development of VR for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Scientific landmarks for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Computer Graphics for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Real-time computer graphics for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Flight simulation for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Virtual environments for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### Requirements for VR for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+### benefits of Virtual reality for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+## Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES
+### Visual Displays for the notes of the Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+### Auditory Displays for the notes of the Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+### Haptic Displays for the notes of the Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+### Choosing Output Devices for 3D User Interfaces for the notes of the Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+## Unit 3 - 3D USER INTERFACE INPUT HARDWARE
+### Input device characteristics for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Desktop input devices for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Tracking Devices for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### 3D Mice for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Special Purpose Input Devices for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Direct Human Input for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Home - Brewed Input Devices for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+### Choosing Input Devices for 3D Interfaces for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+## Unit 4 - SOFTWARE TECHNOLOGIES
+### Database - World Space for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### World Coordinate for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### World Environment for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Objects - Geometry for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Position / Orientation for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Hierarchy for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Bounding Volume for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Scripts and other attributes for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### VR Environment - VR Database for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Tessellated Data for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### LODs for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Cullers and Occluders for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Lights and Cameras for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Scripts for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Interaction - Simple for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Feedback for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Graphical User Interface for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Control Panel for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### 2D Controls for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Hardware Controls for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Room / Stage / Area Descriptions for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### World Authoring and Playback for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### VR toolkits for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+### Available software in the market for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+## Unit 5 - 3D INTERACTION TECHNIQUES
+### 3D Manipulation tasks for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Manipulation Techniques and Input Devices for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Interaction Techniques for 3D Manipulation for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Deign Guidelines - 3D Travel Tasks for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Travel Techniques for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Design Guidelines - Theoretical Foundations of Wayfinding for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### User Centered Wayfinding Support for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Environment Centered Wayfinding Support for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Evaluating Wayfinding Aids for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Design Guidelines - System Control for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Classification for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Graphical Menus for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Voice Commands for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Gestrual Commands for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Tools for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Mutimodal System Control Techniques for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Design Guidelines for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Case Study: Mixing System Control Methods for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Symbolic Input Tasks for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### symbolic Input Techniques for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Design Guidelines for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+### Beyond Text and Number entry for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+## Unit 6 - DESIGNING AND DEVELOPING 3D USER INTERFACES
+### Strategies for Designing and Developing Guidelines and Evaluation for the notes of the Unit 6 - DESIGNING AND DEVELOPING 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+## Unit 7 - VIRTUAL REALITY APPLICATIONS
+### Engineering for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Architecture for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Education for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Medicine for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Entertainment for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Science for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+### Training for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+## Unit 8 - Augmented and Mixed Reality
+### Taxonomy for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### technology and features of augmented reality for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### difference between AR and VR for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### Challenges with AR for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### AR systems and functionality for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### Augmented reality methods for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### visualization techniques for augmented reality for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### wireless displays in educational augmented reality applications for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### mobile projection interfaces for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### marker-less tracking for augmented reality for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### enhancing interactivity in AR environments for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+### evaluating AR systems for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality

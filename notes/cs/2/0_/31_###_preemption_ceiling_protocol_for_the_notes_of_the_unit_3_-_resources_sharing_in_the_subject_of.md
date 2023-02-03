@@ -1,0 +1,3 @@
+### Preemption Ceiling Protocol for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+Preemption Ceiling Protocol (PCP) is a resource sharing algorithm in real-time systems. It ensures that high priority tasks are executed first by assigning a priority ceiling to each task. The priority ceiling is the highest priority that a task can inherit when it acquires a shared resource. Tasks with lower priority cannot preempt a task with higher priority, even if the lower priority task has been waiting for the resource for a long time. This helps to ensure that critical tasks are not blocked by lower priority tasks. The PCP algorithm is used in real-time systems where the timing constraints of tasks are critical and must be met.

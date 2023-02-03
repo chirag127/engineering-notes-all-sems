@@ -1,0 +1,3 @@
+### Q Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+
+Q-Learning is a model-free reinforcement learning algorithm that learns a policy telling an agent what action to take under what circumstances. It uses a Q-table to store the expected maximum reward for taking a particular action in a given state. The Q-value is updated through experience, using the maximum future reward for the next state as the target. The algorithm continues to learn and update the Q-values until it converges to the optimal policy. The Q-Learning algorithm is used in various applications, including robotics, game AI, and recommendation systems.

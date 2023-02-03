@@ -1,0 +1,3 @@
+### Line for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+Line: A line is a basic element in computer-aided design (CAD) and is used to represent a continuous path between two points in a 2D or 3D space. It is a mathematical representation of a straight edge and is used to create shapes and objects in CAD. Lines can be created in various ways, including by using the line tool in CAD software, by connecting two points, or by specifying the start and end coordinates. The properties of a line, such as its length, angle, and slope, can be measured and manipulated in CAD software. Lines are also used in technical drawings, blueprints, and schematics to represent edges, boundaries, and paths.

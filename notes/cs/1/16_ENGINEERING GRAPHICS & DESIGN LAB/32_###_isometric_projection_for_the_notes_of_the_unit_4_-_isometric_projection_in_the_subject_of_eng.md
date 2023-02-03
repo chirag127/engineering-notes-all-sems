@@ -1,0 +1,3 @@
+### Isometric Projection for the notes of the Unit 4 - Isometric Projection in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+Isometric Projection is a pictorial representation of an object in which all three dimensions are drawn at full scale. It is an axonometric projection in which the same scale is used for every axis, resulting in a non-distorted image. In isometric projection, the angles between the axes are 120 degrees, creating a 3D illusion. This type of projection is commonly used in engineering drawings and computer graphics. It is useful for visualizing complex objects and making technical illustrations. It is also easier to read and understand compared to other types of projections. End of notes.

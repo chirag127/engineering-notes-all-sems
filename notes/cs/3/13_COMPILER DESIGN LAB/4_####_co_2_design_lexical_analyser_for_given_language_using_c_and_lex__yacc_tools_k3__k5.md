@@ -1,0 +1,3 @@
+#### CO 2 Design Lexical analyser for given language using C and LEX /YACC tools K3, K5
+
+CO2 Design Lexical Analyzer is a tool that uses C and LEX/YACC tools (K3 and K5) to analyze a given language. The tool works by breaking down the input language into its smallest components, known as tokens. These tokens are then passed to a parser, which uses the grammar rules defined in the LEX/YACC specification to build a parse tree. The parse tree is then used to generate the final output, which may be an abstract syntax tree or machine code. The LEX/YACC tools provide a convenient way to define the grammar of a language and to generate a lexical analyzer and parser automatically. This makes it easier to analyze complex languages and to build compilers and interpreters.

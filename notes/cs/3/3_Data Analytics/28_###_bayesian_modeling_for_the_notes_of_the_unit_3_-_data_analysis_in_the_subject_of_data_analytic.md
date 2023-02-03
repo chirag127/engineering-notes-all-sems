@@ -1,0 +1,3 @@
+### Bayesian modeling for the notes of the Unit 3 - Data Analysis in the subject of Data Analytics
+
+Bayesian modeling is a statistical approach that uses Bayes' theorem to update the probability of a hypothesis as more data becomes available. It starts with prior beliefs about the parameters of a model, and then updates those beliefs based on the observed data. The result is a posterior distribution of the parameters, which can be used to make predictions about future data. This approach is useful in situations where the data is limited or noisy, as it allows for incorporation of prior knowledge and accounts for uncertainty in the estimates. Bayesian modeling is widely used in various fields including machine learning, computer vision, and natural language processing.

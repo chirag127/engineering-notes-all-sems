@@ -1,0 +1,3 @@
+### pooling for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+Pooling is a technique used in convolutional neural networks to reduce the spatial size of the feature maps, resulting in a reduction of the number of parameters and computation in the network. It also helps to reduce overfitting and make the features more invariant to translations in the input. There are two common types of pooling: Max Pooling and Average Pooling. Max Pooling takes the maximum value from each pooling window while Average Pooling takes the average value. The pooling window size and stride are hyperparameters that can be tuned for a specific task.

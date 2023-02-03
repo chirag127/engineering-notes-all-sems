@@ -1,0 +1,3 @@
+### Mutation for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+
+Mutation is a concept used in reinforcement learning to explore new solutions or states in the search space. It is a random process that perturbs the parameters of a policy or strategy to create new variations. In evolutionary reinforcement learning, the mutated policies compete against each other, and the best performing policies are selected for further mutation and improvement. Mutation is used to introduce diversity into the population of policies and helps to prevent getting stuck in a suboptimal solution. The mutation rate, or the probability of a policy being mutated, is a hyperparameter that can be tuned.

@@ -1,0 +1,5 @@
+### Non-preemptive Critical Sections for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+Non-preemptive critical sections are a type of synchronization mechanism used in real-time systems to ensure that shared resources are accessed by only one task at a time. In this type of critical section, once a task enters the critical section, it cannot be interrupted by any other task until it has completed its operation. This is in contrast to preemptive critical sections, where a task can be interrupted and another task can enter the critical section. Non-preemptive critical sections are used to prevent race conditions and ensure data consistency. They are typically implemented using semaphores or monitors.
+
+Note: The use of non-preemptive critical sections can lead to priority inversion, where a lower-priority task holds the critical section and blocks a higher-priority task from accessing the shared resource. To avoid this, priority inheritance or priority ceiling protocols can be used.

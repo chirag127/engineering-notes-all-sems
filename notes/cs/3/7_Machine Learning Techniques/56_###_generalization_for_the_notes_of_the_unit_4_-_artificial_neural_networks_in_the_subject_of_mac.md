@@ -1,0 +1,3 @@
+### Generalization for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+Generalization in Artificial Neural Networks refers to the ability of a model to correctly predict outcomes for unseen data. It is a key aspect of model evaluation and helps to prevent overfitting, where a model has memorized the training data but fails to generalize to new data. Generalization can be improved by using regularization techniques such as dropout, early stopping, and L1/L2 regularization. Additionally, increasing the size of the training data, using cross-validation, and ensembling multiple models can also enhance generalization.

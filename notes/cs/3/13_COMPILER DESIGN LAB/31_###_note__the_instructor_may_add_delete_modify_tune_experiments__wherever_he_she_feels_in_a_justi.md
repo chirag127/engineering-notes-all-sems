@@ -1,0 +1,3 @@
+### Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+
+Note: The Instructor may add, delete, modify, or tune experiments as they see fit in a justified manner. This means that the instructor has the discretion to change the experiments in the course as they see fit, as long as they have a valid reason for doing so. This may be necessary to ensure that the course is up-to-date and relevant, to address any issues that arise during the course, or to improve the overall quality of the course. The instructor's decision to modify the experiments should be based on their professional judgment and expertise, and should be in the best interest of the students.

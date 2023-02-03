@@ -1,0 +1,3 @@
+### multivariate analysis for the notes of the Unit 3 - Data Analysis in the subject of Data Analytics
+
+Multivariate Analysis is a statistical method used to examine the relationship between multiple variables. It involves analyzing the relationship between two or more variables to determine if there is a correlation or causal relationship between them. Techniques used in multivariate analysis include regression analysis, factor analysis, and principal component analysis. The results of multivariate analysis can be used to make predictions, identify patterns, and inform decision-making. This method is commonly used in fields such as marketing, finance, and psychology.

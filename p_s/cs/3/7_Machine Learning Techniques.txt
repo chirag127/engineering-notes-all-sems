@@ -1,0 +1,92 @@
+## Unit 1 - INTRODUCTION
+### Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Types of Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Well defined learning problems for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Designing a Learning System for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### History of ML for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Introduction of Machine Learning Approaches for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Artificial Neural Network for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Clustering for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Reinforcement Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Decision Tree Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Bayesian networks for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Support Vector Machine for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Genetic Algorithm for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Issues in Machine Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+### Data Science Vs Machine Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+## Unit 2 - REGRESSION
+### Linear Regression for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Logistic Regression for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### BAYESIAN LEARNING for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Bayes theorem for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Concept learning for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Bayes Optimal Classifier for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Naïve Bayes classifier for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Bayesian belief networks for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### EM algorithm for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### SUPPORT VECTOR MACHINE for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Introduction for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Types of support vector kernel for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Linear kernel for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### polynomial kernel for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Gaussiankernel for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Hyperplane for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Decision surface for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Properties of SVM for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+### Issues in SVM for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+## Unit 3 - DECISION TREE LEARNING
+### Decision tree learning algorithm for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Inductive bias for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Inductive inference with decision trees for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Entropy and information theory for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Information gain for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### ID-3 Algorithm for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Issues in Decision tree learning for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### INSTANCE-BASED LEARNING for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### k-Nearest Neighbour Learning for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Locally Weighted Regression for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Radial basis function networks for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+### Case-based learning for the notes of the Unit 3 - DECISION TREE LEARNING in the subject of Machine Learning Techniques
+## Unit 4 - ARTIFICIAL NEURAL NETWORKS
+### Perceptron’s for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Multilayer perceptron for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Gradient descent and the Delta rule for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Multilayer networks for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Derivation of Backpropagation Algorithm for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Generalization for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Unsupervised Learning for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### SOM Algorithm and its variant for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### DEEP LEARNING for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Introduction to Deep Learning for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### concept of convolutional neural network for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Types of layers for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Convolutional Layers for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Activation function for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### pooling for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### fully connected for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Concept of Convolution for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### 1D and 2D for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Training of network for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Case study of CNN for eg on Diabetic Retinopathy for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Building a smart speaker for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+### Self-deriving car etc for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+## Unit 5 - REINFORCEMENT LEARNING
+### Introduction to Reinforcement Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Learning Task for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Example of Reinforcement Learning in Practice for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Learning Models for Reinforcement for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Markov Decision process for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Q Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Q Learning function for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Q Learning Algorithm for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Application of Reinforcement Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Introduction to Deep Q Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### GENETIC ALGORITHMS for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Introduction for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Components for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### GA cycle of reproduction for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Crossover for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Mutation for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Genetic Programming for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Models of Evolution and Learning for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+### Applications for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques

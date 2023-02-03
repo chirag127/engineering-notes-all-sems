@@ -1,0 +1,3 @@
+### fully connected for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+A fully connected layer, also known as a dense layer, is a type of layer in an artificial neural network that connects every input node to every output node. Each input node contributes to the output nodes with a weight and a bias term. The output of each node is given by the activation function applied to the weighted sum of the inputs. This layer is used to model complex relationships between inputs and outputs in a neural network. It is a crucial component in deep learning networks and is used to build multi-layer perceptrons (MLPs).

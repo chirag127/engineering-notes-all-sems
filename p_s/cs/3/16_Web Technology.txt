@@ -1,0 +1,96 @@
+## Unit 1 - Introduction
+### Introduction and Web Development Strategies for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### History of Web and Internet for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Protocols Governing Web for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Writing Web Projects for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Connecting to Internet for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Introduction to Internet services and tools for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Introduction to client-server computing for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Core Java for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Introduction for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Operator for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Data type for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Variable for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Arrays for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Methods & Classes for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Inheritance for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Package and Interface for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Exception Handling for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Multithread programming for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### I/O for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Java Applet for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### String handling for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Event handling for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Introduction to AWT for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### AWT controls for the notes of the Unit 1 - Introduction in the subject of Web Technology
+### Layout managers for the notes of the Unit 1 - Introduction in the subject of Web Technology
+## Unit 2 - Web Page Designing
+### HTML for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### List for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Table for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Images for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Frames for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### forms for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### CSS for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Document type definition for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### XML for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### DTD for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### XML schemes for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Object Models for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### presenting and using XML for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Using XML Processors for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### DOM and SAX for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+### Dynamic HTML for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+## Unit 3 - Scripting
+### Java script for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Introduction for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### documents for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### forms for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### statements for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### functions for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### objects for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### introduction to AJAX for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Networking for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Internet Addressing for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### InetAddress for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Factory Methods for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Instance Methods for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### TCP/IP Client Sockets for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### URL for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### URL Connection for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### TCP/IP Server Sockets for the notes of the Unit 3 - Scripting in the subject of Web Technology
+### Datagram for the notes of the Unit 3 - Scripting in the subject of Web Technology
+## Unit 4 - Enterprise Java Bean
+### Preparing a Class to be a JavaBeans for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Creating a JavaBeans for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### JavaBeans Properties for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Types of beans for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Stateful Session bean for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Stateless Session bean for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Entity bean for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Java Database Connectivity (JDBC) for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Merging Data from Multiple Tables for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Joining for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Manipulating for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Databases with JDBC for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Prepared Statements for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Transaction Processing for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+### Stored Procedures for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+## Unit 5 - Servlets
+### Servlet Overview and Architecture for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Interface Servlet and the Servlet Life Cycle for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Handling HTTP get Requests for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Handling HTTP post Requests for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Redirecting Requests to Other Resources for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Session Tracking for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Cookies for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Session Tracking with Http Session for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Java Server Pages (JSP) for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Introduction for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Java Server Pages Overview for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### A First Java Server Page Example for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Implicit Objects for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Scripting for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Standard Actions for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Directives for the notes of the Unit 5 - Servlets in the subject of Web Technology
+### Custom Tag Libraries for the notes of the Unit 5 - Servlets in the subject of Web Technology
