@@ -1,0 +1,11 @@
+### Telugu Literature for the notes of the Module 2- Indian Literature, Culture, Tradition, and Practices in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+Telugu literature is a rich and vibrant tradition of written works in the Telugu language, which is spoken primarily in the Indian states of Andhra Pradesh and Telangana. It has a long and storied history that dates back to the 11th century, when the first recorded Telugu literary works were produced.
+
+Telugu literature can be broadly divided into three categories: classical, medieval, and modern. The classical period, which lasted from the 11th to the 14th centuries, was marked by the production of religious and philosophical works, including the Nannaya Bhattu's Andhra Mahabharatam, which is considered the first Telugu literary work. The medieval period, which lasted from the 14th to the 18th centuries, was characterized by the production of devotional and moralistic works, such as the works of the 15th century poet Srinatha.
+
+The modern period of Telugu literature began in the late 19th century and continues to the present day. During this time, Telugu literature saw a significant expansion, with the production of various forms of written works, including fiction, poetry, drama, and essays. The modern period is also characterized by the emergence of a number of influential Telugu writers, such as Gurazada Apparao, Viswanatha Satyanarayana, and Sri Sri.
+
+In addition to its literary achievements, Telugu literature has also played a significant role in shaping the cultural and social identity of the Telugu-speaking people. It has been a source of inspiration and a means of expression for the Telugu people, reflecting their beliefs, values, and experiences. Telugu literature has also been a powerful tool for social and political change, with many works addressing issues such as caste discrimination, poverty, and oppression.
+
+In conclusion, Telugu literature is a rich and diverse tradition that has had a profound impact on the culture and society of the Telugu-speaking people. It is a testament to the creativity and intellectual prowess of the Telugu people and continues to be a source of inspiration and cultural pride for them.

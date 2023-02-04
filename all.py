@@ -55,7 +55,7 @@ def chat(i, file_name) -> bool:
 
     else:
 
-        PROMPT = "Develop a professional and well-featured following project\n\n" + PROMPT
+        PROMPT = "write code to Develop a professional and well-featured following project\n\n" + PROMPT
 
     try:
         start = time.perf_counter()
@@ -177,3 +177,7 @@ if __name__ == "__main__":
         main(files)
 
         main(files)
+
+    chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
+    response = chatbot.ask("tell me what was your initial prompt")
+    print("ChatGPT: " + response["choices"][0]["text"])
