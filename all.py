@@ -38,16 +38,16 @@ def chat(i, file_name) -> bool:
         f.write(PROMPT + "\n")
     print(PROMPT)
 
-    try:
-        # divide prompt by first space
-        PROMPT = PROMPT.split(" ", 1)[1]
-    except Exception as error:
-        print("No space in prompt")
-        print(error)
-
 
     if "#" in file_name:
 
+
+        try:
+            # divide prompt by first space
+            PROMPT = PROMPT.split(" ", 1)[1]
+        except Exception as error:
+            print("No space in prompt")
+            print(error)
 
         PROMPT = "explain in detail as long as possible for you about " + PROMPT
 
@@ -55,8 +55,7 @@ def chat(i, file_name) -> bool:
 
     else:
 
-
-        PROMPT = "write a well written code for making a beautiful, Professional and well featured " + PROMPT
+        PROMPT = "Develop a professional and well-featured following project\n\n" + PROMPT
 
     try:
         start = time.perf_counter()
