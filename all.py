@@ -23,22 +23,17 @@ api_keys = [
     "***REMOVED***",
     "***REMOVED***",
 ]
-
 chatbot1 = Chatbot(api_key=api_keys[0])
 chatbot2 = Chatbot(api_key=api_keys[1])
 chatbot3 = Chatbot(api_key=api_keys[2])
 chatbot4 = Chatbot(api_key=api_keys[3])
 
 
-def myChatbot(api_key):
-    chatbot = Chatbot(api_key=api_key)
-    return chatbot
-
 
 def chat(i, file_name) -> bool:
     PROMPT = i
 
-    jls_extract_var = open(file_name, "w",encoding="utf-8")
+    jls_extract_var = open(file_name, "w", encoding="utf-8")
     with jls_extract_var as f:
         f.write(PROMPT + "\n")
     print(PROMPT)
@@ -50,11 +45,23 @@ def chat(i, file_name) -> bool:
         print("No space in prompt")
         print(error)
 
-    PROMPT = "write in detail as long as possible for you about " + PROMPT
+
+    if "#" in file_name:
+
+
+        PROMPT = "explain in detail as long as possible for you about " + PROMPT
+
+    # PROMPT = "(combine the CSS, and JavaScript into the html file instead of seperate file)\nwrite a well written code for making a beautiful, Professional and well featured website for " + PROMPT
+
+    else:
+
+
+        PROMPT = "write a well written code for making a beautiful, Professional and well featured " + PROMPT
 
     try:
         start = time.perf_counter()
         print("User: " + PROMPT)
+
 
         chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
         response = chatbot.ask(PROMPT)
@@ -99,7 +106,7 @@ def main(files):
                 # a = False
 
                 if a:
-                    m = 4
+                    m = 5
                 else:
                     m = 1
 
@@ -152,7 +159,7 @@ def main(files):
                 # for i in p:
                 #     d(i)
 
-    with ThreadPoolExecutor(max_workers=4) as executor:
+    with ThreadPoolExecutor(max_workers=3) as executor:
         executor.map(main_2, files)
 
 
