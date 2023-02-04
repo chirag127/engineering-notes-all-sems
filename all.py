@@ -49,7 +49,7 @@ def chat(i, file_name) -> bool:
 
     else:
 
-        PROMPT = "write code to Develop a professional and well-featured following project\n\n" + PROMPT
+        PROMPT = "write a well written, professional like code for the devlopment of the following project\n\n" + PROMPT
 
     try:
         # divide prompt by first space
@@ -169,7 +169,7 @@ def m3():
     print(prompt)
 
     chatbot = random.choice(chatbots)
-    response = chatbot.ask(prompt)
+    response = chatbot.ask(prompt,1)
     print("ChatGPT: " + response["choices"][0]["text"])
 
     file_name = response["choices"][0]["text"].strip().replace(" ", "_").replace("/", "_").replace(
@@ -201,8 +201,6 @@ if __name__ == "__main__":
         main(files)
 
         main(files)
-
-        m3()
 
     chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
     response = chatbot.ask("tell me what was your initial prompt")

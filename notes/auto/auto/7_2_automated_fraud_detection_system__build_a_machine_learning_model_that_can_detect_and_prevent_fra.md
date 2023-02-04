@@ -1,11 +1,36 @@
 2. Automated Fraud Detection System: Build a machine learning model that can detect and prevent fraud in financial transactions. Utilize techniques such as anomaly detection, decision trees, and random forests to identify suspicious transactions. Tools such as Python, TensorFlow, and scikit-learn can be used to implement the model.
 
-To develop an Automated Fraud Detection System, you can start by defining the problem you are trying to solve and the specific use case you want to address. Then, you can gather and preprocess data related to financial transactions, such as transaction amount, date and time, location, and other relevant information. 
+Sure, here's a sample code in Python using scikit-learn library to implement an automated fraud detection system:
 
-Next, you can choose an appropriate machine learning algorithm and train it on the preprocessed data. You can use techniques such as anomaly detection, decision trees, and random forests to identify suspicious transactions. Tools such as Python, TensorFlow, and scikit-learn can be used to implement the machine learning model.
+```
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix, classification_report
 
-Once the model is trained, you can use it to detect and prevent fraud in real-time financial transactions. You can also implement features such as real-time monitoring and alerts, risk scoring, and automatic block or flagging of suspicious transactions.
+# Load the dataset
+df = pd.read_csv("fraud_data.csv")
 
-To make the system more user-friendly and accessible, you can develop a web or mobile application that integrates with the machine learning model. This application can allow financial institutions to monitor and manage fraud detection and prevention, and provide customers with real-time updates on their transactions.
+# Split the data into features and target
+X = df.drop("Class", axis=1)
+y = df["Class"]
 
-Overall, developing an Automated Fraud Detection System requires a good understanding of machine learning algorithms, data preprocessing, and web/mobile development.
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
+
+# Train the Random Forest Classifier
+clf = RandomForestClassifier(n_estimators=100, random_state=0)
+clf.fit(X_train, y_train)
+
+# Make predictions on the test data
+y_pred = clf.predict(X_test)
+
+# Evaluate the model's performance
+print("Confusion Matrix:")
+print(confusion_matrix(y_test, y_pred))
+print("Classification Report:")
+print(classification_report(y_test, y_pred))
+```
+
+This code uses a Random Forest Classifier to train the model on the fraud detection data. The data is loaded into a pandas DataFrame and then split into features and target. The data is then split into training and testing sets, with the training set used to train the model and the testing set used to evaluate the model's performance. The performance is evaluated using a confusion matrix and a classification report.

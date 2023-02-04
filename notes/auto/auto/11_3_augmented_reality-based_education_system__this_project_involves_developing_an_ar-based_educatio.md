@@ -1,36 +1,56 @@
 3. Augmented Reality-based Education System: This project involves developing an AR-based education system that can provide a more interactive and engaging learning experience. Tools such as Unity, Vuforia, and ARKit can be used to implement this project.
 
-Here is a sample code in C# using Unity and Vuforia for an AR-based education system:
+Sure! Here's a sample code in C# using Unity and Vuforia as the AR framework:
 
 ```
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
 
 public class ARController : MonoBehaviour
 {
-    public GameObject ImageTarget;
     public GameObject ARCamera;
-    public GameObject ARModel;
+    public GameObject ImageTarget;
+    public GameObject ARObject;
+
+    private bool isTracking = false;
 
     void Start()
     {
-        ARModel.SetActive(false);
+        VuforiaARController.Instance.RegisterVuforiaStartedCallback(OnVuforiaStarted);
+        VuforiaARController.Instance.RegisterOnPauseCallback(OnPaused);
     }
 
-    public void OnTrackingFound()
+    private void OnVuforiaStarted()
     {
-        ARModel.SetActive(true);
-        ARModel.transform.position = ImageTarget.transform.position;
-        ARModel.transform.rotation = ImageTarget.transform.rotation;
+        ARCamera.SetActive(true);
     }
 
-    public void OnTrackingLost()
+    private void OnPaused(bool paused)
     {
-        ARModel.SetActive(false);
+        if (!paused)
+        {
+            // Resume AR tracking
+        }
+    }
+
+    void Update()
+    {
+        if (ImageTarget.activeInHierarchy && !isTracking)
+        {
+            ARObject.SetActive(true);
+            isTracking = true;
+        }
+        else if (!ImageTarget.activeInHierarchy && isTracking)
+        {
+            ARObject.SetActive(false);
+            isTracking = false;
+        }
     }
 }
 ```
 
-This code uses the Vuforia Image Target Tracker to detect when the target image is in view and activate the AR model. When the target image is no longer in view, the AR model is deactivated.
+This code uses Unity and Vuforia to implement an AR-based education system. The `ARController` class listens to Vuforia's `OnVuforiaStarted` and `OnPaused` events to control the AR camera and AR object. When the image target is detected and tracked, the AR object is activated and displayed in the AR camera view. When the image target is lost, the AR object is deactivated.
 
-Note: This code is just a starting point and you will need to add more features and functionality to make it a professional and well-featured AR-based education system.
+Note: You will need to replace `ARCamera`, `ImageTarget`, and `ARObject` with your actual AR camera, image target, and AR object game objects in the Unity scene.
