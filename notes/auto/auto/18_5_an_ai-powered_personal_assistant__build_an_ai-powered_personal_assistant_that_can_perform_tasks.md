@@ -1,0 +1,1 @@
+5. An AI-Powered Personal Assistant: Build an AI-powered personal assistant that can perform tasks such as scheduling appointments, sending reminders, and providing information. Tools such as Google Assistant, Amazon Alexa, and NLP libraries can be used to implement this project.

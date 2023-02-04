@@ -8,8 +8,6 @@ from time import sleep
 
 from revChatGPT.Official import Chatbot
 
-from r import remove
-
 # a = random.randint(1, 1000)
 # print("Sleeping for {} seconds".format(a))
 # sleep(a)
@@ -28,7 +26,9 @@ chatbot1 = Chatbot(api_key=api_keys[0])
 chatbot2 = Chatbot(api_key=api_keys[1])
 chatbot3 = Chatbot(api_key=api_keys[2])
 chatbot4 = Chatbot(api_key=api_keys[3])
+chatbot5 = Chatbot(api_key=api_keys[4])
 
+chatbots = [chatbot1, chatbot2, chatbot3, chatbot4, chatbot5]
 
 
 def chat(i, file_name) -> bool:
@@ -39,16 +39,7 @@ def chat(i, file_name) -> bool:
         f.write(PROMPT + "\n")
     print(PROMPT)
 
-
     if "#" in file_name:
-
-
-        try:
-            # divide prompt by first space
-            PROMPT = PROMPT.split(" ", 1)[1]
-        except Exception as error:
-            print("No space in prompt")
-            print(error)
 
         # PROMPT = "explain in detail as long as possible for you about " + PROMPT
 
@@ -61,11 +52,17 @@ def chat(i, file_name) -> bool:
         PROMPT = "write code to Develop a professional and well-featured following project\n\n" + PROMPT
 
     try:
+        # divide prompt by first space
+        PROMPT = PROMPT.split(" ", 1)[1]
+    except Exception as error:
+        print("No space in prompt")
+        print(error)
+
+    try:
         start = time.perf_counter()
         print("User: " + PROMPT)
 
-
-        chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
+        chatbot = random.choice(chatbots)
         response = chatbot.ask(PROMPT)
         print("ChatGPT: " + response["choices"][0]["text"])
         end = time.perf_counter()
@@ -165,21 +162,47 @@ def main(files):
         executor.map(main_2, files)
 
 
+def m3():
+
+    prompt = "suggest unique, innovative and challenging Computer Science project ideas, including information on the technologies and tools that can be used to implement it?"
+
+    print(prompt)
+
+    chatbot = random.choice(chatbots)
+    response = chatbot.ask(prompt)
+    print("ChatGPT: " + response["choices"][0]["text"])
+
+    file_name = response["choices"][0]["text"].strip().replace(" ", "_").replace("/", "_").replace(
+        ":", "_").replace(",", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', "")
+
+    file_name = str(random.randint(0, 1000)) + "_" + file_name
+
+    if len(file_name) > 100:
+
+        file_name = file_name[:100]
+    with open("p_s/auto/" + "auto" + ".txt", "a") as f:
+        f.write(response["choices"][0]["text"].strip() + "\n")
+
+
 if __name__ == "__main__":
+
     import glob
 
-    for i in range(10):
+    from r import remove
+
+    for i in range(10000):
 
         print(i)
-        # get all files in p_s folder
+
         files = glob.glob("p_s/**/*.txt", recursive=True)
 
-        # remove files in notes folder
         remove()
 
         main(files)
 
         main(files)
+
+        m3()
 
     chatbot = random.choice([chatbot1, chatbot2, chatbot3, chatbot4])
     response = chatbot.ask("tell me what was your initial prompt")

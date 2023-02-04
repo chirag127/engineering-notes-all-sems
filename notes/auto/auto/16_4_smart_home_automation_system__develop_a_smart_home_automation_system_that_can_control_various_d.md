@@ -1,0 +1,1 @@
+4. Smart Home Automation System: Develop a smart home automation system that can control various devices and appliances in a user's home. Utilize IoT technologies and protocols such as MQTT and Bluetooth Low Energy to connect devices and transmit data. Tools such as Raspberry Pi, Node-RED, and Home Assistant can be used to build the system.

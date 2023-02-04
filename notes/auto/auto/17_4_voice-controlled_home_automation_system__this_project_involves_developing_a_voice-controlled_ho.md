@@ -1,0 +1,1 @@
+4. Voice-controlled Home Automation System: This project involves developing a voice-controlled home automation system that can control various devices in a home using voice commands. Tools such as Amazon Alexa, Google Home, and Raspberry Pi can be used to implement this project.
