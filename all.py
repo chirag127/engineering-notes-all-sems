@@ -49,7 +49,9 @@ def chat(i, file_name) -> bool:
             print("No space in prompt")
             print(error)
 
-        PROMPT = "explain in detail as long as possible for you about " + PROMPT
+        # PROMPT = "explain in detail as long as possible for you about " + PROMPT
+
+        PROMPT = "write about " + PROMPT
 
     # PROMPT = "(combine the CSS, and JavaScript into the html file instead of seperate file)\nwrite a well written code for making a beautiful, Professional and well featured website for " + PROMPT
 
