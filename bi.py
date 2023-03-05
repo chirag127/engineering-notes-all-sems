@@ -174,6 +174,7 @@ def main(content_type="text"):
                     file.write(f"{e}\n\n")
 
 
+
 if __name__ == "__main__":
 
 
@@ -202,8 +203,8 @@ if __name__ == "__main__":
 
 
 
-            with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
-                executor.map(main, types)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
+            executor.map(main, types)
     k = 1000
 
     while k > 0:
