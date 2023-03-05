@@ -193,7 +193,7 @@ types = [
 
 print("start")
 
-k = 1000
+k = 1
 
 import concurrent.futures
 
