@@ -174,40 +174,52 @@ def main(content_type="text"):
                     file.write(f"{e}\n\n")
 
 
-print("running")
-from remove_empty_notes import remove
+if __name__ == "__main__":
 
-remove()
 
-print("re")
+    def main_1():
+        from remove_empty_notes import remove
 
-types = [
-    "all",
-    "text",
-    "image",
-    "diagram",
-    "explain",
-    "ab",
-    "ch",
-    "code",
-    "example",
-    "definition",
-    "vr",
-    "summary",
-] * 2
+        remove()
 
-print("start")
+        types = [
+            "all",
+            "text",
+            "image",
+            "diagram",
+            "explain",
+            "ab",
+            "ch",
+            "code",
+            "example",
+            "definition",
+            "vr",
+            "summary",
+        ]
 
-k = 1
 
-import concurrent.futures
+        import concurrent.futures
 
-print("start")
 
-while k > 0:
-    k -= 1
 
-    print(k)
+            with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
+                executor.map(main, types)
+    k = 1000
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
-        executor.map(main, types)
+    while k > 0:
+
+        try:
+            main_1()
+
+            k -= 1
+
+        except Exception as e:
+
+            print(e)
+
+            with open("error.txt", "a", encoding="utf8") as file:
+                file.write(f"{e}\n\n")
+
+            k -= 1
+
+    # main()
