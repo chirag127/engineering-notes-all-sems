@@ -138,7 +138,12 @@ def do_content_type_topics(j,ps_file, topic, content_type):
 
 
 def main(content_type="text"):
-    files = glob.glob("p_s/**.txt")
+
+    print(os.getcwd())
+
+    ps_files = glob.glob(f"{os.getcwd()}/p_s/**/*.txt")
+
+    files = ps_files
 
     print(files)
 
