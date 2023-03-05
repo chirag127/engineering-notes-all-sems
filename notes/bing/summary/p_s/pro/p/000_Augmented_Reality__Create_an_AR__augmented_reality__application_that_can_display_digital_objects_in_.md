@@ -1,0 +1,5 @@
+Augmented Reality: Create an AR (augmented reality) application that can display digital objects in the real world and interact with them. Technologies: Unity, ARKit, ARCore, Vuforia, C#.
+
+A possible summary for your query is:
+
+Augmented reality (AR) is a technology that combines the real world and computer-generated content, such as images, sounds, or other information. AR can be used for various purposes, such as entertainment, education, marketing, and data visualization. To create an AR application, you need to use a software platform that can detect and track the environment and display digital objects on it. Some of the popular platforms are Unity, ARKit, ARCore, and Vuforia. You also need to use a programming language that can interact with these platforms and control the logic of your application. One of the common languages used for AR development is C#.

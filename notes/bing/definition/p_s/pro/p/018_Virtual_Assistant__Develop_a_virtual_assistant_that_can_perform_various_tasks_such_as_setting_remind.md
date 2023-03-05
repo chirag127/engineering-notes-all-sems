@@ -1,0 +1,3 @@
+Virtual Assistant: Develop a virtual assistant that can perform various tasks such as setting reminders, sending emails, and scheduling appointments. Technologies: Python, Dialogflow, TensorFlow, Google Calendar API.
+
+A virtual assistant is a device, app, or computer program that can respond to commands or questions and perform tasks electronically. It can also be a person who provides professional assistance with administrative or technical tasks while working remotely . Some examples of tasks that a virtual assistant can do are setting reminders, sending emails, and scheduling appointments .
