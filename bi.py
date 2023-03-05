@@ -140,6 +140,8 @@ def do_content_type_topics(j,ps_file, topic, content_type):
 def main(content_type="text"):
     files = glob.glob("p_s/**.txt")
 
+    print(files)
+
     for _ in [2, 1, 3]:
         for ps_file in files:
             try:
@@ -167,32 +169,40 @@ def main(content_type="text"):
                     file.write(f"{e}\n\n")
 
 
-if __name__ == "__main__":
-    from remove_empty_notes import remove
+print("running")
+from remove_empty_notes import remove
 
-    remove()
+remove()
 
-    types = [
-        "all",
-        "text",
-        "image",
-        "diagram",
-        "explain",
-        "ab",
-        "ch",
-        "code",
-        "example",
-        "definition",
-        "vr",
-        "summary",
-    ]
+print("re")
 
-    k = 1000
+types = [
+    "all",
+    "text",
+    "image",
+    "diagram",
+    "explain",
+    "ab",
+    "ch",
+    "code",
+    "example",
+    "definition",
+    "vr",
+    "summary",
+]
 
-    import concurrent.futures
+print("start")
 
-    while k > 0:
-        k -= 1
+k = 1000
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
-            executor.map(main, types)
+import concurrent.futures
+
+print("start")
+
+while k > 0:
+    k -= 1
+
+    print(k)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
+        executor.map(main, types)
