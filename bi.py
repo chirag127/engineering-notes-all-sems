@@ -141,7 +141,7 @@ def main(content_type="text"):
 
     print(os.getcwd())
 
-    ps_files = glob.glob(f"{os.getcwd()}/p_s/**/*.txt")
+    ps_files = glob.glob(f"p_s/**/*.txt")
 
     files = ps_files
 

@@ -1,0 +1,5 @@
+Gaming AI: Implement an AI opponent for a video game that can make decisions and react to player actions in real-time. Technologies: Python, Reinforcement Learning, TensorFlow, Unity.
+
+Gaming AI is a term that refers to the algorithms that control the behavior of non-player characters (NPCs) in video games. Gaming AI can make NPCs act intelligently or creatively, as if controlled by a human player. Gaming AI can also create responsive and adaptive game experiences based on the player's actions .
+
+To implement an AI opponent for a video game, you need to use technologies such as Python, Reinforcement Learning, TensorFlow and Unity. Python is a programming language that is widely used for AI development. Reinforcement Learning is a type of machine learning that teaches an agent how to optimize its actions based on rewards and penalties. TensorFlow is a framework that provides tools for building and training neural networks. Unity is a game engine that allows you to create 3D games and simulations .

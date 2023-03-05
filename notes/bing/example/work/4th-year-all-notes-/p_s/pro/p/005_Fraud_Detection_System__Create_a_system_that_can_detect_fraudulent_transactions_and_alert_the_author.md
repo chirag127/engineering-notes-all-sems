@@ -1,0 +1,9 @@
+Fraud Detection System: Create a system that can detect fraudulent transactions and alert the authorities in real-time. You can use libraries like Scikit-learn, TensorFlow, and XGBoost to make this project.
+
+A fraud detection system is a software application that can identify and prevent fraudulent activities such as identity theft, credit card fraud, insurance fraud, etc. There are different types of fraud detection systems depending on the domain and the data sources they use. Some examples are:
+
+- Payment processing platforms and providers use fraud prevention tools that collect user card and transaction data, which are mapped to prior transactions. These tools work by blocking users with a known history of fraudulent transactions.
+- Insurance companies use social network analysis (SNA) to detect fraud. SNA method follows the hybrid approach that includes organizational business rules, statistical methods, pattern analysis and network linkage analysis. For example, SNA can identify clusters of people who are involved in staged accidents or false claims.
+- Online retailers use machine learning models to detect payment and transaction fraud. These models use features such as customer behavior, device information, location data, etc. to score each transaction based on its risk level. For example, Google Cloud offers a solution that uses BigQuery ML to train a model using SQL with transactional data and customer demographics data.
+
+To create your own fraud detection system, you can use libraries like Scikit-learn, TensorFlow, and XGBoost to make this project. These libraries provide various algorithms and tools for data processing, feature engineering, model training and evaluation. You can also use APIs or cloud services that offer pre-built fraud detection solutions for specific domains or scenarios.

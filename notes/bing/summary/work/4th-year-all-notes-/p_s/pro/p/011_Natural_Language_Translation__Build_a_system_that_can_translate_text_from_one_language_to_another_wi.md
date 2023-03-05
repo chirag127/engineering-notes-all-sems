@@ -1,0 +1,5 @@
+Natural Language Translation: Build a system that can translate text from one language to another with high accuracy. Technologies: Python, NLP, TensorFlow, Numpy, Seq2Seq.
+
+A possible summary for your project is:
+
+Natural Language Translation is a project that aims to create a system that can translate text from one language to another with high accuracy. The project uses Python as the programming language and NLP as the branch of artificial intelligence that deals with machine understanding of human language. The project also uses TensorFlow as the framework for building and training neural networks, Numpy as the library for scientific computing, and Seq2Seq as the model for encoding and decoding sequences of words. The project will help facilitate access to teaching and research material across all regional languages and improve communication among people who speak different languages.
