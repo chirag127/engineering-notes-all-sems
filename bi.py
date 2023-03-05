@@ -194,7 +194,7 @@ types = [
     "definition",
     "vr",
     "summary",
-]
+] * 10
 
 print("start")
 
