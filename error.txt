@@ -58,3 +58,5 @@ HTTPSConnectionPool(host='bing.khanh.lol', port=443): Read timed out. (read time
 
 'response'
 
+HTTPSConnectionPool(host='bing.khanh.lol', port=443): Read timed out. (read timeout=60)
+
