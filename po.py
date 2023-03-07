@@ -11,8 +11,8 @@ from POE import (
 )
 from remove_empty_notes import remove
 
-set_auth("Quora-Formkey", "2cbcc73d525a277dc9e11ed604bc0c1e")
-set_auth("Cookie", "m-b=RwMrxga0QhVonZolW23NIQ==")
+set_auth("Quora-Formkey", "e6f89c7bd63fcc86798cb0f7e7659d9a")
+set_auth("Cookie", "m-b=2QqQdXSuyedXT8Ndh-Mlxg==")
 
 # sage = capybara
 # claude = a2
