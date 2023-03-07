@@ -66,8 +66,8 @@ def do_content_type_topics(m, j, ps_file, topic, content_type):
                 file.write("")
 
         except Exception as error:
-            with open("error.txt", "a", encoding="utf8") as file:
-                file.write(f"{error}\n\n")
+            # with open("error.txt", "a", encoding="utf8") as file:
+            #     file.write(f"{error}\n\n")
 
             with open(file_path, "w", encoding="utf8") as file:
                 file.write(f"{i}\n\n")
@@ -259,8 +259,8 @@ def main(content_type="text"):
             except Exception as e:
                 print(e)
 
-                with open("error.txt", "a", encoding="utf8") as file:
-                    file.write(f"{e}\n\n")
+                # with open("error.txt", "a", encoding="utf8") as file:
+                #     file.write(f"{e}\n\n")
 
 
 if __name__ == "__main__":
@@ -297,8 +297,8 @@ if __name__ == "__main__":
         except Exception as e:
             myprint(e)
 
-            with open("error.txt", "a", encoding="utf8") as file:
-                file.write(f"{e}\n\n")
+            # with open("error.txt", "a", encoding="utf8") as file:
+            #     file.write(f"{e}\n\n")
 
             k -= 1
 
