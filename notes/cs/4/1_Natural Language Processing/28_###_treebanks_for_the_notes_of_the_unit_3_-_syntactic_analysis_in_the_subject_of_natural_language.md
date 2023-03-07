@@ -1,2 +1,0 @@
-### Treebanks for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
-Treebanks are annotated corpora in NLP used to study syntax & grammatical structure of languages. They consist of sentences, each with words & corresponding tree structure that represents its grammatical relationship. Treebanks aid in parsing, part-of-speech tagging, grammatical error detection & more. They are crucial for training & evaluating NLP models. Examples include Penn Treebank & Universal Dependencies Treebank.

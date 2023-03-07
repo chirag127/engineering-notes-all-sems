@@ -1,9 +1,0 @@
-### A 'knowledge level' approach to the interaction with an IAS- TELOS for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
-
-A 'knowledge level' approach to the interaction with an Intelligent Autonomous System (IAS) involves designing the interaction between the IAS and the user based on the knowledge that the IAS has about the user and the task at hand. This approach is commonly used in the context of advanced knowledge-based systems, such as TELOS.
-
-In a knowledge level approach, the IAS is designed to interact with the user at a level that is appropriate for the user's knowledge and experience, and the task at hand. This allows the IAS to provide the user with the information and guidance that they need to complete the task, while also taking into account the user's level of knowledge and experience.
-
-For example, in the context of TELOS, a knowledge level approach might involve designing the interaction between the IAS and the user based on the user's level of experience with the system, and the task that they are trying to complete. The IAS might provide more detailed information and guidance to a user who is new to the system, while providing less detailed information to a user who is more experienced.
-
-In conclusion, a 'knowledge level' approach to the interaction with an Intelligent Autonomous System (IAS) involves designing the interaction between the IAS and the user based on the knowledge that the IAS has about the user and the task at hand. This approach is commonly used in the context of advanced knowledge-based systems, such as TELOS, and allows the IAS to provide the user with the information and guidance that they need to complete the task, while also taking into account the user's level of knowledge and experience.

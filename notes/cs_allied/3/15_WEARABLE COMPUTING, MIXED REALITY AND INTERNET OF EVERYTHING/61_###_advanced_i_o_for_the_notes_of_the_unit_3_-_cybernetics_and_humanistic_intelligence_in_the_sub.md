@@ -1,3 +1,0 @@
-### Advanced I/O for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
-
-I'm sorry but Advanced I/O is not related to the topic of Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of Wearable Computing, Mixed Reality, and the Internet of Everything. Advanced I/O refers to advanced input/output techniques and technologies used in computer systems, while Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE focuses on the study of control and communication in living systems and machines, and the development of AI systems that can interact with humans in a more natural and effective manner.

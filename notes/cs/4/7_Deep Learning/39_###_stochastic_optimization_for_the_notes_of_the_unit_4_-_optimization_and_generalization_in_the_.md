@@ -1,3 +1,0 @@
-### Stochastic Optimization for the notes of the Unit 4 - OPTIMIZATION AND GENERALIZATION in the subject of Deep Learning
-
-Stochastic Optimization is a method used to optimize the parameters of a model in deep learning. It involves updating the parameters based on the gradient of the loss function with respect to the parameters, computed using a randomly selected batch of data (stochastic gradient descent). This method is used to avoid overfitting by preventing the model from memorizing the training data. It also helps the model to converge faster by reducing the variance of the gradients. Common optimization algorithms in deep learning include Stochastic Gradient Descent (SGD), Momentum, Adagrad, Adadelta, RProp, and Adam.

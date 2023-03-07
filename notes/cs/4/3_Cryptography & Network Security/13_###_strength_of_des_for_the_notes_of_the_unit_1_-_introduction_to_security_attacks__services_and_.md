@@ -1,9 +1,0 @@
-### Strength of DES for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
-
-The strength of DES is determined by its key length, which is 56-bits. When DES was first introduced, its key length was considered to be secure. However, advances in computing power have made it possible to perform brute-force attacks on DES encryption, which involves trying all possible key values until the correct one is found.
-
-As a result, the strength of DES has been called into question, and it is no longer considered secure for most applications. The increasing availability of computing power has made it possible for attackers to perform brute-force attacks on DES encryption in a relatively short amount of time.
-
-To address this issue, Triple DES (3DES) was introduced, which encrypts the plaintext three times using three different keys. This provides a significant increase in the strength of the encryption, making it much more difficult to perform a brute-force attack.
-
-In conclusion, the strength of DES is limited by its key length, which has become relatively easy to crack due to advances in computing power. To address this issue, Triple DES was introduced, which provides a significant increase in the strength of the encryption. Understanding the strengths and limitations of DES is important for designing secure systems and defending against attacks.

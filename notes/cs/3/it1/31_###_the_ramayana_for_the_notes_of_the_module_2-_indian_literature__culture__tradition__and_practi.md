@@ -1,9 +1,0 @@
-### the Ramayana for the notes of the Module 2- Indian Literature, Culture, Tradition, and Practices in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
-
-The Ramayana is one of the two major Sanskrit epics of ancient India, the other being the Mahabharata. It is an ancient Indian epic poem that tells the story of Rama, prince of Ayodhya who is regarded as the seventh avatar of the Hindu god Vishnu. The story is set in ancient India and follows Prince Rama as he battles the demon king Ravana to rescue his wife Sita who has been kidnapped. 
-
-The Ramayana is said to have been written by the sage Valmiki and is comprised of seven books, each of which is divided into several chapters. The story is a mix of history, mythology, and folklore and has been passed down through the generations through oral tradition and later through written texts. The Ramayana is not just a story, but it is also a moral and ethical guide for Hindu society, as it teaches the importance of dharma (righteousness), bhakti (devotion), and moksha (liberation). 
-
-The Ramayana is considered one of the greatest works of Sanskrit literature and has had a profound impact on Hindu culture and tradition. It has been widely translated into many languages and has been adapted into various forms of art, including dance, music, and theater. The Ramayana is also an important source of inspiration for Hindu religious and philosophical thought, as it contains many allegorical and symbolic references to Hindu beliefs and practices. 
-
-In conclusion, the Ramayana is a rich and complex work of Indian literature that has had a lasting impact on Indian culture, tradition, and society. It is a story that is deeply ingrained in the Hindu consciousness and continues to be widely read, performed, and revered to this day.

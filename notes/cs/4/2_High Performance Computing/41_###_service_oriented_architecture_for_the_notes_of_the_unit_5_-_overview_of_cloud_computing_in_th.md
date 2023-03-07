@@ -1,6 +1,0 @@
-### Service Oriented Architecture for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
-Service Oriented Architecture (SOA) is a software design pattern that enables the creation of applications as a collection of loosely coupled services. The services communicate with each other through a standardized interface, such as web services. The goal of SOA is to improve the reuse of software components and to make the integration of different systems easier.
-
-SOA is often used in cloud computing as a way to build scalable and flexible applications. In a cloud computing environment, services can be deployed on different servers, allowing for easy scaling of the application. The use of standard interfaces also makes it easier to integrate with other systems, such as databases or other cloud-based services.
-
-SOA is a key component of many cloud computing solutions, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). By breaking down applications into smaller, reusable services, SOA enables organizations to quickly and easily build and deploy new applications and services, making it a critical component of modern cloud computing strategies.

@@ -1,3 +1,0 @@
-### 4. Practical Communication by L.U.B. Pandey; A.I.T.B.S. Publications India Ltd.; Krishan Nagar,
-
-Practical Communication by L.U.B. Pandey is a book published by A.I.T.B.S. Publications India Ltd. in Krishan Nagar. The book provides practical information on the subject of communication, including tips and strategies for effective communication in various contexts. It may cover topics such as verbal and nonverbal communication, listening skills, public speaking, and intercultural communication, among others. The book may be intended for students, professionals, or anyone seeking to improve their communication skills.

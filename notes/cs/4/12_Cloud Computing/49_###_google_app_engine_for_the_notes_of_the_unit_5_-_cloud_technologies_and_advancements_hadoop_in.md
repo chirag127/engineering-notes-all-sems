@@ -1,3 +1,0 @@
-### Google App Engine for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
-
-Google App Engine is a cloud computing platform for building and hosting web applications in Google-managed data centers. It provides automatic scaling, load balancing, and monitoring of your application. The platform supports several programming languages and frameworks, including Python, Java, and Node.js. App Engine also includes a NoSQL datastore for storing application data, as well as services for authentication, email, and task queues. Additionally, App Engine integrates with other Google Cloud services, such as Google Cloud Storage and BigQuery, to provide a complete solution for cloud computing.

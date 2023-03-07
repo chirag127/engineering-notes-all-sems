@@ -1,9 +1,0 @@
-### Technical research Paper writing for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
-
-A technical research paper is a written document that presents the results of research or investigation into a specific technical topic or issue. Technical research papers are used to communicate the findings of research to a technical audience, and they are often used in academic, scientific, and technical fields.
-
-Technical research papers typically follow a standard format, including an introduction, literature review, methodology, results, discussion, and conclusion. The introduction provides background information on the topic and sets the context for the research. The literature review summarizes the existing research on the topic, and the methodology describes the methods used to conduct the research. The results present the findings of the research, and the discussion interprets the results and relates them to the literature review. The conclusion summarizes the main findings and provides recommendations for future research.
-
-In technical research paper writing, it is important to use clear and concise language, and to accurately and objectively present the results of the research. Technical research papers should also be well-organized and well-structured, with appropriate headings, subheadings, and visual aids to enhance the readability and effectiveness of the document.
-
-In this unit, we will study the forms of technical communication, including technical research paper writing. We will also examine the standard format for technical research papers, and explore the strategies for writing effective technical research papers. This will provide a foundation for understanding the principles and practices of technical communication, and for exploring the various applications of technical communication in academic, scientific, and technical fields.

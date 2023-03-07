@@ -1,3 +1,0 @@
-### It is also suggested that open source tools should be preferred to conduct the lab ( C, C++ , Lex or Flex and
-
-Open source tools are preferred for conducting the lab because they are free and easily accessible. Tools such as C, C++, Lex or Flex, and YACC are commonly used for implementing compilers and interpreters. These tools are open source, meaning that the source code is available for anyone to use, modify, and distribute. This allows for greater collaboration and innovation in the development of these tools. Additionally, open source tools often have a large user community, making it easier to find help and resources when needed.

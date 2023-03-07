@@ -1,8 +1,0 @@
-### Classical encryption techniquessubstitution ciphers and transposition ciphers for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
-Classical encryption techniques refer to the methods used to encrypt data in the past. These techniques include substitution ciphers and transposition ciphers. 
-
-Substitution ciphers involve replacing each letter in a message with a different letter or symbol. For example, the Caesar cipher, which is one of the simplest substitution ciphers, replaces each letter in a message with a letter that is a certain number of positions down the alphabet. 
-
-Transposition ciphers, on the other hand, involve rearranging the order of letters in a message. For example, in the columnar transposition cipher, the message is written in a grid, and the columns are rearranged to form the encrypted message. 
-
-These techniques were widely used in the past, but have since been replaced by more secure encryption methods, such as block ciphers and stream ciphers. However, the study of classical encryption techniques is still important for understanding the evolution of encryption methods and for developing new encryption algorithms.

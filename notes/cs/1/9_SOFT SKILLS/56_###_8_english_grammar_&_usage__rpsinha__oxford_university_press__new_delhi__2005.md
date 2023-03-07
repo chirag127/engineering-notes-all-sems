@@ -1,3 +1,0 @@
-### 8. English Grammar & Usage, R.P.Sinha, Oxford University Press, New Delhi, 2005.
-
-English Grammar & Usage by R.P. Sinha, published by Oxford University Press in New Delhi in 2005, is a comprehensive guide to the English language. It covers various aspects of grammar, including syntax, semantics, and pragmatics. The book provides clear explanations and examples to illustrate the rules and usage of English grammar. It is aimed at students, teachers, and anyone who wants to improve their understanding of the English language. The author, R.P. Sinha, is a well-respected linguist and expert in the field of English grammar and usage. The book is published by Oxford University Press, one of the leading publishers of academic and educational materials.

@@ -1,8 +1,0 @@
-revchatgpt
-openai
-black
-ruff
-ruff
-pylint
-tiktoken
-pygpt

@@ -1,3 +1,0 @@
-## Unit 5 - Cloud Technologies And Advancements Hadoop
-
-Hadoop is an open-source software framework used for distributed storage and processing of big data. It is the core component of the Apache Hadoop ecosystem and provides a scalable platform for storing and processing large data sets. Hadoop uses a distributed file system called HDFS (Hadoop Distributed File System) to store data across multiple nodes in a cluster, allowing for parallel processing of the data. MapReduce is the programming model used by Hadoop for processing large data sets in parallel. Hadoop has become a popular technology for large-scale data processing and has been adopted by many organizations for big data analytics.

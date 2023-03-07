@@ -1,3 +1,0 @@
-### Open Stack for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
-
-OpenStack is a free, open-source cloud computing platform that provides infrastructure as a service (IaaS). It consists of a number of interrelated projects that control pools of processing, storage, and networking resources throughout a data center. OpenStack is designed to be scalable, flexible, and easy to manage, making it a popular choice for organizations that want to build and manage cloud computing environments. OpenStack supports a variety of operating systems and hypervisors, and is compatible with many popular tools and technologies, including Hadoop.

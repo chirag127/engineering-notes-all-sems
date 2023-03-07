@@ -1,3 +1,0 @@
-### Hash for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
-
-A hash is a unique representation of data in a blockchain. It is created by passing data through a hash function, which outputs a fixed-length string of characters. Hashes are used to ensure the integrity of data in a blockchain, as any change to the input data will result in a different hash output. Hashes also serve as links between blocks in a blockchain, as each block contains the hash of the previous block, forming a chain of hashes. This allows for easy verification of the entire blockchain, as any change to a block will result in a different hash for that block, breaking the chain and making it obvious that the data has been altered.

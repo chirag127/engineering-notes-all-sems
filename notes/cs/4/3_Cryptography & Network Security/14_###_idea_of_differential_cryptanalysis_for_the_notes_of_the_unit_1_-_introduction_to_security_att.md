@@ -1,9 +1,0 @@
-### Idea of differential cryptanalysis for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
-
-Differential cryptanalysis is a method of analyzing and attacking ciphers by studying the difference between plaintext and ciphertext pairs. The idea behind differential cryptanalysis is to identify pairs of plaintexts that produce a specific difference in the ciphertext, and then use this information to determine the encryption key.
-
-The basic idea behind differential cryptanalysis is to look for patterns in the ciphertext that result from specific differences in the plaintext. By analyzing these patterns, an attacker can gain information about the encryption key and potentially recover the plaintext.
-
-Differential cryptanalysis is a powerful tool for analyzing the security of encryption algorithms and can be used to identify weaknesses in the design of ciphers. It is important to consider the potential for differential cryptanalysis when designing encryption algorithms and to evaluate the security of ciphers against differential cryptanalysis attacks.
-
-In conclusion, differential cryptanalysis is an important concept in cryptography and plays a critical role in evaluating the security of encryption algorithms. Understanding the principles of differential cryptanalysis is important for designing secure systems and defending against attacks on encrypted data.

@@ -1,2 +1,0 @@
-## Unit 1 - Introduction
-Unit 1 - Introduction typically covers the basics of a subject, providing an overview of key concepts, goals, and objectives. It sets the stage for further study and provides context for the material to come. Topics may include history, background information, and definition of terms. The purpose of Unit 1 is to provide a foundation for understanding the subject as a whole.

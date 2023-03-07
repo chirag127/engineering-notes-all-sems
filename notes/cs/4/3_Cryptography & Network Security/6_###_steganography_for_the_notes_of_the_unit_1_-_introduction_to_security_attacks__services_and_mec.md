@@ -1,8 +1,0 @@
-### steganography for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
-Steganography is the practice of hiding a message within another message or image. The goal of steganography is to conceal the existence of the message, as opposed to encryption, which is used to conceal the contents of a message. 
-
-Steganography can be used for both positive and negative purposes. For example, steganography can be used to securely transmit confidential information, such as political or military information, without detection. On the other hand, steganography can also be used by attackers to hide malicious code or to transmit confidential information without detection. 
-
-Steganography can be implemented in many ways, including hiding messages within images, audio files, or even within the least significant bits of data. The challenge of steganography is to conceal the message in such a way that it is not detected, while still being able to extract the message at the receiving end. 
-
-Steganography is an important aspect of cryptography and network security, as it provides an additional layer of security to protect confidential information.

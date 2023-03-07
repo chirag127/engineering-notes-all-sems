@@ -1,9 +1,0 @@
-### back propagation algorithm for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
-
-Backpropagation is a supervised learning algorithm used to train a neural network. It is based on the gradient descent optimization algorithm and is used to adjust the weights of the network in order to minimize the error between the predicted output and the actual output. The algorithm works by computing the gradient of the error with respect to the weights, and then updating the weights in the direction of the negative gradient. This process is repeated until the error is minimized.
-
-The backpropagation algorithm can be divided into two phases: the forward pass and the backward pass. In the forward pass, the inputs are passed through the network to compute the outputs. The error is then computed by comparing the predicted outputs to the actual outputs. In the backward pass, the gradient of the error with respect to the weights is computed using the chain rule of calculus. The weights are then updated in the direction of the negative gradient.
-
-The backpropagation algorithm is widely used in various applications such as image classification, speech recognition, and natural language processing. It is a computationally efficient algorithm and can be used to train deep neural networks with many hidden layers. However, it is sensitive to the choice of the learning rate and the initialization of the weights, and may get stuck in local minima. To overcome these limitations, various modifications of the backpropagation algorithm have been proposed, such as momentum, adaptive learning rate, and weight decay.
-
-In summary, the backpropagation algorithm is a powerful tool for training neural networks, but requires careful tuning of the hyperparameters to achieve good performance.

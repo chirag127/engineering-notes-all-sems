@@ -1,3 +1,0 @@
-### City Automation for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
-
-City Automation refers to the use of IoT technology to manage and control various functions within a city. This includes areas such as traffic management, energy management, waste management, and public safety. IoT devices are used to collect and analyze data, which is then used to optimize processes and improve the overall quality of life for citizens. Benefits of city automation include increased efficiency, reduced costs, improved safety, and enhanced sustainability. However, privacy and security concerns must also be addressed to ensure the successful implementation of city automation.
