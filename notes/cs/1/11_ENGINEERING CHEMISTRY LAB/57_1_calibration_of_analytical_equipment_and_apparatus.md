@@ -1,3 +1,0 @@
-1. Calibration of Analytical Equipment and apparatus.
-
-Calibration of analytical equipment and apparatus involves the process of verifying and adjusting the accuracy and reliability of measuring instruments and devices. This is done by comparing the readings of the equipment to a known standard or reference material. The process of calibration ensures that the equipment is providing accurate and consistent results, which is essential for obtaining reliable data and making informed decisions. The frequency of calibration depends on the type of equipment, the level of accuracy required, and the conditions of use. Calibration should be performed by a trained and qualified technician, and a record of the calibration should be kept for reference.

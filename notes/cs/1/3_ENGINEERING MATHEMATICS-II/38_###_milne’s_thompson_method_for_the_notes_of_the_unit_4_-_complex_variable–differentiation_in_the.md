@@ -1,3 +1,0 @@
-### Milne’s Thompson Method for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
-
-Milne's Thompson Method is a numerical method used to solve ordinary differential equations (ODEs) in engineering mathematics. The method is a predictor-corrector method, which means it uses an initial estimate of the solution to generate a more accurate solution. In this method, the solution is approximated using a polynomial, and the coefficients of the polynomial are determined using a recursive formula. The method is efficient and accurate and is commonly used in engineering and scientific applications. However, it may not be suitable for certain types of ODEs, such as stiff equations, and may require modifications in such cases.

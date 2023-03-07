@@ -1,0 +1,76 @@
+## Unit 1 - Review of Software Engineering
+### Overview of Software Evolution for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### SDLC for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Testing Process for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Terminologies in Testing for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Error for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Fault for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Failure for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Verification for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Validation for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Difference Between Verification and Validation for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Test Cases for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Testing Suite for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Test for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Oracles for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Impracticality of Testing All Data for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Impracticality of Testing AllPaths for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Verification for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Verification Methods for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### SRS Verification for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Source Code Reviews for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### User Documentation Verification for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Software Project Audit for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Tailoring Software Quality Assurance Program by Reviews for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Walkthrough for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Inspection for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+### Configuration Audits for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+## Unit 2 - Functional Testing
+### Boundary Value Analysis for the notes of the Unit 2 - Functional Testing in the subject of Software Testing
+### Equivalence Class Testing for the notes of the Unit 2 - Functional Testing in the subject of Software Testing
+### Decision Table Based Testing for the notes of the Unit 2 - Functional Testing in the subject of Software Testing
+### Cause Effect Graphing Technique for the notes of the Unit 2 - Functional Testing in the subject of Software Testing
+## Unit 3 - Structural Testing
+### Control Flow Testing for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Path Testing for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Independent Paths for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Generation of Graph from Program for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Identification of Independent Paths for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Cyclomatic Complexity for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Data Flow Testing for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+### Mutation Testing for the notes of the Unit 3 - Structural Testing in the subject of Software Testing
+## Unit 4 - Regression Testing
+### What is Regression Testing for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Regression Test cases selection for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Reducing the number of test cases for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Code coverage prioritization technique for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Reducing the number of test cases for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Prioritization guidelines for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Priority category for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Scheme for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+### Risk Analysis for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+## Unit 5 - Software Testing Activities
+### Levels of Testing for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Debugging for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Testing techniques and their applicability for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Exploratory Testing for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Automated Test Data Generation for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Test Data for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Approaches to test data generation for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### test data generation using genetic algorithm for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Test Data Generation Tools for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Software Testing Tools for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+### Software test Plan for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+## Unit 6 - Object Oriented Testing
+### Definition for the notes of the Unit 6 - Object Oriented Testing in the subject of Software Testing
+### Issues for the notes of the Unit 6 - Object Oriented Testing in the subject of Software Testing
+### Class Testing for the notes of the Unit 6 - Object Oriented Testing in the subject of Software Testing
+### Object Oriented Integration and System Testing for the notes of the Unit 6 - Object Oriented Testing in the subject of Software Testing
+## Unit 7 - Testing Web Applications
+### Web Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### User Interface Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### Usability Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### Security Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### Performance Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+### Post Deployment Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing

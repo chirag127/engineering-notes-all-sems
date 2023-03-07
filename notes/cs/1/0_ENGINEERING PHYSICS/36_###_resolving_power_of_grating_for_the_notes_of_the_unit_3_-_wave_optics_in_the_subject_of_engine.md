@@ -1,3 +1,0 @@
-### Resolving power of grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
-
-The resolving power of a grating refers to its ability to distinguish between closely spaced lines or spectral lines. It is defined as the minimum separation between two lines that can be resolved as separate lines. The resolving power of a grating is proportional to the number of lines per unit length (N) and inversely proportional to the wavelength of light used (λ). The formula for resolving power is: R = Nλ/d, where d is the distance between adjacent lines on the grating. The higher the resolving power, the greater the ability of the grating to distinguish between closely spaced lines.

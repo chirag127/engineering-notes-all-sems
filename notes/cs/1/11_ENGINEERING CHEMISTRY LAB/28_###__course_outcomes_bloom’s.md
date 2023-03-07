@@ -1,3 +1,0 @@
-###  Course Outcomes Bloom’s
-
-Bloom's Taxonomy is a framework for classifying educational goals and objectives into different levels of complexity and specificity. Course Outcomes (COs) are the expected learning goals that a student should achieve after completing a course. COs are often written using Bloom's Taxonomy as a guide to ensure they are measurable and aligned with the level of complexity and specificity desired. The six levels of Bloom's Taxonomy, from the simplest to the most complex, are: Remembering, Understanding, Applying, Analyzing, Evaluating, and Creating. COs written using Bloom's Taxonomy can help instructors design assessments and activities that challenge students to think critically and apply their knowledge in meaningful ways.

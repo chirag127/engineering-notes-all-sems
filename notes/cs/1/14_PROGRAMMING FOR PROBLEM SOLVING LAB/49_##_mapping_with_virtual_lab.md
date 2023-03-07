@@ -1,3 +1,0 @@
-## Mapping with Virtual Lab
-
-Mapping with Virtual Lab is a technique used to create virtual representations of physical spaces. This technology can be used to create virtual labs, classrooms, and other educational environments. The virtual lab allows students to interact with the environment in a way that is similar to a real-life lab. The virtual lab is typically created using 3D modeling software and can be accessed through a web browser or a virtual reality headset. This technology can be used to provide hands-on experience in a variety of subjects, including science, engineering, and computer science. The virtual lab can also be used to simulate experiments and provide real-time feedback, making it a valuable tool for students and educators alike.

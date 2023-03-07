@@ -1,3 +1,0 @@
-## Unit 2 - Projection of Planes and Solids
-
-Projection of Planes and Solids is a topic in engineering graphics that deals with the representation of 3D objects on a 2D surface. It involves projecting the three-dimensional object onto a flat surface, such as a piece of paper or a computer screen. There are two main types of projections: orthographic projections and isometric projections. Orthographic projections involve projecting the object from one of six directions, while isometric projections involve projecting the object from a specific angle to create a 3D illusion. Both types of projections are used in technical drawings and designs, and are essential for visualizing and creating objects in a three-dimensional space.

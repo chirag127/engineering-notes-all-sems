@@ -1,3 +1,0 @@
-### Skin depth for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
-
-Skin depth is the depth into a conductor at which the electric field has decreased to 1/e (about 37%) of its surface value. It is a measure of how far the electric field penetrates into a conductor. The skin depth is inversely proportional to the square root of the frequency of the electromagnetic wave and the conductivity of the material. The skin depth is important in the design of electrical and electronic devices, as it determines the depth of penetration of the electric field and the amount of power that is absorbed by the conductor.

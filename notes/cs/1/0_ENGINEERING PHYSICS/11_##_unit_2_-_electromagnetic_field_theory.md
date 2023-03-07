@@ -1,3 +1,0 @@
-## Unit 2 - Electromagnetic Field Theory
-
-Electromagnetic Field Theory is a branch of physics that deals with the study of electric and magnetic fields and their interactions with charged particles. It explains how electric and magnetic fields are produced and how they interact with each other and with matter. It also covers the concept of electromagnetic waves and how they are related to light and other forms of electromagnetic radiation. Topics covered in Unit 2 include Coulomb's Law, Gauss's Law, Faraday's Law, Lenz's Law, electromagnetic induction, electromagnetic waves, and Maxwell's Equations.

@@ -1,3 +1,0 @@
-##### 2. Thevenin Theorem.
-
-Thevenin Theorem is a method used to simplify complex electrical circuits by reducing them to an equivalent circuit composed of a single voltage source, a series impedance and a load impedance. The theorem states that any two-terminal linear network can be reduced to an equivalent circuit consisting of a voltage source in series with an impedance. The voltage at the terminals is equal to the voltage across the open-circuit terminals and the impedance at the terminals is equal to the impedance looking into the terminals with all sources replaced by their internal impedances. This simplifies the analysis of a complex circuit into a simpler equivalent circuit, making it easier to understand and analyze.

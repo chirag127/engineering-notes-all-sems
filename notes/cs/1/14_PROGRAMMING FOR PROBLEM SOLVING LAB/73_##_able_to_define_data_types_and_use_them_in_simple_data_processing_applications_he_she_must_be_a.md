@@ -1,5 +1,0 @@
-## Able to define data types and use them in simple data processing applications he/she must be able to use the concept of array of structures.
-
-A data type is a category of data that defines the type of values that a variable can hold. Common data types include integer, float, string, and boolean. In data processing applications, data types are used to store and manipulate data in a structured manner.
-
-An array of structures is a data structure that allows you to store multiple instances of a structure in a single collection. A structure is a data type that groups together variables of different data types under a single name. For example, you could define a structure to represent a person, with variables for name, age, and address. An array of structures would then allow you to store information about multiple people. To use the concept of an array of structures, you need to be familiar with the syntax for defining structures and arrays, as well as the operations that you can perform on them.

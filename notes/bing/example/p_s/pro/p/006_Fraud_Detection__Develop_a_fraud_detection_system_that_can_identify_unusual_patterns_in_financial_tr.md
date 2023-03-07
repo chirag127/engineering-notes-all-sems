@@ -1,9 +1,0 @@
-Fraud Detection: Develop a fraud detection system that can identify unusual patterns in financial transactions and alert authorities of potential fraud. Technologies: Python, Machine Learning, TensorFlow, Pandas, Numpy.
-
-Fraud detection is the process of identifying and preventing fraudulent activities, such as identity theft, credit card fraud, insurance fraud, etc. There are different types of fraud detection systems that use various technologies and techniques to detect anomalies and patterns in financial transactions. Some examples are:
-
-- Payment processing platforms and providers that use their own suite of fraud prevention tools to collect user card and transaction data, which are mapped to prior transactions. These tools work by blocking users with a known history of fraudulent transactions.
-- Data analysts that use algorithms to detect patterns and anomalies in insurance claims. For example, they can look for suspicious behaviors such as multiple claims from the same address or phone number.
-- Social network analysis (SNA) that follows a hybrid approach to detect fraud. The hybrid approach includes organizational business rules, statistical methods, pattern analysis and network linkage analysis. SNA can reveal hidden relationships among entities involved in fraud schemes.
-- BigQuery ML that allows users to train machine learning models using SQL with BigQuery data. Users can create features and labels from transactional data and customer demographics data, and then use logistic regression or XGBoost models to predict the probability of fraud for each transaction.
-- Sift Digital Trust & Safety Suite that uses machine learning and behavioral analytics to provide real-time risk scores for each user interaction on a website or app. Users can customize their own rules and workflows based on their business needs and goals.

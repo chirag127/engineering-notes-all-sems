@@ -1,3 +1,0 @@
-Speech Recognition System: Create a speech recognition system that can transcribe spoken words into text. You can use libraries like SpeechRecognition, PyAudio and PocketSphinx to make this project.
-
-According to , speech recognition is a capability that enables a program to process human speech into a written format. Speech recognition systems use computer algorithms or neural networks to analyze and interpret spoken words and convert them into text . Some speech recognition systems require training, where an individual speaker reads text or isolated vocabulary into the system, and some do not.

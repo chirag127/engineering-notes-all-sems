@@ -1,3 +1,0 @@
-## Unit 4 - Electrical machines
-
-Unit 4 Electrical Machines covers the principles and operation of various electrical machines such as transformers, DC machines (motors and generators), and AC machines (induction, synchronous and single-phase). It discusses the construction, working principle, types, and applications of these machines. The unit also covers the characteristics, performance, and efficiency of electrical machines, and methods of improving them. Additionally, it covers the concept of electromagnetic torque and its applications in electrical machines. The unit concludes with a discussion of the testing and maintenance of electrical machines.

@@ -1,0 +1,49 @@
+# APPLICATION OF SOFT COMPUTING TECHNIQUES
+## Unit 1 - Neural Networks-I (Introduction & Architecture)
+### Neuron for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Nerve structure and synapse for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Artificial Neuron and its model for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### activation functions for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Neural network architecture for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### single layer and multilayer feed forward networks for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### recurrent networks for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Various learning techniques for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### perception and convergence rule for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Auto-associative and hetro-associative memory for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+## Unit 2 - Neural Networks-II (Back propagation networks)
+### Architecture for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### perceptron model for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### solution for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### single layer artificial neural network for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### multilayer perception model for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### back propagation learning methods for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### effect of learning rule co-efficient for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### back propagation algorithm for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### factors affecting backpropagation training for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### applications for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+## Unit 3 - Fuzzy Logic-I (Introduction)
+### Basic concepts of fuzzy logic for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy sets and Crisp sets for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy set theory and operations for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Properties of fuzzy sets for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy and Crisp relations for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy to Crisp conversion for the notes of the Unit 3 - Fuzzy Logic-I (Introduction) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+## Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules)
+### Membership functions for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### interference in fuzzy logic for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### fuzzy if-then rules for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy implications and Fuzzy algorithms for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzyfications & Defuzzificataions for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Fuzzy Controller for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Industrial applications for the notes of the Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+## Unit 5 - Genetic Algorithm(GA)
+### Basic concepts for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### working principle for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### procedures of GA for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### flow chart of GA for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Genetic representations for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### (encoding) Initialization and selection for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Genetic operators for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Mutation for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### Generational Cycle for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+### applications for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES

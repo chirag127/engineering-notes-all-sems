@@ -1,3 +1,0 @@
-### To study Operational Amplifier as Adder and Subtractor http://vlabs.iitkgp.ernet.in/be/exp17/index.html http://vlabs.iitkgp.ernet.in/be/exp18/index.html
-
-An operational amplifier (op-amp) is a versatile electronic circuit that can perform a variety of functions, including addition and subtraction. When used as an adder, multiple input signals are summed together and the resulting output is proportional to the sum of the inputs. When used as a subtractor, two input signals are subtracted from one another and the resulting output is proportional to the difference between the inputs. The two links you provided are virtual labs that allow you to experiment with op-amps in these configurations.

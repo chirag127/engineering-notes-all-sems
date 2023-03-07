@@ -1,3 +1,0 @@
-15. Determination of Rate constant of hydrolysis of esters.
-
-The rate constant of hydrolysis of esters can be determined by measuring the decrease in the concentration of the ester over time and using the first-order kinetics equation. The reaction is typically carried out in an acidic solution, such as aqueous hydrochloric acid, to facilitate the hydrolysis. The rate of reaction can be monitored by measuring the change in the absorbance of the solution at a specific wavelength using spectrophotometry. The rate constant can then be calculated from the slope of the plot of the logarithm of the concentration of the ester versus time.

@@ -1,3 +1,0 @@
-Chatbot: Create a chatbot that can interact with users in natural language. You can use libraries like ChatterBot, Dialogflow, and TensorFlow to make this project.
-
-A chatbot is a computer program that uses artificial intelligence (AI) and natural language processing (NLP) to understand customer questions and automate responses to them, simulating human conversation . Chatbots can be embedded and used through any major messaging application. They can help add convenience for customers and reduce costs for businesses. Some examples of chatbots are Siri, Alexa, Cortana, Google Assistant, etc.

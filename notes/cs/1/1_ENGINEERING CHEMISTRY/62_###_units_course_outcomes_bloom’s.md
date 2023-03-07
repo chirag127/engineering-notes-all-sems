@@ -1,3 +1,0 @@
-### Units Course Outcomes Bloom’s
-
-The Units Course Outcomes (UCOs) are statements that describe what students should know, understand, and be able to do as a result of a course. Bloom's Taxonomy is a framework for categorizing educational goals into levels of complexity and specificity, and can be used to design UCOs. The six levels of Bloom's Taxonomy, in order of increasing complexity, are: Remembering, Understanding, Applying, Analyzing, Evaluating, and Creating. By aligning UCOs with Bloom's Taxonomy, instructors can ensure that their course goals and assessments are meaningful and challenging for students.

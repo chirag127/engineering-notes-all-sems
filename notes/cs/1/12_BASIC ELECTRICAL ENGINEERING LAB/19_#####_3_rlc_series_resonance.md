@@ -1,3 +1,0 @@
-##### 3. RLC series resonance.
-
-RLC series resonance is a phenomenon in electrical circuits where an alternating current (AC) is applied to a series RLC circuit, and the circuit resonates at a specific frequency. This frequency is known as the resonant frequency, and it is determined by the values of the resistance (R), inductance (L), and capacitance (C) in the circuit. At the resonant frequency, the impedance of the circuit becomes minimum, and the magnitude of the circuit current becomes maximum. This results in a transfer of energy from the source to the load, which can be used to enhance the performance of the circuit. RLC series resonance is used in a variety of applications, including radio-frequency circuits, filters, and oscillators.

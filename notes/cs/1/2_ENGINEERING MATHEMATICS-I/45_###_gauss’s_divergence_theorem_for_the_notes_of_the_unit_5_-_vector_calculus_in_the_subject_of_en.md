@@ -1,3 +1,0 @@
-### Gauss’s Divergence theorem for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
-
-Gauss's Divergence Theorem, also known as Gauss's Flux Theorem, states that the flux of a vector field through a closed surface is equal to the volume integral of the divergence of the field over the region enclosed by the surface. The theorem is used to calculate the flow of a vector field through a given surface, and is a useful tool in many fields, including engineering and physics. In the context of Engineering Mathematics-I, Gauss's Divergence Theorem is a fundamental concept in the study of vector calculus and is used to analyze and solve problems involving the flow of fluids, electric and magnetic fields, and other physical phenomena.

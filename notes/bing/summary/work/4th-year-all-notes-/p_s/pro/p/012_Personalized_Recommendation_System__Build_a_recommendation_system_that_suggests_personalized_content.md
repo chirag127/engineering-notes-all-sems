@@ -1,5 +1,0 @@
-Personalized Recommendation System: Build a recommendation system that suggests personalized content (movies, music, books, etc.) based on user preferences, previous interactions, and context. Technologies: Python, TensorFlow, Pandas, Numpy, Scipy.
-
-A possible summary for your project is:
-
-Personalized Recommendation System: A project that aims to provide customized suggestions of content (movies, music, books, etc.) to users based on their preferences, previous interactions, and context. The project uses Python, TensorFlow, Pandas, Numpy, and Scipy to implement different types of recommendation systems, such as content-based and collaborative filtering. The project also leverages knowledge embedding and self-attention mechanisms to mine user preferences from historical behavior and knowledge graphs. The project can help address the problem of information overload and improve user satisfaction and engagement.

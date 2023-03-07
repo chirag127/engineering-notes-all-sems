@@ -1,3 +1,0 @@
-### Inverse Laplace transform for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
-
-The Inverse Laplace Transform is a mathematical tool used to convert a function from the Laplace domain to the time domain. It is used to determine the original time-domain signal from its Laplace transform representation. The Inverse Laplace Transform is defined as the integral of the Laplace transform of a function f(t) multiplied by the exponential function e^(-st) along a contour in the complex plane. The Inverse Laplace Transform is used in various fields of engineering, including control systems, electrical engineering, and mechanical engineering, to analyze and design dynamic systems.

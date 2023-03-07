@@ -1,3 +1,0 @@
-### Slip-torque characteristics for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
-
-Slip-torque is a type of torque generated in an induction motor due to the difference between the synchronous speed and the actual speed of the rotor. It is proportional to the slip and the rotor current, and is responsible for starting and running the motor. Slip-torque characteristics vary with the operating conditions of the motor, such as the load, voltage, and frequency. Understanding slip-torque is important for designing and controlling the performance of induction motors.

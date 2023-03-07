@@ -1,3 +1,0 @@
-### Non-inverting Amplifier for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
-
-A non-inverting amplifier is a type of operational amplifier circuit that amplifies the input signal by a factor greater than one, without changing the sign of the signal. The input signal is applied to the non-inverting input terminal of the op-amp, and the amplified output is obtained from the output terminal. The gain of the non-inverting amplifier is determined by the ratio of the feedback resistor (Rf) to the input resistor (R1). The formula for gain is: Gain = 1 + (Rf / R1). The non-inverting amplifier is commonly used in applications such as signal amplification, filtering, and signal conditioning.

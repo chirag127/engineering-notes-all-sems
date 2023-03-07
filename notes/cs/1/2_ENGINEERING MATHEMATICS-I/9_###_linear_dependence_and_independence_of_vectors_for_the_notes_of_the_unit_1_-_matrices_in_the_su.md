@@ -1,3 +1,0 @@
-### Linear Dependence and Independence of vectors for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
-
-Linear dependence and independence of vectors refers to the relationship between a set of vectors in a vector space. If a set of vectors can be expressed as a linear combination of the other vectors in the set, then the vectors are linearly dependent. If a set of vectors cannot be expressed as a linear combination of the other vectors in the set, then the vectors are linearly independent. Linear independence is important in engineering mathematics because it is used to determine the unique solution to a system of linear equations and to form a basis for a vector space.

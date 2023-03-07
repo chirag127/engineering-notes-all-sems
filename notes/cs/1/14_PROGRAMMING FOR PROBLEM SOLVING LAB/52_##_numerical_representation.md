@@ -1,3 +1,0 @@
-## Numerical Representation
-
-Numerical representation refers to the way in which numbers are stored and processed in computers. There are several numerical representations, including binary, decimal, octal, and hexadecimal. Binary representation uses only two digits, 0 and 1, to represent numbers. Decimal representation uses ten digits, 0 through 9, to represent numbers. Octal representation uses eight digits, 0 through 7, to represent numbers. Hexadecimal representation uses sixteen digits, 0 through 9 and A through F, to represent numbers. Each numerical representation has its own advantages and disadvantages, and the choice of representation depends on the specific requirements of the application.

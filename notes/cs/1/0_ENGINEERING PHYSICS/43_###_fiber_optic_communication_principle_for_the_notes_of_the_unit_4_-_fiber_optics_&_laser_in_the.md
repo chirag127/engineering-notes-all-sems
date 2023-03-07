@@ -1,5 +1,0 @@
-### Fiber optic communication principle for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
-
-Fiber optic communication involves transmitting information as light signals through optical fibers. The signal is encoded as variations in the light intensity and transmitted through the fiber. At the receiving end, the light is detected and decoded to retrieve the original information. The optical fiber acts as a waveguide, confining the light within its core and preventing it from spreading out. This allows for high bandwidth and low signal loss over long distances. The use of optical fibers also eliminates the need for electrical to optical conversion, providing immunity from electromagnetic interference.
-
-Note: The basic principle of fiber optic communication is the transmission of information as light signals through optical fibers. The signal is encoded as variations in the light intensity, transmitted through the fiber, and decoded at the receiving end to retrieve the original information. The optical fiber acts as a waveguide, confining the light within its core and preventing signal loss over long distances.

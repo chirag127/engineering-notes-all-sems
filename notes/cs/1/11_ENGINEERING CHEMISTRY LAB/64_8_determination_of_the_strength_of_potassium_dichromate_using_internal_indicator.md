@@ -1,3 +1,0 @@
-8. Determination of the strength of Potassium dichromate using internal indicator.
-
-The strength of potassium dichromate can be determined using an internal indicator method. This involves adding a known volume of the potassium dichromate solution to a solution of the indicator, which reacts with the dichromate to produce a colored product. The concentration of the dichromate can then be calculated from the intensity of the color produced, using a calibration curve. This method is considered an internal indicator method because the indicator is added to the same solution as the analyte, rather than being added to a separate reference solution.

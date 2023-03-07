@@ -1,0 +1,63 @@
+KCS
+## Module I: Partial Differential Equations
+### Origin of Partial Differential Equations for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Linear and Non Linear Partial Equations of first order for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Lagrange’s Equations for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Charpit’s method for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Cauchy’s method of Characteristics for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Solution of Linear Partial Differential Equation of Higher order with constant coefficients for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+### Equations reducible to linear partial differential equations with constant coefficients for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+## Module II: Applications of Partial Differential Equations:
+### Classification of linear partial differential equation of second order for the notes of the Module II: Applications of Partial Differential Equations: in the subject of Mathematics-IV KCS
+### Method of separation of variables for the notes of the Module II: Applications of Partial Differential Equations: in the subject of Mathematics-IV KCS
+### Solution of wave and heat conduction equation up to two dimension for the notes of the Module II: Applications of Partial Differential Equations: in the subject of Mathematics-IV KCS
+### Laplace equation in two dimensions for the notes of the Module II: Applications of Partial Differential Equations: in the subject of Mathematics-IV KCS
+### Equations of Transmission lines for the notes of the Module II: Applications of Partial Differential Equations: in the subject of Mathematics-IV KCS
+## Module III: Statistical Techniques I:
+### Introduction for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Measures of central tendency for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Moments for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Moment generating function (MGF) for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Skewness for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Kurtosis for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Curve Fitting for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Method of least squares for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Fitting of straight lines for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Fitting of second degree parabola for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Exponential curves for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Correlation and Rank correlation for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Regression Analysis for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### Regression lines of y on x and x on y for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### regression coefficients for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### properties of regressions coefficients for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+### non linear regression for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+## Module IV: Statistical Techniques II:
+### Introduction for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Addition and multiplication law of probability for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Conditional probability for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Baye’s theorem for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Random variables (Discrete and Continuous Random variable) for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Probability mass function and Probability density function for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Expectation and variance for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Discrete and Continuous Probability distribution for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Binomial for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Poission for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+### Normal distributions for the notes of the Module IV: Statistical Techniques II: in the subject of Mathematics-IV KCS
+## Module V: Statistical Techniques III:
+### Introduction for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Sampling Theory (Small and Large) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Hypothesis for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Null hypothesis for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Alternative hypothesis for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Testing a Hypothesis for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Level of significance for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Confidence limits for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Test of significance of difference of means for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### T-test for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### F-test for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Chi-square test for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### One way Analysis of Variance (ANOVA) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Statistical Quality Control (SQC) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Control Charts for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Control Charts for variables ( X and R Charts) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+### Control Charts for Variables ( p, np and C charts) for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS

@@ -1,3 +1,0 @@
-### de-Broglie concept of matter waves for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
-
-De Broglie concept of matter waves states that all matter has a wave-like nature, including particles such as electrons and atoms. The wavelength of these matter waves is proportional to the momentum of the particle, with the relationship given by the de Broglie equation: λ = h/p, where h is Planck's constant and p is the momentum of the particle. This idea was key in the development of quantum mechanics and helped to explain phenomena such as wave-particle duality. The concept is also important in fields such as electron microscopy, where matter waves are used to form images of structures at the nanoscale.

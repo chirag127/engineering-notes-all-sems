@@ -1,0 +1,74 @@
+
+## Unit 1 - Introduction to Mechanics
+### Force moment and couple for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### principle of transmissibility for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Varignon's theorem for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Resultant of force system- concurrent and non-concurrent coplanar forces for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Types of supports (Hinge, Roller) and loads (Point, UDL, UVL) for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### free body diagram for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### equilibrium equations and Support Reactions for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Normal and shear Stress for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### strain for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Hookes’ law for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Poisson’s ratio for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### elastic constants and their relationship for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### stress-strain diagram for ductile and brittle materials for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### factor of safety for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+## Unit 2 - Introduction to IC Engines and Electric Vehicles
+### IC Engine for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Basic definition of engine and Components for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Construction and Working of Two stroke and four stroke SI & CI engine for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### merits and demerits for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### scavenging process for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### difference between two-stroke and four stroke IC engines and SI and CI Engines for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Electric vehicles and hybrid vehicles for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Components of an EV for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### EV batteries for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### chargers for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### drives for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### transmission and power devices for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Advantages and disadvantages of EVs for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Hybrid electric vehicles for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### HEV drive train components for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### advantages of HV for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+## Unit 3 - Introduction to Refrigeration and Air-Conditioning
+### Refrigeration for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Refrigerating effect for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Ton of Refrigeration for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Coefficient of performance for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### methods of refrigeration for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### construction and working of domestic refrigerator for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### concept of heat pump for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Air-Conditioning for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Its meaning and application for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### humidity for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### dry bulb for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### wet bulb for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### dew point temperatures for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### comfort conditions for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### construction and working of window air conditioner for the notes of the Unit 3 - Introduction to Refrigeration and Air-Conditioning in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+## Unit 4 - Introduction to Fluid Mechanics and Applications
+### Introduction for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Fluids properties for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### pressure for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### density for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### dynamic and kinematic viscosity for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### specific gravity for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Newtonian and Non-Newtonian fluid for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Pascal’s Law and Continuity Equation for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Working principles of hydraulic turbines (Pelton Wheel and Francis)& pumps (Centrifugal and Reciprocating) and their classifications and hydraulic lift for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+## Unit 5 - Introduction to Measurement and Mechatronics
+### Introduction to Measurement for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Concept of Measurement for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Error in measurements for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Calibration for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### measurements of pressure(Bourdon Tube Pressure and U-Tube Manometer) for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### temperature(Thermocouple and Optical Pyrometer) for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### mass flow rate(Venturi Meter and Orifice Meter) for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### strain(Bonded and Unbonded Strain Gauge) for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### force (Proving Ring) and torques(Prony Brake Dynamometer) for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Concepts of accuracy for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### precision and resolution for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Introduction to Mechatronic Systems for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Evolution for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+### Scope for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEER

@@ -1,5 +1,0 @@
-processing industry, Oil & gas industry and Pulp & paper industries).
-
-Oil & Gas Industry: It involves the exploration, extraction, refinement, and distribution of petroleum products. These products are used for energy production and in various industrial processes. The industry is a major contributor to the global economy and is dominated by large multinational corporations. The extraction process involves drilling wells and pumping oil and gas to the surface. Refinement involves the processing of raw petroleum into usable products such as gasoline, diesel, and jet fuel.
-
-Pulp & Paper Industry: It involves the production of paper and paper-based products from wood pulp and other plant fibers. The industry is a major producer of products such as paper, cardboard, tissues, and packaging materials. The production process involves the pulping of wood chips to produce a pulp, which is then used to produce paper. The industry is also a significant contributor to the global economy and is dominated by large corporations.

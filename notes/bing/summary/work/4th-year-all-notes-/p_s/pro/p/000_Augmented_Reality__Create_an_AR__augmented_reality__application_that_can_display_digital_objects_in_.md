@@ -1,5 +1,0 @@
-Augmented Reality: Create an AR (augmented reality) application that can display digital objects in the real world and interact with them. Technologies: Unity, ARKit, ARCore, Vuforia, C#.
-
-A possible summary for your project is:
-
-Augmented Reality (AR) is a technology that combines the real world and computer-generated content, such as images, sounds, or other information. AR can enhance one's experience of reality by adding useful or entertaining elements. In this project, you will create an AR application that can display digital objects in the real world and interact with them using Unity, a cross-platform game engine, and various AR frameworks such as ARKit for iOS devices, ARCore for Android devices, and Vuforia for both platforms. You will also use C#, a programming language that is widely used in Unity development.

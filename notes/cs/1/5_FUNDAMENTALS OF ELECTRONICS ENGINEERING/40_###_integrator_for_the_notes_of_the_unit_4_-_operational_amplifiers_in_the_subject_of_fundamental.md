@@ -1,3 +1,0 @@
-### Integrator for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
-
-The Integrator is a type of operational amplifier (Op-Amp) circuit that performs integration, which is the mathematical operation of finding the integral of an input signal over time. It has two inputs, the input signal (Vin) and the feedback signal (Vf), and one output (Vout). The output is proportional to the integral of the input signal over time, which is determined by the feedback signal. The Integrator circuit is often used in applications such as filtering, signal processing, and control systems.

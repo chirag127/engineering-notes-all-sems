@@ -1,0 +1,46 @@
+
+## Unit 1 - Matrices
+### Elementary transformations for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Inverse of a matrix for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Rank of matrix for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Solution of system of linear equations for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Characteristic equation for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Cayley-Hamilton Theorem and its application for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Linear Dependence and Independence of vectors for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Eigen values and Eigen vectors for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Complex Matrices for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Hermitian for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Skew-Hermitian for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Unitary Matrices for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+### Applications to Engineering problems for the notes of the Unit 1 - Matrices in the subject of ENGINEERING MATHEMATICS-I
+## Unit 2 - Differential Calculus- I
+### Successive Differentiation (nth order derivatives) for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Leibnitz theorem for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Curve tracing for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Partial derivatives for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Euler’s Theorem for homogeneous functions for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Total derivative for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+### Change of variables for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+## Unit 3 - Differential Calculus-II
+### Expansion of functions by Taylor’s and Maclaurin’s theorems for functions of one and two variables for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+### Maxima and Minima of functions of several variables for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+### Lagrange’s method of multipliers for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+### Jacobians for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+### Approximation of errors for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+## Unit 4 - Multiple integration
+### Double integral for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Triple integral for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Change of order of integration for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Change of variables for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Beta and Gama function and their properties for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Dirichlet’s integral and its applications to area and volume for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+### Liouville’s extensions of Dirichlet’s integral for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+## Unit 5 - Vector Calculus
+### Vector differentiation: Gradient for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Curl and Divergence and their Physical interpretation for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Directional derivatives for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Vector Integration: Line integral for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Surface integral for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Volume integral for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Gauss’s Divergence theorem for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
+### Green’s theorem and Stoke’s theorem (without proof) and their applications for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I KCS

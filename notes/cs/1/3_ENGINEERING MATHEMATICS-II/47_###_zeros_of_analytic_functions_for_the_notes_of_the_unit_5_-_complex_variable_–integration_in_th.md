@@ -1,5 +1,0 @@
-### zeros of analytic functions for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
-
-Zeros of analytic functions are important in the study of complex variables and complex integration. In Engineering Mathematics-II, the study of zeros of analytic functions is an important part of the Unit 5 - Complex Variable –Integration. Analytic functions are functions that are differentiable at every point in their domain. The zeros of an analytic function are the points in the complex plane where the function is equal to zero. These points play a crucial role in complex integration, as they determine the behavior of the function and its derivatives.
-
-The study of zeros of analytic functions includes the analysis of their distribution, the determination of their number and location, and the use of these results in complex integration. This study is important in engineering and physics, as it provides a deeper understanding of the behavior of complex functions and their derivatives, and is used to solve real-world problems in these fields.

@@ -1,3 +1,0 @@
-##### Virtual lab link: https://vlab.amrita.edu/?sub=1&brch=75&sim=332&cnt=1
-
-vLab is a virtual laboratory platform developed by Amrita University. It provides students with hands-on experience with simulations and experiments in a variety of disciplines, including electronics, electrical, and computer science. The provided link is for a specific simulation of a digital circuit design and testing using a digital logic simulator. It allows students to design, test, and debug digital circuits without the need for physical components. The platform is accessible from any device with an internet connection.

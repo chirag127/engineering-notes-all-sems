@@ -1,3 +1,0 @@
-##### Virtual lab link: https://vlab.amrita.edu/?sub=1&brch=75&sim=330&cnt=1
-
-Virtual Lab is a web-based simulation platform that provides remote access to laboratory experiments in various disciplines such as physics, chemistry, biology, and electronics. The link you provided is for a specific experiment (sub=1, brch=75, sim=330) hosted by Amrita University. The platform allows students to perform experiments in a virtual environment, eliminating the need for expensive equipment or hazardous materials. The virtual lab provides a safe and flexible learning experience, allowing students to repeat experiments, change variables, and explore different scenarios at their own pace.

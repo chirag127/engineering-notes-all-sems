@@ -1,3 +1,0 @@
-### Tunnel Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
-
-Tunnel Diodes are a type of semiconductor diode that exhibit negative resistance, meaning that the current through the diode decreases with increasing voltage. This behavior results from quantum mechanical tunneling of electrons through the potential barrier created by the p-n junction. Tunnel diodes are used in high-speed switching applications, microwave frequency generation, and as frequency discriminators. They have a fast response time and low capacitance, making them useful in high-frequency circuits. However, they have a limited operating range and are sensitive to temperature changes.

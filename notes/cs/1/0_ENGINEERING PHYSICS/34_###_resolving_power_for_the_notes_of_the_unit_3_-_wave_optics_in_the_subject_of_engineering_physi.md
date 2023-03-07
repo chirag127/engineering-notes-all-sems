@@ -1,3 +1,0 @@
-### Resolving power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
-
-Resolving power is the ability of an optical instrument, such as a microscope or telescope, to distinguish between two closely spaced objects. In wave optics, it is defined as the minimum separation between two point sources that can be resolved as separate images by the instrument. The resolving power of an optical instrument is proportional to the wavelength of light used and inversely proportional to the diameter of the objective lens or mirror. It is a crucial parameter for the design and performance of optical instruments.

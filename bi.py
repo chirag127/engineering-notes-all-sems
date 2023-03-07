@@ -68,7 +68,8 @@ def do_content_type_topics(m, j, ps_file, topic, content_type):
         except Exception as error:
             # with open("error.txt", "a", encoding="utf8") as file:
             #     file.write(f"{error}\n\n")
-
+            
+            print(error)
             with open(file_path, "w", encoding="utf8") as file:
                 file.write(f"{i}\n\n")
 
@@ -282,8 +283,10 @@ if __name__ == "__main__":
         # max_workers=len(types)
         # max_workers=
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
-            executor.map(main, types)
+        # with concurrent.futures.ThreadPoolExecutor(max_workers=len(types)) as executor:
+        #     executor.map(main, types)
+        for type in types:
+            main(type)
 
     k = 100
 
@@ -295,7 +298,7 @@ if __name__ == "__main__":
             k -= 1
 
         except Exception as e:
-            myprint(e)
+            print(e)
 
             # with open("error.txt", "a", encoding="utf8") as file:
             #     file.write(f"{e}\n\n")

@@ -1,0 +1,78 @@
+# ADVANCE INTERNET OF THINGS LAB
+## Unit 1 - Understanding the implementation of IOT
+### Wearable Computer With Temperature Distance Sensors for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Weather Imaging CubeSat with Telemetry Transmission for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Water Pollution Monitor RC Boat for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Mountain Climber Health & GPS Tracker for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Contactless IOT Doorbell for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Smart Parking Using RFID for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Contactless Covid Testing Booth Automation for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Social Distancing & Monitoring Robot For Queue for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Covid Patient Health Monitor in Quarantine for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Manhole Detection and Monitoring System for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Smart Energy Meter Monitoring with Theft Detection for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Weather Station Airship for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Intelligent Gas Leakage Detector Using Arduino for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### 360° Aerial Surveillance UAV With IOT Camera for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Garbage Segregator & Bin Level Indicator for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Temperature & Mask Scan Entry System for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Smart Agriculture Monitoring System Project for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Automatic Vehicle Accident Detection and Rescue System for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Greenhouse Monitoring and Control System using IOT Project for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Coal Mine Safety Monitoring and Alerting System for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Heart Monitoring System Using ECG for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Anti-theft Flooring System using Raspberry Pi for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Raspberry Pi based Weather Reporting Over IOT for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Early Flood Detection & Avoidance for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Garbage Monitoring Using Raspberry Pi for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Circuit Breaker Project for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Mining Tracking & Worker Safety Helmet for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Prison Break Monitoring & Alerting System for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Raspberry Pi Air and Noise Pollution Monitoring System Over IOT for the notes of the Unit 1 - Understanding the implementation of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+## Unit 2 - Solving Societal problems with the help of IOT
+### Wearable Computer With Temperature Distance Sensors for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Weather Imaging CubeSat with Telemetry Transmission for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Water Pollution Monitor RC Boat for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Mountain Climber Health & GPS Tracker for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Contactless IOT Doorbell for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Smart Parking Using RFID for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Contactless Covid Testing Booth Automation for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Social Distancing & Monitoring Robot For Queue for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Covid Patient Health Monitor in Quarantine for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Manhole Detection and Monitoring System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Smart Energy Meter Monitoring with Theft Detection for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Weather Station Airship for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Intelligent Gas Leakage Detector Using Arduino for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### 360° Aerial Surveillance UAV With IOT Camera for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Garbage Segregator & Bin Level Indicator for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Temperature & Mask Scan Entry System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Smart Agriculture Monitoring System Project for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Automatic Vehicle Accident Detection and Rescue System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Greenhouse Monitoring and Control System using IOT Project for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Coal Mine Safety Monitoring and Alerting System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Based Heart Monitoring System Using ECG for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Anti-theft Flooring System using Raspberry Pi for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Raspberry Pi based Weather Reporting Over IOT for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Early Flood Detection & Avoidance for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Garbage Monitoring Using Raspberry Pi for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Circuit Breaker Project for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Mining Tracking & Worker Safety Helmet for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Prison Break Monitoring & Alerting System for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+### Raspberry Pi Air and Noise Pollution Monitoring System Over IOT for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+## Unit 3 - Problem Analysis and Designing a Solution
+### Wearable Computer With Temperature Distance Sensors for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### Weather Imaging CubeSat with Telemetry Transmission for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Water Pollution Monitor RC Boat for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### Mountain Climber Health & GPS Tracker for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### Contactless IOT Doorbell for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Smart Parking Using RFID for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Contactless Covid Testing Booth Automation for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Social Distancing & Monitoring Robot For Queue for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Covid Patient Health Monitor in Quarantine for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Manhole Detection and Monitoring System for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Smart Energy Meter Monitoring with Theft Detection for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT Weather Station Airship for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+### IOT based Intelligent Gas Leakage Detector Using Arduino for the notes of the Unit

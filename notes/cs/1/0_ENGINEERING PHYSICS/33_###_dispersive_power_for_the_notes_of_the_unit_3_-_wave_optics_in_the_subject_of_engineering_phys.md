@@ -1,3 +1,0 @@
-### Dispersive power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
-
-Dispersive power is a measure of the degree to which a material or optical element spreads out light of different wavelengths. In wave optics, it is used to describe the ability of a material to separate light into its constituent colors. This is important for applications such as spectrometers, where it is necessary to analyze the composition of light based on its wavelength. The higher the dispersive power, the more efficiently the material will separate light into its different colors. This is because the refractive index of a material changes with wavelength, causing different colors of light to bend by different amounts as they pass through the material.

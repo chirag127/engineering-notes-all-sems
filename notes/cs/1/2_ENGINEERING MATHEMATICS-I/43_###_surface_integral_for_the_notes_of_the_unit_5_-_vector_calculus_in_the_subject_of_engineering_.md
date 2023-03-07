@@ -1,3 +1,0 @@
-### Surface integral for the notes of the Unit 5 - Vector Calculus in the subject of ENGINEERING MATHEMATICS-I
-
-Surface integral is a type of integral that is used to calculate the total amount of a scalar quantity over a surface in three-dimensional space. It is defined as the double integral over a surface S of a scalar function f(x,y,z). The surface integral is denoted by ∫∫S f(x,y,z) dS. It is used in various engineering applications, such as fluid dynamics, electromagnetic theory, and heat transfer. The surface integral can be calculated using various techniques, such as the parameterization of a surface, the use of Gauss' Theorem, and the use of Stokes' Theorem.

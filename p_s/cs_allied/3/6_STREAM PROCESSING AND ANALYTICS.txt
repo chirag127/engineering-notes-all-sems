@@ -1,0 +1,49 @@
+# STREAM PROCESSING AND ANALYTICS
+## Unit 1 - Fundamentals of Stream Processing
+### What Is Stream Processing for the notes of the Unit 1 - Fundamentals of Stream Processing in the subject of STREAM PROCESSING AND ANALYTICS
+### Examples of Stream Processing for the notes of the Unit 1 - Fundamentals of Stream Processing in the subject of STREAM PROCESSING AND ANALYTICS
+### Scaling Up Data Processing for the notes of the Unit 1 - Fundamentals of Stream Processing in the subject of STREAM PROCESSING AND ANALYTICS
+### Distributed Stream Processing for the notes of the Unit 1 - Fundamentals of Stream Processing in the subject of STREAM PROCESSING AND ANALYTICS
+### Introducing Apache Spark for the notes of the Unit 1 - Fundamentals of Stream Processing in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 2 - Stream-Processing Model
+### Sources and Sinks for the notes of the Unit 2 - Stream-Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Immutable Streams Defined from One AnotherTransformations and Aggregations for the notes of the Unit 2 - Stream-Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Window Aggregations for the notes of the Unit 2 - Stream-Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Stateless and Stateful Processing for the notes of the Unit 2 - Stream-Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### The Effect of Time for the notes of the Unit 2 - Stream-Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 3 - Components of a Data Platform
+### Architectural Models for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+### The Use of a Batch-Processing Component in a Streaming Application for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+### Referential Streaming Architectures for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+### Streaming Versus Batch Algorithms for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 4 - Apache Spark as a Stream-Processing Engine
+### Spark’s Memory Usage for the notes of the Unit 4 - Apache Spark as a Stream-Processing Engine in the subject of STREAM PROCESSING AND ANALYTICS
+### Understanding LatencyThroughputOriented Processing for the notes of the Unit 4 - Apache Spark as a Stream-Processing Engine in the subject of STREAM PROCESSING AND ANALYTICS
+### Fast Implementation of Data Analysis for the notes of the Unit 4 - Apache Spark as a Stream-Processing Engine in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 5 - Spark’s Distributed Processing Model
+### Running Apache Spark with a Cluster Manager for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Spark’s Own Cluster Manager for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Resilience and Fault Tolerance in a Distributed System for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Data Delivery SemanticsMicrobatching and One-Element-at-a-Time for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Bringing Microbatch and One-Record-at a- Time Closer Together for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Dynamic Batch Interval for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Structured Streaming Processing Model for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 6 - Spark’s Resilience Model
+### Resilient Distributed Datasets in Spark for the notes of the Unit 6 - Spark’s Resilience Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Spark Components for the notes of the Unit 6 - Spark’s Resilience Model in the subject of STREAM PROCESSING AND ANALYTICS
+### Spark’s Fault-Tolerance Guarantees for the notes of the Unit 6 - Spark’s Resilience Model in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 7 - Introducing Structured Streaming
+### The Structured Streaming Programming Model for the notes of the Unit 7 - Introducing Structured Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Structured Streaming in Action for the notes of the Unit 7 - Introducing Structured Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Structured Streaming Sources for the notes of the Unit 7 - Introducing Structured Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Structured Streaming Sinks for the notes of the Unit 7 - Introducing Structured Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Event Time–Based Stream Processing for the notes of the Unit 7 - Introducing Structured Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+## Unit 8 - Introducing Spark Streaming
+### The Spark Streaming Programming Model for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### The Spark Streaming Execution Model for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Spark Streaming Sources for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Spark Streaming Sinks for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Time-Based Stream ProcessingWorking with Spark SQL for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Checkpointing for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Monitoring Spark Streaming for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+### Performance Tuning for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS

@@ -1,3 +1,0 @@
-Chatbot: Develop a conversational agent (chatbot) that can handle customer queries, perform simple tasks and make recommendations. Technologies: Natural Language Processing (NLP), Python, Dialogflow, TensorFlow.
-
-A chatbot is a computer program that uses artificial intelligence (AI) and natural language processing (NLP) to understand customer questions and automate responses to them, simulating human conversation . Chatbots can be used in messaging apps, websites, phone calls or other platforms where customers interact with businesses. Chatbots can handle customer queries, perform simple tasks and make recommendations based on the context and purpose of the chatbot.
