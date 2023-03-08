@@ -1,0 +1,24 @@
+## Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning tasks to processors or resources in a way that meets the timing constraints and performance requirements of a real time system. 
+- A real time system is a system that must respond to events or inputs within a specified time interval, or risk failure or unacceptable consequences. 
+- Real time scheduling can be classified into two categories: static and dynamic. 
+  - Static scheduling is a scheduling method that assigns tasks to processors or resources before the system starts execution, based on the known characteristics of the tasks, such as their arrival times, execution times, deadlines, and priorities. Static scheduling is suitable for systems that have predictable and periodic workloads, and do not require much flexibility or adaptability. Static scheduling algorithms include rate-monotonic scheduling, earliest deadline first scheduling, and cyclic executive scheduling. 
+  - Dynamic scheduling is a scheduling method that assigns tasks to processors or resources at run time, based on the current state of the system, such as the availability of resources, the arrival of new tasks, the completion of existing tasks, and the occurrence of faults or errors. Dynamic scheduling is suitable for systems that have unpredictable and aperiodic workloads, and require more flexibility and adaptability. Dynamic scheduling algorithms include preemptive priority scheduling, least laxity first scheduling, and earliest deadline first scheduling. 
+- Real time scheduling involves several challenges and trade-offs, such as:
+  - Schedulability analysis: the process of determining whether a set of tasks can be scheduled by a given algorithm without missing any deadlines. Schedulability analysis can be performed offline (before the system starts execution) or online (during the system execution), and can be based on worst-case or average-case scenarios. Schedulability analysis can help to verify the correctness and feasibility of a real time system, and to optimize the system parameters, such as task priorities, processor speeds, and resource allocations. 
+  - Overload handling: the process of dealing with situations where the system workload exceeds the system capacity, and some tasks cannot be scheduled or completed within their deadlines. Overload handling can be proactive (preventing or reducing the overload by adjusting the system parameters or rejecting some tasks) or reactive (resolving the overload by dropping or delaying some tasks, or degrading the system quality). Overload handling can help to improve the system reliability and robustness, and to balance the system performance and fairness. 
+  - Resource management: the process of allocating and sharing the system resources, such as processors, memory, communication channels, and devices, among the tasks. Resource management can be centralized (controlled by a single entity or algorithm) or distributed (controlled by multiple entities or algorithms), and can be based on reservation, negotiation, or contention. Resource management can help to improve the system efficiency and utilization, and to avoid or resolve resource conflicts and deadlocks. 
+  - Fault tolerance: the process of detecting and recovering from faults or errors that may occur in the system components, such as hardware failures, software bugs, or external disturbances. Fault tolerance can be achieved by using redundancy, replication, reconfiguration, or rollback techniques, and can be applied at different levels, such as task, processor, or system level. Fault tolerance can help to improve the system availability and dependability, and to prevent or mitigate system failures or catastrophic consequences. 
+
+: Scheduling analysis real-time systems - Wikipedia
+: Scheduling in Real Time Systems - GeeksforGeeks
+
+Some possible mnemonics and learning tricks for the topic are:
+
+- To remember the difference between static and dynamic scheduling, you can use the acronym SAD: Static scheduling is Assigned before execution, and Dynamic scheduling is Decided at run time. 
+- To remember the types of static scheduling algorithms, you can use the acronym REC: Rate-monotonic scheduling, Earliest deadline first scheduling, and Cyclic executive scheduling. 
+- To remember the types of dynamic scheduling algorithms, you can use the acronym PEL: Preemptive priority scheduling, Earliest deadline first scheduling, and Least laxity first scheduling. 
+- To remember the challenges and trade-offs of real time scheduling, you can use the acronym SORT: Schedulability analysis, Overload handling, Resource management, and Fault tolerance. 
+
+: Based on my own knowledge and creativity.

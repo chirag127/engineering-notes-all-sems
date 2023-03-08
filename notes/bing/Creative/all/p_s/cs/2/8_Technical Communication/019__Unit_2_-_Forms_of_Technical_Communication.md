@@ -1,0 +1,26 @@
+## Unit 2 - Forms of Technical Communication
+
+Technical communication is a form of communication that involves conveying technical or specialized information to a specific audience for a specific purpose. Technical communication can be written, oral, visual, or multimodal, depending on the context, audience, and goals of the communication. Technical communication can have various functions, such as defining, instructing, informing, or persuading .
+
+Some of the common forms of technical communication are:
+
+- **Proposals and requests for proposals (RFPs)**: These are documents that outline a project idea, its objectives, methods, budget, and timeline, and request funding or approval from a potential sponsor or client. Proposals and RFPs are often used in business, research, engineering, and other fields to initiate or bid for a project.
+- **Technical or research reports**: These are documents that present the results, findings, analysis, and recommendations of a technical or scientific study or investigation. Technical or research reports are often used to communicate the outcomes of a project, experiment, or survey to a specific audience, such as stakeholders, sponsors, peers, or the public.
+- **Documentation records and product specifications**: These are documents that describe the features, functions, requirements, standards, and performance of a product, system, process, or service. Documentation records and product specifications are often used to provide technical information to users, developers, manufacturers, testers, or regulators.
+- **User guides (step-by-step instructions, procedures, manuals)**: These are documents that explain how to use, operate, maintain, troubleshoot, or repair a product, system, process, or service. User guides are often used to provide instructions to customers, employees, or technicians.
+- **Online help, technical support**: These are forms of communication that provide assistance or guidance to users who encounter problems or difficulties with a product, system, process, or service. Online help and technical support can be delivered through various channels, such as websites, chatbots, forums, emails, phone calls, or videos.
+- **Reference information (encyclopedia-style information)**: These are forms of communication that provide factual, objective, and comprehensive information on a specific topic, such as a concept, term, phenomenon, or entity. Reference information can be delivered through various formats, such as books, articles, websites, databases, or glossaries.
+- **Consumer literature (information for the public about regulations, safety issues, etc.)**: These are forms of communication that provide relevant, useful, and accessible information to the general public about a product, system, process, or service, such as its benefits, risks, regulations, safety measures, or best practices. Consumer literature can be delivered through various media, such as brochures, flyers, posters, websites, or social media.
+
+Technical communication can also include other forms, such as presentations, podcasts, blogs, newsletters, infographics, white papers, case studies, or podcasts, depending on the purpose, audience, and context of the communication. Technical communication can also involve different modes, such as text, images, audio, video, or animations, depending on the message, medium, and design of the communication. Technical communication can also employ different styles, tones, and formats, depending on the conventions, expectations, and preferences of the field, genre, and audience of the communication.
+
+I'm not sure what topic you are referring to, but I can try to help you find some good mnemonics and learning tricks if you tell me more. Mnemonics and learning tricks can be very helpful for remembering information, especially if they are catchy, funny, or meaningful to you. Some examples of mnemonics and learning tricks are:
+
+- Acronyms: using the first letter of each word in a list or phrase to form a new word, such as ROYGBIV for the colors of the rainbow (red, orange, yellow, green, blue, indigo, violet).
+- Acrostics: using the first letter of each word in a list or phrase to form a sentence, such as Every Good Boy Deserves Fudge for the notes on the treble clef (E, G, B, D, F).
+- Rhymes: using words that sound similar to help you remember something, such as In 1492, Columbus sailed the ocean blue.
+- Chunking: breaking down a large amount of information into smaller, more manageable pieces, such as grouping phone numbers or social security numbers by three or four digits.
+- Visualization: creating a mental image or story to help you remember something, such as imagining a giant spider web to remember the parts of a web page (header, footer, sidebar, content, etc.).
+- Association: linking something you want to remember to something you already know, such as remembering that the capital of France is Paris by thinking of the Eiffel Tower.
+
+Do you have a specific topic or subject that you want to learn more about? I can help you find some mnemonics and learning tricks for it.

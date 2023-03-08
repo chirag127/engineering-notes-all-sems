@@ -1,0 +1,12 @@
+ Here is the content in markdown format for the topic ### Issues in Machine Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques:
+
+### Issues in Machine Learning
+
+1. Overfitting: When a machine learning model performs very well on the training data but does not generalize well to new data, it is said to be overfitting the data. This results in poor performance on unseen data. Solutions to overfitting include getting more training data, using simpler models, and regularization.
+2. Underfitting: When a machine learning model is not complex enough and does not capture the underlying patterns in the data, it results in poor performance due to underfitting. In this case, the model is not able to learn the signal in the data. Solutions include using a more complex model and collecting more data.
+3. Bias-variance tradeoff: There is a tradeoff between bias and variance in any machine learning model. A model with high bias tends to underfit the data while a model with high variance tends to overfit the data. The optimal model trades off between these two to capture the patterns in the data without fluctuating too much.
+4. Data imbalance: When the training data is skewed and does not represent the classes evenly, it leads to models that have poor performance on the underrepresented classes. This is the problem of imbalanced data. Solutions include collecting more data per class, using specialized learners for imbalanced data, and rebalancing the data using resampling techniques.
+5. Nonlinearity: Many machine learning models make the assumption that the data can be captured using linear patterns. However, most real-world data is nonlinear and complex. Using nonlinear models and feature engineering helps in modeling nonlinear patterns.
+6. Multiple modes: When data contains multiple clusters or patterns, a machine learning model has to capture all the major modes to have good performance. However, in many cases, we may not know the number of modes in the data and the model may not converge to the optimal solution. Using clustering and other analysis techniques helps in understanding the data before modeling.
+
+[Diagrams and codes can be added here if helpful. Additional details, advantages, disadvantages, examples, and applications can be included as well.]

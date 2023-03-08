@@ -1,0 +1,27 @@
+### Modes of Presentation for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+Modes of presentation are the different methods or types of speech delivery used in technical communication. They vary in the degree of preparation, formality, and interaction with the audience. The choice of the mode of presentation depends on the purpose, context, and audience of the communication.
+
+The four main modes of presentation are:
+
+- **Impromptu**: This mode of presentation involves speaking without any prior preparation or notes. The speaker relies on their knowledge, experience, and creativity to deliver a spontaneous speech. Impromptu presentations are often used in informal settings, such as meetings, discussions, or brainstorming sessions. They require the speaker to be confident, flexible, and adaptable to the situation and the audience's feedback. Some advantages of impromptu presentations are that they are natural, engaging, and dynamic. Some disadvantages are that they can be disorganized, unclear, or inaccurate.
+
+- **Manuscript**: This mode of presentation involves reading a written text word for word. The speaker prepares the speech in advance and follows it exactly during the delivery. Manuscript presentations are often used in formal settings, such as lectures, conferences, or ceremonies. They require the speaker to be precise, accurate, and consistent with the written text. Some advantages of manuscript presentations are that they are well-structured, well-researched, and well-documented. Some disadvantages are that they can be monotonous, boring, or detached from the audience.
+
+- **Memorized**: This mode of presentation involves reciting a speech from memory without any notes or cues. The speaker prepares and rehearses the speech in advance and delivers it verbatim during the presentation. Memorized presentations are often used in situations where the speaker needs to impress, persuade, or inspire the audience, such as speeches, debates, or performances. They require the speaker to be fluent, expressive, and confident. Some advantages of memorized presentations are that they are smooth, polished, and impressive. Some disadvantages are that they can be rigid, unnatural, or forgetful.
+
+- **Extemporaneous**: This mode of presentation involves speaking from an outline or a set of notes. The speaker prepares the main points and supporting details of the speech in advance and delivers them with some flexibility and spontaneity during the presentation. Extemporaneous presentations are often used in situations where the speaker needs to inform, explain, or demonstrate something to the audience, such as reports, tutorials, or demonstrations. They require the speaker to be organized, clear, and engaging. Some advantages of extemporaneous presentations are that they are coherent, relevant, and interactive. Some disadvantages are that they can be inconsistent, incomplete, or inaccurate.
+
+Sure, I can help you with some mnemonics and learning tricks for the topic. Mnemonics are techniques that help you remember new information by connecting it to something you already know. There are different types of mnemonics, such as:
+
+- **Acronyms**: These are words made from the first letters of a list of items. For example, to remember the names of the Great Lakes, you can use the acronym HOMES (Huron, Ontario, Michigan, Erie, Superior).
+- **Acrostics**: These are sentences or phrases where the first letter of each word stands for an item in a list. For example, to remember the order of the planets, you can use the acrostic My Very Eager Mother Just Served Us Nachos (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune).
+- **Rhymes**: These are words or phrases that sound similar and help you recall information. For example, to remember how many days are in each month, you can use the rhyme Thirty days hath September, April, June, and November.
+- **Chunking**: This is a technique where you group items into smaller units that are easier to remember. For example, to remember a phone number, you can chunk it into three parts: 555-123-4567.
+- **Images**: These are mental pictures that help you associate new information with something familiar. For example, to remember the word "cat", you can imagine a cat with a hat.
+- **Stories**: These are narratives that link items in a list or sequence in a meaningful way. For example, to remember the presidents of the United States, you can create a story that involves their names and actions.
+- **Songs**: These are melodies or tunes that help you remember information by setting it to music. For example, to remember the alphabet, you can sing the ABC song.
+- **Keywords**: These are words that sound similar or have a connection to the new information. For example, to remember the word "pneumonia", you can use the keyword "new moon".
+- **Pegwords**: These are words that rhyme with numbers and help you remember a list of items in order. For example, to remember the names of the first 10 presidents, you can use the pegwords one is a bun, two is a shoe, three is a tree, and so on.
+
+To use mnemonics effectively, you should choose the appropriate technique for your situation, practice it several times, and repeat it to others. You should also make sure the mnemonics are easy to remember and meaningful to you. I hope this helps you learn better.😊

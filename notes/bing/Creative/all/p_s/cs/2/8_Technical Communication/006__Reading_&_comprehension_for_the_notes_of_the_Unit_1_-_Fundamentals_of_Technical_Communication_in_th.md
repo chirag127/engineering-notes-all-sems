@@ -1,0 +1,18 @@
+### Reading & comprehension for the notes of the Unit 1 - Fundamentals of Technical Communication in the subject of Technical Communication
+
+- Reading and comprehension are essential skills for technical communication, as they enable the reader to understand, analyze, and evaluate various types of technical texts.
+- Reading is the process of decoding written symbols and extracting meaning from them. Comprehension is the process of constructing meaning from the text, based on the reader's prior knowledge, purpose, and context.
+- Reading and comprehension involve different levels of processing, such as literal, inferential, evaluative, and creative. Literal comprehension is the ability to identify and recall the facts and details from the text. Inferential comprehension is the ability to draw logical conclusions and make connections between the text and the reader's own experience. Evaluative comprehension is the ability to judge the quality, accuracy, and relevance of the text, as well as the author's perspective and purpose. Creative comprehension is the ability to generate new ideas and insights from the text, as well as to apply the text to different situations and problems.
+- Reading and comprehension can be improved by using various strategies, such as previewing, skimming, scanning, summarizing, paraphrasing, questioning, annotating, outlining, and synthesizing. These strategies help the reader to focus on the main idea, key points, and supporting details of the text, as well as to clarify doubts, identify gaps, and organize information.
+- Reading and comprehension are also influenced by various factors, such as the reader's background knowledge, interest, motivation, and attitude, as well as the text's structure, style, format, and difficulty. The reader should be aware of these factors and adjust their reading approach accordingly.
+- Reading and comprehension are important for technical communication, as they enable the reader to understand the purpose, audience, and context of the technical text, as well as to critically evaluate its content, organization, and design. Reading and comprehension also help the reader to learn new concepts, skills, and techniques from the technical text, as well as to apply them to their own work and projects.
+
+Mnemonics and learning tricks are techniques that can help you remember information better by connecting it to something you already know or something that is easy to recall. There are different types of mnemonics, such as rhymes, acronyms, diagrams, images, or stories. For example, you can use the acronym **ROYGBIV** to remember the colors of the rainbow: **R**ed, **O**range, **Y**ellow, **G**reen, **B**lue, **I**ndigo, and **V**iolet.
+
+Some tips for using mnemonics and learning tricks are:
+
+- Choose the appropriate mnemonic for your situation. For example, if you want to learn how to spell a word, you may want to use a spelling mnemonic, such as **R**hythm **H**elps **Y**our **T**wo **H**ips **M**ove.
+- Practice the technique several times to help you remember it. You can also write it down, say it out loud, or teach it to someone else.
+- Repeat the mnemonic to others or test yourself on it. This can help you reinforce the information and check your understanding.
+
+Mnemonics and learning tricks can be very helpful, but they are not magic. You still need to understand the material and review it regularly. Also, you should not use mnemonics that are too complicated or hard to remember, as they may defeat the purpose. Try to make your mnemonics simple, catchy, and meaningful to you.

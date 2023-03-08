@@ -1,0 +1,30 @@
+### Transformation of Sentences: Simple, Compound and Complex, Subject-verb agreement, Prefix and Suffix, Antonyms, Synonyms, Homophones
+
+- Transformation of sentences is the process of changing the form or structure of a sentence without changing its meaning or sense.
+- There are three main types of sentences: simple, compound and complex.
+- A simple sentence consists of one independent clause, which has a subject and a predicate. For example, "She sings well."
+- A compound sentence consists of two or more independent clauses, which are joined by a coordinating conjunction (such as and, but, or, so, yet) or a semicolon. For example, "She sings well and plays the guitar."
+- A complex sentence consists of one independent clause and one or more dependent clauses, which are joined by a subordinating conjunction (such as because, although, when, if, that, etc.) or a relative pronoun (such as who, which, that, etc.). For example, "She sings well because she practices every day."
+- To transform a simple sentence into a compound sentence, we can add another independent clause with a coordinating conjunction or a semicolon. For example, "She sings well." -> "She sings well and plays the guitar." or "She sings well; she also dances."
+- To transform a simple sentence into a complex sentence, we can add a dependent clause with a subordinating conjunction or a relative pronoun. For example, "She sings well." -> "She sings well because she practices every day." or "The girl who sings well is my friend."
+- To transform a compound sentence into a simple sentence, we can remove one of the independent clauses or combine them into one. For example, "She sings well and plays the guitar." -> "She is a good singer and guitarist." or "She sings and plays well."
+- To transform a compound sentence into a complex sentence, we can make one of the independent clauses dependent by adding a subordinating conjunction or a relative pronoun. For example, "She sings well and plays the guitar." -> "She sings well when she plays the guitar." or "She, who plays the guitar, sings well."
+- To transform a complex sentence into a simple sentence, we can remove the dependent clause or combine it with the independent clause. For example, "She sings well because she practices every day." -> "She is a good singer." or "She practices and sings well."
+- To transform a complex sentence into a compound sentence, we can make the dependent clause independent by removing the subordinating conjunction or the relative pronoun. For example, "She sings well because she practices every day." -> "She sings well and she practices every day." or "She practices every day; she sings well."
+
+- Subject-verb agreement is the rule that the verb in a sentence must agree with the subject in number (singular or plural) and person (first, second or third). For example, "He sings well." (singular subject, singular verb) or "They sing well." (plural subject, plural verb)
+- To ensure subject-verb agreement, we need to identify the subject and the verb in a sentence and check if they match in number and person. For example, "The boy and the girl sing well." (plural subject, plural verb) or "The boy or the girl sings well." (singular subject, singular verb)
+- Some common rules for subject-verb agreement are:
+  - The verb agrees with the subject, not the complement or the object. For example, "The singer is a girl." (singular subject, singular verb) or "The singer likes girls." (singular subject, singular verb)
+  - The verb agrees with the subject closest to it when the subject is joined by or, nor, either...or, neither...nor. For example, "Neither the boy nor the girl sings well." (singular subject, singular verb) or "Either the boy or the girls sing well." (plural subject, plural verb)
+  - The verb agrees with the subject as a whole when the subject is joined by and. For example, "The boy and the girl sing well." (plural subject, plural verb) or "Bread and butter is my favorite breakfast." (singular subject, singular verb)
+  - The verb agrees with the singular form of collective nouns (such as team, family, class, etc.) when they are treated as a unit, and with the plural form when they are treated as individuals. For example, "The team is playing well." (singular subject, singular verb) or "The team are arguing among themselves." (plural subject, plural verb)
+  - The verb agrees with the number of the noun phrase, not the modifier. For example, "
+
+Some possible mnemonics and learning tricks for transformation of sentences and subject-verb agreement are:
+
+- To remember the types of sentences, you can use the acronym SCC: Simple, Compound, Complex. You can also use the word FANBOYS to remember the coordinating conjunctions: For, And, Nor, But, Or, Yet, So.
+- To remember the rule for subject-verb agreement when the subject is joined by or, nor, either...or, neither...nor, you can use the phrase "the verb follows the or". This means that the verb agrees with the subject closest to the or. For example, "Neither the boy nor the girl sings well." (singular verb follows the or)
+- To remember the rule for subject-verb agreement when the subject is joined by and, you can use the phrase "the verb follows the and". This means that the verb agrees with the subject as a whole. For example, "The boy and the girl sing well." (plural verb follows the and)
+- To remember the rule for subject-verb agreement with collective nouns, you can use the phrase "the verb follows the sense". This means that the verb agrees with the singular or plural sense of the collective noun. For example, "The team is playing well." (singular sense, singular verb) or "The team are arguing among themselves." (plural sense, plural verb)
+- To remember the rule for subject-verb agreement with the number of the noun phrase, you can use the phrase "the verb follows the noun". This means that the verb agrees with the number of the noun, not the modifier. For example, "A lot of books are on the table." (plural noun, plural verb) or "A lot of water is in the bottle." (singular noun, singular verb)

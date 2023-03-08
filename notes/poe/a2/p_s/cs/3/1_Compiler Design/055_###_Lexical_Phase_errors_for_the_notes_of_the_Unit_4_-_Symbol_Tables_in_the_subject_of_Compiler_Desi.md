@@ -1,0 +1,13 @@
+ Here is the content in markdown format for the topic -
+
+### Lexical Phase errors for the notes of the Unit 4 - Symbol Tables in the subject of Compiler Design
+
+1. Unrecognized Character - If the lexical analyzer encounters a character that does not match any of the patterns for tokens, it reports an error. For example, if the input contains a percentage sign (%) where a numeric literal was expected, this would be flagged as an error.
+2. Invalid Escape Sequence - Many languages allow the use of escape sequences to represent special characters. If an escape sequence is not recognized or is out of place, it must be reported as an error. For example, if two backslash characters (\\) appear in a row with no following character to escape, this would be flagged as an invalid escape sequence.
+3. Invalid Character Constant - If a character constant contains more than one character, or includes a character that cannot be represented in the execution character set, then it is flagged as an invalid character constant. For example, 'AB' and '???' would both be invalid in languages that allow only single-character character constants.
+4. String Literals - Errors in string literals are similar to those for character constants. Unmatched delimiters or nonprintable/non-representable characters must be flagged. The lexical analyzer must also ensure that escape sequences in string literals are valid and recognizable.
+5. Invalid Numeric Literal - Numeric literals that do not follow the correct syntax for the language generate errors. For example, a number with two decimal points or an exponent with no preceding numeric part would be incorrect. Octal and hexadecimal literals must contain only valid digits for their base.
+6. Mismatched Brackets - Many languages require bracketed elements (for arrays, structures, etc.) to have matching opening and closing brackets. The lexical analyzer detects and reports unmatched brackets as errors.
+7. Special Token Recognition - Certain tokens have special error conditions. For example, identifiers cannot be keywords, and preprocessor directives must follow the correct syntax. The lexical analyzer detects and reports these types of errors.
+
+The points cover the key types of lexical errors with relevant examples. Detailed diagrams or codes can be added if required to explain the concepts. The content can be expanded with more points and details as needed for exam preparation.

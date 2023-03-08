@@ -1,0 +1,10 @@
+### Definition of Technical Communication
+
+- Technical communication is the process of communicating expert, technical, or highly complex information to a non-expert or more general audience .
+- Technical communication is used to convey scientific, engineering, or other technical information for various purposes, such as defining, instructing, informing, or persuading .
+- Technical communication is a user-centered approach that aims to provide the right information, in the right way, at the right time, so that the user's life is more productive, safe, and efficient.
+- Technical communication is a task performed by specialized employees or consultants, such as technical writers, editors, designers, or trainers, or by other technical professionals, such as programmers, engineers, or scientists .
+- Technical communication involves the delivery of clear, consistent, and factual information, often stemming from complex concepts, for effective comprehension and use by the users.
+- Technical communication can take various forms, such as manuals, reports, proposals, websites, blogs, podcasts, videos, or presentations, depending on the needs and preferences of the audience, the context, and the goals of the communication .
+
+I'm not sure what topic you are referring to, but I can try to help you find some good mnemonics and learning tricks if you tell me more. Mnemonics and learning tricks can be very helpful for memorizing and understanding complex or unfamiliar information. They usually involve using words, images, sounds, or associations that are easy to remember and relate to the topic. For example, one common mnemonic for the order of the planets is "My Very Eager Mother Just Served Us Nine Pizzas", where each word starts with the first letter of a planet. Do you have a specific topic in mind that you want to learn more about?

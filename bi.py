@@ -113,7 +113,10 @@ write in detail about {topic}"""
             #     return
 
             message = (
-                "if there are good Mnemonics and learning tricks for the topic then include them."
+                "if there are good Mnemonics and learning tricks for the top
+
+
+ then include them."
                 + "don't give the Mnemonics and learning tricks they are not easy to remember."
             )
 

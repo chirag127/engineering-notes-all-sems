@@ -1,0 +1,17 @@
+### Introduction
+
+- Computer system security is the protection of computer systems and information from harm, theft, and unauthorized use. It is the process of preventing and detecting unauthorized use of your computer system  .
+- Computer system security involves the following aspects :
+  - **Physical security**: The sites containing computer systems must be physically secured against armed and malicious intruders. The hardware, firmware, and software components of the system must be protected from damage, theft, or tampering.
+  - **Human security**: Only appropriate users must have the authorization to access the system. Phishing (collecting sensitive information from users by pretending to be a legitimate entity), social engineering (manipulating people into divulging confidential information or performing actions that compromise security), and insider threats (malicious actions by authorized users) must be prevented or detected.
+  - **Network security**: The communication channels between computer systems must be secured against eavesdropping, interception, modification, or disruption. Cryptography (the use of mathematical techniques to ensure confidentiality, integrity, authenticity, and non-repudiation of data and communication), firewalls (devices or software that filter incoming and outgoing network traffic based on predefined rules), and intrusion detection systems (tools that monitor network activity and alert or respond to suspicious or malicious events) are some of the techniques used for network security.
+  - **System security**: The operating system and the applications running on it must be secured against vulnerabilities, bugs, or malicious code that may compromise the functionality, performance, or security of the system. Patching (updating software with fixes or improvements), hardening (reducing the attack surface of the system by disabling unnecessary services or features), and antivirus (software that detects and removes malicious code from the system) are some of the techniques used for system security.
+  - **Information security**: The data stored or processed by the computer system must be secured against unauthorized access, modification, deletion, or leakage. Encryption (transforming data into an unreadable form that can only be decrypted by authorized parties), access control (restricting who can access what data and how), and backup (creating copies of data that can be restored in case of loss or corruption) are some of the techniques used for information security.
+
+Some possible mnemonics and learning tricks for the topic are:
+
+- To remember the five aspects of computer system security, you can use the acronym **PHINS** (Physical, Human, Network, System, Information).
+- To remember the three goals of cryptography, you can use the acronym **CIA** (Confidentiality, Integrity, Authenticity).
+- To remember the four properties of encryption, you can use the acronym **CINE** (Confusion, Diffusion, Non-repudiation, Efficiency).
+- To remember the three types of access control, you can use the acronym **DAC** (Discretionary, Mandatory, Role-based).
+- To remember the three types of backup, you can use the acronym **FID** (Full, Incremental, Differential).

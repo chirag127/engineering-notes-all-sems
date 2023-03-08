@@ -1,0 +1,20 @@
+### Special Purpose Two Terminal Devices
+
+- A two terminal device is an electronic component that has only two terminals or leads, such as a resistor, capacitor, diode, battery, etc.
+- A special purpose two terminal device is a device that has some unique or specific function or characteristic, such as a tunnel diode, a photo diode, a varactor diode, a Schottky barrier diode, a light emitting diode, a silicon controlled rectifier, etc.
+- These devices are engineered to solve particular connection requirements or to perform certain operations in electronic circuits, such as switching, amplification, modulation, detection, rectification, etc.
+- Some examples of special purpose two terminal devices are:
+
+  - **Tunnel diode**: A tunnel diode is a type of diode that has a very high conductivity due to quantum tunneling effect. It has a negative resistance region in its current-voltage characteristic, which means that the current decreases as the voltage increases in that region. This property makes it useful for high frequency applications, such as oscillators, amplifiers, and logic circuits.
+  - **Photo diode**: A photo diode is a type of diode that converts light into electric current. It has a p-n junction that is exposed to light, and the current through the diode depends on the intensity and wavelength of the light. This property makes it useful for optical applications, such as sensors, detectors, and communication systems.
+  - **Varactor diode**: A varactor diode is a type of diode that has a variable capacitance depending on the applied voltage. It has a p-n junction that acts as a capacitor, and the capacitance decreases as the voltage increases. This property makes it useful for tuning applications, such as filters, oscillators, and modulators.
+  - **Schottky barrier diode**: A Schottky barrier diode is a type of diode that has a metal-semiconductor junction instead of a p-n junction. It has a very low forward voltage drop and a very fast switching speed. This property makes it useful for power applications, such as rectifiers, converters, and regulators.
+  - **Light emitting diode**: A light emitting diode is a type of diode that emits light when a current passes through it. It has a p-n junction that emits photons of a specific color depending on the material and doping of the semiconductor. This property makes it useful for display and illumination applications, such as indicators, lamps, and screens.
+  - **Silicon controlled rectifier**: A silicon controlled rectifier is a type of diode that has four layers of alternating p-type and n-type material, forming a p-n-p-n structure. It has three terminals: anode, cathode, and gate. It acts as a switch that can be turned on by a gate signal and turned off by reducing the current below a certain level. This property makes it useful for control and regulation applications, such as dimmers, relays, and inverters.
+
+Some possible mnemonics and learning tricks for the topic are:
+
+- To remember the order of the layers in a silicon controlled rectifier, you can use the acronym **PANCAKE** (P-Anode, N, P, N-Cathode, A-Gate, K-Cathode, E-Anode).
+- To remember the colors of the light emitted by different materials in a light emitting diode, you can use the acronym **ROY G BIV** (Red-Orange-Yellow-Green-Blue-Indigo-Violet). The order of the colors corresponds to the order of the energy gap of the materials, from low to high.
+- To remember the direction of the current in a photo diode, you can use the phrase **Light In, Current Out** (LICO). The current flows from the anode to the cathode when the diode is exposed to light.
+- To remember the effect of the voltage on the capacitance in a varactor diode, you can use the phrase **Voltage Up, Capacitance Down** (VUCD). The capacitance decreases as the voltage increases across the diode.

@@ -1,0 +1,11 @@
+
+#### Developing a Map Reduce Application
+
+* Map Reduce is a programming model used for processing large datasets in a distributed environment. It is a framework for developing distributed data processing applications.
+* The Map Reduce model consists of two main phases: the Map phase and the Reduce phase. In the Map phase, the data is split into smaller chunks and each chunk is processed independently. In the Reduce phase, the results of the Map phase are combined and aggregated.
+* Map Reduce applications are written in a programming language such as Java or Python. The code is then compiled into an executable file which is then submitted to the Map Reduce framework.
+* The Map Reduce framework then distributes the executable file to the nodes of the cluster and executes the code in parallel.
+* Advantages of using Map Reduce include scalability, fault tolerance, and cost efficiency. Map Reduce applications can be scaled up to process large datasets without any modifications to the code. Additionally, since the tasks are distributed among nodes, if any node fails, the tasks can be re-executed on another node without any disruption to the overall process. Finally, Map Reduce applications are cost efficient as the cost of running the application is shared among the nodes of the cluster.
+* Disadvantages of using Map Reduce include the need for programming expertise and the overhead associated with the Map Reduce framework. Additionally, the performance of the application can be affected by the number of nodes in the cluster, the size of the dataset, and the complexity of the code.
+* Examples of applications that use Map Reduce include web indexing, data mining, machine learning, and image processing.
+* In conclusion, Map Reduce is a powerful programming model for distributed data processing applications. It is highly scalable, fault tolerant, and cost efficient. However, it requires programming expertise and can be affected by the number of nodes in the cluster, the size of the dataset, and the complexity of the code.

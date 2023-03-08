@@ -1,0 +1,12 @@
+### Random variables (Discrete and Continuous Random variable)
+
+- A random variable is a variable whose value depends on all the possible outcomes of an experiment.
+- A random variable can be classified into two types: discrete and continuous, depending on the type of outcomes that are possible.
+- A discrete random variable can take on only a finite number of values or a countably infinite number of values. For example, the outcome of rolling a die is a discrete random variable, as it can only land on one of six possible numbers.
+- A continuous random variable can take on any value in a given interval or an uncountably infinite number of values. For example, the height of a person is a continuous random variable, as it can take on any value between zero and some maximum value.
+- The probability distribution of a random variable describes how likely each possible value of the variable is. For a discrete random variable, the probability distribution is given by a probability mass function (PMF), which assigns a probability to each possible value. For a continuous random variable, the probability distribution is given by a probability density function (PDF), which assigns a probability to each possible interval of values.
+- The mean or expected value of a random variable is the average value of the variable over many repeated trials of the experiment. For a discrete random variable, the mean is given by the sum of the products of each possible value and its probability. For a continuous random variable, the mean is given by the integral of the product of the variable and its probability density function over the range of values.
+- The variance of a random variable is a measure of how much the variable deviates from its mean. For a discrete random variable, the variance is given by the sum of the products of the squared difference between each possible value and the mean, and its probability. For a continuous random variable, the variance is given by the integral of the product of the squared difference between the variable and the mean, and its probability density function over the range of values.
+- The standard deviation of a random variable is the square root of the variance. It is also a measure of how much the variable deviates from its mean, but it has the same units as the variable.
+
+I'm not sure what topic you are referring to, but I can try to help you find some good mnemonics and learning tricks if you tell me more. What are you studying or trying to learn?

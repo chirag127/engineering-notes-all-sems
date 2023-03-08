@@ -1,0 +1,24 @@
+### Sample Attacks for the notes of the Unit 1 - Computer System Security Introduction in the subject of COMPUTER SYSTEM SECURITY
+
+A sample attack is a hypothetical scenario of how a malicious actor could exploit a vulnerability or weakness in a computer system or network to compromise its security and cause harm. Sample attacks can be used to illustrate the types, methods, and impacts of cyberattacks, as well as to test the effectiveness of security measures and defenses.
+
+Some examples of sample attacks are:
+
+- **Denial-of-service (DoS) and distributed denial-of-service (DDoS) attacks**: These attacks aim to disrupt the availability and functionality of a system or service by overwhelming it with a large volume of requests or traffic. For example, a DDoS attack could target a web server and prevent legitimate users from accessing a website .
+- **Man-in-the-middle (MITM) attacks**: These attacks involve intercepting and modifying the communication between two parties without their knowledge or consent. For example, a MITM attack could eavesdrop on the data exchanged between a user and a bank website, or alter the content of the messages to steal or manipulate information .
+- **Phishing attacks**: These attacks involve sending fraudulent emails, texts, or phone calls that appear to be from a trusted source, such as a bank, a government agency, or a company, and tricking the recipients into revealing sensitive information, such as passwords, credit card numbers, or personal details, or clicking on malicious links or attachments that install malware or ransomware on their devices .
+- **Malware attacks**: These attacks involve creating and distributing malicious software or code that can infect, damage, or control a system or device. Malware can have various functions and objectives, such as spying, stealing, encrypting, deleting, or altering data, or hijacking system resources. Some common types of malware are viruses, worms, trojans, spyware, ransomware, and rootkits .
+- **Password sniffing attacks**: These attacks involve capturing and analyzing the network traffic that contains passwords or other authentication credentials, and using them to gain unauthorized access to systems or accounts. For example, a password sniffer could monitor the wireless network of a coffee shop and capture the login information of the customers who use the public Wi-Fi.
+- **System infiltration attacks**: These attacks involve exploiting a vulnerability or a misconfiguration in a system or network to gain access to its resources, data, or functions, and perform malicious actions, such as installing backdoors, creating user accounts, modifying system settings, or executing commands. For example, a system infiltrator could exploit a buffer overflow vulnerability in a web application and execute arbitrary code on the web server .
+- **Website defacement attacks**: These attacks involve altering the appearance or content of a website without the owner's permission, usually to convey a political, social, or ideological message, or to damage the reputation or credibility of the website. For example, a website defacer could replace the homepage of a government website with a propaganda image or a derogatory message .
+
+I'm not sure what topic you are referring to, but I can try to help you find some good mnemonics and learning tricks if you tell me more. Mnemonics and learning tricks can be very helpful for memorizing and recalling information, especially if they are catchy, funny, or meaningful to you. Some examples of mnemonics and learning tricks are:
+
+- Acronyms: using the first letter of each word in a list or phrase to form a new word, such as ROYGBIV for the colors of the rainbow (red, orange, yellow, green, blue, indigo, violet).
+- Acrostics: using the first letter of each word in a list or phrase to form a sentence, such as Every Good Boy Deserves Fudge for the notes on the treble clef (E, G, B, D, F).
+- Rhymes: using words that sound similar to help you remember something, such as In 1492, Columbus sailed the ocean blue.
+- Chunking: breaking down a large amount of information into smaller, more manageable units, such as grouping digits in a phone number or a social security number.
+- Visualization: creating a mental image or a story to help you remember something, such as imagining a giant spider web to remember the parts of a web page (header, footer, sidebar, content, etc.).
+- Association: linking something you want to remember with something you already know, such as remembering that the capital of France is Paris by thinking of the Eiffel Tower or a croissant.
+
+Do you have a specific topic or subject that you want to learn more about? I can help you find some mnemonics and learning tricks for it.😊

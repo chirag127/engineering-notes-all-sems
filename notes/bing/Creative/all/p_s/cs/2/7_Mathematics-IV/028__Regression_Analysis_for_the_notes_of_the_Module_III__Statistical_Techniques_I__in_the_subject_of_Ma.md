@@ -1,0 +1,18 @@
+### Regression Analysis
+
+Regression analysis is a statistical technique that aims to explore the relationship between a dependent variable (also known as the outcome or response variable) and one or more independent variables (also known as the predictors, covariates, explanatory variables or features). Regression analysis can be used to test hypotheses, estimate parameters, and make predictions based on data.
+
+Some of the main types of regression analysis are:
+
+- **Linear regression**: This is the simplest and most widely used form of regression analysis. It assumes that the dependent variable has a linear relationship with the independent variables, and that the errors are normally distributed and independent. Linear regression can be further divided into simple linear regression (when there is only one independent variable) and multiple linear regression (when there are two or more independent variables).
+- **Logistic regression**: This is a type of regression analysis that is used when the dependent variable is binary (i.e., it can take only two values, such as 0 or 1, yes or no, etc.). Logistic regression models the probability of the dependent variable being 1 as a function of the independent variables, using a logistic function. Logistic regression can also be extended to handle multiple categories of the dependent variable, such as multinomial logistic regression and ordinal logistic regression.
+- **Polynomial regression**: This is a type of regression analysis that allows for nonlinear relationships between the dependent variable and the independent variables, by adding higher-order terms (such as squares, cubes, etc.) of the independent variables to the model. Polynomial regression can fit more complex data patterns, but it also runs the risk of overfitting and multicollinearity.
+- **Ridge regression**: This is a type of regression analysis that is used to deal with multicollinearity, which is a problem that occurs when the independent variables are highly correlated with each other. Multicollinearity can cause instability and high variance in the estimates of the regression coefficients. Ridge regression solves this problem by adding a penalty term to the sum of squared errors, which shrinks the coefficients towards zero and reduces their variance.
+- **Lasso regression**: This is another type of regression analysis that is used to deal with multicollinearity, but it differs from ridge regression in that it adds a penalty term to the absolute values of the coefficients, rather than their squares. This has the effect of setting some of the coefficients to exactly zero, which can help with feature selection and model interpretation.
+
+Some possible mnemonics and learning tricks for regression analysis are:
+
+- To remember the difference between linear and logistic regression, think of the word LINE: Linear regression models a continuous outcome, while Logistic regression models a categorical outcome.
+- To remember the difference between ridge and lasso regression, think of the shape of the penalty terms: Ridge regression penalizes the squares of the coefficients, which are round like a ridge, while Lasso regression penalizes the absolute values of the coefficients, which are sharp like a lasso.
+- To remember the formula for the coefficient of determination (R-squared), which measures how well the regression model fits the data, think of the acronym SSR: R-squared is the ratio of the Sum of Squares due to Regression (SSR) to the Total Sum of Squares (SST).
+- To remember the assumptions of linear regression, think of the acronym LINE: The errors are Linear, Independent, Normally distributed, and have Equal variance.

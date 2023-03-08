@@ -1,0 +1,19 @@
+### Dynamic Versus Static Systems
+
+- A dynamic system is one where the workload and the environment are unpredictable and may change over time. A static system is one where the workload and the environment are fixed and known in advance.
+- Dynamic systems require dynamic scheduling, which is the mechanism where thread scheduling is done by the operating system based on any scheduling algorithm implemented in OS level. Dynamic scheduling can adapt to changing conditions and optimize the system performance, but it may incur some overhead and unpredictability. Dynamic scheduling is suitable for soft real-time systems, where deadlines are not strict and missing some of them is acceptable.
+- Static systems require static scheduling, which is the mechanism where thread scheduling is done by the programmer or a compiler based on the analysis of the system characteristics. Static scheduling can guarantee the system correctness and predictability, but it may be inefficient and inflexible. Static scheduling is suitable for hard real-time systems, where deadlines are critical and missing any of them is unacceptable.
+- Static scheduling can be done offline (before the system execution) or online (during the system execution), but it does not depend on the current system state. Dynamic scheduling can only be done online, and it depends on the current system state.
+- Static scheduling can be done globally (for the whole system) or locally (for each processor or core). Dynamic scheduling can also be done globally or locally, but it may also involve centralized (at one site) or distributed (at multiple sites) decision making.
+- Static scheduling can be done using cyclic executive, table-driven, or priority-driven approaches. Dynamic scheduling can be done using rate-monotonic, earliest deadline first, least laxity first, or other dynamic priority algorithms.
+- Static scheduling can be validated using schedulability analysis, simulation, or testing. Dynamic scheduling can be validated using probabilistic analysis, simulation, or testing, but it may not always be possible to guarantee the system correctness.
+
+Some possible mnemonics and learning tricks for the topic are:
+
+- To remember the difference between dynamic and static systems, you can use the acronym DUST: Dynamic systems are Unpredictable and Static systems are known in advance.
+- To remember the difference between dynamic and static scheduling, you can use the acronym DUST: Dynamic scheduling is done by the operating System and adapts to changing conditions, and Static scheduling is done by the programmer or a compiler and is fixed and known in advance.
+- To remember the difference between offline and online static scheduling, you can use the acronym OOF: Offline static scheduling is done before the system execution and Online static scheduling is done during the system execution, but both are Fixed and do not depend on the current system state.
+- To remember the difference between global and local scheduling, you can use the acronym GLAD: Global scheduling is done for the whole system and Local scheduling is done for each processor or core, and both can be done using Dynamic or static scheduling.
+- To remember the difference between centralized and distributed dynamic scheduling, you can use the acronym CADD: Centralized dynamic scheduling is done at one site and Distributed dynamic scheduling is done at multiple sites, and both depend on the current system state.
+- To remember the types of static scheduling approaches, you can use the acronym CTP: Cyclic executive, Table-driven, and Priority-driven.
+- To remember some of the dynamic priority algorithms, you can use the acronym REL: Rate-monotonic, Earliest deadline first, and Least laxity first.

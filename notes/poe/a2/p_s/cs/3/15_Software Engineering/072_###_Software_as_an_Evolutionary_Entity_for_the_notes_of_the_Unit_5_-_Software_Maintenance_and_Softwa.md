@@ -1,0 +1,10 @@
+ Here is the content on ### Congestion control algorithms in cn in markdown format:
+
+### Congestion control algorithms in cn
+
+1. Slow start: When a connection is initialized, it starts by sending one segment. For each acknowledgement received, it increases the congestion window by one. This leads to an exponential increase in the transmission rate. This phase continues until the congestion window reaches the slow start threshold (ssthresh).
+2. Congestion avoidance: Once the congestion window reaches ssthresh, the congestion avoidance phase starts. In this phase, the congestion window is increased linearly (by 1/cwnd for each ack received). This leads to a linear increase in the transmission rate. This phase continues until packet loss is detected.
+3. Fast retransmit: When a packet loss is detected (through 3 duplicate acknowledgements or timeout), the fast retransmit algorithm comes into action. It retransmits the segment which was lost, without waiting for the timeout to occur. Thus, it can detect and recover from losses more quickly. The ssthresh is also halved.
+4. Fast recovery: After fast retransmit, the fast recovery algorithm takes over. It increases the congestion window by 1/cwnd for each ack received (similar to congestion avoidance). This leads to a linear increase in transmission rate and helps in recovering the transmission rate quickly. The fast retransmit and fast recovery algorithms help in quick recovery from losses without drastic reduction in transmission rate.
+
+Diagrams and examples can be included to explain the algorithms in more detail. The advantages of these algorithms are efficient utilization of network bandwidth and faster recovery from losses. The disadvantages are possibility of multiple losses in a window and slower increase in transmission rate in congestion avoidance. These algorithms are used in TCP for efficient congestion control.
