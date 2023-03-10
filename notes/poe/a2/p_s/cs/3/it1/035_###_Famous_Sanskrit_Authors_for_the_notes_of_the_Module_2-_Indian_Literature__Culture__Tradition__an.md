@@ -1,0 +1,8 @@
+ Here is the content in markdown format for the topic ### Famous Sanskrit Authors:
+
+1. Valmiki: Valmiki is considered as the first Sanskrit poet. He is the author of the epic Ramayana which consists of 24,000 shlokas. The Ramayana is one of the two major Sanskrit epics of ancient India, the other being the Mahabharata.
+2. Ved Vyas: Ved Vyas was one of the most revered sages of ancient India. He is credited with compiling the Vedas, writing the Mahabharata and the Puranas. The Bhagavad Gita, a famous scripture and part of the Mahabharata, is also attributed to him. He is considered one of the seven immortal sages in the Hindu tradition.
+3. Kalidasa: Kalidasa was one of the greatest Sanskrit literary figures. He wrote several epics and plays, including the famous epics Raghuvamsha, Kumarasambhava and Ritusamhara, as well as the plays Malavikagnimitram, Vikramorvasiyam, and Abhijnanashakuntalam. His works are known for their poetic portrayal of ancient Indian culture and life.
+4. Panini: Panini was an ancient Sanskrit grammarian who is widely considered as one of the foremost authorities on Sanskrit grammar. He formulated the 3,959 rules of Sanskrit morphology in his text Ashtadhyayi, which defined the structure of the Sanskrit language. Panini's comprehensive and scientific theory of grammar is considered a landmark in linguistic theory.
+
+The above points highlight some of the most famous Sanskrit authors and their major works. Their compositions have had a lasting influence on Indian literature, culture, and traditions. The content can be expanded with more details and examples for exam preparation. Let me know if you would like me to elaborate on any of the points.

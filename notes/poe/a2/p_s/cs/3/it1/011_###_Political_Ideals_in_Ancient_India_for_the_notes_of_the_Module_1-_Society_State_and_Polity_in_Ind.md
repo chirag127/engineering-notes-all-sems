@@ -1,0 +1,11 @@
+ Here is the content in markdown format for the topic ### Political Ideals in Ancient India:
+
+1. Ideal of Dharma: The ideal of Dharma or righteous duty was the most significant political ideal in ancient India. The king was expected to uphold Dharma and ensure that Dharma prevailed in his kingdom. The concept of Dharma included norms of righteous behaviour as well as duties and responsibilities of individuals towards themselves and towards others. The king's duty was considered the most important for upholding Dharma.
+
+2. Ideal of Artha (material well-being): The ideal of Artha or material well-being was also an important political ideal. The king was expected to acquire wealth through righteous means and use it for the material prosperity and welfare of his people. The Artha Shastra written by Kautilya emphasizes the importance of the king's duty to ensure the economic welfare of his people.
+
+3. Ideal of Kama (desire): The ideal of Kama or desire, especially the pursuit of aesthetic pleasures was also recognized as an important political ideal. The king was expected to be a patron of arts and learning. He had to support artists, craftsmen and thinkers. The king had to organize festivals and entertainment for his people. The architectural monuments of ancient India like temples, palaces reflect the patronage of arts and aesthetic sense.
+
+4. Ideal of Moksha (liberation): The ideal of Moksha or liberation was more relevant for individuals rather than the state. However, the king was expected to be righteous and just so that his people can pursue the ideals of Dharma and Moksha. He should not be a hindrance in the spiritual pursuits of his people. Providing security and tranquility to his people was necessary for their spiritual progress.
+
+The study of these ancient Indian political ideals provides important insights into the value system and vision of an ideal state in ancient India. The ideals influenced the duties and responsibilities of the king as well as the expectations that people had from the state.

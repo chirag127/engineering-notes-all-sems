@@ -1,0 +1,12 @@
+ Here is the content in markdown format for the topic ### Theatre for the notes of the Module 5- Cultural Heritage and Performing Arts in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY:
+
+### Theatre
+
+- Theatre is a form of performing art where artists tell a story through acting out roles in front of an audience. It is a collaborative form of fine art that uses live performers, usually actors or actresses, to present the experience of a real or imagined event before a live audience in a specific place.
+- The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance. Elements of art, such as painted scenery and stagecraft such as lighting are used to enhance the physicality, presence and performance of the actors.
+- The specific place of the performance is also named by the word "theatre" as derived from the Ancient Greek θέατρον (théatron, "a place for viewing").
+- Modern theatre includes performances of plays and musical theatre. The history of theatre charts the development of theatre over the past 2,500 years. The origin of theatre is deep in the ritual origins of early human culture.
+- Theatre has evolved from ritual roots into complex plays as part of the Western theatre tradition, starting as early as the Ancient Greeks developing theatre into a mix of performance, dance, and ritual. Indian theatre has a rich and long tradition of over two thousand years.
+- The earliest form of classical Indian theatre was the Sanskrit drama, which flourished between the 2nd century BCE and the 8th century CE. It consisted of dialogue between characters, traditional songs and instrumental music and interpretive dance. It covered religious, mythical and secular themes.
+- India's major classical theatrical traditions are Natya Shastra-based Rasa-oriented performance arts. They include Kutiyattam (Kerala), Nāṭya Kalaṃkāṛi (Tamil Nadu), Yakshagana (Karnataka), and Kathakali (Kerala). Folk theatre forms include Bhavai (Gujarat), Ram Lila (North India), and Terukuttu (Tamil Nadu).
+- Contemporary Indian theatre ranges from realistic, to absurd and experimental plays. It includes productions by numerous amateur drama groups as well as street theatre artists. Popular theatre forms include musicals or 'musicals' which combine theatre and music with popular themes and lavish staging.
