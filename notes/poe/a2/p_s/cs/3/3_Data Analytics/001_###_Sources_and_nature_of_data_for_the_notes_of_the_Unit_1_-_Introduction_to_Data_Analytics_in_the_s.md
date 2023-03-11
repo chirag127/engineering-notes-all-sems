@@ -1,0 +1,14 @@
+ Here is the content in markdown format for the topic ### Sources and nature of data for the notes of the Unit 1 - Introduction to Data Analytics in the subject of Data Analytics:
+
+1.  Public data sources: There are many public data sources available on the internet which can be used for data analytics projects. Some of the popular public data sources are:
+    -   Government data sources: Government organizations like Census department, weather department, transport department, etc. publish a lot of data on their websites which can be downloaded and used for analysis. This data is accurate and reliable but may be limited in attributes or outdated.
+    -   Open datasets repositories: Websites like Kaggle, UCI Machine Learning Repository, etc. host a variety of datasets uploaded by users which can be used for learning and practice. These datasets come from diverse sources and topics but the reliability may be uncertain.
+    -   Web scraping: Data can be scraped from websites and web pages using specialized tools and languages like Python, JavaScript, etc. This data can be unstructured and unreliable and the source website may restrict or block scraping.
+2.  Internal company data: Companies have a wealth of internal data generated from their business activities like sales data, customer data, operational data, etc. This data is very specific to the company and industry and can provide deep insights but is confidential and not publicly available. Appropriate permissions are required to access and use such data.
+3.  Personal data: Individuals can track and store their personal data like health metrics, location data, spending data, etc. using various devices and apps. This data is highly relevant but limited in volume and coverage. Sharing and using someone's personal data also raises serious privacy concerns and consent is necessary.
+
+The nature of data can be:
+
+1.  Structured: Data that is organized in a pre-defined format like database tables, spreadsheets, etc. Examples are customer records, sales data, etc. This is easy to store and analyze but may be limited in attributes.
+2.  Unstructured: Data that is not organized in a pre-defined format like text documents, audio, video, images, etc. Examples are tweets, blog posts, etc. This data can be rich in information but difficult to process and analyze. Special techniques are required to extract insights from unstructured data.
+3.  Semi-structured: Data that is a mix of structured and unstructured formats like JSON, XML, etc. This data is diverse and contains both attributes and measures that can be directly analyzed as well as textual information that requires processing.
