@@ -1,0 +1,11 @@
+ Here is the content in markdown format for the topic ### IoT Examples for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things:
+
+### IoT Examples for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+
+- Smart Home: IoT devices like smart speakers, smart displays, smart thermostats, smart plugs, smart locks, smart lights, etc. can be connected in a home to automate tasks and control the devices. For e.g. adjust thermostat automatically based on presence, turn on lights when entering home, lock doors remotely, get notifications if mail is delivered, etc.
+- Smart City: IoT devices can be deployed in a city to monitor and manage infrastructure and services efficiently. For e. tribe, smart meters to monitor utility usage, smart parking to find available spots, smart traffic lights to monitor traffic, environmental sensors to monitor pollution and weather, smart buses/trains to monitor transit, etc.
+- Smart Agriculture: IoT devices can help monitor crop fields, control irrigation, monitor soil conditions and climate, detect pests or diseases, and increase yield and productivity. For e.g. soil moisture sensors, weather sensors, pest traps, automated irrigation systems, etc.
+- Smart Logistics: IoT devices can be used to track the location and status of products, vehicles or equipment and optimize supply chain management. For e.g. tracking location of vehicles/packages, monitoring temperature of perishable goods, sensing shock/damage to products, automating warehouse operations, etc.
+- Smart Healthcare: IoT devices can enable continuous health monitoring, allow patients to stay independent longer, and help doctors provide better care. For e.g. wearable devices to monitor heart rate/activity, sensors to monitor medication usage/vitals at home, remote monitoring of patients, smart hospital beds, etc.
+
+The above are some key examples of IoT applications. The IoT devices in these applications collect data and connect to the internet to enable automation, monitoring, and management. Various network protocols and cloud/edge computing technologies are utilized to implement IoT solutions.

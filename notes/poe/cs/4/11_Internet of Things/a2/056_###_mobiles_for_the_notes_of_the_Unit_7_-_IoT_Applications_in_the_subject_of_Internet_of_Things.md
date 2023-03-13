@@ -1,0 +1,10 @@
+ Here is the content in markdown format:
+
+### Mobiles for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- Smart phones acting as IoT devices: Smart phones can act as IoT devices and can be connected to the IoT network. They have inbuilt sensors like GPS, accelerometer, gyroscope, microphone, camera, etc which can sense various parameters from the physical world and send the data to the IoT network. For e.g. a smart phone can sense location, movement, sound, images, etc and send this data to the IoT network which can be used for various applications.
+- IoT mobile apps: There are many IoT mobile apps available which can connect the smart phone to the IoT network. These apps get access to the sensors of the smart phone and send the sensor data to the IoT network. For e.g. there are home automation apps which can connect smart phones to smart home devices and control the devices, there are fitness apps which uses the accelerometer sensor to track steps, distance, calories, etc.
+- Beacons and Eddystone: Beacons and Eddystone are protocols which use Bluetooth low energy to provide proximity and location detection using smart phones. Beacons are hardware devices while Eddystone is a protocol specification. By using beacons or Eddystone, the location of a smart phone can be detected and sent to the IoT network which can enable various location based services.
+- NFC in smart phones: Near field communication or NFC is a set of standards for smart phones and other devices to establish radio communication with each other by touching them together or bringing them in close proximity. NFC enabled smart phones can be used for authentication, payment, etc in IoT applications. The NFC sensor in the smart phone sends out the data which can be read by other NFC enabled devices to enable applications like mobile payments.
+
+The above points can be helpful to learn and read from for exams about the use of mobiles as IoT devices and in IoT applications. Let me know if you would like me to elaborate on any of the points or include additional points.

@@ -1,0 +1,10 @@
+ Here is the content in markdown format:
+
+### Overview of IOT supported Hardware platforms such as Arduino for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+
+- Arduino: Arduino is an open-source hardware and software platform used for building digital devices and interactive objects that can sense and control objects in the physical world. Arduino boards are able to read inputs from a variety of sensors and turn them into outputs like activating motors, LEDs, etc. This makes Arduino a popular choice for IoT projects and prototyping.
+- Raspberry Pi: Raspberry Pi is a credit card-sized single-board computer developed in the UK by the Raspberry Pi Foundation to promote teaching of basic computer science in schools and developing countries. It provides an affordable platform for hobbyists to learn programming and build IoT projects. It supports various operating systems including Linux and Windows 10 IoT Core.
+- ESP8266: ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack and MCU capability. It is capable of either hosting an application or offloading all Wi-Fi networking functions from another application processor. This makes it suitable for IoT projects requiring internet connectivity. It can be programmed using SDKs for various languages or using Arduino IDE with an add-on.
+- Intel Edison: Intel Edison is a tiny embedded computing module from Intel. It is a tiny System-on-Chip that runs a Linux operating system and has built-in Wi-Fi and Bluetooth connectivity, making it suitable for wearable and IoT applications. It can be programmed using Python, C/C++, and Node.js. Being from Intel, it provides good performance but at a higher cost than platforms like Arduino and Raspberry Pi.
+
+The above points cover the key highlights of the hardware platforms. Let me know if you would like me to elaborate on any of the points or add more platforms/details. I have not included any mnemonics or learning tricks as you specified to only include them if they are easy to remember. Please let me know if you would like me to modify or add anything in the content.
