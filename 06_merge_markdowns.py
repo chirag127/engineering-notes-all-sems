@@ -6,8 +6,14 @@ import re
 
 def main():
     a = "notes/*/*/*/*/"
-
     files = glob.glob(a, recursive=True)
+
+    "notes/poe/1_se/a2/000_#_Software_Engineering.md"
+
+    a = "notes/poe/*/*/"
+    files = files + glob.glob(a, recursive=True)
+
+
     print(files)
     # return files
 
@@ -32,7 +38,7 @@ def main():
 
         # f = "allnotes/" + folder.replace(folder.split("/")[-1], "") + "/" here the folder is allnotes/notes/bing/1_se/Creative/all/ but we want allnotes/notes/bing/1_se/
 
-        f = "allnotes/" + folder.replace(folder.split("/")[-1], "") 
+        f = "allnotes/" + folder.replace(folder.split("/")[-1], "")
 
 
         print(f)
