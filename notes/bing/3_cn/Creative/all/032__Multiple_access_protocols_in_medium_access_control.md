@@ -1,0 +1,20 @@
+#### Multiple access protocols in medium access control
+
+- Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model  .
+- These protocols allow a number of nodes or users to access a shared network channel, such as a wireless channel or a bus network, without interfering with each other or causing collisions  .
+- The main design criteria for multiple access protocols are efficiency, fairness, reliability, and scalability.
+- Multiple access protocols can be classified into three categories: random access, controlled access, and channelization .
+
+  - Random access protocols: In these protocols, all stations have equal priority and can send data depending on the medium's state (idle or busy). There is no fixed time for sending data and no central controller to coordinate the transmissions. Examples of random access protocols are ALOHA, Carrier Sense Multiple Access (CSMA), CSMA with Collision Avoidance (CSMA/CA), and CSMA with Collision Detection (CSMA/CD) .
+  - Controlled access protocols: In these protocols, the stations have to follow some rules or obtain permission before sending data. There is a central controller or a distributed algorithm that decides which station can access the channel at a given time. Examples of controlled access protocols are Reservation, Polling, and Token Passing .
+  - Channelization protocols: In these protocols, the channel is divided into smaller sub-channels that can be allocated to different stations. The sub-channels can be based on time, frequency, code, or space. Examples of channelization protocols are Time Division Multiple Access (TDMA), Frequency Division Multiple Access (FDMA), Code Division Multiple Access (CDMA), and Space Division Multiple Access (SDMA) .
+
+- Some mnemonics and learning tricks for the multiple access protocols are:
+
+  - ALOHA: ALOHA is a Hawaiian word that means hello and goodbye. It is also an acronym for Additive Links On-line Hawaii Area. ALOHA is a simple random access protocol that does not sense the channel before sending data. It relies on acknowledgments and timeouts to detect and resolve collisions .
+  - CSMA: CSMA stands for Carrier Sense Multiple Access. It is a random access protocol that senses the channel before sending data. If the channel is busy, it waits for a random time and tries again. It can be further classified into three types: 1-persistent, non-persistent, and p-persistent .
+  - CSMA/CA: CSMA/CA stands for Carrier Sense Multiple Access with Collision Avoidance. It is a random access protocol that tries to avoid collisions by using a handshake mechanism. Before sending data, it sends a Request to Send (RTS) frame and waits for a Clear to Send (CTS) frame from the receiver. It is used in wireless networks such as IEEE 802.11 (Wi-Fi) .
+  - CSMA/CD: CSMA/CD stands for Carrier Sense Multiple Access with Collision Detection. It is a random access protocol that tries to detect collisions by monitoring the channel while sending data. If a collision is detected, it stops the transmission and waits for a random time before trying again. It is used in wired networks such as Ethernet .
+  - Reservation: Reservation is a controlled access protocol that uses a reservation frame to reserve the channel for a station. The reservation frame contains a bitmap that indicates which station wants to send data in the next frame. It is used in wireless networks such as IEEE 802.16 (WiMAX) .
+  - Polling: Polling is a controlled access protocol that uses a central controller or a master station to poll the other stations or slaves for their data requests. The master station grants the channel to one slave at a time and waits for its data. It is used in networks such as Bluetooth and USB .
+  - Token Passing: Token Passing is a controlled access protocol that uses a special frame called a token to grant the channel to a station. The token circulates among the stations in a logical ring or a bus. The station that has the token can send data and then passes the token to

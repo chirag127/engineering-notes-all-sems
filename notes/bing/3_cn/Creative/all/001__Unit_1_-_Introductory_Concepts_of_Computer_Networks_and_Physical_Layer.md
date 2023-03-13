@@ -1,0 +1,41 @@
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+
+- A computer network is any group of interconnected computing devices capable of sending or receiving data.
+- A computing device isn't just a computer—it's any device that can run a program, such as a tablet, phone, or smart sensor.
+- Computer networks can be classified based on their size, topology, architecture, and protocols.
+- Some common types of computer networks are:
+  - Local Area Network (LAN): A network that connects devices within a small geographic area, such as a home, office, or school.
+  - Wide Area Network (WAN): A network that connects devices across a large geographic area, such as a city, country, or the world.
+  - Metropolitan Area Network (MAN): A network that connects devices within a metropolitan area, such as a city or a campus.
+  - Personal Area Network (PAN): A network that connects devices within a personal range, such as a Bluetooth headset or a smartwatch.
+  - Wireless Network: A network that uses wireless technologies, such as radio waves, infrared, or satellite, to transmit data.
+- The Open Systems Interconnection (OSI) model is a conceptual framework that defines the functions and interactions of seven layers of a network system.
+- The seven layers of the OSI model are:
+  - Physical Layer: The lowest layer of the OSI model that deals with the actual physical connection between the devices, such as the hardware equipment, cabling, wiring, frequencies, pulses, etc .
+  - Data Link Layer: The layer that provides reliable transmission of data frames between nodes connected by the physical layer, such as error detection, correction, and flow control.
+  - Network Layer: The layer that provides routing and switching of data packets between different networks, such as addressing, congestion control, and fragmentation.
+  - Transport Layer: The layer that provides end-to-end communication between applications, such as reliability, segmentation, and multiplexing.
+  - Session Layer: The layer that establishes, maintains, and terminates sessions between applications, such as authentication, synchronization, and dialog control.
+  - Presentation Layer: The layer that provides data representation and encryption for the applications, such as compression, encryption, and translation.
+  - Application Layer: The highest layer of the OSI model that provides services and protocols for the applications, such as HTTP, FTP, SMTP, etc.
+- The physical layer is responsible for movements of individual bits from one hop (node) to the next.
+- The physical layer coordinates the functions required to carry a bit stream over a physical medium.
+- The physical layer deals with the mechanical and electrical specifications of the interface and the transmission medium.
+- The physical layer provides its services to the data link layer.
+- Some of the functions of the physical layer are:
+  - Encoding: The process of converting digital data into electrical signals that can be transmitted over the medium.
+  - Modulation: The process of varying the amplitude, frequency, or phase of a carrier signal according to the data signal.
+  - Multiplexing: The process of combining multiple data signals into one composite signal that can be transmitted over the medium.
+  - Transmission Mode: The mode of data transmission over the medium, such as simplex, half-duplex, or full-duplex.
+  - Transmission Rate: The rate at which data is transmitted over the medium, measured in bits per second (bps).
+  - Transmission Media: The physical medium that carries the data signal, such as twisted pair, coaxial cable, optical fiber, or wireless.
+- Some of the advantages of the physical layer are:
+  - It enables data communication between different devices over a network.
+  - It supports various types of transmission media and modes.
+  - It provides the basic infrastructure for data transmission.
+- Some of the disadvantages of the physical layer are:
+  - It does not provide any error detection or correction.
+  - It does not provide any security or encryption.
+  - It does not guarantee the delivery or quality of service of the data.
+- Some of the examples of the physical layer are:
+  - Ethernet: A standard for wired LANs that uses twisted pair or coax

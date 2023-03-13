@@ -1,0 +1,23 @@
+#### Corrective Maintenance (CM) of Software
+
+- Corrective maintenance is the process of fixing errors or defects in a software system after it has been delivered to the users.
+- Corrective maintenance can be triggered by user feedback, bug reports, system failures, or testing results.
+- Corrective maintenance can be classified into four types: emergency, perfective, adaptive, and preventive.
+  - Emergency maintenance is done to restore the normal functioning of the system as soon as possible after a critical failure or error occurs.
+  - Perfective maintenance is done to improve the performance, usability, or functionality of the system according to the user requirements or expectations.
+  - Adaptive maintenance is done to modify the system to cope with changes in the environment, such as new hardware, software, or regulations.
+  - Preventive maintenance is done to anticipate and avoid potential errors or failures in the future by improving the quality, reliability, or maintainability of the system.
+- Corrective maintenance can be performed using different approaches, such as debugging, patching, refactoring, or rewriting.
+  - Debugging is the process of locating and removing errors or defects in the source code or executable code of the system.
+  - Patching is the process of applying a small modification or update to the system to fix a specific error or defect without changing the overall functionality or structure of the system.
+  - Refactoring is the process of improving the internal structure or design of the system without changing its external behavior or functionality.
+  - Rewriting is the process of creating a new version of the system from scratch or using a different technology or platform.
+- Corrective maintenance can have various benefits and challenges for the software developers and users, such as:
+  - Benefits:
+    - It can increase the user satisfaction and loyalty by providing a reliable and functional system.
+    - It can reduce the operational costs and risks by preventing or minimizing the impact of errors or failures.
+    - It can enhance the competitive advantage and market share by offering a high-quality and up-to-date system.
+  - Challenges:
+    - It can be costly and time-consuming to identify, analyze, and fix the errors or defects in the system.
+    - It can introduce new errors or defects or affect the existing functionality or performance of the system.
+    - It can require additional testing, documentation, or training to ensure the correctness and usability of the system.

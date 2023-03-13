@@ -1,0 +1,23 @@
+#### Function Oriented Design in Software Design
+
+- Function Oriented Design (FOD) is a method to software design where the model is decomposed into a set of interacting units or modules where each unit or module has a clearly defined function .
+- FOD is based on the idea of top-down design, where the system is first described at a high level of abstraction, and then refined into lower levels of details .
+- FOD follows a generic procedure:
+  - Start with a high level description of what the software/program does.
+  - Identify the main functions or processes that the software/program performs.
+  - Draw a data flow diagram (DFD) to show the flow of information between the functions or processes.
+  - Define the data items used in the DFD using a data dictionary.
+  - Refine the DFD into more detailed levels until the functions or processes are simple enough to be implemented as modules or subroutines.
+  - Assign a structure chart to show the hierarchical relationship and control flow between the modules or subroutines.
+- FOD uses some design notations :
+  - Data Flow Diagram (DFD): A graphical representation of the flow of data through a system. It shows the sources and destinations of data, the processes that transform data, and the data stores that hold data.
+  - Data Dictionary: A repository of information about the data items used in the DFD. It defines the name, type, size, format, and description of each data item.
+  - Structure Chart: A graphical representation of the modular structure of a system. It shows the modules or subroutines that make up the system, the inputs and outputs of each module, and the control flow between them.
+- FOD has some advantages :
+  - It is easy to understand and communicate the design using graphical notations.
+  - It supports top-down design and modularization, which facilitate the development and maintenance of the software.
+  - It focuses on the functionality of the system, rather than the implementation details.
+- FOD has some disadvantages :
+  - It does not consider the data structure and data abstraction, which are important aspects of software design.
+  - It does not support object-oriented concepts, such as encapsulation, inheritance, and polymorphism, which are widely used in modern software development.
+  - It may lead to redundant or inefficient data processing, as the same data may be passed through multiple functions or processes.

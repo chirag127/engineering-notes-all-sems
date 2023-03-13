@@ -1,0 +1,26 @@
+### Testing for Performance in Software Testing
+
+- Testing for performance is a type of software testing that aims to evaluate the quality attributes of a system related to speed, responsiveness, scalability, reliability, and resource usage under a given workload.
+- Testing for performance can help to identify and eliminate performance bottlenecks, optimize the system configuration, ensure the system meets the performance requirements and expectations of the users and stakeholders, and improve the user satisfaction and business outcomes.
+- Testing for performance can be classified into different types, such as:
+  - **Load testing**: testing the system behavior and performance under normal and peak load conditions.
+  - **Stress testing**: testing the system behavior and performance under extreme load conditions, beyond the system capacity, to determine the breaking point and the failure modes.
+  - **Endurance testing**: testing the system behavior and performance under a sustained load for a long duration, to check for memory leaks, resource exhaustion, and degradation over time.
+  - **Spike testing**: testing the system behavior and performance under sudden and unexpected bursts of load, to check for the system stability and recovery.
+  - **Volume testing**: testing the system behavior and performance under a large volume of data, to check for the data handling capacity and efficiency.
+  - **Scalability testing**: testing the system behavior and performance under varying load and resource conditions, to check for the system scalability and elasticity.
+- Testing for performance can be conducted at different levels of the system, such as:
+  - **Component level**: testing the performance of individual components or modules of the system, such as functions, classes, APIs, etc.
+  - **Integration level**: testing the performance of the interactions and interfaces between different components or modules of the system, such as services, subsystems, etc.
+  - **System level**: testing the performance of the entire system as a whole, including all the components, modules, integrations, and external dependencies, such as databases, networks, etc.
+  - **User level**: testing the performance of the system from the user perspective, such as the response time, throughput, latency, etc.
+- Testing for performance can be performed using different tools and techniques, such as:
+  - **Performance testing tools**: tools that can generate, simulate, and monitor the load on the system, such as JMeter, LoadRunner, Gatling, etc.
+  - **Performance monitoring tools**: tools that can measure, collect, and analyze the performance metrics and indicators of the system, such as CPU, memory, disk, network, etc., such as Prometheus, Grafana, New Relic, etc.
+  - **Performance profiling tools**: tools that can identify and diagnose the performance issues and bottlenecks of the system, such as code execution, memory allocation, database queries, etc., such as Visual Studio, Eclipse, Profiler, etc.
+  - **Performance modeling tools**: tools that can create and validate the performance models and predictions of the system, based on the system architecture, design, and specifications, such as Simulink, MATLAB, etc.
+- Testing for performance can follow different approaches and strategies, such as:
+  - **Performance testing in the lab**: testing the system performance in a controlled and isolated environment, using simulated or synthetic load and data, to verify the system performance against the predefined criteria and specifications.
+  - **Performance testing in production**: testing the system performance in the real and live environment, using actual or realistic load and data, to validate the system performance against the actual user behavior and expectations.
+  - **Performance testing in the cloud**: testing the system performance in a scalable and elastic environment, using cloud-based resources and services, to evaluate the system performance under different scenarios and configurations.
+  - **Performance testing in the agile**: testing the system performance in an iterative and incremental manner, using short and frequent cycles of testing and feedback, to ensure the system performance is aligned with the changing requirements and expectations.

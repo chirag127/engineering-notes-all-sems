@@ -1,0 +1,91 @@
+# INTELLIGENT DATABASE SYSTEM
+## Unit 1 - Introduction to IDBS
+### Informal definition of the domain for the notes of the Unit 1 - Introduction to IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### General characteristics of IDBSs for the notes of the Unit 1 - Introduction to IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Data models and the relational data model for the notes of the Unit 1 - Introduction to IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### A taxonomy of intelligent database systems for the notes of the Unit 1 - Introduction to IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Guidelines for using intelligent database systems for the notes of the Unit 1 - Introduction to IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+## Unit 2 - Semantic Data Models
+### Nested and semantic data models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Introduction for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### The nested relational model for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Semantic models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Hyper-semantic data models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Object-oriented approaches to semantic data modeling for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Objectoriented database systems for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Basic concepts of a core object-oriented data model for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Comparison with other data models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Query languages and query processing for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Operational aspects for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Systems for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### The ODMG standard for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### The object-relational data model for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Java and databases for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Conclusions for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Active database systems for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Basic concepts for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Issues for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Architectures for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Research relational prototypes—the Starburst Rule System for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+### Commercial relational approaches for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+## Unit 3 - Knowledge-Based Systems- AI Ccontext
+### Characteristics and classification of the knowledge-based systems for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Introduction for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### The resolution principle for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Inference by inheritance for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Conclusion for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Deductive database systems for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Basic concepts for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### DATALOG language for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Deductive database systems and logic programming systems—differences for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Architectural approaches for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Research prototypes for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Updates in deductive databases for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Integration of deductive database and object database technologies for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Constraint databases for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+### Conclusions for the notes of the Unit 3 - Knowledge-Based Systems- AI Ccontext in the subject of INTELLIGENT DATABASE SYSTEM
+## Unit 4 - Advanced Knowledge-Based Systems
+### Introduction for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Architectural solutions for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### The 'general bridge' solution for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Extending a KBS with components proper to a DBMS for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### The 'tight coupling' approach for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Conclusion for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Advanced solutions for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Introduction for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### A 'knowledge level' approach to the interaction with an IAS- TELOS for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### a language for implementing very large 'integral approach' systems for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### The CYC project for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Other projects based on a 'conceptual representation' approach for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+### Lexical approaches to the construction of large KBs for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+## Unit 5 - Applications in IDBS
+### Introduction for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Temporal databases for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Basic concepts for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Temporal data models for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Temporal query languages for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Ontologies for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Ontology theoretical foundations for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Environments for building ontologies for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Structured, semi-structured and unstructured data for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Multimedia database for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Semistructured data for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Mediators for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Motivation for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Architecture for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Application of mediators to heterogeneous systems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Proposals for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Multi-Agents systems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Main issues in designing a multiagent system for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Open problems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Internet indexing and retrieval for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Search engines or meta-searchers for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Internet spiders for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Data mining for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Data mining tasks for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Data mining tools for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Medical and legal information systems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Medical information systems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Legal information systems for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+### Conclusions for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM

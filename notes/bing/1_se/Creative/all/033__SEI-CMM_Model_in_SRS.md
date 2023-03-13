@@ -1,0 +1,23 @@
+### SEI-CMM Model in SRS
+
+- SEI stands for Software Engineering Institute, a research center at Carnegie Mellon University, funded by the US Department of Defense.
+- CMM stands for Capability Maturity Model, a methodology to assess and improve the software development process of an organization .
+- SRS stands for Software Requirements Specification, a document that describes the functional and non-functional requirements of a software system.
+- The SEI-CMM model can be applied to the SRS process to evaluate its maturity level and identify the areas of improvement.
+- The SEI-CMM model defines five levels of maturity for any software process, from level 1 (initial) to level 5 (optimizing) :
+  - Level 1: Initial. The process is ad hoc, chaotic, and unpredictable. There is no standard or consistent way of developing the SRS. The quality and completeness of the SRS depend on the individual skills and efforts of the developers and stakeholders. There is no measurement or control of the SRS process.
+  - Level 2: Repeatable. The process is disciplined and managed. There are some basic policies and procedures for developing the SRS, such as project planning, requirements management, configuration management, and quality assurance. The SRS process is documented and followed, but not necessarily tailored to each project. The SRS process can be repeated for similar projects with similar results.
+  - Level 3: Defined. The process is standardized and consistent. There are well-defined and comprehensive standards and guidelines for developing the SRS, such as templates, checklists, reviews, and verification and validation techniques. The SRS process is tailored to each project based on the specific needs and characteristics of the project. The SRS process is measured and evaluated for its effectiveness and efficiency.
+  - Level 4: Managed. The process is quantitatively controlled and improved. There are quantitative goals and metrics for the SRS process, such as quality, cost, schedule, and customer satisfaction. The SRS process is monitored and analyzed using statistical and other techniques to identify and eliminate the root causes of defects and problems. The SRS process is continuously improved based on the feedback and data collected.
+  - Level 5: Optimizing. The process is continuously optimized and innovated. There are proactive and preventive measures to anticipate and avoid future defects and problems in the SRS process. The SRS process is constantly updated and refined based on the best practices and new technologies in the industry. The SRS process is aligned with the strategic goals and vision of the organization.
+
+- A mnemonic to remember the five levels of the SEI-CMM model is **I Really Don't Make Out**, where each word corresponds to the first letter of each level (Initial, Repeatable, Defined, Managed, Optimizing).
+- An example of applying the SEI-CMM model to the SRS process is shown in the table below:
+
+| Level | SRS Process Example |
+| --- | --- |
+| 1 | The SRS is written by the developers based on their own understanding and interpretation of the customer's needs. There is no formal review or validation of the SRS. The SRS is often incomplete, inconsistent, ambiguous, and inaccurate. The SRS is frequently changed without proper documentation or communication. |
+| 2 | The SRS is written by the developers following a standard template and format. There is a basic review and approval process for the SRS. The SRS is managed using a configuration management tool. The SRS is updated and communicated to the stakeholders whenever there is a change request. |
+| 3 | The SRS is written by the developers following a detailed and customized guideline for each project. There is a rigorous review and validation process for the SRS, involving multiple stakeholders and experts. The SRS is verified and validated using various techniques, such as prototyping, testing, inspection, and analysis. The SRS is traceable to the project objectives and requirements. |
+| 4 | The SRS is written by the developers following a quantifiable and measurable goal for each project. There is a statistical and analytical process for the SRS, involving data collection and analysis. The SRS is evaluated and improved using various metrics, such as defect density, defect removal efficiency, customer satisfaction, and cost-benefit analysis. The SRS is optimized to meet the quality and performance standards of the project. |
+| 5 | The SRS is written by the developers following a proactive and innovative approach for each project. There is a continuous improvement and

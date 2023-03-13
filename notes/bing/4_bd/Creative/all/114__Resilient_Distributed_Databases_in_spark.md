@@ -1,0 +1,28 @@
+#### Resilient Distributed Databases in spark
+
+- Resilient Distributed Databases (RDDs) are the primary data structure in Spark   .
+- RDDs are immutable distributed collections of objects that can be operated on in parallel .
+- RDDs can contain any type of Python, Java, or Scala objects, including user-defined classes.
+- Each dataset in RDD is divided into logical partitions, which may be computed on different nodes of the cluster .
+- RDDs are reliable and memory-efficient when it comes to parallel processing.
+- RDDs support two types of operations: transformations and actions.
+  - Transformations create a new RDD from an existing one, such as map, filter, join, etc.
+  - Actions return a value to the driver program after running a computation on the RDD, such as count, collect, save, etc.
+- RDDs are lazy evaluated, meaning that they are only computed when an action is performed on them .
+- RDDs are fault-tolerant, meaning that they can recover from failures by using lineage information .
+  - Lineage is the sequence of transformations that were applied to create an RDD.
+  - Spark can recompute the lost partitions of an RDD by using the lineage information.
+- RDDs can be created from various sources, such as external files, parallelized collections, or other RDDs.
+- RDDs can be cached or persisted in memory or disk for faster access.
+- RDDs can be controlled by two parameters: persistence level and partitioning scheme.
+  - Persistence level determines how and where the RDD is stored, such as MEMORY_ONLY, DISK_ONLY, MEMORY_AND_DISK, etc.
+  - Partitioning scheme determines how the RDD is distributed across the cluster, such as HashPartitioner, RangePartitioner, etc.
+- RDDs are the primary user-facing API in Spark since its inception, but they have some limitations, such as:
+  - RDDs are low-level and verbose, requiring users to specify how to do things instead of what to do.
+  - RDDs do not support schema inference, meaning that users have to manually define the schema of the data.
+  - RDDs do not support complex operations, such as SQL queries, machine learning algorithms, graph processing, etc.
+- To overcome these limitations, Spark introduced higher-level APIs, such as DataFrames, Datasets, and Structured Streaming, which are built on top of RDDs.
+- However, RDDs are still useful for some scenarios, such as:
+  - When the data is unstructured or semi-structured, such as text files, JSON files, etc.
+  - When the data processing requires fine-grained control over the partitioning and caching.
+  - When the data processing requires custom or complex transformations that are not supported by the higher-level APIs.

@@ -1,0 +1,24 @@
+#### Classes and objects in Scala
+
+- A class in Scala is a blueprint for creating objects. It defines the state and behavior of the objects of that class.
+- A class can have fields, methods, constructors, and nested classes or objects.
+- A class can also inherit from another class or trait, or implement an interface.
+- A class can be defined using the `class` keyword, followed by the name of the class and an optional parameter list.
+- For example, `class Person(name: String, age: Int)` defines a class named `Person` with two parameters: `name` and `age`.
+- A class can also have a body, enclosed by curly braces, where the fields and methods of the class are defined.
+- For example, `class Person(name: String, age: Int) { val greeting = s"Hello, I am $name and I am $age years old." def sayHello() = println(greeting) }` defines a class named `Person` with two parameters, a field named `greeting`, and a method named `sayHello`.
+- An object in Scala is an instance of a class. It can be created by using the `new` keyword, followed by the name of the class and an optional argument list.
+- For example, `val alice = new Person("Alice", 25)` creates an object named `alice` of the class `Person`, with the arguments `"Alice"` and `25`.
+- An object can access the fields and methods of its class by using the dot notation.
+- For example, `alice.sayHello()` invokes the `sayHello` method of the `alice` object, which prints `"Hello, I am Alice and I am 25 years old."`.
+- An object can also be defined without a corresponding class, using the `object` keyword. Such an object is called a singleton object, as there can be only one instance of it in the program.
+- A singleton object can have fields, methods, and nested classes or objects, but it cannot have parameters or inherit from another class or trait.
+- A singleton object can be used to define constants, utility functions, or entry points for the program.
+- For example, `object Math { val PI = 3.14 def square(x: Int) = x * x }` defines a singleton object named `Math`, with a constant named `PI` and a function named `square`.
+- A singleton object can be accessed by using its name directly, without the `new` keyword.
+- For example, `Math.PI` returns the value of the constant `PI`, and `Math.square(5)` returns the value of `25`.
+- A singleton object can also have the same name as a class, in which case it is called a companion object. A companion object can access the private members of its companion class, and vice versa.
+- A companion object can be used to define factory methods, apply methods, or implicit conversions for its companion class.
+- For example, `class Person(name: String, age: Int) { override def toString = s"Person($name, $age)" } object Person { def apply(name: String, age: Int) = new Person(name, age) }` defines a class named `Person` and a companion object named `Person`, with an `apply` method that creates a new `Person` object.
+- A companion object can be used to create objects of its companion class without the `new` keyword, by using the `apply` method implicitly.
+- For example, `val bob = Person("Bob", 30)` creates an object named `bob` of the class `Person`, by invoking the `apply` method of the `Person` object.

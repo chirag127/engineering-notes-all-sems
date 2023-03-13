@@ -1,0 +1,21 @@
+#### Layering principles with reference to Network Architecture in Computer Networks
+
+- Layering is a mechanism that divides a complex system into smaller and manageable parts, called layers, that can communicate with each other through well-defined interfaces.
+- Layering allows for modularity, abstraction, encapsulation, and interoperability of network components and protocols.
+- Layering also facilitates the design, implementation, testing, and maintenance of network systems, as well as the development of new standards and technologies.
+- One of the most widely used models of layered network architecture is the Open Systems Interconnection (OSI) model, which consists of seven layers: physical, data link, network, transport, session, presentation, and application .
+- The principles that were applied to arrive at the seven layers of the OSI model can be briefly summarized as follows:
+  - A layer should be created where a different abstraction is needed.
+  - Each layer should perform a well-defined function.
+  - The function of each layer should be chosen with an eye toward defining internationally standardized protocols.
+  - The layer boundaries should be chosen to minimize the information flow across the interfaces.
+  - The number of layers should be large enough that distinct functions need not be thrown together in the same layer out of necessity, and small enough that the architecture does not become unwieldy.
+- The main functions and examples of protocols for each layer of the OSI model are:
+  - Physical: This layer defines the electrical, mechanical, and procedural characteristics of the physical medium that carries the data signals. Examples of physical layer protocols are Ethernet, RS-232, and USB.
+  - Data link: This layer provides reliable and error-free transmission of data frames between adjacent nodes on the same physical link. Examples of data link layer protocols are HDLC, PPP, and MAC.
+  - Network: This layer provides routing and addressing of data packets across different networks or subnets. Examples of network layer protocols are IP, ICMP, and ARP.
+  - Transport: This layer ensures complete and reliable delivery of data segments between end-to-end applications. Examples of transport layer protocols are TCP, UDP, and SCTP.
+  - Session: This layer establishes, maintains, and terminates sessions between applications on different hosts. Examples of session layer protocols are RPC, NFS, and SMB.
+  - Presentation: This layer provides data representation, encryption, compression, and translation services for the application layer. Examples of presentation layer protocols are SSL, TLS, and MIME.
+  - Application: This layer provides the interface and functionality for user applications and network services. Examples of application layer protocols are HTTP, FTP, and SMTP.
+- A possible mnemonic to remember the seven layers of the OSI model from bottom to top is "Please Do Not Throw Sausage Pizza Away" or "All People Seem To Need Data Processing".

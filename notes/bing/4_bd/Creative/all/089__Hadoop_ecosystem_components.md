@@ -1,0 +1,23 @@
+#### Hadoop ecosystem components
+
+Hadoop ecosystem is a collection of software components and tools that are used to process, store, analyze, and manage large amounts of data on a distributed system. The Hadoop ecosystem consists of four main layers: data storage, data processing, data access, and data management. Some of the most common components of the Hadoop ecosystem are:
+
+- **HDFS**: Hadoop Distributed File System is the backbone of Hadoop that runs on Java language and stores data in Hadoop applications. It is a distributed file system that splits the incoming data into blocks and distributes them across the cluster nodes. It has two components: NameNode and DataNode. NameNode is the master node that manages the metadata and the namespace of the file system. DataNode is the slave node that stores the actual data blocks and communicates with the NameNode. HDFS provides high availability, fault tolerance, scalability, and reliability for data storage.
+
+- **MapReduce**: MapReduce is a programming model and a framework for processing large-scale data sets in parallel. It consists of two phases: Map and Reduce. Map phase takes the input data and transforms it into key-value pairs. Reduce phase takes the output of the Map phase and aggregates the values based on the keys. MapReduce provides distributed computation, load balancing, fault tolerance, and scalability for data processing.
+
+- **YARN**: Yet Another Resource Negotiator is a resource management layer that allocates the resources (CPU, memory, disk, network) to the applications running on the cluster. It has two components: ResourceManager and NodeManager. ResourceManager is the master node that manages the cluster resources and schedules the applications. NodeManager is the slave node that monitors the resource usage and reports to the ResourceManager. YARN provides efficient resource utilization, dynamic resource allocation, and application isolation for data processing.
+
+- **Hive**: Hive is a data warehouse system that provides a SQL-like interface for querying and analyzing large data sets stored in HDFS. It uses a language called HiveQL (HQL) that is similar to SQL. Hive converts the HQL queries into MapReduce jobs and executes them on the cluster. Hive provides data summarization, query optimization, and data analysis for data access.
+
+- **Pig**: Pig is a data flow language and a platform for analyzing large data sets stored in HDFS. It uses a language called Pig Latin that is similar to scripting languages. Pig converts the Pig Latin scripts into MapReduce jobs and executes them on the cluster. Pig provides data transformation, data cleansing, and data manipulation for data access.
+
+- **Spark**: Spark is a fast and general-purpose engine for large-scale data processing. It supports batch processing, stream processing, machine learning, graph processing, and SQL queries. It uses a data structure called Resilient Distributed Dataset (RDD) that is a distributed collection of data elements. Spark can run on Hadoop, Mesos, Kubernetes, or standalone clusters. Spark provides high performance, in-memory processing, and rich APIs for data processing.
+
+- **HBase**: HBase is a distributed and scalable NoSQL database that stores data in HDFS. It is a column-oriented database that supports random read/write access, versioning, and compression. It uses a data model called key-value store that maps a unique key to a value. HBase provides low latency, high throughput, and consistency for data storage.
+
+- **Sqoop**: Sqoop is a tool that transfers data between Hadoop and relational databases. It uses a command-line interface that allows users to specify the source and destination of the data transfer. Sqoop can import data from relational databases to HDFS, Hive, or HBase, and export data from HDFS, Hive, or HBase to relational databases. Sqoop provides data integration, data migration, and data ingestion for data management.
+
+- **Flume**: Flume is a tool that collects, aggregates, and moves large amounts of streaming data from various sources to HDFS, HBase, or Spark. It uses a data flow model that consists of three components: Source, Channel, and Sink. Source is the component that receives the data from the data source. Channel is the component that buffers the data between the Source and the Sink. Sink is the component that delivers the data to the destination. Flume provides data collection, data ingestion, and data transport for data management.
+
+- **Oozie**: Oozie is a workflow scheduler that coordinates and executes the Hadoop jobs. It uses a XML file that defines the workflow of the jobs, their dependencies, and their triggers. Oozie can run MapReduce, Pig, Hive, Spark, Sqoop, and Flume jobs.

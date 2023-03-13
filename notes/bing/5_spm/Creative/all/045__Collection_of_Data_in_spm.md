@@ -1,0 +1,30 @@
+### Collection of Data in spm
+
+- Collection of data is the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, and evaluate outcomes.
+- Data can be collected from primary or secondary sources.
+- Primary data is the data that is collected directly from the original source for the purpose of a specific research study. Examples of primary data are surveys, interviews, observations, experiments, etc.
+- Secondary data is the data that is collected from other sources that have already been published or processed for some other purpose. Examples of secondary data are books, journals, reports, websites, etc.
+- The advantages of primary data are:
+  - It is more accurate and reliable as it is collected by the researcher himself/herself.
+  - It is more relevant and specific to the research problem and objectives.
+  - It is more timely and up-to-date as it reflects the current situation.
+- The disadvantages of primary data are:
+  - It is more costly and time-consuming as it involves designing and conducting the data collection process.
+  - It is more difficult and complex as it requires specialized skills and techniques.
+  - It is more prone to errors and biases as it depends on the quality and validity of the data collection instruments and methods.
+- The advantages of secondary data are:
+  - It is more economical and convenient as it is readily available and accessible.
+  - It is more comprehensive and extensive as it covers a large scope and variety of data.
+  - It is more objective and credible as it is collected and verified by experts and authorities.
+- The disadvantages of secondary data are:
+  - It is less accurate and reliable as it may be outdated, incomplete, or inaccurate.
+  - It is less relevant and specific as it may not suit the research problem and objectives.
+  - It is less flexible and adaptable as it may not fit the data analysis and interpretation needs of the researcher.
+- The steps involved in the collection of data are:
+  - Define the research problem and objectives.
+  - Identify the data sources and types.
+  - Select the data collection method and instrument.
+  - Design the data collection plan and procedure.
+  - Execute the data collection process.
+  - Validate and verify the data collected.
+  - Prepare the data for analysis and interpretation.

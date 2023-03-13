@@ -1,0 +1,22 @@
+### Socio religious reform movement of 19th century in India
+
+- The socio religious reform movement of 19th century in India was a wave of reforming activities that aimed to improve the social, religious and cultural conditions of the Indian society.
+- The main causes of the movement were:
+  - The spread of western education and liberal ideas that exposed the Indians to the concepts of democracy, human rights, rationalism, nationalism and scientific temper.
+  - The contact with the British rule and culture that made the Indians aware of the political, economic and social exploitation and oppression by the colonial power.
+  - The influence of the Christian missionaries and the Islamic revivalists that challenged the Hindu orthodoxy and superstitions and provoked a defensive response from the Hindu reformers.
+  - The emergence of a new middle class of educated, urban and professional Indians who were dissatisfied with the traditional social and religious norms and wanted to modernize and reform the society.
+- The main types of the movement were:
+  - The Hindu reform movements that aimed to reform the Hindu religion and society by removing the evils of caste system, untouchability, child marriage, sati, polygamy, idolatry, superstition and ritualism and promoting the ideals of monotheism, equality, education, social service and nationalism. Some of the prominent Hindu reform movements were:
+    - The Brahmo Samaj founded by Raja Ram Mohan Roy in 1828 that advocated the worship of one God, opposed idolatry, caste system, child marriage and sati and supported women's education and widow remarriage.
+    - The Arya Samaj founded by Swami Dayanand Saraswati in 1875 that propagated the doctrine of "back to the Vedas" and rejected the later Hindu scriptures, rituals, priesthood and caste system. It also encouraged the dissemination of western scientific knowledge and social service.
+    - The Prarthana Samaj founded by Atmaram Pandurang in 1867 that followed the Brahmo Samaj's principles of monotheism, rationalism and social reform and also worked for the upliftment of the depressed classes, women and the poor.
+    - The Ramakrishna Mission founded by Swami Vivekananda in 1897 that preached the message of Vedanta and universal brotherhood and engaged in various humanitarian and educational activities.
+  - The Muslim reform movements that aimed to reform the Muslim religion and society by purifying the Islamic faith from the corruptions of the medieval period, reviving the Islamic learning and culture, and fostering a sense of Muslim identity and solidarity. Some of the prominent Muslim reform movements were:
+    - The Wahabi movement led by Syed Ahmed Barelvi in the early 19th century that sought to restore the pure and original form of Islam and opposed the British rule, the Hindu influences and the Sufi practices.
+    - The Aligarh movement led by Sir Syed Ahmed Khan in the late 19th century that aimed to modernize the Muslim education and culture by establishing the Muhammadan Anglo-Oriental College (later Aligarh Muslim University) and promoting the western scientific and liberal education among the Muslims.
+    - The Deoband movement founded by Maulana Muhammad Qasim Nanautawi and Maulana Rashid Ahmed Gangohi in 1866 that focused on the revival of the Islamic theology and jurisprudence and the training of the Muslim religious scholars (ulama) and preachers (muballighin).
+    - The Ahmadiyya movement founded by Mirza Ghulam Ahmad in 1889 that claimed to be the true followers of Islam and the messiah of the latter days and propagated the peaceful and rational interpretation of Islam and the harmony of all religions.
+  - The Sikh reform movements that aimed to reform the Sikh religion and society by restoring the purity and originality of the Sikh faith and identity, removing the Hindu influences and practices, and strengthening the Sikh community and institutions. Some of the prominent Sikh reform movements were:
+    - The Singh Sabha movement founded by Khem Singh Bedi and Thakur Singh Sandhanwalia in 1873 that worked for the revival of the Sikh scriptures, literature, history and culture and the reform of the Sikh religious and educational institutions.
+    - The Akali movement led by Master Tara Singh and Baba Kharak Singh in the early 20th century that fought for the liberation of the Sikh shrines (gurdwaras) from the corrupt and hereditary mahants (priests) and the establishment of the Shiromani Gurdwara Prabandhak Committee (SGPC) and the Shiromani

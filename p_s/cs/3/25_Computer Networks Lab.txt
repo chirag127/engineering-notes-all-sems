@@ -1,0 +1,30 @@
+## Experiment 1 - Implementation of Stop and Wait Protocol and Sliding Window Protocol
+### Experiment 1.1 - Implementation of Stop and Wait Protocol
+### Experiment 1.2 - Implementation of Sliding Window Protocol
+## Experiment 2 - Study of Socket Programming and Client – Server model
+### Experiment 2.1 - Study of Socket Programming
+### Experiment 2.2 - Study of Client – Server model
+## Experiment 3 - Write a code simulating ARP /RARP protocols
+## Experiment 4 - Write a code simulating PING and TRACEROUTE commands
+## Experiment 5 - Create a socket for HTTP for web page upload and download
+## Experiment 6 - Write a program to implement RPC (Remote Procedure Call)
+## Experiment 7 - Implementation of Subnetting
+## Experiment 8 - Applications using TCP Sockets like
+### Experiment 8.1 - Echo client and echo server
+### Experiment 8.2 - Chat
+### Experiment 8.3 - File Transfer
+## Experiment 9 - Applications using TCP and UDP Sockets like
+### Experiment 9.1 - DNS
+### Experiment 9.2 - SNMP
+### Experiment 9.3 - File Transfer
+## Experiment 10 - Study of Network simulator (NS).and Simulation of Congestion Control Algorithms using NS
+## Experiment 11 - Perform a case study about the different routing algorithms to select the network path with its optimum and economical during data transfer
+### Experiment 11.1 - Link State routing
+### Experiment 11.2 - Flooding
+### Experiment 11.3 - Distance vector
+## Experiment 12 - To learn handling and configuration of networking hardware like RJ-45 connector, CAT-6 cable, crimping tool, etc
+## Experiment 13 - Configuration of router, hub, switch etc. (using real devices or simulators)
+## Experiment 14 - Running and using services/commands like ping, traceroute, nslookup, arp, telnet, ftp, etc
+## Experiment 15 - Network packet analysis using tools like Wireshark, tcpdump, etc
+## Experiment 16 - Network simulation using tools like Cisco Packet Tracer, NetSim, OMNeT++, NS2, NS3, etc
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)

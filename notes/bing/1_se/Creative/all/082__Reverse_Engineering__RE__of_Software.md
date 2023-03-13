@@ -1,0 +1,35 @@
+### Reverse Engineering (RE) of Software
+
+- Reverse engineering (RE) of software is the process of analyzing a software system to identify its components, their interrelationships, and their functionality .
+- The main goal of RE is to understand how a software system works and to create representations of the system in another form or at a higher level of abstraction .
+- RE can be used for various purposes, such as:
+  - Improving the quality, performance, and maintainability of a software system by redesigning and modifying it.
+  - Recovering lost or missing information, such as source code, documentation, or design specifications.
+  - Detecting and fixing errors, vulnerabilities, or malicious code in a software system.
+  - Synthesizing higher-level abstractions, such as models, diagrams, or patterns, from a software system.
+  - Facilitating reuse of software components or functionality by identifying and extracting them.
+- RE can be performed at different levels of granularity, such as:
+  - Binary level: analyzing the executable code of a software system, such as machine code or bytecode.
+  - Source code level: analyzing the source code of a software system, such as C, Java, or Python.
+  - Design level: analyzing the design of a software system, such as UML diagrams, architecture, or patterns.
+  - Specification level: analyzing the specification of a software system, such as requirements, use cases, or scenarios.
+- RE can be performed using different techniques, such as:
+  - Static analysis: analyzing the software system without executing it, such as by reading the code, using tools, or applying algorithms.
+  - Dynamic analysis: analyzing the software system by executing it, such as by observing the behavior, tracing the execution, or collecting data.
+  - Hybrid analysis: combining static and dynamic analysis techniques to get a more comprehensive understanding of the software system.
+- RE can be performed using different tools, such as:
+  - Disassemblers: tools that convert executable code into assembly code, such as IDA Pro, OllyDbg, or Ghidra.
+  - Decompilers: tools that convert executable code into source code, such as Hex-Rays, JAD, or Snowman.
+  - Debuggers: tools that allow inspecting and modifying the state of a running software system, such as GDB, WinDbg, or Visual Studio.
+  - Analyzers: tools that perform various kinds of analysis on a software system, such as code quality, complexity, or dependency analysis, such as SonarQube, CodeScene, or Understand.
+  - Visualizers: tools that create graphical representations of a software system, such as graphs, charts, or diagrams, such as Graphviz, CodeMap, or NDepend.
+- RE can be challenging and time-consuming, depending on the complexity, size, and quality of the software system, as well as the availability of information and tools.
+- RE can be facilitated by following some best practices, such as:
+  - Define the scope and objectives of the RE process, such as what information or representation is needed and why.
+  - Choose the appropriate level, technique, and tool for the RE process, depending on the software system and the objectives.
+  - Document and organize the results of the RE process, such as by using comments, annotations, or reports.
+  - Validate and verify the results of the RE process, such as by comparing them with the original software system or other sources of information.
+  - Refine and iterate the RE process, such as by applying feedback, improving the methods, or using different tools.
+- RE can be aided by some mnemonics and learning tricks, such as:
+  - Remember the acronym REVERSE to recall the main steps of the RE process: **R**ecognize the software system, **E**xtract the information, **V**isualize the representation, **E**valuate the results, **R**efine the methods, **S**ynthesize the abstractions, **E**nhance the software system.
+  - Remember the acronym RADAR to recall the main techniques of the RE process: **R**everse engineering, **A**rchitecture recovery, **D**

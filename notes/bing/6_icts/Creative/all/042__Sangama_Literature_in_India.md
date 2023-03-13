@@ -1,0 +1,13 @@
+### Sangama Literature in India
+
+- Sangama literature is the earliest known literature in the Tamil language, composed between the 1st and 4th centuries CE by poets belonging to three literary academies (sangams) in Madurai, India.
+- Sangama literature consists of two main genres: akam (love) and puram (heroism). Akam poems deal with various aspects of love, such as courtship, separation, union, and infidelity. Puram poems praise the deeds of kings, warriors, and patrons, as well as describe the wars, festivals, and landscapes of ancient Tamilakam.
+- Sangama literature is divided into two groups: Ettuthokai (Eight Anthologies) and Pattuppattu (Ten Idylls). Ettuthokai contains eight collections of akam and puram poems, totaling 2381 poems by 473 poets. Pattuppattu contains ten long poems on various themes, such as the origin of the Tamil people, the exploits of kings, and the valor of heroes.
+- Sangama literature also includes two important works of grammar and poetics: Tolkappiyam and Iraiyanar Akapporul. Tolkappiyam is the oldest extant work of Tamil grammar, attributed to Tolkappiyar, a disciple of the sage Agastya. Iraiyanar Akapporul is a treatise on akam poetry, attributed to Iraiyanar, a poet and scholar.
+- Sangama literature is considered to be a valuable source of information on the history, culture, society, and geography of ancient Tamilakam. It reflects the worldview, values, and aesthetics of the ancient Tamils, who were known for their maritime trade, urbanization, and pluralism. Sangama literature also influenced the later development of Tamil literature, especially the bhakti (devotional) movement.
+
+#### Mnemonics and learning tricks
+
+- To remember the two genres of Sangama literature, akam and puram, one can use the acronym AP (as in AP exam).
+- To remember the names of the eight anthologies in Ettuthokai, one can use the mnemonic phrase "A Naughty Parrot Eats Kurinji, Mullai, Marutham, Neythal, And Palai" (the first letters of each word correspond to the names of the anthologies: Ainkurunuru, Narrinai, Paripatal, Ettuthokai, Kuruntokai, Mullai, Marutham, Neythal, and Palai).
+- To remember the names of the ten idylls in Pattuppattu, one can use the mnemonic phrase "Ten Mad Kings Threw Muddy Patties, Porunars, Siru, Perum, Mala, And Kurinji" (the first letters of each word correspond to the names of the idylls: Thenn, Maduraikanchi, Kalingathuparani, Mullaippattu, Pattinappalai, Porunararruppadai, Sirupanarruppadai, Perumparranarruppadai, Malaipadukadam, and Kurincippattu).

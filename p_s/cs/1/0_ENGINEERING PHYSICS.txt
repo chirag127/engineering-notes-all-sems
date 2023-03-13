@@ -1,0 +1,66 @@
+## Unit 1 - Quantum Mechanics
+### Inadequacy of classical mechanics for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Planck’s theory of black body radiation(qualitative) for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Compton effect for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### de-Broglie concept of matter waves for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Davisson and Germer Experiment for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Phase velocity and group velocity for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Time-dependent and time-independent Schrodinger wave equations for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Physical interpretation of wave function for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+### Particle in a one-Dimensional box for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+## Unit 2 - Electromagnetic Field Theory
+### Basic concept of Stoke’s theorem and Divergence theorem for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Basic laws of electricity and magnetism for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Continuity equation for current density for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Displacement current for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Maxwell equations in integral and differential form for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Maxwell equations in vacuum and in conducting medium for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Poynting vector and Poynting theorem for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Plane electromagnetic waves in vacuum and their transverse nature for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Relation between electric and magnetic fields of an electromagnetic wave for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Plane electromagnetic waves in conducting medium for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+### Skin depth for the notes of the Unit 2 - Electromagnetic Field Theory in the subject of ENGINEERING PHYSICS
+## Unit 3 - Wave Optics
+### Coherent sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Interference in uniform and wedge shaped thin films for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Necessity of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Newton’s Rings and its applications for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Introduction to diffraction for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Fraunhoffer diffraction at single slit and double slit for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Absent spectra for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Diffraction grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Spectra with grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Dispersive power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Resolving power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Rayleigh’s criterion of resolution for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+### Resolving power of grating for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+## Unit 4 - Fiber Optics & Laser
+### Fibre Optics: Principle and construction of optical fiber for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Acceptance angle for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Numerical aperture for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Acceptance cone for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Step index and graded index fibers for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Fiber optic communication principle for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Attenuation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Dispersion for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Application of fiber for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Laser: Absorption of radiation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Spontaneous and stimulated emission of radiation for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Population inversion for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Einstein’s Coefficients for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Principles of laser action for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Solid state Laser (Ruby laser) and Gas Laser (He-Ne laser) for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+### Laser applications for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+## Unit 5 - Superconductors and Nano-Materials:
+### Superconductors: Temperature dependence of resistivity in superconducting materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Meissner effect for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Temperature dependence of critical field for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Persistent current for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Type I and Type II superconductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### High temperature superconductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Properties and Applications of Super-conductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Nano-Materials: Introduction and properties of nano materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Basics concept of Quantum Dots for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Quantum wires and Quantum well for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Fabrication of nano materials -TopDown approach (CVD) and Bottom-Up approach (Sol Gel) for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+### Properties and Application of nano materials for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS KCS

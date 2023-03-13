@@ -1,0 +1,14 @@
+### Shankaracharya and Advaita Vedanta
+
+- Shankaracharya, also known as Adi Shankara, was an Indian philosopher and theologian who lived in the 8th century CE. He is regarded as the most influential exponent of Advaita Vedanta, one of the six orthodox schools of Hindu philosophy.   
+- Advaita Vedanta is a non-dualistic school of philosophy that teaches that the ultimate reality is Brahman, the supreme self, which is identical to the individual self (atman). Advaita Vedanta holds that there is no difference between the knower, the known, and the knowledge.  
+- Shankaracharya traveled across India to propagate his teachings and establish monastic centers (mathas) in four corners of the country. He also wrote commentaries on the Upanishads, the Brahma Sutras, and the Bhagavad Gita, which are considered authoritative by Advaita Vedanta followers. He also composed many hymns and verses in praise of various deities and aspects of Hinduism.   
+- Shankaracharya's main contribution to Advaita Vedanta was to systematize and defend the doctrine against the criticisms of other schools of thought, such as Buddhism, Nyaya, Mimamsa, and Samkhya. He used various methods of logic, dialectic, and scriptural interpretation to establish the validity and supremacy of Advaita Vedanta. He also reconciled the apparent contradictions between the Vedas and the Upanishads, and between the different Upanishads themselves. 
+- Shankaracharya's philosophy had a profound impact on the development of Hinduism and Indian culture. He revived the Vedic tradition and challenged the dominance of Buddhism and Jainism in India. He also promoted the worship of the personal God (Ishvara) as a means of attaining the knowledge of the impersonal Brahman. He also advocated the four stages of life (ashramas) and the four goals of life (purusharthas) for the spiritual and social well-being of the individual and the society.   
+
+Some possible mnemonics and learning tricks for Shankaracharya and Advaita Vedanta are:
+
+- To remember the four mathas established by Shankaracharya, use the acronym **JBSD**: Jyotirmath (north), Sringeri (south), Dwarka (west), and Puri (east).
+- To remember the three levels of reality in Advaita Vedanta, use the acronym **VPE**: Vyavaharika (empirical), Pratibhasika (illusory), and Paramarthika (absolute).
+- To remember the four means of knowledge (pramanas) in Advaita Vedanta, use the acronym **SPAR**: Shabda (scripture), Pratyaksha (perception), Anumana (inference), and Upamana (comparison).
+- To remember the four qualifications (sadhana chatushtaya) for the seeker of Advaita Vedanta, use the acronym **VIND**: Viveka (discrimination), Vairagya (dispassion), Shatsampat (six virtues), and Mumukshutva (desire for liberation).

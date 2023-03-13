@@ -1,0 +1,12 @@
+### Types of digital data in big data
+
+- Big data is a term that refers to the large and complex datasets that are generated from various sources and require advanced techniques and technologies to store, process, and analyze.
+- Digital data is any data that is represented in a binary format, such as 0s and 1s, and can be manipulated by computers or other digital devices.
+- There are different types of digital data in big data, depending on the nature, structure, and format of the data. Some of the common types are:
+
+  - **Structured data**: This is the data that has a predefined schema, such as tables, records, or fields, and can be easily organized, queried, and analyzed using relational databases or other structured data management systems. Examples of structured data are customer information, sales transactions, product inventory, etc.
+  - **Unstructured data**: This is the data that has no fixed schema or format, and is often text-based, such as emails, social media posts, documents, images, videos, audio, etc. Unstructured data is difficult to store, process, and analyze using traditional methods, and requires specialized tools and techniques, such as natural language processing, computer vision, or machine learning. Examples of unstructured data are tweets, blogs, reviews, photos, etc.
+  - **Semi-structured data**: This is the data that has some elements of structure, such as tags, labels, or metadata, but does not conform to a rigid schema or format. Semi-structured data can be a combination of structured and unstructured data, and can be partially processed and analyzed using both relational and non-relational methods. Examples of semi-structured data are XML, JSON, HTML, etc.
+  - **Multistructured data**: This is the data that is derived from the interactions or integration of different types of data, such as structured, unstructured, or semi-structured data. Multistructured data can be complex and heterogeneous, and can capture the dynamics and relationships of the data sources. Examples of multistructured data are web logs, sensor data, clickstream data, etc.
+
+- A mnemonic to remember the types of digital data in big data is **SUSM**, which stands for **S**tructured, **U**nstructured, **S**emi-structured, and **M**ultistructured data.

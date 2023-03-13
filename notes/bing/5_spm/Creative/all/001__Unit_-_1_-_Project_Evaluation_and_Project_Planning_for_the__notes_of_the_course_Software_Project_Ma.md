@@ -1,0 +1,24 @@
+## Unit - 1 - Project Evaluation and Project Planning for the notes of the course Software Project Management
+
+- Project Evaluation and Project Planning are two important aspects of Software Project Management, which is the discipline of defining and achieving targets while optimizing the use of resources (time, money, people, materials, energy, space, etc) over the course of a project (a set of activities of finite duration and scope) .
+- Project Evaluation is the process of assessing the feasibility, desirability, and viability of a project before, during, and after its execution. Project Evaluation helps to determine the project's objectives, scope, risks, costs, benefits, and outcomes, and to compare them with the expectations and requirements of the stakeholders .
+- Project Planning is the process of defining the project's activities, tasks, milestones, deliverables, resources, schedule, and budget, and of establishing the project's management and control mechanisms. Project Planning helps to guide the project's execution, monitoring, and closure, and to ensure that the project meets its objectives and delivers value to the stakeholders .
+- Some of the topics covered in this unit are:
+
+  - Importance of Software Project Management: Software Project Management is important because software projects are often complex, uncertain, dynamic, and unique, and require a systematic and disciplined approach to ensure their success and quality. Software Project Management helps to align the software development process with the business goals and customer needs, and to manage the trade-offs between the project's scope, time, cost, and quality   .
+  - Activities of Software Project Management: Software Project Management involves various activities, such as:
+    - Initiation: defining the project's purpose, scope, objectives, and stakeholders, and obtaining their approval and commitment.
+    - Planning: defining the project's activities, tasks, milestones, deliverables, resources, schedule, and budget, and establishing the project's management and control mechanisms.
+    - Execution: performing the project's activities and tasks, producing the project's deliverables, and managing the project's resources, risks, issues, and changes.
+    - Monitoring and Control: measuring the project's performance and progress, comparing them with the project's plan, and taking corrective actions if necessary.
+    - Closure: completing the project's activities and tasks, delivering the project's final product, and evaluating the project's outcomes and lessons learned .
+  - Methodologies of Software Project Management: Software Project Management can follow different methodologies, which are frameworks or guidelines that prescribe how to plan, execute, monitor, and control a software project. Some of the common methodologies are:
+    - Waterfall: a sequential and linear approach that divides the software development process into distinct phases, such as requirements analysis, design, implementation, testing, and maintenance, and requires each phase to be completed and verified before moving to the next one.
+    - Agile: an iterative and incremental approach that divides the software development process into short cycles, called sprints, and emphasizes collaboration, communication, feedback, and adaptation to changing requirements and customer needs.
+    - Scrum: a specific type of agile methodology that uses a self-organizing and cross-functional team, a product owner, and a scrum master, and follows a set of roles, events, artifacts, and rules to deliver software products in sprints.
+    - Kanban: a specific type of agile methodology that uses a visual system, such as a board or a card, to represent the workflow of the software development process, and follows a set of principles and practices to optimize the flow of work and minimize waste   .
+  - Categorization of Software Projects: Software Projects can be categorized based on different criteria, such as:
+    - Size: the amount of effort, time, and resources required to complete the project, which can be measured by metrics such as lines of code, function points, or person-months.
+    - Complexity: the degree of difficulty, uncertainty, and interdependence involved in the project, which can be influenced by factors such as the project's scope, requirements, technology, architecture, and stakeholders.
+    - Type: the nature and purpose of the software product to be developed, which can be classified by domains such as web, mobile, embedded, enterprise, or scientific applications.
+    - Lifecycle: the stage or phase of the software development process that the project is in, which can range from inception, to development, to deployment, to maintenance, to retirement   [^3^

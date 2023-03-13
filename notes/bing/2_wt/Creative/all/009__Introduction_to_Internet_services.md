@@ -1,0 +1,8 @@
+### Introduction to Internet services
+
+- Internet services are the applications or programs that run on the Internet and provide various functionalities to the users.
+- Internet services can be classified into two categories: client-server and peer-to-peer.
+- Client-server services are based on the model where a client (a user or a program) requests a service from a server (a computer or a program) that provides the service. The server responds to the client's request and sends the result back to the client. Examples of client-server services are web browsing, email, file transfer, remote login, etc.
+- Peer-to-peer services are based on the model where each node (a computer or a program) can act as both a client and a server, and communicate directly with other nodes without a central authority. Examples of peer-to-peer services are file sharing, instant messaging, voice over IP, etc.
+- Internet services use various protocols to communicate and exchange data over the Internet. Protocols are the rules and standards that define how the data is formatted, transmitted, and interpreted. Some of the common protocols used by Internet services are HTTP, SMTP, FTP, SSH, DNS, etc.
+- Internet services can have different levels of quality, security, reliability, and availability, depending on the design and implementation of the service and the network infrastructure. Some of the factors that affect the quality of service (QoS) are bandwidth, latency, jitter, packet loss, etc. Some of the factors that affect the security of service are encryption, authentication, authorization, etc. Some of the factors that affect the reliability and availability of service are redundancy, fault tolerance, backup, etc.

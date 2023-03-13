@@ -1,0 +1,22 @@
+### The Oldham-Hackman Job Characteristic Model in spm
+
+- The Oldham-Hackman Job Characteristic Model, also known as the Job Characteristics Theory or the Core Characteristics Model, is a normative approach to job enrichment created by organizational psychologists J. Richard Hackman and Greg R. Oldham  .
+- The model focuses on the design of individual tasks rather than the job as a whole, and identifies five core job dimensions that affect the psychological states and outcomes of employees    .
+- The five core job dimensions are:
+  - **Skill variety**: the degree to which the job requires a variety of skills and abilities    .
+  - **Task identity**: the degree to which the job involves completing a whole and identifiable piece of work    .
+  - **Task significance**: the degree to which the job has a substantial impact on the lives or work of other people    .
+  - **Autonomy**: the degree to which the job provides freedom, independence, and discretion to the individual in scheduling the work and determining the procedures to be used    .
+  - **Feedback**: the degree to which the job provides direct and clear information about the effectiveness of one's performance    .
+- The model proposes that these five core job dimensions influence three critical psychological states of employees:
+  - **Experienced meaningfulness of the work**: the degree to which the individual feels that the work is worthwhile and valuable    .
+  - **Experienced responsibility for outcomes of the work**: the degree to which the individual feels accountable and in control of the results of the work    .
+  - **Knowledge of the actual results of the work activities**: the degree to which the individual receives clear and timely feedback on the outcomes of the work    .
+- The model also suggests that these three critical psychological states affect the personal and work outcomes of employees, such as:
+  - **Motivation**: the degree to which the individual is internally driven to perform the work    .
+  - **Performance**: the degree to which the individual meets or exceeds the standards of the work    .
+  - **Satisfaction**: the degree to which the individual is happy and content with the work    .
+  - **Absenteeism**: the degree to which the individual is absent from the work    .
+  - **Turnover**: the degree to which the individual leaves the organization voluntarily or involuntarily    .
+- The model also acknowledges the role of individual differences in moderating the effects of the core job dimensions on the psychological states and outcomes of employees. The model identifies **growth need strength** as the main individual difference variable that affects how employees respond to enriched jobs    .
+- Growth need strength refers to the degree to which the individual has a desire to learn, grow, and develop in the work context    . Individuals with high growth need strength are more likely to benefit from enriched jobs, while individuals with low growth need strength may prefer more structured and routine

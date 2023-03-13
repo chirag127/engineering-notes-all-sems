@@ -1,0 +1,18 @@
+### Metallurgy in India and Ancient India
+
+Metallurgy is the science and art of extracting metals from their ores and refining them for various purposes. Metallurgy in India and ancient India has a long and rich history, dating back to the Chalcolithic period (around 2500 BCE) and continuing until the medieval times (around 1500 CE). Some of the salient features of metallurgy in India and ancient India are:
+
+- Copper was one of the first metals to be used by humans, and copper metallurgy in India dates back to the Chalcolithic societies in the subcontinent, according to spectrometric tests on copper ore samples discovered from ancient mine pits at Khetri in Rajasthan and metal samples cut from representative Harappan artefacts unearthed from Mitathal in Haryana.
+- The Rigveda, one of the oldest texts in the world, mentions the term Ayas (आयस), which means metal, and refers to both copper and bronze. The Rigveda also describes the use of iron for making weapons, tools, and ornaments.
+- The ‘seven metals of antiquity’, as they are sometimes called, were, more or less in order of discovery: gold, copper, silver, lead, tin, iron and mercury. For over 7,000 years, India has had a high tradition of metallurgical skills; let us see some of its landmarks.
+- Gold and silver were used for making jewellery, coins, and other decorative items. India was one of the earliest sources of gold, and the ancient Indians had developed sophisticated methods of gold extraction, such as the use of fire-setting, hydraulic mining, and amalgamation.
+- Lead and tin were mainly used for making alloys, such as bronze and pewter. Bronze was widely used for making statues, vessels, mirrors, and weapons. The ancient Indians had mastered the art of bronze casting, and produced some of the finest examples of bronze sculpture, such as the dancing girl of Mohenjo-daro and the Nataraja of Chola dynasty.
+- Iron was the most important metal for the ancient Indians, as it revolutionized the fields of agriculture, warfare, and architecture. Iron working in India may have begun as early as 1800 BCE, and by the early 13th century BCE, iron smelting was definitely practiced on a large scale. The ancient Indians used iron for making tools, weapons, nails, beams, pillars, and bridges. The most famous example of ancient Indian iron metallurgy is the Delhi Iron Pillar, which is a 7.21 meter high, 6.5 tonne pillar of wrought iron that has withstood corrosion for over 1600 years  .
+- Zinc was another metal that the ancient Indians excelled in. Zinc was extracted in India as early as in the 4th to 3rd century BCE. Zinc production may have begun in India, and ancient northwestern India is the earliest known civilization that produced zinc on an industrial scale. The distillation technique was developed around 1200 CE at Zawar in Rajasthan. The ancient Indians used zinc for making brass, an alloy of copper and zinc, and for making medicinal and cosmetic products.
+
+Some of the mnemonics and learning tricks for metallurgy in India and ancient India are:
+
+- To remember the order of discovery of the seven metals of antiquity, use the acronym GCSL TIM, which stands for Gold, Copper, Silver, Lead, Tin, Iron, and Mercury.
+- To remember the main uses of the seven metals of antiquity, use the acronym JCAM AWS, which stands for Jewellery, Coins, Alloys, Medicine, Agriculture, Warfare, and Sculpture.
+- To remember the location and date of the Delhi Iron Pillar, use the rhyme: In Delhi, there stands a pillar, made of iron in 400 CE.
+- To remember the location and date of the zinc distillation technique, use the rhyme: In Zawar, they made zinc, by distilling it in 1200 CE.

@@ -1,0 +1,22 @@
+### Remote login in application layer
+
+- Remote login is a process in which a user can log in to a remote computer and use the services that are available on that computer.
+- Remote login is an example of an application layer service, which is the highest layer in the OSI model and the TCP/IP model of computer networking.
+- The application layer provides the interface between the user and the network, and defines the protocols for various applications such as file transfer, email, web browsing, etc.
+- Remote login is implemented by protocols such as Telnet, SSH, Rlogin, etc. that allow a user to establish a terminal session with a remote host over a network.
+- The basic steps involved in remote login are:
+  - The user initiates a connection request to the remote host using a client program (such as Telnet or SSH) on the local computer.
+  - The remote host responds to the connection request and authenticates the user using a username and password or other methods.
+  - If the authentication is successful, the remote host allocates a pseudo-terminal for the user and executes a shell program that allows the user to interact with the remote system.
+  - The user can then execute commands, access files, run programs, etc. on the remote system as if they were physically present at the remote location.
+  - The user can terminate the session by typing exit or logout on the shell prompt or by closing the client program on the local computer.
+- The advantages of remote login are:
+  - It allows the user to access and use the resources of a remote computer without physically moving to that location.
+  - It enables the user to perform tasks that require higher processing power, storage capacity, or specialized software that are not available on the local computer.
+  - It enhances the security and privacy of the user by encrypting the data transmitted over the network and preventing unauthorized access to the local computer.
+- The disadvantages of remote login are:
+  - It depends on the availability and reliability of the network connection between the local and remote computers.
+  - It may cause network congestion and latency due to the large amount of data transferred over the network.
+  - It may expose the user to potential security risks such as malware, phishing, or man-in-the-middle attacks if the remote host or the network is compromised.
+- A mnemonic to remember the steps involved in remote login is: **CARTER** (Connect, Authenticate, Run, Terminate, Encrypt, Repeat).
+- An example of remote login is using SSH to connect to a Linux server from a Windows laptop and running a Python script on the server.

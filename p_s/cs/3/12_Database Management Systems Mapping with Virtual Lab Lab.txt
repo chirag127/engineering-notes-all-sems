@@ -1,0 +1,8 @@
+## Name of the Lab for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Name of the Experiment for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Database Management Lab for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Data Definition Language(DDL) Statements for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Data Manipulation Language(DML) Statements for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Data Query Language(DQL) Statements for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Transaction Control Language(TCL) statements for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+## Describe statement for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab

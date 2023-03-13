@@ -1,0 +1,21 @@
+### Hadoop Eco System Frameworks
+
+- Hadoop is a framework that enables processing of large data sets which reside in the form of clusters. Being a framework, Hadoop is made up of several modules that are supported by a large ecosystem of technologies.
+- The Hadoop ecosystem is a platform or a suite that provides various services to solve the big data problems. It includes Apache projects and various commercial tools and solutions .
+- There are four major elements of Hadoop i.e. HDFS, MapReduce, YARN, and Hadoop Common.
+  - HDFS (Hadoop Distributed File System) is a distributed file system that has the capability to store a large stack of data sets. It provides high availability, fault tolerance, scalability, and reliability .
+  - MapReduce is a programming model that allows for the parallel processing of large data sets across multiple nodes in a cluster. It consists of two phases: map and reduce. The map phase transforms the input data into key-value pairs, and the reduce phase aggregates the values based on the keys  .
+  - YARN (Yet Another Resource Negotiator) is a resource management layer that allocates the resources (CPU, memory, disk, network) to the applications running on the cluster. It also schedules the tasks and monitors their execution  .
+  - Hadoop Common is a set of common utilities and libraries that support the other Hadoop modules. It provides the basic functionality such as configuration, logging, security, and I/O operations .
+- Apart from the core components, the Hadoop ecosystem also consists of various tools and frameworks that help in data ingestion, data processing, data analysis, data visualization, and data management. Some of the popular ones are  :
+  - Apache Pig: A high-level scripting language that allows for the analysis of large data sets using a data flow approach. It can run on top of MapReduce or Tez engines .
+  - Apache Hive: A data warehouse system that provides a SQL-like interface to query and analyze structured and semi-structured data stored in HDFS. It can also run on top of MapReduce or Tez engines .
+  - Apache HBase: A distributed, column-oriented database that provides random access and consistent read/write operations on large data sets. It is based on the Google Bigtable model .
+  - Apache Spark: A fast and general-purpose cluster computing system that supports in-memory processing and a variety of data processing tasks such as batch, streaming, machine learning, and graph analysis. It can run on top of Hadoop or standalone .
+  - Apache Kafka: A distributed messaging system that provides high-throughput, low-latency, and fault-tolerant data transfer between applications. It can be used for data ingestion, data integration, and data streaming .
+  - Apache Flume: A distributed service that collects, aggregates, and moves large amounts of log data from various sources to HDFS or other destinations. It can be used for data ingestion and data integration .
+  - Apache Sqoop: A tool that transfers data between Hadoop and relational databases. It can be used for data ingestion and data export .
+  - Apache Oozie: A workflow scheduler that coordinates and executes Hadoop jobs. It can be used for data processing and data management .
+  - Apache Zeppelin: A web-based notebook that allows for interactive data analysis and visualization using various languages and frameworks such as Spark, Hive, Pig, etc. It can be used for data exploration and data visualization .
+  - Apache Mahout: A library that provides scalable machine learning algorithms for clustering, classification, recommendation, and dimensionality reduction. It can run on top of Hadoop or Spark .
+- A possible mnemonic to remember the Hadoop ecosystem components is: **H**ave **M**ore **F**un **S**olving **P**roblems **H**appily **S**parking **K**nowledge **F**rom **O**ozie **Z**eppelin **M

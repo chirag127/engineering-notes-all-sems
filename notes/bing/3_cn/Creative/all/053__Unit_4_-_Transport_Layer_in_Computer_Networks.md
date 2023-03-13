@@ -1,0 +1,24 @@
+## Unit 4 - Transport Layer in Computer Networks
+
+The transport layer is a conceptual division of methods in the layered architecture of protocols in the network stack in the Internet protocol suite and the OSI model. The protocols of this layer provide end-to-end communication services for applications.
+
+Some of the main functions and features of the transport layer are:
+
+- **Segmentation and reassembly**: The transport layer takes data from the upper layer (i.e. application layer) and then breaks it into smaller size segments, numbers each byte, and hands over to the lower layer (network layer) for delivery. At the receiver side, the transport layer reassembles the segments into the original data.
+- **Addressing**: The transport layer provides the user address which is specified as a station or port. The port variable represents a specific process or service running on a host. The transport layer protocols need to know the port number of the destination process to deliver the data correctly.
+- **Multiplexing and demultiplexing**: The transport layer can multiplex multiple applications or processes on the same host to use the same network layer connection by assigning different port numbers to each process. Similarly, the transport layer can demultiplex the incoming data from the network layer to the appropriate application or process by using the port numbers.
+- **Reliable and unreliable delivery**: The transport layer can provide different types of delivery services depending on the requirements of the applications or processes. Some transport layer protocols, such as TCP, provide reliable delivery by using error detection, acknowledgment, retransmission, and flow control mechanisms. Other transport layer protocols, such as UDP, provide unreliable delivery by sending the data without any guarantee of delivery or error recovery.
+- **Connection-oriented and connectionless communication**: The transport layer can support both connection-oriented and connectionless communication modes. In connection-oriented communication, the transport layer establishes a logical connection between the source and destination hosts before sending any data, and terminates the connection after the data transfer is complete. In connectionless communication, the transport layer sends the data without any prior connection establishment or termination.
+- **Quality of service**: The transport layer can provide different levels of quality of service (QoS) to the applications or processes by using parameters such as bandwidth, delay, jitter, and loss. The transport layer can negotiate the QoS requirements with the network layer or the application layer, and adapt the delivery service accordingly.
+
+Some of the common transport layer protocols are:
+
+- **Transmission Control Protocol (TCP)**: TCP is a connection-oriented, reliable, byte-stream protocol that provides error detection, acknowledgment, retransmission, and flow control mechanisms. TCP is widely used for applications that require reliable and ordered delivery of data, such as web browsing, email, file transfer, etc.
+- **User Datagram Protocol (UDP)**: UDP is a connectionless, unreliable, datagram protocol that provides no error detection, acknowledgment, retransmission, or flow control mechanisms. UDP is widely used for applications that require fast and efficient delivery of data, such as video streaming, voice over IP, online gaming, etc.
+- **Stream Control Transmission Protocol (SCTP)**: SCTP is a connection-oriented, reliable, message-oriented protocol that provides error detection, acknowledgment, retransmission, and flow control mechanisms. SCTP also supports multiple streams of data within a single connection, and can handle network failures by switching to alternate paths. SCTP is widely used for applications that require high availability and reliability, such as telecommunication signaling, web conferencing, etc.
+
+Some of the mnemonics and learning tricks for the transport layer are:
+
+- To remember the main functions of the transport layer, use the acronym **SARMRQ** (Segmentation, Addressing, Multiplexing, Reliable/Unreliable delivery, QoS).
+- To remember the difference between TCP and UDP, use the analogy of **phone call vs. postcard**. A phone call is like TCP, which requires a connection, guarantees delivery, and maintains order. A postcard is like UDP, which does not require a connection, does not guarantee delivery, and does not maintain order.
+- To remember the difference between connection-oriented and connectionless communication, use the analogy of **train vs. bus**. A train is like connection-oriented communication, which requires a reservation, follows a fixed route, and arrives at a specific destination. A bus is like connectionless communication, which does not require a reservation, can take different routes, and can stop at any station.

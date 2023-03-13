@@ -1,0 +1,100 @@
+# Web Technology
+## Unit 1 - Introduction to Web Technology
+### Introduction to Web Technology
+### Web Development Strategies
+### History of Web
+### History of Internet
+### Protocols Governing Web
+### Writing Web Projects
+### Connecting to Internet
+### Introduction to Internet services
+### Introduction to Internet tools
+### Introduction to client-server computing
+### Core Java
+#### Introduction to Java
+#### Operator in Core Java
+#### Data type in Core Java
+#### Variable in Core Java
+#### Arrays in Core Java
+#### Methods & Classes in Core Java
+#### Inheritance in Core Java
+#### Package and Interface in Core Java
+#### Exception Handling in Core Java
+#### Multithread programming in Core Java
+#### I/O in Core Java
+#### Java Applet in Core Java
+#### String handling in Core Java
+#### Event handling in Core Java
+#### Introduction to AWT in Core Java
+#### AWT controls
+#### Layout managers in AWT
+## Unit 2 - Web Page Designing
+### HTML in Web Page Designing
+### List in Web Page Designing
+### Table in Web Page Designing
+### Images in Web Page Designing
+### Frames in Web Page Designing
+### forms in Web Page Designing
+### CSS in Web Page Designing
+### Document type definition in Web Page Designing
+### XML in Web Page Designing
+### DTD in Web Page Designing
+### XML schemes in Web Page Designing
+### Object Models in Web Page Designing
+### presenting and using XML in Web Page Designing
+### Using XML Processors in Web Page Designing
+### DOM and SAX in Web Page Designing
+### Dynamic HTML in Web Page Designing
+## Unit 3 - Scripting
+### Java script in Scripting
+#### Introduction to Java script
+#### documents in Java script
+#### forms in Java script
+#### statements in Java script
+#### functions in Java script
+#### objects in Java script
+#### introduction to AJAX in Java script
+### Networking in Scripting
+#### Internet Addressing in Networking
+#### InetAddress in Networking
+#### Factory Methods in Networking
+#### Instance Methods in Networking
+#### TCP/IP Client Sockets in Networking
+#### URL in Networking
+#### URL Connection in Networking
+#### TCP/IP Server Sockets in Networking
+#### Datagram in Networking
+## Unit 4 - Enterprise Java Bean
+### Preparing a Class to be a JavaBeans
+### Creating a JavaBeans
+### JavaBeans Properties
+### Types of beans in Enterprise Java Bean
+#### Stateful Session bean in Enterprise Java Bean
+#### Stateless Session bean in Enterprise Java Bean
+#### Entity bean in Enterprise Java Bean
+### Java Database Connectivity (JDBC)
+#### Merging Data from Multiple Tables in JDBC
+#### Joining in JDBC
+#### Manipulating in JDBC
+#### Databases with JDBC in JDBC
+#### Prepared Statements in JDBC
+#### Transaction Processing in JDBC
+#### Stored Procedures in JDBC
+## Unit 5 - Servlets
+### Servlet Overview and Architecture in Servlets
+### Interface Servlet and the Servlet Life Cycle in Servlets
+### Handling HTTP get Requests in Servlets
+### Handling HTTP post Requests in Servlets
+### Redirecting Requests to Other Resources in Servlets
+### Session Tracking in Servlets
+### Cookies in Servlets
+### Session Tracking with Http Session in Servlets
+### Java Server Pages (JSP) in Servlets
+#### Introduction to JSP in Servlets
+#### Java Server Pages Overview in Servlets
+#### A First Java Server Page Example in Servlets
+#### Implicit Objects in Servlets
+#### Scripting in Servlets
+#### Standard Actions in Servlets
+#### Directives in Servlets
+#### Custom Tag Libraries in Servlets

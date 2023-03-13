@@ -1,0 +1,34 @@
+#### TCP/IP Server Sockets in Networking
+
+- A network socket is a software structure that serves as an endpoint for sending and receiving data across a network.
+- A TCP/IP socket is a network socket that uses the Transmission Control Protocol (TCP) and the Internet Protocol (IP) to communicate with other sockets over the internet.
+- A TCP/IP server socket is a TCP/IP socket that listens for incoming connections from TCP/IP client sockets on a specific port number.
+- A TCP/IP server socket can accept multiple connections from different client sockets, but each connection is handled by a separate socket object.
+- A TCP/IP server socket can be created using the following steps :
+  - Create a Socket object with the address family, socket type, and protocol type that match the TCP/IP protocol.
+  - Bind the Socket object to an IPEndPoint object that specifies the IP address and port number of the server socket.
+  - Call the Listen method on the Socket object to start listening for incoming connections.
+  - Call the Accept method on the Socket object to accept a connection from a client socket and return a new Socket object for that connection.
+  - Use the new Socket object to send and receive data with the client socket.
+  - Close the new Socket object when the communication is finished.
+  - Repeat steps 4-6 for each incoming connection.
+  - Close the original Socket object when the server socket is no longer needed.
+- A TCP/IP server socket has the following advantages :
+  - It provides reliable, ordered, and error-free data transmission between sockets.
+  - It ensures that data is delivered in the same order and without duplication or loss.
+  - It handles congestion control, flow control, and retransmission of lost or corrupted packets.
+  - It supports full-duplex communication, meaning that data can be sent and received simultaneously.
+- A TCP/IP server socket has the following disadvantages :
+  - It requires more overhead and resources than other protocols, such as UDP.
+  - It consumes more bandwidth and network resources due to the additional headers and acknowledgments.
+  - It is slower and less responsive than other protocols, such as UDP, due to the connection establishment and termination processes.
+  - It is not suitable for real-time or multicast applications, such as video streaming or online gaming, where speed and efficiency are more important than reliability and order.
+- A TCP/IP server socket can be used for various applications, such as web servers, email servers, file servers, chat servers, etc .
+- A TCP/IP server socket can be implemented in different programming languages, such as C#, Java, Python, etc .
+- A possible mnemonic to remember the steps of creating a TCP/IP server socket is: **B**e **L**oyal **A**nd **S**erve **C**lients **R**espectfully .
+  - **B**e: Create a Socket object (**B**egin)
+  - **L**oyal: Bind the Socket object to an IPEndPoint object (**L**ink)
+  - **A**nd: Call the Listen method on the Socket object (**A**wait)
+  - **S**erve: Call the Accept method on the Socket object (**S**tart)
+  - **C**lients: Use the new Socket object to send and receive data with the client socket (**C**ommunicate)
+  - **R**espectfully: Close the new Socket object when the communication is finished (**R**elease)

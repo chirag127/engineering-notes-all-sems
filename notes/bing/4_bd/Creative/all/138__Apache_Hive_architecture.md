@@ -1,0 +1,22 @@
+#### Apache Hive architecture
+
+Apache Hive is a data warehouse system that enables analytics at a massive scale using SQL-like queries. It is built on top of Hadoop and provides a way to store, manage, and query structured and semi-structured data in a distributed environment.
+
+The key components of the Apache Hive architecture are:
+
+- **Hive Clients**: These are the interfaces that allow users and applications to interact with Hive. They include the Hive Shell, the Hive Web Interface, the Hive JDBC/ODBC drivers, and the Hive Thrift API.
+- **Hive Services**: These are the components that process the requests from the clients and execute the queries on the Hadoop cluster. They include the HiveServer2, the Hive Metastore, and the Hive Driver.
+- **HiveServer2**: This is the main server that accepts incoming requests from the clients and creates an execution plan and auto-generates a YARN job to process SQL queries. It also handles authentication, authorization, and session management for the clients.
+- **Hive Metastore**: This is the central repository of metadata that stores the schema and location of the tables, partitions, columns, and other Hive objects. It can be configured to use different backends, such as MySQL, PostgreSQL, or Oracle. The Hive Metastore communicates with the HiveServer2 and the Hadoop NameNode to provide metadata information.
+- **Hive Driver**: This is the component that compiles, optimizes, and executes the queries submitted by the clients. It consists of several sub-components, such as the Compiler, the Optimizer, the Executor, and the Query Plan Generator.
+- **Compiler**: This is the sub-component that parses the SQL query and generates an abstract syntax tree (AST) that represents the query logic.
+- **Optimizer**: This is the sub-component that applies various transformations and optimizations to the AST to produce a logical plan that is more efficient and suitable for execution on Hadoop.
+- **Executor**: This is the sub-component that converts the logical plan into a physical plan that consists of a series of MapReduce or Spark jobs that can be executed on the Hadoop cluster.
+- **Query Plan Generator**: This is the sub-component that generates a graphical representation of the physical plan that can be viewed by the users for debugging and performance tuning purposes.
+- **Processing Framework and Resource Management**: These are the components that handle the execution of the MapReduce or Spark jobs on the Hadoop cluster. They include the Hadoop MapReduce framework, the Apache Spark framework, and the YARN resource manager.
+- **Hadoop MapReduce**: This is the original framework that processes the data in a distributed and parallel manner using the map and reduce functions. It is based on the MapReduce programming model proposed by Google.
+- **Apache Spark**: This is an alternative framework that processes the data in a distributed and parallel manner using the resilient distributed datasets (RDDs) and the Spark SQL engine. It is based on the Spark programming model that supports in-memory processing and interactive analytics.
+- **YARN**: This is the resource manager that allocates and manages the resources (such as CPU, memory, disk, and network) for the MapReduce or Spark jobs on the Hadoop cluster. It also monitors the status and progress of the jobs and handles the fault tolerance and recovery mechanisms.
+- **Distributed Storage**: This is the component that stores the data in a distributed and fault-tolerant manner on the Hadoop cluster. It includes the Hadoop Distributed File System (HDFS) and the Hive Warehouse Directory.
+- **HDFS**: This is the file system that stores the data in large blocks (typically 64 MB or 128 MB) across multiple nodes in the cluster. It provides high availability, scalability, and reliability by replicating the blocks on different nodes and handling the failures and recovery of the nodes.
+- **Hive Warehouse Directory**: This is the directory on HDFS that stores the data for the Hive tables and partitions. It follows a hierarchical structure that reflects the schema and location of the tables and partitions. For example, /user/hive/warehouse/database_name/table_name/partition_name.

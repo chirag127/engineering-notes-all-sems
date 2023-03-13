@@ -1,0 +1,26 @@
+#### Scaling out with Hadoop
+
+- Scaling out is the process of adding more nodes to a distributed system to increase its capacity and performance.
+- Hadoop is an open-source framework that allows for distributed processing of large datasets across clusters of computers using simple programming models.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and MapReduce.
+- HDFS is a distributed file system that provides high-throughput access to data stored on the cluster nodes. It also handles replication and fault tolerance of the data.
+- MapReduce is a programming model that enables parallel processing of large datasets by dividing them into smaller chunks (maps) and then combining the results (reduces).
+- Hadoop can scale out by adding more nodes to the cluster, which increases the storage and processing capacity of the system.
+- Hadoop can also scale out by using different types of nodes for different purposes, such as master nodes, worker nodes, edge nodes, etc.
+- Some of the advantages of scaling out with Hadoop are:
+  - It can handle very large and complex datasets that cannot fit on a single machine or a traditional database system.
+  - It can leverage the existing hardware and network infrastructure without requiring expensive upgrades or specialized equipment.
+  - It can provide high availability and fault tolerance by replicating the data across multiple nodes and recovering from node failures.
+  - It can offer flexibility and scalability by allowing the users to add or remove nodes as needed and to run different types of applications on the same cluster.
+- Some of the disadvantages of scaling out with Hadoop are:
+  - It can introduce more complexity and overhead in managing and maintaining the cluster, such as configuring, monitoring, securing, and troubleshooting the nodes and the data.
+  - It can incur more network traffic and latency due to the data transfer and communication between the nodes, which can affect the performance and efficiency of the system.
+  - It can require more skills and expertise to design, develop, and deploy the applications that can run on the Hadoop framework and take advantage of its features.
+- Some of the examples of applications that can benefit from scaling out with Hadoop are:
+  - Data analysis and mining: Hadoop can be used to perform various types of data analysis and mining tasks, such as sentiment analysis, recommendation systems, fraud detection, etc.
+  - Data warehousing and business intelligence: Hadoop can be used to store and process large amounts of structured and unstructured data from various sources, such as web logs, social media, sensors, etc., and to provide insights and reports for business decision making.
+  - Data processing and transformation: Hadoop can be used to process and transform raw data into more useful and meaningful formats, such as cleaning, filtering, aggregating, joining, etc.
+- Some of the mnemonics and learning tricks for scaling out with Hadoop are:
+  - HDFS: High Demand For Storage
+  - MapReduce: Many Are Processing, Results Are Unified and Collected Efficiently
+  - Scaling out: Size Can Always Lead to Increased Numbers of Nodes, Greater Output and Throughput

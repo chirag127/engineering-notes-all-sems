@@ -1,0 +1,16 @@
+### Hindi Literature
+
+- Hindi literature is the literature written in the Hindi language, which includes various dialects and scripts. Hindi is one of the official languages of India and the most widely spoken language in the country. 
+- Hindi literature can be broadly divided into four periods: Adikal (early period), Bhaktikal (devotional period), Ritikal (poetic period) and Adhunik (modern period). Each period has its own characteristics, themes, genres and styles. 
+- Adikal (from 11th to 14th century) is the earliest period of Hindi literature, which mainly consists of poetry in the Apabhramsha dialects, such as Awadhi, Magadhi, Ardhamagadhi and Marwari. The poets of this period wrote about religious and philosophical topics, as well as folk tales and legends. Some of the famous poets of this period are Chand Bardai, Jagnayak, Padmanabha and Khusro.  
+- Bhaktikal (from 14th to 17th century) is the period of Hindi literature that reflects the influence of the Bhakti movement, which was a religious and social reform movement that emphasized devotion to a personal god. The poets of this period wrote in various languages and scripts, such as Braj, Avadhi, Maithili, Rajasthani and Persian. They expressed their love, faith and devotion to various deities, such as Rama, Krishna, Shiva, Vishnu and the goddesses. Some of the famous poets of this period are Kabir, Surdas, Tulsidas, Mirabai and Jayasi.  
+- Ritikal (from 17th to 19th century) is the period of Hindi literature that is marked by the emergence of the Khari Boli dialect, which is the basis of the modern standard Hindi. The poets of this period wrote in various forms and styles, such as doha, chaupai, savaiya, kavita and ghazal. They explored various themes, such as love, romance, nature, society, politics and satire. Some of the famous poets of this period are Bihari, Keshav, Ghananand, Bihari and Ghalib.  
+- Adhunik (from 19th century onwards) is the period of Hindi literature that coincides with the modernization and nationalization of India. The writers of this period wrote in various genres and forms, such as novels, short stories, essays, dramas, biographies and poetry. They addressed various issues, such as colonialism, nationalism, social reform, feminism, realism, modernism and postmodernism. Some of the famous writers of this period are Premchand, Nirala, Prasad, Pant, Dinkar, Mahadevi Verma, Muktibodh, Bachchan and Harivansh Rai Bachchan.  
+
+Mnemonics and learning tricks:
+
+- To remember the four periods of Hindi literature, you can use the acronym **ABRA** (Adikal, Bhaktikal, Ritikal, Adhunik).
+- To remember the main dialects of Adikal, you can use the phrase **Awa Maga Arda Maru** (Awadhi, Magadhi, Ardhamagadhi, Marwari).
+- To remember the main languages and scripts of Bhaktikal, you can use the word **BRAM** (Braj, Rajasthani, Avadhi, Maithili) and add **P** for Persian.
+- To remember the main forms and styles of Ritikal, you can use the word **DOSKA** (doha, savaiya, kavita) and add **CG** for chaupai and ghazal.
+- To remember the main genres and forms of Adhunik, you can use the word **NASED** (novels, short stories, essays, dramas) and add **BP** for biographies and poetry.

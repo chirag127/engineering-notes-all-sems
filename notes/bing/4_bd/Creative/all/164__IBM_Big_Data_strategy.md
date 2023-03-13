@@ -1,0 +1,21 @@
+#### IBM Big Data strategy
+
+- IBM Big Data strategy is a corporate initiative that aims to provide solutions for storing, managing, and analyzing the huge amounts of data generated daily by various sources, such as social media, sensors, mobile devices, etc.
+- IBM Big Data strategy is aligned with its Smarter Planet vision, which seeks to leverage smarter systems to achieve economic and sustainable growth and societal progress.
+- IBM Big Data strategy consists of four dimensions: volume, variety, velocity, and veracity.
+  - Volume refers to the scale of data, which can range from terabytes to zettabytes.
+  - Variety refers to the diversity of data types and sources, which can include structured, unstructured, and semi-structured data.
+  - Velocity refers to the speed of data generation and processing, which can require real-time or near-real-time analysis.
+  - Veracity refers to the quality and reliability of data, which can affect the accuracy and trustworthiness of insights.
+- IBM Big Data strategy offers a comprehensive portfolio of products and services that cover the entire data lifecycle, from data ingestion, integration, and governance, to data storage, processing, and analysis, to data visualization, exploration, and discovery.
+- IBM Big Data strategy leverages various technologies and platforms, such as:
+  - IBM Cloud Pak for Data, which is a cloud-native data and AI platform that enables users to collect, organize, and analyze data across hybrid cloud environments.
+  - IBM Watson, which is a suite of AI services and applications that can understand, reason, and learn from data, and provide natural language and conversational interfaces.
+  - IBM Db2, which is a family of relational database management systems that can handle structured and unstructured data, and support various data models and languages.
+  - IBM Netezza, which is a data warehouse appliance that can perform high-performance analytics on large-scale data sets.
+  - IBM InfoSphere, which is a platform for data integration, quality, and governance, that can handle various data sources, formats, and standards.
+  - IBM Cognos, which is a business intelligence and analytics software that can provide interactive dashboards, reports, and visualizations.
+  - IBM SPSS, which is a statistical analysis and predictive modeling software that can perform various data mining and machine learning techniques.
+  - IBM Streams, which is a platform for real-time data processing and analytics, that can handle streaming data from various sources and applications.
+- IBM Big Data strategy also involves various partnerships and collaborations with other companies and organizations, such as Cloudera, Hortonworks, Apache, and Open Data Platform Initiative, to support open source and industry standards for Big Data technologies and solutions.
+- IBM Big Data strategy aims to help its clients and partners to gain insights and value from their data, and to drive innovation and transformation in various domains and industries, such as healthcare, retail, banking, education, government, etc.

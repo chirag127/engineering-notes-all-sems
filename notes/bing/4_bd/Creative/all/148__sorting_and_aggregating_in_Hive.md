@@ -1,0 +1,11 @@
+#### Sorting and aggregating in Hive
+
+- Sorting and aggregating are common operations in data analysis that involve rearranging and summarizing data based on certain criteria.
+- Hive supports two types of sorting: global sorting and bucket sorting.
+- Global sorting orders the entire data set according to one or more columns, using the `ORDER BY` clause. For example, `SELECT * FROM table ORDER BY name;` will sort the table by the name column in ascending order.
+- Bucket sorting partitions the data into a fixed number of buckets, each of which is sorted by one or more columns, using the `CLUSTER BY` clause. For example, `SELECT * FROM table CLUSTER BY name, age;` will divide the table into buckets based on the name and age columns, and sort each bucket by those columns.
+- Bucket sorting is more efficient than global sorting, as it can be done in parallel and does not require shuffling the entire data set across the network. However, bucket sorting requires the table to be bucketed beforehand, using the `CREATE TABLE` statement with the `CLUSTERED BY` and `SORTED BY` clauses.
+- Aggregating is the process of applying a function to a group of rows to produce a single value, such as the sum, average, count, minimum, or maximum. Hive supports the `GROUP BY` clause to specify the grouping columns, and the `HAVING` clause to filter the groups based on a condition. For example, `SELECT name, AVG(salary) FROM table GROUP BY name HAVING AVG(salary) > 1000;` will calculate the average salary for each name, and only return the names with an average salary greater than 1000.
+- Hive also supports the `DISTINCT` keyword to eliminate duplicate values from a column or a set of columns. For example, `SELECT DISTINCT name FROM table;` will return the unique names from the table.
+- A mnemonic to remember the difference between `ORDER BY` and `CLUSTER BY` is: **O**rder by **O**ne, **C**luster by **C**hunks.
+- A mnemonic to remember the syntax of the `GROUP BY` and `HAVING` clauses is: **G**roup **B**efore **H**aving.

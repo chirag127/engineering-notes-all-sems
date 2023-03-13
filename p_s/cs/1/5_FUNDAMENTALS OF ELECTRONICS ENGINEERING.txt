@@ -1,0 +1,60 @@
+
+## Unit 1 - Semiconductor Diode
+### Depletion layer for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### V-I characteristics for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### ideal and practical Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Diode Equivalent Circuits for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Zener Diodes breakdown mechanism (Zener and avalanche) for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Diode Application for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Diode Configuration for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Half and Full Wave rectification for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Clippers for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Clampers for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Zener diode as shunt regulator for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Voltage-Multiplier Circuits for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Special Purpose two terminal Devices for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Light-Emitting Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Photo Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Varactor Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Tunnel Diodes for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+## Unit 2 - Bipolar Junction Transistor
+### Transistor Construction for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Operation for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Amplification action for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Common Base for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Common Emitter for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Common Collector Configuration for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+## Unit 3 - Field Effect Transistor
+### Construction and Characteristic of JFETs for the notes of the Unit 3 - Field Effect Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Transfer Characteristic for the notes of the Unit 3 - Field Effect Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### MOSFET (MOS) (Depletion and Enhancement) Type for the notes of the Unit 3 - Field Effect Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Transfer Characteristic for the notes of the Unit 3 - Field Effect Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+## Unit 4 - Operational Amplifiers
+### Introduction for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Op-Amp basic for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Practical Op-Amp Circuits for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Inverting Amplifier for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Non-inverting Amplifier for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Unit Follower for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Summing Amplifier for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Integrator for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Differentiator for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Differential and Common-Mode Operation for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Comparators for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+## Unit 5 - Digital Electronics
+### Number system & representation for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Binary arithmetic for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Introduction of Basic and Universal Gates for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### using Boolean algebra simplification of Boolean function for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### K Map Minimization upto 6 Variables for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+## Unit 6 - Fundamentals of Communication Engineering
+### Basics of signal representation and analysis for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Electromagnetic spectrum for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Elements of a Communication System for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Need of modulation and typical applications for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Fundamentals of amplitude modulation and demodulation techniques for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Introduction to Wireless Communication for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Overview of wireless communication for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### cellular communication for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### different generations and standards in cellular communication systems for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+### Fundamentals of Satellite & Radar Communication for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING KCS

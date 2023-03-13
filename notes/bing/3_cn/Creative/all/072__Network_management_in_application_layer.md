@@ -1,0 +1,38 @@
+### Network management in application layer
+
+- Network management is the process of configuring, monitoring, and managing the performance of a network.
+- The application layer is the topmost layer in the Open System Interconnection (OSI) model and the Internet Protocol Suite (TCP/IP) model .
+- The application layer provides several ways for manipulating the data (information) which actually enables any type of user to access network with ease.
+- The application layer also handles network services, such as file and printing, name resolution, and redirector services.
+- Name resolution is the process of mapping an IP address to a human-readable name, such as a domain name.
+- Redirector services allow a user to access resources on another network device, such as a file server or a printer.
+- Some examples of application layer protocols are HTTP, FTP, SMTP, DNS, SNMP, and Telnet.
+- HTTP (Hypertext Transfer Protocol) is used for transferring web pages and other resources over the internet.
+- FTP (File Transfer Protocol) is used for transferring files between hosts on a network.
+- SMTP (Simple Mail Transfer Protocol) is used for sending and receiving email messages.
+- DNS (Domain Name System) is used for resolving domain names to IP addresses and vice versa.
+- SNMP (Simple Network Management Protocol) is used for collecting and organizing information about network devices and their status.
+- Telnet is used for providing remote access to a host on a network.
+- Network management systems use application layer protocols, such as SNMP, to communicate with network devices and collect information about their configuration, performance, and faults.
+- A network management system consists of three components: a manager, an agent, and a management information base (MIB).
+- A manager is a software application that runs on a network management platform and sends requests to agents on network devices.
+- An agent is a software component that runs on a network device and responds to requests from managers.
+- A MIB is a database that stores information about the network device and its capabilities, such as its name, location, type, status, and configuration.
+- A network management system can perform various functions, such as fault management, performance management, configuration management, security management, and accounting management.
+- Fault management is the process of detecting, isolating, and correcting network problems.
+- Performance management is the process of measuring and analyzing network performance and ensuring that it meets the service level agreements (SLAs).
+- Configuration management is the process of maintaining and updating the configuration of network devices and ensuring that they are consistent and compliant with the policies.
+- Security management is the process of protecting the network from unauthorized access and malicious attacks.
+- Accounting management is the process of collecting and reporting network usage and billing information.
+- A network management system can use various tools and techniques, such as polling, traps, syslog, thresholds, alarms, reports, and dashboards, to perform these functions.
+- Polling is the technique of periodically sending requests to agents on network devices and receiving responses with the current status and performance data.
+- Traps are the technique of sending unsolicited messages from agents to managers when a significant event or a fault occurs on a network device.
+- Syslog is the technique of sending log messages from network devices to a central server for analysis and troubleshooting.
+- Thresholds are the technique of setting predefined values for network performance metrics and comparing them with the actual values.
+- Alarms are the technique of generating notifications when a threshold is crossed or a fault is detected.
+- Reports are the technique of summarizing and presenting network performance and usage data in a readable format.
+- Dashboards are the technique of displaying network performance and status data in a graphical and interactive way.
+- A network management system can benefit the network administrators and users in various ways, such as improving network availability, reliability, efficiency, security, and scalability.
+- Network availability is the measure of how often the network is operational and accessible.
+- Network reliability is the measure of how well the network can handle failures and recover from them.
+- Network efficiency is the measure of how well the network can utilize its resources and deliver the required service quality.

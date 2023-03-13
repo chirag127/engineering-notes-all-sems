@@ -1,0 +1,15 @@
+### Northern Indian languages
+
+- Northern Indian languages are a group of languages that belong to the Indo-Aryan branch of the Indo-European language family. They are spoken by about 600 million people in India, Pakistan, Nepal, Bangladesh and other countries.
+- The most widely spoken Northern Indian language is Hindi, which is also the official language of India and one of the 22 scheduled languages of the country. Hindi is written in the Devanagari script and has many regional varieties, such as Braj Bhasha, Awadhi, Bhojpuri, Maithili, Magahi and Chhattisgarhi.
+- Urdu is another major Northern Indian language, which is the official language of Pakistan and one of the 22 scheduled languages of India. Urdu is written in the Perso-Arabic script and has a strong influence from Persian and Arabic. Urdu and Hindi are mutually intelligible, but differ in their vocabulary, script and register.
+- Punjabi is the third most spoken Northern Indian language, which is the official language of the Indian state of Punjab and the provincial language of the Pakistani province of Punjab. Punjabi is written in the Gurmukhi script in India and the Shahmukhi script in Pakistan. Punjabi has many dialects, such as Majhi, Malwi, Doabi, Pothwari and Saraiki.
+- Kashmiri is the official language of the Indian union territory of Jammu and Kashmir and one of the 22 scheduled languages of India. Kashmiri is written in the Perso-Arabic script, the Devanagari script or the Sharada script. Kashmiri has two main varieties, namely Kashmiri proper and Kishtwari.
+- Dogri is the official language of the Indian union territory of Jammu and Kashmir and one of the 22 scheduled languages of India. Dogri is written in the Devanagari script or the Takri script. Dogri is closely related to Punjabi and has many dialects, such as Poonchi, Mirpuri, Bhadrawahi and Doda.
+- Pahari is a collective term for the languages spoken in the Himalayan region of Northern India, Nepal and Pakistan. Pahari languages are not a single linguistic group, but rather a diverse set of languages that share some common features. Some of the Pahari languages are Garhwali, Kumaoni, Nepali, Jaunsari, Himachali and Shina.
+
+Some of the mnemonics and learning tricks for the Northern Indian languages are:
+
+- To remember the names of the 22 scheduled languages of India, you can use the acronym **HUM BAN GUM TUM SANK MAN**. The first letter of each word stands for a language: Hindi, Urdu, Marathi, Bengali, Gujarati, Malayalam, Tamil, Telugu, Sanskrit, Kannada, Manipuri.
+- To remember the names of the six official languages of the Indian union territory of Jammu and Kashmir, you can use the acronym **KUDHOL**. The first letter of each word stands for a language: Kashmiri, Urdu, Dogri, Hindi, English, Ladakhi.
+- To remember the names of the four main dialects of Punjabi, you can use the acronym **MMDP**. The first letter of each word stands for a dialect: Majhi, Malwi, Doabi, Pothwari.

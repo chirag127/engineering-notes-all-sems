@@ -1,0 +1,31 @@
+### Regression Testing in Software Testing
+
+- Regression testing is a software testing technique that re-runs functional and non-functional tests to ensure that a software application works as intended after any code changes, updates, revisions, improvements, or optimizations .
+- Regression testing is performed when changes are made to the existing functionality of the software or if there is a bug fix in the software.
+- Regression testing helps to detect any defects or errors that may have been introduced due to the changes in the software.
+- Regression testing can be done manually or using automated tools  .
+- Regression testing can be classified into different types, such as :
+  - Corrective regression testing: This type of testing is used when no changes are made to the source code, but only to the specifications or requirements of the software. The aim is to verify that the software still meets the original specifications after the changes.
+  - Progressive regression testing: This type of testing is used when new features or functionalities are added to the software. The aim is to verify that the new features work as expected and do not affect the existing features of the software.
+  - Retest-all regression testing: This type of testing is used when the changes in the software are significant and affect the entire system. The aim is to retest all the test cases that were executed previously to ensure that the software works as expected after the changes.
+  - Selective regression testing: This type of testing is used when the changes in the software are minor and affect only a part of the system. The aim is to select and retest only the test cases that are relevant to the changed part of the software.
+- Regression testing can be performed using different techniques, such as :
+  - Retest-all technique: This technique involves retesting all the test cases that were executed previously, regardless of their relevance to the changes in the software. This technique is simple but time-consuming and costly.
+  - Regression test selection technique: This technique involves selecting and retesting only the test cases that are relevant to the changes in the software. This technique is more efficient and cost-effective than the retest-all technique, but it requires a good understanding of the software and the changes made to it.
+  - Test case prioritization technique: This technique involves prioritizing the test cases based on their importance, risk, or coverage, and retesting them in the order of their priority. This technique helps to optimize the regression testing process and ensure that the most critical test cases are executed first.
+  - Hybrid technique: This technique involves combining the above techniques to achieve a balance between the effectiveness and efficiency of the regression testing process. For example, one can use the regression test selection technique to select the test cases, and then use the test case prioritization technique to order them.
+- Regression testing can be done at different levels of testing, such as unit testing, integration testing, system testing, or acceptance testing, depending on the scope and nature of the changes in the software.
+- Regression testing can have many benefits, such as :
+  - Improving the quality and reliability of the software
+  - Detecting and preventing any defects or errors that may have been introduced due to the changes in the software
+  - Ensuring that the software meets the specifications and requirements of the users and stakeholders
+  - Increasing the confidence and satisfaction of the users and stakeholders
+  - Reducing the risk and cost of failure or maintenance of the software
+- Regression testing can also have some challenges, such as :
+  - Selecting and prioritizing the test cases that are relevant and effective for the regression testing process
+  - Managing and maintaining the test cases and test data that are used for the regression testing process
+  - Automating and executing the test cases that are suitable for the regression testing process
+  - Reporting and analyzing the results of the regression testing process
+  - Balancing the time and resources that are required for the regression testing process
+- A possible mnemonic to remember the types of regression testing is **CRRS**: Corrective, Progressive, Retest-all, and Selective.
+- A possible mnemonic to remember the techniques of regression testing is **RRTH**: Retest-all, Regression test selection, Test case prioritization, and Hybrid.

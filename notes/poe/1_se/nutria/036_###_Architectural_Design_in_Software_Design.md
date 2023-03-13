@@ -1,0 +1,42 @@
+
+### Architectural Design in Software Design
+
+- Architectural design in software design is the process of creating a blueprint of a software system that outlines the structure, components, and other characteristics of the system.
+- It is important to consider the overall design of a software system before beginning the development process.
+- The goal of architectural design is to create a high-level overview of the system that is both flexible and maintainable.
+- A good architectural design should include:
+  - An overview of the system's components and their relationships
+  - The system's architecture
+  - A description of the system's interfaces
+  - A description of the system's data model
+  - A description of the system's security measures
+  - A description of the system's performance requirements
+  - A description of the system's scalability requirements
+- Mnemonics and learning tricks for architectural design in software design include:
+  - KISS: Keep it simple, stupid
+  - DRY: Don't repeat yourself
+  - YAGNI: You ain't gonna need it
+  - SOLID: Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion
+  - GRASP: Generalization, Reuse, Acquirer-Provider, Indirection, Protected Variations
+- Advantages of architectural design in software design include:
+  - Improved system performance
+  - Improved scalability
+  - Improved maintainability
+  - Improved flexibility
+  - Improved security
+- Disadvantages of architectural design in software design include:
+  - Increased development time
+  - Increased complexity
+  - Increased cost
+- Examples of architectural design in software design include:
+  - Client-server architecture
+  - Layered architecture
+  - Model-view-controller (MVC) architecture
+  - Service-oriented architecture (SOA)
+  - Microservice architecture
+- Applications of architectural design in software design include:
+  - Web applications
+  - Mobile applications
+  - Desktop applications
+  - Embedded systems
+  - Cloud applications

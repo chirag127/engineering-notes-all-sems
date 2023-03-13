@@ -1,0 +1,23 @@
+#### Network components in Computer Networks
+
+Network components are the hardware and software devices that are used to connect computers and other devices in a network. They enable data transmission, routing, switching, and network management. Some of the basic network components are:
+
+- **Server**: A server is a computer that provides data and services to other computers and users in the network. For example, a web server hosts web pages and responds to requests from web browsers. A server can perform multiple functions, such as file sharing, email, database, printing, etc. A server can be dedicated to one function or be multifunctional.
+
+- **Client**: A client is a computer or device that requests and receives data and services from a server in the network. For example, a web browser is a client that requests and displays web pages from a web server. A client can also be a peer, which means it can act as both a client and a server in the network.
+
+- **Transmission media**: Transmission media are the physical or wireless channels that carry data signals from one device to another in the network. For example, copper wires, fiber optic cables, radio waves, and microwaves are some of the transmission media used in networks. Transmission media can be classified into two types: guided and unguided. Guided media are those that require a physical medium, such as wires or cables. Unguided media are those that do not require a physical medium, such as wireless or satellite.
+
+- **NIC (Network Interface Card)**: A NIC is a hardware device that connects a computer or device to the network. It enables the device to send and receive data signals over the transmission media. A NIC has a unique identifier called a MAC (Media Access Control) address, which is used to identify the device in the network. A NIC can be internal or external, wired or wireless, depending on the type of network and device.
+
+- **Switch**: A switch is a network device that connects multiple devices in a network and forwards data packets to the appropriate destination based on the MAC address of the device. A switch operates at the data link layer of the OSI (Open Systems Interconnection) model, which is responsible for error detection and correction, and media access control. A switch can improve network performance and security by reducing collisions and broadcast traffic.
+
+- **Router**: A router is a network device that connects multiple networks and forwards data packets to the appropriate destination based on the IP (Internet Protocol) address of the device. A router operates at the network layer of the OSI model, which is responsible for addressing, routing, and fragmentation. A router can perform various functions, such as filtering, firewall, NAT (Network Address Translation), DHCP (Dynamic Host Configuration Protocol), etc.
+
+- **Hub**: A hub is a network device that connects multiple devices in a network and broadcasts data packets to all the connected devices. A hub operates at the physical layer of the OSI model, which is responsible for encoding, decoding, and signaling. A hub is a simple and cheap device, but it can cause network congestion and security issues due to collisions and broadcast traffic.
+
+- **Firewall**: A firewall is a network device or software that monitors and controls the incoming and outgoing network traffic based on predefined rules and policies. A firewall can operate at different layers of the OSI model, depending on the type and functionality of the firewall. A firewall can provide network security by preventing unauthorized access, blocking malicious traffic, and logging network activity.
+
+- **Access point**: An access point is a network device that connects wireless devices to a wired network. It acts as a bridge between the wireless and wired networks. An access point can also extend the range and coverage of a wireless network by creating a wireless hotspot. An access point can operate in different modes, such as infrastructure, ad hoc, or mesh.
+
+- **Network software**: Network software are the programs and applications that enable network communication, management, and security. For example, network protocols, such as TCP/IP (Transmission Control Protocol/Internet Protocol), HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), etc., are the rules and standards that govern how data is exchanged and processed in the network. Network operating systems, such as Windows, Linux, MacOS, etc., are the platforms that provide network services and functions, such as user authentication, file sharing, printing, etc. Network utilities, such as ping, traceroute, ipconfig, etc., are the tools that help diagnose and troubleshoot network problems.

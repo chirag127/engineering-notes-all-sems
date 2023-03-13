@@ -1,0 +1,24 @@
+### Basics of Software Estimation in spm
+
+- Software estimation is the process of predicting the most realistic amount of effort, cost, and time required to complete a software project.
+- Software estimation is an essential part of software project management (SPM), which involves planning, organizing, monitoring, and controlling the software development process.
+- Software estimation helps to set realistic expectations for the stakeholders, allocate resources, schedule tasks, track progress, and evaluate quality of the software product.
+- Software estimation is not an exact science, but rather a skill that requires experience, judgment, and knowledge of various estimation techniques and tools.
+- Some of the common challenges in software estimation are:
+  - Uncertainty and complexity of software requirements
+  - Lack of historical data and benchmarks
+  - Human factors such as motivation, productivity, and skill level
+  - Environmental factors such as technology, tools, and processes
+  - Risks and contingencies that may affect the project outcome
+- Some of the common software estimation techniques are:
+  - Expert judgment: Based on the opinion and experience of one or more experts who have done similar projects before.
+  - Algorithmic models: Based on mathematical formulas that relate the software size, effort, and cost to various project attributes and parameters. Examples are COCOMO, Function Point Analysis, and Use Case Points.
+  - Estimation by analogy: Based on comparing the new project to one or more similar projects that have been completed in the past and adjusting the effort and cost accordingly.
+  - Top-down and bottom-up: Based on decomposing the project into smaller components and estimating them separately, either from the highest level to the lowest level (top-down) or vice versa (bottom-up).
+  - Parametric models: Based on using statistical methods and data analysis to derive the relationship between the software size, effort, and cost and various project factors. Examples are SLIM, SEER-SEM, and PRICE-S.
+- Some of the common software estimation tools are:
+  - ANGEL: A tool that uses case-based analogy to estimate software effort based on the Euclidean distance between the new project and the source projects.
+  - COCOMO II: A tool that implements the COCOMO model to estimate software effort, cost, and schedule based on the software size, complexity, and quality factors.
+  - Function Point WORKBENCH: A tool that uses function point analysis to measure the software size and complexity based on the user requirements and the data and transaction functions.
+  - Use Case Points Calculator: A tool that uses use case points to estimate software effort and cost based on the number and complexity of use cases and actors in the software system.
+  - SLIM-Estimate: A tool that uses the SLIM model to estimate software effort, cost, and schedule based on the software size, productivity, and quality factors.

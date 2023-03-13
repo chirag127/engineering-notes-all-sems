@@ -1,0 +1,12 @@
+### Sufi movement in India
+
+- Sufism is a mystical branch of Islam that emphasizes the personal and spiritual experience of God.
+- Sufism originated in Persia and spread to India in the 11th and 12th centuries, mainly through the travels of Sufi saints to Multan and Lahore.
+- Sufism in India was influenced by the Vedantic philosophy and Buddhism of India, and also by the Bhakti movement of Hinduism.
+- Sufism in India was organized into orders or silsilas, each with a spiritual leader or pir/sheikh/murshid, a disciple or murid, and a successor or khalifah.
+- Some of the major Sufi orders in India were:
+  - Chishti order: Founded by Khwaja Moinuddin Chishti in Ajmer, it was the most popular and influential order in India. It emphasized love, devotion, and service to humanity, and was tolerant of other religions. Some of the famous Chishti saints were Khwaja Qutbuddin Bakhtiyar Kaki, Baba Farid, Nizamuddin Auliya, and Amir Khusrau.
+  - Suhrawardi order: Founded by Sheikh Shihabuddin Suhrawardi in Baghdad, it was introduced in India by Bahauddin Zakariya in Multan. It focused on strict observance of Islamic law and mystical exercises, and was patronized by the Delhi sultans and the nobility. Some of the notable Suhrawardi saints were Sheikh Hamiduddin Nagauri, Sheikh Ruknuddin, and Sheikh Naseeruddin Mahmud.
+  - Qadiri order: Founded by Sheikh Abdul Qadir Jilani in Baghdad, it was brought to India by Sheikh Nizamuddin Auliya's disciple, Sheikh Nasiruddin Chiragh Dehlavi. It stressed on the importance of the Quran and the Hadith, and was known for its miracles and charismatic leaders. Some of the prominent Qadiri saints were Sheikh Abdul Haq Muhaddis Dehlavi, Sheikh Ahmad Sirhindi, and Sheikh Abdul Qadir Bedil.
+  - Naqshbandi order: Founded by Khwaja Baha-ud-Din Naqshband in Bukhara, it was introduced in India by Khwaja Baqi Billah in Delhi. It advocated silent meditation and strict adherence to the Sunnah, and was opposed to the excessive rituals and music of other orders. Some of the eminent Naqshbandi saints were Sheikh Ahmad Sirhindi, Sheikh Mujaddid Alf Sani, and Sheikh Shah Waliullah.
+- The Sufi movement in India had a significant impact on the religious, social, and cultural life of the people. It contributed to the spread of Islam, the synthesis of Hindu-Muslim culture, the development of regional languages and literature, the promotion of art and music, and the reform of society.

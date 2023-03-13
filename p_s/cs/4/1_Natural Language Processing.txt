@@ -1,0 +1,87 @@
+## Unit 1 - INTRODUCTION
+### Origins and challenges of NLP for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Language Modeling for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Grammar-based LM for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Statistical LM for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Regular Expressions for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Finite-State Automata for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### English Morphology for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Transducers for lexicon and rules for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Tokenization for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Detecting and Correcting Spelling Errors for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+### Minimum Edit Distance for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+## Unit 2 - WORD LEVEL ANALYSIS
+### Unsmoothed N-grams for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Evaluating N-grams for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Smoothing for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Interpolation and Backoff for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Word Classes for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Part-of-Speech Tagging for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Rule-based for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Stochastic for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Transformation-based tagging for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Issues in PoS tagging for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+### Hidden Markov and Maximum Entropy models for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+## Unit 3 - SYNTACTIC ANALYSIS
+### Context Free Grammars for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Grammar rules for English for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Treebanks for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Normal Forms for grammar for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Dependency Grammar for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Syntactic Parsing for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Ambiguity for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Dynamic Programming parsing for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Shallow parsing for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Probabilistic CFG for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Probabilistic CYK for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Probabilistic Lexicalized CFGs for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Feature structures for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+### Unification of feature structures for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+## Unit 4 - SEMANTICS AND PRAGMATICS
+### Requirements for representation for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### First-Order Logic for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Description Logics for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Syntax-Driven Semantic analysis for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Semantic attachments for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Word Senses for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Relations between Senses for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Thematic Roles for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### selectional restrictions for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Word Sense Disambiguation for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### WSD using Supervised for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Dictionary & Thesaurus for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Bootstrapping methods for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+### Word Similarity using Thesaurus and Distributional methods for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+## Unit 5 - BASIC CONCEPTS of Speech Processing
+### Speech Fundamentals for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Articulatory Phonetics for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Production And Classification Of Speech Sounds for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Acoustic Phonetics for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Acoustics Of Speech Production for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Review Of Digital Signal Processing Concepts for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### Short-Time Fourier Transform for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+### FilterBank And LPC Methods for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+## Unit 6 - SPEECH-ANALYSIS
+### Features for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Feature Extraction And Pattern Comparison Techniques for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Speech Distortion Measures for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Mathematical And Perceptual for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Log–Spectral Distance for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Cepstral Distances for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Weighted Cepstral Distances And Filtering for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Likelihood Distortions for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Spectral Distortion Using A Warped Frequency Scale for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### LPC for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### PLP And MFCC Coefficients for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Time Alignment And Normalization for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Dynamic Time Warping for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+### Multiple Time – Alignment Paths for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+## Unit 7 - SPEECH MODELING
+### Hidden Markov Models for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Markov Processes for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### HMMs for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Evaluation for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Optimal State Sequence for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Viterbi Search for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Baum-Welch Parameter Re-Estimation for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+### Implementation Issues for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing

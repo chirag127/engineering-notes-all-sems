@@ -1,0 +1,34 @@
+### Servlet Overview and Architecture in Servlets
+
+- A servlet is a Java class that runs on a web server and handles HTTP requests and responses.
+- A servlet can perform various tasks such as processing forms, generating dynamic content, managing sessions, etc.
+- A servlet is a server-side component that interacts with clients through a request-response model.
+- A servlet is managed by a servlet container, which is a part of a web server or an application server that provides the environment for servlets to run.
+- A servlet container is responsible for loading, initializing, invoking, and destroying servlets, as well as handling communication between servlets and clients.
+- A servlet container also provides services such as security, concurrency, logging, etc. to the servlets.
+- The servlet API is a set of interfaces and classes that define the contract between the servlets and the servlet container.
+- The servlet API consists of two packages: javax.servlet and javax.servlet.http.
+- The javax.servlet package contains the generic interfaces and classes that are applicable to all types of servlets, such as Servlet, ServletConfig, ServletContext, ServletRequest, ServletResponse, etc.
+- The javax.servlet.http package contains the HTTP-specific interfaces and classes that are used for web applications, such as HttpServlet, HttpServletRequest, HttpServletResponse, HttpSession, etc.
+- A servlet class must implement the Servlet interface or extend a class that implements it, such as HttpServlet.
+- A servlet class must also define a public, no-argument constructor and override the service method, which is the entry point for handling requests.
+- A servlet class can also override the init and destroy methods, which are invoked by the servlet container when the servlet is initialized and destroyed, respectively.
+- A servlet class can also implement the SingleThreadModel interface, which indicates that the servlet can handle only one request at a time and requires the servlet container to synchronize access to it.
+- A servlet can be configured using annotations or deployment descriptors.
+- Annotations are Java annotations that provide metadata about the servlet, such as its name, URL patterns, initialization parameters, etc.
+- Deployment descriptors are XML files that provide configuration information about the web application, such as the servlets, filters, listeners, security constraints, etc.
+- The deployment descriptor file for a web application is named web.xml and is located in the WEB-INF directory of the web application.
+- The servlet container reads the annotations and the deployment descriptor file and creates a servlet configuration object for each servlet, which is an instance of the ServletConfig interface.
+- The servlet configuration object provides access to the initialization parameters and the servlet context object, which is an instance of the ServletContext interface.
+- The servlet context object represents the web application and provides access to the web application resources, attributes, parameters, etc.
+- The servlet context object is shared by all the servlets in the web application and can be used for inter-servlet communication.
+- When a client sends an HTTP request to the web server, the web server forwards the request to the servlet container, which maps the request URL to a servlet and invokes its service method.
+- The service method receives two parameters: a request object and a response object, which are instances of the HttpServletRequest and HttpServletResponse interfaces, respectively.
+- The request object provides access to the request information, such as the HTTP method, headers, parameters, cookies, session, etc.
+- The response object provides access to the response information, such as the status code, headers, cookies, etc.
+- The service method can perform any business logic and generate any content for the response, such as HTML, XML, JSON, etc.
+- The service method can also forward the request and response objects to another servlet or a JSP page, which is a Java-based template that can generate dynamic content.
+- The service method can also include the content of another servlet or a JSP page in the response, which is called servlet chaining.
+- The service method can also redirect the client to another URL, which is a way of sending the client to a different resource.
+- The service method must end by sending the response to the client or by completing the request, which indicates that the response has been sent by another servlet or a JSP page.
+- The servlet container then returns the control to the web server, which sends the response to the client.

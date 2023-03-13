@@ -1,0 +1,78 @@
+## Unit 1 - Introduction : Operating system and functions
+### Classification of Operating systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Batch for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Interactive for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Time sharing for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Real Time System for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Multiprocessor Systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Multiuser Systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Multiprocess Systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Multithreaded Systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Operating System Structure for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Layered structure for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### System Components for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Operating System services for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Reentrant Kernels for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+### Monolithic and Microkernel Systems for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+## Unit 2 - Concurrent Processes
+### Process Concept for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Principle of Concurrency for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Producer / Consumer Problem for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Mutual Exclusion for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Critical Section Problem for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Dekker’s solution for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Peterson’s solution for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Semaphores for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Test and Set operation for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Classical Problem in Concurrency for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Dining Philosopher Problem for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Sleeping Barber Problem for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Inter Process Communication models and Schemes for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+### Process generation for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+## Unit 3 - CPU Scheduling
+### Scheduling Concepts for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Performance Criteria for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Process States for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Process Transition Diagram for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Schedulers for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Process Control Block (PCB) for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Process address space for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Process identification information for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Threads and their management for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Scheduling Algorithms for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Multiprocessor Scheduling for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Deadlock for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### System model for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Deadlock characterization for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Prevention for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Avoidance and detection for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+### Recovery from deadlock for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+## Unit 4 - Memory Management
+### Basic bare machine for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Resident monitor for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Multiprogramming with fixed partitions for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Multiprogramming with variable partitions for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Protection schemes for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Paging for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Segmentation for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Paged segmentation for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Virtual memory concepts for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Demand paging for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Performance of demand paging for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Page replacement algorithms for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Thrashing for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Cache memory organization for the notes of the Unit 4 - Memory Management in the subject of Operating system
+### Locality of reference for the notes of the Unit 4 - Memory Management in the subject of Operating system
+## Unit 5 - I/O Management and Disk Scheduling
+### I/O devices for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### and I/O subsystems for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### I/O buffering for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### Disk storage and disk scheduling for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### RAID for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File System for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File concept for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File organization and access mechanism for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File directories for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### and File sharing for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File system implementation issues for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+### File system protection and security for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system

@@ -1,0 +1,7 @@
+### Society in Ancient India
+
+- Society in ancient India was based on the concept of **varna** and **ashrama**, which divided the people into four main classes (Brahmins, Kshatriyas, Vaishyas and Shudras) and four stages of life (student, householder, retiree and renunciant).
+- The **Vedic society** was the earliest phase of ancient Indian society, which emerged from the Indo-Aryan migration into the Indus Valley around 1500 BCE. The Vedic society was characterized by the worship of nature gods, the performance of sacrifices, the composition of hymns and the development of the Sanskrit language.
+- The **Aryan society** was the second phase of ancient Indian society, which developed after the decline of the Indus Valley Civilization around 1000 BCE. The Aryan society was characterized by the expansion of agriculture, the emergence of kingdoms, the codification of laws and the development of the caste system.
+- The **Iron Age civilization** was the third phase of ancient Indian society, which coincided with the rise of Buddhism and Jainism around 600 BCE. The Iron Age civilization was characterized by the growth of urban centers, the emergence of empires, the spread of trade and the development of literature and art.
+- Society in ancient India was influenced by various factors such as geography, religion, culture, economy and politics. Society in ancient India was also diverse and dynamic, as it witnessed the interaction of different groups such as the Dravidians, the Greeks, the Kushans, the Guptas and the Huns.
