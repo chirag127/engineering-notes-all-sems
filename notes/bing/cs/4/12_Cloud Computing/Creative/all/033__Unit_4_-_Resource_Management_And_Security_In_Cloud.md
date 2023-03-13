@@ -1,0 +1,33 @@
+## Unit 4 - Resource Management And Security In Cloud
+
+- Resource management is the process of allocating computing, storage, networking and energy resources to a set of applications in order to meet performance objectives and requirements of the infrastructure providers and the cloud users.
+- Resource management in cloud computing involves the following aspects:
+  - Resource provisioning: The process of acquiring and releasing resources on demand according to the workload and service level agreements (SLAs).
+  - Resource scheduling: The process of assigning resources to tasks and applications based on their priorities, dependencies and deadlines.
+  - Resource monitoring: The process of collecting and analyzing resource utilization and performance metrics to detect and resolve issues and optimize resource usage.
+  - Resource scaling: The process of adjusting the amount and type of resources allocated to applications based on the changing workload and SLA requirements.
+- Resource management in cloud computing faces several challenges, such as:
+  - Resource heterogeneity: The diversity and variability of resource types, capacities and configurations across different cloud providers and regions.
+  - Resource dynamism: The frequent and unpredictable changes in resource availability, demand and cost due to factors such as failures, maintenance, load fluctuations and market conditions.
+  - Resource contention: The competition and interference among multiple applications and users for the same or shared resources, which may affect the quality of service (QoS) and user experience.
+  - Resource complexity: The difficulty of managing and optimizing a large number of resources with different characteristics, dependencies and constraints.
+- Resource management in cloud computing can benefit from the following techniques and strategies:
+  - Resource abstraction: The process of hiding the low-level details and complexities of the physical resources and providing a unified and simplified view of the available resources to the users and applications.
+  - Resource virtualization: The process of creating and managing virtual resources that are decoupled from the underlying physical resources and can be dynamically provisioned, configured and migrated across different locations and platforms.
+  - Resource orchestration: The process of coordinating and automating the resource management tasks and workflows across multiple cloud services and providers using tools and frameworks such as Kubernetes, Terraform and Ansible.
+  - Resource optimization: The process of finding the optimal resource allocation and configuration that minimizes the cost and maximizes the performance and reliability of the applications and services.
+
+- Security in cloud computing is a collection of procedures and technology designed to address external and internal threats to business security.
+- Security in cloud computing involves the following aspects:
+  - Security management: The process of defining, implementing and enforcing the security policies, standards and best practices for the cloud environment and the applications and data hosted on it.
+  - Security assessment: The process of evaluating and testing the security posture and compliance of the cloud environment and the applications and data hosted on it using tools and methods such as vulnerability scanning, penetration testing and auditing.
+  - Security monitoring: The process of collecting and analyzing security events and logs to detect and respond to security incidents and breaches in the cloud environment and the applications and data hosted on it using tools and services such as Azure Sentinel, AWS CloudTrail and Google Cloud Security Command Center.
+  - Security remediation: The process of recovering and restoring the cloud environment and the applications and data hosted on it after a security incident or breach using tools and services such as Azure Backup, AWS CloudFormation and Google Cloud Deployment Manager.
+- Security in cloud computing faces several challenges, such as:
+  - Security complexity: The difficulty of securing and managing a large and diverse cloud environment with multiple services, providers and regions, each with their own security features and configurations.
+  - Security responsibility: The division and sharing of security responsibilities and accountabilities between the cloud provider and the cloud user, which may vary depending on the service model (IaaS, PaaS, SaaS) and the deployment model (public, private, hybrid, multi-cloud).
+  - Security visibility: The lack of transparency and control over the security operations and activities of the cloud provider and the cloud user, which may affect the trust and confidence of the stakeholders and regulators.
+  - Security threats: The increasing and evolving cyberattacks and risks that target the cloud environment and the applications and data hosted on it, such as data breaches, denial-of-service attacks, ransomware, phishing, insider threats and advanced persistent threats.
+- Security in cloud computing can benefit from the following techniques and strategies:
+  - Security by design: The principle of incorporating security considerations and requirements into every stage of the cloud development and deployment lifecycle, from planning and design to testing and maintenance.
+  - Security in depth: The principle of applying multiple layers and types of security controls and measures to protect the cloud environment and the applications and data hosted on it, such as

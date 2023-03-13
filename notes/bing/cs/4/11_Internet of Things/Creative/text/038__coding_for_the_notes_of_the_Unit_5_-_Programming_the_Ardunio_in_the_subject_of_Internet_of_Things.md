@@ -1,0 +1,29 @@
+### Coding for the notes of the Unit 5 - Programming the Arduino in the subject of Internet of Things
+
+- Arduino is an open-source platform that consists of a hardware board and a software IDE (Integrated Development Environment) that can be used to create and program various IoT devices and applications.
+- The hardware board is based on a microcontroller, which is a small computer that can execute instructions and interact with sensors, actuators, and other components.
+- The software IDE is a graphical user interface that allows users to write, compile, and upload code to the board using a USB cable or a wireless connection.
+- The code that runs on the board is written in a language called Arduino C/C++, which is a simplified version of the standard C/C++ language with some additional features and libraries.
+- The basic structure of an Arduino C/C++ program consists of two main functions: setup() and loop().
+  - The setup() function is executed only once when the board is powered on or reset. It is used to initialize variables, pin modes, and other settings.
+  - The loop() function is executed repeatedly after the setup() function. It is used to implement the main logic and functionality of the program.
+- The Arduino C/C++ language also supports some special keywords and functions that are specific to the Arduino platform, such as:
+  - pinMode(pin, mode) - sets the mode of a digital pin to either INPUT, OUTPUT, or INPUT_PULLUP.
+  - digitalWrite(pin, value) - writes a HIGH or LOW value to a digital pin.
+  - digitalRead(pin) - reads the value of a digital pin and returns either HIGH or LOW.
+  - analogWrite(pin, value) - writes an analog value (PWM) to a digital pin that supports PWM.
+  - analogRead(pin) - reads the value of an analog pin and returns a number between 0 and 1023.
+  - Serial - a built-in object that allows communication between the board and the computer or other devices using serial protocols (UART, SPI, I2C, etc.).
+  - delay(ms) - pauses the program for a specified number of milliseconds.
+  - millis() - returns the number of milliseconds since the board started running the program.
+  - random(min, max) - returns a random number between min and max.
+- The Arduino C/C++ language also supports some standard C/C++ features and libraries, such as:
+  - Variables - containers that store data of different types, such as int, float, char, bool, etc.
+  - Operators - symbols that perform arithmetic, logical, bitwise, or assignment operations on variables or values, such as +, -, *, /, %, &&, ||, ~, <<, >>, =, +=, etc.
+  - Control structures - statements that control the flow of the program based on conditions or iterations, such as if, else, switch, case, for, while, do-while, break, continue, etc.
+  - Functions - blocks of code that perform a specific task and can be called from other parts of the program, such as void, return, parameters, arguments, etc.
+  - Arrays - collections of variables of the same type that are stored in contiguous memory locations and can be accessed by their index, such as int a[10], a[0], a[1], etc.
+  - Strings - sequences of characters that are stored in arrays and can be manipulated using various functions, such as char s[20], s[0], s[1], strlen(s), strcpy(s1, s2), strcat(s1, s2), etc.
+  - Pointers - variables that store the address of another variable or function and can be dereferenced using the * or -> operators, such as int *p, p = &a, *p, p->x, etc.
+  - Structures - user-defined data types that group together variables of different types under a single name and can be accessed using the . or -> operators, such as struct point {int x; int y;}; point p, p.x, p.y, etc.
+  - Libraries - collections of predefined functions and variables that can be included and used in the program using the #include directive, such as #include <math.h>, #include <string.h>, #include <SPI.h>, etc.

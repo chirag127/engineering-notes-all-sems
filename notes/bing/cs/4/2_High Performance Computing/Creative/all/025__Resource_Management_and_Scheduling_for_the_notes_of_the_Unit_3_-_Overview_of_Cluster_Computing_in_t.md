@@ -1,0 +1,18 @@
+### Resource Management and Scheduling for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, as they determine how the cluster resources are allocated and utilized by the applications.
+- The main objectives of RMS are to maximize the resource utilization, minimize the processing time, and ensure fairness and quality of service for the users.
+- The RMS of clusters provides support for four main functionalities:
+  - Management of resources: The RMS monitors, controls, and maintains the status information of the resources such as processors, memory, disk, network, etc. in the cluster system. It also handles the failures and faults of the resources and provides mechanisms for recovery and fault tolerance.
+  - Job queuing: The RMS receives the jobs submitted by the users into the cluster system and places them into queues until there are available resources to execute the jobs. The RMS also manages the priorities, dependencies, and constraints of the jobs.
+  - Job scheduling: The RMS invokes the cluster scheduler to determine how resources are assigned to various jobs. The cluster scheduler uses different algorithms and policies to optimize the performance and efficiency of the cluster system. The cluster scheduler can be static or dynamic, centralized or distributed, and can consider various factors such as resource availability, job characteristics, user preferences, etc.
+  - Job execution: The RMS dispatches the jobs to the assigned nodes and manages the job execution processes. It also handles the communication, synchronization, and load balancing among the nodes. The RMS returns the results to the users upon job completion and releases the resources for other jobs.
+- Some examples of RMS software for cluster computing are Slurm, Torque, PBS, Condor, etc.
+- Some challenges and issues in RMS for cluster computing are:
+  - Resource heterogeneity: The cluster resources may have different types, capacities, and performance characteristics, which makes the scheduling and allocation of resources more complex and challenging.
+  - Resource dynamism: The cluster resources may change over time due to failures, additions, or removals of nodes, which requires the RMS to adapt to the changing environment and reconfigure the resources accordingly.
+  - Resource contention: The cluster resources may be shared by multiple users and applications, which may cause conflicts and competition for the resources. The RMS needs to ensure fairness and quality of service for the users and applications, and avoid resource starvation and underutilization.
+  - Resource scalability: The cluster system may grow in size and complexity, which may increase the overhead and complexity of the RMS. The RMS needs to be scalable and efficient to handle large-scale and complex cluster systems.
+
+- A possible mnemonic to remember the four main functionalities of RMS is **MJJJ** (Management, Job queuing, Job scheduling, Job execution).
+- A possible learning trick to understand the difference between static and dynamic scheduling is to think of static scheduling as a **plan** and dynamic scheduling as a **reaction**. Static scheduling makes a plan for the resource allocation and job execution before the cluster system starts, and does not change the plan during the execution. Dynamic scheduling reacts to the changes and events in the cluster system during the execution, and adjusts the resource allocation and job execution accordingly.

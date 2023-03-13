@@ -1,0 +1,24 @@
+### Cyber infrastructure for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cyber infrastructure is a term that refers to the integrated system of hardware, software, data, networks, and human resources that enable scientific research and innovation in the digital age.
+- Cloud computing is a model of delivering computing resources as services over the internet, such as servers, storage, databases, networks, software, analytics, and intelligence.
+- Cloud computing enables users to access scalable, on-demand, and pay-per-use computing resources without investing in or maintaining physical infrastructure.
+- Cloud computing can offer various benefits for cyber infrastructure, such as:
+  - Cost efficiency: Cloud computing can reduce the capital and operational expenses of acquiring, maintaining, and upgrading computing infrastructure.
+  - Scalability: Cloud computing can provide flexible and elastic computing resources that can be adjusted according to the changing needs and demands of users and applications.
+  - Availability: Cloud computing can ensure high availability and reliability of computing resources by using multiple servers, data centers, and backup systems across different locations.
+  - Security: Cloud computing can provide various security measures and controls to protect the confidentiality, integrity, and availability of data and applications in the cloud, such as encryption, authentication, authorization, firewalls, and monitoring.
+  - Innovation: Cloud computing can enable faster and easier development, deployment, and testing of new applications and services by using various cloud-based tools and platforms.
+- Cloud computing can also pose some challenges and risks for cyber infrastructure, such as:
+  - Complexity: Cloud computing can increase the complexity of managing and securing the cloud environment, as it involves multiple layers, components, providers, and users.
+  - Misconfiguration: Cloud computing can expose the cloud resources to potential attacks and breaches if they are not configured properly and securely according to the best practices and standards.
+  - Compliance: Cloud computing can raise some legal and regulatory issues regarding the ownership, governance, and accountability of data and applications in the cloud, especially when they are stored and processed across different jurisdictions and regions.
+  - Dependency: Cloud computing can create a dependency on the cloud providers and their services, which can affect the performance, availability, and security of the cloud resources if they experience any failures, outages, or incidents.
+- Cloud computing can be classified into different types of services and models, such as:
+  - IaaS (Infrastructure-as-a-Service): A hybrid approach, where organizations can manage some of their data and applications on-premise while relying on cloud providers to manage servers, hardware, networking, virtualization, and storage needs.
+  - PaaS (Platform-as-a-Service): A development-oriented approach, where organizations can use cloud-based platforms and tools to create, deploy, and run applications and services without worrying about the underlying infrastructure.
+  - SaaS (Software-as-a-Service): A user-oriented approach, where organizations can access cloud-based applications and services through a web browser or a mobile app without installing or maintaining any software on their devices.
+  - Public cloud: A cloud model where the cloud resources are owned and operated by a third-party cloud provider and shared among multiple users and organizations.
+  - Private cloud: A cloud model where the cloud resources are owned and operated by a single organization and dedicated for its exclusive use.
+  - Hybrid cloud: A cloud model where the cloud resources are distributed among public and private clouds, depending on the needs and preferences of the organization.
+  - Multi-cloud: A cloud model where the cloud resources are sourced from multiple cloud providers, offering more diversity, flexibility, and redundancy.

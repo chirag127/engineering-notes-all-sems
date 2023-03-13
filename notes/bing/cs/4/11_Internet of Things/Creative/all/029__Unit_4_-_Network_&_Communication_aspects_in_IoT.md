@@ -1,0 +1,24 @@
+## Unit 4 - Network & Communication aspects in IoT
+
+- The Internet of Things (IoT) is the network of physical objects that can interact with each other and with other devices or systems through the internet.
+- IoT devices can collect, process, and exchange data using sensors, actuators, embedded software, and communication protocols.
+- IoT devices can be classified into three categories: edge devices, gateways, and cloud servers.
+- Edge devices are the ones that directly sense or control the physical world, such as sensors, cameras, smart meters, etc.
+- Gateways are the intermediate devices that connect edge devices to the internet or to other networks, such as routers, hubs, bridges, etc.
+- Cloud servers are the remote devices that store, analyze, and manage data from edge devices and gateways, such as databases, web servers, cloud platforms, etc.
+- IoT network and communication aspects involve the selection and implementation of appropriate technologies and protocols for each layer of the IoT architecture, such as physical, data link, network, transport, session, presentation, and application layers.
+- Some of the key factors that influence the choice of network and communication technologies for IoT are:
+  - Power consumption: IoT devices should consume minimal power to prolong battery life and reduce operational costs.
+  - Bandwidth: IoT devices should transmit and receive data at optimal speeds to ensure timely and reliable communication.
+  - Range: IoT devices should cover sufficient distances to enable connectivity and scalability of the network.
+  - Security: IoT devices should protect data and resources from unauthorized access, modification, or disruption.
+  - Cost: IoT devices should be affordable and cost-effective to deploy and maintain.
+- Some of the common network and communication technologies for IoT are:
+  - Cellular: Cellular networks use licensed radio frequencies to provide wireless connectivity to mobile devices. Cellular networks can offer high bandwidth, long range, and global coverage, but they also consume high power and incur high costs. Examples of cellular technologies for IoT are GSM, GPRS, 3G, 4G, 5G, LTE, NB-IoT, etc.
+  - WiFi: WiFi networks use unlicensed radio frequencies to provide wireless connectivity to local devices. WiFi networks can offer high bandwidth, moderate range, and low cost, but they also consume high power and have limited coverage. Examples of WiFi technologies for IoT are IEEE 802.11a/b/g/n/ac/ax, WiFi Direct, WiFi HaLow, etc.
+  - Ethernet: Ethernet networks use wired cables to provide physical connectivity to devices. Ethernet networks can offer high bandwidth, high reliability, and high security, but they also consume high power and incur high costs. Examples of Ethernet technologies for IoT are IEEE 802.3, IEEE 802.3af/at/bt (Power over Ethernet), etc.
+  - LPWAN: Low Power Wide Area Network (LPWAN) networks use low-frequency radio signals to provide wireless connectivity to remote devices. LPWAN networks can offer low power consumption, long range, and low cost, but they also have low bandwidth and high latency. Examples of LPWAN technologies for IoT are LoRa, Sigfox, NB-IoT, LTE-M, etc.
+  - Bluetooth: Bluetooth networks use short-range radio signals to provide wireless connectivity to nearby devices. Bluetooth networks can offer low power consumption, moderate bandwidth, and low cost, but they also have short range and low security. Examples of Bluetooth technologies for IoT are Bluetooth Classic, Bluetooth Low Energy (BLE), Bluetooth Mesh, etc.
+  - ZigBee: ZigBee networks use low-power radio signals to provide wireless connectivity to devices in a mesh topology. ZigBee networks can offer low power consumption, moderate bandwidth, and moderate range, but they also have high complexity and low interoperability. Examples of ZigBee technologies for IoT are IEEE 802.15.4, ZigBee PRO, ZigBee IP, etc.
+  - NFC: Near Field Communication (NFC) networks use electromagnetic induction to provide wireless connectivity to devices in close proximity. NFC networks can offer low power consumption, low bandwidth, and high security, but they also have very short range and limited functionality. Examples of NFC technologies for IoT are ISO/IEC 14443, ISO/IEC 18092, NFC Forum, etc.
+  - RFID: Radio Frequency Identification (RFID) networks use radio waves to identify and track objects using tags and readers. RFID networks can offer low power consumption, low bandwidth, and long range, but they also have low security and high interference. Examples of RFID technologies for IoT are ISO/IEC 15693, ISO/IEC

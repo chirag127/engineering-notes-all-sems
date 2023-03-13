@@ -1,0 +1,11 @@
+## Unit 4 - Network & Communication aspects in IoT
+
+- IoT stands for Internet of Things, which is the connection of devices over the internet, where these smart devices communicate with each other, exchange data, and perform some tasks without any human involvement.
+- IoT devices can range from the tiniest temperature sensor to a giant industrial robot, and they can use various methods to communicate with neighboring devices, such as Bluetooth, Wi-Fi, Zigbee, LoRa, etc.
+- IoT devices also need to communicate with applications and services running in the cloud, which requires standardized protocols to ensure communication is secure and reliable. The internet relies on IPv6, which is the latest internet protocol version, and it is used for transferring data and communication. Each IoT device has an IP address and networking is the key aspect in the Internet of Things.
+- Communication protocols in IoT can be classified into three layers: application layer, network layer, and physical layer.
+  - Application layer: This layer provides the framework that defines how information content is transported, such as MQTT, CoAP, HTTP, etc. These protocols are designed to be lightweight, efficient, and scalable for IoT applications.
+  - Network layer: This layer provides the service to the application layer, such as routing, addressing, and security. Some of the protocols used in this layer are IPv6, 6LoWPAN, RPL, etc. These protocols are optimized for low power and low bandwidth networks.
+  - Physical layer: This layer provides the physical medium for data transmission, such as radio frequency, optical, or wired. Some of the technologies used in this layer are Bluetooth, Wi-Fi, Zigbee, LoRa, etc. These technologies have different characteristics in terms of range, data rate, power consumption, and cost.
+- IoT communication also involves gateways, which are devices that translate and re-transmit information, typically linking local device networks to the internet. Gateways can perform functions such as protocol conversion, data aggregation, security, and management.
+- IoT communication faces various challenges, such as heterogeneity, scalability, interoperability, security, and reliability. These challenges require novel solutions and standards to enable seamless and efficient communication among IoT devices and systems.

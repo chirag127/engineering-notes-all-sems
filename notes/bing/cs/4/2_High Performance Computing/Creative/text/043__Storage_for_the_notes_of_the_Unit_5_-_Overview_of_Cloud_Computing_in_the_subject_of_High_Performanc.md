@@ -1,0 +1,21 @@
+### Storage for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cloud storage is a model of computer data storage in which the digital data is stored in logical pools, said to be on "the cloud".
+- The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a hosting company.
+- Cloud storage allows users to save important data or media files on remote, third-party servers and access them at any time over the internet.
+- Cloud storage delivers cost-effective, scalable storage that can adapt to the changing needs and demands of the users.
+- Cloud storage also offers security features such as access control policies, data encryption, retention policies, retention policy locks, and signed URLs to protect the data and keep it private and secure.
+- There are different types of cloud storage services, such as:
+  - Public cloud storage: The storage service is provided by a third-party provider over the public internet and is shared by multiple users.
+  - Private cloud storage: The storage service is provided by a dedicated provider over a private network and is used by a single organization.
+  - Hybrid cloud storage: The storage service is a combination of public and private cloud storage, where some data is stored on the public cloud and some data is stored on the private cloud.
+- There are also different levels of cloud storage, such as:
+  - Object storage: The data is stored as objects, which are collections of data and metadata that are assigned a unique identifier.
+  - File storage: The data is stored as files, which are organized in a hierarchical structure of folders and subfolders.
+  - Block storage: The data is stored as blocks, which are fixed-sized chunks of data that are assigned a unique address.
+- Some of the benefits of cloud storage are:
+  - Reduced costs: Cloud storage eliminates the need for purchasing, maintaining, and upgrading storage hardware and software.
+  - Increased availability: Cloud storage ensures that the data is always accessible and available, even in the case of disasters or failures.
+  - Improved performance: Cloud storage provides fast and reliable data transfer and access, as well as features such as caching, compression, and deduplication.
+  - Enhanced scalability: Cloud storage allows users to easily increase or decrease the storage capacity as per their needs and demands.
+  - Simplified management: Cloud storage enables users to manage and monitor their data through a web-based interface or an application programming interface (API).

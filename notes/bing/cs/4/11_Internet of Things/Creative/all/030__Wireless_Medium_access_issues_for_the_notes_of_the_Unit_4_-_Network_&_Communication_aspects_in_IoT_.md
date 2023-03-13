@@ -1,0 +1,24 @@
+### Wireless Medium access issues for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- Wireless medium access issues refer to the challenges and problems that arise when multiple devices share the same wireless channel to communicate with each other in the Internet of Things (IoT) environment.
+- Some of the common wireless medium access issues are:
+  - Interference: Interference occurs when the signals from different devices overlap or collide with each other, causing degradation of the signal quality and loss of data. Interference can be caused by devices operating in the same frequency band, such as IEEE 802.11 (Wi-Fi) and IEEE 802.15.4 (ZigBee), or by external sources of noise, such as microwave ovens, cordless phones, or Bluetooth devices. Interference can reduce the network throughput, increase the energy consumption, and increase the latency of the IoT devices.
+  - Hidden terminal problem: Hidden terminal problem occurs when two devices that are out of the range of each other try to communicate with a common device that is in the range of both of them. For example, in the figure below, device A and device C are hidden terminals for each other, as they cannot sense each other's transmissions, but they can both communicate with device B. This can lead to collisions and retransmissions, as device A and device C may try to send data to device B at the same time, without knowing that the other device is also transmitting.
+
+  ```
+  A ------ B ------ C
+  ```
+  - Exposed terminal problem: Exposed terminal problem occurs when a device that is in the range of another device cannot transmit to its intended destination because the other device is already transmitting to a different destination. For example, in the figure below, device B is an exposed terminal, as it cannot send data to device C, even though device C is in its range, because device A is already sending data to device B. This can result in underutilization of the channel and wasted opportunities for transmission.
+
+  ```
+  A ------ B ------ C
+  ```
+  - Near-far problem: Near-far problem occurs when a device that is closer to the receiver has a higher signal strength than a device that is farther away from the receiver, causing the farther device's signal to be drowned out by the closer device's signal. For example, in the figure below, device A is closer to device B than device C, and device A has a higher signal strength than device C. Therefore, device B can receive device A's signal clearly, but device C's signal may be too weak or distorted to be received by device B. This can result in unfairness and inefficiency in the channel access.
+
+  ```
+  A ------ B ------ C
+  ```
+- To overcome these wireless medium access issues, various protocols and techniques have been proposed and implemented at the medium access control (MAC) layer of the IoT devices. The MAC layer is responsible for coordinating the data transmission and reception among the IoT devices, and ensuring that the wireless channel is used efficiently and fairly. Some of the common MAC protocols and techniques are:
+  - Carrier sense multiple access with collision avoidance (CSMA/CA): CSMA/CA is a protocol that allows the IoT devices to sense the channel before transmitting, and to avoid collisions by using a random backoff mechanism. In CSMA/CA, a device that wants to transmit data first listens to the channel to check if it is idle or busy. If the channel is idle, the device transmits its data. If the channel is busy, the device waits for a random amount of time before trying again. This way, the device avoids colliding with other devices that are also transmitting. CSMA/CA is used by IEEE 802.11 and IEEE 802.15.4 standards for wireless communication.
+  - Time division multiple access (TDMA): TDMA is a protocol that divides the channel into fixed time slots, and assigns each slot to a different device. In TDMA, a device can only transmit data in its assigned slot, and cannot interfere with other devices that are transmitting in different slots. This way, the device avoids collisions and interference, and can achieve a deterministic and predictable performance. TDMA is used by some IoT applications that require low latency and high reliability, such as industrial control and smart grid.
+  - Frequency division multiple access (FDMA): FDMA is a protocol that divides the channel into fixed frequency bands, and assigns each band to a different device. In FDMA, a device can only transmit data in its assigned band, and cannot interfere with other devices that are transmitting

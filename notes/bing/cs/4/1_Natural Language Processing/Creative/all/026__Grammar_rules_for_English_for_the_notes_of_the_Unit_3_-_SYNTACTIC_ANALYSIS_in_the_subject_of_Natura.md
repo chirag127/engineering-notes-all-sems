@@ -1,0 +1,22 @@
+### Grammar rules for English for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+
+- Syntactic analysis, also known as syntax analysis or parsing, is the process of analyzing natural language with the rules of a formal grammar .
+- Formal grammar is a set of rules that defines the syntactic structure of well-formed sentences in a natural language.
+- Syntax is the set of rules that governs the word order and the arrangement of phrases in sentences  .
+- The main syntactic rules in English are as follows:
+  - Sentences must have a subject and a verb.
+  - The subject of a sentence must come before the verb.
+  - Objects come after the verb.
+  - Adverbs and adjectives go before the words they describe.
+- Syntactic analysis assigns a semantic structure to text, which represents the meaning and the relationships of the words and phrases in a sentence .
+- Syntactic analysis can be performed using different methods, such as:
+  - Constituency parsing: This method identifies the syntactic constituents or groups of words that function as a unit in a sentence, such as noun phrases, verb phrases, prepositional phrases, etc. Constituency parsing can be represented using a tree diagram, where each node corresponds to a constituent and each branch corresponds to a syntactic relation.
+  - Dependency parsing: This method identifies the syntactic dependencies or relations between words in a sentence, such as subject, object, modifier, etc. Dependency parsing can be represented using a graph, where each node corresponds to a word and each edge corresponds to a dependency relation.
+- Syntactic analysis is an important task in natural language processing, as it can help with other tasks, such as:
+  - Semantic analysis: This task involves understanding the meaning and the context of natural language. Syntactic analysis can provide the semantic structure and the relations of the words and phrases in a sentence, which can help with semantic analysis.
+  - Machine translation: This task involves translating natural language from one language to another. Syntactic analysis can help with identifying the syntactic structure and the word order of the source language, which can help with generating the syntactic structure and the word order of the target language.
+  - Information extraction: This task involves extracting relevant information from natural language. Syntactic analysis can help with identifying the entities, the attributes, and the relations of the entities in a sentence, which can help with information extraction.
+- Some mnemonics and learning tricks for the syntactic rules in English are as follows:
+  - SVO: This acronym stands for Subject-Verb-Object, which is the basic word order in English sentences. For example, "She loves him."
+  - BANGS: This acronym stands for Beauty, Age, Number, Goodness, and Size, which are the categories of adjectives that go before the noun in English. For example, "A beautiful young girl."
+  - FANBOYS: This acronym stands for For, And, Nor, But, Or, Yet, and So, which are the coordinating conjunctions that can join two independent clauses in English. For example, "He was hungry, but he had no money."

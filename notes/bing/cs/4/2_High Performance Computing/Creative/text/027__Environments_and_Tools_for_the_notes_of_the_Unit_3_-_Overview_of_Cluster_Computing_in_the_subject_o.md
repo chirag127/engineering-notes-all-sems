@@ -1,0 +1,14 @@
+### Environments and Tools for Cluster Computing
+
+- Cluster computing is a form of high performance distributed computing (HPDC) that uses a network of computers (called a cluster) to work together as a single system and solve computationally intensive applications.
+- Cluster computing environments are the software platforms that enable the creation, management, and execution of cluster applications. They typically consist of the following components:
+  - Operating system: The software that runs on each node of the cluster and provides basic services such as memory management, file system, networking, etc. Some examples of operating systems for cluster computing are Linux, Windows, and Solaris.
+  - Cluster middleware: The software that coordinates the communication and cooperation among the nodes of the cluster and provides common services such as load balancing, fault tolerance, resource allocation, etc. Some examples of cluster middleware are MPI, PVM, and OpenMP.
+  - Cluster management tools: The software that helps the users and administrators to configure, monitor, and control the cluster and its resources. Some examples of cluster management tools are Swarm, Fleet, Kubernetes, and Mesos.
+  - Cluster applications: The software that runs on the cluster and performs the specific tasks that require high performance computing. Some examples of cluster applications are scientific simulations, data analysis, web services, etc.
+- Cluster computing tools are the software programs that assist the developers and users of cluster applications in various aspects such as design, optimization, debugging, testing, etc. They typically include the following types:
+  - Programming languages: The languages that allow the developers to express the logic and algorithms of cluster applications. Some examples of programming languages for cluster computing are C, C++, Java, Python, etc.
+  - Programming environments: The environments that provide the developers with tools and libraries to facilitate the development of cluster applications. Some examples of programming environments for cluster computing are Eclipse, Visual Studio, NetBeans, etc.
+  - Performance analysis tools: The tools that help the developers and users to measure and improve the performance of cluster applications. Some examples of performance analysis tools for cluster computing are gprof, Perf, Intel VTune, etc.
+  - Debugging tools: The tools that help the developers and users to identify and fix the errors and bugs in cluster applications. Some examples of debugging tools for cluster computing are gdb, DDT, TotalView, etc.
+  - Testing tools: The tools that help the developers and users to verify the correctness and functionality of cluster applications. Some examples of testing tools for cluster computing are CUnit, JUnit, PyUnit, etc.

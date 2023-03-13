@@ -1,0 +1,25 @@
+### Resource Provisioning
+
+- Resource provisioning is the process of allocating and managing the cloud provider's resources to a client, such as compute, storage, memory, network, and applications/services/microservices/lambdas .
+- Resource provisioning is an important aspect of the cloud computing model, as it enables the client to acquire cloud services and resources from a cloud provider on demand, pay as they go, and scale up or down according to their needs .
+- Resource provisioning can be done in different ways, such as manual provisioning, automated provisioning, dynamic provisioning, and policy-based provisioning.
+  - Manual provisioning involves the client requesting the cloud provider to allocate the resources manually, which can be time-consuming and error-prone.
+  - Automated provisioning involves the use of scripts or tools to provision the resources automatically, which can reduce human intervention and improve efficiency.
+  - Dynamic provisioning involves the use of algorithms or mechanisms to provision the resources dynamically, based on the current workload and demand.
+  - Policy-based provisioning involves the use of predefined rules or policies to provision the resources according to the client's preferences and requirements.
+- Resource provisioning can also be done in different levels, such as infrastructure level, platform level, and application level.
+  - Infrastructure level provisioning involves the allocation of physical or virtual machines, storage devices, network devices, and other hardware resources.
+  - Platform level provisioning involves the allocation of operating systems, middleware, databases, and other software resources.
+  - Application level provisioning involves the allocation of applications, services, microservices, and lambdas, which are the units of execution in the cloud.
+- Resource provisioning can also be done in different environments, such as cloud, edge, and fog computing.
+  - Cloud computing provisioning involves the allocation of resources from centralized servers or data centers, which can provide high performance, scalability, and availability.
+  - Edge computing provisioning involves the allocation of resources from devices or nodes that are closer to the end-users or data sources, which can provide low latency, bandwidth efficiency, and privacy.
+  - Fog computing provisioning involves the allocation of resources from a distributed network of devices or nodes that are between the cloud and the edge, which can provide a balance of performance, scalability, and latency.
+- Resource provisioning can face various challenges, such as resource heterogeneity, resource contention, resource fragmentation, resource underutilization, resource overprovisioning, and resource security.
+  - Resource heterogeneity refers to the diversity of resources in terms of types, capabilities, and characteristics, which can make it difficult to match the resources with the client's needs.
+  - Resource contention refers to the competition of resources among multiple clients or applications, which can affect the quality of service and performance.
+  - Resource fragmentation refers to the inefficient allocation of resources, which can result in wasted or unused resources.
+  - Resource underutilization refers to the insufficient use of resources, which can lead to poor performance and low efficiency.
+  - Resource overprovisioning refers to the excessive allocation of resources, which can incur unnecessary costs and waste energy.
+  - Resource security refers to the protection of resources from unauthorized access, modification, or damage, which can pose various risks and threats.
+- Resource provisioning can benefit from various tools, such as CloudBolt, Snow Commander, Morpheus Data, Flexera, CloudSphere, and Scalr, which can provide features such as resource discovery, resource orchestration, resource optimization, resource governance, and resource monitoring.

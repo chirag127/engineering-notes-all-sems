@@ -1,0 +1,55 @@
+### Cluster Applications for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Cluster computing is a popular approach to achieve high performance computing (HPC) for various scientific and engineering applications. It involves connecting multiple computers or nodes into a network to share resources and workloads .
+- Cluster applications are software programs and algorithms that are run simultaneously on the servers in the cluster to complete a diverse set of tasks . Cluster applications can be classified into two main types: compute-intensive and data-intensive.
+- Compute-intensive applications are those that require a large amount of CPU or GPU power to perform complex mathematical calculations or simulations. Examples of compute-intensive applications are:
+  - Computational fluid dynamics (CFD)
+  - Computational chemistry
+  - Computational physics
+  - Computational biology
+  - Artificial intelligence
+  - Machine learning
+  - Deep learning
+- Data-intensive applications are those that require a large amount of data processing, storage, and analysis. Examples of data-intensive applications are:
+  - Big data analytics
+  - Data mining
+  - Data warehousing
+  - Database management
+  - Web services
+  - Cloud computing
+- Cluster applications can benefit from the high performance computing cluster in several ways, such as:
+  - Faster results and higher throughput
+  - Higher reliability and availability
+  - Higher scalability and flexibility
+  - Lower cost and energy consumption
+  - Better quality and accuracy
+- Cluster applications can also face some challenges and limitations in the high performance computing cluster, such as:
+  - Communication overhead and latency
+  - Load balancing and scheduling
+  - Fault tolerance and recovery
+  - Security and privacy
+  - Software compatibility and portability
+- Cluster applications can be developed using various programming models and tools, such as:
+  - Message passing interface (MPI)
+  - Open multiprocessing (OpenMP)
+  - Parallel virtual machine (PVM)
+  - MapReduce
+  - Hadoop
+  - Spark
+  - TensorFlow
+- Cluster applications can be deployed and managed using various frameworks and platforms, such as:
+  - Kubernetes
+  - Docker
+  - Slurm
+  - PBS
+  - Azure
+  - AWS
+  - Google Cloud
+- Cluster applications can be evaluated and optimized using various metrics and techniques, such as:
+  - Speedup
+  - Efficiency
+  - Scalability
+  - Profiling
+  - Benchmarking
+  - Tuning
+  - Debugging
