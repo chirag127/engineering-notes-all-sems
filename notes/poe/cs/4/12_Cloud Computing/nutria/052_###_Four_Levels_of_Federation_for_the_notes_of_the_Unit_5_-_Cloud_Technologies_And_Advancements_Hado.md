@@ -1,0 +1,12 @@
+
+### Four Levels of Federation for the Notes of the Unit 5 - Cloud Technologies and Advancements Hadoop in the Subject of Cloud Computing
+
+1. **Data Federation**: Data Federation is a method of combining data from multiple sources into a single, unified view. This process involves collecting data from multiple sources, combining it into a single data set, and then providing access to the unified set. Data Federation allows for the sharing of data across different applications, systems, and databases.
+
+2. **Data Aggregation**: Data Aggregation is the process of combining multiple data sets into a single, unified view. This process involves collecting data from multiple sources, combining it into a single data set, and then providing access to the unified set. Data Aggregation is often used to combine data from multiple sources into a single data set for analysis or reporting.
+
+3. **Data Warehousing**: Data Warehousing is the process of storing large amounts of data in a central repository. This process involves collecting data from multiple sources, combining it into a single data set, and then providing access to the unified set. Data Warehousing is often used to store large amounts of data in a single location for analysis or reporting.
+
+4. **Data Marts**: Data Marts are specialized databases designed to store large amounts of data. This process involves collecting data from multiple sources, combining it into a single data set, and then providing access to the unified set. Data Marts are often used to store large amounts of data in a single location for analysis or reporting.
+
+The four levels of federation for the notes of the Unit 5 - Cloud Technologies and Advancements Hadoop in the subject of Cloud Computing provide a way to combine data from multiple sources into a single, unified view. Data Federation, Data Aggregation, Data Warehousing, and Data Marts are all methods of combining data from multiple sources into a single, unified view. Data Federation allows for the sharing of data across different applications, systems, and databases. Data Aggregation is used to combine data from multiple sources into a single data set for analysis or reporting. Data Warehousing is used to store large amounts of data in a single location for analysis or reporting. Data Marts are specialized databases designed to store large amounts of data in a single location for analysis or reporting.

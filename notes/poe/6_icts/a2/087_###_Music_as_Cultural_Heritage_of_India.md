@@ -1,0 +1,10 @@
+ Here is the content in markdown format on the topic ### Music as Cultural Heritage of India:
+
+### Music as Cultural Heritage of India
+
+- Indian classical music is one of the oldest musical traditions in the world. It has a history spanning over 2000 years. It is a heritage which has been passed on through oral tradition, from Guru to Shishya.
+- The two main traditions of Indian classical music are Hindustani music of North India and Carnatic music of South India. Both traditions have their roots in Vedic chanting. They share some common ragas but also have distinct systems of melodic modes, compositions, singing styles and instruments.
+- Hindustani music has influences of Persian music as well while Carnatic music retains the traditional styles. Prominent instruments used in Hindustani music include sitar, sarod, tabla, and bansuri. In Carnatic music, the instruments are veena, mridangam, ghatam and violin.
+- Vocal music forms the core of Indian classical music traditions. It is all about the aesthetics of the ragas which correspond to melodic modes. The rhythms and melodies are complex with both linear and improvised components. The melodic forms typically revolve around rhythmic cycles.
+- Some key concepts to understand Indian classical music are swaras (notes), saptak (scales), ragas which depict moods, taals (rhythmic cycles), and gharanas which represent stylistic lineages. Learning the complex system requires rigorous training and practice from a young age.
+- The importance of `guru-shishya parampara` or teacher-student lineage, `riyaz` or practice, and `sadharani` and `taalapanti` for vocal percussion is emphasized. This rich aural tradition has been recognized as Intangible Cultural Heritage by UNESCO. It represents unity in diversity and is worth preserving for future generations.

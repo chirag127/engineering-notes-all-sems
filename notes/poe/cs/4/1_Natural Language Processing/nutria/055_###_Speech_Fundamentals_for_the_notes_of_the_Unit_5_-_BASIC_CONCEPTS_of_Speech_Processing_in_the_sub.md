@@ -1,0 +1,9 @@
+
+### Speech Fundamentals for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+
+* Speech Processing is the process of analyzing and manipulating spoken language to produce meaningful information. It involves a variety of techniques, such as speech recognition, natural language processing, and speech synthesis.
+* Speech Recognition is the process of recognizing spoken words and converting them into a form that can be understood by a computer. It is used in a variety of applications, such as voice-based search engines, automated customer service systems, and speech-to-text transcription.
+* Natural Language Processing (NLP) is the process of understanding natural language by applying algorithms and techniques to recognize and interpret the meaning of a spoken sentence. It is used in a variety of applications, such as machine translation, question answering, and text summarization.
+* Speech Synthesis is the process of generating a spoken version of a text. It is used in a variety of applications, such as text-to-speech systems, voice-based search engines, and voice-based virtual assistants.
+* Mnemonics are memory aids that help people remember facts and concepts. They can be used to help remember speech fundamentals, such as the parts of speech, the parts of a sentence, and the types of sentences.
+* Learning tricks are techniques used to help people remember facts and concepts. They can be used to help remember speech fundamentals, such as the parts of speech, the parts of a sentence, and the types of sentences. Examples of learning tricks include using acronyms, rhymes, and visualizations.

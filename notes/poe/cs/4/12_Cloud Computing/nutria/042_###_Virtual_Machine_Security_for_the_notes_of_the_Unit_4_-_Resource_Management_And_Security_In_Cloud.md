@@ -1,0 +1,11 @@
+
+### Virtual Machine Security for the Notes of the Unit 4 - Resource Management and Security in Cloud in the Subject of Cloud Computing
+
+1. Virtual Machine Security is an important aspect of cloud computing that focuses on protecting the virtual machines that are used in cloud computing environments. 
+2. It is important to ensure that all virtual machines are secured and protected from malicious attacks, as well as ensuring that the data stored on them is safe and secure. 
+3. In order to ensure the security of the virtual machines, it is important to have the right security measures in place. This includes having the right security policies in place, as well as having the right tools and technologies to protect the virtual machines.
+4. One of the most important aspects of virtual machine security is authentication. This involves ensuring that only authorized users have access to the virtual machines and that they are using strong passwords. 
+5. In addition to authentication, it is important to have the right security measures in place to protect the data that is stored on the virtual machines. This includes having the right encryption methods in place, as well as having the right firewalls and intrusion detection systems in place.
+6. It is also important to have the right monitoring and logging systems in place to monitor the activity of the virtual machines and to ensure that any suspicious activity is quickly detected and addressed.
+7. Other important aspects of virtual machine security include patch management and vulnerability management. Patch management involves ensuring that all the software on the virtual machines is up to date and free from any security vulnerabilities. Vulnerability management involves identifying any vulnerabilities that may exist on the virtual machines and addressing them as soon as possible.
+8. Finally, it is important to have the right disaster recovery plans in place in case of a security breach or other disaster. This involves having the right backup systems in place, as well as having the right processes in place to quickly restore the virtual machines to their original state.
