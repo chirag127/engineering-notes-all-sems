@@ -1,0 +1,13 @@
+#### CO-2 Compute and analyze various electrical and electronic properties of a given
+
+- Electrical and electronic properties are the characteristics of a material or a device that affect its behavior in an electric or electronic circuit.
+- Some of the common electrical and electronic properties are resistance, capacitance, inductance, impedance, reactance, admittance, conductance, susceptance, voltage, current, power, energy, frequency, phase, and waveform.
+- To compute and analyze these properties, we need to use various mathematical tools and techniques, such as Ohm's law, Kirchhoff's laws, Thevenin's theorem, Norton's theorem, superposition principle, mesh analysis, nodal analysis, phasor analysis, complex numbers, Fourier series, Fourier transform, Laplace transform, and Z-transform.
+- Depending on the type of circuit and the property of interest, we may need to apply different methods and formulas to obtain the desired results.
+- For example, to compute the resistance of a resistor, we can use Ohm's law: R = V/I, where R is the resistance, V is the voltage across the resistor, and I is the current through the resistor.
+- To compute the capacitance of a capacitor, we can use the formula: C = Q/V, where C is the capacitance, Q is the charge stored on the capacitor, and V is the voltage across the capacitor.
+- To compute the inductance of an inductor, we can use the formula: L = N*Phi/I, where L is the inductance, N is the number of turns of the coil, Phi is the magnetic flux linked with the coil, and I is the current through the coil.
+- To compute the impedance of a series RLC circuit, we can use the formula: Z = R + j(XL - XC), where Z is the impedance, R is the resistance, XL is the inductive reactance, XC is the capacitive reactance, and j is the imaginary unit.
+- To analyze the frequency response of a filter circuit, we can use the phasor analysis and the Bode plot, which show how the magnitude and phase of the output voltage vary with the frequency of the input voltage.
+- To analyze the transient response of a circuit, we can use the Laplace transform and the inverse Laplace transform, which convert the differential equations of the circuit into algebraic equations in the s-domain, and vice versa.
+- To analyze the waveform of a periodic signal, we can use the Fourier series and the Fourier transform, which decompose the signal into a sum of sinusoidal components with different frequencies, amplitudes, and phases.

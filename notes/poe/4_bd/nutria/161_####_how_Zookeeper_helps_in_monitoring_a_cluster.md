@@ -1,0 +1,11 @@
+
+#### How Zookeeper Helps in Monitoring a Cluster
+
+* Zookeeper is a distributed, open-source coordination service for distributed systems. It is used to manage a cluster of machines and to ensure that they are working together in a consistent and reliable way. 
+* Zookeeper provides a centralized service for maintaining configuration information, naming, providing synchronization, and providing group services. 
+* In a distributed system, Zookeeper helps to monitor the cluster by providing a consistent view of the state of the cluster. It helps to detect when a node fails and when a new node is added to the cluster.
+* Zookeeper also provides a distributed synchronization service that allows multiple nodes to coordinate with each other and achieve consensus. This consensus can be used to ensure that all nodes in the cluster are running the same version of the software. 
+* Zookeeper also provides a distributed locking service that allows multiple nodes to coordinate access to a shared resource. This locking service can be used to ensure that only one node is accessing a shared resource at any given time. 
+* Zookeeper also provides a distributed leader election service that allows multiple nodes to coordinate and select a leader node. This leader election service can be used to ensure that a single node is responsible for managing the cluster.
+* Zookeeper also provides a distributed configuration service that allows multiple nodes to coordinate and manage the configuration of the cluster. This configuration service can be used to ensure that all nodes in the cluster are running the same version of the software and have the same configuration settings.
+* In summary, Zookeeper provides a distributed coordination service for managing a cluster of machines. It helps to monitor the cluster by providing a consistent view of the state of the cluster, and it provides services such as distributed synchronization, distributed locking, distributed leader election, and distributed configuration.

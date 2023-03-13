@@ -1,0 +1,11 @@
+### 12. Preparation of Urea formaldehyde (UF) resin.
+
+- Urea formaldehyde (UF) resin is a thermosetting polymer that is widely used in adhesives, plywood, particle board, medium-density fibreboard (MDF), and molded objects.
+- UF resin is prepared by the condensation reaction of urea and formaldehyde in an aqueous solution, usually in the presence of a catalyst.
+- The reaction can be divided into three steps: methylolation, condensation, and curing.
+- Methylolation: In this step, formaldehyde reacts with urea to form monomethylolurea and dimethylolurea, which are the monomers of UF resin. The reaction is carried out at a pH of 6-11 and a temperature of at least 80°C, with a formaldehyde:urea molar ratio of 2-3:1  .
+- Condensation: In this step, the monomers undergo further polymerization to form low molecular weight prepolymers, such as trimethylolurea and tetramethylolurea. The reaction is carried out at a lower pH of 0.5-3.5, usually by adding a mineral or organic acid as a catalyst  .
+- Curing: In this step, the prepolymers crosslink with each other to form a three-dimensional network of UF resin. The reaction is initiated by heating the resin to a temperature of 100-150°C, usually in the presence of a hardener, such as ammonium chloride or ammonium sulfate .
+- The properties of UF resin depend on the reaction conditions, such as the formaldehyde:urea ratio, the pH, the temperature, the catalyst, and the hardener. The higher the formaldehyde:urea ratio, the higher the degree of crosslinking and the lower the water solubility and formaldehyde emission of the resin.
+- A possible mnemonic to remember the three steps of UF resin preparation is: **M**y **C**at **C**an't **U**se **F**ireworks (Methylolation, Condensation, Curing, Urea, Formaldehyde).
+- A possible learning trick to remember the pH ranges for the three steps is: **H**igh **pH** for **H**igh **M**olecular **W**eight (Methylolation), **L**ow **pH** for **L**ow **M**olecular **W**eight (Condensation), **N**o **pH** for **N**etwork (Curing).

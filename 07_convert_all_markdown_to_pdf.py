@@ -11,9 +11,9 @@ files = glob.glob("allnotes/notes/**/*.md", recursive=True)
 
 
 def main(file):
-    pdf_file_path = file.replace("allnotes/notes/", "allnotes/pdf/").replace(
-        ".md", ".pdf"
-    )
+    pdf_file_path = "allnotes/pdf/" + os.path.basename(file).replace(".md", ".pdf")
+
+
 
     # check if directory exists
     pdf_dir = os.path.dirname(pdf_file_path)

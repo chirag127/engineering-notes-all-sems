@@ -1,36 +1,36 @@
-import glob
+# import glob
 
-import os
-import re
+# import os
+# import re
 
-files = glob.glob("/workspaces/6th-sem-archive/notes/**/*.md", recursive=True)
+# files = glob.glob("/workspaces/6th-sem-archive/notes/**/*.md", recursive=True)
 
-print(files)
+# print(files)
 
-for file in files:
-    if os.path.isfile(file):
-        # check if file have links like ![NameNode high availability diagram](https://i.imgur.com/1Z0qQ2C.png)
+# for file in files:
+#     if os.path.isfile(file):
+#         # check if file have links like ![NameNode high availability diagram](https://i.imgur.com/1Z0qQ2C.png)
 
-        regex = r"!\[(.*?)\]\((.*?)\)"
+#         regex = r"!\[(.*?)\]\((.*?)\)"
 
-        with open(file, "r", encoding="utf8") as f:
-            text = f.read()
+#         with open(file, "r", encoding="utf8") as f:
+#             text = f.read()
 
-        matches = re.findall(regex, text)
+#         matches = re.findall(regex, text)
 
-        if matches:
-            print(file)
+#         if matches:
+#             print(file)
 
-            for match in matches:
-                print(match)
+#             for match in matches:
+#                 print(match)
 
-            print()
+#             print()
 
-            # remove all links from file
+#             # remove all links from file
 
-            # text = re.sub(regex, r"", text)
+#             # text = re.sub(regex, r"", text)
 
-            with open(file, "w", encoding="utf8") as f:
-                f.write(text)
+#             with open(file, "w", encoding="utf8") as f:
+#                 f.write(text)
 
-# Path: remove all links from all files.py
+# # Path: remove all links from all files.py

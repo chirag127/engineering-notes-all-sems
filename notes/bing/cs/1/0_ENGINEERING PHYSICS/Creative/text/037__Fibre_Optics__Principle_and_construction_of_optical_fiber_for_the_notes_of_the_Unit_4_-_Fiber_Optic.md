@@ -1,0 +1,29 @@
+### Fibre Optics: Principle and construction of optical fiber
+
+- Fibre optics is the science of transmitting data, voice, and images by the passage of light through thin, transparent fibers.
+- Optical fibers are flexible, transparent fibers made by drawing glass or plastic to a diameter slightly thicker than that of a human hair.
+- Optical fibers work on the principle of total internal reflection of light, which means that no part of the light signal gets refracted or transmitted to the second medium, but instead, all of the signal is retained inside the fiber  .
+- The condition for total internal reflection is that the light must travel from an optically denser medium (such as glass) to an optically rarer medium (such as air) and the angle of incidence must be greater than the critical angle for the boundary.
+- The critical angle is the minimum angle of incidence for which total internal reflection occurs. It depends on the refractive indices of the two media.
+- The basic structure of an optical fiber consists of three parts: the core, the cladding, and the protective layer .
+- The core is the innermost part of the fiber, where the light is transmitted. It is made of glass or plastic with a high refractive index.
+- The cladding is the outer layer of the fiber, which surrounds the core. It is made of glass or plastic with a lower refractive index than the core. The cladding acts as a mirror that reflects the light back into the core, preventing it from escaping or losing energy.
+- The protective layer is the outermost layer of the fiber, which covers the cladding. It is made of plastic or other material that protects the fiber from physical damage, moisture, or dust.
+- The diameter of the core is typically 8 to 62.5 micrometers, while the diameter of the cladding is typically 125 micrometers. The diameter of the protective layer is usually a few millimeters.
+- There are two main types of optical fibers: single-mode and multimode.
+- Single-mode fibers have a very thin core (about 8 to 10 micrometers) and can carry only one mode or wavelength of light. They have low attenuation (loss of signal) and high bandwidth (capacity of data transmission). They are used for long-distance communication and high-speed networks.
+- Multimode fibers have a thicker core (about 50 to 62.5 micrometers) and can carry multiple modes or wavelengths of light. They have higher attenuation and lower bandwidth than single-mode fibers. They are used for short-distance communication and low-speed networks.
+- Optical fibers have many advantages over conventional copper wires, such as:
+  - Higher bandwidth and data rate
+  - Lower attenuation and interference
+  - Smaller size and weight
+  - Greater security and reliability
+  - Lower cost and maintenance
+- Optical fibers have many applications in various fields, such as:
+  - Telecommunications
+  - Internet
+  - Cable television
+  - Medical imaging and diagnosis
+  - Industrial sensors and controls
+  - Military and aerospace
+  - Research and education

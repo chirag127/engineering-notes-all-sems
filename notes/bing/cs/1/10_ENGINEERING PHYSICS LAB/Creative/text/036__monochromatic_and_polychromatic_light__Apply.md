@@ -1,0 +1,6 @@
+#### Monochromatic and Polychromatic Light
+
+- Monochromatic light is light that has only one wavelength or frequency. It is pure and uniform in color. Examples of monochromatic light sources are lasers, LEDs, and sodium lamps.
+- Polychromatic light is light that has more than one wavelength or frequency. It is composed of a mixture of colors. Examples of polychromatic light sources are white light, sunlight, and incandescent lamps.
+- Monochromatic light is useful for applications that require high coherence, such as interferometry, holography, and spectroscopy. Polychromatic light is useful for applications that require a broad spectrum, such as photography, colorimetry, and vision.
+- Monochromatic light can be obtained from polychromatic light by using devices that filter or separate the wavelengths, such as prisms, gratings, and monochromators. Polychromatic light can be obtained from monochromatic light by using devices that combine or modulate the wavelengths, such as diffusers, filters, and color wheels.

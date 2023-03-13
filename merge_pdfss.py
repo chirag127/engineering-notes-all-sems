@@ -22,11 +22,14 @@ def merge_pdfs(parent_dir,out_full_path):
             print("large.txt exists, so we will not merge the pdfs")
             return
 
+        a = os.path.join(parent_dir, '**/*.pdf')
 
 
-        pdfs = glob.glob(os.path.join(parent_dir, "/**/*.pdf"), recursive=True)
+        print(a)
 
+        pdfs = glob.glob(a, recursive=True)
 
+        print(pdfs)
 
         # sort the pdfs by name
         pdfs.sort()
@@ -39,12 +42,14 @@ def merge_pdfs(parent_dir,out_full_path):
 
         for pdf in pdfs:
 
+            print(pdf)
+
             try:
 
                 # don't merge the output file with the other pdfs if
                 # the output size is larger than 50 MB
 
-                if os.path.getsize(out_full_path) > 50000000 or "_in_one.pdf" in pdf:
+                if os.path.getsize(pdf) > 50000000 or "_in_one.pdf" in pdf:
                     print("output file is too large, so we will not merge the pdfs")
 
                     continue
@@ -95,6 +100,8 @@ def main():
 
     for pdf_file in all_pdfs:
 
+        print(pdf_file)
+
 
         # get the full parent directory path
 
@@ -121,13 +128,7 @@ def main():
         out_full_path = new_out_full_path
 
 
-        try:
-            merge_pdfs(parent_dir,out_full_path)
-
-        except Exception as error:
-            print(error)
-            print("error with", parent_dir)
-
+        merge_pdfs(parent_dir,out_full_path)
 
 if __name__ == "__main__":
     main()

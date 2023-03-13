@@ -1,0 +1,27 @@
+##### 8. Determination of efficiency of a dc shunt motor by load test.
+
+- The efficiency of a dc shunt motor is the ratio of the output power to the input power.
+- The output power of a dc shunt motor is the product of the torque and the angular speed of the shaft.
+- The input power of a dc shunt motor is the product of the terminal voltage and the armature current.
+- The load test is a method of determining the efficiency of a dc shunt motor by applying a variable load to the shaft and measuring the input and output parameters.
+- The load test requires the following instruments and equipment:
+  - A dc shunt motor with a suitable rating and speed.
+  - A variable load device, such as a brake drum, a prony brake, or a dynamometer, to apply mechanical load to the motor shaft.
+  - A voltmeter and an ammeter to measure the terminal voltage and the armature current of the motor.
+  - A tachometer or a stroboscope to measure the speed of the motor shaft.
+  - A spring balance or a weighing scale to measure the load applied by the load device.
+- The procedure of the load test is as follows:
+  - Connect the dc shunt motor to the supply and the load device to the shaft.
+  - Start the motor and adjust the field rheostat to obtain the rated speed.
+  - Vary the load on the shaft by adjusting the load device and record the corresponding values of the terminal voltage, the armature current, the speed, and the load.
+  - Repeat the above step for different values of load, covering the entire range of operation of the motor.
+  - Calculate the output power, the input power, and the efficiency for each set of readings.
+  - Plot a graph of efficiency versus output power and observe the variation of efficiency with load.
+- The advantages of the load test are:
+  - It is simple and direct.
+  - It gives the actual efficiency of the motor under different operating conditions.
+  - It does not require any additional losses to be measured or estimated.
+- The disadvantages of the load test are:
+  - It is wasteful of power and energy.
+  - It requires a large and variable load device, which may not be easily available or convenient.
+  - It may not be feasible for large or high-speed motors, due to the limitations of the load device.

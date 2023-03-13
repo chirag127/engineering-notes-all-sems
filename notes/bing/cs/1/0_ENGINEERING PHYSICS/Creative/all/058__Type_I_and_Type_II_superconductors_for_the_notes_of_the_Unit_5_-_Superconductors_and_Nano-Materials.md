@@ -1,0 +1,19 @@
+### Type I and Type II superconductors for the notes of the Unit 5 - Superconductors and Nano-Materials: in the subject of ENGINEERING PHYSICS
+
+- Superconductors are materials that have zero electrical resistance and perfect diamagnetism below a certain critical temperature.
+- There are two types of superconductors: Type I and Type II, which differ in their behavior in the presence of an external magnetic field.
+- Type I superconductors have only one critical magnetic field, Hc. When the applied magnetic field exceeds Hc, the superconductivity is destroyed and the material becomes normal.
+- Type II superconductors have two critical magnetic fields, Hc1 and Hc2. When the applied magnetic field is between Hc1 and Hc2, the superconductivity is not completely destroyed, but the material enters a mixed state, where some regions are normal and some are superconducting. These regions are called vortices, and they carry quantized magnetic flux. When the applied magnetic field exceeds Hc2, the superconductivity is completely destroyed and the material becomes normal.
+- Type I superconductors are usually pure metals, such as mercury, lead, tin, etc. Type II superconductors are usually metal alloys or complex oxide ceramics, such as niobium, vanadium, technetium, etc. All high-temperature superconductors are Type II superconductors.
+- Type I superconductors strictly follow the Meissner effect, which means they expel all the magnetic flux from their interior when they become superconducting. Type II superconductors do not follow the Meissner effect, but they allow some magnetic flux to penetrate their interior in the form of vortices.
+- Type I superconductors have a sharp transition from the normal state to the superconducting state at the critical temperature, Tc. Type II superconductors have a gradual transition from the normal state to the superconducting state, and they have a range of temperatures where they are in the mixed state.
+- Type I superconductors have a lower critical temperature and a lower critical magnetic field than Type II superconductors. Type II superconductors have a higher critical temperature and a higher critical magnetic field than Type I superconductors.
+- Type I superconductors are more sensitive to impurities and defects than Type II superconductors. Type II superconductors are more robust and tolerant to impurities and defects than Type I superconductors.
+- Type I superconductors have fewer applications than Type II superconductors, because they are easily destroyed by magnetic fields and have lower critical temperatures. Type II superconductors have more applications than Type I superconductors, because they can withstand higher magnetic fields and have higher critical temperatures. Some of the applications of Type II superconductors are magnetic resonance imaging (MRI), maglev trains, superconducting magnets, superconducting quantum interference devices (SQUIDs), etc.
+
+- A possible mnemonic to remember the difference between Type I and Type II superconductors is:
+
+  - Type I superconductors are **I**nsecure, **I**mpure, **I**nferior, and **I**nstantaneous.
+  - Type II superconductors are **S**table, **S**trong, **S**uperior, and **S**low.
+
+- A possible learning trick to understand the mixed state of Type II superconductors is to imagine a sponge that is squeezed by a magnetic field. The sponge represents the superconducting material, and the holes in the sponge represent the vortices. When the magnetic field is weak, the sponge is not squeezed much, and the holes are small and few. When the magnetic field is strong, the sponge is squeezed more, and the holes are large and many. When the magnetic field is too strong, the sponge is squeezed completely, and there are no holes left. The sponge then becomes normal.

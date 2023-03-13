@@ -203,9 +203,15 @@ try_count: {try_count}
         text = "\n".join(text)
 
     if text:
+
+        print(text)
         return text
 
     else:
+
+        print("the text is empty")
+
+
         return None
 
 
@@ -228,10 +234,10 @@ def main(content_type="text", files=None):
                 #     do_content_type_topics(m, j, ps_file, topic, content_type)
 
                 #     j += 1
-                max_workers = 20
+                max_workers = len(topics)
 
                 max_workers = os.cpu_count()
-                max_workers = len(topics)
+                max_workers = 5
 
                 with ThreadPoolExecutor(max_workers=max_workers) as executor:
                     executor.map(
@@ -249,8 +255,8 @@ def main(content_type="text", files=None):
                 # with open("error.txt", "a", encoding="utf8") as file:
                 #     file.write(f"{e}\n\n")
 
-        max_workers = os.cpu_count()
         max_workers = len(files)
+        max_workers = os.cpu_count()
 
         max_workers = 6
 
@@ -277,13 +283,12 @@ if __name__ == "__main__":
             "diagram",
             "text",
         ]
-
-        max_workers = os.cpu_count()
         max_workers = len(types)
+
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             executor.map(main, types, [files] * len(types))
 
-    k = 100
+    k = 5
 
     while k > 0:
         try:
@@ -299,7 +304,7 @@ if __name__ == "__main__":
 
             k -= 1
 
-    k = 100
+    k = 5
 
     while k > 0:
         try:

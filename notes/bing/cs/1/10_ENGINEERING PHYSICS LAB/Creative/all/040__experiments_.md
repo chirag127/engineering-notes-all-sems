@@ -1,0 +1,24 @@
+#### Experiments
+
+- An experiment is a scientific procedure that aims to test a hypothesis, answer a question, or discover something new.
+- An experiment usually involves manipulating one or more variables and measuring their effects on other variables, while controlling for confounding factors.
+- An experiment can be classified into different types, such as:
+  - Natural experiment: an experiment that exploits natural variations in the environment or historical events as sources of randomization.
+  - Quasi-experiment: an experiment that lacks random assignment of subjects or treatments, but attempts to control for confounding factors by using matching, statistical methods, or other techniques.
+  - Field experiment: an experiment that is conducted in a natural setting, such as a school, a workplace, or a community.
+  - Laboratory experiment: an experiment that is conducted in a controlled and artificial setting, such as a lab, a classroom, or a computer.
+  - Randomized controlled trial (RCT): an experiment that randomly assigns subjects to different groups, such as a treatment group and a control group, and compares their outcomes.
+- An experiment should follow the scientific method, which consists of the following steps:
+  - Observation: making and recording observations of a phenomenon or a problem of interest.
+  - Question: formulating a specific and testable question based on the observations.
+  - Hypothesis: proposing a tentative and falsifiable explanation or prediction for the question.
+  - Experiment: designing and conducting an experiment to test the hypothesis, while ensuring validity, reliability, and ethics.
+  - Analysis: collecting and analyzing the data from the experiment, using appropriate statistical methods and tools.
+  - Conclusion: drawing a conclusion based on the data analysis, and comparing it with the hypothesis and the existing knowledge.
+  - Communication: reporting and sharing the results and the implications of the experiment, using appropriate formats and channels.
+- Some examples of famous experiments in science are:
+  - The Michelson-Morley experiment: an experiment that measured the speed of light in different directions, and found no evidence for the existence of the ether, a hypothetical medium for light waves.
+  - The Rutherford gold foil experiment: an experiment that bombarded a thin sheet of gold with alpha particles, and discovered the existence of the atomic nucleus and its small size compared to the atom.
+  - The Stanley Milgram experiment: an experiment that tested the obedience of ordinary people to authority figures, and found that most of them were willing to administer electric shocks to another person if instructed to do so.
+  - The Asch conformity experiment: an experiment that tested the influence of social pressure on individual judgment, and found that most people conformed to the majority opinion even when it was clearly wrong.
+  - The Pavlov's dog experiment: an experiment that conditioned a dog to salivate at the sound of a bell, and demonstrated the phenomenon of classical conditioning in learning.

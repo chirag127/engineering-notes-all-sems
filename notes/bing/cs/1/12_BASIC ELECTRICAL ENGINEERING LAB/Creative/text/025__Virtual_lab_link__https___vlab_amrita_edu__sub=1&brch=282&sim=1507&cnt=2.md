@@ -1,0 +1,23 @@
+##### Virtual lab link: https://vlab.amrita.edu/?sub=1&brch=282&sim=1507&cnt=2
+
+- The link leads to a virtual lab simulation of the **Determination of the Molar Mass of Volatile Liquids by Vapor Density** experiment.
+- The experiment is part of the **Physical Chemistry** branch of the **Chemistry** discipline.
+- The objective of the experiment is to determine the molar mass of a volatile liquid by measuring its vapor density at a known temperature and pressure.
+- The theory of the experiment is based on the **ideal gas law** and the **Avogadro's law**.
+- The ideal gas law states that PV = nRT, where P is the pressure, V is the volume, n is the number of moles, R is the universal gas constant, and T is the temperature.
+- The Avogadro's law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules.
+- The molar mass of a gas can be calculated by dividing the mass of the gas by the number of moles of the gas.
+- The number of moles of a gas can be calculated by dividing the volume of the gas by the molar volume of the gas at a given temperature and pressure.
+- The molar volume of a gas at standard temperature and pressure (STP) is 22.4 L/mol.
+- The procedure of the experiment involves the following steps:
+  - Weigh an empty flask and record its mass.
+  - Fill the flask with a volatile liquid and weigh it again. Calculate the mass of the liquid.
+  - Attach a rubber stopper with a glass tube to the flask and immerse it in a water bath.
+  - Heat the water bath until the liquid vaporizes completely and displaces the air in the flask.
+  - Adjust the level of the water in the flask to be equal to the level of the water in the bath.
+  - Record the temperature and the atmospheric pressure.
+  - Remove the flask from the water bath and weigh it again. Calculate the mass of the vapor.
+  - Measure the volume of the flask by filling it with water and transferring the water to a graduated cylinder.
+  - Calculate the molar mass of the liquid by using the ideal gas law and the Avogadro's law.
+- The simulation allows the user to perform the experiment virtually by selecting the liquid, adjusting the temperature and the pressure, and observing the results.
+- The simulation also provides a quiz, a video, and a reference section for further learning.

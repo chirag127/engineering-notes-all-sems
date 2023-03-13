@@ -1,0 +1,13 @@
+### 5. To enable the students to understand about the synthesis of organic compounds such as adipic acid and paracetamol by conventional and green route.
+
+- Adipic acid is an important industrial chemical that is used to make nylon and other synthetic fibers. It is usually synthesized from benzene, which is derived from petroleum, by a series of reactions that involve nitric acid and produce nitrous oxide, a greenhouse gas. This is the conventional route of synthesis of adipic acid.
+- A green route of synthesis of adipic acid is to use glucose, which is derived from biomass, as the starting material. Glucose can be oxidized to glucaric acid by hydrogen peroxide in the presence of a catalyst, such as sodium tungstate. Glucaric acid can then be dehydrated to adipic acid by heating with sulfuric acid. This green route avoids the use of benzene, nitric acid, and nitrous oxide, and produces pure adipic acid in high yield. This is an example of a green chemistry approach that uses renewable resources, reduces waste, and minimizes environmental impact.
+- Paracetamol is a widely used analgesic and antipyretic drug that is usually synthesized from phenol, which is derived from petroleum, by a series of reactions that involve nitric acid, sodium hydroxide, and acetic anhydride. This is the conventional route of synthesis of paracetamol.
+- A green route of synthesis of paracetamol is to use vanillin, which is derived from lignin, a component of biomass, as the starting material. Vanillin can be converted to paracetamol by a one-pot reaction that involves sodium borohydride, sodium hydroxide, and acetic acid. This green route avoids the use of phenol, nitric acid, and acetic anhydride, and produces paracetamol in high yield and purity. This is another example of a green chemistry approach that uses renewable resources, reduces waste, and minimizes environmental impact.
+
+- A possible mnemonic to remember the green routes of synthesis of adipic acid and paracetamol is:
+
+  - **G**lucose to **G**lucaric acid to **A**dipic acid
+  - **V**anillin to **P**aracetamol
+
+- A possible learning trick to understand the green routes of synthesis of adipic acid and paracetamol is to compare them with the conventional routes and identify the differences and similarities in terms of the starting materials, the reagents, the intermediates, the products, the yields, the purities, and the environmental impacts. This can help to reinforce the concepts and the advantages of the green chemistry approach.

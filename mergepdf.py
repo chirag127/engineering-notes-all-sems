@@ -40,6 +40,8 @@ def merge_pdfs(parent_dir,out_full_path):
 
             try:
 
+                print(pdf)
+
 
                 merger.append(pdf)
 
@@ -109,7 +111,7 @@ def main():
             os.rename(old_out_full_path, new_out_full_path)
 
         out_full_path = new_out_full_path
-        
+
 
         try:
             merge_pdfs(parent_dir,out_full_path)

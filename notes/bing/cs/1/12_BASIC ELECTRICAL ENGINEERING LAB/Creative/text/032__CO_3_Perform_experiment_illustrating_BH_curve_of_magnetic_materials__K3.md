@@ -1,0 +1,10 @@
+##### CO 3 Perform experiment illustrating BH curve of magnetic materials. K3.
+
+- The BH curve or magnetic hysteresis curve is a graph that shows the relationship between the magnetic flux density B and the magnetic field intensity H of a magnetic material.
+- The BH curve can be used to characterize the magnetic properties of a material, such as its permeability, saturation magnetization, retentivity and coercivity.
+- Permeability is a measure of how easily a material can be magnetized by an external field. It is defined as the ratio of B to H.
+- Saturation magnetization is the maximum value of B that a material can attain when subjected to a very strong field. It is a property of the material and does not depend on the applied field.
+- Retentivity is the value of B that remains in a material after the external field is removed. It indicates the ability of a material to retain its magnetization.
+- Coercivity is the value of H that is required to reduce the magnetization of a material to zero. It indicates the resistance of a material to demagnetization.
+- To perform the experiment, a sample of the magnetic material is placed inside a coil that is connected to a DC current source. The current in the coil produces a magnetic field H that magnetizes the sample. The magnetic flux density B in the sample is measured by a flux meter or a hall probe. The current in the coil is varied and the corresponding values of B and H are recorded. The BH curve is then plotted on a graph paper or a computer screen.
+- The shape of the BH curve depends on the type of the magnetic material. For example, a soft magnetic material, such as iron, has a narrow and steep BH curve, indicating high permeability, low coercivity and low retentivity. A hard magnetic material, such as a permanent magnet, has a wide and flat BH curve, indicating low permeability, high coercivity and high retentivity.

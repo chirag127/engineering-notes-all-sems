@@ -1,0 +1,11 @@
+### Relation between electric and magnetic fields of an electromagnetic wave
+
+- An electromagnetic wave is a disturbance that propagates through space and time, carrying both electric and magnetic fields.
+- The electric and magnetic fields of an electromagnetic wave are perpendicular to each other and to the direction of propagation of the wave.
+- The electric and magnetic fields of an electromagnetic wave are related by Maxwell's equations, which describe how a changing electric field generates a magnetic field and vice versa.
+- According to Maxwell's equations, the rate of change of the electric field is proportional to the curl of the magnetic field, and the rate of change of the magnetic field is proportional to the negative curl of the electric field.
+- The curl of a field is a measure of how much it rotates around a point. A field with zero curl is said to be irrotational, and a field with zero divergence is said to be solenoidal.
+- The electric and magnetic fields of an electromagnetic wave are both solenoidal, meaning that they have no sources or sinks. They are also both irrotational in free space, meaning that they do not twist or spin around any point.
+- The electric and magnetic fields of an electromagnetic wave have the same magnitude and frequency, but they are out of phase by 90 degrees. This means that when the electric field reaches its maximum value, the magnetic field is zero, and vice versa.
+- The electric and magnetic fields of an electromagnetic wave carry energy and momentum, which can be transferred to matter when the wave interacts with it. The energy density of an electromagnetic wave is proportional to the square of the field strength, and the momentum density is proportional to the product of the field strength and the direction of propagation.
+- The electric and magnetic fields of an electromagnetic wave obey the principle of superposition, which means that the resulting field from two or more waves is the vector sum of the individual fields. This allows for interference and diffraction phenomena to occur when electromagnetic waves encounter obstacles or slits.

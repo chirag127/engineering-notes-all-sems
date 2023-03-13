@@ -1,0 +1,8 @@
+### Rayleigh’s criterion of resolution
+
+- Rayleigh’s criterion of resolution is a rule that defines the minimum angular separation between two point sources of light that can be resolved by an optical instrument such as a telescope or a microscope .
+- The criterion is based on the assumption that the point sources produce circular diffraction patterns called Airy disks on the image plane of the instrument, and that the intensity of the light at the center of the Airy disk is proportional to the square of the amplitude of the light wave .
+- The criterion states that two point sources are just resolvable when the center of one Airy disk coincides with the first minimum of the other Airy disk. This corresponds to an angular separation of θ = 1.22 λ/D, where λ is the wavelength of the light and D is the diameter of the aperture of the instrument  .
+- The Rayleigh criterion is an empirical rule that is based on the subjective perception of the human eye. It does not imply that the two point sources are completely distinguishable, but rather that they appear as two distinct maxima of intensity with a dip between them .
+- The Rayleigh criterion can be applied to any type of optical instrument that uses a circular aperture, such as a camera, a microscope, a telescope, or a human eye. The criterion sets a limit on the resolution of the instrument, which depends on the wavelength of the light and the size of the aperture  .
+- The Rayleigh criterion can also be generalized to other shapes of apertures, such as rectangular or elliptical, by using an effective diameter that is equal to the diameter of a circular aperture that produces the same diffraction pattern .

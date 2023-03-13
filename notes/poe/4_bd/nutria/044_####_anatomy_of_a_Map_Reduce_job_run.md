@@ -1,0 +1,9 @@
+
+
+### Anatomy of a Map Reduce Job Run
+
+* A Map Reduce job is a software program that processes large amounts of data and produces a result. It is typically used to process large amounts of data in parallel and is often used in data mining, machine learning, and other big data applications.
+* The job consists of two main stages: the map stage and the reduce stage. In the map stage, the input data is split into smaller chunks and each chunk is processed independently. The output from the map stage is then sent to the reduce stage, where the output is aggregated and a final result is produced.
+* The map stage consists of a map function and a combiner function. The map function is responsible for taking the input data and transforming it into a format that is more suitable for processing. The combiner function is responsible for combining the output of the map function into a single output.
+* The reduce stage consists of a reduce function and an output function. The reduce function is responsible for aggregating the output of the map stage and producing a single output. The output function is responsible for writing the output of the reduce stage to a file or database.
+* In addition to the map and reduce stages, there are also other components of a Map Reduce job. These include the input format, the output format, the job configuration, and the job driver. The input format is responsible for reading the input data and preparing it for processing. The output format is responsible for writing the output of the reduce stage to a file or database. The job configuration is responsible for specifying the parameters for the job. Finally, the job driver is responsible for submitting the job to the cluster and monitoring its progress.

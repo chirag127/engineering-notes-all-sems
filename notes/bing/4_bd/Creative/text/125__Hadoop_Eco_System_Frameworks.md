@@ -1,0 +1,32 @@
+### Hadoop Eco System Frameworks
+
+- Hadoop is a framework that enables processing of large data sets which reside in the form of clusters.
+- Hadoop is made up of several modules that are supported by a large ecosystem of technologies.
+- The core component of the Hadoop ecosystem is a Hadoop distributed file system (HDFS), which is a distributed file system that has the capability to store a large stack of data sets.
+- HDFS is designed to scale up from single servers to thousands of machines, each offering local computation and storage.
+- HDFS provides high availability, fault tolerance, and reliability by replicating data blocks across multiple nodes.
+- Another core component of the Hadoop ecosystem is MapReduce, which is a programming model that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+- MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input key-value pair and produces a set of intermediate key-value pairs. The reduce phase aggregates the intermediate values associated with the same intermediate key and produces the final output.
+- MapReduce can handle structured, semi-structured, and unstructured data, and supports various data formats, such as text, binary, XML, JSON, etc.
+- A third core component of the Hadoop ecosystem is YARN, which stands for Yet Another Resource Negotiator. YARN is a resource management layer that allocates and schedules resources (such as CPU, memory, disk, network, etc) to different applications running on top of Hadoop.
+- YARN enables multiple applications to share the same cluster resources, and supports various types of applications, such as batch, interactive, streaming, graph, machine learning, etc.
+- YARN consists of two main components: a Resource Manager, which is responsible for managing the cluster resources and assigning them to different applications, and a Node Manager, which is responsible for managing the resources and tasks on each node.
+- A fourth core component of the Hadoop ecosystem is Hadoop Common, which is a set of common utilities and libraries that support the other Hadoop modules.
+- Hadoop Common provides the basic functionality, such as configuration, logging, security, serialization, etc, that are required by the other Hadoop modules.
+- In addition to the core components, the Hadoop ecosystem also includes various other tools, libraries, and frameworks that help you build applications on top of Hadoop.
+- Some of the popular tools, libraries, and frameworks in the Hadoop ecosystem are:
+
+  - Apache Hive, which is a data warehouse system that provides a SQL-like interface to query and analyze data stored in HDFS.
+  - Apache Pig, which is a scripting language that allows for the analysis and transformation of large data sets using a high-level abstraction.
+  - Apache Spark, which is a fast and general-purpose engine for large-scale data processing, supporting batch, streaming, SQL, machine learning, and graph processing.
+  - Apache HBase, which is a distributed and scalable NoSQL database that provides random access and strong consistency for large amounts of sparse and structured data.
+  - Apache Kafka, which is a distributed and fault-tolerant messaging system that enables high-throughput and low-latency data ingestion and processing.
+  - Apache Flume, which is a service that collects, aggregates, and moves large amounts of log data from various sources to HDFS.
+  - Apache Sqoop, which is a tool that transfers data between Hadoop and relational databases.
+  - Apache Oozie, which is a workflow scheduler that coordinates and executes Hadoop jobs.
+  - Apache Mahout, which is a library that provides scalable and distributed machine learning algorithms for Hadoop.
+  - Apache ZooKeeper, which is a service that provides coordination, configuration, and synchronization for distributed systems.
+  - Apache Cassandra, which is a distributed and scalable NoSQL database that provides high availability and performance for large amounts of unstructured data.
+  - Apache Storm, which is a distributed and real-time computation system that processes streams of data in parallel.
+  - Apache Flink, which is a stream and batch processing framework that provides high performance and low latency for large-scale data analysis.
+  - Apache Solr, which is a distributed and scalable search platform that provides full

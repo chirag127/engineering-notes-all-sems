@@ -1,0 +1,7 @@
+### Nano-Materials: Introduction and properties of nano materials
+
+- Nano-materials are materials that have at least one dimension (length, width or height) in the range of 1 to 100 nanometers (nm)   .
+- Nano-materials exhibit unique physical and chemical properties that are different from those of bulk materials due to their small size and high surface area  .
+- Nano-materials can be classified into various types based on their shape, structure, composition and origin, such as nano-filaments, nano-tubes, nano-wires, nano-cables, nano-thin films, dendrimers, quantum dots, nano-particles, nano-composites, etc.  .
+- Nano-materials have many advantages and disadvantages depending on their applications. Some of the advantages are: enhanced mechanical, electrical, optical, magnetic, catalytic and biological properties; improved performance and functionality; reduced material consumption and waste; and potential for new discoveries and innovations  . Some of the disadvantages are: high cost and complexity of synthesis and characterization; environmental, health and safety risks; ethical and social issues; and lack of standardization and regulation  .
+- Nano-materials have a wide range of applications in various fields such as electronics, energy, medicine, biotechnology, cosmetics, textiles, aerospace, defense, etc.    .

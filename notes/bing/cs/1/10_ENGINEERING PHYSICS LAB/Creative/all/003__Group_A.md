@@ -1,0 +1,25 @@
+#### Group A
+
+- Group A is a group of elements in the periodic table that have one valence electron in their outermost shell.
+- Group A elements are also called alkali metals because they react with water to form alkaline solutions.
+- Group A elements are lithium (Li), sodium (Na), potassium (K), rubidium (Rb), cesium (Cs), and francium (Fr).
+- Group A elements have similar chemical and physical properties, such as:
+  - They are soft, shiny, and silvery metals that can be cut with a knife.
+  - They have low melting and boiling points, and low densities.
+  - They are highly reactive and tend to lose their valence electron to form positive ions (cations).
+  - They react vigorously with water, oxygen, halogens, and other nonmetals, releasing hydrogen gas and heat.
+  - They form ionic compounds with nonmetals, such as halides, oxides, hydroxides, and carbonates.
+  - They have low ionization energies and high electronegativities, meaning they easily give up their valence electron and attract electrons from other atoms.
+- Group A elements show a trend in their properties as we move down the group, such as:
+  - Their atomic radii increase, as more shells of electrons are added.
+  - Their metallic character increases, as their valence electron is farther away from the nucleus and more easily lost.
+  - Their reactivity increases, as their ionization energy decreases and their electronegativity decreases.
+  - Their melting and boiling points decrease, as their interatomic forces become weaker.
+- A mnemonic to remember the order of Group A elements is **LiNa Ki Ruby Cse Frisbee**.
+- Some examples of the applications of Group A elements are:
+  - Lithium is used in batteries, alloys, and psychiatric drugs.
+  - Sodium is used in table salt, baking soda, and street lamps.
+  - Potassium is used in fertilizers, fireworks, and bananas.
+  - Rubidium is used in atomic clocks, photoelectric cells, and lasers.
+  - Cesium is used in atomic clocks, photoelectric cells, and nuclear reactors.
+  - Francium is a radioactive element that has no stable isotopes and no significant applications.
