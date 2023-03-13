@@ -1,0 +1,23 @@
+### ISO 9000 Models in SRS
+
+- ISO 9000 is a family of standards that provide guidelines and principles for quality management systems (QMS) .
+- QMS are the organizational processes and procedures that ensure the quality of products and services .
+- ISO 9000 standards are applicable to any organization, regardless of size, type, or industry .
+- ISO 9000 standards are based on the following seven quality management principles :
+  - Customer focus: understanding and meeting customer needs and expectations
+  - Leadership: establishing a vision, direction, and culture for the organization
+  - Engagement of people: empowering and involving employees and stakeholders
+  - Process approach: managing activities as interrelated processes
+  - Improvement: pursuing continual enhancement of performance and outcomes
+  - Evidence-based decision making: using data and information to support decisions
+  - Relationship management: building and maintaining beneficial relationships with suppliers and partners
+- ISO 9001 is the most widely used standard in the ISO 9000 family. It specifies the requirements for a QMS that an organization must fulfill to demonstrate its ability to consistently provide products and services that meet customer and regulatory requirements .
+- ISO 9000-3 is a specific standard that provides guidance for the application of ISO 9001 to the development, supply, installation, and maintenance of computer software .
+- Software Requirements Specification (SRS) is a document that describes the features, functions, and constraints of a software system. It is a key input for the software development process .
+- SRS should follow the ISO/IEC/IEEE 29148 standard, which defines the content and structure of a good SRS .
+- SRS should include the following sections :
+  - Introduction: provides the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the SRS
+  - Overall description: provides the context, perspective, functions, user characteristics, constraints, assumptions, and dependencies of the software system
+  - Specific requirements: provides the detailed functional, non-functional, performance, security, usability, reliability, maintainability, and portability requirements of the software system
+  - Appendices: provides any additional information that is relevant to the SRS, such as use cases, data models, user interface mockups, etc.
+  - Index: provides an alphabetical list of terms and topics covered in the SRS

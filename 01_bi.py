@@ -228,10 +228,10 @@ def main(content_type="text", files=None):
                 #     do_content_type_topics(m, j, ps_file, topic, content_type)
 
                 #     j += 1
+                max_workers = 20
 
                 max_workers = os.cpu_count()
                 max_workers = len(topics)
-                max_workers = 20
 
                 with ThreadPoolExecutor(max_workers=max_workers) as executor:
                     executor.map(

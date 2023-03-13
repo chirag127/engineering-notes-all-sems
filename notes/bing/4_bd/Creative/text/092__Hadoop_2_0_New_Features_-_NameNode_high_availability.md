@@ -1,0 +1,9 @@
+#### Hadoop 2.0 New Features - NameNode high availability
+
+- NameNode is the master node in HDFS that maintains the filesystem tree and the metadata of all the files and directories.
+- In Hadoop 1.x, NameNode was a single point of failure (SPOF) in an HDFS cluster. If the NameNode failed or became unavailable, the entire cluster would be inaccessible until the NameNode was restored or replaced.
+- Hadoop 2.0 overcomes this SPOF problem by providing support for multiple NameNodes. It introduces Hadoop 2.0 High Availability feature that brings in an extra NameNode (Passive Standby NameNode) to the Hadoop Architecture which is configured for automatic failover   .
+- The Active NameNode and the Standby NameNode are connected to a shared storage system (such as NFS or Quorum Journal Manager) that stores the edit logs of the HDFS namespace. The Standby NameNode constantly reads the edit logs from the shared storage and applies them to its own namespace in memory, so that it is always synchronized with the Active NameNode .
+- The DataNodes in the cluster send block reports and heartbeats to both the Active and the Standby NameNodes, so that they are aware of the location and health of the blocks.
+- The clients of the HDFS cluster are configured with the logical URI of the cluster, which maps to the addresses of both the NameNodes. The clients can transparently access the HDFS cluster even if one of the NameNodes fails, as the failover process is handled by the Hadoop framework.
+- The Hadoop 2.0 High Availability feature enables the HDFS cluster to run 24/7 without any downtime or data loss due to NameNode failure. It also improves the performance and scalability of the HDFS cluster by reducing the load on the single NameNode.

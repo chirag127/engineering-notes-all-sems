@@ -1,0 +1,10 @@
+### Current developments in Arts and Cultural in India
+
+- India has a rich and diverse cultural heritage that includes various forms of art, music, dance, theatre, folk traditions, performing arts, rites and rituals, paintings and writings. These are collectively known as the 'Intangible Cultural Heritage' (ICH) of humanity.
+- India has 37 world heritage sites that showcase the architectural and artistic excellence of the past civilizations. Some of these sites are the Taj Mahal, the Khajuraho temples, the Ajanta and Ellora caves, the Hampi ruins, and the Mahabodhi temple.
+- India also has a vibrant contemporary art scene that reflects the social and political realities of the country. Some of the prominent Indian artists who are shaping contemporary art are Subodh Gupta, Bharti Kher, Nalini Malani, Anish Kapoor, Jitish Kallat, and Shilpa Gupta.
+- India hosts various cultural festivals and events that celebrate the diversity and creativity of the people. Some of these are the Indian Art Fair, the Kochi Biennale, the Jaipur Literature Festival, the Kumbh Mela, the Durga Puja, and the Hornbill Festival .
+- India is also developing its cultural infrastructure and institutions to promote and preserve its art and culture. Some of the initiatives are the Kiran Nadar Museum of Art, the Museum of Art and Photography, the Gujral Foundation, the National Museum of Customs and GST, and the Devayatanam project  .
+- India is also participating in the global network of learning cities, which aims to foster lifelong learning and sustainable development. Three Indian cities, Thrissur, Nilambur, and Warangal, have joined the UNESCO Global Network of Learning Cities in 2021.
+- India is also nominating some of its cultural sites and monuments for inscription in the World Heritage List. In 2021, India nominated the Hoysala temples of Karnataka, which are known for their intricate carvings and sculptures, for the World Heritage List.
+- India is also recovering some of its stolen or lost cultural artefacts from abroad. In 2021, India got back a 10th-century goat-headed yogini statue from France, which was smuggled out of the country in 1990.

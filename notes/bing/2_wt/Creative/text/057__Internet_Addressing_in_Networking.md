@@ -1,0 +1,10 @@
+#### Internet Addressing in Networking
+
+- Internet addressing is the process of assigning unique identifiers to devices on a network that communicate using the Internet Protocol (IP)  .
+- An internet address works like a postal address, allowing data to be routed to the chosen destination .
+- Internet addresses are made up of a network address and a host (or local) address  . This two-part address allows a sender to specify the network as well as a specific host on the network .
+- A network address identifies a group of hosts that share a common network segment . A host address identifies a specific device within a network .
+- Internet addresses can be of numeric type or symbolic type or both in some cases . For example, IP addresses are numeric, domain names are symbolic, and URLs are both .
+- There are two versions of IP addresses: IPv4 and IPv6 . IPv4 addresses are 32 bits long and consist of four numbers separated by dots, such as 192.168.1.34 . IPv6 addresses are 128 bits long and consist of eight groups of four hexadecimal digits separated by colons, such as 2001:db8:0:1234:0:567:8:1 .
+- Internet addresses are assigned by different authorities depending on the scope and level of the network . For example, the Internet Assigned Numbers Authority (IANA) allocates IP address blocks to regional internet registries (RIRs), which in turn allocate them to local internet registries (LIRs), such as internet service providers (ISPs), which then assign them to end users .
+- Internet addresses can also be classified into different types based on their functions and roles . For example, there are special addresses for broadcasts, multicasts, anycasts, and local loopback . Broadcast addresses are used to send data to all hosts on a network, multicast addresses are used to send data to a group of hosts, anycast addresses are used to send data to the nearest host, and local loopback addresses are used to test the connectivity of a host with itself .

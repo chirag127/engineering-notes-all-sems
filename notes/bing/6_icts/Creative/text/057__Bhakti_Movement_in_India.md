@@ -1,0 +1,9 @@
+### Bhakti Movement in India
+
+- The Bhakti movement was a significant religious movement in medieval Hinduism that sought to bring religious reforms to all strata of society by adopting the method of devotion to achieve salvation.
+- The Bhakti movement in Hinduism refers to ideas and engagement that emerged in the medieval era on love and devotion to religious concepts built around one or more gods and goddesses.
+- The Bhakti movement preached against the caste system using the local languages so that the message reached the masses. One who practices bhakti is called a bhakta.
+- The Bhakti movement is believed to have originated in Tamil Nadu sometime around the 7th and 8th centuries and spread to other parts of India by the 12th century.
+- The Bhakti movement was a cultural, social and religious revolution, the ramifications of which are felt to this day as the movement gained impetus, galvanised the nation in waves and manifested its influence in India’s freedom struggle.
+- The Bhakti movement emphasized the mutual intense emotional attachment and love of a devotee toward a personal god and of the god for the devotee. According to the Bhagavadgita, a Hindu religious text, the path of bhakti, or bhakti-marga, is superior to the two other religious approaches, the path of knowledge (jnana-marga) and the path of action (karma-marga).
+- The Bhakti movement produced a rich literature of poetry, songs, stories and legends that expressed the devotion and love of the bhaktas. Some of the prominent bhakti saints and poets include Ramanuja, Basava, Ramananda, Kabir, Mirabai, Tulsidas, Surdas, Chaitanya, Tukaram, Guru Nanak and many others. They propagated the message of universal brotherhood, equality, compassion and harmony  .

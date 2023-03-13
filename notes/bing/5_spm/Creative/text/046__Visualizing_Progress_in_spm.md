@@ -1,0 +1,12 @@
+### Visualizing Progress in SPM
+
+- Visualizing progress in SPM is the process of tracking and displaying the performance and learning outcomes of students in a systematic and objective way.
+- Visualizing progress can help teachers to make informed instructional decisions, identify students who need additional support, and evaluate the effectiveness of interventions or curricula.
+- Visualizing progress can also help students to monitor their own learning, set goals, and self-regulate their behavior and motivation.
+- Some common methods of visualizing progress in SPM are:
+
+  - **Gantt chart**: A graphical representation of the tasks, milestones, and dependencies of a project, showing the start and end dates, the duration, and the progress of each task. A Gantt chart can help to plan, coordinate, and communicate the project activities and expectations.
+  - **Slip chart**: A graphical representation of the actual versus planned progress of a project, showing the deviations or slippages of each task from the baseline schedule. A slip chart can help to identify and analyze the causes and effects of delays, risks, and changes in the project.
+  - **SPM graph**: A graphical representation of the performance and progress of a student or a group of students on a specific skill or outcome, showing the data points, the goal line, and the trend line. An SPM graph can help to evaluate the current level, the expected level, and the rate of improvement of the student or the group.
+  - **Four-point rule**: A method of determining whether the progress of a student or a group of students is adequate or not, based on the number of consecutive data points that fall above or below the goal line on an SPM graph. The four-point rule states that if four consecutive data points are above the goal line, the progress is adequate; if four consecutive data points are below the goal line, the progress is inadequate; and if the data points are mixed, the progress is uncertain.
+  - **Trend-line rule**: A method of determining whether the progress of a student or a group of students is adequate or not, based on the slope and direction of the trend line on an SPM graph. The trend-line rule states that if the trend line is positive and steep enough to reach the goal line by the end of the monitoring period, the progress is adequate; if the trend line is negative or flat, or not steep enough to reach the goal line by the end of the monitoring period, the progress is inadequate; and if the trend line is variable or inconsistent, the progress is uncertain.

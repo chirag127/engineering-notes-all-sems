@@ -1,0 +1,8 @@
+### Pre-Vedic Religion in India
+
+- Pre-Vedic religion refers to the religious beliefs and practices of the people who lived in the Indus Valley or Harappan civilization, which flourished from about 2500 BCE to 1500 BCE in the northwestern part of the Indian subcontinent.
+- Pre-Vedic religion was a form of Hinduism that was different from the Vedic religion of the Indo-Aryan invaders who entered India around 1500 BCE and composed the sacred texts known as the Vedas .
+- Pre-Vedic religion was based on the worship of various deities, such as a mother goddess, a horned god, a fertility god, and animal symbols, such as the bull, the buffalo, and the unicorn . Some of these deities and symbols may have influenced later Hinduism.
+- Pre-Vedic religion also involved the practice of rituals, such as fire sacrifices, water offerings, and the use of seals and amulets, which may have been used for protection, communication, or identification .
+- Pre-Vedic religion was largely non-Vedic in origin, and may have been influenced by the Agamas, which are ancient texts that deal with the worship of Shiva, Vishnu, and Devi. The Agamas are considered to be pre-Vedic or post-Vedic, depending on the date of their composition.
+- Pre-Vedic religion was a complex and diverse system of beliefs and practices that reflected the culture and society of the Indus Valley civilization, which was one of the earliest urban civilizations in the world .

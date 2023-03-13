@@ -1,0 +1,15 @@
+### Hive
+- Hive is a data warehouse software that facilitates querying and managing large datasets residing in distributed storage.
+- Hive provides a SQL-like interface called HiveQL to access structured and semi-structured data in various formats.
+- Hive allows users to project structure on largely unstructured data and perform analytical queries on it.
+- Hive is built on top of Apache Hadoop and supports storage on various file systems such as HDFS, S3, ADLS, GS, etc.
+- Hive can also integrate with other data processing tools such as Spark, Pig, and MapReduce.
+- Hive has several components, such as:
+  - Hive Metastore: a central repository of metadata that stores the schema and location of the tables and partitions.
+  - Hive Driver: a component that receives the HiveQL queries from the users and compiles, optimizes, and executes them.
+  - Hive Compiler: a component that parses the HiveQL queries and generates an execution plan in the form of a directed acyclic graph (DAG) of stages.
+  - Hive Optimizer: a component that applies various optimizations to the execution plan, such as predicate pushdown, column pruning, join reordering, etc.
+  - Hive Executor: a component that executes the stages of the execution plan using the appropriate execution engine, such as MapReduce, Tez, or Spark.
+  - Hive Server: a component that provides a Thrift-based API for clients to connect and submit queries to Hive.
+  - Hive CLI: a command-line interface for users to interact with Hive.
+  - Hive Web UI: a web-based interface for users to monitor and debug the queries running on Hive.

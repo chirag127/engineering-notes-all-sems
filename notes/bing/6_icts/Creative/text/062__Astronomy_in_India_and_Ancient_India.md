@@ -1,0 +1,7 @@
+### Astronomy in India and Ancient India
+
+- Astronomy in India has a long history that dates back to the pre-historic times. Some of the earliest references to astronomy are found in the Rig Veda, which are dated 2000 BC.
+- Astronomy in India developed as a discipline of Vedanga, or one of the "auxiliary disciplines" associated with the study of the Vedas, the ancient scriptures of Hinduism. The Vedanga texts contain rules for tracking the motions of the Sun, Moon, planets and stars for ritual and calendrical purposes.
+- Astronomy in India also had outside influences from Greece and other nations from the third century BCE onwards. However, the basic structure of Indian astronomy and the major parameters were India's own.
+- Some of the notable Indian astronomers of ancient times include Aryabhata, Varahamihira, Brahmagupta, Bhaskara, Lalla, Sripati and Bhaskaracharya. They made significant contributions to various aspects of astronomy, such as planetary models, trigonometry, eclipses, cosmology, heliocentrism and mathematics .
+- Astronomy in India was also closely linked with astrology, religion, philosophy and literature. Many astronomical concepts and terms were derived from the mythological stories and symbols of Hinduism. For example, the names of the planets are based on the names of the gods and goddesses, and the nakshatras or lunar mansions are based on the legends of the heroes and sages.

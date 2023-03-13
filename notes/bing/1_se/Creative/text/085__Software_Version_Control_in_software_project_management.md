@@ -1,0 +1,21 @@
+### Software Version Control in software project management
+
+- Software version control (SVC) is a management strategy to track and store changes to a software development document or set of files that follow the development project from beginning to end-of-life .
+- SVC is a component of software configuration management, which is the process of controlling the evolution of a software system.
+- SVC helps software teams to:
+  - Manage changes to source code over time and avoid conflicts or errors .
+  - Collaborate effectively and coordinate their work on a shared codebase .
+  - Maintain the history and traceability of the software development process .
+  - Recover previous versions of the code in case of bugs, errors, or failures .
+  - Experiment with new features or ideas without affecting the main codebase .
+- SVC systems are software tools that help implement SVC by providing features such as:
+  - Revision identification: a number or letter code that indicates the version of the code.
+  - Branching: creating a copy of the code for parallel development .
+  - Merging: combining changes from different branches into a single version .
+  - Tagging: labeling a specific version of the code for reference or release .
+  - Committing: saving changes to the code and adding a message to describe them .
+  - Pushing and pulling: transferring changes between local and remote repositories .
+- SVC systems can be classified into two main types: centralized and distributed .
+  - Centralized SVC systems have a single server that stores the master copy of the code and manages the access and permissions of the developers . Examples of centralized SVC systems are Subversion (SVN) and Team Foundation Version Control (TFVC) .
+  - Distributed SVC systems have multiple repositories that can act as servers or clients, allowing developers to work offline and synchronize their changes later . Examples of distributed SVC systems are Git and Mercurial .
+- SVC is an essential practice for software project management, as it enables quality assurance, testing, deployment, and maintenance of the software product . SVC also facilitates communication, collaboration, and transparency among the software team and stakeholders .

@@ -1,0 +1,9 @@
+#### Hive services
+
+Hive services are the components that perform client interactions with Hive. They allow users to submit queries and commands to Hive and receive the results. Some of the main Hive services are:
+
+- **HiveServer2**: This is the main service that provides a JDBC/ODBC interface for clients to connect to Hive and execute queries. It also supports multiple concurrent users and sessions, security features, and a web UI for monitoring and debugging .
+- **Beeline**: This is a command-line shell that connects to HiveServer2 and allows users to submit queries and commands to Hive. It is based on the SQLLine tool and supports various options and configurations.
+- **Metastore**: This is a service that stores the metadata of the tables, partitions, columns, and schemas created in Hive. It also provides a thrift API for other components to access and manipulate the metadata. The metastore can use different backends, such as MySQL, PostgreSQL, or Derby, to store the metadata.
+- **WebHCat**: This is a service that provides a REST API for users to submit and monitor Hive jobs. It also supports other Hadoop components, such as Pig and MapReduce. WebHCat acts as a proxy between the clients and the Hadoop cluster, and handles the job submission, configuration, and status checking.
+- **Hive CLI**: This is a deprecated service that provides a command-line interface for users to interact with Hive. It is not recommended to use this service, as it has several limitations and issues, such as lack of security, concurrency, and logging. Users should use HiveServer2 and Beeline instead.

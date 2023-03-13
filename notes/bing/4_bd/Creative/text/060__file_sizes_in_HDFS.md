@@ -1,0 +1,8 @@
+#### File sizes in HDFS
+
+- HDFS stands for Hadoop Distributed File System, which is a distributed storage system for large-scale data processing.
+- HDFS is designed to support files that are **gigabytes to terabytes** in size. It provides high throughput and scalability by splitting files into **blocks** and distributing them across multiple nodes in a cluster.
+- A block is a **fixed-sized** chunk of data that is stored as an independent unit in HDFS. The default block size in HDFS is **128 MB**, but it can be configured manually. Larger block sizes reduce the overhead of managing metadata and improve the network bandwidth utilization.
+- To get the size of a file or a directory in HDFS, one can use the **hadoop fs -du** command. This command shows the base size of the file or directory before replication, which means the amount of space in bytes that have been used by the files that match the specified file pattern. For example, **hadoop fs -du input** will show the size of the input directory and its contents.
+- To get the size of a specific file in HDFS, one can use the **hadoop fs -ls** command. This command lists the files in the current directory along with their details, such as permissions, owner, group, size, and modification time. The fifth column in the command output contains the file size in bytes. For example, **hadoop fs -ls input/sou** will show the size of the sou file in the input directory.
+- To get the summary of a directory or a file pattern in HDFS, one can use the **-s** option with the **hadoop fs -du** command. This option shows the aggregate size of the files that match the specified file pattern. For example, **hadoop fs -du -s input/count*** will show the sum of all files containing "count" in the input directory.

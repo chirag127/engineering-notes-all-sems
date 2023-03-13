@@ -1,0 +1,9 @@
+### World Wide Web
+
+- The World Wide Web (WWW) is an information system that enables documents and other web resources to be accessed over the Internet.
+- The WWW is not the same as the Internet, which is a global network of computers that can communicate with each other. The WWW is a service that operates over the Internet, just as email and Usenet do.
+- The WWW consists of webpages that are linked by hyperlinks, which are references to other webpages or web resources. Users can click on hyperlinks to navigate from one webpage to another.
+- The WWW was invented by Tim Berners-Lee, a British computer scientist, in 1989 at CERN, a European research organization. He proposed a system to share and organize information among researchers using hypertext, a way of presenting text with embedded links.
+- The first web browser, called WorldWideWeb, was also created by Berners-Lee in 1990. It was a graphical user interface that allowed users to view and edit webpages. The first web server, which stored and delivered webpages, was also set up by Berners-Lee at CERN.
+- The WWW gained rapid acceptance with the creation of a web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was released in September 1993. Mosaic was the first web browser to display images and multimedia content along with text, making the WWW more attractive and accessible to the general public.
+- The WWW has grown exponentially since its inception, becoming the dominant source of information and communication on the Internet. The WWW has enabled the development of many applications and services, such as e-commerce, social media, online education, entertainment, and news. The WWW has also transformed various fields and industries, such as science, business, politics, and culture.

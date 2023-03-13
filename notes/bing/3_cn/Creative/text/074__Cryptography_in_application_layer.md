@@ -1,0 +1,7 @@
+### Cryptography in application layer
+
+- Cryptography is the process of converting plain text into cipher text, which is unintelligible and vice-versa. It provides secure communication in the presence of adversaries.
+- Application layer encryption is a data-security solution that encrypts nearly any type of data passing through an application. When encryption occurs at this level, data is encrypted across multiple (including disk, file, and database) layers .
+- Application layer encryption increases security by reducing the number of potential attack vectors. It also gives developers more control over what gets encrypted and who gets the keys for decryption.
+- End-to-end encryption is an increasingly popular type of application-layer encryption. This type of encryption lets organizations enforce access control using key management as well as policy. In some cases, the users themselves may be the only parties with the keys.
+- Some examples of applications that use application layer encryption are messaging apps, email clients, cloud storage services, and web browsers. These applications use various cryptographic algorithms and protocols to protect the data from unauthorized access, modification, or disclosure.

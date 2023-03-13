@@ -1,0 +1,26 @@
+## Unit 4 - HDFS (Hadoop Distributed File System) and Hadoop Environment
+
+- HDFS is a distributed file system that runs on a cluster of commodity hardware and provides high availability, fault tolerance, scalability, and reliability for storing and processing large-scale data sets.
+- HDFS follows a master-slave architecture, where a single NameNode manages the namespace and metadata of the file system, and multiple DataNodes store the actual data blocks on local disks.
+- HDFS exposes a POSIX-like interface for clients to interact with the file system, but does not support random writes or updates. Instead, HDFS is optimized for write-once, read-many times (WORM) workloads, such as batch processing, data analysis, and data warehousing.
+- HDFS supports replication and erasure coding for data durability and availability. Replication is the default mode, where each data block is replicated across multiple DataNodes, typically three. Erasure coding is an optional mode, where each data block is split into smaller chunks and encoded with parity chunks, which can be used to reconstruct the original block in case of failures. Erasure coding reduces the storage overhead and network bandwidth, but increases the computational complexity and latency.
+- HDFS provides several features and tools for managing and monitoring the file system, such as:
+  - Web UI: A web interface that displays the status and statistics of the NameNode and DataNodes, as well as the file system namespace and block locations.
+  - HDFS Shell: A command-line tool that allows users to perform basic file system operations, such as creating, deleting, copying, moving, and listing files and directories.
+  - HDFS API: A Java-based application programming interface that allows developers to programmatically access and manipulate the file system.
+  - HDFS Audit Log: A log file that records the file system operations performed by users and applications, such as opening, closing, reading, and writing files.
+  - HDFS Balancer: A utility that balances the disk space usage across the DataNodes by moving data blocks from over-utilized nodes to under-utilized nodes.
+  - HDFS Snapshot: A feature that allows users to create point-in-time copies of directories and files, which can be used for backup, recovery, and testing purposes.
+  - HDFS Trash: A feature that allows users to recover deleted files and directories from a designated trash directory, which is periodically emptied by a configurable policy.
+- Hadoop Environment is the set of software components and configurations that are required to run Hadoop applications on a cluster. It includes the following elements:
+  - Hadoop Common: A collection of common libraries and utilities that are used by other Hadoop modules, such as HDFS, MapReduce, YARN, and HBase.
+  - Hadoop MapReduce: A programming model and framework for processing large-scale data sets in parallel on a cluster of nodes, using a map and reduce function.
+  - Hadoop YARN: A resource management and scheduling system that allocates and manages the compute resources (CPU, memory, disk, network) for Hadoop applications on a cluster of nodes.
+  - Hadoop HBase: A distributed, column-oriented, NoSQL database that provides random, real-time read/write access to large-scale data sets on top of HDFS.
+  - Hadoop ZooKeeper: A distributed, highly available, and consistent coordination service that provides configuration management, naming service, synchronization, and group membership for Hadoop applications and services.
+  - Hadoop Oozie: A workflow scheduler that orchestrates and executes Hadoop jobs, such as MapReduce, Pig, Hive, and Sqoop, based on predefined dependencies and triggers.
+  - Hadoop Pig: A high-level scripting language and platform that allows users to analyze and process large-scale data sets on Hadoop, using a set of operators and functions.
+  - Hadoop Hive: A data warehouse system and query engine that allows users to store, manage, and analyze structured and semi-structured data on Hadoop, using a SQL-like language called HiveQL.
+  - Hadoop Sqoop: A tool that allows users to transfer data between Hadoop and relational databases, such as MySQL, Oracle, and PostgreSQL, using a command-line interface or a Java API.
+  - Hadoop Flume: A distributed, reliable, and scalable service that collects, aggregates, and moves large amounts of log data from various sources to HDFS or HBase.
+  - Hadoop Spark: A fast and general-purpose cluster computing system that supports in-memory processing, streaming, machine learning, graph processing, and SQL on Hadoop data.

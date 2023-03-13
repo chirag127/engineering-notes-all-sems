@@ -1,0 +1,8 @@
+#### Introduction to BigInsights
+
+- BigInsights is a product and service offering from IBM that helps organizations to analyze and manage large volumes, varieties and velocities of data using open source technologies such as Hadoop and Spark.
+- BigInsights consists of two main components: IBM Open Platform (IOP) with Apache Hadoop and IBM BigInsights Value Add (BIVA) modules.
+- IOP is a distribution of Apache Hadoop and related projects that provides the core functionality of data storage, processing and governance. IOP includes Apache Spark, Apache HBase, Apache Hive, Apache Pig, Apache Sqoop, Apache Flume, Apache Oozie, Apache ZooKeeper and more.
+- BIVA is a set of IBM-developed modules that extend the capabilities of IOP and provide additional features such as advanced analytics, data exploration, data integration, data security and data management. BIVA includes Big SQL, BigSheets, Text Analytics, Big R, Spectrum Scale, Platform Symphony and BigInsights Home.
+- BigInsights can be deployed on-premises, on cloud or in a hybrid mode. BigInsights on Cloud is a fully managed service that offers a scalable and flexible platform for data analysis and application development. BigInsights on Cloud also provides access to IBM Watson Analytics, IBM Data Science Experience and IBM Bluemix services.
+- BigInsights can help organizations to gain insights from various types of data such as structured, unstructured, semi-structured, streaming, geospatial, social media, sensor and machine data. BigInsights can also support various use cases across industries such as financial services, telecommunications, government, manufacturing, retail, healthcare and more.

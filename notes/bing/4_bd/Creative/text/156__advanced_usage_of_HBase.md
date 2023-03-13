@@ -1,0 +1,16 @@
+#### Advanced usage of HBase
+
+HBase is a distributed, scalable, and column-oriented database that runs on top of the Hadoop Distributed File System (HDFS). It is designed to store and process large amounts of data in a fault-tolerant and consistent way. HBase can be used for various applications that require fast and random access to data, such as:
+
+- Storing and querying genome sequences and disease history in the healthcare sector .
+- Storing and analyzing customer search history and target advertisement in the e-commerce sector.
+- Storing and predicting match details and outcomes in the sports sector.
+- Storing and processing logs, metrics, and events in the web and social media sector.
+- Storing and retrieving documents, images, and videos in the media and entertainment sector.
+
+HBase has two fundamental key structures: the row key and the column key. Both can be used to convey meaning, by either the data they store, or by exploiting their sorting order. In the following sections, we will discuss some advanced usage of HBase keys to solve commonly found problems when designing storage solutions.
+
+- **Composite row keys**: A composite row key is a row key that consists of multiple parts, separated by a delimiter, such as a colon or a dash. For example, a composite row key for a customer table could be `customer_id:order_id`. Composite row keys can be used to create a hierarchical structure of data, such as grouping related rows together, or to enable range scans on a subset of the row key, such as scanning all the orders of a given customer.
+- **Reverse row keys**: A reverse row key is a row key that is reversed in order, such as `cba` instead of `abc`. Reverse row keys can be used to avoid hotspots, which are regions of the table that receive a disproportionate amount of read or write requests, causing performance degradation. For example, if the row key is a timestamp, then the most recent rows will be clustered at the end of the table, creating a hotspot. By reversing the timestamp, the most recent rows will be distributed across the table, avoiding the hotspot.
+- **Salted row keys**: A salted row key is a row key that is prefixed with a random value, such as `1abc` or `2abc`. Salted row keys can also be used to avoid hotspots, especially when the row key has a low cardinality, meaning that there are few distinct values. For example, if the row key is a country code, then there will be only a few regions of the table that will receive most of the requests, creating hotspots. By adding a random prefix, the row keys will be hashed to different regions, avoiding the hotspots.
+- **Column families and qualifiers**: A column family is a logical grouping of columns that share the same characteristics, such as compression, encoding, and versioning. A column qualifier is a name that identifies a column within a column family. For example, a column family `info` could have column qualifiers `name`, `age`, and `gender`. Column families and qualifiers can be used to store different types of data, such as structured, semi-structured, or unstructured data, or to store different versions or aspects of the same data, such as historical, current, or future data.

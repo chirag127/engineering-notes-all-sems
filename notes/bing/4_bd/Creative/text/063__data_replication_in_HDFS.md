@@ -1,0 +1,23 @@
+#### Data replication in HDFS
+
+- HDFS stands for Hadoop Distributed File System, which is a distributed file system that stores large amounts of data across multiple nodes in a cluster.
+- Data replication is a technique that creates multiple copies of the same data on different nodes, to ensure high availability, fault tolerance, and load balancing.
+- HDFS follows a master-slave architecture, where the master node is called the NameNode, and the slave nodes are called the DataNodes.
+- The NameNode is responsible for managing the metadata of the files and directories, such as the file name, size, location, permissions, etc. The NameNode also maintains the information about the replication factor and the block size of each file.
+- The DataNodes are responsible for storing the actual data in the form of blocks, which are fixed-sized chunks of data. The DataNodes also send periodic heartbeats and block reports to the NameNode, to indicate their status and the blocks they have.
+- The replication factor is a configurable parameter that specifies the number of copies of each block to be created. The default replication factor is 3, which means that each block will have 3 replicas on different DataNodes.
+- The block size is another configurable parameter that specifies the size of each block. The default block size is 64 MB, which means that each file will be split into 64 MB blocks and stored on the DataNodes.
+- The replication process in HDFS is as follows:
+  - When a client wants to write a file to HDFS, it first contacts the NameNode and requests a list of DataNodes that can store the blocks of the file.
+  - The NameNode allocates a unique block ID for each block of the file, and returns a list of DataNodes for each block, in the order of preference. The preference is based on the rack awareness policy, which tries to place the replicas on different racks to avoid data loss due to rack failure.
+  - The client then contacts the first DataNode in the list for each block, and sends the data to it. The DataNode then replicates the data to the next DataNode in the list, and so on, until the replication factor is met.
+  - The DataNode that receives the data from the client is called the pipeline leader, and the DataNodes that receive the data from the pipeline leader are called the pipeline followers. The pipeline leader is responsible for coordinating the replication process and sending acknowledgments to the client and the NameNode.
+  - The client waits for the acknowledgments from the DataNodes before sending the next block of data. The client also sends a confirmation to the NameNode after writing the entire file.
+  - The NameNode updates its metadata with the information about the file and its blocks, and commits the changes to a persistent storage.
+- The replication process in HDFS is also dynamic, which means that it can adjust the number and location of the replicas based on the cluster conditions, such as node failure, node addition, node removal, etc.
+- The NameNode periodically runs a process called the Replication Monitor, which checks the status of the blocks and the DataNodes, and initiates the replication or deletion of the blocks as needed.
+- The Replication Monitor follows some rules to ensure the optimal replication of the blocks, such as:
+  - If a block has less than the desired number of replicas, the NameNode will create new replicas on the available DataNodes, preferably on the same rack as the existing replicas, to reduce the network bandwidth consumption.
+  - If a block has more than the desired number of replicas, the NameNode will delete the excess replicas, preferably on the same rack as the other replicas, to balance the disk space usage.
+  - If a block has the desired number of replicas, but they are not distributed across different racks, the NameNode will move some replicas to other racks, to increase the data reliability.
+- The Replication Monitor also takes into account the node capacity, node load, node distance, and node availability, to select the best DataNodes for the replication or deletion of the blocks.

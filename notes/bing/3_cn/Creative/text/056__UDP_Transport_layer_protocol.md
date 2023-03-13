@@ -1,0 +1,7 @@
+#### UDP Transport layer protocol
+
+- UDP stands for User Datagram Protocol. It is a transport layer protocol that provides process-to-process communication in the internet protocol suite .
+- UDP is a connectionless and unreliable protocol. It does not establish a connection before sending data, and it does not guarantee that the data will be delivered or received in order or without errors .
+- UDP is a simple protocol with minimum overhead. It adds only four fields to the data: source port, destination port, length, and checksum. The source and destination ports identify the processes that send and receive the data. The length indicates the size of the UDP header and data. The checksum is used to detect errors in the header and data .
+- UDP is suitable for applications that require fast and efficient transmission of small amounts of data, such as real-time audio and video streaming, online gaming, and DNS queries. UDP does not incur the overhead of connection establishment, congestion control, flow control, or retransmission of lost or corrupted packets .
+- UDP is also used by some protocols that run on top of it, such as the Trivial File Transfer Protocol (TFTP), the Simple Network Management Protocol (SNMP), and the Routing Information Protocol (RIP). These protocols implement their own reliability and error recovery mechanisms on top of UDP.

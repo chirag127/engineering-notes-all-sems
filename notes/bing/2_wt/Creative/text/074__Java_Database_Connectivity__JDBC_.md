@@ -1,0 +1,11 @@
+### Java Database Connectivity (JDBC)
+
+- JDBC is an API (Application Programming Interface) that allows Java programs to interact with databases and data sources.
+- JDBC provides a standard set of methods and classes for connecting to different types of databases, executing SQL statements, retrieving results, and handling errors.
+- JDBC supports various types of data sources, such as relational databases, spreadsheets, flat files, and web services.
+- JDBC consists of four main components: drivers, connections, statements, and result sets.
+  - Drivers are software modules that implement the JDBC interface and communicate with a specific type of database or data source. Drivers are loaded dynamically at runtime and registered with the JDBC driver manager.
+  - Connections are objects that represent a logical link between a Java program and a database or data source. Connections are obtained from a driver or a data source object, and can be used to create statements and transactions.
+  - Statements are objects that represent SQL commands or queries that can be executed on a database or data source. Statements can be of three types: simple, prepared, and callable. Simple statements are used for executing static SQL statements. Prepared statements are used for executing parameterized SQL statements. Callable statements are used for executing stored procedures or functions.
+  - Result sets are objects that hold the data returned by a statement execution. Result sets can be of two types: forward-only and scrollable. Forward-only result sets can only be traversed in one direction, from the first row to the last row. Scrollable result sets can be traversed in both directions, and can also be positioned at a specific row or column.
+- JDBC also provides some optional features, such as batch updates, metadata, row sets, data types, and transactions. Batch updates allow multiple SQL statements to be executed as a single unit. Metadata provides information about the database, the tables, the columns, and the result sets. Row sets are special result sets that can be disconnected from the database and manipulated in memory. Data types are classes that map Java types to SQL types and vice versa. Transactions are units of work that ensure the consistency and integrity of the data.

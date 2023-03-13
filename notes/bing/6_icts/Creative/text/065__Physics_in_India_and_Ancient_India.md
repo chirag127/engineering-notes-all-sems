@@ -1,0 +1,17 @@
+### Physics in India and Ancient India
+
+- Physics is the branch of science that deals with the nature and properties of matter and energy, and the interactions between them.
+- Physics in India has a long and rich history, dating back to the Vedic era, when the ancient Indian sages and scholars made pioneering contributions to astronomy and basic physics, most of which have now been vindicated by rigorous theory and/or experiments.
+- Some of the remarkable achievements of physics in ancient India are:
+  - The concept of energy and mass equivalence, as expressed in the Upanishads, which predates Einstein's famous equation by thousands of years.
+  - The idea that both heat and light radiation are a manifestation of energy, and that light comprises discrete particles, as proposed by the Vaisheshika school of philosophy, which anticipated the modern theories of thermodynamics and quantum mechanics .
+  - The notion of wave-particle duality, as suggested by the Nyaya school of philosophy, which recognized that a particle also has a wave nature, and that radiation has wave properties.
+  - The discovery of the law of gravitation, as attributed to the mathematician and astronomer Bhaskara II, who stated that the earth attracts a body with a force proportional to its mass.
+  - The development of hydrostatics, as demonstrated by the mathematician and engineer Bhoja, who described the principles of buoyancy, fluid pressure, and Archimedes' principle.
+  - The invention of the zero, the decimal system, and the place value system, as well as the use of algebra, trigonometry, and geometry, as pioneered by the mathematicians Aryabhata, Brahmagupta, Bhaskara I, and Bhaskara II, among others, who laid the foundations of modern mathematics and physics .
+  - The advancement of astronomy, as evidenced by the accurate calculations of the solar and lunar eclipses, the heliocentric model of the solar system, the estimation of the diameter of the earth, the distance between the earth and the moon, and the circumference of the earth, as made by the astronomers Aryabhata, Varahamihira, Brahmagupta, and Bhaskara II, among others, who challenged the prevailing geocentric and flat-earth views of the world .
+  - The exploration of atomic theory, as elaborated by the Vaisheshika and Nyaya schools of philosophy, who postulated that all matter is composed of indivisible and indestructible atoms, which combine in different ways to form complex substances, and that atoms have different properties such as shape, size, motion, and number .
+  - The formulation of the concept of shunya or emptiness, as expounded by the Buddhist and Jain schools of philosophy, who argued that shunya is not a mere absence of existence, but a potentiality of existence, and that shunya is the ultimate reality beyond the conventional categories of being and non-being .
+
+- Physics in India has continued to flourish in the modern era, with notable contributions in the fields of nuclear physics, particle physics, astrophysics, cosmology, quantum mechanics, and nanotechnology, among others, by eminent scientists such as C.V. Raman, S.N. Bose, M.N. Saha, H.J. Bhabha, V. Ramakrishnan, A.P.J. Abdul Kalam, and R. Chidambaram, among others.
+- Physics in India has also been influenced by the cultural and philosophical traditions of the country, which have fostered a spirit of curiosity, creativity, and innovation, as well as a respect for nature and the cosmos, and a quest for the ultimate truth.

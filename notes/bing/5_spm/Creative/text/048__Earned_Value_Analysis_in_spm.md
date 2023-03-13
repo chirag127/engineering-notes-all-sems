@@ -1,0 +1,23 @@
+### Earned Value Analysis in SPM
+
+- Earned Value Analysis (EVA) is a technique used in project management for monitoring and controlling purposes. It allows the project manager to measure the amount of work actually performed on a project beyond the basic review of cost and schedule reports.
+- EVA combines the measures of the project management triangle: scope, time and costs. It uses three key values to calculate the project performance and progress: Planned Value (PV), Actual Cost (AC) and Earned Value (EV).
+- PV is the budgeted cost of the work scheduled to be completed by a given date. It represents the baseline or planned expenditure for the project.
+- AC is the actual cost of the work performed by a given date. It represents the actual expenditure for the project.
+- EV is the budgeted cost of the work actually completed by a given date. It represents the value of the work delivered by the project.
+- EVA uses these values to calculate various indicators and ratios that help the project manager to assess the project performance and progress. Some of the most common indicators and ratios are:
+  - Schedule Variance (SV) = EV - PV. It shows whether the project is ahead or behind schedule. A positive SV means the project is ahead of schedule, while a negative SV means the project is behind schedule.
+  - Cost Variance (CV) = EV - AC. It shows whether the project is under or over budget. A positive CV means the project is under budget, while a negative CV means the project is over budget.
+  - Schedule Performance Index (SPI) = EV / PV. It shows how efficiently the project is using its time. An SPI of 1 means the project is on schedule, while an SPI greater than 1 means the project is ahead of schedule, and an SPI less than 1 means the project is behind schedule.
+  - Cost Performance Index (CPI) = EV / AC. It shows how efficiently the project is using its resources. A CPI of 1 means the project is on budget, while a CPI greater than 1 means the project is under budget, and a CPI less than 1 means the project is over budget.
+  - Estimate at Completion (EAC) = BAC / CPI. It shows the estimated total cost of the project at completion, based on the current performance. BAC is the budget at completion, or the total planned cost of the project.
+  - Estimate to Complete (ETC) = EAC - AC. It shows the estimated remaining cost of the project to complete, based on the current performance.
+  - Variance at Completion (VAC) = BAC - EAC. It shows the expected difference between the planned and the actual cost of the project at completion, based on the current performance. A positive VAC means the project is expected to finish under budget, while a negative VAC means the project is expected to finish over budget.
+  - To Complete Performance Index (TCPI) = (BAC - EV) / (BAC - AC). It shows the required performance level for the remaining work of the project to meet the budget goal. A TCPI of 1 means the project can meet the budget goal with the current performance level, while a TCPI greater than 1 means the project needs to improve its performance level, and a TCPI less than 1 means the project can afford to lower its performance level.
+- EVA can be used to generate various reports and graphs that help the project manager to communicate the project status and performance to the stakeholders. Some of the most common reports and graphs are:
+  - EVA table: A table that shows the PV, AC, EV and the calculated indicators and ratios for each reporting period and cumulatively.
+  - EVA chart: A chart that plots the PV, AC and EV curves over time, and shows the SV and CV at each reporting period.
+  - S-curve: A chart that plots the cumulative PV, AC and EV curves over time, and shows the cumulative SV and CV at each reporting period.
+  - SPI and CPI chart: A chart that plots the SPI and CPI values over time, and shows the trend and the deviation from the target value of 1.
+  - EAC and ETC chart: A chart that plots the EAC and ETC values over time, and shows the forecast and the deviation from the BAC and the AC.
+  - VAC and TCPI chart: A chart that plots the VAC and TCPI values over time,

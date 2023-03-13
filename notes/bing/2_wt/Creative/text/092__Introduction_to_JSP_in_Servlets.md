@@ -1,0 +1,8 @@
+#### Introduction to JSP in Servlets
+
+- JSP stands for Java Server Pages. It is a server-side technology that is used to create dynamic web applications.
+- JSP is an extension of Servlet technology, which is a Java-based API that allows processing and responding to HTTP requests.
+- JSP uses HTML tags and JSP tags to create web pages. JSP tags are special tags that can insert Java code or expressions into HTML pages.
+- JSP pages are translated into Servlets by a JSP translator or compiler. The Servlets are then executed by a web container or server, such as Tomcat or Jetty.
+- JSP provides more functionality than Servlets, such as expression language, JSTL, custom tags, etc. Expression language is a simple syntax that allows accessing data and performing operations. JSTL is a set of standard tag libraries that provide common functionality, such as iteration, conditionals, formatting, etc. Custom tags are user-defined tags that can encapsulate reusable logic or components.
+- JSP follows the MVC (Model-View-Controller) pattern, which separates the business logic, presentation logic, and data. The Model represents the data or the state of the application. The View represents the user interface or the output of the application. The Controller represents the logic or the behavior of the application. JSP is mainly used as the View component, while Servlets are used as the Controller component. The Model can be any Java object or data source, such as a database, a file, etc.

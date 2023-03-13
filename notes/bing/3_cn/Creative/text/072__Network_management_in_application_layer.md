@@ -1,0 +1,11 @@
+### Network management in application layer
+
+- Network management is the process of monitoring, controlling, and optimizing the performance and security of a network system.
+- The application layer is the topmost layer in the Open System Interconnection (OSI) model, which defines how different devices communicate over a network.
+- The application layer provides the interface and protocols for users and applications to access network services, such as file transfer, email, web browsing, remote login, etc.
+- Network management in the application layer involves the following functions and benefits:
+  - Identifying communication partners: The application layer helps to establish the identity and availability of the network entities that want to communicate, such as hosts, servers, routers, etc. This can be done using name resolution, which maps human-readable names to IP addresses, or using directory services, which store information about network resources and users.
+  - Synchronizing communication: The application layer helps to coordinate the timing and sequencing of data exchange between the communication partners, such as by using timestamps, acknowledgments, flow control, etc. This ensures that the data is delivered reliably and efficiently.
+  - Representing data: The application layer helps to format and encode the data in a way that is understandable and compatible for both the sender and the receiver, such as by using character sets, compression, encryption, etc. This ensures that the data is transmitted securely and accurately.
+  - Providing network services: The application layer helps to implement the specific functions and features of the network applications, such as by using protocols, standards, and APIs. For example, HTTP is a protocol that defines how web servers and browsers communicate, SMTP is a protocol that defines how email servers and clients communicate, etc.
+  - Managing network resources: The application layer helps to monitor and control the network resources that are used by the network applications, such as by using Simple Network Management Protocol (SNMP), which allows network administrators to collect and modify information about network devices, or by using CiscoWorks2000, which allows network administrators to manage the configuration, inventory, and syslog of network devices.

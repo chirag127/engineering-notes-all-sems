@@ -1,0 +1,21 @@
+#### YARN
+
+- Yarn is a long continuous length of interlocked fibres, used in sewing, crocheting, knitting, weaving, embroidery, ropemaking, and the production of textiles.
+- Thread is a type of yarn intended for sewing by hand or machine.
+- Yarn can be made from natural or synthetic materials, such as cotton, wool, silk, acrylic, nylon, polyester, etc.
+- Yarn can vary in thickness, weight, texture, color, and ply.
+- Ply refers to the number of strands twisted together to make a single yarn.
+- Yarn can be classified into different categories based on the yarn weight system, which measures the thickness of the yarn and the gauge (number of stitches per inch) it produces when knitted or crocheted.
+- Some common yarn weight categories are lace, fingering, sport, DK, worsted, bulky, and super bulky.
+- Yarn can also be classified into different types based on the way it is spun, such as woolen, worsted, semi-worsted, and novelty.
+- Woolen yarns are spun from short and fuzzy fibres, creating a soft and airy yarn that traps air and provides warmth.
+- Worsted yarns are spun from long and smooth fibres, creating a dense and strong yarn that has good stitch definition and drapes well.
+- Semi-worsted yarns are a blend of woolen and worsted spinning techniques, creating a yarn that has some characteristics of both.
+- Novelty yarns are yarns that have special effects, such as texture, color, or shape, that make them stand out from regular yarns.
+- Some examples of novelty yarns are bouclé, eyelash, ribbon, chenille, metallic, and self-striping yarns.
+- Yarn is also the name of a package manager that doubles down as project manager for JavaScript projects.
+- Yarn allows users to install, update, and manage dependencies for their projects, as well as run scripts, create workspaces, and publish packages.
+- Yarn is compatible with the npm registry and can work alongside npm or replace it.
+- Yarn is faster, more reliable, and more secure than npm, according to its developers.
+- Yarn can be installed on various operating systems, such as Windows, macOS, Linux, and BSD, using different methods, such as npm, Homebrew, Chocolatey, Scoop, etc.
+- Yarn can be used with various tools and frameworks, such as React, Angular, Vue, Next.js, Gatsby, etc.

@@ -1,0 +1,26 @@
+## Unit 3 - Software Design
+
+- Software design is the process of defining the architecture, components, interfaces, and other characteristics of a software system.
+- Software design is based on the requirements analysis and the software development methodology chosen for the project.
+- Software design aims to achieve the following goals:
+  - Functional correctness: the software system should meet the functional and non-functional requirements specified by the stakeholders.
+  - Reliability: the software system should perform consistently and correctly under normal and abnormal conditions.
+  - Efficiency: the software system should make optimal use of the available resources, such as memory, CPU, disk, network, etc.
+  - Maintainability: the software system should be easy to modify, debug, test, and evolve over time.
+  - Usability: the software system should be easy to use, learn, and understand by the intended users.
+  - Portability: the software system should be able to run on different platforms, environments, and devices with minimal changes.
+  - Reusability: the software system should be able to reuse existing components, libraries, frameworks, or patterns to reduce development time and cost.
+  - Scalability: the software system should be able to handle increasing workload, users, or data without degrading performance or quality.
+  - Security: the software system should protect the confidentiality, integrity, and availability of the data and resources from unauthorized access, modification, or damage.
+- Software design can be performed at different levels of abstraction, such as:
+  - Architectural design: the high-level structure and organization of the software system, including the main components, their interactions, and their responsibilities.
+  - Component design: the detailed specification and implementation of the individual components, such as classes, modules, functions, etc.
+  - Interface design: the definition and documentation of the inputs, outputs, and behavior of the components, such as parameters, return values, exceptions, etc.
+  - Algorithm design: the selection and optimization of the algorithms, data structures, and techniques used to solve the problems or tasks within the components.
+  - User interface design: the design of the graphical, textual, or auditory elements that the users interact with, such as menus, buttons, dialogs, etc.
+- Software design can be influenced by various factors, such as:
+  - Software quality attributes: the desired properties or characteristics of the software system, such as performance, reliability, usability, etc.
+  - Software design principles: the general guidelines or best practices for creating good software design, such as modularity, cohesion, coupling, abstraction, encapsulation, etc.
+  - Software design patterns: the reusable solutions or templates for common or recurring problems or situations in software design, such as singleton, observer, factory, etc.
+  - Software design models: the graphical or textual representations or notations for describing the software design, such as UML, ERD, DFD, etc.
+  - Software design tools: the software applications or environments that support the software design process, such as IDEs, editors, debuggers, etc.
