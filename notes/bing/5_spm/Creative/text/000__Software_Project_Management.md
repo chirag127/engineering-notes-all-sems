@@ -1,0 +1,13 @@
+# Software Project Management
+
+Software project management is the process of planning and leading software projects. It is a sub-discipline of project management in which software projects are planned, implemented, monitored and controlled.
+
+Software project management involves the following phases and best practices:
+
+- **Initiation**: This phase defines the scope, objectives, feasibility, and stakeholders of the software project. It also involves identifying the project sponsor, the project manager, and the project team.
+- **Planning**: This phase involves creating a detailed plan for the software project, including the tasks, milestones, deliverables, resources, budget, schedule, quality standards, risk management, and communication plan. The plan should be aligned with the project scope and objectives, and should be approved by the project sponsor and stakeholders.
+- **Execution**: This phase involves executing the tasks and activities according to the project plan, and managing the resources, budget, quality, and risks. It also involves coordinating and communicating with the project team, the project sponsor, the stakeholders, and the end-users.
+- **Monitoring and Control**: This phase involves tracking and measuring the progress and performance of the software project, and comparing them with the project plan. It also involves identifying and resolving any issues, changes, or deviations that may arise during the project. The project manager should report the project status and performance to the project sponsor and stakeholders regularly, and seek their feedback and approval as needed.
+- **Closure**: This phase involves completing and delivering the software project, and ensuring that it meets the expectations and requirements of the project sponsor, the stakeholders, and the end-users. It also involves conducting a project review and evaluation, documenting the lessons learned, and celebrating the project success.
+
+Software project management requires the use of project management software, which is software used for project planning, scheduling, resource allocation and change management. Project management software can help the project manager and the project team to control costs and manage budgeting, quality management and documentation, and also may be used as an administration system. Some examples of project management software are Microsoft Project, Jira, Trello, and Asana.

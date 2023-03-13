@@ -1,0 +1,15 @@
+### Types of digital data in big data
+
+Big data refers to the large and complex datasets that are generated from various sources and at high velocities. Big data can be classified into different types based on the format, structure, and accessibility of the data. The following types of digital data in big data are explained below:
+
+- **Structured data**: Any data that can be processed, is easily accessible, and can be stored in a fixed format is called structured data. Structured data follows a predefined schema and can be queried using standard tools and methods. Examples of structured data include relational databases, spreadsheets, and CSV files. Structured data is usually numerical, categorical, or textual in nature.
+
+- **Unstructured data**: Unstructured data in big data is where the data format constitutes multitudes of unstructured files (images, audio, log, and video). Unstructured data does not follow any schema or rules and is difficult to process and analyze using conventional tools and methods. Examples of unstructured data include social media posts, emails, PDF documents, and web pages. Unstructured data is usually rich in media, natural language, or binary content.
+
+- **Semi-structured data**: Semi-structured data in big data is where the data format has some structure or organization, but not enough to fit into a fixed schema. Semi-structured data often contains metadata or tags that describe the data, but the data itself may vary in format and content. Examples of semi-structured data include XML, JSON, and HTML files. Semi-structured data is usually a mix of structured and unstructured data elements.
+
+- **Open data**: Open data in big data is where the data is publicly available and accessible to anyone without any restrictions or limitations. Open data is often published by governments, organizations, or individuals for the purpose of transparency, accountability, or innovation. Examples of open data include census data, weather data, and open source software. Open data is usually structured or semi-structured in format.
+
+- **Dark/lost data**: Dark/lost data in big data is where the data is hidden, inaccessible, or unused by the data owners or users. Dark/lost data is often stored in siloed systems, such as CCTV cameras, legacy databases, or offline devices, that are not connected or integrated with other data sources. Examples of dark/lost data include security footage, medical records, and sensor data. Dark/lost data can be structured, unstructured, or semi-structured in format.
+
+- **Linked data**: Linked data in big data is where the data is transmitted, shared, or connected across different web platforms and applications using APIs and other methods. Linked data enables the interoperability and integration of data from various sources and domains. Examples of linked data include social media APIs, web services, and semantic web technologies. Linked data is usually semi-structured or unstructured in format.

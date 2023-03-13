@@ -204,4 +204,37 @@ The following diagram illustrates the data type hierarchy in Core Java using ASC
 |                 |
 |                 |
 +-----------------+
-| boolean
+| boolean        |
+| char           |
+| byte           |
+| short          |
+| int            |
+| long           |
+| float          |
+| double         |
++-----------------+
+|                 |
+|                 |
+|                 |
+|                 |
++--------+--------+
+|        |        |
+|        |        |
+|        |        |
+|        |        |
++--------+--------+
+|                 |
+|                 |
+|                 |
+|                 |
++-----------------+
+| String          |
+| StringBuilder   |
+| StringBuffer    |
+| Object          |
+| Class           |
+| Interface       |
+| Array           |
+| Enum            |
++-----------------+
+```

@@ -1,0 +1,9 @@
+#### Java Applet in Core Java
+
+- A Java applet is a small application written in the Java programming language that can be transferred via the Internet and run by a Java-compatible web browser .
+- The main difference between Java-based applications and applets is that applets are typically executed in an AppletViewer or Java-compatible web browser, while applications are executed by the Java Virtual Machine (JVM) directly.
+- Java applets can provide web applications with interactive features that cannot be provided by HTML, such as graphics, animations, games, calculators, etc .
+- To create a Java applet, one needs to extend the java.applet.Applet class and override the init(), start(), stop(), and destroy() methods. These methods are invoked by the browser or the AppletViewer to manage the applet's life cycle.
+- To embed a Java applet in an HTML page, one needs to use the <applet> tag or the <object> tag with the appropriate attributes, such as code, width, height, archive, etc. The code attribute specifies the name of the applet class file, and the archive attribute specifies the name of the JAR file that contains the applet and its resources.
+- Java applets have some limitations and security restrictions, such as they cannot access the local file system, the network, or the clipboard of the user's computer, unless they are signed by a trusted authority. They also require the user to have a Java plug-in installed and enabled in the browser, which may not be supported by some browsers or platforms .
+- Java applets are considered obsolete and deprecated since Java 9, and are no longer supported by most browsers. They have been replaced by other technologies, such as Java Web Start, JavaFX, HTML5, JavaScript, etc.

@@ -1,0 +1,9 @@
+#### TCP/IP protocol suite in in Computer Networks
+
+- TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet or in a private network.
+- TCP/IP is also known as the internet protocol suite, as it defines the rules and methods for data transmission over the internet .
+- TCP/IP consists of four layers: application, transport, internet, and network interface .
+- The application layer provides the interface for the user or the application to access the network services, such as email, web browsing, file transfer, etc. Some of the protocols in this layer are HTTP, SMTP, FTP, DNS, etc .
+- The transport layer provides reliable or unreliable data delivery between the source and the destination hosts, using protocols such as TCP or UDP. TCP ensures reliable and ordered data delivery, while UDP provides fast and unordered data delivery .
+- The internet layer is responsible for routing the data packets across different networks, using protocols such as IP, ICMP, ARP, etc. IP assigns a unique address to each host and device on the network, and routes the packets based on the destination address. ICMP is used for error reporting and diagnostic purposes. ARP is used for resolving the physical address of a host from its IP address .
+- The network interface layer is responsible for transmitting and receiving the data packets over the physical medium, such as Ethernet, Wi-Fi, etc. It also handles the framing, error detection, and flow control of the data. Some of the protocols in this layer are Ethernet, Wi-Fi, MAC, etc .

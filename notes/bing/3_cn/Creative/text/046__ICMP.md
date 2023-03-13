@@ -1,0 +1,23 @@
+#### ICMP
+
+- ICMP stands for Internet Control Message Protocol.
+- It is a network layer protocol that devices use to communicate problems or errors with data transmission .
+- It is part of the Internet protocol suite as defined in RFC 792.
+- It is mainly used to determine whether data is reaching its intended destination in a timely manner .
+- Some common types of ICMP messages are:
+  - Echo request and echo reply: used to test the connectivity and latency between two devices (e.g. ping command).
+  - Destination unreachable: sent when a device cannot reach the destination IP address or port.
+  - Time exceeded: sent when a packet has exceeded its time-to-live (TTL) value and has been discarded.
+  - Parameter problem: sent when a device detects an error in the header of an IP packet.
+  - Source quench: sent when a device is experiencing congestion and requests the sender to reduce the transmission rate.
+  - Redirect: sent when a device knows a better route for a packet and advises the sender to use it.
+- ICMP messages have a fixed header of 8 bytes, followed by a variable length data field that contains information relevant to the message type.
+- The header consists of four fields:
+  - Type: 8 bits, identifies the type of ICMP message.
+  - Code: 8 bits, provides more details about the type of ICMP message.
+  - Checksum: 16 bits, used to verify the integrity of the ICMP message.
+  - Rest of header: 32 bits, varies depending on the type and code of the ICMP message.
+- ICMP messages are encapsulated within IP datagrams and have a protocol number of 1 in the IP header.
+- ICMP messages are not reliable, meaning they may be lost, delayed, or reordered during transmission.
+- ICMP messages are not secured, meaning they may be spoofed, altered, or intercepted by malicious actors.
+- ICMP messages may be filtered or blocked by firewalls or routers for security or performance reasons.

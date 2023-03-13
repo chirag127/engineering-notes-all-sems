@@ -89,7 +89,6 @@ def do_content_type_topics(m, j, ps_file, topic, content_type):
 """
 
     if content_type == "all":
-        total_reply = ""
         message = f"""- write the content in markdown format.
 - Be Formal.
 - If there are good Mnemonics and learning tricks for the {topic} then include them.
@@ -99,52 +98,6 @@ def do_content_type_topics(m, j, ps_file, topic, content_type):
 - write in points.
 - you may also include detailed ascii diagrams, codes, markdown tables, advantages, disadvantages, examples, applications, etc for the topic in the reply, only if they can be helpful to learn and read from for exams.
 the topic to write on is {topic}"""
-
-        message = gm + message
-
-        data = get_bing_ai_response(message, m)
-
-        if data["response"]:
-            total_reply += data["response"]
-
-            # message = "Include advantages, disadvantes if you think they can be asked in exams."
-
-            # data = get_bing_ai_response(message, m, data["messageId"])
-
-            # if data["response"]:
-            #     total_reply = total_reply + "\n\n" + data["response"]
-
-            #     print(total_reply)
-
-            # else:
-            #     return
-
-            # message = (
-            #     f"if there are good Mnemonics and learning tricks for the {topic} then include them."
-            #     + "don't give the Mnemonics and learning tricks if they are not easy to remember."
-            # )
-
-            # data = get_bing_ai_response(message, m, data["messageId"])
-
-            # if data["response"]:
-            #     total_reply = total_reply + "\n\n" + data["response"]
-
-            regex = r"\[\^[0-9]+\^\]"
-
-            total_reply = re.sub(regex, "", total_reply)
-
-            total_reply = total_reply.strip()
-
-            with open(file_path, "w", encoding="utf8") as file:
-                file.write(f"{total_reply}")
-
-                return
-
-            # else:
-            #     return
-
-        else:
-            return
 
     elif content_type == "diagram":
         message = f"""- Be Formal.
@@ -172,7 +125,7 @@ The topic is {topic}"""
 
     message = gm + message
 
-    text = get_bing_ai_res(message, m)
+    text = get_bing_ai_res(message, m, topic=topic)
 
     if text:
         with open(file_path, "a", encoding="utf8") as file:
@@ -183,7 +136,9 @@ The topic is {topic}"""
 
 
 def get_bing_ai_response(
-    message, m="Balanced", parentMessageId="b4e55ca3-d2a7-46f7-9c2c-d03e192199f2"
+    message,
+    m="Balanced",
+    parentMessageId="b4e55ca3-d2a7-46f7-9c2c-d03e192199f2",
 ):
     response = requests.post(
         "https://bing.khanh.lol/completion",
@@ -204,6 +159,7 @@ def get_bing_ai_res(
     m="Balanced",
     parentMessageId="b4e55ca3-d2a7-46f7-9c2c-d03e192199f2",
     try_count=3,
+    topic="",
 ):
     # if "draw" in message:
     #     m = "Creative"
@@ -211,7 +167,7 @@ def get_bing_ai_res(
     #     m = "Balanced"
 
     if try_count == 0:
-        return None
+        return "tried 3 times\n\n" + "for topic: " + topic + "\n\n"
 
     data = get_bing_ai_response(message, m, parentMessageId)
     print(data["response"])
@@ -227,15 +183,16 @@ def get_bing_ai_res(
     text = text.strip()
 
     if "I am sorry, I am unable to respond" in text:
-
         print("retrying")
 
-        print(f"""
+        print(
+            f"""
 message: {message}
 m: {m}
 parentMessageId: {parentMessageId}
 try_count: {try_count}
-""")
+"""
+        )
 
         return get_bing_ai_res(message, m, parentMessageId, try_count - 1)
 
@@ -272,10 +229,9 @@ def main(content_type="text", files=None):
 
                 #     j += 1
 
-                max_workers = 20
-
                 max_workers = os.cpu_count()
                 max_workers = len(topics)
+                max_workers = 20
 
                 with ThreadPoolExecutor(max_workers=max_workers) as executor:
                     executor.map(
@@ -311,7 +267,7 @@ def main(content_type="text", files=None):
 
 if __name__ == "__main__":
 
-    def main_1():
+    def main_1(files=None):
         from remove_empty_notes import remove
 
         remove()
@@ -319,30 +275,10 @@ if __name__ == "__main__":
         types = [
             "all",
             "diagram",
-            # "code",
-            # "text",
-        ]
-
-        max_workers = os.cpu_count()
-        files = glob.glob("p_s/*.txt")
-        max_workers = len(types)
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            executor.map(main, types, [files] * len(types))
-
-    def main_11():
-        from remove_empty_notes import remove
-
-        remove()
-
-        types = [
-            "all",
-            "diagram",
-            "code",
             "text",
         ]
 
         max_workers = os.cpu_count()
-        files = glob.glob("p_s/**/*.txt", recursive=True)
         max_workers = len(types)
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             executor.map(main, types, [files] * len(types))
@@ -352,7 +288,9 @@ if __name__ == "__main__":
     while k > 0:
         try:
             print(k)
-            main_1()
+            files = glob.glob("p_s/*.txt")
+
+            main_1(files)
 
             k -= 1
 
@@ -366,7 +304,10 @@ if __name__ == "__main__":
     while k > 0:
         try:
             print(k)
-            main_11()
+
+            files = glob.glob("p_s/**/*.txt", recursive=True)
+
+            main_1(files)
 
             k -= 1
 

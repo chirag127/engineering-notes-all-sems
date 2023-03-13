@@ -1,0 +1,26 @@
+#### String handling in Core Java
+
+- A string is a sequence of characters that can be manipulated by various methods and operators.
+- In Java, strings are objects of the class `java.lang.String`, which is immutable, meaning that its value cannot be changed once created.
+- To create a string object, we can use one of the following ways:
+  - String literals: `String s = "Hello";`
+  - String constructors: `String s = new String("Hello");`
+  - String methods: `String s = s1.concat(s2);`
+  - String pool: A memory area where all the string literals are stored and reused to save memory and improve performance.
+- Some of the common methods and operators for string manipulation are:
+  - `length()`: Returns the number of characters in the string.
+  - `charAt(int index)`: Returns the character at the specified index in the string.
+  - `equals(Object obj)`: Compares the string with another object for equality.
+  - `equalsIgnoreCase(String anotherString)`: Compares the string with another string for equality, ignoring case differences.
+  - `compareTo(String anotherString)`: Compares the string with another string lexicographically, returning a negative, zero, or positive value depending on the order.
+  - `concat(String str)`: Returns a new string that is the concatenation of the string and the argument string.
+  - `substring(int beginIndex, int endIndex)`: Returns a new string that is a substring of the string, starting from the begin index and ending before the end index.
+  - `toLowerCase()`: Returns a new string that is the lowercase version of the string.
+  - `toUpperCase()`: Returns a new string that is the uppercase version of the string.
+  - `trim()`: Returns a new string that is the string with leading and trailing whitespace removed.
+  - `indexOf(String str)`: Returns the index of the first occurrence of the argument string in the string, or -1 if not found.
+  - `lastIndexOf(String str)`: Returns the index of the last occurrence of the argument string in the string, or -1 if not found.
+  - `replace(char oldChar, char newChar)`: Returns a new string that is the string with all occurrences of the old character replaced by the new character.
+  - `split(String regex)`: Returns an array of strings that are the result of splitting the string around matches of the argument regular expression.
+  - `+`: The concatenation operator that appends the argument string to the string.
+  - `+=`: The assignment operator that appends the argument string to the string and assigns the result to the string.

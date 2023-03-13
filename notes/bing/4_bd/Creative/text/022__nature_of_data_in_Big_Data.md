@@ -1,0 +1,9 @@
+### Nature of data in Big Data
+
+Big data is a term that refers to the large and complex data sets that are collected and analyzed by organizations for various purposes, such as business intelligence, machine learning, predictive modeling and advanced analytics. Big data has the following characteristics:
+
+- **Volume**: Big data is measured in terabytes, petabytes or even exabytes of data. The volume of data is increasing rapidly due to the proliferation of digital devices, sensors, social media platforms and other sources of data generation.
+- **Velocity**: Big data is generated and processed at high speed, often in real time or near real time. The velocity of data is important for applications that require timely and accurate insights, such as fraud detection, online recommendation systems and smart city management.
+- **Variety**: Big data encompasses a wide range of data types, such as structured, unstructured and semistructured data. Structured data is organized in a predefined format, such as tables and records. Unstructured data is not organized in a predefined format, such as text, images, videos and audio. Semistructured data is a hybrid of structured and unstructured data, such as web logs, JSON and XML files.
+- **Veracity**: Big data is often noisy, incomplete, inconsistent or inaccurate, which affects the quality and reliability of the data. Veracity of data is important for applications that require high precision and accuracy, such as health care, finance and security.
+- **Value**: Big data has the potential to provide valuable insights and opportunities for organizations, such as improving customer satisfaction, increasing operational efficiency, reducing costs and risks, and creating new products and services. Value of data is determined by the usefulness and relevance of the data for the specific purpose and context.

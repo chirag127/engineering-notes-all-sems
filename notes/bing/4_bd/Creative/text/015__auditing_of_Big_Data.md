@@ -1,0 +1,10 @@
+#### Auditing of Big Data
+
+- Big data is the term used to describe the collection, processing, and analysis of large and complex data sets that exceed the capabilities of traditional data management tools .
+- Big data has many applications in various fields, such as business, health, education, and government, and can provide valuable insights for decision making, performance improvement, and risk management .
+- Auditing of big data is the process of examining and evaluating the quality, reliability, and security of big data and the systems that generate, store, and analyze it .
+- Auditing of big data can help organizations to ensure compliance with regulations, standards, and policies, to identify and mitigate risks, to improve efficiency and effectiveness, and to enhance stakeholder confidence and trust  .
+- Auditing of big data poses new challenges and opportunities for auditors, as they need to adapt their skills, methods, and tools to deal with the volume, variety, velocity, and veracity of big data  .
+- Auditors can use big data to expand the scope of their projects and draw comparisons over larger populations of data, to apply unique analytics techniques and artificial intelligence to uncover patterns, trends, and anomalies, and to deliver reports that are more timely, relevant, and actionable  .
+- Auditors also need to consider the ethical, legal, and social implications of big data, such as data privacy, data ownership, data quality, data governance, and data security, and to ensure that big data is used in a responsible and transparent manner  .
+- Auditing of big data requires the participation and collaboration of internal and external auditors, management, IT, and other stakeholders, to establish a common understanding, a clear vision, and a robust framework for big data in the organization  .

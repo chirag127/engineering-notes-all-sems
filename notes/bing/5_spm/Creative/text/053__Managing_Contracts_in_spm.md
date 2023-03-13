@@ -1,0 +1,31 @@
+### Managing Contracts in SPM
+
+- SPM stands for Supplier Performance Management, which is the process of measuring, analyzing and improving the performance of suppliers in terms of quality, cost, delivery, service and innovation.
+- SPM involves various activities, such as:
+  - Establishing clear and measurable performance criteria and expectations for suppliers
+  - Collecting and validating data on supplier performance
+  - Evaluating and rating suppliers based on their performance
+  - Communicating feedback and improvement suggestions to suppliers
+  - Collaborating with suppliers to resolve issues and implement corrective actions
+  - Recognizing and rewarding high-performing suppliers
+- SPM can help organizations to achieve various benefits, such as:
+  - Reducing costs and risks associated with poor supplier performance
+  - Enhancing customer satisfaction and loyalty by delivering high-quality products and services
+  - Improving operational efficiency and agility by optimizing the supply chain
+  - Fostering innovation and competitiveness by leveraging supplier capabilities and expertise
+  - Strengthening supplier relationships and loyalty by building trust and transparency
+- SPM requires a systematic and consistent approach that involves the following steps:
+  - Define the scope and objectives of SPM
+  - Identify and segment the suppliers to be managed
+  - Develop and implement a performance measurement system
+  - Monitor and analyze supplier performance data
+  - Conduct periodic performance reviews and audits
+  - Provide feedback and coaching to suppliers
+  - Implement improvement plans and actions
+  - Review and revise the SPM process and system
+- SPM can be supported by various tools and techniques, such as:
+  - SPM software and platforms that automate and streamline the data collection, analysis and reporting processes
+  - SPM dashboards and scorecards that provide a visual and interactive representation of supplier performance metrics and trends
+  - SPM surveys and questionnaires that solicit feedback and opinions from internal and external stakeholders
+  - SPM contracts and agreements that specify the performance standards and expectations for suppliers
+  - SPM best practices and benchmarks that provide guidance and reference for SPM implementation and improvement

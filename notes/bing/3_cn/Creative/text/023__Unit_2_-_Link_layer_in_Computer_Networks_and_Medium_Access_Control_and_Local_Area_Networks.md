@@ -1,0 +1,11 @@
+## Unit 2 - Link layer in Computer Networks and Medium Access Control and Local Area Networks
+
+- The link layer is the lowest layer in the TCP/IP model. It is responsible for sending and receiving frames between nodes on the same physical link.
+- A frame is a unit of data that contains a header, a payload, and a trailer. The header contains information such as the source and destination addresses, the type of payload, and error detection codes. The trailer contains a checksum or a cyclic redundancy check (CRC) to verify the integrity of the frame.
+- The link layer can be divided into two sublayers: the logical link control (LLC) sublayer and the media access control (MAC) sublayer.
+- The LLC sublayer provides services such as flow control, error control, and multiplexing to the upper layers. It can use different protocols such as HDLC, PPP, or Ethernet to encapsulate the data from the network layer.
+- The MAC sublayer is responsible for controlling the access to the shared medium. It can use different techniques such as contention-based, reservation-based, or polling-based to coordinate the transmission of frames among multiple nodes.
+- A local area network (LAN) is a network that connects devices within a limited geographic area, such as a building or a campus. A LAN can use different technologies such as Ethernet, Wi-Fi, or Token Ring to implement the link layer.
+- Ethernet is the most widely used LAN technology. It uses a bus or a star topology to connect nodes. It uses the CSMA/CD protocol to resolve collisions on the shared medium. It can operate at different speeds such as 10 Mbps, 100 Mbps, 1 Gbps, or 10 Gbps.
+- Wi-Fi is a wireless LAN technology that uses radio waves to transmit and receive data. It uses the CSMA/CA protocol to avoid collisions on the shared medium. It can operate at different frequencies such as 2.4 GHz or 5 GHz, and different standards such as 802.11a, 802.11b, 802.11g, 802.11n, or 802.11ac.
+- Token Ring is a LAN technology that uses a ring topology to connect nodes. It uses a token-passing protocol to grant access to the medium. It can operate at 4 Mbps or 16 Mbps. It is less popular than Ethernet or Wi-Fi.

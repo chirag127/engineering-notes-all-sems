@@ -1,0 +1,10 @@
+#### Slavery in Society in Ancient India
+
+- Slavery was a universal social evil and had its origin even from the early period of history. In India, its origin is closely associated with the caste system.
+- The institution of slavery existed in ancient India, although it operated in much milder form than in the ancient civilizations of the west. Its operation was at a low key that foreign travelers like Megasthenes did not note it, for we do not get any reference in his account about slavery.
+- The early history of slavery in the Indian subcontinent is contested because it depends on the translations of terms such as dasa and dasyu. Greek writer Megasthenes in his work Indika, while describing the Maurya Empire states that slavery was banned in Indian society.
+- Slavery existed in ancient India, where it is recorded in the Sanskrit Laws of Manu of the 1st century BCE. The institution was little documented until the British colonials in the 19th century made it an object of study because of their desire to abolish it.
+- Slaves in ancient India were mostly domestic servants, agricultural laborers, concubines, artisans, and soldiers. They were either captured in wars, born in servitude, sold by their parents or relatives, or enslaved as a punishment for crimes or debts.
+- Slaves had no rights or privileges and were completely dependent on their masters. They could be bought, sold, gifted, inherited, or freed by their owners. They were also subject to physical and sexual abuse, torture, and exploitation.
+- Some slaves, however, managed to rise to high positions in the society, such as ministers, generals, governors, and even rulers. For example, Malik Ambar, an Ethiopian slave, became a powerful military leader and a kingmaker in the Deccan region in the 17th century.
+- Slavery gradually declined in India with the advent of Islam, Buddhism, Jainism, and Sikhism, which preached equality and compassion for all living beings. The British also enacted laws to prohibit slavery and emancipate the slaves in the 19th century.

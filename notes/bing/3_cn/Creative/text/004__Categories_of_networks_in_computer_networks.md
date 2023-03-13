@@ -1,0 +1,17 @@
+#### Categories of networks in computer networks
+
+A computer network is a system of two or more computers that are connected to each other and can share data, resources, and applications. Computer networks can be classified based on several criteria, such as the transmission medium, the network size, the topology, and the organizational intent. Based on the network size, the most common types of computer networks are:
+
+- **Personal Area Network (PAN)**: A PAN is the smallest and simplest type of network. It connects devices within the range of an individual, such as a smartphone, a laptop, a printer, or a smartwatch. A PAN is usually wireless and can use technologies such as Bluetooth, Wi-Fi, or infrared. A PAN can enable personal communication, data synchronization, and device control.   
+
+- **Local Area Network (LAN)**: A LAN is a network that connects devices within a limited geographical area, such as a home, an office, a school, or a building. A LAN can use wired or wireless technologies, such as Ethernet, Wi-Fi, or fiber optics. A LAN can enable file sharing, printer sharing, internet access, and local communication. A LAN can have a single or multiple subnets, depending on the network design and the number of devices.   
+
+- **Wide Area Network (WAN)**: A WAN is a network that connects devices across a large geographical area, such as a city, a country, or the world. A WAN can use wired or wireless technologies, such as telephone lines, satellite links, cellular networks, or the internet. A WAN can enable remote access, data transfer, and global communication. A WAN can have a single or multiple domains, depending on the network architecture and the level of control.   
+
+- **Metropolitan Area Network (MAN)**: A MAN is a network that connects devices within a metropolitan area, such as a city or a town. A MAN can use wired or wireless technologies, such as cable, DSL, WiMAX, or 5G. A MAN can enable regional communication, internet service, and public access. A MAN can have a single or multiple providers, depending on the network ownership and the service agreement.   
+
+- **Campus Area Network (CAN)**: A CAN is a network that connects devices within a campus, such as a university, a hospital, or a military base. A CAN can use wired or wireless technologies, such as Ethernet, Wi-Fi, or fiber optics. A CAN can enable academic, medical, or military communication, data sharing, and security. A CAN can have a single or multiple LANs, depending on the network size and the functional requirements.  
+
+- **Storage Area Network (SAN)**: A SAN is a network that connects storage devices, such as hard disks, tape drives, or optical disks. A SAN can use wired or wireless technologies, such as SCSI, Fibre Channel, or iSCSI. A SAN can enable data backup, data recovery, data replication, and data management. A SAN can have a single or multiple servers, depending on the network performance and the storage capacity.  
+
+- **Virtual Private Network (VPN)**: A VPN is a network that connects devices over a public network, such as the internet, using encryption and authentication. A VPN can use wired or wireless technologies, such as SSL, IPSec, or L2TP. A VPN can enable secure, private, and remote communication, data transfer, and access. A VPN can have a single or multiple tunnels, depending on the network security and the user needs.

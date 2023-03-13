@@ -1,0 +1,7 @@
+#### Map Reduce framework and basics
+
+- MapReduce is a programming model or pattern within the Hadoop framework that is used to access big data stored in the Hadoop File System (HDFS).
+- MapReduce consists of two distinct tasks – Map and Reduce. The map function takes input pairs, processes them, and produces another set of intermediate pairs as output. The reduce function takes the intermediate pairs, groups them by key, and performs some aggregation or computation on the values.
+- The MapReduce framework consists of a single master ResourceManager, one worker NodeManager per cluster-node, and MRAppMaster per application. The ResourceManager allocates resources to the applications and monitors their progress. The NodeManager is responsible for launching and managing the containers that run the map and reduce tasks. The MRAppMaster coordinates the execution of the application and communicates with the ResourceManager and the NodeManager.
+- MapReduce is used for various applications such as log analysis, full-text indexing, PageRank calculation, reverse web-link graph, etc.
+- MapReduce is a scalable, fault-tolerant, and parallelizable framework that allows us to process large data sets in a distributed environment .

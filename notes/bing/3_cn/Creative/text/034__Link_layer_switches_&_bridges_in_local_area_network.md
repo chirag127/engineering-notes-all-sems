@@ -1,0 +1,8 @@
+#### Link layer switches & bridges in local area network
+
+- A **link layer switch** is a network device that operates at the data link layer (layer 2) of the OSI model and forwards Ethernet frames between devices on a local area network (LAN).
+- A **bridge** is a similar device that can also connect multiple LANs or different types of LANs, such as Ethernet and token ring, using MAC addresses to forward frames.
+- Both switches and bridges use a **MAC address table** to store the mappings between MAC addresses and ports, and update the table dynamically by learning from the source addresses of incoming frames.
+- Switches and bridges can **reduce collisions** and increase the available bandwidth on a LAN by dividing it into smaller segments or collision domains. Each port on a switch or a bridge is a separate collision domain.
+- Switches and bridges can also perform **filtering** and **forwarding** decisions based on the destination MAC address of a frame. If the destination MAC address is not in the MAC address table, the device broadcasts the frame to all ports except the incoming port. If the destination MAC address is in the MAC address table, the device forwards the frame to the corresponding port. If the destination MAC address is the same as the incoming port, the device discards the frame.
+- Switches and bridges can improve the **security** and **performance** of a LAN by isolating traffic and preventing unauthorized access. However, they cannot prevent broadcast storms or loops, which can cause network congestion and instability. To prevent loops, switches and bridges use a protocol called **Spanning Tree Protocol (STP)**, which dynamically disables some ports and creates a loop-free logical topology.

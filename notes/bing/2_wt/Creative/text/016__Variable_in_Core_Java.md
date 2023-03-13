@@ -1,0 +1,11 @@
+#### Variable in Core Java
+
+A variable in Java is a data container that stores the data values during the execution of a Java program. Every variable has a name and a data type that specifies the type and quantity of value it can hold. A variable is a name given to a memory location that can be used to store and retrieve data. Variables can be defined anywhere in the code, such as inside a class, inside a method, or as a method argument, and can have different modifiers. Depending on these conditions, variables in Java can be divided into four categories:
+
+- **Instance variable**: A variable that is declared inside a class but outside a method is called an instance variable. It belongs to an object of the class and is created when the object is instantiated. Each object has its own copy of the instance variable and can access it using the dot operator. Instance variables can have any access modifier and can be initialized with a default or a user-defined value.
+
+- **Static variable**: A variable that is declared inside a class but outside a method with the static keyword is called a static variable. It belongs to the class and is shared by all the objects of the class. It is created when the class is loaded and can be accessed using the class name and the dot operator. Static variables can have any access modifier and can be initialized with a default or a user-defined value.
+
+- **Local variable**: A variable that is declared inside a method or a block of code is called a local variable. It is visible only within the scope of the method or the block and is destroyed when the method or the block exits. Local variables do not have any access modifier and must be initialized with a user-defined value before they can be used.
+
+- **Parameter variable**: A variable that is declared as a method argument is called a parameter variable. It is used to pass data to the method when it is invoked. Parameter variables are local variables and have the same characteristics as local variables.

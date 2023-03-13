@@ -1,0 +1,11 @@
+#### Structural Testing (White Box Testing) software testing strategy
+
+- Structural testing, also known as white box testing, is a software testing strategy that focuses on the internal structure, design, and implementation of the software system.
+- The main objective of structural testing is to verify that the software conforms to the specified design and coding standards, and that it has no errors or defects in its logic, data flow, or control flow.
+- Structural testing requires the tester to have access to the source code and the design documents of the software system. The tester can use various techniques and tools to analyze the code and generate test cases that cover different paths, branches, statements, and conditions in the code.
+- Some of the common techniques and tools for structural testing are:
+
+  - Code coverage: A measure of how much of the code is executed by the test cases. It can be calculated at different levels, such as statement coverage, branch coverage, condition coverage, path coverage, etc. Code coverage tools can help the tester identify the parts of the code that are not tested or have low coverage, and generate additional test cases to increase the coverage.
+  - Control flow testing: A technique that uses the control flow graph of the code to derive test cases that cover all the possible paths from the entry point to the exit point of the code. Control flow testing can help the tester detect errors or anomalies in the logic or sequence of the code, such as loops, jumps, dead code, etc.
+  - Data flow testing: A technique that uses the data flow graph of the code to derive test cases that cover all the possible definitions, uses, and kills of the variables in the code. Data flow testing can help the tester detect errors or anomalies in the data or information flow of the code, such as uninitialized variables, dangling pointers, memory leaks, etc.
+  - Mutation testing: A technique that involves creating and executing variants of the code by introducing small changes or mutations, such as changing operators, operands, statements, etc. Mutation testing can help the tester evaluate the effectiveness of the test cases by measuring how many mutants are detected or killed by the test cases. A high mutation score indicates that the test cases are able to detect most of the faults in the code.

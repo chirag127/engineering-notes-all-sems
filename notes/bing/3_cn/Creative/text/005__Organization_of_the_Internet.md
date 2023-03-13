@@ -1,0 +1,9 @@
+#### Organization of the Internet
+
+- The Internet is a global network of interconnected computers and devices that communicate using standardized protocols and procedures.
+- The Internet is composed of many smaller networks, called internets, that are connected by routers and gateways. Some internets are isolated and do not connect to the global Internet, but use the same Internet standards.
+- The Internet is organized at different levels, such as hardware, access, navigation, and governance. Each level involves different actors and entities that control and regulate the Internet.
+- The hardware level consists of the physical devices and infrastructure that enable data transmission and processing, such as computers, servers, cables, satellites, and wireless networks.
+- The access level involves the Internet service providers (ISPs) and network operators that provide connectivity and bandwidth to users and organizations. ISPs can be commercial, public, or community-based, and they can have different policies and prices for their services.
+- The navigation level refers to the methods and tools that help users find and access information and resources on the Internet, such as domain names, IP addresses, search engines, browsers, and applications.
+- The governance level encompasses the rules, norms, and institutions that shape the development and operation of the Internet, such as laws, regulations, standards, policies, and organizations. Some of the organizations that influence the Internet are the Internet Society, the Internet Engineering Task Force, the Internet Corporation for Assigned Names and Numbers, the World Wide Web Consortium, and the United Nations.

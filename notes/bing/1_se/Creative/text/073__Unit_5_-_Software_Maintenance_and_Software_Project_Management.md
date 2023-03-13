@@ -1,0 +1,14 @@
+## Unit 5 - Software Maintenance and Software Project Management
+
+- Software maintenance is the process of modifying and updating software after it has been delivered to the customer. Software maintenance can be classified into four types: corrective, adaptive, perfective, and preventive.
+  - Corrective maintenance is the process of fixing errors or bugs that are discovered in the software after its delivery. Corrective maintenance can be reactive (responding to reported problems) or proactive (anticipating and preventing potential problems).
+  - Adaptive maintenance is the process of modifying software to cope with changes in the environment, such as new hardware, operating systems, or standards. Adaptive maintenance can be driven by customer requests or by technological evolution.
+  - Perfective maintenance is the process of enhancing software to improve its functionality, performance, usability, or quality. Perfective maintenance can be initiated by customer feedback, market analysis, or internal improvement goals.
+  - Preventive maintenance is the process of modifying software to reduce the complexity and improve the maintainability of the software. Preventive maintenance can involve activities such as code refactoring, documentation, testing, or reengineering.
+
+- Software project management is the discipline of planning, organizing, leading, and controlling software projects. Software project management can be divided into five phases: initiation, planning, execution, monitoring and control, and closure.
+  - Initiation is the phase where the project scope, objectives, feasibility, and stakeholders are defined. Initiation can involve activities such as project charter, business case, stakeholder analysis, or risk assessment.
+  - Planning is the phase where the project activities, resources, schedule, budget, quality, and communication are planned. Planning can involve activities such as work breakdown structure, network diagram, Gantt chart, cost estimation, quality plan, or communication plan.
+  - Execution is the phase where the project deliverables are produced according to the project plan. Execution can involve activities such as software development, testing, integration, or deployment.
+  - Monitoring and control is the phase where the project progress, performance, quality, and risks are measured and compared with the project plan. Monitoring and control can involve activities such as status reports, variance analysis, change management, or quality control.
+  - Closure is the phase where the project is formally completed and handed over to the customer. Closure can involve activities such as deliverable acceptance, project evaluation, lessons learned, or project archive.

@@ -1,0 +1,21 @@
+#### Coupling in Software Design
+
+- Coupling is the degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules.
+- Coupling is usually contrasted with cohesion, which is the degree of intra-dependence within a module; a measure of how well the elements of a module belong together.
+- Low coupling often correlates with high cohesion, and vice versa. Low coupling means that modules are independent and changes in one module have little impact on other modules. High cohesion means that modules are focused and have a single responsibility.
+- Coupling is an important factor in software design, as it affects the quality, maintainability, reusability, and testability of the software. High coupling increases the complexity and brittleness of the software, making it harder to understand, modify, and test. Low coupling reduces the complexity and increases the modularity and flexibility of the software, making it easier to understand, modify, and test.
+- There are different types of coupling, depending on the nature and degree of the dependencies between modules. Some common types of coupling are:
+  - Common coupling: when modules share global data or constants.
+  - Content coupling: when modules directly access or modify the contents of another module.
+  - Data coupling: when modules communicate through parameters or return values.
+  - Stamp coupling: when modules communicate through data structures or objects.
+  - Control coupling: when modules communicate through control flags or signals.
+  - External coupling: when modules depend on external systems or interfaces.
+- The types of coupling can be arranged in a hierarchy, from the strongest to the weakest, as follows:
+  - Content coupling > Common coupling > External coupling > Control coupling > Stamp coupling > Data coupling > No coupling
+- The goal of software design is to achieve low coupling and high cohesion, as this improves the quality and maintainability of the software. Some techniques to achieve low coupling are:
+  - Encapsulation: hiding the implementation details of a module and exposing only its interface.
+  - Abstraction: providing a general and simplified representation of a module and its functionality.
+  - Modularity: dividing the software into smaller and independent units that can be composed together.
+  - Information hiding: concealing the details of a module that are not relevant to other modules.
+  - Loose coupling: minimizing the dependencies between modules and using interfaces or contracts to communicate.

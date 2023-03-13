@@ -1,0 +1,12 @@
+#### Understanding Gender as a social category in Society in Ancient India
+
+- Gender is a social category that refers to the roles, expectations and norms associated with being male or female in a given society.
+- Gender roles are not fixed or natural, but vary across time, place and culture.
+- In ancient India, gender roles were influenced by various factors, such as religion, caste, class, law, literature and education.
+- Some of the main points to understand gender as a social category in ancient India are:
+
+  - Women in ancient India were generally respected and dignified, especially in the Vedic period (1500-600 BCE). They had access to education, religious rites and philosophical debates. They could also choose their own husbands and participate in public affairs  .
+  - However, women's status and rights gradually declined in the later periods, such as the post-Vedic, Mauryan, Gupta and medieval periods. They faced various forms of discrimination, oppression and violence, such as child marriage, sati, purdah, dowry and widowhood. They were also denied education, property and inheritance rights. They were largely confined to the domestic sphere and subordinate to their husbands and fathers .
+  - Men in ancient India were generally dominant and privileged, especially in the later periods. They had more authority, freedom and opportunities than women. They were expected to perform their duties as warriors, rulers, priests, scholars and householders. They were also the main beneficiaries of the caste system, which gave them social and economic advantages over the lower castes and women .
+  - However, men's roles and responsibilities were also shaped by various factors, such as their age, stage of life, occupation and family. They had to follow certain rules and codes of conduct, such as the dharma, the ashramas and the varnas. They also had to face challenges and conflicts, such as wars, invasions, famines and diseases .
+  - Gender relations in ancient India were not uniform or static, but dynamic and diverse. They were influenced by various factors, such as region, culture, ideology and history. They also changed over time, depending on the political, social and economic conditions of the society. There were also some exceptions and variations, such as women rulers, warriors, poets and saints, and men who renounced the world, became monks or supported women's rights  .

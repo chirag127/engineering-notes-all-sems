@@ -1,0 +1,8 @@
+#### Compliance with Design and Coding Standards (Coding Standards) Static testing strategy
+
+- Compliance with design and coding standards is a static testing technique that aims to ensure that the software product conforms to the predefined rules and guidelines for its structure, format, style, and quality.
+- Compliance testing can be performed at different levels of software development, such as requirements, design, code, and documentation.
+- Compliance testing can help to improve the readability, maintainability, portability, and security of the software product, as well as to prevent defects and errors.
+- Compliance testing can be done manually or with the help of automated tools that can check the software artifacts against the standards and report any deviations or violations.
+- Compliance testing can be based on internal or external standards, depending on the nature and scope of the software project. Some examples of internal standards are coding conventions, naming conventions, commenting guidelines, and documentation templates. Some examples of external standards are ISO/IEC 9126, IEEE 830, and MISRA C.
+- Compliance testing can be integrated into the software development process as part of the quality assurance activities, such as reviews, inspections, audits, and walkthroughs. Compliance testing can also be performed as a separate activity before or after the software delivery.
