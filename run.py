@@ -19,7 +19,7 @@ files.sort()
 
 # # run all the files concurrently
 
-files = ["01_bi.py", "02_po.py", "05_addodd.py"]
+files = ["01_bi.py", "02_po.py"]
 
 with ThreadPoolExecutor() as executor:
     for f in files:
