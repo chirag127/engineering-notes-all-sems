@@ -1,0 +1,33 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are a class of distributed algorithms that allow a set of processes to reach a common decision, even in the presence of failures.
+- Agreement protocols are essential for ensuring reliability and fault tolerance in distributed systems, such as distributed databases, distributed consensus, leader election, atomic broadcast, etc .
+- There are different types of agreement problems, depending on the assumptions and requirements of the system, such as:
+  - **Consensus**: Each process proposes a value and all correct processes must agree on the same value.
+  - **Byzantine agreement**: Each process proposes a value and all correct processes must agree on the same value, even if some processes are faulty and may behave arbitrarily.
+  - **Atomic commit**: Each process decides whether to commit or abort a transaction and all correct processes must agree on the same decision.
+  - **Leader election**: Each process has a unique identifier and all correct processes must agree on the identifier of one of them as the leader.
+- There are different types of failures that may affect the processes and the communication channels in a distributed system, such as:
+  - **Crash failures**: A process stops executing and does not resume.
+  - **Omission failures**: A process or a channel fails to send or receive a message.
+  - **Timing failures**: A process or a channel violates the timing assumptions of the system.
+  - **Byzantine failures**: A process or a channel behaves arbitrarily and may deviate from the protocol.
+- There are different types of models that capture the assumptions and properties of a distributed system, such as:
+  - **Synchronous model**: There are known bounds on the processing time, the message transmission time, and the clock drift of the processes.
+  - **Asynchronous model**: There are no bounds on the processing time, the message transmission time, and the clock drift of the processes.
+  - **Partially synchronous model**: There are bounds on the processing time, the message transmission time, and the clock drift of the processes, but they are not known or may change over time.
+  - **Failure detector model**: There is a mechanism that provides information about the failure status of the processes.
+- There are different types of solutions that implement agreement protocols, depending on the type of problem, the type of failure, and the type of model, such as:
+  - **Paxos**: A consensus protocol that works in asynchronous or partially synchronous systems with crash failures.
+  - **Raft**: A consensus protocol that works in partially synchronous systems with crash failures and is easier to understand than Paxos.
+  - **Two-phase commit**: An atomic commit protocol that works in synchronous systems with crash failures.
+  - **Three-phase commit**: An atomic commit protocol that works in asynchronous systems with crash failures and avoids blocking.
+  - **Bully algorithm**: A leader election protocol that works in synchronous systems with crash failures and elects the process with the highest identifier as the leader.
+  - **Ring algorithm**: A leader election protocol that works in synchronous systems with crash failures and elects the process with the highest identifier as the leader, using a ring topology.
+  - **Lamport's algorithm**: A Byzantine agreement protocol that works in synchronous systems with Byzantine failures and requires more than two-thirds of the processes to be correct.
+  - **Signed messages algorithm**: A Byzantine agreement protocol that works in asynchronous systems with Byzantine failures and requires digital signatures.
+
+- A possible mnemonic to remember the types of agreement problems is **CABAL**: Consensus, Atomic commit, Byzantine agreement, Atomic broadcast, Leader election.
+- A possible mnemonic to remember the types of failures is **COTB**: Crash, Omission, Timing, Byzantine.
+- A possible mnemonic to remember the types of models is **SAPF**: Synchronous, Asynchronous, Partially synchronous, Failure detector.
+- A possible mnemonic to remember the types of solutions is **PRTBL**: Paxos, Raft, Two-phase commit, Three-phase commit, Bully algorithm, Lamport's algorithm.

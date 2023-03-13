@@ -1,0 +1,30 @@
+### File system for the notes of the Unit 3 - Data management issues, data replication for mobile computers, adaptive clustering for mobile in the subject of Mobile Computing
+
+- A file system is a software component that manages the storage and retrieval of data on a persistent device, such as a hard disk, flash memory, or optical disc.
+- A file system for mobile computing is a file system that supports the mobility and wireless connectivity of clients, such as laptops, smartphones, tablets, or personal digital assistants (PDAs).
+- A file system for mobile computing faces several challenges, such as:
+  - Network disconnection or partitioning due to low bandwidth, high latency, or interference.
+  - Data consistency and availability in the presence of concurrent updates, replication, and caching.
+  - Data security and privacy in the face of unauthorized access, eavesdropping, or tampering.
+  - Data management and synchronization across heterogeneous devices and platforms.
+  - Resource constraints and energy efficiency of mobile devices and networks.
+- A file system for mobile computing can adopt different design options, such as:
+  - Location transparency: whether the file system hides or exposes the physical location of data to the users and applications.
+  - User mobility: whether the file system allows users to access their data from different devices and locations.
+  - Compatibility: whether the file system conforms to existing operating system interfaces and standards, or requires modifications or extensions.
+  - Replication: whether the file system maintains multiple copies of data on different servers or clients, and how it handles replication conflicts and consistency.
+  - Caching: whether the file system stores temporary copies of data on local or remote caches, and how it handles cache coherence and invalidation.
+  - Disconnection: whether the file system supports disconnected or weakly connected operation, and how it handles reconnection and reconciliation.
+  - Security: whether the file system provides mechanisms for authentication, encryption, and access control of data and communication.
+- A file system for mobile computing can be classified into three categories, based on the degree of replication and caching:
+  - Client-server file systems: the file system maintains a single copy of data on a server, and clients access the data over the network. The clients may cache data locally for performance, but the server is the authoritative source of data. Examples of client-server file systems are NFS and AFS.
+  - Replicated file systems: the file system maintains multiple copies of data on different servers, and clients access the data from the nearest or most available server. The servers synchronize their data periodically or on demand, and resolve any replication conflicts. Examples of replicated file systems are Coda and Ficus.
+  - Peer-to-peer file systems: the file system distributes data among different clients, and clients access the data from each other. The clients cooperate to share, replicate, and cache data, and resolve any consistency issues. Examples of peer-to-peer file systems are OceanStore and PAST.
+- A file system for mobile computing can also be classified into two categories, based on the degree of disconnection support:
+  - Connected file systems: the file system assumes that clients are always or mostly connected to the network, and relies on the network for data access and synchronization. The file system may tolerate temporary or intermittent disconnections, but requires reconnection for data consistency and availability. Examples of connected file systems are NFS and AFS.
+  - Disconnected file systems: the file system supports clients that are frequently or permanently disconnected from the network, and allows them to operate on local data. The file system may use techniques such as hoarding, logging, or versioning to handle disconnection and reconnection. Examples of disconnected file systems are Coda and Ficus.
+- A file system for mobile computing can also be classified into two categories, based on the degree of security support:
+  - Insecure file systems: the file system does not provide any security mechanisms, or provides only weak or optional security mechanisms. The file system assumes that the network and the devices are trusted, or relies on external security measures. Examples of insecure file systems are NFS and Ficus.
+  - Secure file systems: the file system provides strong and mandatory security mechanisms, such as authentication, encryption, and access control. The file system assumes that the network and the devices are untrusted, or provides additional security measures. Examples of secure file systems are AFS and Coda.
+- A file system for mobile computing can also be classified into two categories, based on the degree of compatibility support:
+  - Compatible file systems: the file system conforms to existing operating system interfaces and standards, such as POSIX or Windows. The

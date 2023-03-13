@@ -1,0 +1,22 @@
+### Service-oriented Analysis and Design (SOAD) Process
+
+- Service-oriented analysis and design (SOAD) is a methodology that refers to the modeling and design for service-oriented architecture (SOA) applications.
+- A SOAD approach in designing SOA applications requires the following key elements:
+  - Identification of business processes and services that support them
+  - Specification of service contracts and interfaces
+  - Definition of service compositions and orchestrations
+  - Implementation of service components and deployment of service endpoints
+- SOAD aims to achieve the following benefits:
+  - Reuse of existing services and components
+  - Loose coupling of service providers and consumers
+  - Alignment of business and IT goals and requirements
+  - Agility and adaptability to changing business needs and contexts
+- SOAD involves the following phases:
+  - Service identification: This phase identifies the business processes and the services that support them, based on the business goals, requirements, and capabilities. It also analyzes the existing IT assets and legacy systems that can be reused or exposed as services.
+  - Service specification: This phase specifies the service contracts and interfaces, based on the service requirements, policies, and standards. It also defines the service quality attributes, such as availability, reliability, security, and performance.
+  - Service realization: This phase implements the service components and deploys the service endpoints, based on the service specifications and the chosen technologies and platforms. It also tests and validates the service functionality and quality.
+  - Service composition: This phase defines the service compositions and orchestrations, based on the business process models and the service contracts. It also specifies the coordination and communication mechanisms among the services, such as messaging, transactions, and events.
+  - Service evolution: This phase monitors and evaluates the service performance and usage, based on the business and IT metrics and feedback. It also identifies and implements the changes and improvements to the services, based on the changing business needs and contexts.
+- SOAD can be complemented by other methods and techniques, such as:
+  - SOA Decision Modeling (SOAD): This method focuses on the architectural decisions and patterns that guide the service realization phase. It provides a structured and systematic way to capture, document, and communicate the design rationale and trade-offs of the service implementation and deployment.
+  - Service Variability Analysis and Design (SVAD): This method focuses on the variability and adaptation of the services, based on the different clients and contexts. It provides a way to analyze and design the variation points and variants of the service contracts, interfaces, components, and compositions.

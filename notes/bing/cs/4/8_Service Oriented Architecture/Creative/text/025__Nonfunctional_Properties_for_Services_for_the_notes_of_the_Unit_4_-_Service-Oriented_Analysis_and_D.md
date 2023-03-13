@@ -1,0 +1,14 @@
+### Nonfunctional Properties for Services
+
+Nonfunctional properties for services are the qualities and features that are desirable by the service users, but are not directly related to the functionality or behavior of the service. Nonfunctional properties can affect the performance, reliability, security, usability, availability, and maintainability of the service. Nonfunctional properties are often specified in service level agreements (SLAs) between the service provider and the service consumer, and can be used to measure and report how well the service is meeting the customer's expectations.
+
+Some examples of nonfunctional properties for services are:
+
+- **Availability**: The degree to which the service is accessible and operational when needed by the service consumer. Availability can be expressed as a percentage of uptime over a period of time, or as a maximum number of failures or downtime allowed in a given period.
+- **Performance**: The degree to which the service responds to the service consumer's requests in a timely and efficient manner. Performance can be measured by metrics such as response time, throughput, latency, and scalability.
+- **Security**: The degree to which the service protects the confidentiality, integrity, and availability of the data and resources involved in the service interaction. Security can be achieved by applying techniques such as encryption, authentication, authorization, auditing, and monitoring.
+- **Usability**: The degree to which the service is easy to use and understand by the service consumer. Usability can be evaluated by factors such as user satisfaction, user feedback, user interface design, and user documentation.
+- **Reliability**: The degree to which the service delivers consistent and correct results under normal and abnormal conditions. Reliability can be assessed by metrics such as error rate, fault tolerance, and recovery time.
+- **Maintainability**: The degree to which the service can be modified, updated, or repaired with minimal effort and disruption. Maintainability can be influenced by factors such as modularity, documentation, testing, and versioning.
+
+Nonfunctional properties for services are important to consider in the service-oriented analysis and design process, as they can affect the quality, cost, and value of the service. Nonfunctional properties can also be used to differentiate and compare different service offerings and implementations. Nonfunctional properties can be formally described using languages or models that capture the policies and constraints of the service, such as WS-Policy, WS-Agreement, or WSLA. Nonfunctional properties can also be verified and validated using methods such as testing, monitoring, or simulation.

@@ -1,0 +1,25 @@
+### Natural Language Processing Word2Vec for the notes of the Unit 5 - CASE STUDY AND APPLICATIONS in the subject of Deep Learning
+
+- Word2vec is a technique for natural language processing (NLP) that uses a neural network model to learn word associations from a large corpus of text.
+- Word2vec is not a single algorithm, but a family of model architectures and optimizations that can be used to learn word embeddings from large datasets.
+- Word embeddings are numerical representations of words that capture their semantic and syntactic features, such as meaning, context, and similarity.
+- Word2vec can produce two types of word embeddings: continuous bag-of-words (CBOW) and skip-gram.
+- CBOW predicts a target word from its surrounding context words, while skip-gram predicts the context words from a given target word.
+- Both CBOW and skip-gram use a shallow neural network with one hidden layer and a softmax output layer.
+- The hidden layer has a fixed number of neurons, which determines the dimensionality of the word embeddings.
+- The input layer consists of one-hot encoded vectors of the context or target words, depending on the model type.
+- The output layer consists of softmax probabilities of the target or context words, depending on the model type.
+- The weights of the hidden layer are the word embeddings that are learned during the training process.
+- The training objective is to maximize the average log probability of the correct word given the context or target word.
+- Word2vec can be optimized using various techniques, such as negative sampling, hierarchical softmax, and sub-sampling of frequent words.
+- Negative sampling reduces the computational complexity of the softmax layer by randomly sampling a small number of negative words (words that are not in the context or target) for each positive word (word that is in the context or target).
+- Hierarchical softmax speeds up the computation of the softmax layer by organizing the words in a binary tree and using the path from the root to the word as the output probability.
+- Sub-sampling of frequent words reduces the impact of very common words (such as "the" or "of") on the learning process by randomly discarding them with a certain probability.
+- Word2vec can produce high-quality word embeddings that can be used for various downstream NLP tasks, such as sentiment analysis, machine translation, text summarization, and question answering.
+- Word2vec can also capture semantic and syntactic relationships between words, such as synonyms, antonyms, analogies, and word categories.
+- Word2vec can be implemented using various frameworks, such as TensorFlow, PyTorch, Gensim, and NLTK .
+- Word2vec is one of the most popular and influential methods for learning word embeddings in NLP, but it also has some limitations and challenges, such as:
+  - It does not account for the polysemy of words, i.e., words that have multiple meanings depending on the context.
+  - It does not capture the order and structure of sentences, i.e., it treats words as independent units without considering their grammatical roles.
+  - It requires a large amount of data and computational resources to train and store the word embeddings.
+  - It is sensitive to the choice of hyperparameters, such as the dimensionality of the embeddings, the size of the context window, and the number of negative samples.

@@ -1,0 +1,35 @@
+## Unit 1 - Review of Software Engineering
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems.
+- Software engineering involves the following activities:
+  - Software requirements analysis: defining the problem and the desired solution in terms of functional and non-functional requirements.
+  - Software design: creating a high-level structure and architecture of the software system, as well as detailed specifications of its components and interfaces.
+  - Software implementation: writing, testing, and debugging the source code of the software system, following the design specifications and coding standards.
+  - Software verification and validation: ensuring that the software system meets the requirements and specifications, and performs as expected, through various methods such as testing, inspection, review, and analysis.
+  - Software maintenance: modifying and updating the software system to fix errors, improve performance, or add new features, following the principles of software configuration management and change control.
+  - Software project management: planning, organizing, coordinating, monitoring, and controlling the software development process, using various tools and techniques such as estimation, scheduling, risk management, quality assurance, and communication.
+- Software engineering is guided by the following principles:
+  - Abstraction: hiding the unnecessary details and focusing on the essential aspects of a problem or a solution.
+  - Modularity: dividing a complex system into smaller and simpler units, called modules, that can be developed, tested, and maintained independently.
+  - Decomposition: breaking down a problem or a solution into smaller and manageable subproblems or subsolutions, that can be solved or implemented separately.
+  - Encapsulation: bundling the data and the operations that manipulate the data into a single unit, called an object, and hiding the internal details from the outside world.
+  - Hierarchy: organizing the modules or the objects into a layered structure, where each layer provides a higher level of abstraction and functionality than the lower layer.
+  - Coupling: measuring the degree of interdependence or interaction between the modules or the objects in a system.
+  - Cohesion: measuring the degree of relatedness or similarity of the elements within a module or an object.
+  - Reusability: designing and implementing the modules or the objects in a way that they can be used again in different contexts or applications, without or with minimal modification.
+  - Generality: designing and implementing the modules or the objects in a way that they can handle a wide range of inputs, outputs, and situations, without or with minimal modification.
+  - Polymorphism: allowing the modules or the objects to behave differently depending on the context or the input, without changing their interface or structure.
+  - Inheritance: allowing the modules or the objects to inherit the properties and behaviors of other modules or objects, and to extend or override them as needed.
+- Software engineering is influenced by the following factors:
+  - Software quality: the degree to which the software system satisfies the requirements and expectations of the stakeholders, such as the users, the customers, the developers, and the managers.
+  - Software process: the set of activities, methods, tools, and standards that are used to develop and maintain the software system.
+  - Software product: the outcome or the deliverable of the software development process, such as the software system itself, the documentation, the test cases, and the user manuals.
+  - Software lifecycle: the sequence of phases or stages that the software system undergoes from its inception to its retirement, such as the feasibility study, the analysis, the design, the implementation, the testing, the deployment, the operation, and the maintenance.
+  - Software paradigm: the approach or the philosophy that guides the software development process, such as the waterfall model, the iterative model, the agile model, the object-oriented model, the component-based model, or the service-oriented model.
+  - Software model: the representation or the abstraction of the software system or its aspects, such as the requirements model, the design model, the implementation model, the testing model, or the deployment model.
+  - Software metric: the measurement or the quantification of the software system or its aspects, such as the size, the complexity, the reliability, the usability, the maintainability, or the productivity.
+  - Software standard: the rule or the guideline that defines the best practices, the conventions, or the criteria for the software development process or its aspects, such as the coding standard, the documentation standard, the testing standard, or the quality standard.
+  - Software tool: the software application or the software component that supports or automates the software development process or its aspects, such as the editor, the compiler, the debugger, the tester, the analyzer, the configurator, or the manager.
+
+- Mnemonics and learning tricks for Unit 1 - Review of Software Engineering:
+  - To remember the

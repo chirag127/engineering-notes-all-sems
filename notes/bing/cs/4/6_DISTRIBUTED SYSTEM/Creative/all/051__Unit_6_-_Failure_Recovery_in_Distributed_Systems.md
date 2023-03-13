@@ -1,0 +1,21 @@
+## Unit 6 - Failure Recovery in Distributed Systems
+
+- A distributed system is a collection of independent and geographically dispersed nodes that cooperate to achieve a common goal.
+- A failure in a distributed system is an event that prevents a node from functioning correctly or communicating with other nodes.
+- Failure recovery is the process of restoring the normal operation of a distributed system after a failure occurs.
+- Failure recovery is important for ensuring the availability, reliability, consistency, and performance of a distributed system.
+- There are different types of failures that can affect a distributed system, such as:
+  - Crash failures: A node stops working or responding to messages.
+  - Omission failures: A node fails to send or receive a message.
+  - Timing failures: A node violates the timing assumptions of the system.
+  - Byzantine failures: A node behaves arbitrarily or maliciously, sending incorrect or conflicting messages.
+- There are different techniques for failure recovery in distributed systems, such as:
+  - Checkpointing and rollback: A node periodically saves its state to a stable storage and restores it in case of a failure.
+  - Replication: A node maintains multiple copies of its state or data on different nodes and synchronizes them using a consensus protocol.
+  - Fault tolerance: A node tolerates a certain number of failures by using redundancy, error correction, or voting mechanisms.
+  - Fault masking: A node hides the effects of a failure from other nodes or users by providing an alternative service or output.
+  - Fault prevention: A node avoids failures by using preventive measures, such as testing, debugging, or monitoring.
+- Some examples of failure recovery in distributed systems are:
+  - The Google File System (GFS) uses checkpointing and replication to recover from crash failures of its master server or chunk servers.
+  - The Paxos algorithm uses replication and fault tolerance to recover from omission and Byzantine failures of its proposers, acceptors, and learners.
+  - The RAID system uses fault masking and fault prevention to recover from disk failures by using parity blocks and hot spares.

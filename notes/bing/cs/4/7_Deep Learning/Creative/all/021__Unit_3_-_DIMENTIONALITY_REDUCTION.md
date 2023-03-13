@@ -1,0 +1,31 @@
+## Unit 3 - DIMENTIONALITY REDUCTION
+
+- Dimensionality reduction is the process of reducing the number of features (or dimensions) in a dataset while retaining as much information as possible.
+- Dimensionality reduction can be done for a variety of reasons, such as to reduce the complexity of a model, to improve the performance of a learning algorithm, or to make it easier to visualize the data.
+- Dimensionality reduction can be divided into two types: feature selection and feature extraction.
+  - Feature selection is the process of selecting a subset of the original features that are most relevant and informative for the task at hand.
+  - Feature extraction is the process of transforming the original features into a new set of features that capture the essential information in a lower-dimensional space.
+- Some of the common techniques for dimensionality reduction are:
+  - Principal Component Analysis (PCA): PCA is a technique that finds the directions of maximum variance in the data and projects the data onto a lower-dimensional subspace spanned by these directions . PCA can be used for data compression, noise reduction, or visualization.
+  - Singular Value Decomposition (SVD): SVD is a technique that decomposes a matrix into three matrices: U, S, and V, such that U and V are orthogonal matrices and S is a diagonal matrix containing the singular values of the original matrix. SVD can be used for data compression, noise reduction, or latent factor analysis.
+  - Linear Discriminant Analysis (LDA): LDA is a technique that finds the directions that maximize the separation between different classes in the data and projects the data onto a lower-dimensional subspace spanned by these directions. LDA can be used for classification or visualization.
+  - t-distributed Stochastic Neighbor Embedding (t-SNE): t-SNE is a technique that preserves the local distances between data points and embeds them into a lower-dimensional space. t-SNE can be used for visualization or clustering.
+- Some of the advantages of dimensionality reduction are:
+  - It can reduce the computational cost and memory requirement of learning algorithms.
+  - It can reduce the risk of overfitting and improve the generalization performance of learning algorithms.
+  - It can reveal the underlying structure and patterns in the data.
+- Some of the disadvantages of dimensionality reduction are:
+  - It can introduce information loss and distortion in the data.
+  - It can be sensitive to the choice of parameters and techniques.
+  - It can be difficult to interpret the results and relate them to the original features.
+- Some of the applications of dimensionality reduction are:
+  - Image compression and reconstruction.
+  - Face recognition and biometrics.
+  - Text mining and natural language processing.
+  - Recommender systems and collaborative filtering.
+  - Anomaly detection and fraud detection.
+- Some of the mnemonics and learning tricks for dimensionality reduction are:
+  - PCA: Principal Component Analysis -> Project data onto Components with maximum variance and minimum error.
+  - SVD: Singular Value Decomposition -> Split matrix into Singular values and orthogonal matrices.
+  - LDA: Linear Discriminant Analysis -> Look for Directions that Discriminate different classes.
+  - t-SNE: t-distributed Stochastic Neighbor Embedding -> t-distribution preserves local distances, Stochastic means random, Neighbor means nearby, Embedding means mapping.

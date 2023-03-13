@@ -1,0 +1,34 @@
+### Location management: HLR-VLR, hierarchical, handoffs
+
+- Location management is an important and complex issue in mobile computing. It deals with location registration and tracking of mobile terminals (MTs) in a cellular network .
+- Location management consists of two related functions: location update and paging.
+  - Location update is the process of informing the network about the current location of the MT. It is also called handoff or handover when the MT moves from one cell to another .
+  - Paging is the process of finding the MT when there is an incoming call for it. It involves sending a query message to the cells where the MT may be located .
+- Location management aims to minimize the total cost of location update and paging, while maintaining the quality of service and the availability of the MT .
+- Location management methods can be classified into two categories: centralized and distributed.
+  - Centralized methods store the location information of all MTs in a central database, such as the Home Location Register (HLR) in GSM .
+  - Distributed methods store the location information of MTs in local databases, such as the Visitor Location Register (VLR) in GSM .
+- Location management methods can also be classified into two types: mobility-based and data replication-based.
+  - Mobility-based methods use the mobility pattern of the MTs to optimize the location update and paging strategies .
+  - Data replication-based methods replicate the location information of the MTs in multiple databases to reduce the paging cost .
+- Location management methods can also be classified into three levels: macro, micro, and nano.
+  - Macro level methods deal with the location management of MTs across different networks or regions.
+  - Micro level methods deal with the location management of MTs within a network or a region.
+  - Nano level methods deal with the location management of MTs within a cell or a cluster of cells.
+- Location management methods can also be classified into three schemes: static, dynamic, and adaptive.
+  - Static schemes use fixed parameters for location update and paging, such as location area size, update interval, or paging area size.
+  - Dynamic schemes use variable parameters for location update and paging, based on the network traffic, the MT density, or the MT mobility.
+  - Adaptive schemes use learning or feedback mechanisms to adjust the parameters for location update and paging, based on the MT behavior, the network condition, or the user preference.
+- Location management methods can also be classified into three approaches: analytical, simulation, and experimental.
+  - Analytical approaches use mathematical models or formulas to analyze the performance of location management methods.
+  - Simulation approaches use software tools or platforms to simulate the behavior of location management methods.
+  - Experimental approaches use real devices or systems to test the performance of location management methods.
+- Location management methods can also be classified into three categories: conventional, intelligent, and hybrid.
+  - Conventional methods use simple or traditional techniques for location update and paging, such as periodic update, distance-based update, movement-based update, or blanket paging.
+  - Intelligent methods use advanced or novel techniques for location update and paging, such as artificial neural networks, fuzzy logic, genetic algorithms, swarm intelligence, or machine learning .
+  - Hybrid methods use a combination of conventional and intelligent techniques for location update and paging, such as fuzzy neural networks, genetic fuzzy systems, or neural genetic algorithms .
+- Location management methods can also be classified into three groups: individual, cooperative, and collaborative.
+  - Individual methods use the information of a single MT for location update and paging, such as the MT location, the MT velocity, or the MT direction.
+  - Cooperative methods use the information of multiple MTs for location update and paging, such as the MT group, the MT cluster, or the MT neighborhood.
+  - Collaborative methods use the information of both the MTs and the network for location update and paging, such as the MT profile, the network topology, or the network load.
+- Location management methods

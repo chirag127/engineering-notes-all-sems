@@ -1,0 +1,21 @@
+### Gathering Image Captions for the notes of the Unit 5 - CASE STUDY AND APPLICATIONS in the subject of Deep Learning
+
+- Image captioning is a fascinating application of deep learning that has made tremendous progress in recent years. It brings together both computer vision and natural language processing.
+- Image captioning takes an image as input and produces a short textual summary describing the content of the photo.
+- Image captioning can be useful for various purposes, such as accessibility, search, summarization, and education.
+- Image captioning can be seen as a sequence-to-sequence problem, where the input is an image and the output is a sequence of words.
+- Most image captioning systems use an encoder-decoder framework, where an input image is encoded into an intermediate representation of the information in the image, and then decoded into a natural language sentence.
+- The encoder is usually a convolutional neural network (CNN) that extracts high-level features from the image. The decoder is usually a recurrent neural network (RNN) or a transformer that generates words one by one, conditioned on the previous words and the image features.
+- Some of the challenges of image captioning are:
+  - Handling the diversity and complexity of the visual and linguistic domains.
+  - Generating captions that are relevant, accurate, fluent, and informative.
+  - Evaluating the quality and performance of the generated captions.
+- Some of the datasets that are commonly used for image captioning are:
+  - Common Objects in Context (COCO), which contains over 300,000 images and 1.5 million captions.
+  - Flickr8k and Flickr30k, which contain 8,000 and 30,000 images respectively, each with five captions.
+  - Microsoft Common Sense (MSCOCO), which contains 10,000 images and 5 captions each, with an emphasis on common sense reasoning.
+- Some of the state-of-the-art architectures for image captioning are:
+  - Inject, which directly connects the image feature encoder to the sequence decoder, followed by the sentence generator.
+  - Merge, which combines the image features and the word embeddings at each time step of the decoder.
+  - Attend, which uses an attention mechanism to dynamically focus on different regions of the image while generating words.
+  - Transformer, which uses a self-attention mechanism to encode and decode the image and the text in parallel.

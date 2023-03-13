@@ -1,0 +1,30 @@
+### Voting protocols for the notes of the Unit 7 - Fault Tolerance in the subject of DISTRIBUTED SYSTEM
+
+- Voting protocols are a technique to achieve **fault tolerance** in distributed systems by allowing nodes to **agree** on a common value or decision.
+- Voting protocols are based on the concept of **quorum**, which is a subset of nodes that is **sufficient** to reach a consensus.
+- Voting protocols can be classified into two types: **static** and **dynamic**.
+  - Static voting protocols assign a fixed number of **votes** to each node and require a **majority** of votes to perform a restricted operation, such as accessing a shared resource or committing a transaction .
+  - Dynamic voting protocols allow nodes to **reassign** their votes to other nodes based on the current system state, such as node or link failures, to achieve a higher degree of **availability** and **adaptability**.
+- Voting protocols can also be classified into two types based on the **communication** pattern: **centralized** and **decentralized**.
+  - Centralized voting protocols rely on a **coordinator** node to collect the votes from other nodes and announce the result.
+  - Decentralized voting protocols allow nodes to **exchange** their votes with each other and reach a consensus without a coordinator.
+- Voting protocols can be used for various purposes in distributed systems, such as:
+  - **Mutual exclusion**: ensuring that only one node can access a shared resource at a time .
+  - **Commit protocols**: ensuring that a distributed transaction has the same fate (commit or abort) at every site.
+  - **Consensus algorithms**: ensuring that a set of nodes agree on a common value or state, such as the order of transactions in a distributed ledger.
+- Some advantages of voting protocols are:
+  - They can **tolerate** node or link failures up to a certain threshold, depending on the quorum size and the voting scheme .
+  - They can **reduce** the communication costs by arranging nodes in small intersecting groups, such that a node needs to communicate only with members of its group to collect the quorum.
+  - They can **increase** the dependability and performance of distributed systems by dynamically reassigning votes based on the system state.
+- Some disadvantages of voting protocols are:
+  - They can **increase** the complexity and overhead of distributed systems, especially when the number of nodes or the system state changes frequently .
+  - They can **suffer** from conflicts or deadlocks when multiple nodes request the same resource or operation at the same time .
+  - They can **fail** to reach a consensus when the system is **partitioned** into disjoint subsets of nodes that cannot communicate with each other .
+- Some examples of voting protocols are:
+  - **Majority voting**: a static voting protocol that requires more than half of the total votes to perform a restricted operation .
+  - **Weighted voting**: a static voting protocol that assigns different weights to different nodes based on their importance or reliability, and requires a weighted majority of votes to perform a restricted operation .
+  - **Read-one write-all (ROWA)**: a static voting protocol that assigns one vote to each node and requires all nodes to agree on a write operation, but allows any node to perform a read operation .
+  - **Read-one write-one (ROWO)**: a static voting protocol that assigns one vote to each node and requires only one node to agree on a write operation, but allows any node to perform a read operation .
+  - **Read-quorum write-quorum (RQWQ)**: a static voting protocol that assigns one vote to each node and requires a quorum of nodes to agree on a read or write operation .
+  - **Read-write quorum (RWQ)**: a static voting protocol that assigns one vote to each node and requires a quorum of nodes to agree on a write operation, but allows any node to perform a read operation .
+  - **Available copies (AC)**:

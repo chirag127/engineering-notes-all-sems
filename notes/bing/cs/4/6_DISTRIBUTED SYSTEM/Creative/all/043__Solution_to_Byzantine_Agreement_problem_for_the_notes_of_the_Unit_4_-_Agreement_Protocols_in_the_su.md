@@ -1,0 +1,21 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The Byzantine Agreement problem is a fundamental challenge in distributed computing, where a set of processors (or nodes) need to agree on a common value or action, despite the possibility of some processors being faulty or malicious  .
+- The problem is named after a hypothetical scenario where a group of Byzantine generals need to coordinate an attack or retreat, but some of them may be traitors who send conflicting messages to confuse the others .
+- The solution to the Byzantine Agreement problem requires a secure and reliable way of achieving consensus (agreement on a value) and coordination (execution of a plan) among the processors, even in the presence of faults or attacks .
+- There are different types of solutions to the Byzantine Agreement problem, depending on the assumptions and the model of communication. Some of the common types are:
+  - **Oral messages**: This is the simplest model, where the processors communicate by sending and receiving messages, and there is no authentication or encryption. The messages may be lost, delayed, or altered by faulty processors .
+  - **Signed messages**: This is a more secure model, where the processors use digital signatures to authenticate the messages they send and receive. The signatures prevent faulty processors from forging or modifying messages, but they may still send conflicting messages to different processors .
+  - **Broadcast channels**: This is a model where the processors use a special communication channel that allows them to broadcast a message to all other processors simultaneously. The broadcast channel guarantees that all processors receive the same message, or none at all .
+  - **Quantum messages**: This is a model where the processors use quantum mechanics to send and receive messages, such as qubits or entangled states. The quantum messages have the property of being uncloneable and detectable, which means that faulty processors cannot copy or tamper with them without being noticed .
+
+- Depending on the type of solution, there are different requirements and limitations for achieving Byzantine Agreement. Some of the common ones are:
+  - **Number of processors**: The solution may depend on the total number of processors in the system, denoted by n. For example, some solutions require that n is odd, or that n is a power of 2 .
+  - **Number of faulty processors**: The solution may depend on the maximum number of processors that can be faulty or malicious, denoted by f. For example, some solutions require that f < n/3, or that f < n/4 .
+  - **Synchrony**: The solution may depend on the degree of synchrony in the system, which means how much the processors agree on the order and timing of events. For example, some solutions require that the system is synchronous, meaning that there are known bounds on the message delays and the processor speeds. Other solutions work in asynchronous systems, where there are no such bounds .
+  - **Termination**: The solution may depend on the guarantee of termination, which means that all processors eventually decide on a value. For example, some solutions guarantee that termination always happens, regardless of the faults or delays. Other solutions guarantee that termination happens with high probability, or under certain conditions .
+  - **Validity**: The solution may depend on the guarantee of validity, which means that the decided value is consistent with the initial values of the processors. For example, some solutions guarantee that the decided value is equal to the initial value of some non-faulty processor. Other solutions guarantee that the decided value is within a certain range or set of values .
+  - **Agreement**: The solution may depend on the guarantee of agreement, which means that all non-faulty processors decide on the same value. For example, some solutions guarantee that agreement always happens, regardless of the faults or delays. Other solutions guarantee that agreement happens with high probability, or under certain conditions .
+
+- Some of the common algorithms or protocols for solving the Byzantine Agreement problem are:
+  - **Lamport's algorithm**: This is a classic algorithm for oral messages, proposed by Leslie Lamport in 1982.

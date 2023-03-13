@@ -1,0 +1,21 @@
+### Failure for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- A failure in software engineering is the inability of a software system or component to perform its required functions within specified performance requirements.
+- A failure occurs when the software fails to perform in the real environment. In other words, after the creation and execution of software code, if the system does not perform as expected, due to the occurrence of any defect; then it is termed as failure.
+- A failure can be caused by a fault, which is an error or defect in a program that causes it to produce incorrect or unexpected results. Faults can occur at various stages of the software development process, from the initial design to the final deployment. Common types of faults include coding errors, design flaws, and requirements errors.
+- A failure can also be caused by external factors, such as hardware malfunction, network failure, power outage, user error, malicious attack, or environmental conditions.
+- A failure can have different consequences, depending on the severity, frequency, and impact of the failure. Some failures can be easily detected and corrected, while others can cause serious damage, loss, or harm to the system, its users, or its environment.
+- A failure can be classified into different types, such as:
+  - **Transient failures**: These are failures that occur only once or occasionally, and disappear after some time or after restarting the system. They are usually caused by temporary faults, such as memory corruption, network congestion, or environmental interference.
+  - **Permanent failures**: These are failures that persist until the fault is removed or repaired. They are usually caused by permanent faults, such as hardware defects, design errors, or software bugs.
+  - **Recoverable failures**: These are failures that can be handled by the system itself or by the user, without affecting the normal functioning of the system. They are usually caused by faults that can be detected and corrected by the system, such as input validation, exception handling, or backup mechanisms.
+  - **Unrecoverable failures**: These are failures that cannot be handled by the system or by the user, and require external intervention or replacement of the system. They are usually caused by faults that cannot be detected or corrected by the system, such as hardware failure, security breach, or catastrophic event.
+- A failure can be prevented or reduced by applying various software engineering principles and practices, such as:
+  - **Requirements engineering**: This is the process of eliciting, analyzing, specifying, validating, and managing the requirements of a software system. It helps to ensure that the system meets the needs and expectations of the stakeholders, and avoids requirements errors that can lead to failures.
+  - **Design engineering**: This is the process of defining the architecture, components, interfaces, and behavior of a software system. It helps to ensure that the system is feasible, consistent, modular, and maintainable, and avoids design flaws that can lead to failures.
+  - **Coding engineering**: This is the process of implementing the design of a software system using a programming language and tools. It helps to ensure that the system is correct, efficient, reliable, and secure, and avoids coding errors that can lead to failures.
+  - **Testing engineering**: This is the process of verifying and validating the quality and functionality of a software system using various methods and techniques. It helps to ensure that the system meets the requirements and specifications, and detects and removes faults that can lead to failures.
+  - **Maintenance engineering**: This is the process of modifying and improving a software system after its deployment, to cope with changing requirements, user feedback, or environmental conditions. It helps to ensure that the system remains operational, usable, and adaptable, and prevents or fixes failures that can occur over time.
+
+- A mnemonic to remember the types of failures is **TPRU**: Transient, Permanent, Recoverable, Unrecoverable.
+- A mnemonic to remember the software engineering principles and practices is **RDCMT**: Requirements, Design, Coding, Testing, Maintenance.

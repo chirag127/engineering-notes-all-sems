@@ -1,0 +1,25 @@
+### Architectural models for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Architectural models describe the organization of components across the network and their interrelationship.
+- Architectural models can be classified into two main categories: client-server models and peer-to-peer models.
+- Client-server models are based on the idea of having one or more processes, called servers, that offer services to the users, called clients.
+- Peer-to-peer models are based on the idea of having all the processes in the system act as both clients and servers, sharing resources and responsibilities.
+- Many distributed systems use a hybrid architecture that combines elements of both models, such as data distribution and replication.
+- Some common architectural styles in distributed systems are:
+  - Layered architecture: different components are organized in layers, each layer communicates with its adjacent layer by providing and requesting services.
+  - Object-oriented architecture: components are encapsulated as objects that communicate by invoking methods on each other.
+  - Data-centered architecture: components share a common data repository that they can access and update.
+  - Event-based architecture: components communicate by generating and consuming events that are propagated through an event service.
+- Some advantages of using architectural models are:
+  - They provide a high-level view of the system structure and behavior.
+  - They facilitate the design, development, and maintenance of the system.
+  - They enable the reuse of components and patterns across different systems.
+  - They support the scalability, reliability, and performance of the system.
+- Some disadvantages of using architectural models are:
+  - They may not capture all the details and complexities of the system.
+  - They may introduce some overhead and latency in the communication and coordination of components.
+  - They may impose some constraints and trade-offs on the system functionality and quality.
+- Some examples of distributed systems that use architectural models are:
+  - Web applications: they use a layered architecture with a presentation layer, a business logic layer, and a data access layer.
+  - Distributed databases: they use a data-centered architecture with a shared database that can be accessed and updated by multiple clients.
+  - Publish-subscribe systems: they use an event-based architecture with a event service that delivers events from publishers to subscribers.

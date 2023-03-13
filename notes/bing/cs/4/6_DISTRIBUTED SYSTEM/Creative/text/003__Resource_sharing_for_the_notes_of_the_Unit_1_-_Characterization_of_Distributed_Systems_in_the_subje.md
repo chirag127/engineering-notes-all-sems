@@ -1,0 +1,14 @@
+### Resource sharing for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Resource sharing is one of the main motivations and benefits of distributed systems.
+- A resource is any hardware, software, or data entity that can be accessed by the users or processes of a distributed system.
+- Examples of resources are files, printers, web pages, databases, sensors, etc.
+- Resource sharing can be achieved by different methods, such as:
+  - Remote access: The resource is accessed by sending requests and receiving responses over a network. The location and implementation of the resource are transparent to the user or process. For example, accessing a web page using HTTP protocol.
+  - Replication: The resource is copied or replicated on multiple nodes of the distributed system. The copies can be synchronized or updated periodically or on demand. Replication can improve availability, performance, and fault tolerance of the resource. For example, replicating a file on multiple servers using a distributed file system.
+  - Migration: The resource is moved or migrated from one node to another node of the distributed system. Migration can be done for various reasons, such as load balancing, proximity, security, etc. Migration can be transparent or non-transparent to the user or process. For example, migrating a virtual machine from one host to another using a hypervisor.
+  - Distribution: The resource is partitioned or distributed into multiple parts or fragments, each of which is stored or managed by a different node of the distributed system. Distribution can improve scalability, performance, and fault tolerance of the resource. For example, distributing a database into multiple shards using a distributed database system.
+- Resource sharing can also be classified into different types, such as:
+  - Sharing of information: The resource is an information entity, such as a file, a web page, a database, etc. The users or processes can access, read, write, or update the information. For example, sharing a document using a cloud storage service.
+  - Sharing of services: The resource is a service entity, such as a printer, a web server, a sensor, etc. The users or processes can request, invoke, or use the service. For example, sharing a printer using a print server.
+  - Sharing of computation: The resource is a computation entity, such as a CPU, a GPU, a cluster, etc. The users or processes can execute, run, or offload their computation tasks on the resource. For example, sharing a cluster using a distributed computing framework.

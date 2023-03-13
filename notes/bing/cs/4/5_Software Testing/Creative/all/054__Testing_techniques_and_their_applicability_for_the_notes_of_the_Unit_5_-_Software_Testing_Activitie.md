@@ -1,0 +1,18 @@
+### Testing techniques and their applicability for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+- Software testing techniques are methods used to design and execute tests to evaluate software applications.
+- Software testing techniques can be classified into two main categories: functional testing and non-functional testing .
+- Functional testing techniques test the functional requirements of the software to ensure it behaves and looks as expected . Some examples of functional testing techniques are:
+  - Unit testing: Tests individual methods and functions of the classes, components, or modules used by the software. Unit testing can be automated using tools like JUnit, TestNG, etc. and can run very quickly by a continuous integration server.
+  - Integration testing: Tests the interactions and interfaces between different units or components of the software. Integration testing can be automated using tools like Selenium, Postman, etc. and can detect errors in the integration logic or data flow.
+  - System testing: Tests the whole software system as a single entity to verify that it meets the specified requirements. System testing can be automated using tools like Cucumber, Robot Framework, etc. and can check the end-to-end functionality and performance of the software.
+  - Acceptance testing: Tests the software from the user's perspective to ensure that it meets the user's expectations and needs. Acceptance testing can be manual or automated using tools like UFT, TestComplete, etc. and can validate the usability and user satisfaction of the software.
+- Non-functional testing techniques test the non-functional aspects of the software such as performance, security, reliability, etc . Some examples of non-functional testing techniques are:
+  - Performance testing: Tests the speed, scalability, and stability of the software under different load conditions. Performance testing can be automated using tools like JMeter, LoadRunner, etc. and can measure the response time, throughput, resource utilization, etc. of the software.
+  - Security testing: Tests the ability of the software to protect itself from unauthorized access, data breaches, malicious attacks, etc. Security testing can be automated using tools like Nmap, Burp Suite, etc. and can identify the vulnerabilities, risks, and threats in the software.
+  - Reliability testing: Tests the reliability of the software to function correctly and consistently over a period of time. Reliability testing can be automated using tools like ReliaSoft, RStudio, etc. and can evaluate the failure rate, mean time to failure, mean time between failures, etc. of the software.
+  - Usability testing: Tests the ease of use and learnability of the software for the intended users. Usability testing can be manual or automated using tools like Morae, UserTesting, etc. and can assess the user interface, navigation, feedback, etc. of the software.
+- The applicability of testing techniques depends on various factors such as the type, size, complexity, and scope of the software, the testing objectives, the available resources, the project constraints, the quality standards, etc .
+- The selection of testing techniques should be based on a cost-benefit analysis, a risk assessment, and a test strategy .
+- The testing techniques should be applied in a systematic and structured way, following the testing process and the testing levels  .
+- The testing techniques should be documented, reviewed, and updated regularly, to ensure their effectiveness and efficiency .

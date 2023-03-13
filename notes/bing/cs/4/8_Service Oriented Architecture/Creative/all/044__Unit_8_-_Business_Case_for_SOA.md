@@ -1,0 +1,28 @@
+## Unit 8 - Business Case for SOA
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for software development that focuses on creating reusable, loosely coupled, and interoperable services that can be composed to meet various business needs.
+- A service is a self-contained unit of functionality that provides a specific business capability or value. Services can be accessed through standard protocols and interfaces, such as SOAP, REST, or JSON.
+- A business case for SOA is a document that outlines the benefits, costs, risks, and assumptions of adopting SOA in a specific project or organization. It should align with the strategic goals and vision of the business, and demonstrate how SOA can deliver value and competitive advantage.
+- Some of the common benefits of SOA are :
+  - Agility: SOA enables faster and easier development, integration, and modification of services, as well as improved responsiveness to changing business requirements and market conditions.
+  - Reusability: SOA reduces duplication and redundancy of code and functionality, and promotes sharing and reuse of services across different applications and domains.
+  - Interoperability: SOA facilitates communication and collaboration among heterogeneous systems, platforms, and technologies, and supports standards-based integration and interoperability.
+  - Quality: SOA improves the quality and reliability of software, as well as the maintainability and testability of services, by enforcing modularity, encapsulation, and abstraction.
+  - Governance: SOA enables better management and control of the service lifecycle, as well as the alignment of IT and business processes, policies, and objectives.
+- Some of the common costs and risks of SOA are :
+  - Complexity: SOA introduces additional layers of abstraction, orchestration, and coordination, which can increase the complexity and overhead of the system architecture and design.
+  - Security: SOA exposes services to external consumers and networks, which can increase the vulnerability and risk of unauthorized access, data breaches, and cyberattacks.
+  - Performance: SOA relies on network communication and distributed processing, which can affect the performance and scalability of the system, as well as the availability and reliability of the services.
+  - Culture: SOA requires a shift in the mindset and culture of the organization, from a siloed and monolithic approach to a collaborative and service-oriented one, which can entail significant organizational and behavioral changes.
+- A business case for SOA should follow a structured and logical framework, such as the one proposed by Gartner, which consists of the following steps:
+  - Define the scope and objectives of the SOA initiative, and identify the key stakeholders and decision makers involved.
+  - Analyze the current state and the desired state of the business and IT environment, and identify the gaps and opportunities for improvement.
+  - Evaluate the alternative solutions and approaches for addressing the gaps and opportunities, and compare their feasibility, suitability, and viability.
+  - Select the preferred solution and approach, and justify its alignment with the business goals and vision, as well as its expected benefits and value proposition.
+  - Estimate the costs and risks of implementing the preferred solution and approach, and assess its return on investment and impact on the business performance and outcomes.
+  - Present the business case for SOA to the stakeholders and decision makers, and solicit their feedback and approval.
+- Some of the common applications of SOA include:
+  - SOA is used by numerous armies and air force to deploy situational awareness systems, which provide real-time information and intelligence to the soldiers and commanders on the battlefield.
+  - Healthcare organizations use SOA to improve healthcare delivery, by integrating and coordinating various clinical and administrative systems and processes, such as electronic health records, billing, scheduling, and patient care.
+  - SOA allows mobile apps and games to use the mobile device's built-in functions, such as GPS, camera, and accelerometer, by exposing them as services that can be accessed and consumed by the apps and games.
+  - Museums use SOA to create virtualized storage systems for their information and content, which can be accessed and shared by different applications and devices, such as web portals, kiosks, and mobile phones.

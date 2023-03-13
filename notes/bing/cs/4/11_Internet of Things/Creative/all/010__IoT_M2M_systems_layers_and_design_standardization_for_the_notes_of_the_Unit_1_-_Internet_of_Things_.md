@@ -1,0 +1,22 @@
+### IoT/M2M systems layers and design standardization for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+
+- IoT/M2M systems are composed of devices, networks, platforms, and applications that enable communication and data exchange between machines and things without human intervention.
+- IoT/M2M systems layers are the abstract divisions of the functions and protocols that enable IoT/M2M communication and interoperability.
+- IoT/M2M systems design standardization is the process of developing and adopting common specifications and guidelines for IoT/M2M systems to ensure compatibility, security, and scalability across different domains and technologies.
+- One of the most prominent IoT/M2M systems design standardization initiatives is oneM2M, which was launched in 2012 by ETSI and 13 other founding members as a global partnership project to promote efficient M2M communication systems and IoT .
+- The oneM2M architecture divides IoT functions into three major domains: the application layer, the services layer, and the network layer  .
+
+  - Application layer: The oneM2M architecture gives major attention to connectivity between devices and their applications. The application layer defines the interfaces and protocols for application development, discovery, registration, and management. The application layer also supports semantic interoperability, data analytics, and security mechanisms.
+  - Services layer: The oneM2M architecture provides a common services layer that abstracts the underlying network and device heterogeneity and offers a set of common services and functions for IoT/M2M applications. The services layer includes services such as data management, device management, security management, subscription and notification, group management, and location services.
+  - Network layer: The oneM2M architecture relies on the existing network layer technologies and protocols to provide connectivity and transport for IoT/M2M data. The network layer can support various technologies such as cellular, Wi-Fi, Bluetooth, ZigBee, LoRa, etc. The network layer also enables interworking and federation between different IoT/M2M domains and platforms.
+
+- The oneM2M architecture is based on a modular and scalable design that can accommodate different deployment scenarios and use cases. The oneM2M architecture defines four main functional entities: Application Entity (AE), Common Services Entity (CSE), Network Services Entity (NSE), and Interworking Proxy Entity (IPE).
+
+  - Application Entity (AE): An AE is a logical entity that represents an IoT/M2M application or a device that hosts an application. An AE can communicate with other AEs or CSEs through the oneM2M service layer interfaces.
+  - Common Services Entity (CSE): A CSE is a logical entity that provides the common services and functions of the oneM2M service layer. A CSE can be hosted by different types of nodes, such as gateways, servers, or devices. A CSE can communicate with other CSEs, AEs, or NSEs through the oneM2M service layer interfaces.
+  - Network Services Entity (NSE): An NSE is a logical entity that provides the network layer connectivity and transport for IoT/M2M data. An NSE can be hosted by different types of nodes, such as routers, switches, or base stations. An NSE can communicate with other NSEs or CSEs through the network layer interfaces.
+  - Interworking Proxy Entity (IPE): An IPE is a logical entity that enables interworking and federation between different IoT/M2M domains and platforms that use different protocols and standards. An IPE can be hosted by different types of nodes, such as gateways, servers, or devices. An IPE can communicate with other IPEs, CSEs, or NSEs through the oneM2M service layer interfaces or the network layer interfaces.
+
+- The oneM2M architecture supports a hierarchical and distributed structure that can span across different administrative domains and geographical regions. The oneM2M architecture defines three main types of nodes: Infrastructure Node (IN), Middle Node (MN), and Application Service Node (ASN).
+
+  - Infrastructure Node (IN): An IN is a node that hosts a CSE and/or an NSE and provides the core services and functions of the oneM2M service layer and the network layer. An IN can be located at the network operator's domain or the service provider's domain. An IN

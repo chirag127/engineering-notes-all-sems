@@ -1,0 +1,35 @@
+## Unit 7 - Testing Web Applications
+
+- Web applications are software systems that run on web browsers and servers, and provide various functionalities and services to users over the internet.
+- Testing web applications is the process of verifying and validating the quality, functionality, usability, security, performance, and compatibility of web applications.
+- Testing web applications involves different types of testing techniques, such as:
+  - Functional testing: Testing the features and functions of the web application according to the requirements and specifications.
+  - Usability testing: Testing the user interface, navigation, content, and accessibility of the web application from the perspective of the end users.
+  - Security testing: Testing the ability of the web application to protect the data and transactions from unauthorized access, modification, or disclosure.
+  - Performance testing: Testing the speed, scalability, reliability, and resource consumption of the web application under various load and stress conditions.
+  - Compatibility testing: Testing the compatibility of the web application with different browsers, operating systems, devices, and network environments.
+- Testing web applications requires different tools, techniques, and strategies, such as:
+  - Automation testing: Using software tools to execute test cases and compare the actual and expected results without human intervention.
+  - Manual testing: Performing test cases and checking the results manually by human testers.
+  - Black-box testing: Testing the web application without knowing its internal structure or code.
+  - White-box testing: Testing the web application by knowing its internal structure or code.
+  - Gray-box testing: Testing the web application by having partial knowledge of its internal structure or code.
+  - Unit testing: Testing the individual components or units of the web application in isolation.
+  - Integration testing: Testing the interaction and communication between the components or units of the web application.
+  - System testing: Testing the web application as a whole system in a simulated or real environment.
+  - Regression testing: Testing the web application after making changes or modifications to ensure that the existing functionality is not affected.
+  - Acceptance testing: Testing the web application by the end users or clients to ensure that it meets their expectations and requirements.
+- Testing web applications faces different challenges and issues, such as:
+  - Complexity: Web applications are complex systems that involve multiple technologies, languages, frameworks, protocols, and standards.
+  - Dynamism: Web applications are dynamic and frequently change in response to user inputs, data updates, or business requirements.
+  - Diversity: Web applications have to support different browsers, operating systems, devices, and network environments, which may have different features, behaviors, and specifications.
+  - Scalability: Web applications have to handle a large number of concurrent users and requests, which may affect their performance and reliability.
+  - Security: Web applications have to deal with various security threats and risks, such as hacking, phishing, injection, cross-site scripting, denial-of-service, etc.
+  - Testability: Web applications have to be testable and provide sufficient information and feedback to the testers, such as error messages, logs, reports, etc.
+
+- Some mnemonics and learning tricks for testing web applications are:
+  - FUSP-C: A mnemonic to remember the types of testing web applications, which are Functional, Usability, Security, Performance, and Compatibility testing.
+  - AMBIG: A mnemonic to remember the tools, techniques, and strategies for testing web applications, which are Automation, Manual, Black-box, Integration, and Gray-box testing.
+  - WUSIR: A mnemonic to remember the levels of testing web applications, which are White-box, Unit, System, Integration, and Regression testing.
+  - CDDS: A mnemonic to remember the challenges and issues of testing web applications, which are Complexity, Dynamism, Diversity, and Scalability testing.
+  - STEST: A mnemonic to remember the testability of web applications, which are Security, Testability, Error messages, Statistics, and Traceability.

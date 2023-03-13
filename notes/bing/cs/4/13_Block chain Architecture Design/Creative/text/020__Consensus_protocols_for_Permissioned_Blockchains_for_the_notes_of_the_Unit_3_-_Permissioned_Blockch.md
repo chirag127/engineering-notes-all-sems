@@ -1,0 +1,13 @@
+### Consensus protocols for Permissioned Blockchains
+
+- A consensus protocol enables all the parties of the blockchain network to come to a common agreement (consensus) on the present data state of the ledger .
+- This promotes trust among unknown peers in a distributed computing environment.
+- In a permissioned blockchain, all the participating nodes are known and chosen .
+- However, consensus is still required because we can’t assume that every node is trustworthy .
+- A consensus protocol for permissioned blockchain depends on factors like the extent of decentralization required, the level of trust among the participants, the number of permissions that must be granted to all the participants to carry out important tasks on the network, etc .
+- Some of the common consensus protocols for permissioned blockchains are:
+
+  - **Delegated Proof of Stake (DPoS)**: This protocol allows the network participants to vote for a set of delegates, who are responsible for validating transactions and producing blocks. The delegates are rewarded for their service and can be replaced by the voters if they misbehave. This protocol aims to achieve high scalability and performance, while reducing the power consumption and centralization risks of Proof of Work (PoW).
+  - **Delegated Byzantine Fault Tolerance (dBFT)**: This protocol is based on the Byzantine Generals Problem, which deals with the challenge of reaching consensus in a network where some nodes may be faulty or malicious. The protocol assigns a leader node to propose a block, and a group of validator nodes to approve it. If the leader node is dishonest, the validators can vote to change it. This protocol claims to achieve high finality and low latency, while tolerating up to one-third of dishonest nodes.
+  - **Proof of Elapsed Time (PoET)**: This protocol is designed for permissioned blockchains that use trusted execution environments (TEEs), such as Intel SGX, to ensure the security and integrity of the network. The protocol randomly assigns a waiting time to each node, and the node with the shortest waiting time gets to propose the next block. This protocol aims to achieve a fair and energy-efficient consensus, while preventing Sybil attacks and resource monopolization.
+  - **Transaction as Proof of Stake (TaPoS)**: This protocol prevents malicious activities, such as taking a transaction from one blockchain and fraudulently repeating it on another. This is known as “transaction replay”. Every transaction in the system must include the hash of the most recent block header. This protocol ensures that the transactions are valid and unique, while also providing a lightweight proof of stake mechanism.

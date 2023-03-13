@@ -1,0 +1,20 @@
+### Communicating data with H/W units for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- IoT devices are smart devices that can communicate with each other, exchange data, and perform some tasks without any human involvement.
+- IoT devices are embedded with electronics, software, network and sensors that help in communication .
+- The communication of IoT devices can be unidirectional (send data) or bidirectional (send and receive data).
+- The communication of IoT devices can be classified into three types:
+  - Human to Machine (H2M): In this type, a human gives input to an IoT device, such as speech, text, image, etc. The IoT device (machine) then understands the input, analyzes it, and responds back to the human by means of text or visual display. For example, a smart speaker that can recognize voice commands and play music or answer questions.
+  - Machine to Human (M2H): In this type, an IoT device (machine) sends data or information to a human, such as alerts, notifications, reports, etc. The human then receives the data and acts accordingly. For example, a smart watch that can monitor heart rate and blood pressure and send health updates to the user.
+  - Machine to Machine (M2M): In this type, two or more IoT devices (machines) communicate with each other, exchange data, and coordinate actions without any human intervention. For example, a smart thermostat that can adjust the temperature based on the data from a smart sensor.
+- The communication of IoT devices can be local or remote. If it is a local communication, then the data can be transferred directly between the IoT devices using a wired or wireless connection . If it is a remote communication, then the data has to be transferred via a gateway. A gateway is a device that connects the IoT devices to the internet or a cloud platform .
+- The network protocol used for the communication of IoT devices can vary depending on the requirements, such as speed, bandwidth, security, power consumption, etc . Some of the common network protocols used for IoT communication are :
+  - Wi-Fi: A wireless protocol that provides high-speed and reliable data transfer over a local area network (LAN) . Wi-Fi is suitable for IoT devices that need to send large amounts of data or stream video or audio . However, Wi-Fi consumes more power and may not be ideal for battery-operated IoT devices .
+  - Bluetooth: A wireless protocol that provides short-range and low-power data transfer between devices . Bluetooth is suitable for IoT devices that need to communicate with nearby devices or smartphones . However, Bluetooth has a limited range and may not be able to support many devices at the same time .
+  - Satellite: A wireless protocol that provides long-range and global data transfer using satellites . Satellite is suitable for IoT devices that need to communicate with remote locations or areas that have no other network coverage . However, satellite is expensive and may have latency and interference issues .
+  - Ethernet: A wired protocol that provides fast and reliable data transfer over a network using cables . Ethernet is suitable for IoT devices that need to connect directly to the internet or a cloud platform . However, Ethernet requires physical wiring and may not be flexible or scalable for IoT devices .
+- The data collected and communicated by IoT devices can be processed and analyzed by a server or a cloud platform . The server or the cloud platform can provide various services and applications for the IoT devices, such as data storage, data visualization, data analytics, data security, etc . The server or the cloud platform can also send commands or feedback to the IoT devices based on the data analysis .
+
+#### Mnemonics and learning tricks
+
+- To remember the three types of

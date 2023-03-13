@@ -1,0 +1,21 @@
+### Hidden Markov Models for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+
+- Hidden Markov Models (HMMs) are a statistical framework for modeling sequential data, such as speech signals.
+- HMMs can capture the probabilistic dependencies between the observed features and the underlying states of a system, and allow for efficient inference and learning algorithms.
+- HMMs consist of two components: a Markov chain that produces a sequence of states, and a set of output probabilities that generate a sequence of observations.
+- HMMs can be represented by a 5-tuple: (S, V, A, B, π), where:
+  - S is the set of states, such as phonemes or words.
+  - V is the set of observations, such as acoustic features or symbols.
+  - A is the state transition matrix, where a<sub>ij</sub> is the probability of transitioning from state i to state j.
+  - B is the observation probability matrix, where b<sub>i</sub>(o) is the probability of observing o in state i.
+  - π is the initial state distribution, where π<sub>i</sub> is the probability of starting in state i.
+- HMMs can be used for speech recognition by modeling some unit of speech, such as a phone or a word, and computing the most likely sequence of states given a speech signal.
+- HMMs can also be used for part-of-speech tagging, which is the task of assigning a grammatical category to each word in a text, based on its definition and context.
+- Some advantages of using HMMs for speech modeling are:
+  - They can handle variable-length sequences and cope with noise and variability in speech signals.
+  - They can be trained using supervised or unsupervised methods, such as the Expectation-Maximization (EM) algorithm.
+  - They can be combined with other models, such as language models or neural networks, to improve the performance and accuracy of speech recognition systems.
+- Some disadvantages of using HMMs for speech modeling are:
+  - They make some unrealistic assumptions, such as the independence of observations and the stationarity of state transitions, which may not hold in real speech data.
+  - They require a large amount of training data and computational resources to estimate the model parameters and perform inference.
+  - They may not capture the complex and nonlinear relationships between speech features and states, which may require more sophisticated models, such as deep neural networks or recurrent neural networks.

@@ -1,0 +1,21 @@
+### Termination Detection
+
+- Termination detection is a fundamental problem in distributed systems, where a set of processes cooperate to perform a computation.
+- The goal of termination detection is to determine if a distributed computation has terminated, i.e., if all the processes are idle and there are no messages in transit.
+- Termination detection is non-trivial because no process has complete knowledge of the global state, and global time does not exist.
+- Termination detection algorithms must ensure the following properties:
+  - They must not interfere with the underlying computation or delay it indefinitely.
+  - They must not require additional communication channels between processes.
+  - They must be correct, i.e., they must report termination only when it has actually occurred, and they must eventually report termination if it occurs.
+- There are different types of termination detection algorithms, depending on the assumptions and characteristics of the distributed system, such as:
+  - The communication model (synchronous or asynchronous, reliable or unreliable, FIFO or non-FIFO, etc.)
+  - The topology of the communication network (complete, ring, tree, etc.)
+  - The type of the computation (diffusing or non-diffusing, static or dynamic, etc.)
+  - The initiator of the termination detection (centralized or distributed, single or multiple, etc.)
+- One example of a termination detection algorithm is Huang's algorithm, which is based on the concept of a distributed snapshot. The algorithm works as follows:
+  - Each process maintains a local counter that records the number of messages sent and received by the process.
+  - A designated process initiates the termination detection by taking a snapshot of its local state and sending a special marker message to all its neighbors.
+  - When a process receives a marker message for the first time, it takes a snapshot of its local state and forwards the marker message to all its neighbors.
+  - When a process receives a marker message for the second time, it sends its snapshot to the initiator and stops participating in the termination detection.
+  - The initiator collects all the snapshots and computes the global state of the system by adding the local counters of all the processes and subtracting the number of messages in transit.
+  - The initiator declares termination if the global state shows that all the processes are idle and there are no messages in transit.

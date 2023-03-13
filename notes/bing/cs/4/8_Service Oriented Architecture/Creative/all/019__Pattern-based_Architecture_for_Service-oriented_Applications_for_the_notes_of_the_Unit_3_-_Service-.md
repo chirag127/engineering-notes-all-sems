@@ -1,0 +1,22 @@
+### Pattern-based Architecture for Service-oriented Applications
+
+- Pattern-based architecture for service-oriented applications is a way of designing and developing software systems that use reusable and interoperable components called services.
+- Services are software components that provide a business capability and expose a well-defined interface that can be invoked by other components.
+- Services can communicate with each other across different platforms and languages, using common standards and protocols.
+- Pattern-based architecture for service-oriented applications aims to achieve the following benefits :
+  - Loose coupling: Services are independent and loosely coupled, meaning that they can be changed or replaced without affecting other services or consumers.
+  - Reusability: Services can be reused in different contexts and applications, reducing duplication and increasing consistency.
+  - Scalability: Services can be scaled up or down according to the demand, improving performance and availability.
+  - Agility: Services can be composed and orchestrated to create new business processes or workflows, enabling faster and easier adaptation to changing requirements.
+- Pattern-based architecture for service-oriented applications relies on the use of proven solutions or design patterns to solve common design problems .
+- Design patterns are general and reusable solutions to recurring problems in a given context.
+- Some examples of design patterns for service-oriented applications are :
+  - Service interface: Defines the contract or specification of a service, including its operations, parameters, and messages.
+  - Service implementation: Provides the logic or functionality of a service, which can be based on existing or new code.
+  - Service registry: Stores and publishes the information about available services, such as their location, interface, and metadata.
+  - Service discovery: Enables service consumers to find and access services based on their needs and preferences, using the service registry or other mechanisms.
+  - Service proxy: Acts as an intermediary between service consumers and providers, handling communication, transformation, routing, and protocol conversion.
+  - Service composition: Combines multiple services to create a new service or a business process, using orchestration or choreography techniques.
+  - Service governance: Defines and enforces the policies, standards, and best practices for designing, developing, and managing services and service-oriented applications.
+  - Service security: Ensures the confidentiality, integrity, and availability of services and service-oriented applications, using authentication, authorization, encryption, and auditing mechanisms.
+- A mnemonic to remember some of the design patterns for service-oriented applications is **SIR DISC** (Service Interface, Service Registry, Service Discovery, Service Implementation, Service Security, Service Composition).

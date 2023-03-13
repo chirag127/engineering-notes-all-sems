@@ -1,0 +1,22 @@
+### Metric Learning
+
+- Metric learning is a branch of machine learning that aims to learn a distance function or a similarity measure over the input space.
+- Metric learning can be used for various tasks, such as dimensionality reduction, clustering, classification, ranking, retrieval, and recommendation.
+- Metric learning can be supervised, semi-supervised, or unsupervised, depending on the availability and type of labels or constraints for the data.
+- Some common types of labels or constraints for metric learning are:
+  - Class labels: the data points belong to different categories, and the metric should reflect the class similarity or dissimilarity.
+  - Pairwise labels: the data points are given in pairs, and the metric should indicate whether the pairs are similar or dissimilar.
+  - Triplet labels: the data points are given in triplets, and the metric should satisfy the relative similarity or dissimilarity of the triplets, such as "A is more similar to B than to C".
+  - Quadruplet labels: the data points are given in quadruplets, and the metric should satisfy the relative similarity or dissimilarity of the quadruplets, such as "A and B are more similar to each other than to C and D".
+  - Ranking labels: the data points are given in lists, and the metric should respect the order of the lists, such as "A is more relevant than B for a given query".
+  - Neighborhood labels: the data points are given with their nearest neighbors or farthest neighbors, and the metric should preserve the neighborhood structure of the data.
+- Some common methods for metric learning are:
+  - Mahalanobis distance learning: the metric is defined as a linear transformation of the Euclidean distance, and the parameters of the transformation are learned from the data.
+  - Embedding learning: the metric is defined as the Euclidean distance in a low-dimensional latent space, and the mapping from the input space to the latent space is learned from the data.
+  - Kernel learning: the metric is defined as a nonlinear transformation of the Euclidean distance, and the kernel function that induces the transformation is learned from the data.
+  - Deep learning: the metric is defined as the output of a deep neural network, and the network parameters are learned from the data.
+- Some common applications of metric learning are:
+  - Face recognition: the metric is used to compare the similarity of face images and identify the person in the image.
+  - Image retrieval: the metric is used to rank the relevance of images for a given query and retrieve the most relevant images.
+  - Text similarity: the metric is used to measure the semantic similarity of text documents or sentences and perform tasks such as paraphrasing, summarization, or question answering.
+  - Recommender systems: the metric is used to model the preferences of users and items and generate personalized recommendations.

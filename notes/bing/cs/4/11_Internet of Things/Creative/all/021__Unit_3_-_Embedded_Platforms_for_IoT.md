@@ -1,0 +1,27 @@
+## Unit 3 - Embedded Platforms for IoT
+
+- Embedded platforms for IoT are hardware and software systems that enable the development and deployment of IoT applications on edge devices.
+- Edge devices are IoT devices that are located close to the source of data, such as sensors, actuators, cameras, or gateways, and perform some processing and communication functions.
+- Embedded platforms for IoT typically consist of the following components:
+  - A microcontroller (MCU) or a microprocessor (MPU) that provides the core processing capabilities and interfaces with peripherals and memory.
+  - A memory unit that stores the program code and data for the embedded system. This can be flash, RAM, ROM, or EEPROM.
+  - A communication module that enables the embedded system to connect to the network and other devices. This can be wired or wireless, such as Ethernet, Wi-Fi, Bluetooth, Zigbee, LoRa, or cellular.
+  - A sensor module that collects data from the physical environment, such as temperature, humidity, light, motion, or sound.
+  - An actuator module that controls physical devices, such as motors, LEDs, or speakers.
+  - A power module that supplies and manages the energy for the embedded system. This can be a battery, a solar panel, or a power adapter.
+  - A software stack that provides the operating system, drivers, libraries, middleware, and application layer for the embedded system. This can be proprietary or open source, such as Mbed OS, Amazon FreeRTOS, Azure RTOS, Linux, or Windows IoT Core.
+- Embedded platforms for IoT offer several advantages, such as:
+  - Reduced latency and bandwidth consumption by processing and filtering data locally on the edge device, rather than sending it to the cloud or a central server.
+  - Enhanced security and privacy by encrypting and authenticating data on the edge device, and limiting the exposure to external attacks or breaches.
+  - Improved reliability and availability by enabling the edge device to operate independently or in a distributed manner, even when the network or the cloud is unavailable or congested.
+  - Increased scalability and flexibility by allowing the edge device to adapt to changing conditions and requirements, and to support different protocols and standards.
+  - Lower cost and complexity by reducing the dependency on the cloud or the central server, and by using low-power and low-cost hardware components.
+- Embedded platforms for IoT also face some challenges, such as:
+  - Limited resources and capabilities of the edge device, such as processing power, memory, storage, battery life, and connectivity.
+  - Diverse and heterogeneous devices and platforms, which require interoperability and compatibility across different hardware, software, and network architectures and protocols.
+  - Dynamic and unpredictable environments, which pose risks and uncertainties for the edge device, such as physical damage, environmental interference, or malicious attacks.
+  - Complex and evolving requirements and standards, which demand constant updates and maintenance of the edge device and its software.
+- Some examples of embedded platforms for IoT are:
+  - AMD Ryzen™ Embedded processors, which provide high-performance and graphics capabilities for IoT gateways and edge computing applications.
+  - Azure IoT, which is a collection of managed and platform services that enable IoT applications across edge and cloud, and provide security, data, and analytics features.
+  - Arduino, which is an open source platform that consists of a series of hardware boards and software tools that enable easy and rapid prototyping of IoT applications.

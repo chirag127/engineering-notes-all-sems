@@ -1,0 +1,25 @@
+### Automated Test Data Generation for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+- Automated test data generation is an activity that generates test data automatically for the software under test.
+- The quality and effectiveness of testing is heavily dependent on the generated test data.
+- Automated test data generation has the following benefits :
+  - It can produce test data faster and more accurately than manual methods.
+  - It can generate large volumes of data in a short time interval.
+  - It can cover a wide range of test scenarios and inputs.
+  - It can reduce human errors and biases in test data selection and creation.
+  - It can increase the test coverage and reliability of the software under test.
+- Automated test data generation can be done using different approaches, such as:
+  - Random test data generation: This approach generates test data randomly based on some predefined criteria, such as data type, range, format, etc. This approach is simple and easy to implement, but it may not cover all the possible test cases and may produce irrelevant or invalid data.
+  - Goal-oriented test data generation: This approach generates test data based on some specific goals or objectives, such as maximizing code coverage, finding faults, satisfying constraints, etc. This approach is more complex and requires more analysis and design, but it can produce more relevant and effective test data.
+  - Model-based test data generation: This approach generates test data based on some models or specifications of the software under test, such as state machines, data flow diagrams, use cases, etc. This approach is more systematic and rigorous, but it requires more effort and expertise to create and maintain the models.
+- Automated test data generation can be done using different tools, such as:
+  - DATPROF: This tool can generate test data for databases, web services, and files. It can also anonymize and subset existing data. It supports various data sources and formats, such as Oracle, SQL Server, XML, JSON, etc.
+  - IRI RowGen: This tool can generate test data for databases, files, and reports. It can also mask and encrypt existing data. It supports various data sources and formats, such as DB2, MySQL, CSV, Excel, etc.
+  - Generatedata.com: This tool can generate test data online for free. It can generate data in various formats, such as HTML, XML, JSON, SQL, etc. It can also customize the data based on various options, such as country, language, gender, etc.
+  - Databene Benerator: This tool can generate test data for databases, files, and objects. It can also validate and monitor the data quality. It supports various data sources and formats, such as PostgreSQL, Oracle, XML, JSON, etc.
+  - Mockaroo: This tool can generate test data online for free or with a paid plan. It can generate data in various formats, such as SQL, CSV, JSON, etc. It can also customize the data based on various options, such as data type, size, format, etc.
+  - Redgate SQL Data Generator: This tool can generate test data for SQL Server databases. It can also populate existing tables with realistic data. It supports various data sources and formats, such as CSV, Excel, XML, etc.
+  - IBM DB2 Test Database Generator: This tool can generate test data for DB2 databases. It can also create and populate tables with data. It supports various data sources and formats, such as CSV, XML, etc.
+  - GS Data Generator: This tool can generate test data for databases, files, and web services. It can also mask and encrypt existing data. It supports various data sources and formats, such as Oracle, SQL Server, XML, JSON, etc.
+  - DTM Data Generator: This tool can generate test data for databases, files, and spreadsheets. It can also create and populate tables with data. It supports various data sources and formats, such as Oracle, MySQL, CSV, Excel, etc.
+  - EMS Data Generator: This tool can generate test data for databases. It can also create and populate tables with data. It supports various data sources and formats, such as PostgreSQL, MySQL, SQL Server, etc.

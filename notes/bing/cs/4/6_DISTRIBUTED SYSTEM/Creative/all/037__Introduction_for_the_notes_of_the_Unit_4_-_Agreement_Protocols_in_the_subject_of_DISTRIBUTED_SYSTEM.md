@@ -1,0 +1,23 @@
+### Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by passing messages.
+- Agreement protocols are a class of protocols that enable processes in a distributed system to reach a common decision, despite the presence of failures.
+- Agreement protocols are essential for ensuring reliability, consistency, fault tolerance, and security in distributed systems.
+- Some examples of agreement problems in distributed systems are:
+  - Consensus: All processes agree on a common value proposed by one or more processes.
+  - Leader election: All processes agree on a unique process that acts as the coordinator or leader.
+  - Group membership: All processes agree on the set of processes that are currently active and reachable.
+  - Atomic commit: All processes agree on whether to commit or abort a distributed transaction.
+- Some challenges and issues that make agreement protocols difficult to design and implement in distributed systems are:
+  - Asynchrony: Processes and messages may experience arbitrary delays, making it hard to synchronize and order events.
+  - Failures: Processes and messages may fail or crash, making it hard to detect and recover from errors.
+  - Adversaries: Processes and messages may behave maliciously, making it hard to trust and verify information.
+- Some techniques and methods that are used to solve agreement problems in distributed systems are:
+  - Quorums: A subset of processes that is large enough to ensure agreement.
+  - Failure detectors: A mechanism that provides information about the failure status of processes.
+  - Cryptography: A set of mathematical tools that provide security and authentication.
+  - Randomization: A way of breaking symmetry and resolving conflicts by using random choices.
+- Some applications and examples of agreement protocols in distributed systems are:
+  - Distributed databases: Agreement protocols are used to ensure atomicity and consistency of transactions across multiple data servers.
+  - Distributed consensus platforms: Agreement protocols are used to enable distributed ledger technologies such as blockchains and cryptocurrencies.
+  - Distributed coordination services: Agreement protocols are used to provide distributed locking, naming, configuration, and group management services.

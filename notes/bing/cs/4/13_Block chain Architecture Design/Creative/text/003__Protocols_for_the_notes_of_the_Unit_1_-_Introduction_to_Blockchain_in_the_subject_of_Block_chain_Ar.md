@@ -1,0 +1,12 @@
+### Protocols for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Protocols are basic sets of rules that ensure data sharing between computers or computing systems.
+- In the case of cryptocurrencies, they set out the structure of the blockchain and the rules for managing the distributed database, which will guarantee that assets are traded securely online.
+- Blockchain protocols aim to address the four principles of blockchain: decentralization, transparency, immutability, and security.
+- There are different types of blockchain protocols, depending on the consensus methods, the network architecture, the data structure, and the use cases .
+- Some of the common blockchain protocols are:
+  - Bitcoin: The first and most popular cryptocurrency protocol, based on proof-of-work consensus and a public, permissionless network. It uses a linked list of blocks to store transactions and a peer-to-peer network to validate them.
+  - Ethereum: A general-purpose protocol that supports smart contracts, decentralized applications, and a native cryptocurrency called ether. It also uses proof-of-work consensus and a public, permissionless network, but it has a more flexible data structure that allows for more complex computations.
+  - Hyperledger: An open-source framework that is developed by Linux. It helps the enterprises to provide solutions for various industries, such as finance, healthcare, supply chain, etc. It uses a modular architecture that allows for different consensus methods, data structures, and network configurations. It is a private, permissioned network that requires authorized participants.
+  - Quorum: A protocol that aims to address the problems related to finance. It is a fork of Ethereum that adds features such as privacy, scalability, and performance. It uses a voting-based consensus and a private, permissioned network that allows for selective data sharing.
+  - Corda: A protocol that focuses on the needs of the financial sector. It enables the creation of smart contracts that can be executed across different legal jurisdictions. It uses a notary-based consensus and a private, permissioned network that allows for direct communication between parties.

@@ -1,0 +1,8 @@
+## Unit 2 - Hardware for IoT
+
+- Hardware for IoT refers to the physical devices and components that enable the connectivity, communication, and functionality of IoT applications.
+- Hardware for IoT can be classified into three main categories: sensors, microcontrollers, and communication modules.
+- Sensors are the devices that collect data from the environment, such as temperature, humidity, motion, light, sound, etc. Sensors are the most critical hardware in IoT applications and are used to gather information from the surroundings. These systems are made up of power management modules, RF, energy and sensing modules .
+- Microcontrollers are the devices that process the data collected by the sensors and execute the logic and commands of the IoT application. Microcontrollers are small, low-power, and programmable devices that can run an application on a single integrated circuit. Microcontrollers can also interface with other hardware components, such as displays, buttons, LEDs, etc .
+- Communication modules are the devices that enable the wireless or wired transmission of data between the IoT devices and the cloud or other devices. Communication modules can use different protocols and technologies, such as WiFi, Bluetooth, ZigBee, cellular, LoRa, etc. Communication modules are responsible for managing the signal processing, encryption, authentication, and network connectivity of the IoT devices  .
+- Some examples of IoT hardware platforms and prototyping kits are Raspberry Pi, Arduino, ESP32, Particle, BeagleBone, etc. These platforms provide a combination of sensors, microcontrollers, and communication modules that can be used to develop and test IoT applications .

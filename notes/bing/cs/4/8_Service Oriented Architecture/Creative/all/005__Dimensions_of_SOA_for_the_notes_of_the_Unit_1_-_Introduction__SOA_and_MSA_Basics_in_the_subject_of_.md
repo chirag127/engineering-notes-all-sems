@@ -1,0 +1,11 @@
+### Dimensions of SOA for the notes of the Unit 1 - Introduction: SOA and MSA Basics in the subject of Service Oriented Architecture
+
+- SOA is a design paradigm that defines how software components can interact and cooperate to provide business functionality.
+- SOA has four dimensions: business, architecture, technology, and organization.
+- Business dimension: This dimension focuses on the alignment of business goals and processes with the services provided by SOA. It involves identifying the business needs, defining the service portfolio, and measuring the business value of SOA.
+- Architecture dimension: This dimension focuses on the design principles and patterns that guide the development of SOA solutions. It involves defining the service contracts, service granularity, service composition, service orchestration, service governance, and service quality attributes.
+- Technology dimension: This dimension focuses on the implementation and deployment of SOA solutions using various technologies and platforms. It involves selecting the service technologies, service protocols, service standards, service security, service monitoring, and service management tools.
+- Organization dimension: This dimension focuses on the organizational and cultural aspects that enable the adoption and evolution of SOA. It involves defining the roles and responsibilities, skills and competencies, collaboration and communication, change management, and governance processes for SOA.
+
+- A mnemonic to remember the four dimensions of SOA is **BATO** (Business, Architecture, Technology, Organization).
+- A learning trick to understand the four dimensions of SOA is to use the analogy of a restaurant. A restaurant provides various services to its customers, such as food, drinks, delivery, etc. The business dimension of the restaurant is to define its vision, mission, goals, and value proposition. The architecture dimension of the restaurant is to design its menu, recipes, kitchen layout, and service delivery process. The technology dimension of the restaurant is to implement its cooking equipment, ordering system, payment system, and delivery system. The organization dimension of the restaurant is to manage its staff, suppliers, partners, and customers.

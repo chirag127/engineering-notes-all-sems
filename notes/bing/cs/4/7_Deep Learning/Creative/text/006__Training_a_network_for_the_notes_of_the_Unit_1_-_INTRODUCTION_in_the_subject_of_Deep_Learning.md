@@ -1,0 +1,11 @@
+### Training a network for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+- Training a network is the process of adjusting the parameters of a neural network to optimize a predefined objective function, such as minimizing the error or maximizing the accuracy on a given dataset.
+- Training a network involves the following steps:
+  - Initializing the network parameters randomly or using some heuristic method.
+  - Feeding the input data to the network and computing the output values using a forward propagation algorithm.
+  - Comparing the output values with the desired or target values and calculating the loss or error function, which measures how well the network performs on the data.
+  - Updating the network parameters using a backward propagation algorithm, which computes the gradients of the loss function with respect to the parameters and applies a learning rule to adjust them in the direction of reducing the loss.
+  - Repeating the above steps until the network converges to a satisfactory level of performance or a stopping criterion is met, such as reaching a maximum number of iterations or a minimum loss value.
+- Training a network requires choosing several hyperparameters, such as the network architecture, the learning rate, the batch size, the activation functions, the regularization methods, and the optimization algorithm. These hyperparameters affect the speed, accuracy, and generalization ability of the network and need to be tuned empirically or using some automated methods.
+- Training a network can be challenging due to several factors, such as the high dimensionality of the parameter space, the non-convexity of the loss function, the presence of local minima or saddle points, the overfitting or underfitting problems, the vanishing or exploding gradients, and the computational complexity and memory requirements. These factors can be addressed by using various techniques, such as normalization, initialization, regularization, dropout, batch normalization, gradient clipping, momentum, adaptive learning rates, and parallel or distributed computing.

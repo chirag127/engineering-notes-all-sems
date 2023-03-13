@@ -1,0 +1,26 @@
+### Service Orientation in Daily Life for the notes of the Unit 1 - Introduction: SOA and MSA Basics in the subject of Service Oriented Architecture
+
+- Service orientation is the ability and desire to anticipate, recognize and meet others' needs, sometimes even before those needs are articulated.
+- Service orientation is also related to a concern for others and affects the quality of the interaction between the organization's staff and its customers.
+- Service orientation is an important workplace skill that can help employees to provide better customer service, increase customer satisfaction and loyalty, and improve organizational performance.
+- Service orientation can be demonstrated by:
+  - Actively seeking ways to help others.
+  - Being sensitive to others' needs and feelings.
+  - Alleviating others' distress.
+  - Recognizing and acting on one's responsibilities to society, locally, nationally, and globally.
+  - Doing what one is doing, but better.
+  - Taking responsibility for one's impact.
+- Service orientation can be incorporated into daily life by:
+  - Checking in with one's people.
+  - Giving what one has to those who need it.
+  - Volunteering at a local organization.
+  - Being customer service oriented, which means understanding one's customers well enough to anticipate their needs.
+  - Having a service-oriented dealing, which means having less or no stress in one's life.
+- A mnemonic to remember the benefits of service orientation is: **S**atisfaction, **E**mpathy, **R**esponsibility, **V**alue, **I**mpact, **C**ommitment, **E**xcellence.
+- A learning trick to practice service orientation is to ask oneself these questions regularly:
+  - How can I help others today?
+  - What are the needs and feelings of others around me?
+  - How can I reduce the suffering of others?
+  - What are my duties to the society and the environment?
+  - How can I improve the quality of my work or service?
+  - How can I anticipate the needs of my customers or clients?

@@ -1,0 +1,11 @@
+### Impracticality of Testing All Data for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software testing is the process of verifying and validating that a software product meets the requirements and expectations of the users and stakeholders.
+- Software testing usually requires data, whether to check the way information is displayed on the user interface or the accuracy of back-end calculations.
+- However, it is impractical and impossible to test all data and all paths for most software products, due to the following reasons:
+
+  - The domain of possible inputs is too large to test. For example, if a program accepts a 10-digit number as input, there are 10^10 possible inputs to test. Testing all of them would take a very long time and a lot of resources.
+  - The correctness of the output for a particular test input is determined using a testing oracle, which is a mechanism or a person that knows the expected output for a given input. However, developing or finding a testing oracle for every input is not feasible or reliable. For example, if a program calculates the square root of a number, how can we verify that the output is correct for every input? We would need another program or a person that can calculate the square root accurately, which is essentially another testing oracle.
+  - The number of executable paths through the program is too large to test. For example, if a program has n conditional statements, there are 2^n possible paths to test. Testing all of them would require a lot of test cases and code coverage tools. Moreover, developing an algorithm to generate all possible paths is also not possible, as it would involve solving the halting problem, which is undecidable.
+
+- Therefore, software testing has to rely on techniques such as test case design, test data generation, test coverage analysis, test automation, test prioritization, test selection, test adequacy, test oracle approximation, etc. to achieve a reasonable level of confidence and quality in the software product.

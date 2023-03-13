@@ -1,0 +1,23 @@
+### Data Flow Testing
+
+- Data flow testing is a type of structural testing that focuses on the data variables and their usage in a program.
+- Data flow testing aims to ensure that the data variables are properly defined, used and modified in the program, and that there are no anomalies or errors in the data flow.
+- Data flow testing is based on the concept of data flow graph, which is a representation of the program's control flow graph with additional information about the data variables and their definitions and uses.
+- Data flow graph consists of nodes and edges, where nodes represent the basic blocks of the program and edges represent the transfer of control between the blocks.
+- Data flow graph also shows the data variables and their definitions and uses in each block, using the following notations:
+  - d(x): a definition of variable x in a block
+  - u(x): a use of variable x in a block
+  - c-use(x): a computational use of variable x in a block, such as in an expression or a condition
+  - p-use(x): a predicate use of variable x in a block, such as in a branch or a loop
+- Data flow testing uses the data flow graph to identify the data flow anomalies and to derive the test cases that cover the data flow paths in the program.
+- Data flow anomalies are the situations where the data variables are not properly defined, used or modified in the program, such as:
+  - DU anomaly: a definition of a variable is not followed by any use of that variable in any path
+  - UD anomaly: a use of a variable is not preceded by any definition of that variable in any path
+  - DD anomaly: a definition of a variable is followed by another definition of the same variable without any use of that variable in between
+- Data flow testing uses the following criteria to measure the test coverage of the data flow paths in the program:
+  - All-Defs: every definition of every variable is covered by at least one test case
+  - All-Uses: every use of every variable is covered by at least one test case
+  - All-DU-Paths: every definition-use pair of every variable is covered by at least one test case
+  - All-C-Uses: every computational use of every variable is covered by at least one test case
+  - All-P-Uses: every predicate use of every variable is covered by at least one test case
+- Data flow testing can be applied at different levels of testing, such as unit testing, integration testing and system testing, depending on the scope and granularity of the data flow graph.

@@ -1,0 +1,8 @@
+### Testing Process
+
+The testing process is a set of activities that aim to verify and validate the quality of a software product. The testing process can be divided into four main phases:
+
+- **Planning**: In this phase, the test objectives, scope, strategy, resources, schedule, and deliverables are defined. The test plan document is created to guide the testing activities and document the expected results. The test plan also identifies the test cases, test data, test environment, test tools, and test criteria.
+- **Design**: In this phase, the test cases and test data are designed based on the test objectives and the requirements specification. The test cases specify the inputs, outputs, and expected outcomes of each test scenario. The test data are the values or sets of values that are used as inputs for the test cases. The test design also includes the identification of test conditions, test coverage, test techniques, and test levels.
+- **Execution**: In this phase, the test cases and test data are executed on the software product under test. The test execution can be manual or automated, depending on the test tools and test environment. The test execution also involves the recording of test results, test logs, test incidents, and test metrics.
+- **Evaluation**: In this phase, the test results and test metrics are evaluated against the test criteria and the quality standards. The test evaluation also involves the analysis of test incidents, test defects, test coverage, and test effectiveness. The test evaluation also provides feedback and recommendations for improvement of the software product and the testing process.

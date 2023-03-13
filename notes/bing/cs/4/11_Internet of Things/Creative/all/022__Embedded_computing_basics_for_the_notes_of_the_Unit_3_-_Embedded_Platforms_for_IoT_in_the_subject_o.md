@@ -1,0 +1,27 @@
+### Embedded computing basics for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+
+- Embedded systems are electronic devices that have a specific function and are integrated within a larger system. They are often used to provide sensing, computing, and communication capabilities for IoT applications .
+- Embedded systems typically consist of the following components :
+  - Power source: This provides the electrical energy for the device to operate. It can be a battery, a solar panel, a USB cable, or a wireless power transfer system.
+  - Time base: This provides a reference clock signal for the device to synchronize its operations. It can be a crystal oscillator, a resonator, or a timer circuit.
+  - Digital processing: This performs the logic and arithmetic operations for the device. It can be a microcontroller, a microprocessor, a digital signal processor, or a field-programmable gate array.
+  - Memory: This stores the data and instructions for the device. It can be a flash memory, a random-access memory, a read-only memory, or a memory card.
+  - Software and firmware: This defines the behavior and functionality of the device. It can be written in assembly language, C, C++, Python, or other programming languages.
+  - Specialized circuitry: This provides additional features and interfaces for the device. It can be a sensor, an actuator, a display, a keyboard, a camera, a speaker, or a wireless module.
+  - Input from the environment: This receives data and signals from the external world. It can be a sensor, a switch, a button, a microphone, or a camera.
+  - Output to the environment: This sends data and signals to the external world. It can be an actuator, a display, a LED, a buzzer, or a speaker.
+- Embedded systems can be classified into different types based on their characteristics :
+  - Standalone embedded systems: These do not require any external connection or communication. They perform their function independently and autonomously. Examples are calculators, digital watches, and electronic toys.
+  - Networked embedded systems: These are connected to other devices or networks via wired or wireless communication. They can exchange data and commands with other systems. Examples are smart home devices, wearable devices, and industrial controllers.
+  - Real-time embedded systems: These have strict timing constraints and deadlines for their operations. They must respond to events and inputs within a specified time frame. Examples are airbags, pacemakers, and flight control systems.
+  - Mobile embedded systems: These are portable and battery-powered devices that can move and change their location. They have limited resources and power consumption. Examples are smartphones, tablets, and drones.
+- Embedded systems can be designed and developed using various tools and platforms  :
+  - Hardware platforms: These are the physical devices and components that form the embedded system. They can be based on different architectures and standards, such as ARM, AVR, PIC, Arduino, Raspberry Pi, etc.
+  - Software platforms: These are the operating systems and frameworks that run on the embedded system. They can provide various services and libraries for the device, such as Linux, FreeRTOS, Android, iOS, etc.
+  - Development tools: These are the software applications and utilities that help in creating and debugging the embedded system. They can include compilers, assemblers, linkers, debuggers, simulators, emulators, etc.
+  - Programming languages: These are the languages and syntaxes that are used to write the software and firmware for the embedded system. They can be low-level or high-level, such as assembly, C, C++, Python, Java, etc.
+- Embedded systems can be tested and evaluated using various methods and metrics :
+  - Functional testing: This checks whether the embedded system performs its intended function correctly and reliably. It can involve unit testing, integration testing, system testing, and acceptance testing.
+  - Performance testing: This measures how well the embedded system meets its requirements and specifications. It can involve speed testing, throughput testing, latency testing, and scalability testing.
+  - Power testing: This analyzes how much energy the embedded system consumes and how long it can operate on a given power source. It can involve current testing, voltage testing, battery testing, and power management testing.
+  - Security testing: This evaluates how secure the embedded system is from unauthorized access and attacks. It can involve encryption testing, authentication testing, penetration testing

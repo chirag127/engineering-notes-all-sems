@@ -1,0 +1,13 @@
+### Scheme for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new faults or adversely affected the existing functionality.
+- Regression testing can be performed at different levels of testing, such as unit, integration, system, and acceptance testing.
+- Regression testing can be done manually or automatically, depending on the availability of test cases, test tools, and resources.
+- Regression testing can be classified into three types: retest all, selective, and test case prioritization.
+  - Retest all is the simplest approach, where all the existing test cases are executed again after each change. This ensures high coverage, but is also costly and time-consuming.
+  - Selective is the approach where only a subset of the existing test cases are executed after each change, based on some criteria, such as the impact of the change, the risk of the system, the coverage of the test cases, etc. This reduces the cost and time of regression testing, but also reduces the coverage and may miss some faults.
+  - Test case prioritization is the approach where the existing test cases are ordered according to some criteria, such as the severity of the faults, the frequency of the changes, the execution time of the test cases, etc. This allows the testers to execute the most important test cases first, and stop when a certain level of confidence is achieved or a certain budget is exhausted.
+- Regression testing can be enhanced by using techniques such as regression test selection, regression test minimization, and regression test suite augmentation.
+  - Regression test selection is the technique of identifying the test cases that are affected by the changes and need to be executed again. This can be done using various methods, such as code-based, specification-based, model-based, or history-based methods.
+  - Regression test minimization is the technique of eliminating the redundant or obsolete test cases from the regression test suite, to reduce the size and cost of regression testing. This can be done using various methods, such as coverage-based, fault-based, or cost-based methods.
+  - Regression test suite augmentation is the technique of adding new test cases to the regression test suite, to increase the coverage and effectiveness of regression testing. This can be done using various methods, such as mutation-based, fault-based, or feedback-based methods.

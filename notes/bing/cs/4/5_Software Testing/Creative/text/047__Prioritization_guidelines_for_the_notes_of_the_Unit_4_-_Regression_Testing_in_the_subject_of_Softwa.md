@@ -1,0 +1,16 @@
+### Prioritization guidelines for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting the modified parts of a software system and ensuring that no new defects have been introduced due to the changes.
+- Regression testing is important to maintain the quality and reliability of a software system after changes such as bug fixes, enhancements, configuration changes, etc.
+- Regression testing can be costly and time-consuming, especially for large and complex systems. Therefore, it is necessary to prioritize the test cases that are most likely to detect defects and provide high coverage of the modified code.
+- Some of the common criteria for prioritizing regression test cases are:
+  - **Risk-based prioritization**: Test cases that cover the most critical and frequently used functionalities of the system are given higher priority. Test cases that cover the low-risk and rarely used functionalities are given lower priority or deferred.
+  - **Coverage-based prioritization**: Test cases that cover the most code statements, branches, paths, or requirements of the modified parts of the system are given higher priority. Test cases that cover the least code or requirements are given lower priority or deferred.
+  - **Fault-based prioritization**: Test cases that have a higher probability of detecting faults based on historical data, defect reports, or expert judgment are given higher priority. Test cases that have a lower probability of detecting faults are given lower priority or deferred.
+  - **Cost-based prioritization**: Test cases that have a lower execution time, resource consumption, or maintenance effort are given higher priority. Test cases that have a higher cost are given lower priority or deferred.
+- Prioritization of regression test cases can be done manually or automatically using various techniques and tools. Some of the common techniques are:
+  - **Test case selection**: Selecting a subset of test cases from the existing test suite that are relevant to the changes in the system and discarding the rest.
+  - **Test case minimization**: Reducing the size of the test suite by eliminating redundant or obsolete test cases that do not add any value to the testing process.
+  - **Test case prioritization**: Ordering the test cases in the test suite according to their priority and executing them in that order.
+- Prioritization of regression test cases can be done at different levels of granularity, such as test suite level, test case level, or test step level. The level of granularity depends on the available information, the testing objectives, and the testing resources.
+- Prioritization of regression test cases can be done statically or dynamically. Static prioritization is done before the execution of the test cases and does not change during the testing process. Dynamic prioritization is done during the execution of the test cases and can change based on the feedback from the testing process.

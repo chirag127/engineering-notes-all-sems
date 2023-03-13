@@ -1,0 +1,7 @@
+### Impracticality of Testing AllPaths
+
+- Testing all paths of a software system is impractical because of the following reasons:
+  - The number of paths in a software system can be very large, even infinite, depending on the complexity and structure of the system. For example, a loop with a variable number of iterations can generate an infinite number of paths.
+  - The time and resources required to test all paths can be prohibitive, especially for large and complex systems. For example, if a system has 10^6 paths and each path takes 1 second to test, it would take more than 11 days to test all paths.
+  - The benefit of testing all paths can be marginal, as not all paths are equally important or likely to be executed. For example, some paths may be rarely used, or may be redundant or equivalent to other paths. Testing all paths may not increase the confidence or quality of the system significantly.
+- Therefore, testing all paths of a software system is not feasible or desirable in most cases. Instead, testers should use techniques such as path coverage criteria, test case design methods, and risk analysis to select a subset of paths that are representative, relevant, and effective for testing.

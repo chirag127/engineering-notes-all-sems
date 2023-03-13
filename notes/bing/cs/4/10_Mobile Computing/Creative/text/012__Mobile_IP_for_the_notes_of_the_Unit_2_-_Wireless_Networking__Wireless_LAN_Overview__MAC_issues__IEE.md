@@ -1,0 +1,26 @@
+### Mobile IP
+
+- Mobile IP (or MIP) is an Internet Engineering Task Force (IETF) standard communications protocol that is designed to allow mobile device users to move from one network to another while maintaining a permanent IP address.
+- Mobile IP is based on IP and can support any media that can support IP, such as wired and wireless environments.
+- Mobile IP allows mobile device users to stay connected and maintain ongoing applications while roaming between IP networks.
+- Mobile IP consists of three main components: a home agent, a foreign agent, and a mobile node.
+- A home agent is a router on the home network of the mobile node that maintains a binding table that maps the permanent IP address of the mobile node to its current location.
+- A foreign agent is a router on the visited network of the mobile node that provides routing services to the mobile node while it is away from its home network.
+- A mobile node is a device that can change its point of attachment to the Internet, such as a laptop, a smartphone, or a tablet.
+- Mobile IP works as follows:
+  - When a mobile node is on its home network, it communicates using its permanent IP address as the source address of its packets.
+  - When a mobile node moves to a foreign network, it obtains a care-of address from the foreign agent, which is a temporary IP address that indicates its current location.
+  - The mobile node registers its care-of address with its home agent, which updates its binding table accordingly.
+  - The home agent intercepts any packets destined to the mobile node's permanent IP address and tunnels them to the care-of address of the mobile node.
+  - The foreign agent receives the tunneled packets and delivers them to the mobile node using its care-of address as the destination address.
+  - The mobile node communicates with other hosts on the Internet using its permanent IP address as the source address of its packets, which are routed through the foreign agent and the home agent.
+- Mobile IP has several advantages, such as:
+  - It provides seamless and continuous Internet connectivity for mobile device users.
+  - It preserves the existing transport and higher-layer connections of the mobile node.
+  - It supports roaming between overlapping wireless systems, such as WLAN, WiMAX, and BWA.
+  - It is compatible with existing IP networks and applications.
+- Mobile IP also has some limitations, such as:
+  - It introduces additional overhead and latency due to the tunneling mechanism.
+  - It requires the cooperation of the home network and the foreign network to provide the home agent and the foreign agent services.
+  - It may suffer from security issues, such as spoofing, replay, and denial-of-service attacks.
+  - It may not work well with some network protocols that rely on the IP address to identify the host, such as IPsec or DNS.

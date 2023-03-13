@@ -1,0 +1,34 @@
+### Build a Case for SOA for the notes of the Unit 8 - Business Case for SOA in the subject of Service Oriented Architecture
+
+- Service Oriented Architecture (SOA) is an architectural style that promotes the reuse and interoperability of software components across different applications and platforms.
+- SOA can provide many benefits for an organization, such as increased agility, reduced costs, improved quality, and enhanced innovation.
+- However, SOA also involves some challenges and trade-offs, such as increased complexity, governance, security, and performance issues.
+- Therefore, it is important to build a strong and convincing business case for SOA before adopting it in a specific project or domain.
+- A business case for SOA should address the following aspects:
+  - The problem statement: What is the current situation and what are the pain points or opportunities that SOA can address?
+  - The solution description: What is the proposed SOA solution and how does it align with the business goals and strategies?
+  - The value proposition: What are the expected benefits and outcomes of SOA and how can they be measured and quantified?
+  - The cost-benefit analysis: What are the estimated costs and risks of SOA and how do they compare with the benefits and savings?
+  - The implementation plan: What are the steps and milestones for implementing SOA and what are the roles and responsibilities of the stakeholders?
+  - The success criteria: What are the key performance indicators (KPIs) and metrics for evaluating the success of SOA and how will they be monitored and reported?
+- A business case for SOA should also consider the following factors:
+  - The scope and scale of SOA: How many and which services will be exposed and consumed by SOA and how will they be categorized and standardized?
+  - The maturity and readiness of SOA: How mature and ready is the organization and the IT infrastructure for adopting SOA and what are the gaps and barriers to overcome?
+  - The best practices and guidelines of SOA: What are the best practices and guidelines for designing, developing, testing, deploying, and managing SOA and how will they be enforced and governed?
+  - The alignment and integration of SOA: How will SOA align and integrate with the existing systems, processes, and culture of the organization and what are the potential conflicts and synergies?
+- A business case for SOA should also leverage the following sources:
+  - The design-time, run-time, and change-time time savings of SOA governance: How much time and effort can be saved by using SOA governance tools and processes to manage the lifecycle of services and policies?
+  - The analyst data that will complement the business case: What are the industry trends and benchmarks that support the adoption of SOA and how do they relate to the specific context and domain of the organization?
+  - The actions of competitors and parallels: What are the SOA initiatives and achievements of the competitors and peers of the organization and how can they be used as examples and references?
+  - The experience of SOA solution providers: What are the lessons learned and best practices from the SOA solution providers and how can they be applied and customized for the organization?
+- A business case for SOA should also use the following techniques:
+  - Asking smart, insightful questions about the appropriateness of SOA for the specific project or domain: What are the business drivers and objectives of SOA and how do they match with the project or domain requirements and constraints?
+  - Using scenarios and use cases to illustrate the benefits and challenges of SOA: What are the typical scenarios and use cases that SOA can enable or improve and what are the potential issues and risks that SOA can introduce or exacerbate?
+  - Using ROI and TCO models to calculate the costs and benefits of SOA: What are the return on investment (ROI) and total cost of ownership (TCO) models that can be used to estimate the costs and benefits of SOA and what are the assumptions and variables that need to be considered?
+  - Using pilot projects and prototypes to validate and demonstrate the feasibility and value of SOA: What are the pilot projects and prototypes that can be used to test and showcase the feasibility and value of SOA and what are the criteria and methods for selecting and evaluating them?
+
+- A possible mnemonic for remembering the aspects of a business case for SOA is **PVC CIS**:
+  - **P**roblem statement
+  - **V**alue proposition
+  - **C**ost-benefit analysis
+  - **C**ost-benefit analysis

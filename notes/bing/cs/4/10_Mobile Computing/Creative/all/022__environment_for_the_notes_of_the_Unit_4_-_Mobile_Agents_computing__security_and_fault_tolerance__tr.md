@@ -1,0 +1,21 @@
+### Environment for Mobile Agents Computing
+
+- A mobile agent is a piece of software that can move from one host to another in a network, carrying its state and data, and executing autonomously.
+- A mobile agent environment is the infrastructure that supports the creation, migration, execution, and communication of mobile agents.
+- A mobile agent environment consists of the following components:
+  - **Agent platform**: The software layer that provides the basic services and resources for mobile agents, such as agent creation, migration, execution, communication, security, and management. It can be implemented as a middleware, a virtual machine, or a library.
+  - **Agent server**: The software component that hosts and executes mobile agents on a given node. It interacts with the agent platform and the underlying network to provide the necessary services and resources for mobile agents. It can also act as a gateway for agent migration and communication.
+  - **Agent**: The software entity that encapsulates the state, data, and behavior of a mobile agent. It can be written in various languages, such as Java, Python, or C++. It can also have various attributes, such as name, type, owner, destination, and itinerary.
+  - **Agent communication**: The mechanism that allows mobile agents to exchange messages and data with other agents or entities in the network. It can be based on various protocols, such as TCP/IP, HTTP, or RMI. It can also support various communication models, such as synchronous, asynchronous, or multicast.
+  - **Agent security**: The set of policies and mechanisms that protect mobile agents and their hosts from malicious attacks and unauthorized access. It can include various aspects, such as authentication, authorization, encryption, integrity, confidentiality, and non-repudiation.
+
+- A mobile agent environment can provide various benefits for mobile computing applications, such as :
+  - **Reducing network traffic and latency**: Mobile agents can move to the location where the data or services are available, and perform the computation locally, instead of transferring large amounts of data over the network.
+  - **Adapting to dynamic network conditions**: Mobile agents can react to changes in the network availability, bandwidth, or topology, and adjust their behavior accordingly, such as choosing the best route, switching to a different host, or resuming from a checkpoint.
+  - **Enhancing scalability and fault-tolerance**: Mobile agents can distribute the workload among multiple hosts, and balance the load dynamically, according to the resource availability and demand. They can also recover from failures, by migrating to another host, or replicating themselves.
+  - **Supporting heterogeneous and open systems**: Mobile agents can operate in different platforms and environments, and interoperate with various protocols and standards. They can also discover and access new services and resources dynamically, without prior knowledge or configuration.
+
+- A mobile agent environment can also pose various challenges and risks for mobile computing applications, such as:
+  - **Protecting mobile agents from malicious hosts**: Mobile agents can be vulnerable to attacks from the hosts that execute them, such as tampering, eavesdropping, or denial of service. They can also be exposed to viruses, worms, or trojans that infect the hosts.
+  - **Protecting hosts from malicious mobile agents**: Mobile agents can also pose threats to the hosts that host them, such as stealing, modifying, or deleting data, consuming resources, or launching attacks to other hosts or agents. They can also carry malicious code or data that can harm the hosts.
+  - **Ensuring mobile agent security policies and mechanisms**: Mobile agents can have different security requirements and preferences, depending on their owners, types, and destinations. They can also encounter different security policies and mechanisms, depending on the hosts, platforms, and networks they visit. Therefore, it is important to ensure the compatibility and interoperability of the security policies and mechanisms for mobile agents and their environments.

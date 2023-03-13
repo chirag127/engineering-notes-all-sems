@@ -1,0 +1,24 @@
+### Emergence of MSA for the notes of the Unit 1 - Introduction: SOA and MSA Basics in the subject of Service Oriented Architecture
+
+- MSA stands for Microservice Architecture, which is a variant (subset) of SOA, where focus has been placed on the runtime autonomy of each service, stressing the independence (of both design and runtime) as well as resilience of each service.
+- SOA stands for Service Oriented Architecture, which is a design paradigm that aims to achieve loose coupling among interacting software agents by using well-defined, self-contained, and reusable services that communicate through standard protocols.
+- MSA emerged as a response to some of the limitations and challenges of SOA, such as:
+  - SOA enhances component sharing, whereas MSA tries to minimize sharing through “bounded context.” A bounded context refers to the coupling of a component and its data as a single unit with minimal dependencies .
+  - SOA relies on multiple services to fulfill a business request, systems built on SOA are likely to be slower than MSA. MSA enables faster and more efficient communication among services by using lightweight protocols such as REST .
+  - SOA supports integration between heterogenous applications and messaging protocols via an enterprise-service bus (ESB), which can introduce a single point of failure and a performance bottleneck. MSA avoids the use of a centralized ESB and instead favors decentralized communication and governance.
+  - SOA tends to have larger and more complex services that can be difficult to maintain, test, and deploy. MSA promotes smaller and simpler services that can be independently developed, tested, and deployed.
+- MSA also emerged as a result of the advances in technology and practices, such as:
+  - Cloud computing, which provides scalable and elastic infrastructure for hosting and running microservices.
+  - Containerization, which enables the packaging and deployment of microservices as isolated and portable units.
+  - DevOps, which fosters a culture of collaboration and automation among development and operations teams, facilitating the continuous delivery and monitoring of microservices.
+  - Domain-driven design, which provides a set of principles and practices for modeling and implementing complex business domains as a collection of bounded contexts and microservices.
+- MSA has some advantages over SOA, such as:
+  - Higher scalability, as microservices can be scaled independently and dynamically according to the demand .
+  - Higher availability, as microservices can be designed to tolerate and recover from failures without affecting the whole system .
+  - Higher agility, as microservices can be developed and deployed faster and more frequently, enabling faster feedback and innovation .
+  - Higher modularity, as microservices can be organized and composed according to the business domain and functionality, reducing the complexity and coupling of the system .
+- MSA also has some challenges and drawbacks, such as:
+  - Higher complexity, as microservices introduce more moving parts and dependencies that need to be managed and coordinated .
+  - Higher overhead, as microservices require more resources and infrastructure to run and communicate, as well as more tools and processes to monitor and maintain .
+  - Higher testing difficulty, as microservices need to be tested both individually and collectively, ensuring the quality and compatibility of the system .
+  - Higher learning curve, as microservices require a different mindset and skillset from the developers and operators, as well as a cultural shift to embrace the MSA principles and practices .

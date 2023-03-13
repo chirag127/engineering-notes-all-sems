@@ -1,0 +1,18 @@
+### Idea of differential cryptanalysis for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security.
+
+- Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
+- It is the study of how differences in information input can affect the resultant difference at the output.
+- It is usually a chosen plaintext attack, meaning that the attacker must be able to obtain ciphertexts for some set of plaintexts of their choosing.
+- The basic method uses pairs of plaintext related by a constant difference, called the input difference, and looks at the differences in the resulting ciphertext pairs, called the output difference.
+- Based on these differences, probabilities are assigned to possible keys. As more pairs are analyzed, the probability concentrates around a smaller number of keys.
+- The attacker can use statistical techniques to find the most likely key or a subset of likely keys.
+- The idea of differential cryptanalysis is to exploit the non-uniformity of the output differences for a given input difference.
+- For example, if a block cipher has a 50% chance of producing a certain output difference for a given input difference, then it is not useful for differential cryptanalysis. But if it has a 90% chance of producing a certain output difference for a given input difference, then it is very useful for differential cryptanalysis.
+- The attacker can use a table of differential probabilities, which shows the probability of each output difference for each input difference, to guide the choice of plaintext pairs and to evaluate the likelihood of keys.
+- The table of differential probabilities can be derived from the structure of the block cipher, such as the number of rounds, the type of round function, the key schedule, etc.
+- Differential cryptanalysis can be applied to various block cipher modes of operation, such as electronic codebook (ECB), cipher block chaining (CBC), cipher feedback (CFB), output feedback (OFB), etc.
+- Differential cryptanalysis can also be extended to known plaintext or ciphertext-only attacks, by using techniques such as linear cryptanalysis, differential-linear cryptanalysis, impossible differential cryptanalysis, etc.
+- Differential cryptanalysis was first publicized in 1990 by Biham and Shamir with attacks against reduced-round variants of DES, and followed in 1991 by the first attack against DES which was faster than brute force.
+- Differential cryptanalysis can also be used to attack other block ciphers, such as IDEA, RC5, AES, etc.
+- Differential cryptanalysis can be prevented by designing block ciphers that have high diffusion and confusion, meaning that small changes in the input or the key should affect many bits of the output in unpredictable ways.
+- A mnemonic to remember the concept of differential cryptanalysis is: **D**ifferences in input lead to **D**ifferences in output with **D**ifferent probabilities for **D**ifferent keys.

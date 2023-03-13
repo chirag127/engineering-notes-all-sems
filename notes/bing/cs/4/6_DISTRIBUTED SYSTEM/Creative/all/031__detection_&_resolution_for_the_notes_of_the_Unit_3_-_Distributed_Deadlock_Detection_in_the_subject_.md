@@ -1,0 +1,21 @@
+### Detection and resolution of distributed deadlock in the subject of DISTRIBUTED SYSTEM
+
+- A **distributed deadlock** is a condition where a set of processes request resources that are held by other processes in the set, and none of the processes can proceed until they obtain the requested resources.
+- Distributed deadlock detection algorithms can be classified into four categories:
+  - **Path-pushing**: Each process maintains a wait-for graph of the processes and resources in its local site, and periodically sends the graph to a coordinator that merges the graphs and detects cycles.
+  - **Edge-chasing**: Each process sends a probe message to the process that holds the resource it is waiting for, and the probe message is forwarded along the wait-for chain until it either reaches a dead end or returns to the sender, indicating a deadlock.
+  - **Diffusion computation**: Each process initiates a computation to detect local deadlocks, and propagates the results to its neighbors, until a global consensus is reached on the existence of a deadlock.
+  - **Global state detection**: Each process periodically records its local state and sends it to a coordinator that collects the global state of the system and checks for deadlocks using a global wait-for graph or a global resource allocation graph.
+- Deadlock resolution involves breaking existing wait-for dependencies between the processes to resolve the deadlock. It involves rolling back one or more deadlocked processes and assigning their resources to blocked processes so that they can resume execution.
+- Some possible strategies for deadlock resolution are:
+  - **Victim selection**: Choosing a process to abort based on some criteria, such as the amount of resources held, the amount of work done, the priority, the expected execution time, etc.
+  - **Successive rollback**: Rolling back a process to a previous checkpoint and releasing its resources, and repeating this until the deadlock is resolved.
+  - **Wound-wait**: Aborting the younger process in a deadlock cycle, where the age of a process is determined by its timestamp or the number of messages it has sent or received.
+  - **Wait-die**: Aborting the older process in a deadlock cycle, where the age of a process is determined by its timestamp or the number of messages it has sent or received.
+- Some possible mnemonics and learning tricks for the detection and resolution of distributed deadlock are:
+  - **P**ath-**p**ushing and **e**dge-**c**hasing both start with **p** and **e**, and they both involve sending messages along the wait-for graph.
+  - **D**iffusion computation and **d**eadlock both start with **d**, and they both involve a distributed agreement among the processes.
+  - **G**lobal state detection and **g**raph both start with **g**, and they both involve constructing a global representation of the system state.
+  - **V**ictim selection and **v**alue both start with **v**, and they both involve choosing a process based on some criteria.
+  - **S**uccessive rollback and **s**tep back both start with **s**, and they both involve going back to a previous state and releasing resources.
+  - **W**ound-wait and **w**ait-die both have **w** in them, and they both involve aborting a process based on its age.

@@ -1,0 +1,26 @@
+## Unit 2 - Cloud Enabling Technologies Service Oriented Architecture
+
+- Service Oriented Architecture (SOA) is a design paradigm that defines how software components can interact and cooperate to provide business services.
+- SOA is based on the principles of loose coupling, abstraction, reusability, composability, autonomy, and discoverability.
+- SOA enables the development of distributed applications that can leverage the resources and capabilities of different cloud providers and platforms.
+- SOA consists of three main roles: service provider, service consumer, and service registry.
+  - Service provider: the entity that offers one or more services to the consumers. A service provider publishes the service description and contract to the service registry.
+  - Service consumer: the entity that requests and uses the services offered by the providers. A service consumer discovers the service description and contract from the service registry and binds to the service provider.
+  - Service registry: the entity that maintains a repository of service descriptions and contracts. A service registry facilitates the discovery and binding of services by the consumers and providers.
+- SOA uses standard protocols and formats to enable interoperability and communication among the services. Some of the common protocols and formats are:
+  - SOAP: Simple Object Access Protocol, a protocol for exchanging structured and typed information between services using XML.
+  - REST: Representational State Transfer, a style of web service architecture that uses HTTP methods and URIs to manipulate resources.
+  - WSDL: Web Services Description Language, a language for describing the interface, functionality, and contract of a web service.
+  - UDDI: Universal Description, Discovery, and Integration, a protocol for registering and discovering web services in a service registry.
+  - JSON: JavaScript Object Notation, a lightweight data-interchange format that is easy to read and write for humans and machines.
+- SOA has several benefits for cloud computing, such as:
+  - Scalability: SOA enables the scaling of services independently and dynamically according to the demand and load.
+  - Reusability: SOA promotes the reuse of existing services and components, reducing the development time and cost.
+  - Flexibility: SOA allows the modification and adaptation of services without affecting the consumers, as long as the contract is maintained.
+  - Interoperability: SOA facilitates the integration and communication of heterogeneous systems and platforms using standard protocols and formats.
+  - Quality: SOA improves the quality of services by enabling the testing, monitoring, and governance of services.
+- SOA also has some challenges and limitations for cloud computing, such as:
+  - Complexity: SOA increases the complexity of the system architecture and design, requiring more coordination and management of services and interactions.
+  - Performance: SOA introduces additional overhead and latency for the service invocation and data exchange, affecting the response time and throughput of the system.
+  - Security: SOA exposes the services to potential threats and attacks, requiring more security mechanisms and policies to protect the services and data.
+  - Reliability: SOA depends on the availability and reliability of the services and the network, requiring more fault tolerance and recovery strategies to handle failures and errors.

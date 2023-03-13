@@ -1,0 +1,25 @@
+### Security Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Security testing is a process of identifying, preventing, and mitigating security vulnerabilities in web applications.
+- Security testing involves assessing the security of web applications by examining their code, architecture, and deployment environment.
+- Security testing also involves testing on all important layers such as network, database, access points, etc.
+- Security testing aims to protect web applications from cyber-attacks such as unauthorized access, data theft, denial of service, injection attacks, etc.
+- Security testing can be performed manually or using automated tools, depending on the scope, complexity, and requirements of the web application.
+- Security testing can be classified into different types, such as:
+
+  - **Authentication testing**: This type of testing verifies the identity and access rights of the users of the web application. It checks if the web application implements proper authentication mechanisms, such as passwords, tokens, biometrics, etc. It also checks if the web application prevents unauthorized access, such as brute force attacks, session hijacking, etc.
+  - **Authorization testing**: This type of testing verifies the permissions and privileges of the users of the web application. It checks if the web application implements proper authorization mechanisms, such as roles, groups, access control lists, etc. It also checks if the web application prevents unauthorized actions, such as privilege escalation, access to restricted resources, etc.
+  - **Input validation testing**: This type of testing verifies the input data that the web application receives from the users or other sources. It checks if the web application validates the input data for its type, length, format, etc. It also checks if the web application prevents malicious input, such as injection attacks, cross-site scripting, etc.
+  - **Output encoding testing**: This type of testing verifies the output data that the web application sends to the users or other destinations. It checks if the web application encodes the output data for its format, character set, etc. It also checks if the web application prevents malicious output, such as cross-site scripting, response splitting, etc.
+  - **Cryptography testing**: This type of testing verifies the encryption and decryption of the data that the web application transmits or stores. It checks if the web application uses proper cryptographic algorithms, keys, certificates, etc. It also checks if the web application prevents cryptographic attacks, such as weak encryption, broken keys, etc.
+  - **Error handling testing**: This type of testing verifies the error messages and logs that the web application generates in case of failures or exceptions. It checks if the web application handles the errors gracefully, without exposing sensitive information, such as stack traces, database queries, etc. It also checks if the web application prevents error-based attacks, such as information disclosure, denial of service, etc.
+  - **Session management testing**: This type of testing verifies the session variables and cookies that the web application uses to maintain the state of the users. It checks if the web application manages the session variables and cookies securely, without exposing or leaking them. It also checks if the web application prevents session-based attacks, such as session fixation, session replay, etc.
+  - **Business logic testing**: This type of testing verifies the business rules and workflows that the web application implements. It checks if the web application follows the business logic correctly, without allowing bypassing or tampering. It also checks if the web application prevents business logic attacks, such as parameter manipulation, logic bombs, etc.
+
+- Security testing can be performed using different methods, such as:
+
+  - **Black-box testing**: This method of testing does not require any knowledge of the internal structure or code of the web application. It only requires the knowledge of the functionality and interface of the web application. It simulates the actions of an external attacker, who tries to exploit the vulnerabilities of the web application.
+  - **White-box testing**: This method of testing requires the knowledge of the internal structure and code of the web application. It requires the access to the source code, design documents, configuration files, etc. of the web application. It simulates the actions of an internal attacker, who tries to exploit the vulnerabilities of the web application.
+  - **Gray-box testing**: This method of testing requires some knowledge of the internal structure or code of the web application, but not as much as white-box testing. It requires the access to some information, such as user credentials, database schema, etc. of the web application. It simulates the actions of a semi-internal attacker, who tries to exploit the vulnerabilities of the web application.
+
+- Security testing can be performed using different tools, such as:

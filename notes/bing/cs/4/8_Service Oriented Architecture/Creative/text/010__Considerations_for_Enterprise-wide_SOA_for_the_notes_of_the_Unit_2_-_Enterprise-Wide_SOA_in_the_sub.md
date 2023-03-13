@@ -1,0 +1,25 @@
+### Considerations for Enterprise-wide SOA
+
+- SOA stands for Service-Oriented Architecture, which is an integration architectural style and an enterprise-wide concept that enables existing applications to be exposed over loosely-coupled interfaces, each corresponding to a business function, that enables applications in one part of an extended enterprise to reuse functionality in other applications.
+- SOA offers significant benefits to the enterprise, such as greater business agility, faster time to market, reusability, interoperability, scalability, and alignment of IT with business goals.
+- To implement SOA successfully, enterprises need to consider the following aspects:
+  - **SOA roadmap**: A SOA roadmap should clearly delineate the boundaries of the SOA initiative and establish a transparent and flexible timeline for achieving SOA goals. These goals should be broken down into manageable phases, which can then be realized in an iterative and incremental manner.
+  - **SOA governance**: SOA governance is the process of defining, implementing, and enforcing policies, standards, and best practices for designing, developing, deploying, and managing SOA services and processes. SOA governance ensures that the SOA initiative is aligned with the business strategy, delivers value, and meets the quality and performance expectations.
+  - **SOA service design**: SOA service design is the process of identifying, analyzing, and modeling the business functions that can be exposed as reusable and interoperable services. SOA service design involves applying principles such as service abstraction, service granularity, service autonomy, service reusability, service statelessness, service discoverability, and service composability.
+  - **SOA service implementation**: SOA service implementation is the process of developing, testing, and deploying the services using appropriate technologies, platforms, and tools. SOA service implementation involves applying standards such as SOAP, REST, WSDL, UDDI, and WS-*.
+  - **SOA service consumption**: SOA service consumption is the process of discovering, accessing, and invoking the services from various applications and processes. SOA service consumption involves applying techniques such as service orchestration, service choreography, service mediation, service security, and service monitoring.
+  - **SOA service management**: SOA service management is the process of maintaining, optimizing, and evolving the services and processes throughout their lifecycle. SOA service management involves applying practices such as service versioning, service testing, service auditing, service performance, service availability, and service scalability.
+  - **SOA maturity model**: SOA maturity model is a framework that helps enterprises assess their current state of SOA adoption and identify the gaps and opportunities for improvement. SOA maturity model typically consists of several levels, ranging from initial to optimized, that describe the characteristics, capabilities, and outcomes of SOA at each stage.
+  - **SOA best practices**: SOA best practices are the proven and recommended methods and guidelines for implementing SOA effectively and efficiently. SOA best practices cover various aspects such as business analysis, service design, service implementation, service consumption, service management, and SOA governance. Some examples of SOA best practices are:
+    - Establish a clear business case and vision for SOA
+    - Involve business stakeholders and users in SOA initiatives
+    - Define and enforce SOA policies and standards
+    - Adopt a top-down and bottom-up approach for service identification and prioritization
+    - Design services with loose coupling, high cohesion, and clear contracts
+    - Use a service registry and repository for service discovery and reuse
+    - Implement services with platform-independent and interoperable technologies
+    - Leverage existing assets and legacy systems as service providers or consumers
+    - Use a service bus for service integration and mediation
+    - Monitor and measure service performance and quality
+    - Manage service versions and dependencies
+    - Evolve services and processes incrementally and iteratively

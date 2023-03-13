@@ -1,0 +1,21 @@
+### Smart cards for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- A smart card is a physical device that contains a microprocessor or a microcontroller that can store and process data securely.
+- Smart cards can be used to authenticate, identify, encrypt, and communicate with other devices in the Internet of Things (IoT) network.
+- Smart cards can provide the following benefits for IoT applications:
+  - They can enhance the security and privacy of the IoT devices and data by using cryptographic algorithms and keys.
+  - They can reduce the complexity and cost of the IoT infrastructure by offloading some of the processing and storage tasks from the IoT devices to the smart cards.
+  - They can enable interoperability and compatibility among different IoT devices and platforms by following common standards and protocols.
+  - They can improve the user experience and convenience by allowing easy and flexible access and control of the IoT devices and services.
+- Some of the examples of smart cards applications in IoT are:
+  - Smart cards can be used to login the user to the IoT server. The server authenticates the user, and a unique session key is generated that will enable the user to use the IoT device securely.
+  - Smart cards can be used to store and manage the encryption keys for the IoT devices and data. This will ensure the confidentiality and integrity of the sensitive information being transmitted .
+  - Smart cards can be used to store and update the firmware and configuration of the IoT devices. This will prevent unauthorized or malicious modifications and ensure the functionality and reliability of the IoT devices.
+  - Smart cards can be used to store and verify the identity and credentials of the IoT devices and users. This will prevent spoofing, impersonation, and unauthorized access to the IoT network .
+  - Smart cards can be used to store and process the sensor data and commands for the IoT devices. This will reduce the latency and bandwidth requirements and improve the performance and efficiency of the IoT network.
+- A possible mnemonic to remember the benefits of smart cards for IoT applications is **SPICE**:
+  - **S**ecurity and privacy
+  - **P**rocessing and storage
+  - **I**nteroperability and compatibility
+  - **C**onvenience and user experience
+  - **E**ncryption and communication

@@ -1,0 +1,12 @@
+### Strawman Architecture for Enterprise-wide SOA
+
+- A strawman architecture is a high-level, conceptual design that is used to communicate the main components and interactions of a system without going into the details.
+- A strawman architecture for enterprise-wide SOA is a way of describing how different services, applications, and processes can be integrated and orchestrated across an organization using the principles and standards of service-oriented architecture (SOA).
+- A strawman architecture for enterprise-wide SOA typically consists of the following layers:
+  - **Business layer**: This layer defines the business goals, strategies, and processes of the organization. It also specifies the business services that are required to support the business processes and the service level agreements (SLAs) that govern them.
+  - **Service layer**: This layer exposes the business services as reusable, interoperable, and loosely coupled service contracts that can be accessed by different consumers. It also defines the service orchestration and choreography logic that coordinates the interactions among the services.
+  - **Application layer**: This layer implements the business services using various applications, platforms, and technologies. It also provides the service adapters that enable the applications to communicate with the service layer using standard protocols and formats.
+  - **Integration layer**: This layer provides the common infrastructure and middleware that facilitate the integration and communication among the applications and services. It also provides the service registry and repository that store and manage the service metadata and policies.
+  - **Data layer**: This layer manages the data sources and data services that are used by the applications and services. It also provides the data access and transformation capabilities that enable the data to be exchanged and processed in a consistent and secure manner.
+- A strawman architecture for enterprise-wide SOA can be represented using various diagrams and models, such as service-oriented modeling and architecture (SOMA), service component architecture (SCA), or service-oriented modeling framework (SOMF).
+- A strawman architecture for enterprise-wide SOA can be used to guide the design, development, and governance of SOA solutions across the organization. It can also be used to evaluate the maturity and alignment of the existing systems and services with the SOA vision and principles.

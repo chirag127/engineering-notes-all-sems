@@ -1,0 +1,27 @@
+### Testing Suite for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- A testing suite is a collection of test cases that are designed to test a software system or a component under specific conditions and scenarios.
+- A testing suite can be organized according to different criteria, such as:
+  - The type of testing, such as unit testing, integration testing, system testing, etc.
+  - The level of testing, such as black-box testing, white-box testing, gray-box testing, etc.
+  - The purpose of testing, such as functional testing, non-functional testing, regression testing, etc.
+  - The scope of testing, such as module testing, class testing, interface testing, etc.
+  - The test design technique, such as equivalence partitioning, boundary value analysis, decision table testing, etc.
+- A testing suite can have different formats and structures, such as:
+  - A test plan, which is a document that describes the objectives, scope, approach, resources, and schedule of a testing activity.
+  - A test specification, which is a document that defines the test cases, test data, test procedures, and expected results for a testing activity.
+  - A test script, which is a set of instructions or commands that are executed by a test tool or a test driver to perform a testing activity.
+  - A test case, which is a set of inputs, preconditions, actions, expected outputs, and postconditions that are used to verify a specific requirement or functionality of a software system or a component.
+  - A test data, which is a set of values or parameters that are used as inputs or outputs for a test case or a test script.
+  - A test procedure, which is a sequence of steps or actions that are followed to execute a test case or a test script.
+  - A test result, which is a record of the outcome or the status of a test case or a test script after execution.
+  - A test report, which is a document that summarizes the results, findings, and conclusions of a testing activity.
+- A testing suite can have different characteristics and qualities, such as:
+  - Completeness, which is the degree to which a testing suite covers all the requirements, functionalities, features, and scenarios of a software system or a component.
+  - Consistency, which is the degree to which a testing suite follows the same standards, conventions, and rules throughout its components and elements.
+  - Correctness, which is the degree to which a testing suite conforms to the specifications, expectations, and objectives of a testing activity.
+  - Effectiveness, which is the degree to which a testing suite detects and reveals the defects, errors, and faults of a software system or a component.
+  - Efficiency, which is the degree to which a testing suite uses the optimal amount of resources, such as time, effort, and cost, to achieve its goals and purposes.
+  - Maintainability, which is the degree to which a testing suite can be modified, updated, or enhanced to cope with the changes, evolutions, or improvements of a software system or a component.
+  - Reusability, which is the degree to which a testing suite can be applied, adapted, or reused for different testing activities, contexts, or domains.
+  - Traceability, which is the degree to which a testing suite can be linked, mapped, or related to the requirements, specifications, or design of a software system or a component.

@@ -1,0 +1,24 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Checkpointing is a technique for saving the state of a distributed system periodically onto stable storage, so that the system can be recovered from failures by rolling back to a previous checkpoint.
+- A checkpoint is a snapshot of the local state of a process, such as its memory, registers, variables, etc.
+- A consistent checkpoint is a checkpoint that reflects a consistent global state of the system, meaning that there is no information flow between any pair of processes in the checkpoint.
+- A consistent set of checkpoints, also known as a recovery line, is a set of checkpoints that corresponds to a consistent global state and has one checkpoint for each process in the system.
+- Obtaining consistent checkpoints is important for ensuring that the system can be recovered to a correct and consistent state after failures, without violating any causality or consistency constraints.
+- There are two main approaches for obtaining consistent checkpoints in a distributed system:
+  - Independent checkpointing: Each process takes checkpoints independently and asynchronously, without coordinating with other processes. The advantage of this approach is that it is simple and has low overhead. The disadvantage is that it may result in inconsistent checkpoints and require more rollback and communication to find a consistent set of checkpoints after failures.
+  - Coordinated checkpointing: The processes coordinate with each other to take checkpoints synchronously, such that a consistent global state is captured. The advantage of this approach is that it guarantees consistent checkpoints and minimizes rollback and communication. The disadvantage is that it requires more coordination and may introduce blocking and synchronization delays.
+- A common algorithm for coordinated checkpointing is the following:
+  - A coordinator process initiates the checkpointing by sending a checkpoint request message to all processes in the system.
+  - Each process, upon receiving the checkpoint request message, does the following:
+    - If it has not taken a checkpoint in the current round, it takes a checkpoint and sends an acknowledgement message to the coordinator.
+    - If it has already taken a checkpoint in the current round, it discards the checkpoint request message and does nothing.
+  - The coordinator, upon receiving acknowledgement messages from all processes, declares the checkpointing round complete and broadcasts a completion message to all processes.
+  - Each process, upon receiving the completion message, marks its checkpoint as permanent and discards any previous checkpoints.
+- A mnemonic for remembering the steps of the coordinated checkpointing algorithm is **CRAACK**:
+  - **C**oordinator initiates checkpointing
+  - **R**equest message is sent to all processes
+  - **A**cknowledgement message is sent back to coordinator
+  - **A**cknowledgement message is received by coordinator
+  - **C**ompletion message is broadcasted to all processes
+  - **K**eep the checkpoint as permanent and discard previous ones

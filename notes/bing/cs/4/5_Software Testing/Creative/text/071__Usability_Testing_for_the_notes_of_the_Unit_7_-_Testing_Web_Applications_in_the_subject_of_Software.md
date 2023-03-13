@@ -1,0 +1,25 @@
+### Usability Testing
+
+- Usability testing is a type of testing that evaluates how easy, efficient, and satisfying a web application is to use by the intended users.
+- Usability testing can be performed at any stage of the development process, but it is usually done after the functional testing and before the deployment of the web application.
+- Usability testing can be conducted in different ways, such as:
+  - Lab testing: The users are invited to a controlled environment where they are observed and recorded while using the web application.
+  - Remote testing: The users are located in their natural settings and use the web application through a screen-sharing or video-conferencing tool.
+  - Hallway testing: The users are randomly selected from the people who are available in the vicinity of the development team and are asked to use the web application for a short time.
+  - A/B testing: The users are exposed to two or more versions of the web application and their behavior and feedback are compared to determine which version is more usable.
+- Usability testing can be classified into two categories, depending on the level of involvement of the users:
+  - Formative testing: The users are actively involved in the testing process and provide feedback and suggestions to improve the web application.
+  - Summative testing: The users are passively involved in the testing process and their performance and satisfaction are measured by predefined criteria and metrics.
+- Usability testing can be guided by different methods, such as:
+  - Heuristic evaluation: The web application is evaluated by a set of usability principles or heuristics, such as consistency, visibility, feedback, error prevention, etc.
+  - Cognitive walkthrough: The web application is evaluated by a series of tasks that the users are expected to perform, and the ease and effectiveness of completing those tasks are assessed.
+  - User testing: The web application is evaluated by the actual or potential users who use the web application and provide their opinions and experiences.
+  - Expert review: The web application is evaluated by a usability expert who identifies the strengths and weaknesses of the web application and provides recommendations for improvement.
+- Usability testing can be measured by different metrics, such as:
+  - Effectiveness: The degree to which the users can achieve their goals and complete their tasks using the web application.
+  - Efficiency: The amount of time, effort, and resources that the users need to use the web application.
+  - Satisfaction: The degree to which the users are pleased and content with the web application.
+  - Learnability: The ease and speed with which the users can learn to use the web application.
+  - Memorability: The ability of the users to remember how to use the web application after a period of non-use.
+  - Error rate: The frequency and severity of the errors that the users encounter while using the web application.
+  - Accessibility: The extent to which the web application can be used by people with different abilities and preferences.

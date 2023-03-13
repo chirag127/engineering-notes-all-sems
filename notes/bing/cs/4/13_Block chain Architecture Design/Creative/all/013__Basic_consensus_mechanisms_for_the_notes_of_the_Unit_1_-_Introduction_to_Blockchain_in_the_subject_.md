@@ -1,0 +1,13 @@
+### Basic consensus mechanisms for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- A consensus mechanism is any method used to achieve agreement, trust, and security across a decentralized computer network.
+- In the context of blockchains and cryptocurrencies, consensus mechanisms are the methodologies used to validate transactions and update the shared ledger.
+- Consensus mechanisms play an essential part of securing information by encrypting it and using automated group verification.
+- There are different types of consensus mechanisms, each with its own advantages and disadvantages. Some of the most common ones are:
+  - Proof-of-Work (PoW): This is the mechanism used by Bitcoin and other cryptocurrencies that require miners to solve complex mathematical problems to create new blocks and earn rewards. PoW is secure and robust, but it consumes a lot of energy and resources, and it is vulnerable to 51% attacks  .
+  - Proof-of-Stake (PoS): This is the mechanism used by Ethereum and other cryptocurrencies that require validators to stake their own coins to participate in the consensus process and earn rewards. PoS is more energy-efficient and scalable than PoW, but it may introduce centralization and security risks, such as the nothing-at-stake problem and the long-range attack  .
+  - Delegated Proof-of-Stake (DPoS): This is a variation of PoS that allows coin holders to delegate their voting power to a selected group of validators, who are responsible for creating and validating blocks. DPoS is faster and more democratic than PoS, but it may also suffer from centralization and corruption issues .
+  - Other consensus mechanisms include Proof-of-Authority (PoA), Proof-of-Capacity (PoC), Proof-of-Burn (PoB), Proof-of-Elapsed-Time (PoET), Byzantine Fault Tolerance (BFT), and Federated Byzantine Agreement (FBA).
+
+- A mnemonic to remember the main types of consensus mechanisms is: **Work, Stake, Delegate, and Other**.
+- A learning trick to understand the difference between PoW and PoS is to think of them as **lottery** and **raffle**, respectively. In a lottery, you buy more tickets to increase your chances of winning, but you also spend more money. In a raffle, you buy one ticket and hope to be lucky, but you also risk losing your money if you don't win. Similarly, in PoW, you invest more computing power to increase your chances of creating a block, but you also consume more energy and resources. In PoS, you stake more coins to increase your chances of validating a block, but you also risk losing your coins if you act maliciously or the network forks.

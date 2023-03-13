@@ -1,0 +1,21 @@
+### Test Data for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+- Test data is the input given to a software program during test execution .
+- Test data represents data that affects or is affected by software execution while testing .
+- Test data is used for both positive testing and negative testing.
+  - Positive testing is to verify that functions produce expected results for given inputs.
+  - Negative testing is to test software ability to handle unusual, exceptional or unexpected inputs.
+- Test data should be designed to cover all possible test scenarios and test cases.
+  - Poorly designed test data may not test all the functionalities and features of the software, which will hamper the quality of the software.
+- Test data can be preloaded in the system or input by the tester or test automation tool during test execution.
+- Test data can be obtained from different sources and techniques.
+  - One of them is production cloning, which is copying the data from production servers.
+    - It is essential to mask or substitute any sensitive data to avoid disclosing any personally identifiable information.
+  - Another technique is synthetic data generation, which is creating artificial data that mimics the characteristics and behavior of real data.
+    - It can be useful for testing new features or scenarios that are not available in production data.
+  - A third technique is data subsetting, which is selecting a subset of data from a larger data set that is representative and relevant for testing.
+    - It can help reduce the storage and processing costs of testing data.
+- Test data should be managed and maintained throughout the testing process.
+  - Test data should be stored in a centralized location that is accessible and secure for testers.
+  - Test data should be updated and refreshed regularly to reflect the changes in the software and the requirements.
+  - Test data should be tracked and documented to ensure traceability and accountability of testing results.

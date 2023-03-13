@@ -1,0 +1,42 @@
+### Service Run-time Governance for the notes of the Unit 6 - SOA Governance and Implementation in the subject of Service Oriented Architecture
+
+- Service run-time governance is the process of managing the behavior and performance of services and service consumers in a SOA environment during execution.
+- Service run-time governance aims to ensure that services are compliant with the contracts and policies that define their expected functionality, quality, security, and reliability.
+- Service run-time governance involves the following activities:
+  - Monitoring the availability, response time, throughput, and errors of services and service consumers.
+  - Enforcing the policies that specify the access rights, authentication, authorization, encryption, and auditing of services and service consumers.
+  - Measuring the service-level agreements (SLAs) that define the expected performance and quality of services and service consumers.
+  - Reporting and analyzing the metrics and events that capture the run-time behavior and performance of services and service consumers.
+  - Alerting and notifying the stakeholders when the services and service consumers violate the contracts, policies, or SLAs.
+- Service run-time governance requires the following components:
+  - A run-time repository that stores the metadata of services, service consumers, contracts, policies, and SLAs.
+  - A service network that connects the services and service consumers and enables the communication, routing, and mediation of service requests and responses.
+  - A service network monitor that collects the metrics and events from the service network and sends them to the run-time repository.
+  - A policy enforcement point (PEP) that intercepts the service requests and responses and applies the policies to them.
+  - A policy decision point (PDP) that evaluates the policies and returns the decisions to the PEPs.
+  - A service-level monitor that compares the metrics and events with the SLAs and determines the compliance status of services and service consumers.
+  - A reporting and analysis tool that generates reports and dashboards based on the metrics and events stored in the run-time repository.
+  - An alerting and notification tool that sends alerts and notifications to the stakeholders when the services and service consumers violate the contracts, policies, or SLAs.
+- Service run-time governance benefits the SOA initiative by:
+  - Improving the visibility and transparency of the service network and its behavior and performance.
+  - Enhancing the security and reliability of the service network and its participants.
+  - Optimizing the performance and quality of the service network and its participants.
+  - Increasing the accountability and compliance of the service network and its participants.
+  - Facilitating the troubleshooting and resolution of issues and problems in the service network.
+- Service run-time governance challenges the SOA initiative by:
+  - Introducing additional complexity and overhead to the service network and its participants.
+  - Requiring additional skills and resources to implement and maintain the service run-time governance components and activities.
+  - Demanding a high level of coordination and collaboration among the stakeholders involved in the service run-time governance.
+- Service run-time governance differs from traditional software development governance by:
+  - Focusing on building reusable atomic services that facilitate flexibility through contracts and policies.
+  - Emphasizing the dynamic and distributed nature of the service network and its participants.
+  - Addressing the heterogeneity and diversity of the service network and its participants.
+  - Supporting the continuous evolution and adaptation of the service network and its participants.
+- Some examples of tools that support service run-time governance are:
+  - Oracle SOA Management System: A policy-based run-time governance software suite that incorporates applications designed to address SOA performance in production. The suite includes a run-time repository, service network monitoring, SOA security, service-level monitoring and more.
+  - IBM WebSphere Service Registry and Repository: A run-time governance tool that enables the discovery, reuse, and governance of services and policies. It provides a central registry and repository for storing and managing the metadata of services, policies, and related artifacts.
+  - Software AG CentraSite: A run-time governance tool that enables the management and governance of services and policies across the service lifecycle. It provides a unified registry and repository for storing and managing the metadata of services, policies, and related artifacts.
+  - WSO2 Governance Registry: A run-time governance tool that enables the governance of services and policies across heterogeneous environments. It provides a registry and repository for storing and managing the metadata of services, policies, and related artifacts.
+- A possible mnemonic to remember the components of service run-time governance is **RAMPERS**:
+  - **R**un-time repository
+  - **

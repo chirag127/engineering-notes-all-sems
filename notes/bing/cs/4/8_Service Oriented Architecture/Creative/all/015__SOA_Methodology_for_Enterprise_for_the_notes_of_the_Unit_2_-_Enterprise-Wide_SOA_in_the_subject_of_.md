@@ -1,0 +1,36 @@
+### SOA Methodology for Enterprise for the notes of the Unit 2 - Enterprise-Wide SOA in the subject of Service Oriented Architecture
+
+- SOA (Service-Oriented Architecture) is an integration architectural style and an enterprise-wide concept  that enables existing applications to be exposed over loosely-coupled interfaces, each corresponding to a business function, that enables applications in one part of an extended enterprise to reuse functionality in other applications .
+- SOA is built on computer engineering approaches that offer an architectural advancement towards enterprise system. It describes a standard method for requesting services from distributed components and after that the results or outcome is managed.
+- SOA is a particular construction technique that can have a major impact on the overall construction. The introduction of steel-frame techniques in the latter part of the 19th century revolutionized buildings architecture.
+- SOA is based on the following principles :
+  - Reusability: Services are designed to be reused in different contexts and applications.
+  - Loose coupling: Services are independent and have minimal dependencies on each other.
+  - Abstraction: Services hide their internal details and expose only their interfaces.
+  - Composability: Services can be composed into higher-level services or applications.
+  - Statelessness: Services do not maintain any state information between requests.
+  - Discoverability: Services can be discovered and described by other services or applications.
+  - Interoperability: Services can communicate with each other across platforms and languages.
+- SOA methodology for enterprise consists of the following steps:
+  - Identify the business processes and functions that can be modeled as services.
+  - Define the service interfaces and contracts that specify the inputs, outputs, and behaviors of the services.
+  - Implement the service logic and data using the appropriate technologies and platforms.
+  - Publish and register the service metadata in a service registry or repository.
+  - Discover and bind the services at design time or runtime using the service registry or repository.
+  - Compose and orchestrate the services into business processes or applications using a service bus or a workflow engine.
+  - Monitor and manage the service performance, availability, and quality using a service management tool.
+- SOA methodology for enterprise has the following benefits  :
+  - Increased agility: SOA enables faster and easier changes to the business processes and functions by reusing and composing existing services.
+  - Reduced costs: SOA reduces the duplication and redundancy of the applications and data by sharing and integrating the services.
+  - Improved quality: SOA improves the reliability and consistency of the services by enforcing the service contracts and standards.
+  - Enhanced scalability: SOA enables the services to handle increasing workloads by distributing and load-balancing the requests.
+  - Greater innovation: SOA enables the creation of new and value-added services and applications by leveraging the existing services.
+- SOA methodology for enterprise has the following challenges  :
+  - Complexity: SOA introduces additional layers and components to the enterprise system, such as the service bus, the service registry, and the service management tool, which increase the complexity and maintenance efforts.
+  - Governance: SOA requires a clear and consistent governance model and policies to ensure the alignment, compliance, and quality of the services and their interactions.
+  - Security: SOA exposes the services to a wider and more diverse audience, which increases the risks of unauthorized access, data breaches, and cyberattacks.
+  - Culture: SOA requires a shift in the mindset and culture of the enterprise, from a siloed and application-centric approach to a collaborative and service-oriented approach.
+- A possible mnemonic to remember the principles of SOA is **RACIDS** (Reusability, Abstraction, Composability, Interoperability, Discoverability, Statelessness).
+- A possible mnemonic to remember the steps of SOA methodology for enterprise is **DIPDCM** (Define, Implement, Publish, Discover, Compose, Monitor).
+- A possible mnemonic to remember the benefits of SOA methodology for enterprise is **IRISE** (Innovation, Reduced costs, Improved quality, Scalability, Agility).
+- A possible mnemonic to remember the challenges of SOA methodology for enterprise is **CGSS** (Complexity, Governance, Security, Culture).

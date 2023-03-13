@@ -1,0 +1,22 @@
+## Unit 3 - Service-Oriented Applications
+
+- A service-oriented application is an application that is composed largely of services, which are often in a hierarchy.
+- A service is a software component that provides a business capability, and can communicate with other services across platforms and languages.
+- A service has a well-defined interface that abstracts away the underlying complexity and implementation details.
+- Service-oriented architecture (SOA) is an architectural style that uses services as the building blocks for applications.
+- SOA aims to allow users to combine large chunks of functionality to form applications that are built purely from existing services and can be orchestrated dynamically.
+- SOA has some benefits, such as:
+  - Reusability: Services can be reused in different contexts and applications, reducing duplication and maintenance costs.
+  - Interoperability: Services can communicate with each other using common standards and protocols, regardless of the underlying technologies and platforms.
+  - Scalability: Services can be scaled independently and distributed across different nodes, improving performance and availability.
+  - Agility: Services can be modified and deployed quickly, enabling faster response to changing business needs and requirements.
+- SOA also has some challenges, such as:
+  - Complexity: Services may depend on each other and have to coordinate their interactions, increasing the overall complexity and testing efforts.
+  - Governance: Services need to be managed and monitored throughout their lifecycle, ensuring quality, security, and compliance.
+  - Integration: Services may have to integrate with legacy systems and applications, requiring adapters and bridges.
+- SOA can be implemented using different technologies and frameworks, such as:
+  - Web services: Services that use web standards and protocols, such as SOAP, WSDL, and UDDI, to expose and consume functionality over the internet.
+  - RESTful services: Services that use HTTP methods and URIs to provide a uniform and stateless interface for accessing resources.
+  - Microservices: Services that are small, autonomous, and loosely coupled, and communicate with each other using lightweight protocols, such as HTTP or messaging.
+- A possible mnemonic to remember the benefits of SOA is RISA: Reusability, Interoperability, Scalability, and Agility.
+- A possible mnemonic to remember the challenges of SOA is CGI: Complexity, Governance, and Integration.

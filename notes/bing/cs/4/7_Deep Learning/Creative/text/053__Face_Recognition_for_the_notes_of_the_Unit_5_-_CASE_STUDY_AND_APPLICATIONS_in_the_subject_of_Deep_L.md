@@ -1,0 +1,27 @@
+### Face Recognition for the notes of the Unit 5 - CASE STUDY AND APPLICATIONS in the subject of Deep Learning
+
+- Face recognition is the task of identifying and verifying a person's identity based on their facial features.
+- Face recognition has many applications, such as security, biometrics, social media, entertainment, and healthcare.
+- Face recognition can be divided into two subtasks: face detection and face recognition.
+  - Face detection is the process of locating and extracting faces from an image or a video.
+  - Face recognition is the process of matching a face to a known identity or verifying if two faces belong to the same person.
+- Face recognition can be formulated as a classification or a verification problem.
+  - Classification is the task of assigning a face to one of the predefined classes (e.g., names of people).
+  - Verification is the task of determining if a pair of faces belong to the same person or not.
+- Face recognition can be performed using different types of features, such as geometric features, texture features, or deep features.
+  - Geometric features are based on the shape and location of facial landmarks, such as eyes, nose, mouth, etc.
+  - Texture features are based on the appearance and patterns of the facial regions, such as skin, hair, wrinkles, etc.
+  - Deep features are learned automatically from data using deep neural networks, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).
+- Face recognition can be influenced by various factors, such as pose, illumination, expression, occlusion, aging, etc.
+  - Pose refers to the orientation and angle of the face relative to the camera.
+  - Illumination refers to the lighting conditions and shadows on the face.
+  - Expression refers to the facial emotions and gestures, such as smiling, frowning, etc.
+  - Occlusion refers to the presence of objects or other faces that partially cover the face.
+  - Aging refers to the changes in the face over time, such as wrinkles, sagging, etc.
+- Face recognition can be improved by using various techniques, such as data augmentation, face alignment, face normalization, face embedding, face verification, and face recognition.
+  - Data augmentation is the process of generating more training data by applying transformations, such as cropping, flipping, rotating, scaling, etc., to the original images.
+  - Face alignment is the process of aligning the faces to a common coordinate system, such as by detecting and aligning the facial landmarks.
+  - Face normalization is the process of standardizing the faces to reduce the effects of pose, illumination, expression, etc., such as by applying geometric or photometric transformations.
+  - Face embedding is the process of mapping the faces to a low-dimensional feature space, such as by using a deep neural network, where the distance between the features reflects the similarity between the faces.
+  - Face verification is the process of comparing a pair of face features and outputting a similarity score or a binary decision, such as by using a threshold or a classifier.
+  - Face recognition is the process of identifying or verifying a face based on the face features and the face database, such as by using a nearest neighbor or a softmax classifier.

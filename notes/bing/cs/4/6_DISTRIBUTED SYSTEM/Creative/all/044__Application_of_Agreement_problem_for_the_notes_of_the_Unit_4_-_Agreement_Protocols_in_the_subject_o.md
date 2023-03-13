@@ -1,0 +1,23 @@
+### Application of Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement problem is a fundamental problem in distributed systems, where a set of processes need to reach a common decision based on their individual inputs or preferences .
+- Agreement problem has many variants, such as consensus, atomic commitment, atomic broadcast, group membership, etc. Each variant has different requirements and assumptions about the system model, such as synchrony, communication reliability, fault tolerance, etc .
+- Agreement problem is essential for many applications in distributed systems, such as:
+  - Coordination and synchronization of concurrent activities.
+  - Replication and consistency of data or state across multiple nodes .
+  - Fault detection and recovery .
+  - Distributed transactions and commit protocols .
+  - Distributed snapshots and checkpoints.
+  - Distributed leader election and mutual exclusion .
+  - Distributed voting and decision making .
+- Agreement problem is challenging to solve in distributed systems, especially in the presence of faults, asynchrony, or malicious behavior . Some of the difficulties are:
+  - Network delays, message losses, or partitions can prevent processes from communicating or receiving timely information .
+  - Process crashes, failures, or restarts can cause inconsistency or unavailability of data or state .
+  - Byzantine faults, where processes can behave arbitrarily or maliciously, can compromise the integrity or validity of the agreement .
+  - The FLP impossibility result, which proves that no deterministic algorithm can guarantee consensus in an asynchronous system with even one faulty process .
+- Agreement problem can be solved by using various algorithms or protocols, depending on the system model and the problem variant . Some of the common techniques are:
+  - Message passing and voting, where processes exchange messages and vote on their inputs or preferences to reach a majority or unanimous decision .
+  - Quorum systems, where processes form subsets or quorums that have enough overlap or intersection to ensure consistency or availability of data or state .
+  - Paxos and Raft, which are consensus algorithms that use a leader-based approach to propose and accept values among a majority of processes .
+  - Byzantine fault tolerance (BFT) algorithms, which use cryptographic techniques and message authentication to tolerate Byzantine faults and reach agreement among a supermajority of processes .
+  - Blockchain and proof-of-work, which are consensus mechanisms that use a distributed ledger and a cryptographic puzzle to reach agreement among a network of nodes .

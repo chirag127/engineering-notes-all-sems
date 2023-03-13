@@ -1,0 +1,29 @@
+### REST and Systems of Systems for Cloud Computing
+
+- REST stands for REpresentational State Transfer, which is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other .
+- REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server .
+- RESTful systems allow requesting systems to access and manipulate web resources by using a uniform and predefined set of rules. The interaction in REST-based systems happens through the Internet’s Hypertext Transfer Protocol (HTTP) .
+- RESTful systems use HTTP methods such as GET, POST, PUT, DELETE, etc. to perform operations on the web resources . The web resources are identified by Uniform Resource Identifiers (URIs) or Uniform Resource Locators (URLs) .
+- RESTful systems use a common data format, such as JSON or XML, to exchange information between the client and the server . The data format is specified by the Content-Type header in the HTTP request or response .
+- RESTful systems follow some architectural constraints, such as:
+  - Client-server: The client and the server are independent and can evolve separately .
+  - Stateless: The server does not store any information about the client’s state or session .
+  - Cacheable: The server can indicate whether the response can be cached by the client or intermediate proxies .
+  - Uniform interface: The client and the server communicate through a standardized interface that defines the resources, methods, formats, and identifiers .
+  - Layered system: The system can be composed of multiple layers that are transparent to the client .
+  - Code on demand (optional): The server can send executable code to the client to extend its functionality .
+- RESTful systems are widely used for developing web services and applications that can scale, perform, and be reliable on the web . They can also support the growing Internet of Things (IoT) industry by enabling interoperability and integration of heterogeneous devices and systems.
+- Systems of systems (SoS) are large-scale systems that consist of multiple independent and autonomous systems that collaborate to achieve a common goal .
+- SoS are characterized by some properties, such as:
+  - Operational independence: The constituent systems can operate independently and have their own purposes .
+  - Managerial independence: The constituent systems are managed and controlled by different authorities or stakeholders .
+  - Evolutionary development: The SoS evolves over time as new systems are added, removed, or modified .
+  - Emergent behavior: The SoS exhibits behavior that is not predictable or controllable by the behavior of the constituent systems .
+  - Geographic distribution: The constituent systems are geographically dispersed and communicate through networks .
+- SoS are relevant for cloud computing because they can provide solutions for complex and dynamic problems that require coordination and collaboration of multiple cloud services and resources .
+- SoS can leverage the advantages of cloud computing, such as scalability, elasticity, availability, and cost-effectiveness, to enhance the performance and reliability of the SoS .
+- SoS can also face some challenges in cloud computing, such as security, privacy, interoperability, governance, and quality of service .
+- Some examples of SoS in cloud computing are:
+  - Smart cities: SoS that integrate various urban systems, such as transportation, energy, health, and environment, to improve the quality of life and sustainability of the city .
+  - Disaster management: SoS that coordinate the efforts of different agencies, such as emergency, rescue, and relief, to respond to natural or man-made disasters .
+  - Healthcare: SoS that connect various healthcare systems, such as hospitals, clinics, and pharmacies, to provide

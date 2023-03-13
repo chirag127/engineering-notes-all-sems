@@ -1,0 +1,13 @@
+### Natural Language Processing Word2Vec
+
+- Natural language processing (NLP) is a branch of artificial intelligence that deals with the interaction between computers and humans using natural language.
+- Word2Vec is a technique for creating vector representations of words, also known as word embeddings, that capture the semantic and syntactic similarities and relationships between words.
+- Word2Vec is based on the idea that words that occur in similar contexts tend to have similar meanings. For example, the words "cat" and "dog" are likely to appear in similar sentences, and therefore have similar vector representations.
+- Word2Vec uses a neural network model to learn the vector representations of words from a large corpus of text. The model can be either a continuous bag-of-words (CBOW) model or a skip-gram model.
+- In the CBOW model, the network predicts the current word given the surrounding words as input. For example, given the sentence "The cat chased the mouse", the network would try to predict the word "cat" given the words "The", "chased", and "the mouse".
+- In the skip-gram model, the network predicts the surrounding words given the current word as input. For example, given the word "cat", the network would try to predict the words "The", "chased", and "the mouse".
+- The network consists of an input layer, a hidden layer, and an output layer. The input layer and the output layer have the same size as the vocabulary of the corpus, and the hidden layer has a smaller size that determines the dimensionality of the word vectors.
+- The network is trained using stochastic gradient descent and backpropagation. The objective function is to maximize the log-likelihood of the predicted words given the input words.
+- The word vectors are obtained from the weights of the hidden layer after the network is trained. The word vectors can be used for various NLP tasks, such as word similarity, word analogy, text classification, sentiment analysis, etc.
+- Word2Vec can capture both linear and non-linear relationships between words. For example, the word vector for "king" minus the word vector for "man" plus the word vector for "woman" is close to the word vector for "queen".
+- Word2Vec can also capture the polysemy of words, that is, the ability of words to have multiple meanings depending on the context. For example, the word "bank" can mean a financial institution or the edge of a river, and the word vector for "bank" can be different depending on the surrounding words.

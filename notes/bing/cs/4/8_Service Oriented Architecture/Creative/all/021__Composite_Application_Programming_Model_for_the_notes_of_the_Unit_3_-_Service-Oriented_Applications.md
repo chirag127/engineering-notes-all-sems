@@ -1,0 +1,21 @@
+### Composite Application Programming Model for the notes of the Unit 3 - Service-Oriented Applications in the subject of Service Oriented Architecture
+
+- A composite application is an application that consists of functionality drawn from several different sources, such as existing applications, web services, or components.
+- A composite application programming model is a way of designing and developing composite applications using a component-based approach .
+- A component is a unit of software that provides a well-defined functionality and can be reused in different contexts.
+- A component-based approach aims to reduce the complexity and cost of software development by enabling the reuse of existing components and the assembly of new applications from them.
+- A composite application programming model typically involves the following aspects  :
+  - A component model that defines the structure, behavior, and interfaces of components, as well as the mechanisms for creating, deploying, and managing them.
+  - A composition model that defines how components can be assembled to form composite applications, as well as the mechanisms for specifying, configuring, and binding them.
+  - A communication model that defines how components can interact with each other and with external services, as well as the mechanisms for supporting different communication paradigms, such as synchronous, asynchronous, or event-driven.
+  - A runtime environment that provides the infrastructure and services for executing and managing composite applications, such as security, transaction, concurrency, or fault tolerance.
+- An example of a composite application programming model is the Service Component Architecture (SCA) , which is a set of specifications that describe how service components can be assembled to form composites, and how they can communicate using different protocols and technologies.
+- Some advantages of using a composite application programming model are  :
+  - It enables the development of flexible and adaptable applications that can leverage existing functionality and data from different sources, and can be easily modified or extended to meet changing requirements.
+  - It promotes the separation of concerns and the modularity of software, which improves the maintainability, testability, and reusability of components and applications.
+  - It facilitates the interoperability and integration of heterogeneous systems and platforms, which reduces the dependency and coupling between components and applications.
+  - It supports the scalability and performance of applications, which can benefit from the parallelism and distribution of components and services.
+- Some disadvantages of using a composite application programming model are :
+  - It introduces additional complexity and overhead in the design and development of components and applications, which requires more skills and tools from the developers and the users.
+  - It poses challenges in the quality assurance and management of components and applications, which involves dealing with issues such as compatibility, consistency, reliability, or security.
+  - It requires a trade-off between the benefits of reuse and the costs of adaptation, which depends on the availability, suitability, and quality of the existing components and services.

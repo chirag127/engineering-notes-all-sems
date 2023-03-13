@@ -1,0 +1,30 @@
+### Need for Models
+
+- Models are simplified representations of reality that help us to understand, communicate, and design complex systems.
+- Models can be used for different purposes, such as:
+  - Analysis: to identify and specify the requirements and constraints of a system.
+  - Design: to define and document the structure and behavior of a system.
+  - Implementation: to generate and test the code and configuration of a system.
+  - Deployment: to plan and execute the installation and operation of a system.
+  - Maintenance: to monitor and improve the performance and quality of a system.
+- Models can be expressed in different forms, such as:
+  - Textual: using natural or formal languages, such as English or XML.
+  - Graphical: using diagrams, symbols, and notations, such as UML or BPMN.
+  - Mathematical: using equations, formulas, and algorithms, such as Petri nets or Markov chains.
+  - Physical: using prototypes, mockups, and simulations, such as 3D printing or virtual reality.
+- Models can be classified into different types, such as:
+  - Conceptual: describing the essential concepts and relationships of a system, such as entities, attributes, and associations.
+  - Logical: describing the functional and behavioral aspects of a system, such as processes, services, and events.
+  - Physical: describing the technical and operational aspects of a system, such as components, interfaces, and protocols.
+  - View: describing a specific perspective or aspect of a system, such as user, developer, or manager.
+- Models can be related to each other in different ways, such as:
+  - Refinement: adding more details and precision to a model, such as from conceptual to logical to physical.
+  - Abstraction: removing irrelevant or redundant details from a model, such as from physical to logical to conceptual.
+  - Transformation: changing the form or notation of a model, such as from textual to graphical or from UML to XML.
+  - Alignment: ensuring the consistency and compatibility of different models, such as between analysis and design or between design and implementation.
+- Models are essential for service-oriented analysis and design, because:
+  - Services are complex systems that involve multiple stakeholders, domains, and technologies.
+  - Services need to be analyzed and designed from different perspectives, such as business, functional, and technical.
+  - Services need to be specified and documented in a clear, concise, and standardized way, such as using service contracts and policies.
+  - Services need to be implemented and deployed in a flexible, interoperable, and scalable way, such as using service-oriented platforms and architectures.
+  - Services need to be maintained and improved in a continuous, adaptive, and collaborative way, such as using service-oriented governance and management.

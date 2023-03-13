@@ -1,0 +1,9 @@
+### Highly Available Services
+
+- A highly available service is one that can tolerate failures and continue to provide its functionality to clients with minimal disruption.
+- Replication is a common technique to achieve high availability, by creating and maintaining multiple copies of the same data or service across different nodes in a distributed system.
+- Replication can improve availability, performance, fault tolerance, and scalability of a service, but also introduces challenges such as consistency, concurrency, and coordination among replicas.
+- There are different types of replication, such as passive replication, active replication, and hybrid replication, depending on how the replicas are updated and synchronized.
+- Passive replication, also known as primary-backup replication, involves a single primary replica that receives and executes all requests from clients, and one or more backup replicas that receive updates from the primary and are ready to take over in case of a failure.
+- Active replication, also known as state machine replication, involves multiple replicas that receive and execute the same requests from clients in the same order, and produce the same results. This requires a consensus protocol to ensure agreement among replicas on the order of requests.
+- Hybrid replication, also known as quorum-based replication, involves multiple replicas that receive requests from clients, but only a subset of them (a quorum) need to execute and acknowledge the requests. This reduces the communication and synchronization overhead, but also increases the complexity of managing quorums and resolving conflicts.

@@ -1,0 +1,12 @@
+### Neural networks as universal function approximators for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+- A neural network is a computational model that consists of interconnected units called neurons that can process information and learn from data.
+- A neural network can be seen as a function approximator, which means that it can learn to map inputs to outputs by adjusting its parameters (weights and biases) based on the training data.
+- A universal function approximator is a function that can approximate any other function arbitrarily well, given enough parameters and data.
+- The universal approximation theorem states that a feed-forward neural network with a single hidden layer and a finite number of neurons can approximate any continuous function on a compact subset of the input space, under mild assumptions on the activation function .
+- The activation function is a nonlinear function that determines the output of a neuron based on its input. Some common activation functions are sigmoid, tanh, ReLU, etc.
+- The universal approximation theorem does not specify how many neurons are needed, how to choose the activation function, or how to train the network. It only guarantees the existence of a network that can approximate the target function.
+- The universal approximation theorem also does not imply that a single hidden layer network is optimal or efficient for function approximation. In practice, deeper networks with multiple hidden layers can achieve better performance and generalization with fewer parameters and data.
+- A graphical proof of the universal approximation theorem can be found here. It shows how a neural network can approximate a function by using the activation function as a kernel and adding more neurons to increase the expressive power of the network.
+- A neural network can also be seen as a piecewise interpolation method, where each neuron defines a piece of the function and the network combines them to form the overall approximation.
+- Neural networks are powerful function approximators that can learn complex and nonlinear patterns from data. They can be applied to various domains such as computer vision, natural language processing, speech recognition, etc.

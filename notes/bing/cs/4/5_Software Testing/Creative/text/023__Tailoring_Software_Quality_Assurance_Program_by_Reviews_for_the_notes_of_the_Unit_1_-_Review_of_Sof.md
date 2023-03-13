@@ -1,0 +1,26 @@
+### Tailoring Software Quality Assurance Program by Reviews
+
+- Software quality assurance (SQA) is the process of ensuring that software products meet the specified requirements and standards of quality, reliability, usability, and security.
+- SQA involves various activities such as planning, monitoring, controlling, auditing, and reviewing the software development and maintenance processes and products.
+- SQA can be tailored to suit the specific needs and characteristics of each software project, depending on factors such as size, complexity, domain, methodology, and stakeholder expectations.
+- One of the ways to tailor SQA is by using reviews, which are formal or informal evaluations of software artifacts (such as requirements, design, code, test cases, etc.) by a group of people (such as peers, managers, customers, etc.).
+- Reviews can help to identify and correct defects, improve quality, reduce costs, and enhance communication and collaboration among the project team and stakeholders.
+- Reviews can be classified into different types, such as inspections, walkthroughs, audits, technical reviews, and code reviews, depending on the purpose, scope, format, and rigor of the evaluation.
+- Reviews can be conducted at various stages of the software development life cycle (SDLC), such as requirements analysis, design, coding, testing, and deployment, to ensure that the software artifacts are consistent, complete, correct, and compliant with the standards and specifications.
+- Reviews can be integrated into the SQA plan, which is a document that describes the objectives, scope, roles, responsibilities, activities, methods, tools, and metrics of the SQA process for a software project.
+- Reviews can be tailored to the SQA plan by considering the following aspects:
+  - The objectives and scope of the review, such as the type of software artifact, the quality attributes, the criteria, and the expected outcomes of the evaluation.
+  - The roles and responsibilities of the review participants, such as the moderator, the author, the reviewers, the recorder, and the observer, and their qualifications, skills, and experience.
+  - The review process, such as the preparation, execution, reporting, and follow-up phases, and the tasks, techniques, and tools involved in each phase.
+  - The review metrics, such as the number, type, severity, and origin of defects, the effort, time, and cost of the review, the defect detection rate, the defect removal efficiency, and the customer satisfaction.
+  - The review schedule, such as the frequency, duration, and timing of the review sessions, and the dependencies and constraints of the review activities.
+  - The review documentation, such as the review plan, checklist, agenda, report, action items, and feedback forms, and the format, content, and distribution of the documents.
+- Reviews can be tailored to the SQA plan by following some guidelines, such as:
+  - Aligning the review objectives and scope with the project goals and requirements, and the stakeholder expectations and needs.
+  - Selecting the appropriate type and level of review for each software artifact, based on the complexity, criticality, and maturity of the artifact, and the available resources and time.
+  - Defining the review roles and responsibilities clearly, and assigning them to the qualified and experienced people, and providing them with adequate training and guidance.
+  - Establishing the review process and procedures, and adhering to them consistently and systematically, and using the suitable techniques and tools to support the review activities.
+  - Collecting and analyzing the review metrics, and using them to monitor and control the review performance, and to identify and implement the improvement opportunities.
+  - Planning and conducting the review sessions effectively and efficiently, and ensuring the participation, communication, and collaboration of the review team and stakeholders.
+  - Documenting and reporting the review results and outcomes, and ensuring the transparency, traceability, and accountability of the review process and products.
+  - Following up on the review action items, and verifying and validating the resolution of the defects and issues, and providing and receiving the feedback on the review process and products.

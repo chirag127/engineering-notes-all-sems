@@ -1,0 +1,12 @@
+### Quantum Computation
+
+- Quantum computation is a model of computation that uses quantum mechanical phenomena, such as superposition and entanglement, to perform operations on data.
+- Quantum computation is different from classical computation in several aspects, such as:
+  - Quantum computation uses quantum bits (qubits) instead of classical bits as the basic unit of information. A qubit can be in a superposition of two states, denoted by |0> and |1>, which means it can be both 0 and 1 at the same time with some probability amplitude. A classical bit can only be either 0 or 1.
+  - Quantum computation can exploit quantum parallelism, which means it can perform multiple computations simultaneously on different superpositions of qubits. A classical computation can only perform one computation at a time on a single bit string.
+  - Quantum computation can utilize quantum entanglement, which means two or more qubits can share a quantum state and influence each other even when they are physically separated. A classical computation cannot create or manipulate such correlations between bits.
+  - Quantum computation is subject to quantum uncertainty and measurement, which means the outcome of a quantum operation or measurement is not deterministic, but probabilistic. A classical computation is deterministic and predictable.
+- Quantum computation can potentially solve some problems faster or more efficiently than classical computation, such as factoring large numbers, searching unsorted databases, simulating quantum systems, and cryptography. However, quantum computation also faces some challenges and limitations, such as:
+  - Quantum computation requires physical devices that can create and manipulate qubits with high fidelity and coherence, which means they can preserve their quantum state and avoid decoherence or noise from the environment. Such devices are difficult to build and scale up in practice.
+  - Quantum computation is not universal, which means it cannot solve all problems that classical computation can solve. Some problems are inherently hard or impossible for quantum computation, such as the halting problem, the P versus NP problem, and the quantum Church-Turing thesis.
+  - Quantum computation is not error-free, which means it can produce incorrect or inconsistent results due to quantum uncertainty, measurement, or noise. Quantum computation needs error correction and fault tolerance techniques to overcome these errors, which can increase the complexity and resource requirements of quantum algorithms and devices.

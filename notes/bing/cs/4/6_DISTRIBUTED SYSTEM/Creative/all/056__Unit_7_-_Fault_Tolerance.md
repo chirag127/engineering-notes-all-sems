@@ -1,0 +1,25 @@
+## Unit 7 - Fault Tolerance
+
+- Fault tolerance is the property that enables a system to continue operating properly in the event of the failure of one or more faults within some of its components  .
+- Fault tolerance aims to prevent disruptions arising from a single point of failure, ensuring the high availability and business continuity of the system .
+- Fault tolerance can be achieved by using various techniques, such as redundancy, replication, backup, recovery, error detection, error correction, fault masking, fault isolation, fault prevention, fault forecasting, etc  .
+- Some examples of fault-tolerant systems are:
+  - RAID (Redundant Array of Independent Disks): a data storage technology that uses multiple disks to provide redundancy and improve performance  .
+  - N+1 redundancy: a design principle that ensures that a system has one more component than the minimum required to function, so that if one component fails, the system can still operate  .
+  - Distributed systems: systems that consist of multiple nodes that communicate and coordinate with each other to achieve a common goal, such as cloud computing, peer-to-peer networks, blockchain, etc  .
+  - Fault-tolerant software: software that can detect, recover, and resume from errors, such as exception handling, checkpointing, rollback, retry, etc  .
+- Some advantages of fault tolerance are:
+  - Increased reliability and availability of the system  .
+  - Reduced downtime and maintenance costs  .
+  - Enhanced performance and scalability  .
+  - Improved customer satisfaction and trust  .
+- Some disadvantages of fault tolerance are:
+  - Increased complexity and overhead of the system  .
+  - Higher initial investment and operational costs  .
+  - Potential trade-offs between consistency, availability, and partition tolerance  .
+- Some mnemonics and learning tricks for fault tolerance are:
+  - RAID: Remember All Important Disks  .
+  - N+1 redundancy: Never (have) One (less) Redundant (component)  .
+  - Distributed systems: Divide and Conquer (the tasks)  .
+  - Fault-tolerant software: Expect the Unexpected (errors)  .
+  - CAP theorem: Consistency, Availability, Partition tolerance - Pick Two  .

@@ -1,0 +1,31 @@
+### Causal ordering of messages for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Causal ordering of messages is one of the four semantics of multicast communication namely unordered, totally ordered, causal, and sync-ordered communication.
+- Multicast communication methods vary according to the message’s reliability guarantee and ordering guarantee.
+- The causal ordering of messages describes the causal relationship between a set of messages in a distributed system.
+- Causal message ordering is a partial ordering of messages in a distributed computing environment .
+- It places a restriction on communication between processes by requiring that if the transmission of message mi to process pk necessarily preceded the transmission of message mj to the same process, then the delivery of these messages to that process must be ordered such that mi is delivered before mj.
+- Causal ordering of messages is not automatically guaranteed in distributed systems.
+- Reasons that may lead to violation of causal ordering of messages are:
+  - Transmission delay.
+  - Congestion in the network.
+  - Clock skew.
+- Causal ordering of messages can be achieved by using algorithms that assign logical timestamps to messages and use them to order the messages according to their causal dependencies .
+- Some examples of algorithms for causal message ordering are:
+  - Vector clocks .
+  - Matrix clocks.
+  - Interval clocks.
+  - Logical clocks.
+- Advantages of causal message ordering are:
+  - It preserves the natural ordering of events that occur in a distributed system.
+  - It allows processes to reason about causality in a distributed system without relying on a single global time.
+  - It reduces the complexity of distributed algorithms that depend on causal relationships.
+- Disadvantages of causal message ordering are:
+  - It requires additional overhead for maintaining and exchanging logical timestamps .
+  - It may not reflect the actual physical ordering of messages in some cases.
+  - It may not be sufficient for some applications that require stronger ordering guarantees.
+- Some applications of causal message ordering are:
+  - Distributed debugging.
+  - Distributed databases.
+  - Distributed shared memory.
+  - Distributed social networks.

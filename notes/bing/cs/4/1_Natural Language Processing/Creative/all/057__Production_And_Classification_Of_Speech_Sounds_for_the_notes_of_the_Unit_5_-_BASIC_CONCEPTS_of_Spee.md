@@ -1,0 +1,17 @@
+### Production And Classification Of Speech Sounds for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+
+- Speech sounds are the basic units of human communication. They are produced by the coordinated movement of various speech organs, such as the lungs, larynx, velum, tongue, lips, etc.
+- The production of a speech sound involves four main processes :
+  - Initiation: the generation of an air stream, usually by the lungs, that provides the energy for speech production.
+  - Phonation: the vibration of the vocal folds in the larynx, which creates voiced or voiceless sounds.
+  - Oro-nasal process: the direction of the air stream into either the oral cavity or the nasal cavity by the movement of the velum, which affects the resonance of the sound.
+  - Articulation: the shaping of the air stream by the tongue and other articulators in the oral cavity, which creates different speech sounds.
+- Speech sounds can be classified into two broad categories: vowels and consonants .
+  - Vowels are speech sounds that are produced with no obstruction or narrowing of the air stream in the vocal tract, resulting in a smooth and continuous sound. Vowels are usually voiced, meaning that the vocal folds vibrate during their production. Vowels are mainly characterized by the height, backness, and roundness of the tongue, and the length and tenseness of the sound.
+  - Consonants are speech sounds that are produced with some degree of obstruction or narrowing of the air stream in the vocal tract, resulting in a turbulent or interrupted sound. Consonants can be voiced or voiceless, depending on whether the vocal folds vibrate or not during their production. Consonants are mainly characterized by the place, manner, and voicing of the articulation, and the presence or absence of secondary articulations, such as aspiration, palatalization, etc.
+- Speech sounds can be represented by symbols that indicate their phonetic features. The most widely used system of symbols is the International Phonetic Alphabet (IPA), which provides a standardized and universal way of transcribing speech sounds. The IPA symbols are enclosed in square brackets [ ] to indicate that they are phonetic transcriptions, not orthographic representations of words.
+- Speech sounds can also be analyzed in terms of their phonological features, which are abstract and distinctive properties that distinguish one sound from another in a given language. Phonological features are usually binary, meaning that they have two possible values: plus (+) or minus (-). For example, the feature [voice] can be either [+voice] or [-voice], depending on whether the sound is voiced or voiceless. Phonological features are enclosed in slashes / / to indicate that they are phonemic transcriptions, not phonetic transcriptions.
+
+- A mnemonic to remember the four main processes of speech production is **IPOA**: Initiation, Phonation, Oro-nasal process, and Articulation.
+- A mnemonic to remember the main characteristics of vowels is **HBR LT**: Height, Backness, Roundness, Length, and Tenseness.
+- A mnemonic to remember the main characteristics of consonants is **PMV SA**: Place, Manner, Voicing, and Secondary Articulations.

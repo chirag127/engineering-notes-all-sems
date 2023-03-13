@@ -1,0 +1,11 @@
+### Error for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- An error is a mistake made in the code or the design of a software system that causes it to produce incorrect or unexpected results .
+- Errors can occur at any stage of the software development process, from the initial requirements analysis to the final testing and deployment .
+- Errors can be classified into different types, such as syntax errors, logic errors, runtime errors, and semantic errors .
+- Syntax errors are errors that violate the rules of the programming language, such as missing a semicolon or a bracket. They are usually detected by the compiler or the interpreter and prevent the program from running .
+- Logic errors are errors that cause the program to behave differently from what the developer intended, such as using the wrong variable or operator. They are usually harder to detect and debug than syntax errors, as they do not produce any error messages but only incorrect outputs .
+- Runtime errors are errors that occur during the execution of the program, such as division by zero, memory overflow, or invalid input. They are usually caused by external factors or unexpected situations that the program cannot handle. They may cause the program to crash or terminate abnormally .
+- Semantic errors are errors that violate the meaning or the logic of the problem domain, such as using the wrong formula or algorithm. They are usually the most difficult to detect and correct, as they require a deep understanding of the problem and the solution. They may cause the program to produce incorrect or misleading results .
+- Errors can be prevented or reduced by applying various software engineering principles and practices, such as following coding standards, using modular design, performing code reviews, testing, debugging, and documenting the software system  .
+- Errors can be measured and analyzed by using various software quality metrics and techniques, such as defect density, defect severity, defect removal efficiency, fault tolerance, reliability, and availability  .

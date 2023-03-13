@@ -1,0 +1,31 @@
+### Prioritization guidelines for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting the modified parts of a software system and ensuring that no new defects have been introduced due to the changes.
+- Regression testing is important because it helps to maintain the quality and reliability of the software system after changes are made.
+- Regression testing can be costly and time-consuming, especially for large and complex software systems. Therefore, it is necessary to prioritize the test cases that are most relevant and effective for regression testing.
+- Prioritization of test cases for regression testing can be done based on various criteria, such as:
+  - Risk: Test cases that cover the most critical and high-risk functionalities of the system should be prioritized for regression testing.
+  - Coverage: Test cases that cover the most code, requirements, or features of the system should be prioritized for regression testing.
+  - Fault-proneness: Test cases that target the most fault-prone or frequently changed parts of the system should be prioritized for regression testing.
+  - Cost-benefit: Test cases that have the highest benefit (such as detecting defects or increasing confidence) and the lowest cost (such as execution time or resources) should be prioritized for regression testing.
+  - History: Test cases that have detected defects or failures in the past should be prioritized for regression testing.
+  - Feedback: Test cases that provide the most useful feedback or information to the developers or stakeholders should be prioritized for regression testing.
+- Prioritization of test cases for regression testing can be done using various techniques, such as:
+  - Expert opinion: Test cases can be prioritized based on the judgment and experience of the testers, developers, or domain experts.
+  - Test case metrics: Test cases can be prioritized based on quantitative measures, such as code coverage, requirement coverage, fault detection rate, execution time, etc.
+  - Test case dependency: Test cases can be prioritized based on their logical or temporal relationships, such as preconditions, postconditions, sequences, etc.
+  - Test case clustering: Test cases can be prioritized based on their similarity or dissimilarity, such as functionality, category, type, etc.
+  - Test case ranking: Test cases can be prioritized based on their relative importance or priority, such as high, medium, low, etc.
+- Prioritization of test cases for regression testing can be done at various levels, such as:
+  - Test suite level: The entire test suite can be prioritized based on the overall objectives and constraints of the regression testing.
+  - Test case level: Each test case can be prioritized based on its individual characteristics and criteria.
+  - Test step level: Each test step can be prioritized based on its contribution and impact on the test case outcome.
+- Prioritization of test cases for regression testing can be done at various stages, such as:
+  - Before regression testing: Test cases can be prioritized before the regression testing starts, based on the available information and predictions.
+  - During regression testing: Test cases can be prioritized during the regression testing, based on the dynamic feedback and results.
+  - After regression testing: Test cases can be prioritized after the regression testing, based on the analysis and evaluation of the outcomes.
+
+- A possible mnemonic to remember the criteria for prioritization of test cases for regression testing is **RCFCFH** (Risk, Coverage, Fault-proneness, Cost-benefit, History, Feedback).
+- A possible mnemonic to remember the techniques for prioritization of test cases for regression testing is **EMDRC** (Expert opinion, Metrics, Dependency, Clustering, Ranking).
+- A possible mnemonic to remember the levels for prioritization of test cases for regression testing is **TST** (Test suite, Test case, Test step).
+- A possible mnemonic to remember the stages for prioritization of test cases for regression testing is **BDA** (Before, During, After).

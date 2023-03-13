@@ -1,0 +1,13 @@
+### Considerations for Service-oriented Applications for the notes of the Unit 3 - Service-Oriented Applications in the subject of Service Oriented Architecture
+
+- Service-oriented applications are applications that are composed of loosely-coupled services that communicate over a network using a common language  .
+- Service-oriented applications aim to achieve high reusability, interoperability, scalability, and agility by following the principles of service-orientation  .
+- Some of the considerations for designing and developing service-oriented applications are :
+  - The business value is more important than the technical strategy. The service-oriented applications should align with the business goals and deliver value to the stakeholders.
+  - The strategic goals are more important than benefits related to specific projects. The service-oriented applications should support the long-term vision and roadmap of the organization and not be limited by short-term objectives.
+  - Basic interoperability is more important than custom integration. The service-oriented applications should use standard protocols, formats, and data models to ensure compatibility and avoid unnecessary complexity and overhead.
+  - Shared services are more important than implementations with a specific purpose. The service-oriented applications should leverage the existing services in the service inventory and avoid duplication and redundancy. The services should be designed to be agnostic and reusable across different contexts and domains.
+  - Continued improvement is more important than immediate perfection. The service-oriented applications should be flexible and adaptable to changing requirements and environments. The services should be continuously monitored, evaluated, and improved to ensure quality and performance.
+
+- A mnemonic to remember these considerations is **BASIC** (Business value, Alignment with strategic goals, Standard interoperability, Inventory of shared services, Continuous improvement).
+- An example of a service-oriented application is a travel booking system that uses services from different providers (such as airlines, hotels, car rentals, etc.) to offer a comprehensive and customized solution to the customers. The system can reuse the existing services, integrate them using standard protocols and formats, and adapt to the changing needs and preferences of the customers.

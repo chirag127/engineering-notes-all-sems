@@ -1,0 +1,13 @@
+## Unit 7 - Fault Tolerance
+
+- Fault tolerance is the ability of a system to continue functioning correctly in the presence of failures.
+- Fault tolerance can be achieved by using techniques such as redundancy, replication, recovery, and reconfiguration.
+- Redundancy is the provision of extra components or resources that can take over the function of a failed component or resource.
+- Replication is the creation of multiple copies of data or services that can be accessed in case of a failure.
+- Recovery is the process of restoring a system to a consistent and correct state after a failure.
+- Reconfiguration is the process of changing the structure or parameters of a system to adapt to a failure or a changing environment.
+- Fault tolerance can be classified into two types: passive and active.
+- Passive fault tolerance relies on redundancy to mask failures, without requiring any intervention or detection of failures.
+- Active fault tolerance relies on replication, recovery, and reconfiguration to cope with failures, requiring the detection and diagnosis of failures and the coordination of actions.
+- Fault tolerance can be applied at different levels of a system, such as hardware, software, network, and application.
+- Fault tolerance can improve the reliability, availability, and performance of a system, but it also introduces complexity, overhead, and trade-offs.

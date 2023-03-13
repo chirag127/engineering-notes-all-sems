@@ -1,0 +1,10 @@
+### Timestamp ordering for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- Timestamp ordering is a technique to ensure **serializability** of transactions in a distributed system, that is, to execute them in an order that is equivalent to some sequential execution.
+- Timestamp ordering assigns a unique **logical timestamp** to each transaction, based on a **logical clock** function that reflects the causal order of events in the system.
+- Timestamp ordering uses the timestamps to determine the **precedence** of transactions, and to resolve **conflicts** between concurrent transactions that access the same data item.
+- Timestamp ordering can be implemented in two ways: **basic timestamp ordering** and **Thomas' write rule**.
+- Basic timestamp ordering requires that a transaction **reads** the most recent version of a data item that was written by a transaction with a **smaller** timestamp, and **writes** a new version of a data item only if it has a **larger** timestamp than the previous version.
+- Thomas' write rule allows a transaction to **write** a new version of a data item even if it has a **smaller** timestamp than the previous version, but the new version is **ignored** by other transactions, and eventually **overwritten** by a later version.
+- Timestamp ordering ensures serializability, but it may not ensure **recoverability** or **cascadelessness**, which are properties that prevent transactions from reading or committing uncommitted data. To ensure these properties, additional mechanisms such as **commit timestamps** or **validation** are needed.
+- Timestamp ordering is an **optimistic** concurrency control technique, which assumes that conflicts are rare and does not use **locks** or **blocking**. This reduces the overhead and the possibility of **deadlocks**, but it may also increase the **abort rate** of transactions.

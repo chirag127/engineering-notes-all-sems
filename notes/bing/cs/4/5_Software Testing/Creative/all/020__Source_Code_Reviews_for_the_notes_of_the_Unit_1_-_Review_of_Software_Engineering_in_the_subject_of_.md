@@ -1,0 +1,31 @@
+### Source Code Reviews for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Source code reviews are systematic examinations of software source code, intended to find bugs and to estimate the code quality.
+- Source code reviews are a part of the software quality assurance process, which involves testing the source code to identify errors, vulnerabilities, and compliance issues at an early stage.
+- Source code reviews can be performed manually by a team of developers or testers, or by using an automated code review tool that can scan the code for common issues and provide feedback .
+- Source code reviews have many benefits, such as:
+  - Improving code quality and readability by enforcing coding standards and best practices .
+  - Detecting logical errors, performance issues, security flaws, and potential bugs before they cause problems in production .
+  - Enhancing team collaboration and knowledge sharing by allowing peers to review each other's work and provide constructive feedback .
+  - Reducing development costs and time by preventing rework and fixing issues early in the development cycle .
+  - Increasing customer satisfaction and trust by delivering reliable and secure software products.
+- Source code reviews have some challenges, such as:
+  - Requiring time and resources to conduct and follow up on the reviews .
+  - Depending on the skill and experience of the reviewers and the tools used .
+  - Potentially causing conflicts and disagreements among team members if the feedback is not respectful and constructive .
+  - Being influenced by personal biases and preferences of the reviewers .
+- Source code reviews can be conducted using different methods, such as:
+  - Formal inspections: A structured and rigorous process that involves a team of reviewers, a moderator, an author, and a recorder. The reviewers inspect the code in advance and prepare a list of issues to be discussed in a meeting. The moderator leads the meeting and ensures that the issues are resolved. The recorder documents the findings and the actions taken .
+  - Informal reviews: A less formal and more flexible process that involves one or more reviewers who examine the code and provide feedback to the author. The feedback can be given verbally, in writing, or through a tool. The author decides how to address the feedback .
+  - Pair programming: A collaborative technique that involves two developers working together on the same code. One developer writes the code while the other reviews it in real time and provides suggestions. The roles can be switched periodically. Pair programming can improve code quality, productivity, and learning .
+  - Tool-assisted reviews: A process that involves using an automated code review tool that can scan the code for common issues, such as syntax errors, code smells, security vulnerabilities, and code style violations. The tool can provide feedback, suggestions, and metrics to the author and the reviewers. The tool can also integrate with other tools, such as version control systems, issue trackers, and code editors .
+- Source code reviews can be evaluated using different criteria, such as:
+  - Code coverage: The percentage of the code that has been reviewed by the reviewers or the tool .
+  - Defect density: The number of defects found per unit of code (e.g., per line, per function, per file) .
+  - Defect severity: The impact of the defects on the functionality, performance, security, and usability of the software .
+  - Review effort: The amount of time and resources spent on conducting and following up on the reviews .
+  - Review effectiveness: The ratio of the defects found by the reviews to the total defects in the code .
+  - Review efficiency: The ratio of the defects found by the reviews to the review effort .
+- Source code reviews can be improved by following some best practices, such as:
+  - Defining clear and consistent goals, scope, and standards for the reviews .
+  - Choosing the appropriate method and tool for the reviews based on the project size, complexity

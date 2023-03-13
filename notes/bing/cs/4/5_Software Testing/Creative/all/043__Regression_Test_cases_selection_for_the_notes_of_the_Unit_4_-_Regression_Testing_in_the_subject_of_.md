@@ -1,0 +1,29 @@
+### Regression Test cases selection for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting the modified parts of the software and ensuring that no new errors have been introduced due to the changes.
+- Regression test cases are the test cases that are selected to be executed as part of the regression testing.
+- Regression test cases selection is the process of choosing the most appropriate and effective test cases from the test suite for the regression testing.
+- Regression test cases selection is important because it can reduce the cost and time of regression testing by avoiding unnecessary or redundant test cases.
+- Regression test cases selection can be done using different criteria, such as:
+  - **Coverage-based selection**: selecting test cases that cover the modified code or functionality, or the code or functionality that is affected by the changes.
+  - **Fault-based selection**: selecting test cases that have detected faults in the previous versions of the software, or the test cases that are likely to detect new faults due to the changes.
+  - **Priority-based selection**: selecting test cases based on their priority or importance, such as the test cases that test the critical or frequently used features of the software.
+  - **History-based selection**: selecting test cases based on their historical data, such as the test cases that have failed or passed in the previous regression testing cycles, or the test cases that have high or low execution time or cost.
+  - **Minimization-based selection**: selecting test cases that minimize the size of the test suite while maximizing the coverage or fault detection capability of the test suite.
+- Regression test cases selection can be done using different techniques, such as:
+  - **Manual selection**: selecting test cases manually by the testers or developers based on their experience, knowledge, or intuition.
+  - **Automated selection**: selecting test cases automatically by using tools or algorithms that apply the criteria or techniques mentioned above.
+  - **Hybrid selection**: selecting test cases by combining manual and automated selection techniques, such as using automated tools to generate a subset of test cases and then manually selecting the final test cases from the subset.
+- Regression test cases selection can be done at different levels of testing, such as:
+  - **Unit testing**: selecting test cases that test the individual units or components of the software that have been modified or affected by the changes.
+  - **Integration testing**: selecting test cases that test the interactions or interfaces between the units or components of the software that have been modified or affected by the changes.
+  - **System testing**: selecting test cases that test the whole system or software that has been modified or affected by the changes.
+  - **Acceptance testing**: selecting test cases that test the acceptance criteria or requirements of the software that have been modified or affected by the changes.
+- Regression test cases selection can be done using different strategies, such as:
+  - **Retest-all strategy**: selecting all the test cases from the test suite for the regression testing, regardless of the changes or modifications in the software.
+  - **Regression test selection strategy**: selecting only a subset of test cases from the test suite for the regression testing, based on the changes or modifications in the software.
+  - **Test case prioritization strategy**: selecting test cases from the test suite for the regression testing in a certain order, based on their priority or importance, such as the test cases that have higher coverage, fault detection, or execution time.
+- Regression test cases selection can be done using different types of test cases, such as:
+  - **Functional test cases**: selecting test cases that test the functionality or behavior of the software that has been modified or affected by the changes.
+  - **Non-functional test cases**: selecting test cases that test the non-functional aspects or attributes of the software that have been modified or affected by the changes, such as performance, usability, security, reliability, etc.
+  - **Regression test cases**: selecting test cases that are specifically designed or written for the regression testing, such as the test cases that test the regression faults or defects that have been fixed or resolved in the previous versions of the software.

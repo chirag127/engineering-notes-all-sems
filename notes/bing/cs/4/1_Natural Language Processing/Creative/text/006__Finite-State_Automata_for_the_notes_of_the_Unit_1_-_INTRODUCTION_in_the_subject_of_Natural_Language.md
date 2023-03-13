@@ -1,0 +1,9 @@
+### Finite-State Automata
+
+- A finite-state automaton (FSA) is a mathematical model of computation that can perform simple tasks such as pattern recognition, text processing, and natural language processing.
+- An FSA consists of a finite set of states, a finite set of input symbols, a transition function that maps each state and input symbol to a next state, a start state, and a set of final or accepting states.
+- An FSA can be represented by a state diagram, which is a directed graph where the nodes are the states and the edges are labeled by the input symbols. The start state is marked by an arrow and the final states are marked by double circles.
+- An FSA can be either deterministic (DFA) or nondeterministic (NFA). A DFA has exactly one transition for each state and input symbol, while an NFA can have zero, one, or more transitions for each state and input symbol. An NFA can also have epsilon transitions, which are transitions that do not consume any input symbol.
+- An FSA accepts an input string if there is a sequence of transitions from the start state to a final state that matches the input string. A DFA can be simulated by a single pointer that moves along the state diagram according to the input symbols. An NFA can be simulated by a set of pointers that can branch or merge according to the transitions.
+- An FSA can be defined formally by a 5-tuple (Q, Sigma, delta, q0, F), where Q is the set of states, Sigma is the set of input symbols, delta is the transition function, q0 is the start state, and F is the set of final states.
+- An FSA can be used to model various natural language phenomena, such as morphology, syntax, and phonology. For example, an FSA can be used to recognize the inflectional forms of a verb, the syntactic structure of a sentence, or the phonological rules of a language.

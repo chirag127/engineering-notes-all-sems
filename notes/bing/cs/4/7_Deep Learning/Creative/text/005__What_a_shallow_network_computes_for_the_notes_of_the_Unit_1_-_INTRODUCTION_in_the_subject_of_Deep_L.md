@@ -1,0 +1,12 @@
+### What a shallow network computes
+
+- A shallow network is a neural network that has only one hidden layer between the input and the output layers.
+- A shallow network can be seen as a function that maps an input vector **x** to an output vector **y** by applying a series of linear and nonlinear transformations.
+- The output of the hidden layer is given by **h = f(Wx + b)**, where **W** is a weight matrix, **b** is a bias vector, and **f** is an activation function that introduces nonlinearity.
+- The output of the network is given by **y = g(Vh + c)**, where **V** is another weight matrix, **c** is another bias vector, and **g** is another activation function that may or may not be different from **f**.
+- A shallow network can compute a variety of functions, depending on the choice of the activation functions and the values of the parameters **W, b, V, c**.
+- A shallow network can approximate any continuous function on a compact domain to any desired degree of accuracy, if it has enough hidden units and the activation function is sufficiently expressive. This is known as the universal approximation theorem.
+- A shallow network can also learn to classify data into different categories, by using a suitable output activation function (such as softmax) and a loss function (such as cross-entropy) that measures the discrepancy between the predicted and the true labels.
+- A shallow network can be trained by using gradient-based optimization methods, such as stochastic gradient descent (SGD), that update the parameters in the direction of reducing the loss function on a given set of training examples.
+- A shallow network can be visualized by plotting the decision boundaries that separate the different classes in the input space, or by projecting the hidden layer activations onto a lower-dimensional space using techniques such as principal component analysis (PCA) or t-distributed stochastic neighbor embedding (t-SNE).
+- A shallow network can be extended to a deep network by adding more hidden layers, which can increase the expressive power and the generalization ability of the network, but also introduce new challenges such as vanishing or exploding gradients, overfitting, and optimization difficulties.

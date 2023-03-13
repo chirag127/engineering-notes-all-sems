@@ -1,0 +1,27 @@
+### Usability Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Usability testing is a method of testing the functionality of a web application by observing real users as they attempt to complete tasks on it.
+- The purpose of usability testing is to check the user-friendliness of the web application's interface and to ensure that users can navigate the website efficiently, with clear, simple instructions and fewer obstacles .
+- Usability testing involves the following steps:
+  - Develop a testing strategy that ensures all functions of your application will be examined. These include navigation and content.
+  - Recruit test participants, either internally or externally.
+  - Run the test under the observation of experts.
+  - Analyze the results and improve your application accordingly.
+- Usability testing can be done in different ways, such as:
+  - Remote usability testing: where users test the web application from their own location, using their own devices and internet connection.
+  - Moderated usability testing: where users test the web application while being guided by a moderator who can ask questions and provide feedback.
+  - Unmoderated usability testing: where users test the web application without any interaction with a moderator or researcher.
+  - Think-aloud usability testing: where users verbalize their thoughts and actions while testing the web application.
+  - Eye-tracking usability testing: where users' eye movements are recorded and analyzed while testing the web application.
+- Usability testing can provide many benefits, such as:
+  - Identifying and fixing usability issues and errors before launching the web application to the public.
+  - Improving user satisfaction and retention by providing a positive user experience.
+  - Increasing conversion rates and revenue by making the web application easy to use and appealing to the target audience.
+  - Reducing development and maintenance costs by avoiding rework and redesign.
+  - Enhancing the reputation and credibility of the web application and the business behind it.
+- Usability testing is not the same as:
+  - User acceptance testing: where users test the web application to verify that it meets their requirements and expectations.
+  - User experience testing: where users test the web application to evaluate its overall quality and value, including aspects such as aesthetics, emotions, and attitudes.
+  - Accessibility testing: where users test the web application to ensure that it is accessible and usable by people with disabilities or special needs.
+- A possible mnemonic to remember the steps of usability testing is: **D.R.R.A** (Develop, Recruit, Run, Analyze).
+- A possible learning trick to remember the benefits of usability testing is: **I.I.R.R.E** (Identify, Improve, Increase, Reduce, Enhance).

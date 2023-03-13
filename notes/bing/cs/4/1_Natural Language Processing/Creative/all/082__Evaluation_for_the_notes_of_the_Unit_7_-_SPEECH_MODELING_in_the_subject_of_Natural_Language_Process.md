@@ -1,0 +1,13 @@
+### Evaluation for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+
+- Speech modeling is the process of creating mathematical representations of speech signals and linguistic units, such as words, phrases, and sentences, for various natural language processing (NLP) tasks, such as speech recognition, speech synthesis, speech translation, and speech understanding.
+- Evaluation methods for speech modeling are techniques to measure the quality, accuracy, and naturalness of the speech models and their outputs, such as synthesized speech or recognized text.
+- Some of the common evaluation methods for speech modeling are:
+
+  - **Mean Opinion Score (MOS)**: This is a subjective method that involves human listeners who rate the quality of the speech output on a scale from 1 (bad) to 5 (excellent). MOS is often used to evaluate the naturalness and intelligibility of speech synthesis systems.
+  - **Word Error Rate (WER)**: This is an objective method that compares the recognized text output of a speech recognition system with a reference text, and calculates the percentage of words that are incorrectly inserted, deleted, or substituted. WER is often used to evaluate the accuracy of speech recognition systems.
+  - **Perplexity**: This is an objective method that measures how well a speech model predicts the next word in a sequence, based on the probability distribution of the model. Perplexity is often used to evaluate the quality and coherence of speech synthesis and speech translation systems.
+  - **BLEU (Bilingual Evaluation Understudy)**: This is an objective method that compares the translated text output of a speech translation system with one or more reference translations, and calculates the percentage of n-grams (sequences of n words) that match. BLEU is often used to evaluate the accuracy and fluency of speech translation systems.
+  - **ROUGE (Recall-Oriented Understudy for Gisting Evaluation)**: This is an objective method that compares the summarized text output of a speech summarization system with one or more reference summaries, and calculates the percentage of n-grams, word sequences, or word pairs that match. ROUGE is often used to evaluate the informativeness and conciseness of speech summarization systems.
+
+- A mnemonic to remember these evaluation methods is **MWPBR** (pronounced as "mwpber"), which stands for **M**ean **O**pinion **S**core, **W**ord **E**rror **R**ate, **P**erplexity, **B**LEU, and **R**OUGE.

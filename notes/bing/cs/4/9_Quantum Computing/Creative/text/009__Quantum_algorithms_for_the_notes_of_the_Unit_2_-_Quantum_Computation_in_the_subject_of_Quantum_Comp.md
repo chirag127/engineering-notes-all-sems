@@ -1,0 +1,12 @@
+### Quantum algorithms
+
+Quantum algorithms are algorithms that run on quantum computers, which use the principles of quantum mechanics to manipulate information. Quantum computers have the potential to solve some problems faster or more efficiently than classical computers, by exploiting quantum phenomena such as superposition, entanglement and interference.
+
+Some of the main techniques or ideas that are used in quantum algorithms are:
+
+- **Phase kick-back**: This is a technique where the phase of a qubit is transferred to another qubit through a controlled operation. This can be used to implement quantum logic gates, such as the Toffoli gate or the controlled-NOT gate.
+- **Phase estimation**: This is a technique where the eigenvalue of a unitary operator is estimated by applying it to an eigenstate and measuring the phase of the resulting state. This can be used to find the period of a function, such as in Shor's algorithm for factoring integers.
+- **Quantum Fourier transform**: This is a quantum version of the discrete Fourier transform, which maps a set of complex numbers to another set of complex numbers in a different basis. This can be used to perform frequency analysis, such as in Grover's algorithm for searching unsorted databases.
+- **Quantum walks**: These are quantum versions of random walks, which are processes where a particle moves randomly on a graph or a lattice. These can be used to explore the structure of the graph or lattice, such as in the quantum algorithm for the graph isomorphism problem.
+- **Amplitude amplification**: This is a technique where the amplitude of a desired state is increased by applying a sequence of operations that invert the amplitude of the undesired states. This can be used to improve the success probability of a quantum algorithm, such as in Grover's algorithm or the quantum algorithm for the collision problem.
+- **Topological quantum field theory**: This is a branch of mathematics that studies quantum systems that are invariant under continuous deformations of space and time. These can be used to design quantum algorithms that are robust against noise and errors, such as in the quantum algorithm for the Jones polynomial.

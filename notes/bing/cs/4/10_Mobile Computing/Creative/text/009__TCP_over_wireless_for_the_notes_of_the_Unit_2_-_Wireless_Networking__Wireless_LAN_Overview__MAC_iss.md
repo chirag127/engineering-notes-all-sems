@@ -1,0 +1,11 @@
+### TCP over wireless
+
+- Transmission Control Protocol (TCP) is a reliable and connection-oriented protocol that provides end-to-end data delivery over the Internet.
+- TCP assumes that most packet losses are due to network congestion and responds by reducing the sending rate to avoid further losses.
+- However, in wireless networks, packet losses can occur more frequently due to unreliable wireless links, such as fading, shadowing, interference, and mobility.
+- TCP cannot distinguish between congestion losses and wireless losses and may unnecessarily reduce the sending rate, resulting in poor performance and low throughput.
+- Therefore, TCP needs to be adapted or enhanced to cope with the characteristics and challenges of wireless networks, such as high delays, high error rates, and frequent handoffs.
+- Several mechanisms have been proposed to improve the performance of TCP over wireless networks, such as:
+  - Split-connection: The TCP connection is divided into two segments, one over the wired network and one over the wireless network. The base station acts as a proxy that buffers the packets and retransmits them in case of wireless losses. This way, TCP can avoid congestion control over the wireless link and maintain end-to-end semantics. However, this mechanism requires modifications at the base station and may introduce additional delays and overheads.
+  - Link layer protocols: The link layer protocols provide local error recovery and retransmission over the wireless link, without involving the TCP sender. This way, TCP can avoid unnecessary timeouts and retransmissions and improve the throughput. However, this mechanism may cause conflicts with TCP's end-to-end reliability and congestion control and may introduce duplicate acknowledgments and spurious retransmissions.
+  - TCP-aware schemes: The TCP-aware schemes modify the TCP sender or receiver to make them aware of the wireless link conditions and losses. For example, the sender can use explicit feedback from the receiver or the network to adjust the sending rate and the congestion window. The receiver can use selective acknowledgments or delayed acknowledgments to reduce the number of duplicate acknowledgments and avoid triggering fast retransmit. However, this mechanism may require changes in the TCP protocol and may not be compatible with existing TCP implementations.
