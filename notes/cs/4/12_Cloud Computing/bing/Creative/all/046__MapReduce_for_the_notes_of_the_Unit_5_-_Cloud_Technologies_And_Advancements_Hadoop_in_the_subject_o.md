@@ -1,0 +1,13 @@
+### MapReduce for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+
+- MapReduce is a programming model for large-scale data processing in a distributed and parallel manner using clusters of commodity servers  .
+- MapReduce consists of two phases: map and reduce. The map phase takes a set of data and converts it into another set of data, where individual elements are broken down into key-value pairs. The reduce phase takes the output from the map phase as input and combines those key-value pairs into a smaller set of key-value pairs.
+- MapReduce is the core component of Apache Hadoop, an open source framework for storing and processing big data using the Hadoop Distributed File System (HDFS) and Yet Another Resource Negotiator (YARN).
+- MapReduce offers several benefits for big data analysis, such as:
+  - Scalability: MapReduce can process petabytes of data across hundreds or thousands of servers in a Hadoop cluster.
+  - Flexibility: MapReduce can access and process multiple types and sources of data without requiring predefined schemas.
+  - Speed: MapReduce can perform fast processing of large datasets by using parallel algorithms and minimizing data movement.
+  - Simplicity: MapReduce can be written in various languages, such as Java, Python, C++, and Ruby, and run on Hadoop using simple programming models .
+- An example of MapReduce is finding the maximum temperature for each city across multiple data files, where each file contains two columns: city and temperature. The map phase would read each file and output the maximum temperature for each city as a key-value pair, such as (Toronto, 20). The reduce phase would take the output from all the map tasks and combine them into a final result set, such as (Toronto, 32).
+- A possible mnemonic for remembering the steps of MapReduce is: **M**ap data into key-value pairs, **R**educe key-value pairs into smaller sets, **H**adoop runs MapReduce on clusters.
+- A possible learning trick for understanding MapReduce is to use an analogy, such as the census example given by IBM. Imagine that the census bureau wants to count the population of each city in the empire. They would dispatch their people to each city and ask them to report the population as a key-value pair, such as (Rome, 1000000). Then, they would collect the reports from all the cities and aggregate them into a final result set, such as (Total, 50000000). This is similar to how MapReduce works on Hadoop.

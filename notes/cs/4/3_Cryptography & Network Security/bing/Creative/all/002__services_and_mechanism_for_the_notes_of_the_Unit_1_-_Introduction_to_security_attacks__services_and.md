@@ -1,0 +1,34 @@
+### Services and mechanism for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security
+
+- Security attacks are any actions that compromise the security of information owned by an organization.
+- Security mechanisms are designed to detect, prevent or recover from a security attack.
+- Security services are intended to counter security attacks and they make use of one or more security mechanisms to provide the service.
+- Security services can be classified into five categories and fourteen specific services according to the X.800 standard:
+  - Authentication: The assurance that the communicating entity is the one that it claims to be.
+    - Peer entity authentication: Used in association with a logical connection to provide confidence in the identity of the entities connected.
+    - Data origin authentication: In a connectionless transfer, provides assurance that the source of received data is as claimed.
+  - Access control: The prevention of unauthorized use of a resource.
+  - Data confidentiality: The protection of data from unauthorized disclosure.
+    - Connection confidentiality: The protection of all user data on a connection.
+    - Connectionless confidentiality: The protection of all user data in a single data block.
+    - Selective-field confidentiality: The confidentiality of selected fields within the user data on a connection or in a single data block.
+    - Traffic flow confidentiality: The protection of the information that might be derived from observation of traffic flows.
+  - Data integrity: The assurance that data has not been altered or destroyed in an unauthorized manner.
+    - Connection integrity with recovery: Provides for the integrity of all user data on a connection and detects any modification, insertion, deletion, or replay of any data within an entire data sequence, with recovery attempted.
+    - Connection integrity without recovery: As above, but provides only detection without recovery.
+    - Connectionless integrity: Provides for the integrity of a single data block.
+    - Selective-field connection integrity: Provides for the integrity of selected fields within the user data of a data block transferred over a connection and takes the form of determination of whether the selected fields have been modified, inserted, deleted, or replayed.
+  - Non-repudiation: Provides protection against denial by one of the entities involved in a communication of having participated in all or part of the communication.
+    - Non-repudiation, origin: Proof that the message was sent by the specified party.
+    - Non-repudiation, destination: Proof that the message was received by the specified party.
+- Security mechanisms can be classified into two categories:
+  - Specific security mechanisms: Mechanisms that are designed to provide one or more security services, such as encryption, digital signatures, hash functions, etc.
+  - Pervasive security mechanisms: Mechanisms that are not specific to any particular security service or protocol, but apply to more than one service or protocol, such as security labels, event detection, security audit trails, security recovery, etc.
+- A model for network security consists of four basic tasks:
+  - Design a security algorithm: A mathematical procedure for performing encryption on data. The algorithm should be strong enough to withstand cryptanalysis.
+  - Generate the secret information: The secret information, or key, used by the algorithm to transform the data into a cipher. The key should be random and unpredictable.
+  - Develop methods for the distribution and sharing of the secret information: The key should be securely transmitted and stored by the communicating parties, and should not be disclosed to unauthorized entities.
+  - Specify a protocol: A set of rules or procedures for using the algorithm and the key to achieve a particular security service, such as authentication, confidentiality, integrity, etc.
+- Classical encryption techniques are based on two basic building blocks: substitution and transposition.
+  - Substitution ciphers: Replace each element of the plaintext (such as a letter, a bit, a group of bits, etc.) with another element, according to a predefined mapping or function. For example, the Caesar cipher shifts each letter of the alphabet by a fixed number of positions.
+  - Transposition ciphers: Rearrange the order of the elements of the plaintext, according to a predefined permutation or function. For example, a rail fence cipher writes the plaintext in a zigzag pattern on a number of rails

@@ -1,0 +1,9 @@
+### What a shallow network computes
+
+- A shallow network is a neural network that has only one hidden layer between the input and the output layers.
+- A shallow network can be seen as a function that maps an input vector **x** to an output vector **y** by applying a series of linear and nonlinear transformations.
+- The output of the hidden layer is given by **h = f(Wx + b)**, where **W** is a weight matrix, **b** is a bias vector, and **f** is an activation function that introduces nonlinearity, such as sigmoid, tanh, or ReLU.
+- The output of the network is given by **y = g(Vh + c)**, where **V** is another weight matrix, **c** is another bias vector, and **g** is another activation function, which can be the same or different from **f**.
+- A shallow network can compute a variety of functions, depending on the choice of the parameters **W, b, V, c** and the activation functions **f, g**. For example, a shallow network can approximate any continuous function on a compact domain, if the hidden layer has enough units and the activation function is sufficiently smooth (universal approximation theorem).
+- A shallow network can also learn to classify data into different categories, by using a suitable output activation function, such as softmax, and a loss function, such as cross-entropy, that measures the discrepancy between the predicted and the true labels.
+- A shallow network can be trained by using gradient-based optimization methods, such as stochastic gradient descent (SGD), that update the parameters in the direction of reducing the loss function on a given dataset. The gradient of the loss function with respect to the parameters can be computed efficiently by using the backpropagation algorithm, which applies the chain rule of calculus to propagate the errors from the output layer to the hidden layer and then to the input layer.

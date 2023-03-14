@@ -1,0 +1,13 @@
+### Highly available services for the notes of the Unit 10 - Replication in the subject of DISTRIBUTED SYSTEM
+
+- Highly available services are those that can provide continuous and reliable functionality to the users, even in the presence of failures or network partitions.
+- Replication is a technique for achieving high availability by maintaining multiple copies of the same data or service on different nodes in a distributed system.
+- Replication can improve performance, fault tolerance, and availability, but also introduces challenges such as consistency, concurrency control, and recovery.
+- There are different types of replication, depending on the degree of consistency and ordering of operations among the replicas. Some examples are :
+  - Synchronous replication: The replicas are updated atomically and consistently, and the operations are totally ordered. This ensures strong consistency, but also increases latency and reduces availability.
+  - Asynchronous replication: The replicas are updated independently and eventually, and the operations are not ordered. This ensures high availability and low latency, but also allows temporary inconsistencies and conflicts.
+  - Causal replication: The replicas are updated in a way that preserves the causal order of operations, which is the partial order induced by the potential causality relation. This ensures causal consistency, which is weaker than strong consistency but stronger than eventual consistency, and allows some concurrency and availability.
+- Replication can be implemented at different levels of abstraction, such as data, service, or process replication . Some examples are:
+  - Data replication: The replicas store the same data, such as files or database records, and the operations are read or write requests. The replication protocol ensures that the replicas are consistent and coherent, and handles concurrency control and recovery.
+  - Service replication: The replicas provide the same service, such as mail or bulletin boards, and the operations are service requests or responses. The replication protocol ensures that the replicas are functionally equivalent and reliable, and handles communication and coordination.
+  - Process replication: The replicas execute the same process, such as a distributed algorithm or a group communication protocol, and the operations are messages or events. The replication protocol ensures that the replicas are in the same state and correct, and handles fault detection and recovery.

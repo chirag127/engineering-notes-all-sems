@@ -1,0 +1,29 @@
+### Conceptual Model of SOA
+
+- Service-oriented architecture (SOA) is a software development model that allows services to communicate across different platforms and languages to form applications.
+- A service is a self-contained unit of software designed to complete a specific task.
+- Service-oriented architecture allows various services to communicate using a loose coupling system to either pass data or coordinate an activity.
+- Loose coupling refers to a client of a service remaining independent of the service it requires.
+- SOA benefits organizations by creating interoperability between apps and services, ensuring existing applications can be easily scaled, and reducing costs related to the development of business service solutions.
+- SOA is an integration architectural style and an enterprise-wide concept.
+- SOA enables existing applications to be exposed over loosely-coupled interfaces, each corresponding to a business function, that enables applications in one part of an extended enterprise to reuse functionality in other applications.
+- SOA is based on some defining concepts:
+  - The business value is more important than the technical strategy.
+  - The strategic goals are more important than benefits related to specific projects.
+  - Basic interoperability is more important than custom integration.
+  - Shared services are more important than implementations with a specific purpose.
+  - Continued improvement is more important than immediate perfection.
+- SOA has three major objectives:
+  - To provide a suitable service description and discovery mechanism to enable the dynamic binding of services at runtime.
+  - To provide a standard protocol for service invocation and communication, such as SOAP or REST.
+  - To provide a service composition and orchestration mechanism to enable the creation of complex business processes from simpler services, such as BPEL or BPMN.
+- A conceptual model of SOA can be represented by UML , which consists of entities and their relationships, such as:
+  - Service: a software component that provides a specific functionality and can be invoked by a service consumer.
+  - Service consumer: a software component that requests and uses the functionality of a service.
+  - Service provider: a software component that hosts and exposes a service to service consumers.
+  - Service contract: a specification of the interface, behavior, quality, and policies of a service.
+  - Service registry: a repository of service contracts that can be queried and updated by service providers and consumers.
+  - Service bus: a middleware layer that facilitates the communication and integration of services across different platforms and protocols.
+  - Service composition: a process that combines multiple services to achieve a higher-level functionality or goal.
+  - Service orchestration: a process that coordinates the execution and interaction of services in a service composition.
+  - Service choreography: a process that defines the global behavior and collaboration of services in a service composition without a central coordinator.

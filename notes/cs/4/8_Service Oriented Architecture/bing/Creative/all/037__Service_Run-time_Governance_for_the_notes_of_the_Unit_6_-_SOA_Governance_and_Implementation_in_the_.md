@@ -1,0 +1,21 @@
+### Service Run-time Governance for the notes of the Unit 6 - SOA Governance and Implementation in the subject of Service Oriented Architecture
+
+- Service run-time governance is the process of managing and enforcing the policies and contracts that govern the interactions between service providers and consumers in a service-oriented architecture (SOA) .
+- Service run-time governance aims to improve the effectiveness, reliability, security, and performance of the shared services that facilitate flexibility and agility in a SOA .
+- Service run-time governance involves the following aspects :
+  - Monitoring and controlling the service network, which includes the service endpoints, the service bus, the service registry, and the service intermediaries.
+  - Managing the service contracts, which define the functional and non-functional requirements and expectations of the service providers and consumers.
+  - Enforcing the service policies, which specify the rules and constraints that apply to the service interactions, such as security, quality of service, and compliance.
+  - Measuring and reporting the service metrics, which provide information about the service usage, performance, availability, and quality.
+- Service run-time governance requires the use of technology tools and platforms that support the following functions  :
+  - Service discovery and registration, which enable the service providers to publish their service metadata and the service consumers to find and bind to the appropriate services.
+  - Service mediation and transformation, which enable the service intermediaries to adapt and modify the service messages and protocols according to the service contracts and policies.
+  - Service monitoring and auditing, which enable the collection and analysis of the service metrics and the detection and resolution of service faults and errors.
+  - Service security and authorization, which enable the authentication and verification of the service identities and the enforcement of the service access rights and privileges.
+  - Service level management and optimization, which enable the definition and monitoring of the service level agreements and the adjustment and improvement of the service quality and performance.
+- Service run-time governance benefits the SOA initiative by  :
+  - Increasing the visibility and transparency of the service network and its behavior and performance.
+  - Enhancing the reliability and availability of the service interactions and reducing the service failures and downtime.
+  - Improving the security and compliance of the service interactions and reducing the service risks and vulnerabilities.
+  - Promoting the reuse and interoperability of the services and reducing the service duplication and inconsistency.
+  - Supporting the change and evolution of the services and reducing the service disruption and impact.

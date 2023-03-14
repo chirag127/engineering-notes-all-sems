@@ -1,0 +1,26 @@
+### City Automation for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- City automation is the use of Internet of Things (IoT) devices, edge computing, machine learning, artificial intelligence (AI), and 5G communications networks to improve the efficiency, sustainability, and quality of life in urban areas.
+- City automation can be applied to various domains, such as transportation, energy, water, waste management, public safety, health, education, and tourism.
+- Some examples of city automation are:
+  - Connected traffic lights that receive data from sensors and cars and adjust the light cadence and timing to respond to real-time traffic, reducing road congestion.
+  - Connected cars that communicate with parking meters and electric vehicle (EV) charging docks and direct drivers to the nearest available spot.
+  - Smart garbage cans that automatically send data to waste management companies and schedule pick-up as needed versus a pre-planned schedule.
+  - Citizens’ smartphones that become their mobile driver’s license and ID card with digital credentials, which speed and simplify access to the city and local government services.
+  - Sensors that monitor water quality, air quality, noise levels, and other environmental parameters and alert authorities and citizens of any anomalies or hazards.
+  - Smart street lights that dim or brighten based on the presence of pedestrians, cyclists, or vehicles, saving energy and enhancing safety.
+  - Smart stadiums, theme parks, and resorts that use IoT devices to provide personalized experiences, optimize operations, and ensure security for visitors.
+- Some benefits of city automation are:
+  - Reduced costs and improved efficiency of city services and infrastructure.
+  - Increased sustainability and reduced environmental impact of urban activities.
+  - Enhanced public safety and security through real-time monitoring and response.
+  - Improved quality of life and well-being for citizens and visitors through better access, convenience, and comfort.
+  - Increased economic competitiveness and innovation through data-driven decision making and policy making.
+- Some challenges of city automation are:
+  - High initial investment and maintenance costs of IoT devices and networks.
+  - Lack of interoperability and standardization among different IoT platforms and vendors.
+  - Privacy and security risks of collecting, storing, and sharing large amounts of personal and sensitive data.
+  - Ethical and social issues of ensuring fairness, transparency, and accountability of IoT systems and algorithms.
+  - Regulatory and legal barriers of implementing IoT solutions across different jurisdictions and sectors.
+- A possible mnemonic to remember the domains of city automation is: TEWPS HAT (Transportation, Energy, Water, Waste management, Public safety, Health, Education, Tourism).
+- A possible learning trick to remember the benefits of city automation is: RICE (Reduced costs, Increased sustainability, Enhanced safety, Improved quality of life).

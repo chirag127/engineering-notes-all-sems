@@ -1,0 +1,37 @@
+### Virtual Box for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+
+- Virtual Box is a software that allows you to create and run virtual machines on your computer. You can install different operating systems and applications on these virtual machines and use them as if they were real computers.
+- Virtual Box can be used to create a virtual cluster of computers that can run Hadoop, a framework for distributed processing of large datasets across clusters of computers using the MapReduce algorithm.
+- Hadoop is an open source project that consists of several components, such as:
+  - Hadoop Core, which provides the distributed file system (HDFS) and the MapReduce engine.
+  - HBase, which provides a scalable, distributed database that runs on top of HDFS.
+  - Pig, which provides a high-level language for data analysis using MapReduce.
+  - Hive, which provides a data warehouse system for querying and analyzing large datasets stored in HDFS using a SQL-like language.
+  - Spark, which provides a fast and general engine for large-scale data processing, supporting both batch and streaming applications.
+  - ZooKeeper, which provides a service for coordinating and managing distributed systems.
+- To run Hadoop on Virtual Box, you need to follow these steps:
+  - Download and install Virtual Box on your computer.
+  - Download and install a Linux operating system (such as Ubuntu) on a virtual machine using Virtual Box.
+  - Configure the network settings of the virtual machine to enable communication between the host and the guest systems.
+  - Install Java and SSH on the virtual machine.
+  - Download and install Hadoop on the virtual machine.
+  - Configure Hadoop to run in either single-node or multi-node mode, depending on the number of virtual machines you want to use as nodes in the cluster.
+  - Start Hadoop and run some sample applications to test its functionality.
+- Some advantages of using Virtual Box for running Hadoop are:
+  - You can create and manage multiple virtual machines with different configurations and operating systems easily and quickly.
+  - You can save the state of the virtual machines and resume them later, without losing any data or settings.
+  - You can experiment with different versions and settings of Hadoop without affecting your real system or data.
+  - You can learn and practice Hadoop skills without investing in expensive hardware or cloud services.
+- Some disadvantages of using Virtual Box for running Hadoop are:
+  - The performance of the virtual machines may be lower than the real machines, depending on the resources allocated to them and the host system.
+  - The network communication between the virtual machines may be slower or less reliable than the real network, depending on the network settings and the host system.
+  - The virtual machines may not be able to access some devices or services that are available on the real system, such as GPUs or external storage.
+  - The virtual machines may not be able to run some applications or features that are specific to certain operating systems or platforms, such as Windows or Mac OS.
+- Some mnemonics and learning tricks for Virtual Box and Hadoop are:
+  - Virtual Box = Virtual Machines + Box (a container for the virtual machines)
+  - Hadoop = HDFS + MapReduce (the core components of the framework)
+  - HBase = Hadoop + Database (a database that runs on Hadoop)
+  - Pig = Data + Script (a scripting language for data analysis on Hadoop)
+  - Hive = Data + SQL (a SQL-like language for data analysis on Hadoop)
+  - Spark = Data + Speed (a fast engine for data processing on Hadoop)
+  - ZooKeeper = Zoo + Keeper (a service that keeps track of the distributed systems on Hadoop)

@@ -1,0 +1,26 @@
+### Language Modeling for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- Language modeling is the core component of modern Natural Language Processing (NLP).
+- It is a statistical tool that analyzes the pattern of human language for the prediction of words.
+- It is the task of assigning probabilities to sequences of words or symbols.
+- It is based on the assumption that the probability of a word depends on the previous words in the sequence.
+- It can be divided into two types: statistical language models and neural language models.
+- Statistical language models use n-grams, which are fixed-length sequences of words, to estimate the probabilities of words based on their frequency in a large corpus of text.
+- Neural language models use deep neural networks, such as recurrent neural networks (RNNs) or transformers, to learn the probabilities of words based on their context and semantic relationships.
+- Language models are used for a wide variety of language-related tasks, such as:
+  - Speech recognition: converting speech to text or text to speech.
+  - Machine translation: translating text from one language to another.
+  - Text summarization: generating a concise summary of a long text.
+  - Text generation: generating coherent and relevant text on a given topic.
+  - Question answering: finding the answer to a natural language question.
+  - Text classification: assigning a label or category to a text.
+  - Conversational agents: interacting with users using natural language.
+- Language models are evaluated using two metrics: perplexity and accuracy.
+  - Perplexity measures how well a language model predicts the next word in a sequence. It is the inverse of the average probability assigned to each word by the model. A lower perplexity means a better model.
+  - Accuracy measures how often a language model predicts the correct next word in a sequence. It is the percentage of words that match the actual words in the test data. A higher accuracy means a better model.
+- Some of the challenges and limitations of language models are:
+  - Data sparsity: the problem of encountering rare or unseen words or sequences in the test data that are not well represented in the training data.
+  - Out-of-vocabulary words: the problem of dealing with words that are not in the vocabulary of the model.
+  - Long-term dependencies: the problem of capturing the relevant information from distant words in a long sequence.
+  - Bias and fairness: the problem of ensuring that the language model does not reflect or amplify the biases or prejudices of the training data.
+  - Coherence and consistency: the problem of ensuring that the language model generates text that is logical and coherent, and does not contradict itself or the facts.

@@ -1,0 +1,23 @@
+### Trade/Supply Chain Finance for the Notes of the Unit 7 - Use Case 2 in the Subject of Block Chain Architecture Design
+
+- Trade/Supply Chain Finance (SCF) is the process of providing liquidity and risk mitigation to the parties involved in a supply chain transaction, such as buyers, sellers, intermediaries, and financiers.
+- SCF can include various methods and techniques, such as letters of credit, receivables purchase, accounts payable-centric finance, inventory finance, etc.
+- SCF is a vital component of international trade, as it enables the smooth flow of goods and services across borders and reduces the cost of capital and the risk of default.
+- However, SCF faces many challenges and inefficiencies in the current system, such as:
+  - Reliance on paper-based documentation, which increases the risk of fraud, errors, delays, and disputes .
+  - Fragmented and siloed processes, which limit the visibility and collaboration among the supply chain actors .
+  - Discordance of regulations and standards, which create barriers and complexities for cross-border transactions.
+  - High operational costs and administrative burdens, which reduce the profitability and accessibility of SCF products and services .
+- Blockchain technology has the potential to address these challenges and improve the SCF system, by providing the following benefits   :
+  - Transparency and traceability, which enable the supply chain actors to track the status and history of the transactions, verify the authenticity and quality of the goods, and share relevant information in a secure and timely manner .
+  - Speed and efficiency, which reduce the delays and errors caused by manual and paper-based processes, and automate the execution and settlement of the contracts using smart contracts .
+  - Consensus and trust, which facilitate the collaboration and coordination among the supply chain actors, and eliminate the need for intermediaries and third-party verification  .
+  - Cost reduction and revenue generation, which lower the operational and transactional costs, increase the availability and affordability of SCF products and services, and create new business opportunities and value propositions  .
+- Some of the use cases and examples of blockchain in SCF are  :
+  - Streamlining oil supply chain, which involves the tracking and financing of oil shipments from the source to the destination, and the verification and payment of taxes and fees.
+  - Digitizing trade finance, which involves the creation and exchange of digital trade documents, such as bills of lading, invoices, letters of credit, etc, and the provision of trade finance products, such as receivables financing, payables financing, etc .
+  - Enhancing inventory finance, which involves the monitoring and financing of the inventory levels and movements, and the optimization of the working capital and cash flow.
+  - Improving food safety and quality, which involves the tracing and verification of the origin, condition, and handling of the food products, and the prevention and detection of contamination and fraud .
+- A possible mnemonic to remember the benefits of blockchain in SCF is **TSCC** (Transparency, Speed, Consensus, Cost)   .
+- A possible learning trick to understand the concept of blockchain in SCF is to imagine a shared ledger that records and updates the transactions and events in a supply chain, and that is accessible and verifiable by all the supply chain actors, who can also execute and settle the contracts automatically using predefined rules   .
+- A possible ascii diagram to illustrate the

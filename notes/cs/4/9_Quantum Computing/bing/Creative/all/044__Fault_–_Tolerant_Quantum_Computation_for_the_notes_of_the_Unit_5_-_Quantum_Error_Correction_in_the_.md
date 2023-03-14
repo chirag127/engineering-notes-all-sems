@@ -1,0 +1,13 @@
+### Fault – Tolerant Quantum Computation for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Fault-tolerant quantum computation (FTQC) is the ability to perform reliable and scalable quantum computation in the presence of noise and errors .
+- FTQC requires the use of quantum error correction (QEC) schemes, which encode logical quantum information into physical qubits and allow for the detection and correction of errors without disturbing the encoded information  .
+- FTQC also requires the design of fault-tolerant quantum gates, which can implement logical operations on the encoded qubits without introducing additional errors or propagating existing errors .
+- FTQC is possible if the physical error rate per gate or per time step is below a certain threshold, which depends on the QEC scheme and the noise model . The threshold theorem states that the logical error rate can be suppressed to arbitrarily low levels by increasing the level of encoding and the number of physical qubits .
+- FTQC is essential for the realization of large-scale quantum computing and communication, as it enables the execution of long and complex quantum algorithms and protocols with high fidelity and security  .
+- FTQC can be achieved by various methods, such as using redundant quantum encoding, applying error detection and correction procedures, designing fault-tolerant quantum circuits, and exploiting topological or geometric properties of quantum systems  .
+
+#### Mnemonics and learning tricks
+
+- A possible mnemonic to remember the main components of FTQC is **QEC + FTQG = FTQC**, where QEC stands for quantum error correction, FTQG stands for fault-tolerant quantum gate, and FTQC stands for fault-tolerant quantum computation.
+- A possible learning trick to understand the threshold theorem is to imagine a bucket with a small hole at the bottom, which is filled with water at a constant rate. If the rate of water entering the bucket is lower than the rate of water leaking from the hole, the bucket will eventually become empty. However, if the rate of water entering the bucket is higher than the rate of water leaking from the hole, the bucket will eventually become full. Similarly, if the physical error rate is lower than the threshold, the logical error rate can be reduced to zero. However, if the physical error rate is higher than the threshold, the logical error rate will become unbounded.

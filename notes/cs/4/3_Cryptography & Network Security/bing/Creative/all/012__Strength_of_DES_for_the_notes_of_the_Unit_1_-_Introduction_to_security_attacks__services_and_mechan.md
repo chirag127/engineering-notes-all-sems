@@ -1,0 +1,10 @@
+### Strength of DES
+
+- Data Encryption Standard (DES) is a symmetric key block cipher algorithm that uses a 56-bit key to encrypt and decrypt data in 64-bit blocks .
+- The strength of DES depends on two factors: the key size and the algorithm design.
+- The key size of 56 bits means that there are 2^56 possible keys, which is approximately 7.2 x 10^16 keys . This may seem large, but it is not enough to resist brute-force attacks, which try all possible keys until the correct one is found.
+- In 1998, a special-purpose machine called DES cracker, built by the Electronic Frontier Foundation (EFF), broke a DES encryption in less than 3 days by using brute-force attack . This proved that DES was insecure and vulnerable to such attacks.
+- The algorithm design of DES is based on a Feistel network, which consists of 16 rounds of substitution and permutation operations . The algorithm also uses a concept of confusion and diffusion, proposed by Shannon, to make the relationship between the plaintext and the ciphertext as complex as possible.
+- However, the algorithm design of DES also has some weaknesses that allow cryptanalysis by using the characteristics of DES. For example, differential cryptanalysis and linear cryptanalysis are two statistical attacks that exploit the properties of the S-boxes and the round functions of DES .
+- To overcome the weaknesses of DES, some alternatives have been proposed, such as Triple DES (3DES) and Advanced Encryption Standard (AES) . 3DES applies DES three times with different keys, increasing the effective key size to 112 or 168 bits. AES is a newer standard that uses a different algorithm with a variable key size of 128, 192, or 256 bits.
+- Therefore, the strength of DES is not sufficient to provide secure encryption in modern applications, and it should be replaced by more secure alternatives.

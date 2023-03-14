@@ -1,0 +1,24 @@
+## Unit 1 - Introduction: SOA and MSA Basics
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for building distributed systems that are composed of loosely coupled, reusable, and interoperable services.
+- MSA stands for Microservice Architecture, which is a variant of SOA that focuses on developing small, independent, and self-contained services that communicate through lightweight protocols.
+- The main benefits of SOA and MSA are:
+  - Increased modularity, scalability, and availability of the system.
+  - Reduced complexity, coupling, and dependency of the system components.
+  - Improved agility, flexibility, and maintainability of the system development and deployment.
+  - Enhanced reusability, testability, and quality of the system functionality.
+- The main challenges of SOA and MSA are:
+  - Increased network latency, overhead, and failure rate of the system communication.
+  - Reduced consistency, reliability, and security of the system data and transactions.
+  - Increased difficulty of system monitoring, debugging, and governance.
+  - Required cultural and organizational changes for the system development and operation teams.
+- The main principles of SOA and MSA are:
+  - Service contract: The service interface and behavior should be defined and standardized, and should not be affected by the service implementation or changes.
+  - Service autonomy: The service should have control over its own logic and resources, and should not depend on other services or external factors.
+  - Service abstraction: The service should hide its internal details and complexity, and should only expose its essential functionality and information.
+  - Service reusability: The service should be designed and implemented in a way that it can be reused by different consumers and contexts.
+  - Service statelessness: The service should not maintain any state information between requests, and should handle each request independently.
+  - Service discoverability: The service should be easily discoverable and identifiable by its consumers and providers, and should provide sufficient metadata and documentation.
+  - Service composability: The service should be able to be composed with other services to form higher-level business processes and solutions.
+  - Service granularity: The service should have an appropriate level of granularity, which balances the trade-offs between cohesion, coupling, performance, and reusability.
+  - Service interoperability: The service should be able to communicate and interact with other services using common standards and protocols, and should support multiple platforms and technologies.

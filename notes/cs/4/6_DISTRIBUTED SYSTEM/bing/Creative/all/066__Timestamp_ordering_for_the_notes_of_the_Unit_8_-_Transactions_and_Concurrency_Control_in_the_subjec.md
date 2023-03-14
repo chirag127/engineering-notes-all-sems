@@ -1,0 +1,24 @@
+### Timestamp ordering for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- Timestamp ordering is a technique to ensure serializability of transactions in a distributed system without using locks.
+- A distributed system consists of a collection of distinct processes that are spatially separated and communicate with each other by exchanging messages.
+- The order of events in a distributed system is not always clear or consistent, as different processes may have different clocks or delays in message transmission.
+- A partial order of events can be defined by the **happened-before** relation, which captures the causal dependency between events. For example, if event A sends a message to event B, then A happened before B.
+- A total order of events can be obtained by using **logical clocks**, which assign a unique timestamp to each event based on the happened-before relation. A logical clock is a function that maps each event to a natural number, such that if A happened before B, then the timestamp of A is less than the timestamp of B.
+- One example of a logical clock is the **Lamport timestamp**, which works as follows:
+  - Each process maintains a counter that is incremented after each event.
+  - When a process sends a message, it attaches its current counter value to the message.
+  - When a process receives a message, it updates its counter to be the maximum of its own counter and the received counter value, plus one.
+  - The Lamport timestamp of an event is the counter value of the process after the event.
+- Another example of a logical clock is the **vector clock**, which works as follows:
+  - Each process maintains a vector of counters, one for each process in the system.
+  - When a process performs an event, it increments its own counter in the vector.
+  - When a process sends a message, it attaches its current vector to the message.
+  - When a process receives a message, it updates its vector to be the element-wise maximum of its own vector and the received vector.
+  - The vector clock of an event is the vector of the process after the event.
+- Logical clocks can be used to implement **timestamp ordering** protocols for concurrency control, which work as follows:
+  - Each transaction is assigned a timestamp based on the logical clock of the process that initiates it.
+  - Each data item is tagged with the timestamp of the last transaction that read or wrote it.
+  - When a transaction tries to read or write a data item, it checks its timestamp against the data item's timestamp. If the transaction's timestamp is older than the data item's timestamp, it means that the transaction is trying to access a data item that has been modified by a concurrent transaction, which violates serializability. In this case, the transaction is aborted and restarted with a new timestamp. Otherwise, the transaction is allowed to proceed and the data item's timestamp is updated.
+  - An optimization for write operations is the **Thomas write rule**, which states that if a transaction's timestamp is older than the data item's write timestamp, the transaction can ignore the write operation and continue instead of aborting. This is because the write operation will not affect the final state of the data item, as it will be overwritten by a concurrent transaction.
+- Timestamp ordering protocols can ensure conflict serializability of transactions, but they cannot prevent deadlocks or starvation. They also require a consistent and reliable way of generating and comparing timestamps across the distributed system.
