@@ -1,0 +1,15 @@
+### Testing techniques and their applicability for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+Software testing activities are an essential part of software development. It helps in identifying errors, bugs, and defects in software that may affect the performance and functionality of an application. There are various testing techniques that software developers use to ensure that their software meets the required quality standards. In this section, we will cover the testing techniques and their applicability for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing.
+
+1. Black-Box Testing: This testing technique involves testing the software without knowing the internal structure of the system. It is used to validate the functionality of the software against the requirements specified in the software requirements specification document. Black-box testing is applicable for Unit 5 notes as it helps in identifying whether the software meets the functional requirements or not.
+
+2. White-Box Testing: White-box testing involves testing the internal structure of the software. It is useful in testing the software's logic and code coverage. This technique is applicable for Unit 5 notes as it helps in identifying the code-level defects that may affect the performance of the software.
+
+3. Regression Testing: This testing technique involves retesting the software after any changes or modifications have been made to the software. Regression testing is applicable for Unit 5 notes as it helps in identifying whether the changes made in the software have affected its existing functionality or not.
+
+4. Acceptance Testing: This testing technique involves testing the software against the requirements specified by the end-users. It is used to validate the software's usability and user-friendliness. Acceptance testing is applicable for Unit 5 notes as it helps in identifying whether the software meets the end-users' requirements or not.
+
+5. Performance Testing: This testing technique involves testing the software's performance under different load conditions. It is useful in identifying the performance bottlenecks and tuning the software's performance. Performance testing is applicable for Unit 5 notes as it helps in identifying whether the software meets the performance requirements specified in the software requirements specification document.
+
+Mnemonics or learning tricks for these testing techniques may include acronyms or catchy phrases to remember the different types of testing. However, it's important to note that these techniques are best learned by understanding their principles and applications rather than relying on memorization. It's also essential to keep in mind the advantages and disadvantages of each technique to determine which testing technique to use for specific software testing scenarios.
