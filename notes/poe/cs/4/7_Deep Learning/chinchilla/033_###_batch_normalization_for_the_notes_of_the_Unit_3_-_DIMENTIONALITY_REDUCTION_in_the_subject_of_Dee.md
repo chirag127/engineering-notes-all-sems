@@ -1,0 +1,12 @@
+### Batch Normalization for the Notes of Unit 3 - Dimensionality Reduction in the Subject of Deep Learning
+
+Batch normalization is a technique used in deep learning to improve the performance of neural networks by reducing internal covariate shift. In other words, it helps to normalize the inputs to each layer of a neural network, making the network more stable and easier to train. Here are some key points to keep in mind about batch normalization:
+
+- Batch normalization works by normalizing the inputs to each layer of a neural network based on the mean and variance of the inputs in a mini-batch of data.
+- During training, batch normalization operates differently from during inference. During training, the mean and variance of each mini-batch are used to normalize the inputs, while during inference, the overall mean and variance of the entire training set are used.
+- Batch normalization can be applied before or after the activation function of each layer. However, in most cases, it is recommended to apply batch normalization before the activation function, as this can help to improve the performance of the network.
+- One benefit of using batch normalization is that it can help to reduce overfitting in a neural network, as it adds some noise to the inputs at each layer, which can help to regularize the network.
+- Another benefit of using batch normalization is that it can help to reduce the dependence of the network on the initialization of its weights. This can make it easier to train the network and can lead to better performance on a wider range of tasks.
+- One mnemonic that can be helpful to remember the concept of batch normalization is to think of it as "normalizing the inputs to each layer of the network, batch by batch". This can help to reinforce the idea that batch normalization is a technique that helps to make the inputs to each layer of the network more consistent and easier to work with.
+
+Overall, batch normalization is a powerful technique that can help to improve the performance and stability of neural networks. By normalizing the inputs to each layer of the network, it can help to reduce internal covariate shift and make the network more stable and easier to train.

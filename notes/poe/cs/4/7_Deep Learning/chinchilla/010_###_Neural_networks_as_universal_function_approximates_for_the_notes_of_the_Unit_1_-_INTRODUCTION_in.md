@@ -1,0 +1,18 @@
+### Neural networks as universal function approximates for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+Neural networks are one of the most popular and powerful tools in deep learning. They are capable of learning complex patterns and relationships in data, making them useful for a wide range of applications, including image and speech recognition, natural language processing, and robotics. One of the key features of neural networks is their ability to function as universal function approximators, which means they can approximate any continuous function to a desired level of accuracy.
+
+Here are some important points to understand about neural networks as universal function approximators:
+
+- A neural network is composed of multiple layers of interconnected nodes, or neurons, which perform computations on the input data. The input data passes through the layers of the neural network, and each layer applies a set of learnable transformations to the data.
+- By adjusting the weights and biases of the neurons, a neural network can learn to approximate any continuous function. This means that given a sufficiently large and well-designed neural network, it can learn to model any input-output relationship.
+- Universal approximation theorem states that a feedforward neural network with a single hidden layer containing a finite number of neurons can approximate any continuous function on a compact input domain to arbitrary accuracy, provided that the activation function is non-constant, bounded, and monotonically-increasing. This theorem forms the theoretical basis for the use of neural networks as universal function approximators.
+- In practice, neural networks with multiple hidden layers, known as deep neural networks, are often used to learn complex input-output relationships. Deep neural networks can learn to model highly non-linear functions, and can be trained using techniques such as backpropagation and stochastic gradient descent.
+- One of the challenges of neural networks as universal function approximators is overfitting. Overfitting occurs when a neural network becomes too complex and starts to fit the noise in the training data, rather than the underlying patterns. Regularization techniques, such as L1 and L2 regularization, dropout, and early stopping, can be used to prevent overfitting and improve generalization performance.
+- The success of neural networks as universal function approximators has led to their widespread use in a variety of applications, including image and speech recognition, natural language processing, and robotics. Neural networks have achieved state-of-the-art performance on many benchmark datasets, surpassing traditional machine learning algorithms in many areas.
+
+Mnemonics and learning tricks:
+
+- Use the acronym UAT (Universal Approximation Theorem) to remember the theorem that states that a neural network with a single hidden layer can approximate any continuous function to arbitrary accuracy.
+- Visualize a neural network as a black box that takes input and generates output. The internal workings of the black box are hidden, and the network learns to approximate the input-output relationship by adjusting the weights and biases of the neurons.
+- Think of regularization techniques as ways to prevent the neural network from overfitting, much like how a person wears a belt to prevent their pants from falling down. L1 and L2 regularization help to constrain the weights of the neurons, dropout randomly drops out some neurons during training to prevent co-adaptation, and early stopping stops the training process before the network starts to overfit.
