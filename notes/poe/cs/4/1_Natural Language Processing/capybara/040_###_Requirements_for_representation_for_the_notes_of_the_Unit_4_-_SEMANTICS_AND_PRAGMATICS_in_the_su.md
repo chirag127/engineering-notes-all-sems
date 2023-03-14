@@ -1,0 +1,13 @@
+### Requirements for representation for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+In Natural Language Processing, Semantics and Pragmatics are two important components that work hand in hand to understand the meaning and context of the text. The representation of these components is crucial for building efficient NLP models. Here are some requirements for representation for the notes of the Unit 4 - Semantics and Pragmatics in the subject of Natural Language Processing:
+
+1. **Ontology**: Ontology is the study of the nature of being, existence, or reality. It provides a set of concepts and categories in a domain that can be used to represent knowledge. An ontology can be used to represent the meaning of words, phrases, and sentences in a structured way. For example, WordNet is an ontology that represents the lexical relationships between words in the English language.
+
+2. **Semantic Role Labeling**: Semantic Role Labeling (SRL) is a task that involves identifying the semantic roles played by the words in a sentence. It helps in understanding the meaning of the sentence and the relationships between the words. SRL can be used to represent the meaning of a sentence in a structured way. For example, the sentence "John kicked the ball" can be represented as (kick, John, ball).
+
+3. **Discourse Representation Theory**: Discourse Representation Theory (DRT) is a formalism for representing the meaning of discourse. It provides a way to represent the meaning of a sentence in the context of a larger discourse. DRT can be used to represent the meaning of a sentence in a structured way. For example, the sentence "John went to the store. He bought some milk" can be represented as (John, went to the store) and (John, bought, milk).
+
+4. **Frame Semantics**: Frame Semantics is a theory of lexical semantics that represents the meaning of words in terms of frames. A frame is a conceptual structure that represents a stereotypical situation, event, or scenario. Frame Semantics can be used to represent the meaning of a sentence in a structured way. For example, the sentence "John opened the door" can be represented as (open, John, door, opening).
+
+Mnemonics and learning tricks can be helpful in remembering these requirements. One such trick could be to remember the acronym "ODDF", where O stands for Ontology, D stands for Discourse Representation Theory, D stands for Frame Semantics, and F stands for Semantic Role Labeling. Another trick could be to remember the example sentences and their corresponding representations. For example, "John kicked the ball" can be represented as (kick, John, ball) using Semantic Role Labeling.
