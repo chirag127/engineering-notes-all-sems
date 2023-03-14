@@ -1,0 +1,15 @@
+### Hashchain to Blockchain for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+Blockchain is a distributed ledger technology that is used to record transactions in a secure and transparent manner. The concept of blockchain was introduced by Satoshi Nakamoto in 2008 in the Bitcoin whitepaper. The first implementation of blockchain was in the Bitcoin network.
+
+Blockchain is a chain of blocks, where each block contains a set of transactions. Each block in the chain is connected to the previous block using a cryptographic hash function. The hash function takes the data of the current block and produces a fixed-length output, which is used to uniquely identify the block. The output of the hash function is also used as input to the hash function of the next block in the chain, thus creating a chain of blocks.
+
+The first implementation of blockchain was known as Hashchain. Hashchain is a chain of blocks, where each block contains a hash of the previous block. The hash of the previous block is used to verify the integrity of the block. If the hash of the previous block is tampered with, it will change the hash of the current block, making it invalid.
+
+Hashchain has some limitations, such as it does not provide any mechanism for consensus, and it is vulnerable to attacks such as the 51% attack. To address these limitations, the concept of Blockchain was introduced. Blockchain is an improvement over Hashchain, as it provides a mechanism for consensus and is more secure.
+
+The main difference between Hashchain and Blockchain is that in Hashchain, each block contains a hash of the previous block, while in Blockchain, each block contains a hash of the previous block, a nonce, and a set of transactions. The nonce is a random number that is added to the block to make the hash of the block meet a specific difficulty target. The difficulty target is adjusted based on the amount of computational power in the network, to ensure that new blocks are added to the chain at a specific rate.
+
+The mechanism for consensus in Blockchain is achieved through a process called mining. Mining is the process of adding new blocks to the chain. Miners compete to solve a cryptographic puzzle, and the first miner to solve the puzzle gets to add the next block to the chain. The process of mining ensures that the network is secure and that all transactions are verified by the network.
+
+In conclusion, Hashchain is the first implementation of blockchain, where each block contains a hash of the previous block. Blockchain is an improvement over Hashchain, as it provides a mechanism for consensus and is more secure. The mechanism for consensus in Blockchain is achieved through a process called mining, where miners compete to solve a cryptographic puzzle, and the first miner to solve the puzzle gets to add the next block to the chain.

@@ -1,0 +1,23 @@
+### Language Modeling for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+Language modeling is a crucial task in natural language processing (NLP) that involves predicting the probability distribution of a sequence of words in a language. It is an essential component of several NLP applications, including speech recognition, machine translation, text-to-speech synthesis, and sentiment analysis.
+
+Here are some key concepts and techniques related to language modeling that you should know:
+
+1. Language Modeling Definition: Language modeling is the process of estimating the probability distribution of words in a language. It involves predicting the likelihood of a word given its context, which can be defined as a sequence of words that precede it. The output of language modeling is a probability distribution over the vocabulary of the language.
+
+2. Types of Language Models: There are various types of language models, including n-gram models, neural language models, and transformer-based models. N-gram models estimate the probability of a word given its n previous words. Neural language models use neural networks to predict the probability distribution of words. Transformer-based models, such as BERT and GPT, use self-attention mechanisms to model the contextual relationships between words.
+
+3. Evaluation Metrics for Language Models: There are several evaluation metrics for language models, including perplexity, accuracy, and F1 score. Perplexity measures the uncertainty of the language model in predicting the next word in a sequence. Accuracy measures the percentage of correctly predicted words in a sequence. F1 score is the harmonic mean of precision and recall, which measure the model's ability to correctly predict relevant words in a sequence.
+
+4. Applications of Language Modeling: Language modeling has several applications in NLP, including speech recognition, machine translation, text-to-speech synthesis, and sentiment analysis. In speech recognition, language models are used to predict the probability of a sequence of words given an audio signal. In machine translation, language models are used to translate a sequence of words from one language to another. In text-to-speech synthesis, language models are used to generate a natural-sounding speech from a sequence of words. In sentiment analysis, language models are used to predict the sentiment of a text.
+
+5. Challenges in Language Modeling: Language modeling faces several challenges, including data sparsity, long-term dependencies, and out-of-vocabulary words. Data sparsity refers to the problem of estimating the probability of rare or unseen words. Long-term dependencies refer to the problem of modeling the relationships between words that are far apart in a sequence. Out-of-vocabulary words refer to the problem of predicting words that are not present in the vocabulary of the language model.
+
+Mnemonics and Learning Tricks:
+
+- To remember the definition of language modeling, think of it as predicting the likelihood of a word given its context or the words that come before it.
+- To remember the types of language models, think of n-gram models as estimating the probability of a word given its n previous words, neural language models as using neural networks to predict the probability distribution of words, and transformer-based models as using self-attention mechanisms to model the contextual relationships between words.
+- To remember the evaluation metrics for language models, think of perplexity as measuring the uncertainty of the language model in predicting the next word in a sequence, accuracy as measuring the percentage of correctly predicted words in a sequence, and F1 score as measuring the model's ability to correctly predict relevant words in a sequence.
+- To remember the applications of language modeling, think of speech recognition as predicting the probability of a sequence of words given an audio signal, machine translation as translating a sequence of words from one language to another, text-to-speech synthesis as generating a natural-sounding speech from a sequence of words, and sentiment analysis as predicting the sentiment of a text.
+- To remember the challenges in language modeling, think of data sparsity as the problem of rare or unseen words, long-term dependencies as the problem of relationships between far apart words, and out-of-vocabulary words as the problem of predicting words that are not present in the vocabulary of the language model.
