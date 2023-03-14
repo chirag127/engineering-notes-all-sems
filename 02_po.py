@@ -85,7 +85,7 @@ write in detail about {topic}"""
 
     file_name = get_file_name(j, topic)
 
-    file_path = f"notes/poe/{file.replace('.txt','')}/{bot}/{file_name}"
+    file_path = f"notes/{file.replace('.txt','')}poe/{bot}/{file_name}"
 
     file_path = file_path.replace("p_s/", "", 1)
 
