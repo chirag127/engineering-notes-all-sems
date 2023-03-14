@@ -1,0 +1,24 @@
+### Managing Contracts in SPM
+
+- Supplier Performance Management (SPM) is the process of tracking and analyzing the performance of suppliers a business works with. Managing their performance can help control costs, support compliance, and support long-lasting relationships.
+- SPM involves the use of tools and practices to evaluate supplier performance based on the expectations and agreements established in the contracts. The intention is to understand vendor relationships so that the business can:
+  - Manage supplier risk
+  - Lower procurement costs
+  - Encourage positive partnerships
+  - Resolve any issues
+  - Look for opportunities to improve
+- SPM is different from Supplier Relationship Management (SRM), which is mainly an internal business process where the company goes through its list of contracts with suppliers and picks up any insights it can learn from its own partnerships. SPM can happen either internally or externally and mainly focuses on reducing risk and managing cost.
+- SPM can be conducted by a third-party auditor who examines the data provided, from initial contracts to receipts of goods or services, performance reviews, and everything in between. The analysis can lead to the reallocation of the budget, cutting loose some current suppliers and vendors, and slightly restructuring the supplier management process as a whole.
+- SPM can also be done by a business unit that is responsible for medium to large size/value contracts by identifying and maximizing the value delivered by the suppliers. The business unit can monitor the performance of the vendors and manage all aspects of the contracts, such as scope, quality, schedule, cost, and risk. The business unit can also use SPM software to pull impactful insights from raw contract and market data.
+- SPM requires a clear and consistent framework for measuring and reporting supplier performance. Some of the common elements of an SPM framework are:
+  - Supplier segmentation: categorizing suppliers based on their strategic importance, spend, risk, and performance
+  - Key performance indicators (KPIs): defining the metrics and targets that will be used to evaluate supplier performance
+  - Scorecards and dashboards: creating visual tools that summarize and display the supplier performance data
+  - Feedback and communication: establishing regular and constructive dialogue with suppliers to share performance results, expectations, and improvement plans
+  - Action plans and rewards: developing and implementing corrective and preventive actions to address performance gaps and recognizing and rewarding high-performing suppliers
+- SPM can bring many benefits to a business, such as:
+  - Improved quality and reliability of goods and services
+  - Reduced costs and waste
+  - Increased innovation and collaboration
+  - Enhanced customer satisfaction and loyalty
+  - Mitigated risks and compliance issues

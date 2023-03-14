@@ -1,0 +1,14 @@
+### Activities in spm
+
+SPM stands for Software Project Management, which is the discipline of planning, organizing, directing, and controlling the activities of a software project. Some of the main activities in spm are:
+
+- **Project initiation**: This is the first phase of a software project, where the project scope, objectives, constraints, assumptions, risks, and stakeholders are defined. The project initiation also involves selecting a suitable project management methodology, such as agile, waterfall, or hybrid, and establishing the project team and communication channels.
+- **Project planning**: This is the phase where the project manager develops a detailed plan for the project, including the work breakdown structure, schedule, budget, quality standards, resources, and deliverables. The project plan also defines the project scope management, risk management, change management, and quality management processes. The project plan is a living document that is updated and revised throughout the project lifecycle.
+- **Project execution**: This is the phase where the project team performs the tasks and activities defined in the project plan, such as designing, coding, testing, and deploying the software product. The project execution also involves monitoring and controlling the project performance, such as the scope, schedule, cost, quality, and risks, and reporting the project status and progress to the stakeholders. The project execution also involves managing the project changes, issues, and conflicts that may arise during the project.
+- **Project closure**: This is the final phase of a software project, where the project manager verifies that all the project deliverables have been completed and accepted by the customer, and that all the project objectives have been met. The project closure also involves conducting a project review and evaluation, documenting the project lessons learned, and releasing the project resources and team members. The project closure also involves celebrating the project success and recognizing the project team and stakeholders.
+
+Some mnemonics and learning tricks for the activities in spm are:
+
+- To remember the four phases of a software project, you can use the acronym **IPCE**, which stands for Initiation, Planning, Execution, and Closure.
+- To remember the main components of a project plan, you can use the acronym **SBRQD**, which stands for Scope, Budget, Resources, Quality, and Deliverables.
+- To remember the main processes of project monitoring and controlling, you can use the acronym **SCRQ**, which stands for Scope, Cost, Risk, and Quality.

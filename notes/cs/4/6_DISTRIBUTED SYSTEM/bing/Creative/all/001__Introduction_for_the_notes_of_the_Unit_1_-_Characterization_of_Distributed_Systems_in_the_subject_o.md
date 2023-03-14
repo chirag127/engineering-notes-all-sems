@@ -1,0 +1,29 @@
+### Introduction for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent computers that appears to its users as a single coherent system.
+- A distributed system is one in which components located at networked computers communicate and coordinate their actions only by passing messages.
+- This definition leads to the following especially significant characteristics of distributed systems:
+  - Concurrency of components: Multiple components can execute simultaneously and independently, without interfering with each other.
+  - Lack of a global clock: There is no single source of time or synchronization for all the components, which may have different local clocks and drift rates.
+  - Independent failures of components: Each component can fail or recover independently, without affecting the whole system or other components.
+- The main reason for building distributed systems is to share resources, such as data, hardware, software, or services.
+- Some examples of distributed systems are :
+  - The Internet: A global network of computers that provides various services, such as web, email, file transfer, etc.
+  - An Intranet: A portion of the Internet with clearly defined boundaries, in which local security policies can be enforced.
+  - Mobile and ubiquitous computing: The use of portable and embedded devices, such as laptops, smartphones, smart watches, sensors, etc., that can communicate and access services over wireless networks.
+  - Distributed information systems: Systems that distribute information across different servers via multiple communication models, such as client-server, peer-to-peer, publish-subscribe, etc.
+  - Distributed pervasive systems: Systems that use embedded computer devices, such as ECG monitors, sensors, mobile devices, etc., that can interact with the physical environment and other devices.
+  - Distributed computing systems: Systems that use computers in a network to perform parallel or distributed computations, such as grid computing, cloud computing, etc.
+- Some benefits of distributed systems are :
+  - Scalability: The system can grow or shrink in size and performance by adding or removing components, without affecting the overall functionality or quality of service.
+  - Availability: The system can tolerate failures of some components, by using replication, fault tolerance, or recovery mechanisms, and still provide the required services to the users.
+  - Transparency: The system can hide the complexity and heterogeneity of its components, such as location, migration, replication, concurrency, etc., and present a uniform and consistent view to the users.
+  - Performance: The system can exploit the parallelism and locality of its components, by distributing the workload and data among them, and achieve higher efficiency and throughput.
+  - Openness: The system can be extended and improved by adding new components or services, or by integrating with other systems, using standard protocols and interfaces.
+- Some design issues with distributed systems are :
+  - Communication: The system must provide reliable, efficient, and secure communication mechanisms for its components, such as message passing, remote procedure call, remote method invocation, etc.
+  - Naming: The system must provide a way to identify and locate its components, such as hosts, processes, files, services, etc., using unique and meaningful names, such as IP addresses, URLs, URIs, etc.
+  - Synchronization: The system must provide a way to coordinate the actions and states of its components, such as mutual exclusion, deadlock detection, logical clocks, distributed snapshots, etc.
+  - Consistency and replication: The system must provide a way to maintain and manage multiple copies of data or services, such as replication strategies, consistency models, quorum protocols, etc.
+  - Fault tolerance: The system must provide a way to detect and handle failures of its components, such as failure models, fault masking, checkpointing, recovery, etc.
+  - Security: The system must provide a way to protect its components and resources from unauthorized access, modification, or damage, such as authentication, authorization, encryption, etc.

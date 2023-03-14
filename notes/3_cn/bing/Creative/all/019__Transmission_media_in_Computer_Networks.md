@@ -1,0 +1,21 @@
+#### Transmission media in Computer Networks
+
+Transmission media in computer networks are the physical paths or channels that connect the sender and the receiver of data. They can be classified into two broad categories: guided media and unguided media.
+
+- Guided media: These are also known as wired or bounded media. They use physical links such as wires or cables to direct and confine the signals being transmitted. They have high speed, security, and reliability, but they are limited by the distance and the cost of installation and maintenance. Some examples of guided media are:
+
+  - Twisted pair cable: This consists of two insulated copper wires twisted around each other to reduce interference and crosstalk. It is the most widely used transmission media for telephone and LAN networks. It can be unshielded (UTP) or shielded (STP) depending on the presence or absence of a protective layer around the wires. UTP is cheaper, easier to install, and has a high-speed capacity, but it is more susceptible to external interference and noise than STP. STP has better performance, eliminates crosstalk, and is faster, but it is more expensive, difficult to install, and bulky. A mnemonic to remember the difference between UTP and STP is: UTP is Unprotected, STP is Shielded.
+
+  - Coaxial cable: This consists of a central conductor surrounded by an insulating layer, a metallic shield, and an outer plastic covering. It can transmit data in two modes: baseband (dedicated bandwidth) and broadband (shared bandwidth). It is used for cable TV, analog TV, and fast Ethernet networks. It has high bandwidth, better noise immunity, easy installation, and low cost, but it can also suffer from signal attenuation, interference, and single cable failure.
+
+  - Optical fiber cable: This uses the principle of light refraction to transmit data through a core made of glass or plastic. It can carry signals over long distances with high speed, bandwidth, and security. It is immune to electromagnetic interference, noise, and crosstalk. However, it is also expensive, fragile, and difficult to install and splice.
+
+- Unguided media: These are also known as wireless or unbounded media. They use electromagnetic waves such as radio, microwave, infrared, or light to transmit data through the air or space. They have the advantages of mobility, flexibility, and scalability, but they also have the disadvantages of low security, reliability, and bandwidth. They are also affected by environmental factors such as weather, terrain, and interference. Some examples of unguided media are:
+
+  - Radio waves: These are electromagnetic waves with frequencies ranging from 3 kHz to 300 GHz. They can travel long distances and penetrate through walls and buildings. They are used for AM and FM radio, TV broadcasting, cellular networks, and wireless LANs. However, they also have low bandwidth, high attenuation, and interference from other sources.
+
+  - Microwaves: These are electromagnetic waves with frequencies ranging from 300 MHz to 300 GHz. They can travel in straight lines and require line-of-sight transmission. They are used for satellite communication, radar, and microwave links. They have high bandwidth, low attenuation, and high security, but they also have high installation and maintenance cost, and interference from rain and other obstacles.
+
+  - Infrared waves: These are electromagnetic waves with frequencies ranging from 300 GHz to 400 THz. They can travel short distances and require line-of-sight transmission. They are used for remote controls, wireless keyboards and mice, and wireless LANs. They have low cost, low power consumption, and high security, but they also have low bandwidth, high attenuation, and interference from sunlight and other sources.
+
+  - Light waves: These are electromagnetic waves with frequencies ranging from 400 THz to 800 THz. They can travel very fast and carry large amounts of data. They are used for fiber optics, laser, and LED communication. They have very high bandwidth, low attenuation, and high security, but they also have very high cost, fragility, and difficulty of alignment and installation.

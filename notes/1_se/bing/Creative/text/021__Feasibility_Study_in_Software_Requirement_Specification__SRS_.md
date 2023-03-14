@@ -1,0 +1,27 @@
+### Feasibility Study in Software Requirement Specification (SRS)
+
+- A feasibility study is a study conducted to ascertain the viability of a software project or product. It is also one of the requirements of the software engineering process .
+- The objective behind the feasibility study is to create the reasons for developing the software that is acceptable to users, adaptable to change and conformable to established standards.
+- The feasibility study aims to ascertain why developing software is appealing to users, adaptable to change, and compliant with applicable requirements. It delves into technical aspects of the project and product, such as compatibility, maintainability, efficiency, and integration capabilities .
+- The feasibility study takes place after specifying business requirements, that is, it is the second step of the requirements engineering process.
+- The feasibility study involves analyzing and answering some questions from the point of view of operational, technical, schedule and economic feasibility, such as:
+  - Organizational viability: it is related to how much the solution benefits the organization. It is verified if there will be adherence to the use of the solution by the users due to the organizational culture and the perception of those involved; whether the solution is aligned with the organization’s strategic objectives; whether there is understanding and support from the organization’s top management in relation to the project, etc.
+  - Operational viability: it is related to how much the solution suits the organization; what are the requirements of the solution; what the customer expects the system to do;
+  - Economic viability: analysis between the development cost and the benefits after the project is implemented (cost-benefit).
+  - Technical software feasibility: linked to the technical support that the organization will offer for the development of the project; team or technology restrictions; need to invest in research before carrying out the project; etc.
+  - Timeline feasibility: crossing between the activities surveyed and the estimated time to carry them out; definition of project milestones; impact of delays.
+  - Others: legal, cultural, marketing, etc.
+- The feasibility study report structure may include the following sections:
+  - Definitions, Acronyms and Abbreviations
+  - Overview
+  - Purpose
+  - Scope
+  - Current diagnosis
+  - Requirements
+  - Proposed Alternatives
+  - Recommended alternative
+  - Benefits
+  - Costs
+  - Risks
+  - Timeline
+  - Conclusions

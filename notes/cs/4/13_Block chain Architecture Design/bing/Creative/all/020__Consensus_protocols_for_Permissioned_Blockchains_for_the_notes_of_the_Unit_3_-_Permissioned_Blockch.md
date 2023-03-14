@@ -1,0 +1,16 @@
+### Consensus protocols for Permissioned Blockchains for the notes of the Unit 3 - Permissioned Blockchains in the subject of Block chain Architecture Design
+
+- A consensus protocol is a mechanism that allows the nodes of a blockchain network to agree on the state of the ledger and validate transactions.
+- A consensus protocol is necessary to ensure the security, reliability, and consistency of the blockchain data, and to prevent malicious attacks or forks.
+- In a permissioned blockchain, the nodes are known and authorized by a central authority or a consortium of entities, and have different roles and permissions in the network.
+- A permissioned blockchain may require a different consensus protocol than a permissionless blockchain, depending on the level of trust, scalability, and performance needed for the use case.
+- Some of the factors that influence the choice of a consensus protocol for a permissioned blockchain are:
+  - The number and identity of the nodes: How many nodes are there in the network, and how are they identified and authenticated?
+  - The level of decentralization: How much power and control do the nodes have over the network, and how are decisions made and enforced?
+  - The fault tolerance: How resilient is the network to failures, errors, or malicious behavior of the nodes?
+  - The throughput and latency: How fast and efficient is the network in processing and confirming transactions?
+- Some of the common consensus protocols for permissioned blockchains are:
+  - Practical Byzantine Fault Tolerance (PBFT): A protocol that can tolerate up to one-third of the nodes being faulty or malicious, and requires a leader node to propose a block and a majority of the nodes to agree on it. It is suitable for small to medium-sized networks that prioritize consistency and finality over scalability and performance. Examples of blockchains that use PBFT are Hyperledger Fabric and Stellar.
+  - Raft: A protocol that can tolerate up to half of the nodes being faulty, but not malicious, and requires a leader node to propose and commit a block without voting. It is suitable for small to medium-sized networks that prioritize simplicity and performance over fault tolerance and security. Examples of blockchains that use Raft are Quorum and Corda.
+  - Proof of Authority (PoA): A protocol that can tolerate up to half of the nodes being faulty or malicious, and requires a set of pre-selected validators to take turns in proposing and validating blocks. It is suitable for large-scale networks that prioritize scalability and performance over decentralization and fairness. Examples of blockchains that use PoA are Ethereum's Kovan and Rinkeby testnets and VeChain.
+  - Proof of Elapsed Time (PoET): A protocol that can tolerate up to half of the nodes being faulty or malicious, and requires the nodes to wait for a random amount of time before proposing a block. It is suitable for large-scale networks that prioritize energy efficiency and fairness over performance and security. Examples of blockchains that use PoET are Hyperledger Sawtooth and Intel's Trusted Compute Framework.

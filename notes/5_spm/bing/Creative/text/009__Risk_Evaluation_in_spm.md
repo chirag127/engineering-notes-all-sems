@@ -1,0 +1,15 @@
+### Risk Evaluation in SPM
+
+Risk evaluation is the process of assessing the likelihood and impact of potential risks on a project or operation. Risk evaluation helps to prioritize and manage risks effectively, and to make informed decisions based on the level of risk exposure and tolerance.
+
+Some of the risk evaluation methods that can be used in SPM (Software Project Management) are:
+
+- **Risk assessment**: A practical and easy method to identify, analyze and evaluate risks before conducting tasks. Risk assessment involves listing the possible risks, estimating their probability and severity, and assigning a risk rating based on a predefined scale. Risk assessment can be done using tools such as checklists, matrices, or templates. 
+- **What-if analysis**: A method to explore the possible outcomes and consequences of different scenarios or events. What-if analysis can help to identify potential problems, opportunities, and solutions, and to test the robustness and sensitivity of plans and assumptions. What-if analysis can be done using tools such as brainstorming, flowcharts, or simulations. 
+- **Fault tree analysis (FTA)**: A method to identify and analyze the root causes and failure modes of a system or process. FTA uses a graphical representation of the logical relationships between events and faults, and calculates the probability of occurrence of each fault. FTA can help to identify the critical components and factors that affect the reliability and safety of a system or process. 
+- **Failure mode and effect analysis (FMEA)**: A method to identify and evaluate the potential failures and effects of a system or process. FMEA uses a tabular format to list the failure modes, causes, effects, detection methods, and corrective actions for each component or function of a system or process. FMEA can help to improve the design, quality, and performance of a system or process. 
+- **Hazard and operability study (HAZOP)**: A method to identify and assess the hazards and operability problems of a system or process. HAZOP uses a systematic and structured approach to examine the deviations from the intended design or operation of a system or process, and to identify the causes, consequences, and safeguards for each deviation. HAZOP can help to enhance the safety and efficiency of a system or process. 
+- **Enterprise risk management evaluation (ERM)**: A method to evaluate the overall risk management capability and performance of an organization. ERM uses a framework to assess the risk culture, risk exposure management, and risk optimization of an organization, and to assign scores and ratings based on predefined criteria and benchmarks. ERM can help to align the risk management strategy and objectives with the organizational goals and values. 
+
+: Enterprise Risk Management Evaluations | S&P Global Ratings
+: Risk evaluation method: Here are the best risk evaluation methods

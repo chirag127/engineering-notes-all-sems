@@ -1,0 +1,8 @@
+#### Applications on Big Data using Hive
+
+Hive is a distributed data warehouse system that enables SQL-like queries on petabytes of data stored in Hadoop or other distributed storage solutions. Hive can perform data encapsulation, ad-hoc queries, and analysis of huge datasets using batch processing . Some of the applications of Hive in big data are:
+
+- Data warehousing: Hive can be used to store and manage structured or semi-structured data in a scalable and fault-tolerant manner. Hive can also perform data cleansing, transformation, and integration using HiveQL or user-defined functions .
+- Data analytics: Hive can be used to perform complex analytical queries on large-scale data using HiveQL, which supports various features such as joins, aggregations, subqueries, window functions, and user-defined functions. Hive can also leverage Apache Tez or MapReduce to execute queries in parallel and optimize performance .
+- Data visualization: Hive can be used to generate reports and dashboards from big data using various tools and frameworks that can connect to Hive through JDBC or ODBC drivers. Some of the popular tools are Tableau, Power BI, QlikView, and Apache Zeppelin .
+- Data mining: Hive can be used to perform data mining tasks such as classification, clustering, association rule mining, and anomaly detection on big data using HiveQL or user-defined functions. Hive can also integrate with Apache Mahout, which is a machine learning library for Hadoop .

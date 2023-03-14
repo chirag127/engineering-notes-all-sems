@@ -1,0 +1,23 @@
+### Concepts in Backward and Forward recovery for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery is the process of restoring a distributed system to a consistent state after a failure occurs.
+- A failure can be a crash, a communication failure, a network partition, a malicious attack, or a software bug.
+- A consistent state is one that satisfies the correctness and consistency properties of the system, such as atomicity, serializability, linearizability, etc.
+- There are two main approaches to failure recovery: backward recovery and forward recovery.
+- Backward recovery is the process of undoing the effects of a failure by restoring the system to a previous consistent state, also known as a checkpoint.
+- Forward recovery is the process of correcting the effects of a failure by applying compensating actions that restore the system to a new consistent state, also known as a recovery line.
+- Backward recovery requires the system to maintain checkpoints, which are snapshots of the system state at certain points in time.
+- Checkpoints can be taken periodically, on demand, or based on some criteria, such as the number of messages exchanged, the amount of computation done, etc.
+- Checkpoints can be local, which are taken by individual processes, or global, which are taken by a group of processes that are involved in a distributed computation.
+- Checkpoints can be independent, which do not depend on other checkpoints, or coordinated, which are taken in a consistent manner across the processes.
+- Checkpoints can be stored locally, on the same process that takes them, or remotely, on a different process or a stable storage device.
+- Checkpoints can be used to roll back the system state to a previous consistent state in case of a failure, by discarding the changes made after the checkpoint.
+- Checkpoints can also be used to roll forward the system state to a new consistent state in case of a failure, by replaying the messages or actions that were executed after the checkpoint.
+- Backward recovery has the advantages of simplicity, generality, and fault tolerance, but it also has the disadvantages of overhead, latency, and data loss.
+- Forward recovery is the process of applying compensating actions that undo or correct the effects of a failure, without restoring the system to a previous state.
+- Compensating actions are actions that reverse or neutralize the effects of a previous action, such as canceling a reservation, issuing a refund, or sending an apology.
+- Compensating actions can be predefined, which are known in advance, or dynamic, which are determined at runtime based on the context and the state of the system.
+- Compensating actions can be executed by the same process that executed the original action, or by a different process that is responsible for the recovery.
+- Compensating actions can be executed synchronously, which means they are executed immediately after the failure is detected, or asynchronously, which means they are executed later when the system is stable.
+- Compensating actions can be executed atomically, which means they are executed as a single unit, or non-atomically, which means they are executed as a sequence of steps.
+- Forward recovery has the advantages of efficiency, flexibility, and data preservation, but it also has the disadvantages of complexity, specificity, and fault propagation.

@@ -1,0 +1,21 @@
+### Dynamic Time Warping for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- Dynamic Time Warping (DTW) is an algorithm for measuring similarity between two temporal sequences, which may vary in speed or length.
+- DTW is useful for speech analysis, as it can cope with different speaking speeds, accents, and pronunciations  .
+- DTW can also be used for speaker recognition, online signature recognition, and partial shape matching.
+- DTW works by finding the optimal alignment between two sequences, such that the distance between them is minimized .
+- DTW uses a dynamic programming approach to find the optimal alignment, which is represented by a warping path .
+- The warping path satisfies the following conditions :
+  - Boundary: The path starts at the first point of both sequences and ends at the last point of both sequences.
+  - Continuity: The path moves forward by one step in either sequence or both sequences at a time.
+  - Monotonicity: The path does not move backwards in either sequence.
+- The distance between two sequences is calculated as the sum of the distances between the matched points along the warping path .
+- The distance between two points can be measured by different metrics, such as Euclidean distance, Manhattan distance, or Minkowski distance.
+- DTW can be generalized to handle multidimensional sequences, such as speech signals, by using vector distances instead of scalar distances.
+- DTW can also be modified to handle different constraints, such as global or local constraints, on the warping path to improve the efficiency and accuracy of the algorithm.
+- DTW can be combined with other techniques, such as feature extraction, dimensionality reduction, and classification, to improve the performance of speech analysis applications .
+- A possible mnemonic to remember the steps of DTW is: **D**etermine the distance matrix, **T**race the optimal warping path, **W**arp the sequences and calculate the distance.
+- A possible learning trick to understand the concept of DTW is to imagine two people walking along two different paths, and trying to synchronize their steps by stretching or shrinking their strides.
+- A possible example of DTW for speech analysis is to compare two utterances of the same word by different speakers, and find the best alignment between them.
+- A possible disadvantage of DTW is that it is computationally expensive, as it requires a quadratic time and space complexity.
+- A possible advantage of DTW is that it is robust to temporal variations and distortions, as it can align the sequences non-linearly.

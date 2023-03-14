@@ -1,0 +1,21 @@
+### Quantum Information for the notes of the Unit 1 - Fundamental Concepts in the subject of Quantum Computing
+
+- Quantum information is the information of the state of a quantum system. It is the basic entity of study in quantum information theory, and can be manipulated using quantum information processing techniques. 
+- Quantum information refers to both the technical definition in terms of Von Neumann entropy and the general computational term. It is an interdisciplinary field that involves quantum mechanics, computer science, information theory, philosophy and cryptography among other fields. 
+- Quantum information, like classical information, can be processed using digital computers, transmitted from one location to another, manipulated with algorithms, and analyzed with computer science and mathematics. Just like the basic unit of classical information is the bit, quantum information deals with qubits. 
+- Qubits are quantum mechanical systems that can exist in superposition of two states, denoted as |0> and |1>. A qubit can be realized by various physical systems, such as an electron spin, a photon polarization, or a nuclear magnetic resonance. 
+- Qubits have some remarkable properties that make them different from classical bits. For example, qubits can be entangled, which means that two or more qubits can share a quantum state and influence each other even when they are physically separated. Entanglement is a key resource for quantum information processing and communication. 
+- Another property of qubits is that they cannot be copied or cloned perfectly, due to the no-cloning theorem. This implies that quantum information cannot be duplicated or tampered with without being detected. This is the basis for quantum cryptography, which allows for secure transmission of information using quantum key distribution protocols. 
+- Quantum information processing is the manipulation of quantum information using quantum devices, such as quantum gates, quantum circuits, quantum algorithms, and quantum error correction codes. Quantum information processing aims to exploit the advantages of quantum mechanics, such as parallelism, interference, and entanglement, to perform tasks that are impossible or intractable for classical computers. 
+- Some examples of quantum information processing tasks are:
+  - Quantum computation: the use of quantum algorithms to solve problems that are hard for classical computers, such as factoring large numbers, searching unsorted databases, or simulating quantum systems. 
+  - Quantum communication: the use of quantum channels to transmit and receive quantum information, such as qubits, entangled states, or quantum keys. Quantum communication can achieve higher security, capacity, and efficiency than classical communication. 
+  - Quantum metrology: the use of quantum states and measurements to achieve high precision and sensitivity in estimating physical parameters, such as frequency, phase, or magnetic field. Quantum metrology can surpass the classical limits of accuracy and resolution. 
+  - Quantum sensing: the use of quantum systems to detect and measure external signals, such as light, sound, or force. Quantum sensing can exploit quantum coherence and entanglement to enhance the signal-to-noise ratio and the dynamic range. 
+
+- A mnemonic to remember the difference between classical and quantum information is: Classical information is BIT, quantum information is QUIT. BIT stands for Binary, Isolated, and Transferable, while QUIT stands for Quantum, Unified, and Intransferable. 
+- A learning trick to understand the concept of superposition is to use the analogy of a coin. A classical coin can only be in one of two states: heads or tails. A quantum coin, however, can be in a superposition of heads and tails, which means that it has some probability of being either heads or tails, but not a definite value. The quantum coin can be represented by a vector on a sphere, called the Bloch sphere, where the north pole is heads and the south pole is tails. The angle of the vector from the poles determines the probability of the coin being heads or tails. 
+
+: https://en.wikipedia.org/wiki/Quantum_information
+: https://sitp.stanford.edu/research/quantum-information
+: https://www.youtube.com/watch?v=IrbJYsep45E

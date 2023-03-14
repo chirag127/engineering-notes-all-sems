@@ -1,0 +1,10 @@
+## Unit 2 - Web Page Designing
+
+Web page designing is the process of creating and arranging the content of a web page, such as text, images, links, videos, etc. Web page designing involves both the aesthetic and functional aspects of a web page, such as layout, color scheme, navigation, interactivity, etc. Web page designing can be done using various tools and languages, such as HTML, CSS, JavaScript, etc.
+
+Some of the topics covered in this unit are:
+
+- **Web page structure**: This topic explains the basic structure of a web page, such as the head, body, and footer sections, and the elements and attributes that can be used in each section. It also covers the use of meta tags, title tags, and link tags to provide information and references for the web page.
+- **Web page layout**: This topic covers the different ways of arranging the content of a web page, such as using tables, divs, spans, etc. It also covers the use of CSS to style and position the elements of a web page, such as using selectors, properties, values, units, etc. It also covers the use of responsive design to make the web page adapt to different screen sizes and devices.
+- **Web page content**: This topic covers the different types of content that can be added to a web page, such as text, images, links, videos, etc. It also covers the use of HTML tags and attributes to format and display the content, such as using headings, paragraphs, lists, etc. It also covers the use of CSS to style and enhance the content, such as using fonts, colors, backgrounds, borders, etc.
+- **Web page interactivity**: This topic covers the different ways of adding interactivity and functionality to a web page, such as using forms, buttons, inputs, etc. It also covers the use of JavaScript to add dynamic behavior and events to the web page, such as using variables, operators, functions, etc. It also covers the use of jQuery to simplify and optimize the JavaScript code, such as using selectors, methods, effects, etc.

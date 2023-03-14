@@ -1,0 +1,9 @@
+### Theatre as Cultural Heritage of India
+
+- Theatre is one of the oldest and most vibrant forms of art in India, dating back to at least the 2nd century BC.
+- Theatre in India reflects the diversity and richness of the Indian culture, language, religion, and history, as well as the creativity and imagination of the Indian people.
+- Theatre in India has three main historical periods: the classical period, the traditional period, and the modern period.
+- The classical period is characterized by the Sanskrit theatre, which is based on the Natya Shastra, a treatise on drama and dance written by Bharata Muni . The Natya Shastra defines the genres, styles, elements, and aesthetics of theatre, such as the natakas, prakaranas, lokadharmi, natyadharmi, and rasa.
+- The traditional period is characterized by the folk theatre, which is performed by travelling bards and storytellers in villages and rural areas. Folk theatre incorporates music, dance, improvisation, and local languages and themes. Folk theatre is often linked to festivals, events, and religious stories, such as the Ramlila and Raslila .
+- The modern period is characterized by the emergence of urban theatre, which is influenced by the Western theatre, social and political movements, and contemporary issues. Modern theatre includes realistic, experimental, and avant-garde forms, such as the Parsi theatre, the Indian People's Theatre Association, the Theatre of the Absurd, and the Theatre of the Roots .
+- Theatre in India is a cultural heritage that showcases the diversity, creativity, and dynamism of the Indian society. Theatre in India is also a medium of education, entertainment, and social change, as it communicates values, emotions, and messages to the audience. Theatre in India is a living and evolving art form that adapts to the changing times and contexts.

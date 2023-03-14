@@ -1,0 +1,33 @@
+### Disconnected operations for the notes of the Unit 3 - Data management issues, data replication for mobile computers, adaptive clustering for mobile in the subject of Mobile Computing
+
+- Disconnected operation is a technique that allows mobile devices to execute applications when they are temporarily or intentionally disconnected from the network .
+- Disconnected operation can improve the availability, performance, and energy efficiency of mobile applications by reducing the dependency on unreliable or costly network connections .
+- Disconnected operation can be achieved by using various mechanisms, such as:
+  - Server replication: replicating data and functionality from servers to mobile devices, so that they can access them locally during disconnection.
+  - Mobile computation: migrating code and data from servers to mobile devices, or vice versa, to enable execution at different locations.
+  - Caching and hoarding: storing frequently or recently accessed data on mobile devices, and prefetching or preloading data that are likely to be needed in the future.
+  - Reconciliation and conflict resolution: synchronizing the changes made on mobile devices and servers after reconnection, and resolving any inconsistencies or conflicts that may arise.
+- Disconnected operation poses several challenges and issues for data management, such as:
+  - Data consistency: maintaining the correctness and coherence of data across multiple replicas and versions.
+  - Data freshness: ensuring that the data on mobile devices are up-to-date and reflect the latest changes made on servers.
+  - Data security: protecting the data on mobile devices from unauthorized access, modification, or loss.
+  - Data compression: reducing the size of data to save storage space and bandwidth on mobile devices.
+  - Data selection: choosing the appropriate data to replicate or cache on mobile devices, based on the user's preferences, needs, and context.
+- Data replication for mobile computers is a technique that creates and maintains multiple copies of data on different devices, such as servers and mobile devices.
+- Data replication for mobile computers can improve the availability, performance, and reliability of data access by allowing mobile devices to access data locally or from nearby devices, instead of relying on remote servers.
+- Data replication for mobile computers can be classified into two types, based on the direction of data transfer:
+  - Client-initiated replication: the mobile device initiates the replication process by requesting data from the server, and then stores the data locally or on other devices.
+  - Server-initiated replication: the server initiates the replication process by pushing data to the mobile device, either periodically or on demand.
+- Data replication for mobile computers can also be classified into two types, based on the degree of replication:
+  - Full replication: the mobile device stores a complete copy of the data from the server, or vice versa.
+  - Partial replication: the mobile device stores a subset of the data from the server, or vice versa, based on some criteria, such as relevance, frequency, or size.
+- Data replication for mobile computers involves several trade-offs and challenges, such as:
+  - Replication overhead: the cost of creating, maintaining, and updating multiple copies of data, in terms of storage space, bandwidth, and energy consumption.
+  - Replication consistency: the degree of agreement or coherence among multiple copies of data, which can vary from strict consistency (all copies are identical) to eventual consistency (all copies will eventually converge).
+  - Replication conflict: the situation where multiple copies of data have different or contradictory values, due to concurrent or divergent updates.
+  - Replication policy: the set of rules or strategies that govern the replication process, such as when, where, how, and what data to replicate.
+- Adaptive clustering for mobile is a technique that organizes mobile devices into groups or clusters, based on some criteria, such as proximity, connectivity, or similarity.
+- Adaptive clustering for mobile can improve the communication, coordination, and collaboration among mobile devices by enabling data sharing, load balancing, fault tolerance, and distributed processing within clusters.
+- Adaptive clustering for mobile can be achieved by using various mechanisms, such as:
+  - Cluster formation: the process of creating and joining clusters, based on some criteria, such as distance, signal strength, or interest.
+  - Cluster maintenance: the process of updating and reconfiguring clusters, based on the changes in the network topology

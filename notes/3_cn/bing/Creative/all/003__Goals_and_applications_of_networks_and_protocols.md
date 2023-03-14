@@ -1,0 +1,21 @@
+#### Goals and applications of networks and protocols
+
+- A network is a collection of devices that can communicate with each other through a shared medium, such as wires, cables, radio waves, or optical fibers.
+- A protocol is a set of rules and conventions that govern how devices exchange information over a network.
+- The main goals of networks and protocols are:
+  - To enable data transmission between devices that are physically separated by distance or location.
+  - To ensure reliable and efficient delivery of data, without errors, losses, or delays.
+  - To provide security and privacy for the data and the devices involved in the communication.
+  - To support different types of data, such as text, images, audio, video, etc.
+  - To accommodate different network architectures, such as peer-to-peer, client-server, or hybrid.
+  - To allow interoperability and compatibility among different devices, platforms, and applications.
+- Some of the applications of networks and protocols are:
+  - The Internet, which is a global network of networks that connects millions of devices and users using the TCP/IP protocol suite.
+  - The World Wide Web, which is an application that runs on the Internet and allows users to access and share information using the HTTP protocol and the HTML language.
+  - Email, which is an application that allows users to send and receive messages using the SMTP protocol and the MIME format.
+  - File Transfer Protocol (FTP), which is an application that allows users to upload and download files from remote servers using the FTP protocol.
+  - Voice over IP (VoIP), which is an application that allows users to make and receive voice calls over the Internet using the SIP protocol and the RTP protocol.
+  - Wireless networks, such as Wi-Fi, Bluetooth, or cellular networks, which use radio waves to transmit data between devices using various protocols, such as IEEE 802.11, IEEE 802.15, or GSM.
+  - Local Area Networks (LANs), which are networks that connect devices within a small geographic area, such as a home, office, or campus, using protocols such as Ethernet, Token Ring, or FDDI.
+  - Wide Area Networks (WANs), which are networks that connect devices across large geographic areas, such as cities, countries, or continents, using protocols such as ATM, Frame Relay, or MPLS.
+  - Virtual Private Networks (VPNs), which are networks that create secure and encrypted tunnels over public networks, such as the Internet, using protocols such as IPSec, SSL, or PPTP.

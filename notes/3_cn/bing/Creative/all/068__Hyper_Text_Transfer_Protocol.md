@@ -1,0 +1,37 @@
+### Hyper Text Transfer Protocol
+
+- Hyper Text Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML, between web browsers and web servers.  
+- HTTP was developed by Tim Berners-Lee at CERN in 1989 and has evolved through several versions, such as HTTP/1.0, HTTP/1.1, HTTP/2 and HTTP/3.    
+- HTTP follows a client-server model, where a client (usually a web browser) initiates a request for a resource (such as a web page) and a server (usually a web server) responds with the resource or an error message. 
+- HTTP is a stateless protocol, meaning that the server does not keep any data (state) between two requests. Each request and response is independent and self-contained. 
+- HTTP uses a uniform resource identifier (URI) to identify and locate resources on the web. A URI consists of a scheme (such as http or https), a host (such as www.example.com), a path (such as /index.html) and optionally a query string (such as ?q=keyword) and a fragment (such as #section). 
+- HTTP defines a set of methods (also known as verbs) to indicate the desired action to be performed on the resource. The most common methods are: 
+  - GET: requests a representation of the resource.
+  - POST: submits data to the resource, such as a form or a file.
+  - PUT: replaces the resource with the data in the request body.
+  - DELETE: deletes the resource.
+  - HEAD: requests only the headers of the resource, without the body.
+  - OPTIONS: requests the available methods and options for the resource.
+  - PATCH: applies partial modifications to the resource.
+  - TRACE: echoes back the request for debugging purposes.
+  - CONNECT: establishes a tunnel to the server for proxy purposes.
+- HTTP defines a set of headers to provide additional information about the request and the response. Headers are divided into four categories: 
+  - General headers: apply to both request and response messages, such as Date, Connection and Cache-Control.
+  - Request headers: provide information about the client and the request, such as User-Agent, Host and Accept.
+  - Response headers: provide information about the server and the response, such as Server, Content-Type and Location.
+  - Entity headers: provide information about the body of the request or response, such as Content-Length, Content-Encoding and ETag.
+- HTTP defines a set of status codes to indicate the outcome of the request. Status codes are grouped into five classes: 
+  - 1xx: Informational responses, such as 100 Continue and 101 Switching Protocols.
+  - 2xx: Successful responses, such as 200 OK and 201 Created.
+  - 3xx: Redirection responses, such as 301 Moved Permanently and 302 Found.
+  - 4xx: Client error responses, such as 400 Bad Request and 404 Not Found.
+  - 5xx: Server error responses, such as 500 Internal Server Error and 503 Service Unavailable.
+- HTTP supports various features to improve the performance, security and functionality of the web, such as:    
+  - Caching: allows the client or intermediate proxies to store copies of frequently accessed resources and reuse them without contacting the server.
+  - Cookies: allow the server to store small pieces of data on the client and retrieve them in subsequent requests to maintain state and preferences.
+  - Compression: allows the client and the server to negotiate the encoding of the body to reduce the size and bandwidth of the messages.
+  - Authentication: allows the client to provide credentials to the server to access protected resources, such as Basic, Digest or Bearer tokens.
+  - Encryption: allows the client and the server to establish a secure connection using HTTPS, which is HTTP over Transport Layer Security (TLS).
+  - Multiplexing: allows the client and the server to send and receive multiple messages concurrently over a single connection, reducing latency and overhead.
+  - Push: allows the server to send resources to the client proactively, without waiting for a request, improving the loading speed of web pages.
+  - Prioritization: allows the client

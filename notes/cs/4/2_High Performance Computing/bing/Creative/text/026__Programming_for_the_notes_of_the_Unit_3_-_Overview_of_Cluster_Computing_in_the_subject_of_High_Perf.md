@@ -1,0 +1,11 @@
+### Programming for Cluster Computing
+
+Cluster computing is a technique of using multiple computers, or nodes, that work together as a single system to perform parallel tasks. Cluster computing can improve the performance, availability, scalability and cost-effectiveness of computing systems. Cluster computing can be used for various applications, such as scientific computing, web hosting, data analysis, machine learning, etc.
+
+To program for cluster computing, one needs to consider the following aspects:
+
+- Cluster architecture: The design and layout of the cluster, including the hardware, network, operating system and middleware components. The cluster architecture determines the communication, coordination and synchronization among the nodes, as well as the fault tolerance and load balancing mechanisms. Different types of cluster architectures include high-performance clusters, load-balancing clusters and high-availability clusters.  
+- Cluster programming models: The abstraction and interface for expressing parallel algorithms and applications on a cluster. The cluster programming models define the data distribution, task decomposition, communication and synchronization patterns among the nodes. Different types of cluster programming models include message passing, shared memory, distributed memory, data parallel and task parallel.  
+- Cluster programming tools: The software tools and libraries that support the development, execution and debugging of cluster programs. The cluster programming tools include compilers, interpreters, debuggers, profilers, performance analyzers, workload managers, cluster configuration tools and cluster management tools. Some examples of cluster programming tools are MPI, OpenMP, Pthreads, CUDA, Hadoop, Spark, Slurm, Kubernetes, etc.   
+
+To program for cluster computing, one needs to have a good understanding of the cluster architecture, programming model and programming tools that are suitable for the problem domain and the cluster environment. One also needs to have good skills in parallel programming, distributed computing, network programming and performance optimization. Cluster programming can be challenging, but also rewarding, as it can enable the development of scalable, efficient and reliable applications that can leverage the power of multiple computers.

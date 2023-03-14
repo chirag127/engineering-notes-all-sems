@@ -1,0 +1,8 @@
+## Unit 3 - Permissioned Blockchains
+
+- Permissioned blockchains are blockchains that are closed (i.e., not publicly accessible) or have an access control layer. This additional layer of security means that the blockchain can only be accessed by users with permissions .
+- Permissioned blockchains are different from permissionless blockchains, which are open, decentralized networks that anyone can join and participate in. Permissionless blockchains, such as Bitcoin and Ethereum, are examples of public, trustless systems .
+- Permissioned blockchains are favored by entities that require security, identity, and role definition within the blockchain. They are also more customizable, scalable, and faster than permissionless blockchains, as they involve fewer nodes and less complex consensus mechanisms .
+- Permissioned blockchains can be used for various applications, such as finance, supply chain, identity, and healthcare. They can also involve digital assets, such as tokens or smart contracts, depending on the design and governance of the network .
+- Permissioned blockchains are not necessarily centralized or controlled by a single authority. They can have different degrees of decentralization and transparency, depending on the consensus protocol and the access control layer. Some examples of permissioned blockchains are Ripple, Hyperledger Fabric, and Corda .
+- Permissioned blockchains are ideal for business applications, as they offer the benefits of blockchain technology, such as immutability, validation, and confidentiality, while also addressing the challenges of scalability, performance, and privacy.

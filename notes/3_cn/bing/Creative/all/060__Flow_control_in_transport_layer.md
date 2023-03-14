@@ -1,0 +1,9 @@
+### Flow control in transport layer
+
+Flow control is a mechanism that regulates the amount and rate of data transmission between a sender and a receiver. It prevents the sender from overwhelming the receiver with more data than it can handle. Flow control is needed in the transport layer because it provides end-to-end communication services for applications, and it ensures reliable and efficient data transfer across the network.
+
+There are different methods of flow control in the transport layer, depending on the protocol used. The most common protocols are TCP and UDP.
+
+- TCP (Transmission Control Protocol) is a connection-oriented and reliable protocol that uses a sliding window mechanism for flow control. A sliding window is a variable-sized buffer that indicates how much data can be sent or received at a time. The sender and the receiver exchange window size information and acknowledgments to adjust the window size dynamically according to the network conditions and the receiver's buffer capacity. TCP also uses congestion control algorithms to avoid network congestion and packet loss. TCP is suitable for applications that require reliable and ordered delivery of data, such as web browsing, email, and file transfer.
+
+- UDP (User Datagram Protocol) is a connectionless and unreliable protocol that does not provide any flow control mechanism. UDP simply sends datagrams to the destination without waiting for acknowledgments or feedback. UDP does not guarantee delivery, order, or integrity of data. UDP is suitable for applications that can tolerate some data loss and prefer speed over reliability, such as video streaming, voice over IP, and online gaming.

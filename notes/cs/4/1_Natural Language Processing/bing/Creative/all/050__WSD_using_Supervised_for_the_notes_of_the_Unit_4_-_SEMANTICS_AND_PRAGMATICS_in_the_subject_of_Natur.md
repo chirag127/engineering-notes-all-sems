@@ -1,0 +1,22 @@
+### WSD using Supervised for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+- Word Sense Disambiguation (WSD) is the task of identifying the correct meaning or sense of a word in a given context, based on the surrounding words and the knowledge of the world.
+- WSD is a part of computational lexical semantics, which deals with the representation and computation of word meanings.
+- WSD is considered an AI-complete problem, which means that it is as hard as the most difficult problems in AI, such as natural language understanding, machine translation, and computer vision.
+- WSD has many applications in NLP, such as machine translation, information retrieval, text summarization, question answering, and sentiment analysis .
+- WSD using Supervised methods involves the following steps:
+  - Collecting a large corpus of text where each word is annotated with its correct sense, based on a predefined sense inventory, such as WordNet.
+  - Extracting features from the annotated text, such as the part-of-speech tags, the lemmas, the syntactic relations, and the collocations of the target word and its context.
+  - Training a machine learning model, such as a decision tree, a naive Bayes classifier, a support vector machine, or a neural network, to learn the mapping from the features to the senses.
+  - Evaluating the model on a separate test set of annotated text, and measuring its accuracy, precision, recall, and F1-score.
+- WSD using Supervised methods has some advantages and disadvantages:
+  - Advantages:
+    - It can achieve high accuracy and robustness, especially for words with few senses and clear distinctions.
+    - It can leverage the rich information from the annotated text and the sense inventory, and learn complex patterns and rules.
+    - It can benefit from the advances in machine learning and deep learning, and use sophisticated models and architectures.
+  - Disadvantages:
+    - It requires a large amount of annotated text, which is costly and time-consuming to obtain.
+    - It suffers from the data sparsity problem, which means that some senses may not have enough examples or may not appear at all in the training data.
+    - It depends on the quality and coverage of the sense inventory, which may not be consistent, comprehensive, or domain-specific.
+- A possible mnemonic to remember the steps of WSD using Supervised methods is: **CATTE** (Collect, Annotate, Train, Test, Evaluate).
+- A possible learning trick to understand the concept of WSD using Supervised methods is to imagine that you are a detective who is trying to solve a mystery. You have a list of suspects, each with a different profile and motive. You also have a set of clues, such as fingerprints, DNA, and witnesses. You need to use the clues to find the most likely suspect for each crime scene. Similarly, in WSD, you have a list of senses, each with a different definition and example. You also have a set of features, such as words, tags, and relations. You need to use the features to find the most likely sense for each word in context.

@@ -1,0 +1,33 @@
+### DTD in Web Page Designing
+
+- DTD stands for Document Type Definition. It is a set of rules that defines the structure and content of an XML or HTML document.
+- DTD specifies what elements, attributes, entities, and notations are allowed in a document, and how they are related to each other.
+- DTD helps to ensure the validity and interoperability of documents by providing a common grammar for different applications and browsers to follow.
+- DTD can be declared either internally or externally. An internal DTD is embedded within the document itself, while an external DTD is referenced by a URL or a file path.
+- DTD can be written in two syntaxes: SGML or XML. SGML is the older and more complex syntax, while XML is the newer and simpler syntax. XML DTDs are more widely used and supported than SGML DTDs.
+- DTD consists of four main components: element declarations, attribute declarations, entity declarations, and notation declarations.
+  - Element declarations define the names and types of elements that can appear in a document, and their possible content models (i.e., what child elements and text they can contain).
+  - Attribute declarations define the names and types of attributes that can be associated with an element, and their possible values and default values.
+  - Entity declarations define the names and values of entities that can be used to represent special characters, strings, or external resources in a document.
+  - Notation declarations define the names and identifiers of notations that can be used to specify the format or encoding of external resources referenced by entities.
+- DTD uses some symbols and keywords to express the rules and constraints of a document. Some of the common ones are:
+  - `<!DOCTYPE>`: The keyword that indicates the start of a DTD declaration. It specifies the name of the root element and the location of the external DTD (if any).
+  - `<!ELEMENT>`: The keyword that indicates the start of an element declaration. It specifies the name and the content model of an element.
+  - `<!ATTLIST>`: The keyword that indicates the start of an attribute declaration. It specifies the name of the element and the list of attributes that can be associated with it.
+  - `<!ENTITY>`: The keyword that indicates the start of an entity declaration. It specifies the name and the value of an entity.
+  - `<!NOTATION>`: The keyword that indicates the start of a notation declaration. It specifies the name and the identifier of a notation.
+  - `#PCDATA`: The symbol that indicates parsed character data. It means that the content of an element can be any text that is parsed by the XML or HTML processor.
+  - `#CDATA`: The symbol that indicates character data. It means that the content of an element can be any text that is not parsed by the XML or HTML processor.
+  - `#REQUIRED`: The symbol that indicates a required attribute. It means that the attribute must be specified for the element.
+  - `#IMPLIED`: The symbol that indicates an optional attribute. It means that the attribute can be omitted for the element.
+  - `#FIXED`: The symbol that indicates a fixed attribute. It means that the attribute must have a predefined value for the element.
+  - `|`: The symbol that indicates a choice. It means that the content of an element can be one of the alternatives separated by the symbol.
+  - `,`: The symbol that indicates a sequence. It means that the content of an element must follow the order of the items separated by the symbol.
+  - `?`: The symbol that indicates an optional occurrence. It means that the item can appear zero or one time in the content of an element.
+  - `*`: The symbol that indicates a zero or more occurrence. It means that the item can appear any number of times in the content of an element.
+  - `+`: The symbol that indicates a one or more occurrence. It means that the item must appear at least one time in the content of an element.
+  - `()`: The symbols that indicate a group. They are used to enclose a set of items that are treated as a single unit in the content of an element.
+- DTD can be used to validate the structure and content of an XML or HTML document by comparing it with the rules and constraints defined in the DTD. A document that conforms to the DTD is called a valid document, while a document that does not conform to the DTD is called an invalid document.
+- DTD has some advantages and disadvantages as a document type definition language. Some of the advantages are:
+  - DTD is simple and easy to learn and use.
+  - DTD is widely supported by various applications and browsers.

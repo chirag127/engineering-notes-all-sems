@@ -1,0 +1,23 @@
+### Java Server Pages (JSP) in Servlets
+
+- Java Server Pages (JSP) are a technology that allows web developers to create dynamic web pages using Java code embedded in HTML or XML documents.
+- JSP are compiled into servlets by a JSP compiler, which is usually part of a web server or a web container such as Tomcat or Jetty.
+- JSP can access Java objects, methods, and variables using special tags called scriptlets, expressions, and declarations. They can also use custom tags and tag libraries to encapsulate reusable functionality and logic.
+- JSP follow a request-response model, where a web browser sends a request to a web server, which invokes a JSP to generate a response. The response can be HTML, XML, JSON, or any other format that the browser can render or process.
+- JSP have a life cycle that consists of the following phases:
+  - Translation: The JSP compiler translates the JSP into a servlet class.
+  - Compilation: The servlet class is compiled into a bytecode file.
+  - Loading: The bytecode file is loaded into the web container's memory.
+  - Initialization: The servlet's init() method is invoked to perform any initialization tasks.
+  - Execution: The servlet's service() method is invoked to process the request and generate the response.
+  - Destruction: The servlet's destroy() method is invoked to perform any cleanup tasks before the servlet is unloaded from memory.
+- JSP can use various implicit objects that are created by the web container and passed to the JSP. These objects include:
+  - request: Represents the HTTP request from the browser. It contains information such as parameters, headers, cookies, etc.
+  - response: Represents the HTTP response to the browser. It allows the JSP to set the status code, headers, cookies, etc.
+  - out: Represents the output stream to write the response body.
+  - session: Represents the HTTP session that maintains the state of the user across multiple requests. It allows the JSP to store and retrieve attributes associated with the user.
+  - application: Represents the web application context that is shared by all the servlets and JSP in the same web application. It allows the JSP to store and retrieve attributes that are global to the application.
+  - config: Represents the servlet configuration object that contains initialization parameters for the servlet or the JSP.
+  - page: Represents the current JSP instance.
+  - pageContext: Represents the page context object that provides access to the other implicit objects as well as the JSP's scope, expression evaluator, etc.
+  - exception: Represents the exception object that is thrown by the JSP or the servlet. It is only available in error pages that are specified by the errorPage and isErrorPage directives.

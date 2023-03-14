@@ -1,0 +1,25 @@
+#### Corrective Maintenance (CM) of Software
+
+- Corrective maintenance is the process of fixing errors or defects in a software system after it has been delivered or deployed.
+- Corrective maintenance can be triggered by user feedback, bug reports, system failures, or testing results.
+- Corrective maintenance can be classified into four types: emergency, perfective, adaptive, and preventive.
+  - Emergency maintenance is performed to restore the normal functioning of the system as soon as possible after a critical failure or error occurs.
+  - Perfective maintenance is performed to improve the performance, usability, or functionality of the system according to the user's requirements or expectations.
+  - Adaptive maintenance is performed to modify the system to cope with changes in the environment, such as new hardware, software, or regulations.
+  - Preventive maintenance is performed to detect and eliminate potential errors or defects before they cause failures or affect the quality of the system.
+- Corrective maintenance can be performed using different approaches, such as debugging, patching, refactoring, or rewriting.
+  - Debugging is the process of locating and removing errors or defects in the source code or executable code of the system.
+  - Patching is the process of applying a small modification or update to the system to fix a specific error or defect without changing the overall functionality or structure of the system.
+  - Refactoring is the process of improving the internal quality or design of the system by restructuring or reorganizing the source code or executable code without changing the external behavior or functionality of the system.
+  - Rewriting is the process of creating a new version of the system from scratch or using a different technology or platform to replace the existing system.
+- Corrective maintenance can have various benefits and challenges for the software system and its stakeholders, such as:
+  - Benefits:
+    - It can increase the reliability, availability, and security of the system by fixing errors or defects that may cause failures or vulnerabilities.
+    - It can enhance the user satisfaction, loyalty, and retention by meeting the user's needs, expectations, or preferences.
+    - It can reduce the cost, time, and effort of maintaining the system by preventing or minimizing the occurrence or impact of errors or defects.
+    - It can extend the lifespan, functionality, or compatibility of the system by adapting to changes in the environment or requirements.
+  - Challenges:
+    - It can introduce new errors or defects into the system by modifying or altering the existing code or functionality of the system.
+    - It can degrade the performance, usability, or quality of the system by adding complexity, redundancy, or inconsistency to the code or functionality of the system.
+    - It can increase the dependency, coupling, or rigidity of the system by creating or using patches, workarounds, or hacks to fix errors or defects.
+    - It can reduce the maintainability, modifiability, or testability of the system by violating or ignoring the software engineering principles, standards, or best practices.

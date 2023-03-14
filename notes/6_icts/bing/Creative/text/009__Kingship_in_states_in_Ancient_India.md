@@ -1,0 +1,14 @@
+### Kingship in states in Ancient India
+
+- Kingship in ancient India was a sovereignty over a territory by a king who functioned as its protector, a role which involved both secular and religious power.
+- The meaning and significance of kingship changed dramatically between the Vedic and Later Vedic period, and underwent further development under the times of the Jain and Buddhist rulers.
+- In the Vedic period, kingship was not always hereditary and the king was not considered divine. He was dependent on the gods and the assembly (samiti) for his authority and legitimacy .
+- In the Later Vedic period, kingship became more hereditary and the king was increasingly associated with the gods through his qualities and rituals. He also became more powerful and independent of the assembly .
+- The king was expected to uphold the dharma, the cosmic and social order, by performing his duties (ksatra) and protecting his subjects. He was also guided by the brahmins, the priests and teachers, who instructed him in the spiritual and moral aspects of dharma .
+- The king was also the source of law and justice, and had the right to punish the offenders and reward the virtuous. He was assisted by a council of ministers and a bureaucracy of officials in administering his kingdom .
+- The king also performed various rituals and sacrifices to ensure the prosperity and welfare of his kingdom and to gain the favor of the gods. Some of the important rituals were the rajasuya (royal consecration), the asvamedha (horse sacrifice), and the vajapeya (chariot race) .
+- The king also patronized various arts, sciences, and religions, and supported the development of literature and culture. He also engaged in diplomacy and warfare with other kings and states, and expanded his territory through conquest or alliance .
+- The king was also revered and honored by his subjects, who offered him gifts and tribute. He was also expected to be generous and benevolent, and to distribute his wealth among his people. He was also the model of virtue and heroism, and the embodiment of the ideal of kingship .
+- The king was also identified with various deities, especially Vishnu and his incarnations as Rama and Krishna, who were both royal and divine. The stories and iconography of these deities reflected the ideals and challenges of kingship in ancient India .
+- The king was also influenced by the teachings and practices of Jainism and Buddhism, which emerged as alternative religions in ancient India. These religions challenged the authority and legitimacy of the king and the brahmins, and advocated non-violence, renunciation, and enlightenment as the goals of life .
+- The king was also subject to various theories of origin and justification of kingship, which explained how and why he came to be the ruler of his people. Some of the main theories were the divine theory, the social contract theory, and the force theory.

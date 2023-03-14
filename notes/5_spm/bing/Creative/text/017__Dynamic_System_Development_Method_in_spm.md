@@ -1,0 +1,32 @@
+### Dynamic System Development Method in spm
+
+- Dynamic System Development Method (DSDM) is an agile project delivery framework, initially used as a software development method, but later expanded to other types of projects. 
+- DSDM aims to deliver projects that meet the business needs, on time and within budget, by using an iterative and incremental approach that involves continuous user feedback and collaboration.  
+- DSDM is based on nine core principles that guide the project team and stakeholders throughout the project lifecycle. These principles are:  
+  - Focus on the business need
+  - Deliver on time
+  - Collaborate
+  - Never compromise quality
+  - Build incrementally from firm foundations
+  - Develop iteratively
+  - Communicate continuously and clearly
+  - Demonstrate control
+  - Empower the team
+- DSDM follows a five-stage project lifecycle that consists of:  
+  - Feasibility: The project team assesses the viability and suitability of the project and produces a feasibility report.
+  - Foundations: The project team defines the scope, objectives, requirements, and solution outline of the project and produces a prioritized requirements list and a project plan.
+  - Evolutionary Development: The project team develops the solution incrementally and iteratively, delivering the most important features first and incorporating user feedback and changes along the way. The team produces a tested solution increment at the end of each iteration.
+  - Deployment: The project team delivers the solution to the users and ensures that it meets the acceptance criteria and the business needs. The team produces a deployment plan and a benefits assessment.
+  - Post-Project: The project team reviews the project outcomes and lessons learned and identifies any follow-up actions or maintenance activities. The team produces a project review report and a post-project benefits assessment.
+- DSDM uses a set of roles and responsibilities that define the expectations and authority of each project member and stakeholder. These roles are:  
+  - Business Sponsor: The person who owns the business case and the benefits of the project and provides the funding and resources.
+  - Business Visionary: The person who defines the vision and direction of the project and ensures that it aligns with the business strategy and objectives.
+  - Project Manager: The person who manages the project activities, risks, issues, and resources and ensures that the project delivers on time, within budget, and with quality.
+  - Technical Coordinator: The person who coordinates the technical aspects of the project and ensures that the solution meets the technical standards and requirements.
+  - Business Analyst: The person who analyzes the business needs and requirements and facilitates the communication and collaboration between the business and technical stakeholders.
+  - Solution Developer: The person who designs, builds, and tests the solution components and ensures that they meet the functional and non-functional requirements.
+  - Solution Tester: The person who tests the solution components and ensures that they meet the acceptance criteria and quality standards.
+  - Business Ambassador: The person who represents the end-users and provides feedback and validation on the solution features and usability.
+  - Business Advisor: The person who provides expert advice and guidance on a specific business domain or area of the solution.
+  - Workshop Facilitator: The person who facilitates the workshops and meetings that involve the project team and stakeholders and ensures that they are productive and effective.
+  - DSDM Coach: The person who provides coaching and mentoring on the DSDM principles and practices and helps the project team and stakeholders adopt and apply them.

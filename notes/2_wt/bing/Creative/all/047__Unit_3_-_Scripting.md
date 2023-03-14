@@ -1,0 +1,26 @@
+## Unit 3 - Scripting
+
+- Scripting is the process of writing and executing a series of commands or instructions that can be run by a computer program or an interpreter.
+- Scripting languages are high-level languages that are designed for scripting, such as Python, Perl, Ruby, JavaScript, etc.
+- Scripting languages have some features that make them suitable for scripting, such as:
+  - They are interpreted, not compiled, which means they can be executed without a separate compilation step.
+  - They are dynamically typed, which means they do not require explicit type declarations for variables or functions.
+  - They have built-in data structures and libraries that simplify common tasks, such as strings, lists, dictionaries, files, etc.
+  - They support multiple programming paradigms, such as procedural, object-oriented, functional, etc.
+  - They have a concise and expressive syntax that allows writing code in fewer lines.
+- Scripting languages have some advantages and disadvantages, such as:
+  - Advantages:
+    - They are easy to learn and use, especially for beginners and non-programmers.
+    - They are portable and platform-independent, which means they can run on different operating systems and devices.
+    - They are flexible and extensible, which means they can be modified and customized according to the needs of the user or the application.
+    - They are suitable for rapid prototyping and testing, which means they can be used to create and debug programs quickly and iteratively.
+  - Disadvantages:
+    - They are slower and less efficient than compiled languages, which means they consume more memory and CPU resources.
+    - They are less secure and reliable than compiled languages, which means they are more prone to errors and vulnerabilities.
+    - They are less standardized and consistent than compiled languages, which means they may have different syntax, semantics, and features across different implementations and versions.
+- Scripting languages can be used for various purposes and applications, such as:
+  - Web development: Scripting languages can be used to create dynamic and interactive web pages and applications, such as HTML, CSS, JavaScript, PHP, etc.
+  - Data analysis: Scripting languages can be used to manipulate, process, and visualize large and complex data sets, such as Python, R, MATLAB, etc.
+  - Automation: Scripting languages can be used to automate repetitive and tedious tasks, such as batch processing, file management, system administration, etc.
+  - Game development: Scripting languages can be used to create and control the logic and behavior of games and simulations, such as Lua, Python, etc.
+  - Artificial intelligence: Scripting languages can be used to implement and apply various machine learning and deep learning algorithms and models, such as Python, TensorFlow, PyTorch, etc.

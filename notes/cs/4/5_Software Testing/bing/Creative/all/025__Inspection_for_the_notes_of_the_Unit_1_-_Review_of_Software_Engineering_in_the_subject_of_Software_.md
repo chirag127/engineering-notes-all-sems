@@ -1,0 +1,32 @@
+### Inspection for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Inspection is a process of peer review of any work product by trained individuals who look for defects using a well defined process.
+- Inspection can also be called Fagan inspection after Michael Fagan, the creator of a very popular software inspection process.
+- Inspection aims to discover defects at the earliest and provide the elements to make corrections.
+- Inspection is not designed to make corrections, but to report them to the author of the work product.
+- Inspection can be applied to any software engineering artifact, such as requirements, design, code, test plans, etc  .
+- Inspection can improve the overall quality of the software by identifying and resolving faults early in the development process.
+- Inspection involves the following roles:
+  - Author: The person who created the work product being inspected.
+  - Moderator: The person who leads and coordinates the inspection.
+  - Reader: The person who reads through the work product, part by part, during the inspection meeting.
+  - Recorder/Scribe: The person who documents the defects that are found during the inspection.
+- Inspection involves the following stages:
+  - Planning: The moderator plans the inspection and selects the work product, the inspectors, and the schedule.
+  - Overview meeting: The author describes the background and the purpose of the work product to the inspectors.
+  - Preparation: Each inspector examines the work product individually and notes down the possible defects.
+  - Inspection meeting: The reader reads through the work product, part by part, and the inspectors point out the defects for every part. The recorder documents the defects and the action plans to correct them.
+  - Rework: The author makes changes to the work product according to the action plans from the inspection meeting.
+  - Follow-up: The moderator checks the changes made by the author and verifies that they are correct. The moderator also decides when the inspection process is completed and satisfies some predefined exit criteria.
+- Inspection can have some benefits, such as :
+  - Reducing the cost and time of software development by finding and fixing defects early.
+  - Improving the communication and collaboration among the software development team members.
+  - Enhancing the quality and reliability of the software products.
+  - Increasing the customer satisfaction and confidence in the software products.
+  - Supporting the continuous improvement and learning of the software development process and practices.
+- Inspection can also have some challenges, such as :
+  - Requiring a significant amount of time and effort from the inspectors and the author.
+  - Depending on the skills and experience of the inspectors and the author.
+  - Being influenced by the human factors, such as bias, fatigue, motivation, etc.
+  - Needing a clear and consistent definition of the inspection process, roles, and criteria.
+  - Facing some resistance or reluctance from the software developers who may perceive inspection as a threat or a criticism.

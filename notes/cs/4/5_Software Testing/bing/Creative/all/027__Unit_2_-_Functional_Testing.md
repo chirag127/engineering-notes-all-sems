@@ -1,0 +1,37 @@
+## Unit 2 - Functional Testing
+
+- Functional testing is a type of software testing that verifies that the software system performs and functions correctly according to the design specifications.
+- Functional testing covers the following aspects of a software system:
+  - Basic functionality: the system executes all the functions and commands as expected.
+  - Usability: the system is user-friendly and easy to operate and understand.
+  - Accessibility: the system is accessible to all types of users, including those with disabilities.
+  - Compatibility: the system works well with other systems, platforms, devices, browsers, etc.
+  - Error handling: the system handles errors and exceptions gracefully and provides appropriate messages and guidance to the user.
+  - Security: the system protects the data and resources from unauthorized access and malicious attacks.
+- Functional testing can be performed at different levels of software development, such as unit testing, integration testing, system testing, and acceptance testing.
+- Functional testing can be done manually or with the help of automated tools and frameworks.
+- Functional testing can be done in two ways: black-box testing and white-box testing.
+  - Black-box testing: the tester does not have access to the internal structure or code of the system and tests the system based on the input and output behavior.
+  - White-box testing: the tester has access to the internal structure or code of the system and tests the system based on the logic and flow of the code.
+- Functional testing involves the following steps:
+  - Identify the functions and features of the system that need to be tested.
+  - Define the test cases and test data for each function and feature.
+  - Execute the test cases and compare the actual results with the expected results.
+  - Report and track the defects and bugs found during testing.
+  - Repeat the testing until all the defects and bugs are fixed and the system meets the requirements.
+- Functional testing can be done using various techniques, such as:
+  - Equivalence partitioning: the tester divides the input domain into equivalent classes and selects one representative value from each class to test the system.
+  - Boundary value analysis: the tester tests the system with the values at the boundaries or edges of the input domain, such as minimum, maximum, just above, just below, etc.
+  - Decision table testing: the tester creates a table that shows the combinations of inputs and outputs for different scenarios and rules and tests the system accordingly.
+  - State transition testing: the tester tests the system with the different states and transitions that the system can go through during its execution.
+  - Use case testing: the tester tests the system with the different use cases or scenarios that describe the interactions between the system and the user or other systems.
+- Some of the advantages of functional testing are:
+  - It ensures that the system meets the user and business requirements and expectations.
+  - It improves the quality and reliability of the system and reduces the risk of failures and errors.
+  - It increases the user satisfaction and confidence in the system and its functionality.
+  - It facilitates the integration and maintenance of the system and its components.
+- Some of the disadvantages of functional testing are:
+  - It can be time-consuming and costly to design and execute the test cases and test data.
+  - It can be difficult to cover all the possible scenarios and cases of the system and its functionality.
+  - It can be affected by the changes and modifications in the system and its requirements.
+  - It does not test the non-functional aspects of the system, such as performance, load, stress, etc.

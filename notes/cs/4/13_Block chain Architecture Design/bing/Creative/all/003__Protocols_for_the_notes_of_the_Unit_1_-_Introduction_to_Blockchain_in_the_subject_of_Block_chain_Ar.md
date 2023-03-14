@@ -1,0 +1,24 @@
+### Protocols for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Protocols are basic sets of rules that ensure data sharing between computers or computing systems.
+- In the case of cryptocurrencies, they set out the structure of the blockchain and the rules for managing the distributed database, which will guarantee that assets are traded securely online.
+- Blockchain protocols are a set of protocols used to govern the blockchain network. The rules define the interface of the network, interaction between the computers, incentives, kind of data, etc.
+- The protocols aim to address the four principles:
+  - Security: Protocols maintain the security of the whole crypto network. Since the network involves the transfer of money, protocols define the structure of data and also secure data from malicious users.
+  - Decentralization: Blockchain is a decentralized network. There is no involvement of any central authority. So the protocols authorize the whole network.
+  - Consistency: Whenever a transaction occurs, protocols update the whole database at each step so that each user is well versed with the whole crypto network.
+  - Scalability: Scalability means an increase in the number of transactions. Earlier scalability was an issue in the blockchain. But nowadays most protocols handle the issue of an increasing number of transactions in the network and the addition of nodes to the network.
+- Each and every transaction is verified by the developers and is stored so that each individual can have access to the transaction and protocols help to maintain this transparency.
+- How blockchain protocols work:
+  - Suppose there is a transaction between two individuals A and B. Individual A makes a request to make a transaction. A block for ‘A’ is created. This block once created cannot be altered. This is done by the blockchain protocol.
+  - After this, the block is sent to each and everyone in the network. This distribution of blocks across the network is also done by protocols.
+  - The block is validated by the nodes in the network. This validation is done by solving a complex mathematical problem. The first node to solve the problem broadcasts the solution to the other nodes. This is called proof-of-work (PoW) protocol.
+  - The other nodes check the solution and if it is correct, they add the block to their own copy of the ledger. This is how consensus is reached among the nodes. The block is now added to the blockchain and the transaction is complete.
+  - The nodes that validate the blocks are rewarded with some cryptocurrency. This is called mining.
+- There are different types of blockchain protocols, such as:
+  - Proof-of-work (PoW): This is the most common and oldest protocol, used by Bitcoin, Ethereum, Litecoin, etc. It requires nodes to solve a complex mathematical problem to validate blocks and reach consensus. It is secure but consumes a lot of energy and is slow.
+  - Proof-of-stake (PoS): This is a newer and more efficient protocol, used by Cardano, Polkadot, Ethereum 2.0, etc. It does not require nodes to solve a problem, but instead, they stake some of their coins to validate blocks and reach consensus. The more coins they stake, the higher their chances of being selected as validators. It is faster and more eco-friendly than PoW, but it may favor the rich and create centralization.
+  - Proof-of-authority (PoA): This is a protocol that relies on a set of trusted validators, who are authorized by the network to validate blocks and reach consensus. It is used by private or permissioned blockchains, such as VeChain, POA Network, etc. It is fast and scalable, but it sacrifices decentralization and security.
+  - Proof-of-space (PoSpace): This is a protocol that requires nodes to prove that they have allocated some disk space to store the blockchain data. It is used by decentralized storage networks, such as Filecoin, Chia, etc. It is more energy-efficient than PoW, but it may cause hardware degradation and storage shortage.
+  - Proof-of-burn (PoB): This is a protocol that requires nodes to burn some of their coins, which means sending them to an unspendable address, to validate blocks and reach consensus. It is used by networks that aim to create scarcity and deflation, such as Slimcoin, Counterparty, etc. It is less wasteful than PoW, but it may cause coin hoarding and price volatility.
+- A mnemonic to remember the five types of protocols is: **WASP B** (Work, Stake,

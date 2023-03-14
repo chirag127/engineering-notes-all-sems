@@ -1,0 +1,23 @@
+### English Morphology for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- Morphology is the study of the internal structure of words and the rules for forming words from their subparts, which are called morphemes   .
+- Morphemes are the smallest units in the structural analysis of words . They are the smallest structural units the learner identifies; to be identified as such a morpheme must have an identifiable grammatical behavior, but not necessarily an identifiable meaning.
+- Morphemes are divided into two types: open class and closed class .
+  - Open class items belong to categories/types to which new members may be freely added, such as nouns, verbs, adjectives, and adverbs . For example, quark, google, blog, tweet, grunge are open class items.
+  - Closed class items belong to categories/types to which new members cannot be added, such as prepositions, conjunctions, articles, and pronouns . For example, the, and, of, he, she are closed class items.
+  - Closed class items are often called functional items because they typically have a grammatical function such as showing agreement, or marking or changing the category of other items to which they attach. For example, -s, -ed, -ing, -ly are functional items.
+  - Open class items are sometimes called lexical items because they form part of a vocabulary that must be memorized.
+- Roots, stems and affixes are important concepts in morphology .
+  - Roots are the innermost constituents of words, which cannot be further divided into meaningful units . For example, saw, book, run are roots.
+  - A stem is anything to which another morpheme may be added and which has a syntactic category such as noun or verb . For example, saw, sawed, sawing, sawn are stems.
+  - An affix is any non-root morpheme which attaches to another morpheme . For example, -ed, -ing, -n, -s are affixes.
+- Affixes can be further classified into prefixes, suffixes, and infixes .
+  - A prefix is an affix that attaches to the beginning of a stem . For example, un-, re-, dis- are prefixes.
+  - A suffix is an affix that attaches to the end of a stem . For example, -ful, -ness, -ment are suffixes.
+  - An infix is an affix that inserts into the middle of a stem . For example, -um- in Tagalog words like sulat (write) and sumulat (wrote) is an infix.
+- Affixes can also be classified into derivational and inflectional affixes .
+  - A derivational affix is an affix that changes the meaning or the category of the word to which it attaches . For example, -er, -ize, -ful are derivational affixes.
+  - An inflectional affix is an affix that does not change the meaning or the category of the word to which it attaches, but only modifies its form to indicate grammatical information such as number, tense, person, etc . For example, -s, -ed, -ing are inflectional affixes.
+- Morphemes can also be classified into free and bound morphemes .
+  - A free morpheme is a morpheme that can stand alone as a word . For example, book, run, happy are free morphemes.
+  - A bound morpheme is a morpheme that cannot stand alone as a word, but must be attached to another morpheme [^4

@@ -1,0 +1,37 @@
+### Decision Tables in Software Requirement Specification (SRS)
+
+- A decision table is a software testing technique that is used for testing the system behavior for different input combinations.
+- A decision table is also a structured way to formulate requirements and test cases when dealing with complex business rules.
+- A decision table helps to create, organize, and share requirements in a Software Requirement Specification (SRS) document, which is a document that describes what the software will do and how it will be expected to perform.
+- A decision table consists of four quadrants: the upper left quadrant lists the conditions, the lower left quadrant lists the actions, the upper right quadrant lists the possible values for each condition, and the lower right quadrant lists the corresponding actions for each value combination.
+- A decision table can be either limited entry or extended entry, depending on whether the conditions have only two possible values (Y or N) or more than two possible values.
+- A decision table can be constructed by following these steps:
+  - Draw boxes for the top and bottom left quadrants.
+  - List the conditions in the top left quadrant. When possible, phrase the conditions as questions that can be answered with a Y for yes and an N for a no.
+  - List the possible actions in the bottom left quadrant.
+  - Count the possible values for each condition and multiply these together to determine how many unique combinations of conditions are present. Draw one column in the top and bottom right quadrants for each combination.
+  - Enter all possible combinations of values in the columns in the top right quadrant of the table.
+  - For each column, that is, each unique combination of conditions, mark an X in the bottom right quadrant in the appropriate action row. The X marks the intersection between the required action and each unique combination of condition values.
+- A decision table can be completed by ensuring that no combinations are missed, by following these steps:
+  - Start with the first condition and assign the first possible value to it in the first column. Repeat this value for half of the remaining columns.
+  - Assign the second possible value to the first condition in the next column. Repeat this value for half of the remaining columns.
+  - Repeat this process for each condition, assigning values in a way that creates a binary pattern of alternating values.
+  - Check that each column has a unique combination of values and that all possible combinations are covered.
+- A decision table has several advantages for both requirements management and software testing, such as :
+  - It enables testers to investigate the effects of various input combinations and other software states that implement business rules.
+  - It helps to avoid missing or overlapping test cases and requirements by providing a clear and concise representation of complex logic.
+  - It facilitates communication and collaboration among stakeholders, developers, and testers by providing a common language and format for expressing requirements and test cases.
+  - It supports traceability and verification of requirements and test cases by linking them to the corresponding conditions and actions in the table.
+  - It reduces the maintenance effort and cost by allowing easy updates and changes to the table when the requirements or the business rules change.
+- A decision table has some limitations and challenges, such as:
+  - It may not be suitable for testing or specifying requirements that involve a large number of conditions or values, as the table may become too complex and difficult to read and understand.
+  - It may not be able to capture all the nuances and exceptions of the business rules, as the table may not be able to express the priority, sequence, or timing of the actions.
+  - It may require additional tools or techniques to validate and execute the test cases derived from the table, as the table may not be directly executable or compatible with the testing environment.
+- A decision table can be used for various types of software testing, such as:
+  - Functional testing, to verify that the software performs the expected actions for the given input combinations and conditions.
+  - Boundary value testing, to check that the software handles the extreme or invalid values for the conditions correctly.
+  - Equivalence class testing, to group the values for the conditions into classes that have the same expected output and reduce the number of test cases.
+  - Decision coverage testing, to ensure that each condition and value combination in the table is tested at least once.
+- A decision table can be used for various types of software requirements, such as:
+  - Functional requirements, to specify the behavior and functionality of the software for the given input combinations and conditions.
+  - Non-functional requirements

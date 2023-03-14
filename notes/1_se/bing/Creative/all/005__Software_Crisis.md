@@ -1,0 +1,26 @@
+### Software Crisis
+
+- Software crisis is a term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time.
+- The software crisis was due to the rapid increases in computer power and the complexity of the problems that could not be tackled with existing methods, tools and workforce.
+- The software crisis manifested itself in several ways, such as :
+  - Projects running over-budget
+  - Projects running over-time
+  - Software being very inefficient
+  - Software being of low quality
+  - Software not meeting user requirements
+  - Projects being unmanageable and code difficult to maintain
+  - Software never being delivered
+- The main cause of the software crisis was that improvements in computing power had outpaced the ability of programmers to effectively use those capabilities.
+- Some possible solutions to the software crisis are :
+  - Software engineering: a systematic, disciplined and quantifiable approach to software development
+  - Better project management: planning, organizing, monitoring and controlling software projects
+  - Adequate training in software engineering: educating and updating the skills of software developers
+  - Productivity improvements: using tools, methods and standards that enhance the efficiency and quality of software
+  - User involvement: eliciting and validating user requirements and feedback
+- A mnemonic to remember the causes of the software crisis is **COPPER**:
+  - Complexity: software systems are complex and hard to understand, design, implement and test
+  - Over-demand: software systems are in high demand and there is a shortage of skilled developers
+  - Poor quality: software systems are often buggy, unreliable, insecure and not user-friendly
+  - Pressure: software systems are subject to tight deadlines, changing requirements and high expectations
+  - Evolution: software systems need to adapt to new technologies, environments and user needs
+  - Resources: software systems require a lot of resources, such as time, money, people and hardware

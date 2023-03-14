@@ -1,0 +1,25 @@
+## Unit 1 - Introduction To Cloud Computing
+
+- Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence.
+- Cloud computing offers many benefits, such as faster innovation, scalability, flexibility, reliability, security, and cost-efficiency.
+- Cloud computing is based on three main service models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+  - IaaS provides the basic computing resources, such as servers, storage, and networking, that users can rent and manage on demand.
+  - PaaS provides the tools and platforms, such as operating systems, databases, and development frameworks, that users can use to create and deploy applications without worrying about the underlying infrastructure.
+  - SaaS provides the software applications, such as email, office, and CRM, that users can access and use over the internet without installing or maintaining them.
+- Cloud computing is also based on four main deployment models: public cloud, private cloud, hybrid cloud, and community cloud.
+  - Public cloud is the most common and widely used model, where the cloud services are provided by a third-party provider over the internet and are shared by multiple users or organizations.
+  - Private cloud is a model where the cloud services are provided by a single organization for its own use and are hosted either on-premises or off-premises by a third-party provider.
+  - Hybrid cloud is a model where the cloud services are a combination of public and private clouds, allowing the users to benefit from both models and to move data and applications between them as needed.
+  - Community cloud is a model where the cloud services are provided by a group of organizations that have common goals or interests and are hosted either on-premises or off-premises by a third-party provider or by one of the organizations in the group.
+- Cloud computing has many advantages and challenges that users should be aware of before adopting it.
+  - Some of the advantages are:
+    - Reduced capital and operational costs, as users only pay for what they use and do not need to invest in hardware, software, or maintenance.
+    - Increased scalability and elasticity, as users can easily adjust the amount of resources they need according to the demand and workload.
+    - Improved performance and availability, as users can access the cloud services from anywhere and anytime and benefit from the high-speed and reliable network of the cloud providers.
+    - Enhanced security and compliance, as users can rely on the cloud providers to protect their data and applications from threats and to meet the regulatory standards and requirements.
+    - Faster innovation and collaboration, as users can leverage the cloud services to develop and deploy new applications and solutions and to share and communicate with other users and organizations.
+  - Some of the challenges are:
+    - Dependency and lock-in, as users may face difficulties in switching or migrating from one cloud provider to another or from cloud to on-premises due to the differences in the services, standards, and formats.
+    - Privacy and confidentiality, as users may lose control over their data and applications and may not know where and how they are stored and processed by the cloud providers or who can access them.
+    - Security and reliability, as users may face risks of data breaches, cyberattacks, service outages, or data loss due to the vulnerabilities or failures of the cloud providers or the internet connection.
+    - Compatibility and interoperability, as users may encounter issues in integrating or communicating with their existing systems or applications or with other cloud services due to the lack of common protocols or interfaces.

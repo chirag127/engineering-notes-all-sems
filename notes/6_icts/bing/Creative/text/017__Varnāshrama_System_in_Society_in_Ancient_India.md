@@ -1,0 +1,7 @@
+#### Varnāshrama System in Society in Ancient India
+
+- The Varnāshrama system was a concept of social and moral order that developed in ancient Hindu society. It consisted of three components: varna, asrama, and dharma.
+- Varna refers to the four-fold division of society into four classes or castes: Brahmins (priests and teachers), Kshatriyas (warriors and rulers), Vaishyas (traders and farmers), and Shudras (workers and servants). These classes were determined by one's innate qualities and actions, not by birth .
+- Asrama refers to the four stages of life that an individual passes through: Brahmacharya (student), Grihastha (householder), Vanaprastha (forest dweller), and Sannyasa (renunciant). These stages were meant to guide one's spiritual and ethical development according to one's age and duties .
+- Dharma refers to the duty or law that governs one's conduct in relation to one's varna and asrama. It also implies the universal order and harmony that results from following one's dharma .
+- The purpose of the Varnāshrama system was to create a balanced and orderly society, where each individual contributes to the common good according to their abilities and responsibilities. It also aimed to provide a path for spiritual growth and liberation for all, regardless of their social status or personal inclination .

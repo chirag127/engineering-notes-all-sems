@@ -1,0 +1,21 @@
+#### Schedulers in Hadoop ecosystem
+
+- Schedulers are algorithms that allocate resources to applications or jobs in a Hadoop cluster based on some criteria.
+- Schedulers are part of the Resource Manager component in YARN, which is responsible for managing the cluster resources and applications.
+- There are mainly three types of schedulers in Hadoop: FIFO, Capacity, and Fair.
+- FIFO (First In First Out) Scheduler:
+  - This is the default scheduler in Hadoop that executes jobs in the order of their submission.
+  - Jobs are placed in a queue and assigned resources as they become available.
+  - This scheduler does not consider the priority or size of the jobs, so high-priority or small jobs may have to wait for a long time if there are large or low-priority jobs in the queue.
+  - This scheduler is simple to execute and does not require any configuration, but it is not suitable for a shared cluster where multiple users or organizations have different needs and expectations.
+- Capacity Scheduler:
+  - This scheduler allows multiple tenants to share a large Hadoop cluster by creating multiple queues with different capacities and priorities.
+  - Each queue is allocated a fraction of the cluster resources and can run multiple jobs in parallel.
+  - Each queue can also have sub-queues with different capacities and priorities to further divide the resources among different users or groups within a tenant.
+  - This scheduler ensures that each queue gets its fair share of resources, but also allows unused resources to be borrowed by other queues if needed.
+  - This scheduler is suitable for a shared cluster where different tenants have different SLAs (Service Level Agreements) and resource demands, but it requires careful configuration and tuning to achieve the desired performance and utilization.
+- Fair Scheduler:
+  - This scheduler aims to provide a fair share of resources to each job or application in the cluster, regardless of the queue or user.
+  - Jobs are assigned resources based on their demand and the availability of resources in the cluster, and the scheduler dynamically adjusts the allocation to balance the resource usage among all jobs.
+  - This scheduler also supports preemption, which means that it can kill tasks from over-allocated jobs and give their resources to under-allocated jobs if they have not received their fair share for a long time.
+  - This scheduler is suitable for a shared cluster where all users or applications have similar expectations and requirements, but it may cause frequent task restarts and performance degradation for some jobs due to preemption.

@@ -1,0 +1,15 @@
+### Normal Forms for grammar for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+
+- Normal forms for grammar are ways of simplifying and standardizing the rules of a grammar to make it easier to analyze and manipulate.
+- Normal forms for grammar are useful for natural language processing (NLP) because they can help reduce the complexity and ambiguity of natural languages and make them more amenable to computational methods.
+- There are different types of normal forms for grammar, depending on the type of grammar and the level of simplification desired. Some of the most common normal forms for grammar in NLP are:
+
+  - Chomsky Normal Form (CNF): A normal form for context-free grammars (CFGs) that requires every production rule to have either two non-terminal symbols or one terminal symbol on the right-hand side. For example, the rule `S -> NP VP` is in CNF, but the rule `S -> NP VP PP` is not. CNF is useful for parsing algorithms that use bottom-up or top-down strategies, such as the CYK algorithm.
+  - Greibach Normal Form (GNF): A normal form for context-free grammars that requires every production rule to have one terminal symbol followed by zero or more non-terminal symbols on the right-hand side. For example, the rule `S -> aNP VP` is in GNF, but the rule `S -> NP VP` is not. GNF is useful for parsing algorithms that use left-to-right strategies, such as the Earley algorithm.
+  - Backus-Naur Form (BNF): A normal form for context-free grammars that uses a notation to express the production rules in a concise and readable way. BNF uses symbols such as `::=` for assignment, `|` for alternation, `< >` for non-terminal symbols, and `""` for terminal symbols. For example, the rule `S -> NP VP` can be written in BNF as `<S> ::= <NP> <VP>`. BNF is useful for defining the syntax of programming languages and data structures.
+  - Kuroda Normal Form (KNF): A normal form for context-sensitive grammars (CSGs) that requires every production rule to have either one non-terminal symbol or two symbols (terminal or non-terminal) on both sides. For example, the rule `S -> aSb` is in KNF, but the rule `S -> aSbS` is not. KNF is useful for proving the equivalence of CSGs and linear bounded automata.
+  - Head Normal Form (HNF): A normal form for dependency grammars (DGs) that requires every production rule to have one head (the word that governs the syntactic relation) and zero or more dependents (the words that depend on the head) on the right-hand side. For example, the rule `S -> NP (head) VP (dependent)` is in HNF, but the rule `S -> NP VP PP` is not. HNF is useful for capturing the syntactic structure and semantic roles of natural languages.
+
+- A mnemonic to remember the normal forms for grammar in NLP is:
+
+  - **C**hocolate **G**ives **B**etter **K**icks **H**ere: **C**homsky, **G**reibach, **B**ackus-Naur, **K**uroda, **H**ead normal forms.

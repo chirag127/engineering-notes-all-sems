@@ -1,0 +1,14 @@
+### IoT Examples
+
+The Internet of Things (IoT) is a network of physical devices that can transfer data to one another without human intervention. IoT devices can include anything with a sensor assigned a unique identifier (UID), such as computers, machinery, appliances, vehicles, wearables, etc. The primary goal of the IoT is to create self-reporting devices that can communicate with each other (and users) in real time.
+
+Some of the IoT examples across various domains are:
+
+- **Connected cars**: IoT devices can enable features such as over-the-air (OTA) software updates, GPS tracking, crash detection, remote control, and performance monitoring for cars. For example, Airbiquity, Zubie, and Tesla are some of the companies that provide connectivity services for cars .
+- **Smart appliances**: IoT devices can make home appliances more intelligent, efficient, and convenient. For example, LG Electronics' ThinQ appliances can be controlled via voice or smartphone app, and can also learn from user behavior and preferences.
+- **Connected security systems**: IoT devices can enhance the security and safety of homes and businesses by providing features such as remote monitoring, motion detection, facial recognition, and emergency alerts. For example, Ring, Nest, and SimpliSafe are some of the companies that offer smart security systems.
+- **Smart agriculture equipment**: IoT devices can help farmers improve crop yield, reduce water consumption, and monitor soil and weather conditions. For example, John Deere, CropX, and The Yield are some of the companies that use IoT devices for agriculture.
+- **Connected retail**: IoT devices can help retailers optimize inventory management, enhance customer experience, and increase sales. For example, Amazon Go, Walmart, and Zara are some of the retailers that use IoT devices such as sensors, cameras, and RFID tags for retail.
+- **Connected healthcare monitors**: IoT devices can help patients and healthcare providers track vital signs, diagnose diseases, and administer treatments. For example, Fitbit, Apple Watch, and Omron are some of the devices that can monitor health and fitness data. Medtronic, Dexcom, and Philips are some of the devices that can monitor chronic conditions such as diabetes, sleep apnea, and heart failure.
+- **Connected manufacturing equipment**: IoT devices can help manufacturers improve productivity, quality, and safety by providing features such as predictive maintenance, real-time analytics, and remote control. For example, Siemens, GE, and Bosch are some of the companies that use IoT devices for manufacturing.
+- **Connected cities**: IoT devices can help cities become more sustainable, livable, and efficient by providing features such as smart lighting, traffic management, waste management, and air quality monitoring. For example, Barcelona, Singapore, and Amsterdam are some of the cities that use IoT devices for urban development.

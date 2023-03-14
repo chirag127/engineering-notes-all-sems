@@ -1,0 +1,21 @@
+### What a shallow network computes for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+- A shallow network is a type of neural network that has only one hidden layer between the input and output layers .
+- A shallow network can be seen as a special case of a deep network, where the depth is one.
+- A shallow network can learn to approximate nonlinear functions by using a combination of linear transformations and nonlinear activations.
+- A shallow network computes the output for a given input by performing the following steps:
+  - The input layer receives the input vector X and passes it to the hidden layer.
+  - The hidden layer computes the intermediate output Z[1] by multiplying X with a weight matrix W[1] and adding a bias vector b[1]. Z[1] = W[1]X + b[1]
+  - The hidden layer applies a nonlinear activation function sigma to Z[1] to get the final output of the hidden layer A[1]. A[1] = sigma(Z[1])
+  - The output layer computes the intermediate output Z[2] by multiplying A[1] with another weight matrix W[2] and adding another bias vector b[2]. Z[2] = W[2]A[1] + b[2]
+  - The output layer applies another nonlinear activation function sigma to Z[2] to get the final output of the network A[2]. A[2] = sigma(Z[2])
+- A shallow network can be trained by using a loss function that measures the difference between the predicted output A[2] and the true output Y, and by using an optimization algorithm that updates the weights and biases to minimize the loss.
+- A shallow network can be used for various tasks such as classification, regression, clustering, etc., depending on the choice of the activation function and the loss function .
+- A shallow network has some advantages and disadvantages compared to a deep network  :
+  - Advantages:
+    - A shallow network is easier to understand and interpret, as it has fewer parameters and layers to deal with.
+    - A shallow network is faster to train and test, as it requires less computation and memory.
+    - A shallow network is less prone to overfitting, as it has less capacity to memorize the training data.
+  - Disadvantages:
+    - A shallow network is less expressive and flexible, as it can only learn simple and smooth functions, and may fail to capture complex and nonlinear patterns in the data.
+    - A shallow network is less scalable and generalizable, as it may require more data and features to achieve good performance, and may not transfer well to new domains or tasks.

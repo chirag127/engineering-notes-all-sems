@@ -1,0 +1,9 @@
+## Unit 3 - Network Layer in Computer Networks
+
+The network layer is the third layer in the OSI model of computer networks. The OSI model is a conceptual framework that defines seven fundamental networking layers, from the physical hardware up to high-level software applications. The network layer is responsible for the following functions:
+
+- **Packetizing**: The network layer receives data from the upper layers and divides it into smaller units called packets. Each packet contains a header with information such as the source and destination addresses, the sequence number, and the protocol type. The network layer also adds a trailer with error detection and correction codes.
+- **Routing**: The network layer determines the best path for each packet to reach its destination. The network layer uses routing algorithms and routing tables to find the optimal route. The network layer also handles congestion control and load balancing to avoid network overload and improve performance.
+- **Forwarding**: The network layer delivers packets from one node to another in the same or different networks. The network layer uses the destination address in the packet header to forward the packet to the next hop. The network layer also performs fragmentation and reassembly of packets if the packet size exceeds the maximum transmission unit (MTU) of the underlying link.
+
+The network layer is the first level to support data transfer between two separately maintained networks. It is redundant in situations where all the devices exist on the same network. The network layer operates with logical addresses, such as IP addresses, that are independent of the physical addresses, such as MAC addresses, used by the lower layers. The network layer also provides services such as internetworking, subnetting, and host and network addressing.

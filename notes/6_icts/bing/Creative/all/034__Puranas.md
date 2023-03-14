@@ -1,0 +1,39 @@
+### Puranas
+
+- Puranas are a vast genre of Indian literature that contain stories, legends, myths, genealogies, cosmology, theology, and philosophy related to Hinduism and Jainism.  
+- Puranas are composed in Sanskrit and other Indian languages, and are named after major Hindu deities such as Vishnu, Shiva, Brahma, and Shakti.  
+- Puranas are not considered as scriptures, but as Smritis, or texts that preserve the traditions and culture of Hinduism.  
+- Puranas are divided into 18 Maha Puranas (Major Puranas) and 18 Upa Puranas (Minor Puranas), with over 400,000 verses.  
+- Puranas were composed between 3rd and 10th century CE, by various authors and in different regions.  
+- Puranas have influenced the Hindu culture, inspiring festivals, rituals, temples, pilgrimages, and art.  
+- Puranas cover five main topics, known as Pancha Lakshana:  
+  - Sarga: the primary creation of the universe
+  - Pratisarga: the secondary creation after periodic annihilation
+  - Vamsha: the genealogy of gods, sages, and kings
+  - Manvantara: the reigns of the Manus, the first humans
+  - Vamshanucharita: the history of the solar and lunar dynasties
+- Puranas also include various other topics, such as:  
+  - Dharma: the duties and ethics of different castes and stages of life
+  - Artha: the principles and practices of wealth and prosperity
+  - Kama: the aspects and expressions of love and desire
+  - Moksha: the paths and goals of liberation and salvation
+  - Upasana: the modes and methods of worship and devotion
+  - Tirtha: the sacred places and times of pilgrimage and celebration
+  - Katha: the stories and parables that illustrate moral and spiritual teachings
+- Puranas are classified into three categories, based on their orientation towards a particular deity:  
+  - Vaishnava Puranas: those that glorify Vishnu and his avatars, such as Rama and Krishna
+  - Shaiva Puranas: those that extol Shiva and his aspects, such as Rudra and Bhairava
+  - Shakta Puranas: those that praise Shakti and her forms, such as Durga and Kali
+- Puranas are also classified into two groups, based on their quality and authenticity:  
+  - Sattvika Puranas: those that are pure, true, and beneficial for all
+  - Tamasika Puranas: those that are impure, false, and harmful for some
+- The 18 Maha Puranas are:  
+  - Brahma Purana: the oldest and largest Purana, containing various topics related to creation, cosmology, geography, and mythology
+  - Padma Purana: the second largest Purana, containing stories of Vishnu, Shiva, and the goddess Lakshmi
+  - Vishnu Purana: one of the most important and popular Puranas, containing the stories of Vishnu and his avatars, as well as the doctrine of Vaishnavism
+  - Shiva Purana: one of the main Puranas of Shaivism, containing the stories of Shiva and his aspects, as well as the rituals and practices of Shaivism
+  - Bhagavata Purana: the most celebrated and influential Purana, containing the stories of Krishna and his devotees, as well as the philosophy of Bhakti
+  - Narada Purana: a Purana that contains the teachings of the sage Narada, who is known for spreading devotion and music
+  - Markandeya Purana: a Purana that contains the stories of the sage Markandeya, who is known for his longevity and wisdom
+  - Agni Purana: a Purana that contains the instructions of the fire god Agni, who is known for his role in sacrifices and rituals
+  - Bh

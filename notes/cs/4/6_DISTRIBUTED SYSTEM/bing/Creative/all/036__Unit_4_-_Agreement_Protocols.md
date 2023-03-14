@@ -1,0 +1,36 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are a class of distributed algorithms that help processes in a network to reach a common decision or value in the presence of failures or uncertainties.
+- Agreement protocols are useful for achieving coordination, consistency, fault tolerance, and reliability in distributed systems.
+- Some examples of agreement problems are:
+  - Consensus: All processes agree on a common value proposed by one or more processes.
+  - Atomic commit: All processes agree on whether to commit or abort a transaction that involves multiple processes.
+  - Leader election: All processes agree on a unique process that acts as the leader or coordinator of the system.
+  - Clock synchronization: All processes agree on a common notion of time or clock value.
+- Agreement protocols can be classified based on the following criteria:
+  - The type of communication: Synchronous or asynchronous.
+  - The type of failures: Crash, omission, or malicious (Byzantine).
+  - The type of messages: Authenticated or non-authenticated.
+  - The number of rounds: Constant or variable.
+  - The number of processes: Fixed or variable.
+- Some general properties of agreement protocols are:
+  - Termination: Every non-faulty process eventually decides on a value.
+  - Agreement: Every non-faulty process decides on the same value.
+  - Validity: The decided value is one of the proposed values.
+  - Integrity: The decided value is proposed by a non-faulty process.
+- Some challenges of designing agreement protocols are:
+  - Dealing with network delays, message losses, and process failures.
+  - Ensuring correctness and efficiency of the protocol.
+  - Handling malicious or faulty processes that may lie, forge, or omit messages.
+  - Finding optimal trade-offs between communication, computation, and time complexity.
+- Some techniques of designing agreement protocols are:
+  - Using quorums or majorities to ensure agreement among a subset of processes.
+  - Using timeouts or failure detectors to handle asynchronous communication.
+  - Using signatures or cryptography to authenticate messages and prevent forgery.
+  - Using rounds or phases to structure the protocol and reduce complexity.
+- Some examples of agreement protocols are:
+  - Paxos: A consensus protocol that uses a leader-based approach and quorum-based voting to ensure agreement among processes in asynchronous networks with crash failures.
+  - Raft: A consensus protocol that simplifies Paxos by using a leader election phase and a log replication phase to ensure agreement among processes in asynchronous networks with crash failures.
+  - Two-phase commit (2PC): An atomic commit protocol that uses a coordinator process and a prepare-commit phase to ensure agreement among processes in synchronous networks with crash failures.
+  - Three-phase commit (3PC): An atomic commit protocol that extends 2PC by adding a pre-commit phase and a timeout mechanism to ensure agreement among processes in asynchronous networks with crash failures.
+  - Byzantine generals (BG): A consensus protocol that uses oral or signed messages and a recursive majority voting scheme to ensure agreement among processes in synchronous networks with malicious failures.

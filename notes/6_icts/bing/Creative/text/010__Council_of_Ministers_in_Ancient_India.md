@@ -1,0 +1,19 @@
+### Council of Ministers in Ancient India
+
+- The council of ministers (mantri-pariṣad) was an important institution of administration and governance in ancient India.
+- The council of ministers assisted the king (raja) in various matters of legislation, executive and judiciary. The king had the final authority, but he was expected to consult the council of ministers before taking any major decision.
+- The council of ministers was composed of different types of ministers (mantrins) who had different functions and responsibilities. Some of the common types of ministers were:
+  - Mahāmātya: The chief minister or the prime minister who was the head of the council and the most trusted adviser of the king.
+  - Yuvarāja: The crown prince or the heir apparent who was usually the son of the king and the second in command.
+  - Senāpati: The commander-in-chief of the army who was responsible for the military affairs and defense of the kingdom.
+  - Pratihāra: The chamberlain or the doorkeeper who was in charge of the security and protocol of the royal palace.
+  - Sannidhāta: The treasurer or the finance minister who managed the revenue and expenditure of the state.
+  - Dūta: The ambassador or the foreign minister who represented the king in diplomatic relations with other states.
+  - Danda-nāyaka: The chief justice or the law minister who administered the justice system and enforced the law and order.
+  - Purohita: The priest or the religious minister who performed the rituals and ceremonies for the king and the state.
+  - Kārāṇika: The scribe or the secretary who recorded the proceedings and decisions of the council and the king.
+  - Antaḥpura-adhyakṣa: The superintendent of the harem or the women's minister who looked after the welfare and education of the royal women and children.
+- The council of ministers was selected by the king based on their qualifications, character, loyalty and experience. The ministers had to undergo rigorous training in various disciplines such as politics, law, economics, military, religion, literature, etc. The ministers had to be well-versed in the scriptures and the treatises of statecraft such as the Arthaśāstra of Kauṭilya.
+- The council of ministers was expected to be honest, virtuous, intelligent, courageous, patriotic and tolerant. The ministers had to be loyal to the king and the state, but also had to be independent and impartial in their advice. The ministers had to be respectful of the public opinion and the traditions of the land, but also had to be innovative and adaptable to the changing circumstances.
+- The council of ministers had various powers and duties in the administration of the state. The council of ministers met regularly to discuss and deliberate on various issues and policies. The council of ministers advised the king on matters of war and peace, alliances and treaties, taxation and expenditure, law and justice, trade and commerce, religion and culture, etc. The council of ministers also supervised and coordinated the activities of various departments and officials of the state. The council of ministers also acted as a check and balance on the power of the king and could even remove him if he became tyrannical or incompetent.
+- The council of ministers was a concept that was prevalent in various kingdoms and dynasties of ancient India such as the Mauryas, the Sungas, the Sakas, the Maukharis, etc. The council of ministers was also a concept that was influenced by and influenced the political thought and practice of other civilizations such as the Greeks, the Persians, the Romans, etc. The council of ministers was a concept that reflected the wisdom and harmony of the ancient Indian science of society and polity.

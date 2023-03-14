@@ -1,0 +1,14 @@
+#### Hive services
+
+Hive services are the components that enable users to interact with Hive and perform various operations on data stored in Hive tables. Hive services include:
+
+- **HiveServer2**: This is the main service that provides a JDBC/ODBC interface for clients to submit queries and fetch results. HiveServer2 also supports authentication, authorization, and encryption. HiveServer2 can run in one of the following modes:
+  - **Embedded mode**: In this mode, HiveServer2 runs in the same JVM as the client application. This mode is suitable for testing and debugging purposes, but not for production use.
+  - **Remote mode**: In this mode, HiveServer2 runs as a separate process and communicates with the client application via Thrift protocol. This mode is recommended for production use, as it provides better scalability and fault tolerance.
+- **Beeline**: This is a command-line shell that allows users to submit queries and commands to HiveServer2. Beeline uses JDBC to connect to HiveServer2 and supports various options such as setting variables, formatting output, and saving history.
+- **Hive Web Interface (HWI)**: This is a web-based graphical user interface that allows users to browse the Hive metadata, execute queries, and view query results. HWI is deprecated and not recommended for use.
+- **Hive Metastore**: This is a service that stores the metadata of Hive tables, such as schema, location, partitioning, and statistics. Hive Metastore can use different backends to store the metadata, such as Derby, MySQL, PostgreSQL, or Oracle. Hive Metastore can run in one of the following modes:
+  - **Embedded mode**: In this mode, Hive Metastore runs in the same JVM as HiveServer2 or the client application. This mode is suitable for testing and debugging purposes, but not for production use.
+  - **Remote mode**: In this mode, Hive Metastore runs as a separate process and communicates with HiveServer2 or the client application via Thrift protocol. This mode is recommended for production use, as it provides better scalability and fault tolerance.
+- **HCatalog**: This is a service that provides a table and storage management layer for Hive. HCatalog allows users to access Hive tables using different data processing tools, such as Pig, MapReduce, Spark, or Tez. HCatalog also provides data abstraction and discovery by exposing the Hive metadata to other tools. HCatalog uses the Hive Metastore to store and retrieve the metadata.
+- **WebHCat**: This is a service that provides a RESTful API for HCatalog. WebHCat allows users to perform various operations on Hive tables, such as creating, dropping, altering, and querying. WebHCat also allows users to submit and monitor Hive, Pig, or MapReduce jobs. WebHCat can be used by custom applications or third-party integrations that need to access Hive metadata or data.

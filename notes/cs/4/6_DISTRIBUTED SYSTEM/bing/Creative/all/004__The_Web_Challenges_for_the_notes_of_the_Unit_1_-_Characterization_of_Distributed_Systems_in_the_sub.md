@@ -1,0 +1,17 @@
+### The Web Challenges for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+A distributed system is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task.
+
+To get an ideal distributed system, various web challenges need to be overcome. The major web challenges in distributed systems are:
+
+- **Scalability** – The feature of distributed systems in which if the load of a system increases, the performance of the system will not be degraded. Scalability can be achieved by adding more resources, such as nodes, processors, memory, or bandwidth, to the system. Scalability can be measured in terms of throughput, latency, availability, or fault tolerance.
+- **Heterogeneity** - The ability to communicate with different devices, platforms, languages, protocols, and data formats. Heterogeneity can pose challenges for interoperability, compatibility, and security of distributed systems. Heterogeneity can be handled by using common standards, middleware, or adapters.
+- **Security** - The protection of distributed systems from unauthorized access, modification, or damage. Security challenges include privacy, authentication, authorization, integrity, confidentiality, and availability. Security can be achieved by using encryption, digital signatures, certificates, firewalls, access control, or auditing.
+- **Failure handling** - The detection, recovery, and prevention of failures in distributed systems. Failures can be caused by hardware faults, software bugs, network congestion, malicious attacks, or human errors. Failure handling can involve fault tolerance, fault masking, replication, checkpointing, rollback, or consensus.
+- **Concurrency** - The simultaneous execution of multiple processes or threads in distributed systems. Concurrency can improve the performance, responsiveness, and availability of distributed systems, but it can also introduce challenges for synchronization, coordination, consistency, and deadlock avoidance. Concurrency can be managed by using locks, semaphores, monitors, message passing, or transactions.
+- **Transparency** - The property of distributed systems that hides the complexity and diversity of the underlying components from the users or applications. Transparency can enhance the usability, portability, and maintainability of distributed systems, but it can also incur overhead or reduce control. Transparency can be achieved by using abstraction, encapsulation, or virtualization.
+
+Some mnemonics and learning tricks for remembering these web challenges are:
+
+- **S**calability, **H**eterogeneity, **S**ecurity, **F**ailure handling, **C**oncurrency, and **T**ransparency can be remembered as **SHS-FCT** or **She Has Some Fantastic Cats Today**.
+- The web challenges can be grouped into three categories: performance (**S**calability and **C**oncurrency), diversity (**H**eterogeneity and **T**ransparency), and reliability (**S**ecurity and **F**ailure handling). These categories can be remembered as **PDR** or **Please Do Remember**.

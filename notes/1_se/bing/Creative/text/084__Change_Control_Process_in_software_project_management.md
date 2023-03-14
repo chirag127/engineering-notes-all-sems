@@ -1,0 +1,21 @@
+### Change Control Process in Software Project Management
+
+Change control is a methodology used to manage any change requests that impact the baseline of a software project. It’s a way to capture that change from the point where it’s been identified through every step of the project cycle. That includes evaluating the request and then approving, rejecting or deferring it. The purpose of this process is to make sure that you’re not changing things in the project that don’t need to be changed. The last thing you want to do is disrupt the project for no good reason, wasting valuable time and resources. Any changes that are approved are then documented. The change control process is part of the larger change management plan.
+
+The key elements of a change control process are:
+
+- **Change Control Board**: A change control board is a group of representatives from the project team that regularly meet to approve or disapprove change requests. If they approve a change request, it can turn into a change order.
+- **Change Requests**: A change request is a formal petition for change in a project. It’s a document that explains what are the changes to be made and the main reasons why they should be implemented. Change requests can either be submitted by internal or external project stakeholders.
+- **Change Orders**: Once the change control board has approved a change request, a change order is signed by the board and the clients or stakeholders. This is an agreement from both parties to change the conditions that were first drafted in the original contract.
+- **Change Log**: A change log is a change management tool that’s used to document all the changes made to a project plan or any contracts. It’s a must-have tool for any project manager.
+
+The steps to follow a change control process are:
+
+1. **Document the Change Request**: When a change request occurs, your first step is to categorize and record it. You can use a change request form template to capture the details of the request, such as the description, the impact, the priority, the benefits, and the risks.
+2. **Conduct a Formal Change Evaluation**: Next, your project team will meet and formally evaluate the change. You will need to assess the feasibility, the scope, the cost, the schedule, and the quality implications of the change. You will also need to identify the stakeholders who will be affected by the change and communicate with them.
+3. **Plan the Change**: If the change is approved, you will need to plan how to implement it. You will need to update the project plan, the budget, the schedule, the scope, and the quality standards accordingly. You will also need to assign roles and responsibilities for the change execution and monitor the progress.
+4. **Design Software Changes**: Depending on the nature of the change, you may need to design new software features or modify existing ones. You will need to follow the software development life cycle and use the appropriate tools and methods to ensure the quality and functionality of the software.
+5. **Conduct an Internal Software Review**: Before releasing the software changes to the clients or stakeholders, you will need to conduct an internal review to verify that the changes meet the requirements and specifications. You will need to perform testing, debugging, and documentation to ensure the software is ready for delivery.
+6. **Conduct a Final Assessment**: After delivering the software changes, you will need to conduct a final assessment to evaluate the outcomes and benefits of the change. You will need to collect feedback from the clients or stakeholders, measure the performance indicators, and document the lessons learned. You will also need to update the change log and close the change request.
+
+A change control process is a vital part of software project management, as it helps to ensure that the project meets the expectations and needs of the clients or stakeholders. By following a systematic and formal process, you can avoid unnecessary changes that might disrupt the project and cause delays or errors. You can also ensure that the changes are aligned with the project objectives and deliver value to the project. A change control process can help you manage software projects more effectively and efficiently.

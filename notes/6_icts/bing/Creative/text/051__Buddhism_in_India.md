@@ -1,0 +1,14 @@
+### Buddhism in India
+
+- Buddhism is one of the world’s largest religions and originated 2,500 years ago in India.
+- Buddhism is based on the teachings and life experiences of Siddhartha Gautama, who was born in Lumbini Province, Nepal in 623 BC and achieved enlightenment under the Bodhi tree in Bihar, India.
+- Buddhists believe that human life is a cycle of suffering and rebirth, but that it is possible to escape this cycle by attaining nirvana, a state of complete liberation.
+- Buddhists follow the Four Noble Truths, which state that suffering is universal, suffering is caused by desire, suffering can be ended by overcoming desire, and the way to end suffering is by following the Noble Eightfold Path.
+- Buddhists also believe in karma, which is the law of cause and effect that determines one’s rebirth, and in the wheel of samsara, which is the cycle of birth and death.
+- There are three main schools of Buddhism: Theravada, Mahayana, and Vajrayana.
+  - Theravada Buddhism is the oldest and most conservative school, which emphasizes the role of the individual in achieving enlightenment and follows the Pali Canon, the earliest collection of Buddhist scriptures. It is prevalent in Sri Lanka, Cambodia, Thailand, Laos, and Myanmar.
+  - Mahayana Buddhism is the largest and most diverse school, which emphasizes the role of bodhisattvas, who are enlightened beings who postpone their own nirvana to help others. It follows the Mahayana Sutras, which are later scriptures that expand on the teachings of the Buddha. It is prevalent in China, Japan, Korea, Vietnam, and Tibet.
+  - Vajrayana Buddhism is the smallest and most esoteric school, which incorporates tantric practices and rituals to achieve enlightenment in this very life. It follows the Tantras, which are texts that reveal the secret teachings of the Buddha. It is prevalent in Tibet, Nepal, Bhutan, and Mongolia.
+- Buddhism in India declined from the 8th century onwards due to various factors, such as the invasions of the Huns and the Muslims, the revival of Hinduism, and the internal schisms and corruption within the Buddhist community.
+- Buddhism in India was revived in the 19th and 20th centuries by various movements and figures, such as the Maha Bodhi Society, which restored the ancient Buddhist sites and spread the teachings of the Buddha; the Dalit Buddhist movement, which converted millions of oppressed castes to Buddhism as a form of social emancipation; and the Tibetan Buddhism, which gained popularity and support in India after the exile of the Dalai Lama and other Tibetan refugees.
+- Buddhism in India today is a minority religion, with about 0.7% of the population identifying as Buddhists according to the 2011 census. However, it is still a significant part of India’s cultural and spiritual heritage, and attracts many pilgrims and tourists from around the world.

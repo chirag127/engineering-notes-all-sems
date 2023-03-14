@@ -1,0 +1,284 @@
+Jain literature is the literature of the Jain religion, which is a vast and ancient literary tradition. It was initially transmitted orally, and later written down in various languages. The oldest surviving material is contained in the canonical Jain Agamas, which are written in Ardhamagadhi, a Prakrit (Middle-Indo Aryan) language. Prakrit is a form of Sanskrit, which is the classical language of Hinduism, Buddhism and Jainism. Pali is another form of Prakrit, which was used in Magadha and for the dissemination of Buddhist ideas. The majority of Buddhist literature is written in Pali, while Jain literature is written in Prakrit. Later Jain works were also written in Sanskrit, which is a more refined and standardized language than Prakrit. Sanskrit literature is vast and covers various subjects, such as religion, philosophy, poetry, drama, science and art.
+
+The following diagram illustrates the relationship between Jain literature in Pali, Prakrit and Sanskrit:
+
+```
++-----------------+     +-----------------+     +-----------------+
+|                 |     |                 |     |                 |
+|   Jain Agamas   |     |   Buddhist      |     |   Sanskrit      |
+|                 |     |   literature    |     |   literature    |
+|                 |     |                 |     |                 |
+|  Ardhamagadhi   |     |    Pali         |     |   Sanskrit      |
+|   Prakrit       |     |   Prakrit       |     |                 |
+|                 |     |                 |     |                 |
++-----------------+     +-----------------+     +-----------------+
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        |                     |                     |
+        +---------------------+---------------------+
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |
+                              |

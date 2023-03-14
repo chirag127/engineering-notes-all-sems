@@ -1,0 +1,23 @@
+#### AWT controls
+
+- AWT controls are components that allow a user to interact with your application in various ways. The AWT supports the following types of controls:
+  - Buttons: A button is a component that triggers an action when clicked. It can have a label and an icon. The java.awt.Button class represents a button component.
+  - Labels: A label is a component that displays a single line of text, usually for identification purposes. It can also have an icon. The java.awt.Label class represents a label component.
+  - Text fields: A text field is a component that allows the user to enter a single line of text. It can have an optional echo character for masking the input. The java.awt.TextField class represents a text field component.
+  - Text areas: A text area is a component that allows the user to enter multiple lines of text. It can have scroll bars and word wrapping features. The java.awt.TextArea class represents a text area component.
+  - Check boxes: A check box is a component that can be in either an on (checked) or off (unchecked) state. It can have a label and an icon. The java.awt.Checkbox class represents a check box component.
+  - Radio buttons: A radio button is a component that can be in either an on (selected) or off (deselected) state. It can have a label and an icon. Radio buttons are usually grouped together in a logical set, such that only one radio button can be selected at a time. The java.awt.Checkbox class also represents a radio button component, but with a different style.
+  - Choice lists: A choice list is a component that displays a drop-down list of items for the user to choose from. It can have a label and an icon. The java.awt.Choice class represents a choice list component.
+  - Lists: A list is a component that displays a set of items for the user to select from. It can have scroll bars and multiple selection features. The java.awt.List class represents a list component.
+  - Scroll bars: A scroll bar is a component that allows the user to scroll through a large amount of content. It can have a horizontal or vertical orientation. The java.awt.Scrollbar class represents a scroll bar component.
+  - Sliders: A slider is a component that allows the user to adjust a value within a specified range. It can have a horizontal or vertical orientation, a label, and tick marks. The java.awt.Scrollbar class also represents a slider component, but with a different style.
+  - Menus: A menu is a component that displays a list of commands or options for the user to choose from. It can have submenus, separators, and keyboard shortcuts. The java.awt.Menu class represents a menu component.
+  - Menu bars: A menu bar is a component that contains one or more menus. It is usually displayed at the top of a window. The java.awt.MenuBar class represents a menu bar component.
+  - Menu items: A menu item is a component that represents a command or option in a menu. It can have a label, an icon, a keyboard shortcut, and a checkbox or radio button style. The java.awt.MenuItem class represents a menu item component.
+  - Dialogs: A dialog is a component that displays a message or a set of inputs to the user. It can be modal or non-modal, and can have buttons, labels, text fields, and other components. The java.awt.Dialog class represents a dialog component.
+  - File dialogs: A file dialog is a component that allows the user to select a file or a directory from the file system. It can have an open or save mode, and can filter the files by extension. The java.awt.FileDialog class represents a file dialog component.
+  - Frames: A frame is a component that represents a top-level window with a title bar, a menu bar, and a border. It can contain other components, such as panels, buttons, labels, etc. The java.awt.Frame class represents a frame component.
+  - Panels: A panel is a component that acts as a container for other components. It can have a layout manager that controls the position and size of its components. The java.awt.Panel class represents a panel component.
+  - Canvas: A canvas is a component that allows the user to draw graphics or images on it. It can also handle mouse and keyboard events. The java.awt.Canvas class represents a canvas component.
+
+- All the AWT components are subclasses of the java.awt.Component class, which defines the common properties and methods for all the components. The Component class also implements the java.awt.image.Image

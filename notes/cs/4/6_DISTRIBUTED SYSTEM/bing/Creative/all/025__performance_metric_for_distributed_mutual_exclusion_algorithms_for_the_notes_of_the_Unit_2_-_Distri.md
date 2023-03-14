@@ -1,0 +1,14 @@
+### Performance metric for distributed mutual exclusion algorithms for the notes of the Unit 2 - Distributed Mutual Exclusion in the subject of DISTRIBUTED SYSTEM
+
+Distributed mutual exclusion is a problem of ensuring that only one process at a time can access a shared resource or execute a critical section in a distributed system. There are different algorithms to achieve distributed mutual exclusion, such as token-based, non-token-based, and quorum-based algorithms. Each algorithm has its own advantages and disadvantages in terms of complexity, scalability, fault-tolerance, and performance.
+
+The performance of distributed mutual exclusion algorithms can be measured by the following four metrics :
+
+- **Message complexity**: It is the number of messages that are required per critical section execution by a process. Message complexity affects the communication overhead and the network bandwidth consumption of the algorithm. The lower the message complexity, the better the performance.
+- **Synchronization delay**: It is the time required for the next process to enter the critical section after a process leaves the critical section. Synchronization delay affects the responsiveness and the throughput of the algorithm. The lower the synchronization delay, the better the performance.
+- **Response time**: It is the interval of time when a process waits for the end of its critical section execution after its request messages have been delivered. Response time affects the fairness and the waiting time of the algorithm. The lower the response time, the better the performance.
+- **Throughput**: It is the amount at which the system executes requests for the critical section. Throughput affects the efficiency and the utilization of the algorithm. The higher the throughput, the better the performance.
+
+These metrics are influenced by various factors, such as the network delay, the processing delay, the number of processes, the request rate, the critical section duration, the failure model, and the algorithm design. Different algorithms may have different best and worst cases for these metrics, depending on the system conditions and the assumptions made. Therefore, it is important to compare and evaluate the algorithms based on these metrics using simulation or analytical methods.
+
+A possible mnemonic to remember these metrics is **MSTR** (Message complexity, Synchronization delay, Response time, Throughput), which sounds like **master**, as in mastering the distributed mutual exclusion problem. Alternatively, one can use **RSTM** (Response time, Synchronization delay, Throughput, Message complexity), which sounds like **rest** or **restroom**, as in taking a break from the critical section or accessing a shared resource.

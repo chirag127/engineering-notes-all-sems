@@ -1,0 +1,24 @@
+### Nonfunctional Properties for Services for the notes of the Unit 4 - Service-Oriented Analysis and Design in the subject of Service Oriented Architecture
+
+- Nonfunctional properties (NFPs) for services are the qualities and features that are desirable by the service users, but are not directly related to the specific functionality or tasks that the service provides  .
+- NFPs are also known as quality attributes or -ilities, as many of them end with the suffix -ility, such as availability, reliability, scalability, etc.
+- NFPs are important to consider in service-oriented analysis and design, as they can influence the architecture, performance, cost, and user satisfaction of the service  .
+- NFPs can be classified into different categories, such as:
+  - Operational NFPs: These are the qualities that affect the operation and execution of the service, such as availability, performance, scalability, reliability, etc .
+  - Revisional NFPs: These are the qualities that affect the maintenance and evolution of the service, such as modifiability, reusability, testability, etc .
+  - Transitional NFPs: These are the qualities that affect the adaptation and migration of the service, such as portability, interoperability, compatibility, etc .
+  - Business NFPs: These are the qualities that affect the business value and goals of the service, such as cost, price, payment, security, trust, etc  .
+- NFPs can be specified and measured using different methods and metrics, such as:
+  - Service Level Agreements (SLAs): These are contracts between the service provider and the service consumer that define the expected level of service quality and the consequences of not meeting them, such as penalties or discounts  .
+  - Key Performance Indicators (KPIs): These are quantifiable measures that indicate how well the service is achieving its objectives and goals, such as response time, throughput, availability, etc .
+  - Quality Models: These are frameworks that define the dimensions and criteria of service quality, such as ISO/IEC 25010, which defines eight quality characteristics and 31 sub-characteristics for software products and services .
+- NFPs can be assessed and improved using different techniques and tools, such as:
+  - Quality Attribute Scenarios: These are descriptions of situations that involve the service and its stakeholders, and specify the stimulus, source, environment, artifact, response, and measure of a quality attribute .
+  - Quality Attribute Trade-off Analysis: This is a method that helps to prioritize and balance the conflicting NFPs of a service, and to evaluate the impact of design decisions on the service quality .
+  - Quality Attribute Testing: This is a process that verifies and validates the NFPs of a service using various testing methods, such as load testing, stress testing, security testing, etc .
+- NFPs can be enhanced and supported by using different design principles and patterns, such as:
+  - Loose Coupling: This is a principle that minimizes the dependencies and interactions between the service and its consumers, and improves the modifiability, scalability, and interoperability of the service .
+  - Service Abstraction: This is a principle that hides the implementation details and NFPs of the service from its consumers, and improves the security, portability, and reusability of the service .
+  - Service Autonomy: This is a principle that maximizes the control and ownership of the service over its resources and logic, and improves the availability, performance, and reliability of the service .
+  - Service Statelessness: This is a principle that minimizes the retention of information about the service consumers, and improves the scalability, performance, and reliability of the service .
+  - Service Discovery: This is a pattern that enables the service consumers to find and access the service based on its functionality and NFPs, and improves the interoperability, compatibility, and usability of the service[^1^

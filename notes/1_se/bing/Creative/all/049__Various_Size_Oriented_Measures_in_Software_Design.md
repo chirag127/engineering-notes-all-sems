@@ -1,0 +1,27 @@
+#### Various Size Oriented Measures in Software Design
+
+- Size oriented measures are derived by normalizing quality and/or productivity measures by considering the size of the software that has been produced.
+- Size oriented measures are based on the assumption that the size of the software is a primary indicator of its complexity, effort, cost, and quality.
+- Size oriented measures are also used for measuring and comparing the productivity of programmers and teams.
+- The most common size oriented measure is the line of code (LOC), which counts the number of lines of text in a source file, excluding blank lines and comments.
+- LOC is a direct measure of software, but it has some limitations and drawbacks, such as:
+  - It is dependent on the programming language and the coding style of the programmers.
+  - It does not account for the functionality, quality, or maintainability of the software.
+  - It is difficult to estimate LOC in the early stages of software development.
+  - It may encourage programmers to write verbose or redundant code to increase their productivity.
+- Other size oriented measures include:
+  - Function points (FP), which measure the functionality of the software based on the number and complexity of inputs, outputs, inquiries, files, and interfaces.
+  - Object points (OP), which measure the size of object-oriented software based on the number and complexity of classes, methods, and attributes.
+  - Feature points (FEP), which measure the size of software based on the number and complexity of features, such as user interfaces, algorithms, data structures, and control functions.
+- Size oriented measures can be used to calculate other metrics, such as:
+  - Effort, which is the amount of time and resources required to develop the software, usually measured in person-months or person-hours.
+  - Productivity, which is the ratio of output to input, usually measured in LOC per person-month or FP per person-hour.
+  - Quality, which is the degree to which the software meets the requirements and expectations of the users and stakeholders, usually measured in number of faults or defects per LOC or FP.
+  - Cost, which is the total expenditure incurred to develop, maintain, and operate the software, usually measured in dollars per LOC or FP.
+  - Documentation, which is the amount and quality of information provided to describe the software, usually measured in pages of documentation per LOC or FP.
+- Size oriented measures can be used for various purposes, such as:
+  - Estimating the effort, cost, and schedule of software projects based on historical data and empirical models.
+  - Comparing the performance and quality of different software products, processes, and methodologies.
+  - Evaluating the effectiveness and efficiency of software development teams and organizations.
+  - Identifying and prioritizing the areas of improvement and optimization in software development.
+  - Benchmarking and standardizing the software industry practices and norms.

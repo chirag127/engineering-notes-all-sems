@@ -1,0 +1,10 @@
+## Unit 2 - Quantum Computation
+
+- Quantum computation is the study of how to use quantum phenomena, such as superposition and entanglement, to perform tasks that are impossible or inefficient for classical computers.
+- Quantum computation relies on the use of quantum bits or qubits, which are physical systems that can exist in a superposition of two states, denoted by |0> and |1>.
+- Qubits can be manipulated by quantum gates, which are reversible operations that change the state of one or more qubits. Quantum gates can be represented by unitary matrices, which preserve the norm of the qubit state vector.
+- Quantum algorithms are sequences of quantum gates that perform a specific task on a given input. Some examples of quantum algorithms are:
+  - Shor's algorithm, which can factor large numbers in polynomial time, while the best classical algorithm is exponential.
+  - Grover's algorithm, which can search an unsorted database in square root time, while the best classical algorithm is linear.
+  - Quantum Fourier transform, which can transform a quantum state from the computational basis to the frequency basis, and vice versa, in logarithmic time, while the classical Fourier transform is quadratic.
+- Quantum computation faces many challenges, such as decoherence, noise, error correction, scalability, and complexity. Decoherence is the loss of quantum coherence due to interaction with the environment, which causes the qubit state to collapse into a classical state. Noise is any unwanted or random change in the qubit state, which can be caused by imperfect gates, measurements, or external factors. Error correction is the process of detecting and correcting errors in the qubit state, using techniques such as quantum codes, syndrome measurements, and fault-tolerant gates. Scalability is the ability to increase the number of qubits and gates in a quantum computer, while maintaining the quality and performance of the computation. Complexity is the study of the resources, such as time, space, and entanglement, required to perform a quantum computation, and the comparison with classical computation.

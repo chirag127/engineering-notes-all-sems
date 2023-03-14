@@ -1,0 +1,29 @@
+#### Network topology design in Computer Networks
+
+- Network topology is used to describe the physical and logical structure of a network.
+- It maps the way different nodes on a network, such as switches and routers, are placed and interconnected, as well as how data flows.
+- It helps to determine the best placement for each node to optimize traffic flows, locate faults, troubleshoot and fix problems, and share resources across networks.
+- It also affects the performance, scalability, reliability, and cost of the network.
+- There are two major categories of network topology: physical and logical.
+  - Physical topology refers to the actual connections and layout of the network devices and cables.
+  - Logical topology refers to how data flows within the network, regardless of the physical connections.
+- There are several types of network topology that can be used to organize and direct the flow of data within networks, such as bus, ring, star, mesh, tree, and hybrid   .
+  - Bus topology: All the nodes are connected to a single cable, called the bus, which acts as the backbone of the network  .
+    - Advantages: Easy to install and expand, low cost, less cable required  .
+    - Disadvantages: Low security, low speed, limited length and number of nodes, single point of failure  .
+  - Ring topology: All the nodes are connected to form a closed loop, where each node is connected to exactly two other nodes  .
+    - Advantages: High speed, no collisions, easy to troubleshoot, equal access for all nodes  .
+    - Disadvantages: Difficult to install and modify, high cost, single point of failure, more cable required  .
+  - Star topology: All the nodes are connected to a central device, such as a hub or a switch, which acts as the controller of the network  .
+    - Advantages: High security, high speed, easy to install and modify, no collisions, less cable required, fault isolation  .
+    - Disadvantages: Dependence on the central device, single point of failure, high cost  .
+  - Mesh topology: All the nodes are connected to each other, forming a complete graph, where each node has a direct link to every other node  .
+    - Advantages: High security, high speed, high reliability, fault tolerance, no collisions, easy to troubleshoot  .
+    - Disadvantages: Difficult to install and modify, high cost, more cable required, complex management  .
+  - Tree topology: A hierarchical structure of nodes, where the root node is connected to one or more sub-nodes, and each sub-node is connected to further sub-nodes, forming a tree-like structure  .
+    - Advantages: Scalable, easy to manage, supports multiple levels of communication, fault isolation  .
+    - Disadvantages: Dependence on the root node, single point of failure, more cable required, difficult to modify  .
+  - Hybrid topology: A combination of two or more different types of topology, such as star-bus, star-ring, or mesh-star  .
+    - Advantages: Flexible, scalable, adaptable, high performance, fault tolerance  .
+    - Disadvantages: Complex, high cost, difficult to install and troubleshoot  .
+- The selection of the most appropriate topology for a network depends on various factors, such as the

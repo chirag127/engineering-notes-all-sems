@@ -1,0 +1,21 @@
+### Testing Suite for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- A testing suite is a collection of test cases that are designed to verify the functionality, quality, and performance of a software system or component.
+- A testing suite can be organized according to different criteria, such as:
+  - The level of testing (unit, integration, system, acceptance, etc.)
+  - The type of testing (functional, non-functional, structural, etc.)
+  - The test objective (coverage, regression, usability, security, etc.)
+  - The test technique (black-box, white-box, gray-box, etc.)
+  - The test environment (hardware, software, network, etc.)
+- A testing suite should have the following characteristics:
+  - It should be complete, meaning that it covers all the requirements and specifications of the software system or component.
+  - It should be consistent, meaning that it follows a clear and coherent structure and naming convention.
+  - It should be traceable, meaning that it can be linked to the source of the test requirement or specification.
+  - It should be maintainable, meaning that it can be easily updated and modified when the software system or component changes.
+  - It should be reusable, meaning that it can be applied to different versions or variants of the software system or component.
+- A testing suite can be created using different tools and methods, such as:
+  - Manual testing, where the tester designs and executes the test cases manually.
+  - Automated testing, where the tester uses a software tool to generate and execute the test cases automatically.
+  - Model-based testing, where the tester uses a formal or graphical model of the software system or component to derive and execute the test cases.
+  - Test-driven development, where the tester writes the test cases before writing the code of the software system or component.
+  - Behavior-driven development, where the tester writes the test cases in a natural language that describes the expected behavior of the software system or component.

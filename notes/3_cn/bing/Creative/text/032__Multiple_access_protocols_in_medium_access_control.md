@@ -1,0 +1,11 @@
+#### Multiple access protocols in medium access control
+
+Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model. These protocols allow a number of nodes or users to access a shared network channel .
+
+The purpose of multiple access protocols is to coordinate the transmission of data frames over the channel and avoid or resolve collisions that may occur when multiple nodes send data simultaneously .
+
+There are different types of multiple access protocols, depending on how the nodes sense the channel state, how they handle collisions, and how they schedule their transmissions. Some of the common types are:
+
+- Random access protocols: In these protocols, each node has equal priority to access the channel and does not depend on any other node. The node can transmit data whenever it has a frame to send, without checking the channel state. However, if two or more nodes transmit at the same time, a collision occurs and the frames are corrupted. The nodes then have to retransmit the frames after a random delay. Examples of random access protocols are ALOHA, CSMA, CSMA/CD, and CSMA/CA .
+- Controlled access protocols: In these protocols, each node has to obtain permission from a central controller or follow a predefined rule before transmitting data over the channel. The node can only transmit data when it has the right to access the channel. This way, collisions are avoided or minimized. Examples of controlled access protocols are Reservation, Polling, and Token Passing .
+- Channelization protocols: In these protocols, the channel is divided into smaller sub-channels that can be allocated to different nodes or used at different times. The node can transmit data over the sub-channel that is assigned to it or available to it. This way, multiple nodes can share the channel without interfering with each other. Examples of channelization protocols are Frequency Division Multiple Access (FDMA), Time Division Multiple Access (TDMA), and Code Division Multiple Access (CDMA) .

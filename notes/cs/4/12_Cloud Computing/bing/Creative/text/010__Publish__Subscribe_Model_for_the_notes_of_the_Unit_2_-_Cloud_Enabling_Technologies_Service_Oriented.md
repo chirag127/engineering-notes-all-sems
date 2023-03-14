@@ -1,0 +1,26 @@
+### Publish, Subscribe Model
+
+- Publish, subscribe model, or pub/sub model, is a form of asynchronous service-to-service communication used in serverless and microservices architectures.
+- In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic.
+- Pub/sub messaging can be used to enable event-driven architectures, or to decouple applications in order to increase performance, reliability and scalability.
+- In pub/sub messaging, the publisher and the subscriber are independent and do not need to know each other's identities.
+- The publisher packages events into messages, using a known message format, and sends these messages via an input channel.
+- The subscriber receives the messages via an output channel, and can perform different functions with the messages in parallel.
+- The input and output channels are typically handled by an intermediary, such as a message broker or an event bus, that copies each message from the input channel to the output channels for all interested subscribers.
+- Pub/sub messaging has the following benefits:
+  - It decouples subsystems that still need to communicate.
+  - It increases scalability and improves responsiveness of the publisher.
+  - It improves reliability and handles intermittent failures more effectively.
+  - It allows for deferred or scheduled processing.
+  - It enables simpler integration between systems using different platforms, languages, or protocols.
+  - It facilitates asynchronous workflows across an enterprise.
+  - It improves testability and provides separation of concerns for the applications.
+- Pub/sub messaging is different from message queuing, where the sender and the receiver are coupled and the messages are batched until they are retrieved.
+- Pub/sub messaging is also different from request/response, where the sender and the receiver are synchronous and the sender waits for a response from the receiver.
+- Pub/sub messaging is widely used in cloud computing, especially for IoT, big data, and streaming applications.
+- Some examples of pub/sub messaging services in cloud computing are:
+  - Amazon Simple Notification Service (SNS)
+  - Azure Event Grid
+  - Google Cloud Pub/Sub
+  - MQTT
+  - Hazelcast

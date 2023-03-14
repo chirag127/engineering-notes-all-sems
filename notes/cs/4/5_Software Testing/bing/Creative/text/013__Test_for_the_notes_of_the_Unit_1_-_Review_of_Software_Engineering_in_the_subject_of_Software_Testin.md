@@ -1,0 +1,10 @@
+### Test for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems that meet the needs and expectations of users and stakeholders.
+- Software engineering involves activities such as requirements analysis, design, implementation, testing, deployment, maintenance, and evolution of software systems.
+- Software engineering also encompasses the management of software projects, the quality assurance of software products and processes, and the ethical and professional issues related to software engineering.
+- Software testing is a software engineering activity that aims to verify and validate the quality and functionality of software systems by executing them under specified conditions and observing the results.
+- Software testing can be performed at different levels of abstraction, such as unit testing, integration testing, system testing, and acceptance testing, and can be classified into different types, such as functional testing, non-functional testing, structural testing, and behavioral testing.
+- Software testing can be conducted in different modes, such as manual testing, automated testing, exploratory testing, and scripted testing, and can follow different approaches, such as black-box testing, white-box testing, and gray-box testing.
+- Software testing can be influenced by different factors, such as the software development life cycle model, the testing objectives and criteria, the testing resources and constraints, the testing techniques and tools, and the testing standards and best practices.
+- Software testing can provide various benefits, such as detecting and preventing defects, improving software quality and reliability, enhancing user satisfaction and confidence, reducing software development and maintenance costs, and complying with software requirements and regulations.

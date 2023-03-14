@@ -1,0 +1,17 @@
+### Commit Protocols for the notes of the Unit 7 - Fault Tolerance in the subject of DISTRIBUTED SYSTEM
+
+- Commit protocols are algorithms that ensure the atomicity property of a transaction in a distributed system, which means that either all the operations of the transaction are executed or none of them are  .
+- Commit protocols involve a coordinator node and a number of participant nodes that execute the operations of the transaction and communicate with the coordinator  .
+- The coordinator is responsible for collecting the results from the participants and making a decision to commit or abort the transaction based on the consensus of the participants  .
+- The participants are responsible for executing the operations of the transaction, sending their votes to the coordinator, and following the coordinator's decision  .
+- There are different types of commit protocols, such as one-phase commit, two-phase commit, and three-phase commit, that differ in the number of phases and messages exchanged between the coordinator and the participants    .
+- One-phase commit is the simplest commit protocol, but it has a high window of vulnerability, which is the time during which the participants wait for the coordinator's decision and are blocked from executing other transactions .
+- Two-phase commit is the most widely used commit protocol, which consists of two phases: prepare phase and commit/abort phase    .
+  - In the prepare phase, the coordinator sends a prepare message to the participants after receiving a done message from each of them, and the participants reply with a ready or not ready message depending on their local outcome   .
+  - In the commit/abort phase, the coordinator sends a global commit message to the participants if it receives a ready message from all of them, or a global abort message otherwise, and the participants acknowledge the coordinator's decision and apply or undo the transaction accordingly   .
+- Two-phase commit has a blocking problem, which occurs when the coordinator or some of the participants fail or crash after the prepare phase, and the remaining participants are blocked from executing other transactions until the coordinator or the failed participants recover  .
+- Three-phase commit is an extension of two-phase commit that adds an extra phase called pre-commit phase to overcome the blocking problem .
+  - In the pre-commit phase, the coordinator sends a pre-commit message to the participants if it receives a ready message from all of them, or an abort message otherwise, and the participants reply with an ack message or abort the transaction accordingly .
+  - In the commit phase, the coordinator sends a do-commit message to the participants after receiving an ack message from each of them, and the participants apply the transaction and send a done message to the coordinator .
+  - In the abort phase, the coordinator sends an abort message to the participants if it receives a not ready message from any of them, or if it fails to receive an ack message from any of them within a timeout, and the participants undo the transaction and send a done message to the coordinator .
+- Three-phase commit is a non-blocking commit protocol, which means that it can handle any single failure without blocking the participants, but it requires more messages and time than two-phase commit .

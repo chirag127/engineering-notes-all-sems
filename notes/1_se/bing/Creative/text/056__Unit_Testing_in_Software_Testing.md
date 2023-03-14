@@ -1,0 +1,28 @@
+### Unit Testing in Software Testing
+
+- Unit testing is a software testing method by which individual units of source code are tested to determine whether they are fit for use.
+- A unit is a small and independent piece of functionality, such as a function, method, module, object, or class, that can be isolated from the rest of the code.
+- Unit testing is usually performed by developers and QA engineers in the early stages of the software development life cycle, before integration testing.
+- The main objective of unit testing is to verify the correctness and quality of each unit of code and to identify and fix bugs as early as possible.
+- Unit testing can be done manually or with automated tools, such as unit testing frameworks or tools.
+- Unit testing has many benefits, such as :
+  - It provides fast feedback on code quality and functionality
+  - It helps to detect and prevent regression errors caused by code changes
+  - It makes debugging easier and faster by isolating the source of errors
+  - It improves the design and maintainability of the code by enforcing modularity and simplicity
+  - It increases the confidence and reliability of the software product
+  - It reduces the time and cost of testing and development
+- Unit testing follows a four-step process:
+  - Creating test cases: Writing multiple test cases for each unit of code, covering different scenarios and inputs
+  - Reviewing and rewriting: Reviewing the written test cases and rewriting them if there are any mistakes or gaps
+  - Baseline: Checking whether each line of code is covered by a test case and meets the expected behavior
+  - Execution: Performing test execution using a unit testing tool or framework and analyzing the results
+- Unit testing best practices include :
+  - Writing testable code: Designing the code in a way that makes it easy to test, such as using interfaces, dependency injection, and mock objects
+  - Writing clear and descriptive test names: Naming the test cases in a way that explains what they are testing and what they expect
+  - Writing independent and isolated test cases: Making sure that each test case does not depend on or affect the other test cases or the external environment
+  - Writing simple and concise test cases: Keeping the test cases short and focused on one aspect of the unit, avoiding unnecessary complexity and logic
+  - Writing positive and negative test cases: Testing both the normal and the exceptional scenarios and inputs, such as valid and invalid data, edge cases, and error handling
+  - Writing maintainable and reusable test cases: Following coding standards and conventions, using constants and variables, and avoiding hard-coded values and duplication
+  - Writing automated and repeatable test cases: Using a unit testing tool or framework that allows running the test cases automatically and frequently, such as with every code change or build
+  - Writing test cases before or along with the code: Following a test-driven development (TDD) or a behavior-driven development (BDD) approach, where the test cases are written first or in parallel with the code, and the code is written to pass the test cases

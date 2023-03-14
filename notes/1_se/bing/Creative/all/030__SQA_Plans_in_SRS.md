@@ -1,0 +1,27 @@
+### SQA Plans in SRS
+
+- SQA stands for Software Quality Assurance, which is the process of ensuring that the software meets the specified requirements and standards of quality.
+- SRS stands for Software Requirements Specification, which is a document that describes the functional and non-functional requirements of the software system.
+- SQA Plans are the documents that outline the activities, tasks, roles, responsibilities, tools, techniques, and standards for ensuring the quality of the software throughout the software development life cycle (SDLC).
+- SQA Plans are usually derived from the SRS, as the SRS defines the quality attributes and expectations of the software system.
+- SQA Plans are important for the following reasons:
+  - They help to establish a common understanding of the quality goals and criteria among the stakeholders, such as the developers, testers, customers, and users.
+  - They help to identify and mitigate the potential risks and issues that may affect the quality of the software.
+  - They help to monitor and control the quality of the software by defining the quality metrics, methods, and procedures for verification and validation.
+  - They help to improve the quality of the software by providing feedback and recommendations for improvement.
+  - They help to ensure the compliance of the software with the relevant standards, regulations, and best practices.
+- SQA Plans typically include the following sections:
+  - Introduction: This section provides the background, scope, purpose, and objectives of the SQA Plan.
+  - SQA Team: This section describes the roles and responsibilities of the SQA team members and their interactions with other stakeholders.
+  - SQA Activities: This section describes the SQA activities that will be performed throughout the SDLC, such as planning, analysis, design, implementation, testing, deployment, and maintenance.
+  - SQA Tasks: This section describes the specific tasks that will be performed for each SQA activity, such as reviewing, inspecting, auditing, testing, evaluating, and reporting.
+  - SQA Tools and Techniques: This section describes the tools and techniques that will be used to support the SQA tasks, such as checklists, guidelines, standards, models, methods, frameworks, and software tools.
+  - SQA Standards: This section describes the standards that will be followed or referenced for the SQA activities and tasks, such as ISO, IEEE, CMMI, and Agile.
+  - SQA Documents: This section describes the documents that will be produced or used for the SQA activities and tasks, such as SRS, design documents, test plans, test cases, test reports, and defect reports.
+  - SQA Schedule: This section describes the schedule and milestones for the SQA activities and tasks, such as start and end dates, durations, dependencies, and deliverables.
+  - SQA Resources: This section describes the resources that will be required or allocated for the SQA activities and tasks, such as human resources, hardware, software, and budget.
+  - SQA Risks: This section describes the potential risks and issues that may affect the SQA activities and tasks, such as scope changes, requirement changes, design changes, code changes, testing errors, and quality defects.
+  - SQA Contingency: This section describes the contingency plans and actions that will be taken to mitigate or resolve the SQA risks and issues, such as risk assessment, risk management, change management, issue management, and corrective actions.
+- SQA Plans are dynamic and iterative documents that should be updated and revised as the software project progresses and changes.
+- SQA Plans are subject to review and approval by the relevant stakeholders, such as the project manager, the customer, and the SQA team.
+- SQA Plans are part of the software quality management system (SQMS), which is the overall framework for ensuring the quality of the software system.

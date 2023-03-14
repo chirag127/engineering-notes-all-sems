@@ -1,0 +1,31 @@
+#### Security of Big Data
+
+- Big data security is the collective term for all the measures and tools used to protect both the data and analytics processes from attacks, theft, or other malicious activities that could harm or negatively affect them.
+- Big data security is important because:
+  - Data is a valuable asset for any enterprise and its loss or compromise can impact its reputation, profitability, and innovation.
+  - Data privacy is a growing concern for consumers and regulators, and enterprises need to comply with various data protection laws and regulations to avoid fines and lawsuits.
+  - Data security is challenging due to the volume, variety, and velocity of big data, as well as the complexity and diversity of big data environments and platforms.
+- Big data security involves three stages of data lifecycle:
+  - Data sources: Securing the data in transit from various sources and types, such as user-generated data, machine-generated data, structured data, and unstructured data.
+  - Stored data: Securing the data at rest on distributed and scalable big data platforms, such as Hadoop, Spark, and NoSQL databases, as well as the log files and analytics tools within the platform.
+  - Output data: Securing the data in use by applications, reports, and dashboards that provide valuable insights and intelligence from big data analytics.
+- Big data security challenges include   :
+  - Data governance: Establishing policies and procedures for data ownership, access, quality, and usage across the enterprise and ensuring compliance with internal and external standards and regulations.
+  - Data encryption: Applying encryption algorithms to data in transit and at rest to prevent unauthorized access or modification, and managing the encryption keys securely and efficiently.
+  - Data authentication and authorization: Implementing strong user authentication and authorization mechanisms to control who can access and use the data and the analytics tools, and enforcing the principle of least privilege and role-based access control.
+  - Data auditing and monitoring: Tracking and logging the data activities and events, such as data creation, modification, deletion, and access, and detecting and responding to any anomalies or breaches in real-time.
+  - Data backup and recovery: Creating and maintaining backups of the data and the analytics tools, and ensuring the availability and integrity of the data in case of disasters or failures.
+- Big data security technologies include   :
+  - Data security platforms: These are comprehensive solutions that provide data discovery, classification, encryption, masking, redaction, and reporting capabilities for big data environments, such as IBM Security Guardium Data Protection, Spirion Data Platform, and Imperva Data Security.
+  - Data security tools: These are specific tools that address one or more aspects of data security, such as encryption, authentication, auditing, or backup, for big data platforms, such as Apache Ranger, Apache Knox, Apache Sentry, and Cloudera Backup and Disaster Recovery.
+  - Data security frameworks: These are standards and guidelines that define the best practices and requirements for data security, such as the NIST Big Data Security and Privacy Framework, the CSA Big Data Security and Privacy Handbook, and the ISO/IEC 27040:2015 Information technology — Security techniques — Storage security.
+- Big data security implementation involves   :
+  - Assessing the current state of data security and identifying the gaps and risks.
+  - Developing a data security strategy and roadmap that aligns with the business objectives and priorities.
+  - Selecting and deploying the appropriate data security technologies and tools for the big data environment and platform.
+  - Educating and training the data users and stakeholders on the data security policies and procedures.
+  - Evaluating and updating the data security measures and controls regularly and continuously.
+- Big data security responsibility is shared among   :
+  - Data owners: These are the individuals or groups who have the authority and accountability for the data and its security, and who define the data security policies and requirements.
+  - Data custodians: These are the individuals or groups who have the operational responsibility for the data and its security, and who implement and maintain the data security technologies and tools.
+  - Data users: These are the individuals or groups who have the legitimate need and permission to access and use the data and the analytics tools, and who follow the data security policies and procedures.

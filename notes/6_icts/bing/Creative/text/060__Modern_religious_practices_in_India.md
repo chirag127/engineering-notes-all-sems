@@ -1,0 +1,20 @@
+### Modern religious practices in India
+
+- India is a diverse and devout country, with six major religious groups: Hinduism, Islam, Christianity, Sikhism, Buddhism and Jainism .
+- Indians value religious tolerance and respect for all religions, but they also prefer to keep their religious communities segregated and avoid interreligious marriages .
+- For many Hindus, national identity, religion and language are closely connected, and they associate being Indian with being Hindu and speaking Hindi.
+- Hinduism is the dominant religion in India, with about 80% of the population identifying as Hindu . Hinduism has a long and rich history, and it encompasses a variety of traditions, sects, philosophies and practices.
+- Hinduism in the modern period has been influenced by various social, political and cultural movements, such as the reform movements of the 19th and 20th centuries, the nationalist movement, the independence movement, the Dalit movement, the Hindu revivalist movement and the Hindutva movement.
+- Some of the common religious practices among Hindus include worshiping at home or in temples, performing rituals and rites, celebrating festivals and holidays, reading or listening to scriptures, practicing yoga and meditation, and following ethical and moral codes  .
+- Islam is the second-largest religion in India, with about 14% of the population identifying as Muslim . Islam arrived in India in the 7th century CE, and it spread through trade, conquest, migration and conversion.
+- Islam in India is diverse and pluralistic, with various sects, schools, traditions and cultures. Muslims in India have contributed to the fields of art, architecture, literature, music, science and politics.
+- Some of the common religious practices among Muslims include praying five times a day, fasting during Ramadan, giving alms to the poor, performing pilgrimage to Mecca, reading or reciting the Quran, following the Sharia law, and observing festivals and holidays .
+- Christianity is the third-largest religion in India, with about 2% of the population identifying as Christian . Christianity was introduced to India by the apostle Thomas in the 1st century CE, and it was later spread by missionaries, traders and colonizers.
+- Christianity in India is diverse and ecumenical, with various denominations, traditions and cultures. Christians in India have played a role in the fields of education, health, social service and politics.
+- Some of the common religious practices among Christians include attending church services, reading or listening to the Bible, celebrating festivals and holidays, participating in sacraments, following the Ten Commandments, and engaging in charity and social justice .
+- Sikhism is the fourth-largest religion in India, with about 2% of the population identifying as Sikh . Sikhism was founded by Guru Nanak in the 15th century CE, and it developed as a distinct faith and identity in the context of the Mughal rule and the Sikh Gurus.
+- Sikhism is a monotheistic and egalitarian religion, with a strong emphasis on service, justice, equality and human rights. Sikhs in India have contributed to the fields of agriculture, industry, military and politics.
+- Some of the common religious practices among Sikhs include reciting or singing the hymns of the Guru Granth Sahib, visiting the gurdwara, wearing the five Ks, following the Khalsa code of conduct, celebrating festivals and holidays, and performing service and charity .
+- Buddhism is the fifth-largest religion in India, with about 1% of the population identifying as Buddhist . Buddhism was founded by Siddhartha Gautama in the 6th century BCE, and it flourished in India until the 12th century CE, when it declined due to various factors.
+- Buddhism in India was revived in the 19th and 20th centuries, especially by the Dalit Buddhist movement led by B.R. Ambedkar. Buddhism in India is diverse and dynamic, with various schools, traditions and cultures. Buddhists in India have contributed to the fields of philosophy, art, literature, science and social reform.
+- Some of

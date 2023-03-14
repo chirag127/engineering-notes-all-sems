@@ -1,0 +1,21 @@
+### Part-of-Speech Tagging for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+
+- Part-of-speech (POS) tagging is a fundamental task in natural language processing (NLP) that involves assigning a syntactic category (such as noun, verb, adjective, etc.) to each word in a given text based on its context and definition  .
+- POS tagging can help to identify the role and meaning of each word in a sentence, which can be useful for downstream NLP tasks such as parsing, information extraction, machine translation, question answering, etc.   .
+- There are different types of POS tags, such as universal tags, Penn Treebank tags, Brown Corpus tags, etc., that vary in the number and granularity of the categories they use. For example, the universal tagset has 17 tags, while the Penn Treebank tagset has 45 tags .
+- There are also different methods and techniques for performing POS tagging, such as rule-based, statistical, and neural network-based approaches. Rule-based methods rely on hand-crafted rules and dictionaries to assign tags, while statistical methods use probabilistic models and machine learning algorithms to learn from annotated data and predict tags. Neural network-based methods use deep learning architectures such as recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformers to encode the contextual information and generate tags  .
+- Some of the challenges and difficulties of POS tagging are dealing with ambiguity, unknown words, domain adaptation, and multilingualism. Ambiguity refers to the fact that some words can have multiple possible tags depending on the context, such as left as a verb or a noun. Unknown words are words that are not seen in the training data and have no clear rules or patterns to tag them. Domain adaptation is the problem of adapting a POS tagger trained on one domain (such as news articles) to another domain (such as social media posts) that may have different vocabulary, style, and structure. Multilingualism is the challenge of developing POS taggers that can handle multiple languages, especially low-resource languages that have limited annotated data  .
+- Some of the applications and benefits of POS tagging are:
+
+  - Parsing: POS tags can help to identify the syntactic structure and dependencies of a sentence, which can be useful for extracting information, generating summaries, answering questions, etc.  .
+  - Lemmatization: POS tags can help to determine the base form or lemma of a word, which can be useful for normalizing and simplifying text, reducing vocabulary size, and improving text analysis  .
+  - Named entity recognition: POS tags can help to identify proper nouns and other types of named entities, such as locations, organizations, dates, etc., which can be useful for information extraction, knowledge base construction, and entity linking  .
+  - Sentiment analysis: POS tags can help to identify adjectives, adverbs, and other modifiers that can indicate the polarity and intensity of the sentiment expressed in a text, which can be useful for opinion mining, customer feedback analysis, and social media analysis  .
+  - Machine translation: POS tags can help to disambiguate the meaning and function of words in a source language, which can facilitate the translation to a target language, especially when there are differences in word order, morphology, and grammar  .
+
+- Some of the mnemonics and learning tricks for POS tagging are:
+
+  - Remember the acronym NAVE-VAC to recall the main types of POS tags: Noun, Adjective, Verb, Adverb, Verb, Article, Conjunction .
+  - Use the suffixes and prefixes of words to guess their POS tags, such as -tion, -ment, -ness for nouns, -ly for adverbs, -able, -ive, -ous for adjectives, etc. .
+  - Use the position and function of words in a sentence to infer their POS tags, such as articles usually precede nouns, verbs usually follow subjects, adjectives usually modify nouns, etc. .
+  - Use online tools and resources to practice and test your POS tagging skills, such as https://parts-of-speech.info/, https://nlp.stanford

@@ -1,0 +1,29 @@
+### Managing Contracts in spm
+
+- Managing contracts in spm is the process of entering into contractual agreements with third party service providers, laying out terms under which those providers can deliver services to the agency's clients.
+- Agencies enter into contracts with providers mainly for the following three reasons:
+  - To monitor service delivery quality.
+  - To monitor provider performance.
+  - To control costs and more closely manage service delivery.
+- A provider or a provider group (on behalf of providers) can enter into a contract with the agency to deliver services to clients. A resource manager oversees the creation and management of contracts with providers and provider groups.
+- Contract types in spm include:
+  - Fixed price contracts: The agency pays a fixed amount for a predefined set of services or outcomes.
+  - Cost reimbursement contracts: The agency reimburses the provider for the actual costs incurred in delivering services or outcomes, up to a specified limit.
+  - Performance-based contracts: The agency pays the provider based on the achievement of specific performance indicators or outcomes.
+  - Hybrid contracts: The agency combines elements of different contract types, such as fixed price and performance-based, to create a customized contract.
+- Contract elements in spm include:
+  - Contract header: The basic information about the contract, such as contract name, number, type, status, start date, end date, etc.
+  - Contract parties: The agency and the provider or provider group that are involved in the contract.
+  - Contract terms: The specific conditions and obligations that govern the contract, such as scope of services, payment terms, performance measures, reporting requirements, etc.
+  - Contract attachments: The additional documents that supplement the contract, such as service specifications, provider qualifications, etc.
+- Contract lifecycle in spm consists of the following stages:
+  - Issuing and activating contracts: The resource manager creates a contract in spm and sends it to the provider or provider group for review and acceptance. The provider or provider group can accept, reject, or request changes to the contract. Once the contract is accepted, the resource manager activates it in spm and the contract becomes effective.
+  - Amending contracts: The resource manager or the provider or provider group can initiate a contract amendment to modify the contract terms, such as adding or removing services, changing payment terms, extending or reducing the contract duration, etc. The contract amendment follows the same process as the contract issuance and activation, and becomes effective once it is accepted by both parties.
+  - Renewing contracts: The resource manager or the provider or provider group can initiate a contract renewal to extend the contract for another period, usually with the same or similar terms as the original contract. The contract renewal follows the same process as the contract issuance and activation, and becomes effective once it is accepted by both parties.
+  - Terminating contracts: The resource manager or the provider or provider group can initiate a contract termination to end the contract before its scheduled end date, usually due to poor performance, breach of contract, or mutual agreement. The contract termination follows the same process as the contract issuance and activation, and becomes effective once it is accepted by both parties.
+- A possible mnemonic to remember the contract lifecycle stages is **I Am Really Tired** (Issuing, Amending, Renewing, Terminating).
+- A possible learning trick to remember the contract types is to associate them with different animals:
+  - Fixed price contracts are like elephants: They are big, predictable, and stable, but they can also be rigid and inflexible.
+  - Cost reimbursement contracts are like monkeys: They are agile, adaptable, and flexible, but they can also be unpredictable and risky.
+  - Performance-based contracts are like lions: They are powerful, competitive, and rewarding, but they can also be demanding and challenging.
+  - Hybrid contracts are like platypuses: They are unique, customized, and versatile, but they can also be complex and confusing.

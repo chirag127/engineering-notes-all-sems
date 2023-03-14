@@ -1,0 +1,38 @@
+### Causal ordering of messages for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Causal ordering of messages is a partial ordering of messages in a distributed computing environment .
+- It places a restriction on communication between processes by requiring that if the transmission of message mi to process pk necessarily preceded the transmission of message mj to the same process, then the delivery of these messages to that process must be ordered such that mi is delivered before mj .
+- For example, if send (M1) -> send (M2) then every recipient of both the messages M1 and M2 must receive the message M1 before receiving the message M2 .
+- Causal ordering of messages describes the causal relationship between a message send event and a message receive event .
+- Causal ordering of messages is not automatically guaranteed in distributed systems .
+- Reasons that may lead to violation of causal ordering of messages are :
+  - Transmission delay
+  - Congestion in the network
+  - Failure of a system
+- Protocols that are used to provide causal ordering of messages are :
+  - Birman Schipher Stephenson Protocol
+  - Schipher Eggli Sandoz Protocol
+  - Both protocol’s algorithm requires that the messages be delivered reliably and both prefer that there is no network partitioning between the systems .
+  - The general idea of both protocols is to deliver a message to a process only if the message immediately preceding it has been delivered to the process .
+  - Otherwise, the message is not delivered immediately instead it is stored in a buffer memory until the message preceding it has been delivered .
+- The ISIS System is a framework for reliable distributed communication which is achieved through the help of process groups  .
+  - It is a programming toolkit whose basic features consist of process group management calls and ordered multicast primitives for communicating with the process group members .
+  - ISIS provides multicast facilities such as unordered multicast (FBCAST), casually ordered multicast (CBCAST), totally ordered multicast (ABCAST), and sync-ordered multicast (GBCAST) .
+  - ISIS uses vector timestamps to implement causally ordered multicast between the members of a process group .
+  - It is assumed that all the messages are multicast to all the members of the group including the sender .
+  - ISIS uses UDP/IP protocol as its basic transport facility and sends acknowledgments and retransmits packets as necessary to achieve reliability .
+  - Messages from a given member are sequenced and delivered in order .
+  - There is no assumption that hardware support for broadcast or multicast exists .
+  - If IP multicast is implemented, then ISIS can exploit it to send a single UDP packet to the appropriate multicast address .
+  - IP multicast takes advantage of hardware like ethernet, for multicast facilities .
+  - Otherwise, packets are sent point-to-point to the individual group members .
+- A mnemonic to remember the four semantics of multicast communication is :
+  - UCAT: Unordered, Causal, Total, Sync-ordered
+- A learning trick to understand the difference between causal and total ordering is :
+  - Causal ordering only cares about the order of messages that have a causal relationship, i.e., one message could have influenced another .
+  - Total ordering cares about the order of all messages, regardless of their causal relationship, i.e., all messages must be delivered in the same order to all processes .
+  - For example, suppose there are three processes P1, P2, and P3, and P1 sends M1, P2 sends M2, and P3 sends M3 .
+  - If there is no causal relationship between these messages, then causal ordering does not impose any restriction on their delivery order .
+  - However, total ordering requires that all processes receive these messages in the same order, e.g., M1, M2, M3 or M2, M3, M1, etc. .
+- An example of a distributed system that uses causal ordering of messages is a chat application .
+  - In a chat application, users can send messages to each other and reply to previous

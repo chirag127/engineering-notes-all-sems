@@ -1,0 +1,23 @@
+### Architectures for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+Dimensionality reduction is the process of reducing the number of features or variables in a dataset, while preserving the essential information or structure of the data. Dimensionality reduction can help to improve the performance, efficiency, and interpretability of deep learning models, as well as to reduce the risk of overfitting and noise.
+
+There are different types of architectures for dimensionality reduction in deep learning, depending on the nature and purpose of the data and the model. Some of the common architectures are:
+
+- **Feature extraction**: This is the process of transforming the original features into a lower-dimensional space, by applying some mathematical functions or operations. Feature extraction can be linear or nonlinear, depending on the complexity of the data and the desired outcome. Some examples of feature extraction techniques are:
+
+  - **Linear discriminant analysis (LDA)**: This technique projects the data in a way that maximizes the class separability, by finding the directions that best discriminate between different classes. LDA is commonly used for dimensionality reduction in continuous data.
+  - **Kernel principal component analysis (KPCA)**: This technique is a nonlinear extension of principal component analysis (PCA), which works for more complicated structures that cannot be represented in a linear subspace in an easy or appropriate manner. KPCA applies a kernel function to the data, which maps the data to a higher-dimensional space, where linear PCA can be performed.
+  - **Quadratic discriminant analysis (QDA)**: This technique is similar to LDA, but it assumes that each class has its own covariance matrix, rather than a common one. This allows for more flexibility and accuracy, especially when the classes have different shapes and orientations.
+
+- **Autoencoders (AE)**: This is a specific type of deep learning architecture used for learning representation of data, typically for the purpose of dimensionality reduction. An autoencoder is composed of two parts: an encoder and a decoder. The encoder takes the input data and compresses it into a lower-dimensional latent space, called the code or the bottleneck. The decoder takes the code and reconstructs the input data as closely as possible. The autoencoder is trained by minimizing the reconstruction error, which is the difference between the input and the output. The code is then used as the reduced representation of the data.
+
+  - **Variational autoencoder (VAE)**: This is a variant of autoencoder that imposes a probabilistic distribution on the code, such as a Gaussian distribution. This allows the autoencoder to generate new samples from the latent space, by sampling from the distribution. VAEs are useful for generative modeling and unsupervised learning.
+  - **Sparse autoencoder (SAE)**: This is a variant of autoencoder that adds a sparsity constraint on the code, such that only a small fraction of the code units are active at a time. This forces the autoencoder to learn more meaningful and robust features, rather than trivial or redundant ones.
+  - **Denoising autoencoder (DAE)**: This is a variant of autoencoder that adds noise to the input data, such as Gaussian noise or dropout, and then tries to reconstruct the original data from the noisy input. This helps the autoencoder to learn more robust and invariant features, rather than overfitting to the noise.
+
+- **Self-organizing map (SOM)**: This is a type of artificial neural network that performs unsupervised learning and dimensionality reduction. A SOM consists of a grid of nodes, each of which has a weight vector that represents a prototype or a centroid of a cluster. The SOM learns to map the input data to the nodes, such that similar inputs are mapped to nearby nodes, and dissimilar inputs are mapped to distant nodes. The SOM preserves the topology and the structure of the data, while reducing its dimensionality.
+
+- **Restricted Boltzmann machine (RBM)**: This is a type of generative model that consists of two layers: a visible layer and a hidden layer. The visible layer represents the input data, and the hidden layer represents the latent features or factors that explain the data. The RBM learns to model the joint distribution of the visible and the hidden units, by using a stochastic and undirected graphical model. The RBM can be used for dimensionality reduction, by using the hidden units as the reduced representation of the data.
+
+  - **Deep belief network (DBN)**: This is a

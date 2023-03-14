@@ -1,0 +1,7 @@
+#### ICMP
+
+- ICMP stands for Internet Control Message Protocol. It is a network layer protocol that is used by network devices to communicate problems with data transmission.  
+- ICMP is mainly used for error reporting and network diagnostics. It generates error messages to the source IP address when network problems prevent delivery of IP packets.  
+- ICMP is also used to perform network tests such as ping and traceroute. Ping measures the round-trip time between two devices by sending ICMP echo-request and echo-reply messages. Traceroute displays the routing path between two devices by sending IP packets with different TTL values and looking for ICMP time exceeded or destination unreachable messages.  
+- ICMP is a connectionless protocol, which means it does not establish a connection before sending a message. It also does not use a transport layer protocol such as TCP or UDP, and it does not target a specific port on a device. 
+- ICMP can be exploited by attackers to launch distributed denial-of-service (DDoS) attacks, such as ICMP flood and ping of death. These attacks involve sending a large number of ICMP messages to a target device, overwhelming its resources and disrupting its normal functioning.

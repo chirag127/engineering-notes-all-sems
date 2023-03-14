@@ -1,0 +1,41 @@
+### XML schemes in Web Page Designing
+
+- XML stands for eXtensible Markup Language. It is a language that can store and transport data in a human- and machine-readable format.
+- XML Schema is a language that can describe the structure and constraints of an XML document. It is also known as XML Schema Definition (XSD).
+- XML Schema is an XML-based and more powerful alternative to Document Type Definition (DTD), which is another language that can define the structure of an XML document.
+- XML Schema supports data types, which can make it easier to describe, validate, restrict, and format the data in an XML document.
+- XML Schema uses XML syntax, which means that it can be edited, parsed, manipulated, and transformed using the same tools and techniques as XML documents.
+- XML Schema can secure data communication by ensuring that both the sender and the receiver of an XML document have the same expectations about the content and format of the data.
+- XML Schema can be used to define the legal building blocks of an XML document, such as:
+  - the elements and attributes that can appear in a document
+  - the number and order of child elements
+  - the data types for elements and attributes
+  - the default and fixed values for elements and attributes
+- XML Schema can also be used to create custom data types, reuse schemas in other schemas, and reference multiple schemas in the same document.
+- XML Schema can be applied to an XML document using various methods, such as:
+  - using the schemaLocation or noNamespaceSchemaLocation attributes in the XML document
+  - using the xml-model processing instruction in the XML document
+  - using the setSchema or setSchemaSource methods in the XML parser
+  - using the validate or validateSource methods in the XML validator
+- XML Schema can be written using various design patterns, such as:
+  - Russian Doll: all the elements are nested inside the root element, and each element has a local type definition
+  - Salami Slice: all the elements are global, and each element has a global type definition
+  - Venetian Blind: all the elements are global, and each element has a local type reference to a global type definition
+  - Garden of Eden: all the elements and types are global, and each element has a global type reference
+- XML Schema can be used for various purposes in web page designing, such as:
+  - defining the structure and content of web pages in XML format, such as XHTML, SVG, or MathML
+  - validating the input and output data of web forms and web services
+  - transforming and formatting XML data into HTML or other formats using XSLT or CSS
+  - querying and manipulating XML data using XPath or XQuery
+  - storing and retrieving XML data using databases or XML repositories
+- XML Schema can be learned using various resources, such as:
+  - online tutorials, such as W3Schools or Microsoft Learn
+  - books, such as XML Schema by Eric van der Vlist or XML in a Nutshell by Elliotte Rusty Harold and W. Scott Means
+  - courses, such as Coursera's XML and XML Schema Definition in Easy Steps or Udemy's XML and XML Schema from Scratch
+  - references, such as the W3C XML Schema Recommendation or the XML Schema Validator
+- XML Schema can be remembered using some mnemonics and learning tricks, such as:
+  - XSD stands for XML Schema Definition, but also for XML Schema Document
+  - XML Schema uses the xs prefix for its namespace, which can be pronounced as "excess"
+  - XML Schema has simple types and complex types, which can be distinguished by the presence or absence of child elements
+  - XML Schema has built-in types and user-defined types, which can be distinguished by the source or target of the type reference
+  - XML Schema has four design patterns, which can be remembered by the initials R, S, V, and G, or by the words Doll, Slice, Blind, and Eden

@@ -1,0 +1,25 @@
+### Introduction to Web Technology
+
+- Web technology is a method by which computers communicate with each other with the help of markup languages and multimedia packages.
+- Web technology involves developing a web site for the Internet (World Wide Web) or an intranet (a private network).
+- Web technology can be classified into the following sections:
+  - World Wide Web (WWW): The World Wide Web is based on several different technologies: Web browsers, Hypertext Markup Language (HTML) and Hypertext Transfer Protocol (HTTP).
+  - Web Browser: The web browser is an application software to explore www (World Wide Web). It provides an interface between the server and the client and requests to the server for web documents and services.
+  - Web Server: Web server is a program which processes the network requests of the users and serves them with files that create web pages. This exchange takes place using Hypertext Transfer Protocol (HTTP).
+  - Web Pages: A webpage is a digital document that is linked to the World Wide Web and viewable by anyone connected to the internet has a web browser.
+  - Web Development: Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.
+- Web Development can be further classified into two ways:
+  - Frontend Development: The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.
+  - Backend Development: Backend is the server side of a website. It is the part of the website that users cannot see and interact. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.
+- Frontend Languages: The front end portion is built by using some languages which are discussed below:
+  - HTML: HTML stands for Hyper Text Markup Language. It is used to design the front-end portion of web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages. The markup language is used to define the text documentation within the tag which defines the structure of web pages.
+  - CSS: Cascading Style Sheets fondly referred to as CSS is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independent of the HTML that makes up each web page.
+  - JavaScript: JavaScript is a famous scripting language used to create magic on the sites to make the site interactive for the user.
+- Backend Languages: The backend portion is built by using some languages which are discussed below:
+  - PHP: PHP stands for Hypertext Preprocessor. It is a server-side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, and even build entire e-commerce sites.
+  - Python: Python is a high-level, interpreted, general-purpose programming language that is known for its simple and elegant syntax. It is widely used for web development, data analysis, machine learning, and artificial intelligence.
+  - Ruby: Ruby is a dynamic, open source, object-oriented programming language that focuses on simplicity and productivity. It is popular for web development, especially with the Ruby on Rails framework, which provides a rapid and easy way to build web applications.
+- Some mnemonics and learning tricks for the Introduction to Web Technology are:
+  - To remember the order of the web development process, use the acronym DAD: Design, Develop, Deploy.
+  - To remember the difference between frontend and backend development, use the analogy of a restaurant: Frontend is what the customers see and interact with, such as the menu, the food, and the service. Backend is what the staff do behind the scenes, such as cooking, cleaning, and managing the inventory.
+  - To remember the basic structure of an HTML document, use the acronym DOCTYPE: D for DOCTYPE declaration, O for opening html tag, C for opening head tag, T for opening title tag, Y for closing title tag, P for closing head tag, E for opening body tag. Then add the closing body and

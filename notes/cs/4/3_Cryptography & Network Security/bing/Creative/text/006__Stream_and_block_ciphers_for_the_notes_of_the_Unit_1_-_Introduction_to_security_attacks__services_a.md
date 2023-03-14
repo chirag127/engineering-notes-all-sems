@@ -1,0 +1,7 @@
+### Stream and Block Ciphers
+
+Stream and block ciphers are two types of symmetric key encryption techniques that use a secret key to convert plaintext into ciphertext. The main difference between them is the amount and manner of data they encrypt at a time.
+
+- A stream cipher encrypts one bit or byte of plaintext at a time, using a keystream of pseudorandom bits that is generated from a secret key and a nonce (a random number used only once). The keystream is combined with the plaintext using an XOR operation to produce the ciphertext. Stream ciphers are fast, simple, and can work with any length of plaintext. However, they are vulnerable to attacks if the same keystream is reused for different messages, or if the keystream is predictable or has low entropy. Examples of stream ciphers are RC4, Salsa20, and ChaCha20.
+
+- A block cipher encrypts a fixed-size block of plaintext (usually 64 or 128 bits) at a time, using a secret key and a mathematical function that is reversible. The function can be applied once or multiple times (called rounds) to increase the security of the encryption. Block ciphers are more complex, slower, and require padding or modes of operation to handle plaintexts that are not multiples of the block size. However, they are more secure, robust, and versatile than stream ciphers. Examples of block ciphers are DES, AES, and Blowfish.

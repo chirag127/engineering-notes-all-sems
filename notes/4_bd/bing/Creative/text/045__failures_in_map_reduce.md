@@ -1,0 +1,16 @@
+#### Failures in MapReduce
+
+MapReduce is a framework for processing large-scale data sets in parallel using a cluster of commodity machines. However, in the real world, user code is buggy, processes crash, and machines fail. One of the major benefits of using MapReduce is its ability to handle such failures and allow your job to complete successfully. 
+
+There are three main types of failures that can occur in MapReduce:
+
+- **Task failure**: This happens when a map or reduce task throws a runtime exception, exits abruptly, or hangs for a long time. The task JVM reports the error back to its parent application master before it exits, or the node manager notices that the process has exited and informs the application master. The application master marks the task attempt as failed, and frees up the container so its resources are available for another task. The application master will try to avoid rescheduling the task on a node manager where it has previously failed. Furthermore, if a task fails four times, it will not be retried again. This value is configurable by setting the `mapreduce.map.maxattempts` property for map tasks and `mapreduce.reduce.maxattempts` for reduce tasks. By default, if any task fails four times, the whole job fails. However, for some applications, it may be acceptable to have some tasks fail, as long as the majority of the tasks succeed. In this case, the maximum percentage of tasks that are allowed to fail without triggering job failure can be set for the job by using the `mapreduce.map.failures.maxpercent` and `mapreduce.reduce.failures.maxpercent` properties .
+
+- **Tasktracker failure**: This happens when a node manager fails or becomes unreachable due to network issues, hardware problems, or power outages. The resource manager detects the failure by periodically pinging the node managers. If a node manager does not respond within a certain timeout period, the resource manager marks it as lost and removes it from the cluster. The resource manager also informs the application master of the lost node manager, so that it can reschedule any tasks that were running on that node manager. The application master will also mark any tasks that were assigned to the lost node manager as failed, and retry them on other node managers.
+
+- **Jobtracker failure**: This happens when the resource manager or the application master fails or becomes unreachable. This is the most serious failure mode, as it affects the entire job. The resource manager is a single point of failure in the cluster, and if it fails, all the running jobs will be terminated. The resource manager can be configured to run in high availability mode, where a standby resource manager takes over the role of the active resource manager in case of failure. The application master is also a single point of failure for a job, and if it fails, the job will be terminated. The application master can be configured to run in recovery mode, where it periodically checkpoints its state to a persistent storage, such as HDFS. If the application master fails, a new application master can be launched by the resource manager and resume the job from the last checkpoint.
+
+References:
+
+: https://stackoverflow.com/questions/32255196/error-handling-in-hadoop-map-reduce
+: https://sungsoo.github.io/2014/04/07/failures-in-classic-mapreduce.html

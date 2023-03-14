@@ -1,0 +1,29 @@
+### Images in Web Page Designing
+
+- Images are visual elements that can enhance the appearance and functionality of a web page.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or the theme of the web page.
+  - Providing information or instructions to the users.
+  - Creating visual interest or attraction for the users.
+  - Adding interactivity or animation to the web page.
+- Images can be of different types, such as:
+  - Bitmap images: These are composed of pixels, which are small dots of color. Bitmap images have a fixed resolution and size, and they lose quality when scaled or edited. Examples of bitmap image formats are JPEG, PNG, GIF, BMP, etc.
+  - Vector images: These are composed of mathematical shapes, such as lines, curves, and polygons. Vector images have a scalable resolution and size, and they retain quality when scaled or edited. Examples of vector image formats are SVG, EPS, PDF, etc.
+- Images can be embedded or linked in a web page, using the `<img>` tag in HTML. The `<img>` tag has some attributes, such as:
+  - `src`: This specifies the source or the URL of the image file.
+  - `alt`: This specifies the alternative text or the description of the image, which is displayed when the image cannot be loaded or viewed.
+  - `width`: This specifies the width of the image in pixels or percentage.
+  - `height`: This specifies the height of the image in pixels or percentage.
+  - `title`: This specifies the title or the tooltip of the image, which is displayed when the mouse hovers over the image.
+- Images can be styled or positioned in a web page, using CSS properties, such as:
+  - `border`: This specifies the border style, width, and color of the image.
+  - `margin`: This specifies the space around the image.
+  - `padding`: This specifies the space inside the image.
+  - `float`: This specifies how the image is aligned with the surrounding text or elements.
+  - `display`: This specifies how the image is displayed as a block or an inline element.
+- Images can be optimized or compressed for a web page, using various tools or techniques, such as:
+  - Choosing the appropriate image format and quality for the purpose and the content of the web page.
+  - Reducing the image size and resolution to improve the loading speed and the bandwidth usage of the web page.
+  - Using image sprites or icons to combine multiple images into one image file, which reduces the number of HTTP requests and the loading time of the web page.
+  - Using image maps or areas to create clickable regions on an image, which can link to different URLs or perform different actions.
+  - Using image filters or effects to enhance or modify the appearance of the image, such as brightness, contrast, blur, grayscale, etc.

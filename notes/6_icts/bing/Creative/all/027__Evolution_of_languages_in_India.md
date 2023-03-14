@@ -1,0 +1,23 @@
+### Evolution of languages in India
+
+- India is a linguistically diverse country with over 780 languages spoken by its people.
+- The major language families of India are **Indo-Aryan**, **Dravidian**, **Austroasiatic**, **Sino-Tibetan**, and **Munda** .
+- The Indo-Aryan and Dravidian languages are the most widely spoken, accounting for about 78% and 19% of the population respectively.
+- The Indo-Aryan languages are derived from **Old Indo-Aryan** or **Sanskrit**, which was the language of the ancient Vedic civilization and the classical literature of India .
+- The Dravidian languages are native to South India and have no known genetic relation to any other language family.
+- The Austroasiatic languages are spoken by tribal groups in central and eastern India, and are related to languages spoken in Southeast Asia.
+- The Sino-Tibetan languages are spoken by ethnic minorities in the Himalayan region and the Northeast, and are related to languages spoken in China and Tibet.
+- The Munda languages are also spoken by tribal groups in central and eastern India, and are part of the larger **Austroasiatic** family.
+- The evolution of languages in India is influenced by various historical, cultural, and social factors, such as migration, invasion, trade, religion, and politics.
+- Some of the major historical events that shaped the linguistic landscape of India are:
+  - The **Indo-Aryan migration** (c. 1500 BCE - 500 BCE), which brought the Indo-Aryan languages and the Vedic culture to northern India from Central Asia .
+  - The **Mauryan Empire** (c. 321 BCE - 185 BCE), which unified most of India under a single administration and promoted the use of **Prakrit** languages, which were derived from Sanskrit, as the lingua franca of the empire .
+  - The **Gupta Empire** (c. 320 CE - 550 CE), which is considered the golden age of Indian culture and literature, and saw the development of **Classical Sanskrit** as the standard language of poetry, drama, and science .
+  - The **Muslim invasions** (c. 1000 CE - 1700 CE), which brought the influence of **Persian**, **Arabic**, and **Turkish** languages and cultures to northern India, and led to the emergence of **Hindustani** or **Urdu** as the common language of the Mughal Empire and its successors .
+  - The **British colonial rule** (c. 1757 CE - 1947 CE), which introduced the influence of **English** language and culture to India, and made it the official language of administration, education, and commerce .
+  - The **Indian independence movement** (c. 1857 CE - 1947 CE), which fostered the growth of **nationalism** and **regionalism** among the Indian people, and led to the recognition of **Hindi** as the official language of the Republic of India, and the formation of linguistic states based on the major languages of India .
+- The evolution of languages in India is also influenced by various linguistic processes, such as **borrowing**, **code-switching**, **diglossia**, **language contact**, **language shift**, **language death**, and **language revival**.
+- Some of the examples of these processes are:
+  - The borrowing of words, phrases, and grammatical features from other languages, such as the influence of Sanskrit on the Dravidian languages, the influence of Persian and Arabic on the Indo-Aryan languages, and the influence of English on the modern Indian languages.
+  - The code-switching or the use of more than one language in a single conversation, such as the use of English and Hindi by urban educated Indians, or the use of Hindi and a regional language by speakers of different linguistic backgrounds.
+  - The diglossia or the use of different varieties of the same language for different purposes, such as the use of **Standard Hindi** and **Urdu** for formal and

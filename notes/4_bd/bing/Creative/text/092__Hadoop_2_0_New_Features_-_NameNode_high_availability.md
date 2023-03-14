@@ -1,0 +1,7 @@
+#### Hadoop 2.0 New Features - NameNode high availability
+
+- NameNode high availability (HA) is a feature that allows HDFS to run with two redundant NameNodes in an active/standby configuration, eliminating the single point of failure (SPOF) problem in the previous versions of Hadoop    .
+- In HA mode, one NameNode acts as the active node, which handles all the client operations and metadata changes, while the other NameNode acts as the standby node, which maintains enough state to provide a fast failover if the active node fails    .
+- The active and standby NameNodes need to share the edit logs, which record the metadata changes in HDFS, in order to keep their states synchronized. There are two ways to achieve this: using a shared storage device (such as NFS) or using a quorum journal manager (QJM), which is a group of dedicated servers that store the edit logs    .
+- The failover process can be either manual or automatic. Manual failover requires the administrator to initiate the switch from the active to the standby node. Automatic failover requires the use of a ZooKeeper failover controller (ZKFC), which is a daemon that monitors the health of the NameNodes and triggers a failover when the active node becomes unavailable    .
+- HA mode improves the availability and reliability of HDFS by allowing the cluster to continue functioning even if one NameNode becomes unavailable. It also enables planned maintenance events such as software or hardware upgrades on the NameNode machines without causing cluster downtime    .

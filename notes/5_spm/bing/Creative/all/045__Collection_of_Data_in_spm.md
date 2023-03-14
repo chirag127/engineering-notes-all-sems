@@ -1,0 +1,23 @@
+### Collection of Data in SPM
+
+- Collection of data is the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, and evaluate outcomes.
+- Data collection is an essential component of software process management (SPM), which is the discipline of planning, implementing, monitoring, and improving software development and maintenance processes.
+- Data collection in SPM can be done for various purposes, such as:
+  - To assess the current state of the software process and identify improvement opportunities.
+  - To monitor the progress and performance of the software process and its outcomes.
+  - To evaluate the effectiveness and efficiency of the software process and its changes.
+  - To provide feedback and guidance to the software process stakeholders and practitioners.
+  - To support decision making and problem solving in the software process.
+- Data collection in SPM can be done using various methods, such as:
+  - Surveys: A method of collecting data by asking a set of questions to a sample of respondents, either through interviews, questionnaires, or online platforms.
+  - Observations: A method of collecting data by watching and recording the behavior and activities of the software process participants, either directly or through video recordings, logs, or sensors.
+  - Experiments: A method of collecting data by manipulating one or more variables and measuring their effects on another variable, either in a controlled or a natural setting.
+  - Case studies: A method of collecting data by conducting an in-depth analysis of a specific instance or phenomenon of the software process, using multiple sources of evidence, such as documents, interviews, observations, or artifacts.
+  - Metrics: A method of collecting data by measuring and quantifying some aspects of the software process or its outcomes, using predefined indicators, such as size, complexity, quality, productivity, or satisfaction.
+- Data collection in SPM should follow some general principles, such as:
+  - Relevance: The data collected should be relevant to the purpose and scope of the software process improvement or evaluation.
+  - Validity: The data collected should measure what they are intended to measure, and not be affected by biases, errors, or confounding factors.
+  - Reliability: The data collected should be consistent and reproducible, and not vary significantly due to random or systematic errors.
+  - Completeness: The data collected should cover all the aspects and dimensions of the software process or its outcomes that are of interest, and not omit or overlook any important information.
+  - Timeliness: The data collected should be timely and up-to-date, and not be outdated or obsolete by the time they are used or analyzed.
+  - Cost-effectiveness: The data collected should be worth the time, effort, and resources spent on them, and not be too expensive or difficult to obtain or process.

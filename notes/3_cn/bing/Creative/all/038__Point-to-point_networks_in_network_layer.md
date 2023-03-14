@@ -1,0 +1,26 @@
+### Point-to-point networks in network layer
+
+- Point-to-point networks are networks that consist of two routers directly connected by a physical link, without any intermediate devices or hosts.
+- Point-to-point networks use a data link layer protocol, such as Point-to-Point Protocol (PPP), to encapsulate network layer packets and transmit them over the link.
+- PPP is a standard protocol that can support multiple network layer protocols, such as IP, IPX, AppleTalk, etc. It has three components:
+  - An encapsulation component that adds a header and a trailer to the network layer packet, and performs error detection and correction.
+  - A Link Control Protocol (LCP) that establishes, configures, tests, and terminates the link. It also negotiates settings, options, and features, such as authentication, compression, and error detection.
+  - A Network Control Protocol (NCP) that establishes and configures the network layer protocol to be used. There is one NCP for each network layer protocol supported by PPP.
+- PPP operates as a peer-to-peer protocol, meaning that either side of the link can initiate, configure, and terminate the connection. However, in practice, there is usually a PPP server that acts as a hub for multiple PPP clients, such as an ISP for dial-up users.
+- PPP can be used over various physical media, such as twisted-pair, fiber optic, satellite, or modem lines. It can also be used over virtual connections, such as VPNs or tunnels.
+- PPP uses a variation of High-level Data Link Control (HDLC) for packet encapsulation. HDLC is a bit-oriented protocol that uses flags, bit stuffing, and checksums to delimit and protect frames. PPP modifies HDLC by adding a protocol field to identify the network layer protocol of the encapsulated packet.
+- PPP has some advantages and disadvantages, such as:
+  - Advantages:
+    - It is a standard and widely supported protocol that can work with different network layer protocols and physical media.
+    - It can provide authentication, encryption, and compression features to enhance security and efficiency.
+    - It can dynamically assign IP addresses to PPP clients using IPCP.
+    - It can support multilink connections, which allow multiple physical links to be aggregated into one logical link for higher bandwidth and reliability.
+  - Disadvantages:
+    - It is a relatively complex protocol that requires more processing and overhead than simpler protocols, such as SLIP.
+    - It is not suitable for broadcast or multicast networks, as it only supports point-to-point connections.
+    - It can be vulnerable to attacks, such as replay, man-in-the-middle, or denial-of-service, if not properly configured and secured.
+- Some examples and applications of PPP are:
+  - Dial-up Internet access, where PPP clients use modems to connect to PPP servers at ISPs and access the Internet.
+  - DSL Internet access, where PPP over Ethernet (PPPoE) or PPP over ATM (PPPoA) are used to establish a PPP connection over an Ethernet or ATM network.
+  - VPNs, where PPP over SSL (PPPoSSL) or PPP over IPsec (PPPoIPsec) are used to create a secure and encrypted tunnel over the Internet.
+  - Tunnels, where Point-to-Point Tunneling Protocol (PPTP) or Layer 2 Tunneling Protocol (L2TP) are used to encapsulate PPP frames in IP packets and transport them over another network.

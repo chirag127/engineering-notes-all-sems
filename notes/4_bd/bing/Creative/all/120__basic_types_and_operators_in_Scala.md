@@ -1,0 +1,26 @@
+#### Basic types and operators in Scala
+
+- Scala has a rich set of built-in types, such as `Int`, `Double`, `Boolean`, `String`, etc.
+- Scala also supports user-defined types, such as classes, traits, and objects.
+- Scala has a unified type system, which means that every value is an object and every operation is a method call.
+- Scala has two main categories of types: value types and reference types.
+  - Value types are stored directly on the stack or embedded in other objects. They are usually immutable and have no identity. Examples of value types are `Int`, `Double`, `Char`, `Boolean`, etc.
+  - Reference types are stored on the heap and accessed by reference. They can be mutable or immutable and have an identity. Examples of reference types are `String`, `Array`, `List`, `Set`, etc.
+- Scala has a special type called `Unit`, which represents the absence of a meaningful value. It is similar to `void` in Java or C. The only value of type `Unit` is `()`.
+- Scala has a special type called `Nothing`, which represents the bottom of the type hierarchy. It is a subtype of every other type and has no values. It is used to indicate abnormal termination, such as throwing an exception or returning from a method that does not normally return.
+- Scala has a special type called `Any`, which represents the top of the type hierarchy. It is a supertype of every other type and has two direct subtypes: `AnyVal` and `AnyRef`.
+  - `AnyVal` is the base type of all value types. It has nine predefined subtypes: `Byte`, `Short`, `Int`, `Long`, `Float`, `Double`, `Char`, `Boolean`, and `Unit`.
+  - `AnyRef` is the base type of all reference types. It is equivalent to `java.lang.Object` in Java.
+- Scala has a rich set of operators, which are actually methods defined on the types. For example, `+` is a method defined on `Int`, `Double`, `String`, etc.
+- Scala allows user-defined operators, which are methods with symbolic names, such as `++`, `::`, `+=`, etc.
+- Scala supports operator precedence and associativity, which determine the order of evaluation of expressions involving multiple operators. For example, `*` has higher precedence than `+`, and `+` is left-associative, so `a + b * c` is equivalent to `a + (b * c)`.
+- Scala supports operator overloading, which means that the same operator can have different meanings depending on the types of the operands. For example, `+` can mean addition for numbers, concatenation for strings, or union for sets.
+- Scala supports infix, prefix, and postfix notation for operators, which means that the operator can be written between, before, or after the operands. For example, `a + b`, `+a`, and `a!` are all valid expressions in Scala.
+- Scala supports compound assignment operators, which combine an operator and an assignment in one statement. For example, `a += b` is equivalent to `a = a + b`.
+- Scala supports bitwise operators, which perform bit-level operations on integers. For example, `a & b` performs bitwise AND, `a | b` performs bitwise OR, and `a ^ b` performs bitwise XOR.
+- Scala supports logical operators, which perform boolean operations on boolean values. For example, `a && b` performs logical AND, `a || b` performs logical OR, and `!a` performs logical NOT.
+- Scala supports relational operators, which compare two values and return a boolean value. For example, `a == b` tests for equality, `a != b` tests for inequality, `a < b` tests for less than, etc.
+- Scala supports conditional operators, which evaluate a condition and return one of two values. For example, `a ? b : c` returns `b` if `a` is true, and `c` otherwise.
+- Scala supports arithmetic operators, which perform numeric operations on numbers. For example, `a + b` performs addition, `a - b` performs subtraction, `a * b` performs multiplication, etc.
+- Scala supports unary operators, which perform an operation on a single operand. For example, `-a` performs negation, `+a` performs identity, and `~a` performs bitwise complement.
+- Scala supports shift operators, which perform bit shifting on integers. For example, `a << b` performs left shift, `a >> b` performs right shift, and `a >>> b` performs unsigned right shift.

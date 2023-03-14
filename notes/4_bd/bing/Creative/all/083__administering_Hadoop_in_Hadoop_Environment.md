@@ -1,0 +1,27 @@
+#### Administering Hadoop in Hadoop Environment
+
+- Administering Hadoop in Hadoop environment involves managing and maintaining Hadoop clusters and other resources in the Hadoop ecosystem.
+- A Hadoop administrator is responsible for the following tasks :
+  - Installing and configuring Hadoop components and services on different nodes in the cluster.
+  - Monitoring the health and performance of the cluster and troubleshooting any issues or failures.
+  - Setting up and enforcing security policies and access control for Hadoop users and applications.
+  - Managing Hadoop data storage and backup strategies.
+  - Scaling up or down the cluster as per the workload and resource availability.
+  - Updating and patching Hadoop software and operating system as needed.
+  - Collaborating with application developers and vendors to ensure optimal use of Hadoop features and functionality.
+- To administer Hadoop in Hadoop environment, one needs to have a good understanding of the following concepts and tools :
+  - Hadoop architecture and components, such as HDFS, YARN, MapReduce, Hive, HBase, Spark, etc.
+  - Hadoop configuration files and parameters, such as core-site.xml, hdfs-site.xml, yarn-site.xml, mapred-site.xml, etc.
+  - Hadoop environment variables and scripts, such as hadoop-env.sh, yarn-env.sh, mapred-env.sh, etc.
+  - Hadoop command-line interface and subcommands, such as hadoop fs, hadoop jar, hadoop distcp, yarn application, etc.
+  - Hadoop web interfaces and REST APIs, such as NameNode UI, ResourceManager UI, JobHistory UI, etc.
+  - Hadoop cluster setup and deployment methods, such as single-node, pseudo-distributed, fully-distributed, etc.
+  - Hadoop cluster management and monitoring tools, such as Ambari, Cloudera Manager, Ganglia, Nagios, etc.
+  - Hadoop security mechanisms and best practices, such as Kerberos, SSL, ACL, Ranger, Sentry, etc.
+  - Hadoop performance tuning and optimization techniques, such as compression, partitioning, caching, etc.
+- Some mnemonics and learning tricks for administering Hadoop in Hadoop environment are:
+  - Remember the four Cs of Hadoop administration: Configuration, Cluster, Capacity, and Consistency.
+  - Use the acronym HADOOP to recall the main Hadoop configuration files: H for hdfs-site.xml, A for core-site.xml, D for mapred-site.xml, O for yarn-site.xml, and P for hadoop-env.sh.
+  - Use the acronym YARN to recall the main components of the resource management layer: Y for ResourceManager, A for ApplicationMaster, R for NodeManager, and N for WebAppProxy.
+  - Use the acronym HDFS to recall the main components of the distributed file system layer: H for NameNode, D for DataNode, F for SecondaryNameNode, and S for HDFS Client.
+  - Use the acronym MR to recall the main components of the MapReduce framework: M for MapReduce JobHistory Server and R for MapReduce ApplicationMaster.

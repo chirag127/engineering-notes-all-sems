@@ -1,0 +1,22 @@
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+
+- A computer network is a group of interconnected computing devices that can send or receive data.
+- A computing device can be any device that can run a program, such as a computer, tablet, phone, or smart sensor.
+- Computer networks can be classified by their size and characteristics, such as local area network (LAN), wide area network (WAN), and data center network (DCN).
+- A LAN is a network that covers a limited area, such as a house or school.
+- A WAN is a network that extends over a large geographic area and is composed of many LANs.
+- A DCN is a network used in data centers where data must be exchanged with very little delay.
+- The Internet is the largest and most well-known example of a WAN.
+- Computer networks can have different topologies, which are the arrangements of the devices and connections in the network.
+- Some common network topologies are ring, mesh, star, bus, and tree.
+- Each topology has its advantages and disadvantages in terms of performance, reliability, cost, and scalability.
+- Computer networks use protocols to communicate with each other, which are sets of rules and standards that define how data is transmitted and received.
+- The Internet networking protocols are the most widely used protocols in the world.
+- The Open Systems Interconnection (OSI) model is a conceptual framework that describes the functions of the different layers of a network .
+- The OSI model has seven layers: application, presentation, session, transport, network, data link, and physical .
+- The physical layer is the lowest layer of the OSI model and is responsible for the actual transmission of data over the physical medium .
+- The physical layer defines the hardware equipment, cabling, wiring, frequencies, pulses, signals, encoding, etc. that are used to represent binary data  .
+- The physical layer provides its services to the data link layer, which hands over frames to the physical layer  .
+- The physical layer converts the frames to electrical pulses, which are then sent over the wired or wireless medium  .
+- The physical layer also deals with the transmission impairment, which is the deterioration of the signals as they travel through the medium.
+- Some sources of transmission impairment are attenuation, dispersion, delay distortion, and noise.

@@ -1,0 +1,33 @@
+#### Stateful Session bean in Enterprise Java Bean
+
+- A stateful session bean is a type of enterprise bean, which preserves the conversational state with the client.
+- A stateful session bean as per its name keeps associated client state in its instance variables.
+- EJB Container creates a separate stateful session bean to process each client's request.
+- A stateful session bean is intended for use by a single client during its lifetime and maintains a conversational state across multiple method invocations.
+- A stateful session bean can be annotated with `@Stateful` annotation or declared in the deployment descriptor.
+- A stateful session bean can implement a local, remote, or no-interface view.
+- A stateful session bean can have a `@PostConstruct` method that is invoked by the container after the bean instance is created.
+- A stateful session bean can have a `@PreDestroy` method that is invoked by the container before the bean instance is removed.
+- A stateful session bean can have a `@Remove` method that is used to indicate that the bean instance should be removed by the container after the method completes.
+- A stateful session bean can have a `@PrePassivate` method that is invoked by the container before the bean instance is passivated (moved from memory to secondary storage).
+- A stateful session bean can have a `@PostActivate` method that is invoked by the container after the bean instance is activated (moved from secondary storage to memory).
+- A stateful session bean can use dependency injection to access other enterprise beans, resources, or services.
+- A stateful session bean can use the `@EJB` annotation to inject a reference to another enterprise bean.
+- A stateful session bean can use the `@Resource` annotation to inject a reference to a resource or service.
+- A stateful session bean can use the `@PersistenceContext` annotation to inject an entity manager for persistence operations.
+- A stateful session bean can use the `@TransactionAttribute` annotation to specify the transaction attribute for a method or a class.
+- A stateful session bean can use the `@TransactionManagement` annotation to specify the transaction management type (container-managed or bean-managed).
+- A stateful session bean can use the `@RolesAllowed` annotation to specify the security roles that are allowed to access a method or a class.
+- A stateful session bean can use the `@PermitAll` annotation to specify that all security roles are allowed to access a method or a class.
+- A stateful session bean can use the `@DenyAll` annotation to specify that no security roles are allowed to access a method or a class.
+- A stateful session bean can use the `@RunAs` annotation to specify the security role that the bean will use when invoking methods on other beans.
+- A stateful session bean can use the `@DeclareRoles` annotation to declare the security roles that are used in the bean.
+- A stateful session bean can use the `@SecurityDomain` annotation to specify the security domain that is used for authentication and authorization.
+- A stateful session bean can use the `@Interceptors` annotation to specify the interceptor classes that are applied to a method or a class.
+- A stateful session bean can use the `@AroundInvoke` annotation to specify a method that intercepts business method invocations.
+- A stateful session bean can use the `@PostConstruct` annotation to specify a method that intercepts lifecycle callback invocations.
+- A stateful session bean can use the `@PreDestroy` annotation to specify a method that intercepts lifecycle callback invocations.
+- A stateful session bean can use the `@PrePassivate` annotation to specify a method that intercepts lifecycle callback invocations.
+- A stateful session bean can use the `@PostActivate` annotation to specify a method that intercepts lifecycle callback invocations.
+- A stateful session bean can use the `@Timeout` annotation to specify a method that handles timer expiration notifications.
+- A stateful session bean can use the `@Schedule` annotation to specify a method that creates a timer with a calendar-based schedule[^2^

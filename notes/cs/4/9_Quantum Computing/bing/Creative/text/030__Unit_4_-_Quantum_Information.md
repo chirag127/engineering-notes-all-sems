@@ -1,0 +1,13 @@
+## Unit 4 - Quantum Information
+
+- Quantum information is the information of the state of a quantum system. It is the basic entity of study in quantum information theory, and can be manipulated using quantum information processing techniques. 
+- Quantum information refers to both the technical definition in terms of Von Neumann entropy and the general computational term. It is an interdisciplinary field that involves quantum mechanics, computer science, information theory, philosophy and cryptography among other fields. 
+- Quantum information, like classical information, can be processed using digital computers, transmitted from one location to another, manipulated with algorithms, and analyzed with computer science and mathematics. Just like the basic unit of classical information is the bit, quantum information deals with qubits. 
+- One of the defining features of quantum mechanics is the Heisenberg Uncertainty Principle, which imposes unbreakable limits on our knowledge of reality. Despite these restrictions, quantum mechanical particles can do amazing things like exist at two different locations at the same time. 
+- Quantum information science aims to explore the nature of information at the quantum level, a world in which bits can be both zero and one at the same time and perfect copying is impossible. At the practical level, quantum information powers forms of secure communication that are provably impossible in a “classical” world. 
+- Likewise, an intrinsically quantum-mechanical computer could efficiently solve problems that are intractable for any computer of more traditional design, the most notorious example being that a quantum computer could crack most of the codes used to secure the internet. 
+- Quantum information researchers at SITP have played an important role in the development of the basic theory of quantum communication. They continue to search for better ways to protect quantum computers from noise and communications from prying eavesdroppers. 
+- A unique feature of the quantum information group at SITP, however, is its close integration and participation in research on quantum gravity and black holes. Stanford is at the forefront of exploring the role of quantum entanglement to the geometry of space, the importance of quantum error correction in black hole evaporation, and even the relevance of computational complexity to stability of space. 
+
+: Quantum information - Wikipedia
+: Quantum Information | Stanford Institute for Theoretical Physics

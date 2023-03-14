@@ -1,0 +1,17 @@
+## Unit 2 - Web Page Designing
+
+Web page designing is the process of creating the visual appearance and functionality of a web page. Web page designing involves the following steps:
+
+1. Define the user flows and information architecture of the website. User flows are the paths that visitors take from the entry point to the desired action on the website. Information architecture is the organization and labeling of the content on the website. These steps help to create a clear and logical structure for the website and its navigation .
+2. Choose a grid system and layout for the web page. A grid system is a set of guidelines and measurements that help to align and arrange the elements on the web page. A layout is the arrangement of the elements on the web page, such as header, footer, navigation, content, etc. These steps help to create a balanced and consistent design for the web page .
+3. Choose a color scheme and typography for the web page. A color scheme is a set of colors that create a harmonious and appealing look for the web page. Typography is the selection and arrangement of fonts, sizes, styles, and spacing of the text on the web page. These steps help to create a mood and personality for the web page and enhance its readability.
+4. Choose the images, icons, and graphics for the web page. Images, icons, and graphics are the visual elements that support the content and message of the web page. They help to attract attention, convey information, and create interest for the web page. These steps require careful selection and optimization of the visual elements to ensure they are relevant, clear, and fast-loading.
+5. Choose the interactive elements and animations for the web page. Interactive elements are the elements that respond to user actions, such as buttons, links, forms, etc. Animations are the movements or transitions of the elements on the web page. They help to create a dynamic and engaging experience for the web page. These steps require careful design and testing of the interactive elements and animations to ensure they are intuitive, functional, and accessible.
+6. Code the web page using HTML, CSS, and JavaScript. HTML is the markup language that defines the structure and content of the web page. CSS is the style sheet language that defines the presentation and layout of the web page. JavaScript is the programming language that defines the behavior and interactivity of the web page. These steps require knowledge and skills of the web development languages and tools to create a web page that matches the design.
+7. Test and optimize the web page for different devices, browsers, and users. Testing is the process of checking the web page for errors, bugs, and usability issues. Optimization is the process of improving the web page for performance, speed, and SEO. These steps require various tools and methods to ensure the web page works well and meets the standards and expectations of the web design.
+
+Some mnemonics and learning tricks for web page designing are:
+
+- Remember the acronym FLOW for the four main steps of web page designing: Flows, Layout, Colors and Typography, and Images and Graphics.
+- Remember the acronym CRAP for the four main principles of web page design: Contrast, Repetition, Alignment, and Proximity.
+- Remember the acronym FUR for the three main goals of web page design: Functionality, Usability, and Reliability.

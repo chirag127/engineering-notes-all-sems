@@ -1,0 +1,31 @@
+### Sensors for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+
+- Sensors are devices that detect and measure physical phenomena, such as temperature, pressure, light, sound, motion, etc.
+- Sensors are essential components of IoT systems, as they enable the collection of data from the physical world and the interaction with the environment.
+- Sensors can be classified into different types based on various criteria, such as:
+  - The physical phenomenon they measure (e.g., temperature sensors, humidity sensors, light sensors, etc.)
+  - The output signal they produce (e.g., analog sensors, digital sensors, etc.)
+  - The power consumption they require (e.g., passive sensors, active sensors, etc.)
+  - The communication protocol they use (e.g., wired sensors, wireless sensors, etc.)
+- Some of the common sensors used in IoT applications are:
+  - Temperature sensors: measure the degree of heat or cold of an object or a medium. Examples: thermocouples, thermistors, infrared sensors, etc.
+  - Humidity sensors: measure the amount of water vapor in the air or a gas. Examples: capacitive sensors, resistive sensors, etc.
+  - Light sensors: measure the intensity or brightness of light. Examples: photodiodes, phototransistors, light-dependent resistors, etc.
+  - Sound sensors: measure the amplitude or frequency of sound waves. Examples: microphones, piezoelectric sensors, etc.
+  - Motion sensors: measure the movement or acceleration of an object or a medium. Examples: accelerometers, gyroscopes, magnetometers, etc.
+  - Proximity sensors: measure the presence or distance of an object or a medium. Examples: ultrasonic sensors, infrared sensors, capacitive sensors, etc.
+  - Gas sensors: measure the concentration or composition of a gas. Examples: electrochemical sensors, metal oxide sensors, optical sensors, etc.
+  - Pressure sensors: measure the force exerted by a fluid or a gas on a surface. Examples: piezoresistive sensors, capacitive sensors, etc.
+  - Level sensors: measure the height or depth of a liquid or a solid. Examples: float sensors, ultrasonic sensors, capacitive sensors, etc.
+  - Flow sensors: measure the rate or volume of a fluid or a gas. Examples: turbine sensors, ultrasonic sensors, etc.
+- Sensors have different characteristics and specifications that affect their performance and suitability for different IoT applications, such as:
+  - Sensitivity: the ratio of the output signal to the input stimulus. A high sensitivity means a small change in the input causes a large change in the output.
+  - Accuracy: the degree of closeness of the output signal to the true value of the input stimulus. A high accuracy means a low error or deviation from the true value.
+  - Resolution: the smallest change in the input stimulus that can be detected by the output signal. A high resolution means a high precision or detail of the output signal.
+  - Range: the minimum and maximum values of the input stimulus that can be measured by the sensor. A wide range means a high versatility or adaptability of the sensor.
+  - Response time: the time required for the output signal to reach a certain percentage of the final value after a change in the input stimulus. A short response time means a fast or dynamic sensor.
+  - Hysteresis: the difference between the output signal when the input stimulus is increasing and when it is decreasing. A low hysteresis means a consistent or stable sensor.
+  - Drift: the change in the output signal over time due to external factors, such as temperature, humidity, aging, etc. A low drift means a reliable or durable sensor.
+  - Noise: the unwanted variation or disturbance in the output signal due to internal or external sources, such as electrical interference, mechanical vibration, etc. A low noise means a clear or quality sensor.
+  - Power consumption: the amount of energy required to operate the sensor. A low power consumption means a efficient or sustainable sensor.
+  - Cost: the amount of money required to acquire and maintain the sensor. A low cost means a affordable or economical sensor.

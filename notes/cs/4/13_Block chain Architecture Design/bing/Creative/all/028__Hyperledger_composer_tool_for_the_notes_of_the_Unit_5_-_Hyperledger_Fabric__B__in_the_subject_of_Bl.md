@@ -1,0 +1,30 @@
+### Hyperledger composer tool for the notes of the Unit 5 - Hyperledger Fabric (B) in the subject of Block chain Architecture Design
+
+- Hyperledger composer is a set of open source tools that allows business owners, operators, and developers a way to create blockchain applications and smart contracts aimed at solving business problems and/or improving operational efficiencies .
+- It is an example of a commercial application of blockchain-as-a-service (BaaS).
+- It is a collaboration tool for building “blockchain business networks,” accelerating the development of smart contracts and their deployment across a distributed ledger.
+- It was originally developed on top of Hyperledger Fabric, but it can be ported to run on other distributed ledger technologies, such as Hyperledger Iroha or Hyperledger Sawtooth.
+- It has the following main components:
+  - The modelling language; a simple but expressive business-centric language that allows non-developers and developers to model their business network. The language features keywords such as asset and participant, and supports modelling of relationships and data validation rules.
+  - The ability to encode business logic as transaction processor functions that are written in standard JavaScript. JavaScript was chosen because it is a modern, rapidly evolving programming language that is used by millions of developers around the world, as well as giving the ability to run the code anywhere that supports standard JavaScript.
+  - Declarative access control using access control lists, that allows developers to describe what resources can be accessed by which participants. Access control is automatically enforced by the runtime.
+  - Client and administrative APIs, as well as a “composer” CLI application that allows developers and operators to deploy and interact with business networks from Node.js applications or automation scripts.
+  - A web based “playground” that allows new and experienced users to learn the language, model their business network, and test that network from the comfort of their web browser. The playground can work in both “disconnected” mode, using a simulated network, and when connected to real running network.
+  - REST API support and integration capabilities; a LoopBack connector for business networks has been developed that exposes a running network as a REST API which can easily be consumed by client applications.
+  - Syntax highlighting support for two popular open-source editors, Atom and VS Code, with future plans about how we could include testing/debugging capabilities.
+  - Application generation using the Yeoman framework; client application developers can quickly generate a skeleton Angular 2 or CLI application to use as a starting point, allowing them to focus on UI/UX rather than business network interactions.
+- Some of the advantages of using Hyperledger composer are :
+  - It simplifies and accelerates the development of blockchain applications and smart contracts, reducing the time and cost of building and deploying them.
+  - It provides a high-level abstraction of the blockchain business network, allowing developers to focus on the business logic and data rather than the low-level details of the blockchain implementation.
+  - It enables collaboration and interoperability between different organizations and business networks, fostering innovation and trust.
+  - It supports multiple distributed ledger technologies, giving developers the flexibility and choice of the best platform for their use case.
+  - It leverages existing web development skills and tools, making it easier for developers to learn and use.
+- Some of the disadvantages or limitations of using Hyperledger composer are :
+  - It is not a production-ready tool, but rather an experimental and educational one. It is not actively maintained or supported by the Hyperledger community, and it is highly recommended to use Hyperledger Fabric v1.4+ instead, which features significant improvements to the developer experience, including a new programming model.
+  - It does not support all the features and functionalities of the underlying distributed ledger technologies, such as channels, private data, or endorsement policies in Hyperledger Fabric.
+  - It may introduce some performance overhead and complexity due to the additional layer of abstraction and translation between the composer model and the blockchain platform.
+  - It may not be suitable for some use cases that require more fine-grained control and customization of the blockchain network and smart contracts.
+- Some of the examples of applications that can be built using Hyperledger composer are :
+  - Supply chain management; tracking the provenance and status of goods and materials across multiple parties and locations, ensuring transparency and accountability.
+  - Asset management; managing the ownership and transfer of assets such as land, vehicles, or intellectual property, reducing fraud and disputes.
+  - Healthcare; sharing and verifying patient records and prescriptions

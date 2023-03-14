@@ -1,0 +1,23 @@
+### Digital sensors for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+
+- Digital sensors are pieces of hardware that detect changes in an environment and collect data in a digital format .
+- They are the pieces of an IoT ecosystem that bridge the digital world to the physical world .
+- Digital sensors may detect things like temperature, pressure, motion, sound, light, gas, and other physical phenomena, and if they are connected to a network, they share data with the network .
+- Digital sensors interact directly with an IoT microcontroller, eliminating the need for an analog-to-digital converter (ADC) that is required for analog sensors.
+- Digital sensors are further differentiated based on the work they perform, such as:
+  - Pressure sensors: measure the force exerted by a fluid or gas on a surface.
+  - Magnetic sensors: measure the presence or strength of a magnetic field.
+  - Acoustic sensors: measure the sound waves or vibrations in the air or other media .
+  - Image sensors: capture the light intensity and color of a scene and convert it into digital pixels.
+  - Radar sensors: emit radio waves and measure the reflection or Doppler shift of the waves to detect the distance, speed, and direction of objects .
+  - Gas sensors: measure the concentration of a specific gas in the air, such as carbon dioxide, oxygen, or methane .
+- Digital sensors have various advantages for IoT applications, such as:
+  - Higher accuracy and resolution than analog sensors.
+  - Lower power consumption and longer battery life.
+  - Easier integration and communication with other digital devices.
+  - Smaller size and lower cost than analog sensors.
+- Digital sensors also have some challenges for IoT applications, such as:
+  - Interference and noise from other digital signals or devices.
+  - Security and privacy risks of transmitting sensitive data over the network.
+  - Calibration and maintenance requirements to ensure reliable performance.
+  - Compatibility and interoperability issues with different standards and protocols.

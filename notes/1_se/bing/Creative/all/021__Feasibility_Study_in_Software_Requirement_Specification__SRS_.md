@@ -1,0 +1,25 @@
+### Feasibility Study in Software Requirement Specification (SRS)
+
+- A feasibility study is one of the stages of the software development lifecycle (SDLC) that evaluates the technical, operational, and economic viability of a software project.
+- A feasibility study helps to determine whether the project is worth pursuing, whether it can be completed within the budget and schedule, and whether it can meet the user and business needs.
+- A feasibility study involves the following steps:
+  - Identify the problem or opportunity that the software project aims to address.
+  - Define the objectives and scope of the project.
+  - Identify the alternative solutions and evaluate their pros and cons.
+  - Analyze the technical, operational, and economic feasibility of each alternative.
+  - Select the best alternative and recommend a course of action.
+- A feasibility study can be classified into four types:
+  - Technical feasibility: This assesses whether the project can be developed and deployed using the available technology, resources, and skills.
+  - Operational feasibility: This evaluates whether the project can be integrated into the existing business processes and systems, and whether it can be maintained and supported effectively.
+  - Economic feasibility: This estimates the costs and benefits of the project, and compares them with the expected return on investment (ROI).
+  - Legal feasibility: This examines whether the project complies with the relevant laws, regulations, and standards.
+- A feasibility study is an important part of the software requirement specification (SRS) document, which describes what the software will do and how it will perform.
+- A good SRS document should have the following quality characteristics :
+  - Correctness: The SRS should state the true requirements of the project, and avoid any errors or inconsistencies.
+  - Completeness: The SRS should cover all the functional and non-functional requirements of the project, and avoid any gaps or ambiguities.
+  - Clarity: The SRS should use clear and precise language, and avoid any jargon or technical terms that may confuse the readers.
+  - Consistency: The SRS should maintain a uniform style and format, and avoid any contradictions or conflicts among the requirements.
+  - Verifiability: The SRS should state the requirements in a testable and measurable way, and provide the criteria for verifying their fulfillment.
+  - Modifiability: The SRS should be easy to update and modify, and provide a mechanism for tracking and managing the changes.
+  - Traceability: The SRS should link the requirements to their sources and destinations, and provide a way to track their origin and impact.
+- A mnemonic to remember the quality characteristics of a good SRS is **C3VMT** (pronounced as "see three vee em tee"), which stands for **C**orrectness, **C**ompleteness, **C**larity, **V**erifiability, **M**odifiability, and **T**raceability.

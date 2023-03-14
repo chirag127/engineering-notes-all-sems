@@ -1,0 +1,21 @@
+### Introduction to group for the notes of the Unit 2 - Introduction to group, field, finite field of the form GF(p), modular arithmetic, prime and relative prime numbers, Extended Euclidean Algorithm, Advanced Encryption Standard (AES) encryption and decryptionFermat’s and Euler’s theorem, Primarily testing, Chinese Remainder theorem, Discrete Logarithmic Problem,Principals of public key crypto systems, RSA algorithm, security of RSA in the subject of Cryptography & Network Security.
+
+- A group is a very general algebraic object that consists of a set of elements and a binary operation that satisfies certain properties, such as closure, associativity, identity and inverse .
+- Groups are widely used in cryptography to construct various cryptographic primitives, such as encryption schemes, digital signatures, key exchange protocols, zero-knowledge proofs, etc  .
+- A group is said to be commutative or abelian if the binary operation is also commutative, that is, for any two elements a and b in the group, a * b = b * a .
+- A group is said to be finite if the set of elements is finite, and infinite otherwise .
+- A group is said to be cyclic if there exists an element g in the group such that every other element can be obtained by repeated application of the binary operation on g, that is, for any element a in the group, there exists an integer n such that a = g^n .
+- A field is a special kind of group that has two binary operations, usually called addition and multiplication, that satisfy additional properties, such as commutativity, distributivity, identity and inverse for both operations .
+- A finite field is a field that has a finite number of elements, and it can be shown that the number of elements must be a prime power, that is, p^n for some prime p and positive integer n .
+- A finite field of the form GF(p) is a finite field that has p elements, where p is a prime number, and the addition and multiplication operations are defined modulo p .
+- Modular arithmetic is a system of arithmetic where numbers are reduced modulo a fixed positive integer called the modulus .
+- Modular arithmetic is useful for cryptography because it allows us to perform arithmetic operations on large numbers efficiently and securely .
+- A prime number is a positive integer that has exactly two positive divisors, namely 1 and itself .
+- A relative prime number or a coprime number is a positive integer that has no common positive divisors with another positive integer except 1 .
+- The Extended Euclidean Algorithm is an algorithm that computes the greatest common divisor (gcd) of two positive integers, as well as the coefficients of the linear combination that expresses the gcd as a function of the two integers .
+- The Extended Euclidean Algorithm is useful for cryptography because it allows us to find the multiplicative inverse of an element in a finite field, as well as to solve linear congruences and Diophantine equations .
+- The Advanced Encryption Standard (AES) is a symmetric-key encryption scheme that operates on blocks of 128 bits, using a secret key of 128, 192 or 256 bits .
+- The AES encryption and decryption algorithms consist of several rounds of transformations, such as substitution, permutation, mixing and key addition, that are designed to provide confusion and diffusion of the plaintext and the key .
+- The AES encryption and decryption algorithms are efficient and secure, and are widely used in various applications and protocols .
+- Fermat's theorem states that if p is a prime number and a is any positive integer that is not divisible by p, then a^(p-1) is congruent to 1 modulo p .
+- Euler's theorem generalizes Fermat's theorem by stating that if a and n are positive integers that are coprime, then a^(phi(n)) is congruent to 1 modulo n, where phi(n) is the Euler's totient function that counts the number of

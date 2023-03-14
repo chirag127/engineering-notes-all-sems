@@ -1,0 +1,10 @@
+### Using XML Processors in Web Page Designing
+
+- XML stands for eXtensible Markup Language. It is a markup language similar to HTML, but without predefined tags to use. Instead, you define your own tags designed specifically for your needs.
+- XML is often used to separate data from presentation. XML does not carry any information about how to be displayed. The same XML data can be used in many different presentation scenarios.
+- When a software program reads an XML document and takes actions accordingly, this is called processing the XML. Any program that can read and process XML documents is known as an XML processor.
+- An XML processor reads the XML file and turns it into in-memory structures that the rest of the program can access. There are two types of XML processors: validating and non-validating.
+- A validating XML processor checks the XML document against a set of rules, such as a Document Type Definition (DTD) or an XML Schema, to ensure that it conforms to the syntax and semantics of the language. A non-validating XML processor does not perform this check, but only checks for well-formedness.
+- XML processors can be used in web page designing to transform XML data into HTML output using a style sheet language such as XSLT (Extensible Stylesheet Language Transformations). XSLT is a language that can specify how to transform XML elements into HTML elements, using templates and rules .
+- An example of using XML processors in web page designing is to create a web page that displays a menu of breakfast items. The XML data can contain the name, price, description, and calories of each food item, and the XSLT style sheet can specify how to format and display them in a table .
+- The advantages of using XML processors in web page designing are that they can separate the content from the presentation, make the data reusable and portable, and allow for dynamic and customized web pages .

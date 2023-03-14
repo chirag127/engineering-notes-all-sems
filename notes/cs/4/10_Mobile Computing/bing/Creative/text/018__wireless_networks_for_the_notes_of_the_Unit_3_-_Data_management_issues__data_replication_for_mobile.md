@@ -1,0 +1,9 @@
+### Wireless Networks
+
+Wireless networks are networks that use radio waves or other wireless technologies to connect devices without cables. Wireless networks enable mobile computing, which is the ability to access and process data from anywhere and anytime using portable devices.
+
+Some of the topics related to wireless networks in the context of mobile computing are:
+
+- Data management issues: These are the challenges and techniques for managing data in wireless networks, such as data consistency, availability, security, caching, replication, synchronization, and query processing. Data management issues arise due to the characteristics of wireless networks, such as limited bandwidth, high latency, frequent disconnections, and mobility of nodes.
+- Data replication for mobile computers: This is the process of creating and maintaining multiple copies of data on different nodes in a wireless network, such as mobile hosts, base stations, or servers. Data replication can improve data availability, reliability, and performance in wireless networks, but it also introduces issues such as replica consistency, update propagation, and replica placement.
+- Adaptive clustering for mobile wireless networks: This is a technique for organizing nodes in a wireless network into groups or clusters, based on some criteria such as proximity, connectivity, or similarity. Adaptive clustering can provide benefits such as spatial reuse of bandwidth, controlled access to resources, and robustness to node failures or movements. Adaptive clustering algorithms need to be dynamic and efficient to cope with the changing topology and traffic patterns of wireless networks.

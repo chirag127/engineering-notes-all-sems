@@ -1,0 +1,21 @@
+### Storage for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Storage is a mode of computer data storage in which digital data is stored on servers in off-site locations. The servers are maintained by a third-party provider who is responsible for hosting, managing, and securing data stored on its infrastructure  .
+- Storage in cloud computing is a managed service for storing unstructured data. It enables storing data and files on the internet through a cloud computing provider that you access either through the public internet or a dedicated private network connection  .
+- Storage in cloud computing offers the following benefits:
+  - Cost effectiveness: You only pay for what you use and you can scale up and down with demand. You do not need to buy and maintain your own data storage infrastructure, which reduces capital and operational expenses  .
+  - Increased agility: You can access your data anytime and anywhere, and you can add or remove storage capacity on demand. You do not need to worry about running out of capacity, replacing failed devices, or provisioning storage for business spikes  .
+  - Data security: You can protect your data with encryption, access control policies, retention policies, and signed URLs. You can also rely on the provider's expertise and compliance standards to secure your data against leaks or compromises .
+  - Data availability and durability: You can choose from different storage classes and replication options to meet your performance and reliability requirements. You can also use features like object lifecycle management and automatic storage class transitions to optimize your storage costs and data lifecycle .
+  - Data analytics and ML/AI: You can easily integrate your data with various analytics and ML/AI tools offered by the cloud provider or other third-party services. You can extract insights from your data and fuel innovation with cloud storage .
+- Storage in cloud computing can be classified into three main types:
+  - Object storage: This is the most common type of cloud storage, which stores data as objects in a flat namespace. Each object has a unique identifier, metadata, and data. Object storage is suitable for storing large amounts of unstructured data, such as images, videos, documents, etc. Object storage is accessed through HTTP-based APIs, such as REST or SOAP   .
+  - Block storage: This is a type of cloud storage that stores data as blocks in a logical volume. Each block has a fixed size and a unique address. Block storage is suitable for storing structured data that requires high performance and low latency, such as databases, virtual machines, etc. Block storage is accessed through protocols, such as iSCSI or Fibre Channel  .
+  - File storage: This is a type of cloud storage that stores data as files in a hierarchical structure. Each file has a name, metadata, and data. File storage is suitable for storing data that requires a familiar file system interface, such as applications, user data, etc. File storage is accessed through protocols, such as NFS or SMB  .
+- Some examples of cloud storage providers and services are:
+  - AWS: Amazon Web Services offers various cloud storage services, such as Amazon S3 (object storage), Amazon EBS (block storage), Amazon EFS (file storage), Amazon Glacier (archive storage), etc.
+  - Google Cloud: Google Cloud offers various cloud storage services, such as Google Cloud Storage (object storage), Google Persistent Disk (block storage), Google Filestore (file storage), Google Cloud Storage Archive (archive storage), etc.
+  - Microsoft Azure: Microsoft Azure offers various cloud storage services, such as Azure Blob Storage (object storage), Azure Disk Storage (block storage), Azure Files (file storage), Azure Archive Storage (archive storage), etc.
+- Some mnemonics and learning tricks for storage in cloud computing are:
+  - Object storage: Think of objects as buckets of data that you can access through a URL. Remember the acronym REST (Representational State Transfer), which is a common API for object storage. REST stands for Resource, Endpoint, State, and Transfer.
+  - Block storage: Think of blocks as Lego bricks that you can assemble

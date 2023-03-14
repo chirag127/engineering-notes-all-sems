@@ -1,0 +1,11 @@
+### Risk Planning in SPM
+
+Risk planning is the process of identifying, prioritizing, and managing risk in a software project. Risk is defined as an uncertain event or condition that if it occurs, has a positive or negative effect on a project's objectives. Risk planning involves the following steps:
+
+- **Risk identification**: This is the process of finding out the potential risks that may affect the project's critical success factors, such as scope, quality, cost, and schedule. Risk identification can use various techniques, such as a risk breakdown structure, a checklist, assumptions analysis, previous project experience, and expert judgment .
+- **Risk analysis**: This is the process of assessing the probability and impact of each identified risk, and assigning a risk score or rating to each risk. Risk analysis can use qualitative or quantitative methods, such as risk matrices, probability distributions, decision trees, and simulation models .
+- **Risk prioritization**: This is the process of ranking the risks according to their risk scores or ratings, and determining which risks need more attention and resources. Risk prioritization can use various criteria, such as urgency, severity, exposure, and opportunity.
+- **Risk response planning**: This is the process of developing strategies and actions to reduce the negative effects or enhance the positive effects of each prioritized risk. Risk response planning can use four types of strategies: avoid, transfer, mitigate, and accept for negative risks; and exploit, share, enhance, and accept for positive risks .
+- **Risk monitoring and control**: This is the process of tracking and reviewing the status and performance of the risks and their response plans, and taking corrective actions if needed. Risk monitoring and control can use various tools, such as risk registers, risk reports, risk audits, and risk reviews .
+
+Risk planning is a necessary component of software project management (SPM), as it helps to align the project's strategy and work, plan and deliver value, and empower teams to drive business outcomes . Risk planning also helps to avoid or minimize the occurrence of issues and problems that may jeopardize the project's success.

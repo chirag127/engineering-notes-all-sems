@@ -1,0 +1,23 @@
+## Unit 2 - Software Requirement Specifications (SRS)
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, and constraints of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and managers of the software project.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts among the stakeholders.
+  - It provides a basis for estimating the cost, time, and resources of the software development.
+  - It facilitates the verification and validation of the software system.
+  - It serves as a reference for the maintenance and evolution of the software system.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs and expectations of the stakeholders.
+  - Complete: It should cover all the requirements of the software system, without leaving any gaps or redundancies.
+  - Clear: It should be unambiguous, precise, and understandable by the intended audience.
+  - Consistent: It should not contain any contradictions or conflicts among the requirements.
+  - Verifiable: It should be testable and measurable by some criteria or methods.
+  - Modifiable: It should be structured and organized in a way that allows easy changes and updates.
+  - Traceable: It should be able to track the origin and rationale of each requirement, and the impact of any changes on the other requirements.
+- The contents of a typical SRS are:
+  - Introduction: It provides an overview of the software system, its scope, objectives, and assumptions.
+  - User Requirements: It describes the needs and expectations of the end-users of the software system, in terms of functionality, usability, reliability, performance, and security.
+  - System Requirements: It specifies the technical and operational requirements of the software system, in terms of hardware, software, interfaces, data, and quality attributes.
+  - Non-functional Requirements: It defines the constraints and standards that the software system must adhere to, such as legal, ethical, regulatory, and environmental aspects.
+  - Appendices: It contains any supplementary or supporting information, such as glossary, references, diagrams, and tables.

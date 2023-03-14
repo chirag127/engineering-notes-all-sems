@@ -1,0 +1,31 @@
+### Agile Methods in Software Project Management
+
+- Agile methods are a set of project management frameworks that break projects down into several dynamic phases, commonly known as sprints.
+- Agile methods are based on the Agile Manifesto, which outlines four values and 12 principles for agile software development.
+- The four values of the Agile Manifesto are:
+  - Individuals and interactions over processes and tools
+  - Working software over comprehensive documentation
+  - Customer collaboration over contract negotiation
+  - Responding to change over following a plan
+- The 12 principles of the Agile Manifesto are:
+  - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+  - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+  - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+  - Business people and developers must work together daily throughout the project.
+  - Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+  - The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+  - Working software is the primary measure of progress.
+  - Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+  - Continuous attention to technical excellence and good design enhances agility.
+  - Simplicity--the art of maximizing the amount of work not done--is essential.
+  - The best architectures, requirements, and designs emerge from self-organizing teams.
+  - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+- Agile methods are iterative and adaptive, meaning that they allow teams to deliver value to their customers faster and with fewer headaches.
+- Agile methods also promote open communication, collaboration, adaptation, and trust among team members and stakeholders.
+- Agile methods are not limited to software development, but can be applied to any type of project that requires flexibility and responsiveness.
+- Some of the most popular agile methods are :
+  - Scrum: A framework that defines roles, events, artifacts, and rules for delivering software in fixed-length iterations called sprints.
+  - Kanban: A method that visualizes the workflow, limits work in progress, and optimizes the flow of value using a Kanban board.
+  - Extreme Programming (XP): A methodology that focuses on delivering high-quality software through practices such as test-driven development, pair programming, and continuous integration.
+  - Lean: A philosophy that aims to eliminate waste, maximize customer value, and optimize the whole system.
+  - Scaled Agile Framework (SAFe): A framework that provides guidance and best practices for scaling agile across large and complex organizations.

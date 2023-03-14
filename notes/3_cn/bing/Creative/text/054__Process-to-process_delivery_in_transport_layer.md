@@ -1,0 +1,8 @@
+### Process-to-process delivery in transport layer
+
+- Process-to-process delivery is the responsibility of the transport layer, which provides a point-to-point connection between two processes (application programs) running on different hosts.
+- Process-to-process delivery requires two identifiers for each end of the connection: an IP address and a port number. The IP address identifies the host, while the port number identifies the process on the host.
+- A port number is a 16-bit address that can range from 0 to 65,535. The Internet Assigned Numbers Authority (IANA) has divided the port numbers into three ranges: well-known ports (0 to 1023), registered ports (1024 to 49,151), and dynamic or private ports (49,152 to 65,535).
+- A socket address is a combination of an IP address and a port number, separated by a colon. For example, 192.168.1.1:80 is a socket address that represents the process listening on port 80 on the host with IP address 192.168.1.1.
+- The transport layer uses two protocols to perform process-to-process delivery: TCP and UDP. TCP is a reliable, connection-oriented protocol that establishes a logical connection between two processes before exchanging data. UDP is an unreliable, connectionless protocol that does not require a connection and sends datagrams without any guarantee of delivery or order.
+- The transport layer performs segmentation and reassembly of data, multiplexing and demultiplexing of data streams, and congestion control to ensure efficient and reliable process-to-process delivery.

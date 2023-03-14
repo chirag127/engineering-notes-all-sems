@@ -1,0 +1,7 @@
+### Recurrent networks
+
+- Recurrent networks are a type of artificial neural network that can process sequential data or time series data, such as natural language, speech, or video  .
+- Recurrent networks have a "memory" that allows them to use information from previous inputs to influence the current input and output . They can also share parameters across different layers of the network, unlike feedforward networks.
+- Recurrent networks can be trained using backpropagation through time (BPTT), which is a variant of backpropagation that sums the errors at each time step and adjusts the weights accordingly. However, recurrent networks may suffer from exploding or vanishing gradients, which are problems related to the size and direction of the gradient during training.
+- Recurrent networks can have different architectures, such as fully recurrent, Elman, Jordan, Hopfield, echo state, independently recurrent, recursive, neural history compressor, second order, long short-term memory (LSTM), gated recurrent unit (GRU), bi-directional, continuous-time, hierarchical, recurrent multilayer perceptron, multiple timescales, neural Turing machines, differentiable neural computer, neural network pushdown automata, and memristive networks.
+- Recurrent networks are commonly used for applications that require temporal or ordinal information, such as language translation, natural language processing, speech recognition, image captioning, sentiment analysis, text generation, and more .

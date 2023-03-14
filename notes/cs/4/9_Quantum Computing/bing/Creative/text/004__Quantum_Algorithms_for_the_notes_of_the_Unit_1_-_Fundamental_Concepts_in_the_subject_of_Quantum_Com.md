@@ -1,0 +1,18 @@
+### Quantum Algorithms
+
+Quantum algorithms are algorithms that run on a quantum computer, which is a machine that uses quantum mechanics to perform computations that are not possible or efficient on a classical computer. Quantum algorithms exploit some essential features of quantum computation, such as quantum superposition and quantum entanglement, to achieve speedup or other advantages over classical algorithms.
+
+Some of the main techniques used by quantum algorithms include:
+
+- Phase kick-back: This is a phenomenon where the phase of a quantum state is transferred to another quantum state through a controlled operation. This can be used to implement quantum logic gates, such as the Toffoli gate, or to amplify the probability of a desired outcome, such as in Grover's algorithm.
+- Phase estimation: This is a technique to estimate the eigenvalue of a unitary operator applied to an eigenvector. This can be used to solve problems such as finding the order of a group, factoring large numbers, or simulating quantum systems.
+- Quantum Fourier transform: This is the quantum analogue of the discrete Fourier transform, which transforms a quantum state from the computational basis to the Fourier basis. This can be used to perform operations such as modular exponentiation, period finding, or solving linear systems of equations.
+- Quantum walks: These are quantum versions of random walks, where a quantum particle moves on a graph or a lattice according to some quantum rules. These can be used to design quantum algorithms for problems such as element distinctness, graph connectivity, or spatial search.
+- Amplitude amplification: This is a technique to increase the success probability of a quantum algorithm by iteratively applying a reflection operator. This can be used to improve the performance of quantum algorithms such as Grover's algorithm, or to implement quantum search on a general oracle.
+- Topological quantum field theory: This is a branch of mathematics that studies quantum systems with topological properties, such as anyons or quantum knots. These can be used to construct quantum algorithms for problems such as the Jones polynomial, the HOMFLY polynomial, or the Alexander polynomial.
+
+Some of the most well-known quantum algorithms are:
+
+- Shor's algorithm: This is a quantum algorithm for factoring large numbers and finding discrete logarithms, which are hard problems for classical computers. This algorithm uses the quantum Fourier transform and phase estimation to find the period of a function related to the factorization or the discrete logarithm problem. This algorithm can break some of the most widely used cryptographic systems, such as RSA or Diffie-Hellman.
+- Grover's algorithm: This is a quantum algorithm for searching an unstructured database or an unordered list, which are easy problems for classical computers. This algorithm uses amplitude amplification and phase kick-back to find a marked element in a list with quadratic speedup over the classical linear search. This algorithm can be generalized to solve other problems, such as satisfiability, collision finding, or optimization.
+- Quantum simulation: This is a quantum algorithm for simulating the dynamics of quantum systems, which are hard problems for classical computers. This algorithm uses quantum gates and measurements to mimic the evolution of a quantum system, such as a molecule, a lattice, or a quantum field. This algorithm can be used to study problems in physics, chemistry, biology, or materials science.

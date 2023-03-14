@@ -1,0 +1,14 @@
+### Dynamic HTML in Web Page Designing
+
+Dynamic HTML (DHTML) is a term that refers to the use of various web technologies to create web pages that are dynamic and interactive. Dynamic HTML can combine HTML, CSS, JavaScript, and XML to achieve effects that would otherwise be impossible with static HTML. Some examples of dynamic HTML features are:
+
+- Responsive web design: This is the ability to create web pages that look good on all devices, regardless of the screen size or viewport. Responsive web design can use the `<meta>` tag to set the viewport, the `width` and `max-width` properties to resize images, the `<picture>` element to show different images depending on the browser width, and the `vw` unit to scale text size. 
+- User input: This is the ability to get data from the user and display it dynamically on the web page. User input can use the `<input>` element to get the user's name, the `<button>` element to trigger a function, and the `innerHTML` property to change the text content of an element. 
+- Animation: This is the ability to move or change the appearance of elements on the web page. Animation can use the `style` property to modify the CSS properties of an element, the `setInterval()` and `clearInterval()` methods to create a timer, and the `Math.random()` method to generate random numbers. 
+- Data manipulation: This is the ability to load, process, and display data from external sources on the web page. Data manipulation can use the `XMLHttpRequest` object to send and receive data from a server, the `JSON.parse()` and `JSON.stringify()` methods to convert data between JSON and JavaScript objects, and the `DOMParser` object to parse XML data. 
+
+Dynamic HTML can enhance the user experience and functionality of web pages, but it also has some drawbacks, such as:
+
+- Browser compatibility: Different browsers may support different features or versions of web technologies, which can cause inconsistencies or errors in the web page. To avoid this, developers should use web standards and test their web pages on various browsers and devices. 
+- Security: Dynamic HTML can expose the web page to malicious attacks, such as cross-site scripting (XSS), which can inject harmful code into the web page. To prevent this, developers should validate and sanitize the user input and data, and use secure protocols and encryption. 
+- Performance: Dynamic HTML can increase the loading time and memory usage of the web page, especially if it involves complex calculations or large amounts of data. To optimize this, developers should use efficient algorithms and data structures, and minimize the number of requests and resources.

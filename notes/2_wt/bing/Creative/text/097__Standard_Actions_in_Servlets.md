@@ -1,0 +1,22 @@
+#### Standard Actions in Servlets
+
+- Standard actions in servlets are JSP elements that use the XML syntax to control the behavior of the servlet engine.
+- Standard actions can perform tasks such as dynamically inserting a file, reusing the beans components, forwarding the user to another page, etc.
+- Standard actions are re-evaluated each time the page is accessed, unlike directives.
+- There are 12 types of standard actions in servlets :
+  - `<jsp:useBean>`: creates or locates a bean object and assigns it to a variable
+  - `<jsp:getProperty>`: reads a property value from a bean object and displays it in the output
+  - `<jsp:setProperty>`: sets a property value of a bean object
+  - `<jsp:include>`: includes the output of another resource (such as a file or a servlet) in the current page
+  - `<jsp:forward>`: forwards the request to another resource (such as a file or a servlet) and terminates the current page
+  - `<jsp:param>`: adds a parameter to the request when used with `<jsp:include>` or `<jsp:forward>`
+  - `<jsp:plugin>`: generates the HTML code to include an applet in the page
+  - `<jsp:attribute>`: specifies an attribute for a custom action
+  - `<jsp:body>`: specifies the body content for a custom action
+  - `<jsp:element>`: creates an XML element dynamically
+  - `<jsp:text>`: allows the use of literal text that would otherwise be interpreted as JSP syntax
+  - `<jsp:output>`: controls the output settings for the page, such as the content type and the buffering size
+- Each standard action element consists of a start tag, `<prefix:tagname>`, and an end tag of the same name, `</prefix:tagname>`.
+- The start tag may contain named attributes, separated from their corresponding values by equal signs.
+- The value is typically surrounded by double quotes or by single quotes.
+- Some standard actions, such as `<jsp:include>` and `<jsp:forward>`, are commonly used in servlets, while others, such as `<jsp:useBean>` and `<jsp:getProperty>`, are less useful when using a proper MVC design or framework .

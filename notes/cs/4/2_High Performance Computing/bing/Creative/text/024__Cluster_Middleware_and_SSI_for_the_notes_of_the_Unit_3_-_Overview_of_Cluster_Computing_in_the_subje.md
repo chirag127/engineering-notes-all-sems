@@ -1,0 +1,21 @@
+### Cluster Middleware and SSI
+
+- Cluster Middleware is a software layer that resides between the operating system and the user-level environment of a cluster. It provides services and functionalities that enable the cluster to operate as a single system. 
+- Single System Image (SSI) is a concept in distributed computing that refers to the illusion of a single system presented by a cluster of machines.  SSI allows users, applications, and the network to interact with the cluster as if it were a single powerful resource. 
+- SSI can be achieved by providing some or all of the following features: 
+  - Process migration: the ability to move running processes from one node to another, possibly for load balancing or fault tolerance purposes. 
+  - Process checkpointing: the ability to save and restore the state of a process, allowing it to resume execution at a later time or on a different node. 
+  - Single process space: the illusion that all processes are running on the same machine, and can be managed by the same tools and commands. 
+  - Single root: the illusion that all nodes share the same file system, allowing processes to access files on any node without special precautions. 
+  - Single I/O space: the illusion that all nodes share the same devices, such as printers, scanners, or disks. 
+  - Single IPC space: the illusion that all nodes share the same inter-process communication mechanisms, such as pipes, sockets, or message queues. 
+  - Cluster IP address: the illusion that the cluster has a single network address, allowing external clients to connect to the cluster without knowing its internal structure. 
+- Cluster Middleware consists of two sub-layers of software infrastructure: 
+  - SSI Infrastructure: the layer that implements the SSI features, such as process migration, single root, or cluster IP address. 
+  - System Availability Infrastructure (SAI): the layer that provides cluster services that enhance the reliability and availability of the cluster, such as checkpointing, automatic failover, recovery from failure, and fault tolerance. 
+- Some examples of Cluster Middleware and SSI systems are:   
+  - OpenSSI: an open-source SSI clustering system based on Linux, that provides process migration, single process space, single root, single I/O space, single IPC space, and cluster IP address. 
+  - MOSIX: an SSI clustering system based on Linux, that provides process migration, single process space, and load balancing. 
+  - Kerrighed: an SSI clustering system based on Linux, that provides process migration, single process space, single root, single I/O space, single IPC space, and checkpointing. 
+  - HP TruCluster: an SSI clustering system based on Unix, that provides process migration, single process space, single root, single I/O space, single IPC space, cluster IP address, and fault tolerance. 
+  - HP VMScluster: an SSI clustering system based on VMS, that provides process migration, single process space, single root, single I/O space, single IPC space, cluster IP address, and fault tolerance.

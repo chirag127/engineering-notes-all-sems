@@ -1,0 +1,24 @@
+### Software Measurement and Metrics in Software Design
+
+- Software measurement is the process of quantifying or counting the attributes of a software product or process using a standard scale.
+- Software metrics are the measures of software characteristics that are quantifiable or countable.
+- Software measurement and metrics are important for many reasons, such as:
+  - Assessing the quality of the software product or process .
+  - Improving the software product or process based on the feedback from the metrics .
+  - Predicting the future quality of the software product or process .
+  - Planning and managing the software development activities .
+  - Estimating the cost, effort, and time required for software development .
+- Software measurement and metrics can be classified into two types:
+  - Direct measurement: The software product or process is measured directly using a standard scale, such as lines of code, defects, or function points.
+  - Indirect measurement: The software product or process is measured indirectly using related parameters, such as complexity, reliability, or usability.
+- Software measurement and metrics can also be classified into three types based on the object of measurement:
+  - Product metrics: The metrics that measure the state and quality of the software product, such as size, complexity, reliability, or maintainability .
+  - Process metrics: The metrics that measure the effectiveness and efficiency of the software development process, such as productivity, defect density, or cycle time .
+  - Project metrics: The metrics that measure the progress and performance of the software development project, such as cost, schedule, effort, or risk .
+- Software measurement and metrics should have the following characteristics:
+  - Quantitative: The metrics should be expressed in numerical values that can be compared and analyzed.
+  - Understandable: The metrics should be easy to understand and interpret by the stakeholders.
+  - Applicable: The metrics should be relevant and useful for the software development context and goals.
+  - Repeatable: The metrics should be consistent and reliable when measured repeatedly.
+  - Economical: The metrics should be cost-effective and feasible to collect and analyze.
+  - Language independent: The metrics should not depend on the programming language or technology used for software development.

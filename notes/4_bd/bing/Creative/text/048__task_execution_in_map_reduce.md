@@ -1,0 +1,17 @@
+#### Task Execution in MapReduce
+
+- MapReduce is a framework for processing large-scale data sets in parallel on a cluster of nodes using a distributed file system (such as HDFS).
+- A MapReduce job consists of a map function and a reduce function, which are user-defined functions that operate on key-value pairs of data.
+- The map function takes an input key-value pair and produces a set of intermediate key-value pairs. The reduce function takes an intermediate key and a set of values associated with that key and produces a set of output key-value pairs.
+- The MapReduce framework handles the distribution, scheduling, execution, and fault-tolerance of the map and reduce tasks on the cluster nodes.
+- The framework consists of a single master node called the JobTracker and multiple slave nodes called the TaskTrackers. The JobTracker is responsible for coordinating the job execution and monitoring the status of the tasks. The TaskTrackers are responsible for running the tasks assigned by the JobTracker and reporting the progress and errors to the JobTracker.
+- The execution of a MapReduce job involves the following steps:
+
+  - The client submits the job to the JobTracker, along with the job configuration, the input and output locations, and the map and reduce classes.
+  - The JobTracker splits the input data into fixed-size chunks called input splits, each of which is assigned to a map task. The number of map tasks is determined by the number of input splits, which can be configured by the user.
+  - The JobTracker assigns the map tasks to the TaskTrackers based on their availability and data locality. The TaskTrackers launch a separate JVM process for each map task and execute the map function on the input split. The map function emits intermediate key-value pairs, which are buffered and partitioned by a user-defined partitioner function. The partitioner function determines which reduce task will receive the intermediate key-value pairs based on the intermediate key. The default partitioner function uses a hash function on the intermediate key.
+  - The TaskTrackers periodically flush the buffered intermediate data to the local disk and send the metadata (such as the location and size of the intermediate files) to the JobTracker. The intermediate data is also replicated to other nodes for fault-tolerance.
+  - The JobTracker creates a set of reduce tasks based on the number of partitions, which can be configured by the user. The JobTracker assigns the reduce tasks to the TaskTrackers based on their availability and load balancing. The TaskTrackers launch a separate JVM process for each reduce task and execute the reduce function on the intermediate data.
+  - The reduce tasks fetch the intermediate data from the map tasks using HTTP. The intermediate data is sorted and merged by the framework before being passed to the reduce function. The reduce function aggregates the intermediate values for each intermediate key and produces the output key-value pairs. The output data is written to the output location specified by the user.
+  - The JobTracker monitors the progress and status of the map and reduce tasks and re-executes the failed or slow tasks on different TaskTrackers. The JobTracker also provides information and statistics about the job execution to the client and the user.
+  - The client polls the JobTracker for the job completion and retrieves the output data from the output location. The client can also access the logs and counters of the tasks for debugging and performance tuning purposes.

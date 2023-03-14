@@ -1,0 +1,67 @@
+### ISO 9000 Models in SRS
+
+- ISO 9000 is a set of international standards on quality management and quality assurance developed to help companies effectively document the quality system elements needed to maintain an efficient quality system.
+- ISO 9000 is not specific to any one industry and can be applied to organizations of any size. ISO 9000 can help a company satisfy its customers, meet regulatory requirements, and achieve continual improvement.
+- ISO 9000 is a series, or family, of quality management standards, while ISO 9001 is a standard within the family. The ISO 9000 family of standards also contains an individual standard named ISO 9000. This standard lays out the fundamentals and vocabulary for quality management systems (QMS) .
+- ISO 9000 series of Standards
+  - ISO 9001:2015: Quality Management Systems - Requirements
+  - ISO 9000:2015: Quality Management Systems - Fundamentals and Vocabulary (definitions)
+  - ISO 9004:2018: Quality Management - Quality of an Organization - Guidance to Achieve Sustained Success (continuous improvement)
+  - ISO 19011:2018: Guidelines for Auditing Management Systems 
+- ISO 9000:2015 describes the fundamental concepts and principles of quality management which are universally applicable to the following:
+  - organizations seeking sustained success through the implementation of a quality management system;
+  - customers seeking confidence in an organization's ability to consistently provide products and services conforming to their requirements;
+  - organizations seeking confidence in their supply chain that their product and service requirements will be met;
+  - organizations and interested parties seeking to improve communication through a common understanding of the vocabulary used in quality management;
+  - organizations performing conformity assessments against the requirements of ISO 9001;
+  - providers of training, assessment or advice in quality management;
+  - developers of related standards.
+- ISO 9000:2015 specifies the terms and definitions that apply to all quality management and quality management system standards developed by ISO/TC 176.
+- ISO 9000 Quality Management Principles
+  - Customer focus
+  - Leadership
+  - Engagement of people
+  - Process approach
+  - Improvement
+  - Evidence-based decision making
+  - Relationship management 
+- ISO 9000 Quality Standards in Software Engineering
+  - ISO 9000-3: 1997 – This series contains Quality management systems, Quality assurance standards and also includes guidelines for the application of ISO 9001 to 1994 to the development, supply, installation, and maintenance of computer installation.
+  - ISO 9001: 1994 – This series of standards has Quality systems and a Quality assurance model.
+  - ISO 9000-3 provides guidance on how to interpret the requirements of ISO 9001 in the context of software development. It covers the following aspects:
+    - Management responsibility
+    - Quality system
+    - Contract review
+    - Design control
+    - Document and data control
+    - Purchasing
+    - Control of customer-supplied product
+    - Product identification and traceability
+    - Process control
+    - Inspection and testing
+    - Control of inspection, measuring, and test equipment
+    - Inspection and test status
+    - Control of nonconforming product
+    - Corrective and preventive action
+    - Handling, storage, packaging, preservation, and delivery
+    - Control of quality records
+    - Internal quality audits
+    - Training
+    - Servicing
+    - Statistical techniques
+- ISO 9000 models in SRS (Software Requirements Specification) are used to ensure that the software development process follows the quality standards and meets the customer requirements. The SRS document should include the following information:
+  - Purpose and scope of the software
+  - Functional and non-functional requirements
+  - Constraints and assumptions
+  - User interface and user interaction requirements
+  - Data and database requirements
+  - Performance and reliability requirements
+  - Security and privacy requirements
+  - Quality attributes and metrics
+  - Verification and validation methods
+  - Traceability matrix
+  - References and appendices
+- ISO 9000 models in SRS help to improve the quality of the software product by:
+  - Providing a clear and consistent specification of the software requirements
+  - Reducing the ambiguity and incompleteness of the requirements
+  - Facilitating the communication and

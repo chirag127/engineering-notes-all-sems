@@ -1,0 +1,24 @@
+### Concepts in Message Passing Systems
+
+- Message passing systems are a way of communication between distributed processes or components in a distributed system.
+- Message passing systems can be classified into two types: synchronous and asynchronous.
+- Synchronous message passing systems have the following properties:
+  - The sender and the receiver of a message must be ready at the same time to exchange the message.
+  - The sender blocks until the receiver acknowledges the receipt of the message.
+  - The receiver blocks until a message arrives from the sender.
+  - The communication is reliable and ordered, meaning that messages are not lost or corrupted, and they are delivered in the same order as they are sent.
+- Asynchronous message passing systems have the following properties:
+  - The sender and the receiver of a message do not need to be ready at the same time to exchange the message.
+  - The sender does not block after sending a message, and can continue with other tasks.
+  - The receiver does not block waiting for a message, and can check for incoming messages at any time.
+  - The communication is unreliable and unordered, meaning that messages can be lost, corrupted, duplicated, or delivered out of order.
+- Message passing systems can also be classified into two types based on the addressing scheme: direct and indirect.
+- Direct message passing systems have the following properties:
+  - The sender and the receiver of a message must know each other's identities or addresses.
+  - The sender specifies the destination of the message explicitly.
+  - The receiver can filter the messages based on the source or the content of the message.
+- Indirect message passing systems have the following properties:
+  - The sender and the receiver of a message do not need to know each other's identities or addresses.
+  - The sender specifies the destination of the message implicitly, using a logical name or a pattern that matches multiple receivers.
+  - The receiver can subscribe to the messages that match their interests, using the same logical name or pattern as the sender.
+  - The communication is decoupled in time, space, and synchronization, meaning that the sender and the receiver do not need to be online, co-located, or coordinated at the same time.

@@ -1,0 +1,21 @@
+### Leadership in spm
+
+- Leadership in spm refers to the art and science of guiding a team towards successful project completion.
+- SPM stands for strategic portfolio management, which describes the processes and tools that businesses may use to align available resources to meet strategic goals.
+- Leadership in spm is important because it helps organizations to prioritize and support those investments that are best suited to meeting strategic objectives and desired outcomes that drive the most value.
+- Some of the roles and responsibilities of a leader in spm are:
+  - Planning, scheduling, monitoring, and coordination of project activities
+  - Establishing and maintaining an effective channel of communication with stakeholders
+  - Ensuring that all stakeholders understand what needs to be done
+  - Making sure that projects conform to business goals
+  - Detecting and resolving issues and problems that arise
+  - Motivating and inspiring the team to perform well
+- Some of the skills that a leader in spm needs are:
+  - Vision: The ability to create and communicate a clear and compelling vision of the desired future state
+  - Strategy: The ability to formulate and execute a plan of action that aligns with the vision and the organizational goals
+  - Communication: The ability to convey information and ideas effectively and persuasively to various audiences
+  - Collaboration: The ability to work with others to achieve a common goal, leveraging diverse perspectives and talents
+  - Adaptability: The ability to adjust to changing circumstances and respond to new challenges and opportunities
+  - Decision making: The ability to analyze information and situations, weigh alternatives, and choose the best course of action
+  - Emotional intelligence: The ability to recognize and manage one's own and others' emotions, and to build positive relationships
+- A possible mnemonic to remember the skills of a leader in spm is VSCADE: Vision, Strategy, Communication, Collaboration, Adaptability, Decision making, Emotional intelligence.

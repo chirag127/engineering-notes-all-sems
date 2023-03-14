@@ -1,0 +1,19 @@
+### Martial Arts Traditions of India
+
+- Martial arts are codified systems and traditions of combat practices, which are practised for a variety of reasons – self-defence, competition, physical health and fitness, entertainment, as well as mental, physical, and spiritual development. 
+- India has a long history of martial arts, dating back to the Vedic period (1500 BCE - 1100 BCE). Some of the earliest references to martial arts are found in the Vedas, the epics, the Puranas and other ancient texts.  
+- India has a rich diversity of martial arts, influenced by its geography, culture, religion and history. Some of the martial arts are regional, while others are pan-Indian. Some of the martial arts are armed, while others are unarmed. Some of the martial arts are traditional, while others are modern.   
+- Some of the most prominent and ancient martial arts of India are:
+
+  - **Kalaripayattu**: Originating from Kerala, it is considered to be the oldest martial art in the world and the mother of all martial arts. It is based on the principles of animal movements, such as lion, tiger, elephant, wild boar, snake and crocodile. It has four levels of training: meithari (body conditioning), kolthari (wooden weapons), angathari (metal weapons) and verumkai (bare-handed combat). It also incorporates elements of yoga, meditation, ayurveda and tantra.   
+  - **Silambam**: Originating from Tamil Nadu, it is a martial art that uses a bamboo staff as the primary weapon, along with other weapons such as swords, daggers, spears and shields. It is known for its swift and agile movements, as well as its use of circular and linear patterns. It also incorporates elements of animal styles, such as snake, eagle, tiger and monkey.   
+  - **Thang-Ta**: Originating from Manipur, it is a martial art that uses swords and spears as the primary weapons, along with other weapons such as axes, daggers, shields and bows. It is known for its fierce and aggressive style, as well as its use of acrobatic and aerial techniques. It also incorporates elements of dance, music and ritual.   
+  - **Gatka**: Originating from Punjab, it is a martial art that uses wooden sticks as the primary weapons, along with other weapons such as swords, daggers, axes and chakrams. It is known for its rhythmic and coordinated movements, as well as its use of footwork and spins. It also incorporates elements of Sikh religion, culture and history.   
+  - **Malla-Yuddha**: Originating from various parts of India, it is a martial art that uses wrestling as the primary form of combat, along with other techniques such as strikes, locks, throws and submissions. It is known for its strength and endurance, as well as its use of mud, oil and herbs. It also incorporates elements of Hindu mythology, philosophy and ethics.   
+  - **Musti-Yuddha**: Originating from Varanasi, it is a martial art that uses boxing as the primary form of combat, along with other techniques such as kicks, knees, elbows and headbutts. It is known for its speed and power, as well as its use of pressure points and vital spots. It also incorporates elements of Hindu astrology, numerology and spirituality.   
+
+- Some of the mnemonics and learning tricks for the martial arts traditions of India are:
+
+  - To remember the names of the six martial arts, you can use the acronym KSTGMM (Kalaripayattu, Silambam, Thang-Ta, Gatka, Malla-Yuddha, Musti-Yuddha).
+  - To remember the primary weapons of the four armed martial arts, you can use the acronym BSSW (Bamboo, Sword, Spear, Wood).
+  - To remember the animal styles of the two animal-based martial arts, you can use the acronym LTESW (Lion

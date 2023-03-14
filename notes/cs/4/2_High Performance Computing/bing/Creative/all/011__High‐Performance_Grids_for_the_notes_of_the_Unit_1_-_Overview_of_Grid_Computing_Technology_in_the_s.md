@@ -1,0 +1,31 @@
+### High-Performance Grids for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+
+- A high-performance grid is a system that allows loading and manipulating large data sets efficiently and quickly.
+- A high-performance grid can be implemented using JavaScript (JS) or other programming languages, depending on the application and the platform.
+- A high-performance grid has the following characteristics:
+  - It has a good initial page load time, which is the amount of time the grid takes to load the initial data set.
+  - It has a fast dynamic filtering speed, which is the time it takes to filter one column or multiple columns of the grid.
+  - It has a smooth and fast scrolling capability, which is the ability to scroll through any section of the grid without lagging or stuttering.
+  - It has a high scalability, which is the ability to handle increasing amounts of data without compromising performance.
+  - It has a high responsiveness, which is the ability to update the grid data in real time as the data changes in the source.
+  - It has a high interactivity, which is the ability to provide user-friendly features such as sorting, grouping, editing, resizing, and selecting the grid data.
+- A high-performance grid can be used for various applications, such as:
+  - Data analysis and visualization, which is the process of exploring, summarizing, and presenting data in a meaningful way.
+  - Data management and manipulation, which is the process of organizing, transforming, and modifying data according to the user's needs.
+  - Data entry and validation, which is the process of inputting and verifying data in a form or a table.
+  - Data reporting and exporting, which is the process of generating and exporting data in different formats, such as PDF, Excel, or CSV.
+- A high-performance grid can be created using different tools and frameworks, such as:
+  - Ext JS data grid, which is a high-performing grid that allows loading and manipulating a massive data set within milliseconds.
+  - AG Grid, which is a feature-rich grid that supports various frameworks, such as React, Angular, and Vue.
+  - Kendo UI Grid, which is a responsive and adaptive grid that offers built-in themes and customization options.
+  - Syncfusion Grid, which is a lightweight and modular grid that supports data binding, editing, filtering, and exporting.
+  - Handsontable, which is a spreadsheet-like grid that supports formulas, validation, and drag-and-drop.
+
+- A possible mnemonic to remember the characteristics of a high-performance grid is FAST SIR:
+  - F: Fast initial page load time and dynamic filtering speed.
+  - A: Smooth and fast scrolling capability.
+  - S: High scalability.
+  - T: High responsiveness.
+  - S: High interactivity.
+  - I: Data analysis and visualization, data management and manipulation, data entry and validation, data reporting and exporting.
+  - R: Ext JS data grid, AG Grid, Kendo UI Grid, Syncfusion Grid, Handsontable.

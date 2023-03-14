@@ -1,0 +1,23 @@
+### Agile Methods in Software Project Management
+
+- Agile methods are a set of software development approaches that are based on the principles of **adaptive planning, iterative delivery, continuous improvement, and customer collaboration**.
+- Agile methods aim to deliver software products that meet the changing and evolving needs of the customers, while ensuring high quality, fast delivery, and customer satisfaction.
+- Agile methods contrast with traditional waterfall methods, which follow a linear and sequential process of software development, with predefined and fixed requirements, scope, schedule, and budget.
+- Some of the benefits of agile methods are:
+  - They allow for **flexibility** and **adaptability** to changing requirements and feedback from customers and stakeholders.
+  - They enable **early and frequent delivery** of working software products that provide value to the customers and users.
+  - They foster **collaboration** and **communication** among the project team members, customers, and other stakeholders, leading to better alignment and understanding of the project goals and expectations.
+  - They promote **continuous improvement** and **learning** through regular reflection and feedback loops, such as retrospectives and reviews.
+  - They encourage **empowerment** and **self-organization** of the project team members, who can make decisions and solve problems autonomously and creatively.
+- Some of the challenges of agile methods are:
+  - They require **high level of commitment** and **involvement** from the customers and stakeholders, who need to provide constant feedback and input to the project team.
+  - They demand **high level of skill** and **competence** from the project team members, who need to be able to work in a cross-functional and self-organizing manner, and to cope with uncertainty and ambiguity.
+  - They entail **high level of discipline** and **rigor** from the project team members, who need to follow the agile practices and principles consistently and effectively, and to deliver high quality software products in short iterations.
+  - They pose **high level of risk** and **complexity** for the project management, who need to balance the trade-offs between flexibility and stability, and to manage the dependencies and interactions among the project team members, customers, and other stakeholders.
+- Some of the common agile methods are:
+  - **Scrum**: A framework for managing complex software projects, based on the roles of **product owner, scrum master, and development team**, the artifacts of **product backlog, sprint backlog, and increment**, and the events of **sprint, sprint planning, daily scrum, sprint review, and sprint retrospective**.
+  - **Extreme Programming (XP)**: A methodology for developing high quality software products, based on the values of **communication, simplicity, feedback, and courage**, and the practices of **user stories, test-driven development, pair programming, continuous integration, refactoring, and collective ownership**.
+  - **Kanban**: A method for visualizing and optimizing the flow of work, based on the principles of **visualize, limit work in progress, manage flow, make policies explicit, implement feedback loops, and improve collaboratively**, and the tools of **kanban board, kanban cards, and kanban metrics**.
+  - **Lean Software Development**: An approach for delivering software products that maximize customer value and minimize waste, based on the principles of **eliminate waste, amplify learning, decide as late as possible, deliver as fast as possible, empower the team, build integrity in, and see the whole**.
+  - **Feature-Driven Development (FDD)**: A model-driven methodology for developing software products, based on the processes of **develop an overall model, build a feature list, plan by feature, design by feature, and build by feature**, and the roles of **project manager, chief architect, development manager, chief programmer, class owner, and domain expert**.
+  - **Dynamic Systems Development Method (DSDM)**: A framework for delivering software products that meet the business needs, based on the philosophy of **best business value emerges when projects are aligned to clear business goals, deliver frequently and involve the collaboration of motivated and empowered people**, and the practices of **prioritized requirements, timeboxing, iterative development, facilitated workshops, modeling, testing, and configuration management**.

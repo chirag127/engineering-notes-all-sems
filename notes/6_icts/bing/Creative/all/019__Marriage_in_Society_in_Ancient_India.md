@@ -1,0 +1,16 @@
+#### Marriage in Society in Ancient India
+
+- Marriage was considered a sacred duty and a social obligation in ancient India. It was a means of preserving the lineage, the caste, and the social order.
+- The ideal age for marriage was 16 for girls and 25 for boys. Child marriage was not prevalent in the Vedic period, but became common in later times.
+- The types of marriage varied according to the social status, the caste, and the region of the people. The most common types were:
+  - **Brahma marriage**: The bride was given by her father to a learned and virtuous groom after performing the sacred rites. This was the most respected form of marriage.
+  - **Daiva marriage**: The bride was given by her father to a priest as a gift or a fee for performing a sacrifice. This was considered inferior to the Brahma marriage.
+  - **Arsha marriage**: The bride was given by her father to a sage or a hermit in exchange for a cow and a bull. This was also considered inferior to the Brahma marriage.
+  - **Prajapatya marriage**: The bride was given by her father to the groom with a blessing that they should perform their duties together. This was similar to the Brahma marriage, but without the elaborate rites.
+  - **Gandharva marriage**: The bride and the groom married by mutual consent and love, without the consent of their parents or the performance of any rites. This was considered a marriage of passion and was often disapproved by the society.
+  - **Asura marriage**: The bride was bought by the groom from her father or guardian by paying money or gifts. This was considered a marriage of force and was condemned by the society.
+  - **Rakshasa marriage**: The bride was abducted by the groom from her family by force or deception, and then married. This was also considered a marriage of force and was condemned by the society.
+  - **Paisacha marriage**: The bride was seduced or raped by the groom while she was asleep, intoxicated, or insane, and then married. This was the most reprehensible form of marriage and was punishable by law.
+- The marriage was solemnized by the performance of various rites and ceremonies, such as the kanyadan (giving away of the bride), the panigrahan (taking the hand of the bride), the saptapadi (taking seven steps around the fire), and the ashirvad (blessing of the elders).
+- The marriage was considered indissoluble and eternal, except in some exceptional cases, such as impotence, barrenness, adultery, or cruelty. The husband was expected to protect, support, and respect his wife, and the wife was expected to obey, serve, and honor her husband. The wife was also expected to follow the pativrata dharma (the duty of a faithful wife), which included observing fasts, performing rituals, and accompanying her husband in death (sati).
+- The marriage was also regulated by the laws of inheritance, succession, and property. The sons inherited the property of their father, and the daughters received a share of their father's property as dowry or stridhan. The widow had the right to inherit her husband's property, but she was not allowed to remarry. The remarriage of widows was considered a sin and a social stigma. The only exception was the levirate marriage, in which the widow could marry her husband's younger brother.

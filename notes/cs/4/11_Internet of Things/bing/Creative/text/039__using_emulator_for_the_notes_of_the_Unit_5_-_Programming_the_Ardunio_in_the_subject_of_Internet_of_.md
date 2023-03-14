@@ -1,0 +1,10 @@
+### Using emulator for programming the Arduino
+
+- An emulator is a software that mimics the behavior of a hardware device, such as an Arduino board, on a computer.
+- An emulator can be useful for testing and debugging Arduino code without having a real board, or for learning how to program the Arduino without buying one.
+- There are many emulators available for programming the Arduino, some of them are free and some are paid. Here are some examples of emulators for programming the Arduino:
+  - The CodeBlocks Arduino development environment includes a free Arduino emulator, still under development but functional. It allows you to write and compile Arduino code, and then run it on a simulated Arduino Uno or Mega board. You can also view the code in assembly language, and download the hex file or the ELF file with debug symbols.
+  - Simuino simulates the Arduino Uno and Mega pins - not a pretty-looking realistic emulator, but it works. It can run Arduino sketches and show the output on a virtual serial monitor, or on simulated LEDs, buttons, potentiometers, etc. You can also modify the pin states and values manually, and see how the sketch reacts.
+  - The Python based Arduino Emulator is another option, that plays well with the official IDE. It can run Arduino code on a Python interpreter, and show the output on a graphical user interface. You can also interact with the simulated Arduino board using the mouse and keyboard.
+  - Virtronics Simulator for Arduino is a paid emulator that costs $14.99. It can run Arduino code on a realistic-looking virtual Arduino board, and show the output on a virtual serial monitor, LCD, oscilloscope, etc. You can also debug the code using breakpoints, watch variables, step through, etc.
+  - Wokwi Arduino Emulator is a free online emulator that runs on any PC with an internet connection. It can run Arduino code on a variety of Arduino boards, such as Uno, Mega, Nano, ATTiny85, ESP32, etc. You can also use a lot of virtual components, such as LEDs, buttons, sensors, displays, etc. You can also load the hex file and start executing your project, or use the FastLED platform to unleash your creativity.

@@ -1,0 +1,24 @@
+#### Network structure with reference to Computer Networks
+
+- A computer network is a structure that makes available to a data processing user at one place some data processing function or service performed at another place.
+- A computer network comprises two or more computers that are connected—either by cables (wired) or WiFi (wireless)—with the purpose of transmitting, exchanging, or sharing data and resources.
+- A computer network is built using hardware (e.g., routers, switches, access points, and cables) and software (e.g., operating systems or business applications).
+- Computer network architecture defines the physical and logical framework of a computer network. It outlines how computers are organized in the network and what tasks are assigned to those computers.
+- Network architecture components include hardware, software, transmission media (wired or wireless), network topology, and communications protocols.
+- Network topology is the arrangement of the elements of a network, such as nodes, links, and switches. It determines the cost, performance, reliability, and scalability of a network.
+- Communications protocols are the rules and conventions that govern how data is exchanged between devices on a network. They specify the format, timing, sequencing, and error control of data transmission.
+- TCP/IP is the predominant model for today’s Internet structure and presents this standard layer configuration for communication links:
+  - Network access layer: Defines how the data gets physically transferred.
+  - Internet layer: Packages the data into understandable packets so it can be sent and received.
+  - Transport layer: Allows the network devices to maintain conversations.
+  - Application layer: Establishes how high-level applications access the network for purposes of data transfer.
+- Computer networks can be classified into different types based on their geographic location, protocols, topology, purpose, and ownership . Some of the common and widely used computer network types are:
+  - LAN (local area network): A LAN connects computers over a relatively short distance, allowing them to share data, files, and resources. For example, a LAN may connect all the computers in an office building, school, or hospital. Typically, LANs are privately owned and managed.
+  - WLAN (wireless local area network): A WLAN is just like a LAN but connections between devices on the network are made wirelessly.
+  - WAN (wide area network): As the name implies, a WAN connects computers over a wide area, such as from region to region or even continent to continent. The internet is the largest WAN, connecting billions of computers worldwide. You will typically see collective or distributed ownership models for WAN management.
+  - MAN (metropolitan area network): MANs are typically larger than LANs but smaller than WANs. Cities and government entities typically own and manage MANs.
+  - PAN (personal area network): A PAN serves one person. For example, if you have an iPhone and a Mac, it’s very likely you’ve set up a PAN that shares and syncs content—text messages, emails, photos, and more—across both devices.
+  - SAN (storage area network): A SAN is a specialized network that provides access to block-level storage—shared network or cloud storage that, to the user, looks and works like a storage drive that’s physically attached to a computer.
+  - CAN (campus area network): A CAN is also known as a corporate area network. A CAN is larger than a LAN but smaller than a WAN. CANs serve sites such as colleges, universities, and business campuses.
+- Computer networks enable communication for every business, entertainment, and research purpose. The internet, online search, email, audio and video sharing, online commerce, live-streaming, and social networks all exist because of computer networks.
+- Computer networks are also evolving to meet the changing needs and demands of the digital era. New approaches such as intent-based networking, network controllers, and software-defined networking are transforming how networks are architected, operated, and secured.

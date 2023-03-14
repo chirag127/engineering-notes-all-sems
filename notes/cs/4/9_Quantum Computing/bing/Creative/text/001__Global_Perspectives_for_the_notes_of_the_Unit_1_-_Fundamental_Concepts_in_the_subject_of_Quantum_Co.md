@@ -1,0 +1,9 @@
+### Global Perspectives for the notes of the Unit 1 - Fundamental Concepts in the subject of Quantum Computing
+
+- Quantum computing is a rapidly evolving field that promises to revolutionize various industries, such as pharmaceuticals, finance, cybersecurity, and climate change, by solving problems that are intractable for classical computers  .
+- Quantum computing is based on the principles of quantum mechanics, which describe the behavior of subatomic particles, such as electrons and photons, that can exist in superposition of two or more states and entangle with each other.
+- Quantum computing uses quantum bits, or qubits, as the basic unit of information, which can be 0, 1, or both at the same time, unlike classical bits that can only be 0 or 1. Qubits can also interfere with each other, which can be exploited to perform parallel computations and speed up certain algorithms.
+- Quantum computing is still in its infancy, and faces many challenges, such as creating and maintaining stable qubits, scaling up the number and quality of qubits, developing error correction and fault tolerance techniques, and finding practical and efficient quantum algorithms for real-world problems  .
+- Quantum computing is also a highly competitive and collaborative field, with many players from academia, industry, and government investing in research and development, and forming partnerships and alliances to advance the technology and its applications  .
+- Quantum computing has the potential to create significant value and impact for society, but also poses some risks and ethical issues, such as disrupting existing security systems, creating new forms of cyberattacks, and raising questions about fairness, accountability, and transparency .
+- Quantum computing is a dynamic and exciting field that requires constant learning and adaptation, as well as interdisciplinary and cross-cultural collaboration, to harness its benefits and mitigate its challenges   .

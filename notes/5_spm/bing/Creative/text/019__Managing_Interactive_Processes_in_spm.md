@@ -1,0 +1,13 @@
+### Managing Interactive Processes in SPM
+
+- Software Project Management (SPM) is a part of project management in which software projects are planned, implemented, monitored, and controlled.
+- Managing interactive processes in SPM involves adapting the project plans and activities based on feedback, changes, and risks that arise during the project lifecycle.
+- Some of the interactive processes in SPM are:
+
+  - Iteration planning: This is a process of defining and prioritizing the work items for each iteration or cycle of the project. Iteration planning helps to deliver incremental value to the stakeholders and to accommodate changes in requirements, scope, or resources.
+  - Quality assurance: This is a process of ensuring that the software product meets the quality standards and expectations of the stakeholders. Quality assurance involves continuous testing, defect detection and resolution, and compliance with the industry standards and best practices.
+  - Communication management: This is a process of facilitating effective and timely communication among the project team, stakeholders, and external parties. Communication management involves identifying the communication needs, methods, channels, and frequency for each stakeholder group, and ensuring that the information is clear, accurate, and consistent.
+  - Risk management: This is a process of identifying, analyzing, and responding to the potential threats and opportunities that may affect the project objectives, scope, schedule, budget, or quality. Risk management involves developing a risk register, assessing the probability and impact of each risk, devising risk response strategies, and monitoring and controlling the risk exposure.
+  - Change management: This is a process of managing the changes that occur during the project lifecycle, such as changes in requirements, scope, schedule, budget, or resources. Change management involves establishing a change control system, evaluating the impact and feasibility of each change request, approving or rejecting the changes, and implementing and communicating the approved changes.
+
+- Managing interactive processes in SPM requires a flexible and adaptive approach that can respond to the changing needs and expectations of the stakeholders and the project environment. It also requires a collaborative and communicative approach that can involve the project team and the stakeholders in the planning and decision-making processes. Managing interactive processes in SPM can help to deliver a software product that meets the quality standards, satisfies the customer requirements, and achieves the project goals  .

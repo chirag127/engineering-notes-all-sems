@@ -1,0 +1,36 @@
+### PERT Technique in SPM
+
+- PERT stands for Project Evaluation and Review Technique. It is a tool used to identify the time required to finish a particular task or activity in a project. It also helps in the proper scheduling and coordination of all tasks throughout a project and in keeping track of the progress of the project.
+- PERT was developed by the US Navy in the 1950s to manage the Polaris submarine missile program of their Special Projects Office . It is one of the most common scheduling techniques for network analysis which is used to track and coordinate complex tasks.
+- PERT uses a network diagram to depict the project. Nodes represent the events, indicating the start or end of activities or tasks. The directorial lines indicate the tasks that need to be completed, and the arrows show the sequence of the activities.
+- PERT uses four definitions of time to estimate project time requirements:
+  - Optimistic time – The least amount of time it can take to complete a task
+  - Pessimistic time – The maximum amount of time it should take to complete a task
+  - Most likely time – Assuming there are no problems, the best or most reasonable estimate of how long it should take to complete a task.
+  - Expected time – Assuming there are problems, the best estimate of how much time will be required to complete a task.
+- PERT uses a weighted average formula to calculate the expected time for each task:
+  - Expected time = (Optimistic time + 4 x Most likely time + Pessimistic time) / 6
+- PERT also uses several terms to describe the characteristics of the network diagram :
+  - Float/Slack – Refers to the amount of time a task can be delayed without resulting in an overall delay in completion of other tasks or the project
+  - Critical Path – Indicates the longest possible continuous path from the start to the end of a task or event
+  - Critical Path Activity – Refers to an activity without any slack
+  - Lead Time – Refers to the amount of time needed to finish a task without affecting subsequent tasks
+  - Lag Time – The earliest time by which a successor event/task can follow a prior event/task
+  - Fast Tracking – Refers to handling tasks or activities in parallel
+  - Crashing Critical Path – Shortening the amount of time to do a critical task
+- To implement a PERT chart, the following steps are required:
+  - Identify the different tasks needed to complete a project. Make sure to add these in the right order and indicate the duration of each task.
+  - Create a network diagram. Use arrows to represent the activities and use nodes as milestones.
+  - Determine the critical path and possible slack.
+- The advantages of using PERT in project management are:
+  - It helps to identify the realistic time and cost estimates for the project
+  - It helps to identify the critical activities that need more attention and resources
+  - It helps to monitor and control the project progress and performance
+  - It helps to identify the possible risks and uncertainties in the project
+  - It helps to improve the communication and coordination among the project team and stakeholders
+- The disadvantages of using PERT in project management are :
+  - It can be time-consuming and complex to create and update the network diagram
+  - It can be inaccurate and unreliable if the time estimates are based on subjective judgments or assumptions
+  - It can be difficult to account for the interdependencies and variations among the tasks and activities
+  - It can be challenging to incorporate changes and feedback in the network diagram
+  - It can be misleading if the critical path is not updated regularly or if there are multiple critical paths in the network diagram

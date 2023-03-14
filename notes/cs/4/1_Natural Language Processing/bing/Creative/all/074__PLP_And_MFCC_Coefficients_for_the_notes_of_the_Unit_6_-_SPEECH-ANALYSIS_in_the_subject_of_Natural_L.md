@@ -1,0 +1,21 @@
+### PLP And MFCC Coefficients for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- PLP and MFCC are two commonly used speech feature extraction algorithms that transform the speech signal into a compact and discriminative representation for subsequent processing and analysis.
+- PLP stands for Perceptual Linear Prediction, which is a technique that applies a psychoacoustic model to the speech spectrum to emphasize the perceptually important frequency bands and de-emphasize the noise and speaker variations .
+- MFCC stands for Mel Frequency Cepstral Coefficients, which is a technique that applies a nonlinear frequency scale (the Mel scale) to the speech spectrum to mimic the human auditory system, and then computes the cepstral coefficients of the log-spectrum .
+- Both PLP and MFCC are based on the assumption that the speech signal can be modeled as a source-filter system, where the source is the vocal tract excitation (glottal pulse or noise) and the filter is the vocal tract shape (formants) .
+- The general steps of PLP and MFCC are as follows  :
+
+  1. Pre-emphasis: Apply a high-pass filter to the speech signal to boost the high-frequency components and reduce the effect of the glottal pulse.
+  2. Framing: Divide the speech signal into short overlapping frames (typically 20-30 ms long with 50% overlap), and apply a window function (such as Hamming) to each frame to smooth the edges.
+  3. Fourier transform: Compute the discrete Fourier transform (DFT) of each frame to obtain the magnitude spectrum.
+  4. Frequency warping: Apply a frequency scale to the magnitude spectrum to approximate the human perception of frequency. For PLP, the frequency scale is based on the Bark scale, which divides the frequency range into 18 critical bands. For MFCC, the frequency scale is based on the Mel scale, which is a linear scale below 1 kHz and a logarithmic scale above 1 kHz.
+  5. Spectral smoothing: Apply a smoothing function to the warped spectrum to reduce the effect of noise and spectral peaks. For PLP, the smoothing function is an autoregressive (AR) model, which is estimated by the linear prediction (LP) method. For MFCC, the smoothing function is a set of triangular filters, which are spaced uniformly on the Mel scale and have unit area.
+  6. Cepstral analysis: Compute the cepstral coefficients of the smoothed spectrum by taking the inverse Fourier transform of the log-spectrum. For PLP, the cepstral coefficients are obtained by applying a recursion formula to the AR coefficients. For MFCC, the cepstral coefficients are obtained by applying a discrete cosine transform (DCT) to the log-filterbank energies.
+  7. Dimensionality reduction: Select a subset of the cepstral coefficients to form the final feature vector. Typically, the lower-order coefficients are retained, as they capture the most important information about the vocal tract shape. The number of coefficients varies depending on the application, but a common choice is 12-13 for both PLP and MFCC.
+
+- The main differences between PLP and MFCC are the frequency scale, the spectral smoothing, and the cepstral analysis methods. PLP uses the Bark scale, which is more fine-grained at low frequencies and more coarse-grained at high frequencies, while MFCC uses the Mel scale, which is more uniform across the frequency range. PLP uses an AR model, which is a parametric method that assumes a certain spectral shape, while MFCC uses a filterbank, which is a non-parametric method that does not impose any prior assumption. PLP uses a recursion formula, which is a simple and efficient way to compute the cepstra, while MFCC uses a DCT, which is a more complex and computationally intensive way to compute the cepstra.
+- The advantages and disadvantages of PLP and MFCC depend on the application and the evaluation criteria. Some possible factors are:
+
+  - Robustness to noise: PLP is generally more robust to noise than MFCC, as it uses an AR model that can smooth out the noise components, while MFCC uses a filterbank that can amplify the noise components .
+  - Robustness to speaker variability: MFCC is generally more robust to speaker variability than PLP, as it uses a Mel scale that can capture the common features of different speakers, while PLP uses a

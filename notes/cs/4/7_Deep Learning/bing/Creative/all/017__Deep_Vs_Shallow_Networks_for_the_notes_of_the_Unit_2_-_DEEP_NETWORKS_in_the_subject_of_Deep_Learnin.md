@@ -1,0 +1,8 @@
+### Deep Vs Shallow Networks for the notes of the Unit 2 - DEEP NETWORKS in the subject of Deep Learning
+
+- Deep networks are neural networks that have multiple hidden layers between the input and output layers. Shallow networks are neural networks that have only one hidden layer or no hidden layer at all.
+- Both deep and shallow networks are capable of approximating any function, but deep networks can do so with much less computation and parameters than shallow networks for the same level of accuracy  .
+- Deep networks are able to create deep representations, where at every layer, the network learns a new, more abstract representation of the input. This allows deep networks to capture complex and hierarchical features that are relevant for the task .
+- Shallow networks, on the other hand, are limited by the expressiveness of the single hidden layer or the input layer. They cannot learn multiple levels of abstraction and may require more features or preprocessing to achieve good performance.
+- A possible mnemonic to remember the difference between deep and shallow networks is: **Deep networks dig deeper, shallow networks stay on the surface**.
+- A possible learning trick to understand the advantage of deep networks over shallow networks is to compare them with human learning. Humans learn by building on previous knowledge and forming abstract concepts from concrete examples. For instance, we can learn to recognize faces by first learning to detect edges, then shapes, then facial features, then identities. This is similar to how deep networks learn from data. Shallow networks, however, cannot learn such hierarchies and may struggle to generalize from data.

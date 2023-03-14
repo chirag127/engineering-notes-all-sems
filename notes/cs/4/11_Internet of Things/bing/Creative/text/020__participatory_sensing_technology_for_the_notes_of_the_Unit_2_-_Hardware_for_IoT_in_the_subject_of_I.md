@@ -1,0 +1,10 @@
+### Participatory Sensing Technology
+
+- Participatory sensing is an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture  .
+- Participatory sensing relies on the idea of participatory sensor networks (PSNs), which are systems that support a distributed process of gathering data about personal daily experiences and various aspects of the city.
+- PSNs require the active participation of people using portable devices to voluntarily share contextual information and/or make their sensed data available, i.e., the users manually determine how, when, what, and where to share the sensed data.
+- PSNs can use sensors embedded in smartphones (e.g., GPS, accelerometer, microphone, etc.) or human sensors (e.g., vision) to obtain data that are subjective observations produced by the users.
+- PSNs provide unprecedented opportunities to access sensing data on a global scale, which can be used to improve the processes of decision making regarding different entities (e.g., individuals, groups, services, and applications).
+- PSNs differ from opportunistic sensing, which is a type of sensing that also uses portable computing devices, but does not require user participation. In opportunistic sensing, the data collection stage is automated and determined by the applications.
+- Participatory sensing can be applied to a variety of topics, such as transportation, recycling, water, safety, asthma/allergy, neighborhood stress/chill maps, daily habits, etc. .
+- Participatory sensing can enable public and professional users to gather, analyze and share local knowledge, and enhance data credibility, quality, privacy and shareability.

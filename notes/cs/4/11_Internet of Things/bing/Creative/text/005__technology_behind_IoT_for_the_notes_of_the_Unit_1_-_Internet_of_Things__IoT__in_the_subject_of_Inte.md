@@ -1,0 +1,18 @@
+### Technology behind IoT
+
+The Internet of Things (IoT) is the concept of connecting any device that has an on/off switch to the Internet and to other connected devices. The IoT is a giant network of connected things and people that collect and share data about the way they are used and the environment around them.
+
+The technology behind IoT can be divided into four basic layers:
+
+- **Devices**: These are the physical objects that have sensors, actuators, processors, and communication modules embedded in them. They can sense, measure, control, and transmit data to other devices or platforms. Examples of IoT devices are smart thermostats, wearable fitness trackers, smart locks, etc.
+- **Connectivity**: This is the layer that enables the data transmission between devices and platforms. It can use various wireless or wired technologies, such as Wi-Fi, Bluetooth, cellular, radio frequency identification (RFID), near-field communication (NFC), etc. The choice of connectivity depends on factors such as bandwidth, range, power consumption, and cost .
+- **Platforms**: These are the software systems that collect, store, process, and analyze the data from the devices. They can also provide services such as device management, security, authentication, and integration. Examples of IoT platforms are AWS IoT, Microsoft Azure IoT, IBM Watson IoT, etc.
+- **Applications**: These are the end-user interfaces that provide the functionality and value of the IoT system. They can be web-based, mobile, or desktop applications that enable users to monitor, control, or interact with the devices and the data. Examples of IoT applications are smart home apps, health care apps, industrial apps, etc .
+
+The technology behind IoT is constantly evolving and improving, as new devices, protocols, standards, and services emerge. Some of the emerging IoT technologies that are expected to have a significant impact on the IoT market and use cases are:
+
+- **eSIM**: This is a technology that allows devices to switch between different cellular networks without the need of a physical SIM card. It can enable more flexibility, security, and scalability for IoT devices that rely on cellular connectivity.
+- **Mesh networks**: These are networks that consist of multiple nodes that can communicate with each other directly or through intermediate nodes. They can provide more reliable, resilient, and efficient connectivity for IoT devices that are distributed over a large area or have limited access to the Internet.
+- **5G**: This is the fifth generation of cellular technology that promises to offer higher speed, lower latency, and greater capacity for data transmission. It can enable more advanced and demanding IoT applications, such as autonomous vehicles, smart cities, and augmented reality.
+- **Wi-Fi 6**: This is the latest version of Wi-Fi technology that offers faster speed, lower power consumption, and better performance in crowded environments. It can improve the connectivity and battery life of IoT devices that use Wi-Fi as their primary or secondary communication channel.
+- **Edge computing**: This is a technology that allows data processing and analysis to be performed closer to the source of the data, rather than in the cloud. It can reduce the latency, bandwidth, and cost of data transmission, and enhance the security and privacy of the data. It can also enable more real-time and autonomous IoT applications, such as smart manufacturing, smart grid, and smart agriculture .

@@ -1,0 +1,21 @@
+### Optimization in deep learning
+
+- Optimization is the process of finding the optimal values of the parameters of a deep neural network that minimize a loss function or maximize an objective function.
+- Optimization is essential for deep learning because it enables the network to learn from the data and improve its performance on various tasks such as image recognition, natural language processing, and speech recognition.
+- Optimization in deep learning is challenging because of the following reasons:
+  - The loss function or objective function is often non-convex, meaning that it may have multiple local minima or maxima, and finding the global optimum is difficult or impossible.
+  - The loss function or objective function is often high-dimensional, meaning that it depends on millions or billions of parameters, and searching the parameter space is computationally expensive and time-consuming.
+  - The loss function or objective function is often noisy, meaning that it may change due to stochasticity in the data or the network, and finding a stable solution is hard.
+  - The loss function or objective function may have regularization terms, meaning that it may penalize the complexity or size of the network, and finding a balance between accuracy and simplicity is tricky.
+- Optimization in deep learning is mainly based on gradient-based methods, meaning that it uses the gradient or the derivative of the loss function or objective function with respect to the parameters to update the parameters in the direction of decreasing the loss or increasing the objective.
+- Optimization in deep learning can be divided into two categories: batch optimization and stochastic optimization.
+  - Batch optimization uses the entire dataset to compute the gradient and update the parameters in each iteration. Batch optimization is accurate but slow and memory-intensive.
+  - Stochastic optimization uses a subset of the dataset, called a mini-batch, to compute an approximation of the gradient and update the parameters in each iteration. Stochastic optimization is fast and memory-efficient but noisy and unstable.
+- Optimization in deep learning can also be classified into different methods based on how they use the gradient information and how they adjust the learning rate, which is the step size of the parameter update.
+  - Gradient descent (GD) is the simplest method that uses the gradient directly and uses a fixed learning rate. GD is easy to implement but may converge slowly or get stuck in local optima.
+  - Momentum is a method that uses a weighted average of the past gradients and the current gradient to update the parameters. Momentum can accelerate the convergence and escape from local optima by adding inertia to the parameter update.
+  - Nesterov accelerated gradient (NAG) is a method that uses a lookahead gradient, which is the gradient at the predicted future position of the parameters, to update the parameters. NAG can improve the accuracy and stability of the momentum method by correcting the overshooting of the parameter update.
+  - Adaptive gradient (AdaGrad) is a method that uses a different learning rate for each parameter based on the historical gradients. AdaGrad can adapt to the sparsity and scale of the parameters and prevent the learning rate from becoming too large or too small.
+  - AdaDelta is a method that uses a moving average of the past gradients and the past parameter updates to adjust the learning rate. AdaDelta can overcome the drawbacks of AdaGrad, such as the accumulation of the historical gradients and the rapid decay of the learning rate.
+  - RMSProp is a method that uses a moving average of the squared gradients to adjust the learning rate. RMSProp can prevent the learning rate from becoming too small or too large and improve the performance of AdaGrad on non-convex problems.
+  - Adaptive moment estimation (Adam) is a method that combines the ideas of momentum and RMSProp. Adam uses a moving average of the gradients and the squared gradients to update the parameters and adjust the learning rate. Adam can handle noisy and sparse gradients and achieve fast and stable convergence.

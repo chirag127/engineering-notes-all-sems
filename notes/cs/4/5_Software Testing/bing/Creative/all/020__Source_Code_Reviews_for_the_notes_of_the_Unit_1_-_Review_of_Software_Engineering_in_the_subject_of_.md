@@ -1,0 +1,23 @@
+### Source Code Reviews for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Source code reviews are systematic examinations of software source code, intended to find bugs and to estimate the code quality.
+- Source code reviews are also known as peer reviews, as they involve other developers or experts who can provide feedback and suggestions on the code.
+- Source code reviews are an important part of the software development process, as they help to ensure or improve the code quality before merging and shipping it .
+- Source code reviews have various benefits, such as :
+  - Sharing knowledge: Code reviews help developers learn new techniques and solutions from each other, and spread the knowledge across the organization.
+  - Discovering bugs earlier: Code reviews help developers find and fix problems before they affect the customers or the product functionality.
+  - Maintaining compliance: Code reviews help developers adhere to the same coding standards and conventions, which makes the code more consistent and readable.
+  - Improving collaboration: Code reviews help developers communicate and cooperate with each other, and foster a culture of feedback and learning.
+- Source code reviews can be conducted in different ways, such as :
+  - Formal inspections: These are structured and rigorous reviews that follow a predefined process and checklist, and involve a moderator, an author, and several reviewers. They are usually done for critical or complex code segments, and require a lot of preparation and documentation.
+  - Over-the-shoulder reviews: These are informal and casual reviews that involve one reviewer looking over the shoulder of the author while they explain their code. They are usually done for simple or straightforward code segments, and require little or no preparation or documentation.
+  - Pair programming: This is a collaborative coding technique that involves two developers working together on the same code segment, one as the driver and the other as the navigator. The driver writes the code while the navigator reviews it and provides feedback. They can switch roles periodically. This technique helps developers learn from each other and produce high-quality code.
+  - Tool-assisted reviews: These are reviews that use automated tools or software to analyze the code and identify issues, such as syntax errors, code smells, security vulnerabilities, or performance bottlenecks. These tools can be integrated with the code editor, the version control system, or the code review platform. They can help developers save time and effort, and complement the human reviews.
+- Source code reviews can be done at different stages of the software development lifecycle, such as :
+  - Pre-commit reviews: These are reviews that are done before the code is committed to the version control system. They can help developers catch errors early and avoid breaking the build or introducing conflicts. They can be done using tools or platforms that allow developers to create pull requests or merge requests, and review the code changes before merging them.
+  - Post-commit reviews: These are reviews that are done after the code is committed to the version control system. They can help developers monitor the code quality and maintainability, and provide feedback for future improvements. They can be done using tools or platforms that allow developers to browse the code history and comment on the code changes after merging them.
+- Source code reviews can be done using various tools or platforms, such as :
+  - Crucible: This is a code review tool that allows developers to create and manage code reviews, comment on the code, track issues, and integrate with other tools such as Jira, Bitbucket, or Git.
+  - Gerrit: This is a code review tool that allows developers to create and manage code reviews, comment on the code, vote on the code changes, and integrate with other tools such as Git, Jenkins, or Eclipse.
+  - Collaborator: This is a code review tool that allows developers to create and manage code reviews, comment on the code, compare different versions of the code, and integrate with other tools such as Git, Subversion, or Visual Studio.
+  - Review Board: This is a code review tool that allows developers to create and manage code reviews, comment on the code, mark issues as fixed or reopened, and integrate with other tools such as Git, Mercurial, or Perforce.

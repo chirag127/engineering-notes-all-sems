@@ -1,0 +1,25 @@
+### Jain Literature in Pali, Prakrit and Sanskrit
+
+- Jain literature refers to the literature of the Jain religion, which is a vast and ancient literary tradition that was initially transmitted orally. 
+- The oldest surviving material is contained in the canonical Jain Agamas, which are written in Ardhamagadhi, a Prakrit (Middle-Indo Aryan) language. 
+- Prakrit is a form of Sanskrit, which is the classical language of ancient India and the main language of Jain literature. 
+- Pali is another form of Prakrit, which was used in Magadha and became the language of Buddhist literature.  
+- Jain literature is primarily divided between the canons of the Digambara and Śvētāmbara orders, which are the two main sects of Jainism. 
+- These two sects do not always agree on which texts should be considered authoritative, and have different versions of some of the canonical texts. 
+- The canonical texts are based on the teachings of the tirthankaras, who are the spiritual leaders and fordmakers of Jainism. 
+- The Jain tradition believes that their religion is eternal, and the teachings of the first tirthankara Rishabhanatha existed millions of years ago. 
+- In every universal cycle of Jain cosmology, twenty-four tirthankaras appear and so do the Jain scriptures for that cycle.  
+- The tirthankaras taught in divine preaching halls called samavasarana, which were heard by gods, ascetics and laypersons.  
+- These divine discourses were called Śhrut Jnāna (or heard knowledge) and always comprised eleven angas and fourteen purvas.  
+- The discourses were remembered and transmitted by the Ganadharas (chief disciples), and were composed of twelve angas (parts, limbs).  
+- The spoken scriptural language is believed to be Ardhamagadhi by the Śvētāmbara Jains, and a form of divine sound or sonic resonance by the Digambara Jains.  
+- The divine Śhrut Jnāna of a tirthankara is then converted into sutta (scripture) by his disciples, and from such suttas emerge the formal canons.  
+- The suttas are grouped into duvala samgagani pidaga (twelve limbed baskets), which are transmitted orally by the disciples.  
+- The last leader of a unified Jain community was Bhadrabahu, who lived in the 4th century BCE. He is said to have memorized the entire canon and led a migration of Jain monks to South India during a famine. 
+- After his death, the Jain community split into two sects: the Digambara (sky-clad) and the Śvētāmbara (white-clad). 
+- The Digambara sect believes that the original canon was lost, and only some secondary texts have survived. They also believe that a true monk should renounce all possessions, including clothes. 
+- The Śvētāmbara sect believes that they have preserved the original canon, and that a true monk can wear white clothes. They also accept women as monks, unlike the Digambara sect. 
+- The canonical texts of the Śvētāmbara sect are divided into two categories: the Angas (limbs) and the Angabahyas (those outside the limbs). 
+- The Angas consist of eleven texts, which are the main scriptures of the sect. The twelfth Anga, the Drishtivada (point of view), is considered lost. 
+- The Angabahyas consist of twelve groups of texts, which are the supplementary scriptures of the sect. They include commentaries, stories, biographies, cosmology, ethics, and rituals. 
+- The canonical texts of the Digambara sect are divided into four categories: the Pratham-anuyoga

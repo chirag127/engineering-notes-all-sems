@@ -1,0 +1,21 @@
+## Unit 3 - Scripting
+
+- Scripting is a way of automating tasks or creating programs using a scripting language.
+- A scripting language is a high-level programming language that is interpreted or executed by another program, such as a shell, a web browser, or a database engine.
+- Scripting languages are often designed for specific domains or purposes, such as text processing, web development, data analysis, or system administration.
+- Scripting languages typically have features that make them easy to use, such as dynamic typing, built-in data structures, regular expressions, and interactive shells.
+- Some examples of scripting languages are Python, Ruby, Perl, JavaScript, and SQL.
+- Scripting languages can be used to create standalone scripts, or to embed scripts in other programs or documents, such as HTML, XML, or JSON.
+- Scripting languages can also interact with other programs or systems, such as files, databases, web servers, or APIs, using various methods, such as command-line arguments, pipes, sockets, or libraries.
+- Scripting languages can be classified into different types, such as shell scripting, web scripting, database scripting, or application scripting, depending on their main use cases or environments.
+- Scripting languages have advantages and disadvantages compared to compiled languages, such as C, C++, or Java.
+  - Advantages include:
+    - Faster development time, as scripts do not need to be compiled or linked before running.
+    - Easier debugging and testing, as scripts can be modified and executed interactively.
+    - Higher portability, as scripts can run on different platforms or systems without recompilation.
+    - Higher flexibility, as scripts can be modified or extended at run time.
+  - Disadvantages include:
+    - Slower performance, as scripts need to be interpreted or executed by another program, which adds overhead.
+    - Lower security, as scripts are more vulnerable to code injection or tampering.
+    - Lower compatibility, as scripts may depend on specific features or versions of the interpreter or the environment.
+    - Lower readability, as scripts may lack structure or documentation.

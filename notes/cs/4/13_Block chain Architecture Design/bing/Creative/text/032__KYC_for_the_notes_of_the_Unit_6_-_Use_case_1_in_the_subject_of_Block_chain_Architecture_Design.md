@@ -1,0 +1,20 @@
+### KYC for the notes of the Unit 6 - Use case 1 in the subject of Block chain Architecture Design
+
+- KYC stands for Know Your Customer, a process of verifying the identity of customers and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.
+- KYC is a mandatory requirement for many financial institutions, such as banks, insurance companies, and investment firms, to comply with anti-money laundering (AML) and counter-terrorism financing (CTF) regulations.
+- KYC involves collecting and verifying various types of information and documents from customers, such as name, address, date of birth, nationality, occupation, source of funds, etc.
+- KYC also involves monitoring the transactions and activities of customers to detect any suspicious or fraudulent behavior.
+- KYC is a costly, time-consuming, and repetitive process that often involves manual verification and duplication of efforts across different organizations and jurisdictions.
+- Blockchain is a distributed ledger technology that enables secure, transparent, and immutable recording and sharing of data among multiple parties without the need for a central authority or intermediary.
+- Blockchain can potentially improve the efficiency, accuracy, and security of KYC processes by enabling the following benefits:
+  - Data standardization and interoperability: Blockchain can provide a common platform and format for storing and exchanging KYC data across different organizations and jurisdictions, reducing the need for multiple verification and reconciliation.
+  - Data integrity and immutability: Blockchain can ensure that KYC data is accurate, complete, and consistent, as any changes or updates are recorded and visible to all authorized parties, and any tampering or falsification is prevented or detected.
+  - Data privacy and security: Blockchain can protect the confidentiality and security of KYC data, as only authorized parties can access and view the data, and any unauthorized access or leakage is prevented or traced.
+  - Data ownership and consent: Blockchain can empower customers to have more control and ownership over their KYC data, as they can decide who can access and use their data, and revoke or modify their consent at any time.
+  - Data sharing and reuse: Blockchain can enable customers to share and reuse their KYC data across different service providers, reducing the need for repeated submission and verification of the same information and documents.
+- Blockchain KYC use cases are emerging in various sectors and regions, such as:
+  - IBM Blockchain Trusted Identity: A decentralized platform for identification processes based on the blockchain and biometric technologies, which allows customers to create and manage their digital identities and share them with service providers in a secure and privacy-preserving way.
+  - ASEAN Association Project: A collaborative project among three banks (OCBC Bank, HSBC Singapore, and Mitsubishi UFJ Financial Group) and the Infocomm Media Development Authority of Singapore, which aims to create a cross-border KYC platform using blockchain technology, which can reduce the time and cost of KYC verification by up to 70%.
+  - uPort: An open identity system that allows users to create and manage their own identities on the Ethereum blockchain, and use them to access various services and applications, such as voting, healthcare, and banking.
+  - Civic: A secure identity platform that leverages blockchain and biometric technologies to verify and authenticate users' identities, and allows them to share their verified identity data with service providers without the need for usernames, passwords, or third-party verification.
+  - SelfKey: A self-sovereign identity system that enables users to create and manage their digital identities on the blockchain, and access a marketplace of services that require identity verification, such as bank accounts, residency, and citizenship.

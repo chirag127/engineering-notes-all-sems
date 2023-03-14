@@ -1,0 +1,12 @@
+### Textile Technology in India and Ancient India
+
+- Textile technology is the science and art of making and decorating fabrics from natural or synthetic materials.
+- India has a rich and diverse textile heritage that dates back to at least 6000 years. India is one of the oldest and largest producers and exporters of cotton, silk, and other fabrics in the world.
+- India's textile technology is influenced by its geography, climate, culture, religion, trade, and history. Different regions of India have developed their own specialities and styles of textile making and embellishment based on local resources and traditions.
+- Some of the main aspects of textile technology in India and ancient India are:
+
+  - **Raw materials**: India has a variety of natural fibres and dyes that are used to make textiles. Cotton and silk are the most common and popular fibres, but wool, jute, hemp, coir, and animal hair are also used. India also produces and uses silver and gold threads, shells, mica, and insect wings to decorate textiles.
+  - **Weaving**: Weaving is the process of interlacing two sets of yarns at right angles to form a fabric. India has a long history of weaving cotton and silk fabrics, using different types of looms and techniques. Some of the famous types of woven fabrics from India are muslin, jamdani, brocade, ikat, patola, chanderi, and kanjeevaram.
+  - **Printing**: Printing is the process of applying patterns or designs to fabrics using dyes, blocks, stamps, or screens. India has a rich tradition of printing fabrics, using natural dyes derived from plants, minerals, and insects. Some of the well-known types of printed fabrics from India are ajrakh, kalamkari, bagh, dabu, and bandhani.
+  - **Dyeing**: Dyeing is the process of changing the colour of fabrics using natural or synthetic dyes. India has a vast knowledge and skill of dyeing fabrics, using different methods and techniques. Some of the famous types of dyed fabrics from India are tie-dye, batik, leheriya, and shibori.
+  - **Embroidery**: Embroidery is the process of decorating fabrics with needle and thread, using various stitches and motifs. India has a rich and diverse embroidery tradition, influenced by its culture, religion, and history. Some of the renowned types of embroidery from India are zardozi, chikankari, phulkari, kantha, and kashida.

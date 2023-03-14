@@ -1,0 +1,14 @@
+#### Schema design in HBase
+
+HBase is a distributed, column-oriented database that is built on top of Hadoop. It provides fast and random access to large amounts of data. Unlike relational databases, HBase does not support joins, transactions, or SQL queries. Instead, it has a flexible and sparse data model that allows for denormalization and nested entities. Schema design in HBase is a crucial task that affects the performance and scalability of the application. Here are some key points to consider when designing schemas in HBase:
+
+- Row key: The row key is the primary and only index for each table in HBase. It is a byte array that uniquely identifies each row. The row key should be carefully chosen to support the access patterns of the application, such as range scans, prefix queries, or reverse lookups. The row key should also be well distributed to avoid hotspots and ensure load balancing across the cluster. Some common techniques for designing row keys are hashing, salting, concatenation, and inversion.
+- Column family: A column family is a logical grouping of columns that share the same characteristics, such as compression, encoding, versioning, and TTL. A column family is stored together on disk as a unit, so columns that are frequently accessed together should belong to the same column family. A table can have one or more column families, but the number should be kept small (usually less than 10) to avoid overhead and latency. Each column family has a name that is a byte array, and it is specified along with the row key when performing read or write operations.
+- Column qualifier: A column qualifier is a byte array that identifies a column within a column family. A column qualifier can be dynamic, meaning that it can be added or deleted at any time without affecting the schema. A column qualifier can also be used to store nested entities, by using a unique identifier as the column name and the entire record as the column value. A column can have multiple versions, which are distinguished by a timestamp. HBase allows for retrieving the latest or a specific version of a column, or all the versions within a time range.
+- Cell: A cell is the intersection of a row key, a column family, and a column qualifier. It contains a value that is also a byte array, and a timestamp that indicates the version of the value. A cell can be empty, meaning that it has no value or timestamp. HBase stores the cells in a sorted order by row key, column family, and column qualifier, which enables efficient scanning and filtering of the data.
+
+The following figure shows an example of an HBase table with two column families (info and data) and some sample rows:
+
+![HBase table example](https://dwgeek.com/wp-content/uploads/2018/02/Hbase-Table-Structure.png)
+
+Source: https://dwgeek.com/hbase-table-schema-design-concept.html/

@@ -1,0 +1,22 @@
+## Unit 4 - Enterprise Java Bean
+
+- Enterprise Java Bean (EJB) is a server-side component architecture for Java Platform, Enterprise Edition (Java EE)  .
+- EJB technology enables rapid and simplified development of distributed, transactional, secure and portable applications based on Java technology  .
+- There are three types of enterprise beans, entity beans, session beans, and message-driven beans .
+- Entity beans represent persistent data stored in a database. They can be accessed and updated by multiple clients .
+- Session beans encapsulate business logic and perform tasks for clients. They can be stateful or stateless .
+- Message-driven beans process messages asynchronously from a message queue or topic. They act as message consumers and listeners .
+- EJB 3.0 was introduced with Java EE 5 in 2006. It greatly simplified development by introducing the use of Java annotations, by making XML deployment descriptors optional and by adopting a convention-over-configuration approach .
+- EJB 3.0 also included the Java Persistence API (JPA) for persistence and object/relational mapping with Java EE and Java SE .
+- EJB 3.1 (part of Java EE 6 and released in 2009) introduced a multitude of new features, such as :
+  - A "no interface" local view for session beans
+  - Simplified packaging and deployment of EJB components directly in a web archive (.war)
+  - An embeddable API for executing EJB components within a Java SE environment
+  - A new singleton component
+  - Calendar based EJB Timer expressions
+  - Asynchronous session bean invocations
+  - A portable global JNDI name syntax for looking up EJB components
+  - The definition of a lightweight subset of EJB functionality that can be provided within the Java EE Web Profile
+- EJB components run inside an EJB container, which provides services such as security, transaction management, concurrency control, dependency injection, naming and remote access  .
+- EJB components can be accessed by local or remote clients using various protocols, such as RMI, JMS, SOAP or REST  .
+- EJB components can be combined with other Java EE technologies, such as servlets, JSP, JSF, CDI, JAX-WS, JAX-RS, JTA, JMS, JNDI and JPA, to create enterprise applications  .

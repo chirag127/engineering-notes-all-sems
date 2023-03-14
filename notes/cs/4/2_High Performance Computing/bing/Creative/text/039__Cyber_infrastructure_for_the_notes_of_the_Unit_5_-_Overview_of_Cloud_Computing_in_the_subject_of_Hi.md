@@ -1,0 +1,22 @@
+### Cyber infrastructure for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cyber infrastructure is a term that refers to the collection of hardware, software, data, networks, and human resources that enable scientific research and innovation in various domains.
+- Cloud computing is a model of cyber infrastructure that provides on-demand access to shared and scalable resources, such as computing power, storage, networking, and software, over the internet .
+- Cloud computing offers several benefits for high performance computing (HPC), such as:
+  - Cost-effectiveness: Cloud computing reduces the capital and operational expenses of owning and maintaining HPC infrastructure, and allows users to pay only for the resources they use .
+  - Scalability: Cloud computing enables users to dynamically adjust the amount and type of resources they need for their HPC applications, and to access virtually unlimited resources from cloud providers .
+  - Agility: Cloud computing facilitates the rapid development, deployment, and testing of HPC applications, and provides a variety of tools and platforms to support different programming languages, frameworks, and workflows .
+  - Availability: Cloud computing ensures high availability, reliability, and redundancy of HPC resources, and provides service level agreements (SLAs) and backup mechanisms to guarantee performance and uptime .
+- Cloud computing also poses some challenges and risks for HPC, such as:
+  - Security: Cloud computing exposes HPC data and applications to potential cyberattacks, such as data breaches, denial-of-service attacks, and malware infections, and requires users to adopt appropriate security measures and policies to protect their cloud assets  .
+  - Performance: Cloud computing may introduce some performance overhead and variability for HPC applications, due to factors such as network latency, bandwidth limitations, resource contention, and virtualization overhead .
+  - Compatibility: Cloud computing may require some modifications and adaptations of HPC applications and software to run efficiently and effectively on cloud platforms, and to integrate with other cloud services and tools .
+- Cloud computing can be classified into different service models and deployment models, depending on the level of abstraction and control that users have over the cloud resources  .
+  - Service models:
+    - Infrastructure as a Service (IaaS): Users have access to the lowest level of cloud resources, such as servers, storage, and networks, and can configure and manage them as they wish. Examples of IaaS providers are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+    - Platform as a Service (PaaS): Users have access to a higher level of cloud resources, such as operating systems, databases, and development tools, and can use them to create and deploy their own applications. Examples of PaaS providers are AWS Elastic Beanstalk, Azure App Service, and Google App Engine.
+    - Software as a Service (SaaS): Users have access to the highest level of cloud resources, such as ready-made applications and software, and can use them without any installation or configuration. Examples of SaaS providers are Google Workspace, Microsoft Office 365, and Salesforce.
+  - Deployment models:
+    - Public cloud: Users share the same cloud resources with other users, and have no control over the location or configuration of the resources. Public cloud providers offer their services over the internet, and charge users based on their usage. Examples of public cloud providers are AWS, Azure, and GCP.
+    - Private cloud: Users have exclusive access to the cloud resources, and have full control over the location and configuration of the resources. Private cloud providers offer their services within the user's organization or a dedicated data center, and charge users based on their capacity. Examples of private cloud providers are VMware, OpenStack, and IBM Cloud Private.
+    - Hybrid cloud: Users have access to both public and private cloud resources, and can use them interchangeably or in combination, depending on their needs and preferences. Hybrid cloud providers offer their services through a mix of public and private cloud platforms, and charge users based on their usage and capacity. Examples of hybrid cloud providers are AWS Outposts, Azure Stack, and Google Anthos.

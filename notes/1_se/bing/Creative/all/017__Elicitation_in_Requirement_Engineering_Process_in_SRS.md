@@ -1,0 +1,23 @@
+### Elicitation in Requirement Engineering Process in SRS
+
+- Elicitation is the process of gathering, analyzing, and validating the needs and expectations of the stakeholders for a software system.
+- Elicitation is one of the first and most important stages of software development, as it affects the scope, budget, and time estimation of the project.
+- Elicitation is performed by a business analyst or a system analyst, who interacts with the client and other stakeholders to understand their problems, goals, and preferences.
+- Elicitation results in a Software Requirements Specification (SRS) document, which is a formal description of the software system, its functions, interfaces, design, and user experience.
+- Elicitation involves the following stages :
+  - Planning: The analyst prepares for the elicitation process by identifying the stakeholders, defining the objectives, selecting the techniques, and scheduling the activities.
+  - Discovery: The analyst collects the information from the stakeholders using various techniques, such as interviews, questionnaires, workshops, observation, prototyping, etc.
+  - Analysis: The analyst organizes, clarifies, and prioritizes the information collected from the stakeholders, and identifies any gaps, conflicts, or inconsistencies.
+  - Validation: The analyst verifies the accuracy, completeness, and relevance of the information, and resolves any issues or disagreements with the stakeholders.
+  - Documentation: The analyst documents the information in a structured and consistent way, using a standard format and notation, such as UML diagrams, use cases, user stories, etc.
+- Elicitation faces many challenges, such as:
+  - Incomplete or vague requirements: The stakeholders may not have a clear or complete vision of what they want or need from the software system, or they may not be able to articulate it well.
+  - Conflicting or changing requirements: The stakeholders may have different or incompatible expectations or opinions about the software system, or they may change their minds during the development process.
+  - Communication or cultural barriers: The analyst may have difficulty in communicating or understanding the stakeholders, due to differences in language, terminology, background, or culture.
+  - Technical or domain complexity: The software system may involve complex or unfamiliar technologies or domains, which may require additional research or expertise from the analyst.
+- Elicitation can be improved by using some best practices, such as :
+  - Establishing a good rapport and trust with the stakeholders, and involving them throughout the elicitation process.
+  - Using multiple and complementary techniques to elicit information from different perspectives and sources, and to cross-check and validate the information.
+  - Focusing on the what (the desired behavior and outcome) rather than the how (the implementation and solution) of the software system, and avoiding any premature design decisions.
+  - Documenting the rationale and assumptions behind each requirement, and prioritizing the requirements according to their importance and urgency.
+  - Reviewing and revising the requirements regularly, and managing any changes or updates in a systematic and traceable way.

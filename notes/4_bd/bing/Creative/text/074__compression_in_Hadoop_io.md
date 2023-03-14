@@ -1,0 +1,9 @@
+##### Compression in Hadoop io
+
+- Compression is a technique to reduce the size of data by applying some algorithms that encode the data more efficiently.
+- Compression is useful in Hadoop because it can save storage space, reduce network bandwidth, and improve the performance of mapreduce jobs.
+- Hadoop supports various compression codecs, such as DEFLATE, gzip, bzip2, LZO, LZ4, and Snappy. Each codec has its own advantages and disadvantages in terms of compression ratio, speed, and splittability.
+- Splittability means the ability to split a compressed file into smaller chunks that can be processed independently by different map tasks. This is important for parallel processing and load balancing in Hadoop.
+- Only bzip2 is splittable among the standard codecs, but it is also slow and CPU-intensive. LZO is a fast and lightweight codec that can be made splittable with some extra steps, such as creating index files. LZ4 and Snappy are also fast and lightweight, but not splittable.
+- Hadoop provides a CompressionCodecFactory class that can detect the compression format of an input file based on its extension, and return the appropriate CompressionCodec object. This object can be used to create compression input and output streams for reading and writing compressed data.
+- Hadoop also provides some classes and interfaces to handle different types of compression, such as stream-based, block-based, record-based, and direct bytebuffer-based. These classes and interfaces include CompressionInputStream, CompressionOutputStream, Compressor, Decompressor, CompressionCodec, SplittableCompressionCodec, BlockCompressorStream, BlockDecompressorStream, and DirectDecompressor.

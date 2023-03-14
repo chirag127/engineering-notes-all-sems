@@ -1,0 +1,17 @@
+#### Goals and applications of networks and protocols
+
+- A network is an interconnection of autonomous computers for information exchange. A protocol is a set of rules that determine how data is transmitted between different devices in the same network.
+- The main goals of networks and protocols are:
+  - Resource sharing: Networks allow multiple users or devices to share common resources, such as printers, scanners, modems, files, etc. This reduces the cost and increases the efficiency of resource utilization.
+  - High reliability: Networks provide backup and redundancy for data and services, in case of failures or disasters. Networks can also recover from errors and maintain robustness during catastrophes.
+  - Inter-process communication: Networks enable users or processes to communicate with each other across different locations or platforms. Networks support various types of communication, such as interactive, asynchronous, synchronous, multicast, broadcast, etc.
+  - Flexible access: Networks allow users or devices to access data or services from any computer in the network, regardless of their physical location or configuration. Networks also support mobility and scalability of users and devices.
+  - Security: Networks protect data and services from unauthorized access, modification, or disclosure. Networks use various mechanisms, such as encryption, authentication, authorization, firewalls, etc., to ensure security.
+  - Performance: Networks optimize the speed and quality of data transmission and service delivery. Networks use various techniques, such as compression, buffering, caching, routing, congestion control, etc., to improve performance.
+- The main applications of networks and protocols are:
+  - Internet: The Internet is a global network of networks that connects millions of computers and devices using the TCP/IP protocol suite. The Internet supports various applications, such as web browsing, email, file transfer, online gaming, social media, etc.
+  - Intranet: An intranet is a private network that uses the same technologies and protocols as the Internet, but is accessible only to authorized users within an organization. An intranet can provide various services, such as internal communication, collaboration, document management, etc.
+  - Extranet: An extranet is an extension of an intranet that allows authorized external users, such as customers, suppliers, or partners, to access some of the resources or services of the organization. An extranet can facilitate business transactions, information exchange, or joint projects.
+  - Local area network (LAN): A LAN is a network that connects computers and devices within a small geographic area, such as a home, office, or building. A LAN can use various protocols, such as Ethernet, Wi-Fi, Bluetooth, etc., to enable fast and secure communication.
+  - Wide area network (WAN): A WAN is a network that connects computers and devices across a large geographic area, such as a city, country, or continent. A WAN can use various protocols, such as IP, MPLS, ATM, etc., to enable reliable and efficient communication.
+  - Personal area network (PAN): A PAN is a network that connects personal devices, such as smartphones, tablets, laptops, etc., within a short range, such as a few meters. A PAN can use various protocols, such as NFC, RFID, IR, etc., to enable convenient and wireless communication.

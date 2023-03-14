@@ -1,0 +1,7 @@
+### Acoustics Of Speech Production
+
+- Acoustics of speech production is the study of the physical properties of speech sounds, such as frequency, intensity, and duration, and how they are influenced by the vocal tract configuration and the sound source.
+- The acoustic theory of speech production assumes that speech sounds are the result of a combination of a source of sound energy (e.g. the larynx) and a filter function determined by the shape of the supralaryngeal vocal tract .
+- The source of sound energy can be either periodic (e.g. for voiced sounds) or aperiodic (e.g. for voiceless sounds). The filter function can be modeled as a series of tubes with varying cross-sectional areas that represent the vocal tract cavities (e.g. oral, nasal, pharyngeal) and the radiation at the mouth and nose .
+- The acoustic characteristics of speech sounds can be visualized and analyzed using various tools, such as the sound waveform, the spectrogram, and the spectrum. The sound waveform shows the variation of air pressure over time, the spectrogram shows the variation of frequency and intensity over time, and the spectrum shows the distribution of frequency and intensity at a given point in time .
+- The acoustic analysis of speech sounds can reveal information about the articulatory and phonetic features of speech, such as place and manner of articulation, voicing, pitch, stress, and intonation. Acoustic phonetics also investigates how speech sounds vary across speakers, languages, dialects, styles, and contexts.

@@ -1,0 +1,22 @@
+## Unit 5 - Cloud Technologies And Advancements Hadoop
+
+- Hadoop is an open source framework that allows for the distributed storage and processing of large datasets across clusters of computers using simple programming models .
+- Hadoop is designed to scale up from a single computer to thousands of clustered computers, with each machine offering local computation and storage .
+- Hadoop can efficiently store and process large datasets ranging in size from gigabytes to petabytes of data .
+- Hadoop consists of four main modules: Hadoop Distributed File System (HDFS), Yet Another Resource Negotiator (YARN), MapReduce, and Hadoop Common .
+- HDFS is a distributed file system that provides high-throughput access to application data with no need for schemas to be defined up front .
+- YARN is a resource-management platform responsible for managing compute resources in clusters and using them to schedule users’ applications .
+- MapReduce is a programming model for large-scale data processing. Using distributed and parallel computation algorithms, MapReduce makes it possible to carry over processing logic and helps to write applications that transform big datasets into one manageable set .
+- Hadoop Common includes the libraries and utilities used and shared by other Hadoop modules .
+- Hadoop provides the following benefits:
+  - Fault tolerance: Data is replicated across a cluster so that it can be recovered easily should disk, node, or rack failures occur .
+  - Cost control: Hadoop controls costs by storing data more affordably per terabyte than other platforms. Instead of thousands to tens of thousands of dollars per terabyte being spent on hardware, Hadoop delivers compute and storage on affordable standard commodity hardware for hundreds of dollars per terabyte .
+  - Open source framework innovation: Hadoop is backed by global communities united around introducing new concepts and capabilities faster and more effectively than internal teams working on proprietary solutions .
+- Hadoop can run on public, private, or hybrid cloud resources versus on-premises hardware to gain flexibility, availability, and cost control.
+- Many cloud solution providers offer fully managed services for Hadoop, such as Dataproc from Google Cloud.
+- The Hadoop ecosystem includes many tools and applications to help collect, store, process, analyze, and manage big data. Some of the most popular applications are:
+  - Spark: An open source, distributed processing system commonly used for big data workloads. Apache Spark uses in-memory caching and optimized execution for fast performance, and it supports general batch processing, streaming analytics, machine learning, graph databases, and ad hoc queries.
+  - Presto: An open source, distributed SQL query engine optimized for low-latency, ad-hoc analysis of data. It supports the ANSI SQL standard, including complex queries, aggregations, joins, and window functions. Presto can process data from multiple data sources including the Hadoop Distributed File System (HDFS) and Amazon S3.
+  - Hive: Allows users to leverage Hadoop MapReduce using a SQL interface, enabling analytics at a massive scale, in addition to distributed and fault-tolerant data warehousing.
+  - HBase: An open source, non-relational, versioned database that runs on top of Amazon S3 (using EMRFS) or the Hadoop Distributed File System (HDFS).
+- Hadoop is leading to phenomenal technical advancements, such as HBase becoming a vital platform for blob stores and lightweight OLTP, and Hadoop becoming one of the most required apps for cloud computing.

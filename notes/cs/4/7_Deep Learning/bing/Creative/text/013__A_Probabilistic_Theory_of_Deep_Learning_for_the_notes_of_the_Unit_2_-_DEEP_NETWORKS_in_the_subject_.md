@@ -1,0 +1,8 @@
+### A Probabilistic Theory of Deep Learning
+
+- A probabilistic theory of deep learning is a framework for understanding, analyzing, and synthesizing deep learning architectures based on probabilistic models and inference methods.
+- The main idea is to capture the variation due to nuisance factors, such as the unknown object position, orientation, and scale in object recognition or the unknown voice pronunciation, pitch, and speed in speech recognition, using a generative probabilistic model called the deep rendering model (DRM).
+- The DRM consists of a hierarchy of latent variables that represent different levels of abstraction and nuisance variation, and a likelihood function that relates the latent variables to the observed data.
+- The DRM can be learned from data using expectation-maximization (EM) algorithms, and inference can be performed using probabilistic message passing techniques.
+- By relaxing the DRM to a discriminative model, two of the current leading deep learning systems, deep convolutional neural networks (DCNs) and random decision forests (RDFs), can be recovered as special cases of the DRM, providing insights into their successes and shortcomings as well as a principled route to their improvement.
+- The probabilistic theory of deep learning also reveals the connections and differences between deep learning and other probabilistic methods, such as graphical models, variational inference, and Bayesian neural networks.

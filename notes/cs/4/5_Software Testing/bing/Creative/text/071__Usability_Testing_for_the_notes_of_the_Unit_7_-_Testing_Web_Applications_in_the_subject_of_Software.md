@@ -1,0 +1,21 @@
+### Usability Testing
+
+- Usability testing is a type of testing that evaluates how easy, efficient, and satisfying a web application is to use by the intended users.
+- Usability testing can be performed at any stage of the development process, but it is usually done after the functional and visual design are completed.
+- Usability testing can be conducted in different ways, such as:
+  - Lab testing: Users are invited to a controlled environment where they are observed and recorded while using the web application.
+  - Remote testing: Users are located in their natural settings and use the web application via a screen-sharing or video-conferencing tool.
+  - Unmoderated testing: Users are given a set of tasks to complete with the web application and provide feedback through an online platform or questionnaire.
+  - A/B testing: Users are randomly assigned to one of two versions of the web application and their behavior and preferences are compared.
+- Usability testing can measure various aspects of the user experience, such as:
+  - Effectiveness: How well the web application helps the users achieve their goals and tasks.
+  - Efficiency: How quickly and easily the users can complete their tasks with the web application.
+  - Satisfaction: How pleased and comfortable the users are with the web application.
+  - Learnability: How easy it is for the users to learn how to use the web application.
+  - Accessibility: How well the web application accommodates the needs and preferences of users with different abilities and disabilities.
+- Usability testing can provide valuable insights and feedback for improving the web application, such as:
+  - Identifying and prioritizing the user needs and expectations.
+  - Detecting and fixing the usability issues and errors.
+  - Enhancing the user interface and interaction design.
+  - Increasing the user satisfaction and loyalty.
+  - Reducing the user support and maintenance costs.

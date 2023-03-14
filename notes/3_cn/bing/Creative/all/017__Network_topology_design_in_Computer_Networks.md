@@ -1,0 +1,59 @@
+#### Network topology design in Computer Networks
+
+- Network topology is the arrangement of the elements (nodes, links, etc.) of a communication network.
+- Network topology can be used to define or describe the arrangement, logical or physical, of the different elements of a network.
+- Network topology is also called network architecture or network structure.
+- There are two main types of network topology: physical and logical.
+  - Physical topology refers to the actual layout of the devices and cables in a network. It shows how the devices are physically connected and the distances between them.
+  - Logical topology refers to the way data is transmitted and received in a network. It shows how the devices communicate with each other and the protocols used.
+- There are several common network topologies, such as bus, ring, star, tree, mesh, and hybrid. Each topology has its own advantages and disadvantages, depending on the network size, performance, cost, reliability, and security requirements.
+  - Bus topology: A bus network consists of a single cable that connects all the devices in a network. The cable acts as a shared communication medium that the devices can access with a device called a tap. A terminator is used at each end of the bus cable to prevent the signal from bouncing back and forth on the cable.
+    - Advantages: 
+      - Easy to install and expand.
+      - Low cost and low maintenance.
+      - Uses less cable than other topologies.
+    - Disadvantages:
+      - Low performance and scalability.
+      - High collision rate and network congestion.
+      - Difficult to troubleshoot and isolate faults.
+      - Single point of failure (the cable).
+    - Example: Ethernet networks use bus topology with coaxial cable or twisted pair cable.
+    - Application: Bus topology is suitable for small and simple networks that do not require high speed or reliability.
+    - Mnemonic: A bus is a long vehicle that carries many passengers along a single route.
+  - Ring topology: A ring network consists of a closed loop of cable that connects all the devices in a network. Each device has a repeater that regenerates the signal and passes it to the next device in the ring. Data is transmitted in one direction around the ring, either clockwise or counterclockwise.
+    - Advantages:
+      - High performance and scalability.
+      - Low collision rate and network congestion.
+      - Easy to troubleshoot and isolate faults.
+    - Disadvantages:
+      - Difficult to install and expand.
+      - High cost and high maintenance.
+      - Uses more cable than other topologies.
+      - Single point of failure (any device or cable).
+    - Example: Token ring networks use ring topology with twisted pair cable or fiber optic cable.
+    - Application: Ring topology is suitable for large and complex networks that require high speed and reliability.
+    - Mnemonic: A ring is a circular object that has no beginning or end.
+  - Star topology: A star network consists of a central device called a hub or a switch that connects all the devices in a network. The hub or switch acts as a common connection point for the devices and controls the data flow in the network. Each device has a dedicated cable that connects it to the hub or switch.
+    - Advantages:
+      - Easy to install and expand.
+      - High performance and scalability.
+      - Low collision rate and network congestion.
+      - Easy to troubleshoot and isolate faults.
+    - Disadvantages:
+      - High cost and high maintenance.
+      - Uses more cable than other topologies.
+      - Single point of failure (the hub or switch).
+    - Example: Ethernet networks use star topology with twisted pair cable or fiber optic cable.
+    - Application: Star topology is suitable for most networks that require high speed and reliability.
+    - Mnemonic: A star is a bright object that has many points radiating from the center.
+  - Tree topology: A tree network consists of a hierarchical structure of devices that are connected by branches of cable. The devices are organized into levels, such as root, parent, child, etc. The root device is the top-level device that connects to the network backbone. The parent devices are the intermediate-level devices that connect to the root device or other parent devices. The child devices are the lowest-level devices that connect to the parent devices or other child devices.
+    - Advantages:
+      - Easy to install and expand.
+      - High performance and scalability.
+      - Supports multiple types of devices and protocols.
+    - Disadvantages:
+      - High cost and high maintenance.
+      - Uses more cable than other topologies.
+      - Difficult to troubleshoot and isolate faults.
+      - Single point of failure (any device or cable).
+    - Example: Ethernet networks use tree topology with twisted pair cable or fiber optic cable.

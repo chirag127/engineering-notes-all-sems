@@ -1,0 +1,21 @@
+### Parallel Virtual Machine (PVM) for the notes of the Unit 4 - Beowulf Cluster in the subject of High Performance Computing
+
+- Parallel Virtual Machine (PVM) is a software tool for parallel networking of computers.
+- It is designed to allow a network of heterogeneous Unix and/or Windows machines to be used as a single distributed parallel processor.
+- It can be used as stand-alone software or as a foundation for other heterogeneous network software.
+- PVM provides a set of communication primitives for sending and receiving messages among the processes in the virtual machine.
+- PVM also provides routines for spawning, killing, and synchronizing processes, as well as querying the status of the virtual machine.
+- PVM supports various machine architectures, including sequential processors, vector processors, and multicomputers, and it can be ported to new computer architectures that may emerge.
+- PVM is one of the parallel processing libraries used in Beowulf clusters, which are collections of commodity computers connected by a local area network and configured to run parallel programs.
+- The name Beowulf in Beowulf clusters came from a computer built by Thomas Sterling and Donald Becker at NASA in 1994, which was inspired by an English poem of the same name.
+- PVM has a user interface that consists of a set of C and Fortran callable routines, as well as a console for monitoring and controlling the virtual machine.
+- PVM has a modular design that consists of three components: the PVM daemon, the PVM library, and the PVM console.
+- The PVM daemon is a process that runs on each host in the virtual machine and handles the communication and coordination among the processes.
+- The PVM library is a collection of functions that are linked with the user programs and provide the interface to the PVM system.
+- The PVM console is a program that allows the user to interact with the PVM system and perform various tasks, such as adding or deleting hosts, spawning or killing processes, and displaying information about the virtual machine.
+- PVM has a number of features that make it suitable for parallel computing, such as portability, scalability, fault tolerance, dynamic configuration, and load balancing.
+- PVM is portable across different operating systems, hardware platforms, and network protocols, as it uses a common message format and a TCP/IP based communication protocol.
+- PVM is scalable to hundreds or thousands of processors, as it uses a hierarchical communication model and a distributed control mechanism.
+- PVM is fault tolerant, as it can detect and recover from host or network failures, and allow the user to reconfigure the virtual machine dynamically.
+- PVM allows dynamic configuration of the virtual machine, as the user can add or delete hosts and processes at runtime, and the PVM system can adjust the communication routes accordingly.
+- PVM supports load balancing, as it allows the user to specify the host preferences for spawning processes, and the PVM system can distribute the processes among the available hosts based on their load and performance.

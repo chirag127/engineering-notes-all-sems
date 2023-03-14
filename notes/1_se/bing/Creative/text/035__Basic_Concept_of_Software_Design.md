@@ -1,0 +1,23 @@
+### Basic Concept of Software Design
+
+- Software design is the process of envisioning and defining software solutions to one or more sets of problems, using a set of primitive components and subject to constraints.
+- Software design involves problem-solving and planning a software solution, which includes both a low-level component and algorithm design and a high-level architecture design.
+- Software design is both a process and a model. The design process is a sequence of steps that enables the designer to describe all aspects of the software for building. The design model is a representation of the software that can be used for communication, analysis, and construction.
+- One of the main components of software design is the software requirements analysis (SRA), which is a part of the software development process that lists specifications used in software engineering .
+- Software design may also involve user experience design, which is the process of creating a storyboard to help determine the specifications of the software if it is user-centered or semi-automated.
+- Software design may be platform-independent or platform-specific, depending upon the availability of the technology used for the design.
+- Software design should address the following objectives:
+  - Correctness: The design should correctly implement all the functionalities of the system.
+  - Efficiency: The design should optimize the use of resources, time, and cost.
+  - Understandability: The design should be easily understandable, modular, and layered.
+  - Completeness: The design should have all the components like data structures, modules, and external interfaces.
+  - Maintainability: The design should be easily adaptable to change requests from the customer.
+- Software design should follow some concepts or principles that guide the design process and help to create a quality software solution. Some of these concepts are :
+  - Abstraction: The process of hiding irrelevant details to reduce complexity and increase efficiency.
+  - Modularity: The process of dividing the system into smaller parts that can be created and used independently.
+  - Coupling: The degree of interdependence between the modules of the system.
+  - Cohesion: The degree of relatedness within a module of the system.
+  - Encapsulation: The process of bundling data and behavior together in a single unit.
+  - Inheritance: The process of acquiring the properties and behavior of a parent class by a child class.
+  - Polymorphism: The ability of an object to behave differently depending on the context.
+  - Design patterns: The reusable solutions to common design problems that can be applied in different situations.

@@ -1,0 +1,22 @@
+#### HDFS federation in Hadoop ecosystem
+
+- HDFS federation is a feature introduced in Hadoop 2 that enhances the existing HDFS architecture by adding support for multiple NameNodes/namespaces .
+- A NameNode is a master node that manages the file system namespace and the metadata for every file and block in HDFS .
+- A namespace is a logical grouping of files and directories that belong to a single file system .
+- In the prior HDFS architecture, there was only a single NameNode for the entire cluster, which limited the scalability, performance, and isolation of the file system .
+- HDFS federation addresses these limitations by allowing the use of more than one NameNode/namespace in the same cluster .
+- Each NameNode/namespace manages a subset of the file system independently, without requiring coordination with other NameNodes.
+- The DataNodes, which are the slave nodes that store the actual data blocks, are shared by all the NameNodes in the cluster.
+- Each DataNode registers with and sends periodic heartbeats and block reports to all the NameNodes in the cluster.
+- Each DataNode also stores blocks for multiple namespaces, which are called block pools.
+- A block pool is a set of blocks that belong to a single namespace.
+- A namespace and its block pool together are called a namespace volume, which is a self-contained unit of management.
+- Each namespace volume can be formatted, upgraded, or deleted independently.
+- A cluster ID is used to identify all the nodes in the cluster.
+- Users can use ViewFs, which is a client-side mount table, to create personalized namespace views.
+- HDFS federation provides the following benefits:
+  - It improves the scalability of the file system by allowing more files, blocks, and directories to be stored in the cluster.
+  - It improves the performance of the file system by distributing the workload among multiple NameNodes and reducing the contention for the namespace.
+  - It improves the isolation of the file system by preventing the failure of one NameNode from affecting other namespaces.
+  - It improves the flexibility of the file system by allowing different namespaces to have different configurations, policies, and quotas.
+  - It opens up the architecture for future innovations by decoupling the namespace and the block storage layers.

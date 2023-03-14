@@ -1,0 +1,22 @@
+#### HBase concepts
+
+- HBase is a **column-oriented non-relational database management system** that runs on top of **Hadoop Distributed File System (HDFS)** .
+- HBase provides a **fault-tolerant** way of storing **sparse data sets**, which are common in many big data use cases .
+- HBase is well suited for **real-time data processing** or **random read/write access** to large volumes of data .
+- HBase is a **type of NoSQL database** and is classified as a **key-value store**.
+- HBase does not support a structured query language like SQL; in fact, HBase isn’t a relational data store at all.
+- HBase applications are written in **Java** much like a typical Apache MapReduce application.
+- HBase does support writing applications in **Apache Avro, REST and Thrift**.
+- HBase is a **data model that is similar to Google’s big table** designed to provide quick random access to huge amounts of structured data.
+- HBase is a part of the **Hadoop ecosystem** that provides random real-time read/write access to data in the Hadoop File System.
+- HBase relies on **ZooKeeper** for high-performance coordination.
+- HBase works well with **Hive**, a query engine for batch processing of big data, to enable fault-tolerant big data applications.
+- An HBase system is designed to **scale linearly**. It comprises a set of standard tables with rows and columns, much like a traditional database.
+- Each table must have an element defined as a **primary key**, and all access attempts to HBase tables must use this primary key.
+- HBase allows for many attributes to be grouped together into **column families**, such that the elements of a column family are all stored together.
+- With HBase you must predefine the table schema and specify the column families. However, new columns can be added to families at any time, making the schema flexible and able to adapt to changing application requirements.
+- Each cell value of the table has a **timestamp**.
+- HBase has a **master node** that manages the cluster and **region servers** that store portions of the tables and perform the work on the data .
+- HBase provides **fast lookups** for larger tables.
+- HBase provides **low latency access** to single rows from billions of records (Random access).
+- HBase internally uses **Hash tables** and provides random access, and it stores the data in indexed HDFS files for faster lookups.

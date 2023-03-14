@@ -1,0 +1,31 @@
+### Resource Management and Scheduling for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, which aim to efficiently allocate and utilize the available resources to execute the submitted jobs .
+- The RMS of clusters provides support for four main functionalities:
+  - Management of resources: The RMS monitors, controls, and maintains the status information of the resources such as processors, memory, disk, and network in the cluster system.
+  - Job queuing: The RMS receives the jobs submitted by the users and places them into queues until there are available resources to execute them.
+  - Job scheduling: The RMS invokes the cluster scheduler to determine how resources are assigned to various jobs, based on different objectives and constraints such as performance, fairness, quality of service, etc.
+  - Job execution: The RMS dispatches the jobs to the assigned nodes and manages the job execution processes before returning the results to the users upon job completion.
+- The cluster scheduling problem is challenging due to several aspects, such as:
+  - The heterogeneity of resources and jobs: The cluster may consist of different types of nodes with varying capacities and capabilities, and the jobs may have different resource demands and characteristics.
+  - The multi-dimensionality of resource demands: The jobs may require multiple types of resources such as CPU, memory, disk, and network, and the scheduler has to consider all of them simultaneously.
+  - The dynamicity of submitted workload: The jobs may arrive and depart at any time, and the scheduler has to adapt to the changing workload patterns and resource availability.
+  - The diversity of scheduling objectives and methods: The scheduler may have to optimize different and sometimes conflicting objectives such as throughput, response time, resource utilization, fairness, etc., and may use different methods such as batch, online, or hybrid scheduling.
+- There are different types of cluster scheduling architectures, such as:
+  - Monolithic: The scheduler is a single centralized component that manages all the resources and jobs in the cluster. This architecture is simple and easy to implement, but it may suffer from scalability, reliability, and performance issues.
+  - Hierarchical: The scheduler is composed of multiple levels of sub-schedulers that manage different subsets of resources and jobs in the cluster. This architecture can improve scalability and reliability, but it may introduce complexity and coordination overhead.
+  - Distributed: The scheduler is composed of multiple independent and decentralized components that manage different subsets of resources and jobs in the cluster. This architecture can improve scalability and performance, but it may introduce inconsistency and communication overhead.
+- There are different types of cluster scheduling methods, such as:
+  - Batch: The scheduler collects a batch of jobs and assigns them to resources in a periodic or event-driven manner. This method can improve resource utilization and throughput, but it may increase response time and waiting time.
+  - Online: The scheduler assigns each job to resources as soon as it arrives, without waiting for other jobs. This method can improve response time and waiting time, but it may reduce resource utilization and throughput.
+  - Hybrid: The scheduler combines batch and online methods to balance the trade-offs between them. This method can achieve a better performance than either method alone, but it may introduce complexity and tuning overhead.
+- There are different types of cluster scheduling objectives, such as:
+  - Performance: The scheduler aims to improve the performance metrics of the jobs, such as throughput, response time, waiting time, turnaround time, etc.
+  - Fairness: The scheduler aims to ensure a fair and equitable allocation of resources among the jobs, such as proportional fairness, dominant resource fairness, max-min fairness, etc.
+  - Quality of service: The scheduler aims to meet the quality of service requirements of the jobs, such as deadlines, priorities, preferences, etc.
+  - Resource utilization: The scheduler aims to maximize the utilization of the resources in the cluster, such as CPU, memory, disk, and network.
+  - Energy efficiency: The scheduler aims to minimize the energy consumption of the resources in the cluster, such as power, cooling, etc.
+- There are different types of cluster scheduling algorithms, such as:
+  - Heuristic: The scheduler uses heuristic rules or policies to assign jobs to resources, such as first come first serve, shortest job first, longest job first, round robin, etc.
+  - Optimization: The scheduler uses optimization techniques to assign jobs to resources, such as linear programming, integer programming, constraint programming, etc.
+  - Machine learning: The scheduler uses

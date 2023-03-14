@@ -1,0 +1,21 @@
+#### Error Detection and Correction in link layer in Computer Networks
+
+- Error detection and correction is the process of ensuring that data frames, i.e. bit streams of data, are transmitted from the source to the destination with a certain degree of accuracy.
+- Errors can occur due to noise, interference, or network problems, which can corrupt one or more bits in the transmitted frames.
+- Errors can be classified into three types: single bit errors, multiple bit errors, and burst errors.
+  - Single bit error: Only one bit is corrupted in the received frame.
+  - Multiple bit errors: More than one bits are corrupted in the received frame.
+  - Burst error: More than one consecutive bits are corrupted in the received frame.
+- Error control can be done in two ways: error detection and error correction.
+  - Error detection: The sender adds some extra bits, called check bits or redundant bits, to the data frames based on some algorithm. The receiver performs the same algorithm on the received frames and compares the check bits with the ones sent by the sender. If they do not match, an error is detected.
+  - Error correction: The sender adds more check bits to the data frames based on some algorithm that allows the receiver to locate and correct the corrupted bits. The receiver performs the same algorithm on the received frames and fixes the errors based on the check bits.
+- There are three main techniques for error detection: parity check, checksum, and cyclic redundancy check (CRC).
+  - Parity check: The sender adds one check bit to the data frame to make the number of 1s either even (even parity) or odd (odd parity). The receiver counts the number of 1s in the received frame and compares it with the parity bit. If they do not match, an error is detected. Parity check can only detect single bit errors.
+  - Checksum: The sender divides the data into fixed-sized segments and adds them using 1’s complement arithmetic to get the sum. It then complements the sum to get the checksum and sends it along with the data segments. The receiver adds the received segments and the checksum using 1’s complement arithmetic and complements the result. If the result is not zero, an error is detected. Checksum can detect multiple bit errors but not burst errors.
+  - Cyclic redundancy check (CRC): The sender treats the data as a polynomial and divides it by a fixed polynomial (called generator polynomial) using binary arithmetic to get the remainder. It then appends the remainder to the data and sends the resulting codeword. The receiver divides the received codeword by the same generator polynomial and checks the remainder. If the remainder is not zero, an error is detected. CRC can detect burst errors as well as multiple bit errors.
+- There are two main techniques for error correction: forward error correction (FEC) and automatic repeat request (ARQ).
+  - Forward error correction (FEC): The sender adds enough check bits to the data frames to enable the receiver to correct the errors without requesting retransmission. FEC is suitable for noisy channels where retransmission is costly or impractical.
+  - Automatic repeat request (ARQ): The sender adds some check bits to the data frames to enable the receiver to detect the errors and request retransmission if needed. ARQ is suitable for reliable channels where retransmission is feasible and efficient.
+- A key concept in error control is the Hamming distance, which is the number of bit flips needed to change one codeword into another. The Hamming distance of a coding scheme is the minimum Hamming distance between any pair of valid codewords.
+  - For error detection, a coding scheme of distance d+1 can detect up to d errors in a codeword.
+  - For error correction, a coding scheme of distance 2d+1 can correct up to d errors in a codeword by mapping it to the closest valid codeword.

@@ -1,0 +1,27 @@
+### Network management in application layer
+
+- Network management is the process of configuring, monitoring, and managing the performance of a network, as well as the platform that IT and NetOps teams use to complete these ongoing tasks.
+- The application layer is the topmost layer in the Open System Interconnection (OSI) model, which provides services directly for application processes and allows users to interact with other software applications.
+- The application layer is also an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communication network, such as HTTP, FTP, SMTP, DNS, etc.
+- Network management in application layer involves the following functions  :
+  - Data from User <=> Application layer <=> Data from Presentation Layer
+  - Providing various network services, such as email, file transfer, directory services, network resources, etc.
+  - Identifying communication partners and synchronizing communication
+  - Handling issues such as network transparency, resource allocation, etc.
+  - Collecting data from network devices and endpoints using protocols such as SNMP or streaming telemetry
+  - Providing insights into the health, security, and performance of the network
+  - Controlling and optimizing network devices and traffic using automation, analytics, and machine learning
+- The benefits of network management in application layer are:
+  - Improving user experience and satisfaction
+  - Enhancing network reliability and availability
+  - Reducing network costs and complexity
+  - Increasing network agility and scalability
+  - Supporting network innovation and transformation
+- A mnemonic to remember the functions of network management in application layer is **DIP CHIC**:
+  - **D**ata from User <=> Application layer <=> Data from Presentation Layer
+  - **I**dentifying communication partners and synchronizing communication
+  - **P**roviding various network services
+  - **C**ollecting data from network devices and endpoints
+  - **H**andling issues such as network transparency, resource allocation, etc.
+  - **I**nsights into the health, security, and performance of the network
+  - **C**ontrolling and optimizing network devices and traffic

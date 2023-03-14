@@ -1,0 +1,16 @@
+### Coding for the notes of the Unit 5 - Programming the Arduino in the subject of Internet of Things
+
+- The Internet of Things (IoT) is a network of physical things that connect to the Internet and exchange data with each other or with other services.
+- Arduino is a popular platform for building IoT devices, as it is easy to use, inexpensive, and compatible with various sensors and actuators.
+- Arduino can be programmed using C++ language and Arduino IDE software, which provides a simple and user-friendly environment for writing and uploading code to the Arduino board.
+- Arduino can connect to the Internet using different methods, such as WiFi, Ethernet, Bluetooth, ZigBee, LoRa, or cellular networks. Each method has its own advantages and disadvantages, depending on the application and the environment.
+- Arduino can also communicate with other devices or services using various protocols, such as HTTP, HTTPS, MQTT, Modbus, or ASIP. These protocols enable Arduino to send or receive data, commands, or notifications over the Internet.
+- Arduino can be used for various IoT applications, such as controlling devices via smartphone or PC, monitoring sensors or devices via smartphone or PC, sending sensor data to a database or a cloud platform, receiving notifications via email, SMS, phone call, or push notification, interacting with smart speakers, or working as a gateway between other devices and the Internet.
+- To make a simple IoT device using Arduino, one needs to have the following components: an Arduino board, a sensor or an actuator, a WiFi or Ethernet module, a power supply, and some wires and resistors. The steps are as follows:
+
+  1. Connect the sensor or the actuator to the Arduino board using the appropriate pins and wires. For example, if using a button and an LED, connect the button to pin 2 and the LED to pin 13, and use resistors to limit the current.
+  2. Connect the WiFi or Ethernet module to the Arduino board using the appropriate pins and wires. For example, if using an ESP8266 WiFi module, connect the RX pin of the module to pin 10 and the TX pin of the module to pin 11 of the Arduino board, and use a voltage divider to reduce the voltage from 5V to 3.3V.
+  3. Connect the Arduino board to the power supply using a USB cable or a battery.
+  4. Open the Arduino IDE software and write the code for the Arduino board. The code should include the following parts: the libraries for the WiFi or Ethernet module, the sensor or the actuator, and the protocol; the setup function, which initializes the WiFi or Ethernet connection, the sensor or the actuator, and the protocol; and the loop function, which reads the sensor data or the button state, and sends or receives data, commands, or notifications over the Internet.
+  5. Upload the code to the Arduino board using the upload button on the Arduino IDE software.
+  6. Test the IoT device by pressing the button or changing the sensor value, and observing the LED or the actuator state, or the data or the notification on the smartphone or the PC.

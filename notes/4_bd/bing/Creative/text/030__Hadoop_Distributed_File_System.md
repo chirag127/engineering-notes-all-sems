@@ -1,0 +1,9 @@
+#### Hadoop Distributed File System
+
+- Hadoop Distributed File System (HDFS) is a distributed file system that runs on commodity hardware and provides high-performance access to large data sets across scalable Hadoop clusters .
+- HDFS is one of the core components of Apache Hadoop, along with MapReduce and YARN . HDFS is designed for batch processing rather than interactive use, and supports streaming access to data with relaxed POSIX requirements.
+- HDFS has a master-slave architecture, where a single NameNode manages the file system namespace and regulates access to files by clients, and multiple DataNodes store and retrieve data blocks from local disks as instructed by the NameNode .
+- HDFS achieves high fault-tolerance by replicating data blocks across multiple DataNodes, and automatically recovering from failures. The default replication factor is three, but it can be changed per file or per cluster .
+- HDFS also supports data locality, which means moving computation to the data instead of the other way around. This reduces network congestion and improves performance. HDFS provides APIs for applications to access data and move computation to DataNodes .
+- HDFS supports large files, typically in the range of gigabytes to terabytes. It splits files into fixed-size blocks (default 64 MB) and distributes them across the cluster. HDFS also supports a small number of concurrent writers and a large number of concurrent readers.
+- HDFS provides a command-line interface (FS shell) and a web-based user interface (DFSAdmin) for users to interact with the file system. HDFS also supports snapshots, which are point-in-time images of the file system that can be used for backup or disaster recovery .

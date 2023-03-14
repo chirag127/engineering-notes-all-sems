@@ -1,0 +1,25 @@
+### Transformation-based tagging for the notes of the Unit 2 - WORD LEVEL ANALYSIS in the subject of Natural Language Processing
+
+- Transformation-based tagging is a rule-based algorithm for automatic tagging of part-of-speech (POS) to the given text  .
+- It is also called Brill tagging, after its inventor Eric Brill .
+- It is a form of supervised learning, which aims to minimize error by using annotated training data .
+- It is a transformation-based process, in the sense that a tag is assigned to each word and changed using a set of predefined rules .
+- The general idea is very simple: guess the tag of each word, then go back and fix the mistakes.
+- The algorithm consists of two phases: initialization and transformation .
+- Initialization: assign the most frequent tag for each known word, or a default tag (such as noun) for each unknown word .
+- Transformation: apply a set of rules that correct the tagging errors based on the context .
+- The rules are of the form: tag1 → tag2 IF Condition, where the Condition tests the preceding and/or following word tokens, or their tags .
+- For example, a rule could be: IN → NN IF WDPREVTAG DT AND WORD while, which means change the tag of a word from IN (preposition) to NN (noun) if the preceding word's tag is DT (determiner) and the word itself is "while" .
+- The rules are learned from the training data by using an error-driven approach .
+- The algorithm starts with an empty rule set and iteratively adds the rule that reduces the most errors on the training data .
+- The rules are applied in the order they are learned, and the process stops when no more rules can be added or a threshold is reached .
+- The advantages of transformation-based tagging are:
+  - It is fast and efficient, as it only requires a single pass over the text.
+  - It produces a small and interpretable model, as it only stores a list of rules.
+  - It can capture linguistic knowledge in a readable form, as the rules are based on linguistic features.
+  - It can handle unknown words by using default tags and rules.
+- The disadvantages of transformation-based tagging are:
+  - It relies on the quality and quantity of the training data, as it learns the rules from the data.
+  - It may overfit the training data, as it adds rules until no more errors can be reduced.
+  - It may produce conflicting or redundant rules, as it does not check the consistency or optimality of the rule set.
+  - It may miss some contextual information, as it only considers a limited window of words or tags.

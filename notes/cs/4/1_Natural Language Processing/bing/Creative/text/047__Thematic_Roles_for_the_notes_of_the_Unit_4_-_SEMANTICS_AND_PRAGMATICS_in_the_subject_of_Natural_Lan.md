@@ -1,0 +1,40 @@
+### Thematic Roles
+
+- Thematic roles are the semantic relationships between a verb and its arguments (the noun phrases that appear with the verb).
+- Thematic roles describe the role or function of each argument in relation to the verb.
+- For example, in the sentence "Alice gave Bob a book", the verb "gave" has three arguments: Alice, Bob, and a book. The thematic roles of these arguments are:
+  - Alice is the **agent**, the entity that intentionally performs the action of the verb.
+  - Bob is the **recipient**, the entity that receives the action or object of the verb.
+  - A book is the **theme**, the entity that is directly involved or affected by the action of the verb.
+- Thematic roles are also known as **theta roles** or **semantic roles**.
+- Thematic roles are important for natural language processing because they help to capture the meaning of sentences and resolve ambiguities.
+- For example, in the sentence "The lion chased the zebra", the thematic roles of the arguments are:
+  - The lion is the **agent**, the entity that initiates and carries out the action of the verb.
+  - The zebra is the **patient**, the entity that undergoes the action or is affected by the verb.
+- If we swap the arguments, the sentence becomes "The zebra chased the lion", which has a different meaning. The thematic roles of the arguments are now:
+  - The zebra is the **agent**, the entity that initiates and carries out the action of the verb.
+  - The lion is the **patient**, the entity that undergoes the action or is affected by the verb.
+- Thematic roles can also help to disambiguate sentences that have the same syntactic structure but different meanings. For example, in the sentence "She saw the man with the telescope", the prepositional phrase "with the telescope" can be attached to either the verb "saw" or the noun "man". The thematic roles of the arguments can help to determine the intended meaning. If the phrase is attached to the verb, the meaning is that she used the telescope to see the man, and the thematic roles are:
+  - She is the **experiencer**, the entity that perceives or feels something expressed by the verb.
+  - The man is the **theme**, the entity that is perceived or felt by the verb.
+  - The telescope is the **instrument**, the entity that is used to perform the action of the verb.
+- If the phrase is attached to the noun, the meaning is that she saw the man who had the telescope, and the thematic roles are:
+  - She is the **experiencer**, the entity that perceives or feels something expressed by the verb.
+  - The man is the **theme**, the entity that is perceived or felt by the verb.
+  - The telescope is the **modifier**, the entity that modifies or describes the noun.
+- Different verbs can assign different thematic roles to their arguments, depending on their meaning and usage. For example, the verb "buy" can assign the following thematic roles:
+  - The buyer is the **agent**, the entity that performs the action of the verb.
+  - The seller is the **source**, the entity from which the action or object of the verb originates.
+  - The item is the **theme**, the entity that is directly involved or affected by the action of the verb.
+  - The price is the **measure**, the entity that quantifies or measures the action or object of the verb.
+- The verb "sell" can assign the following thematic roles:
+  - The seller is the **agent**, the entity that performs the action of the verb.
+  - The buyer is the **goal**, the entity to which the action or object of the verb is directed.
+  - The item is the **theme**, the entity that is directly involved or affected by the action of the verb.
+  - The price is the **measure**, the entity that quantifies or measures the action or object of the verb.
+- There is no definitive or universal list of thematic roles, as different theories and applications may use different names and definitions for them. However, some of the most common thematic roles are:
+  - **Agent**: the entity that intentionally performs the action of the verb.
+  - **Patient**: the entity that undergoes the action or is affected by the verb.
+  - **Experiencer**: the entity that perceives or feels something expressed by the verb.
+  - **Theme**: the entity that is directly involved or affected by the action of the verb.
+  - **Instrument

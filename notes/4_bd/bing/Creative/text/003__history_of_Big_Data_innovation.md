@@ -1,0 +1,24 @@
+### History of Big Data Innovation
+
+- Big data is a term that refers to a large set of data that is almost impossible to manage and process using traditional business intelligence tools.
+- The origins of big data can be traced back to the ancient times, when humans used tally sticks, abacuses, libraries and mechanical computers to store and analyze data.
+- The modern history of big data began in the 17th century, when John Graunt introduced statistical data analysis with the bubonic plague in England.
+- In the 19th and 20th centuries, the invention of punch cards, magnetic tapes, digital storage, the internet and other technologies enabled the collection and processing of massive amounts of data .
+- In the 21st century, big data has become a key driver of innovation and growth in various fields, such as business, science, health, education, government and social media.
+- Some of the milestones and challenges of big data in the 21st century include:
+  - In 2005, Roger Mougalas from O'Reilly Media coined the term big data for the first time.
+  - In 2006, Google published a paper on MapReduce, a framework for processing large data sets in parallel.
+  - In 2008, the Large Hadron Collider (LHC) generated 15 petabytes of data per year, making it one of the largest data producers in the world.
+  - In 2009, the U.S. government launched Data.gov, a portal for accessing public data sets.
+  - In 2010, Facebook reached 2.5 billion pieces of content and 500 terabytes of data per day.
+  - In 2011, IBM Watson, a cognitive computing system, won the Jeopardy! game show by analyzing natural language and accessing vast amounts of data.
+  - In 2012, the Obama campaign used big data analytics to target voters and donors, winning the presidential election.
+  - In 2013, the term "data scientist" was declared the sexiest job of the 21st century by Harvard Business Review.
+  - In 2014, the Ebola outbreak in West Africa highlighted the need for big data to improve public health and disease surveillance.
+  - In 2015, the United Nations adopted the 2030 Agenda for Sustainable Development, which included 17 goals and 169 targets that rely on big data for monitoring and evaluation.
+  - In 2016, the European Union adopted the General Data Protection Regulation (GDPR), a set of rules that protect the privacy and security of personal data in the digital age.
+  - In 2017, AlphaGo, a computer program developed by Google DeepMind, defeated the world champion of Go, a complex board game, by using deep learning and big data.
+  - In 2018, the Cambridge Analytica scandal exposed the misuse of big data and social media for political manipulation and influence.
+  - In 2019, the International Data Corporation (IDC) estimated that the global datasphere would grow from 33 zettabytes in 2018 to 175 zettabytes by 2025.
+  - In 2020, the COVID-19 pandemic demonstrated the importance and challenges of big data for tracking, testing, tracing and treating the virus.
+  - In 2021, the World Economic Forum launched the Global Data Alliance, a cross-sector initiative to foster data collaboration and innovation for the common good.

@@ -1,0 +1,12 @@
+### QoS in Ad Hoc Networks
+
+- Quality of Service (QoS) is the performance level of service offered by a network to the user. The goal of QoS is to achieve a more deterministic network behavior so that the information carried by the network can be better delivered and the resources can be better utilized.
+- QoS is essential for ad hoc networks, which are characterized by a set of mobile nodes communicating using wireless channels. Ad hoc networks face several challenges such as node mobility, limited computation power, wireless link characteristics, and interference from non-neighboring nodes, which affect the QoS metrics on each link and the end-to-end route.
+- The QoS requirements arise at the application layer in the form of restrictions on values of certain QoS metrics. The most commonly studied QoS metrics are bandwidth, delay, jitter, packet loss, and energy consumption.
+- QoS routing is the process of finding a route that satisfies the QoS requirements of a given flow. QoS routing in ad hoc networks is very challenging due to the dynamic and unpredictable nature of the network topology and the lack of centralized control.
+- There exist several methods of QoS routing in ad hoc networks, which can be classified into three broad categories: proactive, reactive, and hybrid. Proactive QoS routing protocols maintain QoS information about the network topology at every node and update it periodically. Reactive QoS routing protocols discover QoS routes on demand when a source node has data to send. Hybrid QoS routing protocols combine the benefits of both proactive and reactive approaches.
+- Some examples of QoS routing protocols in ad hoc networks are:
+
+  - A-OLSR: A novel heuristic that enhances the connectivity of nodes and establishes more stable routes as compared to the standard OLSR protocol. It provides lower delay, reduces energy consumption, and achieves higher throughput without introducing any additional routing overhead.
+  - INSIGNIA: A signaling protocol that supports adaptive QoS for real-time applications. It uses in-band signaling to reserve and release resources along the route. It also adapts to the network dynamics by adjusting the QoS parameters dynamically.
+  - QoS-AODV: An extension of the AODV protocol that incorporates QoS metrics such as bandwidth and delay in the route discovery process. It uses a distributed algorithm to estimate the available bandwidth and delay on each link. It also uses a route maintenance mechanism to handle route failures and QoS violations.

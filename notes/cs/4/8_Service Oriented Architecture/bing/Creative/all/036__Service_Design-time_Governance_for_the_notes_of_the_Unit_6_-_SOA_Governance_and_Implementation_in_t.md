@@ -1,0 +1,21 @@
+### Service Design-time Governance for the notes of the Unit 6 - SOA Governance and Implementation in the subject of Service Oriented Architecture
+
+- Service design-time governance refers to the management of the lifecycle of services before they are deployed and made available for use in a service-oriented architecture (SOA).
+- Service design-time governance involves the following steps or activities :
+  - Identifying business processes that can provide value through service orientation and align with the business and IT goals of the organization.
+  - Decomposing the business processes into reusable and composable services based on service-oriented principles of design, such as loose coupling, abstraction, standardization, and autonomy.
+  - Defining service contracts and policies that specify the functional and non-functional requirements, capabilities, and constraints of the services.
+  - Developing and testing the services using appropriate tools and methodologies that support service discovery, composition, and quality assurance.
+  - Publishing and registering the services in a service registry or repository that provides a centralized and consistent view of the available services and their metadata.
+  - Reviewing and approving the services for deployment and consumption by authorized consumers.
+- Service design-time governance aims to achieve the following benefits :
+  - Increase the reuse and interoperability of services across different domains and applications.
+  - Reduce the complexity and cost of service development and maintenance by enforcing standards and best practices.
+  - Enhance the quality and reliability of services by ensuring compliance with service contracts and policies.
+  - Improve the visibility and traceability of services and their dependencies by maintaining a comprehensive and accurate service inventory.
+  - Facilitate the alignment and collaboration of business and IT stakeholders by establishing a common language and understanding of services and their value.
+- Service design-time governance requires the following enablers  :
+  - A service design methodology that provides a systematic and consistent approach to service identification, analysis, design, and development.
+  - A service governance framework that defines the roles, responsibilities, processes, and metrics for service governance activities and outcomes.
+  - A service governance infrastructure that consists of tools and technologies that support service governance functions, such as service registry, service repository, service development environment, service testing environment, service policy management, and service reporting.
+- A possible mnemonic to remember the steps of service design-time governance is **ID3PR** (pronounced as "I did three PR"), which stands for **I**dentify, **D**ecompose, **D**efine, **D**evelop, **P**ublish, and **R**eview.

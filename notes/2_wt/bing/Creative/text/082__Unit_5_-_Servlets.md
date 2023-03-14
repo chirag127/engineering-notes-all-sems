@@ -1,0 +1,26 @@
+## Unit 5 - Servlets
+
+- Servlets are Java programs that run on a web server and handle HTTP requests and responses.
+- Servlets can generate dynamic web pages, process user input, interact with databases, and perform other web-related tasks.
+- Servlets are robust, scalable, and platform-independent because they use the Java language and the Java Servlet API.
+- Servlets are more efficient and convenient than CGI (Common Gateway Interface) scripts, which are external programs that run on a web server and communicate with the web browser.
+- Servlets have the following advantages over CGI scripts:
+  - Servlets are thread-based, which means they can handle multiple requests concurrently using a single process. CGI scripts are process-based, which means they create a new process for each request, which consumes more resources and time.
+  - Servlets are platform-independent, which means they can run on any web server that supports the Java Servlet API. CGI scripts are platform-dependent, which means they have to be written in different languages for different web servers.
+  - Servlets can access the entire Java API, which provides a rich set of libraries and tools for web development. CGI scripts have limited access to the features and functionalities of the web server and the operating system.
+- Servlets have a life cycle that consists of the following phases:
+  - Initialization: The web server loads the servlet class and invokes its init() method, which performs any initialization tasks for the servlet. This phase occurs only once when the servlet is first loaded or when the web server is started.
+  - Service: The web server invokes the service() method of the servlet for each request it receives. The service() method determines the HTTP method (GET, POST, etc.) of the request and calls the corresponding doXXX() method (doGet(), doPost(), etc.) of the servlet. This phase occurs repeatedly for each request until the servlet is unloaded.
+  - Destruction: The web server invokes the destroy() method of the servlet when it is no longer needed or when the web server is shut down. The destroy() method performs any cleanup tasks for the servlet. This phase occurs only once when the servlet is unloaded or when the web server is stopped.
+- Servlets can be implemented by extending one of the following classes from the Java Servlet API:
+  - Servlet: This is an interface that defines the basic methods that all servlets must implement, such as init(), service(), and destroy(). This interface is rarely used directly, as it requires the programmer to handle low-level details of the HTTP protocol.
+  - GenericServlet: This is an abstract class that implements the Servlet interface and provides some convenience methods for servlets, such as getServletConfig(), getServletContext(), and log(). This class is suitable for servlets that do not use the HTTP protocol, such as FTP or SMTP servlets.
+  - HttpServlet: This is an abstract class that extends the GenericServlet class and provides additional methods for servlets that use the HTTP protocol, such as doGet(), doPost(), doPut(), doDelete(), etc. This class is the most commonly used for creating web-based servlets.
+- Servlets can be configured and deployed using a deployment descriptor, which is an XML file named web.xml that contains information about the servlets and other web components in a web application. The deployment descriptor specifies the following elements for each servlet:
+  - servlet-name: This is a unique name that identifies the servlet in the web application.
+  - servlet-class: This is the fully qualified name of the servlet class that implements the servlet.
+  - init-param: This is an optional element that defines initialization parameters for the servlet. Each parameter has a name and a value.
+  - load-on-startup: This is an optional element that specifies the order in which the servlets are loaded when the web server is started. A lower value indicates a higher priority.
+  - url-pattern: This is an element that defines the URL patterns that are mapped to the servlet. A URL pattern can be an exact match, a prefix match, or a suffix match.
+- Servlets can communicate with other servlets or web components in the same or different web applications using the following methods:
+  - RequestDispatcher: This is an interface that allows a servlet to forward a request to another resource (servlet, JSP, HTML, etc.) or to include the output of another resource in its response. The RequestDispatcher object can be obtained from the ServletRequest or ServletContext object using the getRequestDispatcher() or getNamedDispatcher() method, respectively. The forward() method of the RequestDispatcher object transfers the control to the target resource, while the include() method invokes the target resource and returns the control to

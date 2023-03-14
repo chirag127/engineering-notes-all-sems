@@ -1,0 +1,9 @@
+### Design Primitives for Blockchain
+
+- Design primitives are the basic building blocks of a blockchain system that define its structure, functionality, and performance.
+- According to , there are three main design primitives for blockchain: transaction design, consensus design, and block design.
+- Transaction design refers to how the data and operations are encoded and executed on the blockchain. It includes aspects such as data format, scripting language, validation rules, and smart contracts.
+- Consensus design refers to how the nodes in the network agree on the state and order of the transactions and blocks. It includes aspects such as consensus protocol, incentive mechanism, and fault tolerance.
+- Block design refers to how the transactions are grouped and linked together to form a chain of blocks. It includes aspects such as block size, block interval, block header, and block reward.
+- Different blockchain systems may use different design primitives to achieve different goals and trade-offs. For example, Bitcoin uses a simple transaction design with a limited scripting language, a proof-of-work consensus design with a reward-based incentive mechanism, and a fixed block design with a 10-minute block interval. Ethereum uses a more expressive transaction design with a Turing-complete scripting language, a proof-of-work consensus design with a fee-based incentive mechanism, and a variable block design with a 15-second block interval.
+- Design primitives can also be combined and customized to create new blockchain systems with novel features and applications. For example, Hyperledger Fabric uses a modular transaction design with a pluggable smart contract engine, a pluggable consensus design with various options such as RAFT and PBFT, and a flexible block design with a configurable block size and interval.

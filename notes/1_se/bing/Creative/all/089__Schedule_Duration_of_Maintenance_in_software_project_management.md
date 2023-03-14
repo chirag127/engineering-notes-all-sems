@@ -1,0 +1,19 @@
+### Schedule/Duration of Maintenance in software project management
+
+- Software maintenance is the process of modifying and updating a software system after its delivery to correct faults, improve performance, adapt to changing environments, or enhance features.
+- Software maintenance is an important and inevitable activity in the software development life cycle. It consumes a significant amount of time, effort, and resources, and affects the quality, reliability, and usability of the software system.
+- Software maintenance can be classified into four types: corrective, adaptive, perfective, and preventive. Each type has different objectives, costs, and benefits, and requires different scheduling and duration strategies.
+- Corrective maintenance is the process of fixing errors or bugs that are discovered during the operation of the software system. It is usually reactive, unplanned, and urgent, and has a high priority and a short duration. Corrective maintenance can be scheduled as soon as possible after the error is reported, or as part of a regular patch release cycle. The duration of corrective maintenance depends on the severity, complexity, and frequency of the error, and the availability of resources and tools.
+- Adaptive maintenance is the process of modifying the software system to cope with changes in the external environment, such as hardware, operating system, platform, standards, or user requirements. It is usually proactive, planned, and less urgent, and has a medium priority and a medium duration. Adaptive maintenance can be scheduled as part of a major or minor release cycle, or as a separate project. The duration of adaptive maintenance depends on the scope, impact, and feasibility of the change, and the compatibility and stability of the software system.
+- Perfective maintenance is the process of improving the functionality, performance, usability, or quality of the software system, without changing its original specifications. It is usually proactive, planned, and optional, and has a low priority and a long duration. Perfective maintenance can be scheduled as part of a major or minor release cycle, or as a separate project. The duration of perfective maintenance depends on the value, complexity, and risk of the improvement, and the user feedback and satisfaction.
+- Preventive maintenance is the process of modifying the software system to prevent potential errors or problems from occurring in the future. It is usually proactive, planned, and optional, and has a low priority and a long duration. Preventive maintenance can be scheduled as part of a major or minor release cycle, or as a separate project. The duration of preventive maintenance depends on the reliability, maintainability, and security of the software system, and the best practices and standards.
+
+- A possible mnemonic to remember the four types of software maintenance is CAPT: Corrective, Adaptive, Perfective, and Preventive.
+- A possible learning trick to remember the priority and duration of each type of software maintenance is to use a matrix, where the horizontal axis represents the priority (high to low) and the vertical axis represents the duration (short to long). For example:
+
+| High Priority | Low Priority |
+| ------------- | ------------ |
+| Corrective (Short) | Perfective (Long) |
+| Adaptive (Medium) | Preventive (Long) |
+
+- The schedule and duration of software maintenance can be influenced by various factors, such as the software development methodology, the software maintenance model, the software maintenance policy, the software maintenance plan, the software maintenance metrics, the software maintenance tools, and the software maintenance team. These factors should be considered and aligned with the software maintenance objectives, costs, and benefits, to ensure the optimal and efficient delivery of software maintenance.

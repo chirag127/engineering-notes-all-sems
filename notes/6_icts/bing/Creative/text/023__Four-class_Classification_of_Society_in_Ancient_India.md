@@ -1,0 +1,12 @@
+#### Four-class Classification of Society in Ancient India
+
+- The four-class classification of society in ancient India is also known as the **varna** system, which means "colour" in Sanskrit. 
+- The varna system is based on the idea that different social classes emerged from the body parts of a primeval person (purusha) at the time of creation.  
+- The four classes are:
+  - **Brahmins**: the priests, scholars, and teachers, who emerged from the mouth of purusha. They are the highest and most respected class, and their main duty is to study and teach the Vedas, the sacred scriptures of Hinduism.  
+  - **Kshatriyas**: the warriors, kings, and administrators, who emerged from the arms of purusha. They are the second highest class, and their main duty is to protect and govern the society.  
+  - **Vaishyas**: the cattle herders, agriculturists, artisans, and merchants, who emerged from the thighs of purusha. They are the third highest class, and their main duty is to produce and trade goods and services.  
+  - **Shudras**: the laborers and service providers, who emerged from the feet of purusha. They are the lowest and most oppressed class, and their main duty is to serve the other three classes.  
+- The four classes are also known as the "twice-born" (dvija) classes, because they undergo a ceremony of spiritual rebirth (upanayana) that initiates them into manhood and allows them to study the Vedas. The Shudras are excluded from this ceremony and are considered "once-born" (ekaja). 
+- The varna system is not the same as the caste system, which is a more complex and rigid form of social hierarchy that developed later in Indian history. The caste system divides the society into thousands of subgroups (jatis) based on birth, occupation, and region. The caste system also includes a fifth class, the "untouchables" (dalits), who are considered outside the varna system and face severe discrimination and violence. 
+- The varna system is a social model that reflects the ideal functions and duties of different classes in society, rather than their actual status or power. In reality, the varna system was often influenced by political, economic, and religious factors that created inequalities and conflicts among the classes.
