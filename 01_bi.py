@@ -49,7 +49,7 @@ def do_content_type_topics(m, j, ps_file, topic, content_type):
     myprint(file_name)
 
     file_path = (
-        f"notes/bing/{ps_file.replace('.txt','')}/{m}/{content_type}/{file_name}"
+        f"notes/{ps_file.replace('.txt','')}/bing/{m}/{content_type}/{file_name}"
     )
 
     # replace the first folder p_s from the path
