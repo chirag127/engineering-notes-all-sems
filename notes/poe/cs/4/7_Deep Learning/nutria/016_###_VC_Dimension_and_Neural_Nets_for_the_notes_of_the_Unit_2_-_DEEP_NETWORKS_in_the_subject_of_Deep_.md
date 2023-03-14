@@ -1,0 +1,8 @@
+
+### VC Dimension and Neural Nets for the Notes of the Unit 2 - DEEP NETWORKS in the Subject of Deep Learning
+
+* **VC Dimension**: VC Dimension is a measure of the complexity of a learning model. It is the maximum number of points that can be separated by a learning model with some given set of parameters. In other words, it is the maximum number of points that can be classified correctly by a learning model.
+
+* **Neural Nets**: Neural Nets are a type of machine learning algorithm that is inspired by the structure and function of the human brain. Neural Nets are composed of neurons, which are connected to one another in a network. Each neuron is responsible for a specific task, and the connections between neurons allow the network to learn from the data it receives. Neural Nets are used for a variety of applications, including image recognition, natural language processing, and speech recognition.
+
+* **Mnemonics and Learning Tricks**: One of the best ways to remember the concepts behind VC Dimension and Neural Nets is to use mnemonics. For example, the acronym “VCN” can be used to remember the three components of a Neural Net: “V” for the VC Dimension, “C” for the connections between neurons, and “N” for the neurons themselves. Additionally, it can be helpful to think of a Neural Net as a network of roads, with the neurons being the intersections and the connections being the roads themselves.

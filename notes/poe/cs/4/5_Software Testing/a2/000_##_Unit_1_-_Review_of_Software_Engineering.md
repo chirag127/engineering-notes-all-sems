@@ -1,0 +1,12 @@
+ Here is the content in markdown format for ## Unit 1 - Review of Software Engineering:
+
+## Unit 1 - Review of Software Engineering
+
+- Software engineering is the systematic approach to the development, operation, maintenance, and retirement of computer software. It involves analyzing user needs, designing the software, implementing the design, testing, deployment, and user feedback.
+- The software life cycle typically includes stages like requirements analysis, design, programming, testing, deployment, and maintenance. Each stage has its own tasks and deliverables. For example, the requirements analysis stage involves eliciting requirements from users, analyzing and documenting them. The design stage involves designing the software architecture/components. The programming stage involves implementing the design in a programming language.
+- Some important software engineering processes/methods include waterfall model, spiral model, agile methodology, extreme programming, etc. They differ in the number of stages, sequence of stages, and rigidity vs flexibility. Waterfall is a rigid sequential approach while agile is an iterative approach incorporating user feedback at each stage.
+- Important software engineering tools include CASE tools, software requirement specifications, software architecture/design diagrams like UML diagrams, version control systems, debugging and testing tools, IDEs, etc. They aid in software modeling, documentation, programming, change management, testing, and debugging.
+- Software engineering requires knowledge of programming languages, software architecture/design, software testing techniques, project management, and relevant tools/technologies. It involves technical as well as teamwork and communication skills to elicit requirements, understand issues, and collaborate with others.
+- Some key challenges/issues in software engineering include handling changing requirements, cost/time overruns, software bugs/defects, software security, software compatibility/interoperability, lack of skilled engineers, etc. We need robust processes and tools and skilled engineers to build high-quality, robust, and secure software on time and within budget.
+
+[Include additional points/examples/diagrams etc. if helpful for learning]

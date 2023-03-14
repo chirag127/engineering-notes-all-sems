@@ -1,0 +1,12 @@
+
+### Quantum Information for the notes of Unit 1 - Fundamental Concepts in the subject of Quantum Computing
+
+Quantum information is a rapidly growing field of research that combines the study of quantum mechanics with information theory. It is concerned with the manipulation, storage, and transmission of information using quantum systems. Quantum information is a relatively new field and is still in its infancy, but it has already produced a number of exciting results.
+
+At its core, quantum information is concerned with the manipulation of quantum systems in order to process, store, and transmit information. This is done by exploiting the unique properties of quantum systems, such as entanglement, superposition, and interference. By manipulating these properties, it is possible to encode, process, and transmit information in ways that are not possible with classical systems.
+
+In terms of the fundamentals of quantum information, the first step is to understand the basics of quantum mechanics. This includes the principles of superposition, entanglement, and interference. It is also important to understand the basics of information theory, such as Shannon's theorem and the concept of entropy. Once these concepts are understood, it is possible to move on to more advanced topics, such as quantum algorithms, quantum teleportation, and quantum cryptography.
+
+In terms of learning tricks and mnemonics, one of the best ways to remember the fundamentals of quantum information is to think of it as a “quantum puzzle”. This means that each piece of the puzzle can be thought of as a component of quantum information, and when all the pieces are put together, they form a complete picture. Additionally, it can be helpful to think of the principles of quantum mechanics as a set of “quantum rules” that must be followed in order to manipulate and process information.
+
+Finally, it is important to remember that quantum information is still a relatively new field and is constantly evolving. As such, it is important to stay up to date on the latest developments in the field. Additionally, it is important to remember that quantum information is a complex field and requires a great deal of study in order to understand its fundamentals.

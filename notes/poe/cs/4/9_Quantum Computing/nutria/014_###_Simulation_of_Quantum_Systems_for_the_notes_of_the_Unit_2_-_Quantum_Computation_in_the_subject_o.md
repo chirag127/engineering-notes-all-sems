@@ -1,0 +1,9 @@
+
+### Simulation of Quantum Systems for the Notes of Unit 2 - Quantum Computation in the Subject of Quantum Computing
+
+1. Quantum systems can be simulated using a variety of methods, including quantum Monte Carlo, variational Monte Carlo, and quantum circuit simulation. 
+2. Quantum Monte Carlo (QMC) is a powerful method of simulating quantum systems. It is based on the concept of sampling from a probability distribution, and makes use of the fact that the quantum wavefunction of a system can be written as a sum of products of single-particle wavefunctions. 
+3. Variational Monte Carlo (VMC) is a method of simulating quantum systems that is based on the variational principle. It makes use of a trial wavefunction that is parametrized by a set of variational parameters. The variational parameters are then varied until the energy of the system is minimized. 
+4. Quantum circuit simulation is a method of simulating quantum systems using a quantum circuit. It makes use of the fact that a quantum system can be represented as a set of unitary gates, and can be simulated by applying the appropriate gate sequence to the initial state of the system. 
+5. In addition to the methods mentioned above, there are a number of other techniques that can be used to simulate quantum systems, such as the path integral Monte Carlo method and the density matrix renormalization group method. 
+6. Mnemonics and learning tricks for the simulation of quantum systems can be helpful when studying for exams. For example, the acronym "VMCQ" can be used to remember the three main methods of quantum simulation: Variational Monte Carlo (VMC), Quantum Monte Carlo (QMC), and Quantum Circuit Simulation (QCS). Additionally, the use of diagrams and visualizations can be helpful in understanding the concepts of quantum simulation.
