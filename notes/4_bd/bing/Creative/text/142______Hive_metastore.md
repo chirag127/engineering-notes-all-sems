@@ -1,0 +1,6 @@
+#### Hive metastore
+
+- Hive metastore is a service that stores metadata related to Apache Hive and other services, such as Impala, Spark, etc. in a backend relational database, such as MySQL or PostgreSQL .
+- Metadata includes information about the tables, partitions, columns, data types, locations, owners, privileges, etc. of the data stored in Hive or other services .
+- Hive metastore provides a central repository of metadata that can be accessed by clients using the metastore service API. This enables analytics at a massive scale and allows querying data from different sources and formats.
+- Hive metastore can be configured in different modes, such as embedded, local, or remote. Embedded mode runs the metastore service and the database in the same JVM as Hive. Local mode runs the metastore service in a separate JVM, but the database is still local to the Hive server. Remote mode runs the metastore service and the database on a separate server, which can be accessed by multiple clients.

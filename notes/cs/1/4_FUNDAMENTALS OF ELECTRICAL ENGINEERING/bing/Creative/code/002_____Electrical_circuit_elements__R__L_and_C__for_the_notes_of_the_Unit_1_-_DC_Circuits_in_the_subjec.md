@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of electrical circuit elements (R, L and C) for the unit 1 - DC circuits in the subject of fundamentals of electrical engineering.
+
+### Electrical circuit elements (R, L and C)
+
+- An electrical circuit is a network of interconnected components that can carry electric current and perform some useful function.
+- The basic components of an electrical circuit are **resistors**, **inductors** and **capacitors**. They are also called **passive elements** because they do not generate or amplify electric signals.
+- A **resistor** is a device that opposes the flow of electric current and converts electrical energy into heat. The resistance of a resistor is measured in ohms (Ω) and depends on its material, shape and temperature. The symbol for a resistor is a zigzag line.
+- A **resistor** obeys **Ohm's law**, which states that the voltage across a resistor is proportional to the current through it. The constant of proportionality is the resistance. Mathematically, V = IR, where V is the voltage, I is the current and R is the resistance.
+- A **resistor** can be used to limit the current, divide the voltage, or dissipate power in a circuit. A resistor can also be used to create a voltage drop or a potential difference across its terminals.
+- An **inductor** is a device that stores energy in a magnetic field when electric current flows through it. The inductance of an inductor is measured in henries (H) and depends on its shape, size and number of turns of wire. The symbol for an inductor is a coil of wire.
+- An **inductor** opposes the change of current in a circuit and induces a voltage that is proportional to the rate of change of current. The constant of proportionality is the inductance. Mathematically, V = L(dI/dt), where V is the voltage, L is the inductance and dI/dt is the rate of change of current.
+- An **inductor** can be used to filter out high-frequency signals, store energy, or create a magnetic field in a circuit. An inductor can also be used to create a time delay or a phase shift in a circuit.
+- A **capacitor** is a device that stores energy in an electric field when a voltage is applied across its terminals. The capacitance of a capacitor is measured in farads (F) and depends on its shape, size and the type of material between its plates. The symbol for a capacitor is two parallel plates.
+- A **capacitor** opposes the change of voltage in a circuit and allows the current to flow that is proportional to the rate of change of voltage. The constant of proportionality is the capacitance. Mathematically, I = C(dV/dt), where I is the current, C is the capacitance and dV/dt is the rate of change of voltage.
+- A **capacitor** can be used to filter out low-frequency signals, store energy, or create an electric field in a circuit. A capacitor can also be used to create a time delay or a phase shift in a circuit.

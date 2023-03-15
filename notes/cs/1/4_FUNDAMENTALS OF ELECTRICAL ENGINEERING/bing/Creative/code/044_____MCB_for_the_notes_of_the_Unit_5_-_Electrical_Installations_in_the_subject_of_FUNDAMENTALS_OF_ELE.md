@@ -1,0 +1,24 @@
+### MCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- MCB stands for **Miniature Circuit Breaker**, which is an automatically operated electrical switch that protects electrical circuits from overload and short-circuit .
+- MCBs are widely used in low-voltage applications such as household lighting and industrial solar panels.
+- MCBs can make or break the electrical circuit under normal as well as abnormal conditions.
+- MCBs have the following advantages over fuses:
+  - They are more sensitive and faster to react to overcurrent or short-circuit.
+  - They can be easily reset after tripping, without replacing any component.
+  - They can indicate the faulty zone or circuit by a visible flag or lever.
+  - They can be used as a switch to manually turn on or off the circuit.
+- MCBs are classified into three types based on their tripping characteristics:
+  - Type B: These MCBs trip between 3 and 5 times the full load current and are suitable for resistive or small inductive loads, such as lighting circuits, domestic appliances, etc.
+  - Type C: These MCBs trip between 5 and 10 times the full load current and are suitable for moderate inductive loads, such as motors, transformers, etc.
+  - Type D: These MCBs trip between 10 and 20 times the full load current and are suitable for highly inductive loads, such as welding machines, X-ray machines, etc.
+- MCBs are also rated by their current carrying capacity, voltage rating, breaking capacity, and number of poles.
+- The current carrying capacity of an MCB is the maximum current that it can carry without tripping. It is usually expressed in amperes (A) and ranges from 0.5 A to 125 A.
+- The voltage rating of an MCB is the maximum voltage that it can withstand without breaking down. It is usually expressed in volts (V) and ranges from 230 V to 690 V.
+- The breaking capacity of an MCB is the maximum current that it can interrupt without damage. It is usually expressed in kiloamperes (kA) and ranges from 3 kA to 25 kA.
+- The number of poles of an MCB is the number of independent circuits that it can control. It can be single-pole, double-pole, triple-pole, or four-pole.
+- The steps to install an MCB are as follows :
+  - Step 1: Identify the spot to install the MCB. Turn off the power supply to the electric panel and look for an unused location to accommodate the MCB. If the unused location has a knockout plate, remove it before the installation.
+  - Step 2: Place the MCB in the panel. Select the correct MCB that is allowed to be installed in the panel and place it next to an existing MCB. Align the clips on the back of the MCB with the slots on the panel and snap it into place .
+  - Step 3: Connect the circuit wiring to the MCB. Loosen the screw over the MCB's connection terminal, insert the white neutral wire and the black hot wire into the appropriate terminal locations, then tighten the screw until snug.
+  - Step 4: Label the MCB and test it. Write the name of the circuit that the MCB controls on the panel cover or a label sticker and attach it to the MCB. Turn on the power supply and test the MCB by switching it on and off.

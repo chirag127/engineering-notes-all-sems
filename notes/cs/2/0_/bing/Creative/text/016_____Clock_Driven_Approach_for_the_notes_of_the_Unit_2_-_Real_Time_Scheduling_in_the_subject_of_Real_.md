@@ -1,0 +1,22 @@
+### Clock Driven Approach
+
+- Clock-driven scheduling is also called as time-driven scheduling.
+- When scheduling is clock-driven, decisions are made at specific time instants on what jobs should execute when.
+- Typically in clock-driven scheduling system, all the parameters of hard real-time jobs are fixed and known.
+- The system executes tasks according to a predetermined schedule.
+- This can be useful for real-time systems that require predictable and deterministic behaviour.
+- A periodic static schedule is called a cyclic schedule .
+- This approach to scheduling hard real-time jobs is called the clock-driven or time-driven approach because each scheduling decision is made at a specific time, independent of events, such as job releases and completions, in the system .
+- A clock-driven system never exhibits the anomalous timing behavior of priority-driven systems .
+- A clock-driven scheduler can be implemented by using a table-driven approach or a cyclic executive approach.
+- A table-driven approach uses a table that specifies the start time and the task to be executed for each scheduling point.
+- A cyclic executive approach uses a loop that executes a sequence of tasks and waits for the next clock interrupt.
+- A clock-driven scheduler can handle periodic tasks and aperiodic tasks with deadlines.
+- A clock-driven scheduler can also handle sporadic tasks by using a slack stealing technique.
+- A slack stealing technique allows a sporadic task to execute in the idle time or the slack time of the schedule.
+- A clock-driven scheduler can handle overload situations by using a graceful degradation technique.
+- A graceful degradation technique allows the system to drop some tasks or reduce the quality of service of some tasks when the workload exceeds the capacity.
+- A clock-driven scheduler can handle mode changes by using a mode transition technique.
+- A mode transition technique allows the system to switch from one schedule to another when the system mode changes.
+- A clock-driven scheduler can handle resource sharing by using a resource reservation technique.
+- A resource reservation technique allows the system to allocate a fixed amount of time for each resource in each schedule cycle.

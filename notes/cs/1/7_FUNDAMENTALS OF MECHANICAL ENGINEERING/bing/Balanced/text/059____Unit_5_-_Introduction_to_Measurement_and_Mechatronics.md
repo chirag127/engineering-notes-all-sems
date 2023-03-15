@@ -1,0 +1,25 @@
+## Unit 5 - Introduction to Measurement and Mechatronics
+
+- Measurement is the process of obtaining quantitative information about a physical phenomenon or property using a device or instrument.
+- Mechatronics is the interdisciplinary field of engineering that combines mechanical, electrical, electronic, and computer engineering to design and control systems that involve sensors, actuators, and feedback.
+- The main components of a mechatronic system are:
+  - Input: the source of information or signal that triggers the system to perform a desired function.
+  - Sensor: the device that converts a physical quantity (such as temperature, pressure, displacement, etc.) into an electrical signal that can be processed by the system.
+  - Signal conditioning: the circuitry that modifies, filters, amplifies, or converts the sensor signal to make it suitable for further processing or output.
+  - Processor: the device that performs computations, logic operations, or data manipulation on the input signal or data to generate an output signal or data.
+  - Output: the result of the system's function or action that affects the environment or another system.
+  - Actuator: the device that converts an electrical signal into a physical action or movement (such as a motor, solenoid, relay, etc.).
+  - Feedback: the mechanism that provides information about the system's output or performance to the input or processor for error correction or optimization.
+- The advantages of mechatronic systems are:
+  - Higher efficiency and performance
+  - Greater flexibility and adaptability
+  - Reduced size and weight
+  - Lower cost and maintenance
+  - Improved reliability and safety
+- The applications of mechatronic systems are:
+  - Robotics and automation
+  - Automotive and aerospace
+  - Biomedical and healthcare
+  - Manufacturing and industrial
+  - Consumer and entertainment
+  - Environmental and energy

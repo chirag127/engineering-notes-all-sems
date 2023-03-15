@@ -1,0 +1,7 @@
+### Double integral
+
+- A double integral is a way to integrate over a two-dimensional area. It can be used to find the volume under a surface, the area of a region, the average value of a function, and other applications.
+- A double integral of a function of two variables, say f(x,y), over a region R in the xy-plane, is denoted by ∬Rf(x,y)dA, where dA is a small element of area in R.
+- A double integral can be evaluated by iterated integration, which means integrating first with respect to one variable, then with respect to the other variable. For example, if R is a rectangle with sides parallel to the axes, then ∬Rf(x,y)dA = ∫ab∫cdf(x,y)dydx, where a and b are the x-limits and c and d are the y-limits of R.
+- A double integral can also be evaluated by changing the order of integration, which means swapping the inner and outer integrals. For example, ∫ab∫cdf(x,y)dydx = ∫cd∫abf(x,y)dxdy, as long as f(x,y) is continuous on R.
+- A double integral can also be evaluated by changing the variables, which means using a transformation to map the region R to a new region S in the uv-plane, and then integrating over S. For example, if x = g(u,v) and y = h(u,v) are the transformation functions, then ∬Rf(x,y)dA = ∬Sf(g(u,v),h(u,v))|J|dudv, where J is the Jacobian determinant of the transformation, given by J = ∂(x,y)/∂(u,v) = ∂x/∂u∂y/∂v - ∂x/∂v∂y/∂u.

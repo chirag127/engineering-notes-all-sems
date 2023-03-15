@@ -1,0 +1,27 @@
+## Unit 1 - Matrices
+
+- A matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns.
+- The dimensions of a matrix are given by the number of rows and the number of columns, denoted by m × n.
+- The elements of a matrix are usually enclosed by square brackets [ ] or parentheses ( ).
+- A matrix with only one row is called a row matrix or a row vector.
+- A matrix with only one column is called a column matrix or a column vector.
+- A matrix with the same number of rows and columns is called a square matrix.
+- The main diagonal of a square matrix is the diagonal that runs from the top left corner to the bottom right corner. It consists of the elements a11, a22, a33, ..., ann.
+- A diagonal matrix is a square matrix in which all the elements outside the main diagonal are zero.
+- An identity matrix is a diagonal matrix in which all the elements on the main diagonal are one. It is denoted by I or In, where n is the order of the matrix.
+- A zero matrix is a matrix in which all the elements are zero. It is denoted by O or Om×n, where m and n are the dimensions of the matrix.
+- Two matrices are equal if they have the same dimensions and the corresponding elements are equal.
+- Matrix addition and subtraction are performed by adding or subtracting the corresponding elements of the matrices. The matrices must have the same dimensions to be added or subtracted.
+- Matrix multiplication is performed by multiplying the rows of the first matrix by the columns of the second matrix and adding the products. The number of columns of the first matrix must be equal to the number of rows of the second matrix to be multiplied. The result is a matrix with the same number of rows as the first matrix and the same number of columns as the second matrix.
+- Matrix multiplication is not commutative, that is, AB ≠ BA in general, where A and B are matrices.
+- Matrix multiplication is associative, that is, (AB)C = A(BC) for any matrices A, B, and C that can be multiplied.
+- Matrix multiplication is distributive, that is, A(B + C) = AB + AC and (A + B)C = AC + BC for any matrices A, B, and C that can be added and multiplied.
+- A scalar is a single number that can be multiplied by a matrix. Scalar multiplication is performed by multiplying each element of the matrix by the scalar. Scalar multiplication is commutative, associative, and distributive.
+- The transpose of a matrix is obtained by interchanging the rows and columns of the matrix. It is denoted by A^T or A'.
+- The properties of transpose are:
+  - (A^T)^T = A
+  - (A + B)^T = A^T + B^T
+  - (AB)^T = B^T A^T
+  - (kA)^T = kA^T, where k is a scalar
+- A symmetric matrix is a square matrix that is equal to its transpose, that is, A = A^T.
+- A skew-symmetric matrix is a square matrix that is equal to the negative of its transpose, that is, A = -A^T.

@@ -1,0 +1,21 @@
+### Cables and Bus-bars
+
+- Cables and bus-bars are two methods of transporting electrical energy in distribution systems.
+- Cables are insulated conductors that are usually made of copper or aluminum and can be run in trays or conduit. Cables can carry low, medium or high voltage currents and are flexible and easy to install. Cables can also be shielded or armored to protect them from external interference or damage.
+- Bus-bars are metal bars that are usually made of copper or aluminum and are used to carry large amounts of current. Bus-bars are not insulated and are enclosed in a metal casing or duct. Bus-bars can carry low or medium voltage currents and are rigid and compact. Bus-bars can also be segmented or jointed to allow for expansion or modification.
+- The advantages of cables over bus-bars are:
+  - Cables can carry higher voltages and currents than bus-bars.
+  - Cables can be routed in any direction and can bend around obstacles.
+  - Cables can be easily terminated and connected to different devices or loads.
+  - Cables can be easily replaced or repaired if damaged.
+- The advantages of bus-bars over cables are:
+  - Bus-bars use less space and material than cables.
+  - Bus-bars have lower resistance and impedance than cables, resulting in lower power losses and voltage drops.
+  - Bus-bars have higher mechanical strength and stability than cables.
+  - Bus-bars have lower maintenance and installation costs than cables.
+- The selection of cables or bus-bars depends on several factors, such as:
+  - The voltage and current ratings of the system.
+  - The available space and layout of the system.
+  - The environmental conditions and safety requirements of the system.
+  - The flexibility and modifiability of the system.
+  - The cost and reliability of the system.

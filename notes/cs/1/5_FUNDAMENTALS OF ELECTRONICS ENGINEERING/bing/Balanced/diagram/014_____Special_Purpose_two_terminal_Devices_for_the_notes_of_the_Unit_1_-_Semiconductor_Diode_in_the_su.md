@@ -1,0 +1,14 @@
+### Special Purpose Two Terminal Devices
+
+Two terminal devices are electronic components that have only two terminals, such as anode and cathode, and allow current to flow only in one direction. The most common two terminal device is the diode, which is a semiconductor device that has a p-n junction and a non-linear current-voltage characteristic. Diodes are widely used in various applications, such as rectification, switching, voltage regulation, signal modulation, etc.
+
+However, there are some special types of diodes that have different structures and functions than the ordinary diodes. These are called special purpose two terminal devices, and they include:
+
+- **Tunnel diode**: This is a diode that has a very thin p-n junction and a negative resistance region in its current-voltage characteristic. This means that the current decreases as the voltage increases in a certain range. Tunnel diodes can operate at very high frequencies and are used in oscillators, amplifiers, and logic circuits.
+- **Photo diode**: This is a diode that generates a current when exposed to light. Photo diodes have a reverse-biased p-n junction and a large surface area to capture more photons. Photo diodes are used in optical communication, sensors, detectors, and solar cells.
+- **Varactor diode**: This is a diode that has a variable capacitance depending on the applied voltage. Varactor diodes have a reverse-biased p-n junction and a thin depletion layer that acts as a dielectric. Varactor diodes are used in tuning circuits, frequency modulators, and filters.
+- **Schottky diode**: This is a diode that has a metal-semiconductor junction instead of a p-n junction. Schottky diodes have a lower forward voltage drop and a faster switching speed than ordinary diodes. Schottky diodes are used in power supplies, logic circuits, and radio frequency applications.
+- **Light emitting diode (LED)**: This is a diode that emits light when a forward current flows through it. LEDs have a forward-biased p-n junction and a semiconductor material that emits photons of different colors depending on the band gap. LEDs are used in displays, indicators, lighting, and optical communication.
+- **Silicon controlled rectifier (SCR)**: This is a device that has four layers of alternating p-type and n-type semiconductors, forming two p-n junctions and three terminals: anode, cathode, and gate. SCR is a switch that can be turned on by a gate signal and turned off by reducing the anode current. SCR is used in power control, motor drives, and protection circuits.
+
+These are some of the special purpose two terminal devices that have different characteristics and applications than the ordinary diodes. They are important components in electronic circuits and systems.

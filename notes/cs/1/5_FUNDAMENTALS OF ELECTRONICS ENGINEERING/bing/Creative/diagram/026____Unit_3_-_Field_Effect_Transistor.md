@@ -1,0 +1,10 @@
+## Unit 3 - Field Effect Transistor
+
+- A field effect transistor (FET) is a type of transistor that uses an electric field to control the flow of current in a semiconductor.
+- FETs have three terminals: source, gate, and drain. The source is where the current enters, the gate is where the electric field is applied, and the drain is where the current leaves.
+- FETs can be classified into two main types: junction FETs (JFETs) and metal-oxide-semiconductor FETs (MOSFETs).
+- JFETs are made of a single type of semiconductor (either n-type or p-type) with two regions of the opposite type (called the gate) forming a pn junction on either side of the channel. The gate voltage controls the width of the channel and thus the current flow.
+- MOSFETs are made of a semiconductor (usually silicon) with a thin layer of metal oxide (usually silicon dioxide) on top, forming the gate. The gate is insulated from the channel by the oxide layer, and the voltage applied to the gate creates an electric field that attracts or repels charge carriers in the channel, depending on the type of MOSFET.
+- MOSFETs can be further divided into two subtypes: enhancement-mode and depletion-mode. Enhancement-mode MOSFETs have a normally off channel that is turned on by applying a positive (for n-channel) or negative (for p-channel) gate voltage. Depletion-mode MOSFETs have a normally on channel that is turned off by applying a negative (for n-channel) or positive (for p-channel) gate voltage.
+- FETs are widely used in electronic circuits for amplification, switching, logic, and memory functions. They have several advantages over bipolar junction transistors (BJTs), such as higher input impedance, lower power consumption, faster switching speed, and better scalability .
+- FETs also have some disadvantages, such as lower output impedance, higher noise, and susceptibility to damage by electrostatic discharge .

@@ -1,0 +1,25 @@
+## Unit 1 - Introduction to Mechanics
+
+- Mechanics is the branch of physics that deals with the motion and interaction of objects under the influence of forces.
+- Mechanics can be divided into two main subfields: kinematics and dynamics.
+- Kinematics is the study of how objects move without considering the causes of their motion.
+- Dynamics is the study of how forces affect the motion of objects.
+- Mechanics can also be classified into two types: classical and modern.
+- Classical mechanics is based on the laws of motion formulated by Isaac Newton in the 17th century. It describes the motion of objects that are relatively large and slow compared to the speed of light.
+- Modern mechanics is based on the theories of relativity and quantum mechanics developed in the 20th century. It describes the motion of objects that are very small or very fast compared to the speed of light.
+- Some of the concepts and principles that are common to both classical and modern mechanics are:
+  - Scalar and vector quantities
+  - Position, displacement, distance and speed
+  - Velocity and acceleration
+  - Force and mass
+  - Momentum and impulse
+  - Work and energy
+  - Power and efficiency
+  - Conservation laws
+  - Rotational motion and angular quantities
+  - Torque and moment of inertia
+  - Circular motion and centripetal force
+  - Gravitation and orbital motion
+  - Simple harmonic motion and oscillations
+  - Waves and sound
+  - Fluid mechanics and buoyancy

@@ -1,0 +1,8 @@
+### Second order linear differential equations with variable coefficients
+
+- A second order linear differential equation is an equation of the form `a2(x)y'' + a1(x)y' + a0(x)y = r(x)`, where `a2(x)`, `a1(x)`, `a0(x)`, and `r(x)` are functions of the independent variable `x` and `a2(x)` is not identically zero .
+- A second order linear differential equation is called homogeneous if `r(x) = 0` for all `x`, and nonhomogeneous otherwise.
+- A second order linear differential equation is called constant coefficient if `a2(x)`, `a1(x)`, and `a0(x)` are constants, and variable coefficient if they are not constants .
+- The general solution of a homogeneous second order linear differential equation with variable coefficients is given by `y = c1y1 + c2y2`, where `c1` and `c2` are arbitrary constants and `y1` and `y2` are two linearly independent solutions of the equation .
+- The general solution of a nonhomogeneous second order linear differential equation with variable coefficients is given by `y = yh + yp`, where `yh` is the general solution of the corresponding homogeneous equation and `yp` is a particular solution of the nonhomogeneous equation .
+- To find the general solution of a second order linear differential equation with variable coefficients, one can use various methods, such as the method of undetermined coefficients, the method of variation of parameters, the method of power series, or the method of Laplace transform  .

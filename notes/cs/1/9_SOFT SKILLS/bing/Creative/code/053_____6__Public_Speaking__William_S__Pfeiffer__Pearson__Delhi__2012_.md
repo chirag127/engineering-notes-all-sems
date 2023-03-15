@@ -1,0 +1,23 @@
+### 6. Public Speaking, William S. Pfeiffer, Pearson, Delhi, 2012.
+
+- Public speaking is the process of communicating a message to an audience, either in person or through a media channel.
+- Public speaking can have various purposes, such as informing, persuading, entertaining, or motivating the listeners.
+- Public speaking requires careful planning, preparation, and practice to achieve the desired outcome and to overcome the fear of speaking in public.
+- Public speaking involves the following steps:
+  - Analyzing the audience and the occasion
+  - Selecting and narrowing the topic
+  - Determining the purpose and the thesis of the speech
+  - Researching and supporting the main points
+  - Organizing the speech into an introduction, a body, and a conclusion
+  - Outlining the speech and creating visual aids
+  - Rehearsing and delivering the speech
+  - Evaluating the speech and receiving feedback
+- Public speaking also requires the use of effective verbal and nonverbal communication skills, such as:
+  - Choosing appropriate language and style
+  - Using clear and concise sentences and transitions
+  - Modulating the voice and articulating the words
+  - Maintaining eye contact and facial expressions
+  - Using gestures and body movements
+  - Controlling the nervousness and anxiety
+  - Adapting to the feedback and the situation
+- Public speaking can be improved by learning from the examples and tips of successful speakers, by observing and critiquing other speakers, and by practicing and refining the skills regularly.

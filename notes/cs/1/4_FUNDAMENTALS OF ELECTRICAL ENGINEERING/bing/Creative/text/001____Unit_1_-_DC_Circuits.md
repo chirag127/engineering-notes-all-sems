@@ -1,0 +1,11 @@
+## Unit 1 - DC Circuits
+
+- A DC circuit is a circuit that consists of direct current (DC) sources, such as batteries, and resistors, capacitors, inductors, switches, and other components that obey Ohm's law and Kirchhoff's laws.
+- Ohm's law states that the voltage across a resistor is proportional to the current through it, and the constant of proportionality is the resistance: V = IR.
+- Kirchhoff's current law (KCL) states that the algebraic sum of the currents entering and leaving a node (a point where two or more branches meet) is zero: ∑I = 0.
+- Kirchhoff's voltage law (KVL) states that the algebraic sum of the voltages around any closed loop (a path that starts and ends at the same node) is zero: ∑V = 0.
+- A series circuit is a circuit where the components are connected end to end, so that there is only one path for the current to flow. The current is the same in every component, and the total voltage is the sum of the voltages across each component: V<sub>total</sub> = V<sub>1</sub> + V<sub>2</sub> + ... + V<sub>n</sub>.
+- A parallel circuit is a circuit where the components are connected across the same pair of nodes, so that there are multiple paths for the current to flow. The voltage is the same across every component, and the total current is the sum of the currents through each component: I<sub>total</sub> = I<sub>1</sub> + I<sub>2</sub> + ... + I<sub>n</sub>.
+- A series-parallel circuit is a circuit that combines both series and parallel connections of components. To analyze such a circuit, one can use the methods of simplification, such as combining resistors in series or parallel, or applying the voltage divider or current divider rules.
+- A voltage divider is a series circuit that divides the input voltage into fractions across the resistors. The voltage across any resistor is given by the formula: V<sub>R</sub> = V<sub>in</sub> * (R / R<sub>total</sub>), where R<sub>total</sub> is the total resistance of the series circuit.
+- A current divider is a parallel circuit that divides the input current into fractions through the resistors. The current through any resistor is given by the formula: I<sub>R</sub> = I<sub>in</sub> * (R<sub>total</sub> / R), where R<sub>total</sub> is the equivalent resistance of the parallel circuit.

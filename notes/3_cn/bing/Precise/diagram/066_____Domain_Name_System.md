@@ -1,0 +1,22 @@
+### Domain Name System
+
+- The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
+- It associates various information with domain names assigned to each of the participating entities.
+- Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols.
+- By providing a worldwide, distributed directory service, the Domain Name System is an essential component of the functionality of the Internet.
+- The Domain Name System is maintained by a distributed database system, which uses the client-server model.
+- The nodes of this database are the name servers.
+- Each domain has at least one authoritative DNS server that publishes information about that domain and the name servers of any domains subordinate to it.
+- The top of the hierarchy is served by the root name servers, the servers to query when looking up (resolving) a top-level domain name.
+- The Domain Name System also specifies the technical functionality of the database service that is at its core.
+- It defines the DNS protocol, a detailed specification of the data structures and data communication exchanges used in the DNS, as part of the Internet Protocol Suite.
+- The Internet maintains two principal namespaces, the domain name hierarchy and the Internet Protocol (IP) address spaces.
+- The Domain Name System maintains the domain name hierarchy and provides translation services between it and the address spaces.
+- Internet name servers and a communication protocol implement the Domain Name System.
+- A DNS name server is a server that stores the DNS records for a domain; a DNS name server responds with answers to queries against its database.
+- The most common types of records stored in the DNS database are for Start of Authority (SOA), IP addresses (A and AAAA), SMTP mail exchangers (MX), name servers (NS), pointers for reverse DNS lookups (PTR), and domain name aliases (CNAME).
+- Although not intended to be a general purpose database, DNS can store records for other types of data for either automatic lookups, such as DNSSEC records, or for human queries such as responsible person (RP) records.
+- As a general purpose database, the DNS has also been used in combating unsolicited email (spam) by storing a real-time blackhole list.
+- The DNS database is traditionally stored in a structured zone file.
+- An often-used analogy to explain the Domain Name System is that it serves as the phone book for the Internet by translating human-friendly computer hostnames into IP addresses.
+- For example, the domain name www.example.com translates to the addresses 93.184.216.34 (IPv4) and 2606:2800:220:1:248:1893:25c8:1946 (IPv6).

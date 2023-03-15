@@ -1,0 +1,10 @@
+# Concept of Measurement
+
+- Measurement is the process of **associating numbers with physical quantities and phenomena** .
+- Measurement is fundamental to the sciences, engineering, construction, and other technical fields, as well as to almost all everyday activities.
+- Measurement involves a **comparison** with some known quantity of the same kind, called a **unit** .
+- Measurement also involves a **definition** of the quantity that is to be measured, and the **method** of measuring it .
+- Measurement can be **direct** or **indirect**. Direct measurement means that the object or quantity to be measured is accessible for comparison with the unit. Indirect measurement means that the object or quantity to be measured is not accessible, and it is converted or “transduced” into an analogous measurement signal .
+- Measurement can be **absolute** or **relative**. Absolute measurement means that the measurement is independent of the location, time, or condition of the measurement. Relative measurement means that the measurement is dependent on some reference or standard.
+- Measurement can be **accurate** or **precise**. Accuracy means that the measurement is close to the true value of the quantity. Precision means that the measurement is consistent and has a small variation or uncertainty.
+- Measurement can be **nominal**, **ordinal**, **interval**, or **ratio**. These are the **levels of measurement** that indicate the type of information that the measurement provides. Nominal measurement means that the measurement is only used to name or label the objects or categories. Ordinal measurement means that the measurement is used to rank or order the objects or categories. Interval measurement means that the measurement is used to measure the difference or distance between the objects or categories, and it has a meaningful zero point. Ratio measurement means that the measurement is used to measure the proportion or ratio between the objects or categories, and it has an absolute zero point.

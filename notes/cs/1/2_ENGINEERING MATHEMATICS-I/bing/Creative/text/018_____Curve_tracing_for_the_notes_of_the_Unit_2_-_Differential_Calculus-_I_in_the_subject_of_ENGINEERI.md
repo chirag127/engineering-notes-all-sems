@@ -1,0 +1,51 @@
+### Curve tracing for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+
+- Curve tracing is the method of studying the properties and shape of a curve whose equation is given in cartesian, polar or parametric form.
+- Curve tracing helps to sketch the graph of a function using the information obtained from its derivatives, such as extrema, concavity, inflection points, asymptotes, etc .
+- Curve tracing can also be used to find the traces of surfaces, which are the curves that represent the intersection of the surface and a plane.
+- Some steps involved in curve tracing are:
+  - Find the domain and range of the function.
+  - Find the x- and y-intercepts of the function, if any.
+  - Find the first and second derivatives of the function and their critical points.
+  - Use the first derivative test to determine the intervals of increase and decrease of the function and the local extrema, if any.
+  - Use the second derivative test to determine the intervals of concavity and convexity of the function and the points of inflection, if any.
+  - Find the horizontal, vertical and oblique asymptotes of the function, if any.
+  - Plot the points and sketch the curve using the information obtained from the previous steps.
+- Some examples of curve tracing are:
+  - y = x^3 - 3x + 2
+    - Domain: (-∞, ∞)
+    - Range: (-∞, ∞)
+    - x-intercepts: (-2, 0), (1, 0)
+    - y-intercept: (0, 2)
+    - y' = 3x^2 - 3
+      - Critical points: x = -1, x = 1
+      - First derivative test: y' > 0 for x < -1 and x > 1, y' < 0 for -1 < x < 1
+      - Local maxima: (-1, 4)
+      - Local minima: (1, 0)
+    - y'' = 6x
+      - Critical points: x = 0
+      - Second derivative test: y'' > 0 for x > 0, y'' < 0 for x < 0
+      - Point of inflection: (0, 2)
+      - Concave up: x > 0
+      - Concave down: x < 0
+    - Asymptotes: None
+    - Sketch:
+
+![y = x^3 - 3x + 2](https://www.mathportal.org/calculus/graphing/images/graphing-1.png)
+
+  - y = 1 / (x^2 - 1)
+    - Domain: (-∞, -1) ∪ (-1, 1) ∪ (1, ∞)
+    - Range: (-∞, 0) ∪ (0, ∞)
+    - x-intercepts: None
+    - y-intercept: (0, -1)
+    - y' = -2x / (x^2 - 1)^2
+      - Critical points: x = 0
+      - First derivative test: y' > 0 for -1 < x < 0 and 0 < x < 1, y' < 0 for x < -1 and x > 1
+      - Local maxima: None
+      - Local minima: None
+    - y'' = 2(3x^2 - 1) / (x^2 - 1)^3
+      - Critical points: x = ±1/√3
+      - Second derivative test: y'' > 0 for -1 < x < -1/√3 and 1/√3 < x < 1, y'' < 0 for -1/√3 < x < 1/√3 and x < -1 and x > 1
+      - Points of inflection: (-1/√3, -3/2), (1/√3, -3/2)
+      - Concave up: -1 < x < -1/√3 and 1/√3 < x < 1
+      - Concave down: -1/√3 < x < 1/√3 and x < -1 and x

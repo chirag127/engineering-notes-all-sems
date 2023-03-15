@@ -1,0 +1,23 @@
+## Unit 4 - Operational Amplifiers
+
+- An operational amplifier (op-amp) is a high-gain, direct-coupled electronic circuit that amplifies the difference between two input voltages.
+- An op-amp has two input terminals: the inverting input (-) and the non-inverting input (+), and one output terminal.
+- An op-amp can be used in various configurations, such as inverting amplifier, non-inverting amplifier, summing amplifier, difference amplifier, integrator, differentiator, comparator, etc.
+- An op-amp can be modeled by an ideal op-amp and a few non-ideal parameters, such as input offset voltage, input bias current, input resistance, output resistance, finite gain, finite bandwidth, and slew rate.
+- An ideal op-amp has the following characteristics:
+  - Infinite open-loop gain
+  - Infinite input resistance
+  - Zero output resistance
+  - Zero input offset voltage
+  - Zero input bias current
+  - Infinite bandwidth
+  - Infinite slew rate
+- The open-loop gain of an op-amp is the ratio of the output voltage to the input voltage when no feedback is applied. It is usually very large (10^5 to 10^6) and varies with frequency.
+- The closed-loop gain of an op-amp is the ratio of the output voltage to the input voltage when feedback is applied. It is usually much smaller than the open-loop gain and depends on the feedback network.
+- Feedback is the process of feeding back a fraction of the output signal to the input of an op-amp. It can be positive (regenerative) or negative (degenerative).
+- Negative feedback reduces the gain, increases the bandwidth, improves the linearity, and reduces the distortion of an op-amp. It also makes the op-amp less sensitive to variations in temperature, power supply, and component values.
+- Positive feedback increases the gain, decreases the bandwidth, reduces the linearity, and increases the distortion of an op-amp. It also makes the op-amp more sensitive to variations in temperature, power supply, and component values.
+- The feedback factor of an op-amp is the ratio of the feedback voltage to the output voltage. It is usually expressed as a percentage or a fraction.
+- The feedback resistance of an op-amp is the resistance in the feedback network that determines the feedback factor.
+- The input resistance of an op-amp is the resistance seen by the input signal source. It is usually very high (10^6 to 10^12 ohms) for an ideal op-amp, but lower for a non-ideal op-amp.
+- The output resistance of an op-amp is the resistance seen by the load connected to the output terminal. It is usually very low (a few ohms) for an ideal op-amp, but higher for a non-ideal op-amp.

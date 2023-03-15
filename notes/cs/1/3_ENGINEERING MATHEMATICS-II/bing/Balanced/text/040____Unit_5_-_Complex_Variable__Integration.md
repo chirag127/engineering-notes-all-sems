@@ -1,0 +1,9 @@
+## Unit 5 - Complex Variable –Integration
+
+- Complex integration is the process of finding the value of a complex function along a curve or a contour in the complex plane.
+- The basic theorem of complex integration is the Cauchy-Goursat theorem, which states that if a function is analytic in a simply connected domain, then the integral of the function along any closed contour in that domain is zero.
+- The Cauchy-Goursat theorem can be extended to multiply connected domains using the concept of winding numbers, which measure how many times a contour winds around a point in the complex plane.
+- The Cauchy integral formula is a powerful result that relates the value of a function at a point to the integral of the function along a circle around that point. It also gives a formula for the derivatives of an analytic function in terms of the function itself.
+- The residue theorem is another important tool for complex integration, which allows us to evaluate integrals along closed contours by finding the residues of the function at its singularities. A residue is the coefficient of the term with power -1 in the Laurent series expansion of the function around a singularity.
+- The residue theorem can be used to compute real integrals that involve trigonometric, exponential, or rational functions, by converting them to complex integrals and applying the theorem.
+- The residue theorem can also be used to find the number of zeros and poles of a function inside a contour, by using the argument principle or Rouche's theorem. These theorems relate the change in the argument of the function along the contour to the difference between the number of zeros and poles inside the contour.

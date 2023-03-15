@@ -1,0 +1,26 @@
+### File Handling: File I/O Functions, Standard C Preprocessors, Defining and Calling Macros and Command-Line Arguments
+
+- File handling is the process of manipulating files in a computer system using a programming language such as C.
+- A file is a container in computer storage devices used for storing data.
+- File I/O functions are the functions that allow a program to perform input and output operations on files, such as opening, reading, writing and closing a file.
+- Some of the common file I/O functions in C are:
+  - `fopen()` - opens a file and returns a pointer to it.
+  - `fclose()` - closes a file and frees the resources associated with it.
+  - `fread()` - reads a specified number of bytes from a file and stores them in a buffer.
+  - `fwrite()` - writes a specified number of bytes from a buffer to a file.
+  - `fseek()` - moves the file position indicator to a specified location in a file.
+  - `ftell()` - returns the current position of the file position indicator in a file.
+  - `fprintf()` - writes formatted data to a file.
+  - `fscanf()` - reads formatted data from a file.
+- Standard C preprocessors are directives that instruct the compiler to perform certain tasks before compiling the source code, such as including header files, defining constants, or replacing macros.
+- A header file is a file that contains declarations of functions, variables, constants, or data types that can be used by other files in the program.
+- A header file can be included in a source file using the `#include` directive, which can be either:
+  - `#include <filename>` - for standard header files, such as `stdio.h` or `math.h`, that are located in the system directory.
+  - `#include "filename"` - for user-defined header files, such as `myheader.h`, that are located in the current directory or a specified path.
+- A constant is a fixed value that cannot be changed during the program execution, such as `#define PI 3.14`, which defines a constant named `PI` with the value `3.14`.
+- A macro is a symbolic name that represents a piece of code, such as `#define SQUARE(x) (x*x)`, which defines a macro named `SQUARE` that takes a parameter `x` and returns the square of `x`.
+- A macro can be called by using its name followed by the arguments in parentheses, such as `SQUARE(5)`, which will be replaced by `(5*5)` by the preprocessor.
+- Command-line arguments are the arguments that are passed to the program when it is executed from the command line, such as `./myprogram arg1 arg2 arg3`, which passes three arguments to the program named `myprogram`.
+- Command-line arguments can be accessed by the program using the parameters of the `main()` function, which are:
+  - `int argc` - the number of arguments passed to the program, including the program name.
+  - `char *argv[]` - an array of pointers to the arguments passed to the program, where `argv[0]` is the program name, `argv[1]` is the first argument, and so on.

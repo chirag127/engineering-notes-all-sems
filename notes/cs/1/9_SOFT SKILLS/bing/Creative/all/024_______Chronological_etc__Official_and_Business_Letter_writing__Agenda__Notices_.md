@@ -1,0 +1,21 @@
+# Chronological etc, Official and Business Letter writing, Agenda, Notices
+
+- Chronological etc is a type of resume format that lists the work experience and education of a person in reverse chronological order, starting from the most recent to the oldest. This format is suitable for people who have a consistent and stable work history, and who want to highlight their skills and achievements.
+- Official and business letter writing is a form of communication that follows certain conventions and standards of formality, tone, and layout. Official and business letters are usually written for a specific purpose, such as making an inquiry, requesting information, applying for a job, or making a complaint. Official and business letters typically include the following elements:
+  - The sender's address and date on the top right corner of the page.
+  - The recipient's name, title, and address on the left margin, below the sender's address.
+  - A salutation, such as "Dear Sir/Madam" or "To Whom It May Concern", followed by a colon or a comma.
+  - The body of the letter, divided into paragraphs, each with a clear and concise main idea and supporting details. The body should be polite, formal, and respectful, and avoid slang, jargon, or emotional language.
+  - A complimentary close, such as "Yours sincerely" or "Yours faithfully", followed by a comma and the sender's name and signature.
+  - Any enclosures or attachments, if applicable, indicated by the word "Enc." or "Encl." at the bottom of the letter.
+- An agenda is a list of items or topics that are to be discussed or accomplished in a meeting, conference, or event. An agenda helps to organize and structure the meeting, and to inform the participants of the objectives, expectations, and responsibilities. An agenda typically includes the following elements:
+  - The title of the meeting, the date, time, and location, and the name of the chairperson or facilitator.
+  - The list of attendees, and any apologies for absence or substitutions.
+  - The list of items or topics, in order of priority or sequence, with a brief description, a time allocation, and a person responsible for each item.
+  - Any special instructions, such as the need for preparation, participation, or voting.
+  - Any other relevant information, such as the agenda of the next meeting, or the contact details of the organizer.
+- A notice is a written announcement or information that is intended to inform or alert a specific audience about something important, such as an event, a change, a policy, or a deadline. A notice should be clear, concise, and accurate, and should include the following elements:
+  - The name of the organization, institution, or authority issuing the notice, and the date of issue.
+  - The title or headline of the notice, in bold or capital letters, that summarizes the main message or purpose of the notice.
+  - The body of the notice, in simple and direct language, that provides the essential details, such as the what, when, where, why, and how of the notice.
+  - The signature or name of the person or department responsible for the notice, and the contact details, if necessary.

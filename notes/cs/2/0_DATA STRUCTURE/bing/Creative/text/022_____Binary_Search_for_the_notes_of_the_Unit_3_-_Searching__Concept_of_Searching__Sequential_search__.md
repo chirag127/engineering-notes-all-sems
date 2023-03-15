@@ -1,0 +1,8 @@
+### Binary Search
+
+- Binary search is a searching algorithm that finds an element in a sorted array by repeatedly dividing the search interval in half.
+- Binary search works by comparing the target value to the middle element of the array. If they are equal, the search is successful and the index of the element is returned. If the target value is less than the middle element, the search continues in the lower half of the array. If the target value is greater than the middle element, the search continues in the upper half of the array.
+- Binary search has a time complexity of O(log n), where n is the number of elements in the array, because it halves the search space at each step.
+- Binary search requires that the array is sorted in ascending or descending order before applying the algorithm. If the array is not sorted, binary search may fail to find the element or return a wrong index.
+- Binary search can be implemented iteratively or recursively. The iterative version uses a loop and two variables to keep track of the lower and upper bounds of the search interval. The recursive version uses a function that calls itself with a smaller search interval until the base case is reached.
+- Binary search can be used to solve various problems, such as finding the first or last occurrence of an element in a sorted array, finding the smallest or largest element in a rotated sorted array, finding the number of occurrences of an element in a sorted array, finding the square root of a number, etc.

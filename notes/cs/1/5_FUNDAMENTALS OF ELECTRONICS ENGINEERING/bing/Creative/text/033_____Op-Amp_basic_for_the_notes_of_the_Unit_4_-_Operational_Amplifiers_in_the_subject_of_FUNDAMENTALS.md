@@ -1,0 +1,19 @@
+### Op-Amp Basics
+
+- An op-amp (operational amplifier) is a device that can amplify the difference between two input voltages and produce a single-ended output voltage .
+- An op-amp has two input terminals, labeled as V+ (non-inverting input) and V- (inverting input), and one output terminal, labeled as Vout  .
+- An op-amp also has two power supply terminals, labeled as Vs+ (positive supply) and Vs- (negative supply), which provide the maximum and minimum output voltage levels .
+- An op-amp can be modeled as a voltage-controlled voltage source (VCVS) with a very high open-loop gain (A), a very high input impedance (Zin), and a very low output impedance (Zout) .
+- The open-loop gain (A) of an op-amp is the ratio of the output voltage to the input voltage when no feedback is applied. It is typically very large, in the order of 10^5 to 10^6 .
+- The input impedance (Zin) of an op-amp is the resistance seen by the input source. It is typically very high, in the order of 10^6 to 10^12 ohms, which means that the op-amp draws very little current from the input source .
+- The output impedance (Zout) of an op-amp is the resistance seen by the load connected to the output. It is typically very low, in the order of 10 to 100 ohms, which means that the op-amp can drive a wide range of loads without significant voltage drop .
+- The ideal op-amp is a theoretical device that has infinite open-loop gain, infinite input impedance, zero output impedance, zero input offset voltage, zero input bias current, and infinite bandwidth .
+- The real op-amp is a practical device that has finite open-loop gain, finite input impedance, non-zero output impedance, non-zero input offset voltage, non-zero input bias current, and finite bandwidth .
+- The performance of an op-amp can be improved by applying negative feedback, which is a technique of connecting a portion of the output signal back to the inverting input. Negative feedback reduces the overall gain, but also increases the bandwidth, input impedance, and output impedance, and reduces the distortion, noise, and offset errors .
+- The closed-loop gain (Af) of an op-amp with negative feedback is the ratio of the output voltage to the input voltage when feedback is applied. It is typically much smaller than the open-loop gain, and depends on the feedback network .
+- The feedback network of an op-amp is usually composed of resistors, capacitors, or a combination of both, which determine the frequency response and the type of operation of the op-amp .
+- The common types of op-amp operations are inverting amplifier, non-inverting amplifier, summing amplifier, difference amplifier, integrator, differentiator, comparator, oscillator, filter, and buffer .
+- The inverting amplifier is an op-amp configuration that produces an output voltage that is proportional and opposite in polarity to the input voltage. The closed-loop gain is given by Af = -Rf/R1, where Rf is the feedback resistor and R1 is the input resistor .
+- The non-inverting amplifier is an op-amp configuration that produces an output voltage that is proportional and same in polarity to the input voltage. The closed-loop gain is given by Af = 1 + Rf/R1, where Rf is the feedback resistor and R1 is the input resistor .
+- The summing amplifier is an op-amp configuration that produces an output voltage that is proportional to the weighted sum of the input voltages. The closed-loop gain is given by Af = -Rf/Ri, where Rf is the feedback resistor and Ri is the input resistor for each input .
+- The difference amplifier is an op-amp configuration that produces an output voltage that is proportional to the difference of the

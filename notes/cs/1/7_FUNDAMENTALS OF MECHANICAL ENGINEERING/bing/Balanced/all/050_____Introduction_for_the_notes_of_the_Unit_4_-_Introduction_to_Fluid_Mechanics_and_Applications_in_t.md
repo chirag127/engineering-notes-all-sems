@@ -1,0 +1,22 @@
+# Introduction for the notes of the Unit 4 - Introduction to Fluid Mechanics and Applications in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Fluid mechanics is the branch of science that deals with the behavior of fluids (liquids and gases) at rest and in motion.
+- Fluid mechanics has a wide range of applications in engineering, such as aerodynamics, hydraulics, lubrication, blood flow, weather prediction, etc.
+- Fluid mechanics can be divided into two main subfields: fluid statics and fluid dynamics.
+- Fluid statics is the study of fluids at rest or in equilibrium. It involves the analysis of forces and pressures acting on fluid elements and bodies immersed in fluids.
+- Fluid dynamics is the study of fluids in motion. It involves the analysis of velocity, acceleration, pressure, density, temperature, and other properties of fluid flows.
+- Fluid dynamics can be further classified into two categories: incompressible and compressible flows.
+- Incompressible flows are those in which the density of the fluid remains constant or changes negligibly. Examples are water flow, air flow at low speeds, etc.
+- Compressible flows are those in which the density of the fluid changes significantly due to variations in pressure and temperature. Examples are air flow at high speeds, gas flow in pipes, etc.
+- Some of the fundamental concepts and principles of fluid mechanics are:
+  - Fluid properties: such as density, viscosity, surface tension, specific weight, specific gravity, etc.
+  - Fluid kinematics: the description of fluid motion without considering the forces causing it. It involves the concepts of streamlines, pathlines, streaklines, velocity field, acceleration field, etc.
+  - Fluid dynamics: the analysis of fluid motion by considering the forces causing it. It involves the concepts of pressure, shear stress, normal stress, momentum, energy, etc.
+  - Continuity equation: the principle of conservation of mass for a fluid flow. It states that the rate of change of mass within a control volume is equal to the net rate of mass flow across its boundary.
+  - Bernoulli's equation: the principle of conservation of energy for a steady, incompressible, inviscid, and irrotational flow along a streamline. It states that the sum of the pressure, kinetic energy, and potential energy per unit mass of the fluid is constant along the streamline.
+  - Euler's equation: the equation of motion for an inviscid flow. It states that the rate of change of momentum of a fluid element is equal to the net force acting on it.
+  - Navier-Stokes equation: the equation of motion for a viscous flow. It is a generalization of Euler's equation that includes the effects of viscosity and heat transfer.
+  - Reynolds number: a dimensionless parameter that characterizes the type of flow. It is defined as the ratio of inertial forces to viscous forces in the flow. It indicates whether the flow is laminar (smooth and orderly) or turbulent (chaotic and irregular).
+  - Boundary layer: the thin layer of fluid adjacent to a solid surface where the effects of viscosity are significant. It is characterized by a velocity gradient normal to the surface and a pressure gradient along the surface.
+  - Drag: the force exerted by a fluid on a body moving through it in the direction opposite to the motion. It is caused by the pressure difference and the shear stress on the surface of the body.
+  - Lift: the force exerted by a fluid on a body moving through it in the direction perpendicular to the motion. It is caused by the pressure difference and the circulation around the body.

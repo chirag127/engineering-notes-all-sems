@@ -1,0 +1,10 @@
+# Polymers
+
+- Polymers are any class of natural or synthetic substances composed of very large molecules, called macromolecules, that are multiples of simpler chemical units called monomers.
+- Examples of polymers are rubber, plastics, and nylon.
+- Polymers have different physical and chemical properties, which are affected by the structure, type of monomer units, and other factors.
+- Some of the properties of polymers are:
+  - Density: The mass per unit volume of a polymer. It depends on the degree of branching and packing of the polymer chains. For example, low-density polyethylene (LDPE) is branched and relatively flexible, whereas high-density polyethylene (HDPE) is denser, stronger, and formed predominantly of straight chains.
+  - Melting point: The temperature at which a polymer changes from a solid to a liquid state. It depends on the strength of the intermolecular forces between the polymer chains. For example, polyethylene terephthalate (PET) has a high melting point because of its strong hydrogen bonds, whereas polypropylene (PP) has a lower melting point because of its weaker van der Waals forces.
+  - Tensile strength: The maximum stress that a polymer can withstand before breaking. It depends on the orientation and cross-linking of the polymer chains. For example, Kevlar and nylon are both polyamides and have high tensile strength because of their parallel alignment and hydrogen bonding, whereas polyethylene (PE) has low tensile strength because of its random orientation and lack of cross-linking.
+  - Elasticity: The ability of a polymer to return to its original shape after being stretched or compressed. It depends on the flexibility and resilience of the polymer chains. For example, rubber and elastane are both elastomers and have high elasticity because of their coiled and spring-like structure, whereas polystyrene (PS) and polyvinyl chloride (PVC) have low elasticity because of their rigid and brittle structure.

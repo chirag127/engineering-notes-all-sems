@@ -1,0 +1,14 @@
+## Unit 4 - Complex Variable–Differentiation
+
+- A complex variable is a variable that can take on values in the complex plane, i.e., numbers of the form $z = x + iy$, where $x$ and $y$ are real numbers and $i$ is the imaginary unit such that $i^2 = -1$.
+- A complex function is a function that maps complex variables to complex values, i.e., $f: \mathbb{C} \to \mathbb{C}$, such that $f(z) = u(x,y) + iv(x,y)$, where $u$ and $v$ are real-valued functions of two real variables.
+- A complex function is said to be differentiable at a point $z_0$ in its domain if the limit $$f'(z_0) = \lim_{\Delta z \to 0} \frac{f(z_0 + \Delta z) - f(z_0)}{\Delta z}$$ exists and is independent of the direction of approach of $\Delta z$ to zero.
+- A complex function is said to be analytic at a point $z_0$ in its domain if it is differentiable at $z_0$ and in some neighborhood of $z_0$. A function that is analytic in its entire domain is called an entire function.
+- The Cauchy-Riemann equations are necessary conditions for a complex function to be differentiable at a point. They state that if $f(z) = u(x,y) + iv(x,y)$, then $$\frac{\partial u}{\partial x} = \frac{\partial v}{\partial y} \quad \text{and} \quad \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}$$ at any point where $f$ is differentiable.
+- The Cauchy-Riemann equations can also be written in polar form as $$\frac{\partial u}{\partial r} = \frac{1}{r} \frac{\partial v}{\partial \theta} \quad \text{and} \quad \frac{\partial v}{\partial r} = -\frac{1}{r} \frac{\partial u}{\partial \theta}$$ where $z = re^{i\theta}$ and $f(z) = u(r,\theta) + iv(r,\theta)$.
+- A harmonic function is a real-valued function that satisfies Laplace's equation, i.e., $$\nabla^2 u = \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = 0$$ in some domain. A harmonic function is also called a potential function.
+- If $f(z) = u(x,y) + iv(x,y)$ is an analytic function, then both $u$ and $v$ are harmonic functions in the domain of $f$. Moreover, $v$ is called the harmonic conjugate of $u$, and vice versa.
+- The Milne-Thomson method is a technique for finding an analytic function $f(z) = u(x,y) + iv(x,y)$ given a harmonic function $u(x,y)$. The method consists of the following steps:
+  - Find the harmonic conjugate $v(x,y)$ by integrating the Cauchy-Riemann equations, i.e., $$v(x,y) = \int \frac{\partial u}{\partial x} dy + g(x) \quad \text{and} \quad v(x,y) = -\int \frac{\partial u}{\partial y} dx + h(y)$$ where $g$ and $h$ are arbitrary functions of integration.
+  - Determine $g$ and $h$ by imposing the condition that $v$ is single-valued, i.e., $$v(x,y) = v(x,y + 2\pi) \quad \text{and} \quad v(x,y) = v(x + 2\pi, y)$$
+  - Write $f(z) = u(x,y) + iv(x,y)$ in terms of $z = x + iy$ by using the identities $$x = \frac{z + \bar{z}}{2} \quad \text{and} \quad y = \frac{z - \bar{z}}{2i}$$ where $\bar{z}$ is the complex conjugate of $z$.

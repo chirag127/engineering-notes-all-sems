@@ -1,0 +1,14 @@
+## Unit 5 - Digital Electronics
+
+Digital electronics is the branch of electronics that deals with the representation and manipulation of data in digital form. It involves the use of devices such as transistors, diodes, and microcontrollers to process and transmit digital signals.
+
+Some of the topics covered in this unit are:
+
+- **Digital signals**: These are signals that have discrete values, usually 0 and 1, representing binary logic. Digital signals can be used to encode information such as numbers, text, images, and audio.
+- **Logic gates**: These are the basic building blocks of digital electronic circuits. They perform logical operations on one or more input signals and produce an output signal. There are three types of logic gates: AND, OR, and NOT. Other types of logic gates, such as NAND, NOR, XOR, and XNOR, can be derived from these three.
+- **Boolean algebra**: This is the mathematical system that describes the rules and properties of logic gates and digital circuits. It uses symbols and operators to represent and manipulate logical expressions. Some of the common operators are + (OR), . (AND), ' (NOT), and = (EQUALS).
+- **Minimization of Boolean functions**: This is the process of finding the simplest and most efficient way to represent a Boolean function using logic gates. There are various methods to do this, such as Karnaugh maps, Quine-McCluskey algorithm, and Boolean algebra.
+- **Representation of Boolean functions**: This is the way of expressing a Boolean function using different forms, such as truth tables, logic diagrams, canonical forms, and standard forms. Each form has its own advantages and disadvantages in terms of readability, simplicity, and implementation.
+- **Functional completeness in digital logic**: This is the property of a set of logic gates that can be used to implement any Boolean function. For example, the set {AND, OR, NOT} is functionally complete, because any Boolean function can be constructed using these three gates.
+- **Sequential logic**: This is the type of digital logic that involves memory elements, such as flip-flops, registers, and counters. Sequential logic circuits can store and change their state based on the input signals and the previous state. They can be used to implement finite state machines, timers, counters, and registers.
+- **Combinational logic**: This is the type of digital logic that does not involve memory elements, and the output depends only on the current input signals. Combinational logic circuits can be used to implement arithmetic operations, code converters, multiplexers, and decoders.

@@ -1,0 +1,21 @@
+### Construction and Working of Window Air Conditioner
+
+- A window air conditioner is a small unit that can be mounted in a window or through a wall to cool a single room or space.
+- It consists of the following main components :
+  - A **compressor** that compresses the refrigerant (usually R-22 or R-410A) to a high pressure and temperature.
+  - A **condenser** that transfers heat from the refrigerant to the outside air by means of a fan and a coil.
+  - A **drier** that removes moisture and impurities from the refrigerant.
+  - A **filter** that prevents dust and dirt from entering the system.
+  - A **capillary tube** that acts as a metering device to regulate the flow of refrigerant to the evaporator.
+  - An **evaporator** that absorbs heat from the room air by means of a blower and a coil, cooling and dehumidifying the air.
+- The working principle of a window air conditioner is based on the vapour compression cycle :
+  - The refrigerant vapour at high pressure and temperature is supplied by the compressor to the condenser.
+  - The condenser fan draws air from the atmosphere and circulates it through the condenser coil, where the refrigerant releases heat and condenses into a liquid.
+  - The liquid refrigerant passes through the drier and the filter, where it is cleaned and dried.
+  - The capillary tube reduces the pressure and temperature of the refrigerant, and delivers it to the evaporator.
+  - The evaporator blower draws air from the room and forces it through the evaporator coil, where the refrigerant absorbs heat and evaporates into a vapour, cooling and dehumidifying the air.
+  - The cooled air is then returned to the room, while the refrigerant vapour is sucked by the compressor, completing the cycle.
+- The advantages of a window air conditioner are:
+  - It is easy to install and remove, as it does not require any ductwork or piping.
+  - It is relatively cheap and energy-efficient, as it cools only the required space.
+  - It is compact and portable, as it occupies less space and can be moved from one place to another.

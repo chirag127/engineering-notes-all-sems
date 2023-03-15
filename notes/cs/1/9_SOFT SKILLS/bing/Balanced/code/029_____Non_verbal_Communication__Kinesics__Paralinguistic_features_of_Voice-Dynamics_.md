@@ -1,0 +1,13 @@
+# Non verbal Communication: Kinesics, Paralinguistic features of Voice-Dynamics
+
+- Non verbal communication is the process of conveying meaning without using words. It can complement, substitute, regulate, or contradict verbal communication. Non verbal communication can be classified into different types based on the mode and channel of communication.
+- Kinesics is the study of body movements, gestures, and facial expressions as non verbal communication. Kinesics can convey emotions, attitudes, intentions, and status. Kinesics can be divided into five categories :
+  - Emblems: gestures that have a direct verbal translation, such as a thumbs-up or a nod.
+  - Illustrators: gestures that accompany and illustrate verbal communication, such as pointing or waving.
+  - Affect displays: facial expressions that show emotions, such as smiling or frowning.
+  - Regulators: gestures that regulate the flow of conversation, such as raising a hand or looking away.
+  - Adaptors: gestures that satisfy a personal need or cope with stress, such as scratching or biting nails.
+- Paralinguistic features are the vocal aspects of non verbal communication that modify or supplement verbal communication. Paralinguistic features include voice quality, pitch, volume, rate, intonation, stress, and rhythm. Paralinguistic features can convey emotions, attitudes, intentions, and status. Paralinguistic features can be divided into two categories :
+  - Paralanguage: the vocal qualities and variations that affect the meaning of verbal communication, such as tone, loudness, inflection, and pitch. For example, the same sentence can have different meanings depending on the paralanguage used, such as sarcasm, anger, or surprise.
+  - Extralinguistic: the vocal sounds and noises that are not part of verbal communication, such as pauses, laughter, coughing, sighing, crying, and stuttering. Extralinguistic features can indicate emotions, attitudes, intentions, and status, as well as signal agreement, hesitation, or confusion.
+- Voice dynamics is the term used to describe the variation and modulation of paralinguistic features to enhance verbal communication and convey meaning. Voice dynamics can be used to emphasize, clarify, or modify verbal messages, as well as to express emotions, attitudes, intentions, and status. Voice dynamics can be improved by practicing vocal exercises, listening to feedback, and observing others.

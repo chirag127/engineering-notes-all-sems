@@ -1,0 +1,11 @@
+### Chemistry of Engineering Materials:
+
+- Engineering materials are materials that are used as raw materials for any sort of construction or manufacturing in an organized way of engineering application .
+- Engineering materials can be classified into four main categories: metals, ceramics, polymers, and composites.
+- The chemical properties of engineering materials refer to the elements that are combined together to form the material and how they affect its behavior and performance.
+- Some of the important chemical properties of engineering materials are:
+  - Chemical composition: The chemical composition of a material determines its strength, hardness, ductility, brittleness, corrosion resistance, weldability, etc.
+  - Acidity or alkalinity: The acidity or alkalinity of a material is measured by its pH value, which ranges from 0 to 14. A material with a pH value of 7 is neutral, while a material with a pH value below 7 is acidic and a material with a pH value above 7 is alkaline. The acidity or alkalinity of a material affects its reactivity, solubility, and corrosion resistance.
+  - Oxidation and reduction: Oxidation and reduction are chemical reactions that involve the transfer of electrons between atoms or molecules. Oxidation is the loss of electrons and reduction is the gain of electrons. Oxidation and reduction can affect the color, conductivity, and corrosion resistance of materials.
+  - Phase transformations: Phase transformations are changes in the structure or state of matter of a material due to changes in temperature, pressure, or composition. Phase transformations can alter the physical and mechanical properties of materials, such as density, elasticity, hardness, and toughness.
+  - Active materials: Active materials are materials that take part directly in energy conversion, such as solar cells, batteries, catalysts, and superconducting magnets. Active materials have special chemical properties that enable them to convert one form of energy into another, such as light into electricity, chemical energy into electrical energy, or magnetic energy into mechanical energy.

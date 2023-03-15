@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is some information on the topic of components of a computer system:
+
+## Unit 1 - Introduction to Components of a Computer System: Memory, Processor, I/O Devices, Storage, Operating System, Concept of Assembler, Compiler, Interpreter, Loader and Linker.
+
+- A computer system is a combination of hardware and software that performs various tasks such as input, processing, output, and storage.
+- The main hardware components of a computer system are:
+  - **Memory**: It is the part of the computer that stores data and instructions temporarily or permanently. There are two types of memory: volatile and non-volatile. Volatile memory, such as RAM, loses its contents when the power is turned off. Non-volatile memory, such as ROM, retains its contents even when the power is off .
+  - **Processor**: It is the part of the computer that executes the instructions stored in the memory. It consists of two main units: the arithmetic logic unit (ALU) and the control unit (CU). The ALU performs arithmetic and logical operations, while the CU controls the flow of data and instructions .
+  - **I/O Devices**: They are the parts of the computer that allow the user to interact with the system. They can be classified into input devices and output devices. Input devices, such as keyboard and mouse, provide data and commands to the computer. Output devices, such as monitor and printer, display or print the results of the processing .
+  - **Storage**: It is the part of the computer that stores data and instructions permanently or semi-permanently. There are two types of storage: primary and secondary. Primary storage, such as cache and registers, is directly accessible by the processor and has high speed but low capacity. Secondary storage, such as hard disk and optical disk, is indirectly accessible by the processor and has low speed but high capacity .
+- The main software components of a computer system are:
+  - **Operating System**: It is the software that manages the resources and activities of the computer. It provides a user interface, a file system, a memory management, a process management, a device management, a security, and a network communication .
+  - **Assembler**: It is the software that translates the assembly language code, which is a low-level language that uses mnemonics and symbols, into machine language code, which is a binary language that the processor can understand .
+  - **Compiler**: It is the software that translates the high-level language code, which is a human-readable language that uses words and symbols, into machine language code, which is a binary language that the processor can understand. A compiler usually translates the entire source code at once and generates an executable file .
+  - **Interpreter**: It is the software that translates the high-level language code, which is a human-readable language that uses words and symbols, into machine language code, which is a binary language that the processor can understand. An interpreter usually translates the source code line by line and executes it immediately .
+  - **Loader**: It is the software that loads the executable file, which is the machine language code, into the memory for execution by the processor .
+  - **Linker**: It is the software that links the executable file, which is the machine language code, with the libraries, which are the pre-written code that provide common functions, and generates a complete executable program .

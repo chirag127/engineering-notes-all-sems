@@ -1,0 +1,19 @@
+## Unit 2 - Arithmetic Expressions and Precedence
+
+- Operators are symbols that perform operations on one or more operands. Operands are the values or variables that the operators act on.
+- Expressions are combinations of operators and operands that produce a result. For example, `2 + 3 * 4` is an expression that evaluates to `14`.
+- Numeric operators are operators that perform arithmetic operations on numeric operands. For example, `+`, `-`, `*`, `/`, and `%` are numeric operators.
+- Relational operators are operators that compare two operands and return a boolean value (`true` or `false`). For example, `==`, `!=`, `<`, `>`, `<=`, and `>=` are relational operators.
+- Mixed operands are operands of different data types, such as `int` and `double`. When an operator acts on mixed operands, the operands are converted to a common data type before the operation is performed. This is called type conversion or type casting. For example, `2 + 3.5` is an expression with mixed operands. The `int` value `2` is converted to a `double` value `2.0` before the addition is performed, and the result is a `double` value `5.5`.
+- Logical operators are operators that perform logical operations on boolean operands or expressions. For example, `&&`, `||`, and `!` are logical operators. The `&&` operator returns `true` if both operands are `true`, the `||` operator returns `true` if either operand is `true`, and the `!` operator returns the opposite of the operand. For example, `true && false` evaluates to `false`, `true || false` evaluates to `true`, and `!true` evaluates to `false`.
+- Bit operations are operations that manipulate the individual bits of an operand. For example, `&`, `|`, `^`, `~`, `<<`, `>>`, and `>>>` are bit operators. The `&` operator performs a bitwise AND operation, the `|` operator performs a bitwise OR operation, the `^` operator performs a bitwise XOR operation, the `~` operator performs a bitwise NOT operation, the `<<` operator performs a left shift operation, the `>>` operator performs a right shift operation, and the `>>>` operator performs an unsigned right shift operation. For example, `5 & 3` evaluates to `1`, `5 | 3` evaluates to `7`, `5 ^ 3` evaluates to `6`, `~5` evaluates to `-6`, `5 << 2` evaluates to `20`, `5 >> 2` evaluates to `1`, and `5 >>> 2` evaluates to `1`.
+- Assignment operator is an operator that assigns a value to a variable. For example, `=` is an assignment operator. The expression `x = 5` assigns the value `5` to the variable `x`. There are also compound assignment operators that combine an arithmetic or bitwise operation with an assignment. For example, `+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `^=`, `<<=`, `>>=`, and `>>>=` are compound assignment operators. The expression `x += 5` is equivalent to `x = x + 5`.
+- Operator precedence and associativity are rules that determine the order of evaluation of operators and operands in an expression. Operator precedence is the priority of an operator over another operator. For example, `*` has higher precedence than `+`, so `2 + 3 * 4` is evaluated as `2 + (3 * 4)`, not as `(2 + 3) * 4`. Operator associativity is the direction of evaluation of operators with the same precedence. For example, `+` and `-` have the same precedence and left-to-right associativity, so `2 + 3 - 4` is evaluated as `(2 + 3) - 4`, not as `2 + (3 - 4)`. The following table shows the operator precedence and associativity in Java, from highest to lowest:
+
+| Operator | Description | Associativity |
+| --- | --- | --- |
+| `()` | Parentheses | Left-to-right |
+| `++` `--` | Postfix increment and decrement | Left-to-right |
+| `++` `--` `+` `-` `!` `~` | Prefix increment and decrement, unary plus and minus, logical NOT and bitwise NOT | Right-to-left |
+| `*` `/` `%` | Multiplication, division, and remainder | Left-to-right |
+|

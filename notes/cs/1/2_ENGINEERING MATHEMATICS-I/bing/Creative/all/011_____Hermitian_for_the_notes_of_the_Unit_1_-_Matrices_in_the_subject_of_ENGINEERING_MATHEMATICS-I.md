@@ -1,0 +1,24 @@
+# Hermitian Matrix
+
+- A **Hermitian matrix** is a complex square matrix that is equal to its own conjugate transpose .
+- The **conjugate transpose** of a matrix is obtained by taking the complex conjugate of each element and then transposing the matrix.
+- The **complex conjugate** of a complex number is obtained by changing the sign of the imaginary part.
+- For example, if A is a complex matrix, then its conjugate transpose is denoted by A^H^ and defined as A^H^ = (A^*)^T^, where A^*^ is the complex conjugate of A and A^T^ is the transpose of A.
+- A Hermitian matrix satisfies the following properties  :
+  - It is **square**, meaning it has the same number of rows and columns.
+  - It has **real** diagonal elements, meaning the elements on the main diagonal have zero imaginary parts.
+  - It is **symmetric**, meaning the elements below and above the main diagonal are mirror images of each other.
+  - It is **conjugate symmetric**, meaning the element in the i-th row and j-th column is the complex conjugate of the element in the j-th row and i-th column, for all indices i and j.
+  - It has **real eigenvalues**, meaning the solutions of the characteristic equation are all real numbers.
+  - It has **orthogonal eigenvectors**, meaning the eigenvectors corresponding to distinct eigenvalues are perpendicular to each other.
+- A Hermitian matrix can be written in the form A = B + iC, where B and C are real symmetric matrices.
+- A Hermitian matrix can also be written in the form A = UDU^H^, where U is a unitary matrix and D is a diagonal matrix with real entries.
+- A Hermitian matrix is a special case of a **normal matrix**, which is a matrix that commutes with its conjugate transpose, i.e., A^H^A = AA^H^.
+- A Hermitian matrix is also a special case of a **self-adjoint operator**, which is a linear transformation that is equal to its adjoint, i.e., A = A^*^, where A^*^ is the adjoint of A.
+- A Hermitian matrix is also a special case of a **positive-definite matrix**, which is a matrix that satisfies x^H^Ax > 0 for all nonzero vectors x.
+- A Hermitian matrix is also a special case of a **Hermitian form**, which is a bilinear form that is conjugate symmetric, i.e., f(x, y) = f(y, x)^*^ for all vectors x and y.
+- A Hermitian matrix is also a special case of a **Hermitian inner product**, which is a function that assigns a complex number to every pair of vectors, satisfying the following properties:
+  - Conjugate symmetry: <x, y> = <y, x>^*^ for all vectors x and y.
+  - Linearity: <ax + by, z> = a<x, z> + b<y, z> for all scalars a and b and vectors x, y and z.
+  - Positive-definiteness: <x, x> ≥ 0 for all vectors x and <x, x> = 0 if and only if x = 0.
+- A Hermitian matrix is also a special case of a **Hermitian manifold**, which is a smooth manifold with a Hermitian inner product on each tangent space.

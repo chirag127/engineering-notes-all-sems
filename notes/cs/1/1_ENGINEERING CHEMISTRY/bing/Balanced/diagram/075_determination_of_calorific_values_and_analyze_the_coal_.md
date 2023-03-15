@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of determination of calorific values and analysis of coal. Here is some information that you might find useful:
+
+# Determination of calorific values and analysis of coal
+
+- Calorific value of a fuel is the amount of heat produced by its complete combustion per unit mass or volume.
+- Calorific value can be measured by using a device called a calorimeter, which can be of different types, such as bomb calorimeter, gas calorimeter, or coal calorimeter.
+- A bomb calorimeter is a sealed metal vessel that contains a known mass of fuel and oxygen. The fuel is ignited by an electric spark and the heat released by the combustion is absorbed by a known mass of water surrounding the vessel. The temperature rise of the water is measured and used to calculate the calorific value of the fuel.
+- A gas calorimeter is a device that measures the calorific value of a gaseous fuel by burning it in a steady stream of air and measuring the temperature rise of the air. The calorific value of the gas is proportional to the temperature rise and the flow rate of the air.
+- A coal calorimeter is a device that measures the calorific value of a solid fuel such as coal by burning it in a crucible and measuring the temperature rise of a known mass of water in a calorimeter cup. The calorific value of the coal is proportional to the temperature rise and the mass of the coal.
+- Analysis of coal is the process of determining the composition and properties of coal, such as moisture, ash, volatile matter, fixed carbon, sulfur, and calorific value. Analysis of coal can be done by various methods, such as proximate analysis, ultimate analysis, or specific analysis.
+- Proximate analysis of coal is the determination of the percentage of moisture, ash, volatile matter, and fixed carbon in a coal sample. Proximate analysis can be done by using a standard procedure involving heating, cooling, and weighing the coal sample in a laboratory oven, a desiccator, and a balance.
+- Ultimate analysis of coal is the determination of the percentage of carbon, hydrogen, oxygen, nitrogen, sulfur, and ash in a coal sample. Ultimate analysis can be done by using a standard procedure involving combustion, absorption, titration, and gravimetric methods.
+- Specific analysis of coal is the determination of the specific properties of coal, such as hardness, grindability, coking ability, swelling index, fusibility, etc. Specific analysis can be done by using various instruments and tests, such as Mohs scale, Hardgrove index, Free Swelling index, Fusibility test, etc.

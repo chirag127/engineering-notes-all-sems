@@ -1,0 +1,23 @@
+### Measurements of Pressure (Bourdon Tube Pressure and U-Tube Manometer)
+
+- Pressure is the force exerted by a fluid per unit area on a surface.
+- Pressure can be measured in different units, such as pascal (Pa), bar, atmosphere (atm), or pounds per square inch (psi).
+- Pressure can be classified into three types: absolute pressure, gauge pressure, and differential pressure.
+  - Absolute pressure is the pressure measured with respect to a perfect vacuum.
+  - Gauge pressure is the pressure measured with respect to the atmospheric pressure.
+  - Differential pressure is the difference between two pressures measured at different points in a system.
+- Pressure can be measured by various devices, such as manometers, bourdon gauges, pressure transducers, etc.
+- A manometer is a device that uses a column of liquid to measure pressure.
+  - A U-tube manometer is a simple type of manometer that consists of a U-shaped tube filled with a liquid of known density.
+  - A U-tube manometer can measure gauge pressure or differential pressure by comparing the heights of the liquid columns in the two arms of the tube.
+  - The pressure difference measured by a U-tube manometer can be calculated by the formula: $$\Delta P = \rho g h$$ where $\Delta P$ is the pressure difference, $\rho$ is the density of the liquid, $g$ is the acceleration due to gravity, and $h$ is the height difference between the liquid columns.
+  - A U-tube manometer can measure positive or negative pressure depending on the orientation of the tube and the direction of the pressure difference.
+  - A U-tube manometer can be modified by adding a reservoir, a scale, or a pointer to improve its accuracy, sensitivity, or readability.
+- A bourdon gauge is a device that uses a curved metal tube to measure pressure.
+  - A bourdon tube is a hollow metal tube that is bent into a circular or elliptical shape with one end closed and the other end connected to a pressure source.
+  - A bourdon tube changes its shape when subjected to pressure due to the elastic deformation of the metal.
+  - A bourdon tube straightens when the pressure inside is higher than the atmospheric pressure, and curves more when the pressure inside is lower than the atmospheric pressure.
+  - A bourdon tube can measure gauge pressure or absolute pressure depending on the reference pressure at the closed end of the tube.
+  - A bourdon tube can be attached to a pointer, a dial, or a recorder to indicate the pressure reading.
+  - A bourdon tube can be made of different materials, such as brass, steel, or copper, to suit different pressure ranges and media.
+  - A bourdon tube can be modified by adding a helical or spiral shape, a diaphragm, or a bellows to improve its accuracy, sensitivity, or range.

@@ -1,0 +1,11 @@
+### HEV drive train components
+
+A hybrid electric vehicle (HEV) is a type of hybrid vehicle that combines a conventional internal combustion engine (ICE) system with an electric propulsion system (hybrid vehicle drivetrain). The presence of the electric powertrain is intended to achieve either better fuel economy than a conventional vehicle or better performance.
+
+The main components of an HEV drivetrain are :
+
+- **Electric traction motors/controllers**: These are devices that convert electrical energy into mechanical energy to drive the wheels of the vehicle. They also control the speed and torque of the motors according to the driver's demand and the vehicle's operating conditions. The motors can also act as generators to recover kinetic energy during braking and store it in the battery.
+- **Electric energy storage systems**: These are devices that store electrical energy and provide it to the motors when needed. The most common types of energy storage systems are batteries and ultracapacitors. Batteries have high energy density but low power density, while ultracapacitors have high power density but low energy density. Some HEVs use a combination of both to optimize the performance and durability of the energy storage system.
+- **Internal combustion engine (ICE)**: This is a device that converts chemical energy from fuel into mechanical energy to drive the wheels of the vehicle or to charge the battery. The ICE can be of different types, such as gasoline, diesel, or hybrid. The ICE can also be coupled with a transmission system to vary the speed and torque of the engine output.
+- **Fuel tank**: This is a device that stores the fuel for the ICE. The fuel can be of different types, such as gasoline, diesel, ethanol, or biodiesel. The fuel tank can also have a fuel pump and a fuel filter to deliver the fuel to the engine.
+- **Control board**: This is a device that monitors and coordinates the operation of the ICE and the electric powertrain. It also communicates with the driver and other vehicle systems, such as the dashboard, the brakes, and the steering. The control board can use various sensors, actuators, and algorithms to optimize the efficiency, performance, and safety of the HEV.

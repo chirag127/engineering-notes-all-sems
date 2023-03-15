@@ -1,0 +1,28 @@
+## Unit 1 - Environment: Definition, Types of Environment, Components of environment, Segments of environment, Scope and importance, Need for Public Awareness. Ecosystem: Definition, Types of ecosystem, Structure of ecosystem, Food Chain, Food Web, Ecological pyramid. Balance Ecosystem. Effects of Human Activities such as Food, Shelter, Housing, Agriculture, Industry, Mining, Transportation, Economic and Social security on Environment, Environmental Impact Assessment, Sustainable Development.
+
+- Environment: Definition
+  - The environment is the sum total of all the physical, chemical and biological factors and processes that surround and influence a living organism .
+  - The environment includes both biotic and abiotic components that interact with each other and affect the life and behaviour of organisms .
+- Types of Environment
+  - The environment can be classified into two broad categories: natural and artificial.
+    - Natural environment: It consists of all the natural resources and phenomena that exist on the earth, such as air, water, soil, minerals, plants, animals, climate, etc .
+    - Artificial environment: It consists of all the human-made resources and phenomena that modify the natural environment, such as buildings, roads, dams, industries, agriculture, etc .
+- Components of Environment
+  - The components of the environment are mainly divided into two categories:
+    - Biotic environment: It includes all living organisms such as animals, birds, forests, insects, reptiles and microorganisms like algae, bacteria, fungus, viruses, etc.
+    - Abiotic environment: It includes all non-living factors such as air, water, soil, temperature, light, humidity, pressure, etc.
+- Segments of Environment
+  - The three components of the environment give rise to four important segments of the earth, these are :
+    - Atmosphere: It is the protective layer of gases that surrounds the earth and sustains life. It absorbs most of the cosmic rays from outer space and regulates the climate and weather  .
+    - Hydrosphere: It is the water component of the earth that covers about 71% of the earth's surface. It includes oceans, seas, rivers, lakes, glaciers, etc. It is essential for the survival of aquatic life and also influences the terrestrial life  .
+    - Lithosphere: It is the solid component of the earth that forms the crust and the upper mantle. It consists of rocks, minerals, soil, etc. It is the source of various natural resources and also supports the growth of plants and animals  .
+    - Biosphere: It is the zone of life on the earth where the atmosphere, hydrosphere and lithosphere interact with each other and with the living organisms. It is the most complex and dynamic segment of the environment and includes various ecosystems  .
+- Scope and Importance of Environment
+  - The scope of environment is very broad and interdisciplinary. It covers various aspects of natural and social sciences, such as ecology, biology, chemistry, physics, geography, economics, sociology, etc .
+  - The importance of environment is evident from the fact that it provides the basic necessities of life, such as air, water, food, shelter, etc. It also offers various opportunities and challenges for human development and well-being .
+  - The environment is also important for maintaining the ecological balance and biodiversity, which are essential for the stability and sustainability of life on the earth .
+- Need for Public Awareness
+  - The need for public awareness about the environment is crucial for the following reasons :
+    - To understand the interdependence and interrelationship between humans and the environment, and the impacts of human activities on the environment .
+    - To appreciate the value and significance of the natural resources and the services provided by the environment, and to use them judiciously and responsibly .
+    - To identify and address the various environmental problems and issues, such as pollution, deforestation, climate change, loss of biodiversity, etc., and to find suitable solutions and alternatives[^1^

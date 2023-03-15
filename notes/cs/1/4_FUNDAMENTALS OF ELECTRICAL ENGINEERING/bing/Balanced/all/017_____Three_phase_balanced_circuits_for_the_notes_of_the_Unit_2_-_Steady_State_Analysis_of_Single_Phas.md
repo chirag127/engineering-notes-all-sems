@@ -1,0 +1,22 @@
+# Three phase balanced circuits
+
+- A three phase balanced circuit is a type of alternating current (AC) power system that consists of three voltage sources and three loads connected in either star (Y) or delta (Δ) configuration.
+- The three voltage sources have equal magnitudes and frequencies, but are phase shifted by 120° with respect to each other. The three loads have equal impedances and power factors.
+- A three phase balanced circuit can be analyzed by using a single phase equivalent circuit corresponding to one of the phases, called the reference phase. The reference phase can be chosen arbitrarily, but it is usually the phase a.
+- The advantages of a three phase balanced circuit over a single phase circuit are:
+  - It delivers constant power to the load, without any pulsations or fluctuations.
+  - It requires less conductor material for the same power transmission, as the neutral wire can be eliminated or reduced in size.
+  - It can operate both single phase and three phase loads, by connecting them across different combinations of phases and neutral.
+  - It can provide different voltage levels, by using transformers or autotransformers.
+- The main parameters of a three phase balanced circuit are:
+  - The line voltage (V_L), which is the voltage between any two phases.
+  - The phase voltage (V_P), which is the voltage between any phase and the neutral point.
+  - The line current (I_L), which is the current flowing in any line conductor.
+  - The phase current (I_P), which is the current flowing in any phase of the load.
+  - The power factor (PF), which is the ratio of the real power (P) to the apparent power (S) of the load.
+  - The real power (P), which is the average power delivered to the load over one cycle of the AC waveform.
+  - The reactive power (Q), which is the power that oscillates between the source and the load due to the presence of inductance or capacitance in the circuit.
+  - The apparent power (S), which is the product of the rms values of the voltage and the current in the circuit.
+- The relationship between the line and phase quantities in a three phase balanced circuit depends on the type of connection of the source and the load. There are two possible types of connection: star (Y) and delta (Δ).
+  - In a star (Y) connection, one end of each phase is connected to a common point called the neutral, and the other end is connected to the line. The line voltage is equal to the phase voltage multiplied by the square root of three. The line current is equal to the phase current. The power factor, real power, reactive power, and apparent power are the same for each phase and for the whole circuit.
+  - In a delta (Δ) connection, each phase is connected between two lines, forming a closed loop. The line voltage is equal to the phase voltage. The line current is equal to the phase current multiplied by the square root of three. The power factor, real power, reactive power, and apparent power are the same for each phase and for the whole circuit.

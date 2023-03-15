@@ -1,0 +1,23 @@
+## Unit 5 - Pointers: Introduction, Declaration, Applications, Introduction to Dynamic Memory Allocation (Malloc, Calloc, Realloc, Free), String and String functions , Use of Pointers in Self-Referential Structures, Notion of Linked List (No Implementation)
+
+- A pointer is a variable that stores the address of another variable in memory.
+- The syntax for declaring a pointer is `type *name;`, where `type` is the data type of the variable that the pointer points to, and `name` is the identifier of the pointer.
+- The `&` operator is used to get the address of a variable, and the `*` operator is used to access the value stored at the address pointed by a pointer.
+- Pointers can be used for various applications, such as:
+  - Passing arguments by reference: Pointers allow functions to modify the values of the variables passed as arguments, instead of creating copies of them.
+  - Dynamic memory allocation: Pointers can be used to allocate memory at run time, using functions such as `malloc`, `calloc`, `realloc`, and `free`.
+  - Arrays and strings: Pointers can be used to access and manipulate the elements of arrays and strings, using pointer arithmetic and dereferencing.
+  - Structures and unions: Pointers can be used to access and modify the members of structures and unions, using the `->` operator or the `*` and `.` operators together.
+  - Self-referential structures: Pointers can be used to create structures that contain a pointer to another structure of the same type, such as linked lists, trees, graphs, etc.
+- Dynamic memory allocation is the process of allocating and deallocating memory at run time, as per the program's requirements.
+- The functions used for dynamic memory allocation are:
+  - `malloc`: This function allocates a block of memory of a given size and returns a pointer to the beginning of the block. The syntax is `void *malloc(size_t size);`, where `size` is the number of bytes to be allocated. The memory allocated by `malloc` is uninitialized and may contain garbage values.
+  - `calloc`: This function allocates a block of memory for an array of a given number of elements, each of a given size, and returns a pointer to the beginning of the block. The syntax is `void *calloc(size_t n, size_t size);`, where `n` is the number of elements and `size` is the size of each element. The memory allocated by `calloc` is initialized to zero.
+  - `realloc`: This function reallocates a block of memory that was previously allocated by `malloc` or `calloc`, and returns a pointer to the new block. The syntax is `void *realloc(void *ptr, size_t size);`, where `ptr` is the pointer to the old block and `size` is the new size of the block. The memory contents of the old block are preserved up to the minimum of the old and new sizes. If the new size is larger than the old size, the additional memory is uninitialized.
+  - `free`: This function deallocates a block of memory that was previously allocated by `malloc`, `calloc`, or `realloc`, and returns the memory to the system. The syntax is `void free(void *ptr);`, where `ptr` is the pointer to the block to be freed. The pointer `ptr` must not be used after calling `free`, as it becomes invalid.
+- A string is a sequence of characters terminated by a null character (`'\0'`). Strings are stored as arrays of characters in memory, and can be manipulated using pointers and string functions.
+- Some of the common string functions are:
+  - `strlen`: This function returns the length of a string, excluding the null character. The syntax is `size_t strlen(const char *s);`, where `s` is the pointer to the string.
+  - `strcpy`: This function copies the contents of one string to another. The syntax is `char *strcpy(char *dest, const char *src);`, where `dest` is the pointer to the destination string and `src` is the pointer to the source string. The destination string must be large enough to hold the source string and the null character. The function returns `dest`.
+  - `strcat`: This function appends the contents of one string to the end of another. The syntax is `char *strcat(char *dest, const char *src);`, where `dest` is the pointer to the destination string and `src` is the pointer to the source string. The destination string must have enough space to hold the concatenated string and the null character. The function returns `dest`.
+  - `strcmp`: This function compares

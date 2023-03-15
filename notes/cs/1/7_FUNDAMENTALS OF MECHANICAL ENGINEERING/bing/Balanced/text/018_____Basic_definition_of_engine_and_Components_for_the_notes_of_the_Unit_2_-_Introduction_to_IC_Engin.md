@@ -1,0 +1,26 @@
+### Basic definition of engine and components
+
+- An engine is a machine that converts one or more forms of energy into mechanical force and motion.
+- An engine can be powered by various sources of energy, such as fuel, electricity, solar, wind, etc.
+- An engine can be used to drive various devices, such as vehicles, machines, pumps, generators, etc.
+- An engine consists of many components that work together to produce the desired output.
+- Some of the basic components of an engine are :
+  - Cylinder block: The main structure of the engine that contains the cylinders, where the fuel-air mixture is burned and the pistons move.
+  - Cylinder head: The part that covers the cylinder block and contains the valves, spark plugs, injectors, etc.
+  - Pistons: The cylindrical parts that move up and down inside the cylinders and transfer the force of combustion to the crankshaft.
+  - Valves: The parts that control the intake and exhaust of the fuel-air mixture and the exhaust gases in the cylinders.
+  - Connecting rods: The rods that connect the pistons to the crankshaft and transmit the motion of the pistons.
+  - Crankshaft: The shaft that converts the reciprocating motion of the pistons into rotary motion and drives the other components of the engine.
+  - Flywheel: The wheel that is attached to the crankshaft and helps to smooth out the fluctuations in the engine speed and torque.
+  - Camshaft: The shaft that operates the valves through the cam lobes and the rocker arms.
+  - Timing belt or chain: The belt or chain that synchronizes the movement of the camshaft and the crankshaft and ensures the proper timing of the valve opening and closing.
+  - Oil pan: The pan that collects and stores the engine oil and lubricates the moving parts of the engine.
+  - Oil pump: The pump that circulates the engine oil through the oil filter and the oil passages in the engine.
+  - Water pump: The pump that circulates the coolant through the radiator and the engine to regulate the engine temperature.
+  - Intake manifold: The part that distributes the air or the fuel-air mixture to the cylinders.
+  - Exhaust manifold: The part that collects the exhaust gases from the cylinders and directs them to the exhaust pipe.
+  - Fuel injection system: The system that delivers the fuel to the cylinders in a precise amount and at the right time.
+  - Ignition system: The system that provides the spark to ignite the fuel-air mixture in the cylinders.
+  - Cooling system: The system that cools the engine by transferring the heat from the engine to the air or the liquid coolant.
+  - Lubrication system: The system that lubricates the moving parts of the engine and reduces friction and wear.
+  - Emission control system: The system that reduces the harmful emissions from the engine and improves the air quality.

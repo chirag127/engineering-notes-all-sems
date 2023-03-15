@@ -1,0 +1,12 @@
+# Transistor Construction
+
+- A transistor is a three-layer semiconductor device that can amplify or switch electric currents.
+- A transistor consists of two types of semiconductor materials: P-type and N-type. P-type has more holes (positive charge carriers) than electrons, while N-type has more electrons (negative charge carriers) than holes.
+- A transistor can be either PNP or NPN, depending on the arrangement of the layers. In a PNP transistor, a thin layer of N-type material is sandwiched between two thicker layers of P-type material. In an NPN transistor, a thin layer of P-type material is sandwiched between two thicker layers of N-type material .
+- The three layers of a transistor are called the emitter, the base, and the collector. The emitter is the layer that supplies the input current to the transistor. The base is the layer that controls the output current of the transistor. The collector is the layer that receives the output current from the transistor .
+- The emitter and the collector are usually doped more heavily than the base, meaning they have more excess charge carriers. The base is usually very thin and lightly doped, meaning it has fewer charge carriers.
+- The transistor works by using the base-emitter junction as a diode that controls the current flow through the collector-emitter junction. When the base-emitter junction is forward biased (positive voltage on the P-type side and negative voltage on the N-type side), the current flows from the emitter to the base and from the base to the collector. When the base-emitter junction is reverse biased (negative voltage on the P-type side and positive voltage on the N-type side), the current is blocked from the emitter to the base and from the base to the collector.
+- The amount of current that flows from the emitter to the collector depends on the voltage applied to the base-emitter junction. A small change in the base voltage can cause a large change in the collector current, thus amplifying the input signal. Alternatively, the base voltage can be used to switch the collector current on or off, thus acting as a switch.
+- The symbols for PNP and NPN transistors are shown below. The arrow on the emitter indicates the direction of the conventional current flow when the transistor is in active mode (base-emitter junction forward biased and collector-emitter junction reverse biased).
+
+![PNP and NPN transistor symbols](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bjt_pnp_npn_symbols.svg/1200px-Bjt_pnp_npn_symbols.svg.png)

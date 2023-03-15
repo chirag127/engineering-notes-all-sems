@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on electric vehicles and hybrid vehicles for the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING.
+
+### Electric vehicles and hybrid vehicles
+
+- Electric vehicles (EVs) are vehicles that use one or more electric motors as their primary source of propulsion. EVs have a battery instead of a gasoline tank, and an electric motor instead of an internal combustion engine (ICE) .
+- Hybrid vehicles are vehicles that use a combination of two or more power sources, such as an ICE and an electric motor, to provide propulsion. Hybrid vehicles can have different configurations, such as parallel, series, or power-split, depending on how the power sources are connected and controlled .
+- Plug-in hybrid electric vehicles (PHEVs) are a type of hybrid vehicle that can be recharged from an external power source, such as a wall outlet or a charging station. PHEVs have a larger battery capacity than conventional hybrids, and can operate in pure electric mode for a limited range .
+- The main advantages of EVs and PHEVs are that they can reduce greenhouse gas emissions, air pollution, and fuel consumption, as they use electricity instead of gasoline or diesel. Electricity can be generated from various sources, including renewable energy, such as solar, wind, or hydro power .
+- The main challenges of EVs and PHEVs are that they have higher upfront costs, lower driving range, and longer charging time than conventional vehicles. They also depend on the availability and reliability of the electric grid and the charging infrastructure .
+- The main advantages of hybrid vehicles are that they can improve fuel efficiency, reduce emissions, and enhance performance, as they can use the optimal combination of the ICE and the electric motor. They can also operate without external charging, as they can regenerate electricity from braking or coasting .
+- The main challenges of hybrid vehicles are that they have higher complexity, weight, and cost than conventional vehicles. They also have lower battery capacity and electric range than EVs and PHEVs .

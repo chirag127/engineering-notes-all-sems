@@ -1,0 +1,6 @@
+### Scope
+
+- The scope of measurement and mechatronics is to integrate the principles of mechanics, electronics, control, measurement, and computer science to design and develop smart systems that can sense, process, and actuate physical phenomena.
+- Measurement and mechatronics are essential for the development of modern engineering systems, such as robotics, automation, biomedical devices, consumer electronics, aerospace, automotive, and industrial applications.
+- Measurement and mechatronics involve the use of sensors, signal conditioning, microprocessors, microcontrollers, microchips, semiconductors, actuators, feedback control, and software engineering to create efficient, reliable, and intelligent systems.
+- Measurement and mechatronics offer a multidisciplinary and dynamic field of engineering that requires creativity, innovation, and problem-solving skills. Mechatronics engineers can work in various sectors, such as research and development, design, testing, manufacturing, maintenance, and management.

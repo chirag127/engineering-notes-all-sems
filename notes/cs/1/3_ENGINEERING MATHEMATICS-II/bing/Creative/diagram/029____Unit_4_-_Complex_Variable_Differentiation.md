@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with complex variable differentiation. Here is some content in markdown format that you can use as study material.
+
+## Unit 4 - Complex Variable–Differentiation
+
+- Complex differentiation is the process of finding the rate of change of a complex function with respect to a complex variable.
+- A complex function is a function that maps a complex number to another complex number, such as $f(z) = z^2 + 2z + 1$, where $z = x + iy$ is a complex variable and $x$ and $y$ are real variables.
+- A complex function can be considered as two real functions of two real variables, such as $f(z) = u(x,y) + iv(x,y)$, where $u$ and $v$ are real functions and $i$ is the imaginary unit.
+- A complex function is differentiable at a point $z_0$ if the limit $$f'(z_0) = \lim_{\Delta z \to 0} \frac{f(z_0 + \Delta z) - f(z_0)}{\Delta z}$$ exists and is independent of the direction of $\Delta z$.
+- A complex function is differentiable in the complex sense if it is differentiable when considered as two real functions of two real variables and also the Cauchy–Riemann equations apply . These equations link the real and imaginary parts of the function as follows: $$\frac{\partial u}{\partial x} = \frac{\partial v}{\partial y}, \quad \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}$$
+- A complex function that is differentiable in the complex sense is also called holomorphic or analytic. A holomorphic function is infinitely differentiable and locally equal to its own Taylor series.
+- A remarkable feature of complex differentiation is that the existence of one complex derivative automatically implies the existence of infinitely many. This is in contrast to the case of the function of real variable $g(x)$, in which $g'(x)$ can exist without the existence of $g''(x)$.
+- Complex step differentiation is a technique that employs complex arithmetic to obtain the numerical value of the first derivative of a real valued analytic function of a real variable, avoiding the loss of precision inherent in traditional finite differences. The idea is to replace the finite difference quotient $$g'(x) \approx \frac{g(x+h) - g(x)}{h}$$ with the complex step quotient $$g'(x) \approx \frac{\text{Im}(g(x+ih))}{h}$$ where $h$ is a small positive real number and $\text{Im}$ denotes the imaginary part.

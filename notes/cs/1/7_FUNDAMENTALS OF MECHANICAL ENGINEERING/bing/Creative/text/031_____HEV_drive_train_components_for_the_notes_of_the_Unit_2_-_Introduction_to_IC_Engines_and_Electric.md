@@ -1,0 +1,8 @@
+### HEV drive train components
+
+- A hybrid electric vehicle (HEV) is a type of hybrid vehicle that combines a conventional internal combustion engine (ICE) system with an electric propulsion system (hybrid vehicle drivetrain).
+- The key components in an HEV drivetrain are:
+  - Electric traction motors/controllers: These are used to provide torque and speed control to the wheels, either in parallel or series with the ICE. They also act as generators to recover braking energy and charge the battery.
+  - Electric energy storage systems, such as batteries and ultracapacitors: These are used to store electrical energy from the ICE or the regenerative braking and supply it to the electric motors when needed. They also help to reduce the fuel consumption and emissions of the ICE by allowing it to operate at optimal conditions.
+  - Converters: These are used to convert the AC power from the electric motors to DC power for the battery or vice versa. They also regulate the voltage and current levels of the electric powertrain.
+  - ICE, fuel tank and control board: These are the conventional components of a vehicle that provide the primary power source and the overall management of the hybrid system. The ICE can be gasoline, diesel, or alternative fuel based. The control board monitors the state of charge of the battery, the power demand of the driver, and the operating conditions of the vehicle and decides the optimal power split between the ICE and the electric motors.

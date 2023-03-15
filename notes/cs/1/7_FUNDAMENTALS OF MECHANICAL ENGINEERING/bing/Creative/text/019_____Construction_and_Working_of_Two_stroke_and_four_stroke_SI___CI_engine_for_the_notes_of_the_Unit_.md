@@ -1,0 +1,15 @@
+### Construction and Working of Two stroke and four stroke SI & CI engine
+
+- SI engine stands for spark ignition engine, which uses a spark plug to ignite the air-fuel mixture in the combustion chamber. CI engine stands for compression ignition engine, which uses high pressure and temperature to ignite the fuel injected into the air in the combustion chamber.
+- Both SI and CI engines can operate on either two stroke or four stroke cycles. A stroke is the movement of the piston from one end of the cylinder to the other. A cycle is the sequence of events that occur in one complete operation of the engine.
+- In a two stroke engine, the cycle is completed in two strokes of the piston or one revolution of the crankshaft. The two strokes are intake-compression and power-exhaust. The intake and exhaust ports are located on the cylinder wall and are opened and closed by the movement of the piston. The fuel is mixed with the air in the crankcase or in the carburetor and is transferred to the combustion chamber through the transfer port. The spark plug (in SI engine) or the fuel injector (in CI engine) is located on the cylinder head. The two stroke engine has simpler valve systems and fewer moving parts, and is more power dense than the four stroke engine. However, since it requires oil to be mixed with the fuel, and some of the fuel mixture escapes unused, it pollutes more than a comparable four stroke engine .
+- In a four stroke engine, the cycle is completed in four strokes of the piston or two revolutions of the crankshaft. The four strokes are intake, compression, power, and exhaust. The intake and exhaust valves are located on the cylinder head and are opened and closed by the camshaft. The fuel is mixed with the air in the carburetor (in SI engine) or injected into the air in the combustion chamber (in CI engine). The spark plug (in SI engine) or the fuel injector (in CI engine) is located on the cylinder head. The four stroke engine has more complex valve systems and more moving parts, and is less power dense than the two stroke engine. However, since it does not require oil to be mixed with the fuel, and has better control over the fuel mixture, it pollutes less than a comparable two stroke engine  .
+- The following diagrams illustrate the construction and working of two stroke and four stroke SI and CI engines:
+
+![Two stroke SI engine](https://www.mechanicalbooster.com/wp-content/uploads/2017/01/Two-Stroke-Spark-Ignition-Engine.jpg)
+
+![Two stroke CI engine](https://www.mechanicalbooster.com/wp-content/uploads/2017/01/Two-Stroke-Compression-Ignition-Engine.jpg)
+
+![Four stroke SI engine](https://www.mechanicalbooster.com/wp-content/uploads/2017/01/Four-Stroke-Spark-Ignition-Engine.jpg)
+
+![Four stroke CI engine](https://www.mechanicalbooster.com/wp-content/uploads/2017/01/Four-Stroke-Compression-Ignition-Engine.jpg)

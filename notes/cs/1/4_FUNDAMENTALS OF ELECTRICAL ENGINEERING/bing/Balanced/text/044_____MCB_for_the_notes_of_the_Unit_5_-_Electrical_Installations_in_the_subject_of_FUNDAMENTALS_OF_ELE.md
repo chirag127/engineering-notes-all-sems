@@ -1,0 +1,11 @@
+### MCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- MCB stands for **Miniature Circuit Breaker**, which is an automatically operated electrical switch that protects an electrical circuit from damage caused by excess current from an overload or short circuit.
+- MCBs are designed to **trip** (interrupt the current flow) after a certain amount of time depending on the overcurrent level. This prevents the circuit from overheating and causing fire or damage to the equipment.
+- MCBs are usually classified by their **current rating**, **tripping characteristics**, and **breaking capacity**. The current rating is the maximum current that the MCB can carry without tripping. The tripping characteristics are the time and current values that determine when the MCB will trip. The breaking capacity is the maximum current that the MCB can safely interrupt without damage.
+- MCBs are commonly used in low-voltage electrical networks, such as residential, commercial, and industrial applications. They are often installed in **distribution boards** or **consumer units** that divide the main power supply into separate circuits for different loads.
+- To install an MCB, the following steps are recommended :
+  - Step 1: Identify the spot to install the MCB. Turn off the power supply to the electric panel and look for an unused location to accommodate the MCB. If the location has a knockout plate, remove it before the installation.
+  - Step 2: Place the MCB in the panel. Select the correct MCB that is allowed to be installed in the panel and place it next to an existing MCB. Align the clips on the back of the MCB with the slots on the panel and snap it into place.
+  - Step 3: Connect the wires to the MCB. Strip the insulation from the wires and connect them to the terminals of the MCB. The hot wire (usually black or red) goes to the terminal marked "L" or "LINE". The neutral wire (usually white or blue) goes to the terminal marked "N" or "LOAD". Tighten the screws to secure the wires.
+  - Step 4: Test the MCB. Turn on the power supply to the electric panel and check if the MCB is working properly. Use a test light or meter to verify that the MCB is receiving and delivering power. If the MCB trips, check for any wiring errors or faulty devices on the circuit.

@@ -1,0 +1,28 @@
+### Continuity and Differentiability
+
+- A function of a complex variable is said to be **continuous** at a point z if the limit of the function as z approaches that point is equal to the value of the function at that point  .
+- Formally, a function f(z) is continuous at z = a if and only if
+  - f(z) is defined at z = a
+  - lim<sub>z → a</sub>f(z) exists
+  - lim<sub>z → a</sub>f(z) = f(a)
+- A function of a complex variable is said to be **differentiable** at a point z if the limit of the difference quotient as z approaches that point exists and is finite   .
+- Formally, a function f(z) is differentiable at z = a if and only if
+  - f(z) is defined at z = a
+  - lim<sub>z → a</sub>(f(z) - f(a))/(z - a) exists and is finite
+  - The limit is denoted by f'(a) and is called the **derivative** of f(z) at z = a
+- A function of a complex variable is said to be **analytic** at a point z if it is differentiable at z and at every point in some neighborhood of z  .
+- A function of a complex variable is said to be **entire** if it is analytic at every point in the complex plane  .
+- Some examples of continuous, differentiable, analytic and entire functions of a complex variable are:
+  - f(z) = z is continuous, differentiable, analytic and entire  .
+  - f(z) = z<sup>2</sup> is continuous, differentiable, analytic and entire  .
+  - f(z) = e<sup>z</sup> is continuous, differentiable, analytic and entire  .
+  - f(z) = sin(z) is continuous, differentiable, analytic and entire  .
+  - f(z) = |z| is continuous but not differentiable at any point  .
+  - f(z) = 1/z is continuous and differentiable at every point except z = 0, where it is undefined  .
+  - f(z) = log(z) is continuous and differentiable at every point except z = 0 and along the negative real axis, where it is undefined  .
+- Some properties of continuity and differentiability of functions of a complex variable are:
+  - If f(z) and g(z) are continuous at z = a, then f(z) + g(z), f(z) - g(z), f(z)g(z) and f(z)/g(z) (if g(a) ≠ 0) are also continuous at z = a   .
+  - If f(z) and g(z) are differentiable at z = a, then f(z) + g(z), f(z) - g(z), f(z)g(z) and f(z)/g(z) (if g(a) ≠ 0) are also differentiable at z = a, and the derivatives are given by the usual rules of differentiation   .
+  - If f(z) is differentiable at z = a, then f(z) is also continuous at z = a. The converse is not true    .
+  - If f(z) is analytic at z = a, then f(z) is also differentiable at z = a and at every point in some neighborhood of z = a. The converse is not true  .
+  - If f(z) is analytic in a domain

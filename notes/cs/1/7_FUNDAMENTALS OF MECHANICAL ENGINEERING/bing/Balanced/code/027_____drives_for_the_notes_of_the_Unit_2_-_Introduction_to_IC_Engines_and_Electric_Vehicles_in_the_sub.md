@@ -1,0 +1,22 @@
+### Drives for IC Engines and Electric Vehicles
+
+- A drive is a system that transfers power from a source to a load, such as a vehicle's wheels.
+- There are two main types of drives for vehicles: internal combustion engine (ICE) drives and electric vehicle (EV) drives.
+- ICE drives use fuel, such as gasoline or diesel, that combusts inside a combustion chamber with the help of an oxidizer, such as air, to produce mechanical power. The power is then transmitted to the wheels through a transmission, a clutch, a differential, and an axle.
+- EV drives use one or more electric motors that convert electrical energy from a battery or another source into mechanical power. The power is then transmitted to the wheels through a single-speed gearbox, a differential, and an axle .
+- Some of the advantages of ICE drives are:
+  - They have a longer driving range than EV drives, as fuel is more widely available and can be refilled faster than batteries can be recharged.
+  - They have a lower initial cost than EV drives, as ICE vehicles are more common and cheaper to produce than EV vehicles.
+  - They have a higher power density than EV drives, as ICE engines can produce more power per unit mass than electric motors.
+- Some of the disadvantages of ICE drives are:
+  - They emit harmful pollutants, such as carbon dioxide, nitrogen oxides, and particulate matter, that contribute to global warming and air pollution.
+  - They have a lower efficiency than EV drives, as ICE engines waste a lot of energy as heat and friction.
+  - They have a higher maintenance cost than EV drives, as ICE engines require regular oil changes, spark plugs, filters, and other components.
+- Some of the advantages of EV drives are:
+  - They have zero tailpipe emissions, as electric motors do not produce any exhaust gases.
+  - They have a higher efficiency than ICE drives, as electric motors convert almost all the electrical energy into mechanical power.
+  - They have a lower maintenance cost than ICE drives, as electric motors have fewer moving parts and do not require oil or other fluids.
+- Some of the disadvantages of EV drives are:
+  - They have a shorter driving range than ICE drives, as batteries have a limited capacity and take longer to recharge than fuel tanks to refill.
+  - They have a higher initial cost than ICE drives, as EV vehicles are more expensive and less common than ICE vehicles.
+  - They have a lower power density than ICE drives, as electric motors are heavier and bulkier than ICE engines for the same power output.

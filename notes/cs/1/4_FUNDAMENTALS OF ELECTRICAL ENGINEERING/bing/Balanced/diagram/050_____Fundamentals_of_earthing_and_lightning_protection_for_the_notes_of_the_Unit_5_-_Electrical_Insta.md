@@ -1,0 +1,16 @@
+### Fundamentals of earthing and lightning protection
+
+- Earthing and lightning protection are important for everyone that uses electrical equipment and that includes the large majority of the world.
+- Earthing is the process of connecting the metallic parts of an electrical system or appliance to the earth. This provides a low-resistance path for fault currents and protects the system and the users from electric shock.
+- Lightning protection is the process of intercepting or diverting lightning and providing a certain path for conducting the surges safely to the ground by adequate down conductors to grounding electrodes. This helps prevent disastrous events like fires, injuries, and deaths.
+- The basic principles of earthing and lightning protection are:
+  - Providing an alternative path for the lightning current to flow to ground and ensure that:
+    - Lightning current flowing in the lightning protection system (LPS) does not induce dangerous currents in any parallel metallic systems near the LPS, and
+    - The potential difference between the LPS and the earth is kept to a minimum.
+  - Providing a low-impedance connection between the LPS and the earth by using suitable earthing electrodes and conductors.
+  - Providing adequate bonding between the LPS and other metallic systems to avoid potential differences and flashovers.
+  - Providing surge protection devices (SPDs) to limit the overvoltages and transients that may affect the electrical equipment and appliances.
+- The types and components of earthing and lightning protection systems are:
+  - Earthing system: consists of earth electrodes, earth conductors, earth pits, and earth bars. The earth electrodes are buried in the soil and provide a low-resistance contact with the earth. The earth conductors connect the earth electrodes to the earth pits, where the connection to the electrical system is made. The earth bars are metal bars that provide a common point for connecting the earth conductors and the SPDs.
+  - Lightning protection system: consists of air terminals, down conductors, and grounding electrodes. The air terminals are metal rods or wires that are installed on the highest points of the structure to intercept the lightning. The down conductors connect the air terminals to the grounding electrodes, which are the same as the earth electrodes. The grounding electrodes provide a low-impedance path for the lightning current to dissipate into the earth.
+  - Surge protection system: consists of SPDs, bonding conductors, and equipotential bonding bars. The SPDs are devices that limit the overvoltages and transients that may affect the electrical equipment and appliances. They are connected between the live conductors and the earth conductors. The bonding conductors connect the SPDs to the equipotential bonding bars, which are metal bars that provide a common point for connecting the SPDs and the other metallic systems. The equipotential bonding bars ensure that there is no potential difference between the LPS and the other metallic systems.

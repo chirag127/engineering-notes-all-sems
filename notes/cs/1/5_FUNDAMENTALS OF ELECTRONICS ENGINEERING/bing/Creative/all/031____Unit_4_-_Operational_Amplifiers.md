@@ -1,0 +1,24 @@
+## Unit 4 - Operational Amplifiers
+
+- An operational amplifier (op amp) is an analog circuit block that takes a differential voltage input and produces a single-ended voltage output.
+- Op amps usually have three terminals: two high-impedance inputs and a low-impedance output port. The inverting input is denoted with a minus (-) sign, and the non-inverting input uses a positive (+) sign .
+- There are four ways to classify operational amplifiers based on their input and output characteristics:
+  - Voltage amplifiers take voltage in and produce a voltage at the output.
+  - Current amplifiers receive a current input and produce a current output.
+  - Transconductance amplifiers convert a voltage input to a current output.
+  - Transresistance amplifiers convert a current input to a voltage output.
+- Op amps are one of the basic building blocks of analog electronics. They can be used for various applications, such as amplification, filtering, signal conditioning, feedback, oscillation, and arithmetic operations .
+- Op amps have some ideal characteristics that make them versatile and easy to use:
+  - Infinite open-loop gain
+  - Infinite input impedance
+  - Zero output impedance
+  - Infinite bandwidth
+  - Zero noise
+  - Zero offset voltage
+- However, in reality, op amps have some limitations and non-idealities that affect their performance and require careful design and analysis:
+  - Finite open-loop gain
+  - Finite input impedance
+  - Non-zero output impedance
+  - Finite bandwidth
+  - Non-zero noise
+  - Non-zero offset voltage

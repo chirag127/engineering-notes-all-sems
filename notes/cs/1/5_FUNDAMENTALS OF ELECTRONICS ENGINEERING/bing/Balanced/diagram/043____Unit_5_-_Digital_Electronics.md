@@ -1,0 +1,12 @@
+## Unit 5 - Digital Electronics
+
+Digital electronics is the branch of electronics that deals with digital signals, logic gates, binary numbers, and circuits that perform arithmetic and logic operations.
+
+Some of the topics covered in this unit are:
+
+- **Digital signals**: These are signals that have only two discrete values, such as 0 and 1, or low and high. Digital signals are used to represent binary data and to communicate between digital devices.
+- **Logic gates**: These are basic building blocks of digital circuits that perform logical operations on one or more input signals and produce an output signal. There are seven basic types of logic gates: AND, OR, NOT, NAND, NOR, XOR, and XNOR. Each logic gate has a truth table that shows the output for every possible combination of inputs.
+- **Binary numbers**: These are numbers that use only two digits, 0 and 1, to represent any value. Binary numbers are used to store and manipulate data in digital devices. Binary numbers can be converted to and from other number systems, such as decimal, octal, and hexadecimal.
+- **Binary arithmetic**: This is the arithmetic that is performed on binary numbers using basic operations such as addition, subtraction, multiplication, and division. Binary arithmetic follows some rules and properties that are different from those of decimal arithmetic. For example, binary addition involves carrying over 1 when the sum of two bits is 2 or more.
+- **Binary codes**: These are codes that use binary numbers to represent different types of information, such as characters, symbols, colors, or instructions. Some common binary codes are ASCII, Unicode, BCD, Gray code, and Hamming code. Each binary code has a specific format and purpose.
+- **Logic circuits**: These are circuits that consist of one or more logic gates connected together to perform a specific function or task. Logic circuits can be classified into two types: combinational and sequential. Combinational circuits have outputs that depend only on the current inputs, while sequential circuits have outputs that depend on both the current and previous inputs. Some examples of logic circuits are adders, subtractors, multiplexers, demultiplexers, encoders, decoders, registers, counters, and flip-flops.

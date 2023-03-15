@@ -1,0 +1,28 @@
+## Unit 5 - Introduction to Measurement and Mechatronics
+
+- Measurement is the process of quantifying the physical properties of an object or phenomenon, such as length, mass, temperature, pressure, etc.
+- Mechatronics is the interdisciplinary field that integrates mechanical, electrical, and computer engineering to design, develop, and control systems that involve sensors, actuators, and feedback mechanisms.
+- The basic elements of a mechatronic system are:
+  - Input: the physical quantity or signal that is measured or controlled by the system, such as force, displacement, voltage, etc.
+  - Sensor: the device that converts the input into an electrical signal that can be processed by the system, such as a strain gauge, a thermocouple, a potentiometer, etc.
+  - Signal conditioning: the circuit that modifies, amplifies, filters, or converts the electrical signal from the sensor, such as an amplifier, a low-pass filter, an analog-to-digital converter, etc.
+  - Processor: the device that performs the computation, logic, or control functions of the system, such as a microcontroller, a microprocessor, a programmable logic controller, etc.
+  - Output: the physical quantity or signal that is controlled or affected by the system, such as torque, speed, current, etc.
+  - Actuator: the device that converts the electrical signal from the processor into the output, such as a motor, a solenoid, a relay, etc.
+  - Feedback: the mechanism that provides information about the output to the input, such as a tachometer, a position encoder, a pressure sensor, etc.
+- The advantages of mechatronic systems are:
+  - Higher performance, efficiency, accuracy, and reliability
+  - Greater flexibility, adaptability, and functionality
+  - Reduced size, weight, and cost
+  - Easier integration, maintenance, and troubleshooting
+- The challenges of mechatronic systems are:
+  - Complexity, diversity, and interdependence of the components and subsystems
+  - Nonlinearity, uncertainty, and variability of the physical phenomena and parameters
+  - Trade-offs, constraints, and conflicts of the design objectives and criteria
+  - Compatibility, standardization, and interoperability of the hardware and software
+- The applications of mechatronic systems are:
+  - Robotics, automation, and manufacturing
+  - Automotive, aerospace, and transportation
+  - Biomedical, health, and rehabilitation
+  - Energy, environment, and sustainability
+  - Consumer, entertainment, and education

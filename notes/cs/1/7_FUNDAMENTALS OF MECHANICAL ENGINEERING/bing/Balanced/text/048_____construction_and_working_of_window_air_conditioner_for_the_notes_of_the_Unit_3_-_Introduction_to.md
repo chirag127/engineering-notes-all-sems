@@ -1,0 +1,27 @@
+### Construction and Working of Window Air Conditioner
+
+- A window air conditioner is a small unit that can be mounted in a window or through a wall to cool a single room or space.
+- It consists of the following main components :
+  - A compressor, which compresses the refrigerant (usually R-22 or R-410A) and raises its pressure and temperature.
+  - A condenser, which is a coil of copper tubing with fins that transfers heat from the refrigerant to the outside air.
+  - A drier, which is a filter that removes moisture and impurities from the refrigerant.
+  - A capillary tube, which is a narrow tube that reduces the pressure and temperature of the refrigerant before it enters the evaporator.
+  - An evaporator, which is another coil of copper tubing with fins that absorbs heat from the room air and cools and dehumidifies it.
+  - A fan, which is a propeller or centrifugal type that circulates air through the condenser and the evaporator.
+  - A thermostat, which is a device that controls the temperature of the room by switching the compressor on and off.
+  - A control panel, which is a set of buttons or knobs that allows the user to adjust the settings of the air conditioner, such as the fan speed, the cooling mode, the timer, etc.
+- The working principle of a window air conditioner is based on the vapour compression cycle, which involves four processes :
+  - Compression: The refrigerant vapour at low pressure and temperature is sucked by the compressor and compressed to a high pressure and temperature.
+  - Condensation: The refrigerant vapour at high pressure and temperature is supplied by the compressor to the condenser, where it releases heat to the outside air and condenses into a liquid.
+  - Expansion: The refrigerant liquid at high pressure and temperature is passed through the capillary tube, where it expands and drops its pressure and temperature.
+  - Evaporation: The refrigerant liquid at low pressure and temperature is supplied by the capillary tube to the evaporator, where it absorbs heat from the room air and evaporates into a vapour.
+- The cycle repeats until the desired temperature of the room is reached.
+- The air circuit of a window air conditioner consists of three major air circulation systems:
+  - Room air: The air from the room is drawn over the evaporator fan through a filter, which removes dirt, dust, impurities, etc. The fan blows the cool and dry air back into the room.
+  - Outside air: The air from the outside is drawn over the condenser fan through a grille, which prevents the entry of insects, birds, etc. The fan blows the hot and humid air out of the unit.
+  - Refrigerant air: The air that carries the refrigerant between the compressor, the condenser, and the evaporator. It is sealed and insulated from the room air and the outside air.
+- The advantages of a window air conditioner are :
+  - It is easy to install and remove, as it does not require any ductwork or piping.
+  - It is relatively cheap and energy-efficient, as it cools only the space where it is installed.
+  - It is compact and portable, as it can be moved from one window to another or stored when not in use.
+  - It is suitable for small rooms or spaces, such as bedrooms, offices, shops, etc.

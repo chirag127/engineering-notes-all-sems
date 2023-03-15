@@ -1,0 +1,9 @@
+# 5. Students will be able build up personal traits that will make the transition from institution
+
+1. **Time management:** Students can develop the ability to prioritize tasks and manage their time effectively, which will be crucial when transitioning from an academic institution to a professional environment.
+2. **Communication skills:** Effective communication is essential in any professional setting. Students can work on developing their verbal and written communication skills, as well as their ability to listen actively and collaborate with others.
+3. **Adaptability:** The ability to adapt to new situations and challenges is important when transitioning from an academic institution to a professional environment. Students can develop this trait by seeking out new experiences and being open to change.
+4. **Critical thinking:** Critical thinking skills are essential for problem-solving and decision-making in a professional environment. Students can develop these skills by engaging in activities that challenge their assumptions and require them to think critically.
+5. **Self-motivation:** Self-motivation is the ability to set goals and work towards achieving them without external influence. This trait is important for students when transitioning from an academic institution to a professional environment, where they will need to be self-directed and take initiative.
+
+These are some of the personal traits that students can develop to make the transition from an academic institution to a professional environment smoother. By working on these skills, students can set themselves up for success in their future careers.

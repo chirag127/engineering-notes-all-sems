@@ -1,0 +1,16 @@
+# Clippers for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+- A **semiconductor diode** is a device that allows current to flow in one direction, but blocks it in the opposite direction  .
+- A semiconductor diode is made of two types of semiconductor materials: **p-type** and **n-type**. The p-type has a surplus of positive charges (holes), while the n-type has a surplus of negative charges (electrons) .
+- The junction of the p-type and n-type materials is called the **pn junction**. The pn junction has two terminals: the **anode** (connected to the p-type) and the **cathode** (connected to the n-type) .
+- When the anode is connected to a positive voltage and the cathode is connected to a negative voltage, the diode is said to be **forward biased**. In this condition, the diode allows current to flow from the anode to the cathode  .
+- When the anode is connected to a negative voltage and the cathode is connected to a positive voltage, the diode is said to be **reverse biased**. In this condition, the diode blocks current from flowing from the anode to the cathode, except for a very small **leakage current**  .
+- The **characteristic curve** of a diode shows the relationship between the voltage across the diode and the current through the diode. The curve has two regions: the **forward region** and the **reverse region**  .
+- In the forward region, the current increases exponentially with the voltage, until it reaches a **saturation current**. The voltage required to make the diode conduct is called the **threshold voltage** or the **cut-in voltage**  .
+- In the reverse region, the current is almost zero, until the voltage reaches a **breakdown voltage**. The breakdown voltage is the voltage at which the diode starts to conduct in the reverse direction, due to the **avalanche effect** or the **Zener effect**  .
+- A **clipper** is a circuit that uses one or more diodes to limit the voltage of an input signal to a certain range. A clipper can be used to protect a circuit from overvoltage, to remove unwanted parts of a signal, or to shape a signal into a desired form .
+- There are different types of clippers, such as **series clippers** and **parallel clippers**, **positive clippers** and **negative clippers**, **biased clippers** and **unbiased clippers**, and **combinational clippers** .
+- A series clipper has the diode connected in series with the load, while a parallel clipper has the diode connected in parallel with the load .
+- A positive clipper removes the positive parts of the input signal that are above a certain level, while a negative clipper removes the negative parts of the input signal that are below a certain level .
+- A biased clipper has a dc voltage source connected to the diode, which shifts the clipping level from zero to a desired value, while an unbiased clipper has no dc voltage source connected to the diode, which clips the signal at zero .
+- A combinational clipper has more than one diode and/or more than one dc voltage source, which allows clipping the signal at different levels for different parts of the signal .

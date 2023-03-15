@@ -1,0 +1,8 @@
+# Its meaning and application
+
+- Refrigeration is a process where thermal energy is transferred from a place with lower temperature to a place with higher temperature using energy, against the natural flow of heat .
+- Air conditioning is a type of refrigeration which is used to cool large volumes inhabited by people. It also involves controlling the humidity, ventilation, and air quality of the space .
+- The main purpose of using refrigeration and air conditioning is to lower the temperature of a particular area compared to the surroundings. The application of these can be seen in various domestic and industrial appliances such as ACs and refrigerators.
+- Refrigeration and air conditioning are critical to the health, comfort, and welfare of humanity. They are used for preserving food, medicine, and other perishable goods, as well as for providing thermal comfort and indoor air quality in buildings, vehicles, and public spaces.
+- Refrigeration and air conditioning systems are based on the principles of thermodynamics, heat transfer, and fluid mechanics. They consist of four main components: a compressor, a condenser, an expansion device, and an evaporator.
+- Refrigeration and air conditioning systems can be classified into different types according to the refrigerant used, the cycle configuration, the heat rejection method, the cooling capacity, and the application area. Some examples of refrigeration and air conditioning systems are vapor compression systems, vapor absorption systems, gas cycle systems, air cycle systems, and thermoelectric systems.

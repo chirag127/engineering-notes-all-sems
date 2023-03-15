@@ -1,0 +1,7 @@
+### Second order linear differential equations with variable coefficients
+
+- A second order linear differential equation is an equation of the form `a2(x)y'' + a1(x)y' + a0(x)y = r(x)`, where `a2(x)`, `a1(x)`, `a0(x)`, and `r(x)` are functions of the independent variable `x` and `a2(x)` is not identically zero .
+- If `r(x)` is identically zero, the equation is called **homogeneous**; otherwise, it is called **nonhomogeneous**.
+- The general solution of a homogeneous equation is a linear combination of two linearly independent solutions, which can be found by using the **method of reduction of order** or the **method of undetermined coefficients**.
+- The general solution of a nonhomogeneous equation is the sum of the general solution of the corresponding homogeneous equation and a **particular solution** of the nonhomogeneous equation, which can be found by using the **method of variation of parameters** or the **method of undetermined coefficients**.
+- Some special cases of second order linear differential equations with variable coefficients are the **Euler-Cauchy equation**, the **Legendre equation**, and the **Bessel equation**, which have solutions that involve special functions.

@@ -1,0 +1,11 @@
+### Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+1. **Constituents:** Cement is a binding material that sets, hardens, and adheres to other materials to bind them together. It is manufactured through a closely controlled chemical combination of calcium, silicon, aluminum, iron, and other ingredients.
+
+2. **Manufacturing:** The focus is on Portland cement, but attention is also given to other types, such as slag-containing cement and high-alumina cement. The historical development of cement, its manufacture from raw materials, its composition and properties, and the testing of those properties are surveyed.
+
+3. **Hardening and Setting:** Cements of this kind are finely ground powders that, when mixed with water, set to a hard mass. Setting and hardening result from hydration, which is a chemical combination of the cement compounds with water that yields submicroscopic crystals or a gel-like material with a high surface area. Hydration, setting, and hardening of Portland cement are constrained by C3S, C3A. And all the admixtures that affect the hydration of C3S, C3A can change the performance of the hydration, the setting, and hardening of Portland cement .
+
+4. **Deterioration of Cement:** Concrete can deteriorate for a variety of reasons, and concrete damage is often the result of a combination of factors. Set cement and concrete can suffer deterioration from attack by some natural or artificial chemical agents. The alumina compound is the most vulnerable to chemical attack in soils containing sulfate salts or in seawater, while the iron compound and the two calcium silicates are more resistant .
+
+5. **Plaster:** Plaster is a building material used for the protective or decorative coating of walls and ceilings and for molding and casting decorative elements. It is made by heating gypsum to around 150°C. When the dry plaster powder is mixed with water, it re-forms into gypsum.

@@ -1,0 +1,21 @@
+# Introduction to oral communication, Nuances and Modes of Speech Delivery
+
+Oral communication is the process of expressing ideas, feelings, opinions, or information through spoken words. Oral communication can take place in various contexts, such as interpersonal, group, public, or mass communication. Oral communication can have different purposes, such as informing, persuading, entertaining, or instructing.
+
+Some of the nuances and modes of speech delivery are:
+
+- **Tone**: The tone of voice is the expression of the speaker's attitude, emotion, or intention. Tone can convey confidence, enthusiasm, sincerity, sarcasm, anger, or boredom. Tone can also affect the listener's perception of the speaker's credibility, authority, or likability.
+- **Pitch**: The pitch of voice is the highness or lowness of the sound. Pitch can indicate the speaker's level of interest, excitement, or urgency. Pitch can also be used to emphasize certain words or phrases, or to create contrast or variation in the speech.
+- **Volume**: The volume of voice is the loudness or softness of the sound. Volume can indicate the speaker's level of confidence, assertiveness, or dominance. Volume can also be used to attract attention, to show respect, or to create intimacy or distance in the speech.
+- **Rate**: The rate of voice is the speed or tempo of the speech. Rate can indicate the speaker's level of nervousness, preparedness, or enthusiasm. Rate can also be used to create suspense, to show urgency, or to convey complex or simple information in the speech.
+- **Pause**: The pause is the deliberate or accidental silence in the speech. Pause can indicate the speaker's level of confidence, hesitation, or thoughtfulness. Pause can also be used to create emphasis, to signal a transition, or to invite feedback or participation in the speech.
+- **Articulation**: The articulation of voice is the clarity or accuracy of the pronunciation of the words. Articulation can indicate the speaker's level of education, professionalism, or familiarity with the topic or the audience. Articulation can also affect the listener's comprehension, retention, or impression of the message.
+- **Fluency**: The fluency of voice is the smoothness or continuity of the speech. Fluency can indicate the speaker's level of preparation, organization, or coherence of the message. Fluency can also affect the listener's attention, interest, or engagement in the speech.
+- **Nonverbal communication**: The nonverbal communication is the use of body language, facial expressions, eye contact, gestures, or physical appearance to complement, reinforce, or contradict the verbal message. Nonverbal communication can indicate the speaker's level of confidence, sincerity, or rapport with the audience. Nonverbal communication can also affect the listener's interpretation, evaluation, or response to the message.
+
+Some of the modes of speech delivery are:
+
+- **Impromptu**: Impromptu speech is the speech that is delivered without prior preparation or rehearsal. Impromptu speech requires the speaker to think quickly, to organize the ideas logically, and to adapt to the situation and the audience. Impromptu speech can be challenging, but it can also be spontaneous, authentic, and flexible.
+- **Extemporaneous**: Extemporaneous speech is the speech that is delivered with some preparation and notes, but without memorization or reading. Extemporaneous speech requires the speaker to research the topic, to outline the main points, and to practice the delivery. Extemporaneous speech can be effective, natural, and persuasive.
+- **Manuscript**: Manuscript speech is the speech that is delivered by reading a written text word for word. Manuscript speech requires the speaker to write the script, to rehearse the delivery, and to maintain eye contact and vocal variety. Manuscript speech can be accurate, precise, and consistent.
+- **Memorized**: Memorized speech is the speech that is delivered by reciting a written text from memory. Memorized speech requires the speaker to memorize the script, to rehearse the delivery, and to avoid sounding mechanical or monotonous. Memorized speech can be impressive, expressive, and confident.

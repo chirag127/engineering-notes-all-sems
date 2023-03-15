@@ -1,0 +1,8 @@
+### Non verbal Communication: Kinesics, Paralinguistic features of Voice-Dynamics
+
+Nonverbal communication refers to the exchange of information between individuals through non-linguistic means. It includes the use of visual cues such as body language (kinesics), distance (proxemics), and physical environments/appearance, of voice (paralanguage) and of touch (haptics). It can also include the use of time (chronemics) and eye contact and the actions of looking while talking and listening, frequency of glances, patterns of fixation, pupil dilation, and blink rate (oculesics).
+
+- **Kinesics** refers to the study of body movements, including posture, gestures, and facial expressions, as a means of communication. It is the interpretation of body language such as facial expressions and gestures — or, more formally, non-verbal behavior related to movement, either of any part of the body or the body as a whole.
+- **Paralinguistic features of Voice-Dynamics** refer to the non-verbal elements of speech, such as tone, pitch, volume, intonation, and rhythm, that can be used to communicate attitudes or emotions. These features can add emphasis or shades of meaning to what people say and can be used to provide cues to turn-taking in conversation.
+
+In summary, nonverbal communication is an essential part of human interaction and can provide valuable insights into the thoughts, feelings, and intentions of others. Understanding and effectively using nonverbal communication can enhance communication, build stronger relationships, and improve outcomes in a variety of social and professional situations.

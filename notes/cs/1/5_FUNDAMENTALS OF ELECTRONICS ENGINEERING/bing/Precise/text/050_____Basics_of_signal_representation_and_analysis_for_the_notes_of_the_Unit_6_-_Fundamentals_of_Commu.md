@@ -1,0 +1,11 @@
+### Basics of Signal Representation and Analysis
+
+1. **Signal Representation**: A signal is a function that conveys information about the behavior or attributes of some phenomenon. In the context of communication engineering, signals are typically electrical or electromagnetic representations of information.
+2. **Analog and Digital Signals**: Signals can be classified as analog or digital. Analog signals are continuous in time and amplitude, while digital signals are discrete in time and amplitude.
+3. **Time and Frequency Domain**: Signals can be analyzed in both the time and frequency domains. Time domain analysis involves the study of the signal's behavior over time, while frequency domain analysis involves the study of the signal's spectral content.
+4. **Fourier Transform**: The Fourier Transform is a mathematical tool used to decompose a signal into its constituent frequencies. It is commonly used in signal analysis to study the frequency content of a signal.
+5. **Sampling and Quantization**: In order to process analog signals using digital systems, the signals must first be converted into digital form. This is done through the processes of sampling and quantization. Sampling involves measuring the signal at discrete time intervals, while quantization involves approximating the signal's amplitude using a finite number of levels.
+6. **Aliasing**: Aliasing is a phenomenon that can occur when sampling a signal. If the sampling rate is not high enough, the signal's high-frequency content can be misrepresented, resulting in distortion.
+7. **Nyquist-Shannon Sampling Theorem**: The Nyquist-Shannon Sampling Theorem provides a guideline for choosing the appropriate sampling rate to avoid aliasing. According to the theorem, the sampling rate must be at least twice the highest frequency present in the signal.
+8. **Convolution**: Convolution is a mathematical operation used to describe the relationship between an input signal and the output of a linear, time-invariant system. It is commonly used in signal processing to apply filters to signals.
+9. **Correlation**: Correlation is a measure of the similarity between two signals. It is commonly used in signal processing to detect the presence of a known signal in a noisy environment.

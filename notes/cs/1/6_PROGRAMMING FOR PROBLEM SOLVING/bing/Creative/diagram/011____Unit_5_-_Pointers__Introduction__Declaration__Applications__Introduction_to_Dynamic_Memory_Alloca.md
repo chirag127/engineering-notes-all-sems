@@ -1,0 +1,35 @@
+## Unit 5 - Pointers: Introduction, Declaration, Applications, Introduction to Dynamic Memory Allocation (Malloc, Calloc, Realloc, Free), String and String functions , Use of Pointers in Self-Referential Structures, Notion of Linked List (No Implementation)
+
+- A pointer is a variable that stores the address of another variable in memory.
+- A pointer can be declared using the * operator followed by the data type and the pointer name, for example: `int *p;`
+- A pointer can be assigned the address of another variable using the & operator, for example: `p = &x;`
+- A pointer can be dereferenced using the * operator to access or modify the value of the variable it points to, for example: `*p = 10;`
+- Pointers can be used for various applications, such as:
+  - Passing arguments by reference to functions, which allows the function to modify the original variables.
+  - Returning multiple values from a function, by using pointers as output parameters.
+  - Creating dynamic data structures, such as arrays, linked lists, trees, etc.
+  - Implementing low-level operations, such as memory management, file handling, etc.
+- Dynamic memory allocation is the process of allocating and freeing memory at runtime, as per the program's needs.
+- Dynamic memory allocation can be done using the following functions from the `stdlib.h` library:
+  - `malloc(size_t n)` - allocates n bytes of memory and returns a pointer to the first byte, or NULL if the allocation fails.
+  - `calloc(size_t n, size_t m)` - allocates n*m bytes of memory, initializes all bytes to zero, and returns a pointer to the first byte, or NULL if the allocation fails.
+  - `realloc(void *p, size_t n)` - reallocates the memory pointed by p to n bytes, copies the existing data, and returns a pointer to the new memory, or NULL if the allocation fails. The old memory is freed if the allocation succeeds, or unchanged if it fails.
+  - `free(void *p)` - frees the memory pointed by p and makes it available for future allocation. The pointer p should have been returned by a previous call to malloc, calloc, or realloc.
+- A string is a sequence of characters terminated by a null character ('\0').
+- A string can be declared as an array of characters, for example: `char s[10];`
+- A string can be initialized using double quotes, for example: `char s[10] = "Hello";`
+- A string can be manipulated using various functions from the `string.h` library, such as:
+  - `strlen(char *s)` - returns the length of the string s, excluding the null character.
+  - `strcpy(char *d, char *s)` - copies the string s to the string d, including the null character.
+  - `strcat(char *d, char *s)` - appends the string s to the end of the string d, including the null character.
+  - `strcmp(char *s1, char *s2)` - compares the strings s1 and s2 lexicographically, and returns a negative, zero, or positive value if s1 is less than, equal to, or greater than s2, respectively.
+  - `strchr(char *s, char c)` - returns a pointer to the first occurrence of the character c in the string s, or NULL if not found.
+  - `strstr(char *s1, char *s2)` - returns a pointer to the first occurrence of the string s2 in the string s1, or NULL if not found.
+- A self-referential structure is a structure that contains a pointer to another variable of the same structure type, for example: `struct node { int data; struct node *next; };`
+- A self-referential structure can be used to create a linked list, which is a dynamic data structure that consists of a sequence of nodes, each node containing some data and a pointer to the next node.
+- A linked list can be traversed by following the pointers from the first node (called the head) to the last node (called the tail), which has a NULL pointer as its next field.
+- A linked list can be manipulated by inserting, deleting, or searching nodes at various positions, using pointer operations.
+- A linked list can have various types, such as:
+  - Singly linked list - each node has only one pointer to the next node.
+  - Doubly linked list - each node has two pointers, one to the next node and one to the previous node.
+  - Circular linked list - the last node has a pointer to the first node, forming a loop

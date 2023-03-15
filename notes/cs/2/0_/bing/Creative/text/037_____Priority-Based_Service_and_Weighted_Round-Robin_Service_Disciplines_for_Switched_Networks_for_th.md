@@ -1,0 +1,11 @@
+### Priority-Based Service and Weighted Round-Robin Service Disciplines for Switched Networks
+
+- Priority-based service disciplines are used to schedule the transmission of packets in a network according to their priority levels, delay bounds, jitter bounds and bandwidth requirements.
+- Weighted round-robin (WRR) service discipline is a type of priority-based service discipline that assigns a weight to each queue and serves the queues in a circular order, giving each queue a number of service slots proportional to its weight .
+- WRR service discipline has the advantages of simplicity, fairness and bandwidth guarantee, but it may not satisfy the diverse delay and jitter requirements of different types of packets.
+- To overcome this limitation, some variants of WRR service discipline have been proposed, such as:
+  - Rate-controlled frame-based weighted round-robin (RFWRR) service discipline, which divides the scheduler into a rate controller and a frame-based WRR server, and guarantees the delay jitter bound and satisfies a diverse set of delay requirements.
+  - Probabilistic priority (PP) service discipline, which is based on the strict priority (SP) service discipline with the difference that each priority queue is assigned a parameter that determines the probability with which its corresponding queue is served when it is polled by the server.
+  - Class-based weighted fair queuing (CBWFQ) service discipline, which extends the weighted fair queuing (WFQ) service discipline by allowing different classes of packets to have different weights and service rates.
+  - Weighted fair priority queuing (WFPQ) service discipline, which combines the features of WFQ and SP service disciplines by giving higher priority to the packets with smaller weights and lower priority to the packets with larger weights.
+- These variants of WRR service discipline aim to improve the performance of switched networks by providing different levels of quality of service (QoS) to different classes of packets, such as real-time, interactive and best-effort packets  .

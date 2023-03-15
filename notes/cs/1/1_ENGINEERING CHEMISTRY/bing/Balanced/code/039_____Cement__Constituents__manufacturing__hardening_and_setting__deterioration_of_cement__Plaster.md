@@ -1,0 +1,22 @@
+### Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+- Cement is a binding material that sets, hardens, and adheres to other materials to bind them together.
+- The main constituents of cement are calcium, silicon, aluminum, iron and other ingredients that are combined in different proportions depending on the type and grade of cement.
+- The manufacturing of cement involves four main stages: raw material preparation, clinker production, clinker grinding, and cement packing.
+  - Raw material preparation: The raw materials, such as limestone, clay, shale, sand, and iron ore, are crushed and blended to form a homogeneous mixture.
+  - Clinker production: The raw material mixture is heated in a rotary kiln at high temperatures (1400-1500°C) to form clinker, which is a nodular material consisting of calcium silicates and aluminates.
+  - Clinker grinding: The clinker is cooled and ground with gypsum and other additives to produce the final product of cement.
+  - Cement packing: The cement is stored in silos and packed in bags or bulk for distribution.
+- The hardening and setting of cement are due to the chemical reactions between water and the cement constituents, which form interlocking crystals and rigid gels.
+  - The initial setting time is the time required for the cement paste to lose its plasticity and workability, and it depends on the cement type, water-cement ratio, temperature, and admixtures.
+  - The final setting time is the time required for the cement paste to attain sufficient strength and rigidity, and it depends on the same factors as the initial setting time.
+  - The hardening of cement is a continuous process that can last for years, and it depends on the curing conditions, such as moisture, temperature, and pressure.
+- The deterioration of cement can be caused by various factors, such as chemical attack, corrosion of embedded metals, freeze-thaw cycles, alkali-aggregate reaction, sulfate attack, carbonation, abrasion, and fire.
+  - Chemical attack: Some natural or artificial agents, such as acids, salts, or seawater, can react with the cement constituents and cause deterioration. For example, the alumina compound in cement is vulnerable to sulfate attack, which can cause expansion and cracking of the cement paste.
+  - Corrosion of embedded metals: The most common cause of concrete deterioration is the corrosion of reinforcing steel, which can be triggered by the presence of chloride ions, carbon dioxide, oxygen, and moisture in the concrete. Corrosion can reduce the bond strength and cross-sectional area of the steel, and cause cracking and spalling of the concrete cover.
+  - Freeze-thaw cycles: Repeated freezing and thawing of water in the pores and cracks of concrete can cause internal pressure and damage. The resistance of concrete to freeze-thaw cycles depends on the air content, water-cement ratio, and curing conditions of the concrete.
+  - Alkali-aggregate reaction: This is a chemical reaction between the alkalis in the cement and some reactive aggregates, such as certain types of silica, which can cause expansion and cracking of the concrete. The severity of the reaction depends on the alkali content of the cement, the reactivity of the aggregates, the moisture content of the concrete, and the temperature.
+  - Sulfate attack: This is a chemical reaction between the sulfates in the soil or water and the calcium and alumina compounds in the cement, which can cause expansion and cracking of the concrete. The severity of the attack depends on the type and concentration of the sulfates, the permeability and porosity of the concrete, and the temperature.
+  - Carbonation: This is a chemical reaction between the carbon dioxide in the air and the calcium hydroxide in the cement, which can reduce the pH of the concrete and make it more susceptible to corrosion of embedded metals. The rate of carbonation depends on the exposure conditions, the water-cement ratio, and the curing conditions of the concrete.
+  - Abrasion: This is the physical wear and tear of the concrete surface due to friction or impact from external forces, such as traffic, machinery, or tools. The resistance of concrete to abrasion depends on the strength, hardness, and durability of the concrete and the aggregates.
+  - Fire: This is the exposure of concrete to high temperatures, which can cause thermal expansion

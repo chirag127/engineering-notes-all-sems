@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I will help you with your query. Here is the content in markdown format:
+
+### Need of modulation and typical applications
+
+Modulation is the process of changing one or more properties of a carrier wave, such as its amplitude, frequency or phase, according to the information or message signal. Modulation is required for various reasons, such as:
+
+- To increase the range and quality of communication: Modulation enables the transmission of low-frequency signals over long distances by using high-frequency carrier waves, which have less attenuation and interference. Modulation also improves the signal-to-noise ratio at the receiver by using techniques such as amplitude modulation, frequency modulation or phase modulation .
+- To reduce the size and cost of the antenna: Modulation allows the use of a smaller and cheaper antenna, which is proportional to the wavelength of the carrier wave. For example, if the message signal has a frequency of 1 kHz, the wavelength is 300 km, which requires a very large antenna. But if the message signal is modulated by a carrier wave of 1 MHz, the wavelength is 300 m, which requires a much smaller antenna .
+- To enable multiplexing and multiple access: Modulation allows the transmission of multiple signals over the same channel or medium by using different carrier frequencies, phases or codes. This is known as frequency division multiplexing, phase division multiplexing or code division multiplexing. Modulation also enables multiple users to share the same channel or medium by using different carrier frequencies, phases or codes. This is known as frequency division multiple access, phase division multiple access or code division multiple access .
+- To facilitate modulation and demodulation: Modulation simplifies the design and implementation of modulators and demodulators, which are devices that perform modulation and demodulation. Modulation also allows the use of standard and compatible modulators and demodulators for different types of signals and applications .
+
+Some of the typical applications of modulation are:
+
+- Radio and television broadcasting: Modulation is used to transmit audio and video signals over radio waves, which are electromagnetic waves of high frequency. For example, amplitude modulation is used for AM radio, frequency modulation is used for FM radio, and vestigial sideband modulation is used for analog TV .
+- Mobile and wireless communication: Modulation is used to transmit voice and data signals over wireless channels, such as cellular networks, Wi-Fi, Bluetooth, satellite communication, etc. For example, frequency shift keying is used for GSM, orthogonal frequency division multiplexing is used for Wi-Fi, and quadrature amplitude modulation is used for LTE .
+- Optical communication: Modulation is used to transmit signals over optical fibers, which are thin strands of glass or plastic that carry light waves. For example, on-off keying is used for simple optical communication, and phase shift keying is used for high-speed optical communication .
+- Digital communication: Modulation is used to transmit digital signals over analog baseband or bandpass channels, such as telephone lines, coaxial cables, microwave links, etc. For example, pulse amplitude modulation is used for baseband transmission, and binary phase shift keying is used for bandpass transmission .

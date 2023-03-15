@@ -1,0 +1,8 @@
+### Power factor
+
+- Power factor is a dimensionless quantity that measures how effectively an AC circuit uses the supplied power.
+- Power factor is defined as the ratio of the real power (P) to the apparent power (S) in an AC circuit. Real power is the average power that is converted into useful work, while apparent power is the product of the RMS voltage and current in the circuit.
+- Power factor can also be expressed as the cosine of the phase angle (θ) between the voltage and current waveforms in the circuit. The phase angle represents the degree of alignment or misalignment between the voltage and current.
+- Power factor can range from 0 to 1, where 0 means no power is delivered to the load and 1 means all the power is delivered to the load. A power factor of 1 is also called unity power factor, and it indicates that the voltage and current are in phase and the circuit is purely resistive.
+- A power factor less than 1 means that the voltage and current are not in phase and the circuit has some reactive components, such as capacitors or inductors. A power factor less than 1 also implies that the apparent power is greater than the real power, which means that some power is wasted in the circuit and the efficiency is reduced.
+- A low power factor can cause several problems in an AC power system, such as increased losses, reduced voltage, overheating of equipment, and higher costs. Therefore, it is desirable to improve the power factor of a circuit by using devices such as power factor correction capacitors or synchronous motors that can adjust the phase angle and reduce the reactive power.

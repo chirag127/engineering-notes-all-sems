@@ -1,0 +1,25 @@
+# Unit 1 - Introduction to Components of a Computer System
+
+A computer system is a device that can process data and information according to a set of instructions. A computer system consists of several components that work together to perform various tasks. The main components of a computer system are:
+
+- **Memory**: Memory is the component that stores data and instructions temporarily or permanently. Memory can be classified into two types: volatile and non-volatile. Volatile memory, such as RAM, loses its content when the power is turned off. Non-volatile memory, such as ROM, retains its content even when the power is off. Memory can also be categorized into primary and secondary memory. Primary memory, such as cache and registers, is directly accessible by the processor and has a fast access speed. Secondary memory, such as hard disk and optical disk, is indirectly accessible by the processor and has a slower access speed.
+- **Processor**: Processor is the component that executes the instructions stored in the memory and performs arithmetic and logical operations on data. Processor can be divided into two parts: control unit and arithmetic logic unit. Control unit is responsible for fetching, decoding and executing the instructions. Arithmetic logic unit is responsible for performing calculations and comparisons on data. Processor can also have multiple cores, which are independent processing units that can execute multiple instructions simultaneously.
+- **I/O Devices**: I/O devices are the components that allow the user to interact with the computer system and transfer data to and from the system. I/O devices can be classified into two types: input devices and output devices. Input devices, such as keyboard and mouse, are used to enter data and commands into the system. Output devices, such as monitor and printer, are used to display or print the results or information from the system. Some devices, such as touch screen and scanner, can function as both input and output devices.
+- **Storage**: Storage is the component that stores data and information permanently or semi-permanently. Storage can be classified into two types: internal storage and external storage. Internal storage, such as hard disk and solid state drive, is located inside the computer system and has a high storage capacity and a fast access speed. External storage, such as USB flash drive and cloud storage, is located outside the computer system and can be easily removed or accessed from different devices.
+- **Operating System**: Operating system is the component that manages the resources and activities of the computer system and provides an interface between the user and the hardware. Operating system can perform various functions, such as:
+
+  - Booting: Loading the essential files and programs into the memory when the system is turned on.
+  - Process management: Creating, scheduling and terminating the processes that execute the instructions.
+  - Memory management: Allocating, deallocating and swapping the memory space for the processes and data.
+  - Device management: Controlling, coordinating and communicating with the I/O devices and drivers.
+  - File management: Organizing, accessing and manipulating the files and directories on the storage devices.
+  - Security: Protecting the system and data from unauthorized access and malicious attacks.
+  - User interface: Providing a graphical or textual interface for the user to interact with the system and applications.
+
+- **Concept of Assembler, Compiler, Interpreter, Loader and Linker**: These are the components that translate, load and link the source code or program written by the user into the executable code or program that can be run by the processor. The concept of these components are:
+
+  - Assembler: An assembler is a program that converts the assembly language code, which uses mnemonic symbols and labels to represent the instructions and operands, into the machine language code, which uses binary numbers to represent the instructions and operands.
+  - Compiler: A compiler is a program that converts the high-level language code, which uses words and symbols to represent the instructions and data, into the low-level language code, such as assembly language or machine language, which can be understood by the processor.
+  - Interpreter: An interpreter is a program that converts and executes the high-level language code line by line, without producing a separate executable file. An interpreter is slower than a compiler, but more flexible and portable.
+  - Loader: A loader is a program that loads the executable file or program from the storage device into the memory for execution by the processor. A loader can also relocate and resolve the addresses and symbols in the program.
+  - Linker: A linker is a program that links the object files or modules produced by the assembler or compiler into a single executable file or program. A linker can also link the external libraries or functions that are referenced by the program.

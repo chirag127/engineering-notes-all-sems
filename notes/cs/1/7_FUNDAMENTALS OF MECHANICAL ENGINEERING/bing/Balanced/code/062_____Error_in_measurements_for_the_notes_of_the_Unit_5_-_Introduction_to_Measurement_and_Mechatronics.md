@@ -1,0 +1,8 @@
+### Error in measurements
+
+- Error in measurements is the deviation of the measured value from the true value of the quantity.
+- Error can be classified into two types: systematic error and random error.
+- Systematic error is the error that is constant and predictable in a measurement. It can be caused by factors such as faulty instruments, incorrect calibration, improper methods, or personal bias. Systematic error can be reduced by correcting the source of error or applying a suitable correction factor.
+- Random error is the error that is unpredictable and varies in a measurement. It can be caused by factors such as environmental disturbances, fluctuations in the instrument, or human errors. Random error can be reduced by increasing the number of measurements and applying statistical methods such as mean, standard deviation, or confidence interval.
+- The accuracy of a measurement is the degree of closeness of the measured value to the true value. Accuracy can be expressed as a percentage or as an absolute error. Absolute error is the difference between the measured value and the true value. Percentage error is the ratio of the absolute error to the true value, multiplied by 100.
+- The precision of a measurement is the degree of repeatability or consistency of the measured values. Precision can be expressed as a range or as a standard deviation. Range is the difference between the maximum and minimum measured values. Standard deviation is the measure of how much the measured values deviate from the mean value.

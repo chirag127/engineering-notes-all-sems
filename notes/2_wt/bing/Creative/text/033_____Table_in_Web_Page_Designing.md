@@ -1,0 +1,21 @@
+### Table in Web Page Designing
+
+- A table is a way of displaying and describing data in the form of rows and columns.
+- A table can be created using HTML and CSS3, which are the languages of web development .
+- A table can be used for various purposes, such as presenting information, comparing data, organizing content, or creating layouts .
+- A table consists of the following elements :
+  - A `<table>` tag that defines the start and end of the table.
+  - A `<tr>` tag that defines each table row.
+  - A `<td>` tag that defines each table cell or data.
+  - A `<th>` tag that defines each table header or column name.
+  - A `<caption>` tag that defines the title of the table.
+  - A `<colgroup>` tag that defines a group of columns for styling purposes.
+  - A `<col>` tag that defines each column within a colgroup.
+  - A `<thead>` tag that defines the header section of the table.
+  - A `<tbody>` tag that defines the body section of the table.
+  - A `<tfoot>` tag that defines the footer section of the table.
+- A table can be styled using CSS properties, such as border, padding, margin, background, font, color, alignment, etc .
+- A table can be responsive, meaning that it can adapt to different screen sizes and devices, by using media queries, flexbox, or grid layout .
+- A table can be interactive, meaning that it can respond to user actions, such as sorting, filtering, searching, or editing, by using JavaScript, jQuery, or other frameworks .
+- A table can be enhanced with additional features, such as pagination, scrolling, fixed header, or export, by using plugins, libraries, or APIs .
+- A table can be created using various tools, such as Bootstrap, Nicepage, W3Schools, or Duda, which provide ready-made templates, examples, and tutorials   .

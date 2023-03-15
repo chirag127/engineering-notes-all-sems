@@ -1,0 +1,8 @@
+# Materials Chemistry
+
+- Materials chemistry is a branch of chemistry that deals with the design, synthesis, characterization, processing and understanding of materials with interesting or useful physical properties   .
+- Materials can be classified into different types based on their composition, structure, properties and applications. Some common types of materials are metals, ceramics, polymers, composites, biomaterials, nanomaterials, etc.
+- Materials chemistry aims to create new forms of matter, whether organic, inorganic or hybrid, that can perform specific functions or have novel characteristics, such as magnetism, optical activity, catalysis, biocompatibility, etc .
+- Materials chemistry also seeks to understand the molecular-level mechanisms that govern the behavior and interactions of materials, such as bonding, phase transitions, diffusion, reaction kinetics, etc.
+- Materials chemistry is an interdisciplinary field that draws from various branches of chemistry, such as organic, inorganic, physical, analytical and biochemistry, as well as from other disciplines, such as physics, engineering, biology and mathematics.
+- Materials chemistry has many applications in various domains, such as energy, electronics, medicine, environment, aerospace, etc. Some examples of materials chemistry products are batteries, solar cells, LEDs, sensors, drug delivery systems, biodegradable plastics, etc.

@@ -1,0 +1,23 @@
+### Corrosion: Introduction to corrosion, Types of corrosion, Cause of corrosion, Corrosion
+
+- Corrosion is the deterioration of a material, usually a metal, due to a chemical or electrochemical reaction with its environment.
+- Corrosion can cause loss of material, mechanical strength, functionality, and aesthetic value of the metal.
+- Corrosion can also pose safety, health, and environmental hazards if not prevented or controlled.
+- Corrosion can be classified into different types based on the mechanism, morphology, environment, or affected material. Some common types of corrosion are:
+  - Uniform corrosion: The metal surface corrodes at a uniform rate over the entire exposed area. This type of corrosion is predictable and easy to measure.
+  - Galvanic corrosion: Two dissimilar metals are in contact with each other and an electrolyte, creating a galvanic cell. The more active metal (anode) corrodes faster than the less active metal (cathode).
+  - Pitting corrosion: The metal surface corrodes at localized spots, forming pits or holes. This type of corrosion is difficult to detect and can cause perforation of the metal.
+  - Crevice corrosion: The metal surface corrodes at narrow gaps or crevices where stagnant solution accumulates. This type of corrosion is influenced by the geometry, size, and chemistry of the crevice.
+  - Intergranular corrosion: The metal surface corrodes along the grain boundaries, leaving the grains intact. This type of corrosion is caused by the segregation of impurities or alloying elements at the grain boundaries.
+  - Stress corrosion cracking: The metal surface cracks under the combined action of tensile stress and a corrosive environment. This type of corrosion is influenced by the stress level, material, and environment.
+  - Corrosion fatigue: The metal surface cracks under the combined action of cyclic stress and a corrosive environment. This type of corrosion is influenced by the stress amplitude, frequency, material, and environment.
+  - Erosion corrosion: The metal surface corrodes due to the mechanical abrasion of a fluid or solid particles. This type of corrosion is influenced by the velocity, direction, and hardness of the fluid or particles.
+  - Microbiologically influenced corrosion: The metal surface corrodes due to the metabolic activity of microorganisms, such as bacteria, fungi, or algae. This type of corrosion is influenced by the type, concentration, and diversity of the microorganisms.
+- The cause of corrosion is the thermodynamic tendency of metals to revert to their natural state, which is usually an oxide, hydroxide, or sulfide. Metals are extracted from their ores by applying energy, such as heat or electricity. When metals are exposed to a corrosive environment, they tend to release this energy and return to their lower energy state, which is more stable.
+- Corrosion can be prevented or controlled by various methods, such as:
+  - Material selection: Choosing a metal or alloy that is resistant to corrosion in a given environment, or using non-metallic materials, such as plastics or ceramics.
+  - Coating: Applying a protective layer of paint, metal, or polymer on the metal surface to isolate it from the corrosive environment.
+  - Cathodic protection: Applying an external electric current or a sacrificial anode to the metal surface to make it the cathode of a galvanic cell, thus preventing its corrosion.
+  - Corrosion inhibitors: Adding chemicals to the corrosive environment to reduce the corrosion rate of the metal surface, either by forming a protective film, reducing the aggressiveness of the environment, or interfering with the corrosion reaction.
+  - Design: Avoiding crevices, sharp corners, stress concentrations, and dissimilar metals in the metal structure to reduce the susceptibility to corrosion.
+  - Maintenance: Inspecting, cleaning, repairing, and replacing the metal components to prevent or mitigate corrosion damage.

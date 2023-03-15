@@ -1,0 +1,11 @@
+### Bandwidth and Quality Factor for the Notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the Subject of Fundamentals of Electrical Engineering
+
+- Bandwidth of a resonant circuit is the range of frequencies over which the current or voltage amplitude is equal to or greater than 70.7% of its maximum value   .
+- Quality factor of a resonant circuit is a dimensionless quantity that measures how underdamped an oscillator or resonator is, or equivalently, how narrow the bandwidth of the resonator is relative to its center frequency    .
+- The quality factor of an AC circuit is related to bandwidth as inversely proportional, that is, Q = f<sub>r</sub>/BW, where f<sub>r</sub> is the resonant frequency and BW is the bandwidth   .
+- A high quality factor implies a low rate of energy loss relative to the stored energy of the resonator, or a narrow bandwidth relative to the resonant frequency, or a sharp peak in the frequency response   .
+- A low quality factor implies a high rate of energy loss relative to the stored energy of the resonator, or a wide bandwidth relative to the resonant frequency, or a flat peak in the frequency response   .
+- The quality factor and bandwidth of a resonant circuit depend on the values of the resistance, inductance and capacitance in the circuit, as well as the type of the circuit (series or parallel)  .
+- For a series resonant circuit, the quality factor is given by Q = X<sub>L</sub>/R = 1/(R X<sub>C</sub>), where X<sub>L</sub> is the inductive reactance, R is the resistance and X<sub>C</sub> is the capacitive reactance .
+- For a parallel resonant circuit, the quality factor is given by Q = R/X<sub>L</sub> = R X<sub>C</sub>, where X<sub>L</sub> is the inductive reactance, R is the resistance and X<sub>C</sub> is the capacitive reactance .
+- The quality factor and bandwidth of a resonant circuit are important parameters for designing and analyzing filters, oscillators, amplifiers and other AC circuits that operate at or near resonance   .

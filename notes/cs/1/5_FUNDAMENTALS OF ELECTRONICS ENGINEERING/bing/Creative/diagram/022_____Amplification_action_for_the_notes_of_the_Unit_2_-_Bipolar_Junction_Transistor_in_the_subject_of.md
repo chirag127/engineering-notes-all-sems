@@ -1,0 +1,22 @@
+### Amplification action for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+- A bipolar junction transistor (BJT) is a three-terminal device that can amplify the input signal and produce an amplified output signal.
+- A BJT consists of two p-n junctions, one between the base and the emitter, and the other between the base and the collector.
+- The base is the control terminal, the emitter is the input terminal, and the collector is the output terminal.
+- A BJT can be either an npn or a pnp type, depending on the arrangement of the p-type and n-type semiconductor materials.
+- A BJT can operate in three regions: cut-off, active, and saturation.
+- In the cut-off region, the base-emitter junction and the base-collector junction are both reverse biased, and no current flows through the transistor.
+- In the active region, the base-emitter junction is forward biased and the base-collector junction is reverse biased, and the transistor acts as a current amplifier.
+- In the saturation region, the base-emitter junction and the base-collector junction are both forward biased, and the transistor acts as a switch.
+- The amplification action of a BJT is based on the fact that a small change in the base current can cause a large change in the collector current, as long as the transistor is in the active region.
+- The current gain of a BJT is defined as the ratio of the collector current to the base current, and it is denoted by β or hFE.
+- The voltage gain of a BJT is defined as the ratio of the output voltage to the input voltage, and it is denoted by Av or hFE.
+- The power gain of a BJT is defined as the ratio of the output power to the input power, and it is denoted by Ap or hFE.
+- Depending on the quantity amplified by the circuit, the BJT amplifier could be a voltage, current, or power amplifier.
+- A BJT amplifier can be classified into three types based on the configuration of the terminals: common emitter, common base, and common collector.
+- A common emitter amplifier has the emitter terminal as the common terminal for both the input and the output, and it provides high voltage gain, high current gain, and high power gain.
+- A common base amplifier has the base terminal as the common terminal for both the input and the output, and it provides low voltage gain, high current gain, and low power gain.
+- A common collector amplifier has the collector terminal as the common terminal for both the input and the output, and it provides high voltage gain, low current gain, and high power gain.
+- A BJT amplifier can be biased using various methods, such as fixed bias, emitter bias, voltage divider bias, etc., to ensure that the transistor operates in the desired region.
+- A BJT amplifier can be analyzed using various models, such as the hybrid model, the re model, the h-parameter model, etc., to determine the input and output impedances, the voltage and current gains, and the frequency response.
+- A BJT amplifier can be used for various applications, such as audio amplification, signal processing, switching, oscillation, etc..

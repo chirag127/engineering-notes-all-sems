@@ -1,0 +1,8 @@
+### Dew point temperatures
+
+- Dew point temperature is the temperature at which the air becomes saturated with water vapor, assuming constant air pressure and water content  .
+- When the air is cooled below the dew point temperature, the excess water vapor will condense into liquid water, forming dew, fog, or clouds .
+- Dew point temperature is an indicator of the humidity or moisture content of the air. The higher the dew point temperature, the more water vapor the air can hold  .
+- Dew point temperature is also related to the relative humidity, which is the ratio of the actual water vapor pressure to the saturation water vapor pressure at a given temperature. The relative humidity is 100% when the air temperature is equal to the dew point temperature .
+- Dew point temperature can be measured using a device called a hygrometer, which consists of a wet-bulb thermometer and a dry-bulb thermometer. The difference between the two readings is used to calculate the dew point temperature using a psychrometric chart or a formula .
+- Dew point temperature is important for various applications, such as refrigeration, air conditioning, meteorology, agriculture, and human comfort. For example, in refrigeration and air conditioning systems, the dew point temperature determines the amount of moisture that can be removed from the air by cooling it. In meteorology, the dew point temperature affects the formation and dissipation of clouds, precipitation, and fog. In agriculture, the dew point temperature influences the growth and development of crops and the occurrence of frost. In human comfort, the dew point temperature affects the perception of heat and cold and the risk of heat stress or hypothermia  .

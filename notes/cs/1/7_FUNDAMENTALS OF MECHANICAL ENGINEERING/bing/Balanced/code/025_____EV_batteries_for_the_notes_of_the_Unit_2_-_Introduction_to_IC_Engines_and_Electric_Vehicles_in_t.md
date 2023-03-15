@@ -1,0 +1,8 @@
+### EV batteries
+
+- EV batteries are the devices that store electrical energy and power the electric motors in electric vehicles (EVs).
+- EV batteries are usually rechargeable and can be charged from external sources or from regenerative braking, which converts kinetic energy into electricity during deceleration.
+- The most common type of EV battery is lithium-ion, which has high energy density, long cycle life, and low self-discharge rate. Lithium-ion batteries are composed of positive and negative electrodes, an electrolyte, and a separator.
+- Other types of EV batteries include lead-acid, nickel-cadmium, nickel-metal hydride, zinc-air, and sodium nickel chloride, but they have lower performance, higher cost, or environmental issues compared to lithium-ion batteries.
+- EV batteries have several advantages over internal combustion engines, such as lower emissions, higher efficiency, lower maintenance, and lower noise. However, they also face some challenges, such as high cost, limited range, long charging time, and safety concerns.
+- EV batteries are constantly evolving and improving, with new technologies and materials being developed to increase their capacity, durability, safety, and affordability. Some of the emerging trends in EV batteries are solid-state batteries, which use solid electrolytes instead of liquid ones, and wireless charging, which eliminates the need for plugs and cords .

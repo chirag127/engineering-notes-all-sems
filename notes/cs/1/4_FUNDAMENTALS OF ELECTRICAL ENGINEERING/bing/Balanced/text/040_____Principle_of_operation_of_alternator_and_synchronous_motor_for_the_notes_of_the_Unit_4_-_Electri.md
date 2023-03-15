@@ -1,0 +1,10 @@
+### Principle of operation of alternator and synchronous motor
+
+- An **alternator** or **synchronous generator** is a device that converts mechanical energy into electrical energy by producing alternating current (AC) voltage.
+- A **synchronous motor** is a device that converts electrical energy into mechanical energy by rotating a shaft at a constant speed that is synchronized with the frequency of the AC supply.
+- Both devices work on the principle of **electromagnetic induction**, i.e., when the flux linking a conductor changes, an EMF is induced in the conductor .
+- The main components of both devices are a **stator** and a **rotor**. The stator is the stationary part that contains the armature winding, and the rotor is the rotating part that contains the field winding.
+- The stator winding is connected to a three-phase AC supply, which creates a rotating magnetic field (RMF) that rotates at a speed of 120f/p revolutions per minute, where f is the frequency of the supply and p is the number of poles .
+- The rotor winding is connected to a direct current (DC) supply, which creates a constant magnetic field that aligns with the RMF of the stator.
+- In an alternator, the rotor is driven by a prime mover, such as a turbine or an engine, which causes the rotor magnetic field to cut the stator winding and induce an AC voltage in it. The output voltage of the alternator depends on the speed of the rotor, the number of turns in the stator winding, and the strength of the rotor magnetic field.
+- In a synchronous motor, the stator winding is connected to a load, such as a fan or a pump, which causes the stator magnetic field to exert a torque on the rotor and make it rotate. The speed of the rotor is equal to the speed of the stator RMF, and the power factor of the motor depends on the angle between the rotor and stator magnetic fields.

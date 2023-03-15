@@ -1,0 +1,27 @@
+### ACB
+
+- ACB stands for Air Circuit Breaker, which is an electrical device used to provide overcurrent and short-circuit protection for electric circuits over 800 Amps to 10kA   .
+- ACB operates at atmospheric pressure in air, where air-blast as an arc quenching medium .
+- ACB is used in the switching mechanism and protection of the electrical system, especially in low voltage applications below 450V .
+- ACB has three main components: the contacts, the arc chute, and the operating mechanism .
+- The contacts are the conductive parts that carry the current and make or break the circuit. They consist of a fixed contact and a moving contact .
+- The arc chute is the device that extinguishes the arc when the contacts separate. It consists of a series of metal plates that create a low resistance path for the arc and split it into smaller arcs that are easier to quench .
+- The operating mechanism is the device that controls the opening and closing of the contacts. It can be manual, spring, or magnetic .
+- ACB can be classified into two types: plain air circuit breaker and air blast circuit breaker .
+- Plain air circuit breaker uses the natural process of air to quench the arc. It has a simple construction and low maintenance cost, but it has a slow speed of operation and a large size .
+- Air blast circuit breaker uses a high-pressure air blast to quench the arc. It has a high speed of operation and a small size, but it has a high maintenance cost and a high noise level .
+- ACB has several advantages over other types of circuit breakers, such as oil circuit breaker and vacuum circuit breaker. Some of the advantages are  :
+  - ACB does not require any insulating medium other than air, which is cheap and readily available.
+  - ACB does not produce any harmful gases or fire hazards during operation, unlike oil circuit breaker.
+  - ACB does not have any contact erosion or metal deposition problems, unlike vacuum circuit breaker.
+  - ACB has a high breaking capacity and a long service life.
+  - ACB can be easily integrated with other protection devices and control systems.
+- ACB has some disadvantages as well, such as  :
+  - ACB requires a large space for installation and a high voltage rating for the contacts.
+  - ACB has a high initial cost and a high power consumption for the air compressor.
+  - ACB has a high arc voltage and a high arc resistance, which may affect the current interruption and the voltage recovery.
+  - ACB may cause electromagnetic interference and acoustic noise due to the air blast.
+- ACB has various applications in the electrical industry, such as  :
+  - ACB is used in distribution panels, switchboards, and substations for low voltage systems.
+  - ACB is used in industrial plants, power stations, and transmission lines for medium voltage systems.
+  - ACB is used in special applications, such as railways, ships, and aircrafts, where high speed and reliability are required.

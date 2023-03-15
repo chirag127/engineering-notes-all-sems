@@ -1,0 +1,11 @@
+# Fundamentals of amplitude modulation and demodulation techniques
+
+- Amplitude modulation (AM) is a technique to transmit information via radio carrier waveform by varying the amplitude of the carrier signal in proportion to the amplitude of the modulation signal that is to be transmitted.
+- Amplitude modulation can be achieved by multiplying the carrier signal with the modulation signal in the time domain or by adding the sidebands to the carrier signal in the frequency domain.
+- Amplitude modulation can be classified into different types based on the modulation index, such as double-sideband full-carrier (DSB-FC), double-sideband suppressed-carrier (DSB-SC), single-sideband (SSB), and vestigial sideband (VSB) modulation.
+- Demodulation is the process of extracting the original information signal from the modulated carrier signal.
+- Demodulation of AM signals can be performed by using different techniques, such as envelope detector, product detector, synchronous detector, and coherent detector .
+- Envelope detector is the simplest and most common technique for demodulating AM signals. It consists of a diode, a capacitor, and a resistor. It works by rectifying the AM signal and smoothing it with a low-pass filter to recover the modulation signal.
+- Product detector is a technique that multiplies the AM signal with a local oscillator signal that has the same frequency and phase as the carrier signal. It works by shifting the AM signal to the baseband and filtering out the unwanted components.
+- Synchronous detector is a technique that uses a phase-locked loop (PLL) to generate a local oscillator signal that is synchronized with the carrier signal. It works by multiplying the AM signal with the PLL output and filtering out the unwanted components.
+- Coherent detector is a technique that uses a reference signal that is derived from the transmitted carrier signal or a pilot signal. It works by multiplying the AM signal with the reference signal and filtering out the unwanted components.

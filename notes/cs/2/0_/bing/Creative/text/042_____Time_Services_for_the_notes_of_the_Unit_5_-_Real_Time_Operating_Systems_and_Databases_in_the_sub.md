@@ -1,0 +1,12 @@
+### Time Services
+
+Time services are essential components of real-time systems, as they provide the means to measure, control, and synchronize the temporal behavior of the system and its components. Time services can be classified into two categories: clock services and timer services.
+
+- Clock services are responsible for providing a common notion of time to the system and its components, by maintaining and distributing a reference clock value. Clock services can be implemented by using hardware clocks, software clocks, or a combination of both. Hardware clocks are physical devices that generate periodic signals based on a stable oscillator. Software clocks are logical entities that derive their values from hardware clocks or other sources, such as network messages or external events. Clock services can also support different time domains, such as local time, universal time, or application-specific time.
+- Timer services are responsible for providing mechanisms to schedule and execute actions based on time. Timer services can be implemented by using hardware timers, software timers, or a combination of both. Hardware timers are physical devices that generate interrupts or signals after a specified amount of time has elapsed. Software timers are logical entities that use clock services or other sources to trigger actions based on time. Timer services can also support different types of timers, such as one-shot timers, periodic timers, or deadline timers.
+
+Time services are crucial for real-time systems, as they enable the following functions:
+
+- Time measurement: Time services allow the system to measure the duration of events, tasks, or operations, and to compare them with the specified timing constraints or deadlines. Time measurement is essential for ensuring the timeliness and correctness of the system's behavior.
+- Time control: Time services allow the system to control the execution order and priority of events, tasks, or operations, based on their timing requirements or deadlines. Time control is essential for ensuring the predictability and reliability of the system's behavior.
+- Time synchronization: Time services allow the system to coordinate and align the clocks and timers of different components, devices, or nodes, and to ensure a consistent notion of time across the system. Time synchronization is essential for ensuring the consistency and accuracy of the system's behavior.

@@ -1,0 +1,8 @@
+### MOSFET (MOS) (Depletion and Enhancement) Type
+
+- MOSFET stands for Metal-Oxide-Semiconductor Field-Effect Transistor. It is a type of FET that uses an electric field to control the conductivity of a channel between source and drain terminals.
+- MOSFETs can be classified into two types based on the presence or absence of a channel at zero gate voltage: depletion type and enhancement type.
+- Depletion type MOSFET (D-MOSFET) has a channel fabricated during manufacturing. It conducts current between source and drain even when the gate voltage is zero. Applying a reverse voltage to the gate reduces the channel width and the current. Applying a forward voltage to the gate increases the channel width and the current. D-MOSFET can operate in both depletion mode and enhancement mode .
+- Enhancement type MOSFET (E-MOSFET) has no channel during manufacturing. It does not conduct current between source and drain when the gate voltage is zero. Applying a forward voltage to the gate creates a channel and induces a current. Applying a reverse voltage to the gate does not affect the current. E-MOSFET can operate only in enhancement mode  .
+- Both depletion and enhancement MOSFETs can be either N-channel or P-channel, depending on the type of doping of the substrate and the channel. N-channel MOSFETs have an N-type substrate and a P-type channel, while P-channel MOSFETs have a P-type substrate and an N-type channel .
+- MOSFETs have many applications in digital and analog circuits, such as switches, amplifiers, converters, inverters, oscillators, and logic gates. MOSFETs are the basic building blocks of most integrated circuits .

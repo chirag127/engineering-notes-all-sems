@@ -1,0 +1,8 @@
+### Basics of signal representation and analysis
+
+- A signal is a physical quantity that varies with time, space, or any other independent variable. It can carry information about the state or behavior of a system or phenomenon. Examples of signals are voltage, current, sound, light, temperature, etc. 
+- Signal representation is the process of describing a signal in terms of mathematical functions or symbols. Signal representation can be done in different domains, such as time domain, frequency domain, or other transform domains.  
+- Signal analysis is the process of extracting useful information from a signal, such as its amplitude, frequency, phase, spectrum, energy, power, etc. Signal analysis can be done using various techniques, such as Fourier analysis, Laplace transform, Z-transform, wavelet transform, etc.   
+- Time domain representation is the most natural and intuitive way of representing a signal. It shows how the signal varies with time. Time domain representation is useful for studying the transient or dynamic behavior of a signal.  
+- Frequency domain representation is another way of representing a signal. It shows how the signal is composed of different frequency components. Frequency domain representation is useful for studying the periodic or steady-state behavior of a signal. Frequency domain representation can be obtained by applying the Fourier transform to the time domain representation.   
+- Other transform domains are alternative ways of representing a signal. They can provide different perspectives or insights into the signal characteristics. Some examples of other transform domains are Laplace domain, Z-domain, wavelet domain, etc. Each transform domain has its own advantages and limitations.

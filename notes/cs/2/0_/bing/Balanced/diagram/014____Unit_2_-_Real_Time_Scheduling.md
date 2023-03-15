@@ -1,0 +1,11 @@
+## Unit 2 - Real Time Scheduling
+
+Real time scheduling is the process of assigning tasks to processors or resources in a way that meets the timing constraints and performance requirements of a real time system. A real time system is a system that must respond to events or stimuli within a specified time bound, otherwise it may fail or cause undesirable consequences.
+
+Some of the topics covered in this unit are:
+
+- **Real time task model**: A real time task is a unit of work that has a deadline, a computation time, a period, and a priority. A real time task model is a mathematical representation of the characteristics and constraints of a set of real time tasks. There are different types of real time task models, such as periodic, sporadic, aperiodic, and mixed.
+- **Real time scheduling algorithms**: A real time scheduling algorithm is a rule or a policy that determines how to assign tasks to processors or resources at any given time. There are different types of real time scheduling algorithms, such as static, dynamic, preemptive, non-preemptive, uniprocessor, multiprocessor, and distributed.
+- **Schedulability analysis**: Schedulability analysis is the process of checking whether a given set of tasks can be scheduled by a given algorithm without missing any deadlines. There are different methods of schedulability analysis, such as utilization bound, response time analysis, and simulation.
+- **Real time operating systems**: A real time operating system (RTOS) is a software platform that provides the services and mechanisms for creating and executing real time applications. An RTOS typically supports features such as task management, inter-task communication, synchronization, memory management, interrupt handling, and timing services. There are different types of RTOS, such as hard, soft, and hybrid.
+- **Real time applications**: A real time application is a software program that performs a specific function or task in a real time system. Examples of real time applications are control systems, multimedia systems, embedded systems, and network systems. Real time applications have different requirements and challenges, such as reliability, safety, security, and quality of service.

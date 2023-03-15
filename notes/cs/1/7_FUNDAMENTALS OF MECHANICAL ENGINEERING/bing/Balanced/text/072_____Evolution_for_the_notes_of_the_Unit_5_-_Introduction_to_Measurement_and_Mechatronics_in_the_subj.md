@@ -1,0 +1,16 @@
+### Evolution for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Measurement and mechatronics are two interrelated fields of engineering that deal with the design, development and application of systems that integrate mechanical, electrical, electronic and computer components.
+- Measurement is the process of obtaining quantitative information about physical quantities, such as length, mass, force, temperature, etc., using instruments or devices that can sense, convert, display and record the data.
+- Mechatronics is the synergistic combination of mechanical engineering, electronics, control engineering and computer science, applied to the design of systems, products and processes that are controlled by microprocessors and software.
+- The evolution of measurement and mechatronics can be traced back to the development of various technologies and disciplines over time, such as:
+  - The invention of the steam engine and the industrial revolution in the 18th and 19th centuries, which stimulated the need for accurate measurement of pressure, temperature, speed, power, etc., and the emergence of mechanical engineering as a distinct field.
+  - The discovery of electricity and magnetism and the advancement of electrical engineering and electronics in the 19th and 20th centuries, which enabled the creation of electrical and electronic devices and circuits that could measure, transmit, process and store information, and the development of electromechanical systems, such as electric motors, generators, transformers, relays, etc.
+  - The introduction of the transistor and the integrated circuit in the mid-20th century, which revolutionized the fields of electronics and computing, and led to the miniaturization, digitization and automation of many systems and devices, and the emergence of microelectronics, microprocessors and software engineering.
+  - The integration of mechanical, electrical, electronic and computer components and technologies in the late 20th and early 21st centuries, which resulted in the creation of complex, intelligent and adaptive systems and products that can sense, actuate, control and communicate, and the establishment of mechatronics as a multidisciplinary field of engineering.
+- Some examples of measurement and mechatronics systems and products are:
+  - Sensors and transducers, which convert physical quantities into electrical signals, such as resistive, capacitive, inductive, piezoelectric, Hall effect, optical and digital transducers.
+  - Data acquisition systems, which collect, convert, process and store data from sensors and transducers, such as analog-to-digital converters, multiplexers, amplifiers, filters, microcontrollers, etc.
+  - Actuators and drives, which convert electrical signals into mechanical motion or force, such as electric motors, solenoids, relays, valves, etc.
+  - Control systems, which regulate the behavior and performance of systems and processes, using feedback, feedforward, PID, fuzzy logic, neural networks, etc.
+  - Mechatronic products, which incorporate sensors, actuators, control systems and software, such as robots, machine tools, washing machines, cameras, etc.

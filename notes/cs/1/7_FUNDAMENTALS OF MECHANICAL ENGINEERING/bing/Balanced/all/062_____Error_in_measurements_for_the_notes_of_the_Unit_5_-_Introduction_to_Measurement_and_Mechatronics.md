@@ -1,0 +1,11 @@
+# Error in measurements
+
+- Error in measurements is the deviation of the measured value from the true value of the quantity.
+- Error can be classified into two types: systematic error and random error.
+- Systematic error is the error that is constant and predictable in a measurement. It can be caused by faulty instruments, incorrect calibration, improper methods, or human errors. Systematic error can be reduced by correcting the source of error or applying a suitable correction factor.
+- Random error is the error that is unpredictable and varies in magnitude and direction in a measurement. It can be caused by environmental factors, fluctuations in the instrument, or human errors. Random error can be reduced by increasing the number of measurements and taking the average value.
+- The accuracy of a measurement is the degree of closeness of the measured value to the true value. It is affected by both systematic and random errors. A measurement can be accurate but not precise, or precise but not accurate, or both accurate and precise, or neither accurate nor precise.
+- The precision of a measurement is the degree of repeatability of the measured value. It is affected by random errors only. A measurement can be precise if the measured values are close to each other, even if they are far from the true value.
+- The absolute error of a measurement is the difference between the measured value and the true value. It can be positive or negative, depending on whether the measured value is greater or less than the true value.
+- The relative error of a measurement is the ratio of the absolute error to the true value. It is usually expressed as a percentage. It indicates the magnitude of the error relative to the true value.
+- The standard deviation of a measurement is a measure of the dispersion of the measured values around the mean value. It is calculated by taking the square root of the variance, which is the average of the squared differences of the measured values from the mean value. It indicates the uncertainty of the measurement. A smaller standard deviation means a more precise measurement.

@@ -1,0 +1,8 @@
+### Features of RTOS
+
+- An RTOS is an operating system that provides **predictability** and **determinism**. This means that it can guarantee that tasks will be completed within a specified time limit, and that the system will respond consistently to events and inputs .
+- An RTOS is **small**, **fast**, **responsive**, and **efficient**. It occupies very less memory and consumes fewer resources than a general-purpose operating system. It can execute tasks quickly and switch between them with minimal overhead .
+- An RTOS supports **concurrent** and **parallel** processing of multiple tasks. It can handle multiple tasks that have different priorities, deadlines, and resource requirements. It can also use multiple processors or cores to improve performance and scalability .
+- An RTOS provides **synchronization** and **communication** mechanisms for tasks. It allows tasks to share data and resources safely and efficiently, using semaphores, mutexes, message queues, pipes, etc. It also provides inter-task and inter-processor communication methods, such as signals, events, interrupts, etc .
+- An RTOS supports **real-time** and **non-real-time** tasks. It can distinguish between tasks that have strict timing constraints and tasks that can tolerate some delays. It can also adjust the scheduling policy and the priority of tasks dynamically, depending on the system state and the workload .
+- An RTOS is **configurable** and **adaptable**. It can be customized and optimized for different applications and platforms, depending on the system requirements and specifications. It can also support new features and capabilities as the market needs evolve, while maintaining compatibility and reliability.

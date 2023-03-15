@@ -1,0 +1,6 @@
+### 8. University Chemistry by CNR Rao
+
+- University Chemistry by CNR Rao is a textbook for undergraduate students of chemistry, covering the basic concepts and principles of physical, inorganic and organic chemistry.
+- The book is divided into three parts: Part I deals with the structure and bonding of atoms and molecules, thermodynamics, chemical kinetics, electrochemistry and surface chemistry. Part II covers the periodic properties of elements, coordination chemistry, nuclear chemistry and solid state chemistry. Part III introduces the fundamentals of organic chemistry, including hydrocarbons, functional groups, stereochemistry, reaction mechanisms and biomolecules.
+- The book aims to provide a comprehensive and rigorous treatment of the subject, with numerous examples, exercises, tables and figures to illustrate the concepts and applications. The book also includes appendices on mathematical methods, units and constants, and a glossary of terms.
+- The book is written by CNR Rao, a distinguished Indian chemist and professor, who has made significant contributions to the fields of solid state and materials chemistry, nanoscience and nanotechnology. He has authored over 1600 research papers and 50 books, and has received many national and international awards and honors, including the Bharat Ratna, the highest civilian award of India.

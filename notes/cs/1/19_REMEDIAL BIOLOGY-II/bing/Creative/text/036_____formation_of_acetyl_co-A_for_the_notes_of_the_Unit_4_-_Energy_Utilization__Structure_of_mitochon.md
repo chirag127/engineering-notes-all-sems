@@ -1,0 +1,22 @@
+### Formation of Acetyl Co-A
+
+- Acetyl Co-A (acetyl coenzyme A) is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism.
+- Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production.
+- Acetyl Co-A formation occurs inside or outside the cell mitochondria.
+- It can be produced via the catabolism (breakdown) of carbohydrates (glucose) and lipids (fatty acids).
+- Acetyl Co-A formation most commonly occurs during glucose catabolism.
+- After carbohydrates have been broken down by digestive enzymes, the first stage of cellular glucose metabolism or glycolysis can begin.
+- Glycolysis is the breaking down of glucose molecules into two molecules of pyruvate, a three-carbon compound, in the cytoplasm.
+- Pyruvate then enters the mitochondria, where it is converted into acetyl Co-A by a complex enzyme called pyruvate dehydrogenase.
+- The overall formation reaction of acetyl Co-A may be represented as: pyruvic acid + CoA + NAD+ → acetyl Co-A + NADH + H+ + CO2.
+- This reaction may be called the oxidative decarboxylation of pyruvic acid to acetyl Co-A, because it involves the removal of a carboxyl group (CO2) and the transfer of electrons to NAD+.
+- The acetyl Co-A then combines with a four-carbon molecule called oxaloacetate and goes through a cycle of reactions, ultimately regenerating the oxaloacetate.
+- This cycle is called the citric acid cycle or the Krebs cycle, and it takes place in the mitochondrial matrix.
+- The citric acid cycle produces ATP (or, in some cases, GTP), NADH, and FADH2, and releases carbon dioxide as a waste product.
+- The NADH and FADH2 then transfer their electrons to the electron transport chain, which is located in the inner mitochondrial membrane.
+- The electron transport chain uses the energy from the electrons to pump protons across the membrane, creating a proton gradient.
+- The protons then flow back through a protein called ATP synthase, which uses the energy to synthesize ATP from ADP and Pi.
+- This process is called oxidative phosphorylation, because it involves the use of oxygen as the final electron acceptor and the production of ATP.
+- The oxygen then combines with the electrons and protons to form water, which is also released as a waste product.
+- The ATP produced by the citric acid cycle, the electron transport chain, and oxidative phosphorylation is the main source of energy for cellular activities.
+- The factors that affect cellular respiration include the availability of substrates (glucose, fatty acids, oxygen), the demand for ATP, the regulation of enzymes, and the environmental conditions (temperature, pH).

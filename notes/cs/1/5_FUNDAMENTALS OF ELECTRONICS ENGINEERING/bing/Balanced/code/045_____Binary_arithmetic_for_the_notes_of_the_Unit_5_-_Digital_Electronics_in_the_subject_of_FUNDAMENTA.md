@@ -1,0 +1,30 @@
+### Binary arithmetic for the notes of the Unit 5 - Digital Electronics in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+- Binary arithmetic is the process of performing mathematical operations on binary numbers, which are represented by only two digits: 0 and 1.
+- Binary arithmetic is essential for all the digital computers and many other digital systems, such as microprocessors, flip flops, counters, etc.
+- The basic binary arithmetic operations are addition, subtraction, multiplication and division.
+- Binary addition is the simplest and most fundamental operation, which is used to perform other operations, such as subtraction, multiplication and division.
+- Binary addition follows four rules:
+  - 0 + 0 = 0
+  - 0 + 1 = 1
+  - 1 + 0 = 1
+  - 1 + 1 = 10 (carry 1 to the next higher bit position)
+- Binary subtraction can be done by using the complement method, which involves adding the negative of the subtrahend to the minuend.
+- The complement of a binary number can be obtained by two methods: one's complement and two's complement.
+  - One's complement is the result of flipping all the bits of a binary number, i.e., changing 0 to 1 and 1 to 0.
+  - Two's complement is the result of adding 1 to the one's complement of a binary number.
+- Binary subtraction follows the formula: A - B = A + (2's complement of B).
+- Binary multiplication is similar to decimal multiplication, except that the partial products are either 0 or the multiplicand.
+- Binary multiplication follows the steps:
+  - Align the multiplicand and the multiplier in the rightmost positions.
+  - Multiply each bit of the multiplier by the multiplicand and write the partial product below the corresponding bit of the multiplier.
+  - Shift the partial product to the left by one bit for each higher bit position of the multiplier.
+  - Add all the partial products using binary addition and obtain the final product.
+- Binary division is similar to decimal division, except that the quotient and the remainder are binary numbers.
+- Binary division follows the steps:
+  - Align the dividend and the divisor in the leftmost positions.
+  - Compare the dividend and the divisor and determine if the divisor is smaller than or equal to the dividend.
+  - If the divisor is smaller than or equal to the dividend, subtract the divisor from the dividend and write 1 as the quotient bit.
+  - If the divisor is larger than the dividend, write 0 as the quotient bit and do not subtract.
+  - Shift the divisor to the right by one bit and repeat the steps until the divisor reaches the rightmost position.
+  - The final quotient is the sequence of quotient bits and the final remainder is the last subtraction result.

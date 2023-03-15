@@ -1,0 +1,27 @@
+### Mesh and Nodal Methods of Analysis
+
+- Mesh and nodal methods of analysis are two systematic techniques for solving circuits that involve writing and solving a set of equations.
+- In mesh analysis, the unknown quantities are the loop currents. A loop is a closed path that does not contain any other closed paths within it. A mesh is a loop that does not contain any other loops within it.
+- In nodal analysis, the unknown quantities are the node voltages. A node is a point where two or more elements are connected. A reference node is a node that is assigned a voltage of zero volts.
+- Both methods are based on applying Kirchhoff's current law (KCL) and Kirchhoff's voltage law (KVL) to the circuit. KCL states that the algebraic sum of currents entering a node is zero. KVL states that the algebraic sum of voltages around a loop is zero.
+- The steps for mesh analysis are:
+  - Identify all the meshes in the circuit and assign a current to each mesh in a clockwise direction.
+  - Write KVL equations for each mesh, expressing the voltages in terms of the mesh currents.
+  - Solve the system of equations for the mesh currents.
+  - Use Ohm's law to find the voltages across the elements if needed.
+- The steps for nodal analysis are:
+  - Identify all the nodes in the circuit and assign a voltage to each node with respect to the reference node.
+  - Write KCL equations for each node, expressing the currents in terms of the node voltages.
+  - Solve the system of equations for the node voltages.
+  - Use Ohm's law to find the currents through the elements if needed.
+- Mesh and nodal analysis can be applied to any linear circuit, but they are more suited for certain types of circuits. Mesh analysis is more convenient for circuits with many loops and few nodes. Nodal analysis is more convenient for circuits with many nodes and few loops.
+- Mesh and nodal analysis can also handle circuits with dependent sources, which are sources whose value depends on another voltage or current in the circuit. Dependent sources are represented by a diamond shape with a label indicating the type and value of the source. There are four types of dependent sources: voltage-controlled voltage source (VCVS), current-controlled voltage source (CCVS), voltage-controlled current source (VCCS), and current-controlled current source (CCCS).
+- To include dependent sources in mesh analysis, the following steps are added:
+  - Identify the controlling variable (voltage or current) and the controlled source (voltage or current) in the circuit.
+  - Write an equation relating the controlled source to the controlling variable.
+  - Substitute the equation into the KVL equations where the controlled source appears.
+- To include dependent sources in nodal analysis, the following steps are added:
+  - Identify the controlling variable (voltage or current) and the controlled source (voltage or current) in the circuit.
+  - Write an equation relating the controlled source to the controlling variable.
+  - If the controlling variable is a voltage, use it as a supernode, which is a combination of two or more nodes that have a known voltage difference between them.
+  - If the controlling variable is a current, use it as a current source in the KCL equations where it appears.

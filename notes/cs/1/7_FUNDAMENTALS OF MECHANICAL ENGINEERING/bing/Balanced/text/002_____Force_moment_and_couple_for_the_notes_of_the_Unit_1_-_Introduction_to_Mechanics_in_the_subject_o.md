@@ -1,0 +1,7 @@
+### Force moment and couple
+
+- A force is a push or pull that acts on a body and causes it to accelerate, deform, or rotate.
+- A moment is the tendency of a force to cause rotation about a point or an axis. It is also called torque or moment of force. It is a vector quantity that depends on the magnitude and direction of the force, and the perpendicular distance from the point or axis to the line of action of the force.
+- A couple is a system of two equal and opposite parallel forces that act on a body. A couple has no resultant force, but it has a resultant moment. The moment of a couple is the same about any point or axis, and it is equal to the product of one of the forces and the perpendicular distance between them. The perpendicular distance is also called the arm of the couple.
+- A force can be resolved into a force and a couple at any other point. This means that the original force can be replaced by an equivalent force at a different point and a couple that has the same moment as the original force. This process does not change the net effect of the force on the body.
+- Force moment and couple are important concepts in mechanics, as they are used to analyze the static and dynamic equilibrium of rigid bodies, structures, machines, and mechanisms. They are also used to calculate the work done by forces and the power transmitted by shafts.

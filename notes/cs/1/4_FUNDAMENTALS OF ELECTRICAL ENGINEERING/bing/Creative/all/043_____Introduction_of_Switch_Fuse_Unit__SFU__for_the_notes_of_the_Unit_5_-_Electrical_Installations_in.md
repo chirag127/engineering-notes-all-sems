@@ -1,0 +1,10 @@
+# Introduction of Switch Fuse Unit (SFU)
+
+- A switch fuse unit (SFU) is a type of low voltage switchgear that combines a switch and a fuse in one unit.
+- A switch is a device that can make or break an electrical circuit by opening or closing the contacts.
+- A fuse is a device that can interrupt an electrical circuit under short circuit or excessive overload current by melting a thin wire inside it.
+- A switch fuse unit can provide both switching and protection functions for an electrical circuit or equipment.
+- A switch fuse unit can be classified into different types based on the number of poles, the type of fuse, and the type of enclosure.
+- A switch fuse unit can have one, two, three, or four poles depending on the number of phases and wires in the circuit. A single pole switch fuse unit can control a single phase, two-wire circuit. A double pole switch fuse unit can control a single phase, three-wire circuit or a two phase, three-wire circuit. A triple pole switch fuse unit can control a three phase, three-wire circuit. A triple pole with neutral link switch fuse unit can control a three phase, four-wire circuit.
+- A switch fuse unit can use different types of fuses such as high rupturing capacity (HRC) fuses, cartridge fuses, or rewirable fuses. HRC fuses are the most commonly used fuses in switch fuse units as they can withstand high fault currents and have low power loss. Cartridge fuses are cylindrical fuses that can be easily replaced. Rewirable fuses are fuses that can be rewired after they blow.
+- A switch fuse unit can have different types of enclosures such as ironclad, sheet metal, or plastic. Ironclad switch fuse units are made of iron and are suitable for harsh environments. Sheet metal switch fuse units are made of steel and are lighter and cheaper than ironclad switch fuse units. Plastic switch fuse units are made of plastic and are suitable for indoor applications.

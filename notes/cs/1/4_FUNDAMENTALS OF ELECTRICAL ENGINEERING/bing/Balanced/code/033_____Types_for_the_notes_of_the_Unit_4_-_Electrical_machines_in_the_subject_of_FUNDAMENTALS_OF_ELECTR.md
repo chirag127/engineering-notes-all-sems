@@ -1,0 +1,13 @@
+### Types of Electrical Machines
+
+Electrical machines are devices that convert electrical energy into mechanical energy or vice versa. They can be classified into two main categories: static and dynamic.
+
+- Static electrical machines are stationary devices that do not have any moving parts. They transfer electrical energy from one circuit to another without changing its frequency or waveform. The most common example of a static electrical machine is a transformer, which can step up or step down the voltage and current of an alternating current (AC) source. Transformers are used for power transmission, distribution, and isolation purposes.   
+
+- Dynamic electrical machines are rotating devices that have a rotor and a stator. They can either generate electrical energy from mechanical energy (generators) or consume electrical energy to produce mechanical energy (motors). The rotor is the part that rotates and carries a magnetic field, while the stator is the part that remains stationary and contains the windings. The interaction between the magnetic fields of the rotor and the stator creates a torque that causes the rotation.  
+
+  - Dynamic electrical machines can be further classified into direct current (DC) machines and alternating current (AC) machines, depending on the type of current they use or produce.  
+
+    - DC machines are dynamic electrical machines that use or generate direct current. They have a commutator and brushes that switch the direction of the current in the rotor windings, so that the torque is always in the same direction. DC machines can be divided into permanent magnet DC machines and wound-field DC machines, depending on the source of the magnetic field in the rotor. Permanent magnet DC machines have permanent magnets in the rotor, while wound-field DC machines have electromagnets in the rotor. DC machines can operate as motors or generators, depending on the direction of the power flow.   
+
+    - AC machines are dynamic electrical machines that use or generate alternating current. They do not have a commutator or brushes, but rely on the changing polarity of the AC source to create a rotating magnetic field in the stator. AC machines can be divided into synchronous machines and induction machines, depending on the type of the magnetic field in the rotor. Synchronous machines have a constant speed and a fixed relationship between the rotor and the stator magnetic fields, while induction machines have a variable speed and an induced magnetic field in the rotor. AC machines can also operate as motors or generators, depending on the direction of the power flow.

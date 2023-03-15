@@ -1,0 +1,30 @@
+### Calibration
+
+- Calibration is the process of comparing the measurement values delivered by a device under test (DUT) with those of a calibration standard of known accuracy .
+- Calibration is done to determine the error or verify the accuracy of the DUT's unknown value.
+- Calibration can also be defined as the operation that establishes a relation between the quantity values with measurement uncertainties provided by measurement standards and the corresponding indications with associated measurement uncertainties of the calibrated instrument or secondary standard.
+- Calibration is essential for ensuring the quality and reliability of measurements in various fields of science, engineering, and technology.
+- Calibration can be classified into two types: static calibration and dynamic calibration.
+  - Static calibration is the comparison of the DUT with the standard under fixed or steady conditions.
+  - Dynamic calibration is the comparison of the DUT with the standard under varying or transient conditions.
+- Calibration can be performed in different ways, such as:
+  - Direct calibration: the DUT and the standard measure the same quantity directly.
+  - Indirect calibration: the DUT and the standard measure different quantities that are related by a known function.
+  - Transfer calibration: the DUT is compared with an intermediate device that has been previously calibrated with the standard.
+  - Self-calibration: the DUT is calibrated by using its own internal reference or by applying a known input.
+- Calibration can be expressed in different terms, such as:
+  - Calibration factor: the ratio of the indication of the standard to the indication of the DUT.
+  - Calibration curve: the graphical representation of the relation between the indications of the DUT and the standard.
+  - Calibration equation: the mathematical expression of the relation between the indications of the DUT and the standard.
+  - Calibration uncertainty: the measure of the doubt or error associated with the calibration result.
+- Calibration can be affected by various factors, such as:
+  - Environmental conditions: the temperature, humidity, pressure, vibration, etc. that can influence the performance of the DUT and the standard.
+  - Measurement errors: the systematic or random errors that can occur during the measurement process.
+  - Drift: the gradual change in the characteristics or performance of the DUT or the standard over time.
+  - Hysteresis: the difference in the indications of the DUT or the standard when the same quantity is measured in increasing or decreasing order.
+  - Nonlinearity: the deviation of the calibration curve from a straight line.
+- Calibration can be verified by using different methods, such as:
+  - Repeatability: the ability of the DUT or the standard to give the same indication when the same quantity is measured repeatedly under the same conditions.
+  - Reproducibility: the ability of the DUT or the standard to give the same indication when the same quantity is measured by different operators or in different locations.
+  - Traceability: the ability of the DUT or the standard to be related to a higher-level standard or reference through an unbroken chain of comparisons with known uncertainties.
+  - Accreditation: the formal recognition of the competence and credibility of the calibration laboratory or service provider by an authorized body.

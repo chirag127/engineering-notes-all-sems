@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of continuity and differentiability of complex functions. Here are some notes that you can use for your study material.
+
+### Continuity and differentiability of complex functions
+
+- A complex function is a function that maps complex numbers to complex numbers, such as f(z) = z^2 + 1.
+- A complex function is continuous at a point z_0 if the limit of the function as z approaches z_0 is equal to the value of the function at z_0, that is, lim_(z->z_0) f(z) = f(z_0).
+- A complex function is differentiable at a point z_0 if the limit of the difference quotient as h approaches zero exists and is finite, that is, lim_(h->0) (f(z_0 + h) - f(z_0))/h = f'(z_0), where f'(z_0) is the derivative of f at z_0.
+- A complex function is analytic at a point z_0 if it is differentiable at z_0 and in some neighborhood of z_0. A complex function that is analytic in the whole complex plane is called entire.
+- A complex function that is differentiable at a point z_0 is also continuous at z_0, but the converse is not true. For example, the function f(z) = |z| is continuous everywhere, but not differentiable anywhere.
+- A complex function that is differentiable at a point z_0 satisfies the Cauchy-Riemann equations, which relate the partial derivatives of the real and imaginary parts of the function. For example, if f(z) = u(x,y) + i v(x,y), where u and v are real functions of x and y, then f is differentiable at z_0 = x_0 + i y_0 if and only if u_x(x_0,y_0) = v_y(x_0,y_0) and u_y(x_0,y_0) = -v_x(x_0,y_0), where u_x, u_y, v_x, and v_y are the partial derivatives of u and v with respect to x and y, respectively.
+- A complex function that is analytic at a point z_0 has a power series expansion around z_0, that is, f(z) = sum_(n=0)^infty a_n (z - z_0)^n, where a_n are complex coefficients. The radius of convergence of the power series is equal to the distance from z_0 to the nearest singularity of f, where a singularity is a point where f is not analytic.

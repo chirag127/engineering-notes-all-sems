@@ -1,0 +1,13 @@
+### Polymers; Classification, Polymerization processes, Thermosetting and Thermoplastic
+
+- Polymers are large molecules composed of repeating units called monomers, which are linked by covalent bonds.
+- Polymers can be classified based on various factors, such as their source, structure, molecular forces, thermal behavior, and mode of synthesis.
+- Based on the source, polymers can be natural (derived from plants or animals) or synthetic (made by chemical reactions).
+- Based on the structure, polymers can be linear (consisting of a single chain of monomers), branched (having side chains attached to the main chain), or cross-linked (having covalent bonds between different chains).
+- Based on the molecular forces, polymers can be crystalline (having ordered and regular arrangement of chains) or amorphous (having random and irregular arrangement of chains).
+- Based on the thermal behavior, polymers can be thermoplastic or thermosetting.
+  - Thermoplastic polymers are those that can be repeatedly softened by heating and then solidified by cooling, without changing their chemical structure. They are usually linear or slightly branched polymers that can slide past each other when heated. Examples of thermoplastic polymers are polyethylene, polypropylene, polystyrene, and nylon.
+  - Thermosetting polymers are those that undergo irreversible chemical changes when heated, forming cross-linked networks that cannot be remolded. They are usually highly cross-linked polymers that have high strength and rigidity. Examples of thermosetting polymers are bakelite, epoxy, and vulcanized rubber.
+- Based on the mode of synthesis, polymers can be classified into two types of polymerization processes: addition polymerization and condensation polymerization.
+  - Addition polymerization is a process in which monomers with double or triple bonds react with each other to form a long chain, without the elimination of any by-product. The monomers are called vinyl monomers or olefins. Examples of addition polymers are polyethylene, polypropylene, polystyrene, and polyvinyl chloride.
+  - Condensation polymerization is a process in which monomers with functional groups react with each other to form a long chain, with the elimination of a small molecule, such as water, ammonia, or alcohol. The monomers are called bifunctional or polyfunctional monomers. Examples of condensation polymers are nylon, polyester, and polyurethane.

@@ -1,0 +1,12 @@
+## Unit 1 - Introduction of Real Time System
+
+- A real time system is a system that must respond to events or inputs within a specified time limit, otherwise it may fail to meet its objectives or cause undesirable consequences.
+- Real time systems are often used in applications that require high reliability, safety, or performance, such as industrial control, avionics, robotics, medical devices, etc.
+- Real time systems can be classified into two types: hard real time systems and soft real time systems.
+  - Hard real time systems are systems that must meet all their deadlines, otherwise they may cause catastrophic failures or unacceptable losses. For example, a flight control system must react to the pilot's commands and the environmental conditions within milliseconds, otherwise the aircraft may crash.
+  - Soft real time systems are systems that can tolerate some deadline misses, but the quality of service or the user satisfaction may degrade. For example, a video streaming system may drop some frames or reduce the resolution if the network bandwidth is insufficient, but the user may still enjoy the video.
+- Real time systems have some common characteristics, such as concurrency, unpredictability, resource constraints, and dependability requirements.
+  - Concurrency means that a real time system may have multiple tasks or processes running simultaneously, and they may interact or communicate with each other or with external devices. For example, a robotic arm may have tasks for sensing, planning, and actuating, and they may share data or signals.
+  - Unpredictability means that a real time system may face uncertain or dynamic situations, such as varying workload, changing environment, or faults. For example, a traffic light system may have to adjust its timing according to the traffic flow or the weather conditions.
+  - Resource constraints means that a real time system may have limited hardware or software resources, such as memory, CPU, power, or bandwidth. For example, a wearable device may have to optimize its energy consumption or data transmission to prolong its battery life or reduce its cost.
+  - Dependability requirements means that a real time system may have to ensure its correctness, reliability, availability, safety, or security. For example, a pacemaker may have to guarantee its functionality, accuracy, robustness, fault tolerance, or confidentiality.

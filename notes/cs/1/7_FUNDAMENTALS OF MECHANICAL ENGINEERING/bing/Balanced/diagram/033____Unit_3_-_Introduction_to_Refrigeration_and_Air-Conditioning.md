@@ -1,0 +1,24 @@
+## Unit 3 - Introduction to Refrigeration and Air-Conditioning
+
+- Refrigeration and air-conditioning are the processes of maintaining a desired temperature and humidity level in an enclosed space by removing or adding heat from/to the space.
+- Refrigeration is the process of lowering the temperature of a substance or a space below the ambient temperature by transferring heat from the low-temperature region to the high-temperature region.
+- Air-conditioning is the process of controlling the temperature, humidity, cleanliness, and distribution of air in a space to provide comfort and health to the occupants.
+- Both refrigeration and air-conditioning use the same basic principle of the refrigeration cycle, which involves four main components: compressor, condenser, expansion device, and evaporator.
+- The refrigeration cycle is based on the physical law that when a liquid converts to a gas, it absorbs heat, and when a gas converts to a liquid, it releases heat. This is called phase change or phase conversion.
+- A refrigerant is a special fluid that can undergo phase change at low temperatures and pressures. It is used as the working medium in the refrigeration cycle. Common refrigerants are ammonia, carbon dioxide, water, and various halocarbons.
+- The refrigeration cycle can be explained as follows:
+  - The refrigerant enters the compressor as a low-pressure, low-temperature vapor and is compressed to a high-pressure, high-temperature vapor.
+  - The refrigerant leaves the compressor and enters the condenser, where it is cooled by the ambient air or water and changes its phase from vapor to liquid, releasing heat to the surroundings.
+  - The refrigerant leaves the condenser as a high-pressure, moderate-temperature liquid and enters the expansion device, where it undergoes a sudden drop in pressure and temperature, partially vaporizing and expanding.
+  - The refrigerant leaves the expansion device as a low-pressure, low-temperature mixture of liquid and vapor and enters the evaporator, where it absorbs heat from the space or substance to be cooled and changes its phase from liquid to vapor, completing the cycle.
+- The coefficient of performance (COP) is a measure of the efficiency of a refrigeration or air-conditioning system. It is defined as the ratio of the useful heat transfer to the work input. For refrigeration, COP = QL/W, where QL is the heat removed from the low-temperature region and W is the work done by the compressor. For air-conditioning, COP = QH/W, where QH is the heat added to the high-temperature region and W is the work done by the compressor.
+- The types of refrigeration systems can be classified based on the method of heat transfer, the type of refrigerant, the type of compressor, and the application. Some common types are:
+  - Vapor compression refrigeration: It uses a vaporized refrigerant as the working fluid and a mechanical compressor to increase its pressure. It is the most widely used type of refrigeration system for domestic, commercial, and industrial applications.
+  - Vapor absorption refrigeration: It uses a liquid refrigerant and a liquid absorbent as the working fluids and a thermal compressor to increase their pressure. It is mainly used for large-scale cooling and heating applications where waste heat or solar energy is available.
+  - Air refrigeration: It uses air as the working fluid and a turbine or a piston to compress it. It is mainly used for aircraft cooling and gas liquefaction.
+  - Steam jet refrigeration: It uses water as the refrigerant and steam as the motive fluid to create a vacuum and lower the temperature. It is mainly used for industrial cooling and ice making.
+- The types of air-conditioning systems can be classified based on the method of cooling, the type of distribution, the type of control, and the application. Some common types are:
+  - Window air-conditioner: It is a self-contained unit that is installed in a window or a wall and cools a single room. It uses a vapor compression refrigeration system and a fan to circulate the conditioned air.
+  - Split air-conditioner: It consists of two units: an indoor unit that contains the evaporator and a fan, and an outdoor unit that contains the compressor, the condenser, and an expansion device. It cools one or more rooms and uses a refrigerant piping to connect the two units.
+  - Central air-conditioner: It is a large-scale system that cools the entire building or a complex of buildings. It uses a central plant that contains the refrigeration system and a network of ducts and fans to distribute the conditioned air.
+  - Evaporative cooler: It is

@@ -1,0 +1,12 @@
+# Effect of Resource Contention and Resource Access Control (RAC) for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+- Resource contention occurs when multiple jobs or tasks compete for the same resource, such as a processor, a memory, a disk, a network, or a peripheral device .
+- Resource contention affects the execution behavior and schedulability of jobs or tasks, especially in priority-driven systems, where higher-priority jobs or tasks may be blocked or delayed by lower-priority ones that hold the resource  .
+- Resource access control (RAC) is a set of rules or protocols that govern when and under what conditions each request for resource is granted and how jobs or tasks requiring resources are scheduled .
+- The main objective of RAC is to minimize the undesirable effects of resource contention, such as priority inversion, timing anomalies, and deadlock  .
+- Priority inversion occurs when a higher-priority job or task is preempted by a lower-priority one that holds the resource, or when a lower-priority job or task inherits the priority of a higher-priority one that is waiting for the resource  .
+- Timing anomalies occur when a change in the execution time of a job or task affects the schedulability of other jobs or tasks in an unpredictable or counter-intuitive way  .
+- Deadlock occurs when a set of jobs or tasks are waiting for each other to release the resources they hold, resulting in a circular dependency that prevents any of them from making progress  .
+- Some examples of RAC protocols are priority inheritance protocol (PIP), priority ceiling protocol (PCP), stack resource policy (SRP), and multiprocessor priority ceiling protocol (MPCP) .
+- These protocols aim to prevent or limit priority inversion, timing anomalies, and deadlock by enforcing certain rules on the locking and unlocking of resources, such as giving the resource to the highest-priority job or task, raising the priority of the job or task that holds the resource, or blocking the job or task that requests the resource .
+- The effectiveness and performance of RAC protocols depend on various factors, such as the number and type of resources, the number and priority of jobs or tasks, the length and frequency of critical sections, the degree of concurrency and parallelism, and the overhead of locking and unlocking operations .

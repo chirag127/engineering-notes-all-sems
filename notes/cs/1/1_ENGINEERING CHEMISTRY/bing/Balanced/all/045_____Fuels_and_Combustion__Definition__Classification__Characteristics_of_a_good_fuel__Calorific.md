@@ -1,0 +1,21 @@
+# Fuels and Combustion: Definition, Classification, Characteristics of a good fuel, Calorific
+
+- **Fuel** is a material that produces heat and energy on combustion.
+- **Combustion** is a chemical reaction in which a fuel combines with oxygen and releases heat and light.
+- **Classification of fuels**: Fuels can be classified into three main types based on their physical state, origin and composition.
+  - **Solid fuels**: These are fuels that are solid at room temperature, such as coal, wood, charcoal, etc. They have a high carbon content and low hydrogen content. They are usually cheap and abundant, but they produce a lot of smoke and ash on combustion.
+  - **Liquid fuels**: These are fuels that are liquid at room temperature, such as petrol, diesel, kerosene, etc. They have a high hydrogen content and low carbon content. They are usually more expensive and less abundant than solid fuels, but they produce less smoke and ash on combustion. They are also easier to transport and store.
+  - **Gaseous fuels**: These are fuels that are gaseous at room temperature, such as natural gas, biogas, hydrogen, etc. They have a high hydrogen content and low carbon content. They are usually the most expensive and least abundant of the three types of fuels, but they produce the least amount of smoke and ash on combustion. They are also the most efficient and cleanest of the three types of fuels.
+- **Characteristics of a good fuel**: A good fuel is one that meets the following criteria :
+  - It should be cheap, easily available and readily combustible.
+  - It should have a high calorific value, which is the quantity of heat produced by the combustion of a unit mass of fuel.
+  - It should not produce harmful gases or residues that pollute the environment, such as carbon monoxide, sulphur dioxide, nitrogen oxides, etc.
+  - It should be dry and have less moisture content, as dry fuel increases its calorific value and reduces the loss of heat.
+  - It should have a low ignition temperature, which is the minimum temperature at which a fuel catches fire spontaneously.
+  - It should have a moderate rate of combustion, which is the speed at which a fuel burns. A fuel that burns too fast or too slow may cause problems in controlling the flame and the heat output.
+  - It should have a high flame temperature, which is the maximum temperature attained by the flame during combustion. A high flame temperature indicates a high efficiency of the fuel.
+  - It should have a low storage and transportation cost, which depends on the physical state, volatility and stability of the fuel.
+- **Calorific value**: It is the quantity of heat produced by the combustion of a unit mass of fuel. It is usually expressed in kilojoules per kilogram (kJ/kg) or megajoules per kilogram (MJ/kg). The calorific value of a fuel depends on its composition, moisture content, purity and oxygen content .
+  - **Higher calorific value (HCV)**: It is the amount of heat produced by the complete combustion of a unit mass of fuel when the water vapour produced is condensed and the heat released is recovered. It is also known as the gross calorific value (GCV) or the enthalpy of combustion.
+  - **Lower calorific value (LCV)**: It is the amount of heat produced by the complete combustion of a unit mass of fuel when the water vapour produced is not condensed and the heat released is not recovered. It is also known as the net calorific value (NCV) or the internal energy of combustion.
+  - The difference between the HCV and the LCV of a fuel is equal to the latent heat of vaporization of water multiplied by the mass of water vapour produced per unit mass of fuel. The LCV is always lower than the HCV. The LCV is more useful for practical purposes, as it represents the actual amount of heat available from the fuel.

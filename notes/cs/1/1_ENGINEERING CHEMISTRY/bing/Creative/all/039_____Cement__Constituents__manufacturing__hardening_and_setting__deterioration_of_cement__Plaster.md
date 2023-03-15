@@ -1,0 +1,23 @@
+# Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+- Cement is a binding material that sets, hardens, and adheres to other materials to bind them together.
+- The main constituents of cement are calcium, silicon, aluminum, iron and other ingredients, which are combined in different proportions depending on the type and grade of cement.
+- The manufacturing of cement involves four main stages: raw material preparation, clinker production, clinker grinding, and cement packing.
+  - Raw material preparation: The raw materials, such as limestone, clay, shale, sand, and iron ore, are crushed and blended to form a homogeneous mixture.
+  - Clinker production: The raw material mixture is heated in a rotary kiln at high temperatures (1400-1500°C) to form clinker, which is a nodular material consisting of calcium silicates and aluminates.
+  - Clinker grinding: The clinker is cooled and ground with gypsum and other additives to produce the final product of cement.
+  - Cement packing: The cement is stored in silos and then packed in bags or bulk for distribution.
+- The hardening and setting of cement is due to the formation of interlocking crystals reinforced by rigid gels formed by the hydration and hydrolysis of the constituent compounds.
+  - Hydration: The chemical reaction between cement and water, which produces heat and causes the cement paste to harden over time.
+  - Hydrolysis: The chemical reaction between cement and water, which produces calcium hydroxide and other soluble salts, which can affect the durability and strength of the cement paste.
+- The setting and hardening of cement are influenced by several factors, such as the water-cement ratio, the temperature, the curing conditions, the admixtures, and the type and fineness of cement.
+  - Water-cement ratio: The ratio of the weight of water to the weight of cement in a mix, which affects the workability, strength, and durability of the cement paste. A lower water-cement ratio results in a faster setting and hardening, but also a lower workability and higher heat of hydration.
+  - Temperature: The ambient temperature and the temperature of the materials, which affect the rate of hydration and the setting time of the cement paste. A higher temperature results in a faster setting and hardening, but also a higher risk of thermal cracking and shrinkage.
+  - Curing conditions: The moisture and temperature conditions during the hardening process, which affect the hydration and strength development of the cement paste. A proper curing involves maintaining a moist and moderate temperature environment for the cement paste to harden and gain strength.
+  - Admixtures: The substances added to the cement paste to modify its properties, such as the setting time, the workability, the strength, and the durability. Some common admixtures are accelerators, retarders, plasticizers, air-entraining agents, and water-reducing agents.
+  - Type and fineness of cement: The chemical composition and the particle size of the cement, which affect the hydration and the setting time of the cement paste. Different types of cement have different properties and applications, such as ordinary Portland cement, rapid hardening cement, low heat cement, etc. The fineness of cement is measured by the specific surface area, which indicates the amount of surface area available for hydration. A finer cement results in a faster setting and hardening, but also a higher heat of hydration and a lower workability.
+- The deterioration of cement is the loss of quality and performance of the cement paste due to various causes, such as chemical attack, physical damage, or environmental factors.
+  - Chemical attack: The reaction of the cement paste with some natural or artificial chemical agents, which can alter its composition, structure, and properties. Some common sources of chemical attack are sulfate salts, seawater, acids, alkalis, carbon dioxide, etc.
+  - Physical damage: The cracking, spalling, scaling, or erosion of the cement paste due to mechanical stress, thermal stress, or abrasion. Some common sources of physical damage are freeze-thaw cycles, fire, impact, wear, etc.
+  - Environmental factors: The exposure of the cement paste to some adverse conditions, such as moisture, temperature, oxygen, or biological agents, which can affect its durability and strength. Some common environmental factors are humidity, frost, heat, corrosion, fungi, algae, etc.
+- Plaster is a mixture of cement, sand, water, and sometimes lime

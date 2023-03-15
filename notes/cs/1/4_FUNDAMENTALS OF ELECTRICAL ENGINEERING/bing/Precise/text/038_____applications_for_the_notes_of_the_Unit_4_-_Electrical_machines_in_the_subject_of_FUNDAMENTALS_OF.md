@@ -1,0 +1,6 @@
+### Applications for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+1. The Machines part of this book covers the fundamental principle of electromagnetism, operational concepts of DC, AC machines, types of DC, AC machines, speed control techniques, losses incurred in machines, testing and applications of the machines .
+2. The course covers a wide range of topics, including electric circuits, DC and AC analysis, electromagnetism, and electrical machines. It introduces students to the concepts of voltage, current, resistance, and power, which are essential for analyzing and designing various electrical systems .
+3. This course teaches the principles and analysis of electromechanical systems. Students will develop analytical techniques for predicting device and system interaction characteristics as well as learn to design major classes of electric machines .
+4. Electric machines are devices that convert mechanical energy to electrical energy and vice versa. The mechanical power can be obtained from wind, flowing water, and steam using turbines. Motors are used to convert back the electricity to mechanical power .

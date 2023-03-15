@@ -1,0 +1,9 @@
+### Humidity
+
+Humidity is the amount of water vapor in the air. Water vapor is the gaseous state of water, which is generally invisible to the human eye. Humidity affects the human comfort, weather, and climate of a region. There are three main types of humidity: absolute, relative, and specific.
+
+- **Absolute humidity** is the mass of water vapor per unit volume of air. It is expressed in grams per cubic meter (g/m3) or kilograms per cubic meter (kg/m3). Absolute humidity depends on the temperature and pressure of the air, and it changes as the air expands or contracts. Absolute humidity is not a good indicator of how humid the air feels, because it does not take into account the capacity of the air to hold water vapor at different temperatures.
+
+- **Relative humidity** is the ratio of the actual amount of water vapor in the air to the maximum amount of water vapor that the air can hold at a given temperature and pressure. It is expressed as a percentage (%). Relative humidity is a better measure of how humid the air feels, because it reflects how close the air is to saturation. The higher the relative humidity, the more likely it is for precipitation, dew, or fog to form. The lower the relative humidity, the drier the air feels.
+
+- **Specific humidity** is the mass of water vapor per unit mass of air. It is expressed in grams per kilogram (g/kg) or kilograms per kilogram (kg/kg). Specific humidity is a constant value for a given parcel of air, regardless of the temperature and pressure changes. It is also called the mixing ratio, because it represents the proportion of water vapor mixed with dry air. Specific humidity is useful for calculating the amount of water vapor in the atmosphere.

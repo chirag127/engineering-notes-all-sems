@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on electric vehicles and hybrid vehicles for the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING.
+
+### Electric vehicles and hybrid vehicles
+
+- Electric vehicles (EVs) are vehicles that use one or more electric motors as their primary source of propulsion. EVs have a battery instead of a gasoline tank, and an electric motor instead of an internal combustion engine (ICE) .
+- Hybrid vehicles are vehicles that combine two or more power sources, such as an ICE and an electric motor, to improve fuel efficiency and reduce emissions. Hybrid vehicles have a battery, an electric motor, a gasoline tank, and an ICE .
+- Plug-in hybrid electric vehicles (PHEVs) are a type of hybrid vehicle that can be recharged from an external power source, such as a wall outlet or a charging station. PHEVs can run on electricity alone for a limited range, and then switch to gasoline when the battery is depleted .
+- The main advantages of EVs and PHEVs are that they have lower operating costs, lower greenhouse gas emissions, and lower dependence on fossil fuels than conventional vehicles. EVs and PHEVs can also benefit from the increasing availability and affordability of renewable energy sources, such as solar, wind, and hydro power .
+- The main challenges of EVs and PHEVs are that they have higher upfront costs, limited driving range, and longer charging time than conventional vehicles. EVs and PHEVs also require adequate charging infrastructure and grid capacity to support their widespread adoption .
+- Hybrid electric vehicles can be classified according to the way in which power is supplied to the drivetrain: 
+  - In parallel hybrids, the ICE and the electric motor are both connected to the mechanical transmission and can simultaneously transmit power to drive the wheels, usually through a conventional transmission .
+  - In series hybrids, the ICE is not connected to the wheels, but only to a generator that produces electricity for the electric motor, which drives the wheels through a single-speed transmission .
+  - In power-split or series-parallel hybrids, the ICE and the electric motor can both drive the wheels directly or indirectly, through a planetary gear set that splits the power between the mechanical and electrical paths .
+- Some examples of EVs are Tesla Model 3, Nissan Leaf, and Chevrolet Bolt. Some examples of PHEVs are Toyota Prius Prime, Ford Fusion Energi, and Hyundai Ioniq Plug-In Hybrid. Some examples of hybrid vehicles are Toyota Prius, Honda Insight, and Hyundai Sonata Hybrid  .

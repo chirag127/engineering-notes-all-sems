@@ -1,0 +1,6 @@
+# Single Phase Induction Motor
+
+- A single phase induction motor is similar to the three phase squirrel cage induction motor except there is single phase two windings (instead of one three phase winding in 3-phase motors) mounted on the stator and the cage winding rotor is placed inside the stator which freely rotates with the help of mounted bearings on the motor shaft .
+- The electrical power factor of single phase induction motors is low as compared to three phase induction motors. For the same size, the single-phase induction motors develop about 50% of the output as that of three phase induction motors. The starting torque is also low for asynchronous motors/single phase induction motor .
+- The rotor is a rotating part of an induction motor. The rotor connects the mechanical load through the shaft. The rotor in the single-phase induction motor is of squirrel cage rotor type. The construction of single phase induction motor is almost similar to the squirrel cage three-phase induction motor .
+- Single-phase induction motors have a copper or aluminum squirrel cage embedded in a cylinder of steel laminations, typical of polyphase induction motors. Permanent-Split Capacitor Motor One way to solve the single phase problem is to build a 2-phase motor, deriving 2-phase power from single phase .

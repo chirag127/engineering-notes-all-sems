@@ -1,0 +1,11 @@
+### Organization, Delivery
+
+- Organization and delivery are two essential aspects of effective communication, especially in oral presentations.
+- Organization refers to the structure and order of the main points and supporting details in a speech or a written document. It helps the audience to follow the logic and flow of the message, and to remember the key points.
+- Delivery refers to the way the speaker or the writer presents the message, using vocal and nonverbal cues, language, style, and tone. It helps the audience to engage with the message, and to perceive the speaker or the writer as credible, confident, and competent.
+- Some general principles of organization and delivery are:
+
+  - Know your purpose and audience. Before preparing your message, you should have a clear idea of what you want to achieve and who you are addressing. This will help you to tailor your message to suit the needs and expectations of your audience.
+  - Plan and outline your message. You should have a clear introduction, body, and conclusion for your message, and use transitions to connect them. You should also arrange your main points and supporting details in a logical and coherent way, using a suitable pattern of organization, such as chronological, spatial, topical, problem-solution, cause-effect, etc.
+  - Practice and rehearse your message. You should practice your message several times, preferably in front of a mirror, a recorder, or a friend. You should also rehearse your message in the same setting and with the same equipment that you will use for the actual presentation. This will help you to improve your delivery skills, such as eye contact, gestures, posture, voice, pace, volume, pronunciation, etc.
+  - Adapt and revise your message. You should be prepared to adjust your message according to the feedback and reactions of your audience, the time limit, the technical issues, or the unexpected situations that may arise during the presentation. You should also revise your message after the presentation, based on the evaluation and comments that you receive from your audience, your peers, or your instructor. This will help you to improve your communication skills for future occasions.

@@ -1,0 +1,28 @@
+# Common Base Configuration of BJT
+
+- The common base configuration is one of the three basic ways to connect a bipolar junction transistor (BJT) as an amplifier.
+- In this configuration, the base terminal of the BJT is a common terminal to both the input and output signals, hence its name common base (CB).
+- The input signal is applied between the emitter and the base, and the output signal is taken from the collector and the base.
+- The common base configuration is less common as an amplifier than compared to the more popular common emitter (CE) or common collector (CC) configurations, but it is still used due to its unique input/output characteristics.
+- Some of the advantages of the common base configuration are:
+  - It has a high voltage gain, which is the ratio of output voltage to input voltage.
+  - It has a high input resistance and a low output resistance, which makes it suitable for impedance matching.
+  - It has a high frequency response, which means it can amplify high-frequency signals without much attenuation or distortion.
+  - It has a low noise figure, which means it produces less noise in the output signal than other configurations.
+- Some of the disadvantages of the common base configuration are:
+  - It has a low current gain, which is the ratio of output current to input current.
+  - It has a low power gain, which is the product of voltage gain and current gain.
+  - It has a low input impedance, which means it requires a large input signal to produce a significant output signal.
+  - It has a high output impedance, which means it cannot drive a low-resistance load without losing voltage.
+- The common base configuration can be analyzed using the following formulas and equations :
+  - The current gain, alpha (α), is the ratio of collector current (IC) to emitter current (IE):
+    - α = IC / IE
+  - The voltage gain, AV, is the ratio of output voltage (Vout) to input voltage (Vin):
+    - AV = Vout / Vin = -α * (RC / RE)
+  - The input resistance, Rin, is the ratio of input voltage (Vin) to input current (Iin):
+    - Rin = Vin / Iin = (1 + α) * (VT / IE)
+  - The output resistance, Rout, is the ratio of output voltage (Vout) to output current (Iout):
+    - Rout = Vout / Iout = RC
+  - The power gain, AP, is the product of voltage gain and current gain:
+    - AP = AV * α
+  - Where VT is the thermal voltage, which is approximately 26 mV at room temperature.

@@ -1,0 +1,16 @@
+## Unit 4 - Functions: Introduction, Types of Functions, Functions with Array, Passing Parameters to Functions, Call by Value, Call by Reference, Recursive Functions.
+
+- A **function** is a block of code that performs a specific task or a related task  .
+- Functions can be used repeatedly throughout a program, making the code more efficient, easier to read, and elegant  .
+- Functions usually take in data, process it, and return a result to the main program .
+- Functions can be classified into different types based on their purpose, input, output, and implementation.
+- Some of the common types of functions are:
+  - **Predefined functions**: These are the functions that are already defined and available in the programming language or its libraries. For example, `printf()` in C, `print()` in Python, `Math.sqrt()` in Java, etc.
+  - **User-defined functions**: These are the functions that are created by the programmer to perform a specific task. For example, `factorial()` to calculate the factorial of a number, `isPrime()` to check if a number is prime, etc.
+  - **Void functions**: These are the functions that do not return any value to the main program. They are used to perform some actions or operations without producing any output. For example, `helloFunction()` to print "Hello World" on the screen, `clearScreen()` to clear the screen, etc.
+  - **Value-returning functions**: These are the functions that return a value to the main program after performing some computation or operation. They are used to produce some output based on the input or logic. For example, `add()` to return the sum of two numbers, `max()` to return the maximum of two numbers, etc.
+- Functions can also work with arrays, which are collections of data of the same type. Arrays can be passed as parameters to functions, and functions can return arrays as results. For example, `sort()` to sort an array of numbers, `reverse()` to reverse an array of characters, etc.
+- Parameters are the variables that are used to pass data to a function. They are also called arguments or inputs. Parameters can be passed to functions in two ways: by value or by reference.
+  - **Passing parameters by value**: This means that the function receives a copy of the actual parameter's value. Any changes made to the parameter inside the function do not affect the original value outside the function. This is the default way of passing parameters in most programming languages. For example, `swap()` to swap the values of two variables by value.
+  - **Passing parameters by reference**: This means that the function receives the address or location of the actual parameter in the memory. Any changes made to the parameter inside the function affect the original value outside the function. This is used to modify the original data or to avoid copying large amounts of data. For example, `swap()` to swap the values of two variables by reference.
+- A **recursive function** is a function that calls itself within its body. It is used to solve problems that have a recursive nature, such as factorial, Fibonacci, binary search, etc. A recursive function must have a base case or a terminating condition to stop the recursion. For example, `factorial()` to calculate the factorial of a number using recursion.

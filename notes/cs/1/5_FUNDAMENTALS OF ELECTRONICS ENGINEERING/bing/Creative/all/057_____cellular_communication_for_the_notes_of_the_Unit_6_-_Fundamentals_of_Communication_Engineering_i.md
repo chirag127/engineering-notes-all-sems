@@ -1,0 +1,11 @@
+# Cellular Communication
+
+Cellular communication is a type of wireless communication that uses radio waves to transmit and receive signals between mobile devices. Cellular communication is based on the concept of dividing a geographical area into small cells, each with its own base station and frequency band. Cellular communication enables multiple users to share the same frequency spectrum without interfering with each other.
+
+Some of the topics covered in this unit are:
+
+- **Cellular system architecture**: This topic explains the basic components and functions of a cellular system, such as mobile stations, base stations, mobile switching centers, and control channels. It also describes the different types of cells, such as macrocells, microcells, picocells, and femtocells, and their advantages and disadvantages.
+- **Frequency reuse and channel assignment**: This topic explains how cellular systems use frequency reuse to increase the system capacity and reduce the interference. It also discusses the different methods of channel assignment, such as fixed, dynamic, and hybrid, and their trade-offs.
+- **Interference and system capacity**: This topic analyzes the sources and effects of interference in cellular systems, such as co-channel interference, adjacent channel interference, and intermodulation interference. It also derives the expression for the system capacity and the relationship between the capacity and the cluster size.
+- **Handoff and power control**: This topic explains the need and the process of handoff, which is the transfer of a mobile station from one base station to another. It also discusses the different types of handoff, such as hard, soft, and softer, and their advantages and disadvantages. It also explains the need and the methods of power control, which is the adjustment of the transmission power of the mobile stations and the base stations to maintain the signal quality and minimize the interference.
+- **Cellular standards and technologies**: This topic introduces the different generations and standards of cellular systems, such as 1G, 2G, 3G, 4G, and 5G, and their features and specifications. It also describes the different technologies and protocols used in cellular systems, such as FDMA, TDMA, CDMA, GSM, GPRS, EDGE, UMTS, HSPA, LTE, and WiMAX.

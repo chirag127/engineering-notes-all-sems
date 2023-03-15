@@ -1,0 +1,13 @@
+### Types of Electrical Machines
+
+Electrical machines are devices that convert electrical energy into mechanical energy or vice versa. They can be classified into two main categories: static and dynamic.
+
+- Static electrical machines are stationary devices that do not have any moving parts. They transfer electrical energy from one circuit to another without changing its frequency or waveform. The most common example of a static electrical machine is a transformer, which can step up or step down the voltage and current of an alternating current (AC) source. Transformers are used for power transmission, distribution, and isolation purposes.   
+
+- Dynamic electrical machines are rotating devices that have a rotor and a stator. They can either generate electrical energy from mechanical energy (generators) or consume electrical energy to produce mechanical energy (motors). The most common types of dynamic electrical machines are:
+
+  - DC machines: These machines use direct current (DC) as the input or output. They have a commutator and brushes that switch the polarity of the current in the rotor coil to maintain a constant torque. DC machines can be classified into permanent magnet DC machines, which have permanent magnets in the rotor, and wound-field DC machines, which have electromagnets in the rotor. DC machines are used for applications that require variable speed, high torque, and precise control.   
+
+  - Synchronous machines: These machines use alternating current (AC) as the input or output. They have a constant speed that is proportional to the frequency of the AC source. They have a rotor that is magnetized by either permanent magnets or electromagnets, and a stator that has three-phase windings. Synchronous machines can be classified into synchronous generators, which produce AC power from mechanical energy, and synchronous motors, which consume AC power to produce mechanical energy. Synchronous machines are used for applications that require high power, high efficiency, and constant speed.   
+
+  - Induction machines: These machines use alternating current (AC) as the input or output. They have a variable speed that depends on the load and the slip between the rotor and the stator. They have a rotor that is either a squirrel-cage or a wound-rotor, and a stator that has three-phase windings. Induction machines can be classified into induction generators, which produce AC power from mechanical energy, and induction motors, which consume AC power to produce mechanical energy. Induction machines are used for applications that require low cost, low maintenance, and high reliability.

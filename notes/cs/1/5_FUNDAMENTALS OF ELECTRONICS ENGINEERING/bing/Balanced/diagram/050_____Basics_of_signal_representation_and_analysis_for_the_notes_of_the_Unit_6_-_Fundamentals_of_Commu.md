@@ -1,0 +1,14 @@
+### Basics of signal representation and analysis
+
+- A signal is a physical quantity that varies with time, space, or any other independent variable. It can be used to convey information, such as speech, music, images, etc. 
+- Signal representation is the process of describing a signal using mathematical functions or symbols. Signal representation can be done in different domains, such as time, frequency, or space.  
+- Signal analysis is the process of extracting useful information from a signal, such as its amplitude, frequency, phase, spectrum, etc. Signal analysis can be done using various techniques, such as Fourier transform, Laplace transform, Z-transform, etc.  
+- Time domain representation is the most common way of representing a signal as a function of time. Time domain representation shows the variation of the signal amplitude with respect to time. Time domain representation is useful for studying the temporal characteristics of a signal, such as its duration, periodicity, etc. 
+- Frequency domain representation is another way of representing a signal as a function of frequency. Frequency domain representation shows the distribution of the signal energy over different frequency components. Frequency domain representation is useful for studying the spectral characteristics of a signal, such as its bandwidth, harmonics, etc. 
+- To convert a signal from time domain to frequency domain, or vice versa, we can use the Fourier transform, which is a mathematical tool that decomposes a signal into a sum of sinusoidal waves with different frequencies, amplitudes, and phases. The Fourier transform can be applied to both continuous and discrete signals, and can be either complex or real.  
+- Some examples of signals that can be represented and analyzed in different domains are:
+
+  - A sine wave, which is a periodic signal that has a constant frequency and amplitude. A sine wave can be represented as a single point in the frequency domain, or as a sinusoidal function in the time domain. 
+  - A square wave, which is a periodic signal that alternates between two levels with a fixed duty cycle. A square wave can be represented as a series of odd harmonics in the frequency domain, or as a piecewise constant function in the time domain. 
+  - A pulse, which is a non-periodic signal that has a finite duration and a finite amplitude. A pulse can be represented as a sinc function in the frequency domain, or as a rectangular function in the time domain. 
+  - A noise, which is a random signal that has no definite pattern or structure. A noise can be represented as a continuous spectrum in the frequency domain, or as a random function in the time domain.

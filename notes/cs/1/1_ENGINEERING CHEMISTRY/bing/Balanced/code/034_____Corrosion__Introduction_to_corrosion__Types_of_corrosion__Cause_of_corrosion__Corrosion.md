@@ -1,0 +1,25 @@
+### Corrosion: Introduction to corrosion, Types of corrosion, Cause of corrosion, Corrosion
+
+- Corrosion is the deterioration of a material, usually a metal, due to a chemical or electrochemical reaction with its environment.
+- Corrosion can cause loss of material, mechanical strength, functionality, and aesthetic appeal of the affected object or structure.
+- Corrosion can also pose safety, health, and environmental hazards if not prevented or controlled.
+- Some common examples of corrosion are rusting of iron, tarnishing of silver, and pitting of aluminum.
+
+- There are different types of corrosion, depending on the nature of the corrosive agent, the material, and the environmental conditions. Some of the main types are:
+
+  - Uniform corrosion: The most common type of corrosion, where the material loses mass uniformly over its entire surface. This type of corrosion can be predicted and measured easily, and can be prevented by using protective coatings or sacrificial anodes.
+  - Galvanic corrosion: This type of corrosion occurs when two dissimilar metals are in contact with each other and an electrolyte, such as water or soil. The more active metal (the anode) corrodes faster than the less active metal (the cathode), due to the flow of electrons between them. This type of corrosion can be prevented by avoiding contact between dissimilar metals, or by using insulating materials or cathodic protection.
+  - Pitting corrosion: This type of corrosion occurs when small holes or pits form on the surface of the material, due to localized attack by a corrosive agent. This type of corrosion can be very dangerous, as it can lead to perforation or failure of the material without much warning. This type of corrosion can be prevented by using resistant materials, or by reducing the concentration of the corrosive agent.
+  - Crevice corrosion: This type of corrosion occurs when stagnant or trapped fluids create a low-oxygen environment in narrow gaps or crevices on the surface of the material. This type of corrosion can be very aggressive, as it can cause rapid deterioration of the material. This type of corrosion can be prevented by avoiding the formation of crevices, or by using materials that can withstand low-oxygen conditions.
+  - Intergranular corrosion: This type of corrosion occurs when the grain boundaries of the material are more susceptible to corrosion than the bulk of the material, due to differences in composition, structure, or stress. This type of corrosion can cause cracking or embrittlement of the material. This type of corrosion can be prevented by using materials with uniform grain structure, or by controlling the heat treatment or welding processes.
+  - Stress corrosion cracking: This type of corrosion occurs when the material is subjected to both a corrosive environment and a tensile stress, which can cause cracks to initiate and propagate along the surface or through the material. This type of corrosion can cause catastrophic failure of the material, especially in high-strength or high-temperature applications. This type of corrosion can be prevented by reducing the stress or the corrosivity of the environment, or by using materials with high resistance to cracking.
+  - Corrosion fatigue: This type of corrosion occurs when the material is subjected to both a corrosive environment and a cyclic stress, which can cause cracks to initiate and propagate faster than in normal fatigue. This type of corrosion can reduce the fatigue life and strength of the material. This type of corrosion can be prevented by reducing the stress or the corrosivity of the environment, or by using materials with high fatigue resistance.
+  - Erosion corrosion: This type of corrosion occurs when the material is exposed to a fluid flow that causes mechanical wear or abrasion of the surface, which can accelerate the corrosion process. This type of corrosion can cause loss of material and surface roughness. This type of corrosion can be prevented by reducing the velocity or the abrasiveness of the fluid, or by using materials with high hardness or wear resistance.
+
+- The cause of corrosion is the thermodynamic tendency of metals to revert to their natural state, which is usually an oxide, hydroxide, or sulfide form. Metals are extracted from their ores by applying energy, such as heat or electricity, which creates a state of higher energy and lower entropy. Corrosion is the reverse process, where the metal releases energy and increases entropy by reacting with its environment.
+- Corrosion can be influenced by various factors, such as:
+
+  - The nature and concentration of the corrosive agent, such as oxygen, water, acids, salts, or bacteria.
+  - The temperature and pressure of the environment, which can affect the rate and extent of the corrosion reaction.
+  - The presence of other metals or alloys, which can create galvanic or intermetallic effects.
+  - The surface condition and geometry of the material, which

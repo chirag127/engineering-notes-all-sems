@@ -1,0 +1,10 @@
+### Method to find Analytic functions for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+
+- A function of a complex variable is said to be **analytic** in a region of the complex plane if it has a derivative at each point of the region and if it is single valued.
+- A function is analytic if and only if it is **holomorphic** or **complex analytic**, which means that it is locally given by a convergent power series in the complex variable  .
+- To find if a function is analytic, one can use the following methods:
+  - **Cauchy-Riemann equations**: These are two partial differential equations that relate the real and imaginary parts of a complex function. If a function satisfies these equations in a region, then it is analytic in that region .
+  - **Harmonic functions**: These are real-valued functions that satisfy Laplace's equation, which is a second-order partial differential equation. If the real and imaginary parts of a complex function are both harmonic, then the function is analytic .
+  - **Conformal mapping**: This is a transformation that preserves angles and shapes locally. If a function is analytic and has a non-zero derivative, then it is a conformal mapping. Conversely, if a function is a conformal mapping, then it is analytic .
+  - **Taylor series**: This is a representation of a function as an infinite sum of terms that are calculated from the values of the function's derivatives at a single point. If a function has a Taylor series that converges to the function in a region, then it is analytic in that region .
+  - **Laurent series**: This is a generalization of the Taylor series that allows for negative powers of the complex variable. If a function has a Laurent series that converges to the function in an annulus (a ring-shaped region), then it is analytic in that annulus .

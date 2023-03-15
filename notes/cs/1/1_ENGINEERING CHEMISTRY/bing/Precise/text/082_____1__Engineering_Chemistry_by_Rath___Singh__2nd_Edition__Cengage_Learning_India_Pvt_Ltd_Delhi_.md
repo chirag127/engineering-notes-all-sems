@@ -1,0 +1,7 @@
+### Engineering Chemistry by Rath & Singh, 2nd Edition, Cengage Learning India Pvt Ltd Delhi
+
+- Engineering Chemistry covers all topics taught to the first-year undergraduate students of all engineering disciplines offered by various Indian universities.
+- The book presents each chapter in a simple, comprehensive, and illustrative manner.
+- It covers topics from diverse branches of chemistry, viz., general, inorganic, organic, and analytical chemistry in addition to a topic, nanomaterials, from material science .
+- Each chapter includes a variety of solved and unsolved problems/exercises to help reinforce learning and boost the confidence of the learner/reader.
+- The specific focus in this book is on the syllabi of Biju Patnaik University of Technology (BPUT), KIIT (Deemed University), and SOA (Deemed University) in the state of Orissa.

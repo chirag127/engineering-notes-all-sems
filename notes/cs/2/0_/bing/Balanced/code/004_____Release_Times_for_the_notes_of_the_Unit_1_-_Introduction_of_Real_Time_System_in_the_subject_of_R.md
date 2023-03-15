@@ -1,0 +1,17 @@
+### Release Times for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- A real-time system is a system that must respond to events within a certain time frame, otherwise it may fail to meet its requirements or cause undesirable consequences.
+- A real-time system can be classified into two types: hard real-time and soft real-time.
+- A hard real-time system is a system that must meet all its deadlines, otherwise it may cause catastrophic failure or severe damage. For example, a nuclear reactor control system, a pacemaker, or an air traffic control system are hard real-time systems.
+- A soft real-time system is a system that can tolerate some missed deadlines, but the quality of service or performance may degrade. For example, a video streaming system, a voice recognition system, or a web server are soft real-time systems.
+- A real-time system consists of a set of tasks that must be executed periodically or sporadically. Each task has a release time, an execution time, and a deadline.
+- The release time of a task is the time when the task becomes ready to execute. The release time can be fixed or variable, depending on the type of the task.
+- A periodic task is a task that has a fixed release time and a fixed period. The period is the time interval between two consecutive releases of the same task. For example, a task that reads a sensor every 10 milliseconds is a periodic task with a period of 10 milliseconds and a release time of 0, 10, 20, ... milliseconds.
+- A sporadic task is a task that has a variable release time and a minimum inter-arrival time. The minimum inter-arrival time is the minimum time interval between two consecutive releases of the same task. For example, a task that handles a user input is a sporadic task with a minimum inter-arrival time of 1 second and a release time of 0, 1.5, 3.2, ... seconds.
+- The execution time of a task is the time required for the task to complete its computation. The execution time can be fixed or variable, depending on the complexity of the task and the system load.
+- The deadline of a task is the time by which the task must finish its execution. The deadline can be fixed or variable, depending on the requirements of the task and the system.
+- A task can have different types of deadlines, such as implicit, explicit, or constrained.
+- An implicit deadline is a deadline that is equal to the period or the minimum inter-arrival time of the task. For example, a periodic task with a period of 10 milliseconds has an implicit deadline of 10 milliseconds.
+- An explicit deadline is a deadline that is specified separately from the period or the minimum inter-arrival time of the task. For example, a sporadic task with a minimum inter-arrival time of 1 second and an explicit deadline of 0.5 second has a deadline of 0.5 second after each release.
+- A constrained deadline is a deadline that is less than or equal to the period or the minimum inter-arrival time of the task. For example, a periodic task with a period of 10 milliseconds and a constrained deadline of 8 milliseconds has a deadline of 8 milliseconds after each release.
+- The release times of the tasks in a real-time system are important for the scheduling and analysis of the system. The scheduling of a real-time system is the process of assigning tasks to processors and determining the order of execution. The analysis of a real-time system is the process of verifying that the system can meet all its deadlines under certain assumptions and conditions.

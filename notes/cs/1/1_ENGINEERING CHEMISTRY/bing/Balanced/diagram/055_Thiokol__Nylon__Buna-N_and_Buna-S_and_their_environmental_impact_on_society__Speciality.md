@@ -1,0 +1,11 @@
+# Thiokol, Nylon, Buna-N and Buna-S and their environmental impact on society, Speciality
+
+- Thiokol is a synthetic rubber made from ethylene and polysulfide. It is used as a sealant, adhesive, and binder for rocket propellants. It is resistant to heat, cold, and chemicals. It is also biodegradable and does not produce toxic gases when burned. 
+- Nylon is a synthetic polymer made from coal, water, and air. It is used as a fiber for clothing, carpets, parachutes, and ropes. It is strong, durable, and flexible. It is also recyclable and can be made from renewable sources. However, it is not biodegradable and can release microplastics into the environment when washed. It also consumes a lot of energy and water during production and emits greenhouse gases. 
+- Buna-N is a synthetic rubber made from acrylonitrile and butadiene. It is also known as nitrile rubber or NBR. It is used as a material for gloves, hoses, seals, and gaskets. It is resistant to oil, fuel, and other chemicals. It is also recyclable and can be blended with natural rubber. However, it is not biodegradable and can release harmful substances when burned. It also requires a lot of energy and raw materials during production and can cause health problems for workers and consumers. 
+- Buna-S is a synthetic rubber made from styrene and butadiene. It is also known as styrene butadiene rubber or SBR. It is used as a material for tires, footwear, and conveyor belts. It is cheaper and more abundant than natural rubber. It is also recyclable and can be blended with natural rubber. However, it is not biodegradable and can release toxic gases when burned. It also consumes a lot of energy and water during production and can cause environmental pollution and health risks. 
+
+: https://www.britannica.com/science/Thiokol
+: https://www.treehugger.com/what-is-nylon-and-is-it-sustainable-5086614
+: https://en.wikipedia.org/wiki/Nitrile_rubber
+: https://www.icis.com/explore/resources/news/2008/05/12/9122056/history-of-the-synthetic-rubber-industry/

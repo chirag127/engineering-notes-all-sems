@@ -1,0 +1,11 @@
+### Fillet
+- A fillet is a curved surface that connects two surfaces that meet at a sharp angle.
+- In computer-aided design (CAD), a fillet is used to smooth out sharp edges and corners in a 3D model.
+- Fillets can improve the appearance of a model and make it easier to manufacture by reducing stress concentrations.
+- Fillets can be added to both internal and external corners.
+- In CAD software, the fillet command is used to create a fillet by specifying the radius of the fillet and selecting the edges to be filleted.
+- Fillets can also be created by using the chamfer command, which creates a straight edge instead of a curved one.
+- Fillets are commonly used in mechanical engineering, product design, and architecture.
+- Fillets can be created in both 2D and 3D CAD models.
+- The process of adding fillets to a model is known as filleting or rounding.
+- Fillets can be added to a model at any stage of the design process, but it is often easier to add them after the basic shape of the model has been created.

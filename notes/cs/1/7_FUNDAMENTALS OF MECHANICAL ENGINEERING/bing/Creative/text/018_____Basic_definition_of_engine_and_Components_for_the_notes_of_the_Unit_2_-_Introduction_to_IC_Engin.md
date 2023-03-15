@@ -1,0 +1,21 @@
+### Basic definition of engine and components
+
+- An engine is a device that converts one or more forms of energy into mechanical energy that performs useful work.
+- There are different types of engines, such as steam engines, internal combustion engines, electric motors, etc.
+- The most common type of engine used in automobiles is the internal combustion engine, which burns fuel (such as gasoline or diesel) inside a cylinder to produce power.
+- The essential parts of an internal combustion engine include the block, cylinder head, valves, pistons, and piston rings.
+  - The block is the main structure of the engine that contains the cylinders and the crankcase.
+  - The cylinder head is the part that covers the top of the cylinders and houses the valves and the spark plugs (in gasoline engines) or the injectors (in diesel engines).
+  - The valves are the devices that control the flow of air and fuel mixture into the cylinders and the exhaust gases out of the cylinders.
+  - The pistons are the cylindrical parts that move up and down inside the cylinders and transmit the force of the combustion to the crankshaft.
+  - The piston rings are the metal rings that seal the gap between the pistons and the cylinder walls and prevent the leakage of gas and oil.
+- Some other important parts of an internal combustion engine are the camshaft, connecting rods, crankshaft, oil pan, oil pump, water pump, intake and exhaust manifolds, timing belt or chain, etc .
+  - The camshaft is the shaft that rotates and operates the valves through the cam lobes and the rocker arms.
+  - The connecting rods are the rods that connect the pistons to the crankshaft and transfer the motion of the pistons to the crankshaft.
+  - The crankshaft is the shaft that converts the reciprocating motion of the pistons into rotary motion and drives the transmission and the wheels.
+  - The oil pan is the container that holds the engine oil and lubricates the moving parts of the engine.
+  - The oil pump is the pump that circulates the oil throughout the engine and maintains the oil pressure.
+  - The water pump is the pump that circulates the coolant (water and antifreeze) throughout the engine and the radiator and maintains the engine temperature.
+  - The intake manifold is the part that distributes the air and fuel mixture to the cylinders.
+  - The exhaust manifold is the part that collects the exhaust gases from the cylinders and sends them to the exhaust system.
+  - The timing belt or chain is the part that synchronizes the rotation of the camshaft and the crankshaft and ensures the proper timing of the valve opening and closing.

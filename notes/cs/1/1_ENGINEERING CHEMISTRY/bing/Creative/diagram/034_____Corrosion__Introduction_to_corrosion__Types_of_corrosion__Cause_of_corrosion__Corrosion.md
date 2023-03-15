@@ -1,0 +1,22 @@
+### Corrosion: Introduction to corrosion, Types of corrosion, Cause of corrosion, Corrosion
+
+- Corrosion is the deterioration of a material, usually a metal, due to a chemical or electrochemical reaction with its environment.
+- Corrosion can cause loss of material, strength, functionality, appearance, and economic value of the affected material.
+- Corrosion can also pose safety and environmental hazards, such as leaks, spills, fires, and contamination.
+- Corrosion can be classified into different types based on the mechanism, morphology, environment, or material involved. Some common types of corrosion are:
+  - Uniform corrosion: The most common type of corrosion, where the material is uniformly attacked over the entire exposed surface, resulting in a uniform loss of thickness.
+  - Galvanic corrosion: A type of corrosion that occurs when two dissimilar metals are in electrical contact in a corrosive medium, such as water or soil. The more active metal (anode) corrodes faster than the less active metal (cathode), due to the flow of electrons between them.
+  - Pitting corrosion: A type of localized corrosion that causes small pits or holes to form on the surface of the material, usually due to the presence of chloride ions or other aggressive agents. Pitting corrosion can lead to perforation and failure of the material.
+  - Crevice corrosion: A type of localized corrosion that occurs in narrow gaps or crevices between two surfaces of the same or different materials, where the stagnant solution inside the crevice becomes more acidic and corrosive than the bulk solution outside the crevice.
+  - Intergranular corrosion: A type of localized corrosion that occurs along the grain boundaries of a material, usually due to the segregation of impurities or the formation of a second phase at the grain boundaries. Intergranular corrosion can cause the material to crack and fracture along the grain boundaries.
+  - Stress corrosion cracking: A type of cracking that occurs when a material is subjected to a tensile stress and a corrosive environment, resulting in the formation and propagation of cracks along the direction of the stress. Stress corrosion cracking can cause sudden and catastrophic failure of the material.
+  - Corrosion fatigue: A type of fatigue that occurs when a material is subjected to cyclic stress and a corrosive environment, resulting in the initiation and growth of cracks at the surface or subsurface of the material. Corrosion fatigue can reduce the fatigue life and strength of the material.
+  - Erosion corrosion: A type of corrosion that occurs when a material is exposed to a flowing fluid that contains abrasive particles, such as sand, silt, or bubbles. Erosion corrosion can cause the removal of the protective oxide layer and the formation of grooves, gullies, or waves on the surface of the material.
+  - Microbiologically influenced corrosion: A type of corrosion that occurs when microorganisms, such as bacteria, fungi, or algae, colonize the surface of the material and produce corrosive substances, such as acids, sulfides, or enzymes. Microbiologically influenced corrosion can cause pitting, crevice corrosion, intergranular corrosion, or stress corrosion cracking.
+- The cause of corrosion is the thermodynamic tendency of metals to revert to their more stable forms, such as oxides, hydroxides, or sulfides, in the presence of an oxidizing agent, such as oxygen, water, or acids. Corrosion can be accelerated by factors such as temperature, humidity, pH, salinity, dissolved oxygen, pollutants, stress, strain, or microorganisms.
+- Corrosion can be prevented or controlled by various methods, such as:
+  - Material selection: Choosing a material that is inherently resistant to corrosion or compatible with the corrosive environment, such as stainless steel, aluminum, or titanium.
+  - Coating: Applying a protective layer of a different material on the surface of the material to isolate it from the corrosive environment, such as paint, enamel, zinc, or epoxy.
+  - Cathodic protection: Applying an external electric current or a sacrificial anode to the material to make it the cathode in a galvanic cell, thus preventing it from corroding.
+  - Corrosion inhibitors: Adding chemicals to the corrosive environment to reduce the corrosion rate of the material, such as chromates, phosphates, or organic amines.
+  - Design: Designing the structure or system to avoid or minimize the factors that promote corrosion, such as crevices, stress, or erosion.

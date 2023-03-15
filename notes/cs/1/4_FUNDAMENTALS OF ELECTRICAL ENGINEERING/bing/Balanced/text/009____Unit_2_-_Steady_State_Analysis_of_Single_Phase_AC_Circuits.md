@@ -1,0 +1,31 @@
+## Unit 2 - Steady State Analysis of Single Phase AC Circuits
+
+- Single phase AC circuits are electrical circuits that are powered by alternating current (AC) sources with a single frequency and phase.
+- AC sources produce sinusoidal voltages and currents that vary periodically in time and direction.
+- The frequency of an AC source is the number of cycles per second, measured in hertz (Hz).
+- The phase of an AC source is the angle of the sinusoidal waveform relative to a reference point, measured in degrees or radians.
+- The peak value of an AC voltage or current is the maximum value attained by the sinusoid in either direction.
+- The root mean square (RMS) value of an AC voltage or current is the effective value that produces the same power as a constant DC voltage or current of the same magnitude.
+- The RMS value of a sinusoid is equal to its peak value divided by the square root of 2.
+- The average value of an AC voltage or current over one cycle is zero, since the positive and negative halves cancel out.
+- The average power delivered by an AC source to a resistive load is equal to the product of the RMS voltage, the RMS current, and the power factor.
+- The power factor of an AC circuit is the ratio of the average power to the apparent power, which is the product of the RMS voltage and the RMS current.
+- The power factor is also equal to the cosine of the phase angle between the voltage and the current.
+- The power factor can range from 0 to 1, where 0 means the voltage and current are out of phase by 90 degrees, and 1 means they are in phase.
+- The power factor can be improved by adding capacitors or inductors to the circuit, which can cancel out the reactive power and reduce the phase angle.
+- The impedance of an AC circuit is the ratio of the RMS voltage to the RMS current, measured in ohms.
+- The impedance is a complex number that has a real part (resistance) and an imaginary part (reactance).
+- The reactance of an AC circuit is the opposition to the change of voltage or current, caused by capacitors or inductors.
+- The reactance of a capacitor is inversely proportional to the frequency and the capacitance, and has a negative sign.
+- The reactance of an inductor is directly proportional to the frequency and the inductance, and has a positive sign.
+- The impedance of a series AC circuit is the sum of the impedances of the individual components.
+- The impedance of a parallel AC circuit is the reciprocal of the sum of the reciprocals of the impedances of the individual components.
+- The phasor diagram of an AC circuit is a graphical representation of the voltages and currents as vectors, with their magnitudes and phases.
+- The phasor diagram can be used to find the impedance, the power factor, and the power of an AC circuit, using trigonometry and vector algebra.
+- The Kirchhoff's laws of an AC circuit are the same as those of a DC circuit, except that the voltages and currents are complex numbers and must be added or subtracted using phasor notation.
+- The mesh analysis of an AC circuit is a method of finding the currents in the loops of the circuit, by applying Kirchhoff's voltage law and solving a system of linear equations.
+- The nodal analysis of an AC circuit is a method of finding the voltages at the nodes of the circuit, by applying Kirchhoff's current law and solving a system of linear equations.
+- The superposition theorem of an AC circuit states that the response of a linear circuit to multiple AC sources is equal to the algebraic sum of the responses to each source acting alone, with all other sources replaced by their internal impedances.
+- The Thevenin's theorem of an AC circuit states that any linear circuit with multiple AC sources can be replaced by an equivalent circuit with a single AC source and an impedance, where the source voltage is the open circuit voltage and the impedance is the Thevenin's impedance.
+- The Norton's theorem of an AC circuit states that any linear circuit with multiple AC sources can be replaced by an equivalent circuit with a single AC current source and an impedance, where the source current is the short circuit current and the impedance is the Norton's impedance.
+- The maximum power transfer theorem of an AC circuit states that the maximum power is delivered to a load when the load impedance is equal to the complex conjugate of the source impedance.

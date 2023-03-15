@@ -1,0 +1,25 @@
+### Amplification action for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+- A bipolar junction transistor (BJT) is a three-terminal device that can amplify the input signal and produce an amplified output signal.
+- A BJT consists of two p-n junctions, one between the base and the emitter, and the other between the base and the collector.
+- The base is the control terminal, the emitter is the input terminal, and the collector is the output terminal.
+- A BJT can be operated in three regions: cut-off, active, and saturation.
+- In the cut-off region, the base-emitter junction and the base-collector junction are both reverse biased, and no current flows through the transistor.
+- In the saturation region, the base-emitter junction and the base-collector junction are both forward biased, and the transistor acts as a closed switch.
+- In the active region, the base-emitter junction is forward biased and the base-collector junction is reverse biased, and the transistor acts as an amplifier.
+- The amplification action of a BJT is based on the fact that a small change in the base current can cause a large change in the collector current, as long as the transistor is in the active region.
+- The ratio of the change in the collector current to the change in the base current is called the current gain, and it is denoted by β.
+- The current gain β is a characteristic parameter of the transistor, and it depends on the type and configuration of the transistor.
+- The voltage gain of a BJT amplifier is the ratio of the change in the output voltage to the change in the input voltage, and it is denoted by A_v.
+- The voltage gain A_v can be expressed as the product of the current gain β and the resistance gain R_L/R_E, where R_L is the load resistance and R_E is the emitter resistance.
+- The power gain of a BJT amplifier is the ratio of the output power to the input power, and it is denoted by A_p.
+- The power gain A_p can be expressed as the product of the voltage gain A_v and the current gain β.
+- Depending on the quantity amplified by the circuit, the BJT amplifier can be classified as a voltage amplifier, a current amplifier, or a power amplifier.
+- A voltage amplifier is a BJT amplifier that has a high voltage gain and a low current gain.
+- A current amplifier is a BJT amplifier that has a high current gain and a low voltage gain.
+- A power amplifier is a BJT amplifier that has a high power gain and a moderate voltage and current gain.
+- A BJT amplifier can also be classified based on the configuration of the transistor, such as common emitter, common base, or common collector.
+- A common emitter amplifier is a BJT amplifier that has the emitter terminal common to both the input and the output circuits.
+- A common base amplifier is a BJT amplifier that has the base terminal common to both the input and the output circuits.
+- A common collector amplifier is a BJT amplifier that has the collector terminal common to both the input and the output circuits.
+- Each configuration of the BJT amplifier has its own advantages and disadvantages, such as input and output impedance, voltage and current gain, phase shift, and frequency response.

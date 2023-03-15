@@ -1,0 +1,19 @@
+### Spectroscopic Techniques and Applications: Elementary idea and simple applications of
+
+Spectroscopy is the study of the interaction of electromagnetic radiation with matter. It can be used to identify, characterize, and quantify the chemical and physical properties of atoms, molecules, and materials. Spectroscopy can also reveal information about the structure, dynamics, and environment of the studied systems.
+
+There are different types of spectroscopic techniques, based on the nature of the radiation and the matter involved, such as:
+
+- **Atomic spectroscopy**: The study of the emission and absorption of radiation by atoms or atomic ions. It can be used to determine the elemental composition of a sample, the isotopic abundance, the electronic structure, and the atomic transitions.
+- **Molecular spectroscopy**: The study of the emission and absorption of radiation by molecules or molecular ions. It can be used to determine the molecular structure, the vibrational and rotational modes, the molecular interactions, and the chemical reactions.
+- **Nuclear spectroscopy**: The study of the emission and absorption of radiation by atomic nuclei. It can be used to determine the nuclear structure, the nuclear spin, the nuclear transitions, and the nuclear reactions.
+- **Electron spectroscopy**: The study of the emission and absorption of radiation by electrons. It can be used to determine the electronic structure, the electron binding energies, the electron transitions, and the electron interactions.
+- **Mass spectroscopy**: The study of the deflection of charged particles by electric and magnetic fields. It can be used to determine the mass, the charge, the isotopic composition, and the fragmentation pattern of molecules or ions.
+- **Raman spectroscopy**: The study of the scattering of radiation by molecules or materials. It can be used to determine the vibrational and rotational modes, the molecular structure, the molecular interactions, and the phase transitions.
+
+Some of the simple applications of spectroscopy are:
+
+- **Spectroscopy in medicine**: Spectroscopy can be used for diagnosis, therapy, and imaging of various diseases and conditions. For example, infrared spectroscopy can be used to measure the blood glucose level, ultraviolet spectroscopy can be used to detect skin cancer, magnetic resonance spectroscopy can be used to study the brain metabolism, and fluorescence spectroscopy can be used to monitor the drug delivery.
+- **Spectroscopy in physics**: Spectroscopy can be used for studying the fundamental properties of matter and energy. For example, X-ray spectroscopy can be used to probe the atomic structure, gamma-ray spectroscopy can be used to study the nuclear structure, microwave spectroscopy can be used to measure the cosmic background radiation, and laser spectroscopy can be used to manipulate the quantum states of atoms and molecules.
+- **Spectroscopy in chemistry**: Spectroscopy can be used for analyzing the composition, structure, and reactivity of chemical substances and reactions. For example, mass spectroscopy can be used to identify the molecular formula, infrared spectroscopy can be used to determine the functional groups, nuclear magnetic resonance spectroscopy can be used to elucidate the molecular structure, and ultraviolet-visible spectroscopy can be used to measure the concentration of a solution.
+- **Spectroscopy in astronomy**: Spectroscopy can be used for exploring the nature and origin of the universe and its components. For example, optical spectroscopy can be used to classify the stars, radio spectroscopy can be used to detect the interstellar molecules, X-ray spectroscopy can be used to study the black holes, and gravitational wave spectroscopy can be used to observe the collisions of massive objects.

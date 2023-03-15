@@ -1,0 +1,21 @@
+### Practical and oral purposes by being honed up in presentation skills and voice-dynamics.
+
+- Presentation skills and voice-dynamics are important for practical and oral purposes, such as delivering speeches, lectures, reports, interviews, or negotiations.
+- Presentation skills refer to the ability to plan, prepare, and deliver effective and engaging presentations that convey the intended message and achieve the desired outcome.
+- Voice-dynamics refer to the ability to use various aspects of voice, such as volume, pitch, tone, pace, and pauses, to enhance the delivery and impact of the presentation.
+- Some of the benefits of being honed up in presentation skills and voice-dynamics are:
+  - It can increase the confidence and credibility of the speaker.
+  - It can improve the clarity and comprehension of the audience.
+  - It can capture and maintain the attention and interest of the audience.
+  - It can persuade and influence the audience to take action or change their perspective.
+  - It can demonstrate the speaker's knowledge and expertise on the topic.
+- Some of the ways to improve presentation skills and voice-dynamics are:
+  - Analyze the purpose, audience, and context of the presentation.
+  - Research and organize the content and structure of the presentation.
+  - Use visual aids, such as slides, charts, graphs, or images, to support the presentation.
+  - Practice and rehearse the presentation, preferably with feedback from others.
+  - Speak with confidence, enthusiasm, and passion.
+  - Use appropriate voice-dynamics, such as varying the volume, pitch, tone, pace, and pauses, to emphasize key points, create contrast, and avoid monotony.
+  - Use body language, such as eye contact, gestures, facial expressions, and posture, to complement the voice and convey non-verbal messages.
+  - Engage the audience, such as by asking questions, inviting comments, or using humor, to create rapport and interaction.
+  - Handle questions and objections, such as by listening, acknowledging, and responding, to address the concerns and doubts of the audience.

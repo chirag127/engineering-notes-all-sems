@@ -1,0 +1,11 @@
+# Priority-Based Service and Weighted Round-Robin Service Disciplines for Switched Networks
+
+- Priority-based service disciplines are used to schedule the transmission of packets in a network according to their priority levels, delay bounds, jitter bounds and bandwidth requirements.
+- Weighted round-robin (WRR) is a simple and fair priority-based service discipline that assigns a weight to each queue and serves them in a circular order, proportional to their weights.
+- WRR does not require a sorted priority queue, only a round-robin queue.
+- WRR can guarantee the minimum bandwidth for each queue, but it cannot guarantee the delay jitter bound or satisfy diverse delay requirements.
+- To overcome the limitations of WRR, some variations have been proposed, such as weighted fair queuing (WFQ), probabilistic priority (PP), rate-controlled frame-based WRR (RFWRR), class-based WFQ (CBWFQ) and weighted fair priority queuing (WFPQ).
+- WFQ assigns a weight and a finish time to each packet and serves them in the order of increasing finish times. WFQ can provide fairness and delay guarantees, but it requires complex computations and sorting.
+- PP is a hybrid of SP and WFQ, where each queue is assigned a weight and a priority, and the server polls the queues according to their priority and serves them with a probability proportional to their weight. PP can achieve a trade-off between fairness and priority, but it may introduce additional delay and jitter.
+- RFWRR is an extension of WRR that divides the scheduler into a rate controller and a frame-based WRR server. The rate controller adjusts the weights of the queues according to their delay requirements, and the frame-based WRR server serves the queues in a fixed frame size. RFWRR can guarantee the delay jitter bound and satisfy diverse delay requirements, but it may cause unfairness and underutilization.
+- CBWFQ and WFPQ are class-based service disciplines that group the queues into different classes and apply WFQ or WRR within each class. CBWFQ and WFPQ can provide different levels of service for different classes, but they may suffer from the same drawbacks as WFQ or WRR.

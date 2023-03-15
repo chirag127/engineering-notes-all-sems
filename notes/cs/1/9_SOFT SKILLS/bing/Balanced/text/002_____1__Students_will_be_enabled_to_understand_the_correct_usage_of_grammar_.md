@@ -1,0 +1,11 @@
+### 1. Students will be enabled to understand the correct usage of grammar.
+
+- Grammar is the set of rules and conventions that govern how words and sentences are structured and used in a language.
+- Grammar helps to communicate clearly and effectively, avoid misunderstandings and errors, and express one's thoughts and ideas with precision and coherence.
+- Grammar can be divided into different levels or categories, such as phonology (the sound system of a language), morphology (the formation and structure of words), syntax (the arrangement and order of words and phrases), semantics (the meaning and interpretation of words and sentences), and pragmatics (the use of language in context and for specific purposes).
+- Grammar can also be classified into descriptive grammar (the description and analysis of how language is actually used by speakers and writers) and prescriptive grammar (the prescription and enforcement of rules and norms for how language should be used).
+- To understand the correct usage of grammar, students need to learn and practice the rules and patterns of each level and category of grammar, as well as the exceptions and variations that may occur in different contexts and situations.
+- Students also need to be aware of the differences and similarities between different varieties and registers of a language, such as formal and informal, standard and non-standard, spoken and written, and regional and global.
+- Students can use various resources and tools to improve their grammar skills, such as dictionaries, grammar books, online platforms, apps, games, quizzes, exercises, feedback, and peer review.
+- Students can also benefit from exposure to authentic and diverse texts and genres of a language, such as literature, media, academic, professional, and personal communication, and analyze and compare how grammar is used in different modes and purposes of communication.
+- Students can apply their grammar knowledge and skills to produce and comprehend texts and messages that are appropriate, accurate, and effective for their intended audience, context, and goal.

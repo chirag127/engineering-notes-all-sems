@@ -1,0 +1,27 @@
+### Basics: Expressions for the notes of the Unit 1 - Introduction: The Programming Cycle for Python , Python IDE, Interacting with Python Programs , Elements of Python, Type Conversion.
+
+- An expression is a combination of values, variables, operators, and functions that produces a result.
+- The result of an expression can be displayed using the `print()` function or assigned to a variable using the `=` operator.
+- Examples of expressions are `2 + 3`, `"Hello" + "World"`, `len("Python")`, and `x * y`.
+- The programming cycle is the process of writing, testing, and debugging a program.
+- The programming cycle consists of the following steps:
+  - Analyze the problem and design a solution.
+  - Write the code using a programming language such as Python.
+  - Test the code using sample inputs and outputs.
+  - Debug the code by finding and fixing errors.
+  - Document the code by adding comments and explanations.
+  - Maintain the code by updating and improving it as needed.
+- A Python IDE (Integrated Development Environment) is a software tool that provides a convenient and user-friendly environment for writing, running, and debugging Python programs.
+- Some examples of Python IDEs are PyCharm, Visual Studio Code, Thonny, and Spyder.
+- Interacting with Python programs can be done in two ways: using the interactive mode or using the script mode.
+- The interactive mode allows the user to enter and execute Python commands one by one in a shell or a console.
+- The script mode allows the user to write and save Python commands in a file and then run the file as a whole.
+- The elements of Python are the basic components that make up a Python program, such as keywords, identifiers, literals, operators, and comments.
+- Keywords are reserved words that have a special meaning and function in Python, such as `if`, `else`, `for`, `while`, `def`, and `class`.
+- Identifiers are names that are used to identify variables, functions, classes, and other objects in Python. They must start with a letter or an underscore and can contain letters, digits, and underscores. They are case-sensitive and cannot be keywords.
+- Literals are values that are written directly in the code, such as `42`, `"Hello"`, `True`, and `None`.
+- Operators are symbols that perform arithmetic, logical, comparison, assignment, or other operations on operands, such as `+`, `-`, `*`, `/`, `==`, `!=`, `and`, `or`, `not`, and `=`.
+- Comments are lines of text that are ignored by the Python interpreter and are used to explain or document the code. They start with a `#` symbol and can be single-line or multi-line.
+- Type conversion is the process of changing the data type of a value or an expression, either implicitly or explicitly.
+- Implicit type conversion is done automatically by Python when an operation involves operands of different types, such as `3 + 4.5` or `True and 1`.
+- Explicit type conversion is done by the programmer using built-in functions such as `int()`, `float()`, `str()`, `bool()`, and `type()`, such as `int("42")` or `float(True)`.

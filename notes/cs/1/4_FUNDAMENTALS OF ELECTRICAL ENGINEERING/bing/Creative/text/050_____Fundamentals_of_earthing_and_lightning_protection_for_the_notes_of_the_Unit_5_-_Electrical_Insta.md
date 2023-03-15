@@ -1,0 +1,25 @@
+### Fundamentals of earthing and lightning protection
+
+- Earthing and lightning protection are important for everyone that uses electrical equipment and that includes the large majority of the world.
+- Earthing is the process of connecting the metallic parts of an electrical system or appliance to the earth. It provides a low-resistance path for fault currents and protects the system and the users from electric shock.
+- Lightning protection is the process of intercepting or diverting lightning and providing a certain path for conducting the surges safely to the ground by adequate down conductors to grounding electrodes. It helps prevent disastrous events like fires, injuries, and deaths.
+- The basic principles of earthing and lightning protection are:
+  - Providing an alternative path for the lightning current to flow to ground and ensure that:
+    - Lightning current flowing in the lightning protection system (LPS) does not induce dangerous currents in any parallel metallic systems near the LPS, and
+    - The potential difference between the LPS and the earth is kept to a minimum.
+  - Providing a low-impedance connection between the LPS and the earth by using suitable earthing electrodes and conductors.
+  - Providing adequate bonding between the LPS and other metallic systems to avoid potential differences and flashovers.
+  - Providing surge protection devices (SPDs) to limit the overvoltages and protect the sensitive equipment from damage.
+- The types and components of earthing and lightning protection systems are:
+  - Earthing systems: They can be classified into three types based on the connection of the neutral point of the supply system to the earth. They are:
+    - TN system: The neutral point is directly connected to the earth and the exposed conductive parts of the equipment are connected to the neutral point.
+    - TT system: The neutral point is directly connected to the earth and the exposed conductive parts of the equipment are connected to a separate earthing electrode.
+    - IT system: The neutral point is either isolated from the earth or connected through a high impedance and the exposed conductive parts of the equipment are connected to a separate earthing electrode.
+  - Lightning protection systems: They can be classified into two types based on the method of interception of the lightning strike. They are:
+    - Conventional system: It uses air terminals (rods or masts) to capture the lightning and down conductors to carry the current to the earth electrodes. It also uses equipotential bonding and SPDs to reduce the risk of side flashes and overvoltages.
+    - Non-conventional system: It uses devices that claim to prevent or reduce the probability of a direct strike by modifying the electric field around the protected structure. Examples are early streamer emission (ESE) terminals and charge transfer system (CTS).
+- The latest industry standards and procedures for earthing and lightning protection are:
+  - IEC 60364 series: It covers the electrical installations of buildings and specifies the requirements for earthing systems, protective conductors, equipotential bonding, and SPDs.
+  - IEC 62305 series: It covers the protection against lightning and specifies the general principles, risk assessment, physical damage to structures and life hazard, and electrical and electronic systems within structures.
+  - IEEE Std 80: It covers the safety in AC substation grounding and specifies the methods for calculating the ground resistance, touch and step voltages, and ground potential rise.
+  - IEEE Std 142: It covers the grounding of industrial and commercial power systems and specifies the methods for designing, installing, and testing the grounding systems.

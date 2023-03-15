@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on mass flow rate, Venturi meter and Orifice meter for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING.
+
+### Mass flow rate, Venturi meter and Orifice meter
+
+- Mass flow rate is the amount of mass of a fluid that passes through a given cross-sectional area per unit time. It is denoted by m dot and has the units of kg/s or lbm/s.
+- Mass flow rate can be calculated by multiplying the density, the cross-sectional area and the average velocity of the fluid: m dot = rho * A * v.
+- Venturi meter and Orifice meter are devices that reduce the pressure of a moving stream to measure its average velocity, volumetric flow rate, or mass flow rate. The continuity equation and Bernoulli’s equation quantitatively link the pressure drop to the velocity or flow rate of the flowing fluid.
+- Venturi meter is a device that consists of a converging section, a throat, and a diverging section. The fluid velocity increases and the pressure decreases in the converging section, reaches a maximum at the throat, and then decreases and increases in the diverging section. The pressure difference between the inlet and the throat can be used to calculate the flow rate .
+- Orifice meter is a device that consists of a thin plate with a hole in the middle. The fluid velocity increases and the pressure decreases as it passes through the hole, creating a pressure difference between the upstream and the downstream of the plate. The flow rate can be calculated from the pressure difference and the area of the hole .
+- Venturi meter is more accurate than orifice meter because it has a smoother and gradual contraction and expansion, which reduces the energy losses and the coefficient of discharge. The coefficient of discharge is the ratio of the actual flow rate to the theoretical flow rate. For venturi meter, it is 0.96-0.99, while for orifice meter, it is 0.6-0.62 .
+- Venturi meter and orifice meter are suitable for measuring the flow rate of incompressible fluids, such as liquids and low-speed gases. For compressible fluids, such as high-speed gases and steam, nozzle meter or pitot tube can be used .

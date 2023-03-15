@@ -1,0 +1,23 @@
+### Analytic functions
+
+- An analytic function of a complex variable is a function that is locally given by a convergent power series.
+- Equivalently, an analytic function is a function that is differentiable at every point in its domain.
+- The derivative of an analytic function is also analytic, and the sum, product, quotient, and composition of analytic functions are analytic.
+- The set of all analytic functions on a domain is a vector space and a ring, and is closed under uniform convergence.
+- An analytic function can be represented by a Taylor series around any point in its domain.
+- An analytic function is holomorphic, meaning that it satisfies the Cauchy-Riemann equations.
+- An analytic function is also harmonic, meaning that its real and imaginary parts are harmonic functions.
+- An analytic function has a complex antiderivative, called a primitive or an indefinite integral, if and only if it is conservative, meaning that its line integral along any closed curve is zero.
+- An analytic function has a unique analytic continuation to any larger domain that contains its original domain.
+- An analytic function is conformal, meaning that it preserves angles and orientation, at any point where it is nonzero.
+- An analytic function has an isolated singularity at a point if it is analytic in a punctured neighborhood of that point.
+- An isolated singularity can be classified as removable, pole, or essential, depending on the behavior of the function near the point.
+- An analytic function has a branch point at a point if it is multivalued in a neighborhood of that point.
+- A branch point can be resolved by choosing a branch cut and a branch of the function.
+- An analytic function has a zero of order n at a point if it can be written as a product of a nonzero constant and a power of z-z0 of degree n.
+- The number of zeros of an analytic function in a region, counted with multiplicity, is equal to the number of poles of its reciprocal in the same region, counted with multiplicity. This is the argument principle.
+- The number of zeros of an analytic function in a region, counted with multiplicity, is equal to the change in the argument of the function along the boundary of the region, divided by 2π. This is the argument principle.
+- An analytic function that is bounded in the whole complex plane is constant. This is Liouville's theorem.
+- An analytic function that is not constant has an essential singularity at infinity.
+- An analytic function that has an essential singularity at a point assumes every complex value, with one possible exception, infinitely often in any neighborhood of that point. This is the Casorati-Weierstrass theorem.
+- An analytic function that has an essential singularity at infinity assumes every complex value, with one possible exception, infinitely often in any neighborhood of infinity. This is the Picard theorem.

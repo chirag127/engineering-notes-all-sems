@@ -1,0 +1,7 @@
+### Temporal Consistency
+
+- Temporal consistency is a property of real-time database systems that ensures that the data stored in the database reflects the current state of the physical environment that the data represents.
+- Temporal consistency is different from logical consistency, which is a property of conventional database systems that ensures that the data stored in the database satisfies the integrity constraints and the consistency rules defined by the database schema.
+- Temporal consistency is important for real-time systems because they need to process data that is time-sensitive and relevant for the current situation. If the data is outdated or inaccurate, the real-time system may make wrong decisions or miss deadlines.
+- Temporal consistency can be measured by the temporal validity of the data, which is the difference between the time when the data was last updated and the time when the data is accessed by a transaction. The temporal validity of the data should be within a predefined limit, otherwise the data is considered temporally inconsistent.
+- Temporal consistency can be maintained by using various techniques, such as triggered updates, temporal caching, temporal grouping, temporal locking, and temporal coherency protocols. These techniques aim to update the data in the database as soon as possible, or to prevent transactions from accessing outdated data, or to coordinate the access and update of data among multiple nodes in a distributed real-time system  .

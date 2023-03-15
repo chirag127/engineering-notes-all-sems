@@ -1,0 +1,8 @@
+### HTML in Web Page Designing
+
+- HTML stands for HyperText Markup Language   . It is used to design web pages using a markup language .
+- A markup language is a set of symbols or tags that define the structure and content of a document. HTML tags are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </p> for paragraphs .
+- HTML documents consist of a head section and a body section. The head section contains information about the document, such as the title, meta tags, style sheets, and scripts. The body section contains the actual content of the document, such as text, images, links, and forms .
+- HTML uses different tags, elements, images and some latest components to make web pages more attractive and user-friendly. For example, <h1> to <h6> tags are used for headings, <img> tag is used for images, <a> tag is used for links, and <div> and <span> tags are used for layout and styling.
+- HTML can be written using any text editor, such as Notepad, Notepad++, Brackets, or TextEdit. The HTML file should have a .html or .htm extension and can be opened in any web browser, such as Chrome, Firefox, or Safari.
+- HTML can be enhanced with CSS (Cascading Style Sheets) and JavaScript. CSS is used to define the appearance and layout of the web page, such as colors, fonts, margins, and positions. JavaScript is used to add interactivity and functionality to the web page, such as animations, validations, and events .

@@ -1,0 +1,26 @@
+# Algorithm for the notes of the Unit 1 - Introduction: Basic Terminology, Elementary Data Organization, Built in Data Types in C. Algorithm, Efficiency of an Algorithm, Time and Space Complexity, Asymptotic notations: Big Oh, Big Theta and Big Omega, Time-Space trade-off. Abstract Data Types (ADT) in the subject of DATA STRUCTURE
+
+- An algorithm is a finite sequence of well-defined steps that solves a problem or performs a task.
+- An algorithm can be expressed in different ways, such as natural language, pseudocode, flowchart, or programming language.
+- An algorithm has the following properties:
+  - Input: An algorithm may take zero or more inputs.
+  - Output: An algorithm must produce at least one output.
+  - Definiteness: Each step of an algorithm must be clear and unambiguous.
+  - Finiteness: An algorithm must terminate after a finite number of steps.
+  - Effectiveness: Each step of an algorithm must be feasible and executable.
+  - Correctness: An algorithm must produce the correct output for all valid inputs.
+- The efficiency of an algorithm is a measure of how well it uses the resources, such as time and space, to solve a problem or perform a task.
+- The time complexity of an algorithm is the amount of time it takes to execute as a function of the input size.
+- The space complexity of an algorithm is the amount of memory it uses as a function of the input size.
+- The asymptotic notation is a way of expressing the growth rate of a function, such as time or space complexity, as the input size approaches infinity.
+- The most common asymptotic notations are:
+  - Big Oh (O): It gives the upper bound of a function, meaning that the function is always less than or equal to a constant multiple of another function.
+  - Big Theta (Θ): It gives the tight bound of a function, meaning that the function is always between a constant multiple of another function and another constant multiple of the same function.
+  - Big Omega (Ω): It gives the lower bound of a function, meaning that the function is always greater than or equal to a constant multiple of another function.
+- The time-space trade-off is a situation where an algorithm can be improved in terms of time complexity by using more space, or vice versa.
+- An abstract data type (ADT) is a logical description of a set of data and the operations that can be performed on the data, without specifying how the data is stored or how the operations are implemented.
+- An ADT can be implemented using different data structures, such as arrays, linked lists, stacks, queues, trees, graphs, etc.
+- An ADT has the following advantages:
+  - Abstraction: It hides the details of the data representation and implementation from the user, allowing the user to focus on the problem-solving logic.
+  - Encapsulation: It protects the data from being manipulated or accessed in an unauthorized or incorrect way, ensuring data integrity and consistency.
+  - Modularity: It allows the data and the operations to be organized into separate modules, making the code easier to understand, maintain, and reuse.

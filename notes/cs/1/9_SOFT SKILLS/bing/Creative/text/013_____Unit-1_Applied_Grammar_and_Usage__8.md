@@ -1,0 +1,23 @@
+### Unit-1 Applied Grammar and Usage: 8
+
+- This unit covers the following topics:
+  - Subject-verb agreement
+  - Pronoun-antecedent agreement
+  - Parallelism
+  - Modifier placement
+  - Punctuation
+- Subject-verb agreement is the rule that the verb must agree in number and person with the subject of a sentence. For example:
+  - He **runs** every day. (singular subject, singular verb)
+  - They **run** every day. (plural subject, plural verb)
+- Pronoun-antecedent agreement is the rule that the pronoun must agree in number, gender and person with its antecedent, which is the word or phrase that the pronoun refers to. For example:
+  - John likes his bike. (singular antecedent, singular pronoun)
+  - The students like their bikes. (plural antecedent, plural pronoun)
+- Parallelism is the rule that the words or phrases in a list or a series must have the same grammatical form and function. For example:
+  - She likes to read, write and paint. (all verbs in the same form)
+  - He is smart, handsome and funny. (all adjectives in the same form)
+- Modifier placement is the rule that the modifier, which is a word or phrase that adds detail or description to another word or phrase, must be placed as close as possible to the word or phrase it modifies to avoid confusion or ambiguity. For example:
+  - He saw a dog with a telescope. (ambiguous: who has the telescope?)
+  - He saw with a telescope a dog. (clear: he has the telescope)
+- Punctuation is the use of symbols such as commas, periods, semicolons, etc. to separate or clarify the meaning of words, phrases or sentences. For example:
+  - Let's eat, Grandma. (comma indicates a pause and a direct address)
+  - Let's eat Grandma. (no comma indicates a cannibalistic intention)

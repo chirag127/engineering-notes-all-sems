@@ -1,0 +1,7 @@
+### Evolution for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+1. Mechatronics technology helps in lowering development costs, reducing risk, and producing high-quality products .
+2. In the design of cars, robots, machine tools, washing machines, cameras, and many other machines, an integrated and interdisciplinary approach to engineering design is increasingly being adopted .
+3. Mechatronics brings together areas of technology involving sensors and measurement systems, drive and actuation systems, and microprocessors .
+4. The Fundamentals of Metrology seminar introduces participants to the concepts of measurement systems, units, good laboratory practices, data integrity, measurement uncertainty, measurement assurance, traceability, basic statistics, and how they fit into a laboratory Quality Management System .
+5. Transducers and data acquisition systems are covered in Unit 5, including the classification and selection of transducers, resistive, capacitive, and inductive transducers, piezoelectric, Hall effect, optical, and digital transducers, elements of data acquisition systems, smart sensors, and thermal imagers .

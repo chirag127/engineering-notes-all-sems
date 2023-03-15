@@ -1,0 +1,9 @@
+# Stereochemistry
+
+Stereochemistry is the branch of chemistry that deals with the three-dimensional arrangement of atoms and molecules and the effect of this on chemical reactions . Stereochemistry focuses on the relationships between stereoisomers, which are molecules that have the same molecular formula and sequence of bonded atoms, but differ in the orientation of their atoms in space.
+
+Some of the main topics in stereochemistry are:
+
+- **Chirality**: the property of a molecule that makes it non-superimposable on its mirror image. A molecule that has chirality is called a chiral molecule, and it can exist in two forms called enantiomers, which are mirror images of each other. Chiral molecules have different interactions with polarized light and other chiral molecules, which can affect their biological activity and chemical properties .
+- **Stereoisomerism**: the classification of stereoisomers based on their structural features and spatial configurations. There are two types of stereoisomerism: configurational and conformational. Configurational stereoisomerism refers to the different arrangements of atoms or groups around a fixed bond or a chiral center, such as cis-trans isomerism and optical isomerism. Conformational stereoisomerism refers to the different shapes of molecules that result from the rotation of single bonds, such as eclipsed and staggered conformations .
+- **Stereochemical reactions**: the chemical reactions that involve changes in the stereochemistry of the reactants or products, such as inversion, retention, racemization, and resolution. Stereochemical reactions can be influenced by factors such as the mechanism, the solvent, the catalyst, and the temperature. Stereochemical reactions can have important implications for the synthesis and analysis of organic compounds, especially in the fields of biochemistry and pharmacology .

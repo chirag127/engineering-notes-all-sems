@@ -1,0 +1,22 @@
+### Principle and Construction of Electrical Machines
+
+- Electrical machines are devices that convert mechanical energy to electrical energy and vice versa.
+- The principle of operation of electrical machines is based on the interaction of magnetic fields and electric currents.
+- The magnetic field can be produced by permanent magnets or electromagnets (coils carrying current).
+- The electric current can be induced by relative motion between a conductor and a magnetic field, or supplied by an external source.
+- The mechanical force or torque on the conductor is due to the Lorentz force law, which states that a current-carrying conductor in a magnetic field experiences a force perpendicular to both the current and the field.
+- The direction of the force or torque can be determined by the right-hand rule or Fleming's left-hand rule.
+- The magnitude of the force or torque depends on the strength of the current, the magnetic field, and the angle between them.
+- There are two main types of electrical machines: generators and motors.
+- Generators convert mechanical energy to electrical energy by inducing an electromotive force (emf) or voltage in a conductor that moves in a magnetic field.
+- Motors convert electrical energy to mechanical energy by applying a current to a conductor that is placed in a magnetic field, causing it to rotate.
+- Generators and motors can be classified into direct current (DC) and alternating current (AC) machines, depending on the type of current they produce or use.
+- DC machines have a constant polarity of voltage and current, while AC machines have a sinusoidal or alternating polarity of voltage and current.
+- The construction of electrical machines consists of some common components, such as:
+  - Yoke: The outer frame or casing that supports and protects the machine. It is usually made of cast iron or steel.
+  - Poles: The parts that produce or receive the magnetic field. They are attached to the yoke and have pole cores and pole shoes. The pole cores are made of laminated steel and carry the field coils or windings. The pole shoes are extensions of the pole cores that increase the area of contact with the armature and reduce the reluctance of the magnetic circuit.
+  - Armature: The part that carries the armature windings or conductors. It is usually a cylindrical drum or disc that rotates in the magnetic field. The armature core is made of laminated steel and has slots for the armature windings. The armature windings are connected in series or parallel to form loops or coils. The armature conductors are connected to the commutator or slip rings, depending on the type of machine.
+  - Commutator: A cylindrical device that consists of insulated copper segments or bars that are attached to the armature conductors. It rotates with the armature and acts as a mechanical rectifier or switch that reverses the direction of the current in the armature windings every half cycle, to maintain a unidirectional torque in DC machines.
+  - Slip rings: Two or more metal rings that are fixed to the armature shaft and insulated from each other. They rotate with the armature and provide a continuous connection between the armature windings and the external circuit in AC machines.
+  - Brushes: Two or more carbon or metal blocks that are pressed against the commutator or slip rings by springs. They slide over the commutator or slip rings and collect or supply the current to or from the armature windings. They are connected to the terminals of the machine.
+  - Bearings: The parts that support the armature shaft and allow it to rotate smoothly and with minimum friction. They are usually ball or roller bearings that are lubricated and sealed.

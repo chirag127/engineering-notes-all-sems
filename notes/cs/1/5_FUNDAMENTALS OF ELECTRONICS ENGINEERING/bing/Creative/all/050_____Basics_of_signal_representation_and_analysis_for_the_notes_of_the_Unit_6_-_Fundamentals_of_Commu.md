@@ -1,0 +1,10 @@
+# Basics of signal representation and analysis
+
+- A signal is a physical quantity that varies with time, space or any other independent variable. It can represent information such as sound, image, temperature, etc. 
+- Signal representation is the process of describing a signal using mathematical functions or symbols. Signal representation can be done in different domains, such as time, frequency, space, etc.  
+- Signal analysis is the process of extracting useful information from a signal, such as its amplitude, frequency, phase, energy, spectrum, etc. Signal analysis can be done using various techniques, such as Fourier analysis, Laplace transform, Z-transform, etc.   
+- Time domain representation is the most common way of representing a signal as a function of time. Time domain representation shows the variation of the signal amplitude with respect to time. Time domain representation is useful for understanding the temporal characteristics of a signal, such as its duration, periodicity, etc.  
+- Frequency domain representation is another way of representing a signal as a function of frequency. Frequency domain representation shows the variation of the signal amplitude with respect to frequency. Frequency domain representation is useful for understanding the spectral characteristics of a signal, such as its bandwidth, harmonics, etc.   
+- To convert a signal from time domain to frequency domain, or vice versa, we can use mathematical tools such as Fourier transform, Laplace transform, Z-transform, etc. These tools decompose a signal into its frequency components, or synthesize a signal from its frequency components.   
+- Some signals can be represented in both time and frequency domains, such as sinusoidal signals, exponential signals, etc. Some signals can only be represented in one domain, such as impulse signals, step signals, etc.  
+- Signal representation and analysis are important for communication engineering, as they help us to design, implement and evaluate various communication systems and components, such as modulators, demodulators, filters, amplifiers, etc.

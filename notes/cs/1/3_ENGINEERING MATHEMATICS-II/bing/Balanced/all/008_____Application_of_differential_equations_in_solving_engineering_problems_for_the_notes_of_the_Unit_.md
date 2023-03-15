@@ -1,0 +1,11 @@
+# Application of differential equations in solving engineering problems
+
+- Differential equations are mathematical equations that relate the rate of change of a physical quantity, such as temperature, pressure, displacement, velocity, stress, strain, current, voltage, or concentration of a pollutant, with the change of time or location, or both .
+- Differential equations are useful for modeling physical problems using mathematical equations, and then solving these equations to study the behavior of the systems concerned .
+- Some examples of engineering subjects that are based on the theory of differential equations are:
+  - Mechanical vibration or structural dynamics: The motion of a mass-spring system, a pendulum, a beam, a bridge, or a building can be described by second-order differential equations that involve the displacement, velocity, acceleration, and external forces acting on the system .
+  - Heat transfer: The temperature distribution in a solid, a liquid, or a gas can be modeled by partial differential equations that involve the heat flux, the heat capacity, the thermal conductivity, and the heat sources or sinks in the medium .
+  - Theory of electric circuits: The voltage and current in a circuit that contains resistors, capacitors, inductors, and sources can be determined by first-order differential equations that involve the resistance, capacitance, inductance, and electromotive force in the circuit .
+- Some of the methods for solving differential equations are:
+  - Analytical methods: These methods involve finding exact or approximate solutions of differential equations using algebraic, trigonometric, exponential, or logarithmic functions, or series expansions . Examples of analytical methods are separation of variables, integrating factors, variation of parameters, undetermined coefficients, Laplace transform, Fourier series, etc.
+  - Numerical methods: These methods involve finding numerical approximations of the solutions of differential equations using algorithms that discretize the domain and the range of the equations. Examples of numerical methods are Euler's method, Runge-Kutta method, finite difference method, finite element method, etc.

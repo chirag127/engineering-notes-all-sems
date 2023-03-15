@@ -1,0 +1,10 @@
+## Unit 3 - Introduction to Refrigeration and Air-Conditioning
+
+- Refrigeration and air-conditioning are processes that involve the transfer of heat from a lower-temperature region to a higher-temperature region, using a substance called a refrigerant as the working medium.
+- Refrigeration is used to create and maintain low temperatures for various purposes, such as food preservation, industrial cooling, cryogenics, etc.
+- Air-conditioning is used to provide thermal comfort and improve the quality of indoor air, by controlling the temperature, humidity, ventilation, and filtration of the air.
+- The basic principle of refrigeration and air-conditioning is the same: a refrigerant undergoes a cycle of phase changes (evaporation and condensation) and pressure changes (compression and expansion) to absorb heat from a cold space and reject it to a hot space.
+- The main components of a refrigeration or air-conditioning system are: an evaporator, where the refrigerant absorbs heat from the cold space and evaporates; a compressor, where the refrigerant is compressed to a high pressure and temperature; a condenser, where the refrigerant releases heat to the hot space and condenses; and an expansion device, where the refrigerant is expanded to a low pressure and temperature.
+- The performance of a refrigeration or air-conditioning system is measured by the coefficient of performance (COP), which is the ratio of the useful heat transfer (at the evaporator or the condenser) to the work input (by the compressor) .
+- The COP depends on the type of refrigerant, the operating conditions, and the design of the system. The higher the COP, the more efficient the system is .
+- There are different types of refrigeration and air-conditioning systems, such as vapor compression, vapor absorption, thermoelectric, air cycle, etc., each with its own advantages and disadvantages.

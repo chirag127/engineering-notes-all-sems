@@ -1,0 +1,33 @@
+### Timing Constraints for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- Timing constraints are a vital attribute in real-time systems.
+- Timing constraints decide the total correctness of the result in real-time systems.
+- The correctness of results in real-time system does not depend only on logical correctness but also the result should be obtained within the time constraint.
+- Every real-time system has a set of timing constraints that it has been designed to meet.
+- If a system doesn't have timing constraints, it is not real-time.
+- Timing constraints can be broken down into two categories:
+  - Event response: The ability to react to external or internal events within a specified time interval.
+  - Task scheduling: The ability to execute a set of tasks within their deadlines and resource constraints.
+- Timing constraints associated with the real-time system can be classified to identify the different types of timing constraints in a real-time system.
+- Timing constraints are broadly classified into two categories:
+  - Performance constraints: The constraints enforced on the response of the system.
+  - Reliability constraints: The constraints enforced on the behavior of the system.
+- Performance constraints can be further classified into three types:
+  - Hard constraints: The constraints that must be met for the system to function correctly. A violation of a hard constraint can lead to catastrophic consequences.
+  - Soft constraints: The constraints that should be met for the system to perform optimally. A violation of a soft constraint can lead to degraded performance or quality of service.
+  - Firm constraints: The constraints that have a benefit only if met, but no penalty if missed. A violation of a firm constraint can lead to wasted resources or missed opportunities.
+- Reliability constraints can be further classified into two types:
+  - Safety constraints: The constraints that ensure the system does not cause any harm to itself or its environment. A violation of a safety constraint can lead to physical damage or injury.
+  - Liveness constraints: The constraints that ensure the system does not deadlock or livelock. A violation of a liveness constraint can lead to unresponsiveness or inefficiency.
+- Timing constraints can be expressed using various constructs in requirements languages.
+- Some of the common constructs for expressing timing constraints are:
+  - Time intervals: The minimum and maximum duration between two events or states.
+  - Time points: The absolute or relative points in time when an event or state occurs or changes.
+  - Time windows: The periods of time when an event or state is allowed or disallowed to occur or change.
+  - Time patterns: The sequences or repetitions of events or states that follow a certain timing rule.
+  - Time dependencies: The causal or logical relationships between events or states that affect their timing.
+- Timing constraints can be validated using automatic test systems that can measure and verify the timing behavior of the system.
+- Some of the common techniques for validating timing constraints are:
+  - Simulation: The use of a software model to emulate the system and its environment and observe its timing behavior.
+  - Monitoring: The use of a hardware or software device to observe and record the timing behavior of the system in its real environment.
+  - Analysis: The use of mathematical or logical methods to prove or disprove the satisfaction of timing constraints by the system.

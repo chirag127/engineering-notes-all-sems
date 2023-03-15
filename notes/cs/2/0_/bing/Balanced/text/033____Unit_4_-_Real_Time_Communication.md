@@ -1,0 +1,35 @@
+## Unit 4 - Real Time Communication
+
+- Real time communication (RTC) is the exchange of information between two or more parties without significant delay.
+- RTC can be synchronous or asynchronous, depending on the degree of coordination and synchronization required by the participants.
+- Synchronous RTC is when the participants communicate at the same time, such as in a phone call, a video conference, or a chat session.
+- Asynchronous RTC is when the participants communicate at different times, such as in an email, a voice message, or a forum post.
+- RTC can be one-to-one, one-to-many, or many-to-many, depending on the number and direction of the communication channels.
+- One-to-one RTC is when two parties communicate directly with each other, such as in a private chat or a phone call.
+- One-to-many RTC is when one party communicates with multiple parties, such as in a broadcast, a webinar, or a podcast.
+- Many-to-many RTC is when multiple parties communicate with each other, such as in a group chat, a video conference, or a social network.
+- RTC can be text-based, voice-based, video-based, or multimedia-based, depending on the type and format of the information exchanged.
+- Text-based RTC is when the participants communicate using written words, such as in a chat, an email, or a tweet.
+- Voice-based RTC is when the participants communicate using spoken words, such as in a phone call, a voice message, or a podcast.
+- Video-based RTC is when the participants communicate using visual images, such as in a video call, a video message, or a video conference.
+- Multimedia-based RTC is when the participants communicate using a combination of text, voice, video, and other media, such as in a multimedia message, a webinar, or a social network.
+- RTC can be facilitated by various technologies, platforms, and protocols, depending on the requirements and preferences of the participants.
+- Some of the common technologies for RTC are:
+  - Internet Protocol (IP): a set of rules for transmitting data over the internet or other networks.
+  - Voice over IP (VoIP): a technology that allows voice communication over IP networks, such as Skype, WhatsApp, or Zoom.
+  - Web Real-Time Communication (WebRTC): a technology that enables RTC between web browsers, such as Google Meet, Facebook Messenger, or Discord.
+  - Session Initiation Protocol (SIP): a protocol that establishes, modifies, and terminates RTC sessions, such as voice calls, video calls, or instant messages.
+  - Real-time Transport Protocol (RTP): a protocol that delivers audio and video data over IP networks, such as VoIP or WebRTC.
+  - Real-time Messaging Protocol (RTMP): a protocol that delivers multimedia data over IP networks, such as live streaming, video on demand, or online gaming.
+- Some of the common platforms for RTC are:
+  - Social media: platforms that allow users to create, share, and interact with content and other users, such as Facebook, Twitter, or Instagram.
+  - Messaging apps: platforms that allow users to send and receive text, voice, video, and multimedia messages, such as WhatsApp, Telegram, or Signal.
+  - Video conferencing apps: platforms that allow users to conduct video calls and meetings with multiple participants, such as Zoom, Google Meet, or Microsoft Teams.
+  - Online gaming platforms: platforms that allow users to play games and communicate with other players, such as Steam, PlayStation Network, or Xbox Live.
+  - Online learning platforms: platforms that allow users to access and deliver educational content and services, such as Coursera, Udemy, or Khan Academy.
+- Some of the common protocols for RTC are:
+  - Hypertext Transfer Protocol (HTTP): a protocol that defines how web browsers and servers communicate, such as for accessing web pages, images, or videos.
+  - WebSocket: a protocol that enables bidirectional communication between web browsers and servers, such as for chat, gaming, or live updates.
+  - Secure Sockets Layer (SSL) / Transport Layer Security (TLS): protocols that provide encryption and authentication for data transmission over networks, such as for secure web browsing, email, or online banking.
+  - Datagram Transport Layer Security (DTLS): a protocol that provides encryption and authentication for data transmission over unreliable networks, such as for WebRTC or RTP.
+  - Secure Real-time Transport Protocol (SRTP): a protocol that provides encryption and authentication for audio and video data transmission over IP networks, such as for VoIP or WebRTC.

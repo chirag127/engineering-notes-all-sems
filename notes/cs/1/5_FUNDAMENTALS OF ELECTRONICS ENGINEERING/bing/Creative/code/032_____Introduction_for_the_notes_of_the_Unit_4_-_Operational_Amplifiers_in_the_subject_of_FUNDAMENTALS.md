@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING. Here is the introduction for the notes:
+
+# Introduction
+
+- An operational amplifier (op-amp) is a high-gain, direct-coupled, differential-input amplifier that can perform various linear and nonlinear operations on input signals.
+- The term "operational" comes from the fact that op-amps were originally used to perform mathematical operations in analog computers, such as addition, subtraction, integration, differentiation, etc.
+- The basic symbol of an op-amp is shown below:
+
+![op-amp symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Op-Amp.svg/1200px-Op-Amp.svg.png)
+
+- The op-amp has two input terminals: the inverting input (-) and the non-inverting input (+), and one output terminal. The input terminals are connected to the differential amplifier stage, which amplifies the difference between the input signals. The output terminal is connected to the output amplifier stage, which provides high voltage and current gain.
+- The op-amp also has two power supply terminals: the positive supply (+Vcc) and the negative supply (-Vee), which provide the operating voltage for the op-amp. The power supply voltage can range from a few volts to tens of volts, depending on the op-amp specifications.
+- The op-amp has a very high open-loop gain, which is the ratio of the output voltage to the input voltage when no feedback is applied. The open-loop gain can be as high as 10^5 to 10^6 or more, depending on the frequency and the op-amp model.
+- The op-amp also has a very high input impedance, which is the resistance seen by the input signal. The input impedance can be as high as 10^6 to 10^12 ohms or more, depending on the op-amp model. This means that the op-amp draws very little current from the input source, and does not affect the input signal significantly.
+- The op-amp also has a very low output impedance, which is the resistance seen by the load connected to the output. The output impedance can be as low as a few ohms or less, depending on the op-amp model. This means that the op-amp can drive a wide range of loads, such as resistors, capacitors, inductors, speakers, etc., without losing much voltage or power.
+- The op-amp is a versatile device that can be used to design various circuits, such as amplifiers, filters, oscillators, comparators, integrators, differentiators, etc., by applying appropriate feedback networks. The feedback network can be either negative or positive, depending on the desired operation. Negative feedback reduces the gain and increases the stability, linearity, bandwidth, and accuracy of the op-amp. Positive feedback increases the gain and creates instability, nonlinearity, and oscillations in the op-amp.
+- The op-amp is one of the most widely used and important components in analog electronics, as it can perform various functions with simple and low-cost circuits. The op-amp is also the building block of many integrated circuits (ICs), such as operational transconductance amplifiers (OTAs), instrumentation amplifiers, analog multipliers, analog-to-digital converters (ADCs), digital-to-analog converters (DACs), etc.

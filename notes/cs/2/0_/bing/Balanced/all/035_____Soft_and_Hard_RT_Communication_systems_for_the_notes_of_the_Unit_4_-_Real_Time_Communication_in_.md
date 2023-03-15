@@ -1,0 +1,32 @@
+# Soft and Hard Real-Time Communication Systems
+
+- Real-time communication systems are systems that exchange information between two or more entities with strict timing constraints.
+- Real-time communication systems are generally understood as one of two types: Hard Real-Time (HRT) and Soft Real-Time (SRT) .
+- The difference between a hard and soft real-time communication system is the consequences of incorrect operation .
+- Hard real-time communication systems are deterministic in nature, meaning that they guarantee that the communication will be completed within a specified deadline .
+- Soft real-time communication systems are probabilistic, meaning that they do not guarantee that the communication will be completed within a specified deadline, but they try to achieve it with a high probability .
+- Examples of hard real-time communication systems are:
+  - Air traffic control systems
+  - Nuclear power plant control systems
+  - Missile guidance systems
+- Examples of soft real-time communication systems are:
+  - Video conferencing systems
+  - Online gaming systems
+  - Multimedia streaming systems
+- The design of real-time communication systems involves several challenges, such as:
+  - Synchronizing the clocks of different entities
+  - Managing the network resources and bandwidth
+  - Handling the errors and faults in the communication
+  - Ensuring the security and privacy of the communication
+- Some of the techniques and protocols used for real-time communication systems are:
+  - Time-division multiplexing (TDM)
+  - Priority-based scheduling
+  - Real-time transport protocol (RTP)
+  - Real-time control protocol (RTCP)
+  - Real-time publish-subscribe (RTPS) protocol
+- Real-time communication systems are widely used in various domains, such as:
+  - Industrial automation
+  - Robotics
+  - Healthcare
+  - Smart grids
+  - Internet of Things (IoT)

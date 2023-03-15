@@ -1,0 +1,23 @@
+# Polymers
+
+- Polymers are any class of natural or synthetic substances composed of very large molecules, called macromolecules, that are multiples of simpler chemical units called monomers.
+- Examples of polymers are rubber, plastics, and nylon.
+- Polymers have different physical and chemical properties, which are affected by the structure, type of monomer units from which polymers are formed, and other factors.
+- Some of the properties of polymers are:
+  - Density: The mass per unit volume of a polymer. It depends on the type and arrangement of the monomer units, and the degree of crystallinity.
+  - Melting point: The temperature at which a polymer changes from a solid to a liquid state. It depends on the strength of the intermolecular forces and the degree of crystallinity.
+  - Glass transition temperature: The temperature at which a polymer changes from a rigid to a rubbery state. It depends on the flexibility and mobility of the polymer chains.
+  - Tensile strength: The maximum stress that a polymer can withstand before breaking. It depends on the orientation and alignment of the polymer chains, and the degree of cross-linking.
+  - Elasticity: The ability of a polymer to return to its original shape after being stretched or compressed. It depends on the flexibility and mobility of the polymer chains, and the degree of cross-linking.
+  - Solubility: The ability of a polymer to dissolve in a solvent. It depends on the polarity and compatibility of the polymer and the solvent.
+  - Flammability: The ability of a polymer to burn or ignite. It depends on the presence and type of functional groups and additives in the polymer.
+- Polymers can be classified into different types based on the source, structure, and synthesis of the monomer units:
+  - Natural polymers: Polymers that are found in nature, such as proteins, cellulose, and nucleic acids.
+  - Synthetic polymers: Polymers that are man-made, such as plastics, rubber, and nylon.
+  - Homopolymers: Polymers that are made of only one type of monomer unit, such as polyethylene and polystyrene.
+  - Copolymers: Polymers that are made of two or more different types of monomer units, such as nylon and polyester.
+  - Linear polymers: Polymers that have a single chain of monomer units, such as polyethylene and nylon.
+  - Branched polymers: Polymers that have a main chain of monomer units with some side chains, such as polypropylene and amylopectin.
+  - Cross-linked polymers: Polymers that have a network of monomer units connected by covalent bonds, such as vulcanized rubber and bakelite.
+  - Addition polymers: Polymers that are formed by the addition of monomer units without the elimination of any atoms or molecules, such as polyethylene and polystyrene.
+  - Condensation polymers: Polymers that are formed by the condensation of monomer units with the elimination of small molecules, such as water or ammonia, such as nylon and polyester.

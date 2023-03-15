@@ -1,0 +1,27 @@
+# Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines .
+- Real time scheduling aims to achieve predictable and deterministic behavior of the system, and to avoid missing deadlines or violating timing constraints .
+- Real time scheduling can be classified into two categories: static and dynamic .
+  - Static scheduling is done at compile time or design time, and does not change at run time. Static scheduling is suitable for systems that have fixed and known tasks and resources, and that do not require flexibility or adaptability .
+  - Dynamic scheduling is done at run time, and can change according to the system state and the arrival of new tasks. Dynamic scheduling is suitable for systems that have variable and unpredictable tasks and resources, and that require flexibility and adaptability .
+- Real time scheduling can also be classified into two types: preemptive and non-preemptive .
+  - Preemptive scheduling allows a higher priority task to interrupt and suspend a lower priority task that is currently executing, and resume it later when the higher priority task is completed or blocked .
+  - Non-preemptive scheduling does not allow a higher priority task to interrupt a lower priority task that is currently executing, and waits until the lower priority task is completed or blocked before executing the higher priority task .
+- Real time scheduling algorithms are the rules and methods that determine how to assign priorities and order tasks for execution in a real time system .
+- Some examples of real time scheduling algorithms are:
+  - Rate monotonic scheduling (RMS): a static and preemptive algorithm that assigns priorities to tasks based on their periods, such that the shorter the period, the higher the priority .
+  - Deadline monotonic scheduling (DMS): a static and preemptive algorithm that assigns priorities to tasks based on their deadlines, such that the shorter the deadline, the higher the priority .
+  - Earliest deadline first scheduling (EDF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their deadlines, such that the earliest the deadline, the higher the priority .
+  - Least laxity first scheduling (LLF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their laxity, which is the difference between their deadline and their remaining execution time, such that the smaller the laxity, the higher the priority .
+  - Fixed priority scheduling (FPS): a static and preemptive or non-preemptive algorithm that assigns fixed priorities to tasks based on some criteria, such as user preference, task importance, or task type .
+  - Round robin scheduling (RR): a static and preemptive or non-preemptive algorithm that assigns equal priorities to tasks and executes them in a circular order for a fixed time slice or quantum .
+- Real time scheduling analysis is the process of verifying and validating the correctness and feasibility of a real time scheduling algorithm for a given system and task set .
+- Real time scheduling analysis can be done using different methods, such as:
+  - Utilization bound test: a sufficient but not necessary condition that checks if the total utilization of the tasks is less than or equal to a certain bound, depending on the algorithm and the number of tasks .
+  - Response time analysis: a method that calculates the worst-case response time of each task, which is the time from its arrival to its completion, and compares it with its deadline .
+  - Simulation: a method that models the system and the tasks and executes them using the algorithm, and observes the results and the performance .
+- Real time scheduling tools are software applications that help users to create, manage, and analyze real time schedules for different systems and tasks .
+- Some examples of real time scheduling tools are:
+  - Sinnaps: a cloud-based project management tool that supports real time scheduling and collaboration for complex and dynamic projects.
+  - Calendly: a free online appointment scheduling tool that allows users

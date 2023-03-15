@@ -1,0 +1,13 @@
+### Fuels and Combustion: Definition, Classification, Characteristics of a good fuel, Calorific
+
+- **Definition**: Fuel is a material that produces heat and energy on combustion. Combustion is a chemical reaction in which a fuel combines with oxygen and releases heat and light.
+- **Classification**: Fuels can be classified into three main types based on their physical state: solid, liquid and gaseous. Examples of solid fuels are coal, wood and charcoal. Examples of liquid fuels are petrol, diesel and kerosene. Examples of gaseous fuels are natural gas, biogas and hydrogen.
+- **Characteristics of a good fuel**: A good fuel should have the following properties :
+  - It should be cheap, easily available and readily combustible.
+  - It should have a high calorific value, which is the quantity of heat produced by the combustion of a unit mass of fuel.
+  - It should not produce harmful gases or residues that pollute the environment, such as carbon monoxide, sulphur dioxide and ash.
+  - It should be dry and should have less moisture content, as dry fuel increases its calorific value and reduces the cost of transportation and storage.
+  - It should have a low ignition temperature, which is the minimum temperature at which a fuel catches fire spontaneously.
+  - It should have a moderate rate of combustion, which is the speed at which a fuel burns. A fuel that burns too fast or too slow may cause problems in controlling the flame and heat output.
+  - It should have a high flame temperature, which is the maximum temperature attained by the flame during combustion. A high flame temperature indicates a high efficiency of fuel utilization.
+- **Calorific**: Calorific is an adjective that means relating to or producing heat or calories. Calorific value is a measure of the heat energy released by a fuel on combustion. It is usually expressed in kilojoules per kilogram (kJ/kg) or megajoules per kilogram (MJ/kg) for solid and liquid fuels, and kilojoules per cubic meter (kJ/m3) or megajoules per cubic meter (MJ/m3) for gaseous fuels. The higher the calorific value of a fuel, the more heat it can produce per unit mass or volume. Calorific value can be determined by using a device called a bomb calorimeter, which measures the heat released by burning a known mass of fuel in a closed chamber under constant pressure and temperature. Calorific value can also be calculated by using the chemical formula of the fuel and the heat of formation of the products of combustion. Calorific value can vary depending on the moisture content, purity and composition of the fuel.

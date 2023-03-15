@@ -1,0 +1,11 @@
+### Overview of wireless communication
+
+- Wireless communication is the transfer of information (telecommunication) between two or more points without the use of an electrical conductor, optical fiber or other continuous guided medium for the transfer.
+- Wireless communication generally works through electromagnetic signals that are broadcast by an enabled device within the air, physical environment or atmosphere. The sending device can be a sender or an intermediate device with the ability to propagate wireless signals.
+- Wireless communication can be classified into different types based on the range, frequency, modulation, multiplexing, and application of the signals. Some of the common types are:
+  - Radio communication: It uses radio waves to transmit information over long distances. Radio communication can be further divided into broadcast radio, amateur radio, cellular radio, microwave radio, satellite radio, etc.
+  - Infrared communication: It uses infrared light to transmit information over short distances. Infrared communication can be used for remote controls, wireless keyboards, wireless headphones, etc.
+  - Optical communication: It uses visible light or laser to transmit information over medium to long distances. Optical communication can be used for fiber-optic networks, free-space optical communication, optical wireless communication, etc.
+  - Wireless energy transfer: It is a process whereby electrical energy is transmitted from a power source to an electrical load that does not have a built-in power source, without the use of interconnecting wires. Wireless energy transfer can be used for wireless charging, wireless power transmission, etc.
+- Wireless communication has many advantages over wired communication, such as mobility, flexibility, scalability, cost-effectiveness, reliability, etc. However, wireless communication also faces some challenges, such as interference, security, power consumption, bandwidth, etc.
+- Wireless communication is widely used in various fields and applications, such as telephony, television, radio, internet, navigation, military, space, etc. Wireless communication is constantly evolving and improving to meet the increasing demands and expectations of the users.

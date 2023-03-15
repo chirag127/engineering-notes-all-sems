@@ -1,0 +1,10 @@
+### Force moment and couple
+
+- A force is a push or pull that acts on a body and causes a change in its state of rest or motion.
+- A moment of a force is the tendency of the force to rotate the body about a point or an axis. It is also called torque. It is a vector quantity and has a direction and magnitude.
+- A moment of a force is defined as the product of the force and the perpendicular distance from the point or axis to the line of action of the force. The SI unit of moment is newton-meter (N-m).
+- A couple is a system of two equal and opposite parallel forces that act on a body. A couple has no resultant force, but it has a resultant moment. It is also called a pure moment or a force couple.
+- A couple can cause or prevent the rotation of a body, depending on its direction and magnitude. The moment of a couple is independent of the reference point or axis, and is equal to the product of one force and the arm of the couple, which is the distance between the two forces.
+- A couple can be represented by a single vector, perpendicular to the plane of the forces and with a magnitude equal to the moment of the couple. The direction of the vector follows the right-hand rule: if the fingers of the right hand curl in the direction of rotation caused by the couple, then the thumb points in the direction of the vector.
+- A couple can be resolved into a force and a moment at any point by applying the principle of static equilibrium. The force and the moment are statically equivalent to the original couple and have the same effect on the body.
+- A couple can be used to apply or resist torque, to balance other couples, to produce pure rotation without translation, or to model internal stresses in a beam or a shaft. Some examples of couples are a steering wheel, a wrench, a pair of scissors, a door handle, and a bicycle pedal.

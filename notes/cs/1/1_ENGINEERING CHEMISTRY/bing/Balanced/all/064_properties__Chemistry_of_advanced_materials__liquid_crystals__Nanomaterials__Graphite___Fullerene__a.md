@@ -1,0 +1,6 @@
+# Properties and Chemistry of Advanced Materials (Liquid Crystals, Nanomaterials, Graphite and Fullerene)
+
+- Liquid crystals are substances that exhibit both fluidity and long-range order. They can be classified into thermotropic (temperature-dependent) and lyotropic (concentration-dependent) types. Liquid crystals have applications in displays, sensors, optical devices, and drug delivery systems .
+- Nanomaterials are materials that have at least one dimension in the range of 1 to 100 nanometers. They have unique physical, chemical, optical, and electrical properties that depend on their size, shape, synthesis conditions, and functionalization. Nanomaterials have applications in electronics, medicine, energy, environment, and catalysis.
+- Graphite is an allotrope of carbon that consists of layers of hexagonal rings of carbon atoms. Graphite has a high electrical conductivity, thermal stability, lubricity, and mechanical strength. Graphite has applications in batteries, electrodes, lubricants, pencils, and graphene production.
+- Fullerene is another allotrope of carbon that consists of spherical, cylindrical, or ellipsoidal cages of carbon atoms. Fullerene has a high electron affinity, versatility, and structural diversity. Fullerene has applications in nanotechnology, drug delivery, solar cells, and superconductors.

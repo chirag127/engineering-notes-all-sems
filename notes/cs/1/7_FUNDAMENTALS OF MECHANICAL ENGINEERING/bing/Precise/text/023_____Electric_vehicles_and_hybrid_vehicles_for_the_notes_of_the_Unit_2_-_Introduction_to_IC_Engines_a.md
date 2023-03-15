@@ -1,0 +1,8 @@
+### Electric vehicles and hybrid vehicles
+
+Electric vehicles (EVs) and hybrid vehicles are two types of vehicles that are powered by electricity. EVs have a battery instead of a gasoline tank, and an electric motor instead of an internal combustion engine. Hybrid vehicles, on the other hand, are a combination of gasoline and electric vehicles, so they have a battery, an electric motor, a gasoline tank, and an internal combustion engine.
+
+- **Electric vehicles (EVs)**: These vehicles are powered solely by electricity and have no internal combustion engine. They have a battery that can be recharged with electricity from various generating sources, including renewable sources like solar, wind, and hydro power.
+- **Hybrid vehicles**: These vehicles combine a gasoline engine with an electric motor and a battery. They can be powered by either gasoline or electricity, or a combination of both. The electricity used by the electric motor is generated through brake regeneration and the harnessing of excess engine power.
+
+Hybrid vehicles can be further classified into two types: plug-in hybrid electric vehicles (PHEVs) and conventional hybrid vehicles. PHEVs have a larger battery than conventional hybrids and can be recharged by plugging into an external power source, while conventional hybrids cannot be plugged in and rely solely on the gasoline engine and brake regeneration to recharge the battery.

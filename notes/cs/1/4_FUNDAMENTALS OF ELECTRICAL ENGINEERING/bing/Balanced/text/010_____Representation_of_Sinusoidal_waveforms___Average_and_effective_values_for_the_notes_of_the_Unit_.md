@@ -1,0 +1,22 @@
+### Representation of Sinusoidal waveforms – Average and effective values
+
+- A sinusoidal waveform is a periodic function that oscillates between positive and negative peak values with a constant frequency.
+- The peak value of a sinusoidal waveform is the maximum or minimum amplitude that it reaches in one cycle.
+- The average value of a sinusoidal waveform is the arithmetic mean of the positive and negative half cycles over one period.
+- The average value of a sinusoidal waveform is zero if it is symmetrical about the x-axis, and nonzero if it is shifted or offset.
+- The average value of a sinusoidal waveform can be calculated by multiplying the peak value by 0.637, which is a constant derived from the integration of the sine function over one period.
+- The effective value or root mean square (RMS) value of a sinusoidal waveform is the square root of the average of the squares of the instantaneous values over one period.
+- The RMS value of a sinusoidal waveform is a measure of the power or heating effect that it can produce in a resistive load.
+- The RMS value of a sinusoidal waveform is equal to the peak value divided by the square root of 2, or multiplied by 0.707, which is another constant derived from the integration of the sine function over one period.
+- The RMS value of a sinusoidal waveform is independent of the phase angle or the position of the waveform with respect to the reference axis.
+- The form factor of a sinusoidal waveform is the ratio of the RMS value to the average value. For a pure sine wave, the form factor is 1.11.
+- The form factor of a sinusoidal waveform indicates how closely it resembles a pure sine wave. The higher the form factor, the more distorted the waveform is.
+- The peak factor of a sinusoidal waveform is the ratio of the peak value to the RMS value. For a pure sine wave, the peak factor is 1.414.
+- The peak factor of a sinusoidal waveform indicates how sharp the peaks are. The higher the peak factor, the more peaked the waveform is.
+- A phasor is a vector representation of a sinusoidal waveform that rotates counterclockwise with an angular frequency equal to the frequency of the waveform.
+- A phasor has a magnitude equal to the peak value of the waveform and a phase angle equal to the phase shift of the waveform with respect to a reference axis.
+- A phasor can be used to simplify the analysis of AC circuits by converting time-domain equations into phasor-domain equations using complex numbers.
+- A resistor is a passive component that opposes the flow of electric current and dissipates energy as heat.
+- A resistor has a constant resistance that does not depend on the frequency or phase of the applied voltage or current.
+- A resistor obeys Ohm's law, which states that the voltage across a resistor is proportional to the current through it, and the constant of proportionality is the resistance.
+- A resistor in an AC circuit has the same voltage and current waveforms, which are in phase with each other.

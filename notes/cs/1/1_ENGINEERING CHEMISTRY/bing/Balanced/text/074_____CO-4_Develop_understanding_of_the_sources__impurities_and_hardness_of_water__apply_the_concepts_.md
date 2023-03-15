@@ -1,0 +1,6 @@
+### CO-4 Develop understanding of the sources, impurities and hardness of water, apply the concepts of
+
+- Sources of water: Water is obtained from various natural and artificial sources, such as rain, rivers, lakes, wells, springs, glaciers, oceans, reservoirs, dams, etc.
+- Impurities in water: Water contains various types of impurities, such as dissolved gases, minerals, organic matter, microorganisms, suspended solids, etc. These impurities may affect the quality, taste, odor, color, and suitability of water for various purposes.
+- Hardness of water: Hardness of water is the property of water that prevents the formation of lather with soap. Hardness is caused by the presence of dissolved salts of calcium and magnesium, such as bicarbonates, sulphates, chlorides, and nitrates. Hardness of water is classified into two types: temporary hardness and permanent hardness.
+- Concepts of water treatment: Water treatment is the process of removing or reducing the impurities and hardness of water to make it suitable for various purposes, such as drinking, domestic use, industrial use, etc. Water treatment involves various methods, such as filtration, sedimentation, coagulation, disinfection, softening, ion exchange, reverse osmosis, etc.

@@ -1,0 +1,26 @@
+# Air-Conditioning
+
+- Air-conditioning is the process of treating air so as to control simultaneously its temperature, humidity, purity and distribution to meet the requirements of the conditioned space, such as comfort and health of human beings and other needs of the situation.
+- Air-conditioning can also be defined as the science which deals with supply and maintaining desirable internal atmospheric condition irrespective of external condition.
+- Air-conditioning is a member of a family of systems and techniques that provide heating, ventilation, and air conditioning (HVAC).
+- The principle of air-conditioning is based on the laws of thermodynamics. An air-conditioner operates using the refrigeration cycle. Specific refrigerants are needed as the working fluid in the refrigeration cycle. An air-conditioner goes through 4 processes; compression, condensation, expansion, and evaporation .
+- The basic working principle of an air-conditioner is as follows:
+  - The refrigerant enters the compressor as a low-pressure vapor and is compressed to a high-pressure vapor.
+  - The high-pressure vapor then enters the condenser, where it releases heat to the surrounding air and condenses to a high-pressure liquid.
+  - The high-pressure liquid then passes through an expansion valve, where it reduces its pressure and temperature and becomes a low-pressure liquid.
+  - The low-pressure liquid then enters the evaporator, where it absorbs heat from the indoor air and evaporates to a low-pressure vapor.
+  - The low-pressure vapor then returns to the compressor and the cycle repeats.
+- The main components of an air-conditioner are:
+  - Compressor: It is the heart of the system that pumps the refrigerant through the cycle.
+  - Condenser: It is the heat exchanger that rejects the heat from the refrigerant to the outside air.
+  - Expansion valve: It is the device that controls the flow and pressure of the refrigerant entering the evaporator.
+  - Evaporator: It is the heat exchanger that absorbs the heat from the indoor air and cools it down.
+  - Refrigerant: It is the working fluid that circulates in the cycle and changes its phase from vapor to liquid and vice versa.
+- The types of air-conditioning systems are  :
+  - Window air-conditioner: It is a self-contained unit that is installed in a window or a wall and cools a single room or a small area.
+  - Split air-conditioner: It consists of two units, an indoor unit and an outdoor unit, that are connected by pipes. The indoor unit contains the evaporator and the expansion valve, while the outdoor unit contains the compressor and the condenser. It can cool one or more rooms or a large area.
+  - Central air-conditioner: It is a system that cools the entire building or a complex of buildings using ducts and vents. It has a large compressor and condenser unit that is located outside the building, and a network of evaporator coils and expansion valves that are located inside the building. It can provide uniform temperature and humidity control throughout the building.
+  - Packaged air-conditioner: It is a system that combines the compressor, condenser, evaporator, and expansion valve in a single unit that is installed on the roof or the ground. It can cool a large area or multiple rooms using ducts and vents.
+  - Variable refrigerant flow (VRF) air-conditioner: It is a system that uses a single outdoor unit that contains multiple compressors and condensers, and multiple indoor units that contain evaporators and expansion valves. It can vary the refrigerant flow and temperature to each indoor unit according to the cooling demand. It can provide individual temperature and humidity control for each room or zone.
+  - Chilled water air-conditioner: It is a system that uses water as the secondary refrigerant that is chilled by the primary refrigerant in a chiller unit. The chilled water is circulated to the air handling units (AHUs) or fan coil units (FCUs) that are located in the conditioned space. The AHUs or FCUs contain coils that cool the air by exchanging heat with the chilled water. It can cool a large area or multiple rooms using ducts and vents.
+  - Vapor absorption air-conditioner: It is a system that uses heat as the driving force instead of electricity. It uses a solution of refrigerant and absorbent (such as water and lithium bromide) that undergoes absorption and desorption processes in the generator and the absorber

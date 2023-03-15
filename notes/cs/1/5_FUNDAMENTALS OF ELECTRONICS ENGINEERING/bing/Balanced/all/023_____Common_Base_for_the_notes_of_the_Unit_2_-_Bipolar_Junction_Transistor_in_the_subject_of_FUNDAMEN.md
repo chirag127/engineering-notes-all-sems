@@ -1,0 +1,22 @@
+# Common Base Configuration of BJT
+
+- The common base configuration is one of the three basic ways of connecting a bipolar junction transistor (BJT) as an amplifier.
+- In this configuration, the base terminal of the BJT is a common terminal to both the input and output signals, hence its name common base (CB).
+- The input signal is applied between the emitter and the base, and the output signal is taken from the collector and the base.
+- The common base configuration is less common as an amplifier than compared to the more popular common emitter (CE) or common collector (CC) configurations, but it is still used due to its unique input/output characteristics.
+- Some of the advantages of the common base configuration are:
+  - It has a high voltage gain, which is the ratio of output voltage to input voltage.
+  - It has a high input impedance, which means it does not load the input source much.
+  - It has a low output impedance, which means it can drive a low-resistance load easily.
+  - It has a high frequency response, which means it can amplify high-frequency signals well.
+- Some of the disadvantages of the common base configuration are:
+  - It has a low current gain, which is the ratio of output current to input current.
+  - It has a low power gain, which is the product of voltage gain and current gain.
+  - It has a low input-output isolation, which means the output signal can affect the input signal and vice versa.
+  - It has a low stability, which means it is prone to oscillations and feedback.
+- The common base configuration can be analyzed using the following formulas and equations :
+  - The current gain, alpha, is given by: alpha = IC / IE, where IC is the collector current and IE is the emitter current.
+  - The voltage gain, AV, is given by: AV = -alpha * RC / RE, where RC is the collector resistance and RE is the emitter resistance.
+  - The input impedance, Zin, is given by: Zin = (1 + alpha) * RE, where alpha is the current gain and RE is the emitter resistance.
+  - The output impedance, Zout, is given by: Zout = RC || r0, where RC is the collector resistance and r0 is the output resistance of the BJT.
+  - The power gain, AP, is given by: AP = AV * alpha, where AV is the voltage gain and alpha is the current gain.

@@ -1,0 +1,14 @@
+### Polymers; Classification, Polymerization processes, Thermosetting and Thermoplastic
+
+- Polymers are large molecules composed of repeating units called monomers, which are linked by covalent bonds.
+- Polymers can be classified based on various factors, such as their source, structure, mode of synthesis, molecular forces, and thermal behavior.
+- Based on the source, polymers can be natural (derived from plants or animals) or synthetic (made by chemical synthesis).
+- Based on the structure, polymers can be linear (consisting of a single chain of monomers), branched (having side chains attached to the main chain), or cross-linked (having covalent bonds between different chains).
+- Based on the mode of synthesis, polymers can be addition (formed by the addition of monomers without the elimination of any by-product) or condensation (formed by the elimination of a small molecule, such as water, from the monomers).
+- Based on the molecular forces, polymers can be elastomers (having weak intermolecular forces and high elasticity), fibres (having strong intermolecular forces and high tensile strength), or plastics (having intermediate intermolecular forces and moderate properties).
+- Based on the thermal behavior, polymers can be thermoplastic or thermosetting.
+- Thermoplastic polymers are those that can be repeatedly softened by heating and then solidified by cooling, without altering their chemical structure or properties. They are usually linear or slightly branched polymers that can slide past each other when heated. Examples of thermoplastic polymers are polyethylene, polypropylene, polystyrene, and nylon.
+- Thermosetting polymers are those that undergo a permanent chemical change when heated, forming a rigid and insoluble network of cross-linked chains. They cannot be remolded or recycled once cured. Examples of thermosetting polymers are bakelite, epoxy, and vulcanized rubber.
+- Polymerization is the process of forming polymers from monomers. There are two main types of polymerization processes: chain polymerization and step polymerization.
+- Chain polymerization, also known as chain-growth polymerization, is a process in which the monomers are added one by one to the growing chain, initiated by a free radical, a cation, or an anion. The chain growth is terminated by a combination or disproportionation reaction. Chain polymerization is usually used for synthesizing addition polymers.
+- Step polymerization, also known as step-growth polymerization, is a process in which the monomers react with each other in a stepwise manner, forming dimers, trimers, and so on, until a high molecular weight polymer is obtained. The monomers usually have two or more functional groups that can react with each other. Step polymerization is usually used for synthesizing condensation polymers.

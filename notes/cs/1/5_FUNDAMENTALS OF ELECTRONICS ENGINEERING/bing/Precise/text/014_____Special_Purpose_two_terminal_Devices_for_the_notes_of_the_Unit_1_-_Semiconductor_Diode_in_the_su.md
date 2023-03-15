@@ -1,0 +1,9 @@
+### Special Purpose two terminal Devices for the notes of the Unit 1 - Semiconductor Diode in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+1. **Zener Diode**: A Zener diode is a type of diode that is designed to operate in the reverse breakdown region. It is used for voltage regulation and voltage reference applications.
+2. **Light Emitting Diode (LED)**: An LED is a type of diode that emits light when current flows through it. It is used in a variety of applications, including indicator lights, displays, and lighting.
+3. **Photodiode**: A photodiode is a type of diode that generates a current when exposed to light. It is used in a variety of applications, including light detection and measurement, optical communication, and solar power generation.
+4. **Schottky Diode**: A Schottky diode is a type of diode that has a low forward voltage drop and fast switching speed. It is used in a variety of applications, including power rectification, voltage clamping, and radio frequency (RF) mixing.
+5. **Tunnel Diode**: A tunnel diode is a type of diode that exhibits negative resistance due to quantum mechanical tunneling. It is used in high-speed switching and microwave oscillator applications.
+6. **Varactor Diode**: A varactor diode is a type of diode that exhibits a variable capacitance when reverse biased. It is used in a variety of applications, including voltage-controlled oscillators (VCOs) and frequency modulation (FM) demodulation.
+7. **Laser Diode**: A laser diode is a type of diode that emits coherent light when current flows through it. It is used in a variety of applications, including optical communication, laser printing, and laser scanning.

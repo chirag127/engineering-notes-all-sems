@@ -1,0 +1,14 @@
+### Singularities and its classification
+
+- A singularity is a point in the domain of a complex function where the function fails to be analytic .
+- A function is analytic at a point if it has a Taylor series expansion around that point.
+- There are different types of singularities depending on the behavior of the function near the singularity.
+- The main types of singularities are:
+  - Isolated singularities: These are points where the function is not analytic, but there is a neighborhood around them where the function is analytic. Isolated singularities can be further classified into:
+    - Removable singularities: These are points where the function has a finite limit, but the function is not defined or has a different value at that point . For example, the function $f(z) = \frac{\sin z}{z}$ has a removable singularity at $z = 0$, since $\lim_{z \to 0} f(z) = 1$.
+    - Poles: These are points where the function has an infinite limit, or equivalently, the function can be written as a quotient of two analytic functions, where the denominator has a zero of finite order at that point . For example, the function $f(z) = \frac{1}{z^2}$ has a pole of order 2 at $z = 0$, since the denominator has a zero of order 2 at that point.
+    - Essential singularities: These are points where the function has no finite limit, and the function cannot be written as a quotient of two analytic functions, where the denominator has a zero of finite order at that point . For example, the function $f(z) = e^{1/z}$ has an essential singularity at $z = 0$, since the function has no finite limit and cannot be written as a quotient of two analytic functions.
+  - Nonisolated singularities: These are points where the function is not analytic, and there is no neighborhood around them where the function is analytic. Nonisolated singularities can be further classified into:
+    - Branch points: These are points where the function has multiple values, or equivalently, the function is multivalued. For example, the function $f(z) = \sqrt{z}$ has a branch point at $z = 0$, since the function has two values for any nonzero $z$, namely $\sqrt{z}$ and $-\sqrt{z}$.
+    - Accumulation points: These are points where the function has infinitely many isolated singularities in any neighborhood around them. For example, the function $f(z) = \frac{1}{\sin \frac{1}{z}}$ has an accumulation point at $z = 0$, since the function has infinitely many poles at $z = \frac{1}{n \pi}$, where $n$ is any nonzero integer.
+- The classification of singularities is useful for studying the properties of complex functions, such as their integrals, residues, and zeros .

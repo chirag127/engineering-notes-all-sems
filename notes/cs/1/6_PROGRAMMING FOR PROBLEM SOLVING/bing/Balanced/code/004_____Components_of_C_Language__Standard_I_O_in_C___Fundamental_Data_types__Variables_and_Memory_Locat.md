@@ -1,0 +1,8 @@
+### Components of C Language
+
+C language is a high-level programming language that is widely used for system programming, application development, and embedded systems. C language has the following components:
+
+- **Standard I/O in C**: This component provides the input/output functions and macros to interact with the standard input and output devices, such as keyboard, screen, files, etc. The standard I/O functions are declared in the header file `stdio.h`. Some of the common standard I/O functions are `printf()`, `scanf()`, `getchar()`, `putchar()`, `fopen()`, `fclose()`, etc.
+- **Fundamental Data types**: This component defines the basic data types that can be used in C language, such as `int`, `char`, `float`, `double`, `void`, etc. Each data type has a specific size and range of values that can be stored in it. The size and range of data types may vary depending on the compiler and the platform.
+- **Variables and Memory Locations**: This component explains how variables are declared, initialized, and used in C language. A variable is a symbolic name that represents a memory location where a value of a certain data type can be stored and manipulated. A variable must be declared before it can be used, and it must follow the rules of naming and scope. A variable can be assigned a value using the assignment operator `=`.
+- **Storage Classes**: This component describes the different storage classes that can be used to specify the visibility, lifetime, and memory location of variables and functions in C language. The storage classes are `auto`, `extern`, `static`, and `register`. Each storage class has its own rules and properties that affect the behavior of the variables and functions.
