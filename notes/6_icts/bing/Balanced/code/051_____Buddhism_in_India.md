@@ -1,0 +1,7 @@
+### Buddhism in India
+
+- Buddhism is an ancient Indian religion that originated in the 6th century BCE in the region of Magadha (now Bihar) and spread throughout northern India and beyond.
+- Buddhism is based on the teachings and life experiences of Siddhartha Gautama, also known as the Buddha (the awakened one), who attained enlightenment under a bodhi tree and taught the four noble truths and the eightfold path to end suffering and achieve nirvana.
+- Buddhism developed into various schools and traditions, such as Theravada, Mahayana, Vajrayana, and Zen, each with its own doctrines, practices, and scriptures. Some of the prominent Buddhist figures in India include Mahakasyapa, Nagarjuna, Asanga, Vasubandhu, Dignaga, Dharmakirti, Bodhidharma, and Padmasambhava.
+- Buddhism flourished in India for over a millennium, especially under the patronage of rulers such as Ashoka, Kanishka, Harsha, and Dharmapala. Buddhism also influenced Indian culture, art, literature, philosophy, and science, and contributed to the development of Sanskrit, Pali, and other languages.
+- Buddhism faced decline and persecution in India from the 8th century CE onwards, due to various factors such as the rise of Hinduism, the invasions of Muslim rulers, the corruption and degeneration of the monastic institutions, and the loss of popular support. Buddhism survived in some regions, such as Ladakh, Sikkim, and Arunachal Pradesh, and was revived in the 20th century by movements such as the Dalit Buddhist movement and the Tibetan Buddhist diaspora.

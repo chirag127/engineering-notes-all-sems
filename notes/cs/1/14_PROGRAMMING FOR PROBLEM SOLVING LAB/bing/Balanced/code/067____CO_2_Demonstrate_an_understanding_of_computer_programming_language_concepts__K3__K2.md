@@ -1,0 +1,22 @@
+## CO 2 Demonstrate an understanding of computer programming language concepts. K3, K2
+
+- Computer programming language concepts are the fundamental ideas and principles that underlie the design and implementation of programming languages.
+- Some of the main concepts are:
+  - Syntax: The rules and structure of a programming language that define how to write valid programs.
+  - Semantics: The meaning and behavior of a programming language that define how to interpret and execute programs.
+  - Data types: The categories of values that a programming language can manipulate, such as integers, strings, booleans, etc.
+  - Variables: The names or identifiers that refer to data values in a program.
+  - Expressions: The combinations of values, variables, operators, and functions that can be evaluated to produce a result.
+  - Statements: The instructions that control the flow of execution in a program, such as assignments, conditionals, loops, etc.
+  - Functions: The reusable blocks of code that perform a specific task and can be called by other parts of the program.
+  - Parameters: The variables that are passed to a function when it is called, and that receive the values of the arguments.
+  - Arguments: The values that are supplied to a function when it is called, and that are assigned to the parameters.
+  - Return values: The values that are produced by a function when it finishes its execution, and that are sent back to the caller.
+  - Scope: The region of a program where a variable or a function is visible and accessible.
+  - Modules: The units of code that can be imported and used by other programs, and that contain variables, functions, classes, etc.
+  - Classes: The templates or blueprints that define the attributes and methods of a type of object.
+  - Objects: The instances or examples of a class that have their own state and behavior.
+  - Inheritance: The mechanism that allows a class to inherit the attributes and methods of another class, and to extend or override them.
+  - Polymorphism: The ability of a programming language to treat objects of different classes in a similar way, based on their common interface.
+  - Abstraction: The process of hiding the details and complexity of a system, and providing a simpler and higher-level view of it.
+  - Encapsulation: The principle of bundling the data and the operations that manipulate it together, and restricting the access to them from outside.

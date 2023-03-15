@@ -1,0 +1,24 @@
+### Communications Genres in SPM
+
+- Communication genres are the types and forms of communication that are used in software project management (SPM).
+- Communication genres can be classified into three categories: verbal, written and visual.
+- Verbal communication is the use of spoken words to convey information, ideas, opinions, feedback, instructions, etc. Verbal communication can be formal or informal, synchronous or asynchronous, and can take place in different settings, such as meetings, presentations, phone calls, video conferences, etc.
+- Written communication is the use of written words to document, record, report, inform, persuade, propose, etc. Written communication can be formal or informal, synchronous or asynchronous, and can take various formats, such as emails, memos, letters, reports, proposals, plans, specifications, etc.
+- Visual communication is the use of images, graphics, diagrams, charts, tables, etc. to illustrate, explain, clarify, simplify, or emphasize information, concepts, processes, relationships, etc. Visual communication can be formal or informal, synchronous or asynchronous, and can be integrated with verbal or written communication, such as slides, posters, flyers, brochures, etc.
+- Communication genres are important for SPM because they help to achieve the following objectives:
+  - Establish and maintain effective communication among project stakeholders, such as clients, users, managers, developers, testers, etc.
+  - Ensure that the project requirements, scope, objectives, deliverables, schedule, budget, risks, quality, etc. are clearly defined, agreed upon, and communicated.
+  - Monitor and control the project progress, performance, issues, changes, etc. and report them to the relevant stakeholders.
+  - Coordinate and collaborate with the project team and other external parties, such as vendors, contractors, consultants, etc.
+  - Manage and resolve conflicts, disputes, misunderstandings, etc. that may arise during the project lifecycle.
+  - Promote and enhance the project visibility, reputation, trust, and satisfaction among the stakeholders.
+- Communication genres should be selected and used appropriately according to the following factors:
+  - The purpose and goal of the communication, such as informing, persuading, proposing, requesting, etc.
+  - The audience and context of the communication, such as their roles, interests, expectations, preferences, etc.
+  - The content and complexity of the information, such as the level of detail, technicality, ambiguity, etc.
+  - The medium and channel of the communication, such as face-to-face, online, print, etc.
+  - The timing and frequency of the communication, such as when, how often, and for how long the communication should take place.
+- Communication genres should be evaluated and improved continuously based on the following criteria:
+  - The effectiveness and efficiency of the communication, such as whether the communication achieved its intended purpose and goal, and whether it used the optimal amount of time and resources.
+  - The quality and accuracy of the communication, such as whether the communication was clear, concise, coherent, consistent, correct, and complete.
+  - The feedback and response of the communication, such as whether the communication elicited the desired reaction and action from the audience, and whether it addressed their questions, concerns, feedback, etc.

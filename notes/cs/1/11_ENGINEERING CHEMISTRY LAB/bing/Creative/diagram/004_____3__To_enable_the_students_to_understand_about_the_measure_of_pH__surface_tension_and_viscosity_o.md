@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+### 3. To enable the students to understand about the measure of pH, surface tension and viscosity of a liquid.
+
+- pH is a measure of how acidic or basic a liquid is. It is defined as the negative logarithm of the hydrogen ion concentration in moles per liter. pH ranges from 0 to 14, where 0 is the most acidic, 7 is neutral, and 14 is the most basic. Some examples of liquids with different pH values are lemon juice (pH 2), water (pH 7), and bleach (pH 12).
+- Surface tension is a measure of how strongly the molecules of a liquid are attracted to each other at the surface. It is expressed in units of force per unit length, such as newtons per meter (N/m). Surface tension causes liquids to form droplets, bubbles, and films. Some factors that affect surface tension are temperature, solutes, and surfactants. For example, water has a high surface tension (72.8 mN/m at 20°C), but adding soap lowers it (25.5 mN/m at 20°C).
+- Viscosity is a measure of how resistant a liquid is to flow. It is expressed in units of dynamic viscosity, such as pascal-seconds (Pa·s) or poise (P). Viscosity depends on the internal friction between the molecules of a liquid. Some factors that affect viscosity are temperature, pressure, and molecular structure. For example, honey has a high viscosity (10 Pa·s at 20°C), but water has a low viscosity (0.001 Pa·s at 20°C).

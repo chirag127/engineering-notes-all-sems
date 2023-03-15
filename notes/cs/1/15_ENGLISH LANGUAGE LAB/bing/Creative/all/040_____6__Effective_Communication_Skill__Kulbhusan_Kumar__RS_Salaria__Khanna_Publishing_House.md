@@ -1,0 +1,19 @@
+# Effective Communication Skill, Kulbhusan Kumar, RS Salaria, Khanna Publishing House
+
+- Effective Communication Skill is a book written by Kulbhusan Kumar and RS Salaria, and published by Khanna Publishing House in 2018.
+- The book aims to provide the readers with the essential skills and techniques to communicate effectively in various contexts, such as academic, professional, social and personal.
+- The book covers the following topics:
+
+  - Introduction to Communication: This chapter defines communication, its types, functions, models, barriers and principles. It also explains the process of communication and the factors that influence it.
+  - Verbal Communication: This chapter focuses on the use of words and language to convey messages. It discusses the elements of verbal communication, such as vocabulary, grammar, pronunciation, tone, pitch and accent. It also provides tips and guidelines for improving verbal communication skills.
+  - Non-Verbal Communication: This chapter explores the role of body language, gestures, facial expressions, eye contact, posture, appearance and other non-verbal cues in communication. It also highlights the importance of understanding and interpreting non-verbal signals correctly.
+  - Listening Skills: This chapter emphasizes the significance of listening as a key component of communication. It explains the types, levels and barriers of listening. It also suggests ways to enhance listening skills and overcome listening problems.
+  - Writing Skills: This chapter deals with the art and craft of writing effectively for different purposes and audiences. It covers the basics of writing, such as planning, organizing, drafting, revising and editing. It also illustrates the formats and styles of various types of writing, such as letters, emails, reports, essays, resumes and proposals.
+  - Reading Skills: This chapter aims to develop the reading skills and strategies of the readers. It explains the types, purposes and benefits of reading. It also offers techniques to improve reading comprehension, speed and retention.
+  - Speaking Skills: This chapter guides the readers on how to speak confidently and persuasively in various situations, such as interviews, presentations, meetings, debates and group discussions. It covers the aspects of speaking, such as content, structure, delivery, voice, language and feedback. It also provides tips and examples for effective speaking.
+  - Interpersonal Communication: This chapter examines the dynamics and dimensions of communication between two or more people. It discusses the concepts of self-concept, self-disclosure, perception, attribution, empathy, rapport and trust. It also explores the skills and strategies for building and maintaining positive interpersonal relationships.
+  - Group Communication: This chapter analyzes the nature and characteristics of communication in groups and teams. It explains the stages, roles, norms and conflicts of group development. It also outlines the skills and techniques for effective group communication and collaboration.
+  - Cross-Cultural Communication: This chapter explores the challenges and opportunities of communication across cultures and languages. It explains the factors that influence cross-cultural communication, such as values, beliefs, norms, customs and etiquette. It also recommends the skills and attitudes for successful cross-cultural communication and adaptation.
+
+- The book is written in a simple and lucid language, with ample examples, illustrations, exercises and activities to enhance the learning and practice of the readers.
+- The book is suitable for students, teachers, professionals and anyone who wants to improve their communication skills and achieve their personal and professional goals.

@@ -1,0 +1,10 @@
+## LIST OF EXPERIMENTS
+
+- A list experiment is a questionnaire design technique used to mitigate respondent social desirability bias when eliciting information about sensitive topics. With a large enough sample size, list experiments can be used to estimate the proportion of people for whom a sensitive statement is true.
+- A list experiment requires that you randomly divide the sample into two groups: the Direct Response Group and the Veiled Response Group. Downsides to list experiments include possible introduction of noise to the data, and possible influence of the RCT treatment on the distributions of responses.
+- The official series of experiments, as stated by Jess Winfield, one of the executive producers, are as follows: 0-Series: Jumba's test batch, including many household helpers. 1-Series: Civic disturbances. 2-Series: Technological and scientific. 3-Series: Psychological. 4-Series: Mysterious series of mostly failed experiments.
+- Harry Harlow's experiments with baby monkeys and wire and cloth surrogate mothers (1957–1974).
+- Stanley Milgram's experiments on human obedience (1963).
+- Walter Mischel's marshmallow experiment showing the importance to life outcomes of the ability to delay gratification (beginning late 1960s).
+- Science experiments you can do at home! Explore an ever growing list of hundreds of fun and easy science experiments. Have fun trying these experiments at home or use them for science fair project ideas. Explore experiments by category, newest experiments, most popular experiments, easy at home experiments, or ....
+- Science Experiments (top 2,000 results) Science Experiments. (top 2,000 results) Fun science experiments to explore everything from kitchen chemistry to DIY mini drones. Easy to set up and perfect for home or school. Browse the collection and see what you want to try first!.

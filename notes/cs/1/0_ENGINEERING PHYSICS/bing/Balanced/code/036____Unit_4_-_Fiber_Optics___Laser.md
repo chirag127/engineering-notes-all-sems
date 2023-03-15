@@ -1,0 +1,23 @@
+## Unit 4 - Fiber Optics & Laser
+
+- Fiber optics are thin strands of glass or plastic that can transmit light signals over long distances with minimal loss and interference.
+- Laser is an acronym for light amplification by stimulated emission of radiation. It is a device that produces a coherent and intense beam of light of a single wavelength and color.
+- Fiber optics and laser have many applications in fields such as communication, medicine, industry, science, and entertainment.
+
+### Fiber Optics Basics
+
+- A fiber optic cable consists of a core, a cladding, and a protective coating. The core is the innermost part of the fiber where the light travels. The cladding is a layer of material that surrounds the core and has a lower refractive index than the core. The coating is a protective layer that prevents damage and moisture from entering the fiber.
+- The principle of total internal reflection is the basis of how light propagates in a fiber optic cable. When light hits the boundary between the core and the cladding at an angle greater than the critical angle, it is reflected back into the core. This way, the light can travel along the fiber without escaping or losing intensity.
+- The loss in a fiber optic cable is the reduction of light power as it travels along the fiber. The main sources of loss are absorption, scattering, and bending. Absorption is the conversion of light energy into heat by the impurities or defects in the fiber material. Scattering is the random redirection of light by the microscopic variations in the fiber density or structure. Bending is the deviation of light from its original path due to the curvature of the fiber.
+- There are two types of fiber optic cables: single mode and multimode. Single mode fibers have a very thin core (about 10 micrometers) and can carry only one mode of light. They have low loss and high bandwidth, but are more expensive and difficult to couple with light sources. Multimode fibers have a thicker core (about 50 to 1000 micrometers) and can carry multiple modes of light. They have higher loss and lower bandwidth, but are cheaper and easier to couple with light sources.
+
+### Laser Basics
+
+- A laser consists of three main components: a gain medium, a pump source, and an optical resonator. The gain medium is the material that amplifies the light by stimulated emission. The pump source is the energy source that excites the atoms or molecules in the gain medium to higher energy levels. The optical resonator is a pair of mirrors that reflect the light back and forth in the gain medium, forming a standing wave pattern.
+- The process of stimulated emission is the key to how a laser works. When an atom or molecule in the gain medium is in an excited state, it can emit a photon of light and return to a lower energy state. If this photon encounters another atom or molecule in the same excited state, it can stimulate it to emit another photon of the same wavelength, phase, and direction. This way, the light is amplified and becomes coherent.
+- The threshold condition is the minimum pump power required to achieve a steady-state laser output. It is determined by the balance between the gain and the loss in the laser system. The gain is the increase of light intensity due to stimulated emission. The loss is the decrease of light intensity due to absorption, scattering, leakage, or output coupling.
+- There are many types of lasers, classified by the gain medium, the pump source, the wavelength, or the output mode. Some examples are:
+
+  - Gas lasers: use a gas or a mixture of gases as the gain medium, such as helium-neon, carbon dioxide, or argon-ion lasers. They are pumped by an electric discharge or a chemical reaction. They can produce visible, infrared, or ultraviolet light. They have high power and stability, but are bulky and require cooling.
+  - Solid state lasers: use a solid material as the gain medium, such as ruby, neodymium-doped yttrium aluminum garnet (Nd:YAG), or titanium-doped sapphire (Ti:sapphire) lasers. They are pumped by a flash lamp, a diode laser, or another laser. They can produce visible, infrared, or ultraviolet light. They have high energy and efficiency, but are expensive and sensitive to temperature.
+  - Fiber lasers: use a doped optical fiber as the gain medium, such as erbium-doped fiber (EDF), ytterbium-doped fiber (YDF), or thulium-doped fiber (TDF) lasers. They are pumped by a diode laser or another fiber laser. They can

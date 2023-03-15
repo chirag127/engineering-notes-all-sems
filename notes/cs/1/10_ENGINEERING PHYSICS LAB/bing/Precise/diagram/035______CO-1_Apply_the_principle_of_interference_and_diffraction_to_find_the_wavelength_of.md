@@ -1,0 +1,8 @@
+#### CO-1 Apply the principle of interference and diffraction to find the wavelength of
+
+1. Interference and diffraction are two phenomena that can be used to determine the wavelength of light.
+2. Interference occurs when two or more waves overlap and combine to form a new wave. The resulting wave can have a larger or smaller amplitude than the individual waves, depending on the relative phase of the waves.
+3. Diffraction is the bending of waves around obstacles or through openings. The amount of bending depends on the size of the opening or obstacle relative to the wavelength of the wave.
+4. To find the wavelength of light using interference, one can use a device called a Michelson interferometer. This device splits a beam of light into two beams, which are then reflected back and recombined. By adjusting the path length of one of the beams, the relative phase of the two beams can be changed, causing the interference pattern to change. By measuring the change in the interference pattern, the wavelength of the light can be determined.
+5. To find the wavelength of light using diffraction, one can use a device called a diffraction grating. This is a surface with many closely spaced parallel lines. When light is shone on the grating, it diffracts into many different directions. By measuring the angles of the diffracted beams, the wavelength of the light can be determined.
+6. Both interference and diffraction can be used to accurately determine the wavelength of light. These principles are widely used in scientific research and have many practical applications.

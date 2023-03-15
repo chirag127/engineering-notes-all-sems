@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+### CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Different analytical instruments have different applications, advantages, and limitations depending on the type of sample, the property of interest, and the level of accuracy and precision required.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: These are instruments that measure the interaction of electromagnetic radiation (such as light, infrared, ultraviolet, X-rays, etc.) with matter. They can be used to identify the chemical composition, structure, or concentration of substances in a sample. For example, a UV-Vis spectrometer can measure the absorbance of light by a solution and determine its concentration using the Beer-Lambert law.
+  - Chromatographs: These are instruments that separate the components of a mixture based on their different affinities for a stationary phase (such as a column or a paper) and a mobile phase (such as a solvent or a gas). They can be used to isolate, identify, or quantify the components of a mixture. For example, a gas chromatograph can separate and measure the amounts of different gases in a sample using a detector such as a flame ionization detector or a mass spectrometer.
+  - Electrochemical instruments: These are instruments that measure the electrical properties of a sample, such as its potential, current, resistance, or conductivity. They can be used to determine the redox state, pH, concentration, or activity of ions or molecules in a sample. For example, a potentiometer can measure the voltage difference between two electrodes in a solution and calculate the concentration of an analyte using the Nernst equation.
+  - Microscopes: These are instruments that magnify the image of a sample using lenses, mirrors, or other optical devices. They can be used to observe the morphology, structure, or behavior of cells, tissues, or materials. For example, a light microscope can use visible light and a series of lenses to produce a magnified image of a biological specimen on a slide.
+  - Thermal analyzers: These are instruments that measure the change in a physical property of a sample as a function of temperature or time. They can be used to study the thermal behavior, stability, or transitions of a sample. For example, a differential scanning calorimeter can measure the heat flow into or out of a sample as it is heated or cooled and determine its melting point, heat capacity, or enthalpy of transition.

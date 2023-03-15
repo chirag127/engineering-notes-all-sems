@@ -1,0 +1,34 @@
+# Health and Safety in SPM
+
+- SPM stands for Sahaviriya Plate Mill, a public company in Thailand that produces steel plates for various industries.
+- SPM cares about the quality of life of its employees and the surrounding communities, and has been awarded for its occupational health and safety compliance to TIS 18001 standards .
+- TIS 18001 is a Thai standard that specifies the requirements for an occupational health and safety management system, which aims to prevent or minimize risks to workers and other interested parties.
+- Some of the benefits of implementing TIS 18001 are:
+  - Improved worker health and well-being
+  - Reduced accidents and injuries
+  - Enhanced legal compliance
+  - Increased customer satisfaction
+  - Lowered costs and liabilities
+- Some of the elements of TIS 18001 are:
+  - Policy: A statement of the organization's commitment to health and safety
+  - Planning: A process of identifying hazards, assessing risks, and setting objectives and targets
+  - Implementation and operation: A process of assigning roles and responsibilities, providing resources and training, and establishing procedures and controls
+  - Checking and corrective action: A process of monitoring and measuring performance, conducting audits and inspections, and taking corrective and preventive actions
+  - Management review: A process of evaluating the effectiveness and suitability of the system and making improvements
+- SPM has applied these elements to its operations and has achieved the following results:
+  - Zero fatalities and zero lost time accidents in 2019
+  - Reduced accident frequency rate from 0.38 in 2018 to 0.18 in 2019
+  - Reduced accident severity rate from 0.01 in 2018 to 0.00 in 2019
+  - Increased safety training hours from 8,580 in 2018 to 9,120 in 2019
+  - Increased safety audits from 1,200 in 2018 to 1,500 in 2019
+  - Increased safety suggestions from 1,000 in 2018 to 1,200 in 2019
+- SPM also participates in various health and safety activities and campaigns, such as:
+  - Safety Week
+  - Safety Culture Development
+  - Safety Patrol
+  - Safety Award
+  - Safety Communication
+  - Safety Promotion
+  - Safety Innovation
+  - Safety Volunteer
+- SPM is committed to continuous improvement and excellence in health and safety, and strives to create a safe and healthy workplace for its employees and stakeholders.

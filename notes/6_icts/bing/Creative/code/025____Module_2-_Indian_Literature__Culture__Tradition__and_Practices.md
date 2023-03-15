@@ -1,0 +1,8 @@
+# Module 2- Indian Literature, Culture, Tradition, and Practices
+
+This module aims to provide an overview of the rich and diverse aspects of Indian literature, culture, tradition, and practices. It will cover the following topics:
+
+- Indian literature: The history, genres, languages, and themes of Indian literature, from the ancient Vedas and epics to the modern novels and poetry. The influence of oral traditions, folklores, and regional cultures on Indian literature. The major literary figures and works of Indian literature, such as Kalidasa, Rabindranath Tagore, Premchand, R.K. Narayan, and Salman Rushdie.
+- Indian culture: The customs, values, beliefs, etiquette, and rituals of Indian culture, which reflect the diversity and unity of India. The role of religion, philosophy, art, music, dance, and cuisine in Indian culture. The festivals, celebrations, and ceremonies of Indian culture, such as Diwali, Holi, Eid, Navratri, and Raksha Bandhan.
+- Indian tradition: The practices, norms, and conventions that are passed down from generation to generation in India. The family structure, marriage, kinship, and social hierarchy of Indian tradition. The symbols, icons, and motifs of Indian tradition, such as the bindi, the swastika, the lotus, and the peacock.
+- Indian practices: The actions, behaviors, and habits that are common or unique to India. The greetings, gestures, and expressions of Indian practices. The clothing, accessories, and ornaments of Indian practices. The dances, martial arts, yoga, and meditation of Indian practices. The epics, myths, legends, and stories of Indian practices.

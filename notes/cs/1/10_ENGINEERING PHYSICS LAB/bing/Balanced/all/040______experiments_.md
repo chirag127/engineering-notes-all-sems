@@ -1,0 +1,25 @@
+#### Experiments
+
+- An experiment is a scientific method of testing a hypothesis or a research question by manipulating one or more variables and observing their effects on another variable.
+- The purpose of an experiment is to establish a causal relationship between the independent variable (the factor that is changed by the experimenter) and the dependent variable (the factor that is measured or observed as the outcome of the experiment).
+- Experiments can be classified into two types: controlled experiments and natural experiments.
+  - A controlled experiment is one in which the experimenter has full control over all the variables and can randomly assign the participants or units to different groups or conditions.
+  - A natural experiment is one in which the experimenter cannot manipulate the independent variable, but can observe its effects on the dependent variable in a natural setting or a historical event.
+- The main components of an experiment are:
+  - The hypothesis: a tentative statement that predicts the relationship between the independent and dependent variables.
+  - The experimental design: a plan that specifies how the independent variable will be manipulated, how the dependent variable will be measured, and how the extraneous variables (factors that can affect the outcome of the experiment but are not of interest to the researcher) will be controlled or minimized.
+  - The experimental group: the group or condition that receives the treatment or intervention of the independent variable.
+  - The control group: the group or condition that does not receive the treatment or intervention of the independent variable, but is otherwise identical to the experimental group.
+  - The random assignment: the process of assigning the participants or units to the experimental or control groups by chance, so that each group has an equal chance of receiving any condition of the independent variable.
+  - The pretest: a measurement of the dependent variable before the manipulation of the independent variable, used to assess the initial level or baseline of the variable.
+  - The posttest: a measurement of the dependent variable after the manipulation of the independent variable, used to assess the change or effect of the variable.
+  - The statistical analysis: the application of mathematical methods to summarize and interpret the data collected from the experiment, and to test the significance and validity of the hypothesis.
+- The advantages of experiments are:
+  - They can provide strong evidence for causality by isolating and manipulating the independent variable and controlling the extraneous variables.
+  - They can be replicated by other researchers to verify the results and increase the reliability and generalizability of the findings.
+  - They can be applied to a wide range of topics and disciplines in natural and social sciences.
+- The disadvantages of experiments are:
+  - They can be costly, time-consuming, and complex to design and conduct.
+  - They can be unethical or impractical to manipulate some variables or to expose some participants to certain conditions or treatments.
+  - They can be affected by confounding variables (factors that are correlated with both the independent and dependent variables and can distort the causal relationship) or by experimenter bias (the influence of the experimenter's expectations or preferences on the outcome of the experiment).
+  - They can have low ecological validity (the extent to which the results of the experiment can be generalized to real-world situations) or low external validity (the extent to which the results of the experiment can be generalized to other populations or settings).

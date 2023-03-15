@@ -1,0 +1,20 @@
+### Drama as Cultural Heritage of India
+
+- Drama is a form of performing arts, where stories are enacted by the utilisation of dialogue, music, gesture, dance, and sound.
+- Drama is one of the oldest and richest forms of cultural expression in India, dating back to the ancient Vedic period .
+- Drama in India has been influenced by various religious, social, and linguistic traditions, reflecting the diversity and complexity of Indian culture .
+- Drama in India has also been shaped by the classical Sanskrit theatre, which is the earliest existing form of drama and theatre in the world .
+- The Sanskrit theatre was codified by Bharata, who is traditionally considered to be the father of Indian drama, in his treatise Natyashastra, which lays down the principles and techniques of drama, music, dance, and aesthetics .
+- The Sanskrit theatre flourished from the 1st century BCE to the 10th century CE, producing various genres and styles of drama, such as nataka (heroic drama), prakarana (social drama), bhana (monologue), and rupaka (one-act play).
+- The Sanskrit theatre also influenced the regional theatre traditions of India, such as the Tamil, Malayalam, Kannada, Telugu, Marathi, Bengali, Hindi, and Urdu theatres, which developed their own forms and conventions over time .
+- Some of the prominent regional theatre forms of India are:
+
+  - Kutiyattam: A classical Sanskrit theatre form from Kerala, which is the only surviving specimen of the ancient Sanskrit theatre. It is performed by the Chakyar community in specially designed temples called kuttampalams. It is characterized by elaborate costumes, masks, gestures, and vocal expressions.
+  - Kathakali: A classical dance-drama form from Kerala, which evolved from Kutiyattam and other folk forms. It is based on the stories from the Hindu epics Ramayana and Mahabharata, and uses elaborate makeup, costumes, gestures, and music to convey the emotions and actions of the characters.
+  - Yakshagana: A folk theatre form from Karnataka, which combines dance, music, dialogue, costume, make-up, and stage techniques. It is based on the stories from the Hindu epics, Puranas, and local legends, and is performed by a troupe of actors, singers, and musicians.
+  - Koodiyattam: A folk theatre form from Tamil Nadu, which is derived from the ancient Tamil theatre called Therukoothu. It is performed in open-air stages, and uses colorful costumes, masks, props, and music to enact the stories from the Hindu epics and local folklore.
+  - Jatra: A folk theatre form from Bengal, which originated as a religious procession and later developed into a theatrical performance. It is based on the stories from the Hindu epics, Puranas, and local history, and uses dialogue, songs, music, and dance to create a spectacle for the audience.
+  - Nautanki: A folk theatre form from Uttar Pradesh, which evolved from the Swang and Raslila forms. It is based on the stories from the Hindu epics, Puranas, and local legends, and uses dialogue, songs, music, and dance to entertain the audience. It is known for its humor, satire, and social commentary.
+  - Tamasha: A folk theatre form from Maharashtra, which originated as a court entertainment and later became popular among the masses. It is based on the stories from the Hindu epics, Puranas, and local history, and uses dialogue, songs, music, and dance to create a lively and comic performance. It is known for its female performers, called lavanis, who sing and dance in a seductive manner.
+  - Parsi theatre: A modern theatre form that emerged in the 19th century, influenced by the British and European theatre. It was pioneered by the Parsi community, who adapted the stories from the Persian, Urdu, and Hindi literature, and used realistic sets, costumes, lighting, and music to create a dramatic effect. It also introduced the concepts of proscenium stage, curtain, and female actors to the Indian theatre.
+  - Urdu theatre: A modern theatre form that evolved from

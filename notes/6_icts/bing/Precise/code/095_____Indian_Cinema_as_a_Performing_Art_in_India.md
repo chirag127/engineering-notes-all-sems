@@ -1,0 +1,6 @@
+### Indian Cinema as a Performing Art in India
+
+- India is a powerhouse of performing arts, showcasing talent like nothing else. Indian cinema is one of the unique art forms that sew a cultural lore with resplendent costumes, dazzling jewelry, quaint adornments, and traditional practices.
+- Indian cinema has evolved as a potent art form capable of mirroring socio-political and economic issues plaguing India. Films like Achhut Kanya (1936) and Sujata (1959) are examples of such cinema.
+- The year 1931 proved to be a landmark for Indian cinema as it marked the end of the silent era with Ardeshir Irani making India’s first sound film Alam Ara, made in Hindi/Urdu. The early commercial success of Phalke’s films not only paved the way for more such motion pictures but also set the ball rolling for cinema as a commercial art form.
+- Indian cinema is known for producing the largest number of films in the world. India has one of Asia's largest film industries and employs thousands of people. The Indian film industry makes films in Hindi, Telugu, Tamil, Bhojpuri, and other languages.

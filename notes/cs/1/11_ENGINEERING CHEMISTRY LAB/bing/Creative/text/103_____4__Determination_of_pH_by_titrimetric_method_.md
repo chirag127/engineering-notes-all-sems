@@ -1,0 +1,23 @@
+### 4. Determination of pH by titrimetric method
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a solution of unknown concentration (analyte) .
+- pH is a measure of the acidity or basicity of a solution, defined as the negative logarithm of the hydrogen ion concentration .
+- pH can be determined by titrimetric method by using a pH meter, which measures the cell potential of the solution in reference to a standard hydrogen electrode .
+- A plot of the pH of an acidic (or basic) solution as a function of the amount of added base (or acid) is called a pH curve or a titration curve  .
+- The pH curve can be used to determine the endpoint or equivalence point of the titration, which is the point where the moles of titrant and analyte are equal .
+- The pH curve can also be used to determine the pKa or pKb of the analyte, which are the negative logarithms of the acid or base dissociation constants, respectively .
+- The shape and features of the pH curve depend on the strength and concentration of the acid and base involved in the titration  .
+- For example, a titration of a strong acid with a strong base will have a pH curve that starts at a low pH, rises sharply near the equivalence point, and ends at a high pH .
+- A titration of a weak acid with a strong base will have a pH curve that starts at a higher pH, has a buffer region where the pH changes slowly, and has an equivalence point above 7 .
+- A titration of a weak base with a strong acid will have a pH curve that starts at a lower pH, has a buffer region where the pH changes slowly, and has an equivalence point below 7 .
+- A titration of a polyprotic acid or base will have multiple equivalence points and buffer regions, corresponding to the different stages of dissociation .
+- To perform a pH titration, the following steps are required :
+  - Prepare the titrant solution of known concentration and standardize it using a primary standard or a secondary standard.
+  - Prepare the analyte solution of unknown concentration and transfer a measured volume to a titration flask.
+  - Calibrate the pH meter using buffer solutions of known pH values.
+  - Immerse the pH electrode and a reference electrode in the analyte solution and record the initial pH reading.
+  - Add the titrant solution gradually to the analyte solution, stirring constantly, and record the pH reading after each addition.
+  - Plot the pH readings against the volume of titrant added and observe the shape of the pH curve.
+  - Identify the endpoint or equivalence point of the titration from the pH curve, either by locating the point of inflection or by using an indicator that changes color at the desired pH range.
+  - Calculate the concentration of the analyte solution using the stoichiometry of the titration reaction and the volume and concentration of the titrant solution at the endpoint or equivalence point.
+  - Calculate the pKa or pKb of the analyte solution using the pH and concentration of the analyte solution at the half-equivalence point, where the moles of titrant and analyte are equal to half of their initial values.

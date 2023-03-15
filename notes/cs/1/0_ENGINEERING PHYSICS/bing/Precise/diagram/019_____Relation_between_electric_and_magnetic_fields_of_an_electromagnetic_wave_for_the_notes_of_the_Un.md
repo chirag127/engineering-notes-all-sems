@@ -1,0 +1,10 @@
+### Relation between electric and magnetic fields of an electromagnetic wave
+
+1. Electromagnetic waves are transverse waves that consist of oscillating electric and magnetic fields that are perpendicular to each other and to the direction of propagation of the wave.
+2. The electric and magnetic fields of an electromagnetic wave are in phase and their magnitudes are related by the equation `E = cB`, where `E` is the electric field strength, `B` is the magnetic field strength, and `c` is the speed of light.
+3. The electric and magnetic fields of an electromagnetic wave are mutually dependent and self-sustaining. A changing electric field generates a magnetic field, and a changing magnetic field generates an electric field.
+4. The energy of an electromagnetic wave is equally divided between its electric and magnetic fields.
+5. The Poynting vector, which represents the direction and magnitude of the energy flow of an electromagnetic wave, is given by the cross product of the electric and magnetic fields: `S = E x H`, where `S` is the Poynting vector, `E` is the electric field, and `H` is the magnetic field.
+6. The electric and magnetic fields of an electromagnetic wave obey the wave equation, which describes how the fields change over time and space. The wave equation for the electric field is given by `∇²E = μ₀ε₀ ∂²E/∂t²`, where `∇²` is the Laplace operator, `μ₀` is the permeability of free space, `ε₀` is the permittivity of free space, and `∂²E/∂t²` is the second time derivative of the electric field. The wave equation for the magnetic field is similar, with `E` replaced by `B`.
+7. The electric and magnetic fields of an electromagnetic wave are orthogonal to each other and to the direction of propagation of the wave. This means that the electric field, magnetic field, and direction of propagation of the wave are all perpendicular to each other.
+8. The electric and magnetic fields of an electromagnetic wave are transverse to the direction of propagation of the wave. This means that the fields oscillate in a plane that is perpendicular to the direction of propagation of the wave.

@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of inadequacy of classical mechanics for the notes of the Unit 1 - Quantum Mechanics in the subject of Engineering Physics:
+
+### Inadequacy of classical mechanics
+
+- Classical mechanics is the branch of physics that deals with the motion of macroscopic objects under the influence of forces.
+- Classical mechanics explains correctly the motion of celestial bodies, such as planets and stars, and microscopic terrestrial bodies, such as bullets and balls, that move with non-relativistic speeds (much less than the speed of light).
+- However, classical mechanics fails to explain certain phenomena observed in nature, especially at the atomic and subatomic scales, where the objects move with relativistic speeds (comparable to the speed of light) and exhibit both wave and particle properties.
+- Some of the phenomena that classical mechanics cannot explain are:
+
+  - The stability of atoms: According to classical mechanics, an electron orbiting a nucleus should emit electromagnetic radiation and lose energy, eventually falling into the nucleus. However, atoms are stable and do not collapse.
+  - The discrete spectra of atoms: According to classical mechanics, an electron orbiting a nucleus should emit electromagnetic radiation of any frequency, depending on its energy. However, atoms emit and absorb only specific frequencies of light, forming discrete spectra.
+  - The blackbody radiation: According to classical mechanics, a blackbody (an ideal object that absorbs and emits all frequencies of light) should emit radiation of infinite intensity at high frequencies, leading to the ultraviolet catastrophe. However, the observed spectrum of blackbody radiation has a finite peak at a certain frequency, depending on its temperature.
+  - The photoelectric effect: According to classical mechanics, a light wave should transfer energy to an electron in a metal proportional to its intensity, regardless of its frequency. However, the observed phenomenon shows that the energy of the ejected electron depends on the frequency of the light, and there is a minimum frequency (threshold frequency) below which no electron is ejected, regardless of the intensity of the light.
+  - The Compton effect: According to classical mechanics, a light wave should scatter elastically from an electron, without changing its frequency. However, the observed phenomenon shows that the scattered light has a lower frequency (and a longer wavelength) than the incident light, and the change in frequency depends on the angle of scattering.
+  - The wave-particle duality: According to classical mechanics, light is a wave and matter is a particle. However, the observed phenomena show that light can behave as a particle (photon) and matter can behave as a wave (de Broglie wave), depending on the experimental conditions.
+
+- These phenomena indicate that classical mechanics is inadequate to describe the nature of reality at the quantum level, and a new theory is needed to account for the observed phenomena. This new theory is called quantum mechanics, which is based on the principles of uncertainty, superposition, and entanglement. Quantum mechanics provides a more accurate and complete description of the physical world, but it also introduces new concepts and challenges that defy the common sense and intuition of classical mechanics.

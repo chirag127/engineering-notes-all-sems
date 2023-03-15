@@ -1,0 +1,10 @@
+# CO CO Statement Bloom's
+
+- CO stands for Course Outcomes, which are statements that describe what learners should be able to do or demonstrate after completing a course.
+- COs should be aligned with the Program Outcomes (POs), which are statements that describe what learners should be able to do or demonstrate after completing a program of study.
+- COs should be written using action verbs that indicate the level of cognitive skills required by the learners, such as remember, understand, apply, analyze, evaluate, and create.
+- Bloom's taxonomy is a framework that classifies the cognitive skills into six levels, from the most basic to the most complex. It provides a common language for educators to communicate the learning objectives and assess the learners' progress.
+- Bloom's taxonomy was revised in 2001 by Anderson and Krathwohl, who changed the names of some levels and reordered them. The revised levels are: remember, understand, apply, analyze, evaluate, and create.
+- Each level of Bloom's taxonomy is associated with a set of verbs that can be used to write COs. For example, some verbs for the remember level are: define, list, recall, identify, etc. Some verbs for the create level are: design, construct, produce, compose, etc.
+- The COs should be written using the SMART criteria, which means they should be Specific, Measurable, Achievable, Relevant, and Time-bound. For example, a SMART CO for a course on web development could be: "By the end of this course, learners will be able to design and create a responsive website using HTML, CSS, and JavaScript."
+- The COs should be mapped with the POs using a Course Articulation Matrix (CAM), which is a table that shows the relationship between the COs and the POs. The CAM helps to ensure that the course is aligned with the program goals and that the learners achieve the desired outcomes. For example, a CAM for a course on web development could show that the CO "design and create a responsive website" is mapped with the PO "demonstrate technical skills in web development".

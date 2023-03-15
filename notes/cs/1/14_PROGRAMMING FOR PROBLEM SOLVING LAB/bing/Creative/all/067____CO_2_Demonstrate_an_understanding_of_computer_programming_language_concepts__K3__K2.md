@@ -1,0 +1,31 @@
+## CO 2 Demonstrate an understanding of computer programming language concepts. K3, K2
+
+- Computer programming language is a set of rules and symbols that instruct a computer to perform specific tasks.
+- Computer programming language concepts are the fundamental ideas and principles that underlie the design and implementation of programming languages.
+- Some of the common computer programming language concepts are:
+
+  - Syntax: The rules that define how to write valid statements and expressions in a programming language.
+  - Semantics: The meaning and behavior of the statements and expressions in a programming language.
+  - Data types: The categories of values that can be stored and manipulated by a programming language, such as numbers, strings, booleans, arrays, etc.
+  - Variables: The names that refer to data values in a programming language, such as x, y, name, etc.
+  - Operators: The symbols that perform arithmetic, logical, or other operations on data values in a programming language, such as +, -, *, /, &&, ||, etc.
+  - Control structures: The statements that control the flow of execution in a programming language, such as if, else, for, while, switch, etc.
+  - Functions: The blocks of code that perform a specific task and can be reused in a programming language, such as print, sqrt, max, etc.
+  - Parameters: The variables that are passed to a function to provide input or output values in a programming language, such as x, y, z, etc.
+  - Scope: The region of code where a variable is visible and accessible in a programming language, such as global, local, block, etc.
+  - Recursion: The technique of defining a function in terms of itself in a programming language, such as factorial, fibonacci, etc.
+  - Object-oriented programming: The paradigm of organizing data and behavior into classes and objects in a programming language, such as Java, C++, Python, etc.
+  - Class: The blueprint that defines the attributes and methods of a type of object in a programming language, such as Person, Animal, Car, etc.
+  - Object: The instance of a class that has its own state and behavior in a programming language, such as p1, a1, c1, etc.
+  - Inheritance: The mechanism of deriving a new class from an existing class in a programming language, such as Dog inherits from Animal, etc.
+  - Polymorphism: The ability of an object to behave differently depending on its type or context in a programming language, such as a Dog object can bark or wag its tail, etc.
+  - Abstraction: The process of hiding the details and complexity of a system and providing a simple and relevant interface in a programming language, such as using a function or a class, etc.
+  - Encapsulation: The principle of bundling data and behavior together and restricting access to them in a programming language, such as using private and public modifiers, etc.
+  - Functional programming: The paradigm of treating computation as the evaluation of mathematical functions and avoiding side effects in a programming language, such as Haskell, Lisp, etc.
+  - Higher-order function: The function that can take another function as an argument or return a function as a result in a programming language, such as map, filter, reduce, etc.
+  - Lambda expression: The anonymous function that can be defined and used inline in a programming language, such as (x) -> x * x, etc.
+  - Closure: The function that can access and modify the variables in its enclosing scope in a programming language, such as function(x) { return function(y) { return x + y; }; }, etc.
+  - Logic programming: The paradigm of expressing problems and solutions in terms of facts and rules in a programming language, such as Prolog, etc.
+  - Fact: The statement that declares a relation between terms in a logic programming language, such as parent(john, mary), etc.
+  - Rule: The statement that defines a relation between terms in terms of other relations in a logic programming language, such as grandparent(X, Y) :- parent(X, Z), parent(Z, Y), etc.
+  - Query: The statement that asks for the values of terms that satisfy a relation in a logic programming language, such as grandparent(X, mary), etc.

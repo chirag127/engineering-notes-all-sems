@@ -1,0 +1,23 @@
+# Necessity of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+
+- Wave optics, also called physical optics, is a branch of optics that deals with the study of various phenomena such as polarization, diffraction, interference and other occurrences where ray approximation of geometric optics cannot be done.
+- Wave optics describes the connection between waves and rays of light. According to wave theory of light, light is a form of energy which travels through a medium in the form of transverse wave.
+- Wave optics is an important topic for engineering physics as it helps to understand the nature and behavior of light and its applications in various fields such as communication, optical devices, lasers, holography, etc.
+- The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS cover the following topics:
+  - Superposition of harmonic oscillations and the physics of traveling and standing waves.
+  - EM wave equations and the eikonal equations.
+  - Interference of light waves and optical interferometry.
+  - Diffraction of light waves and the Fresnel and Fraunhofer approximations.
+  - Polarization of light waves and the Malus law, Brewster angle, polarizers, etc.
+- The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS may not be sufficient to cover all the aspects and details of the topic. Therefore, it is necessary to refer to extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS.
+- Some of the benefits of referring to extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS are:
+  - To get a deeper and broader understanding of the concepts and principles of wave optics and their applications.
+  - To learn from different perspectives and approaches of explaining and solving the problems of wave optics.
+  - To enhance the analytical and critical thinking skills and the ability to apply the knowledge of wave optics to real-world situations.
+  - To prepare for the exams and assessments by reviewing and revising the topics of wave optics from various sources.
+- Some of the examples of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS are:
+  - Textbooks and reference books on wave optics and engineering physics  .
+  - Online courses and lectures on wave optics and engineering physics.
+  - Handwritten notes and pdfs on wave optics and engineering physics .
+  - Previous year question papers and solutions on wave optics and engineering physics.
+  - Online quizzes and tests on wave optics and engineering physics.

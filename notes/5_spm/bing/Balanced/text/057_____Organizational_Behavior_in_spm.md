@@ -1,0 +1,12 @@
+### Organizational Behavior in SPM
+
+- Organizational behavior (OB) is the systematic study and application of knowledge about how individuals and groups act within the organizations where they work.
+- OB is important for software project management (SPM) because it helps managers understand, predict, and influence the behavior of their team members, stakeholders, and customers.
+- OB covers several topics that are relevant for SPM, such as:
+  - Motivation: the process that initiates, directs, and sustains behavior toward a goal. Motivation affects the performance, satisfaction, and retention of software developers and project managers.
+  - Communication: the exchange of information and meaning among people through verbal and nonverbal channels. Communication is essential for coordinating tasks, sharing knowledge, resolving conflicts, and building trust in software projects.
+  - Managing groups and teams: the process of forming, developing, and leading groups of people who work interdependently to achieve a common goal. Groups and teams are the basic units of work in software projects, and they require effective leadership, decision making, and conflict resolution skills.
+  - Power and politics: the ability to influence others and the use of tactics to advance one's interests in an organization. Power and politics affect the allocation of resources, the resolution of disputes, and the implementation of changes in software projects.
+- OB is a subset of organizational theory, which is a broader field that studies the structure, design, and culture of organizations. Organizational theory provides a more holistic way of understanding and managing software organizations and their environments.
+- OB is based on theories and research from various disciplines, such as psychology, sociology, anthropology, and economics. OB uses both quantitative and qualitative methods to test hypotheses and generate insights about organizational phenomena.
+- OB is a dynamic and evolving field that responds to the changes and challenges in the contemporary workplace, such as globalization, diversity, ethics, and technology. OB aims to provide evidence-based and practical solutions for improving the effectiveness and well-being of organizations and their members.

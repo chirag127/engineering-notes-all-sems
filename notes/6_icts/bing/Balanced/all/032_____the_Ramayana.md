@@ -1,0 +1,12 @@
+# The Ramayana
+
+The Ramayana is a Hindu epic that narrates the life and adventures of Rama, the prince of Kosala, and his wife Sita. The Ramayana is composed of seven books and consists of about 24,000 verses. The main themes of the Ramayana are dharma (duty), karma (action and consequence), and bhakti (devotion).
+
+The following are the main points of the Ramayana:
+
+- Rama is the eldest son of King Dasaratha of Kosala and is considered to be an incarnation of the god Vishnu. He is virtuous, brave, and skilled in archery. He marries Sita, the daughter of King Janaka of Mithila, after breaking the bow of Shiva in a contest.
+- Rama's stepmother, Kaikeyi, is influenced by her maid Manthara to ask Dasaratha to banish Rama to the forest for 14 years and to crown her son Bharata as the king. Dasaratha reluctantly agrees, but dies of grief soon after. Rama, Sita, and Rama's brother Lakshmana leave for the forest, while Bharata refuses to accept the throne and vows to serve Rama as his regent.
+- In the forest, Rama encounters many sages, animals, and demons. He befriends the monkey king Sugriva and his minister Hanuman, who help him in his search for Sita, who is abducted by the demon king Ravana of Lanka. Ravana wants to marry Sita, but she resists his advances and remains faithful to Rama.
+- Rama and his allies build a bridge across the ocean and invade Lanka. They fight a fierce war with Ravana and his army of demons. Rama kills Ravana with the help of a divine weapon given by the sage Agastya. He rescues Sita and returns to Ayodhya with her and his companions.
+- Rama is crowned as the king of Kosala and rules with justice and prosperity. However, he hears a rumor that some people doubt Sita's chastity, as she had lived in Ravana's palace for a long time. He decides to banish Sita to the forest, where she gives birth to twin sons, Lava and Kusha. They are raised by the sage Valmiki, who teaches them the Ramayana.
+- Rama performs a horse sacrifice to assert his sovereignty and sends his brothers to protect the horse. They encounter Lava and Kusha, who capture the horse and challenge Rama's army. Rama himself comes to fight them and recognizes them as his sons. He reunites with Sita, who proves her purity by undergoing a fire test. However, Sita is unhappy with Rama's treatment of her and asks the earth to swallow her. Rama is heartbroken and returns to Ayodhya with his sons. He rules for many years and then departs to his heavenly abode with his brothers and devotees.

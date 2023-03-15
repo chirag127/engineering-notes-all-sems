@@ -1,0 +1,8 @@
+### Collection of Data in SPM
+
+1. **Introduction:** In the field of Statistical Process Monitoring (SPM), data collection is a crucial step in the process of monitoring and controlling the quality of a product or process. 
+2. **Methods of Data Collection:** There are several methods of data collection in SPM, including direct observation, surveys, and experiments. The method chosen depends on the nature of the process being monitored and the type of data required.
+3. **Direct Observation:** This method involves observing the process directly and recording the relevant data. This method is useful when the data required is easily observable and can be accurately recorded.
+4. **Surveys:** Surveys involve collecting data from a sample of the population through the use of questionnaires or interviews. This method is useful when the data required is not easily observable or when a large amount of data is required.
+5. **Experiments:** Experiments involve manipulating one or more variables in a controlled environment to observe the effect on the process being monitored. This method is useful when the relationship between variables is not well understood and when cause-and-effect relationships need to be established.
+6. **Conclusion:** The method of data collection chosen in SPM depends on the nature of the process being monitored and the type of data required. Direct observation, surveys, and experiments are common methods of data collection in SPM. Each method has its advantages and disadvantages, and the appropriate method should be chosen based on the specific needs of the process being monitored.

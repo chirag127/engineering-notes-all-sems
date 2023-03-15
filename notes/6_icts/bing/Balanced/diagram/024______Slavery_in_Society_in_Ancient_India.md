@@ -1,0 +1,12 @@
+#### Slavery in Society in Ancient India
+
+- Slavery was a universal social evil and had its origin even from the early period of history. In India, its origin is closely associated with the caste system.
+- The early history of slavery in India is contested because it depends on the translations of terms such as dasa and dasyu. Some scholars suggest that these terms referred to servile classes, while others argue that they denoted enemies or outsiders.
+- Greek writer Megasthenes in his work Indika, while describing the Maurya Empire in the 4th century BCE, states that slavery was banned in Indian society.
+- However, other sources indicate that slavery existed in ancient India, where it is recorded in the Sanskrit Laws of Manu of the 1st century BCE. The institution was little documented until the British colonials in the 19th century made it an object of study because of their desire to abolish it.
+- Slavery system in India was very mild and most of the slaves were domestic slaves who were treated as members of the family. The Dharma Shastras of the 4th century BCE were in a protesting mood against slavery. Slave trade was prohibited in the Shastras.
+- Slaves in ancient India were mainly acquired through war, debt, sale by parents, or punishment for crimes. They could be freed by their masters, or by paying a ransom, or by performing meritorious deeds.
+- Slaves in ancient India had some rights and privileges, such as owning property, marrying, and practicing religion. They could also rise to high positions in society, such as ministers, generals, and rulers .
+- Slavery in ancient India was not based on race or ethnicity, but on social and economic factors. There were also instances of voluntary slavery, where people offered themselves as slaves to a deity or a temple.
+- Slavery in ancient India declined with the advent of Buddhism and Jainism, which preached equality and non-violence. The Gupta Empire (4th-6th century CE) also discouraged slavery and promoted the welfare of the lower classes.
+- Slavery in ancient India was different from the slavery in other parts of the world, such as Greece, Rome, or America, where slaves were treated as chattel and had no rights or dignity. Slavery in ancient India was more humane and flexible, and allowed for social mobility and emancipation.

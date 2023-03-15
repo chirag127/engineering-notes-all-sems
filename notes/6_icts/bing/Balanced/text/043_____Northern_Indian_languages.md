@@ -1,0 +1,8 @@
+### Northern Indian languages
+
+- Northern Indian languages are mainly **Indo-Aryan languages** that are spoken by the people of North India .
+- The most widely spoken language in North India is **Hindi**, which is also the official language of India and has many regional dialects and variations .
+- Other major languages of North India include **Urdu**, which is the official language of Jammu and Kashmir and has a close affinity with Hindi ; **Punjabi**, which is the official language of Punjab and has a distinct script called Gurmukhi ; **Kashmiri**, which is the official language of Ladakh and has a rich literary tradition ; and **Dogri**, which is the official language of Jammu and has a strong influence of Punjabi and Sanskrit .
+- Some other languages of North India are **Bihari languages**, such as Bhojpuri, Magadhi and Maithili, which are spoken in Bihar and parts of Uttar Pradesh and Jharkhand ; **Pahari languages**, such as Garhwali, Kumaoni and Nepali, which are spoken in the Himalayan regions of Uttarakhand, Himachal Pradesh and Nepal ; and various other **aboriginal languages**, such as Bhili, Gondi and Santali, which are spoken by the tribal communities of North India .
+- The languages of North India have different **scripts**, **grammars**, **vocabularies** and **cultural influences**, but they also share some common features, such as the use of **Sanskrit loanwords**, the **subject-object-verb** word order, the **retroflex consonants** and the **gender and number agreement**.
+- The languages of North India are also influenced by other languages, such as **Persian**, **Arabic**, **Turkish**, **English** and **Dravidian languages**, due to the historical and cultural interactions of North India with other regions and countries.

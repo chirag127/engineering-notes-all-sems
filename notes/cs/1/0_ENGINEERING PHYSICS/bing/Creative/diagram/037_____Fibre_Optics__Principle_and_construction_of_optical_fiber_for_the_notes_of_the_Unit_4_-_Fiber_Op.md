@@ -1,0 +1,17 @@
+### Fibre Optics: Principle and construction of optical fiber
+
+- Fibre optics is the science of transmitting data, voice, and images by the passage of light through thin, transparent fibers.
+- Optical fibers are flexible, transparent fibers made by drawing glass or plastic to a diameter slightly thicker than that of a human hair.
+- Optical fibers work on the principle of total internal reflection of light, which means that no part of the light signal gets refracted or transmitted to the second medium, but instead, all of the signal is retained inside the fiber .
+- The condition for total internal reflection is that the light must travel from an optically denser medium to an optically rarer medium, and the angle of incidence must be greater than the critical angle for the boundary.
+- The construction of an optical fiber consists of three main parts :
+  - The core, which is the innermost layer of the fiber, where the light is transmitted. The core has a high refractive index and a small diameter (typically 8 μm for single-mode fibers and 50-62.5 μm for multimode fibers).
+  - The cladding, which is the outer layer of the fiber, surrounding the core. The cladding has a lower refractive index than the core and a larger diameter (typically 125 μm). The cladding acts as a boundary for the light and prevents it from escaping the core.
+  - The protective coating, which is a layer of plastic or other material that covers the cladding and protects the fiber from damage and moisture. The coating has a diameter of about 250 μm and can be removed by stripping tools when the fiber is spliced or connected to other devices.
+- The types of optical fibers are mainly classified based on the number of modes or paths that the light can take inside the core :
+  - Single-mode fibers, which have a small core diameter and allow only one mode of light to propagate. These fibers have low attenuation and high bandwidth, and are used for long-distance communication and high-speed data transmission.
+  - Multimode fibers, which have a larger core diameter and allow multiple modes of light to propagate. These fibers have higher attenuation and lower bandwidth, and are used for short-distance communication and low-speed data transmission.
+  - Other types of fibers include plastic optical fibers, which have a plastic core and cladding, and are cheaper and easier to handle than glass fibers, but have lower performance and durability; and specialty fibers, which have special properties or functions, such as polarization-maintaining fibers, dispersion-shifted fibers, and photonic crystal fibers.
+- The uses of optical fibers are mainly in the field of fiber-optic communications, where they enable the transmission of large amounts of data over long distances and at high speeds, with low loss and interference .
+  - Optical fibers are used to link computers within local area networks, to connect telephone lines and cable television networks, to provide internet access and broadband services, and to support wireless communication and mobile networks.
+  - Optical fibers are also used for other applications, such as sensing, imaging, lighting, and medicine. For example, optical fibers can be used to measure temperature, pressure, strain, and vibration; to transmit images and videos from endoscopes and microscopes; to deliver light and laser beams for illumination and surgery; and to perform optical biopsy and spectroscopy.

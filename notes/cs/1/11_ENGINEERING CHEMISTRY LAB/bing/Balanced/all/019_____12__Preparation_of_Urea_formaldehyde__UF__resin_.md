@@ -1,0 +1,9 @@
+# 12. Preparation of Urea formaldehyde (UF) resin
+
+- Urea formaldehyde (UF) resin is a thermosetting polymer that is widely used in adhesives, plywood, particle board, medium-density fibreboard (MDF), and molded objects.
+- UF resin is synthesized by the condensation reaction of urea and formaldehyde in the presence of a base or an acid catalyst .
+- The reaction can be divided into three steps: methylolation, condensation, and curing .
+- Methylolation: In this step, formaldehyde reacts with urea to form monomethylolurea and dimethylolurea, which are the monomers of UF resin . The reaction is carried out in an aqueous solution with a formaldehyde to urea molar ratio of 2-3:1 and a pH of 6-11 . The reaction is exothermic and requires heating to at least 80°C .
+- Condensation: In this step, the monomers undergo further polymerization to form linear or branched oligomers of UF resin . The reaction is catalyzed by an acid, such as sulfuric acid, hydrochloric acid, or phosphoric acid . The reaction is also exothermic and requires heating to 90-100°C . The reaction is controlled by adjusting the pH, temperature, and reaction time to obtain the desired molecular weight and viscosity of the resin .
+- Curing: In this step, the oligomers cross-link to form a three-dimensional network of UF resin . The reaction is initiated by heat, pressure, or a hardener, such as ammonia or ammonium chloride . The reaction is also exothermic and requires heating to 120-150°C . The reaction is completed when the resin becomes insoluble and infusible .
+- The properties of UF resin depend on the reaction conditions, the formaldehyde to urea ratio, the catalyst type, and the degree of cross-linking . UF resin has high strength, hardness, water resistance, and chemical resistance, but also emits formaldehyde, which is a health hazard  . UF resin can be modified by adding other compounds, such as melamine, phenol, or glyoxal, to improve its properties .

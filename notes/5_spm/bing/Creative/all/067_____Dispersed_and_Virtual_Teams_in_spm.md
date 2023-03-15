@@ -1,0 +1,24 @@
+# Dispersed and Virtual Teams in SPM
+
+- Dispersed and virtual teams are types of teams that have members who are not located in the same place, but work together through online communication tools .
+- Dispersed and virtual teams can span organizational, geographical, cultural, and temporal boundaries .
+- Dispersed and virtual teams can have advantages such as:
+  - Access to a larger and more diverse pool of talent and expertise 
+  - Reduced costs of travel, relocation, and office space 
+  - Increased flexibility and autonomy for team members 
+  - Enhanced creativity and innovation due to diverse perspectives and inputs 
+  - Improved customer service and responsiveness due to extended coverage and availability 
+- Dispersed and virtual teams can also face challenges such as:
+  - Communication difficulties due to lack of face-to-face interaction, nonverbal cues, and feedback 
+  - Coordination problems due to different time zones, work schedules, and expectations 
+  - Trust and relationship issues due to limited social and emotional connection, shared identity, and common ground 
+  - Cultural and linguistic barriers due to different values, norms, and communication styles 
+  - Motivation and performance issues due to isolation, distraction, and lack of supervision and recognition 
+- Dispersed and virtual teams can be managed effectively by adopting some best practices such as:
+  - Establishing clear and shared goals, roles, and norms for the team 
+  - Selecting and training team members who have the skills, attitudes, and behaviors for working in dispersed and virtual settings 
+  - Choosing and using appropriate communication and collaboration tools that suit the team's needs and preferences 
+  - Building trust and rapport among team members through frequent and meaningful communication, socialization, and feedback 
+  - Monitoring and evaluating team progress and performance using objective and transparent metrics and criteria 
+  - Celebrating and rewarding team achievements and contributions 
+- Dispersed and virtual teams can have different outcomes depending on the context and situation. Some research suggests that dispersed and virtual teams can be more efficient and successful than co-located teams at completing projects, but they can also be more prone to persisting with failing projects due to sunk costs and escalation of commitment .

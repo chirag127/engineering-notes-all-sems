@@ -1,0 +1,9 @@
+#### CO-2 Compute and analyze various electrical and electronic properties of a given
+
+- Electrical properties are the characteristics of a material that determine how it responds to an applied electric field or a current flow. Examples of electrical properties are resistance, capacitance, inductance, and dielectric constant .
+- Electronic properties are the characteristics of a material that determine how its electrons behave under the influence of an electric field or a magnetic field. Examples of electronic properties are band gap, carrier concentration, mobility, and effective mass .
+- To compute and analyze various electrical and electronic properties of a given material, one needs to use appropriate methods and instruments depending on the type and scale of the property. Some common methods and instruments are:
+  - Ohm's law: A simple formula that relates the voltage, current, and resistance of a material. It can be used to compute the resistance of a material by measuring the voltage and current across it using a voltmeter and an ammeter.
+  - Capacitance meter: A device that measures the capacitance of a material by applying an alternating voltage and measuring the resulting current. It can be used to compute the dielectric constant of a material by comparing its capacitance with that of a reference capacitor.
+  - Inductance meter: A device that measures the inductance of a material by applying an alternating current and measuring the resulting voltage. It can be used to compute the magnetic permeability of a material by comparing its inductance with that of a reference inductor.
+  - Spectroscopy: A technique that measures the interaction of electromagnetic radiation with a material. It can be used to compute the band gap, carrier concentration, mobility, and effective mass of a material by analyzing the absorption, emission, or reflection spectra of the material.

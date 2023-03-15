@@ -1,0 +1,8 @@
+# NOTE: Instructor may choose any 10 experiments from above and may also change any two of the above.
+
+- This note implies that the instructor has the authority and flexibility to select the experiments that are most suitable for the course objectives, the available resources, and the students' interests and abilities.
+- The instructor can choose any 10 experiments from the list of experiments that are given above the note, or from any other relevant sources that are approved by the curriculum committee or the department head.
+- The instructor can also modify or replace any two of the experiments from the chosen list, as long as they are consistent with the course outcomes, the learning outcomes, and the assessment criteria.
+- The instructor should inform the students about the selected and changed experiments at the beginning of the course, and provide them with the necessary instructions, materials, and guidance for conducting the experiments.
+- The instructor should also explain the rationale and the objectives of each experiment, and how it relates to the theoretical concepts and the practical applications of the subject matter.
+- The instructor should evaluate the students' performance and learning based on their reports, presentations, observations, and feedback. The instructor should also provide constructive and timely feedback to the students to help them improve their skills and knowledge.

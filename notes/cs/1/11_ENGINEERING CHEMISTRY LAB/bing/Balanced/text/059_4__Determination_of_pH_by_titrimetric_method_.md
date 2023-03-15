@@ -1,0 +1,10 @@
+# Determination of pH by titrimetric method
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a solution of unknown concentration (analyte).
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+].
+- Determination of pH by titrimetric method involves using a pH meter to monitor the change in pH of the analyte solution as the titrant is added gradually.
+- A pH meter consists of a glass electrode that responds to the hydrogen ion activity in the solution, and a reference electrode that provides a constant potential. The difference in potential between the two electrodes is proportional to the pH of the solution.
+- A plot of the pH of the analyte solution versus the volume of the titrant added is called a titration curve. The titration curve can be used to determine the endpoint or equivalence point of the titration, where the analyte and the titrant are stoichiometrically equivalent.
+- The shape and position of the titration curve depend on the nature and strength of the acid and base involved in the titration, as well as the buffer capacity of the solution.
+- The buffer capacity is a measure of the ability of the solution to resist changes in pH when small amounts of acid or base are added. It is related to the concentrations and dissociation constants of the acid-base pairs in the solution.
+- The titration curve can also be used to calculate the pKa or pKb of a weak acid or base, by finding the pH at the half-equivalence point, where the concentration of the weak acid or base is equal to the concentration of its conjugate base or acid. At this point, the pH is equal to the pKa or pKb of the weak acid or base.

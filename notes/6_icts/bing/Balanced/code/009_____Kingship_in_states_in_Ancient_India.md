@@ -1,0 +1,11 @@
+### Kingship in states in Ancient India
+
+- Kingship in ancient India was a sovereignty over a territory by a king who functioned as its protector, a role which involved both secular and religious power.
+- Ancient Indians believed that kingship arose out of military requirement. A king must be a capable general whose leadership is recognized by all.
+- There were three main theories of origin of kingship and state in ancient India: divine origin theory, social contract theory, and patriarchal theory.
+- Divine origin theory: This theory of origin of kingship as well as the state was not widely acclaimed in the ancient Indian polity. The king, according to this theory, was a subordinate to law, which was made by the society and not him.
+- Social contract theory: This theory of origin of kingship as well as the state was more popular in the ancient Indian polity. The king, according to this theory, was a representative of the people who had voluntarily surrendered some of their rights and powers to him for the sake of security and welfare.
+- Patriarchal theory: This theory of origin of kingship as well as the state was based on the assumption that the king was the eldest male member of the clan or tribe who had the authority to rule over his kinsmen.
+- The ideology and symbolism of kingship have played an important role in Hinduism throughout its history, an influence that continues into the present day. The two great epic texts, the Mahābhārata and Rāmāyaṇa, are narratives of kingship, and the tensions and ambiguities inherent to the role of the king are fundamental to their plots and themes.
+- The Brahmanic theory of kingship was based on the concept of dharma, or the cosmic order, which the king had to uphold and protect. The king was seen as a manifestation of the divine, and his coronation was a ritual of consecration that conferred him with sacred power.
+- The Buddhist and Jain theories of kingship were more critical of the violence and oppression associated with kingship, and advocated for a more ethical and compassionate rule. The king was seen as a benefactor of the people, and his duty was to promote the welfare and happiness of his subjects.

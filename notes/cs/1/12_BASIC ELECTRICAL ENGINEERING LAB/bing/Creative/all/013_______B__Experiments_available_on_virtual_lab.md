@@ -1,0 +1,43 @@
+# Experiments available on virtual lab
+
+- Virtual lab is a platform that allows users to perform experiments online without the need of physical equipment or facilities.
+- Virtual lab can simulate various scientific phenomena and processes, such as physics, chemistry, biology, engineering, etc.
+- Virtual lab can provide interactive feedback, guidance, and assessment to the users, as well as record and store their data and results.
+- Some of the experiments available on virtual lab are:
+
+  - **Physics**: 
+    - Projectile motion
+    - Pendulum
+    - Newton's laws of motion
+    - Optics
+    - Electricity and magnetism
+    - Waves and sound
+    - Thermodynamics
+    - Quantum mechanics
+  - **Chemistry**:
+    - Acid-base titration
+    - Chemical equilibrium
+    - Electrochemistry
+    - Organic synthesis
+    - Spectroscopy
+    - Chromatography
+    - Molecular structure
+    - Reaction kinetics
+  - **Biology**:
+    - Cell structure and function
+    - DNA extraction and analysis
+    - Enzyme activity
+    - Photosynthesis and respiration
+    - Genetics and inheritance
+    - Microbiology
+    - Ecology
+    - Evolution
+  - **Engineering**:
+    - Circuit design and analysis
+    - Control systems
+    - Fluid mechanics
+    - Heat transfer
+    - Material properties and testing
+    - Mechanical vibrations
+    - Robotics
+    - Signal processing

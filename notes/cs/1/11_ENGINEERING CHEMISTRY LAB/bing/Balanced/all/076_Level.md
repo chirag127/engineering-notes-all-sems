@@ -1,0 +1,9 @@
+# Level
+
+- A level is a tool or device that is used to measure the horizontal or vertical alignment of a surface or an object.
+- A level can also refer to the degree of height or depth of something, such as water level, sound level, or skill level.
+- There are different types of levels, such as spirit level, laser level, water level, and digital level.
+- A spirit level consists of a sealed glass tube filled with a liquid, usually alcohol or water, with an air bubble inside. The tube is mounted on a frame with markings to indicate the center or the zero point. When the level is placed on a surface, the bubble will move to the center if the surface is level, or to one side if the surface is tilted.
+- A laser level projects a beam of light that can be used to align objects or mark a straight line on a wall or a floor. The laser level can be attached to a tripod or a wall mount, and can be adjusted to different angles or heights. Some laser levels have self-leveling features that use sensors or pendulums to automatically align the beam horizontally or vertically.
+- A water level is a simple device that consists of a flexible tube filled with water, with a transparent container at each end. The water level can be used to measure the level of two points that are far apart or at different heights, such as the foundations of a building or the posts of a fence. The water level works on the principle that water will always seek its own level, so the water level in both containers will be the same when the tube is held horizontally.
+- A digital level is an electronic device that uses sensors or accelerometers to measure the angle or inclination of a surface or an object. The digital level can display the measurement in degrees, percentage, or other units on a screen or a LED indicator. Some digital levels have audible or visual signals to indicate when the level is at zero or a preset angle.

@@ -1,0 +1,17 @@
+### Socio religious reform movement of 19th century in India
+
+- Socio religious reform movement of 19th century in India refers to the wave of reforming activities that aimed to reform the Indian society and religion in the light of western education and liberal ideas.
+- The main causes of the reform movement were:
+  - The impact of British colonialism and western culture on the Indian society, which exposed the evils and superstitions of the traditional social and religious practices.
+  - The rise of modern education, science, rationalism, humanism and democracy, which challenged the authority of the orthodox and conservative elements.
+  - The influence of the Christian missionaries, who criticized the Hindu religion and tried to convert the Indians to Christianity.
+  - The emergence of a new class of educated and enlightened Indians, who felt the need to reform their society and religion from within.
+- The main types of the reform movement were:
+  - The Hindu reform movements, such as the Brahmo Samaj, the Arya Samaj, the Prarthana Samaj, the Ramakrishna Mission, the Theosophical Society, etc., which aimed to reform the Hindu religion and society by removing the evils of casteism, idolatry, polytheism, rituals, superstitions, etc., and promoting the ideals of monotheism, rationalism, social equality, women's education, etc.   .
+  - The Muslim reform movements, such as the Aligarh movement, the Deoband movement, the Wahabi movement, the Ahmadiyya movement, etc., which aimed to reform the Muslim religion and society by removing the degeneration and corruption of the Islamic faith and culture, and promoting the ideals of modern education, social reform, religious revival, etc.  .
+  - The Sikh reform movements, such as the Singh Sabha movement, the Akali movement, the Nirankari movement, etc., which aimed to reform the Sikh religion and society by removing the influence of Hinduism and Islam on the Sikh faith and culture, and promoting the ideals of Khalsa identity, Sikh unity, religious purity, etc..
+  - The Parsi reform movements, such as the Rehnumai Mazdayasan Sabha, the Parsi Pragati Mandal, the Parsi Panchayat, etc., which aimed to reform the Parsi religion and society by removing the rigid and orthodox practices of the Parsi faith and culture, and promoting the ideals of social reform, religious tolerance, women's rights, etc..
+- The main impacts of the reform movement were:
+  - The reform movement contributed to the awakening of the Indian people and the growth of Indian nationalism, as it fostered a sense of pride and self-respect among the Indians and challenged the colonial domination and exploitation .
+  - The reform movement stimulated the social and religious changes in the Indian society, as it led to the abolition or reform of some of the social evils and religious practices, such as sati, child marriage, widow remarriage, untouchability, etc., and the promotion of some of the social and religious values, such as education, equality, human rights, etc. .
+  - The reform movement also faced some limitations and challenges, such as the resistance from the orthodox and conservative sections of the society, the lack of mass participation and support, the emergence of communalism and sectarianism, the diversity and complexity of the Indian society and culture, etc. .

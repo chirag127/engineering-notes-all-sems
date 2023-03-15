@@ -1,0 +1,24 @@
+### Lettering for the notes of the Unit 1 - Introduction to Engineering Drawing and Orthographic Projections in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Lettering is the process of writing letters, numerals, and symbols on a drawing to convey information and specifications.
+- Lettering should be clear, legible, uniform, and consistent in size and style.
+- Lettering should be done with a sharp pencil or a fine pen on a smooth paper or a drawing sheet.
+- Lettering should follow the standard guidelines and conventions given by the Bureau of Indian Standards (BIS) or the International Organization for Standardization (ISO).
+- Lettering should be done in either vertical or inclined style, depending on the preference of the drafter or the requirement of the drawing.
+- Vertical lettering is done with the letters perpendicular to the baseline, while inclined lettering is done with the letters at an angle of 75° to the baseline.
+- Lettering should be done in either single-stroke or double-stroke style, depending on the size and clarity of the letters.
+- Single-stroke lettering is done with one continuous line for each letter, while double-stroke lettering is done with two parallel lines for each letter.
+- Lettering should be done in either uppercase or lowercase, depending on the type and importance of the information.
+- Uppercase lettering is used for titles, headings, subheadings, dimensions, symbols, abbreviations, and notes of general nature, while lowercase lettering is used for explanatory notes, references, and details.
+- Lettering should be done in either normal or thickened style, depending on the contrast and visibility of the letters.
+- Normal lettering is done with a uniform thickness for all the letters, while thickened lettering is done with a thicker line for the main strokes and a thinner line for the secondary strokes of the letters.
+- Lettering should be done in either plain or italic style, depending on the emphasis and distinction of the information.
+- Plain lettering is done with the letters in a regular and straight form, while italic lettering is done with the letters in a slanted and curved form.
+- Lettering should be done in either Roman or Gothic style, depending on the preference and tradition of the drafter or the drawing.
+- Roman lettering is done with the letters having serifs or small projections at the ends of the main strokes, while Gothic lettering is done with the letters having no serifs or projections.
+- Lettering should be done in either proportional or non-proportional style, depending on the alignment and spacing of the letters.
+- Proportional lettering is done with the letters having different widths depending on their shapes, while non-proportional lettering is done with the letters having equal widths regardless of their shapes.
+- Lettering should be done in either horizontal or vertical alignment, depending on the orientation and arrangement of the information.
+- Horizontal lettering is done with the letters aligned along a horizontal baseline, while vertical lettering is done with the letters aligned along a vertical baseline.
+- Lettering should be done in either aligned or unaligned spacing, depending on the consistency and readability of the letters.
+- Aligned spacing is done with the letters having equal distances between them, while unaligned spacing is done with the letters having variable distances depending on their shapes.

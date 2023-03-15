@@ -1,0 +1,12 @@
+# 3. To enable the students to understand about the measure of pH, surface tension and viscosity of
+
+- pH is a measure of how acidic or basic a solution is. It is defined as the negative logarithm of the hydrogen ion concentration in moles per liter. pH = -log[H+]
+- The pH scale ranges from 0 to 14, with 7 being neutral, lower than 7 being acidic, and higher than 7 being basic. The pH of pure water is 7 at 25°C.
+- pH can be measured using indicators, such as litmus paper, phenolphthalein, or universal indicator, that change color depending on the acidity or basicity of the solution. pH can also be measured using a pH meter, which is an electronic device that measures the voltage difference between a reference electrode and a pH-sensitive electrode.
+- Surface tension is a measure of how strongly the molecules of a liquid are attracted to each other at the surface. It is defined as the force per unit length that must be applied to the surface to break it. Surface tension = F/L
+- Surface tension causes liquids to form spherical droplets, to minimize their surface area. It also allows some objects, such as insects or needles, to float on the surface of water, if they do not break the surface.
+- Surface tension can be measured using a force gauge, which measures the force required to pull a ring or a plate out of the liquid surface. Surface tension can also be measured using a stalagmometer, which measures the number of drops of liquid that fall from a capillary tube under gravity.
+- Viscosity is a measure of how resistant a fluid is to flow. It is defined as the ratio of the shear stress to the shear rate in a fluid. Viscosity = τ/γ
+- The shear stress is the force per unit area that is applied parallel to the surface of the fluid. The shear rate is the rate of change of velocity per unit distance in the direction perpendicular to the surface of the fluid.
+- Viscosity depends on the temperature and the composition of the fluid. Generally, viscosity decreases as temperature increases, and increases as the fluid becomes more complex or concentrated.
+- Viscosity can be measured using a viscometer, which is a device that measures the time it takes for a fluid to flow through a tube or a gap under a fixed pressure difference. Viscosity can also be measured using a rheometer, which is a device that measures the torque required to rotate a cylinder or a plate in a fluid.

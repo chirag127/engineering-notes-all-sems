@@ -1,0 +1,23 @@
+The Oldham-Hackman Job Characteristic Model in SPM
+
+- The Oldham-Hackman Job Characteristic Model is a framework that businesses use to design jobs that facilitate employee motivation.
+- The model is based on the idea that the key to maintaining motivation is in the job itself . It assumes that employees are more satisfied and productive when their jobs are enriched with certain characteristics.
+- The model identifies five core job characteristics that affect three psychological states of employees, which in turn influence their work outcomes.
+- The five core job characteristics are:
+  - Skill variety: the degree to which a job requires a variety of different activities and skills.
+  - Task identity: the degree to which a job involves completing a whole, identifiable piece of work .
+  - Task significance: the degree to which a job has a substantial impact on the lives or work of other people.
+  - Autonomy: the degree to which a job provides freedom, independence, and discretion to the individual in scheduling the work and determining the procedures to be used.
+  - Feedback: the degree to which carrying out the work activities required by a job results in the individual obtaining direct and clear information about the effectiveness of his or her performance.
+- The three psychological states of employees are:
+  - Experienced meaningfulness of the work: the degree to which the individual experiences the job as intrinsically meaningful and worthwhile.
+  - Experienced responsibility for outcomes of the work: the degree to which the individual feels personally accountable and responsible for the results of the work.
+  - Knowledge of the actual results of the work activities: the degree to which the individual knows and understands, on a continuous basis, how effectively he or she is performing the job.
+- The work outcomes of employees are:
+  - Motivation: the internal drive to perform the job well.
+  - Performance: the effectiveness and efficiency of the individual's work.
+  - Satisfaction: the degree to which the individual is happy and content with the job.
+  - Absenteeism: the frequency and duration of the individual's absence from work.
+  - Turnover: the rate at which the individual leaves the organization.
+- The model also proposes that the relationship between the core job characteristics and the psychological states is moderated by the individual's growth need strength, which is the degree to which the individual desires to develop and grow personally and professionally.
+- The model suggests that managers can use job design techniques such as job rotation, job enlargement, job enrichment, and job crafting to increase the core job characteristics and enhance the employee's motivation, performance, and satisfaction  .

@@ -1,0 +1,16 @@
+## Course Outcome Bloom’s
+- Course outcome Bloom’s is a framework for designing and assessing learning outcomes in educational settings.
+- It is based on the idea that learning involves different levels of cognitive processes, from lower-order skills such as remembering and understanding, to higher-order skills such as analyzing, evaluating and creating.
+- Bloom’s taxonomy consists of six categories of cognitive skills, arranged in a hierarchical order from lower to higher:
+  - Remember: Recall facts and basic concepts from memory.
+  - Understand: Explain ideas or concepts in one’s own words, or interpret information in different forms.
+  - Apply: Use knowledge or skills to solve problems or perform tasks in familiar or new situations.
+  - Analyze: Break down complex information into simpler parts, or identify relationships and patterns among elements.
+  - Evaluate: Make judgments or decisions based on criteria and standards, or justify one’s opinions or actions.
+  - Create: Generate new ideas or products, or combine existing elements in novel ways.
+- Each category of cognitive skills can be further divided into subcategories or verbs that describe specific learning outcomes. For example, the category of remember can include verbs such as define, list, name, recall, etc.
+- Course outcome Bloom’s can be used to:
+  - Define clear and measurable learning outcomes for a course or a unit of study, using appropriate verbs from the taxonomy.
+  - Align learning activities and assessments with the intended learning outcomes, ensuring that they match the level of cognitive skills required.
+  - Evaluate the effectiveness of the course or the unit of study, by measuring the extent to which the learning outcomes have been achieved by the learners.
+  - Enhance the quality of teaching and learning, by providing feedback and guidance to the learners and the instructors on how to improve their performance and progress.

@@ -1,0 +1,7 @@
+### Trade in Ancient India
+
+- Trade and commerce were important aspects of ancient Indian civilization. India had extensive contacts with other regions through land and sea routes, and exchanged various goods, ideas, and technologies.
+- India was known for its production and export of spices, textiles, metals, gems, and other commodities. Some of the main items of trade were pepper, cinnamon, cardamom, turmeric, ginger, cotton, silk, iron, copper, gold, silver, ivory, pearls, coral, and lapis lazuli.  
+- India's trade partners included regions such as Mesopotamia, Egypt, Persia, Greece, Rome, China, Southeast Asia, and Africa. Some of the important trade centers in ancient India were Taxila, Ujjain, Pataliputra, Kanchi, Madurai, Broach, Tamralipti, and Muziris.  
+- India's trade was facilitated by various means of transport, such as roads, rivers, canals, and ships. The traders used carts, boats, camels, horses, and elephants to carry their goods. The traders also formed guilds and associations to protect their interests and regulate their activities.  
+- India's trade was influenced by various factors, such as political stability, taxation, currency, law and order, and cultural exchange. The trade also had an impact on the economy, society, religion, and art of ancient India and its trading partners.

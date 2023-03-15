@@ -1,0 +1,8 @@
+# Water
+
+- Water is a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states.
+- Water is a tiny molecule that consists of three atoms: two of hydrogen and one of oxygen. Water molecules cling to each other because of a force called hydrogen bonding.
+- Water is one of the most plentiful and essential of compounds. It has the important ability to dissolve many other substances. It is also a shape-shifter that exists in three states on Earth: liquid, gas, and solid .
+- Water is the liquid that makes life on Earth possible. All living things, from tiny cyanobacteria to giant blue whales, need water to survive. Water cycles from the air to the land to the sea and back again, water shapes our planet and nearly every aspect of our lives.
+- Water is also a vital resource for human activities, such as drinking, cooking, washing, agriculture, industry, and energy production. Water is supplied by natural sources, such as rivers, lakes, glaciers, and groundwater, and by human-made sources, such as dams, reservoirs, wells, and pipes. Water is treated and distributed by water utilities to ensure its quality and availability.
+- Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance, and it is the main constituent of Earth's hydrosphere and the fluids of all known living organisms (in which it acts as a solvent).

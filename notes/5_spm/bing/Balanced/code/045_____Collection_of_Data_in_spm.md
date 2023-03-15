@@ -1,0 +1,21 @@
+### Collection of Data in spm
+
+- Data collection is the process of gathering and measuring information on variables of interest in a software project management (SPM) context.
+- Data collection is essential for SPM because it helps to monitor the progress, quality, and performance of the software project, as well as to identify and resolve issues, risks, and opportunities.
+- Data collection methods in SPM can be classified into two types: primary and secondary.
+  - Primary data collection methods involve obtaining new data directly from the sources, such as stakeholders, users, developers, testers, etc.
+  - Secondary data collection methods involve analysing existing data that has been collected by others, such as previous projects, reports, databases, etc.
+- Some of the common data collection methods in SPM are:
+  - Interviews: Personal interviews are a great way to collect data in SPM. These can be conducted in person, over the phone, or online. Interviews allow for in-depth and detailed information gathering, as well as for clarifying and verifying data. Interviews can be structured, semi-structured, or unstructured, depending on the level of flexibility and guidance needed.
+  - Surveys: Surveys are a common method used to collect data in SPM. This can include online surveys, paper surveys, or even in-person surveys. Surveys allow for collecting data from a large number of respondents in a relatively short time, as well as for quantifying and comparing data. Surveys can be closed-ended, open-ended, or mixed, depending on the type of questions and responses needed.
+  - Focus Groups: Focus groups are an important method of collecting data in SPM. This involves gathering a small group of people who share some common characteristics or interests related to the software project, and facilitating a discussion on a specific topic or issue. Focus groups allow for exploring opinions, attitudes, perceptions, and experiences of the participants, as well as for generating new ideas and insights.
+  - Observation: Observation is a method of collecting data in SPM by watching and recording the behaviour, actions, or events of the software project or its stakeholders. Observation can be direct or indirect, participant or non-participant, structured or unstructured, depending on the level of involvement and control of the observer. Observation allows for capturing the reality and context of the software project, as well as for identifying patterns and trends.
+  - Secondary Data Analysis: Secondary data analysis is a way to collect data in SPM without the need for primary data collection. This type of data collection involves analysing data that has already been collected by others, such as previous projects, reports, databases, etc. Secondary data analysis allows for saving time and resources, as well as for validating and complementing primary data.
+  - Attributes: An Attribute is a specific metric or log you wish to collect data for–such as CPU load average or response time–and is associated with a Configuration Item (CI). An Attribute can refer to a metric obtained via any of FireScope SPM’ data collection methods.
+- Data collection in SPM should follow some general principles, such as:
+  - Define the purpose and scope of data collection, such as the research questions, objectives, and hypotheses.
+  - Select the appropriate data collection methods, based on the type, quality, and quantity of data needed, as well as the availability, feasibility, and cost of the methods.
+  - Design and test the data collection instruments, such as the interview questions, survey questions, observation checklist, etc.
+  - Implement and monitor the data collection process, such as the sampling, recruitment, consent, administration, recording, etc.
+  - Analyse and interpret the data collected, such as the coding, cleaning, summarizing, visualizing, testing, etc.
+  - Report and communicate the data collected, such as the findings, conclusions, recommendations, etc.

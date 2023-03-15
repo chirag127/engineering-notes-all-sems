@@ -1,0 +1,13 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually hard, transparent or translucent, and brittle solids or semi-solids.
+- Resins are widely used in various industries such as paints, adhesives, coatings, plastics, and cosmetics.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+- Thermoplastic resins are resins that can be softened by heating and hardened by cooling, and can be reshaped repeatedly. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, and polyvinyl chloride (PVC).
+- Thermosetting resins are resins that undergo irreversible chemical reactions when heated, and form cross-linked networks that cannot be melted or reshaped. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, and polyester.
+- The preparation of different resins involves various steps such as polymerization, condensation, curing, and cross-linking.
+- Polymerization is the process of joining small molecules called monomers to form long chains called polymers. Polymerization can be initiated by heat, light, catalysts, or initiators. Polymerization can be classified into two types: addition and condensation.
+- Addition polymerization is the process of adding monomers to a growing polymer chain without the elimination of any by-products. Examples of addition polymerization are the formation of polyethylene from ethylene, and the formation of polystyrene from styrene.
+- Condensation polymerization is the process of joining monomers to form a polymer chain with the elimination of a small molecule such as water, alcohol, or ammonia. Examples of condensation polymerization are the formation of nylon from hexamethylene diamine and adipic acid, and the formation of polyester from ethylene glycol and terephthalic acid.
+- Curing is the process of hardening a thermosetting resin by heating, cooling, or exposing it to radiation or chemicals. Curing causes the polymer chains to form cross-links that increase the strength and rigidity of the resin.
+- Cross-linking is the process of forming covalent bonds between different polymer chains or segments. Cross-linking can be induced by heat, light, catalysts, or cross-linking agents. Cross-linking improves the mechanical, thermal, and chemical properties of the resin.

@@ -1,0 +1,8 @@
+#### Software based self-guided learning to provide the required English language proficiency to students from an employability and career readiness standpoint. The software should align to Common European Framework of Reference for Languages (CEFR) and deliver a CEFR level – B2 upon completion.
+
+- Software-based self-guided learning is a method of learning that utilizes technology to provide students with the necessary English language proficiency for employability and career readiness.
+- The software should align with the Common European Framework of Reference for Languages (CEFR), which is a widely accepted standard for describing language proficiency.
+- Upon completion of the program, students should achieve a CEFR level of B2, which indicates that they have the ability to communicate effectively in English in a variety of situations.
+- This type of learning allows students to work at their own pace and on their own schedule, making it a flexible and convenient option for those looking to improve their English language skills.
+- The use of technology in language learning can provide students with a more interactive and engaging experience, helping to improve their motivation and retention of the material.
+- By achieving a CEFR level of B2, students will have the necessary language skills to succeed in a professional environment, making them more competitive in the job market.

@@ -1,0 +1,23 @@
+### Fibre Optics: Principle and construction of optical fiber
+
+- Fibre optics is the science of transmitting data, voice, and images by the passage of light through thin, transparent fibers.
+- Optical fibers are flexible, transparent fibers made by drawing glass or plastic to a diameter slightly thicker than that of a human hair.
+- Optical fibers work on the principle of total internal reflection of light, which means that no part of the light signal gets refracted or transmitted to the second medium, but instead, all of the signal is retained inside the fiber .
+- The basic structure of an optical fiber consists of three parts: the core, the cladding, and the protective layer .
+  - The core is the innermost part of the fiber, where the light is transmitted. It has a higher refractive index than the cladding, which is the concentric layer of lower refractive index glass that surrounds the core. The difference in refractive index ensures that the light is totally internally reflected at the core-cladding interface .
+  - The protective layer is the outermost part of the fiber, which provides mechanical strength and protection from environmental factors. It is usually made of plastic or polymer .
+- There are two main types of optical fibers: single-mode and multi-mode.
+  - Single-mode fibers have a very thin core, typically 8 to 10 micrometers in diameter, and can carry only one mode of light. They have lower attenuation and higher bandwidth than multi-mode fibers, and are used for long-distance and high-speed communication.
+  - Multi-mode fibers have a thicker core, typically 50 to 100 micrometers in diameter, and can carry multiple modes of light. They have higher attenuation and lower bandwidth than single-mode fibers, and are used for short-distance and low-speed communication.
+- Optical fibers have many advantages over conventional copper wires, such as:
+  - Higher bandwidth and data transmission rate.
+  - Lower attenuation and signal loss.
+  - Immunity to electromagnetic interference and noise.
+  - Smaller size and weight.
+  - Higher security and reliability.
+- Optical fibers have many applications in various fields, such as:
+  - Telecommunications, such as telephone, internet, and cable TV.
+  - Medicine, such as endoscopy, laser surgery, and biomedical sensing.
+  - Industry, such as fiber-optic sensors, fiber lasers, and fiber-optic gyroscopes.
+  - Military, such as secure communication, surveillance, and guidance systems.
+  - Research, such as astronomy, spectroscopy, and quantum optics.

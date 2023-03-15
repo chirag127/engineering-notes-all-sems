@@ -1,0 +1,24 @@
+# Calibration of Analytical Equipment and Apparatus
+
+- Calibration is the process of verifying the accuracy and precision of an analytical instrument or device by comparing its measurements with a known standard of reference.
+- Calibration ensures that the instrument or device is functioning properly and producing reliable and consistent results within the specified limits of error.
+- Calibration is essential for maintaining the quality and validity of analytical data and for complying with the regulatory and quality standards.
+- Calibration should be performed periodically, before and after each use, or whenever there is a change in the operating conditions or performance of the instrument or device.
+- Calibration should be documented and recorded in a calibration log or certificate that includes the date, time, operator, standard used, calibration method, results, and any corrective actions taken.
+- Calibration methods vary depending on the type and purpose of the instrument or device, but generally involve the following steps:
+  - Selecting an appropriate standard of reference that has a known or certified value and is traceable to a national or international standard.
+  - Preparing the instrument or device for calibration by ensuring that it is clean, stable, and in good working condition.
+  - Performing the calibration procedure by applying the standard to the instrument or device and measuring its response or output.
+  - Comparing the measured response or output with the expected value of the standard and calculating the error or deviation.
+  - Adjusting the instrument or device if the error or deviation exceeds the acceptable limits or specifications.
+  - Repeating the calibration procedure until the instrument or device meets the required accuracy and precision criteria.
+  - Confirming the calibration by testing the instrument or device with a different standard or sample and verifying that the results are within the expected range.
+- Examples of analytical equipment and apparatus that require calibration include:
+  - Balances and weighing devices that measure mass or weight of samples and reagents.
+  - Volumetric devices that measure volume or deliver liquid samples and reagents, such as pipettes, burettes, flasks, and cylinders.
+  - Spectrophotometers and colorimeters that measure the absorbance or transmittance of light by samples and reagents.
+  - pH meters and electrodes that measure the acidity or alkalinity of solutions.
+  - Thermometers and thermocouples that measure the temperature of samples and reagents.
+  - Pressure gauges and manometers that measure the pressure of gases and liquids.
+  - Conductivity meters and electrodes that measure the electrical conductivity of solutions.
+  - Chromatographs and detectors that separate and quantify the components of mixtures.

@@ -1,0 +1,10 @@
+### Vedic Religion in India
+
+- Vedic religion was the religion of the ancient Indo-European-speaking peoples who entered India about 1500 BCE from the region of present-day Iran.
+- It takes its name from the collections of sacred texts known as the Vedas, which are the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism.
+- There are four Vedas: the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda. Each Veda consists of four parts: the Samhitas (hymns), the Brahmanas (ritual instructions), the Aranyakas (forest texts) and the Upanishads (philosophical discourses).
+- Vedic religion was based on the performance of sacrifices (yajna) to various gods (devas) who represented natural forces and cosmic principles. The priests (brahmins) were the mediators between the human and the divine realms.
+- Vedic religion also had a strong ethical dimension, as the concept of karma (action and its consequences) and dharma (duty and cosmic order) were central to its worldview. The Vedic texts also contain hymns, myths, cosmogonies, cosmologies, genealogies, legends, rituals, laws, moral codes and ethical teachings.
+- Vedic religion gradually evolved into Brahmanism or Brahminism, which emphasized the supremacy of the brahmins and the authority of the Vedas. Brahmanism also developed the doctrines of reincarnation, transmigration of souls, liberation (moksha) and the four stages of life (ashrama).
+- Vedic religion influenced and was influenced by other religious traditions in India, such as Buddhism, Jainism, Shaivism, Vaishnavism and Shaktism. Some of these traditions rejected the authority of the Vedas and the brahmins, and offered alternative paths to salvation.
+- Vedic religion is the oldest stratum of religious activity in India for which there exist written materials. It is considered the precursor of Hinduism, which is the dominant religion in India today.

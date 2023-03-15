@@ -1,0 +1,8 @@
+### 5. To enable the students to understand about the synthesis of organic compounds such as adipic acid and paracetamol by conventional and green route.
+
+- Adipic acid is a dicarboxylic acid that is used as a raw material for the production of nylon-6,6, a synthetic polymer widely used in various applications.
+- Paracetamol is an analgesic and antipyretic drug that is commonly used to relieve pain and fever.
+- Conventional route of synthesis of adipic acid involves the oxidation of cyclohexane or a mixture of cyclohexanol and cyclohexanone with nitric acid, which produces large amounts of nitrous oxide, a greenhouse gas and an ozone-depleting agent.
+- Conventional route of synthesis of paracetamol involves the acetylation of phenol with acetic anhydride, which produces acetic acid as a by-product and requires high temperature and pressure.
+- Green route of synthesis of adipic acid involves the oxidation of cyclohexene with hydrogen peroxide in a microemulsion, in the presence of a catalyst such as sodium tungstate. This process is environmentally friendly as it produces pure adipic acid in high yield, and the catalyst and the surfactant can be recycled and reused.
+- Green route of synthesis of paracetamol involves the reaction of 4-aminophenol with acetic acid in water, in the presence of a catalyst such as sodium bicarbonate. This process is also environmentally friendly as it produces paracetamol in high yield, and the catalyst and the solvent can be recovered and reused.

@@ -1,0 +1,8 @@
+### 2. Manual of Practical Communication by L.U.B. Pandey; A.I.T.B.S. Publications India Ltd.; Krishan Nagar,2013, Delhi
+
+- This is a book that covers various aspects of communication skills, such as listening, speaking, reading, writing, and non-verbal communication.
+- The book is divided into four parts: Part I deals with the basics of communication, such as the process, types, barriers, and models of communication. Part II focuses on the oral communication skills, such as pronunciation, intonation, stress, and accent. Part III covers the written communication skills, such as grammar, vocabulary, punctuation, and spelling. Part IV discusses the non-verbal communication skills, such as body language, gestures, and facial expressions.
+- The book is designed for students and professionals who want to improve their communication skills in various contexts, such as academic, professional, social, and personal.
+- The book provides practical examples, exercises, and activities to help the readers practice and apply the concepts and skills learned from the book.
+- The book also includes a glossary of key terms, a bibliography of references, and an index for easy access to the topics covered in the book.
+- The book is written by L.U.B. Pandey, a professor of English and communication skills at the Indian Institute of Technology, Delhi, and R.P. Singh, a professor of psychology and communication skills at the University of Delhi   .

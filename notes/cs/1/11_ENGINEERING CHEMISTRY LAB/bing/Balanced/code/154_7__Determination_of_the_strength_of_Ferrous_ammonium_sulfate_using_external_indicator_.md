@@ -1,0 +1,13 @@
+# Determination of the strength of Ferrous ammonium sulfate using external indicator
+
+- Ferrous ammonium sulfate, also known as Mohr's salt, is a light green crystalline salt with the formula (NH4)2Fe(SO4)2.6H2O. It is used as a reducing agent in redox titrations.
+- An external indicator is a substance that changes color when added to the titration flask after the end point has been reached. It is used to confirm the end point of the titration and to avoid over-titration.
+- Potassium ferricyanide, K3[Fe(CN)6], is a common external indicator for redox titrations involving ferrous ammonium sulfate and potassium dichromate, K2Cr2O7. It forms a blue precipitate of Prussian blue, Fe4[Fe(CN)6]3, when it reacts with excess ferrous ions.
+- The procedure for determining the strength of ferrous ammonium sulfate using external indicator is as follows:
+
+  - Prepare a standard solution of potassium dichromate by dissolving a known mass of the salt in distilled water and making up the volume to a known volume in a volumetric flask. The normality of the solution can be calculated by dividing the mass of the salt by its equivalent weight (49.04 g).
+  - Pipette out a known volume of the standard potassium dichromate solution into a conical flask and add a few drops of sulfuric acid to acidify the solution. This is necessary to prevent the oxidation of ferrous ions to ferric ions by atmospheric oxygen.
+  - Fill a burette with the unknown ferrous ammonium sulfate solution and note the initial reading. Titrate the solution against the standard potassium dichromate solution until a faint green color is observed. This indicates the end point of the titration, where all the ferrous ions have been oxidized to ferric ions by the dichromate ions.
+  - Add a few drops of potassium ferricyanide solution to the titration flask and observe the color change. If a blue precipitate is formed, it means that there is still some ferrous ions left in the solution and the titration is incomplete. If no color change is observed, it means that the titration is complete and the end point has been confirmed.
+  - Note the final reading of the burette and calculate the volume of the ferrous ammonium sulfate solution used. The normality of the solution can be calculated by applying the formula N1V1 = N2V2, where N1 and N2 are the normalities and V1 and V2 are the volumes of the ferrous ammonium sulfate and potassium dichromate solutions, respectively.
+  - Repeat the titration for two more times and take the average of the normalities. The strength of the ferrous ammonium sulfate solution can be calculated by multiplying the normality by its equivalent weight (392.14 g).

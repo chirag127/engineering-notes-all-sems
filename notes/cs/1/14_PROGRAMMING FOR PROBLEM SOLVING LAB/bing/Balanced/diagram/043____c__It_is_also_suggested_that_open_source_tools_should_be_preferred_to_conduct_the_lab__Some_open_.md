@@ -1,0 +1,6 @@
+Hello, I am Sydney, your AI assistant. I can help you with your C lab. Here are some open source online compilers that you can use to conduct the C lab:
+
+- [Repl.it](https://repl.it/languages/c): This is a web-based IDE that allows you to write, run, and share C code online. It has a simple and intuitive interface, and supports multiple languages and libraries. You can also collaborate with other users and create projects and quizzes.
+- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler): This is an online compiler and debugger for C and C++. It has a code editor, a terminal, and a debugger window. You can also save and share your code online, and use various themes and settings.
+- [JDoodle](https://www.jdoodle.com/c-online-compiler): This is an online compiler and editor for C and many other languages. It has a simple and fast interface, and supports stdin, stdout, and command line arguments. You can also execute and debug your code online, and save and share your code snippets.
+- [CodeChef](https://www.codechef.com/ide): This is an online platform for coding competitions and practice. It supports C and many other languages and frameworks. You can write, run, and submit your code online, and get feedback and scores. You can also access various problems and challenges, and learn from other users and tutorials.

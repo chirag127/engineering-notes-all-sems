@@ -1,0 +1,11 @@
+# Theatre as Cultural Heritage of India
+
+- Theatre is one of the oldest and most diverse forms of artistic expression in India, dating back to the Vedic period (1500-500 BCE).
+- Theatre in India has been influenced by various religious, social, cultural, and linguistic factors, and has developed into various regional and classical styles.
+- Some of the major forms of theatre in India are:
+
+  - **Sanskrit theatre**: This is the classical form of theatre that originated from the Natya Shastra, a treatise on dramaturgy written by Bharata Muni around 500 BCE. Sanskrit theatre is based on the principles of rasa (aesthetic emotion), dhvani (suggestion), and alamkara (ornamentation). Sanskrit theatre is characterized by elaborate costumes, masks, gestures, and music. Some of the famous Sanskrit plays are Abhijnanasakuntalam by Kalidasa, Mrcchakatika by Sudraka, and Mudrarakshasa by Visakhadatta.
+  - **Folk theatre**: This is the traditional form of theatre that reflects the local culture, identity, and communication of various communities in India. Folk theatre is usually performed in open-air venues, with minimal props and scenery, and involves music, dance, and improvisation. Folk theatre is often associated with festivals, rituals, and social issues. Some of the popular folk theatre forms are Nautanki from Uttar Pradesh, Tamasha from Maharashtra, Jatra from Bengal, Bhavai from Gujarat, and Yakshagana from Karnataka.
+  - **Modern theatre**: This is the contemporary form of theatre that emerged in the 19th and 20th centuries, influenced by the Western theatre, social reform movements, and nationalism. Modern theatre is marked by realism, experimentation, and innovation, and deals with themes such as colonialism, independence, urbanization, and globalization. Some of the prominent modern theatre personalities are Rabindranath Tagore, Mohan Rakesh, Vijay Tendulkar, Girish Karnad, and Mahesh Dattani.
+
+- Theatre in India is a rich and vibrant cultural heritage that showcases the diversity, creativity, and dynamism of the Indian society. Theatre in India is also a medium of education, entertainment, and empowerment, and has a significant role in preserving and promoting the Indian culture.

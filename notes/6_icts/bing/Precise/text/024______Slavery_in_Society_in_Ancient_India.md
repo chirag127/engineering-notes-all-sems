@@ -1,0 +1,6 @@
+#### Slavery in Society in Ancient India
+
+- When Megasthenes came to India in the 4th Century B.C., he found that slavery system was unknown to the Ancient Indian society. He declared all the Indians are free and that slaves do not exist in India.
+- However, Megasthenes’ observations about the non-existence of slavery in Ancient India are not supported by available evidences. From the Smritis and other Hindu Law Books, it is clear that slavery was a recognized institution in India in the Vedic Age. The Rig Veda mentions the non-Aryan enemies of the Aryans as Dasyu and Dasa.
+- Slavery existed in ancient India, where it is recorded in the Sanskrit Laws of Manu of the 1st century BCE. The institution was little documented until the British colonials in the 19th century made it an object of study because of their desire to abolish it.
+- Slavery and empire-formation tied in particularly well with iqta and it is within this context of Islamic expansion that elite slavery was later commonly found. It became the predominant system in North India in the thirteenth century and retained considerable importance in the fourteenth century.

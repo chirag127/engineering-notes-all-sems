@@ -1,0 +1,14 @@
+#### Software based self-guided learning to provide the required English language proficiency to students from an employability and career readiness standpoint. The software should align to Common European Framework of Reference for Languages (CEFR) and deliver a CEFR level – B2 upon completion.
+
+- Software based self-guided learning is a type of learning that uses computer programs or applications to deliver content, feedback, and assessment to learners who can control their own pace, path, and goals.
+- The required English language proficiency for students from an employability and career readiness standpoint is the ability to communicate effectively in English in various professional contexts, such as writing reports, giving presentations, participating in meetings, and negotiating with clients or colleagues.
+- The Common European Framework of Reference for Languages (CEFR) is a set of standards that describe the levels of language competence for learners and teachers of languages. It covers six levels from A1 (beginner) to C2 (proficient), and defines what learners can do in different skills (listening, reading, speaking, and writing) at each level.
+- CEFR level B2 is the upper-intermediate level of language competence, which means that learners can understand the main ideas of complex texts, interact with a degree of fluency and spontaneity, produce clear and detailed texts on a range of topics, and explain their viewpoints on current issues.
+- A software based self-guided learning program that can deliver a CEFR level B2 upon completion should have the following features:
+
+  - It should provide a comprehensive and balanced curriculum that covers all the four skills (listening, reading, speaking, and writing) and the relevant vocabulary, grammar, and pronunciation for the B2 level.
+  - It should offer a variety of authentic and engaging materials that reflect the real-world situations and tasks that learners may encounter in their professional lives, such as podcasts, articles, videos, emails, reports, etc.
+  - It should allow learners to customize their learning experience according to their preferences, needs, and goals, such as choosing the topics, difficulty levels, modes of delivery, and feedback options.
+  - It should provide learners with immediate and constructive feedback on their performance, progress, and areas for improvement, such as quizzes, tests, self-assessments, peer reviews, etc.
+  - It should enable learners to practice and improve their speaking and writing skills through interactive and collaborative activities, such as simulations, role-plays, discussions, peer editing, etc.
+  - It should monitor and track learners' achievements and learning outcomes, such as certificates, badges, portfolios, etc.

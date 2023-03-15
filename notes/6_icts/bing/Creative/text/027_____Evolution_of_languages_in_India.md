@@ -1,0 +1,14 @@
+### Evolution of languages in India
+
+- India is a multilingual country with over 780 languages spoken by its people.
+- The linguistic history of India can be traced back to the prehistoric times when various language families emerged and interacted with each other.
+- The major language families in India are the Indo-Aryan, the Dravidian, the Austroasiatic and the Sino-Tibetan.
+- The Indo-Aryan languages are derived from the Indo-European languages that originated in Central Asia and spread to India through migrations and invasions. They are spoken by about 75% of the population and include languages such as Hindi, Bengali, Marathi, Urdu, Punjabi and Gujarati.
+- The Dravidian languages are native to South India and are spoken by about 20% of the population. They include languages such as Tamil, Telugu, Kannada, Malayalam and Tulu. The origin and relationship of the Dravidian languages with other language families are still debated by scholars.
+- The Austroasiatic languages are spoken by about 3% of the population, mostly in the eastern and central regions of India. They include languages such as Santali, Mundari, Khasi and Munda. They are believed to be the oldest languages in India and have influenced the Indo-Aryan and the Dravidian languages.
+- The Sino-Tibetan languages are spoken by about 1% of the population, mostly in the northeastern and northern regions of India. They include languages such as Tibetan, Manipuri, Bodo and Meitei. They are related to the languages spoken in China, Tibet, Myanmar and other neighboring countries.
+- Apart from these language families, there are also some isolated languages such as Burushaski, Nihali and Andamanese that do not belong to any known language family.
+- The evolution of Indian languages is also influenced by the contact and exchange with other cultures and languages, such as Persian, Arabic, Turkish, Portuguese, French and English  .
+- English, in particular, has played a significant role in the linguistic development of India since the colonial period. It is the official language of the Indian Union along with Hindi and is spoken as a second language by about 10% of the educated population. It has also enriched the Indian languages with many loanwords, expressions and grammatical features.
+- The Indian languages are also dynamic and diverse, reflecting the social, cultural and regional variations of the speakers. They have developed many dialects, registers, styles and genres to suit different purposes and contexts.
+- The Indian languages are also a source of identity, pride and heritage for the people of India. They are a part of the rich and complex linguistic history of the subcontinent that continues to evolve and adapt to the changing times.

@@ -1,0 +1,5 @@
+#### Monochromatic and Polychromatic Light
+
+- Monochromatic light is light that has only one wavelength or frequency, and therefore only one color. For example, a laser beam is monochromatic light. Monochromatic light sources can be used for applications that require high spectral purity, such as spectroscopy, interferometry, or optical communication.   
+- Polychromatic light is light that has more than one wavelength or frequency, and therefore more than one color. For example, white light is polychromatic light, because it is a combination of different wavelengths of visible light. Polychromatic light sources can be used for applications that require a broad spectrum, such as illumination, photography, or colorimetry.   
+- Monochromatic and polychromatic light can be separated or filtered using devices such as prisms, gratings, or monochromators. These devices use the phenomenon of dispersion or diffraction to split light into its constituent wavelengths. A monochromator can select a narrow band of wavelengths from a polychromatic light source, while a prism or a grating can disperse a monochromatic light source into a spectrum.

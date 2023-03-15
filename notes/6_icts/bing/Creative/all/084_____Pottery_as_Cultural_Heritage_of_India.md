@@ -1,0 +1,8 @@
+# Pottery as Cultural Heritage of India
+
+- Pottery is one of the most ancient and enduring forms of artistic expression in India. It is a cultural art that reflects the history, diversity and creativity of the Indian people.
+- Pottery in India dates back to the prehistoric times, as evidenced by the finds of pottery shards in the early settlements of Lahuradewa and Mehargarh .
+- Pottery reached its peak of development during the Indus Valley Civilization (2600-1900 BCE), which produced a variety of pottery types, such as plain, painted, perforated, incised and glazed . The pottery of this civilization was sophisticated and functional, and often decorated with geometric patterns, animal motifs and inscriptions.
+- Pottery in India continued to evolve and diversify over the centuries, influenced by various cultural, religious and regional factors. Different regions of India developed their own distinctive styles, techniques and materials of pottery, such as terracotta, stoneware, porcelain and blue pottery.
+- Pottery in India is not only an art form, but also a way of life for many communities, especially in rural areas. Pottery plays an important role in the daily activities, rituals and festivals of the Indian people. Pottery is used for various purposes, such as cooking, storing, serving, drinking, worshiping and decorating .
+- Pottery in India is also a medium of expression and communication, as it conveys the social, cultural and aesthetic values of the Indian society. Pottery reflects the identity, beliefs, traditions and aspirations of the Indian people. Pottery is a symbol of the rich and diverse heritage of India.

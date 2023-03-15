@@ -1,0 +1,9 @@
+# 1. To facilitate software based learning to provide the required English Language proficiency to students.
+
+- Software based learning is a form of education that uses computer programs, applications, or websites to deliver instruction, feedback, and assessment to students.
+- Software based learning can provide the required English Language proficiency to students by offering the following benefits:
+  - Personalized and adaptive learning: Software based learning can tailor the content, pace, and difficulty of the lessons according to the individual needs, preferences, and goals of each student. This can help students learn at their own level and pace, and address their specific strengths and weaknesses.
+  - Interactive and engaging learning: Software based learning can use multimedia, gamification, and simulations to make the lessons more interesting and motivating for students. This can help students develop their listening, speaking, reading, and writing skills in English, as well as their vocabulary, grammar, and pronunciation.
+  - Feedback and assessment: Software based learning can provide immediate and detailed feedback and assessment to students on their performance, progress, and areas for improvement. This can help students monitor their own learning, identify their mistakes, and revise their work.
+  - Accessibility and flexibility: Software based learning can be accessed anytime and anywhere, as long as there is a device and an internet connection. This can help students learn at their own convenience, and overcome the barriers of time, distance, and cost.
+  - Collaboration and communication: Software based learning can facilitate collaboration and communication among students and teachers, as well as with native and non-native speakers of English. This can help students practice their English skills in authentic and meaningful contexts, and develop their intercultural competence and awareness.

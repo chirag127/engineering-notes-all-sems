@@ -1,0 +1,14 @@
+# 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually solid or semi-solid, and have a high molecular weight.
+- Resins are widely used in various industries, such as paints, adhesives, plastics, rubber, pharmaceuticals, cosmetics, etc.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+- Thermoplastic resins are resins that can be softened by heating and hardened by cooling, and can be reshaped repeatedly. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, etc.
+- Thermosetting resins are resins that undergo irreversible chemical reactions when heated, and form cross-linked networks that cannot be melted or reshaped. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, etc.
+- The preparation of different resins involves various steps, such as polymerization, condensation, curing, etc., depending on the type and properties of the resin.
+- Polymerization is the process of joining small molecules (monomers) to form large molecules (polymers) by covalent bonds. Polymerization can be initiated by heat, light, catalysts, etc. Polymerization can be classified into two types: addition and condensation.
+- Addition polymerization is the process of joining monomers without the elimination of any by-product. Examples of addition polymerization are the formation of polyethylene from ethylene, polypropylene from propylene, etc.
+- Condensation polymerization is the process of joining monomers with the elimination of a small molecule, such as water, alcohol, ammonia, etc. Examples of condensation polymerization are the formation of nylon from hexamethylenediamine and adipic acid, polyester from ethylene glycol and terephthalic acid, etc.
+- Curing is the process of hardening and strengthening a thermosetting resin by forming cross-links between the polymer chains. Curing can be achieved by heat, pressure, catalysts, etc. Curing can be classified into two types: room temperature curing and elevated temperature curing.
+- Room temperature curing is the process of curing a resin at ambient temperature, usually with the addition of a catalyst or a hardener. Examples of room temperature curing are the formation of epoxy resin from epichlorohydrin and bisphenol A, polyurethane resin from diisocyanate and polyol, etc.
+- Elevated temperature curing is the process of curing a resin at a higher temperature, usually with the application of pressure. Examples of elevated temperature curing are the formation of phenol-formaldehyde resin from phenol and formaldehyde, urea-formaldehyde resin from urea and formaldehyde, etc.

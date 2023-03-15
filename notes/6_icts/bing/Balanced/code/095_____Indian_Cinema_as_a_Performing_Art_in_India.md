@@ -1,0 +1,8 @@
+### Indian Cinema as a Performing Art in India
+
+- Indian cinema is a form of artistic expression that combines storytelling, performing arts, and science to create audio-visual narratives that reflect the culture, history, and diversity of India .
+- Indian cinema has a rich and varied history that spans over a century, from the silent era to the present day, and encompasses different genres, languages, and regions.
+- Indian cinema has been influenced by and has influenced other forms of performing arts in India, such as theater, music, dance, and folk arts .
+- Indian cinema has also been shaped by the social, political, and economic changes that have occurred in India since its independence in 1947, and has addressed various issues and themes that are relevant to the Indian society and identity.
+- Indian cinema has developed its own aesthetic principles and conventions, such as the rasa theory, which is derived from the ancient treatise on dramaturgy, the Natyasastra. The rasa theory posits that the aim of any artistic performance is to evoke one or more of the nine basic emotions (pathos, love, anger, humor, wonder, terror, heroism, serenity, and terror) in the audience .
+- Indian cinema has also been recognized and appreciated globally for its artistic merit, cultural diversity, and commercial success, and has contributed to the promotion and preservation of the Indian heritage and values.

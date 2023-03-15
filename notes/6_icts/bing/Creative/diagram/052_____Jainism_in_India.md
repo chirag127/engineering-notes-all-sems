@@ -1,0 +1,10 @@
+### Jainism in India
+
+- Jainism is an Indian religion that teaches the path to spiritual purity and enlightenment through nonviolence and reducing harm to all living beings .
+- Jainism originated in India at least 2,500 years ago and is one of the oldest religions in the world . It is also one of the three most ancient Indian religious traditions along with Hinduism and Buddhism.
+- The spiritual goal of Jainism is to attain moksha, or liberation from the cycle of rebirth, by following the three jewels of right perception, right knowledge and right conduct .
+- Jains believe in the existence of eternal souls (jivas) and non-soul substances (ajivas) that make up the universe . They also believe in the concept of karma, which binds the souls to the cycle of rebirth according to their actions .
+- Jains follow the five vows of ahimsa (nonviolence), satya (truthfulness), asteya (non-stealing), brahmacharya (celibacy or chastity) and aparigraha (non-attachment or non-possessiveness) . These vows are observed more strictly by the ascetics (monks and nuns) than by the lay followers (householders) .
+- Jains worship the 24 tirthankaras, or spiritual teachers, who have attained moksha and shown the way to others . The most recent and prominent tirthankara is Mahavira, who lived in the 6th century BCE and is considered the founder of Jainism by some scholars .
+- Jains have built many temples, shrines and monuments across India, especially in places associated with the tirthankaras, such as Rajgir, Shravanabelagola, Palitana and Ranakpur . They also celebrate various festivals, such as Paryushana, Mahavir Jayanti, Diwali and Kshamavani .
+- Jains are a small but influential minority in India, constituting about 0.4% of the population, or about 4.5 million people . They are mostly concentrated in the states of Maharashtra, Rajasthan, Gujarat and Karnataka. They are also the most affluent and educated religious group in India, with a majority belonging to the higher General Category caste. They have contributed significantly to the fields of business, education, politics, arts and culture in India.

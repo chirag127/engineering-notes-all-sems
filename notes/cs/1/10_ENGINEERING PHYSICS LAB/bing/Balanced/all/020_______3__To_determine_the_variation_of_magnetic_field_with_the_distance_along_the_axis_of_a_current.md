@@ -1,0 +1,12 @@
+##### 3. To determine the variation of magnetic field with the distance along the axis of a current
+
+- The objective of this experiment is to measure the magnetic field produced by a circular coil carrying a steady current at different distances along its axis, and to verify the theoretical relation between the magnetic field and the distance.
+- The apparatus required for this experiment are: a circular coil of known radius and number of turns, a constant current source, an ammeter, a compass needle, a meter scale, a stand, and connecting wires.
+- The procedure of this experiment is as follows:
+
+  - Connect the circular coil to the constant current source and the ammeter in series. Adjust the current to a suitable value and note it down.
+  - Place the coil horizontally on a table and fix it on a stand. Place the compass needle at the center of the coil and note the deflection of the needle. This deflection is due to the magnetic field of the coil along its axis.
+  - Move the compass needle away from the center of the coil along its axis and note the deflection at different distances. Repeat this for both sides of the coil.
+  - Plot a graph of the magnetic field versus the distance along the axis of the coil. The magnetic field can be calculated from the deflection of the needle using the relation: B = k tan θ, where k is a constant, and θ is the deflection angle.
+  - Compare the experimental graph with the theoretical graph, which is given by the relation: B = (μ₀NI/2)(R²/(R² + x²)^(3/2)), where μ₀ is the permeability of free space, N is the number of turns of the coil, I is the current, R is the radius of the coil, and x is the distance along the axis of the coil.
+  - Discuss the sources of error and the precautions to be taken in this experiment. Some possible sources of error are: the presence of external magnetic fields, the variation of current, the alignment of the coil and the compass needle, the parallax error in reading the deflection, and the non-uniformity of the coil. Some possible precautions are: to use a shielded coil, to keep the current constant, to align the coil and the compass needle carefully, to read the deflection from the eye level, and to use a uniform coil.

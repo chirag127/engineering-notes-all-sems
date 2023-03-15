@@ -1,0 +1,12 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a procedure that tests a hypothesis or a question by collecting and analyzing data under controlled conditions.
+- Experiments can be classified into different types based on their purpose, design, and outcome.
+- Some of the common types of experiments are:
+
+  - **Observational experiment**: An experiment that involves observing and measuring the behavior or characteristics of a subject or a phenomenon without manipulating any variables. For example, observing the movement of planets in the solar system, or measuring the blood pressure of patients in a hospital.
+  - **Experimental or intervention experiment**: An experiment that involves manipulating one or more variables (called independent variables) and measuring their effect on another variable (called dependent variable). For example, testing the effect of different doses of a drug on the blood pressure of patients, or comparing the performance of two groups of students who received different types of instruction.
+  - **Natural experiment**: An experiment that exploits a natural occurrence or a historical event that creates a situation where the independent variable is changed by factors outside the control of the experimenter. For example, studying the impact of a natural disaster on the mental health of survivors, or analyzing the effect of a policy change on the economic outcomes of a population.
+  - **Quasi-experiment**: An experiment that resembles an experimental or intervention experiment, but lacks some of the key features of a true experiment, such as random assignment of subjects to groups, or control of confounding variables. For example, evaluating the effect of a training program on the job performance of employees, or comparing the academic achievement of students who attend different schools.
+  - **Field experiment**: An experiment that is conducted in a natural setting, rather than in a laboratory or a controlled environment. For example, testing the effect of a social norm intervention on the littering behavior of people in a park, or measuring the response of customers to a new product in a store.
+  - **Laboratory experiment**: An experiment that is conducted in a controlled and artificial setting, where the experimenter can manipulate the independent variable and control the extraneous variables. For example, testing the effect of different colors of light on the mood of participants, or examining the influence of music on the memory of words.

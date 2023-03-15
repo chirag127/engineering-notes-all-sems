@@ -1,0 +1,13 @@
+# CO2: Molecular and System Properties
+
+Carbon dioxide (CO2) is a colorless and odorless gas that is relatively nontoxic and noncombustible, but it is heavier than air and may asphyxiate by the displacement of air. When CO2 is dissolved in water, it forms a weak acid called carbonic acid (H2CO3). CO2 has a molecular weight of 44.0095 g/mol and a linear molecular geometry with a bond angle of 180 degrees. CO2 has two polar C=O bonds, but the molecule is nonpolar because the bond dipoles cancel each other out.
+
+Surface tension is the energy required to increase the surface area of a liquid by a given amount. It is a measure of the cohesive forces between the molecules in the liquid. The stronger the intermolecular interactions, the greater the surface tension. CO2 has weak intermolecular forces, mainly London dispersion forces, which result in a low surface tension. However, the surface tension of CO2 can be affected by the presence of other substances, such as water or amines, that can form hydrogen bonds or other interactions with CO2 molecules .
+
+Some of the factors that influence the surface tension of CO2-loaded solutions are:
+
+- The concentration of CO2: The higher the CO2 loading, the lower the surface tension, because CO2 molecules reduce the cohesive forces between the solvent molecules .
+- The temperature: The higher the temperature, the lower the surface tension, because thermal energy increases the molecular motion and weakens the intermolecular forces .
+- The type and concentration of the solvent: Different solvents have different intermolecular forces and polarities, which affect the interactions with CO2 molecules. For example, water has a high surface tension due to its strong hydrogen bonding, but it decreases when CO2 is dissolved in it. Amines, such as monoethanolamine (MEA), have lower surface tensions than water, but they increase when CO2 is dissolved in them, because they form complexes with CO2 that increase the cohesive forces .
+
+The surface tension of CO2 and CO2-loaded solutions can be measured by various methods, such as the drop weight method, the pendant drop method, the Wilhelmy plate method, or the maximum bubble pressure method . These methods involve creating a drop or a bubble of the liquid and measuring the force or pressure required to deform or detach it from the surface. The surface tension can be calculated from the force or pressure and the geometry of the drop or bubble.

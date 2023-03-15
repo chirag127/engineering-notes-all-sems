@@ -1,0 +1,12 @@
+### Viscosity, conductance of solution, chloride and iron content in the water
+
+- Viscosity is a measure of the resistance of a fluid to deformation under shear stress. It is related to the internal friction of the fluid molecules. Viscosity depends on the temperature, pressure, and composition of the fluid. 
+- Conductance of solution is a measure of the ability of a solution to conduct electric current. It is proportional to the concentration and mobility of the ions in the solution. Conductance depends on the temperature, pressure, and type of electrolyte in the solution. 
+- Chloride and iron content in the water are indicators of the quality and purity of the water. Chloride is a major component of seawater and can affect the conductivity, salinity, and corrosion of water. Iron is a common contaminant in groundwater and can cause discoloration, staining, and metallic taste of water. Chloride and iron content can be measured by various analytical methods, such as titration, colorimetry, or spectrophotometry.
+
+Some points to remember are:
+
+- The viscosity of pure water at 20°C is 1.002 mPa s. The viscosity of water decreases with increasing temperature and increases with increasing pressure and dissolved solids.
+- The conductance of pure water at 25°C is about 0.05 μS/cm. The conductance of water increases with increasing temperature and concentration of electrolytes. The conductance of seawater is about 50 mS/cm. The conductance of water is affected by the presence of chloride ions, which are approximately 1.9 percent of the mass of seawater.
+- The chloride content of freshwater is usually less than 250 mg/L, while the chloride content of seawater is about 19,000 mg/L. The chloride content of water can be influenced by natural sources, such as weathering of rocks and soils, or anthropogenic sources, such as wastewater discharge, road salt, and agricultural runoff.
+- The iron content of freshwater is usually less than 0.3 mg/L, while the iron content of seawater is about 0.002 mg/L. The iron content of water can be influenced by natural sources, such as leaching from rocks and minerals, or anthropogenic sources, such as mining, industrial waste, and corrosion of pipes.

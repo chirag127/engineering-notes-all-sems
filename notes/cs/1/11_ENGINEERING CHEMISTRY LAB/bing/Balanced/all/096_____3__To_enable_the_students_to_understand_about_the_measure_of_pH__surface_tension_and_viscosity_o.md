@@ -1,0 +1,17 @@
+# 3. To enable the students to understand about the measure of pH, surface tension and viscosity of a liquid.
+
+- pH is a measure of how acidic or basic a liquid is. It is defined as the negative logarithm of the hydrogen ion concentration in moles per liter. pH = -log[H+]
+- The pH scale ranges from 0 to 14, with 7 being neutral, lower than 7 being acidic, and higher than 7 being basic. The pH of pure water is 7 at 25°C.
+- Some common examples of liquids with different pH values are lemon juice (pH 2), vinegar (pH 3), milk (pH 6.5), blood (pH 7.4), seawater (pH 8.1), and ammonia (pH 11.6).
+- pH can be measured using indicators, such as litmus paper, phenolphthalein, or universal indicator, which change color depending on the acidity or basicity of the liquid. pH can also be measured using a pH meter, which is an electronic device that measures the voltage difference between a reference electrode and a pH-sensitive electrode immersed in the liquid.
+
+- Surface tension is a measure of how strongly the molecules of a liquid are attracted to each other at the surface. It is defined as the force per unit length that must be applied to the surface of the liquid to break or stretch it. Surface tension = F/L
+- The surface tension of a liquid depends on the intermolecular forces between the molecules, the temperature, and the presence of any impurities or surfactants (substances that reduce the surface tension) in the liquid.
+- The surface tension of a liquid causes it to minimize its surface area and form spherical droplets. It also allows some objects, such as insects or needles, to float or rest on the surface of the liquid, even if they are denser than the liquid. This is because the surface tension creates an upward force that balances the weight of the object.
+- Surface tension can be measured using various methods, such as the drop weight method, the drop volume method, the pendant drop method, the Wilhelmy plate method, or the du Noüy ring method, which involve measuring the weight, volume, shape, or force of a drop of liquid hanging from a needle, a plate, or a ring.
+
+- Viscosity is a measure of how resistant a liquid is to flow. It is defined as the ratio of the shear stress to the shear rate in the liquid. Viscosity = τ/γ
+- The shear stress is the force per unit area that is applied parallel to the surface of the liquid, and the shear rate is the rate of change of the velocity of the liquid along the direction of the shear stress. The unit of viscosity is pascal-second (Pa-s) or poise (P).
+- The viscosity of a liquid depends on the intermolecular forces between the molecules, the temperature, and the pressure of the liquid. Generally, the viscosity of a liquid decreases as the temperature increases and increases as the pressure increases. The viscosity of a liquid also depends on the molecular structure and size of the molecules. Generally, the viscosity of a liquid increases as the molecular weight and complexity of the molecules increase.
+- Some common examples of liquids with different viscosities are water (0.001 Pa-s), honey (10 Pa-s), glycerin (1.5 Pa-s), and motor oil (0.1 Pa-s) at 20°C.
+- Viscosity can be measured using various methods, such as the capillary tube method, the falling ball method, the rotational viscometer method, or the oscillating disk method, which involve measuring the flow rate, the terminal velocity, the torque, or the frequency of a liquid flowing through a tube, falling in a liquid, rotating in a liquid, or oscillating in a liquid, respectively.

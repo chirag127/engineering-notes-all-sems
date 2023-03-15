@@ -1,0 +1,7 @@
+### Sangama Literature in India
+
+- Sangama literature is the earliest known literature in the Tamil language, composed between the 1st and 4th centuries CE by poets belonging to three literary academies (sangams) in Madurai, India .
+- Sangama literature consists of 18 works: eight anthologies of poems (Ettuthokai), ten long poems (Pattuppattu), and a grammar treatise (Tolkappiyam) .
+- Sangama literature is broadly classified into two genres: akam (inner) and puram (outer) . Akam poetry deals with love, romance, and eroticism, while puram poetry deals with heroism, war, and public life .
+- Sangama literature is a rich source of information about the ancient Tamil society, culture, religion, geography, history, and arts   . It depicts the life of various classes of people, such as kings, warriors, farmers, merchants, and poets, as well as their customs, beliefs, and values  .
+- Sangama literature is also notable for its poetic excellence, linguistic diversity, and aesthetic appeal  . It uses various meters, figures of speech, symbols, and imagery to convey the emotions and experiences of the speakers . It also reflects the influence of various languages, such as Sanskrit, Prakrit, and Pali, on Tamil .

@@ -1,0 +1,9 @@
+# Urdu Literature in India
+
+- Urdu literature is the literature written in the Urdu language, which is spoken mainly by Muslims in Pakistan and northern India .
+- Urdu literature is influenced by Persian, Arabic, Turkish, Hindi, and other languages, and has a rich and diverse history that spans over a thousand years.
+- Urdu literature can be divided into four main periods: the classical period, the modern period, the progressive period, and the contemporary period.
+- The classical period (16th-19th centuries) is marked by the development of the ghazal, a poetic form of expressing love, longing, and mysticism, and the nazm, a longer and more narrative poem. Some of the most famous poets of this period are Mir Taqi Mir, Mirza Ghalib, Mir Anees, and Mirza Asadullah Khan Ghalib.
+- The modern period (19th-20th centuries) is characterized by the emergence of the novel, the short story, the essay, and the drama, as well as the rise of social and political themes in literature. Some of the prominent writers of this period are Sir Syed Ahmed Khan, Maulana Altaf Hussain Hali, Muhammad Iqbal, Premchand, Saadat Hasan Manto, and Ismat Chughtai.
+- The progressive period (1930s-1950s) is associated with the Progressive Writers' Movement, which aimed to challenge the colonial and feudal oppression and promote social justice and human rights through literature. Some of the influential writers of this period are Faiz Ahmed Faiz, Sajjad Zaheer, Ahmed Ali, Rajinder Singh Bedi, and Krishan Chander.
+- The contemporary period (1950s-present) is marked by the diversity and experimentation of Urdu literature, as well as the influence of globalization and technology. Some of the notable writers of this period are Qurratulain Hyder, Intizar Hussain, Naiyer Masud, Shamsur Rahman Faruqi, and Javed Akhtar.

@@ -1,0 +1,12 @@
+### The Seven Limbs of the State in Ancient India
+
+- The seven limbs of the state (saptanga) were formulated by Kautilya, a political thinker and advisor to the Mauryan emperor Chandragupta, in his treatise Arthashastra, which deals with the art of governance and statecraft  .
+- The seven limbs are: 
+  - Swamin (the king): The king is the head of the state and the source of authority. He is responsible for the peace, justice and stability of the state. He should be virtuous, intelligent, courageous and benevolent .
+  - Amatya (the minister or the bureaucracy): The minister or the bureaucracy is the second limb of the state and assists the king in administration and policy-making. They should be loyal, efficient, honest and skilled .
+  - Janapada (the land and the people): The land and the people are the third limb of the state and the basis of its economy and security. The land should be fertile, well-cultivated and well-protected. The people should be happy, prosperous and obedient .
+  - Durga (the fort or the capital): The fort or the capital is the fourth limb of the state and the center of its power and prestige. It should be strategically located, well-fortified and well-supplied. It should also be a hub of culture, education and commerce .
+  - Kosha (the treasury or the wealth): The treasury or the wealth is the fifth limb of the state and the source of its strength and resources. It should be abundant, well-managed and well-spent. It should also be used for the welfare of the people and the defense of the state .
+  - Danda (the army or the coercive authority): The army or the coercive authority is the sixth limb of the state and the instrument of its enforcement and expansion. It should be well-trained, well-equipped and well-disciplined. It should also be loyal, brave and patriotic  .
+  - Mitra (the ally or the friend): The ally or the friend is the seventh limb of the state and the support of its diplomacy and security. It should be reliable, trustworthy and friendly. It should also share common interests, values and goals with the state  .
+- According to Kautilya, the state should maintain a balance among the seven limbs and ensure their excellence and harmony. The state should also be aware of the strengths and weaknesses of its own limbs and those of its enemies and allies. The state should also strive to enhance its own limbs and weaken those of its enemies and rivals  .

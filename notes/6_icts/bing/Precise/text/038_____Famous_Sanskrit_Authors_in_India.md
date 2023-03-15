@@ -1,0 +1,6 @@
+### Famous Sanskrit Authors in India
+
+- **Kalidasa**: Considered to be the greatest Sanskrit language poet in India, Kalidasa is widely said to have been from the 5th-century, though most details of his life are subject to speculation. He was one of ancient India's greatest Sanskrit dramatists .
+- **Bhasa**: One of the greatest pioneers of classical Sanskrit drama, Bhasa is said to have lived around 3rd Century A.D. He is one of the earliest known Sanskrit dramatists of ancient India. An Indian scholar, Mahamahopadhyaya Ganapati Sastrigal, rediscovered thirteen of his plays in the year 1912.
+- **Gajapati Purusottama Deva**: Gajapati Purusottama Deva (1497 A. D.) the son of Gajapati Kapilendra Deva, was a great conqueror and a reputed scholar like his father. The authorship of the works, namely Muktichintamani, Gopalarchana vidhi, Nama Malika, Durogotsava and Bhubaneswari Pujapallava, have been attributed to Gajapati Purusottama Deva.
+- **Satyavrat Shastri**: In 2009, Satyavrat Shastri became the first Sanskrit author to win the Jnanpith Award, India's highest literary award. He wrote two epic poems (Mahakavya), seven shorter poems, three plays and three songs of praise (stavana kavya). He received the Vidyavachaspati award in 1962.

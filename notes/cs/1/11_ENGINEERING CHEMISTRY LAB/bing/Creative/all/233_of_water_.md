@@ -1,0 +1,11 @@
+# Water
+
+Water is a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances.
+
+Some of the main properties and characteristics of water are:
+
+- Water is a tiny molecule. It consists of three atoms: two of hydrogen and one of oxygen. Water molecules cling to each other because of a force called hydrogen bonding. It's the reason why water can do amazing things.
+- Water is a shape-shifter. It exists in three states on Earth: liquid, gas, and solid. Liquid water is the most common form of water on Earth. Gas water, or water vapor, is water in the form of a gas. Solid water, or ice, is water in the form of a solid. The state of water depends on the temperature and pressure of the environment.
+- Water is the liquid that makes life on Earth possible. As water cycles from the air to the land to the sea and back again, water shapes our planet — and nearly every aspect of our lives. All living things, from tiny cyanobacteria to giant blue whales, need water to survive. Water is a solvent, meaning it can dissolve many other substances. This allows water to carry nutrients, minerals, and oxygen to living cells, and to remove waste products from them.
+- Water is also a vital resource for human activities, such as agriculture, industry, energy, transportation, and recreation. Water is used for drinking, cooking, cleaning, irrigation, cooling, heating, and many other purposes. Water is also a source of renewable energy, such as hydropower, tidal power, and wave power.
+- Water is a precious and finite resource. Although about 71% of the Earth's surface is covered by water, only about 2.5% of it is fresh water, and only about 0.007% of it is accessible for human use. Water scarcity, pollution, and climate change are some of the major challenges facing the availability and quality of water for humans and the environment. Water conservation, management, and protection are essential for ensuring the sustainable use of water for present and future generations.

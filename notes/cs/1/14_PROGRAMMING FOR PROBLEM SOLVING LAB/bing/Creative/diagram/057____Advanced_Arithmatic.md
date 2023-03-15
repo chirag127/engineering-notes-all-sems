@@ -1,0 +1,10 @@
+## Advanced Arithmatic
+
+Advanced arithmatic is the branch of mathematics that deals with operations on numbers beyond the basic four: addition, subtraction, multiplication and division. Some of the topics covered in advanced arithmatic are:
+
+- Exponents and logarithms: These are ways of expressing repeated multiplication or division using a base and an exponent or a logarithm. For example, 2^3 = 2 x 2 x 2 = 8 and log2(8) = 3.
+- Roots and radicals: These are ways of expressing the inverse of exponents, or finding the number that when raised to a certain power gives another number. For example, the square root of 9 is 3, because 3^2 = 9. A radical is a symbol that indicates the root, such as √.
+- Fractions and decimals: These are ways of expressing parts of a whole number or a ratio of two numbers. For example, 1/2 = 0.5 and 3/4 = 0.75. Fractions can be simplified by finding the greatest common factor of the numerator and denominator, and decimals can be converted to fractions by multiplying by a power of 10.
+- Percentages and ratios: These are ways of expressing proportions or comparisons of two quantities. For example, 50% = 1/2 = 0.5 and 3:4 = 3/4 = 0.75. Percentages can be converted to fractions by dividing by 100, and ratios can be simplified by finding the greatest common factor of the terms.
+- Order of operations: This is a set of rules that determines the order in which different arithmatic operations are performed in an expression. The acronym PEMDAS can be used to remember the order: Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right). For example, 2 + 3 x 4 = 2 + 12 = 14, not 20.
+- Algebra: This is the branch of mathematics that uses symbols, such as letters, to represent unknown or variable quantities. For example, x + 2 = 5 means that the value of x is 3, because 3 + 2 = 5. Algebra can be used to solve equations, simplify expressions, and model real-world situations.

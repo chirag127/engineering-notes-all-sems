@@ -1,0 +1,29 @@
+### 8. Communication Skills for Engineers and Scientists, Sangeeta Sharma et.al. PHI Learning Pvt.Ltd, 2011, New Delhi.
+
+- This book aims to provide engineers and scientists with the essential skills and strategies to communicate effectively in their professional contexts.
+- The book covers various aspects of communication, such as oral, written, graphical, interpersonal, and cross-cultural communication, as well as communication ethics and etiquette.
+- The book also offers practical guidance on how to prepare and deliver presentations, reports, proposals, and other documents, as well as how to participate in meetings, discussions, and negotiations.
+- The book includes numerous examples, exercises, and case studies to illustrate the concepts and techniques of communication.
+- The book is divided into four parts:
+  - Part I: Introduction to Communication Skills
+    - Chapter 1: Communication: An Overview
+    - Chapter 2: Communication Process and Barriers
+    - Chapter 3: Communication Skills: An Essential Requirement for Engineers and Scientists
+  - Part II: Oral Communication Skills
+    - Chapter 4: Listening Skills
+    - Chapter 5: Speaking Skills
+    - Chapter 6: Presentation Skills
+    - Chapter 7: Group Discussion Skills
+    - Chapter 8: Interview Skills
+  - Part III: Written Communication Skills
+    - Chapter 9: Writing Skills
+    - Chapter 10: Technical Writing
+    - Chapter 11: Report Writing
+    - Chapter 12: Proposal Writing
+    - Chapter 13: Research Paper Writing
+    - Chapter 14: Documentation and Referencing
+  - Part IV: Other Aspects of Communication Skills
+    - Chapter 15: Graphical Communication
+    - Chapter 16: Interpersonal Communication
+    - Chapter 17: Cross-Cultural Communication
+    - Chapter 18: Communication Ethics and Etiquette

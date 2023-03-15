@@ -1,0 +1,10 @@
+### Solid state Laser (Ruby laser) and Gas Laser (He-Ne laser) for the notes of the Unit 4 - Fiber Optics & Laser in the subject of ENGINEERING PHYSICS
+
+- A **solid-state laser** is a laser that uses a gain medium that is a solid, rather than a liquid or a gas. The most common example of a solid-state laser is the **ruby laser**.
+- The ruby laser was the first working laser ever created, and was invented by Theodore Maiman in 1960. It consists of a synthetic ruby crystal rod, with its ends polished and silvered to form a Fabry-Perot resonator.
+- The ruby crystal is pumped with light from a flashlamp, which excites the chromium ions in the crystal, causing them to emit light at a wavelength of 694.3 nm. This light is amplified by the resonator, producing a powerful beam of red light.
+- A **gas laser** is a laser in which the active medium is a gas or a mixture of gases. The most common example of a gas laser is the **helium-neon (He-Ne) laser**.
+- The He-Ne laser was invented in 1960 by Ali Javan, William R. Bennett, and Donald Herriott. It consists of a sealed glass tube filled with a mixture of helium and neon gases, with electrodes at either end to provide an electric discharge.
+- The electric discharge excites the helium atoms, which then collide with the neon atoms, transferring their energy and causing the neon atoms to emit light at a wavelength of 632.8 nm. This light is amplified by the resonator, producing a beam of red light.
+- Both the ruby laser and the He-Ne laser are examples of **four-level lasers**, in which the laser transition occurs between two energy levels that are not the ground state and not the highest excited state of the gain medium.
+- The ruby laser and the He-Ne laser have many applications, including in scientific research, medicine, and industry. They are also commonly used in education to demonstrate the principles of laser operation.

@@ -1,0 +1,10 @@
+### Davisson and Germer Experiment
+
+- The Davisson and Germer experiment was a 1923-27 experiment by Clinton Davisson and Lester Germer at Western Electric (later Bell Labs), in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern.
+- The experiment confirmed the de Broglie hypothesis that matter has wave-like behavior. This, in combination with the Compton effect discovered by Arthur Compton, established the wave–particle duality hypothesis which was a fundamental step in quantum theory.
+- The experiment was based on the assumption that waves reflected from two distinct atomic levels of a Ni crystal will have a fixed phase difference. Following reflection, these waves will either interact constructively or destructively. As a result, a diffraction pattern is produced.
+- The experimental setup consisted of an electron gun that emitted a beam of electrons of known energy, a nickel crystal that acted as a diffraction grating, and a detector that measured the intensity of the scattered electrons at different angles.
+- The experiment was initially performed to measure the dependence of the scattering coefficient on the angle of incidence. However, due to an accidental heating of the nickel crystal, the surface structure of the crystal changed, and the scattering pattern showed a peak at a certain angle.
+- The peak angle corresponded to the Bragg condition for constructive interference of the reflected waves, which implied that the electrons behaved like waves with a wavelength given by the de Broglie relation.
+- The experiment was repeated with different electron energies and the peak angle was found to vary inversely with the square root of the energy, as predicted by the de Broglie relation.
+- The experiment was the first direct evidence of the wave nature of electrons and supported the concept of wave–particle duality.

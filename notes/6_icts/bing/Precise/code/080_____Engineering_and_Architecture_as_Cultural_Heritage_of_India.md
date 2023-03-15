@@ -1,0 +1,7 @@
+### Engineering and Architecture as Cultural Heritage of India
+
+1. Indian architecture is rooted in the history, culture, and religion of India. Among several architectural styles and traditions, the best-known include the many varieties of Hindu temple architecture and Indo-Islamic architecture, especially Rajput architecture, Mughal architecture, South Indian architecture and Indo-Saracenic architecture .
+2. The framework of protecting Architectural heritage was introduced about 150 years back when the Archeological Survey of India (ASI) was established by the British colonial government. It deliberately supplanted indigenous practices and information frameworks, in this way making the split between official and local practices which has tormented preservation process in India ever since .
+3. India through its prosperous cultural heritage and rich history has witnessed the rise and fall of several great dynasties which is conspicuous through the greatness of ancient Indian architecture. The magnificence of these buildings, monuments, bridges, forts, halls, mosques, temples, and churches makes one fully comprehend the glorious periods through which India has passed .
+4. India’s architecture continues to diversify as the country grows, reverting to its traditions while adhering to modern trends and minority communities .
+5. Engineering and Architecture in Ancient and Medieval India includes Civil Works of Indus Valley-Vedic-Post-Vedic period, Buddhist Stupas and Viharas, Temple architecture, Rock-Cut architecture and Indo-Islamic architecture .

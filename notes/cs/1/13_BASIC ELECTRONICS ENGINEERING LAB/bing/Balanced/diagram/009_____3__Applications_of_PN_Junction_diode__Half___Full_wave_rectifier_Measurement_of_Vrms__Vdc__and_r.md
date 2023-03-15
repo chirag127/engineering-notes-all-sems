@@ -1,0 +1,9 @@
+### 3. Applications of PN Junction diode: Half & Full wave rectifierMeasurement of Vrms, Vdc, and ripple factor.
+
+- A PN junction diode is a device that allows current to flow in one direction only. It has two terminals: anode and cathode. The anode is connected to the p-type semiconductor and the cathode is connected to the n-type semiconductor.
+- A rectifier is a circuit that converts alternating current (AC) to direct current (DC). Rectifiers use diodes to block the negative or positive half of the AC waveform, depending on the type of rectifier.
+- A half-wave rectifier is a rectifier that uses one diode to block the negative half of the AC waveform. The output of a half-wave rectifier is a pulsating DC voltage that has the same frequency as the input AC voltage.
+- A full-wave rectifier is a rectifier that uses two or four diodes to block both the negative and positive halves of the AC waveform. The output of a full-wave rectifier is a pulsating DC voltage that has twice the frequency as the input AC voltage.
+- Vrms is the root mean square value of the AC voltage. It is the effective value of the AC voltage that produces the same heating effect as a DC voltage of the same magnitude. Vrms can be calculated by dividing the peak value of the AC voltage by the square root of 2.
+- Vdc is the average value of the DC voltage. It is the value of the DC voltage that is equivalent to the area under the curve of the pulsating DC voltage. Vdc can be calculated by multiplying the peak value of the pulsating DC voltage by the rectification factor, which depends on the type of rectifier.
+- Ripple factor is a measure of the variation of the pulsating DC voltage. It is the ratio of the root mean square value of the AC component to the average value of the DC component. Ripple factor can be calculated by dividing the root mean square value of the AC component by the average value of the DC component.

@@ -1,0 +1,13 @@
+#### CO-2 Compute and analyze various electrical and electronic properties of a given
+
+- Electrical and electronic properties are the characteristics of a material or a device that affect its behavior in an electric or electronic circuit.
+- Some of the common electrical and electronic properties are resistance, capacitance, inductance, impedance, reactance, admittance, conductance, susceptance, voltage, current, power, energy, frequency, phase, and waveform.
+- To compute and analyze these properties, we need to use various mathematical tools and techniques, such as Ohm's law, Kirchhoff's laws, Thevenin's theorem, Norton's theorem, superposition principle, mesh analysis, nodal analysis, phasor analysis, complex numbers, Fourier series, Fourier transform, Laplace transform, and Z-transform.
+- Depending on the type of circuit and the property of interest, we may need to apply different methods and formulas to obtain the desired results.
+- For example, to compute the resistance of a resistor, we can use Ohm's law, which states that the voltage across the resistor is equal to the product of the current through it and its resistance: V = IR.
+- To compute the capacitance of a capacitor, we can use the formula that relates the charge stored on the capacitor to the voltage across it and its capacitance: Q = CV.
+- To compute the inductance of an inductor, we can use the formula that relates the magnetic flux linked to the inductor to the current through it and its inductance: Φ = LI.
+- To compute the impedance of a series RLC circuit, we can use the formula that combines the resistance, the inductive reactance, and the capacitive reactance of the circuit: Z = R + j(XL - XC), where j is the imaginary unit and XL and XC are the inductive and capacitive reactances, respectively.
+- To analyze the frequency response of a filter circuit, we can use the phasor analysis, which converts the time-domain signals into the frequency-domain phasors, and then apply the voltage divider rule or the current divider rule to find the output voltage or current as a function of the input frequency.
+- To analyze the transient response of an RC or RL circuit, we can use the differential equation method, which involves finding the homogeneous and particular solutions of the circuit equation, and then applying the initial conditions to find the constants of integration and the final solution.
+- To analyze the stability of a feedback system, we can use the Laplace transform method, which involves finding the transfer function of the system, and then applying the Routh-Hurwitz criterion or the Nyquist criterion to determine if the system is stable, marginally stable, or unstable.

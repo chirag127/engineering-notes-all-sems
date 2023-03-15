@@ -1,0 +1,7 @@
+### Continuity equation for current density
+
+- Current density is a measure of the amount of electric current flowing through a unit area of a conductor. It is denoted by the symbol J and has the unit of ampere per square meter (A/m^2^) .
+- The formula for current density is given as, J = I / A, where I is the current flowing through the conductor in amperes and A is the cross-sectional area of the conductor in square meters .
+- The continuity equation for current density is a mathematical expression that relates the change in charge density (ρ) to the divergence of current density (J) in a given region of space. It is derived from the conservation of electric charge principle, which states that the net charge in any closed system remains constant .
+- The differential form of the continuity equation is: ∂ρ/∂t + ∇ ⋅ J = 0, where t is the time and ∇ is the del operator . This equation implies that the rate of change of charge density at any point is equal to the negative of the net current density flowing out of that point.
+- The integral form of the continuity equation is: d/dt ∫V ρ d^3^r = - ∮S J ⋅ n d^2^r, where V is an arbitrary stationary volume bounded by the closed surface S, and n is the unit normal vector to the surface . This equation implies that the rate of change of total charge in any volume is equal to the negative of the net current flowing out of the surface enclosing that volume.

@@ -1,0 +1,11 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+Resins are organic compounds that are solid or semi-solid at room temperature and have a high molecular weight. They are usually derived from natural sources, such as plants or animals, or from synthetic sources, such as petroleum or coal. Resins have various applications in industries, such as adhesives, coatings, plastics, paints, varnishes, and rubber.
+
+The preparation of different resins involves the following steps:
+
+- **Selection of raw materials**: The raw materials for resin production depend on the type and properties of the desired resin. For example, natural resins, such as rosin, shellac, and amber, are obtained from plant or animal sources, while synthetic resins, such as phenol-formaldehyde, urea-formaldehyde, and epoxy, are synthesized from chemical reactants.
+- **Purification of raw materials**: The raw materials are purified to remove impurities, such as water, dust, dirt, and other substances, that may affect the quality and performance of the resin. Purification methods include filtration, distillation, extraction, crystallization, and precipitation.
+- **Polymerization of raw materials**: The raw materials are polymerized to form long chains of molecules that give the resin its characteristic properties, such as hardness, elasticity, solubility, and melting point. Polymerization methods include condensation, addition, and cross-linking reactions, which may be catalyzed by heat, light, or chemicals.
+- **Modification of resin properties**: The resin properties may be modified to suit the specific application or requirement by adding additives, such as fillers, plasticizers, stabilizers, pigments, and curing agents. These additives may enhance or alter the resin's strength, flexibility, durability, color, and resistance to heat, moisture, and chemicals.
+- **Shaping and curing of resin products**: The resin products are shaped and cured to form the final product, such as a film, sheet, rod, tube, or molded object. Shaping methods include extrusion, injection molding, compression molding, and casting, while curing methods include heating, cooling, or chemical reaction.

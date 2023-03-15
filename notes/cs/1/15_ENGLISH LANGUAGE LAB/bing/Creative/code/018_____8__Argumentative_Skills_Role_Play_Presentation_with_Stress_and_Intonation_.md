@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to discuss. You have chosen the topic of argumentative skills/role play presentation with stress and intonation. Here is some content that you can use to learn and read from for exams.
+
+### 8. Argumentative Skills/Role Play Presentation with Stress and Intonation
+
+- Argumentative skills are the ability to present and defend a position or opinion on an issue using logical and persuasive arguments.
+- Role play presentation is a technique that involves acting out a scenario or situation with a partner or a group, using dialogue and body language to convey a message or a point of view.
+- Stress and intonation are the features of speech that indicate the emphasis, tone, and mood of the speaker. They can be used to enhance the meaning and effectiveness of the argument or the role play.
+- Some tips for developing argumentative skills/role play presentation with stress and intonation are:
+
+  - Identify the purpose and audience of the argument or the role play. What are you trying to achieve and who are you trying to convince or inform?
+  - Research the topic and gather relevant facts, evidence, and examples to support your position or opinion. Use credible and reliable sources and cite them properly.
+  - Organize your argument or role play into a clear structure, with an introduction, a body, and a conclusion. Use transitions and signposts to guide the listener through your points.
+  - Use appropriate language and tone for the argument or role play. Avoid informal, slang, or offensive words and expressions. Use polite and respectful language, even if you disagree with the other side. Use rhetorical devices, such as questions, analogies, comparisons, contrasts, and examples, to make your argument or role play more engaging and persuasive.
+  - Use stress and intonation to emphasize the key words and phrases in your argument or role play. Stress the syllables that carry the most meaning and information, such as nouns, verbs, adjectives, and adverbs. Use a higher pitch, a louder volume, and a longer duration to stress a word or a phrase. Use intonation to show the attitude and emotion of the speaker, such as certainty, doubt, agreement, disagreement, surprise, anger, or sarcasm. Use a rising intonation to indicate a question, a request, or a suggestion. Use a falling intonation to indicate a statement, a command, or a conclusion.
+  - Practice your argument or role play with a partner or a group. Give and receive feedback on the content, the language, and the delivery of the argument or role play. Revise and improve your argument or role play based on the feedback. Record and listen to your argument or role play and evaluate your own performance. Identify your strengths and weaknesses and work on them.

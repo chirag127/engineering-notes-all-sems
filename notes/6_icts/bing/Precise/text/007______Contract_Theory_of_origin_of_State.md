@@ -1,0 +1,6 @@
+#### Contract Theory of origin of State
+
+- The social contract theory is one of the theories of the origin of the state. It has been emerged since the time of the sophists of the Greece but it has got recognition in the hands of the great trio. The name of these great philosophers were – John Locke, Thomas Hobbes and Jean Jacques Rousseau .
+- There were many other theories of the origin of the state but the social contract theory has explained the origin of state in a systematic manner. This theory states that the society or the state came into being by a contract that was made between the individual and the society or the contract that was made amongst the individual people .
+- In moral and political philosophy, the social contract is a theory of state or model that originated during the Age of Enlightenment and is usually concerned with the legitimacy of the state’s authority over the individual. In this condition, individuals’ actions are bound only by their personal power and conscience .
+- Social contract theory tells us about the origin of the State. About the evolution of the State, this theory tells three aspects: State of Nature State of nature was the conditions before the State when there was neither State nor law, but the man lived in natural conditions .

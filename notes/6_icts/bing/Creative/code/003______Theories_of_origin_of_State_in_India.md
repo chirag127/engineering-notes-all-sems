@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is some information on the theories of origin of state in India:
+
+#### Theories of origin of state in India
+
+- The state is a political institution that emerged in ancient India as a result of various social, economic, religious and historical factors.
+- Different theories have been proposed to explain the origin of state in India, based on different sources of evidence and perspectives.
+- Some of the prominent theories are:
+
+  - **Social contract theory**: This theory suggests that the state was formed by a voluntary agreement among the people to escape the state of nature, where there was no law, order or security. The people gave up some of their rights and freedoms to a ruler or a government, who would protect them and ensure justice. This theory is based on the rational and individualistic view of human nature, and is influenced by the Western political thinkers like Hobbes, Locke and Rousseau. This theory is found in some ancient Indian texts like the Mahabharata, where Bhishma advises Yudhishthira on the duties and functions of a king and the people .
+
+  - **Divine origin theory**: This theory claims that the state was established by God or some divine power, who chose a king or a dynasty to rule over the people. The king was considered to be the representative or the agent of God, and had absolute authority and legitimacy. The people had to obey the king as a religious duty, and any rebellion or resistance was considered to be a sin. This theory is based on the religious and hierarchical view of human society, and is influenced by the Vedic and Brahmanical traditions. This theory is found in some ancient Indian texts like the Manusmriti, where Manu declares that the king is the embodiment of God and the source of law .
+
+  - **Organic theory**: This theory holds that the state was a natural and inevitable outcome of the growth and development of human society. The state was seen as a living organism, with different parts and functions, that evolved from simple to complex forms over time. The state was not a product of human will or contract, but a reflection of the social, cultural and historical conditions of the people. This theory is based on the organic and evolutionary view of human society, and is influenced by the Buddhist and Jain traditions. This theory is found in some ancient Indian texts like the Digha Nikaya, where Buddha describes the origin of republican governance under a mahasammata (Grand Elect) in accordance with the dhamma (law of nature) .

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is a summary of the topic you requested:
+
+### 3. Practical Communication Process & Practice, LU.B. Pandey: A.I.T.B.S. Pub. India Ltd Krishna Nagar, Delhi, 2013.
+
+- This book covers the basics of communication skills and techniques for various contexts and purposes, such as business, academic, professional, and interpersonal communication.
+- The book is divided into four parts: Part I - Communication Process and Principles, Part II - Communication Skills and Strategies, Part III - Communication in Practice, and Part IV - Communication for Development.
+- Part I introduces the concept and process of communication, the types and models of communication, the barriers and facilitators of communication, and the principles and ethics of communication.
+- Part II focuses on the skills and strategies for effective communication, such as listening, speaking, reading, writing, non-verbal communication, and presentation skills. It also covers the aspects of communication in different media, such as print, electronic, and digital media.
+- Part III deals with the communication in practice, such as communication for academic purposes, communication for business purposes, communication for professional purposes, and communication for interpersonal purposes. It also covers the communication in different situations, such as interviews, meetings, conferences, and negotiations.
+- Part IV discusses the communication for development, such as communication for social change, communication for education, communication for health, communication for environment, and communication for disaster management. It also covers the communication for empowerment, such as communication for gender equality, communication for human rights, communication for peace, and communication for democracy.
+- The book is written in a simple and lucid language, with examples, illustrations, exercises, and case studies to enhance the understanding and application of the concepts and skills. The book is suitable for students, teachers, professionals, and general readers who want to improve their communication skills and practices.

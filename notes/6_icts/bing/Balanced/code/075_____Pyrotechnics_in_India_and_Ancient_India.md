@@ -1,0 +1,9 @@
+### Pyrotechnics in India and Ancient India
+
+- Pyrotechnics is the art and science of creating and using fireworks for entertainment, military, or signaling purposes.
+- Fireworks and pyrotechnic shows existed as a form of royal entertainment in many medieval Indian kingdoms during festivals, events and special occasions like weddings .
+- One of the earliest notes of pyrotechnical shows in India is made by Abdur Razzaq, the ambassador of the Timurid Sultan Shahrukh to the court of the Vijayanagar king Devaraya II in 1443. He wrote that he witnessed a "wonderful firework" that was "like a fountain of fire" and "a great marvel".
+- Manufacturing formulas for fireworks describing pyrotechnic mixtures are found within Kautukachintamani, a Sanskrit volume by Gajapati Prataparudradeva (1497-1539), a reputed king of Orissa. He described various types of fireworks such as rockets, wheels, fountains, snakes, and sparklers .
+- Gunpowder, an essential ingredient of fire crackers, was unknown in ancient India. It was introduced by the Arabs and the Mongols in the 13th and 14th centuries. The Indian pyrotechnicians experimented with different proportions and compositions of gunpowder to create various effects and colors.
+- India has a rich and diverse tradition of pyrotechnics that reflects its cultural and religious diversity. Fireworks are used to celebrate various festivals such as Diwali, Holi, Dussehra, Eid, Christmas, and New Year. They are also used for weddings, birthdays, inaugurations, and other occasions.
+- India is one of the largest producers and consumers of fireworks in the world. The major centers of fireworks production are Sivakasi in Tamil Nadu, Champahati in West Bengal, and Barpeta in Assam. The Indian fireworks industry employs over 5 lakh people and generates an annual revenue of over Rs. 6000 crore.

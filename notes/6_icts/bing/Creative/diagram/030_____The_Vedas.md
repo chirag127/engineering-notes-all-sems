@@ -1,0 +1,21 @@
+### The Vedas
+
+- The Vedas are a large body of religious texts originating in ancient India.
+- The Vedas are composed in Vedic Sanskrit, the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism.
+- The word Veda means "knowledge" or "vision" and it serves to manifest the language of the gods in human speech.
+- The Vedas contain the fundamental knowledge relating to the underlying cause of, function of, and personal response to existence.
+- The Vedas have regulated the social, legal, domestic and religious customs of Hindus up to the present day.
+- The Vedas are divided into four collections: the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda.
+- The Rigveda is the oldest and most important of the Vedas, containing hymns to various gods and goddesses, cosmological and philosophical speculations, and ethical and ritual instructions.
+- The Yajurveda contains prose and verse formulas that were recited by priests during sacrificial rituals.
+- The Samaveda consists mainly of musical chants derived from the Rigveda that were sung by priests during soma ceremonies.
+- The Atharvaveda contains spells, charms, and incantations for various purposes, such as healing, protection, and magic.
+- Each of the four Vedas has four parts: the Samhitas, the Brahmanas, the Aranyakas, and the Upanishads.
+- The Samhitas are the core texts of the Vedas, containing the original mantras or verses.
+- The Brahmanas are commentaries on the Samhitas, explaining the meaning and significance of the rituals and sacrifices.
+- The Aranyakas are texts for forest-dwellers and hermits, focusing on the mystical and symbolic aspects of the rituals and sacrifices.
+- The Upanishads are philosophical and mystical texts that explore the nature of the self, the supreme reality, and the relationship between them.
+- The Vedas are considered to be revealed by the gods to the sages or rishis, who transmitted them orally to their disciples for generations.
+- The Vedas are regarded as shruti, meaning "that which is heard" or "divine revelation", and are the highest authority in Hinduism.
+- The Vedas are also the source of the six orthodox schools of Hindu philosophy, namely Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta.
+- The Vedas are the oldest and most sacred scriptures of Hinduism, and are revered by Hindus as the eternal and infallible word of God.

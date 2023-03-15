@@ -1,0 +1,10 @@
+# Preparation of Different Resins
+
+Resins are organic compounds that are solid or semi-solid at room temperature and have a high molecular weight. They are usually derived from natural sources, such as plants, animals, or microorganisms, or synthesized from simple monomers, such as phenol, formaldehyde, or acrylic acid. Resins have various applications in industries, such as coatings, adhesives, plastics, rubber, and cosmetics.
+
+Some of the common methods of preparing different resins are:
+
+- **Polymerization**: This is the process of joining monomers together to form long chains of repeating units, called polymers. Polymerization can be initiated by heat, light, catalysts, or chemical agents. For example, phenol and formaldehyde can be polymerized to form phenol-formaldehyde resin, which is widely used as a thermosetting plastic and an adhesive.
+- **Condensation**: This is the process of removing water or other small molecules from two or more reactants to form a larger molecule. Condensation can also be catalyzed by heat, acid, or base. For example, glycerol and phthalic anhydride can be condensed to form glyptal resin, which is used as a coating and a plasticizer.
+- **Esterification**: This is the process of forming an ester bond between an alcohol and a carboxylic acid. Esterification can be catalyzed by acid or base. For example, glycerol and rosin (a natural resin obtained from pine trees) can be esterified to form glycerol ester of rosin, which is used as a tackifier and a stabilizer.
+- **Hydrolysis**: This is the process of breaking down a large molecule into smaller molecules by adding water. Hydrolysis can be catalyzed by acid or base. For example, urea and formaldehyde can be hydrolyzed to form urea-formaldehyde resin, which is used as a fertilizer and an adhesive.

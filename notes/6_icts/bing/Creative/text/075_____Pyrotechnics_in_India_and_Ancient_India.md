@@ -1,0 +1,11 @@
+### Pyrotechnics in India and Ancient India
+
+- Pyrotechnics is the art and science of creating and using fireworks for entertainment, military, or ceremonial purposes.
+- The origin of pyrotechnics is traced back to China, where gunpowder was invented around the 9th century CE and used for fireworks, rockets, and weapons.
+- The gunpowder technology and the pyrotechnical entertainment mixtures found their way from China to India through the Arabs. One of the earliest accounts of fireworks in India is made by Abdur Razzaq, the ambassador of the Timurid Sultan Shahrukh to the court of the Vijayanagar king Devaraya II in 1443  .
+- Fireworks and pyrotechnic shows existed as a form of royal entertainment in many medieval Indian kingdoms during festivals, events and special occasions like weddings. Manufacturing formulas for fireworks describing pyrotechnic mixtures are found within Kautukachintamani, a Sanskrit volume by Gajapati Prataparudradeva (1497-1539), a reputed king of Odisha .
+- It is possible that Chinese pyrotechnic formulas were brought to India around 1400 AD and modified according to ingredients that were available in India. There are accounts of fireworks being used in 1518 in weddings in Gujarat, and in 1609 when Ibrahim Adil Shah, the Sultan of Bijapur spent Rs 80,000 on fireworks alone.
+- Fireworks became a popular feature of religious and cultural festivals in India, especially Diwali, the festival of lights. Fireworks are also used to celebrate other occasions such as weddings, birthdays, anniversaries, and New Year's Eve.
+- India is one of the largest producers and consumers of fireworks in the world, with an estimated annual turnover of Rs 20,000 crore and employing over 8 lakh people, mostly in Tamil Nadu.
+- Fireworks have also been a source of environmental and health concerns in India, as they cause air and noise pollution, fire accidents, injuries, and animal distress. Several regulations and bans have been imposed by the government and the courts to limit the use and sale of fireworks, especially during Diwali.
+- Pyrotechnics is a fascinating and ancient art that has enriched the cultural and historical heritage of India, but also poses challenges and risks that need to be addressed responsibly and sustainably.

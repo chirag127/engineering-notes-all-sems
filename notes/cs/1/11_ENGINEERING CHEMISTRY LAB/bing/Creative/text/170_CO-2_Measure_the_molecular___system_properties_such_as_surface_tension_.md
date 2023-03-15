@@ -1,0 +1,21 @@
+# CO2 Molecular Properties and Surface Tension
+
+- Carbon dioxide (CO2) is a linear molecule with a bond length of 116.3 pm and a bond angle of 180 degrees.
+- CO2 is a non-polar molecule with a dipole moment of zero and a symmetrical distribution of electrons.
+- CO2 has a molecular weight of 44.0095 g/mol and a molar volume of 22.26 L/mol at standard temperature and pressure.
+- CO2 has a critical temperature of 304.13 K and a critical pressure of 7.38 MPa.
+- CO2 has a triple point at 216.58 K and 0.517 MPa, where it can exist as a solid, liquid, and gas.
+- CO2 has a sublimation point at 194.65 K and 1 atm, where it can transition directly from solid to gas.
+- CO2 has a density of 1.977 kg/m3 at 0 °C and 1 atm, and 1.842 kg/m3 at 25 °C and 1 atm.
+- CO2 has a specific heat capacity of 0.844 kJ/kg K at 25 °C and 1 atm, and 0.657 kJ/kg K at 100 °C and 1 atm.
+- CO2 has a thermal conductivity of 0.0166 W/m K at 0 °C and 1 atm, and 0.0253 W/m K at 100 °C and 1 atm.
+- CO2 has a viscosity of 0.0148 mPa s at 0 °C and 1 atm, and 0.0152 mPa s at 25 °C and 1 atm.
+- CO2 has a surface tension of 0.0012 N/m at its triple point, and 0.0 N/m at its critical point.
+- Surface tension is the energy, or work, required to increase the surface area of a liquid due to intermolecular forces.
+- Surface tension depends on the nature of the liquid, the temperature, and the presence of solutes or surfactants.
+- CO2 has a low surface tension compared to water (0.072 N/m at 25 °C) because it has weaker intermolecular forces (London dispersion forces) than water (hydrogen bonds).
+- CO2 can form aqueous solutions with various solvents, such as monoethanolamine (MEA), which can affect its density and surface tension .
+- The density and surface tension of CO2-loaded aqueous MEA solutions depend on the amine mass ratio, the CO2 loading, and the temperature .
+- The density of CO2-loaded aqueous MEA solutions decreases with increasing CO2 loading and temperature, and increases with increasing amine mass ratio .
+- The surface tension of CO2-loaded aqueous MEA solutions decreases with increasing CO2 loading and temperature, and increases with increasing amine mass ratio .
+- The surface tension of CO2-loaded aqueous MEA solutions is lower than that of pure water at the same temperature .

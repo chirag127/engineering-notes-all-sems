@@ -1,0 +1,12 @@
+# CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness of water is the measure of the concentration of calcium and magnesium ions in water. It is expressed in terms of equivalent calcium carbonate (CaCO3).
+- Alkalinity of water is the measure of the capacity of water to neutralize acids. It is mainly due to the presence of bicarbonates, carbonates and hydroxides of calcium, magnesium and other metals. It is also expressed in terms of equivalent calcium carbonate (CaCO3).
+- Hardness and alkalinity of water are important parameters for water quality assessment, as they affect the suitability of water for domestic, industrial and agricultural purposes.
+- The methods for measuring hardness and alkalinity of water are:
+
+  - Hardness:
+    - EDTA titration method: This is the most common and accurate method for measuring total hardness of water. It involves titrating a known volume of water sample with a standard solution of ethylenediaminetetraacetic acid (EDTA), using eriochrome black T as an indicator. The end point is marked by a color change from wine red to blue. The total hardness is calculated from the volume and concentration of EDTA used.
+    - Soap titration method: This is a simple and rapid method for measuring approximate hardness of water. It involves titrating a known volume of water sample with a standard soap solution, using phenolphthalein as an indicator. The end point is marked by the formation of a stable lather. The hardness is calculated from the volume and concentration of soap used.
+  - Alkalinity:
+    - Phenolphthalein and methyl orange titration method: This is the most common and accurate method for measuring total alkalinity of water. It involves titrating a known volume of water sample with a standard acid solution, using phenolphthalein and methyl orange as indicators. The end point for phenolphthalein is marked by a color change from pink to colorless, indicating the neutralization of hydroxides and half of the carbonates. The end point for methyl orange is marked by a color change from yellow to orange, indicating the neutralization of the remaining carbonates and bicarbonates. The total alkalinity is calculated from the volume and concentration of acid used.

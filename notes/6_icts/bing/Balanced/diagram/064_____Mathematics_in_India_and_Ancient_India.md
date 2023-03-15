@@ -1,0 +1,21 @@
+### Mathematics in India and Ancient India
+
+- Mathematics or 'Ganita' was the 'Science of Calculations' in ancient India.
+- Mathematics was primarily studied in the context of numerical computation and geometric measurement.
+- Most of the Indian mathematical work can be found as a part of 'Jyotisha' or Astronomy.
+- Mathematics in ancient India was so well developed that it was not restricted only to the elite scholars, but also used by the common people in their daily activities and profession .
+- The history of Indian mathematics dates back to the vedic period (around 1500 B.C.).
+- Some of the major achievements of Indian mathematics are:
+  - The concept of zero and the decimal place-value system  .
+  - The use of algebraic notation and methods to solve linear and quadratic equations .
+  - The development of trigonometry, including the sine, cosine and tangent functions  .
+  - The discovery of the Pythagorean theorem and the value of pi .
+  - The invention of negative numbers and the rules for their operations .
+  - The formulation of the binomial theorem and the Pascal's triangle .
+  - The introduction of calculus and the concept of infinity  .
+- Some of the prominent Indian mathematicians are:
+  - Aryabhata (476-550 CE), who wrote the Aryabhatiya, a treatise on astronomy and mathematics  .
+  - Brahmagupta (598-668 CE), who wrote the Brahmasphutasiddhanta, a work on arithmetic, algebra and geometry .
+  - Bhaskara II (1114-1185 CE), who wrote the Siddhanta Siromani, a comprehensive text on mathematics and astronomy .
+  - Varahamihira (505-587 CE), who wrote the Panchasiddhantika, a summary of five earlier astronomical works .
+  - Srinivasa Ramanujan (1887-1920 CE), who made remarkable contributions to number theory, infinite series and continued fractions  .

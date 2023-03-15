@@ -1,0 +1,28 @@
+## Unit 4 - Fiber Optics & Laser
+
+- Fiber optics is the technology of transmitting light signals through thin, flexible fibers of glass or plastic.
+- A fiber optic cable consists of a core, a cladding, and a protective coating.
+- The core is the central part of the fiber that carries the light signal.
+- The cladding is the outer layer of the fiber that reflects the light back into the core and prevents it from escaping.
+- The coating is the material that covers the cladding and protects the fiber from damage and moisture.
+- The principle of total internal reflection is the basis of fiber optics. It states that when light travels from a denser medium to a less dense medium, it bends away from the normal. If the angle of incidence is greater than the critical angle, the light is completely reflected back into the denser medium.
+- The critical angle is the minimum angle of incidence for which total internal reflection occurs. It depends on the refractive indices of the two media.
+- The numerical aperture (NA) is a measure of the light-gathering ability of a fiber. It is defined as the sine of the maximum acceptance angle, which is the angle at which light can enter the fiber and still be guided by total internal reflection.
+- The NA also determines the bandwidth of the fiber, which is the maximum amount of data that can be transmitted per unit time. A higher NA means a higher bandwidth, but also a higher attenuation, which is the loss of signal strength due to scattering and absorption.
+- The types of fiber optics are classified based on the number of modes, or paths, that light can take in the core. They are:
+  - Single-mode fiber: has a very thin core (about 10 micrometers) and allows only one mode of light to propagate. It has a low NA, a high bandwidth, and a low attenuation. It is used for long-distance and high-speed communication.
+  - Multimode fiber: has a thicker core (about 50 to 1000 micrometers) and allows multiple modes of light to propagate. It has a high NA, a low bandwidth, and a high attenuation. It is used for short-distance and low-speed communication.
+  - Graded-index fiber: has a core with a varying refractive index that decreases from the center to the edge. It reduces the modal dispersion, which is the spreading of light pulses due to different modes traveling at different speeds. It has a moderate NA, a moderate bandwidth, and a moderate attenuation. It is used for medium-distance and medium-speed communication.
+- A laser is a device that produces a coherent, monochromatic, and intense beam of light by stimulating the emission of photons from atoms or molecules.
+- The word laser is an acronym for light amplification by stimulated emission of radiation.
+- The basic components of a laser are:
+  - An active medium: the material that provides the atoms or molecules that emit photons. It can be a gas, a liquid, a solid, or a semiconductor.
+  - An energy source: the device that supplies energy to the active medium to excite the atoms or molecules to higher energy levels. It can be an electric current, a flash lamp, a chemical reaction, or another laser.
+  - An optical cavity: the structure that contains the active medium and reflects the photons back and forth to amplify them. It consists of two mirrors, one fully reflective and one partially reflective, that form a resonator.
+  - An output coupler: the partially reflective mirror that allows some of the amplified photons to escape the optical cavity and form the laser beam.
+- The principle of laser operation is based on the process of stimulated emission, which is the opposite of absorption. It states that when an atom or molecule in an excited state is hit by a photon with the same energy as the energy gap between the excited state and a lower state, it emits another photon with the same energy, frequency, phase, and direction as the incident photon. This results in the amplification of light.
+- The condition for laser operation is that the population inversion must be achieved, which means that the number of atoms or molecules in the excited state must be greater than the number in the lower state. This can be done by pumping energy into the active medium and using a suitable energy level scheme, such as a three-level or a four-level system.
+- The properties of laser light are:
+  - Coherence: the laser light has a constant phase difference and a fixed wavelength, which means that the light waves are in sync and do not interfere destructively.
+  - Monochromaticity: the laser light has a single wavelength and a narrow frequency range, which means that the light is pure and has a high spectral resolution.
+  - Intensity: the laser light has a high power and

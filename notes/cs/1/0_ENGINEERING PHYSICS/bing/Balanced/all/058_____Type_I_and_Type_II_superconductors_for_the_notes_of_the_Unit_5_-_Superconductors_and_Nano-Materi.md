@@ -1,0 +1,7 @@
+# Type I and Type II Superconductors
+
+- Superconductors are materials that have zero electrical resistance and perfect diamagnetism below a certain critical temperature.
+- Superconductors can be classified into two types based on their behavior in the presence of an external magnetic field: type I and type II.
+- Type I superconductors have only one critical magnetic field, Hc, above which they lose their superconductivity and become normal conductors. They expel all the magnetic flux from their interior when the applied field is below Hc, a phenomenon known as the Meissner effect. They are usually pure metals, such as mercury, lead, tin, and aluminum.
+- Type II superconductors have two critical magnetic fields, Hc1 and Hc2, between which they exhibit a mixed state of superconductivity and normal conductivity. They allow some magnetic flux to penetrate their interior in the form of quantized vortices, creating a non-uniform magnetic field. They are usually metal alloys or complex oxide ceramics, such as niobium, vanadium, technetium, and high-temperature superconductors.
+- Type II superconductors can sustain much higher magnetic fields and currents than type I superconductors, making them more suitable for practical applications, such as magnets, generators, motors, and transmission lines.

@@ -1,0 +1,16 @@
+### Mathematics in India and Ancient India
+
+Mathematics is the science of numbers, shapes, patterns and logic. It has been developed and refined by various civilizations over thousands of years. In this section, we will briefly outline some of the main achievements and contributions of mathematics in India and ancient India.
+
+- Mathematics in ancient India was called 'Ganita', which means 'the science of calculation'. It was mainly used for numerical computation and geometric measurement, as well as for astronomy, astrology, music, architecture and other fields.
+- The earliest evidence of mathematical knowledge in India comes from the Indus Valley Civilization (c. 2500-1900 BCE), which had a sophisticated system of weights and measures, a decimal place-value notation, and geometric designs on seals and pottery.
+- The Vedic period (c. 1500-500 BCE) saw the development of the Vedas, the oldest scriptures of Hinduism, which contain various hymns, rituals and cosmological speculations. The Vedanga Jyotisha, one of the six auxiliary disciplines of the Vedas, deals with astronomy and calendar calculations. It also contains some mathematical concepts, such as the use of fractions, square roots, geometric progressions, and the approximation of pi.
+- The classical period (c. 400-1200 CE) witnessed the flourishing of mathematics in India, with many influential scholars and works. Some of the notable names are Aryabhata, Brahmagupta, Bhaskara II, and Varahamihira. They made significant contributions to various branches of mathematics, such as algebra, arithmetic, trigonometry, geometry, and combinatorics.
+- Some of the major achievements of Indian mathematics in this period include:
+  - The invention of the concept of zero and the use of the decimal place-value system, which revolutionized the representation and calculation of numbers. 
+  - The discovery of the rules for operating with negative numbers, fractions, and irrational numbers, as well as the solution of quadratic, cubic, and indeterminate equations.
+  - The development of the sine, cosine, and versine functions, and the use of trigonometric tables and formulas for solving astronomical and geometric problems.
+  - The formulation of the Pythagorean theorem, the area of a triangle, the volume of a sphere, and the value of pi, among other geometric results.
+  - The study of combinatorial problems, such as the enumeration of permutations, combinations, and partitions, and the use of the binomial theorem and Pascal's triangle.
+- Mathematics in India continued to develop and diversify in the medieval and modern periods, with influences from Islamic, Persian, and European mathematics. Some of the notable mathematicians and works of this period are Madhava, Nilakantha, Srinivasa Ramanujan, and the Kerala school of astronomy and mathematics.
+- Mathematics in India has had a profound impact on the world, especially in the fields of astronomy, numerals, algebra, and trigonometry. It has also inspired and enriched the mathematical traditions of other cultures, such as China, Arabia, and Europe.

@@ -1,0 +1,11 @@
+### 1. Study of Lab Equipment and Components: CRO, Multimeter, and Function Generator, Power supply-Active, Passive Components and Bread Board.
+
+- CRO: Cathode Ray Oscilloscope is a device that displays the waveform of an electrical signal on a screen. It can measure voltage, frequency, phase difference, and other parameters of a signal. It consists of a cathode ray tube, a vertical and a horizontal amplifier, a time base generator, and a trigger circuit.
+- Multimeter: A multimeter is a device that can measure multiple electrical quantities, such as voltage, current, resistance, capacitance, etc. It can be analog or digital, depending on the type of display. It consists of a selector switch, a meter, and two probes.
+- Function Generator: A function generator is a device that can produce different types of periodic signals, such as sine, square, triangle, etc. It can vary the frequency, amplitude, and shape of the output signal. It consists of a signal generator, an attenuator, and a display.
+- Power supply: A power supply is a device that converts AC voltage to DC voltage for powering electronic circuits. It can be fixed or variable, depending on the output voltage range. It consists of a transformer, a rectifier, a filter, and a regulator.
+- Active Components: Active components are those that can amplify or control the flow of electric current in a circuit. They require an external source of power to operate. Examples are transistors, diodes, LEDs, etc.
+- Passive Components: Passive components are those that can store or dissipate electric energy in a circuit. They do not require an external source of power to operate. Examples are resistors, capacitors, inductors, etc.
+- Bread Board: A bread board is a device that allows the user to create temporary circuits without soldering. It consists of a plastic board with holes and metal strips that connect the components. It is used for prototyping and testing electronic circuits.
+
+: ELECTRONICS DEVICE MANUAL (NEC-354) - Dronacharya Group of Institutions ... https://gnindia.dronacharya.info/ECE/downloads/Labmanuals/Electronics_Devices.pdf

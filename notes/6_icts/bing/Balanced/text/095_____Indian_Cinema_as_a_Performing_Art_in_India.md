@@ -1,0 +1,11 @@
+### Indian Cinema as a Performing Art in India
+
+- Indian cinema is one of the most popular and influential forms of performing arts in India, as well as in the world.
+- Indian cinema encompasses a variety of genres, languages, styles, and themes, reflecting the diversity and richness of Indian culture and society.
+- Indian cinema has a long and complex history, dating back to the silent era of the early 20th century, when pioneers like Dadasaheb Phalke, Raja Harishchandra, and Ardeshir Irani made the first feature films in India.
+- Indian cinema has evolved through various phases and movements, such as the Golden Age of Hindi cinema in the 1950s and 1960s, the Parallel Cinema movement of the 1970s and 1980s, the New Wave of Indian cinema in the 1990s and 2000s, and the contemporary multiplex and digital era of the 21st century.
+- Indian cinema has produced some of the most acclaimed and influential filmmakers, actors, writers, composers, and technicians in the world, such as Satyajit Ray, Raj Kapoor, Guru Dutt, Bimal Roy, Ritwik Ghatak, Shyam Benegal, Adoor Gopalakrishnan, Mrinal Sen, Amitabh Bachchan, Naseeruddin Shah, Shabana Azmi, A.R. Rahman, Aamir Khan, Rajkumar Hirani, Anurag Kashyap, and many more.
+- Indian cinema has also been a source of inspiration and influence for other forms of performing arts in India, such as theatre, dance, music, and literature, as well as for other regional and global cinemas, such as Hollywood, Bollywood, and world cinema.
+- Indian cinema has also been a medium of social and cultural expression, commentary, and critique, addressing various issues and themes, such as nationalism, identity, gender, caste, class, religion, violence, poverty, development, globalization, and more.
+- Indian cinema has also been a site of contestation and controversy, facing various challenges and criticisms, such as censorship, piracy, plagiarism, nepotism, stereotyping, representation, and more.
+- Indian cinema has also been a subject of academic and popular interest, generating various forms of scholarship, criticism, appreciation, and fandom, both within and outside India.

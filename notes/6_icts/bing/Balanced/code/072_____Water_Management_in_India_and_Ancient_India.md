@@ -1,0 +1,11 @@
+### Water Management in India and Ancient India
+
+Water is a vital resource for human existence and development. India has a rich and diverse history of water management, dating back to the ancient civilizations of Harappa and Vedic India. Some of the key aspects of water management in India and ancient India are:
+
+- **Hydrologic cycle**: The ancient Indians had a good understanding of the hydrologic cycle, which is the movement of water between the atmosphere, land, and oceans. They recognized the importance of rainfall, evaporation, transpiration, infiltration, runoff, and groundwater recharge in maintaining the water balance. They also observed the seasonal and spatial variations of water availability and scarcity, and devised methods to cope with them.
+
+- **Hydraulic structures**: The ancient Indians built various types of hydraulic structures, such as wells, tanks, canals, dams, reservoirs, and stepwells, to store, distribute, and utilize water for various purposes. Some of these structures are still in use today, and are examples of engineering marvels and architectural beauty. Some of the famous hydraulic structures in ancient India are the Great Bath of Mohenjo-daro, the Grand Anicut of Kaveri, the Rani ki Vav of Patan, and the Chand Baori of Abhaneri .
+
+- **Water treatment**: The ancient Indians also had knowledge of water treatment, which is the process of improving the quality of water for drinking, irrigation, or other uses. They used natural materials, such as brass, tulsi, vetiver, and drumsticks, to purify water and reduce contaminants, such as fluoride, bacteria, and sediments. They also practiced water conservation, such as rainwater harvesting, groundwater recharge, and recycling of wastewater .
+
+- **Water governance**: The ancient Indians also had a system of water governance, which is the set of rules, institutions, and practices that regulate the use and management of water resources. They had a concept of water as a common good, and a duty to protect and share it with others. They also had a hierarchy of water rights, based on the source, purpose, and quantity of water. They also had a system of water taxation, water disputes resolution, and water ethics, based on the principles of dharma, karma, and ahimsa.

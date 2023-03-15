@@ -1,0 +1,26 @@
+### Pre-Vedic Religion in India
+
+- Pre-Vedic religion refers to the religious beliefs and practices of the people who lived in the Indian subcontinent before the arrival of the Indo-Aryan speakers around 1500 BCE.
+- Pre-Vedic religion is not well documented, but some evidence can be found in the archaeological remains of the Indus Valley Civilization (IVC), the rock paintings of Bhimbetka, and the oral traditions of the Dravidian and Munda peoples.
+- The IVC was a highly urbanized and sophisticated culture that flourished from 2500 to 1900 BCE in the Indus river basin. It had a complex social structure, a writing system, and a variety of religious symbols and rituals.
+- Some of the religious features of the IVC include:
+  - The worship of a mother goddess, who may have represented fertility, nature, or the earth.
+  - The worship of a horned deity, who may have been associated with animals, agriculture, or the underworld.
+  - The worship of a phallic symbol, which may have represented male potency, creation, or the cosmic pillar.
+  - The worship of fire, water, and trees, which may have been seen as sources of life and purification.
+  - The practice of ritual bathing, yoga, and meditation, which may have been aimed at achieving spiritual enlightenment or harmony.
+  - The use of seals, amulets, and figurines, which may have served as talismans, offerings, or representations of deities.
+- The rock paintings of Bhimbetka are among the oldest surviving art forms in India, dating back to 30,000 BCE or older. They depict scenes of hunting, dancing, fighting, and animal motifs, suggesting a close connection between humans and nature.
+- The rock paintings may also reflect some aspects of pre-Vedic religion, such as:
+  - The worship of animal spirits, who may have been seen as guardians, ancestors, or totems.
+  - The worship of natural forces, such as the sun, the moon, the stars, and the rain, who may have been seen as gods or goddesses.
+  - The worship of shamanic figures, who may have been seen as mediators between the human and the spirit worlds.
+  - The practice of magic, sorcery, and healing, which may have been based on the belief in the power of words, symbols, and rituals.
+- The Dravidian and Munda peoples are the indigenous inhabitants of India, who have preserved their languages, cultures, and traditions despite the influence of the Indo-Aryan and later invaders. They have a rich and diverse oral literature, which includes myths, legends, folktales, and songs.
+- The Dravidian and Munda religions are also pre-Vedic in origin, and have some common features, such as:
+  - The worship of a supreme being, who is often seen as the creator, the sustainer, and the destroyer of the universe.
+  - The worship of a multitude of gods and goddesses, who are often associated with natural phenomena, localities, or human activities.
+  - The worship of ancestral spirits, who are often seen as the protectors, the guides, and the benefactors of the living.
+  - The worship of nature spirits, who are often seen as the controllers, the helpers, and the challengers of humans.
+  - The practice of sacrifice, offering, and prayer, which are often aimed at appeasing, honoring, or requesting the favor of the deities and the spirits.
+  - The practice of divination, prophecy, and astrology, which are often based on the belief in the signs, the omens, and the cycles of nature.

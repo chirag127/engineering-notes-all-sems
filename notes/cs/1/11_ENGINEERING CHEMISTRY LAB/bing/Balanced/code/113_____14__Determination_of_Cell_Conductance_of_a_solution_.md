@@ -1,0 +1,27 @@
+### 14. Determination of Cell Conductance of a solution
+
+- Cell conductance is the measure of the ability of a solution to conduct electric current through it.
+- Cell conductance depends on the concentration, type and mobility of the ions present in the solution, as well as the temperature and geometry of the cell.
+- Cell conductance is measured by applying an alternating current (AC) of known frequency and amplitude to the cell and measuring the resulting voltage drop across the cell terminals.
+- Cell conductance is related to the cell resistance by the equation: `G = 1/R`, where `G` is the cell conductance, `R` is the cell resistance, and `1` is the unit of conductance (siemens or S).
+- Cell conductance can be expressed as the product of the cell constant and the specific conductance of the solution: `G = k x C`, where `k` is the cell constant, `C` is the specific conductance of the solution, and `x` is the multiplication sign.
+- The cell constant is a characteristic of the cell geometry and is defined as the ratio of the distance between the electrodes to the cross-sectional area of the electrodes: `k = l/A`, where `l` is the distance between the electrodes, `A` is the cross-sectional area of the electrodes, and `/` is the division sign.
+- The specific conductance of the solution is a characteristic of the solution and is defined as the conductance of a unit volume of the solution: `C = G/V`, where `V` is the volume of the solution, and `G` is the cell conductance.
+- The specific conductance of the solution can be calculated from the equivalent conductance of the solution and the concentration of the solution: `C = Lambda x m`, where `Lambda` is the equivalent conductance of the solution, `m` is the concentration of the solution in equivalents per liter, and `x` is the multiplication sign.
+- The equivalent conductance of the solution is the conductance of a solution containing one equivalent of the solute: `Lambda = C/m`, where `C` is the specific conductance of the solution, `m` is the concentration of the solution in equivalents per liter, and `/` is the division sign.
+- The equivalent conductance of the solution can be determined experimentally by measuring the cell conductance of a series of solutions of known concentration and plotting the equivalent conductance versus the square root of the concentration. The plot will be a straight line with a slope of `-b` and an intercept of `Lambda_0`, where `Lambda_0` is the equivalent conductance of the solution at infinite dilution and `b` is a constant that depends on the nature of the solute.
+- The equivalent conductance of the solution at infinite dilution can be calculated from the limiting molar conductivities of the ions present in the solution: `Lambda_0 = lambda_+ + lambda_-`, where `lambda_+` is the limiting molar conductivity of the cation, `lambda_-` is the limiting molar conductivity of the anion, and `+` is the addition sign.
+- The limiting molar conductivities of the ions are the molar conductivities of the ions at infinite dilution and can be obtained from tables or empirical equations. The molar conductivity of an ion is the conductance of a solution containing one mole of the ion: `lambda = C/M`, where `C` is the specific conductance of the solution, `M` is the molar concentration of the ion, and `/` is the division sign.
+- The determination of cell conductance of a solution involves the following steps:
+  - Prepare a series of solutions of known concentration of the solute.
+  - Rinse the cell with distilled water and then with a small amount of the solution to be measured.
+  - Fill the cell with the solution and connect it to the conductance meter.
+  - Adjust the frequency and amplitude of the AC source to obtain a stable reading of the cell voltage.
+  - Record the cell voltage and the temperature of the solution.
+  - Repeat the steps for each solution in the series.
+  - Calculate the cell resistance from the cell voltage and the AC source parameters.
+  - Calculate the cell conductance from the cell resistance.
+  - Calculate the specific conductance of the solution from the cell conductance and the cell constant.
+  - Calculate the equivalent conductance of the solution from the specific conductance and the concentration of the solution.
+  - Plot the equivalent conductance versus the square root of the concentration and obtain the slope and the intercept of the line.
+  - Calculate the equivalent conductance of the solution at infinite dilution from the intercept of the line.

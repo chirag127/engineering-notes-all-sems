@@ -1,0 +1,9 @@
+### 5. Synthesis of Organic Compounds: Adipic Acid and Paracetamol by Conventional and Green Route
+
+Adipic acid and paracetamol are two important organic compounds that can be synthesized through both conventional and green routes. The conventional route involves the use of traditional chemical methods, while the green route involves the use of more environmentally friendly methods.
+
+1. **Adipic Acid:** Adipic acid is an important industrial chemical used in the production of nylon. It can be synthesized through the conventional route by the oxidation of cyclohexanol or cyclohexanone with nitric acid. This process produces large amounts of nitrous oxide, a potent greenhouse gas. The green route for the synthesis of adipic acid involves the use of a biocatalyst, such as a lipase enzyme, to catalyze the reaction between cyclohexanol and hydrogen peroxide. This process produces water as the only byproduct, making it a more environmentally friendly option.
+
+2. **Paracetamol:** Paracetamol is a widely used pain reliever and fever reducer. It can be synthesized through the conventional route by the nitration of phenol, followed by the reduction of the nitro group to an amino group, and then acetylation. The green route for the synthesis of paracetamol involves the use of a biocatalyst, such as a nitrilase enzyme, to catalyze the hydrolysis of 4-aminophenol to paracetamol. This process produces water as the only byproduct, making it a more environmentally friendly option.
+
+In summary, the synthesis of adipic acid and paracetamol can be achieved through both conventional and green routes. The green route, which involves the use of biocatalysts, is a more environmentally friendly option as it produces water as the only byproduct.

@@ -1,0 +1,9 @@
+# Upon completion of the course the student should be able to:
+
+- Define the basic concepts and terminology of artificial intelligence, such as agents, environments, rationality, search, knowledge representation, inference, planning, learning, natural language processing, computer vision, etc.
+- Apply various search algorithms, such as uninformed search, informed search, local search, adversarial search, constraint satisfaction, etc., to solve problems that require finding optimal or near-optimal solutions.
+- Design and implement knowledge-based systems, such as propositional logic, first-order logic, resolution, forward and backward chaining, semantic networks, ontologies, etc., to represent and reason with complex and uncertain information.
+- Compare and contrast different planning techniques, such as classical planning, hierarchical planning, partial-order planning, planning graphs, etc., to generate sequences of actions that achieve given goals.
+- Explain the principles and methods of machine learning, such as supervised learning, unsupervised learning, reinforcement learning, decision trees, neural networks, deep learning, etc., to enable agents to learn from data and experience.
+- Analyze and evaluate natural language processing techniques, such as tokenization, parsing, tagging, named entity recognition, sentiment analysis, machine translation, question answering, etc., to enable agents to understand and generate natural language texts.
+- Describe and apply computer vision techniques, such as image processing, feature extraction, object detection, face recognition, scene understanding, etc., to enable agents to perceive and interpret visual information.

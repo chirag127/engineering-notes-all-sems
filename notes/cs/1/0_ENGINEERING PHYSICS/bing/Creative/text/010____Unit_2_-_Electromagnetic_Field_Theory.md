@@ -1,0 +1,36 @@
+## Unit 2 - Electromagnetic Field Theory
+
+- Electromagnetic field theory is the study of the physical phenomena associated with electric and magnetic fields, and their interactions with matter and radiation.
+- Electric fields are produced by electric charges, and magnetic fields are produced by electric currents and changing electric fields.
+- Electric and magnetic fields can exert forces on charged particles, and can also induce electric currents and voltages in conductors and dielectrics.
+- Electric and magnetic fields can also propagate through space as electromagnetic waves, which carry energy and momentum, and can interact with matter and other electromagnetic waves.
+- The fundamental equations that describe the behavior of electric and magnetic fields are Maxwell's equations, which are a set of four partial differential equations that relate the electric and magnetic fields to their sources and to each other.
+- Maxwell's equations can be written in different forms, such as integral form, differential form, or vector form, depending on the choice of coordinate system and notation.
+- Maxwell's equations can also be derived from the principle of least action, which states that the action of a physical system is minimized when the system follows the equations of motion.
+- Maxwell's equations can be solved for various boundary conditions and sources, using analytical or numerical methods, to obtain the electric and magnetic fields in different regions of space and time.
+- Some of the important concepts and applications of electromagnetic field theory are:
+
+  - Coulomb's law, which gives the force between two point charges in vacuum.
+  - Gauss's law, which relates the electric flux through a closed surface to the net charge enclosed by the surface.
+  - Electric potential, which is the work done per unit charge to move a charge from a reference point to a given point in an electric field.
+  - Capacitance, which is the ratio of the charge stored on a conductor to the potential difference across it.
+  - Electric dipole, which is a pair of equal and opposite charges separated by a small distance, and produces an electric field that decreases as the inverse cube of the distance from the dipole.
+  - Electric polarization, which is the alignment of electric dipoles in a dielectric material when subjected to an external electric field.
+  - Dielectric constant, which is the ratio of the electric permittivity of a material to the electric permittivity of vacuum, and measures the ability of a material to store electric energy.
+  - Biot-Savart law, which gives the magnetic field due to a steady current element in vacuum.
+  - Ampere's law, which relates the magnetic flux through a closed loop to the net current passing through the loop.
+  - Magnetic force, which is the force exerted by a magnetic field on a moving charge or a current-carrying conductor.
+  - Magnetic dipole, which is a loop of current or a magnet, and produces a magnetic field that decreases as the inverse cube of the distance from the dipole.
+  - Magnetic moment, which is a measure of the strength and orientation of a magnetic dipole.
+  - Magnetic induction, which is the phenomenon of inducing an electric current or voltage in a conductor or a loop by changing the magnetic flux through it.
+  - Inductance, which is the ratio of the magnetic flux linked by a loop to the current flowing through it.
+  - Magnetic permeability, which is the ratio of the magnetic induction to the magnetic field in a material, and measures the ability of a material to support magnetic fields.
+  - Faraday's law, which states that the electromotive force induced in a loop is equal to the negative rate of change of the magnetic flux through the loop.
+  - Lenz's law, which states that the direction of the induced current or voltage is such that it opposes the change that caused it.
+  - Electromagnetic induction, which is the phenomenon of inducing an electric field in a region of space by changing the magnetic field in that region.
+  - Displacement current, which is a term added to Ampere's law to account for the changing electric flux in a capacitor or a dielectric.
+  - Maxwell's correction, which is the modification of Ampere's law to include the displacement current, and makes the law consistent with the conservation of charge and the symmetry of electric and magnetic fields.
+  - Electromagnetic wave, which is a self-sustaining disturbance of electric and magnetic fields that propagates through vacuum or a medium with a finite speed.
+  - Wave equation, which is a second-order partial differential equation that describes the propagation of electromagnetic waves in a homogeneous and isotropic medium.
+  - Poynting vector, which is a vector that gives the direction and magnitude of the energy flux carried by an electromagnetic wave.
+  - Polarization, which is the orientation of the electric field vector of an electromagnetic wave in a plane

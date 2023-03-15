@@ -1,0 +1,30 @@
+## Unit 4 - Fiber Optics & Laser
+
+- Fiber optics are thin strands of glass or plastic that can transmit light signals over long distances with minimal loss or interference.
+- Fiber optics have many applications in telecommunications, medicine, sensing, lighting, and imaging.
+- The basic components of a fiber optic system are a transmitter, a fiber, and a receiver.
+- The transmitter converts an electrical signal into a light signal, which is coupled into the fiber.
+- The fiber guides the light signal along its length, with the help of total internal reflection and cladding.
+- The receiver detects the light signal and converts it back into an electrical signal.
+- The main advantages of fiber optics are high bandwidth, low attenuation, immunity to electromagnetic interference, security, and flexibility.
+- The main disadvantages of fiber optics are high cost, fragility, difficulty of splicing, and need for specialized equipment and skills.
+- The main types of fiber optics are single-mode, multimode, and plastic optical fiber (POF).
+- Single-mode fibers have a small core diameter and can carry only one mode of light, which minimizes dispersion and allows for long-distance transmission.
+- Multimode fibers have a larger core diameter and can carry multiple modes of light, which increases dispersion and limits the bandwidth and distance.
+- POFs are made of plastic and have a very large core diameter, which makes them easy to handle and install, but also reduces the bandwidth and distance.
+- The main parameters that characterize a fiber optic are numerical aperture (NA), acceptance angle, mode field diameter (MFD), cutoff wavelength, attenuation, dispersion, and bandwidth.
+- NA is a measure of the light-gathering ability of a fiber, and it determines the maximum angle at which light can enter the fiber and still be guided.
+- Acceptance angle is the maximum angle at which light can be launched into the fiber from the air and still be guided.
+- MFD is the diameter of the region in the fiber core where most of the light power is confined, and it affects the coupling efficiency and splicing loss.
+- Cutoff wavelength is the minimum wavelength at which a fiber can support only one mode of light, and it defines the boundary between single-mode and multimode operation.
+- Attenuation is the loss of light power as it travels along the fiber, and it is caused by absorption, scattering, and bending.
+- Dispersion is the spreading of light pulses as they travel along the fiber, and it is caused by modal dispersion, chromatic dispersion, and polarization mode dispersion.
+- Bandwidth is the maximum data rate that can be transmitted over a fiber, and it is limited by attenuation and dispersion.
+- The main sources of light for fiber optics are light-emitting diodes (LEDs) and lasers.
+- LEDs are semiconductor devices that emit light when a current flows through them, and they have low cost, low power consumption, long lifetime, and wide spectral width.
+- Lasers are devices that emit coherent and monochromatic light by stimulated emission of photons, and they have high power, high modulation speed, narrow spectral width, and high directionality.
+- The main types of lasers are gas lasers, solid-state lasers, semiconductor lasers, and fiber lasers.
+- Gas lasers use a gas mixture as the active medium, and they can produce high-power and continuous-wave output, but they are bulky, expensive, and inefficient.
+- Solid-state lasers use a solid crystal or glass as the active medium, and they can produce high-power and pulsed output, but they require cooling and pumping systems.
+- Semiconductor lasers use a p-n junction as the active medium, and they can produce low-power and modulated output, but they are sensitive to temperature and feedback.
+- Fiber lasers use a doped fiber as the active medium, and they can produce high-power and tunable output, but they require optical isolators and couplers.

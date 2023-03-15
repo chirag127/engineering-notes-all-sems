@@ -1,0 +1,16 @@
+### Hindi Literature
+
+Hindi literature is the literature written in the Hindi language, which includes various dialects and scripts. Hindi literature has a rich and diverse history, spanning from the medieval to the modern period. Some of the main features and topics of Hindi literature are:
+
+- Hindi literature originated from the poetry of Apabhraṃśa, a group of languages derived from Sanskrit and Prakrit, such as Awadhi, Magadhi, Ardhamagadhi and Marwari.
+- Hindi literature can be divided into three broad styles: prose (gadya), poetry (padya) and prosimetrum (campū). Prose is the most common and versatile form of expression, while poetry is often used for lyrical and aesthetic purposes. Prosimetrum is a mixture of prose and poetry, usually found in epics and dramas.
+- Hindi literature has been influenced by various religious and philosophical traditions, such as Hinduism, Buddhism, Jainism, Islam, Sikhism and Bhakti. Many Hindi writers have explored themes of devotion, ethics, morality, social justice, humanism and nationalism in their works.
+- Hindi literature has also reflected the folk culture and oral traditions of the Indian subcontinent, such as legends, myths, fables, proverbs, riddles and songs. These genres have often been used to convey moral lessons, cultural values, humor and satire.
+- Hindi literature has undergone several phases of development and transformation, depending on the historical, political and cultural contexts. Some of the major periods of Hindi literature are:
+
+  - Adikal (early period): from the 11th to the 14th century, characterized by the emergence of Hindi as a distinct language from Apabhraṃśa and the influence of Bhakti movement and Islamic culture. Some of the prominent writers of this period are Kabir, Tulsidas, Surdas, Amir Khusrau and Malik Muhammad Jayasi .
+  - Bhaktikal (devotional period): from the 15th to the 17th century, marked by the rise of various sects and schools of Bhakti, such as Vaishnavism, Shaivism, Shaktism and Nirgunism. Some of the notable writers of this period are Mirabai, Ravidas, Nanak, Dadu, Chaitanya and Vallabhacharya .
+  - Ritikal (riti or style period): from the 18th to the 19th century, dominated by the courtly and ornate style of poetry, influenced by Sanskrit and Persian aesthetics. Some of the famous writers of this period are Keshavdas, Bihari, Ghananand, Matiram and Dev .
+  - Adhunik kal (modern period): from the 19th century onwards, characterized by the emergence of various genres and forms of literature, such as novels, short stories, essays, dramas, biographies and criticism, influenced by the Western and Indian Renaissance, the nationalist movement, the social reform movement and the progressive movement. Some of the renowned writers of this period are Premchand, Jaishankar Prasad, Mahadevi Varma, Suryakant Tripathi 'Nirala', Harivansh Rai Bachchan, Ramdhari Singh 'Dinkar', Bhisham Sahni, Mahasweta Devi, Nirmal Verma and Rajendra Yadav .
+
+Hindi literature is a vast and vibrant field of study, offering insights into the culture, history and identity of the Hindi-speaking people. It is also a source of inspiration and creativity for many readers and writers across the world.

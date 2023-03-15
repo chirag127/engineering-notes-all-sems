@@ -1,0 +1,62 @@
+# 8. Implementation of the given Boolean function using logic gates in both SOP and POS forms.
+
+- A Boolean function is a mathematical expression that maps a set of input values to a single output value, where the input and output values are either 0 (false) or 1 (true).
+- A logic gate is a physical device that implements a Boolean function using electrical signals.
+- There are two common forms of representing a Boolean function: sum of products (SOP) and product of sums (POS).
+- In SOP form, a Boolean function is written as a sum (logical OR) of one or more product terms (logical AND), where each product term consists of one or more literals (variables or their complements).
+- In POS form, a Boolean function is written as a product (logical AND) of one or more sum terms (logical OR), where each sum term consists of one or more literals (variables or their complements).
+- To implement a Boolean function using logic gates in SOP form, we need to use AND gates for each product term and OR gates for the sum of the product terms.
+- To implement a Boolean function using logic gates in POS form, we need to use OR gates for each sum term and AND gates for the product of the sum terms.
+- For example, consider the following Boolean function:
+
+  F(A, B, C) = A'B + BC
+
+  - This function is in SOP form, with two product terms: A'B and BC.
+  - To implement this function using logic gates, we need to use two AND gates, one for each product term, and one OR gate for the sum of the product terms.
+  - The logic circuit diagram is shown below:
+
+    ```
+    A ────o───┬───┐
+              │   │
+    B ────────┴─┬─┘
+              ┌─┴─┐
+    C ────────┤ & ├────┐
+              └───┘    │
+                       ┌─┐
+                       │+│─── F
+                       └─┘
+    ```
+
+  - This function can also be written in POS form, by applying the De Morgan's laws and the distributive property of Boolean algebra:
+
+    F(A, B, C) = A'B + BC
+               = (A + B')(B + C')
+               = (A + B')(B + C')'
+
+  - To implement this function using logic gates in POS form, we need to use two OR gates, one for each sum term, and one AND gate for the product of the sum terms.
+  - We also need to use NOT gates for the complements of the variables and the function.
+  - The logic circuit diagram is shown below:
+
+    ```
+    A ────────┐
+              │
+    B ────o───┴─┬───┐
+              ┌─┴─┐ │
+              │ + │ │
+              └─┬─┘ │
+    C ────o─────┴─┬─┘
+              ┌─┴─┐ │
+              │ + │ │
+              └─┬─┘ │
+                │   │
+                o   o
+                │   │
+                └─┬─┘
+                ┌─┴─┐
+                │ & │
+                └─┬─┘
+                  │
+                  o
+                  │
+                  F
+    ```

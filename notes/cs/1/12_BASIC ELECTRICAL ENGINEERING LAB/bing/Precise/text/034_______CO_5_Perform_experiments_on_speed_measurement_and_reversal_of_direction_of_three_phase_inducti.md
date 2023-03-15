@@ -1,0 +1,7 @@
+##### CO 5 Perform experiments on speed measurement and reversal of direction of three phase induction motor and Identify the type of DC and AC machines based on their construction. K4
+
+1. **Speed measurement of three phase induction motor**: The speed of a three phase induction motor can be measured using a tachometer, stroboscope, or by counting the number of revolutions per minute (RPM) using a stopwatch. The synchronous speed of the motor can be calculated using the formula: Ns = 120f/P, where Ns is the synchronous speed, f is the frequency of the supply, and P is the number of poles.
+
+2. **Reversal of direction of three phase induction motor**: The direction of rotation of a three phase induction motor can be reversed by interchanging any two of the three supply lines. This changes the direction of the rotating magnetic field, causing the rotor to rotate in the opposite direction.
+
+3. **Identification of DC and AC machines based on their construction**: DC machines can be identified by the presence of a commutator, which is used to convert the alternating current in the armature windings to direct current. AC machines, on the other hand, do not have a commutator and rely on the alternating current supplied to the stator windings to produce a rotating magnetic field. The rotor of an AC machine can be of the squirrel cage or wound type, while the rotor of a DC machine is typically of the wound type.

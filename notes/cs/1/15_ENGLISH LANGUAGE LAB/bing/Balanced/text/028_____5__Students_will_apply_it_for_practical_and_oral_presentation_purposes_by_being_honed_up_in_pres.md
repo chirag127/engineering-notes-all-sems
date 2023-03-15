@@ -1,0 +1,30 @@
+### 5. Students will apply it for practical and oral presentation purposes by being honed up in presentation skills and voice-dynamics. They will apply techniques for developing interpersonal communication skills and positive attitude leading to their professional competence.
+
+- This topic is about how students can use their knowledge and skills in real-life situations, such as giving presentations, interacting with others, and demonstrating their abilities.
+- To achieve this, students need to improve their presentation skills and voice-dynamics, which are the ways they use their voice, body language, and visual aids to communicate effectively and persuasively.
+- Presentation skills and voice-dynamics include aspects such as:
+  - Planning and preparing the content and structure of the presentation
+  - Choosing and using appropriate language and tone for the audience and purpose
+  - Delivering the presentation with confidence, clarity, and enthusiasm
+  - Using eye contact, gestures, facial expressions, and posture to engage the audience and convey the message
+  - Using visual aids, such as slides, charts, graphs, and images, to support and enhance the presentation
+  - Handling questions and feedback from the audience
+- Students also need to develop their interpersonal communication skills and positive attitude, which are the ways they interact with others in a respectful, cooperative, and constructive manner.
+- Interpersonal communication skills and positive attitude include aspects such as:
+  - Listening actively and attentively to others
+  - Asking and answering questions politely and relevantly
+  - Giving and receiving feedback constructively and respectfully
+  - Expressing opinions and ideas clearly and diplomatically
+  - Resolving conflicts and disagreements peacefully and effectively
+  - Showing interest, empathy, and appreciation for others
+  - Being open-minded, flexible, and adaptable to different situations and perspectives
+  - Being optimistic, confident, and motivated to achieve goals
+- By applying these techniques, students can enhance their professional competence, which is the ability to perform tasks and duties in a proficient, ethical, and responsible manner.
+- Professional competence involves aspects such as:
+  - Having the required knowledge and skills for the job or role
+  - Applying the knowledge and skills in practice and problem-solving
+  - Following the standards and norms of the profession or industry
+  - Demonstrating integrity, honesty, and accountability
+  - Working collaboratively and cooperatively with others
+  - Seeking and pursuing opportunities for learning and improvement
+  - Showing initiative, creativity, and innovation

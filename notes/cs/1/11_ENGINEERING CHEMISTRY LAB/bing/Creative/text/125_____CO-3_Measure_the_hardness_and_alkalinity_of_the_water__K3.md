@@ -1,0 +1,10 @@
+### CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness and alkalinity are two parameters that indicate the water quality and the suitability of water for various purposes.
+- Hardness measures the total amount (concentration) of divalent salts, mainly calcium and magnesium, that can form insoluble deposits or scale in pipes, boilers, and appliances .
+- Alkalinity measures the total amount of bases, mainly bicarbonate and carbonate, that can neutralize acids and maintain the pH of water .
+- Hardness and alkalinity are related through common ions formed in aquatic systems. The counter-ions associated with the bicarbonate and carbonate fraction of alkalinity are the principal cations responsible for hardness (usually Ca ++ and Mg ++) (Equations 3 and 4).
+- Hardness and alkalinity often occur together, because some compounds can contribute both alkalinity and hardness ions.
+- Hardness can be classified into two types: temporary and permanent. Temporary hardness, also known as carbonate hardness, is caused by the presence of bicarbonate and carbonate ions that can be removed by boiling or lime treatment. Permanent hardness, also known as non-carbonate hardness, is caused by the presence of other ions, such as sulfate, chloride, and nitrate, that cannot be removed by boiling or lime treatment .
+- Alkalinity can be classified into three types: total, carbonate, and bicarbonate. Total alkalinity is the sum of all the bases that can react with acid. Carbonate alkalinity is the amount of bases that can react with strong acid. Bicarbonate alkalinity is the amount of bases that can react with weak acid.
+- Hardness and alkalinity can be measured by titration methods using standard solutions of acid and indicators. The choice of acid and indicator depends on the type and range of hardness and alkalinity to be determined .

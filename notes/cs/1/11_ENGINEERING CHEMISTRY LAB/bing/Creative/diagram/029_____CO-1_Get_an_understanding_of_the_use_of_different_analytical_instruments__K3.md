@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+### CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Different analytical instruments have different applications, advantages, and limitations depending on the type of sample, the property of interest, and the level of accuracy and precision required.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: These are instruments that measure the interaction of electromagnetic radiation (such as light, infrared, ultraviolet, X-rays, etc.) with matter. They can be used to identify the chemical composition, structure, or concentration of substances in a sample. For example, a UV-Vis spectrometer can measure the absorbance of light by a solution and determine its concentration using the Beer-Lambert law.
+  - Chromatographs: These are instruments that separate the components of a mixture based on their different affinities to a stationary phase (such as a column, a paper, or a gel) and a mobile phase (such as a solvent, a gas, or a liquid). They can be used to isolate, identify, or quantify the components of a mixture. For example, a gas chromatograph can separate and measure the amounts of different gases in a sample using a carrier gas and a detector.
+  - Mass spectrometers: These are instruments that ionize the molecules or atoms in a sample and measure their mass-to-charge ratios using an electric or magnetic field. They can be used to determine the molecular weight, structure, or isotopic composition of substances in a sample. For example, a MALDI-TOF mass spectrometer can ionize large biomolecules using a laser and measure their time-of-flight in a vacuum tube.
+  - Microscopes: These are instruments that magnify the image of small objects or structures using lenses, mirrors, or other optical devices. They can be used to observe the morphology, anatomy, or behavior of cells, tissues, or organisms. For example, a scanning electron microscope can produce high-resolution images of the surface of a sample using a beam of electrons and a detector.
+  - Electrochemical instruments: These are instruments that measure the electrical properties or phenomena of a sample, such as voltage, current, resistance, capacitance, or impedance. They can be used to study the redox reactions, kinetics, or mechanisms of electrochemical processes. For example, a potentiostat can control the potential of an electrode and measure the current flowing through an electrochemical cell.

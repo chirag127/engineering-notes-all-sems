@@ -1,0 +1,10 @@
+## Numerical Representation
+
+- Numerical representation is the way of expressing numbers using symbols, such as digits, letters, or other characters.
+- Numerical representation can be classified into two types: positional and non-positional.
+- Positional representation uses a fixed number of symbols, called the base or radix, and assigns different values to each position of a symbol in a number. For example, in decimal representation (base 10), the number 123 means 1 x 10^2 + 2 x 10^1 + 3 x 10^0.
+- Non-positional representation does not depend on the position of a symbol in a number, but on the frequency or order of the symbols. For example, in Roman numerals, the number 123 is written as CXXIII, which means 100 + 10 + 10 + 1 + 1 + 1.
+- Numerical representation can also be classified into two categories: fixed-point and floating-point.
+- Fixed-point representation uses a fixed number of digits or bits to represent a number, and implies a fixed location for the decimal point or binary point. For example, in fixed-point decimal representation, the number 123.45 can be written as 12345 x 10^-2, where the decimal point is assumed to be after the second digit from the right.
+- Floating-point representation uses a variable number of digits or bits to represent a number, and stores the location of the decimal point or binary point as part of the number. For example, in floating-point binary representation, the number 123.45 can be written as 1.111011 x 2^6, where the binary point is after the first bit from the left, and the exponent 6 indicates how many places to shift the binary point to the right.
+- Numerical representation is important for computer science, as it affects how numbers are stored, manipulated, and displayed by computers and other devices. Different numerical representations have different advantages and disadvantages, such as accuracy, range, speed, and memory usage.

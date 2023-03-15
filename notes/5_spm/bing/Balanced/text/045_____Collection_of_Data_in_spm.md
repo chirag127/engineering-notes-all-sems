@@ -1,0 +1,14 @@
+### Collection of Data in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, executing, monitoring, and controlling software projects.
+- Data collection is an essential activity in SPM, as it provides the basis for measuring, analysing, and improving the performance and quality of software projects.
+- Data collection methods in SPM can be classified into two types: primary and secondary.
+  - Primary data collection methods involve gathering data directly from the sources involved in the software project, such as stakeholders, developers, testers, customers, etc.
+  - Secondary data collection methods involve using data that has already been collected by other sources, such as previous projects, reports, databases, etc.
+- Some of the common data collection methods in SPM are:
+  - Interviews: Personal interviews are a great way to collect data in SPM. These can be conducted in person, over the phone, or online. Interviews can help to elicit the requirements, expectations, opinions, feedback, and satisfaction of the project participants.
+  - Surveys: Surveys are a common method used to collect data in SPM. This can include online surveys, paper surveys, or even in-person surveys. Surveys can help to gather quantitative and qualitative data from a large number of respondents in a cost-effective and efficient way.
+  - Focus Groups: Focus groups are an important method of collecting data in SPM. This involves bringing together a small group of people who have a common interest or experience in the software project, and facilitating a discussion among them. Focus groups can help to explore the needs, preferences, attitudes, and perceptions of the project stakeholders.
+  - Observation: Observation is a method of collecting data in SPM by watching and recording the behaviour and actions of the project participants. This can be done in a natural or controlled setting, and can be either direct or indirect. Observation can help to capture the actual practices, processes, and outcomes of the software project.
+  - Metrics: Metrics are a method of collecting data in SPM by measuring and quantifying various aspects of the software project, such as size, complexity, effort, cost, quality, productivity, etc. Metrics can help to evaluate the performance and progress of the software project, and identify the areas of improvement.
+  - Logs: Logs are a method of collecting data in SPM by recording and storing the events and activities that occur during the software project, such as errors, exceptions, changes, transactions, etc. Logs can help to track and analyse the behaviour and performance of the software system, and identify the root causes of problems.

@@ -1,0 +1,7 @@
+### Organizational Behavior in SPM
+
+Organizational behavior (OB) is the systematic study and application of knowledge about how individuals and groups act within the organizations where they work. It is an applied behavioral science built on contributions from a number of behavioral disciplines, mainly psychology and social psychology, sociology, and anthropology. OB is embedded in human resources such as employee retention, engagement, training, and culture. It is a subset of organizational theory which studies a more holistic way of structuring a company and managing its resources.
+
+In the context of software project management (SPM), understanding organizational behavior can help in selecting the right person for the job and managing the team effectively. The field of social science known as organizational behavior (OB) helps in evolving theories that try to explain people's behavior and that tend to be structured 'If A is the situation then B is likely to result'.
+
+Some of the topics covered in organizational behavior include motivation, communication, managing groups and teams, conflict resolution, power and politics, and decision making. Within each chapter, the author provides key takeaways and exercises that allow the students to apply their knowledge of the topic.

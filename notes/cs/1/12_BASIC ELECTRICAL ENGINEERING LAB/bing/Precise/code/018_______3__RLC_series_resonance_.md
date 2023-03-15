@@ -1,0 +1,11 @@
+##### 3. RLC series resonance
+- An RLC series circuit consists of a resistor (R), an inductor (L), and a capacitor (C) connected in series.
+- At resonance, the impedance of the circuit is at its minimum value, and the current flowing through the circuit is at its maximum value.
+- The resonant frequency of the circuit is given by the formula: `f = 1 / (2 * pi * sqrt(L * C))`.
+- The quality factor (Q) of the circuit is given by the formula: `Q = (1 / R) * sqrt(L / C)`.
+- The bandwidth of the circuit is given by the formula: `BW = f / Q`.
+- The voltage across the resistor, inductor, and capacitor are in phase at resonance.
+- The voltage across the inductor leads the current by 90 degrees, and the voltage across the capacitor lags the current by 90 degrees.
+- The total impedance of the circuit is given by the formula: `Z = R + j * (XL - XC)`, where `XL = 2 * pi * f * L` is the inductive reactance, and `XC = 1 / (2 * pi * f * C)` is the capacitive reactance.
+- The phase angle of the circuit is given by the formula: `phi = atan((XL - XC) / R)`.
+- The power factor of the circuit is given by the formula: `PF = cos(phi)`.

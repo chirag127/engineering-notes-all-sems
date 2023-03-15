@@ -1,0 +1,5 @@
+### Spontaneous and stimulated emission of radiation
+
+- **Spontaneous emission** takes place without interaction with other photons, and the direction and phase are random. When the excitation involves the absorption of radiation, the spontaneous emission is fluorescence. You have phosphorescence when molecules have a metastable level and continue to fluoresce after the exciting radiation is removed. The phase of the photon in spontaneous emission is random as is the direction in which the photon propagates.
+
+- **Stimulated emission** takes place when the excited electron interacts with another photon. The notable characteristic of stimulated emission compared to everyday light sources (which depend on spontaneous emission) is that the emitted photons have the same frequency, phase, polarization, and direction of propagation as the incident photons. The photons involved are thus mutually coherent.

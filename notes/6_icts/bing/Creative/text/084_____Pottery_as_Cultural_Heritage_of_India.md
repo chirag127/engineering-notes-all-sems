@@ -1,0 +1,9 @@
+### Pottery as Cultural Heritage of India
+
+- Pottery is one of the most ancient and enduring forms of artistic expression in India. It reflects the diversity and richness of Indian culture and history.
+- Pottery in India dates back to the prehistoric times, as evidenced by the findings of pottery shards in the early settlements of Lahuradewa and Mehargarh .
+- The Indus Valley Civilization (2600-1900 BCE) was one of the first cultures to produce sophisticated pottery, with various shapes, sizes, colors and designs. The pottery of this civilization was mainly wheel-made and fired in kilns .
+- Pottery in India continued to evolve and flourish in different regions and periods, such as the Mauryan, Kushan, Gupta, Harappan, Chalcolithic, Iron Age and Medieval periods. Each period had its own distinctive style and technique of pottery making, influenced by the local environment, materials, traditions and beliefs .
+- Pottery in India is not only a functional craft, but also a form of art and culture. Pottery is used for various purposes, such as cooking, storing, serving, decorating, worshipping and gifting. Pottery also reflects the social, religious and aesthetic values of the people who make and use it  .
+- Pottery in India is still a living and vibrant craft tradition, practiced by many communities and individuals across the country. Pottery is also a source of livelihood and identity for many potters, who inherit and pass on their skills and knowledge to the next generations .
+- Pottery in India is a cultural heritage that deserves to be preserved and promoted, as it showcases the creativity, diversity and continuity of Indian civilization. Pottery is also an eco-friendly and sustainable craft, as it uses natural and biodegradable materials and does not cause pollution or waste.

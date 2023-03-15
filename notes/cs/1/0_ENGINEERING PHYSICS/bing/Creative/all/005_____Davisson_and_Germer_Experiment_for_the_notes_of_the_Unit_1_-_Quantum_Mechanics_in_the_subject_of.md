@@ -1,0 +1,11 @@
+# Davisson and Germer Experiment
+
+- The Davisson and Germer experiment was a 1923-27 experiment by Clinton Davisson and Lester Germer at Western Electric (later Bell Labs), in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern.
+- The experiment confirmed the de Broglie hypothesis that matter has wave-like behavior and established the wave–particle duality hypothesis which was a fundamental step in quantum theory.
+- The experiment was based on the assumption that waves reflected from two distinct atomic levels of a Ni crystal will have a fixed phase difference and will interfere either constructively or destructively, producing a diffraction pattern .
+- The experiment consisted of a vacuum chamber with an electron gun that emitted a beam of electrons towards a nickel target. The target could be rotated to change the angle of incidence of the electrons. A Faraday cup was used to measure the intensity of the scattered electrons at different angles.
+- The experiment was initially performed to study the surface structure of nickel, but the results were unexpected and inconsistent. The experimenters found that the intensity of the scattered electrons varied with the angle and the voltage of the electron beam.
+- The experiment was interrupted by an accident that damaged the vacuum chamber and the nickel target. The target was repaired by heating it to a high temperature, which changed its crystalline structure. When the experiment was resumed, the results showed a clear peak of intensity at a certain angle, which corresponded to the Bragg's law of X-ray diffraction.
+- The experimenters realized that they had accidentally produced a diffraction pattern of electrons, which implied that electrons behaved like waves. They compared their results with the de Broglie equation, which relates the wavelength of matter waves to the momentum of the particles, and found a good agreement.
+- The experiment was repeated with different materials and voltages, and the results confirmed the wave nature of electrons and the validity of the de Broglie equation.
+- The experiment was a landmark in the development of quantum mechanics, as it provided the first direct evidence of the wave–particle duality of matter. It also stimulated further research on electron diffraction and the structure of matter.

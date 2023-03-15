@@ -1,0 +1,6 @@
+### Laser: Absorption of radiation
+
+- Absorption of radiation is the process by which electrons in the ground state absorb energy from photons to jump into a higher energy level.
+- When laser radiation is applied to the surface of a material for a certain time, part of it is absorbed by the conduction electrons in a surface region a few nanometers thick and rapidly converted into heat through collisions between the electrons and the lattice ions .
+- Lasers can be absorbed inside an optical substrate through several different methods. Electrons in discrete energy levels of the atoms that make up the optical medium absorb radiative photons and are pushed to semi-stable, higher energy levels.
+- Absorption is the process in which optical energy is converted to internal energy of electrons, atoms, or molecules. When a photon is absorbed, the energy may cause an electron in an atom to go from a lower to a higher energy level, thereby changing the internal momentum of the electron and the electron's internal quantum numbers.

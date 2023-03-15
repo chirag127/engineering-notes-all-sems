@@ -1,0 +1,11 @@
+### Applications of PN Junction diode: Half & Full wave rectifier- Measurement of Vrms,Vdc, and ripple factor.
+
+A PN junction diode is a two-terminal electronic device that allows the flow of current in only one direction. It is formed by joining a p-type semiconductor material with an n-type semiconductor material. The p-type material has an excess of holes, while the n-type material has an excess of electrons. When these two materials are joined, a depletion region is formed at the junction, where the electrons and holes recombine, leaving a region with no free charge carriers.
+
+One of the main applications of a PN junction diode is in rectification, which is the process of converting alternating current (AC) to direct current (DC). This is achieved by using a diode in a circuit called a rectifier. There are two types of rectifiers: half-wave and full-wave.
+
+- **Half-wave rectifier:** In a half-wave rectifier, only one half of the AC waveform is allowed to pass through the diode, while the other half is blocked. This results in a pulsating DC output, with a frequency equal to that of the AC input. The average or DC value of the output voltage is given by Vdc = Vm/π, where Vm is the peak value of the input voltage. The root mean square (RMS) value of the output voltage is given by Vrms = Vm/2. The ripple factor, which is a measure of the smoothness of the DC output, is given by γ = √2.
+
+- **Full-wave rectifier:** In a full-wave rectifier, both halves of the AC waveform are allowed to pass through the diode, but in opposite directions. This results in a smoother DC output, with a frequency double that of the AC input. The average or DC value of the output voltage is given by Vdc = 2Vm/π, where Vm is the peak value of the input voltage. The RMS value of the output voltage is given by Vrms = Vm/√2. The ripple factor is given by γ = 1/√2.
+
+In summary, a PN junction diode can be used in a rectifier circuit to convert AC to DC. The type of rectifier used, whether half-wave or full-wave, affects the values of Vrms, Vdc, and the ripple factor of the output. A full-wave rectifier provides a smoother DC output with a higher average value and a lower ripple factor compared to a half-wave rectifier.

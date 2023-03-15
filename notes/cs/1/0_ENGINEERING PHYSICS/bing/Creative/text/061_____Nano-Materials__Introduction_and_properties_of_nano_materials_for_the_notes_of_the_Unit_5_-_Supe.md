@@ -1,0 +1,21 @@
+### Nano-Materials: Introduction and properties of nano materials
+
+- Nanomaterials are materials composed of a set of substances where at least one dimension is less than approximately 100 nm.
+- The size of nanomaterials is measured in nanometers, which are one billionth of a meter or 10^-9^ m.
+- Nanomaterials have unique physical and chemical properties that differ from those of bulk materials due to the quantum effects that occur at the nanoscale .
+- Some of the properties of nanomaterials that can be different from bulk materials are:
+  - Optical properties: Nanomaterials can have different colors, fluorescence, and absorption spectra depending on their size and shape.
+  - Electrical properties: Nanomaterials can have higher conductivity, lower resistance, and novel phenomena such as quantum tunneling and ballistic transport.
+  - Magnetic properties: Nanomaterials can have enhanced magnetization, superparamagnetism, and giant magnetoresistance.
+  - Mechanical properties: Nanomaterials can have higher strength, hardness, elasticity, and fracture toughness due to the reduced defect density and grain size.
+  - Thermal properties: Nanomaterials can have higher thermal conductivity, lower thermal expansion, and higher melting point due to the increased surface area and phonon scattering.
+  - Chemical properties: Nanomaterials can have higher reactivity, catalytic activity, and selectivity due to the increased surface area and quantum confinement.
+- Nanomaterials can be classified based on various approaches, such as:
+  - Dimensionality: Nanomaterials can be zero-dimensional (nanoparticles, quantum dots), one-dimensional (nanowires, nanotubes, nanorods), two-dimensional (nanosheets, nanofilms, graphene), or three-dimensional (nanocomposites, nanostructures, nanocrystals) .
+  - Morphology: Nanomaterials can have different shapes, such as spherical, cubic, tetrahedral, cylindrical, tubular, helical, or branched.
+  - Composition: Nanomaterials can be composed of different elements, such as metals, semiconductors, ceramics, polymers, or organic molecules.
+  - Structure: Nanomaterials can have different arrangements of atoms, such as crystalline, amorphous, or quasicrystalline.
+  - Functionality: Nanomaterials can have different applications, such as sensors, catalysts, drug delivery, energy storage, electronics, or biomedicine.
+- Nanomaterials have many advantages and disadvantages, such as:
+  - Advantages: Nanomaterials can offer improved performance, functionality, efficiency, and versatility for various fields and industries .
+  - Disadvantages: Nanomaterials can pose potential risks to human health and the environment due to their toxicity, bioaccumulation, and environmental impact .

@@ -1,0 +1,29 @@
+##### 4. To verify Stefan’s law by electric method.
+
+- Stefan's law states that the energy radiated per second by unit area of a black body at thermodynamic temperature T is directly proportional to T^4^.
+- The constant of proportionality is the Stefan constant, equal to 5.670400 × 10^–8^ Wm^–2^ K^–4^.
+- The electric method involves using a light-bulb filament as a radiating body and measuring the power it emits from the voltage and current of the filament.
+- The experiment setup consists of a light-bulb, a rheostat, a voltmeter, an ammeter, a thermometer, a calorimeter, a stirrer, and a stop watch .
+- The procedure is as follows :
+  - Fill the calorimeter with water and note its initial temperature.
+  - Connect the light-bulb, rheostat, voltmeter, and ammeter in series to a power supply.
+  - Adjust the rheostat to vary the current and voltage of the filament.
+  - Place the light-bulb inside the calorimeter and close the lid.
+  - Switch on the power supply and start the stop watch.
+  - Note the readings of the voltmeter, ammeter, and thermometer at regular intervals of time.
+  - Switch off the power supply after a sufficient time and note the final temperature of water.
+  - Calculate the power supplied to the filament as P = VI, where V is the voltage and I is the current.
+  - Calculate the power emitted by the filament as P = mc∆T/t, where m is the mass of water, c is the specific heat of water, ∆T is the change in temperature of water, and t is the time interval.
+  - Plot a graph of P versus T^4^, where T is the average temperature of the filament.
+  - The slope of the graph gives the value of the Stefan constant.
+- The expected result is that the graph will be a straight line passing through the origin, indicating that P is proportional to T^4^, and the slope will be close to the theoretical value of the Stefan constant .
+- The sources of error and precautions are as follows :
+  - The filament may not be a perfect black body and may have some reflectivity and emissivity.
+  - The heat loss to the surroundings may affect the temperature measurements.
+  - The voltmeter and ammeter may have some internal resistance and error.
+  - The thermometer may have some calibration error and lag.
+  - The calorimeter may not be perfectly insulated and may have some heat capacity.
+  - The water may not be stirred uniformly and may have some convection currents.
+  - The rheostat should be adjusted carefully to avoid sudden changes in current and voltage.
+  - The readings of the instruments should be taken quickly and accurately.
+  - The experiment should be repeated for different values of current and voltage to obtain a reliable graph.

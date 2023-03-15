@@ -1,0 +1,9 @@
+### Political Ideals in Ancient India and their relevance in modern times
+
+1. In ancient India, people led a democratic way of living although political democracy did not exist in its full form. Monarchy was also popular. After the sixth century, democratic organizations started declining. Kings and monarchs often remained engaged in wars .
+2. Usanus, an ancient Indian philosopher, said that politics was the only science worth studying. People of ancient India considered the state and the government as basic instruments for the promotion of peaceful and civilized life .
+3. The book "Aspects of Political Ideas and Institutions in Ancient India" discusses different views on the origin and nature of the state in ancient India. It also deals with stages and processes of state formation and examines the relevance of caste and kin-based collectivities to the construction of polity .
+4. In ancient India, the study of the Science of Politics was subordinated to that of Theology and Philosophical thought and had never developed as an independent branch of Knowledge. There existed an extensive literature on Dandaniti of Arthasastra prior to the time of Kautilya .
+5. The King in Indian political thought was assigned with most important functions based on Vedic ideals to rule the people. Based on Vedic dharma, Yagnavalkya, Manu, Kautilya, and others developed a healthy political tradition for the progress and welfare of the people .
+
+These political ideals and traditions from ancient India can still be relevant in modern times as they provide a framework for the promotion of peaceful and civilized life, the importance of the state and government, and the role of the ruler in the progress and welfare of the people.

@@ -1,0 +1,10 @@
+### Viscosity, conductance of solution, chloride and iron content in the water
+
+- Viscosity is a measure of the resistance of a fluid to deformation under shear stress. It is related to the internal friction of the fluid molecules. The SI unit of viscosity is the pascal-second (Pa s), which is equivalent to the newton-second per square meter (N s/m^2) or the kilogram per meter per second (kg/m s).
+- Conductance of solution is a measure of the ability of a solution to conduct electric current. It is the reciprocal of the resistance of the solution. The SI unit of conductance is the siemens (S), which is equivalent to the ampere per volt (A/V) or the coulomb per second per volt (C/s V).
+- Chloride and iron content in the water are measures of the concentration of chloride and iron ions in the water. Chloride ions are negatively charged and are present in seawater, salt lakes, and some groundwater sources. Iron ions are positively charged and are present in some groundwater sources, especially those affected by iron-rich rocks or soils. The SI unit of concentration is the mole per cubic meter (mol/m^3), which is equivalent to the kilogram per cubic meter (kg/m^3) or the gram per liter (g/L).
+- Some factors that affect the viscosity, conductance, and chloride and iron content of water are:
+  - Temperature: As the temperature increases, the viscosity of water decreases, the conductance of water increases, and the solubility of chloride and iron ions increases.
+  - Pressure: As the pressure increases, the viscosity of water increases, the conductance of water decreases, and the solubility of chloride and iron ions decreases.
+  - Dissolved solids: As the amount of dissolved solids increases, the viscosity of water increases, the conductance of water increases, and the concentration of chloride and iron ions increases.
+  - Dissolved gases: As the amount of dissolved gases increases, the viscosity of water decreases, the conductance of water decreases, and the concentration of chloride and iron ions decreases.

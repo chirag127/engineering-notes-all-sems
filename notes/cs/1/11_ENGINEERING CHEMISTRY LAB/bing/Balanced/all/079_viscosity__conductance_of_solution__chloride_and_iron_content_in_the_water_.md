@@ -1,0 +1,13 @@
+# Viscosity, Conductance of Solution, Chloride and Iron Content in Water
+
+- Viscosity is a measure of the resistance of a fluid to deformation under shear stress. It is also known as the internal friction of a fluid.
+- Viscosity depends on the intermolecular forces, temperature, and composition of the fluid. Generally, viscosity decreases with increasing temperature and increases with increasing molecular weight and polarity of the fluid.
+- Viscosity can be measured by various methods, such as capillary viscometer, rotational viscometer, falling ball viscometer, etc.
+- Conductance of solution is a measure of the ability of a solution to conduct electric current. It is also known as the reciprocal of the electrical resistance of the solution.
+- Conductance of solution depends on the concentration, type, and mobility of the ions present in the solution, as well as the temperature and the solvent. Generally, conductance of solution increases with increasing concentration and temperature and decreases with increasing viscosity of the solvent.
+- Conductance of solution can be measured by using a conductivity meter, which consists of a pair of electrodes connected to an alternating current source and a galvanometer.
+- Chloride and iron content in water are indicators of the quality and purity of water. They can affect the taste, odor, color, and corrosion of water and its pipes and fittings.
+- Chloride content in water can be caused by natural sources, such as seawater intrusion, or by human activities, such as industrial effluents, agricultural runoff, road salt, etc. High chloride content in water can cause health problems, such as dehydration, hypertension, kidney damage, etc.
+- Chloride content in water can be measured by various methods, such as titration with silver nitrate, colorimetric method using mercuric thiocyanate, ion chromatography, etc.
+- Iron content in water can be caused by natural sources, such as soil erosion, or by human activities, such as mining, industrial waste, corrosion of pipes, etc. High iron content in water can cause aesthetic problems, such as staining, turbidity, metallic taste, etc., and biological problems, such as bacterial growth, iron bacteria, etc.
+- Iron content in water can be measured by various methods, such as titration with potassium permanganate, colorimetric method using phenanthroline, atomic absorption spectrometry, etc.

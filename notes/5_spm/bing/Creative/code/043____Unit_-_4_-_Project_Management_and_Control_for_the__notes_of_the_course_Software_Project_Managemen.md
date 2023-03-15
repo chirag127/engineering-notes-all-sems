@@ -1,0 +1,29 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the course Software Project Management. Here is the content for Unit 4 - Project Management and Control:
+
+# Unit 4 - Project Management and Control
+
+## Introduction
+
+Project management and control is the process of planning, organizing, monitoring, and controlling the activities and resources of a software project to achieve its objectives within the constraints of scope, time, cost, and quality. Project management and control involves the following activities:
+
+- Defining the project scope, objectives, deliverables, and stakeholders
+- Developing a project plan that specifies the tasks, dependencies, milestones, schedule, budget, and risk management plan
+- Assigning roles and responsibilities to the project team members and stakeholders
+- Executing the project plan by performing the tasks, communicating the progress, and managing the changes and issues
+- Monitoring and controlling the project performance by measuring the actual results against the planned baselines and taking corrective actions if necessary
+- Closing the project by delivering the final product, obtaining the acceptance, and documenting the lessons learned
+
+## Project Planning
+
+Project planning is the activity of defining the project scope, objectives, deliverables, and stakeholders, and developing a project plan that specifies the tasks, dependencies, milestones, schedule, budget, and risk management plan. Project planning is essential for the success of a software project as it provides a clear direction, a realistic estimation, and a proactive approach to the project execution and control. Project planning involves the following steps:
+
+- Scope definition: This step involves identifying the project requirements, features, functions, and boundaries, and defining the project deliverables and acceptance criteria. Scope definition helps to establish the project scope baseline, which is the agreed-upon description of the project scope that is used to measure the project performance and control the scope changes.
+- Objective setting: This step involves defining the project objectives, which are the specific, measurable, achievable, relevant, and time-bound (SMART) goals that the project aims to accomplish. Objective setting helps to align the project expectations, motivate the project team, and evaluate the project success.
+- Stakeholder identification: This step involves identifying the project stakeholders, which are the individuals, groups, or organizations that have an interest or influence in the project outcome. Stakeholder identification helps to understand the stakeholder needs, expectations, and concerns, and to manage the stakeholder engagement and communication throughout the project lifecycle.
+- Task breakdown: This step involves decomposing the project scope into smaller, manageable units of work called tasks. Task breakdown helps to define the project work breakdown structure (WBS), which is a hierarchical representation of the project tasks and their relationships. Task breakdown also helps to estimate the effort, duration, and resources required for each task, and to assign the task ownership and accountability.
+- Dependency analysis: This step involves identifying the logical relationships and dependencies among the project tasks, and defining the sequence and order of the task execution. Dependency analysis helps to create the project network diagram, which is a graphical representation of the project tasks and their dependencies. Dependency analysis also helps to identify the project critical path, which is the longest sequence of dependent tasks that determines the project duration and completion date.
+- Milestone definition: This step involves identifying the project milestones, which are the significant events or achievements that mark the completion of a major phase or deliverable of the project. Milestone definition helps to track the project progress, communicate the project status, and celebrate the project accomplishments.
+- Schedule development: This step involves developing the project schedule, which is a detailed timeline of the project tasks, dependencies, milestones, and deadlines. Schedule development helps to create the project Gantt chart, which is a graphical representation of the project schedule. Schedule development also helps to establish the project schedule baseline, which is the approved version of the project schedule that is used to measure the project performance and control the schedule changes.
+- Budget estimation: This step involves estimating the project cost, which is the total amount of money required to complete the project. Budget estimation helps to create the project budget, which is a breakdown of the project cost by tasks, resources, and categories. Budget estimation also helps to establish the project cost baseline, which is the approved version of the project budget that is used to measure the project performance and control the cost changes.
+- Risk identification: This step involves identifying the project risks, which are the uncertain events or conditions that may have a positive or negative impact on the project objectives. Risk identification helps to create the project risk register, which is a list of the project risks and their characteristics. Risk identification also helps to assess the probability and impact of the project risks, and to prioritize the project risks based on their severity and urgency.
+- Risk response planning: This step involves developing the project risk management plan, which is a document that describes how the project will

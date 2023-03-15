@@ -1,0 +1,9 @@
+##### 6. To study the resonance condition of a series LCR circuit.
+
+- A series LCR circuit consists of an inductor (L), a capacitor (C) and a resistor (R) connected in series with an alternating voltage source (V).
+- The current (I) in the circuit is the same for all the components and is given by Ohm's law: I = V/Z, where Z is the impedance of the circuit.
+- The impedance of the circuit is given by Z = sqrt(R^2 + (XL - XC)^2), where XL = 2πfL is the inductive reactance and XC = 1/(2πfC) is the capacitive reactance, and f is the frequency of the alternating voltage source.
+- The phase difference between the voltage and the current in the circuit is given by tan(φ) = (XL - XC)/R, where φ is the angle between V and I in the phasor diagram.
+- The resonance condition of a series LCR circuit is when the inductive reactance and the capacitive reactance are equal, i.e., XL = XC, or f = 1/(2πsqrt(LC)). This is also called the resonant frequency of the circuit.
+- At resonance, the impedance of the circuit is minimum and equal to R, the current in the circuit is maximum and in phase with the voltage, and the power dissipated in the circuit is maximum and equal to VI = V^2/R.
+- To study the resonance condition of a series LCR circuit experimentally, we can vary the frequency of the alternating voltage source and measure the current in the circuit using an ammeter. We can plot a graph of current versus frequency and observe the peak value of current at the resonant frequency. We can also measure the phase difference between the voltage and the current using a CRO or a phase meter and observe that it is zero at resonance. We can also measure the power dissipated in the circuit using a wattmeter and observe that it is maximum at resonance. We can compare the experimental values of the resonant frequency, the impedance, the current and the power with the theoretical values and calculate the percentage error.

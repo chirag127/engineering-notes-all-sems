@@ -1,0 +1,12 @@
+# Administration in Ancient India
+
+- Administration in ancient India refers to the structures, procedures and behaviors that the ruling dynasties or emperors used to govern their respective territories and people.
+- Administration in ancient India can be traced back to the Indus Valley civilization, which had a systematic and well-organized government in the cities of Mohenjodaro and Harappa.
+- Administration in ancient India varied according to the different periods, regions and cultures, but some common features can be identified, such as:
+  - The king was the head of the administration and the supreme authority in matters of law, justice, religion, defense and taxation. The king was assisted by ministers, councillors, generals and officials who advised him and carried out his orders .
+  - The state was divided into provinces and districts for administrative convenience and local governance. The provinces were governed by governors or viceroys appointed by the king, while the districts were headed by local chiefs or officers who collected revenue and maintained law and order.
+  - The administration was based on the principle of dharma, which meant the moral duty and responsibility of the ruler and the ruled. The king was expected to uphold the dharma by protecting his subjects, promoting their welfare and ensuring justice. The subjects were expected to obey the king and pay taxes in return for his protection and services.
+  - The administration was influenced by the religious and cultural traditions of the people, such as Hinduism, Buddhism, Jainism, Islam and Sikhism. The administration also reflected the social and economic conditions of the society, such as the caste system, the village community, the trade and commerce, the agriculture and the arts .
+- Administration in ancient India was an evolving and dynamic process that adapted to the changing times and circumstances. It also had some achievements and challenges, such as:
+  - The administration was able to create a sense of unity and identity among the diverse and vast regions and peoples of India. It also facilitated the development of culture, literature, science, technology and architecture.
+  - The administration also faced some problems and difficulties, such as the frequent invasions and wars, the internal rebellions and conflicts, the corruption and inefficiency of the officials, the oppression and exploitation of the lower classes and the minorities, and the natural calamities and famines .

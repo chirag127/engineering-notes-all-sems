@@ -1,0 +1,11 @@
+# CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Different analytical instruments have different applications, principles, and techniques, depending on the type and nature of the sample and the property of interest.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: These are instruments that measure the interaction of electromagnetic radiation (such as light, infrared, ultraviolet, X-rays, etc.) with matter. They can be used to identify the composition, structure, or concentration of substances in a sample, based on their characteristic absorption, emission, or scattering spectra.
+  - Chromatographs: These are instruments that separate the components of a mixture based on their different affinities to a stationary phase (such as a column, a paper, or a gel) and a mobile phase (such as a solvent, a gas, or a liquid). They can be used to isolate, purify, or quantify the components of a mixture, based on their retention time, peak area, or peak height.
+  - Mass spectrometers: These are instruments that ionize the molecules or atoms in a sample and measure their mass-to-charge ratio using an electric or magnetic field. They can be used to determine the molecular weight, formula, or structure of substances in a sample, based on their mass spectra.
+  - Microscopes: These are instruments that magnify the image of small or microscopic objects using lenses, mirrors, or other optical devices. They can be used to observe the morphology, structure, or behavior of cells, tissues, organisms, or materials, based on their optical properties, such as contrast, resolution, or fluorescence.
+  - Electrochemical instruments: These are instruments that measure the electrical potential, current, or resistance of a sample or a system in response to an applied voltage or current. They can be used to study the redox reactions, electrochemical kinetics, or electrochemical properties of substances in a sample, based on their voltammetric, amperometric, or potentiometric curves.

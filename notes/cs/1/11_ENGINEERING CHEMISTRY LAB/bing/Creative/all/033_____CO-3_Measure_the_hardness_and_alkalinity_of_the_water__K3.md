@@ -1,0 +1,13 @@
+# CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness and alkalinity are two important parameters of water quality that affect its suitability for various purposes.
+- Hardness is the measure of the concentration of divalent salts, mainly calcium and magnesium, that cause scaling and soap precipitation in water.
+- Alkalinity is the measure of the total amount of bases, mainly bicarbonate and carbonate, that can neutralize acids in water.
+- Hardness and alkalinity are related through common ions formed in aquatic systems. The counter-ions associated with the bicarbonate and carbonate fraction of alkalinity are the principal cations responsible for hardness.
+- Hardness and alkalinity are influenced by the geology of the area where the water is located and the dissolution of carbon dioxide from the atmosphere. The ions responsible for hardness and alkalinity originate from the dissolution of geological minerals into rain and groundwater.
+- Hardness and alkalinity can be measured by titration methods using standard solutions of acids and indicators. The endpoints of the titrations are determined by color changes or pH changes.
+- Hardness can be classified into two types: temporary and permanent. Temporary hardness is caused by the presence of bicarbonate ions and can be removed by boiling the water. Permanent hardness is caused by the presence of other ions, such as sulfate, chloride, and nitrate, and cannot be removed by boiling.
+- Alkalinity can be classified into three types: carbonate, bicarbonate, and hydroxide. Carbonate alkalinity is the amount of carbonate ions that can react with acid. Bicarbonate alkalinity is the amount of bicarbonate ions that can react with acid. Hydroxide alkalinity is the amount of hydroxide ions that can react with acid.
+- The units of hardness and alkalinity are usually expressed as milligrams per liter (mg/L) or parts per million (ppm) of calcium carbonate (CaCO3) equivalent. The conversion factor is 1 mg/L CaCO3 = 1 ppm CaCO3.
+- The general guidelines for classification of water hardness are: 0 to 60 mg/L CaCO3 as soft; 61 to 120 mg/L CaCO3 as moderately hard; 121 to 180 mg/L CaCO3 as hard; and more than 180 mg/L CaCO3 as very hard.
+- The general guidelines for classification of water alkalinity are: 0 to 50 mg/L CaCO3 as low; 51 to 150 mg/L CaCO3 as moderate; 151 to 300 mg/L CaCO3 as high; and more than 300 mg/L CaCO3 as very high.

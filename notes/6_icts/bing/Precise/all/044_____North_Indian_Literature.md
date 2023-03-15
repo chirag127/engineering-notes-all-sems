@@ -1,0 +1,4 @@
+### North Indian Literature
+- North Indian literature is derived from the ancient Indian background, which includes two Sanskrit epic poems, the Mahabharata and Ramayana, as well as the Bhagavata-purana and the other Puranas .
+- North India was the birthplace of Kalidasa, who wrote classic Sanskrit plays like Mālavikāgnimitram, Abhijñānaśākuntalam and Vikramōrvaśīyam and poems like Raghuvaṃśa, Kumārasambhava, Ṛtusaṃhāra and Meghadūta in which the use of imagination and similes remains unequaled by any other literary work .
+- Indian literature refers to the literature produced on the Indian subcontinent until 1947 and in the Republic of India thereafter. The Republic of India has 22 officially recognized languages. The earliest works of Indian literature were orally transmitted .

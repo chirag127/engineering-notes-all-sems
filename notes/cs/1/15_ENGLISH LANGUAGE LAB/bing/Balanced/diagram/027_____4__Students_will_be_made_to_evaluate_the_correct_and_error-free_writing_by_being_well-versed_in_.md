@@ -1,0 +1,10 @@
+### 4. Students will be made to evaluate the correct and error-free writing by being well-versed in rules of English grammar and cultivate relevant technical style of communication &presentation at their work place and also for academic uses.
+
+- This topic covers the importance of writing skills for students in various contexts, such as academic, professional, and personal.
+- Writing skills are essential for effective communication and presentation of ideas, arguments, and information in various formats, such as essays, reports, proposals, emails, letters, etc.
+- Writing skills also involve the ability to evaluate one's own and others' writing for correctness, clarity, coherence, and appropriateness, according to the rules of English grammar and the conventions of the specific genre, audience, and purpose of the writing.
+- To develop writing skills, students need to be well-versed in the rules of English grammar, such as syntax, morphology, punctuation, spelling, etc., and be able to apply them correctly and consistently in their writing.
+- Students also need to cultivate a relevant technical style of communication and presentation, which means using appropriate vocabulary, tone, register, format, and structure for the specific context and audience of their writing.
+- A technical style of communication and presentation is different from a casual or informal style, as it requires more precision, accuracy, objectivity, and professionalism.
+- A technical style of communication and presentation is also suitable for academic uses, such as writing research papers, dissertations, theses, etc., as it follows the standards and expectations of the academic community and discipline.
+- By being able to evaluate the correct and error-free writing by being well-versed in rules of English grammar and cultivate relevant technical style of communication and presentation, students can improve their writing skills and enhance their academic and professional performance and prospects.

@@ -1,0 +1,10 @@
+### 8. Argumentative Skills/Role Play Presentation with Stress and Intonation
+
+1. Argumentative skills are essential for effective communication and problem-solving. They involve the ability to present and defend a point of view using logical reasoning and evidence.
+2. Role-play presentation is a technique used to practice argumentative skills in a simulated situation. It involves taking on a specific role and presenting an argument from that perspective.
+3. Stress and intonation are important aspects of spoken language that can convey meaning and emotion. In argumentative situations, the use of stress and intonation can help to emphasize important points and convey conviction.
+4. To improve argumentative skills and role-play presentation, it is important to practice active listening, critical thinking, and effective communication. This can be achieved through exercises such as debating, group discussions, and mock trials.
+5. In addition, it is important to be aware of common logical fallacies and to avoid using them in arguments. These include ad hominem attacks, straw man arguments, and false dilemmas.
+6. When practicing role-play presentation, it is important to stay in character and to use appropriate body language, gestures, and facial expressions to convey the intended message.
+7. The use of stress and intonation can be practiced through exercises such as reading aloud, reciting poetry, and singing. It is important to pay attention to the natural rhythm and melody of the language and to use variations in pitch, volume, and duration to convey meaning.
+8. In conclusion, argumentative skills and role-play presentation with stress and intonation are important tools for effective communication and problem-solving. They can be improved through practice and awareness of common pitfalls.

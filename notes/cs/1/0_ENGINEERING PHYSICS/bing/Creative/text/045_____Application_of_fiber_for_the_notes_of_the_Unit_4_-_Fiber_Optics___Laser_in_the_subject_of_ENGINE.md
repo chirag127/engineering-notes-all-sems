@@ -1,0 +1,11 @@
+### Application of fiber optics
+
+Fiber optics are thin, transparent fibers that can transmit light signals over long distances with minimal loss or interference. Fiber optics have many applications in various fields, such as:
+
+- **Communication**: Fiber optics are widely used for voice, data, and video transmission, as they offer high bandwidth, low attenuation, immunity to electromagnetic interference, and security. Fiber optics are used for telephone lines, internet cables, cable TV, and optical wireless communication .
+- **Medical**: Fiber optics are used for various medical purposes, such as endoscopy, laser surgery, dentistry, and biomedical sensing. Fiber optics can provide high-resolution images, precise illumination, and minimally invasive procedures .
+- **Defence**: Fiber optics are used for data transmission in high-level data security fields of military and aerospace applications. These are used in wirings in aircraft, hydrophones for SONARs and Seismics applications. Optical Fibres are also used for missile guidance, radar systems, and surveillance .
+- **Industries**: Fiber optics are used for various industrial applications, such as process control, automation, sensing, and inspection. Fiber optics can provide reliable, accurate, and real-time measurements of temperature, pressure, strain, vibration, and chemical composition .
+- **Broadcasting**: Fiber optics are used for transmitting audio and video signals for broadcasting purposes, such as radio, television, and internet. Fiber optics can offer high-quality, low-noise, and long-distance transmission .
+- **Lighting and Decorations**: Fiber optics are used for various lighting and decorative purposes, such as architectural lighting, stage lighting, museum lighting, and fiber optic art. Fiber optics can create colorful, flexible, and safe lighting effects .
+- **Mechanical Inspections**: Fiber optics are used for inspecting hard-to-reach or hazardous areas, such as pipelines, boilers, engines, and turbines. Fiber optics can provide clear and detailed images of the internal structures and defects .

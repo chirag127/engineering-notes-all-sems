@@ -1,0 +1,14 @@
+## Professional Communication Lab shall have two parts:
+
+- Part A: This part consists of the following modules:
+
+  - Module 1: Introduction to Communication Skills. This module covers the basics of communication, such as the definition, types, models, barriers, and principles of effective communication.
+  - Module 2: Verbal Communication Skills. This module covers the skills of speaking and listening, such as the elements of speech, voice modulation, pronunciation, accent, intonation, stress, and non-verbal cues. It also covers the techniques of active listening, feedback, and questioning.
+  - Module 3: Written Communication Skills. This module covers the skills of writing and reading, such as the features of academic and professional writing, the process of writing, the types and formats of documents, the use of grammar, punctuation, and vocabulary, and the strategies of reading comprehension and critical analysis.
+  - Module 4: Presentation Skills. This module covers the skills of preparing and delivering effective presentations, such as the purpose, audience, content, structure, and delivery of presentations. It also covers the use of visual aids, body language, and voice in presentations, and the handling of questions and comments from the audience.
+
+- Part B: This part consists of the following activities:
+
+  - Activity 1: Group Discussion. This activity involves the students participating in a group discussion on a given topic, following the rules and norms of group discussion, such as initiating, contributing, summarizing, and concluding the discussion. The students are also expected to demonstrate their verbal and non-verbal communication skills, such as clarity, fluency, coherence, relevance, politeness, and confidence.
+  - Activity 2: Interview Skills. This activity involves the students preparing for and facing a mock interview, following the guidelines and tips for interview preparation, such as researching the organization, reviewing the resume, anticipating the questions, and dressing appropriately. The students are also expected to demonstrate their verbal and non-verbal communication skills, such as greeting, introducing, answering, asking, and thanking the interviewer.
+  - Activity 3: Public Speaking. This activity involves the students delivering a speech on a given topic, following the steps and techniques of public speaking, such as selecting the topic, researching the material, organizing the speech, rehearsing the speech, and delivering the speech. The students are also expected to demonstrate their verbal and non-verbal communication skills, such as voice, eye contact, gesture, posture, and expression.

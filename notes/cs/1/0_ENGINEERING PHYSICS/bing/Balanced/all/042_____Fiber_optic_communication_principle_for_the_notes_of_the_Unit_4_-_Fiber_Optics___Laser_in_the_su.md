@@ -1,0 +1,21 @@
+# Fiber Optic Communication Principle
+
+- Fiber optic communication is a method of transmitting information from one place to another by sending pulses of infrared light through an optical fiber.
+- The light is a form of carrier wave that is modulated to carry information.
+- Optical fiber is a thin, transparent fiber made of glass or plastic that can guide light along its length .
+- The optical fiber consists of a core, a cladding and a protective coating .
+- The core is the innermost part of the fiber, where the light travels. The core has a higher refractive index than the cladding, which is the outer layer of the fiber .
+- The cladding acts as a mirror that reflects the light back into the core, preventing it from escaping the fiber. This phenomenon is called total internal reflection, and it is the principle on which the optical fiber communication is based .
+- The protective coating is a layer of plastic or other material that covers the cladding and protects the fiber from damage and moisture .
+- Optical fiber is used by telecommunications companies to transmit telephone signals, Internet communication and cable television signals. It is also used in other industries, including medical, defense, government, industrial and commercial.
+- The advantages of optical fiber communication include:
+  - Higher bandwidth and data rate than copper wire or wireless communication .
+  - Lower attenuation and interference than copper wire or wireless communication  .
+  - Smaller size and weight than copper wire or wireless communication .
+  - Higher security and reliability than copper wire or wireless communication .
+  - Lower cost and maintenance than copper wire or wireless communication .
+- The challenges of optical fiber communication include:
+  - Difficulty of splicing and connecting optical fibers .
+  - Vulnerability of optical fibers to physical damage and environmental factors .
+  - Need for specialized equipment and skills to install and operate optical fiber systems .
+  - Limitation of transmission distance and power due to signal loss and dispersion  .

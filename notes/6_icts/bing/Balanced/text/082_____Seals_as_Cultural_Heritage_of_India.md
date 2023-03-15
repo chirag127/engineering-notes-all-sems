@@ -1,0 +1,10 @@
+### Seals as Cultural Heritage of India
+
+- Seals are small objects made of stone, metal, or other materials that have a carved or engraved design on one side and are used to stamp or seal documents, containers, or other items.
+- Seals have been used in India since ancient times, especially during the Indus Valley Civilization (2500-1900 BCE), which was one of the earliest urban civilizations in the world.
+- Seals of the Indus Valley Civilization are mostly square or rectangular in shape, and measure about 2-3 cm on each side. They are made of steatite, a soft stone that can be easily carved, and coated with alkali and baked to make them harder and more durable.
+- Seals of the Indus Valley Civilization usually depict an animal, such as a bull, a buffalo, a rhinoceros, an elephant, a tiger, or a unicorn, along with a few symbols or glyphs that are part of the undeciphered Indus script. The animal may represent a deity, a clan, a trade, or a region. The symbols may indicate the owner, the purpose, or the content of the seal.
+- Seals of the Indus Valley Civilization were used for various purposes, such as marking goods, sealing containers, identifying traders, authenticating documents, or expressing religious beliefs. They were also worn as amulets or ornaments by the people.
+- Seals of the Indus Valley Civilization are important sources of information about the culture, society, economy, religion, and art of the ancient Indus people. They show their skill in carving, their knowledge of animals, their trade networks, and their writing system.
+- Seals of the Indus Valley Civilization are also examples of cultural exchange and interaction between India and other regions, such as the Persian Gulf, Mesopotamia, and Central Asia. Seals from these areas have been found in Indus sites, and vice versa, indicating that there was trade and communication between these civilizations.
+- Seals of the Indus Valley Civilization are part of the cultural heritage of India, as they reflect the ancient history, diversity, and creativity of the Indian people. They are also valuable artifacts that need to be preserved and studied for future generations.

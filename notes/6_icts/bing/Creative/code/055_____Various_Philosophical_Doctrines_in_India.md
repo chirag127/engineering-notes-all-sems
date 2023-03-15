@@ -1,0 +1,21 @@
+### Various Philosophical Doctrines in India
+
+- Indian philosophy is the systems of thought and reflection that were developed by the civilizations of the Indian subcontinent.
+- Indian philosophy shares many concepts such as dharma, karma, samsara, dukkha, renunciation, meditation, with almost all of them focusing on the ultimate goal of liberation of the individual from dukkha and samsara through diverse range of spiritual practices (moksha, nirvana).
+- Indian philosophy accepts the authority of ancient philosophers and innovations are represented as extensions of older systems of thought. Flexibility and the tendency to synthesize are also characteristic of Indian philosophy.
+- Indian philosophy can be divided into two main categories: orthodox (astika) and unorthodox (nastika) schools of philosophy.
+- Orthodox schools accept the authority of the Vedas, the ancient scriptures of Hinduism, and include six systems: Nyaya, Vaisheshika, Samkhya, Yoga, Purva-Mimamsa, and Vedanta.
+- Unorthodox schools reject the authority of the Vedas and include two major religions: Buddhism and Jainism, as well as other schools such as Ajivika, Charvaka, and Lokayata.
+- Some of the main features of the orthodox schools are:
+  - Nyaya: a school of logic and epistemology that analyzes the sources and validity of knowledge and inference.
+  - Vaisheshika: a school of atomism and naturalism that postulates the existence of six categories of reality: substance, quality, action, generality, particularity, and inherence.
+  - Samkhya: a school of dualism that regards the universe as consisting of two independent realities: purusha (the self or soul) and prakriti (the material nature).
+  - Yoga: a school similar to Samkhya that accepts a personal god and focuses on yogic practices for achieving mental and physical discipline and liberation.
+  - Purva-Mimamsa: a school of ritual exegesis and hermeneutics that interprets the Vedas and prescribes the performance of sacrifices and ethical duties for attaining worldly and heavenly benefits.
+  - Vedanta: a school of metaphysics and theology that develops various systems of thought based on the Upanishads, the philosophical portions of the Vedas, and advocates the identity of the individual self with the supreme reality (Brahman).
+- Some of the main features of the unorthodox schools are:
+  - Buddhism: a religion founded by Siddhartha Gautama (the Buddha) that teaches the four noble truths: the truth of suffering, the truth of the origin of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering.
+  - Jainism: a religion founded by Mahavira (the Jina) that teaches the doctrine of ahimsa (non-violence) and the attainment of liberation by following the three jewels: right knowledge, right conduct, and right faith.
+  - Ajivika: a school of fatalism and determinism that holds that everything is predetermined by the cosmic force of niyati (destiny) and that human actions have no moral consequences.
+  - Charvaka: a school of materialism and hedonism that denies the existence of anything beyond the four elements (earth, water, fire, and air) and advocates the pursuit of sensual pleasure as the only good.
+  - Lokayata: a school of skepticism and empiricism that rejects the validity of any source of knowledge other than perception and rejects the existence of anything that cannot be perceived.

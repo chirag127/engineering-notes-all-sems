@@ -1,0 +1,11 @@
+# Preparation of different resins
+
+Resins are organic compounds that are solid or semi-solid at room temperature and have a high molecular weight. Resins are usually derived from natural sources, such as plants or animals, or from synthetic sources, such as petroleum or coal. Resins have various applications in industries, such as paints, varnishes, adhesives, plastics, rubber, and pharmaceuticals.
+
+The preparation of different resins depends on the source, the type, and the desired properties of the resin. Some of the common methods of preparing resins are:
+
+- **Polymerization**: This is the process of joining small molecules, called monomers, to form larger molecules, called polymers. Polymerization can be initiated by heat, light, catalysts, or other agents. For example, ethylene can be polymerized to form polyethylene, a synthetic resin used for making plastic bags, bottles, and pipes.
+- **Condensation**: This is the process of combining two or more molecules, usually with the elimination of a small molecule, such as water, ammonia, or alcohol. Condensation can be carried out by heating, acid or base catalysis, or dehydration agents. For example, phenol and formaldehyde can be condensed to form phenol-formaldehyde resin, a synthetic resin used for making plywood, laminates, and electrical insulators.
+- **Esterification**: This is the process of reacting an alcohol and an acid to form an ester and water. Esterification can be catalyzed by acids, bases, or enzymes. For example, glycerol and phthalic acid can be esterified to form glyptal resin, a synthetic resin used for making alkyd paints and coatings.
+- **Hydrolysis**: This is the process of breaking down a compound by reacting it with water. Hydrolysis can be catalyzed by acids, bases, or enzymes. For example, starch can be hydrolyzed to form glucose, a natural resin used for making candies, syrups, and ethanol.
+- **Extraction**: This is the process of separating a resin from its natural source by using a solvent, such as alcohol, ether, or acetone. Extraction can be done by soaking, boiling, or distilling the source material. For example, rosin can be extracted from pine trees by tapping the bark and collecting the resinous sap. Rosin is a natural resin used for making varnishes, adhesives, and soldering flux.

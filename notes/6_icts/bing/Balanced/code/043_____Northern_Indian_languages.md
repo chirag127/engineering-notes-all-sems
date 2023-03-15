@@ -1,0 +1,15 @@
+### Northern Indian languages
+
+- Northern Indian languages are mainly part of the Indo-Aryan branch of the Indo-European language family.
+- They are spoken by about 75% of the population of India, mostly in the northern, central and western regions of the country.
+- Some of the major Northern Indian languages are:
+
+  - **Hindi**: The most widely spoken language in India, with about 528 million speakers. It is the official language of the central government and several states, and one of the 22 scheduled languages of India. It is written in the Devanagari script and has many dialects, such as Braj, Awadhi, Bhojpuri, Rajasthani and Haryanvi .
+  - **Urdu**: The national language of Pakistan and one of the 22 scheduled languages of India, with about 70 million speakers. It is closely related to Hindi, but has more Persian and Arabic influence. It is written in the Perso-Arabic script and has many dialects, such as Dakhini, Rekhta and Hyderabadi .
+  - **Punjabi**: The official language of the state of Punjab and one of the 22 scheduled languages of India, with about 125 million speakers. It is also spoken in Pakistan, where it is written in the Shahmukhi script, and in India, where it is written in the Gurmukhi script. It has many dialects, such as Majhi, Malwi, Doabi and Pothwari .
+  - **Kashmiri**: The official language of the union territory of Jammu and Kashmir and one of the 22 scheduled languages of India, with about 7 million speakers. It is written in the Perso-Arabic script or the Devanagari script, and has many dialects, such as Kishtwari, Poguli and Rambani .
+  - **Bihari**: A group of languages spoken in the state of Bihar and neighboring regions, with about 104 million speakers. Some of the Bihari languages are Bhojpuri, Maithili, Magahi and Angika. They are written in the Devanagari script or the Kaithi script, and have many dialects, such as Sarawaria, Tharu and Vajjika .
+  - **Pahari**: A group of languages spoken in the Himalayan regions of India, Pakistan and Nepal, with about 4 million speakers. Some of the Pahari languages are Garhwali, Kumaoni, Nepali and Dogri. They are written in the Devanagari script or the Takri script, and have many dialects, such as Jaunsari, Lohari and Sirmauri .
+
+- Northern Indian languages have a rich literary and cultural heritage, and have influenced and been influenced by other languages, such as Sanskrit, Persian, Arabic, English and Dravidian languages.
+- Northern Indian languages are mutually intelligible to varying degrees, depending on the geographic proximity and linguistic affinity of the speakers. They also share some common grammatical features, such as gender, number, case and tense. However, they also have some distinctive phonological, morphological and lexical differences, such as the presence or absence of retroflex consonants, aspirated consonants, nasalization, honorifics and loanwords .

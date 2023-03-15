@@ -1,0 +1,10 @@
+#### K1 – Remember, K2 – Understand, K3 – Apply, K4 – Analyze, K5 – Evaluate, K6 – Create
+
+These are the six levels of cognitive learning according to Bloom's taxonomy, a framework for classifying educational objectives and outcomes. They are arranged from lower-order to higher-order thinking skills, and they represent the degree of complexity and depth of learning expected from students.
+
+- K1 – Remember: This level involves recalling facts, terms, definitions, concepts, or procedures from memory. Examples of verbs used at this level are: define, list, name, identify, label, recognize, etc.
+- K2 – Understand: This level involves explaining the meaning, interpretation, or summary of information in one's own words. Examples of verbs used at this level are: describe, explain, paraphrase, summarize, illustrate, classify, compare, etc.
+- K3 – Apply: This level involves using learned information to solve problems or perform tasks in new or familiar situations. Examples of verbs used at this level are: apply, use, demonstrate, solve, calculate, implement, etc.
+- K4 – Analyze: This level involves breaking down information into parts, examining the relationships, causes, effects, or implications of each part, and identifying patterns or trends. Examples of verbs used at this level are: analyze, compare, contrast, differentiate, distinguish, examine, etc.
+- K5 – Evaluate: This level involves making judgments, assessments, or critiques based on criteria, standards, or evidence. Examples of verbs used at this level are: evaluate, judge, critique, appraise, argue, justify, etc.
+- K6 – Create: This level involves generating, producing, or designing new or original ideas, products, or solutions based on existing or synthesized information. Examples of verbs used at this level are: create, design, develop, construct, compose, invent, etc.

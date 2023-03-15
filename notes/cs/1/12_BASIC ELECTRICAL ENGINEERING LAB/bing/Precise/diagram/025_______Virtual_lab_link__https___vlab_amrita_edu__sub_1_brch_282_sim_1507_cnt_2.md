@@ -1,0 +1,7 @@
+##### Virtual Lab
+
+Virtual labs are online tools that offer a space for students to engage with their subject matter interactively. They can be used for pre-lab preparation, online lab courses, post-lab review, make-up labs, or used with a textbook to bridge the gap between lab and lecture courses. Virtual labs are available for a wide range of disciplines, including Anatomy & Physiology, Biology (Majors and Non-majors), Botany, Environmental Science, Genetics, Human Biology, Medical Assisting, Microbiology, and Nutrition.
+
+Virtual labs provide remote access to simulation-based labs in various disciplines of Science and Engineering. They are designed to enthuse students to conduct experiments by arousing their curiosity, helping them learn basic and advanced concepts through remote experimentation. Some virtual labs include built-in quizzes, notebooks, and references to enhance the learning experience.
+
+Virtual labs are a valuable resource for remote learning, allowing students to engage in interactive, hands-on learning experiences from the comfort of their own homes. They are available from a variety of sources, including educational institutions, publishers, and independent organizations.

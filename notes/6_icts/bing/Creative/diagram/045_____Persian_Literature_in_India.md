@@ -1,0 +1,9 @@
+### Persian Literature in India
+
+- Persian literature is the literary expression of the Persian language and culture, which originated in Iran and spread to other regions of the Persianate world, including India.
+- Persian literature in India began with the rise of Persian-speaking people to the throne of the Delhi Sultanate in the 13th century, which resulted in the spread of the Persian language as the official and literary language of the region.
+- Persian literature in India reached its peak under the Mughal Empire (16th-18th centuries), which patronized Persian poets, historians, and scholars, and produced many works of art, architecture, and literature in the Persian style and language.
+- Persian literature in India reflects the thought, social structure, culture, and political institutions of the medieval period, as well as the spirit of the age, which was marked by religious diversity, cultural synthesis, and artistic innovation.
+- Persian literature in India covers various genres, such as poetry, prose, history, biography, mysticism, and romance. Some of the most prominent Persian writers in India were Amir Khusrow, Abdur Rahim Khan-i-Khanan, Abul Fazl, Faizi, Nizamuddin Auliya, and Mirza Ghalib .
+- Persian literature in India also influenced the literatures of other languages, such as Urdu, Hindi, Bengali, and Punjabi, which borrowed words, themes, forms, and styles from Persian .
+- Persian literature in India declined after the British colonization, which replaced Persian with English as the official and dominant language. However, Persian literature in India still survives in the works of some modern writers, such as Iqbal, who wrote in both Urdu and Persian.

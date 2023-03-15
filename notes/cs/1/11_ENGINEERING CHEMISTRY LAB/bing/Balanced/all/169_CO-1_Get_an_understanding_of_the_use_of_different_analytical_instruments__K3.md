@@ -1,0 +1,11 @@
+# CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Different analytical instruments have different applications, principles, and techniques, depending on the type and nature of the sample and the property of interest.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: These are instruments that measure the interaction of electromagnetic radiation (such as light, infrared, ultraviolet, X-rays, etc.) with matter. They can be used to identify the composition, structure, or concentration of substances in a sample, based on their characteristic absorption, emission, or scattering spectra.
+  - Chromatographs: These are instruments that separate the components of a mixture based on their different affinities to a stationary phase (such as a solid or a liquid) and a mobile phase (such as a gas or a liquid). They can be used to quantify, purify, or identify the components of a mixture, based on their retention time, peak area, or peak shape.
+  - Mass spectrometers: These are instruments that ionize the molecules or atoms in a sample and measure their mass-to-charge ratio. They can be used to determine the molecular weight, formula, structure, or isotopic composition of substances in a sample, based on their mass spectrum.
+  - Microscopes: These are instruments that magnify the image of small or microscopic objects using lenses, mirrors, or other optical devices. They can be used to observe the morphology, structure, or behavior of cells, tissues, organisms, or materials, based on their optical properties, such as contrast, resolution, or fluorescence.
+  - Electrochemical instruments: These are instruments that measure the electrical properties of a sample, such as voltage, current, resistance, or capacitance, in relation to a chemical reaction or process. They can be used to determine the concentration, activity, or kinetics of electroactive species in a sample, based on their electrochemical signals, such as potentiometry, amperometry, or voltammetry.

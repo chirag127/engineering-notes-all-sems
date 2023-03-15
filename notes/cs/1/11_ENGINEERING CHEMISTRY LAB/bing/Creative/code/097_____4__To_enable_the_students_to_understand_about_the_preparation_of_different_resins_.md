@@ -1,0 +1,15 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually solid or semi-solid, and have a high molecular weight and a complex structure.
+- Resins are widely used in various industries, such as paints, adhesives, plastics, rubber, pharmaceuticals, cosmetics, etc.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+- Thermoplastic resins are resins that can be softened by heating and hardened by cooling, and can be reshaped repeatedly. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, etc.
+- Thermosetting resins are resins that undergo irreversible chemical reactions when heated, and form cross-linked networks that cannot be melted or reshaped. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, etc.
+- The preparation of different resins involves various steps, such as polymerization, condensation, curing, cross-linking, etc., depending on the type and properties of the resin.
+- Polymerization is the process of joining small molecules (monomers) to form large molecules (polymers) by covalent bonds. Polymerization can be initiated by heat, light, catalysts, etc. Polymerization can be classified into two types: addition and condensation.
+- Addition polymerization is the process of joining monomers without the elimination of any by-products. Examples of addition polymerization are the formation of polyethylene from ethylene, and the formation of polystyrene from styrene.
+- Condensation polymerization is the process of joining monomers with the elimination of small molecules, such as water, alcohol, ammonia, etc. Examples of condensation polymerization are the formation of nylon from hexamethylenediamine and adipic acid, and the formation of polyester from ethylene glycol and terephthalic acid.
+- Curing is the process of hardening and strengthening a resin by heating, cooling, or adding a curing agent. Curing can improve the mechanical, thermal, and chemical properties of the resin. Curing can be classified into two types: physical and chemical.
+- Physical curing is the process of hardening a resin by cooling or solvent evaporation. Examples of physical curing are the hardening of wax and the drying of oil paints.
+- Chemical curing is the process of hardening a resin by chemical reactions, such as cross-linking, oxidation, etc. Examples of chemical curing are the hardening of epoxy and the vulcanization of rubber.
+- Cross-linking is the process of forming covalent bonds between different polymer chains, resulting in a three-dimensional network structure. Cross-linking can increase the rigidity, strength, and stability of the resin. Cross-linking can be induced by heat, light, radiation, catalysts, etc. Examples of cross-linked resins are phenol-formaldehyde, urea-formaldehyde, etc.

@@ -1,0 +1,23 @@
+# The Oldham-Hackman Job Characteristic Model
+
+- The Oldham-Hackman Job Characteristic Model, also known as the Job Characteristics Theory, is a framework for designing and enriching jobs to increase employee motivation, satisfaction and performance  .
+- The model was developed by organizational psychologists J. Richard Hackman and Greg Oldham in the 1970s, based on their research on the effects of job characteristics on psychological states and outcomes   .
+- The model proposes that there are five core job dimensions that influence three critical psychological states of the employee, which in turn affect four personal and work outcomes   .
+- The five core job dimensions are:
+  - Skill variety: the degree to which the job requires a variety of different activities and skills   .
+  - Task identity: the degree to which the job involves completing a whole and identifiable piece of work   .
+  - Task significance: the degree to which the job has a substantial impact on the lives or work of other people   .
+  - Autonomy: the degree to which the job provides freedom, independence and discretion to the employee in scheduling the work and determining the procedures to be used   .
+  - Feedback: the degree to which the job provides clear and direct information about the effectiveness of the employee's performance   .
+- The three critical psychological states are:
+  - Experienced meaningfulness of the work: the degree to which the employee feels that the work is worthwhile and valuable   .
+  - Experienced responsibility for the outcomes of the work: the degree to which the employee feels accountable and in control of the results of the work   .
+  - Knowledge of the actual results of the work: the degree to which the employee knows and understands how well the work is being done   .
+- The four personal and work outcomes are:
+  - Motivation: the degree to which the employee is willing to exert high levels of effort to reach organizational goals   .
+  - Performance: the degree to which the employee achieves the desired results of the work   .
+  - Satisfaction: the degree to which the employee is happy and content with the work   .
+  - Absenteeism and turnover: the degree to which the employee is absent from work or leaves the organization   .
+- The model also suggests that the relationship between the job dimensions and the outcomes is moderated by the employee's growth need strength, which is the extent to which the employee desires to develop and grow as a person through the work   .
+- The model implies that jobs can be redesigned or enriched by increasing one or more of the core job dimensions, which will enhance the psychological states and the outcomes of the employee   .
+- The model can be applied to various types of jobs and organizations, and can be assessed by using the instruments developed by Hackman and Oldham, such as the Job Diagnostic Survey (JDS) and the Job Rating Form (JRF).

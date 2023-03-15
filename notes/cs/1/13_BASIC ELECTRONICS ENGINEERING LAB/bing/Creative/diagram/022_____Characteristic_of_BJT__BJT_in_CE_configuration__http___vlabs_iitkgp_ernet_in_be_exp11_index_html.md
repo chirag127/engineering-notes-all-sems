@@ -1,0 +1,15 @@
+### Characteristic of BJT: BJT in CE configuration
+
+- BJT stands for Bipolar Junction Transistor, which is a three-terminal device that can amplify electrical signals.
+- BJT can be connected in three different configurations by keeping one terminal common and using the other two terminals for the input and output. These configurations are common base (CB), common emitter (CE), and common collector (CC).
+- In CE configuration, the emitter terminal is the common terminal for both input and output. The input signal is applied between the base and the emitter, and the output signal is taken between the collector and the emitter.
+- CE configuration is the most widely used configuration for BJT amplifiers, because it has high voltage gain, high current gain, high power gain, and medium input impedance.
+- The characteristics of BJT in CE configuration can be studied by plotting the input and output characteristics curves, which show the relationship between the input and output currents and voltages.
+- The input characteristics curve shows the variation of base current (I_B) with respect to base-emitter voltage (V_BE) for different values of collector-emitter voltage (V_CE). It is similar to the forward characteristics of a diode, because the base-emitter junction is forward biased in CE configuration.
+- The output characteristics curve shows the variation of collector current (I_C) with respect to collector-emitter voltage (V_CE) for different values of base current (I_B). It has three regions: cut-off, active, and saturation.
+- In the cut-off region, both the base-emitter and the collector-base junctions are reverse biased, and the collector current is negligible.
+- In the active region, the base-emitter junction is forward biased and the collector-base junction is reverse biased, and the collector current is proportional to the base current. The slope of the curve in this region is called the output resistance (r_o), and the intercept on the V_CE axis is called the Early voltage (V_A).
+- In the saturation region, both the base-emitter and the collector-base junctions are forward biased, and the collector current reaches a maximum value. The voltage drop across the collector-emitter junction is small, and the transistor acts like a closed switch.
+- The current gain of the BJT in CE configuration is defined as the ratio of the output current to the input current, and it is denoted by beta (β) or h_FE. It is a measure of how much the transistor amplifies the input signal. It is usually a large number, ranging from 20 to 500.
+- The voltage gain of the BJT in CE configuration is defined as the ratio of the output voltage to the input voltage, and it is denoted by A_V. It is a measure of how much the transistor changes the input voltage. It is usually a positive number, indicating that the output signal is in phase with the input signal.
+- The power gain of the BJT in CE configuration is defined as the ratio of the output power to the input power, and it is denoted by A_P. It is a measure of how much the transistor increases the power of the input signal. It is usually a very large number, ranging from 10^3 to 10^6.

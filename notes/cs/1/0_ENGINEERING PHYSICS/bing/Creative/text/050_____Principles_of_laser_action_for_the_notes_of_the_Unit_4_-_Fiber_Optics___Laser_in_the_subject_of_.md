@@ -1,0 +1,16 @@
+### Principles of laser action
+
+- Laser is an acronym for **Light Amplification by Stimulated Emission of Radiation**.
+- Laser action is the process of producing a coherent, monochromatic, and intense beam of light by stimulating the atoms or molecules of a medium to emit photons in a synchronized manner .
+- The basic principles of laser action are  :
+  - **Spontaneous emission**: This is the natural process of an excited atom or molecule returning to a lower energy level and emitting a photon of a random wavelength, phase, and direction.
+  - **Stimulated emission**: This is the process of an excited atom or molecule being stimulated by an incoming photon of the same wavelength and phase as the transition between the energy levels, and emitting a second photon of the same wavelength, phase, and direction as the incoming photon. This results in the amplification of the photon flux.
+  - **Stimulated absorption**: This is the process of an atom or molecule in a lower energy level absorbing an incoming photon of the same wavelength and phase as the transition between the energy levels, and jumping to a higher energy level. This results in the attenuation of the photon flux.
+  - **Non-radiative decay**: This is the process of an excited atom or molecule losing energy by other means than emitting a photon, such as collisions, vibrations, or heat. This results in the reduction of the population of the excited state.
+  - **Population inversion**: This is the condition in which the number of atoms or molecules in a higher energy level is greater than the number of atoms or molecules in a lower energy level. This is necessary for achieving net gain in the stimulated emission process, and hence laser action.
+  - **Amplification of light**: This is the process of increasing the intensity of the light beam by passing it through a medium with population inversion. The medium is called the **gain medium** or the **active medium**, and the device that provides the amplification is called the **laser cavity** or the **optical resonator**. The laser cavity consists of two mirrors, one of which is partially transparent, that reflect the light back and forth through the gain medium, allowing multiple passes of stimulated emission. The partially transparent mirror allows some of the amplified light to escape as the **laser output**.
+- The methods of pumping action are the techniques of creating population inversion in the gain medium by supplying energy to the atoms or molecules. The energy can be supplied in various forms, such as electrical current, optical radiation, chemical reaction, or nuclear reaction. Some examples of pumping methods are:
+  - **Optical pumping**: This is the method of using a flash lamp or another laser to excite the atoms or molecules of the gain medium by absorbing photons of a suitable wavelength.
+  - **Electrical pumping**: This is the method of using an electric current to excite the atoms or molecules of the gain medium by ionizing them or creating a plasma.
+  - **Chemical pumping**: This is the method of using a chemical reaction to excite the atoms or molecules of the gain medium by releasing energy in the form of heat or photons.
+  - **Nuclear pumping**: This is the method of using a nuclear reaction to excite the atoms or molecules of the gain medium by emitting particles or radiation.

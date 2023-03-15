@@ -1,0 +1,9 @@
+### 16. Element detection and identification of functional groups in organic compounds.
+
+- Organic compounds are composed of carbon, hydrogen, and other elements such as oxygen, nitrogen, sulfur, phosphorus, halogens, etc.
+- The detection and identification of these elements and functional groups in organic compounds are important for determining their structure and properties.
+- There are various methods for detecting and identifying elements and functional groups in organic compounds, such as:
+
+  - **Qualitative analysis**: This involves testing for the presence or absence of certain elements or functional groups using chemical reactions, color changes, precipitates, etc. For example, the Lassaigne's test for nitrogen, sulfur, and halogens, the ignition test for carbon and hydrogen, the bromine water test for unsaturation, etc.
+  - **Quantitative analysis**: This involves measuring the amount or percentage of certain elements or functional groups in organic compounds using gravimetric, volumetric, or instrumental methods. For example, the estimation of carbon and hydrogen by Liebig's method, the estimation of nitrogen by Kjeldahl's method, the estimation of halogens by Carius method, etc.
+  - **Spectroscopic analysis**: This involves using electromagnetic radiation to study the interaction of organic compounds with different regions of the electromagnetic spectrum, such as infrared, ultraviolet-visible, nuclear magnetic resonance, mass spectrometry, etc. This can provide information about the types, number, and arrangement of atoms and bonds in organic compounds. For example, the identification of functional groups by infrared spectroscopy, the identification of molecular formula by mass spectrometry, the identification of molecular structure by nuclear magnetic resonance spectroscopy, etc.

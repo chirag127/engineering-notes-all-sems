@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links as per your instructions:
+
+#### Failures in MapReduce
+
+1. Task tracker failure: If any of the task trackers fail, the tasks assigned to it will not complete. This can affect the performance and output of the MapReduce job. The job tracker detects such failures and re-assigns the tasks to other working task trackers.
+2. Resource starvation: If a task tracker does not have sufficient resources to execute the tasks assigned to it, the tasks will be starved of resources and their performance will degrade. This can increase the job completion time. Proper resource allocation and monitoring can help avoid such situations.
+3. Data locality: The speed of a MapReduce job depends on how fast the map and reduce tasks can access the data they operate on. When the data is not present on the local disk of the task tracker executing the task, the job performance degrades due to high latency in fetching the required blocks over the network. The job scheduler should try to allocate tasks to task trackers that already have the required data blocks locally available.
+4. Network congestion: The shuffle and sort phase of a MapReduce job requires massive data transfers between the map and reduce tasks. If the network connecting the task trackers gets congested, the job performance will degrade due to delays in data transfers. This can be avoided by proper network monitoring and traffic shaping mechanisms.
+5. Disk failures: The MapReduce system stores the intermediate data produced by the tasks on the local disk of the task trackers. If any of the disks fail, the data will be lost and has to be recomputed. This can significantly affect the job performance and increase the job completion time. Disk failures can be handled by data replication and fast detection-recovery mechanisms.
+
+The content is written in points and in a formal tone as instructed. Please let me know if you would like me to modify or add any other points.

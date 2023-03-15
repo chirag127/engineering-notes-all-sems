@@ -1,0 +1,11 @@
+# Principles of laser action
+
+- Laser is an acronym for **Light Amplification by Stimulated Emission of Radiation**.
+- Laser action is the process of producing a coherent, monochromatic, and intense beam of light by stimulating the atoms or molecules of a medium to emit photons in a synchronized manner.
+- The basic principles of laser action are  :
+  - **Spontaneous emission**: This is the natural process of an excited atom or molecule returning to a lower energy level and emitting a photon of a random wavelength, phase, and direction.
+  - **Stimulated emission**: This is the process of an excited atom or molecule being stimulated by an incoming photon of the same wavelength and phase as the emitted photon, resulting in the emission of two identical photons in the same direction. This is the key mechanism for light amplification in a laser.
+  - **Stimulated absorption**: This is the process of an atom or molecule in a lower energy level absorbing an incoming photon of the same wavelength and phase as the transition to a higher energy level, resulting in the excitation of the atom or molecule. This is the opposite of stimulated emission and reduces the light intensity in a laser.
+  - **Non-radiative decay**: This is the process of an excited atom or molecule losing energy by other means than emitting a photon, such as collisions, vibrations, or heat. This is an undesirable process in a laser as it reduces the population of excited atoms or molecules available for stimulated emission.
+  - **Population inversion**: This is the condition in which the number of atoms or molecules in a higher energy level is greater than the number in a lower energy level, resulting in a net gain of photons by stimulated emission. This is the essential requirement for laser action and is achieved by pumping energy into the medium.
+  - **Amplification of light**: This is the process of increasing the intensity of light by passing it through a medium with population inversion, resulting in multiple cycles of stimulated emission and photon multiplication. This is the main function of a laser and is enhanced by using an optical resonator or cavity that reflects the light back and forth between two mirrors.

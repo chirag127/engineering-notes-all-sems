@@ -1,0 +1,8 @@
+#### Harappan Script
+
+- Harappan script is the name given to the symbols found on the inscriptions of the Indus Valley Civilisation, which flourished in the northwest of India and Pakistan from about 2500 to 1900 BCE .
+- Harappan script is also known as Indus script, as it was discovered during the excavation of Harappa, one of the major cities of the civilisation.
+- Harappan script consists of about 400 signs, which vary in shape, size and orientation . Some signs are pictorial, representing animals, plants, objects or abstract concepts, while others are geometric or linear .
+- Harappan script is written from right to left, sometimes with a boustrophedon (alternating direction) pattern . The inscriptions are usually very short, ranging from one to 17 signs, and are found on various objects such as seals, pottery, copper tablets, tools, jewellery and ivory  .
+- Harappan script has not been deciphered yet, despite many attempts by various scholars and methods  . The main challenges are the lack of bilingual inscriptions, the unknown underlying language(s), the brevity and diversity of the texts, and the absence of a clear grammatical or syntactic structure  .
+- Harappan script is one of the oldest known writing systems in the world, and it reflects the culture and society of the Indus Valley Civilisation  . It is a valuable source of information and a fascinating topic of research for historians, linguists and archaeologists  .

@@ -1,0 +1,7 @@
+### 2. To enable the students to understand about the analysis of chloride content, hardness, alkalinity of water.
+
+- **Chloride content:** Chloride is one of the major anions found in water and wastewater. The analysis of chloride content in water is important because high levels of chloride can be harmful to aquatic life and can also affect the taste of drinking water. The chloride content in water can be determined using various methods such as titration, ion chromatography, and ion-selective electrodes.
+
+- **Hardness:** Hardness in water is caused by the presence of dissolved calcium and magnesium ions. It is important to analyze the hardness of water because it can affect the performance of water-using appliances and can also cause scaling in pipes and boilers. The hardness of water can be determined using various methods such as titration, atomic absorption spectroscopy, and ion exchange chromatography.
+
+- **Alkalinity:** Alkalinity is a measure of the water's ability to neutralize acids. It is important to analyze the alkalinity of water because it can affect the pH of the water and can also affect the effectiveness of water treatment processes. The alkalinity of water can be determined using various methods such as titration, colorimetry, and ion chromatography.

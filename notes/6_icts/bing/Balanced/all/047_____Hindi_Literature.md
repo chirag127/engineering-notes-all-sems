@@ -1,0 +1,8 @@
+# Hindi Literature
+
+Hindi literature is the literature written in the Hindi language, which includes various dialects and scripts. Hindi literature has a long and rich history, dating back to the 11th century. Some of the main genres and themes of Hindi literature are:
+
+- **Poetry**: Hindi poetry is one of the oldest and most diverse forms of literature, ranging from devotional and philosophical verses to romantic and lyrical poems. Some of the famous poets of Hindi literature are Kabir, Tulsidas, Surdas, Mirabai, Rahim, Premchand, Nirala, Mahadevi Varma, and Harivansh Rai Bachchan.
+- **Prose**: Hindi prose emerged in the 19th century, influenced by the Western literary movements and the social and political issues of the time. Some of the prominent prose writers of Hindi literature are Bharatendu Harishchandra, Devaki Nandan Khatri, Munshi Premchand, Jaishankar Prasad, Raja Rao, Yashpal, and Nirmal Verma.
+- **Drama**: Hindi drama is a relatively modern genre, which developed in the 20th century, inspired by the classical Sanskrit drama and the modern European theatre. Some of the notable playwrights of Hindi literature are Mohan Rakesh, Dharamvir Bharati, Vijay Tendulkar, Girish Karnad, and Badal Sircar.
+- **Folk literature**: Hindi folk literature consists of the oral and written traditions of the various regions and communities of India, such as the Rajasthani, Bihari, Awadhi, Bundeli, and Marwari. Some of the popular forms of folk literature are the folk tales, legends, songs, proverbs, and riddles. Some of the famous examples of folk literature are the Panchatantra, the Hitopadesha, the Ramcharitmanas, the Alha-Khand, and the Padmavat.

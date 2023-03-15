@@ -1,0 +1,8 @@
+# Course Outcomes Bloom's
+
+- Course outcomes are statements that describe what students should be able to do or demonstrate after completing a course.
+- Bloom's taxonomy is a framework for classifying educational objectives into six levels of cognitive complexity: remember, understand, apply, analyze, evaluate, and create.
+- Course outcomes should be aligned with Bloom's taxonomy to ensure that students achieve different levels of learning and demonstrate higher-order thinking skills.
+- Course outcomes should be written using action verbs that correspond to the appropriate level of Bloom's taxonomy. For example, "recall the main concepts of thermodynamics" is a course outcome at the remember level, while "design a heat engine based on the principles of thermodynamics" is a course outcome at the create level.
+- Course outcomes should be specific, measurable, achievable, relevant, and time-bound (SMART) to provide clear expectations and criteria for assessment. For example, "apply the laws of thermodynamics to solve problems involving heat transfer and work" is a SMART course outcome, while "understand thermodynamics" is not.
+- Course outcomes should be communicated to students at the beginning of the course and throughout the course to guide their learning and self-assessment. Course outcomes should also be used to design and evaluate learning activities, assignments, and assessments that align with the intended level of learning.

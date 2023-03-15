@@ -1,0 +1,10 @@
+#### Āshrama or the Stages of Life in Society in Ancient India
+
+- Āshrama (Sanskrit: आश्रम) is a system of stages of life discussed in Hindu texts of the ancient and medieval eras.
+- The Āshrama system is one facet of the Dharma concept in Hinduism, which prescribes the duties and responsibilities of an individual according to his or her age, gender, occupation and social status .
+- The four āshramas are: 
+  - Brahmacharya (student), marked by chastity, devotion, and obedience to one’s teacher. This stage lasts until the age of 25, and involves learning the scriptures, the arts, the sciences, and the skills necessary for one's future profession.
+  - Gṛhastha (householder), requiring marriage, the begetting of children, sustaining one’s family and helping support priests and holy men, and fulfillment of duties toward gods and ancestors. This stage lasts until the age of 50, and involves performing the rituals, the sacrifices, the charity, and the social service prescribed by the scriptures.
+  - Vanaprastha (forest walker/forest dweller), involving gradual withdrawal from worldly affairs, detachment from material possessions, and increased focus on spiritual pursuits. This stage lasts until the age of 75, and involves living in a forest hut or a hermitage, practicing meditation, penance, and self-discipline, and seeking the guidance of a guru or a sage.
+  - Sannyasa (renunciate), involving complete renunciation of worldly life, attachment, and identity, and dedication to the quest for liberation (moksha) from the cycle of birth and death (samsara). This stage lasts until the end of one's life, and involves wandering as a mendicant, living on alms, studying the scriptures, and teaching the truth to those who seek it.
+- The Āshrama system was meant to provide a framework for the spiritual and moral development of an individual, as well as for the social and economic welfare of the society. It was also meant to reflect the natural stages of human life, and to harmonize the individual's goals with the cosmic order.

@@ -1,0 +1,12 @@
+### The Seven Limbs of the State in Ancient India
+
+- The seven limbs of the state (saptanga) were formulated by Kautilya, a political thinker and advisor to the Mauryan emperor Chandragupta, in his treatise Arthashastra, which deals with the art of governance and statecraft .
+- The seven limbs are: 
+  - Swamin (the king): The king is the head of the state and the source of authority. He is responsible for the peace, justice and stability of the state. He should be virtuous, intelligent, courageous and benevolent .
+  - Amatya (the minister): The minister is the chief advisor and assistant to the king. He should be loyal, competent, experienced and well-versed in the affairs of the state. He should help the king in policy-making, administration and diplomacy .
+  - Janapada (the land and the people): The land and the people are the basis of the state's wealth and power. The land should be fertile, well-cultivated and protected from enemies. The people should be happy, prosperous, loyal and obedient to the king .
+  - Durga (the fortress): The fortress is the defensive structure of the state. It should be strong, well-fortified and strategically located. It should provide shelter and security to the king, the minister, the army and the people in times of war or emergency .
+  - Kosha (the treasury): The treasury is the financial resource of the state. It should be well-stocked, well-managed and well-spent. It should provide funds for the maintenance of the state, the welfare of the people, the expansion of the territory and the promotion of the arts and sciences .
+  - Danda (the army and the coercive authority): The army and the coercive authority are the instruments of the state's power and order. The army should be well-trained, well-equipped and well-disciplined. It should defend the state from external threats and enforce the king's laws and commands. The coercive authority should be fair, impartial and effective. It should punish the wrongdoers and protect the innocent  .
+  - Mitra (the ally): The ally is the external support of the state. He should be friendly, reliable and helpful. He should share the state's interests, values and goals. He should assist the state in war and peace, in trade and culture .
+- According to Kautilya, the state should maintain a balance and harmony among the seven limbs. The state should also strive to improve the quality and excellence of each limb. The state that has the best combination of the seven limbs is the ideal state and the most powerful state  .

@@ -1,0 +1,25 @@
+## Module 3- Indian Religion, Philosophy, and Practices
+
+- India is a diverse and pluralistic country with many religions, philosophies, and practices that have influenced its culture and history.
+- The majority of Indians practice Hinduism, which is a major religious and cultural tradition of South Asia, which developed from Vedic religion.
+- Hinduism is not a monolithic religion, but a collection of various schools, sects, movements, and traditions that share some common features, such as belief in reincarnation, karma, dharma, and the authority of the Vedas (sacred scriptures).
+- Hinduism has many gods and goddesses, who are manifestations of the supreme reality called Brahman, which is beyond description and comprehension. Some of the most popular deities are Vishnu, Shiva, Ganesha, Lakshmi, Durga, and Saraswati.
+- Hinduism also has many philosophical texts, such as the Upanishads, the Bhagavad Gita, the Yoga Sutras, and the Vedanta Sutras, which explore the nature of reality, the self, the mind, and the path to liberation (moksha) from the cycle of birth and death (samsara).
+- Hinduism has many practices, such as rituals, festivals, pilgrimage, meditation, yoga, ethics, and social service, that aim to foster devotion, wisdom, morality, and harmony among individuals and communities.
+- Hinduism is also influenced by and influences other religions and philosophies in India, such as Buddhism, Jainism, Sikhism, Islam, Christianity, and Zoroastrianism, which have their own distinctive beliefs, doctrines, and practices.
+- Buddhism is a religion and philosophy that originated in India in the 6th century BCE, based on the teachings of Siddhartha Gautama, who is known as the Buddha (the awakened one).
+- Buddhism teaches the four noble truths, which are the truth of suffering, the truth of the cause of suffering, the truth of the end of suffering, and the truth of the path that leads to the end of suffering.
+- Buddhism also teaches the eightfold path, which consists of right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration, which are the means to achieve nirvana (the cessation of suffering and the attainment of enlightenment).
+- Buddhism has many branches, such as Theravada, Mahayana, and Vajrayana, which differ in their interpretation of the Buddha's teachings, their scriptures, their practices, and their goals.
+- Buddhism has spread to many parts of Asia and the world, and has influenced and been influenced by other religions and cultures.
+- Jainism is a religion and philosophy that originated in India in the 6th century BCE, based on the teachings of Mahavira, who is regarded as the last of the 24 Tirthankaras (ford-makers or spiritual teachers).
+- Jainism teaches the principle of ahimsa (non-violence), which is the respect for all living beings and the avoidance of harm to any creature in thought, word, or deed.
+- Jainism also teaches the principle of anekantavada (many-sidedness), which is the recognition of the multiplicity of perspectives and the relativity of truth.
+- Jainism also teaches the principle of aparigraha (non-attachment), which is the detachment from worldly possessions and desires, and the practice of asceticism and self-discipline.
+- Jainism has two main sects, Digambara and Svetambara, which differ in their views on the nature of the soul, the role of women, and the practice of nudity.
+- Jainism has influenced and been influenced by other religions and philosophies in India, such as Hinduism, Buddhism, and Sikhism.
+- Sikhism is a religion and philosophy that originated in the Punjab region of India in the 15th century, based on the teachings of Guru Nanak and his nine successors, who are known as the Gurus.
+- Sikhism teaches the concept of one God, who is the creator, sustainer, and destroyer of the universe, and who is beyond form, name, and gender.
+- Sikhism also teaches the concept of human equality, which is the rejection of caste, creed, gender, and class distinctions, and the promotion of social justice and human rights.
+- Sikhism also teaches the concept of service, which is the duty to serve God and humanity, and to perform acts of charity and compassion.
+- Sikhism has a sacred scripture, called the Guru Granth

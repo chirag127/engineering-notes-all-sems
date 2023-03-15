@@ -1,0 +1,11 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are organic compounds that are solid or semi-solid at room temperature and have a high molecular weight. They are usually derived from natural sources such as plants or animals, or synthesized from simple monomers.
+- Resins have various applications in industries such as paints, coatings, adhesives, plastics, rubber, and pharmaceuticals. They can also be used as additives, modifiers, or stabilizers for other materials.
+- The preparation of different resins depends on the type, source, and properties of the resin. Some common methods of resin preparation are:
+
+  - **Polymerization**: This is the process of joining monomers (small molecules) together to form long chains or networks of polymers (large molecules). Polymerization can be initiated by heat, light, catalysts, or other agents. Examples of resins prepared by polymerization are polyethylene, polypropylene, polystyrene, and epoxy.
+  - **Condensation**: This is the process of removing water or other small molecules from two or more reactants to form a larger molecule. Condensation can be carried out by heating, acid or base catalysis, or dehydration agents. Examples of resins prepared by condensation are phenol-formaldehyde, urea-formaldehyde, melamine-formaldehyde, and polyester.
+  - **Esterification**: This is the process of reacting an alcohol with an acid to form an ester and water. Esterification can be done by heating, acid catalysis, or dehydration agents. Examples of resins prepared by esterification are alkyd, rosin, and shellac.
+  - **Hydrolysis**: This is the process of breaking down a large molecule into smaller molecules by adding water. Hydrolysis can be done by heating, acid or base catalysis, or enzymes. Examples of resins prepared by hydrolysis are cellulose, starch, and gelatin.
+  - **Extraction**: This is the process of separating a resin from its natural source by using a solvent or a physical method. Extraction can be done by boiling, distillation, evaporation, filtration, or centrifugation. Examples of resins prepared by extraction are natural rubber, latex, gum arabic, and resin acids.

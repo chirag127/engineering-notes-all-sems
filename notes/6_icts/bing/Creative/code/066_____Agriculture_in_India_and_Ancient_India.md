@@ -1,0 +1,20 @@
+### Agriculture in India and Ancient India
+
+Agriculture is the cultivation of crops and domestication of animals for food, fiber, and other purposes. Agriculture is one of the oldest and most important human activities, and India has a long and rich history of agriculture.
+
+Some of the main points about agriculture in India and ancient India are:
+
+- According to archaeological evidence, agriculture in India began by 9000 BCE on north-west India with the early cultivation of plants, and domestication of crops and animals.
+- The Indus Valley Civilization (2500-1900 BCE) was one of the earliest urban civilizations that practiced agriculture on a large scale. They grew wheat, barley, rice, millets, peas, sesame, cotton, and fruits. They also raised cattle, sheep, goats, pigs, and elephants.
+- The Vedic period (1500-500 BCE) witnessed the expansion of agriculture to the Gangetic plains and the development of iron tools and irrigation systems. The Vedas and other ancient texts mention various crops and animals, such as rice, barley, millets, sugarcane, sesame, mustard, beans, lentils, fruits, vegetables, cows, horses, sheep, goats, and poultry.
+- The Mauryan Empire (321-185 BCE) was the first pan-Indian empire that promoted agriculture and trade. The Arthashastra, a treatise on statecraft and economy, written by Kautilya, the prime minister of Chandragupta Maurya, contains detailed information on agriculture, irrigation, land revenue, animal husbandry, and forest management.
+- The Gupta Empire (320-550 CE) is considered the golden age of Indian culture and science. Agriculture flourished under the Gupta rule, and many new crops and varieties were introduced, such as rice, wheat, sorghum, cotton, sugarcane, grapes, dates, and citrus fruits. The Gupta period also saw the development of artificial fertilizers, crop rotation, and soil conservation techniques.
+- The medieval period (600-1500 CE) witnessed the invasion and rule of various foreign dynasties, such as the Arabs, Turks, Mongols, Afghans, and Mughals. These rulers brought new crops and technologies to India, such as rice, maize, potatoes, tomatoes, chilies, tobacco, coffee, tea, cotton, indigo, and silk. They also improved the irrigation and drainage systems, and encouraged trade and commerce.
+- The colonial period (1500-1947 CE) marked the domination of India by the European powers, such as the Portuguese, the Dutch, the French, and the British. The colonial rulers exploited the Indian agriculture for their own benefit, and imposed heavy taxes and land reforms. They also introduced new crops and plantations, such as opium, jute, rubber, tea, coffee, and spices. The colonial period also witnessed the famines, droughts, and peasant revolts that affected the Indian agriculture.
+- The modern period (1947-present) is the period of independent India, which has made significant progress in agriculture and food security. India is one of the largest producers and consumers of agricultural products in the world, and has achieved self-sufficiency in food grains. India grows a variety of crops, such as rice, wheat, millets, pulses, oilseeds, sugarcane, cotton, jute, tea, coffee, spices, fruits, and vegetables. India also has a large livestock population, and produces milk, eggs, meat, wool, and leather. India has also adopted modern technologies and practices, such as the Green Revolution, the White Revolution, the Blue Revolution, biotechnology, organic farming, and agroforestry.
+
+: https://thisismyindia.com/ancient_india/ancient-india-agriculture.html
+: https://en.wikipedia.org/wiki/History_of_agriculture_in_the_Indian_subcontinent
+: https://www.giftwonders.com/ancient-india/ancient-indian-agriculture/
+: https://www.britannica.com/topic/agriculture/The-Indian-subcontinent
+: https://www.britannica.com/topic/agriculture/Agriculture-in-ancient-Asia

@@ -1,0 +1,8 @@
+#### Purusārtha in Society in Ancient India
+
+- Purusārtha (Sanskrit: पुरुषार्थ) literally means "object (ive) of men" or "human endeavour".
+- It is a key concept in Hinduism, and refers to the four proper goals or aims of a human life. The four puruṣārthas are Dharma (righteousness, moral values), Artha (prosperity, economic values), Kama (pleasure, love, psychological values) and Moksha (liberation, spiritual values).
+- These are not only meant to set an ideal objective but also to convey the right means to achieve them. The four Purusharthas are interrelated and interdependent, and form a holistic framework for leading a balanced and fulfilling life. 
+- The concept of Purushartha is a fundamental principle of social ethics. It reflects the ancient Indian understanding of the human nature and the purpose of existence. It also provides a basis for the division of society into four classes (varnas) and four stages of life (ashramas). 
+- The concept of Purushartha is also closely linked to the concept of Karma, which means action and its consequences. According to Hinduism, every action has a moral and causal effect, and the quality of one's actions determines one's destiny. The pursuit of the four Purusharthas is influenced by one's Karma, and also shapes one's Karma in the present and future lives.
+- The concept of Purushartha has been discussed and elaborated by various schools of Hindu philosophy, such as Vedanta, Mimamsa, Nyaya, Yoga, etc. It has also been interpreted and applied by various thinkers, poets, saints, and reformers throughout the history of India. It remains a relevant and inspiring concept for the modern society as well.

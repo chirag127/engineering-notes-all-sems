@@ -1,0 +1,10 @@
+### Davisson and Germer Experiment
+
+- The Davisson and Germer experiment was a 1923-27 experiment by Clinton Davisson and Lester Germer at Western Electric (later Bell Labs), in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern.
+- The experiment confirmed the de Broglie hypothesis that matter has wave-like behavior and established the wave–particle duality hypothesis which was a fundamental step in quantum theory.
+- The experiment was based on the assumption that waves reflected from two distinct atomic levels of a nickel crystal will have a fixed phase difference and will interfere either constructively or destructively, producing a diffraction pattern .
+- The experiment consisted of a vacuum chamber with an electron gun that emitted a beam of electrons towards a nickel target. The target could be rotated to change the angle of incidence of the electrons. A Faraday cup was used to measure the intensity of the scattered electrons at different angles.
+- The experiment was initially performed to measure the size of nickel atoms, but the results were inconsistent and irregular due to oxidation of the nickel surface. After heating the target to remove the oxide layer, the experimenters observed a sharp peak in the intensity of the scattered electrons at a certain angle, which was unexpected.
+- The peak corresponded to the first-order maximum of a diffraction pattern, implying that the electrons were behaving like waves and were diffracted by the nickel atoms. The wavelength of the electrons was calculated using the Bragg's law and was found to be in agreement with the de Broglie relation.
+- The experiment was repeated with different accelerating voltages for the electron beam and the peak angle was found to vary inversely with the square root of the voltage, as predicted by the de Broglie relation.
+- The experiment was the first direct evidence of the wave nature of electrons and validated the de Broglie equation for the first time. It also supported the concept of matter waves, which was later developed by Erwin Schrödinger and Werner Heisenberg into the modern quantum mechanics .

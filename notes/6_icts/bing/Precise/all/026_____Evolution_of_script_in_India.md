@@ -1,0 +1,10 @@
+### Evolution of script in India
+
+- The evolution of writing in India after Brahmi is well understood and needs no recounting. But it may be noted that all the modern scripts of India, for Indo-Aryan as well Dravidian languages, as well as the scripts of Sri Lanka, Tibet, Southeast Asia, including the original scripts of Philippines and Indonesia, are derived from Brahmi .
+- Due to differences in cultures, regions’ Brahmi script was evolved into different types depending on the region .
+- Due to greater emphasis on quicker approach rather than use of monumental inscriptions led to emergence of cursive styles that formed India’s modern script .
+- Scripts in south India became rounded due to writing on palm leaves .
+- The evolution of Brahmi into so many scripts over time in India does however raise the question of what individuals and scribes thought about the changes upon becoming aware—and they were aware, as inscriptions in multiple different Indian scripts have been found together, like Kannada with Devanagari—of the fact that their contemporary writing systems were divergent in separate regions, and were also vastly different from the forms found in inscriptions and ancient documents .
+- India has a long history of writing. While India has been a literate culture for millennia, it has also greatly valued oral knowledge. The ancient Hindu scriptures, the Vedas, the oldest of which were composed around 1500 BCE, were transmitted orally for centuries before being written down .
+- The script is a written symbolisation of speech. Throughout the ages, the evolution of writing from the image of pictograms and then later on inscriptional images were inspired from calligraphic strokes. Most modern Indian scripts have developed from the Brahmi script over hundreds of years .
+- A language usually refers to the spoken language, a method of communication. A script refers to a collection of characters used to write one or more languages. A language is a method of communication .

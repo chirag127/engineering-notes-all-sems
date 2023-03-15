@@ -1,0 +1,7 @@
+### CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness of water is the measure of the concentration of calcium and magnesium ions in water. It is expressed in terms of equivalent calcium carbonate (CaCO3).
+- Alkalinity of water is the measure of the capacity of water to neutralize acids. It is expressed in terms of equivalent calcium carbonate (CaCO3) or milligrams per liter (mg/L) of bicarbonate (HCO3-), carbonate (CO3 2-) and hydroxide (OH-) ions in water.
+- Hardness and alkalinity of water are important parameters for water quality assessment, water treatment and industrial applications.
+- To measure the hardness of water, a standard method is the EDTA titration method. EDTA (ethylenediaminetetraacetic acid) is a chelating agent that forms a stable complex with calcium and magnesium ions. The end point of the titration is detected by using a metal indicator such as Eriochrome Black T (EBT) or Calmagite, which changes color from red to blue when all the hardness ions are complexed by EDTA.
+- To measure the alkalinity of water, a standard method is the phenolphthalein and methyl orange titration method. Phenolphthalein is an indicator that changes color from colorless to pink in the presence of hydroxide and carbonate ions. Methyl orange is an indicator that changes color from yellow to red in the presence of bicarbonate and carbonate ions. The end points of the titrations are detected by the color changes of the indicators. The total alkalinity is the sum of the phenolphthalein and methyl orange alkalinity.

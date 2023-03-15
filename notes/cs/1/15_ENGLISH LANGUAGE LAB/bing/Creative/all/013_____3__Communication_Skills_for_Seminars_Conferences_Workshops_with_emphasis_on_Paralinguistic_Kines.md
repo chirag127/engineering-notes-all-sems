@@ -1,0 +1,12 @@
+# 3. Communication Skills for Seminars/Conferences/Workshops with emphasis on Paralinguistic/Kinesics
+
+- Communication skills are essential for effective participation in seminars, conferences and workshops, where one has to present, discuss and interact with others on a specific topic or theme.
+- Paralinguistic and kinesic features are aspects of nonverbal communication that complement and enhance the verbal message, such as voice quality, pitch, volume, rate, pauses, facial expressions, eye contact, gestures, posture and movement.
+- Paralinguistic and kinesic features can convey various meanings and emotions, such as interest, enthusiasm, confidence, boredom, confusion, anger, surprise, etc. They can also signal the speaker's attitude, intention, relationship and status with the audience or other participants.
+- Paralinguistic and kinesic features can vary across cultures, contexts and situations, so one has to be aware of the norms and expectations of the target audience and adapt accordingly.
+- Some general tips for using paralinguistic and kinesic features effectively in seminars, conferences and workshops are:
+
+  - Use a clear, loud and natural voice that suits the topic and the audience. Avoid monotone, mumbling, shouting or whispering. Vary your pitch, volume and rate to emphasize key points and create interest. Use pauses strategically to signal transitions, create suspense or allow the audience to process the information.
+  - Use facial expressions that match your verbal message and show your emotions and reactions. Smile when appropriate and maintain eye contact with the audience or other participants. Avoid frowning, grimacing, rolling your eyes or looking away. 
+  - Use gestures that support and illustrate your verbal message and show your involvement and enthusiasm. Avoid excessive, repetitive or distracting gestures that may confuse or annoy the audience. Use open and relaxed gestures that show confidence and friendliness. Avoid closed or tense gestures that show nervousness or hostility.
+  - Use posture and movement that show your confidence and professionalism. Stand or sit straight and balanced, and avoid slouching, leaning or fidgeting. Move around the space when appropriate and avoid staying in one spot or moving too much. Use the space to create rapport and engagement with the audience or other participants.

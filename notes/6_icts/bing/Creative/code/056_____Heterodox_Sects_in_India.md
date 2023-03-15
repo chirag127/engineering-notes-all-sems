@@ -1,0 +1,8 @@
+# Heterodox Sects in India
+
+- Heterodox sects are those that do not accept the authority of the Vedas, the sacred scriptures of Hinduism, and challenge the orthodox Brahmanical traditions.
+- Heterodox sects emerged in the 6th century BCE, during a period of social, economic and political changes in India, such as urbanization, trade, rise of new classes and kingdoms, and dissatisfaction with the ritualistic and hierarchical Vedic religion.
+- Heterodox sects were part of the Sramana movement, which advocated renunciation, asceticism, meditation and ethical conduct as the means to attain liberation from the cycle of rebirth.
+- Heterodox sects included Buddhism, Jainism, Ajivika, Carvaka and others. Each sect had its own founder, teachings, doctrines, practices and followers.
+- Heterodox sects differed from each other on various aspects, such as the nature of reality, the existence of soul, the role of karma, the possibility of nirvana, the validity of knowledge, the value of ethics, the attitude towards violence, the status of women, the relation with other religions, and the social and political implications of their views.
+- Heterodox sects influenced and interacted with each other, as well as with the orthodox schools of Hinduism, such as Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta. They also contributed to the development of Indian philosophy, literature, art, culture and society.

@@ -1,0 +1,14 @@
+# Martial Arts Traditions of India
+
+Martial arts are systems of codified practices and traditions of training for combat. India has a rich and diverse heritage of martial arts that can be traced back to ancient times. Some of the most famous martial arts of India are:
+
+- **Kalaripayattu**: Often known as the 'Mother Of All Martial Arts', this 3000-year old art form originating from Kerala, draws inspiration from the raw power, swift movements and sinuous strength of majestic animals – the lion, tiger, elephant, wild boar, snake and crocodile. It involves strikes, kicks, grappling, weaponry and healing methods.
+- **Silambam**: A weapon-based martial art from Tamil Nadu, Silambam uses a bamboo staff as the primary weapon, along with other secondary weapons such as swords, daggers and spears. It is known for its intricate footwork and agile movements.
+- **Thang-Ta**: The ancient Manipuri martial art, also known as Huyen Lallong, is Thang-Ta. Swords and spears are used in Manipuri martial arts, a powerful yet gracefully complex technique. It also has an unarmed combat component called Sarit Sarak, which involves locks, throws and pressure points.
+- **Gatka**: A Sikh martial art that originated in Punjab, Gatka is a style of stick fighting that was developed to defend against the Mughal invaders. It uses wooden sticks called soti to simulate swords, along with shields and other weapons. It also incorporates acrobatic moves and spiritual chants.
+- **Lathi**: Lathi is India's oldest armed martial art. It is also regarded as one of the world's earliest martial arts weapons. It involves the use of a bamboo staff, usually 6 to 8 feet long, to strike, block and thrust. It is practiced mainly in rural areas of northern India, especially in Bihar and Uttar Pradesh.
+- **Kushti**: Kushti, or Indian wrestling, is a form of grappling that has been practiced in India for centuries. It is based on the principles of balance, strength, stamina and agility. It is performed on a circular earthen pit, called an akhara, where the wrestlers wear only a loincloth and apply oil or mud to their bodies.
+- **Thoda**: Thoda is a traditional martial art of Himachal Pradesh that is inspired by the epic Mahabharata. It involves two teams of archers who shoot blunt arrows at each other's legs, while avoiding the arrows of the opponents. It is a test of skill, accuracy and courage.
+- **Mardani Khel**: Mardani Khel is a weapon-based martial art from Maharashtra that was popularized by the Maratha warriors. It uses a variety of weapons, such as swords, daggers, axes, spears and shields, as well as unarmed techniques. It is known for its fierce and aggressive style.
+
+These are some of the martial arts traditions of India that reflect the diversity and richness of the Indian culture and history. They are not only forms of self-defense, but also ways of physical, mental and spiritual development.

@@ -1,0 +1,14 @@
+### Martial Arts Traditions of India
+
+- Martial arts are codified systems and traditions of combat practices, which are practised for a variety of reasons – self-defence, competition, physical health and fitness, entertainment, as well as mental, physical, and spiritual development.
+- India has an ancient tradition in diverse martial arts, dating back to the Vedic period and influenced by the geography, culture, and history of the subcontinent.
+- Some of the most famous martial arts in India are:
+
+  - **Kalaripayattu**: Often known as the ‘Mother Of All Martial Arts’, this 3000-year old art form originating from Kerala, draws inspiration from the raw power, swift movements and sinuous strength of majestic animals – the lion, tiger, elephant, wild boar, snake and crocodile. It involves strikes, kicks, grappling, weaponry, and healing methods.
+  - **Silambam**: A traditional Tamil martial art that uses a long bamboo staff as the main weapon, along with other weapons such as swords, daggers, and spears. It is known for its fluid and circular movements, and its emphasis on footwork, agility, and timing.
+  - **Thang-Ta**: The ancient Manipuri martial art, also known as Huyen Lallong, that uses swords and spears as the main weapons, along with shields, axes, and daggers. It is a powerful yet gracefully complex technique that combines offensive and defensive maneuvers, and also incorporates ritual dances and healing practices.
+  - **Gatka**: A Sikh martial art that originated in Punjab and was used by the Khalsa army in the 18th and 19th centuries. It involves the use of various weapons, such as swords, daggers, sticks, and shields, as well as unarmed combat. It is based on the principle of one spirit in two bodies, and requires coordination, speed, and accuracy.
+  - **Kushti**: One of the most popular martial arts in India, also known as Pehlwani or traditional wrestling. It started off during the Mughal times where Malla Yuddha, a local sport was combined with a Persian sport named Varzesh-e-Bastani. It involves grappling, throws, locks, and pins, and is practised on a clay or dirt pit called akhada.
+  - **Lathi**: India’s oldest armed martial art, also regarded as one of the world’s earliest martial arts weapons. It involves the use of a bamboo or iron staff, ranging from 4 to 12 feet in length, as well as shields, swords, and axes. It is mainly practised in rural areas of northern and eastern India, and is used for self-defence, law enforcement, and social control.
+
+- These are some of the examples of the rich and diverse martial arts traditions of India, which reflect the cultural and historical heritage of the country. There are many more martial arts in India, such as Mardani Khel, Sqay, Thoda, Inbuan, and Niyuddha, that have their own unique features and significance.

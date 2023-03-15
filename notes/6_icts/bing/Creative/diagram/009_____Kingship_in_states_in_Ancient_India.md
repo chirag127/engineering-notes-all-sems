@@ -1,0 +1,25 @@
+### Kingship in states in Ancient India
+
+- Kingship in ancient India was a sovereignty over a territory by a King who functioned as its protector, a role which involved both secular and religious power.
+- Ancient Indians believed that the Kingship arose out of military requirement. A king must be a capable general whose leadership is recognized by all.
+- The Vedic literature has some speculations about the origin of kingship. Some of the theories are:
+  - Divine Origin Theory: This theory of origin of kingship as well as the state was not widely acclaimed in the ancient Indian polity. The king, according to this theory, was a subordinate to law, which was made by the society and not him.
+  - Social Contract Theory: This theory of origin of kingship as well as the state was more popular in the ancient Indian polity. The king, according to this theory, was a representative of the people who had voluntarily surrendered some of their rights to him for the sake of security and order.
+  - Kshatriya Theory: This theory of origin of kingship as well as the state was based on the varna system of the Hindu society. The king, according to this theory, was a member of the kshatriya or warrior class who had the duty and privilege to rule over the other classes.
+- The ideology and symbolism of kingship have played an important role in Hinduism throughout its history, an influence that continues into the present day. The two great epic texts, the Mahābhārata and Rāmāyaṇa, are narratives of kingship, and the tensions and ambiguities inherent to the role of the king are fundamental to their plots and themes.
+- The king in ancient India was expected to perform various duties and responsibilities, such as:
+  - Upholding the dharma or the cosmic and social order
+  - Protecting the people and the land from external and internal enemies
+  - Administering justice and enforcing law
+  - Promoting the welfare and prosperity of the subjects
+  - Performing sacrifices and rituals to please the gods and ancestors
+  - Patronizing the arts, sciences, and learning
+  - Maintaining a large and efficient army and bureaucracy
+  - Expanding the territory and prestige of the state
+- The king in ancient India was also subject to various checks and balances, such as:
+  - The council of ministers or mantri-parishad who advised and assisted the king
+  - The assembly of elders or sabha who represented the nobility and the brahmins
+  - The assembly of people or samiti who represented the commoners and the lower classes
+  - The law or dharma-shastra which prescribed the duties and rights of the king and the subjects
+  - The public opinion or janapada which expressed the approval or disapproval of the king's actions
+  - The moral conscience or antar-atma which guided the king's decisions and actions

@@ -1,0 +1,10 @@
+#### Challenges faced by Women in Society in Ancient India
+
+- Women in ancient India had different roles and rights depending on the time period, the region, the religion, and the caste they belonged to.
+- In general, women's rights gradually declined as patriarchy became more dominant and rigid in ancient India.
+- Some of the challenges faced by women in society in ancient India were:
+
+  - Lack of autonomy, mobility, and social freedom. Women were expected to be dependent on their fathers, husbands, or sons for their livelihood, protection, and decision-making. They were confined to the domestic sphere and had limited access to education, public life, and legal rights.
+  - Child marriage and widowhood. Women were often married at a very young age, sometimes even before puberty, to men who were much older than them. They had no say in choosing their spouses and had to obey their husbands in all matters. If their husbands died, they faced social stigma, isolation, and harassment. Some widows were forced to commit sati, the practice of self-immolation on the funeral pyre of their husbands.
+  - Exploitation and discrimination. Women were often subjected to violence, abuse, and harassment by their husbands, in-laws, or other men in society. They had no recourse to justice or protection from the law. They were also discriminated against in terms of inheritance, property, and religious rights. Some women were forced into prostitution or devadasi system, where they had to serve as temple dancers and concubines for the priests and nobles .
+  - Low status and dignity. Women were considered inferior to men in terms of intellect, morality, and spirituality. They were seen as sources of temptation, impurity, and evil. They were denied the opportunity to study the Vedas, the sacred scriptures of Hinduism, and to perform rituals and sacrifices. They were also subjected to various restrictions and taboos regarding their dress, diet, and behavior .

@@ -1,0 +1,21 @@
+## Online C Compiler
+
+- An online C compiler is a web-based tool that allows users to write, compile, and run C programs without installing any software on their devices.
+- Online C compilers are useful for learning the basics of C programming, testing small snippets of code, or experimenting with different features of the language.
+- Some of the advantages of using an online C compiler are:
+  - It is accessible from any device with an internet connection and a web browser.
+  - It does not require any installation or configuration of software or libraries.
+  - It provides immediate feedback and error messages for the code.
+  - It often supports multiple versions of C and different compiler options.
+  - It may offer additional features such as syntax highlighting, code formatting, code sharing, debugging, etc.
+- Some of the disadvantages of using an online C compiler are:
+  - It may have limitations on the size, complexity, or execution time of the code.
+  - It may not support all the features or libraries of the C language or the standard C library.
+  - It may not be secure or reliable, as the code and the output may be stored or accessed by third parties.
+  - It may not be suitable for developing large or complex applications that require external files, user input, or graphical output.
+- Some of the examples of online C compilers are:
+  - https://www.programiz.com/c-programming/online-compiler/
+  - https://www.onlinegdb.com/online_c_compiler
+  - https://www.tutorialspoint.com/compile_c_online.php
+  - https://replit.com/languages/c
+  - https://www.jdoodle.com/c-online-compiler/

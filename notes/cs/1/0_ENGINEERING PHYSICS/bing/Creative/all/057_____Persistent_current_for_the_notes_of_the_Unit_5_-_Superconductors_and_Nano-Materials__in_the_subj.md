@@ -1,0 +1,9 @@
+# Persistent Current in Superconductors
+
+- Persistent current is the electric current that flows indefinitely in a closed loop of superconducting material without any external power source.
+- Persistent current is possible in superconductors because they have zero resistance and no energy dissipation  .
+- Persistent current can be induced in a superconducting ring by placing it in a magnetic field above its critical temperature, then cooling it below its critical temperature, and then removing the magnetic field . This is due to the self-inductance of the ring and the Meissner effect that expels the magnetic flux from the superconductor.
+- Persistent current can also be induced in a superconducting ring by connecting it to a battery and then disconnecting the battery after the ring reaches its critical temperature. The current will continue to flow in the ring as long as the temperature is below the critical temperature.
+- Persistent current can have different values depending on the geometry and the boundary conditions of the superconducting loop. For example, a superconducting ring with a weak link or a junction can have a different persistent current than a uniform ring.
+- Persistent current can be measured by the magnetic flux it generates around the superconducting loop. The magnetic flux is quantized in units of the flux quantum, which is given by h/2e, where h is the Planck constant and e is the elementary charge.
+- Persistent current has many applications in the field of superconductivity, such as superconducting magnets, superconducting quantum interference devices (SQUIDs), and quantum computing  .

@@ -1,0 +1,10 @@
+### Heterodox Sects in India
+
+- Heterodox sects are those that do not accept the authority of the Vedas, the sacred scriptures of Hinduism, and challenge the orthodox Brahmanical traditions.
+- Heterodox sects emerged in the 6th century BCE as a result of social, economic, political and religious changes in India, such as urbanization, trade, rise of new classes, and dissatisfaction with the ritualistic and hierarchical Vedic religion.
+- Heterodox sects include the following:
+
+  - Jainism: Founded by Mahavira, the 24th Tirthankara, Jainism teaches the doctrine of ahimsa (non-violence), anekantavada (many-sidedness of truth), and aparigraha (non-attachment). Jainism rejects the idea of a creator God and believes in the cycle of rebirth and karma. Jainism has two main sects: Digambara (sky-clad) and Svetambara (white-clad).
+  - Buddhism: Founded by Siddhartha Gautama, the Buddha, Buddhism teaches the Four Noble Truths, the Eightfold Path, and the concept of nirvana (liberation from suffering). Buddhism rejects the authority of the Vedas, the caste system, and the ritual sacrifices. Buddhism has many branches, such as Theravada, Mahayana, and Vajrayana.
+  - Ajivika: Founded by Makkhali Gosala, Ajivika is a materialist and fatalist school of thought that denies the existence of free will, karma, and rebirth. Ajivika believes that everything is predetermined by cosmic forces called niyati (destiny) and svabhava (nature). Ajivika is considered to be extinct as a sect.
+  - Carvaka: Also known as Lokayata, Carvaka is a radical materialist and atheist school of thought that rejects the existence of anything beyond the four elements (earth, water, fire, and air). Carvaka denies the validity of inference, testimony, and revelation as sources of knowledge and advocates sensual pleasure as the only goal of life. Carvaka is also considered to be extinct as a sect.

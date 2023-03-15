@@ -1,0 +1,18 @@
+# 1. Group Discussion: Practical based on Accurate and Current Grammatical Patterns.
+
+- A group discussion is a type of oral communication activity where a small number of participants exchange their views on a given topic or issue.
+- The purpose of a group discussion is to enhance the participants' critical thinking, listening, speaking, and interpersonal skills, as well as to explore different perspectives and opinions on the topic or issue.
+- A group discussion can be formal or informal, depending on the context and the objective of the activity. A formal group discussion is usually moderated by a leader or a facilitator, who introduces the topic, sets the rules and the time limit, and guides the discussion. An informal group discussion is more spontaneous and flexible, where the participants can freely initiate and change the topic, and there is no fixed role for the leader or the facilitator.
+- A group discussion can be evaluated based on various criteria, such as the relevance, clarity, coherence, and logic of the arguments, the use of evidence and examples, the respect for other participants' views, the ability to ask and answer questions, the participation and contribution of each member, and the overall quality and outcome of the discussion.
+- One of the most important criteria for a group discussion is the use of accurate and current grammatical patterns. Grammatical patterns are the structures and rules of a language that govern how words and phrases are arranged and combined to form sentences. Accurate grammatical patterns are those that follow the standard and accepted norms of the language, while current grammatical patterns are those that reflect the latest and most common usage of the language.
+- The use of accurate and current grammatical patterns in a group discussion is essential for the following reasons:
+  - It enhances the clarity and effectiveness of the communication, by avoiding ambiguity, confusion, and misunderstanding.
+  - It demonstrates the proficiency and competence of the speaker, by showing their knowledge and mastery of the language.
+  - It creates a positive impression and a rapport with the audience, by showing their respect and courtesy for the language and the listeners.
+  - It facilitates the comprehension and the analysis of the topic or issue, by using appropriate and precise vocabulary and expressions.
+  - It supports the validity and the persuasiveness of the arguments, by using correct and logical syntax and punctuation.
+- To use accurate and current grammatical patterns in a group discussion, the participants should do the following:
+  - Prepare and practice the topic or issue beforehand, by researching the relevant information, facts, and opinions, and by rehearsing the possible arguments and counterarguments.
+  - Review and revise the grammatical rules and structures of the language, by consulting reliable and updated sources, such as dictionaries, grammar books, and online resources.
+  - Monitor and correct their own and others' grammatical errors, by paying attention to the feedback and the cues from the listeners, and by politely pointing out and rectifying the mistakes.
+  - Adapt and adjust their grammatical patterns to the context and the audience, by considering the purpose, the tone, the formality, and the expectations of the discussion, and by using appropriate and suitable language styles and registers.

@@ -1,0 +1,12 @@
+##### 7. To study the polarization of light using He-Ne laser light.
+
+- Polarization of light is the phenomenon of restricting the vibrations of the electric field vector of a light wave to a certain plane or direction.
+- A polarizer is a device that can produce polarized light from unpolarized light by selectively transmitting or reflecting certain orientations of the electric field vector.
+- A He-Ne laser is a type of gas laser that uses a mixture of helium and neon gases as the active medium and produces a coherent beam of light at a wavelength of 632.8 nm in the red part of the visible spectrum.
+- A He-Ne laser can be used to study the polarization of light by passing the laser beam through different types of polarizers and observing the changes in the intensity and orientation of the transmitted or reflected light.
+- Some of the polarizers that can be used are linear polarizers, circular polarizers, quarter-wave plates, half-wave plates, and polarizing beam splitters.
+- A linear polarizer only allows the light with a certain linear polarization to pass through, while blocking the light with the orthogonal linear polarization. The angle of the linear polarizer determines the orientation of the transmitted light.
+- A circular polarizer converts linearly polarized light into circularly polarized light or vice versa, depending on the direction of propagation. Circularly polarized light is composed of two linearly polarized components that are 90 degrees out of phase and have equal amplitudes.
+- A quarter-wave plate is a birefringent material that introduces a phase difference of 90 degrees between the two orthogonal components of linearly polarized light. Depending on the orientation of the quarter-wave plate, it can convert linearly polarized light into circularly polarized light or elliptically polarized light, or change the direction of linear polarization.
+- A half-wave plate is a birefringent material that introduces a phase difference of 180 degrees between the two orthogonal components of linearly polarized light. Depending on the orientation of the half-wave plate, it can reverse the direction of linear polarization or rotate the plane of polarization by a certain angle.
+- A polarizing beam splitter is a device that splits a beam of light into two beams with orthogonal linear polarizations. It can be used to measure the degree of polarization of a light source or to combine two polarized beams into one.

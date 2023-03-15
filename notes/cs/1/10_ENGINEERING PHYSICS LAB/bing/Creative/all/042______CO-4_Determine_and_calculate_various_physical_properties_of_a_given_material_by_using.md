@@ -1,0 +1,15 @@
+#### CO-4 Determine and calculate various physical properties of a given material by using
+
+Physical properties are the traits a material has before it is used, such as colour, hardness, density, etc. They can be observed or measured without changing the composition of the material . Physical properties are important for selecting and designing materials for different applications and purposes.
+
+Some of the common physical properties of materials are:
+
+- Density: The mass per unit volume of a material. It is a measure of how compact or heavy a material is. Density can be calculated by dividing the mass by the volume of the material .
+- Specific gravity: The ratio of the density of a material to the density of a reference substance, usually water or air. It is a measure of how heavy a material is compared to the reference substance. Specific gravity can be calculated by dividing the density of the material by the density of the reference substance .
+- State: The physical form of a material, such as solid, liquid or gas. It depends on the temperature and pressure of the material. State can be observed by looking at the shape and volume of the material .
+- Melting point: The temperature at which a solid material changes to a liquid state. It is a measure of how much heat energy is required to break the bonds between the atoms or molecules of the material. Melting point can be measured by heating the material until it melts and recording the temperature .
+- Boiling point: The temperature at which a liquid material changes to a gas state. It is a measure of how much heat energy is required to overcome the intermolecular forces of the material. Boiling point can be measured by heating the material until it boils and recording the temperature .
+- Thermal conductivity: The ability of a material to transfer heat through itself. It is a measure of how fast or slow a material can conduct heat. Thermal conductivity can be calculated by dividing the heat flux (the amount of heat transferred per unit area per unit time) by the temperature gradient (the change in temperature per unit length) of the material .
+- Electrical conductivity: The ability of a material to allow electric current to flow through itself. It is a measure of how easily or resistively a material can conduct electricity. Electrical conductivity can be calculated by dividing the electric current by the potential difference (the voltage) across the material .
+- Magnetic properties: The ability of a material to be attracted or repelled by a magnet, or to become a magnet itself. It is a measure of how the material interacts with magnetic fields. Magnetic properties can be observed by placing the material near a magnet and noting the direction and strength of the force .
+- Optical properties: The ability of a material to reflect, transmit or absorb light. It is a measure of how the material interacts with electromagnetic radiation. Optical properties can be observed by shining light on the material and noting the colour, brightness and transparency of the material .

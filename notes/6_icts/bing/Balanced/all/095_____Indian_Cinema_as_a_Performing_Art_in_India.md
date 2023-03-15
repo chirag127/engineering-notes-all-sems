@@ -1,0 +1,11 @@
+# Indian Cinema as a Performing Art in India
+
+- Indian cinema is a form of performing art that combines storytelling, acting, music, dance, and visual effects to create a powerful medium of expression and entertainment.
+- Indian cinema has a long and rich history that dates back to the silent era of the early 20th century, when pioneers like Dadasaheb Phalke and Raja Harishchandra made the first feature films in India.
+- Indian cinema has been influenced by various cultural and artistic traditions, such as the classical Indian theatre, the folk theatre, the Indian epics, the Sanskrit drama, the Parsi theatre, and the Western theatre .
+- Indian cinema has also been shaped by the social and political changes that occurred in India, such as the colonial rule, the independence movement, the partition, the nation-building, the emergency, the liberalization, and the globalization.
+- Indian cinema has produced many genres and styles, such as the mythological films, the historical films, the social films, the musical films, the comedy films, the action films, the thriller films, the horror films, the romance films, the parallel cinema, the art cinema, the regional cinema, and the new wave cinema .
+- Indian cinema has also given birth to many stars and legends, such as Prithviraj Kapoor, Devika Rani, Ashok Kumar, Dilip Kumar, Raj Kapoor, Nargis, Guru Dutt, Madhubala, Meena Kumari, Rajesh Khanna, Amitabh Bachchan, Sharmila Tagore, Hema Malini, Rajinikanth, Kamal Haasan, Sridevi, Aamir Khan, Shah Rukh Khan, Salman Khan, Madhuri Dixit, Kajol, Aishwarya Rai, Irrfan Khan, Priyanka Chopra, and many more .
+- Indian cinema has also contributed to the development of other performing arts, such as music, dance, theatre, and television, by providing a platform for many artists, composers, singers, dancers, directors, writers, and producers .
+- Indian cinema has also been recognized and appreciated by the global audience and critics, by winning many awards and accolades, such as the Oscars, the Cannes, the Berlin, the Venice, the BAFTA, the Golden Globe, and the National Film Awards .
+- Indian cinema is a performing art that reflects the diversity, the complexity, the beauty, and the dynamism of India and its people. It is a source of pride, joy, and inspiration for millions of Indians and lovers of cinema around the world.

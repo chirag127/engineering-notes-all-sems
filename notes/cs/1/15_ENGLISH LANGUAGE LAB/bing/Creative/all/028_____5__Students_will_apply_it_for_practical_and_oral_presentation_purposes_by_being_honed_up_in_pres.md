@@ -1,0 +1,27 @@
+# 5. Students will apply it for practical and oral presentation purposes by being honed up in presentation skills and voice-dynamics. They will apply techniques for developing interpersonal communication skills and positive attitude leading to their professional competence.
+
+- This topic is about how students can use their knowledge and skills in real-life situations, such as giving presentations, interacting with others, and demonstrating their abilities.
+- To achieve this, students need to improve their presentation skills and voice-dynamics, which are the ways they use their voice, body language, and visual aids to communicate effectively and persuasively.
+- Presentation skills and voice-dynamics include:
+  - Planning and preparing the content and structure of the presentation, considering the purpose, audience, and context.
+  - Choosing and using appropriate language, tone, and style, avoiding jargon, slang, and filler words.
+  - Delivering the presentation with confidence, clarity, and enthusiasm, using eye contact, gestures, facial expressions, and pauses.
+  - Using visual aids, such as slides, charts, graphs, and images, to support and enhance the message, not to distract or overwhelm the audience.
+  - Handling questions and feedback from the audience, listening actively, responding politely, and acknowledging different opinions.
+- Students also need to develop their interpersonal communication skills and positive attitude, which are the ways they relate to and interact with others in a respectful and constructive manner.
+- Interpersonal communication skills and positive attitude include:
+  - Being aware of and adapting to different communication styles, preferences, and cultures, such as formal and informal, direct and indirect, verbal and non-verbal.
+  - Building rapport and trust with others, using appropriate greetings, introductions, and small talk.
+  - Expressing and understanding emotions, feelings, and opinions, using empathetic and assertive language.
+  - Giving and receiving feedback, compliments, and criticism, using constructive and positive words.
+  - Resolving conflicts and disagreements, using negotiation and compromise skills.
+  - Showing interest and curiosity, asking open-ended and follow-up questions.
+  - Being respectful and courteous, using polite and respectful words and gestures.
+- By applying these techniques, students can enhance their professional competence, which is the ability to perform well and achieve their goals in their chosen field or career.
+- Professional competence involves:
+  - Having the relevant knowledge and skills for the job or task, and keeping them updated and relevant.
+  - Demonstrating initiative, creativity, and problem-solving skills, and being able to adapt to changing situations and challenges.
+  - Working effectively and collaboratively with others, and being able to lead and follow as needed.
+  - Having a positive and professional attitude, and being able to cope with stress and setbacks.
+  - Communicating clearly and persuasively, and being able to influence and persuade others.
+  - Having a sense of ethics and responsibility, and being able to act with integrity and honesty.

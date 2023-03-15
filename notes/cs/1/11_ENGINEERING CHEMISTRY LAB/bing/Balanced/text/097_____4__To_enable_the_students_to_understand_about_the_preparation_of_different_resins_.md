@@ -1,0 +1,13 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually hard, transparent or translucent, and brittle solids or semi-solids.
+- Resins are widely used in various industries such as paints, adhesives, plastics, rubber, and pharmaceuticals.
+- Resins can be classified into two main types: thermosetting resins and thermoplastic resins.
+- Thermosetting resins are resins that undergo irreversible chemical reactions when heated, forming cross-linked networks that give them high strength and stability. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, and polyester resins.
+- Thermoplastic resins are resins that soften when heated and harden when cooled, without undergoing any chemical change. They can be reshaped by heating and cooling repeatedly. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, and polyvinyl chloride resins.
+- The preparation of different resins involves the following steps:
+  - Selection of raw materials: The raw materials for resin synthesis are usually monomers or prepolymers that can react with each other to form larger molecules. The choice of raw materials depends on the desired properties and applications of the resin.
+  - Polymerization: The polymerization is the process of linking the monomers or prepolymers together to form long chains or networks of molecules. The polymerization can be initiated by heat, light, catalysts, or other agents. The polymerization can be carried out in bulk, in solution, in suspension, or in emulsion.
+  - Purification: The purification is the process of removing the impurities and unreacted materials from the resin. The purification methods include filtration, distillation, extraction, crystallization, and precipitation.
+  - Modification: The modification is the process of altering the properties and performance of the resin by adding additives, fillers, or other agents. The modification can improve the resin's stability, compatibility, flexibility, hardness, color, gloss, or other characteristics.
+  - Formulation: The formulation is the process of mixing the resin with other ingredients such as solvents, pigments, stabilizers, or curing agents to prepare the final product. The formulation can affect the resin's viscosity, drying time, adhesion, durability, or other properties.

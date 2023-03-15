@@ -1,0 +1,8 @@
+### Buddhist Literature in Pali, Prakrit and Sanskrit
+
+- Buddhist literature is the collection of writings that preserve the teachings and traditions of Buddhism.
+- Pali, Prakrit and Sanskrit are three ancient languages that were used to compose Buddhist texts in different regions and periods of history.
+- Pali is a Middle Indo-Aryan language that is closely related to the language spoken by the Buddha in the 6th century BCE. It is the canonical language of Theravada Buddhism, the oldest surviving branch of Buddhism. Pali literature includes the Tipitaka (the three baskets of scriptures), the commentaries, the sub-commentaries, and the chronicles of Sri Lanka and Southeast Asia .
+- Prakrit is a generic term for any Middle Indo-Aryan language that is derived from Sanskrit. There are many varieties of Prakrit, such as Sauraseni, Maharastri, Magadhi and Gandhari, that reflect the regional and temporal diversity of India. Prakrit literature includes the canonical texts of Mahayana Buddhism, the non-canonical texts of Hinayana Buddhism, the Jaina scriptures, and the secular works of poetry, drama, and prose  .
+- Sanskrit is a classical Indo-Aryan language that is the primary language of Hinduism and a major language of Buddhism and Jainism. Sanskrit literature includes the Mahayana sutras, the Tantric texts, the philosophical treatises, the biographies of the Buddha and the Buddhist saints, the poetic works, and the historical records .
+- Buddhist literature in Pali, Prakrit and Sanskrit reflects the rich and diverse cultural, religious, and intellectual heritage of India and its neighboring regions. It also provides valuable insights into the development and transformation of Buddhist thought and practice over time and space.

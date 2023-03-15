@@ -1,0 +1,7 @@
+### Current developments in Arts and Cultural in India
+
+1. India has a significant cultural capital that includes 37 world heritage sites, two thriving film industries, and a diversely vibrant cultural heritage. Many tier 1 and tier 2 cities have been actively working towards creating a unique cultural identity for themselves.
+2. The Kiran Nadar Museum of Art is developing a new institution, the Museum of Art and Photography will open in Bangalore, the Gujral Foundation is commissioning a public pavilion series in Delhi, and the Kochi Biennale will have its fifth edition this December.
+3. Three cities in India have recently joined the UNESCO Global Network of Learning Cities. These include two cities Thrissur and Nilambur in Kerala and Warangal in Telangana.
+4. The Ministry of Culture, Government of India provides financial assistance for cultural activities in performing arts, building grants including studio theatres, allied cultural activities, and Tagore Cultural Complexes. It also has a scheme of scholarship and fellowship for the promotion of art and culture.
+5. India has one of the world’s largest collections of songs, music, dance, theatre, folk traditions, performing arts, rites and rituals, paintings, and writings that are known as the ‘Intangible Cultural Heritage’ (ICH) of humanity.

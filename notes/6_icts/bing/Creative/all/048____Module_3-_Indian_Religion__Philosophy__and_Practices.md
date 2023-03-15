@@ -1,0 +1,23 @@
+# Module 3- Indian Religion, Philosophy, and Practices
+
+- India is a diverse and pluralistic country with many religions, philosophies, and practices that have influenced its culture and history.
+- The majority of Indians practice Hinduism, which is a major religious and cultural tradition of South Asia, which developed from Vedic religion.
+- Hinduism is not a monolithic religion, but a complex and diverse set of beliefs, rituals, sects, schools, and movements that share some common features, such as the concepts of karma, dharma, reincarnation, and moksha (liberation).
+- Hinduism has many sacred texts, such as the Vedas, the Upanishads, the Bhagavad Gita, the Ramayana, and the Mahabharata, which contain various teachings, stories, and philosophies.
+- Hinduism also has many gods and goddesses, who are worshipped in different ways, such as through idols, temples, festivals, and personal devotion. Some of the most popular deities are Vishnu, Shiva, Ganesha, Lakshmi, and Durga.
+- Hinduism has six orthodox schools of philosophy, which are based on the Vedas and seek to understand the nature of reality, knowledge, and ethics. They are Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta.
+- Hinduism also has many heterodox schools of philosophy, which reject the authority of the Vedas and propose alternative views on reality, knowledge, and ethics. They include Buddhism, Jainism, Charvaka, and Ajivika.
+- Buddhism is a religion and philosophy that originated in India in the 6th century BCE, based on the teachings of Siddhartha Gautama, who is known as the Buddha (the awakened one).
+- Buddhism teaches the Four Noble Truths, which are: the truth of suffering, the truth of the cause of suffering, the truth of the end of suffering, and the truth of the path that leads to the end of suffering.
+- Buddhism also teaches the Noble Eightfold Path, which is a guide to ethical and mental development that leads to nirvana (the cessation of suffering and the cycle of rebirth).
+- Buddhism has three main branches, which are Theravada, Mahayana, and Vajrayana, each with different scriptures, practices, and doctrines.
+- Jainism is a religion and philosophy that originated in India in the 6th century BCE, based on the teachings of Mahavira, who is regarded as the last of the 24 Tirthankaras (ford-makers or teachers).
+- Jainism teaches the principle of ahimsa (non-violence), which is the basis of its ethics and practices. Jains avoid harming any living being, including animals, plants, and microorganisms, and follow a strict vegetarian diet.
+- Jainism also teaches the concept of anekantavada (many-sidedness), which is a form of epistemology that recognizes the multiplicity and relativity of perspectives and truths.
+- Jainism has two main sects, which are Digambara and Svetambara, each with different beliefs, practices, and traditions.
+- Sikhism is a religion and philosophy that originated in the Punjab region of India in the 15th century, based on the teachings of Guru Nanak and his nine successors, who are known as the Gurus.
+- Sikhism teaches the concept of one God, who is the creator, sustainer, and destroyer of everything. Sikhs worship God by reciting and singing his name, which is revealed in the Guru Granth Sahib, the sacred scripture of Sikhism.
+- Sikhism also teaches the concept of human equality, which is the basis of its social and moral values. Sikhs reject caste, gender, and religious discrimination, and uphold the ideals of justice, service, and charity.
+- Sikhism has five symbols, which are the kesh (uncut hair), the kangha (comb), the kara (steel bracelet), the kachera (cotton shorts), and the kirpan (sword), which represent the identity and commitment of a Sikh.
+- Islam is a religion and philosophy that originated in Arabia in the 7th century, based on the teachings of Muhammad, who is regarded as the last and final prophet of God.
+- Islam teaches the concept of tawhid (monotheism), which is the belief in the oneness and uniqueness of God, who is the creator, sustainer, and judge of everything. Muslims worship God by following his commands, which are revealed in

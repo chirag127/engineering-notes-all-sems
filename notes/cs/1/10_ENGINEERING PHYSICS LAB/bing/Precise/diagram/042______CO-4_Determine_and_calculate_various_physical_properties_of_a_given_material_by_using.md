@@ -1,0 +1,12 @@
+#### CO-4 Determine and calculate various physical properties of a given material by using
+
+1. **Density**: The density of a material is defined as its mass per unit volume. It can be calculated by dividing the mass of the material by its volume.
+2. **Elasticity**: Elasticity is the ability of a material to return to its original shape after being deformed. The modulus of elasticity, also known as Young's modulus, is a measure of the stiffness of a material and can be calculated by dividing the stress by the strain.
+3. **Thermal conductivity**: Thermal conductivity is a measure of a material's ability to conduct heat. It can be calculated by dividing the heat flow rate by the temperature gradient.
+4. **Electrical conductivity**: Electrical conductivity is a measure of a material's ability to conduct electricity. It can be calculated by dividing the current by the electric field.
+5. **Hardness**: Hardness is a measure of a material's resistance to deformation. There are several methods to measure the hardness of a material, including the Brinell, Rockwell, and Vickers hardness tests.
+6. **Tensile strength**: Tensile strength is the maximum stress that a material can withstand while being stretched or pulled before breaking. It can be calculated by dividing the maximum load by the cross-sectional area of the material.
+7. **Compressive strength**: Compressive strength is the maximum stress that a material can withstand while being compressed before breaking. It can be calculated by dividing the maximum load by the cross-sectional area of the material.
+8. **Shear strength**: Shear strength is the maximum stress that a material can withstand while being sheared before breaking. It can be calculated by dividing the maximum load by the cross-sectional area of the material.
+9. **Fatigue strength**: Fatigue strength is the maximum stress that a material can withstand for a given number of cycles before breaking. It is typically determined through fatigue testing.
+10. **Creep strength**: Creep strength is the maximum stress that a material can withstand for a given time period at a given temperature before undergoing significant deformation. It is typically determined through creep testing.

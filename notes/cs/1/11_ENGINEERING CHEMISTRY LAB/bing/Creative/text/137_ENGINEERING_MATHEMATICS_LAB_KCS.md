@@ -1,0 +1,24 @@
+# ENGINEERING MATHEMATICS LAB KCS
+
+- Engineering Mathematics Lab KCS is a course that aims to provide students with the skills and knowledge of applying mathematical concepts and methods to solve engineering problems.
+- The course consists of lectures, labs, and recitations, where students learn and practice various topics such as linear algebra, differential equations, numerical methods, probability, and statistics.
+- The course is taught by the faculty of the College of Engineering and Computer Science, and is based on engineering applications taken directly from core engineering courses.
+- The course has the following objectives:
+  - To enhance the students' mathematical proficiency and confidence in solving engineering problems.
+  - To develop the students' ability to use mathematical software and tools for computation, simulation, and visualization.
+  - To foster the students' understanding of the connections between mathematics and engineering disciplines.
+  - To prepare the students for advanced courses in engineering and mathematics.
+- The course has the following outcomes:
+  - The students will be able to apply the knowledge of mathematics, science, engineering fundamentals, and engineering specialization to the solution of complex engineering problems.
+  - The students will be able to identify, formulate, review research literature, and analyze complex engineering problems using principles of mathematics.
+  - The students will be able to use appropriate techniques, skills, and modern engineering tools, including mathematical software, for modeling, simulation, and analysis of engineering systems.
+  - The students will be able to communicate effectively the mathematical solutions and results of engineering problems using oral, written, and graphical modes.
+- The course covers the following topics:
+  - Linear algebra: matrix operations, systems of linear equations, determinants, eigenvalues and eigenvectors, linear transformations, orthogonality, and least squares.
+  - Differential equations: first-order and higher-order equations, linear and nonlinear equations, homogeneous and nonhomogeneous equations, initial and boundary value problems, Laplace transforms, and series solutions.
+  - Numerical methods: error analysis, root finding, interpolation, numerical differentiation and integration, numerical solutions of ordinary and partial differential equations, and optimization.
+  - Probability and statistics: basic concepts of probability, random variables, probability distributions, sampling, estimation, hypothesis testing, and regression.
+- The course requires the students to complete the following assignments and assessments:
+  - Lab exercises: the students have to perform various tasks using mathematical software such as MATLAB, Mathematica, or Python, and submit their codes and outputs  .
+  - Quizzes: the students have to answer multiple-choice or short-answer questions on the topics covered in the lectures and labs.
+  - Midterm and final exams: the students have to solve problems on the topics covered in the course using analytical and numerical methods.

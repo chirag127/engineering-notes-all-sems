@@ -1,0 +1,12 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually solid or semi-solid, and have a high molecular weight and a complex structure.
+- Resins are widely used in various industries, such as paints, adhesives, plastics, rubber, pharmaceuticals, cosmetics, etc.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+  - Thermoplastic resins are resins that can be softened by heating and hardened by cooling, and can be reshaped repeatedly without changing their chemical structure. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, etc.
+  - Thermosetting resins are resins that undergo irreversible chemical reactions when heated, and form cross-linked networks that cannot be melted or reshaped. Examples of thermosetting resins are epoxy, phenolic, polyester, etc.
+- Resins can be prepared by different methods, depending on their type and properties. Some of the common methods are:
+  - Polymerization: This is the process of joining small molecules (monomers) to form large molecules (polymers) with repeating units. Polymerization can be initiated by heat, light, catalysts, or other agents. Examples of resins prepared by polymerization are polyethylene, polypropylene, polystyrene, etc.
+  - Condensation: This is the process of combining two or more molecules with the elimination of a small molecule, such as water, alcohol, or ammonia. Condensation can be carried out by heating, acid or base catalysis, or other methods. Examples of resins prepared by condensation are epoxy, phenolic, polyester, etc.
+  - Modification: This is the process of altering the properties of an existing resin by adding or removing certain functional groups, such as hydroxyl, carboxyl, amino, etc. Modification can be done by chemical reactions, such as esterification, amination, hydrolysis, etc. Examples of resins prepared by modification are alkyd, urea-formaldehyde, melamine-formaldehyde, etc.
+  - Extraction: This is the process of obtaining natural resins from plants or animals by physical or chemical methods, such as tapping, distillation, solvent extraction, etc. Examples of natural resins are rosin, shellac, lacquer, etc.

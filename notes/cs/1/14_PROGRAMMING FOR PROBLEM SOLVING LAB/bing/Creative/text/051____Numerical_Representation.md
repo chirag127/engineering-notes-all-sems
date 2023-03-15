@@ -1,0 +1,9 @@
+## Numerical Representation
+
+- Numerical representation is the process of encoding numbers in a form that can be stored and manipulated by a computer system.
+- There are different types of numerical representation, such as binary, decimal, hexadecimal, octal, and floating-point.
+- Binary representation uses only two symbols, 0 and 1, to represent any number. Each digit in a binary number is called a bit. For example, the binary number 1011 represents the decimal number 11.
+- Decimal representation uses ten symbols, 0 to 9, to represent any number. Each digit in a decimal number is called a decimal digit. For example, the decimal number 123 represents the same number as the binary number 1111011.
+- Hexadecimal representation uses sixteen symbols, 0 to 9 and A to F, to represent any number. Each digit in a hexadecimal number is called a hexadecimal digit or a hex digit. For example, the hexadecimal number 7B represents the same number as the binary number 1111011 and the decimal number 123.
+- Octal representation uses eight symbols, 0 to 7, to represent any number. Each digit in an octal number is called an octal digit. For example, the octal number 173 represents the same number as the binary number 1111011, the decimal number 123, and the hexadecimal number 7B.
+- Floating-point representation uses a combination of binary digits to represent numbers that can have fractional parts or very large or small magnitudes. A floating-point number consists of three parts: a sign bit, an exponent, and a mantissa. For example, the floating-point number 1.23 x 10^2 represents the same number as the decimal number 123.0 and the binary number 1111011.0.
