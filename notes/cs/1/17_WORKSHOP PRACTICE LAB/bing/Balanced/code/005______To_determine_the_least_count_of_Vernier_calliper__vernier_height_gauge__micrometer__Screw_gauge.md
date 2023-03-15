@@ -1,0 +1,35 @@
+#### To determine the least count of Vernier calliper, vernier height gauge, micrometer (Screw gauge) and take different reading over given metallic pieces using these instruments.
+
+- **Vernier calliper**: A device used to measure the length, diameter, or depth of an object with high precision and accuracy. It consists of two scales: a main scale and a vernier scale that slides along the main scale.
+- **Vernier height gauge**: A device used to measure the height of an object or the distance between two points on a vertical plane. It consists of a base, a vertical beam, a main scale, and a vernier scale that slides along the beam.
+- **Micrometer (Screw gauge)**: A device used to measure the thickness or diameter of an object with very high precision and accuracy. It consists of a frame, an anvil, a spindle, a sleeve, a thimble, and a ratchet.
+- **Least count**: The smallest value that can be measured by an instrument. It is equal to the difference between one division of the main scale and one division of the vernier scale for vernier callipers and height gauges, and equal to the pitch of the screw divided by the number of divisions on the thimble for micrometers.
+- **Formula for least count**:
+  - Vernier calliper: LC = 1 MSD - 1 VSD, where MSD is the main scale division and VSD is the vernier scale division.
+  - Vernier height gauge: LC = 1 MSD - 1 VSD, where MSD is the main scale division and VSD is the vernier scale division.
+  - Micrometer: LC = P / N, where P is the pitch of the screw and N is the number of divisions on the thimble.
+- **Procedure for taking readings**:
+  - Vernier calliper: 
+    - Clean the jaws of the calliper and the object to be measured.
+    - Adjust the zero of the vernier scale with the zero of the main scale.
+    - Place the object between the jaws and close them gently until they touch the object.
+    - Read the main scale value that coincides with the zero of the vernier scale. This is the main scale reading (MSR).
+    - Find the vernier scale division that coincides with any main scale division. This is the vernier scale reading (VSR).
+    - Calculate the total reading (TR) by adding the MSR and the product of the VSR and the LC.
+    - Repeat the steps for different objects or dimensions and record the readings in a table.
+  - Vernier height gauge:
+    - Clean the base and the beam of the height gauge and the object to be measured.
+    - Adjust the zero of the vernier scale with the zero of the main scale.
+    - Place the object on the base and slide the vernier scale along the beam until it touches the top of the object.
+    - Read the main scale value that coincides with the zero of the vernier scale. This is the main scale reading (MSR).
+    - Find the vernier scale division that coincides with any main scale division. This is the vernier scale reading (VSR).
+    - Calculate the total reading (TR) by adding the MSR and the product of the VSR and the LC.
+    - Repeat the steps for different objects or heights and record the readings in a table.
+  - Micrometer:
+    - Clean the anvil and the spindle of the micrometer and the object to be measured.
+    - Adjust the zero of the thimble with the zero of the sleeve.
+    - Place the object between the anvil and the spindle and rotate the ratchet until a slight resistance is felt.
+    - Read the sleeve value that is visible on the frame. This is the sleeve reading (SR).
+    - Read the thimble value that coincides with the datum line on the sleeve. This is the thimble reading (TR).
+    - Calculate the total reading (TR) by adding the SR and the product of the TR and the LC.
+    - Repeat the steps for different objects or thicknesses and record the readings in a table.

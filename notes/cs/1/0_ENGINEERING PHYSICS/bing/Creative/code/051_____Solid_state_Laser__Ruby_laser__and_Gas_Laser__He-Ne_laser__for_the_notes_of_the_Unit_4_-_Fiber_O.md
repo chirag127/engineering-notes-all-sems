@@ -1,0 +1,27 @@
+### Solid state Laser (Ruby laser) and Gas Laser (He-Ne laser)
+
+- A solid state laser is a laser that uses a gain medium that is a solid, rather than a liquid or a gas.
+- A ruby laser is a solid state laser that uses a synthetic ruby crystal as its gain medium .
+- A ruby laser is the first successful laser developed by Maiman in 1960 .
+- A ruby laser produces pulses of coherent visible light at a wavelength of 694.3 nm, which is a deep red color, with a very narrow linewidth of 0.53 nm .
+- A ruby laser is a three level solid state laser, which means that it has three energy levels: the ground state, the metastable state, and the upper state .
+- A ruby laser consists of a ruby rod with polished ends, surrounded by a xenon flash lamp in a helical shape, and enclosed by a highly reflective cylindrical cavity .
+- The working principle of a ruby laser is as follows :
+  - The xenon flash lamp emits a broad spectrum of light, which pumps the ruby rod and excites the chromium atoms from the ground state to the upper state.
+  - The chromium atoms in the upper state quickly decay to the metastable state, where they stay for a longer time due to the forbidden transition.
+  - The metastable state is the lasing level, where the stimulated emission occurs when a photon of the same wavelength as the transition triggers the emission of another photon in phase and direction.
+  - The photons bounce back and forth between the reflective ends of the ruby rod, forming a standing wave and amplifying the light.
+  - One of the ends of the ruby rod is partially transparent, allowing some of the light to escape as the laser output.
+- A gas laser is a laser that uses a gas as the active medium.
+- A helium-neon laser (He-Ne laser) is a gas laser that uses a mixture of helium and neon gas as the active medium.
+- A He-Ne laser is one of the most common and inexpensive gas lasers, widely used for alignment, metrology, and education purposes.
+- A He-Ne laser produces continuous wave (CW) coherent light at a wavelength of 632.8 nm, which is a bright red color, with a linewidth of 0.0015 nm.
+- A He-Ne laser is a four level gas laser, which means that it has four energy levels: the ground state, the lower state, the upper state, and the metastable state.
+- A He-Ne laser consists of a glass tube filled with a low pressure mixture of helium and neon gas, with electrodes at both ends, and mirrors at both ends of the tube.
+- The working principle of a He-Ne laser is as follows:
+  - A high voltage electric discharge is applied across the electrodes, which ionizes the gas and creates a plasma.
+  - The plasma excites the helium atoms from the ground state to the metastable state, where they stay for a longer time due to the forbidden transition.
+  - The helium atoms in the metastable state collide with the neon atoms and transfer their energy to them, raising them from the ground state to the upper state.
+  - The neon atoms in the upper state quickly decay to the lower state, where the stimulated emission occurs when a photon of the same wavelength as the transition triggers the emission of another photon in phase and direction.
+  - The photons bounce back and forth between the mirrors, forming a standing wave and amplifying the light.
+  - One of the mirrors is partially transparent, allowing some of the light to escape as the laser output.

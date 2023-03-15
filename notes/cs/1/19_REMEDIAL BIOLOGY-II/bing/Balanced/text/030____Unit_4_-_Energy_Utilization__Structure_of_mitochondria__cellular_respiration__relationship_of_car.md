@@ -1,0 +1,27 @@
+## Unit 4 - Energy Utilization
+
+- Structure of mitochondria
+  - Mitochondria are small, rod-shaped organelles found in most eukaryotic cells   .
+  - They have two membranes, an outer membrane and an inner membrane    .
+  - The outer membrane is smooth and encloses the organelle   .
+  - The inner membrane is folded into projections called cristae, which increase the surface area for chemical reactions    .
+  - The space between the two membranes is called the intermembrane space   .
+  - The space inside the inner membrane is called the matrix, which contains enzymes, DNA, ribosomes, and other molecules   .
+- Cellular respiration
+  - Cellular respiration is the process of breaking down organic molecules, such as glucose, to produce energy in the form of ATP  .
+  - Cellular respiration occurs in three main stages: glycolysis, the citric acid cycle (also known as the Krebs cycle), and the electron transport chain (also known as the oxidative phosphorylation)  .
+  - Glycolysis takes place in the cytoplasm and converts one molecule of glucose into two molecules of pyruvate, generating two molecules of ATP and two molecules of NADH (a reduced form of nicotinamide adenine dinucleotide, an electron carrier)  .
+  - The citric acid cycle takes place in the mitochondrial matrix and oxidizes the pyruvate into carbon dioxide, generating two molecules of ATP, six molecules of NADH, and two molecules of FADH2 (a reduced form of flavin adenine dinucleotide, another electron carrier)  .
+  - The electron transport chain takes place in the inner mitochondrial membrane and transfers the electrons from NADH and FADH2 to a series of protein complexes, which pump protons from the matrix to the intermembrane space, creating a proton gradient  .
+  - The proton gradient drives the synthesis of ATP by a protein complex called ATP synthase, which allows the protons to flow back to the matrix  .
+  - The final electron acceptor in the electron transport chain is oxygen, which combines with the electrons and protons to form water  .
+  - The total amount of ATP produced by cellular respiration is about 36 to 38 molecules per glucose molecule  .
+- Relationship of carbohydrate metabolism to other compounds
+  - Carbohydrate metabolism is the breakdown and synthesis of carbohydrates, such as glucose, glycogen, starch, and cellulose .
+  - Carbohydrate metabolism is linked to other metabolic pathways, such as lipid metabolism, protein metabolism, and nucleic acid metabolism .
+  - Lipid metabolism is the breakdown and synthesis of fats, such as triglycerides, phospholipids, and cholesterol .
+  - Protein metabolism is the breakdown and synthesis of amino acids, which are the building blocks of proteins .
+  - Nucleic acid metabolism is the breakdown and synthesis of nucleotides, which are the building blocks of DNA and RNA .
+  - Some examples of the relationship of carbohydrate metabolism to other compounds are:
+    - Glucose can be converted into glycogen, a storage form of glucose, or into fatty acids, a component of triglycerides .
+    - Glycogen can be broken down into glucose, which can be used for energy or for other biosynthetic pathways [^

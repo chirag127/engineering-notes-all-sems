@@ -1,0 +1,23 @@
+## Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is the use of computer software to create, modify, analyze, and optimize the design of a product or a system.
+- CAD software can help designers to create 2D drawings, 3D models, animations, simulations, and documentation of their design.
+- CAD software can also facilitate collaboration, communication, and data exchange among different stakeholders involved in the design process, such as engineers, architects, manufacturers, clients, and end-users.
+- CAD software can improve the quality, efficiency, and innovation of the design process by enabling designers to:
+  - Explore different design alternatives and evaluate their performance and feasibility.
+  - Detect and correct errors, inconsistencies, and conflicts in the design before fabrication or construction.
+  - Optimize the design for various criteria, such as functionality, aesthetics, cost, safety, sustainability, and manufacturability.
+  - Automate and standardize repetitive and tedious tasks, such as drafting, dimensioning, and annotation.
+  - Integrate and coordinate different aspects and disciplines of the design, such as structural, mechanical, electrical, and plumbing.
+  - Visualize and present the design in realistic and interactive ways, such as rendering, animation, and virtual reality.
+- CAD software can be classified into different types based on the nature and purpose of the design, such as:
+  - Mechanical CAD (MCAD): for designing mechanical parts, assemblies, and systems, such as machines, vehicles, and robots.
+  - Architectural CAD (ACAD): for designing buildings, structures, and landscapes, such as houses, bridges, and parks.
+  - Electrical CAD (ECAD): for designing electrical circuits, components, and systems, such as power grids, sensors, and microchips.
+  - Civil CAD (CCAD): for designing civil engineering projects, such as roads, dams, and tunnels.
+  - Fashion CAD (FCAD): for designing clothing, accessories, and textiles, such as dresses, shoes, and fabrics.
+  - Graphic CAD (GCAD): for designing graphical elements, such as logos, icons, and illustrations.
+- CAD software can also be classified into different levels based on the complexity and functionality of the software, such as:
+  - Low-end CAD: for simple and basic design tasks, such as sketching, drafting, and annotation. Examples of low-end CAD software are Microsoft Paint, Adobe Photoshop, and AutoCAD LT.
+  - Mid-range CAD: for intermediate and advanced design tasks, such as modeling, analysis, and optimization. Examples of mid-range CAD software are SolidWorks, Autodesk Inventor, and SketchUp.
+  - High-end CAD: for complex and specialized design tasks, such as simulation, animation, and integration. Examples of high-end CAD software are CATIA, Siemens NX, and Revit.

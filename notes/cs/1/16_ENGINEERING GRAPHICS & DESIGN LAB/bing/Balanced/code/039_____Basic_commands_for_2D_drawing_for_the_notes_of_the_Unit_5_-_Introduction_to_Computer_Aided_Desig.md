@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 5 - Introduction to Computer Aided Design in the subject of Engineering Graphics & Design Lab. Here are some basic commands for 2D drawing that you should know:
+
+### Basic commands for 2D drawing
+
+- **LINE**: This command allows you to draw straight lines by specifying the start and end points. You can also draw multiple connected lines by entering multiple points. To end the command, press Enter or Esc.
+- **CIRCLE**: This command allows you to draw circles by specifying the center point and the radius or diameter. You can also draw circles by specifying other parameters, such as two or three points on the circumference, or the center and a tangent point.
+- **ARC**: This command allows you to draw arcs by specifying the start, end and center points. You can also draw arcs by specifying other parameters, such as the start, end and radius, or the start, center and angle.
+- **RECTANGLE**: This command allows you to draw rectangles by specifying the first corner point and the second corner point or the dimensions. You can also draw rectangles with rounded corners by specifying the fillet radius.
+- **POLYGON**: This command allows you to draw regular polygons by specifying the number of sides and the center point. You can also draw polygons by specifying the center and an edge point, or the center and the radius or inscribed circle diameter.
+- **ELLIPSE**: This command allows you to draw ellipses by specifying the center point and the endpoints of the major and minor axes. You can also draw ellipses by specifying the center and the endpoints of the axis and a rotation angle, or the center and a quadrant point.
+- **HATCH**: This command allows you to fill an enclosed area with a pattern or a solid color. You can specify the boundary of the area, the pattern type, the scale, the angle and the color of the hatch.
+- **TEXT**: This command allows you to create text objects by specifying the insertion point, the height, the rotation angle and the text content. You can also modify the text style, font, alignment and other properties of the text objects.
+- **DIMENSION**: This command allows you to create dimension objects that display the size and location of geometric elements. You can specify the dimension type, such as linear, aligned, angular, radial, diameter, etc., and the dimension style, such as the text format, the arrowheads, the extension lines, etc.
+- **TRIM**: This command allows you to trim or extend objects to meet the edges of other objects. You can select the cutting edges and the objects to be trimmed or extended, or use the Fence, Crossing or Project options to trim or extend multiple objects at once.

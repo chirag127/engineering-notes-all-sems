@@ -1,0 +1,25 @@
+# Isometric projections of simple and combination of solids
+
+- Isometric projection is a method of graphic representation of three-dimensional objects, used by engineers, technical illustrators, and architects.
+- Isometric projection shows the object as it appears to the eye from a particular direction, with all the dimensions preserved at the same scale.
+- Isometric projection is obtained by rotating the object 45 degrees about a vertical axis, then tilting the object forward until the body diagonal appears as a point in the front view .
+- Isometric projection of simple solids like prism, pyramid, cylinder and cone can be drawn by following these steps:
+  - Draw the isometric axis, which are three mutually perpendicular lines meeting at a point called the origin.
+  - Draw the isometric scale, which is a scale that converts the true lengths of the object into isometric lengths.
+  - Locate the isometric center of the solid, which is the point where the three principal axes of the solid intersect.
+  - Draw the isometric outline of the solid, which is the projection of the edges of the solid on the isometric plane.
+  - Draw the isometric faces of the solid, which are the projections of the faces of the solid on the isometric plane.
+  - Shade the isometric faces of the solid, if required, to show the depth and orientation of the solid.
+- Isometric projection of combination of solids can be drawn by following these steps  :
+  - Draw the isometric projection of each solid separately, using the same isometric scale and origin.
+  - Align the solids according to their relative positions and orientations, using the isometric center and axis of each solid as reference points.
+  - Erase the hidden lines and edges of the solids, which are the lines and edges that are not visible from the given direction of view.
+  - Draw the visible lines and edges of the solids, which are the lines and edges that are visible from the given direction of view.
+  - Shade the visible faces of the solids, if required, to show the depth and orientation of the solids.
+- Isometric projection of truncation of solids can be drawn by following these steps:
+  - Draw the isometric projection of the solid before truncation, using the same isometric scale and origin.
+  - Draw the isometric projection of the cutting plane, which is the plane that cuts the solid at an angle to the horizontal plane.
+  - Mark the points of intersection of the cutting plane and the edges of the solid, using the isometric scale and the isometric center of the solid as reference points.
+  - Erase the portion of the solid that is cut off by the cutting plane, along with the hidden lines and edges of the solid.
+  - Draw the visible lines and edges of the solid after truncation, which are the lines and edges that are visible from the given direction of view.
+  - Shade the visible faces of the solid after truncation, if required, to show the depth and orientation of the solid.

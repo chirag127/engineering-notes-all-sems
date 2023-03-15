@@ -1,0 +1,23 @@
+# Stem
+
+- The stem is an **axial organ** of the shoot system that supports and elevates the leaves, flowers, and fruits .
+- The stem also **transports** water, minerals, and organic substances between the roots and the aerial parts of the plant .
+- The stem may also perform **photosynthesis** and **storage** functions in some plants .
+- The stem has a **radial structure** with nodes and internodes .
+  - Nodes are the regions where leaves are attached.
+  - Internodes are the portions between two nodes.
+- The stem has three types of **tissues**: dermal, vascular, and ground  .
+  - Dermal tissue covers and protects the stem. It consists of the epidermis and the cuticle.
+  - Vascular tissue conducts water and nutrients throughout the plant. It consists of xylem and phloem.
+  - Ground tissue fills the space between the dermal and vascular tissues. It consists of parenchyma, collenchyma, and sclerenchyma cells.
+- The stem can be classified into different types based on the **presence or absence of secondary growth**, the **arrangement of vascular bundles**, and the **shape and size** of the stem .
+  - Primary stem: A stem that does not undergo secondary growth. It has a simple structure with a single layer of epidermis, a cortex, a pith, and vascular bundles arranged in a ring.
+  - Secondary stem: A stem that undergoes secondary growth. It has a complex structure with a periderm, a secondary phloem, a vascular cambium, a secondary xylem, and a pith.
+  - Monocot stem: A stem that belongs to a monocotyledonous plant. It has scattered vascular bundles, no secondary growth, and no distinct cortex and pith.
+  - Dicot stem: A stem that belongs to a dicotyledonous plant. It has vascular bundles arranged in a ring, secondary growth, and a distinct cortex and pith.
+  - Herbaceous stem: A stem that is soft, green, and flexible. It has a thin epidermis, a thin cuticle, and no secondary growth.
+  - Woody stem: A stem that is hard, brown, and rigid. It has a thick periderm, a thick cuticle, and secondary growth.
+  - Erect stem: A stem that grows vertically upwards. It is usually strong and woody.
+  - Prostrate stem: A stem that grows horizontally along the ground. It is usually weak and herbaceous.
+  - Climbing stem: A stem that grows upwards by attaching to a support. It may have tendrils, hooks, or twining structures to help in climbing.
+  - Creeping stem: A stem that grows horizontally along the ground and produces roots and shoots at the nodes. It is a type of prostrate stem that helps in vegetative propagation.

@@ -1,0 +1,22 @@
+### Basic chemical constituents of living body
+
+- Living beings are composed of various chemical elements that are essential for their structure and function.
+- The most abundant elements in living beings are oxygen, carbon, hydrogen, and nitrogen, which together make up about 96% of the human body mass .
+- Oxygen is the most abundant element in humans and animals, and it is involved in many biological processes, such as cellular respiration, oxidation, and water formation .
+- Carbon is the basis of all organic molecules, such as carbohydrates, lipids, proteins, and nucleic acids, which are the building blocks of life .
+- Hydrogen is present in every biomolecule, and it forms bonds with other elements, such as oxygen and nitrogen, to create water, amino acids, and nucleotides .
+- Nitrogen is a key component of proteins and nucleic acids, which are essential for the metabolic process, genetic information, and cell signaling .
+- Other elements that are important for living beings are calcium, phosphorus, potassium, sulfur, sodium, chlorine, and magnesium, which together make up about 3.85% of the human body mass .
+- Calcium and phosphorus are mainly found in the bones and teeth, and they play a role in muscle contraction, nerve transmission, and blood clotting .
+- Potassium, sodium, and chlorine are involved in maintaining the fluid balance, the acid-base balance, and the electrical potential of the cells .
+- Sulfur is present in some amino acids and proteins, and it is involved in the formation of disulfide bonds, which stabilize the protein structure .
+- Magnesium is a cofactor for many enzymes, and it is involved in the synthesis of nucleic acids, proteins, and ATP .
+- In addition to these 11 elements, there are trace elements that are found in very small amounts in the human body, but they are still necessary for some biological functions, such as iron, iodine, copper, zinc, selenium, fluorine, and cobalt  .
+- Iron is a component of hemoglobin, which transports oxygen in the blood, and of cytochromes, which are involved in electron transport and energy production .
+- Iodine is a component of thyroid hormones, which regulate the metabolism, growth, and development .
+- Copper is a cofactor for some enzymes, such as cytochrome c oxidase and superoxide dismutase, and it is involved in iron metabolism, antioxidant defense, and connective tissue formation .
+- Zinc is a cofactor for many enzymes, such as carbonic anhydrase and DNA polymerase, and it is involved in wound healing, immune function, and gene expression .
+- Selenium is a component of some proteins, such as glutathione peroxidase and thioredoxin reductase, and it is involved in antioxidant defense, thyroid function, and DNA synthesis .
+- Fluorine is mainly found in the teeth and bones, and it helps prevent dental caries and osteoporosis .
+- Cobalt is a component of vitamin B12, which is involved in the synthesis of nucleic acids, proteins, and red blood cells .
+- These are some of the basic chemical constituents of living body that are essential for the structure and function of cells and tissues.

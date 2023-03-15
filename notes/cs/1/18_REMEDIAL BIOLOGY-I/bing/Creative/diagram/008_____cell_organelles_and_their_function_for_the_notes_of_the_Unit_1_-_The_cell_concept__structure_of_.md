@@ -1,0 +1,20 @@
+### Cell organelles and their function
+
+- Cell organelles are small structures within the cytoplasm that carry out functions necessary to maintain homeostasis in the cell.
+- Cell organelles are involved in many processes, such as energy production, protein synthesis, secretion, detoxification, and signal transduction .
+- Cell organelles can be classified into two types: membranous and non-membranous.
+- Membranous organelles are surrounded by a lipid bilayer membrane, similar to the plasma membrane that encloses the cell.
+- Non-membranous organelles are not enclosed by a membrane and are directly in contact with the cytoplasm.
+- Some of the major cell organelles and their functions are:
+
+| Organelle | Function |
+| --- | --- |
+| Plasma membrane | The plasma membrane is the outermost layer of the cell that separates it from the external environment. It is a selectively permeable barrier that regulates the entry and exit of substances into and out of the cell. It also mediates cell-cell and cell-environment interactions through various receptors and adhesion molecules. |
+| Cytoplasm | The cytoplasm is the jelly-like substance that fills the cell and contains the organelles. It provides a medium for the diffusion and transport of molecules and ions within the cell. It also contains various enzymes and metabolites that are involved in cellular reactions. |
+| Nucleus | The nucleus is the largest and most prominent organelle in most eukaryotic cells. It contains the genetic material (DNA) of the cell, which is organized into chromosomes. The nucleus controls the expression of genes and the synthesis of proteins. It also regulates the cell cycle and cell division. The nucleus is surrounded by a double membrane called the nuclear envelope, which has pores that allow the exchange of materials between the nucleus and the cytoplasm. |
+| Nucleolus | The nucleolus is a dense region within the nucleus that is responsible for the synthesis and assembly of ribosomes, the organelles that make proteins. The nucleolus contains ribosomal RNA (rRNA) and ribosomal proteins. The nucleolus also plays a role in the regulation of gene expression and cell stress responses. |
+| Endoplasmic reticulum (ER) | The endoplasmic reticulum is a network of membranous tubules and sacs that extends throughout the cytoplasm. It is divided into two types: rough ER and smooth ER. The rough ER has ribosomes attached to its surface and is involved in the synthesis and modification of proteins that are destined for secretion or insertion into the plasma membrane or other organelles. The smooth ER lacks ribosomes and is involved in the synthesis and metabolism of lipids, steroids, and carbohydrates. It also participates in the detoxification of drugs and toxins and the storage of calcium ions . |
+| Golgi apparatus | The Golgi apparatus is a stack of flattened membranous sacs that receives, sorts, modifies, and packages proteins and lipids from the ER. It also synthesizes some complex carbohydrates and glycoproteins. The Golgi apparatus sends the processed products to their final destinations, either within the cell or outside the cell via vesicles . |
+| Lysosomes | Lysosomes are spherical membranous organelles that contain hydrolytic enzymes that break down various macromolecules, such as proteins, nucleic acids, lipids, and carbohydrates. Lysosomes also digest worn-out organelles, foreign particles, and pathogens that enter the cell. Lysosomes play a role in the recycling of cellular materials, the regulation of cell death, and the defense against infections . |
+| Mitochondria | Mitochondria are oval-shaped membranous organelles that are the sites of cellular respiration, the process that converts glucose and oxygen into carbon dioxide, water, and energy (ATP). Mitochondria have their own DNA and ribosomes and can replicate independently of the nucleus. Mitochondria also participate in other metabolic pathways, such as the synthesis of amino acids, fatty acids, and steroids, and the regulation of calcium signaling, apoptosis, and oxidative stress . |
+| Ribosomes | Ribosomes are small non-membranous organelles that

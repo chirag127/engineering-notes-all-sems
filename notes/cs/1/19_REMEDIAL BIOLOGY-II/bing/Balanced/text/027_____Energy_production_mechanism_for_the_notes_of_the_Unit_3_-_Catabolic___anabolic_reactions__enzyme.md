@@ -1,0 +1,18 @@
+### Energy production mechanism
+
+- Energy production is the process of converting energy from one form to another in living systems.
+- Energy comes to living systems through electrons occupying high energy states, either from food (respiratory chains) or from light (photosynthesis).
+- Energy is exchanged between living systems and their surroundings as they use energy from the sun to perform photosynthesis or consume energy-storing molecules and release energy to the environment by doing work and releasing heat.
+- Energy is stored in the chemical bonds of organic molecules, such as carbohydrates, lipids, and amino acids, which are used as fuel and building material by living systems.
+- Energy production involves the breakdown and synthesis of organic molecules, which is called metabolism. Metabolism can be divided into two types: catabolism and anabolism.
+  - Catabolism is the process of breaking down complex molecules into simpler ones, releasing energy and reducing power (electrons) in the form of ATP and NADH.
+  - Anabolism is the process of building up complex molecules from simpler ones, consuming energy and reducing power in the form of ATP and NADH.
+- The main catabolic pathway of energy production is glycolysis, which is the breakdown of glucose into pyruvate, generating ATP and NADH.
+  - Glycolysis can occur in the absence or presence of oxygen. In the absence of oxygen, pyruvate is converted into lactate or ethanol, regenerating NAD+ for glycolysis to continue. This is called fermentation.
+  - In the presence of oxygen, pyruvate is transported into the mitochondria, where it is oxidized into acetyl-CoA, which enters the citric acid cycle. The citric acid cycle produces more ATP, NADH, and FADH2, which are used by the electron transport chain to generate a proton gradient across the inner mitochondrial membrane. The proton gradient drives the synthesis of ATP by ATP synthase. This is called oxidative phosphorylation.
+- The main anabolic pathway of energy production is photosynthesis, which is the synthesis of glucose from carbon dioxide and water, using light energy and reducing power from NADPH.
+  - Photosynthesis occurs in the chloroplasts of plants and algae, where light energy is captured by pigment molecules and transferred to reaction centers, where it excites electrons that are transferred to electron carriers. The electron carriers reduce NADP+ to NADPH and generate a proton gradient across the thylakoid membrane. The proton gradient drives the synthesis of ATP by ATP synthase. This is called photophosphorylation.
+  - The ATP and NADPH produced by photophosphorylation are used by the Calvin cycle, which fixes carbon dioxide into organic molecules, such as glyceraldehyde-3-phosphate, which can be converted into glucose or other sugars. This is called carbon fixation.
+- Energy production is regulated by various factors, such as the availability of substrates, the demand for ATP, the feedback inhibition of enzymes, and the hormonal signals.
+- Energy production is diverse and adaptable, as different living systems can use different sources of energy and different pathways of metabolism, depending on their environment and needs.
+- Energy production is integrated and coordinated, as different pathways of metabolism are interconnected and share common intermediates and regulators, allowing living systems to balance their energy supply and demand.

@@ -1,0 +1,23 @@
+#### Demonstration of working, construction and accessories for Lathe machine
+
+- A lathe machine is a machine tool that is used to perform various operations such as turning, facing, threading, knurling, etc. on a workpiece by removing unwanted material in the form of chips with the help of a cutting tool  .
+- The basic principle of a lathe machine is that the workpiece is held between two rigid and strong supports called centers or in a chuck or face plate which revolves, and the cutting tool is rigidly held and supported in a tool post which is fed against the revolving work  .
+- The main parts of a lathe machine are:
+  - Headstock: It is the fixed part of the machine that holds the spindle and the driving mechanism. It also provides speed and feed changes to the spindle  .
+  - Tailstock: It is the movable part of the machine that supports the other end of the workpiece and holds the dead center or the drill chuck. It can be adjusted along the bed to accommodate different lengths of workpieces  .
+  - Bed: It is the horizontal and rigid base of the machine that supports the headstock, tailstock, and the carriage. It is made of cast iron and has guide ways for the movement of the carriage  .
+  - Carriage: It is the part of the machine that holds and moves the cutting tool along the bed. It consists of the following components  :
+    - Saddle: It is the H-shaped casting that slides on the bed and supports the cross slide and the compound rest.
+    - Cross slide: It is the part that moves the tool perpendicular to the axis of the workpiece by a handwheel or a power feed.
+    - Compound rest: It is the part that holds the tool post and can be swiveled to any angle for making angular cuts or tapers.
+    - Tool post: It is the part that clamps the cutting tool and can be adjusted vertically or horizontally for setting the depth of cut or the tool position.
+    - Apron: It is the part that houses the gears, clutches, and levers for controlling the movement of the carriage and the feed mechanism.
+- The accessories of a lathe machine are:
+  - Chuck: It is a device that holds the workpiece by means of jaws that can be tightened or loosened by a key. There are different types of chucks such as three-jaw chuck, four-jaw chuck, collet chuck, etc  .
+  - Face plate: It is a circular plate that is attached to the spindle and has slots or holes for bolting the workpiece or a fixture  .
+  - Center: It is a pointed device that is inserted into the spindle or the tailstock and supports the workpiece by its center hole. There are two types of centers: live center and dead center  .
+  - Steady rest: It is a device that supports the workpiece at a point other than the centers to prevent deflection or vibration. It has three adjustable jaws that clamp the workpiece  .
+  - Follower rest: It is a device that supports the workpiece near the cutting tool to prevent springing or chatter. It has two adjustable jaws that follow the tool movement  .
+  - Mandrel: It is a cylindrical device that is inserted into the center hole of the workpiece and held by the centers. It is used to hold thin or hollow workpieces that cannot be held by a chuck or a face plate  .
+  - Lathe dog: It is a device that is clamped to the workpiece and engages with a slot or a pin on the face plate or the driving plate. It is used to transmit the rotary motion of the spindle to the workpiece  .
+  - Driving plate: It is a circular plate that is attached to the spindle and has a slot or a pin for engaging with the

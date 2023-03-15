@@ -1,0 +1,9 @@
+### Flower
+
+- A flower is a modified shoot that consists of a floral axis and four types of floral appendages: sepals, petals, stamens and carpels .
+- The floral axis is the stem that bears the floral organs. It may be shortened or elongated, depending on the type of flower.
+- The sepals are the outermost whorl of floral appendages. They are usually green and leaf-like, and protect the flower bud before it opens.
+- The petals are the next whorl of floral appendages. They are usually colorful and showy, and attract pollinators to the flower.
+- The stamens are the male reproductive organs of the flower. They consist of a filament and an anther, which produces pollen grains that contain the male gametes.
+- The carpels are the female reproductive organs of the flower. They consist of an ovary, a style and a stigma. The ovary contains one or more ovules, which contain the female gametes. The style is a slender stalk that connects the ovary to the stigma. The stigma is the receptive surface that catches the pollen grains.
+- The function of the flower is to facilitate sexual reproduction in flowering plants. The pollen grains from the anther of one flower are transferred to the stigma of another flower of the same species, either by wind, water, animals or self-pollination. This process is called pollination. The pollen grains then germinate on the stigma and grow a pollen tube that reaches the ovule in the ovary. The male gamete travels through the pollen tube and fuses with the female gamete in the ovule. This process is called fertilization. The fertilized ovule develops into a seed, and the ovary develops into a fruit. The fruit protects the seed and aids in its dispersal. The seed germinates and grows into a new plant, completing the life cycle of the flowering plant.

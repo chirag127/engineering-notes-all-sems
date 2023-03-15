@@ -1,0 +1,26 @@
+## Unit 2 - Functional Anatomy of Prokaryotic and Eukaryotic Cells: Size, shape, and arrangement of bacterial cells. Structure and function of cells
+
+- Prokaryotic cells are cells that lack a nucleus and other membrane-bound organelles. They are usually smaller and simpler than eukaryotic cells, which have a nucleus and other membrane-bound organelles.
+- Eukaryotic cells are cells that have a nucleus and other membrane-bound organelles. They are usually larger and more complex than prokaryotic cells, which lack a nucleus and other membrane-bound organelles.
+- Bacterial cells are prokaryotic cells that belong to the domain Bacteria. They have a variety of shapes, sizes, and arrangements, depending on their species and environmental conditions.
+- The most common shapes of bacterial cells are:
+  - Coccus: spherical or oval
+  - Bacillus: rod-shaped or cylindrical
+  - Spirillum: spiral or curved
+  - Vibrio: comma-shaped
+  - Coccobacillus: short and plump
+  - Spirochete: flexible and helical
+- The most common arrangements of bacterial cells are:
+  - Single: individual cells
+  - Diplo: pairs of cells
+  - Strepto: chains of cells
+  - Staphylo: clusters of cells
+  - Tetrads: groups of four cells
+  - Sarcinae: groups of eight cells
+  - Palisades: side-by-side rows of cells
+- The structure and function of bacterial cells are determined by their cell envelope, which consists of three layers: the cell wall, the cell membrane, and the capsule.
+  - The cell wall is a rigid layer that surrounds the cell membrane and provides shape, support, and protection to the cell. It also prevents the cell from bursting due to osmotic pressure. The cell wall is composed of peptidoglycan, a polymer of sugar and amino acids, and may also contain other substances, such as lipopolysaccharide, teichoic acid, or mycolic acid, depending on the type of bacteria. Bacteria can be classified into two groups based on the structure and composition of their cell wall: gram-positive and gram-negative.
+    - Gram-positive bacteria have a thick layer of peptidoglycan that retains the purple dye of the Gram stain. They also have teichoic acid, which is a polymer of alcohol and phosphate, attached to the peptidoglycan. Gram-positive bacteria are more susceptible to antibiotics that target the cell wall, such as penicillin and lysozyme.
+    - Gram-negative bacteria have a thin layer of peptidoglycan that does not retain the purple dye of the Gram stain. They also have an outer membrane, which is a bilayer of phospholipids and lipopolysaccharide, attached to the peptidoglycan by lipoproteins. The outer membrane acts as a barrier to many substances, including antibiotics, and contains porins, which are proteins that allow the passage of small molecules. The lipopolysaccharide, also known as endotoxin, is a complex molecule that consists of a lipid A, a core polysaccharide, and an O antigen. The lipid A is responsible for the toxic effects of gram-negative bacteria, such as fever and shock, while the O antigen is used for the identification of different strains of bacteria.
+  - The cell membrane is a semi-permeable layer that surrounds the cytoplasm and regulates the transport of materials in and out of the cell. It is composed of a phospholipid bilayer with embedded proteins, such as transporters, receptors, and enzymes. The cell membrane also contains hopanoids, which are sterol-like molecules that stabilize the membrane and make it more resistant to heat and pH changes. The cell membrane is involved in many cellular processes, such as respiration, photosynthesis, secretion, and signal transduction.
+  - The capsule is a sticky layer that surrounds the cell wall and the cell membrane and protects the cell from dehydration, phagocytosis, and attachment by viruses or other cells. It is composed of polysaccharides, proteins, or both, and may vary in thickness, composition, and structure, depending on the type of bacteria. The capsule also helps the bacteria adhere to surfaces and form biofilms, which are communities of bacteria that are embedded in a matrix of extracellular polymeric substances. Biofilms can enhance the survival and virulence of bacteria, as well as their resistance to antibiotics and host defenses.

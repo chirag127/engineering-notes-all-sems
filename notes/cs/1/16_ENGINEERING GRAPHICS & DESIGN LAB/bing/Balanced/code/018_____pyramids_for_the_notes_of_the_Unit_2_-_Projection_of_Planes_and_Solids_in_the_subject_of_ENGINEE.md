@@ -1,0 +1,33 @@
+### Pyramids
+
+- A pyramid is a polyhedron with a polygonal base and triangular faces that meet at a common vertex.
+- The base can be any regular or irregular polygon, such as a square, a pentagon, or a hexagon.
+- The height of a pyramid is the perpendicular distance from the vertex to the base plane.
+- The slant height of a pyramid is the distance from the vertex to the midpoint of an edge of the base.
+- The axis of a pyramid is the line segment joining the vertex and the center of the base.
+- The projection of a pyramid is the representation of its shape on a plane, such as the horizontal plane (HP) or the vertical plane (VP).
+- The projection of a pyramid can be obtained by drawing the projections of its base and its vertex, and then joining them with straight lines.
+- The projection of a pyramid can show different views depending on the orientation of the pyramid with respect to the plane of projection.
+- The projection of a pyramid can be classified into three types: parallel projection, oblique projection, and perspective projection.
+- Parallel projection is a type of projection where the rays of projection are parallel to each other and perpendicular to the plane of projection.
+- Oblique projection is a type of projection where the rays of projection are parallel to each other but not perpendicular to the plane of projection.
+- Perspective projection is a type of projection where the rays of projection converge at a single point called the center of projection or the eye of the observer.
+- In engineering graphics, parallel projection is commonly used to create multi-view drawings of solids, such as pyramids, where each view shows only two of the three dimensions (width, height, depth).
+- In engineering graphics, the most common types of parallel projection are orthographic projection and isometric projection.
+- Orthographic projection is a type of parallel projection where the plane of projection is perpendicular to one of the principal axes of the solid, such as the front, top, or side view.
+- Isometric projection is a type of parallel projection where the plane of projection is inclined at an angle of 30 degrees to all the three principal axes of the solid, such as the isometric view.
+- The advantage of orthographic projection is that it shows the true shape and size of the solid in each view, but the disadvantage is that it requires at least two views to represent the solid completely.
+- The advantage of isometric projection is that it shows the three-dimensional appearance of the solid in a single view, but the disadvantage is that it distorts the shape and size of the solid.
+- To draw the orthographic projection of a pyramid, the following steps can be followed:
+  - Step 1: Draw the base of the pyramid on the HP or the VP, depending on the given orientation of the pyramid.
+  - Step 2: Draw the axis of the pyramid perpendicular to the base, and mark the vertex of the pyramid on the axis.
+  - Step 3: Draw the front view of the pyramid by projecting the base and the vertex on the VP or the HP, respectively, and joining them with straight lines.
+  - Step 4: Draw the top view of the pyramid by projecting the base and the vertex on the HP or the VP, respectively, and joining them with straight lines.
+  - Step 5: Draw the side view of the pyramid by projecting the base and the vertex on a plane perpendicular to both the HP and the VP, and joining them with straight lines.
+  - Step 6: Label the views and the dimensions of the pyramid as per the given specifications.
+- To draw the isometric projection of a pyramid, the following steps can be followed:
+  - Step 1: Draw an isometric axis system on the plane of projection, with the three axes inclined at 30 degrees to the plane.
+  - Step 2: Draw the base of the pyramid on the plane of projection, using the isometric scale to measure the dimensions of the base.
+  - Step 3: Draw the axis of the pyramid perpendicular to the base, and mark the vertex of the pyramid on the axis.
+  - Step 4: Draw the faces of the pyramid by joining the vertex with the vertices of the base with straight lines.
+  - Step 5: Label the view and the dimensions of the pyramid as per the given specifications.

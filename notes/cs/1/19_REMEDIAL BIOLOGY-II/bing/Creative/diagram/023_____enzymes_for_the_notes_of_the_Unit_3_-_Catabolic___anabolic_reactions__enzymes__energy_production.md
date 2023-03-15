@@ -1,0 +1,7 @@
+### Enzymes
+
+- Enzymes are biological molecules (typically proteins) that act as catalysts in living organisms, regulating the rate of chemical reactions without being consumed or altered in the process  .
+- Enzymes are essential for life and serve a wide range of important functions in the body, such as aiding in digestion, metabolism, respiration, muscle and nerve function, and many others .
+- Enzymes work by lowering the activation energy of a reaction, which is the minimum amount of energy required for the reactants to undergo a specific reaction. By doing so, enzymes increase the rate and efficiency of the reaction .
+- Enzymes are highly specific for their substrates, which are the molecules that bind to the enzyme's active site and undergo a chemical change. The specificity of enzymes is determined by their three-dimensional shape and structure, which are influenced by factors such as pH, temperature, and cofactors .
+- Enzymes are classified and named according to the type of reaction they catalyze and the substrate they act on. The most common system of enzyme nomenclature uses the suffix -ase added to the name of the substrate or the type of reaction. For example, lactase is an enzyme that breaks down lactose, and oxidase is an enzyme that catalyzes oxidation reactions.

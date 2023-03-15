@@ -1,0 +1,34 @@
+### 4 Carpentry Shop 3 Hrs
+
+- Carpentry is the skill of making and repairing wooden objects and structures, such as furniture, doors, windows, stairs, etc.
+- A carpentry shop is a place where carpenters work with various tools and materials to create or fix wooden items.
+- Some of the common tools used in a carpentry shop are:
+  - Hammer: A tool with a metal head and a wooden handle, used to drive nails, pull nails, or break objects.
+  - Saw: A tool with a sharp blade and a handle, used to cut wood or other materials.
+  - Chisel: A tool with a metal blade and a wooden handle, used to carve or shape wood or other materials.
+  - Plane: A tool with a flat metal blade and a wooden handle, used to smooth or level wood surfaces.
+  - Drill: A tool with a rotating bit and a handle, used to make holes in wood or other materials.
+  - Screwdriver: A tool with a metal tip and a handle, used to turn screws or bolts.
+  - Wrench: A tool with a metal head and a handle, used to tighten or loosen nuts or bolts.
+  - Pliers: A tool with two metal jaws and a handle, used to grip, bend, or cut wires or other materials.
+  - Tape measure: A tool with a flexible metal or plastic strip and a case, used to measure length or distance.
+  - Level: A tool with a liquid-filled tube and a bubble, used to check if a surface is horizontal or vertical.
+  - Square: A tool with a metal or plastic ruler and a right angle, used to check or mark angles or corners.
+  - Clamp: A tool with two metal or plastic jaws and a screw, used to hold or secure objects together.
+- Some of the common materials used in a carpentry shop are:
+  - Wood: A natural material obtained from trees, used to make various wooden objects and structures.
+  - Plywood: A manufactured material made of thin layers of wood glued together, used to make flat or curved surfaces.
+  - Particle board: A manufactured material made of wood chips or shavings glued together, used to make cheap or lightweight furniture or panels.
+  - MDF: A manufactured material made of wood fibers and resin, used to make smooth or dense surfaces or shapes.
+  - Hardboard: A manufactured material made of wood fibers and glue, used to make thin or rigid boards or sheets.
+  - OSB: A manufactured material made of wood strands and adhesive, used to make strong or water-resistant panels or sheathing.
+  - Lumber: A term for wood that has been cut and processed into beams, planks, or boards, used to make frames, floors, walls, etc.
+  - Nails: Metal fasteners with a pointed end and a flat head, used to join wood or other materials together.
+  - Screws: Metal fasteners with a threaded end and a slotted head, used to join wood or other materials together.
+  - Bolts: Metal fasteners with a threaded end and a hexagonal head, used to join wood or other materials together with nuts.
+  - Nuts: Metal fasteners with a threaded hole and a hexagonal shape, used to secure bolts or other threaded fasteners.
+  - Washers: Metal or plastic discs with a hole in the center, used to distribute pressure or prevent loosening of fasteners.
+  - Glue: A sticky substance, usually liquid or gel, used to bond wood or other materials together.
+  - Varnish: A clear or colored substance, usually liquid, used to coat wood or other materials to protect or enhance their appearance.
+  - Paint: A colored substance, usually liquid, used to coat wood or other materials to change or improve their appearance.
+  - Stain: A colored substance, usually liquid, used to penetrate wood or other materials to change or enhance their color.

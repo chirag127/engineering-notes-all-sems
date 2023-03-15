@@ -1,0 +1,21 @@
+### Projection of solids like prisms
+
+- A solid is a three-dimensional object that has length, breadth and height.
+- A prism is a solid that has two congruent and parallel faces called bases and the other faces are parallelograms called lateral faces.
+- The projection of a solid is the representation of its shape and size on a plane surface, such as a sheet of paper.
+- The projection of a solid can be done by two methods: orthographic projection and isometric projection.
+- Orthographic projection is a method of drawing the front view, top view and side view of a solid on three mutually perpendicular planes, called the principal planes of projection.
+- Isometric projection is a method of drawing a three-dimensional solid on a plane surface, such that the three axes of the solid are equally inclined to the plane of projection and the scale of the projection is the same along all the axes.
+- To draw the orthographic projection of a prism, the following steps are followed:
+  - Draw the front view of the prism by projecting its base on the vertical plane (VP) and its height on the horizontal plane (HP).
+  - Draw the top view of the prism by projecting its base on the HP and its height on the VP.
+  - Draw the side view of the prism by projecting its base on the profile plane (PP) and its height on the VP.
+  - Mark the dimensions and the axes of the prism on the views.
+- To draw the isometric projection of a prism, the following steps are followed:
+  - Draw an isometric axis, which is a line inclined at 30 degrees to the horizontal line.
+  - Draw three lines perpendicular to the isometric axis, representing the three axes of the prism.
+  - Draw the isometric scale along the isometric axis, which is obtained by dividing the true length by the isometric coefficient (0.816).
+  - Draw the isometric projection of the base of the prism by marking the dimensions on the isometric scale and joining them by parallel lines.
+  - Draw the isometric projection of the height of the prism by marking the dimension on the isometric scale and drawing a line parallel to the isometric axis.
+  - Draw the isometric projection of the lateral faces of the prism by joining the corresponding vertices of the base and the height.
+  - Mark the dimensions and the axes of the prism on the projection.

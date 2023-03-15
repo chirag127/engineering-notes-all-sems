@@ -1,0 +1,29 @@
+### Projection of lines inclined to one plane and both planes
+
+- A line is a geometrical object that has length but no width or thickness.
+- A line can be represented by two points, A and B, that are its extremities.
+- A line can be projected on two reference planes, the horizontal plane (HP) and the vertical plane (VP), that are perpendicular to each other.
+- The projections of a line on the HP and VP are called the top view and the front view, respectively.
+- The projections of a line can be obtained by drawing perpendiculars from the points A and B to the HP and VP.
+- The projections of a line can show the true length, inclination, and traces of the line, depending on its position in space relative to the HP and VP.
+- A line can be parallel, perpendicular, or inclined to one or both of the reference planes.
+- A line is parallel to a plane if it does not intersect or touch the plane.
+- A line is perpendicular to a plane if it forms a right angle with the plane.
+- A line is inclined to a plane if it forms an acute or obtuse angle with the plane.
+- A line can have two traces, the points where it intersects or touches the HP and VP.
+- A line can have no trace, one trace, or two traces, depending on its position in space relative to the HP and VP.
+- A line that is parallel to both the HP and VP has no trace, as it does not intersect or touch either plane.
+- A line that is perpendicular to one plane and parallel to the other has one trace, as it intersects or touches only one plane.
+- A line that is inclined to both the HP and VP has two traces, as it intersects or touches both planes.
+- A line that is inclined to one plane and parallel to the other has one trace, as it intersects or touches only one plane.
+- The true length of a line is the distance between the points A and B.
+- The true length of a line is equal to the length of its projection on a plane that is parallel to the line.
+- The true length of a line is not equal to the length of its projection on a plane that is inclined to the line.
+- The true length of a line can be obtained by rotating the line until it is parallel to one of the reference planes, and then measuring its projection on that plane.
+- The inclination of a line is the angle that it makes with a plane.
+- The inclination of a line can be measured by rotating the line until it is parallel to one of the reference planes, and then measuring the angle between its projection and the plane.
+- The inclination of a line can be different for the HP and VP, depending on its position in space relative to the reference planes.
+- The inclination of a line can be zero, 90 degrees, or any value between zero and 90 degrees, for the HP and VP, depending on its position in space relative to the reference planes.
+- A line that is parallel to a plane has zero inclination with that plane.
+- A line that is perpendicular to a plane has 90 degrees inclination with that plane.
+- A line that is inclined to a plane has an inclination between zero and 90 degrees with that plane.

@@ -1,0 +1,14 @@
+## Unit 3 - Classification of living organisms
+
+1. **Five kingdom classification**: The five kingdom classification system is a method of grouping living organisms into five major categories or kingdoms. These kingdoms are Monera, Protista, Fungi, Plantae, and Animalia. This system was first proposed by Robert Whittaker in 1969 and is based on several criteria, including cellular organization, mode of nutrition, and body organization.
+
+2. **Major groups and principles of classification in each kingdom**:
+    - **Monera**: This kingdom includes all prokaryotic organisms, such as bacteria and cyanobacteria. The classification of organisms in this kingdom is based on their shape, cell wall composition, and mode of nutrition.
+    - **Protista**: This kingdom includes all unicellular eukaryotic organisms, such as protozoa and algae. The classification of organisms in this kingdom is based on their mode of nutrition, locomotion, and reproduction.
+    - **Fungi**: This kingdom includes all multicellular eukaryotic organisms that obtain their food by absorbing nutrients from other organisms. The classification of organisms in this kingdom is based on their mode of reproduction, type of spores produced, and the presence or absence of cross-walls in their hyphae.
+    - **Plantae**: This kingdom includes all multicellular eukaryotic organisms that are autotrophic, meaning they produce their own food through photosynthesis. The classification of organisms in this kingdom is based on their mode of reproduction, type of tissues and organs present, and the presence or absence of vascular tissue.
+    - **Animalia**: This kingdom includes all multicellular eukaryotic organisms that are heterotrophic, meaning they obtain their food by consuming other organisms. The classification of organisms in this kingdom is based on their body symmetry, presence or absence of a backbone, and the type of body covering.
+
+3. **Systematic and binomial system of nomenclature**: Systematics is the study of the diversity of living organisms and their relationships. The binomial system of nomenclature is a method of naming species of living organisms by giving each a two-part scientific name. The first part of the name is the genus, and the second part is the specific epithet. This system was developed by Carl Linnaeus in the 18th century.
+
+4. **Concept of animal and plant classification**: The classification of animals and plants is based on their shared characteristics and evolutionary relationships. This is done by grouping organisms into taxa, such as species, genus, family, order, class, phylum, and kingdom. The classification of animals and plants is an important tool for understanding the diversity of life on Earth.

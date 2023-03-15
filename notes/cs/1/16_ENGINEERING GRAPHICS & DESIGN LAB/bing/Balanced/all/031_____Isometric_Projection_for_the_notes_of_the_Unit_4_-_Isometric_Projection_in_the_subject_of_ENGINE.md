@@ -1,0 +1,25 @@
+# Isometric Projection
+
+- Isometric projection is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings.
+- It is an axonometric projection in which the three coordinate axes appear equally foreshortened and the angle between any two of them is 120 degrees .
+- Isometric projection is intended to combine the illusion of depth with the clarity and accuracy of a plan view.
+- Isometric projection can be used to draw various shapes, such as cubes, prisms, pyramids, cylinders, spheres, etc.
+- Isometric projection can be classified into two methods: isometric scale method and full scale method.
+- Isometric scale method involves reducing the actual dimensions of the object by a certain ratio (usually 0.816) to obtain the isometric dimensions.
+- Full scale method involves drawing the object with its actual dimensions without any reduction.
+- Isometric projection has some advantages and disadvantages over other types of projections, such as:
+  - Advantages:
+    - It preserves the true proportions and angles of the object.
+    - It shows all the three dimensions of the object in one view.
+    - It is easy to draw and understand.
+  - Disadvantages:
+    - It distorts the actual shape and size of the object.
+    - It cannot show hidden details or internal features of the object.
+    - It may not be suitable for complex or irregular objects.
+- Isometric projection is widely used by engineers, technical illustrators, and architects to convey the spatial and structural information of the object .
+- Isometric projection can be drawn by using various tools, such as isometric paper, isometric grid, isometric circle template, compass, protractor, etc.
+- Isometric projection can be drawn by following some steps, such as:
+  - Step 1: Draw the isometric axes (X, Y, and Z) at 120 degrees to each other.
+  - Step 2: Draw the isometric outline of the object by projecting the vertices and edges along the isometric axes.
+  - Step 3: Draw the isometric details of the object by using isometric circles, curves, or angles as required.
+  - Step 4: Erase the unwanted lines and add shading or coloring to enhance the appearance of the object.

@@ -1,0 +1,19 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Engineering Graphics and Design Lab. Here is the content for the topic of Lettering for the notes of the Unit 1 - Introduction to Engineering Drawing and Orthographic Projections:
+
+### Lettering for the notes of the Unit 1 - Introduction to Engineering Drawing and Orthographic Projections
+
+- Lettering is the process of writing or drawing letters, symbols, or numbers on a drawing or a diagram to convey information or instructions.
+- Lettering is an essential part of engineering drawing and orthographic projections, as it helps to identify the dimensions, specifications, materials, and other details of the objects or views represented on the drawing.
+- Lettering should be clear, legible, uniform, and consistent throughout the drawing. It should also follow the standard rules and conventions of engineering drawing and orthographic projections.
+- Some of the general guidelines for lettering are:
+
+  - Use a sharp pencil or a pen of suitable size and color for lettering. Avoid using erasers or correction fluids on lettering.
+  - Use capital letters for lettering, unless otherwise specified. The height of the capital letters should be between 2.5 mm and 7 mm, depending on the scale and size of the drawing.
+  - Use single-stroke or double-stroke letters for lettering, depending on the clarity and visibility required. Single-stroke letters are made with one continuous line, while double-stroke letters are made with two parallel lines.
+  - Use vertical or inclined letters for lettering, depending on the preference and convenience. Vertical letters are written with the vertical strokes perpendicular to the horizontal line, while inclined letters are written with the vertical strokes at an angle of 75 degrees to the horizontal line.
+  - Use horizontal or aligned letters for lettering, depending on the orientation and position of the drawing. Horizontal letters are written parallel to the horizontal line, while aligned letters are written parallel to the inclined or curved line on which they are placed.
+  - Use Gothic or Roman letters for lettering, depending on the style and appearance required. Gothic letters are simple and plain, while Roman letters are more ornamental and decorative.
+  - Use fractions, decimals, or scientific notation for lettering, depending on the accuracy and precision required. Fractions are written with a horizontal line between the numerator and the denominator, decimals are written with a decimal point, and scientific notation is written with a power of 10.
+  - Use symbols, abbreviations, or units for lettering, depending on the type and amount of information required. Symbols are graphical representations of physical quantities, abbreviations are shortened forms of words or phrases, and units are standard measures of physical quantities.
+  - Use spaces, punctuation marks, or brackets for lettering, depending on the clarity and readability required. Spaces are used to separate words or numbers, punctuation marks are used to indicate the end of a sentence or a clause, and brackets are used to enclose additional or optional information.
+  - Use notes, titles, or labels for lettering, depending on the purpose and function of the lettering. Notes are explanatory or descriptive texts that provide additional or supplementary information, titles are descriptive or informative texts that identify the name or the subject of the drawing, and labels are descriptive or informative texts that identify the parts or the features of the drawing.

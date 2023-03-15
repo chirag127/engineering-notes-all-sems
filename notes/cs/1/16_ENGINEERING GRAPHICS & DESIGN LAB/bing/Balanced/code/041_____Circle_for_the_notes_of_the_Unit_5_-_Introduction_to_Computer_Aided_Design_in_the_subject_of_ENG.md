@@ -1,0 +1,14 @@
+### Circle
+
+A circle is a two-dimensional shape that consists of all the points that are equidistant from a fixed point called the center. The distance from the center to any point on the circle is called the radius. The diameter of a circle is the longest chord of the circle and it passes through the center. The diameter is twice the radius. A circle has no corners or edges and it is a closed and curved shape.
+
+Some of the properties of a circle are:
+
+- The circumference of a circle is the perimeter or the boundary of the circle. It is equal to 2πr, where r is the radius and π is a constant that is approximately equal to 3.14.
+- The area of a circle is the region enclosed by the circle. It is equal to πr^2, where r is the radius and π is a constant that is approximately equal to 3.14.
+- The arc of a circle is a part of the circumference of the circle. The length of an arc is proportional to the angle subtended by the arc at the center. The formula for the length of an arc is s = θr, where s is the length of the arc, θ is the angle in radians, and r is the radius.
+- The sector of a circle is a part of the circle that is bounded by two radii and an arc. The area of a sector is proportional to the angle subtended by the sector at the center. The formula for the area of a sector is A = (θ/2) r^2, where A is the area of the sector, θ is the angle in radians, and r is the radius.
+- The segment of a circle is a part of the circle that is bounded by a chord and an arc. The area of a segment is the difference between the area of the sector and the area of the triangle formed by the chord and the radii. The formula for the area of a segment is A = (θ/2) r^2 - (1/2) r^2 sin θ, where A is the area of the segment, θ is the angle in radians, and r is the radius.
+- The tangent of a circle is a line that touches the circle at exactly one point. The point of contact is called the point of tangency. The tangent is perpendicular to the radius at the point of tangency.
+- The chord of a circle is a line segment that joins two points on the circle. The longest chord of a circle is the diameter. The perpendicular bisector of a chord passes through the center of the circle. Equal chords of a circle subtend equal angles at the center.
+- The secant of a circle is a line that intersects the circle at two points. The angle subtended by a secant at the center is twice the angle subtended by the same secant at any point on the circle. The product of the lengths of the two segments of a secant is equal to the product of the lengths of the two segments of another secant that intersects the circle at the same point.

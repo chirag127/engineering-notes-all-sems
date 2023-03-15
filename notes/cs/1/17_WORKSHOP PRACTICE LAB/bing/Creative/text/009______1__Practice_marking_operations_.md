@@ -1,0 +1,26 @@
+#### 1. Practice marking operations.
+
+- Marking operations are the process of applying marks or symbols to a workpiece or a drawing to indicate dimensions, positions, directions, or other information.
+- Marking operations are essential for accurate and efficient machining, fabrication, assembly, inspection, and testing of products or components.
+- Marking operations can be performed manually or automatically, using various tools and methods, such as:
+  - Scribers: sharp-pointed metal tools that can scratch lines or marks on metal surfaces.
+  - Punches: metal tools with a shaped tip that can make indentations or holes on metal surfaces by striking with a hammer.
+  - Chisels: metal tools with a cutting edge that can make grooves or slots on metal surfaces by striking with a hammer.
+  - Dividers: metal tools with two adjustable legs that can measure and mark distances or circles on metal surfaces.
+  - Calipers: metal tools with two movable jaws that can measure and mark diameters or thicknesses on metal surfaces.
+  - Rulers: metal or plastic tools with graduated markings that can measure and mark lengths or angles on metal surfaces.
+  - Squares: metal or plastic tools with right-angled edges that can measure and mark perpendicular or parallel lines on metal surfaces.
+  - Protractors: metal or plastic tools with a semicircular scale that can measure and mark angles on metal surfaces.
+  - Compasses: metal or plastic tools with a pointed leg and a pencil leg that can measure and mark circles or arcs on metal surfaces.
+  - Templates: metal or plastic tools with predefined shapes or patterns that can be used to mark outlines or contours on metal surfaces.
+  - Stamps: metal tools with engraved letters, numbers, or symbols that can be used to mark identification or information on metal surfaces by striking with a hammer.
+  - Markers: pens, pencils, crayons, or paints that can be used to mark lines or marks on metal surfaces.
+  - Lasers: devices that emit a beam of light that can be used to mark lines or marks on metal surfaces by burning or melting.
+  - Printers: devices that use ink, toner, or thermal transfer to print lines or marks on metal surfaces.
+- Marking operations should follow some general guidelines, such as:
+  - Marking should be clear, legible, and consistent.
+  - Marking should be done on clean, dry, and smooth surfaces.
+  - Marking should be done with the appropriate tool and method for the material and the purpose.
+  - Marking should be done with the minimum amount of force and depth to avoid damaging or weakening the workpiece.
+  - Marking should be done with the proper alignment and orientation to ensure accuracy and precision.
+  - Marking should be done with the respect to the safety and environmental regulations and standards.

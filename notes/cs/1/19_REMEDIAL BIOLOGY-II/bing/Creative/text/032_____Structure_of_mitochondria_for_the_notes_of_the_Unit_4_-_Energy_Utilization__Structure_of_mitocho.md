@@ -1,0 +1,9 @@
+### Structure of mitochondria
+
+- Mitochondria are small, rod-shaped organelles found in both plant and animal cells  that are involved in cellular respiration and energy production .
+- Mitochondria have a double membrane structure, consisting of an outer membrane and an inner membrane    . The outer membrane is smooth and surrounds the organelle, while the inner membrane is folded into projections called cristae .
+- The space between the outer and inner membranes is called the intermembrane space, and the space enclosed by the inner membrane is called the matrix   . The matrix contains mitochondrial DNA, ribosomes, enzymes, and other molecules  .
+- The cristae increase the surface area of the inner membrane, which is where the electron transport chain and oxidative phosphorylation take place  . These are the final steps of cellular respiration, which produce most of the ATP from the breakdown of glucose and other organic molecules  .
+- Mitochondria can vary in number, shape, and size depending on the cell type and energy demand  . Cells that require a lot of energy, such as muscle cells, can contain hundreds or thousands of mitochondria. Mitochondria can also fuse and divide to adapt to changing conditions.
+- Mitochondria are believed to have evolved from ancient bacteria that were engulfed by ancestral eukaryotic cells in a process called endosymbiosis . This explains why mitochondria have their own DNA, ribosomes, and membranes that are similar to those of bacteria . Mitochondrial DNA is inherited maternally in most organisms.
+- Mitochondria play important roles in various cellular processes, such as apoptosis (programmed cell death), calcium signaling, heat production, and hormone synthesis. Mitochondrial dysfunction can lead to various diseases, such as diabetes, cancer, neurodegenerative disorders, and aging .

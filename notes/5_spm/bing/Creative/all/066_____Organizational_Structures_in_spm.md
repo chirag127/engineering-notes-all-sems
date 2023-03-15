@@ -1,0 +1,16 @@
+# Organizational Structures in SPM
+
+Organizational structures in SPM (Supplier Relationship Management) are the ways in which the organization arranges its resources and activities to manage its relationships with its suppliers. Organizational structures can affect the efficiency, effectiveness, and alignment of the SPM process with the organization's strategy and objectives. Some of the factors that influence the choice of organizational structure for SPM are:
+
+- The size and complexity of the organization and its supply base
+- The level of centralization or decentralization of decision making and authority
+- The degree of integration and coordination among different functions and business units
+- The maturity and sophistication of the SPM process and tools
+- The culture and values of the organization and its suppliers
+
+Some of the common types of organizational structures for SPM are:
+
+- Functional/Hierarchical: This structure is based on the division of labor and specialization of tasks according to the functions or departments of the organization. Each function or department has its own SPM team or representative that is responsible for managing the relationships with the suppliers in its domain. This structure can facilitate the development of functional expertise and efficiency, but it can also create silos and barriers to cross-functional collaboration and communication. 
+- Matricial: This structure is based on the combination of functional and project-based units. The organization has a matrix of functional and project managers who share the responsibility and authority for managing the relationships with the suppliers. This structure can enhance the flexibility and responsiveness of the organization to changing customer needs and market conditions, but it can also create role ambiguity and conflict among the managers and the SPM teams. 
+- RACI: This structure is based on the definition and assignment of roles and responsibilities for the SPM process using the RACI matrix. The RACI matrix identifies who is Responsible, Accountable, Consulted, and Informed for each SPM activity or decision. This structure can clarify the expectations and accountability of the SPM stakeholders and improve the communication and coordination among them, but it can also require a high level of commitment and trust among the parties involved. 
+- Agile: This structure is based on the adoption of agile principles and practices for the SPM process. The organization has self-organizing and cross-functional SPM teams that work in short and iterative cycles to deliver value to the customers and the suppliers. The SPM teams collaborate with the suppliers and the internal customers to identify and prioritize the SPM goals and actions, and they use feedback and data to monitor and improve their performance. This structure can foster the innovation and adaptation of the organization to the dynamic and complex supply environment, but it can also challenge the traditional and hierarchical culture and governance of the organization.

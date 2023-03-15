@@ -1,0 +1,28 @@
+### Root
+
+- The root is the descending portion of the plant axis that is usually underground.
+- The root system consists of the primary root and its lateral branches.
+- The root has four main functions:
+  - Absorption of water and minerals from the soil
+  - Providing a proper anchorage to the plant parts
+  - Storing reserve food material
+  - Synthesis of plant growth regulators
+- The root has three main regions:
+  - The root cap: a protective structure that covers the root tip and secretes mucilage
+  - The root meristem: a region of active cell division that produces new root cells
+  - The root zone: a region of differentiation and maturation of root cells into various tissues
+- The root has a radial arrangement of tissues:
+  - The epidermis: the outermost layer of cells that protects the root and absorbs water and minerals
+  - The cortex: a layer of parenchyma cells that stores food and conducts water and minerals
+  - The endodermis: a layer of cells that surrounds the vascular tissue and regulates the movement of water and minerals
+  - The pericycle: a layer of cells that gives rise to lateral roots and vascular cambium
+  - The vascular tissue: a central cylinder of xylem and phloem that transports water and minerals and food
+- The root has two types of root systems:
+  - The taproot system: a single main root that grows vertically downward and produces lateral branches
+  - The fibrous root system: a cluster of adventitious roots that arise from the stem or leaves and spread horizontally
+- The root has different modifications for various functions:
+  - The storage roots: roots that store food in the form of starch, such as carrot, radish, sweet potato, etc.
+  - The prop roots: roots that arise from the stem and provide support to the plant, such as maize, sugarcane, banyan, etc.
+  - The pneumatophores: roots that grow upward from the soil and facilitate gas exchange, such as mangroves, etc.
+  - The parasitic roots: roots that penetrate the host plant and absorb nutrients from it, such as mistletoe, dodder, etc.
+  - The epiphytic roots: roots that grow on the surface of other plants and absorb moisture from the air, such as orchids, etc.

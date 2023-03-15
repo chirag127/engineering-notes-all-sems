@@ -1,0 +1,28 @@
+## Unit 2 - Projection of Planes and Solids
+
+- A plane is a flat, two-dimensional surface that extends infinitely in all directions.
+- A solid is a three-dimensional object that has length, width and height.
+- Projection is a method of representing a plane or a solid on a two-dimensional plane, such as a sheet of paper.
+- Projection can be done in different ways, such as orthographic, isometric, oblique, perspective, etc.
+- Orthographic projection is a method of projecting a plane or a solid on two or more perpendicular planes, called the principal planes of projection.
+- The principal planes of projection are the horizontal plane (HP), the vertical plane (VP) and the profile plane (PP).
+- The line of intersection of the HP and the VP is called the reference line (RL) or the ground line (GL).
+- The line of intersection of the VP and the PP is called the profile line (PL).
+- The line of intersection of the HP and the PP is called the auxiliary line (AL).
+- The plane or the solid is assumed to be in the first quadrant, which is the space above the HP, in front of the VP and to the right of the PP.
+- The projections of the plane or the solid on the HP, the VP and the PP are called the top view, the front view and the side view, respectively.
+- The top view, the front view and the side view are shown on a single plane, called the plane of projection, by rotating the HP, the VP and the PP about the RL, the PL and the AL, respectively.
+- The plane of projection is divided into four quadrants by the RL and the PL, called the first angle projection and the third angle projection.
+- In the first angle projection, the top view is below the RL, the front view is to the left of the PL and the side view is to the right of the PL.
+- In the third angle projection, the top view is above the RL, the front view is to the right of the PL and the side view is to the left of the PL.
+- The first angle projection is used in Europe and Asia, while the third angle projection is used in North America and Australia.
+- The projection of a plane depends on its position and orientation with respect to the principal planes of projection.
+- A plane can be parallel, perpendicular or inclined to one or more principal planes of projection.
+- A plane can also be oblique, which means that it is neither parallel nor perpendicular to any principal plane of projection.
+- The projection of a solid depends on its shape, size, position and orientation with respect to the principal planes of projection.
+- A solid can be a prism, a pyramid, a cylinder, a cone, a sphere, etc.
+- A solid can also be a combination of two or more simple solids, called a composite solid.
+- A solid can be parallel, perpendicular or inclined to one or more principal planes of projection.
+- A solid can also be oblique, which means that it is neither parallel nor perpendicular to any principal plane of projection.
+- The projection of a plane or a solid can be done by using different methods, such as the first angle method, the third angle method, the auxiliary plane method, the auxiliary view method, the sectional view method, etc.
+- The projection of a plane or a solid can be used for various purposes, such as engineering drawing, architectural drawing, design, analysis, etc.

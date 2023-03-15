@@ -1,0 +1,22 @@
+### Conversion of Isometric Views to Orthographic Views and Vice-Versa in AutoCAD
+
+- Isometric views are 2D drawings that represent 3D objects with three axes (x, y, and z) at 120 degrees to each other.
+- Orthographic views are 2D drawings that show the front, top, and side views of a 3D object with parallel projection.
+- To convert an isometric view to an orthographic view in AutoCAD, you can use the following steps:
+  - Switch to the desired isoplane (top, right, or left) by using the Isoplane command or the Isodraft icon on the Status Bar.
+  - Draw the isometric view of the object using the Line, Circle, Ellipse, and other commands.
+  - Switch to the World UCS by using the UCS command or the UCS icon on the Status Bar.
+  - Use the Flatshot command to create a 2D representation of the 3D object on the XY plane.
+  - Use the Move, Rotate, and Scale commands to adjust the position, orientation, and size of the 2D representation.
+  - Use the Layout and Viewport commands to create and activate a layout tab and a viewport.
+  - Use the Mview command to set the viewport scale and the view direction (front, top, or side).
+  - Use the Plot command to print the orthographic view of the object.
+- To convert an orthographic view to an isometric view in AutoCAD, you can use the following steps:
+  - Switch to the desired isoplane (top, right, or left) by using the Isoplane command or the Isodraft icon on the Status Bar.
+  - Use the Snap command to set the snap mode to Isometric Snap.
+  - Use the Line, Circle, Ellipse, and other commands to draw the orthographic view of the object on the XY plane.
+  - Use the Align command to align the orthographic view with the isometric axes.
+  - Use the Move, Rotate, and Scale commands to adjust the position, orientation, and size of the isometric view.
+  - Use the Layout and Viewport commands to create and activate a layout tab and a viewport.
+  - Use the Mview command to set the viewport scale and the view direction (isometric).
+  - Use the Plot command to print the isometric view of the object.

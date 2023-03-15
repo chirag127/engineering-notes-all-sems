@@ -1,0 +1,24 @@
+# Unit 3 - Catabolic & anabolic reactions: enzymes, energy production and carbohydrate metabolism. Lipid & protein catabolism, Energy production mechanism, metabolic diversity & pathways of energy use. Integration of metabolism
+
+- Catabolic and anabolic reactions are two types of metabolic reactions that occur in living cells.
+- Catabolic reactions break down complex molecules into simpler ones, releasing energy and reducing power    .
+- Anabolic reactions use energy and reducing power to build complex molecules from simpler ones    .
+- Catabolic and anabolic reactions are often coupled, with the energy and reducing power released from catabolism being used to drive anabolism .
+- Enzymes are biological catalysts that speed up the rate of metabolic reactions by lowering the activation energy .
+- Enzymes are highly specific for their substrates and can be regulated by various factors, such as temperature, pH, inhibitors, activators, and feedback mechanisms .
+- Energy production is the process of converting the chemical energy stored in fuel molecules (such as glucose, fatty acids, and amino acids) into a more usable form, such as adenosine triphosphate (ATP) .
+- Energy production involves three main stages: glycolysis, the citric acid cycle, and oxidative phosphorylation .
+- Glycolysis is the breakdown of glucose into two molecules of pyruvate, generating two molecules of ATP and two molecules of NADH (a reducing agent) per glucose molecule .
+- The citric acid cycle is a series of reactions that oxidize acetyl-CoA (derived from pyruvate or fatty acids) into carbon dioxide, generating two molecules of ATP, six molecules of NADH, and two molecules of FADH2 (another reducing agent) per acetyl-CoA molecule .
+- Oxidative phosphorylation is the process of transferring the electrons from NADH and FADH2 to oxygen, forming water and generating a proton gradient across the inner mitochondrial membrane. This proton gradient drives the synthesis of ATP by the enzyme ATP synthase .
+- Carbohydrate metabolism is the set of metabolic pathways that involve the synthesis and degradation of carbohydrates, such as sugars, starch, glycogen, and cellulose.
+- Carbohydrate metabolism includes glycolysis, gluconeogenesis, glycogenesis, glycogenolysis, pentose phosphate pathway, and glyoxylate cycle.
+- Gluconeogenesis is the synthesis of glucose from non-carbohydrate precursors, such as lactate, pyruvate, glycerol, and amino acids.
+- Glycogenesis is the synthesis of glycogen from glucose, which is stored in the liver and muscles as a reserve of energy.
+- Glycogenolysis is the breakdown of glycogen into glucose, which is released into the bloodstream to maintain blood glucose levels.
+- Pentose phosphate pathway is a branch of carbohydrate metabolism that generates pentose sugars (such as ribose) for nucleic acid synthesis and NADPH for biosynthesis and detoxification.
+- Glyoxylate cycle is a variation of the citric acid cycle that occurs in some plants and bacteria, which allows them to convert acetyl-CoA into carbohydrates.
+- Lipid catabolism is the breakdown of lipids (such as triglycerides, phospholipids, and cholesterol) into smaller molecules, such as glycerol, fatty acids, and cholesterol derivatives .
+- Lipid catabolism includes lipolysis, beta-oxidation, ketogenesis, and cholesterol metabolism .
+- Lipolysis is the hydrolysis of triglycerides into glycerol and fatty acids, which can be used for energy production or biosynthesis .
+- Beta-oxidation is the sequential removal of two-carbon units from the end of a fatty acid chain, forming acetyl-CoA, NADH, and FADH2, which can

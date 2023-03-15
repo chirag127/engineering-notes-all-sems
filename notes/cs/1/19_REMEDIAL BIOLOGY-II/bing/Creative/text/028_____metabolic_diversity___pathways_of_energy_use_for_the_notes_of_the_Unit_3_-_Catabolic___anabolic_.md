@@ -1,0 +1,12 @@
+### Metabolic Diversity and Pathways of Energy Use
+
+- Metabolic diversity mainly refers to the different metabolic strategies that organisms have evolved to obtain energy.
+- Metabolic pathways are series of connected chemical reactions that feed one another and convert starting molecules into products.
+- Metabolic pathways can be broadly divided into two categories based on their effects: catabolic pathways and anabolic pathways.
+- Catabolic pathways are those that break down complex molecules into simpler ones and release energy, such as glycolysis, lipid catabolism and protein catabolism .
+- Anabolic pathways are those that synthesize complex molecules from simpler ones and consume energy, such as photosynthesis, gluconeogenesis and protein synthesis .
+- The energy released or consumed by metabolic pathways is often stored or transferred by a molecule called adenosine triphosphate (ATP), which is the universal energy currency of cells .
+- The energy production mechanism of cells depends on the availability of oxygen and the type of metabolic pathway. There are two main types of energy production mechanisms: aerobic respiration and anaerobic respiration .
+- Aerobic respiration is the process of breaking down glucose (or other organic molecules) in the presence of oxygen to produce carbon dioxide, water and ATP. It involves three major stages: glycolysis, the citric acid cycle and the electron transport chain .
+- Anaerobic respiration is the process of breaking down glucose (or other organic molecules) in the absence of oxygen to produce ATP and other products, such as lactic acid or ethanol. It involves only glycolysis and a fermentation step .
+- Different organisms have different metabolic pathways and energy production mechanisms depending on their environment, evolutionary history and nutritional needs. For example, plants use photosynthesis to capture sunlight and convert it into chemical energy, while animals use cellular respiration to extract energy from food. Some bacteria can use inorganic molecules, such as hydrogen sulfide or nitrate, as electron donors or acceptors for energy production, while others can switch between aerobic and anaerobic respiration depending on oxygen availability. These are some examples of the metabolic diversity and pathways of energy use among living things.

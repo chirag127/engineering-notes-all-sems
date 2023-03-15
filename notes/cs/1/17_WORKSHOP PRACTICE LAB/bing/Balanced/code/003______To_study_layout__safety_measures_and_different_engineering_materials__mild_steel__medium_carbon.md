@@ -1,0 +1,24 @@
+#### To study layout, safety measures and different engineering materials (mild steel, medium carbon steel, high carbon steel, high speed steel and cast iron etc) used in workshop.
+
+- Workshop layout is the arrangement of the machinery and equipment in a workshop that gives optimal working conditions and efficiency.
+- There are three basic types of workshop layout: process layout, product layout, and fixed-position layout. A combination of these layouts may also be used.
+- Process layout groups the machines and equipment according to their functions, such as cutting, drilling, welding, etc. This layout is suitable for workshops that produce a variety of products or perform different operations.
+- Product layout arranges the machines and equipment in a sequence that follows the production process, such as assembly line. This layout is suitable for workshops that produce large quantities of standardized products or perform repetitive operations.
+- Fixed-position layout keeps the product in one place and brings the machines and equipment to it. This layout is suitable for workshops that produce large, bulky, or complex products that are difficult to move.
+- Safety measures are the rules and precautions that must be followed in a workshop to prevent accidents, injuries, and damages. Some of the general safety measures are  :
+  - Wear appropriate personal protective equipment (PPE), such as safety glasses, gloves, shoes, helmets, etc.
+  - Do not wear loose, baggy, or dangling clothing, jewelry, or hair that may get caught in the machines or equipment.
+  - Keep the workshop clean, tidy, and well-ventilated. Remove any flammable, explosive, or hazardous materials from the workshop.
+  - Use the right tools and machines for the job and follow the manufacturer's instructions. Do not operate any machines or equipment that you are not trained or authorized to use.
+  - Check the machines and equipment for any defects or damages before and after use. Report any faults or malfunctions to the supervisor or technician.
+  - Do not leave the machines or equipment running unattended or without proper guarding. Turn off and disconnect the power supply when not in use or when making adjustments or repairs.
+  - Do not touch any moving parts or hot surfaces of the machines or equipment. Use the appropriate handles, knobs, or switches to operate them.
+  - Do not overload, overheat, or over-speed the machines or equipment. Use the correct speed, feed, and depth of cut for the material and operation.
+  - Do not force or hammer the tools or workpieces into the machines or equipment. Use the appropriate clamps, vices, or fixtures to hold them securely.
+  - Do not distract or interfere with anyone who is working on the machines or equipment. Keep a safe distance and watch out for flying chips, sparks, or debris.
+- Engineering materials are the substances that are used to make or modify the machines, equipment, or products in a workshop. Some of the common engineering materials are:
+  - Mild steel: a low-carbon steel that is easy to cut, weld, and form. It has good strength, ductility, and toughness, but low hardness and wear resistance. It is used for making structural components, pipes, bolts, nuts, etc.
+  - Medium carbon steel: a steel that has more carbon than mild steel, but less than high carbon steel. It has higher strength, hardness, and wear resistance than mild steel, but lower ductility and toughness. It is used for making gears, shafts, axles, springs, etc.
+  - High carbon steel: a steel that has a high amount of carbon, usually more than 0.6%. It has very high strength, hardness, and wear resistance, but low ductility and toughness. It is used for making cutting tools, knives, blades, etc.
+  - High speed steel: a steel that has alloying elements such as tungsten, molybdenum, cobalt, or vanadium. It has very high hardness, wear resistance, and heat resistance, and can retain its cutting edge even at high temperatures. It is used for making drills, taps, dies, milling cutters, etc.
+  - Cast iron: a iron that has a high amount of carbon, usually more than 2%. It has high compressive strength, hardness, and wear resistance, but low tensile strength, ductility, and toughness. It is used for making engine blocks, cylinder heads, pistons, etc.

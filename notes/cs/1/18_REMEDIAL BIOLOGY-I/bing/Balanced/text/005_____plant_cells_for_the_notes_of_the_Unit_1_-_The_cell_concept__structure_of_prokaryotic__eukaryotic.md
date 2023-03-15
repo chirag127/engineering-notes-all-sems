@@ -1,0 +1,13 @@
+### Plant Cells
+
+Plant cells are the basic units of life in green plants, photosynthetic eukaryotes of the kingdom Plantae. They have some distinctive features that differentiate them from animal cells and other types of eukaryotic cells. Here are some of the main characteristics of plant cells:
+
+- Plant cells have a **cell wall** surrounding the cell membrane. The cell wall is made of cellulose, hemicelluloses, and pectin, and provides structural support, protection, and shape to the cell. The cell wall also allows the plant cell to withstand high internal pressure due to water uptake by osmosis. The cell wall has pores called plasmodesmata that allow the exchange of substances and signals between adjacent cells .
+- Plant cells have **chloroplasts**, specialized organelles that contain the green pigment chlorophyll and are the site of photosynthesis. Photosynthesis is the process by which plants convert light energy into chemical energy, producing organic molecules such as glucose and oxygen. Chloroplasts have a double membrane and their own circular DNA, and they can divide independently of the cell .
+- Plant cells have a large **central vacuole**, a water-filled sac enclosed by a membrane called the tonoplast. The central vacuole occupies most of the cell volume and serves various functions, such as storing nutrients, waste products, pigments, and toxins, maintaining the cell's turgor pressure, and regulating the cell's pH. The central vacuole can also contain enzymes that break down macromolecules or foreign substances .
+- Plant cells have other common organelles that are also found in animal cells, such as the nucleus, the endoplasmic reticulum, the Golgi apparatus, the mitochondria, the ribosomes, the cytoskeleton, and the plasma membrane. These organelles perform essential roles in the cell's metabolism, gene expression, protein synthesis, energy production, and transport of molecules .
+- Plant cells have some specialized cell-to-cell communication mechanisms that allow them to coordinate their activities and respond to environmental stimuli. For example, plant cells can use hormones, electrical signals, calcium waves, or reactive oxygen species to transmit information across the cell wall or the plasmodesmata. Plant cells can also sense and react to light, gravity, temperature, water, and pathogens through various receptors and signaling pathways .
+
+: https://www.britannica.com/science/plant-cell
+: https://en.wikipedia.org/wiki/Plant_cell
+: https://biologydictionary.net/plant-cell/

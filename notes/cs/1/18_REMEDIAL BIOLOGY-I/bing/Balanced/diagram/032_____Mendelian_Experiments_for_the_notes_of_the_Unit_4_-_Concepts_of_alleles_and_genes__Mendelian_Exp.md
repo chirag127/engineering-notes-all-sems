@@ -1,0 +1,15 @@
+### Mendelian Experiments
+
+- Mendelian experiments are the studies of inheritance patterns in pea plants conducted by Gregor Mendel, a monk and a scientist, in the 19th century  .
+- Mendel chose pea plants because they had distinct and easily observable traits, such as flower color, seed shape, and plant height, and they could be easily cross-pollinated by transferring pollen from one plant to another .
+- Mendel selected seven traits and crossed pure-breeding plants with contrasting forms of each trait, such as purple and white flowers, round and wrinkled seeds, and tall and dwarf plants  .
+- Mendel observed the offspring of these crosses, called the first filial generation (F1), and found that they all showed only one form of each trait, the dominant one, such as purple flowers, round seeds, and tall plants  .
+- Mendel then self-pollinated the F1 plants and observed the offspring of this cross, called the second filial generation (F2), and found that they showed both forms of each trait, the dominant and the recessive one, such as purple and white flowers, round and wrinkled seeds, and tall and dwarf plants  .
+- Mendel counted the number of F2 plants with each form of each trait and found that they followed a consistent ratio of 3:1, meaning that three-fourths of the plants showed the dominant trait and one-fourth showed the recessive trait  .
+- Mendel also performed reciprocal crosses, in which he transferred pollen from a plant with one trait to fertilize the ova of a plant with another trait and vice versa, and found that the results were the same regardless of which gamete contributed the trait.
+- Mendel also performed dihybrid crosses, in which he crossed plants that differed in two traits, such as seed shape and seed color, and found that the traits were inherited independently of each other, following a ratio of 9:3:3:1 in the F2 generation  .
+- Mendel's experiments led him to propose three laws of inheritance: the law of segregation, the law of independent assortment, and the law of dominance   .
+- The law of segregation states that each individual has two factors (now called alleles) for each trait, one inherited from each parent, and that these factors separate during gamete formation, so that each gamete carries only one factor for each trait   .
+- The law of independent assortment states that the factors for different traits are distributed to gametes independently of each other, meaning that the inheritance of one trait does not affect the inheritance of another trait   .
+- The law of dominance states that when two different factors (alleles) for a trait are present in an individual, one of them (the dominant allele) masks the expression of the other (the recessive allele), meaning that only the dominant trait is visible in the individual   .
+- Mendel's experiments and laws are the basis of modern genetics and provide a simple and elegant explanation of how traits are inherited from one generation to the next    .

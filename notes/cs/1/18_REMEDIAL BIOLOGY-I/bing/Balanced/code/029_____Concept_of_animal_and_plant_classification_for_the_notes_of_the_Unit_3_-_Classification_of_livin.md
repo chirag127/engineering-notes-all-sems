@@ -1,0 +1,22 @@
+### Concept of animal and plant classification
+
+- Biological classification is the scientific process of grouping living organisms into categories based on their similarities and differences.
+- Classification helps to organize the diversity of life and to understand the evolutionary relationships among different groups of organisms.
+- The most widely used system of classification is the Linnaean taxonomy, which was developed by the Swedish botanist Carl Linnaeus in the 18th century.
+- Linnaeus classified all living organisms into two kingdoms – Plantae (plants) and Animalia (animals) – based on their morphology and anatomy.
+- He also introduced the binomial system of nomenclature, which assigns a two-part scientific name to each species, consisting of the genus name and the species name.
+- For example, the scientific name of human is Homo sapiens, where Homo is the genus and sapiens is the species.
+- Linnaeus also divided each kingdom into smaller groups called classes, orders, families, genera and species, based on the degree of similarity among the members of each group.
+- This hierarchical system of classification is also known as the biological rank or taxonomic rank.
+- The higher the rank, the more general the characteristics shared by the members of the group; the lower the rank, the more specific the characteristics shared by the members of the group.
+- For example, the class Mammalia (mammals) includes all animals that have hair and produce milk, while the order Primates includes only those mammals that have opposable thumbs and large brains.
+- The modern system of classification has expanded the Linnaean taxonomy to include five kingdoms – Monera, Protista, Fungi, Plantae and Animalia – based on the differences in cell structure, mode of nutrition and reproduction.
+- This system was proposed by the American ecologist Robert Whittaker in 1969 and is also known as the five kingdom classification.
+- The kingdom Monera includes all the prokaryotic organisms, such as bacteria and cyanobacteria, that lack a true nucleus and membrane-bound organelles in their cells.
+- The kingdom Protista includes all the eukaryotic organisms, such as algae, protozoa and slime molds, that are unicellular or colonial and do not fit into any other kingdom.
+- The kingdom Fungi includes all the eukaryotic organisms, such as mushrooms, molds and yeasts, that are heterotrophic and decompose organic matter.
+- The kingdom Plantae includes all the eukaryotic organisms, such as mosses, ferns and flowering plants, that are autotrophic and produce their own food by photosynthesis.
+- The kingdom Animalia includes all the eukaryotic organisms, such as sponges, worms and vertebrates, that are heterotrophic and ingest their food.
+- The five kingdom classification is not the final word on the diversity of life, as new discoveries and advances in molecular biology have revealed more complex and diverse forms of life that do not fit into the existing categories.
+- For example, some organisms, such as archaea and viruses, are not included in any of the five kingdoms, and some groups, such as fungi and animals, are more closely related than previously thought.
+- Therefore, scientists are constantly revising and updating the system of classification to reflect the current understanding of the evolutionary history and phylogeny of living organisms.

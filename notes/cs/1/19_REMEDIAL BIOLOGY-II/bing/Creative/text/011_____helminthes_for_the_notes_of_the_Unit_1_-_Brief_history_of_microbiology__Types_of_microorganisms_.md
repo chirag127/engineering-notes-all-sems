@@ -1,0 +1,16 @@
+### Helminthes
+- Helminthes are **parasitic worms** that infect various hosts, such as humans, animals, and plants .
+- Helminthes can be classified into two major groups: **flatworms** (platyhelminths) and **roundworms** (nematodes) .
+- Flatworms have a **flat** and **leaf-like** body shape, and include **flukes** and **tapeworms** .
+- Flukes are **trematodes** that have a **sucker** at one or both ends of their body, and infect the **blood**, **liver**, **lungs**, or **intestines** of their hosts.
+- Tapeworms are **cestodes** that have a **scolex** (head) with **hooks** and **suckers**, and a **strobila** (body) composed of **proglottids** (segments) that contain **eggs**. Tapeworms infect the **intestines** of their hosts and can cause **malnutrition**, **abdominal pain**, and **cysticercosis**.
+- Roundworms have a **cylindrical** and **thread-like** body shape, and include **ascarids**, **hookworms**, **pinworms**, **filarias**, and **trichinellas** .
+- Ascarids are **large** and **whitish** worms that infect the **intestines** of their hosts and can cause **intestinal obstruction**, **malabsorption**, and **pneumonia**.
+- Hookworms are **small** and **reddish-brown** worms that have **hook-like** mouthparts that attach to the **intestinal wall** of their hosts and suck **blood**. Hookworms can cause **anemia**, **diarrhea**, and **malnutrition**.
+- Pinworms are **tiny** and **white** worms that infect the **colon** and **rectum** of their hosts and cause **itching** and **irritation** around the **anus**.
+- Filarias are **thin** and **hair-like** worms that infect the **lymphatic system** or **subcutaneous tissues** of their hosts and cause **lymphedema**, **elephantiasis**, and **river blindness**.
+- Trichinellas are **microscopic** and **coiled** worms that infect the **muscles** of their hosts and cause **fever**, **muscle pain**, and **inflammation**.
+- Helminthes have different **life cycles** depending on their species, but they generally involve one or more **intermediate hosts** and a **definitive host**.
+- Helminthes can be detected by **microscopic examination** of **stool**, **blood**, **urine**, or **tissue** samples, or by **immunological tests**.
+- Helminthes can be treated by **antihelminthic drugs** that target their **metabolism**, **nervous system**, or **reproduction**.
+- Helminthes can be prevented by **improving sanitation**, **wearing protective clothing**, **cooking food properly**, and **avoiding contact** with infected hosts.

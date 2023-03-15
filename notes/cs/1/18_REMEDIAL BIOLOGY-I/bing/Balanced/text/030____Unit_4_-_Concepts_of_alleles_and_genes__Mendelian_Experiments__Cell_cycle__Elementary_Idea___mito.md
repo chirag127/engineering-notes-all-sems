@@ -1,0 +1,33 @@
+## Unit 4 - Concepts of alleles and genes, Mendelian Experiments, Cell cycle (Elementary Idea), mitosis and meiosis, techniques to study mitosis and meiosis. Origin of life, evidences for biological evolution, Mechanism of evolution −Variation (Mutation and Recombination), Natural Selection with examples, Types of natural selection
+
+- Concepts of alleles and genes
+  - Genes are chunks of DNA that contribute to particular traits or functions by coding for proteins that influence physiology .
+  - Alleles are different versions of a gene, which vary according to the nucleotide base present at a particular genome location .
+  - An individual's combination of alleles is known as their genotype .
+  - In sexually reproducing organisms, each parent gives an allele for each gene, giving the offspring two alleles per gene.
+  - Alleles can be dominant or recessive, meaning that they can mask or be masked by the other allele in a pair.
+  - The expression of alleles in the phenotype (the observable traits or functions) depends on the mode of inheritance, which can be complete dominance, incomplete dominance, codominance, multiple alleles, or sex-linked.
+- Mendelian Experiments
+  - Mendelian experiments were conducted by Gregor Mendel, a 19th century monk and scientist, who studied the inheritance of traits in pea plants.
+  - Mendel crossed purebred plants with different traits, such as flower color, seed shape, and pod color, and observed the patterns of inheritance in the offspring.
+  - Mendel discovered the principles of segregation, independent assortment, and dominance, which form the basis of classical genetics.
+  - Segregation states that each parent has two alleles for each gene, and that these alleles separate during gamete formation, so that each gamete carries only one allele for each gene.
+  - Independent assortment states that the alleles of different genes are sorted independently of each other during gamete formation, resulting in various combinations of alleles in the offspring.
+  - Dominance states that some alleles are dominant over others, and that the dominant allele determines the phenotype of the organism, regardless of the other allele.
+- Cell cycle (Elementary Idea)
+  - The cell cycle is the series of events that take place in a cell, leading to its division and duplication.
+  - The cell cycle consists of four phases: G1, S, G2, and M.
+  - G1 is the first gap phase, where the cell grows and performs its normal functions.
+  - S is the synthesis phase, where the cell replicates its DNA and prepares for division.
+  - G2 is the second gap phase, where the cell checks for errors in the DNA and makes any necessary repairs.
+  - M is the mitotic phase, where the cell divides into two daughter cells, each with the same number and type of chromosomes as the parent cell.
+- Mitosis and meiosis
+  - Mitosis and meiosis are two types of cell division that occur in eukaryotic cells.
+  - Mitosis is the process of dividing a somatic cell (a body cell) into two identical daughter cells, each with the same number and type of chromosomes as the parent cell.
+  - Mitosis consists of four stages: prophase, metaphase, anaphase, and telophase.
+  - Prophase is the stage where the chromosomes condense and become visible, the nuclear envelope breaks down, and the spindle fibers form.
+  - Metaphase is the stage where the chromosomes align at the equator of the cell, and the spindle fibers attach to the centromeres of the chromosomes.
+  - Anaphase is the stage where the sister chromatids separate and move to opposite poles of the cell, pulled by the spindle fibers.
+  - Telophase is the stage where the chromosomes reach the poles and decondense, the nuclear envelope reforms, and the spindle fibers disappear.
+  - Meiosis is the process of dividing a germ cell (a reproductive cell) into four haploid daughter cells, each with half the number of chromosomes as the parent cell.
+  - Meiosis consists of two rounds of division: meiosis I and meiosis II.

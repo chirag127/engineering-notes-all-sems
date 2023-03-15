@@ -1,0 +1,26 @@
+### Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Computer Aided Design (CAD) is the use of computer software to create, modify, analyze, and optimize a design.
+- CAD is widely used in engineering, architecture, art, and other fields that require precision and creativity.
+- CAD software can help engineers and designers to:
+  - Visualize and simulate their designs in 2D or 3D before manufacturing or construction.
+  - Communicate and document their design specifications and requirements.
+  - Perform calculations and analysis to optimize their design performance, quality, and cost.
+  - Generate instructions for fabrication, assembly, and testing of their products or systems.
+- Some examples of CAD software are AutoCAD, SolidWorks, CATIA, SketchUp, and Onshape  .
+- Engineering Graphics is the language of engineering that uses graphical representations to communicate design ideas and information.
+- Engineering Graphics can be divided into two types: manual and computer-aided.
+  - Manual Engineering Graphics involves the use of drawing instruments, paper, and templates to create sketches and drawings by hand.
+  - Computer-Aided Engineering Graphics involves the use of CAD software to create digital models and drawings on a computer screen.
+- Engineering Graphics and CAD are essential skills for engineers and designers to:
+  - Express their creativity and innovation in a clear and concise manner.
+  - Collaborate and share their design ideas and solutions with others.
+  - Follow the standards and conventions of engineering drawing and documentation.
+  - Understand and interpret the design intent and specifications of others.
+- Some topics covered in Engineering Graphics and CAD are:
+  - Geometric construction, sketching, and dimensioning .
+  - Orthographic projection, isometric, sectional, and detailed views .
+  - Geometric dimensioning and tolerancing (GD&T) .
+  - Engineering drawings and assemblies .
+  - 3D solid modeling and rendering .
+  - Computer graphics and art.

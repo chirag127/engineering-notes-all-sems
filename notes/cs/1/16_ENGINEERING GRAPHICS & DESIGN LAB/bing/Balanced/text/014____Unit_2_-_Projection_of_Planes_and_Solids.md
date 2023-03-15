@@ -1,0 +1,21 @@
+## Unit 2 - Projection of Planes and Solids
+
+- A plane is a two dimensional object having length and breadth only. Its thickness is always neglected. Various shapes of plane figures are considered such as square, rectangle, circle, pentagon, hexagon, etc.
+- A solid is a three dimensional object having length, breadth and thickness. It is completely bounded by a surface or surfaces, which may be curved or plane. The shape of a solid is described orthographically by drawing its two orthographic projections, usually, on the two principal planes of projection i.e., HP and VP.
+- A plane of projection (i.e., an image or picture plane) is an imaginary flat plane upon which the image is projected. The projection is produced by connecting the points where the lines of sight pierce the projection plane.
+- The projection of a plane or a solid depends on its position and orientation with respect to the planes of projection. There are three possible positions of a plane or a solid: perpendicular, parallel, or inclined to the planes of projection.
+- When a plane or a solid is perpendicular to a plane of projection, its projection shows the true shape and size of the plane or the base of the solid. When a plane or a solid is parallel to a plane of projection, its projection shows the true length of the plane or the axis of the solid. When a plane or a solid is inclined to a plane of projection, its projection shows the foreshortened shape or length of the plane or the solid.
+- The projection of a plane or a solid can be classified into two types: first angle projection and third angle projection. In first angle projection, the object is placed in the first quadrant, i.e., between the observer and the planes of projection. In third angle projection, the object is placed in the third quadrant, i.e., behind the planes of projection. The difference between the two types of projection is the direction of viewing and the relative positions of the views.
+- The projection of a plane or a solid can be further classified into four categories: simple position, change of position, change of reference line, and section of solids. In simple position, the plane or the solid is placed in such a way that its surface or axis is either parallel or perpendicular to one or both the planes of projection. In change of position, the plane or the solid is rotated about one or both the axes to obtain different views. In change of reference line, the plane or the solid is placed in such a way that its surface or axis is inclined to both the planes of projection. In section of solids, the plane or the solid is cut by a cutting plane to expose its internal features .
+- The projection of a plane or a solid can be drawn by using the following steps: 
+  - Draw the reference lines, i.e., the XY line and the axes of projection.
+  - Draw the front view and the top view of the plane or the solid in the appropriate quadrant according to the type of projection.
+  - Project the points from the front view to the top view or vice versa, depending on the position and orientation of the plane or the solid.
+  - Join the projected points to form the outline of the plane or the solid in each view.
+  - Mark the dimensions and the hidden lines, if any, in each view.
+  - Label the views and the reference lines.
+- The projection of a plane or a solid can be verified by using the following checks:
+  - The distance between the front view and the XY line should be equal to the distance between the top view and the XY line.
+  - The length of the projection of a line should be equal to the true length of the line multiplied by the cosine of the angle of inclination of the line to the plane of projection.
+  - The area of the projection of a plane should be equal to the area of the true shape of the plane multiplied by the cosine of the angle of inclination of the plane to the plane of projection.
+  - The volume of the projection of a solid should be equal to the volume of the true shape of the solid.

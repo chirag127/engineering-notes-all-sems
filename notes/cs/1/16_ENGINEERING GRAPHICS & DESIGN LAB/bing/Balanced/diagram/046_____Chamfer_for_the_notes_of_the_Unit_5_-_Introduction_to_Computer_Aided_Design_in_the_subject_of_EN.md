@@ -1,0 +1,11 @@
+### Chamfer
+
+- A chamfer is an angle on the edge of a workpiece.
+- It is often created at a 45° angle between two adjoining right-angled faces.
+- It is a form of bevel, but not all bevels are chamfers.
+- It is used for protecting the chamfered object and anyone who might come in contact with it.
+- It can also improve the appearance, function, and assembly of the object.
+- It can be applied to the outside of the part, where a hole breaks through a surface, or where any two surfaces meet.
+- It can be done by various methods, such as machining, grinding, filing, or using a chamfering tool.
+- It can be measured by the length of the edge or the angle of the chamfer.
+- It can be represented by a symbol on a technical drawing, such as ⌵ or ⌥.

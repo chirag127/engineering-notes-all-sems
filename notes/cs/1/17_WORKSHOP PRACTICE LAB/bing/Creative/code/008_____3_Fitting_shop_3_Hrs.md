@@ -1,0 +1,23 @@
+### 3 Fitting shop 3 Hrs
+
+- Fitting shop is a workshop where metal parts are fitted together by filing, chiseling, sawing, drilling, tapping, etc.
+- Fitting shop is also used for repairing and maintaining machinery and equipment.
+- Fitting shop requires various tools and instruments such as files, hammers, chisels, hacksaws, drills, taps, dies, gauges, vices, clamps, etc.
+- Fitting shop operations include:
+  - Measuring and marking: using measuring instruments such as steel rule, caliper, micrometer, etc. and marking tools such as scriber, punch, divider, etc. to mark the dimensions and locations of the workpiece.
+  - Cutting: using cutting tools such as hacksaw, chisel, shear, etc. to cut the workpiece to the required shape and size.
+  - Filing: using files of different shapes, sizes, and grades to smoothen, shape, and finish the workpiece surface.
+  - Drilling: using drills of different sizes and types to make holes in the workpiece.
+  - Tapping: using taps and dies to cut threads in the holes or on the external surface of the workpiece.
+  - Fitting: using hammers, punches, drifts, etc. to fit the parts together by force or by using fasteners such as screws, nuts, bolts, pins, etc.
+- Fitting shop safety rules include:
+  - Wear protective clothing and equipment such as gloves, goggles, apron, etc.
+  - Keep the tools and instruments clean and sharp.
+  - Use the right tool for the right job and handle it with care.
+  - Secure the workpiece firmly in a vice or clamp before cutting, filing, drilling, etc.
+  - Do not use excessive force or speed while operating the tools and machines.
+  - Do not leave the tools and machines unattended or in running condition.
+  - Do not touch the workpiece or the tools with bare hands when they are hot.
+  - Do not throw or drop the tools and workpieces on the floor or bench.
+  - Keep the work area clean and tidy.
+  - Report any accident or injury to the supervisor or instructor.

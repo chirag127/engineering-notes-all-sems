@@ -1,0 +1,10 @@
+### Electron Transport System and Oxidative Phosphorylation
+
+The electron transport system (ETS) and oxidative phosphorylation (OXPHOS) are the final stages of cellular respiration, which occurs in the mitochondria. These processes are responsible for the majority of ATP production in the cell.
+
+1. **Electron Transport System (ETS):** The ETS is a series of protein complexes and electron carriers located in the inner mitochondrial membrane. Electrons from NADH and FADH2, produced during glycolysis, the formation of acetyl CoA, and the Krebs cycle, are transferred through the ETS, releasing energy that is used to pump protons across the inner mitochondrial membrane, creating a proton gradient.
+2. **Oxidative Phosphorylation (OXPHOS):** OXPHOS is the process by which the energy from the proton gradient is used to generate ATP. This is achieved through the action of the enzyme ATP synthase, which uses the flow of protons back across the inner mitochondrial membrane to drive the phosphorylation of ADP to ATP.
+3. **ATP Production:** The ETS and OXPHOS can produce up to 34 molecules of ATP per molecule of glucose, depending on the efficiency of the processes and the cell's energy requirements. This represents the majority of the ATP produced during cellular respiration, with the remaining ATP being produced during glycolysis and the Krebs cycle.
+4. **Factors Affecting Respiration:** The rate of cellular respiration can be affected by various factors, including the availability of oxygen, the cell's energy requirements, and the presence of inhibitors or uncouplers of the ETS and OXPHOS.
+
+In summary, the ETS and OXPHOS are essential processes in the production of ATP during cellular respiration, and their efficiency can be influenced by various factors. These processes occur in the mitochondria and are responsible for the majority of ATP production in the cell.

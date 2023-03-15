@@ -1,0 +1,27 @@
+### Line for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Computer-aided design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be classified into two types: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings of objects, such as floor plans, technical diagrams, and blueprints.
+  - 3D CAD software allows the creation of realistic and detailed models of objects, such as parts, assemblies, and structures.
+- CAD software can be used for various applications, such as mechanical engineering, civil engineering, architecture, industrial design, and animation.
+- Some examples of popular CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and SketchUp.
+- The main advantages of CAD are:
+  - Increased productivity and efficiency of the design process.
+  - Improved accuracy and quality of the design output.
+  - Enhanced communication and collaboration among the design team and stakeholders.
+  - Reduced cost and time of the design cycle.
+  - Easier modification and reuse of the design data.
+- The main challenges of CAD are:
+  - The need for specialized skills and training to use the CAD software effectively.
+  - The high cost and maintenance of the CAD software and hardware.
+  - The compatibility and interoperability issues among different CAD software and formats.
+  - The security and ethical issues of the design data and intellectual property.
+- The main objectives of an engineering graphics course using CAD are:
+  - To teach the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+  - To provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+  - To reinforce the students' analytic geometry and vector skills by creating and manipulating 3D models.
+  - To introduce the students to the various CAD applications and software available in the market.
+  - To prepare the students for the future challenges and opportunities of CAD in engineering and design.

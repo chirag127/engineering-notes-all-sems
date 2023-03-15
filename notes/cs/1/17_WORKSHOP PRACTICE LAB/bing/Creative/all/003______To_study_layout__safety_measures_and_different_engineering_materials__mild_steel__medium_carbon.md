@@ -1,0 +1,22 @@
+#### To study layout, safety measures and different engineering materials (mild steel, medium carbon steel, high carbon steel, high speed steel and cast iron etc) used in workshop.
+
+- Workshop layout is the arrangement of the machinery and equipment in a workshop, which affects the efficiency, quality, and safety of the work process.
+- There are three basic types of workshop layout: process layout, product layout, and fixed-position layout. A process layout groups machines and equipment according to their functions, such as cutting, drilling, or welding. A product layout arranges machines and equipment in a sequence that follows the production flow of a specific product or a group of similar products. A fixed-position layout keeps the product in one place and brings the machines and equipment to it.
+- A good workshop layout should consider the following factors: the space required for each machine and equipment, the material flow and handling, the gangways and emergency exits, the employee welfare and amenities, the safety and health standards, the dust and noise control, the lighting and ventilation, and the maintenance and repair.
+- Safety measures are the precautions and rules that should be followed in a workshop to prevent accidents and injuries. Some of the general safety measures are  :
+  - Wear appropriate personal protective equipment, such as safety glasses, gloves, shoes, helmets, and ear plugs.
+  - Do not wear loose, baggy, or dangling clothing, jewelry, or hair that can get caught in the machines and equipment.
+  - Keep the workshop clean and tidy, and remove any flammable, explosive, or hazardous materials from the work area.
+  - Use the right tools and machines for the job, and follow the manufacturer's instructions and guidelines.
+  - Check the machines and equipment before using them, and report any defects or malfunctions to the supervisor or the maintenance staff.
+  - Do not operate the machines and equipment unless you are trained and authorized to do so, and do not leave them running unattended or without proper guarding.
+  - Do not overload, over speed, or force the machines and equipment, and do not make any adjustments or repairs while they are in motion.
+  - Be aware of the potential hazards and risks in the workshop, and follow the emergency procedures in case of fire, electric shock, or injury.
+  - Do not distract, joke, or play with others while working in the workshop, and always be alert and attentive.
+  - Do not consume alcohol, drugs, or any other substances that can impair your judgment or coordination in the workshop.
+- Engineering materials are the substances that are used to make or modify the machines and equipment in a workshop. Some of the common engineering materials are:
+  - Mild steel: a low-carbon steel that is easy to weld, cut, and form, and has good strength and ductility. It is used for making structural components, pipes, bolts, nuts, and wires.
+  - Medium carbon steel: a steel that has a higher carbon content than mild steel, and has higher strength, hardness, and wear resistance. It is used for making gears, shafts, axles, and springs.
+  - High carbon steel: a steel that has a very high carbon content, and has very high strength, hardness, and wear resistance, but low ductility and weldability. It is used for making cutting tools, knives, blades, and dies.
+  - High speed steel: a steel that has a high alloy content, and can retain its hardness and cutting edge even at high temperatures. It is used for making drill bits, taps, reamers, and milling cutters.
+  - Cast iron: a iron that has a high carbon content, and has good compressive strength, wear resistance, and machinability, but low tensile strength and ductility. It is used for making engine blocks, cylinders, pistons, and machine frames.

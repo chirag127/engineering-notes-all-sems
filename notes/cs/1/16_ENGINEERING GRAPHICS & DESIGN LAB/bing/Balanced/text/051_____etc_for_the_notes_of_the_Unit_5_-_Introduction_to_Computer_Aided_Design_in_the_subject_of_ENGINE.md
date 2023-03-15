@@ -1,0 +1,27 @@
+### Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings of products and structures.
+  - 3D CAD software allows the creation of solid models that can be viewed and manipulated from any angle.
+- Some examples of CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and SketchUp.
+- Engineering Graphics is the language of communication for engineers and designers.
+- Engineering Graphics involves the use of geometric shapes, symbols, dimensions, and projections to represent the design of a product or a system.
+- Engineering Graphics can be done manually or with the help of CAD software.
+- Engineering Graphics and CAD are closely related, as CAD software can help create and modify engineering drawings and models more efficiently and accurately.
+- Engineering Graphics and CAD can also help in the engineering design and analysis process, as they can facilitate the evaluation of different design alternatives, the simulation of the product’s behavior, and the detection of errors and defects.
+- The primary objective of an entry-level course in CAD is to teach the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+- The secondary objective of an entry-level course in CAD is to provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+- A typical CAD course would cover topics such as:
+  - Basic concepts and principles of CAD and solid modeling.
+  - Sketching and dimensioning techniques.
+  - Geometric modeling and editing operations.
+  - Feature-based and parametric modeling.
+  - Assembly modeling and constraints.
+  - Drawing creation and annotation.
+  - Surface modeling and freeform shapes.
+  - Finite element analysis and simulation.
+  - Design optimization and verification.
+  - Data exchange and collaboration.

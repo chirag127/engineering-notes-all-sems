@@ -1,0 +1,22 @@
+# Classification of Solids
+
+- A solid is an object that has three dimensions, i.e., length, breadth and height.
+- In engineering graphics, solids are used to model physical objects and their properties.
+- Solids can be classified into two main types: **crystalline solids** and **amorphous solids**.
+- Crystalline solids have a regular and orderly arrangement of atoms, molecules or ions in a three-dimensional lattice. They have well-defined shapes, edges and faces. Examples of crystalline solids are metals, salts, diamonds, etc.
+- Amorphous solids have a random and irregular arrangement of atoms, molecules or ions. They do not have a definite shape, edge or face. Examples of amorphous solids are glass, rubber, plastic, etc.
+- Crystalline solids can be further classified into four types based on the nature of the bonding between the constituent particles: **ionic solids**, **metallic solids**, **covalent solids** and **molecular solids**.
+- Ionic solids are composed of cations and anions that are held together by electrostatic forces. They have high melting and boiling points, are hard and brittle, and do not conduct electricity in solid state. Examples of ionic solids are sodium chloride, magnesium oxide, etc.
+- Metallic solids are composed of metal atoms that are held together by metallic bonds. They have variable melting and boiling points, are malleable and ductile, and are good conductors of heat and electricity. Examples of metallic solids are iron, copper, gold, etc.
+- Covalent solids are composed of atoms that are held together by covalent bonds. They have very high melting and boiling points, are very hard and rigid, and do not conduct electricity. Examples of covalent solids are diamond, graphite, silicon, etc.
+- Molecular solids are composed of molecules that are held together by intermolecular forces, such as van der Waals forces, hydrogen bonds, etc. They have low melting and boiling points, are soft and flexible, and do not conduct electricity. Examples of molecular solids are ice, sugar, wax, etc.
+- In engineering graphics, the projection of solids is the process of representing a three-dimensional solid on a two-dimensional plane, such as a paper or a screen, using orthographic projection .
+- Orthographic projection is a method of drawing a three-dimensional object from different directions on two-dimensional planes, such as the horizontal plane (HP) and the vertical plane (VP).
+- The projection of solids can be done by two methods: **change of position method** and **change of reference plane method**.
+- Change of position method is a method of projecting a solid by rotating it about one or both of its axes until it is in a desired position. The axes of the solid are usually parallel or perpendicular to the planes of projection.
+- Change of reference plane method is a method of projecting a solid by changing the planes of projection to suit the position of the solid. The planes of projection are usually inclined to the axes of the solid.
+- The projection of solids can be used to study the shape, size, orientation and position of the solid in relation to the planes of projection.
+- The projection of solids can also be used to find the true shape of the section of the solid when it is cut by a plane that is either inclined to HP or VP.
+- The section of a solid is the part of the solid that is exposed when it is cut by a plane.
+- The true shape of the section is the shape of the section as seen from a direction perpendicular to the cutting plane.
+- The true shape of the section can be found by drawing the sectional view of the solid and then projecting it on an auxiliary plane that is perpendicular to the cutting plane.

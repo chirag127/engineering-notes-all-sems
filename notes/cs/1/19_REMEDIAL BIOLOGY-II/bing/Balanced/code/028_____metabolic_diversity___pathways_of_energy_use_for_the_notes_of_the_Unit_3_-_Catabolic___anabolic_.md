@@ -1,0 +1,23 @@
+# Metabolic Diversity and Pathways of Energy Use
+
+- Metabolic diversity mainly refers to the different metabolic strategies that organisms have evolved to obtain energy.
+- Metabolic pathways are series of connected chemical reactions that feed one another and convert starting molecules into products.
+- Metabolic pathways can be broadly divided into two categories based on their effects:
+  - Catabolic pathways break down complex molecules into simpler ones and release energy.
+  - Anabolic pathways build up complex molecules from simpler ones and consume energy.
+- The energy released or consumed by metabolic pathways is often stored or transferred by a molecule called adenosine triphosphate (ATP).
+- The body has three different metabolic pathways that produce ATP for different activities:
+  - Phosphagen system (ATP-PC system) for immediate energy, using creatine phosphate as a source of phosphate to regenerate ATP from ADP.
+  - Glycolytic system (anaerobic glycolysis) for short-term energy, using glucose or glycogen as a source of carbohydrate to produce ATP and lactic acid.
+  - Oxidative system (aerobic respiration) for long-term energy, using glucose, glycogen, fatty acids, or amino acids as sources of fuel to produce ATP, carbon dioxide, and water.
+- Metabolic pathways evolved among prokaryotes before eukaryotes arose as the result of their interaction and coevolution with changing physicochemical environmental conditions.
+- Prokaryotes exhibit a great diversity of metabolic pathways, depending on their sources of carbon and energy :
+  - Autotrophs use carbon dioxide as their sole or principal source of carbon.
+    - Photoautotrophs use light as their source of energy and perform photosynthesis to fix carbon dioxide into organic molecules.
+    - Chemoautotrophs use inorganic chemicals as their source of energy and perform chemosynthesis to fix carbon dioxide into organic molecules.
+  - Heterotrophs use organic molecules as their source of carbon and energy.
+    - Photoheterotrophs use light as their source of energy and organic molecules as their source of carbon.
+    - Chemoheterotrophs use organic molecules as their source of both energy and carbon.
+- Metabolic diversity allows prokaryotes to occupy a wide range of habitats and ecological niches, and to play important roles in biogeochemical cycles .
+- Metabolic pathways are regulated by various mechanisms, such as feedback inhibition, allosteric regulation, covalent modification, and gene expression.
+- Metabolic pathways are integrated and coordinated to maintain homeostasis and respond to environmental changes.

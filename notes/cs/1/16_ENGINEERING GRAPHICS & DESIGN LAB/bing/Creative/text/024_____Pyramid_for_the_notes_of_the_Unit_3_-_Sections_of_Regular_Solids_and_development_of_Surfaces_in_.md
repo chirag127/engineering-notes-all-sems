@@ -1,0 +1,24 @@
+### Pyramid for the notes of the Unit 3 - Sections of Regular Solids and development of Surfaces in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- A **section of a solid** is the shape obtained by cutting the solid with a plane, called the **section plane** or **cutting plane**.
+- A **development of a surface** is the unfolding or unrolling of the surface of a solid on a plane, called the **development plane**.
+- A **pyramid** is a solid whose base is a polygon and whose lateral faces are triangles that meet at a common vertex, called the **apex**.
+- The following points are important to remember when drawing sections and developments of pyramids:
+  - The **true shape** of the sectioned surface of a pyramid is a polygon whose sides are equal to the lengths of the intersections of the section plane and the lateral faces.
+  - The **true length** of the slant edge of a pyramid is the distance from the apex to the midpoint of any side of the base.
+  - The **development of the lateral surface** of a pyramid is a polygon whose number of sides is equal to the number of lateral faces, and whose lengths are equal to the true lengths of the slant edges.
+  - The **development of the base** of a pyramid is a polygon whose shape and size are the same as the base of the pyramid.
+  - The **development of the whole surface** of a pyramid is the combination of the development of the lateral surface and the development of the base.
+  - The **development of the sectioned surface** of a pyramid is a polygon whose shape and size are the same as the true shape of the sectioned surface.
+  - The **development of the remaining surface** of a pyramid is the combination of the development of the lateral surface and the development of the sectioned surface.
+- The following steps are involved in drawing sections and developments of pyramids:
+  - Draw the **front view** and the **top view** of the pyramid, showing the section plane and the direction of viewing.
+  - Draw the **true shape** of the sectioned surface by projecting the points of intersection of the section plane and the lateral faces on a plane perpendicular to the section plane.
+  - Draw the **true length** of the slant edge by projecting the apex on a plane perpendicular to the slant edge.
+  - Draw the **development of the lateral surface** by drawing a polygon whose sides are equal to the true lengths of the slant edges, and whose angles are equal to the angles between the lateral faces.
+  - Draw the **development of the base** by drawing a polygon whose shape and size are the same as the base of the pyramid, and whose center coincides with the center of the development of the lateral surface.
+  - Draw the **development of the whole surface** by joining the development of the lateral surface and the development of the base along their common edges.
+  - Draw the **development of the sectioned surface** by drawing a polygon whose shape and size are the same as the true shape of the sectioned surface, and whose center coincides with the center of the development of the lateral surface.
+  - Draw the **development of the remaining surface** by joining the development of the lateral surface and the development of the sectioned surface along their common edges.
+  - Mark the **cutting lines** and the **folding lines** on the development.
+  - Label the **views** and the **development** with appropriate dimensions and symbols.

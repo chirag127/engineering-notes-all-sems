@@ -1,0 +1,33 @@
+## Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of similar cells that work together to perform a specific function.
+- There are four main types of animal tissues: connective, nervous, muscle, and epithelial tissues.
+  - Connective tissue: supports and binds other tissues, such as blood, cartilage, bone, and adipose tissue .
+  - Nervous tissue: allows rapid communication between different parts of the body, such as neurons and glial cells .
+  - Muscle tissue: can contract to allow movement of body parts, such as skeletal, cardiac, and smooth muscle .
+  - Epithelial tissue: covers the surfaces of the body and lines the cavities, such as skin, mucous membranes, and glands .
+- There are three main tissue systems in plants: epidermis, ground tissue, and vascular tissue.
+  - Epidermis: the outermost layer of cells that protects the plant from water loss, infection, and damage .
+  - Ground tissue: the bulk of the plant body that performs various functions, such as photosynthesis, storage, and support .
+  - Vascular tissue: the tissue that transports water and minerals from the roots to the leaves, and organic nutrients from the leaves to the rest of the plant, such as xylem and phloem .
+- Morphology is the study of the external form and structure of plants, such as shape, size, color, and arrangement of parts.
+- Anatomy is the study of the internal structure and organization of plants, such as tissues, cells, and organelles.
+- The different parts of plants have different morphology, anatomy, and functions, such as:
+  - Root: the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food.
+    - Morphology: roots can be taproot (one main root with lateral branches) or fibrous (many thin roots of equal size).
+    - Anatomy: roots have four regions: root cap (protects the root tip), meristem (produces new cells), elongation (increases the length of the root), and maturation (differentiates into different tissues).
+    - Function: roots provide support, absorption, and storage for the plant.
+  - Stem: the part of the plant that supports the leaves, flowers, and fruits, and transports water and nutrients between them.
+    - Morphology: stems can be herbaceous (soft and green) or woody (hard and brown).
+    - Anatomy: stems have three types of tissues: epidermis (outer layer), cortex (middle layer), and vascular cylinder (inner layer).
+    - Function: stems provide support, transport, and photosynthesis for the plant.
+  - Leaf: the part of the plant that is the main site of photosynthesis and transpiration.
+    - Morphology: leaves can have various shapes, sizes, margins, venation, and arrangements.
+    - Anatomy: leaves have two types of tissues: mesophyll (parenchyma cells with chloroplasts) and vascular bundles (xylem and phloem vessels).
+    - Function: leaves provide photosynthesis, transpiration, and gas exchange for the plant.
+  - Inflorescence: the part of the plant that is a group or cluster of flowers arranged on a stem.
+    - Morphology: inflorescences can be racemose (flowers open from the base to the apex) or cymose (flowers open from the apex to the base).
+    - Anatomy: inflorescences have a main axis (peduncle) and lateral branches (pedicels) that bear the flowers.
+    - Function: inflorescences provide attraction, pollination, and reproduction for the plant.
+  - Flower: the part of the plant that is the reproductive organ of angiosperms.
+    - Morph

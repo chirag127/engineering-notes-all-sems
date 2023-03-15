@@ -1,0 +1,11 @@
+### Planck’s theory of black body radiation (qualitative)
+
+- A black body is a hypothetical body that completely absorbs all radiant energy falling upon it, reaches some equilibrium temperature, and then reemits that energy as quickly as it absorbs it.
+- The spectrum of the radiation emitted by a black body depends only on its temperature, and not on its shape, size, or composition.
+- The classical theory of electromagnetism, based on the laws of Maxwell and Kirchhoff, failed to explain the observed spectrum of black body radiation, especially at high frequencies (short wavelengths), where it predicted an infinite energy density, known as the ultraviolet catastrophe .
+- In 1900, German physicist Max Planck heuristically derived a formula for the observed spectrum by assuming that a hypothetical electrically charged oscillator in a cavity that contained black-body radiation could only change its energy in a minimal increment, E, that was proportional to the frequency of its associated electromagnetic wave .
+- This increment, E, is given by E = hν, where h is a constant, now known as Planck's constant, and ν is the frequency of the radiation .
+- Planck's assumption implied that the energy of the radiation was quantized, meaning that it could only take discrete values, rather than continuous ones .
+- Planck's formula for the spectral density of the radiation, B(ν,T), is given by :
+
+![Planck's formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/1c8c1c3f8f0a1a7a9f0c0c9f9a9a2f2c0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a

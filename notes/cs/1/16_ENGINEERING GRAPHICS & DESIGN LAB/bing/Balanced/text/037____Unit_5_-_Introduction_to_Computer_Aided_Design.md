@@ -1,0 +1,24 @@
+## Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is the use of computer software to create, modify, analyze, and optimize the design of a product or a system.
+- CAD software can help engineers, architects, designers, and other professionals to create and visualize 2D and 3D models of their ideas, test their performance, and communicate them to others.
+- CAD software can also be integrated with other computer tools, such as Computer Aided Manufacturing (CAM), Computer Aided Engineering (CAE), and Product Lifecycle Management (PLM), to support the entire design and production process.
+- CAD software can offer many benefits, such as:
+  - Improving the quality and accuracy of the design
+  - Reducing the time and cost of the design
+  - Enhancing the creativity and innovation of the design
+  - Facilitating the collaboration and documentation of the design
+- CAD software can be classified into different types, depending on the nature and purpose of the design, such as:
+  - 2D CAD: used to create and edit 2D drawings, such as floor plans, schematics, and blueprints
+  - 3D CAD: used to create and manipulate 3D models, such as solid, surface, and wireframe models
+  - Parametric CAD: used to define and control the geometric and functional parameters of the design, such as dimensions, constraints, and relations
+  - Feature-based CAD: used to create and modify the design by adding or removing features, such as holes, fillets, and chamfers
+  - Direct CAD: used to edit the design directly on the geometry, without relying on features or parameters
+  - Generative CAD: used to create the design automatically based on the desired goals and constraints, such as topology optimization and shape synthesis
+- CAD software can be applied to various fields and domains, such as:
+  - Mechanical engineering: used to design and analyze mechanical parts, assemblies, and systems, such as engines, robots, and vehicles
+  - Civil engineering: used to design and simulate civil structures and infrastructures, such as buildings, bridges, and roads
+  - Electrical engineering: used to design and test electrical circuits and components, such as sensors, switches, and microchips
+  - Industrial design: used to design and evaluate the aesthetics, ergonomics, and functionality of products, such as furniture, appliances, and toys
+  - Fashion design: used to design and visualize the style, color, and texture of clothing, accessories, and footwear
+  - Animation and gaming: used to create and animate realistic and stylized characters, environments, and effects, such as humans, animals, and fantasy worlds

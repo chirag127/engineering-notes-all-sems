@@ -1,0 +1,21 @@
+```
+### 3. To enable the students to understand and apply the concepts related to Electrochemistry, Batteries, Corrosion
+
+- Electrochemistry is the branch of chemistry that studies the relationship between electricity and chemical reactions.
+- Electrochemical reactions involve the transfer of electrons between substances, either in a spontaneous process (such as a battery) or in an induced process (such as electrolysis).
+- Electrochemical cells are devices that convert chemical energy into electrical energy or vice versa. They consist of two electrodes (conductors) connected by an external circuit and immersed in an electrolyte (a solution that conducts ions).
+- The electrode where oxidation (loss of electrons) occurs is called the anode, and the electrode where reduction (gain of electrons) occurs is called the cathode. The direction of electron flow is from the anode to the cathode in the external circuit.
+- The potential difference between the electrodes is called the cell potential or electromotive force (emf). It depends on the nature and concentration of the substances involved in the reaction, the temperature, and the pressure.
+- The standard cell potential is the cell potential when the reactants and products are in their standard states (usually 1 M for solutions and 1 atm for gases) at 25°C. It is measured in volts (V).
+- The standard cell potential can be calculated from the standard reduction potentials of the half-reactions that occur at each electrode. The standard reduction potential is the tendency of a substance to gain electrons or to be reduced. It is measured in volts (V) relative to the standard hydrogen electrode (SHE), which is assigned a value of 0 V.
+- The standard cell potential is equal to the standard reduction potential of the cathode minus the standard reduction potential of the anode: Ecell = Ered(cathode) - Ered(anode).
+- The standard cell potential can also be used to determine the spontaneity of a reaction. A positive cell potential indicates a spontaneous reaction, while a negative cell potential indicates a non-spontaneous reaction.
+- The Nernst equation relates the cell potential to the concentration of the reactants and products: Ecell = Ecell - (RT/nF) ln Q, where R is the gas constant, T is the temperature in kelvins, n is the number of electrons transferred, F is the Faraday constant, and Q is the reaction quotient.
+- Batteries are electrochemical cells or combinations of cells that provide a continuous source of electrical energy. They can be classified into primary batteries, which are non-rechargeable and disposable, and secondary batteries, which are rechargeable and reusable.
+- Some common examples of primary batteries are zinc-carbon batteries, alkaline batteries, lithium batteries, and button cells. Some common examples of secondary batteries are lead-acid batteries, nickel-cadmium batteries, nickel-metal hydride batteries, and lithium-ion batteries.
+- The performance of a battery depends on several factors, such as the capacity, the energy density, the power density, the shelf life, the cycle life, the self-discharge rate, the cost, and the environmental impact.
+- Corrosion is the deterioration of a metal or an alloy due to its reaction with the environment. It is an electrochemical process that involves the formation of anodic and cathodic sites on the metal surface, where oxidation and reduction occur, respectively.
+- The rate and extent of corrosion depend on several factors, such as the nature and composition of the metal, the nature and composition of the environment, the temperature, the pressure, the presence of impurities, the presence of stress, and the presence of inhibitors.
+- Some common types of corrosion are uniform corrosion, galvanic corrosion, pitting corrosion, crevice corrosion, intergranular corrosion, stress corrosion cracking, and corrosion fatigue.
+- Some common methods of preventing or controlling corrosion are cathodic protection, anodic protection, coating, alloying, and corrosion inhibitors.
+```

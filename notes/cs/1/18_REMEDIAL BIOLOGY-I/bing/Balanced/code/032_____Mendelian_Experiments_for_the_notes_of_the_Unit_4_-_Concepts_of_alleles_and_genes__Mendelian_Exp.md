@@ -1,0 +1,13 @@
+### Mendelian Experiments
+
+- Mendelian experiments are the studies of inheritance patterns in pea plants conducted by Gregor Mendel, a monk and a scientist, in the 19th century  .
+- Mendel chose pea plants because they had distinct and easily observable traits, such as flower color, seed shape, and plant height, and they could be easily cross-pollinated or self-pollinated .
+- Mendel selected seven traits and crossed pure-breeding plants with contrasting forms of each trait, such as purple and white flowers, round and wrinkled seeds, and tall and dwarf plants  .
+- Mendel observed the offspring of these crosses, called the first filial generation (F1), and found that they all showed only one form of each trait, such as purple flowers, round seeds, and tall plants  .
+- Mendel then self-pollinated the F1 plants and observed the offspring of this cross, called the second filial generation (F2), and found that they showed both forms of each trait, such as purple and white flowers, round and wrinkled seeds, and tall and dwarf plants, in a ratio of 3:1  .
+- Mendel repeated this experiment for all seven traits and obtained similar results, leading him to propose three laws of inheritance: the law of segregation, the law of independent assortment, and the law of dominance   .
+- The law of segregation states that each parent has two factors (now called alleles) for each trait, and that these factors separate during gamete formation, so that each gamete carries only one factor for each trait   .
+- The law of independent assortment states that the factors for different traits are inherited independently of each other, so that the combination of traits in the offspring is not influenced by the combination of traits in the parents   .
+- The law of dominance states that when two different factors for the same trait are present in an individual, one factor (now called dominant) masks the expression of the other factor (now called recessive), so that only the dominant trait is observed   .
+- Mendel also performed an additional experiment to test the role of pollen and ovum in inheritance, and found that the results were the same regardless of which gamete contributed the dominant or recessive factor.
+- Mendel's experiments were the first to propose the existence of genes and to explain how they are inherited and expressed in offspring, laying the foundation for modern genetics    .

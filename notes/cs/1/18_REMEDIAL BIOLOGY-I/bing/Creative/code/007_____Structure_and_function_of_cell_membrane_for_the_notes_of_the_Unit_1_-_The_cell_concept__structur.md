@@ -1,0 +1,11 @@
+### Structure and function of cell membrane
+
+- The cell membrane, also known as the plasma membrane, is a thin semi-permeable membrane that surrounds the cytoplasm of a cell .
+- The cell membrane has two main functions: first, to protect the integrity of the interior of the cell by allowing certain substances into the cell while keeping other substances out and, second, to be a gate allowing transport into the cell of essential nutrients and movement from the cell of waste products.
+- The cell membrane also plays an important role in cell signalling and communication by using hormones, neurotransmitters, and other signaling molecules that bind to cell membrane receptor proteins .
+- The cell membrane is composed primarily of fatty-acid-based lipids and proteins, and carbohydrate groups that are attached to some of the lipids and proteins .
+- The most abundant lipids in the cell membrane are phospholipids, which have a hydrophilic (water-loving) head and a hydrophobic (water-fearing) tail. Phospholipids form a bilayer in which the hydrophobic tails face each other and the hydrophilic heads face the aqueous environment on both sides of the membrane.
+- Cholesterol is another lipid that is present in the cell membrane. Cholesterol helps to maintain the fluidity and stability of the membrane by preventing the phospholipids from packing too closely or too loosely together.
+- Proteins in the cell membrane can be classified into two types: integral proteins and peripheral proteins. Integral proteins are embedded in the lipid bilayer and span the whole membrane. Peripheral proteins are attached to the surface of the membrane or to the integral proteins.
+- Proteins in the cell membrane have various functions, such as transport, enzymatic activity, signal transduction, cell recognition, intercellular joining, and attachment to the cytoskeleton and extracellular matrix.
+- Carbohydrate groups in the cell membrane are attached to some of the lipids and proteins, forming glycolipids and glycoproteins, respectively. Carbohydrate groups serve as recognition sites for other cells and molecules, and help to maintain the stability of the membrane and cell-to-cell communication.

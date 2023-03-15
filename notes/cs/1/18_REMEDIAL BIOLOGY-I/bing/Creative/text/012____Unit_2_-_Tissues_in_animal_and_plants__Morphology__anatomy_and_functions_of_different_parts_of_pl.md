@@ -1,0 +1,32 @@
+## Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of similar cells that work together to perform a specific function.
+- There are four main types of animal tissues: connective, nervous, muscle, and epithelial tissues.
+  - Connective tissue: supports and binds other tissues, such as blood, cartilage, bone, and fat .
+  - Nervous tissue: allows rapid communication between different parts of the body, such as the brain, spinal cord, and nerves .
+  - Muscle tissue: can contract to allow movement of body parts, such as the heart, skeletal muscles, and smooth muscles .
+  - Epithelial tissue: covers and lines the body surfaces, such as the skin, digestive tract, and glands .
+- There are three main tissue systems in plants: the epidermis, ground tissue, and vascular tissue.
+  - Epidermis: the outermost layer of cells that protects the plant from water loss, infection, and damage .
+  - Ground tissue: the bulk of the plant body that performs various functions, such as photosynthesis, storage, and support .
+  - Vascular tissue: the tissue that transports water and minerals from the roots to the leaves (xylem) and food from the leaves to the rest of the plant (phloem) .
+- Morphology is the study of the external form and structure of plants, such as the shape, size, color, and arrangement of plant parts.
+- Anatomy is the study of the internal structure and organization of plants, such as the tissues, cells, and organelles.
+- The different parts of plants have different functions and adaptations to suit their environment and needs.
+  - Root: the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food .
+    - There are two main types of roots: taproot and fibrous root.
+    - Taproot: a single, thick, main root that grows deep into the soil, such as in carrots, beets, and radishes.
+    - Fibrous root: a cluster of thin, branching roots that spread near the surface of the soil, such as in grasses, wheat, and rice.
+  - Stem: the part of the plant that supports the leaves, flowers, and fruits, and transports water and food between them .
+    - There are two main types of stems: herbaceous and woody.
+    - Herbaceous stem: a soft, green, flexible stem that dies back at the end of the growing season, such as in daisies, peas, and beans.
+    - Woody stem: a hard, brown, rigid stem that persists for many years, such as in trees, shrubs, and vines.
+  - Leaf: the part of the plant that is the main site of photosynthesis, where light energy is converted into chemical energy .
+    - There are many variations in leaf shape, size, margin, venation, and arrangement.
+    - Leaf shape: the outline of the leaf blade, such as oval, lanceolate, cordate, or palmate.
+    - Leaf size: the length and width of the leaf blade, which can range from a few millimeters to several meters.
+    - Leaf margin: the edge of the leaf blade, such as smooth, serrated, lobed, or crenate.
+    - Leaf venation: the pattern of veins in the leaf blade, such as parallel, netted, or dichotomous.
+    - Leaf arrangement: the way leaves are attached to the stem, such as opposite, alternate, or whorled.
+  - Inflorescence: the part of the plant that bears the flowers, which are the reproductive structures of angiosperms (flowering plants) .
+    - There are many types of inflorescences

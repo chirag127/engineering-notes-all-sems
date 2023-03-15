@@ -1,0 +1,21 @@
+# Integration of metabolism
+
+- Metabolism is the sum of all the chemical reactions that occur in a living cell to maintain its structure and function.
+- Metabolism can be divided into two major types: catabolism and anabolism.
+  - Catabolism is the breakdown of complex molecules into simpler ones, releasing energy and reducing power.
+  - Anabolism is the synthesis of complex molecules from simpler ones, requiring energy and reducing power.
+- Metabolism is regulated by various factors, such as enzymes, hormones, substrates, cofactors, and feedback mechanisms.
+- Metabolism is integrated in different tissues and organs to coordinate the energy and biosynthetic needs of the whole organism.
+  - Three hormones—insulin, glucagon, and epinephrine—play a critical role in integrating metabolism, especially energy metabolism, in different tissues.
+  - Insulin is secreted by the pancreas in response to high blood glucose levels and stimulates glucose uptake, glycolysis, glycogen synthesis, and fatty acid synthesis in the liver, muscle, and adipose tissue.
+  - Glucagon is secreted by the pancreas in response to low blood glucose levels and stimulates glycogenolysis, gluconeogenesis, and ketogenesis in the liver, and lipolysis in the adipose tissue.
+  - Epinephrine is secreted by the adrenal glands in response to stress and stimulates glycogenolysis, gluconeogenesis, and lipolysis in the liver, muscle, and adipose tissue, and increases the heart rate and blood pressure.
+- Metabolism is also integrated in different cellular compartments, such as the cytosol, the mitochondria, the endoplasmic reticulum, and the peroxisomes, to facilitate the transport and exchange of metabolites and cofactors.
+  - The cytosol is the site of glycolysis, pentose phosphate pathway, fatty acid synthesis, and nucleotide synthesis.
+  - The mitochondria is the site of the citric acid cycle, oxidative phosphorylation, fatty acid oxidation, and amino acid catabolism.
+  - The endoplasmic reticulum is the site of lipid synthesis, detoxification, and calcium storage.
+  - The peroxisomes are the site of fatty acid oxidation, hydrogen peroxide degradation, and bile acid synthesis.
+- Metabolism is also integrated in different metabolic pathways, such as glycolysis, gluconeogenesis, glycogen synthesis, glycogen degradation, pentose phosphate pathway, citric acid cycle, oxidative phosphorylation, fatty acid synthesis, fatty acid oxidation, ketogenesis, cholesterol synthesis, amino acid synthesis, amino acid degradation, urea cycle, and nucleotide synthesis.
+  - These pathways are interconnected by common intermediates, such as glucose, pyruvate, acetyl-CoA, oxaloacetate, and citrate.
+  - These pathways are also regulated by common mechanisms, such as allosteric control, covalent modification, transcriptional control, and hormonal control.
+  - These pathways are also coordinated by common goals, such as maintaining the energy balance, the redox balance, and the biosynthetic balance of the cell.

@@ -1,0 +1,27 @@
+#### Introduction to Patterns, pattern allowances, ingredients of moulding sand and melting furnaces. Foundry tools and their purposes Demo of mould preparation and Aluminum casting Practice – Study and Preparation of mould for Plastic
+
+- Patterns are the physical models of the casting products that are used to create the mould cavity in the sand. Patterns are similar to the casting products but not exactly the same size, given some allowance because of the shrinkage property of cast metal.
+- Pattern allowances are the modifications made to the pattern dimensions to compensate for various factors such as shrinkage, machining, distortion, draft, and rapping. There are different types of pattern allowances, such as shrinkage allowance, machining allowance, distortion allowance, draft allowance, and rapping allowance  .
+- Moulding sand is the material used to make the mould cavity in the sand casting process. Moulding sand should have certain properties such as refractoriness, permeability, cohesiveness, strength, collapsibility, and reusability. The main ingredients of moulding sand are silica sand grains, clay (bond), and moisture.
+- Melting furnaces are the devices used to melt the metal for casting. There are different types of melting furnaces, such as blast furnaces, cupola furnaces, electric arc furnaces, induction furnaces, and crucible furnaces . The selection of melting furnace depends on the type, quantity, and quality of metal to be cast.
+- Foundry tools are the instruments used to perform various operations in the foundry, such as moulding, melting, pouring, and finishing. Some of the common foundry tools are rammer, trowel, strike-off bar, sprue pin, gate cutter, vent wire, swab, ladle, skimmer, and chisel.
+- Demo of mould preparation and aluminum casting practice involves the following steps:
+  - Selecting a suitable pattern and preparing the moulding sand.
+  - Setting up the moulding box and placing the pattern inside it.
+  - Ramming the moulding sand around the pattern and creating the parting line.
+  - Removing the pattern and making the sprue, runner, and gates.
+  - Assembling the cope and drag and securing them with clamps.
+  - Melting the aluminum in a crucible furnace and skimming the impurities.
+  - Pouring the molten metal into the mould cavity and allowing it to solidify.
+  - Breaking the mould and removing the casting.
+  - Cleaning and finishing the casting.
+- Study and preparation of mould for plastic involves the following steps:
+  - Designing the mould according to the shape, size, and material of the plastic product.
+  - Selecting a suitable mould material, such as steel, aluminum, or brass.
+  - Machining the mould cavity and the core using a milling machine or a lathe.
+  - Providing the necessary features, such as ejector pins, cooling channels, and vent holes.
+  - Assembling the mould halves and aligning them with guide pins and bushings.
+  - Mounting the mould on the injection moulding machine and setting the parameters, such as temperature, pressure, and cycle time.
+  - Injecting the molten plastic into the mould cavity and allowing it to cool and solidify.
+  - Opening the mould and ejecting the plastic product.
+  - Inspecting and trimming the product.

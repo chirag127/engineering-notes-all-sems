@@ -1,0 +1,7 @@
+### 4. To enable the students to understand and apply detailed concepts of water source, water impurities, hardness
+
+- Water source: The origin or place from where water is obtained for various purposes, such as drinking, irrigation, industry, etc. Examples of water sources are rivers, lakes, wells, springs, glaciers, rainwater, etc.
+- Water impurities: Any substance or material that is present in water and affects its quality, appearance, taste, odor, or suitability for a specific use. Examples of water impurities are dissolved solids, dissolved gases, suspended solids, microorganisms, organic matter, etc.
+- Hardness: A measure of the amount of calcium and magnesium salts present in water. Hard water causes scaling in pipes, boilers, and appliances, reduces the effectiveness of soap and detergent, and affects the taste of water. Hardness is expressed in terms of milligrams per liter (mg/L) or parts per million (ppm) of calcium carbonate (CaCO3). There are two types of hardness: temporary and permanent.
+  - Temporary hardness: The hardness that can be removed by boiling water or adding lime (calcium hydroxide). It is caused by the presence of bicarbonates of calcium and magnesium in water. It is also called carbonate hardness.
+  - Permanent hardness: The hardness that cannot be removed by boiling water or adding lime. It is caused by the presence of chlorides, sulfates, and nitrates of calcium and magnesium in water. It is also called non-carbonate hardness.

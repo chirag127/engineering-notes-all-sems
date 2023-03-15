@@ -1,0 +1,24 @@
+#### Demonstration of working, construction and accessories for Lathe machine
+
+- A lathe machine is a machine tool that is used to perform various operations such as turning, facing, threading, knurling, parting, etc. on a workpiece by removing unwanted material in the form of chips.
+- The working principle of a lathe machine is based on the relative motion between the workpiece and the cutting tool. The workpiece is held between two rigid and strong supports called centers or in a chuck or face plate which revolves. The cutting tool is rigidly held and supported in a tool post which is fed against the revolving work by hand or power.
+- The construction of a lathe machine consists of the following main parts:
+  - Bed: It is the base of the machine on which all other parts are mounted. It is made of cast iron and provides rigidity and strength to the machine. It has guide ways or rails on which the carriage can slide longitudinally or crosswise.
+  - Headstock: It is the fixed part of the machine that holds the spindle and the driving mechanism. The spindle is a hollow cylindrical shaft that rotates the workpiece or the chuck. The driving mechanism consists of an electric motor, a belt, a pulley, and a gear box that transmit power and speed to the spindle.
+  - Tailstock: It is the movable part of the machine that supports the other end of the workpiece. It has a quill or a barrel that can slide in and out of the tailstock body. The quill has a tapered hole that can hold a center, a drill, or a reamer. The tailstock can be clamped at any position on the bed by a locking device.
+  - Carriage: It is the part of the machine that carries the cutting tool and moves it along the workpiece. It consists of the following components:
+    - Saddle: It is a H-shaped casting that slides on the guide ways of the bed. It supports the cross slide and the compound rest.
+    - Cross slide: It is a rectangular casting that slides on the dovetail guide ways of the saddle. It has a hand wheel and a screw that can move the tool post across the workpiece.
+    - Compound rest: It is a swiveling casting that is mounted on the cross slide. It has a hand wheel and a screw that can move the tool post at an angle to the workpiece. It is used for taper turning and angular cutting.
+    - Tool post: It is a device that holds the cutting tool in a rigid and adjustable manner. It can be of different types such as single tool post, four-way tool post, quick change tool post, etc.
+  - Feed mechanism: It is the mechanism that controls the movement of the carriage along the workpiece. It consists of the following components:
+    - Lead screw: It is a long threaded shaft that runs parallel to the bed. It is used for thread cutting and power feed.
+    - Feed rod: It is a shaft that runs parallel to the lead screw. It is used for power feed and carriage movement.
+    - Feed gears: They are a set of gears that connect the spindle, the feed rod, and the lead screw. They can be changed to obtain different feed rates and thread pitches.
+    - Apron: It is a box-like casting that is attached to the saddle. It contains the clutches, levers, and gears that engage and disengage the feed rod and the lead screw with the carriage.
+- The accessories of a lathe machine are the additional devices that are used to enhance the performance and versatility of the machine. Some of the common accessories are:
+  - Chuck: It is a device that holds the workpiece by means of jaws that can be tightened or loosened by a key. It can be of different types such as three-jaw chuck, four-jaw chuck, collet chuck, etc.
+  - Face plate: It is a circular plate that is mounted on the spindle. It has slots and holes that can be used to clamp irregular or large workpieces.
+  - Center: It is a pointed device that is inserted into the tapered hole of the spindle or the quill. It supports the workpiece and allows it to rotate freely. It can be of different types such as live center, dead center, half center, etc.
+  - Steady rest: It is a device that supports the workpiece at a point other than the centers. It has three adjustable jaws that can be clamped around the workpiece. It is used for long or slender workpieces that tend to bend or vibrate.
+  -

@@ -1,0 +1,32 @@
+# Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is the use of computer software to create, modify, analyze, or optimize a design.
+- CAD is widely used in engineering, architecture, art, and other fields to produce 2D drawings or 3D models of objects or systems.
+- CAD can help improve the quality, accuracy, efficiency, and communication of design processes and products.
+- Some of the benefits of CAD are:
+  - It can reduce errors and revisions in design.
+  - It can save time and cost in design and manufacturing.
+  - It can enhance creativity and innovation in design.
+  - It can facilitate collaboration and sharing of design data.
+  - It can enable simulation and testing of design performance and functionality.
+- Some of the applications of CAD are :
+  - Engineering: CAD can be used by civil, mechanical, electrical, or other engineers to design bridges, roadways, parts of a car or an aircraft, electronic devices, etc.
+  - Architecture: CAD can be used by architects to design buildings, structures, landscapes, interiors, etc.
+  - Art: CAD can be used by artists to create digital paintings, animations, sculptures, etc.
+  - Education: CAD can be used by students and teachers to learn and teach various concepts and skills related to design, geometry, physics, etc.
+- Some of the examples of CAD software are  :
+  - AutoCAD: A general-purpose CAD software that can create 2D and 3D drawings and models of various objects and systems.
+  - SolidWorks: A CAD software that specializes in 3D solid modeling and simulation of mechanical engineering designs.
+  - SketchUp: A CAD software that focuses on 3D modeling and rendering of architectural and interior designs.
+  - Onshape: A cloud-based CAD software that allows users to create, edit, and share 3D models online.
+  - Blender: A free and open-source CAD software that can create 3D models, animations, games, and visual effects.
+- Some of the topics covered in the subject of Engineering Graphics and Design Lab are  :
+  - Geometric construction: The use of basic geometric shapes and tools to construct complex figures and patterns.
+  - Sketching: The use of freehand drawing to create rough or preliminary designs or ideas.
+  - Orthographic projection: The use of parallel lines to project a 3D object onto a 2D plane from different views or directions.
+  - Isometric view: A 3D view of an object that shows three sides of the object at an angle of 120 degrees to each other.
+  - Sectional view: A 2D view of an object that shows the internal structure or cross-section of the object by cutting it along a plane.
+  - Detailed view: A 2D view of an object that shows a specific part or feature of the object in more detail or scale than the general view.
+  - Geometric dimensioning and tolerancing: The use of symbols and standards to specify the size, shape, location, and variation of features on a design or drawing.
+  - Engineering drawings: The use of drawings and symbols to communicate the technical specifications and requirements of a design or product to the manufacturer or user.
+  - Assemblies: The use of drawings and models to show how multiple parts or components fit together to form a system or product.

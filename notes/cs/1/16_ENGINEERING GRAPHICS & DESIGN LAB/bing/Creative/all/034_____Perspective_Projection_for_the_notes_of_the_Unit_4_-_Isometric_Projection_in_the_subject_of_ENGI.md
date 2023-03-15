@@ -1,0 +1,10 @@
+# Perspective Projection
+
+- Perspective projection is a type of projection that shows a three-dimensional object as it appears to the human eye from a certain point of view.
+- Perspective projection is used to create realistic and artistic drawings of objects and scenes, but it is not suitable for engineering drawings that require accurate dimensions and shapes.
+- Perspective projection is based on the principle that parallel lines converge at a single point called the **vanishing point** or the **center of projection** when they are projected onto a plane.
+- The distance between the center of projection and the plane is called the **station point** or the **focal length**. The smaller the station point, the more distorted the object appears. The larger the station point, the more similar the object appears to its orthographic projection.
+- There are three types of perspective projection: **one-point perspective**, **two-point perspective**, and **three-point perspective**. Each type depends on the number of vanishing points and the orientation of the object relative to the plane.
+- One-point perspective is used when one face of the object is parallel to the plane. There is only one vanishing point on the horizon line, and all parallel lines that are not parallel to the plane converge to that point.
+- Two-point perspective is used when no face of the object is parallel to the plane. There are two vanishing points on the horizon line, and all parallel lines that are not parallel to the plane converge to one of those points.
+- Three-point perspective is used when the object is tilted or rotated in such a way that none of its edges are parallel to the plane. There are three vanishing points, two on the horizon line and one above or below it, and all parallel lines converge to one of those points.

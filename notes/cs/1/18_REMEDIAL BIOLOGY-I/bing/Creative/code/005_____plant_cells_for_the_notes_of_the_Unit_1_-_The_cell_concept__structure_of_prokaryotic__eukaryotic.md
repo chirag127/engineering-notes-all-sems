@@ -1,0 +1,9 @@
+# Plant Cells
+
+- Plant cells are the **cells present in green plants**, photosynthetic eukaryotes of the kingdom Plantae.
+- Plant cells, like animal cells, are **eukaryotic**, meaning they have a **membrane-bound nucleus and organelles** .
+- Unlike animal cells, plant cells have a **cell wall** surrounding the cell membrane. The cell wall is a **tough layer** made of **cellulose, hemicelluloses, and pectin** that provides **structural support and protection** to the cell .
+- Many types of plant cells contain a **large central vacuole**, a water-filled volume enclosed by a membrane known as the **tonoplast**. The vacuole serves as a **storage** for various substances, such as **water, ions, sugars, amino acids, and toxins**. The vacuole also helps to **maintain the turgor pressure** and **shape** of the cell .
+- Plant cells have **chloroplasts**, specialized organelles found only in plants and some types of algae. These organelles contain **chlorophyll**, a green pigment that **absorbs light energy** and **converts it into chemical energy** through **photosynthesis**. Chloroplasts have their own **DNA** and **ribosomes**, and are surrounded by a **double membrane** .
+- Plant cells have other organelles that are common to both plant and animal cells, such as **mitochondria, endoplasmic reticulum, Golgi apparatus, ribosomes, cytoskeleton, and plasma membrane**. These organelles perform various **metabolic, transport, and structural functions** for the cell .
+- Plant cells communicate with each other through **specialized cell-to-cell junctions** called **plasmodesmata**. These are **channels** that cross the cell wall and allow the **exchange of molecules and signals** between adjacent cells. Plasmodesmata are involved in **coordination** and **integration** of plant tissues and organs.

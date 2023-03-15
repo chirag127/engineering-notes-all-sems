@@ -1,0 +1,34 @@
+### 4 Carpentry Shop 3 Hrs
+
+- Carpentry is the craft of cutting, shaping, and joining wood to create structures, furniture, and other items.
+- A carpentry shop is a place where carpenters work with various tools and materials to produce carpentry products.
+- Some of the common tools used in a carpentry shop are:
+  - Measuring tools, such as tape measure, ruler, square, level, and compass.
+  - Marking tools, such as pencil, chalk, marking gauge, and awl.
+  - Cutting tools, such as saw, chisel, plane, knife, and drill.
+  - Shaping tools, such as hammer, mallet, file, rasp, and sandpaper.
+  - Joining tools, such as nail, screw, glue, clamp, and dowel.
+  - Finishing tools, such as paint, stain, varnish, and brush.
+- Some of the common materials used in a carpentry shop are:
+  - Wood, such as hardwood, softwood, plywood, and particle board.
+  - Metal, such as iron, steel, brass, and copper.
+  - Plastic, such as PVC, acrylic, and polystyrene.
+  - Other materials, such as glass, leather, fabric, and paper.
+- Some of the common products made in a carpentry shop are:
+  - Furniture, such as table, chair, bed, cabinet, and shelf.
+  - Doors and windows, such as frame, panel, hinge, and latch.
+  - Stairs and railings, such as tread, riser, baluster, and handrail.
+  - Floors and ceilings, such as plank, tile, molding, and cornice.
+  - Walls and partitions, such as stud, joist, drywall, and insulation.
+  - Roofs and trusses, such as rafter, purlin, shingle, and flashing.
+- Some of the skills and knowledge required for working in a carpentry shop are:
+  - Reading and interpreting blueprints, drawings, and specifications.
+  - Estimating and calculating materials, costs, and time.
+  - Selecting and preparing appropriate tools and materials.
+  - Measuring and marking accurately and precisely.
+  - Cutting and shaping wood and other materials with various tools.
+  - Joining and assembling wood and other materials with various methods.
+  - Finishing and decorating wood and other materials with various techniques.
+  - Inspecting and testing the quality and functionality of carpentry products.
+  - Maintaining and repairing carpentry tools and equipment.
+  - Following safety rules and regulations in a carpentry shop.

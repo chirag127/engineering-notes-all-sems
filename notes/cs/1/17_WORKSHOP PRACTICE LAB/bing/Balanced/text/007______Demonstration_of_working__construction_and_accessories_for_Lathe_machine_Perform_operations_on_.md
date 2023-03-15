@@ -1,0 +1,22 @@
+#### Demonstration of working, construction and accessories for Lathe machine
+
+- A lathe machine is a machine tool that is used to perform various operations such as turning, facing, threading, knurling, parting, etc. on a workpiece by removing unwanted material in the form of chips.
+- The working principle of a lathe machine is based on the relative motion between the workpiece and the cutting tool. The workpiece is held between two rigid and strong supports called centers or in a chuck or face plate which revolves. The cutting tool is rigidly held and supported in a tool post which is fed against the revolving workpiece. The tool can be moved parallel or perpendicular to the axis of the workpiece to produce different shapes and sizes.
+- The construction of a lathe machine consists of the following main parts:
+  - Bed: It is the base of the machine that supports all the other parts and provides rigidity and alignment. It is usually made of cast iron or steel and has guide ways or rails on which the carriage and tailstock can slide.
+  - Headstock: It is the fixed part of the machine that holds the spindle and the driving mechanism. The spindle is a hollow cylindrical shaft that rotates the workpiece or the chuck. The driving mechanism consists of an electric motor, a gear box, a cone pulley, and a belt or a gear train that transmit the power and speed to the spindle.
+  - Tailstock: It is the movable part of the machine that supports the other end of the workpiece. It has a quill or a barrel that can slide in and out to adjust the length of the workpiece. The quill has a tapered hole that can hold a center, a drill bit, or a reamer for various operations.
+  - Carriage: It is the part of the machine that holds and moves the cutting tool along the workpiece. It consists of the following components:
+    - Saddle: It is the horizontal part of the carriage that slides on the bed along the longitudinal axis of the workpiece.
+    - Cross slide: It is the part of the carriage that slides on the saddle along the transverse axis of the workpiece. It has a hand wheel or a feed screw that can move the tool in or out of the workpiece.
+    - Compound slide: It is the part of the carriage that slides on the cross slide along an inclined axis. It has a swivel base that can be rotated to adjust the angle of the tool for taper turning or angular cutting.
+    - Tool post: It is the part of the carriage that holds the tool in a fixed position. It has a clamping device that can secure the tool or a tool holder. It can be of different types such as single, four-way, or quick change tool post.
+  - Feed mechanism: It is the part of the machine that controls the movement of the carriage and the tool along the workpiece. It consists of the following components:
+    - Lead screw: It is a long threaded rod that runs parallel to the bed and connects the headstock and the carriage. It is used for threading operations and can be engaged or disengaged by a half nut lever on the carriage.
+    - Feed rod: It is a rod that runs parallel to the lead screw and connects the headstock and the carriage. It is used for turning and facing operations and can be engaged or disengaged by a feed clutch lever on the carriage.
+    - Feed gears: They are a set of gears that connect the spindle and the feed rod or the lead screw. They can be changed to vary the feed rate or the pitch of the thread.
+    - Apron: It is the part of the carriage that houses the feed mechanism and the half nut lever, the feed clutch lever, and the hand wheel for manual movement of the carriage.
+- The accessories of a lathe machine are the additional parts or devices that are used to enhance the performance or the range of operations of the machine. Some of the common accessories are:
+  - Chuck: It is a device that is mounted on the spindle or the tailstock to hold the workpiece. It can be of different types such as three-jaw, four-jaw, collet, or magnetic chuck.
+  - Face plate: It is a flat circular plate that is mounted on the spindle to hold irregular or large workpieces that cannot be held by a chuck.
+  - Steady rest: It is a device that is mounted on the bed to support long or slender workpieces that tend to bend or vibrate during machining. It has three adjustable jaws that can clamp the workpiece at a suitable position.

@@ -1,0 +1,14 @@
+### 2. To enable the students to understand and apply the detailed concepts of spectroscopic techniques and
+
+- Spectroscopy is the study of the interaction of electromagnetic radiation with matter, such as atoms, molecules, or ions.
+- Spectroscopic techniques are methods that use different types of radiation, such as visible light, ultraviolet, infrared, microwave, radio, X-ray, or gamma ray, to probe the structure, composition, and properties of matter.
+- Spectroscopic techniques can be classified into two broad categories: absorption spectroscopy and emission spectroscopy.
+  - Absorption spectroscopy measures the amount of radiation that is absorbed by a sample when it is exposed to a source of radiation. The absorption spectrum shows the wavelengths or frequencies of radiation that are absorbed by the sample, which can reveal information about the energy levels, transitions, and vibrations of the sample.
+  - Emission spectroscopy measures the amount of radiation that is emitted by a sample when it is excited by a source of energy, such as heat, electricity, or light. The emission spectrum shows the wavelengths or frequencies of radiation that are emitted by the sample, which can reveal information about the energy levels, transitions, and vibrations of the sample.
+- Some of the common spectroscopic techniques and their applications are:
+  - UV-Vis spectroscopy: uses ultraviolet and visible light to measure the absorption or emission of a sample, which can indicate the presence and concentration of chromophores, such as organic molecules, metal ions, or complexes, in the sample.
+  - IR spectroscopy: uses infrared light to measure the absorption or emission of a sample, which can indicate the presence and types of functional groups, such as alcohols, ketones, or amines, in the sample, as well as the molecular geometry and bonding of the sample.
+  - NMR spectroscopy: uses radio waves to measure the absorption or emission of a sample in a magnetic field, which can indicate the presence and types of nuclei, such as hydrogen, carbon, or nitrogen, in the sample, as well as the chemical environment and interactions of the nuclei.
+  - Mass spectroscopy: uses ionization and acceleration of a sample to measure the mass-to-charge ratio of the sample or its fragments, which can indicate the molecular weight, formula, and structure of the sample.
+  - X-ray spectroscopy: uses X-rays to measure the absorption or emission of a sample, which can indicate the presence and types of elements, such as metals, in the sample, as well as the crystal structure and lattice parameters of the sample.
+  - Raman spectroscopy: uses visible or near-infrared light to measure the scattering of a sample, which can indicate the presence and types of vibrational modes, such as stretching, bending, or twisting, in the sample, as well as the molecular symmetry and polarity of the sample.

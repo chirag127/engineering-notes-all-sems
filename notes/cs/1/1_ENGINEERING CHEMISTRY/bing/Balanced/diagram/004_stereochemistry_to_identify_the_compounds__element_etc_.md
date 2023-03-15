@@ -1,0 +1,8 @@
+Stereochemistry is the branch of chemistry that deals with the three-dimensional arrangement of atoms and molecules and the effect of this on chemical reactions. Stereochemistry focuses on the relationships between stereoisomers, which are molecules that have the same molecular formula and sequence of bonded atoms, but differ in the orientation of their atoms in space.
+
+Some of the topics that are covered in stereochemistry are:
+
+- Chirality: the property of a molecule that makes it non-superimposable on its mirror image. A molecule that has chirality is called a chiral molecule, and it can exist in two forms called enantiomers, which are mirror images of each other. Enantiomers have the same physical and chemical properties, except for their interaction with polarized light and other chiral molecules.
+- Configuration: the arrangement of atoms or groups around a chiral center or a double bond. Configuration can be specified by using different conventions, such as the Cahn-Ingold-Prelog (CIP) rules, the R/S system, the E/Z system, and the Fischer projection.
+- Conformation: the spatial arrangement of atoms or groups that results from rotation around single bonds. Conformation can affect the stability and reactivity of molecules, and it can be represented by using different models, such as the Newman projection, the sawhorse projection, and the chair and boat forms of cyclohexane.
+- Stereochemical reactions: the reactions that involve changes in the stereochemistry of molecules, such as inversion, retention, racemization, resolution, and asymmetric synthesis. Stereochemical reactions can be influenced by different factors, such as the mechanism, the solvent, the catalyst, and the stereochemistry of the reactants and products.

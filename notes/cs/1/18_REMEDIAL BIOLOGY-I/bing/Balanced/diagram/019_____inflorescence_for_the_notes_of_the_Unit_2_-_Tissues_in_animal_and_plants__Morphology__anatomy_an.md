@@ -1,0 +1,9 @@
+### Inflorescence
+
+- An inflorescence is the arrangement of a cluster of flowers on a floral axis or peduncle    .
+- Inflorescence can be classified into four types based on the arrangement and timing of flowering  :
+  - Racemose inflorescence (Indeterminate inflorescence): The main axis or peduncle continues to grow and produces flowers laterally in an acropetal succession (from base to apex). The flowers do not have pedicels or have very short ones  . Examples: Mustard, Raddish, Gulmohar, Amaranthus, etc .
+  - Cymose inflorescence (Determinate inflorescence): The main axis or peduncle terminates in a flower and produces lateral branches that also end in flowers. The flowers are produced in a basipetal succession (from apex to base). The flowers have long pedicels  . Examples: Jasmine, Ixora, Calotropis, etc .
+  - Special types of inflorescence: These are modified forms of racemose or cymose inflorescence that have a characteristic shape or structure. Examples: Capitulum (a dense head of sessile flowers), Spadix (a fleshy spike of flowers enclosed by a spathe), Catkin (a pendulous spike of unisexual flowers), etc  .
+  - Mixed inflorescence: These are combinations of two or more types of inflorescence on the same plant. Examples: Cyathium (a cup-shaped involucre enclosing a single female flower and several male flowers), Hypanthodium (a fleshy receptacle enclosing numerous unisexual flowers), etc .
+- Inflorescence is significant for the plant as it affects the pollination, seed dispersal, and reproductive success of the plant. It also influences the morphology, physiology, and ecology of the plant .

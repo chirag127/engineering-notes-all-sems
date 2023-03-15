@@ -1,0 +1,32 @@
+## Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is the use of computer software to create, modify, analyze, and optimize the design of a product or a system.
+- CAD software can help engineers, architects, designers, and other professionals to create and visualize 2D and 3D models of their ideas, test their performance, and communicate them to others.
+- CAD software can also be integrated with other computer tools, such as Computer Aided Manufacturing (CAM), Computer Aided Engineering (CAE), and Product Lifecycle Management (PLM), to support the entire design and production process.
+- CAD software can offer many benefits, such as:
+  - Improving the quality and accuracy of the design
+  - Reducing the time and cost of the design
+  - Enhancing the creativity and innovation of the designer
+  - Facilitating the collaboration and communication among the stakeholders
+  - Increasing the productivity and efficiency of the design team
+- CAD software can be classified into different types, depending on the nature and purpose of the design, such as:
+  - 2D CAD: used to create and edit 2D drawings, such as floor plans, schematics, and diagrams
+  - 3D CAD: used to create and manipulate 3D models, such as solid, surface, and wireframe models
+  - Parametric CAD: used to define and control the geometric and dimensional parameters of the design, such as dimensions, constraints, and relations
+  - Feature-based CAD: used to create and modify the design by adding or removing features, such as holes, fillets, and chamfers
+  - Direct CAD: used to edit the design directly on the geometry, without relying on features or parameters
+  - Generative CAD: used to generate the design automatically based on the functional and aesthetic requirements of the user
+  - Freeform CAD: used to create and sculpt organic and complex shapes, such as curves, surfaces, and meshes
+  - BIM (Building Information Modeling): used to create and manage the information and data of a building project, such as materials, components, systems, and spaces
+  - CAAD (Computer Aided Architectural Design): used to design and simulate the architectural aspects of a building, such as form, function, and aesthetics
+  - CAID (Computer Aided Industrial Design): used to design and visualize the industrial and product design, such as ergonomics, appearance, and usability
+  - CADD (Computer Aided Drafting and Design): used to create and document the technical drawings and specifications of a design, such as dimensions, annotations, and symbols
+- CAD software can be operated by using different input and output devices, such as:
+  - Keyboard and mouse: used to enter commands, select options, and manipulate the design on the screen
+  - Touchscreen and stylus: used to interact with the design by using gestures, taps, and strokes
+  - Joystick and trackball: used to control the movement and orientation of the design in 3D space
+  - Scanner and digitizer: used to capture and convert the physical or analog design into digital data
+  - Printer and plotter: used to produce the hard copy of the design on paper or other media
+  - Monitor and projector: used to display the design on the screen or on a larger surface
+  - VR (Virtual Reality) and AR (Augmented Reality): used to immerse the user in a simulated or enhanced environment of the design
+  - Haptic and audio: used to provide the user with tactile and auditory feedback of the design

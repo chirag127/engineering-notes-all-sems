@@ -1,0 +1,21 @@
+# Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software is a tool that can be used for various applications, such as architecture, engineering, industrial design, animation, and gaming.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings that show the dimensions, layout, and annotations of a product.
+  - 3D CAD software allows the creation of solid models that represent the shape, volume, and surface of a product.
+  - 3D CAD software can also perform parametric modeling, which is the ability to define the geometry and features of a product using parameters and constraints.
+- Some examples of popular CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and SketchUp.
+- Engineering Graphics is the discipline that deals with the representation and communication of technical information using graphical methods.
+- Engineering Graphics is essential for engineers to convey their ideas, designs, and specifications to other engineers, technicians, manufacturers, and customers.
+- Engineering Graphics uses standard symbols, conventions, and rules to create drawings that show the shape, size, orientation, and details of a product.
+- Engineering Graphics can be divided into two types: descriptive geometry and technical drawing.
+  - Descriptive geometry is the study of the principles and methods of representing 3D objects on 2D planes using projections, views, and transformations.
+  - Technical drawing is the application of descriptive geometry to create drawings that follow specific standards and formats, such as orthographic projection, isometric projection, dimensioning, and tolerancing.
+- Engineering Graphics and CAD are closely related, as CAD software is based on the concepts and techniques of engineering graphics.
+- Engineering Graphics and CAD can be used together to create, modify, and analyze 3D models of products and systems.
+- Engineering Graphics and CAD can also be used to create 2D drawings that document the design specifications and requirements of the products and systems.
+- Engineering Graphics and CAD are fundamental skills for engineers, as they enable them to design, communicate, and evaluate their engineering solutions .

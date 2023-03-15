@@ -1,0 +1,17 @@
+### Principles of classification in each kingdom
+
+The five kingdom classification system was proposed by R.H. Whittaker in 1969 based on the following criteria   :
+
+- Cellular structure: whether the cells are prokaryotic or eukaryotic
+- Body organization: whether the organisms are unicellular or multicellular
+- Mode of nutrition: whether the organisms are autotrophic or heterotrophic, and how they obtain their food
+- Phylogenetic relationships: the evolutionary history and common ancestry of the organisms
+- Reproduction: the mode and type of reproduction of the organisms
+
+The five kingdoms are:
+
+- **Monera**: This kingdom includes all the prokaryotic organisms, such as bacteria and cyanobacteria. They are unicellular and have a simple cell structure without a nucleus or membrane-bound organelles. They can be autotrophic or heterotrophic, and can reproduce by binary fission, budding, or spore formation. They are found in various habitats and show a wide range of metabolic diversity. Some of them can cause diseases in humans, animals, and plants, while others are beneficial for agriculture, industry, and biotechnology.
+- **Protista**: This kingdom includes all the eukaryotic organisms that are not classified as plants, animals, or fungi. They are mostly unicellular, but some are colonial or multicellular. They have a complex cell structure with a nucleus and membrane-bound organelles. They can be autotrophic or heterotrophic, and can obtain their food by photosynthesis, ingestion, or absorption. They can reproduce by asexual or sexual methods, or both. They are found in aquatic or moist environments and show a great diversity of forms and functions. Some of them are parasites or pathogens, while others are free-living or symbiotic.
+- **Fungi**: This kingdom includes all the eukaryotic organisms that are heterotrophic and obtain their food by absorption. They are mostly multicellular, but some are unicellular. They have a complex cell structure with a nucleus and membrane-bound organelles. They have a cell wall made of chitin, a polysaccharide. They can reproduce by asexual or sexual spores, or both. They are found in terrestrial or aquatic habitats and play important roles in decomposition, nutrient cycling, and symbiosis. Some of them are edible or useful for medicine, while others are poisonous or cause diseases.
+- **Plantae**: This kingdom includes all the eukaryotic organisms that are autotrophic and obtain their food by photosynthesis. They are multicellular and have a complex body organization with specialized tissues and organs. They have a cell wall made of cellulose, a polysaccharide. They can reproduce by asexual or sexual methods, or both. They are found in terrestrial or aquatic habitats and are the primary producers of organic matter and oxygen. They are the source of food, fiber, fuel, medicine, and many other products for humans and other animals.
+- **Animalia**: This kingdom includes all the eukaryotic organisms that are heterotrophic and obtain their food by ingestion. They are multicellular and have a complex body organization with specialized tissues and organs. They do not have a cell wall, but have a plasma membrane. They can reproduce by sexual methods, or rarely by asexual methods. They are found in terrestrial or aquatic habitats and show a high degree of diversity and adaptation. They are the consumers of organic matter and are involved in various ecological interactions. They are the most familiar and diverse group of living organisms.

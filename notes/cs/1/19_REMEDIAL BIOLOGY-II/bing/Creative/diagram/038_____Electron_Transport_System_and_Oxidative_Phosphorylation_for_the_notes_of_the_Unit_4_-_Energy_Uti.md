@@ -1,0 +1,27 @@
+### Electron Transport System and Oxidative Phosphorylation
+
+- Electron transport system (ETS) is a series of proteins and electron carriers located in the inner mitochondrial membrane that transfers electrons donated by the reduced molecules NADH and FADH2 through a series of electron acceptors, to oxygen.
+- Oxidative phosphorylation (OXPHOS) is a process involving a flow of electrons through the ETS, which creates an electrochemical gradient of protons across the inner mitochondrial membrane.
+- The electrochemical gradient of protons drives the synthesis of ATP by a membrane-bound enzyme called ATP synthase, which uses the energy of proton movement to catalyze the reaction ADP + Pi -> ATP.
+- This process of coupling electron transport and ATP synthesis by a proton gradient is called chemiosmosis.
+- Together, the ETS and chemiosmosis make up oxidative phosphorylation, which is the final stage of cellular respiration and produces most of the ATP generated from glucose oxidation.
+- The ETS consists of four main complexes (I, II, III, and IV) and two mobile electron carriers (ubiquinone and cytochrome c) that shuttle electrons between the complexes.
+- Complex I (NADH dehydrogenase) receives electrons from NADH and transfers them to ubiquinone, while pumping four protons across the membrane.
+- Complex II (succinate dehydrogenase) receives electrons from FADH2 and transfers them to ubiquinone, without pumping protons.
+- Complex III (cytochrome bc1) receives electrons from ubiquinone and transfers them to cytochrome c, while pumping four protons across the membrane.
+- Complex IV (cytochrome c oxidase) receives electrons from cytochrome c and transfers them to oxygen, the final electron acceptor, while pumping two protons across the membrane.
+- The oxygen molecule is reduced to water by accepting four electrons and four protons.
+- The ETS establishes a proton gradient with a higher concentration of protons in the intermembrane space than in the matrix.
+- The proton gradient creates a potential difference across the membrane, which is the driving force for ATP synthesis.
+- ATP synthase is a complex enzyme that spans the inner mitochondrial membrane and has two main subunits: F0 and F1.
+- F0 is a proton channel that allows protons to flow back into the matrix, following their electrochemical gradient.
+- F1 is an ATPase that uses the energy of proton flow to rotate a central stalk and catalyze the formation of ATP from ADP and Pi.
+- The rotation of the central stalk causes conformational changes in the F1 subunit that enable the binding and release of the substrates and products.
+- Each rotation of the central stalk produces three molecules of ATP.
+- The ETS and OXPHOS are regulated by the availability of substrates (NADH, FADH2, ADP, Pi, and O2) and the demand for ATP.
+- The rate of ETS and OXPHOS increases when the cellular energy charge is low, and decreases when the cellular energy charge is high.
+- The ETS and OXPHOS are also influenced by various inhibitors and uncouplers that interfere with the electron transport, proton gradient, or ATP synthesis.
+- Some examples of inhibitors are rotenone (blocks complex I), antimycin A (blocks complex III), cyanide and carbon monoxide (block complex IV), and oligomycin (blocks ATP synthase).
+- Some examples of uncouplers are 2,4-dinitrophenol (DNP) and thermogenin (UCP1), which allow protons to leak across the membrane, dissipating the proton gradient and reducing ATP synthesis.
+- Uncouplers can generate heat by converting the energy of the proton gradient into thermal energy.
+- This is the mechanism of non-shivering thermogenesis in brown adipose tissue, which contains a high amount of mitochondria and thermogenin.

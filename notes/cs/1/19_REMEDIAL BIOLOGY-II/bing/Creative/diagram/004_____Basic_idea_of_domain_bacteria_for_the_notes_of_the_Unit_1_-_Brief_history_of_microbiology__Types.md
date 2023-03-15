@@ -1,0 +1,9 @@
+### Basic idea of domain bacteria
+
+- Domain bacteria is one of the three domains of life, along with domain archaea and domain eukarya.
+- Domain bacteria includes the prokaryotes people encounter on an everyday basis . Prokaryotes are organisms that lack a membrane-bound nucleus and other organelles.
+- Domain bacteria is also possibly the largest domain, containing possibly millions of unknown and unrecorded specimens. These small, single-celled organisms live almost everywhere, and are the size of most eukaryotic organelles.
+- Domain bacteria can be classified into five main phyla: proteobacteria, cyanobacteria, firmicutes, actinobacteria, and spirochaetes. Each phylum has distinctive characteristics and functions.
+- Most bacterial species are heterotrophic; that is, they acquire their food from organic matter . The largest number of bacteria are saprobic, meaning that they feed on dead or decaying organic matter . A few bacterial species are parasitic; these bacteria live within host organisms and cause disease .
+- Some bacterial species are autotrophic; that is, they produce their own food from inorganic sources. For example, cyanobacteria are capable of photosynthesis, using light energy to convert carbon dioxide and water into organic molecules . Cyanobacteria are also known as blue-green algae because of their color and appearance .
+- Domain bacteria plays an important role in the production of industrial chemicals and pharmaceuticals, such as antibiotics, enzymes, vitamins, hormones, and biofuels. Bacteria can also be used for bioremediation, the process of using living organisms to clean up environmental pollutants.

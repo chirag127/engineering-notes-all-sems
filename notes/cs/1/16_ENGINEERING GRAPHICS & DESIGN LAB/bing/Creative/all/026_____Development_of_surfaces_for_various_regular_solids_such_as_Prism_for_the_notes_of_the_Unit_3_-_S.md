@@ -1,0 +1,21 @@
+# Development of Surfaces for Various Regular Solids such as Prism
+
+- Development of surfaces is a technique of representing the shape of a three-dimensional solid on a two-dimensional plane, such as a sheet of paper.
+- Development of surfaces is useful for designing and manufacturing objects that are made of sheet metal, paper, cardboard, etc.
+- Development of surfaces can be done by imagining that the solid is enclosed in a thin wrapper of material, such as paper, and then cutting and unfolding the wrapper to obtain a flat pattern.
+- Development of surfaces can also be done by using geometrical methods, such as projecting the edges and vertices of the solid onto a plane and then joining them with suitable curves or straight lines.
+- Development of surfaces can be classified into two types: parallel line development and radial line development.
+- Parallel line development is used for solids that have parallel edges, such as prisms and cylinders. In this method, the edges of the solid are projected parallel to each other onto a plane, and the faces of the solid are developed as rectangles or trapezoids.
+- Radial line development is used for solids that have a curved surface, such as cones and pyramids. In this method, the apex of the solid is projected onto a plane, and the faces of the solid are developed as sectors of circles or polygons.
+- To develop the surface of a prism, the following steps are followed:
+  - Draw the front view and the top view of the prism, showing its base, height, and slant height.
+  - Draw a horizontal line AB on the plane of development, and mark the length of the base of the prism on it.
+  - Divide the base of the prism into equal parts, and number them as 1, 2, 3, etc.
+  - Draw perpendiculars from the points on AB, and mark the height of the prism on them.
+  - Draw parallel lines from the points on the top view of the prism, and intersect them with the corresponding perpendiculars on the plane of development.
+  - Join the points of intersection with straight lines, and obtain the development of the lateral surface of the prism.
+  - To develop the base of the prism, draw a circle with radius equal to the slant height of the prism, and divide it into the same number of equal parts as the base of the prism.
+  - Draw radial lines from the center of the circle to the points of division, and number them as 1, 2, 3, etc.
+  - Draw arcs with radius equal to the length of the side of the base of the prism, and center at the points of division on the circle.
+  - Join the points of intersection of the arcs with straight lines, and obtain the development of the base of the prism.
+  - To complete the development of the prism, join the corresponding points on the lateral surface and the base with dashed lines, and show the cutting lines with dotted lines.

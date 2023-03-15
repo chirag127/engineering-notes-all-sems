@@ -1,0 +1,21 @@
+### Animal Cells
+
+- Animal cells are the basic structural and functional units of animal tissues and organs.
+- Animal cells are eukaryotic cells, which means they have a nucleus and membrane-bound organelles.
+- Animal cells are surrounded by a plasma membrane, which forms a selective barrier that allows nutrients to enter and waste products to leave.
+- Animal cells have various organelles that perform different functions, such as:
+  - Nucleus: the control center of the cell that contains the genetic material (DNA) and regulates gene expression.
+  - Cytoplasm: the fluid-filled space inside the cell that contains the organelles and various molecules.
+  - Mitochondria: the powerhouses of the cell that produce energy (ATP) by cellular respiration.
+  - Ribosomes: the sites of protein synthesis that are either free in the cytoplasm or attached to the endoplasmic reticulum.
+  - Endoplasmic reticulum: a network of membranes that transports materials within the cell and synthesizes lipids and proteins.
+  - Golgi apparatus: a stack of flattened membranes that modifies, sorts and packages proteins and lipids for secretion or delivery to other organelles.
+  - Lysosomes: the digestive system of the cell that contains enzymes that break down macromolecules, worn-out organelles and foreign substances.
+  - Centrosomes: the microtubule-organizing centers of the cell that play a role in cell division and movement.
+  - Cytoskeleton: a network of protein fibers that provides shape, support and movement to the cell.
+- Animal cells can be classified into different types based on their structure and function, such as:
+  - Skin cells: the cells that form the outer layer of the body and protect it from external factors. They include melanocytes (pigment-producing cells), keratinocytes (keratin-producing cells), Merkel cells (touch receptor cells) and Langerhans cells (immune cells).
+  - Muscle cells: the cells that contract and relax to produce movement. They can be skeletal (attached to bones), cardiac (found in the heart) or smooth (found in the walls of internal organs).
+  - Blood cells: the cells that circulate in the blood and transport oxygen, carbon dioxide, nutrients, hormones and immune cells. They include red blood cells (erythrocytes), white blood cells (leukocytes) and platelets (thrombocytes).
+  - Nerve cells: the cells that transmit electrical impulses and chemical signals to coordinate the activities of the body. They include neurons (nerve cells) and glial cells (support cells).
+  - Fat cells: the cells that store energy in the form of lipids and regulate metabolism and hormone production. They include adipocytes (fat cells) and brown fat cells (heat-producing cells).

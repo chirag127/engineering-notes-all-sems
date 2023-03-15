@@ -1,0 +1,18 @@
+# Transformation of Projections
+
+- A projection is a method of representing a three-dimensional (3D) object on a two-dimensional (2D) plane, such as a sheet of paper or a computer screen.
+- A projection is obtained by drawing lines of sight from an observer's eye to the points on the object and marking the points where these lines intersect the projection plane.
+- A projection can be classified into two types: parallel and perspective, depending on the distance and orientation of the observer from the object.
+- A parallel projection is a projection where the lines of sight are parallel to each other and perpendicular to the projection plane. This type of projection preserves the relative proportions and angles of the object, but not the true distances or shapes.
+- A perspective projection is a projection where the lines of sight converge at a single point, called the center of projection or the vanishing point. This type of projection mimics the way the human eye perceives the object, but distorts the relative proportions and angles of the object.
+- A projection can also be classified into three types: orthographic, oblique and axonometric, depending on the orientation of the projection plane relative to the object.
+- An orthographic projection is a parallel projection where the projection plane is parallel to one of the principal planes of the object, such as the front, top or side plane. This type of projection shows the true shape and size of the object on one plane, but not the depth or the other planes.
+- An oblique projection is a parallel projection where the projection plane is inclined to one of the principal planes of the object, such as the front plane. This type of projection shows the true shape and size of the object on one plane, and a distorted view of the other planes on the same plane.
+- An axonometric projection is a parallel projection where the projection plane is inclined to all three principal planes of the object, such as the isometric, dimetric or trimetric planes. This type of projection shows a 3D view of the object on a 2D plane, but not the true shape, size or angle of the object.
+- A transformation of projections is a process of changing the type or orientation of a projection by applying a mathematical operation, such as translation, rotation, scaling or shearing, to the coordinates of the projected points.
+- A transformation of projections can be used to convert one type of projection to another, such as from orthographic to oblique, or from oblique to axonometric, or vice versa.
+- A transformation of projections can also be used to change the view or perspective of the object, such as from front view to top view, or from isometric view to dimetric view, or vice versa.
+- A transformation of projections can be represented by a matrix, which can be multiplied with the vector of the projected point to obtain the transformed point.
+- A transformation of projections can be classified into two types: affine and projective, depending on the properties of the matrix and the type of projection involved.
+- An affine transformation is a transformation that preserves the parallelism and the ratio of distances between the projected points, but not the angles or the lengths. An affine transformation can be applied to any type of parallel projection, such as orthographic, oblique or axonometric.
+- A projective transformation is a transformation that preserves the collinearity and the cross ratio of the projected points, but not the parallelism or the ratio of distances. A projective transformation can be applied to any type of perspective projection, or to convert a parallel projection to a perspective projection, or vice versa.

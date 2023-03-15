@@ -1,0 +1,21 @@
+### 3. Determination of Alkalinity of water sample
+
+- Alkalinity is the measure of the capacity of water to neutralize acids.
+- Alkalinity is mainly caused by the presence of bicarbonates, carbonates and hydroxides of calcium, magnesium and other metals in water.
+- Alkalinity is important for water quality because it affects the pH, corrosion, disinfection and biological processes in water.
+- Alkalinity can be determined by titrating a water sample with a standard acid solution, usually sulfuric acid or hydrochloric acid, and using a suitable indicator to detect the endpoint.
+- The endpoint of the titration depends on the type and amount of alkaline substances in the water sample.
+- The most common types of alkalinity are:
+  - Phenolphthalein alkalinity (P-alkalinity): This is the amount of acid required to lower the pH of the water sample to 8.3, where phenolphthalein changes from pink to colorless. This indicates the presence of hydroxides and half of the carbonates in the water sample.
+  - Total alkalinity (T-alkalinity): This is the amount of acid required to lower the pH of the water sample to 4.5, where methyl orange changes from yellow to orange. This indicates the presence of hydroxides, carbonates and bicarbonates in the water sample.
+- The procedure for determining the alkalinity of a water sample is as follows:
+  - Take a 100 mL aliquot of the water sample in a conical flask and add 2-3 drops of phenolphthalein indicator. If the solution turns pink, record the initial burette reading of the acid solution and titrate with the acid until the pink color disappears. Record the final burette reading and calculate the volume of acid used. This is the P-alkalinity of the water sample.
+  - If the solution does not turn pink, the P-alkalinity is zero and proceed to the next step.
+  - Add 2-3 drops of methyl orange indicator to the same flask and record the initial burette reading of the acid solution. Titrate with the acid until the solution changes from yellow to orange. Record the final burette reading and calculate the volume of acid used. This is the T-alkalinity of the water sample.
+  - The alkalinity of the water sample can be expressed in terms of milligrams per liter (mg/L) or milliequivalents per liter (meq/L) of calcium carbonate (CaCO3), which is the standard unit for alkalinity. The conversion factor is 50 mg/L = 1 meq/L of CaCO3.
+  - The relationship between P-alkalinity and T-alkalinity can be used to determine the types and concentrations of alkaline substances in the water sample. The possible cases are:
+    - P-alkalinity = T-alkalinity: This indicates that the water sample contains only hydroxides and no carbonates or bicarbonates. The concentration of hydroxides is equal to the alkalinity value.
+    - P-alkalinity = 1/2 T-alkalinity: This indicates that the water sample contains only carbonates and no hydroxides or bicarbonates. The concentration of carbonates is equal to the alkalinity value.
+    - P-alkalinity = 0 and T-alkalinity > 0: This indicates that the water sample contains only bicarbonates and no hydroxides or carbonates. The concentration of bicarbonates is equal to the alkalinity value.
+    - P-alkalinity < 1/2 T-alkalinity: This indicates that the water sample contains a mixture of carbonates and bicarbonates and no hydroxides. The concentration of carbonates is equal to 2 times the P-alkalinity and the concentration of bicarbonates is equal to the difference between T-alkalinity and P-alkalinity.
+    - P-alkalinity > 1/2 T-alkalinity: This indicates that the water sample contains a mixture of hydroxides, carbonates and bicarbonates. The concentration of hydroxides is equal to the difference between P-alkalinity and 1/2 T-alkalinity, the concentration of carbonates is equal to 2 times the difference between T-alkalinity and P-alkalinity, and the concentration of bicarbonates is equal to 2 times the T-alkalinity.

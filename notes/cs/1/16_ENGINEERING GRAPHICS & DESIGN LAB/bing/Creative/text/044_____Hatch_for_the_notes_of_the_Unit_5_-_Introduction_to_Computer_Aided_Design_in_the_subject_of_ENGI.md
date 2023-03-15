@@ -1,0 +1,30 @@
+### Hatch for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Computer Aided Design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis, optimization, simulation, and testing of the product design.
+- CAD software can be used for various applications, such as mechanical engineering, architecture, civil engineering, electrical engineering, etc.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+- 2D CAD software allows the creation of flat drawings of objects, such as floor plans, schematics, diagrams, etc.
+- 3D CAD software allows the creation of solid models of objects, which can be viewed from any angle, rotated, zoomed, etc.
+- 3D CAD software can also support parametric modeling, which is the creation of models based on parameters and constraints, such as dimensions, angles, relations, etc.
+- Parametric modeling allows the modification of the model by changing the values of the parameters, and the model will update automatically to reflect the changes.
+- Some examples of 3D CAD software are Creo Parametric, SolidWorks, AutoCAD, Inventor, etc .
+- The benefits of using CAD software are:
+  - Increased productivity and efficiency of the design process.
+  - Improved accuracy and quality of the design.
+  - Reduced errors and rework.
+  - Enhanced communication and collaboration among the design team and stakeholders.
+  - Easier documentation and standardization of the design.
+  - Faster and cheaper prototyping and testing of the design.
+- The challenges of using CAD software are:
+  - The need for specialized training and skills to use the software effectively.
+  - The high cost of acquiring and maintaining the software and hardware.
+  - The compatibility and interoperability issues among different software and formats.
+  - The security and ethical issues of storing and sharing the design data.
+- The objectives of the course Engineering Graphics and Computer Aided Design are:
+  - To teach the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+  - To provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+  - To reinforce the students' analytic geometry and vector skills by creating and manipulating 3D models.
+  - To introduce the students to the Creo Parametric software and its features and functions.
+  - To enable the students to apply the engineering graphics and CAD concepts to real-world engineering problems and projects .

@@ -1,0 +1,12 @@
+# Polymer Composites
+
+- A polymer composite is a multi-phase material in which reinforcing fillers are integrated with a polymer matrix, resulting in synergistic mechanical properties that cannot be achieved from either component alone.
+- A polymer is a natural or synthetic substance composed of very large molecules, called macromolecules, that are multiples of simpler chemical units called monomers.
+- A polymer composite can consist of a continuous phase or matrix, which is typically the resin or polymer phase, and a dispersed phase or reinforcement, which can be continuous or noncontinuous, and can be made of various materials such as fibers, particles, flakes, etc .
+- Polymer composites are increasingly being used in various engineering fields, such as aerospace, automotive, biomedical, construction, etc, because of their advantages over conventional materials, such as high strength-to-weight ratio, corrosion resistance, design flexibility, etc .
+- Polymer composites can be classified based on different criteria, such as the type of polymer matrix (thermoset or thermoplastic), the type of reinforcement (fiber, particle, etc), the shape and orientation of reinforcement (continuous, discontinuous, aligned, random, etc), the processing method (molding, extrusion, etc), etc .
+- Some examples of polymer composites are:
+  - Carbon fiber reinforced polymer (CFRP), which is a composite of carbon fibers embedded in a thermoset or thermoplastic matrix, and is widely used in aerospace, automotive, and sports applications because of its high strength and stiffness .
+  - Glass fiber reinforced polymer (GFRP), which is a composite of glass fibers embedded in a thermoset or thermoplastic matrix, and is widely used in construction, marine, and electrical applications because of its low cost, high strength, and corrosion resistance .
+  - Wood plastic composite (WPC), which is a composite of wood fibers or particles embedded in a thermoplastic matrix, and is widely used in decking, fencing, and furniture applications because of its low maintenance, durability, and biodegradability .
+  - Nanocomposite, which is a composite of nanoscale fillers, such as nanoparticles, nanotubes, nanofibers, etc, embedded in a polymer matrix, and is widely used in biomedical, electronic, and energy applications because of its enhanced mechanical, electrical, thermal, and optical properties .

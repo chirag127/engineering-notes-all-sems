@@ -1,0 +1,22 @@
+### Pyramids
+
+- A pyramid is a solid figure with a polygonal base and triangular faces that meet at a common vertex.
+- The base can be any polygon, such as a square, a triangle, a pentagon, etc.
+- The axis of a pyramid is the line joining the vertex and the center of the base.
+- The slant height of a pyramid is the distance from the vertex to the midpoint of any edge of the base.
+- The projection of a pyramid is the representation of the pyramid on a plane, such as the horizontal plane (HP) or the vertical plane (VP).
+- The projection of a pyramid depends on the position and orientation of the pyramid with respect to the planes of projection.
+- There are different methods to draw the projection of a pyramid, such as the change of position method, the auxiliary plane method, the rotation method, etc.
+- The change of position method involves rotating the pyramid about its axis or a base edge until the axis or the base edge is parallel or perpendicular to one of the planes of projection.
+- The auxiliary plane method involves introducing an additional plane that is perpendicular to the axis or the base edge of the pyramid and parallel to one of the planes of projection.
+- The rotation method involves rotating the pyramid about a line that is perpendicular to both the planes of projection until the axis or the base edge of the pyramid is parallel or perpendicular to one of the planes of projection.
+- The projection of a pyramid can be classified into three types: front view, top view and side view.
+- The front view is the projection of the pyramid on the VP. It shows the true shape and size of the base and the height of the pyramid.
+- The top view is the projection of the pyramid on the HP. It shows the true shape and size of the base and the slant height of the pyramid.
+- The side view is the projection of the pyramid on a plane perpendicular to both the VP and the HP. It shows the true shape and size of the triangular faces of the pyramid.
+- The projection of a pyramid can be drawn by following these steps:
+  - Draw the base of the pyramid on the VP or the HP, depending on the given position and orientation of the pyramid.
+  - Draw the axis of the pyramid from the center of the base to the vertex, perpendicular to the base.
+  - Draw the slant edges of the pyramid from the vertex to the corners of the base, forming triangles with the axis.
+  - Project the base, the axis and the slant edges on the other plane of projection, using perpendicular lines.
+  - Label the points and dimensions of the projection.

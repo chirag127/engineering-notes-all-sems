@@ -1,0 +1,21 @@
+#### Study of Carpentry Tools, Equipment and different joints. Making of Cross Half lap joint, Half lap Dovetail joint and Mortise Tenon Joint
+
+- Carpentry tools and equipment are used to measure, mark, cut, shape, join and finish wood materials for various purposes. Some of the common tools and equipment are:
+
+  - Measuring and marking tools: such as tape measure, ruler, square, compass, pencil, chalk line, etc. They are used to measure and mark the dimensions and angles of the wood pieces accurately.
+  - Cutting tools: such as saws, chisels, planes, knives, etc. They are used to cut the wood pieces to the desired size and shape.
+  - Shaping tools: such as rasps, files, sandpaper, etc. They are used to smooth, round, bevel, or curve the edges and surfaces of the wood pieces.
+  - Joining tools: such as hammers, nails, screws, drills, clamps, glue, etc. They are used to fasten the wood pieces together using different methods of joinery.
+  - Finishing tools: such as brushes, paints, stains, varnishes, etc. They are used to enhance the appearance and protection of the wood products.
+
+- Wood joints are the ways of connecting two or more wood pieces together to form a structure or a product. There are many types of wood joints, each with its own advantages and disadvantages. Some of the common types of wood joints are:
+
+  - Butt joint: the simplest and weakest type of joint, where the end of one piece is joined to the edge or face of another piece using nails, screws, glue, or brackets. It is easy to make but not very strong or attractive.
+  - Miter joint: a type of joint where the ends of two pieces are cut at an angle (usually 45 degrees) and joined together to form a corner. It is used for making frames, boxes, and other products with right angles. It is stronger and more attractive than a butt joint, but requires more precise cutting and clamping.
+  - Dado joint: a type of joint where a groove or slot is cut across the grain of one piece and another piece is fitted into it. It is used for making shelves, cabinets, drawers, and other products with perpendicular pieces. It is stronger and more stable than a butt joint, but requires more cutting and fitting.
+  - Lap joint: a type of joint where two pieces overlap each other and are fastened together using nails, screws, glue, or dowels. It is used for making frames, ladders, chairs, and other products with parallel pieces. It is stronger and more rigid than a butt joint, but requires more material and fasteners.
+  - Bridle joint: a type of joint where a notch or a tenon is cut at the end of one piece and a corresponding slot or a mortise is cut in another piece, and the two pieces are fitted together. It is used for making frames, doors, windows, and other products with right angles. It is stronger and more elegant than a miter joint, but requires more cutting and fitting.
+  - Dowel joint: a type of joint where holes are drilled in both pieces and wooden pegs or dowels are inserted and glued to join them. It is used for making furniture, cabinets, toys, and other products with various angles. It is stronger and more durable than a nail or a screw joint, but requires more drilling and alignment.
+  - Mortise and tenon joint: a type of joint where a projection or a tenon is cut at the end of one piece and a cavity or a mortise is cut in another piece, and the two pieces are fitted together. It is one of the oldest and strongest types of joints, used for making furniture, frames, doors, and other products with various angles. It is very strong and attractive, but requires more skill and time to make.
+  - Box joint: a type of joint where the ends of two pieces are cut into interlocking fingers or tabs and joined together. It is used for making boxes, drawers, chests, and other products with right angles. It is very strong and decorative, but requires more precise cutting and clamping.
+  - Dovetail joint: a type of joint where the ends of two pieces are cut into interlocking wedges or tails and pins and joined together. It is one of the most beautiful and secure types of joints, used for making drawers, boxes, chests, and other products with right angles. It is very strong and resistant to pulling apart, but

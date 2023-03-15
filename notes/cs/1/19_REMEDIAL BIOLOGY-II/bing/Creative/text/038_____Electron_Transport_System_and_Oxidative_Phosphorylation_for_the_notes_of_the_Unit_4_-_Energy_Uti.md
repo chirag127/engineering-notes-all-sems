@@ -1,0 +1,22 @@
+### Electron Transport System and Oxidative Phosphorylation
+
+- Electron Transport System (ETS) is a series of proteins and electron carriers located in the inner mitochondrial membrane that transfers electrons donated by the reduced molecules NADH and FADH2 through a series of electron acceptors, to oxygen .
+- Oxidative Phosphorylation (OP) is a process involving a flow of electrons through the ETS, which creates an electrochemical gradient of protons across the inner mitochondrial membrane .
+- The electrochemical gradient of protons is used to drive the synthesis of ATP from ADP and Pi by a membrane-bound enzyme called ATP synthase, in a process called chemiosmosis .
+- Together, the ETS and chemiosmosis make up OP, which is the final stage of cellular respiration and produces most of the ATP generated from the oxidation of glucose .
+- The ETS consists of four major protein complexes (I, II, III, and IV) and two mobile electron carriers (ubiquinone and cytochrome c) that shuttle electrons between the complexes .
+- Complex I receives electrons from NADH and transfers them to ubiquinone, while pumping four protons across the membrane .
+- Complex II receives electrons from FADH2 and transfers them to ubiquinone, without pumping protons .
+- Ubiquinone delivers electrons to complex III, which transfers them to cytochrome c, while pumping four protons across the membrane .
+- Cytochrome c delivers electrons to complex IV, which transfers them to oxygen, the final electron acceptor, while pumping two protons across the membrane .
+- Oxygen combines with protons to form water as a byproduct of OP .
+- The ETS creates a proton gradient that is higher in the intermembrane space than in the matrix of the mitochondria .
+- The proton gradient represents a potential energy that can be harnessed by ATP synthase to make ATP .
+- ATP synthase is a complex enzyme that has two parts: F0 and F1 .
+- F0 is embedded in the membrane and acts as a proton channel that allows protons to flow back into the matrix .
+- F1 is attached to F0 and protrudes into the matrix, where it catalyzes the phosphorylation of ADP to ATP .
+- The flow of protons through F0 causes F1 to rotate, which changes its conformation and enables the binding and release of ADP, Pi, and ATP .
+- OP can produce up to 34 ATP molecules per glucose molecule, depending on the efficiency of the ETS and the transport of NADH and FADH2 into the mitochondria .
+- OP is regulated by the availability of oxygen, NADH, FADH2, ADP, and Pi, as well as by the feedback inhibition of ATP on some enzymes of the ETS and glycolysis .
+- OP is linked to the previous stages of cellular respiration, namely glycolysis, formation of acetyl-CoA, and Krebs cycle, which provide the substrates and cofactors for OP .
+- OP is the main source of ATP for most aerobic organisms, and it is essential for the maintenance of cellular functions and homeostasis .

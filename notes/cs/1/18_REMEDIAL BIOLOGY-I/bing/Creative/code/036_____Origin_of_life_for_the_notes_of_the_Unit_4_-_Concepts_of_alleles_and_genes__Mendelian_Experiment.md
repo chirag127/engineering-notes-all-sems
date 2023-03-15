@@ -1,0 +1,21 @@
+### Origin of life
+
+- The origin of life is the scientific problem of how life emerged from non-living matter on Earth, or possibly other planets.
+- There is no direct evidence or eyewitness account of the origin of life, so scientists rely on hypotheses, experiments, and observations to infer possible scenarios and mechanisms.
+- One of the main challenges of the origin of life is to explain how the organic molecules that define life, such as amino acids, nucleotides, sugars, and lipids, were formed and concentrated in the prebiotic environment.
+- Another challenge is to explain how these organic molecules were assembled into macromolecules, such as proteins, nucleic acids, polysaccharides, and membranes, and how these macromolecules acquired the functions of catalysis, replication, and information storage and transfer.
+- A third challenge is to explain how the first self-replicating systems emerged from the macromolecules, and how they evolved into more complex and diverse forms of life.
+- Some of the possible sources of organic molecules on the early Earth include:
+  - Abiotic synthesis from simple inorganic compounds, such as water, carbon dioxide, ammonia, and hydrogen, in the presence of energy sources, such as lightning, ultraviolet radiation, or volcanic activity. This was demonstrated by the Miller-Urey experiment in 1953, which produced amino acids and other organic compounds from a simulated primordial atmosphere.
+  - Delivery by extraterrestrial objects, such as meteorites, comets, and asteroids, which may have contained organic molecules or precursors. This was supported by the analysis of carbonaceous chondrites, which are a type of meteorite that contain amino acids, nucleobases, and other organic compounds.
+  - Formation in hydrothermal vents, which are fissures on the ocean floor that release hot water and minerals. These vents may have provided a suitable environment for the synthesis and concentration of organic molecules, as well as a source of chemical and thermal gradients.
+- Some of the possible mechanisms of macromolecule formation and function include:
+  - Polymerization on mineral surfaces, such as clay, iron sulfide, or pyrite, which may have acted as templates or catalysts for the formation of peptides, nucleic acids, and other polymers.
+  - Self-assembly of amphiphilic molecules, such as fatty acids, into micelles or vesicles, which may have served as primitive cell membranes or compartments.
+  - RNA world hypothesis, which proposes that RNA was the first macromolecule to perform both catalysis and information storage, and that it later gave rise to DNA and proteins.
+  - Metabolism-first hypothesis, which proposes that metabolic cycles, such as the citric acid cycle or the acetyl-CoA pathway, preceded the emergence of macromolecules, and that they provided the energy and building blocks for life.
+- Some of the possible models of the origin of self-replication and evolution include:
+  - Hypercycle, which is a network of interacting molecules that can catalyze each other's synthesis and replication, and that can undergo selection and variation.
+  - Autocatalytic set, which is a collection of molecules that can collectively produce all the molecules in the set, and that can also produce new molecules that can join the set.
+  - Protocell, which is a system that consists of a membrane-bound compartment that contains macromolecules that can perform metabolic and genetic functions, and that can grow and divide.
+  - Universal common ancestor, which is the hypothetical last common ancestor of all living organisms, and that may have had a simple genome, a membrane, and a basic metabolism.

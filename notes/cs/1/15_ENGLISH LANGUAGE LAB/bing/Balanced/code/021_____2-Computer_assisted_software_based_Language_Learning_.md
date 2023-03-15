@@ -1,0 +1,27 @@
+### 2-Computer assisted software based Language Learning:
+
+- Computer assisted software based language learning (CASBLL) is a subset of computer assisted language learning (CALL), which is an approach to teaching and learning languages that uses computers and other technologies to present, reinforce, and assess material to be learned, or to create environments where teachers and learners can interact with one another and the outside world.
+- CASBLL focuses on the use of software applications that are designed specifically for language learning purposes, such as interactive multimedia, games, simulations, adaptive learning systems, speech recognition, natural language processing, etc.
+- CASBLL can offer several advantages for language learners, such as:
+  - Increased motivation and engagement, as the software can provide immediate feedback, personalized content, and fun activities.
+  - Enhanced autonomy and self-regulation, as the software can allow learners to work at their own pace, choose their own learning paths, and monitor their own progress.
+  - Improved skills and competencies, as the software can expose learners to authentic and varied language input, output, and interaction, and provide opportunities for practice and revision.
+- CASBLL can also pose some challenges for language learners, such as:
+  - Technical issues and limitations, such as hardware compatibility, software bugs, network connectivity, etc.
+  - Pedagogical issues and limitations, such as lack of alignment with curriculum, learning objectives, and assessment criteria, lack of guidance and scaffolding, lack of human interaction and feedback, etc.
+  - Psychological issues and limitations, such as lack of motivation and engagement, lack of confidence and self-efficacy, lack of social and emotional support, etc.
+- CASBLL can be integrated into language learning in various ways, such as:
+  - As a supplement to classroom instruction, where the software can provide additional practice, reinforcement, and enrichment for learners.
+  - As a substitute for classroom instruction, where the software can provide the main source of instruction, feedback, and assessment for learners.
+  - As a complement to classroom instruction, where the software can provide a blended or hybrid learning experience, combining online and offline activities and interactions for learners.
+- CASBLL can be evaluated in terms of its effectiveness, efficiency, and satisfaction, using various methods and criteria, such as:
+  - Learner outcomes, such as language proficiency, skills, knowledge, attitudes, etc.
+  - Learner behaviors, such as engagement, participation, interaction, etc.
+  - Learner perceptions, such as satisfaction, enjoyment, motivation, etc.
+  - Software features, such as usability, functionality, design, etc.
+  - Software impact, such as cost, accessibility, scalability, etc.
+- CASBLL is a dynamic and evolving field, with new developments and trends emerging constantly, such as:
+  - Artificial intelligence and machine learning, which can enable the software to adapt to learners' needs, preferences, and abilities, and provide personalized and adaptive learning experiences.
+  - Gamification and game-based learning, which can enhance the software's appeal and effectiveness, by incorporating game elements and mechanics, such as points, badges, levels, quests, etc.
+  - Mobile and ubiquitous learning, which can increase the software's accessibility and flexibility, by allowing learners to access the software anytime and anywhere, using various devices and platforms, such as smartphones, tablets, etc.
+  - Social and collaborative learning, which can foster the software's interactivity and sociability, by facilitating communication and cooperation among learners, teachers, and other stakeholders, using various tools and media, such as chat, video, audio, etc.

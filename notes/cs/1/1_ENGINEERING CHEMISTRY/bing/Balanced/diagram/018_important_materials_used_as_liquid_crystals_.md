@@ -1,0 +1,7 @@
+# Important materials used as liquid crystals
+
+Liquid crystals are substances that exhibit both liquid and solid properties under certain conditions. They can be classified into three main types: thermotropic, lyotropic, and metallotropic.
+
+- Thermotropic liquid crystals are composed of organic molecules that change their orientation and phase depending on the temperature. They are widely used in liquid crystal displays (LCDs) and other devices that rely on the manipulation of light polarization. Some examples of thermotropic liquid crystals are nematic, smectic, and cholesteric phases .
+- Lyotropic liquid crystals are formed by amphiphilic molecules that self-assemble into ordered structures in the presence of a solvent, usually water. They are influenced by the concentration and polarity of the solvent, as well as the temperature and pressure. They are often found in biological materials, such as DNA, gelatin, surfactants, and phospholipids .
+- Metallotropic liquid crystals are composed of metal-containing compounds that exhibit liquid crystalline behavior. They are less common and less studied than the other two types, but they have potential applications in nanotechnology, catalysis, and magnetism. Some examples of metallotropic liquid crystals are metal-organic frameworks, metallopolymers, and metal nanoparticles.

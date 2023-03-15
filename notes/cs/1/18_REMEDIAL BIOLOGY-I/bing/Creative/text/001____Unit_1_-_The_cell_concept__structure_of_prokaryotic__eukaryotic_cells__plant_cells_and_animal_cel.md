@@ -1,0 +1,24 @@
+## Unit 1 - The cell concept, structure of prokaryotic, eukaryotic cells, plant cells and animal cells, Structure and function of cell membrane, cell organelles and their function, Basics of cell signaling, Structure and use of compound microscope, Basic chemical constituents of living body
+
+- The cell concept is the idea that all living things are composed of one or more cells, and that cells are the basic units of structure and function in living organisms.
+- Prokaryotic cells are cells that lack a nucleus and other membrane-bound organelles. They are usually unicellular and have a simple structure. Examples of prokaryotes are bacteria and archaea.
+- Eukaryotic cells are cells that have a nucleus and other membrane-bound organelles. They are usually multicellular and have a complex structure. Examples of eukaryotes are animals, plants, fungi and protists.
+- Plant cells are eukaryotic cells that have a cell wall, a large central vacuole, chloroplasts and other organelles that are specific to plants. They are able to perform photosynthesis and store starch.
+- Animal cells are eukaryotic cells that lack a cell wall, a large central vacuole, chloroplasts and other organelles that are specific to plants. They are able to perform cellular respiration and store glycogen.
+- The cell membrane is a thin, flexible layer that surrounds the cell and regulates the movement of substances in and out of the cell. It is composed of a phospholipid bilayer with embedded proteins, carbohydrates and cholesterol.
+- Cell organelles are specialized structures within the cell that perform specific functions. Some examples of cell organelles are:
+  - Nucleus: the control center of the cell that contains the genetic material (DNA) and directs the synthesis of proteins and other molecules.
+  - Mitochondria: the powerhouses of the cell that produce energy (ATP) by breaking down glucose and oxygen in a process called cellular respiration.
+  - Ribosomes: the sites of protein synthesis that are composed of RNA and proteins. They can be found in the cytoplasm or attached to the endoplasmic reticulum (ER).
+  - Endoplasmic reticulum (ER): a network of membranes that transports and modifies proteins and other molecules. There are two types of ER: rough ER, which has ribosomes attached to it, and smooth ER, which lacks ribosomes.
+  - Golgi apparatus: a stack of flattened membranes that sorts and packages proteins and other molecules for export or storage in vesicles.
+  - Lysosomes: the garbage disposals of the cell that contain digestive enzymes that break down worn-out or unwanted materials within the cell.
+  - Cytoskeleton: a network of protein fibers that provides shape, support and movement to the cell. It consists of microtubules, microfilaments and intermediate filaments.
+  - Centrioles: cylindrical structures that are involved in cell division and the formation of cilia and flagella. They are composed of microtubules arranged in a 9+0 pattern.
+  - Cilia and flagella: hair-like or whip-like extensions of the cell membrane that are used for locomotion or sensory functions. They are composed of microtubules arranged in a 9+2 pattern.
+  - Vacuoles: fluid-filled sacs that store water, nutrients, waste products or other substances. They are larger and more prominent in plant cells than in animal cells.
+  - Chloroplasts: the sites of photosynthesis that convert light energy into chemical energy (glucose) and oxygen. They are found only in plant cells and some protists. They contain a green pigment called chlorophyll and a system of membranes called thylakoids.
+  - Cell wall: a rigid layer that surrounds the cell membrane and provides support and protection to the cell. It is found only in plant cells, fungi and some protists. It is composed of cellulose, chitin or other polysaccharides.
+- Cell signaling is the process by which cells communicate with each other or with their environment through chemical or electrical signals. Some examples of cell signaling are:
+  - Hormones: chemical messengers that are produced by endocrine glands and travel through the bloodstream to target cells. They bind to specific receptors on the cell membrane or inside the cell and trigger a response. For example, insulin is a hormone that regulates blood glucose levels.
+  - Neurotransmitters: chemical messengers that are released by neurons and cross the synaptic gap to bind to receptors on another neuron or a muscle cell. They transmit nerve impulses and cause a response. For example, acetylcholine is a neurotransmitter that stimulates muscle contraction.

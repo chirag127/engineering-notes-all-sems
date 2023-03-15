@@ -1,0 +1,25 @@
+## Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of similar cells that work together to perform a specific function.
+- There are four main types of animal tissues: connective, nervous, muscle, and epithelial tissues.
+  - Connective tissue: supports and binds other tissues, such as blood, cartilage, bone, and fat .
+  - Nervous tissue: allows rapid communication between different parts of the body, such as the brain, spinal cord, and nerves .
+  - Muscle tissue: can contract to allow movement of body parts, such as the heart, skeletal muscles, and smooth muscles .
+  - Epithelial tissue: covers and protects the body surfaces, such as the skin, lining of the digestive tract, and glands .
+- There are three main tissue systems in plants: the epidermis, ground tissue, and vascular tissue.
+  - Epidermis: the outermost layer of cells that protects the plant from water loss, infection, and damage .
+  - Ground tissue: the bulk of the plant body that performs various functions, such as photosynthesis, storage, and support .
+  - Vascular tissue: the tissue that transports water and minerals from the roots to the leaves (xylem) and food from the leaves to the rest of the plant (phloem) .
+- Morphology is the study of the external form and structure of plants, such as the shape, size, color, and arrangement of plant parts.
+- Anatomy is the study of the internal structure and organization of plants, such as the cells, tissues, and organs that make up a plant.
+- The different parts of plants have different functions and adaptations to suit their environment and mode of life.
+  - Root: the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food .
+    - Types of roots: taproot (one main root with smaller branches, e.g. carrot), fibrous root (many thin roots of equal size, e.g. grass), adventitious root (roots that arise from other parts of the plant, e.g. corn).
+    - Anatomy of roots: epidermis (outer layer of cells with root hairs), cortex (parenchyma cells that store food and water), endodermis (layer of cells that regulates the passage of water and minerals), pericycle (layer of cells that gives rise to lateral roots), vascular cylinder (central region with xylem and phloem).
+  - Stem: the part of the plant that supports the leaves, flowers, and fruits, and transports water and food between them .
+    - Types of stems: herbaceous (soft and green, e.g. daisy), woody (hard and brown, e.g. oak), aerial (above ground, e.g. vine), subterranean (below ground, e.g. potato).
+    - Anatomy of stems: epidermis (outer layer of cells with cuticle and stomata), cortex (parenchyma cells that store food and water), vascular bundles (groups of xylem and phloem arranged in a ring), pith (parenchyma cells in the center of the stem).
+  - Leaf: the part of the plant that is the main site of photosynthesis and transpiration .
+    - Types of leaves: simple (one blade, e.g. maple), compound (many leaflets, e.g. rose), parallel (veins run parallel, e.g. grass), netted (veins form a network, e.g. oak).
+    - Anatomy of leaves: epidermis (outer layer of cells with cuticle and stomata), mesophyll (middle layer of cells with chloroplasts), vascular tissue (veins of xylem and phloem).
+  - Inflorescence: the part of the plant that is a group or cluster of flowers arranged on a stem[^

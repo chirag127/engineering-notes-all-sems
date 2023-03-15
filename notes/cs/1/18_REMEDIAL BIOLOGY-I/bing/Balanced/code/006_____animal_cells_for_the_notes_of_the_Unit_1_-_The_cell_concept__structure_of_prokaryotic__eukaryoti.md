@@ -1,0 +1,27 @@
+### Animal Cells
+
+- Animal cells are the basic structural and functional units of animal tissues and organs.
+- Animal cells are eukaryotic cells, which means they have membrane-bound organelles suspended in the cytoplasm.
+- Animal cells are enclosed by a plasma membrane, which forms a selective barrier that allows nutrients to enter and waste products to leave.
+- Animal cells have several structural organelles that enable them to function properly, such as:
+  - Nucleus: The control center of the cell that contains the genetic material (DNA) and regulates the cell's activities.
+  - Cytoplasm: The fluid-filled matrix that contains the organelles and the cytoskeleton.
+  - Cytoskeleton: A network of protein filaments that provides shape, support, and movement to the cell.
+  - Mitochondria: The powerhouses of the cell that produce energy (ATP) by cellular respiration.
+  - Ribosomes: The sites of protein synthesis that can be free in the cytoplasm or attached to the endoplasmic reticulum.
+  - Endoplasmic reticulum (ER): A system of membranous tubules and sacs that transports and modifies proteins and lipids.
+  - Golgi apparatus: A stack of flattened membranes that sorts and packages proteins and lipids for secretion or delivery to other organelles.
+  - Lysosomes: Membrane-bound vesicles that contain digestive enzymes and break down unwanted materials in the cell .
+  - Centrosomes: Structures that contain centrioles and organize the microtubules during cell division .
+  - Vacuoles: Membrane-bound sacs that store water, salts, sugars, and other substances in the cell.
+- Animal cells have some features that are different from plant cells, such as:
+  - Animal cells do not have cell walls that surround their plasma membrane.
+  - Animal cells do not have chloroplasts that perform photosynthesis.
+  - Animal cells do not have a large central vacuole that makes the cell rigid.
+  - Animal cells have more types and numbers of lysosomes and centrosomes than plant cells.
+- Animal cells can be classified into different types based on their structure and function, such as:
+  - Skin cells: The cells that form the outer layer of the body and protect it from external factors. They include melanocytes, keratinocytes, Merkel cells, and Langerhans cells.
+  - Muscle cells: The cells that contract and relax to produce movement. They can be skeletal, cardiac, or smooth muscle cells.
+  - Blood cells: The cells that circulate in the blood and perform various functions. They include red blood cells, white blood cells, and platelets.
+  - Nerve cells: The cells that transmit electrical impulses and communicate with other cells. They include neurons and glial cells.
+  - Fat cells: The cells that store energy in the form of lipids and regulate metabolism. They are also called adipocytes.

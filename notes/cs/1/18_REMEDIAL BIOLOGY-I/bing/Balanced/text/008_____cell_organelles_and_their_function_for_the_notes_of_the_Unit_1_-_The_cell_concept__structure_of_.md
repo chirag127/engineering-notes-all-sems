@@ -1,0 +1,20 @@
+### Cell organelles and their function
+
+- Cell organelles are small structures within the cytoplasm that carry out functions necessary to maintain homeostasis in the cell.
+- Cell organelles are involved in many processes, such as energy production, protein synthesis, secretion, detoxification, and signal transduction .
+- Cell organelles can be classified into two types: membranous and non-membranous.
+- Membranous organelles are surrounded by a lipid bilayer membrane, similar to the plasma membrane that encloses the cell.
+- Non-membranous organelles are not enclosed by a membrane and are directly in contact with the cytoplasm.
+- Some of the major cell organelles and their functions are:
+
+  - Plasma membrane: It is the outermost layer of the cell that separates it from the external environment. It is selectively permeable, meaning it allows some substances to pass through while blocking others. It also regulates the transport of materials into and out of the cell, and mediates cell-cell communication and recognition .
+  - Cytoplasm: It is the jelly-like substance that fills the cell and contains the organelles. It provides a medium for the chemical reactions and molecular interactions that take place in the cell. It also maintains the shape and internal pressure of the cell .
+  - Nucleus: It is the largest and most prominent organelle in eukaryotic cells. It contains the genetic material (DNA) of the cell, which is organized into chromosomes. It controls the expression of genes and the synthesis of proteins. It also regulates the cell cycle and cell division .
+  - Nucleolus: It is a dense region within the nucleus that produces ribosomal RNA (rRNA), which is a component of ribosomes. Ribosomes are the sites of protein synthesis in the cell .
+  - Endoplasmic reticulum (ER): It is a network of membranous tubules and sacs that extends from the nuclear envelope to the plasma membrane. It has two types: rough ER and smooth ER. Rough ER has ribosomes attached to its surface, and is involved in protein synthesis and modification. Smooth ER lacks ribosomes, and is involved in lipid synthesis, detoxification, and calcium storage .
+  - Golgi apparatus: It is a stack of flattened membranous sacs that receives, sorts, modifies, and packages proteins and lipids from the ER. It then sends them to their final destinations, either within the cell or outside the cell via vesicles .
+  - Lysosomes: They are spherical membranous sacs that contain digestive enzymes. They break down various substances, such as food particles, bacteria, viruses, worn-out organelles, and cellular debris. They also recycle the components of the degraded materials for reuse by the cell .
+  - Mitochondria: They are oval-shaped membranous organelles that are the sites of cellular respiration. They convert the chemical energy stored in glucose and other nutrients into adenosine triphosphate (ATP), which is the main source of energy for the cell. They have their own DNA and ribosomes, and can replicate independently of the nucleus .
+  - Chloroplasts: They are green-colored membranous organelles that are found only in plant cells and some algae. They are the sites of photosynthesis, which is the process of converting light energy into chemical energy. They also have their own DNA and ribosomes, and can replicate independently of the nucleus .
+  - Cytoskeleton: It is a network of protein filaments and tubules that provides structural support and shape to the cell. It also enables the movement of the cell and its organelles, and facilitates cell division and cell signaling .
+  - Centrioles: They are cylindrical structures composed of microtubules that are found in animal cells and some algae. They are located near the nucleus and form the poles of the spindle apparatus during cell division. They also organize the formation of cilia and flagella, which are hair-like or whip-like extensions of the plasma membrane that enable the movement of the cell or the surrounding fluid

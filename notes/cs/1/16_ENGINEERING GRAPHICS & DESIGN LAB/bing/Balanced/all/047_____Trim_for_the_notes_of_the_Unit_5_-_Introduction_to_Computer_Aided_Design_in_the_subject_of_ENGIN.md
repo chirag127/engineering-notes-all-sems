@@ -1,0 +1,28 @@
+# Trim for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Computer-aided design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be used for various applications, such as architecture, engineering, industrial design, animation, and gaming.
+- CAD software can be classified into two main types: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings that show the dimensions, layout, and annotations of a product.
+  - 3D CAD software allows the creation of solid models that represent the shape, volume, and surface of a product.
+  - 3D CAD software can also support parametric modeling, which is the ability to define and modify the geometry and features of a model based on mathematical equations and constraints.
+- Some examples of popular CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and SketchUp.
+- Engineering graphics is the discipline of creating and interpreting graphical representations of engineering objects and systems.
+- Engineering graphics can be used for communication, documentation, analysis, and design purposes.
+- Engineering graphics can be performed using manual tools, such as pencils, rulers, and compasses, or using CAD software.
+- Engineering graphics can be divided into two main categories: orthographic projection and pictorial representation.
+  - Orthographic projection is a method of representing a 3D object using multiple 2D views that show the object from different directions.
+  - Pictorial representation is a method of representing a 3D object using a single 2D view that shows the object in a realistic or simplified way.
+  - Some examples of pictorial representation are isometric, oblique, and perspective drawings.
+- Engineering graphics can also involve the use of symbols, conventions, standards, and codes to convey information and specifications about a product or system.
+- Engineering graphics can also include the use of dimensions, tolerances, annotations, and cross-sections to provide details and instructions for fabrication and assembly.
+- Engineering graphics and CAD are closely related and complementary disciplines that can enhance the engineering design and analysis process.
+- Engineering graphics and CAD can help engineers to:
+  - Visualize and conceptualize ideas and solutions.
+  - Communicate and collaborate with other engineers and stakeholders.
+  - Test and evaluate the feasibility and performance of a product or system.
+  - Optimize and improve the functionality and quality of a product or system.
+  - Document and present the design and analysis results.
+  - Generate and modify the design and analysis data.

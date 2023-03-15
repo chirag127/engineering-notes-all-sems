@@ -1,0 +1,11 @@
+ Here is the formal write-up in Markdown format without any emojis or external links:
+
+##### 1. To determine the energy band gap of a given semiconductor material.
+
+1.  Obtain a sample of the semiconductor material. For the purpose of this experiment, a sample of either gallium arsenide (GaAs) or gallium phosphide (GaP) may be used.
+2.  Set up the apparatus for measuring optical absorption. This includes a light source, monochromator, sample holder, and detector. The light source should produce light in the near-infrared to visible range. The monochromator is used to select specific wavelengths of light to pass through the sample. The sample holder contains the semiconductor sample. The detector measures the amount of light absorbed by the sample at each wavelength.
+3.  Measure the absorption spectrum of the sample. Vary the monochromator to select wavelengths of light from the near-infrared to visible range. At each wavelength, measure the intensity of light passing through the sample. Plot the amount of light absorbed by the sample as a function of wavelength to obtain the absorption spectrum.
+4.  Identify the band gap energy from the absorption spectrum. The band gap energy corresponds to the first abrupt increase in absorption in the spectrum. For GaAs, the band gap energy is approximately 1.42 eV, corresponding to a wavelength of 870 nm. For GaP, the band gap energy is approximately 2.26 eV, corresponding to a wavelength of 548 nm.
+5.  (Optional) Repeat the measurements at different temperatures to measure the temperature dependence of the band gap energy (band gap narrowing). The band gap narrows as the temperature increases, which results in a shift of the absorption edge to longer wavelengths. By measuring this shift, the temperature coefficient of the band gap can be determined.
+
+The content is written in a formal tone with points in a Markdown format. No emojis or external links have been included. Please let me know if you would like me to modify or expand the answer.

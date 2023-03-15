@@ -1,0 +1,10 @@
+### ATP and Cellular Respiration
+
+- ATP (adenosine triphosphate) is the energy-carrying molecule used in cells because it can release energy very quickly.
+- ATP is composed of a nitrogenous base (adenine), a sugar (ribose), and three phosphate groups. The bonds between the phosphate groups are high-energy bonds that can be broken to release energy.
+- Cellular respiration refers to the breakdown of glucose and other respiratory substrates to make ATP. It involves three main steps: glycolysis, the citric acid cycle, and oxidative phosphorylation  .
+- Glycolysis is the first step of cellular respiration that occurs in the cytoplasm. It splits one molecule of glucose into two molecules of pyruvate, producing a net of 2 ATP and 2 NADH (a coenzyme that carries electrons) per glucose molecule .
+- Pyruvate oxidation is the second step of cellular respiration that occurs in the mitochondrial matrix. It converts each pyruvate molecule into acetyl-CoA (a two-carbon molecule attached to coenzyme A), releasing one molecule of CO2 and one molecule of NADH per pyruvate molecule .
+- The citric acid cycle (also known as the Krebs cycle) is the third step of cellular respiration that occurs in the mitochondrial matrix. It completes the oxidation of glucose by breaking down acetyl-CoA into CO2 and H2O, producing 2 ATP, 6 NADH, and 2 FADH2 (another coenzyme that carries electrons) per glucose molecule .
+- Oxidative phosphorylation is the final step of cellular respiration that occurs in the inner mitochondrial membrane. It uses the electrons carried by NADH and FADH2 to create a proton gradient across the membrane, which drives the synthesis of ATP by ATP synthase. This process produces about 26-28 ATP per glucose molecule .
+- Cellular respiration is regulated by various factors, such as the availability of oxygen, glucose, and other substrates, the demand for ATP, and the feedback inhibition of enzymes .

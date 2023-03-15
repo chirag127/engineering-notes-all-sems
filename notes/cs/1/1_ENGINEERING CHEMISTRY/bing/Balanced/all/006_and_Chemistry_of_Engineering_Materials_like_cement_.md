@@ -1,0 +1,8 @@
+# Chemistry of Engineering Materials: Cement
+
+Cement is a binding material that is used in construction and civil engineering. It is composed of various chemical compounds that react with water to form a hard and durable mass. Cement can be classified into two main types based on the way it sets and hardens: hydraulic cement and non-hydraulic cement.
+
+- Hydraulic cement hardens due to the addition of water. It can be used underwater or in moist conditions. The most common type of hydraulic cement is Portland cement, which is made up of four main compounds: tricalcium silicate (3CaO · SiO2), dicalcium silicate (2CaO · SiO2), tricalcium aluminate (3CaO · Al2O3), and a tetra-calcium aluminoferrite (4CaO · Al2O3Fe2O3) . These compounds undergo hydration reactions with water to form calcium silicate hydrate (C-S-H), calcium hydroxide (Ca(OH)2), and calcium aluminate hydrate (C-A-H), which are responsible for the strength and durability of cement.
+- Non-hydraulic cement hardens by carbonation with the carbon dioxide present in the air. It cannot be used underwater or in moist conditions. The most common type of non-hydraulic cement is lime, which is made of calcium oxide (CaO) or calcium hydroxide (Ca(OH)2). When lime is exposed to air, it reacts with carbon dioxide to form calcium carbonate (CaCO3), which binds the aggregates together.
+
+Cement is usually mixed with sand, crushed stone, or other inert materials to form mortar or concrete. Mortar is used to join bricks, stones, or tiles together, while concrete is used to make foundations, walls, floors, or other structures. The properties of mortar and concrete depend on the type and proportion of cement, water, and aggregates used.

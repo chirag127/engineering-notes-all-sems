@@ -1,0 +1,31 @@
+### Integration of metabolism
+
+- Metabolism is the sum of all the chemical reactions that take place in a living cell to maintain its structure and function.
+- Metabolism can be divided into two major types: catabolism and anabolism.
+  - Catabolism is the breakdown of complex molecules into simpler ones, releasing energy in the process.
+  - Anabolism is the synthesis of complex molecules from simpler ones, requiring energy in the process.
+- Metabolism is regulated by various factors, such as enzymes, hormones, nutrients, oxygen, and cellular signals .
+  - Enzymes are biological catalysts that speed up the rate of metabolic reactions by lowering the activation energy.
+  - Hormones are chemical messengers that coordinate the metabolic activities of different tissues and organs.
+  - Nutrients are the sources of energy and building blocks for metabolic reactions.
+  - Oxygen is the final electron acceptor in aerobic respiration, which produces most of the energy in the cell.
+  - Cellular signals are molecules that transmit information and regulate the expression and activity of metabolic enzymes.
+- Metabolism is integrated by the interconnection of different metabolic pathways and the coordination of different metabolic states .
+  - Metabolic pathways are sequences of chemical reactions that convert a starting molecule into a product, with the help of enzymes and cofactors .
+  - Metabolic pathways can be classified into linear, cyclic, or branched, depending on the arrangement of the reactions .
+  - Metabolic pathways can also be classified into amphibolic, anaplerotic, or cataplerotic, depending on their role in the balance of metabolites .
+    - Amphibolic pathways are those that can function both as catabolic and anabolic, depending on the cellular conditions .
+    - Anaplerotic pathways are those that replenish the intermediates of a metabolic cycle, such as the citric acid cycle .
+    - Cataplerotic pathways are those that deplete the intermediates of a metabolic cycle, such as the glyoxylate cycle .
+  - Metabolic states are the physiological conditions that affect the availability and demand of energy and nutrients in the cell.
+  - Metabolic states can be classified into fed, fasting, or starving, depending on the level of glucose and insulin in the blood.
+  - Metabolic states can also be classified into resting, exercising, or stressed, depending on the level of oxygen and epinephrine in the blood.
+  - Metabolic states determine the relative rates of catabolic and anabolic pathways, as well as the interconversion of different macromolecules, such as carbohydrates, lipids, and proteins.
+- Metabolism is diverse and adaptable, as different organisms and tissues can use different sources and pathways of energy production and utilization  .
+  - Energy production is the process of converting the chemical energy stored in nutrients into the chemical energy stored in adenosine triphosphate (ATP), the universal energy currency of the cell .
+  - Energy production can be classified into aerobic or anaerobic, depending on the presence or absence of oxygen .
+    - Aerobic energy production involves the oxidation of glucose, fatty acids, or amino acids, coupled with the reduction of oxygen, to produce ATP, water, and carbon dioxide .
+    - Anaerobic energy production involves the partial oxidation of glucose, without oxygen, to produce ATP and lactate or ethanol .
+  - Energy production can also be classified into substrate-level or oxidative, depending on the mechanism of ATP synthesis .
+    - Substrate-level energy production involves the direct transfer of a phosphate group from a high-energy compound to ADP, to form ATP .
+    - Oxidative energy production involves the indirect synthesis of ATP from ADP and inorganic phosphate, using the energy derived from the electron transport chain and the proton gradient across the inner mitochondrial membrane [^2^

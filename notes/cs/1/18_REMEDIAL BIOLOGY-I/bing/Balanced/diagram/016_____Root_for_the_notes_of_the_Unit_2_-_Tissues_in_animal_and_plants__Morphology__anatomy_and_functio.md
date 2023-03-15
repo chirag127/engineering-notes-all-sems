@@ -1,0 +1,22 @@
+### Root
+
+- The root is the descending portion of the plant axis that is usually underground.
+- The root system consists of the primary root and its branches.
+- The root system has four main functions:
+  - Absorption of water and minerals from the soil
+  - Providing a proper anchorage to the plant parts
+  - Storing reserve food material
+  - Synthesis of plant growth regulators
+- The root has a radial or concentric arrangement of tissues that determines the patterns and rates of nutrient transport from the soil to the vascular tissue.
+- The root has three main regions:
+  - Root cap: a protective layer of cells that covers the root tip and secretes mucilage to lubricate the soil
+  - Root meristem: a region of actively dividing cells that produces new root tissues
+  - Root hair zone: a region of elongated epidermal cells that increase the surface area for absorption
+- The root has two types of root systems:
+  - Taproot system: a single, thick primary root that grows deep into the soil and gives rise to lateral or secondary roots
+  - Fibrous root system: a cluster of thin, branched roots that spread horizontally near the soil surface
+- The root has different types of modifications for various purposes, such as storage, support, respiration, and reproduction. Some examples are:
+  - Tuberous root: a swollen, fleshy root that stores food, such as sweet potato
+  - Adventitious root: a root that arises from any part of the plant other than the radicle, such as prop roots in banyan tree
+  - Pneumatophore: a root that grows upward from the soil and has pores for gas exchange, such as in mangrove plants
+  - Nodulated root: a root that has nodules containing nitrogen-fixing bacteria, such as in legumes

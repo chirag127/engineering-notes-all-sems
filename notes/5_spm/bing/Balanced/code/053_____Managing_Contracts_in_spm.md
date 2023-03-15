@@ -1,0 +1,9 @@
+### Managing Contracts in SPM
+
+- SPM stands for Software Project Management, which is the discipline of planning, organizing, executing, and controlling software projects.
+- Contracts are legal agreements between two or more parties that define the scope, deliverables, terms, and conditions of a software project.
+- Managing contracts in SPM involves the following activities:
+  - **Contract planning**: This is the process of identifying the project objectives, requirements, risks, and constraints, and selecting the most suitable contract type and terms for the project. Some common contract types are fixed-price, cost-reimbursable, time and materials, and incentive-based contracts.
+  - **Contract negotiation**: This is the process of communicating and bargaining with the other party to reach a mutually acceptable contract that meets the project needs and expectations. Some key negotiation skills are active listening, assertiveness, empathy, and compromise.
+  - **Contract administration**: This is the process of monitoring and controlling the contract performance, ensuring that both parties fulfill their obligations and responsibilities, and managing any changes, issues, or disputes that may arise during the project. Some important contract administration tools are contract management software, change control system, performance measurement system, and dispute resolution mechanism.
+  - **Contract closure**: This is the process of verifying that the contract deliverables have been completed and accepted, settling any outstanding payments or claims, and terminating the contract in a formal and satisfactory manner. Some essential contract closure activities are contract review, contract audit, contract sign-off, and contract feedback.

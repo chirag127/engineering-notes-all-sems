@@ -1,0 +1,13 @@
+### Transformation of Projections
+
+- A projection is a method of representing a three-dimensional (3D) object on a two-dimensional (2D) plane, such as a sheet of paper or a computer screen.
+- A projection is obtained by drawing lines of sight from an observer's eye to the points on the object and marking the points where these lines intersect the projection plane.
+- A projection can be classified into two types: parallel and perspective, depending on the distance and orientation of the observer from the object.
+- A parallel projection is a projection where the lines of sight are parallel to each other and perpendicular to the projection plane. This type of projection preserves the relative proportions and angles of the object, but not the true distances.
+- A perspective projection is a projection where the lines of sight converge at a single point, called the center of projection or the vanishing point. This type of projection mimics the way the human eye perceives the object, but distorts the relative proportions and angles of the object.
+- A projection can also be classified into two types: orthographic and oblique, depending on the orientation of the projection plane relative to the object.
+- An orthographic projection is a projection where the projection plane is parallel to one of the principal planes of the object, such as the front, top, or side plane. This type of projection shows the true shape and size of the object on the projection plane, but not the depth.
+- An oblique projection is a projection where the projection plane is inclined to one or more of the principal planes of the object. This type of projection shows the true shape and size of the object on the projection plane, as well as some indication of the depth, but not the true angle.
+- A transformation of projections is a process of changing the type or orientation of a projection, such as from parallel to perspective, or from orthographic to oblique, or vice versa.
+- A transformation of projections can be achieved by applying a mathematical matrix to the coordinates of the object, which modifies the values of the x, y, and z axes according to the desired projection .
+- A transformation of projections can be useful for engineering graphics and design, as it allows the designer to view the object from different perspectives and to create realistic or simplified representations of the object .

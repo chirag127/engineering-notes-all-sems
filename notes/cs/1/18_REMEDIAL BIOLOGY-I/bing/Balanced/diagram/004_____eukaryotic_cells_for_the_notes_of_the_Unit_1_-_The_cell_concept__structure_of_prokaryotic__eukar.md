@@ -1,0 +1,10 @@
+### Eukaryotic Cells
+
+- Eukaryotic cells are one of the two types of cells that make up all living things. The other type is prokaryotic cells.
+- Eukaryotic cells have a nucleus that contains the genetic material (DNA) and is surrounded by a membrane  .
+- Eukaryotic cells also have other membrane-bound organelles that perform specific functions, such as mitochondria (energy production), endoplasmic reticulum (protein synthesis and transport), Golgi apparatus (modification and sorting of proteins), lysosomes (digestion and recycling of cellular components), and vacuoles (storage and water balance)  .
+- Eukaryotic cells have a cytoskeleton that provides structure and support, and enables movement and cell division. The cytoskeleton is composed of microtubules, microfilaments, and intermediate filaments .
+- Eukaryotic cells can be divided into four major groups based on their characteristics: protozoa (single-celled organisms that can move and feed on other organisms), fungi (organisms that decompose organic matter and can be multicellular or unicellular), plants (multicellular organisms that can photosynthesize and have cell walls), and animals (multicellular organisms that can move and feed on other organisms and do not have cell walls)  .
+- Eukaryotic cells communicate with each other and their environment through cell signaling, which involves the transmission and reception of chemical or electrical signals. Cell signaling can regulate cellular activities such as growth, differentiation, metabolism, and apoptosis .
+- Eukaryotic cells can be observed and studied using a compound microscope, which uses two sets of lenses to magnify the image of the specimen. The compound microscope can reveal the basic structure and shape of eukaryotic cells, as well as some of their organelles .
+- Eukaryotic cells are composed of various chemical constituents that are essential for life, such as water, carbohydrates, lipids, proteins, nucleic acids, and minerals. These molecules are involved in various biochemical reactions and processes that sustain the cell's function and survival .

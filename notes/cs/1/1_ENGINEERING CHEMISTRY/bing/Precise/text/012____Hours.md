@@ -1,0 +1,15 @@
+## Hours
+- An hour is a unit of time conventionally defined as 1/24th of a day and scientifically reckoned as 3,599–3,601 seconds, depending on conditions.
+- The hour was initially established in the ancient Near East as a variable measure of 1/12 of the night or daytime.
+- The seasonal, temporal, or unequal hour was established in the ancient Near East as 1/12 of the night or daytime.
+- The hour was subsequently divided into 60 minutes, each of 60 seconds.
+- The hour is commonly symbolized using the abbreviation "h" or "hr".
+- The time of day is typically expressed in terms of hours.
+- The 24-hour clock is a convention of timekeeping in which the day runs from midnight to midnight and is divided into 24 hours, indicated by the hours passed since midnight, from 0 to 23.
+- The 12-hour clock is a time convention in which the 24 hours of the day are divided into two periods: a.m. (from the Latin, ante meridiem, meaning before midday) and p.m. (post meridiem, meaning after midday).
+- Each period consists of 12 hours numbered: 12 (acting as zero), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11.
+- The 24-hour clock is used in most countries, particularly those in Europe, while the 12-hour clock is commonly used in countries such as the United States, Canada (except Québec), Australia, New Zealand, India, Pakistan, the Philippines, Colombia, and others.
+- The 24-hour clock is also commonly used in military and transportation contexts.
+- The International System of Units (SI) defines the second as the duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom.
+- The hour is not an SI unit, but it is accepted for use with SI units.
+- The hour is commonly used in various fields, including science, medicine, transportation, and law.

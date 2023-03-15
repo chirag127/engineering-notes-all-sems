@@ -1,0 +1,9 @@
+# Water and Boiler Troubles Used in Industry as well as Analysis of Coal & Determination of Calorific Values
+
+1. Coal boilers use small amounts of water for boiler blowdown. In this process, water is bled from the boiler to get rid of impurities that accumulate and form sludge that can impair a plant’s performance.
+2. The pH value of the boiler water is a number between zero and fourteen. Values below seven are acidic, seven is neutral, and values above seven are alkaline. The pH factor influences scale formation and the corrosive tendencies of boiler water.
+3. Most coal-fired power station boilers use pulverized coal, and many of the larger industrial water-tube boilers also use this pulverized fuel. This technology is well developed, and there are thousands of units around the world, accounting for well over 90% of coal-fired capacity.
+4. The coal is ground (pulverized) to a fine powder, so that less than 2% is +300 micro meter (µm) and 70-75% is below 75 microns, for a bituminous coal. It should be noted that too fine a powder is wasteful of grinding mill power. On the other hand, too coarse a powder does not burn completely in the combustion chamber and results in higher unburnt losses.
+5. The main heat losses of the boiler are as follows: incomplete combustion, excess air, flue gas heat loss due to water vapor in flue gas temperature, fuel type, boiler load, the pollution of surface heat losses from the boiler heating surface.
+6. Moisture in coal is needed for determining the calorific (heating) value and handling properties of a coal. The moisture value given for a proximate analysis is the moisture measured as mass lost from a sample under specified conditions after heating in a moisture oven to 104 to 110°C.
+7. Industrial boilers are used to produce steam or heat water for space and process heating and for the generation of mechanical power and electricity.

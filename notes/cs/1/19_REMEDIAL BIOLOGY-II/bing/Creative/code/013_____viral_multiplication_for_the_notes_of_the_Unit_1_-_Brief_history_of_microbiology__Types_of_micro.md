@@ -1,0 +1,23 @@
+### Viral Multiplication
+
+Viral multiplication is the process of producing new viruses using the host cell's machinery and resources. Viruses are obligate intracellular parasites, meaning they can only replicate inside living cells. Viruses have different types of genomes, such as DNA or RNA, single-stranded or double-stranded, linear or circular, etc. The type of genome determines the mode of replication and the enzymes involved.
+
+The general steps of viral multiplication are:
+
+1. **Attachment**: The virus binds to a specific receptor on the surface of the host cell. The receptor is usually a protein or a carbohydrate that is involved in normal cellular functions. The attachment is mediated by viral proteins called spikes or fibers that protrude from the viral capsid or envelope. The attachment determines the host range and tissue tropism of the virus, i.e., the types of cells and organisms that the virus can infect.
+2. **Penetration**: The virus enters the host cell by one of the following mechanisms:
+    - **Endocytosis**: The host cell membrane invaginates and forms a vesicle around the virus, which is then internalized into the cytoplasm. This is common for enveloped viruses and some naked viruses.
+    - **Fusion**: The viral envelope fuses with the host cell membrane, releasing the viral capsid or nucleocapsid into the cytoplasm. This is common for some enveloped viruses, such as HIV and influenza.
+    - **Injection**: The virus injects its genome into the host cell, leaving the capsid outside. This is common for some naked viruses, such as bacteriophages and plant viruses.
+3. **Uncoating**: The viral genome is released from the capsid or nucleocapsid and becomes accessible for replication and transcription. This may involve the degradation of the capsid by viral or host enzymes, or the escape of the genome from the endocytic vesicle.
+4. **Biosynthesis**: The viral genome is replicated and transcribed to produce new copies of viral nucleic acids and proteins. Depending on the type of genome, this may occur in the cytoplasm or the nucleus of the host cell, and may involve different strategies and enzymes. For example, DNA viruses usually use the host cell's DNA polymerase to replicate their genome, while RNA viruses usually carry their own RNA polymerase to replicate their genome. The viral proteins are synthesized by the host cell's ribosomes, either from the viral genome directly or from viral mRNA transcripts.
+5. **Assembly**: The newly synthesized viral components are assembled into new viral particles. This may involve the formation of capsids around the viral genomes, the acquisition of envelopes from the host cell membrane, and the incorporation of viral spikes or fibers into the envelopes. The assembly may occur in the cytoplasm or the nucleus of the host cell, depending on the type of virus.
+6. **Release**: The new viral particles exit the host cell by one of the following mechanisms:
+    - **Lysis**: The host cell membrane is ruptured by viral or host enzymes, releasing the viral particles into the extracellular environment. This is common for naked viruses and some enveloped viruses, such as herpesviruses. The lysis of the host cell usually results in its death.
+    - **Budding**: The viral particles push out from the host cell membrane, acquiring envelopes as they do so. This is common for enveloped viruses, such as HIV and influenza. The budding of the viral particles may not kill the host cell immediately, but may cause gradual damage and dysfunction.
+    - **Exocytosis**: The viral particles are packaged into vesicles and transported to the host cell membrane, where they are released by fusion of the vesicles with the membrane. This is common for some enveloped viruses, such as coronaviruses and paramyxoviruses. The exocytosis of the viral particles may not affect the host cell viability.
+
+The viral multiplication cycle can be classified into two types based on the fate of the host cell and the viral genome:
+
+- **Lytic cycle**: The virus replicates and produces new viral particles that lyse the host cell and infect new cells. The viral genome does not integrate into the host genome and does not persist in the host cell. This is common for most viruses, such as bacteriophages and animal viruses.
+- **Lysogenic cycle**: The virus integrates its genome into the host genome and becomes a prophage or a provirus. The viral genome remains dormant and does not produce new viral particles, but is replicated along with the host genome. The host cell is not lysed and continues

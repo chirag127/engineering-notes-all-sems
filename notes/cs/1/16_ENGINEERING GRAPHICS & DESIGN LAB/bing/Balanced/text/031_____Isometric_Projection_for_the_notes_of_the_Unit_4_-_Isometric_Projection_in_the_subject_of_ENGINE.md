@@ -1,0 +1,27 @@
+### Isometric Projection
+
+- Isometric projection is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings.
+- It is an axonometric projection in which the three coordinate axes appear equally foreshortened and the angle between any two of them is 120 degrees .
+- Isometric projection is intended to combine the illusion of depth with the clarity and accuracy of a plan view.
+- Isometric projection is used by engineers, technical illustrators, and occasionally, architects to show the shape, size, and orientation of an object without distortion .
+- Isometric projection can be drawn by using an isometric scale or by using 30-degree angles from the horizontal lines.
+- Isometric projection can be classified into two types: isometric drawing and isometric view.
+  - Isometric drawing is a freehand sketching technique that shows the three principal dimensions of an object in one view.
+  - Isometric view is a precise and accurate representation of an object using instruments such as a compass, protractor, and ruler.
+- Isometric projection has some advantages and disadvantages over other types of projections .
+  - Advantages:
+    - It shows the true shape and size of the object along the principal axes.
+    - It is easy to draw and understand.
+    - It preserves the angles and proportions of the object.
+    - It can be used to show hidden details and internal features of the object.
+  - Disadvantages:
+    - It does not show the true lengths of the diagonal lines.
+    - It may cause confusion or ambiguity if the object has symmetrical or circular features.
+    - It requires more skill and practice to draw accurately.
+    - It may not be suitable for complex or irregular objects.
+- Isometric projection is one of the three types of axonometric projections, the other two being dimetric projection and trimetric projection.
+  - Dimetric projection is an axonometric projection in which two of the three axes are equally foreshortened and the angle between them is not 120 degrees.
+  - Trimetric projection is an axonometric projection in which none of the three axes are equally foreshortened and the angles between them are not equal.
+- Isometric projection is different from isometric perspective, which is a type of perspective projection that simulates the appearance of an object from a certain point of view.
+  - Isometric perspective is more realistic and dynamic than isometric projection, but it is also more distorted and less accurate.
+  - Isometric perspective is often used in video games, art, and animation to create a sense of depth and movement.

@@ -1,0 +1,24 @@
+# The Oldham-Hackman Job Characteristic Model
+
+- The Oldham-Hackman Job Characteristic Model, also known as the Job Characteristics Theory, is a framework for designing and enriching jobs to increase employee motivation, satisfaction and performance .
+- The model was developed by organizational psychologists J. Richard Hackman and Greg Oldham in the 1970s, based on their research on the effects of job characteristics on psychological states and outcomes  .
+- The model proposes that there are five core job dimensions that influence three critical psychological states of the employee, which in turn affect four personal and work outcomes  .
+- The five core job dimensions are:
+  - Skill variety: the degree to which the job requires a variety of skills and abilities to perform different tasks  .
+  - Task identity: the degree to which the job involves completing a whole and identifiable piece of work from start to finish  .
+  - Task significance: the degree to which the job has a substantial impact on the lives of other people, within or outside the organization  .
+  - Autonomy: the degree to which the job gives the employee freedom, independence and discretion to schedule the work and determine the procedures to carry it out  .
+  - Feedback: the degree to which the job provides the employee with clear and direct information about the effectiveness of his or her performance  .
+- The three critical psychological states are:
+  - Experienced meaningfulness of the work: the degree to which the employee feels that the work is worthwhile and valuable  .
+  - Experienced responsibility for the outcomes of the work: the degree to which the employee feels accountable and in control of the results of the work  .
+  - Knowledge of the actual results of the work: the degree to which the employee knows and understands how well he or she is doing  .
+- The four personal and work outcomes are:
+  - Motivation: the degree to which the employee is willing to exert high levels of effort to reach organizational goals  .
+  - Performance: the degree to which the employee achieves the desired results or standards of the work  .
+  - Satisfaction: the degree to which the employee is happy and content with the work and its rewards  .
+  - Absenteeism and turnover: the degree to which the employee is absent from work or leaves the organization  .
+- The model also suggests that the relationship between the core job dimensions and the outcomes is moderated by the employee's growth need strength, which is the extent to which the employee desires to develop his or her skills and abilities and seek challenging and meaningful work  .
+- The model implies that managers can improve the motivation, performance and satisfaction of their employees by increasing the core job dimensions, especially for those with high growth need strength  .
+- The model provides a diagnostic tool called the Job Diagnostic Survey, which measures the core job dimensions, the psychological states, the outcomes and the growth need strength of the employees, and calculates a motivating potential score for each job  .
+- The model has been widely applied and tested in various settings and contexts, and has received empirical support for its validity and usefulness  . However, the model has also been criticized for its complexity, assumptions, limitations and generalizability  .

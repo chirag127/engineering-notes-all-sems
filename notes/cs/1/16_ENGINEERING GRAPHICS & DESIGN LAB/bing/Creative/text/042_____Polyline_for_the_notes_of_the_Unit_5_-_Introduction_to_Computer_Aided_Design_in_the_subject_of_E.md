@@ -1,0 +1,34 @@
+### Polyline
+
+- A polyline is a continuous line that is composed of one or more connected straight line segments, which, together, make up a shape .
+- A polyline can also include arc segments, or a combination of straight and arc segments .
+- A polyline is created as a single object, which means that it can be modified, moved, copied, or deleted as a whole .
+- A polyline can have different properties, such as width, color, layer, linetype, and elevation .
+- A polyline can be used for various purposes, such as:
+  - Drawing shapes, such as polygons, rectangles, circles, etc.
+  - Applying non-continuous linetypes across vertices, such as dashed, dotted, or center lines .
+  - Creating complex curves, such as splines, helixes, or spirals .
+  - Representing contours, boundaries, paths, or routes.
+- A polyline can be created using various commands, such as:
+  - PLINE: Creates a 2D polyline by specifying the endpoints of each segment .
+  - 3DPOLY: Creates a 3D polyline by specifying the endpoints of each segment .
+  - POLYGON: Creates an equilateral closed polyline by specifying the number of sides and the center point .
+  - RECTANG: Creates a rectangular closed polyline by specifying the opposite corners .
+  - ARC: Creates an arc segment within a polyline by specifying the start point, the endpoint, and the center point .
+  - SPLINE: Creates a spline curve within a polyline by specifying the fit points .
+  - HELIX: Creates a helical or spiral curve within a polyline by specifying the base radius, the top radius, the height, and the number of turns .
+- A polyline can be edited using various commands, such as:
+  - PEDIT: Edits an existing polyline by adding or deleting vertices, changing the width, joining or breaking the segments, converting to a spline or a curve, etc .
+  - TRIM: Trims the excess parts of a polyline by specifying a cutting edge .
+  - EXTEND: Extends a polyline to meet another object by specifying a boundary edge .
+  - FILLET: Creates a rounded corner between two polyline segments by specifying a radius .
+  - CHAMFER: Creates a beveled corner between two polyline segments by specifying a distance .
+  - OFFSET: Creates a parallel copy of a polyline by specifying a distance and a direction .
+  - MIRROR: Creates a mirrored copy of a polyline by specifying a mirror line .
+  - ARRAY: Creates multiple copies of a polyline in a rectangular or polar pattern by specifying the number of rows, columns, and levels .
+  - ROTATE: Rotates a polyline around a base point by specifying an angle .
+  - SCALE: Changes the size of a polyline by specifying a base point and a scale factor .
+  - STRETCH: Changes the shape of a polyline by specifying a crossing window and a displacement vector .
+  - MOVE: Moves a polyline to a new location by specifying a base point and a second point .
+  - COPY: Copies a polyline to a new location by specifying a base point and a second point .
+  - ERASE: Deletes a polyline from the drawing .

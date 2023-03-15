@@ -1,0 +1,41 @@
+### Projection of Point
+
+- Projection in engineering drawing is a technique for representing a three-dimensional object on a two-dimensional drawing.
+- A point is the simplest geometric element that has no dimensions, only a position in space.
+- To project a point onto a plane, we need to draw a line of sight from the point to the plane and mark the point where the line intersects the plane. This point is called the projection of the point.
+- The line of sight is the imaginary line along which the observer views the point.
+- The plane of projection is the imaginary flat plane upon which the image is projected.
+- If the distance from the observer to the point is infinite, then the line of sight is parallel to all other lines of sight, and the projection is called a parallel projection.
+- If the distance from the observer to the point is finite, then the line of sight is not parallel to other lines of sight, and the projection is called a perspective projection.
+- A perspective projection gives a realistic view of the object, but it is difficult to measure and construct accurately.
+- A parallel projection gives a simplified view of the object, but it preserves the true shape and size of the object.
+- There are two types of parallel projections: orthographic and oblique.
+- Orthographic projection is a parallel projection where the plane of projection is perpendicular to the line of sight.
+- Oblique projection is a parallel projection where the plane of projection is not perpendicular to the line of sight.
+- Orthographic projection is more commonly used in engineering drawing than oblique projection, because it shows the true dimensions and angles of the object.
+- There are three principal planes of projection in orthographic projection: the horizontal plane (HP), the vertical plane (VP), and the profile plane (PP).
+- The horizontal plane is parallel to the ground and the vertical plane is perpendicular to the ground.
+- The profile plane is perpendicular to both the horizontal and the vertical planes.
+- The three planes of projection intersect at right angles and form a box around the object.
+- The object is assumed to be placed inside the box and viewed from different directions.
+- The views obtained from the six directions are called the six principal views: the front view, the top view, the bottom view, the left view, the right view, and the back view.
+- The front view is obtained by projecting the object onto the vertical plane from the front direction.
+- The top view is obtained by projecting the object onto the horizontal plane from the top direction.
+- The bottom view is obtained by projecting the object onto the horizontal plane from the bottom direction.
+- The left view is obtained by projecting the object onto the profile plane from the left direction.
+- The right view is obtained by projecting the object onto the profile plane from the right direction.
+- The back view is obtained by projecting the object onto the vertical plane from the back direction.
+- The six principal views are arranged on a sheet of paper according to a convention called the first-angle projection or the third-angle projection.
+- In the first-angle projection, the object is assumed to be placed in the first quadrant of the box, and the planes of projection are unfolded towards the observer.
+- In the third-angle projection, the object is assumed to be placed in the third quadrant of the box, and the planes of projection are unfolded away from the observer.
+- The first-angle projection is more widely used in Europe and Asia, while the third-angle projection is more widely used in North America and Australia.
+- To project a point in orthographic projection, we need to find its distances from the three principal planes and mark them on the corresponding views.
+- The distance of the point from the horizontal plane is called the height of the point, denoted by h.
+- The distance of the point from the vertical plane is called the distance of the point, denoted by d.
+- The distance of the point from the profile plane is called the offset of the point, denoted by o.
+- The height of the point is measured on the front view and the back view, along the vertical axis.
+- The distance of the point is measured on the top view and the bottom view, along the horizontal axis.
+- The offset of the point is measured on the left view and the right view, along the profile axis.
+- The projection of the point on the horizontal plane is called the plan of the point, denoted by P.
+- The projection of the point on the vertical plane is called the elevation of the point, denoted by E.
+- The projection of the

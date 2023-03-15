@@ -1,0 +1,21 @@
+### Concept of animal and plant classification
+
+- Biological classification is the scientific process of arranging living organisms into groups based on their similarities and differences.
+- Classification helps to organize the diversity of life and to understand the evolutionary relationships among different groups of organisms.
+- The basic unit of classification is the species, which is a group of organisms that can interbreed and produce fertile offspring.
+- Species are grouped into larger categories called genera (singular: genus), which are further grouped into families, orders, classes, phyla (singular: phylum), and kingdoms.
+- The most widely used system of classification is the Linnaean taxonomy, which was developed by the Swedish naturalist Carl Linnaeus in the 18th century.
+- Linnaeus classified all living organisms into two kingdoms: Plantae (plants) and Animalia (animals), based on their morphology and anatomy.
+- Later, other scientists proposed more kingdoms to accommodate the diversity of microorganisms and fungi, such as Monera (bacteria), Protista (protozoa and algae), and Fungi (molds and mushrooms).
+- The most accepted system of classification today is the five kingdom classification, which was proposed by the American ecologist Robert Whittaker in 1969.
+- The five kingdoms are: Monera, Protista, Fungi, Plantae, and Animalia. Each kingdom has its own characteristics and criteria for classification.
+- Monera are prokaryotic organisms, which means they lack a nucleus and other membrane-bound organelles. They are unicellular and reproduce by binary fission or budding. They can be autotrophic (make their own food) or heterotrophic (obtain food from other sources). Examples are bacteria and cyanobacteria (blue-green algae).
+- Protista are eukaryotic organisms, which means they have a nucleus and other membrane-bound organelles. They are mostly unicellular, but some are colonial or multicellular. They can be autotrophic, heterotrophic, or mixotrophic (both). They have diverse modes of locomotion, such as flagella, cilia, or pseudopodia. Examples are protozoa, algae, and slime molds.
+- Fungi are eukaryotic organisms that are heterotrophic and saprophytic (feed on dead or decaying organic matter). They are mostly multicellular, except for yeasts, which are unicellular. They have cell walls made of chitin, a polysaccharide. They reproduce by spores, which can be sexual or asexual. Examples are molds, mushrooms, and lichens.
+- Plantae are eukaryotic organisms that are autotrophic and photosynthetic (use light energy to make food). They are multicellular and have cell walls made of cellulose, another polysaccharide. They have specialized tissues and organs, such as roots, stems, leaves, and flowers. They reproduce by seeds, which can be sexual or asexual. Examples are mosses, ferns, conifers, and flowering plants.
+- Animalia are eukaryotic organisms that are heterotrophic and ingestive (take in food by mouth). They are multicellular and lack cell walls. They have specialized tissues and organs, such as muscles, nerves, brain, and heart. They have different levels of organization, such as tissues, organs, organ systems, and organisms. They reproduce by eggs and sperm, which are usually sexual. Examples are sponges, worms, insects, fish, reptiles, birds, and mammals.
+- The five kingdom classification is based on the level of cellular organization, mode of nutrition, and mode of reproduction of the organisms. However, it does not reflect the evolutionary history and phylogenetic relationships of the organisms.
+- A more modern and accurate system of classification is the three domain system, which was proposed by the American microbiologist Carl Woese in 1977.
+- The three domains are: Bacteria, Archaea, and Eukarya. Bacteria and Archaea are prokaryotic domains, while Eukarya is the eukaryotic domain. The domains are further divided into kingdoms, phyla, and other taxa.
+- The three domain system is based on the molecular analysis of the ribosomal RNA (rRNA) sequences of the organisms, which are more reliable and consistent than the morphological and physiological characteristics.
+- The three domain system reveals that the prokaryotes are more diverse and ancient than the eukaryotes, and that the Archaea are more closely related to the Eukarya than to the Bacteria.

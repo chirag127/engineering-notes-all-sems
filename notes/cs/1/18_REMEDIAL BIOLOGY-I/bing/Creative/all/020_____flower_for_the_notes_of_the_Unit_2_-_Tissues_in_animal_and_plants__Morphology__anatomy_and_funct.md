@@ -1,0 +1,10 @@
+# Flower
+
+- A flower is a reproductive structure of a flowering plant (angiosperm) that produces seeds.
+- A flower consists of a floral axis that bears the essential organs of reproduction (stamens and pistils) and usually accessory organs (sepals and petals).
+- The stamens are the male parts of the flower that produce pollen, which contains the sperm cells. The pistils are the female parts of the flower that produce ovules, which contain the egg cells.
+- The sepals are the outermost whorl of the flower that usually protect the flower bud before it opens. The petals are the next whorl of the flower that usually attract pollinators with their color and scent.
+- The floral axis may have a receptacle, which is the enlarged end of the stem that supports the flower parts. The floral axis may also have a pedicel, which is the stalk that connects the flower to the stem.
+- The arrangement of the flower parts on the floral axis is called the floral symmetry. There are two main types of floral symmetry: radial and bilateral. Radial symmetry means that the flower can be divided into equal halves along any plane passing through the center. Bilateral symmetry means that the flower can be divided into equal halves along only one plane.
+- The number and arrangement of the sepals, petals, stamens, and pistils on the floral axis are called the floral formula. The floral formula can be used to identify and classify the flower.
+- The function of the flower is to facilitate sexual reproduction by allowing the transfer of pollen from the stamens to the pistils, which is called pollination. Pollination can be done by wind, water, animals, or self-pollination. After pollination, the pollen grains germinate on the stigma and grow a pollen tube that delivers the sperm cells to the ovules, which is called fertilization. After fertilization, the ovules develop into seeds and the ovary develops into a fruit. The fruit protects and disperses the seeds, which can grow into new plants.

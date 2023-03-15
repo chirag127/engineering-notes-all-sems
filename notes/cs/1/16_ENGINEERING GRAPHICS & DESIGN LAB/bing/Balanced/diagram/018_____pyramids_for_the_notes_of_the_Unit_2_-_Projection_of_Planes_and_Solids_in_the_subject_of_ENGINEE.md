@@ -1,0 +1,33 @@
+### Pyramids
+
+- A pyramid is a solid figure with a polygonal base and triangular faces that meet at a common vertex.
+- The base can be any regular or irregular polygon, such as a square, a triangle, a pentagon, etc.
+- The axis of the pyramid is the perpendicular line joining the vertex and the center of the base.
+- The slant height of the pyramid is the distance from the vertex to the midpoint of any edge of the base.
+- The slant edge of the pyramid is the edge of any triangular face that is not part of the base.
+- The projection of a pyramid is the representation of the pyramid on a plane, such as the horizontal plane (HP) or the vertical plane (VP).
+- The projection of a pyramid depends on the position and orientation of the pyramid with respect to the planes of projection.
+- The projection of a pyramid can be classified into three types: parallel projection, oblique projection, and perspective projection.
+- Parallel projection is when the rays of projection are parallel to each other and perpendicular to the plane of projection.
+- Oblique projection is when the rays of projection are parallel to each other but not perpendicular to the plane of projection.
+- Perspective projection is when the rays of projection are not parallel to each other and converge at a point called the center of projection or the eye of the observer.
+- The projection of a pyramid can be further classified into two categories: orthographic projection and isometric projection.
+- Orthographic projection is when the plane of projection is perpendicular to one of the principal planes of the pyramid, such as the base plane, the front plane, or the side plane.
+- Isometric projection is when the plane of projection is inclined to all the principal planes of the pyramid at equal angles, such as 30 degrees or 45 degrees.
+- The projection of a pyramid can be drawn by following these steps:
+  - Draw the base of the pyramid on the plane of projection, such as HP or VP.
+  - Draw the axis of the pyramid perpendicular to the base, either above or below the base depending on the position of the vertex.
+  - Draw the slant edges of the pyramid from the vertex to the midpoints of the edges of the base.
+  - Draw the hidden lines of the pyramid as dashed lines, such as the edges or faces that are not visible from the plane of projection.
+  - Label the points and dimensions of the pyramid as per the given data or scale.
+- The projection of a pyramid can be modified by changing the position or orientation of the pyramid with respect to the planes of projection, such as:
+  - Inclining the axis of the pyramid to the plane of projection, such as HP or VP, at a given angle.
+  - Inclining the base of the pyramid to the plane of projection, such as HP or VP, at a given angle.
+  - Rotating the pyramid about its axis or its base, such as clockwise or anticlockwise, at a given angle.
+  - Cutting the pyramid by a cutting plane, such as parallel, perpendicular, or inclined to the planes of projection, and showing the true shape of the section.
+- The projection of a pyramid can be verified by applying the following checks:
+  - The number of visible faces of the pyramid should be equal to the number of hidden faces of the pyramid.
+  - The length of the axis of the pyramid should be equal to the height of the pyramid.
+  - The length of the slant height of the pyramid should be equal to the distance from the vertex to the midpoint of any edge of the base.
+  - The length of the slant edge of the pyramid should be equal to the hypotenuse of the right triangle formed by the slant height and half of the base edge.
+  - The angle between the slant edge and the base edge of the pyramid should be equal to the angle between the slant height and the axis of the pyramid.

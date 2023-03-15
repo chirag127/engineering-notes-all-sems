@@ -1,0 +1,29 @@
+# Structure and function of cells
+
+- Cells are the basic units of life and the smallest living things that can perform all the functions of life.
+- Cells can be classified into two major types: prokaryotic and eukaryotic.
+- Prokaryotic cells are simpler and smaller than eukaryotic cells. They do not have a nucleus or other membrane-bound organelles. They usually have a single circular chromosome, a cell wall, a plasma membrane, ribosomes, and sometimes a flagellum or other appendages.
+- Eukaryotic cells are more complex and larger than prokaryotic cells. They have a nucleus that contains the genetic material, and various membrane-bound organelles that perform different functions. They usually have multiple linear chromosomes, a cytoskeleton, a plasma membrane, ribosomes, and sometimes a cell wall or other structures.
+- Some of the common organelles in eukaryotic cells are:
+  - Mitochondria: the sites of cellular respiration, where energy is produced from glucose and oxygen.
+  - Chloroplasts: the sites of photosynthesis, where light energy is converted into chemical energy in plants and some algae.
+  - Endoplasmic reticulum: a network of membranes that transports and modifies proteins and lipids.
+  - Golgi apparatus: a stack of flattened membranes that sorts and packages proteins and lipids for export or use within the cell.
+  - Lysosomes: sacs of enzymes that digest and recycle materials within the cell.
+  - Vacuoles: large sacs that store water, nutrients, waste, or other substances.
+  - Cytoskeleton: a network of protein fibers that provides shape, support, and movement to the cell and its organelles.
+  - Cilia and flagella: hair-like or whip-like structures that enable the cell or some of its organelles to move or sense the environment.
+- The size, shape, and arrangement of bacterial cells can vary widely. Some common shapes are:
+  - Coccus: spherical or oval
+  - Bacillus: rod-shaped or cylindrical
+  - Spirillum: spiral or curved
+  - Vibrio: comma-shaped
+  - Spirochete: flexible and helical
+- Bacterial cells can be arranged in different patterns, such as:
+  - Single: individual cells
+  - Diplo: pairs of cells
+  - Strepto: chains of cells
+  - Staphylo: clusters of cells
+  - Tetrad: groups of four cells
+  - Sarcina: groups of eight cells
+  - Palisade: parallel rows of cells

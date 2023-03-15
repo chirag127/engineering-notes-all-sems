@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic. Here are some notes on the structure and function of cells for the Unit 2 - Functional Anatomy of Prokaryotic and Eukaryotic Cells:
+
+### Structure and function of cells
+- Cells are the basic units of life and the smallest living things that can perform all the functions of life.
+- Cells can be classified into two major types: prokaryotic and eukaryotic.
+- Prokaryotic cells are simpler and smaller than eukaryotic cells. They do not have a nucleus or other membrane-bound organelles. They have a single circular chromosome of DNA, a cell membrane, a cell wall, ribosomes, and sometimes plasmids, flagella, pili, or capsules .
+- Eukaryotic cells are more complex and larger than prokaryotic cells. They have a nucleus that contains linear chromosomes of DNA, and many membrane-bound organelles, such as mitochondria, endoplasmic reticulum, Golgi apparatus, lysosomes, peroxisomes, vacuoles, and chloroplasts (in plants and algae). They also have a cell membrane, a cytoskeleton, ribosomes, and sometimes cilia or flagella .
+- The structure and function of cells are related to their size, shape, and arrangement. For example, prokaryotic cells are usually spherical, rod-shaped, or spiral, and can form chains, clusters, or filaments. These shapes and arrangements help them to survive in different environments, such as aquatic, soil, or host tissues. Eukaryotic cells are usually larger and more diverse in shape, and can form multicellular organisms with specialized tissues and organs. These shapes and arrangements help them to perform different functions, such as movement, communication, digestion, or photosynthesis.

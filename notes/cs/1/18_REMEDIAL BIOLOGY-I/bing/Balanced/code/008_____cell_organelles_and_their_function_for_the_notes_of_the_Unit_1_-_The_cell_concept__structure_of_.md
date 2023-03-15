@@ -1,0 +1,19 @@
+# Cell organelles and their function
+
+- Cell organelles are small structures within the cytoplasm that carry out functions necessary to maintain homeostasis in the cell.
+- Cell organelles are involved in many processes, such as energy production, protein synthesis, secretion, detoxification, and signal transduction .
+- Cell organelles can be classified into membranous and non-membranous organelles, depending on whether they are surrounded by a membrane or not.
+- Some of the major cell organelles and their functions are:
+
+  - **Nucleus**: The nucleus is the control center of the cell, where the genetic material (DNA) is stored and replicated. The nucleus also regulates gene expression and cell division .
+  - **Nucleolus**: The nucleolus is a dense region within the nucleus, where ribosomal RNA (rRNA) is synthesized and assembled with ribosomal proteins to form ribosomes .
+  - **Endoplasmic reticulum (ER)**: The endoplasmic reticulum is a network of membranous tubules and sacs that extends throughout the cytoplasm. The ER has two types: rough ER and smooth ER. The rough ER is studded with ribosomes and is involved in protein synthesis and modification. The smooth ER lacks ribosomes and is involved in lipid synthesis, detoxification, and calcium storage  .
+  - **Golgi apparatus**: The Golgi apparatus is a stack of flattened membranous sacs that receives, sorts, modifies, and packages proteins and lipids from the ER and transports them to other destinations within or outside the cell  .
+  - **Lysosomes**: Lysosomes are spherical membranous vesicles that contain hydrolytic enzymes that digest unwanted materials within the cell, such as damaged organelles, foreign particles, or pathogens  .
+  - **Mitochondria**: Mitochondria are oval-shaped membranous organelles that are the sites of cellular respiration, a process that converts glucose and oxygen into ATP (adenosine triphosphate), the main energy source for the cell. Mitochondria have their own DNA and ribosomes and can divide independently of the nucleus  .
+  - **Peroxisomes**: Peroxisomes are small membranous vesicles that contain enzymes that catalyze various oxidative reactions, such as breaking down fatty acids, amino acids, and toxins. Peroxisomes also produce hydrogen peroxide (H2O2) as a by-product, which is then converted into water and oxygen by another enzyme called catalase .
+  - **Cytoskeleton**: The cytoskeleton is a network of protein filaments and tubules that provide structural support, shape, and movement to the cell and its organelles. The cytoskeleton consists of three main types of components: microtubules, microfilaments, and intermediate filaments .
+  - **Ribosomes**: Ribosomes are non-membranous organelles that consist of two subunits made of rRNA and proteins. Ribosomes are the sites of protein synthesis, where they translate the genetic information from mRNA (messenger RNA) into amino acid sequences .
+  - **Centrosome**: The centrosome is a non-membranous organelle that consists of two centrioles, which are cylindrical structures made of microtubules. The centrosome is the main microtubule-organizing center of the cell and plays a key role in cell division, where it forms the spindle apparatus that separates the chromosomes .
+  - **Vacuoles**: Vacuoles are large membranous sacs that store water, ions, nutrients, waste products, or other substances. Vacuoles are more prominent in plant cells than in animal cells. Plant cells have a large central vacuole that occupies most of the cell volume and maintains the cell's turgor pressure and pH .
+  - **Chloroplasts**: Chloroplasts are oval-shaped membranous organelles that are found only

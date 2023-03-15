@@ -1,0 +1,19 @@
+# Cell organelles and their function
+
+- Cell organelles are small structures within the cytoplasm that carry out functions necessary to maintain homeostasis in the cell.
+- Cell organelles are involved in many processes, such as energy production, protein synthesis, secretion, digestion, detoxification, and signal transduction .
+- Cell organelles can be classified into two types: membranous and non-membranous.
+- Membranous organelles are surrounded by a lipid bilayer membrane, similar to the plasma membrane that encloses the cell.
+- Non-membranous organelles are not enclosed by a membrane and are directly in contact with the cytoplasm.
+- Some of the major cell organelles and their functions are:
+
+  - Plasma membrane: It is the outermost layer of the cell that separates it from the external environment. It is selectively permeable, meaning it allows some substances to pass through while blocking others. It is involved in transport, communication, and recognition .
+  - Cytoplasm: It is the jelly-like substance that fills the cell and contains the organelles. It provides a medium for chemical reactions and molecular movements .
+  - Nucleus: It is the largest and most prominent organelle in eukaryotic cells. It contains the genetic material (DNA) of the cell and controls its activities. It is surrounded by a double membrane called the nuclear envelope, which has pores for the exchange of materials. It also contains a dense structure called the nucleolus, which is the site of ribosome synthesis  .
+  - Mitochondria: They are the powerhouses of the cell, where the energy from glucose is converted into ATP (adenosine triphosphate), the universal energy currency of the cell. They have a double membrane, with the inner membrane folded into cristae that increase the surface area for energy production. They also have their own DNA and ribosomes, and can replicate independently of the nucleus   .
+  - Ribosomes: They are the sites of protein synthesis, where the information from mRNA (messenger RNA) is translated into amino acid sequences. They are composed of two subunits, one large and one small, made of rRNA (ribosomal RNA) and proteins. They can be found either free in the cytoplasm or attached to the endoplasmic reticulum  .
+  - Endoplasmic reticulum (ER): It is a network of membranous tubules and sacs that extends from the nuclear envelope to the plasma membrane. It has two types: rough ER and smooth ER. Rough ER has ribosomes attached to its surface and is involved in protein synthesis and modification. Smooth ER lacks ribosomes and is involved in lipid synthesis, detoxification, and calcium storage  .
+  - Golgi apparatus: It is a stack of flattened membranous sacs that receives, sorts, modifies, and packages proteins and lipids from the ER. It also produces lysosomes and secretory vesicles that carry the products to their destinations  .
+  - Lysosomes: They are spherical membranous sacs that contain hydrolytic enzymes that digest various materials, such as food particles, bacteria, viruses, worn-out organelles, and cellular debris. They are also involved in apoptosis (programmed cell death) and autophagy (self-eating)  .
+  - Peroxisomes: They are similar to lysosomes, but contain different enzymes that break down fatty acids, amino acids, and toxic substances, such as hydrogen peroxide. They are also involved in the synthesis of some lipids, such as cholesterol and bile salts  .
+  - Cytoskeleton: It is a network of protein filaments and tubules that provide shape, support, and movement to the cell and its organelles. It has three main components: microfilaments, intermediate filaments, and microtubules. Microfilaments are made of actin and are involved in muscle contraction, cell division, and cell

@@ -1,0 +1,23 @@
+# Stereochemistry
+
+Stereochemistry is the branch of chemistry that studies the spatial arrangement of atoms and groups in molecules and how it affects their physical and chemical properties. Stereochemistry is important for understanding the structure, function, and reactivity of organic molecules, especially biomolecules such as proteins and DNA.
+
+## Types of Stereoisomers
+
+Stereoisomers are molecules that have the same molecular formula and connectivity, but differ in the orientation of their atoms or groups in space. There are two main types of stereoisomers: configurational and conformational.
+
+- Configurational isomers are stereoisomers that cannot be interconverted without breaking and reforming bonds. They are further classified into two subtypes: enantiomers and diastereomers.
+  - Enantiomers are configurational isomers that are non-superimposable mirror images of each other. They have the same physical and chemical properties, except for their interaction with plane-polarized light and other chiral molecules. Enantiomers have opposite configurations at all chiral centers in the molecule. A chiral center is an atom, usually carbon, that is bonded to four different groups. Enantiomers are designated by the prefixes R and S, based on the Cahn-Ingold-Prelog priority rules.
+  - Diastereomers are configurational isomers that are not mirror images of each other. They have different physical and chemical properties, such as melting point, boiling point, solubility, and reactivity. Diastereomers have different configurations at some, but not all, chiral centers in the molecule. Diastereomers can be further subdivided into cis-trans isomers and meso compounds.
+    - Cis-trans isomers are diastereomers that differ in the orientation of two groups around a double bond or a ring. Cis isomers have the same groups on the same side of the bond or ring, while trans isomers have the opposite groups on opposite sides. Cis-trans isomers are also called geometric isomers or E-Z isomers, based on the Cahn-Ingold-Prelog priority rules.
+    - Meso compounds are diastereomers that have an internal plane of symmetry, making them achiral. Meso compounds have two or more chiral centers, but they are superimposable on their mirror images. Meso compounds do not have enantiomers, but they are diastereomers of other stereoisomers that lack the plane of symmetry.
+
+- Conformational isomers are stereoisomers that can be interconverted by rotation around single bonds. They are also called conformers or rotamers. Conformational isomers have the same physical and chemical properties, but they may have different energies, stabilities, and reactivities, depending on the degree of torsional strain, steric strain, and hydrogen bonding. Conformational isomers can be represented by Newman projections or sawhorse projections, which show the spatial relationship of the groups around a single bond. Conformational isomers can be further classified into two subtypes: eclipsed and staggered.
+  - Eclipsed conformers are conformational isomers that have the groups on adjacent atoms aligned with each other along the line of sight. Eclipsed conformers have the highest torsional strain and the lowest stability. Eclipsed conformers can be further subdivided into totally eclipsed and partially eclipsed, depending on the size of the groups.
+  - Staggered conformers are conformational isomers that have the groups on adjacent atoms offset from each other along the line of sight. Staggered conformers have the lowest torsional strain and the highest stability. Staggered conformers can be further subdivided into anti and gauche, depending on the angle between the groups. Anti conformers have the groups on adjacent atoms at 180 degrees, while gauche conformers have the groups at 60 degrees.
+
+## Methods of Stereochemical Analysis
+
+Stereochemical analysis is the process of determining the relative and absolute configuration of stereoisomers. There are several methods of stereochemical analysis, such as:
+
+- Optical activity: Optical activity is the ability of a chiral molecule to rotate the plane of polarized light. The direction and degree of rotation depend on the structure and concentration of the molecule, the wavelength and temperature of the light, and the length of the path of the light. Optical activity is measured by a polarimeter, which gives the specific rotation of the molecule. The specific rotation is a characteristic property of each enantiomer, and it can be used to distinguish and quantify them. The sign of the specific rotation is designated by the prefixes (+) and (-), or d and l, respectively. A racemic mixture, which is a 50:50 mixture of

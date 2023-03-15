@@ -1,0 +1,11 @@
+### Part B Study of Lab Equipment’s and Components: CRO, Multi meter, Function Generator, Power supplyActive, Passive Components and Bread Board.
+
+- CRO stands for Cathode Ray Oscilloscope. It is a device that displays the waveform of an electrical signal on a screen. It can measure voltage, frequency, phase, and other parameters of a signal.
+- Multi meter is a device that can measure multiple electrical quantities, such as voltage, current, resistance, capacitance, and continuity. It can be either analog or digital, and can have different types of probes and leads for different applications.
+- Function Generator is a device that can generate different types of electrical signals, such as sine, square, triangle, sawtooth, and pulse waves. It can vary the frequency, amplitude, and shape of the output signal, and can also modulate it with another signal.
+- Power supply is a device that provides a constant and regulated voltage or current to a circuit or device. It can be either AC or DC, and can have different types of connectors and terminals for different applications.
+- Active components are those that can amplify or control the flow of electric current, such as transistors, diodes, LEDs, and integrated circuits. They usually require an external power source to operate.
+- Passive components are those that do not amplify or control the flow of electric current, but only store, dissipate, or filter it, such as resistors, capacitors, inductors, and transformers. They do not require an external power source to operate.
+- Bread board is a device that allows the user to create temporary circuits by inserting wires and components into holes that are connected by metal strips. It is useful for prototyping and testing circuits without soldering or permanent connections.
+
+These test equipment and components can be demonstrated online from any lab of ECE department or physical mode is only option, depending on the availability and accessibility of the equipment and components, the internet connection and bandwidth, the software and hardware compatibility, and the learning objectives and outcomes of the course. Online mode may offer more flexibility and convenience, but physical mode may offer more realism and hands-on experience.
