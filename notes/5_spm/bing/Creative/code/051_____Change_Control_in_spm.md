@@ -1,0 +1,11 @@
+### Change Control in SPM
+
+- Change control is a process of managing and documenting any changes that occur during the life cycle of a software project (SPM).
+- Change control aims to ensure that the changes are aligned with the project objectives, scope, quality, and schedule, and that they do not introduce any risks or errors to the software product or the project environment.
+- Change control involves the following steps:
+  - Propose change: Any stakeholder or team member can identify and propose a change request that describes the nature, reason, and impact of the change.
+  - Impact summary: The change request is evaluated by the change control board (CCB), which is a group of authorized decision-makers who review and approve or reject the change requests. The CCB assesses the impact of the change on the project scope, cost, time, quality, and risks, and prepares an impact summary report.
+  - Making a decision: The CCB decides whether to approve, reject, or defer the change request based on the impact summary report and the project priorities. The decision is communicated to the change requester and other relevant stakeholders.
+  - Make the change: If the change request is approved, the change is implemented by the assigned team members according to the change plan. The change plan specifies the tasks, resources, schedule, and quality criteria for making the change.
+  - Closure: The change is verified and validated by the quality assurance team and the change requester to ensure that it meets the requirements and expectations. The change is documented and updated in the project records and the configuration management system. The change is closed and the project status is updated accordingly.
+- Change control is an essential part of software project management as it helps to maintain the integrity, consistency, and quality of the software product and the project environment. It also helps to avoid scope creep, cost overrun, schedule delay, and customer dissatisfaction. Change control is supported by various tools and techniques, such as change request forms, change logs, impact analysis, configuration management, and traceability matrices.
