@@ -1,0 +1,12 @@
+
+### Big Data Technology Components 
+
+* Hadoop: Hadoop is an open-source software platform for distributed storage and processing of large datasets. It is designed to scale up from a single server to thousands of machines, each offering local computation and storage. Hadoop is based on the MapReduce programming model and is used for a variety of tasks, such as data mining, web indexing, and log processing. A common mnemonic for remembering Hadoop is "Hands-on Apache Data Object Processing". 
+
+* Apache Spark: Apache Spark is an open-source distributed computing platform designed for fast, in-memory data processing. It is based on the Resilient Distributed Dataset (RDD) abstraction, which allows for fault-tolerant computations on large datasets. Spark is used for a variety of tasks, such as data mining, machine learning, streaming, and interactive queries. A common mnemonic for remembering Apache Spark is "Scalable Parallel Processing for Real-Time Analytics". 
+
+* Apache Kafka: Apache Kafka is an open-source distributed streaming platform designed for building real-time data pipelines and streaming applications. It is based on a publish-subscribe messaging system, which allows for fault-tolerant data delivery and guaranteed delivery of messages. Kafka is used for a variety of tasks, such as data streaming, real-time analytics, and log aggregation. A common mnemonic for remembering Apache Kafka is "Kafka is a High-Performance Pub-Sub Messaging System". 
+
+* Apache Flink: Apache Flink is an open-source distributed stream processing platform designed for building real-time streaming applications. It is based on the DataStream API, which allows for fault-tolerant computations on unbounded streams of data. Flink is used for a variety of tasks, such as data streaming, real-time analytics, and machine learning. A common mnemonic for remembering Apache Flink is "Flexible and Lightweight Stream Processing". 
+
+* Apache Storm: Apache Storm is an open-source distributed stream processing platform designed for building real-time streaming applications. It is based on the Trident API, which allows for fault-tolerant computations on unbounded streams of data. Storm is used for a variety of tasks, such as data streaming, real-time analytics, and machine learning. A common mnemonic for remembering Apache Storm is "Scalable Real-Time Stream Processing".

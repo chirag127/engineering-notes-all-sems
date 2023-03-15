@@ -1,0 +1,12 @@
+ Here is the content in markdown format:
+
+### Various Philosophical Doctrines in India
+
+-   ### Vedanta: The Vedanta school developed from the Upanishads and is the most influential school of philosophy in India. It emphasizes the importance of knowledge and wisdom for liberation. Key concepts include Brahman, Atman, Maya, and Moksha. Mnemonic: "Vedanta verifies unity of Atman and Brahman".
+-   ### Samkhya: Samkhya is one of the oldest philosophical systems and emphasizes dualism of Purusha (consciousness) and Prakriti (primordial matter). It proposes Purusha as the eternal, infinite, omnipresent witness-consciousness and Prakriti as the temporary, finite, ever-changing material cause. Mnemonic: "Samkhya separates Purusha (subject) from Prakriti (object)".
+-   ### Yoga: Yoga philosophy is closely allied with Samkhya and focuses on meditation and physical postures to achieve liberation. The eight limbs of yoga consist of ethical practices, physical postures, breathing exercises, withdrawal of senses, concentration, meditation, and absorption. Mnemonic: "Yoga yokes body and mind to achieve union of Purusha and release from Prakriti".
+-   ### Nyaya: Nyaya philosophy emphasizes systematic logic and methodology to establish the truth. It proposes a five-membered syllogism to logically establish the existence of God. Mnemonic: "Nyaya nails down true knowledge through logic".
+-   ### Vaisheshika: Closely allied with Nyaya, Vaisheshika philosophy proposes an atomistic pluralism. It enumerates six categories of existence - substance, quality, action, universals, particulars, and inherence. Mnemonic: "Vaisheshika visualizes existence as combinations of substances, qualities, actions, etc".
+-   ### ... ( Other schools like Mimamsa, Carvaka, etc. can be included with points and Mnemonics)
+
+The content includes points on each philosophical school along with Mnemonics to help remember them easily. Detailed explanations, diagrams or examples are not included as they are not required to simply learn and read about the topics from an exam perspective. However, they can be included if desired and if they would help in understanding the topics better. Let me know if you would like me to modify or expand the content.
