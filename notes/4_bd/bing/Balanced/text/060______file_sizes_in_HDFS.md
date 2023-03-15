@@ -1,0 +1,6 @@
+#### File sizes in HDFS
+
+- HDFS stands for Hadoop Distributed File System, which is a distributed storage system for large-scale data processing.
+- HDFS is designed to support files that are gigabytes to terabytes in size . It provides high throughput and scalability by splitting files into fixed-size blocks and distributing them across multiple nodes in a cluster.
+- The default size of an HDFS block is 128 MB, but it can be configured to a different value depending on the application needs. Larger blocks reduce the overhead of managing metadata and network transfers, but also increase the latency of accessing small files or portions of files.
+- To get the size of a file or a directory in HDFS, one can use the `hadoop fs -du` command  . This command shows the base size of the file or directory before replication, which means the actual space used by the file or directory may be larger depending on the replication factor. The command also supports wildcards and summary options to filter and aggregate the results. For example, `hadoop fs -du -s /user/hduser/input/sou*` will show the total size of all files that start with `sou` in the `/user/hduser/input` directory.

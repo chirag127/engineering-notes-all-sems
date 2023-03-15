@@ -1,0 +1,9 @@
+#### Stages and Tasks in Spark
+
+- Stages and tasks are the basic units of execution in Spark.
+- A stage is a set of parallel tasks that operate on a subset of the data. The tasks within a stage are executed on different executor nodes in the cluster, and the data is partitioned into smaller chunks called partitions, which are processed by the tasks in parallel.
+- A task is a unit operation that performs a computation on a single partition of the data. A task can be a map task, which applies a transformation function to the data, or a reduce task, which aggregates the data using a function.
+- Stages are created for each job based on shuffle boundaries, i.e. what operations can be performed locally within a partition and what operations require data to be shuffled across partitions. Shuffle operations are those that change the partitioning of the data, such as groupBy, join, sortBy, etc.
+- There are mainly two types of stages in Spark: ShuffleMapStage and ResultStage. A ShuffleMapStage is an intermediate stage that prepares data for subsequent stages by shuffling and writing it to disk. A ResultStage is a final stage that computes the result of the job and sends it back to the driver.
+- The number of tasks in a stage is equal to the number of partitions in the input RDD. The number of partitions in an RDD can be specified by the user or determined by Spark based on the size of the data and the configuration of the cluster.
+- The DAGScheduler is the component in Spark that creates and submits stages for each job. The TaskScheduler is the component that assigns tasks to executors and monitors their status.

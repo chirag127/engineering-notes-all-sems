@@ -1,0 +1,12 @@
+### Risk Identification in SPM
+
+- Risk identification is the process of finding and documenting the possible sources of uncertainty that could affect the objectives of a software project  .
+- Risk identification is one of the most important and initial steps in risk management process, as it helps to prepare for the potential threats and opportunities that may arise during the project life cycle .
+- Risk identification is an iterative process, as new risks may be identified as the project progresses, old risks may become irrelevant, and the characteristics of the existing risks may change .
+- Risk identification involves brainstorming activities, where all the stakeholders meet together and generate ideas about the possible risks that could affect the project . Some of the techniques that can be used for brainstorming are:
+  - SWOT analysis: This technique analyzes the strengths, weaknesses, opportunities, and threats of the project, and helps to identify the internal and external factors that could influence the project outcomes.
+  - Checklist analysis: This technique uses a list of predefined questions or categories that cover the common sources of risks, such as scope, schedule, budget, quality, resources, technology, etc. The checklist can be based on historical data, industry standards, or expert opinions.
+  - Cause and effect analysis: This technique uses a diagram to show the relationship between the potential causes and effects of a risk. The diagram can help to identify the root causes of a risk, and the possible consequences of a risk occurrence.
+  - Delphi technique: This technique uses a panel of experts who anonymously provide their opinions on the possible risks and their likelihood and impact. The opinions are aggregated and refined until a consensus is reached.
+- Risk identification should result in a risk list, which is a document that contains the description, category, source, and owner of each identified risk . The risk list should be updated and reviewed regularly throughout the project .
+- Risk identification is a crucial step for effective risk management, as it helps to plan for risk analysis, response, and monitoring. Risk identification also helps to improve the project quality, performance, and stakeholder satisfaction .

@@ -1,0 +1,34 @@
+### Static Testing Strategies in Software Testing
+
+- Static testing is a software testing method that examines a program and its associated documents without executing the code.
+- Static testing is done to find and remove errors and ambiguities in the software requirements, design, and test cases .
+- Static testing can be done in two ways: review and static analysis .
+- Review is a manual examination of the software artifacts by a team of experts or peers to identify defects, inconsistencies, and deviations from standards .
+- Static analysis is an automated examination of the software code or other artifacts by using tools to detect defects, vulnerabilities, and code quality issues .
+- Static testing has the following advantages:
+  - It can be done early in the software development life cycle and thus reduce the cost and effort of fixing defects later .
+  - It can improve the quality and reliability of the software by preventing defects from reaching the later stages of development .
+  - It can enhance the understanding and communication among the software stakeholders by reviewing the software requirements, design, and test cases .
+  - It can support the compliance with standards, regulations, and best practices by checking the software artifacts against predefined criteria .
+- Static testing has the following challenges:
+  - It requires skilled and experienced reviewers or analysts to perform the review or static analysis effectively .
+  - It may not detect all the defects or errors in the software, especially those related to the functionality, usability, or performance of the software .
+  - It may generate false positives or negatives, which are incorrect or misleading results of the review or static analysis .
+  - It may be time-consuming and tedious to review or analyze large or complex software artifacts .
+- Static testing can be applied to various types of software artifacts, such as:
+  - Software requirements specifications, which define the features and functions of the software .
+  - Software design documents, which describe the architecture and components of the software .
+  - Software code, which implements the logic and algorithms of the software .
+  - Software test cases, which specify the inputs, outputs, and expected results of the software testing .
+  - Software configuration files, which control the settings and parameters of the software .
+  - Software documentation, which provides information and instructions for the software users and developers .
+- Static testing can be performed using various techniques, such as:
+  - Inspection, which is a formal and structured review of the software artifacts by a team of experts following a predefined process and checklist .
+  - Walkthrough, which is an informal and collaborative review of the software artifacts by a team of peers to share knowledge and feedback .
+  - Code review, which is a systematic examination of the software code by a team of developers to find defects, improve readability, and ensure adherence to coding standards .
+  - Code analysis, which is an automated analysis of the software code by using tools to detect defects, vulnerabilities, and code quality issues .
+  - Data flow analysis, which is a type of code analysis that tracks the flow of data through the software code to identify potential errors or anomalies .
+  - Control flow analysis, which is a type of code analysis that tracks the flow of control through the software code to identify potential errors or anomalies .
+  - Complexity analysis, which is a type of code analysis that measures the complexity of the software code to identify potential risks or difficulties .
+  - Coverage analysis, which is a type of code analysis that measures the extent to which the software code is covered by the test cases to identify potential gaps or redundancies .
+- A possible mnemonic to remember the types of static testing techniques is **I Wont Code Code Data Control Complex Cover** (Inspection, Walkthrough, Code review, Code analysis, Data flow analysis,

@@ -1,0 +1,15 @@
+#### Jobs in Spark
+
+Spark is a distributed computing framework that allows users to process large-scale data using various programming languages and libraries. Spark can run on different platforms, such as Hadoop, Kubernetes, or standalone clusters. Spark applications can be submitted using the `spark-submit` command or the `az ml job create` command for Azure Machine Learning.
+
+There are different types of jobs in Spark, depending on the role and skill set of the candidate. Some of the common job titles are:
+
+- Spark Engineer: A Spark engineer is responsible for developing, testing, and deploying Spark applications using various languages, such as Java, Scala, or Python. A Spark engineer should have a strong background in Big Data, Hadoop, Spark, PySpark, and cloud technologies, such as AWS or Azure.
+- Spark Program Lead: A Spark program lead is responsible for managing and overseeing the Spark programs that aim to provide educational opportunities and mentorship for underrepresented students in STEM fields. A Spark program lead should have a strong background in education, leadership, communication, and project management.
+- Spark Delivery Driver: A Spark delivery driver is responsible for delivering groceries and other items to customers using the Spark app. A Spark delivery driver should have a valid driver's license, a reliable vehicle, a smartphone, and a customer-oriented attitude.
+- Spark Electrical Project Manager: A Spark electrical project manager is responsible for managing and executing electrical projects for industrial and commercial clients. A Spark electrical project manager should have a strong background in electrical engineering, project management, safety, and quality control.
+- Spark Therapeutics Lead: A Spark therapeutics lead is responsible for leading and overseeing the development and commercialization of gene therapies for rare diseases. A Spark therapeutics lead should have a strong background in biotechnology, biostatistics, clinical trials, and regulatory affairs.
+- Spark Education Center Manager: A Spark education center manager is responsible for managing and operating the Spark education center that provides tutoring and test preparation services for students. A Spark education center manager should have a strong background in education, business, marketing, and customer service.
+- Spark Education Inside Sales Representative: A Spark education inside sales representative is responsible for generating and closing sales leads for the Spark education center. A Spark education inside sales representative should have a strong background in sales, communication, and negotiation.
+
+A Spark job consists of a sequence of stages, which are further divided into tasks. A stage is a set of parallel tasks that perform the same computation on different partitions of the data. A task is a unit of work that runs on a single executor. A Spark job is triggered by an action, such as `count()`, `collect()`, `write()`, or `read()` .

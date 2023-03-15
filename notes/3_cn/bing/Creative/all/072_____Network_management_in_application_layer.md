@@ -1,0 +1,23 @@
+### Network management in application layer
+
+- Network management is the process of configuring, monitoring, and managing the performance of a network .
+- The application layer is the topmost layer in the Open System Interconnection (OSI) model, which provides the interface between the network and the user applications .
+- The application layer handles network services, such as file and printing, name resolution, and redirector services. Name resolution is the process of mapping an IP address to a human-readable name, such as a domain name.
+- The application layer also supports various network management functions, such as:
+  - Network monitoring: collecting and analyzing data on the network performance, such as traffic, errors, availability, and utilization.
+  - Network configuration: setting up and modifying the network parameters, such as IP addresses, routing tables, security policies, and access control lists.
+  - Network troubleshooting: detecting and resolving network problems, such as connectivity, latency, congestion, and security breaches.
+  - Network optimization: improving the network efficiency, reliability, and quality of service, such as load balancing, bandwidth allocation, and traffic shaping.
+- Some examples of network management protocols that operate at the application layer are:
+  - Simple Network Management Protocol (SNMP): a widely used protocol for collecting and organizing information about network devices, such as routers, switches, servers, and printers.
+  - Common Management Information Protocol (CMIP): a protocol for managing network elements that support the OSI management framework, such as telecommunications equipment and network services.
+  - Remote Monitoring (RMON): a protocol for monitoring network traffic and statistics from remote devices, such as probes and agents.
+  - Network Configuration Protocol (NETCONF): a protocol for installing, manipulating, and deleting the configuration of network devices, such as firewalls, load balancers, and VPNs.
+- Some advantages of network management in the application layer are:
+  - It provides a high-level and user-friendly interface for network administration and operation.
+  - It allows interoperability and compatibility among different network devices and applications, regardless of their underlying hardware and software.
+  - It enables the integration and coordination of various network services and functions, such as security, quality of service, and mobility.
+- Some disadvantages of network management in the application layer are:
+  - It may introduce additional overhead and complexity to the network communication, such as processing, encoding, and decoding of messages.
+  - It may be vulnerable to attacks and breaches, such as spoofing, tampering, and denial of service, if not properly secured and authenticated.
+  - It may not be able to handle low-level and fine-grained network management tasks, such as packet filtering, switching, and routing.

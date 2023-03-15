@@ -1,0 +1,9 @@
+#### Design of HDFS
+
+HDFS is a distributed file system that runs on a cluster of nodes. Each node has a local file system that stores the data blocks of HDFS files. HDFS has a master-slave architecture, where one node acts as the NameNode and the rest of the nodes act as DataNodes. The NameNode is responsible for managing the namespace, the metadata, and the access control of HDFS files. The DataNodes are responsible for storing and serving the data blocks of HDFS files.
+
+The NameNode and the DataNodes communicate with each other using heartbeats and block reports. A heartbeat is a periodic message that indicates that the DataNode is alive and functioning. A block report is a periodic message that contains the list of blocks that the DataNode is storing. The NameNode uses the heartbeats and the block reports to monitor the health and the capacity of the cluster, and to balance the load among the DataNodes.
+
+HDFS supports a write-once-read-many model, where a file can be written only once by a single writer, and then read by multiple readers. HDFS files are divided into fixed-size blocks, typically 128 MB, and each block is replicated across multiple DataNodes, typically three, for fault tolerance. The replication factor can be configured per file or per directory. The NameNode determines the placement of the blocks on the DataNodes, and maintains the mapping of files to blocks and blocks to DataNodes.
+
+HDFS provides a client API and a command-line interface for accessing the file system. The client communicates with the NameNode to perform operations such as creating, deleting, renaming, or listing files and directories, or obtaining the locations of the blocks of a file. The client then communicates directly with the DataNodes to read or write the data blocks of a file. HDFS also supports a web interface that allows users to browse the file system and view the status of the cluster.

@@ -1,0 +1,34 @@
+## Unit 2 - Hadoop and Map Reduce
+
+- Hadoop is a platform that allows distributed storage and processing of large-scale data using clusters of commodity hardware.
+- MapReduce is a programming model and a software framework that enables parallel processing of data on Hadoop clusters.
+- The term "MapReduce" refers to two separate and distinct tasks that Hadoop programs perform:
+  - The Map task takes a set of data and transforms it into another set of data, where individual elements are broken down into key-value pairs.
+  - The Reduce task takes the output from the Map task as input and combines those data tuples into a smaller set of tuples.
+- The MapReduce framework consists of the following components:
+  - A JobTracker, which is the master node that coordinates and assigns tasks to the worker nodes.
+  - A TaskTracker, which is the worker node that runs the map and reduce tasks assigned by the JobTracker.
+  - A JobClient, which is the client application that submits the MapReduce job to the JobTracker and monitors its progress.
+  - A Distributed File System (DFS), which is the storage layer that stores the input and output data of the MapReduce job.
+- The MapReduce workflow can be summarized as follows:
+  - The JobClient splits the input data into fixed-size chunks called input splits and copies them to the DFS.
+  - The JobClient creates a MapReduce job and submits it to the JobTracker, along with the map and reduce functions, the input and output locations, and the configuration parameters.
+  - The JobTracker assigns a map task to a TaskTracker for each input split, and monitors the progress of the tasks.
+  - The TaskTracker runs the map function on each input split and produces a set of intermediate key-value pairs, which are stored in the local disk.
+  - The JobTracker shuffles the intermediate key-value pairs across the network and groups them by key, and assigns a reduce task to a TaskTracker for each key.
+  - The TaskTracker runs the reduce function on each key and its associated values, and produces a set of output key-value pairs, which are stored in the DFS.
+  - The JobClient retrieves the output data from the DFS and displays the results to the user.
+- The advantages of using MapReduce are:
+  - It simplifies the programming of large-scale data processing applications by abstracting the details of parallelization, data distribution, load balancing, and fault tolerance.
+  - It scales well to handle petabytes of data on thousands of nodes using commodity hardware.
+  - It is flexible and can handle various types of data, such as structured, unstructured, or semi-structured data.
+  - It is compatible with various languages, such as Java, Python, Ruby, or C++.
+- The disadvantages of using MapReduce are:
+  - It is not suitable for interactive or real-time applications, as it has high latency and overhead.
+  - It is not efficient for complex data processing tasks that require multiple iterations, joins, or aggregations, as it involves a lot of data shuffling and disk I/O.
+  - It is not optimized for small data sets, as it has a high startup cost and a fixed input split size.
+- Some examples of applications that use MapReduce are:
+  - Word count: A simple application that counts the frequency of each word in a large text file.
+  - Inverted index: An application that builds an index of words and their locations in a collection of documents, which can be used for search engines or text analysis.
+  - PageRank: An application that computes the importance of web pages based on the number and quality of links to them, which can be used for ranking web pages or finding influential nodes in a network.
+  - K-means clustering: An application that partitions a set of data points into a number of clusters based on their similarity, which can be used for data mining or machine learning.

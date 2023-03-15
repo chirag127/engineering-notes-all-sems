@@ -1,0 +1,8 @@
+#### Write operations in HDFS
+
+- HDFS is a distributed file system that stores large files across multiple nodes in a cluster.
+- HDFS supports write-once-read-many model, which means that a file can be written only once and then read by multiple clients.
+- HDFS write operations involve three main steps: client request, data pipeline, and replication.
+- Client request: The client contacts the NameNode to request permission to write a file. The NameNode checks if the file already exists, if the client has the write permission, and if there is enough space in the cluster. If all the conditions are met, the NameNode allocates a new file in the namespace and returns a list of DataNodes that will store the file blocks.
+- Data pipeline: The client splits the file into fixed-size blocks (typically 128 MB) and sends them to the DataNodes in a pipeline fashion. The first DataNode in the pipeline stores the block and forwards it to the next DataNode, and so on. The client receives an acknowledgment from each DataNode after the block is stored successfully.
+- Replication: The DataNodes replicate the blocks to other DataNodes based on the replication factor (typically 3) specified by the client or the default configuration. The replication process ensures fault tolerance and data availability in case of node failures. The NameNode periodically receives block reports from the DataNodes and maintains the metadata of the file system.

@@ -1,0 +1,7 @@
+#### CIDR
+- CIDR stands for Classless Inter-Domain Routing, a method for allocating IP addresses and for IP routing .
+- CIDR replaces the previous classful network addressing architecture on the Internet, which was based on fixed classes of IP addresses (A, B, and C) .
+- CIDR allows blocks of IP addresses to be grouped into single routing table entries, which reduces the size and complexity of routing tables and improves the efficiency of address distribution .
+- CIDR is based on a bitwise, prefix-based representation of IP addresses and their routing properties. For example, 192.168.0.0/24 is a CIDR notation that represents the IP address range from 192.168.0.0 to 192.168.0.255, where the /24 indicates that the first 24 bits of the address are fixed and the remaining 8 bits can vary .
+- CIDR also enables the use of variable-length subnet masks (VLSM), which allow subnets to be divided into smaller subnets of different sizes, depending on the network requirements.
+- CIDR is an important technique for managing the limited address space of IPv4, the current version of the Internet Protocol. However, CIDR is also compatible with IPv6, the next generation of the Internet Protocol, which has a much larger address space and supports more hierarchical levels of routing.

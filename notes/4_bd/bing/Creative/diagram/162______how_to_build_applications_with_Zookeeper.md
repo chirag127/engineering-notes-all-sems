@@ -1,0 +1,11 @@
+#### How to build applications with Zookeeper
+
+Zookeeper is a distributed system coordinator that provides services such as configuration management, synchronization, naming, and leader election for distributed applications. Zookeeper can help developers to simplify the complexity of distributed programming and achieve high availability and scalability.
+
+To build applications with Zookeeper, the following steps are required:
+
+- Install Zookeeper on one or more servers. Zookeeper can run in standalone mode or in a cluster mode. In standalone mode, only one server is used, which is suitable for testing and development. In cluster mode, multiple servers form a quorum, which can tolerate failures and provide consistent service .
+- Configure Zookeeper by creating a configuration file that specifies the server ID, data directory, client port, and other parameters. The configuration file should be consistent across all the servers in the cluster .
+- Start Zookeeper by running the JAR file or using the provided scripts. On Linux, the /etc/init.d/zookeeper-service-default script can be used to start Zookeeper in admin mode, or the Zookeeper/zookeeper/bin/zkServer.sh script can be used to start Zookeeper in non-admin mode. On Kubernetes, the kubectl apply command can be used to create the manifest for Zookeeper, which includes the Headless Service, the Service, the PodDisruptionBudget, and the StatefulSet.
+- Connect to Zookeeper using a client library or a command-line interface. Zookeeper provides client libraries for Java, C, and Python, as well as a command-line interface called zkCli. The client can use the Zookeeper API to create, read, update, and delete znodes, which are the basic units of data in Zookeeper. Znodes can store data, have a version number, and support watches and notifications. Znodes can also have children, forming a hierarchical namespace .
+- Use Zookeeper to implement distributed features in the application. Zookeeper can be used to store configuration data, coordinate distributed tasks, implement leader election, maintain membership, and provide naming and discovery services. Zookeeper provides recipes and examples for common distributed patterns, such as barriers, queues, locks, and two-phase commit  .

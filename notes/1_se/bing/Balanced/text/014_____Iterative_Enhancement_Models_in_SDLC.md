@@ -1,0 +1,7 @@
+### Iterative Enhancement Models in SDLC
+
+- Iterative enhancement models are a type of software development life cycle (SDLC) models that involve developing software in small increments and refining it through multiple iterations.
+- Iterative enhancement models aim to reduce the risks and uncertainties associated with software development by delivering working software frequently and obtaining feedback from the users and stakeholders.
+- Iterative enhancement models can be classified into two categories: linear iterative models and evolutionary iterative models.
+- Linear iterative models follow a sequential process of planning, analysis, design, implementation, testing, and deployment for each iteration. Each iteration produces a subset of the final software product that can be evaluated and improved. Examples of linear iterative models are the waterfall model and the V-model.
+- Evolutionary iterative models follow an adaptive process of exploring, prototyping, experimenting, and learning for each iteration. Each iteration produces a potentially shippable software product that can be modified and enhanced based on changing requirements and feedback. Examples of evolutionary iterative models are the agile model and the spiral model.

@@ -1,0 +1,10 @@
+### Risk Evaluation in SPM
+
+Risk evaluation is the process of assessing the likelihood and impact of potential risks on a software project. It is an essential step in software project management (SPM) to identify and prioritize the risks that may affect the project objectives, scope, quality, cost, and schedule. Risk evaluation helps to develop appropriate risk mitigation and contingency plans to reduce the negative effects of risks and to exploit the positive opportunities.
+
+The following are some of the steps involved in risk evaluation in SPM:
+
+- Analyzing the project environment: This involves reviewing the project context, objectives, stakeholders, requirements, assumptions, constraints, and dependencies. It also involves identifying the sources of uncertainty and variability that may affect the project outcomes.
+- Identifying risks: This involves brainstorming, interviewing, surveying, researching, and using various techniques such as SWOT analysis, PESTLE analysis, FMEA, and risk breakdown structure to generate a list of potential risks that may affect the project. Risks can be categorized into internal and external, positive and negative, and technical and non-technical.
+- Assigning risk ratings: This involves estimating the probability and impact of each risk using qualitative or quantitative methods. Qualitative methods use scales such as low, medium, and high, or descriptive terms such as rare, likely, and certain. Quantitative methods use numerical values such as percentages, frequencies, or monetary values. Risk ratings can be represented using matrices, charts, or graphs to visualize the risk exposure and priority.
+- Creating a risk management plan: This involves developing strategies and actions to address the identified risks. The strategies can be classified into four types: avoid, reduce, transfer, or accept. The actions can include preventive, corrective, or contingency measures. The risk management plan should also specify the roles and responsibilities, resources, budget, schedule, and communication methods for risk management activities.

@@ -1,0 +1,11 @@
+#### Stages and Tasks in Spark
+
+- Spark is a distributed computing framework that executes parallel tasks on a cluster of nodes.
+- Spark applications consist of one or more jobs, each of which is a sequence of stages, each of which is a set of tasks.
+- A job is triggered by an action, such as `count()`, `foreachRdd()`, `sortBy()`, `read()` or `write()`, that requires the computation of a result from a dataset.
+- A stage is a smaller set of tasks that depend on each other and can be executed in parallel on different nodes in the cluster. Stages are created for each job based on shuffle boundaries, i.e. what operations can be performed without moving data across the network.
+- A task is a unit of work that is assigned to an executor, which is a process running on a node. A task operates on a partition, which is a chunk of data that is stored in memory or disk. Tasks within a stage perform the same computation, but on different partitions of the data.
+- There are mainly two types of stages in Spark: `ShuffleMapStage` and `ResultStage`.
+  - A `ShuffleMapStage` is an intermediate stage that prepares data for subsequent stages by applying transformations, such as `map()`, `filter()`, `groupBy()`, or `join()`, and writing the output to a shuffle file on disk. A shuffle file contains the data that needs to be transferred to other nodes for the next stage.
+  - A `ResultStage` is a final stage that computes the result of a job by applying an action, such as `collect()`, `save()`, or `reduce()`, on the data from the previous stage. A result stage does not write any shuffle file, but sends the result back to the driver, which is the process that coordinates the execution of the application.
+- The execution of a Spark application can be visualized as a directed acyclic graph (DAG) of stages and tasks, where each node represents a task and each edge represents a data dependency. The DAG scheduler is the component that creates and submits the stages to the cluster manager, which allocates resources and assigns tasks to the executors. The task scheduler is the component that manages the execution of tasks within each stage and handles failures and retries.

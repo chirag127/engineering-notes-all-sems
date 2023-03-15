@@ -1,0 +1,24 @@
+# COSMIC Full Function Points in SPM
+
+- COSMIC function points are a unit of measure of software functional size  .
+- Software functional size is the amount of functionality that a software provides to its users, based on the user's requirements.
+- The functional size is consistent regardless of the technology used to build the software  .
+- The functional size can be estimated or measured, depending on the availability of the requirements  .
+- Estimating or measuring the functional size is useful for planning and managing software projects or products, such as estimating effort, cost, duration, quality, etc  .
+- The process of estimating or measuring the functional size is called functional size measurement (FSM).
+- COSMIC is one of the international standards for FSM, developed by the Common Software Measurement International Consortium .
+- COSMIC is applicable to any type of software, from the smallest to the largest, and from any domain, such as business, real-time, embedded, etc .
+- COSMIC measures the functional size by counting the data movements between the software and its users or other software .
+- A data movement is a movement of a single data group, which is a set of data attributes that are logically related and have a common purpose.
+- There are four types of data movements: Entry, Exit, Read, and Write .
+- An Entry is a data movement from a user or another software to the software being measured .
+- An Exit is a data movement from the software being measured to a user or another software .
+- A Read is a data movement from persistent storage to the software being measured .
+- A Write is a data movement from the software being measured to persistent storage .
+- A COSMIC function point (CFP) is a unit of measure that represents one data movement .
+- The functional size of a software is the sum of the CFPs of all the data movements that the software performs .
+- To measure the functional size using COSMIC, the following steps are required :
+  - Identify the functional users of the software, which are the entities that interact with the software, such as human users, devices, or other software.
+  - Identify the functional processes of the software, which are the smallest units of functionality that the software provides to its functional users, such as login, search, or print.
+  - Identify the data movements of each functional process, which are the data groups that are entered, exited, read, or written by the software.
+  - Count one CFP for each data movement, and add them up to get the total functional size of the software.

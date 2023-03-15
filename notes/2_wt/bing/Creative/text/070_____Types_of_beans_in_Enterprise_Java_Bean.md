@@ -1,0 +1,9 @@
+### Types of beans in Enterprise Java Bean
+
+Enterprise Java Beans (EJB) are server-side components that encapsulate the business logic of an application. They are managed by an EJB container that provides services such as security, transaction management, dependency injection, concurrency control, and remote access.
+
+There are three types of beans in EJB:
+
+- **Session beans**: These are non-persistent beans that represent a single client-server interaction. They can be stateful, stateless, or singleton. Stateful session beans maintain the conversational state of a client across multiple requests. Stateless session beans do not maintain any state and can be pooled and reused by different clients. Singleton session beans are instantiated only once per application and provide global access to shared data or resources.
+- **Message-driven beans**: These are beans that act as message consumers and process messages asynchronously from a message queue or topic. They implement the javax.jms.MessageListener interface and are invoked by the EJB container when a message arrives. They can be transactional and can access other EJB components or resources.
+- **Entity beans**: These are persistent beans that represent the data stored in a database. They are deprecated since EJB 3.0 and replaced by Java Persistence API (JPA) entities. They can be container-managed or bean-managed. Container-managed entity beans delegate the persistence operations to the EJB container, which uses a mapping file to map the bean fields to the database columns. Bean-managed entity beans implement the persistence logic themselves, using JDBC or JPA APIs.

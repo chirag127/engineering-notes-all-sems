@@ -1,0 +1,11 @@
+### Resource Allocation Models (RAIM) in software project management
+
+- Resource allocation is a process in project management that helps project managers identify the right resources, and assign them to project tasks in order to meet project objectives.
+- Project resources can be material, equipment, financial, or human resources.
+- Resource allocation can help you ensure your project team has the assets—whether that’s budget, tools, or team members—to hit the project’s objectives on time and on budget.
+- There are several methodologies to tackle software development projects. Even the agile and waterfall project management styles are the result of constant debate over how best to allocate resources.
+- Every project manager will build their resource allocation methodology around three constraints: time, scope, and cost. A perfect project would balance the focus among all three, but in reality there’s often a focus on one over the others.
+- Some of the common resource allocation models in software project management are:
+  - The critical path method (CPM) of resource allocation is a method that assists in planning a project from start to finish by determining the resources that will be needed in each phase. It also identifies the longest sequence of tasks that must be completed on time for the project to meet its deadline. CPM can help optimize the use of resources and reduce the project duration and cost.
+  - The resource leveling method of resource allocation is a method that aims to minimize the fluctuations in resource demand over the course of the project. It also tries to avoid over-allocation or under-allocation of resources by adjusting the start and finish dates of tasks. Resource leveling can help improve the morale and productivity of the project team and reduce the risk of resource conflicts.
+  - The resource smoothing method of resource allocation is a method that tries to keep the resource usage at a constant level throughout the project. It does not change the project duration or the critical path, but it may delay some non-critical tasks to achieve a smoother resource profile. Resource smoothing can help reduce the stress and uncertainty of resource availability and allocation.

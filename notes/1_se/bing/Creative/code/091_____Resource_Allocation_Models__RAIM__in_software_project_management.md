@@ -1,0 +1,15 @@
+### Resource Allocation Models (RAIM) in software project management
+
+Resource allocation is a process in project management that helps project managers identify the right resources, and assign them to project tasks in order to meet project objectives. Project resources can be material, equipment, financial, or human resources.
+
+Resource allocation is a fundamental part of software development project management. There are several methodologies to tackle software development projects. Even the agile and waterfall project management styles are the result of constant debate over how best to allocate resources.
+
+Every project manager will build their resource allocation methodology around three constraints: time, scope, and cost. A perfect project would balance the focus among all three, but in reality there’s often a focus on one over the others.
+
+Resource allocation models (RAIM) are tools or techniques that help project managers plan, monitor, and control the allocation of resources in software projects. Some of the common RAIM are:
+
+- **The critical path method (CPM)**: This is a method that assists in planning a project from start to finish by determining the resources that will be needed in each phase. The critical path is the sequence of tasks that has the longest duration and determines the project completion time. By identifying the critical path, project managers can prioritize the allocation of resources to the most important tasks and avoid delays.
+- **The resource leveling method**: This is a method that aims to minimize the fluctuations in resource usage over the course of the project. Resource leveling tries to balance the demand and supply of resources by rescheduling tasks that are not on the critical path, or by adding or removing resources as needed. Resource leveling can help reduce the cost of hiring or renting resources, and improve the efficiency and morale of the project team.
+- **The resource allocation matrix (RAM)**: This is a matrix that shows the relationship between the project tasks and the resources assigned to them. The RAM can help project managers visualize the distribution of resources across the project, identify gaps or overlaps, and communicate the roles and responsibilities of the project team. The RAM can also be used to track the progress and performance of the project tasks and resources.
+
+Resource allocation models can help project managers optimize the use of resources in software projects, and achieve the project goals on time and on budget. However, resource allocation is not a one-time activity, but a continuous process that requires constant monitoring and adjustment according to the changing project conditions and requirements. Project managers should also consider the quality, availability, and suitability of the resources, as well as the risks and uncertainties involved in the project.

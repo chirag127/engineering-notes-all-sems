@@ -1,0 +1,6 @@
+#### HiveQL
+- HiveQL is a query language for Apache Hive, a data warehouse system that facilitates data analysis and processing using SQL-like syntax.
+- HiveQL supports most of the standard SQL features, such as select, where, group by, order by, join, subquery, etc. It also supports some extensions, such as partitioning, bucketing, windowing, user-defined functions, etc.
+- HiveQL can operate on structured, semi-structured, or unstructured data stored in various formats, such as text, JSON, XML, ORC, Parquet, etc. It can also integrate with external data sources, such as HBase, Cassandra, MongoDB, etc.
+- HiveQL can execute queries in different modes, such as local mode, mapreduce mode, or tez mode, depending on the configuration and the complexity of the query. It can also optimize the query execution plan using various techniques, such as predicate pushdown, column pruning, join reordering, etc.
+- HiveQL can be accessed through various interfaces, such as Hive CLI, HiveServer2, Beeline, JDBC, ODBC, etc. It can also be embedded in other applications or frameworks, such as Spark, Pig, etc.

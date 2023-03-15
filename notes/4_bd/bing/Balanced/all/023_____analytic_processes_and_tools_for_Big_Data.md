@@ -1,0 +1,20 @@
+### Analytic processes and tools for Big Data
+
+- Big data analytics is the process of uncovering trends, patterns, and correlations in large amounts of raw data to help make data-informed decisions.
+- Big data analytics can be used for various purposes, such as customer behavior analysis, fraud detection, market segmentation, sentiment analysis, risk management, and more.
+- Big data analytics involves four main steps: data collection, data processing, data cleaning, and data analysis.
+  - Data collection: This step involves gathering data from various sources, such as databases, sensors, web logs, social media, etc. The data can be structured, semi-structured, or unstructured, depending on the format and schema of the data.
+  - Data processing: This step involves transforming the raw data into a suitable format for analysis, such as splitting, filtering, aggregating, joining, etc. The data processing can be done in batch mode or in real-time, depending on the latency and throughput requirements of the analysis.
+  - Data cleaning: This step involves removing or correcting errors, inconsistencies, outliers, duplicates, and missing values from the data, to improve the quality and accuracy of the analysis. The data cleaning can be done manually or automatically, using various techniques such as data validation, data imputation, data normalization, etc.
+  - Data analysis: This step involves applying various statistical and machine learning techniques to the data, to discover insights, patterns, and predictions. The data analysis can be done using descriptive, diagnostic, predictive, or prescriptive analytics, depending on the goal and scope of the analysis.
+- Big data analytics requires various tools and technologies to enable the above steps, such as:
+  - Hadoop: An open source framework for storing and processing big data sets. Hadoop can handle large amounts of structured and unstructured data, using a distributed file system (HDFS) and a parallel programming model (MapReduce) .
+  - Spark: An open source framework for fast and general-purpose data processing. Spark can perform batch and streaming processing, using in-memory computation and a rich set of libraries for SQL, machine learning, graph analysis, and more .
+  - Tableau: A popular tool for data visualization and exploration. Tableau can connect to various data sources, such as databases, files, web services, etc., and create interactive dashboards and charts to present the data analysis results .
+  - PowerBI: A cloud-based business intelligence service that provides data visualization and reporting capabilities. PowerBI can also connect to various data sources, and create interactive reports and dashboards that can be shared and accessed online .
+  - QlikView: A business intelligence tool that provides data discovery and analysis features. QlikView can also connect to various data sources, and create dynamic and interactive visualizations that allow users to explore and drill down the data .
+  - Excel: A spreadsheet application that can be used for basic data analysis and visualization. Excel can perform various calculations, functions, and charts on the data, and also supports data import and export from various formats .
+  - Predictive analytics hardware and software: These are tools that process large amounts of complex data, and use machine learning and statistical algorithms to make predictions about future event outcomes. Some examples of predictive analytics tools are IBM SPSS, SAS, R, Python, etc. .
+
+- A possible mnemonic to remember the four steps of big data analytics is: Collect, Process, Clean, Analyze (CPCA).
+- A possible mnemonic to remember some of the common tools for big data analytics is: Hadoop, Spark, Tableau, PowerBI, QlikView, Excel, Predictive (HSTPQEP).

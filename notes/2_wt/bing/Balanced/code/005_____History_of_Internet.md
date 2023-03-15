@@ -1,0 +1,10 @@
+### History of Internet
+
+- The internet is a system of interconnected computer networks that allows communication and data exchange across the world.
+- The origins of the internet can be traced back to the 1950s, when the United States was in the Cold War with the Soviet Union and wanted to develop a reliable and secure way of transmitting information in case of a nuclear attack .
+- The first precursor of the internet was the ARPANET, which stands for Advanced Research Projects Agency Network. It was a project funded by the US Department of Defense that connected four universities in 1969 .
+- The ARPANET used a protocol called NCP (Network Control Protocol) to communicate between the computers. However, this protocol was not scalable and could not handle different types of networks.
+- In the 1970s, two researchers, Bob Kahn and Vint Cerf, developed a new protocol called TCP/IP (Transmission Control Protocol/Internet Protocol) that could handle multiple networks and allow them to interoperate. This protocol is still the basis of the internet today  .
+- In 1983, the ARPANET switched to TCP/IP and became part of a larger network of networks called the Internet. The Internet also included other networks such as SATNET (satellite network), CSNET (computer science network), and NSFNET (National Science Foundation network).
+- In the 1980s and 1990s, the Internet grew rapidly and became accessible to the public. The invention of the World Wide Web by Tim Berners-Lee in 1989 made it easier to access and share information on the Internet using a browser and a graphical interface .
+- Since then, the Internet has evolved and expanded to include various applications and services such as email, social media, e-commerce, online gaming, streaming, cloud computing, and more. The Internet has also become a global phenomenon that connects billions of people and devices .

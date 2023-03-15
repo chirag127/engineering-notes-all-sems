@@ -1,0 +1,26 @@
+#### Inheritance in Scala
+
+- Inheritance is a mechanism that allows a class to inherit the features and behavior of another class.
+- The class that inherits is called the **subclass** or the **derived class**.
+- The class that is inherited from is called the **superclass** or the **base class**.
+- In Scala, a subclass can inherit from a superclass using the `extends` keyword.
+- For example, `class Dog extends Animal` means that the class `Dog` is a subclass of the class `Animal`.
+- A subclass can access the public and protected members of its superclass, but not the private members.
+- A subclass can also override the methods of its superclass using the `override` keyword.
+- For example, `override def speak(): Unit = println("Woof")` means that the subclass `Dog` overrides the method `speak` of its superclass `Animal`.
+- A subclass can also call the methods of its superclass using the `super` keyword.
+- For example, `super.speak()` means that the subclass `Dog` calls the method `speak` of its superclass `Animal`.
+- In Scala, a class can inherit from only one superclass, but it can implement multiple **traits**.
+- Traits are like interfaces in Java, they define abstract methods and fields that can be mixed in with classes.
+- A class can implement a trait using the `with` keyword.
+- For example, `class Dog extends Animal with Friendly` means that the class `Dog` inherits from the class `Animal` and implements the trait `Friendly`.
+- A class can implement multiple traits using multiple `with` keywords.
+- For example, `class Dog extends Animal with Friendly with Furry` means that the class `Dog` inherits from the class `Animal` and implements the traits `Friendly` and `Furry`.
+- A trait can also extend another trait or a class using the `extends` keyword.
+- For example, `trait Furry extends Animal` means that the trait `Furry` inherits from the class `Animal`.
+- A trait can also override the methods of its superclass or another trait using the `override` keyword.
+- For example, `override def speak(): Unit = println("Meow")` means that the trait `Furry` overrides the method `speak` of its superclass `Animal`.
+- A trait can also call the methods of its superclass or another trait using the `super` keyword.
+- For example, `super.speak()` means that the trait `Furry` calls the method `speak` of its superclass `Animal`.
+- In Scala, multiple inheritance is achieved by using traits, which can be mixed in with classes at runtime.
+- This allows for more flexibility and modularity than single inheritance.

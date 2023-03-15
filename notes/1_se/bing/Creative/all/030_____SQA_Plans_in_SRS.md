@@ -1,0 +1,23 @@
+### SQA Plans in SRS
+
+- SQA stands for Software Quality Assurance, which is a process of ensuring that the software engineering processes, methods, activities, and work items comply with the defined standards and requirements.
+- SRS stands for Software Requirement Specification, which is a document that describes the functional and non-functional requirements of the software system to be developed.
+- SQA Plans are documents that outline the procedures, techniques, and tools that will be used to make sure that the software product or service meets the requirements defined in the SRS  .
+- SQA Plans can have the following content or components:
+  - Purpose section: This section states the objectives and scope of the SQA Plan, and identifies the software project and the SQA team.
+  - Reference document: This section lists the documents that are relevant to the SQA Plan, such as the SRS, the software development plan, the software testing plan, the software configuration management plan, etc.
+  - Management: This section describes the roles and responsibilities of the SQA team, the SQA tasks and activities, the SQA schedule and resources, the SQA reporting and communication, and the SQA risk management.
+  - Documentation: This section specifies the standards and formats for the software documentation, such as the design documents, the code documents, the test documents, etc.
+  - Standards, practices, conventions, and metrics: This section defines the standards, practices, conventions, and metrics that will be followed and measured throughout the software development process, such as the coding standards, the testing standards, the quality metrics, etc.
+  - Reviews and audits: This section describes the types, methods, and frequency of the reviews and audits that will be conducted to verify and validate the software quality, such as the peer reviews, the walkthroughs, the inspections, the audits, etc.
+  - Testing: This section describes the testing strategy, methods, tools, and criteria that will be used to test the software quality, such as the unit testing, the integration testing, the system testing, the acceptance testing, etc.
+  - Problem reporting and corrective action: This section describes the process and tools for reporting, tracking, and resolving the software problems, defects, and issues, such as the problem report form, the problem database, the problem resolution procedure, etc.
+  - Tools, techniques, and methodologies: This section describes the tools, techniques, and methodologies that will be used to support the SQA activities, such as the software configuration management tools, the software testing tools, the software quality measurement tools, etc.
+  - Code control: This section describes the process and tools for managing the software code, such as the code repository, the code versioning, the code branching, the code merging, etc.
+  - Media control: This section describes the process and tools for managing the software media, such as the software disks, the software tapes, the software CDs, etc.
+  - Supplier control: This section describes the process and criteria for selecting, evaluating, and monitoring the software suppliers, such as the software vendors, the software subcontractors, the software consultants, etc.
+  - Records collection, maintenance, and retention: This section describes the process and tools for collecting, maintaining, and retaining the software records, such as the software documents, the software reports, the software logs, etc.
+  - Training: This section describes the training needs, methods, and resources for the SQA team and the software development team, such as the SQA training courses, the SQA training materials, the SQA trainers, etc.
+- SQA Plans can be written in response to the software management and development requirements of the customer or the organization, such as the ISO 9000, the CMMI model, the ISO15504, etc .
+- SQA Plans can help to ensure the software quality by providing a systematic and consistent approach to the SQA activities, by facilitating the communication and coordination among the SQA team and the software development team, by identifying and preventing the software problems and defects, by measuring and improving the software quality, and by satisfying the customer and the organization expectations  .
+- SQA Plans can be improved by following the best practices, such as involving the SQA team and the software development team in the SQA planning process, tailoring the SQA Plan to the specific needs and characteristics of the software project, updating the SQA Plan as the software project evolves, reviewing and auditing the SQA

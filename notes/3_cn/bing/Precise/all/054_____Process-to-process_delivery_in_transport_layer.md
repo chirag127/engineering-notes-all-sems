@@ -1,0 +1,22 @@
+### Process-to-process delivery in transport layer
+
+- The transport layer is responsible for process-to-process delivery of the entire message.
+- A process is an application program running on a host.
+- The transport layer provides logical communication between processes running on different hosts.
+- The transport layer protocols are implemented in the end systems but not in the network routers.
+- The transport layer provides two types of services: connection-oriented and connectionless.
+- Connection-oriented service involves three phases: connection establishment, data transfer, and connection termination.
+- Connectionless service does not involve any connection establishment or termination. Data is transferred between processes in the form of independent packets.
+- The transport layer is responsible for flow control, error control, and congestion control.
+- Flow control is the process of adjusting the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver.
+- Error control is the process of detecting and correcting errors that may occur during transmission.
+- Congestion control is the process of preventing network congestion by regulating the rate of data transmission.
+- The transport layer uses port numbers to identify different processes running on a host.
+- Port numbers are 16-bit numbers ranging from 0 to 65535.
+- Well-known port numbers are used by standard services such as HTTP (80), FTP (21), and Telnet (23).
+- The transport layer uses a combination of the IP address and the port number to uniquely identify a process running on a host.
+- The transport layer uses sockets to establish a connection between processes.
+- A socket is a combination of an IP address and a port number.
+- The transport layer uses the Transmission Control Protocol (TCP) for connection-oriented service and the User Datagram Protocol (UDP) for connectionless service.
+- TCP provides reliable, in-order delivery of data while UDP provides unreliable, unordered delivery of data.
+- TCP is used by applications that require reliability, such as email and file transfer, while UDP is used by applications that can tolerate some data loss, such as online gaming and video streaming.

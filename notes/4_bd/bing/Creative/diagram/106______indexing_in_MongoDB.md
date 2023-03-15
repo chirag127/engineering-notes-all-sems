@@ -1,0 +1,24 @@
+#### Indexing in MongoDB
+
+- Indexing is a technique that improves the efficiency of query processing in MongoDB by storing some information related to the documents in a special data structure.
+- Indexes are ordered by the value of the field or fields specified in the index.
+- Indexes can reduce the number of documents that MongoDB has to scan to find the matching ones.
+- Indexes can also support sorting and aggregation operations.
+- MongoDB supports various types of indexes, such as:
+  - Single field: an index on a single field of a document.
+  - Compound: an index on multiple fields of a document.
+  - Multikey: an index on a field that holds an array value.
+  - Text: an index that supports text search queries on string content.
+  - Geospatial: an index that supports geospatial queries on geospatial data.
+  - Hashed: an index that supports sharding, a method of distributing data across multiple servers.
+- MongoDB provides methods to create, drop, list, and modify indexes, such as:
+  - createIndex(): a method that creates an index on a collection.
+  - dropIndex(): a method that drops an index from a collection.
+  - getIndexes(): a method that returns an array of indexes on a collection.
+  - reIndex(): a method that rebuilds all the indexes on a collection.
+- MongoDB also provides options to configure the behavior and performance of indexes, such as:
+  - Unique: a boolean option that ensures that the indexed field or fields contain only unique values.
+  - Sparse: a boolean option that allows the index to skip documents that do not have the indexed field.
+  - TTL: a numeric option that specifies a time to live for documents in a collection.
+  - Background: a boolean option that allows the index creation to run in the background.
+  - Partial: a document option that specifies a filter expression for the index to include only a subset of documents.

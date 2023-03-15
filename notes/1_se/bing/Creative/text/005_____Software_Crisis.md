@@ -1,0 +1,23 @@
+### Software Crisis
+
+- Software crisis is a term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time.
+- Software crisis was due to the rapid increases in computer power and the complexity of the problems that could not be tackled with the existing methods and tools.
+- Software crisis also resulted from the lack of standards, quality assurance, and proper management of software projects.
+- Some of the symptoms of software crisis are:
+  - High development costs
+  - Low productivity
+  - Poor quality and reliability
+  - Inability to meet deadlines and user requirements
+  - Difficulty in maintaining and modifying existing software
+- Some of the causes of software crisis are:
+  - Increasing demand for new and complex software systems
+  - Limitations of hardware and software technologies
+  - Lack of skilled and experienced software engineers
+  - Lack of systematic and disciplined software engineering practices
+  - Lack of communication and coordination among stakeholders
+- Some of the solutions to software crisis are :
+  - Adopting new and advanced software engineering methodologies and tools
+  - Improving software engineering education and training
+  - Establishing and enforcing software standards and quality measures
+  - Applying software project management principles and techniques
+  - Enhancing software reuse and maintenance

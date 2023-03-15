@@ -1,0 +1,11 @@
+### Big data characteristics
+
+Big data is a term that refers to data sets that are too large, complex, or diverse to be processed by traditional methods. Big data can be characterized by the following five dimensions:
+
+- **Volume**: The amount of data generated and stored. Big data can range from terabytes to petabytes or even exabytes of data. For example, Facebook generates about 4 petabytes of data per day from its users' activities.
+- **Velocity**: The speed at which data is created, collected, and analyzed. Big data can be generated and processed in real-time or near-real-time, requiring fast and efficient methods to handle the data streams. For example, Twitter handles about 500 million tweets per day, which need to be analyzed for sentiment, trends, and events.
+- **Variety**: The diversity of data types and sources. Big data can include structured, semi-structured, or unstructured data, such as text, images, videos, audio, sensor data, web logs, social media, etc. For example, Netflix collects data from various sources, such as user ratings, viewing history, device information, etc. to provide personalized recommendations.
+- **Veracity**: The quality and reliability of data. Big data can be noisy, incomplete, inconsistent, or inaccurate, requiring methods to clean, validate, and integrate the data. For example, Amazon uses data quality checks and machine learning algorithms to detect and correct errors in product reviews, ratings, and descriptions.
+- **Value**: The potential usefulness and benefits of data. Big data can provide insights, patterns, and predictions that can help in decision making, problem solving, innovation, and optimization. For example, Google uses big data to improve its search engine, advertising, and products, such as Google Maps, Gmail, and YouTube.
+
+A mnemonic to remember the five dimensions of big data is **V**ery **V**ery **V**ery **V**ery **V**aluable, or **V**5. Alternatively, you can use the acronym **V**olume, **V**elocity, **V**ariety, **V**eracity, and **V**alue, or **V**5.

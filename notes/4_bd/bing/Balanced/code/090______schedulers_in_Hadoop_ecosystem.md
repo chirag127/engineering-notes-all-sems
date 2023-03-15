@@ -1,0 +1,7 @@
+#### Schedulers in Hadoop ecosystem
+
+Schedulers are algorithms that manage the execution of tasks in a Hadoop cluster. They are responsible for allocating resources, prioritizing jobs, and handling failures. There are mainly three types of schedulers in Hadoop:
+
+- FIFO (First In First Out) Scheduler: This is the simplest and default scheduler in Hadoop. It assigns tasks to nodes in the order they are submitted by the clients. It does not consider the size, complexity, or priority of the jobs. It is suitable for small clusters with homogeneous workloads.
+- Capacity Scheduler: This is a more advanced scheduler that allows multiple queues with different capacities and priorities. It allocates resources to each queue based on its capacity and shares the remaining resources among the queues based on their weights. It also supports preemption, which means that a low-priority task can be killed to free up resources for a high-priority task. It is suitable for large clusters with heterogeneous and multi-tenant workloads.
+- Fair Scheduler: This is another advanced scheduler that aims to provide fair and equal share of resources to all jobs. It dynamically adjusts the resource allocation based on the demand and the availability of the cluster. It also supports preemption, pools, and weights to achieve different levels of fairness and priority. It is suitable for large clusters with heterogeneous and diverse workloads.

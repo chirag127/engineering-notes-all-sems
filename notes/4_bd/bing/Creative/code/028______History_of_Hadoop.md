@@ -1,0 +1,7 @@
+#### History of Hadoop
+
+Hadoop is an open-source framework for distributed storage and processing of large-scale data sets. It was created by Doug Cutting and Mike Cafarella in 2005, inspired by the Google File System and MapReduce papers. Hadoop was originally developed to support the Nutch project, a web crawler and search engine. Hadoop was named after Cutting's son's toy elephant.
+
+Hadoop consists of several core components, such as Hadoop Distributed File System (HDFS), Hadoop MapReduce, Hadoop YARN, and Hadoop Common. HDFS is a distributed file system that provides high-throughput access to data across multiple nodes. MapReduce is a programming model and execution engine for parallel processing of data. YARN is a resource manager that allocates and manages resources for applications running on Hadoop. Common is a set of utilities and libraries that support the other components.
+
+Hadoop has evolved over the years, with several major releases and sub-projects. Some of the notable sub-projects are HBase, a distributed database; Hive, a data warehouse and query engine; Pig, a scripting language for data analysis; Spark, a fast and general engine for large-scale data processing; and ZooKeeper, a service for coordination and configuration. Hadoop is widely used by many organizations for various applications, such as web indexing, data mining, machine learning, analytics, and scientific computing. Hadoop is also a part of the Apache Software Foundation, a non-profit organization that supports open-source software projects.

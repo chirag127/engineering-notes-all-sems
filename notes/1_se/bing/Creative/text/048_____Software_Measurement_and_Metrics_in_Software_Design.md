@@ -1,0 +1,25 @@
+### Software Measurement and Metrics in Software Design
+
+- Software measurement is the process of quantifying the attributes and characteristics of software products or processes.
+- Software metrics are the units of measurement that are used to evaluate software quality, productivity, performance, complexity, maintainability, etc.
+- Software measurement and metrics are essential for software design, as they help to
+  - define the goals and requirements of the software system
+  - monitor and control the software development process
+  - assess and improve the software quality and maintainability
+  - estimate the cost, effort, and time required for software development and maintenance
+  - compare and benchmark different software products or processes
+- Some examples of software measurement and metrics are
+  - Lines of code (LOC): the number of executable statements in the source code
+  - Cyclomatic complexity: the number of linearly independent paths through the program
+  - Function points: a measure of the functionality delivered by the software system
+  - Cohesion and coupling: the degree of interdependence among the modules of the software system
+  - Defect density: the number of defects per unit of software size
+  - Test coverage: the percentage of the code that is executed by the test cases
+  - Customer satisfaction: the degree to which the software system meets the expectations and needs of the users
+- Software measurement and metrics should be
+  - valid: they should measure what they are intended to measure
+  - reliable: they should produce consistent results under the same conditions
+  - scalable: they should be applicable to different levels of software granularity
+  - understandable: they should be easy to interpret and communicate
+  - feasible: they should be easy to collect and compute
+  - useful: they should provide meaningful and actionable information for decision making

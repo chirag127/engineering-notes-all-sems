@@ -1,0 +1,11 @@
+### Presenting and using XML in Web Page Designing
+
+- XML stands for Extensible Markup Language. It is a language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+- XML is not a fixed set of tags like HTML, but rather a meta-language that allows users to create their own tags and structure their data according to their needs.
+- XML is often used to store and exchange data between different applications and platforms, such as databases, web services, and web browsers.
+- XML can also be used to present data on web pages, using various techniques such as:
+  - XML + CSS: Cascading Style Sheets (CSS) can be used to define the style and layout of XML elements on a web page. CSS can be applied to XML documents using the `xml-stylesheet` processing instruction, or by linking to an external style sheet file.
+  - XML + XSLT: Extensible Stylesheet Language Transformations (XSLT) can be used to transform XML documents into other formats, such as HTML, XHTML, or plain text. XSLT can be applied to XML documents using the `xml-stylesheet` processing instruction, or by linking to an external transformation file.
+  - XML + XSL-FO: Extensible Stylesheet Language Formatting Objects (XSL-FO) can be used to format XML documents for printing or display on different media types, such as paper, screen, or audio. XSL-FO can be applied to XML documents using the `xml-stylesheet` processing instruction, or by linking to an external formatting file.
+  - XML + JavaScript: JavaScript can be used to manipulate and interact with XML data on a web page, using various methods and objects, such as the `XMLHttpRequest` object, the `DOMParser` object, the `XMLSerializer` object, and the `DOM` (Document Object Model) interface.
+  - XML + SVG: Scalable Vector Graphics (SVG) can be used to create and display graphics on a web page, using XML syntax. SVG can be embedded in an XML document using the `svg` element, or by linking to an external SVG file.

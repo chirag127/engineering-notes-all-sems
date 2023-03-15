@@ -1,0 +1,16 @@
+#### Medium Access Control and Local Area Networks
+
+- Medium Access Control (MAC) is a sublayer of the data link layer that defines how multiple devices share the same medium (such as a cable or a wireless channel) in a local area network (LAN).
+- MAC protocols are responsible for controlling the access to the medium, avoiding or resolving collisions, and ensuring reliable and efficient transmission of data.
+- There are two main approaches to MAC in LANs: contention and token-passing.
+  - Contention is a first-come, first-serve approach, where each device tries to access the medium whenever it has data to send. If two or more devices access the medium at the same time, a collision occurs and the devices have to retransmit their data after a random delay. 
+  - Token-passing is a controlled access approach, where a special message called a token is passed among the devices in a predefined order. Only the device that holds the token can access the medium and send data. After sending data, the device passes the token to the next device in the order.
+- The most used contention-based MAC protocol is Carrier Sense Multiple Access/Collision Detection (CSMA/CD), used in Ethernet networks. CSMA/CD works as follows:
+  - Before sending data, a device senses the medium to check if it is idle or busy. If the medium is idle, the device starts transmitting data. If the medium is busy, the device waits until it becomes idle.
+  - While sending data, a device monitors the medium for any signs of collision. If a collision is detected, the device stops transmitting and sends a jamming signal to inform other devices of the collision. Then, the device waits for a random time and tries to retransmit the data.
+- The most used token-passing MAC protocol is Token Ring, used in some IBM networks. Token Ring works as follows:
+  - The devices are connected in a logical ring topology, where each device has a successor and a predecessor. A token is circulated among the devices in one direction.
+  - When a device receives the token, it checks if it has data to send. If it has data, it sets a busy bit in the token and sends the data along with the token. If it has no data, it passes the token to the next device without changing the busy bit.
+  - When a device receives a data frame along with the token, it checks if the frame is addressed to it. If it is, it copies the frame and sets an acknowledgment bit in the token. If it is not, it passes the frame and the token to the next device without changing the acknowledgment bit.
+  - When the sender receives the frame and the token back, it checks the acknowledgment bit. If it is set, it means the frame was received successfully and the sender can release the token by clearing the busy bit. If it is not set, it means the frame was lost or corrupted and the sender can retransmit the frame by keeping the busy bit.
+- A mnemonic to remember the difference between contention and token-passing is: **C**ontention is **C**haotic, **T**oken-passing is **T**idy.

@@ -1,0 +1,21 @@
+# Unit 2 - Hadoop and Map Reduce
+
+- Hadoop is a platform that allows distributed storage and processing of large-scale data using clusters of commodity hardware  .
+- MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster  . It is the core component of Hadoop that performs the data processing.
+- The term "MapReduce" refers to two separate and distinct tasks that Hadoop programs perform  :
+  - The Map task takes a set of data and transforms it into another set of data, where individual elements are broken down into key-value pairs.
+  - The Reduce task takes the output from the Map task as input and combines those data tuples into a smaller set of tuples.
+- The MapReduce framework consists of a master node called the JobTracker and multiple worker nodes called the TaskTrackers  .
+  - The JobTracker is responsible for scheduling and coordinating the execution of Map and Reduce tasks on the TaskTrackers.
+  - The TaskTrackers are responsible for running the Map and Reduce tasks and reporting their status to the JobTracker.
+- The MapReduce framework handles the details of data distribution, parallelization, load balancing, fault tolerance, and monitoring  .
+- The MapReduce framework works as follows  :
+  - The input data is split into fixed-size blocks and stored across the Hadoop Distributed File System (HDFS) on different nodes.
+  - The user submits a MapReduce job to the JobTracker, specifying the input and output locations, the Map and Reduce functions, and other configuration parameters.
+  - The JobTracker assigns Map tasks to the TaskTrackers that are closest to the data blocks, minimizing the network traffic.
+  - The TaskTrackers run the Map function on each input block and produce intermediate key-value pairs, which are stored locally on the same node.
+  - The JobTracker shuffles and sorts the intermediate key-value pairs and assigns Reduce tasks to the TaskTrackers based on the keys.
+  - The TaskTrackers run the Reduce function on each group of values that share the same key and produce the final output, which is stored on the HDFS.
+  - The JobTracker monitors the progress of the Map and Reduce tasks and handles failures by reassigning the tasks to other TaskTrackers.
+- MapReduce is a flexible and powerful model that can be used for various types of data analysis, such as word count, web log analysis, inverted index, join, aggregation, and machine learning  .
+- MapReduce is also compatible with other languages and tools, such as Python, Ruby, Pig, Hive, and Spark, which provide higher-level abstractions and functionalities for data processing  .

@@ -1,0 +1,7 @@
+### Challenges of conventional systems compared to Big Data
+
+- Conventional systems are based on the relational data model, which requires data to be structured and normalized. Big Data can handle unstructured and semi-structured data, such as text, images, audio, video, etc. 
+- Conventional systems are batch-oriented, which means they process data in fixed intervals, such as daily or weekly. Big Data can process data in real-time or near-real-time, which enables faster and more accurate insights.  
+- Conventional systems rely on expensive hardware, such as MPP (Massively Parallel Processing) systems, to achieve parallelism and scalability. Big Data can leverage commodity hardware, such as clusters of servers, to distribute the workload and scale horizontally. 
+- Conventional systems have predefined schemas and queries, which limit the flexibility and adaptability of data analysis. Big Data can use schema-on-read and dynamic queries, which allow for more exploration and discovery of data patterns and relationships. 
+- Conventional systems have difficulty handling the variety, velocity, and volume of Big Data, which can overwhelm the storage and processing capacity of traditional database systems. Big Data can use distributed file systems, such as Hadoop Distributed File System (HDFS), and parallel processing frameworks, such as MapReduce, to store and process large and complex data sets.

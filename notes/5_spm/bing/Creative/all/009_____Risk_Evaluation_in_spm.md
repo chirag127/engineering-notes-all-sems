@@ -1,0 +1,12 @@
+# Risk Evaluation in SPM
+
+Risk evaluation is the process of assessing the likelihood and impact of potential risks in a software project management (SPM) context. It helps to prioritize the risks and to plan appropriate responses to mitigate or avoid them. Risk evaluation is one of the key steps in the risk management process, which also includes risk identification, risk analysis, risk response, and risk monitoring and control.
+
+Some of the best practices for risk evaluation in SPM are:
+
+- Use a standard risk evaluation method, such as qualitative or quantitative analysis, to compare and rank the risks based on their probability and severity. Qualitative analysis uses descriptive scales, such as low, medium, or high, to rate the risks. Quantitative analysis uses numerical values, such as expected monetary value or risk exposure, to measure the risks. 
+- Use a risk matrix or a risk register to document and visualize the risks and their ratings. A risk matrix is a table that shows the probability and impact of each risk on a grid. A risk register is a list that records the risk name, description, category, rating, owner, and status. 
+- Use a risk evaluation framework, such as the Enterprise Risk Management (ERM) Evaluation by S&P Global Ratings, to assess the risk culture, risk exposure management, and risk optimization of the organization or the project. The ERM Evaluation Framework provides scores and subfactors for each of these aspects, and an overall ERM Evaluation score that reflects the quality and effectiveness of the risk management practices. 
+- Use a risk-based approach, such as the Risk Based Inspection (RBI) approach for the integrity management of Single Point Mooring (SPM) systems, to optimize and reduce the inspection and maintenance activities while keeping the operational risk levels within acceptable limits. The RBI approach aligns with the Structural Integrity Management (SIM) processes of data, evaluation, strategy, and program, and uses a qualitative risk assessment to target the high expenditure items. 
+
+Risk evaluation is a vital part of SPM, as it helps to identify the most critical risks and to allocate the resources and efforts accordingly. By using a systematic and consistent risk evaluation method, framework, and approach, the project manager can ensure that the project is delivered on time, within budget, and with the desired quality.

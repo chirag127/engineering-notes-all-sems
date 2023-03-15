@@ -1,0 +1,25 @@
+### Software Crisis
+
+- Software crisis is a term used to describe the difficulty of writing useful and efficient computer programs in the required time.
+- Software crisis was due to the rapid increases in computer power and the complexity of the problems that could not be tackled with the existing software development methods.
+- Software crisis resulted in many problems, such as:
+  - The cost of owning and maintaining software was as expensive as developing the software.
+  - Projects were running over-time and over-budget.
+  - Software was very inefficient and unreliable.
+  - Software often did not meet user requirements or expectations.
+  - Software was difficult to modify or reuse.
+- Some of the causes of software crisis are:
+  - Poor project management and planning .
+  - Lack of skilled and experienced developers .
+  - Under-specified or changing requirements .
+  - Inadequate testing and quality assurance.
+  - New technologies and platforms .
+- Some of the solutions to software crisis are:
+  - Adopting software engineering principles and practices.
+  - Using structured and modular programming techniques.
+  - Applying software development life cycle models.
+  - Employing software tools and environments.
+  - Improving communication and collaboration among stakeholders.
+  - Seeking feedback and validation from users and customers.
+- A mnemonic to remember the causes of software crisis is **PULIT** (Poor management, Under-specified requirements, Lack of skills, Inadequate testing, New technologies).
+- A mnemonic to remember the solutions to software crisis is **SUSIE** (Software engineering, Structured programming, Software life cycle, Software tools, Stakeholder communication).

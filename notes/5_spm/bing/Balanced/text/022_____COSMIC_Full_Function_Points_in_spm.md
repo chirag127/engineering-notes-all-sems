@@ -1,0 +1,23 @@
+### COSMIC Full Function Points in SPM
+
+- COSMIC stands for Common Software Measurement International Consortium, which is an organization that develops and maintains a standard method for measuring software functional size.
+- Software functional size is the amount of functionality that a software system provides to its users, based on the user requirements.
+- COSMIC function points are a unit of measure of software functional size, which can be used for estimating, planning, managing, and benchmarking software projects or products.
+- COSMIC function points are based on the concept of data movements, which are the smallest units of functionality that can be identified in a software system.
+- There are four types of data movements: Entry, Exit, Read, and Write.
+- Entry: a data movement that brings data from the user domain into the software domain, such as a user input or a file upload.
+- Exit: a data movement that sends data from the software domain to the user domain, such as a report, a screen display, or a file download.
+- Read: a data movement that retrieves data from persistent storage within the software domain, such as a database query or a file read.
+- Write: a data movement that stores data in persistent storage within the software domain, such as a database update or a file write.
+- Each data movement has a size of one COSMIC function point, regardless of the complexity or volume of the data involved.
+- To measure the functional size of a software system using COSMIC function points, the following steps are required:
+  - Identify the functional processes of the system, which are the groups of data movements that perform a specific user requirement.
+  - Identify the data groups of the system, which are the logical collections of data that are relevant to the user and the software.
+  - Count the number of data movements of each type for each functional process, and assign them to the corresponding data groups.
+  - Sum the number of data movements for each functional process, and then sum the number of data movements for the whole system. This is the total functional size in COSMIC function points.
+- COSMIC function points can be applied to any type of software, regardless of the technology, domain, or methodology used to develop it.
+- COSMIC function points can be estimated from early stages of software development, such as requirements analysis or design, or measured from later stages, such as testing or deployment.
+- COSMIC function points can be used for various purposes, such as:
+  - Estimating the effort, cost, and duration of software projects or products, based on historical data or industry benchmarks.
+  - Planning and managing the scope, quality, and risk of software projects or products, based on the functional size and the expected or actual performance indicators.
+  - Benchmarking the productivity, quality, and value of software projects or products, based on the functional size and the delivered or perceived outcomes.

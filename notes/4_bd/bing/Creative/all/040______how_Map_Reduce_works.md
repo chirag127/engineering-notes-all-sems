@@ -1,0 +1,27 @@
+#### How MapReduce works
+
+- MapReduce is a programming model and an associated implementation for processing and generating large data sets with a parallel, distributed algorithm on a cluster.
+- MapReduce can perform distributed and parallel computations using large datasets across a large number of nodes.
+- A MapReduce job usually splits the input datasets and then process each of them independently by the Map tasks in a completely parallel manner. The output is then sorted and input to reduce tasks.
+- The MapReduce algorithm contains two important tasks, namely Map and Reduce.
+  - Map: each worker node applies the map function to the local data, and writes the output to a temporary storage. A master node ensures that only one copy of the redundant input data is processed.
+  - Reduce: the master node collects the outputs of the map tasks and assigns them to reduce tasks. Each reduce task collects the intermediate data with the same key from different map tasks and merges them together. The output of the reduce task is the final result of the MapReduce job.
+- MapReduce generally divides input data into pieces and distributes them among other computers. The input data is broken up into key-value pairs. On computers in a cluster, parallel map jobs process the chunked data.
+- There are two optional steps in MapReduce: Combine and Partition.
+  - Combine: the combine function is run on each mapper node to reduce the amount of data transferred to the reducers. It is similar to the reduce function, but operates on the intermediate outputs of the map function.
+  - Partition: the partition function determines how the intermediate key-value pairs are distributed among the reducers. It is based on a hash function of the key by default, but can be customized by the user.
+- A simple example of MapReduce is word count. The input data is a set of text documents. The map function emits each word and its count as a key-value pair. The reduce function sums up the counts for each word and produces the final word count.
+- Some advantages of MapReduce are:
+  - Scalability: it can handle large volumes of data by distributing the workload among multiple nodes.
+  - Fault-tolerance: it can recover from node failures by re-executing the failed tasks on other nodes.
+  - Simplicity: it abstracts the details of parallelization, synchronization, and distribution from the user.
+  - Flexibility: it can process various types of data, such as structured, unstructured, or semi-structured.
+- Some disadvantages of MapReduce are:
+  - Overhead: it incurs extra costs for shuffling, sorting, and transferring data between map and reduce tasks.
+  - Inefficiency: it may not be suitable for some tasks that require frequent communication or complex logic.
+  - Compatibility: it may not be compatible with some existing tools or frameworks that are not designed for MapReduce.
+- Some applications of MapReduce are:
+  - Data mining: it can be used for finding patterns, trends, or anomalies in large datasets.
+  - Machine learning: it can be used for training models, clustering, or classification tasks.
+  - Text processing: it can be used for indexing, searching, or analyzing text documents.
+  - Image processing: it can be used for face detection, recognition, or enhancement tasks.

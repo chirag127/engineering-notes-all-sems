@@ -1,0 +1,36 @@
+#### Administering Hadoop in Hadoop Environment
+
+- Hadoop is a framework for distributed processing of large-scale data sets across clusters of computers.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce.
+- HDFS is a distributed file system that provides high-throughput access to data stored on the cluster nodes.
+- MapReduce is a programming model that allows parallel processing of data using user-defined map and reduce functions.
+- Hadoop also includes other components such as Hadoop YARN, Hadoop Common, Hadoop ZooKeeper, Hadoop Oozie, Hadoop Hive, Hadoop HBase, etc.
+- Hadoop can be deployed in different modes: standalone, pseudo-distributed, fully distributed, and high availability.
+- Standalone mode is the simplest mode, where Hadoop runs on a single node without HDFS and uses the local file system for input and output.
+- Pseudo-distributed mode is a mode where Hadoop runs on a single node with HDFS and simulates a cluster by running multiple Java processes.
+- Fully distributed mode is a mode where Hadoop runs on a multi-node cluster with HDFS and each node runs one or more Hadoop daemons.
+- High availability mode is a mode where Hadoop runs on a multi-node cluster with HDFS and provides failover and load balancing for the NameNode and the ResourceManager.
+- Hadoop administration is the process of managing and maintaining the Hadoop cluster and its components.
+- Hadoop administration involves tasks such as:
+  - Installing and configuring Hadoop and its components on the cluster nodes.
+  - Setting up Hadoop environment variables and scripts for the Hadoop daemons and the end-users.
+  - Creating and managing HDFS directories and files, and setting permissions and quotas.
+  - Monitoring and troubleshooting the Hadoop cluster and its components using logs, metrics, and tools.
+  - Performing backup and recovery of the Hadoop cluster and its data.
+  - Tuning and optimizing the Hadoop cluster and its components for performance and efficiency.
+  - Securing the Hadoop cluster and its components using authentication, authorization, encryption, and auditing mechanisms.
+  - Updating and upgrading the Hadoop cluster and its components as needed.
+  - Working with the application teams and the vendors to support the Hadoop applications and resolve issues.
+- Hadoop administration requires skills and knowledge in areas such as:
+  - Linux operating system and commands
+  - Java programming and debugging
+  - Hadoop architecture and components
+  - Hadoop configuration and tuning parameters
+  - Hadoop command-line interface and web interface
+  - Hadoop tools and utilities such as Hadoop fs, Hadoop dfsadmin, Hadoop yarn, Hadoop job, Hadoop distcp, etc.
+  - Hadoop ecosystem projects such as Hadoop ZooKeeper, Hadoop Oozie, Hadoop Hive, Hadoop HBase, etc.
+  - Hadoop security mechanisms such as Kerberos, ACLs, SSL, Ranger, etc.
+  - Hadoop monitoring and troubleshooting tools such as JMX, Ganglia, Nagios, Ambari, etc.
+  - Hadoop backup and recovery tools such as Hadoop snapshots, Hadoop trash, Hadoop distcp, etc.
+  - Hadoop best practices and guidelines
+- A possible mnemonic to remember the main components of Hadoop is: **H**ave **F**un **M**apping and **R**educing with **Y**ARN and **Z**ooKeeper. (HDFS, MapReduce, YARN, ZooKeeper)

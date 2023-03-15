@@ -1,0 +1,11 @@
+### Design Strategies in Software Design
+
+There are different design strategies that can be applied to software design, depending on the nature and complexity of the problem, the requirements and constraints, and the preferences and skills of the designers. Some of the common design strategies are:
+
+- **Top-down design**: This strategy involves breaking down the problem into smaller and simpler subproblems, and then designing solutions for each subproblem. The subproblems are further decomposed until they are easy to solve. The solutions for the subproblems are then combined to form the solution for the original problem. This strategy is useful for problems that have a clear hierarchical structure and well-defined interfaces between the subproblems.
+
+- **Bottom-up design**: This strategy involves designing solutions for the simplest and most basic components of the problem, and then integrating them to form more complex and higher-level components. The components are tested and verified individually before they are integrated. This strategy is useful for problems that have many reusable and independent components that can be easily combined.
+
+- **Iterative design**: This strategy involves designing and implementing a partial or preliminary solution for the problem, and then testing and evaluating it. Based on the feedback and results, the solution is modified and improved until it meets the desired criteria and specifications. This strategy is useful for problems that have unclear or changing requirements, or that require experimentation and exploration.
+
+- **Incremental design**: This strategy involves designing and implementing the solution for the problem in small and manageable increments, and then delivering them to the users or clients. Each increment adds some functionality or quality to the solution, and is tested and verified before it is delivered. This strategy is useful for problems that have high risks or uncertainties, or that require frequent feedback and validation from the users or clients.

@@ -1,0 +1,16 @@
+### Stepwise Project Planning in SPM
+
+Stepwise project planning in software project management is the process of breaking down the development process into smaller, manageable steps. This makes it easier for the project manager to plan and track progress, as each step is clearly defined. It also allows for tasks to be divided up and delegated to different team members.
+
+The following are the main steps involved in stepwise project planning :
+
+- **Step 0: Select project.** This involves choosing a project that is feasible, beneficial, and aligned with the organization's goals and strategies.
+- **Step 1: Identify project scope and objectives.** This involves defining the boundaries, deliverables, and expected outcomes of the project. It also involves identifying the project stakeholders and their needs and expectations.
+- **Step 2: Identify project infrastructure.** This involves determining the resources, tools, methods, standards, and procedures that will be used to execute the project. It also involves establishing the project organization and roles and responsibilities of the project team members.
+- **Step 3: Analyze project characteristics.** This involves identifying the key features, functions, and requirements of the project product or service. It also involves assessing the complexity, size, and risks of the project.
+- **Step 4: Identify project products and activities.** This involves decomposing the project product or service into smaller components and defining the activities and tasks required to produce them. It also involves creating a work breakdown structure (WBS) and a network diagram to show the dependencies and sequence of the activities.
+- **Step 5: Estimate effort for each activity.** This involves estimating the time, cost, and resources required to complete each activity. It also involves applying various estimation techniques and tools, such as analogy, expert judgment, parametric, or bottom-up methods.
+- **Step 6: Identify activity risks.** This involves identifying the potential threats and opportunities that may affect the project activities and their outcomes. It also involves analyzing the probability and impact of the risks and developing mitigation and contingency plans.
+- **Step 7: Allocate resources.** This involves assigning the available resources, such as human, material, financial, or technological, to the project activities. It also involves balancing the resource demand and supply and resolving any conflicts or constraints.
+- **Step 8: Review/publicize plan.** This involves reviewing the project plan for completeness, accuracy, and consistency. It also involves communicating the project plan to the project stakeholders and obtaining their feedback and approval.
+- **Step 9: Execute plan/lower levels of planning.** This involves implementing the project plan and monitoring and controlling the project performance. It also involves performing lower levels of planning, such as phase, stage, or iteration planning, as the project progresses.

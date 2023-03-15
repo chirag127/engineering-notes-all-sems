@@ -1,0 +1,10 @@
+### Effort and Cost Estimation Techniques in SPM
+
+- Effort and cost estimation are the processes of predicting the amount of resources (such as time, money, and human effort) required to complete a software project.
+- Effort and cost estimation are important for project planning, budgeting, scheduling, and controlling in software project management (SPM).
+- Effort and cost estimation are challenging tasks because of the uncertainty, complexity, and variability of software projects.
+- There are various techniques for effort and cost estimation, which can be classified into three categories:
+  - Expert judgment: This technique relies on the experience and intuition of experts who have worked on similar projects before. The experts provide their estimates based on their knowledge and judgment. Examples of expert judgment techniques are Delphi method, analogy, and expert opinion.
+  - Algorithmic models: This technique uses mathematical formulas or equations to calculate the effort and cost based on some input parameters, such as software size, complexity, quality, and productivity. The input parameters are usually derived from historical data or industry standards. Examples of algorithmic models are Function Point Analysis (FPA), Constructive Cost Model (COCOMO), and Software Life Cycle Management (SLIM).
+  - Machine learning: This technique uses artificial intelligence techniques, such as neural networks, regression, and classification, to learn from historical data and predict the effort and cost of new projects. The machine learning techniques can adapt to changing environments and project characteristics. Examples of machine learning techniques are Case-Based Reasoning (CBR), Artificial Neural Networks (ANN), and Support Vector Machines (SVM).
+- Each technique has its own advantages and disadvantages, and no single technique can guarantee accurate and reliable estimates for all projects. Therefore, it is recommended to use a combination of techniques and to update the estimates regularly throughout the project life cycle.

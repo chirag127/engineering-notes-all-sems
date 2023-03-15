@@ -1,0 +1,17 @@
+#### How to build applications with Zookeeper
+
+Zookeeper is a distributed system coordinator that provides services such as configuration management, synchronization, naming, and leader election for distributed applications. Zookeeper can help developers to simplify the complexity of distributed programming and achieve high availability and scalability.
+
+To build applications with Zookeeper, the following steps are required:
+
+- Install Zookeeper on one or more servers. Zookeeper can run in standalone mode or in a cluster mode. In standalone mode, only one server is used and there is no fault tolerance. In cluster mode, multiple servers form a quorum and can tolerate some failures. The installation consists of downloading a stable Zookeeper release and creating a configuration file that specifies the server ID, data directory, client port, and other parameters. For more details, see  .
+- Start Zookeeper on the servers. Depending on the installation mode, different commands are used to start Zookeeper. For example, in standalone mode, the command is `java -jar zookeeper.jar`. In cluster mode, the command is `zkServer.sh start`. For more details, see   .
+- Connect to Zookeeper from the application. Zookeeper provides a Java API and bindings for other languages such as C, Python, and Ruby. The application can use the Zookeeper API to create, read, update, and delete znodes, which are the basic units of data stored in Zookeeper. Znodes can have data, children, and metadata, and can be ephemeral or persistent. The application can also use the Zookeeper API to set watches on znodes, which are callbacks that notify the application of changes in the znode data or children. For more details, see .
+- Use Zookeeper services for the application logic. Zookeeper can provide various services for distributed applications, such as:
+
+  - Configuration management: Zookeeper can store the configuration data of the application in znodes and notify the application of any changes using watches. This way, the application can dynamically adjust its behavior according to the configuration.
+  - Synchronization: Zookeeper can provide synchronization primitives such as locks, barriers, and queues, which can help the application coordinate its actions across multiple nodes. For example, a lock can ensure that only one node can access a shared resource at a time, a barrier can synchronize the start or end of a task among multiple nodes, and a queue can distribute tasks among multiple nodes.
+  - Naming: Zookeeper can provide a hierarchical namespace for the application to register and discover services, nodes, and resources. For example, the application can use znodes to store the information of available servers, such as their IP addresses and ports, and use watches to monitor their availability. The application can also use znodes to store the metadata of resources, such as their location, size, and type, and use watches to track their changes.
+  - Leader election: Zookeeper can help the application elect a leader among multiple nodes, which can perform some special tasks or coordinate the actions of other nodes. For example, the application can use znodes to store the information of candidates, such as their IDs and timestamps, and use watches to determine the leader based on some criteria, such as the smallest ID or the earliest timestamp.
+
+For more details, see .

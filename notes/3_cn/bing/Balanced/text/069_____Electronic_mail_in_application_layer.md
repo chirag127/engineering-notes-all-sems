@@ -1,0 +1,12 @@
+### Electronic mail in application layer
+
+- Electronic mail (or email) is an application layer service that allows users to exchange messages and information over the internet.
+- Email is one of the most popular and widely used services of the internet.
+- Email has three major components: user agents, mail servers, and protocols.
+- User agents are the software programs that users use to read, compose, and organize email messages. Examples of user agents are Outlook, Gmail, and Thunderbird.
+- Mail servers are the servers that store and forward email messages. Each user has a mailbox on a mail server that belongs to their domain. For example, a user with the email address alice@example.com has a mailbox on the mail server example.com.
+- Protocols are the rules and standards that govern the communication between user agents and mail servers, and between mail servers themselves. The main protocols used for email are:
+  - Simple Mail Transfer Protocol (SMTP): SMTP is used to send email messages from a user agent to a mail server, or from one mail server to another. SMTP uses port 25 and operates over TCP. SMTP follows a push model, where the sender initiates the transfer of a message to the receiver.
+  - Post Office Protocol (POP): POP is used to retrieve email messages from a mail server to a user agent. POP uses port 110 and operates over TCP. POP follows a pull model, where the receiver requests the transfer of a message from the sender. POP usually deletes the messages from the server after downloading them to the user agent.
+  - Internet Message Access Protocol (IMAP): IMAP is similar to POP, but it allows more flexibility and functionality. IMAP uses port 143 and operates over TCP. IMAP allows the user to access email messages without downloading them, and to synchronize multiple user agents with the same mailbox. IMAP also supports email folders, flags, and searches. IMAP does not delete the messages from the server unless the user explicitly does so.
+  - Multipurpose Internet Mail Extensions (MIME): MIME is not a protocol, but a standard that defines the format and structure of email messages. MIME allows email messages to contain different types of content, such as text, images, audio, video, and attachments. MIME also supports different character sets, languages, and encodings. MIME defines a set of headers and boundaries that separate the different parts of a message.

@@ -1,0 +1,9 @@
+#### Introduction to Java
+
+- Java is a **high-level**, **general-purpose**, **object-oriented**, and **secure** programming language that is designed to have as few implementation dependencies as possible  .
+- Java is intended to let application developers **write once, run anywhere (WORA)**, meaning that compiled Java code can run on all platforms that support Java without the need for recompilation .
+- Java was developed by **James Gosling** at **Sun Microsystems, Inc.** in **1991**. It was originally called **OAK**, but later renamed to Java in **1995** . In **2009**, Sun Microsystems was acquired by **Oracle Corporation**.
+- Java is a **platform** as well as a language. A platform is a hardware or software environment in which a program runs. Java has two components: the **Java Virtual Machine (JVM)** and the **Java Application Programming Interface (API)** .
+- The JVM is a software that executes Java bytecode, which is the intermediate representation of Java source code. The JVM is responsible for making Java platform-independent, as it abstracts away the details of the underlying hardware or operating system .
+- The Java API is a collection of pre-written classes, interfaces, and packages that provide a rich set of functionalities, such as input/output, networking, database access, graphics, etc. The Java API is organized into different libraries, such as **java.lang**, **java.util**, **java.io**, etc .
+- Java is one of the most popular programming languages in the world, and is used for various applications, such as mobile applications (especially Android apps), desktop applications, web applications, web servers, application servers, embedded systems, etc .

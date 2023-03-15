@@ -1,0 +1,32 @@
+#### Map Reduce framework and basics
+
+- Map Reduce is a software framework and programming model used for processing huge amounts of data in a distributed and parallel fashion over a cluster of machines   .
+- Map Reduce program works in two phases, namely, Map and Reduce .
+  - Map tasks deal with splitting and mapping of data into key-value pairs  .
+  - Reduce tasks deal with shuffling and reducing the data by aggregating the values associated with the same key  .
+- Map Reduce framework consists of a single master ResourceManager, one worker NodeManager per cluster-node, and MRAppMaster per application.
+  - ResourceManager is responsible for allocating resources and scheduling tasks.
+  - NodeManager is responsible for launching and monitoring the map and reduce tasks on each node.
+  - MRAppMaster is responsible for coordinating the map and reduce tasks and handling failures.
+- Map Reduce applications specify the input/output locations and supply map and reduce functions via implementations of appropriate interfaces and/or abstract-classes.
+  - The input and output of the map and reduce functions are key-value pairs  .
+  - The key and value classes have to be serializable by the framework and hence need to implement the Writable interface.
+  - The key classes have to implement the WritableComparable interface to facilitate sorting by the framework.
+- Map Reduce framework provides several benefits, such as:
+  - Scalability: It can handle large data sets by distributing the work across multiple nodes .
+  - Fault-tolerance: It can recover from failures by re-executing the failed tasks on other nodes .
+  - Simplicity: It abstracts the complexity of distributed computing and allows the developers to focus on the business logic .
+- Map Reduce framework also has some limitations, such as:
+  - Not suitable for interactive or real-time queries, as it involves high latency and overhead .
+  - Not efficient for iterative algorithms, as it requires multiple passes over the data and intermediate disk I/O .
+  - Not flexible for complex data processing, as it only supports the map and reduce functions and does not allow for other operations .
+
+- A possible mnemonic to remember the Map Reduce framework is: **MARS** (Map, Aggregate, Reduce, Shuffle).
+- A possible learning trick to understand the Map Reduce framework is to use a word count example  :
+  - Suppose we have a large text file and we want to count the frequency of each word in the file.
+  - We can use the Map Reduce framework to achieve this task by following these steps:
+    - Split the file into smaller chunks and assign each chunk to a map task.
+    - Each map task reads its chunk and emits key-value pairs, where the key is a word and the value is 1.
+    - The framework shuffles and sorts the key-value pairs by the key and sends them to the reduce tasks.
+    - Each reduce task receives a key and a list of values, and sums up the values to get the frequency of the key (word).
+    - Each reduce task writes its output to a file, which contains the word and its frequency.

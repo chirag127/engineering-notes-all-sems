@@ -1,0 +1,22 @@
+## Unit 3 - Scripting
+
+- Scripting is the process of writing and executing a series of commands or instructions that can be run by a computer program or system.
+- Scripting languages are high-level languages that are interpreted or compiled at run time, rather than compiled in advance.
+- Scripting languages are often used for automation, data processing, web development, testing, and other tasks that require dynamic and flexible behavior.
+- Some examples of scripting languages are Python, Ruby, Perl, JavaScript, Bash, and PowerShell.
+- Scripting languages have some advantages and disadvantages compared to compiled languages, such as:
+  - Advantages:
+    - They are easy to learn and use, as they have simple syntax and features.
+    - They are portable and platform-independent, as they can run on different operating systems and environments.
+    - They are expressive and concise, as they can perform complex operations with fewer lines of code.
+    - They are flexible and adaptable, as they can interact with other languages and programs, and modify themselves at run time.
+  - Disadvantages:
+    - They are slower and less efficient, as they have more overhead and less optimization than compiled languages.
+    - They are less secure and reliable, as they have less error checking and debugging tools than compiled languages.
+    - They are less standardized and consistent, as they have more variations and dialects than compiled languages.
+- To write and run a script, one needs a text editor and a scripting engine or interpreter that can execute the script.
+- A script can be executed in different ways, such as:
+  - By typing the script name or path in a command-line interface or terminal.
+  - By using a graphical user interface or a web browser that can run the script.
+  - By embedding the script in another program or document that can invoke the script.
+  - By using a scheduler or a trigger that can run the script at a specified time or event.

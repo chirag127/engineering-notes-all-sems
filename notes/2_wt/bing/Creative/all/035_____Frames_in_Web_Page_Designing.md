@@ -1,0 +1,21 @@
+# Frames in Web Page Designing
+
+- Frames are a feature of HTML that allows the author to control the layout of a website in the user's browser .
+- Frames allow the author to divide the browser window into rectangular sections that can be treated as if they were separate browser windows .
+- Each frame can be scrolled and resized, and loaded with different web pages .
+- Frames can be used to create a consistent navigation menu, a header, a footer, or a sidebar on a website.
+- To use frames on a web page, the author must use the `<frameset>` tag instead of the `<body>` tag .
+- The `<frameset>` tag defines how to divide the window into frames using the `rows` attribute for horizontal frames and the `cols` attribute for vertical frames .
+- The `<frame>` tag defines the source, name, and properties of each frame within the `<frameset>` tag .
+- The `<noframes>` tag defines the content to be displayed in browsers that do not support frames .
+- Frames have some advantages and disadvantages in web page designing.
+  - Advantages:
+    - Frames can reduce the loading time of a website by caching the common elements of each page.
+    - Frames can make the navigation easier and more consistent for the user.
+    - Frames can allow the author to update one frame without reloading the whole page.
+  - Disadvantages:
+    - Frames can disrupt the flow of the web and the user's ability to bookmark, print, or share a specific page.
+    - Frames can create accessibility and usability issues for some users, especially those with screen readers or small devices.
+    - Frames can cause problems with search engines and indexing of the website.
+- Frames are obsolete in HTML5 and are not recommended for modern web design.
+- Frames can be replaced by other techniques such as CSS layout, tables, or JavaScript.

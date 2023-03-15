@@ -1,0 +1,24 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have asked me to write on the topic of electronic mail in application layer. Here is my response:
+
+### Electronic mail in application layer
+
+- Electronic mail (email) is a widely used application that allows users to exchange messages across the Internet or other networks.
+- Email has three major components: user agents, mail servers, and simple mail transfer protocol (SMTP).
+- User agents are programs that allow users to read, compose, send, and receive email messages. Examples of user agents are Outlook, Gmail, Thunderbird, etc.
+- Mail servers are computers that store and forward email messages. Each mail server has a mailbox for each user, which is a collection of messages that have been sent to that user. Mail servers also run a mail transfer agent (MTA), which is a program that sends and receives messages using SMTP.
+- SMTP is an application layer protocol that defines how email messages are formatted, addressed, and transferred between mail servers. SMTP uses TCP as the transport layer protocol and port 25 as the well-known port number. SMTP has two phases: a handshaking phase and a message transfer phase. In the handshaking phase, the sender and the receiver mail servers exchange greetings and identify themselves. In the message transfer phase, the sender mail server sends one or more email messages to the receiver mail server, followed by a quit command to end the connection.
+- An email message consists of two parts: a header and a body. The header contains information such as the sender, the receiver, the subject, the date, etc. The body contains the actual content of the message, which can be text, images, attachments, etc.
+- An email address has the form of user@domain, where user is the name of the user and domain is the name of the mail server. For example, alice@example.com is an email address for a user named Alice at a mail server named example.com.
+- To send an email message from one user to another, the following steps are involved:
+
+  1. The sender user agent creates the message and specifies the sender and the receiver email addresses.
+  2. The sender user agent contacts the sender mail server and sends the message using SMTP.
+  3. The sender mail server looks up the domain name of the receiver email address in the DNS and obtains the IP address of the receiver mail server.
+  4. The sender mail server contacts the receiver mail server and sends the message using SMTP.
+  5. The receiver mail server stores the message in the mailbox of the receiver user.
+  6. The receiver user agent contacts the receiver mail server and retrieves the message using a mail access protocol, such as POP3, IMAP, or HTTP.
+
+- A mail access protocol is an application layer protocol that allows a user agent to access and manipulate the messages stored in a mail server. There are three common mail access protocols: post office protocol version 3 (POP3), internet message access protocol (IMAP), and hypertext transfer protocol (HTTP).
+- POP3 is a simple protocol that allows a user agent to download all the messages from a mail server and delete them from the server. POP3 uses TCP as the transport layer protocol and port 110 as the well-known port number. POP3 has three phases: authorization, transaction, and update. In the authorization phase, the user agent sends the username and password to the mail server and receives a positive or negative response. In the transaction phase, the user agent issues commands to list, retrieve, and delete the messages from the mail server. In the update phase, the mail server deletes the messages that have been marked for deletion and closes the connection.
+- IMAP is a more complex protocol that allows a user agent to access and manipulate the messages from a mail server without downloading them. IMAP uses TCP as the transport layer protocol and port 143 as the well-known port number. IMAP has two modes: connected and disconnected. In the connected mode, the user agent maintains a connection with the mail server and can issue commands to list, select, fetch, store, copy, and delete the messages from the mail server. In the disconnected mode, the user agent can work offline with the messages that have been downloaded and synchronize them with the mail server later. IMAP also supports folders, flags, and searches for organizing and managing the messages.
+- HTTP is a protocol that allows a user agent to access and manipulate the messages from a mail server using a web browser. HTTP uses TCP as the transport layer protocol and port 80 as the well-known port number. HTTP has a client-server model, where the user agent is the client and the mail server is the server. The user agent sends

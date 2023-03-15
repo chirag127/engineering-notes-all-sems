@@ -1,0 +1,46 @@
+### Physical Layer in Computer Networks
+
+- The physical layer is the lowest and first layer of the OSI model of computer networking.
+- The physical layer provides an electrical, mechanical, and procedural interface to the transmission medium.
+- The physical layer defines the means of transmitting a stream of raw bits over a physical data link connecting network nodes.
+- The physical layer consists of the electronic circuit transmission technologies of a network, such as wires, cables, connectors, transmitters, receivers, modems, etc.
+- The physical layer performs the following functions:
+  - It maintains the data rate (how many bits a sender can send per second).
+  - It performs synchronization of bits (how the sender and receiver agree on when a bit starts and ends).
+  - It helps in transmission medium decision (direction of data transfer, such as simplex, half-duplex, or full-duplex).
+  - It helps in physical topology decision (shape of the network, such as mesh, star, bus, ring, etc).
+  - It helps in encoding and decoding of bits (how the bits are represented as physical signals, such as voltage levels, light pulses, etc).
+  - It helps in multiplexing and demultiplexing of signals (how multiple signals are combined or separated on a single medium, such as frequency division multiplexing, time division multiplexing, etc).
+  - It helps in error detection and correction (how the sender and receiver detect and correct errors in the bitstream, such as parity check, checksum, cyclic redundancy check, etc).
+- A mnemonic to remember the functions of the physical layer is **D-SPEED**:
+  - **D**ata rate
+  - **S**ynchronization
+  - **P**hysical medium
+  - **E**ncoding
+  - **E**rror detection
+  - **D**uplexing
+- Some examples of physical layer standards and protocols are:
+  - Ethernet
+  - Wi-Fi
+  - Bluetooth
+  - USB
+  - RS-232
+  - SONET
+  - DSL
+  - ISDN
+  - GSM
+  - CDMA
+- Some advantages of the physical layer are:
+  - It enables the transmission of data over different types of media and distances.
+  - It supports various data rates and modes of communication.
+  - It provides error detection and correction mechanisms to ensure reliable data transfer.
+  - It allows multiplexing of multiple signals on a single medium to increase efficiency and bandwidth utilization.
+- Some disadvantages of the physical layer are:
+  - It does not provide any security or encryption of data.
+  - It does not guarantee the delivery or order of data.
+  - It does not handle congestion or flow control of data.
+  - It does not provide any logical addressing or routing of data.
+- Some applications of the physical layer are:
+  - It enables the communication between different devices and networks.
+  - It supports various types of services and applications, such as voice, video, data, etc.
+  - It facilitates the interoperability and compatibility of different standards and protocols.

@@ -1,0 +1,16 @@
+### Schedule/Duration of Maintenance in software project management
+
+- Software maintenance is the process of modifying and updating a software system after its delivery to correct faults, improve performance, adapt to changing environments, or add new features.
+- Software maintenance is an important and inevitable activity in the software development life cycle, as it accounts for a large portion of the total cost and effort of software projects.
+- Software maintenance can be classified into four types: corrective, adaptive, perfective, and preventive maintenance.
+- Corrective maintenance is the process of fixing errors or bugs that are discovered after the software is deployed. It aims to restore the software to its intended functionality and performance.
+- Adaptive maintenance is the process of modifying the software to cope with changes in the external environment, such as new hardware, operating systems, standards, or user requirements. It aims to keep the software compatible and usable in the new context.
+- Perfective maintenance is the process of enhancing the software to improve its quality, efficiency, usability, or functionality. It aims to increase the customer satisfaction and value of the software.
+- Preventive maintenance is the process of modifying the software to prevent potential problems or errors from occurring in the future. It aims to reduce the complexity, risk, and cost of future maintenance activities.
+- The schedule or duration of software maintenance depends on various factors, such as the type and size of the software system, the quality and reliability of the software, the availability and skills of the maintenance team, the frequency and urgency of the maintenance requests, the budget and resources allocated for maintenance, and the maintenance policies and standards adopted by the organization.
+- Some general guidelines for estimating the schedule or duration of software maintenance are:
+
+  - Corrective maintenance is usually performed on demand, as soon as possible after an error is reported or detected. The duration of corrective maintenance depends on the severity and complexity of the error, and the time required to locate, diagnose, fix, test, and deploy the solution.
+  - Adaptive maintenance is usually performed periodically, according to a predefined schedule or plan. The duration of adaptive maintenance depends on the scope and magnitude of the changes, and the time required to analyze, design, implement, test, and deploy the modifications.
+  - Perfective maintenance is usually performed opportunistically, when there is spare time or resources available, or when there is a strong business case or customer demand for the enhancements. The duration of perfective maintenance depends on the priority and feasibility of the enhancements, and the time required to analyze, design, implement, test, and deploy the improvements.
+  - Preventive maintenance is usually performed proactively, before any problems or errors occur, or when there is a high risk or probability of future problems or errors. The duration of preventive maintenance depends on the complexity and stability of the software, and the time required to analyze, design, implement, test, and deploy the preventive measures.

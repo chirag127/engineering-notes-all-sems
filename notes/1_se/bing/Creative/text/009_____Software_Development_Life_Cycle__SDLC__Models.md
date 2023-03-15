@@ -1,0 +1,11 @@
+### Software Development Life Cycle (SDLC) Models
+
+- Software Development Life Cycle (SDLC) is a process that describes the stages involved in developing a software product from planning to deployment and maintenance.
+- SDLC models are different approaches or methodologies that guide the software development process and define the tasks, activities, and deliverables for each stage.
+- Some of the common SDLC models are:
+
+  - **Waterfall model**: A linear and sequential model that follows a fixed set of phases in a strict order. Each phase must be completed and verified before moving to the next one. This model is suitable for well-defined and stable projects with clear requirements and minimal changes.
+  - **Agile model**: An iterative and incremental model that emphasizes collaboration, feedback, and adaptation. Each iteration delivers a working software product that meets the customer's needs and expectations. This model is suitable for dynamic and complex projects with changing requirements and frequent feedback.
+  - **Spiral model**: A risk-driven model that combines the features of the waterfall and agile models. Each cycle consists of four phases: planning, risk analysis, engineering, and evaluation. This model is suitable for large and critical projects with high risks and uncertainties.
+  - **V-model**: A verification and validation model that follows a parallel structure to the waterfall model. Each phase of development is associated with a corresponding phase of testing. This model is suitable for projects that require high quality and reliability of the software product.
+  - **Prototyping model**: A user-driven model that involves creating and testing a prototype of the software product before developing the final version. The prototype is a simplified and incomplete version of the software that demonstrates the basic features and functionality. This model is suitable for projects that require user involvement and feedback to refine the requirements and design.

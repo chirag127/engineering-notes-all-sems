@@ -16,7 +16,13 @@ from POE import (
     send_message,
     set_auth,
 )
+
 from remove_empty_notes import remove
+from utils import (
+    generate_message,
+    get_acutal_topic_from_topic_with_hash,
+    get_valid_file_name,
+)
 
 set_auth("Quora-Formkey", "2cbcc73d525a277dc9e11ed604bc0c1e")
 set_auth("Cookie", "m-b=RwMrxga0QhVonZolW23NIQ==")
@@ -29,8 +35,8 @@ def main():
     with ThreadPoolExecutor(max_workers=4) as executor:
         executor.map(run_bot, ids)
 
-    for id in ids:
-        run_bot(id)
+    for idd in ids:
+        run_bot(idd)
 
 
 def run_bot(i):
@@ -64,28 +70,20 @@ def write_a_topic(
     bot="a2",
     file="p_s/cs/3/1_Software Engineering.txt",
     j=0,
-    topic="india",
+    topic_with_hash="india",
     chat_id=None,
 ):
-    i = topic
 
-    actual_topic = topic.replace("#", "").strip()
+
+    actual_topic = get_acutal_topic_from_topic_with_hash(topic_with_hash)
 
     print(actual_topic)
 
-    message = f"""- write the content in markdown format.
-- Be Formal.
-- If there are good Mnemonics and learning tricks for the {topic} then include them.
-- Don't give the Mnemonics and learning tricks if they are not easy to remember.
-- the content is to be written inside header {i}.
-- write on the topic like you are writing the study material to learn and read from for exams.
-- write in points.
-- you may also include detailed ascii diagrams, codes, markdown tables, advantages, disadvantages, examples, applications, etc for the topic in the reply, only if they can be helpful to learn and read from for exams.
-write in detail about {topic}"""
+    message = generate_message(topic_with_hash, actual_topic)
 
-    file_name = get_file_name(j, topic)
+    file_name = get_file_name(j, actual_topic)
 
-    file_path = f"notes/{file.replace('.txt','')}poe/{bot}/{file_name}"
+    file_path = f"notes/{file.replace('.txt','')}/poe/{bot}/{file_name}"
 
     file_path = file_path.replace("p_s/", "", 1)
 
@@ -105,29 +103,9 @@ write in detail about {topic}"""
             f.write(f"{reply}")
 
 
-def get_file_name(j, topic):
-    if len(topic) > 100:
-        topic = topic[:100]
+def get_file_name(j, actual_topic):
 
-    topic = topic.replace(" ", "_")
-
-    topic = topic.replace("/", "_")
-
-    topic = topic.replace(":", "_")
-
-    topic = topic.replace("?", "_")
-
-    topic = topic.replace("!", "_")
-
-    topic = topic.replace(",", "_")
-
-    topic = topic.replace(".", "_")
-
-    topic = topic.replace("(", "_")
-
-    topic = topic.replace(")", "_")
-
-    file_name = f"{topic}.md"
+    file_name = f"{get_valid_file_name(actual_topic)}.md"
 
     file_name = f"{j:03d}_" + file_name
 
@@ -136,14 +114,13 @@ def get_file_name(j, topic):
 
 if __name__ == "__main__":
     k = 0
-    while k < 1:
+    while k < 100:
         try:
-            from remove_empty_notes import remove
 
             remove()
 
             main()
-        except Exception as e:
+        except Exception as e: # pylint: disable=broad-except
             print(e)
             continue
 

@@ -1,0 +1,7 @@
+#### Protection of Big Data
+
+- Big data refers to the large and complex datasets that are generated from various sources, such as social media, sensors, web logs, etc. Big data has the characteristics of volume, velocity, variety, veracity, and value.
+- Protection of big data is the process of ensuring the confidentiality, integrity, and availability of big data from unauthorized access, modification, or disclosure. Protection of big data involves the following aspects:
+  - Data security: This refers to the measures taken to prevent or detect data breaches, such as encryption, authentication, authorization, auditing, etc. Data security also includes data backup and recovery, data disposal, and data anonymization.
+  - Data privacy: This refers to the respect for the rights and preferences of data subjects, such as data minimization, consent, transparency, accountability, etc. Data privacy also includes data protection laws and regulations, such as GDPR, CCPA, etc.
+  - Data ethics: This refers to the moral principles and values that guide the collection, analysis, and use of big data, such as fairness, justice, beneficence, non-maleficence, etc. Data ethics also includes data governance and stewardship, data quality and provenance, and data literacy and education.

@@ -1,0 +1,7 @@
+### Types of beans in Enterprise Java Bean
+
+Enterprise Java Bean (EJB) is a server-side component that encapsulates the business logic of an application. It is a specification for developing a distributed business application on the Java platform. There are three types of beans in EJB:
+
+- **Session Bean**: A session bean contains business logic that can be invoked by local, remote or web service client. There are two types of session beans: stateful and stateless. A stateful session bean maintains a conversational state with the client across multiple method calls, while a stateless session bean does not .
+- **Entity Bean**: An entity bean represents a persistent object that can be stored in a database. It provides an object-oriented view of the data and encapsulates the access to the data source. There are two types of entity beans: bean-managed persistence (BMP) and container-managed persistence (CMP). A BMP entity bean is responsible for managing its own persistence, while a CMP entity bean delegates the persistence to the container.
+- **Message-Driven Bean**: A message-driven bean is a type of session bean that acts as a message consumer and asynchronously processes messages from a message queue or topic. It implements the javax.jms.MessageListener interface and contains the business logic to handle the message .

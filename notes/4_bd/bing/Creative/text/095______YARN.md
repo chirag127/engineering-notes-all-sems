@@ -1,0 +1,22 @@
+#### YARN
+
+- Yarn is a long continuous length of interlocked fibres, used in sewing, crocheting, knitting, weaving, embroidery, ropemaking, and the production of textiles.
+- Thread is a type of yarn intended for sewing by hand or machine.
+- Yarn is selected for different textiles based on the characteristics of the yarn fibres, such as warmth (wool), light weight (cotton or rayon), durability (nylon is added to sock yarn, for example), or softness (cashmere, alpaca).
+- Yarn is composed of twisted strands of fiber, which are known as plies when grouped together.
+- The thickness of the yarn is determined by the number of plies, the weight of the yarn, and the gauge of the knitting or crochet pattern.
+- Yarn can be dyed in various colors, either before or after being spun into yarn.
+- Yarn can also be blended with different types of fibres to create different effects, such as wool and silk, cotton and acrylic, or bamboo and nylon.
+- Yarn can be classified into natural yarns (made from animal, plant, or mineral sources) and synthetic yarns (made from man-made materials).
+- Some examples of natural yarns are wool, cotton, linen, silk, alpaca, cashmere, and hemp.
+- Some examples of synthetic yarns are acrylic, polyester, nylon, rayon, and spandex.
+- Yarn can also be categorized by the way it is spun, such as worsted, woolen, or novelty yarns.
+- Worsted yarns are spun from long and smooth fibres that are combed and aligned, resulting in a strong and smooth yarn that is suitable for garments and accessories.
+- Woolen yarns are spun from short and fuzzy fibres that are carded and not aligned, resulting in a soft and fluffy yarn that is suitable for warm and cozy items.
+- Novelty yarns are spun from fibres that have been manipulated to create special effects, such as boucle, eyelash, chenille, or ribbon yarns.
+- Yarn can also be used as a package manager that doubles down as project manager for software development.
+- Yarn can help developers to work on one-shot projects or large monorepos, as a hobbyist or an enterprise user.
+- Yarn can also help developers to split their project into sub-components kept within a single repository, called workspaces.
+- Yarn can also help developers to ensure the stability, security, and performance of their code, by using checksums, lockfiles, and zero-installs.
+- Yarn can also help developers to customize their workflows, by using plugins, scripts, and hooks.
+- Yarn can also help developers to access a large ecosystem of packages, by using the npm registry or other sources.

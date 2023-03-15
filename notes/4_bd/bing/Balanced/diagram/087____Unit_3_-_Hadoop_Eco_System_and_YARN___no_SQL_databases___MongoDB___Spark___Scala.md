@@ -1,0 +1,35 @@
+## Unit 3 - Hadoop Eco System and YARN , no SQL databases , MongoDB , Spark , Scala
+
+- Hadoop Ecosystem is a platform or a suite that provides various services to solve the big data problems. It includes Apache projects and various commercial tools and solutions.
+- Hadoop Ecosystem consists of four major elements: HDFS, MapReduce, YARN, and Hadoop Common.
+- HDFS is the distributed file system that stores the data across multiple nodes in a cluster.
+- MapReduce is the programming model that processes the data in parallel using key-value pairs.
+- YARN is the resource management layer that allocates and monitors the resources for the applications running on Hadoop.
+- Hadoop Common is the set of libraries and utilities that support the other Hadoop components.
+- Hadoop Ecosystem also includes other components that perform different tasks, such as data ingestion, data integration, data analysis, data visualization, etc.
+- Some of the popular Hadoop Ecosystem components are: Pig, Hive, HBase, Sqoop, Flume, Kafka, Spark, Storm, etc .
+- Spark is one of the most widely used Hadoop Ecosystem components that provides a fast and general-purpose framework for large-scale data processing.
+- Spark can easily coexist with MapReduce and with other ecosystem components that perform other tasks.
+- Spark is also popular because it supports SQL, which helps overcome a shortcoming in core Hadoop technology.
+- Spark can run on Hadoop, Mesos, Kubernetes, standalone, or in the cloud.
+- Spark has four main components: Spark Core, Spark SQL, Spark Streaming, and Spark MLlib.
+- Spark Core is the base engine that provides distributed task dispatching, scheduling, and basic I/O functionalities.
+- Spark SQL is the component that provides structured and semi-structured data processing and supports various data sources and formats.
+- Spark Streaming is the component that provides scalable and fault-tolerant stream processing of live data streams.
+- Spark MLlib is the component that provides machine learning algorithms and utilities for data analysis.
+- Spark can be programmed in Scala, Python, Java, and R languages.
+- Scala is a general-purpose, multi-paradigm, and concise programming language that combines object-oriented and functional programming features.
+- Scala is the native language of Spark and runs on the Java Virtual Machine (JVM).
+- Scala has many advantages for Spark programming, such as: interoperability with Java libraries, concise and expressive syntax, support for higher-order functions, pattern matching, case classes, etc.
+- NoSQL databases are databases that do not follow the relational model and do not use SQL as the query language.
+- NoSQL databases are designed to handle large volumes of unstructured, semi-structured, or structured data with high scalability, availability, and performance.
+- NoSQL databases can be classified into four main types: key-value, document, column, and graph.
+- Key-value databases store data as pairs of keys and values, where the key is a unique identifier and the value can be any data type.
+- Document databases store data as documents, which are collections of fields and values, where the value can be any data type.
+- Column databases store data as columns, which are collections of values of the same type, where each column is associated with a row key and a column name.
+- Graph databases store data as nodes and edges, where nodes represent entities and edges represent relationships between entities.
+- MongoDB is one of the most popular NoSQL databases that belongs to the document type.
+- MongoDB stores data as documents in a binary JSON format called BSON.
+- MongoDB supports dynamic schemas, which means that documents in the same collection can have different fields and structures.
+- MongoDB provides various features, such as: indexing, aggregation, replication, sharding, text search, geospatial queries, etc.
+- MongoDB can be integrated with Hadoop and Spark for data analysis and processing.

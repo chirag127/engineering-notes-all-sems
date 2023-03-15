@@ -1,0 +1,38 @@
+#### Administering Hadoop in Hadoop Environment
+
+- Hadoop is a framework for distributed processing of large-scale data sets across clusters of computers.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce.
+- HDFS is a distributed file system that provides high-throughput access to data stored on the cluster nodes.
+- MapReduce is a programming model and an execution engine for parallel processing of data on HDFS.
+- Hadoop also includes other components such as Hadoop YARN, Hadoop Common, Hadoop ZooKeeper, Hadoop Oozie, Hadoop Hive, Hadoop HBase, and Hadoop Spark.
+- Hadoop can be deployed in different modes: standalone, pseudo-distributed, fully distributed, and cloud-based.
+- Standalone mode is the simplest mode, where Hadoop runs on a single machine without HDFS and MapReduce.
+- Pseudo-distributed mode is where Hadoop runs on a single machine, but simulates a cluster by running multiple instances of HDFS and MapReduce daemons.
+- Fully distributed mode is where Hadoop runs on a cluster of machines, with each machine running one or more HDFS and MapReduce daemons.
+- Cloud-based mode is where Hadoop runs on a virtualized cluster of machines, using services such as Amazon EC2, Google Cloud Platform, or Microsoft Azure.
+- Hadoop administration is the process of managing and maintaining the Hadoop cluster and its components.
+- Hadoop administration involves tasks such as:
+  - Installing and configuring Hadoop and its components on the cluster nodes.
+  - Setting up and securing Hadoop users and groups.
+  - Monitoring and tuning the performance of the cluster and its components.
+  - Managing and troubleshooting Hadoop jobs and applications.
+  - Backing up and restoring Hadoop data and metadata.
+  - Upgrading and patching Hadoop and its components.
+  - Scaling and balancing the cluster and its resources.
+  - Implementing and enforcing Hadoop policies and best practices.
+- Hadoop administration requires skills and knowledge in areas such as:
+  - Linux and Windows operating systems and commands.
+  - Java and other programming languages and frameworks used in Hadoop.
+  - Hadoop architecture and components and their configuration parameters and options.
+  - Hadoop security and authentication mechanisms and tools.
+  - Hadoop logging and debugging tools and techniques.
+  - Hadoop performance metrics and benchmarks and tools.
+  - Hadoop backup and recovery tools and strategies.
+  - Hadoop cluster management and automation tools and frameworks.
+- Hadoop administration can be done using different methods and tools, such as:
+  - Hadoop command-line interface (CLI), which provides a set of commands for interacting with Hadoop and its components.
+  - Hadoop web-based user interface (UI), which provides a graphical interface for monitoring and managing Hadoop and its components.
+  - Hadoop environment variables, which can be used to customize the behavior and settings of Hadoop and its components.
+  - Hadoop configuration files, which can be used to specify the properties and values of Hadoop and its components.
+  - Hadoop shell scripts, which can be used to automate and simplify Hadoop administration tasks.
+  - Hadoop third-party tools, which can be used to enhance and extend the functionality and features of Hadoop and its components.

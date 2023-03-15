@@ -1,0 +1,11 @@
+#### Transaction Processing in JDBC
+- Transaction processing is a way to ensure that a series of database operations are executed as a single unit of work.
+- JDBC (Java Database Connectivity) provides a standard API for accessing relational databases from Java programs.
+- In JDBC, a transaction is started when a connection to the database is established.
+- By default, JDBC operates in auto-commit mode, where each SQL statement is committed to the database as soon as it is executed.
+- To execute multiple statements as a single transaction, auto-commit mode must be turned off by calling the `setAutoCommit(false)` method on the `Connection` object.
+- Once auto-commit mode is turned off, all subsequent SQL statements are executed within the context of a single transaction.
+- The transaction can be committed by calling the `commit()` method on the `Connection` object.
+- If any errors occur during the transaction, the transaction can be rolled back to its initial state by calling the `rollback()` method on the `Connection` object.
+- After the transaction is committed or rolled back, auto-commit mode can be turned back on by calling the `setAutoCommit(true)` method on the `Connection` object.
+- It is important to properly manage transactions in JDBC to ensure data integrity and consistency in the database.

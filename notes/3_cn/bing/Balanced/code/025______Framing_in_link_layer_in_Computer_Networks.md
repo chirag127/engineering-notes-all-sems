@@ -1,0 +1,10 @@
+#### Framing in link layer in Computer Networks
+
+Framing is a function of the data link layer that provides a way for a sender to transmit a set of bits that are meaningful to the receiver. Frames are the result of the final layer of encapsulation before the data is transmitted over the physical layer. Frames have headers that contain information such as error-checking codes, source and destination addresses, and protocols.
+
+There are different types of framing methods that can be used in the data link layer, such as:
+
+- **Character count**: This method uses a field in the header to specify the number of characters in the frame. The receiver counts the characters and knows where the frame ends. This method is simple but unreliable, as any error in the count field or the data can cause framing errors.
+- **Byte stuffing**: This method uses a special byte sequence, such as `DLE STX` (Data Link Escape, Start of Text) to mark the beginning of the frame, and `DLE ETX` (Data Link Escape, End of Text) to mark the end of the frame. If the data contains the same byte sequence, it is replaced by another sequence, such as `DLE DLE`, to avoid confusion. The receiver reverses the process and recovers the original data. This method is more reliable but requires extra bytes to be added to the frame.
+- **Bit stuffing**: This method uses a special bit pattern, such as `01111110`, to mark the beginning and the end of the frame. If the data contains five consecutive 1s, a 0 is inserted after them to avoid confusion. The receiver reverses the process and recovers the original data. This method is also reliable but requires extra bits to be added to the frame.
+- **Physical layer coding violations**: This method uses the properties of the physical layer, such as voltage levels or signal transitions, to mark the beginning and the end of the frame. For example, a high-to-low transition can indicate the start of the frame, and a low-to-high transition can indicate the end of the frame. This method does not require extra bits or bytes, but depends on the characteristics of the physical layer.

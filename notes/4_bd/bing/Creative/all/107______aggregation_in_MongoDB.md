@@ -1,0 +1,25 @@
+#### Aggregation in MongoDB
+
+- Aggregation is the process of selecting data from a collection in MongoDB and performing various operations on the selected data to produce computed results .
+- Aggregation operations are expressions that can be used to reduce and summarize data in MongoDB.
+- Aggregation operations can be performed using the **aggregation pipeline**, the **map-reduce function**, or the **single purpose aggregation methods**.
+- The aggregation pipeline is a framework that allows you to create a sequence of stages, each performing a specific operation on the input documents, and outputting the modified documents to the next stage.
+- The aggregation pipeline can be used for tasks such as filtering, grouping, sorting, projecting, transforming, and aggregating data.
+- The aggregation pipeline can be created using the `aggregate()` method, which accepts one or more stage names as arguments .
+- Some of the common aggregation pipeline stages are:
+  - `$match`: filters the documents that match a specified condition.
+  - `$group`: groups the documents by a specified expression and applies an accumulator function to each group.
+  - `$sort`: sorts the documents by a specified order.
+  - `$project`: modifies the document structure by adding, removing, renaming, or computing fields.
+  - `$unwind`: splits an array field into multiple documents, one for each element of the array.
+  - `$lookup`: performs a left outer join with another collection and adds the joined documents to an array field.
+  - `$out`: writes the output documents to a specified collection.
+- The map-reduce function is a way of performing aggregation by applying a map function to each document and then reducing the results by a reduce function.
+- The map-reduce function can be used for tasks that require complex data processing or custom aggregation logic.
+- The map-reduce function can be created using the `mapReduce()` method, which accepts a map function, a reduce function, and an output specification as arguments.
+- The single purpose aggregation methods are simple methods that perform specific aggregation tasks on a collection.
+- The single purpose aggregation methods are:
+  - `count()`: returns the number of documents in a collection or matching a query.
+  - `distinct()`: returns the distinct values for a specified field in a collection or matching a query.
+  - `estimatedDocumentCount()`: returns an estimated number of documents in a collection.
+  - `group()`: groups documents by a specified key and applies an accumulator function to each group.

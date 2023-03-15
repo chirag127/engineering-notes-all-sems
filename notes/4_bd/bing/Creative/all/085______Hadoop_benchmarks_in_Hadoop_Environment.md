@@ -1,0 +1,14 @@
+#### Hadoop benchmarks in Hadoop Environment
+
+- Hadoop benchmarks are tests that measure the performance of Hadoop components, such as HDFS, MapReduce, and YARN, under different workloads and configurations.
+- Hadoop benchmarks can help users to evaluate the suitability of Hadoop for their applications, to compare different Hadoop distributions and versions, to identify and diagnose performance bottlenecks, and to optimize and tune Hadoop clusters.
+- Hadoop contains many benchmark packages encapsulated in Java Archive (JAR) files, such as:
+  - TestDFSIO benchmark: Tests the Distributed File System I/O performance of HDFS by creating MapReduce jobs to read and write parallel or separate map tasks. It can be used to measure the throughput and latency of HDFS operations .
+  - MapReduce sort benchmark: Tests the MapReduce system in Hadoop by creating MapReduce jobs to perform partial sorting of input and transfer the input by the shuffle. It can be used to measure the scalability and efficiency of MapReduce algorithms .
+  - TeraSort benchmark: A variant of the MapReduce sort benchmark that uses a custom partitioner and a custom input format to sort 1 terabyte of data. It can be used to measure the overall performance of Hadoop clusters.
+  - NNBench benchmark: Tests the NameNode metadata operations performance of HDFS by creating and deleting a large number of files. It can be used to measure the response time and throughput of NameNode operations.
+  - MRBench benchmark: Tests the MapReduce framework performance by running a small job repeatedly. It can be used to measure the job submission and execution overhead of MapReduce.
+  - GridMix benchmark: Simulates a mix of realistic MapReduce workloads by generating synthetic input data and running a set of predefined jobs. It can be used to measure the resource utilization and contention of Hadoop clusters under different load scenarios.
+- Hadoop benchmark tests use the parameters and conditions provided by users. For every test, it executes a MapReduce job and once complete, it displays the results on the screen.
+- Hadoop benchmark tests can be run in standalone mode or remote mode, depending on the fs.defaultFS config or the -fs command option. If the fs.defaultFS scheme is not specified or is file (local), the benchmark will run in standalone mode. If the fs.defaultFS scheme is specified and is not file (local), the benchmark will run in remote mode.
+- Hadoop benchmark tests can be influenced by many factors, such as server hardware, operating system, Hadoop version and distribution, Hadoop configuration and tuning, network bandwidth and latency, and data size and distribution. Therefore, it is important to run the benchmarks in a controlled and consistent environment, and to compare the results with a baseline or a reference.

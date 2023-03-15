@@ -1,0 +1,30 @@
+### Testing for Performance in Software Testing
+
+- Performance testing is a type of software testing that focuses on evaluating the performance and scalability of a system or application.
+- The goal of performance testing is to identify bottlenecks, measure system performance under various loads and conditions, and ensure that the system can handle the expected number of users or transactions  .
+- Performance testing can help to improve the quality, reliability, and user satisfaction of a software product.
+- Performance testing can also help to avoid performance issues and failures in production, which can result in loss of revenue, reputation, and customer trust.
+- Performance testing can be classified into different types, such as load testing, stress testing, spike testing, endurance testing, and volume testing .
+  - Load testing measures system performance as the workload increases. That workload could mean concurrent users, requests, data, or transactions.
+  - Stress testing measures system performance beyond the normal or peak load conditions. It is used to find the breaking point or limit of the system .
+  - Spike testing measures system performance when there are sudden and extreme changes in the workload. It is used to check the system's ability to handle unexpected surges in traffic or demand.
+  - Endurance testing measures system performance over a long period of time. It is used to check the system's ability to sustain the expected load without degradation or memory leaks .
+  - Volume testing measures system performance with a large amount of data in the database or file system. It is used to check the system's ability to process and store the data efficiently .
+- The steps involved in performance testing are:
+  - Identify the testing environment, such as the hardware, software, network, and tools used for testing.
+  - Identify the performance acceptance criteria, such as the goals and constraints for throughput, response time, resource utilization, and error rate.
+  - Plan and design the performance tests, such as the test scenarios, test data, test scripts, and test schedule.
+  - Execute the performance tests, such as running the test scripts, monitoring the system, and collecting the test results.
+  - Analyze and report the performance test results, such as identifying the performance issues, bottlenecks, and recommendations for improvement.
+- The best practices for performance testing are:
+  - Define the performance test objectives and requirements clearly and realistically.
+  - Choose the appropriate performance testing tools and techniques for the system under test.
+  - Design the performance test scenarios and scripts to cover the critical and realistic user scenarios and workflows.
+  - Use a representative test data and test environment that mimic the production environment as closely as possible.
+  - Execute the performance tests iteratively and incrementally, starting from the baseline and increasing the load gradually.
+  - Analyze and report the performance test results objectively and comprehensively, using graphs, charts, and metrics.
+- The metrics used for performance testing are:
+  - Throughput: the amount of data or transactions processed by the system per unit time, such as requests per second, transactions per minute, or bytes per second.
+  - Response time: the time taken by the system to respond to a user request, such as average response time, minimum response time, maximum response time, or percentile response time.
+  - Resource utilization: the amount of resources used by the system during the test, such as CPU, memory, disk, or network.
+  - Error rate: the percentage of errors or failures encountered by the system during the test, such as HTTP errors, database errors, or application errors.

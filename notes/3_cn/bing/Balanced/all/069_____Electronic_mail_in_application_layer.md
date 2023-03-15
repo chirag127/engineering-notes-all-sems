@@ -1,0 +1,11 @@
+### Electronic mail in application layer
+
+- Electronic mail (email) is one of the most widely used and popular applications of the Internet.
+- Email allows users to send and receive text messages, images, audio, video and other types of data files to anyone with an email address, regardless of their physical location or time zone.
+- Email operates in the application layer of the Internet protocol stack, using other protocols such as SMTP, POP3, IMAP and MIME to perform different functions.
+- SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending email messages from one server to another. SMTP uses a store-and-forward mechanism, which means that the sender's server temporarily stores the email message and then forwards it to the next server in the path to the destination. SMTP uses TCP as the transport layer protocol and port 25 as the default port number.
+- POP3 (Post Office Protocol version 3) and IMAP (Internet Message Access Protocol) are two protocols for retrieving email messages from a server. POP3 allows the user to download all the messages from the server to the user's device, and optionally delete them from the server. IMAP allows the user to access and manipulate the messages on the server without downloading them, and also supports multiple folders and synchronization across devices. POP3 uses TCP and port 110, while IMAP uses TCP and port 143.
+- MIME (Multipurpose Internet Mail Extensions) is a standard for encoding and formatting non-text data, such as images, audio, video and attachments, in email messages. MIME defines a set of headers and rules for encoding the data in different formats, such as Base64, quoted-printable and multipart. MIME also specifies the content type and disposition of the data, such as image/jpeg, audio/mp3 and attachment.
+
+- A possible mnemonic to remember the four protocols is: **S**end **P**ictures **I**n **M**ail (SMTP, POP3, IMAP, MIME).
+- A possible learning trick to understand the difference between POP3 and IMAP is: POP3 is like **P**icking u**P** your mail from the post office and taking it home, while IMAP is like **I**nspecting your mail at the post office and leaving it there.

@@ -1,0 +1,23 @@
+### Data Flow Diagrams in Software Requirement Specification (SRS)
+
+- Data flow diagrams (DFDs) are graphical representations of the flow of data and information in a software system.
+- DFDs show the sources and destinations of data, the processes that transform data, and the data stores that hold data.
+- DFDs are useful for documenting and analyzing the functional requirements of a software system, as well as for designing and testing the system.
+- DFDs consist of four basic elements: external entities, processes, data flows, and data stores.
+  - External entities are the sources or destinations of data that are outside the system boundary. They are represented by rectangles with rounded corners.
+  - Processes are the activities or functions that transform data within the system. They are represented by circles or ovals with a name or number inside.
+  - Data flows are the paths or channels that data follow from one element to another. They are represented by arrows with labels indicating the data content or type.
+  - Data stores are the places where data are stored or accessed within the system. They are represented by open-ended rectangles with a name inside.
+- DFDs can be drawn at different levels of abstraction, from a high-level overview of the system to a detailed description of each process.
+  - A context diagram is the highest-level DFD that shows the system as a single process and its interactions with external entities.
+  - A level 0 diagram is the next level of DFD that shows the major processes and data flows within the system.
+  - A level 1 diagram is a lower-level DFD that shows the sub-processes and data flows within each major process.
+  - A level 2 diagram is an even lower-level DFD that shows the detailed steps and data flows within each sub-process.
+- DFDs follow some basic rules and conventions, such as:
+  - Every process must have at least one input and one output data flow.
+  - Every data flow must have a source and a destination element.
+  - Data flows cannot cross each other or the system boundary.
+  - Data stores can only be connected to processes, not to external entities or other data stores.
+  - External entities can only be connected to processes, not to data stores or other external entities.
+  - Processes can be decomposed into lower-level DFDs until the desired level of detail is reached.
+  - The names and labels of elements and data flows should be clear and consistent across different levels of DFDs.

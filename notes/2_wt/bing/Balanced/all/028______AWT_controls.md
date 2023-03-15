@@ -1,0 +1,23 @@
+#### AWT controls
+
+- AWT stands for Abstract Window Toolkit, which is a package in Java that provides graphical user interface (GUI) components such as buttons, labels, text fields, menus, etc.
+- AWT controls are also called components or widgets, and they are subclasses of the java.awt.Component class.
+- AWT controls can be divided into two categories: heavyweight and lightweight.
+  - Heavyweight controls are those that rely on the native platform's GUI library to render themselves. They have a peer object that communicates with the underlying operating system. Examples of heavyweight controls are Button, Label, TextField, TextArea, List, Choice, etc.
+  - Lightweight controls are those that do not depend on the native platform's GUI library, but instead draw themselves using Java graphics. They do not have a peer object, and they are faster and more portable than heavyweight controls. Examples of lightweight controls are Swing components, such as JButton, JLabel, JTextField, JTextArea, etc.
+- AWT controls can be added to containers, which are components that can hold other components. The most common container is the Frame, which represents a window with a title bar, borders, and buttons. Other containers are Panel, Dialog, Window, Applet, etc.
+- AWT controls can be arranged in containers using layout managers, which are objects that control the size and position of components. Some of the layout managers are FlowLayout, BorderLayout, GridLayout, CardLayout, GridBagLayout, etc.
+- AWT controls can respond to user events, such as mouse clicks, keyboard inputs, etc. To handle events, AWT controls need to register listeners, which are objects that implement certain interfaces and define methods to handle specific types of events. Some of the listener interfaces are ActionListener, MouseListener, KeyListener, etc.
+- AWT controls can be customized by overriding their paint or update methods, which are called when the component needs to be redrawn. These methods can use the Graphics object passed as a parameter to draw shapes, images, text, etc. on the component.
+- A mnemonic to remember the AWT controls is: BLT CLAP FAD WAG
+  - B: Button, Label, TextField
+  - C: Choice, Checkbox, Canvas
+  - L: List, Label
+  - A: TextArea, Scrollbar
+  - P: Panel
+  - F: Frame
+  - A: Applet
+  - D: Dialog
+  - W: Window
+  - A: MenuBar, Menu, MenuItem
+  - G: GridLayout, GridBagLayout

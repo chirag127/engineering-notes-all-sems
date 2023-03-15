@@ -1,0 +1,28 @@
+### Requirement Engineering Process in SRS
+
+- Software Requirements Specification (SRS) is a document that captures the complete description of how the system is expected to perform.
+- SRS is usually signed off at the end of the requirements engineering phase, which is the process of eliciting, analyzing, specifying, and validating the requirements for a software system .
+- The main purpose of SRS is to establish a clear and precise agreement between the stakeholders and the developers on what the software system should do and how it should behave.
+- The main benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts in the requirements.
+  - It provides a basis for estimating the cost, time, and resources needed for the development.
+  - It facilitates communication and collaboration among the stakeholders and the developers.
+  - It enables verification and validation of the software system against the requirements.
+  - It serves as a reference for maintenance and evolution of the software system.
+- The main characteristics of a good SRS are:
+  - Correct: Every requirement stated in the document should correctly represent an expectation from the proposed software system.
+  - Complete: The document should cover all the functional and non-functional requirements of the software system, as well as any constraints and assumptions.
+  - Consistent: The document should not contain any contradictory or conflicting requirements.
+  - Clear: The document should use simple and unambiguous language, and avoid any technical jargon or vague terms.
+  - Verifiable: The document should state the requirements in a way that they can be checked or tested by some method.
+  - Traceable: The document should provide a link between each requirement and its source, as well as its relationship with other requirements.
+  - Modifiable: The document should be structured and formatted in a way that allows easy changes and updates.
+  - Prioritized: The document should indicate the relative importance or urgency of each requirement.
+- The main elements that comprise an SRS are:
+  - Introduction: This section provides an overview of the document, its purpose, scope, definitions, acronyms, abbreviations, references, and document organization.
+  - Overall Description: This section describes the general factors that affect the software system, such as the product perspective, product functions, user characteristics, constraints, assumptions, and dependencies.
+  - Specific Requirements: This section details the individual requirements of the software system, such as the functional requirements, non-functional requirements, external interface requirements, performance requirements, design constraints, quality attributes, and security requirements.
+  - Appendices: This section contains any additional information that may be useful for the understanding of the document, such as data models, flowcharts, diagrams, tables, etc.
+  - Index: This section provides an alphabetical list of the terms and topics covered in the document, along with their page numbers.
+- A possible mnemonic to remember the characteristics of a good SRS is **C3V2TMP** (Correct, Complete, Consistent, Clear, Verifiable, Traceable, Modifiable, Prioritized).
+- A possible mnemonic to remember the elements of an SRS is **IOSA** (Introduction, Overall Description, Specific Requirements, Appendices).

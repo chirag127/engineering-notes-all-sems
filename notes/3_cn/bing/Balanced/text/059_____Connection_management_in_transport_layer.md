@@ -1,0 +1,11 @@
+### Connection management in transport layer
+
+- The transport layer is responsible for providing reliable and efficient communication between two end systems (hosts) over a network.
+- Connection management is the process of establishing, maintaining, and terminating a logical connection between two end systems.
+- Connection management involves three phases: connection establishment, data transfer, and connection termination.
+- Connection establishment is the phase where the two end systems agree on the parameters and rules for the data transfer, such as the sequence numbers, window sizes, and acknowledgment schemes.
+- Data transfer is the phase where the actual data is exchanged between the two end systems, using the agreed parameters and rules. The transport layer ensures that the data is delivered reliably and in order, and handles any errors, losses, or delays that may occur in the network.
+- Connection termination is the phase where the two end systems signal each other that they have no more data to send, and gracefully close the connection. The transport layer ensures that all the data has been successfully delivered and acknowledged, and releases the resources allocated for the connection.
+- Connection management can be either connection-oriented or connectionless, depending on the transport layer protocol used.
+- Connection-oriented protocols, such as TCP, require a connection to be established before any data can be transferred, and maintain the connection until it is explicitly terminated. Connection-oriented protocols provide reliable and ordered delivery of data, but incur more overhead and delay due to the connection setup and teardown.
+- Connectionless protocols, such as UDP, do not require a connection to be established or terminated, and allow data to be transferred at any time without any prior agreement. Connectionless protocols provide fast and efficient delivery of data, but do not guarantee reliability or order, and may result in data loss, duplication, or reordering.

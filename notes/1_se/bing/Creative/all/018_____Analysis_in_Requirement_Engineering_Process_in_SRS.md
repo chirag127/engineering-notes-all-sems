@@ -1,0 +1,17 @@
+### Analysis in Requirement Engineering Process in SRS
+
+- Analysis is the second stage of the requirement engineering process, after elicitation. It involves refining, structuring, prioritizing, and validating the requirements gathered from the stakeholders.
+- The main goal of analysis is to ensure that the requirements are clear, consistent, complete, correct, and feasible. Analysis also helps to identify any gaps, conflicts, or ambiguities in the requirements.
+- Analysis can be performed using various techniques, such as:
+  - **Modeling**: Creating graphical or textual representations of the requirements, such as use cases, data flow diagrams, entity-relationship diagrams, state transition diagrams, etc. Modeling helps to visualize the system behavior, structure, and interactions, and to check the completeness and consistency of the requirements.
+  - **Prototyping**: Developing a simplified version of the system or some of its features, such as user interface, functionality, or performance. Prototyping helps to demonstrate the feasibility of the requirements, to elicit feedback from the stakeholders, and to resolve any misunderstandings or uncertainties.
+  - **Reviewing**: Examining the requirements document or model for errors, omissions, or inconsistencies, using formal or informal methods. Reviewing helps to verify the correctness and quality of the requirements, and to identify any issues or risks that need to be addressed.
+  - **Testing**: Applying test cases or scenarios to the requirements document or model, to check if the requirements are testable, measurable, and achievable. Testing helps to validate the requirements against the stakeholder needs and expectations, and to ensure that the requirements are realistic and feasible.
+- The output of the analysis stage is a Software Requirements Specification (SRS) document, which is a comprehensive and detailed description of the system requirements. The SRS document should include the following sections:
+  - **Introduction**: Provides an overview of the system, its purpose, scope, objectives, assumptions, constraints, and dependencies. It also defines the terms, acronyms, and abbreviations used in the document.
+  - **User Requirements**: Specifies the needs and expectations of the system users, such as functional requirements, non-functional requirements, user interface requirements, user stories, etc. It also defines the use cases and scenarios that describe how the users will interact with the system.
+  - **System Requirements**: Specifies the technical and operational requirements of the system, such as performance requirements, security requirements, reliability requirements, compatibility requirements, etc. It also defines the system architecture and design, the data and information models, the interfaces and interactions, the algorithms and logic, etc.
+  - **Validation Criteria**: Specifies the criteria and methods for verifying and validating the requirements, such as test cases, test plans, test procedures, test results, etc. It also defines the acceptance criteria and the quality standards for the system.
+  - **Appendices**: Provides any additional or supplementary information that supports the requirements, such as references, glossary, diagrams, tables, charts, etc.
+
+- A possible mnemonic to remember the stages of the requirement engineering process is: **E**very **A**pple **S**hould **V**ery **M**uch **C**ontain **N**utrients. This stands for: Elicitation, Analysis, Specification, Validation, Management, Change, and Negotiation.

@@ -1,0 +1,6 @@
+#### Fair and Capacity in Hadoop Ecosystem
+
+- The Hadoop YARN scheduler is responsible for assigning resources to the applications submitted by users. In Hadoop YARN, these can be any YARN application in addition to MapReduce applications .
+- Fair Scheduler allows YARN applications to justly share resources in large Hadoop clusters. With this scheduler, there is no need for reserving a set amount of capacity because it will dynamically balance resources between all running applications .
+- The central idea is that the available resources in the Hadoop Map-Reduce cluster are partitioned among multiple organizations who collectively fund the cluster based on computing needs. There is an added benefit that an organization can access any excess capacity not being used by others .
+- There are mainly 3 types of Schedulers in Hadoop: FIFO (First In First Out) Scheduler, Capacity Scheduler, and Fair Scheduler. These Schedulers are actually a kind of algorithm that we use to schedule tasks in a Hadoop cluster when we receive requests from different-different clients .

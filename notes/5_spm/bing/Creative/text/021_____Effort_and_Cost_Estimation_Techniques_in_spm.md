@@ -1,0 +1,14 @@
+### Effort and Cost Estimation Techniques in SPM
+
+- Software Project Management (SPM) is the process of planning, organizing, monitoring, and controlling software projects.
+- One of the most important part in SPM is cost and effort estimation. Cost estimation is the process of predicting the amount of money required to develop a software project. Effort estimation is the process of predicting the amount of human resources and time required to develop a software project.
+- Accurate cost and effort estimation is critical for both developers and customers to make informed decisions, allocate resources, monitor progress, and evaluate quality.
+- However, conducting cost and effort estimation is not an easy task, as software projects are often complex, uncertain, and dynamic. Therefore, various techniques have been proposed to assist the estimation process.
+- Some of the common techniques are:
+
+  - **Decomposition techniques**: These techniques take a divide and conquer approach. They break down a project into smaller and manageable units, such as functions, modules, or activities, and estimate the size, effort, and cost of each unit. Then, they aggregate the estimates of the units to obtain the estimate of the whole project. Examples of decomposition techniques are Function Point Analysis (FPA) and Work Breakdown Structure (WBS).
+  - **Analogy techniques**: These techniques use historical data from similar completed projects to estimate the size, effort, and cost of the current project. They rely on the assumption that projects with similar characteristics will have similar outcomes. Examples of analogy techniques are Regression Analysis and Case-Based Reasoning (CBR).
+  - **Algorithmic techniques**: These techniques use mathematical models and formulas to estimate the size, effort, and cost of a project based on some input parameters, such as lines of code, number of functions, or complexity factors. They rely on the assumption that there is a relationship between the input parameters and the output measures. Examples of algorithmic techniques are Constructive Cost Model (COCOMO) and Putnam Model.
+  - **Expert judgment techniques**: These techniques use the opinions and experiences of experts to estimate the size, effort, and cost of a project. They rely on the assumption that experts have sufficient knowledge and intuition to provide reliable estimates. Examples of expert judgment techniques are Delphi Method and Wideband Delphi Method.
+
+- Each technique has its own advantages and disadvantages, and no single technique can guarantee accurate estimates for all projects. Therefore, it is important to choose the appropriate technique based on the project characteristics, the availability of data, and the accuracy requirements. It is also advisable to use multiple techniques and compare the results to improve the confidence and validity of the estimates.

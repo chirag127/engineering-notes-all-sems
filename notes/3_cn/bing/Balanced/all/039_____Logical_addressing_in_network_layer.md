@@ -1,0 +1,10 @@
+### Logical addressing in network layer
+
+- Logical addressing is a way of identifying devices on a network using a logical name or number, rather than a physical address.
+- Logical addresses are assigned by the network layer protocol, such as IP (Internet Protocol), and are independent of the underlying data link layer or physical layer addresses, such as MAC (Media Access Control) addresses or serial numbers.
+- Logical addresses are used to route packets from the source to the destination across multiple networks or subnets, which may have different data link layer or physical layer technologies.
+- Logical addresses are usually hierarchical, meaning that they consist of two parts: a network identifier and a host identifier. The network identifier specifies which network or subnet the device belongs to, and the host identifier specifies which device within that network or subnet.
+- Logical addresses are usually represented in a human-readable format, such as dotted decimal notation for IPv4 addresses (e.g., 192.168.1.1) or hexadecimal notation for IPv6 addresses (e.g., 2001:db8::1).
+- Logical addresses are mapped to physical addresses by the network layer protocol using a mechanism called address resolution. For example, IP uses ARP (Address Resolution Protocol) or NDP (Neighbor Discovery Protocol) to find the MAC address of a device given its IP address.
+- Logical addresses can be static or dynamic. Static addresses are manually configured by the network administrator or the device user, and do not change unless modified. Dynamic addresses are automatically assigned by a server or a protocol, such as DHCP (Dynamic Host Configuration Protocol) or SLAAC (Stateless Address Autoconfiguration), and may change over time.
+- Logical addresses can be unicast, multicast, or anycast. Unicast addresses identify a single device on the network, and are used for one-to-one communication. Multicast addresses identify a group of devices on the network, and are used for one-to-many communication. Anycast addresses identify multiple devices on the network that provide the same service, and are used for one-to-nearest communication.

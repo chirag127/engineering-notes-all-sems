@@ -1,0 +1,10 @@
+### XML schemes in Web Page Designing
+
+- XML stands for eXtensible Markup Language. It is a markup language similar to HTML, but without predefined tags to use. Instead, you define your own tags designed specifically for your needs. This is a powerful way to store data in a format that can be stored, searched, and shared .
+- XML schemas are used to define the structure, constraints, and data types of XML documents. They provide a way to validate the correctness and consistency of XML data.
+- XML schemas are themselves XML documents that follow a specific syntax and vocabulary defined by the World Wide Web Consortium (W3C) XML Schema Recommendation .
+- XML schemas can be built in-memory using the classes in the System.Xml.Schema namespace, which map to the structures defined in the W3C XML Schema Recommendation. For example, the XmlSchema class represents the root element of an XML schema document.
+- XML schemas can contain both simple and complex types. Simple types define the content and attributes of elements that can only contain text. Complex types define the content and attributes of elements that can contain other elements or mixed content.
+- XML schemas can allow both anonymous and named simple types to be derived by restriction from other simple types (built-in or user-defined) or constructed as a list or union of other simple types. The XmlSchemaSimpleTypeRestriction class is used to create a simple type by restricting the built-in xs:string type.
+- XML schemas can also contain global elements or types, which are children of the schema element and have a target namespace. Global elements or types can be referenced by other schemas or documents.
+- XML schemas can use different design patterns to organize the global elements or types, such as Russian Doll, Salami Slice, Venetian Blind, and Garden of Eden. The patterns vary according to the number of their global elements or types, the level of abstraction, and the ease of reuse.

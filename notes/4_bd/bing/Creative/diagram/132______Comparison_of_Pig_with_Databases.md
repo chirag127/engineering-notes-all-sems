@@ -1,0 +1,7 @@
+#### Comparison of Pig with Databases
+
+- Pig is a high-level data-flow language and execution framework for parallel computation on Hadoop clusters. Databases are systems that store and manipulate structured or semi-structured data using SQL or other query languages.
+- Pig can process large volumes of data from various sources, such as text files, JSON files, XML files, etc. Databases usually require data to be in a specific format or schema before loading or querying.
+- Pig can perform complex transformations and analysis on data using Pig Latin, a scripting language that supports user-defined functions (UDFs) in various languages. Databases can also perform analysis on data using SQL or other query languages, but they may not support all types of unstructured data or complex operations.
+- Pig can store the output of data processing into relational database systems, such as MySQL, Oracle, etc. using Sqoop or JDBC. Databases can also store and retrieve data using various methods, such as files, network protocols, etc.
+- Pig can run on top of Hadoop, which provides scalability, fault-tolerance, and distributed processing. Databases can also run on distributed systems, such as HBase, Cassandra, etc. but they may have different architectures and features than Hadoop.

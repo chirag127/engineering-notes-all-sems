@@ -1,0 +1,31 @@
+##### serialization in Hadoop io
+
+- Serialization is the process of converting an object into a stream of bytes that can be stored, transmitted, or reconstructed later.
+- Deserialization is the reverse process of converting a stream of bytes back into an object.
+- Serialization is used in Hadoop for various purposes, such as:
+  - Storing data in HDFS or other distributed file systems.
+  - Transferring data between MapReduce tasks or other distributed applications.
+  - Persisting intermediate results in memory or disk.
+  - Implementing custom data types and comparators.
+- Hadoop provides two main interfaces for serialization and deserialization: `Writable` and `WritableComparable`.
+  - `Writable` is the base interface for all serializable types in Hadoop. It defines two methods: `write(DataOutput out)` and `readFields(DataInput in)`.
+  - `WritableComparable` is a subinterface of `Writable` and `Comparable`. It is used for serializable types that can be compared and sorted. It defines one method: `int compareTo(T o)`.
+- Hadoop also provides several built-in implementations of `Writable` and `WritableComparable` for common data types, such as:
+  - `BooleanWritable`, `ByteWritable`, `ShortWritable`, `IntWritable`, `LongWritable`, `FloatWritable`, `DoubleWritable` for primitive types.
+  - `Text` for strings.
+  - `BytesWritable` for raw bytes.
+  - `NullWritable` for null values.
+  - `ArrayWritable`, `MapWritable`, `SortedMapWritable`, `EnumSetWritable`, `EnumMapWritable` for collections.
+  - `GenericWritable`, `ObjectWritable`, `WritableWrapper` for generic or custom types.
+- Hadoop also supports other serialization frameworks, such as Avro, Thrift, and Protocol Buffers, through the `Serialization` interface and the `SerializationFactory` class.
+  - `Serialization` defines two methods: `Serializer<T> getSerializer(Class<T> c)` and `Deserializer<T> getDeserializer(Class<T> c)`.
+  - `Serializer` and `Deserializer` are similar to `Writable`, but they use `OutputStream` and `InputStream` instead of `DataOutput` and `DataInput`.
+  - `SerializationFactory` is a factory class that creates `Serializer` and `Deserializer` instances based on the configuration and the class of the object to be serialized or deserialized.
+- Some advantages of using serialization in Hadoop are:
+  - It reduces the network and disk overhead by compressing the data into a compact binary format.
+  - It enables interoperability and compatibility between different data sources and formats.
+  - It facilitates the implementation of custom data types and comparators that can be used in MapReduce or other distributed applications.
+- Some disadvantages of using serialization in Hadoop are:
+  - It adds some complexity and overhead to the programming model and the execution framework.
+  - It requires extra care and attention to ensure the correctness and efficiency of the serialization and deserialization logic.
+  - It may introduce some performance and memory issues if the serialization and deserialization are not optimized or tuned properly.

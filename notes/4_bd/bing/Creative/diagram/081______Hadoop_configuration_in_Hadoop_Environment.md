@@ -1,0 +1,14 @@
+#### Hadoop configuration in Hadoop Environment
+
+Hadoop configuration is the process of setting up the parameters and properties for the Hadoop daemons and services in a Hadoop cluster. Hadoop configuration can be done at different levels, such as HDFS, YARN, Oozie, etc. Hadoop configuration can affect the performance, security, and functionality of the Hadoop cluster.
+
+Some of the steps involved in Hadoop configuration are:
+
+- Configuring the environment of Hadoop daemons: This involves setting up the environment variables, such as JAVA_HOME, HADOOP_HOME, HADOOP_CONF_DIR, etc., in the scripts located in the etc/hadoop directory. These scripts are hadoop-env.sh, mapred-env.sh, and yarn-env.sh. These scripts are executed before starting the Hadoop daemons and services.
+- Configuring the core-site.xml file: This file contains the core configuration settings for Hadoop, such as the default file system URI, the default block size, the default replication factor, etc. This file is located in the etc/hadoop directory and is read by all the Hadoop daemons and services.
+- Configuring the hdfs-site.xml file: This file contains the configuration settings for HDFS, such as the name node and data node directories, the web UI port, the checkpoint interval, etc. This file is located in the etc/hadoop directory and is read by the HDFS daemons, such as NameNode, SecondaryNameNode, and DataNode.
+- Configuring the yarn-site.xml file: This file contains the configuration settings for YARN, such as the resource manager and node manager addresses, the web UI port, the scheduler class, the memory and CPU allocation, etc. This file is located in the etc/hadoop directory and is read by the YARN daemons, such as ResourceManager, NodeManager, and WebAppProxy.
+- Configuring the mapred-site.xml file: This file contains the configuration settings for MapReduce, such as the map and reduce task numbers, the framework name, the job history server address, etc. This file is located in the etc/hadoop directory and is read by the MapReduce daemons, such as JobTracker and TaskTracker.
+- Configuring the oozie-site.xml file: This file contains the configuration settings for Oozie, such as the Oozie server URL, the database connection, the workflow engine, the coordinator engine, etc. This file is located in the etc/oozie directory and is read by the Oozie server.
+
+Hadoop configuration can be done manually by editing the XML files or by using tools such as Ambari, Cloudera Manager, or Hue. Hadoop configuration can also be done programmatically by using the Configuration class in the Hadoop API. Hadoop configuration can be verified by using the hadoop fs -ls command to list the files on HDFS, the yarn application -list command to list the applications on YARN, the oozie admin -version command to check the Oozie version, etc.

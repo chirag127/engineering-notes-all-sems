@@ -1,0 +1,22 @@
+### Sequencing and Scheduling in SPM
+
+- SPM stands for Software Project Management, which is the discipline of planning, organizing, and controlling software projects.
+- Sequencing and scheduling are two important techniques that are used to organize and execute software projects in a timely and efficient manner.
+- Sequencing is the process of determining the order of tasks or activities that need to be performed in a software project. It involves identifying the dependencies and constraints among the tasks, such as precedence, resource availability, and deadlines.
+- Scheduling is the process of assigning start and end dates to each task or activity in a software project. It involves estimating the duration, effort, and cost of each task, and allocating the resources and personnel required to complete them.
+- Sequencing and scheduling are interrelated and iterative processes that require constant monitoring and updating throughout the project life cycle. They help to achieve the following objectives:
+  - Define the scope and deliverables of the software project
+  - Establish the milestones and deadlines of the software project
+  - Identify the critical path and the slack time of the software project
+  - Optimize the use of resources and personnel in the software project
+  - Track and control the progress and performance of the software project
+  - Manage the risks and changes in the software project
+- There are various tools and methods that can be used to perform sequencing and scheduling in SPM, such as:
+  - Work breakdown structure (WBS), which is a hierarchical decomposition of the software project into manageable tasks or activities
+  - Activity network diagram (AND), which is a graphical representation of the tasks or activities and their dependencies in the software project
+  - Gantt chart, which is a bar chart that shows the start and end dates of the tasks or activities in the software project
+  - Critical path method (CPM), which is a technique that calculates the shortest time and the longest time to complete the software project, and identifies the critical tasks or activities that have no slack time
+  - Program evaluation and review technique (PERT), which is a technique that estimates the duration of each task or activity based on optimistic, pessimistic, and most likely scenarios, and calculates the expected time and the variance of the software project
+  - Resource leveling, which is a technique that adjusts the start and end dates of the tasks or activities to balance the demand and supply of resources in the software project
+  - Resource allocation, which is a technique that assigns the available resources and personnel to the tasks or activities in the software project
+  - Earned value management (EVM), which is a technique that measures the actual progress and performance of the software project against the planned baseline, and calculates the variance and the index of the software project

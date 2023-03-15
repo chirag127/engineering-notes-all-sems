@@ -1,0 +1,13 @@
+# Agile Methods in Software Project Management
+
+- Agile methods are a set of project management frameworks that break projects down into several dynamic phases, commonly known as sprints.
+- Agile methods are based on delivering requirements iteratively and incrementally throughout the life cycle.
+- Agile methods are an iterative approach to managing software development projects that focuses on continuous releases and customer feedback.
+- Agile methods are a way of addressing and eventually succeeding in an unpredictable environment.
+- Agile methods are based on the Agile manifesto, which is a set of values and principles that guide the development process.
+- Some of the common agile methods are:
+  - Kanban: a visual approach to agile that uses online boards to represent the workflow and progress of tasks.
+  - Scrum: a common agile method for small teams that involves sprints, daily meetings, and a Scrum master who facilitates the process.
+  - Extreme Programming (XP): a method that emphasizes quality, testing, and customer involvement in the development process.
+  - Lean: a method that focuses on eliminating waste, optimizing value, and delivering fast.
+  - DSDM: a method that combines agile principles with a project management framework that covers the entire project life cycle.

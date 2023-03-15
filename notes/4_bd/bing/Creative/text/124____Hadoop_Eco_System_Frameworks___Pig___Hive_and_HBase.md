@@ -1,0 +1,8 @@
+## Hadoop Eco System Frameworks , Pig , Hive and HBase
+
+- Hadoop is an open-source framework that allows distributed processing of large-scale data sets across clusters of computers using simple programming models.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and MapReduce. HDFS is a distributed file system that provides high-throughput access to data, while MapReduce is a programming model that enables parallel processing of data on HDFS.
+- Hadoop also includes several additional modules that provide additional functionality, such as Hive, Pig, and HBase   .
+- Hive is a data warehouse infrastructure that provides data summarization and ad-hoc querying using a SQL-like query language called Hive Query Language (HQL). Hive allows users to access and analyze data stored in HDFS using a familiar SQL syntax.
+- Pig is a high-level data-flow language and execution framework for parallel computation. Pig allows users to write complex data transformations and analysis using a simple scripting language called Pig Latin. Pig translates Pig Latin scripts into MapReduce jobs and runs them on Hadoop.
+- HBase is a distributed column-oriented database that supports structured data storage for large tables. HBase is built on top of HDFS and provides fast random access to data. HBase is suitable for applications that require real-time read/write access to big data.

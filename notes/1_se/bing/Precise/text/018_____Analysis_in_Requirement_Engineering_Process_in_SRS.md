@@ -1,0 +1,7 @@
+### Analysis in Requirement Engineering Process in SRS
+
+- Requirement analysis is a set of operations that helps define users' expectations of the application you are building or modifying. Software engineering professionals sometimes call it requirement engineering, requirements capturing or requirement gathering.
+- The production of the requirements stage of the software development process is Software Requirements Specifications (SRS) (also called a requirements document). This report lays a foundation for software engineering activities and is constructing when entire requirements are elicited and analyzed.
+- An SRS in software engineering isn’t the only source of information on the project, and linking it with other documents allows the team to quickly find descriptions of necessary requirements. That’s why BAs augment an SRS with references to analysis models, previous specifications, test cases, tasks in bug tracking systems, etc.
+- The final outcome of the requirements process is a Software Requirements Specification (SRS) document.
+- A software requirements specification (SRS) is a comprehensive description of the intended purpose and environment for software under development. The SRS fully describes what the software will do and how it will be expected to perform.

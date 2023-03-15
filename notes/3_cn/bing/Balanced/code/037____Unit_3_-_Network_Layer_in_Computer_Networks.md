@@ -1,0 +1,9 @@
+## Unit 3 - Network Layer in Computer Networks
+
+The network layer is the third layer in the OSI model of computer networks. It is responsible for transferring data packets from the source to the destination across different networks. It also provides services such as host and network addressing, sub-networking, and internetworking. The network layer uses routers to route packets based on their IP addresses. The network layer can be divided into two sub-layers: the logical network sub-layer and the physical network sub-layer.
+
+The logical network sub-layer deals with the logical aspects of the network layer, such as addressing, routing, and fragmentation. It assigns source and destination IP addresses to the data packets and determines the best paths for data delivery using various routing algorithms. It also handles the fragmentation and reassembly of packets that are too large for the underlying network.
+
+The physical network sub-layer deals with the physical aspects of the network layer, such as the transmission medium, the data link layer, and the network interface card. It interacts with the data link layer to send and receive packets over the network. It also interacts with the network interface card to encode and decode the packets into electrical signals.
+
+The network layer provides two types of services to the transport layer: connectionless service and connection-oriented service. Connectionless service is a datagram service that does not require any prior setup or termination of a connection. It is unreliable, unordered, and best-effort. Connection-oriented service is a virtual circuit service that requires a setup and termination of a connection. It is reliable, ordered, and guaranteed. The network layer can implement either service using different protocols, such as IP, ICMP, ARP, and RARP.

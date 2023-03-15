@@ -1,0 +1,42 @@
+# ISO 9000 Models in SRS
+
+- ISO 9000 is a family of standards that provide guidelines and principles for quality management systems (QMS)  .
+- QMS are the organizational processes and procedures that ensure the quality of products and services  .
+- ISO 9000 standards are applicable to any organization, regardless of size, type, or industry .
+- ISO 9000 standards are based on the following seven quality management principles :
+  - Customer focus: understanding and meeting customer needs and expectations
+  - Leadership: establishing a clear vision, direction, and culture for the organization
+  - Engagement of people: empowering and involving all levels of staff in quality improvement
+  - Process approach: managing activities and resources as interrelated processes
+  - Improvement: pursuing continual enhancement of performance and outcomes
+  - Evidence-based decision making: using data and analysis to support decision making
+  - Relationship management: building and maintaining mutually beneficial partnerships with stakeholders
+- ISO 9000 standards include the following documents  :
+  - ISO 9000:2015: defines the fundamental concepts and vocabulary of QMS
+  - ISO 9001:2015: specifies the requirements for a QMS that can be used for certification
+  - ISO 9004:2018: provides guidance on how to achieve sustained success with a QMS
+  - ISO 19011:2018: provides guidance on how to conduct audits of QMS
+- ISO 9000-3:1997 is a specific standard that provides guidance on how to apply ISO 9001:1994 to the development, supply, installation, and maintenance of computer software .
+- SRS stands for software requirements specification, which is a document that describes the features, functions, and constraints of a software system .
+- ISO 9000-3:1997 can help software developers and suppliers to establish and implement a QMS that ensures the quality of the software products and services they deliver .
+- ISO 9000-3:1997 covers the following aspects of software quality :
+  - Management responsibility: defining the quality policy, objectives, and organization
+  - Quality system: documenting and maintaining the QMS procedures and records
+  - Contract review: verifying and validating the customer requirements and expectations
+  - Design control: planning and controlling the software development process
+  - Document and data control: managing the software documentation and data
+  - Purchasing: selecting and evaluating the software suppliers and subcontractors
+  - Customer-supplied product: handling and verifying the software materials provided by the customer
+  - Product identification and traceability: identifying and tracking the software components and versions
+  - Process control: ensuring the software processes are conducted in a controlled manner
+  - Inspection and testing: verifying and validating the software products and services
+  - Inspection, measuring, and test equipment: calibrating and maintaining the software tools and equipment
+  - Inspection and test status: identifying and reporting the software quality status
+  - Control of nonconforming product: preventing and correcting the software defects and errors
+  - Corrective and preventive action: analyzing and resolving the software quality problems and risks
+  - Handling, storage, packaging, preservation, and delivery: protecting and transporting the software products and services
+  - Control of quality records: retaining and retrieving the software quality records
+  - Internal quality audits: assessing and improving the QMS performance and effectiveness
+  - Training: developing and enhancing the software quality skills and competencies
+  - Servicing: providing and monitoring the software maintenance and support
+  - Statistical techniques: applying and using the software quality metrics and methods

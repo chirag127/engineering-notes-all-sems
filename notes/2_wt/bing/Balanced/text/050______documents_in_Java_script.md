@@ -1,0 +1,7 @@
+#### Documents in JavaScript
+
+- A document in JavaScript is an object that represents a web page loaded in a browser and provides access to its content, such as HTML elements, text, images, etc. 
+- A document is an instance of the Document interface, which is part of the Document Object Model (DOM), a programming interface that describes the structure and behavior of documents. 
+- Depending on the type of document, it may have different properties and methods. For example, an HTML document has properties like `document.title`, `document.body`, `document.cookie`, etc. and methods like `document.getElementById()`, `document.createElement()`, `document.write()`, etc. 
+- A document can be manipulated by JavaScript code to dynamically change its content, style, or functionality. For example, one can use `document.getElementById()` to select an element by its id attribute, and then use `element.innerHTML` to change its text content. 
+- A document can also interact with other objects in the browser, such as the window object, the location object, the history object, etc. For example, one can use `document.location.href` to get or set the URL of the current document, or use `document.history.back()` to go back to the previous document in the browser history.

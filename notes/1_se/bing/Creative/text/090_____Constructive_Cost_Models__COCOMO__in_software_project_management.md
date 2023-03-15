@@ -1,0 +1,7 @@
+### Constructive Cost Models (COCOMO) in software project management
+
+- COCOMO stands for **Constructive Cost Model** and it is a **procedural cost estimate model** for software projects    .
+- It was created by **Barry Boehm** in the **1970s** and it has been commonly used to project costs for a variety of projects and business processes .
+- It is based on the **number of lines of code (LOC)** as the main input parameter and it uses a **regression formula** to estimate the various parameters associated with making a project such as **size, effort, cost, time, and quality**  .
+- It has three main versions: **COCOMO 81, COCOMO II, and COCOMO III**. COCOMO 81 was the original model and it had three sub-models: **basic, intermediate, and detailed**. COCOMO II was an updated and improved version that was released in the **1990s** and it had four sub-models: **application composition, early design, post-architecture, and reuse**. COCOMO III is the latest version and it is still under development.
+- The main advantages of COCOMO are that it is **simple, widely used, and validated** by empirical data. It can also be **customized** to fit different types of projects and environments. The main disadvantages of COCOMO are that it is **dependent on LOC**, which can be difficult to measure and vary across languages and tools. It also **assumes a linear relationship** between the input and output parameters, which may not hold for complex and dynamic projects.

@@ -1,0 +1,23 @@
+### Big Data ethics
+
+- Big Data ethics is the study of the moral principles and values that guide the collection, analysis, and use of large and complex datasets.
+- Big Data ethics is important because Big Data can have significant impacts on individuals, groups, and society, such as privacy, security, discrimination, fairness, accountability, and transparency.
+- Big Data ethics can be divided into four main dimensions: data provenance, data privacy, data quality, and data governance.
+  - Data provenance refers to the origin, ownership, and history of the data, such as who collected it, how it was collected, and for what purpose. Data provenance can affect the reliability, validity, and trustworthiness of the data and its analysis.
+  - Data privacy refers to the protection of the personal information and identity of the data subjects, such as what data is collected, how it is stored, who can access it, and how it is used. Data privacy can affect the autonomy, dignity, and consent of the data subjects and their expectations of confidentiality.
+  - Data quality refers to the accuracy, completeness, consistency, and timeliness of the data, such as how it is cleaned, processed, and analyzed. Data quality can affect the relevance, usefulness, and reliability of the data and its analysis.
+  - Data governance refers to the policies, standards, and practices that regulate the data lifecycle, such as who is responsible for the data, how it is managed, and how it is used. Data governance can affect the accountability, transparency, and fairness of the data and its analysis.
+
+- Some of the ethical challenges and dilemmas that Big Data poses are:
+  - How to balance the benefits and risks of Big Data for individuals and society, such as innovation, efficiency, and social good versus privacy, security, and harm.
+  - How to ensure the consent and participation of the data subjects, such as whether they are informed, voluntary, and meaningful, and whether they can opt-out, access, or correct their data.
+  - How to respect the diversity and dignity of the data subjects, such as whether they are treated fairly, equally, and respectfully, and whether they are protected from discrimination, bias, and manipulation.
+  - How to maintain the quality and integrity of the data and its analysis, such as whether they are accurate, valid, and reliable, and whether they are subject to verification, validation, and peer review.
+  - How to ensure the accountability and transparency of the data and its analysis, such as whether they are traceable, auditable, and explainable, and whether they are subject to oversight, regulation, and ethical review.
+
+- Some of the ethical principles and frameworks that can guide Big Data are:
+  - The four principles of biomedical ethics: respect for autonomy, beneficence, non-maleficence, and justice. These principles can be applied to Big Data by respecting the choices, interests, and rights of the data subjects, maximizing the benefits and minimizing the harms of Big Data, and distributing the benefits and burdens of Big Data fairly and equitably.
+  - The five principles of data ethics: responsibility, accountability, transparency, fairness, and human dignity. These principles can be applied to Big Data by ensuring that the data and its analysis are ethical, lawful, and socially acceptable, that the data and its analysis are subject to oversight, regulation, and ethical review, that the data and its analysis are open, clear, and understandable, that the data and its analysis are free from bias, discrimination, and manipulation, and that the data and its analysis respect the values, rights, and dignity of the data subjects and society.
+  - The six principles of the European Union's General Data Protection Regulation (GDPR): lawfulness, fairness, and transparency, purpose limitation, data minimization, accuracy, storage limitation, and integrity and confidentiality. These principles can be applied to Big Data by ensuring that the data and its analysis are legal, fair, and transparent, that the data and its analysis are collected and used for specific, explicit, and legitimate purposes, that the data and its analysis are adequate, relevant, and limited to what is necessary, that the data and its analysis are accurate, up-to-date, and rectified, that the data and its analysis are kept for no longer than necessary, and that the data and its analysis are secure, confidential, and protected.
+
+- A possible mnemonic to remember the four dimensions of Big Data ethics is: **P**rovenance, **P**rivacy, **Q**uality, and **G**overnance, or **PPQG**.

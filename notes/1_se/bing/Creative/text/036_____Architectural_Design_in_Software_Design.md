@@ -1,0 +1,22 @@
+### Architectural Design in Software Design
+
+- Architectural design in software engineering is the process of defining a collection of hardware and software components and their interfaces to establish the framework for the development of a computer system .
+- Architectural design is about decomposing the system into interacting components that can be developed, tested, and maintained independently.
+- Architectural design is expressed as a block diagram that defines an overview of the system structure, features of the components, and how these components communicate with each other to share data.
+- Architectural design aims to achieve the following objectives:
+  - To satisfy the functional and non-functional requirements of the system.
+  - To provide a modular and reusable structure that facilitates change and evolution.
+  - To reduce the complexity and risk of the system development.
+  - To improve the quality and performance of the system.
+  - To facilitate communication and collaboration among stakeholders.
+- Architectural design follows these steps:
+  - Have a clear understanding of the requirements of the system.
+  - Start thinking about each component and its responsibilities, interfaces, and dependencies.
+  - Divide the system into layers, modules, or services that can be implemented separately.
+  - Choose an architectural style or pattern that suits the system's goals and constraints.
+  - Document and communicate the architectural design using diagrams and descriptions.
+- Architectural design can use different styles or patterns to organize the components and their interactions. Some common architectural patterns are:
+  - Layered architecture: The system is divided into horizontal layers, each providing a specific functionality or service. The layers communicate only with adjacent layers and have clear boundaries and responsibilities. This pattern is suitable for systems that need to separate the presentation, business logic, and data access layers.
+  - Client-server architecture: The system consists of a server that provides services or resources to multiple clients that request them over a network. The server and the clients can run on different machines and platforms. This pattern is suitable for systems that need to distribute the workload and support scalability and availability.
+  - Microservices architecture: The system is composed of a collection of small, independent, and loosely coupled services that communicate with each other using lightweight protocols. Each service is responsible for a single functionality or domain and can be deployed, updated, and scaled independently. This pattern is suitable for systems that need to support agility, flexibility, and resilience.
+  - Event-driven architecture: The system is based on the production, detection, and consumption of events that represent changes in the state or behavior of the system or its components. The components communicate asynchronously using an event bus or a message broker that routes the events to the appropriate subscribers. This pattern is suitable for systems that need to handle high volumes of events and support decoupling and responsiveness.

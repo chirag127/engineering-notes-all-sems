@@ -1,0 +1,15 @@
+#### Various Size Oriented Measures in Software Design
+
+When it comes to software design, there are various measures that can be used to gauge the size and complexity of a system. These measures can help developers, project managers, and stakeholders to understand the scope of a project and to make informed decisions about resource allocation, timelines, and budgeting. Here are some of the most commonly used size-oriented measures in software design:
+
+1. Lines of Code (LOC): LOC is one of the simplest and most widely used size-oriented measures in software design. It refers to the total number of lines of code in a program, including comments and blank lines. While LOC can be useful in providing a rough estimate of the size of a project, it has some limitations. For example, it does not take into account the complexity of the code, the number of functions or modules, or the amount of duplicate code.
+
+2. Function Points (FP): FP is a measure of the functionality provided by a software system. It takes into account the complexity of the system, the number of inputs and outputs, and the number of user interactions. FP can be a more accurate measure of size than LOC, as it focuses on the functionality provided by the system rather than the code itself.
+
+3. Object Points (OP): OP is a measure of the complexity of an object-oriented software system. It takes into account the number of classes, methods, and attributes in the system, as well as the complexity of the relationships between them. OP can be useful in measuring the size and complexity of object-oriented systems, but it may not be as applicable to non-object-oriented systems.
+
+4. Use Case Points (UCP): UCP is a measure of the complexity of the user interactions in a software system. It takes into account the number of use cases, the complexity of each use case, and the number of actors involved. UCP can be useful in measuring the size and complexity of systems with a heavy focus on user interactions, such as web applications or mobile apps.
+
+5. Story Points (SP): SP is a measure of the complexity of a software development task. It takes into account factors such as the complexity of the task, the level of effort required, and the amount of uncertainty involved. SP can be useful in measuring the size and complexity of individual development tasks within a larger project.
+
+In conclusion, there are various size-oriented measures that can be used in software design to gauge the size and complexity of a system. Each measure has its own strengths and weaknesses, and the choice of measure will depend on the specific needs and goals of the project. By understanding and utilizing these measures, developers and project managers can make informed decisions about resource allocation, timelines, and budgeting, leading to more successful software projects.

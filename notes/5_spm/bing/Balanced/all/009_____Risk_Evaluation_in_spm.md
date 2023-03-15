@@ -1,0 +1,9 @@
+# Risk Evaluation in SPM
+
+- Risk evaluation is the systematic process of assessing the likelihood and impact of potential risks on a software project.
+- Risk evaluation is one of the most important parts of software project management (SPM), as it helps to identify and mitigate the sources of uncertainty and variability that can affect the project outcomes.
+- Risk evaluation consists of four steps:
+  - Analyzing the project environment: This involves identifying the internal and external factors that can influence the project, such as the project scope, objectives, constraints, assumptions, stakeholders, resources, technologies, regulations, etc.
+  - Identifying risks: This involves brainstorming, researching, and listing the possible risks that can affect the project, such as technical, operational, organizational, financial, legal, environmental, etc. Risks can be categorized into known risks (those that can be anticipated and planned for) and unknown risks (those that are unpredictable and unforeseen).
+  - Assigning risk ratings: This involves estimating the probability and impact of each risk on the project, using qualitative or quantitative methods. Qualitative methods use scales or matrices to rank risks based on their severity and likelihood, while quantitative methods use numerical values or formulas to calculate the expected value or loss of each risk. Risk ratings can be expressed as low, medium, or high, or as a percentage or a monetary value.
+  - Creating a risk management plan: This involves developing strategies and actions to prevent, reduce, transfer, or accept each risk, depending on its rating and priority. The risk management plan should also include the roles and responsibilities of the project team members, the resources and budget allocated for risk management, the methods and tools for risk monitoring and control, and the criteria and indicators for risk evaluation and reporting.

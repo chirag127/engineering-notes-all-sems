@@ -1,0 +1,11 @@
+#### Code Inspection (Code Inspection) Static testing strategy
+
+Code inspection is a static testing strategy that involves reviewing source code to detect and correct defects early in the software development life cycle. Here are some key points to keep in mind when it comes to code inspection:
+
+- Code inspection is a manual technique that involves a team of developers carefully reviewing source code line by line to identify defects and areas for improvement.
+- The goal of code inspection is to improve the quality of the code by detecting and fixing defects early in the development process. This can help reduce the number of defects that make it into later stages of development, when they are more costly to fix.
+- Code inspection is typically performed after the code has been written but before it is tested. This can help catch defects before they are introduced into the testing phase, where they can be more difficult to diagnose and fix.
+- Code inspection can be done using a variety of techniques, including formal inspections, peer reviews, and walkthroughs. Each technique has its own strengths and weaknesses, and the choice of technique will depend on the specific needs of the project.
+- Code inspection can be time-consuming and resource-intensive, but it can also be highly effective at detecting defects and improving code quality. It is important to balance the benefits of code inspection against the costs, and to use it judiciously to get the best results.
+- To be effective, code inspection should be done by a well-trained team of developers who have a good understanding of the code and the development process. The team should be able to identify defects and provide constructive feedback to help improve the code.
+- Code inspection can be an important part of a broader quality assurance strategy that includes other static and dynamic testing techniques, such as unit testing, integration testing, and system testing. By using a combination of techniques, developers can help ensure that their code is of the highest possible quality.

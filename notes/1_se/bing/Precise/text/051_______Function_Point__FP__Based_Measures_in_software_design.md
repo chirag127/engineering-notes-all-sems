@@ -1,0 +1,7 @@
+##### Function Point (FP) Based Measures in software design
+
+- Function Point (FP) Method is one of the methods used to obtain the size of the functionality and can be used to estimate cost, duration, and amount of resources required by a software project.
+- Function Point (FP) is an element of software development which helps to approximate the cost of development early in the process. It measures functionality from the user’s point of view.
+- Function Points are a Unit of Measure (UOM) for software much like an hour is to measuring time, inches to measuring distance and Fahrenheit to measuring temperature. A UOM is important to understanding and communicating such metrics as Average Costs, Average Time and so forth.
+- The objective of Function Point Analysis (FPA) is to measure the functionality that the user requests and receives. The objective of FPA is to measure software development and maintenance independently of the technology used for implementation. It should be simple enough to minimize the overhead of the measurement process.
+- Allan J. Albrecht initially developed Function Point Analysis in 1979 at IBM and it has been further modified by the International Function Point Users Group (IFPUG). FPA is used to make an estimate of the software project, including its testing in terms of functionality or function size of the software product.

@@ -1,0 +1,15 @@
+#### The OSI reference model in Computer Networks
+
+The OSI reference model is a conceptual framework that defines how different devices and applications communicate over a network. It was developed by the International Organization for Standardization (ISO) in 1984, and it is now considered as an architectural model for the inter-computer communications.
+
+The OSI reference model consists of seven layers, each of which performs a specific function in the network communication process. The layers are:
+
+- Layer 1: Physical. This layer defines the physical characteristics of the transmission medium, such as the voltage, frequency, modulation, and connectors. It also deals with the transmission and reception of raw bits over the medium.
+- Layer 2: Data Link. This layer provides reliable and error-free data transfer between adjacent nodes on the same network segment. It also handles the framing, addressing, and flow control of data packets. It can be divided into two sublayers: Logical Link Control (LLC) and Media Access Control (MAC).
+- Layer 3: Network. This layer provides logical addressing and routing of data packets across different network segments. It also handles the fragmentation and reassembly of packets, as well as the congestion control and quality of service (QoS) of the network.
+- Layer 4: Transport. This layer provides end-to-end data delivery between applications on different hosts. It also handles the segmentation and reassembly of data streams, as well as the error detection and correction, and flow control of the data. It can support different transport protocols, such as TCP and UDP.
+- Layer 5: Session. This layer establishes, maintains, and terminates sessions between applications on different hosts. It also handles the synchronization, authentication, and authorization of the communication.
+- Layer 6: Presentation. This layer provides data representation and encryption for the applications. It also handles the compression, decompression, and translation of data formats, such as ASCII, EBCDIC, JPEG, and MPEG.
+- Layer 7: Application. This layer provides the interface and services for the applications to access the network. It also handles the high-level functions, such as email, file transfer, web browsing, and remote access.
+
+The OSI reference model is useful for understanding how different network components and protocols work together, as well as for designing and troubleshooting network systems. However, it is not a strict standard that must be followed by all network implementations. Some protocols, such as IP, do not fit neatly into the OSI model, and some layers, such as the session and presentation layers, are often combined or omitted in practice. Therefore, the OSI reference model should be seen as a general guideline, rather than a rigid rule, for network communication.

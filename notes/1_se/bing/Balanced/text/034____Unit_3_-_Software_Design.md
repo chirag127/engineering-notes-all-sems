@@ -1,0 +1,27 @@
+## Unit 3 - Software Design
+
+- Software design is the process of defining the architecture, components, interfaces, and other characteristics of a software system.
+- Software design is based on the requirements analysis and the software development methodology chosen for the project.
+- Software design aims to achieve the following goals:
+  - Functional correctness: the software system should meet the functional and non-functional requirements specified by the stakeholders.
+  - Reliability: the software system should perform consistently and correctly under normal and abnormal conditions.
+  - Usability: the software system should be easy to learn, use, and maintain by the intended users.
+  - Efficiency: the software system should make optimal use of the available resources, such as memory, CPU, disk, network, etc.
+  - Maintainability: the software system should be easy to modify, extend, test, and debug by the developers.
+  - Reusability: the software system should allow the reuse of existing components or modules in other projects.
+  - Portability: the software system should be able to run on different platforms or environments with minimal changes.
+  - Scalability: the software system should be able to handle increasing or decreasing workloads without compromising the performance or quality.
+  - Security: the software system should protect the data and resources from unauthorized access, modification, or damage.
+- Software design can be performed at different levels of abstraction, such as:
+  - Architectural design: the high-level design of the software system, which defines the main components, their interactions, and the overall structure and behavior of the system.
+  - Component design: the low-level design of the individual components or modules, which defines the internal structure, functionality, and interfaces of each component.
+  - Interface design: the design of the external interfaces of the software system, which defines the communication protocols, data formats, and error handling mechanisms between the system and other systems or users.
+  - Algorithm design: the design of the algorithms or methods that implement the logic and functionality of the components or modules.
+  - Data design: the design of the data structures and formats that store and manipulate the information used by the software system.
+- Software design can be performed using different techniques, such as:
+  - Top-down design: the design process starts from the general and abstract level and proceeds to the specific and concrete level, by decomposing the system into smaller and simpler sub-systems or components.
+  - Bottom-up design: the design process starts from the specific and concrete level and proceeds to the general and abstract level, by integrating the existing or predefined components or modules into a larger and more complex system.
+  - Modular design: the design process focuses on creating independent and cohesive components or modules, which can be easily combined, reused, or replaced.
+  - Object-oriented design: the design process focuses on creating objects, which are entities that encapsulate data and behavior, and defining the relationships and interactions between them.
+  - Structured design: the design process focuses on creating structured and hierarchical components or modules, which are organized into layers or levels of abstraction, and defining the control and data flow between them.
+  - Functional design: the design process focuses on creating functions, which are units of computation that take inputs and produce outputs, and defining the functional dependencies and compositions between them.

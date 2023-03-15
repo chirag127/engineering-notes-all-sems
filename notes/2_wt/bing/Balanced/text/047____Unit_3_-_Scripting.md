@@ -1,0 +1,22 @@
+## Unit 3 - Scripting
+
+- Scripting is a way of automating tasks or creating programs using a scripting language.
+- A scripting language is a high-level programming language that is interpreted or executed by another program, such as a shell, a browser, or a web server.
+- Scripting languages are often designed for specific domains or purposes, such as text processing, web development, system administration, or data analysis.
+- Some examples of scripting languages are Python, Ruby, Perl, JavaScript, PHP, and Bash.
+- Scripting languages have some advantages and disadvantages compared to compiled languages, such as C, Java, or C++.
+  - Advantages:
+    - Scripting languages are usually easier to learn and use, as they have simpler syntax, dynamic typing, and built-in libraries.
+    - Scripting languages are more portable, as they can run on different platforms without recompilation.
+    - Scripting languages are more flexible, as they can be modified or extended at runtime, and support multiple paradigms, such as procedural, object-oriented, or functional programming.
+  - Disadvantages:
+    - Scripting languages are usually slower, as they have more overhead for interpretation or execution, and less optimization.
+    - Scripting languages are less secure, as they can be more vulnerable to injection attacks, code injection, or malicious code execution.
+    - Scripting languages are less reliable, as they can have more errors or bugs, due to lack of type checking, debugging tools, or testing frameworks.
+- To write a script, you need to follow some steps:
+  - Choose a scripting language that suits your needs and preferences.
+  - Install the interpreter or the environment for the scripting language on your system.
+  - Write the code for the script using a text editor or an IDE (Integrated Development Environment).
+  - Save the script file with the appropriate extension, such as .py, .rb, .pl, .js, .php, or .sh.
+  - Run the script file using the interpreter or the environment, or by invoking it from another program, such as a shell, a browser, or a web server.
+  - Test and debug the script, and make any changes or improvements as needed.

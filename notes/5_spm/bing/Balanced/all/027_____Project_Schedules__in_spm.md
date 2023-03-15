@@ -1,0 +1,21 @@
+# Project Schedules in SPM
+
+- Project scheduling is the process of creating, managing, and monitoring the timeline of a software project.
+- Project scheduling helps to plan the work, allocate resources, track progress, and deliver the project on time and within budget.
+- Project scheduling involves the following steps:
+  - Define the project scope and objectives
+  - Identify the project activities and dependencies
+  - Estimate the duration and effort of each activity
+  - Assign resources and costs to each activity
+  - Create the project schedule using a scheduling method and tool
+  - Review and update the project schedule as the project progresses
+- Project scheduling methods include:
+  - Critical path method (CPM): A method that identifies the longest sequence of activities that determines the project duration and the earliest and latest start and finish times of each activity.
+  - Program evaluation and review technique (PERT): A method that uses optimistic, pessimistic, and most likely estimates of activity durations to account for uncertainty and variability in the project schedule.
+  - Critical chain method (CCM): A method that focuses on the availability and synchronization of resources and buffers to protect the project schedule from delays and disruptions.
+- Project scheduling tools include:
+  - Gantt chart: A graphical representation of the project schedule that shows the start and finish dates, durations, dependencies, and progress of each activity.
+  - Network diagram: A graphical representation of the project schedule that shows the logical relationships and sequences of activities using nodes and arrows.
+  - Milestone chart: A graphical representation of the project schedule that shows the key deliverables and events of the project using symbols and dates.
+  - Resource histogram: A graphical representation of the project schedule that shows the amount and type of resources required for each activity or time period.
+- Project scheduling is part of the project management plan (PMP) and the schedule management plan (SMP). The PMP is a document that describes how the project will be executed, monitored, and controlled. The SMP is a document that details how the project schedule will be created, managed, and monitored.

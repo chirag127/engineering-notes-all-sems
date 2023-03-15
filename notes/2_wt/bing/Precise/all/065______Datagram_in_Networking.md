@@ -1,0 +1,11 @@
+#### Datagram in Networking
+- A datagram is a self-contained, independent entity of data carrying sufficient information to be routed from the source to the destination computer without reliance on earlier exchanges between this source and destination computer and the transporting network.
+- It is used in connectionless networking, where each packet is treated as an independent unit of data, unrelated to any other data.
+- In this type of networking, packets are sent to their destination based on the destination address contained in the packet header, without the need for a previously established connection between the source and destination.
+- The term datagram is often used in reference to the User Datagram Protocol (UDP), which is a connectionless transport layer protocol.
+- UDP is often used for applications that do not require the reliability of a connection-oriented protocol such as the Transmission Control Protocol (TCP).
+- Some examples of applications that use UDP include Domain Name System (DNS) queries, online gaming, and Voice over IP (VoIP).
+- One advantage of using datagrams in networking is that they can provide faster data transmission since there is no need to establish a connection before sending data.
+- However, one disadvantage is that there is no guarantee that the data will be delivered, or that it will arrive in the correct order.
+- A mnemonic to remember the difference between TCP and UDP is: "TCP is like making a phone call, while UDP is like sending a postcard."
+- Another mnemonic is: "TCP checks if the message was received, while UDP just sends and forgets."

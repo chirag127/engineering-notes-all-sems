@@ -1,0 +1,24 @@
+#### Data flow in HDFS
+
+- HDFS is a distributed file system that stores large files across multiple nodes in a cluster.
+- HDFS follows a master-slave architecture, where one node acts as the NameNode (master) and the rest of the nodes are DataNodes (slaves).
+- The NameNode is responsible for managing the namespace, the metadata, and the access control of the files and directories in HDFS.
+- The DataNodes are responsible for storing the actual data blocks of the files in HDFS.
+- A file in HDFS is split into fixed-size blocks (typically 128 MB or 256 MB) and each block is replicated across multiple DataNodes for fault tolerance (typically 3 replicas).
+- The NameNode maintains a mapping of which file corresponds to which blocks and which blocks are located on which DataNodes.
+- When a client wants to read a file from HDFS, it first contacts the NameNode to get the list of blocks and their locations for the file.
+- Then, the client contacts one of the DataNodes that has a replica of the first block and starts reading the data from it.
+- When the end of the block is reached, the client contacts the NameNode again to get the location of the next block and repeats the process until the end of the file is reached.
+- When a client wants to write a file to HDFS, it first contacts the NameNode to request a new file name and the list of DataNodes to store the replicas of the first block.
+- Then, the client contacts the first DataNode in the list and starts sending the data to it.
+- The first DataNode then forwards the data to the second DataNode in the list, which in turn forwards it to the third DataNode, forming a pipeline.
+- When the first block is filled, the client contacts the NameNode again to get the list of DataNodes for the next block and repeats the process until the end of the file is reached.
+- The NameNode periodically receives heartbeat and block report messages from the DataNodes to monitor their status and the block locations.
+- If a DataNode fails or becomes unreachable, the NameNode detects it and marks the blocks on that DataNode as missing.
+- The NameNode then initiates the replication of the missing blocks from the existing DataNodes to the new DataNodes to restore the replication factor.
+- If the NameNode fails or becomes unreachable, the entire HDFS cluster becomes inaccessible, as there is no other node that can serve the namespace and the metadata.
+- To prevent the loss of the NameNode state, HDFS supports the following mechanisms:
+  - The NameNode stores its metadata on the local disk as well as on a remote NFS mount (called the secondary NameNode) as a backup.
+  - The NameNode also writes its metadata to a write-ahead log (called the edit log) on the local disk and the remote NFS mount, which records every change made to the file system.
+  - The NameNode can be configured to run in a high-availability mode, where there are two NameNodes (called the active and the standby) that share a common edit log and a common storage for the metadata.
+  - The active NameNode is the one that serves the client requests and updates the edit log and the metadata, while the standby NameNode is the one that monitors the active NameNode and takes over its role in case of a failure.

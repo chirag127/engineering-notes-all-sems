@@ -1,0 +1,15 @@
+#### Hadoop benchmarks in Hadoop Environment
+
+Hadoop benchmarks are tools or applications that can be used to measure the performance of a Hadoop cluster in terms of various metrics, such as throughput, latency, scalability, and resource utilization. Hadoop benchmarks can help users to evaluate the suitability of a Hadoop cluster for different types of workloads, to identify and diagnose performance bottlenecks, and to optimize the configuration and tuning of the cluster.
+
+Some of the common Hadoop benchmarks are:
+
+- **TestDFSIO**: This benchmark tests the I/O performance of the Hadoop Distributed File System (HDFS) by creating MapReduce jobs to read and write a number of files in parallel or sequentially. It can measure the average I/O rate, the average throughput, and the average execution time of the jobs .
+- **Sort**: This benchmark tests the performance of the MapReduce framework by creating MapReduce jobs to sort a large amount of data. It can measure the total amount of data processed, the total execution time, and the sorting rate of the jobs. There are different variants of the Sort benchmark, such as TeraSort, which sorts 1 terabyte of data, and MinuteSort, which sorts as much data as possible in one minute .
+- **WordCount**: This benchmark tests the basic functionality of the MapReduce framework by creating MapReduce jobs to count the frequency of words in a large text corpus. It can measure the total amount of data processed, the total execution time, and the word counting rate of the jobs.
+- **Nutch**: This benchmark tests the performance of a web crawler application built on top of Hadoop. It can measure the number of web pages crawled, the total size of the crawled data, and the crawling rate of the application.
+- **Hive**: This benchmark tests the performance of a data warehouse system built on top of Hadoop. It can measure the query execution time, the query throughput, and the resource utilization of the system. It can use different data sets and query workloads, such as TPC-H, TPC-DS, and BigBench.
+
+Hadoop benchmark tests use the parameters and conditions provided by users. For every test, it executes a MapReduce job and once complete, it displays the results on the screen. Hadoop benchmarks can be run in standalone mode or remote mode, depending on the configuration of the cluster and the file system scheme.
+
+Hadoop benchmarks are designed for full Hadoop cluster installations with multiple disks and nodes. Running these benchmarks in a single-node or pseudo-distributed mode is not recommended because it will not reflect the true performance of the cluster. Hadoop benchmarks are also sensitive to the hardware, software, and environmental factors of the cluster, such as the CPU, memory, disk, network, OS, Hadoop version, and workload characteristics. Therefore, it is important to consider these factors when conducting and comparing benchmark results.

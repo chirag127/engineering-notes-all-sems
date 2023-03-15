@@ -1,0 +1,21 @@
+#### Test data and local tests in map reduce
+
+- Test data is a set of input data that is used to verify the correctness and performance of a map reduce program.
+- Local tests are tests that run the map reduce program on a single machine, using a local file system and a local job runner.
+- Test data and local tests are useful for debugging and optimizing map reduce programs before deploying them to a distributed cluster.
+- Some advantages of test data and local tests are:
+  - They are faster and cheaper than running on a cluster.
+  - They allow the programmer to inspect the intermediate and final outputs of the map and reduce functions.
+  - They enable the use of standard debugging tools, such as breakpoints and print statements.
+  - They can simulate different scenarios and edge cases by varying the input data and the number of map and reduce tasks.
+- Some disadvantages of test data and local tests are:
+  - They may not reflect the actual behavior and performance of the map reduce program on a cluster, due to differences in data size, network latency, disk I/O, etc.
+  - They may not catch some errors or bugs that only occur in a distributed environment, such as network failures, data skew, race conditions, etc.
+  - They may not test some features or aspects of the map reduce framework, such as fault tolerance, load balancing, data shuffling, etc.
+- Some tips and best practices for test data and local tests are:
+  - Use realistic and representative test data that covers a range of input sizes and formats, and that matches the expected data distribution and characteristics of the real data.
+  - Use small and manageable test data that can fit in memory and disk, and that can be processed quickly and easily by the map reduce program.
+  - Use a local job runner that mimics the behavior and configuration of the cluster job runner, such as the number of map and reduce tasks, the memory and disk limits, the partitioning and sorting algorithms, etc.
+  - Use a local file system that supports the same features and operations as the distributed file system, such as reading and writing files in parallel, splitting files into blocks, replicating files across nodes, etc.
+  - Use logging and monitoring tools to track the progress and performance of the map reduce program, such as the number of input and output records, the execution time and memory usage of each task, the amount of data transferred and shuffled, etc.
+  - Use unit testing and integration testing frameworks to automate and validate the test data and local tests, such as JUnit, TestNG, MRUnit, etc.

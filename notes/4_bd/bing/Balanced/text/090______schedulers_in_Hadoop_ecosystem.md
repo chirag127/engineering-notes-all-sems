@@ -1,0 +1,11 @@
+#### Schedulers in Hadoop Ecosystem
+
+- Schedulers are algorithms that are used to schedule tasks in a Hadoop cluster when multiple clients submit requests for data processing.
+- Schedulers help in ensuring optimal utilization of resources and access to unused capacity in the cluster.
+- Schedulers also help in managing the priority, fairness, and SLA of different jobs and queues.
+- There are mainly four types of schedulers in Hadoop ecosystem   :
+
+  - **FIFO (First In First Out) Scheduler**: This is the default and simplest scheduler in Hadoop. It schedules jobs in the order of their submission. It does not consider the size, complexity, or priority of the jobs. It is suitable for small clusters with homogeneous and short jobs.
+  - **Capacity Scheduler**: This is a pluggable scheduler that allows multiple queues to be created with different capacities and properties. It allocates resources to each queue based on its capacity, and within each queue, it uses FIFO scheduling. It supports hierarchical queues, preemption, resource sharing, and ACLs. It is suitable for large clusters with heterogeneous and long-running jobs.
+  - **Fair Scheduler**: This is another pluggable scheduler that aims to provide fair and equal share of resources to all jobs and queues. It dynamically adjusts the resource allocation based on the demand and the weight of the jobs and queues. It supports hierarchical queues, preemption, resource sharing, and ACLs. It is suitable for large clusters with heterogeneous and short-running jobs.
+  - **YARN Scheduler**: This is the scheduler used by YARN, the resource management framework in Hadoop 2. It has two components: a global **Resource Manager** that manages the cluster resources, and a per-node **Node Manager** that manages the containers on each node. It supports two types of schedulers: **Capacity Scheduler** and **Fair Scheduler**. It also supports dynamic resource allocation, node labels, and reservation system. It is suitable for large clusters with heterogeneous and diverse workloads.

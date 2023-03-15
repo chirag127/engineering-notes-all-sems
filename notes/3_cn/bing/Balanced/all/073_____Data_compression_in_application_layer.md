@@ -1,0 +1,28 @@
+### Data compression in application layer
+
+- Data compression is the function of presentation layer in OSI reference model, but it can also be performed at the application layer in some protocols.
+- Data compression allows to reduce the number of bits that need to be transmitted on the network or to optimize disk space when saving data.
+- Data compression can be either lossless or lossy. Lossless compression preserves the original data without any loss of information, while lossy compression discards some information to achieve higher compression ratios.
+- Some examples of lossless compression algorithms are Huffman coding, Lempel-Ziv-Welch (LZW) coding, and run-length encoding (RLE). Some examples of lossy compression algorithms are JPEG, MPEG, and MP3.
+- Data compression can be either static or dynamic. Static compression applies a fixed compression scheme to the data, while dynamic compression adapts the compression scheme to the characteristics of the data.
+- Data compression can be either symmetric or asymmetric. Symmetric compression uses the same algorithm for both compression and decompression, while asymmetric compression uses different algorithms for compression and decompression.
+- Data compression can be either adaptive or non-adaptive. Adaptive compression changes the compression parameters according to the data, while non-adaptive compression uses fixed parameters for all data.
+- Data compression can be either online or offline. Online compression compresses the data as it is transmitted or received, while offline compression compresses the data before or after transmission or reception.
+- Data compression can have various advantages and disadvantages depending on the application, such as:
+  - Advantages: 
+    - Reduces bandwidth consumption and transmission time
+    - Saves storage space and cost
+    - Improves performance and efficiency
+    - Enhances security and privacy by encrypting the data
+  - Disadvantages:
+    - Increases processing overhead and complexity
+    - Introduces errors and distortions in lossy compression
+    - Requires compatibility and standardization of compression algorithms
+    - May degrade quality of service and user experience
+- Some examples of application layer protocols that use data compression are:
+  - File Transfer Protocol (FTP): Supports data compression using MODE Z command
+  - Simple Mail Transfer Protocol (SMTP): Supports data compression using Content-Encoding header
+  - Domain Name System (DNS): Supports data compression using label compression technique
+  - Hypertext Transfer Protocol (HTTP): Supports data compression using Accept-Encoding and Content-Encoding headers
+  - Secure Shell (SSH): Supports data compression using Compression and CompressionLevel options
+- A possible mnemonic to remember the types of data compression is: **LSDS SAON**. It stands for **L**ossless, **L**ossy, **S**tatic, **D**ynamic, **S**ymmetric, **A**symmetric, **A**daptive, **N**on-adaptive, **O**nline, **N**offline.

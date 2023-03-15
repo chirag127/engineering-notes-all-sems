@@ -1,0 +1,14 @@
+#### Cohesion Measures in Software Design
+
+- Cohesion is a measure of how well the elements of a module or a class are related to each other and work together to achieve a common goal.
+- Cohesion is desirable in software design because it improves the readability, maintainability, reusability, and testability of the software.
+- There are different types of cohesion, ranging from low to high, depending on the degree of relatedness among the elements of a module or a class. Some of the common types of cohesion are:
+
+  - **Coincidental cohesion**: This is the lowest level of cohesion, where the elements of a module or a class have no logical connection to each other and are grouped together arbitrarily. For example, a module that performs various unrelated tasks such as sorting an array, printing a report, and sending an email.
+  - **Logical cohesion**: This is a slightly higher level of cohesion, where the elements of a module or a class are related by some logical category, such as the type of input, output, or function. For example, a module that performs different operations on the same type of data, such as validating, formatting, and encrypting a password.
+  - **Temporal cohesion**: This is a moderate level of cohesion, where the elements of a module or a class are related by the time of execution, such as initialization, processing, or termination. For example, a module that performs various tasks that need to be done at the beginning of a program, such as opening files, allocating memory, and setting up variables.
+  - **Procedural cohesion**: This is a higher level of cohesion, where the elements of a module or a class are related by the sequence of steps that need to be followed to perform a specific task. For example, a module that performs the steps of a registration process, such as validating the user input, checking the availability of the username, and creating the user account.
+  - **Communicational cohesion**: This is a high level of cohesion, where the elements of a module or a class are related by the data that they operate on, and share the same input or output. For example, a module that performs different calculations on the same set of data, such as finding the average, standard deviation, and median of a list of numbers.
+  - **Functional cohesion**: This is the highest level of cohesion, where the elements of a module or a class are related by a single and well-defined function that they perform. For example, a module that calculates the area of a circle, given the radius as input.
+
+- The higher the cohesion, the better the software design, as it reduces the complexity, coupling, and dependency among the modules or classes. Therefore, software designers should strive to achieve functional cohesion, or at least communicational or procedural cohesion, in their software design.

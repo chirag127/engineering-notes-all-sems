@@ -1,0 +1,11 @@
+#### Types of connections in Computer Networks
+
+There are different types of connections that can be established between devices in a computer network. Some of the common types are:
+
+- **Point-to-point connection**: This type of connection allows one device to communicate with one other device. For example, two phones may pair with each other using Bluetooth to exchange data or make a call. A point-to-point connection is usually established using a cable, a wireless link, or a dedicated circuit. A point-to-point connection is simple, secure, and efficient, but it can be expensive and limited in scalability.
+
+- **Broadcast/multicast connection**: This type of connection allows a device to send one message out to the network and have copies of that message delivered to multiple recipients. For example, a radio station may broadcast its program to many listeners, or a video conference may multicast its stream to many participants. A broadcast/multicast connection is usually established using a shared medium, such as a radio frequency, a coaxial cable, or a wireless network. A broadcast/multicast connection is useful for mass communication, but it can be prone to interference, congestion, and security issues.
+
+- **Multipoint connection**: This type of connection allows one device to connect and deliver messages to multiple devices in parallel. For example, a router may connect to several computers and forward packets to them based on their destination addresses. A multipoint connection is usually established using a switch, a hub, or a repeater. A multipoint connection is flexible, scalable, and reliable, but it can be complex, costly, and inefficient.
+
+- **Network connection**: This type of connection allows multiple devices to form a network and communicate with each other over a large geographical area. For example, a computer may connect to the Internet and access websites, email, and online services. A network connection is usually established using a combination of different types of connections, such as point-to-point, broadcast/multicast, and multipoint. A network connection is powerful, versatile, and ubiquitous, but it can be challenging, risky, and unpredictable .

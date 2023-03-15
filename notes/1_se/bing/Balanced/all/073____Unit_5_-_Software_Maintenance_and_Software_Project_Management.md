@@ -1,0 +1,18 @@
+## Unit 5 - Software Maintenance and Software Project Management
+
+- Software maintenance is the process of modifying and updating software after it has been delivered to the customer. It involves correcting errors, improving performance, adapting to changing requirements, and enhancing functionality. Software maintenance is an essential part of software development and ensures the quality and reliability of software products .
+- Software project management is the discipline of planning, organizing, leading, and controlling software development projects. It involves defining the scope, schedule, budget, quality, and risks of the project, as well as managing the stakeholders, resources, communication, and deliverables. Software project management aims to deliver software products that meet the customer's needs and expectations within the constraints of time, cost, and quality  .
+- Software maintenance and software project management are closely related, as both require continuous monitoring, evaluation, and improvement of software products and processes. Software maintenance is often considered as a phase of software project management, as it occurs after the software product has been delivered and deployed. However, software maintenance can also be seen as a separate activity that requires its own planning, execution, and control .
+- Some of the topics covered in this unit are:
+
+  - Software maintenance models: These are frameworks that describe the types, stages, and activities of software maintenance. Some of the common models are corrective maintenance, adaptive maintenance, perfective maintenance, preventive maintenance, and agile maintenance.
+  - Software maintenance metrics: These are measures that quantify the effectiveness, efficiency, and quality of software maintenance. Some of the common metrics are mean time to failure, mean time to repair, defect density, defect removal efficiency, and maintainability index.
+  - Software project management phases: These are the stages of software project management that define the tasks, deliverables, and milestones of the project. Some of the common phases are initiation, planning, execution, monitoring and control, and closure .
+  - Software project management tools and techniques: These are the methods and resources that help software project managers to plan, execute, and control software projects. Some of the common tools and techniques are project charter, work breakdown structure, Gantt chart, network diagram, critical path method, earned value management, risk management, and agile methods .
+
+- Some of the mnemonics and learning tricks for this unit are:
+
+  - To remember the types of software maintenance, use the acronym CAPPA: Corrective, Adaptive, Perfective, Preventive, and Agile.
+  - To remember the phases of software project management, use the acronym PIECM: Initiation, Planning, Execution, Control, and Closure .
+  - To remember the formula for earned value management, use the acronym SPI and CPI: Schedule Performance Index (SPI) = Earned Value (EV) / Planned Value (PV), and Cost Performance Index (CPI) = Earned Value (EV) / Actual Cost (AC) .
+  - To remember the difference between agile and waterfall methods, use the analogy of building a house: Waterfall is like building the house from the foundation to the roof in a sequential and fixed order, while agile is like building the house in small and flexible iterations, with frequent feedback and changes .

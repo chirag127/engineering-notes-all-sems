@@ -1,0 +1,21 @@
+#### Scripting in Servlets
+
+- Servlets are Java programs that run on a web server or application server and handle requests from web clients.
+- Scripts are executable code that can be written in various languages and are used to generate dynamic content or perform some logic.
+- Scripting in servlets refers to the ability to use scripts as servlets or to include scripts in servlets.
+- Some advantages of scripting in servlets are:
+  - Scripts can be modified without recompiling or redeploying the servlets.
+  - Scripts can be written in different languages and leverage their features and libraries.
+  - Scripts can be reused across different servlets or web applications.
+- Some disadvantages of scripting in servlets are:
+  - Scripts may have lower performance than compiled servlets.
+  - Scripts may introduce security risks if not properly validated or sanitized.
+  - Scripts may require additional configuration or dependencies to run on the server.
+- Some examples of scripting in servlets are:
+  - Using Apache Sling, a framework for RESTful web applications, to write scripts in various languages (such as JSP, Groovy, Ruby, etc.) and use them as servlets .
+  - Using RequestDispatcher to include a JavaScript file in a servlet and execute it on the client-side.
+  - Using JavaServer Pages (JSP), a technology that combines HTML and Java code, to write scripts that are compiled into servlets and run on the server-side.
+- Some mnemonics and learning tricks for scripting in servlets are:
+  - Remember that scripts are servlets by using the acronym SSS (Scripts are Servlets in Sling).
+  - Remember that scripts can be included in servlets by using the phrase "Include and Execute".
+  - Remember that scripts can be written in different languages by using the word "DIVERSE" (DIfferent VERsions of Scripting in sErvlets).

@@ -1,0 +1,12 @@
+#### Running MRv1 in YARN
+- MRv1 stands for MapReduce version 1, which is a framework for processing large-scale data sets in parallel using a distributed cluster of nodes.
+- YARN stands for Yet Another Resource Negotiator, which is a resource management layer that allows multiple applications to run on the same cluster and share resources dynamically.
+- To run MRv1 in YARN, the following steps are required:
+  - Configure the YARN properties in the yarn-site.xml file, such as the resource manager address, the node manager address, the scheduler type, the memory and CPU allocation, etc.
+  - Configure the MRv1 properties in the mapred-site.xml file, such as the mapreduce.framework.name, the mapreduce.jobhistory.address, the mapreduce.jobtracker.address, etc.
+  - Start the YARN daemons, such as the resource manager, the node manager, and the timeline server, using the start-yarn.sh script.
+  - Start the MRv1 daemons, such as the job tracker and the task tracker, using the start-mapred.sh script.
+  - Submit the MRv1 job using the hadoop jar command, specifying the input and output paths, the mapper and reducer classes, the number of map and reduce tasks, etc.
+  - Monitor the MRv1 job using the web UIs of the resource manager, the job tracker, and the timeline server, or using the hadoop job command.
+  - Stop the MRv1 daemons using the stop-mapred.sh script.
+  - Stop the YARN daemons using the stop-yarn.sh script.

@@ -1,0 +1,16 @@
+### Documentation in Requirement Engineering Process in SRS
+
+- Software Requirements Specification (SRS) is a document that describes the requirements, scope, purpose, functionality, and quality of a software system. It is the output of the requirement engineering process, which involves eliciting, analyzing, validating, and managing the software requirements.
+- The SRS serves as a contract between the development team and the customer, as well as a basis for all the subsequent software engineering activities, such as design, implementation, testing, and maintenance. It also helps to resolve any disagreements or conflicts that may arise in the future regarding the software system.
+- The SRS should be clear, concise, consistent, complete, correct, traceable, verifiable, modifiable, and prioritized. It should also follow a standard format or template, such as IEEE 830-1998, which defines the structure and content of an SRS document.
+- The SRS document typically consists of the following sections:
+
+  - Introduction: This section provides an overview of the SRS document, its purpose, scope, definitions, acronyms, abbreviations, references, and document overview.
+  - Overall Description: This section describes the general factors that affect the software system, such as product perspective, product functions, user characteristics, constraints, assumptions, and dependencies.
+  - Specific Requirements: This section details the specific requirements of the software system, such as functional requirements, non-functional requirements, external interface requirements, performance requirements, design constraints, quality attributes, and security requirements.
+  - Appendices: This section contains any additional information that may be relevant to the SRS document, such as data models, data dictionaries, glossaries, use cases, user stories, scenarios, diagrams, charts, tables, etc.
+  - Index: This section provides an alphabetical list of terms and topics covered in the SRS document, along with their page numbers.
+
+- The SRS document should be written in a clear and precise language, using simple and consistent terminology, avoiding ambiguity, jargon, and technical details. It should also use active voice, present tense, and imperative mood, as well as diagrams, tables, and bullet points to enhance readability and comprehension.
+- The SRS document should be reviewed and approved by all the stakeholders involved in the software project, such as the customer, the users, the developers, the testers, the managers, and the quality assurance team. The review process should ensure that the SRS document meets the quality criteria and the customer's expectations, and that it is aligned with the project objectives and scope.
+- The SRS document should be updated and maintained throughout the software development life cycle, reflecting any changes or modifications that may occur in the software requirements, design, implementation, testing, or deployment. The SRS document should also be version-controlled and traceable, indicating the date, author, and reason for each change.

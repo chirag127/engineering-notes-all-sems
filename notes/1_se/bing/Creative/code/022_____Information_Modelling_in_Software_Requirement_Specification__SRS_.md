@@ -1,0 +1,15 @@
+### Information Modelling in Software Requirement Specification (SRS)
+
+Information modelling is the process of creating a logical representation of the data and information that will be used by the software system. It helps to define the data structures, relationships, constraints, and operations that are relevant to the system's functionality and quality. Information modelling can also include the specification of the data sources, formats, transformations, and validations that are required for the system to interact with external data.
+
+Information modelling is an important part of the software requirement specification (SRS) document, as it provides a clear and consistent description of the data and information requirements of the system. It also helps to avoid ambiguity, inconsistency, and incompleteness in the SRS document. Information modelling can facilitate the communication and collaboration between the stakeholders and the developers, as well as the verification and validation of the system.
+
+There are different methods and techniques for information modelling, such as entity-relationship diagrams, class diagrams, data flow diagrams, data dictionaries, and conceptual schemas. The choice of the information modelling method depends on the nature and complexity of the system, the preferences and skills of the developers, and the standards and tools available. The information modelling method should be compatible with the other parts of the SRS document, such as the functional requirements, the non-functional requirements, and the user interface design.
+
+The information modelling section of the SRS document should include the following elements:
+
+- A description of the scope and purpose of the information modelling, including the objectives, assumptions, and constraints that guide the information modelling process.
+- A definition of the terms and concepts that are used in the information modelling, such as the data entities, attributes, relationships, operations, and rules.
+- A graphical and textual representation of the information model, using the chosen information modelling method. The representation should be clear, concise, and consistent, and should follow the conventions and notations of the information modelling method.
+- A description of the data sources, formats, transformations, and validations that are required for the system to interact with external data, such as databases, files, web services, and sensors. The description should specify the data input and output requirements, the data quality and integrity requirements, and the data security and privacy requirements.
+- A description of the information model validation and verification methods, such as reviews, inspections, tests, and simulations. The description should specify the criteria, procedures, and tools that are used to ensure the correctness, completeness, and consistency of the information model.

@@ -1,0 +1,11 @@
+#### HBase vs RDBMS
+
+HBase and RDBMS are both types of database management systems, but they differ in several ways. Here are some of the main differences between them:
+
+- Data Model: RDBMS uses a relational data model, where data is stored in tables with predefined columns and rows. HBase, on the other hand, uses a column-family data model, where data is stored in column families, which contain columns and rows. HBase is often referred to as a NoSQL database because of its non-relational data model .
+- Scaling: RDBMS is designed to scale vertically, which means adding more resources to a single server. HBase is designed to scale horizontally, which means adding more servers to a cluster. HBase can handle large amounts of data by distributing it across multiple nodes in a Hadoop Distributed File System (HDFS)  .
+- Consistency: RDBMS follows the ACID (Atomicity, Consistency, Isolation, Durability) properties, which ensure that transactions are reliable and consistent. HBase follows the BASE (Basically Available, Soft state, Eventual consistency) properties, which trade off consistency for availability and performance. HBase provides strong consistency within a row, but only eventual consistency across rows  .
+- Speed: RDBMS is optimized for fast and complex queries, such as joins and aggregations, on structured data. HBase is optimized for fast and simple queries, such as key-value lookups, on unstructured or semi-structured data. HBase can perform real-time read/write operations on large data sets  .
+- ACID Compliance: RDBMS is fully ACID compliant, which means it guarantees transaction integrity and referential integrity. HBase is partially ACID compliant, which means it supports atomic and durable operations, but not isolated and consistent operations. HBase does not enforce any constraints or relationships between data  .
+
+Depending on the use case and the data characteristics, one can choose between HBase and RDBMS. RDBMS is more suitable for traditional, transactional applications that require strong consistency, whereas HBase is better suited for big data applications that require horizontal scaling and high-speed processing  .

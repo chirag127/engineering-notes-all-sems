@@ -1,0 +1,19 @@
+#### Internet Addressing in Networking
+
+- Internet addressing is the process of assigning unique identifiers to devices or interfaces that communicate over the internet using the Internet Protocol (IP) or other protocols.
+- Internet addresses are used to route data packets from the source to the destination across different networks or subnetworks.
+- Internet addresses can be of different types, such as IP addresses, MAC addresses, domain names, etc. Each type has its own format, structure, and scope.
+- IP addresses are the most common type of internet addresses. They are numerical labels that consist of four octets (32 bits) in IPv4 or eight groups of four hexadecimal digits (128 bits) in IPv6. Each octet or group represents a part of the network address or the host address.
+- The network address identifies the network or subnetwork to which the device belongs, while the host address identifies the specific device or interface within that network or subnetwork.
+- IP addresses are assigned to devices or interfaces either statically (manually configured) or dynamically (automatically obtained from a server).
+- IP addresses can be classified into different classes based on the size of the network and host parts. The classes are A, B, C, D, and E. Class A has the largest network part and the smallest host part, while class E has the smallest network part and the largest host part. Class D is reserved for multicast addresses, and class E is reserved for experimental purposes.
+- IP addresses can also be divided into public and private addresses. Public addresses are globally unique and routable on the internet, while private addresses are locally unique and not routable on the internet. Private addresses are used for internal networks that are isolated from the internet or connected through a network address translator (NAT).
+- A mnemonic to remember the range of private addresses in IPv4 is APIPA, which stands for Automatic Private IP Addressing. The range is 10.0.0.0/8, 172.16.0.0/12, and 192.168.0.0/16.
+- A mnemonic to remember the range of loopback addresses in IPv4 is 127, which is the first octet of the loopback address 127.0.0.1. Loopback addresses are used to test the connectivity of the local device or interface.
+- MAC addresses are another type of internet addresses. They are hexadecimal labels that consist of six groups of two hexadecimal digits (48 bits) separated by colons or dashes. Each group represents a part of the organizationally unique identifier (OUI) or the device identifier.
+- The OUI identifies the manufacturer or vendor of the device or interface, while the device identifier identifies the specific device or interface within that manufacturer or vendor.
+- MAC addresses are assigned to devices or interfaces by the manufacturer or vendor and are usually fixed and unchangeable. They are used to identify and locate devices or interfaces at the data link layer of the OSI model.
+- Domain names are another type of internet addresses. They are symbolic labels that consist of one or more parts separated by dots. Each part represents a level of hierarchy in the domain name system (DNS).
+- The DNS is a distributed database that maps domain names to IP addresses and other information. It allows users to access internet resources by using human-readable names instead of numerical addresses.
+- The rightmost part of a domain name is the top-level domain (TLD), which identifies the category or country of the domain. The leftmost part of a domain name is the second-level domain (SLD), which identifies the organization or entity that owns the domain. The parts in between are the subdomains, which further specify the structure or function of the domain.
+- A mnemonic to remember the most common TLDs is COMA, which stands for Commercial, Organization, Military, and Academic. The TLDs are .com, .org, .mil, and .edu.

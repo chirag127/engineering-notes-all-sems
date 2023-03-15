@@ -1,0 +1,31 @@
+## Unit 1 - Introduction to Software Engineering
+
+- Software engineering is the process of analyzing user needs and designing, constructing, and testing end user applications that will satisfy these needs through the use of software programming languages.
+- It is the application of engineering principles to software development.
+- Software engineering aims to produce high-quality software that meets the requirements of the customers and users, within the budget and time constraints, and with minimum defects and errors.
+- Software engineering involves various activities, such as:
+  - Software requirements analysis: defining the problem and the scope of the software solution.
+  - Software design: creating a blueprint or a model of the software architecture and components.
+  - Software implementation: writing the source code and documentation of the software.
+  - Software testing: verifying and validating the software functionality and quality.
+  - Software maintenance: fixing bugs, enhancing features, and updating the software to meet changing needs and environments.
+  - Software project management: planning, organizing, coordinating, and controlling the software development process and resources.
+  - Software quality assurance: ensuring that the software meets the standards and specifications of quality and reliability.
+  - Software configuration management: managing the changes and versions of the software and its artifacts.
+  - Software engineering tools and methods: using software tools and techniques to support the software engineering activities, such as modeling, testing, debugging, etc.
+- Software engineering is a multidisciplinary field that requires knowledge and skills from various domains, such as computer science, mathematics, engineering, management, communication, etc.
+- Software engineering is also influenced by the characteristics and challenges of the software itself, such as:
+  - Software is intangible and invisible, making it hard to measure and evaluate.
+  - Software is complex and dynamic, involving many interrelated components and functions.
+  - Software is subject to frequent changes and modifications, due to evolving requirements and technologies.
+  - Software is dependent on the hardware and software platforms, which may vary and change over time.
+  - Software is affected by human factors, such as user expectations, preferences, and behaviors.
+- Software engineering is an evolving and expanding field that adapts to the emerging trends and demands of the software industry and society, such as:
+  - Web and cloud applications: developing software that runs on the internet and distributed systems, using web technologies and services.
+  - Mobile and embedded applications: developing software that runs on portable and specialized devices, such as smartphones, tablets, sensors, etc.
+  - Artificial intelligence and machine learning: developing software that can perform intelligent tasks, such as reasoning, learning, decision making, etc.
+  - Big data and data science: developing software that can collect, store, process, analyze, and visualize large and complex data sets.
+  - Software security and privacy: developing software that can protect the data and systems from unauthorized access and malicious attacks.
+
+- A possible mnemonic to remember the main activities of software engineering is: **RAD TIMPQS** (Requirements, Design, Implementation, Testing, Maintenance, Project management, Quality assurance, and Configuration management).
+- A possible learning trick to understand the difference between software verification and validation is: **Verification is checking if the software is built right, while validation is checking if the right software is built**.

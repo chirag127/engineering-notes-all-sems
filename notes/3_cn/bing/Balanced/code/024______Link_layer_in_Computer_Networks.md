@@ -1,0 +1,12 @@
+#### Link layer in Computer Networks
+
+The link layer is the lowest layer in the TCP/IP model. It is responsible for sending and receiving data frames between nodes on the same network segment. The link layer also handles error detection, flow control and media access control.
+
+The link layer can be divided into two sublayers: the logical link control (LLC) and the media access control (MAC). The LLC sublayer provides a common interface for different network technologies and protocols, such as Ethernet, Wi-Fi, PPP and ATM. The MAC sublayer deals with the physical transmission of data frames over the network medium, such as cables, radio waves or optical fibers. The MAC sublayer also defines how nodes share the medium and avoid collisions, using techniques such as CSMA/CD, CSMA/CA or TDMA.
+
+The link layer can use different protocols and standards depending on the network technology and topology. Some of the common link layer protocols are:
+
+- Ethernet: The most widely used link layer protocol for wired networks. It uses 48-bit MAC addresses to identify nodes and supports various data rates, such as 10 Mbps, 100 Mbps, 1 Gbps and 10 Gbps. Ethernet frames have a fixed format with a preamble, a destination MAC address, a source MAC address, a type field, a payload and a cyclic redundancy check (CRC).
+- Wi-Fi: The most widely used link layer protocol for wireless networks. It uses 48-bit MAC addresses to identify nodes and supports various data rates and standards, such as 802.11a, 802.11b, 802.11g, 802.11n and 802.11ac. Wi-Fi frames have a variable format with a frame control field, a duration field, a destination MAC address, a source MAC address, a BSSID (basic service set identifier), a sequence control field, a payload and a CRC.
+- PPP: The point-to-point protocol is a link layer protocol for serial communication between two nodes, such as a computer and a modem. It supports various network layer protocols, such as IP, IPv6, IPX and AppleTalk. PPP frames have a flag field, an address field, a control field, a protocol field, a payload and a CRC.
+- ATM: The asynchronous transfer mode is a link layer protocol for high-speed and low-latency communication over switched networks. It uses 53-byte cells with a 5-byte header and a 48-byte payload. The header contains a virtual path identifier (VPI) and a virtual channel identifier (VCI) that define the route of the cell through the network. The payload can carry various network layer protocols, such as IP, IPv6, MPLS and Frame Relay.

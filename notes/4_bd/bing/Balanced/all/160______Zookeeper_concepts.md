@@ -1,0 +1,15 @@
+#### Zookeeper concepts
+
+Zookeeper is a distributed application that provides coordination services for distributed systems. It has a simple client-server model in which clients are nodes (machines) that use the services and servers are nodes that provide the services. Some of the services that Zookeeper offers are:
+
+- Naming: Zookeeper allows clients to register and discover nodes in a hierarchical namespace, similar to a file system. This helps clients to locate and communicate with each other in a distributed system.
+- Configuration management: Zookeeper allows clients to store and retrieve configuration data in a centralized and consistent manner. This helps clients to adapt to changes in the system without manual intervention.
+- Synchronization: Zookeeper allows clients to coordinate their actions and access shared resources in a concurrent and fault-tolerant way. This helps clients to avoid conflicts and ensure correctness in the system.
+- Group services: Zookeeper allows clients to form and maintain groups of nodes with common properties or interests. This helps clients to perform tasks such as leader election, load balancing, and cluster management.
+
+Zookeeper has a robust and scalable architecture that consists of the following components:
+
+- Zookeeper servers: These are the nodes that run the Zookeeper service and store the data in a replicated and in-memory database. Zookeeper servers can form an ensemble (a group of servers) to provide high availability and fault tolerance. One of the servers in the ensemble acts as the leader and coordinates the requests from the clients. The other servers are followers and replicate the data from the leader.
+- Zookeeper clients: These are the nodes that connect to the Zookeeper servers and use the services. Zookeeper clients can send requests to any server in the ensemble, but they will receive responses only from the leader. Zookeeper clients maintain a session with the Zookeeper service and receive notifications of changes in the data or the ensemble.
+- Znodes: These are the data nodes that form the hierarchical namespace in Zookeeper. Znodes can store data (up to 1 MB) and have metadata (such as version, timestamp, and access control list). Znodes can be either persistent (remain in the namespace until explicitly deleted) or ephemeral (automatically deleted when the client session ends). Znodes can also have sequential names (automatically appended with a monotonically increasing number) or regular names (specified by the client).
+- Watches: These are the mechanisms that allow clients to monitor changes in the Zookeeper data. Clients can set watches on znodes or their children and receive notifications when the data or the children list changes. Watches are one-time triggers and need to be reset after each notification. Watches help clients to reduce the network traffic and latency by avoiding polling.

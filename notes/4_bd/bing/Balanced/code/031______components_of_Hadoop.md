@@ -1,0 +1,8 @@
+#### Components of Hadoop
+
+Hadoop is an open-source framework that allows distributed processing of large-scale data using clusters of commodity hardware. Hadoop consists of four main components:
+
+- Hadoop Distributed File System (HDFS): A distributed file system that provides high-throughput access to data across the cluster. HDFS stores data in blocks and replicates them across multiple nodes for fault tolerance.
+- Hadoop MapReduce: A programming model and software framework for writing applications that process large amounts of data in parallel on the cluster. MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input key-value pair and produces intermediate key-value pairs. The reduce phase aggregates the intermediate values associated with the same key and produces the final output.
+- Hadoop YARN: A resource management layer that allocates and schedules resources (such as CPU, memory, disk, and network) for applications running on the cluster. YARN consists of two components: a global Resource Manager that arbitrates resources among multiple applications, and a per-node Node Manager that monitors and reports the resource usage of the node.
+- Hadoop Common: A set of common utilities and libraries that support the other Hadoop components. Hadoop Common includes configuration, logging, security, serialization, and I/O modules.

@@ -1,0 +1,19 @@
+#### Hadoop I/O
+
+- Hadoop I/O is a set of primitives for data input and output in Hadoop.
+- Hadoop I/O is designed to handle large-scale data processing efficiently and reliably.
+- Hadoop I/O includes the following components:
+
+  - **Data integrity**: Hadoop I/O uses checksums to detect and correct data corruption caused by faulty disks, network errors, or bugs in the software. Checksums are stored in separate files from the data, and are verified by the Hadoop framework before reading or writing data.
+  - **Compression**: Hadoop I/O supports various compression codecs, such as gzip, bzip2, LZO, and Snappy, to reduce the amount of data that needs to be stored and transferred. Compression can improve the performance and scalability of Hadoop applications, as well as save disk space and network bandwidth. Hadoop I/O also supports splittable compression formats, such as bzip2 and LZO, which allow MapReduce tasks to process compressed files in parallel.
+  - **Serialization**: Hadoop I/O provides a mechanism for converting data objects into a binary format that can be stored or transmitted over the network. Serialization is used by MapReduce programs to generate keys and values for the map and reduce functions. Hadoop I/O supports several serialization frameworks, such as Writables, Avro, Thrift, and Protocol Buffers, each with different trade-offs in terms of performance, compactness, and interoperability.
+  - **File formats**: Hadoop I/O defines several file formats for storing and organizing data in Hadoop. Some of the common file formats are:
+
+    - **SequenceFile**: A binary file format that stores key-value pairs in a sequence. SequenceFile is suitable for storing small or medium-sized files that are often read or written by MapReduce programs. SequenceFile supports compression, synchronization, and metadata.
+    - **MapFile**: A file format that extends SequenceFile by adding an index to allow random access to the key-value pairs. MapFile is suitable for storing large files that are frequently queried by MapReduce programs. MapFile supports compression, synchronization, and metadata.
+    - **SetFile**: A file format that extends MapFile by storing only the keys, and using a Bloom filter to test the membership of a given key. SetFile is suitable for storing large sets of keys that are rarely updated or deleted. SetFile supports compression, synchronization, and metadata.
+    - **ArrayFile**: A file format that extends SequenceFile by storing only the values, and using a binary search to locate a given value. ArrayFile is suitable for storing large arrays of values that are sorted and unique. ArrayFile supports compression, synchronization, and metadata.
+    - **RCFile**: A file format that stores data in a columnar format, where each file consists of a header and multiple blocks. Each block contains a set of rows, and each row is divided into columns. RCFile is suitable for storing large tables that are often queried by MapReduce or Hive programs. RCFile supports compression and synchronization.
+    - **ORCFile**: A file format that improves upon RCFile by adding more features, such as indexes, statistics, dictionaries, and run-length encoding. ORCFile is suitable for storing large tables that are optimized for query performance by MapReduce or Hive programs. ORCFile supports compression and synchronization.
+
+- Hadoop I/O also provides various APIs and utilities for working with the above components, such as InputFormat, OutputFormat, RecordReader, RecordWriter, CompressionCodec, CompressionInputStream, CompressionOutputStream, WritableComparator, WritableUtils, and so on.

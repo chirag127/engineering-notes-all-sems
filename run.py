@@ -27,3 +27,8 @@ with ThreadPoolExecutor() as executor:
 
 # for f in files:
 #     os.system(f"python {f}")
+
+
+os.system("python 06_merge_markdowns.py")
+
+os.system("python 07_convert_all_markdown_to_pdf.py")

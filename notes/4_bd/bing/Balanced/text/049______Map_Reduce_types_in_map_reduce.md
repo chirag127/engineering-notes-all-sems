@@ -1,0 +1,23 @@
+#### Map Reduce types in map reduce
+
+MapReduce is a programming model for processing large-scale data sets in parallel and distributed manner. It consists of two main functions: map and reduce. The map function takes an input key-value pair and produces a list of intermediate key-value pairs. The reduce function takes an intermediate key and a list of values associated with that key, and produces a list of output key-value pairs.
+
+The types of the input and output key-value pairs for the map and reduce functions can be different, depending on the application logic and the data format. The MapReduce framework provides a set of predefined types and formats for common use cases, as well as the ability to define custom types and formats.
+
+Some of the predefined types and formats are:
+
+- **Text**: A type that represents a sequence of characters. It can be used for both keys and values. The format for text is a plain text file, where each line is a record. The key and value are separated by a tab character.
+- **LongWritable**: A type that represents a 64-bit integer. It can be used for both keys and values. The format for long is a binary file, where each record is a fixed-length byte array.
+- **IntWritable**: A type that represents a 32-bit integer. It can be used for both keys and values. The format for int is a binary file, where each record is a fixed-length byte array.
+- **FloatWritable**: A type that represents a 32-bit floating-point number. It can be used for both keys and values. The format for float is a binary file, where each record is a fixed-length byte array.
+- **DoubleWritable**: A type that represents a 64-bit floating-point number. It can be used for both keys and values. The format for double is a binary file, where each record is a fixed-length byte array.
+- **BooleanWritable**: A type that represents a boolean value. It can be used for both keys and values. The format for boolean is a binary file, where each record is a single byte.
+- **BytesWritable**: A type that represents a variable-length byte array. It can be used for both keys and values. The format for bytes is a binary file, where each record is prefixed by a 4-byte integer that indicates the length of the byte array.
+- **ArrayWritable**: A type that represents an array of writable objects. It can be used for both keys and values. The format for array is a binary file, where each record is prefixed by a 4-byte integer that indicates the number of elements in the array, followed by the serialized elements.
+- **MapWritable**: A type that represents a map of writable objects. It can be used for both keys and values. The format for map is a binary file, where each record is prefixed by a 4-byte integer that indicates the number of entries in the map, followed by the serialized key-value pairs.
+- **SequenceFile**: A format that stores a sequence of key-value pairs in a compressed binary file. It can be used for both input and output. The key and value types can be any writable types. The compression can be either record-level or block-level. SequenceFile is suitable for storing large and complex data sets that need to be processed efficiently.
+- **TextInputFormat**: A format that reads plain text files as input. The key type is LongWritable, which represents the byte offset of the line in the file. The value type is Text, which represents the content of the line.
+- **KeyValueTextInputFormat**: A format that reads plain text files as input. The key type and value type are both Text, which represent the key and value separated by a tab character in each line.
+- **NLineInputFormat**: A format that reads plain text files as input. The key type is LongWritable, which represents the byte offset of the first line in the split. The value type is Text, which represents the content of N lines in the split. The number of lines per split can be specified by the user.
+- **FileInputFormat**: An abstract class that defines the common functionality for input formats that read files. It handles the splitting of files into logical input splits, and the creation of record readers for each split. Subclasses of FileInputFormat need to implement the methods getRecordReader and isSplitable.
+- **FileOutputFormat**: An abstract class that defines the common functionality for output formats that write files. It handles the creation of output files and directories, and the setting of compression options. Subclasses of FileOutputFormat need to implement the method getRecordWriter.

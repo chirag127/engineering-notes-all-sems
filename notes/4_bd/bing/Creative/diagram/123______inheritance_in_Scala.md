@@ -1,0 +1,32 @@
+#### Inheritance in Scala
+
+- Inheritance is a mechanism that allows a class to inherit the members (fields and methods) of another class.
+- The class that inherits the members is called the **subclass** or the **derived class**.
+- The class that provides the members is called the **superclass** or the **base class**.
+- In Scala, a subclass can inherit from a superclass using the `extends` keyword.
+- For example, `class Dog extends Animal` means that the class `Dog` is a subclass of the class `Animal`.
+- A subclass can access the members of its superclass using the `super` keyword.
+- For example, `super.eat()` means that the subclass calls the `eat` method of its superclass.
+- A subclass can override the members of its superclass using the `override` keyword.
+- For example, `override def speak(): Unit = println("Woof")` means that the subclass defines its own `speak` method that replaces the one inherited from the superclass.
+- A subclass can also define its own members that are not present in the superclass.
+- For example, `def fetch(): Unit = println("Fetching")` means that the subclass defines a new method `fetch` that is specific to the class `Dog`.
+- In Scala, a class can inherit from only one superclass, but it can implement multiple **traits**.
+- A trait is a collection of abstract or concrete members that can be mixed in with a class.
+- A trait can be defined using the `trait` keyword.
+- For example, `trait Flyable` means that the trait `Flyable` is defined.
+- A trait can have abstract members that must be implemented by the classes that mix in the trait.
+- For example, `def fly(): Unit` means that the trait `Flyable` has an abstract method `fly` that must be defined by the classes that mix in the trait.
+- A trait can also have concrete members that provide default implementations for the classes that mix in the trait.
+- For example, `def land(): Unit = println("Landing")` means that the trait `Flyable` has a concrete method `land` that can be used by the classes that mix in the trait.
+- A class can mix in a trait using the `with` keyword.
+- For example, `class Bird extends Animal with Flyable` means that the class `Bird` is a subclass of the class `Animal` and also mixes in the trait `Flyable`.
+- A class can mix in multiple traits using multiple `with` keywords.
+- For example, `class Parrot extends Bird with Talkative` means that the class `Parrot` is a subclass of the class `Bird` and also mixes in the traits `Flyable` and `Talkative`.
+- A class that mixes in a trait must implement all the abstract members of the trait, unless the class is also abstract.
+- For example, `class Eagle extends Bird` means that the class `Eagle` must implement the `fly` method of the trait `Flyable`, since it is a concrete class that mixes in the trait `Flyable`.
+- A class that mixes in a trait can override the concrete members of the trait, or use the default implementations provided by the trait.
+- For example, `class Penguin extends Bird` means that the class `Penguin` can either override the `fly` and `land` methods of the trait `Flyable`, or use the default implementations provided by the trait `Flyable`.
+- A class that mixes in a trait can access the members of the trait using the `super` keyword, or the name of the trait followed by a dot.
+- For example, `super.fly()` or `Flyable.fly()` means that the class calls the `fly` method of the trait `Flyable`.
+- In Scala, multiple inheritance is achieved by using traits, since a class can mix in multiple traits, but inherit from only one superclass.

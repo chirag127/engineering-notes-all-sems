@@ -1,0 +1,39 @@
+#### The OSI reference model in in Computer Networks
+
+- The OSI (Open Systems Interconnection) model is a reference model for how applications communicate over a network.
+- It was developed by the International Organization for Standardization (ISO) in 1980.
+- It consists of seven layers, each of which performs a specific function in the communication process.
+- The layers are, from bottom to top:
+  - Layer 1: Physical layer
+    - This layer defines the physical characteristics of the transmission medium, such as voltage levels, connectors, cables, etc.
+    - It also deals with the transmission and reception of raw bits over the medium.
+    - Examples of devices that operate at this layer are hubs, repeaters, and network interface cards (NICs).
+  - Layer 2: Data link layer
+    - This layer provides reliable and error-free transmission of data frames between adjacent nodes on the same network segment.
+    - It also handles the addressing, framing, and flow control of data packets.
+    - Examples of devices that operate at this layer are switches, bridges, and network interface cards (NICs).
+  - Layer 3: Network layer
+    - This layer provides logical addressing and routing of data packets across different networks or subnets.
+    - It also handles the fragmentation and reassembly of packets, as well as the congestion control and quality of service (QoS) of the network.
+    - Examples of devices that operate at this layer are routers, firewalls, and network interface cards (NICs).
+  - Layer 4: Transport layer
+    - This layer provides end-to-end communication between applications on different hosts.
+    - It also handles the segmentation and reassembly of data streams, as well as the error detection and correction, and flow control of the communication.
+    - Examples of protocols that operate at this layer are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+  - Layer 5: Session layer
+    - This layer establishes, maintains, and terminates sessions between applications on different hosts.
+    - It also handles the synchronization, authentication, and authorization of the communication.
+    - Examples of protocols that operate at this layer are RPC (Remote Procedure Call) and NFS (Network File System).
+  - Layer 6: Presentation layer
+    - This layer provides the translation, encryption, and compression of data between different formats and standards.
+    - It also handles the representation and interpretation of data for the application layer.
+    - Examples of protocols that operate at this layer are SSL (Secure Sockets Layer) and MIME (Multipurpose Internet Mail Extensions).
+  - Layer 7: Application layer
+    - This layer provides the interface and services for the user applications to access the network resources.
+    - It also handles the high-level functions and protocols of the communication.
+    - Examples of protocols that operate at this layer are HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), and SMTP (Simple Mail Transfer Protocol).
+
+- The OSI model is useful for understanding the functions and interactions of different network components and protocols.
+- It also provides a common framework and terminology for network design and troubleshooting.
+- However, the OSI model is not a strict standard that all network devices and protocols must follow. Some protocols may span across multiple layers, or omit some layers altogether.
+- A common mnemonic to remember the names and order of the OSI layers is "Please Do Not Throw Sausage Pizza Away", where the first letter of each word corresponds to the first letter of each layer.

@@ -1,0 +1,10 @@
+#### IBM Big Data strategy
+
+- IBM Big Data strategy is a corporate initiative that aims to provide solutions for storing, managing, and analyzing the large volumes of data generated daily by various sources, such as social media, sensors, mobile devices, etc. 
+- IBM Big Data strategy is part of its Smarter Planet vision, which seeks to leverage smarter systems and technologies to achieve economic and social progress and sustainability.
+- IBM Big Data strategy consists of four key components: Big Data platform, Big Data analytics, Big Data applications, and Big Data services.
+  - Big Data platform: IBM offers a range of products and tools to help organizations build and operate data lakes, data warehouses, and data integration pipelines, using both on-premise and cloud-based solutions. Some of the products include IBM Cloud Pak for Data, IBM Db2, IBM InfoSphere, IBM Netezza, IBM Watson Studio, etc. 
+  - Big Data analytics: IBM provides solutions for advanced analytics, such as machine learning, artificial intelligence, natural language processing, and data visualization, to help organizations gain insights and value from their data. Some of the solutions include IBM Watson, IBM Cognos, IBM SPSS, IBM Cloud Pak for Data, etc. 
+  - Big Data applications: IBM develops and delivers industry-specific and cross-industry applications that leverage Big Data analytics to solve business problems and create opportunities. Some of the applications include IBM Watson Health, IBM Watson IoT, IBM Watson Commerce, IBM Watson Marketing, etc. 
+  - Big Data services: IBM offers consulting, implementation, and support services to help organizations design and execute their Big Data strategy, from data governance and quality to data security and privacy. Some of the services include IBM Data and AI Expert Labs, IBM Data Science and AI Elite Team, IBM Cloud Pak for Data System, etc. 
+- IBM Big Data strategy aims to help organizations achieve various benefits, such as improved decision making, enhanced customer experience, increased operational efficiency, reduced costs, and new revenue streams.

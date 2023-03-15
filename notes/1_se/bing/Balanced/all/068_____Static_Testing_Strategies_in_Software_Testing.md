@@ -1,0 +1,24 @@
+### Static Testing Strategies in Software Testing
+
+- Static testing is a software testing method that examines a program and its associated documents without executing the code. It is done to find and remove errors and ambiguities in the software development cycle and thus reduce the cost of fixing them later.
+- Static testing can be performed in two main ways: review and static analysis.
+- Review is a manual examination of the code and the documents by the developers, testers, or other stakeholders. It can be done in different forms, such as:
+  - Informal review: A casual and unstructured discussion of the code or document with no formal records or outcomes.
+  - Walkthrough: A formal meeting where the author of the code or document presents it to the reviewers and solicits feedback and suggestions.
+  - Technical review: A formal meeting where a group of technical experts evaluates the code or document against predefined criteria and standards.
+  - Inspection: A formal and rigorous process where a group of trained inspectors follows a checklist of rules and guidelines to identify defects and deviations in the code or document.
+- Static analysis is an automated examination of the code and the documents by using tools that check for syntax errors, coding standards, complexity, security vulnerabilities, etc. It can be done in different stages, such as:
+  - Code analysis: A tool scans the source code and reports any errors, warnings, or suggestions for improvement.
+  - Design analysis: A tool analyzes the design documents and diagrams and checks for consistency, completeness, and feasibility.
+  - Requirement analysis: A tool verifies the requirement specifications and ensures that they are clear, testable, and traceable.
+- Static testing has several advantages, such as:
+  - It can detect defects early in the development cycle and prevent them from propagating to later stages.
+  - It can improve the quality and reliability of the software by reducing the number of defects and rework.
+  - It can save time and resources by avoiding unnecessary testing and debugging of faulty code or documents.
+  - It can enhance the communication and collaboration among the development team and the stakeholders by providing feedback and suggestions.
+  - It can facilitate the compliance with standards and regulations by ensuring that the code and documents follow the best practices and guidelines.
+- Static testing has some limitations, such as:
+  - It cannot verify the functionality or performance of the software by executing the code or simulating the user scenarios.
+  - It may not detect all the defects or errors in the code or documents, especially those that are related to logic, data flow, or integration.
+  - It may require specialized tools and skills to perform the static analysis and interpret the results.
+  - It may generate false positives or negatives, which are incorrect or misleading reports of defects or errors.

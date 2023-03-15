@@ -1,0 +1,13 @@
+#### TCP Transport layer protocol
+
+- TCP stands for Transmission Control Protocol. It is a transport layer protocol that facilitates the transmission of packets from source to destination.
+- TCP is a connection-oriented protocol that means it establishes the connection prior to the communication that occurs between the computing devices in a network.
+- TCP is a reliable protocol as it follows the flow and error control mechanism. It also supports the acknowledgment mechanism, which checks the state and sound arrival of the data.
+- TCP uses a three-way handshake to establish a connection between the sender and the receiver. The three steps are: SYN, SYN-ACK, and ACK .
+- TCP uses a sliding window protocol to control the flow of data. The sender maintains a window of packets that it can send without waiting for an acknowledgment. The receiver maintains a window of packets that it can receive and acknowledge. The size of the window can vary depending on the network conditions .
+- TCP uses a checksum to detect errors in the packets. The checksum is a value calculated from the data in the packet. The sender adds the checksum to the packet header and the receiver verifies it. If the checksum does not match, the receiver discards the packet and requests a retransmission .
+- TCP uses a sequence number and an acknowledgment number to identify and acknowledge the packets. The sequence number is the number of the first byte in the packet. The acknowledgment number is the number of the next expected byte. The sender and the receiver use these numbers to keep track of the data transfer .
+- TCP uses a timer to handle timeouts and retransmissions. The timer is set when a packet is sent and reset when an acknowledgment is received. If the timer expires before an acknowledgment is received, the sender assumes that the packet is lost and retransmits it .
+- TCP uses a congestion control mechanism to avoid overloading the network. The congestion control mechanism adjusts the window size and the transmission rate based on the feedback from the network. The feedback can be implicit, such as packet loss or delay, or explicit, such as congestion notification messages .
+- TCP supports various options and features, such as urgent data, selective acknowledgments, window scaling, timestamps, and multipath TCP .
+- TCP is widely used for applications that require reliable and ordered delivery of data, such as web browsing, email, file transfer, and remote login .

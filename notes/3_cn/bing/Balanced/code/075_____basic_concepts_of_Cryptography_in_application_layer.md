@@ -1,0 +1,14 @@
+### Basic concepts of Cryptography in application layer
+
+Cryptography is the science of securing communications by transforming plain text data into encrypted text that is unintelligible to unauthorized parties, and vice versa. Cryptography can provide confidentiality, integrity and authenticity to the data transmitted or stored in applications. Cryptography can be divided into two main types: symmetric and asymmetric.
+
+Symmetric cryptography uses the same key for both encryption and decryption. The key must be shared between the sender and the receiver in a secure way, which is known as the key distribution problem. Symmetric cryptography is fast and efficient, but it is vulnerable to brute force attacks and key compromise. Some examples of symmetric algorithms are AES, DES, and RC4.
+
+Asymmetric cryptography, or public key cryptography, uses a pair of keys instead of a single one. One key is private and kept secret by the owner, while the other key is public and can be shared with anyone. The public key can be used to encrypt data, which can only be decrypted by the private key. The private key can also be used to sign data, which can be verified by the public key. Asymmetric cryptography solves the key distribution problem, but it is slower and more complex than symmetric cryptography. Some examples of asymmetric algorithms are RSA, ECC, and DSA.
+
+Cryptography can be applied in various layers of the network stack, such as the physical, data link, network, transport, and application layers. The application layer is the highest level of abstraction, where the user interacts with the software. Cryptography can be used in the application layer to protect the data from adversaries who may intercept, modify, or impersonate the communication. Some examples of applications that use cryptography are:
+
+- Email: Email applications can use cryptography to encrypt the content and attachments of the messages, as well as to sign them for authenticity. Some protocols that support email encryption are PGP, S/MIME, and OpenPGP.
+- Web: Web applications can use cryptography to establish secure connections between the browser and the server, as well as to encrypt the data exchanged. Some protocols that support web encryption are SSL, TLS, and HTTPS.
+- Messaging: Messaging applications can use cryptography to encrypt the text, voice, and video messages, as well as to authenticate the sender and the receiver. Some protocols that support messaging encryption are Signal, WhatsApp, and Telegram.
+- Cloud: Cloud applications can use cryptography to encrypt the data stored or processed in the cloud, as well as to control the access and sharing of the data. Some protocols that support cloud encryption are AES, RSA, and HMAC.

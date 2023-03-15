@@ -1,0 +1,22 @@
+## Unit 5 - Servlets
+
+- Servlets are Java programs that run on a web server and handle HTTP requests and responses.
+- They are used to create dynamic web content and interact with web clients.
+- Servlets are managed by a servlet container, which is part of a web server.
+- The servlet container is responsible for managing the lifecycle of servlets, including initialization, request handling, and destruction.
+- Servlets can be configured using annotations or through a deployment descriptor (web.xml file).
+- The `javax.servlet` and `javax.servlet.http` packages provide the necessary classes and interfaces for creating servlets.
+- The `HttpServlet` class is a commonly used base class for creating HTTP servlets.
+- Servlets can handle various types of requests, including GET, POST, PUT, DELETE, and others.
+- The `doGet` and `doPost` methods are used to handle GET and POST requests, respectively.
+- Servlets can generate responses in various formats, including HTML, XML, JSON, and others.
+- The `HttpServletResponse` object is used to set the response status, headers, and content.
+- Servlets can also interact with other components, such as databases and web services, to provide dynamic content.
+- The `ServletContext` object provides access to the web application's environment and resources.
+- Servlets can also use session management and cookies to maintain state information across multiple requests.
+- The `HttpSession` object is used to store and retrieve session data.
+- Servlets can also use filters to preprocess and postprocess requests and responses.
+- Filters can be used for various purposes, such as authentication, logging, and compression.
+- The `Filter` and `FilterChain` interfaces are used to create and manage filters.
+- Servlets can also use listeners to receive notifications about events in the web application.
+- The `ServletContextListener`, `HttpSessionListener`, and `ServletRequestListener` interfaces are used to create listeners for various types of events.

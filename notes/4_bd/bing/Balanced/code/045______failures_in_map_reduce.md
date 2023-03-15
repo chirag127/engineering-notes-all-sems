@@ -1,0 +1,10 @@
+#### Failures in MapReduce
+
+MapReduce is a programming model for processing large-scale data sets in parallel and distributed environments. It consists of two phases: map and reduce. In the map phase, each input data item is transformed into a set of intermediate key-value pairs by a user-defined function. In the reduce phase, the intermediate key-value pairs are grouped by key and processed by another user-defined function to produce the final output.
+
+One of the challenges of MapReduce is to handle failures gracefully and efficiently. Failures can occur at different levels: worker nodes, tasks, network, etc. MapReduce uses several techniques to cope with failures, such as:
+
+- **Replication**: The input data is replicated across multiple nodes to ensure availability and fault tolerance. If a node fails, another node can access the same data and continue the computation.
+- **Speculation**: The master node monitors the progress of the worker nodes and detects slow or straggling tasks. It can launch speculative copies of these tasks on other nodes to speed up the execution. If the original task finishes first, the speculative copy is killed. If the speculative copy finishes first, the original task is killed.
+- **Checkpointing**: The intermediate data produced by the map tasks is written to local disks and replicated to other nodes. If a map task fails, it can be re-executed using the checkpointed data. The reduce tasks can also read the checkpointed data from any node that has a copy.
+- **Recovery**: The master node keeps track of the status of the worker nodes and the tasks. If a worker node fails, the master node re-assigns its tasks to other nodes. If a task fails, the master node re-launches it on another node. The master node can also recover from its own failure by using a backup node that has a copy of its state.

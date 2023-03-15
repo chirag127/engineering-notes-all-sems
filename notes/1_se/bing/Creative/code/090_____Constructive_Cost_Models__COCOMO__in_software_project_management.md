@@ -1,0 +1,24 @@
+### Constructive Cost Models (COCOMO) in software project management
+
+- COCOMO stands for **Constructive Cost Model**  , which is a **regression model** based on the **number of lines of code (LOC)**  of a software project.
+- COCOMO is used to **estimate** or **predict** the **effort**, **cost**, **time**, and **quality** of a software project .
+- COCOMO was developed by **Barry W. Boehm** and has two versions: **COCOMO 81** and **COCOMO II**.
+- COCOMO 81 has three sub-models: **Basic**, **Intermediate**, and **Detailed** .
+  - Basic COCOMO uses a simple formula to estimate the effort and duration of a project based on the LOC and a mode factor that reflects the project type (organic, semi-detached, or embedded) .
+  - Intermediate COCOMO adds cost drivers to the basic formula to account for the influence of various attributes of the project, such as product complexity, personnel capability, development environment, etc. .
+  - Detailed COCOMO further divides the project into different phases and modules and applies the intermediate formula to each of them separately .
+- COCOMO II is an updated and improved version of COCOMO 81 that can handle more types of software projects, such as object-oriented, web-based, or agile.
+  - COCOMO II has four sub-models: **Application Composition**, **Early Design**, **Post-Architecture**, and **Reuse**.
+  - Application Composition COCOMO uses object points instead of LOC to estimate the effort and duration of a project that is composed of reusable components or rapid application development tools.
+  - Early Design COCOMO uses function points or unadjusted function points to estimate the effort and duration of a project in the early stages of development, before the architecture is defined.
+  - Post-Architecture COCOMO uses the same formula as Intermediate COCOMO 81, but with revised and expanded cost drivers and mode factors to estimate the effort and duration of a project after the architecture is defined.
+  - Reuse COCOMO estimates the effort and duration of a project that reuses existing components or code from other projects, by adjusting the size and cost drivers according to the degree of reuse.
+- COCOMO has some **advantages** and **disadvantages** as a software cost estimation model.
+  - Advantages:
+    - COCOMO is based on empirical data from historical projects, which makes it more reliable and realistic than other models .
+    - COCOMO can handle different types and sizes of software projects, by using different sub-models and parameters .
+    - COCOMO can provide estimates at different levels of detail and accuracy, depending on the available information and the stage of development .
+  - Disadvantages:
+    - COCOMO relies on the number of lines of code, which is not a consistent or accurate measure of software size or complexity, as it can vary depending on the programming language, coding style, or level of abstraction.
+    - COCOMO assumes a linear relationship between the size and the effort of a software project, which may not hold true for very large or complex projects that have nonlinear effects such as communication overhead, integration difficulties, or quality issues.
+    - COCOMO may not reflect the current trends and practices of software development, such as agile methods, cloud computing, or artificial intelligence, which may require different cost drivers and mode factors.

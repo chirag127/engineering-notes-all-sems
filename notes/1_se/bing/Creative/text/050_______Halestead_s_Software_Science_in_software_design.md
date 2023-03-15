@@ -1,0 +1,23 @@
+##### Halestead’s Software Science in software design
+
+- Halestead’s Software Science is a method of measuring the complexity and quality of software based on the number and types of operators and operands in the source code  .
+- Operators are the basic syntactic units that perform some action, such as arithmetic operators, logical operators, assignment operators, etc. Operands are the basic syntactic units that are acted upon by the operators, such as variables, constants, literals, etc  .
+- Halestead’s Software Science defines the following metrics for a program    :
+  - n1: the number of distinct operators
+  - n2: the number of distinct operands
+  - N1: the total number of operators
+  - N2: the total number of operands
+  - N: the program length, which is the sum of N1 and N2
+  - n: the program vocabulary, which is the sum of n1 and n2
+  - V: the program volume, which measures the size of the information content of the program. It is calculated as V = N * log2(n)
+  - L: the program level, which measures the inverse of the error proneness of the program. It is calculated as L = (2 * n2) / (n1 * N2)
+  - D: the program difficulty, which measures the effort required to understand the program. It is calculated as D = 1 / L = (n1 * N2) / (2 * n2)
+  - E: the program effort, which measures the amount of mental activity needed to implement or maintain the program. It is calculated as E = D * V
+  - T: the program time, which measures the time required to write or debug the program. It is estimated as T = E / 18 seconds
+  - B: the number of delivered bugs, which measures the expected number of errors in the program. It is estimated as B = E^(2/3) / 3000
+- Halestead’s Software Science is based on the following hypotheses    :
+  - The length of a well-structured program is a function only of the number of unique operators and operands. The estimated program length is denoted by N^ and calculated as N^ = n1 * log2(n1) + n2 * log2(n2)
+  - The potential minimum volume of a program is achieved when the program has only one operator and one operand. The potential minimum volume is denoted by V^ and calculated as V^ = log2(2) = 1 bit
+  - The program level is inversely proportional to the program difficulty. The maximum program level is achieved when the program has the same number of unique operators and operands, and the same number of total operators and operands. The maximum program level is denoted by L^ and calculated as L^ = 1
+  - The program effort is proportional to the program difficulty and the program volume. The minimum program effort is achieved when the program has the minimum volume and the maximum level. The minimum program effort is denoted by E^ and calculated as E^ = V^ * D^ = 1 bit
+- Halestead’s Software Science can be used to evaluate the software design in terms of complexity, readability, maintainability, and quality. It can also be used to estimate the development time and the number of errors in the software     .

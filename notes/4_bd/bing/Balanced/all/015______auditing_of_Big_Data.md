@@ -1,0 +1,23 @@
+#### Auditing of Big Data
+
+- Big data is the term used to describe large and complex data sets that are generated from various sources and require advanced techniques and technologies to process, analyze and derive value from them .
+- Auditing of big data involves the application of audit principles and methods to assess the quality, reliability, security and integrity of big data and the processes and systems that produce and use them  .
+- Auditing of big data can help auditors to:
+  - Expand the scope and depth of their audit projects by using larger and more diverse data populations .
+  - Enhance the efficiency and effectiveness of their audit procedures by using automation and artificial intelligence to perform data extraction, transformation, analysis and visualization  .
+  - Provide more valuable insights and recommendations to the stakeholders by identifying patterns, trends, anomalies, risks and opportunities in big data  .
+  - Support the assurance and advisory roles of internal audit by helping the organization to address the risks and challenges associated with big data and to design and implement the necessary controls and governance mechanisms  .
+- Auditing of big data also poses some challenges and issues for auditors, such as:
+  - Knowing what data is available and how to use it for audit purposes.
+  - Accessing data that might be sensitive, confidential, proprietary or regulated .
+  - Combining and integrating data from different systems, sources and formats into one for analysis .
+  - Learning how to combine structured data (e.g., transactions, records, logs) with unstructured data (e.g., emails, social media, images, videos) for audit purposes .
+  - Ensuring the completeness, accuracy, validity and relevance of the data and the analysis results  .
+  - Developing the skills and competencies to use the appropriate tools and techniques for big data audit  .
+  - Communicating the audit findings and recommendations in a clear, concise and understandable manner  .
+- A possible mnemonic to remember the benefits and challenges of auditing big data is **BASIC**:
+  - **B**enefits: Scope, Efficiency, Effectiveness, Insights, Assurance, Advisory
+  - **A**vailability: What data is available and how to use it
+  - **S**ecurity: How to access and protect sensitive data
+  - **I**ntegration: How to combine and integrate data from different sources and formats
+  - **C**ompetence: How to ensure the quality and reliability of data and analysis and how to communicate the results

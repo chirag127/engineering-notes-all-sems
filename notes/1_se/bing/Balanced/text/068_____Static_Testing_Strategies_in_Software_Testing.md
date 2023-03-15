@@ -1,0 +1,9 @@
+### Static Testing Strategies in Software Testing
+
+Static testing is a software testing technique that involves the examination of the software artifacts without executing them. Static testing can be performed at any stage of the software development life cycle, but it is more effective when done early. Static testing can help to detect defects, improve quality, reduce costs, and save time.
+
+Some of the common static testing strategies are:
+
+- **Reviews**: Reviews are formal or informal evaluations of the software artifacts by a group of people. Reviews can be conducted by peers, managers, customers, or external experts. Reviews can be classified into different types, such as walkthroughs, inspections, audits, or technical reviews. Reviews can help to identify errors, inconsistencies, ambiguities, or deviations from standards in the software artifacts.
+- **Static analysis**: Static analysis is the automated analysis of the software artifacts by using tools or techniques. Static analysis can be performed on the source code, design documents, test cases, or configuration files. Static analysis can help to detect syntax errors, logical errors, coding standards violations, security vulnerabilities, or potential defects in the software artifacts.
+- **Static testing metrics**: Static testing metrics are the quantitative measures of the software artifacts or the static testing process. Static testing metrics can help to evaluate the quality, complexity, maintainability, or reliability of the software artifacts. Static testing metrics can also help to monitor the progress, efficiency, or effectiveness of the static testing process. Some examples of static testing metrics are lines of code, cyclomatic complexity, defect density, or review coverage.

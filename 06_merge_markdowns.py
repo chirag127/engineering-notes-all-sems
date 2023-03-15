@@ -5,19 +5,11 @@ import re
 
 
 def main():
-    a = "notes/*/*/*/*/"
-    files = glob.glob(a, recursive=True)
-
-    "notes/poe/1_se/a2/000_#_Software_Engineering.md"
-
-    a = "notes/poe/*/*/"
-    files = files + glob.glob(a, recursive=True)
+    # a = "notes/
+    all_folders_in_notes_folder = glob.glob("notes/**/", recursive=True)
 
 
-    print(files)
-    # return files
-
-    for folder in files:
+    for folder in all_folders_in_notes_folder:
         if os.path.isdir(folder):
             print(folder)
         else:

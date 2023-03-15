@@ -1,0 +1,22 @@
+## Unit 1 - Introduction to Software Engineering
+
+- Software engineering is the discipline of applying engineering principles and practices to the design, development, testing, and maintenance of software systems.
+- Software engineering aims to produce software that is reliable, efficient, secure, usable, and meets the needs and expectations of the stakeholders.
+- Software engineering involves various activities, such as:
+  - Requirements engineering: eliciting, analyzing, specifying, and validating the software requirements.
+  - Design: creating the software architecture and design that satisfies the requirements and constraints.
+  - Implementation: coding, debugging, and testing the software components and modules.
+  - Integration: combining the software components and modules into a coherent system.
+  - Deployment: delivering, installing, and configuring the software system for the end users.
+  - Maintenance: correcting, improving, and evolving the software system over time.
+  - Project management: planning, organizing, coordinating, and controlling the software development process and resources.
+  - Quality assurance: ensuring that the software meets the quality standards and criteria.
+  - Configuration management: managing the changes and versions of the software artifacts and documents.
+  - Risk management: identifying, analyzing, and mitigating the potential risks and uncertainties in the software development process.
+  - Process improvement: assessing, measuring, and improving the software development process and practices.
+- Software engineering is influenced by various factors, such as:
+  - Software characteristics: the properties and attributes of the software, such as functionality, performance, reliability, security, usability, portability, etc.
+  - Software development models: the approaches and methods for organizing and conducting the software development process, such as waterfall, agile, iterative, incremental, spiral, etc.
+  - Software development tools: the software and hardware tools that support and facilitate the software development activities, such as editors, compilers, debuggers, testing tools, configuration management tools, etc.
+  - Software development standards: the norms and guidelines that define the best practices and conventions for software engineering, such as IEEE, ISO, CMMI, etc.
+  - Software development ethics: the moral and professional principles and values that guide the behavior and decisions of software engineers, such as honesty, integrity, responsibility, respect, etc.

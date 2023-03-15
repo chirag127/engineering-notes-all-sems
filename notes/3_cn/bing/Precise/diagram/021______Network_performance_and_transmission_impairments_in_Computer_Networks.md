@@ -1,0 +1,9 @@
+#### Network performance and transmission impairments in Computer Networks
+
+Network performance refers to the level of quality of service of a telecommunications product as seen by the customer. It should not be seen merely as an attempt to get "more through" the network. Transmission impairments are factors that cause the quality of data transmission to be reduced. Impairments may be called noise or anything else that might cause an error in data transmission.
+
+There are various kinds of transmission impairments in the network while transferring data and information through the network. The signal needs transmission media to travel from sender to receiver. The transmission media have some imperfection which causes transmission impairment. The reason behind the transmission impairment is attenuation, distortion, and noise.
+
+The signal received may differ from the signal transmitted. The effect will degrade the signal quality for analog signals and introduce bit errors for digital signals. In a wavelength-routed optical network, a transmitted signal remains in the optical domain over the entire route (lightpath) assigned to it between its source and destination nodes. The optical signal may have to traverse a number of crossconnect switches (XCSs), fiber segments, and optical amplifiers, e.g., erbium-doped fiber amplifiers (EDFAs).
+
+Transmission impairments can be categorized into three types: Attenuation, Distortion, and Noise. Noise can be further divided into Thermal Noise, Cross Talk, and Impulse Noise. Network performance can be measured by Bandwidth, which can be expressed in hertz or in bits per second.

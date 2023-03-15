@@ -1,0 +1,21 @@
+#### Security of Big Data
+
+- Big data security is the process of implementing safeguards to protect an enterprise’s big data from unauthorized access or breaches throughout the entirety of its lifecycle.
+- Big data security involves securing data in transit and at rest, as well as the data processing and analytics methods.
+- Big data security faces several challenges, such as:
+  - The volume, variety, and velocity of big data make it difficult to apply traditional security measures and tools.
+  - The distributed and heterogeneous nature of big data systems and platforms introduce new vulnerabilities and risks.
+  - The lack of standardization and regulation of big data security practices and policies.
+  - The shortage of skilled and experienced big data security professionals.
+- Some of the best practices for securing big data are :
+  - Safeguard distributed programming frameworks, such as Hadoop, by using encryption, authentication, authorization, and auditing mechanisms.
+  - Secure non-relational data, such as NoSQL, by using encryption, access control, and data masking techniques.
+  - Secure data storage, whether in cloud or on-premise, by using encryption, key management, and backup solutions.
+  - Secure data transmission, whether in motion or in use, by using encryption, VPN, SSL, and TLS protocols.
+  - Secure data analytics, whether in batch or in stream, by using encryption, anonymization, and sandboxing methods.
+  - Implement a comprehensive and holistic security strategy that covers all aspects of big data security, from data collection to data consumption.
+  - Adopt a risk-based and data-centric approach to security that focuses on the most sensitive and valuable data assets.
+  - Leverage advanced security technologies, such as artificial intelligence, machine learning, and blockchain, to enhance big data security capabilities and performance.
+  - Educate and train big data users and stakeholders on the importance and best practices of big data security.
+  - Monitor and audit big data security activities and incidents regularly and proactively.
+- A possible mnemonic to remember the 10 best practices for securing big data is: **SANDS SAIL EM** (Safeguard, Secure, Secure, Secure, Secure, Strategy, Risk-based, Advanced, Educate, Monitor).

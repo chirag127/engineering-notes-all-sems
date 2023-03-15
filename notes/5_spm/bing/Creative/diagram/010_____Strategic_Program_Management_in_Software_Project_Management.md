@@ -1,0 +1,9 @@
+### Strategic Program Management in Software Project Management
+
+- Strategic program management is a centralized way to coordinate the strategic goals and objectives of a program, which consists of multiple related projects that share a common vision and purpose.
+- The goal of strategic program management is to drive benefits to the entire program by aligning the projects with the strategic plan of the organization, sharing project resources, costs and activities, and managing the interdependencies and risks among the projects  .
+- Strategic program management requires a high-level perspective and a holistic approach to oversee the program's scope, schedule, budget, quality, risks, issues, benefits, and stakeholders.
+- Strategic program management also involves communicating and reporting the program's progress, performance, and outcomes to the senior management and other relevant parties, and ensuring the program's alignment with the organizational strategy and governance.
+- Strategic program management can help software project management by providing a framework and a methodology to plan, execute, monitor, and control multiple software projects that contribute to a common business goal, such as developing a new software product or service, or improving an existing one.
+- Strategic program management can also help software project management by facilitating the integration and coordination of software development processes, tools, standards, and best practices across the projects, and by managing the dependencies, conflicts, and changes that may arise among the software components, modules, and systems.
+- Strategic program management can also help software project management by ensuring the delivery of value and benefits to the customers and the organization, and by evaluating the impact and outcomes of the software projects on the program's objectives and the organizational strategy .

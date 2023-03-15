@@ -1,0 +1,24 @@
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+
+- A computer network is a collection of devices and systems that are connected by communication channels to facilitate the exchange of data and resources.
+- The main components of a computer network are hosts, links, switches, routers, and protocols.
+- Hosts are the end devices that generate and consume data, such as computers, smartphones, printers, etc.
+- Links are the physical media that carry the data, such as wires, cables, optical fibers, radio waves, etc.
+- Switches are devices that forward data within a local area network (LAN) based on the destination address of the data frames.
+- Routers are devices that forward data between different networks based on the destination address of the data packets.
+- Protocols are the rules and conventions that govern the communication between hosts and devices, such as TCP/IP, HTTP, FTP, etc.
+- The main objectives of a computer network are to provide connectivity, reliability, security, scalability, and performance.
+- Connectivity refers to the ability of hosts and devices to communicate with each other across the network.
+- Reliability refers to the ability of the network to deliver data correctly and timely despite failures and errors.
+- Security refers to the ability of the network to protect the data from unauthorized access, modification, or disclosure.
+- Scalability refers to the ability of the network to accommodate the growth of hosts and devices without compromising the quality of service.
+- Performance refers to the ability of the network to meet the requirements of the applications and users, such as throughput, latency, jitter, etc.
+- The physical layer is the lowest layer of the network architecture that deals with the transmission and reception of raw bits over the physical medium.
+- The main functions of the physical layer are to encode and decode the bits, modulate and demodulate the signals, and synchronize and multiplex the data streams.
+- Encoding is the process of converting the bits into electrical or optical signals that can be transmitted over the link.
+- Decoding is the process of converting the signals back into bits at the receiver end.
+- Modulation is the process of varying the properties of a carrier wave (such as amplitude, frequency, or phase) according to the data bits to be transmitted.
+- Demodulation is the process of extracting the data bits from the modulated carrier wave at the receiver end.
+- Synchronization is the process of aligning the sender and receiver clocks to ensure the correct timing of the data transmission and reception.
+- Multiplexing is the process of combining multiple data streams into one signal that can be transmitted over a shared medium.
+- The main challenges of the physical layer are to overcome the noise, attenuation, interference, and distortion that affect the quality of the signal and the data transmission.

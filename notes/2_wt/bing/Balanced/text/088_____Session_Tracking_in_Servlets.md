@@ -1,0 +1,10 @@
+### Session Tracking in Servlets
+
+- Session tracking is a mechanism that allows a web server to maintain the state of a user across multiple requests.
+- A session is a collection of data associated with a specific user that persists for a certain duration on the server.
+- Session tracking is useful for implementing features such as shopping carts, authentication, personalization, etc.
+- Servlets provide four ways of session tracking: cookies, URL rewriting, hidden form fields, and HttpSession objects.
+- Cookies are small pieces of data that are stored on the client's browser and sent back to the server with every request. Cookies can store information such as user preferences, login status, etc.
+- URL rewriting is a technique that appends a session identifier to every URL that the user clicks on. The session identifier is a unique string that identifies the user's session on the server. URL rewriting works even if the client does not support cookies, but it has some drawbacks such as exposing the session identifier to the user and making the URLs longer and less readable.
+- Hidden form fields are input elements in an HTML form that are not visible to the user, but are submitted to the server along with the other form data. Hidden form fields can store session information such as user name, password, etc. However, hidden form fields only work with forms that use the POST method, and they can be tampered with by the user or intercepted by a third party.
+- HttpSession objects are Java objects that are created and managed by the servlet container. HttpSession objects can store any type of data as attributes, and they are accessible from any servlet within the same web application. HttpSession objects are the most convenient and secure way of session tracking, but they require more memory and processing power on the server.

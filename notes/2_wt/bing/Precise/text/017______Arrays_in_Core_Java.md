@@ -1,0 +1,16 @@
+#### Arrays in Core Java
+- An array is a data structure that stores a fixed-size sequential collection of elements of the same type.
+- An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+- The length of an array is established when the array is created. After creation, its length is fixed.
+- Each item in an array is called an element, and each element is accessed by its numerical index.
+- The first element of an array is at index 0, the second element is at index 1, and so on.
+- To declare an array, define the variable type with square brackets.
+- To allocate memory for an array, use the `new` operator.
+- To initialize an array, you can either assign values to each element separately or use an array initializer.
+- You can also use a shorthand notation to create and initialize an array in one step.
+- Arrays can be multidimensional, meaning they can have more than one dimension.
+- The most common use of multidimensional arrays is to represent matrices.
+- You can use a `for` loop to iterate over the elements of an array.
+- You can also use the enhanced `for` loop, introduced in Java 5, to iterate over the elements of an array.
+- The `Arrays` class in the `java.util` package provides several utility methods for working with arrays, such as sorting and searching.
+- You can also use the `System.arraycopy()` method to copy elements from one array to another.

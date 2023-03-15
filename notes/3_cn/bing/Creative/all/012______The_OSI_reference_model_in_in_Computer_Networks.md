@@ -1,0 +1,16 @@
+#### The OSI reference model in in Computer Networks
+
+- The OSI reference model stands for Open Systems Interconnection reference model. It is a conceptual framework that defines how different network devices and software applications communicate with each other across a network.
+- The OSI reference model consists of seven layers, each of which performs a specific function in the process of data transmission. The layers are:
+
+  - **Physical layer**: This layer deals with the physical aspects of data transmission, such as the electrical signals, cables, connectors, and hardware devices. It defines the standards for encoding, modulation, synchronization, and error detection and correction of data bits.
+  - **Data link layer**: This layer provides reliable and efficient data transfer between two adjacent nodes on a network. It defines the protocols for framing, addressing, flow control, and error control of data packets. It also handles the access and allocation of the shared medium among multiple nodes.
+  - **Network layer**: This layer is responsible for routing and forwarding data packets across different networks. It defines the protocols for addressing, routing, congestion control, and internetworking of data packets. It also handles the fragmentation and reassembly of data packets when they are too large for the underlying network.
+  - **Transport layer**: This layer provides end-to-end data delivery between two applications on a network. It defines the protocols for establishing, maintaining, and terminating connections, as well as for ensuring the reliability, integrity, and quality of service of data transmission. It also handles the segmentation and reassembly of data streams when they are too large for the underlying network.
+  - **Session layer**: This layer manages the communication sessions between two applications on a network. It defines the protocols for initiating, controlling, and terminating sessions, as well as for synchronizing, coordinating, and recovering data exchange within a session. It also handles the authentication and authorization of users and applications.
+  - **Presentation layer**: This layer handles the representation and transformation of data between different formats and encodings. It defines the protocols for data compression, encryption, decryption, translation, and conversion of data. It also handles the abstraction and interpretation of data for different applications.
+  - **Application layer**: This layer provides the interface and functionality for various network applications and services. It defines the protocols for data exchange, remote access, file transfer, email, web browsing, and other network services. It also handles the user interaction and presentation of data for different applications.
+
+- The OSI reference model is useful for understanding, designing, and troubleshooting network systems and applications. It provides a common language and framework for describing the functions and interactions of different network components. It also allows interoperability and compatibility among different network devices and software applications that follow the same standards and protocols.
+
+- A mnemonic to remember the names and order of the OSI layers is: **Please Do Not Throw Sausage Pizza Away**. Another mnemonic is: **All People Seem To Need Data Processing**.

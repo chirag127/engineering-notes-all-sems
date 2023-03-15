@@ -1,0 +1,11 @@
+#### Hadoop configuration in Hadoop Environment
+
+Hadoop configuration is the process of setting up the parameters and properties for the Hadoop daemons and services that run in a Hadoop cluster. Hadoop configuration can be done by editing the XML files in the etc/hadoop directory of the Hadoop installation. There are different types of Hadoop configuration files for different components of the Hadoop ecosystem, such as HDFS, YARN, MapReduce, and Oozie. Some of the common Hadoop configuration files are:
+
+- core-site.xml: This file contains the core configuration settings for Hadoop, such as the default file system URI, the I/O settings, and the security options.
+- hdfs-site.xml: This file contains the configuration settings for HDFS, such as the replication factor, the block size, the name node and data node directories, and the checkpoint options.
+- yarn-site.xml: This file contains the configuration settings for YARN, such as the resource manager and node manager addresses, the memory and CPU allocation, and the scheduler options.
+- mapred-site.xml: This file contains the configuration settings for MapReduce, such as the framework name, the job tracker and task tracker addresses, the map and reduce task settings, and the output compression options.
+- oozie-site.xml: This file contains the configuration settings for Oozie, such as the Oozie server URL, the database connection, the workflow and coordinator options, and the security options.
+
+To configure the Hadoop cluster, you will need to edit these files according to your cluster specifications and requirements. You will also need to configure the environment variables for the Hadoop daemons in the hadoop-env.sh, mapred-env.sh, and yarn-env.sh scripts in the etc/hadoop directory. These scripts set the JAVA_HOME, HADOOP_HOME, HADOOP_CONF_DIR, HADOOP_LOG_DIR, and other environment variables for the Hadoop daemons. You will also need to distribute the configuration files and the environment scripts to all the nodes in the cluster and restart the Hadoop services for the changes to take effect.

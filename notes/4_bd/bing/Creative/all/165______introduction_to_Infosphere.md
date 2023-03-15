@@ -1,0 +1,7 @@
+# Introduction to Infosphere
+
+- The term infosphere (information + - sphere) is used to describe a metaphysical realm of information, data, knowledge, and communication, populated by informational entities called inforgs (or, informational organisms).
+- The infosphere is the whole system of services and documents, encoded in any semiotic and physical media, whose contents include any sort of data, information and knowledge, with no limitations either in size, typology, or logical structure.
+- The infosphere can be seen as a global network of interconnected information systems, such as the internet, the web, social media, databases, sensors, etc., that enable the creation, storage, processing, and exchange of information.
+- The infosphere can also refer to a specific data integration platform, such as IBM InfoSphere Information Server, that helps users to more easily understand, cleanse, monitor and transform data, and to deliver trusted information to critical business initiatives.
+- The infosphere can also be a fictional setting, such as the one depicted in the animated series Futurama, where the infosphere is a giant sphere of pure information that contains the sum of all knowledge in the universe.

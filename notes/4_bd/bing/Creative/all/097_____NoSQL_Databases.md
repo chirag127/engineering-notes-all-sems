@@ -1,0 +1,10 @@
+# NoSQL Databases
+
+- NoSQL databases are databases that do not use the SQL language or the relational model for data storage and retrieval.
+- NoSQL databases are designed to handle large volumes of unstructured, semi-structured, or structured data that may change rapidly or frequently.
+- NoSQL databases offer flexible schemas, high scalability, high performance, and high availability.
+- NoSQL databases can be classified into four main types based on their data model: document, key-value, wide-column, and graph.
+- Document databases store data as JSON-like documents, where each document has a unique key and can contain nested fields and arrays. Document databases are suitable for applications that need to store and query complex and heterogeneous data. Examples of document databases are MongoDB, CouchDB, and Elasticsearch.
+- Key-value databases store data as pairs of keys and values, where each key is unique and can be used to retrieve the corresponding value. Key-value databases are suitable for applications that need to store and access simple and homogeneous data quickly and efficiently. Examples of key-value databases are Redis, DynamoDB, and Couchbase.
+- Wide-column databases store data as rows and columns, where each row has a unique key and each column can have different attributes and values. Wide-column databases are suitable for applications that need to store and analyze large amounts of sparse and structured data. Examples of wide-column databases are Cassandra, HBase, and Bigtable.
+- Graph databases store data as nodes and edges, where each node represents an entity and each edge represents a relationship between entities. Graph databases are suitable for applications that need to store and query complex and interconnected data. Examples of graph databases are Neo4j, OrientDB, and Titan.

@@ -1,0 +1,12 @@
+#### How Zookeeper helps in monitoring a cluster
+
+- Zookeeper is a distributed coordination service that provides a consistent and reliable way of managing configuration, synchronization, naming, and group membership for a cluster of nodes.
+- Zookeeper maintains a hierarchical namespace of znodes, which are data nodes that store configuration and status information for the cluster. Each znode can have data and children znodes, and can be watched by other nodes for changes.
+- Zookeeper uses a leader-follower model to ensure that all the nodes in the cluster have the same view of the znode namespace. The leader is responsible for processing all the write requests and broadcasting them to the followers. The followers process the read requests and sync with the leader periodically.
+- Zookeeper helps in monitoring a cluster by providing the following features:
+
+  - Configuration management: Zookeeper allows the nodes to store and retrieve configuration data from the znode namespace. This ensures that the nodes have a consistent and up-to-date configuration, and can react to configuration changes dynamically.
+  - Service discovery: Zookeeper enables the nodes to register and discover services in the cluster by creating ephemeral znodes that represent the availability and location of the services. This allows the nodes to locate and communicate with each other easily, and handle service failures gracefully.
+  - Leader election: Zookeeper facilitates the election of a leader node among a group of nodes by using a simple algorithm based on znode creation and deletion. This ensures that the cluster has a single point of authority and coordination, and can handle leader failures and transitions smoothly.
+  - Distributed locking: Zookeeper provides a mechanism for the nodes to acquire and release locks on shared resources by using znodes and watches. This ensures that the nodes can coordinate their access to the resources and avoid conflicts and inconsistencies.
+  - Group membership: Zookeeper enables the nodes to form and maintain groups by creating and deleting znodes that represent the membership status of the nodes. This allows the nodes to monitor the health and availability of the other nodes in the group, and perform actions based on the group size and composition.

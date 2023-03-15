@@ -1,0 +1,10 @@
+### Data Flow Diagrams in Software Requirement Specification (SRS)
+A Data Flow Diagram (DFD) is a graphical representation of the flow of data in an information system. It is commonly used in the Software Requirement Specification (SRS) document to show how data is processed by a system in terms of inputs and outputs.
+
+DFDs are used to model the system's components, the data exchanged between these components, and the external entities that interact with the system. They are an important tool for the analysis and design of information systems, as they provide a clear and concise way to represent the system's data processing and flow.
+
+To create a DFD, the system is broken down into its component processes, and the data flows between these processes are identified. The processes are represented as circles or rounded rectangles, while the data flows are represented as arrows. External entities, such as users or other systems, are represented as rectangles.
+
+There are two types of DFDs: logical and physical. A logical DFD focuses on the business and how the business operates, while a physical DFD shows how the system is implemented. Both types of DFDs are useful in the development of an SRS document, as they provide a clear and concise way to represent the system's data processing and flow.
+
+In conclusion, Data Flow Diagrams are an important tool in the development of a Software Requirement Specification document, as they provide a clear and concise way to represent the system's data processing and flow. They are used to model the system's components, the data exchanged between these components, and the external entities that interact with the system. By using DFDs, developers can ensure that the system's data processing and flow are accurately represented in the SRS document.

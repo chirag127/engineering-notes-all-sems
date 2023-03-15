@@ -1,0 +1,8 @@
+### Categories of Maintenance of Software
+
+Software maintenance is the process of modifying and updating software after it has been delivered to the end user. Software maintenance can be classified into four categories:
+
+- **Corrective maintenance**: This is the process of fixing errors or bugs that are discovered in the software after its delivery. Corrective maintenance can be reactive, which means fixing errors after they cause problems, or proactive, which means preventing errors before they occur.
+- **Adaptive maintenance**: This is the process of adapting the software to changes in the environment, such as new hardware, operating systems, standards, or user requirements. Adaptive maintenance can be planned, which means anticipating changes and preparing for them, or unplanned, which means responding to changes as they happen.
+- **Perfective maintenance**: This is the process of improving the software by adding new features, enhancing performance, or increasing usability. Perfective maintenance can be user-driven, which means based on user feedback or requests, or developer-driven, which means based on the developer's own initiative or vision.
+- **Preventive maintenance**: This is the process of improving the software by reducing its complexity, improving its structure, or eliminating potential errors. Preventive maintenance can be corrective, which means fixing errors that are not yet visible, or perfective, which means improving the software quality or maintainability.

@@ -1,0 +1,11 @@
+### Transmission in Transport Layer
+
+The transport layer is the fourth layer of the OSI model, which provides end-to-end communication between application processes running on different hosts within a network. The transport layer performs the following functions:
+
+- It takes the data from the upper layer (application layer), and it divides the data into smaller packets, also called segments, and then transmits them to the network layer (layer 3).
+- It assigns a port number to each segment, which identifies the source and destination application processes. The port number is a 16-bit number that ranges from 0 to 65535.
+- It provides reliable or unreliable transmission of segments, depending on the protocol used. The two main protocols of the transport layer are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP).
+- TCP provides connection-oriented, reliable, and ordered transmission of segments, which means that it establishes a connection between the source and destination hosts, ensures that all segments are delivered without errors and in the correct order, and terminates the connection when the transmission is complete.
+- UDP provides connectionless, unreliable, and unordered transmission of segments, which means that it does not establish or terminate a connection, does not guarantee the delivery or order of segments, and does not perform error checking or correction. UDP is faster and simpler than TCP, but less reliable and more prone to data loss or corruption.
+- It provides flow control and congestion control mechanisms to regulate the rate of transmission and avoid network congestion or overload. Flow control is the process of adjusting the sending rate of segments based on the receiving capacity of the destination host. Congestion control is the process of adjusting the sending rate of segments based on the network conditions and the feedback from the routers or the destination host.
+- It provides multiplexing and demultiplexing of segments, which means that it can combine segments from different application processes into one stream for transmission, and separate segments from one stream into different application processes for reception. Multiplexing and demultiplexing are done based on the port numbers of the segments.

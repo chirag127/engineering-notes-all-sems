@@ -1,0 +1,28 @@
+### Software Quality Assurance (SQA) in SRS
+
+- Software Quality Assurance (SQA) is a process that assures that all software engineering processes, methods, activities, and work items are monitored and comply with the defined standards .
+- SQA aims to ensure that the software product or service meets the requirements defined in the Software Requirement Specification (SRS), which is a document that describes the features, functions, and constraints of the software system .
+- SQA involves the following activities :
+  - Planning: defining the scope, objectives, standards, and procedures for SQA.
+  - Auditing: checking the compliance of the software processes and products with the SRS and the SQA plan.
+  - Reporting: documenting the results of the audits and identifying the issues and corrective actions.
+  - Reviewing: evaluating the software products and processes for quality improvement and defect prevention.
+  - Testing: verifying and validating the software functionality, performance, reliability, and security.
+  - Training: educating the software team and stakeholders on the SRS and the SQA plan.
+- SQA benefits the software project by :
+  - Improving customer satisfaction and trust.
+  - Reducing development costs and risks.
+  - Enhancing software quality and usability.
+  - Increasing software productivity and efficiency.
+  - Facilitating software maintenance and evolution.
+- SQA follows some standards and models to guide and measure the software quality, such as :
+  - ISO 9000: a set of international standards for quality management and assurance.
+  - CMMI: a framework for process improvement and maturity assessment.
+  - ISO 15504: a standard for software process assessment and improvement.
+  - IEEE 730: a standard for software quality assurance plans.
+- SQA can be applied to different types of software projects, such as :
+  - Agile: a software development methodology that emphasizes iterative, incremental, and collaborative delivery of software products.
+  - Waterfall: a software development methodology that follows a sequential, linear, and rigid process of software delivery.
+  - Spiral: a software development methodology that combines the iterative and risk-driven aspects of agile and waterfall methods.
+  - Prototyping: a software development methodology that involves creating and testing a preliminary version of the software product before developing the final version.
+  - RAD: a software development methodology that focuses on rapid and flexible delivery of software products using minimal planning and documentation.

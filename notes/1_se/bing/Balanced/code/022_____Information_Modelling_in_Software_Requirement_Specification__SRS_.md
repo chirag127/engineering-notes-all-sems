@@ -1,0 +1,7 @@
+### Information Modelling in Software Requirement Specification (SRS)
+
+Information modelling is the process of creating a representation of the data and information that the software system will manipulate, store, and exchange. It helps to define the data structures, relationships, constraints, and operations that the software will use to fulfill the functional and non-functional requirements.
+
+Information modelling can be done using various techniques and notations, such as entity-relationship diagrams, class diagrams, data flow diagrams, data dictionaries, and XML schemas. The choice of the technique and notation depends on the nature and complexity of the software system, the preferences and skills of the developers, and the standards and tools available.
+
+The purpose of information modelling in SRS is to provide a clear and consistent description of the data and information aspects of the software system, and to facilitate the communication and understanding between the stakeholders and the developers. Information modelling can also help to identify and resolve any inconsistencies, ambiguities, or gaps in the requirements, and to verify the feasibility and completeness of the software design and implementation.

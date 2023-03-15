@@ -1,0 +1,8 @@
+#### HDFS concepts
+
+HDFS stands for Hadoop Distributed File System. It is a distributed file system that runs on commodity hardware and stores large amounts of data across multiple nodes in a cluster. HDFS has the following design concepts:
+
+- **Blocks**: HDFS splits each file into fixed-size blocks, usually 128 MB, and distributes them across the data nodes in the cluster. Each block is replicated on multiple data nodes for fault tolerance and high availability. The default replication factor is 3, meaning each block has 3 copies on different data nodes.
+- **NameNode**: HDFS has a master node called NameNode that manages the namespace and the metadata of the file system. NameNode keeps track of the location and status of each block and data node in the cluster. NameNode also handles the client requests for reading and writing files, creating and deleting directories, and changing permissions and ownership of files and directories.
+- **DataNode**: HDFS has multiple slave nodes called DataNode that store the actual data blocks and serve the read and write requests from the clients. DataNode also sends periodic heartbeats and block reports to the NameNode to inform it about their health and the blocks they are holding.
+- **Write Once Read Multiple times**: HDFS follows the principle of write once read multiple times, meaning that once a file is written to HDFS, it cannot be modified or appended. This simplifies the data consistency and concurrency issues and enables high throughput for sequential access of large files. HDFS supports multiple readers and one writer for a file at a time.

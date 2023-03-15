@@ -1,0 +1,13 @@
+# Effort and Cost Estimation Techniques in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, monitoring, and controlling software projects.
+- Effort and cost estimation are important activities in SPM, as they help to determine the feasibility, budget, and schedule of a software project.
+- Effort estimation is the process of predicting the amount of human resources and time required to complete a software project.
+- Cost estimation is the process of predicting the monetary expenses involved in developing, testing, deploying, and maintaining a software project.
+- There are various techniques for effort and cost estimation, which can be classified into three categories: expert judgment, algorithmic models, and analogy-based methods.
+- Expert judgment is the technique of relying on the experience and intuition of experts or stakeholders to estimate effort and cost. It is simple, fast, and flexible, but it can be subjective, inconsistent, and biased.
+- Algorithmic models are the technique of using mathematical formulas or equations to estimate effort and cost based on some input parameters, such as software size, complexity, quality, and productivity. They are objective, consistent, and scalable, but they can be inaccurate, rigid, and oversimplified.
+- Analogy-based methods are the technique of using historical data from similar or previous projects to estimate effort and cost. They are based on the principle of similarity, which assumes that projects with similar characteristics have similar effort and cost. They are realistic, adaptable, and reliable, but they require sufficient and relevant data, and they can be affected by outliers and uncertainty.
+- Some examples of algorithmic models are Function Point Analysis (FPA) and Constructive Cost Model (COCOMO).
+- FPA is a function-based technique that estimates effort based on the functional characteristics of a software project, such as inputs, outputs, inquiries, files, and interfaces. It requires a critical analysis of the requirements and uses productivity metrics to compute duration and team size .
+- COCOMO is a size-based technique that estimates effort, duration, and team size based on the software size, which is measured in lines of code or function points. It also considers the project type, development mode, and cost drivers, which are factors that affect the effort and cost. It has three levels of complexity: basic, intermediate, and detailed .

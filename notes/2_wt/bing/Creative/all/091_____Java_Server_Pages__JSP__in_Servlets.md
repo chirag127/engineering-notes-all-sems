@@ -1,0 +1,35 @@
+### Java Server Pages (JSP) in Servlets
+
+- Java Server Pages (JSP) is a technology that allows us to create dynamic web pages using Java and Java Servlets  .
+- JSP pages are built on top of the Java Servlets API, which means they can access all the powerful Enterprise Java APIs, such as JDBC, JNDI, EJB, JAXP, etc.
+- JSP pages can be used in combination with servlets that handle the business logic, the model supported by Java servlet template engines.
+- JSP pages are composed of HTML, XML, or other markup languages, and special tags that contain Java code or expressions  .
+- JSP pages are compiled into servlets by the web container at runtime, and the servlets are executed to generate the response  .
+- JSP pages have several advantages over servlets, such as:
+  - They are easier to write and maintain, as they separate the presentation layer from the logic layer  .
+  - They support tag libraries, which are reusable components that encapsulate common functionality and can be customized by attributes  .
+  - They support expression language, which is a simple and powerful way to access data and invoke methods without using scriptlets  .
+  - They support JSP directives, which are instructions to the web container that control the behavior and structure of the JSP page  .
+  - They support JSP actions, which are elements that perform specific tasks, such as including other resources, forwarding requests, or creating JavaBeans  .
+- JSP pages have some disadvantages, such as:
+  - They are less efficient than servlets, as they require compilation and translation every time they are modified  .
+  - They are less secure than servlets, as they expose the source code to the web server and may contain sensitive information  .
+  - They are less portable than servlets, as they depend on the web container and the tag libraries that are available  .
+- JSP pages have some applications, such as:
+  - They can be used to create dynamic and interactive web pages that display data from databases, web services, or other sources  .
+  - They can be used to create web applications that follow the Model-View-Controller (MVC) pattern, where the JSP pages are the views, the servlets are the controllers, and the JavaBeans are the models  .
+  - They can be used to create web components that can be reused or embedded in other web pages, such as headers, footers, menus, etc  .
+- A possible mnemonic to remember the advantages of JSP over servlets is **EETDJ**:
+  - **E**asier to write and maintain
+  - **E**xpression language support
+  - **T**ag libraries support
+  - **D**irectives support
+  - **J**SP actions support
+- A possible mnemonic to remember the disadvantages of JSP over servlets is **LSP**:
+  - **L**ess efficient
+  - **S**ecurity issues
+  - **P**ortability issues
+- A possible mnemonic to remember the applications of JSP is **DWM**:
+  - **D**ynamic web pages
+  - **W**eb applications with MVC pattern
+  - **W**eb components

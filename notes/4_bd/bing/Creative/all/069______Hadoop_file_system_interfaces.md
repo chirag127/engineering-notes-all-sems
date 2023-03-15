@@ -1,0 +1,8 @@
+#### Hadoop file system interfaces
+
+- Hadoop file system interfaces are the Java abstract classes and interfaces that define the client API to interact with various file systems in Hadoop.
+- The main abstract class is `org.apache.hadoop.fs.FileSystem`, which represents a generic file system and provides methods for creating, deleting, renaming, reading and writing files and directories.
+- Hadoop supports multiple implementations of the `FileSystem` class, each corresponding to a different file system protocol or scheme. For example, `org.apache.hadoop.hdfs.DistributedFileSystem` is the implementation for HDFS, `org.apache.hadoop.fs.s3a.S3AFileSystem` is the implementation for Amazon S3, and `org.apache.hadoop.fs.ftp.FTPFileSystem` is the implementation for FTP.
+- Hadoop uses the URI scheme to select the appropriate `FileSystem` instance to communicate with. For example, a URI with the scheme `hdfs` will use the `DistributedFileSystem` class, while a URI with the scheme `s3a` will use the `S3AFileSystem` class.
+- Hadoop also provides some wrapper classes that extend the `FileSystem` class and add some additional functionality. For example, `org.apache.hadoop.fs.FilterFileSystem` is a base class for file systems that filter the calls to the underlying file system, such as `org.apache.hadoop.fs.ChecksumFileSystem` which verifies the checksums of files. `org.apache.hadoop.fs.viewfs.ViewFileSystem` is a class that allows mounting multiple file systems with different schemes as a single namespace.
+- Hadoop file system interfaces allow users to access data from various sources and formats using a common API. They also enable Hadoop to run on different platforms and storage systems, such as local disk, cloud storage, or distributed file systems.

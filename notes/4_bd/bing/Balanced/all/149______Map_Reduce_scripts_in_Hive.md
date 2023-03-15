@@ -1,0 +1,26 @@
+#### Map Reduce Scripts in Hive
+
+- Map Reduce is a programming model for processing large-scale data sets in parallel and distributed manner.
+- Hive is a data warehousing platform that supports SQL-like queries and Map Reduce operations on structured and semi-structured data.
+- Users can plug in their own custom mappers and reducers in the data stream by using the TRANSFORM clause in the Hive language .
+- The TRANSFORM clause allows the user to specify an executable script or program that can read the input data from the standard input and write the output data to the standard output.
+- The input and output data are in the form of tab-separated text records, where each record is a single line and each field is separated by a tab character.
+- The user can also specify the input and output schema of the script or program by using the AS clause.
+- The user can use the keyword MAP to indicate that the script or program is a mapper, and the keyword REDUCE to indicate that it is a reducer.
+- The user can also specify the number of reducers to use by using the DISTRIBUTE BY and SORT BY clauses.
+- The user can also use the CLUSTER BY clause to combine the DISTRIBUTE BY and SORT BY clauses.
+- The user can also specify the file path of the script or program by using the ADD FILE command before the query.
+- The user can also specify the environment variables, command-line arguments, and other options for the script or program by using the SET command before the query.
+- The user can also use the RECORDREADER and RECORDWRITER clauses to specify custom input and output formats for the script or program.
+- The user can also use the USING clause to specify the name of the script or program, instead of the file path, if the script or program is already registered in the Hive metastore.
+- The user can also use the SELECT * clause to pass all the fields of the input table to the script or program, instead of specifying the field names.
+- The user can also use the GROUP BY clause to perform aggregation on the output of the script or program, if the script or program is a reducer.
+- The user can also use the HAVING clause to filter the output of the script or program, if the script or program is a reducer.
+- The user can also use the ORDER BY or LIMIT clauses to sort or limit the output of the script or program, if the script or program is a reducer.
+- The user can also use the INSERT OVERWRITE or INSERT INTO clauses to write the output of the script or program to a table or a directory, if the script or program is a reducer.
+- The user can also use the LATERAL VIEW clause to apply the script or program to each row of a table and generate multiple output rows, if the script or program is a mapper.
+- The user can also use the JOIN clause to join the output of the script or program with another table, if the script or program is a mapper or a reducer.
+- The user can also use the UNION ALL clause to combine the output of the script or program with another query, if the script or program is a mapper or a reducer.
+- The user can also use the SUBQUERY clause to use the output of the script or program as a subquery, if the script or program is a mapper or a reducer.
+- The user can also use the EXPLAIN clause to view the execution plan of the query that uses the script or program, if the script or program is a mapper or a reducer.
+- The user can also use the ANALYZE TABLE clause to compute statistics on the table that is written by the script or program, if the script or program is a reducer.

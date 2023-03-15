@@ -1,0 +1,8 @@
+### Activities in SPM
+
+SPM stands for Software Project Management, which is the discipline of planning, organizing, directing, and controlling the activities of a software project. Some of the main activities involved in SPM are:
+
+- **Project initiation**: This is the first phase of SPM, where the project scope, objectives, feasibility, risks, stakeholders, and deliverables are defined and agreed upon. The project charter, which is a document that summarizes the project's purpose, scope, and goals, is also created in this phase.
+- **Project planning**: This is the second phase of SPM, where the project activities, resources, schedule, budget, quality, and communication are planned and documented. The project plan, which is a document that describes how the project will be executed, monitored, and controlled, is also created in this phase.
+- **Project execution**: This is the third phase of SPM, where the project team performs the tasks and produces the deliverables according to the project plan. The project manager monitors and controls the project progress, quality, costs, and risks, and communicates with the stakeholders regularly.
+- **Project closure**: This is the final phase of SPM, where the project is formally completed and delivered to the customer. The project manager evaluates the project performance, outcomes, and lessons learned, and documents the project closure report, which is a document that summarizes the project achievements, challenges, and recommendations. The project manager also releases the project resources and celebrates the project success with the team and the stakeholders.

@@ -1,0 +1,30 @@
+### Integration Testing in Software Testing
+
+- Integration testing is a level of software testing where individual units or components of a software application are combined and tested to verify if they are working as they intend to when integrated  .
+- The main aim of integration testing is to test the interface between the modules and identify any problems or bugs that arise when different components are combined and interact with each other .
+- Integration testing is conducted to evaluate the compliance of a system or component with specified functional requirements and to ensure that the software meets the quality standards and expectations of the end-users.
+- Integration testing is usually performed after unit testing and before system testing . It can be done in different ways, such as:
+  - **Top-down approach**: The testing starts from the top-level modules and proceeds to the lower-level modules. The lower-level modules are simulated by stubs, which are dummy modules that provide predefined outputs  .
+  - **Bottom-up approach**: The testing starts from the lower-level modules and proceeds to the higher-level modules. The higher-level modules are simulated by drivers, which are dummy modules that provide predefined inputs  .
+  - **Sandwich approach**: The testing combines both top-down and bottom-up approaches. The middle-level modules are tested first, followed by the top-level and lower-level modules  .
+  - **Big-bang approach**: The testing involves integrating all the modules at once and testing them as a whole. This approach is suitable for small and simple applications, but it can be risky and time-consuming for complex and large applications  .
+- Integration testing can be further classified into different types, such as:
+  - **Functional integration testing**: The testing focuses on verifying the functionality of the integrated modules and ensuring that they meet the specified requirements .
+  - **Non-functional integration testing**: The testing focuses on verifying the non-functional aspects of the integrated modules, such as performance, security, reliability, usability, etc .
+  - **Incremental integration testing**: The testing involves adding and testing one or more modules at a time until all the modules are integrated and tested .
+  - **Continuous integration testing**: The testing involves integrating and testing the modules continuously and automatically using tools such as Jenkins, Travis CI, etc  .
+- Integration testing can be performed using various tools, such as:
+  - **Programming-language specific tools**: These are tools that are designed to test software coded in a specific coding language, such as JUnit for Java, PyTest for Python, etc.
+  - **Rare-language tools**: These are tools that are used for rarer languages or languages with fewer tests available, such as CppUnit for C++, RSpec for Ruby, etc.
+  - **Multiple-language tools**: These are tools that can test software coded in multiple languages, such as Selenium, Postman, SoapUI, etc.
+- Integration testing can have several advantages, such as:
+  - It can detect errors and defects that are not visible at the unit level .
+  - It can improve the quality and reliability of the software .
+  - It can reduce the risk of failure and rework in the later stages of testing .
+  - It can facilitate the communication and collaboration among the developers and testers .
+- Integration testing can also have some disadvantages, such as:
+  - It can be complex and challenging to perform, especially for large and distributed applications .
+  - It can be time-consuming and costly, especially if the integration testing tools are not available or compatible .
+  - It can be dependent on the availability and quality of the modules, stubs, drivers, and test data .
+- A possible mnemonic to remember the types of integration testing approaches is **TBSB** (Top, Bottom, Sandwich, Big-bang).
+- A possible mnemonic to remember the types of integration testing is **FNC

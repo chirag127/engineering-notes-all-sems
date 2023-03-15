@@ -1,0 +1,23 @@
+#### Cluster specification in Hadoop Environment
+
+- A Hadoop cluster is a special type of computational cluster designed specifically for storing and analyzing huge amounts of unstructured data in a distributed computing environment  .
+- A Hadoop cluster consists of a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets.
+- A Hadoop cluster is often referred to as a shared-nothing system because the only thing that is shared between the nodes is the network itself.
+- A Hadoop cluster typically has two types of nodes: master nodes and worker nodes.
+- Master nodes are responsible for coordinating the activities of the cluster, such as scheduling jobs, managing resources, and monitoring the health of the cluster.
+- Worker nodes are responsible for executing the tasks assigned by the master nodes, such as storing and processing data.
+- A Hadoop cluster can have one or more master nodes and any number of worker nodes, depending on the size and complexity of the data and the computational requirements.
+- A Hadoop cluster runs Hadoop's open source distributed processing software, which consists of four main components: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common.
+- HDFS is a distributed file system that provides high-throughput access to large data sets across multiple nodes.
+- MapReduce is a programming model and framework that allows parallel processing of large data sets using key-value pairs.
+- YARN is a resource management platform that allocates and manages resources for the cluster.
+- Hadoop Common is a set of utilities and libraries that support the other components of Hadoop.
+- To configure a Hadoop cluster, you will need to configure the environment and the parameters for the Hadoop daemons, such as NameNode, DataNode, JobTracker, and TaskTracker .
+- NameNode is the master daemon that manages the metadata and namespace of the HDFS.
+- DataNode is the worker daemon that stores and serves the data blocks of the HDFS.
+- JobTracker is the master daemon that schedules and tracks the execution of MapReduce jobs.
+- TaskTracker is the worker daemon that runs the MapReduce tasks assigned by the JobTracker.
+- A Hadoop cluster can be set up in different modes, such as standalone mode, pseudo-distributed mode, and fully distributed mode, depending on the number of nodes and the level of replication and fault tolerance required.
+- Standalone mode is the simplest mode, where Hadoop runs on a single node without HDFS and uses the local file system instead.
+- Pseudo-distributed mode is a mode where Hadoop runs on a single node with HDFS and simulates a multi-node cluster.
+- Fully distributed mode is the mode where Hadoop runs on a multi-node cluster with HDFS and provides high availability and scalability.

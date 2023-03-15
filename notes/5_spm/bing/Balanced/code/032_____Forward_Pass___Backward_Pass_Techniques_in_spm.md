@@ -1,0 +1,22 @@
+### Forward Pass & Backward Pass Techniques in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, executing, monitoring, and controlling software projects.
+- Forward pass and backward pass are two techniques used in SPM to analyze the project network diagram and determine the project duration, critical path, and slack/float time of each activity.
+- A project network diagram is a graphical representation of the sequence and dependencies of the project activities, usually using nodes to represent activities and arrows to represent dependencies.
+- Forward pass is a technique to move forward through the network diagram from the start node to the end node, calculating the early start (ES) and early finish (EF) dates of each activity.
+  - ES is the earliest possible date that an activity can start, given the dependencies and constraints.
+  - EF is the earliest possible date that an activity can finish, calculated by adding the activity duration to the ES.
+  - The formula for forward pass is: EF = ES + duration - 1
+  - The start node has an ES of 0 and an EF equal to its duration.
+  - For activities with multiple predecessors, the ES is the maximum of the EF values of the predecessors.
+- Backward pass is a technique to move backward through the network diagram from the end node to the start node, calculating the late start (LS) and late finish (LF) dates of each activity.
+  - LS is the latest possible date that an activity can start without delaying the project completion date.
+  - LF is the latest possible date that an activity can finish without delaying the project completion date, calculated by subtracting the activity duration from the LS.
+  - The formula for backward pass is: LS = LF - duration + 1
+  - The end node has an LF equal to the project completion date and an LS equal to its LF minus its duration.
+  - For activities with multiple successors, the LF is the minimum of the LS values of the successors.
+- The difference between the early and late dates of an activity is called the slack or float time, which is the amount of time that an activity can be delayed without affecting the project completion date.
+  - The formula for slack/float time is: Slack = LF - EF = LS - ES
+  - Activities with zero slack are called critical activities, and the sequence of critical activities forms the critical path of the project, which is the longest path in the network diagram and determines the minimum project duration.
+  - Activities with positive slack are called non-critical activities, and they have some flexibility in their start and finish dates.
+- Forward pass and backward pass techniques are useful for project managers to identify the critical path, optimize the project schedule, allocate resources, monitor progress, and manage risks.

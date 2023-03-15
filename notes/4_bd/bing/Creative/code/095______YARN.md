@@ -1,0 +1,22 @@
+#### YARN
+
+- Yarn is a long continuous length of interlocked fibres, used in sewing, crocheting, knitting, weaving, embroidery, ropemaking, and the production of textiles.
+- Thread is a type of yarn intended for sewing by hand or machine.
+- Yarn can be made from natural or synthetic materials, such as wool, cotton, silk, acrylic, nylon, polyester, etc.
+- Yarn can vary in thickness, weight, texture, color, and ply.
+- Ply refers to the number of strands twisted together to make a single yarn.
+- Yarn weight is a standardized way of classifying yarns by their thickness and the recommended needle or hook size for knitting or crocheting them.
+- Yarn weight categories range from lace (very thin) to jumbo (very thick).
+- Yarn texture can be smooth, fuzzy, fluffy, bumpy, twisted, or plied.
+- Yarn color can be solid, variegated, self-striping, gradient, or speckled.
+- Yarn can be dyed before or after spinning, or left undyed (natural).
+- Yarn can have different properties, such as strength, elasticity, softness, warmth, durability, and washability.
+- Yarn can be used for various crafts, such as knitting, crocheting, weaving, spinning, felting, macrame, embroidery, etc.
+- Yarn can also be used for other purposes, such as making rugs, carpets, blankets, pillows, toys, dolls, baskets, bags, etc.
+- Yarn can be purchased from online or physical stores, such as Yarn - Package Manager, Herrschners, or WEBS - America's Yarn Store.
+- Yarn can be stored in various ways, such as in skeins, balls, cakes, hanks, or cones.
+- Yarn can be wound by hand or by using a yarn winder or a swift.
+- Yarn can be organized by color, weight, type, or project.
+- Yarn can be labeled with information such as brand, name, weight, yardage, fiber content, dye lot, care instructions, etc.
+- Yarn can be cared for by following the manufacturer's recommendations, such as washing, drying, ironing, or storing.
+- Yarn can be recycled by unraveling old projects, donating to charity, or using for other crafts.

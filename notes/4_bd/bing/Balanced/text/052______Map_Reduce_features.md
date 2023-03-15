@@ -1,0 +1,12 @@
+#### Map Reduce features
+
+MapReduce is a programming model and a framework for processing large-scale data sets in parallel and distributed manner. It consists of two main functions: map and reduce. The map function takes an input key-value pair and produces a set of intermediate key-value pairs. The reduce function takes all the intermediate values associated with the same intermediate key and combines them into a smaller set of values. Some of the salient features of MapReduce are:
+
+- Scalability: MapReduce can handle huge amounts of data by distributing them across multiple nodes in a cluster. It can also scale up or down by adding or removing nodes as needed.
+- Flexibility: MapReduce can process various types of data, such as structured, unstructured, or semi-structured. It can also support different kinds of operations, such as filtering, aggregation, sorting, joining, etc.
+- Security and Authentication: MapReduce can provide security and authentication mechanisms to protect the data and the nodes from unauthorized access or malicious attacks. It can also encrypt the data during transmission and storage.
+- Cost-effectiveness: MapReduce can run on commodity hardware, which reduces the cost of infrastructure and maintenance. It can also utilize the available resources efficiently and avoid wasting CPU cycles or disk space.
+- Speed: MapReduce can perform parallel and distributed processing, which reduces the execution time and improves the performance. It can also leverage the locality of data and minimize the network traffic and latency.
+- Simplicity: MapReduce provides a simple and intuitive programming model, which abstracts the complexity of parallel and distributed computing. The programmers only need to write the map and reduce functions, and the framework takes care of the rest.
+- Parallelism: MapReduce can exploit the inherent parallelism in the data and the tasks, and execute them concurrently on multiple nodes. It can also handle the load balancing, fault tolerance, and synchronization issues automatically.
+- Availability and Resilience: MapReduce can ensure the availability and resilience of the data and the nodes, by replicating them across the cluster. It can also recover from failures and resume the processing without losing any data or state.

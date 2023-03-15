@@ -1,0 +1,28 @@
+#### Design Structure Charts in Software Design
+
+- A design structure chart (DSC) is a diagram that shows the hierarchical decomposition of a software system into its modules and the data flow between them  .
+- A DSC is a useful tool for structured design, which is a method of designing software based on functional abstraction and top-down refinement .
+- A DSC consists of boxes that represent modules, and lines that connect them. The lines indicate the direction and type of data flow between modules  .
+- A module is a self-contained unit of code that performs a specific task or function. A module can be further decomposed into submodules, forming a tree-like structure  .
+- A DSC can have different types of modules, such as:
+  - Library modules: modules that are reused by other modules, such as standard libraries or utility functions .
+  - Input/output modules: modules that handle the interaction with external devices or users, such as reading from a file or displaying a message .
+  - Control modules: modules that coordinate the execution of other modules, such as the main program or a loop .
+  - Processing modules: modules that perform the core logic or computation of the system, such as sorting a list or calculating a formula .
+- A DSC can also have different types of data flow, such as:
+  - Data coupling: data flow that passes parameters or values between modules, such as a function call or a return statement .
+  - Control coupling: data flow that passes flags or signals between modules, such as a condition or an event .
+  - Global coupling: data flow that accesses or modifies shared variables or data structures, such as a global array or a database .
+- A DSC can be drawn using different notations, such as:
+  - Yourdon/DeMarco notation: uses circles for library modules, rectangles for other modules, and arrows for data flow. The arrows can be labeled with the name and type of the data .
+  - Nassi/Shneiderman notation: uses boxes for modules, and lines for data flow. The lines can be labeled with the name and type of the data. The boxes can have different shapes to indicate different types of modules, such as rounded corners for input/output modules, or diamonds for control modules .
+- A DSC can be classified into different types, depending on the nature of the system and the data flow, such as:
+  - Transform centered structure: describes a system that receives an input, transforms it through a sequence of operations, and produces an output. The DSC has a clear input-output structure, with a single control module and several processing modules .
+  - Transaction centered structure: describes a system that processes a number of different types of transactions, each with its own logic and data flow. The DSC has a dispatcher module that selects the appropriate processing module for each transaction .
+  - Call and return structure: describes a system that consists of a hierarchy of modules that call and return to each other, forming a tree-like structure. The DSC has a main module that calls the submodules, and the submodules can call other submodules or return to the caller .
+- A DSC can have several advantages, such as:
+  - It provides a clear and concise representation of the structure and functionality of a software system  .
+  - It facilitates the modularization and abstraction of the software system, which improves the readability, maintainability, and reusability of the code  .
+  - It helps to identify and eliminate the unnecessary or redundant modules, data flow, or coupling, which improves the efficiency and reliability of the system  .
+  - It supports the top-down design and development of the software system, which allows for a systematic and iterative approach to problem solving  .
+- A DSC can

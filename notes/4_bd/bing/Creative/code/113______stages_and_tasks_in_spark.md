@@ -1,0 +1,11 @@
+#### Stages and Tasks in Spark
+
+- Spark is a distributed computing framework that executes parallel tasks on a cluster of nodes.
+- Spark applications consist of one or more jobs, each of which is a sequence of stages, each of which is a set of tasks.
+- A job is triggered by an action, such as `count()`, `foreachRdd()`, `sortBy()`, `read()` or `write()`, that requires the computation of a result from a dataset.
+- A stage is a smaller set of tasks that depend on each other and can be executed in parallel on different nodes in the cluster. Stages are created for each job based on shuffle boundaries, i.e. what operations can be performed without moving data across the network.
+- A task is a unit of work that is assigned to an executor, which is a process running on a node. A task operates on a partition, which is a chunk of data that is stored in memory or disk. Tasks within a stage perform the same computation, but on different partitions of the data.
+- There are mainly two types of stages in Spark: `ShuffleMapStage` and `ResultStage`.
+- A `ShuffleMapStage` is an intermediate stage that prepares data for subsequent stages by applying transformations, such as `map()`, `filter()`, `groupBy()`, or `join()`, and writing the output to a shuffle file on disk. A shuffle file contains the data partitioned by a key, such as a column or a function.
+- A `ResultStage` is a final stage that computes the result of a job by applying an action, such as `collect()`, `reduce()`, `save()`, or `print()`, to the data from the previous stage or the original dataset. A result stage does not write to a shuffle file, but sends the output to the driver or to an external storage system.
+- Spark uses a DAG (Directed Acyclic Graph) scheduler to plan the execution of jobs, stages, and tasks. A DAG is a graph that represents the dependencies and order of operations in a Spark application. The DAG scheduler divides a job into stages, and assigns tasks to executors based on data locality and available resources. The DAG scheduler also handles failures and retries of tasks and stages.

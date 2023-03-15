@@ -1,0 +1,38 @@
+### Hadoop Eco System and YARN
+
+- Hadoop is an open source framework that allows distributed processing of large-scale data using clusters of commodity hardware.
+- Hadoop Eco System refers to the various components and tools that work together with Hadoop to provide different functionalities such as data storage, data processing, data analysis, data ingestion, data integration, data visualization, etc.
+- Some of the most common components and tools of the Hadoop Eco System are:
+  - HDFS: Hadoop Distributed File System, a distributed and scalable file system that stores data across multiple nodes in a cluster.
+  - MapReduce: A programming model and execution engine for parallel processing of large data sets using key-value pairs.
+  - YARN: Yet Another Resource Negotiator, a resource management and job scheduling framework that manages the allocation and utilization of resources in a cluster.
+  - Hive: A data warehouse system that provides a SQL-like interface for querying and analyzing structured and semi-structured data stored in HDFS.
+  - Pig: A high-level scripting language that allows data analysis and transformation using a set of operators and functions.
+  - Spark: A fast and general-purpose engine for large-scale data processing that supports batch, streaming, SQL, machine learning, and graph processing.
+  - HBase: A distributed and column-oriented database that provides random access and consistent updates for large amounts of sparse data.
+  - Oozie: A workflow scheduler that orchestrates and coordinates the execution of Hadoop jobs.
+  - Sqoop: A tool that transfers data between Hadoop and relational databases.
+  - Zookeeper: A service that provides coordination, synchronization, and configuration management for distributed applications.
+- YARN is one of the major components of Hadoop that enables the Hadoop Eco System to be more flexible, efficient, and scalable.
+- YARN was introduced in Hadoop 2.0 as an improvement over the MapReduce framework of Hadoop 1.0, which had some limitations such as:
+  - Fixed and rigid programming model that only supported MapReduce jobs.
+  - Single point of failure and bottleneck in the JobTracker, which was responsible for both resource management and job scheduling/monitoring.
+  - Inefficient utilization of resources, as each node had a fixed number of map and reduce slots that could not be dynamically allocated or shared.
+- YARN addresses these limitations by splitting up the functionalities of resource management and job scheduling/monitoring into separate daemons, namely:
+  - ResourceManager (RM): A global daemon that manages the allocation and availability of resources (such as memory, CPU, disk, network, etc.) across the cluster.
+  - ApplicationMaster (AM): A per-application daemon that negotiates resources with the RM, monitors the progress and status of the application, and handles failures and retries.
+- An application in YARN is either a single job or a DAG (directed acyclic graph) of jobs, which can be of any type, such as MapReduce, Spark, Hive, Pig, etc.
+- The basic workflow of YARN is as follows:
+  - The client submits an application to the RM, along with the specifications and requirements of the application, such as the AM code, the input and output locations, the resource needs, etc.
+  - The RM allocates a container (a unit of resource allocation) on a node in the cluster, and launches the AM for the application in that container.
+  - The AM registers itself with the RM, and requests resources for the application tasks from the RM.
+  - The RM grants the resource requests, and assigns containers on different nodes for the application tasks.
+  - The AM communicates with the NodeManagers (local daemons that manage the containers on each node) to launch and monitor the application tasks in the assigned containers.
+  - The application tasks process the data and generate the output, and report their progress and status to the AM.
+  - The AM reports the overall progress and status of the application to the RM and the client.
+  - The application completes when all the tasks finish successfully, or fails when the AM or any of the tasks fail.
+  - The AM unregisters itself from the RM, and releases the resources used by the application.
+- YARN provides several benefits to the Hadoop Eco System, such as:
+  - Supporting multiple and diverse applications and frameworks, not just MapReduce, on the same cluster.
+  - Improving the scalability and reliability of the cluster, by eliminating the single point of failure and bottleneck of the JobTracker, and distributing the load and responsibility among multiple RMs and AMs.
+  - Enhancing the resource utilization and efficiency of the cluster, by allowing dynamic

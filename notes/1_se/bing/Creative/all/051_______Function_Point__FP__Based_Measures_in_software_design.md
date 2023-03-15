@@ -1,0 +1,23 @@
+# Function Point (FP) Based Measures in Software Design
+
+- Function point (FP) is a technique to measure the functionality of a software system from the user's perspective.
+- Function point analysis (FPA) is a standardized method to estimate the size, complexity and effort of a software project based on the different functions that the software provides.
+- Function point analysis can be used to compare different software projects, to estimate the cost and duration of software development and maintenance, and to evaluate the productivity and quality of software teams.
+- Function point analysis consists of the following steps :
+  - Identify the user requirements and the logical components of the software system, such as inputs, outputs, inquiries, files and interfaces.
+  - Classify each component into one of the five types: external input (EI), external output (EO), external inquiry (EQ), internal logical file (ILF) and external interface file (EIF).
+  - Assign a complexity level (low, average or high) to each component based on the number of data elements and record types involved.
+  - Use a complexity-weight matrix to calculate the unadjusted function point (UFP) count for each component and sum them up to get the total UFP.
+  - Apply a complexity adjustment factor (CAF) to the UFP based on 14 general system characteristics that affect the functionality of the software, such as data communications, performance, reusability, etc. The CAF ranges from 0.65 to 1.35.
+  - Multiply the UFP by the CAF to get the adjusted function point (AFP) count, which is the final measure of the software functionality.
+- Function point analysis has some advantages and disadvantages:
+  - Advantages:
+    - It is independent of the programming language, technology and development methodology used for the software.
+    - It focuses on the user's view of the software rather than the technical details of the implementation.
+    - It can be applied early in the software development life cycle, before the design and coding phases.
+    - It can be used to benchmark the performance of software teams and organizations.
+  - Disadvantages:
+    - It requires a deep understanding of the user requirements and the logical design of the software.
+    - It is time-consuming and complex to perform and verify.
+    - It may not capture some aspects of the software quality, such as usability, reliability, security, etc.
+    - It may not be suitable for some types of software, such as embedded systems, real-time systems, etc.

@@ -1,0 +1,21 @@
+### Network management in application layer
+
+- Network management refers to the activities, methods, procedures, and tools that pertain to the operation, administration, maintenance, and provisioning of networked systems.
+- The application layer is the topmost layer of the OSI model and is responsible for providing services to the user.
+- In the context of network management, the application layer provides a user interface for managing the network.
+- Some common network management tasks that can be performed at the application layer include:
+  - Monitoring network performance
+  - Configuring network devices
+  - Managing network security
+  - Troubleshooting network issues
+- Network management protocols such as SNMP (Simple Network Management Protocol) operate at the application layer.
+- SNMP is an application layer protocol that allows network administrators to manage network performance, find and solve network problems, and plan for network growth.
+- An example of network management in the application layer is the use of a web-based interface to monitor and configure network devices.
+- Advantages of network management in the application layer:
+  - Provides a user-friendly interface for managing the network
+  - Allows for remote management of network devices
+  - Can provide a centralized view of the network
+- Disadvantages of network management in the application layer:
+  - Can be less efficient than lower-layer management protocols
+  - May require additional software or hardware to implement
+- A mnemonic to remember the tasks that can be performed at the application layer is "MCTM" (Monitoring, Configuring, Troubleshooting, Managing security).

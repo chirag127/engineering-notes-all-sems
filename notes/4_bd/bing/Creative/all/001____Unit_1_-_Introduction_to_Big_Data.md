@@ -1,0 +1,21 @@
+## Unit 1 - Introduction to Big Data
+
+- Big data is a term that refers to the large, complex, and diverse datasets that are generated from various sources at high speed and volume.
+- Big data challenges the traditional methods of data processing, storage, and analysis, and requires new technologies and techniques to handle it efficiently and effectively.
+- Big data has four main characteristics, also known as the 4Vs: volume, variety, velocity, and veracity.
+  - Volume: Big data is measured in terabytes, petabytes, or even exabytes, which are beyond the capacity of conventional databases and storage systems.
+  - Variety: Big data comes in different formats, such as structured, semi-structured, or unstructured, and from different sources, such as text, images, audio, video, social media, sensors, etc.
+  - Velocity: Big data is generated and processed at high speed, which requires real-time or near-real-time analysis and decision making.
+  - Veracity: Big data is often noisy, incomplete, inconsistent, or inaccurate, which affects the quality and reliability of the data and the results derived from it.
+- Big data has many applications and benefits across various domains, such as business, science, health, education, government, etc.
+  - Business: Big data can help businesses gain insights into customer behavior, preferences, and trends, optimize operations and supply chains, enhance marketing and sales strategies, improve products and services, and increase competitiveness and profitability.
+  - Science: Big data can help scientists discover new phenomena, test hypotheses, validate models, and advance knowledge in fields such as astronomy, physics, biology, chemistry, etc.
+  - Health: Big data can help health professionals diagnose diseases, monitor patients, prevent epidemics, improve treatments, and enhance public health and well-being.
+  - Education: Big data can help educators personalize learning, assess performance, identify gaps, and improve outcomes for students and teachers.
+  - Government: Big data can help government agencies improve public services, manage resources, enforce laws, prevent fraud, and promote transparency and accountability.
+- Big data also poses some challenges and risks, such as privacy, security, ethics, governance, and social implications.
+  - Privacy: Big data can reveal sensitive and personal information about individuals or groups, which can be exploited or misused by unauthorized parties or malicious actors.
+  - Security: Big data can be vulnerable to cyberattacks, data breaches, or data loss, which can compromise the confidentiality, integrity, and availability of the data and the systems that process it.
+  - Ethics: Big data can raise ethical issues, such as consent, ownership, fairness, accountability, and trust, which can affect the rights and responsibilities of the data providers, users, and stakeholders.
+  - Governance: Big data can require governance frameworks, policies, and standards, which can regulate the collection, storage, analysis, and sharing of the data and the results derived from it.
+  - Social: Big data can have social implications, such as digital divide, discrimination, bias, or social influence, which can affect the access, participation, and outcomes of the data and the results derived from it for different groups or individuals.
