@@ -1,0 +1,11 @@
+
+### KYC for the notes of the Unit 6 - Use case 1 in the subject of Block chain Architecture Design
+
+- **Know Your Customer (KYC)** is a process that is used to verify the identity of customers or clients. This process is used to ensure the customer is who they say they are, and to prevent fraud and money laundering. 
+- KYC is an important part of the blockchain architecture design process, as it helps to ensure that the blockchain network is secure and that transactions are legitimate.
+- KYC can be used to verify the identity of customers or clients, as well as to check the accuracy of information provided by the customer. This process can also be used to detect any suspicious activity or potential fraud.
+- A KYC process typically involves verifying the customer's identity, such as by requiring a government-issued ID, passport, or other form of identification. The process may also involve collecting additional information about the customer, such as their address or contact information.
+- The KYC process is an important part of blockchain architecture design, as it helps to ensure the security of the blockchain network and the legitimacy of transactions. It also helps to prevent money laundering and other forms of fraud.
+- To ensure the KYC process is effective, it is important to have a clear understanding of the customer's identity, as well as their financial history. This can be done by collecting and verifying the customer's identity documents, as well as conducting background checks.
+- Additionally, it is important to have a system in place to monitor transactions and detect any suspicious activity. This can help to detect any potential fraud or money laundering attempts.
+- Mnemonics and learning tricks can be used to help remember the different aspects of the KYC process. For example, the acronym "FATF" can be used to remember the Financial Action Task Force, which is an international body that sets standards for anti-money laundering and counter-terrorism financing. Additionally, the phrase "Know Your Customer" can be used to remember the importance of verifying the customer's identity.

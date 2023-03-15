@@ -1,0 +1,12 @@
+
+### Fabric SDK and Front End for the Notes of the Unit 5 - Hyperledger Fabric (B) in the Subject of Block Chain Architecture Design
+
+* Fabric SDK is a set of software development kits (SDKs) that provide developers with the tools needed to build applications on top of the Hyperledger Fabric blockchain. It includes a set of tools and libraries to help developers build, deploy, and manage applications on the Hyperledger Fabric network.
+* The Fabric Front End is a web-based interface for developers to interact with the Fabric SDK. It provides a graphical user interface for developers to create, deploy, and manage their applications on the Hyperledger Fabric network.
+* Fabric SDKs provide a set of APIs that can be used to interact with the Hyperledger Fabric network. These APIs can be used to create, deploy, and manage applications on the network.
+* Fabric SDKs can also be used to develop custom applications that interact with the Hyperledger Fabric network. These applications can be used to perform various tasks such as transferring funds, creating digital assets, and managing digital identities.
+* The Fabric Front End provides a graphical user interface for developers to interact with the Fabric SDK. It provides a graphical user interface for developers to create, deploy, and manage their applications on the Hyperledger Fabric network.
+* Fabric SDKs provide a set of tools and libraries that can be used to develop custom applications that interact with the Hyperledger Fabric network. These applications can be used to perform various tasks such as transferring funds, creating digital assets, and managing digital identities.
+* Fabric SDKs provide a set of libraries and tools that can be used to develop custom applications that interact with the Hyperledger Fabric network. These applications can be used to perform various tasks such as transferring funds, creating digital assets, and managing digital identities.
+* Fabric SDKs also provide a set of mnemonics and learning tricks that can be used to help developers learn about the Hyperledger Fabric network and the various features it provides. These mnemonics and learning tricks can be used to quickly understand the various concepts and features of the Hyperledger Fabric network.
+* Fabric SDKs also provide a set of best practices and guidelines that developers should follow when developing applications on the Hyperledger Fabric network. These best practices and guidelines can help developers ensure that their applications are secure and performant.
