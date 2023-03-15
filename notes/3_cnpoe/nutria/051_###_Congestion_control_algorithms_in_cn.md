@@ -1,0 +1,12 @@
+
+### Congestion Control Algorithms in CN
+
+* **Stop-and-Wait Protocol:** This is a very basic protocol used for congestion control in Computer Networks. It works by sending one packet at a time and waiting for an acknowledgement from the receiver before sending the next packet. The advantage of this protocol is that it is very simple and easy to implement, but the drawback is that it is very slow and inefficient.
+
+* **Go-Back-N ARQ:** This is an improved version of the Stop-and-Wait protocol. It works by sending multiple packets at a time and waiting for an acknowledgement from the receiver after each packet. The advantage of this protocol is that it is faster than Stop-and-Wait, but the drawback is that it is more complex to implement.
+
+* **Selective Repeat ARQ:** This is a further improved version of the Go-Back-N ARQ protocol. It works by sending multiple packets at a time and waiting for an acknowledgement from the receiver for only the packets that have been received successfully. The advantage of this protocol is that it is more efficient than Go-Back-N ARQ, but the drawback is that it is even more complex to implement.
+
+* **Flow Control:** Flow control is a technique used to regulate the amount of data that is sent from one node to another. This is done by setting a window size, which is the maximum number of unacknowledged packets that can be sent at any given time. The advantage of this technique is that it helps to prevent congestion by limiting the amount of data that is sent at any given time. The drawback is that it can lead to delays in the transmission of data.
+
+* **Congestion Avoidance:** Congestion avoidance is a technique used to prevent congestion in Computer Networks. This is done by using various algorithms such as Random Early Detection (RED) and Weighted Random Early Detection (WRED). These algorithms work by monitoring the network and detecting when the network is becoming congested. When congestion is detected, the algorithm will reduce the amount of data that is sent, thus avoiding congestion. The advantage of this technique is that it helps to prevent congestion, but the drawback is that it can lead to delays in the transmission of data.
