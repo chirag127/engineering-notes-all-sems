@@ -1,0 +1,17 @@
+
+### Air-Interface for the Notes of the Unit 1 - Introduction, Issues in Mobile Computing, Overview of Wireless Telephony: Cellular Concept, GSM: in the Subject of Mobile Computing
+
+* Air-interface is the physical layer of the mobile communication system. It is responsible for the transmission of data between the mobile device and the base station.
+* The air-interface is the interface between the mobile device and the network. It is responsible for the transmission of data and the reception of data from the base station.
+* The air-interface is divided into two parts: the uplink and the downlink. The uplink is the transmission of data from the mobile device to the base station, while the downlink is the transmission of data from the base station to the mobile device.
+* The air-interface is designed to provide a reliable communication channel between the mobile device and the base station. It is designed to provide a secure connection and to ensure that the data is transmitted in a reliable manner.
+* The air-interface is designed to provide a high-speed connection between the mobile device and the base station. It is designed to provide a reliable connection with a low latency.
+* The air-interface is designed to provide a secure connection between the mobile device and the base station. It is designed to provide a secure connection that is not vulnerable to malicious attacks.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference or noise.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to signal fading or signal loss.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from other radio signals.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from other wireless networks.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from other communication technologies.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from environmental factors.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from other sources.
+* The air-interface is designed to provide a reliable connection between the mobile device and the base station. It is designed to provide a reliable connection that is not vulnerable to interference from other radio frequency sources.
