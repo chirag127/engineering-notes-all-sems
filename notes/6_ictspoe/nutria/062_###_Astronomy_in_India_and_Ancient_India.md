@@ -1,0 +1,10 @@
+
+### Astronomy in India and Ancient India
+
+* Astronomy in India has a long and varied history. Ancient Indian astronomers developed a sophisticated system of celestial observation and calculation, which was used to make predictions about the movements of the planets and stars.
+* Ancient Indian astronomers were also responsible for developing the concept of zero and the decimal system, which was later adopted by the Arabs and Europeans.
+* The Vedic period (1700 BC to 500 BC) saw the development of the first astronomical texts, such as the Vedanga Jyotisha. This text discussed the movements of the sun and the moon, and how they affected the calendar and the seasons.
+* The classical period (500 BC to 500 AD) saw the development of more sophisticated astronomical theories, such as the Surya Siddhanta and the Pancha Siddhanta. These texts discussed the movements of the planets and stars, and introduced the concept of a spherical earth.
+* During the medieval period (500 AD to 1500 AD), Indian astronomers developed several important astronomical instruments, such as the equatorial armillary sphere, the astrolabe, and the celestial globe. They also developed the Hindu calendar and the Indian national calendar.
+* In the modern period (1500 AD to present), Indian astronomers continued to make important contributions to the field of astronomy. They developed new instruments, such as the telescope and the spectroscope, and made important discoveries, such as the nature of the universe and the presence of other galaxies.
+* Today, India is home to several leading astronomical observatories, such as the Indian Astronomical Observatory and the Aryabhatta Research Institute of Observational Sciences. Indian astronomers continue to make important contributions to the field, and India is now home to several leading space research organizations, such as the Indian Space Research Organisation.
