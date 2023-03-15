@@ -1,0 +1,24 @@
+### Protection schemes for the notes of the Unit 4 - Memory Management in the subject of Operating system
+
+Memory management is the process of allocating and managing the main memory of a computer system. Memory management involves the following tasks:
+
+- Keeping track of which parts of memory are in use and which are free
+- Allocating memory to processes when they need it and freeing it when they are done
+- Providing mechanisms for sharing and protecting memory among multiple processes
+- Supporting virtual memory and memory mapping techniques
+
+Memory protection is a feature of memory management that prevents a process from accessing memory that is not allocated to it or that belongs to another process or the operating system. Memory protection is essential for ensuring the reliability, security and integrity of the system.
+
+There are different schemes for implementing memory protection, depending on the hardware and software architecture of the system. Some of the common schemes are:
+
+- Base and limit registers: This scheme uses two special registers, called the base and limit registers, to store the starting address and the size of the memory region allocated to a process. The hardware checks every memory reference made by the process and compares it with the base and limit registers. If the reference is outside the range, a trap is generated and the process is terminated or suspended. This scheme is simple and fast, but it does not support dynamic memory allocation or sharing of memory among processes.
+- Segmentation: This scheme divides the memory into variable-sized segments, each with a name and a length. A segment can be a logical unit of a program, such as a code, data, stack or heap segment. Each segment has a descriptor that contains its base address, limit, access rights and other attributes. The hardware uses a segment table to map the logical addresses of a process to the physical addresses of the segments. The hardware checks every memory reference made by the process and verifies that it is within the bounds and access rights of the segment. If not, a trap is generated and the process is terminated or suspended. Segmentation allows better access protection than other schemes because memory references are relative to a specific segment and the hardware will not permit the process to reference memory not defined for that segment. It also supports dynamic memory allocation and sharing of memory among processes. However, segmentation can cause external fragmentation and overhead of maintaining the segment table and descriptors.
+- Paging: This scheme divides the memory into fixed-sized pages, usually of 4 KB or larger. Each page has a number and a frame that indicates its location in the physical memory. The hardware uses a page table to map the logical addresses of a process to the physical addresses of the pages. The hardware checks every memory reference made by the process and translates it using the page table. If the page is not in the memory, a page fault is generated and the operating system brings the page from the secondary storage to the memory. Paging allows efficient use of memory and avoids external fragmentation. It also supports dynamic memory allocation and sharing of memory among processes. However, paging can cause internal fragmentation and overhead of maintaining the page table and handling page faults.
+- Segmentation with paging: This scheme combines the advantages of segmentation and paging. It divides the memory into segments, each of which is further divided into pages. Each segment has a descriptor that contains its base address, limit, access rights and other attributes. Each page has a number and a frame that indicates its location in the physical memory. The hardware uses a segment table and a page table to map the logical addresses of a process to the physical addresses of the pages. The hardware checks every memory reference made by the process and verifies that it is within the bounds and access rights of the segment, and then translates it using the page table. If the page is not in the memory, a page fault is generated and the operating system brings the page from the secondary storage to the memory. Segmentation with paging allows better access protection, dynamic memory allocation, sharing of memory and efficient use of memory. However, it also causes more complexity and overhead of maintaining the segment table, page table and handling page faults.
+
+References:
+
+: https://www.geeksforgeeks.org/memory-protection-in-operating-systems/
+: https://www.computersciencejunction.in/2017/04/30/memory-protection-in-os/
+: https://en.wikipedia.org/wiki/Memory_protection
+: https://en.wikipedia.org/wiki/Memory_management_(operating_systems)

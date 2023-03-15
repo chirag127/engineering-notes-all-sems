@@ -1,0 +1,8 @@
+## Unit 3 - Scripting
+
+- Scripting is a technique of writing and executing commands in a file, called a script, that can automate tasks or perform complex operations.
+- Scripts are usually written in a scripting language, such as Python, Ruby, Perl, or Bash, that can be interpreted by a program called a script interpreter or a shell.
+- Scripts can be executed by passing the script file name as an argument to the interpreter, such as `python script.py` or `bash script.sh`, or by making the script file executable and adding a special line at the beginning of the file, called a shebang, that specifies the interpreter to use, such as `#!/usr/bin/python` or `#!/bin/bash`.
+- Scripts can accept arguments from the command line, access environment variables, read and write files, communicate with other programs, and perform various operations on data, such as arithmetic, string manipulation, regular expressions, and data structures.
+- Scripts can also use conditional statements, such as `if`, `elif`, and `else`, to execute different blocks of code based on some condition, and loops, such as `for` and `while`, to repeat a block of code multiple times.
+- Scripts can also define and call functions, which are reusable blocks of code that can take parameters and return values, and use modules, which are files that contain functions and variables that can be imported and used by other scripts.

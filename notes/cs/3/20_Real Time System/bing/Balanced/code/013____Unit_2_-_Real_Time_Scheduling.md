@@ -1,0 +1,22 @@
+# Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines .
+- Real time scheduling involves breaking a program into multiple threads or processes that can run concurrently and independently on a processor or a multiprocessor system .
+- Real time scheduling aims to reduce the response time and meet the deadlines of each task, while maximizing the system utilization and throughput .
+- Real time scheduling can be classified into two categories: static and dynamic .
+  - Static scheduling is done at compile time or before the system starts running. It is based on the known characteristics of the tasks, such as their arrival time, execution time, deadline, and priority. Static scheduling is suitable for periodic and deterministic tasks that have fixed and predictable behavior .
+  - Dynamic scheduling is done at run time or when the system is running. It is based on the current state of the system, such as the availability of resources, the arrival of new tasks, the completion of existing tasks, and the occurrence of events. Dynamic scheduling is suitable for aperiodic and stochastic tasks that have variable and unpredictable behavior .
+- Real time scheduling algorithms can be classified into two categories: preemptive and non-preemptive .
+  - Preemptive scheduling allows a higher priority task to interrupt and suspend a lower priority task that is currently running on the processor. The lower priority task resumes its execution when the higher priority task finishes or is blocked. Preemptive scheduling can reduce the response time and improve the schedulability of tasks, but it can also incur more overhead and complexity .
+  - Non-preemptive scheduling does not allow a higher priority task to interrupt a lower priority task that is currently running on the processor. The lower priority task completes its execution before the higher priority task can start. Non-preemptive scheduling can reduce the overhead and complexity, but it can also increase the response time and degrade the schedulability of tasks .
+- Some examples of real time scheduling algorithms are:
+  - Rate monotonic scheduling (RMS): a static and preemptive algorithm that assigns priorities to tasks based on their periods, such that the shorter the period, the higher the priority .
+  - Earliest deadline first scheduling (EDF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their deadlines, such that the earlier the deadline, the higher the priority .
+  - Least laxity first scheduling (LLF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their laxity, which is the difference between their deadline and their remaining execution time, such that the smaller the laxity, the higher the priority .
+  - Round robin scheduling (RR): a dynamic and preemptive algorithm that assigns equal priorities to tasks and allocates them a fixed amount of time (quantum) to run on the processor. The tasks are arranged in a circular queue and the processor switches to the next task in the queue after each quantum .
+  - First come first served scheduling (FCFS): a dynamic and non-preemptive algorithm that assigns priorities to tasks based on their arrival time, such that the earlier the arrival, the higher the priority .
+  - Priority scheduling: a dynamic and non-preemptive algorithm that assigns priorities to tasks based on some criteria, such as their importance, urgency, or resource requirements, such that the higher the priority, the earlier the execution .
+- Real time scheduling can be applied to various domains and applications, such as embedded systems, robotics, multimedia, industrial control, aerospace, and health care .
+- Real time scheduling can also be supported by various tools and platforms, such as real time operating systems (RTOS), real time schedulers, real time kernels, and real time middleware .
+- Real time scheduling can be evaluated and verified by various methods and metrics, such as schedulability analysis, simulation, testing, and performance measurement .
+- Real time scheduling can be enhanced and optimized by various techniques and strategies, such as task partitioning

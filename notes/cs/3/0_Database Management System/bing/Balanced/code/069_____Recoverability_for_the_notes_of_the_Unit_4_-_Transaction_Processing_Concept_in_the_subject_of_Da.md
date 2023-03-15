@@ -1,0 +1,36 @@
+### Recoverability for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- Recoverability is the property of a schedule that ensures that the database can be restored to a consistent state after a transaction failure or system crash .
+- A schedule is a sequence of operations performed by one or more transactions on the database.
+- A transaction is a logical unit of work that accesses and possibly modifies the contents of a database.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that either all the operations of a transaction are executed or none of them are.
+- Consistency means that the transaction preserves the internal consistency of the database.
+- Isolation means that the execution of a transaction does not interfere with the execution of other concurrent transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failure.
+- A transaction can be in one of the following states: active, partially committed, committed, failed, or aborted.
+- Active is the initial state of a transaction, where it executes its operations.
+- Partially committed is the state of a transaction after it executes its final operation, but before it commits.
+- Committed is the state of a transaction after it successfully completes and makes its changes permanent in the database.
+- Failed is the state of a transaction after it encounters an error or aborts due to some reason.
+- Aborted is the state of a transaction after it rolls back its changes and releases the resources it acquired.
+- A transaction can fail or abort due to various reasons, such as hardware failure, system crash, concurrency control, or user intervention.
+- When a transaction fails or aborts, it may leave the database in an inconsistent state, where some of its changes are reflected and some are not.
+- To restore the database to a consistent state, the failed or aborted transaction must be rolled back, which means undoing its changes and releasing its resources.
+- However, some other transactions may have read or written the data items that were modified by the failed or aborted transaction.
+- This may lead to problems such as dirty read, lost update, or cascading rollback.
+- A dirty read occurs when a transaction reads a data item that was written by an uncommitted transaction.
+- A lost update occurs when a transaction overwrites the changes made by another transaction without reading them first.
+- A cascading rollback occurs when a transaction has to be rolled back because it read or wrote a data item that was modified by another transaction that was rolled back.
+- To avoid these problems, a schedule must be recoverable, which means that no transaction can commit until all the transactions whose changes it read have committed.
+- A recoverable schedule ensures that if a transaction fails or aborts, only the transactions that depend on it have to be rolled back, and not the ones that are independent of it.
+- A recoverable schedule can be classified into three types: cascadeless, strict, and rigorous.
+- A cascadeless schedule is a recoverable schedule where no transaction can read a data item until the transaction that wrote it has committed.
+- A cascadeless schedule prevents cascading rollback, which means that only one transaction has to be rolled back at a time.
+- A strict schedule is a cascadeless schedule where no transaction can read or write a data item until the transaction that wrote it has committed.
+- A strict schedule prevents dirty read and lost update, which means that the changes made by a transaction are not visible to other transactions until it commits.
+- A rigorous schedule is a strict schedule where no transaction can read or write a data item until the transaction that wrote it has released its lock on it.
+- A rigorous schedule prevents any interference between transactions, which means that the data items are locked by a transaction until it finishes.
+- A rigorous schedule is the most restrictive type of recoverable schedule, but it also ensures the highest degree of isolation and consistency.
+- To ensure recoverability, a transaction processing system must use some recovery techniques, such as logging, checkpointing, shadow paging, or backup and restore.
+- Logging is a technique where the system records the changes

@@ -1,0 +1,26 @@
+# Frequency Domain
+
+- Frequency domain is a way of representing an image in terms of its spatial frequencies, which are the rates of change of pixel values in different directions.
+- Frequency domain methods of image enhancement are based on the Fourier transform, which converts an image from the spatial domain to the frequency domain, and vice versa.
+- The Fourier transform of an image F(u,v) is a complex function that contains both the magnitude and the phase of the frequency components of the image.
+- The magnitude of F(u,v) represents the amount of energy at each frequency, while the phase of F(u,v) represents the spatial location of the frequency components.
+- Image enhancement in the frequency domain involves modifying the magnitude and/or the phase of F(u,v) and then applying the inverse Fourier transform to obtain the enhanced image.
+- The advantage of frequency domain methods is that they can perform filtering operations more efficiently and intuitively than spatial domain methods, especially for large kernels.
+- The disadvantage of frequency domain methods is that they may introduce artifacts or distortions in the enhanced image due to the loss of spatial information or the violation of the convolution theorem.
+
+## Frequency Domain Filters
+
+- Frequency domain filters are functions that modify the Fourier transform of an image according to some criteria, such as enhancing or attenuating certain frequency components, or removing noise or blurring effects.
+- Frequency domain filters can be classified into two types: low-pass filters and high-pass filters.
+- Low-pass filters are filters that preserve the low-frequency components of an image and attenuate the high-frequency components. They are used to smooth or blur an image, or to reduce noise or sharp edges.
+- High-pass filters are filters that preserve the high-frequency components of an image and attenuate the low-frequency components. They are used to sharpen or enhance an image, or to emphasize edges or fine details.
+- Frequency domain filters can also be designed based on the properties of the frequency spectrum of an image, such as its orientation, shape, or symmetry.
+- Some examples of frequency domain filters are:
+
+  - Ideal low-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where all the frequencies within the region are preserved and all the frequencies outside the region are attenuated. This filter produces a sharp cutoff in the frequency domain, but it introduces ringing artifacts in the spatial domain due to the Gibbs phenomenon.
+  - Butterworth low-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where the frequencies within the region are preserved and the frequencies outside the region are attenuated gradually according to a parameter n, which controls the smoothness of the transition. This filter produces a smoother cutoff in the frequency domain, but it also reduces the contrast of the image in the spatial domain.
+  - Gaussian low-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where the frequencies within the region are preserved and the frequencies outside the region are attenuated exponentially according to a parameter σ, which controls the standard deviation of the Gaussian function. This filter produces the smoothest cutoff in the frequency domain, and it preserves the shape of the image in the spatial domain, but it also blurs the image more than the other filters.
+  - Ideal high-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where all the frequencies within the region are attenuated and all the frequencies outside the region are preserved. This filter produces a sharp cutoff in the frequency domain, but it introduces ringing artifacts in the spatial domain due to the Gibbs phenomenon.
+  - Butterworth high-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where the frequencies within the region are attenuated gradually and the frequencies outside the region are preserved according to a parameter n, which controls the smoothness of the transition. This filter produces a smoother cutoff in the frequency domain, but it also reduces the contrast of the image in the spatial domain.
+  - Gaussian high-pass filter: a filter that has a circular region of radius D0 in the frequency domain, where the frequencies within the region are attenuated exponentially and the frequencies outside the region are preserved according to a parameter σ, which controls the standard deviation of the Gaussian function. This filter produces the smoothest cutoff in the frequency domain, and it preserves the shape of the image in the spatial domain, but it also blurs the image less than the other filters.
+  - Laplacian filter: a filter that has a negative value at the origin and positive values elsewhere in the frequency domain, where the magnitude of the values is proportional to the square of the distance from the origin. This filter

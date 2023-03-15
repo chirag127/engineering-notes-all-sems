@@ -1,0 +1,28 @@
+### Array references in arithmetic expressions
+
+- An array reference is an expression that denotes the location of an element of an array in memory.
+- An array reference has an l-value, which is the address of the element, and an r-value, which is the value stored at that address.
+- To translate an array reference in a source program, we need to compute the l-value of the element and then use it to access or modify the r-value .
+- The l-value of an array element depends on the following factors :
+  - The base address of the array, which is the starting location of the array in memory.
+  - The index of the element, which is the position of the element in the array.
+  - The lower bound of the array, which is the minimum value of the index.
+  - The width of the element, which is the number of bytes occupied by each element of the array.
+- The general formula for computing the l-value of an array element is :
+  - `l-value = base + (index - lower bound) * width`
+- For example, if we have an array declaration `A[1..10]` of integers, where each integer occupies 4 bytes, and the base address of A is 1000, then the l-value of `A[5]` is :
+  - `l-value = 1000 + (5 - 1) * 4 = 1016`
+- For multi-dimensional arrays, the formula for computing the l-value of an element is more complex, as it involves multiplying the index of each dimension by the product of the widths of all the lower dimensions.
+- For example, if we have a two-dimensional array declaration `B[1..10, 1..20]` of integers, where each integer occupies 4 bytes, and the base address of B is 2000, then the l-value of `B[3, 7]` is:
+  - `l-value = 2000 + ((3 - 1) * 20 + (7 - 1)) * 4 = 2168`
+- To generate code for array references, we can use either of the following methods :
+  - Direct translation: We generate code that directly computes the l-value of the array element and then uses it to access or modify the r-value. For example, for the expression `A[5] = A[5] + 1`, we can generate the following code:
+    - `MOV R1, #1016 // load the l-value of A[5]`
+    - `MOV R2, [R1] // load the r-value of A[5]`
+    - `ADD R2, R2, #1 // increment the r-value by 1`
+    - `MOV [R1], R2 // store the new r-value at the l-value`
+  - Indirect translation: We generate code that uses an intermediate variable to store the l-value of the array element and then uses it to access or modify the r-value. For example, for the expression `A[5] = A[5] + 1`, we can generate the following code:
+    - `t1 = 1016 // assign the l-value of A[5] to t1`
+    - `t2 = A[t1] // assign the r-value of A[5] to t2`
+    - `t2 = t2 + 1 // increment t2 by 1`
+    - `A[t1] = t2 // assign t2 to the r-value of A[5]`

@@ -1,0 +1,24 @@
+## Unit 1 - DIGITAL IMAGE FUNDAMENTALS
+
+- A digital image is a representation of a two-dimensional scene using a finite set of discrete values, called pixels or picture elements.
+- Digital image processing is the manipulation of digital images using computer algorithms and software.
+- The basic steps involved in digital image processing are:
+  - Image acquisition: This involves capturing an image using a digital camera or scanner, or importing an existing image into a computer.
+  - Image enhancement: This involves improving the visual quality of an image, such as increasing contrast, reducing noise, and removing artifacts.
+  - Image restoration: This involves recovering an image that has been degraded by factors such as blurring, distortion, or missing data.
+  - Image segmentation: This involves dividing an image into regions or objects based on some criteria, such as color, texture, or shape.
+  - Image representation: This involves describing an image using features or descriptors that capture its essential characteristics, such as edges, corners, or contours.
+  - Image compression: This involves reducing the amount of data required to store or transmit an image, while preserving its quality or information content.
+  - Image recognition: This involves identifying or classifying an image or its components, such as faces, objects, or scenes, based on some criteria, such as similarity, pattern, or context.
+- The elements of digital image processing include :
+  - Elements of visual perception: This involves understanding how the human visual system perceives and interprets images, such as brightness, contrast, color, and depth.
+  - Light and the electromagnetic spectrum: This involves understanding the physical properties of light and its interaction with matter, such as reflection, refraction, absorption, and emission.
+  - Image sensing and acquisition: This involves understanding the principles and devices that convert light into electrical signals, such as sensors, lenses, filters, and scanners.
+  - Sampling and quantization: This involves understanding the process of converting a continuous image into a discrete image, by selecting a finite number of pixels and assigning them a finite number of values.
+  - Image transforms: This involves understanding the mathematical tools that allow changing the representation of an image from one domain to another, such as spatial, frequency, or wavelet domain.
+  - Image enhancement techniques: This involves understanding the methods that modify an image to improve its appearance or suitability for a specific task, such as histogram equalization, filtering, sharpening, or contrast stretching.
+  - Image restoration techniques: This involves understanding the methods that attempt to restore an image that has been degraded by a known or estimated degradation function, such as deblurring, deconvolution, or inpainting.
+  - Image segmentation techniques: This involves understanding the methods that partition an image into meaningful regions or objects, based on some criteria, such as thresholding, clustering, edge detection, or region growing.
+  - Image representation techniques: This involves understanding the methods that describe an image using features or descriptors that capture its essential characteristics, such as boundary, shape, texture, or color.
+  - Image compression techniques: This involves understanding the methods that reduce the amount of data required to store or transmit an image, while preserving its quality or information content, such as lossless or lossy compression, entropy coding, or transform coding.
+  - Image recognition techniques: This involves understanding the methods that identify or classify an image or its components, based on some criteria, such as similarity, pattern, or context, such as template matching, feature matching, or machine learning.

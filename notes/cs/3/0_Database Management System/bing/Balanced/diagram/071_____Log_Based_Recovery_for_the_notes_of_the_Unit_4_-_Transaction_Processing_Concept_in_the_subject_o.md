@@ -1,0 +1,23 @@
+### Log Based Recovery in DBMS
+
+- Log based recovery is a technique used in database management systems (DBMS) to recover a database to a consistent state in the event of a failure or crash.
+- It involves the use of transaction logs, which are records of all the transactions performed on the database.
+- A log record contains the following information  :
+  - Transaction ID: A unique identifier for each transaction.
+  - Operation: The type of operation performed by the transaction, such as read, write, commit, or abort.
+  - Data Item: The name of the data item affected by the operation.
+  - Old Value: The value of the data item before the operation.
+  - New Value: The value of the data item after the operation.
+- A log file is maintained in a stable storage device, such as a disk or a tape, that is not affected by the failure  .
+- The log file is updated before the actual changes are made to the database, to ensure that the log reflects the latest state of the transactions  .
+- The log file is used to recover the database by applying two techniques: undo and redo    .
+  - Undo: This technique is used to undo the effects of the transactions that were not committed before the failure. It involves restoring the old values of the data items from the log records.
+  - Redo: This technique is used to redo the effects of the transactions that were committed before the failure. It involves applying the new values of the data items from the log records.
+- The log file can be used to implement different recovery algorithms, such as deferred update, immediate update, checkpointing, and fuzzy checkpointing    .
+  - Deferred Update: This algorithm delays the actual updates to the database until the transaction commits. It only requires redo operations for recovery.
+  - Immediate Update: This algorithm allows the updates to the database before the transaction commits. It requires both undo and redo operations for recovery.
+  - Checkpointing: This algorithm periodically writes the contents of the main memory to the disk, and records a checkpoint in the log file. It reduces the amount of undo and redo operations for recovery.
+  - Fuzzy Checkpointing: This algorithm allows the checkpointing process to overlap with the normal transaction processing. It avoids blocking the transactions during checkpointing.
+- The log based recovery technique ensures the atomicity and durability properties of the transactions    .
+  - Atomicity: It means that either all the operations of a transaction are executed or none of them are executed.
+  - Durability: It means that the effects of a committed transaction are permanent and not lost due to a failure.

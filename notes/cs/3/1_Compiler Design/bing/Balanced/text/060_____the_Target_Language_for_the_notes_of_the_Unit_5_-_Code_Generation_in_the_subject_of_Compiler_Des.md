@@ -1,0 +1,12 @@
+### The Target Language for the notes of the Unit 5 - Code Generation in the subject of Compiler Design
+
+- The target language is the language that the compiler generates as output from the source language. It can be machine code, assembly code, or another high-level language.
+- The code generation phase of the compiler is responsible for translating the optimized intermediate code into the target language. It may perform some additional optimizations and transformations on the intermediate code to improve the quality and efficiency of the target code.
+- The code generation phase typically involves the following tasks:
+  - Register allocation: assigning variables and temporary values to registers or memory locations in the target machine.
+  - Instruction selection: choosing the appropriate instructions and operands for each operation in the intermediate code.
+  - Instruction scheduling: ordering the instructions to maximize the parallelism and minimize the stalls and dependencies in the target machine.
+- The code generation phase may use different strategies and algorithms to perform these tasks, depending on the characteristics of the source language, the intermediate code, and the target machine. Some of the common strategies are:
+  - Simple code generation: generating one instruction for each operation in the intermediate code, without any optimization or register allocation. This strategy is fast and easy to implement, but produces low-quality and inefficient target code.
+  - Peephole optimization: applying local optimizations on a small window of instructions, such as eliminating redundant or unnecessary instructions, replacing expensive instructions with cheaper ones, or rearranging instructions to improve the code layout. This strategy can improve the target code quality and efficiency, but requires a careful design of the peephole rules and patterns.
+  - DAG-based code generation: representing the intermediate code as a directed acyclic graph (DAG), where each node is an operation and each edge is a data dependency. This strategy can exploit the common subexpressions and eliminate the redundant computations in the intermediate code, as well as perform instruction selection and register allocation based on the DAG structure and properties. This strategy can produce high-quality and efficient target code, but requires a complex and sophisticated implementation.

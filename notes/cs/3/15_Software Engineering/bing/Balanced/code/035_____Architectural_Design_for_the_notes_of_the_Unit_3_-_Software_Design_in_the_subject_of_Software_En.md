@@ -1,0 +1,32 @@
+### Architectural Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Architectural design is the process of defining a collection of hardware and software components and their interfaces to establish the framework for the development of a computer system.
+- Architectural design is of crucial importance in software engineering during which the essential requirements like reliability, cost, and performance are dealt with.
+- Architectural design is about decomposing the system into interacting components. It is expressed as a block diagram defining an overview of the system structure, features of the components, and how these components communicate with each other to share data.
+- Architectural design is influenced by the following factors:
+  - The type of system being developed, such as embedded, distributed, real-time, etc.
+  - The quality attributes of the system, such as performance, security, usability, etc.
+  - The business and technical constraints of the system, such as budget, schedule, standards, etc.
+  - The availability of reusable components and patterns that can be applied to the system.
+- Architectural design involves the following steps:
+  - Identify the system's stakeholders and their concerns.
+  - Define the system's scope and context.
+  - Establish the system's quality attributes and trade-offs.
+  - Select an appropriate architectural style or pattern for the system.
+  - Decompose the system into components and connectors.
+  - Document and evaluate the architectural design using views and models.
+- Architectural design can be represented using different views and models, such as:
+  - Logical view: shows the functional requirements and the main abstractions of the system.
+  - Process view: shows the dynamic behavior and concurrency of the system.
+  - Development view: shows the structure and organization of the system's modules and components.
+  - Physical view: shows the deployment and distribution of the system's components and resources.
+  - Scenario view: shows the interaction and collaboration of the system's components and actors.
+- Architectural design can benefit from using software architectural patterns, which are proven solutions to common problems in software design. Some examples of software architectural patterns are:
+  - Layered pattern: organizes the system into layers of abstraction, such as presentation, business, and data layers.
+  - Client-server pattern: divides the system into clients that request services and servers that provide services.
+  - Peer-to-peer pattern: allows the system's components to communicate and cooperate directly without a central authority.
+  - Model-view-controller pattern: separates the system's data (model), user interface (view), and logic (controller).
+  - Microservices pattern: decomposes the system into small, independent, and loosely coupled services that communicate via messages.
+  - Event-driven pattern: triggers the system's components to perform actions based on events or messages.
+  - Repository pattern: centralizes the system's data and provides a uniform interface for accessing and manipulating it.
+  - Pipe and filter pattern: processes the system's data by passing it through a sequence of filters that transform it.

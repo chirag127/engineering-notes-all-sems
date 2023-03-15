@@ -1,0 +1,5 @@
+### IEEE Standards for SRS
+
+The IEEE (Institute of Electrical and Electronics Engineers) has established standards for Software Requirements Specification (SRS) documents. The IEEE Standard 830, last revised in 1998, has since been replaced by Standard ISO/IEC/IEEE 29148:2011, with an update in 2018. IEEE 29148 covers the processes and information it recommends for a software requirements specification (SRS) document, as well as its format.
+
+The heart of the SRS consists of descriptions of both functional and nonfunctional requirements. The IEEE standard provides several suggestions of how to organize functional requirements: by mode, user class, object, feature, stimulus, functional hierarchy or combinations of these criteria. There is no single organizational approach that's best; use whatever makes sense for your project.

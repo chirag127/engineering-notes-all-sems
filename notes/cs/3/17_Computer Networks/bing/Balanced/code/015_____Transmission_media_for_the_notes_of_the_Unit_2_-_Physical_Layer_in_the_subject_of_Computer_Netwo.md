@@ -1,0 +1,21 @@
+### Transmission media for the notes of the Unit 2 - Physical Layer in the subject of Computer Networks
+
+- Transmission media is the physical medium that carries data in the form of bits from the sender to the receiver in a computer network  .
+- Transmission media can be classified into two types: guided media and unguided media.
+- Guided media, also known as wired or bounded media, uses physical links such as wires or cables to direct and confine the signals being transmitted.
+- Examples of guided media are twisted pair, coaxial cable, and optical fiber .
+- Guided media has the following features:
+  - High speed
+  - Secure
+  - Used for comparatively shorter distances
+- Unguided media, also known as wireless or unbounded media, uses electromagnetic waves such as radio, microwave, or infrared to transmit signals through the air or space.
+- Examples of unguided media are terrestrial microwave, satellite microwave, and cellular radio .
+- Unguided media has the following features:
+  - Low speed
+  - Less secure
+  - Used for comparatively longer distances
+- The choice of transmission media depends on various factors such as cost, bandwidth, distance, reliability, security, and network architecture .
+- Network architecture is the design and structure of a computer network, which includes hardware, software, transmission media, network topology, and communication protocols.
+- There are two main types of network architecture: peer-to-peer (P2P) and client/server.
+- In P2P network architecture, each node can act as both a client and a server, and there is no central authority or server to control the network.
+- In client/server network architecture, there is a dedicated server that provides services to the clients, and the clients request services from the server.

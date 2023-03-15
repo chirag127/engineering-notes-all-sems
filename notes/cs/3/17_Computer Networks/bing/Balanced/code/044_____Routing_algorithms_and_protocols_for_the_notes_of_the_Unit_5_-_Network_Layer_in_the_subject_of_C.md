@@ -1,0 +1,16 @@
+### Routing algorithms and protocols for the notes of the Unit 5 - Network Layer in the subject of Computer Networks
+
+- Routing is the process of finding and selecting the best path for data transmission from source to destination in a computer network.
+- Routing algorithms are the software programs that implement the logic of routing, i.e., deciding the optimal path for each packet.
+- Routing protocols are the set of rules and messages that routers use to communicate with each other and exchange routing information.
+- Routing algorithms and protocols can be classified into two main categories: static and dynamic.
+  - Static routing algorithms and protocols are fixed and do not change according to the network conditions. They are manually configured by the network administrator and are suitable for small and stable networks. An example of a static routing protocol is RIP (Routing Information Protocol).
+  - Dynamic routing algorithms and protocols are adaptive and change according to the network conditions. They are automatically updated by the routers and are suitable for large and complex networks. An example of a dynamic routing protocol is OSPF (Open Shortest Path First).
+- Routing algorithms and protocols can also be classified based on the scope of their operation: intra-domain and inter-domain.
+  - Intra-domain routing algorithms and protocols are used within a single autonomous system (AS), which is a group of routers under the same administrative control. They are also called interior gateway protocols (IGPs). An example of an intra-domain routing protocol is OSPF.
+  - Inter-domain routing algorithms and protocols are used between different autonomous systems. They are also called exterior gateway protocols (EGPs). An example of an inter-domain routing protocol is BGP (Border Gateway Protocol).
+- Routing algorithms and protocols can use different metrics to measure the cost of a path, such as distance, hop count, bandwidth, delay, reliability, load, etc. The metric can be a single factor or a combination of factors.
+- Routing algorithms and protocols can use different techniques to update and exchange routing information, such as distance vector, link state, path vector, etc.
+  - Distance vector routing algorithms and protocols use the Bellman-Ford algorithm to calculate the shortest path to each destination based on the distance (or hop count) and the direction (or vector) of the next hop. They exchange routing tables with their immediate neighbors periodically or when there is a change. An example of a distance vector routing protocol is RIP.
+  - Link state routing algorithms and protocols use the Dijkstra's algorithm to calculate the shortest path to each destination based on the state (or cost) of each link in the network. They exchange link state advertisements (LSAs) with all the routers in the same area or domain periodically or when there is a change. An example of a link state routing protocol is OSPF.
+  - Path vector routing algorithms and protocols use the concept of path attributes to describe the characteristics of each path to a destination. They exchange path vector messages with their neighboring routers when there is a change. An example of a path vector routing protocol is BGP.

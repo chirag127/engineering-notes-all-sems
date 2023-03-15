@@ -1,0 +1,12 @@
+### Specification methods for human computer interface
+
+Specification methods are techniques that can be used to describe the requirements, design, and implementation of human computer interfaces (HCI). Specification methods can help to ensure the usability, functionality, and reliability of HCI systems. Specification methods can be classified into two categories, based on their underlying formal models: state transition diagrams and BNF.
+
+- State transition diagrams are graphical representations of the possible states and events of an HCI system. They show how the system responds to user inputs and changes its output accordingly. State transition diagrams can help to visualize the behavior and logic of an HCI system, and to identify potential errors and inconsistencies. State transition diagrams can also be used to generate test cases and to verify the correctness of the system.
+- BNF (Backus-Naur form) is a notation for defining the syntax and grammar of a language. BNF can be used to specify the rules and constraints of an HCI system, such as the format and structure of user inputs and system outputs. BNF can help to ensure the consistency and clarity of an HCI system, and to avoid ambiguity and confusion. BNF can also be used to parse and validate user inputs and system outputs.
+
+Some examples of specification methods for HCI are:
+
+- GOMS (Goals, Operators, Methods, and Selection rules) is a method for modeling the cognitive processes and actions of users when interacting with an HCI system. GOMS can help to predict the performance, efficiency, and satisfaction of users, and to identify the optimal design and layout of the system.
+- UML (Unified Modeling Language) is a standard language for modeling the structure and behavior of software systems. UML can be used to specify the components, interactions, and scenarios of an HCI system, using various diagrams such as use case diagrams, class diagrams, sequence diagrams, and state diagrams.
+- HTA (Hierarchical Task Analysis) is a method for decomposing a complex task into subtasks and steps, and describing the relationships and dependencies among them. HTA can help to understand the goals, procedures, and difficulties of users, and to design the system accordingly.

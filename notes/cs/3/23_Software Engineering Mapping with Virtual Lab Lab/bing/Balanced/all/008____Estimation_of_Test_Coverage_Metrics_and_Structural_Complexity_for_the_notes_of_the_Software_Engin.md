@@ -1,0 +1,10 @@
+## Estimation of Test Coverage Metrics and Structural Complexity
+
+- Test coverage metrics are used to measure and monitor the testing activity of a software program. They help to assess the thoroughness, effectiveness and efficiency of testing techniques.
+- Structural complexity is a measure of how complex a program is in terms of its control flow and logic. It can be estimated by using control flow graphs (CFGs), which are visual representations of the flow of control within a program .
+- A CFG consists of nodes and edges, where nodes represent basic blocks and edges represent transitions between them. A basic block is a sequence of statements that has a single entry point and a single exit point.
+- A CFG can help to identify the linearly independent paths in a program, which are paths that cannot be derived from any combination of other paths. The number of linearly independent paths is also known as the cyclomatic complexity of a program.
+- The cyclomatic complexity can be used to estimate the minimum number of test cases required to achieve 100% branch coverage, which is a test coverage metric that measures the percentage of branches that are executed by the test cases .
+- Other test coverage metrics include statement coverage, which measures the percentage of statements that are executed by the test cases, and path coverage, which measures the percentage of paths that are executed by the test cases .
+- Test coverage metrics can help to identify the areas of the program that are more prone to errors, and to prioritize the testing efforts accordingly. They can also help to evaluate the quality of the test cases and the testing tools.
+- However, test coverage metrics do not guarantee the correctness or completeness of the program, and they do not account for the functional or non-functional requirements of the program. Therefore, they should be used in conjunction with other testing techniques and quality assurance methods .

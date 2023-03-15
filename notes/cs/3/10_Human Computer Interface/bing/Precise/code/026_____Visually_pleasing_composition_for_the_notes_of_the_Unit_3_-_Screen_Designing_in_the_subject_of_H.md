@@ -1,0 +1,10 @@
+### Visually pleasing composition for the notes of the Unit 3 - Screen Designing in the subject of Human Computer Interface
+
+1. **Balance:** Balance refers to the distribution of visual weight in a design. A balanced composition feels stable and aesthetically pleasing, while an unbalanced composition can feel uncomfortable for the viewer. Balance can be achieved through symmetry, asymmetry, or radial symmetry.
+2. **Contrast:** Contrast is the difference between elements in a design. It can be achieved through the use of color, size, shape, and texture. Contrast can help to create visual interest and draw the viewer's attention to specific elements.
+3. **Alignment:** Alignment refers to the arrangement of elements in a design in relation to each other. Proper alignment can help to create a clean and organized look, while poor alignment can make a design feel cluttered and chaotic.
+4. **Proximity:** Proximity refers to the grouping of related elements in a design. Elements that are close together are perceived as being related, while elements that are far apart are perceived as being separate. Proximity can help to create a sense of organization and hierarchy in a design.
+5. **Repetition:** Repetition refers to the use of the same or similar elements throughout a design. Repetition can help to create a sense of consistency and unity in a design.
+6. **White Space:** White space, also known as negative space, refers to the empty space in a design. White space can help to create a sense of balance and contrast, and can also be used to draw the viewer's attention to specific elements.
+
+These principles can be applied to create visually pleasing compositions in screen designing for Human Computer Interface. By considering these principles, designers can create effective and aesthetically pleasing interfaces that enhance the user experience.

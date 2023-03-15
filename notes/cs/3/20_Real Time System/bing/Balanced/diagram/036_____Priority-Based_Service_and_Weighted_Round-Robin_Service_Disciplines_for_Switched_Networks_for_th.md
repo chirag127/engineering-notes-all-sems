@@ -1,0 +1,14 @@
+### Priority-Based Service and Weighted Round-Robin Service Disciplines for Switched Networks
+
+- Priority-based service disciplines are scheduling algorithms that assign different priorities to different packets or classes of packets in a switched network, and transmit them according to their priority levels.
+- Weighted round-robin (WRR) service discipline is a special case of priority-based service discipline, where each priority queue is assigned a weight that determines the proportion of service it receives.
+- The advantages of priority-based service disciplines are that they can provide different levels of quality of service (QoS) to different packets or classes of packets, such as delay, jitter, throughput, and loss.
+- The disadvantages of priority-based service disciplines are that they may cause starvation of lower priority packets or classes of packets, and they may not be fair or efficient in allocating the network resources.
+- Some examples of priority-based service disciplines are:
+  - Strict priority (SP) service discipline, where the highest priority queue is always served first, and the lower priority queues are served only when the higher priority queues are empty.
+  - Weighted fair queuing (WFQ) service discipline, where each priority queue is assigned a weight that determines the share of the network bandwidth it receives, and the packets are served in order of their virtual finish times, which are calculated based on their arrival times, lengths, and weights.
+  - Weighted fair priority queuing (WFPQ) service discipline, where each priority queue is assigned a weight and a delay bound, and the packets are served in order of their virtual finish times, which are calculated based on their arrival times, lengths, weights, and delay bounds.
+  - Rate-controlled frame-based weighted round-robin (RFWRR) service discipline, where each priority queue is assigned a weight and a jitter bound, and the packets are served in frames, where each frame consists of a fixed number of packets from each queue, and the frames are scheduled by a rate controller that ensures the jitter bound and the bandwidth allocation.
+- In a switched network, a downstream switch can begin to transmit an earlier portion of the message as soon as it receives the portion, without waiting for the arrival of the rest of the message. This is called cut-through switching.
+- The advantage of cut-through switching is that it can reduce the end-to-end delay and the buffer requirements of the switches.
+- The disadvantage of cut-through switching is that it may increase the error rate and the overhead of the network, as the switches do not perform error checking or filtering on the packets.

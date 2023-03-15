@@ -1,0 +1,23 @@
+# Cyclomatic Complexity Measures
+
+- Cyclomatic complexity is a software metric used to indicate the complexity of a program   .
+- It is a quantitative measure of the number of linearly independent paths through a program's source code .
+- It was developed by Thomas J. McCabe, Sr. in 1976 .
+- McCabe interprets a computer program as a set of a strongly connected directed graph.
+- The nodes of the graph represent the commands or statements of the program, and the edges represent the possible flow of control from one node to another .
+- A path is a sequence of nodes and edges that starts at an entry node and ends at an exit node.
+- A path is linearly independent if it introduces at least one new edge that is not included in any other paths.
+- The cyclomatic complexity of a program is equal to the number of linearly independent paths in its graph  .
+- There are several ways to calculate the cyclomatic complexity of a program, such as  :
+  - Using the formula `V(G) = E - N + 2`, where `V(G)` is the cyclomatic complexity, `E` is the number of edges, and `N` is the number of nodes in the graph  .
+  - Using the formula `V(G) = P + 1`, where `P` is the number of predicate nodes (nodes that contain a condition) in the graph  .
+  - Using the formula `V(G) = R`, where `R` is the number of regions in the graph . A region is a maximal set of nodes and edges that has only one entry edge and one exit edge.
+- Cyclomatic complexity can be used to measure the quality, maintainability, and testability of a program   .
+- A higher cyclomatic complexity indicates a higher risk of errors, defects, and bugs in the program   .
+- A lower cyclomatic complexity indicates a simpler, more modular, and more readable program   .
+- There are various tools and techniques to measure and reduce the cyclomatic complexity of a program, such as code analysis, code refactoring, code review, and unit testing   .
+- There is no definitive threshold for the acceptable cyclomatic complexity of a program, but some general guidelines are   :
+  - A cyclomatic complexity of 1-10 is considered good and easy to understand   .
+  - A cyclomatic complexity of 11-20 is considered moderate and may require more testing and documentation   .
+  - A cyclomatic complexity of 21-50 is considered high and may indicate a need for refactoring or redesign   .
+  - A cyclomatic complexity of above 50 is considered very high and may indicate a poor design or a lack of modularity   .

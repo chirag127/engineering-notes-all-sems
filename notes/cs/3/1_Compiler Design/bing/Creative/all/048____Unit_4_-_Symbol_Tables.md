@@ -1,0 +1,28 @@
+# Unit 4 - Symbol Tables
+
+- A symbol table is a data structure that stores information about the identifiers (symbols) used in a program, such as variables, constants, functions, etc.
+- A symbol table is usually implemented as a hash table, a binary search tree, or a linked list, depending on the trade-offs between insertion, lookup, and deletion operations.
+- A symbol table is used by the compiler or interpreter to perform various tasks, such as:
+  - Checking the validity and scope of identifiers
+  - Resolving name conflicts and aliases
+  - Generating intermediate code and machine code
+  - Performing type checking and type inference
+  - Optimizing code and memory usage
+- A symbol table typically contains the following information for each identifier:
+  - Name: the lexical representation of the identifier
+  - Type: the data type of the identifier, such as int, float, string, etc.
+  - Category: the kind of identifier, such as variable, constant, function, class, etc.
+  - Scope: the region of the program where the identifier is visible and accessible
+  - Address: the memory location or offset where the identifier is stored or allocated
+  - Attributes: any additional information or properties of the identifier, such as size, value, parameters, modifiers, etc.
+- A symbol table can be organized in different ways, depending on the structure and complexity of the program. Some common ways are:
+  - Global symbol table: a single symbol table that contains all the identifiers in the program
+  - Local symbol table: a separate symbol table for each function or block that contains the identifiers declared within that scope
+  - Nested symbol table: a hierarchical symbol table that reflects the nested structure of the program, such as classes, modules, packages, etc.
+  - Chained symbol table: a linked list of symbol tables that represents the current scope and its enclosing scopes
+- A symbol table can be constructed and updated in different phases of the compilation or interpretation process, such as:
+  - Lexical analysis: the phase where the source code is scanned and tokenized, and the identifiers are extracted and inserted into the symbol table
+  - Syntax analysis: the phase where the source code is parsed and checked for syntactic correctness, and the scope and category of the identifiers are determined and recorded in the symbol table
+  - Semantic analysis: the phase where the source code is analyzed for semantic validity and meaning, and the type and attributes of the identifiers are inferred and verified in the symbol table
+  - Code generation: the phase where the intermediate code or machine code is generated from the source code, and the address and alignment of the identifiers are calculated and assigned in the symbol table
+  - Code optimization: the phase where the intermediate code or machine code is improved for performance and efficiency, and the symbol table is used to eliminate redundant or unused identifiers, or to perform constant folding, dead code elimination, etc.

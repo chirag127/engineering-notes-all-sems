@@ -1,0 +1,18 @@
+### Loop optimization
+
+Loop optimization is the process of increasing execution speed and reducing the overheads associated with loops. It plays an important role in improving cache performance and making effective use of parallel processing capabilities. Most execution time of a scientific program is spent on loops.
+
+Loop optimization can be viewed as the application of a sequence of specific loop transformations to the source code or intermediate representation, with each transformation having an associated test for legality.
+
+Some common loop transformations are:
+
+- **Loop invariant code motion**: This transformation moves computations that are independent of the loop iteration outside of the loop, thus avoiding redundant calculations. For example, if `x` is not modified inside the loop, then `x * x` can be computed once before the loop and reused inside the loop.
+- **Loop unrolling**: This transformation replicates the loop body multiple times, thus reducing the number of loop iterations and the loop overhead. For example, a loop that iterates four times can be unrolled into a single iteration with four copies of the loop body. This can improve performance by exposing more instruction-level parallelism and reducing branch mispredictions.
+- **Loop fusion**: This transformation combines two or more adjacent loops that have the same iteration space into a single loop, thus reducing the loop overhead and improving cache locality. For example, two loops that iterate over the same array can be fused into one loop that performs both computations on each array element.
+- **Loop fission**: This transformation splits a loop into two or more loops that have the same iteration space but perform different computations, thus improving cache locality and enabling parallel execution. For example, a loop that performs two independent computations on each array element can be fissioned into two loops that perform one computation each.
+- **Loop interchange**: This transformation changes the order of nested loops, thus improving cache locality and enabling parallel execution. For example, a loop that iterates over a two-dimensional array in row-major order can be interchanged to iterate in column-major order, which may match the memory layout of the array better.
+- **Loop tiling**: This transformation divides a loop iteration space into smaller blocks or tiles, and then iterates over the tiles. This can improve cache locality by reusing data within each tile, and enable parallel execution by distributing tiles among processors.
+- **Loop peeling**: This transformation removes one or more iterations from the beginning or the end of a loop, and executes them separately before or after the loop. This can simplify the loop condition and enable further optimizations on the peeled iterations or the remaining loop.
+- **Loop reversal**: This transformation changes the direction of a loop, thus iterating from high to low instead of low to high, or vice versa. This can enable further optimizations by aligning loop bounds or exposing parallelism.
+
+Loop optimization is a complex and challenging task, as it requires analyzing the loop dependencies, the loop bounds, the loop variables, and the loop effects. Moreover, different loop transformations may have different impacts on performance depending on the target architecture, the data size, and the optimization goals. Therefore, loop optimization often involves heuristics, empirical tuning, and feedback-directed optimization to achieve the best results.

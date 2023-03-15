@@ -1,0 +1,35 @@
+#### CO 1 Identify patterns, tokens & regular expressions for lexical analysis. K2, K4
+
+- Lexical analysis is the process of converting a sequence of characters from a source program into a sequence of tokens that can be used by a compiler or interpreter.
+- A token is a meaningful unit of text that represents a specific category, such as a keyword, an identifier, a constant, an operator, or a delimiter.
+- A pattern is a rule that describes how to form a token from a sequence of characters. A pattern can be specified using a regular expression, a notation that defines a set of strings using symbols and operators.
+- A regular expression is a concise way of describing a set of strings that share a common structure or property. A regular expression consists of literals, which are characters that match themselves, and metacharacters, which are symbols that have special meanings or functions.
+- Some common metacharacters are:
+  - `.`: matches any single character except a newline
+  - `*`: matches zero or more occurrences of the preceding expression
+  - `+`: matches one or more occurrences of the preceding expression
+  - `?`: matches zero or one occurrence of the preceding expression
+  - `|`: matches either the expression before or the expression after it
+  - `[]`: matches any one of the characters inside the brackets
+  - `[^]`: matches any character except those inside the brackets
+  - `()`: groups an expression together and captures its match
+  - `{n}`: matches exactly n occurrences of the preceding expression
+  - `{n,m}`: matches at least n and at most m occurrences of the preceding expression
+  - `^`: matches the beginning of a string or a line
+  - `$`: matches the end of a string or a line
+  - `\`: escapes the following character or introduces a special character class
+- Some common character classes are:
+  - `\d`: matches any digit
+  - `\D`: matches any non-digit
+  - `\w`: matches any word character (letter, digit, or underscore)
+  - `\W`: matches any non-word character
+  - `\s`: matches any whitespace character (space, tab, newline, etc.)
+  - `\S`: matches any non-whitespace character
+  - `\b`: matches a word boundary (the position between a word and a non-word character)
+  - `\B`: matches a non-word boundary
+- For example, the regular expression `a*b+c?d{2,4}` matches any string that starts with zero or more `a`s, followed by one or more `b`s, followed by an optional `c`, followed by two to four `d`s, such as `abdd`, `aabbbcd3`, or `dddd`.
+- To identify patterns, tokens, and regular expressions for lexical analysis, one can follow these steps:
+  - Identify the categories of tokens that are needed for the source language, such as keywords, identifiers, constants, operators, and delimiters.
+  - Define the rules for forming each category of tokens using regular expressions. For example, an identifier might be defined as a letter followed by zero or more letters or digits, or a constant might be defined as a digit followed by zero or more digits.
+  - Write a program or use a tool that can scan the source text and match the regular expressions to the corresponding tokens. For example, one can use a lexical analyzer generator such as Lex or Flex, which can generate a scanner from a set of regular expressions and actions. Alternatively, one can use a library or a framework that provides regular expression support, such as the re module in Python or the java.util.regex package in Java.
+  - Test the scanner on various inputs and check if the output tokens are correct and complete. If there are any errors or ambiguities, modify the regular expressions or the scanner accordingly.

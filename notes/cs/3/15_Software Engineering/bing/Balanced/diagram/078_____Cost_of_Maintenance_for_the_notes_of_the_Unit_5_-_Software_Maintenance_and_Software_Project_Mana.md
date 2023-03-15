@@ -1,0 +1,7 @@
+### Cost of Maintenance
+
+- Software maintenance is the process of modifying and updating software after delivery to correct faults, improve performance, or adapt to changing environments.
+- Software maintenance is an important and costly activity in the software development life cycle (SDLC). It can account for up to 67% of the total software process cost.
+- Software maintenance cost depends on various factors, such as the type, size, complexity, quality, and age of the software, the number of users, the frequency of changes, the development team, the programming language, the documentation, the testing, and the configuration management techniques   .
+- Software maintenance cost can be estimated using different models and tools, such as COCOMO II, SLIM, SEER-SEM, and Gartner . These models and tools consider various parameters and metrics, such as lines of code, function points, defect density, staff effort, duration, productivity, and reliability .
+- Software maintenance cost can be reduced by applying best practices and techniques, such as DevOps, agile methods, modular design, code reuse, code quality, code reviews, automated testing, continuous integration, continuous delivery, and continuous monitoring . These practices and techniques can improve the efficiency, effectiveness, and quality of the software maintenance process and reduce the risks, errors, and delays .

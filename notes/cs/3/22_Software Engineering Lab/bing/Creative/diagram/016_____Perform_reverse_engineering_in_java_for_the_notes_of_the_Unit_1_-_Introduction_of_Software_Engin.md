@@ -1,0 +1,21 @@
+### Perform reverse engineering in java for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- Reverse engineering in java is the process of recovering the source code from a compiled class file .
+- The source code that is obtained by reverse engineering is not the exact original code, but an equivalent code that can be compiled to produce the same class file.
+- Reverse engineering can be done for various purposes, such as code understanding, debugging, testing, maintenance, enhancement, documentation, or learning .
+- Reverse engineering can also be used to extract the design or architecture of a java application, such as the classes, packages, interfaces, and their relationships .
+- Reverse engineering can be performed using various tools, such as decompilers, disassemblers, debuggers, or UML modeling tools  .
+- Some examples of reverse engineering tools for java are:
+  - JD-GUI: A graphical user interface for the JD-Core decompiler.
+  - JAD: A command-line decompiler that can handle various versions of java.
+  - EclipseUML Omondo: A UML modeling tool that can reverse engineer java code, class files, and annotations.
+  - Papyrus software designer: A component of the Eclipse platform that can reverse engineer java code and generate UML diagrams.
+- The steps to perform reverse engineering in java using Papyrus software designer are:
+  - Install the Papyrus software designer component from the Eclipse marketplace.
+  - Create a new Papyrus project and select the Java reverse engineering perspective.
+  - Select the source folder or the class folder that contains the java code or class files to be reverse engineered.
+  - Right-click on the selected folder and choose Reverse Java Code to UML Model.
+  - Choose the options for the reverse engineering, such as the level of details, the filters, and the stereotypes.
+  - Click on Finish to start the reverse engineering process.
+  - The reverse engineered UML model will be displayed in the Papyrus Model Explorer view and the UML diagrams will be generated in the Papyrus Diagrams view.
+  - The UML model and diagrams can be edited, saved, exported, or printed as needed.

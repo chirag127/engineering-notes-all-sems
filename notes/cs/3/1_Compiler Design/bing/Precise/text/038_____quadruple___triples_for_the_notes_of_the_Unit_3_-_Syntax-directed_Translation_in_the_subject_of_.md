@@ -1,0 +1,8 @@
+### Quadruples and Triples for Syntax-directed Translation in Compiler Design
+
+- Quadruples and triples are intermediate code representations used in the syntax-directed translation phase of compiler design.
+- Quadruples consist of four fields: an operator, two operands, and a result. The operator specifies the operation to be performed, while the operands specify the arguments for the operation. The result field specifies where the result of the operation will be stored.
+- Triples are similar to quadruples, but they have only three fields: an operator, two operands, and no result field. Instead of storing the result in a separate field, the result is implicitly stored in the position of the triple itself.
+- Both quadruples and triples can be used to represent complex expressions and statements in a program. They provide a way to break down the program into simpler, more manageable components for further processing by the compiler.
+- The choice between using quadruples or triples depends on the specific requirements of the compiler and the target machine. Some compilers may use a combination of both representations for different parts of the program.
+- In summary, quadruples and triples are intermediate code representations used in the syntax-directed translation phase of compiler design. They provide a way to represent complex expressions and statements in a program in a more manageable form for further processing by the compiler. The choice between using quadruples or triples depends on the specific requirements of the compiler and the target machine.

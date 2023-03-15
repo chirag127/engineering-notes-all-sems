@@ -1,0 +1,22 @@
+## Unit 3 - Scripting
+
+- Scripting is a technique of writing and executing commands in a file, called a script, that can automate tasks or perform complex operations.
+- Scripts are usually written in a scripting language, such as Python, Ruby, Perl, or Bash, that can be interpreted by a program called a script interpreter or a shell.
+- Scripting languages are often high-level, dynamic, and expressive, meaning they can handle complex data types, support multiple programming paradigms, and allow the programmer to write concise and readable code.
+- Scripting languages are also often cross-platform, meaning they can run on different operating systems and environments, such as Windows, Linux, Mac OS, or web browsers.
+- Scripting languages have some advantages and disadvantages compared to compiled languages, such as C, C++, or Java, that need to be translated into machine code before execution.
+  - Advantages of scripting languages include:
+    - Faster development time, as scripts do not need to be compiled or linked, and can be modified and tested quickly.
+    - Easier debugging, as scripts can display error messages or tracebacks, and can be run interactively or in a debugger.
+    - Higher portability, as scripts can run on any system that has the interpreter installed, and can interact with different applications or libraries.
+    - Higher flexibility, as scripts can be embedded in other programs, such as web servers or databases, and can manipulate text, files, or data structures easily.
+  - Disadvantages of scripting languages include:
+    - Slower execution time, as scripts need to be interpreted at run time, and may have higher memory or CPU usage.
+    - Lower security, as scripts are often plain text files that can be read or modified by anyone, and may have vulnerabilities or bugs that can be exploited.
+    - Lower compatibility, as scripts may depend on specific versions or features of the interpreter, or may have different syntax or semantics across different languages or platforms.
+- Scripting can be used for various purposes and applications, such as:
+  - System administration, such as automating backups, updates, or configuration tasks.
+  - Data analysis, such as processing, filtering, or visualizing large or complex data sets.
+  - Web development, such as creating dynamic web pages, web applications, or web services.
+  - Testing, such as writing test cases, test suites, or test frameworks.
+  - Game development, such as creating game logic, user interfaces, or artificial intelligence.

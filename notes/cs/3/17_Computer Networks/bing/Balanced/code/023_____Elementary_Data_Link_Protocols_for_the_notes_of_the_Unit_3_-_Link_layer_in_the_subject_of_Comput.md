@@ -1,0 +1,31 @@
+### Elementary Data Link Protocols
+
+- Protocols in the data link layer are designed to perform the basic functions of framing, error control and flow control.
+- Framing is the process of dividing bit-streams from the physical layer into data frames whose size ranges from a few hundred to a few thousand bytes.
+- Error control is the process of detecting and correcting errors that may occur during transmission or reception of data frames.
+- Flow control is the process of regulating the rate of data transmission between the sender and the receiver to avoid congestion or buffer overflow.
+- Elementary data link protocols are classified into three categories, as follows:
+  - Protocol 1: Unrestricted simplex protocol
+    - This protocol assumes that there is no error or flow control needed, and the sender can transmit data frames continuously without waiting for any acknowledgment from the receiver.
+    - This protocol is suitable for applications where data loss is acceptable, such as audio or video streaming.
+    - The sender and the receiver use a single buffer each to store one data frame at a time.
+    - The sender sends a data frame and then discards it from the buffer.
+    - The receiver receives a data frame and then processes it or passes it to the upper layer.
+    - If the receiver buffer is full, the incoming data frame is simply dropped.
+  - Protocol 2: Simplex stop-and-wait protocol
+    - This protocol adds error control to the unrestricted simplex protocol by requiring the sender to wait for an acknowledgment from the receiver before sending the next data frame.
+    - This protocol is suitable for applications where data loss is not acceptable, such as file transfer or email.
+    - The sender and the receiver use a single buffer each to store one data frame at a time.
+    - The sender sends a data frame and then waits for an acknowledgment from the receiver.
+    - The receiver receives a data frame and then sends an acknowledgment to the sender after processing it or passing it to the upper layer.
+    - If the receiver buffer is full, the incoming data frame is rejected and the sender is notified by a negative acknowledgment.
+    - If the sender does not receive an acknowledgment within a specified time, it assumes that the data frame or the acknowledgment was lost and retransmits the data frame.
+  - Protocol 3: Simplex protocol for a noisy channel
+    - This protocol adds sequence numbers to the data frames and the acknowledgments to handle the cases where data frames or acknowledgments are duplicated, reordered or lost due to noise in the channel.
+    - This protocol is suitable for applications where data loss and duplication are not acceptable, such as database transactions or online banking.
+    - The sender and the receiver use a single buffer each to store one data frame at a time.
+    - The sender sends a data frame with a sequence number and then waits for an acknowledgment with the same sequence number from the receiver.
+    - The receiver receives a data frame and then checks the sequence number to see if it is the expected one.
+    - If the sequence number is correct, the receiver sends an acknowledgment with the same sequence number to the sender after processing the data frame or passing it to the upper layer.
+    - If the sequence number is incorrect, the receiver discards the data frame and resends the previous acknowledgment to the sender.
+    - If the sender does not receive an acknowledgment with the correct sequence number within a specified time, it assumes that the data frame or the acknowledgment was lost or duplicated and retransmits the data frame.

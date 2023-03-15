@@ -1,0 +1,23 @@
+### Walk Through for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Software testing is the process of verifying and validating that a software product meets the requirements and expectations of the stakeholders.
+- Software testing can be classified into two types: static testing and dynamic testing.
+  - Static testing is the analysis of the software artifacts, such as code, design, documentation, etc., without executing them.
+  - Dynamic testing is the execution of the software with inputs and observing the outputs and behavior.
+- Software testing can also be classified into four levels: unit testing, integration testing, system testing, and acceptance testing.
+  - Unit testing is the testing of individual components or modules of the software in isolation.
+  - Integration testing is the testing of the interactions and interfaces between the components or modules of the software.
+  - System testing is the testing of the software as a whole, in its intended environment and under realistic conditions.
+  - Acceptance testing is the testing of the software by the end-users or customers to ensure that it meets their needs and expectations.
+- Software testing can also be classified into two approaches: white-box testing and black-box testing.
+  - White-box testing is the testing of the software based on the knowledge of its internal structure and logic.
+  - Black-box testing is the testing of the software based on the knowledge of its external behavior and functionality.
+- Software testing can also be classified into two modes: manual testing and automated testing.
+  - Manual testing is the testing of the software by human testers, using tools and techniques such as test cases, test scripts, checklists, etc.
+  - Automated testing is the testing of the software by using software tools and frameworks, such as test automation tools, test drivers, test stubs, etc.
+- Software testing can also be classified into two phases: verification and validation.
+  - Verification is the process of checking whether the software conforms to the specifications and standards.
+  - Validation is the process of checking whether the software fulfills the needs and expectations of the stakeholders.
+- Software testing can also be classified into two objectives: defect detection and defect prevention.
+  - Defect detection is the process of finding and reporting the errors and faults in the software.
+  - Defect prevention is the process of avoiding and eliminating the errors and faults in the software.

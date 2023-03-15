@@ -1,0 +1,35 @@
+# Keys for the notes of the Unit 1 - Introduction in the subject of Database Management System
+
+- A database is a collection of related data that is organized and stored in a structured way.
+- A database management system (DBMS) is a software system that allows users to create, manipulate, and access databases.
+- A data model is a conceptual representation of the data and the relationships among them.
+- A schema is a description of the structure and constraints of a database.
+- A database instance is a snapshot of the data in a database at a given point in time.
+- A data dictionary is a collection of metadata that describes the data elements, their properties, and their relationships in a database.
+- A primary key is a column or a set of columns that uniquely identifies each row in a table.
+- A foreign key is a column or a set of columns that references the primary key of another table, establishing a relationship between the two tables.
+- A candidate key is a column or a set of columns that can serve as a primary key for a table.
+- A superkey is a column or a set of columns that contains a candidate key for a table.
+- A composite key is a key that consists of two or more columns.
+- A surrogate key is a system-generated key that is used as a primary key for a table, instead of a natural key that is derived from the data.
+- A relational database is a database that organizes data into tables, where each table has a fixed number of columns and a variable number of rows.
+- A relational model is a data model that is based on the concept of mathematical relations, where each relation is a set of tuples (rows) with the same attributes (columns).
+- A relational algebra is a set of operations that can be applied to relations to manipulate and query data.
+- A relational calculus is a declarative language that can be used to express queries on relations, using logical predicates and quantifiers.
+- A SQL (Structured Query Language) is a standard language that can be used to create, manipulate, and query relational databases.
+- A query is a request for information from a database, expressed in a query language such as SQL.
+- A query result is a relation that contains the data that satisfies the query.
+- A constraint is a rule that specifies some conditions that the data in a database must satisfy.
+- A domain constraint is a constraint that specifies the valid values for an attribute.
+- A key constraint is a constraint that specifies the uniqueness of a key for a table.
+- A referential integrity constraint is a constraint that ensures that a foreign key value in a table matches a primary key value in another table, or is null.
+- An entity integrity constraint is a constraint that ensures that a primary key value in a table is not null.
+- A functional dependency is a relationship between two sets of attributes, such that the values of one set determine the values of the other set.
+- A normalization is a process of decomposing a relation into smaller relations that satisfy certain properties, such as eliminating redundancy and preserving dependencies.
+- A normal form is a condition or a set of conditions that a relation must satisfy to be considered normalized.
+- A first normal form (1NF) is a normal form that requires a relation to have no repeating groups or multivalued attributes.
+- A second normal form (2NF) is a normal form that requires a relation to be in 1NF and have no partial dependencies, where a non-key attribute depends on only a part of the primary key.
+- A third normal form (3NF) is a normal form that requires a relation to be in 2NF and have no transitive dependencies, where a non-key attribute depends on another non-key attribute.
+- A Boyce-Codd normal form (BCNF) is a normal form that requires a relation to be in 3NF and have no non-trivial dependencies, where a non-key attribute depends on a proper subset of a candidate key.
+- A fourth normal form (4NF) is a normal form that requires a relation to be in BCNF and have no multivalued dependencies, where an attribute depends on a set of attributes and not on another attribute.
+- A fifth normal form (5NF) is a normal form that requires a relation to be in 4NF and have no join dependencies, where a relation cannot be decomposed into smaller relations without losing information.

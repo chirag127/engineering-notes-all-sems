@@ -1,0 +1,11 @@
+### Alternative Approaches to Database Design
+
+- Database design is the process of defining the structure, organization, and relationships of data in a database system.
+- Database design can be influenced by various factors, such as the application requirements, the data characteristics, the performance goals, and the available technologies.
+- There are different approaches and techniques that can be used to design a database, depending on the context and the objectives of the database system.
+- Some of the alternative approaches and advanced techniques for database design are:
+
+  - **Application Development Tools**: These are tools that allow users to create and manipulate data without requiring extensive knowledge of database programming or administration. They can provide features such as data collection, data analysis, data visualization, and data reporting. Some examples of application development tools are Office Reports, Second Prism, Databoard, DataMarket, and Q Research Software.
+  - **Domain Model from Use Cases**: This is an approach that uses Agile methodologies to design a database based on the business processes and the user interactions. It involves identifying the main entities, attributes, and relationships from the use cases, and then creating a domain model that represents the data and the behavior of the system. This approach can be more flexible and adaptive than the traditional Entity Relationship Diagrams.
+  - **Normalization**: This is a technique that organizes the data in tables in such a way that it reduces data redundancy and dependency. It involves dividing larger tables into smaller tables and linking them with relationships based on the primary keys. Normalization can improve the integrity, consistency, and efficiency of the database.
+  - **NoSQL Databases**: These are databases that do not follow the relational model and do not use SQL as the query language. They can store data in different data structures, such as JSON documents, key-value pairs, graphs, or columns. NoSQL databases can offer rapid scalability, flexibility, and performance for managing large and unstructured data sets. Some examples of NoSQL databases are MongoDB, Cassandra, Neo4j, and Redis.

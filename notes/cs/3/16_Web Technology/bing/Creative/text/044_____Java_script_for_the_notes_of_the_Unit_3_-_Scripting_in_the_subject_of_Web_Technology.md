@@ -1,0 +1,29 @@
+### JavaScript for the notes of the Unit 3 - Scripting in the subject of Web Technology
+
+- JavaScript is a scripting language that runs in the web browser and can manipulate the HTML and CSS elements of a web page.
+- JavaScript can create dynamic and interactive web applications by responding to user events, manipulating the DOM, sending and receiving data from servers, and using various built-in objects and methods.
+- JavaScript is case-sensitive, loosely typed, and supports both imperative and functional programming paradigms.
+- JavaScript has a standard library of built-in objects, such as `String`, `Number`, `Array`, `Date`, `Math`, `RegExp`, etc., that provide various methods and properties for common tasks.
+- JavaScript also has some special objects, such as `window`, `document`, `navigator`, `history`, `location`, etc., that represent the browser environment and allow access to the web page elements and features.
+- JavaScript can use operators, expressions, statements, and control structures to perform calculations, comparisons, assignments, and logical operations.
+- JavaScript can declare and use variables, constants, and functions to store and manipulate data and execute code blocks.
+- JavaScript can use different types of data, such as primitive values (strings, numbers, booleans, null, and undefined) and reference values (objects, arrays, and functions).
+- JavaScript can use different scopes, such as global, local, and block, to determine the visibility and lifetime of variables and functions.
+- JavaScript can use different types of errors, such as syntax errors, runtime errors, and logical errors, to indicate problems in the code and handle them with `try...catch...finally` statements.
+- JavaScript can use different types of events, such as mouse events, keyboard events, form events, etc., to detect user actions and trigger corresponding functions (event handlers or listeners).
+- JavaScript can use the DOM (Document Object Model) to access and modify the HTML elements and attributes of a web page as a tree-like structure of nodes and objects.
+- JavaScript can use the BOM (Browser Object Model) to access and manipulate the browser window and its components, such as tabs, frames, dialogs, timers, etc.
+- JavaScript can use the AJAX (Asynchronous JavaScript and XML) technique to send and receive data from servers without reloading the web page, using the `XMLHttpRequest` object or the `fetch` API.
+- JavaScript can use the JSON (JavaScript Object Notation) format to store and exchange data as text, using the `JSON.stringify()` and `JSON.parse()` methods.
+- JavaScript can use the localStorage and sessionStorage objects to store data in the browser for later use, with different persistence and scope.
+- JavaScript can use the `Promise` object to handle asynchronous operations, such as fetching data from a server, and use the `async` and `await` keywords to write asynchronous code in a synchronous way.
+- JavaScript can use the `class` keyword to define and create objects with constructor functions, properties, and methods, and use the `extends` and `super` keywords to implement inheritance and polymorphism.
+- JavaScript can use the `import` and `export` keywords to split the code into multiple modules and reuse them in different files.
+- JavaScript can use the `let` and `const` keywords to declare variables and constants with block scope, and use the `var` keyword to declare variables with function scope.
+- JavaScript can use the template literals to create strings with embedded expressions, using the backtick (`) character and the `${expression}` syntax.
+- JavaScript can use the arrow functions to create concise and anonymous functions, using the `=>` syntax and omitting the `function` keyword and the parentheses (if there is only one parameter).
+- JavaScript can use the spread operator (`...`) to expand an iterable (such as an array or a string) into individual elements, and use the rest parameter (`...`) to collect multiple arguments into an array.
+- JavaScript can use the destructuring assignment to extract values from arrays or properties from objects and assign them to variables, using the `[ ]` or `{ }` syntax.
+- JavaScript can use the default parameters to assign default values to function parameters if they are not provided or undefined, using the `=` syntax.
+- JavaScript can use the `for...of` loop to iterate over the values of an iterable (such as an array or a string), and use the `for...in` loop to iterate over the properties of an object.
+- JavaScript can use the `Map` and `Set` objects to store and manipulate collections of key-value pairs and unique values, respectively, and use the `WeakMap` and `WeakSet` objects

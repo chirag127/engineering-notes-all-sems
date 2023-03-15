@@ -1,0 +1,9 @@
+### Routing Security
+
+Routing security is the protection of the Internet's routing system from errors and attacks that can compromise its availability, integrity, and confidentiality. Routing security is important for the Internet infrastructure, as it ensures that data packets are delivered to their intended destinations without being intercepted, modified, or dropped by malicious actors.
+
+Some of the topics that are covered in routing security are:
+
+- Routing protocols: These are the rules and algorithms that routers use to exchange information about the network topology and the best paths to reach different destinations. Routing protocols can be classified into two types: interior gateway protocols (IGPs) and exterior gateway protocols (EGPs). IGPs are used within a single network or domain, such as RIP, EIGRP, or OSPF. EGPs are used to connect different networks or domains, such as BGP.
+- Routing attacks: These are the malicious actions that aim to disrupt, manipulate, or hijack the routing process. Routing attacks can be classified into two types: passive and active. Passive attacks are those that only observe or monitor the routing traffic, such as eavesdropping or traffic analysis. Active attacks are those that modify or inject routing traffic, such as spoofing, replaying, or altering routing messages.
+- Routing security solutions: These are the methods and techniques that can be used to prevent, detect, or mitigate routing attacks. Routing security solutions can be classified into two types: cryptographic and non-cryptographic. Cryptographic solutions are those that use encryption, authentication, or digital signatures to secure the routing messages, such as IPsec, TLS, or RPKI. Non-cryptographic solutions are those that use filtering, monitoring, or auditing to secure the routing process, such as prefix filtering, route flap damping, or BGPSEC.

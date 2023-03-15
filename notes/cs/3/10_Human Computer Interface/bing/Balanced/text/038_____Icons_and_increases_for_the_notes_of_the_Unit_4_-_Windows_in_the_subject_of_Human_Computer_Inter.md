@@ -1,0 +1,21 @@
+### Icons and increases for the notes of the Unit 4 - Windows in the subject of Human Computer Interface
+
+- Icons are graphical symbols that represent objects, actions, or concepts in a user interface.
+- Icons can help users to quickly identify and access the functions or features they need, without relying on text labels or menus.
+- Icons can also enhance the aesthetic appeal and usability of a user interface, by providing visual cues and feedback, and reducing cognitive load and visual clutter.
+- However, icons also have some drawbacks, such as ambiguity, cultural differences, and scalability issues. Therefore, icons should be designed and evaluated carefully, following some general principles and guidelines.
+- Some of the principles and guidelines for icon design are:
+  - Use familiar and consistent metaphors that match the user's mental model and expectations.
+  - Use simple and clear shapes and colors that are easy to recognize and distinguish.
+  - Use appropriate size and resolution that are suitable for the target device and display.
+  - Use labels or tooltips to provide additional information or clarification when needed.
+  - Test the icons with users to ensure that they are understandable, memorable, and effective.
+- Increases are techniques that allow users to manipulate the size and position of windows on a screen, such as resizing, moving, minimizing, maximizing, cascading, tiling, and snapping.
+- Increases can help users to organize and manage multiple windows, and to optimize the use of screen space and visibility of information.
+- Increases can also improve the user's sense of control and satisfaction, by allowing them to customize and adapt the user interface to their preferences and needs.
+- However, increases also have some challenges, such as complexity, inconsistency, and interference. Therefore, increases should be implemented and supported carefully, following some general principles and guidelines.
+- Some of the principles and guidelines for increases are:
+  - Provide clear and consistent affordances and feedback for window manipulation, such as handles, borders, buttons, and cursors.
+  - Provide multiple and flexible ways for users to perform window manipulation, such as mouse, keyboard, touch, and gestures.
+  - Provide smart and adaptive features that can assist users in window manipulation, such as snapping, alignment, and grouping.
+  - Avoid unnecessary or excessive window manipulation that can disrupt the user's workflow and attention, such as pop-ups, overlays, and animations.

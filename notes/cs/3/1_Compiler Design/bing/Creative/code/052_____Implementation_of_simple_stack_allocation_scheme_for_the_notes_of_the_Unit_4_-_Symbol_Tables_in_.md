@@ -1,0 +1,28 @@
+### Implementation of simple stack allocation scheme
+
+- Stack allocation scheme is the simplest run-time storage management technique   for the compiler.
+- The storage is organized as a stack, and activation records are pushed and popped as the activation of procedures begin and end, respectively  .
+- Activation records contain information about the current state of a procedure, such as its parameters, local variables, return address, etc.
+- Stack allocation scheme allows recursive procedures, since each recursive call creates a new activation record on the stack .
+- Stack allocation scheme requires that the storage for a procedure be freed in the reverse order of allocation, so that a block of storage being released is always at the top of the stack  .
+- Stack allocation scheme can also handle variable-length data, such as arrays or strings, by allocating them at the end of the activation record and using a pointer to access them.
+- Stack allocation scheme involves calling sequences, which are the instructions that the compiler generates to manage the stack before and after a procedure call.
+- Calling sequences typically include the following steps:
+  - Push the actual parameters onto the stack.
+  - Push the return address onto the stack.
+  - Jump to the procedure code.
+  - Allocate space for the local variables on the stack.
+  - Perform the procedure body.
+  - Deallocate space for the local variables from the stack.
+  - Pop the return address from the stack.
+  - Jump back to the caller code.
+  - Pop the actual parameters from the stack.
+- Stack allocation scheme has some advantages and disadvantages:
+  - Advantages:
+    - It is simple and efficient to implement.
+    - It supports dynamic scoping and nested procedures.
+    - It does not require garbage collection or memory fragmentation.
+  - Disadvantages:
+    - It does not support dynamic data structures that outlive their creating procedure.
+    - It leads to variable-size stack frames, which require both stack and frame pointers to be managed.
+    - It may cause stack overflow if the stack size is limited or the recursion depth is too high.

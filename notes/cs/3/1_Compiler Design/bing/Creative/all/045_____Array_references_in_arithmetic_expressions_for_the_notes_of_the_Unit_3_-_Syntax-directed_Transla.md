@@ -1,0 +1,24 @@
+# Array references in arithmetic expressions
+
+- An array reference is an expression that denotes the location of an element of an array in memory  .
+- An array reference has an l-value, which is the address of the element, and an r-value, which is the value stored at that address.
+- To translate an array reference in a source program, the compiler needs to compute the l-value of the element and generate code to access it  .
+- The l-value of an array element depends on the following factors  :
+  - The base address of the array, which is the address of the first element.
+  - The index of the element, which is the position of the element in the array.
+  - The lower bound of the array, which is the index of the first element.
+  - The width of the element, which is the number of bytes occupied by each element.
+- The general formula for computing the l-value of an array element is  :
+  - `l-value = base + (index - lower bound) * width`
+- For example, if `A` is an array of integers with a base address of `1000`, a lower bound of `1`, and a width of `4`, then the l-value of `A[5]` is  :
+  - `l-value = 1000 + (5 - 1) * 4 = 1016`
+- For multi-dimensional arrays, the l-value of an element depends on the order and size of each dimension, and the formula is more complex.
+- For example, if `B` is a two-dimensional array of integers with a base address of `2000`, a lower bound of `1` for both dimensions, a width of `4`, and a size of `10` for the first dimension, then the l-value of `B[3][4]` is:
+  - `l-value = 2000 + ((3 - 1) * 10 + (4 - 1)) * 4 = 2108`
+- To generate code for an array reference, the compiler can use one of the following methods  :
+  - Direct addressing: The compiler computes the l-value of the element at compile time and generates code to access it directly. This method is only possible if the base address, the index, and the lower bound are all constants  .
+  - Indirect addressing: The compiler generates code to compute the l-value of the element at run time and stores it in a register. Then, the compiler generates code to access the element indirectly through the register  .
+  - Indexed addressing: The compiler generates code to compute the offset of the element from the base address at run time and stores it in a register. Then, the compiler generates code to access the element directly by adding the base address and the register  .
+- For example, if `C` is an array of integers with a base address of `3000`, a lower bound of `1`, and a width of `4`, and `i` is a variable that holds the index of an element, then the code for `C[i]` can be generated using the following methods  :
+  - Direct addressing: If `i` is a constant, say `5`, then the compiler can compute the l-value of `C[5]` as `3016` and generate code like `MOV R0, [3016]` to load the value of `C[5]` into register `R0`  .
+  - Indirect addressing: The compiler can generate code like `MOV R1, i` to load the value of `i` into register `R1`, `SUB R1, R1, 1` to subtract the lower bound from `R1`, `MUL R1, R1, 4` to multiply `R1` by the width, `ADD R1, R1, 3000` to

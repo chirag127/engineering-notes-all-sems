@@ -1,0 +1,27 @@
+# Implementation of simple stack allocation scheme
+
+- Stack allocation scheme is the simplest run-time storage management technique   for the compiler.
+- The storage is organized as a stack, and activation records are pushed and popped as the activation of procedures begin and end, respectively  , thereby permitting recursive procedures.
+- An activation record is a data structure that contains information about the execution of a procedure, such as its parameters, local variables, return address, etc.
+- The stack allocation scheme has the following advantages:
+  - It is simple and efficient to implement, as it only requires a stack pointer and a frame pointer to manage the storage.
+  - It supports dynamic scoping, as the most recent binding of a variable can be found at the top of the stack.
+  - It supports nested procedures, as the activation record of the enclosing procedure can be accessed through the frame pointer.
+- The stack allocation scheme has the following disadvantages :
+  - It does not support procedures as first-class values, as the activation record of a procedure may be deallocated when it returns, making it invalid to pass as an argument or return as a result.
+  - It does not support dynamic memory allocation, as the size of the stack is fixed at compile time and cannot be changed at run time.
+  - It leads to variable-size stack frames, so that both stack and frame pointers need to be managed, which may incur some overhead.
+- The stack allocation scheme requires the following components:
+  - A stack pointer (SP) that points to the top of the stack, where the next activation record will be pushed.
+  - A frame pointer (FP) that points to the base of the current activation record, where the local variables and parameters are stored.
+  - A set of predefined routines in the compiler that perform the following operations:
+    - PUSH(n): allocate n bytes of storage on the stack by decrementing the SP by n.
+    - POP(n): deallocate n bytes of storage from the stack by incrementing the SP by n.
+    - CALL(p): push the return address on the stack and transfer control to the procedure p.
+    - RETURN: pop the return address from the stack and transfer control back to the caller.
+- The stack allocation scheme follows the following steps:
+  - When a procedure is called, the compiler generates code to push the actual parameters on the stack, followed by the return address, and then calls the predefined routine CALL(p).
+  - When the procedure p begins execution, it allocates space for its local variables on the stack by calling the predefined routine PUSH(n), where n is the size of the local variables. It also saves the old value of the FP on the stack and sets the FP to the current value of the SP.
+  - When the procedure p accesses its parameters or local variables, it uses the FP as a base address and adds an offset that is determined by the position of the parameter or variable in the activation record.
+  - When the procedure p calls another procedure q, the process is repeated recursively, creating a new activation record on the stack for q.
+  - When the procedure p returns, it restores the old value of the FP from the stack and deallocates the space for its local variables by calling the predefined routine POP(n). It then returns the control to the caller by calling the predefined routine RETURN.

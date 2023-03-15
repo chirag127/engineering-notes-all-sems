@@ -1,0 +1,8 @@
+### Notes of the Unit 4 - HDFS (Hadoop Distributed File System) in the subject of Big Data
+
+- HDFS is a distributed file system that runs on commodity hardware and provides high throughput access to large datasets.
+- HDFS is designed to store and process very large files (typically in the range of gigabytes to terabytes) that are split into fixed-size blocks (usually 128 MB or 256 MB) and distributed across multiple nodes in a cluster.
+- HDFS follows a master-slave architecture, where a single NameNode manages the metadata of the file system, such as the file names, directories, permissions, and locations of the blocks, and multiple DataNodes store and serve the blocks of the files.
+- HDFS provides fault tolerance and reliability by replicating each block across multiple DataNodes (usually three) and periodically checking the health and availability of the nodes. If a DataNode fails or a block becomes corrupted, the NameNode can initiate the recovery or replication of the block from another DataNode.
+- HDFS supports a write-once-read-many model, where a file can be written to by a single writer at a time, and then read by multiple readers concurrently. HDFS does not support random writes or updates to a file, but allows appending new data to an existing file.
+- HDFS provides a Java-based API for applications to interact with the file system, as well as a command-line interface and a web-based interface for users and administrators. HDFS also supports integration with other frameworks and tools, such as MapReduce, Spark, Hive, Pig, and HBase, that can perform distributed processing and analysis on the data stored in HDFS.

@@ -1,0 +1,21 @@
+### Finding vulnerabilities for the notes of the Unit 3 - Secure architecture principles isolation and leas in the subject of COMPUTER SYSTEM SECURITY
+
+- Secure architecture principles are guidelines for designing a system that is resilient to threats and risks, and that ensures confidentiality, integrity, and availability of data and resources .
+- Isolation and leas are two of the secure architecture principles that aim to reduce the attack surface and limit the impact of a breach .
+- Isolation means separating different components or layers of a system, such as data, processes, networks, or users, so that they have minimal interaction and dependency .
+- Leas means granting the minimum amount of privileges or permissions to each component or user, so that they can only access or perform what is necessary for their function .
+- Finding vulnerabilities for the notes of the Unit 3 involves identifying and analyzing the potential weaknesses or flaws in the implementation or configuration of the isolation and leas principles in a given system.
+- Some of the common steps for finding vulnerabilities are:
+  - Define the scope and objectives of the assessment
+  - Gather information about the system architecture, components, and interfaces
+  - Identify the threats and risks to the system based on the information gathered
+  - Perform vulnerability scanning and testing using tools or techniques such as network mapping, port scanning, web application scanning, penetration testing, etc.
+  - Analyze the results and prioritize the vulnerabilities based on their severity, impact, and exploitability
+  - Report the findings and recommendations for remediation or mitigation
+- Some of the common vulnerabilities related to isolation and leas are:
+  - Lack of network segmentation or firewall rules that allow unauthorized or unnecessary access to sensitive data or resources
+  - Lack of encryption or authentication for data in transit or at rest that expose it to interception or modification
+  - Lack of input validation or output encoding that allow injection or cross-site scripting attacks
+  - Lack of proper access control policies or mechanisms that allow privilege escalation or unauthorized actions
+  - Lack of logging or auditing that prevent detection or investigation of malicious activities
+  - Lack of patching or updating that leave the system vulnerable to known exploits or zero-day attacks

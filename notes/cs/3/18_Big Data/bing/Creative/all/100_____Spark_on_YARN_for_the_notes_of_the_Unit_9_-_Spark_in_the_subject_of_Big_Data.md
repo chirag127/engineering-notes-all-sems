@@ -1,0 +1,10 @@
+# Spark on YARN
+
+- Spark on YARN is a mode of running Spark applications on a cluster of nodes managed by YARN (Yet Another Resource Negotiator), which is a resource management framework for distributed systems.
+- Spark on YARN requires a binary distribution of Spark which is built with YARN support. Binary distributions can be downloaded from the downloads page of the project website   .
+- Spark on YARN supports two deploy modes: cluster mode and client mode.
+  - In cluster mode, the Spark driver runs inside an application master process which is managed by YARN on the cluster, and the client can go away after initiating the application. This mode is suitable for production environments where the client machine may not be reliable or available.
+  - In client mode, the Spark driver runs on the client machine that submits the application, and the application master is only responsible for requesting resources from YARN. This mode is suitable for development and testing environments where the client machine can monitor and interact with the application.
+- Spark on YARN can use either Hadoop Distributed File System (HDFS) or a local file system as the source of Spark runtime jars. To make Spark runtime jars accessible from YARN side, you can specify `spark.yarn.archive` or `spark.yarn.jars` configuration properties.
+- Spark on YARN can also leverage dynamic resource allocation, which allows Spark to request or release executors based on the workload. This feature can improve the resource utilization and performance of Spark applications. To enable dynamic resource allocation, you need to set `spark.dynamicAllocation.enabled` to `true` and configure an external shuffle service on each node in the cluster.
+- Spark on YARN can be configured and tuned by using various configuration properties, such as `spark.yarn.executor.memoryOverhead`, `spark.yarn.am.cores`, `spark.yarn.maxAppAttempts`, etc. For a complete list of configuration properties, refer to the Spark documentation.

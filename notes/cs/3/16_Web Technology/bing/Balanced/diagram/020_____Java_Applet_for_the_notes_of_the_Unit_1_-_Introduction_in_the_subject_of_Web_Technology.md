@@ -1,0 +1,22 @@
+### Java Applet
+
+- A Java applet is a small application written in the Java programming language, or another programming language that compiles to Java bytecode, and delivered to users in the form of Java bytecode .
+- A Java applet can be transferred via the Internet and run by a Java-compatible web browser.
+- The main difference between Java-based applications and applets is that applets are typically executed in an AppletViewer or Java-compatible web browser, while applications are executed by the Java Virtual Machine (JVM) directly.
+- The user can launch the Java applet from a web page, and the applet is then executed within a JVM in a process separate from the web browser.
+- A Java applet can provide web applications with interactive and dynamic features that HTML cannot offer, such as animation, graphics, sound, games, etc.
+- A Java applet can also communicate with other applets running on the same machine or different machines on a network, and exchange data with the web server that hosts it.
+- A Java applet is embedded within an HTML document using the `<applet>` tag, which specifies the name, size, and parameters of the applet.
+- A Java applet can also be embedded using the `<object>` or `<embed>` tags, which are more compatible with different browsers and platforms.
+- A Java applet follows a life cycle that consists of four stages: initialization, start, stop, and destroy.
+- Initialization: The applet is loaded into the memory and the `init()` method is invoked. This method is used to perform any initialization tasks, such as setting up the user interface, loading images, etc.
+- Start: The applet is ready to run and the `start()` method is invoked. This method is used to start any threads, play sounds, etc.
+- Stop: The applet is temporarily suspended and the `stop()` method is invoked. This method is used to stop any threads, pause sounds, etc. This stage occurs when the user moves to another web page or minimizes the browser window.
+- Destroy: The applet is removed from the memory and the `destroy()` method is invoked. This method is used to perform any cleanup tasks, such as releasing resources, closing connections, etc. This stage occurs when the user closes the browser window or exits the browser.
+- A Java applet can also override the `paint()` method, which is used to draw the graphical content of the applet on the screen.
+- A Java applet can also implement event handling methods, such as `mouseClicked()`, `keyPressed()`, etc., which are used to respond to user actions, such as mouse clicks, keyboard inputs, etc.
+- A Java applet can also access the information and services provided by the web browser, such as the URL, the document base, the code base, the applet context, etc., using the `Applet` class methods, such as `getAppletInfo()`, `getDocumentBase()`, `getCodeBase()`, `getAppletContext()`, etc.
+- A Java applet can also interact with the HTML document that contains it, using the `JSObject` class, which allows the applet to invoke JavaScript functions, access HTML elements, and modify the document object model (DOM).
+- A Java applet is subject to security restrictions, such as the sandbox model, which prevents the applet from accessing the local file system, network resources, or system properties of the user's machine, unless the applet is digitally signed and trusted by the user.
+- A Java applet can also use the Java Network Launch Protocol (JNLP), which allows the applet to be launched from a web page without requiring the `<applet>` tag, and also grants the applet more privileges and resources, such as local file access, printing, etc.
+- A Java applet is considered to be a legacy technology, as it is no longer supported by most modern web browsers, due to security and performance issues, and has been replaced by other web technologies, such as HTML5, JavaScript, Ajax, etc.

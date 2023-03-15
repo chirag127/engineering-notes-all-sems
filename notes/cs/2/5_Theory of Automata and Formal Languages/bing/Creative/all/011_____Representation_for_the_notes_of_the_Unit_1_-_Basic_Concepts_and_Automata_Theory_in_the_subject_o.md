@@ -1,0 +1,32 @@
+# Representation for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+
+- Automata theory is a branch of computer science and mathematics that studies the logic and behavior of abstract machines, called automata, that can perform computations and solve problems  .
+- Automata theory is also related to the theory of computation, which explores the limits and capabilities of different models of machines, such as Turing machines, finite automata, pushdown automata, etc .
+- Automata theory has applications in various fields, such as robotics, compiler design, natural language processing, cryptography, etc .
+- Some basic concepts and definitions in automata theory are:
+  - Alphabet: A finite, non-empty set of symbols, usually denoted by Σ.
+  - String: A finite sequence of symbols from an alphabet, also called a word.
+  - Language: A set of strings over an alphabet, usually denoted by L.
+  - Automaton: An abstract machine that can change its state in response to some input symbols and produce some output symbols.
+  - Deterministic: An automaton is deterministic if it has exactly one transition for each state and input symbol.
+  - Non-deterministic: An automaton is non-deterministic if it can have more than one transition for some state and input symbol.
+  - Acceptance: An automaton accepts an input string if it reaches a final state after reading the string.
+  - Recognition: An automaton recognizes a language if it accepts all and only the strings in the language.
+- Some types of automata and their properties are:
+  - Finite automaton (FA): An automaton that has a finite number of states and can only read the input symbols one by one.
+  - Regular language: A language that can be recognized by a finite automaton.
+  - Regular expression: A notation for describing regular languages using symbols, concatenation, union, and closure.
+  - Regular grammar: A grammar that generates regular languages using rules of the form A -> a or A -> aB, where A and B are variables and a is a terminal symbol.
+  - Non-regular language: A language that cannot be recognized by any finite automaton.
+  - Pumping lemma: A technique for proving that a language is non-regular by showing that any sufficiently long string in the language can be pumped, i.e., repeated in some part, to produce another string in the language.
+  - Pushdown automaton (PDA): An automaton that has a finite number of states and a stack that can store an unbounded amount of symbols.
+  - Context-free language (CFL): A language that can be recognized by a pushdown automaton.
+  - Context-free grammar (CFG): A grammar that generates context-free languages using rules of the form A -> α, where A is a variable and α is a string of variables and terminals.
+  - Non-context-free language: A language that cannot be recognized by any pushdown automaton.
+  - Pumping lemma for CFLs: A technique for proving that a language is non-context-free by showing that any sufficiently long string in the language can be pumped in two parts, to produce another string in the language.
+  - Turing machine (TM): An automaton that has a finite number of states and an infinite tape that can store and manipulate symbols.
+  - Recursively enumerable language (REL): A language that can be recognized by a Turing machine.
+  - Decidable language: A language that can be recognized by a Turing machine that always halts.
+  - Undecidable language: A language that cannot be recognized by any Turing machine that always halts.
+  - Halting problem: The problem of determining whether a given Turing machine will halt on a given input, which is undecidable.
+  - Church-Turing thesis: The hypothesis that any function that can be computed by an algorithm can be computed by a Turing machine.

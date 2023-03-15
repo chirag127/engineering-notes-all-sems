@@ -1,0 +1,13 @@
+### Soft and Hard Real-Time Communication Systems
+
+Real-time communication systems are systems that exchange information between two or more entities within a specified time bound. These systems are generally understood as one of two types: Hard Real-Time (HRT) and Soft Real-Time (SRT). The difference between a hard and soft real-time communication system is the consequences of incorrect operation.
+
+- Hard Real-Time Communication Systems
+  - A hard real-time communication system is a system that must meet its deadlines strictly, otherwise it may cause catastrophic failure or unacceptable loss. For example, a communication system for a nuclear power plant, a flight control system, or a pacemaker must be hard real-time, as any delay or error could result in severe damage or loss of life.
+  - A hard real-time communication system is deterministic, meaning that it can guarantee the worst-case execution time and response time for any task or message. It also has high reliability and fault tolerance, as it cannot afford to fail or malfunction under any circumstances.
+  - A hard real-time communication system requires a real-time operating system (RTOS) that can support preemptive scheduling, priority-based scheduling, and synchronization mechanisms. It also requires a real-time network protocol that can provide bounded delay, jitter, and packet loss. Some examples of hard real-time network protocols are Time-Triggered Protocol (TTP), Controller Area Network (CAN), and Time-Sensitive Networking (TSN).
+
+- Soft Real-Time Communication Systems
+  - A soft real-time communication system is a system that can tolerate some degree of deadline misses or errors, without causing serious harm or degradation of performance. For example, a communication system for a video conference, a multimedia streaming, or a online gaming can be soft real-time, as some delay or error may affect the quality of service, but not the functionality or safety of the system.
+  - A soft real-time communication system is probabilistic, meaning that it can provide a high probability of meeting the deadlines and response times, but not a guarantee. It also has lower reliability and fault tolerance, as it can cope with some failures or malfunctions by using recovery or adaptation techniques.
+  - A soft real-time communication system can use a general-purpose operating system (GPOS) that can support non-preemptive scheduling, best-effort scheduling, and resource allocation mechanisms. It can also use a non-real-time network protocol that can provide variable delay, jitter, and packet loss. Some examples of non-real-time network protocols are Transmission Control Protocol (TCP), User Datagram Protocol (UDP), and Hypertext Transfer Protocol (HTTP).

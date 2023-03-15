@@ -1,0 +1,11 @@
+### Features of RTOS
+
+- An RTOS is an operating system that has two key features: **predictability** and **determinism**. This means that it can guarantee that tasks will be completed within a specified time limit, and that the system will always respond in the same way to the same inputs.
+- An RTOS is **small**, **fast**, **responsive**, and **efficient**. It occupies very less memory and consumes fewer resources than a general-purpose operating system. It can execute tasks quickly and handle interrupts with minimal latency.
+- An RTOS supports **real-time scheduling** algorithms that assign priorities to tasks and ensure that the highest-priority task is always running. There are two types of real-time scheduling algorithms: **co-operative** and **pre-emptive**.
+  - Co-operative scheduling: The task will run until the execution is completed. The kernel can only be set up in one way, and the task cannot be interrupted by another task.
+  - Pre-emptive scheduling: Each task has a unique priority value. The higher the priority, the faster the task will be executed. The task can be interrupted by another task with a higher priority, and resume when the interrupting task is finished.
+- An RTOS provides **inter-task communication** and **synchronization** mechanisms, such as **semaphores**, **mutexes**, **message queues**, **event flags**, and **mailboxes**. These mechanisms allow tasks to share data, coordinate actions, and avoid conflicts.
+- An RTOS supports **memory management** techniques, such as **static memory allocation**, **dynamic memory allocation**, **memory pools**, and **memory protection**. These techniques allow tasks to access memory efficiently, securely, and reliably.
+- An RTOS supports **device drivers** and **input/output** operations, such as **serial ports**, **network interfaces**, **timers**, and **analog-to-digital converters**. These operations allow tasks to interact with external devices and sensors.
+- An RTOS supports **application programming interfaces** (APIs) that allow developers to create and modify tasks, configure system parameters, and use system services. These APIs are usually written in **C** or **C++** languages, and may be **standardized** or **proprietary**.

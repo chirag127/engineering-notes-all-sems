@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some design goals for the notes of the Unit 3 - Screen Designing in the subject of Human Computer Interface:
+
+### Design goals for the notes of the Unit 3 - Screen Designing in the subject of Human Computer Interface
+
+- The notes should be concise, clear, and consistent. They should avoid unnecessary details, jargon, and ambiguity. They should use the same terminology, format, and style throughout the unit.
+- The notes should be organized, structured, and coherent. They should follow a logical sequence of topics, subtopics, and examples. They should use headings, subheadings, bullet points, and numbering to highlight the main points and subpoints.
+- The notes should be interactive, engaging, and motivating. They should include questions, exercises, quizzes, and feedback to test the learner's understanding and retention. They should also provide examples, illustrations, diagrams, and animations to demonstrate the concepts and principles of screen designing.
+- The notes should be accessible, usable, and adaptable. They should follow the principles of universal design and accessibility guidelines. They should use appropriate fonts, colors, contrast, and spacing to enhance readability and visibility. They should also provide alternative formats, such as audio, video, and transcripts, to accommodate different learning preferences and needs.
+- The notes should be accurate, reliable, and up-to-date. They should reflect the current knowledge and best practices of screen designing. They should cite the sources of information and provide references for further reading. They should also be reviewed and updated regularly to ensure quality and relevance.

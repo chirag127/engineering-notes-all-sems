@@ -1,0 +1,11 @@
+# Types of connections for the notes of the Unit 2 - Physical Layer in the subject of Computer Networks
+
+The physical layer is the lowest layer in the OSI model of computer networking, which provides an interface to the transmission medium. The physical layer is responsible for sending and receiving data bits over the physical medium, such as cables, wires, optical fibers, radio waves, etc. The physical layer also defines the physical characteristics of the medium, such as voltage levels, connectors, cable types, modulation schemes, etc.
+
+There are different types of connections that can be used in the physical layer, depending on the topology, performance, cost, and reliability of the network. Some of the common types of connections are:
+
+- **Point-to-point connection**: This is a direct link between two devices, such as a computer and a printer, or a router and a switch. A point-to-point connection can use either a single wire or a pair of wires, or a wireless link, such as infrared or radio. A point-to-point connection is simple, fast, and secure, but it can be expensive and inefficient if many devices need to communicate with each other.
+
+- **Point-to-multipoint connection**: This is a link between one device and multiple devices, such as a hub and several computers, or a base station and several mobile phones. A point-to-multipoint connection can use either a shared medium, such as a coaxial cable or a wireless channel, or a dedicated medium, such as a fiber optic cable or a microwave link. A point-to-multipoint connection can support multiple devices, but it can suffer from interference, congestion, and security issues.
+
+- **Multipoint-to-multipoint connection**: This is a link between multiple devices and multiple devices, such as a mesh network or a peer-to-peer network. A multipoint-to-multipoint connection can use either a wired or a wireless medium, and it can be either static or dynamic, depending on the network topology. A multipoint-to-multipoint connection can provide high reliability, scalability, and flexibility, but it can also be complex, costly, and difficult to manage.

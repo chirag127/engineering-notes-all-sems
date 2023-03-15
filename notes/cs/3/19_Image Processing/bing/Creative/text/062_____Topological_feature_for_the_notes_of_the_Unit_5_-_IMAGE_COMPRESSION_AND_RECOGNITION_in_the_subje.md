@@ -1,0 +1,15 @@
+### Topological feature extraction in binary images
+
+- Topological features are properties of objects in images that are invariant under continuous deformations, such as translation, rotation, scaling, or bending.
+- Examples of topological features are the number of connected components, the number of holes, the Euler number, or the Betti numbers of an object.
+- Topological features can be useful for image analysis, such as object detection, segmentation, classification, or recognition.
+- To extract topological features from binary images, one needs to define a suitable representation of the objects and their boundaries, such as pixels, voxels, or simplices.
+- One also needs to define a notion of adjacency or connectivity between these elements, such as 4-connectivity, 8-connectivity, or k-connectivity for pixels, or face-to-face, edge-to-edge, or vertex-to-vertex connectivity for simplices.
+- Based on these definitions, one can apply methods from combinatorial topology or algebraic topology to compute the topological features of the objects in the image.
+- Combinatorial topology uses graph-theoretic concepts, such as cycles, trees, or spanning trees, to compute the number of components, holes, or tunnels of an object.
+- Algebraic topology uses algebraic structures, such as groups, rings, or modules, to compute the homology or cohomology groups of an object, which capture its higher-dimensional holes or voids.
+- Some of the algorithms for topological feature extraction are based on the following concepts or techniques:
+  - Euler characteristic: a scalar quantity that equals the number of vertices minus the number of edges plus the number of faces of an object. It can be computed by counting the number of black and white pixels in the image, or by using a lookup table for each pixel configuration.
+  - Betti numbers: a sequence of integers that measure the rank of the homology groups of an object. They can be computed by counting the number of independent cycles, boundaries, or generators of the homology groups, or by using a matrix reduction technique.
+  - Persistent homology: a method that tracks the changes in the homology groups of an object as a function of a parameter, such as the level of noise, the scale, or the threshold. It can be computed by constructing a filtration of the object, which is a nested sequence of sub-objects, and applying the standard homology algorithms to each sub-object. The output is a persistence diagram or a barcode, which shows the birth and death of each homology class along the parameter.
+  - Morse theory: a method that relates the topology of an object to the critical points of a real-valued function defined on the object, such as the height, the curvature, or the intensity. It can be computed by finding the critical points and the gradient flow of the function, and applying the Morse inequalities or the Morse-Smale complex to obtain the topological features of the object.

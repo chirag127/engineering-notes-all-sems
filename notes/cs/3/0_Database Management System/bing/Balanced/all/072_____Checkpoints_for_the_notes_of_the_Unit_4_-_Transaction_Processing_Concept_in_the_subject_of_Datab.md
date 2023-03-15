@@ -1,0 +1,44 @@
+# Checkpoints for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A transaction is a logical unit of work that represents a real-world event of data processing.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that a transaction either executes all or none of its operations.
+- Consistency means that a transaction preserves the integrity constraints of the database.
+- Isolation means that a transaction executes as if it is the only one in the system, without interference from other transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failures.
+- A transaction can have one of the following states: active, partially committed, committed, failed, or aborted.
+- A transaction begins in the active state, where it executes its operations.
+- A transaction enters the partially committed state when it executes its last operation.
+- A transaction enters the committed state when it successfully completes and its changes are recorded in the database.
+- A transaction enters the failed state when it encounters an error or aborts due to some reason.
+- A transaction enters the aborted state when it is rolled back and its changes are undone from the database.
+- A transaction can be aborted by the user, the system, or the concurrency control mechanism.
+- A transaction can be rolled back by using undo and redo operations, which are based on the transaction log.
+- A transaction log is a file that records all the changes made by the transactions in the database.
+- A transaction log contains entries for each operation, such as start, read, write, commit, abort, etc.
+- A transaction log also contains information such as transaction id, timestamp, old value, new value, etc.
+- A transaction log is used for recovery purposes, to restore the database to a consistent state after a failure.
+- A transaction log can be implemented using different techniques, such as deferred update, immediate update, shadow paging, etc.
+- A transaction can be executed in different modes, such as serial, concurrent, or interleaved.
+- A serial execution is one where transactions are executed one after another, without any overlap.
+- A concurrent execution is one where transactions are executed simultaneously, with some overlap.
+- An interleaved execution is one where transactions are executed in a mixed order, with some operations of one transaction followed by some operations of another transaction, and so on.
+- A concurrent execution can improve the performance and throughput of the system, but it can also cause some problems, such as lost update, uncommitted dependency, inconsistent analysis, and phantom reads.
+- A lost update occurs when two transactions update the same data item and one of them overwrites the changes of the other.
+- An uncommitted dependency occurs when one transaction reads a data item that has been updated by another transaction, but not yet committed.
+- An inconsistent analysis occurs when one transaction reads several data items that have been updated by another transaction, but not all at the same time.
+- A phantom read occurs when one transaction reads a set of data items that satisfy some condition, and another transaction inserts or deletes some data items that affect the condition, causing the first transaction to see different results when it repeats the read operation.
+- To prevent or resolve these problems, a concurrency control mechanism is needed, which ensures that the concurrent execution of transactions is equivalent to some serial execution.
+- A concurrency control mechanism can be based on different techniques, such as locking, timestamping, validation, or multiversioning.
+- A locking technique is one where transactions acquire locks on the data items they access, and release them when they are done.
+- A lock is a variable that indicates the status of a data item, such as available, locked, shared, or exclusive.
+- A lock can be granted or denied to a transaction, depending on the compatibility of the lock modes and the lock state.
+- A lock can be applied at different levels of granularity, such as database, table, page, record, or field.
+- A locking technique can be classified into different types, such as binary, shared, exclusive, or multiple.
+- A binary locking technique is one where a lock can have only two modes: locked or unlocked.
+- A shared locking technique is one where a lock can have two modes: shared or exclusive.
+- An exclusive locking technique is one where a lock can have only one mode: exclusive.
+- A multiple locking technique is one where a lock can have multiple modes, such as read, write, or intention.
+- A locking technique can also be classified into different protocols, such as two-phase locking, conservative locking, strict locking, or rigorous locking.
+- A two-phase locking protocol is one where a transaction acquires all the locks it needs before releasing any lock.
+- A conservative locking protocol is one where

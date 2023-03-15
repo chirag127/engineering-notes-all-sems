@@ -1,0 +1,9 @@
+### Write HTML/Java scripts to display your CV in navigator, your Institute website, Department Website and Tutorial website for specific subject for the notes of the Unit 1 - Develop static web pages using HTML in the subject of Web Technology Lab
+
+1. To display your CV in a navigator, you can use HTML to create a structured document that includes your personal information, education, work experience, and other relevant details. You can use CSS to style the page and make it visually appealing.
+
+2. To display your CV on your Institute website or Department website, you can use the same HTML and CSS code as above, but you may need to make some changes to the code to ensure that it fits within the design and layout of the website. You can also use JavaScript to add interactivity to the page, such as displaying additional information when the user hovers over a certain element.
+
+3. To display your CV on a Tutorial website for a specific subject, you can use the same HTML, CSS, and JavaScript code as above, but you may need to make some changes to the content to ensure that it is relevant to the subject and the audience of the website. You can also use JavaScript to create interactive quizzes or other educational content to help users learn more about the subject.
+
+4. In summary, to develop static web pages using HTML for the subject of Web Technology Lab, you can use HTML to create the structure of the page, CSS to style the page, and JavaScript to add interactivity. You may need to make some changes to the code depending on the specific website where you want to display your CV.

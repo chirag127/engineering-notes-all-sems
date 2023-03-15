@@ -1,0 +1,10 @@
+### Datagram
+
+- A datagram is a unit of data that is sent from one location to another over a network .
+- A datagram is composed of a header and a payload. The header contains information such as the source and destination addresses, the protocol type, and the length of the datagram. The payload contains the actual data to be transmitted.
+- A datagram is a self-contained and independent entity of data, meaning that it does not depend on any previous or subsequent exchanges between the source and destination computers or the network.
+- A datagram is a connectionless service, meaning that it does not require any establishment or termination of a connection between the source and destination computers. Each datagram is treated as a separate and independent unit by the network .
+- A datagram is an unreliable service, meaning that it does not guarantee the delivery, order, or integrity of the data. Datagrams may be lost, duplicated, corrupted, or delivered out of order by the network. The responsibility of ensuring reliable communication lies with the higher-level protocols that use datagrams as the underlying service .
+- A datagram is a best-effort service, meaning that the network tries to deliver the datagram to the destination as fast and efficiently as possible, but does not guarantee any quality of service or performance. The network may drop, delay, or reroute datagrams depending on the network conditions and the availability of resources .
+- A datagram is a variable-length service, meaning that the size of the datagram may vary depending on the payload and the network constraints. The network may impose a maximum size limit on the datagrams, and may fragment or reassemble datagrams if they exceed the limit .
+- A datagram is a suitable service for applications that require fast, simple, and flexible communication, and that can tolerate some degree of unreliability and variability. Examples of such applications are voice over IP, video streaming, online gaming, and file transfer.

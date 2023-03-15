@@ -1,0 +1,11 @@
+# Estimation of Project Metrics for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- Project metrics are quantitative measures that help to monitor and control the progress and quality of a software project.
+- Project metrics can be used to estimate critical project parameters such as cost, scope, schedule, effort, and risk.
+- Estimation of project metrics is an essential part of software project management, as it helps to plan, allocate, and manage the resources and activities of a project.
+- Estimation of project metrics can be done using various techniques, such as expert judgment, analogy, parametric models, and function point analysis.
+- Expert judgment is a technique where a group of experts in the relevant field estimates the project metrics based on their experience and expertise. This technique is often used when there is limited information available about the project.
+- Analogy is a technique where the project metrics are estimated by comparing the current project with similar past projects and adjusting for the differences. This technique is useful when there is historical data available and the project is not too complex or unique.
+- Parametric models are mathematical equations that relate the project metrics to one or more independent variables, such as size, complexity, or functionality. These models are based on statistical analysis of historical data and can provide accurate and consistent estimates. Some examples of parametric models are COCOMO, SLIM, and SEER-SEM.
+- Function point analysis is a technique that measures the size of a software project based on the functionality and complexity of the user requirements. Function points are calculated by counting the number of inputs, outputs, inquiries, files, and interfaces in the software and applying a complexity adjustment factor. Function points can then be converted to other project metrics, such as lines of code, effort, or cost, using conversion factors.
+- Estimation of project metrics is not a one-time activity, but a continuous process that needs to be revised and updated throughout the project lifecycle. Estimation accuracy can be improved by using multiple techniques, validating the estimates with stakeholders, and incorporating feedback and learning from previous projects.

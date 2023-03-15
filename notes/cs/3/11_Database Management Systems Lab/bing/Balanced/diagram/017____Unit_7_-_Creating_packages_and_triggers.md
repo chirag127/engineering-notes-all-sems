@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material on Unit 7 - Creating packages and triggers. Here is an overview of the topic:
+
+## Unit 7 - Creating packages and triggers
+
+- A package is a collection of related procedures, functions, variables, constants, cursors, and other elements that are stored together in the database.
+- A package has two parts: a specification and a body. The specification declares the public elements of the package that can be accessed by other programs. The body defines the implementation of the package elements and can also contain private elements that are only visible within the package.
+- A trigger is a special type of stored procedure that is executed automatically when a specific event occurs in the database, such as inserting, updating, or deleting data from a table or view.
+- A trigger can be used to enforce business rules, maintain data integrity, audit data changes, or perform other actions based on the event.
+- A trigger has three main components: a triggering event, a trigger condition, and a trigger action. The triggering event specifies when the trigger should fire, such as before or after a DML statement. The trigger condition is an optional Boolean expression that determines whether the trigger action should be executed or not. The trigger action is a block of PL/SQL code that performs the desired task.
+- A trigger can be classified into different types based on the level and timing of the triggering event. The level can be either row-level or statement-level, depending on whether the trigger fires for each affected row or once for the entire statement. The timing can be either before or after, depending on whether the trigger fires before or after the statement is executed. Additionally, there are also instead of triggers that fire instead of the DML statement on a view, and compound triggers that combine multiple trigger actions into a single trigger.

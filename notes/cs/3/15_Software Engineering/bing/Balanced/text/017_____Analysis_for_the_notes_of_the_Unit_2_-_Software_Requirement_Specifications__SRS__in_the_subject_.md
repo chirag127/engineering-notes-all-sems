@@ -1,0 +1,22 @@
+### Analysis for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, constraints, and quality attributes of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and managers of the software project, and to provide a basis for verification and validation of the software product.
+- The benefits of SRS are:
+  - It reduces the ambiguity and conflicts among the stakeholders by providing a clear and consistent description of the software requirements.
+  - It facilitates the estimation of the cost, time, and resources needed for the software development.
+  - It enables the identification and management of the risks and changes associated with the software project.
+  - It enhances the quality and reliability of the software product by ensuring that it meets the expectations and needs of the users and customers.
+- The characteristics of a good SRS are:
+  - Correct: It should state the true requirements of the software system and avoid errors and inconsistencies.
+  - Complete: It should cover all the aspects of the software system and its environment, and not omit any relevant information or details.
+  - Consistent: It should not contain any contradictory or conflicting requirements or statements.
+  - Clear: It should use precise and unambiguous language and terminology, and avoid jargon and vague expressions.
+  - Verifiable: It should state the requirements in a way that can be checked and tested by using objective criteria and methods.
+  - Modifiable: It should be organized and structured in a way that allows easy and traceable changes and updates.
+  - Traceable: It should provide links and references between the requirements and their sources, such as user needs, business goals, or design decisions.
+- The process of developing SRS involves the following steps:
+  - Elicitation: It is the process of gathering and analyzing the requirements from various sources, such as users, customers, domain experts, existing systems, standards, regulations, etc.
+  - Specification: It is the process of documenting and formalizing the requirements in a structured and consistent format, such as natural language, diagrams, tables, models, etc.
+  - Validation: It is the process of reviewing and verifying the requirements to ensure that they are correct, complete, consistent, clear, verifiable, modifiable, and traceable, and that they meet the expectations and needs of the stakeholders.
+  - Management: It is the process of controlling and maintaining the requirements throughout the software development life cycle, by using techniques such as prioritization, traceability, change control, configuration management, etc.

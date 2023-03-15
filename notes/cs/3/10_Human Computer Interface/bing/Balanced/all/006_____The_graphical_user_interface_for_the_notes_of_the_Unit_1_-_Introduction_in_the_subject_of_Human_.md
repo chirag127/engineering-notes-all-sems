@@ -1,0 +1,21 @@
+# The graphical user interface for the notes of the Unit 1 - Introduction in the subject of Human Computer Interface
+
+- A graphical user interface (GUI) is a type of user interface that allows users to interact with a computer system through graphical elements such as icons, menus, windows, buttons, etc.
+- A GUI is designed to make the user experience more intuitive, efficient, and satisfying, by reducing the need for memorizing commands or typing text.
+- A GUI is composed of two main components: the input devices and the output devices.
+  - Input devices are the hardware or software components that allow the user to provide information or commands to the system, such as a mouse, a keyboard, a touchscreen, a microphone, etc.
+  - Output devices are the hardware or software components that display the information or feedback from the system to the user, such as a monitor, a speaker, a printer, etc.
+- A GUI is also composed of several graphical elements that are arranged in a logical and consistent way, following some design principles and guidelines. Some of the common graphical elements are:
+  - Icons: small pictorial representations of objects, actions, or concepts, that can be clicked or tapped to perform a function or access a resource.
+  - Menus: lists of options or commands that can be selected by the user, either by clicking, tapping, or hovering over them.
+  - Windows: rectangular areas that display information or content, and can be moved, resized, minimized, maximized, or closed by the user.
+  - Buttons: graphical elements that can be clicked or tapped to trigger an action or a command, such as submitting a form, playing a video, etc.
+  - Text boxes: graphical elements that allow the user to enter or edit text, such as a search box, a username field, a password field, etc.
+  - Check boxes: graphical elements that allow the user to select or deselect one or more options from a list, by clicking or tapping on them.
+  - Radio buttons: graphical elements that allow the user to select one option from a list, by clicking or tapping on them.
+  - Sliders: graphical elements that allow the user to adjust a value or a parameter, by dragging or tapping on a handle along a scale.
+  - Drop-down lists: graphical elements that allow the user to choose one option from a list, by clicking or tapping on a button that reveals the list.
+  - Toolbars: rows or columns of icons or buttons that provide quick access to frequently used functions or commands, such as formatting, copying, pasting, etc.
+  - Status bars: horizontal or vertical areas that display information or feedback about the current state or progress of the system or the application, such as the time, the battery level, the network connection, etc.
+- A GUI is influenced by several factors, such as the user's needs, preferences, and expectations, the system's capabilities and limitations, the application's goals and functions, the context of use, the design standards and conventions, etc.
+- A GUI is evaluated by several criteria, such as the usability, the aesthetics, the accessibility, the functionality, the consistency, the learnability, the efficiency, the satisfaction, etc.

@@ -1,0 +1,36 @@
+### Java Database Connectivity (JDBC)
+
+- JDBC stands for Java Database Connectivity. It is a Java API that allows Java applications to interact with various types of databases using a standard interface.
+- JDBC provides a set of classes and interfaces that can be used to perform common database operations such as creating connections, executing statements, querying data, updating data, handling transactions, and managing metadata.
+- JDBC supports different types of databases, such as relational databases, hierarchical databases, object-oriented databases, and document databases. JDBC also supports different types of drivers, which are software components that implement the JDBC interface and communicate with the specific database.
+- JDBC drivers are classified into four categories based on their architecture and functionality:
+  - Type 1: JDBC-ODBC Bridge Driver. This driver uses the ODBC (Open Database Connectivity) driver to connect to the database. It is not recommended for production use as it is platform-dependent and has performance issues.
+  - Type 2: Native Driver. This driver uses the native libraries of the database to connect to the database. It is also platform-dependent and requires the installation of the native libraries on the client machine.
+  - Type 3: Network Protocol Driver. This driver uses a middleware server that converts JDBC calls into the database-specific protocol. It is platform-independent and can connect to multiple databases, but it requires the installation and maintenance of the middleware server.
+  - Type 4: Thin Driver. This driver uses the database-specific protocol to connect to the database directly. It is platform-independent and does not require any additional software on the client or the server. It is the most recommended driver for JDBC applications.
+- To establish a connection to a database using JDBC, the following steps are required:
+  - Load the JDBC driver class using the Class.forName() method. This registers the driver with the DriverManager class, which manages the available drivers.
+  - Obtain a connection object from the DriverManager class using the getConnection() method. This method takes a database connection URL, which specifies the subprotocol, the database name, and optionally some attributes. The format of the URL varies depending on the driver and the database.
+  - For example, the following is the database connection URL syntax for Java DB:
+    - jdbc:derby:[ subsubprotocol :][ databaseName ][; attribute = value ]*
+    - subsubprotocol specifies where Java DB should search for the database, either in a directory, in memory, in a class path, or in a JAR file.
+    - databaseName specifies the name of the database to connect to.
+    - attribute = value specifies some optional properties for the connection, such as user, password, create, etc.
+  - For example, the following code snippet shows how to load the Java DB driver and obtain a connection to a database named sample in the current directory:
+    - Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
+    - Connection conn = DriverManager.getConnection("jdbc:derby:sample");
+- After obtaining a connection object, the JDBC application can use various methods of the Connection interface to perform database operations, such as creating statements, executing queries, updating data, committing or rolling back transactions, and closing the connection.
+- For example, the following code snippet shows how to create a statement object, execute a query, and process the result set using the Statement, ResultSet, and ResultSetMetaData interfaces:
+    - Statement stmt = conn.createStatement();
+    - ResultSet rs = stmt.executeQuery("SELECT * FROM EMPLOYEE");
+    - ResultSetMetaData rsmd = rs.getMetaData();
+    - int columnCount = rsmd.getColumnCount();
+    - while (rs.next()) {
+      - for (int i = 1; i <= columnCount; i++) {
+        - System.out.print(rs.getString(i) + " ");
+      - }
+      - System.out.println();
+    - }
+    - rs.close();
+    - stmt.close();
+- For more details and examples on JDBC, please refer to the following sources    .

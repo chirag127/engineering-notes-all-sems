@@ -1,0 +1,24 @@
+# Cursors
+
+- A cursor is a database object that allows you to manipulate data in a row-by-row manner.
+- A cursor can be thought of as a pointer to a specific row within a query result .
+- Cursors facilitate subsequent processing in conjunction with the traversal, such as retrieval, addition and removal of database records.
+- Cursors are an extension to result sets that provide mechanisms for positioning at specific rows, retrieving one row or block of rows, and supporting data modifications.
+- Cursors are created and executed on the database server itself.
+- Cursors have a lifecycle that involves the following steps :
+  - Declare a cursor: A cursor is declared by defining a SQL statement that returns a result set.
+  - Open a cursor: A cursor is opened by executing the SQL statement and creating the result set in memory.
+  - Fetch a cursor: A cursor is fetched by moving the pointer to a row in the result set and retrieving the data from that row.
+  - Close a cursor: A cursor is closed by releasing the result set from memory and freeing the resources associated with the cursor.
+  - Deallocate a cursor: A cursor is deallocated by removing the cursor definition from the database server.
+- Cursors can be classified into different types based on their characteristics, such as:
+  - Forward-only or scrollable: A forward-only cursor can only move from the first row to the last row in the result set, while a scrollable cursor can move in any direction.
+  - Static or dynamic: A static cursor works with a snapshot of the result set and does not reflect any changes made to the underlying data, while a dynamic cursor reflects any changes made to the underlying data.
+  - Keyset-driven or insensitive: A keyset-driven cursor works with a set of keys that identify the rows in the result set and reflects any changes made to the non-key columns of the underlying data, while an insensitive cursor works with a snapshot of the result set and does not reflect any changes made to the underlying data.
+  - Local or global: A local cursor is visible only within the scope of the batch, stored procedure, or trigger that declares it, while a global cursor is visible to all users and all connections.
+- Cursors are useful when you need to perform row-level operations on data, such as looping through the rows, applying complex logic, or updating or deleting individual rows .
+- Cursors have some disadvantages, such as:
+  - Cursors consume more memory and CPU resources than set-based operations .
+  - Cursors can cause locking and blocking issues on the underlying data, affecting the concurrency and performance of other transactions .
+  - Cursors can introduce errors and bugs if not handled properly, such as forgetting to close or deallocate the cursor .
+- Cursors should be used sparingly and only when necessary, as set-based operations are usually faster and more efficient than cursor-based operations .

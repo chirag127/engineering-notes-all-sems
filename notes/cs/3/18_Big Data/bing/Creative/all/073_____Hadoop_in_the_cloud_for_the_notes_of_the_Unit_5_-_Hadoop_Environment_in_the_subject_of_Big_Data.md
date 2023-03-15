@@ -1,0 +1,23 @@
+# Hadoop in the cloud
+
+- Hadoop is a software framework that allows users to process large data sets in a distributed environment using a cluster of computers.
+- Hadoop consists of four main modules: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common.
+- HDFS is a distributed file system that runs on standard or low-end hardware and provides high data throughput, fault tolerance, and scalability.
+- MapReduce is a programming model that enables parallel processing of large data sets across multiple nodes in the cluster.
+- YARN is a resource management layer that allocates and schedules computing resources for different applications running on the cluster.
+- Hadoop Common is a set of libraries and utilities that support the other modules.
+- Hadoop also has a rich ecosystem of tools and frameworks that extend its functionality, such as Hive, Pig, Spark, HBase, etc.
+- Hadoop on the cloud is a way of running Hadoop clusters on public, private, or hybrid cloud resources instead of on-premises hardware.
+- Hadoop on the cloud has several advantages, such as:
+  - Lower capacity investment and operational costs, as the cloud provider handles the infrastructure provisioning, maintenance, and scaling.
+  - Higher flexibility and availability, as the cloud provider offers various options for storage, compute, and network configurations, as well as backup and recovery services.
+  - Faster time to value, as the cloud provider offers fully managed services for Hadoop, such as Dataproc from Google Cloud, that simplify the deployment, configuration, and management of Hadoop clusters.
+  - Easier integration with other cloud services, such as data analytics, machine learning, and artificial intelligence applications, that can leverage the data stored and processed by Hadoop.
+- Hadoop on the cloud also has some challenges, such as:
+  - Data security and privacy, as the cloud provider may have access to the data or may be subject to different regulations and compliance standards.
+  - Data transfer and latency, as the data may need to be moved between the cloud and the on-premises systems, which can incur costs and delays.
+  - Vendor lock-in and compatibility, as the cloud provider may use proprietary or customized versions of Hadoop or its components, which can limit the portability and interoperability of the applications.
+- Hadoop on the cloud can be implemented in different ways, such as:
+  - Cloud-native Hadoop, which is a fully managed service that runs Hadoop clusters on the cloud provider's infrastructure, such as Dataproc from Google Cloud, EMR from AWS, or HDInsight from Azure.
+  - Cloud-hosted Hadoop, which is a self-managed service that runs Hadoop clusters on the cloud provider's virtual machines, such as Compute Engine from Google Cloud, EC2 from AWS, or VMs from Azure.
+  - Hybrid Hadoop, which is a partially managed service that runs Hadoop clusters on both the cloud and the on-premises systems, such as Cloud Dataproc on Google Kubernetes Engine from Google Cloud, EMR on EKS from AWS, or Azure Arc from Azure .

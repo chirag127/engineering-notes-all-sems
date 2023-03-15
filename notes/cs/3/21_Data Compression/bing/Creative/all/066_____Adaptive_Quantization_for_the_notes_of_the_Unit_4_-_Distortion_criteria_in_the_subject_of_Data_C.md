@@ -1,0 +1,9 @@
+# Adaptive Quantization
+
+- Adaptive quantization is a type of data compression technique that adjusts the quantizer parameters according to the characteristics of the input signal.
+- The goal of adaptive quantization is to provide effective data compression of a signal source with time-varying parameters. An adaptive quantizer estimates the statistics of the source and attempts to match the quantizer to the source distribution.
+- Adaptive quantization can be classified into two categories: forward adaptive quantization and backward adaptive quantization.
+- In forward adaptive quantization, the input is divided into blocks. The quantizer parameters are estimated for each block. These parameters are transmitted to the receiver as side information. The receiver uses the same quantizer parameters to reconstruct the signal.
+- In backward adaptive quantization, the quantizer parameters are updated based on the feedback from the receiver. The receiver sends back the quantization error or the reconstructed signal to the transmitter. The transmitter uses this information to adjust the quantizer parameters for the next input sample.
+- Adaptive quantization can be applied to different types of quantizers, such as uniform, non-uniform, scalar, or vector quantizers. The choice of the quantizer depends on the nature of the input signal and the desired compression ratio and distortion level.
+- Adaptive quantization can improve the performance of data compression schemes, such as differential pulse-code modulation (DPCM), transform coding, or subband coding, by adapting to the local variations of the signal.

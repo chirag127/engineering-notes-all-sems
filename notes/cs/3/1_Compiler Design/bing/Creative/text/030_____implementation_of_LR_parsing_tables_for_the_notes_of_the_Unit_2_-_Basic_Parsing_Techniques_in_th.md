@@ -1,0 +1,28 @@
+### Implementation of LR Parsing Tables
+
+- LR parsing tables are a two-dimensional array in which each entry represents an action or a goto entry.
+- LR parsing tables are used by LR parsers to determine the next move based on the current state and the next input symbol.
+- LR parsers are bottom-up parsers that can handle a large class of context-free grammars, including those that are ambiguous or left-recursive.
+- There are three types of LR parsers: SLR, CLR and LALR.
+  - SLR stands for Simple LR parser. It is easy and cost-effective to implement, but it fails to handle some grammars that have shift-reduce or reduce-reduce conflicts.
+  - CLR stands for Canonical LR parser. It is the most powerful and precise LR parser, but it generates a large parsing table that may be impractical to store or use.
+  - LALR stands for Lookahead LR parser. It is a compromise between SLR and CLR, as it reduces the size of the parsing table by merging some states, but it may introduce some spurious conflicts.
+- The LR parsing table consists of two parts: the action part and the goto part.
+  - The action part has columns for lookahead terminal symbols, and rows for parser states. Each entry specifies one of the following actions :
+    - Shift: move the next input symbol to the stack and go to the next state.
+    - Reduce: pop some symbols from the stack according to a production rule, and push the left-hand side nonterminal symbol to the stack.
+    - Accept: terminate the parsing successfully and return the parse tree.
+    - Error: report a syntax error and terminate the parsing unsuccessfully.
+  - The goto part has columns for nonterminal symbols, and rows for parser states. Each entry specifies the next state to go to after a reduction .
+- The LR parsing table can be constructed by using the following steps:
+  - Step 1: Generate the canonical collection of LR(0) items for the given grammar. An LR(0) item is a production rule with a dot (.) indicating the position of the parser. The canonical collection is the set of all possible states that the parser can be in, along with the items that are valid for each state.
+  - Step 2: Construct the action part of the table by using the following rules:
+    - If there is an item A → α. a β in state Ii, and the goto of Ii on a is Ij, then set action[i, a] to shift j.
+    - If there is an item A → α. in state Ii, and A is not the start symbol, then set action[i, a] to reduce A → α for all a in the follow set of A.
+    - If there is an item S' → S. in state Ii, where S' is the augmented start symbol, then set action[i, $] to accept.
+    - If any entry is not defined by the above rules, then set it to error.
+  - Step 3: Construct the goto part of the table by using the following rule:
+    - If the goto of state Ii on nonterminal A is Ij, then set goto[i, A] to j.
+  - Step 4: If the parser is SLR, then the table is complete. If the parser is CLR or LALR, then modify the table by using the following steps:
+    - For CLR, compute the lookahead set for each item in each state, which is the set of terminals that can follow the item in a valid input. For LALR, merge the states that have the same core items, which are the items without the lookahead sets, and compute the lookahead set for each item in each merged state by taking the union of the lookahead sets of the original states.
+    - For each state Ii and each terminal a, set action[i, a] to reduce A → α if there is an item A → α. with a in its lookahead set in state Ii, and there is no shift action on a in state Ii. If there is a shift action on a in state Ii, then there is a shift-reduce conflict. If there are two or more reduce actions on a in state Ii, then there is a reduce-reduce conflict. These conflicts indicate that the grammar is not LR(k) for the

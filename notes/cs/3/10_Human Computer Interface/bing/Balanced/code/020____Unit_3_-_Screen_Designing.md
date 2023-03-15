@@ -1,0 +1,9 @@
+## Unit 3 - Screen Designing
+
+Screen designing is the process of creating the visual layout and appearance of a user interface for an application or a website. Screen designing involves the following steps:
+
+- **Identify the user needs and goals**: The screen designer should understand the target audience, their preferences, expectations, and tasks. This can be done by conducting user research, such as interviews, surveys, observations, or personas.
+- **Define the information architecture**: The screen designer should organize the content and functionality of the application or website into a logical and intuitive structure. This can be done by creating sitemaps, wireframes, or flowcharts.
+- **Choose the appropriate design elements**: The screen designer should select the appropriate colors, fonts, icons, images, and other visual elements that suit the purpose and mood of the application or website. This can be done by following design principles, such as contrast, alignment, balance, hierarchy, or consistency.
+- **Create the screen prototypes**: The screen designer should create low-fidelity or high-fidelity prototypes that demonstrate the look and feel of the application or website. This can be done by using tools, such as sketching, paper prototyping, or software prototyping.
+- **Evaluate and refine the screen design**: The screen designer should test the screen design with the users and stakeholders, and collect feedback and suggestions. This can be done by using methods, such as usability testing, heuristic evaluation, or user feedback. The screen designer should then improve the screen design based on the feedback and suggestions.

@@ -1,0 +1,20 @@
+# Image Compression
+
+Image compression is the process of reducing the size of an image file without compromising its quality or resolution. Image compression is useful for saving storage space, bandwidth, and transmission time. Image compression can be classified into two types: lossless and lossy.
+
+## Lossless Compression
+
+Lossless compression is a technique that preserves the original data exactly, meaning that the decompressed image is identical to the original image. Lossless compression is suitable for images that require high fidelity, such as medical images, text documents, or icons. Lossless compression techniques include:
+
+- **Deflate**: This is a popular lossless image compression algorithm that uses a combination of the LZ77 compression algorithm and Huffman coding. LZ77 identifies repeated sequences of pixels and replaces them with shorter codes, while Huffman coding assigns variable-length codes to the pixel values based on their frequency. Deflate is used in formats such as PNG, GIF, and ZIP.
+- **Run-length encoding**: This is a simple lossless image compression technique that reduces the size of an image by encoding sequences of repeated pixels. For example, a row of 10 white pixels can be represented as 10W instead of WWWWWWWWWW. Run-length encoding is effective for images with large areas of uniform color, such as cartoons or logos.
+- **Arithmetic coding**: This is a lossless image compression technique that assigns codes to the pixel values based on their probability of occurrence. Arithmetic coding can achieve higher compression ratios than Huffman coding, but it is more complex and slower. Arithmetic coding is used in formats such as JPEG-LS and JPEG 2000.
+- **Transform coding**: This is a lossless or lossy image compression technique that uses mathematical transformations to reduce the size of an image. The idea behind transform coding is to convert the image data into a different representation that is more compact, making it easier to compress. Transform coding can be divided into two types: linear and nonlinear.
+
+## Lossy Compression
+
+Lossy compression is a technique that discards some of the original data, meaning that the decompressed image is an approximation of the original image. Lossy compression is suitable for images that can tolerate some degradation, such as photographs, videos, or web graphics. Lossy compression techniques include:
+
+- **Discrete cosine transform (DCT)**: This is the most widely used form of lossy compression. It is a type of linear transform coding that converts the image data into a sum of cosine functions of different frequencies. DCT can exploit the fact that the human eye is more sensitive to low-frequency components than high-frequency components, and thus discard or quantize the high-frequency components with minimal perceptual loss. DCT is used in formats such as JPEG, MPEG, and MP3 .
+- **Wavelet transform**: This is a type of nonlinear transform coding that converts the image data into a sum of wavelet functions of different scales and positions. Wavelet transform can capture both the spatial and frequency information of the image, and thus adapt to the local features of the image. Wavelet transform can achieve higher compression ratios and better quality than DCT, especially for images with edges, textures, or fine details. Wavelet transform is used in formats such as JPEG 2000, DjVu, and WebP.
+- **Fractal compression**: This is a type of nonlinear transform coding that converts the image data into a set of fractal equations that describe the self-similarity of the image. Fractal compression can exploit the fact that natural images often contain repeated patterns at different scales and orientations, and thus generate the image from a small set of parameters. Fractal compression can achieve very high compression ratios and resolution independence, but it is very complex and slow. Fractal compression is used in formats such as FIF and IFS.

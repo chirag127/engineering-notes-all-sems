@@ -1,0 +1,22 @@
+### Network devices and components
+
+- Network devices and components are the hardware and software elements that enable communication and data exchange between different devices on a network.
+- Network devices and components can be classified into three categories: core, hybrid, and border.
+  - Core network devices and components are those that interconnect other network devices and components, such as switches, routers, and wireless access points.
+  - Hybrid network devices and components are those that can be found in the core or border of a network, such as gateways, bridges, and brouters.
+  - Border network devices and components are those that typically sit on the connection point of different networks, such as network interface cards, network media, and connectors.
+- Some of the common network devices and components and their functions are  :
+  - Sender: A device that initiates the communication by sending data to another device.
+  - Receiver: A device that receives the data sent by the sender.
+  - End Point: A device that can act as both a sender and a receiver, such as a computer, a printer, or a smartphone.
+  - Network Interface Card (NIC): A hardware component that allows a device to connect to a network by providing a physical and logical interface.
+  - Network Media: A physical or wireless medium that carries the data signals between devices, such as cables, fibers, or radio waves.
+  - Connectors: A hardware component that connects the network media to the devices, such as RJ45, BNC, or USB connectors.
+  - Switch: A device that connects multiple devices on a network and forwards data packets to the appropriate destination based on the MAC address.
+  - Router: A device that connects multiple networks and forwards data packets to the appropriate destination based on the IP address.
+  - Hub: A device that connects multiple devices on a network and broadcasts data packets to all connected devices.
+  - Repeater: A device that amplifies and regenerates the data signals on a network to extend the transmission distance.
+  - Gateway: A device that connects networks that use different protocols and performs protocol conversion.
+  - Bridge: A device that connects two or more segments of a network and filters data packets based on the MAC address.
+  - Brouter: A device that combines the functions of a bridge and a router and can forward data packets based on the MAC address or the IP address.
+  - Server: A device that provides services and resources to other devices on a network, such as file, web, or email services.

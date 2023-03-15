@@ -1,0 +1,8 @@
+## Unit 5 - Concurrency Control Techniques
+
+- Concurrency control techniques are methods to ensure the correctness and consistency of data in a database system when multiple transactions are executed concurrently.
+- Concurrency control techniques can be classified into two categories: pessimistic and optimistic.
+- Pessimistic concurrency control techniques prevent conflicts from occurring by locking the data items that are accessed by the transactions. Examples of pessimistic techniques are two-phase locking, timestamp ordering, and strict two-phase locking.
+- Optimistic concurrency control techniques allow conflicts to occur and then detect and resolve them by validating the transactions before committing them. Examples of optimistic techniques are validation-based protocols, multiversion concurrency control, and snapshot isolation.
+- Concurrency control techniques can also be classified based on the level of granularity of the data items that are locked or validated. The level of granularity can range from the entire database to a single record or field. The trade-off between the level of granularity and the performance of the system depends on the degree of contention and the overhead of locking or validation.
+- Concurrency control techniques can also be classified based on the type of conflicts that they handle. The type of conflicts can be read-write, write-write, or write-read. Different techniques may have different rules for handling different types of conflicts. For example, two-phase locking handles read-write and write-write conflicts by using shared and exclusive locks, while timestamp ordering handles write-read conflicts by using wait-die and wound-wait schemes.

@@ -1,0 +1,26 @@
+### Databases with JDBC
+
+- JDBC stands for Java Database Connectivity, which is an API that allows Java applications to interact with various types of databases, such as relational databases, cloud databases, or any other table-based data sources.
+- JDBC provides a standard interface for connecting to a database, executing SQL statements, retrieving results, and handling errors.
+- JDBC uses drivers to communicate with different databases. A driver is a software component that implements the JDBC interface and translates the JDBC calls into the specific protocol of the database.
+- JDBC supports four types of drivers: 
+  - Type 1: JDBC-ODBC bridge driver, which uses the ODBC driver of the database to connect to it. This type is not recommended as it depends on the ODBC driver and adds an extra layer of complexity.
+  - Type 2: Native-API driver, which uses the native library of the database to connect to it. This type is faster than type 1, but it is platform-dependent and requires the installation of the native library.
+  - Type 3: Network-protocol driver, which uses a middleware server to connect to the database. This type is platform-independent and can access multiple databases, but it requires the installation and maintenance of the middleware server.
+  - Type 4: Thin driver, which uses the database-specific protocol to connect to it. This type is platform-independent and does not require any additional software, but it may not support all the features of the database.
+- JDBC provides the following classes and interfaces for working with databases:
+  - `DriverManager`: A class that manages the loading and registration of drivers and provides methods for obtaining database connections.
+  - `Connection`: An interface that represents a connection to a database and provides methods for creating statements, managing transactions, and accessing metadata.
+  - `Statement`: An interface that represents a SQL statement that can be executed on a database and provides methods for executing queries, updates, and batch operations.
+  - `PreparedStatement`: A subinterface of `Statement` that represents a precompiled SQL statement that can be executed with different parameters and provides methods for setting and getting the parameters.
+  - `CallableStatement`: A subinterface of `PreparedStatement` that represents a SQL stored procedure call that can be executed on a database and provides methods for setting and getting the input and output parameters.
+  - `ResultSet`: An interface that represents the result of a query execution and provides methods for navigating and accessing the data.
+  - `ResultSetMetaData`: An interface that provides information about the columns of a `ResultSet`, such as the name, type, and size of each column.
+  - `DatabaseMetaData`: An interface that provides information about the database, such as the name, version, supported features, and schemas of the database.
+- JDBC follows a standard process for connecting to and manipulating a database:
+  - Load and register the driver class using the `Class.forName()` method or the `DriverManager.registerDriver()` method.
+  - Obtain a connection to the database using the `DriverManager.getConnection()` method, which takes the database URL, username, and password as parameters.
+  - Create a statement object using the `Connection.createStatement()`, `Connection.prepareStatement()`, or `Connection.prepareCall()` methods, depending on the type of statement to be executed.
+  - Execute the statement using the `Statement.execute()`, `Statement.executeQuery()`, or `Statement.executeUpdate()` methods, depending on the type of statement to be executed.
+  - Process the result using the `ResultSet` object returned by the `Statement.executeQuery()` method or the row count returned by the `Statement.executeUpdate()` method.
+  - Close the resources using the `ResultSet.close()`, `Statement.close()`, and `Connection.close()` methods, preferably in a `finally` block or a `try-with-resources` statement.

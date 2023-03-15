@@ -1,0 +1,13 @@
+# Introduction to SQL
+
+- SQL stands for Structured Query Language, which is a standard language for accessing and manipulating data in relational databases.
+- SQL can perform various tasks on data, such as creating, querying, updating, deleting, and managing tables, views, indexes, constraints, triggers, stored procedures, and functions.
+- SQL is based on relational algebra and calculus, which are mathematical models for expressing queries on relations (tables).
+- SQL has several dialects or variants, such as MySQL, Oracle, SQL Server, PostgreSQL, SQLite, etc. Each dialect may have some specific features or syntax that are not supported by other dialects.
+- SQL is divided into several sublanguages, such as Data Definition Language (DDL), Data Manipulation Language (DML), Data Control Language (DCL), and Data Query Language (DQL).
+  - DDL is used to define the structure and schema of the database, such as creating, altering, and dropping tables, views, indexes, constraints, etc.
+  - DML is used to manipulate the data in the database, such as inserting, updating, deleting, and merging records.
+  - DCL is used to control the access and security of the database, such as granting and revoking permissions and roles to users and groups.
+  - DQL is used to query and retrieve data from the database, such as selecting, joining, filtering, grouping, sorting, and aggregating records.
+- SQL statements are composed of keywords, identifiers, operators, expressions, clauses, and terminators. Keywords are reserved words that have a specific meaning and function in SQL, such as SELECT, FROM, WHERE, etc. Identifiers are names given to database objects, such as tables, columns, views, etc. Operators are symbols that perform arithmetic, logical, or comparison operations on values, such as +, -, AND, OR, =, etc. Expressions are combinations of values, operators, and functions that produce a result, such as 2 + 3, UPPER(name), etc. Clauses are parts of a SQL statement that specify a condition or an action, such as WHERE name = 'John', ORDER BY age DESC, etc. Terminators are characters that mark the end of a SQL statement, such as a semicolon (;) or a slash (/).
+- SQL statements can be executed interactively or in batches. Interactive execution means typing and running one SQL statement at a time in a command-line interface or a graphical user interface. Batch execution means storing multiple SQL statements in a file and running them all at once.

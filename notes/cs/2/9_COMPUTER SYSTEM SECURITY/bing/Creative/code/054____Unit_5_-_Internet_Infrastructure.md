@@ -1,0 +1,21 @@
+## Unit 5 - Internet Infrastructure
+
+- Internet infrastructure is the physical hardware, transmission media, and software used to interconnect computers and users on the Internet.
+- Internet infrastructure is responsible for hosting, storing, processing, and serving the information that makes up websites, applications, and content.
+- Internet infrastructure is a network of networks, composed of different types and levels of networks that connect in various ways.
+- The main components of Internet infrastructure are:
+  - End devices: These are the computers, smartphones, tablets, and other devices that users access the Internet with.
+  - Local area networks (LANs): These are the networks that connect end devices within a limited area, such as a home, office, or school.
+  - Routers: These are devices that forward data packets between different networks, based on their destination addresses.
+  - Wide area networks (WANs): These are the networks that connect LANs over large geographic distances, such as across cities, countries, or continents.
+  - Internet service providers (ISPs): These are the companies that provide access to the Internet, either through wired or wireless connections.
+  - Internet backbone: This is the high-speed, high-capacity network of routers and fiber-optic cables that carries the bulk of Internet traffic across the world.
+  - Internet exchange points (IXPs): These are the physical locations where different ISPs exchange traffic with each other, to reduce the cost and latency of data transmission.
+  - Domain name system (DNS): This is the system that translates human-readable domain names, such as www.example.com, into numerical IP addresses, such as 192.0.2.1, that identify the location of a website or server on the Internet.
+  - Web servers: These are the computers that host and deliver web pages and other content to users who request them through a web browser.
+  - Web browsers: These are the software applications that users use to access and view web pages and other content on the Internet.
+  - Web protocols: These are the rules and standards that govern how web servers and web browsers communicate and exchange data over the Internet, such as HTTP, HTTPS, and FTP.
+  - Web applications: These are the software programs that run on web servers and provide interactive and dynamic functionality to users, such as online shopping, social media, and gaming.
+  - Web APIs: These are the interfaces that allow web applications to communicate and share data with each other, such as REST, SOAP, and GraphQL.
+- Internet infrastructure is constantly evolving and expanding, as new technologies, devices, and services emerge and demand more bandwidth, speed, and reliability.
+- Internet infrastructure is also facing challenges and opportunities, such as digital divide, cyberattacks, net neutrality, privacy, and regulation.

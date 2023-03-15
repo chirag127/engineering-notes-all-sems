@@ -1,0 +1,13 @@
+# Categories of networks
+
+A computer network is a system of interconnected devices that can communicate and share data, resources, and applications. Computer networks can be classified based on several criteria, such as the transmission medium, the network size, the topology, and organizational intent.
+
+Based on a geographical scale, the different types of networks are:
+
+- **Personal Area Network (PAN)**: The smallest and simplest type of network. PANs connect devices within the range of an individual and are no larger than about 10 meters (m). Examples of PANs are wireless headphones, Bluetooth speakers, and smartwatches.
+- **Local Area Network (LAN)**: A network that connects devices in a small area, such as a home, an office, or a building. LANs are usually owned and managed by a single entity, and can provide high-speed data transfer and low latency. Examples of LANs are Ethernet networks, Wi-Fi networks, and home networks.
+- **Wireless Local Area Network (WLAN)**: A type of LAN that uses wireless technologies, such as radio waves or infrared, to connect devices without cables. WLANs are more flexible and convenient than wired LANs, but they may have lower security and reliability. Examples of WLANs are Wi-Fi hotspots, wireless routers, and wireless access points.
+- **Campus Area Network (CAN)**: A network that connects devices in a larger area, such as a university campus, a military base, or a corporate park. CANs are usually composed of multiple LANs connected by high-speed links, and can provide access to shared resources and services. Examples of CANs are campus Wi-Fi networks, campus Ethernet networks, and campus intranets.
+- **Metropolitan Area Network (MAN)**: A network that connects devices in a city or a metropolitan area. MANs are usually owned and operated by public or private organizations, and can provide high-speed data transmission and wide coverage. Examples of MANs are cable TV networks, broadband networks, and city-wide Wi-Fi networks.
+- **Wide Area Network (WAN)**: A network that connects devices across a large geographical area, such as a country or a continent. WANs are usually composed of multiple LANs or MANs connected by long-distance links, and can provide access to global resources and services. Examples of WANs are the internet, telephone networks, and satellite networks.
+- **Virtual Private Network (VPN)**: A network that creates a secure and encrypted connection between devices over a public network, such as the internet. VPNs are usually used to protect the privacy and security of data transmission, and to access restricted or blocked content. Examples of VPNs are corporate VPNs, personal VPNs, and VPN services.

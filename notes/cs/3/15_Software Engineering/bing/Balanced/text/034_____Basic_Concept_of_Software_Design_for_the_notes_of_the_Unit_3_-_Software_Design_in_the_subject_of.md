@@ -1,0 +1,22 @@
+### Basic Concept of Software Design
+
+- Software design is the process of envisioning and defining software solutions to one or more sets of problems .
+- Software design is based on the software requirements analysis (SRA), which is a part of the software development process that lists specifications used in software engineering.
+- Software design is the process by which an agent creates a specification of a software artifact intended to accomplish goals, using a set of primitive components and subject to constraints.
+- Software design involves the following activities :
+  - Identifying the software requirements and constraints
+  - Defining the software architecture and components
+  - Choosing the software design methods and tools
+  - Applying the software design principles and patterns
+  - Evaluating and testing the software design
+- Software design aims to achieve the following objectives :
+  - Functionality: the software should meet the user needs and expectations
+  - Reliability: the software should perform consistently and correctly
+  - Usability: the software should be easy to learn and use
+  - Efficiency: the software should use the resources optimally
+  - Maintainability: the software should be easy to modify and update
+  - Portability: the software should be adaptable to different environments and platforms
+- Software design can be classified into three basic types:
+  - Application software design: the design of software that provides specific functions or services to the user
+  - System software design: the design of software that manages the hardware and software resources of a computer system
+  - Embedded software design: the design of software that is embedded in a device or system and controls its operation

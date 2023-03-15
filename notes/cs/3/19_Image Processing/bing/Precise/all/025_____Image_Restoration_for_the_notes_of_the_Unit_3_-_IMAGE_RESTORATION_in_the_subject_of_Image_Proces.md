@@ -1,0 +1,7 @@
+# Image Restoration
+
+Image restoration is the process of taking a corrupt or noisy image and estimating the clean, original image. Corruption may come in many forms such as motion blur, noise, and camera mis-focus. Image restoration is an appreciable service to recover digital photos and digital assets. Numerous and varied functions can redefine experiences and make them free from any sort of deterioration. Many factors such as age, water, and dust can make images dull and drab over the years.
+
+There are many tools and techniques available for image restoration, including the use of filters in programs such as Adobe Photoshop. For example, the Photo Restoration Filter in Photoshop can be used to instantly improve the clarity of a photo. The filter can be fine-tuned using sliders for image enhancement, enhance face, and scratch reduction. There are also AI-powered solutions available, such as VanceAI Photo Restorer, which can automatically remove scratches, spots, dust, and sepia from damaged old photos.
+
+In summary, image restoration is a useful discipline that can help bring back the lost vibe of photos and recover digital assets. There are many tools and techniques available to achieve this, including the use of filters and AI-powered solutions.

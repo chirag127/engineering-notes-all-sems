@@ -1,0 +1,22 @@
+### Software Quality Assurance (SQA) for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Quality Assurance (SQA) is a process that assures that all software engineering processes, methods, activities, and work items are monitored and comply with the defined standards .
+- SQA incorporates all software development phases, from planning to testing, deployment, and maintenance.
+- SQA aims to prevent defects, ensure conformance, and improve customer satisfaction.
+- SQA involves the following components:
+  - SQA Plan: A document that describes the scope, approach, resources, and schedule of the SQA activities. It also defines the SQA tasks, responsibilities, roles, and tools.
+  - SQA Audit: A systematic and independent examination of the software products and processes to assess their compliance with the standards, guidelines, and procedures.
+  - SQA Review: A formal or informal evaluation of the software products and processes by a group of experts to identify strengths, weaknesses, and improvement opportunities.
+  - SQA Testing: A process of verifying and validating the software products and processes to ensure that they meet the specified requirements and expectations.
+  - SQA Metrics: A set of quantitative and qualitative measures that are used to monitor and evaluate the software quality and performance.
+  - SQA Tools: A collection of software applications, methods, and techniques that support the SQA activities and tasks.
+- Software Requirement Specifications (SRS) is a document that describes the functional and non-functional requirements of a software system.
+- SRS is a key input for the SQA process, as it defines the quality attributes and criteria that the software system should satisfy.
+- SRS should be clear, complete, consistent, verifiable, traceable, and modifiable.
+- SRS should also include the following elements:
+  - Introduction: A brief overview of the software system, its purpose, scope, objectives, and assumptions.
+  - User Requirements: A description of the needs and expectations of the end-users and stakeholders of the software system.
+  - System Requirements: A specification of the functional and non-functional requirements of the software system, such as features, performance, reliability, security, usability, etc.
+  - System Models: A graphical representation of the software system, such as use cases, data flow diagrams, entity-relationship diagrams, etc.
+  - System Constraints: A list of the limitations and restrictions that affect the software system, such as technical, legal, regulatory, ethical, etc.
+  - System Validation: A plan for verifying and validating the software system, such as test cases, test procedures, test criteria, etc.

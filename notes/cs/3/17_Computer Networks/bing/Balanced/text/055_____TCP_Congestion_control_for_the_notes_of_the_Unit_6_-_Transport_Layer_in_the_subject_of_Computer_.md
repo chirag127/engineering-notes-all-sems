@@ -1,0 +1,9 @@
+### TCP Congestion Control
+
+- TCP congestion control is a mechanism that regulates the amount of data that a sender can transmit on a network without causing congestion or overwhelming the network resources.
+- TCP congestion control consists of three main phases: slow start, congestion avoidance, and congestion detection .
+- Slow start phase: The sender starts with a small congestion window (cwnd) and increases it exponentially for every acknowledgment (ACK) received from the receiver, until it reaches a threshold value (ssthresh) or a packet loss occurs .
+- Congestion avoidance phase: After reaching the threshold, the sender increases the cwnd linearly for every ACK received, until a packet loss occurs .
+- Congestion detection phase: The sender detects a packet loss by either a timeout or a duplicate ACK. Depending on the algorithm used, the sender may reduce the cwnd by half (multiplicative decrease) or set it to one (slow start restart) and update the ssthresh accordingly .
+- TCP congestion control algorithms: There are different algorithms that implement TCP congestion control, such as Reno, NewReno, Tahoe, Vegas, Cubic, BBR, etc. They differ in how they react to packet losses, how they estimate the available bandwidth, and how they adjust the cwnd and ssthresh .
+- TCP congestion control extensions: Some extensions to TCP congestion control require additional fields or headers in the TCP packet structure, such as Explicit Control Protocol (XCP), MaxNet, Quick-Start, etc. They aim to improve the efficiency, fairness, and scalability of TCP congestion control by using explicit feedback from the network or the receiver.

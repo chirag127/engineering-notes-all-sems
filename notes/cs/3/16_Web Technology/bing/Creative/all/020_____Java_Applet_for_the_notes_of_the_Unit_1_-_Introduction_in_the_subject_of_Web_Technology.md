@@ -1,0 +1,10 @@
+# Java Applet
+
+- A Java applet is a small application written in the Java programming language, or another programming language that compiles to Java bytecode, and delivered to users in the form of Java bytecode .
+- A Java applet can be transferred via the Internet and run by a Java-compatible web browser. The main difference between Java-based applications and applets is that applets are typically executed in an AppletViewer or Java-compatible web browser, while applications are executed by the Java Virtual Machine (JVM) directly.
+- A Java applet can provide web applications with interactive and dynamic features that HTML cannot offer, such as graphics, animations, games, calculators, etc.
+- A Java applet is launched from a web page using the `<applet>` tag, which specifies the name, size, and parameters of the applet. The web browser then downloads the applet class file and executes it within a JVM in a separate process from the web browser.
+- A Java applet has limited access to the resources of the user's computer, such as the file system, the clipboard, and the network, for security reasons. A Java applet can only communicate with the web server that hosted it, unless it is digitally signed by a trusted authority.
+- A Java applet can interact with the web page that contains it, using the Java API for the Document Object Model (DOM). A Java applet can also communicate with other applets running on the same web page, using the AppletContext class.
+- A Java applet can be extended by using the JavaBeans component model, which allows applets to be composed of reusable components that can be customized by the user.
+- A Java applet can be converted into a Java Web Start application, which can be launched from a web browser without requiring the `<applet>` tag, and can have more privileges and features than a regular applet.

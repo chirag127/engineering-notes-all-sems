@@ -1,0 +1,25 @@
+# Unit 2 - Creating Entity-Relationship Diagram using case tools
+
+- An entity-relationship diagram (ERD) is a graphical representation of the entities and relationships in a database system.
+- An ERD shows the structure and constraints of the data, as well as the operations that can be performed on the data.
+- An ERD consists of the following components:
+  - Entities: The objects or concepts that are stored in the database, such as customers, products, orders, etc.
+  - Attributes: The properties or characteristics of the entities, such as name, price, quantity, etc.
+  - Relationships: The associations or connections between the entities, such as one-to-many, many-to-many, etc.
+  - Cardinalities: The number of occurrences of one entity that can be related to another entity, such as one, zero or more, one or more, etc.
+  - Keys: The attributes or combinations of attributes that uniquely identify an entity or a relationship, such as primary key, foreign key, etc.
+- A case tool is a software application that helps in the design, development, and maintenance of a database system.
+- A case tool can provide various features, such as:
+  - Graphical user interface (GUI) for creating and editing ERDs
+  - Validation and verification of the ERD for consistency and correctness
+  - Generation of SQL code or other scripts for implementing the database schema
+  - Reverse engineering of an existing database into an ERD
+  - Documentation and reporting of the database design
+- Some examples of case tools for creating ERDs are:
+  - Lucidchart: A web-based diagramming tool that supports various types of diagrams, including ERDs
+  - Miro: A collaborative online whiteboard that allows users to create and share ERDs and other diagrams
+  - Dataedo: A database documentation tool that automatically generates ERDs from the current state of a database schema
+  - DataGrip: An integrated development environment (IDE) that includes database management services and an instant ERD generator
+  - Draw.io: A free online diagramming tool that supports ERDs and other diagrams
+  - SqlDBM: A web-based tool for designing and managing SQL databases, with support for ERDs
+  - DBDiagram.io: A simple and intuitive tool for creating and sharing ERDs online

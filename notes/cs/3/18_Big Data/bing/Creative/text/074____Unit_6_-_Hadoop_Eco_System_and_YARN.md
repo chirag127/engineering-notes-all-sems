@@ -1,0 +1,25 @@
+## Unit 6 - Hadoop Eco System and YARN
+
+- Hadoop Eco System is a collection of open source projects and tools that work together to provide a scalable and reliable platform for big data processing and analysis.
+- Some of the most well-known components of the Hadoop Eco System are:
+  - HDFS: A distributed file system that stores large volumes of data across multiple nodes in a cluster.
+  - MapReduce: A programming model and framework for parallel processing of data using key-value pairs.
+  - YARN: A resource management and scheduling system that enables multiple applications to run on the same cluster.
+  - Hive: A data warehouse system that provides SQL-like query language and schema-on-read for structured and semi-structured data.
+  - Pig: A scripting language and framework for data transformation and analysis.
+  - Spark: A fast and general engine for large-scale data processing, supporting batch, streaming, SQL, machine learning and graph analytics.
+  - HBase: A distributed and scalable NoSQL database that supports random read/write access to large tables of data.
+  - Oozie: A workflow scheduler and coordinator that manages and executes Hadoop jobs.
+  - Sqoop: A tool for transferring data between Hadoop and relational databases.
+  - Zookeeper: A service for maintaining configuration information, naming, synchronization and group services for distributed systems.
+- YARN stands for Yet Another Resource Negotiator. It is an advancement to Hadoop 1.0 that provides performance enhancements and enables the Hadoop Eco System to support a variety of applications and frameworks.
+- The main idea of YARN is to separate the functions of resource management and job scheduling/monitoring into different daemons. The main components of YARN are:
+  - ResourceManager: A global daemon that manages the allocation and utilization of resources (such as CPU, memory, disk, network) across the cluster.
+  - ApplicationMaster: A per-application daemon that negotiates resources with the ResourceManager and coordinates the execution of tasks on the cluster.
+  - NodeManager: A per-node daemon that monitors the health and status of the node and reports to the ResourceManager. It also launches and manages containers that run the tasks assigned by the ApplicationMaster.
+  - Container: A logical unit of resources (such as CPU, memory, disk, network) that is allocated by the ResourceManager and used by the ApplicationMaster to run a task.
+- YARN provides the following benefits over Hadoop 1.0:
+  - Scalability: YARN can support larger clusters (up to tens of thousands of nodes) and more concurrent applications and tasks.
+  - Flexibility: YARN can run various types of applications and frameworks (such as MapReduce, Spark, Hive, Pig, etc.) on the same cluster, without requiring any changes to the core platform.
+  - Efficiency: YARN can improve the resource utilization and throughput of the cluster by dynamically allocating and releasing resources based on the demand and availability.
+  - Compatibility: YARN can support the existing MapReduce applications and frameworks without requiring any modifications. It also provides a backward compatibility layer for the MapReduce APIs.

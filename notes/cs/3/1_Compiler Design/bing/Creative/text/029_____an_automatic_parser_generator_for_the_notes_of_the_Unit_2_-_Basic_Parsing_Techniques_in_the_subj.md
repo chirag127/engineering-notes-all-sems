@@ -1,0 +1,10 @@
+### An automatic parser generator for the notes of the Unit 2 - Basic Parsing Techniques in the subject of Compiler Design
+
+- An automatic parser generator is a tool that takes a grammar as input and generates source code that can parse streams of characters using the grammar.
+- The generated code is a parser, which takes a sequence of characters and tries to match the sequence against the grammar. If the sequence conforms to the grammar, the parser produces a parse tree, which represents the syntactic structure of the input. If the sequence does not conform to the grammar, the parser reports an error.
+- An automatic parser generator can simplify the task of writing a parser, especially for complex grammars, by avoiding manual coding and debugging. It can also ensure that the parser is consistent with the grammar and can handle all possible inputs.
+- Some examples of automatic parser generators are YACC, Bison, ANTLR, JavaCC, and Exabeam's Auto Parser Generator  .
+- Automatic parser generators can use different parsing techniques, such as top-down parsing, bottom-up parsing, or hybrid parsing, depending on the type of grammar and the desired efficiency and error handling.
+- Top-down parsing is a technique that starts from the start symbol of the grammar and tries to derive the input sequence by applying the production rules in a leftmost manner. It can use either recursive descent or table-driven methods. Top-down parsing can handle left-recursive grammars, but not right-recursive grammars.
+- Bottom-up parsing is a technique that starts from the input sequence and tries to reduce it to the start symbol of the grammar by applying the production rules in a reverse manner. It can use either shift-reduce or table-driven methods. Bottom-up parsing can handle right-recursive grammars, but not left-recursive grammars.
+- Hybrid parsing is a technique that combines the advantages of both top-down and bottom-up parsing, such as LL(k) and LR(k) parsing. It can use either predictive or table-driven methods. Hybrid parsing can handle both left-recursive and right-recursive grammars, but requires more lookahead symbols.

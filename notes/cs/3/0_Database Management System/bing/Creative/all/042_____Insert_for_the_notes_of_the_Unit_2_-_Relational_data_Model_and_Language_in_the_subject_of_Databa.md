@@ -1,0 +1,24 @@
+# Relational Data Model and Language
+
+- Relational Data Model and Language is a way of organizing data in a database into tables, where each table consists of rows (tuples) and columns (attributes).
+- A database that uses the relational model is called a relational database. Relational databases may use SQL as their language, but relational databases are not the same thing as an SQL database.
+- The relational model is based on the concept of mathematical relations, where each tuple represents a fact that involves a set of values (domains).
+- The relational model has some advantages over other data models, such as:
+  - It is simple and intuitive, as it represents data in a tabular format that is easy to understand and manipulate.
+  - It is flexible and expressive, as it allows complex queries and operations to be performed on the data using a declarative language (SQL).
+  - It is consistent and logical, as it follows the rules of first-order predicate logic and ensures data integrity and consistency.
+  - It is efficient and scalable, as it allows data to be stored and accessed in an optimized way using indexes, views, and other techniques.
+- The relational model has some components and concepts, such as:
+  - Relation: A relation is a set of tuples that have the same attributes. A relation is also called a table or a file.
+  - Attribute: An attribute is a named column of a relation. An attribute is also called a field or a column.
+  - Tuple: A tuple is a row of a relation. A tuple is also called a record or a row.
+  - Domain: A domain is a set of allowable values for an attribute. A domain is also called a data type or a format.
+  - Degree: The degree of a relation is the number of attributes it has.
+  - Cardinality: The cardinality of a relation is the number of tuples it has.
+  - Key: A key is a set of one or more attributes that uniquely identifies a tuple in a relation. A key is also called an identifier or a primary key.
+  - Foreign Key: A foreign key is a set of one or more attributes in a relation that refers to the key of another relation. A foreign key is also called a reference or a secondary key.
+  - Schema: A schema is a description of the structure and constraints of a database. A schema is also called a definition or a specification.
+  - Instance: An instance is a snapshot of the data in a database at a given point in time. An instance is also called a state or a content.
+  - Constraint: A constraint is a rule that restricts the data that can be stored in a database. A constraint is also called a condition or a restriction.
+  - Relational Algebra: Relational algebra is a set of operations that can be applied to relations to manipulate and query data. Relational algebra is also called a query language or a data manipulation language.
+  - Relational Calculus: Relational calculus is a set of expressions that can be used to specify queries on relations. Relational calculus is also called a query language or a data definition language.

@@ -1,0 +1,10 @@
+### Generating a binary code for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Data compression is the process of reducing the size of data by encoding it more efficiently, without losing any information.
+- Binary code is a way of representing data using only two symbols, usually 0 and 1.
+- Coding a sequence is the task of assigning a unique binary code to each symbol in a given sequence of data, such as text, image, audio, or video.
+- There are different types of codes that can be used for coding a sequence, such as fixed-length codes, variable-length codes, prefix codes, and universal codes.
+- Fixed-length codes assign the same number of bits to each symbol, regardless of their frequency or importance. For example, a fixed-length code of three bits can encode up to eight symbols, such as 000, 001, 010, 011, 100, 101, 110, and 111.
+- Variable-length codes assign different numbers of bits to different symbols, depending on their frequency or importance. For example, a variable-length code can assign one bit to the most frequent symbol, two bits to the second most frequent symbol, and so on. This can reduce the average length of the code and the size of the data.
+- Prefix codes are a special type of variable-length codes that have the property that no code is a prefix of any other code. This means that the code can be decoded unambiguously from left to right, without any separators or markers. For example, the code 0, 10, 110, and 111 is a prefix code, but the code 0, 01, 10, and 11 is not, because 0 is a prefix of 01 and 10, and 01 is a prefix of 011.
+- Universal codes are a special type of prefix codes that can encode any sequence of positive integers, regardless of their distribution, with a constant factor of optimality. This means that the expected length of the code is close to the expected length of the optimal code for that distribution. For example, the Elias gamma code, the Elias delta code, and the Fibonacci code are universal codes.

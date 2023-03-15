@@ -1,0 +1,26 @@
+### Big Data Architecture and Characteristics
+
+- Big data architecture is a comprehensive solution to deal with an enormous amount of data that is too large or complex for traditional database systems  .
+- Big data architecture details the blueprint for providing solutions and infrastructure for dealing with big data based on a company's demands. It clearly defines the components, layers, and methods of communication.
+- Big data architecture typically involves one or more of the following types of workload:
+  - Batch processing of big data sources at rest, such as historical data, logs, or archives.
+  - Real-time processing of big data in motion, such as streaming data, sensors, or transactions.
+  - Interactive analysis of big data on demand, such as queries, reports, or dashboards.
+- Big data architecture usually consists of the following components  :
+  - Data sources, such as databases, files, web services, or APIs, that generate or store data.
+  - Data ingestion, such as message queues, event hubs, or data pipelines, that collect, transport, and buffer data from sources to storage or processing systems.
+  - Data storage, such as data lakes, data warehouses, or databases, that store data in various formats, structures, and schemas for different purposes and access patterns.
+  - Data processing, such as batch processing, stream processing, or interactive analysis, that transform, enrich, aggregate, or query data using various frameworks, tools, or languages.
+  - Data analysis, such as machine learning, data mining, or business intelligence, that extract insights, patterns, or predictions from data using various algorithms, models, or techniques.
+  - Data consumption, such as dashboards, reports, applications, or alerts, that present, visualize, or act on the data analysis results for various users, stakeholders, or systems.
+- Big data architecture can be designed using various patterns, such as lambda architecture, kappa architecture, or microservices architecture, depending on the requirements, trade-offs, and best practices  .
+- Big data architecture can be implemented using various technologies, such as Hadoop, Spark, Kafka, or Azure Synapse Analytics, depending on the availability, scalability, performance, and cost  .
+- Characteristics of big data include high volume, high velocity, and high variety. 
+  - Volume refers to the amount of data that is generated or stored, which can range from terabytes to petabytes or more.
+  - Velocity refers to the speed at which data is generated, collected, or processed, which can range from milliseconds to hours or days.
+  - Variety refers to the diversity of data types, formats, or sources, which can include structured, semi-structured, or unstructured data, such as text, images, audio, video, or sensor data.
+- Sources of big data are becoming more complex than those for traditional data because they are being driven by artificial intelligence (AI), mobile devices, social media, and the Internet of Things (IoT). 
+  - AI generates or consumes big data for various tasks, such as natural language processing, computer vision, or machine learning.
+  - Mobile devices generate or consume big data for various applications, such as location-based services, social networking, or gaming.
+  - Social media generates or consumes big data for various purposes, such as user-generated content, online communities, or viral marketing.
+  - IoT generates or consumes big data for various domains, such as smart homes, smart cities, or smart industries.

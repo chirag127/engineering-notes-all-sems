@@ -1,0 +1,22 @@
+### Recovery from Transaction Failures
+
+- A transaction is a logical unit of work that consists of a sequence of operations on a database.
+- A transaction failure is an event that causes the termination of a transaction before it can commit its changes to the database.
+- A transaction failure can be caused by various reasons, such as system crash, power outage, user abort, deadlock, or data inconsistency.
+- To recover from transaction failure, the atomicity and durability of transactions as a whole must be maintained. That is, either all the operations are executed or none, and the committed changes are not lost due to any failure.
+- There are three states of database recovery in DBMS:
+  - Consistent state: The database is in a valid and consistent state before and after the transaction execution.
+  - Failed state: The database is in an invalid and inconsistent state due to a transaction failure.
+  - Recovered state: The database is restored to a consistent state after applying the recovery techniques.
+- There are two types of database recovery techniques in DBMS:
+  - Deferred update: The changes made by a transaction are not written to the database until the transaction commits. This ensures that no undo operation is required in case of a failure, but a redo operation may be needed to reapply the changes.
+  - Immediate update: The changes made by a transaction are written to the database as soon as they are made, even before the transaction commits. This requires both undo and redo operations in case of a failure, to rollback the uncommitted changes and reapply the committed changes.
+- To implement the recovery techniques, the DBMS uses the following components:
+  - Log: A sequential file that records all the changes made by the transactions to the database, along with the transaction id, operation type, and old and new values of the data items.
+  - Checkpoint: A point in time when the DBMS writes all the modified pages from the buffer to the disk, and records a checkpoint entry in the log. This reduces the amount of work needed for recovery.
+  - Buffer: A memory area that stores the pages of the database that are currently being accessed or modified by the transactions.
+- The recovery process involves the following steps:
+  - Analysis: The DBMS scans the log backwards from the end to the most recent checkpoint, and identifies the transactions that were active, committed, or aborted at the time of the failure.
+  - Undo: The DBMS scans the log backwards from the end to the beginning, and undoes the changes made by the transactions that were active or aborted at the time of the failure, by restoring the old values of the data items from the log.
+  - Redo: The DBMS scans the log forward from the most recent checkpoint to the end, and redoes the changes made by the transactions that were committed at the time of the failure, by applying the new values of the data items from the log.
+- The recovery techniques in DBMS maintain the properties of atomicity and durability of the database, and prevent data loss and inconsistency.

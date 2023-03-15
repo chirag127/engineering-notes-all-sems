@@ -1,0 +1,13 @@
+# Lossless Join Decomposition
+
+- Lossless join decomposition is a process of splitting a relation R into two or more relations R1, R2, ... such that the natural join of the smaller relations gives back the original relation R.
+- Lossless join decomposition is important for removing redundancy and anomalies from databases while preserving the original data .
+- Lossless join decomposition is based on the concept of functional dependencies, which are constraints that specify how one set of attributes determines another set of attributes in a relation.
+- A decomposition of R into R1 and R2 is lossless if and only if one of the following functional dependencies holds in the closure of the set of functional dependencies F for R :
+
+  - R1 ∩ R2 → R1
+  - R1 ∩ R2 → R2
+
+- The above condition means that the common attributes of R1 and R2 form a candidate key for either R1 or R2 .
+- There are algorithms to check whether a given decomposition is lossless or not, such as the chase algorithm.
+- There are also algorithms to decompose a relation into a lossless join decomposition that satisfies a certain normal form, such as the Boyce-Codd normal form (BCNF) algorithm and the third normal form (3NF) algorithm.

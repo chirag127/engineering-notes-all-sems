@@ -1,0 +1,23 @@
+### Edge detection
+
+- Edge detection is a fundamental tool in image processing, machine vision and computer vision, particularly in the areas of feature detection and feature extraction.
+- Edge detection is a method of segmenting an image into regions of discontinuity, where there is a significant change in the gray level or color of the pixels.
+- Edge detection allows users to observe the features of an image, such as boundaries, contours, corners, lines, and curves.
+- Edge detection is also used in various downstream tasks in computer vision, such as line detection, feature detection, object detection, segmentation, and recognition.
+- Edge detection is based on computing an image gradient, which quantifies the magnitude and direction of edges in an image.
+- Edge detection can be classified into two types: first-order and second-order.
+  - First-order edge detection uses operators that are based on the first derivative of the image, such as Sobel, Prewitt, Roberts, and Canny.
+  - Second-order edge detection uses operators that are based on the second derivative of the image, such as Laplacian, Laplacian of Gaussian, and zero-crossing.
+- Edge detection can also be classified into two categories: global and local.
+  - Global edge detection uses operators that are applied to the whole image, such as Fourier transform, wavelet transform, and Hough transform.
+  - Local edge detection uses operators that are applied to a small neighborhood of pixels, such as convolution, correlation, and morphological operations.
+- Edge detection can be affected by various factors, such as noise, illumination, contrast, and resolution.
+  - Noise can introduce false edges or blur true edges in an image.
+  - Illumination can affect the intensity and color of the pixels, which can change the edge strength and direction.
+  - Contrast can determine the visibility and sharpness of the edges in an image.
+  - Resolution can affect the level of detail and smoothness of the edges in an image.
+- Edge detection can be improved by using various techniques, such as smoothing, thresholding, non-maximum suppression, and hysteresis.
+  - Smoothing is a preprocessing step that reduces the noise and enhances the edges in an image.
+  - Thresholding is a postprocessing step that selects the edges that have a gradient magnitude above a certain value.
+  - Non-maximum suppression is a postprocessing step that thins the edges by removing the pixels that are not local maxima along the gradient direction.
+  - Hysteresis is a postprocessing step that connects the edges that are weak but consistent with the strong edges.

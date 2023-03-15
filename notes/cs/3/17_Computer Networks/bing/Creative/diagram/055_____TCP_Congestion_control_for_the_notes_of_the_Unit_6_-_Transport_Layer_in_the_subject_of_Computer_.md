@@ -1,0 +1,18 @@
+### TCP Congestion Control
+
+- TCP congestion control is a mechanism that aims to regulate the amount of data that a sender can inject into the network, based on the network capacity and the level of congestion.
+- TCP congestion control consists of three main phases: slow start, congestion avoidance, and congestion detection.
+- Slow start phase: The sender starts with a small congestion window (cwnd) and increases it exponentially for every acknowledgment (ACK) received, until it reaches a threshold value (ssthresh) or a packet loss occurs .
+- Congestion avoidance phase: The sender increases the cwnd linearly for every ACK received, until a packet loss occurs .
+- Congestion detection phase: The sender detects a packet loss by either a timeout or a duplicate ACK. Depending on the algorithm used, the sender may reduce the cwnd by half (multiplicative decrease) or set it to one (slow start restart) and update the ssthresh accordingly .
+- TCP congestion control algorithms: There are different variants of TCP congestion control algorithms that differ in how they adjust the cwnd and ssthresh values, and how they react to packet losses. Some of the common algorithms are:
+  - TCP Tahoe: The original TCP congestion control algorithm that uses slow start, congestion avoidance, and fast retransmit. It sets the cwnd to one and the ssthresh to half of the previous cwnd when a packet loss occurs.
+  - TCP Reno: An improvement over TCP Tahoe that uses fast recovery in addition to fast retransmit. It reduces the cwnd by half and the ssthresh to the new cwnd when a packet loss occurs, and then increases the cwnd linearly until the next loss.
+  - TCP New Reno: A modification of TCP Reno that handles multiple packet losses within a single window better. It maintains a partial ACK counter and does not reduce the cwnd until all the lost packets are retransmitted.
+  - TCP Vegas: A TCP congestion control algorithm that uses the difference between the expected and actual throughput to adjust the cwnd. It avoids packet losses by maintaining a small queue at the bottleneck link.
+  - TCP BIC: A TCP congestion control algorithm that uses a binary search approach to find the optimal cwnd. It increases the cwnd by a small amount when it is far from the optimal value, and by a large amount when it is close to the optimal value.
+  - TCP CUBIC: A TCP congestion control algorithm that uses a cubic function to adjust the cwnd. It increases the cwnd faster than TCP BIC when it is far from the optimal value, and slower when it is close to the optimal value.
+- TCP congestion control challenges: Some of the challenges that TCP congestion control faces are:
+  - High bandwidth-delay product (BDP) networks: These are networks that have a large product of the bandwidth and the round-trip time (RTT) of the connection. TCP congestion control may not be able to fully utilize the available bandwidth in such networks, as it takes a long time to probe the network capacity and recover from packet losses.
+  - Wireless networks: These are networks that have high bit error rates and variable link capacities due to noise, interference, and mobility. TCP congestion control may misinterpret packet losses due to these factors as a sign of congestion and reduce the cwnd unnecessarily, leading to poor performance.
+  - Fairness and friendliness: These are the properties that TCP congestion control should have to ensure that different TCP connections share the network resources equitably and do not starve other connections or protocols. TCP congestion control may not achieve these properties in some scenarios, such as when there are multiple bottleneck links, heterogeneous RTTs, or non-TCP traffic.

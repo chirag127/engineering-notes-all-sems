@@ -1,0 +1,40 @@
+### List for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- Introduction to web page designing
+  - Definition and purpose of web pages
+  - Types of web pages: static, dynamic, responsive
+  - Basic components of web pages: text, images, links, multimedia, forms, etc.
+  - Web standards and accessibility guidelines
+- HTML and CSS
+  - HTML: HyperText Markup Language
+    - Syntax and structure of HTML documents
+    - HTML elements, attributes, and values
+    - Common HTML tags and their usage
+    - HTML forms and input elements
+  - CSS: Cascading Style Sheets
+    - Syntax and structure of CSS rules
+    - CSS selectors, properties, and values
+    - CSS box model and layout
+    - CSS units and colors
+    - CSS media queries and responsive design
+- JavaScript and jQuery
+  - JavaScript: a scripting language for web pages
+    - Syntax and structure of JavaScript code
+    - JavaScript data types, variables, and operators
+    - JavaScript control structures and functions
+    - JavaScript objects, arrays, and methods
+    - JavaScript events and event handlers
+  - jQuery: a JavaScript library for web pages
+    - jQuery syntax and selectors
+    - jQuery methods and effects
+    - jQuery AJAX and JSON
+- Bootstrap and WordPress
+  - Bootstrap: a CSS framework for web pages
+    - Bootstrap grid system and responsive design
+    - Bootstrap components and utilities
+    - Bootstrap themes and customization
+  - WordPress: a content management system for web pages
+    - WordPress installation and configuration
+    - WordPress dashboard and settings
+    - WordPress posts, pages, and categories
+    - WordPress themes, plugins, and widgets

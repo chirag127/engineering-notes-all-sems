@@ -1,0 +1,23 @@
+### Data Flow Diagrams
+
+- A data flow diagram (DFD) is a graphical representation of the flow of data and information in a system or process.
+- A DFD shows the sources and destinations of data, the processes that transform data, the data stores that hold data, and the data flows that connect them.
+- A DFD can be used to model the logical or physical aspects of a system, or both.
+- A DFD can help software engineers to understand the requirements, design, and implementation of a system, as well as to identify potential problems and improvements.
+- A DFD consists of four basic symbols: 
+  - External entities: represent the sources or destinations of data outside the system boundary. They are drawn as rectangles with a name inside.
+  - Processes: represent the activities or functions that transform data within the system. They are drawn as circles or rounded rectangles with a name or number inside.
+  - Data stores: represent the places where data is stored or accessed within the system. They are drawn as open-ended rectangles with a name inside.
+  - Data flows: represent the movement of data between external entities, processes, and data stores. They are drawn as arrows with a name or label above or below.
+- A DFD can be organized into different levels of detail, from a context diagram that shows the entire system as a single process, to lower-level diagrams that show the sub-processes and data flows within each process.
+- A DFD follows some basic rules or conventions, such as:
+  - Every data flow must have a source and a destination, and must not cross the system boundary.
+  - Every process must have at least one input data flow and one output data flow, and must not have data flows to itself.
+  - Every data store must be connected to at least one process by a data flow, and must not have data flows to external entities.
+  - Every external entity must be connected to at least one process by a data flow, and must not have data flows to data stores.
+  - Data flows should not split or merge, unless they represent the same data at different points in time or different levels of detail.
+  - Data flows should not form loops, unless they represent feedback or control mechanisms.
+  - Data flows should be labeled with meaningful names or descriptions, and should avoid using acronyms or abbreviations.
+  - Data flows should be consistent across different levels of detail, and should not change names or contents unless they are decomposed or aggregated.
+  - Data flows should be aligned horizontally or vertically, and should avoid crossing each other or other symbols.
+- A DFD can be created using various tools or software, such as EdrawMax, Lucidchart, or Microsoft Visio.

@@ -1,0 +1,22 @@
+## Unit 3 - Scripting
+
+- Scripting is the process of writing and executing a series of commands or instructions that can automate a task or perform a specific function.
+- Scripting languages are high-level languages that are interpreted by a program called a script interpreter or a script engine, rather than compiled by a compiler.
+- Scripting languages are often designed for specific domains or purposes, such as web development, data analysis, system administration, or text processing.
+- Scripting languages typically have the following features:
+  - They are easy to learn and use, with simple syntax and semantics.
+  - They are flexible and dynamic, allowing variables, data types, and functions to be created and modified at runtime.
+  - They are portable and platform-independent, meaning they can run on different operating systems and devices without modification.
+  - They are expressive and powerful, supporting multiple programming paradigms and features such as regular expressions, list comprehensions, lambda functions, and generators.
+- Some examples of popular scripting languages are Python, Ruby, Perl, JavaScript, PHP, and Bash.
+- Scripting languages can be used for various applications, such as:
+  - Web development: Scripting languages can be used to create dynamic and interactive web pages, using frameworks such as Django, Rails, Flask, or WordPress.
+  - Data analysis: Scripting languages can be used to manipulate, visualize, and analyze large and complex data sets, using libraries such as NumPy, Pandas, Matplotlib, or Scikit-learn.
+  - System administration: Scripting languages can be used to automate common and repetitive tasks, such as file management, network configuration, backup, or security.
+  - Text processing: Scripting languages can be used to process and manipulate text files, such as extracting information, searching and replacing patterns, or generating reports.
+- To write and run a script, one needs to follow these steps:
+  - Choose a scripting language and a script interpreter or engine that supports it.
+  - Write the script using a text editor or an integrated development environment (IDE).
+  - Save the script with an appropriate file extension, such as .py for Python, .rb for Ruby, or .sh for Bash.
+  - Run the script using the script interpreter or engine, either by typing the command in a terminal or by double-clicking the script file.
+  - Debug and test the script using tools such as print statements, breakpoints, or unit tests.

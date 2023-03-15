@@ -1,0 +1,16 @@
+### Public key cryptography
+
+Public key cryptography is a form of cryptography that uses two different keys for encryption and decryption of data. The keys are mathematically related but not identical. One key is called the public key and the other is called the private key. The public key can be shared with anyone, while the private key must be kept secret by the owner.
+
+Some of the main features and applications of public key cryptography are:
+
+- It allows secure communication between two parties who do not share a secret key beforehand. For example, Alice can encrypt a message with Bob's public key and send it to him. Bob can decrypt the message with his private key and read it. No one else can decrypt the message, even if they have Bob's public key, because they do not have his private key.
+- It enables digital signatures, which are a way of verifying the authenticity and integrity of a message. For example, Alice can sign a message with her private key and send it to Bob along with her public key. Bob can verify the signature with Alice's public key and confirm that the message came from Alice and was not altered in transit. No one else can forge Alice's signature, even if they have her public key, because they do not have her private key.
+- It is based on mathematical problems that are hard to solve in one direction but easy to solve in the other direction. These are called one-way functions or trapdoor functions. For example, multiplying two large prime numbers is easy, but finding the prime factors of a large number is hard. Public key cryptography uses such functions to generate the keys and perform the encryption and decryption operations.
+
+Some of the common algorithms and standards for public key cryptography are:
+
+- RSA, which is based on the difficulty of factoring large numbers. It is widely used for encryption, decryption, and digital signatures.
+- Diffie-Hellman, which is based on the difficulty of computing discrete logarithms. It is used for key exchange, which is a way of establishing a shared secret key between two parties using public key cryptography.
+- Elliptic curve cryptography (ECC), which is based on the difficulty of solving elliptic curve equations. It is used for encryption, decryption, digital signatures, and key exchange. It offers the same level of security as RSA and Diffie-Hellman with smaller key sizes and faster computations.
+- Public Key Infrastructure (PKI), which is a system of policies, procedures, and technologies that manage the creation, distribution, and verification of public keys and digital certificates. A digital certificate is a document that binds a public key to an identity, such as a name, an email address, or a domain name. A certificate authority (CA) is a trusted entity that issues and revokes digital certificates. A certificate revocation list (CRL) is a list of certificates that have been revoked by the CA. A PKI enables users to securely communicate and exchange data over the internet using public key cryptography.

@@ -1,0 +1,22 @@
+## Unit 1 - Introduction of Software Engineering Lab
+
+- Software engineering is the discipline of designing, developing, testing, and maintaining high-quality software systems that meet the needs and expectations of users and stakeholders.
+- Software engineering lab is a practical course that aims to provide students with hands-on experience in applying software engineering principles, methods, and tools to real-world problems.
+- The objectives of software engineering lab are:
+  - To familiarize students with the software development life cycle and its phases, such as planning, analysis, design, implementation, testing, and deployment.
+  - To expose students to various software engineering models, such as waterfall, agile, iterative, and incremental.
+  - To enable students to use software engineering tools, such as UML diagrams, IDEs, version control systems, testing frameworks, and documentation generators.
+  - To enhance students' skills in teamwork, communication, documentation, and presentation of software projects.
+- The expected outcomes of software engineering lab are:
+  - Students will be able to apply software engineering concepts and techniques to analyze, design, implement, test, and document software systems.
+  - Students will be able to select and use appropriate software engineering models and tools for different types of software projects.
+  - Students will be able to work effectively in teams and communicate their software solutions to various audiences.
+  - Students will be able to demonstrate ethical and professional behavior in software engineering practice.
+- The topics covered in software engineering lab are:
+  - Introduction to software engineering and software development life cycle
+  - Software requirements engineering and specification
+  - Software design and modeling using UML diagrams
+  - Software implementation and coding using Java or C++
+  - Software testing and debugging using JUnit or Google Test
+  - Software configuration management and version control using Git or SVN
+  - Software documentation and presentation using Doxygen or LaTeX

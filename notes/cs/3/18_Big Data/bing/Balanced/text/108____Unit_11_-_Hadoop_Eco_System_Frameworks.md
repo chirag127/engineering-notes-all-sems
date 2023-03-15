@@ -1,0 +1,38 @@
+## Unit 11 - Hadoop Eco System Frameworks
+
+- Hadoop is an open-source software framework that allows for the distributed processing of large data sets across clusters of commodity hardware using simple programming models.
+- Hadoop consists of four major elements: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common.
+- HDFS is a distributed file system that provides high-throughput access to application data and can store a large stack of data sets.
+- MapReduce is a programming model and software framework for writing applications that process large amounts of data in parallel on clusters of nodes.
+- YARN is a resource management layer that allocates computing resources to applications and schedules them on the cluster.
+- Hadoop Common is a set of common utilities and libraries that support other Hadoop modules.
+- Hadoop Ecosystem is a platform or a suite that provides various services and tools to solve the big data problems using Hadoop.
+- Some of the popular Hadoop Ecosystem components are:
+  - Apache Pig: A high-level scripting language for data analysis and transformation.
+  - Apache Hive: A data warehouse system for querying and analyzing large data sets using SQL-like language.
+  - Apache HBase: A column-oriented database that provides random access and strong consistency for large amounts of structured and semi-structured data.
+  - Apache Spark: A fast and general engine for large-scale data processing, supporting batch, streaming, SQL, ML, and graph analytics.
+  - Apache Kafka: A distributed messaging system that enables high-throughput, low-latency, and fault-tolerant data pipelines.
+  - Apache Flume: A service for collecting, aggregating, and moving large amounts of log data from various sources to HDFS.
+  - Apache Sqoop: A tool for transferring bulk data between Hadoop and relational databases.
+  - Apache Oozie: A workflow scheduler for managing and coordinating Hadoop jobs.
+  - Apache ZooKeeper: A service for maintaining configuration information, naming, synchronization, and group services for distributed systems.
+  - Apache Mahout: A library of scalable machine learning algorithms for Hadoop.
+  - Apache Cassandra: A distributed database that provides high availability and scalability for large volumes of data across multiple data centers.
+  - Apache Storm: A distributed real-time computation system for processing fast and large streams of data.
+  - Apache Solr: A scalable and fault-tolerant search platform that provides indexing, querying, and analytics capabilities for Hadoop data.
+  - Apache Lucene: A high-performance and full-featured text search engine library that powers Solr and other applications.
+  - Apache Nutch: A web crawler and indexer that integrates with Hadoop and Solr.
+  - Apache Avro: A data serialization system that provides compact and fast binary data exchange.
+  - Apache Thrift: A software framework for developing cross-language services that can communicate with Hadoop and other systems.
+  - Apache Ambari: A web-based tool for provisioning, managing, and monitoring Hadoop clusters.
+  - Apache Tez: A framework for building high-performance batch and interactive data processing applications on top of Hadoop YARN.
+  - Apache Phoenix: A SQL query engine for HBase that supports OLTP and operational analytics.
+  - Apache Flink: A stream and batch processing framework that provides stateful and fault-tolerant data processing.
+  - Apache Beam: A unified model and API for defining and executing data processing pipelines on various execution engines, such as Flink, Spark, and Google Cloud Dataflow.
+  - Apache Samza: A stream processing framework that integrates with Kafka and YARN.
+  - Apache NiFi: A data flow automation system that enables data ingestion, transformation, routing, and delivery across multiple sources and destinations.
+  - Apache Kylin: A distributed analytics engine that provides OLAP and SQL query capabilities on Hadoop data.
+  - Apache Airflow: A platform for programmatically authoring, scheduling, and monitoring workflows of data pipelines.
+  - Apache Parquet: A columnar storage format that supports complex data types and efficient compression and encoding schemes.
+  - Apache ORC: A columnar storage format that

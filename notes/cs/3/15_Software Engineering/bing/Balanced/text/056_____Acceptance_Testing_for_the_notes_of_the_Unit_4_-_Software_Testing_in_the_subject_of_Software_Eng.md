@@ -1,0 +1,30 @@
+### Acceptance Testing
+
+- Acceptance testing is a type of software testing that verifies that a system meets the requirements and specifications that guided its design and development .
+- Acceptance testing is performed after system testing and before making the system available for actual use.
+- Acceptance testing is conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers or other authorized entity to determine whether to accept the system.
+- Acceptance testing can be classified into different types, such as:
+  - User acceptance testing (UAT): User acceptance testing is used to determine whether the product is working for the user correctly. It involves testing the system with real or simulated users in a realistic environment.
+  - Operational acceptance testing (OAT): Operational acceptance testing is used to conduct operational readiness (pre-release) of a product, service or system as part of a quality management system. It assures that the software is ready for production and that workflows exist, including maintenance processes, security checks, user training, and backup plans .
+  - Contract acceptance testing (CAT): Contract acceptance testing is used to verify that the system meets the contractual requirements agreed upon by the customer and the supplier.
+  - Regulation acceptance testing (RAT): Regulation acceptance testing is used to ensure that the system complies with the relevant laws, standards, and regulations.
+- Acceptance testing can be performed in different ways, such as:
+  - Alpha testing: Alpha testing is performed by the developers or testers within the organization that developed the software.
+  - Beta testing: Beta testing is performed by a limited number of potential or actual users outside the organization that developed the software.
+  - Gamma testing: Gamma testing is performed by the end users or customers after the software is released to the market.
+- Acceptance testing can be based on different criteria, such as:
+  - Functional testing: Functional testing is performed to verify that the system performs the functions that it is expected to do.
+  - Non-functional testing: Non-functional testing is performed to verify that the system meets the quality attributes, such as usability, reliability, performance, security, etc.
+  - Business process testing: Business process testing is performed to verify that the system supports the business processes and workflows of the organization or the customer.
+- Acceptance testing can be planned and executed using different techniques, such as:
+  - Test cases: Test cases are a set of inputs, expected outputs, and execution conditions for a specific test scenario.
+  - Test scenarios: Test scenarios are a description of the end-to-end user actions and expected outcomes for a specific test objective.
+  - Test scripts: Test scripts are a sequence of instructions or commands that automate the execution of a test case or scenario.
+  - Test data: Test data are the inputs or outputs that are used or generated during the testing process.
+  - Test plan: Test plan is a document that describes the scope, objectives, strategy, resources, schedule, and deliverables of the testing process.
+  - Test report: Test report is a document that summarizes the results, findings, and recommendations of the testing process.
+- Acceptance testing can be evaluated and measured using different metrics, such as:
+  - Test coverage: Test coverage is the percentage of the system or the requirements that are tested.
+  - Test effectiveness: Test effectiveness is the ratio of the number of defects detected by the testing process to the total number of defects in the system.
+  - Test efficiency: Test efficiency is the ratio of the number of defects detected by the testing process to the effort or cost of the testing process.
+  - Test satisfaction: Test satisfaction is the degree to which the user, customer, or stakeholder is satisfied with the testing process and the system.

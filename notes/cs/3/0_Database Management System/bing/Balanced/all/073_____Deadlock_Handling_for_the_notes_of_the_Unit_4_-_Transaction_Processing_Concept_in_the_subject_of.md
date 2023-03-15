@@ -1,0 +1,11 @@
+# Deadlock Handling
+
+A deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for one another to give up locks or resources that they need to complete their operations. Deadlocks can cause the whole system to halt or slow down significantly. Therefore, deadlock handling is an important aspect of transaction processing in a database management system (DBMS).
+
+There are three main approaches for deadlock handling in a DBMS   :
+
+- **Deadlock prevention**: This approach aims to prevent deadlocks from occurring in the first place by imposing some constraints on how transactions can acquire and release locks or resources. For example, a transaction may be required to request all the locks it needs before starting its execution, or to release all the locks it holds before requesting a new one. These constraints may reduce the concurrency and performance of the system, but they ensure that deadlocks are impossible.
+
+- **Deadlock avoidance**: This approach allows transactions to request locks or resources dynamically, but it uses some information about the current and future requests of the transactions to determine whether granting a request would lead to a deadlock or not. If granting a request would result in a deadlock, the request is denied and the transaction is delayed until it is safe to proceed. For example, a DBMS may use a wait-for graph to track the dependencies among transactions, or a banker's algorithm to allocate resources based on the available and required resources of each transaction. These methods may require additional overhead and complexity, but they can avoid deadlocks without sacrificing too much concurrency.
+
+- **Deadlock detection and recovery**: This approach does not try to prevent or avoid deadlocks, but rather detects them after they occur and recovers from them by aborting or rolling back some of the transactions involved in the deadlock. For example, a DBMS may periodically run a deadlock detection algorithm that scans the wait-for graph or the lock table to identify cycles of waiting transactions, or it may use a timeout mechanism that aborts a transaction if it waits for a lock or a resource for too long. These methods may allow more concurrency and flexibility, but they may also incur more cost and waste in terms of aborted transactions and lost work.

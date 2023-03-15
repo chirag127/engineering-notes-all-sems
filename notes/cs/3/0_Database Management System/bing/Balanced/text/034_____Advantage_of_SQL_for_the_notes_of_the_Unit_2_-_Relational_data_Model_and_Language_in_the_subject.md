@@ -1,0 +1,7 @@
+### Advantage of SQL for the notes of the Unit 2 - Relational data Model and Language in the subject of Database Management System
+
+- SQL is a **standardized** language for manipulating relational data, which means it is widely supported by different database systems and applications.
+- SQL is a **declarative** language, which means it allows the user to specify **what** data they want to retrieve or modify, without having to specify **how** to do it. This makes SQL easier to learn and use than procedural languages.
+- SQL is a **high-level** language, which means it abstracts away the low-level details of data storage and retrieval, and allows the user to focus on the logical structure and meaning of the data.
+- SQL is a **flexible** language, which means it can perform a variety of operations on data, such as selection, projection, join, aggregation, grouping, sorting, filtering, etc. SQL can also combine multiple operations in a single query, using subqueries, views, and functions.
+- SQL is a **powerful** language, which means it can express complex queries and calculations on data, using operators, expressions, and clauses. SQL can also handle large amounts of data efficiently, using indexes, transactions, and concurrency control.

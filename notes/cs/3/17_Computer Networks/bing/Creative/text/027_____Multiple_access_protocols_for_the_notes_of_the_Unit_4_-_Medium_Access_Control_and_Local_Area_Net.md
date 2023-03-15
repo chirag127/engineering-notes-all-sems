@@ -1,0 +1,11 @@
+### Multiple access protocols for the notes of the Unit 4 - Medium Access Control and Local Area Networks in the subject of Computer Networks
+
+- Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model.
+- These protocols allow a number of nodes or users to access a shared network channel, such as a wired or wireless LAN or a satellite network .
+- The main objective of multiple access protocols is to coordinate the access to the channel and avoid collisions or interference among the nodes .
+- Multiple access protocols can be broadly classified into three categories :
+  - Random access protocols: These protocols assign uniform priority to all connected nodes. Any node can send data whenever the channel is idle, without any reservation or coordination. If the channel is busy, the node may wait for a random time or use a backoff algorithm to avoid collisions. Examples of random access protocols are ALOHA, CSMA, CSMA/CD and CSMA/CA  .
+  - Controlled access protocols: These protocols assign different priority levels to the connected nodes based on some criteria, such as time, demand, token, etc. The nodes with higher priority can access the channel before the nodes with lower priority. The nodes have to follow some rules or procedures to access the channel. Examples of controlled access protocols are TDMA, FDMA, CDMA, Reservation, Polling and Token passing  .
+  - Channelization protocols: These protocols divide the channel into smaller sub-channels and assign them to the nodes based on some criteria, such as frequency, code, time slot, etc. The nodes can access the channel without any collision or interference within their assigned sub-channels. Examples of channelization protocols are FDM, TDM, WDM and CDM  .
+- The choice of multiple access protocol depends on the characteristics of the network, such as the number of nodes, the traffic pattern, the bandwidth, the delay, the error rate, the cost, etc .
+- The performance of multiple access protocols can be evaluated by metrics such as throughput, efficiency, fairness, delay, reliability, etc .

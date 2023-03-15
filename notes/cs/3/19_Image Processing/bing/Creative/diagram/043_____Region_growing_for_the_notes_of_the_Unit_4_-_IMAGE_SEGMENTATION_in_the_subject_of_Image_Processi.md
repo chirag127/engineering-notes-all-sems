@@ -1,0 +1,23 @@
+### Region growing
+
+- Region growing is a region-based image segmentation method that groups pixels into larger regions based on some similarity criteria.
+- It is also classified as a pixel-based image segmentation method since it involves the selection of initial seed points.
+- The basic steps of region growing are :
+  - Select one or more seed pixels as the starting points for the regions.
+  - Define a predicate or a criterion that determines whether a pixel belongs to a region or not.
+  - Examine the neighboring pixels of the seed pixels and the current region pixels and add them to the region if they satisfy the predicate.
+  - Repeat the previous step until no more pixels can be added to any region.
+- Region growing can be implemented in different ways, such as :
+  - Using a single seed pixel or multiple seed pixels for each region.
+  - Using a fixed or adaptive predicate for region membership.
+  - Using 4-connected or 8-connected neighborhoods for pixel adjacency.
+  - Using a region-merging algorithm to combine adjacent regions that have weak edges or similar properties.
+- Region growing has some advantages and disadvantages as an image segmentation method :
+  - Advantages:
+    - It is simple and intuitive to implement and understand.
+    - It can handle noisy images and irregular shapes well.
+    - It can produce accurate and smooth boundaries if the predicate is well-defined.
+  - Disadvantages:
+    - It is sensitive to the choice of seed pixels and the predicate.
+    - It can be computationally expensive and slow due to the iterative nature of the algorithm.
+    - It can produce over-segmentation or under-segmentation if the predicate is too strict or too loose.

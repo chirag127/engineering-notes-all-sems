@@ -1,0 +1,24 @@
+# Analysis for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Requirement Specifications (SRS) is a document that describes the requirements, expectations, design, and standards for a software project.
+- SRS lays a foundation for software engineering activities and is constructed when the entire requirements are elicited and analyzed.
+- SRS helps to ensure that the software meets the needs of the stakeholders (business, users) and fulfills the functionality and quality attributes.
+- SRS also helps to avoid ambiguity, inconsistency, incompleteness, and errors in the software development process.
+- SRS has several benefits, such as:
+  - It facilitates communication and collaboration among the project team and the customers.
+  - It provides a basis for estimating the cost, time, and resources needed for the project.
+  - It enables verification and validation of the software at different stages of the development lifecycle.
+  - It serves as a reference for maintenance and enhancement of the software in the future.
+- SRS has several characteristics, such as:
+  - Correct: It should be free of errors and consistent with the actual needs of the customers and users.
+  - Unambiguous: It should be clear and precise, without any room for multiple interpretations or confusion.
+  - Complete: It should cover all the aspects of the software, including the functionality, performance, interface, attributes, and constraints.
+  - Verifiable: It should be testable and measurable, using predefined criteria and methods.
+  - Modifiable: It should be structured and organized in a way that allows easy changes and updates.
+  - Traceable: It should be linked to the source of the requirements and the design and implementation of the software.
+- SRS has several components, such as:
+  - Functionality: It addresses what the software is supposed to do, in terms of the features, services, and behaviors.
+  - Performance: It addresses how well the software should perform, in terms of the speed, response time, availability, recovery time, etc.
+  - External interface: It addresses how the software interacts with people, the system's hardware, other hardware, and other software, in terms of the input, output, data, and communication.
+  - Attributes: It addresses the non-functional aspects of the software, such as the portability, correctness, security, reliability, maintainability, etc.
+  - Constraints: It addresses the limitations and restrictions on the software, such as the legal, regulatory, technical, or operational requirements.

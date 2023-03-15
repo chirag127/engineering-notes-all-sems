@@ -1,0 +1,13 @@
+### Real world protocols for the notes of the Unit 4 - Basic cryptography in the subject of COMPUTER SYSTEM SECURITY
+
+- Cryptography is the science of securing information by transforming it into a form that only the intended recipients can understand and use.
+- Cryptography is used in many real world applications, such as web APIs, user authentication, digital signatures, encryption, hashing, and blockchain.
+- Some of the common cryptographic techniques and protocols are:
+
+  - Symmetric encryption: A method of encryption where the same key is used to encrypt and decrypt the data. Examples of symmetric encryption algorithms are AES, DES, and RC4.
+  - Asymmetric encryption: A method of encryption where different keys are used to encrypt and decrypt the data. One key is public and can be shared with anyone, while the other key is private and must be kept secret. Examples of asymmetric encryption algorithms are RSA, ECC, and ElGamal.
+  - Hashing: A method of transforming any data into a fixed-length string that cannot be reversed. Hashing is used to verify the integrity and authenticity of data, such as passwords, messages, and files. Examples of hashing algorithms are SHA-2, SHA-3, and BLAKE2.
+  - Digital signatures: A method of proving the identity and authenticity of a sender by using asymmetric encryption and hashing. The sender signs a message with their private key, and the receiver verifies the signature with the sender's public key. Examples of digital signature algorithms are DSA, ECDSA, and EdDSA.
+  - Key exchange: A method of securely establishing a shared secret key between two or more parties over an insecure channel. The shared key can then be used for symmetric encryption or other purposes. Examples of key exchange protocols are Diffie-Hellman, ECDH, and RSA-KEM.
+  - Authentication: A method of verifying the identity of a user or a device by using a combination of factors, such as passwords, tokens, biometrics, or certificates. Authentication is used to grant or deny access to resources, such as web APIs, databases, or networks. Examples of authentication protocols are OAuth, OpenID Connect, and Kerberos.
+  - Encryption modes: A method of applying symmetric encryption to different types of data, such as blocks, streams, or messages. Encryption modes affect the security and performance of encryption, and some modes provide additional features, such as authentication or randomization. Examples of encryption modes are CBC, CTR, and GCM.

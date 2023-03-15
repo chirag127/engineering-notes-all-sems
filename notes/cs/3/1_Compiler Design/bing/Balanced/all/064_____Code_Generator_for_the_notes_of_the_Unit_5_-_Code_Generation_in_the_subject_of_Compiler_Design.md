@@ -1,0 +1,22 @@
+# Code Generator for the notes of the Unit 5 - Code Generation in the subject of Compiler Design
+
+- Code generation is the final phase of compilation, where the intermediate representation of the source program is translated into the target program, which is usually machine-dependent executable code .
+- The code generator performs three main tasks:
+  - Instruction selection: choosing the appropriate instructions from the target machine's instruction set to implement the operations in the intermediate code.
+  - Register allocation: assigning the variables and temporary values to the available registers in the target machine, or to memory locations if registers are not enough.
+  - Instruction scheduling: ordering the instructions to improve the performance and efficiency of the target code, taking into account the dependencies and latencies of the instructions.
+- The code generator can also perform some optimizations on the target code, such as peephole optimization, which is a local optimization technique that scans a small window of instructions and replaces them with more efficient ones.
+- The code generator can use different strategies to generate the target code, such as:
+  - Direct code generation: generating the target code directly from the abstract syntax tree, without using an intermediate representation. This is simple and fast, but not very flexible or portable.
+  - One-pass code generation: generating the target code from an intermediate representation in one pass, without storing the intermediate code. This is also simple and fast, but not very efficient or optimal.
+  - Multi-pass code generation: generating the target code from an intermediate representation in multiple passes, each performing a specific task or optimization. This is more complex and slow, but more flexible and optimal.
+- The code generator can also use different tools and techniques to facilitate the code generation process, such as:
+  - XLS Transformation templates: using Excel spreadsheets to define the rules and patterns for code generation, and applying them to the intermediate representation.
+  - UML-based tools: using Unified Modeling Language diagrams to model the structure and behavior of the source program, and generating the target code from them.
+  - Razor Generator: using Razor syntax to write templates for code generation, and compiling them into .NET assemblies.
+  - Metadrone: using a graphical interface to create and manage code generation projects, and using C# or VB.NET to write the templates.
+  - Reegenerator: using regular expressions to match and replace parts of the intermediate representation with target code snippets.
+  - T4 templates: using Text Template Transformation Toolkit to write templates for code generation, and using C# or VB.NET to write the logic and expressions.
+  - Radzen: using a web-based interface to create and manage code generation projects, and using Angular, Blazor, or React to write the templates.
+  - CodeSmith Generator: using a desktop application to create and manage code generation projects, and using C#, VB.NET, or ASP.NET to write the templates.
+  - ASP.Net Zero: using a web-based platform to create and manage code generation projects, and using ASP.NET Core, Angular, or React to write the templates.

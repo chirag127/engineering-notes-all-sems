@@ -1,0 +1,24 @@
+### URL for the notes of the Unit 3 - Scripting in the subject of Web Technology
+
+- Scripting is the process of creating and embedding scripts in a web page to make it dynamic and interactive.
+- Scripts are lists of commands that are interpreted and executed by a certain program or scripting engine.
+- There are two types of scripting: client-side and server-side.
+- Client-side scripting is executed by the web browser on the user's device. It can manipulate the HTML, CSS, and DOM elements of the web page, as well as handle user events and communicate with the server.
+- Server-side scripting is executed by the web server before sending the web page to the browser. It can generate dynamic HTML, access databases, and perform other tasks that require server resources.
+- Some of the common scripting languages used in web development are:
+  - JavaScript: a versatile and widely used language that can run on both the client and the server. It can enhance the functionality, interactivity, and usability of web pages and web applications.
+  - PHP: a popular and powerful language that runs on the server and can embed HTML code. It can create dynamic web pages, access databases, and handle forms and sessions.
+  - XML: a markup language that can store and exchange structured data. It can be used to create web services, RSS feeds, and other applications that require data interchange.
+  - HTML: a markup language that defines the structure and content of a web page. It can use tags, attributes, and elements to create web documents.
+  - Perl: a general-purpose and flexible language that runs on the server and can process text and data. It can create dynamic web pages, manipulate files, and perform regular expressions.
+- Some of the common scripting techniques and technologies used in web development are:
+  - AJAX: a method of using JavaScript and XML to send and receive data from the server without reloading the web page. It can improve the performance, responsiveness, and user experience of web applications.
+  - SVG: a vector graphics format that can create scalable and interactive images. It can use XML syntax, CSS styling, and JavaScript scripting to create graphics that can be zoomed, animated, and transformed.
+  - MathML: a markup language that can display complex mathematical notation on the web. It can use XML syntax, CSS styling, and JavaScript scripting to create equations, symbols, and expressions that can be rendered by the browser.
+- Some of the sources for the notes of the Unit 3 - Scripting in the subject of Web Technology are:
+  - Web Scripting and its Types - GeeksforGeeks
+  - Web Programming Notes PDF Free Download - BTech Geeks
+  - Web Technology - GeeksforGeeks
+  - What is JavaScript? - Learn web development | MDN - Mozilla
+  - Web technology for developers | MDN - Mozilla
+  - Web Development - W3Schools

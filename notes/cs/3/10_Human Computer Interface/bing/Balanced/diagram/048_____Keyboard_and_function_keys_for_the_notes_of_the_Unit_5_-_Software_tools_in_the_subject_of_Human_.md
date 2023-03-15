@@ -1,0 +1,26 @@
+### Keyboard and function keys
+
+- A keyboard is a device that allows you to input text, numbers, symbols, and commands to a computer or other device.
+- A keyboard consists of several groups of keys based on their function:
+  - Typing (alphanumeric) keys: These keys include the letters A to Z, the numbers 0 to 9, and various punctuation marks and symbols. They are used to enter text, numbers, and commands.
+  - Modifier keys: These keys modify the function of other keys when pressed together. They include Shift, Ctrl, Alt, and Windows keys on Windows keyboards, and Shift, Control, Option, Command, and Fn keys on Mac keyboards.
+  - Function keys: These keys are labeled F1 to F12 and are located at the top of the keyboard. They have different functions depending on the operating system or the running program. Some common functions are:
+    - F1: Opens the help menu or the online documentation for the current program or window.
+    - F2: Renames a selected file or folder in Windows Explorer or Finder. Also, edits the active cell in Excel or Google Sheets.
+    - F3: Opens the search box or the find and replace dialog box in most programs. Also, switches between the formula bar and the worksheet in Excel or Google Sheets.
+    - F4: Repeats the last action or command in some programs. Also, closes the active window or tab in most browsers and programs.
+    - F5: Refreshes the current page or window in most browsers and programs. Also, starts or resumes a slideshow in PowerPoint or Google Slides.
+    - F6: Moves the cursor to the address bar or the next pane in most browsers and programs. Also, toggles between the worksheet, the ribbon, the task pane, and the zoom controls in Excel or Google Sheets.
+    - F7: Checks the spelling and grammar of the current document in most word processors and email clients. Also, switches to the caret browsing mode in some browsers.
+    - F8: Displays the boot menu or the advanced startup options in Windows. Also, extends the selection with the arrow keys in Excel or Google Sheets.
+    - F9: Refreshes the calculations or the data in Excel or Google Sheets. Also, sends and receives email in Outlook.
+    - F10: Activates the menu bar or the ribbon in most programs. Also, displays the right-click menu for the selected item in Windows Explorer or Finder.
+    - F11: Toggles the full-screen mode in most browsers and programs. Also, inserts a new chart in Excel or Google Sheets.
+    - F12: Opens the save as dialog box in most programs. Also, opens the developer tools in most browsers.
+  - Navigation keys: These keys include the arrow keys, the Home, End, Page Up, Page Down, and Delete keys. They are used to move the cursor, scroll the screen, or delete text or objects.
+  - Numeric keypad: This is a separate set of keys on the right side of the keyboard that resembles a calculator. It is used to enter numbers and perform arithmetic operations. It can also function as navigation keys when the Num Lock key is turned off.
+  - Special keys: These keys include the Esc, Tab, Caps Lock, Enter, Backspace, Print Screen, Scroll Lock, Pause, Break, Insert, and Num Lock keys. They have various functions depending on the context, such as canceling an operation, switching between windows, locking the capital letters, inserting a new line, deleting the previous character, capturing the screen, pausing the program, or toggling the numeric keypad.
+- The Fn key is a special modifier key that is found on some keyboards, especially laptops. It is used to access the secondary functions of the function keys, such as changing the volume, brightness, or backlight .
+- To use the Fn key, you need to hold it down and press the corresponding function key that has the desired secondary function. For example, to increase the volume, you need to press Fn and F12 together on some keyboards.
+- Some keyboards have a Fn lock key that allows you to toggle the Fn key on or off. When the Fn key is on, the function keys will perform their secondary functions by default, and you need to press Fn and the function key together to perform their primary functions. When the Fn key is off, the function keys will perform their primary functions by default, and you need to press Fn and the function key together to perform their secondary functions.
+- The Fn key and the function keys may

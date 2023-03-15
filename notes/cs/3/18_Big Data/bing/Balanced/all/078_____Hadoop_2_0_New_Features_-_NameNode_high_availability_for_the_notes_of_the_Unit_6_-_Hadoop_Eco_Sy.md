@@ -1,0 +1,13 @@
+# Hadoop 2.0 New Features - NameNode high availability
+
+- NameNode is the master node in HDFS that maintains the filesystem tree and the metadata of all the files and directories.
+- In Hadoop 1.x, NameNode was a single point of failure (SPOF) in an HDFS cluster. If the NameNode failed, the cluster would become unavailable until the NameNode was restored or replaced.
+- Hadoop 2.0 overcomes this SPOF problem by providing support for multiple NameNodes. It introduces Hadoop 2.0 High Availability feature that brings in an extra NameNode (Passive Standby NameNode) to the Hadoop Architecture which is configured for automatic failover .
+- The Active NameNode and the Standby NameNode use a shared storage to store the edit log, which is a persistent record of changes made to the filesystem metadata. The shared storage can be a NFS or a Quorum Journal Manager (QJM), which is a dedicated Hadoop daemon that coordinates updates to the edit log from multiple NameNodes.
+- The Standby NameNode keeps track of the latest state of the edit log by reading from the shared storage. It also applies the changes to its own namespace in memory, so that it is always in sync with the Active NameNode.
+- The DataNodes send block reports and heartbeats to both the Active and the Standby NameNodes, so that they are aware of the location and health of the blocks.
+- The clients communicate with the Active NameNode for any filesystem operations. The Standby NameNode does not serve any client requests.
+- In case of a failure or a planned maintenance of the Active NameNode, the Standby NameNode takes over as the new Active NameNode. This process is called failover and can be triggered manually or automatically by a Failover Controller, which is a process that monitors the health of the NameNodes and initiates failover when necessary.
+- The Failover Controller can be either a separate daemon (ZooKeeper Failover Controller) that uses ZooKeeper for coordination, or a part of the NameNode process itself (Health Monitor Failover Controller) that uses a simple health check script.
+- The failover process involves fencing, which is the act of preventing the previous Active NameNode from performing any destructive actions, such as deleting blocks or corrupting the edit log, after a failover. Fencing can be done by using SSH, TCP, or custom methods.
+- The Hadoop 2.0 High Availability feature enables the HDFS cluster to run with redundant NameNodes in an Active/Passive configuration with a hot standby. This eliminates the NameNode as a potential single point of failure and improves the availability and reliability of the HDFS cluster.

@@ -1,0 +1,11 @@
+# Rootkits
+
+- A rootkit is a **collection of software tools** that enable an **unauthorized user** to gain **control** of a computer system without being **detected**  .
+- The term rootkit comes from the Unix and Linux operating systems, where the word **root** refers to the **administrative account** on the system, and the word **kit** describes the **software** that implements the tool.
+- A rootkit can **open a door** for other malware, such as viruses and keyloggers, to infect the system. Unlike many other types of malware, rootkits **conceal their presence** even while active, making them **difficult to detect**.
+- Rootkits can be classified into two main types: **user-mode rootkits** and **kernel-mode rootkits**.
+  - User-mode rootkits operate in the **user space** of the system, where applications and processes run. They can **modify** or **replace** system files, libraries, drivers, or registry entries to hide their activities or grant access to the attacker.
+  - Kernel-mode rootkits operate in the **kernel space** of the system, where the core functions of the operating system are executed. They can **hook** or **patch** the system calls, interrupts, or drivers to intercept or manipulate the communication between the hardware and the software.
+- Rootkits can be **installed** on a system through various methods, such as **exploiting** a vulnerability, **tricking** the user into running a malicious file, **infecting** a removable device, or **bundling** with other software.
+- Rootkits can be **detected** by using various techniques, such as **scanning** the system for known signatures, **monitoring** the system for anomalous behavior, **comparing** the system state with a trusted baseline, or **analyzing** the system memory or disk.
+- Rootkits can be **removed** by using specialized tools, such as **anti-rootkit software**, **anti-virus software**, or **system recovery software**. However, some rootkits may be **persistent** or **resistant** to removal, and may require a **complete reinstallation** of the operating system.

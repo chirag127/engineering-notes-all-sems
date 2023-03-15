@@ -1,0 +1,26 @@
+# Web Based User Identification System
+
+- A web based user identification system is a system that allows a web application to recognize and authenticate users who access it from different devices and browsers.
+- A web based user identification system is important for providing personalized and secure services to users, such as content delivery, advertising, analytics, and access control.
+- A web based user identification system typically consists of the following components:
+  - A user account, which is a record of the user's identity, preferences, and permissions in the web application's database.
+  - A user credential, which is a piece of information that the user provides to prove their identity, such as a username and password, a token, or a biometric feature.
+  - A user identifier, which is a unique value that is assigned to the user by the web application or a third-party identity provider, such as a cookie, a device fingerprint, or a local storage key.
+  - A user session, which is a temporary state that is established between the user and the web application after a successful authentication, and that is maintained by exchanging session tokens or cookies.
+- A web based user identification system can use different methods and technologies to implement the above components, depending on the requirements and constraints of the web application and the user's device and browser.
+- Some of the common methods and technologies for web based user identification are:
+  - Cookies, which are small files that are placed on the user's device by the web server when accessing websites, and that can store user identifiers, session tokens, or other data.
+  - Device fingerprints, which are unique values that are derived from the user's device characteristics, such as the browser type, the screen resolution, the installed fonts, or the IP address.
+  - HTML local storage, which is a web storage API that allows web applications to store data on the user's device, and that can be used to store user identifiers or other data.
+  - Web authentication, which is a web standard that enables web applications to use public key cryptography and biometric authentication to verify the user's identity.
+  - OAuth, which is an open standard that allows web applications to delegate the user authentication to a third-party identity provider, such as Google, Facebook, or Twitter, and to obtain an access token that can be used to access the user's data or services.
+  - OpenID Connect, which is an extension of OAuth that provides a standardized way to obtain the user's identity information, such as their name, email, or profile picture, from the third-party identity provider.
+- A web based user identification system should follow some best practices to ensure the security, privacy, and usability of the user authentication and account management, such as:
+  - Using secure protocols, such as HTTPS and SSL, to encrypt the communication between the user and the web application.
+  - Hashing and salting the user passwords before storing them in the database, and using strong and random salt values for each password.
+  - Implementing a password policy that requires the user to choose a strong and unique password, and to change it periodically.
+  - Providing the user with the option to enable multi-factor authentication, such as using a one-time code, a mobile app, or a hardware device, in addition to the password.
+  - Implementing a password recovery mechanism that allows the user to reset their password securely, such as using a verification link, a security question, or a backup email or phone number.
+  - Allowing the user to change their username, email, or other account information, and to link or unlink multiple identities from different identity providers.
+  - Allowing the user to view and manage their active sessions, and to log out from all or specific devices or browsers.
+  - Allowing the user to delete their account and data, and to revoke the access of the web application or the third-party identity provider.

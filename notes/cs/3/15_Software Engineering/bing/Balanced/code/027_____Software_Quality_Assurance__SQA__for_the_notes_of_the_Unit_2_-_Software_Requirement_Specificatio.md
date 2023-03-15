@@ -1,0 +1,22 @@
+# Software Quality Assurance (SQA) for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Quality Assurance (SQA) is the process of ensuring that the software products or services meet the quality standards and expectations of the customers and stakeholders .
+- Software Requirement Specifications (SRS) is the document that describes the functional and non-functional requirements of the software system to be developed .
+- SQA and SRS are related in the following ways:
+  - SQA helps to verify and validate that the software system conforms to the requirements defined in the SRS .
+  - SQA helps to identify and resolve any defects or inconsistencies in the SRS before the software development begins.
+  - SQA helps to ensure that the SRS is complete, consistent, clear, testable, and traceable.
+- The benefits of SQA and SRS are:
+  - SQA and SRS help to improve the quality and reliability of the software system .
+  - SQA and SRS help to reduce the cost and time of software development and maintenance .
+  - SQA and SRS help to enhance the customer satisfaction and trust .
+  - SQA and SRS help to facilitate the communication and collaboration among the software development team, the customers, and the stakeholders .
+- The challenges of SQA and SRS are:
+  - SQA and SRS require a lot of effort and expertise to perform effectively .
+  - SQA and SRS may face difficulties in dealing with changing or ambiguous requirements .
+  - SQA and SRS may encounter conflicts or trade-offs among different quality attributes or requirements .
+- The best practices of SQA and SRS are:
+  - SQA and SRS should follow a systematic and structured approach based on standards, models, and methodologies .
+  - SQA and SRS should involve the customers and stakeholders throughout the software development life cycle .
+  - SQA and SRS should use appropriate tools and techniques to support the analysis, design, testing, and documentation of the software system  .
+  - SQA and SRS should conduct regular reviews and audits to ensure the quality and compliance of the software system  .

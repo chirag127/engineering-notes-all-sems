@@ -1,0 +1,22 @@
+# DAG representation of basic blocks
+
+- A **directed acyclic graph (DAG)** is a graph that has no cycles and has a direction for each edge.
+- A **basic block** is a sequence of statements that has a single entry point and a single exit point, and no jumps or branches within it.
+- A DAG can be used to represent the structure and the flow of values of a basic block, and to perform optimization techniques on it.
+- A DAG for a basic block has the following properties :
+  - The leaves of the graph are labeled by unique identifiers, which can be variable names or constants.
+  - The interior nodes of the graph are labeled by operators, such as arithmetic, logical, or relational operators.
+  - An edge from node A to node B means that the value of node A is an operand of the operator at node B.
+  - A node can have multiple parents, which means that it is a common subexpression that is used by multiple operators.
+  - A node can have multiple children, which means that its value is used by multiple operators in different statements.
+  - The root nodes of the graph are the statements that have no use of their values in the basic block, such as assignments or print statements.
+- A DAG can be constructed from a basic block by following these steps :
+  - Scan the statements of the basic block from top to bottom.
+  - For each statement, check if its right-hand side expression has a corresponding node in the DAG. If not, create a new node for each operand and operator in the expression, and connect them with edges according to the order of evaluation.
+  - Check if the left-hand side variable of the statement has a corresponding node in the DAG. If not, create a new node for it and connect it to the root of the expression node. If yes, delete the existing node and its subtree, and connect the new node to the root of the expression node.
+  - Repeat until all statements are processed.
+- A DAG can be used to perform optimization techniques on a basic block, such as :
+  - Eliminating common subexpressions: If a node has multiple parents, it means that the same expression is computed more than once. By reusing the value of the node, the redundant computations can be avoided.
+  - Copy propagation: If a node is labeled by a variable that is assigned to another variable, the node can be replaced by the node that represents the value of the other variable. This can eliminate unnecessary assignments and simplify expressions.
+  - Constant folding: If a node is labeled by an operator whose operands are constants, the node can be replaced by a node that represents the result of the operation. This can reduce the number of nodes and constants in the DAG.
+  - Dead code elimination: If a node has no children, it means that its value is not used in the basic block. The node and its subtree can be deleted from the DAG, as they have no effect on the output.

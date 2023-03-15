@@ -1,0 +1,23 @@
+### Waterfall Model for the notes of the Unit 1 - Introduction to Software Engineering in the subject of Software Engineering
+
+- The waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software engineering and product development.
+- The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff.
+- The waterfall model is also known as the linear-sequential life cycle model and was first introduced by Winston Royce in 1970.
+- The waterfall model divides project activities into linear sequential phases that are handed down to each other, with each phase relying on the deliverables of the preceding one to get its corresponding task done.
+- The waterfall model is common in many areas of engineering design.
+- The phases of the waterfall model are  :
+  - **Requirements analysis**: This phase involves gathering and documenting the functional and non-functional requirements of the software system from the stakeholders.
+  - **System design**: This phase involves defining the overall architecture, modules, interfaces, and data structures of the software system based on the requirements.
+  - **Implementation**: This phase involves coding, testing, and debugging the software modules and integrating them into a functional system.
+  - **Verification**: This phase involves verifying that the software system meets the specifications and quality standards defined in the previous phases.
+  - **Maintenance**: This phase involves fixing bugs, enhancing features, and updating the software system according to the changing needs of the users and the environment.
+- The advantages of the waterfall model are  :
+  - It is simple and easy to understand and use.
+  - It provides a clear and structured workflow and documentation for the project.
+  - It facilitates early detection and correction of errors and defects.
+  - It is suitable for small and well-defined projects with stable and clear requirements.
+- The disadvantages of the waterfall model are  :
+  - It is rigid and inflexible and does not accommodate changes in requirements or feedback from users during the development process.
+  - It assumes that each phase can be completed without errors and dependencies on the previous or the next phases.
+  - It does not reflect the iterative and incremental nature of software development.
+  - It is not suitable for large and complex projects with dynamic and uncertain requirements.

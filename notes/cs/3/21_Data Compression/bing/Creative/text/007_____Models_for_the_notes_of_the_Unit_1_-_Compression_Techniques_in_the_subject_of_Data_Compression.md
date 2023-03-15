@@ -1,0 +1,13 @@
+### Models for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of reducing the size of data without losing essential information or quality.
+- Data compression can be classified into two types: lossless and lossy.
+- Lossless compression techniques preserve the exact information of the original data, while lossy compression techniques discard some information that is deemed less important or perceptible.
+- Data compression can be applied to different types of data, such as text, images, audio, video, etc.
+- Data compression can be achieved by using different models and techniques, depending on the characteristics and requirements of the data and the application.
+- Some of the popular models and techniques for data compression are:
+
+  - Pruning: Pruning is a technique that reduces the number of parameters in a deep neural network by removing redundant and inconsequential connections, neurons, channels, or layers . Pruning can improve the efficiency and speed of the network, as well as reduce the memory and storage requirements. Pruning can be done in different ways, such as weight pruning, unit pruning, channel pruning, layer pruning, etc.
+  - Quantization: Quantization is a technique that reduces the precision of the numerical values in a deep neural network by using fewer bits to represent them . Quantization can reduce the size and complexity of the network, as well as the computational and energy costs. Quantization can be done in different ways, such as uniform quantization, non-uniform quantization, binary quantization, ternary quantization, etc.
+  - Knowledge distillation: Knowledge distillation is a technique that transfers the knowledge from a large, complex network (teacher) to a smaller, simpler network (student) by using the outputs of the teacher network as soft labels for the student network . Knowledge distillation can improve the performance and generalization of the student network, as well as reduce the inference time and resource consumption. Knowledge distillation can be done in different ways, such as mimic learning, attention transfer, feature distillation, etc.
+  - Low-rank factorization: Low-rank factorization is a technique that decomposes a large, dense matrix into a product of smaller, sparse matrices by exploiting the low-rank structure of the matrix . Low-rank factorization can reduce the number of operations and parameters in a deep neural network, as well as the memory and storage requirements. Low-rank factorization can be done in different ways, such as singular value decomposition, Tucker decomposition, tensor train decomposition, etc.

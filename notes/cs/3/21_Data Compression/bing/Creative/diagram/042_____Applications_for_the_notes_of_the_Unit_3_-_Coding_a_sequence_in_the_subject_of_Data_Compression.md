@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Data Compression. Here are some applications for the notes of the Unit 3 - Coding a sequence:
+
+- Coding a sequence is a technique to represent a sequence of symbols using fewer bits than the original representation. It can be used to compress data and reduce storage space or transmission bandwidth.
+- Coding a sequence can be divided into two types: lossless and lossy. Lossless coding preserves the exact information of the original sequence, while lossy coding discards some information to achieve higher compression ratios.
+- Some examples of lossless coding are Huffman coding, arithmetic coding, run-length encoding, and Lempel-Ziv coding. These methods can be used to compress text, images, audio, or any data that requires exact reconstruction.
+- Some examples of lossy coding are transform coding, quantization, and entropy coding. These methods can be used to compress images, audio, video, or any data that can tolerate some distortion or noise.
+- Coding a sequence can also be combined with other techniques, such as dictionary coding, predictive coding, or hybrid coding, to improve the compression performance or quality. These techniques can exploit the redundancy or correlation in the data to achieve better compression ratios.

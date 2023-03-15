@@ -1,0 +1,11 @@
+### DNS security
+
+DNS security is the practice of protecting DNS infrastructure from cyber attacks in order to keep it performing quickly and reliably. DNS infrastructure consists of DNS servers, DNS resolvers, and DNS clients that communicate with each other to resolve domain names into IP addresses. DNS security aims to prevent various types of attacks that exploit DNS vulnerabilities, such as DNS spoofing, DNS hijacking, DNS amplification, DNS tunneling, and DNS cache poisoning.
+
+Some of the key concepts and techniques of DNS security are:
+
+- **Redundant DNS servers**: Having multiple DNS servers distributed across different locations and networks can increase the availability and resilience of DNS services in case of failures or attacks. Redundant DNS servers can also balance the load and reduce the latency of DNS queries.
+- **DNSSEC (Domain Name System Security Extensions)**: DNSSEC is a set of security protocols that add cryptographic signatures to DNS records, ensuring their authenticity and integrity. DNSSEC prevents attackers from tampering with or forging DNS responses, thus preventing DNS spoofing and cache poisoning attacks. DNSSEC also enables DNS clients to verify the source and validity of DNS responses.
+- **DNS logging**: DNS logging is the process of recording and analyzing DNS queries and responses, as well as other DNS-related events and activities. DNS logging can help detect and investigate DNS attacks, as well as monitor and optimize DNS performance and usage. DNS logging can also provide valuable insights into the network traffic and user behavior.
+- **DNS filtering**: DNS filtering is the process of blocking or redirecting DNS queries or responses based on predefined criteria, such as domain names, IP addresses, or content categories. DNS filtering can help prevent users from accessing malicious or inappropriate websites, as well as protect DNS servers from unwanted or harmful traffic.
+- **DNS encryption**: DNS encryption is the process of encrypting DNS queries and responses between DNS clients and DNS servers, using protocols such as TLS (Transport Layer Security) or HTTPS (Hypertext Transfer Protocol Secure). DNS encryption can help protect the privacy and security of DNS communications, preventing attackers from intercepting, modifying, or analyzing DNS traffic.

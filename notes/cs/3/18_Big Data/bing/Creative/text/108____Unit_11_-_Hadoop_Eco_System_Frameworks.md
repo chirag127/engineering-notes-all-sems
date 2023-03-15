@@ -1,0 +1,24 @@
+## Unit 11 - Hadoop Eco System Frameworks
+
+- Hadoop is a framework that enables processing of large data sets which reside in the form of clusters.
+- Hadoop is made up of several modules that are supported by a large ecosystem of technologies.
+- Hadoop ecosystem is a platform or a suite which provides various services to solve the big data problems  .
+- Hadoop ecosystem includes Apache projects and various commercial tools and solutions.
+- There are four major elements of Hadoop i.e. HDFS, MapReduce, YARN, and Hadoop Common .
+- HDFS is a distributed file system that has the capability to store a large stack of data sets .
+- MapReduce is a programming model that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+- YARN is a resource management layer that allocates the resources to the applications running on top of Hadoop .
+- Hadoop Common is a set of common utilities and libraries that support the other Hadoop modules.
+- Some of the popular tools and frameworks in the Hadoop ecosystem are:
+  - Pig: a high-level scripting language that allows for data analysis and transformation using MapReduce .
+  - Hive: a data warehouse system that provides a SQL-like interface to query and analyze structured and semi-structured data stored in HDFS .
+  - HBase: a column-oriented database that provides random access and strong consistency for large amounts of sparse data .
+  - Spark: a fast and general engine for large-scale data processing that supports batch, streaming, SQL, machine learning, and graph analytics .
+  - Kafka: a distributed messaging system that enables high-throughput and low-latency data ingestion and processing .
+  - Flume: a service that collects, aggregates, and moves large amounts of log data from various sources to HDFS .
+  - Sqoop: a tool that transfers data between Hadoop and relational databases .
+  - Oozie: a workflow scheduler that manages and coordinates the execution of Hadoop jobs .
+  - ZooKeeper: a service that provides coordination, configuration, and synchronization for distributed systems .
+  - Mahout: a library that provides scalable machine learning algorithms for data mining and analytics .
+  - Solr: a search platform that provides full-text search, faceting, and indexing capabilities for data stored in HDFS .
+- The Hadoop ecosystem is constantly evolving and expanding with new tools and frameworks to address the challenges and opportunities of big data   .

@@ -1,0 +1,11 @@
+### File Compression-UNIX compress
+
+- File compression is the process of reducing the size of a file by removing redundant or irrelevant data, or by using efficient encoding schemes.
+- File compression can save disk space, bandwidth, and transmission time, and can also protect data from unauthorized access or modification.
+- UNIX compress is one of the file compression utilities available on UNIX systems. It uses the Lempel-Ziv algorithm to compress files and adds a .Z extension to the compressed file name.
+- UNIX compress can be invoked by the command `compress filename`, where filename is the name of the file to be compressed. The original file is replaced by the compressed file, unless the -c option is used, which writes the compressed output to the standard output.
+- UNIX compress can also compress multiple files at once by specifying a list of file names or a wildcard pattern. For example, `compress *.txt` will compress all the files with the .txt extension in the current directory.
+- UNIX compress can decompress files by using the -d option or by invoking the uncompress command. For example, `compress -d filename.Z` or `uncompress filename.Z` will decompress the file filename.Z and restore the original file.
+- UNIX compress can also decompress multiple files at once by specifying a list of file names or a wildcard pattern. For example, `compress -d *.Z` or `uncompress *.Z` will decompress all the files with the .Z extension in the current directory.
+- UNIX compress is not compatible with other compression utilities, such as gzip or zip, which use different algorithms and file formats. To compress or decompress files using these utilities, one has to use their respective commands, such as gzip, gunzip, zip, or unzip.
+- UNIX compress is also less efficient than newer compression utilities, such as gzip or bzip2, which can achieve higher compression ratios and faster speeds. Therefore, UNIX compress is not widely used anymore, except for legacy or compatibility reasons.

@@ -1,0 +1,25 @@
+### Java Server Pages Overview
+
+- Java Server Pages (JSP) is a technology that allows developers to create dynamic web pages using a combination of HTML, XML, and Java code  .
+- JSP pages are executed on a web server, and the resulting output is sent to the client's web browser .
+- JSP is a type of Java servlet that is designed to fulfill the role of a user interface for a Java web application.
+- JSP can make requests to a Java servlet, perform relevant logic, and render a specific view server-side to be consumed client-side.
+- JSP can also use JavaBeans components, custom tags, expression language, and other features to simplify the development process .
+- JSP is a Java standard technology that is part of the Jakarta EE platform.
+- JSP has a syntax that is similar to HTML, but with special tags and directives that start with <% and end with %> .
+- JSP can be divided into two types: scriptlet and expression.
+  - Scriptlet is a block of Java code that can perform any operation that is allowed in a servlet.
+  - Expression is a block of Java code that can evaluate an expression and insert its value into the output stream.
+- JSP can also include static HTML or XML elements, comments, declarations, and directives .
+  - HTML or XML elements are used to define the structure and layout of the web page.
+  - Comments are used to add notes or explanations to the JSP code.
+  - Declarations are used to declare variables or methods that can be used in the JSP page.
+  - Directives are used to provide instructions to the JSP engine, such as setting the page attributes, importing packages, or including other files .
+- JSP follows a life cycle that consists of the following phases :
+  - Translation: The JSP page is translated into a Java servlet class by the JSP engine .
+  - Compilation: The Java servlet class is compiled into a bytecode file by the Java compiler .
+  - Loading: The bytecode file is loaded into the memory by the class loader .
+  - Instantiation: An instance of the servlet class is created by the servlet container .
+  - Initialization: The init() method of the servlet class is invoked by the servlet container to perform any initialization tasks .
+  - Request processing: The service() method of the servlet class is invoked by the servlet container to handle the client request and generate the response .
+  - Destruction: The destroy() method of the servlet class is invoked by the servlet container to perform any cleanup tasks before the servlet instance is removed from the memory .

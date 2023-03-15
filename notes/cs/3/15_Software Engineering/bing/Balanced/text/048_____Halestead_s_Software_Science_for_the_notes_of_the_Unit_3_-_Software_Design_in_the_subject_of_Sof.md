@@ -1,0 +1,25 @@
+### Halestead’s Software Science
+
+- Halestead’s Software Science is a set of software metrics that measure the complexity and quality of a program based on its operators and operands     .
+- Operators are the symbols that represent actions or functions, such as +, -, *, /, =, etc. Operands are the symbols that represent data or values, such as variables, constants, literals, etc     .
+- Halestead’s Software Science defines the following base measures     :
+  - n1: the number of distinct operators in the program
+  - n2: the number of distinct operands in the program
+  - N1: the total number of operators in the program
+  - N2: the total number of operands in the program
+- Based on these base measures, Halestead’s Software Science derives the following derived measures     :
+  - Program length (N): the total number of operators and operands in the program, i.e., N = N1 + N2
+  - Program vocabulary (n): the total number of distinct operators and operands in the program, i.e., n = n1 + n2
+  - Estimated program length (N^): the optimal program length that can be achieved with the same vocabulary, i.e., N^ = n1 * log2(n1) + n2 * log2(n2)
+  - Volume (V): the amount of information contained in the program, i.e., V = N * log2(n)
+  - Difficulty (D): the difficulty of writing or understanding the program, i.e., D = (n1/2) * (N2/n2)
+  - Effort (E): the amount of work required to write or maintain the program, i.e., E = D * V
+  - Time (T): the time required to write or maintain the program, i.e., T = E / 18 seconds
+  - Bugs (B): the estimated number of errors in the program, i.e., B = V / 3000
+- Halestead’s Software Science can be used to compare different programs or different versions of the same program in terms of complexity and quality     .
+- Halestead’s Software Science can also be used to estimate the development time and effort of a program based on its vocabulary and length     .
+- Halestead’s Software Science has some limitations, such as     :
+  - It does not consider the semantic aspects of the program, such as the logic, algorithm, or design.
+  - It does not account for the differences in programming languages, such as syntax, keywords, or data types.
+  - It does not reflect the human factors, such as the skill, experience, or style of the programmer.
+  - It does not measure the functional or non-functional requirements of the program, such as correctness, reliability, or usability.

@@ -1,0 +1,24 @@
+### Electronic mail
+
+- Electronic mail (e-mail) is a computer-based application for the exchange of messages between users.
+- E-mail is the electronic equivalent of a letter, but with advantages in timeliness and flexibility.
+- An e-mail address is a unique identifier for each user, typically in the format of name@domain.com.
+- E-mail messages consist of two parts: a header and a body.
+- The header contains information such as the sender, the recipient, the subject, the date, and other optional fields.
+- The body contains the actual content of the message, which can be plain text, formatted text, images, attachments, or other multimedia elements.
+- E-mail messages are transmitted over the internet using protocols such as Simple Mail Transfer Protocol (SMTP), Post Office Protocol (POP), and Internet Message Access Protocol (IMAP).
+- SMTP is used to send e-mail messages from a client to a server, or from one server to another.
+- POP and IMAP are used to retrieve e-mail messages from a server to a client.
+- POP downloads the messages from the server and deletes them from the server, while IMAP synchronizes the messages between the server and the client.
+- E-mail messages are stored in mailboxes, which are folders or directories that organize the messages by sender, recipient, subject, date, or other criteria.
+- E-mail messages can be encrypted, signed, or verified using techniques such as Pretty Good Privacy (PGP) or Secure/Multipurpose Internet Mail Extensions (S/MIME).
+- E-mail encryption ensures that only the intended recipient can read the message, while e-mail signing and verification ensure that the message has not been tampered with and that the sender is authentic.
+- E-mail is one of the most widely used and popular applications of the internet, with billions of users and messages exchanged every day.
+- E-mail can be accessed through various devices, such as computers, smartphones, tablets, or web browsers.
+- E-mail can be used for various purposes, such as personal communication, business communication, marketing, education, social networking, or information sharing.
+- E-mail can also have some disadvantages, such as spam, phishing, malware, privacy issues, or information overload.
+- Spam is unsolicited or unwanted e-mail messages, usually sent in bulk for commercial or malicious purposes.
+- Phishing is a type of e-mail fraud that attempts to trick the recipient into revealing sensitive information, such as passwords, credit card numbers, or bank account details.
+- Malware is a type of software that can harm the recipient's device or data, such as viruses, worms, trojans, or ransomware.
+- Privacy issues arise when e-mail messages are intercepted, monitored, or accessed by unauthorized parties, such as hackers, governments, or employers.
+- Information overload occurs when the recipient receives too many e-mail messages, which can cause stress, distraction, or reduced productivity.

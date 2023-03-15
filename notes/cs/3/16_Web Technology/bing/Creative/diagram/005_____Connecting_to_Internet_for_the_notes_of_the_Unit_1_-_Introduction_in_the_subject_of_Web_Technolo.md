@@ -1,0 +1,13 @@
+### Connecting to Internet
+
+- The Internet is a global network of computers and devices that can communicate and share information with each other.
+- To connect to the Internet, you need a device (such as a computer, smartphone, or tablet), a network (such as Wi-Fi, Ethernet, or cellular), and an Internet service provider (ISP) (such as Comcast, Verizon, or AT&T).
+- There are different types of Internet connections, such as dial-up, DSL, cable, fiber, satellite, and mobile. Each type has its own advantages and disadvantages in terms of speed, reliability, availability, and cost.
+- To connect to the Internet using Wi-Fi, you need a wireless router that broadcasts a wireless signal that your device can detect and join. You may also need a password or a security key to access the network.
+- To connect to the Internet using Ethernet, you need an Ethernet cable that connects your device to a router or a modem. This provides a wired connection that is usually faster and more secure than Wi-Fi.
+- To connect to the Internet using dial-up, you need a modem that connects your device to a phone line. This is the slowest and most outdated type of Internet connection, and it may interfere with your phone service.
+- To connect to the Internet using DSL, you need a DSL modem that connects your device to a phone line. This is faster than dial-up, but slower than cable or fiber. DSL uses a different frequency than your phone service, so you can use both at the same time.
+- To connect to the Internet using cable, you need a cable modem that connects your device to a coaxial cable. This is faster than DSL, but may vary depending on the traffic in your area. Cable also provides TV and phone services.
+- To connect to the Internet using fiber, you need a fiber-optic modem that connects your device to a fiber-optic cable. This is the fastest and most reliable type of Internet connection, but it is not widely available in all areas.
+- To connect to the Internet using satellite, you need a satellite dish and a satellite modem that connect your device to a satellite in orbit. This is slower and more expensive than other types of Internet connections, but it is available in remote areas where other options are not.
+- To connect to the Internet using mobile, you need a mobile device (such as a smartphone or a tablet) that can access the cellular network of your mobile service provider. This is convenient and portable, but it may have limited coverage, speed, and data allowance. Mobile also provides voice and text services.

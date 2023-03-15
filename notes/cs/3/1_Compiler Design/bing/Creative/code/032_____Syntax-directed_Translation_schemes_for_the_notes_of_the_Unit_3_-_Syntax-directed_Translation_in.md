@@ -1,0 +1,22 @@
+### Syntax-directed Translation schemes
+
+- A syntax-directed translation scheme is a notation that combines a context-free grammar with semantic actions .
+- Semantic actions are fragments of code that specify how to generate intermediate code or perform other tasks related to the translation.
+- Semantic actions can be embedded within the right sides of productions, or associated with grammar symbols .
+- The order of execution of semantic actions depends on the order of traversal of the parse tree or syntax tree .
+- There are two types of attributes that can be associated with grammar symbols: synthesized attributes and inherited attributes .
+- Synthesized attributes are computed from the attributes of the children nodes in the parse tree .
+- Inherited attributes are computed from the attributes of the parent or sibling nodes in the parse tree .
+- A syntax-directed definition (SDD) is a collection of attribute definitions, one for each grammar symbol and each attribute.
+- An SDD is said to be S-attributed if it only uses synthesized attributes.
+- An SDD is said to be L-attributed if it only uses synthesized attributes and inherited attributes that can be computed in a left-to-right traversal of the parse tree.
+- A translation scheme can be implemented by augmenting a parser with semantic actions .
+- A translation scheme can be classified as postfix, prefix, or infix, depending on the relative position of semantic actions and grammar symbols in the productions.
+- A postfix translation scheme is one where semantic actions appear after grammar symbols in the productions.
+- A prefix translation scheme is one where semantic actions appear before grammar symbols in the productions.
+- An infix translation scheme is one where semantic actions appear between grammar symbols in the productions.
+- A postfix translation scheme can be easily implemented by a bottom-up parser, such as a shift-reduce parser.
+- A prefix translation scheme can be easily implemented by a top-down parser, such as a recursive-descent parser.
+- An infix translation scheme can be implemented by either a bottom-up or a top-down parser, but may require additional stack operations.
+- A translation scheme can be converted from one form to another by rearranging the semantic actions and grammar symbols in the productions.
+- A translation scheme can be evaluated by using a parser stack to store the attributes and intermediate results of semantic actions .

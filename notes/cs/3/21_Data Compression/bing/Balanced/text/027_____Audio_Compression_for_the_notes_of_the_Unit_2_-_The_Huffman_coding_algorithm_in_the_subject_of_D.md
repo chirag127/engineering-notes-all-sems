@@ -1,0 +1,11 @@
+### Audio Compression for the notes of the Unit 2 - The Huffman coding algorithm in the subject of Data Compression
+
+- Audio compression is the process of reducing the amount of data required to represent an audio signal, without significantly affecting the quality of the sound.
+- Audio compression can be either lossy or lossless, depending on whether the original signal can be perfectly reconstructed from the compressed data or not.
+- Lossy audio compression techniques, such as MP3 and AAC, use psychoacoustic models to remove the parts of the signal that are less perceptible to the human ear, and then encode the remaining data using variable-length codes, such as Huffman coding.
+- Huffman coding is a method of data compression that is independent of the data type, that is, the data could represent an image, audio or spreadsheet . This compression scheme is used in JPEG and MPEG-2.
+- Huffman coding works by looking at the data stream that makes up the file to be compressed, and assigning shorter codes to the symbols that occur more frequently, and longer codes to the symbols that occur less frequently .
+- Huffman coding is based on the principle of minimum redundancy, which states that the optimal code for a given source is the one that minimizes the average code length, and therefore maximizes the compression ratio.
+- Huffman coding can be either static or dynamic, depending on whether the code table is fixed or updated during the encoding process. Static Huffman coding requires a priori knowledge of the source statistics, while dynamic Huffman coding adapts to the changing source statistics.
+- Huffman coding can be combined with other compression techniques, such as subband coding, run-length encoding, and interpolation, to achieve higher compression ratios and better sound quality .
+- Huffman coding is a lossless compression technique, which means that no information is lost during the compression and decompression process, and the original signal can be perfectly recovered from the compressed data.

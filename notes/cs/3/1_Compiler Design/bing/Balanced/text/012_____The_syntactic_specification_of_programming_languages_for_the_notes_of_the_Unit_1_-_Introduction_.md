@@ -1,0 +1,9 @@
+### The syntactic specification of programming languages
+
+- The syntax of a programming language defines the rules for writing valid programs in that language. It specifies how the symbols, keywords, operators, and punctuation marks of the language can be combined to form expressions, statements, and other syntactic units.
+- The syntax of a programming language can be described using various formal methods, such as regular expressions, context-free grammars, and abstract syntax trees. These methods can help to analyze, parse, and generate programs in a systematic and unambiguous way.
+- The syntax of a programming language can be broadly divided into three levels:
+  - Lexical level: This level determines how characters form tokens, which are the basic components of the source code. Characters belong to one of the five classes of tokens: identifiers, operators, constants, separators, and reserved words.
+  - Grammatical level: This level determines how tokens form phrases, which are the syntactic units of the language. Each programming language has its own unique phrasing, which can be defined by a context-free grammar or a similar notation.
+  - Contextual level: This level determines the naming conventions and the validity of types, which are the semantic aspects of the language. For example, the contextual level checks if the variables or objects names refer to existing entities, and if the operands and operators are compatible in terms of their types.
+- The syntactic specification of a programming language is an important part of its design and implementation, as it affects the readability, expressiveness, and correctness of the programs written in that language. A good syntax should be clear, consistent, concise, and intuitive for the programmers.

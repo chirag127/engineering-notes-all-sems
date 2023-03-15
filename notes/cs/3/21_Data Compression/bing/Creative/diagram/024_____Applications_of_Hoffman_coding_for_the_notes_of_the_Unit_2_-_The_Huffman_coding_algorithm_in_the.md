@@ -1,0 +1,7 @@
+### Applications of Huffman coding
+
+Huffman coding is a technique of lossless data compression that assigns variable-length codes to the symbols of a data stream based on their frequencies or weights . It is a type of prefix code, which means that no code is a prefix of another code. Huffman coding has several applications in the real world, such as:
+
+- Text and fax transmissions: Huffman coding can reduce the size of text files by encoding the most frequent characters with fewer bits and the less frequent ones with more bits. This can save bandwidth and storage space for text and fax transmissions.
+- Image and audio compression: Huffman coding can be used in conjunction with other techniques, such as discrete cosine transform (DCT) and quantization, to compress image and audio files, such as JPEG, PNG, and MP3 . Huffman coding can encode the coefficients of the DCT and the quantized values with variable-length codes, reducing the number of bits needed to represent them.
+- Cryptography: Huffman coding can be used to encrypt and decrypt data by using a secret key to generate the code table. The code table can be used to map the symbols of the plaintext to the codes of the ciphertext, and vice versa. This can provide a simple and secure way of data encryption and decryption.

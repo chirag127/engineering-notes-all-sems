@@ -1,0 +1,10 @@
+### Basic Priority-Inheritance and Priority-Ceiling Protocols
+
+- Priority-inheritance and priority-ceiling protocols are two methods for managing resource access control in real-time systems.
+- Both protocols aim to prevent unbounded priority inversion, which is a situation where a high-priority task is blocked by a low-priority task that holds a shared resource.
+- Priority-inheritance protocol allows a low-priority task that holds a resource to temporarily inherit the priority of the highest-priority task that is waiting for the same resource. This way, the low-priority task can finish its critical section and release the resource sooner, reducing the blocking time of the high-priority task.
+- Priority-ceiling protocol assigns a priority ceiling to each resource, which is the highest priority of any task that can access that resource. A task can only access a resource if its priority is higher than the priority ceiling of all the resources currently held by other tasks. This way, the priority-ceiling protocol prevents a low-priority task from accessing a resource that may be needed by a higher-priority task later, avoiding blocking and deadlock.
+- The differences between the two protocols are:
+  - Priority-inheritance protocol is greedy, while priority-ceiling protocol is not. The former allows a task to access a resource whenever it is free, while the latter may deny a task access to a free resource if its priority is lower than the priority ceiling of the resource.
+  - Priority-inheritance protocol can cause chained blocking, while priority-ceiling protocol can cause avoidance blocking. Chained blocking is when a task is blocked by another task that is blocked by another task, and so on. Avoidance blocking is when a task is blocked by a lower-priority task that does not hold the requested resource, but may access it later.
+  - Priority-inheritance protocol has a higher runtime overhead, while priority-ceiling protocol has a higher memory overhead. The former requires dynamic priority changes and tracking of blocked tasks, while the latter requires static priority ceiling assignment and checking of resource status.

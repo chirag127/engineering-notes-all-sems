@@ -1,0 +1,25 @@
+## Modeling Data Flow Diagrams for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- Data Flow Diagrams (DFDs) are graphical representations of the data processing and flow in a software system  .
+- DFDs show the sources, destinations, storage, and transformation of data, as well as the events and functions that trigger data flow .
+- DFDs can be used to model the functional aspects of a software system, such as the inputs, outputs, processes, and data stores involved in each function  .
+- DFDs can also be used to analyze the existing system and identify the requirements and design of a new or improved system  .
+- DFDs can be drawn at different levels of abstraction, from the context diagram that shows the entire system as a single process, to the detailed diagram that shows the internal structure and logic of each process  .
+- DFDs use four basic symbols to represent the components of a system :
+  - Process: A circle or a rounded rectangle that represents a function or a transformation of data.
+  - Data store: A rectangle with two parallel lines on the side that represents a place where data is stored or retrieved.
+  - Data flow: An arrow that represents the movement or direction of data between processes, data stores, or external entities.
+  - External entity: A rectangle that represents a source or destination of data outside the system boundary.
+- DFDs follow some basic rules and conventions to ensure clarity and consistency :
+  - Each process should have a unique name and number that describes its function.
+  - Each data flow should have a label that describes the data or information being transferred.
+  - Each data store should have a name that identifies the data or information being stored.
+  - Each external entity should have a name that identifies the source or destination of data.
+  - Processes should not have direct data flows between them, but should use data stores or external entities as intermediaries.
+  - Data flows should not cross each other, but should use junctions or forks to split or join data flows.
+  - Data flows should not have loops or cycles, but should have a clear beginning and end point.
+  - Data flows should not have multiple sources or destinations, but should have a single source and a single destination.
+- DFDs can be verified and validated by checking the consistency, completeness, and correctness of the data flow and the processes :
+  - Consistency: The data flow and the processes should match the system objectives and specifications, and should not have any contradictions or conflicts.
+  - Completeness: The data flow and the processes should cover all the possible scenarios and cases, and should not have any gaps or missing information.
+  - Correctness: The data flow and the processes should reflect the actual or desired behavior and logic of the system, and should not have any errors or mistakes.

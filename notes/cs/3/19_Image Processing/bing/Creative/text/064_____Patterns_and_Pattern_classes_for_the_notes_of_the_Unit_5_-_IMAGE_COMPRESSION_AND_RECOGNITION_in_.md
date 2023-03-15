@@ -1,0 +1,24 @@
+### Patterns and Pattern Classes
+
+- A pattern is an arrangement of descriptors that characterizes an object or a concept .
+- A descriptor is a feature or an attribute that can be measured or observed, such as color, shape, size, texture, etc .
+- A pattern class is a family of patterns that share some common properties, such as belonging to the same category, having the same function, or satisfying some criteria .
+- Pattern classes are denoted by ω1, ω2, …, ωW, where W is the number of classes.
+- The goal of pattern recognition is to assign patterns to their classes with as little human interaction as possible .
+- Three common pattern arrangements used in practice are vectors (for quantitative descriptions), strings (for structural descriptions), and trees (for hierarchical descriptions).
+- Pattern vectors are ordered sets of numerical values that represent the descriptors of a pattern, such as pixel intensities, color histograms, edge orientations, etc .
+- Pattern vectors are also called feature vectors, and they can be represented as points in a multidimensional space called the feature space .
+- Pattern strings are sequences of symbols that represent the descriptors of a pattern, such as letters, words, codes, etc.
+- Pattern strings are useful for describing patterns that have a linear structure, such as text, DNA, speech, etc.
+- Pattern trees are graphs that represent the descriptors of a pattern as nodes and their relationships as edges.
+- Pattern trees are useful for describing patterns that have a hierarchical or recursive structure, such as sentences, molecules, images, etc.
+- Pattern recognition by machine involves techniques for extracting, selecting, and transforming the descriptors of a pattern, and then using a classifier to assign the pattern to a class .
+- A classifier is a function or a rule that maps a pattern to a class, such as a threshold, a distance measure, a neural network, a decision tree, etc .
+- A classifier can be supervised, meaning that it is trained with labeled patterns, or unsupervised, meaning that it is trained with unlabeled patterns .
+- Image processing is a set of computational techniques for analyzing, enhancing, compressing, and reconstructing images.
+- Image analysis is a subfield of image processing that focuses on extracting information from images, such as objects, regions, features, etc.
+- Image recognition is a subfield of image analysis that focuses on identifying and classifying the objects or concepts in an image, such as faces, animals, logos, etc .
+- Image recognition can be based on patterns, meaning that it uses descriptors that are derived from the image itself, such as edges, corners, contours, etc .
+- Image recognition can also be based on models, meaning that it uses descriptors that are derived from a prior knowledge of the objects or concepts, such as shape, color, texture, etc .
+- Image recognition can be performed at different levels of abstraction, such as pixel-level, region-level, object-level, or scene-level .
+- Image recognition can be applied to various domains, such as biometrics, security, medical imaging, robotics, computer vision, etc .

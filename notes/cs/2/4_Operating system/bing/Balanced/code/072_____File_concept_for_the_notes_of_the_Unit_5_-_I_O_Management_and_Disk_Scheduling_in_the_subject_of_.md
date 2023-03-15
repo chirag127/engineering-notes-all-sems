@@ -1,0 +1,11 @@
+### File concept
+- A file is a collection of related information that is recorded on secondary storage.
+- A file has a certain defined structure according to its type.
+- A file is organized into logical units called records.
+- A record is a collection of related fields.
+- A field is a basic element of data, such as a character, a number, or a symbol.
+- A file has a name that uniquely identifies it within a specific directory or folder.
+- A file has certain attributes that describe its properties, such as size, type, location, protection, creation time, modification time, etc.
+- A file can be accessed by various operations, such as create, open, read, write, close, delete, rename, etc.
+- A file can be shared by multiple users or processes, subject to some access control mechanisms.
+- A file can be organized into a hierarchical structure of directories or folders, which form a logical file system.

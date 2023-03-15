@@ -1,0 +1,24 @@
+### Data flow for the notes of the Unit 4 - HDFS (Hadoop Distributed File System) in the subject of Big Data
+
+- HDFS is a distributed file system that stores large data sets across multiple nodes in a cluster.
+- HDFS provides high fault tolerance, scalability, and throughput by dividing the data into fixed-size blocks and replicating them across different nodes .
+- HDFS consists of two types of nodes: NameNode and DataNode.
+  - NameNode is the master node that manages the metadata of the file system, such as the location, size, and replication factor of each block.
+  - DataNode is the slave node that stores the actual data blocks and communicates with the NameNode and other DataNodes.
+- HDFS supports two types of operations: read and write.
+  - Read operation involves the following steps:
+    - The client contacts the NameNode and requests the location of the file blocks.
+    - The NameNode returns the list of DataNodes that have the replicas of the file blocks.
+    - The client chooses the closest DataNode and establishes a connection with it.
+    - The client reads the data blocks from the DataNode and closes the connection.
+    - The client repeats the process for the remaining blocks of the file.
+  - Write operation involves the following steps:
+    - The client contacts the NameNode and requests to create a new file.
+    - The NameNode checks if the file already exists and if there is enough space in the cluster.
+    - The NameNode returns a positive response to the client and allocates a block for the file.
+    - The NameNode also returns the list of DataNodes that can store the replicas of the block.
+    - The client chooses the closest DataNode and establishes a connection with it.
+    - The client writes the data to the DataNode and sends an acknowledgment to the NameNode.
+    - The DataNode replicates the data to the other DataNodes in the list and sends an acknowledgment to the NameNode.
+    - The NameNode updates the metadata of the file system and sends a confirmation to the client.
+    - The client repeats the process for the remaining blocks of the file.

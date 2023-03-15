@@ -1,0 +1,10 @@
+## Unit 5 - Advantages of Vector Quantization over Scalar Quantization
+
+- Vector quantization (VQ) is a technique that compresses data by representing a set of similar vectors (such as image blocks or speech frames) by a single representative vector, called a codevector.
+- Scalar quantization (SQ) is a technique that compresses data by representing each individual sample (such as a pixel or a speech sample) by a single representative value, called a codeword.
+- VQ has several advantages over SQ, such as:
+
+  - VQ can achieve higher compression ratios than SQ, since it exploits the correlation between adjacent samples in the data. For example, in an image, neighboring pixels tend to have similar values, so they can be grouped into a vector and represented by a single codevector. SQ, on the other hand, treats each pixel independently, so it requires more bits to represent the same information.
+  - VQ can reduce the quantization noise and distortion compared to SQ, since it minimizes the mean squared error (MSE) between the original vectors and the codevectors. SQ, on the other hand, minimizes the MSE between the original samples and the codewords, which may not capture the overall similarity between the vectors.
+  - VQ can adapt to the statistics of the data, since it can use different codebooks for different regions or classes of the data. For example, in speech coding, VQ can use different codebooks for voiced and unvoiced segments, or for different phonemes. SQ, on the other hand, uses a fixed codebook for the whole data, which may not match the characteristics of the data well.
+  - VQ can handle non-uniform data distributions better than SQ, since it can allocate more codevectors to the regions or classes of the data that have higher probability or importance. For example, in image coding, VQ can allocate more codevectors to the edges or textures of the image, which are more perceptually significant. SQ, on the other hand, uses a uniform quantization scheme, which may not reflect the perceptual relevance of the data.

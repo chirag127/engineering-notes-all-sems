@@ -1,0 +1,11 @@
+# Hadoop Benchmarks
+
+Hadoop benchmarks are programs or tools that measure the performance of different aspects of a Hadoop cluster, such as HDFS, MapReduce, or HBase. They can help to evaluate the scalability, reliability, and efficiency of a Hadoop system, as well as to identify the bottlenecks and optimize the configuration. Some of the common Hadoop benchmarks are:
+
+- **TestDFSIO**: This is a read and write test for HDFS. It will write or read a number of files to and from HDFS using one map task per file. It can measure the throughput and latency of HDFS operations.
+- **TeraSort**: This is a widely known Hadoop benchmark that combines testing the HDFS and MapReduce layers of a Hadoop cluster. It consists of three MapReduce programs: TeraGen, TeraSort, and TeraValidate. TeraGen generates a large amount of random data, TeraSort sorts the data using a custom partitioner and comparator, and TeraValidate verifies the correctness of the sorting.
+- **nnbench**: This is a benchmark for testing the performance of the NameNode, the master node of HDFS. It will create, rename, and delete a large number of files in parallel using multiple threads. It can measure the response time and throughput of the NameNode operations.
+- **mrbench**: This is a benchmark for testing the performance of the MapReduce framework. It will run a simple map-only job that does nothing but sleep for a specified amount of time. It can measure the job execution time, the map task completion time, and the cluster utilization.
+- **hbase.PerformanceEvaluation**: This is a benchmark for testing the performance of HBase, a distributed column-oriented database built on top of HDFS. It will perform various operations on HBase tables, such as insert, update, scan, and random read. It can measure the latency and throughput of HBase operations.
+
+There are also other Hadoop benchmarks, such as HiBench, Big Data Benchmark, and GridMix, that simulate more complex and realistic workloads, such as web search, machine learning, and social network analysis. These benchmarks can help to evaluate the performance of Hadoop under different scenarios and compare it with other systems.

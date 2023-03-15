@@ -1,0 +1,37 @@
+### Elementary Data Link Protocols
+
+- Protocols in the data link layer are designed to perform the basic functions of framing, error control and flow control.
+- Framing is the process of dividing bit-streams from the physical layer into data frames whose size ranges from a few hundred to a few thousand bytes.
+- Error control is the process of detecting and correcting errors that may occur during transmission or reception of data frames.
+- Flow control is the process of regulating the rate of data transmission between the sender and the receiver to avoid congestion or buffer overflow.
+- Elementary data link protocols are classified into three categories, as given below:
+  - Protocol 1: Unrestricted simplex protocol
+    - This protocol assumes that the sender can send data frames continuously without any feedback from the receiver.
+    - The receiver simply accepts and processes the incoming frames.
+    - This protocol is suitable for simplex channels where the sender has unlimited buffer space and the receiver can process data frames as fast as they arrive.
+    - This protocol does not provide any error control or flow control mechanisms.
+  - Protocol 2: Simplex stop-and-wait protocol
+    - This protocol assumes that the sender can send only one data frame at a time and must wait for an acknowledgment from the receiver before sending the next frame.
+    - The receiver sends an acknowledgment after processing each frame.
+    - This protocol provides error control by using sequence numbers and timers.
+    - If the sender does not receive an acknowledgment within a specified time, it retransmits the frame.
+    - If the receiver receives a duplicate frame, it discards it and sends a duplicate acknowledgment.
+    - This protocol provides flow control by limiting the number of frames in transit to one.
+    - This protocol is suitable for simplex channels where the sender has limited buffer space and the receiver can process data frames slower than they arrive.
+    - This protocol suffers from low efficiency due to the long waiting time between frames.
+  - Protocol 3: Simplex protocol for a noisy channel
+    - This protocol is a modification of protocol 2 to handle the case where the channel is noisy and may corrupt or lose frames or acknowledgments.
+    - This protocol uses positive and negative acknowledgments to indicate the status of received frames.
+    - A positive acknowledgment (ACK) means that the frame was received correctly.
+    - A negative acknowledgment (NAK) means that the frame was corrupted or lost.
+    - The sender retransmits the frame if it receives a NAK or does not receive any acknowledgment within a specified time.
+    - The receiver discards duplicate frames and sends duplicate acknowledgments.
+    - This protocol provides error control and flow control as in protocol 2.
+    - This protocol is suitable for simplex channels where the channel is noisy and may corrupt or lose frames or acknowledgments.
+    - This protocol suffers from low efficiency due to the overhead of acknowledgments and retransmissions.
+- Some examples of data link layer protocols are :
+  - Synchronous Data Link Control (SDLC): A communication protocol that supports multipoint links, error recovery and correction, and is used to carry Systems Network Architecture (SNA) traffic. It was designed and developed by IBM in 1975.
+  - High-Level Data Link Control (HDLC): A communication protocol that is based on SDLC and supports point-to-point and multipoint links, error detection and correction, and flow control. It is widely used in data networks and is the basis for many other protocols such as PPP and LAPB.
+  - Serial Line Interface Protocol (SLIP): A communication protocol that is used to encapsulate IP packets over serial lines. It is simple and does not provide any error control or flow control mechanisms. It is mostly obsolete and replaced by PPP.
+  - Point-to-Point Protocol (PPP): A communication protocol that is used to establish and maintain a connection between two nodes over various types of links such as serial lines, phone lines, or Ethernet. It provides framing, error detection, authentication, encryption, compression, and network layer protocol negotiation.
+  - Link Access Procedure (LAP): A family of communication protocols that are based on HDLC and are used to provide reliable data transmission over various types of links

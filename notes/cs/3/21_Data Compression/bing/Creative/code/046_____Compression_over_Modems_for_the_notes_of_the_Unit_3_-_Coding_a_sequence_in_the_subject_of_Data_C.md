@@ -1,0 +1,7 @@
+### Compression over Modems
+
+- Compression over modems is a technique that allows modems to transmit data faster and more efficiently over phone lines by reducing the size of the data before sending it and expanding it after receiving it.
+- Compression over modems can be done by using different algorithms and protocols, such as V.42bis, MNP5, V.44, etc. These protocols can achieve different compression ratios depending on the type and redundancy of the data .
+- Compression over modems can improve the throughput and reliability of data transmission, especially in noisy or low-quality phone lines, by reducing the number of bits that need to be sent and correcting any errors that may occur.
+- Compression over modems can also reduce the cost of data transmission by using less bandwidth and phone time. However, compression over modems may also introduce some overhead and latency, and may not be effective for data that is already compressed or encrypted .
+- Compression over modems can be implemented by using hardware or software solutions, such as compression service adapters (CSA), advanced integration modules (AIM), or communication software. These solutions can vary in performance, compatibility, and scalability .

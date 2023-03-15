@@ -1,0 +1,14 @@
+### Map Reduce features
+
+MapReduce is a programming model and a software framework for processing large datasets in parallel on multiple nodes of a cluster or a grid. It is based on two functions: map and reduce. The map function takes an input key-value pair and produces a set of intermediate key-value pairs. The reduce function takes an intermediate key and a set of values for that key and produces a set of output key-value pairs. The framework handles the distribution, partitioning, sorting, and aggregation of the data.
+
+Some of the features of MapReduce are:
+
+- **Highly scalable**: MapReduce can handle petabytes of data across thousands of nodes. It can distribute and store the data on multiple servers, and automatically handle node failures and data replication. 
+- **Versatile**: MapReduce can access and process various types of data sources, such as structured, unstructured, or semi-structured data. It can also support different kinds of applications, such as data mining, machine learning, text analysis, image processing, etc. 
+- **Secure**: MapReduce can encrypt the data during transmission and storage, and provide authentication and authorization mechanisms for accessing the data. It can also integrate with existing security frameworks, such as Kerberos. 
+- **Affordable**: MapReduce can run on commodity hardware, which reduces the cost of infrastructure and maintenance. It can also leverage cloud computing platforms, such as Amazon EMR, which offer pay-as-you-go pricing models. 
+- **Fast-paced**: MapReduce can process large volumes of data in a parallel and distributed manner, which reduces the execution time and improves the performance. It can also leverage in-memory computing and caching techniques to speed up the data processing. 
+- **Based on a simple programming model**: MapReduce provides a simple and intuitive programming model, which abstracts the complexity of parallel and distributed computing. The programmers only need to write the map and reduce functions, and the framework takes care of the rest. MapReduce also supports various programming languages, such as Java, Python, C++, Ruby, etc.  
+- **Parallel processing-compatible**: MapReduce can exploit the parallelism inherent in the data and the tasks, and divide the work among multiple nodes. It can also balance the load and optimize the resource utilization of the cluster.  
+- **Reliable**: MapReduce can handle node failures, network errors, and data corruption, and ensure the correctness and completeness of the data processing. It can also provide fault tolerance and recovery mechanisms, such as checkpoints and backups.

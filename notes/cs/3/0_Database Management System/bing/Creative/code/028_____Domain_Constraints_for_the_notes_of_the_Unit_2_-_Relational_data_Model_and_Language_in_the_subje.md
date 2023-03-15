@@ -1,0 +1,23 @@
+### Domain Constraints for the notes of the Unit 2 - Relational data Model and Language in the subject of Database Management System
+
+- Domain constraints are the rules that specify the allowed values for each attribute or column of a relation or table in a relational data model  .
+- Domain constraints ensure the domain integrity, which means that the data in the database is valid and consistent with respect to the data type and format of the attribute .
+- Domain constraints can be defined by the following properties :
+  - Name: The name of the attribute or column.
+  - Data type: The type of data that the attribute can store, such as integer, string, date, etc.
+  - Format: The format or pattern of the data, such as length, precision, scale, etc.
+  - Default value: The value that is assigned to the attribute if no value is specified by the user or application.
+  - Null value: The value that indicates the absence of data or unknown data. Null values are different from zero or empty strings.
+  - Range or set of values: The minimum and maximum values or the list of possible values that the attribute can have.
+- Domain constraints can be enforced by the following methods  :
+  - Data type checking: The DBMS checks that the data entered by the user or application matches the data type of the attribute.
+  - Format checking: The DBMS checks that the data entered by the user or application follows the format or pattern of the attribute.
+  - Range or set checking: The DBMS checks that the data entered by the user or application falls within the range or set of values of the attribute.
+  - Default value assignment: The DBMS assigns the default value to the attribute if no value is specified by the user or application.
+  - Null value handling: The DBMS allows or rejects the null value for the attribute depending on the nullability property of the attribute.
+- Domain constraints are important because they :
+  - Ensure the accuracy and consistency of the data in the database.
+  - Prevent the insertion, update, or deletion of invalid or inconsistent data.
+  - Simplify the validation and verification of the data by the user or application.
+  - Reduce the storage space and processing time by avoiding redundant or unnecessary data.
+  - Facilitate the query and analysis of the data by using standardized and uniform data.

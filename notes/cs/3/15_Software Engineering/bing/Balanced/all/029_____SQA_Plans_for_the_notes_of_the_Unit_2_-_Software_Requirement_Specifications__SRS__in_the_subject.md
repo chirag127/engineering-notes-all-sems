@@ -1,0 +1,15 @@
+# SQA Plans for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- A software quality assurance (SQA) plan is a document that describes the standards, processes, procedures, and tools that will be used to ensure the quality of a software product or service.
+- The purpose of an SQA plan is to define the quality objectives, roles and responsibilities, activities, and deliverables that will ensure that the software meets the requirements and expectations of the stakeholders.
+- An SQA plan should be aligned with the software development life cycle (SDLC) model and the project management plan, and should be reviewed and updated regularly throughout the project.
+- An SQA plan should cover the following topics:
+
+  - Introduction: This section should provide an overview of the software project, its scope, objectives, and deliverables, and the SQA plan's purpose, scope, and audience.
+  - SQA organization: This section should describe the organizational structure and roles and responsibilities of the SQA team and other stakeholders involved in the quality assurance process, such as developers, testers, customers, and users.
+  - SQA activities: This section should list and describe the SQA activities that will be performed throughout the project, such as quality planning, quality control, quality assurance, quality audit, and quality improvement. It should also specify the methods, techniques, and tools that will be used for each activity, such as reviews, inspections, testing, metrics, and standards.
+  - SQA documentation: This section should identify and describe the SQA documents that will be produced, maintained, and used throughout the project, such as SQA plan, SRS, design documents, test plans, test cases, test reports, defect reports, and quality reports. It should also define the format, content, and quality criteria for each document, as well as the document management and control procedures.
+  - SQA resources: This section should estimate and allocate the human, material, and financial resources that will be required for the SQA activities, such as SQA personnel, equipment, software, training, and budget.
+  - SQA schedule: This section should define the milestones, deadlines, and dependencies for the SQA activities, and align them with the project schedule and the SDLC phases.
+  - SQA risks: This section should identify and analyze the potential risks that may affect the quality of the software or the SQA process, such as requirements changes, technical complexity, resource constraints, or external factors. It should also define the risk mitigation and contingency plans for each risk.
+  - SQA evaluation: This section should define the criteria and methods for evaluating the effectiveness and efficiency of the SQA activities and the quality of the software product or service, such as quality metrics, quality audits, customer feedback, and lessons learned. It should also define the corrective and preventive actions that will be taken to address any quality issues or gaps.

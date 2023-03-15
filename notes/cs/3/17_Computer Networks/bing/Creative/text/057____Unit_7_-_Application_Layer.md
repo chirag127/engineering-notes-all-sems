@@ -1,0 +1,7 @@
+## Unit 7 - Application Layer
+
+- The application layer is the highest layer in the network protocol stack that specifies the shared communications protocols and interface methods used by hosts in a communications network .
+- The application layer is not an application itself, but a component within an application that controls the communication method to other devices. It is an abstraction layer service that masks the rest of the application from the transmission process.
+- The application layer relies on all the layers below it to complete its process. It provides services such as data transfer, email, file sharing, web browsing, remote access, network management, etc.
+- The application layer can be divided into two categories: specific and generic. Specific application layer protocols are designed for a particular type of application, such as HTTP for web browsing, SMTP for email, FTP for file transfer, etc. Generic application layer protocols are designed to support a variety of applications, such as TCP and UDP for data transmission, DNS for name resolution, DHCP for dynamic configuration, etc.
+- The benefits of the application layer are that it allows users to interact with and use the network, access data and send data, and use software programs that facilitate communication and sometimes allow users to use different network services. The application layer also enables interoperability and compatibility among different applications and devices by using standard protocols and formats.

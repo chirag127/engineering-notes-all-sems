@@ -1,0 +1,23 @@
+## Unit 2 - Software Requirement Specifications (SRS)
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, and constraints of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and managers of the software project.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts among the stakeholders.
+  - It provides a basis for estimating the cost, time, and resources of the software development.
+  - It facilitates the verification and validation of the software quality.
+  - It serves as a reference for the maintenance and evolution of the software system.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs and expectations of the stakeholders.
+  - Complete: It should cover all the requirements of the software system, without leaving any gaps or redundancies.
+  - Consistent: It should not contain any contradictions or conflicts among the requirements.
+  - Clear: It should be understandable and unambiguous to the intended audience.
+  - Verifiable: It should be testable and measurable by using some criteria or methods.
+  - Modifiable: It should be structured and organized in a way that allows easy changes and updates.
+  - Traceable: It should be able to track the origin and rationale of each requirement, and the impact of any changes on other requirements.
+- The process of developing SRS involves the following steps:
+  - Elicitation: It is the process of gathering the requirements from the stakeholders, such as users, customers, domain experts, etc., by using various techniques, such as interviews, surveys, observation, etc.
+  - Analysis: It is the process of analyzing the elicited requirements to identify the scope, feasibility, risks, and dependencies of the software system, and to resolve any conflicts or inconsistencies among the requirements.
+  - Specification: It is the process of documenting the analyzed requirements in a formal and structured way, using a standard notation or language, such as natural language, UML, etc.
+  - Validation: It is the process of reviewing and verifying the SRS document to ensure that it meets the characteristics of a good SRS, and that it reflects the actual needs and expectations of the stakeholders.
+  - Management: It is the process of controlling and maintaining the SRS document throughout the software development life cycle, by using tools and techniques, such as configuration management, change management, traceability matrix, etc.

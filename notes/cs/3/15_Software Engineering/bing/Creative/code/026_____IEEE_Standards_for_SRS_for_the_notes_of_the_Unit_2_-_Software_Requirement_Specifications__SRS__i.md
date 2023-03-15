@@ -1,0 +1,32 @@
+### IEEE Standards for SRS
+
+- A software requirements specification (SRS) is a description of a software system to be developed. It is modeled after business requirements specification (CONOPS) .
+- The IEEE standard 830, last revised in 1998, has since been replaced by standard ISO/IEC/IEEE 29148:2011, with an update in 2018 . This standard covers the processes and information it recommends for an SRS document, as well as its format .
+- The content and qualities of a good SRS are described by the IEEE standard as follows :
+  - The SRS should specify the external system behavior, that is, the functional and nonfunctional requirements of the software system.
+  - The SRS should also specify the design constraints and assumptions that affect the software system.
+  - The SRS should be consistent, complete, correct, unambiguous, verifiable, modifiable, traceable, and ranked for importance and/or stability.
+  - The SRS should be organized in a logical manner and written in natural language, supplemented by diagrams, tables, and other notations as appropriate.
+- The IEEE standard provides several suggestions of how to organize functional requirements: by mode, user class, object, feature, stimulus, functional hierarchy or combinations of these criteria . There is no single organizational approach that is best; use whatever makes sense for your project .
+- The IEEE standard also provides several sample SRS outlines, such as the following :
+  - Introduction
+    - Purpose
+    - Scope
+    - Definitions, acronyms, and abbreviations
+    - References
+    - Overview
+  - Overall description
+    - Product perspective
+    - Product functions
+    - User characteristics
+    - General constraints
+    - Assumptions and dependencies
+  - Specific requirements
+    - External interface requirements
+    - Functional requirements
+    - Performance requirements
+    - Design constraints
+    - Software system attributes
+    - Other requirements
+  - Appendices
+  - Index

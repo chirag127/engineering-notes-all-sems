@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query for the notes of Unit 8 - MongoDB in the subject of Big Data. Here are some of the main points you should know:
+
+- MongoDB is a NoSQL database that stores data as documents in JSON-like format. It is designed for scalability, performance, and flexibility.
+- MongoDB supports dynamic schema, which means that documents in the same collection can have different fields and structures. This allows for more variety and evolution of data models.
+- MongoDB provides CRUD (create, read, update, delete) operations for manipulating documents. It also supports aggregation, indexing, transactions, replication, sharding, and other features.
+- MongoDB uses a distributed architecture that consists of multiple nodes called mongod. A mongod can act as a standalone server, a member of a replica set, or a shard in a sharded cluster.
+- A replica set is a group of mongod nodes that maintain the same data set and provide high availability and data redundancy. A replica set has a primary node that accepts write operations and one or more secondary nodes that replicate the data from the primary.
+- A sharded cluster is a group of mongod nodes that partition the data across multiple shards, each of which is a replica set. A sharded cluster provides horizontal scaling and load balancing. A sharded cluster also has mongos nodes that act as routers and config servers that store the metadata of the cluster.
+- MongoDB uses BSON (Binary JSON) as its internal data format. BSON is a binary-encoded serialization of JSON-like documents that supports additional data types such as ObjectId, Date, and Binary.
+- MongoDB provides drivers and tools for various programming languages and platforms, such as Java, Python, Node.js, C#, Ruby, PHP, and more. It also has a shell and a GUI called MongoDB Compass for interacting with the database.
+- MongoDB follows a schema-less design, which means that it does not enforce any predefined structure or constraints on the data. However, it is possible to use schema validation and document modeling techniques to ensure data quality and consistency.

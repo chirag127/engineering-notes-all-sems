@@ -1,0 +1,8 @@
+### Uniform Quantizer
+
+- A uniform quantizer is a type of scalar quantizer that maps a continuous range of input values into a finite set of output levels with equal spacing.
+- A uniform quantizer can be characterized by its step size $\Delta$, which is the distance between two adjacent output levels, and its number of output levels $M$, which is related to the bit rate $R$ by $M = 2^R$.
+- A uniform quantizer can be either mid-tread or mid-rise, depending on whether the output levels include zero or not. A mid-tread quantizer has a zero output level and an odd number of output levels, while a mid-rise quantizer has a non-zero output level and an even number of output levels.
+- A uniform quantizer can be applied to the feature maps between the encoder and decoder of a deep learning based image compression framework, where the quantized feature maps are further entropy coded to reduce the bit rate.
+- A uniform quantizer can achieve optimal performance in the high bit rate regime, where the quantization error is small compared to the input variance and the entropy coding is nearly lossless. In this regime, the distortion-rate function of a uniform quantizer is given by $D(R) \approx \frac{\Delta^2}{12} = \frac{\sigma_x^2}{12 \cdot 2^{2R}}$, where $\sigma_x^2$ is the input variance.
+- A uniform quantizer can suffer from poor performance in the low bit rate regime, where the quantization error is large compared to the input variance and the entropy coding is inefficient. In this regime, the distortion-rate function of a uniform quantizer is given by $D(R) \approx \frac{\sigma_x^2}{M} = \frac{\sigma_x^2}{2^R}$, which is far from the optimal performance bound given by the rate-distortion function.

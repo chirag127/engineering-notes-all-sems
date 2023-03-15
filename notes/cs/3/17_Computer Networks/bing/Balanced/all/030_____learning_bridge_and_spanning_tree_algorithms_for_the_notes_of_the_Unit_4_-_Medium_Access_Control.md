@@ -1,0 +1,24 @@
+# Learning Bridge and Spanning Tree Algorithms
+
+- A bridge is a device that connects two or more LAN segments and forwards frames between them based on the MAC addresses of the frames.
+- A bridge operates at the data link layer of the OSI model and can filter, forward, or flood frames based on their destination MAC addresses.
+- A bridge can also learn the MAC addresses of the devices connected to its ports by examining the source MAC addresses of the frames it receives.
+- A bridge can create a loop-free topology by blocking some of its ports using the spanning tree protocol (STP).
+- The spanning tree protocol is a network protocol that builds a loop-free logical topology for Ethernet networks by selecting a root bridge and a set of designated ports that form a spanning tree.
+- The spanning tree is a subset of the physical topology that connects all the bridges and LAN segments without creating any loops.
+- The spanning tree protocol uses bridge protocol data units (BPDUs) to exchange information among bridges and to run a distributed algorithm to find the minimal spanning tree in the network.
+- A BPDU is a data message that contains the bridge ID, the port ID, the path cost, and the root ID of the bridge that sends it.
+- The root ID is the bridge ID of the bridge that the sender believes to be the root bridge of the network.
+- The root bridge is the bridge with the lowest bridge ID among all the bridges in the network. The bridge ID consists of a priority value and a MAC address.
+- The path cost is the cumulative cost of the links from the sender to the root bridge. The cost of a link depends on its bandwidth and can be assigned manually or automatically.
+- The port ID is a unique identifier for each port of a bridge. It consists of a priority value and a port number.
+- The spanning tree protocol works as follows:
+  - Each bridge broadcasts a BPDU out of all its ports periodically (every 2 seconds by default) and processes the BPDUs it receives from other bridges.
+  - Each bridge compares the BPDUs it receives with its own BPDU and updates its root ID, path cost, and designated ports accordingly.
+  - A designated port is a port that has the lowest path cost to the root bridge among all the ports on the same LAN segment. A designated port forwards frames to and from the root bridge.
+  - A bridge updates its root ID to the lowest root ID it receives in a BPDU. If the root ID is equal to its own bridge ID, the bridge becomes the root bridge of the network.
+  - A bridge updates its path cost to the lowest path cost it receives in a BPDU plus the cost of the port that receives the BPDU. If the path cost is equal to the cost of the port that connects to the root bridge, the bridge becomes a root port of the network.
+  - A bridge updates its designated ports by comparing the BPDUs it receives on each port with its own BPDU. If the BPDU on a port has a lower root ID, a lower path cost, or a lower sender bridge ID than the bridge's own BPDU, the port becomes a designated port. Otherwise, the port becomes a non-designated port and is blocked by the bridge.
+  - The process of updating the root ID, path cost, and designated ports continues until the network converges to a stable state, where no more changes occur in the BPDUs.
+  - The result is a spanning tree that connects all the bridges and LAN segments without creating any loops. The root bridge has all its ports as designated ports. The non-root bridges have one root port and zero or more designated ports. The non-designated ports are blocked and do not forward any frames.
+  - The spanning tree protocol is dynamic, so if a link failure or a topology change occurs, the bridges detect the change and recompute the spanning tree accordingly. The bridges use timers and flags in the BPDUs to detect and notify changes in the network.

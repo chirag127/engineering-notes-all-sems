@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of precedence constraints and data dependency for the unit 1 - introduction of real time system in the subject of real time system.
+
+### Precedence Constraints and Data Dependency
+
+- Precedence constraints are the restrictions on the order of execution of jobs in a real time system. They are usually represented by a directed graph called a precedence graph, where the vertices are the jobs and the edges are the constraints. For example, if job J1 must finish before job J2 can start, then there is an edge from J1 to J2 in the graph  .
+- Data dependency is the situation where the output of one job is used as the input of another job in a real time system. Data dependency can affect the schedulability and correctness of the system, as it may introduce delays or inconsistencies in the data flow. Data dependency cannot be captured by a precedence graph, as it does not imply a fixed order of execution. For example, if job J1 produces data that is consumed by job J2 and job J3, then there is no precedence constraint between J2 and J3, but there is a data dependency .
+- Precedence constraints and data dependency are important factors to consider when designing and analyzing real time systems, as they can affect the feasibility, performance, and reliability of the system. Some of the challenges and techniques related to these factors are:
+  - How to model and represent the precedence constraints and data dependency in a real time system  .
+  - How to schedule the jobs in a real time system with precedence constraints and data dependency, such that the deadlines and the data quality are met .
+  - How to handle the synchronization and communication issues among the jobs in a real time system with precedence constraints and data dependency, such as mutual exclusion, deadlock, and data consistency .
+  - How to test and verify the correctness and robustness of a real time system with precedence constraints and data dependency, such as detecting and resolving conflicts, errors, and faults .

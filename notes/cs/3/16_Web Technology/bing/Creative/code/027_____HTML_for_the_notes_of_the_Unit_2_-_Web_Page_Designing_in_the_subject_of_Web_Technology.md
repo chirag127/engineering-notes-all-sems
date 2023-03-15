@@ -1,0 +1,24 @@
+### HTML for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- HTML stands for Hyper Text Markup Language, which is the code that is used to structure a web page and its content .
+- HTML consists of a series of elements, which are used to enclose, or wrap, different parts of the content to make it appear or act a certain way.
+- HTML elements are made up of two tags: an opening tag and a closing tag, with the content in between. For example, `<p>This is a paragraph.</p>` .
+- HTML elements can have attributes, which are additional information that modify or describe the element. Attributes are specified in the opening tag, using a name-value pair separated by an equal sign. For example, `<img src="image.jpg" alt="A picture">` .
+- HTML elements can be nested, which means that one element can contain another element inside it. For example, `<p>This is a <strong>bold</strong> word.</p>` .
+- HTML documents have a basic structure that consists of a `<!DOCTYPE>` declaration, a `<html>` element, a `<head>` element, and a `<body>` element .
+- The `<!DOCTYPE>` declaration tells the browser which version of HTML the document is using. For HTML5, the declaration is `<!DOCTYPE html>` .
+- The `<html>` element is the root element that contains all the other elements in the document .
+- The `<head>` element contains metadata, which is information about the document that is not displayed on the web page. For example, the `<title>` element specifies the title of the document that appears on the browser tab .
+- The `<body>` element contains the content that is displayed on the web page, such as text, images, links, etc .
+- Some of the common HTML elements that are used to create web pages are  :
+  - `<h1>` to `<h6>`: Heading elements that define the titles and subtitles of the content. The lower the number, the larger and more important the heading.
+  - `<p>`: Paragraph element that defines a block of text.
+  - `<img>`: Image element that embeds an image into the web page. It has two required attributes: `src`, which specifies the URL of the image, and `alt`, which provides a text alternative for the image.
+  - `<a>`: Anchor element that defines a hyperlink to another web page or resource. It has a required attribute: `href`, which specifies the URL of the link destination.
+  - `<ul>` and `<ol>`: Unordered list and ordered list elements that define a list of items. They contain one or more `<li>` elements, which define each list item.
+  - `<table>`: Table element that defines a table of data. It contains one or more `<tr>` elements, which define each table row. Each `<tr>` element contains one or more `<td>` elements, which define each table cell.
+  - `<div>` and `<span>`: Division and span elements that define generic containers for grouping other elements. They are often used with CSS to style and position the elements.
+  - `<form>`: Form element that defines a form for collecting user input. It contains one or more `<input>` elements, which define various types of input fields, such as text, checkbox, radio, etc. It also has an attribute: `action`, which specifies the URL of the server-side script that processes the form data.
+  - `<script>`: Script element that defines a script to be executed by the browser, such as JavaScript. It can have an attribute: `src`, which specifies the URL of the external script file, or it can contain the script code directly between the tags.
+  - `<style>`: Style element that defines a style sheet to be applied to the HTML elements, such as CSS. It can contain the style rules directly between the tags, or it can have an attribute: `href`, which specifies the URL of the external style sheet file.
+- HTML comments are used to add notes or explanations to the HTML code, which are ignored by the browser. HTML comments start with `<!--

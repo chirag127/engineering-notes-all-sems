@@ -1,0 +1,9 @@
+# Multi-resolution Approaches
+
+- Multi-resolution approaches are methods that use different levels of resolution or detail to represent or process data, such as images, vectors, or fluids.
+- Multi-resolution approaches can improve the performance, efficiency, and accuracy of data compression by exploiting the properties of different scales and frequencies in the data.
+- Some examples of multi-resolution approaches for data compression are:
+
+  - **Multiresolution vector data compression**: This method uses a quadtree structure to partition the vector data into blocks of different sizes and shapes, and then applies a linear approximation algorithm to each block. The compression efficiency is further improved by grid filtering and binary offset for linear and point geometries. This method can achieve visual lossless compression for vector spatial data.
+  - **Multi-resolution fractal image compression**: This method combines wavelet and fractal transforms to compress images. Wavelet transform decomposes the image into subbands of different frequencies, and fractal transform encodes the self-similarity of the image across scales. This method can reduce the blocking artifacts and image blurring of conventional fractal compression algorithms, and improve the quality of the reconstructed image.
+  - **Multi-resolution method for compressible multi-phase flows**: This method uses a wavelet-based adaptive mesh refinement technique to simulate the dynamics of fluids with different phases and densities. The method employs a sharp interface model to track the interface between the phases, and adapts the mesh resolution according to the local features of the flow. This method can reduce the memory and CPU time requirements, and capture the complex phenomena of multi-phase flows.

@@ -1,0 +1,26 @@
+# Unit 3 - Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database system.
+- Database normalization is a technique of database design that reduces data redundancy and dependency by splitting a large table into smaller tables and defining relationships between them.
+- The main benefits of database normalization are:
+  - Improved data integrity and consistency
+  - Reduced data anomalies and errors
+  - Enhanced query performance and efficiency
+  - Simplified database maintenance and modification
+- The main drawbacks of database normalization are:
+  - Increased complexity and overhead of joining multiple tables
+  - Possible loss of information or performance in some cases
+  - Trade-off between normalization and denormalization depending on the application requirements
+- There are several levels or forms of database normalization, each with a specific set of rules and criteria to check and improve the quality of a database schema. The most common forms are:
+  - First Normal Form (1NF): A table is in 1NF if it has no repeating groups or multivalued attributes, and each attribute is atomic and indivisible.
+  - Second Normal Form (2NF): A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key, meaning it cannot be determined by a subset of the primary key.
+  - Third Normal Form (3NF): A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key, meaning it cannot be determined by another non-key attribute.
+  - Boyce-Codd Normal Form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key, meaning there are no partial or transitive dependencies on non-key attributes.
+  - Fourth Normal Form (4NF): A table is in 4NF if it is in BCNF and has no multivalued dependencies, meaning there are no attributes that depend on a set of attributes rather than a single attribute.
+  - Fifth Normal Form (5NF): A table is in 5NF if it is in 4NF and has no join dependencies, meaning it cannot be decomposed into smaller tables without losing information.
+- The process of database normalization involves the following steps:
+  - Identify the functional dependencies and candidate keys of a table
+  - Check the table against each normal form and identify any violations
+  - Decompose the table into smaller tables that satisfy the normal form
+  - Define the primary keys and foreign keys of the new tables
+  - Repeat the process for each new table until the desired level of normalization is achieved

@@ -1,0 +1,14 @@
+### CALIC
+- CALIC stands for **Context-based, Adaptive, Lossless Image Coding**  .
+- It is a technique for compressing continuous-tone images without any loss of quality or information  .
+- It achieves high coding efficiency with relatively low time and space complexities  .
+- It can also be applied to compress compound video, which consists of computer screen data and natural video.
+- The main steps of CALIC are :
+  - Image data modeling: It uses a large number of modeling contexts to condition a non-linear predictor and make it adaptive to varying source statistics. The non-linear predictor adapts via an error feedback mechanism.
+  - Entropy coding: It uses a Golomb-Rice code to encode the prediction errors. The code parameter is also adaptive to the local statistics of the errors.
+  - Context quantization: It reduces the number of contexts by grouping them into a smaller number of classes based on their similarity. This reduces the overhead of storing the context information.
+- The advantages of CALIC are :
+  - It can handle various types of images, such as natural, synthetic, medical, etc.
+  - It can exploit both the spatial and the spectral correlations in the image data.
+  - It can adapt to the local characteristics of the image data and achieve optimal prediction and coding.
+  - It can achieve higher compression ratios than other lossless image coding techniques, such as JPEG-LS, PNG, etc.

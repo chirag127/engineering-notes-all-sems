@@ -1,0 +1,8 @@
+### Schedulers for the notes of the Unit 6 - Hadoop Eco System and YARN in the subject of Big Data
+
+- Schedulers are algorithms that allocate resources to applications running on a Hadoop cluster based on some criteria, such as fairness, capacity, priority, etc.   
+- Schedulers are pluggable components that can be configured in the YARN configuration file. YARN stands for Yet Another Resource Negotiator, which is the resource management layer of Hadoop.  
+- There are three main types of schedulers in Hadoop: FIFO (First In First Out), Capacity, and Fair. 
+- FIFO scheduler: This is the simplest and default scheduler in Hadoop. It assigns resources to applications in the order of their submission, without considering any other factors. It is suitable for small clusters with few applications. 
+- Capacity scheduler: This scheduler allows multiple queues to be created, each with a configurable capacity and priority. The capacity of a queue is the percentage of resources that are guaranteed for the applications in that queue. The priority of a queue determines the order of resource allocation among the queues. The capacity scheduler also supports sub-queues, preemption, and access control lists. It is suitable for large clusters with multiple tenants and diverse workloads.  
+- Fair scheduler: This scheduler aims to provide fair sharing of resources among applications, regardless of the queue they belong to. It dynamically adjusts the resource allocation based on the demand and the configured weights of the applications. It also supports hierarchical queues, preemption, and reservation. It is suitable for clusters with mixed workloads and high utilization.

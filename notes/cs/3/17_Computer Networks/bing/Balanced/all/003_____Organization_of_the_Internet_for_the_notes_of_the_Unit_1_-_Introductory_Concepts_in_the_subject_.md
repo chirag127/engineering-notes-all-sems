@@ -1,0 +1,12 @@
+# Organization of the Internet
+
+The Internet is the world's largest computer network. It is a global system of interconnected computing devices that can communicate and exchange data using common protocols and standards.
+
+The organization of the Internet can be understood at different levels, such as:
+
+- **Computer and network hardware**: This level involves the physical devices and components that make up the Internet, such as routers, switches, cables, servers, and end-user devices. These devices are responsible for transmitting, receiving, and processing data packets across the network.
+- **Internet access and Internet service providers (ISPs)**: This level involves the companies and organizations that provide services for users to connect to the Internet. ISPs can control and regulate how people use the Internet, such as by setting bandwidth limits, filtering content, or charging fees. ISPs can also connect to each other through peering agreements or transit arrangements to exchange traffic and ensure connectivity.
+- **Navigation within the Internet**: This level involves the methods and tools that help users find and access information and resources on the Internet, such as domain names, IP addresses, URLs, search engines, and web browsers. These methods and tools rely on protocols and standards that enable the identification, location, and retrieval of data on the network.
+- **Network architecture**: This level involves the design and structure of the network, such as how computers are organized, what tasks are assigned to them, and how they communicate. Network architecture components include hardware, software, transmission media (wired or wireless), network topology, and communications protocols. Network topology refers to the shape and arrangement of the network, such as bus, ring, star, or mesh. Communications protocols are the rules and conventions that govern the exchange of data, such as TCP/IP, HTTP, FTP, or SMTP.
+
+The organization of the Internet is not static or centralized, but dynamic and distributed. It is constantly evolving and adapting to new technologies, demands, and challenges. It is also influenced by various factors, such as politics, economics, culture, and ethics. Therefore, the Internet is not a single entity, but a complex and diverse network of networks.

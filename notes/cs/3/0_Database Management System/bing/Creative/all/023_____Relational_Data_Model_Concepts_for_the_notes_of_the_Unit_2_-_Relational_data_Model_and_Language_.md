@@ -1,0 +1,11 @@
+# Relational Data Model Concepts
+
+The relational data model is a widely used data model for storing and processing data in a database. It is based on the concept of relations, which are logical structures that represent data as a collection of rows and columns. Each row in a relation is called a tuple, and each column is called an attribute. A relation has a name and a set of attributes that define its schema. The schema of a relation is also called its degree, and the number of tuples in a relation is called its cardinality.
+
+Some of the major concepts of the relational data model are:
+
+- **Primary key**: A primary key is an attribute or a set of attributes that uniquely identifies each tuple in a relation. A primary key cannot have null values or duplicate values. A relation can have only one primary key, which is also called the primary key constraint.
+- **Foreign key**: A foreign key is an attribute or a set of attributes that references the primary key of another relation. A foreign key establishes a link between two relations, which is also called a relationship. A foreign key can have null values or duplicate values, but it must match the values of the referenced primary key, which is also called the referential integrity constraint.
+- **Domain**: A domain is a set of possible values for an attribute. A domain defines the data type, format, and range of values for an attribute. A domain can be predefined or user-defined, and it can be shared by multiple attributes.
+- **Null**: A null is a special value that indicates the absence of data or unknown data for an attribute. A null is not the same as zero or an empty string, and it cannot be compared with other values. A null can be allowed or disallowed for an attribute, depending on the business rules and data requirements.
+- **View**: A view is a virtual relation that is derived from one or more base relations. A view does not store data physically, but it provides a logical representation of data that can be queried and manipulated. A view can be used to hide the complexity of the underlying data, to restrict the access to the data, or to provide a different perspective of the data.

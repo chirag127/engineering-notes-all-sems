@@ -1,0 +1,22 @@
+### DTD for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- DTD stands for Document Type Definition.
+- It is a set of markup declarations that define a document type for an SGML-family markup language (SGML, XML, HTML).
+- A DTD defines the valid building blocks of an XML document.
+- It defines the document structure with a list of legal elements and attributes.
+- A DTD can be declared inline in your XML document, or as an external reference.
+- XML uses a subset of SGML DTD.
+- Using DTDs ensures that your XML data is structured correctly and can be validated against a predefined set of rules.
+- DTDs are important for data exchange, as they provide a common structure for different applications to share data.
+- There are two types of DTDs: internal and external.
+- An internal DTD is included in the XML document itself, while an external DTD is stored in a separate file and referenced by the XML document.
+- DTDs can be used to define the structure of XML documents, as well as to validate the content of those documents.
+- DTDs are written in a syntax that is similar to XML, but with some differences.
+- DTDs use a set of declarations to define elements, attributes, entities, and notations.
+- Elements are the building blocks of an XML document, and are defined using the `<!ELEMENT>` declaration.
+- Attributes provide additional information about elements, and are defined using the `<!ATTLIST>` declaration.
+- Entities are used to define shortcuts for commonly used text or special characters, and are defined using the `<!ENTITY>` declaration.
+- Notations are used to identify the format of non-XML data, and are defined using the `<!NOTATION>` declaration.
+- DTDs can be used to specify the order and nesting of elements, as well as the data types and default values of attributes.
+- DTDs can also be used to define the relationship between elements, using the `+`, `*`, `?`, and `|` operators.
+- DTDs provide a way to ensure that XML documents are well-formed and valid, and can be used to enforce business rules and data integrity.

@@ -1,0 +1,26 @@
+# The syntactic specification of programming languages
+
+- The syntax of a programming language defines the **form** and **structure** of the source code that can be written in that language. It specifies the rules for creating **valid** and **meaningful** sentences or statements in the language.  
+- The syntax of a programming language can be described at three levels: 
+  - **Lexical level**: This level determines how characters form **tokens**, which are the basic components of the source code. Tokens can be identifiers, operators, constants, separators, or reserved words. Each token has a specific pattern or rule that defines its valid characters and length. For example, in C, an identifier can start with a letter or an underscore, followed by any number of letters, digits, or underscores, and cannot be a reserved word.
+  - **Grammatical level**: This level determines how tokens form **phrases**, which are the syntactic units of the language. Phrases can be expressions, statements, declarations, or commands. Each phrase has a specific structure or rule that defines its valid tokens and their order. For example, in C, an assignment statement has the form `identifier = expression;`, where `identifier` and `expression` are phrases, and `=` and `;` are tokens.
+  - **Contextual level**: This level determines the **meaning** and **validity** of the phrases in the language. It checks the **naming conventions**, **type compatibility**, **scope rules**, and **semantic constraints** of the phrases. For example, in C, a variable must be declared before it is used, and its type must match the type of the expression assigned to it.
+- The syntax of a programming language can be specified using different methods, such as **formal grammars**, **syntax diagrams**, or **metasyntax notations**.  
+  - **Formal grammars**: A formal grammar is a set of rules that defines the syntax of a language using **symbols** and **productions**. A symbol can be a **terminal** (a token) or a **nonterminal** (a phrase). A production is a rule that specifies how a nonterminal can be replaced by a sequence of symbols. For example, a grammar for arithmetic expressions can have the following symbols and productions:
+
+    - Symbols: `E` (expression), `T` (term), `F` (factor), `+` (plus), `-` (minus), `*` (multiply), `/` (divide), `(` (left parenthesis), `)` (right parenthesis), `num` (number)
+    - Productions: `E -> E + T | E - T | T`, `T -> T * F | T / F | F`, `F -> ( E ) | num`
+  - **Syntax diagrams**: A syntax diagram is a graphical representation of the syntax of a language using **boxes**, **lines**, and **symbols**. A box represents a nonterminal, a line represents a sequence of symbols, and a symbol represents a terminal or another nonterminal. For example, a syntax diagram for arithmetic expressions can have the following boxes, lines, and symbols:
+
+    ```
+    E ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+      │                                                                                                                                                                                                                                                               │
+      └─┬─ T ─┬─┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬─┘
+        │     │ │                                                                                                                                                                                                                                                     │
+        └─ + ─┘ └─ - ─┘
+    T ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+      │                                                                                                                                                                                                                                                               │
+      └─┬─ F ─┬─┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬─┘
+        │     │ │                                                                                                                                                                                                                                                     │
+        └─ * ─┘ └─ / ─┘
+    F ┌────────

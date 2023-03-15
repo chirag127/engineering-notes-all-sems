@@ -1,0 +1,15 @@
+# DFT, DCT for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- DFT stands for Discrete Fourier Transform, which is a mathematical operation that transforms a discrete sequence of values into another domain, such as frequency or spatial domain. DFT can be used to analyze the frequency components of an image, or to perform filtering, enhancement, or compression of an image.
+- DCT stands for Discrete Cosine Transform, which is a special case of DFT, where the input sequence is assumed to be real and even. DCT can be used to transform an image into a domain where most of the energy is concentrated in a few coefficients, which makes it suitable for image compression. DCT is widely used in JPEG and other image compression standards.
+- Some of the basic differences between DFT and DCT are:
+  - DFT is complex, while DCT is real. This means that DCT requires less storage and computation than DFT.
+  - DFT is symmetric, while DCT is asymmetric. This means that DCT can exploit the redundancy in the image better than DFT.
+  - DFT has poor energy compaction, while DCT has excellent energy compaction. This means that DCT can represent an image with fewer coefficients than DFT, which reduces the amount of data to be transmitted or stored.
+- Some of the advantages of using DFT and DCT for image processing are:
+  - DFT and DCT can separate the low-frequency and high-frequency components of an image, which can be useful for image enhancement, restoration, or segmentation.
+  - DFT and DCT can reduce the noise and artifacts in an image, by discarding or attenuating the coefficients that correspond to the noisy or irrelevant frequencies.
+  - DFT and DCT can reduce the dimensionality of an image, by retaining only the most significant coefficients that capture the essential features of the image. This can improve the efficiency and performance of image processing algorithms, such as classification, recognition, or retrieval.
+- Some of the methods to compute DFT and DCT for an image are:
+  - DFT can be computed using the Fast Fourier Transform (FFT) algorithm, which reduces the complexity of the computation from O(N^2) to O(N log N), where N is the number of pixels in the image. FFT can be applied to any size of image, but it is more efficient when the image size is a power of 2.
+  - DCT can be computed using a similar algorithm to FFT, which is called Fast Cosine Transform (FCT). FCT can also reduce the complexity of the computation from O(N^2) to O(N log N), but it requires the image size to be a power of 2. Alternatively, DCT can be computed using a DCT transform matrix, which is a matrix that contains the cosine values for each pair of pixels. The DCT transform matrix can be applied to any size of image, but it might be more efficient for small square images, such as 8-by-8 or 16-by-16.

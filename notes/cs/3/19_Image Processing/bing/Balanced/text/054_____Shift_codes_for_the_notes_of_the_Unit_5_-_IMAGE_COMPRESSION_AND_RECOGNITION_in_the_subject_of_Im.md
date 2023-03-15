@@ -1,0 +1,8 @@
+### Shift codes for the notes of the Unit 5 - IMAGE COMPRESSION AND RECOGNITION in the subject of Image Processing
+
+- Shift codes are a type of variable-length codes that use a fixed number of bits to represent the most frequent symbols and a variable number of bits to represent the less frequent symbols.
+- Shift codes are also known as prefix codes, because no code is a prefix of another code, which ensures that the codes are uniquely decodable.
+- Shift codes can be constructed using a binary tree, where each node represents a symbol and its code is the path from the root to the node. The left branch is labeled 0 and the right branch is labeled 1.
+- Shift codes can be optimal, meaning that they minimize the average code length for a given probability distribution of symbols. One example of an optimal shift code is the Huffman code, which assigns shorter codes to more probable symbols and longer codes to less probable symbols.
+- Shift codes can be used for image compression, because they can reduce the number of bits needed to represent an image, especially if the image has a skewed histogram or a small number of distinct gray levels.
+- Shift codes can also be used for image recognition, because they can encode the features or patterns of an image in a compact and discriminative way. One example of a shift code for image recognition is the local binary pattern (LBP), which assigns a code to each pixel based on the comparison of its intensity with its neighbors.

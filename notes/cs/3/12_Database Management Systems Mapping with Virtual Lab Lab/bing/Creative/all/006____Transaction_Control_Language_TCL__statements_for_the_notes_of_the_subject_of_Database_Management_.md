@@ -1,0 +1,9 @@
+# Transaction Control Language(TCL) statements for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+
+- Transaction Control Language (TCL) is a language that manages transactions within the database. Transactions are a sequence of operations that are performed as a single logical unit of work. Transactions ensure the consistency and integrity of the database by following the ACID properties (Atomicity, Consistency, Isolation, and Durability).
+- TCL commands are used to execute, save, or undo the changes made by the Data Manipulation Language (DML) statements, such as INSERT, UPDATE, or DELETE. TCL commands also allow the statements to be grouped together into logical transactions.
+- The main TCL commands are:
+  - COMMIT: This command saves all the changes made by the DML statements in the current transaction to the database. It also ends the current transaction and starts a new one. COMMIT ensures that the database state is changed from one consistent state to another consistent state.
+  - ROLLBACK: This command undoes all the changes made by the DML statements in the current transaction and restores the database to its previous state. It also ends the current transaction and starts a new one. ROLLBACK ensures that the database state remains consistent in case of any error or failure.
+  - SAVEPOINT: This command creates a named point in the current transaction that can be used to roll back to a specific state within the transaction. It allows partial undoing of the changes made by the DML statements. SAVEPOINTs can be nested within a transaction.
+  - SET TRANSACTION: This command sets the characteristics of the current transaction, such as the isolation level, the read/write mode, or the name. It must be the first statement of a transaction. SET TRANSACTION ensures that the transaction is executed according to the specified parameters.

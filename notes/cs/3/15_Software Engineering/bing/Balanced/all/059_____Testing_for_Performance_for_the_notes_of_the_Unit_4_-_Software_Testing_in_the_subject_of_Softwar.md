@@ -1,0 +1,27 @@
+# Testing for Performance
+
+- Testing for performance is a type of software testing that ensures software applications to perform properly under their expected workload.
+- It is a subset of performance engineering, which is a continuous process that is embedded in all phases of the software development cycle.
+- The main purpose of testing for performance is to identify and eliminate the performance bottlenecks in the software application.
+- The focus of testing for performance is checking a software program's speed, scalability, reliability, and resource usage.
+- There are different types of testing for performance, such as:
+  - Load testing: testing the system under a specific load of concurrent users or transactions.
+  - Stress testing: testing the system beyond its normal capacity to check its robustness and stability.
+  - Endurance testing: testing the system for a long duration of time to check its performance degradation.
+  - Spike testing: testing the system with sudden and extreme variations in the load.
+  - Volume testing: testing the system with a large amount of data in the database or file system.
+  - Scalability testing: testing the system's ability to scale up or down according to the demand.
+- To perform testing for performance, developers can use the following steps :
+  - Identify the testing environment: the hardware, software, network configurations and tools available for the testing team.
+  - Identify the performance acceptance criteria: the performance goals and objectives that the system must meet or exceed.
+  - Plan and design performance tests: the test scenarios, test cases, test data, and test scripts that will simulate the expected workload and user behavior.
+  - Configure the test environment: the setup and calibration of the testing tools and the system under test.
+  - Implement test design: the execution of the test scripts and the collection of the performance metrics.
+  - Run the tests: the monitoring and analysis of the test results and the identification of the performance issues and bottlenecks.
+  - Analyze, tune and retest: the optimization of the system performance by applying changes to the code, configuration, or architecture, and the verification of the improvement by repeating the tests.
+- Some of the performance testing metrics that are monitored and measured are :
+  - Response time: the time taken by the system to respond to a user request.
+  - Throughput: the amount of data transferred by the system per unit of time.
+  - Resource utilization: the percentage of CPU, memory, disk, or network resources used by the system or its components.
+  - Error rate: the number or percentage of errors or failures encountered by the system or its users.
+  - Availability: the percentage of time that the system is operational and accessible to the users.

@@ -1,0 +1,11 @@
+### A brief history of screen design
+
+- Screen design is the process of creating visual interfaces for digital devices, such as computers, smartphones, and tablets.
+- Screen design has evolved over time, influenced by technological, cultural, and aesthetic factors.
+- Some of the major milestones in the history of screen design are:
+
+  - The first screen displays were attached to computers in the 1950s, using cathode ray tubes (CRTs) that emitted beams of electrons onto phosphor-coated screens. These screens could only display monochrome text and simple graphics, and had low resolution and refresh rates.
+  - In the 1970s, graphical user interfaces (GUIs) were developed, allowing users to interact with computers using icons, menus, windows, and pointers. The first GUI was created by researchers at Xerox PARC, and later popularized by Apple and Microsoft. GUIs enabled more complex and intuitive screen designs, but also required more memory and processing power.
+  - In the 1980s and 1990s, screen design became more diverse and creative, as different platforms and applications emerged, such as desktop publishing, video games, multimedia, and the World Wide Web. Screen designers experimented with typography, color, animation, sound, and interactivity, and adopted principles and practices from graphic design, art, and psychology.
+  - In the 2000s and 2010s, screen design faced new challenges and opportunities, as screens became smaller, thinner, brighter, and more ubiquitous. Mobile devices, such as smartphones and tablets, introduced new modes of interaction, such as touch, gesture, and voice. Screen designers had to consider the context, content, and user needs of different devices and scenarios, and create responsive and adaptive screen designs that could adjust to different screen sizes and orientations.
+  - In the 2020s and beyond, screen design is expected to continue to evolve and innovate, as new technologies and trends emerge, such as augmented reality, virtual reality, artificial intelligence, and biometric authentication. Screen designers will have to create immersive and engaging screen experiences that can blend the physical and digital worlds, and cater to the diverse and dynamic needs and preferences of users.

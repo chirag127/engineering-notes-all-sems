@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on digital image fundamentals. Here are some components for the notes of Unit 1:
+
+# DIGITAL IMAGE FUNDAMENTALS
+
+- **Elements of visual perception**: The human visual system and how it perceives images, including the structure and function of the eye, the photoreceptors, the visual pathways, the brightness adaptation and discrimination, the Mach bands, the simultaneous and successive contrast, and the spatial and frequency response.
+- **Light and the electromagnetic spectrum**: The nature and properties of light and electromagnetic radiation, including the wavelength, frequency, energy, and spectrum of electromagnetic waves, the visible and invisible regions, the color models and spaces, and the color matching and mixing.
+- **Image sampling and quantization**: The process of converting a continuous image into a discrete digital image, including the concepts of sampling, quantization, pixels, resolution, aliasing, and reconstruction.
+- **Basic relationships between pixels**: The spatial and intensity relationships between pixels in a digital image, including the concepts of neighbors, connectivity, distance measures, regions, boundaries, and adjacency.
+- **Image enhancement in the spatial domain**: The techniques of modifying the pixel values of a digital image to improve its appearance or quality, including the concepts of point processing, histogram processing, spatial filtering, smoothing, sharpening, and edge detection.
+- **Image enhancement in the frequency domain**: The techniques of transforming a digital image into its frequency components and modifying them to enhance the image, including the concepts of Fourier transform, frequency domain filtering, low-pass, high-pass, and band-pass filters, and image restoration.
+- **Image compression**: The techniques of reducing the amount of data required to represent a digital image, including the concepts of redundancy, compression ratio, lossy and lossless compression, entropy, Huffman coding, run-length coding, and transform coding.
+- **Image segmentation**: The techniques of dividing a digital image into meaningful regions or objects, including the concepts of thresholding, region-based segmentation, edge-based segmentation, and clustering.
+- **Representation and description**: The techniques of representing and describing the regions or objects in a segmented image, including the concepts of boundary following, chain codes, polygonal approximation, signatures, skeletons, boundary descriptors, regional descriptors, and moments.
+- **Object recognition**: The techniques of identifying and classifying the regions or objects in an image, including the concepts of patterns, features, classifiers, decision boundaries, and recognition strategies.

@@ -1,0 +1,28 @@
+### Elementary Data Link Protocols
+
+- Protocols in the data link layer are designed to perform the basic functions of framing, error control and flow control.
+- Framing is the process of dividing bit-streams from the physical layer into data frames whose size ranges from a few hundred to a few thousand bytes.
+- Error control is the process of detecting and correcting errors that may occur during transmission or reception of data frames.
+- Flow control is the process of regulating the rate of data transmission between the sender and the receiver to avoid congestion or buffer overflow.
+- Elementary data link protocols are classified into three categories, based on the direction and timing of data transmission:
+  - Protocol 1: Unrestricted simplex protocol
+    - This protocol allows the sender to transmit data frames continuously without waiting for any feedback from the receiver.
+    - The receiver does not send any acknowledgment or negative acknowledgment to the sender.
+    - This protocol is suitable for applications where data loss is acceptable or negligible, such as audio or video streaming.
+    - The main advantage of this protocol is its simplicity and high throughput.
+    - The main disadvantage of this protocol is its lack of error and flow control mechanisms.
+  - Protocol 2: Simplex stop-and-wait protocol
+    - This protocol allows the sender to transmit one data frame at a time and wait for an acknowledgment from the receiver before sending the next frame.
+    - The receiver sends an acknowledgment (ACK) if the frame is received correctly, or a negative acknowledgment (NAK) if the frame is corrupted or lost.
+    - The sender retransmits the frame if it does not receive an ACK within a specified time limit, or if it receives a NAK.
+    - This protocol is suitable for applications where data reliability is important, such as file transfer or email.
+    - The main advantage of this protocol is its error control mechanism.
+    - The main disadvantage of this protocol is its low throughput and inefficient use of bandwidth.
+  - Protocol 3: Simplex protocol for a noisy channel
+    - This protocol is an improvement over protocol 2, which adds a sequence number to each data frame and acknowledgment to avoid duplication or reordering of frames.
+    - The sender transmits one data frame at a time and waits for an acknowledgment from the receiver before sending the next frame.
+    - The receiver sends an acknowledgment with the sequence number of the next expected frame, or a negative acknowledgment with the sequence number of the last correctly received frame.
+    - The sender retransmits the frame if it does not receive an acknowledgment within a specified time limit, or if it receives a negative acknowledgment with a different sequence number than the one sent.
+    - This protocol is suitable for applications where data reliability and ordering are important, such as database transactions or online banking.
+    - The main advantage of this protocol is its error and flow control mechanisms.
+    - The main disadvantage of this protocol is its low throughput and inefficient use of bandwidth.

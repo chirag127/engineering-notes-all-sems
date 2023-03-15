@@ -1,0 +1,27 @@
+### Hadoop configuration
+
+- Hadoop configuration is the process of setting the parameters and properties of the Hadoop components and services, such as HDFS, YARN, and MapReduce.
+- Hadoop configuration is driven by two types of important configuration files  :
+  - Read-only default configuration files that are provided by Hadoop and contain the default values for the configuration parameters. These files are located in the `share/hadoop/common` directory and have the suffix `-default.xml`. Examples are `core-default.xml`, `hdfs-default.xml`, `yarn-default.xml`, and `mapred-default.xml`.
+  - Site-specific configuration files that are customized by the user and override the default values for the configuration parameters. These files are located in the `etc/hadoop` directory and have the suffix `-site.xml`. Examples are `core-site.xml`, `hdfs-site.xml`, `yarn-site.xml`, and `mapred-site.xml`.
+- To configure the Hadoop cluster, the user needs to edit the site-specific configuration files and specify the values for the relevant parameters according to the cluster requirements and specifications .
+- Some of the common parameters that need to be configured are  :
+  - `fs.defaultFS`: The default file system URI, which is used by Hadoop components to access HDFS. The value should be `hdfs://<namenode-hostname>:<port>/`.
+  - `dfs.namenode.name.dir`: The directories where the NameNode stores the metadata of the HDFS files and directories. The value should be a comma-separated list of local directories.
+  - `dfs.datanode.data.dir`: The directories where the DataNodes store the blocks of the HDFS files. The value should be a comma-separated list of local directories.
+  - `yarn.resourcemanager.hostname`: The hostname of the ResourceManager, which is the master node of YARN.
+  - `yarn.nodemanager.local-dirs`: The directories where the NodeManagers store the local files of the applications. The value should be a comma-separated list of local directories.
+  - `yarn.nodemanager.log-dirs`: The directories where the NodeManagers store the logs of the applications. The value should be a comma-separated list of local directories.
+  - `mapreduce.framework.name`: The framework name for MapReduce, which determines how the MapReduce jobs are executed. The value should be `yarn` to run the jobs on YARN.
+  - `mapreduce.jobhistory.address`: The address of the JobHistory server, which maintains the history of the MapReduce jobs. The value should be `<jobhistory-hostname>:<port>`.
+  - `mapreduce.jobhistory.webapp.address`: The address of the JobHistory web UI, which provides the information and statistics of the MapReduce jobs. The value should be `<jobhistory-hostname>:<port>`.
+- To configure the environment of the Hadoop daemons, the user needs to edit the shell scripts that are located in the `etc/hadoop` directory  . Some of the common scripts are:
+  - `hadoop-env.sh`: This script sets the environment variables for the Hadoop daemons, such as `JAVA_HOME`, `HADOOP_CONF_DIR`, `HADOOP_LOG_DIR`, etc.
+  - `yarn-env.sh`: This script sets the environment variables for the YARN daemons, such as `JAVA_HOME`, `YARN_CONF_DIR`, `YARN_LOG_DIR`, etc.
+  - `mapred-env.sh`: This script sets the environment variables for the MapReduce daemons, such as `JAVA_HOME`, `MAPRED_CONF_DIR`, `MAPRED_LOG_DIR`, etc.
+- After configuring the Hadoop cluster, the user needs to start the Hadoop daemons using the scripts that are located in the `sbin` directory  . Some of the common scripts are:
+  - `start-dfs.sh`: This script starts the HDFS daemons, such as NameNode, SecondaryNameNode, and DataNodes.
+  - `stop-dfs.sh`: This script stops the HDFS daemons.
+  - `start-yarn.sh`: This script starts the YARN daemons, such as ResourceManager, NodeManagers, and WebAppProxy.
+  - `stop-yarn.sh`: This script stops the YARN daemons.
+  - `mr

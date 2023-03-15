@@ -1,0 +1,21 @@
+### Stored Procedures
+
+- Stored procedures are Java methods that are published to SQL and stored in the database for general use.
+- Stored procedures can perform complex tasks, improve performance, and enhance security.
+- To create and use a stored procedure in Java DB, you need to follow these steps:
+  - Create a public static Java method in a Java class that performs the required task of the stored procedure.
+  - Create the stored procedure in the database that calls the Java method using the `CREATE PROCEDURE` statement.
+  - Call the stored procedure from your Java application using the `CallableStatement` interface.
+- To call a stored procedure from your Java application, you need to follow these steps:
+  - Register the JDBC driver and establish a connection to the database using the `DriverManager` class.
+  - Create a `CallableStatement` object using the `Connection` object and the SQL call statement.
+  - Set the input and output parameters for the stored procedure using the `setXXX` and `registerOutParameter` methods of the `CallableStatement` object.
+  - Execute the stored procedure using the `execute` or `executeUpdate` method of the `CallableStatement` object.
+  - Retrieve the output parameters and the result set (if any) using the `getXXX` and `getResultSet` methods of the `CallableStatement` object.
+  - Close the `CallableStatement` and the `Connection` objects using the `close` method.
+- To use stored procedures with JPA, you need to follow these steps:
+  - Annotate your entity class with the `@NamedStoredProcedureQuery` annotation, which specifies the name, parameters, and result classes of the stored procedure.
+  - Create the stored procedure in the database using the `CREATE PROCEDURE` statement.
+  - Invoke the stored procedure from your JPA application using the `EntityManager` object and the `createNamedStoredProcedureQuery` method.
+  - Set the input parameters and execute the stored procedure using the `setParameter` and `execute` methods of the `StoredProcedureQuery` object.
+  - Retrieve the output parameters and the result list (if any) using the `getOutputParameterValue` and `getResultList` methods of the `StoredProcedureQuery` object.

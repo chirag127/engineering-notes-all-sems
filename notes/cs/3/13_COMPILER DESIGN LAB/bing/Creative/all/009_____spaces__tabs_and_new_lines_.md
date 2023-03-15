@@ -1,0 +1,8 @@
+# Spaces, tabs and new lines
+
+- Spaces, tabs and new lines are special characters that are used to format text and code in various ways.
+- Spaces are used to separate words and symbols, and to align text and code. A space is represented by the ASCII code 32 or the Unicode code U+0020.
+- Tabs are used to create indents and to align text and code. A tab is represented by the ASCII code 9 or the Unicode code U+0009. The width of a tab can vary depending on the editor or the context, but it is usually equivalent to four or eight spaces.
+- New lines are used to create line breaks and to separate paragraphs and code blocks. A new line is represented by the ASCII code 10 or the Unicode code U+000A. In some systems, a new line is preceded by a carriage return, which is represented by the ASCII code 13 or the Unicode code U+000D.
+- Spaces, tabs and new lines are often invisible or rendered as whitespace in most editors and viewers, but they can be made visible by enabling certain options or using special symbols. For example, in markdown, a space can be shown as `&nbsp;`, a tab as `&emsp;`, and a new line as `<br>`.
+- Spaces, tabs and new lines have different functions and effects depending on the language and the format. For example, in HTML, multiple spaces and new lines are collapsed into a single space, unless they are inside a `<pre>` tag or a `<code>` tag. In Python, indentation with spaces or tabs is used to define the scope of code blocks, and a new line is used to end a statement, unless it is inside parentheses or brackets. In markdown, two spaces at the end of a line create a line break, and an empty line creates a paragraph break.

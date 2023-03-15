@@ -1,0 +1,10 @@
+### HDFS Monitoring and Maintenance
+
+HDFS is the primary distributed storage used by Hadoop applications. A HDFS cluster primarily consists of a NameNode that manages the file system metadata and DataNodes that store the actual data.
+
+HDFS monitoring and maintenance are important tasks for Hadoop administrators to ensure the availability, performance, and reliability of the HDFS cluster. Some of the key aspects of HDFS monitoring and maintenance are:
+
+- **HDFS Capacity Monitoring**: This involves monitoring the total, used, and available space of the HDFS cluster, as well as the space utilization of each DataNode. This helps to plan for future storage needs, identify underutilized or overutilized nodes, and detect any anomalies in space usage.
+- **HDFS Block Monitoring**: This involves monitoring the status and distribution of blocks across the DataNodes. Blocks are the smallest units of data storage in HDFS, and each block is replicated on multiple DataNodes for fault tolerance. Block monitoring helps to ensure the data integrity, availability, and balance of the HDFS cluster.
+- **HDFS NameNode and DataNode Metrics**: This involves monitoring the health and performance of the NameNode and DataNodes, such as the CPU, memory, disk, network, and JVM usage, the number of active and dead nodes, the number of files and directories, the number of read and write operations, the number of RPC calls, and the latency and throughput of the HDFS cluster .
+- **HDFS Maintenance State**: This is a new feature introduced in Hadoop 3.0 that aims to overcome the drawbacks of Rolling Upgrade and Decommission features and make the planned maintenance activity much more seamless. The Maintenance State feature applies only to HDFS DataNode roles. It allows the administrator to mark a DataNode as under maintenance, which triggers the NameNode to schedule the replication of blocks from that DataNode to other DataNodes, without decommissioning the node or losing data availability. The administrator can also specify a maintenance expiration time, after which the DataNode will automatically return to service .

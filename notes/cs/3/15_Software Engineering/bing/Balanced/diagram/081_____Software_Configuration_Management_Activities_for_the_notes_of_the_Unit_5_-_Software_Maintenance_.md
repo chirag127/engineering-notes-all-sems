@@ -1,0 +1,13 @@
+### Software Configuration Management Activities
+
+Software configuration management (SCM) is a process that systematically manages, organizes, and controls the changes in the documents, codes, and other entities during the software development life cycle. The primary goal is to increase productivity with minimal mistakes.
+
+The major activities of SCM are :
+
+- **Configuration identification** – This is the process of identifying all of the components of a project and ensuring that these components can be found quickly throughout the project life cycle. Configuration identification also involves defining the configuration items (CIs), which are the units of configuration management, and the baselines, which are the reference points for configuration control.
+- **Configuration control** – This is the process of implementing a controlled change process. Configuration control involves reviewing, approving, and tracking the changes to the CIs and baselines. Configuration control also ensures that the changes are consistent, compatible, and traceable across the project.
+- **Configuration status accounting** – This is the process of recording and reporting all the necessary information on the status of the development process. Configuration status accounting involves maintaining a configuration database that stores the history and current state of the CIs and baselines. Configuration status accounting also provides visibility and accountability for the changes and their impacts.
+- **Configuration auditing** – This is the process of verifying that the CIs and baselines conform to the requirements and specifications. Configuration auditing involves conducting formal and informal inspections, reviews, and tests to check the quality and integrity of the CIs and baselines. Configuration auditing also identifies and resolves any discrepancies or defects in the configuration management process.
+- **Release management and delivery** – This is the process of preparing and distributing the CIs and baselines to the intended users or customers. Release management and delivery involves packaging, labeling, and documenting the CIs and baselines. Release management and delivery also ensures that the CIs and baselines are compatible, secure, and reliable for the target environment.
+
+These activities are interrelated and iterative, and they require coordination and communication among the project stakeholders. SCM helps to ensure that the software products are consistent, complete, and correct throughout the software development life cycle. SCM also helps to reduce the risks, costs, and errors associated with software changes. SCM is an essential part of software engineering and quality assurance.

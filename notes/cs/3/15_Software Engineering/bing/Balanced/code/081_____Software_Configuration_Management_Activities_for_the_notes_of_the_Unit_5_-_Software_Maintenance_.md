@@ -1,0 +1,11 @@
+### Software Configuration Management Activities
+
+Software configuration management (SCM) is a process that systematically manages, organizes, and controls the changes in the documents, codes, and other entities during the software development life cycle. The primary goal is to increase productivity with minimal mistakes.
+
+The major activities of SCM are :
+
+- **Configuration identification** – This is the process of identifying all of the components of a project and ensuring that these components can be found quickly throughout the project life cycle. Configuration identification also involves defining the configuration items (CIs), which are the units of configuration management, and the baselines, which are the reference points for configuration control.
+- **Configuration control** – This is the process of implementing a controlled change process, which involves evaluating, approving, and implementing changes to the CIs and baselines. Configuration control also involves maintaining the traceability and integrity of the CIs and baselines throughout the project life cycle.
+- **Configuration status accounting** – This is the process of recording and reporting all the necessary information on the status of the development process, such as the history, status, and location of the CIs and baselines. Configuration status accounting also involves providing visibility and feedback to the project stakeholders on the configuration management activities and results.
+- **Configuration auditing** – This is the process of verifying that the CIs and baselines are consistent with the requirements, design, and implementation of the project. Configuration auditing also involves checking that the configuration management procedures and standards are followed and that the configuration management records are accurate and complete.
+- **Release management and delivery** – This is the process of preparing and distributing the software products to the customers and users. Release management and delivery also involves ensuring that the software products are compatible, reliable, and secure, and that they meet the quality and performance expectations of the customers and users.

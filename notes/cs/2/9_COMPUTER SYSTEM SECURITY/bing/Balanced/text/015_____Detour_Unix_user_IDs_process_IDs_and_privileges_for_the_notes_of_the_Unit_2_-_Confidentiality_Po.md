@@ -1,0 +1,14 @@
+### Detour Unix user IDs process IDs and privileges
+
+- Unix is a multi-user operating system that allows multiple users to access the same system and its resources.
+- Each user of a Unix system has a unique identifier called a user ID (UID), which is an integer number. The UID determines the ownership and permissions of the user's files and processes.
+- The UID 0 is reserved for the superuser (also known as root or system administrator), who has full access and control over the system.
+- A user can belong to one or more groups, which are also identified by integer numbers called group IDs (GIDs). The GIDs determine the membership and permissions of the user's files and processes with respect to other users in the same group.
+- A process is a running instance of a program. Each process has a process ID (PID), which is also an integer number. The PID is used to identify and manage the process by the operating system.
+- A process is associated with a UID and a GID, which determine the privileges and access rights of the process. A process can have three types of UIDs and GIDs:
+  - Real UID/GID: The UID/GID of the user who created or executed the process.
+  - Effective UID/GID: The UID/GID that is used to evaluate the privileges of the process to perform a particular action, such as accessing a file or a system call.
+  - Saved UID/GID: The UID/GID that is stored when a process executes a setuid or setgid program, which is a special type of program that runs with the privileges of its owner or group, rather than the user who executed it. The saved UID/GID can be restored later by the process to regain the privileges.
+- A process can change its effective UID/GID by using system calls such as setuid, setgid, seteuid, setegid, etc. However, the process can only change its effective UID/GID to its real UID/GID, its saved UID/GID, or the UID/GID of the file it is executing (if it has the setuid or setgid bit on).
+- A process can also change its real and saved UID/GID by using system calls such as setreuid, setregid, etc. However, the process can only change its real and saved UID/GID to its effective UID/GID or to a UID/GID that it has permission to switch to (such as a UID/GID that is in its supplementary group list).
+- The purpose of having different types of UIDs and GIDs for a process is to allow the process to perform certain tasks that require higher or lower privileges, without compromising the security and integrity of the system. For example, a process can temporarily drop its privileges to access a file that belongs to another user, or a process can temporarily gain privileges to execute a system command that requires root access.

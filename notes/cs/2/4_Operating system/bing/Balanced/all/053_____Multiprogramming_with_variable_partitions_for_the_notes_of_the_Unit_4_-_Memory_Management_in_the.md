@@ -1,0 +1,8 @@
+# Multiprogramming with variable partitions
+
+- Multiprogramming with variable partitions is a contiguous memory management technique in which the main memory is not divided into fixed-sized partitions, but rather into variable-sized chunks of free memory that can fit the processes  .
+- The main advantage of this technique is that it eliminates internal fragmentation, which occurs when a process occupies less space than the partition assigned to it  .
+- The main disadvantage of this technique is that it causes external fragmentation, which occurs when the free memory is scattered into small and non-contiguous blocks that cannot be used by any process  .
+- To overcome external fragmentation, a technique called compaction can be used, which involves moving the processes in memory to create a large block of contiguous free space . However, this technique is costly and time-consuming, as it requires updating the addresses of the processes and interrupting their execution .
+- To implement variable partitioning, the operating system needs to keep track of the free and allocated memory blocks using data structures such as linked lists, bitmaps, or buddy systems . The operating system also needs to use an allocation algorithm to decide which free block to assign to a process, such as first fit, best fit, or worst fit .
+- Variable partitioning is also known as dynamic partitioning or multiprogramming with variable tasks (MVT) . It is an improvement over fixed partitioning or multiprogramming with fixed tasks (MFT), which suffers from internal fragmentation and low memory utilization .

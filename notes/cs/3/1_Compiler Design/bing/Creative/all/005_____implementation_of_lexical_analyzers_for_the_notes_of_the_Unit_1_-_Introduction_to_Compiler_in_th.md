@@ -1,0 +1,32 @@
+# Implementation of Lexical Analyzers
+
+- Lexical analysis is the first phase of the compiler design, also known as a scanner.
+- It converts the high-level input program into a sequence of tokens, which are the smallest meaningful units of the program.
+- A token is a pair of a token name and an optional attribute value. For example, the token `id` has an attribute value that is the name of the identifier, such as `x` or `sum`.
+- A lexeme is the actual string of characters that matches the pattern of a token. For example, `x` and `sum` are lexemes of the token `id`.
+- A lexical analyzer is a program that implements the process of lexical analysis. It takes a stream of input characters and returns a stream of tokens.
+- A lexical analyzer can be implemented with a deterministic finite automaton (DFA), which is a finite state machine that accepts or rejects a string based on its final state.
+- A DFA consists of a set of states, a set of input symbols, a transition function that maps a state and an input symbol to a next state, a start state, and a set of final states.
+- A DFA can be represented by a transition diagram, which is a graph where the nodes are the states and the edges are labeled by the input symbols.
+- A DFA can also be represented by a transition table, which is a matrix where the rows are the states, the columns are the input symbols, and the entries are the next states.
+- A lexical analyzer can be generated automatically from a set of regular expressions, which are a concise and expressive way of specifying the patterns of the tokens.
+- A regular expression is a string that defines a language, which is a set of strings that match the expression.
+- A regular expression can be constructed from the following rules:
+  - A single character is a regular expression that matches itself.
+  - The empty string ε is a regular expression that matches the empty string.
+  - If r and s are regular expressions, then
+    - (r) is a regular expression that matches r.
+    - r|s is a regular expression that matches either r or s.
+    - rs is a regular expression that matches the concatenation of r and s.
+    - r* is a regular expression that matches zero or more occurrences of r.
+    - r+ is a regular expression that matches one or more occurrences of r.
+    - r? is a regular expression that matches zero or one occurrence of r.
+- A lexical analyzer generator is a tool that takes a set of regular expressions and produces a lexical analyzer in a programming language, such as C or Java.
+- A lexical analyzer generator can use the following steps to convert a regular expression to a DFA:
+  - Construct a nondeterministic finite automaton (NFA) for each regular expression using Thompson's construction algorithm.
+  - Combine the NFAs for all the regular expressions using the union operation and add a new start state that has ε-transitions to the start states of the NFAs.
+  - Eliminate the ε-transitions from the NFA using the ε-closure algorithm.
+  - Convert the NFA to a DFA using the subset construction algorithm.
+  - Minimize the DFA using the partition refinement algorithm.
+  - Generate the code for the DFA using a template.
+- Some examples of lexical analyzer generators are lex, flex, JLex, and ANTLR.

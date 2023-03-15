@@ -1,0 +1,24 @@
+# Optimization of Basic Blocks
+
+- Optimization is the process of transforming a program that improves the code by consuming fewer resources and delivering high speed.
+- Optimization can be applied to the basic blocks after the intermediate code generation phase of the compiler.
+- A basic block is a sequence of consecutive statements in which the flow of control enters at the beginning and leaves at the end without halt or possibility of branching.
+- There are two types of basic block optimizations:
+  - Structure preserving transformations: These are the transformations that do not change the structure of the basic block, but only replace some expressions with equivalent ones. For example, constant folding, constant propagation, strength reduction, etc.
+  - Algebraic transformations: These are the transformations that change the structure of the basic block by eliminating some expressions or statements that are redundant or unnecessary. For example, common subexpression elimination, dead code elimination, copy propagation, etc.
+- To apply an optimization technique to a basic block, a directed acyclic graph (DAG) can be used as a representation of the three-address code that is generated as the result of an intermediate code generation.
+- A DAG is a type of data structure that has the following properties:
+  - It is a graph that consists of nodes and edges.
+  - It is directed, meaning that each edge has a direction from one node to another.
+  - It is acyclic, meaning that there is no cycle or loop in the graph.
+  - It facilitates the transformation of basic blocks by identifying the common subexpressions, eliminating the redundant expressions, and generating the optimized code.
+- The steps to construct a DAG for a basic block are:
+  - Create a node for each operand and operator in the basic block.
+  - For each statement in the basic block, check if the right-hand side expression already exists in the DAG. If yes, reuse the existing node. If no, create a new node and connect it to the operands.
+  - For each statement in the basic block, check if the left-hand side variable already exists in the DAG. If yes, delete the existing node and its incoming edges. If no, create a new node and connect it to the expression.
+  - Label each leaf node with the operand name and each interior node with the operator name.
+  - Label each node that corresponds to a left-hand side variable with the variable name.
+- The steps to generate the optimized code from a DAG are:
+  - Traverse the DAG in postorder (left-right-root) and assign a temporary name to each unlabeled node.
+  - For each labeled node in the DAG, generate a three-address code statement of the form x = y, where x is the label and y is the temporary name or the operand name of the node.
+  - The order of the generated statements is the same as the postorder traversal of the DAG.

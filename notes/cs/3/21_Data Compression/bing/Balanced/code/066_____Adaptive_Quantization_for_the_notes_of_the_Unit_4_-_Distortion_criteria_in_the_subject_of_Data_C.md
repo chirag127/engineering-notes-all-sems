@@ -1,0 +1,12 @@
+### Adaptive Quantization
+
+- Adaptive quantization is a type of data compression technique that adjusts the quantizer parameters according to the characteristics of the input data.
+- The goal of adaptive quantization is to provide effective data compression of a signal source with time-varying parameters, such as synthetic aperture radar (SAR) raw data.
+- An adaptive quantizer estimates the statistics of the source and attempts to match the quantizer to the source distribution, minimizing the distortion or the bit rate.
+- There are two main types of adaptive quantization: forward adaptive quantization and backward adaptive quantization.
+- In forward adaptive quantization, the input is divided into blocks. The quantizer parameters are estimated for each block and transmitted to the receiver as side information. For example, the minimum and maximum values of each block can be used to determine the quantization step size.
+- In backward adaptive quantization, the quantizer parameters are updated based on the previous quantized samples. The receiver can reconstruct the parameters using the same update rule as the transmitter. For example, the Lloyd-Max algorithm can be used to adjust the quantization levels based on the mean squared error criterion.
+- Adaptive quantization can improve the performance of differential pulse-code modulation (DPCM), which is a predictive coding technique that exploits the correlation between adjacent samples. By using adaptive quantization, the quantization noise can be reduced and the dynamic range can be increased.
+- Adaptive quantization can also be combined with other compression methods, such as transform coding, entropy coding, and vector quantization, to achieve higher compression ratios and better quality.
+- Adaptive quantization is a challenging problem that requires balancing the trade-off between complexity, distortion, and bit rate. Some of the factors that affect the performance of adaptive quantization are the block size, the quantizer design, the estimation method, the update rule, and the side information overhead .
+- Adaptive quantization is an active research area that explores new methods and applications for data compression. Some of the recent advances include online learned continual compression with adaptive quantization modules, which can adapt to different data types and memory constraints without pretraining.

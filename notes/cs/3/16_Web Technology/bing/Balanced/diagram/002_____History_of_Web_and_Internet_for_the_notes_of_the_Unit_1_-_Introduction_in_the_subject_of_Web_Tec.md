@@ -1,0 +1,8 @@
+### History of Web and Internet
+
+- The **Internet** is a global system of interconnected computer networks that use the Internet Protocol Suite (TCP/IP) to communicate and exchange data.
+- The **Web** is a collection of documents and resources that are linked by hyperlinks and can be accessed through the Internet using web browsers and web servers.
+- The Internet originated in the **1970s** as a project of the U.S. Department of Defense (DoD) to create a network that could survive a nuclear attack. The network was called ARPANET and it connected four computers at different universities in the U.S. 
+- The Web was invented in **1989** by Tim Berners-Lee, a British scientist working at CERN, a European research organization. He wanted to create a system that could share information among scientists around the world. He developed the HyperText Transfer Protocol (HTTP), the HyperText Markup Language (HTML), and the first web browser and web server.   
+- The Web became publicly available in **1991** when Berners-Lee posted a summary of his project on the Internet. The first website was hosted at CERN and it explained the basic features and concepts of the Web. 
+- The Web grew rapidly in the **1990s** with the emergence of commercial Internet service providers, graphical web browsers, search engines, and online services. The Web also enabled new forms of communication, entertainment, education, and commerce.

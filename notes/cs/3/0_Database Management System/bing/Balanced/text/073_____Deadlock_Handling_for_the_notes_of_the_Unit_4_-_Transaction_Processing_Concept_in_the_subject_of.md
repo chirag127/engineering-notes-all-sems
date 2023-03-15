@@ -1,0 +1,9 @@
+### Deadlock Handling
+
+- A deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for each other to release locks on shared resources   .
+- A deadlock can occur in both centralized and distributed database systems, but the latter has some additional challenges such as transaction location and transaction control.
+- There are three classical approaches for deadlock handling, namely   :
+  - Deadlock prevention: This approach ensures that a deadlock can never occur by imposing some constraints on the transactions, such as ordering the resources, avoiding hold and wait, or using timeouts. However, this approach may reduce concurrency and increase overhead.
+  - Deadlock avoidance: This approach allows a deadlock to occur, but avoids it by using some information about the resource requirements of the transactions, such as the number and type of resources needed. A common technique is to use a banker's algorithm, which grants a request only if it does not lead to an unsafe state. However, this approach may require accurate and complete information, which may not be available or feasible in some cases.
+  - Deadlock detection and removal: This approach allows a deadlock to occur, but detects it by using some mechanism, such as a wait-for graph or a timeout. Once a deadlock is detected, it is removed by aborting or rolling back some or all of the transactions involved in the deadlock. However, this approach may incur a high cost of detection and recovery, and may affect the performance and reliability of the system.
+- The choice of the deadlock handling approach depends on several factors, such as the frequency and severity of deadlocks, the availability and accuracy of information, the overhead and complexity of the mechanism, and the impact on the system performance and throughput    .

@@ -1,0 +1,7 @@
+### Note: The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner
+
+- This note is a disclaimer that the instructor has the authority and discretion to change the experiments according to the course objectives, availability of resources, and student feedback.
+- This note implies that the experiments are not fixed or final, and that the instructor may introduce new ones, remove existing ones, or adjust the parameters or methods of the experiments as needed.
+- This note also suggests that the instructor will consider the relevance, feasibility, and effectiveness of the experiments for the learning outcomes of the course, and will make the changes in a reasonable and transparent way.
+- This note is usually written at the beginning or end of a list of experiments or a syllabus, to inform the students about the possibility of changes and the rationale behind them.
+- This note is a common practice in many academic settings, especially in science and engineering courses, where the experiments may depend on the availability of equipment, materials, or software, or where the instructor may want to update the experiments to reflect the latest developments or trends in the field.

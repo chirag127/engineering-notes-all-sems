@@ -1,0 +1,51 @@
+# Images for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- Images are visual elements that can enhance the appearance and functionality of a web page.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or providing examples.
+  - Creating logos, icons, buttons, or other graphical elements.
+  - Adding visual interest or aesthetic appeal.
+  - Providing navigation or interactivity.
+- Images can be of different types, such as:
+  - Bitmap images: These are composed of pixels, which are small dots of color. Bitmap images have a fixed resolution and size, and can lose quality when resized or zoomed. Examples of bitmap image formats are JPEG, PNG, GIF, BMP, etc.
+  - Vector images: These are composed of mathematical shapes, such as lines, curves, polygons, etc. Vector images have a scalable resolution and size, and can retain quality when resized or zoomed. Examples of vector image formats are SVG, EPS, PDF, etc.
+- Images can be embedded in a web page using the `<img>` tag, which has the following attributes:
+  - `src`: This specifies the URL or path of the image file to be displayed.
+  - `alt`: This specifies the alternative text to be shown if the image cannot be loaded or displayed. This is useful for accessibility and SEO purposes.
+  - `width`: This specifies the width of the image in pixels or percentage.
+  - `height`: This specifies the height of the image in pixels or percentage.
+  - `title`: This specifies the text to be shown when the mouse hovers over the image. This is useful for providing additional information or context.
+- Images can also be styled using CSS properties, such as:
+  - `border`: This specifies the width, style, and color of the border around the image.
+  - `margin`: This specifies the space around the image.
+  - `padding`: This specifies the space between the image and its border.
+  - `float`: This specifies how the image is aligned with the surrounding text or elements. The possible values are `left`, `right`, or `none`.
+  - `display`: This specifies how the image is displayed on the web page. The possible values are `inline`, `block`, `inline-block`, or `none`.
+- Images can also be manipulated using CSS filters, such as:
+  - `blur`: This applies a Gaussian blur to the image.
+  - `brightness`: This adjusts the brightness of the image.
+  - `contrast`: This adjusts the contrast of the image.
+  - `grayscale`: This converts the image to grayscale.
+  - `hue-rotate`: This rotates the hue of the image.
+  - `invert`: This inverts the colors of the image.
+  - `opacity`: This adjusts the opacity of the image.
+  - `saturate`: This adjusts the saturation of the image.
+  - `sepia`: This applies a sepia tone to the image.
+- Images can also be animated using CSS animations or transitions, such as:
+  - `@keyframes`: This defines the stages of the animation and the properties to be changed at each stage.
+  - `animation`: This specifies the name, duration, timing function, delay, iteration count, direction, fill mode, and play state of the animation.
+  - `transition`: This specifies the property, duration, timing function, and delay of the transition.
+  - `transform`: This specifies the transformation to be applied to the image, such as `rotate`, `scale`, `skew`, `translate`, or `matrix`.
+- Images can also be responsive using CSS media queries, such as:
+  - `@media`: This defines the conditions for applying different styles to the image based on the device width, height, orientation, resolution, etc.
+  - `max-width`: This specifies the maximum width of the image.
+  - `min-width`: This specifies the minimum width of the image.
+  - `max-height`: This specifies the maximum height of the image.
+  - `min-height`: This specifies the minimum height of the image.
+- Images can also be optimized for web performance, such as:
+  - Choosing the appropriate image format and quality for the purpose and content of the image.
+  - Compressing the image file size using tools or techniques, such as `gzip`, `WebP`, `JPEG 2000`, etc.
+  - Using image sprites to combine multiple images into one image file and reduce HTTP requests.
+  - Using image maps to create clickable areas on an image and reduce the number of images needed.
+  - Using lazy loading to defer loading images until they are needed or visible on the web page.
+  - Using caching to store images

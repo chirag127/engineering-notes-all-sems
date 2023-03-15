@@ -1,0 +1,13 @@
+### Coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of reducing the size of data without losing information or quality.
+- Data compression can be classified into two types: lossless and lossy.
+- Lossless compression techniques preserve the exact original data, while lossy compression techniques discard some data to achieve higher compression ratios.
+- Some common lossless compression techniques are:
+  - Run-length encoding (RLE): This technique replaces consecutive identical symbols with a symbol and a count. For example, the string "AAAAABBBBCCCC" can be compressed as "A5B4C4".
+  - Huffman coding: This technique assigns variable-length codes to symbols based on their frequencies. The most frequent symbols get the shortest codes, while the least frequent symbols get the longest codes. For example, if the symbol "A" occurs 80 times, "B" occurs 10 times, and "C" occurs 10 times in a data set, then the Huffman codes can be "A: 0, B: 10, C: 11".
+  - Lempel-Ziv-Welch (LZW) coding: This technique builds a code table of sequences of symbols that occur in the data. As the encoding continues, LZW identifies repeated sequences in the data and adds them to the code table. For example, if the data contains the sequence "ABABABAB", then LZW can add "AB" and "ABAB" to the code table and encode the sequence as "ABAB256".
+- Some common lossy compression techniques are:
+  - Discrete cosine transform (DCT): This technique transforms a block of data (such as an image or a video frame) into a set of frequency coefficients. The coefficients that represent high frequencies are usually less important than the coefficients that represent low frequencies, so they can be quantized or discarded to reduce the size of the data.
+  - Motion estimation and compensation (ME/MC): This technique exploits the temporal redundancy in video data by predicting the current frame from the previous frame. The prediction error (or residual) is then encoded using DCT or other methods. ME/MC can reduce the amount of data that needs to be transmitted or stored for video data.
+  - Entropy coding: This technique compresses the data by removing the statistical redundancy in the data. Entropy coding can be combined with other techniques, such as DCT or ME/MC, to achieve better compression ratios. Some examples of entropy coding are arithmetic coding and asymmetric numeral systems (ANS).

@@ -1,0 +1,14 @@
+### Compression over Modems
+
+- Compression over modems is a technique that allows modems to transmit data faster and more efficiently over phone lines by reducing the size of the data before sending it and expanding it after receiving it.
+- Compression over modems can be done by using different algorithms and protocols that are agreed upon by both the sending and receiving modems. Some of the common protocols are:
+  - V.42bis: This is an international standard for data compression over modems that was adopted by the CCITT in 1990. It can achieve up to 4:1 compression ratio and supports up to 2400 bps transmission speed.
+  - MNP 5: This is a proprietary protocol developed by Microcom that can achieve up to 2:1 compression ratio and supports up to 9600 bps transmission speed.
+  - STAC: This is a proprietary protocol developed by Stac Electronics that can achieve up to 4:1 compression ratio and supports up to 14400 bps transmission speed.
+- Compression over modems can improve the throughput and reliability of data transmission, especially over poor quality phone lines that may introduce errors and noise. However, compression over modems also has some limitations and drawbacks, such as:
+  - Compression over modems is not effective for data that is already compressed, such as images, audio, or video files. In fact, compressing such data may increase its size and reduce the transmission speed.
+  - Compression over modems may introduce some delay and overhead in the data transmission, as the modems need to perform the compression and decompression operations and negotiate the protocols and parameters.
+  - Compression over modems may not be compatible with some applications or devices that expect the data to be in a certain format or size. For example, some fax machines may not be able to handle compressed data.
+- Compression over modems can be enhanced by using hardware-assisted compression devices that can perform the compression and decompression operations faster and more efficiently than the modems themselves. Some examples of such devices are:
+  - CSA: This is a compression service adapter that can be installed in Cisco routers to provide high performance compression for Cisco IOS compression services. It can support up to 8 Mbps of compressed data throughput and can use various compression algorithms, such as LZS, MPPC, or Predictor.
+  - Data Compression AIM: This is a data compression advanced integration module that can be installed in Cisco 2600 series routers to provide high performance compression for Cisco IOS compression services. It can support up to 8 Mbps of compressed data throughput and can use various compression algorithms, such as LZS, MPPC, or Predictor.

@@ -1,0 +1,25 @@
+# Packet filtering firewall
+
+- A packet filtering firewall is the most basic type of firewall that controls data flow to and from a network .
+- It is a network security solution that allows network packets to move across between networks and controls their flow using a set of user-defined rules, IP addresses, ports, and protocols .
+- A packet filtering firewall can be implemented as a standalone device or as a part of a router.
+- A packet filtering firewall operates in the low levels of a network protocol stack, such as the network layer or the transport layer .
+- A packet filtering firewall examines each packet, which comprises user data and control information, and tests them according to a set of pre-established rules .
+- A packet filtering firewall can perform one of the following actions on each packet: accept, reject, or drop .
+  - Accept: The packet is allowed to pass through the firewall.
+  - Reject: The packet is blocked and a notification is sent back to the sender.
+  - Drop: The packet is blocked and no notification is sent back to the sender.
+- A packet filtering firewall can be configured to use one of the following modes: stateless or stateful .
+  - Stateless: The firewall treats each packet as an independent entity and does not keep track of the connection state or context.
+  - Stateful: The firewall maintains a state table that records the connection state and context of each packet and applies rules based on the state information.
+- A packet filtering firewall has some advantages and disadvantages as a network security solution  .
+  - Advantages:
+    - It is simple and easy to implement and manage.
+    - It is fast and efficient in processing packets.
+    - It is transparent to the end users and applications.
+    - It is suitable for smaller networks with low security requirements.
+  - Disadvantages:
+    - It is vulnerable to spoofing, fragmentation, and other network attacks.
+    - It cannot inspect the payload or the application layer data of the packets.
+    - It cannot handle complex or dynamic protocols that use multiple ports or encryption.
+    - It cannot provide granular or user-based access control.

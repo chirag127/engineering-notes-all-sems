@@ -1,0 +1,38 @@
+### Recoverability for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- Recoverability is the property of a schedule that ensures that the database state can be restored to a consistent state after a transaction failure or system crash .
+- A schedule is a sequence of operations performed by one or more transactions on the database.
+- A transaction is a logical unit of work that accesses and possibly modifies the contents of a database.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that either all the operations of a transaction are executed or none of them are.
+- Consistency means that the transaction preserves the internal consistency of the database.
+- Isolation means that the execution of a transaction does not interfere with the execution of other concurrent transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failure.
+- A transaction can be in one of the following states: active, partially committed, committed, failed, or aborted.
+- Active is the initial state of a transaction when it starts execution.
+- Partially committed is the state of a transaction after it executes its final operation but before it commits.
+- Committed is the state of a transaction after it successfully completes and makes its changes permanent in the database.
+- Failed is the state of a transaction when it encounters an error or aborts due to some reason.
+- Aborted is the state of a transaction after it is rolled back and its changes are undone from the database.
+- A transaction can be rolled back either partially or completely depending on the recovery technique used.
+- A schedule can be classified into two types based on recoverability: recoverable and non-recoverable .
+- A recoverable schedule is a schedule in which transactions commit only after all transactions whose changes they read commit.
+- A non-recoverable schedule is a schedule in which a transaction commits before some transaction whose changes it reads commits or aborts.
+- A non-recoverable schedule can lead to cascading aborts, which means that the abort of one transaction causes the abort of other transactions that depend on its changes.
+- A recoverable schedule can be further classified into two types based on cascading aborts: cascadeless and cascading.
+- A cascadeless schedule is a schedule in which transactions read only the values written by committed transactions.
+- A cascading schedule is a schedule in which transactions read the values written by uncommitted transactions, but commit only after those transactions commit.
+- A cascadeless schedule is preferable to a cascading schedule because it avoids the cascading aborts and reduces the amount of rollback required.
+- A schedule can also be classified into two types based on serializability: serial and concurrent.
+- A serial schedule is a schedule in which transactions are executed one after another without any overlap.
+- A concurrent schedule is a schedule in which transactions are executed concurrently with some overlap.
+- A serial schedule is always recoverable and consistent, but it may not be efficient or feasible in a multi-user environment.
+- A concurrent schedule can improve the performance and throughput of the system, but it may not be recoverable or consistent.
+- A concurrent schedule can be made recoverable and consistent by ensuring that it is serializable.
+- Serializability is the property of a concurrent schedule that ensures that it is equivalent to some serial schedule in terms of the final database state.
+- A concurrent schedule can be serializable in two ways: conflict serializable or view serializable.
+- A conflict serializable schedule is a schedule that can be transformed into a serial schedule by swapping the order of non-conflicting operations.
+- A view serializable schedule is a schedule that produces the same view of the database as some serial schedule.
+- A view of the database consists of three components: the initial read values, the final write values, and the read-write dependencies.
+- A schedule can be tested for serializability using various methods, such as precedence graph, lock-based protocols, timestamp-based protocols, etc.
+- A recovery technique is a method of restoring the database to a consistent state after a

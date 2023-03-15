@@ -1,0 +1,7 @@
+### Syntactic Phase Errors
+
+Syntactic phase errors are errors that are detected during the syntax analysis phase of the compiler design process. This phase is also known as the parsing phase. The syntax analysis phase is responsible for discovering the structure in the text of the source code. Some common syntactic errors include structural errors, such as missing parentheses or mismatched operands for an operator.
+
+There are several strategies for recovering from syntactic phase errors. One such strategy is the use of error productions. However, this method has its disadvantages, as it can be difficult to maintain. If the grammar of the language changes, it becomes necessary to change the corresponding error productions, which can be difficult for developers to maintain.
+
+Other strategies for recovering from syntactic phase errors include panic mode recovery, statement mode recovery, and phase level recovery. Panic mode recovery involves removing successive characters from the input until a designated set of synchronizing tokens is found. Statement mode recovery involves performing local corrections on the remaining input when an error is encountered. Phase level recovery involves performing local corrections on the remaining input when an error is discovered .

@@ -1,0 +1,21 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Database Management System. Here are some possible triggers for the notes of the Unit 2 - Relational data Model and Language:
+
+- What is a relational data model and what are its advantages over other data models?
+- What are the components of a relational data model, such as relation, attribute, domain, tuple, degree, cardinality, etc.?
+- How to represent a relation using a table and a set notation?
+- What are the properties of a relation, such as uniqueness, order, and null values?
+- What are the types of attributes, such as simple, composite, single-valued, multi-valued, derived, etc.?
+- What are the types of constraints, such as domain, key, entity integrity, referential integrity, etc.?
+- How to define a relation schema and a relation instance using a formal notation?
+- What are the types of keys, such as candidate, primary, alternate, foreign, super, etc.?
+- How to identify the keys of a relation using functional dependencies and closure?
+- What are the types of anomalies, such as insertion, deletion, and update anomalies, and how to avoid them using normalization?
+- What are the normal forms, such as first, second, third, Boyce-Codd, fourth, and fifth normal forms, and how to check and convert a relation into each normal form?
+- What is a relational algebra and what are its operators, such as select, project, union, intersection, difference, product, join, division, etc.?
+- How to write and execute relational algebra expressions using a formal notation and a graphical tool?
+- What are the properties of relational algebra operators, such as commutativity, associativity, distributivity, idempotence, etc.?
+- What are the types of joins, such as natural, equi, theta, outer, semi, anti, etc. and how to perform them using relational algebra operators?
+- What is a relational calculus and what are its types, such as tuple relational calculus and domain relational calculus?
+- How to write and execute relational calculus queries using a formal notation and a graphical tool?
+- What are the differences and similarities between relational algebra and relational calculus?
+- What are the advantages and disadvantages of relational algebra and relational calculus?

@@ -1,0 +1,14 @@
+### Translation with a top down parser
+
+- Translation is the process of mapping an input string to an output string according to a set of rules or a grammar.
+- A top down parser is a type of parser that constructs a parse tree for the input string from the root node (the start symbol of the grammar) to the leaf nodes (the terminal symbols of the grammar) by using leftmost derivation.
+- A syntax-directed translation (SDT) is a method of translating an input string to an output string by attaching attributes and semantic actions to the grammar symbols and rules.
+- A semantic action is a piece of code that is executed when a grammar rule is applied during parsing. It can perform tasks such as generating intermediate code, checking types, evaluating expressions, etc.
+- An attribute is a value associated with a grammar symbol that can be used to store information such as type, value, scope, etc.
+- A syntax-directed definition (SDD) is a specification of an SDT that consists of a grammar and a set of semantic rules. Each semantic rule defines the value of an attribute in terms of the values of other attributes and constants.
+- An SDT can be implemented in either a top-down or a bottom-up parser. In a top-down parser, the semantic actions are executed in preorder, i.e., before the children of a node are visited. In a bottom-up parser, the semantic actions are executed in postorder, i.e., after the children of a node are visited.
+- A top-down parser can be either predictive or non-predictive. A predictive parser can determine the next production to apply by looking at the next input symbol (or a few symbols ahead). A non-predictive parser may need to backtrack and try different productions until it finds a match.
+- A recursive-descent parser is a type of predictive top-down parser that uses a set of mutually recursive procedures, one for each non-terminal symbol, to parse the input string. Each procedure implements the semantic actions associated with the corresponding non-terminal symbol.
+- An LL(1) parser is a type of predictive top-down parser that uses a parsing table to guide the parsing process. The parsing table is constructed from the grammar by computing the FIRST and FOLLOW sets of each non-terminal symbol. The parsing table also contains the semantic actions associated with each grammar rule.
+- An example of an SDT implemented in a recursive-descent parser is a simple FTP client, where the parser accepts user commands and uses a syntax-directed definition to generate network messages and perform file operations.
+- An example of an SDT implemented in an LL(1) parser is a simple calculator, where the parser accepts arithmetic expressions and uses a syntax-directed definition to evaluate them and print the results.

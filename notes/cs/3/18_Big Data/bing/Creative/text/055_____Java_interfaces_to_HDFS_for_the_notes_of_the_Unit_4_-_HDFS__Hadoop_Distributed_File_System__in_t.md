@@ -1,0 +1,21 @@
+### Java interfaces to HDFS
+
+- HDFS is a distributed file system that runs on a cluster of machines and stores large amounts of data in a fault-tolerant way.
+- HDFS provides a Java API for applications to interact with its filesystems, such as reading, writing, creating, deleting, and querying files and directories.
+- The Java API is based on the abstract FileSystem class, which defines the common operations for all Hadoop filesystems.
+- HDFS implements the FileSystem class as DistributedFileSystem, which extends the abstract class and provides the specific functionality for HDFS.
+- To use the Java API, applications need to create a FileSystem object by passing a Configuration object that contains the HDFS configuration parameters, such as the namenode address, the replication factor, and the block size.
+- The FileSystem object can then be used to perform various operations on the HDFS filesystem, such as:
+  - Creating a file using the create() method, which returns a FSDataOutputStream object for writing data to the file.
+  - Reading a file using the open() method, which returns a FSDataInputStream object for reading data from the file.
+  - Copying a file from the local filesystem to HDFS using the copyFromLocalFile() method, which takes a Path object representing the local file and a Path object representing the HDFS file as arguments.
+  - Copying a file from HDFS to the local filesystem using the copyToLocalFile() method, which takes a Path object representing the HDFS file and a Path object representing the local file as arguments.
+  - Deleting a file or a directory using the delete() method, which takes a Path object representing the file or directory and a boolean argument indicating whether to delete recursively or not.
+  - Listing the files and directories in a directory using the listFiles() or listStatus() methods, which take a Path object representing the directory and return an iterator or an array of FileStatus objects, respectively.
+  - Getting the metadata of a file or a directory using the getFileStatus() method, which takes a Path object representing the file or directory and returns a FileStatus object that contains information such as the length, the modification time, the owner, the group, the permission, and the block locations of the file or directory.
+  - Renaming a file or a directory using the rename() method, which takes two Path objects representing the source and the destination as arguments.
+  - Checking the existence of a file or a directory using the exists() method, which takes a Path object representing the file or directory and returns a boolean value.
+- The Path object is a Hadoop class that represents a file or a directory in a Hadoop filesystem. It consists of a scheme, an authority, and a path. The scheme specifies the type of the filesystem, such as hdfs, file, or s3. The authority specifies the host and the port of the filesystem, such as localhost:9000 or s3.amazonaws.com. The path specifies the location of the file or directory in the filesystem, such as /user/hadoop/input or /bucket/key.
+- The FSDataInputStream and FSDataOutputStream objects are Hadoop classes that extend the Java DataInputStream and DataOutputStream classes, respectively. They provide additional methods for seeking, skipping, and positioning in the file. They also implement the Seekable and PositionedReadable interfaces, which allow random access to the file.
+- The FileStatus object is a Hadoop class that encapsulates the metadata of a file or a directory in a Hadoop filesystem. It provides methods for getting the attributes of the file or directory, such as the length, the modification time, the owner, the group, the permission, and the block locations.
+- The Java API for HDFS is one of the most common ways to interact with HDFS. It provides a flexible and powerful interface for applications to access and manipulate the data stored in HDFS. However, it also requires the applications to handle the exceptions and errors that may occur during the filesystem operations, such as IOException, FileNotFoundException, or RemoteException.

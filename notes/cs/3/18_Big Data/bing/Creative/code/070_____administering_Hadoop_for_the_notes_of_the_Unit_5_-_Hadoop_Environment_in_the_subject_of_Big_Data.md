@@ -1,0 +1,22 @@
+### Administering Hadoop
+
+- Hadoop administration is the process of managing and maintaining Hadoop clusters and services, such as HDFS, MapReduce, YARN, Hive, HBase, etc.
+- Hadoop administration involves the following tasks:
+  - Installing and configuring Hadoop components and dependencies on the cluster nodes.
+  - Setting up and securing Hadoop users and groups, and assigning roles and permissions.
+  - Monitoring and troubleshooting the cluster performance, health, and availability.
+  - Managing the HDFS file system, such as creating directories, copying files, setting quotas, etc.
+  - Managing the MapReduce and YARN applications, such as submitting jobs, tracking progress, killing tasks, etc.
+  - Tuning the cluster parameters and resources to optimize the performance and efficiency of the cluster.
+  - Adding and removing nodes from the cluster, and balancing the data across the nodes.
+  - Performing backup and recovery of the cluster data and metadata.
+  - Updating and patching the Hadoop software and libraries.
+  - Collaborating with the application teams and vendors to resolve issues and provide support.
+- Hadoop administration requires the following skills and knowledge:
+  - Familiarity with the Hadoop architecture and components, and their functions and interactions.
+  - Proficiency in Linux/Unix commands and shell scripting, and basic networking concepts.
+  - Experience in using Hadoop command-line tools and web interfaces, such as hdfs, yarn, mapred, etc.
+  - Understanding of the Hadoop configuration files and parameters, and how to modify them.
+  - Ability to monitor and analyze the cluster metrics and logs, and identify and troubleshoot problems.
+  - Knowledge of the best practices and recommendations for Hadoop administration, such as security, backup, tuning, etc.
+  - Awareness of the latest trends and developments in the Hadoop ecosystem, and the new features and enhancements in the Hadoop versions.

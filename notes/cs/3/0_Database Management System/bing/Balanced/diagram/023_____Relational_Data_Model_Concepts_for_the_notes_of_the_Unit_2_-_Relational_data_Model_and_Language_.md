@@ -1,0 +1,22 @@
+### Relational Data Model Concepts
+
+- The relational data model is the primary data model, which is used widely around the world for data storage and processing.
+- The relational data model creates a consistent and logical representation of data that is organized in rows and tables, which in turn can be accessed and linked to other rows and tables by sharing a common field (aka the primary and foreign keys).
+- The relational data model is based on the concept of mathematical relations, which are sets of ordered tuples (rows) of values (columns).
+- The relational data model has the following major concepts  :
+  - Attribute: An attribute is a property or characteristic of an entity or a relation. An attribute has a name and a data type. For example, NAME, AGE, GENDER, etc. are attributes of a STUDENT entity.
+  - Table: A table is a collection of tuples that belong to the same relation. A table has a name and a set of attributes. For example, STUDENT is a table with attributes NAME, AGE, GENDER, etc.
+  - Tuple: A tuple is a row in a table that represents an instance of a relation. A tuple has a value for each attribute of the table. For example, (Alice, 20, F) is a tuple in the STUDENT table.
+  - Relation Schema: A relation schema is a formal definition of a relation, which specifies the name of the relation, the name and data type of each attribute, and the domain of each attribute. For example, STUDENT (NAME: string, AGE: integer, GENDER: char) is a relation schema.
+  - Degree: The degree of a relation is the number of attributes in the relation schema. For example, the degree of the STUDENT relation is 3.
+  - Cardinality: The cardinality of a relation is the number of tuples in the relation. For example, the cardinality of the STUDENT relation is the number of students in the table.
+  - Column: A column is a set of values of the same attribute in a table. For example, the NAME column in the STUDENT table is a set of names of students.
+  - Relation Instance: A relation instance is a snapshot of a relation at a given point in time. It is a set of tuples that satisfy the relation schema. For example, the STUDENT relation instance is the set of tuples in the STUDENT table at a given time.
+  - Primary Key: A primary key is a set of one or more attributes that uniquely identify each tuple in a relation. A primary key must be unique and not null. For example, NAME can be a primary key for the STUDENT relation, assuming that no two students have the same name.
+  - Foreign Key: A foreign key is a set of one or more attributes in a relation that refer to the primary key of another relation. A foreign key establishes a link or a relationship between two relations. For example, COURSE_ID can be a foreign key in the ENROLLMENT relation, which refers to the primary key of the COURSE relation.
+- The relational data model has the following advantages :
+  - Simplicity: The relational data model is simple and easy to understand, as it is based on the concept of tables and relations.
+  - Flexibility: The relational data model is flexible and adaptable, as it allows the creation, modification, and deletion of tables and relations without affecting the data access and integrity.
+  - Integrity: The relational data model ensures the integrity and consistency of data, as it enforces various constraints such as primary key, foreign key, domain, and null constraints.
+  - Query Language: The relational data model supports a powerful and standardized query language, such as SQL, which allows the manipulation and retrieval of data from multiple tables and relations.
+  - Data Independence: The relational data model achieves data independence, which means that the logical data structures (the tables, views, and indexes) are separate from the physical storage structures. This separation means that database administrators can manage physical data storage without affecting access to that data as a logical structure.

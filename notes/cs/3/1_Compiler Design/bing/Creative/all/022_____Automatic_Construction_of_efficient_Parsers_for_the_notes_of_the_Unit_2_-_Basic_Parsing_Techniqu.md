@@ -1,0 +1,38 @@
+# Automatic Construction of Efficient Parsers
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A parser can be constructed manually or automatically by using a parser generator tool.
+- A parser generator is a program that takes a grammar specification as input and produces a parser program as output.
+- A parser generator can also produce a parsing table, which is a data structure that guides the parsing process.
+- There are different types of parsers, such as top-down parsers, bottom-up parsers, and hybrid parsers.
+- Top-down parsers start from the start symbol of the grammar and try to derive the input by applying production rules.
+- Bottom-up parsers start from the input and try to reduce it to the start symbol by applying production rules in reverse.
+- Hybrid parsers combine the features of both top-down and bottom-up parsers.
+- One of the most widely used types of bottom-up parsers is the LR parser, which stands for Left-to-right scan and Rightmost derivation.
+- An LR parser can handle a large class of grammars, including those that are ambiguous or have left recursion.
+- An LR parser uses a stack and a parsing table to parse the input.
+- The parsing table consists of two parts: the action table and the goto table.
+- The action table tells the parser what action to perform for each state and input symbol: shift, reduce, accept, or error.
+- The goto table tells the parser what state to go to after a reduction.
+- The parsing table is constructed from the canonical collection of LR(0) items, which are sets of production rules with a dot indicating the position of the parser.
+- The canonical collection of LR(0) items is obtained by applying the closure and goto operations on the augmented grammar, which is the original grammar with a new start symbol and a new production rule.
+- The closure operation adds all the production rules that can be derived from a given item by expanding the nonterminal symbol after the dot.
+- The goto operation moves the dot one position to the right for a given item and a given input symbol.
+- The canonical collection of LR(0) items forms the states of the LR parser, and the transitions between them are determined by the goto operation.
+- The action table is filled by applying the following rules for each state and input symbol:
+  - If the item is of the form A -> α.aβ, where a is a terminal symbol, then the action is to shift and go to the state obtained by the goto operation on a.
+  - If the item is of the form A -> α., then the action is to reduce by the production rule A -> α, unless A is the new start symbol, in which case the action is to accept.
+  - If the item is of the form S' -> S., where S' is the new start symbol and S is the original start symbol, then the action is to accept.
+  - If there is no item for the given state and input symbol, then the action is to report an error.
+- The goto table is filled by applying the goto operation on each state and nonterminal symbol.
+- An LR(0) parser can handle only a subset of LR grammars, which are those that do not have any conflicts in the action table.
+- A conflict occurs when there are two or more different actions for the same state and input symbol.
+- There are two types of conflicts: shift-reduce conflicts and reduce-reduce conflicts.
+- A shift-reduce conflict occurs when the parser can either shift or reduce for the same state and input symbol.
+- A reduce-reduce conflict occurs when the parser can reduce by two or more different production rules for the same state and input symbol.
+- To resolve conflicts, the LR(0) parser can be extended to use more lookahead symbols, which are the symbols that follow the input symbol in the input string.
+- The number of lookahead symbols used by the parser is indicated by a subscript in the LR notation, such as LR(1), LR(2), etc.
+- An LR(1) parser uses one lookahead symbol to decide the action for each state and input symbol.
+- An LR(1) parser is constructed from the canonical collection of LR(1) items, which are sets of production rules with a dot and a lookahead symbol.
+- The canonical collection of LR(1) items is obtained by applying the closure and goto operations on the augmented grammar, similar to the LR(0) case, but with the following modifications:
+  - The closure operation adds all the production rules that can be derived from a given item by expanding the nonterminal symbol after the dot, and propag

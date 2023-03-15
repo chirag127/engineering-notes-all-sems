@@ -1,0 +1,22 @@
+### Formal grammars and their application to syntax analysis
+
+- A formal grammar is a set of rules that define how to construct valid sentences in a language.
+- A formal grammar consists of four components:
+  - A set of **terminals** or **tokens**, denoted by V, which are the basic symbols of the language, such as keywords, identifiers, operators, etc.
+  - A set of **non-terminals** or **variables**, denoted by N, which are the syntactic categories of the language, such as expressions, statements, declarations, etc.
+  - A set of **productions** or **rules**, denoted by P, which specify how to replace a non-terminal by a sequence of terminals and/or non-terminals, such as `expr -> expr + term | term`.
+  - A **start symbol**, denoted by S, which is a special non-terminal that represents the whole program or sentence.
+- A formal grammar can be written as G = <V, N, P, S>.
+- A formal grammar can generate a **language**, which is the set of all sentences that can be derived from the start symbol using the productions.
+- A formal grammar can be classified into different types according to the **Chomsky hierarchy**, which defines the complexity and generative power of the grammar:
+  - Type 0: **Unrestricted grammar**, which has no restrictions on the form of the productions.
+  - Type 1: **Context-sensitive grammar**, which has productions of the form αAβ -> αγβ, where A is a non-terminal and α, β, γ are strings of terminals and/or non-terminals, such that |αγβ| >= |αAβ|.
+  - Type 2: **Context-free grammar**, which has productions of the form A -> γ, where A is a non-terminal and γ is a string of terminals and/or non-terminals.
+  - Type 3: **Regular grammar**, which has productions of the form A -> aB or A -> a, where A and B are non-terminals and a is a terminal.
+- A formal grammar can be used to perform **syntax analysis** or **parsing**, which is the process of checking if a given sentence or program follows the grammatical rules of the language.
+- Syntax analysis is typically the second phase of the compilation process, following lexical analysis, which converts the source code into a sequence of tokens.
+- Syntax analysis can be done by different types of **parsers**, which are algorithms that construct a **parse tree** or a **syntax tree** that represents the syntactic structure of the sentence or program.
+- Parsers can be classified into two main categories:
+  - **Top-down parsers**, which start from the start symbol and try to match the input tokens with the productions, such as recursive descent parsers and LL parsers.
+  - **Bottom-up parsers**, which start from the input tokens and try to reduce them to the start symbol using the productions, such as shift-reduce parsers and LR parsers.
+- Syntax analysis is concerned with the structure, not the meaning, of the sentence or program. The meaning or semantics is handled in a later phase of the compilation process.

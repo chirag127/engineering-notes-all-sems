@@ -1,0 +1,21 @@
+# Map Reduce Types
+
+MapReduce is a programming model and a software framework for processing large-scale data sets in parallel using a cluster of computers or nodes. MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input record and produces a set of intermediate key-value pairs. The reduce phase aggregates the intermediate values associated with the same key and produces the final output.
+
+There are different types of MapReduce applications depending on the nature of the input data, the map and reduce functions, and the output data. Some of the common types of MapReduce applications are:
+
+- **Filtering:** This type of application filters out unwanted records from the input data based on some criteria. For example, a filtering application can remove spam emails from a large collection of emails. The map function can emit only the non-spam emails as intermediate key-value pairs, and the reduce function can simply copy them to the output. Alternatively, the map function can emit a boolean value as the key and the email as the value, and the reduce function can filter out the emails with false keys.
+
+- **Aggregation:** This type of application computes aggregate statistics from the input data, such as count, sum, average, min, max, etc. For example, an aggregation application can calculate the average rating of each movie from a large collection of movie ratings. The map function can emit the movie ID as the key and the rating as the value, and the reduce function can compute the average rating for each movie ID.
+
+- **Join:** This type of application combines two or more input data sets based on some common attribute or key. For example, a join application can merge customer information and order information based on the customer ID. The map function can emit the customer ID as the key and the customer or order information as the value, and the reduce function can concatenate the values for each customer ID.
+
+- **Sorting:** This type of application sorts the input data based on some attribute or key. For example, a sorting application can sort a large collection of words in alphabetical order. The map function can emit the word as the key and a dummy value as the value, and the reduce function can simply output the keys in sorted order.
+
+- **Search:** This type of application searches for a specific pattern or keyword in the input data. For example, a search application can find all the documents that contain a given word or phrase. The map function can emit the document ID as the key and a boolean value as the value, indicating whether the document contains the pattern or not. The reduce function can filter out the documents with false values.
+
+- **Classification:** This type of application assigns a label or category to each input record based on some criteria or model. For example, a classification application can classify emails into different folders based on their content or sender. The map function can emit the email ID as the key and the label as the value, and the reduce function can simply copy them to the output.
+
+- **Clustering:** This type of application groups similar input records into clusters based on some measure of similarity or distance. For example, a clustering application can cluster customers based on their purchase behavior or preferences. The map function can emit a cluster ID as the key and the customer information as the value, and the reduce function can compute the centroid or representative of each cluster.
+
+- **Machine learning:** This type of application applies a machine learning algorithm to the input data to learn a model or perform a prediction. For example, a machine learning application can train a neural network to recognize handwritten digits from a large collection of images. The map function can emit the image ID as the key and the image features as the value, and the reduce function can update the network parameters based on the features and the labels.

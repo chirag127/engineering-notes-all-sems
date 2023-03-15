@@ -1,0 +1,12 @@
+### Data Model Schema and Instances
+
+- A data model is a collection of concepts and rules for describing the structure, meaning, and constraints of the data stored in a database.
+- A schema is the formal description of the structure and organization of the data in a database. It defines the tables, columns, keys, relationships, and constraints of the data.
+- An instance is the set of data stored in a database at a particular moment of time. It represents the current state and values of the data.
+- A data model can have different levels of abstraction, such as conceptual, logical, and physical. Each level has a different degree of detail and complexity.
+- A conceptual data model is the highest level of abstraction. It describes the main entities and relationships of the data without specifying any implementation details. It is used for communication and analysis purposes.
+- A logical data model is the next level of abstraction. It describes the data in terms of a specific data model, such as relational, hierarchical, or network. It specifies the attributes, domains, and constraints of the data. It is used for design and implementation purposes.
+- A physical data model is the lowest level of abstraction. It describes how the data is physically stored and accessed in a database system. It specifies the file structures, indexes, access methods, and performance parameters of the data. It is used for optimization and administration purposes.
+- A schema can also have different levels of abstraction, corresponding to the data model levels. For example, a relational schema is a logical schema that defines the tables, columns, keys, and foreign keys of the data. A physical schema is a physical data model that defines the file structures and indexes of the data.
+- An instance can also have different levels of abstraction, corresponding to the schema levels. For example, a relational instance is a set of rows and columns that satisfy the relational schema. A physical instance is a set of files and records that store the data in the database system.
+- A schema is usually static and does not change frequently. An instance is dynamic and changes constantly as the data is inserted, updated, deleted, or queried.

@@ -1,0 +1,21 @@
+# Testing of Serializability
+
+- Serializability is a property of a schedule of transactions that ensures the consistency and correctness of the database state after the execution of the transactions.
+- A schedule is serializable if it is equivalent to some serial schedule, where the transactions are executed one after the other without any interleaving of operations.
+- There are two types of serializability: conflict serializability and view serializability.
+- Conflict serializability is a stronger notion of serializability that requires that the order of any two conflicting operations (read or write on the same data item) in the schedule is the same as the order in some serial schedule.
+- View serializability is a weaker notion of serializability that requires that the read and write operations of each transaction in the schedule have the same effect as in some serial schedule, but the order of the operations may differ.
+- Testing of serializability involves verifying that a given schedule of transactions is serializable, meaning that the effects of running the transactions concurrently are equivalent to running them serially, one after the other.
+- We can use below two techniques to test serializability in DBMS: serialization graph and precedence graph.
+- A serialization graph or a precedence graph is a directed graph of the transactions in a schedule, where an edge from transaction Ti to transaction Tj indicates that Ti must precede Tj in any serial schedule equivalent to the given schedule.
+- A schedule is conflict serializable if and only if its serialization graph is acyclic, meaning that it does not contain any cycles or loops.
+- A schedule is view serializable if and only if it is conflict serializable or it can be transformed into a conflict serializable schedule by swapping non-conflicting operations.
+- To construct a serialization graph for a given schedule, we follow these steps:
+  - Create a node for each transaction in the schedule.
+  - For each pair of transactions Ti and Tj, where i < j, draw an edge from Ti to Tj if one of the following conditions holds:
+    - Ti performs a write operation on some data item X and Tj performs a read or write operation on X later in the schedule.
+    - Ti performs a read operation on some data item X and Tj performs a write operation on X later in the schedule.
+  - Check if the graph contains any cycles. If yes, the schedule is not conflict serializable. If no, the schedule is conflict serializable and the topological order of the nodes in the graph is a serial schedule equivalent to the given schedule.
+- To check if a schedule is view serializable, we follow these steps:
+  - Check if the schedule is conflict serializable by constructing its serialization graph. If yes, the schedule is view serializable and the serial schedule is the same as the conflict serializable schedule.
+  - If the schedule is not conflict serializable, try to swap non-conflicting operations in the schedule to eliminate cycles in the serialization graph. If this is possible, the schedule is view serializable and the serial schedule is the one obtained after the swapping. If this is not possible, the schedule is not view serializable.

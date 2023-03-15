@@ -1,0 +1,13 @@
+# Design Strategies for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Design strategies are the approaches that are taken to design a software system that meets the requirements and specifications .
+- Design strategies can be classified into three major categories: structured design, function-oriented design, and object-oriented design.
+- Structured design is a design strategy that focuses on the decomposition of the system into modules that have well-defined inputs and outputs. Structured design aims to reduce the complexity and coupling of the system, and increase the cohesion and modularity of the modules.
+- Function-oriented design is a design strategy that focuses on the identification and description of the functions that the system performs. Function-oriented design uses techniques such as data flow diagrams, data dictionaries, and structured charts to represent the system's functions and data.
+- Object-oriented design is a design strategy that focuses on the identification and description of the objects that the system manipulates. Object-oriented design uses techniques such as class diagrams, sequence diagrams, and state diagrams to represent the system's objects and their interactions.
+- Design strategies can also be classified into two types: top-down design and bottom-up design.
+- Top-down design is a design strategy that starts with a high-level view of the system and gradually breaks it down into smaller, more manageable components. Top-down design is useful for defining the overall structure and scope of the system, and for identifying the main functions and data.
+- Bottom-up design is a design strategy that starts with the low-level components of the system and gradually integrates them into larger, more complex components. Bottom-up design is useful for reusing existing components, and for testing and debugging the system.
+- Design strategies are not mutually exclusive, and can be combined or adapted to suit the needs and characteristics of the system .
+- Design strategies are influenced by various factors, such as the type, size, and complexity of the system, the available resources and tools, the development methodology and process, and the quality and performance requirements .
+- Design strategies are important for ensuring the feasibility, reliability, maintainability, and usability of the system, and for facilitating the communication and collaboration among the stakeholders .

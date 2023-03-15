@@ -1,0 +1,27 @@
+### Relationships between pixels
+
+- Pixels are the basic units of a digital image. They have a spatial location and an intensity value.
+- Pixels can have different types of relationships with each other, such as neighborhood, adjacency, connectivity, paths, regions, and boundaries.
+- Neighborhood: The set of pixels that are close to a given pixel in some sense. There are different ways to define a neighborhood, such as the 4-neighbors, the 8-neighbors, or the m-neighbors .
+  - 4-neighbors: The pixels that share a horizontal or vertical edge with the given pixel. For example, the 4-neighbors of pixel p at coordinates (x, y) are (x+1, y), (x-1, y), (x, y+1), and (x, y-1).
+  - 8-neighbors: The pixels that share a horizontal, vertical, or diagonal edge with the given pixel. For example, the 8-neighbors of pixel p at coordinates (x, y) are (x+1, y), (x-1, y), (x, y+1), (x, y-1), (x+1, y+1), (x-1, y+1), (x+1, y-1), and (x-1, y-1).
+  - m-neighbors: The pixels that are within a distance m from the given pixel. For example, the m-neighbors of pixel p at coordinates (x, y) are the pixels that satisfy (x-x')^2 + (y-y')^2 <= m^2, where (x', y') are the coordinates of the neighboring pixel.
+- Adjacency: The property of two pixels being neighbors in a certain sense. There are different types of adjacency, such as 4-adjacency, 8-adjacency, and m-adjacency .
+  - 4-adjacency: Two pixels p and q are 4-adjacent if q is a 4-neighbor of p.
+  - 8-adjacency: Two pixels p and q are 8-adjacent if q is an 8-neighbor of p.
+  - m-adjacency: Two pixels p and q are m-adjacent if q is an m-neighbor of p.
+- Connectivity: The property of a set of pixels being adjacent in a certain sense. There are different types of connectivity, such as 4-connectivity, 8-connectivity, and m-connectivity .
+  - 4-connectivity: A set of pixels S is 4-connected if any two pixels in S can be joined by a path of 4-adjacent pixels that are also in S.
+  - 8-connectivity: A set of pixels S is 8-connected if any two pixels in S can be joined by a path of 8-adjacent pixels that are also in S.
+  - m-connectivity: A set of pixels S is m-connected if any two pixels in S can be joined by a path of m-adjacent pixels that are also in S.
+- Path: A sequence of pixels such that each pixel in the sequence is adjacent to the previous and the next pixel in the sequence. There are different types of paths, such as 4-path, 8-path, and m-path .
+  - 4-path: A path of 4-adjacent pixels.
+  - 8-path: A path of 8-adjacent pixels.
+  - m-path: A path of m-adjacent pixels.
+- Region: A subset of pixels that are connected in a certain sense. There are different types of regions, such as 4-region, 8-region, and m-region .
+  - 4-region: A 4-connected set of pixels.
+  - 8-region: An 8-connected set of pixels.
+  - m-region: An m-connected set of pixels.
+- Boundary: The set of pixels that separate a region from the rest of the image. There are different ways to define a boundary, such as the 4-boundary, the 8-boundary, or the m-boundary .
+  - 4-boundary: The set of pixels that are 4-adjacent to a pixel in the region and a pixel outside the region.
+  - 8-boundary: The set of

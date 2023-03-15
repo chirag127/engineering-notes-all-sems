@@ -1,0 +1,11 @@
+# Quality of Service for the Notes of the Unit 6 - Transport Layer in the Subject of Computer Networks
+
+- Quality of service (QoS) is the ability of a network to provide reliable service to the traffic over various technologies and applications  .
+- QoS is important for the transport layer because it determines what type of service to provide to the session layer and the users of the network.
+- QoS can be affected by various factors such as bandwidth, delay, jitter, packet loss, and error rate.
+- QoS can be improved by using some techniques that can control the traffic and allocate the resources in the network  .
+- The four common methods to improve QoS are:
+  - Scheduling: It is the process of deciding which packet to send next from a queue of packets. Scheduling can prioritize the packets based on their importance, urgency, or deadline. Some examples of scheduling algorithms are first-come first-served (FCFS), priority queueing (PQ), weighted fair queueing (WFQ), and round-robin (RR).
+  - Traffic shaping: It is the process of regulating the rate of packet transmission to avoid congestion and ensure smooth flow of traffic. Traffic shaping can limit the burstiness of the traffic and smooth out the peaks and valleys. Some examples of traffic shaping techniques are leaky bucket, token bucket, and generic cell rate algorithm (GCRA).
+  - Admission control: It is the process of deciding whether to accept or reject a new flow request based on the availability of resources and the QoS requirements of the flow. Admission control can prevent the network from being overloaded and ensure the QoS guarantees for the accepted flows. Some examples of admission control protocols are resource reservation protocol (RSVP), integrated services (IntServ), and differentiated services (DiffServ).
+  - Resource reservation: It is the process of allocating the necessary resources such as bandwidth, buffer, and processing power to the accepted flows. Resource reservation can ensure the QoS guarantees for the accepted flows and avoid the interference from other flows. Some examples of resource reservation techniques are call admission control (CAC), bandwidth broker, and label switching.

@@ -1,0 +1,30 @@
+### Relational Data Model and Language
+
+- Relational Data Model and Language is a way of organizing and manipulating data in a relational database using tables and SQL commands  .
+- A relational database is a collection of relations (tables) that store data in rows (tuples) and columns (attributes)  .
+- A relation has a name and a set of attributes with unique names and domains (data types) .
+- A tuple is a row of values that correspond to the attributes of a relation .
+- A primary key is a set of one or more attributes that uniquely identify a tuple in a relation .
+- A foreign key is a set of attributes in a relation that refer to the primary key of another relation .
+- A relational schema is a set of relation names and their attributes .
+- A relational database schema is a set of relational schemas and the constraints on them .
+- A relational algebra is a set of operations that manipulate relations and produce new relations .
+- A relational calculus is a declarative language that expresses queries on relations using logical formulas .
+- SQL (Structured Query Language) is a widely used language for creating, querying, updating, and managing relational databases  .
+- SQL has three main components: Data Definition Language (DDL), Data Manipulation Language (DML), and Data Control Language (DCL) .
+- DDL is used to define the structure and constraints of the database schema .
+- DML is used to insert, delete, modify, and retrieve data from the database .
+- DCL is used to grant and revoke access rights and privileges to the database .
+- SQL supports various data types, such as integer, decimal, char, varchar, date, time, etc. .
+- SQL supports various operators, such as arithmetic, comparison, logical, set, etc. .
+- SQL supports various clauses, such as select, from, where, group by, having, order by, etc. .
+- SQL supports various functions, such as aggregate, string, date, etc. .
+- SQL supports various commands, such as create, alter, drop, select, insert, update, delete, etc. .
+- SQL supports various constraints, such as primary key, foreign key, unique, not null, check, etc. .
+- SQL supports various joins, such as inner join, left outer join, right outer join, full outer join, etc. .
+- SQL supports various subqueries, such as scalar, correlated, nested, etc. .
+- SQL supports various views, such as simple, complex, materialized, etc. .
+- SQL supports various indexes, such as clustered, non-clustered, hash, etc. .
+- SQL supports various triggers, such as before, after, instead of, etc. .
+- SQL supports various stored procedures, such as functions, procedures, etc. .
+- SQL supports various transactions, such as commit, rollback, savepoint, etc. .

@@ -1,0 +1,26 @@
+### File Transfer Protocol
+
+- File Transfer Protocol (FTP) is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network.
+- FTP is built on a client–server model architecture using separate control and data connections between the client and the server.
+- The original specification for FTP was written by Abhay Bhushan in 1971.
+- FTP exchanges data using two separate channels known as the command channel to authenticate the user, and the data channel to transfer the files.
+- FTP can be used within an internal network of computers, or online between different web servers.
+- FTP can transfer multiple files simultaneously.
+- FTP requires an Internet connection to execute file transfers.
+- FTP has two modes of operation: active mode and passive mode.
+  - In active mode, the client starts listening for incoming data connections from the server on a port specified by the client.
+  - In passive mode, the client initiates both the control and data connections to the server, and the server passively listens for the connections.
+- FTP uses different commands to perform various operations, such as:
+  - USER and PASS to provide the username and password for authentication.
+  - LIST to list the files in the current directory on the server.
+  - RETR to retrieve a file from the server.
+  - STOR to store a file on the server.
+  - QUIT to terminate the FTP session.
+- FTP has some limitations and security risks, such as:
+  - FTP does not encrypt the data or the credentials, making them vulnerable to interception and tampering.
+  - FTP does not support file synchronization, compression, or integrity checking.
+  - FTP does not handle network errors or interruptions gracefully, resulting in incomplete or corrupted file transfers.
+- To overcome these limitations and risks, some alternative file transfer protocols have been developed, such as:
+  - Secure File Transfer Protocol (SFTP), which uses SSH to encrypt the data and the credentials.
+  - File Transfer Protocol Secure (FTPS), which uses SSL/TLS to encrypt the data and the credentials.
+  - Hypertext Transfer Protocol Secure (HTTPS), which uses SSL/TLS to encrypt the data and the credentials, and also supports web browsers as clients.

@@ -1,0 +1,29 @@
+### Architectural Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Architectural design is the process of defining a collection of hardware and software components and their interfaces to establish the framework for the development of a computer system.
+- Architectural design is of crucial importance in software engineering during which the essential requirements like reliability, cost, and performance are dealt with.
+- Architectural design is about decomposing the system into interacting components. It is expressed as a block diagram defining an overview of the system structure, features of the components, and how these components communicate with each other to share data.
+- Architectural design is influenced by the following factors:
+  - The type of system being developed, such as embedded, distributed, real-time, etc.
+  - The quality attributes of the system, such as performance, security, usability, etc.
+  - The business and technical constraints of the system, such as budget, timeline, standards, etc.
+  - The availability of reusable components and patterns that can be applied to the system.
+- Architectural design involves the following steps:
+  - Identify the system's stakeholders and their concerns.
+  - Define the system's scope and context.
+  - Establish the system's quality attributes and trade-offs.
+  - Choose an appropriate architectural style or pattern for the system, such as client-server, layered, microservices, etc.
+  - Decompose the system into components and connectors, and specify their responsibilities and interfaces.
+  - Document and evaluate the architectural design using views, models, and metrics.
+- Architectural design can be represented using different types of diagrams, such as:
+  - Component diagram: shows the components and their dependencies in the system.
+  - Deployment diagram: shows the allocation of components to physical nodes in the system.
+  - Sequence diagram: shows the interactions among components in the system over time.
+  - State diagram: shows the states and transitions of a component in the system.
+  - Use case diagram: shows the actors and scenarios of the system.
+- Architectural design can be validated and verified using different techniques, such as:
+  - Reviews and inspections: involve checking the architectural design against the requirements and standards, and identifying any errors or inconsistencies.
+  - Prototyping: involves creating a simplified or partial version of the system to test its feasibility and functionality.
+  - Simulation: involves modeling the behavior and performance of the system using mathematical or logical tools.
+  - Testing: involves executing the system or its components to check its correctness and quality.
+  - Analysis: involves applying mathematical or logical methods to evaluate the properties and metrics of the system.

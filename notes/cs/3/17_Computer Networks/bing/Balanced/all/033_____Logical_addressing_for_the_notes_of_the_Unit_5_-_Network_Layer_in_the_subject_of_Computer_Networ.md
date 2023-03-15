@@ -1,0 +1,15 @@
+# Logical Addressing
+
+Logical addressing is a scheme of addressing that allows computers to communicate over a network using a global addressing scheme. Logical addresses are also called internet protocol (IP) addresses, and they are assigned by the network layer of the TCP/IP protocol stack. Logical addresses are software-based and may differ from the physical addresses of the network devices, which are hardware-based. Logical addresses are translated into physical addresses by an address translator or mapping function, such as the Address Resolution Protocol (ARP).
+
+## Features of Logical Addressing
+
+- Logical addresses are hierarchical, meaning that they are divided into two parts: a network identifier (netid) and a host identifier (hostid). The netid specifies the network to which the host belongs, and the hostid specifies the host within that network. The netid and hostid are separated by a dot (.) in the IP address format.
+- Logical addresses are unique, meaning that no two hosts on the internet can have the same IP address. This ensures that the packets sent from one host can reach the correct destination host without ambiguity.
+- Logical addresses are portable, meaning that they can be moved from one network to another without changing the address. This allows hosts to maintain their identity and connectivity across different networks.
+- Logical addresses are scalable, meaning that they can accommodate a large number of hosts and networks on the internet. The IP address space is divided into different classes (A, B, C, D, and E) based on the size and type of the network. Each class has a different range of netid and hostid values.
+
+## Methods of Logical Addressing
+
+- Classful addressing: This is the original method of logical addressing, in which the IP address space is divided into five classes (A, B, C, D, and E) based on the first few bits of the address. Each class has a fixed length of netid and hostid, and a default mask that helps to identify them. For example, in a class A address, the first byte is the netid and the remaining three bytes are the hostid. The default mask for class A is 255.0.0.0, which means that the first 8 bits are the netid and the remaining 24 bits are the hostid.
+- Classless addressing: This is the current method of logical addressing, in which the IP address space is not divided into classes, but into variable-length blocks of addresses called prefixes. Each prefix has a network address and a prefix length, which specifies how many bits of the address are the netid. The prefix length is denoted by a slash (/) followed by a number in the IP address format. For example, 192.168.1.0/24 is a prefix that has a network address of 192.168.1.0 and a prefix length of 24, which means that the first 24 bits are the netid and the remaining 8 bits are the hostid. Classless addressing allows more efficient and flexible allocation of IP addresses, and supports subnetting and supernetting.

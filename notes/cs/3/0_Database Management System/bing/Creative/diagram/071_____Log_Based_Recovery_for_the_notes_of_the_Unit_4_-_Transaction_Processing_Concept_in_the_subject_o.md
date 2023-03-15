@@ -1,0 +1,32 @@
+### Log Based Recovery in DBMS
+
+- Log based recovery is a technique used in database management systems (DBMS) to recover a database to a consistent state in the event of a failure or crash.
+- It involves the use of transaction logs, which are records of all the transactions performed on the database.
+- A log file will be created for every operation performed on the database at that point.
+- A log record contains the following information  :
+  - Transaction ID: A unique identifier for each transaction.
+  - Operation: The type of operation performed by the transaction, such as read, write, commit, or abort.
+  - Data Item: The name of the data item affected by the operation.
+  - Old Value: The value of the data item before the operation.
+  - New Value: The value of the data item after the operation.
+- A log record can be written in the following format  :
+  - `<Transaction ID, Operation, Data Item, Old Value, New Value>`
+- For example, if a transaction T1 changes the city of a customer from Chennai to NCR, the log record will be:
+  - `<T1, Write, City, Chennai, NCR>`
+- A start log is produced when the transaction begins  :
+  - `<Transaction ID, Start>`
+- A commit log is produced when the transaction completes successfully  :
+  - `<Transaction ID, Commit>`
+- An abort log is produced when the transaction fails or is aborted  :
+  - `<Transaction ID, Abort>`
+- The log records are stored in a stable storage device, such as a disk, that is not affected by the failure.
+- The log records are also written to the database buffer, which is a temporary storage area in the main memory.
+- The log records in the buffer are periodically flushed to the stable storage device to ensure durability.
+- The process of writing the log records to the stable storage device should be done before the actual changes are made to the database   .
+- This ensures that the log records are always up-to-date and can be used to recover the database in case of a failure   .
+- There are two main methods of log based recovery:
+  - Undo logging: This method restores the database to its state before the failure by undoing the changes made by the transactions that did not commit.
+  - Redo logging: This method restores the database to its state after the failure by redoing the changes made by the transactions that did commit.
+- Both methods use the log records to identify the transactions that need to be undone or redone.
+- The choice of the method depends on the type of failure and the recovery algorithm used by the DBMS.
+- Log based recovery is an efficient and reliable technique to ensure the consistency and durability of the database in the presence of failures.

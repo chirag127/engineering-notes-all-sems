@@ -1,0 +1,30 @@
+### Temporal Consistency
+
+- Temporal consistency is a property of real-time systems that ensures that the data stored in the database reflects the current state of the physical environment.
+- Temporal consistency is different from logical consistency, which is a property of non-real-time systems that ensures that the data stored in the database satisfies the integrity constraints and the consistency rules.
+- Temporal consistency is important for real-time systems because they need to use accurate and up-to-date data to perform time-critical tasks and make correct decisions.
+- Temporal consistency can be violated if the data stored in the database becomes stale or outdated due to the changes in the physical environment or the delays in the data acquisition and update processes.
+- Temporal consistency can be maintained by using various techniques, such as:
+  - Triggered updates, which are updates that are initiated by the data sources whenever there is a significant change in the physical environment.
+  - Periodic updates, which are updates that are performed at regular intervals regardless of the changes in the physical environment.
+  - Temporal validity, which is a measure of how fresh the data is based on its timestamp or expiration time.
+  - Temporal accuracy, which is a measure of how close the data is to the actual value of the physical environment.
+  - Temporal precision, which is a measure of how fine-grained the data is based on its resolution or granularity.
+  - Temporal resolution, which is a measure of how frequently the data is updated based on its sampling rate or update rate.
+- Temporal consistency can be evaluated by using various metrics, such as:
+  - Temporal inconsistency, which is the difference between the data value and the actual value of the physical environment.
+  - Temporal staleness, which is the difference between the current time and the timestamp or expiration time of the data.
+  - Temporal error, which is the combination of temporal inconsistency and temporal staleness.
+  - Temporal utility, which is the usefulness of the data for the real-time tasks based on its temporal validity, accuracy, precision, and resolution.
+- Temporal consistency can be traded off with other performance factors, such as:
+  - Throughput, which is the number of transactions that can be completed in a given time period.
+  - Response time, which is the time elapsed between the submission and the completion of a transaction.
+  - Deadline, which is the time limit for the completion of a transaction.
+  - Concurrency, which is the degree of parallelism among the transactions accessing the same data.
+  - Overhead, which is the extra cost incurred by the data acquisition, update, and validation processes.
+- Temporal consistency can be achieved by using various concurrency control algorithms, such as:
+  - Optimistic concurrency control, which assumes that the transactions will not conflict with each other and validates them at the end.
+  - Pessimistic concurrency control, which assumes that the transactions will conflict with each other and serializes them at the beginning.
+  - Hybrid concurrency control, which combines the features of optimistic and pessimistic concurrency control.
+  - Priority-based concurrency control, which assigns different priorities to the transactions based on their deadlines, types, or utilities.
+  - Semantic concurrency control, which exploits the domain knowledge of the transactions and the data to reduce the conflicts.

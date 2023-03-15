@@ -1,0 +1,17 @@
+# Normalization in Database Management Systems
+
+Normalization is a technique to reduce data redundancy and improve data integrity in a database. It involves dividing a large table into smaller tables based on certain rules, and linking them using keys and references. The main benefits of normalization are:
+
+- It avoids anomalies related to insertion, deletion and updation of data, such as duplication, inconsistency and loss of information.
+- It reduces the storage space required for the database, as it eliminates repeated data.
+- It enhances the performance of the database, as it simplifies the queries and reduces the number of joins.
+- It facilitates the maintenance and modification of the database, as it makes the structure more logical and consistent.
+
+There are different levels of normalization, called normal forms, that define the degree of normalization of a database. The most common normal forms are:
+
+- First Normal Form (1NF): A table is in 1NF if it has no repeating groups of attributes, and each attribute has a single value for each record. For example, a table that stores the name, address and phone numbers of customers is not in 1NF, as the phone numbers attribute can have multiple values for each customer. To convert it to 1NF, we need to split the table into two tables, one for customers and one for phone numbers, and link them using a foreign key.
+- Second Normal Form (2NF): A table is in 2NF if it is in 1NF and has no partial dependencies, meaning that each non-key attribute depends on the whole primary key and not on a subset of it. For example, a table that stores the order details of customers is not in 2NF, as the product name and price depend only on the product ID and not on the order ID. To convert it to 2NF, we need to split the table into two tables, one for orders and one for products, and link them using a foreign key.
+- Third Normal Form (3NF): A table is in 3NF if it is in 2NF and has no transitive dependencies, meaning that each non-key attribute depends only on the primary key and not on another non-key attribute. For example, a table that stores the employee details of a company is not in 3NF, as the department name depends on the department ID, which depends on the employee ID. To convert it to 3NF, we need to split the table into two tables, one for employees and one for departments, and link them using a foreign key.
+- Boyce-Codd Normal Form (BCNF): A table is in BCNF if it is in 3NF and has no overlapping candidate keys, meaning that each attribute is determined by only one candidate key and not by more than one. For example, a table that stores the enrollment details of students in a course is not in BCNF, as the student ID and the course ID are both candidate keys that determine the grade attribute. To convert it to BCNF, we need to split the table into two tables, one for students and one for courses, and link them using a composite primary key of student ID and course ID.
+
+There are higher normal forms, such as fourth normal form (4NF) and fifth normal form (5NF), that deal with more complex dependencies, such as multivalued dependencies and join dependencies, but they are less commonly used in practice. The goal of normalization is to achieve the highest normal form possible without compromising the functionality and usability of the database.

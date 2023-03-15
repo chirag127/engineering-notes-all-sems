@@ -1,0 +1,11 @@
+### Scheduling Concepts
+
+Scheduling is the process of selecting a process from a ready queue and allotting CPU to this process for execution. The operating system schedules the processes in such a way that the CPU doesn’t sit idle and always has one process to execute . The part of OS that allots the computer resources to the processes is termed as a scheduler.
+
+Some of the concepts related to scheduling are:
+
+- **Scheduling criteria**: These are the metrics used to evaluate the performance of a scheduling algorithm. Some of the common criteria are CPU utilization, throughput, turnaround time, waiting time, and response time.
+- **Scheduling algorithms**: These are the methods used by the scheduler to decide which process to run next. Some of the common algorithms are first come first serve (FCFS), shortest job first (SJF), priority, round robin (RR), and multilevel queue.
+- **Preemptive and non-preemptive scheduling**: These are the modes of scheduling that determine whether a process can be interrupted by another process or not. In preemptive scheduling, the CPU can be taken away from a running process by the scheduler if a higher priority process arrives. In non-preemptive scheduling, the CPU cannot be taken away from a running process until it completes or voluntarily relinquishes the CPU.
+- **Schedulers**: These are the components of the OS that perform the scheduling activity. There are three types of schedulers: long-term scheduler, short-term scheduler, and medium-term scheduler. The long-term scheduler selects the jobs to be submitted into the system from the job pool. The short-term scheduler selects the process to run next from the ready queue. The medium-term scheduler performs the swapping of processes between the main memory and the secondary memory.
+- **Context switch**: This is the process of saving the state of a process and restoring the state of another process when the CPU switches from one process to another. Context switch involves the overhead of saving and loading the registers, program counter, memory map, etc. Context switch time is pure overhead, as the system does no useful work while switching.

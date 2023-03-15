@@ -1,0 +1,7 @@
+# A brief history of Screen design
+
+- Developers have been designing screens since a cathode ray tube display was first attached to a computer.
+- More widespread interest in the application of good design principles to screens did not begin to emerge until the early 1970s, when IBM introduced its 3270 cathode ray tube text-based terminal  .
+- Screen design at this time period had little to guide it, being driven by hardware and telephone line transmission issues.
+- A 1970s screen often resembled the one pictured in Figure 1.1. It usually consisted of many fields (more than are shown in the figure), each of which could be individually labeled and could contain data.
+- Effectively using this kind of screen required a great deal of practice and patience.

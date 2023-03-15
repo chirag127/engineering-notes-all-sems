@@ -1,0 +1,11 @@
+### Constructing LALR parsing tables
+
+LALR stands for lookahead LR, which is a type of bottom-up parser that can handle a large class of grammars. LALR parsers use a lookahead symbol to decide which action to take in each state of the parsing process. LALR parsers are more efficient than canonical LR parsers, because they reduce the size of the parsing table by merging states that have the same productions but different lookaheads.
+
+The steps to construct an LALR parsing table are:
+
+1. Construct the canonical collection of LR(1) items, which are pairs of a production with a dot and a lookahead symbol. The dot indicates how much of the production has been parsed, and the lookahead symbol indicates what is expected next. The canonical collection is a set of sets of LR(1) items, where each set represents a state of the parser.
+2. Identify the states that can be merged, which are those that have the same productions but different lookaheads. For example, if two states have the items [A -> a.b, c] and [A -> a.b, d], they can be merged into one state with the item [A -> a.b, c/d].
+3. Merge the states by taking the union of their lookaheads. For example, the merged state from the previous step would have the item [A -> a.b, c/d].
+4. Construct the parsing table by using the merged states as rows and the terminals and nonterminals as columns. The entries of the table are either shift, reduce, accept, or error actions, depending on the items in each state and the input symbol. The shift action moves the input symbol to the stack and advances to the next state. The reduce action pops symbols from the stack according to a production and pushes the left-hand side of the production to the stack. The accept action indicates that the input has been successfully parsed. The error action indicates that the input cannot be parsed by the grammar.
+5. Resolve any conflicts that may arise in the table, which are cases where more than one action is possible for a given state and input symbol. Conflicts can be resolved by using precedence and associativity rules, or by modifying the grammar to make it unambiguous.

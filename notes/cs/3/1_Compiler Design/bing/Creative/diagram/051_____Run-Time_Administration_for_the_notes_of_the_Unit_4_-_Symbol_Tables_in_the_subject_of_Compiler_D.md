@@ -1,0 +1,21 @@
+### Run-Time Administration
+
+- Run-time administration is the process of managing the memory and other resources needed by a program during its execution.
+- Run-time administration involves the following tasks :
+  - Allocating and de-allocating memory for variables, arrays, records, objects, etc.
+  - Maintaining information about the scope and lifetime of variables and procedures.
+  - Implementing parameter passing mechanisms and return values for procedures.
+  - Handling dynamic memory allocation and garbage collection for heap-allocated objects.
+  - Supporting exception handling and debugging features.
+- Run-time administration is performed by the run-time support system, which is a package of code and data structures that is generated with the executable program and interacts with the target machine's operating system.
+- Run-time administration depends on the source language, the target machine, and the implementation choices made by the compiler designer.
+- Run-time administration uses various data structures to store and manipulate the information needed for program execution, such as :
+  - Activation records: blocks of memory that store the information related to a procedure invocation, such as local variables, parameters, return address, etc.
+  - Activation trees: hierarchical structures that represent the nesting of procedure calls during program execution.
+  - Run-time stacks: linear structures that store the activation records in a last-in first-out (LIFO) order, reflecting the control flow of the program.
+  - Symbol tables: associative structures that store the mapping between names and attributes of variables, procedures, types, etc.
+  - Heap: an area of memory that is used for dynamic memory allocation and deallocation, typically using pointers to access the allocated objects.
+- Run-time administration may use different strategies to allocate and deallocate memory, such as :
+  - Static allocation: memory is allocated at compile time and remains fixed throughout the program execution. This is suitable for global variables and constants.
+  - Stack allocation: memory is allocated at run time on the run-time stack and is deallocated when the procedure returns. This is suitable for local variables and parameters.
+  - Heap allocation: memory is allocated at run time on the heap and is deallocated explicitly by the programmer or implicitly by the garbage collector. This is suitable for dynamic data structures and objects.

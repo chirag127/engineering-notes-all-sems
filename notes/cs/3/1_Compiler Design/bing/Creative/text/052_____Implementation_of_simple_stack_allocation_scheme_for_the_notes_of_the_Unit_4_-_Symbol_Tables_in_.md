@@ -1,0 +1,28 @@
+### Implementation of simple stack allocation scheme
+
+- Stack allocation is a runtime storage management technique that organizes storage as a stack .
+- Activation records are pushed and popped onto the stack as activations of procedures begin and end respectively .
+- Stack allocation allows recursive procedures, since each activation of a procedure has its own activation record on the stack.
+- Stack allocation requires that storage be freed in the reverse order of allocation, so that a block of storage being released is always at the top of the stack.
+- Stack allocation can be implemented by using predefined routines in the compiler that manipulate the stack pointer and the frame pointer.
+- The stack pointer points to the top of the stack, where the next activation record will be allocated.
+- The frame pointer points to the base of the current activation record, where the local variables and parameters of the procedure are stored.
+- The activation record of a procedure typically contains the following fields :
+  - Return address: the address of the instruction to resume execution after the procedure returns.
+  - Dynamic link: the frame pointer of the caller's activation record, used to restore the frame pointer when the procedure returns.
+  - Static link: the frame pointer of the activation record of the lexically enclosing procedure, used to access non-local variables in nested procedures.
+  - Local data: the local variables and temporary values of the procedure.
+  - Parameters: the actual parameters passed by the caller to the procedure.
+- The allocation of variable-length data, such as arrays or strings, can be done by using a separate heap or by using a stack segment that grows in the opposite direction of the main stack.
+- The calling sequence of a procedure involves the following steps :
+  - The caller evaluates the actual parameters and pushes them onto the stack in reverse order.
+  - The caller pushes the return address onto the stack.
+  - The caller transfers control to the callee by jumping to its entry point.
+  - The callee allocates a new activation record on the stack by decrementing the stack pointer by the size of the activation record.
+  - The callee initializes the dynamic link and the static link fields of the activation record by copying the frame pointer and the static link of the caller.
+  - The callee sets the frame pointer to point to the base of the new activation record.
+  - The callee executes the body of the procedure, accessing the local data and parameters by using offsets from the frame pointer.
+  - The callee places the return value (if any) in a designated location, such as a register or the top of the stack.
+  - The callee restores the stack pointer, the frame pointer, and the static link by copying the dynamic link, the frame pointer, and the static link fields of the activation record.
+  - The callee pops the return address from the stack and jumps to it, returning control to the caller.
+  - The caller pops the actual parameters from the stack and retrieves the return value (if any) from the designated location.

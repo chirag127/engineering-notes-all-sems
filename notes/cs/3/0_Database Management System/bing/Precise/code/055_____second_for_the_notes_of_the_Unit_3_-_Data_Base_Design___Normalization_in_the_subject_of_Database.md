@@ -1,0 +1,11 @@
+### Unit 3 - Data Base Design & Normalization
+
+1. **Database Design** is the process of designing the database structure to meet the requirements of the system being developed. It involves identifying the entities, attributes, and relationships that will be stored in the database.
+2. **Normalization** is the process of organizing the data in the database to reduce redundancy and dependency. It is achieved by dividing larger tables into smaller, more manageable tables and establishing relationships between them.
+3. There are several normal forms, including **First Normal Form (1NF)**, **Second Normal Form (2NF)**, **Third Normal Form (3NF)**, **Boyce-Codd Normal Form (BCNF)**, **Fourth Normal Form (4NF)**, and **Fifth Normal Form (5NF)**.
+4. **First Normal Form (1NF)** requires that all attributes in a table are atomic, meaning that they cannot be further subdivided. This means that each attribute must contain only one value.
+5. **Second Normal Form (2NF)** requires that all non-key attributes in a table are dependent on the entire primary key. This means that there should be no partial dependencies, where an attribute is dependent on only part of the primary key.
+6. **Third Normal Form (3NF)** requires that all non-key attributes in a table are dependent on the primary key and not on any other non-key attribute. This means that there should be no transitive dependencies, where an attribute is dependent on another attribute that is not part of the primary key.
+7. **Boyce-Codd Normal Form (BCNF)** is a stronger version of 3NF that requires that all determinants in a table be candidate keys. This means that there should be no non-trivial functional dependencies where the determinant is not a candidate key.
+8. **Fourth Normal Form (4NF)** requires that a table has no multi-valued dependencies. This means that there should be no situations where an attribute is dependent on another attribute, but not on the key of the table.
+9. **Fifth Normal Form (5NF)**, also known as **Project-Join Normal Form (PJNF)**, requires that a table has no join dependencies that are not implied by the candidate keys. This means that the table cannot be decomposed into smaller tables without losing information.

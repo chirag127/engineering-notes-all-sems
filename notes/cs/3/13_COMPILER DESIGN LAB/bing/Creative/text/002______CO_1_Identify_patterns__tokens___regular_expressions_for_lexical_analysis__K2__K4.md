@@ -1,0 +1,10 @@
+#### CO 1 Identify patterns, tokens & regular expressions for lexical analysis. K2, K4
+
+- Lexical analysis is the process of converting a sequence of characters from a source program into a sequence of tokens that can be recognized by a compiler or an interpreter.
+- A token is a basic unit of a source program, such as a keyword, an identifier, a constant, an operator, or a delimiter.
+- A pattern is a rule that describes how to form a token from a sequence of characters. For example, a pattern for an identifier may be a letter followed by zero or more letters or digits.
+- A regular expression is a notation for specifying patterns using symbols and operators. For example, the regular expression `[a-zA-Z][a-zA-Z0-9]*` specifies the pattern for an identifier.
+- A regular expression can be represented by a finite automaton, which is a mathematical model of computation that consists of a set of states, a set of input symbols, a transition function, and a set of final states.
+- A finite automaton can be either deterministic or nondeterministic. A deterministic finite automaton (DFA) has exactly one transition for each input symbol and state, while a nondeterministic finite automaton (NFA) may have zero, one, or more transitions for each input symbol and state.
+- A DFA can be used to recognize tokens by scanning the input characters and following the transitions until reaching a final state or an error state. An NFA can be converted to an equivalent DFA using the subset construction algorithm.
+- A lexical analyzer can be implemented by using a table-driven approach or a direct-coded approach. A table-driven approach uses a table of transitions and actions to guide the lexical analyzer, while a direct-coded approach embeds the transitions and actions in the code of the lexical analyzer.

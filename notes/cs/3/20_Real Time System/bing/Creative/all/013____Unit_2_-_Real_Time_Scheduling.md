@@ -1,0 +1,11 @@
+# Unit 2 - Real Time Scheduling
+
+Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines. Real time scheduling aims to ensure that the system can respond to events and requests in a timely and predictable manner, without missing any deadlines or compromising the quality of service.
+
+Some of the topics covered in this unit are:
+
+- **Real time system**: A system that has to react to events or requests within a specified time interval, otherwise it may cause unacceptable consequences or failures. Examples of real time systems are air traffic control, industrial automation, multimedia applications, etc.
+- **Real time task**: A task that has a timing constraint or deadline associated with it, which specifies the latest time by which the task has to be completed. A real time task can be periodic, aperiodic, or sporadic, depending on the pattern of its arrival or activation.
+- **Real time scheduler**: A component of a real time system that decides which task to execute at any given time, based on the priority, deadline, and resource requirements of the tasks. A real time scheduler can be preemptive or non-preemptive, depending on whether it can interrupt a running task or not.
+- **Real time scheduling algorithm**: A rule or method that determines the priority and order of execution of the tasks in a real time system. A real time scheduling algorithm can be static or dynamic, depending on whether the priority of the tasks is fixed or can change during the execution. Some examples of real time scheduling algorithms are rate-monotonic, earliest deadline first, least laxity first, etc.
+- **Real time schedulability**: A property of a real time system that indicates whether it can meet all the deadlines of the tasks under a given scheduling algorithm and workload. A real time system is said to be schedulable if it can guarantee that no deadline will be missed. A real time system can be analyzed for schedulability using various methods, such as utilization bound, response time analysis, simulation, etc.

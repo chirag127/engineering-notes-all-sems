@@ -1,0 +1,11 @@
+### Hive Shell
+- Hive is a data warehousing and SQL-like query language for Hadoop.
+- Hive enables data summarization, querying, and analysis of data.
+- Hive queries are converted into a series of MapReduce jobs for execution.
+- The Hive shell is the primary way to interact with Hive and submit queries.
+- The Hive shell can be started by running the command `hive` from the command line.
+- The Hive shell supports a variety of commands, including data definition, data manipulation, and query execution commands.
+- The Hive shell also supports a variety of settings and configuration options that can be used to customize the behavior of Hive.
+- The Hive shell provides a command history, which can be accessed using the up and down arrow keys.
+- The Hive shell also supports command completion, which can be accessed by pressing the `Tab` key.
+- The Hive shell provides a variety of help and documentation resources, which can be accessed using the `help` command.

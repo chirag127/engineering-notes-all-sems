@@ -1,0 +1,12 @@
+# Data Modeling Using the Entity Relationship Model
+
+- Data modeling is a process of designing and representing the structure and relationships of data in a database.
+- Entity relationship (ER) model is a widely used data modeling technique that uses graphical symbols and connectors to depict the entities and their relationships in a database.
+- An entity is a real-world object or concept that can be identified and distinguished from others. For example, a student, a course, or a book.
+- A relationship is an association or link between two or more entities. For example, a student enrolls in a course, or a book belongs to a category.
+- An entity relationship diagram (ERD) is a visual representation of an ER model, using rectangles to represent entities, diamonds to represent relationships, and lines to connect them. Optionally, attributes and cardinalities can be added to provide more details about the entities and relationships.
+- An attribute is a property or characteristic of an entity or a relationship. For example, a student entity may have attributes such as name, ID, and major. A relationship may have attributes such as date, duration, or role.
+- A cardinality is a constraint that specifies the number of instances of one entity that can be associated with each instance of another entity in a relationship. For example, a student can enroll in many courses, but a course can have only one instructor. This can be expressed as a one-to-many (1:N) cardinality.
+- There are different types of relationships in ER model, such as one-to-one (1:1), one-to-many (1:N), many-to-one (N:1), and many-to-many (N:M). Each type has a different meaning and implication for the database design.
+- ER model can be used to design and represent the conceptual, logical, and physical levels of a database. The conceptual level describes the entities and relationships in a high-level and abstract way, without considering the implementation details. The logical level describes the entities and relationships in a more detailed and structured way, using specific data types and constraints. The physical level describes how the entities and relationships are stored and accessed in a specific database system, using physical structures and indexes.
+- ER model can help the database designers and developers to understand the requirements and specifications of a database, to communicate and collaborate with the stakeholders, to verify and validate the design, and to implement and maintain the database.

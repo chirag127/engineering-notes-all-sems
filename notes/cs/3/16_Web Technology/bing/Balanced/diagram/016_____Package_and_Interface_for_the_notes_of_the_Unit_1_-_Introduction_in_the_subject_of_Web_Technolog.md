@@ -1,0 +1,7 @@
+### Package and Interface
+
+- A **package** is an organized set of related classes and interfaces that belong to a specific domain or functionality. A package helps to group similar types of classes and interfaces and avoid name conflicts. A package can also have subpackages that contain more specific classes and interfaces.   
+- An **interface** is a set of fields and abstract methods that mainly allows implementing abstraction. An interface defines a contract or a behavior that the classes or objects that implement it must follow. An interface can also extend another interface or be implemented by a class.   
+- The main difference between package and interface is that a package is a collection of related classes and interfaces while an interface is a collection of fields and abstract methods.   
+- In web technology, a package can be used to organize the web components such as servlets, filters, listeners, etc. that are required for a web application. A package can also contain utility classes and interfaces that are common to multiple web applications. 
+- In web technology, an interface can be used to define the methods that a web component must implement, such as the javax.servlet.Servlet interface that defines the lifecycle methods of a servlet. An interface can also be used to define the communication between different web components, such as the javax.servlet.http.HttpServletRequest and javax.servlet.http.HttpServletResponse interfaces that represent the request and response objects in a web interaction.

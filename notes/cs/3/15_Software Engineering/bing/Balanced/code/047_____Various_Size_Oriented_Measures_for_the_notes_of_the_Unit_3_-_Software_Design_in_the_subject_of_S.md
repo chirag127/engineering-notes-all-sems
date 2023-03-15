@@ -1,0 +1,11 @@
+### Various Size Oriented Measures
+
+- Size oriented measures are software metrics that are derived by normalizing quality and/or productivity measures by considering the size of the software that has been produced .
+- The size of the software can be measured in different ways, such as lines of code, number of pages of documentation, number of modules, etc.
+- Size oriented measures are useful for estimating the effort, cost, and schedule of software projects, as well as for measuring and comparing the productivity and quality of software developers and teams .
+- Some examples of size oriented measures are:
+
+  - **Lines of code (LOC)**: This is the most common and simple measure of software size. It counts the number of executable statements or instructions in the source code of the software. LOC can be measured in physical lines (number of lines in the text file) or logical lines (number of statements or commands). LOC can vary depending on the programming language, coding style, and level of abstraction used.
+  - **Function points (FP)**: This is a measure of software size that is based on the functionality or features provided by the software to the user. FP counts the number of inputs, outputs, inquiries, files, and interfaces in the software, and assigns a weight to each based on its complexity. FP is independent of the programming language, coding style, and level of abstraction used, and can be estimated from the requirements specification.
+  - **Object points (OP)**: This is a measure of software size that is based on the number and complexity of objects in the software. OP counts the number of screens, reports, and components in the software, and assigns a weight to each based on its complexity. OP is suitable for object-oriented software development, and can be estimated from the design specification.
+  - **Feature points (FEP)**: This is a measure of software size that is based on the number and complexity of features in the software. FEP counts the number of algorithms, data structures, user interfaces, and external interfaces in the software, and assigns a weight to each based on its complexity. FEP is suitable for software that has a high algorithmic content, and can be estimated from the design specification.

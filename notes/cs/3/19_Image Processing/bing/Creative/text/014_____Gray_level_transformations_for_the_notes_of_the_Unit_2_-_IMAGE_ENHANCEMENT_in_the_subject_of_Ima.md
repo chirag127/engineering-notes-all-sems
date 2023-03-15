@@ -1,0 +1,15 @@
+### Gray level transformations
+
+- Gray level transformations are methods of image enhancement that modify the pixel values of an image based on a mathematical function.
+- The general form of a gray level transformation is s = T(r), where r is the input pixel value, s is the output pixel value, and T is the transformation function.
+- The transformation function T can be linear or nonlinear, depending on the desired effect on the image.
+- Some common types of gray level transformations are:
+
+  - **Negative transformation**: s = L - 1 - r, where L is the number of gray levels in the image. This transformation reverses the intensity values of the image, making dark areas bright and vice versa. It can be useful for enhancing white or gray detail embedded in dark regions of an image.
+  - **Logarithmic transformation**: s = c log(1 + r), where c is a constant. This transformation maps a narrow range of low input values into a wider range of output values, and vice versa. It can be useful for expanding the values of dark pixels in an image while compressing the higher-level values. It can also be used to compress the dynamic range of images with large variations in pixel values.
+  - **Power-law (gamma) transformation**: s = c r^γ, where c and γ are constants. This transformation can be used for either contrast enhancement or contrast reduction, depending on the value of γ. If γ < 1, the transformation is similar to the logarithmic transformation, and it can be used to enhance dark regions of an image. If γ > 1, the transformation is similar to the inverse logarithmic transformation, and it can be used to enhance bright regions of an image.
+  - **Piecewise-linear transformation**: This transformation consists of several linear segments that can be used to achieve different effects on different ranges of input values. Some examples of piecewise-linear transformations are:
+
+    - **Contrast stretching**: This transformation increases the contrast of an image by mapping the input values that fall within a specified range to output values that span a larger range. It can be useful for enhancing images that have low contrast due to poor illumination or noise.
+    - **Intensity-level slicing**: This transformation highlights a specific range of input values by mapping them to a high output value, while preserving the other input values. It can be useful for enhancing features of interest in an image, such as edges or regions with a particular gray level.
+    - **Bit-plane slicing**: This transformation extracts the binary bit-planes of an image, which represent the contribution of each bit to the pixel value. It can be useful for analyzing the relative importance of each bit in the image, or for reducing the number of bits required to represent the image without significant loss of information.

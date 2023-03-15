@@ -1,0 +1,12 @@
+### History of Big Data Innovation
+
+- Big Data is a term that refers to the collection, processing, and analysis of large and complex datasets that exceed the capabilities of traditional data management systems.
+- The history of Big Data can be traced back to the origins of data storage and analysis, as well as the development of new technologies and techniques that enabled the handling of massive amounts of information.
+- Some of the key milestones in the history of Big Data are:
+
+  - **Before 1980**: Companies used mainframe computers to store and analyse data. Two key technologies were critical to the first formations of data centers as we think of them today: relational databases and magnetic tape storage  .
+  - **1980s**: The emergence of personal computers and the Internet increased the volume and variety of data generated and exchanged. The concept of data warehousing was introduced to store and analyse data from multiple sources in a central location .
+  - **1990s**: The World Wide Web and e-commerce platforms created new sources of data, such as web logs, clickstreams, and online transactions. The term "Big Data" was first used by John Mashey, a computer scientist at Silicon Graphics, to describe the challenges and opportunities of data-intensive computing .
+  - **2000s**: The advent of social media, cloud computing, and mobile devices further increased the volume, velocity, and variety of data. New technologies and frameworks, such as Hadoop, MapReduce, and NoSQL, were developed to store and process Big Data in a distributed and scalable manner  .
+  - **2010s**: The rise of artificial intelligence, machine learning, and the Internet of Things enabled the extraction of insights and value from Big Data. New types of data, such as images, videos, audio, and sensor data, were added to the mix. The term "Big Data Analytics" was coined to describe the use of advanced analytical techniques, such as predictive modeling, sentiment analysis, and natural language processing, to derive insights from Big Data  .
+  - **2020s**: The future of Big Data is expected to be driven by the convergence of data, analytics, and technology. Some of the emerging trends and challenges include: real-time data processing, edge computing, data privacy and security, data governance and quality, data literacy and democratization, and data ethics and social responsibility  .

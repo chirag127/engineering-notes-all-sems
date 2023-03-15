@@ -1,0 +1,25 @@
+### Types of connections for the notes of the Unit 2 - Physical Layer in the subject of Computer Networks
+
+- The physical layer is the lowest layer in the OSI model that deals with the physical and electrical aspects of data transmission, such as cables, connectors, signals, etc. 
+- The physical layer also defines the physical topology of the network, which is the arrangement of devices and cables in a network. 
+- There are two main types of connections in the physical layer: point-to-point and point-to-multipoint. 
+  - Point-to-point connection: A direct link between two devices that allows data to be transmitted in both directions. 
+    - Example: A cable connecting two computers, a phone line connecting a modem and an ISP, a fiber optic link connecting two switches, etc. 
+  - Point-to-multipoint connection: A link that connects one device to multiple devices using a shared medium. 
+    - Example: A bus topology that uses a single cable to connect multiple devices, a wireless network that uses radio waves to connect multiple devices, a satellite network that uses a satellite to relay signals to multiple devices, etc. 
+- There are also different types of physical topologies that use different combinations of point-to-point and point-to-multipoint connections, such as bus, star, ring, mesh, tree, etc.  
+  - Bus topology: A point-to-multipoint topology that uses a single cable to connect all devices in a network. The cable acts as a bus that carries data from one device to another. 
+    - Advantage: Simple and cheap to install and maintain. 
+    - Disadvantage: Low performance and reliability, as the bus can be a bottleneck and a single fault can affect the whole network. 
+  - Star topology: A point-to-point topology that uses a central device (such as a hub or a switch) to connect all devices in a network. Each device has a dedicated cable to the central device. 
+    - Advantage: High performance and reliability, as the central device can manage the traffic and isolate faults. 
+    - Disadvantage: Expensive and complex to install and maintain, as more cables and devices are required. 
+  - Ring topology: A point-to-point topology that connects all devices in a network in a circular fashion. Each device has a cable to its left and right neighbors. Data travels in one direction around the ring. 
+    - Advantage: Simple and efficient, as no central device is required and data can be transmitted quickly. 
+    - Disadvantage: Low reliability, as a single fault can break the ring and affect the whole network. 
+  - Mesh topology: A point-to-point topology that connects every device to every other device in a network. Each device has multiple cables to different devices. Data can travel through multiple paths to reach the destination. 
+    - Advantage: High performance and reliability, as data can be routed through the best path and faults can be easily detected and bypassed. 
+    - Disadvantage: Very expensive and complex to install and maintain, as a large number of cables and devices are required. 
+  - Tree topology: A point-to-multipoint topology that connects multiple star networks in a hierarchical fashion. The central device of each star network is connected to a higher-level device, forming a tree structure. 
+    - Advantage: Scalable and flexible, as new star networks can be added or removed easily. 
+    - Disadvantage: Dependent on the root device, as a fault in the root device can affect the whole network.

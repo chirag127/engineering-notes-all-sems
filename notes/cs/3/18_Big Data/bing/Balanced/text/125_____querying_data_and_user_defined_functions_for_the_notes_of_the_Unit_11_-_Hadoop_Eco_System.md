@@ -1,0 +1,20 @@
+### Querying Data and User Defined Functions for the Notes of the Unit 11 - Hadoop Eco System
+
+- Hadoop Eco System is a platform or a suite that provides various services to solve the big data problems. It includes Apache projects and various commercial tools and solutions.
+- Hadoop Eco System consists of four major elements: HDFS, MapReduce, YARN, and Hadoop Common.
+- HDFS is the Hadoop Distributed File System, which is a distributed file system designed for storing and managing huge volumes of data residing on commodity hardware. It is scalable, effective and fault tolerant.
+- MapReduce is a programming model and a framework for processing large-scale data sets in parallel using clusters of machines. It consists of two phases: map and reduce. Map phase applies a user-defined function to each input record and produces intermediate key-value pairs. Reduce phase aggregates the intermediate values associated with the same key and produces the final output.
+- YARN is the Yet Another Resource Negotiator, which is a resource management layer that allocates and schedules resources (such as CPU, memory, disk, network) to different applications running on Hadoop. It consists of two components: ResourceManager and NodeManager. ResourceManager is the master that manages the resources across the cluster. NodeManager is the agent that runs on each node and reports the resource usage to the ResourceManager.
+- Hadoop Common is the set of common utilities and libraries that support the other Hadoop modules. It includes configuration, I/O, serialization, compression, authentication, and IPC (Inter-Process Communication) components.
+- Hadoop Eco System also includes various other components that provide different functionalities for data ingestion, storage, processing, analysis, and visualization. Some of the popular components are:
+  - Hive: a data warehouse system for Hadoop that allows users to query data using Structured Query Language (SQL). It can also be used to create and modify tables and views, grant privileges to users, and so on.
+  - Pig: a high-level language for writing data transformation programs. It allows users to express complex data flows using a series of operators. It can also support user-defined functions written in Java, Python, or other languages.
+  - HBase: a distributed, column-oriented database that provides random read/write access to large-scale data. It is based on the Google Bigtable model and can store structured and semi-structured data.
+  - Spark: a fast and general engine for large-scale data processing. It can run on Hadoop, Mesos, standalone, or in the cloud. It supports batch, streaming, SQL, machine learning, and graph processing.
+  - Sqoop: a tool for transferring data between Hadoop and relational databases. It can import data from relational databases to HDFS or Hive, and export data from HDFS or Hive to relational databases.
+  - Flume: a service for collecting, aggregating, and moving large amounts of log data from various sources to HDFS or HBase. It can handle high-throughput and fault-tolerant data ingestion.
+  - Kafka: a distributed messaging system that can handle high-volume and low-latency data streams. It can be used for real-time data processing, analytics, and integration.
+  - Oozie: a workflow scheduler that can coordinate and execute complex Hadoop jobs. It can trigger jobs based on time, data availability, or external events. It can also support branching, looping, and parallel execution of jobs.
+  - ZooKeeper: a centralized service that provides coordination, configuration, and synchronization for distributed applications. It can maintain configuration information, naming, group membership, and status of the nodes in the cluster.
+  - Mahout: a library of scalable machine learning algorithms for Hadoop. It can perform clustering, classification, recommendation, and dimensionality reduction on large-scale data sets.
+  - Hue: a web-based user interface that provides access to various Hadoop components and applications. It can help users to browse, query, analyze, and visualize data stored in Hadoop.

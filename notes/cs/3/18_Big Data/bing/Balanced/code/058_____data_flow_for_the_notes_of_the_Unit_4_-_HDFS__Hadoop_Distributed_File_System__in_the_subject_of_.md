@@ -1,0 +1,26 @@
+### Data flow for the notes of the Unit 4 - HDFS (Hadoop Distributed File System) in the subject of Big Data
+
+- HDFS is a distributed file system that stores large data sets across multiple nodes in a cluster. It is designed to run on commodity hardware and provide high fault-tolerance, scalability, and throughput.  
+- HDFS divides the data into fixed-size blocks (default 128 MB) and distributes them across the DataNodes in the cluster. Each block is replicated on multiple DataNodes (default 3) for reliability.  
+- HDFS has a master-slave architecture, where the NameNode is the master node that manages the metadata of the file system, such as the file names, locations, permissions, etc. The DataNodes are the slave nodes that store the actual data blocks and serve read and write requests from the clients.  
+- HDFS supports two types of data flow: read and write. In both cases, the client interacts with the NameNode to get the metadata information and then directly communicates with the DataNodes to transfer the data.  
+- HDFS read data flow:
+  - The client opens a file for reading by calling the open() method of the DistributedFileSystem class, which is a wrapper over the FileSystem class.
+  - The DistributedFileSystem class communicates with the NameNode and gets the list of blocks and their locations for the file.
+  - The DistributedFileSystem class returns a FSDataInputStream object to the client, which is a wrapper over the DFSInputStream class.
+  - The client calls the read() method of the FSDataInputStream object, which internally calls the DFSInputStream class.
+  - The DFSInputStream class chooses the best DataNode for each block based on the proximity and availability of the replicas.
+  - The DFSInputStream class establishes a TCP connection with the chosen DataNode and requests the block.
+  - The DataNode transfers the block to the client through the TCP connection.
+  - The client reads the data from the TCP connection and closes the connection once the block is read completely.
+  - The client repeats the steps 6 to 8 for each block of the file until the end of the file is reached. 
+- HDFS write data flow:
+  - The client opens a file for writing by calling the create() method of the DistributedFileSystem class, which is a wrapper over the FileSystem class.
+  - The DistributedFileSystem class communicates with the NameNode and requests a new file to be created. The NameNode checks if the file already exists or the parent directory is valid, and then grants the permission to create the file.
+  - The DistributedFileSystem class returns a FSDataOutputStream object to the client, which is a wrapper over the DFSOutputStream class.
+  - The client calls the write() method of the FSDataOutputStream object, which internally calls the DFSOutputStream class.
+  - The DFSOutputStream class splits the data into packets and writes them to an internal queue, called the data queue. The data queue is consumed by the DataStreamer, which is responsible for sending the packets to the DataNodes.
+  - The DataStreamer asks the NameNode to allocate a new block and choose a list of DataNodes to host the replicas of the block. The list of DataNodes forms a pipeline, where the first DataNode is the closest to the client.
+  - The DataStreamer streams the packets to the first DataNode in the pipeline, which stores the packet and forwards it to the second DataNode in the pipeline. The process continues until the last DataNode in the pipeline receives the packet.
+  - The DataNodes send acknowledgments to the client when they receive the packets. The acknowledgments are put in another internal queue, called the ack queue. The ack queue is consumed by the DFSOutputStream class, which confirms that the packets are successfully written.
+  - The client repeats the steps 5 to 8 until the first block is filled. Then the DataStreamer finalizes the block and requests the NameNode to allocate a new block and a new pipeline. The process continues until the last block is written and finalized.

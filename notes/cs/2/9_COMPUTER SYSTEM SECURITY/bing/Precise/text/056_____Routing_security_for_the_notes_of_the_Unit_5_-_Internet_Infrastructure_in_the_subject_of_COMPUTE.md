@@ -1,0 +1,5 @@
+### Routing Security
+
+Routing security is a key component of an organization’s IT infrastructure, especially as critical academic and business functions move to the cloud. The security of the global routing system is crucial to the Internet’s continued growth and to safeguard the opportunities it provides for all users. Every year, thousands of routing incidents occur, each with the potential to harm user trust and handicap the Internet’s potential.
+
+One initiative to improve routing security is the Mutually Agreed Norms for Routing Security (MANRS), a global initiative supported by the Internet Society that provides crucial fixes to reduce the most common routing threats. Companies such as Google have also taken steps to improve routing security, such as registering more than 99% of its routes in the Resource Public Key Infrastructure (RPKI) and deploying origin validation to ensure that invalid routes are rejected.

@@ -1,0 +1,26 @@
+### SRS Document for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- A software requirement specification (SRS) is a document that describes the features, functions, and constraints of a software system.
+- The purpose of an SRS is to provide a clear and complete description of the software system to the stakeholders, such as customers, developers, testers, and managers.
+- An SRS helps to ensure that the software system meets the needs and expectations of the stakeholders, and that the development process is efficient and effective.
+- An SRS should follow some general principles, such as:
+  - Be consistent, concise, and precise.
+  - Use clear and unambiguous language and terminology.
+  - Avoid unnecessary details and assumptions.
+  - Specify the requirements, not the design or implementation.
+  - Organize the requirements logically and hierarchically.
+  - Trace the requirements to the sources and objectives.
+  - Validate and verify the requirements with the stakeholders.
+- An SRS can follow different formats and standards, depending on the type and complexity of the software system, and the preferences and practices of the organization.
+- Some common formats and standards for SRS are:
+  - IEEE 830-1998: A standard for recommended practice for software requirements specifications.
+  - IEEE 29148-2018: A standard for systems and software engineering - life cycle processes - requirements engineering.
+  - Volere: A template for software requirements specifications, based on the snow card technique.
+  - FURPS+: A model for classifying and prioritizing the functional and non-functional requirements, based on the attributes of functionality, usability, reliability, performance, and supportability, plus other considerations.
+- An SRS typically consists of several sections, such as:
+  - Introduction: Provides an overview of the software system, its scope, objectives, assumptions, and references.
+  - User requirements: Describes the needs and expectations of the end users, in terms of user stories, use cases, scenarios, or user interfaces.
+  - System requirements: Describes the features and functions of the software system, in terms of functional requirements, non-functional requirements, and constraints.
+  - System models: Provides a graphical or textual representation of the software system, such as data flow diagrams, entity-relationship diagrams, state transition diagrams, or UML diagrams.
+  - System evolution: Specifies the changes and enhancements that are expected or planned for the software system in the future.
+  - Appendices: Contains any additional or supplementary information that is relevant to the software system, such as glossary, acronyms, references, or index.

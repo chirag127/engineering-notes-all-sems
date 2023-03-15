@@ -1,0 +1,22 @@
+# Automatic Construction of Efficient Parsers
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A parser can be constructed manually or automatically using a parser generator tool.
+- A parser generator is a program that takes a grammar specification as input and produces a parser program as output.
+- A parser generator can use different parsing algorithms to construct the parser, such as top-down, bottom-up, or hybrid methods.
+- One of the most widely used parsing algorithms is the LR algorithm, which is a bottom-up method that can handle a large class of grammars, including most programming languages.
+- LR stands for Left-to-right scan of the input and Rightmost derivation of the parse tree.
+- LR parsers can be classified into different types based on the amount of lookahead symbols they use and the way they construct the parsing tables, such as SLR, LALR, or canonical LR parsers.
+- LR parsers use two data structures: a stack and a parsing table. The stack stores the symbols that have been processed so far, and the parsing table guides the actions of the parser based on the current input symbol and the top of the stack.
+- The parsing table consists of two parts: an action table and a goto table. The action table specifies what action the parser should take for each state and input symbol, such as shift, reduce, accept, or error. The goto table specifies the next state the parser should go to after a reduction.
+- The parsing table is constructed from the grammar using a set of items, which are productions with a dot indicating the position of the parser. An item can be either a kernel item or a non-kernel item, depending on whether the dot is at the beginning or not.
+- The set of items for a grammar is called the canonical collection of LR(0) items, which can be computed using a closure and a goto function. The closure function adds all the items that can be derived from a given item by expanding the non-terminal after the dot. The goto function computes the set of items that can be reached from a given set of items by shifting a given symbol.
+- The canonical collection of LR(0) items forms the states of the LR(0) automaton, which is a finite state machine that recognizes the viable prefixes of the grammar. A viable prefix is a prefix of a right sentential form that does not extend past the right end of the rightmost handle.
+- The LR(0) automaton can be used to construct the SLR parsing table, which stands for Simple LR. The SLR parsing table uses the follow sets of the non-terminals to determine the reduce actions. The follow set of a non-terminal is the set of terminals that can appear immediately after that non-terminal in a sentential form.
+- The SLR parsing table may have conflicts, which are situations where the parser has more than one possible action for a given state and input symbol. Conflicts can be either shift-reduce or reduce-reduce. A conflict indicates that the grammar is not SLR.
+- The SLR parsing table can be improved by using more precise information about the lookahead symbols, which can be obtained by computing the LR(1) items. An LR(1) item is an LR(0) item augmented with a lookahead symbol, which indicates what symbol can follow the handle corresponding to the item.
+- The canonical collection of LR(1) items can be computed using a similar closure and goto function as for LR(0) items, but taking into account the lookahead symbols. The canonical collection of LR(1) items forms the states of the LR(1) automaton, which is more refined than the LR(0) automaton.
+- The LR(1) automaton can be used to construct the canonical LR parsing table, which uses the lookahead symbols of the items to determine the reduce actions. The canonical LR parsing table is the most powerful and precise among the LR parsing tables, but it may be very large and complex.
+- The canonical LR parsing table can be reduced by merging some states that have the same LR(0) items but different lookahead symbols. This results in the LALR parsing table, which stands for Look-Ahead LR. The LALR parsing table is smaller and simpler than the canonical LR parsing table, but it may introduce some conflicts that were not present in the canonical LR parsing table.
+- The LALR parsing table is the most commonly used among the LR parsing tables, as it offers a good balance between power and simplicity. Most parser generator tools, such as YACC, use the LALR algorithm to construct the parsers.
+- Automatic

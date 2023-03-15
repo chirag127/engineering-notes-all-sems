@@ -1,0 +1,11 @@
+### Prepare a SRS document in line with the IEEE recommended standards for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- A software requirements specification (SRS) is a description of a software system to be developed. It is modeled after business requirements specification (CONOPS) .
+- A SRS document should follow the IEEE 29148 standard, which covers the processes and information it recommends for a SRS document, as well as its format .
+- A SRS document should include the following sections  :
+  - Introduction: This section should provide an overview of the software system, its purpose, scope, objectives, and intended users. It should also define any terms, acronyms, or abbreviations used in the document.
+  - Overall description: This section should describe the general factors that affect the software system, such as its context, functions, user characteristics, constraints, assumptions, and dependencies. It should also provide a high-level view of the system architecture and interfaces.
+  - Specific requirements: This section should describe the functional and nonfunctional requirements of the software system in detail. It should specify what the system should do, how it should behave, and what qualities it should have. It should also define any external interfaces, performance requirements, design constraints, and quality attributes of the system.
+  - Appendices: This section should provide any additional information that is relevant to the SRS document, such as data models, diagrams, tables, charts, references, or glossaries.
+- A SRS document should be clear, concise, consistent, complete, correct, and verifiable. It should use simple and precise language, avoid ambiguity and redundancy, and follow a logical structure. It should also be traceable, modifiable, and testable  .
+- A SRS document should be reviewed and validated by the stakeholders (business, users, developers, testers, etc.) to ensure that it meets their needs and expectations. It should also be updated and maintained throughout the software lifecycle to reflect any changes or feedback  .

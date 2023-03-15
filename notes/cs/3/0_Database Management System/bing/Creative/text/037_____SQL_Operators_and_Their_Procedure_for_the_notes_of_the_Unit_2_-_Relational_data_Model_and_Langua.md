@@ -1,0 +1,11 @@
+### SQL Operators and Their Procedure
+
+SQL operators are symbols or keywords that are used to perform certain operations on data in a relational database. SQL operators can be classified into four categories:
+
+- Arithmetic operators: These operators are used to perform mathematical calculations on numeric data. For example, `+`, `-`, `*`, `/`, and `%` are arithmetic operators. The procedure for using arithmetic operators is to write them between two operands (values or expressions) that are compatible in data type and size. For example, `SELECT salary + bonus AS income FROM employees;` will add the values of salary and bonus columns and display the result as income.
+
+- Comparison operators: These operators are used to compare two values or expressions and return a Boolean value (TRUE, FALSE, or UNKNOWN) as the result. For example, `=`, `<>`, `<`, `>`, `<=`, `>=`, `BETWEEN`, `IN`, `LIKE`, and `IS NULL` are comparison operators. The procedure for using comparison operators is to write them between two operands that are compatible in data type and size, and use them in conditions such as `WHERE`, `HAVING`, or `JOIN`. For example, `SELECT name FROM students WHERE age BETWEEN 18 AND 22;` will display the names of students whose age is between 18 and 22.
+
+- Logical operators: These operators are used to combine two or more conditions and return a Boolean value as the result. For example, `AND`, `OR`, `NOT`, and `XOR` are logical operators. The procedure for using logical operators is to write them between two or more operands that are Boolean expressions, and use them in conditions such as `WHERE`, `HAVING`, or `JOIN`. For example, `SELECT name FROM customers WHERE city = 'New York' AND gender = 'F';` will display the names of female customers who live in New York.
+
+- Set operators: These operators are used to combine two or more queries and return a single result set. For example, `UNION`, `UNION ALL`, `INTERSECT`, and `EXCEPT` are set operators. The procedure for using set operators is to write them between two or more operands that are select statements, and make sure that the operands have the same number and data type of columns. For example, `SELECT name FROM employees UNION SELECT name FROM customers;` will display the names of employees and customers without any duplicates.

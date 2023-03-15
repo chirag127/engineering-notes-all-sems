@@ -1,0 +1,23 @@
+### Frequency Domain
+
+- Frequency domain is a way of representing an image in terms of its spatial frequencies, which are the rates of change of pixel values in different directions.
+- Frequency domain methods of image enhancement are based on the Fourier transform, which converts an image from the spatial domain to the frequency domain, and vice versa.
+- The Fourier transform of an image F(u,v) is a complex function that contains both the amplitude and the phase information of the spatial frequencies in the image.
+- The amplitude spectrum |F(u,v)| shows the distribution of the spatial frequencies in the image, while the phase spectrum ∠F(u,v) shows the relative position of the spatial frequencies in the image.
+- The frequency domain methods of image enhancement involve modifying the Fourier transform of the image F(u,v) by multiplying it with a filter function H(u,v), and then taking the inverse Fourier transform to obtain the enhanced image G(x,y).
+- The filter function H(u,v) can be designed to emphasize or suppress certain spatial frequencies in the image, depending on the desired enhancement effect.
+- Some common frequency domain filters are:
+  - Low-pass filters: These filters attenuate the high spatial frequencies and preserve the low spatial frequencies in the image. They can be used to reduce noise or blur the image.
+  - High-pass filters: These filters attenuate the low spatial frequencies and preserve the high spatial frequencies in the image. They can be used to enhance the edges or sharpen the image.
+  - Band-pass filters: These filters attenuate the spatial frequencies outside a certain range and preserve the spatial frequencies within that range. They can be used to isolate or enhance specific features in the image.
+  - Band-reject filters: These filters attenuate the spatial frequencies within a certain range and preserve the spatial frequencies outside that range. They can be used to remove or reduce unwanted features in the image.
+  - Notch filters: These filters attenuate the spatial frequencies at specific locations in the frequency domain. They can be used to remove or reduce periodic noise or interference in the image.
+- The frequency domain methods of image enhancement have some advantages and disadvantages over the spatial domain methods. Some of them are:
+  - Advantages:
+    - The concept of filtering is easier to visualize and understand in the frequency domain.
+    - The frequency domain methods can perform complex filtering operations more efficiently than the spatial domain methods, especially when the filter size is large.
+    - The frequency domain methods can handle images with non-uniform illumination or contrast better than the spatial domain methods.
+  - Disadvantages:
+    - The frequency domain methods require the computation of the Fourier transform and the inverse Fourier transform, which can be computationally expensive and introduce errors due to rounding or quantization.
+    - The frequency domain methods can introduce artifacts or distortions in the enhanced image, such as ringing, aliasing, or loss of phase information.
+    - The frequency domain methods can be sensitive to the choice of the filter function and the filter parameters, which may not be easy to determine or optimize.

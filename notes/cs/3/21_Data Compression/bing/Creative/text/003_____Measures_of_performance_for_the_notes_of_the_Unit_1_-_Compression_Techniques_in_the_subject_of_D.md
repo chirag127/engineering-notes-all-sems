@@ -1,0 +1,17 @@
+### Measures of performance for compression techniques
+
+- Compression techniques are methods to reduce the size of data by removing redundancy or transforming the data into a more compact representation.
+- Compression techniques can be classified into two categories: lossless and lossy. Lossless compression techniques preserve the exact information of the original data, while lossy compression techniques allow some distortion or degradation of the data quality in exchange for higher compression ratios.
+- Compression techniques can be applied to different types of data, such as text, images, audio, video, etc. Depending on the type and characteristics of the data, different compression techniques may be more suitable or efficient.
+- To evaluate the performance of compression techniques, several metrics can be used, such as:
+  - Compression ratio (CR): the ratio of the size of the original data to the size of the compressed data. Higher CR means higher compression efficiency.
+  - Compression factor (CF): the inverse of CR, i.e., the ratio of the size of the compressed data to the size of the original data. Lower CF means higher compression efficiency.
+  - Bits per character (bpc) or bits per pixel (bpp): the average number of bits used to represent each character or pixel in the compressed data. Lower bpc or bpp means higher compression efficiency.
+  - Distortion: the difference between the original data and the decompressed data. Distortion can be measured by various criteria, such as mean squared error (MSE), root mean squared error (RMSE), peak signal-to-noise ratio (PSNR), structural similarity index (SSIM), etc. Lower distortion means higher data quality and fidelity.
+  - Accuracy: the degree to which the compressed data preserves the essential information or features of the original data. Accuracy can be measured by various criteria, such as precision, recall, F1-score, etc. Higher accuracy means higher data utility and relevance.
+  - Resource consumption: the amount of time, memory, or energy required to perform compression or decompression. Lower resource consumption means higher compression efficiency and scalability.
+- To measure the performance of compression techniques, various tools and methods can be used, such as:
+  - Query logs: records of the queries and responses of the compressed data. Query logs can be used to analyze the query execution time, throughput, latency, and accuracy of the compressed data queries.
+  - Monitors: software or hardware devices that measure and display the resource consumption of the compression or decompression processes. Monitors can be used to analyze the CPU, memory, disk, or network usage of the compression or decompression processes.
+  - Profilers: software or hardware tools that measure and report the performance characteristics of the compression or decompression algorithms. Profilers can be used to analyze the code complexity, execution time, memory allocation, function calls, etc. of the compression or decompression algorithms.
+  - Benchmarks: standardized tests or datasets that evaluate and compare the performance of different compression techniques. Benchmarks can be used to measure and report the CR, CF, bpc, bpp, distortion, accuracy, and resource consumption of different compression techniques on various types of data.

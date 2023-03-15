@@ -1,0 +1,33 @@
+# Machine-Independent Optimizations
+
+- Machine-independent optimizations are transformations applied to the intermediate code that do not depend on the target machine architecture.
+- The main aim of machine-independent optimizations is to improve the quality of the intermediate code so that the compiler can generate better target code.
+- Machine-independent optimizations can reduce the execution time, memory usage, and code size of the target program.
+- Some examples of machine-independent optimizations are:
+
+  - Common subexpression elimination: This optimization removes redundant computations of the same subexpression by reusing the previously computed value.
+  - Folding: This optimization evaluates constant expressions at compile time and replaces them with their values.
+  - Dead code elimination: This optimization removes statements or blocks of code that have no effect on the program output or flow of control.
+  - Copy propagation: This optimization replaces the use of a variable with the value of another variable that has been assigned the same value.
+  - Loop invariant code motion: This optimization moves statements or expressions that do not depend on the loop variable outside the loop body, so that they are executed only once.
+  - Loop unrolling: This optimization replicates the loop body multiple times and reduces the number of loop iterations, thus saving the overhead of loop control.
+  - Loop fusion: This optimization combines two or more loops that have the same iteration range and do not interfere with each other into a single loop, thus saving the overhead of loop control.
+  - Loop interchange: This optimization changes the order of nested loops to improve the locality of reference and cache performance.
+  - Loop distribution: This optimization splits a loop into two or more loops that have the same iteration range but operate on different data, thus enabling parallelism or reducing memory conflicts.
+  - Loop peeling: This optimization removes one or more iterations from the beginning or the end of a loop and executes them separately, thus simplifying the loop condition or enabling other optimizations.
+  - Loop reversal: This optimization changes the direction of a loop from increasing to decreasing or vice versa, thus simplifying the loop condition or enabling other optimizations.
+  - Loop inversion: This optimization transforms a while loop into a do-while loop or vice versa, thus simplifying the loop condition or enabling other optimizations.
+  - Loop unswitching: This optimization moves a conditional statement that does not depend on the loop variable outside the loop body, thus reducing the number of branches in the loop.
+  - Loop skewing: This optimization shifts the iteration space of a loop by a constant amount, thus aligning the loop boundaries or enabling other optimizations.
+  - Strength reduction: This optimization replaces an expensive operation with a cheaper one that has the same effect, such as replacing multiplication by a power of two with a shift operation.
+  - Induction variable elimination: This optimization eliminates redundant variables that are used to control the loop iteration, such as replacing i = i + 1 with i++.
+  - Algebraic simplification: This optimization applies algebraic rules to simplify expressions, such as removing identity elements, applying commutativity, associativity, distributivity, etc.
+  - Boolean simplification: This optimization applies Boolean rules to simplify expressions, such as removing tautologies, contradictions, applying De Morgan's laws, etc.
+  - Redundant code elimination: This optimization removes code that is never executed or that is subsumed by another code, such as unreachable code, duplicate code, etc.
+  - Code motion: This optimization moves code from a frequently executed place to a less frequently executed place, such as moving invariant code out of a loop or moving code from inside a conditional statement to outside.
+  - Code hoisting: This optimization moves code from a less frequently executed place to a more frequently executed place, such as moving invariant code into a loop or moving code from outside a conditional statement to inside.
+  - Code sinking: This optimization moves code from a more frequently executed place to a less frequently executed place, such as moving variant code out of a loop or moving code from inside a conditional statement to outside.
+  - Tail recursion elimination: This optimization replaces a recursive call at the end of a function with a jump to the beginning of the function, thus saving the stack space and the overhead of function call and return.
+  - Inline expansion: This optimization replaces a function call with the body of the function, thus saving the overhead of function call and return and enabling other optimizations.
+  - Function cloning: This optimization creates multiple versions of a function with different parameters or preconditions, thus enabling specialization or simplification of the function body.
+  - Partial redundancy elimination: This optimization removes computations that are partially redundant, i.e., they are executed more than once along some paths but not

@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for Unit 1 - Introduction.
+
+## Unit 1 - Introduction
+
+- This unit introduces the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, natural language processing, computer vision, etc.
+- AI can be classified into two main categories: weak AI and strong AI.
+  - Weak AI, also known as narrow AI, is the type of AI that can perform specific tasks or solve specific problems, but does not have general intelligence or understanding of the world. Examples of weak AI are speech recognition, face detection, chess playing, etc.
+  - Strong AI, also known as artificial general intelligence (AGI), is the type of AI that can perform any intellectual task that a human can, and has human-like consciousness, self-awareness, and emotions. Examples of strong AI are HAL 9000 from 2001: A Space Odyssey, Data from Star Trek, etc. Strong AI is still a hypothetical and controversial concept, and there is no consensus on whether it is possible or desirable to achieve it.
+- AI can also be classified into two main approaches: symbolic AI and sub-symbolic AI.
+  - Symbolic AI, also known as classical AI or rule-based AI, is the approach that uses symbols and rules to represent and manipulate knowledge and reasoning. Symbolic AI relies on logic, search, and knowledge representation and reasoning (KRR) techniques to solve problems. Examples of symbolic AI are expert systems, logic programming, ontologies, etc.
+  - Sub-symbolic AI, also known as connectionist AI or neural network-based AI, is the approach that uses numerical values and mathematical operations to model and simulate complex phenomena and behaviors. Sub-symbolic AI relies on machine learning, neural networks, evolutionary computation, fuzzy logic, etc. to learn from data and adapt to new situations. Examples of sub-symbolic AI are deep learning, reinforcement learning, genetic algorithms, etc.
+- AI can also be classified into two main goals: human-inspired AI and humanized AI.
+  - Human-inspired AI is the goal of creating AI systems that can mimic or simulate human cognitive processes and behaviors, such as perception, memory, attention, language, emotion, etc. Human-inspired AI aims to understand how humans think and act, and to use that knowledge to improve AI systems or to test hypotheses about human cognition. Examples of human-inspired AI are cognitive architectures, cognitive robotics, natural language processing, etc.
+  - Humanized AI is the goal of creating AI systems that can interact with humans in natural and social ways, such as communication, collaboration, empathy, trust, etc. Humanized AI aims to enhance human capabilities and well-being, and to create harmonious and beneficial relationships between humans and AI systems. Examples of humanized AI are social robots, affective computing, human-computer interaction, etc.

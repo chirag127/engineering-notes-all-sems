@@ -1,0 +1,16 @@
+### Machine-Independent Optimizations
+
+Machine-independent optimizations are techniques that improve the quality of the intermediate code without considering the specific features of the target machine. They aim to reduce the execution time and/or the code size of the generated target code. Machine-independent optimizations can be applied to any intermediate representation, such as abstract syntax trees, three-address code, or static single assignment form.
+
+Some of the common machine-independent optimizations are:
+
+- **Common subexpression elimination**: This optimization identifies and eliminates redundant computations of the same expression. For example, if x + y is computed twice in a basic block, the second occurrence can be replaced by a temporary variable that stores the value of the first occurrence.
+- **Constant folding**: This optimization evaluates constant expressions at compile time and replaces them with their values. For example, 2 + 3 can be replaced by 5, and x * 0 can be replaced by 0.
+- **Constant propagation**: This optimization replaces the use of a variable that has a constant value with the constant itself. For example, if x is assigned 5 in a basic block, then x + y can be replaced by 5 + y in the same block or in a successor block that does not redefine x.
+- **Copy propagation**: This optimization replaces the use of a variable that has the same value as another variable with the other variable. For example, if x is assigned y in a basic block, then x + z can be replaced by y + z in the same block or in a successor block that does not redefine x or y.
+- **Dead code elimination**: This optimization removes statements or blocks that have no effect on the program execution. For example, an assignment to a variable that is never used, or a conditional branch that is always true or false, can be eliminated.
+- **Algebraic simplification**: This optimization applies algebraic rules to simplify expressions and eliminate unnecessary operations. For example, x * 1 can be replaced by x, x + 0 can be replaced by x, and x - x can be replaced by 0.
+- **Strength reduction**: This optimization replaces expensive operations with cheaper ones that have the same effect. For example, x * 2 can be replaced by x + x, x * 4 can be replaced by x << 2, and x / 2 can be replaced by x >> 1.
+- **Loop invariant code motion**: This optimization moves computations that do not depend on the loop variable outside the loop, so that they are executed only once instead of repeatedly. For example, if x + y is invariant in a loop, it can be computed before the loop and assigned to a temporary variable, which can be used inside the loop.
+- **Induction variable elimination**: This optimization eliminates redundant variables that are incremented or decremented by a constant in a loop. For example, if i and j are both incremented by 1 in a loop, one of them can be eliminated and replaced by the other.
+- **Loop unrolling**: This optimization replicates the body of a loop multiple times and reduces the number of iterations, thus reducing the overhead of loop control. For example, a loop that iterates 10 times can be unrolled into two loops that iterate 5 times each, or a single loop that iterates 5 times with two copies of the body.

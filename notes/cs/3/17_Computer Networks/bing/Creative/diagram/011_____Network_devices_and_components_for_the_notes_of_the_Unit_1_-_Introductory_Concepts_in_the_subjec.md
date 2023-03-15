@@ -1,0 +1,15 @@
+### Network devices and components
+
+Network devices and components are the hardware and software elements that enable communication and data exchange between different devices on a network. They can be classified into different types based on their functions, locations, and roles in the network. Some of the basic network devices and components are:
+
+- **Sender and receiver**: These are the end points of a network communication, such as computers, printers, scanners, etc. They send and receive data packets over the network using network interface cards (NICs) and network media.
+- **Network interface card (NIC)**: This is a hardware device that connects a sender or receiver to the network media, such as a cable or a wireless signal. It provides a unique address (MAC address) for each device on the network and enables data transmission and reception.
+- **Network media**: This is the physical or wireless medium that carries the data signals between the network devices. Examples of network media are twisted pair cables, coaxial cables, fiber optic cables, radio waves, infrared waves, etc.
+- **Connectors**: These are the devices that attach the network media to the NICs or other network devices. They ensure a secure and reliable connection between the devices. Examples of connectors are RJ45, BNC, ST, SC, etc.
+- **Switch**: This is a network device that connects multiple devices on the same network and forwards data packets to the intended destination based on the MAC address. It creates a separate collision domain for each port and reduces network congestion and collisions.
+- **Router**: This is a network device that connects multiple networks and forwards data packets to the best route based on the IP address. It creates a separate broadcast domain for each interface and performs network address translation (NAT) and routing protocols.
+- **Hub**: This is a network device that connects multiple devices on the same network and broadcasts data packets to all the connected devices. It creates a single collision domain and a single broadcast domain and does not perform any filtering or forwarding.
+- **Repeater**: This is a network device that amplifies and regenerates the data signals on the network media. It extends the range and reach of the network and reduces signal attenuation and noise.
+- **Gateway**: This is a network device that connects different types of networks and converts the data formats and protocols between them. It enables communication between incompatible networks and devices. Examples of gateways are email gateways, VoIP gateways, etc.
+- **Bridge**: This is a network device that connects two or more segments of the same network and filters data packets based on the MAC address. It divides a network into smaller segments and reduces network congestion and collisions.
+- **Server**: This is a network device that provides services and resources to other devices on the network, such as file sharing, web hosting, email, printing, etc. It can be dedicated to a specific function or perform multiple functions.

@@ -1,0 +1,14 @@
+### JPEG standard
+
+- JPEG stands for Joint Photographic Experts Group, which was a group of image processing experts that devised a standard for compressing images (ISO).
+- JPEG is not really a file format but rather an image compression standard that works by averaging color variation and discarding what the human eye cannot see, a process known as “lossy” compression.
+- JPEG compression reduces file size by changing the color values and blocking together groups of pixels with a more uniform color, so that it doesn’t have to store as many different ones.
+- JPEG compression consists of the following steps:
+  - Color space transformation: The image is converted from RGB to YCbCr color space, which separates the luminance (Y) from the chrominance (Cb and Cr) components. This allows for more compression of the chrominance components, which are less perceptible to the human eye.
+  - Subsampling: The chrominance components are subsampled by a factor of 2 or 4, depending on the quality level. This reduces the number of pixels to be encoded for the chrominance components.
+  - Block splitting: The image is divided into 8x8 pixel blocks, which are the basic units of compression. Each block is treated independently by the following steps.
+  - Discrete cosine transform (DCT): Each block is transformed from the spatial domain to the frequency domain using a mathematical operation called DCT. This results in a matrix of 64 DCT coefficients, which represent the amplitude of different frequency components in the block.
+  - Quantization: Each DCT coefficient is divided by a quantization factor, which is a predefined value that depends on the quality level and the frequency component. The quantization factor is larger for higher frequency components, which means that more information is lost for those components. The result is a matrix of 64 quantized DCT coefficients, which are usually integers with many zeros.
+  - Entropy encoding: The quantized DCT coefficients are encoded using a lossless compression method, such as Huffman coding or arithmetic coding. This exploits the redundancy and the sparsity of the coefficients to reduce the number of bits needed to represent them.
+- The JPEG standard specifies the codec, which defines how an image is compressed into a stream of bytes and decompressed back into an image, but not the file format used to contain that stream. The Exif and JFIF standards define the commonly used file formats for interchange of JPEG-compressed images.
+- Depending on the level of compression, it is possible to compress an image by a factor of 100 to 1, though there may be some loss of quality at the compression limits.

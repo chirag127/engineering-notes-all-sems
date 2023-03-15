@@ -1,0 +1,15 @@
+# Transaction System
+
+A transaction system is a system that processes and records the daily transactions of a business or an organization. A transaction is a single unit of work or logic that involves one or more operations on a database, such as inserting, updating, deleting, or querying data. A transaction system ensures that the transactions are performed in a consistent, reliable, and atomic way, meaning that either all the operations in a transaction are completed successfully or none of them are. A transaction system also ensures that the transactions are isolated from each other, meaning that they do not interfere with each other's effects on the database. A transaction system also maintains the integrity and security of the database by enforcing rules and constraints on the data and preventing unauthorized access or modification.
+
+Some examples of transaction systems are:
+
+- **CRM (Customer Relationship Management)**: A system that manages the interactions and relationships between a business and its customers. It stores and analyzes data about customers, such as their contact information, preferences, purchase history, feedback, etc. It also supports various functions, such as marketing, sales, service, etc.
+- **HRM (Human Resources Management)**: A system that manages the activities and processes related to the employees of an organization. It stores and processes data about employees, such as their personal details, qualifications, skills, performance, attendance, payroll, benefits, etc. It also supports various functions, such as recruitment, training, evaluation, compensation, etc.
+- **ERP (Enterprise Resource Planning)**: A system that integrates and coordinates the various resources and operations of an organization. It stores and manages data about the organization's finances, inventory, production, distribution, etc. It also supports various functions, such as planning, budgeting, forecasting, reporting, etc.
+
+Some characteristics of transaction systems are:
+
+- **High volume**: Transaction systems handle a large number of transactions per day, often in the order of millions or billions. Therefore, they require high performance and scalability to process and store the data efficiently and effectively.
+- **High availability**: Transaction systems need to be available and accessible at all times, as any downtime or failure can result in significant losses or damages for the business or the organization. Therefore, they require high reliability and fault tolerance to ensure that the transactions are completed and recorded without errors or interruptions.
+- **High consistency**: Transaction systems need to ensure that the data in the database is always accurate and up-to-date, as any inconsistency or discrepancy can lead to incorrect or incomplete results or decisions. Therefore, they require high concurrency and synchronization to ensure that the transactions are executed and committed in the correct order and without conflicts or anomalies.

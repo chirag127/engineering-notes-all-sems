@@ -1,0 +1,24 @@
+### Introduction to Big Data Platform
+
+- A big data platform is an integrated computing solution that combines numerous software systems, tools, and hardware for big data management.
+- Big data can be defined as a concept used to describe a large volume of data, which are both structured and unstructured, and that gets increased day by day by any system or business.
+- A big data platform works to wrangle this amount of information, storing it in a manner that is organized and understandable enough to extract useful insights.
+- A big data platform typically consists of the following components :
+  - Data sources: The origin of the data, such as sensors, web logs, social media, etc.
+  - Data ingestion: The process of collecting, transferring, and loading the data into the platform, such as using batch or streaming methods.
+  - Data storage: The location where the data is stored, such as relational databases, NoSQL databases, data lakes, data warehouses, etc.
+  - Data processing: The transformation and analysis of the data, such as using MapReduce, Spark, SQL, etc.
+  - Data visualization: The presentation and exploration of the data, such as using dashboards, charts, graphs, etc.
+  - Data governance: The policies and procedures for ensuring the quality, security, and compliance of the data, such as using metadata management, data lineage, data catalog, etc.
+- A big data platform can be deployed on-premise, on the cloud, or in a hybrid mode, depending on the business needs and preferences.
+- A big data platform can provide various benefits for businesses, such as:
+  - Improving decision making and innovation by leveraging data-driven insights
+  - Enhancing customer experience and satisfaction by personalizing products and services
+  - Increasing operational efficiency and productivity by automating and optimizing processes
+  - Reducing costs and risks by eliminating data silos and ensuring data quality and security
+- Some examples of big data platforms are :
+  - Amazon Web Services (AWS): A cloud-based platform that offers a range of services for data storage, processing, analytics, and visualization, such as S3, EMR, Redshift, Kinesis, etc.
+  - Google Cloud Platform (GCP): A cloud-based platform that provides various solutions for data management, analytics, and machine learning, such as BigQuery, Dataflow, Dataproc, etc.
+  - Microsoft Azure: A cloud-based platform that enables data integration, storage, analysis, and visualization, such as Azure Data Factory, Azure Synapse Analytics, Azure Databricks, etc.
+  - Hadoop: An open-source framework that allows distributed processing of large data sets across clusters of computers, using components such as HDFS, MapReduce, Hive, Pig, etc.
+  - Spark: An open-source unified analytics engine that supports large-scale data processing, using libraries such as Spark SQL, Spark Streaming, MLlib, GraphX, etc.

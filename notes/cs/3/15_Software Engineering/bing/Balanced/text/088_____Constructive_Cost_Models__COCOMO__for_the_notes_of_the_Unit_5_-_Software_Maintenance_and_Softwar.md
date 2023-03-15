@@ -1,0 +1,23 @@
+### Constructive Cost Models (COCOMO) for the notes of the Unit 5 - Software Maintenance and Software Project Management in the subject of Software Engineering
+
+- COCOMO stands for **COnstructive COst MOdel**    .
+- It is a **regression model** based on the **number of lines of code (LOC)**    .
+- It is a **procedural cost estimate model** for software projects and is often used as a process of reliably predicting the various parameters associated with making a project such as **size, effort, cost, time, and quality**    .
+- It was developed by **Barry W. Boehm** in **1981**  .
+- The model parameters are derived from fitting a **regression formula** using data from **historical projects** (63 projects for COCOMO 81 and 163 projects for COCOMO II) .
+- There are three types of COCOMO models: **Basic, Intermediate, and Detailed**    .
+- The Basic COCOMO model is a **static, single-valued model** that computes the software development effort (and cost) as a function of program size expressed in estimated LOC    .
+- The Intermediate COCOMO model computes software development effort as a function of program size and a set of **cost drivers** that include subjective assessment of product, hardware, personnel, and project attributes    .
+- The Detailed COCOMO model incorporates all characteristics of the intermediate version with an assessment of the cost driver's impact on each step (analysis, design, etc.) of the software engineering process    .
+- The COCOMO model has been revised and updated since 1981 and the latest version is **COCOMO II** .
+- COCOMO II is designed to model the software development process for **modern software engineering paradigms** such as **object-oriented, web-based, and component-based development** .
+- COCOMO II consists of four submodels: **Application Composition, Early Design, Post-Architecture, and Reuse** .
+- The Application Composition submodel is used for projects that are built with **rapid application development (RAD)** tools .
+- The Early Design submodel is used for projects that are in the **early stages of system definition** .
+- The Post-Architecture submodel is used for projects that have a **defined system architecture** .
+- The Reuse submodel is used for projects that involve a significant amount of **software reuse** .
+- COCOMO is a useful and widely used model for software cost estimation, but it also has some limitations and assumptions, such as    :
+  - It assumes that the software project is **well-defined and stable**    .
+  - It relies on the **accuracy of LOC estimation**    .
+  - It does not account for the **differences in programming languages, tools, and platforms**    .
+  - It does not consider the **impact of risk factors, quality factors, and human factors**    [^

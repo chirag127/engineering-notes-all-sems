@@ -1,0 +1,8 @@
+### Objects in Scripting Languages
+
+- An object is a programming entity that represents a real-world entity or concept, such as a person, a car, a book, etc.
+- An object has two main characteristics: data and behavior. Data are the attributes or properties of the object, such as name, color, size, etc. Behavior are the actions or methods that the object can perform, such as move, speak, read, etc.
+- Objects are created from classes, which are blueprints or templates that define the data and behavior of a specific type of object. For example, a class named Person can define the data (name, age, gender, etc.) and behavior (walk, talk, eat, etc.) of a person object.
+- Scripting languages are high-level languages that are interpreted or compiled at runtime, rather than beforehand. They are often used for web development, automation, data analysis, etc. Some examples of scripting languages are JavaScript, Python, Ruby, PHP, etc.
+- Scripting languages support object-oriented programming (OOP), which is a programming paradigm that organizes the code around objects and their interactions, rather than procedures and data. OOP makes the code more modular, reusable, and maintainable.
+- Scripting languages differ from other OOP languages in how they implement objects and classes. Some scripting languages, such as JavaScript and Lua, use prototype-based inheritance, which means that objects inherit their data and behavior directly from other objects, rather than from classes. Other scripting languages, such as Python and Ruby, use class-based inheritance, which means that objects inherit their data and behavior from classes, but can also modify or add new data and behavior at runtime.

@@ -1,0 +1,25 @@
+### Frames for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- Frames are a way of dividing a web page into multiple sections, each with its own scroll bar and content.
+- Frames can be used to create layouts that are not possible with tables, such as fixed navigation bars, sidebars, or banners.
+- Frames are created by using the `<frameset>` tag, which replaces the `<body>` tag in the HTML document. The `<frameset>` tag can have one or more `<frame>` tags as its children, which specify the source, name, size, and border of each frame.
+- The `<frameset>` tag can also have nested `<frameset>` tags, which allow for more complex layouts with rows and columns of frames.
+- The `<frame>` tag has the following attributes:
+  - `src`: the URL of the document to be displayed in the frame.
+  - `name`: a unique identifier for the frame, which can be used to target links or forms to the frame.
+  - `scrolling`: whether the frame has a scroll bar or not. The possible values are `yes`, `no`, or `auto`.
+  - `noresize`: whether the frame can be resized by the user or not. The possible values are `yes` or `no`.
+  - `frameborder`: whether the frame has a border or not. The possible values are `1` or `0`.
+  - `marginwidth`: the width of the margin around the frame content, in pixels.
+  - `marginheight`: the height of the margin around the frame content, in pixels.
+- To link to a specific frame, the `<a>` tag or the `<form>` tag can use the `target` attribute, which specifies the name of the frame to be loaded with the link or the form submission.
+- To create a default document for the entire frameset, the `<noframes>` tag can be used inside the `<frameset>` tag. The `<noframes>` tag contains the content that will be displayed if the browser does not support frames or if the user has disabled frames.
+- Frames have some advantages and disadvantages, such as:
+  - Advantages:
+    - They allow for more flexible and dynamic layouts that can improve the user experience and navigation.
+    - They reduce the bandwidth and loading time by reusing the same frame content across multiple pages.
+    - They separate the presentation and the content, which can make the maintenance and updating easier.
+  - Disadvantages:
+    - They can cause usability and accessibility issues, such as difficulty in bookmarking, printing, or resizing the pages.
+    - They can create confusion and inconsistency for the user, as the frames may not match the browser's title, URL, or history.
+    - They can affect the search engine optimization, as the frames may not be indexed or ranked properly by the search engines.

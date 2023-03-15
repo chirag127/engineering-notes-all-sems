@@ -1,0 +1,7 @@
+### Top-Down Parsing for the Notes of the Unit 2 - Basic Parsing Techniques in the Subject of Compiler Design
+
+- Top-down parsing is a method of parsing the input string provided by the lexical analyzer and generating a parse tree for it using leftmost derivation.
+- The parse tree is constructed from the top (root) to the bottom (leaves), starting from the start symbol of the grammar and expanding the non-terminals until all the terminals are matched with the input string.
+- Top-down parsing can be classified into two types: recursive descent parsing and predictive parsing.
+- Recursive descent parsing is a technique that uses a set of procedures, one for each non-terminal, to parse the input string. Each procedure tries to match the input string with one of the productions of the corresponding non-terminal. If a match is found, the procedure returns successfully, otherwise it backtracks and tries another production. Backtracking may cause exponential time complexity in some cases .
+- Predictive parsing is a technique that avoids backtracking by using a look-ahead symbol to determine which production to apply. It requires the grammar to be LL(1), which means that the parser can determine the production to use by looking at the next input symbol and the current non-terminal. Predictive parsing can be implemented by using a stack and a parsing table .

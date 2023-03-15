@@ -1,0 +1,7 @@
+### Challenges of conventional systems for big data
+
+- Conventional systems are based on the relational data model, which is not suitable for handling unstructured or semi-structured data, such as text, images, audio, video, etc.  
+- Conventional systems are batch-oriented, which means they process data in batches and require periodic ETL (extract, transform and load) operations to move data from source systems to data warehouses or data marts. This introduces latency and overhead in data analysis and limits the ability to perform real-time or near-real-time analytics.  
+- Conventional systems rely on expensive hardware, such as MPP (massively parallel processing) systems, to achieve parallelism and scalability. However, these systems are not cost-effective, flexible, or fault-tolerant enough to cope with the increasing volume, variety, and velocity of big data.  
+- Conventional systems face challenges in data integration, quality, and governance, as they have to deal with disparate data sources, lack of standards, and outdated technology. This makes it difficult to ensure data consistency, accuracy, and security across the organization.  
+- Conventional systems have limitations in data analysis and mining, as they are not designed to handle complex, high-dimensional, and dynamic data. They also lack the tools and techniques to extract valuable insights from big data, such as machine learning, natural language processing, sentiment analysis, etc.

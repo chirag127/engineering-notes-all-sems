@@ -1,0 +1,23 @@
+### Forms
+- Forms are HTML elements that allow users to enter data and submit it to a web server.
+- Forms consist of one or more input elements, such as text fields, checkboxes, radio buttons, drop-down lists, etc.
+- Forms also have a submit button, which triggers the data transmission to the server.
+- Forms use the `<form>` tag to define the start and end of the form element.
+- Forms have two attributes: `action` and `method`.
+  - The `action` attribute specifies the URL of the server-side script that will process the form data.
+  - The `method` attribute specifies the HTTP method to use for sending the data: either `GET` or `POST`.
+- The `<input>` tag is used to create different types of input elements within a form.
+- The `<input>` tag has a `type` attribute that defines the type of input element, such as `text`, `password`, `email`, `number`, `checkbox`, `radio`, `submit`, etc.
+- The `<input>` tag also has other attributes, such as `name`, `value`, `placeholder`, `required`, `min`, `max`, etc., depending on the type of input element.
+- The `<label>` tag is used to associate a text label with an input element, for better accessibility and usability.
+- The `<label>` tag has a `for` attribute that matches the `id` attribute of the input element it belongs to.
+- The `<select>` tag is used to create a drop-down list of options within a form.
+- The `<select>` tag has a `name` attribute that identifies the name of the data to be sent to the server.
+- The `<select>` tag contains one or more `<option>` tags, each with a `value` attribute that specifies the value of the option, and a text content that specifies the label of the option.
+- The `<textarea>` tag is used to create a multi-line text input area within a form.
+- The `<textarea>` tag has a `name` attribute that identifies the name of the data to be sent to the server.
+- The `<textarea>` tag also has other attributes, such as `rows`, `cols`, `placeholder`, `required`, etc.
+- The `<button>` tag is used to create a clickable button within a form.
+- The `<button>` tag has a `type` attribute that defines the type of button, such as `button`, `submit`, or `reset`.
+- The `<button>` tag also has a `name` and `value` attribute that identify the name and value of the data to be sent to the server, if the button is of type `submit`.
+- The `<button>` tag has a text content that specifies the label of the button.

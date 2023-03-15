@@ -1,0 +1,11 @@
+# Sliding Window Protocols
+
+Sliding window protocols are data link layer protocols for reliable and sequential delivery of data frames. The sliding window is also used in Transmission Control Protocol. In this protocol, multiple frames can be sent by a sender at a time before receiving an acknowledgment from the receiver.
+
+The sliding window technique allows the sender to have a buffer of frames ready to be transmitted and to send them in a continuous stream. The receiver also has a buffer of frames ready to be received and to send acknowledgments in a continuous stream. The size of the buffer is called the window size and it determines how many frames can be in transit at any given time.
+
+The sliding window protocol handles the efficiency issue of stop-and-wait protocol by sending more than one packet at a time with a larger sequence number. The idea is similar to pipelining in architecture.
+
+There are two types of sliding window protocols: go-back-N and selective repeat. In go-back-N, the sender can send up to N frames without waiting for acknowledgments, but the receiver can only send a cumulative acknowledgment for the last correctly received frame. If a frame is lost or corrupted, the receiver discards all the subsequent frames until the sender retransmits the lost frame and all the following frames. In selective repeat, the sender can send up to N frames without waiting for acknowledgments, and the receiver can send a selective acknowledgment for each correctly received frame. If a frame is lost or corrupted, the receiver can still accept and buffer the subsequent frames and the sender only retransmits the lost frame .
+
+The sliding window protocol improves the efficiency and throughput of data transmission by utilizing the bandwidth and reducing the transmission delay. The optimal window size depends on the bandwidth-delay product, which is the product of the link bandwidth and the round-trip time. The larger the bandwidth-delay product, the larger the window size should be to achieve full utilization of the link.

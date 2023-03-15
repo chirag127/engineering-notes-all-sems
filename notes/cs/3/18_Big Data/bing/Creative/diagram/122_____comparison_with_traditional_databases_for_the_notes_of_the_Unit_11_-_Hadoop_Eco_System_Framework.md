@@ -1,0 +1,10 @@
+### Comparison with traditional databases
+
+Hadoop is a framework for distributed processing of large-scale data sets across clusters of computers. Traditional databases are systems for storing and querying structured or semi-structured data using a predefined schema and a query language. Some of the main differences between Hadoop and traditional databases are:
+
+- **Scalability**: Hadoop can scale linearly by adding more data nodes to the cluster, whereas traditional databases have a non-linear scaling curve and may require expensive hardware upgrades or data sharding to handle large data volumes.
+- **Integrity**: Hadoop is designed for low integrity, meaning that it does not enforce strict consistency or transactional guarantees on the data, whereas traditional databases are designed for high integrity, meaning that they ensure data quality and integrity through ACID (atomicity, consistency, isolation, durability) properties.
+- **Write**: Hadoop follows a write-once-read-many (WORM) model, meaning that data can only be written once to the Hadoop Distributed File System (HDFS) and then read multiple times by different applications, whereas traditional databases allow multiple writes and updates to the data.
+- **Schema**: Hadoop supports a dynamic schema structure, meaning that the data schema can be defined or inferred at the time of reading the data, whereas traditional databases support a static schema structure, meaning that the data schema has to be defined before writing the data.
+- **Processing**: Hadoop supports batch processing, meaning that it can process large batches of data in parallel using the MapReduce programming model, whereas traditional databases do not support batch processing natively and may require external tools or frameworks.
+- **Learning**: Hadoop is much harder to learn than traditional databases, as it requires familiarity with various components, such as HDFS, MapReduce, YARN, Hive, Pig, Spark, etc., whereas traditional databases are easier to learn and use, as they rely on a common query language, such as SQL. However, Hadoop is easier to scale and handle big data problems than traditional databases.

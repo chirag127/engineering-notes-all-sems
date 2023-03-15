@@ -1,0 +1,10 @@
+### Public key cryptography
+
+Public key cryptography is a form of cryptography that uses two different keys for encryption and decryption of data. The keys are mathematically related, but not identical. One key is called the public key and the other is called the private key. The public key can be shared with anyone, while the private key must be kept secret by the owner. 
+
+Some of the main features and applications of public key cryptography are:
+
+- Public key encryption: This is a process of encrypting data with the recipient's public key, so that only the recipient can decrypt it with their private key. This ensures confidentiality and authenticity of the data, as no one else can read or modify it without the private key. For example, Alice can send an encrypted message to Bob using Bob's public key, and Bob can decrypt it with his private key. 
+- Digital signatures: This is a process of signing data with the sender's private key, so that anyone can verify it with the sender's public key. This ensures integrity and non-repudiation of the data, as no one else can create or forge the signature without the private key. For example, Alice can sign a message with her private key, and Bob can verify it with Alice's public key. 
+- Key exchange: This is a process of establishing a shared secret key between two parties using their public keys, without revealing the secret key to anyone else. This enables secure communication and encryption using a symmetric key algorithm. For example, Alice and Bob can use a key exchange protocol such as Diffie-Hellman to generate a common secret key, and then use it to encrypt and decrypt their messages. 
+- Certificate authority: This is a trusted entity that issues and verifies digital certificates, which are documents that bind a public key to an identity or a domain. This provides trust and authentication for the public keys, as the certificate authority can validate their ownership and validity. For example, Alice can obtain a digital certificate from a certificate authority that confirms her identity and public key, and Bob can trust Alice's public key by checking the certificate.

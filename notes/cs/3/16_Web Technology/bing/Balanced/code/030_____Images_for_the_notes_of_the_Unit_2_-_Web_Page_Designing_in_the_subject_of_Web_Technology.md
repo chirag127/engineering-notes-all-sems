@@ -1,0 +1,24 @@
+### Images for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- Images are visual elements that enhance the appearance and functionality of web pages.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or the message of the web page.
+  - Providing visual cues or feedback to the user.
+  - Creating a mood or an atmosphere for the web page.
+  - Adding interactivity or animation to the web page.
+  - Improving the branding or the identity of the web page.
+- Images can be classified into different types, such as:
+  - Bitmap images: These are images that are composed of pixels, which are small dots of color. Bitmap images are also known as raster images. Examples of bitmap image formats are JPEG, PNG, GIF, and BMP.
+  - Vector images: These are images that are composed of mathematical shapes, such as lines, curves, and polygons. Vector images are also known as scalable images. Examples of vector image formats are SVG, EPS, and PDF.
+  - Icon images: These are small images that represent an object, an action, or a concept. Icon images are usually used for buttons, links, menus, or logos. Examples of icon image formats are ICO, ICNS, and PNG.
+  - Background images: These are images that are used to fill the background of a web page or a web element. Background images can be solid colors, gradients, patterns, or textures. Background images can be applied using CSS properties, such as background-image, background-color, background-repeat, background-position, and background-size.
+  - Responsive images: These are images that adapt to different screen sizes, resolutions, and orientations. Responsive images can be created using HTML attributes, such as srcset, sizes, and src, or using CSS properties, such as object-fit, object-position, and image-set.
+- Images can be added to a web page using HTML elements, such as:
+  - The <img> element: This element is used to embed an image in a web page. The <img> element has attributes, such as src, alt, width, height, and title, that specify the source, the alternative text, the dimensions, and the tooltip of the image.
+  - The <picture> element: This element is used to provide multiple sources for an image, depending on the browser, the device, or the viewport of the user. The <picture> element contains one or more <source> elements and one <img> element as a fallback.
+  - The <figure> and <figcaption> elements: These elements are used to add a caption or a description to an image. The <figure> element contains the image and the <figcaption> element contains the caption.
+- Images can be edited or manipulated using various tools, such as:
+  - Image editors: These are software applications that allow the user to create, modify, or enhance images. Examples of image editors are Photoshop, GIMP, and Paint.NET.
+  - Image compressors: These are tools that reduce the file size of images without compromising the quality. Examples of image compressors are TinyPNG, Compressor.io, and ImageOptim.
+  - Image converters: These are tools that change the format of images from one type to another. Examples of image converters are CloudConvert, Zamzar, and Online-Convert.
+  - Image generators: These are tools that create images based on certain parameters or inputs. Examples of image generators are Placeit, Lorem Picsum, and Unsplash.

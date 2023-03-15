@@ -1,0 +1,23 @@
+### Acceptance Testing
+
+- Acceptance testing is a type of software testing that verifies that a system meets the requirements and specifications that guided its design and development .
+- Acceptance testing is performed after system testing and before making the system available for actual use.
+- Acceptance testing is conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers or other authorized entity to determine whether to accept the system.
+- Acceptance testing can be classified into different types, such as :
+  - User acceptance testing (UAT): User acceptance testing is used to determine whether the product is working for the user correctly. It involves testing the system with real users in real scenarios.
+  - Operational acceptance testing (OAT): Operational acceptance testing is used to conduct operational readiness (pre-release) of a product, service or system as part of a quality management system. It assures that the software is ready for production and that workflows exist, including maintenance processes, security checks, user training, and backup plans.
+  - Contract acceptance testing (CAT): Contract acceptance testing is used to verify that the system meets the contractual requirements agreed upon by the customer and the supplier.
+  - Regulation acceptance testing (RAT): Regulation acceptance testing is used to ensure that the system complies with the relevant laws, regulations, and standards.
+- Acceptance testing can be performed in different ways, such as:
+  - Alpha testing: Alpha testing is performed by the developers or testers within the organization that developed the software.
+  - Beta testing: Beta testing is performed by a limited number of potential or actual users outside the organization that developed the software.
+  - Gamma testing: Gamma testing is performed by the end users or customers after the software is released to the market.
+- Acceptance testing can be done using different methods, such as:
+  - Manual testing: Manual testing is done by human testers who execute the test cases and verify the results.
+  - Automated testing: Automated testing is done by using tools or scripts that execute the test cases and compare the results with the expected outcomes.
+  - Exploratory testing: Exploratory testing is done by using the system without following any predefined test cases or scripts, and discovering the defects or issues based on the tester's intuition and experience.
+- Acceptance testing can have different benefits, such as:
+  - Improving the quality and reliability of the system by detecting and fixing the defects or issues before the system is deployed.
+  - Increasing the customer satisfaction and confidence by ensuring that the system meets their needs and expectations.
+  - Reducing the risks and costs of maintenance and support by avoiding the rework or changes after the system is deployed.
+  - Enhancing the communication and collaboration between the developers, testers, customers, and users by involving them in the testing process and getting their feedback and suggestions.

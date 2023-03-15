@@ -1,0 +1,29 @@
+### Hive shell
+
+- Hive shell is a command-line interface that allows users to interact with Hive and run Hive queries in either interactive or batch mode.
+- Hive shell can be launched by typing `$HIVE_HOME/bin/hive` in the terminal, where `$HIVE_HOME` is the environment variable that points to the Hive installation directory.
+- Hive shell supports various commands and options, such as:
+  - `-e` to execute a single Hive query and exit
+  - `-f` to execute a Hive script file and exit
+  - `-h` to display help information
+  - `-i` to initialize Hive with a Hive script file
+  - `-v` to print verbose output
+  - `-S` to run in silent mode with minimal output
+  - `-hiveconf` to set Hive configuration variables
+  - `-hivevar` to set Hive variables that can be referenced in Hive queries
+- Hive shell also provides some built-in commands that start with `!`, such as:
+  - `!sh` to execute a shell command
+  - `!pwd` to print the current working directory
+  - `!quit` to exit the Hive shell
+  - `!help` to display help information
+- Hive shell can also be used to access HiveServer2, which is a server interface that enables remote clients to execute queries against Hive, using a JDBC client called Beeline.
+- Beeline can be launched by typing `$HIVE_HOME/bin/beeline` in the terminal, and then connecting to a HiveServer2 instance using the `-u` option and a JDBC connection string.
+- Beeline supports most of the commands and options that Hive shell does, except for the `-hiveconf` and `-hivevar` options, which are replaced by `--hiveconf` and `--hivevar` respectively.
+- Beeline also provides some additional commands that start with `!`, such as:
+  - `!connect` to connect to a HiveServer2 instance
+  - `!close` to close the current connection
+  - `!reconnect` to reconnect to the current connection
+  - `!n` to execute the next statement in a script file
+  - `!list` to list all the connections
+  - `!set` to set Beeline properties
+- Hive shell and Beeline are useful tools for running Hive queries and performing various tasks on Hive data. They can also be integrated with other applications and frameworks that support Hive, such as Spark, Hadoop, and Hiveon OS.

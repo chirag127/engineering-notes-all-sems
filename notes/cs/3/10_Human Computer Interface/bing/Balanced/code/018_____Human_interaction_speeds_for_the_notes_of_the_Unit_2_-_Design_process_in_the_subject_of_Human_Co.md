@@ -1,0 +1,14 @@
+### Human interaction speeds
+
+Human interaction speeds are the rates at which people can perform various tasks using different communication methods. They are important to consider in the design process of human-computer interfaces, as they affect the usability, efficiency and satisfaction of the users.
+
+Some of the common human interaction speeds are:
+
+- Reading: The average adult reading speed for English prose text in the United States is around 250 to 300 words per minute. This reading speed can be substantially increased when using rapid serial visual presentation (RSVP), which displays words one at a time in the same location on the screen.
+- Listening: People can comfortably hear words that are spoken at from 150 to 160 words per minute. However, the comprehension and retention of the information may vary depending on the content, context and speaker's accent.
+- Speaking: People can speak at an average rate of 125 words per minute, with a range of 100 to 200 words per minute depending on the language, topic and emotion. Speaking is usually faster than typing or writing, but it may also introduce errors, ambiguities and interruptions.
+- Keying: People can type on a keyboard at an average speed of 40 words per minute, with a range of 10 to 120 words per minute depending on the skill, experience and accuracy of the typist. Keying is slower than speaking, but it allows for more precise and structured input.
+- Handwriting: People can write by hand at an average speed of 31 words per minute, with a range of 10 to 50 words per minute depending on the legibility, style and complexity of the writing. Handwriting is slower than keying, but it may offer more personal and expressive input.
+- Reacting: People can react to a visual stimulus in about 200 to 250 milliseconds, with a range of 150 to 300 milliseconds depending on the individual, attention and complexity of the stimulus . Reaction time is the time elapsed between the onset of a stimulus and the initiation of a response. Reaction time is influenced by the speed of the nervous system, the processing of the sensory information and the preparation of the motor action.
+
+These human interaction speeds are not fixed, but rather depend on various factors such as age, gender, education, culture, motivation, fatigue, stress, noise, lighting, etc. Therefore, they should be used as guidelines, not as absolute values, when designing human-computer interfaces. Moreover, they should be balanced with other design considerations such as functionality, aesthetics, feedback, error prevention, etc. to create optimal user experiences.

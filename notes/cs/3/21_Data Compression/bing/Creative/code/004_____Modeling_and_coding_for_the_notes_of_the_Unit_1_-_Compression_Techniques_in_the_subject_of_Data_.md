@@ -1,0 +1,27 @@
+# Modeling and coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of encoding information using fewer bits than the original representation.
+- Data compression can reduce the storage space or transmission bandwidth required for a given piece of information.
+- Data compression can be either lossless or lossy.
+  - Lossless compression preserves the exact information of the original data, and can be reversed by decompression.
+  - Lossy compression discards some information of the original data, and cannot be reversed by decompression.
+  - Lossless compression is suitable for text, audio, or executable files, while lossy compression is suitable for images, video, or speech.
+- Data compression techniques can be classified into two categories: statistical and dictionary-based.
+  - Statistical techniques use the frequency or probability of symbols in the data to assign shorter codes to more common symbols and longer codes to less common symbols.
+  - Dictionary-based techniques use a predefined set of symbols or patterns to replace repeated occurrences of the same symbol or pattern in the data.
+- Some common data compression techniques are:
+  - Lempel–Ziv: a lossless dictionary-based technique that finds repeated characters or sequences in the data and replaces them with tokens or shortened sequences.
+  - Huffman coding: a lossless statistical technique that assigns variable-length codes to symbols based on their frequency in the data.
+  - Run-length encoding: a lossless technique that replaces consecutive occurrences of the same symbol with a count and the symbol.
+  - Arithmetic coding: a lossless statistical technique that assigns codes to symbols based on their cumulative probability in the data.
+  - JPEG: a lossy technique that compresses images by transforming them into frequency domain and discarding high-frequency components that are less perceptible to human vision.
+  - MPEG: a lossy technique that compresses video by exploiting temporal and spatial redundancy in the frames and applying quantization and entropy coding.
+  - MP3: a lossy technique that compresses audio by applying psychoacoustic models and removing sounds that are masked by louder sounds.
+- Data compression can be performed by using smaller strings of bits (0s and 1s) in place of the original string and using a ‘dictionary’ to decompress the data if required.
+- Data compression can also use pointers (references) to a string of bits that the compression program has become familiar with or removing redundant characters.
+- Data compression can be improved by using the following best practices:
+  - Determine the compression level: Depending on the needs, the data can be compressed to a certain level, such as low, medium, or high.
+  - Choose the appropriate compression type: For every file to be compressed, first determine whether it is lossless or lossy, and then choose the suitable technique.
+  - Use a coprocessor: A coprocessor is a hardware device that can perform compression and decompression faster and more efficiently than a general-purpose processor.
+  - Consider data deduplication: Data deduplication is a technique that eliminates duplicate or redundant data blocks and stores only one copy of each data block.
+  - Determine if multi-stage compression is needed: Multi-stage compression is a technique that applies more than one compression technique to the data, either sequentially or in parallel, to achieve higher compression ratios.

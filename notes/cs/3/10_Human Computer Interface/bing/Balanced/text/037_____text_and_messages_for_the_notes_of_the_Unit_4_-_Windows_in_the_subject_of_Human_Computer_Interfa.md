@@ -1,0 +1,8 @@
+### Text and Messages for the Notes of the Unit 4 - Windows in the Subject of Human Computer Interface
+
+- Text and messages are two types of user interface elements that convey information to the user or allow the user to interact with the system through text input or output.
+- Text can be used to label controls, display static information, or provide feedback to the user. Messages can be used to communicate events, errors, warnings, or requests to the user.
+- Text and messages should be clear, concise, consistent, and appropriate for the context and the audience. They should also follow the guidelines and conventions of the operating system and the application.
+- Windows is a graphical user interface (GUI) that provides a standard way of displaying and managing text and messages on the screen. Windows uses various components, such as windows, menus, dialogs, icons, buttons, and text boxes, to present text and messages to the user or receive text input from the user.
+- Windows also provides a mechanism for sending and receiving messages between the system and the application, or between different applications. A message is a numeric code that represents a specific event, such as a mouse click, a keyboard press, or a window activation. The application can respond to messages by performing the appropriate actions or updating the user interface.
+- Text and messages are important aspects of human-computer interaction, as they enable the user to understand and control the system, and the system to provide feedback and guidance to the user. Text and messages should be designed and implemented with the user's needs, expectations, and preferences in mind.

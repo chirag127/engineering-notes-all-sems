@@ -1,0 +1,12 @@
+### Semantic errors
+
+Semantic errors are errors that arise when a statement used in a program is not meaningful, that is, it does not correspond to the set of rules (semantics) for that language being used. Semantic errors are detected by the semantic analyzer, which is a component of the compiler that checks the source code for meaningfulness and validity. Semantic errors can cause the program to behave incorrectly or produce unexpected results.
+
+Some of the common types of semantic errors are:
+
+- **Type mismatch**: This occurs when the data types of two operands or expressions are not compatible, such as adding a string and an integer. Some compilers can automatically perform type conversion to resolve this error, but others may require explicit type casting by the programmer.
+- **Undeclared variables**: This occurs when a variable is used without being declared in the scope of the program. This can cause the compiler to treat the variable as a new identifier or generate an error message.
+- **Reserved identifier misuse**: This occurs when a programmer uses a reserved word or symbol as an identifier, such as a variable name or a function name. Reserved words and symbols have special meanings in the language and cannot be used for other purposes.
+- **Logic errors**: This occurs when a programmer writes code that fails to communicate its intended purpose, such as using the wrong operator, assigning the wrong value, or using the wrong loop condition. Logic errors are hard to detect by the compiler, because they do not violate the syntax or semantics of the language, but they can cause the program to produce incorrect or unexpected outputs.
+
+To avoid semantic errors, a programmer should follow the rules and conventions of the language, use meaningful and consistent identifiers, declare and initialize variables properly, and test and debug the code carefully. Some of the semantic errors (the static semantic errors) are detected by the compiler, which generates a message indicating the type of error and the position in the source code where the error occurred (notice that the actual error could have occurred before the position signaled by the compiler). However, some semantic errors (the dynamic semantic errors) can only be detected at run time, such as division by zero, array out of bounds, or null pointer dereference. These errors can cause the program to crash or terminate abnormally. Therefore, a programmer should also use exception handling and error checking mechanisms to handle these errors gracefully.

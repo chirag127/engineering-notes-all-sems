@@ -1,0 +1,13 @@
+### Basic Concept of Software Design
+
+Software design is the process of envisioning and defining software solutions to one or more sets of problems. It involves creating a specification of a software artifact that can accomplish certain goals, using a set of primitive components and subject to constraints. Software design is a part of the software development process, which also includes software requirements analysis, software coding, software testing and software maintenance .
+
+Some of the basic concepts of software design are:
+
+- **Abstraction**: Abstraction is the technique of hiding irrelevant details and focusing on the essential features of a problem or a solution. Abstraction helps to reduce complexity and increase efficiency of software design.
+- **Modularity**: Modularity is the technique of dividing a software system or a project into smaller and independent parts or modules. Modularity helps to improve readability, maintainability, reusability and scalability of software design.
+- **Coupling**: Coupling is the measure of the degree of interdependence or interaction between the modules of a software system. Coupling affects the complexity and quality of software design. Low coupling is desirable as it implies high cohesion and loose coupling.
+- **Cohesion**: Cohesion is the measure of the degree of relatedness or similarity of the elements within a module. Cohesion affects the functionality and clarity of software design. High cohesion is desirable as it implies low coupling and strong cohesion.
+- **Design principles**: Design principles are the general guidelines or rules that help to achieve good software design. Some of the common design principles are: simplicity, consistency, modularity, abstraction, encapsulation, information hiding, separation of concerns, etc.
+- **Design patterns**: Design patterns are the reusable solutions or templates for common and recurring problems in software design. Design patterns provide a standard terminology and a best practice for software design. Some of the common design patterns are: singleton, factory, observer, strategy, etc.
+- **Design models**: Design models are the graphical or textual representations of software design. Design models help to communicate, document and verify software design. Some of the common design models are: data flow diagram, entity-relationship diagram, class diagram, sequence diagram, state diagram, etc.

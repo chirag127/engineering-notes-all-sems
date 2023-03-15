@@ -1,0 +1,26 @@
+### Functional Testing (Black Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Functional testing is a type of testing that seeks to establish whether each application feature works as per the software requirements.
+- Black box testing is a method of software testing that examines the functionality of an application without peering into its internal structures or workings.
+- Black box testing is often known as functional testing, as it is mainly concerned with testing the input-output behavior of the software.
+- Black box testing can be applied to all levels of software testing: unit, integration, system and acceptance.
+- Black box testing does not require knowledge of the internal code structure, but only the specifications and expected outcomes.
+- Black box testing can be done in the following ways:
+  - Syntax-driven testing: This type of testing is applied to systems that can be syntactically represented by some language, such as compilers or languages that can be represented by a context-free grammar.
+  - Graph-based testing: This type of testing is applied to systems that can be modeled by a graph, such as finite state machines or control flow graphs. The test cases are derived from the paths or nodes of the graph.
+  - Error guessing: This type of testing is based on the tester's intuition and experience to guess the possible errors or defects in the software. The test cases are designed to expose those errors.
+  - Boundary value analysis: This type of testing is based on the principle that errors tend to occur at the boundaries of the input domain. The test cases are designed to cover the extreme values and the values just inside and outside the boundaries.
+  - Equivalence partitioning: This type of testing is based on the principle that the input domain can be divided into a number of equivalent classes, such that the software behaves similarly for any value in the same class. The test cases are designed to cover one representative value from each class.
+  - Cause-effect graphing: This type of testing is based on the principle that the output of the software depends on the combination of causes (inputs) and effects (outputs). The test cases are derived from a graphical representation of the logical relationships between the causes and effects.
+- Black box testing can also check additional aspects of the software, beyond features and functionality, such as usability, performance, scalability, security, etc. This is called non-functional testing .
+- Black box testing has some advantages and disadvantages :
+  - Advantages:
+    - It is independent of the internal code structure, which makes it easy to apply and maintain.
+    - It can be performed by testers who are not familiar with the programming language or the implementation details of the software.
+    - It can detect errors or defects that are not visible at the code level, such as integration or system errors.
+    - It can test the software from the end user's perspective, which ensures that the software meets the user's expectations and requirements.
+  - Disadvantages:
+    - It can be inefficient and incomplete, as it may not cover all the possible scenarios or paths of the software.
+    - It can be difficult to design effective and meaningful test cases, as it requires a clear and detailed specification of the software.
+    - It can be redundant, as it may test the same functionality multiple times with different inputs or outputs.
+    - It can be ineffective, as it may not detect errors or defects that are hidden in the internal logic or structure of the software.

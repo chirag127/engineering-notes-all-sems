@@ -1,0 +1,13 @@
+# Cyclomatic Complexity Measures
+
+- Cyclomatic complexity is a software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program's source code   .
+- Cyclomatic complexity can be calculated using the control flow graph of the program, which is a directed graph that represents the flow of execution of the program. The nodes of the graph are the basic blocks of the program, which are sequences of statements that have a single entry and a single exit point. The edges of the graph are the possible transitions between the basic blocks .
+- There are different ways to compute the cyclomatic complexity of a program, such as:
+  - **McCabe's formula**: The cyclomatic complexity M is equal to the number of edges E minus the number of nodes N plus two, i.e., M = E - N + 2  .
+  - **P-Graph formula**: The cyclomatic complexity M is equal to the number of predicate nodes P plus one, i.e., M = P + 1. A predicate node is a node that contains a conditional statement, such as an if, while, or switch statement .
+  - **Extended cyclomatic complexity**: The cyclomatic complexity M is equal to the number of decision outcomes D plus one, i.e., M = D + 1. A decision outcome is a possible result of a conditional statement, such as a true or false branch of an if statement, or a case of a switch statement.
+- Cyclomatic complexity can be used to measure the quality of a program, as it indicates the level of testing required to cover all the possible paths of the program. A higher cyclomatic complexity implies a higher risk of defects, a lower maintainability, and a higher testing effort. A lower cyclomatic complexity implies a simpler, more readable, and more testable program .
+- Cyclomatic complexity can be measured using various tools, such as:
+  - **Visual Studio**: Visual Studio provides a code metrics tool that calculates the cyclomatic complexity of a C#, Visual Basic, or C++ project or solution. The tool can be accessed from the Analyze menu, and the results are displayed in the Code Metrics Results window.
+  - **SonarQube**: SonarQube is an open-source platform that performs static code analysis and provides various metrics, including cyclomatic complexity, for different programming languages. The tool can be integrated with various IDEs, such as Eclipse, Visual Studio, or IntelliJ IDEA, or with continuous integration tools, such as Jenkins, Bamboo, or TeamCity.
+  - **Lizard**: Lizard is a free command-line tool that calculates the cyclomatic complexity of various programming languages, such as C, C++, Java, Python, Ruby, or JavaScript. The tool can also generate XML or HTML reports, and can be integrated with other tools, such as Jenkins or SonarQube.

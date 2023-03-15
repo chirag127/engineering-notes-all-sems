@@ -1,0 +1,12 @@
+### Mathematical Preliminaries for Lossless compression
+
+- Lossless compression is a technique that reduces the size of a data file without losing any information or distorting the original data.
+- Lossless compression is based on the concept of **entropy**, which measures the average amount of information per symbol in a data source.
+- Entropy is defined as `H(X) = -sum(p(x) log p(x))`, where `X` is a discrete random variable, `p(x)` is the probability of occurrence of symbol `x`, and `log` is the logarithm base 2.
+- Entropy is a lower bound for the average number of bits needed to encode each symbol of a data source. The closer the entropy is to the actual encoding length, the more efficient the compression is.
+- Lossless compression algorithms use various techniques to reduce the encoding length, such as **run-length encoding**, **Huffman coding**, **arithmetic coding**, **dictionary coding**, and **Lempel-Ziv coding**.
+- Run-length encoding is a simple technique that replaces consecutive identical symbols with a pair of the symbol and its count. For example, `AAAAA` can be encoded as `A5`.
+- Huffman coding is a technique that assigns variable-length codes to symbols based on their frequencies. The more frequent a symbol is, the shorter its code is. Huffman coding guarantees that no code is a prefix of another code, which makes decoding unambiguous.
+- Arithmetic coding is a technique that assigns codes to symbols based on their cumulative probabilities. The code of a symbol is a fraction that lies between the cumulative probabilities of the previous and the next symbol. Arithmetic coding can achieve encoding lengths close to the entropy of the data source.
+- Dictionary coding is a technique that builds a dictionary of common patterns or phrases in the data and replaces them with shorter codes. The dictionary can be fixed or adaptive, depending on whether it is predefined or updated during the encoding process.
+- Lempel-Ziv coding is a technique that uses a sliding window to find matches between the current and the previous data. The matches are encoded as references to the previous occurrences, which saves bits. Lempel-Ziv coding is adaptive and does not require a dictionary.

@@ -1,0 +1,14 @@
+### Analysis vs Reporting for the Notes of the Unit 1 - Introduction to Big Data
+
+- Big data refers to the large and complex datasets that are generated from various sources and require advanced techniques and tools to process, store, and analyze.
+- Analysis and reporting are two important aspects of big data that help to derive insights and value from the data.
+- Analysis involves applying various analytical models and statistical techniques to the data to discover patterns, trends, correlations, and causations. Analysis answers why something is happening based on the data and delivers recommendations for action or improvement .
+- Reporting involves presenting the data in a structured and understandable format, such as tables, charts, graphs, or dashboards. Reporting tells what is happening with the data and summarizes the key findings and metrics .
+- Some of the key differences between analysis and reporting are :
+
+  - Required skills: Analysis requires more advanced and specialized skills than reporting, such as data science, machine learning, statistics, and programming. Reporting requires basic skills such as data visualization, communication, and business intelligence.
+  - Order of operations: Analysis usually comes before reporting, as the data needs to be analyzed first to generate insights and recommendations. Reporting usually comes after analysis, as the insights and recommendations need to be communicated to the stakeholders and decision-makers.
+  - Time needed to implement: Analysis takes more time than reporting, as it involves complex and iterative processes of data exploration, modeling, testing, and validation. Reporting takes less time than analysis, as it involves simple and straightforward processes of data formatting, aggregation, and visualization.
+  - Ease of automation: Analysis is harder to automate than reporting, as it requires human judgment, creativity, and domain knowledge. Reporting is easier to automate than analysis, as it can be done by using predefined templates, rules, and tools.
+  - Impact on strategy: Analysis has more impact on strategy than reporting, as it provides actionable insights and recommendations that can help to improve performance, optimize processes, and solve problems. Reporting has less impact on strategy than analysis, as it provides descriptive and informative data that can help to monitor progress, track results, and identify issues.
+  - Data context: Analysis requires more data context than reporting, as it needs to understand the meaning, quality, and relevance of the data. Reporting requires less data context than reporting, as it needs to present the data in a clear and concise way.

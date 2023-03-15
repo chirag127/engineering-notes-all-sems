@@ -1,0 +1,23 @@
+# Unit 3 - Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a relational database management system (RDBMS).
+- Database normalization is a technique of database design that aims to reduce data redundancy and improve data integrity by organizing the data into tables and columns that follow certain rules or normal forms.
+- Normalization also simplifies the database design and makes it easier to query, update, and maintain the data.
+- There are several levels of normalization, each with a specific set of criteria that a table must satisfy to be in that normal form. The most common levels are:
+  - First normal form (1NF): A table is in 1NF if it has no repeating groups of data and every column has a single value for each row.
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key column depends on the whole primary key of the table.
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key column depends only on the primary key of the table and not on any other non-key column.
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant (a column or a set of columns that determines the value of another column) is a candidate key (a minimal set of columns that uniquely identifies a row).
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and it has no multi-valued dependencies (a situation where a column or a set of columns depends on another column or a set of columns, and both are independent of the primary key).
+  - Fifth normal form (5NF): A table is in 5NF if it is in 4NF and it has no join dependencies (a situation where a table can be decomposed into two or more tables and then reconstructed by joining them on their primary keys without losing any information).
+- Normalization is a progressive process, meaning that a higher level of normalization cannot be achieved unless the previous levels have been satisfied.
+- Normalization has many benefits, such as:
+  - Eliminating data anomalies (inconsistencies or errors that occur when data is inserted, updated, or deleted).
+  - Reducing data duplication and storage space.
+  - Improving data consistency and accuracy.
+  - Enhancing data security and integrity.
+  - Facilitating data manipulation and analysis.
+- Normalization also has some drawbacks, such as:
+  - Increasing the number of tables and joins, which may affect the performance and complexity of queries.
+  - Losing some information about the relationships between data, which may require additional constraints or business rules to enforce.
+  - Requiring more effort and expertise to design and implement a normalized database.

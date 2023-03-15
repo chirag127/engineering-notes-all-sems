@@ -1,0 +1,21 @@
+### ISO 9000 Models
+
+- ISO 9000 is a family of standards that provide guidelines and requirements for quality management systems and quality assurance in various domains, including software engineering .
+- ISO 9000 standards are developed and maintained by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), in collaboration with the Institute of Electrical and Electronics Engineers (IEEE).
+- ISO 9000 standards aim to help organizations achieve customer satisfaction, comply with regulatory requirements, and improve their processes and products continuously .
+- ISO 9000 standards are based on the following seven quality management principles:
+  - Customer focus: understanding and meeting the needs and expectations of customers and other interested parties.
+  - Leadership: establishing a vision, direction, and culture that foster quality and performance.
+  - Engagement of people: empowering, involving, and developing people at all levels of the organization.
+  - Process approach: managing activities and resources as interrelated processes that deliver value and achieve objectives.
+  - Improvement: pursuing opportunities for enhancing performance and addressing risks and issues.
+  - Evidence-based decision making: using data and information to support decision making and evaluation.
+  - Relationship management: establishing and maintaining beneficial relationships with suppliers, partners, and other stakeholders.
+- ISO 9000 standards are divided into three categories :
+  - ISO 9000: Quality management systems - Fundamentals and vocabulary. This standard defines the basic concepts and terms related to quality management systems and provides a framework for applying the other standards.
+  - ISO 9001: Quality management systems - Requirements. This standard specifies the requirements for a quality management system that an organization can use to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements. This is the only standard in the family that can be certified to, although certification is not mandatory.
+  - ISO 9004: Quality management - Quality of an organization - Guidance to achieve sustained success. This standard provides guidance for organizations to enhance their performance and achieve long-term success by considering the needs and expectations of their customers and other relevant interested parties.
+- ISO 9000 standards also include several sector-specific standards and guidelines, such as :
+  - ISO/IEC/IEEE 90003: Software engineering - Guidelines for the application of ISO 9001 to computer software. This standard provides a checklist for the development, supply, and maintenance of computer software and related support services. It covers the entire software life cycle, from planning and design to testing and deployment.
+  - ISO/IEC 25000: Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE). This standard provides a framework and a common terminology for specifying, measuring, and evaluating the quality of software products and systems. It includes models, metrics, and methods for quality requirements and evaluation.
+  - ISO/IEC 27000: Information technology - Security techniques - Information security management systems. This standard provides a framework and a common terminology for establishing, implementing, maintaining, and improving an information security management system. It includes requirements, guidelines, and best practices for managing information security risks and controls.

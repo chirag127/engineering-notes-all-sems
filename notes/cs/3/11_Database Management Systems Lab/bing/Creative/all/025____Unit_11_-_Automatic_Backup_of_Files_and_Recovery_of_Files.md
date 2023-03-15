@@ -1,0 +1,16 @@
+## Unit 11 - Automatic Backup of Files and Recovery of Files
+
+- Automatic backup of files is a process of creating copies of data and storing them in a different location from the original source, so that they can be restored in case of data loss, corruption, or disaster.
+- Recovery of files is a process of restoring data from a backup or other source, such as a recycle bin, a previous version, or a recovery tool, in case the original data is deleted, overwritten, or damaged.
+- Automatic backup and recovery of files are important for data protection, security, and continuity, as they can prevent data loss, minimize downtime, and reduce the risk of data breaches.
+- There are different types of backup and recovery methods, such as:
+  - Full backup: A backup that copies all the data from the source to the destination, regardless of whether the data has changed or not. A full backup provides the most complete and reliable recovery, but it also takes the most time and storage space.
+  - Incremental backup: A backup that copies only the data that has changed since the last backup, whether it was a full or an incremental backup. An incremental backup is faster and more efficient than a full backup, but it requires more steps and dependencies to restore the data.
+  - Differential backup: A backup that copies only the data that has changed since the last full backup. A differential backup is a compromise between a full and an incremental backup, as it offers faster recovery than an incremental backup, but also takes more storage space than an incremental backup.
+  - Mirror backup: A backup that creates an exact replica of the source data, without any compression or encryption. A mirror backup is the simplest and fastest backup method, but it also offers the least protection, as it does not keep any previous versions or deleted files.
+  - Cloud backup: A backup that stores the data on a remote server or service, such as Dropbox, Google Drive, or OneDrive, over the internet. A cloud backup offers convenience, accessibility, and scalability, but it also depends on the availability, security, and reliability of the cloud provider.
+- There are different tools and software that can perform automatic backup and recovery of files, such as:
+  - Windows Backup and Restore: A built-in feature of Windows that allows users to create and manage backups of their files and system settings, and restore them from a backup image or a restore point.
+  - File History: A built-in feature of Windows that allows users to automatically back up their personal files, such as documents, photos, and music, to an external drive or a network location, and restore them from previous versions.
+  - Recuva: A free software that allows users to recover deleted files from their hard drive, memory card, USB drive, or other device, even if they have been emptied from the recycle bin or formatted.
+  - EaseUS Todo Backup: A software that allows users to back up and restore their files, system, disk, partition, or email, with various options and features, such as encryption, compression, scheduling, and cloning.

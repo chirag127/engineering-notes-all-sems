@@ -1,0 +1,15 @@
+### Hive - Apache Hive architecture and installation
+
+- Apache Hive is an open-source data warehouse system built on Apache Hadoop. It offers a SQL-like query language called HiveQL, which is used to analyze large, structured datasets. The Hive metastore holds metadata about Hive tables, such as their schema and location.
+- The main components of Apache Hive architecture are:
+  - Hive Clients: These are the applications that interact with Hive, such as Hive shell, Hive web interface, JDBC/ODBC drivers, or user-defined programs. They send queries and commands to Hive and receive the results.
+  - Hive Services: These are the components that process the queries and commands from the clients, such as HiveServer2, Metastore, and WebHCat. HiveServer2 is the main service that provides a Thrift interface for clients to execute queries and fetch results. Metastore is the service that stores the metadata for Hive tables and partitions in a relational database. WebHCat is the service that provides a REST API for accessing Hive metadata and job status.
+  - Processing Framework and Resource Management: These are the components that execute the queries and manage the resources on the cluster, such as MapReduce, Tez, or Spark. Hive translates the HiveQL queries into the corresponding framework-specific jobs and submits them to the resource manager, such as YARN or Mesos. The resource manager allocates the resources and schedules the tasks on the cluster nodes. The processing framework performs the tasks and returns the results to Hive.
+  - Distributed Storage: This is the component that stores the data for Hive tables and partitions, such as HDFS, S3, or Azure Blob Storage. Hive does not own the data, but only accesses it through the storage interface. The data can be in various formats, such as text, JSON, ORC, Parquet, etc.
+- To install Hive, you can either download a stable release of Hive by downloading and unpacking a tarball, or you can download the source code and build Hive using Maven (release 0.13 and later) or Ant (release 0.12 and earlier) . Hive installation has these requirements :
+  - Java 1.7 or newer (preferred)
+  - Hadoop 2.x or newer
+  - A relational database for the metastore, such as MySQL, PostgreSQL, Oracle, etc.
+  - Optionally, a processing framework and resource manager, such as MapReduce, Tez, Spark, YARN, Mesos, etc.
+- To configure Hive, you need to edit the hive-site.xml file and set the properties for the metastore, the processing framework, and other options. You also need to initialize the metastore schema by running the schematool command. You can find more details on the Hive configuration and initialization in the official documentation .
+- To run Hive, you can either use the Hive shell, which is a command-line interface for executing HiveQL queries and commands, or use the Hive web interface, which is a graphical user interface for browsing the Hive metadata and executing queries. You can also use the JDBC/ODBC drivers or the Thrift API to connect to Hive from other applications or languages. You can find more details on the Hive usage and examples in the official documentation .

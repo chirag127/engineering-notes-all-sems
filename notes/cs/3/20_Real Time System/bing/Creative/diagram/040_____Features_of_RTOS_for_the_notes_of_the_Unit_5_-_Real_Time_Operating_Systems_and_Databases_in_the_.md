@@ -1,0 +1,8 @@
+### Features of RTOS
+
+A real-time operating system (RTOS) is an operating system that can guarantee the timely and predictable execution of tasks, regardless of the system load. An RTOS has the following features   :
+
+- **Small and fast**: An RTOS is designed to occupy very less memory and consume fewer resources, as it often runs on embedded devices with limited hardware capabilities. An RTOS also has a fast boot time and low interrupt latency, which means it can respond quickly to external events.
+- **Responsive and deterministic**: An RTOS can meet the deadlines and timing constraints of real-time tasks, by using various scheduling algorithms and mechanisms. An RTOS can also ensure that the same input will always produce the same output, regardless of the system state or external factors.
+- **Scalable and adaptable**: An RTOS can support different types of real-time tasks, such as periodic, aperiodic, or sporadic, with different levels of criticality, such as hard, firm, or soft. An RTOS can also adapt to changing requirements and environments, by allowing dynamic creation and deletion of tasks, priority inheritance, and resource management.
+- **Reliable and secure**: An RTOS can handle errors and faults gracefully, by providing fault tolerance, error detection, and recovery mechanisms. An RTOS can also protect the system from unauthorized access or malicious attacks, by using encryption, authentication, and access control techniques.

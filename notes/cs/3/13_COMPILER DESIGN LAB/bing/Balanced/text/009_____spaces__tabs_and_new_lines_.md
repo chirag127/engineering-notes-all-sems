@@ -1,0 +1,7 @@
+### Spaces, tabs and new lines
+
+- Spaces, tabs and new lines are characters that are used to format text and code in a document or a program.
+- Spaces are used to separate words, symbols and numbers. They are also used to indent code blocks and align text. A space is represented by the ASCII code 32 or the Unicode code U+0020.
+- Tabs are used to create horizontal gaps or indentations in text and code. They are also used to navigate between fields or elements in a user interface. A tab is represented by the ASCII code 9 or the Unicode code U+0009.
+- New lines are used to create vertical gaps or break lines in text and code. They are also used to mark the end of a paragraph, a statement or a command. A new line is represented by the ASCII code 10 or the Unicode code U+000A. Some systems use a combination of ASCII codes 13 and 10 or Unicode codes U+000D and U+000A to represent a new line.
+- Spaces, tabs and new lines are sometimes called whitespace characters because they are invisible or blank on the screen. However, they are not ignored by the computer or the program. They can affect the appearance, the meaning and the functionality of the text and the code. Therefore, it is important to use them correctly and consistently.

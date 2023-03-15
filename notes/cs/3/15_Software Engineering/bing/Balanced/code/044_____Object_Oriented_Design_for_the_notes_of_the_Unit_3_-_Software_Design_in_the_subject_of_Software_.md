@@ -1,0 +1,21 @@
+### Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD applies the object-oriented paradigm throughout the entire development life cycle, from analysis to implementation.
+- OOD aims to design software models that are modular, reusable, extensible, and maintainable.
+- OOD follows some principles and guidelines to achieve these goals, such as:
+  - Abstraction: The process of hiding the irrelevant details and focusing on the essential features of an object or a problem.
+  - Encapsulation: The process of bundling the data and the methods that operate on the data together in a single unit (class).
+  - Inheritance: The process of deriving new classes from existing ones, to reuse and extend the functionality of the parent class.
+  - Polymorphism: The ability of an object to take different forms depending on the context, such as changing its behavior at run time based on the type of the object.
+  - SOLID: A set of five principles of OOD that promote cohesion, coupling, and abstraction. They are:
+    - Single Responsibility Principle: A class should have only one reason to change, and only one responsibility.
+    - Open/Closed Principle: A class should be open for extension, but closed for modification.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass, without breaking the functionality of the program.
+    - Interface Segregation Principle: A class should not depend on methods that it does not use, and interfaces should be small and specific.
+    - Dependency Inversion Principle: A class should depend on abstractions, not on concretions, and high-level modules should not depend on low-level modules.
+- OOD uses some tools and techniques to model and document the design, such as:
+  - Unified Modeling Language (UML): A standard graphical notation for representing the structure and behavior of software systems using diagrams, such as class diagrams, sequence diagrams, use case diagrams, etc.
+  - Design Patterns: A general reusable solution to a commonly occurring problem in software design, such as creational patterns, structural patterns, behavioral patterns, etc.
+  - Refactoring: A technique for improving the design of existing code by changing its internal structure without altering its external behavior. Refactoring can help to remove code smells, improve readability, and enhance performance.

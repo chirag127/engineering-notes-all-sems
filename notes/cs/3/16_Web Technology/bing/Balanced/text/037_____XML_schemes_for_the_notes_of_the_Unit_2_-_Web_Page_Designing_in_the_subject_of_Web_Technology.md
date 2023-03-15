@@ -1,0 +1,24 @@
+### XML schemes for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- XML stands for Extensible Markup Language. It is a markup language containing tags to define data.
+- XML is used for designing the web pages in an application. It allows the web developers to create their own customized tags and use them to store and display data.
+- XML Schema is a language which is used for expressing constraint about XML documents. It defines the structure, content, and data types of an XML document .
+- XML Schema is also known as XML Schema Definition (XSD). It is based on the XML syntax and uses the XML namespace mechanism.
+- XML Schema can be used to validate the XML documents against the schema rules. It can also be used to generate XML documents that conform to the schema .
+- XML Schema consists of the following components :
+  - The xs:schema element that defines a schema and its attributes, such as targetNamespace, elementFormDefault, and attributeFormDefault.
+  - The xs:element element that defines an element in the XML document, its name, type, occurrence, and value.
+  - The xs:attribute element that defines an attribute in the XML document, its name, type, use, and value.
+  - The xs:complexType element that defines a complex type, which is a combination of elements and attributes.
+  - The xs:simpleType element that defines a simple type, which is a restriction or extension of a built-in data type, such as string, integer, or boolean.
+  - The xs:sequence, xs:choice, and xs:all elements that define the order and selection of the child elements in a complex type.
+  - The xs:restriction and xs:extension elements that define the constraints or additions to a simple type or a complex type.
+  - The xs:enumeration, xs:minInclusive, xs:maxInclusive, xs:pattern, and xs:length elements that define the facets or rules for a simple type or a complex type.
+- XML Schema can be written in a separate file with the .xsd extension or embedded in the XML document with the xs:schema element .
+- XML Schema can be linked to the XML document with the xsi:schemaLocation or xsi:noNamespaceSchemaLocation attributes in the root element of the XML document .
+- XML Schema can be used to create visual sitemaps for website designs. A visual sitemap is a diagram that shows the hierarchy and structure of the web pages and the links between them.
+- A visual sitemap can help the web designers and developers to plan and organize the content, layout, and navigation of the website.
+- A visual sitemap can be created with the help of tools such as Adobe XD, Slickplan, or WriteMaps.
+- A visual sitemap can be based on the XML Schema of the website, which defines the elements and attributes of each web page and their relationships.
+- A visual sitemap can use different shapes, colors, and icons to represent the different types of web pages, such as home page, landing page, product page, blog page, etc.
+- A visual sitemap can also show the metadata, such as title, description, keywords, and URL, of each web page.

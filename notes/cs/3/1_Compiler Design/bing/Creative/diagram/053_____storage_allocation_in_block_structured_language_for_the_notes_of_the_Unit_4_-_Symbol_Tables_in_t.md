@@ -1,0 +1,28 @@
+### Storage allocation in block structured language
+
+- A block is a program segment that contains data declarations. There can be nested blocks.
+- A block structured language is a language that allows the definition of blocks, which are regions of code that act as separate namespaces.
+- Examples of block structured languages are C, Pascal, Ada, and Algol.
+- Storage allocation is the process of assigning memory locations to data and code in a program.
+- Storage allocation can be static, stack-based, or heap-based.
+- Static allocation assigns memory locations at compile time. It is used for global variables and constants.
+- Stack-based allocation assigns memory locations at run time using a stack data structure. It is used for local variables and parameters in procedures.
+- Heap-based allocation assigns memory locations at run time using a heap data structure. It is used for dynamic data structures and objects.
+- The advantages of stack-based allocation are:
+  - It is fast and simple, as it only requires incrementing and decrementing a stack pointer.
+  - It supports recursion, as each recursive call creates a new activation record on the stack.
+  - It supports automatic deallocation, as the memory is freed when the block is exited.
+- The disadvantages of stack-based allocation are:
+  - It is wasteful, as it may allocate more memory than needed for local variables.
+  - It is inflexible, as it does not allow the creation of higher-order functions or closures, which are functions that can access variables from their enclosing blocks.
+- The advantages of heap-based allocation are:
+  - It is flexible, as it allows the creation of higher-order functions and closures, as well as dynamic data structures and objects.
+  - It is efficient, as it only allocates memory when needed and can reuse freed memory.
+- The disadvantages of heap-based allocation are:
+  - It is slow and complex, as it requires searching and managing the heap data structure.
+  - It requires explicit deallocation or garbage collection, which can introduce memory leaks or overhead.
+- Some techniques for improving the storage allocation scheme for block structured languages are:
+  - Analyzing the call graph of a program to determine which procedures can be allocated statically or in registers.
+  - Using a display, which is an array of pointers to the activation records of the currently active blocks, to access non-local variables faster.
+  - Using a linked list of activation records instead of a stack, to allow non-stack allocation and deallocation of blocks.
+  - Using a hybrid scheme that combines stack-based and heap-based allocation, depending on the properties of the blocks.

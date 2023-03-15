@@ -1,0 +1,18 @@
+## Unit 10 - Design and implementation of Student Information System
+
+A student information system (SIS) is a software application that manages the data and processes of a school or college, such as student records, enrollment, grades, attendance, courses, schedules, fees, etc. A SIS can help improve the efficiency and effectiveness of the educational institution, as well as provide better services to students, faculty, parents, and administrators.
+
+The design and implementation of a SIS involves the following steps:
+
+- **Analysis**: This step involves identifying the requirements and objectives of the SIS, such as the scope, functions, features, users, data sources, security, performance, etc. The analysis can be done by conducting surveys, interviews, observations, or document reviews with the stakeholders of the SIS.
+- **Design**: This step involves creating the logical and physical models of the SIS, such as the data model, user interface model, business logic model, and data access model. The design can be done by using tools and techniques such as entity-relationship diagrams, use case diagrams, wireframes, flowcharts, pseudocode, etc. The design should follow the principles of modularity, cohesion, coupling, abstraction, etc.
+- **Implementation**: This step involves developing and testing the SIS, such as coding, debugging, unit testing, integration testing, system testing, etc. The implementation can be done by using programming languages, frameworks, libraries, databases, etc. that are suitable for the SIS. The implementation should follow the standards and conventions of coding, documentation, version control, etc.
+- **Deployment**: This step involves installing and launching the SIS, such as configuring, hosting, migrating, updating, etc. The deployment can be done by using tools and methods such as cloud computing, web servers, backup systems, etc. The deployment should ensure the availability, reliability, scalability, and security of the SIS.
+- **Maintenance**: This step involves monitoring and improving the SIS, such as troubleshooting, fixing, enhancing, upgrading, etc. The maintenance can be done by using tools and techniques such as logs, reports, feedback, analytics, etc. The maintenance should ensure the quality, usability, functionality, and compatibility of the SIS.
+
+Some examples of SIS are:
+
+- **Student Information Management System (SIMS)**: This is a SIS developed by ResearchGate that uses the B/S three-tier architecture, MySQL database, and PHP programming language. It provides functions such as student registration, course selection, grade inquiry, etc.
+- **Student Information Management System (SIS)**: This is a SIS developed by IEEE  that uses the B/S three-tier architecture, SQL Server database, and ASP.NET programming language. It provides functions such as student information management, course management, grade management, etc.
+- **Student Information System (SIS)**: This is a SIS developed by Creatrix Campus that uses the cloud computing technology, MongoDB database, and AngularJS framework. It provides functions such as student enrollment, attendance, assessment, communication, etc.
+- **College Student Information Management System (CSIMS)**: This is a SIS developed by Springer that uses the B/S three-tier architecture, Oracle database, and JSP programming language. It provides functions such as student information query, course arrangement, grade management, etc.

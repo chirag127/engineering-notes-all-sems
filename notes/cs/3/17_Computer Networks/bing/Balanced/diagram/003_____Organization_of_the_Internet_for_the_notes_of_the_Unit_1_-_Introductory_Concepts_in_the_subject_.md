@@ -1,0 +1,14 @@
+### Organization of the Internet
+
+The Internet is the world's largest computer network. It is a global system of interconnected computing devices that can communicate and exchange data using common protocols and standards.
+
+The organization of the Internet can be understood at different levels, such as:
+
+- **Computer and network hardware**: This level deals with the physical devices and components that make up the network, such as computers, routers, switches, cables, wireless access points, etc. These devices are responsible for transmitting and receiving data over the network.
+- **Network architecture**: This level defines how the network is structured and designed. It outlines how computers are organized in the network and what tasks are assigned to them. Network architecture components include hardware, software, transmission media (wired or wireless), network topology, and communications protocols.
+- **Network topology**: This level describes the shape and layout of the network. It shows how the devices are connected and arranged in the network. There are different types of network topologies, such as bus, ring, star, and mesh.
+- **Communications protocols**: This level specifies the rules and conventions for data exchange over the network. Protocols define how data is formatted, encoded, transmitted, received, and acknowledged. There are different layers of protocols that perform different functions, such as physical, data link, network, transport, and application.
+- **Internet access and Internet service providers (ISPs)**: This level deals with the way that users connect to the Internet and the services that they receive. ISPs are companies that provide access to the Internet and other related services, such as email, web hosting, domain name registration, etc. ISPs can control and regulate how users use the Internet, such as by setting bandwidth limits, filtering content, blocking websites, etc.
+- **Navigation within the Internet**: This level deals with the way that users find and access information and resources on the Internet. It involves the use of tools and techniques, such as domain names, IP addresses, URLs, web browsers, search engines, hyperlinks, etc. These tools help users to locate and identify the servers and websites that host the desired content.
+
+The organization of the Internet is not static or fixed. It is constantly evolving and changing due to technological innovations, social and economic factors, and political and legal influences. The Internet is also not controlled or owned by any single entity or organization. It is a decentralized and distributed network that relies on the cooperation and collaboration of various stakeholders, such as governments, businesses, academic institutions, non-governmental organizations, and individual users.

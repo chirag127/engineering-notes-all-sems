@@ -1,0 +1,12 @@
+### Protocols Governing Web
+
+- Protocols are a set of rules or standards that enable communication between different devices or applications over a network.
+- The web, or the World Wide Web, is a system of interlinked hypertext documents that can be accessed via the internet using a web browser.
+- The web uses various protocols to govern the exchange of information between web servers and web clients, such as browsers or applications.
+- Some of the common protocols governing the web are:
+
+  - **TCP/IP (Transmission Control Protocol/Internet Protocol)**: This is the fundamental protocol suite that provides the basic functionality of the internet. It consists of two main protocols: TCP, which handles reliable and ordered delivery of data packets, and IP, which handles addressing and routing of data packets across different networks .
+  - **HTTP (HyperText Transfer Protocol)**: This is the protocol that defines how web servers and web clients request and respond to web resources, such as web pages, images, or files. HTTP uses a request-response model, where a client sends a request message to a server, and the server sends back a response message with the requested resource or an error code.
+  - **DNS (Domain Name System)**: This is the protocol that maps domain names, such as www.example.com, to their corresponding IP addresses, such as 192.168.1.1. DNS allows users to access web resources using human-readable names instead of numerical addresses. DNS uses a hierarchical and distributed system of name servers that store and resolve domain name queries.
+  - **SMTP (Simple Mail Transfer Protocol)**: This is the protocol that enables the sending and receiving of email messages over the internet. SMTP uses a client-server model, where a client sends an email message to a server, and the server forwards it to the destination server or another relay server. SMTP also uses TCP/IP to ensure reliable and ordered delivery of email messages.
+  - **FTP (File Transfer Protocol)**: This is the protocol that allows the transfer of files between a client and a server over the internet. FTP uses a client-server model, where a client establishes a connection with a server and requests to upload or download files. FTP also uses TCP/IP to ensure reliable and ordered delivery of files.

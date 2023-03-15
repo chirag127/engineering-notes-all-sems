@@ -1,0 +1,8 @@
+### Building Tools
+
+Building tools are software applications that help in designing, developing, testing, and evaluating human-computer interfaces. They can be classified into four categories:
+
+- Interface Building Tools: These are design methods that help in designing command languages, data-entry structures, and widgets. They provide graphical or textual representations of the interface elements and their properties. Examples of interface building tools are Adobe XD, Figma, Sketch, etc.
+- Interface Mockup Tools: These are tools to develop a quick sketch of the graphical user interface (GUI). They allow rapid prototyping and testing of different layouts, colors, fonts, icons, etc. Examples of interface mockup tools are Microsoft Visio, Visual Studio.Net, Balsamiq, etc.
+- Software Engineering Tools: These are extensive programming tools that provide user interface management systems (UIMS). They support the implementation, maintenance, and reuse of the interface code. They also provide libraries, frameworks, and APIs for creating interactive applications. Examples of software engineering tools are Java Swing, Qt, GTK, etc.
+- Evaluation Tools: These are tools to evaluate the correctness and completeness of the interface programs. They check for errors, bugs, usability issues, and user satisfaction. They also provide feedback and suggestions for improvement. Examples of evaluation tools are usability testing software, debugging tools, user surveys, etc.

@@ -1,0 +1,22 @@
+# POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, and it is a set of standards that define how an application can interact with an operating system.
+- POSIX was originally designed for UNIX-like systems, but it does not cover all the features and requirements of real-time operating systems (RTOS).
+- RTOS are operating systems that can guarantee timely and predictable responses to events, such as sensors, actuators, or user inputs.
+- POSIX issues for RTOS include:
+  - The lack of real-time scheduling policies and priority inheritance mechanisms, which are essential for ensuring that high-priority tasks can preempt low-priority ones and avoid priority inversion problems.
+  - The lack of real-time synchronization primitives, such as mutexes, semaphores, condition variables, and message queues, which are needed for coordinating concurrent tasks and sharing resources in a real-time manner.
+  - The lack of real-time memory management, such as memory locking and allocation, which are needed to prevent page faults and memory fragmentation that can cause unpredictable delays.
+  - The lack of real-time signal handling, which is a way of notifying tasks about events occurring in the system, such as timers, interrupts, or exceptions. POSIX signals are not queued, prioritized, or associated with specific tasks, and thus some events may be lost or handled too late.
+  - The lack of real-time timers, which are needed to measure time intervals and trigger actions at precise moments.
+  - The lack of real-time I/O, which is needed to communicate with external devices and networks in a timely and reliable way.
+- To address these issues, POSIX has developed several extensions and amendments to the original standard, such as:
+  - POSIX.1b (or POSIX.4), which defines real-time extensions, such as real-time scheduling, synchronization, memory management, signal handling, and timers.
+  - POSIX.1c (or POSIX.4a), which defines threads extensions, such as thread creation, termination, synchronization, and scheduling.
+  - POSIX.1d (or POSIX.4b), which defines additional real-time extensions, such as asynchronous I/O, memory mapped files, and message passing.
+  - POSIX.1j (or POSIX.4c), which defines advanced real-time extensions, such as sporadic server scheduling, priority protection, and timers with overrun counts.
+  - POSIX.1q (or POSIX.4d), which defines dynamic scheduling extensions, such as deadline scheduling and resource reservation.
+- These extensions aim to provide a common and portable interface for developing real-time applications across different RTOS platforms, but they also introduce some challenges and limitations, such as:
+  - The complexity and overhead of implementing and complying with the POSIX standards, which may affect the performance and efficiency of the RTOS.
+  - The variability and incompleteness of the POSIX standards, which may leave some features undefined, optional, or platform-dependent, and thus reduce the portability and interoperability of the applications.
+  - The trade-off between generality and specificity of the POSIX standards, which may not cover all the needs and scenarios of real-time applications, and thus require additional or alternative solutions.

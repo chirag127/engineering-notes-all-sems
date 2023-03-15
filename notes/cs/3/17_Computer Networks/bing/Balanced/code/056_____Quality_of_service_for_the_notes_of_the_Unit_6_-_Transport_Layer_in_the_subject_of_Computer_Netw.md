@@ -1,0 +1,11 @@
+# Quality of Service for the Notes of the Unit 6 - Transport Layer in the Subject of Computer Networks
+
+- Quality of service (QoS) is the ability of a network to provide reliable service to the traffic over various technologies and applications.
+- QoS is important for the transport layer because it determines what type of service to provide to the session layer and the users of the network.
+- QoS can be measured by parameters such as delay, jitter, bandwidth, throughput, packet loss, error rate, etc.
+- QoS can be improved by using some techniques that can control the network traffic and prioritize the critical applications. Some of the common techniques are:
+
+  - Scheduling: It is the process of deciding which packet to send next from a queue of packets. Scheduling can be done based on different criteria, such as first-come first-served (FCFS), priority, weighted fair queuing (WFQ), etc. Scheduling can help to reduce the delay and jitter of the packets and ensure fairness among different flows.
+  - Traffic shaping: It is the process of regulating the rate of the traffic entering or leaving the network. Traffic shaping can be done by using mechanisms such as leaky bucket, token bucket, etc. Traffic shaping can help to smooth the traffic bursts and avoid congestion and packet loss.
+  - Admission control: It is the process of deciding whether to accept or reject a new flow request based on the availability of the network resources. Admission control can be done by using protocols such as resource reservation protocol (RSVP), integrated services (IntServ), etc. Admission control can help to guarantee the QoS requirements of the accepted flows and prevent the degradation of the existing flows.
+  - Resource reservation: It is the process of allocating the network resources such as bandwidth, buffer, etc. to the accepted flows. Resource reservation can be done by using protocols such as RSVP, IntServ, differentiated services (DiffServ), etc. Resource reservation can help to ensure the QoS performance of the reserved flows and provide differentiation among different classes of service.

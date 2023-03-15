@@ -1,0 +1,10 @@
+### Deterministic Finite Automaton (DFA)
+
+- A DFA is a mathematical model of computation that consists of a finite set of states, a finite set of input symbols, a transition function that maps each state and input symbol to a next state, a start state, and a set of final or accepting states.
+- A DFA can process a finite sequence of symbols (called a string) and determine if the string belongs to a certain language or not. A language is a set of strings that follow some rules or patterns.
+- A DFA is deterministic because for each state and input symbol, there is exactly one next state. This means that the DFA can only be in one state at a time, and the sequence of states that it goes through is uniquely determined by the input string .
+- A DFA can be represented by a state diagram, which is a directed graph where the nodes are the states and the edges are labeled by the input symbols. The start state is indicated by an arrow pointing to it, and the final states are marked by double circles.
+- A DFA can also be represented by a transition table, which is a matrix where the rows are the states, the columns are the input symbols, and the entries are the next states. The start state is marked by an asterisk (*), and the final states are marked by a plus sign (+).
+- A DFA accepts a string if it starts from the start state and follows the transitions according to the input symbols until it reaches a final state. A DFA rejects a string if it either reaches a non-final state or gets stuck in a state with no transition for the next input symbol.
+- A DFA recognizes a regular language, which is a language that can be described by a regular expression or a regular grammar. A regular expression is a string that uses symbols and operators to define a pattern of strings. A regular grammar is a set of rules that generate strings by replacing symbols with other symbols.
+- A DFA can be minimized by removing unreachable states (states that cannot be reached from the start state) and equivalent states (states that have the same behavior for all input strings). A minimized DFA has the smallest number of states possible for recognizing the same language.

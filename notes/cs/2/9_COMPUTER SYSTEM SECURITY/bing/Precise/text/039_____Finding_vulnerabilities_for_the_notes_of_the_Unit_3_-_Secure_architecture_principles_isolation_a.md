@@ -1,0 +1,6 @@
+### Finding vulnerabilities for the notes of the Unit 3 - Secure architecture principles isolation and least privilege in the subject of COMPUTER SYSTEM SECURITY
+
+1. **Isolation**: Isolation is the principle of separating components or systems to reduce the potential attack surface. This can be achieved through various methods such as network segmentation, virtualization, and sandboxing. 
+2. **Least Privilege**: The principle of least privilege states that a user or system should only have the minimum level of access required to perform their tasks. This can help to prevent unauthorized access and reduce the potential impact of a security breach.
+3. **Finding vulnerabilities**: To find vulnerabilities in a system, it is important to conduct regular security assessments and audits. This can include penetration testing, code reviews, and vulnerability scanning. It is also important to stay up to date with the latest security threats and vulnerabilities, and to apply patches and updates as needed.
+4. **Secure architecture**: A secure architecture is designed with security in mind from the ground up. This can include implementing security controls at all levels of the system, from the network perimeter to the application layer. It is also important to follow best practices and industry standards for secure design and development.

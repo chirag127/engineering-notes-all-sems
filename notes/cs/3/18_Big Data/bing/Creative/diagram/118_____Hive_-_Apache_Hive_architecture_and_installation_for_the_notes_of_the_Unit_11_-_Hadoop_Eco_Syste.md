@@ -1,0 +1,27 @@
+### Hive - Apache Hive architecture and installation
+
+- Apache Hive is an open-source data warehouse system built on Apache Hadoop. It offers a SQL-like query language called HiveQL, which is used to analyze large, structured datasets. The Hive metastore holds metadata about Hive tables, such as their schema and location.
+- Hive architecture consists of the following components:
+  - Hive clients: These are the applications that interact with Hive, such as Hive shell, Hive web interface, JDBC/ODBC drivers, or user-defined programs. They submit HiveQL queries or commands to the Hive server.
+  - Hive server: This is the service that provides access to the Hive metastore and executes the HiveQL queries or commands. It can run in one of the two modes: HiveServer1 or HiveServer2. HiveServer2 is the preferred mode as it supports concurrency, authentication, and authorization.
+  - Processing framework and resource management: This is the layer that handles the execution of the HiveQL queries or commands. It consists of the following subcomponents:
+    - Compiler: This component parses, analyzes, and optimizes the HiveQL queries or commands and generates an execution plan in the form of a directed acyclic graph (DAG) of MapReduce or Spark jobs.
+    - Optimizer: This component applies various transformations and optimizations to the execution plan, such as predicate pushdown, column pruning, join reordering, etc.
+    - Executor: This component submits the execution plan to the underlying processing framework, such as MapReduce or Spark, and monitors the progress and status of the jobs.
+    - CLI/Beeline: These are the command-line interfaces that allow the users to interact with the Hive server and submit HiveQL queries or commands. CLI is the legacy interface that works with HiveServer1, while Beeline is the newer interface that works with HiveServer2.
+  - Distributed storage: This is the layer that stores the data and metadata for Hive. It consists of the following subcomponents:
+    - Metastore: This component stores the metadata about the Hive tables, such as their schema, location, partitioning, etc. It can use a relational database, such as MySQL or PostgreSQL, or an embedded database, such as Derby, as the backend.
+    - HDFS: This component stores the actual data for the Hive tables in a distributed and fault-tolerant manner. It can also use other file systems, such as Amazon S3 or Google Cloud Storage, as the backend.
+- Hive installation has the following requirements :
+  - Java 1.7 or newer
+  - Hadoop 2.x or newer
+  - A relational database for the metastore, such as MySQL or PostgreSQL, or an embedded database, such as Derby
+  - A Hive distribution, such as Apache Hive or Cloudera CDH
+- Hive installation can be done by downloading and unpacking a tarball, or by downloading the source code and building Hive using Maven or Ant. The installation steps are as follows :
+  - Download and install Java, Hadoop, and a relational database for the metastore, and set the appropriate environment variables, such as JAVA_HOME, HADOOP_HOME, and HIVE_HOME.
+  - Download and unpack a Hive tarball, or download the source code and build Hive using Maven or Ant.
+  - Configure the Hive properties, such as hive-site.xml, hive-env.sh, and hive-log4j.properties, according to the desired settings, such as the metastore backend, the processing framework, the authentication and authorization mechanisms, etc.
+  - Initialize the metastore schema by running the appropriate script, such as schematool -initSchema -dbType mysql.
+  - Start the Hive server by running the appropriate command, such as hive --service hiveserver2.
+  - Start the CLI or Beeline by running the appropriate command, such as hive or beeline -u jdbc:hive2://localhost:10000.
+  - Test the Hive installation by running some HiveQL queries or commands, such as show databases; or create table test (id int, name string);.

@@ -1,0 +1,7 @@
+# Variable
+
+- A variable is a named storage location that can hold different values of the same data type.
+- A variable has a name (also called an identifier) and a value that can be changed during the program execution.
+- A variable can be declared using a keyword followed by the variable name and optionally an initial value. For example, in JavaScript, a variable can be declared as `var x = 10;` where `var` is the keyword, `x` is the variable name and `10` is the initial value.
+- A variable can be used in expressions, statements, functions and other parts of the program where a value is needed. For example, in JavaScript, a variable can be used as `console.log(x + 5);` where `x` is the variable and `5` is a constant value.
+- A variable has a scope that defines where it can be accessed and modified in the program. The scope can be global, local or block depending on where the variable is declared and how it is used. For example, in JavaScript, a variable declared outside any function is global and can be accessed anywhere in the program, while a variable declared inside a function is local and can only be accessed within that function. A variable declared with the `let` or `const` keyword has a block scope and can only be accessed within the block where it is declared.

@@ -1,0 +1,7 @@
+### Tree structured Vector Quantizers
+
+- Tree structured vector quantization (TSVQ) is a technique that reduces the complexity of vector quantization by imposing a hierarchical structure on the partitioning of the input space .
+- In TSVQ, the input space is divided into a hierarchy of regions, each corresponding to a node in a binary tree. The root node represents the entire input space, and the leaf nodes represent the final codebook vectors.
+- The advantage of TSVQ is that it can be represented and stored efficiently using a binary tree, and it can provide fast quantization search by following a root-to-leaf path. The quantization error can also be controlled by adjusting the depth of the tree.
+- TSVQ can be designed using a top-down or a bottom-up approach. The top-down approach starts with the average of all the training vectors, and splits each node into two subnodes by perturbing the vector slightly. The bottom-up approach starts with a large number of codebook vectors, and merges them into a tree by minimizing the distortion.
+- TSVQ can be applied to various types of data, such as speech, image, and video. It can also be combined with other techniques, such as entropy coding, to achieve better compression performance .

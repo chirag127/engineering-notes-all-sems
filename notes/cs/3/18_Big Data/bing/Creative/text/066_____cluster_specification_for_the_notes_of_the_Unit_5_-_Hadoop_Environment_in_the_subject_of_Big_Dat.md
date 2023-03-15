@@ -1,0 +1,28 @@
+### Cluster Specification for the Notes of the Unit 5 - Hadoop Environment in the Subject of Big Data
+
+- A Hadoop cluster is a special type of computational cluster designed specifically for storing and analyzing huge amounts of unstructured data in a distributed computing environment.
+- A Hadoop cluster is often referred to as a shared-nothing system because the only thing that is shared between the nodes is the network itself.
+- A Hadoop cluster consists of two types of nodes: master nodes and worker nodes.
+- Master nodes are responsible for coordinating and managing the tasks of the worker nodes. They run the Hadoop daemons such as NameNode, SecondaryNameNode, ResourceManager, and JobTracker .
+- Worker nodes are responsible for storing and processing the data. They run the Hadoop daemons such as DataNode, NodeManager, and TaskTracker .
+- The number and configuration of the nodes in a Hadoop cluster depend on the size and complexity of the data and the desired performance and reliability of the system.
+- All Hadoop-related nodes must meet the following specifications:
+  - The cluster must be running HDP 2.5.x or HDP 2.6.x managed by Ambari 2.4.2 (or later)
+  - Each of the Hadoop Slave and Master nodes must meet the minimum specifications
+  - To determine the supported version for each service, refer to Ambari, and choose Admin > Stacks and Versions
+- The minimum specifications for the Hadoop Slave and Master nodes are:
+  - CPU: 4 cores
+  - Memory: 16 GB RAM
+  - Disk: 1 TB
+  - Network: 1 Gbps
+- The recommended specifications for the Hadoop Slave and Master nodes are:
+  - CPU: 8 cores
+  - Memory: 32 GB RAM
+  - Disk: 4 TB
+  - Network: 10 Gbps
+- The specifications for the Hadoop cluster can be adjusted according to the specific needs and requirements of the data and the applications. Some factors that can affect the cluster specification are:
+  - Data volume: The amount of data that needs to be stored and processed by the cluster
+  - Data velocity: The speed at which the data is generated and ingested by the cluster
+  - Data variety: The diversity and complexity of the data types and formats that need to be handled by the cluster
+  - Data veracity: The quality and reliability of the data that needs to be analyzed by the cluster
+  - Data value: The business value and insights that can be derived from the data by the cluster

@@ -1,0 +1,23 @@
+### Cost of Maintenance
+
+- Software maintenance is the process of modifying and updating software after delivery to correct faults, improve performance, or adapt to changing environments.
+- Software maintenance is an important and costly activity in the software development life cycle (SDLC). It can account for up to 67% of the total software process cost.
+- Software maintenance cost can vary depending on several factors, such as:
+  - The type and complexity of the software
+  - The number and frequency of users
+  - The required maintenance activities (e.g., corrective, adaptive, perfective, preventive)
+  - The quality and documentation of the software
+  - The programming language and tools used
+  - The availability and expertise of the maintenance team
+- Software maintenance cost can be estimated using different methods, such as:
+  - Percentage of development cost: This method assumes that the maintenance cost is a fixed percentage of the initial development cost, typically ranging from 10% to 25% per year.
+  - User-based cost: This method calculates the maintenance cost based on the number of users and the average cost per user, which can vary from $5 to $50 per month.
+  - Function point-based cost: This method measures the maintenance cost based on the size and complexity of the software functionality, using a standard metric called function point (FP). The average cost per FP can range from $70 to $320 per month.
+  - DevOps-based cost: This method leverages the DevOps approach, which integrates development and operations to deliver software faster and more reliably. The maintenance cost can be reduced by using automation, continuous integration, continuous delivery, and continuous monitoring.
+- Software maintenance cost can be optimized by applying best practices, such as:
+  - Enhancing module independence: This practice reduces the coupling and increases the cohesion of software modules, making them easier to maintain and modify.
+  - Choosing appropriate programming language: This practice involves selecting a programming language that suits the software requirements, supports maintainability, and has a large and active community.
+  - Adopting consistent programming style: This practice ensures that the software code follows a set of standards and conventions, such as naming, indentation, commenting, and formatting, to improve readability and understandability.
+  - Performing program validation and testing: This practice verifies and validates the software functionality, performance, and quality, using various methods and tools, such as unit testing, integration testing, system testing, and regression testing.
+  - Providing adequate documentation: This practice documents the software design, architecture, specifications, code, test cases, and user manuals, to facilitate the maintenance process and communication among stakeholders.
+  - Implementing configuration management techniques: This practice manages the changes and versions of the software artifacts, such as code, data, and documentation, using tools such as version control, change control, and release management.

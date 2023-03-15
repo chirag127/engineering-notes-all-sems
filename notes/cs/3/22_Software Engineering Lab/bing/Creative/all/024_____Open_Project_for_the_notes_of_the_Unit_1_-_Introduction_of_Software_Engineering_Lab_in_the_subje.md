@@ -1,0 +1,21 @@
+# Open Project for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- Software engineering is the discipline of applying systematic and rigorous principles and practices to the design, development, testing, and maintenance of software systems.
+- Software engineering is important because software is pervasive in our society and economy, and software systems are often large, complex, and critical for the functioning of many domains.
+- Software engineering methods rely on a set of basic principles that govern each area of the technology and include modeling activities and other descriptive techniques.
+- Software engineering also involves the use of tools, processes, standards, and metrics to support the software development life cycle.
+- Software engineering can be divided into several sub-disciplines, such as requirements engineering, software design, software construction, software testing, software maintenance, software configuration management, software quality assurance, and software project management.
+- Software engineering can also be categorized by the type of software system being developed, such as embedded systems, web applications, mobile applications, distributed systems, etc.
+- Software engineering can also be influenced by the software development methodology or paradigm adopted, such as waterfall, agile, iterative, incremental, spiral, etc.
+- Software engineering can also be affected by the software engineering standards and best practices followed, such as IEEE, ISO, CMMI, etc.
+- Software engineering can also be evaluated by the software engineering metrics and measures used, such as size, complexity, quality, productivity, cost, schedule, etc.
+- Software engineering lab is a practical course that aims to provide hands-on experience and skills in applying software engineering principles and techniques to real-world problems.
+- Software engineering lab may involve the use of various software tools, such as IDEs, compilers, debuggers, testing tools, configuration management tools, etc.
+- Software engineering lab may also involve the use of various software models, such as UML, ER, DFD, etc.
+- Software engineering lab may also involve the use of various software documentation, such as SRS, design documents, test cases, user manuals, etc.
+- Software engineering lab may also involve the use of various software processes, such as planning, analysis, design, implementation, testing, deployment, maintenance, etc.
+- Software engineering lab may also involve the use of various software methodologies, such as agile, scrum, XP, etc.
+- Software engineering lab may also involve the use of various software engineering standards and best practices, such as coding conventions, naming conventions, documentation standards, etc.
+- Software engineering lab may also involve the use of various software engineering metrics and measures, such as LOC, cyclomatic complexity, defect density, test coverage, etc.
+- Software engineering lab may also involve the use of various software engineering case studies and projects, such as ATM system, library management system, online shopping system, etc.
+- Software engineering lab may also involve the use of various software engineering challenges and issues, such as software quality, software reliability, software security, software reuse, software maintenance, etc.

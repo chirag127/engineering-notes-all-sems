@@ -1,0 +1,18 @@
+### Transaction Processing for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+
+- Transaction processing is the execution of a series of operations on a set of data in a reliable, consistent, and atomic manner.
+- A transaction is a logical unit of work that either succeeds or fails as a whole. If any part of the transaction fails, the entire transaction is rolled back and the data is restored to its original state.
+- Transactions are essential for ensuring data integrity and consistency in distributed applications that involve multiple data sources and concurrent users.
+- Enterprise JavaBeans (EJB) is a technology that supports distributed transactional component-based applications written in Java. EJB provides a standard way to define and implement business logic components that can participate in transactions.
+- EJB components are called enterprise beans and they run inside a special container that provides services such as transaction management, security, concurrency, naming, and persistence.
+- There are two types of enterprise beans: session beans and message-driven beans. Session beans implement business logic that is invoked by a client through a remote or local interface. Message-driven beans implement business logic that is triggered by messages from a message queue or topic.
+- Entity beans are a deprecated type of enterprise beans that represented persistent data objects. They are replaced by Java Persistence API (JPA) entities in modern EJB applications.
+- EJB supports two types of transaction management: container-managed and bean-managed. In container-managed transactions, the EJB container sets the boundaries of the transactions and controls their propagation, commit, and rollback. In bean-managed transactions, the enterprise bean code explicitly marks the transaction boundaries and uses the Java Transaction API (JTA) to interact with the transaction manager.
+- EJB transactions are based on the XA architecture, which defines a standard way to coordinate distributed transactions across multiple resources, such as databases, message queues, and web services. XA transactions use a two-phase commit protocol to ensure atomicity and consistency of the data.
+- EJB transactions can be configured with different attributes that specify the transaction behavior of the enterprise beans and their methods. The most common attributes are:
+  - Required: The method must run within a transaction. If the client is already associated with a transaction, the method joins that transaction. Otherwise, a new transaction is started.
+  - RequiresNew: The method must run within a new transaction. If the client is already associated with a transaction, that transaction is suspended and a new transaction is started.
+  - Supports: The method can run with or without a transaction. If the client is already associated with a transaction, the method joins that transaction. Otherwise, the method runs without a transaction.
+  - NotSupported: The method must run without a transaction. If the client is already associated with a transaction, that transaction is suspended and the method runs without a transaction.
+  - Mandatory: The method must run within a transaction. If the client is not already associated with a transaction, an exception is thrown.
+  - Never: The method must run without a transaction. If the client is already associated with a transaction, an exception is thrown.

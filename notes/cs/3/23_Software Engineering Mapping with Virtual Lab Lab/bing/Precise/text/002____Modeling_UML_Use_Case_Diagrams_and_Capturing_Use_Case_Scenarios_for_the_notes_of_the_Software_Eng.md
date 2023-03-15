@@ -1,0 +1,13 @@
+## Modeling UML Use Case Diagrams and Capturing Use Case Scenarios for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- **UML** stands for **Unified Modeling Language**. It is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems.
+- **Use Case Diagrams** are one of the types of diagrams in UML. They represent the interactions between the system and its external entities (actors) in terms of the functionalities provided by the system.
+- **Use Case Scenarios** are textual descriptions of the flow of events that take place when an actor interacts with the system to achieve a specific goal.
+- To model a Use Case Diagram, the first step is to identify the actors and use cases. Actors represent the external entities that interact with the system, while use cases represent the functionalities provided by the system.
+- The next step is to represent the relationships between the actors and use cases. There are three types of relationships: **association**, **include**, and **extend**.
+- **Association** represents the communication between an actor and a use case. It is depicted as a solid line connecting the actor and the use case.
+- **Include** represents the relationship between two use cases where one use case (the base use case) includes the behavior of another use case (the included use case). It is depicted as a dashed line with an open arrowhead pointing from the base use case to the included use case.
+- **Extend** represents the relationship between two use cases where one use case (the extending use case) extends the behavior of another use case (the extended use case) under certain conditions. It is depicted as a dashed line with an open arrowhead pointing from the extending use case to the extended use case.
+- To capture Use Case Scenarios, the flow of events that take place when an actor interacts with the system to achieve a specific goal is described in detail. This includes the actions performed by the actor, the responses of the system, and any alternative flows or exceptions that may occur.
+- Use Case Scenarios can be captured using various techniques such as **narratives**, **flowcharts**, or **activity diagrams**.
+- Modeling UML Use Case Diagrams and Capturing Use Case Scenarios are important steps in the software engineering process as they help to define the requirements of the system and ensure that all stakeholders have a common understanding of the system's functionalities.

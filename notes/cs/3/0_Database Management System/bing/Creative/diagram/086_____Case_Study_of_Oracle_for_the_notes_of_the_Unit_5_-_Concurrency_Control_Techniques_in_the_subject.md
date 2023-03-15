@@ -1,0 +1,29 @@
+### Case Study of Oracle for the notes of the Unit 5 - Concurrency Control Techniques in the subject of Database Management System
+
+- Oracle is a relational database management system that supports concurrent access of data by multiple users and transactions.
+- Oracle uses a multiversion concurrency control (MVCC) model to provide read consistency and isolation levels for queries and transactions  .
+- MVCC means that Oracle maintains multiple versions of data in the database, each with a unique system change number (SCN) that indicates when the version was created or modified  .
+- Oracle automatically provides statement-level read consistency, which means that all the data that a query sees comes from a single point in time, the time when the query started .
+- Oracle can also provide transaction-level read consistency, which means that all the queries in a transaction see the data as it was when the transaction started .
+- Oracle supports four isolation levels: read committed, serializable, read only, and read write  .
+- Read committed is the default isolation level, which means that a transaction can only see the changes made by other transactions that have committed  .
+- Serializable is the highest isolation level, which means that a transaction can only see the changes made by itself, and no other transactions can modify the data that it has read or written  .
+- Read only is a special isolation level, which means that a transaction can only read data, and no other transactions can modify the data that it has read  .
+- Read write is a synonym for read committed isolation level  .
+- Oracle uses various types of locks to ensure data integrity and prevent conflicts among concurrent transactions  .
+- Locks are mechanisms that prevent unauthorized access to data or resources by other transactions  .
+- Oracle has two main categories of locks: data locks and dictionary locks  .
+- Data locks are locks that protect data in tables, indexes, and clusters  .
+- Data locks can be exclusive or shared, depending on the operation that acquires them  .
+- Exclusive locks prevent other transactions from modifying or locking the same data  .
+- Shared locks allow other transactions to read or lock the same data, but not modify it  .
+- Oracle uses row-level locking, which means that each row affected by a transaction is locked individually  .
+- Oracle also uses table-level locking, which means that the entire table is locked for certain operations, such as DDL statements  .
+- Dictionary locks are locks that protect the data dictionary, which contains the definitions of schema objects, such as tables, views, indexes, etc  .
+- Dictionary locks can be exclusive or shared, depending on the operation that acquires them  .
+- Exclusive dictionary locks prevent other transactions from accessing or modifying the same schema object  .
+- Shared dictionary locks allow other transactions to access the same schema object, but not modify it  .
+- Oracle uses a lock manager to manage the acquisition and release of locks  .
+- The lock manager maintains a lock table in the shared pool of the system global area (SGA), which contains information about the locks held by each transaction  .
+- The lock manager also maintains a lock queue for each resource, which contains the requests for locks that are waiting to be granted  .
+- The lock manager uses a locking protocol to determine the order and mode

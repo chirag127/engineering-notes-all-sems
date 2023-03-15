@@ -1,0 +1,22 @@
+## Statement for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+
+- A database management system (DBMS) is a software tool that enables users to manage a database easily.
+- A database is a collection of data that is organized so that it can be accessed, manipulated, and updated efficiently.
+- A spatial database is a database that stores and manages spatial data, such as geographic coordinates, shapes, maps, and images.
+- A virtual lab is a simulated environment that allows users to perform experiments or tasks without using physical equipment or resources.
+- Database management systems mapping with virtual lab lab is a subject that covers the theory, design, development, and management of spatial databases using virtual lab software.
+- The objectives of this subject are to:
+  - Understand the concepts and principles of spatial data and spatial databases.
+  - Learn how to use entity-relationship modeling, normalization, and structured query language (SQL) to design and implement spatial databases .
+  - Explore the features and functions of various spatial database management systems (SDBMS) and virtual lab software .
+  - Apply the knowledge and skills of spatial database management to real-world problems and scenarios .
+- The topics of this subject include:
+  - Introduction to spatial data and spatial databases .
+  - Spatial data models and structures .
+  - Spatial query languages and operations .
+  - Spatial indexing and access methods .
+  - Spatial data analysis and processing .
+  - Spatial data visualization and presentation .
+  - Spatial database design and implementation .
+  - Spatial database management systems and virtual lab software .
+  - Spatial database applications and case studies .

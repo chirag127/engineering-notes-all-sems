@@ -1,0 +1,41 @@
+### Automatic Construction of Efficient Parsers
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A parser can be constructed manually or automatically by using a parser generator tool.
+- A parser generator is a program that takes a grammar specification as input and produces a parser program as output.
+- A parser generator can also produce a parsing table, which is a data structure that guides the parsing process.
+- There are different types of parsers, such as top-down parsers, bottom-up parsers, and hybrid parsers.
+- Top-down parsers start from the start symbol of the grammar and try to derive the input by applying production rules.
+- Bottom-up parsers start from the input and try to reduce it to the start symbol by applying production rules in reverse.
+- Hybrid parsers combine the features of both top-down and bottom-up parsers.
+- One of the most widely used types of bottom-up parsers is the LR parser, which stands for Left-to-right scan and Rightmost derivation.
+- An LR parser can handle a large class of grammars, including those that are ambiguous or have left recursion.
+- An LR parser uses a stack and a parsing table to parse the input.
+- The parsing table consists of two parts: the action table and the goto table.
+- The action table tells the parser what action to take for each state and input symbol: shift, reduce, accept, or error.
+- The goto table tells the parser what state to go to after a reduction.
+- The parsing table is constructed from the canonical collection of LR(0) items, which are the possible configurations of the parser at any point of the parsing process.
+- An LR(0) item consists of a production rule with a dot indicating the position of the parser in the right-hand side of the rule.
+- The canonical collection of LR(0) items is obtained by applying the closure and goto operations on the augmented grammar, which is the original grammar with a new start symbol and a new production rule.
+- The closure operation adds all the items that can be derived from a given item by applying production rules.
+- The goto operation moves the dot one position to the right for a given item and a given input symbol.
+- The canonical collection of LR(0) items forms the states of the parsing table, and the transitions between the states are determined by the goto operation.
+- The action table is filled by using the following rules:
+  - If [A -> α. a β] is an item in state I and goto(I, a) = J, then action[I, a] = shift J.
+  - If [A -> α.] is an item in state I, then action[I, a] = reduce A -> α for all a in FOLLOW(A).
+  - If [S' -> S.] is an item in state I, then action[I, $] = accept, where $ is the end-of-input marker.
+  - Otherwise, action[I, a] = error.
+- The goto table is filled by using the following rule:
+  - If goto(I, A) = J, then goto[I, A] = J, where A is a non-terminal symbol.
+- However, the LR(0) parser may encounter conflicts, which are situations where the action table has more than one entry for a given state and input symbol.
+- There are two types of conflicts: shift-reduce conflicts and reduce-reduce conflicts.
+- A shift-reduce conflict occurs when the parser can either shift or reduce for a given state and input symbol.
+- A reduce-reduce conflict occurs when the parser can reduce by more than one production rule for a given state and input symbol.
+- To resolve the conflicts, the LR(0) parser can be refined by using lookahead symbols, which are the symbols that follow the input symbol in the input string.
+- The lookahead symbols can help the parser decide whether to shift or reduce, or which production rule to reduce by.
+- There are different variants of LR parsers that use different amounts of lookahead symbols, such as SLR(1), LR(1), and LALR(1) parsers.
+- An SLR(1) parser is a Simple LR parser that uses one lookahead symbol.
+- An SLR(1) parser is obtained by modifying the action table of the LR(0) parser by using the FOLLOW sets of the non-terminals instead of the whole terminal set.
+- An SLR(1) parser can handle more grammars than an LR(0) parser, but it may still encounter conflicts for some grammars.
+- An LR(1) parser is an LR parser that uses one lookahead symbol.
+-

@@ -1,0 +1,8 @@
+## Unit 1 - DIGITAL IMAGE FUNDAMENTALS
+
+1. **Elements of Visual Perception**: The human visual system is the most important source of information about the world around us. The process of visual perception begins with the capture of light by the eye, which is then converted into neural signals that are transmitted to the brain for processing.
+2. **Light and Electromagnetic Spectrum**: Light is a form of electromagnetic radiation that is visible to the human eye. The electromagnetic spectrum is the range of all frequencies of electromagnetic radiation, including radio waves, microwaves, infrared radiation, visible light, ultraviolet radiation, X-rays, and gamma rays.
+3. **Image Sensing and Acquisition**: Image sensing and acquisition is the process of capturing an image using a digital camera or other imaging device. This involves the conversion of light into an electrical signal, which is then digitized and stored as a digital image.
+4. **Image Sampling and Quantization**: Image sampling is the process of converting a continuous image into a discrete image by dividing it into a grid of pixels. Quantization is the process of approximating the continuous values of the image with a finite number of discrete values.
+5. **Basic Relationships between Pixels**: Pixels in a digital image are related to each other in various ways, including spatial relationships, color relationships, and intensity relationships. These relationships can be used to enhance or manipulate the image in various ways.
+6. **Mathematical Tools used in Digital Image Processing**: Various mathematical tools, such as linear algebra, calculus, and probability theory, are used in digital image processing to manipulate and analyze digital images.

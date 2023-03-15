@@ -1,0 +1,23 @@
+# Designing Test Suites for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- A test suite is a collection of test cases that are intended to verify the functionality and quality of a software program .
+- Test cases are the individual units of testing that specify the input, expected output, and execution conditions for a particular scenario .
+- Test design is the process of creating test suites or test cases based on the software requirements and specifications.
+- Test design techniques are the methods or approaches used to generate test cases, such as equivalence partitioning, boundary value analysis, decision table testing, state transition testing, etc.
+- Test design techniques can be classified into three categories: black-box, white-box, and experience-based.
+- Black-box techniques are based on the external view of the software, such as the functionality, user interface, or expected behavior.
+- White-box techniques are based on the internal view of the software, such as the code, structure, or logic.
+- Experience-based techniques are based on the knowledge and intuition of the testers, such as exploratory testing, error guessing, or heuristic testing.
+- The choice of test design techniques depends on the test objectives, the type of software, the available resources, and the test criteria.
+- The test design process can be summarized as follows:
+  - Analyze the software requirements and specifications
+  - Identify the test objectives and scope
+  - Select the appropriate test design techniques
+  - Generate test cases and test data
+  - Review and optimize test cases
+  - Document and organize test cases into test suites
+  - Execute test cases and report test results
+- The test design process can be iterative, incremental, or agile, depending on the software development methodology.
+- The test design process can be automated, manual, or hybrid, depending on the tools and skills available.
+- The test design process can be influenced by the test levels, such as unit testing, integration testing, system testing, or acceptance testing.
+- The test design process can be evaluated by the test coverage, test effectiveness, test efficiency, or test quality metrics.

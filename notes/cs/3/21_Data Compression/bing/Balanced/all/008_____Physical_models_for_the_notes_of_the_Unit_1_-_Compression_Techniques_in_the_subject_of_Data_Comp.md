@@ -1,0 +1,11 @@
+# Physical models for data compression
+
+Physical models are mathematical representations of the source data that capture the essential features and statistics of the data. Physical models are useful for data compression because they allow us to estimate the probability distribution of the data and design optimal codes based on the model. Some of the common physical models for data compression are:
+
+- **Uniform model**: This model assumes that all the symbols in the data are equally likely to occur. This model is suitable for data that has no structure or correlation, such as random noise. The optimal code for this model is a fixed-length code, where each symbol is assigned a code of the same length.
+
+- **Binary symmetric model**: This model assumes that the data consists of binary symbols (0 or 1) and that the probability of a symbol being 0 or 1 is the same for all positions in the data. This model is suitable for data that has some structure or correlation, such as text or images. The optimal code for this model is a variable-length code, such as Huffman code, where the more frequent symbols are assigned shorter codes.
+
+- **Markov model**: This model assumes that the data consists of symbols from a finite alphabet and that the probability of a symbol depends only on the previous k symbols, where k is a fixed parameter. This model is particularly useful for text compression, where the probability of the next letter is heavily influenced by the preceding letters. The optimal code for this model is a context-dependent code, where the code for each symbol depends on the previous k symbols.
+
+- **Dictionary model**: This model assumes that the data consists of symbols from a finite alphabet and that the data can be divided into segments that are repeated throughout the data. This model is suitable for data that has a lot of redundancy or repetition, such as natural language or DNA sequences. The optimal code for this model is a dictionary-based code, where each segment is assigned a code based on its position in a predefined or adaptive dictionary.

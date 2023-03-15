@@ -1,0 +1,12 @@
+# Job Scheduling for Map Reduce
+
+- Job scheduling is the process of assigning and managing the execution of tasks in a distributed system, such as a Hadoop cluster, that processes large-scale data sets using the MapReduce framework.
+- MapReduce is a programming model that allows parallel processing of data by dividing it into smaller chunks called input splits, applying a user-defined function called map to each split, and then combining the intermediate results using another user-defined function called reduce.
+- Job scheduling is important for optimizing the performance, efficiency, and fairness of the system, as well as meeting the quality of service requirements of different users and applications.
+- There are different types of job schedulers for MapReduce, such as:
+  - FIFO: This is the default scheduler that executes jobs in the order of their submission. It is simple and fast, but it does not consider the priority, size, or resource requirements of the jobs.
+  - Fair: This scheduler assigns resources to jobs in a way that ensures that each job gets a fair share of the cluster over time. It also allows users to define pools and weights for different jobs, and supports preemption and delay scheduling to reduce data locality issues.
+  - Capacity: This scheduler divides the cluster into multiple queues, each with a configurable capacity, priority, and access control. It also supports preemption and delay scheduling, and allows users to specify minimum and maximum resource limits for each queue.
+  - Deadline: This scheduler aims to minimize the number of jobs that miss their deadlines, by using a heuristic algorithm that considers the job size, deadline, and resource availability. It also supports preemption and delay scheduling, and allows users to specify the importance and penalty of each job.
+  - Multi-objective: This scheduler tries to optimize multiple objectives, such as performance, energy, cost, and reliability, by using a multi-criteria decision making method that considers the trade-offs and preferences of the users and the system.
+- Job scheduling for big data applications in clouds is a challenging and active research area, as it involves many factors, such as data characteristics, workload patterns, resource heterogeneity, network topology, and user requirements.

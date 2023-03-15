@@ -1,0 +1,24 @@
+### Data Independence and Database Language and Interfaces
+
+- Data independence is a property of DBMS that allows the database schema to be changed at one level without affecting the schema at the next higher level.
+- Database schema is the logical structure and organization of the data in the database.
+- There are two types of data independence:
+  - Logical data independence: the ability to change the conceptual schema without affecting the external schema or the application programs .
+  - Physical data independence: the ability to change the internal schema without affecting the conceptual schema or the external schema .
+- Data independence provides the following benefits:
+  - It allows the data to be separated from the programs that use it, which improves data security, integrity, and maintainability.
+  - It allows the data to be modeled according to the application domain entities and functional requirements, which improves data abstraction and usability.
+  - It allows the data to be processed in parallel and distributed environments, which improves data performance and scalability.
+- Database language is a set of commands and syntax used to define, manipulate, and query data in a database.
+- There are three types of database languages:
+  - Data definition language (DDL): used to specify the database schema, such as creating, altering, and dropping tables, indexes, views, etc.
+  - Data manipulation language (DML): used to insert, update, delete, and retrieve data from the database, such as select, insert, update, delete, etc.
+  - Data control language (DCL): used to control the access and security of the data, such as granting and revoking permissions, roles, etc.
+- Database interface is a software component that allows users and applications to interact with the database using a database language.
+- There are different types of database interfaces for different categories of users, such as:
+  - Query language interface: allows users to enter and execute queries in a database language, such as SQL, QBE, etc.
+  - Menu-based interface: allows users to select options from a predefined menu of commands and queries, which is suitable for novice users.
+  - Form-based interface: allows users to fill in forms with data fields and buttons, which is suitable for data entry and retrieval tasks.
+  - Graphical user interface (GUI): allows users to interact with the database using graphical elements, such as icons, menus, windows, etc, which is suitable for user-friendly and intuitive operations.
+  - Natural language interface: allows users to communicate with the database using natural language, such as English, which is suitable for complex and flexible queries.
+  - Application program interface (API): allows applications to access and manipulate the database using a programming language, such as Java, C#, etc, which is suitable for custom and complex tasks.

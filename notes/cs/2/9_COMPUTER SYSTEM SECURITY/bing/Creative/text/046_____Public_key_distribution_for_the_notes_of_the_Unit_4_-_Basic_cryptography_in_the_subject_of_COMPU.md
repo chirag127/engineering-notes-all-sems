@@ -1,0 +1,16 @@
+### Public key distribution
+
+Public key distribution is the process of distributing the public keys of users who want to communicate securely using public key cryptography. Public key cryptography is a cryptographic technique that uses a pair of keys, one public and one private, for encryption and decryption. The public key can be shared with anyone, while the private key must be kept secret by the owner. The public key can be used to encrypt a message that can only be decrypted by the private key, or to verify a digital signature that was created by the private key.
+
+There are several challenges and methods for public key distribution, such as:
+
+- How to ensure the authenticity and integrity of the public keys, i.e., how to prevent an attacker from impersonating another user or tampering with the public keys.
+- How to manage the storage and retrieval of the public keys, i.e., how to make the public keys available and accessible to the intended recipients.
+- How to deal with the revocation and expiration of the public keys, i.e., how to update or invalidate the public keys when they are no longer valid or secure.
+
+Some of the common techniques for public key distribution are:
+
+- **Public announcement**: The users broadcast their public keys to everyone, either through a public channel or a trusted medium. This method is simple and efficient, but it is vulnerable to impersonation and tampering attacks, as there is no way to verify the source and integrity of the public keys.
+- **Publicly available directory**: The users register their public keys with a central repository, such as a public key server, that maintains a database of public keys and their owners. The users can query the repository to obtain the public keys of other users. This method is convenient and scalable, but it relies on the security and availability of the repository, as well as the trustworthiness of the administrator.
+- **Public-key authority**: The users obtain their public keys from a trusted third party, known as a public-key authority, that acts as a mediator between the users. The authority generates and distributes the public keys to the users, and also verifies the identity and authenticity of the users. The authority can also revoke or update the public keys when needed. This method is secure and reliable, but it introduces a single point of failure and a potential bottleneck in the communication.
+- **Public-key certificates**: The users obtain their public keys from a trusted third party, known as a certificate authority, that issues digital certificates that bind the public keys to the identities of the users. The certificates are signed by the authority using its own private key, and can be verified by anyone using the authority's public key. The certificates can also include information such as the validity period and the revocation status of the public keys. This method is widely used and standardized, but it requires a hierarchical and complex infrastructure of certificate authorities and certificate validation.

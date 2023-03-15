@@ -1,0 +1,10 @@
+### Compression over Modems
+
+- Compression over modems is a technique to reduce the amount of data that needs to be transmitted over a telephone network, thus increasing the effective bandwidth and speed of the connection.
+- Compression over modems is performed by the modems themselves, using special protocols that are negotiated during the handshake phase of the connection.
+- The most common protocols for compression over modems are MNP-5 and V.42bis, which are based on the Lempel-Ziv algorithm and can achieve up to 4:1 compression ratio for compressible data  .
+- MNP-5 and V.42bis are also error control protocols, which means they can detect and correct errors that may occur during the transmission, ensuring the reliability and integrity of the data.
+- MNP-5 and V.42bis work by building a dictionary of frequently occurring patterns in the data stream, and replacing them with shorter codes. The dictionary is updated dynamically and synchronized between the sender and the receiver .
+- Compression over modems is most effective for text-based data, such as web pages, emails, or documents, which have a lot of redundancy and repetition. Compression over modems is less effective for binary data, such as images, audio, or video, which are already compressed using other algorithms .
+- Compression over modems can improve the throughput and performance of the connection, but it also introduces some overhead and latency, as the modems need to process the data before sending and receiving it. Compression over modems also depends on the quality of the phone line and the compatibility of the modems .
+- Compression over modems is an optional feature that can be enabled or disabled by the user or the application. Some applications, such as web browsers, can use their own compression methods to reduce the data size before sending it to the modem, which may result in better compression than the modem's protocol .

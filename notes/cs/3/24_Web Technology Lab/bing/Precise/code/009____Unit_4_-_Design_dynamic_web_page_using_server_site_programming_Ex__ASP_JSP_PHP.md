@@ -1,0 +1,9 @@
+## Unit 4 - Design dynamic web page using server site programming Ex. ASP/JSP/PHP
+
+1. **Server-side programming** refers to the use of scripts that are executed on the server to generate dynamic web pages.
+2. **ASP (Active Server Pages)** is a server-side scripting language developed by Microsoft for creating dynamic web pages. It is used to create and run web applications and is commonly used with the Microsoft IIS web server.
+3. **JSP (JavaServer Pages)** is a server-side scripting language developed by Sun Microsystems (now owned by Oracle) for creating dynamic web pages. It is used to create and run web applications and is commonly used with the Apache Tomcat web server.
+4. **PHP (Hypertext Preprocessor)** is a server-side scripting language developed by the PHP Group for creating dynamic web pages. It is used to create and run web applications and is commonly used with the Apache web server.
+5. All three languages, ASP, JSP, and PHP, allow developers to create dynamic web pages by embedding server-side scripts within HTML pages. These scripts are executed on the server and the resulting HTML is sent to the client's web browser.
+6. The choice of server-side scripting language depends on various factors such as the developer's familiarity with the language, the web server being used, and the specific requirements of the web application being developed.
+7. In this unit, students will learn how to design dynamic web pages using server-side programming languages such as ASP, JSP, and PHP. They will learn the basics of these languages and how to use them to create dynamic web pages that interact with databases and other server-side resources.

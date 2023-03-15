@@ -1,0 +1,24 @@
+### Java Database Connectivity (JDBC)
+
+- JDBC is a Java API that allows Java applications to interact with various types of databases using a standard interface.
+- JDBC provides methods for creating, executing, and manipulating SQL statements, as well as retrieving and processing the results.
+- JDBC consists of two main components: the JDBC API and the JDBC driver.
+- The JDBC API defines the classes and interfaces that Java applications use to access databases.
+- The JDBC driver is a software component that implements the JDBC API for a specific database vendor or type.
+- There are four types of JDBC drivers: JDBC-ODBC bridge driver, native driver, network protocol driver, and thin driver.
+- The JDBC-ODBC bridge driver uses the ODBC driver of the database to connect to the database via the ODBC API.
+- The native driver uses the native library of the database to connect to the database directly.
+- The network protocol driver uses a middleware server that converts JDBC calls into the database-specific protocol.
+- The thin driver uses a pure Java implementation of the database-specific protocol to connect to the database directly.
+- To establish a connection with a database using JDBC, the following steps are required:
+  - Load the JDBC driver class using the Class.forName() method.
+  - Obtain a connection object using the DriverManager.getConnection() method, passing the database URL, username, and password as parameters.
+  - Create a statement object using the connection.createStatement() method, which can be used to execute SQL queries or updates.
+  - Execute the statement using the executeQuery() method for queries or the executeUpdate() method for updates, which return a result set object or an integer respectively.
+  - Process the result set using the methods such as next(), getString(), getInt(), etc., which allow accessing the data in each row and column.
+  - Close the result set, statement, and connection objects using the close() method, which releases the resources associated with them.
+- The database URL syntax varies depending on the type of database and driver used, but generally follows this format:
+  - jdbc:subprotocol:subname
+  - where subprotocol is the name of the driver or the database, and subname is the name of the database or the connection details.
+  - For example, the database URL for Java DB is: jdbc:derby:databaseName.
+- JDBC also provides other features such as prepared statements, callable statements, batch updates, transactions, metadata, etc., which enhance the functionality and performance of database operations .

@@ -1,0 +1,21 @@
+# Packet filtering firewall
+
+- A packet filtering firewall is the most basic type of firewall that controls data flow to and from a network .
+- It is a network security solution that allows network packets to move across between networks and controls their flow using a set of user-defined rules, IP addresses, ports, and protocols .
+- A packet filtering firewall can be implemented as a software program or a hardware device, or both.
+- A packet filtering firewall operates at the network layer of the OSI model.
+- A packet filtering firewall examines each packet, which comprises user data and control information, and tests them according to a set of pre-established rules.
+- The rules can be based on the source and destination IP addresses, the source and destination ports, the protocol type, and the direction of the packet .
+- The packet filtering firewall can perform one of the following actions on each packet: accept, reject, or drop .
+- Accept means the packet is allowed to pass through the firewall.
+- Reject means the packet is blocked and a notification is sent back to the sender.
+- Drop means the packet is blocked and no notification is sent back to the sender.
+- A packet filtering firewall can provide some benefits, such as:
+  - Low cost and easy to implement .
+  - High performance and low overhead .
+  - Transparency to users and applications .
+- A packet filtering firewall can also have some limitations, such as:
+  - Vulnerability to IP spoofing and other attacks  .
+  - Difficulty in configuring and maintaining complex rules  .
+  - Inability to inspect the payload or the application layer data  .
+  - Lack of stateful inspection and logging capabilities  .

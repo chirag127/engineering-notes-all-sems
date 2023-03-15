@@ -1,0 +1,22 @@
+### Deadlock Handling
+
+- A deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for each other to release locks on shared resources.
+- Deadlocks can cause performance degradation, resource wastage and system failure in a database management system (DBMS).
+- Deadlocks can be handled by three classical approaches: deadlock prevention, deadlock avoidance and deadlock detection and removal .
+- Deadlock prevention is a technique that ensures that at least one of the necessary conditions for deadlock occurrence is violated. For example, by using strict two-phase locking protocol, the hold and wait condition can be prevented .
+- Deadlock avoidance is a technique that ensures that the system will always remain in a safe state, where there is at least one possible sequence of resource allocation that will not lead to deadlock. For example, by using timestamp ordering protocol, the circular wait condition can be avoided .
+- Deadlock detection and removal is a technique that allows the system to enter a deadlock state, but then detects it and recovers from it. For example, by using a wait-for graph or a timeout mechanism, the deadlock can be detected and then resolved by aborting or rolling back some transactions .
+- In a distributed database system, deadlock handling is more complex than in a centralized system, because of the issues of transaction location and transaction control.
+- Transaction location refers to the problem of identifying the sites where the transactions involved in a deadlock are executing.
+- Transaction control refers to the problem of coordinating the actions of the transactions across different sites.
+- In a distributed database system, deadlocks can be classified into two types: global deadlocks and local deadlocks .
+- A global deadlock is a deadlock that involves transactions executing at different sites .
+- A local deadlock is a deadlock that involves transactions executing at the same site .
+- Global deadlocks are harder to detect and resolve than local deadlocks, because they require inter-site communication and cooperation .
+- There are two main approaches for global deadlock handling: centralized approach and distributed approach .
+- In the centralized approach, one site is designated as the deadlock coordinator, which is responsible for collecting the information about the transactions and resources from all the sites, and detecting and resolving the global deadlocks .
+- In the distributed approach, each site is responsible for detecting and resolving the local deadlocks, and communicating with other sites to detect and resolve the global deadlocks .
+- The centralized approach has the advantages of simplicity and efficiency, but the disadvantages of single point of failure and communication overhead .
+- The distributed approach has the advantages of fault tolerance and scalability, but the disadvantages of complexity and coordination overhead .
+- There are various algorithms and protocols for implementing the centralized and distributed approaches, such as the edge-chasing algorithm, the probe-based algorithm, the path-pushing algorithm, etc .
+- The choice of the deadlock handling technique depends on the characteristics of the system, such as the frequency of deadlocks, the degree of concurrency, the network topology, the communication cost, etc .

@@ -1,0 +1,25 @@
+### Cursors
+
+- A cursor is a database object that allows you to manipulate data in a row-by-row manner.
+- A cursor can be thought of as a pointer to a specific row within a query result .
+- Cursors facilitate subsequent processing in conjunction with the traversal, such as retrieval, addition and removal of database records.
+- Cursors extend result processing by:
+  - Allowing positioning at specific rows of the result set.
+  - Retrieving one row or block of rows from the current position in the result set.
+  - Supporting data modifications to the rows at the current position in the result set.
+- A cursor's lifecycle involves the following steps :
+  - Declare a cursor: A cursor is declared by defining a SQL statement that returns a result set.
+  - Open a cursor: A cursor is opened by executing the SQL statement and populating the result set.
+  - Fetch data from a cursor: A cursor is fetched by moving the pointer to a row and retrieving the data from that row.
+  - Close a cursor: A cursor is closed by releasing the result set and freeing the resources associated with the cursor.
+  - Deallocate a cursor: A cursor is deallocated by removing the cursor definition from the database server.
+- Cursors can be classified into different types based on their characteristics, such as :
+  - Forward-only or scrollable: A forward-only cursor can only move from the first row to the last row, while a scrollable cursor can move in any direction.
+  - Static or dynamic: A static cursor works on a snapshot of the result set, while a dynamic cursor reflects any changes made to the underlying data.
+  - Keyset-driven or insensitive: A keyset-driven cursor works on a set of keys that identify the rows in the result set, while an insensitive cursor works on a copy of the result set.
+  - Local or global: A local cursor is visible only within the scope of the batch, stored procedure, or trigger that declares it, while a global cursor is visible to all sessions on the database server.
+- Cursors are useful when you need to perform complex logic or calculations on individual rows, or when you need to update data in a non-set-based manner.
+- Cursors have some drawbacks, such as :
+  - Consuming more memory and CPU resources than set-based operations.
+  - Increasing the risk of locking and blocking issues due to holding locks on the data for a longer duration.
+  - Reducing the performance and scalability of the database application due to the overhead of cursor operations.

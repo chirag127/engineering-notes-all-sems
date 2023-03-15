@@ -1,0 +1,6 @@
+### Big Data features – security, compliance, auditing and protection
+
+- Security: The process of protecting big data from unauthorized access, modification, or disclosure. Security involves implementing various measures such as encryption, authentication, authorization, firewall, etc. to safeguard the confidentiality, integrity, and availability of big data.
+- Compliance: The process of ensuring that big data adheres to the relevant laws, regulations, standards, and policies that govern its collection, processing, storage, and usage. Compliance involves applying various methods such as data quality, data governance, data lineage, data masking, etc. to ensure the accuracy, consistency, and accountability of big data.
+- Auditing: The process of verifying and validating that big data is secure and compliant. Auditing involves conducting various activities such as data analysis, data profiling, data sampling, data testing, etc. to assess the performance, reliability, and effectiveness of big data security and compliance measures.
+- Protection: The process of preserving and recovering big data from potential threats or disasters. Protection involves implementing various strategies such as backup, replication, disaster recovery, fault tolerance, etc. to ensure the durability, availability, and recoverability of big data.

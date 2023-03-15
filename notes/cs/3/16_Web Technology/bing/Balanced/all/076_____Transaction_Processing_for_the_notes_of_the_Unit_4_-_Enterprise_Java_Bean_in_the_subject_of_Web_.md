@@ -1,0 +1,15 @@
+# Transaction Processing for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+
+- Transaction processing is the execution of a series of operations on a set of data, such as a database, in a reliable, consistent, and atomic way.
+- Transactions ensure that the data remains in a consistent state even in the presence of failures, such as system crashes or network errors.
+- Transactions have four properties, known as ACID: atomicity, consistency, isolation, and durability.
+- Atomicity means that either all the operations in a transaction are executed or none of them are. There is no partial execution or rollback of a transaction.
+- Consistency means that the transaction preserves the integrity constraints and business rules of the data. The data is valid before and after the transaction.
+- Isolation means that the transaction is executed as if it is the only one in the system. The concurrent transactions do not interfere with each other and do not see the intermediate states of each other.
+- Durability means that the effects of the transaction are permanent and will not be lost in the event of a failure. The data is committed to a stable storage and can be recovered if needed.
+
+- Enterprise Java Beans (EJB) is a technology that supports distributed transactional component-based applications written in Java. EJB components are called beans and they run inside a container that provides services such as security, concurrency, lifecycle management, and transaction management.
+- EJB beans can participate in transactions in two ways: container-managed transactions (CMT) or bean-managed transactions (BMT).
+- In CMT, the container sets the boundaries of the transactions and the bean does not have to explicitly mark them. The bean can specify the transaction attributes for each method, such as required, requires new, mandatory, supports, not supported, or never. These attributes determine how the container will handle the transaction context when the method is invoked.
+- In BMT, the bean is responsible for managing the transactions using the Java Transaction API (JTA). The bean can obtain a reference to the UserTransaction interface from the container and use its methods to begin, commit, or rollback a transaction. The bean can also enlist multiple XA resources, such as databases or message queues, in a distributed transaction and use the two-phase commit protocol to ensure atomicity.
+- CMT is simpler and more declarative than BMT, but BMT gives more control and flexibility to the bean. CMT is mandatory for entity beans, which are beans that represent persistent data in a database, but optional for session beans, which are beans that represent the business logic of an application, and message-driven beans, which are beans that process messages asynchronously from a message queue.

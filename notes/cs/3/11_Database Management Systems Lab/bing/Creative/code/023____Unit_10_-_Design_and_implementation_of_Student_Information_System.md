@@ -1,0 +1,15 @@
+## Unit 10 - Design and implementation of Student Information System
+
+A student information system (SIS) is a software application that manages the data and processes of a school or college, such as student records, enrollment, attendance, grades, courses, schedules, etc. A SIS can help improve the efficiency, accuracy, and convenience of student management, as well as provide various services and functions for students, teachers, administrators, and other stakeholders.
+
+The design and implementation of a SIS involves the following steps:
+
+- **System requirement analysis**: This step involves identifying the needs and expectations of the users and the system, such as the functional and non-functional requirements, the scope and objectives, the constraints and assumptions, the use cases and scenarios, etc. The system requirement analysis can be done using various techniques, such as interviews, surveys, observations, document analysis, prototyping, etc. The output of this step is a system requirement specification (SRS) document that defines the system requirements in a clear, consistent, and verifiable manner  .
+
+- **Database design**: This step involves designing the logical and physical structure of the database that will store and manipulate the data of the system, such as the entities, attributes, relationships, keys, constraints, indexes, etc. The database design can be done using various methods, such as the entity-relationship (ER) model, the relational model, the object-oriented model, etc. The output of this step is a database schema that describes the database design in a graphical or textual form  .
+
+- **System function and architecture design**: This step involves designing the functionality and architecture of the system, such as the modules, components, interfaces, interactions, algorithms, etc. The system function and architecture design can be done using various tools, such as the unified modeling language (UML), the structured analysis and design technique (SADT), the data flow diagram (DFD), etc. The output of this step is a system design document that describes the system design in a detailed and comprehensive manner  .
+
+- **System implementation**: This step involves developing and testing the system according to the system design, using various programming languages, frameworks, libraries, tools, etc. The system implementation can be done using various approaches, such as the waterfall model, the agile model, the spiral model, etc. The output of this step is a system prototype or a system product that meets the system requirements and specifications  .
+
+- **System deployment and maintenance**: This step involves installing and running the system in the target environment, such as the school or college network, the web server, the cloud platform, etc. The system deployment and maintenance also involves providing user training, documentation, support, feedback, updates, etc. The output of this step is a system that is operational, reliable, and user-friendly  .

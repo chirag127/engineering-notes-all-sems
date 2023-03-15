@@ -1,0 +1,22 @@
+# UNIX as RTOS
+
+- A real-time operating system (RTOS) is an operating system (OS) for real-time computing applications that processes data and events that have critically defined time constraints.
+- An RTOS is distinct from a time-sharing operating system, such as UNIX, which manages the sharing of system resources with a scheduler, data buffers, or fixed task prioritization in a multitasking or multiprogramming environment.
+- While a time-sharing OS like UNIX strives to provide good average performance, for a RTOS, correct timing is the key feature.
+- UNIX is not a RTOS by default, but it can be modified or extended to support some real-time features, such as:
+  - Preemptive scheduling: the ability to interrupt a running task and switch to a higher priority one.
+  - Priority inheritance: the mechanism to avoid priority inversion, where a low priority task blocks a high priority one.
+  - Real-time signals: the signals that are delivered to a process immediately, without being queued.
+  - POSIX real-time extensions: the set of standards that define interfaces and behavior for real-time applications on UNIX-like systems.
+- Some examples of UNIX-like systems that have been used or adapted as RTOSs are:
+  - Linux: an open source OS that can be configured with real-time patches or kernels, such as PREEMPT_RT or Xenomai, to improve its real-time performance .
+  - QNX: a commercial OS that is based on a microkernel architecture and supports POSIX real-time extensions, message passing, and fault tolerance.
+  - Solaris: an OS developed by Sun Microsystems (now Oracle) that supports real-time scheduling, priority inheritance, and real-time signals.
+- The advantages of using UNIX as a RTOS are:
+  - Familiarity: many developers are familiar with UNIX and its tools, libraries, and applications, which can reduce the learning curve and development time.
+  - Portability: UNIX can run on various hardware platforms and architectures, which can increase the compatibility and interoperability of real-time applications.
+  - Flexibility: UNIX can be customized and modified to suit different real-time requirements and scenarios, such as hard or soft real-time, embedded or distributed systems, etc.
+- The disadvantages of using UNIX as a RTOS are:
+  - Overhead: UNIX has many features and services that are not necessary or desirable for real-time applications, such as memory management, file systems, networking, etc., which can introduce overhead and latency.
+  - Complexity: UNIX is a complex OS that can have many sources of unpredictability and variability, such as interrupts, exceptions, system calls, etc., which can affect the real-time performance and reliability.
+  - Compatibility: UNIX may not comply with some real-time standards or specifications, such as ARINC 653 or IEC 61508, which can limit its applicability and acceptance in some domains or industries.

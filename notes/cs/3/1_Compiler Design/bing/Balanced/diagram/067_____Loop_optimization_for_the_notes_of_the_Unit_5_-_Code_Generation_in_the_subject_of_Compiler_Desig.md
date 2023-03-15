@@ -1,0 +1,25 @@
+### Loop optimization
+
+- Loop optimization is the process of increasing execution speed and reducing the overheads associated with loops .
+- It plays an important role in improving cache performance and making effective use of parallel processing capabilities .
+- Loop optimization can be viewed as the application of a sequence of specific loop transformations to the source code or intermediate representation, with each transformation having an associated test for legality.
+- Some common loop transformations are  :
+  - Loop invariant code motion: moving computations that do not depend on the loop iteration outside of the loop.
+  - Loop unrolling: replicating the loop body multiple times to reduce the number of loop iterations and branch instructions.
+  - Loop fusion: combining two or more loops that have the same iteration space and do not interfere with each other into a single loop.
+  - Loop fission: splitting a loop into two or more loops that have the same iteration space but operate on different data sets.
+  - Loop interchange: swapping the order of nested loops to improve data locality and cache performance.
+  - Loop tiling: dividing a loop into smaller subloops that fit into the cache and can be executed in parallel.
+  - Loop peeling: executing one or more iterations of the loop before or after the main loop to simplify the loop condition or alignment.
+  - Loop reversal: changing the direction of the loop iteration from increasing to decreasing or vice versa.
+  - Loop distribution: distributing a loop that contains several statements into multiple loops, each containing one statement, to improve parallelism and locality.
+  - Loop collapsing: transforming a nested loop into a single loop by using a single index variable.
+  - Loop induction variable elimination: replacing multiple induction variables with a single one to reduce the number of arithmetic operations.
+  - Loop invariant removal: eliminating redundant computations that are invariant across loop iterations.
+  - Loop strength reduction: replacing expensive operations with cheaper ones within the loop body.
+  - Loop skewing: shifting the iterations of a nested loop by a constant amount to eliminate or reduce loop-carried dependences.
+  - Loop alignment: aligning the loop iterations with the cache line boundaries to reduce cache misses.
+  - Loop vectorization: exploiting the SIMD capabilities of the processor to perform multiple operations in parallel within the loop body.
+  - Loop parallelization: distributing the loop iterations among multiple threads or processors to execute them concurrently.
+- Loop optimization requires a careful analysis of the loop structure, data dependences, memory access patterns, and performance trade-offs  .
+- Loop optimization is usually performed at the intermediate code level, but some transformations may also be applied at the source code or assembly code level  .

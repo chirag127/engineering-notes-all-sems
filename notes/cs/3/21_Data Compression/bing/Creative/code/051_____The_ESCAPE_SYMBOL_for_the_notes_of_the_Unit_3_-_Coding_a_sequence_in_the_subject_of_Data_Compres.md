@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of the escape symbol for the notes of Unit 3 - Coding a sequence in the subject of Data Compression.
+
+```markdown
+### The ESCAPE SYMBOL
+
+- An escape symbol is a special symbol that is used to indicate that the next symbol in a sequence is not encoded using the current codebook, but using a different one.
+- The escape symbol is useful when the codebook is not complete, meaning that it does not contain all the possible symbols that can occur in the sequence.
+- For example, suppose we have a codebook that contains only the symbols A, B, and C, and their corresponding codes 0, 10, and 11. If we want to encode the sequence ABCD, we cannot use the codebook directly, because it does not have a code for D. However, we can use an escape symbol, say E, and its code 01, to indicate that the next symbol is encoded using a different codebook, say the ASCII code. Then, the encoded sequence would be 0 10 11 01 01000100, where 01000100 is the ASCII code for D.
+- The escape symbol can also be used to switch between different codebooks during the encoding process, depending on the context or the statistics of the sequence. For example, suppose we have two codebooks, one for uppercase letters and one for lowercase letters, and we want to encode the sequence Hello. We can use an escape symbol, say E, and its code 000, to indicate that the next symbol is encoded using the lowercase codebook. Then, the encoded sequence would be 1000 000 1100 1100 1101 1101, where 1000 is the code for H in the uppercase codebook, and 1100, 1101 are the codes for e, l, o in the lowercase codebook.
+- The escape symbol can improve the compression ratio of the encoding, because it allows the use of shorter codes for more frequent symbols, and longer codes for less frequent symbols, by switching between different codebooks. However, the escape symbol also introduces some overhead, because it needs to be encoded and transmitted along with the sequence. Therefore, the optimal choice of the escape symbol and the codebooks depends on the characteristics of the sequence and the compression objective.
+```

@@ -1,0 +1,21 @@
+# Internet and Resource Reservation Protocols
+
+- Internet is a global network of interconnected devices that communicate using standard protocols such as TCP/IP and HTTP.
+- Internet applications have different network performance requirements, such as reliability, timeliness, bandwidth, jitter, and delay.
+- Resource Reservation Protocol (RSVP) is a network-control protocol that enables Internet applications to obtain specific qualities of service (QoS) for their data flows or streams    .
+- RSVP operates over IPv4 or IPv6 and provides receiver-initiated setup of resource reservations for multicast or unicast data flows.
+- RSVP is used in real-time systems for an efficient quality band transmission to a particular receiver.
+- RSVP uses resource reservation and admission control mechanisms as key building blocks to establish and maintain QoS.
+- RSVP is not a routing protocol, but rather works with existing routing protocols to reserve resources along the path of a data flow.
+- RSVP uses soft state, which means that the reservations are periodically refreshed and can be easily modified or deleted.
+- RSVP messages are classified into two types: PATH and RESV.
+  - PATH messages are sent by the sender to the receiver along the route of the data flow, carrying information about the sender's characteristics and QoS requirements.
+  - RESV messages are sent by the receiver to the sender along the reverse path of the data flow, carrying the receiver's QoS request and reservation confirmation.
+- RSVP supports two service models: Integrated Services (IntServ) and Differentiated Services (DiffServ).
+  - IntServ provides end-to-end QoS guarantees for individual data flows, using per-flow reservation and classification .
+  - DiffServ provides aggregate QoS guarantees for groups of data flows, using per-class reservation and marking .
+- RSVP has some limitations, such as scalability, complexity, overhead, and security .
+  - Scalability: RSVP requires per-flow state information to be maintained by all the routers along the path of the data flow, which can be impractical for large networks with many flows .
+  - Complexity: RSVP requires coordination and cooperation among multiple network components, such as applications, hosts, routers, and network management systems, which can be challenging to implement and maintain .
+  - Overhead: RSVP introduces additional traffic and processing load on the network and the routers, which can affect the performance and efficiency of the network .
+  - Security: RSVP is vulnerable to various attacks, such as denial of service, spoofing, modification, and replay, which can compromise the QoS and integrity of the network .

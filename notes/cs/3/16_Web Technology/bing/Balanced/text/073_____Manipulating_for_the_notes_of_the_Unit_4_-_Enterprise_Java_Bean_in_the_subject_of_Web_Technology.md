@@ -1,0 +1,25 @@
+### Manipulating Enterprise Java Beans
+
+- Enterprise Java Beans (EJB) is a Java API for modular construction of enterprise software .
+- EJB is a server-side component that encapsulates business logic of an application  .
+- EJB technology enables rapid and simplified development of distributed, transactional, secure and portable applications based on Java technology .
+- There are three types of enterprise beans: entity beans, session beans, and message-driven beans.
+  - Entity beans represent persistent data stored in a database.
+  - Session beans represent transient conversational states that are not shared across clients.
+  - Message-driven beans are invoked by messages from a Java Message Service (JMS) provider.
+- To manipulate enterprise beans, you need to use the EJB container, which is a runtime environment that manages the life cycle, security, transactions, concurrency, and naming of the beans .
+- The EJB container provides a set of services and APIs to access and manipulate the beans, such as:
+  - The javax.ejb package, which contains the interfaces and annotations for defining and implementing the beans .
+  - The javax.ejb.embeddable package, which contains the classes and interfaces for creating and running an embedded EJB container .
+  - The javax.ejb.spi package, which contains the service provider interfaces for the EJB container .
+  - The javax.naming package, which contains the classes and interfaces for performing naming and directory operations .
+  - The javax.transaction package, which contains the classes and interfaces for managing transactions .
+  - The javax.annotation package, which contains the annotations for specifying dependency injection, security, and lifecycle callbacks .
+- To manipulate enterprise beans, you need to follow these steps:
+  - Define the bean interface, which specifies the business methods that the bean exposes to the clients .
+  - Implement the bean class, which provides the business logic for the bean methods and optionally implements the lifecycle callbacks .
+  - Annotate the bean class with the appropriate EJB annotations, such as @Stateless, @Stateful, @Singleton, @Entity, or @MessageDriven, to indicate the type of the bean .
+  - Optionally, configure the bean properties, such as security, transactions, concurrency, and naming, using the EJB annotations or the deployment descriptor .
+  - Package the bean class and the interface in an EJB module, which is a JAR file that contains the EJB components and the deployment descriptor .
+  - Deploy the EJB module to the EJB container, which registers the beans and makes them available to the clients .
+  - Access and invoke the bean methods from the clients, using the EJB container services and APIs, such as the InitialContext, the UserTransaction, and the EJBContext .

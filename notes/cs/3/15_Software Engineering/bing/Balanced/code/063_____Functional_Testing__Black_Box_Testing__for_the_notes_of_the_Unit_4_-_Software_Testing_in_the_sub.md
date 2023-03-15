@@ -1,0 +1,13 @@
+### Functional Testing (Black Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Functional testing is a type of black box testing that verifies that the software system performs the expected functions according to the requirements and specifications.
+- Functional testing does not focus on the internal structure or implementation details of the software, but rather on the input and output behavior of the system or its components.
+- Functional testing can be performed at different levels of testing, such as unit testing, integration testing, system testing, and acceptance testing.
+- Functional testing can be done manually or with the help of automated tools, such as test scripts, test cases, test data, and test oracles.
+- Functional testing can be classified into different types, such as:
+  - Equivalence partitioning: It is a technique that divides the input domain of the system into a number of equivalent classes, such that each class represents a set of inputs that are expected to produce the same output or behavior. Only one representative value from each class is tested, reducing the number of test cases required.
+  - Boundary value analysis: It is a technique that focuses on testing the values at the boundaries or edges of the input domain, such as the minimum, maximum, or just inside or outside the valid range. These values are more likely to cause errors or failures than the values in the middle of the range.
+  - Decision table testing: It is a technique that uses a table to represent the combinations of inputs and outputs for a system or a component, based on the rules or conditions that govern its behavior. Each row in the table corresponds to a test case that covers a specific scenario or situation.
+  - State transition testing: It is a technique that models the system or a component as a finite state machine, with a set of states, transitions, events, and actions. The test cases are designed to cover all the possible states and transitions of the system, as well as the events and actions that trigger or result from them.
+  - Use case testing: It is a technique that derives the test cases from the use cases or scenarios that describe the interactions between the system and the users or other systems. The test cases are designed to verify that the system meets the user's needs and expectations, as well as the functional requirements.
+  - User interface testing: It is a technique that tests the graphical user interface (GUI) of the system, such as the layout, design, colors, fonts, icons, buttons, menus, dialogs, messages, and navigation. The test cases are designed to check the usability, accessibility, consistency, and functionality of the GUI.

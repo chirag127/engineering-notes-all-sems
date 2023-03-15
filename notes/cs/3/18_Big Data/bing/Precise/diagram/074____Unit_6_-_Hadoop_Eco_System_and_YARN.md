@@ -1,0 +1,10 @@
+## Unit 6 - Hadoop Eco System and YARN
+
+1. **Hadoop Eco System:** The Hadoop ecosystem is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.
+2. **YARN:** Yet Another Resource Negotiator (YARN) is a large-scale, distributed operating system for big data applications. It is responsible for managing resources and scheduling tasks in a Hadoop cluster. YARN is the central platform responsible for managing computing resources in clusters and using them for scheduling users' applications.
+3. **Components of Hadoop Eco System:** The Hadoop ecosystem consists of several components, including Hadoop Distributed File System (HDFS), MapReduce, YARN, HBase, Hive, Pig, and others.
+4. **HDFS:** Hadoop Distributed File System (HDFS) is a distributed file system designed to run on commodity hardware. It provides high-throughput access to application data and is suitable for applications that have large data sets.
+5. **MapReduce:** MapReduce is a programming model for processing large data sets with a parallel, distributed algorithm on a cluster. It is a key component of the Hadoop ecosystem and is used for distributed data processing.
+6. **HBase:** HBase is a distributed, scalable, big data store that provides real-time read/write access to large datasets. It is built on top of HDFS and provides a fault-tolerant way of storing large quantities of sparse data.
+7. **Hive:** Hive is a data warehouse infrastructure built on top of Hadoop for providing data summarization, query, and analysis. It provides a SQL-like interface to query data stored in various databases and file systems that integrate with Hadoop.
+8. **Pig:** Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. It is designed to handle any kind of data and is used for ETL (extract, transform, load) and data preparation.

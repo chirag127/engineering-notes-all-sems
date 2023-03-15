@@ -1,0 +1,11 @@
+### HDFS Federation
+
+HDFS Federation is a feature of Hadoop 2.x that allows multiple NameNodes to manage different namespaces in the same cluster. This improves the scalability, performance, and isolation of HDFS. 
+
+Some key points about HDFS Federation are:
+
+- HDFS Federation separates the namespace layer and the block storage layer of HDFS. The namespace layer consists of directories, files, and blocks, and supports file system operations such as create, delete, modify, and list. The block storage layer consists of DataNodes that store and serve the blocks of files.
+- HDFS Federation allows multiple NameNodes to run in the same cluster, each managing a separate namespace. The namespaces are independent of each other and do not communicate with each other. Each NameNode has its own block pool, which is a set of blocks that belong to a namespace. A block pool can belong to only one namespace, and a namespace can have only one block pool.
+- HDFS Federation enables horizontal scalability of the namespace layer, as more NameNodes can be added to the cluster to increase the number of files and directories. It also improves the performance of the namespace layer, as the load of file system operations is distributed among multiple NameNodes. It also enhances the isolation of the namespace layer, as a failure of one NameNode does not affect the availability of other namespaces.
+- HDFS Federation requires a new component called the Block Pool ID (BPID), which is a unique identifier for each block pool. The BPID is stored as part of the block metadata on the DataNodes, and is used to distinguish blocks from different namespaces. The DataNodes can store blocks from multiple block pools, and can register with multiple NameNodes.
+- HDFS Federation also requires a new component called the State Store, which is a highly available service that maintains the mapping between block pools and NameNodes. The State Store is used by the DataNodes to discover the NameNodes that manage a given block pool, and by the clients to discover the NameNodes that manage a given namespace. The State Store can be implemented using ZooKeeper or a relational database.

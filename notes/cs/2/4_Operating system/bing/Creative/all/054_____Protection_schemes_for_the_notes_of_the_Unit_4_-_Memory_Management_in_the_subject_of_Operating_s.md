@@ -1,0 +1,15 @@
+# Protection schemes for the notes of the Unit 4 - Memory Management in the subject of Operating system
+
+- Memory management is the process of allocating and deallocating memory to processes and ensuring efficient and effective use of the available memory resources.
+- Memory protection is a mechanism that prevents a process from accessing memory that is not allocated to it or that belongs to another process or the operating system.
+- Memory protection is essential for the security, reliability, and performance of the operating system and the processes running on it.
+- There are different schemes for implementing memory protection, depending on the hardware and software architecture of the system. Some of the common schemes are:
+
+  - **Base and limit registers**: This scheme uses two special registers, called the base and limit registers, to store the starting address and the size of the memory allocated to a process. The hardware checks every memory reference made by the process and compares it with the values in the base and limit registers. If the reference is valid, it is translated to the physical address by adding the base register value. If the reference is invalid, an exception is raised and the process is terminated or suspended.
+  - **Paging**: This scheme divides the physical memory into fixed-size blocks, called frames, and the logical memory of each process into blocks of the same size, called pages. The hardware maintains a page table for each process, which maps the logical pages to the physical frames. The hardware also checks the validity and protection bits of each page table entry to ensure that the process has the right to access the memory location. If the reference is valid, it is translated to the physical address by combining the frame number and the offset within the page. If the reference is invalid, a page fault is generated and the operating system handles it by loading the required page from the disk or swapping out another page.
+  - **Segmentation**: This scheme divides the logical memory of each process into variable-size segments, such as code, data, stack, heap, etc. The hardware maintains a segment table for each process, which stores the base address, the limit, and the protection attributes of each segment. The hardware also checks the validity and protection bits of each segment table entry to ensure that the process has the right to access the memory location. If the reference is valid, it is translated to the physical address by adding the base address of the segment and the offset within the segment. If the reference is invalid, a segmentation fault is generated and the operating system handles it by terminating or suspending the process.
+
+: Memory management (operating systems) - Wikipedia 
+: Memory protection - Wikipedia 
+: https://en.wikipedia.org/wiki/Memory_protection
+: https://en.wikipedia.org/wiki/Memory_management_(operating_systems)

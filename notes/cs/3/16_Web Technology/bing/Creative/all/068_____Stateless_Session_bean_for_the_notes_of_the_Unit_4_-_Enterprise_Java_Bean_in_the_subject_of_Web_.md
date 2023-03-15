@@ -1,0 +1,21 @@
+# Stateless Session Bean
+
+- A stateless session bean is a type of enterprise bean that provides business logic without maintaining any conversational state with the client  .
+- A stateless session bean is strictly a single invocation bean, meaning that it does not store any information about the previous or subsequent method calls.
+- A stateless session bean can be used for reusable business services that are not connected to any specific client, such as generic calculations, validations, conversions, etc .
+- A stateless session bean may contain instance variables that are specific to a client, but only for the duration of the method invocation. These variables are not shared or preserved across different method calls .
+- A stateless session bean and its client do not share any identity or reference. The client can invoke any instance of a stateless session bean class, and the container can pool and reuse the instances to service multiple requests  .
+- A stateless session bean is typically annotated with `@Stateless` or declared in the deployment descriptor with `<session-type>Stateless</session-type>` .
+- A stateless session bean can implement a local, remote, or web service interface, or a combination of these .
+- A stateless session bean can access other enterprise beans, use the Java Persistence API, use the Java Transaction API, and use the Java Message Service API .
+- A stateless session bean can be injected into other components using the `@EJB` annotation or the `<ejb-ref>` or `<ejb-local-ref>` elements .
+- A stateless session bean can use dependency injection to obtain resources such as `@Resource`, `@PersistenceContext`, `@PersistenceUnit`, `@WebServiceRef`, etc .
+- A stateless session bean can use interceptors to add cross-cutting functionality such as logging, auditing, security, etc .
+- A stateless session bean can use annotations such as `@PostConstruct`, `@PreDestroy`, `@AroundInvoke`, `@AroundTimeout`, etc to define lifecycle callback methods or interceptor methods .
+- A stateless session bean can use the `@Timeout` annotation or the `<timer>` element to create and manage timers for scheduling tasks .
+- A stateless session bean can use the `@Asynchronous` annotation or the `<async-method>` element to invoke methods asynchronously .
+- A stateless session bean can use the `@Lock` annotation or the `<concurrency-management-type>` element to control concurrent access to the bean instance .
+- A stateless session bean can use the `@AccessTimeout` annotation or the `<access-timeout>` element to specify the timeout value for concurrent access attempts .
+- A stateless session bean can use the `@TransactionAttribute` annotation or the `<transaction-type>` element to specify the transaction management type and the transaction attribute for the bean methods .
+- A stateless session bean can use the `@TransactionManagement` annotation or the `<transaction-management>` element to specify whether the bean uses container-managed transactions or bean-managed transactions .
+- A stateless session bean can use the `@RolesAllowed`, `@PermitAll`, `@DenyAll`, `@DeclareRoles`, `@RunAs` annotations or the `<security-role-ref>` element to specify the security roles and permissions for the bean methods .

@@ -1,0 +1,10 @@
+### Routing Security
+
+Routing security is the protection of the Internet's routing system from errors and attacks that can compromise its availability, integrity, and confidentiality. Routing security is important for the proper functioning of the Internet, as well as for the security of the networked devices and applications that rely on it.
+
+Some of the topics that are covered in routing security are:
+
+- The Internet's routing protocol, Border Gateway Protocol (BGP), which is used to exchange routing information between autonomous systems (ASes) on the Internet. BGP is known to be vulnerable to various types of errors and attacks, such as misconfigurations, hijacking, interception, and denial of service. These problems can cause network outages, traffic diversion, performance degradation, and data leakage .
+- The security mechanisms and best practices that can be used to enhance the security of BGP, such as filtering, authentication, encryption, monitoring, and auditing. Some of these mechanisms are based on existing standards and protocols, such as Resource Public Key Infrastructure (RPKI), Border Gateway Protocol Security (BGPsec), and Secure Origin BGP (soBGP). Others are based on novel approaches, such as blockchain, machine learning, and artificial intelligence .
+- The security challenges and opportunities of other routing protocols, such as Routing Information Protocol (RIP), Enhanced Interior Gateway Routing Protocol (EIGRP), Open Shortest Path First (OSPF), and Intermediate System to Intermediate System (IS-IS). These protocols are used to exchange routing information within an AS or a local area network (LAN). They have different characteristics and vulnerabilities, and require different security measures and solutions.
+- The security implications and trade-offs of routing policies and architectures, such as default-free zone (DFZ), transit and peering agreements, route aggregation and deaggregation, and anycast and multicast. These policies and architectures affect the efficiency, scalability, and resilience of the Internet's routing system, as well as its exposure to threats and attacks.

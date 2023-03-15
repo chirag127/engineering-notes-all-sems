@@ -1,0 +1,17 @@
+### Unit 8 - Design and implementation of payroll processing system
+
+A payroll processing system is an application that manages and computes the employees' salary, deductions, taxes, and benefits. It also generates payslips, reports, and records for the employees and the company.
+
+The design and implementation of a payroll processing system involves the following steps:
+
+- **Identify the requirements**: The first step is to understand the business rules and policies of the company, such as the pay period, pay rate, overtime rate, tax rate, deductions, benefits, etc. The system should also meet the legal and regulatory requirements of the country, such as the minimum wage, social security, income tax, etc. The system should also be able to handle different types of employees, such as full-time, part-time, hourly, salaried, etc.
+- **Design the database**: The next step is to design the database schema that will store the data for the payroll processing system. The database should have tables for employees, salaries, deductions, taxes, benefits, payslips, etc. The tables should have appropriate attributes, data types, constraints, and relationships. The database should also have indexes, views, triggers, and stored procedures to optimize the performance and functionality of the system. The database design can be done using a data modeling tool, such as Vertabelo, or a database management system, such as MySQL or SQL Server.
+- **Implement the user interface**: The third step is to implement the user interface that will allow the users to interact with the payroll processing system. The user interface should have forms, menus, buttons, and fields to input, update, delete, and display the data for the payroll processing system. The user interface should also have validation, error handling, and security features to ensure the accuracy, integrity, and confidentiality of the data. The user interface can be implemented using a programming language, such as C# or VB, or a web development framework, such as ASP.NET or PHP.
+- **Implement the business logic**: The fourth step is to implement the business logic that will perform the calculations and operations for the payroll processing system. The business logic should have functions, methods, and classes to calculate the gross pay, net pay, deductions, taxes, and benefits for each employee. The business logic should also have functions, methods, and classes to generate the payslips, reports, and records for the employees and the company. The business logic can be implemented using a programming language, such as C# or VB, or a web development framework, such as ASP.NET or PHP.
+- **Test and debug the system**: The final step is to test and debug the payroll processing system to ensure that it meets the requirements and specifications. The testing and debugging process should involve unit testing, integration testing, system testing, and user acceptance testing. The testing and debugging process should also involve finding and fixing the errors, bugs, and defects in the system. The testing and debugging process can be done using a testing tool, such as Visual Studio or Selenium, or a debugging tool, such as Visual Studio or Eclipse.
+
+References:
+
+: Payroll Processing System in VB 6 With Ms Access - Notesformsc
+: Payroll Data Model | Vertabelo Database Modeler
+: Salary/Payroll Management System - Database Design/Schema

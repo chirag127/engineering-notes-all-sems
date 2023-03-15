@@ -1,0 +1,14 @@
+### Predictive Coding
+
+Predictive coding is a method of lossless data compression that uses a model to predict the next symbol or bit in a sequence, and then encodes the difference between the actual and the predicted symbol or bit. The difference, also called the residual or the error, is usually smaller than the original symbol or bit, and can be compressed more efficiently. Predictive coding can be applied to different types of data, such as audio, image, or text.
+
+Some of the main concepts and techniques involved in predictive coding are:
+
+- **Predictor**: A function or an algorithm that estimates the next symbol or bit in a sequence based on the previous symbols or bits. The predictor can be static or adaptive, meaning that it can be fixed or updated based on the input data. The predictor can also be linear or nonlinear, meaning that it can use a simple or a complex function to make the prediction. Examples of predictors are linear predictive coding (LPC) for audio signals, and intra-frame coding for image signals.
+- **Residual**: The difference between the actual and the predicted symbol or bit. The residual can be positive or negative, and can be represented by a fixed or a variable number of bits. The residual can be further compressed by using an entropy encoder, such as Huffman coding or arithmetic coding. Examples of entropy encoders are dynamic Markov compression (DMC) for binary data , and prediction by partial matching (PPM) for text data.
+- **Decoder**: A function or an algorithm that reconstructs the original sequence from the compressed residual and the predictor. The decoder must use the same predictor and the same entropy decoder as the encoder, and must be able to update the predictor if it is adaptive. The decoder can also perform error correction or detection if the compressed data is corrupted or noisy.
+
+Some of the advantages and disadvantages of predictive coding are:
+
+- **Advantages**: Predictive coding can achieve high compression ratios for data that has strong correlations or patterns, such as speech or natural images. Predictive coding can also adapt to the characteristics of the data and exploit the local or temporal dependencies. Predictive coding can also be combined with other compression techniques, such as transform coding or dictionary coding, to improve the performance.
+- **Disadvantages**: Predictive coding can be computationally complex and require a lot of memory, especially for adaptive or nonlinear predictors. Predictive coding can also be sensitive to errors or noise in the data, which can propagate and affect the decoding quality. Predictive coding can also be difficult to design or optimize for different types of data or applications.

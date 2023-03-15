@@ -1,0 +1,22 @@
+# Drivers for Big Data
+
+Big data is the term used to describe the large and complex datasets that are generated from various sources and require advanced techniques and technologies to store, process, and analyze. Big data has become a valuable asset for many organizations and industries, as it can provide insights and solutions for various problems and challenges.
+
+There are several factors that have contributed to the emergence and growth of big data in the last decade. These factors are known as drivers for big data, as they create the demand and the opportunity for big data analytics. Some of the main drivers for big data are:
+
+- **The digitization of society**: The widespread use of digital devices, such as smartphones, laptops, tablets, sensors, cameras, etc., has enabled the creation and collection of massive amounts of data from various sources, such as online transactions, social media, web browsing, e-commerce, e-government, e-health, etc. This data can be structured, unstructured, or semi-structured, and can have different formats, such as text, audio, video, image, etc. The digitization of society has also increased the expectations and demands of customers and citizens, who want more personalized, convenient, and efficient services and products.   
+
+- **The drop in technology costs**: The advancement and innovation of technology has made it possible and affordable to store, process, and analyze big data. The cost of data storage has decreased significantly over the years, as well as the cost of computing power, memory, bandwidth, etc. The emergence of cloud computing has also enabled the scalability, elasticity, and accessibility of big data solutions, as it allows the use of distributed and parallel computing resources on demand and at a lower cost.   
+
+- **Connectivity through cloud computing**: Cloud computing is a model of delivering computing services over the internet, such as servers, storage, databases, networks, software, analytics, etc. Cloud computing provides several benefits for big data, such as:
+
+  - It enables the access and sharing of big data from anywhere and anytime, as long as there is an internet connection.
+  - It allows the use of multiple and heterogeneous data sources, such as public, private, or hybrid clouds, as well as data from different organizations, domains, or locations.
+  - It offers the flexibility and scalability of big data solutions, as it allows the allocation and reallocation of computing resources according to the needs and demands of the users and applications.
+  - It reduces the cost and complexity of big data infrastructure, as it eliminates the need for purchasing, installing, maintaining, and upgrading hardware and software.   
+
+- **Increased knowledge about data science**: Data science is the interdisciplinary field that combines mathematics, statistics, computer science, and domain knowledge to extract meaningful insights and value from big data. Data science has become a popular and important discipline in the era of big data, as it provides the methods and techniques to collect, clean, integrate, analyze, visualize, and communicate big data. Data science also requires the skills and expertise of data scientists, who are professionals that can apply data science to solve various problems and challenges in different domains and industries. The increased knowledge about data science has enabled the development and adoption of big data analytics, as well as the creation and dissemination of big data education and training.  
+
+- **Social media applications**: Social media is the term used to describe the online platforms and applications that enable the creation and exchange of user-generated content, such as text, images, videos, audio, etc. Social media has become a major source and driver of big data, as it generates huge volumes of data every day from millions of users around the world. Social media data can provide valuable information and insights about the opinions, preferences, behaviors, sentiments, trends, etc., of individuals, groups, communities, or populations. Social media data can also be used for various purposes and applications, such as marketing, advertising, customer service, public relations, crisis management, social networking, etc.  
+
+- **The rise of Internet-of-Things (IoT)**: IoT is the term used to describe the network of physical objects or devices that are embedded with sensors, software, and other technologies that enable them to connect

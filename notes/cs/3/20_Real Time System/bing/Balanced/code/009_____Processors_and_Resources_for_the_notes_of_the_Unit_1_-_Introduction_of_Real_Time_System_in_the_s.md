@@ -1,0 +1,8 @@
+### Processors and Resources
+
+- Processors and resources are two major types of system components that are involved in the execution of real-time tasks.
+- Processors are also called servers or active resources. They are essential for the execution of a job. A job must have one or more processors in order to execute and proceed towards completion. Example: computer, transmission link, disk, database server.
+- Resources are also called passive resources. A job may or may not require a resource during its execution. A resource can be shared by multiple jobs, but only one job can access it at a time. A resource can be preemptable or non-preemptable. Example: printer, file, semaphore, lock.
+- A real-time system must manage the allocation and scheduling of processors and resources to meet the timing constraints of the tasks. A real-time operating system (RTOS) is an operating system that serves real-time applications that process data without any buffering delay .
+- A real-time system can have different types of processors and resources, such as single processor, multiprocessor, distributed, homogeneous, heterogeneous, dedicated, shared, etc. The type of processor and resource affects the design and analysis of the real-time system.
+- A real-time system can also use different techniques to optimize the performance and utilization of processors and resources, such as workload-aware processor tuning, time synchronization, communication protocols, etc .

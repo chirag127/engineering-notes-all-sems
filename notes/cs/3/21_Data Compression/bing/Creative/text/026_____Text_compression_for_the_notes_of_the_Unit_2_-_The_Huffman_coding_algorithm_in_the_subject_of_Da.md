@@ -1,0 +1,27 @@
+### Text compression for the notes of the Unit 2 - The Huffman coding algorithm in the subject of Data Compression
+
+- Text compression is the process of reducing the size of a text file by encoding its characters with fewer bits.
+- Huffman coding is a lossless data compression algorithm that assigns variable-length codes to input characters based on their frequencies  .
+- The idea behind Huffman coding is to use shorter codes for more frequent characters and longer codes for less frequent characters, so that the average code length is minimized  .
+- Huffman coding works as follows  :
+  - Create a leaf node for each character and assign it a weight equal to its frequency.
+  - Sort the nodes in ascending order of their weights and insert them into a priority queue.
+  - While there is more than one node in the queue, do the following:
+    - Remove the two nodes with the lowest weights from the queue and create a new internal node with a weight equal to the sum of their weights.
+    - Make the two nodes the left and right children of the new node and insert the new node into the queue.
+  - The remaining node in the queue is the root of the Huffman tree.
+  - Traverse the Huffman tree and assign codes to each character by appending 0 for a left branch and 1 for a right branch.
+- To compress a text file using Huffman coding :
+  - Scan the file and count the frequency of each character.
+  - Build the Huffman tree using the frequency table.
+  - Generate the codes for each character by traversing the tree.
+  - Encode the file by replacing each character with its corresponding code.
+  - Write the encoded file along with the frequency table or the Huffman tree for decoding.
+- To decompress a text file using Huffman coding :
+  - Read the frequency table or the Huffman tree from the encoded file.
+  - Reconstruct the Huffman tree using the frequency table or the tree itself.
+  - Decode the file by traversing the tree from the root to the leaves for each code in the file.
+  - Write the decoded file by replacing each code with its corresponding character.
+- Huffman coding is an optimal prefix code, meaning that no code is a prefix of another code, and that it minimizes the expected code length for a given set of characters and frequencies  .
+- Huffman coding is a greedy algorithm, meaning that it makes the optimal choice at each step without considering the global optimum  .
+- Huffman coding can be used for any type of data, not just text, as long as the data can be represented as a sequence of symbols with known frequencies  .

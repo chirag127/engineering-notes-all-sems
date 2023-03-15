@@ -1,0 +1,26 @@
+### Session Tracking with Http Session
+
+- Session tracking is a technique to maintain the state of a client-server communication across multiple requests .
+- The HTTP protocol is stateless, which means that each request is independent and does not carry any information about previous requests or responses.
+- Session tracking allows the server to keep track of successive requests made by the same client and associate them with a session object and a unique session ID .
+- The session object can store information about the client's preferences, actions, or data that need to be preserved across requests .
+- The session ID can be passed between the client and the server using different methods, such as cookies, URL rewriting, or SSL information.
+- The HttpSession interface is a Java API that provides session tracking functionality for servlets .
+- The HttpSession interface defines methods to create, access, modify, and invalidate session objects .
+- The servlet container is responsible for creating and managing HttpSession objects and assigning them to the clients .
+- The servlet container also handles the session tracking mechanism and ensures that the session ID is transmitted correctly between the client and the server .
+- The servlets and JSPs can use the HttpSession object to store and retrieve information about the client's session .
+- The servlets and JSPs can also use the HttpSession object to control the session's lifecycle, such as setting the timeout, checking the validity, or terminating the session .
+- The HttpSession object can be obtained from the HttpServletRequest object using the getSession() method .
+- The getSession() method can take a boolean parameter that indicates whether to create a new session object if none exists or to return null .
+- The HttpSession object can be used to store information using the setAttribute() method, which takes a name and a value as parameters .
+- The HttpSession object can be used to retrieve information using the getAttribute() method, which takes a name as a parameter and returns the corresponding value or null if not found .
+- The HttpSession object can be used to remove information using the removeAttribute() method, which takes a name as a parameter and removes the corresponding attribute from the session object .
+- The HttpSession object can be used to invalidate the session using the invalidate() method, which terminates the session and releases all the resources associated with it .
+- The HttpSession object can be used to check the validity of the session using the isNew() method, which returns true if the session was created in the current request or false otherwise .
+- The HttpSession object can be used to get the session ID using the getId() method, which returns a string that uniquely identifies the session .
+- The HttpSession object can be used to get the creation time of the session using the getCreationTime() method, which returns a long value that represents the time in milliseconds since January 1, 1970, when the session was created .
+- The HttpSession object can be used to get the last access time of the session using the getLastAccessedTime() method, which returns a long value that represents the time in milliseconds since January 1, 1970, when the session was last accessed by the client .
+- The HttpSession object can be used to set the timeout of the session using the setMaxInactiveInterval() method, which takes an int parameter that specifies the number of seconds of inactivity after which the session will be invalidated .
+- The HttpSession object can be used to get the timeout of the session using the getMaxInactiveInterval() method, which returns an int value that represents the number of seconds of inactivity after which the session will be invalidated .
+- The HttpSession object can be used to add or remove listeners that can perform actions when the session is created, modified, or destroyed using the addListener() and removeListener() methods, which take an HttpSessionListener or an HttpSessionAttributeListener as parameters .

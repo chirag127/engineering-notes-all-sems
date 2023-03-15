@@ -1,0 +1,11 @@
+### YARN
+- YARN stands for Yet Another Resource Negotiator.
+- It is a component of the Hadoop ecosystem that manages resources and schedules jobs.
+- YARN was introduced in Hadoop 2.0 to improve the scalability and flexibility of the Hadoop system.
+- YARN separates the resource management and job scheduling functions into separate daemons, allowing for more efficient resource utilization and dynamic allocation of resources.
+- The two main components of YARN are the Resource Manager and the Node Manager.
+- The Resource Manager is responsible for managing the resources of the cluster and scheduling jobs.
+- The Node Manager runs on each node in the cluster and is responsible for managing the resources of that node and launching tasks.
+- YARN also includes an Application Master, which is responsible for coordinating the execution of a specific application.
+- YARN supports multiple data processing frameworks, including MapReduce, Spark, and Tez.
+- YARN provides a more flexible and scalable platform for data processing, allowing for the development of new data processing frameworks and the integration of existing ones.

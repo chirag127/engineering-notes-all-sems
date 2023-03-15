@@ -1,0 +1,10 @@
+### Other issues in access control
+
+Access control is the process of granting or denying access to certain data, apps, and resources based on predefined policies and rules. Access control is an essential element of security that protects digital spaces from unauthorized or malicious users.
+
+However, access control systems are not perfect and may face some issues that can compromise their effectiveness or efficiency. Some of the common issues are:
+
+- **Outdated equipment**: Access control systems rely on hardware and software components that need to be updated regularly to keep up with the latest security standards and threats. Outdated equipment may have vulnerabilities that can be exploited by attackers, or may not support newer features or integrations that can enhance security .
+- **Keycards falling into the wrong hands**: Keycards are one of the most widely used access control methods, but they have some drawbacks. Keycards can be lost, stolen, duplicated, or shared by users, which can allow unauthorized access to restricted areas or resources. Keycards also lack true authorization, as they do not verify the identity of the user, only the possession of the card.
+- **Incorrect setup**: Access control systems need to be configured properly to match the security needs and policies of the organization. Incorrect setup can lead to errors, conflicts, or loopholes that can affect the performance or security of the system. For example, granting too many or too few permissions to users, not defining clear roles and responsibilities, not enforcing password policies, or not auditing or monitoring access activities .
+- **Lack of integration with other building systems**: Access control systems can be more effective and efficient if they are integrated with other building systems, such as fire alarms, CCTV cameras, HVAC systems, or lighting systems. Integration can enable automation, coordination, and communication between different systems, which can improve security, safety, and convenience for users and administrators.

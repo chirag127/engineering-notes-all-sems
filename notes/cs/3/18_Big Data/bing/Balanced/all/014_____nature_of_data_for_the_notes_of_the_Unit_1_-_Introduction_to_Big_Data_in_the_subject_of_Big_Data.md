@@ -1,0 +1,10 @@
+# Nature of Data
+
+- Data is any information that can be stored, processed, analyzed, or communicated.
+- Data can be categorized into two types: **structured** and **unstructured**.
+- Structured data is data that has a predefined format and can be easily organized in tables, databases, or spreadsheets. It is usually numeric or categorical in nature. Examples of structured data are customer records, sales transactions, product inventory, etc.
+- Unstructured data is data that has no fixed format and cannot be easily organized in tables, databases, or spreadsheets. It is usually textual, audio, video, or image data. Examples of unstructured data are social media posts, emails, web pages, videos, photos, etc.
+- Big data is a term that refers to data sets that are so large, complex, diverse, and fast-growing that traditional data processing methods cannot handle them efficiently or effectively. Big data has three main characteristics: **volume**, **velocity**, and **variety**.
+- Volume refers to the amount of data that is generated and stored. Big data can range from terabytes to petabytes or even exabytes of data. The volume of data is increasing exponentially due to the proliferation of digital devices, sensors, and applications that produce data.
+- Velocity refers to the speed at which data is generated and processed. Big data can be generated and processed in real-time or near-real-time, requiring fast and scalable data processing methods. The velocity of data is increasing due to the demand for timely and relevant insights and decisions.
+- Variety refers to the diversity of data sources, types, and formats. Big data can come from various sources, such as social media, web, mobile, IoT, etc. Big data can also have different types and formats, such as structured, unstructured, semi-structured, text, audio, video, image, etc. The variety of data poses challenges for data integration, quality, and analysis.

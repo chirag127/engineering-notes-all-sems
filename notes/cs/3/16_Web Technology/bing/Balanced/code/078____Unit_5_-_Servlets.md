@@ -1,0 +1,21 @@
+## Unit 5 - Servlets
+
+- A servlet is a Java class that runs on a web server and handles HTTP requests and responses.
+- A servlet can perform various tasks, such as generating dynamic web content, processing user input, interacting with databases, and implementing business logic.
+- A servlet is managed by a servlet container, which is a component of a web server that provides the runtime environment and services for servlets.
+- A servlet container handles the life cycle of a servlet, which consists of the following phases:
+  - Initialization: The servlet container calls the `init()` method of the servlet to initialize it and pass any configuration parameters.
+  - Request handling: The servlet container calls the `service()` method of the servlet to process each HTTP request and generate an HTTP response. The `service()` method can delegate the request to different methods based on the HTTP method, such as `doGet()`, `doPost()`, `doPut()`, etc.
+  - Termination: The servlet container calls the `destroy()` method of the servlet to release any resources and perform any cleanup actions before the servlet is removed from memory.
+- A servlet can access various objects and information related to the HTTP request and response, such as:
+  - `HttpServletRequest`: An object that represents the HTTP request and provides methods to access the request parameters, headers, cookies, session, etc.
+  - `HttpServletResponse`: An object that represents the HTTP response and provides methods to set the response status, headers, cookies, content type, etc.
+  - `ServletConfig`: An object that provides the servlet with its initialization parameters and a reference to the servlet context.
+  - `ServletContext`: An object that represents the web application and provides methods to access its attributes, resources, configuration, etc.
+  - `HttpSession`: An object that represents the session associated with the HTTP request and provides methods to store and retrieve session attributes, invalidate the session, etc.
+- A servlet can also use various annotations and configuration files to specify its metadata, such as:
+  - `@WebServlet`: An annotation that declares a servlet and its URL patterns, initialization parameters, load order, etc.
+  - `web.xml`: An XML file that defines the web application and its components, such as servlets, filters, listeners, security constraints, etc.
+  - `@WebInitParam`: An annotation that specifies an initialization parameter for a servlet or a filter.
+  - `@WebFilter`: An annotation that declares a filter and its URL patterns, servlet names, dispatch types, etc.
+  - `@WebListener`: An annotation that declares a listener and its event types, such as servlet context events, session events, request events, etc.

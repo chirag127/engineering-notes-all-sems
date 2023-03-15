@@ -1,0 +1,24 @@
+# Case Study of Oracle for the notes of the Unit 5 - Concurrency Control Techniques in the subject of Database Management System
+
+- Oracle is a relational database management system that supports concurrent access of data by multiple users and transactions.
+- Oracle uses a multiversion concurrency control (MVCC) model to provide read consistency and isolation levels for queries and transactions  .
+- MVCC means that Oracle maintains multiple versions of data in the database, each with a unique system change number (SCN) that indicates when the version was created or modified  .
+- Oracle automatically provides statement-level read consistency, which means that all the data that a query sees comes from a single point in time, the time when the query started .
+- Oracle can also provide transaction-level read consistency, which means that all the queries in a transaction see the data as it was when the transaction started .
+- Oracle supports four isolation levels: read committed, serializable, read only, and read write  .
+- Read committed is the default isolation level, which means that a transaction can only see the changes made by other transactions that have committed  .
+- Serializable is the highest isolation level, which means that a transaction can only see the changes made by itself, and any other transaction that tries to modify the same data will be blocked or aborted  .
+- Read only is a special isolation level, which means that a transaction can only read the data, and any attempt to modify the data will be rejected  .
+- Read write is a synonym for read committed, which means that a transaction can read and write the data, and see the changes made by other committed transactions  .
+- Oracle uses various types of locks to ensure data integrity and prevent conflicts among concurrent transactions  .
+- Oracle uses exclusive locks to prevent other transactions from modifying the same data, and shared locks to prevent other transactions from modifying the data while allowing them to read it  .
+- Oracle uses row-level locking, which means that each row in a table can be locked by a transaction, and the lock is released when the transaction commits or rolls back  .
+- Oracle also uses table-level locking, which means that a transaction can lock the entire table for exclusive or shared access, depending on the operation performed on the table  .
+- Oracle uses implicit locking, which means that the locks are acquired and released automatically by the database, and the user does not need to specify any locking commands  .
+- Oracle also supports explicit locking, which means that the user can issue locking commands such as LOCK TABLE, SELECT FOR UPDATE, or DBMS_LOCK to acquire and release locks manually  .
+- Oracle uses optimistic locking, which means that the transactions do not acquire locks until they are ready to commit, and they check for conflicts with other transactions at that time  .
+- Oracle also uses pessimistic locking, which means that the transactions acquire locks as soon as they access the data, and they hold the locks until they commit or roll back  .
+- Oracle uses deadlock detection and resolution, which means that the database detects when two or more transactions are waiting for each other's locks, and aborts one of them to break the deadlock  .
+- Oracle uses a lock manager, which is a component of the database that maintains the information about the locks and the transactions that hold them, and enforces the locking rules and policies  .
+- Oracle uses a redo log, which is a set of files that record all the changes made to the data by the transactions, and can be used to recover the data in case of a failure  .
+- Oracle uses an undo

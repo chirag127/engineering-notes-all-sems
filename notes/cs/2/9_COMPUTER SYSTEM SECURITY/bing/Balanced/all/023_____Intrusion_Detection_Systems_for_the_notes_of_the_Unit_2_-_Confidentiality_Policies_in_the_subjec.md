@@ -1,0 +1,25 @@
+# Intrusion Detection Systems
+
+- An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations  .
+- An IDS can detect known threats and suspicious or malicious activity by comparing network traffic with predefined signatures or rules, or by using anomaly detection techniques .
+- An IDS can send alerts to IT and security teams when it detects any security risks and threats, and provide information such as source and destination IP addresses, protocols, ports, timestamps, and payloads .
+- An IDS can be classified into two main types: network-based IDS (NIDS) and host-based IDS (HIDS) .
+  - A NIDS monitors network traffic at strategic points, such as routers, switches, or firewalls, and analyzes packets for signs of intrusion .
+  - A HIDS monitors system activities on a specific host, such as a server or a workstation, and analyzes logs, processes, files, and system calls for signs of intrusion .
+- An IDS can also be combined with an intrusion prevention system (IPS), which can take actions to block or prevent malicious traffic or activities, such as dropping packets, resetting connections, or reconfiguring firewalls  .
+- An IDS can provide several benefits for network and system security, such as:
+  - Detecting and alerting on attacks that may bypass other security measures, such as firewalls or antivirus software .
+  - Providing visibility and insight into network and system activities and behaviors, which can help identify vulnerabilities, misconfigurations, or policy violations .
+  - Supporting forensic analysis and incident response by providing evidence and details of intrusion attempts or incidents .
+  - Enhancing compliance with security standards and regulations by demonstrating the implementation of security controls and monitoring .
+- An IDS can also face some challenges and limitations, such as:
+  - Generating false positives or false negatives, which can reduce the effectiveness and efficiency of the IDS and increase the workload of security teams .
+  - Being vulnerable to evasion or tampering techniques, such as encryption, fragmentation, obfuscation, or spoofing, which can hide or modify malicious traffic or activities .
+  - Introducing performance or availability issues, such as network latency, bandwidth consumption, or system resource consumption, which can affect the normal operation of the network or system .
+  - Requiring constant updating and tuning of signatures, rules, or models, which can be time-consuming and complex .
+- An IDS can be implemented using various software products, such as:
+  - Snort, an open source NIDS that uses signature-based and anomaly-based detection methods.
+  - Suricata, an open source NIDS/IPS that uses signature-based, anomaly-based, and protocol-aware detection methods.
+  - OSSEC, an open source HIDS that uses signature-based and anomaly-based detection methods.
+  - Cisco Secure Network Analytics, a commercial NIDS/IPS that uses signature-based, anomaly-based, and machine learning-based detection methods.
+  - McAfee Network Security Platform, a commercial NIDS/IPS that uses signature-based, anomaly-based, and behavior-based detection methods.

@@ -1,0 +1,31 @@
+### Hadoop configuration
+
+- Hadoop configuration is the process of setting the parameters and properties of the Hadoop system and its components, such as HDFS, YARN, and MapReduce.
+- Hadoop configuration is driven by two types of important configuration files  :
+  - Read-only default configuration files that are provided by Hadoop and contain the default values for the configuration parameters. These files are located in the `share/hadoop/common` directory and have names like `core-default.xml`, `hdfs-default.xml`, `yarn-default.xml`, and `mapred-default.xml`.
+  - Site-specific configuration files that are created by the user and contain the customized values for the configuration parameters. These files are located in the `etc/hadoop` directory and have names like `core-site.xml`, `hdfs-site.xml`, `yarn-site.xml`, and `mapred-site.xml`.
+- The site-specific configuration files override the default configuration files, and the configuration parameters can be accessed by the Hadoop system and its components through the `Configuration` class in Java.
+- To configure the Hadoop cluster, the user needs to configure the environment in which the Hadoop daemons execute as well as the configuration parameters for the Hadoop daemons .
+  - The Hadoop daemons are the processes that run on the cluster nodes and perform the core functions of the Hadoop system. The Hadoop daemons are:
+    - NameNode: The master node that manages the metadata and namespace of the HDFS.
+    - DataNode: The worker node that stores the data blocks of the HDFS.
+    - SecondaryNameNode: The helper node that periodically merges the namespace image and the edit log of the NameNode.
+    - ResourceManager: The master node that manages the resources and the scheduling of the YARN framework.
+    - NodeManager: The worker node that manages the containers and the execution of the applications on the YARN framework.
+    - WebAppProxy: The proxy node that handles the web interface and the redirection of the applications on the YARN framework.
+  - The environment of the Hadoop daemons can be configured by setting the following variables in the `etc/hadoop/hadoop-env.sh` file :
+    - `JAVA_HOME`: The path to the Java installation directory.
+    - `HADOOP_CONF_DIR`: The path to the directory containing the site-specific configuration files.
+    - `HADOOP_LOG_DIR`: The path to the directory where the Hadoop daemons write their log files.
+    - `HADOOP_PID_DIR`: The path to the directory where the Hadoop daemons store their process identification numbers.
+    - `HADOOP_HEAPSIZE`: The maximum heap size (in MB) for the Hadoop daemons.
+    - `HADOOP_NAMENODE_OPTS`, `HADOOP_DATANODE_OPTS`, `HADOOP_SECONDARYNAMENODE_OPTS`, `HADOOP_RESOURCEMANAGER_OPTS`, `HADOOP_NODEMANAGER_OPTS`, `HADOOP_PROXYSERVER_OPTS`: The Java options for the Hadoop daemons.
+  - The configuration parameters for the Hadoop daemons can be configured by setting the following properties in the site-specific configuration files :
+    - `fs.defaultFS`: The default file system URI for the Hadoop system, usually `hdfs://<namenode-hostname>:<namenode-port>` (in `core-site.xml`).
+    - `dfs.namenode.name.dir`: The comma-separated list of directories where the NameNode stores the namespace image and the edit log (in `hdfs-site.xml`).
+    - `dfs.datanode.data.dir`: The comma-separated list of directories where the DataNode stores the data blocks (in `hdfs-site.xml`).
+    - `dfs.replication`: The default replication factor for the HDFS files (in `hdfs-site.xml`).
+    - `dfs.blocksize`: The default block size (in bytes) for the HDFS files (in `hdfs-site.xml`).
+    - `yarn.resourcemanager.hostname`: The hostname of the ResourceManager (in `yarn-site.xml`).
+    - `yarn.nodemanager.resource.memory-mb`: The amount of physical memory (in MB) that can be allocated for containers on the NodeManager (in `yarn-site.xml`).
+    - `yarn.nodemanager.resource.cpu-vcores`: The number of virtual CPU cores that can be allocated

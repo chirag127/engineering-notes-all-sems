@@ -1,0 +1,12 @@
+# Drivers for Software Tools in Human Computer Interface
+
+- A driver is a specialized software that provides a software interface to hardware devices, enabling operating systems and other computer programs to access hardware functions without needing to know precise details about the hardware being used .
+- A driver communicates with the device through the computer bus or communications subsystem to which the hardware connects.
+- A driver can be classified into different types based on the level of abstraction, the mode of operation, the type of device, or the operating system compatibility.
+- Some common types of drivers are:
+  - Kernel-mode drivers: These drivers run in the kernel space of the operating system and have direct access to the hardware and system resources. They are usually faster and more efficient than user-mode drivers, but also more prone to errors and security risks.
+  - User-mode drivers: These drivers run in the user space of the operating system and interact with the hardware through system calls or APIs. They are usually easier to develop and debug than kernel-mode drivers, but also slower and less efficient.
+  - Plug and play drivers: These drivers are designed to automatically detect and configure the hardware devices without requiring user intervention. They are usually implemented by the operating system or the device manufacturer.
+  - Human interface device (HID) drivers: These drivers are a specific type of plug and play drivers that support HID devices such as keyboards, mice, game controllers, and so on. HID devices use a generic USB driver to communicate with the operating system, and follow a device class definition that specifies the format and meaning of the data exchanged between the device and the driver .
+  - HID minidrivers: These drivers are a specific type of HID drivers that provide additional functionality or customization for a particular HID device. They are usually supplied by the device manufacturer and register with the HID class driver through a routine called HidRegisterMinidriver.
+  - Windows.Devices.HumanInterfaceDevice API: This is a new API introduced in Windows 8.1 that allows Windows apps to access HID devices. It provides methods and properties to enumerate, open, read, write, and close HID devices, as well as to get and set feature and output reports.

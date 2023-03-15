@@ -1,0 +1,10 @@
+# Medium Access Control Protocols for Broadcast Networks
+
+- Medium access control (MAC) protocols coordinate access to a shared communications channel, such as a wireless broadcast network.
+- Broadcast networks allow multiple nodes to transmit data to all other nodes in the network, which can be useful for real-time communication applications such as video conferencing, sensor networks, or vehicular networks.
+- However, broadcast networks also face challenges such as interference, collisions, hidden terminals, and exposed terminals, which can degrade the performance and reliability of the communication.
+- MAC protocols can be classified according to the access strategy employed, such as probabilistic contention, deterministic contention, or reservation-based.
+- Probabilistic contention protocols, such as Aloha and CSMA, use direct, asynchronous competition between neighboring nodes to determine which node will transmit next. They are simple, distributed, and adaptive, but they are also unreliable, inefficient, and unbounded in access delay .
+- Deterministic contention protocols, such as TDMA and CDMA, use a fixed, synchronous transmission schedule that assigns slots to nodes in a round-robin or code-division manner. They are reliable, efficient, and bounded in access delay, but they are also rigid, centralized, and non-adaptive .
+- Reservation-based protocols, such as ABROAD and IEEE 802.11, use a hybrid approach that combines a collision-avoidance handshake within each slot of a synchronous transmission schedule, allowing nodes to reclaim and/or reuse idle slots while maintaining bounded access delay. They are adaptive, distributed, and provide worst-case performance guarantees, but they are also complex, overhead-intensive, and sensitive to synchronization errors .
+- The choice of MAC protocol depends on the requirements and characteristics of the broadcast network and the real-time communication application, such as the traffic load, the node connectivity, the channel quality, the latency, the throughput, and the reliability  .

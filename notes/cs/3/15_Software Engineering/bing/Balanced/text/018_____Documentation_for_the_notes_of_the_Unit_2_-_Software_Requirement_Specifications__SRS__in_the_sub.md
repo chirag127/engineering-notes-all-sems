@@ -1,0 +1,25 @@
+### Documentation for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, and constraints of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and managers of the software project.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and misunderstanding of the requirements.
+  - It provides a basis for estimating the cost, time, and resources of the project.
+  - It facilitates the verification and validation of the software system.
+  - It serves as a reference for the maintenance and evolution of the software system.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs of the stakeholders and free of errors.
+  - Complete: It should cover all the requirements of the software system and not omit any essential information.
+  - Consistent: It should not contain any conflicting or contradictory requirements.
+  - Clear: It should be written in a clear and unambiguous language that is understandable by all the parties involved.
+  - Verifiable: It should be possible to check whether the software system meets the requirements specified in the SRS.
+  - Modifiable: It should be easy to update and modify the SRS as the requirements change over time.
+  - Traceable: It should be possible to trace the origin and rationale of each requirement and the impact of any changes on the other requirements.
+- The structure of a typical SRS document is:
+  - Introduction: It provides an overview of the software system, its scope, objectives, and assumptions.
+  - User Requirements: It describes the needs and expectations of the end-users of the software system.
+  - System Requirements: It specifies the functional and non-functional requirements of the software system, such as the inputs, outputs, processes, performance, reliability, security, etc.
+  - System Models: It presents the graphical and textual representations of the software system, such as the use case diagrams, data flow diagrams, entity-relationship diagrams, etc.
+  - System Evolution: It describes the possible changes and enhancements of the software system in the future.
+  - Appendices: It contains any additional or supplementary information that is relevant to the SRS, such as the glossary, references, acronyms, etc.
+  - Index: It provides a list of the terms and topics covered in the SRS document.

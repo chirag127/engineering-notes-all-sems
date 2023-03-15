@@ -1,0 +1,20 @@
+### Intrusion detection system
+
+An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. It can detect anomalies with the aim of catching hackers before they do real damage to a network. It can also send alerts to IT and security teams when it detects any security risks and threats.
+
+There are different types of intrusion detection systems, such as:
+
+- **Network intrusion detection system (NIDS)**: A NIDS solution is deployed at strategic points within an organization’s network and monitors the traffic between devices. It can detect attacks that span multiple hosts, such as denial-of-service (DoS) attacks, network scans, and worms.
+- **Host intrusion detection system (HIDS)**: A HIDS system is installed on individual devices that are connected to the network and monitors the activity on that device. It can detect attacks that target a specific host, such as malware, unauthorized access, and data theft.
+- **Wireless intrusion detection system (WIDS)**: A WIDS solution is designed to monitor the wireless network and detect any unauthorized or rogue devices, such as access points, laptops, and smartphones. It can also detect attacks that exploit the vulnerabilities of wireless protocols, such as man-in-the-middle (MITM) attacks, replay attacks, and jamming attacks.
+- **Network behavior analysis (NBA)**: A NBA solution is a type of NIDS that analyzes the network traffic and identifies any abnormal or suspicious patterns, such as bandwidth spikes, protocol violations, and port scans. It can also detect attacks that are stealthy or unknown, such as zero-day attacks, advanced persistent threats (APTs), and insider threats.
+
+An intrusion detection system can use different methods to detect attacks, such as:
+
+- **Signature-based detection**: This method compares the network traffic or activity with a database of known attack signatures, which are predefined patterns or rules that indicate an attack. It can detect attacks that are well-known or common, but it cannot detect attacks that are new or modified.
+- **Anomaly-based detection**: This method establishes a baseline of normal network traffic or activity and flags any deviation from that baseline as an anomaly. It can detect attacks that are unknown or novel, but it can also generate false positives if the baseline is not accurate or updated.
+- **Stateful protocol analysis**: This method examines the network traffic or activity in the context of the state of the network protocols, such as TCP, UDP, and HTTP. It can detect attacks that violate the protocol rules or logic, such as SYN flood, TCP hijacking, and HTTP request smuggling.
+
+An intrusion detection system can also be integrated with an intrusion prevention system (IPS), which is a device or software application that can block or prevent the detected attacks from reaching their targets. An IPS can also take corrective actions, such as dropping packets, resetting connections, or reconfiguring firewalls. Some examples of intrusion detection and prevention systems (IDPS) are Trend Micro TippingPoint Next-Generation Intrusion Prevention System (NGIPS), Cisco Firepower Next-Generation IPS (NGIPS), Check Point Intrusion Prevention System (IPS), and McAfee Network Security Platform (NSP).
+
+An intrusion detection system is an important component of network security, as it can help to protect the network and systems from various types of cyberattacks, such as DoS, malware, unauthorized access, data theft, and APTs. However, an intrusion detection system is not a complete solution, as it can also have limitations, such as false positives, false negatives, evasion techniques, and performance issues. Therefore, an intrusion detection system should be complemented with other security measures, such as firewalls, antivirus, encryption, authentication, and backup.

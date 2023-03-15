@@ -1,0 +1,24 @@
+### Concurrency Control for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+- Concurrency control is the process of managing the access and modification of shared data resources by multiple concurrent processes or transactions in a system.
+- Concurrency control is essential for ensuring both logical and timing correctness of real-time systems (RTS), which are systems that respond to their environment within specified time constraints.
+- Concurrency control techniques can be classified into two categories: pessimistic and optimistic.
+  - Pessimistic concurrency control prevents conflicts from occurring by locking or reserving the data resources before accessing or modifying them. Examples of pessimistic concurrency control methods are two-phase locking (2PL), timestamp ordering (TO), and priority inheritance protocol (PIP).
+  - Optimistic concurrency control allows conflicts to occur and resolves them after they are detected. Examples of optimistic concurrency control methods are multiversion concurrency control (MVCC), validation-based concurrency control (VBCC), and optimistic locking.
+- Concurrency control methods for RTS must consider both the data consistency and the timing constraints of the processes or transactions. Data consistency means that the shared data resources must reflect a correct and coherent state of the system. Timing constraints mean that the processes or transactions must meet their deadlines or response times.
+- Concurrency control methods for RTS must also deal with the challenges of concurrency, such as deadlock, livelock, starvation, priority inversion, and blocking.
+  - Deadlock occurs when two or more processes or transactions are waiting for each other to release the data resources they hold, and none of them can proceed.
+  - Livelock occurs when two or more processes or transactions are constantly changing their state in response to each other, but none of them can make any progress.
+  - Starvation occurs when a process or transaction is indefinitely postponed or denied access to the data resources it needs due to the interference of other processes or transactions.
+  - Priority inversion occurs when a high-priority process or transaction is blocked by a low-priority process or transaction that holds a data resource it needs, and the low-priority process or transaction is preempted by a medium-priority process or transaction.
+  - Blocking occurs when a process or transaction has to wait for a data resource to be released by another process or transaction before it can proceed.
+- Concurrency control methods for RTS must also cope with the characteristics of real-time data, such as temporal validity, freshness, and accuracy.
+  - Temporal validity means that the data has a limited time span in which it is valid and useful for the system.
+  - Freshness means that the data reflects the most recent state of the system or the environment.
+  - Accuracy means that the data has a certain degree of precision and reliability.
+- Concurrency control methods for RTS must also balance the trade-offs between performance and complexity, such as throughput, response time, overhead, memory, and scalability.
+  - Throughput means the number of processes or transactions that can be completed per unit time.
+  - Response time means the time elapsed from the initiation to the completion of a process or transaction.
+  - Overhead means the extra time or resources required to implement the concurrency control method.
+  - Memory means the amount of storage space required to store the data or the metadata for the concurrency control method.
+  - Scalability means the ability of the concurrency control method to handle increasing numbers of processes, transactions, or data resources.

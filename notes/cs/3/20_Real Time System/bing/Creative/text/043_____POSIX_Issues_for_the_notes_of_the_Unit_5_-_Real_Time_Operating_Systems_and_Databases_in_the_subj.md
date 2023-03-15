@@ -1,0 +1,11 @@
+### POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, and it is a set of standards that define how an application can interact with an operating system.
+- POSIX was originally designed for UNIX-like systems, but it does not address the specific needs of real-time applications, such as predictable timing, priority scheduling, and inter-process communication.
+- To address these needs, a real-time working group was established in POSIX, and it developed several extensions to the POSIX standard, such as POSIX.1b (real-time extensions), POSIX.1c (threads), and POSIX.4 (timers and clocks).
+- Some of the issues that POSIX addresses for real-time applications are:
+  - Process scheduling: POSIX.1b defines two scheduling policies, FIFO (first-in first-out) and RR (round-robin), that allow processes to run at different priority levels and to preempt lower-priority processes. POSIX.1c also defines a priority inheritance mechanism to avoid priority inversion problems.
+  - Memory management: POSIX.1b defines a memory locking function that allows processes to lock some or all of their address space in physical memory, preventing page faults and improving performance. POSIX.1c also defines a memory mapping function that allows processes to share memory regions with other processes or files.
+  - Inter-process communication: POSIX.1b defines several methods for processes to communicate and synchronize with each other, such as message queues, semaphores, shared memory, and signals. POSIX.1c also defines mutexes and condition variables for thread synchronization.
+  - Timers and clocks: POSIX.4 defines several functions for processes to measure and control time, such as timers, clocks, and alarms. POSIX.4 also defines a high-resolution timer that can generate periodic or one-shot events with nanosecond accuracy.
+  - I/O and device control: POSIX.1b defines a set of functions for processes to perform asynchronous I/O operations, such as read, write, and select. POSIX.1b also defines a function for processes to request and release access to devices, such as serial ports, disks, and network interfaces.

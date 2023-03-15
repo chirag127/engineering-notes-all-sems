@@ -1,0 +1,14 @@
+### Basic terminologies for the notes of the Unit 4 - Basic cryptography in the subject of COMPUTER SYSTEM SECURITY
+
+- Cryptography: The science or art of designing and using methods to protect information from unauthorized access or modification. Cryptography involves the use of terms like plaintext, ciphertext, algorithm, key, encryption, and decryption.
+- Plaintext: The original message or data that needs to be encrypted or hidden. Plaintext is also called cleartext.
+- Ciphertext: The transformed message or data that results from applying an encryption algorithm to the plaintext. Ciphertext is also called cryptogram.
+- Algorithm: A set of rules or steps that defines how to perform a certain task, such as encryption or decryption. An algorithm can be expressed in various ways, such as in natural language, pseudocode, flowchart, or mathematical notation.
+- Key: A piece of information that is used as an input to an encryption or decryption algorithm, along with the plaintext or ciphertext. The key determines the output of the algorithm and is usually chosen randomly or pseudorandomly. The key is also called a secret or a passphrase .
+- Encryption: The process of transforming plaintext into ciphertext using an algorithm and a key. Encryption is also called encipherment or encoding .
+- Decryption: The process of transforming ciphertext back into plaintext using an algorithm and a key. Decryption is also called decipherment or decoding .
+- Symmetric cryptography: A type of cryptography where the same key is used for both encryption and decryption. Symmetric cryptography is also called secret-key cryptography or conventional cryptography .
+- Asymmetric cryptography: A type of cryptography where different keys are used for encryption and decryption. Asymmetric cryptography is also called public-key cryptography or two-key cryptography .
+- Hash: A function that maps an arbitrary input (such as a message or a file) to a fixed-length output (such as a string of bits or characters). A hash function is designed to be one-way, meaning that it is easy to compute the output from the input, but hard to find the input from the output. A hash function is also called a message digest, a checksum, or a fingerprint .
+- Salt: A random or pseudorandom value that is added to the input of a hash function or a password-based encryption algorithm to increase its security and prevent attacks based on precomputed tables or dictionaries. A salt is also called a nonce or a randomizer .
+- Backdoor: A method of bypassing the security or authentication of a system, such as a product, a computer system, an algorithm, or a protocol. A backdoor can be intentional or unintentional, and can be exploited by authorized or unauthorized parties. A backdoor is also called a trapdoor or a secret entry point.

@@ -1,0 +1,8 @@
+### Comparison of Binary and Huffman coding for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+1. **Binary coding** is a method of representing data using a fixed number of bits for each symbol, while **Huffman coding** is a variable-length coding method that assigns shorter codes to more frequently occurring symbols and longer codes to less frequently occurring symbols.
+2. Huffman coding is an **entropy encoding** technique, which means it is based on the probability of occurrence of the symbols in the data, while binary coding is not.
+3. Huffman coding can achieve **better compression** than binary coding for certain types of data, as it takes into account the frequency of occurrence of the symbols.
+4. However, Huffman coding requires the **construction of a Huffman tree**, which can be computationally expensive for large data sets or alphabets with many symbols.
+5. Binary coding is **simpler** to implement and can be more efficient for certain types of data, such as data with a uniform distribution of symbols.
+6. In summary, the choice between binary and Huffman coding depends on the characteristics of the data being compressed and the computational resources available. Huffman coding can achieve better compression for certain types of data, but may be more computationally expensive to implement. Binary coding is simpler and more efficient for certain types of data, but may not achieve as good compression as Huffman coding.

@@ -1,0 +1,9 @@
+# Advantage of SQL
+
+SQL is a widely used language for managing and manipulating data in relational database systems. SQL has many advantages over other database management languages, such as:
+
+- **Faster and efficient query processing.** SQL can process large amounts of data in a very short time, using simple and concise commands. SQL also supports various functions and operators that can perform complex calculations and transformations on the data.  
+- **Standardized language.** SQL is a standardized language that follows the ANSI (American National Standards Institute) and ISO (International Organization for Standardization) standards. This means that SQL is compatible with different database systems and platforms, and can be easily learned and used by different users. 
+- **No coding skills required.** SQL does not require extensive programming skills or knowledge to use. SQL commands are based on common English phrases, such as SELECT, INSERT, UPDATE, DELETE, etc. SQL also has a simple syntax and structure that makes it easy to write and read. 
+- **Integration with other languages and tools.** SQL can be integrated with various programming languages, such as Java, Python, C#, etc., to perform more advanced tasks and operations on the data. SQL can also be used with various tools and applications, such as Excel, Power BI, Tableau, etc., to visualize and analyze the data. 
+- **Data security and integrity.** SQL can enforce data security and integrity by using various features, such as constraints, triggers, views, roles, permissions, etc. These features can prevent unauthorized access, modification, or deletion of the data, and ensure that the data is consistent and accurate.

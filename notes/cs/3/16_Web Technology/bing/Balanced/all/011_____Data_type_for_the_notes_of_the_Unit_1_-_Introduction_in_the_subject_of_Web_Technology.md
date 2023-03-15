@@ -1,0 +1,9 @@
+### Data type
+
+- A data type is a classification of data that specifies how the data is stored, manipulated, and interpreted by a computer.
+- Data types are important for programming languages, databases, web development, and other applications that deal with data.
+- Data types can be divided into two categories: primitive and composite.
+- Primitive data types are the basic or atomic data types that cannot be further divided into smaller units. Examples of primitive data types are integers, floats, booleans, characters, and strings.
+- Composite data types are data types that are composed of one or more primitive data types or other composite data types. Examples of composite data types are arrays, lists, tuples, sets, dictionaries, and objects.
+- Different data types have different properties, such as size, range, precision, and operations. For example, an integer data type can store whole numbers, but not fractions or decimals, and can perform arithmetic operations, such as addition, subtraction, multiplication, and division. A string data type can store sequences of characters, but not numbers, and can perform operations, such as concatenation, slicing, and indexing.
+- Data types can also be classified as static or dynamic, depending on whether they are fixed or variable at runtime. Static data types are data types that are declared and assigned at compile time, and cannot be changed during the execution of the program. Dynamic data types are data types that are determined and assigned at runtime, and can be changed during the execution of the program. Static data types are more efficient and less error-prone, but less flexible and expressive. Dynamic data types are more flexible and expressive, but less efficient and more error-prone.

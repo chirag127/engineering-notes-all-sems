@@ -1,0 +1,9 @@
+### Hadoop benchmarks
+
+Hadoop benchmarks are tools or applications that measure the performance of Hadoop clusters in terms of various metrics, such as throughput, latency, scalability, and resource utilization. Hadoop benchmarks can help users and administrators to evaluate the efficiency, reliability, and suitability of Hadoop clusters for different workloads and scenarios. Some of the common Hadoop benchmarks are:
+
+- **TestDFSIO**: This benchmark tests the read and write performance of HDFS by generating a number of files and using one map task per file. It reports the average IO rate, IO rate standard deviation, and the throughput of the cluster.
+- **TeraSort**: This benchmark tests the combined performance of HDFS and MapReduce by sorting a large amount of data (1 terabyte or more) using three MapReduce programs: TeraGen, TeraSort, and TeraValidate. TeraGen generates the input data, TeraSort sorts the data, and TeraValidate verifies the correctness of the output. It reports the total time taken for each step and the overall sorting rate.
+- **nnbench**: This benchmark tests the performance of the NameNode by creating, renaming, and deleting a large number of files in HDFS. It reports the average execution time, the number of operations per second, and the number of bytes per second for each operation.
+- **mrbench**: This benchmark tests the performance of the MapReduce framework by running a series of small jobs that perform identity map and reduce functions. It reports the average execution time, the number of jobs per minute, and the number of maps and reduces per job.
+- **hbase.PerformanceEvaluation**: This benchmark tests the performance of HBase, a distributed database built on top of HDFS, by performing various operations, such as insert, update, scan, and random read, on a table with a given number of rows and columns. It reports the average latency, the number of operations per second, and the throughput of the cluster.

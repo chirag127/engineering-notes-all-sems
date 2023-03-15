@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on DTD for the Unit 2 - Web Page Designing in the subject of Web Technology. Here are some points to remember:
+
+- DTD stands for Document Type Definition. It is a set of rules that defines the structure and content of an XML or HTML document.
+- DTD can be used to validate the syntax and semantics of an XML or HTML document, ensuring that it conforms to the specified rules and standards.
+- DTD can be declared either internally or externally. An internal DTD is embedded within the XML or HTML document, while an external DTD is referenced by a URL or a file name.
+- DTD consists of elements, attributes, entities, notations, and comments. Elements define the tags and their content model, attributes define the properties and values of the elements, entities define the shortcuts or aliases for frequently used text or symbols, notations define the format and encoding of external data, and comments provide additional information or explanation.
+- DTD uses a syntax that is similar to BNF (Backus-Naur Form), a notation for describing the grammar of a language. DTD uses symbols such as *, +, ?, |, and () to indicate the occurrence, repetition, optionality, choice, and grouping of elements and attributes.
+- DTD can be used to create customized XML or HTML vocabularies that suit the specific needs and purposes of the document. For example, DTD can be used to create a markup language for books, invoices, recipes, etc.
+- DTD can also be used to create generic XML or HTML vocabularies that can be shared and reused by different applications and users. For example, DTD can be used to create a markup language for mathematical expressions, chemical formulas, music notation, etc.

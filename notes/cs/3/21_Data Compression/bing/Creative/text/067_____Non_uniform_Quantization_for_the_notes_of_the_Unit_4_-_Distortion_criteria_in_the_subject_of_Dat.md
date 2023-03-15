@@ -1,0 +1,9 @@
+### Non uniform Quantization
+
+- Non uniform quantization is a technique of mapping input values from a large set (often a continuous set) to output values in a smaller set (often a discrete set) with unequal spacing between the output values.
+- Non uniform quantization is more suitable for signals that have non-uniform distributions, such as speech or image signals, where some values are more likely to occur than others.
+- Non uniform quantization can achieve lower distortion than uniform quantization with the same number of bits, because it can allocate more bits to the regions where the input values are more concentrated and less bits to the regions where the input values are less frequent.
+- Non uniform quantization can be implemented in different ways, such as using a non-linear function to map the input values to the output values, or using an adaptive algorithm to adjust the output values based on the input statistics or the network gradients .
+- Non uniform quantization can be classified into two types: companding and pdf-optimized.
+  - Companding is a method of applying a non-linear function to the input values before applying uniform quantization, and then applying the inverse function to the output values after quantization. The non-linear function can be logarithmic, such as the μ-law or A-law used in telephony, or power-law, such as the PCM used in audio coding.
+  - Pdf-optimized is a method of designing the output values to minimize the distortion for a given input probability density function (pdf). The output values can be obtained by solving the Lloyd-Max algorithm, which iteratively updates the output values and the decision boundaries until convergence.

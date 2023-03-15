@@ -1,0 +1,11 @@
+# XML
+
+XML stands for **Extensible Markup Language**. It is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable . It is a textual data format with strong support for Unicode for different human languages. XML was designed to store and transport data, and to be self-descriptive. XML is a W3C (World Wide Web Consortium) recommendation.
+
+Some of the features of XML are:
+
+- XML is **simple** and **flexible**. It uses plain text to store and share data, which makes it easy to read and write. XML also allows users to define their own tags and attributes, which makes it adaptable to different needs and applications .
+- XML is **platform-independent** and **interoperable**. It can be used across different operating systems, applications, and browsers, without losing data or functionality. XML also enables data exchange between different applications and web services, which promotes interoperability and integration .
+- XML is **extensible** and **scalable**. It can be extended or modified by adding new elements or attributes, without breaking the existing structure or code. XML also supports namespaces, which allow users to avoid name conflicts and reuse elements from different sources. XML can handle large and complex data sets, as well as nested and hierarchical data structures .
+- XML is **structured** and **validatable**. It follows a tree-like structure, where each element has a start tag, an end tag, and some content. XML also supports schemas and DTDs (Document Type Definitions), which define the rules and constraints for the structure and content of XML documents. XML documents can be validated against schemas or DTDs, which ensures data quality and consistency .
+- XML is **separable** and **transformable**. It separates the data from the presentation, which allows users to store and manipulate data independently of how it is displayed. XML also supports XSLT (Extensible Stylesheet Language Transformations), which is a language for transforming XML documents into other formats, such as HTML, PDF, or plain text .

@@ -1,0 +1,19 @@
+### Forms
+- Forms are HTML elements that allow users to enter data and submit it to a web server.
+- Forms consist of one or more input elements, such as text fields, checkboxes, radio buttons, drop-down lists, etc.
+- Forms also have a submit button, which sends the data to the server when clicked.
+- Forms use the `<form>` tag to define the start and end of the form.
+- The `<form>` tag has two attributes: `action` and `method`.
+- The `action` attribute specifies the URL of the server-side script that will process the form data.
+- The `method` attribute specifies the HTTP method to use when sending the form data. The two common methods are `GET` and `POST`.
+- The `GET` method appends the form data to the URL as a query string, and is suitable for short and non-sensitive data.
+- The `POST` method sends the form data in the body of the HTTP request, and is suitable for long and sensitive data.
+- Each input element in a form has a `name` attribute, which identifies the data entered by the user.
+- The input elements also have a `type` attribute, which specifies the kind of input expected by the user.
+- Some common input types are `text`, `password`, `email`, `number`, `checkbox`, `radio`, `select`, `submit`, etc.
+- The input elements can also have other attributes, such as `value`, `placeholder`, `required`, `min`, `max`, `pattern`, etc., to provide default values, hints, validation rules, and other features.
+- The input elements can be grouped together using the `<fieldset>` and `<legend>` tags, to create logical sections in the form.
+- The input elements can also be labeled using the `<label>` tag, to provide descriptive text for the user.
+- The form data can be accessed and manipulated using JavaScript, by using the `document.forms` collection, or the `document.getElementById()` or `document.querySelector()` methods.
+- The form data can also be validated using JavaScript, by using the `onsubmit` event handler, or the `checkValidity()` and `reportValidity()` methods.
+- The form data can also be submitted using JavaScript, by using the `submit()` method, or the `XMLHttpRequest` or `fetch` objects.

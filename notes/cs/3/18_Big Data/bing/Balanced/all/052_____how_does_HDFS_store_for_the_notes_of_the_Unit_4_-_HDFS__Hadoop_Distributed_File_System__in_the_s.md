@@ -1,0 +1,7 @@
+# How does HDFS store
+
+- HDFS stands for Hadoop Distributed File System, which is a scalable and fault-tolerant file system designed for storing and processing large volumes of data across multiple nodes in a cluster.
+- HDFS stores data in a distributed manner by dividing the files into fixed-size blocks (default 128 MB) and replicating them across different DataNodes in the cluster. Each block has a unique identifier and a metadata that is stored in the NameNode, which is the master node that manages the file system namespace and the access to the files.
+- HDFS follows a write-once-read-many model, which means that once a file is written, it cannot be modified. This simplifies the data consistency and concurrency issues and enables high-throughput streaming access to the data.
+- HDFS provides fault tolerance by replicating each block across multiple DataNodes (default 3) and periodically checking the health and availability of the nodes. If a DataNode fails or becomes corrupted, the NameNode can recover the data from another replica and restore the replication factor.
+- HDFS also supports rack awareness, which means that it can place the replicas of a block in different racks to improve the network bandwidth and the data availability in case of a rack failure. HDFS uses a default policy that places one replica on the same node as the writer, another replica on a different node in the same rack, and the third replica on a node in a different rack.

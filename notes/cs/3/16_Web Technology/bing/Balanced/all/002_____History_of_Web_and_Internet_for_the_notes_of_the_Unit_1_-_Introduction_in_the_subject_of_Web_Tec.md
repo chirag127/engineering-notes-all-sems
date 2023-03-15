@@ -1,0 +1,11 @@
+# History of Web and Internet
+
+- The **Internet** is a global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to communicate and exchange data.
+- The **Web** is a collection of documents and resources that are linked by hyperlinks and can be accessed through the Internet using web browsers.
+- The Internet originated in the **1970s** as a project of the U.S. Department of Defense (DoD) to create a network that could survive a nuclear attack. It was called the **ARPANET** (Advanced Research Projects Agency Network) and connected four computers at different universities.
+- The Web was invented in **1989** by **Tim Berners-Lee**, a British scientist working at CERN (European Organization for Nuclear Research) in Switzerland. He proposed a system to share information among researchers using hypertext, a way of linking documents with keywords.
+- Berners-Lee developed the first web browser, web server, and web page, and named his system the **World Wide Web (WWW)**. He also created the **URL** (Uniform Resource Locator), **HTML** (HyperText Markup Language), and **HTTP** (HyperText Transfer Protocol), the standards for web communication.
+- The Web became publicly available in **1991**, when CERN announced that it would be free for anyone to use. The first web site was http://info.cern.ch, which is still online today.
+- The Web grew rapidly in the **1990s**, with the emergence of popular web browsers such as **Mosaic**, **Netscape**, and **Internet Explorer**, and web services such as **Yahoo**, **Amazon**, and **Google**.
+- The Web also enabled the development of new forms of online interaction, such as **social media**, **e-commerce**, **online gaming**, and **streaming**.
+- The Web continues to evolve in the **21st century**, with new technologies such as **Web 2.0**, **Web 3.0**, **HTML5**, **CSS3**, **JavaScript**, **AJAX**, **XML**, **JSON**, **REST**, **SOAP**, **WebSockets**, **WebRTC**, **SVG**, **Canvas**, **WebGL**, **WebAssembly**, **PWA**, **SPA**, **SEO**, **API**, **CMS**, **IoT**, **AI**, **VR**, **AR**, and **Blockchain**.

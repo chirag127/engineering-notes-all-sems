@@ -1,0 +1,16 @@
+# Database System Concept and Architecture
+
+- A database system is a collection of software components that manage the storage, retrieval, and manipulation of data in a structured and organized way.
+- A database system consists of three main components: the data, the database management system (DBMS), and the database applications.
+- The data is the actual information stored in the database, such as tables, records, fields, values, etc.
+- The DBMS is the software that provides the functionality to create, maintain, and access the database. It also enforces the rules and constraints that ensure the integrity, security, and consistency of the data.
+- The database applications are the programs that interact with the DBMS and the data to perform specific tasks, such as querying, updating, reporting, analyzing, etc.
+- The architecture of a database system refers to the way the components are organized and communicate with each other. It also defines the levels of abstraction and the interfaces that separate the components and hide the implementation details.
+- There are different types of database system architectures, such as centralized, decentralized, hierarchical, single-tier, multi-tier, client-server, parallel, distributed, etc. Each type has its own advantages and disadvantages depending on the requirements and constraints of the system.
+- A common way to describe the architecture of a database system is to use the ANSI/SPARC three-schema architecture, which consists of three levels of schemas: the external schema, the conceptual schema, and the internal schema.
+- The external schema defines the views of the data for different users or applications. It allows each user or application to see only the relevant and authorized part of the data, and to use their own names and formats for the data elements.
+- The conceptual schema defines the logical structure and organization of the data for the entire database. It describes the entities, attributes, relationships, constraints, and operations on the data, without specifying how they are stored or implemented.
+- The internal schema defines the physical structure and storage of the data on the computer system. It describes how the data is organized in files, records, blocks, indexes, etc., and how they are accessed and manipulated by the DBMS.
+- The three-schema architecture provides data independence, which is the ability to change one level of schema without affecting the other levels. There are two types of data independence: logical data independence and physical data independence.
+- Logical data independence is the ability to change the conceptual schema without affecting the external schemas. It allows the DBMS to support different views of the data for different users or applications, and to modify the logical structure of the data without affecting the existing views.
+- Physical data independence is the ability to change the internal schema without affecting the conceptual schema. It allows the DBMS to optimize the physical storage and access of the data without affecting the logical structure of the data.

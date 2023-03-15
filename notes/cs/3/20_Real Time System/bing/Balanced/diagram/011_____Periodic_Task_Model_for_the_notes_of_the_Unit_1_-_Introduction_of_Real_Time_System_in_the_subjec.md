@@ -1,0 +1,21 @@
+### Periodic Task Model
+
+- A periodic task is a task that repeats itself after a fixed time interval, called the period.
+- A periodic task is characterized by four parameters: phase, period, execution time, and deadline.
+- Phase is the time at which the first instance of the task is released.
+- Period is the time interval between two consecutive releases of the task.
+- Execution time is the worst-case time required by the task to complete its execution.
+- Deadline is the time by which the task must finish its execution.
+- A periodic task can be represented by a tuple: T = <Φ, P, e, D> where Φ is the phase, P is the period, e is the execution time, and D is the deadline.
+- A periodic task can also be represented by a timeline diagram, showing the release times, execution times, and deadlines of the task instances.
+- The periodic task model is a deterministic workload model that can accurately capture many hard real-time applications, such as digital control, real-time monitoring, and constant bit-rate voice/video transmission.
+- The periodic task model has some assumptions and limitations, such as:
+  - The task parameters are known and fixed.
+  - The task execution time does not depend on the input data or the system state.
+  - The task instances are independent and do not share any resources.
+  - The task instances are released exactly at the start of their periods.
+- The periodic task model can be extended by adding some parameters, such as:
+  - Jitter, which is the maximum deviation of the actual release time of a task instance from the exact start time of its period.
+  - Offset, which is the time difference between the release time of a task instance and the start of its hyperperiod.
+  - Priority, which is the relative importance of a task among other tasks.
+  - Utilization, which is the ratio of the execution time to the period of a task.

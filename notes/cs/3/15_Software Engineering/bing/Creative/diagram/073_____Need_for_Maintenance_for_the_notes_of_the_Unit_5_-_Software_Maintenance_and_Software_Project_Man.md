@@ -1,0 +1,13 @@
+### Need for Maintenance
+
+Software maintenance is the process of changing, modifying, and updating software applications after delivery to correct faults and to improve performance, design, and functionality. Software maintenance is a vital component of Software Development Life Cycle (SDLC) and it is carried out for several reasons, such as:
+
+- To correct faults or bugs that are detected during the operation of the software system. These faults may be due to errors in the design, coding, testing, or deployment of the software system. Fault correction is also known as corrective maintenance.
+- To improve the design of the software system by making it more modular, readable, maintainable, and reusable. Design improvement is also known as reengineering or refactoring.
+- To implement enhancements or new features that are requested by the users or the stakeholders of the software system. These enhancements may be due to changing user requirements, market trends, or technological advancements. Enhancement implementation is also known as adaptive maintenance or perfective maintenance.
+- To interface with other systems or components that are added or modified in the software environment. These systems or components may be hardware, software, network, or database. Interfacing is also known as interoperability maintenance or compatibility maintenance.
+- To accommodate the software system to different hardware, software, system features, and telecommunications facilities that are used by the users or the stakeholders of the software system. These changes may be due to upgrades, migrations, or replacements of the existing platforms. Accommodation is also known as portability maintenance or platform adaptation.
+- To migrate the software system from a legacy system to a modern system that is more efficient, secure, and reliable. Migration is also known as transformation or conversion.
+- To retire the software system when it is no longer needed or supported by the users or the stakeholders of the software system. Retirement is also known as phase-out or decommissioning.
+
+Software maintenance is essential to ensure the quality, reliability, and usability of the software system. Software maintenance also helps to reduce the cost, risk, and complexity of the software system. Software maintenance is an ongoing and iterative process that requires planning, management, and evaluation. Software maintenance is a challenging and important task in software engineering.

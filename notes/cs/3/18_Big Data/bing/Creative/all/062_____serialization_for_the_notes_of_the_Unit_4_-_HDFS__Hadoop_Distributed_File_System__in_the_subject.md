@@ -1,0 +1,24 @@
+# Serialization
+
+- Serialization is the process of converting object data into byte stream data for transmission over a network across different nodes in a cluster or for persistent data storage.
+- Deserialization is the reverse process of serialization and converts byte stream data into object data for reading data from HDFS.
+- Data serialization is a way of representing data in memory as a series of bytes.
+- Serialization helps to reduce the size of data and improve the performance of data processing.
+- Hadoop provides Writables for serialization and deserialization purpose.
+- Writable and WritableComparable are two interfaces that define how the data is serialized and deserialized in Hadoop.
+- WritableComparable extends Writable and adds a compareTo method for sorting the data.
+- Some of the common Writable classes are IntWritable, LongWritable, Text, BooleanWritable, etc.
+- Hadoop also supports other serialization frameworks such as Avro, Thrift, and Protocol Buffers.
+- Avro is an efficient data serialization framework and is widely supported throughout Hadoop and its ecosystem.
+- Avro uses a schema to define the data structure and provides a compact binary format for data encoding.
+- Avro also supports schema evolution, which means the data can be read with different versions of the schema.
+- Thrift and Protocol Buffers are similar to Avro, but they require the schema to be defined in a separate file and compiled into Java classes.
+- Hadoop file formats are the ways of storing data in HDFS.
+- Hadoop file formats can be classified into text, binary, and columnar formats.
+- Text file format is the simplest and most common format, but it is not efficient for data processing.
+- Binary file format stores data in a compact and serialized form, which reduces the size and improves the performance.
+- Sequence file, Avro file, and Parquet file are some of the binary file formats supported by Hadoop.
+- Sequence file is a flat file format that stores key-value pairs in a serialized form.
+- Avro file is a binary file format that stores data in a schema-based and self-describing way.
+- Parquet file is a columnar file format that stores data in a compressed and optimized way for analytical queries.
+- Hadoop file formats can be used to create Hive and Impala tables in HDFS.

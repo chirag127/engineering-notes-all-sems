@@ -1,0 +1,11 @@
+### Change Control Process
+
+Change control is the process that a company uses to document, identify and authorize changes to an IT environment. It reduces the chances of unauthorized alterations, disruption and errors in the system.
+
+The change control process consists of the following steps :
+
+- **Change request initiation**: In this step, a change is requested by a stakeholder, a user, a developer or a manager. The request should include the reason, the scope, the impact and the urgency of the change. The request is then submitted to a change control board (CCB) or a change manager for review.
+- **Change request assessment**: In this step, the CCB or the change manager evaluates the change request based on its feasibility, priority, cost, benefits and risks. They may approve, reject or defer the change request, or ask for more information or clarification from the requester.
+- **Change request analysis**: In this step, the approved change request is analyzed in detail by the change manager or a change analyst. They may consult with other experts, such as developers, testers, users or vendors, to determine the best way to implement the change. They may also perform impact analysis, risk analysis and dependency analysis to identify the affected components, resources and stakeholders of the change. They then prepare a change plan that outlines the tasks, roles, responsibilities, schedule, budget and quality criteria for the change implementation.
+- **Change request implementation**: In this step, the change plan is executed by the change manager or a change team. They may use various tools and techniques, such as agile methods, configuration management, version control, testing and deployment, to implement the change in the IT environment. They may also monitor and control the change progress and performance, and report any issues or deviations to the CCB or the change manager.
+- **Change request review**: In this step, the change manager or the CCB reviews the change implementation and verifies that the change objectives and criteria have been met. They may also evaluate the change outcomes and benefits, and measure the customer satisfaction and feedback. They then close the change request and document the change results and lessons learned.

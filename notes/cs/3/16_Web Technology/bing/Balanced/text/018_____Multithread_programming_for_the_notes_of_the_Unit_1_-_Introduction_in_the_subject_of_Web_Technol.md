@@ -1,0 +1,12 @@
+### Multithread Programming for the Notes of the Unit 1 - Introduction in the Subject of Web Technology
+
+- Multithread programming is the ability of a program or an operating system to execute more than one thread simultaneously .
+- A thread is a unit of execution that has its own stack, program counter, and local variables, but shares the code, data, and resources of the process it belongs to .
+- Multithread programming can improve the performance, responsiveness, and resource utilization of an application, especially on multiprocessor or multi-core systems .
+- Multithread programming can also enable concurrency and parallelism, which are two different modes of executing multiple threads .
+  - Concurrency is when multiple threads are executed in an interleaved manner, but not necessarily at the same time. Concurrency can be achieved on a single processor system by switching between threads rapidly.
+  - Parallelism is when multiple threads are executed at the same time on different processors or cores. Parallelism can exploit the hardware parallelism of a system and speed up the computation.
+- Multithread programming can be implemented using two types of threads: user-level threads and kernel-level threads .
+  - User-level threads are created and managed by the user program or a library, without the involvement of the operating system. User-level threads are faster to create and switch, but have some limitations, such as blocking the entire process if one thread performs a blocking system call, or not being able to utilize multiple processors or cores.
+  - Kernel-level threads are created and managed by the operating system, which schedules them on the available processors or cores. Kernel-level threads can avoid the problems of user-level threads, but are slower to create and switch, and consume more system resources.
+- Multithread programming can also be supported by a technique called hyperthreading, which is a feature of some processors that allows them to execute two threads simultaneously on a single core. Hyperthreading can increase the throughput of a processor by utilizing the idle resources of the core, such as the instruction pipeline or the arithmetic units. Hyperthreading is not the same as having two physical cores, as the threads share the same core resources and may compete for them.

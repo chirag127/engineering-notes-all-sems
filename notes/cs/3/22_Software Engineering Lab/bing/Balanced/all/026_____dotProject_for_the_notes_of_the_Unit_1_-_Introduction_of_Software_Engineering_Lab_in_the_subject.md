@@ -1,0 +1,23 @@
+# dotProject for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- dotProject is a web-based, multi-user, multi-language project management application that is free and open source software.
+- dotProject was originally developed by Will Ezell at dotmarketing, Inc. to be an open source replacement for Microsoft Project, using a very similar user interface but including project management functionality.
+- dotProject is mostly a task-oriented project management system, predating contemporary tools addressing methodologies such as Agile software development. Instead, it uses the "waterfall" model to manage tasks, sequentially and/or in parallel, assigned to different members of a team or teams, and establishing dependencies between tasks and milestones.
+- dotProject has several modules that provide different features, such as:
+  - Calendar: to view and manage events and tasks by date and time.
+  - Companies: to create and edit company profiles and contacts.
+  - Projects: to create and edit projects, assign tasks, track progress, and view reports and charts.
+  - Tasks: to create and edit tasks, assign resources, set priorities, and view task logs and dependencies.
+  - Forums: to create and participate in discussion forums related to projects or tasks.
+  - Files: to upload and download files associated with projects or tasks.
+  - Ticketsmith: to create and manage trouble tickets for issues or bugs.
+  - User Administration: to manage user accounts, roles, and permissions.
+  - System Administration: to configure system settings, preferences, and modules.
+- dotProject can be used for software engineering education, as it allows instructors and students to practice project management skills and concepts in a realistic and collaborative environment. Some benefits of using dotProject for software engineering education are:
+  - It is free and open source, so it can be easily installed and customized for different courses and projects.
+  - It supports multiple languages, so it can be used by students from different countries and backgrounds.
+  - It has a familiar and intuitive user interface, so it can be easily learned and used by students and instructors.
+  - It provides various features and modules that cover the main aspects of project management, such as planning, scheduling, monitoring, controlling, and reporting.
+  - It allows instructors to create and assign projects and tasks, and to monitor and evaluate the students' performance and progress.
+  - It allows students to work in teams, communicate and collaborate with each other, and manage their own tasks and responsibilities.
+  - It exposes students to real-world challenges and scenarios, such as changing requirements, resource constraints, and risk management.

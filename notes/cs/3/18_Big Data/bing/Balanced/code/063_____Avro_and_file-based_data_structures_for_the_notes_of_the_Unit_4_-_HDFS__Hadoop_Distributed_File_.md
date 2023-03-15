@@ -1,0 +1,8 @@
+### Avro and file-based data structures for HDFS
+
+- Avro is a data serialization framework that allows data to be represented as a series of bytes in memory. It is widely supported throughout Hadoop and its ecosystem. 
+- Avro files have a schema that describes the structure and types of the data. The schema can be stored with the data or separately. 
+- Avro files can be imported to and exported from HDFS using Sqoop, a tool that transfers data between Hadoop and relational databases. To import data to HDFS in Avro format, use the parameter `--as-avrodatafile` in the Sqoop command. To export data from HDFS in Avro format, use the parameter `--as-avrofile` in the Sqoop command.  
+- Avro files can be read and written by Hive and Impala, two SQL engines for Hadoop. To create a Hive or Impala table using Avro files, use the clause `STORED AS AVRO` in the `CREATE TABLE` statement. To specify the schema of the Avro files, use the clause `TBLPROPERTIES ('avro.schema.url'='hdfs://path/to/schema')` or `TBLPROPERTIES ('avro.schema.literal'='schema in JSON format')` in the `CREATE TABLE` statement. 
+- Avro files can be loaded into Spark dataframes using the `spark-avro` library. To read an Avro file from HDFS, use the method `spark.read.format("avro").load("hdfs://path/to/file")`. To write a Spark dataframe to HDFS in Avro format, use the method `df.write.format("avro").save("hdfs://path/to/file")`. 
+- Avro files are suitable for storing complex and nested data types, such as arrays, maps, and records. They are also efficient in terms of space and performance, as they use binary encoding and compression.

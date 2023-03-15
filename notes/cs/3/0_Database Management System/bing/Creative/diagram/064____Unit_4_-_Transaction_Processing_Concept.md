@@ -1,0 +1,22 @@
+## Unit 4 - Transaction Processing Concept
+
+- A **transaction** is a logical unit of work that accesses and possibly modifies data in a database or a system .
+- A **transaction processing system (TPS)** is a software system that executes transactions and ensures that they are completed correctly and reliably.
+- A transaction has four main properties, also known as **ACID** :
+  - **Atomicity**: A transaction must either be executed in its entirety or not at all. If any part of the transaction fails, the whole transaction is aborted and the database is restored to its previous state.
+  - **Consistency**: A transaction must preserve the integrity and validity of the database. It must not violate any constraints, rules, or semantics of the data.
+  - **Isolation**: A transaction must not interfere with other concurrent transactions. Each transaction must execute as if it is the only one in the system.
+  - **Durability**: A transaction must persist its effects on the database even in the event of system failures. Once a transaction commits, its changes are permanent and cannot be lost.
+- A transaction can have one of the following states :
+  - **Active**: The initial state of a transaction, where it is executing and performing its operations.
+  - **Partially committed**: The state of a transaction after it has executed its final operation, but before it has committed.
+  - **Committed**: The state of a transaction after it has successfully completed and its changes are recorded in the database.
+  - **Failed**: The state of a transaction after it has encountered an error or aborted due to some reason.
+  - **Aborted**: The state of a transaction after it has been rolled back and its effects are undone from the database.
+- A transaction can be initiated, executed, committed, or aborted by either the user, the application program, or the database system .
+- A transaction can be classified into different types based on its characteristics, such as :
+  - **Read-only transaction**: A transaction that only reads data from the database and does not modify it.
+  - **Update transaction**: A transaction that reads and writes data to the database and may modify it.
+  - **Distributed transaction**: A transaction that involves multiple databases or systems that are connected by a network.
+  - **Long-duration transaction**: A transaction that takes a long time to complete and may span multiple sessions or interactions.
+  - **Short-duration transaction**: A transaction that completes quickly and within a single session or interaction.

@@ -1,0 +1,17 @@
+### Formal grammars and their application to syntax analysis
+
+- A formal grammar is a set of rules that define the structure and syntax of a language. A grammar consists of four components :
+  - A finite set of terminal symbols, denoted by V, that represent the basic units or tokens of the language.
+  - A finite set of non-terminal symbols, denoted by N, that represent the syntactic categories or variables of the language.
+  - A finite set of production rules, denoted by P, that specify how to form valid sentences or phrases from the terminal and non-terminal symbols.
+  - A start symbol, denoted by S, that belongs to N and represents the initial syntactic category of the language.
+- A formal grammar can be used to describe the syntax of a programming language, which is the set of rules that determine how a program is written and structured. A grammar can also be used to generate or recognize valid sentences or programs in the language.
+- Syntax analysis, also known as parsing, is a process in compiler design where the compiler checks if the source code follows the grammatical rules of the programming language. This is typically the second stage of the compilation process, following lexical analysis, where the source code is divided into tokens.
+- Syntax analysis involves two main tasks:
+  - Building a parse tree, which is a hierarchical representation of the syntactic structure of the source code, based on the production rules of the grammar.
+  - Reporting and handling any syntax errors, which are violations of the grammatical rules of the language, such as missing or extra symbols, mismatched parentheses, etc.
+- Syntax analysis can be performed using different algorithms and techniques, depending on the type and complexity of the grammar. There are four main types of formal grammars, classified by the Chomsky hierarchy:
+  - Type 0 or unrestricted grammars, which have no restrictions on the form of the production rules. They can generate any recursively enumerable language, which is the most general class of languages that can be recognized by a Turing machine.
+  - Type 1 or context-sensitive grammars, which have the restriction that the left-hand side of a production rule must not be shorter than the right-hand side. They can generate any context-sensitive language, which is a subclass of recursively enumerable languages that can be recognized by a linear bounded automaton.
+  - Type 2 or context-free grammars, which have the restriction that the left-hand side of a production rule must be a single non-terminal symbol. They can generate any context-free language, which is a subclass of context-sensitive languages that can be recognized by a pushdown automaton. Most programming languages are designed using context-free grammars, as they are easier to parse and understand than more complex grammars.
+  - Type 3 or regular grammars, which have the restriction that the right-hand side of a production rule must be either a single terminal symbol, or a single terminal symbol followed by a single non-terminal symbol. They can generate any regular language, which is a subclass of context-free languages that can be recognized by a finite automaton. Regular grammars are often used to describe the lexical structure of a language, such as the keywords, identifiers, operators, etc.

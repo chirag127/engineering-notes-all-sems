@@ -1,0 +1,20 @@
+### Anatomy of a Map Reduce job run
+
+- A Map Reduce job is a unit of work that consists of a map phase and a reduce phase, which operate on a distributed file system (DFS) such as Hadoop Distributed File System (HDFS).
+- A Map Reduce job can be executed by submitting a Job object to the Hadoop framework, which handles the scheduling, distribution, and coordination of the tasks across the cluster nodes.
+- The Job object specifies the input and output paths, the mapper and reducer classes, the number of map and reduce tasks, and other configuration parameters.
+- The following steps describe the anatomy of a Map Reduce job run:
+
+  1. The client submits the Job object to the JobTracker, which is a daemon process that runs on the master node of the cluster. The JobTracker assigns a unique ID to the job and stores its metadata in a persistent store.
+  2. The JobTracker splits the input data into fixed-size chunks called input splits, which are logical units of work for the map tasks. Each input split is typically 64 MB or 128 MB in size, depending on the DFS block size. The JobTracker also creates a map task for each input split and assigns it an ID.
+  3. The JobTracker contacts the TaskTrackers, which are daemon processes that run on the slave nodes of the cluster, and assigns them map tasks to execute. The TaskTrackers launch child processes called MapTask to run the map tasks in parallel. The MapTask processes read the input splits from the DFS and apply the mapper function to each key-value pair in the input data. The mapper function transforms the input key-value pairs into intermediate key-value pairs, which are buffered in memory and periodically spilled to local disk.
+  4. The MapTask processes partition the intermediate key-value pairs by a hash function based on the intermediate keys and write them to local disk. Each partition corresponds to a reduce task and is called a map output file. The MapTask processes also send the location and size of the map output files to the JobTracker, which keeps track of them in a data structure called the map output index.
+  5. The JobTracker creates a reduce task for each partition and assigns it an ID. The JobTracker also contacts the TaskTrackers and assigns them reduce tasks to execute. The TaskTrackers launch child processes called ReduceTask to run the reduce tasks in parallel. The ReduceTask processes fetch the map output files from the local disks of the nodes where the map tasks ran, using the map output index provided by the JobTracker. The ReduceTask processes merge and sort the map output files by the intermediate keys and apply the reducer function to each group of values that share the same intermediate key. The reducer function aggregates the intermediate values and produces the final output key-value pairs, which are written to the DFS.
+  6. The JobTracker monitors the progress and status of the map and reduce tasks by communicating with the TaskTrackers. If a task fails due to a node failure, a disk failure, or an application error, the JobTracker reschedules the task on another node. The JobTracker also performs speculative execution, which means that it launches backup copies of slow-running tasks on other nodes to improve the performance of the job. The JobTracker notifies the client when the job is completed or failed. The client can then retrieve the output data from the DFS or perform further processing.      
+
+: https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch07.html
+: https://citizenchoice.in/course/big-data/Chapter%202/13-anatomy-of-a-map-reduce-job-run
+: https://www.scribd.com/document/335508938/Anatomy-of-a-MapReduce-Job
+: https://www.geeksforgeeks.org/how-job-runs-on-mapreduce/
+: https://www.edureka.co/blog/anatomy-of-a-mapreduce-job-in-apache-hadoop/
+: https://www.wisdomjobs.com/e-university/hadoop-tutorial-484/anatomy-of-a-mapreduce-job-run-14817.html

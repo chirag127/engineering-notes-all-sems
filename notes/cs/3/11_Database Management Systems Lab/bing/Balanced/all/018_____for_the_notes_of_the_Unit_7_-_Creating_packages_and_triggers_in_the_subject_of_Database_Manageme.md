@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of creating packages and triggers in the subject of Database Management Systems Lab. Here are some points to remember:
+
+- A package is a collection of related procedures, functions, variables, constants, cursors, and other PL/SQL objects that are grouped together under a common name.
+- A package has two parts: a specification and a body. The specification declares the public elements of the package that can be accessed by other programs. The body defines the implementation of the package elements and can also contain private elements that are only visible within the package.
+- To create a package, use the CREATE PACKAGE and CREATE PACKAGE BODY statements. You can also use the ALTER PACKAGE and DROP PACKAGE statements to modify or remove a package.
+- A trigger is a special type of stored procedure that is executed automatically when a specific event occurs in the database, such as inserting, updating, or deleting a row in a table.
+- A trigger has three parts: a triggering event, a trigger condition, and a trigger action. The triggering event specifies when the trigger should fire, the trigger condition evaluates to true or false, and the trigger action performs some operation on the database.
+- To create a trigger, use the CREATE TRIGGER statement. You can also use the ALTER TRIGGER and DROP TRIGGER statements to modify or remove a trigger.
+- There are different types of triggers, such as row-level triggers, statement-level triggers, before triggers, after triggers, instead of triggers, and compound triggers. Each type of trigger has its own advantages and disadvantages, depending on the application logic and performance requirements.

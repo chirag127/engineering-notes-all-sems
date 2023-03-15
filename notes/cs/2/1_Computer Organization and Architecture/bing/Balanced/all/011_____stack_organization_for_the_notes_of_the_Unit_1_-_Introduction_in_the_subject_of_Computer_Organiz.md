@@ -1,0 +1,27 @@
+# Stack Organization
+
+- Stack is a storage structure that stores information in such a way that the last item stored is the first item retrieved.
+- It is based on the principle of LIFO (Last-in-first-out).
+- The stack in digital computers is a group of memory locations with a register that holds the address of top of element.
+- The register that holds the top of stack address is called the stack pointer (SP).
+- The stack pointer is incremented or decremented as data is pushed or popped from the stack.
+- The stack can be used for various purposes, such as:
+  - Storing return addresses of subroutines.
+  - Passing parameters to subroutines.
+  - Saving and restoring the state of the CPU.
+  - Evaluating arithmetic and logical expressions.
+  - Implementing recursion.
+- The computers that use stack-based CPU organization are based on a data structure called a stack machine.
+- A stack machine is a computer that uses a stack to hold operands and results of arithmetic and logical operations.
+- A stack machine has no general-purpose registers, only a stack pointer.
+- The stack acts as a source and destination, push and pop instructions are used to access instructions and data from the stack.
+- There is no need to pass the source and destination address because the default address is top of the stack.
+- In a stack machine, there is no need to pass explicit addresses in the instruction.
+- The advantages of stack organization are:
+  - Simplicity of instruction format and decoding.
+  - Reduced memory access and bandwidth requirements.
+  - Ease of implementation of subroutines and recursion.
+- The disadvantages of stack organization are:
+  - Limited parallelism and pipelining.
+  - Dependence on the stack pointer.
+  - Increased number of instructions.

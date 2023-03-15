@@ -1,0 +1,28 @@
+### Functional Testing (Black Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Functional testing is a quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test.
+- Functional testing usually describes what the system does, not how it does it. The internal program structure is rarely considered (unlike white-box testing).
+- Functional testing can be done at different levels of software development, such as unit testing, integration testing, system testing, and acceptance testing.
+- Functional testing can be done manually or with the help of automated tools.
+- Functional testing can be classified into two types: positive testing and negative testing. Positive testing verifies that the system works as expected for valid inputs and conditions. Negative testing checks that the system handles invalid inputs and errors gracefully.
+- Functional testing can cover various aspects of the software functionality, such as:
+  - Input and output validation
+  - Data manipulation and processing
+  - User interface and navigation
+  - Security and access control
+  - Business rules and logic
+  - Compatibility and interoperability
+  - Performance and reliability
+- Functional testing can be done using various techniques, such as:
+  - Equivalence partitioning: dividing the input domain into equivalent classes and selecting one representative value from each class for testing.
+  - Boundary value analysis: testing the values at the boundaries of the input domain, such as minimum, maximum, and just inside and outside the boundaries.
+  - Decision table testing: using a table to represent the combinations of inputs and outputs for different scenarios and rules.
+  - State transition testing: testing the behavior of the system when it changes from one state to another based on inputs and events.
+  - Use case testing: testing the system based on the user's perspective and actions.
+  - Error guessing: using intuition and experience to guess the possible errors and defects in the system.
+- Functional testing can be done in the following ways:
+  - Syntax-driven testing: applied to systems that can be syntactically represented by some language, such as compilers and languages that can be represented by a context-free grammar.
+  - Graph-based testing: applied to systems that can be modeled by a graph, such as finite state machines and control flow graphs.
+  - Error-based testing: applied to systems that have known or predictable errors, such as boundary errors and overflow errors.
+  - Domain testing: applied to systems that have a well-defined input domain, such as mathematical functions and algorithms.
+  - Random testing: applied to systems that have a large or complex input domain, such as operating systems and networks.

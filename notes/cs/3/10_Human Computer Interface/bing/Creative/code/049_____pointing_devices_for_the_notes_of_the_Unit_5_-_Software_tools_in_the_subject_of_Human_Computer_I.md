@@ -1,0 +1,13 @@
+### Pointing devices for the notes of the Unit 5 - Software tools in the subject of Human Computer Interface
+
+- A pointing device is a human interface device that allows a user to input spatial (i.e., continuous and multi-dimensional) data to a computer.
+- Pointing devices are used to control graphical user interfaces (GUIs), computer-aided design (CAD) systems, and other applications that require precise and intuitive manipulation of graphical elements.
+- There are several types of pointing devices used in human-computer interaction, including:
+  - Computer mouse: A hand-held device that moves a cursor on the screen by detecting its relative motion on a surface. It usually has one or more buttons that can be used to select, drag, or perform other actions .
+  - Trackball: A device that consists of a ball that can be rotated by the user's fingers or palm. The rotation of the ball is translated into cursor movement on the screen. It also has buttons for selection and other functions .
+  - Touchpad: A device that uses a flat surface that can sense the position and movement of the user's finger. The finger acts as a pointer on the screen and can perform various gestures to control the interface  .
+  - Stylus: A device that resembles a pen and can be used to draw, write, or tap on a touch-sensitive screen. It can provide more accuracy and pressure sensitivity than a finger .
+  - Joystick: A device that consists of a stick that can be tilted in different directions to control the movement of a cursor or an object on the screen. It can also have buttons or triggers for additional functions .
+  - Graphic tablet: A device that uses a flat surface that can sense the position and pressure of a stylus or a finger. It can be used to create or edit digital drawings, paintings, or sketches .
+- Pointing devices inform functionality by providing feedback to the user about the state and behavior of the interface. For example, the shape, color, and size of the cursor can indicate the type of action that can be performed, such as selecting, resizing, or moving an object.
+- Pointing devices also enable direct manipulation, which is a principle of human-computer interaction that states that users should be able to interact with graphical objects on the screen as if they were real physical objects. Direct manipulation can enhance the user's sense of control, engagement, and satisfaction.

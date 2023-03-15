@@ -1,0 +1,30 @@
+# Sort a given set of n integer elements using Quick Sort method and compute its time complexity. Run the program for varied values of n> 5000 and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the divide and- conquer method works along with its time complexity analysis: worst case, average case and best case.
+
+- Quick Sort is a sorting algorithm that uses the divide and conquer method to sort a given set of n integer elements.
+- The algorithm works as follows:
+  - Choose a pivot element from the array, usually the first or the last element.
+  - Partition the array into two subarrays, such that all the elements less than or equal to the pivot are in the left subarray, and all the elements greater than the pivot are in the right subarray.
+  - Recursively sort the left and right subarrays using the same algorithm.
+  - Combine the sorted subarrays into a single sorted array.
+- The time complexity of Quick Sort depends on the choice of the pivot element and the distribution of the elements in the array.
+  - The worst case occurs when the pivot element is the smallest or the largest element in the array, or when the array is already sorted or reverse sorted. In this case, the algorithm partitions the array into two subarrays of size n-1 and 1, resulting in a recursive depth of n and a time complexity of O(n^2).
+  - The average case occurs when the pivot element is close to the median of the array, or when the array is randomly shuffled. In this case, the algorithm partitions the array into two subarrays of size n/2, resulting in a recursive depth of log n and a time complexity of O(n log n).
+  - The best case occurs when the pivot element is the median of the array, or when the array is uniformly distributed. In this case, the algorithm partitions the array into two subarrays of size n/2, resulting in a recursive depth of log n and a time complexity of O(n log n).
+- To run the program for varied values of n> 5000 and record the time taken to sort, the following steps can be followed:
+  - Import the java.io and java.util packages to read from a file or generate random numbers, and to measure the time taken by the algorithm.
+  - Define a class QuickSort that contains a static method quickSort that takes an array of integers, a low index and a high index as parameters, and sorts the array using the Quick Sort algorithm.
+  - Define a static method partition that takes an array of integers, a low index and a high index as parameters, and partitions the array around a pivot element, returning the index of the pivot element after partitioning.
+  - Define a static method swap that takes an array of integers and two indices as parameters, and swaps the elements at the given indices in the array.
+  - Define a main method that creates an array of integers of size n, either by reading from a file or by generating random numbers using the Random class.
+  - Define a variable startTime that stores the current time in milliseconds using the System.currentTimeMillis() method.
+  - Call the quickSort method on the array, passing 0 and n-1 as the low and high indices.
+  - Define a variable endTime that stores the current time in milliseconds using the System.currentTimeMillis() method.
+  - Define a variable timeTaken that stores the difference between endTime and startTime, which is the time taken by the algorithm to sort the array.
+  - Print the array and the timeTaken to the standard output or to a file.
+  - Repeat the above steps for different values of n> 5000 and record the timeTaken for each value of n.
+- To plot a graph of the time taken versus non graph sheet, the following steps can be followed:
+  - Create a non graph sheet, such as a spreadsheet or a table, that contains two columns: n and timeTaken, where n is the size of the array and timeTaken is the time taken by the algorithm to sort the array for each value of n.
+  - Use a suitable software or tool, such as Excel or Google Sheets, to create a scatter plot or a line chart using the data from the non graph sheet, where the x-axis represents n and the y-axis represents timeTaken.
+  - Label the axes and the title of the graph appropriately, and adjust the scale and the format of the graph as needed.
+  - Analyze the graph and observe the trend and the shape of the curve, and compare it with the theoretical time complexity of the algorithm.
+- To demonstrate using Java how the divide and conquer method works along

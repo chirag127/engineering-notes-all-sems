@@ -1,0 +1,8 @@
+## Unit 4 - Symbol Tables
+
+1. **Introduction**: A symbol table is a data structure used by a language translator such as a compiler or interpreter, where each identifier in a program's source code is associated with information relating to its declaration or appearance in the source.
+2. **Purpose**: The main purpose of a symbol table is to keep track of the various identifiers used in a program, such as variable names, function names, and labels, and to store information about each identifier, such as its type, scope, and memory location.
+3. **Implementation**: Symbol tables can be implemented using various data structures, such as hash tables, binary search trees, or linked lists. The choice of data structure depends on factors such as the number of identifiers in the program and the frequency of lookups and insertions.
+4. **Operations**: The primary operations performed on a symbol table are insertion, lookup, and deletion. Insertion adds a new identifier to the table along with its associated information. Lookup retrieves the information associated with an identifier. Deletion removes an identifier and its associated information from the table.
+5. **Scoping**: Symbol tables can be used to implement scoping rules, where the visibility and lifetime of an identifier are determined by its position in the program's source code. For example, in block-structured languages, a new symbol table is typically created for each block, and identifiers declared within a block are only visible within that block and its nested blocks.
+6. **Applications**: In addition to their use in language translators, symbol tables are also used in other areas of computer science, such as debugging, profiling, and code optimization.

@@ -1,0 +1,21 @@
+#### CO 3 Design and analyze top down and bottom up parsers. K4, K5
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A top down parser is a parser that starts from the start symbol of the grammar and tries to derive the input by applying the production rules in a top down manner.
+- A bottom up parser is a parser that starts from the input and tries to construct the parse tree by applying the production rules in a bottom up manner.
+- The advantages of top down parsing are:
+  - It is easy to implement and understand.
+  - It can handle left recursion and left factoring.
+  - It can produce a leftmost derivation of the input.
+- The disadvantages of top down parsing are:
+  - It may generate unnecessary prefixes that do not match the input.
+  - It may backtrack or guess when there are multiple choices for a production rule.
+  - It cannot handle grammars that are not LL(1), i.e., grammars that require more than one symbol of lookahead to decide the next production rule.
+- The advantages of bottom up parsing are:
+  - It can handle a larger class of grammars, including LR(1) grammars, which are more expressive than LL(1) grammars.
+  - It can produce a rightmost derivation of the input in reverse order.
+  - It does not backtrack or guess, as it only applies a production rule when there is a valid handle in the input.
+- The disadvantages of bottom up parsing are:
+  - It is more complex and difficult to implement and understand.
+  - It may require a large amount of memory to store the parser stack and the parsing table.
+  - It cannot handle grammars that are not LR(1), i.e., grammars that have shift-reduce or reduce-reduce conflicts.

@@ -1,0 +1,13 @@
+# Parsers for the notes of the Unit 2 - Basic Parsing Techniques in the subject of Compiler Design
+
+- A parser is a program that is part of the compiler, and parsing is part of the compiling process.
+- Parsing happens during the analysis stage of compilation. In parsing, code is taken from the preprocessor, broken into smaller pieces and analyzed so other software can understand it.
+- The parser takes a token string as input and with the help of existing grammar, converts it into the corresponding Intermediate Representation (IR). The parser is also known as Syntax Analyzer.
+- The parser checks the syntax of the source program and reports any errors. It also constructs a parse tree or syntax tree, which is a hierarchical representation of the structure of the source program.
+- There are two main types of parsers: top-down parsers and bottom-up parsers.
+  - Top-down parsers start from the root of the parse tree and try to match the input with the leftmost derivation of the grammar. They can be further classified into recursive descent parsers and predictive parsers.
+    - Recursive descent parsers use recursive procedures to process each non-terminal symbol in the grammar. They may have more than one production to choose from for a single instance of input, which leads to backtracking.
+    - Predictive parsers use a parsing table to decide which production to apply based on the input and stack element combination. They do not require backtracking, but they can only handle a subset of grammars called LL(1) grammars.
+  - Bottom-up parsers start from the leaves of the parse tree and try to reduce the input to the start symbol of the grammar. They can be further classified into shift-reduce parsers and operator-precedence parsers.
+    - Shift-reduce parsers use a stack and an input buffer to perform two operations: shift and reduce. Shift moves a symbol from the input buffer to the stack, and reduce applies a production to replace a string of symbols on the top of the stack. They can handle a larger class of grammars than predictive parsers, but they may encounter conflicts.
+    - Operator-precedence parsers are a special type of shift-reduce parsers that can handle expressions with operators and operands. They use a precedence table to determine the relative precedence of the operators and operands in the input. They can only handle a subset of grammars called operator-precedence grammars.

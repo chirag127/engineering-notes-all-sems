@@ -1,0 +1,10 @@
+### Quality of service for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- Quality of service (QoS) is the ability of a network to provide reliable service to the traffic over various technologies and applications  .
+- QoS is important for the transport layer because it determines what type of service to provide to the session layer and the users of the network.
+- QoS can be affected by various factors such as bandwidth, delay, jitter, packet loss, and error rate  .
+- Some techniques that can be used to improve QoS are   :
+  - Scheduling: It is the process of deciding which packet to send next on a link based on its priority, size, or arrival time. Scheduling can help reduce delay and jitter, and ensure fairness among different flows. Some examples of scheduling algorithms are First Come First Serve (FCFS), Priority Queueing (PQ), Weighted Fair Queueing (WFQ), and Random Early Detection (RED).
+  - Traffic shaping: It is the process of controlling the rate and burstiness of traffic sent on a link. Traffic shaping can help smooth out traffic fluctuations and prevent congestion. Some examples of traffic shaping techniques are Leaky Bucket, Token Bucket, and Generic Cell Rate Algorithm (GCRA).
+  - Admission control: It is the process of deciding whether to accept or reject a new flow request based on the available resources and the QoS requirements of the flow. Admission control can help avoid overloading the network and guarantee the QoS for the accepted flows. Some examples of admission control protocols are Integrated Services (IntServ) and Differentiated Services (DiffServ).
+  - Resource reservation: It is the process of allocating network resources such as bandwidth, buffer, or processing power to a flow based on its QoS requirements. Resource reservation can help ensure the QoS for the reserved flows and avoid interference from other flows. Some examples of resource reservation protocols are Resource Reservation Protocol (RSVP) and Multiprotocol Label Switching (MPLS).

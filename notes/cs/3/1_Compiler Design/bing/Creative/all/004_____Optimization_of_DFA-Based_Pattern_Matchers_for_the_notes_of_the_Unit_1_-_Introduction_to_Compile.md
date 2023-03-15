@@ -1,0 +1,15 @@
+# Optimization of DFA-Based Pattern Matchers
+
+- A pattern matcher is a program that takes a text and a pattern as input and finds all the occurrences of the pattern in the text.
+- A pattern can be specified by a regular expression, which is a concise way of describing a set of strings that share some common features.
+- A regular expression can be converted to a finite automaton, which is a machine that can recognize the strings that match the pattern.
+- A finite automaton can be either nondeterministic (NFA) or deterministic (DFA). An NFA can have multiple transitions from a state on the same input symbol, while a DFA can have only one transition from a state on any input symbol.
+- A DFA is more efficient than an NFA for pattern matching, because it can process the input text in one pass, without backtracking or guessing. However, a DFA may have more states than an NFA, which can increase the memory and time requirements of the pattern matcher.
+- Therefore, it is desirable to optimize the DFA-based pattern matcher by reducing the number of states and transitions, while preserving the functionality and correctness of the pattern matcher.
+- There are three main algorithms that can be used to optimize the DFA-based pattern matcher:
+
+  - The first algorithm is to convert a regular expression directly to a DFA, without constructing an intermediate NFA. This can save the time and space of converting an NFA to a DFA, which can be exponential in the worst case. The algorithm uses a syntax tree to represent the regular expression, and computes some functions on the tree nodes to construct the DFA states and transitions. The algorithm is based on the following paper: Aho, A. V., & Ullman, J. D. (1972). The theory of parsing, translation, and compiling. Volume I: Parsing. Prentice-Hall, Inc. 
+  - The second algorithm is to minimize the number of states of a DFA, by finding and merging equivalent states. Two states are equivalent if they have the same behavior on any input string, that is, they lead to the same final state or to the same nonfinal state. The algorithm uses a partitioning technique to divide the states into equivalence classes, and replaces each class by a single representative state. The algorithm is based on the following paper: Hopcroft, J. E. (1971). An n log n algorithm for minimizing states in a finite automaton. In Z. Kohavi (Ed.), Theory of machines and computations (pp. 189-196). Academic Press. 
+  - The third algorithm is to compress the transition table of a DFA, by exploiting the regularities and redundancies in the table. The algorithm uses a technique called table filling to find and eliminate the redundant entries in the table, and then uses a technique called table splitting to divide the table into smaller and more compact subtables. The algorithm is based on the following paper: Larsson, N. J., & Moffat, A. (2000). Off-line dictionary-based compression. Proceedings of the IEEE, 88(11), 1722-1732. 
+
+- These algorithms can be applied separately or in combination to optimize the DFA-based pattern matcher for different criteria, such as speed, space, or simplicity.

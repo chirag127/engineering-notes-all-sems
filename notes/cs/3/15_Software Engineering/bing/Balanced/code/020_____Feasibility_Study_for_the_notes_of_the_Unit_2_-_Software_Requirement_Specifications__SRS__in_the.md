@@ -1,0 +1,30 @@
+### Feasibility Study for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- A feasibility study is a study conducted to ascertain the viability of a structure or strategy .
+- It is also one of the requirements of the engineering process.
+- It is required when a client proposes a company to develop a product with a rough understanding of software functions and what functionality they necessitate from the software.
+- The feasibility study helps to determine whether the project is worth pursuing or not, and what are the possible risks and benefits involved .
+- The feasibility study involves four main types of analysis:
+  - Operational feasibility: It evaluates whether the proposed system can be integrated with the existing business processes and user needs .
+  - Technical feasibility: It evaluates whether the proposed system can be developed and deployed with the available technology, resources, and skills  .
+  - Economic feasibility: It evaluates whether the proposed system can be justified in terms of costs and benefits .
+  - Schedule feasibility: It evaluates whether the proposed system can be completed within the given time frame and budget .
+- The feasibility study is usually conducted by a team of experts from different domains, such as business analysts, software engineers, project managers, and stakeholders .
+- The feasibility study follows a systematic process that includes the following steps :
+  - Define the problem and the scope of the project
+  - Identify the alternative solutions and their criteria
+  - Analyze and compare the alternatives based on the criteria
+  - Select the best alternative and prepare a feasibility report
+  - Present and review the feasibility report with the stakeholders
+- The feasibility study is an important document that provides the basis for the software requirement specifications (SRS), which is the next stage of the software engineering process .
+- The SRS is a detailed description of the functional and non-functional requirements of the software system, as well as the constraints and assumptions involved .
+- The SRS helps to communicate the expectations and needs of the client and the developers, and to avoid any ambiguity or misunderstanding .
+- The SRS follows a standard format that includes the following sections :
+  - Introduction: It provides the background, purpose, scope, and overview of the document
+  - System overview: It provides a brief description of the system and its context
+  - System requirements: It provides a detailed list of the functional and non-functional requirements of the system, as well as the priority and dependencies of each requirement
+  - System models: It provides a graphical representation of the system and its components, such as use case diagrams, data flow diagrams, entity-relationship diagrams, etc.
+  - System specifications: It provides a technical description of the system and its components, such as hardware, software, interfaces, protocols, etc.
+  - Appendices: It provides any additional information or references that are relevant to the document
+- The SRS is a dynamic document that can be updated and revised throughout the software development life cycle, as new requirements or changes emerge .
+- The SRS is a critical document that affects the quality and success of the software system, and therefore it should be clear, complete, consistent, verifiable, and traceable .

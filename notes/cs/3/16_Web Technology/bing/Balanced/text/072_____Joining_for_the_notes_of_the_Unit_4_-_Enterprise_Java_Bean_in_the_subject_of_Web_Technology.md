@@ -1,0 +1,9 @@
+### Joining for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+
+- Enterprise Java Beans (EJB) are server-side components that encapsulate the business logic of an application. They run inside a container that provides services such as security, transaction management, concurrency control, and dependency injection.
+- EJBs can be divided into two types: session beans and message-driven beans. Session beans are stateful or stateless components that handle requests from clients. Message-driven beans are components that receive and process messages asynchronously from a message queue or topic.
+- EJBs follow a component-based architecture that allows for reusability, scalability, and portability. They can be deployed on any Java EE compliant application server, such as GlassFish, JBoss, or WebLogic.
+- EJBs can interact with other components using various protocols, such as Remote Method Invocation (RMI), Java Message Service (JMS), Java Database Connectivity (JDBC), Java Persistence API (JPA), and Java Naming and Directory Interface (JNDI).
+- EJBs can be developed using annotations or XML descriptors to specify the configuration and metadata of the components. They can also use dependency injection to access the resources and services provided by the container.
+- EJBs can be accessed by clients using different methods, such as local or remote interfaces, web services, or RESTful APIs. Clients can also use the EJB lookup service to locate and invoke EJBs by their names.
+- EJBs can implement various design patterns, such as facade, singleton, proxy, or interceptor, to achieve modularity, performance, security, or cross-cutting concerns. They can also use callbacks and listeners to handle lifecycle events or business logic events.

@@ -1,0 +1,22 @@
+### Loop optimization
+
+- Loop optimization is the process of increasing execution speed and reducing the overheads associated with loops .
+- It plays an important role in improving cache performance and making effective use of parallel processing capabilities .
+- Loop optimization can be viewed as the application of a sequence of specific loop transformations to the source code or intermediate representation, with each transformation having an associated test for legality.
+- Some common loop transformations are  :
+  - Loop invariant code motion: moving computations that do not depend on the loop iteration outside of the loop.
+  - Loop unrolling: replicating the loop body multiple times to reduce the number of loop iterations and branch instructions.
+  - Loop fusion: combining two or more loops that have the same iteration space into one loop to improve locality and reduce loop overheads.
+  - Loop fission: splitting a loop into two or more loops that have the same iteration space but perform different computations to improve parallelism and cache utilization.
+  - Loop interchange: changing the order of nested loops to improve locality and cache performance.
+  - Loop tiling: dividing a loop into smaller subloops that operate on subarrays or submatrices to fit the cache size and improve locality.
+  - Loop peeling: executing one or more iterations of a loop before or after the main loop to simplify the loop condition or enable other optimizations.
+  - Loop reversal: changing the direction of a loop from increasing to decreasing or vice versa to enable other optimizations or simplify loop bounds.
+  - Loop distribution: distributing a loop that performs multiple independent computations into several loops that perform one computation each to improve parallelism and locality.
+  - Loop collapsing: transforming a nested loop into a single loop by using a single index variable to improve parallelism and reduce loop overheads.
+  - Loop skewing: shifting the iteration space of a nested loop by a constant factor to eliminate or reduce loop-carried dependences and enable parallelization.
+  - Loop alignment: aligning the loop iterations with the cache line boundaries to reduce cache misses and improve performance.
+  - Loop vectorization: using vector instructions to perform multiple operations in parallel within a loop iteration to exploit data-level parallelism and improve performance.
+  - Loop parallelization: using multiple threads or processes to execute different iterations of a loop in parallel to exploit task-level parallelism and improve performance.
+- Loop optimization is usually performed by the compiler after analyzing the loop structure, data dependences, and memory access patterns  .
+- Loop optimization can have significant impact on the performance, scalability, and energy efficiency of scientific and numerical applications that heavily rely on loops  .

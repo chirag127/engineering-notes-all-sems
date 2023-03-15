@@ -1,0 +1,26 @@
+## Unit 1 - Introduction
+
+- This unit introduces the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be divided into two main branches: symbolic AI and sub-symbolic AI.
+- Symbolic AI uses logic, rules, and symbols to represent and manipulate knowledge. Examples of symbolic AI include expert systems, knowledge bases, and logic programming.
+- Sub-symbolic AI uses numerical and statistical methods to model and learn from data. Examples of sub-symbolic AI include neural networks, evolutionary algorithms, and reinforcement learning.
+- AI can also be classified according to the type and complexity of the problem it solves. Some common types of AI problems are:
+  - Search: finding a solution or a path from a given state to a goal state, such as in chess or navigation.
+  - Planning: generating and executing a sequence of actions to achieve a goal, such as in robotics or scheduling.
+  - Constraint satisfaction: finding values for a set of variables that satisfy a set of constraints, such as in sudoku or timetabling.
+  - Optimization: finding the best or optimal solution among a set of possible solutions, such as in traveling salesman or portfolio selection.
+  - Classification: assigning a label or a category to an input, such as in spam detection or face recognition.
+  - Regression: predicting a numerical value for an input, such as in stock price prediction or weather forecasting.
+  - Clustering: grouping similar inputs together, such as in customer segmentation or image segmentation.
+  - Natural language processing: understanding and generating natural language, such as in machine translation or chatbots.
+  - Computer vision: processing and interpreting visual information, such as in face detection or object recognition.
+  - Speech recognition: converting speech signals into text, such as in voice assistants or dictation software.
+  - Speech synthesis: converting text into speech signals, such as in text-to-speech or voice feedback.
+  - Machine learning: the subfield of AI that focuses on creating systems that can learn from data and improve their performance over time, such as in neural networks or reinforcement learning.
+- AI systems can be evaluated according to various criteria, such as:
+  - Accuracy: how well the system performs the task or produces the correct output.
+  - Efficiency: how fast or how much resources the system uses to perform the task or produce the output.
+  - Robustness: how well the system handles errors, uncertainties, or changes in the input or the environment.
+  - Explainability: how well the system can provide reasons or justifications for its actions or outputs.
+  - Ethicality: how well the system respects the moral values and principles of humans and society, such as fairness, privacy, or safety.

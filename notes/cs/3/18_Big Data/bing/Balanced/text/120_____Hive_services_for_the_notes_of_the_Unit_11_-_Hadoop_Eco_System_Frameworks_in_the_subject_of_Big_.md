@@ -1,0 +1,9 @@
+### Hive Services
+
+Hive services are the components that perform client interactions with Hive. They allow users to submit queries and commands to Hive and retrieve the results. Some of the main Hive services are:
+
+- **HiveServer2**: This is the main service that provides a JDBC/ODBC interface for clients to connect to Hive and execute queries. It also supports authentication, authorization, and encryption. HiveServer2 can run in different modes, such as embedded, local, or remote. It can also handle multiple concurrent sessions and operations from different clients.  
+- **Beeline**: This is a command-line shell that connects to HiveServer2 and allows users to submit queries and commands to Hive. It is based on the SQLLine tool and supports various features such as command history, tab completion, and scripting. Beeline can also run in embedded mode, where it directly connects to the Hive driver without using HiveServer2. 
+- **Hive Web Interface (HWI)**: This is a web-based graphical user interface that allows users to browse the Hive metadata, execute queries, and view the results. It also provides some basic administration and monitoring features. HWI is deprecated in Hive 2.0 and replaced by Hive View 2.0, which is a part of Ambari. 
+- **Hive Metastore**: This is a service that stores the metadata of the tables, partitions, columns, and schemas in Hive. It also provides a thrift interface for other Hive services and clients to access and manipulate the metadata. The Hive Metastore can use different back-end databases, such as MySQL, PostgreSQL, Oracle, or Derby.  
+- **Hive CLI**: This is a legacy command-line interface that allows users to interact with Hive. It is deprecated in Hive 2.0 and replaced by Beeline. Hive CLI does not support authentication, authorization, or encryption, and it can only connect to a single HiveServer2 instance.

@@ -1,0 +1,11 @@
+### Comparison with traditional databases
+
+- Traditional databases are based on the relational model, which organizes data into tables with predefined schema and supports SQL queries for data manipulation and analysis.
+- Hadoop is a framework for distributed processing of large-scale data using a cluster of commodity hardware and software components such as HDFS, MapReduce, YARN, and various tools and libraries.
+- Some of the main differences between traditional databases and Hadoop are:
+
+  - Data volume: Traditional databases can handle data in the range of gigabytes or terabytes, but may struggle with larger data sets. Hadoop can scale up to handle data in the range of petabytes or exabytes, by adding more nodes to the cluster.
+  - Data variety: Traditional databases can handle structured data that conforms to a fixed schema, but may have difficulty with semi-structured or unstructured data, such as text, images, audio, video, etc. Hadoop can handle any type of data, regardless of its format or structure, by using different file formats and processing frameworks.
+  - Data velocity: Traditional databases can handle data that is generated at a steady and predictable rate, but may not be able to cope with data that is generated at a high speed and in real time, such as sensor data, social media data, etc. Hadoop can handle data that is generated at any speed, by using streaming frameworks such as Kafka, Spark Streaming, etc.
+  - Data processing: Traditional databases use SQL queries to perform data analysis, which are declarative and easy to use, but may have limitations in terms of expressiveness, performance, and scalability. Hadoop uses MapReduce or other frameworks to perform data analysis, which are more flexible and powerful, but may require more programming skills and complexity.
+  - Data storage: Traditional databases use a centralized storage system, such as a disk or a SAN, which may have high performance and reliability, but also high cost and maintenance. Hadoop uses a distributed storage system, such as HDFS, which splits the data into blocks and replicates them across the cluster, which may have lower performance and reliability, but also lower cost and higher fault tolerance.

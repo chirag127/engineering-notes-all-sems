@@ -1,0 +1,13 @@
+# Change Control Process
+
+- Change control is a systematic approach to managing all changes made to a product or system.
+- The purpose is to ensure that no unnecessary changes are made, that all changes are documented, that services are not unnecessarily disrupted and that resources are used efficiently.
+- Change control is an important part of software maintenance and software project management, as it helps to ensure the quality, reliability and security of the software.
+- Change control process typically involves the following steps:
+
+  - **Identification**: A change request is initiated by a stakeholder, such as a user, a developer, a tester, a manager or a customer. The request should describe the problem or the need for change, the proposed solution, the benefits and the costs of the change.
+  - **Analysis**: The change request is analyzed by a change control board (CCB), which is a group of people who have the authority and responsibility to approve or reject changes. The CCB evaluates the impact, feasibility, priority and risks of the change. The CCB may also consult with other stakeholders or experts for more information or feedback.
+  - **Approval**: The CCB decides whether to approve, reject or defer the change request. The decision is communicated to the requester and other stakeholders. If the change is approved, the CCB assigns a change owner, who is responsible for implementing the change.
+  - **Implementation**: The change owner carries out the change according to the approved plan. The change owner may need to coordinate with other developers, testers, users or customers to ensure the change is implemented correctly and consistently. The change owner also documents the change and updates the configuration management system.
+  - **Verification**: The change is verified by testing, reviewing or auditing to ensure that it meets the requirements and does not introduce any errors or defects. The verification results are reported to the CCB and other stakeholders. If the change is not satisfactory, the CCB may request a revision or a rollback of the change.
+  - **Closure**: The change is formally closed when it is verified, accepted and deployed. The CCB updates the change status and the change log. The change owner and other stakeholders are notified of the closure. The change is evaluated for its effectiveness and lessons learned are recorded for future improvement.

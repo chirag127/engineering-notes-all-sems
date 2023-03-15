@@ -1,0 +1,10 @@
+### Instructions that can be assembled and run using an 8086 assembler
+
+- The 8086 microprocessor supports a variety of instructions that can be classified into different categories, such as data transfer, arithmetic, logical, control transfer, string, processor control, and miscellaneous instructions.
+- The data transfer instructions are used to move data between registers, memory, and I/O ports. Some examples of data transfer instructions are MOV, PUSH, POP, XCHG, IN, and OUT.
+- The arithmetic instructions are used to perform arithmetic operations like addition, subtraction, multiplication, division, and increment/decrement. Some examples of arithmetic instructions are ADD, SUB, MUL, DIV, INC, and DEC.
+- The logical instructions are used to perform bitwise logical operations like AND, OR, XOR, NOT, and complement. Some examples of logical instructions are AND, OR, XOR, NOT, and NEG.
+- The control transfer instructions are used to alter the sequence of execution of the program based on certain conditions or unconditionally. Some examples of control transfer instructions are JMP, JZ, JNZ, CALL, RET, and INT.
+- The string instructions are used to perform operations on strings of bytes or words. Some examples of string instructions are MOVSB, MOVSW, CMPSB, CMPSW, SCASB, SCASW, LODSB, LODSW, STOSB, and STOSW.
+- The processor control instructions are used to control the operation of the processor, such as enabling or disabling interrupts, setting or clearing flags, and entering or exiting from a halt state. Some examples of processor control instructions are CLI, STI, CLC, STC, HLT, and NOP.
+- The miscellaneous instructions are used to perform some special functions that do not fall into any of the above categories, such as converting a binary number to a packed decimal number, or adjusting the result of an arithmetic operation. Some examples of miscellaneous instructions are AAA, AAD, AAM, AAS, DAA, DAS, and CBW.

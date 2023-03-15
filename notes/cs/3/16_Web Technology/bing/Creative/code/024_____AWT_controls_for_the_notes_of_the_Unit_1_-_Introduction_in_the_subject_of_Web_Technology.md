@@ -1,0 +1,13 @@
+### AWT controls
+
+- AWT stands for **Abstract Window Toolkit**, which is a set of APIs for developing graphical user interfaces or web applications in Java .
+- AWT controls are components that allow a user to interact with the application in various ways, such as clicking buttons, entering text, selecting options, etc .
+- AWT controls are subclasses of the `java.awt.Component` class, which is the root class for all AWT components .
+- AWT controls can be categorized into two types: **heavyweight** and **lightweight** .
+  - Heavyweight controls are those that are associated with a native peer, which is a platform-dependent object that handles the rendering and events of the control. Examples of heavyweight controls are `Button`, `Label`, `TextField`, `TextArea`, `List`, `Choice`, `Checkbox`, `CheckboxGroup`, `Scrollbar`, etc  .
+  - Lightweight controls are those that are not associated with a native peer, and are rendered by Java code. Examples of lightweight controls are `Canvas`, `Panel`, `Window`, `Frame`, `Dialog`, `FileDialog`, etc  .
+- AWT controls can be added to a container, which is a component that can hold other components. A container is also a subclass of `java.awt.Component`, but it implements the `java.awt.Container` interface, which provides methods for adding, removing, and managing components .
+- AWT controls can be arranged in a container using a layout manager, which is an object that controls the size and position of the components. A layout manager is an instance of a subclass of `java.awt.LayoutManager`, which defines the interface for layout managers. Examples of layout managers are `FlowLayout`, `BorderLayout`, `GridLayout`, `CardLayout`, etc .
+- AWT controls can respond to user events, such as mouse clicks, keyboard inputs, window closing, etc. A user event is represented by an object of a subclass of `java.awt.AWTEvent`, which contains information about the event, such as the source, the type, the time, etc  .
+- AWT controls can register listeners, which are objects that implement a specific interface for handling a specific type of event. A listener interface defines one or more methods that are invoked when the event occurs. Examples of listener interfaces are `ActionListener`, `MouseListener`, `KeyListener`, `WindowListener`, etc  .
+- AWT controls can also generate custom events, which are subclasses of `java.awt.AWTEvent`, and fire them to the registered listeners using the `java.awt.EventQueue` class, which manages the event dispatching thread  .

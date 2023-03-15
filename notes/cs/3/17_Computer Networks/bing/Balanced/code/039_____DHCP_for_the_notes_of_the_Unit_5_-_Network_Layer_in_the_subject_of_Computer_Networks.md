@@ -1,0 +1,22 @@
+# DHCP
+
+- DHCP stands for Dynamic Host Configuration Protocol   .
+- It is a network management protocol that automatically assigns IP addresses and other communication parameters to devices connected to an IP network using a client-server architecture   .
+- It is based on the Bootstrap Protocol (BOOTP), which was designed for diskless workstations .
+- It is defined by RFCs 2131 and 2132, and is an Internet Engineering Task Force (IETF) standard.
+- It reduces the need for manual configuration and administration of IP settings, and allows for dynamic allocation and reuse of IP addresses   .
+- It consists of four main components: a DHCP client, a DHCP server, a DHCP relay agent, and a DHCP database.
+- A DHCP client is a device that requests IP configuration information from a DHCP server .
+- A DHCP server is a device that maintains a pool of available IP addresses and leases them to DHCP clients for a specified period of time .
+- A DHCP relay agent is a device that forwards DHCP messages between DHCP clients and DHCP servers on different subnets.
+- A DHCP database is a storage system that keeps track of the IP address assignments and other DHCP options for each DHCP client.
+- The DHCP process involves four basic steps: discover, offer, request, and acknowledge (DORA)   .
+- In the discover step, the DHCP client broadcasts a DHCPDISCOVER message to locate a DHCP server   .
+- In the offer step, the DHCP server responds with a DHCPOFFER message that contains an IP address and other configuration parameters for the DHCP client   .
+- In the request step, the DHCP client selects one of the offers and sends a DHCPREQUEST message to the DHCP server to confirm the IP address and other parameters   .
+- In the acknowledge step, the DHCP server sends a DHCPACK message to the DHCP client to finalize the IP address assignment and update the DHCP database   .
+- The DHCP client can also send a DHCPRELEASE message to the DHCP server to terminate the lease and release the IP address  .
+- The DHCP server can also send a DHCPNAK message to the DHCP client to reject the request or indicate an invalid configuration  .
+- The DHCP protocol supports various options that can be included in the DHCP messages, such as subnet mask, default gateway, domain name, DNS server, and time server  .
+- The DHCP protocol can be used for IPv4 and IPv6 networks, with some differences in the message format and options .
+- The DHCP protocol can be integrated with other network services, such as Dynamic DNS (DDNS), which allows for automatic update of DNS records when the IP address of a DHCP client changes .

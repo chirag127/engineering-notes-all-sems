@@ -1,0 +1,7 @@
+### Dictionary Techniques
+
+- Dictionary techniques are a class of lossless data compression algorithms that operate by searching for matches between the text to be compressed and a set of strings contained in a data structure called the dictionary.
+- The dictionary can be either static or adaptive. A static dictionary is fixed and predefined, while an adaptive dictionary is updated dynamically during the compression and decompression processes.
+- The basic idea of dictionary techniques is to replace repeated occurrences of strings with shorter codes that point to the dictionary entries. This reduces the redundancy and the size of the data.
+- There are many variants of dictionary techniques, such as LZ77, LZ78, LZW, LZSS, LZMA, etc. They differ in how they construct and update the dictionary, how they encode and decode the matches, and how they handle the cases when no match is found.
+- Dictionary techniques are suitable for compressing natural language texts, as they can exploit the common words and phrases that appear frequently. They can also be used for other types of data, such as images, audio, and video, but they may require some modifications or enhancements to achieve better compression ratios.

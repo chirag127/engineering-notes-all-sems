@@ -1,0 +1,22 @@
+### Entity Relationship Diagrams
+
+- Entity Relationship Diagrams (ERDs) are a data modeling method used in software engineering to produce a conceptual data model of an information system.
+- ERDs help to identify different system elements and their relationships with each other. They are often used as the basis for data flow diagrams or DFDs.
+- ERDs consist of different symbols and connectors that visualize two important information: the major entities within the system scope, and the inter-relationships among these entities.
+- An entity is a real-world object or concept that can be identified by its attributes or properties. For example, a student, a course, or a book are entities.
+- A relationship is an association or link between two or more entities. For example, a student enrolls in a course, or a book belongs to a category are relationships.
+- An attribute is a property or characteristic of an entity or a relationship. For example, a student has a name, a course has a code, or a book has a title are attributes.
+- There are different types of entities, relationships, and attributes that can be represented in ERDs. Some of the common ones are:
+  - Strong entity: an entity that can exist independently of other entities. For example, a student or a course are strong entities.
+  - Weak entity: an entity that depends on another entity for its existence. For example, a section or a grade are weak entities that depend on a course or a student respectively.
+  - Identifying relationship: a relationship that connects a weak entity to its owner entity. For example, a section is identified by a course, or a grade is identified by a student and a course.
+  - Non-identifying relationship: a relationship that does not connect a weak entity to its owner entity. For example, a student enrolls in a course, or a book belongs to a category are non-identifying relationships.
+  - One-to-one relationship: a relationship where each entity in one set is associated with at most one entity in another set. For example, a student has one advisor, or a book has one publisher are one-to-one relationships.
+  - One-to-many relationship: a relationship where each entity in one set is associated with zero or more entities in another set. For example, a student enrolls in many courses, or a category has many books are one-to-many relationships.
+  - Many-to-many relationship: a relationship where each entity in one set is associated with zero or more entities in another set, and vice versa. For example, a student takes many courses, and a course has many students are many-to-many relationships.
+  - Composite attribute: an attribute that can be divided into sub-attributes. For example, a name can be divided into first name and last name, or an address can be divided into street, city, and zip code are composite attributes.
+  - Simple attribute: an attribute that cannot be divided into sub-attributes. For example, a code, a title, or a grade are simple attributes.
+  - Derived attribute: an attribute that can be derived from other attributes. For example, an age can be derived from a date of birth, or a total grade can be derived from individual grades are derived attributes.
+  - Multivalued attribute: an attribute that can have more than one value for a given entity. For example, a phone number, an email, or a hobby are multivalued attributes.
+- ERDs can be drawn using different notations, such as Chen notation, Crow's foot notation, or UML notation. Each notation has its own rules and symbols for representing entities, relationships, and attributes.
+- ERDs can be converted into relational schemas, which are the basis for creating relational databases. The conversion process involves applying some rules and constraints to map entities, relationships, and attributes to tables, columns, and keys.

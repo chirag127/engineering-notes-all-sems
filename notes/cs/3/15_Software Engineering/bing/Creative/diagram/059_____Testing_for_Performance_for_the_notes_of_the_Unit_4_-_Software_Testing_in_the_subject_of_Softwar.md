@@ -1,0 +1,28 @@
+### Testing for Performance
+
+- Testing for performance is a type of software testing that ensures software applications to perform properly under their expected workload.
+- It is a subset of performance engineering and is also known as "Perf Testing".
+- The focus of performance testing is checking a software program's speed, scalability, reliability, resource usage and stability under a particular load .
+- The main purpose of performance testing is to identify and eliminate the performance bottlenecks in the software application.
+- Performance testing can be done at different stages of the software development life cycle, such as design, development, integration, testing and deployment.
+- Performance testing can be classified into different types, such as load testing, stress testing, spike testing, endurance testing, volume testing, scalability testing and capacity testing .
+- Performance testing involves the following steps:
+  - Identify the testing environment: Know the physical test environment, production environment and what testing tools are available.
+  - Identify the performance acceptance criteria: This includes goals and constraints for throughput, response times, resource allocation and error rates.
+  - Plan and design performance tests: Define the test scenarios, test data, test cases and test scripts based on the performance objectives and requirements.
+  - Execute performance tests: Run the tests using the test scripts and tools and monitor the system performance and behavior.
+  - Analyze, report and retest: Collect and consolidate the test results, identify the performance issues and bottlenecks, report the findings and recommendations, and retest if needed.
+- Performance testing best practices include:
+  - Define the performance goals and metrics clearly and realistically.
+  - Use a representative test environment and test data that mimic the real-world conditions.
+  - Use appropriate performance testing tools and techniques that suit the application and the objectives.
+  - Perform performance testing throughout the development cycle and not just at the end.
+  - Involve the stakeholders and the developers in the performance testing process and communicate the results and feedback effectively.
+- Performance testing metrics include:
+  - Throughput: The amount of data transferred from the server to the client per unit time.
+  - Response time: The time taken by the system to respond to a user request.
+  - Latency: The time taken by the system to receive the first byte of data from the server after sending a request.
+  - Hits per second: The number of requests sent to the server per second.
+  - Error rate: The percentage of requests that result in errors or failures.
+  - Resource utilization: The amount of CPU, memory, disk and network resources used by the system during the test.
+  - Scalability: The ability of the system to handle increased workload without degrading the performance.

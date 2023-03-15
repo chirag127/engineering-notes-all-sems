@@ -1,0 +1,21 @@
+## Unit 2 - Develop Java programs for window/web-based applications
+
+- Java is a popular programming language that can be used to create dynamic and interactive web applications.
+- Java web applications are composed of servlets, JavaServer Pages (JSPs), JavaBeans, and other components that run on a web server and communicate with a web browser.
+- Java web applications follow a model-view-controller (MVC) architecture, where the servlets handle the requests from the browser, the JSPs generate the views or the HTML pages, and the JavaBeans encapsulate the business logic and data.
+- To develop Java web applications, you need the following tools and technologies:
+  - A Java Development Kit (JDK) that provides the compiler and the runtime environment for Java programs.
+  - A web server that supports the Java Servlet API, such as Apache Tomcat, Jetty, or GlassFish.
+  - An integrated development environment (IDE) that facilitates the coding, debugging, and testing of Java web applications, such as Eclipse, NetBeans, or IntelliJ IDEA.
+  - A web browser that can render HTML, CSS, and JavaScript, and execute Java applets, such as Chrome, Firefox, or Edge.
+- To create a Java web application, you need to perform the following steps:
+  - Create a dynamic web project in your IDE and configure the web server settings.
+  - Write the servlets and JSPs that implement the functionality of your web application and place them in the appropriate folders in the web project.
+  - Write the JavaBeans that store the data and logic of your web application and place them in the source folder of the web project.
+  - Write the web.xml file that defines the configuration and mapping of the servlets and JSPs in your web application and place it in the WEB-INF folder of the web project.
+  - Build and deploy your web project to the web server and test it using the web browser.
+- Java web applications can also use various frameworks and libraries that provide additional features and functionalities, such as Spring, Hibernate, Struts, JSF, etc.
+- Java web applications can also be launched using Java Web Start, which is a technology that allows users to download and run Java applications from a web browser with a single click.
+- Java Web Start uses a special file called JNLP (Java Network Launching Protocol) that describes the properties and resources of the Java application and how to launch it.
+- To use Java Web Start, you need to create a JNLP file for your Java application and place it on a web server, and then provide a link to the JNLP file on your web page.
+- When the user clicks on the link, the JNLP file is downloaded and executed by the Java Web Start software, which then downloads and launches the Java application.

@@ -1,0 +1,11 @@
+### Extended ER Model
+
+- The extended entity-relationship (EER) model is an extension of the entity-relationship (ER) model that incorporates more semantic information into the conceptual design of databases.
+- The EER model introduces new concepts such as **subclasses**, **superclasses**, **specialization**, **generalization**, **category** and **inheritance** to capture more complex and hierarchical relationships among entities and attributes.
+- A **subclass** is a subset of entities that belong to a larger entity set, called a **superclass**. A subclass inherits all the attributes and relationships of its superclass, and may have additional attributes and relationships that are specific to it.
+- A **specialization** is the process of defining one or more subclasses of an entity type based on some distinguishing characteristics. For example, a specialization of EMPLOYEE could be MANAGER, ENGINEER, or SECRETARY, based on the job title attribute.
+- A **generalization** is the reverse process of specialization, where several entity types are combined into a single entity type based on their common attributes and relationships. For example, a generalization of MANAGER, ENGINEER, and SECRETARY could be EMPLOYEE, based on the shared attributes such as name, salary, and department.
+- A **category** (or **union type**) is a special type of entity that represents the collection of entities from different entity types that share a common relationship with another entity type. For example, a category of OWNER could include entities from PERSON, COMPANY, and BANK, that are related to the entity type PROPERTY through the relationship OWNS.
+- **Inheritance** is the property of subclasses that allows them to inherit the attributes and relationships of their superclasses. Inheritance can be **total** or **partial**, and **disjoint** or **overlapping**.
+  - **Total** inheritance means that every entity in the superclass must belong to at least one subclass. **Partial** inheritance means that some entities in the superclass may not belong to any subclass.
+  - **Disjoint** inheritance means that an entity can belong to only one subclass of a given superclass. **Overlapping** inheritance means that an entity can belong to more than one subclass of a given superclass.

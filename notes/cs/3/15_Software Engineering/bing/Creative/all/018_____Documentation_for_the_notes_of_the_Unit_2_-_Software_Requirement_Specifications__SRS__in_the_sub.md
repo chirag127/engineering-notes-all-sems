@@ -1,0 +1,23 @@
+# Documentation for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, and constraints of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and managers of the software project.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts among the stakeholders.
+  - It provides a basis for estimating the cost, time, and resources of the project.
+  - It facilitates the verification and validation of the software system.
+  - It serves as a reference for the maintenance and evolution of the software system.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs of the stakeholders.
+  - Complete: It should cover all the requirements of the software system.
+  - Consistent: It should not have any contradictory or conflicting requirements.
+  - Clear: It should be unambiguous and easy to understand by the stakeholders.
+  - Verifiable: It should be testable and measurable by some criteria.
+  - Modifiable: It should be adaptable to the changes in the requirements.
+  - Traceable: It should be able to track the origin and impact of each requirement.
+- The process of developing SRS involves the following steps:
+  - Elicitation: It is the process of gathering the requirements from the stakeholders, such as users, customers, domain experts, etc.
+  - Analysis: It is the process of analyzing the elicited requirements to identify the scope, feasibility, risks, and dependencies of the project.
+  - Specification: It is the process of documenting the analyzed requirements in a formal and structured way, using a standard notation or language.
+  - Validation: It is the process of reviewing and verifying the SRS to ensure that it meets the quality criteria and satisfies the stakeholder needs.
+  - Management: It is the process of controlling and updating the SRS throughout the software development life cycle, to accommodate the changes and feedback from the stakeholders.

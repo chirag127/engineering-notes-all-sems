@@ -1,0 +1,10 @@
+### Probability models for data compression
+
+- A probability model is a mathematical description of the source of data, which assigns probabilities to the possible symbols or sequences of symbols that the source can generate.
+- A probability model can be used to measure the information content of the data, and to design efficient compression algorithms that exploit the statistical properties of the data.
+- There are different types of probability models, such as:
+  - Uniform model: This model assumes that all the symbols in the alphabet have the same probability of occurrence. This model is suitable for random or unpredictable data, but not for data with patterns or regularities.
+  - Unigram model: This model assigns probabilities to each symbol in the alphabet based on their frequencies in the data. This model is simple and easy to implement, but it does not capture the dependencies or correlations between symbols.
+  - Markov model: This model assigns probabilities to each symbol based on the previous symbols in the sequence. This model can capture the context or history of the data, and is useful for text compression, where the probability of the next letter is influenced by the preceding letters.
+  - Higher-order model: This model assigns probabilities to each symbol based on a longer context or history of the data. This model can capture more complex patterns or regularities in the data, but it also requires more memory and computation to store and update the probabilities.
+  - Parametric model: This model assumes that the data follows a certain probability distribution, such as Poisson, Gaussian, or Zipf, and estimates the parameters of the distribution from the data. This model can avoid the undefined entropies that may occur in some models, and can also handle data with outliers or long tails.

@@ -1,0 +1,29 @@
+### Constructing Canonical LR Parsing Tables
+
+- A canonical LR parsing table is a table used by a canonical LR parser to determine its parsing actions based on the current state and the next input symbol.
+- Canonical LR stands for canonical left-to-right, rightmost derivation, which is a type of bottom-up parsing technique for context-free grammars.
+- A canonical LR parser can handle any deterministic context-free grammar without introducing conflicts or ambiguities.
+- A canonical LR parsing table consists of two parts: an action table and a goto table.
+- The action table specifies the action to be taken for each state and terminal symbol pair. The possible actions are:
+  - Shift: move the next input symbol to the top of the stack and advance to the next state.
+  - Reduce: pop the symbols corresponding to the right-hand side of a production from the stack, push the left-hand side symbol to the stack, and go to the state indicated by the goto table.
+  - Accept: accept the input as a valid sentence of the grammar.
+  - Error: report an error and terminate the parsing.
+- The goto table specifies the next state to be entered after a reduction for each state and nonterminal symbol pair.
+- The canonical LR parsing table is constructed from the canonical collection of LR(1) items, which are augmented productions of the grammar with a dot (.) indicating the position of the parser and a lookahead symbol indicating the next expected input symbol.
+- The canonical collection of LR(1) items is obtained by applying two operations: closure and goto.
+  - Closure: for each item [A -> α.Bβ, a], where B is a nonterminal symbol, add all the items [B -> .γ, b] to the set, where b is any terminal symbol that can follow B in the derivation of αBβa.
+  - Goto: for each item [A -> α.Bβ, a], where B is a symbol (terminal or nonterminal), move the dot past B and obtain the item [A -> αB.β, a]. The goto operation is applied to a set of items and returns a new set of items.
+- The algorithm for constructing the canonical LR parsing table is as follows:
+  - Input: an augmented grammar G'
+  - Output: a canonical LR parsing table
+  - Method:
+    - Initially construct the set of items C = {I0, I1, I2, ..., In}, where C is the canonical collection of LR(1) items for G'.
+    - For each item Ii in C and each terminal symbol a, do the following:
+      - If [A -> α.aβ, b] is in Ii, then set action[i, a] to shift goto(Ii, a).
+      - If [A -> α., a] is in Ii, then set action[i, a] to reduce A -> α, unless A is the start symbol and a is the end-of-input symbol, in which case set action[i, a] to accept.
+      - If action[i, a] is undefined, then set it to error.
+    - For each item Ii in C and each nonterminal symbol A, do the following:
+      - If goto(Ii, A) is not empty, then set goto[i, A] to goto(Ii, A).
+      - If goto[i, A] is undefined, then set it to error.
+    - Return the action and goto tables as the canonical LR parsing table.

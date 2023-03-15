@@ -1,0 +1,25 @@
+### XML schemes for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- XML stands for Extensible Markup Language. It is a markup language containing tags to define data.
+- XML is used for designing the web pages in an application. It allows the web developers to create their own customized tags and use them to store and display data.
+- XML schema is a language which is used for expressing constraint about XML documents. It defines the structure, content, and data types of an XML document .
+- XML schema is also known as XML Schema Definition (XSD). It is based on the XML syntax and uses the XML namespace mechanism.
+- XML schema can be used to validate an XML document against a set of rules. It can also be used to generate XML documents that conform to a specific schema .
+- XML schema consists of the following components :
+  - The xs:schema element that defines a schema and its attributes, such as targetNamespace, elementFormDefault, and attributeFormDefault.
+  - The xs:element element that defines an element and its attributes, such as name, type, minOccurs, maxOccurs, default, and fixed.
+  - The xs:attribute element that defines an attribute and its attributes, such as name, type, use, default, and fixed.
+  - The xs:complexType element that defines a complex type, which is a combination of elements and attributes.
+  - The xs:simpleType element that defines a simple type, which is a restriction of a built-in data type or another simple type.
+  - The xs:restriction element that defines a restriction on a simple type or a complex type, such as enumeration, pattern, length, minInclusive, and maxExclusive.
+  - The xs:extension element that defines an extension of a simple type or a complex type, by adding new elements or attributes.
+  - The xs:sequence element that defines a sequence of elements that must appear in a specific order.
+  - The xs:choice element that defines a choice of elements that can appear in any order.
+  - The xs:all element that defines a set of elements that can appear in any order, but only once.
+  - The xs:annotation element that provides additional information or documentation about a schema component.
+  - The xs:documentation element that provides human-readable information or documentation about a schema component.
+  - The xs:appinfo element that provides machine-readable information or application-specific information about a schema component.
+- XML schema can be written in a separate file or embedded in an XML document. It can be referenced by using the xsi:schemaLocation or xsi:noNamespaceSchemaLocation attributes in the root element of the XML document .
+- XML schema can be used to create visual sitemaps for website designs. A visual sitemap is a diagram that shows the structure and hierarchy of a website, as well as the content and navigation of each page.
+- A visual sitemap can help the web designers and developers to plan and organize the website, identify the templates and components needed, and communicate the design to the stakeholders and clients.
+- A visual sitemap can be created by using XML schema to define the elements and attributes of each page, such as title, description, keywords, images, links, etc. Then, the XML schema can be transformed into a graphical representation by using a tool or a software.

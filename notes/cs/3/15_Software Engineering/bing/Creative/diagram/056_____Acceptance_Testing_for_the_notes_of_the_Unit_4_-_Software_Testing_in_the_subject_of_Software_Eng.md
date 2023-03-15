@@ -1,0 +1,16 @@
+### Acceptance Testing
+
+- Acceptance testing is a type of software testing that verifies that a system meets the requirements and specifications that guided its design and development .
+- Acceptance testing is performed after system testing and before making the system available for actual use.
+- Acceptance testing is conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers or other authorized entity to determine whether to accept the system.
+- Acceptance testing can be done by the end users, customers, or other stakeholders, with the help of the developers or testers.
+- Acceptance testing can be divided into different types, such as  :
+  - User acceptance testing (UAT): User acceptance testing is used to determine whether the product is working for the user correctly. It involves testing the functionality, usability, and reliability of the system from the user's perspective. UAT can be done by the actual users or their representatives.
+  - Business acceptance testing (BAT): Business acceptance testing is used to determine whether the system meets the business objectives and requirements. It involves testing the business logic, rules, and processes of the system from the business's perspective. BAT can be done by the business analysts or managers.
+  - Contract acceptance testing (CAT): Contract acceptance testing is used to determine whether the system meets the contractual obligations and specifications. It involves testing the compliance, performance, and quality of the system from the contract's perspective. CAT can be done by the contract owners or their representatives.
+  - Operational acceptance testing (OAT): Operational acceptance testing is used to determine whether the system is ready for production and that workflows exist, including maintenance processes, security checks, user training, and backup plans. It involves testing the operational readiness and stability of the system from the operational's perspective. OAT can be done by the system administrators or operators.
+  - Regulatory acceptance testing (RAT): Regulatory acceptance testing is used to determine whether the system meets the legal and regulatory standards and requirements. It involves testing the security, privacy, and compliance of the system from the regulatory's perspective. RAT can be done by the auditors or regulators.
+- Acceptance testing can be done in different ways, such as:
+  - Alpha testing: Alpha testing is done by the developers or testers at the development site, before releasing the system to the external users or customers. It involves testing the system in a simulated or controlled environment, with the aim of finding and fixing the major bugs and errors.
+  - Beta testing: Beta testing is done by the external users or customers at their own site, after releasing the system to them. It involves testing the system in a real or uncontrolled environment, with the aim of getting feedback and suggestions for improvement.
+  - Gamma testing: Gamma testing is done by the external users or customers at their own site, after releasing the final version of the system to them. It involves testing the system in a real or uncontrolled environment, with the aim of ensuring the quality and reliability of the system.

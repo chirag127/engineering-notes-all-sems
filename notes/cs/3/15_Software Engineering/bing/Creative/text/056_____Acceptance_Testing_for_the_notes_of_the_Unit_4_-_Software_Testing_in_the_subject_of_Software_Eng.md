@@ -1,0 +1,23 @@
+### Acceptance Testing
+
+- Acceptance testing is a type of software testing that verifies that a system meets the requirements and specifications that guided its design and development .
+- Acceptance testing is performed after system testing and before making the system available for actual use.
+- Acceptance testing is conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers or other authorized entity to determine whether to accept the system.
+- Acceptance testing can be done by the end users, customers, or other stakeholders, with the help of the developers or testers.
+- Acceptance testing can be divided into different types, such as:
+  - User acceptance testing (UAT): User acceptance testing is used to determine whether the product is working for the user correctly, and meets the user needs, requirements, and expectations.
+  - Operational acceptance testing (OAT): Operational acceptance testing is used to conduct operational readiness (pre-release) of a product, service or system as part of a quality management system. It assures that the software is ready for production and that workflows exist, including maintenance processes, security checks, user training, and backup plans .
+  - Contract acceptance testing (CAT): Contract acceptance testing is used to verify that the system meets the contractual agreements between the customer and the supplier.
+  - Regulation acceptance testing (RAT): Regulation acceptance testing is used to ensure that the system complies with the relevant laws, regulations, and standards.
+- Acceptance testing can be done in different ways, such as:
+  - Alpha testing: Alpha testing is done by the internal users or testers at the developer's site, before releasing the software to the external users or customers.
+  - Beta testing: Beta testing is done by the external users or customers at their own site, after releasing the software from the developer's site.
+  - Gamma testing: Gamma testing is done by the external users or customers at their own site, after the software has passed the alpha and beta testing stages.
+- Acceptance testing can be based on different criteria, such as:
+  - Functional testing: Functional testing is used to verify that the system performs the functions that it is supposed to do, according to the requirements and specifications.
+  - Non-functional testing: Non-functional testing is used to verify that the system meets the quality attributes, such as usability, reliability, performance, security, etc.
+  - Business process testing: Business process testing is used to verify that the system supports the business processes and workflows of the organization or the customer.
+- Acceptance testing can follow different approaches, such as:
+  - Scenario-based testing: Scenario-based testing is used to test the system based on realistic scenarios or use cases that represent the user's perspective and expectations.
+  - Specification-based testing: Specification-based testing is used to test the system based on the predefined specifications or criteria that define the expected behavior and outcomes of the system.
+  - Exploratory testing: Exploratory testing is used to test the system based on the tester's intuition, creativity, and experience, without following any predefined plan or script.

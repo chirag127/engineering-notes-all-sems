@@ -1,0 +1,25 @@
+### Elementary Data Link Protocols
+
+- Protocols in the data link layer are designed to perform the basic functions of framing, error control and flow control.
+- Framing is the process of dividing bit-streams from the physical layer into data frames whose size ranges from a few hundred to a few thousand bytes.
+- Error control is the mechanism to detect and correct errors that may occur during transmission.
+- Flow control is the technique to regulate the speed of data transmission between the sender and the receiver.
+- Elementary data link protocols are classified into three categories, as given below:
+  - Protocol 1: Unrestricted simplex protocol
+    - This protocol assumes that the sender can send frames continuously without waiting for any feedback from the receiver.
+    - The receiver simply accepts and processes the incoming frames.
+    - This protocol is suitable for simplex communication, where data flows in one direction only.
+    - This protocol does not provide any error control or flow control.
+  - Protocol 2: Simplex stop-and-wait protocol
+    - This protocol introduces the concept of acknowledgment (ACK) and negative acknowledgment (NAK) frames.
+    - The sender sends one frame at a time and waits for the receiver's feedback before sending the next frame.
+    - The receiver sends an ACK frame if the received frame is error-free, or a NAK frame if the received frame is corrupted.
+    - The sender retransmits the frame if it receives a NAK frame or no feedback within a specified time-out period.
+    - This protocol provides error control but not flow control.
+  - Protocol 3: Simplex protocol for a noisy channel
+    - This protocol improves the performance of protocol 2 by adding sequence numbers to the frames.
+    - The sender and the receiver maintain a frame expected (FE) variable to keep track of the next frame to be transmitted or received.
+    - The receiver sends an ACK frame with the sequence number of the next expected frame.
+    - The sender uses a sliding window of size one to store the last sent frame.
+    - The sender retransmits the frame if it receives a NAK frame, an ACK frame with a wrong sequence number, or no feedback within a time-out period.
+    - This protocol provides error control and flow control.

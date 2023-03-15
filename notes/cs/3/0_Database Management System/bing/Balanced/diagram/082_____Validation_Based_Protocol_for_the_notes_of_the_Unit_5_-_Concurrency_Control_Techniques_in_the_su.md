@@ -1,0 +1,22 @@
+### Validation Based Protocol
+
+- Validation Based Protocol is a type of concurrency control technique that works on the validation rules and timestamps .
+- It is also called Optimistic Concurrency Control Technique because it assumes that very few conflicts occur among transactions .
+- It does not check for conflicts while the transaction is executing, but only at the end of the transaction .
+- It divides the transaction into three phases: read phase, validation phase, and write phase  .
+- In the read phase, the transaction can read data from the database and store the updates in a local buffer, but it cannot write to the database  .
+- In the validation phase, the transaction checks whether it has any conflicts with other transactions that have already committed. If there are no conflicts, the transaction is validated and can proceed to the write phase. Otherwise, the transaction is aborted and restarted  .
+- In the write phase, the transaction writes the updates from the local buffer to the database and commits  .
+- The validation phase uses timestamps to determine the order of transactions and to detect conflicts. Each transaction is assigned a start timestamp (TS) and an end timestamp (TE) when it enters and leaves the validation phase, respectively  .
+- A transaction T1 is said to conflict with another transaction T2 if they access the same data item and at least one of them performs a write operation  .
+- A conflict is allowed if T1 precedes T2, that is, if TE(T1) < TS(T2). A conflict is not allowed if T1 overlaps with T2, that is, if TS(T1) < TS(T2) < TE(T1) or TS(T2) < TS(T1) < TE(T2)  .
+- The validation based protocol ensures serializability of transactions, that is, the execution of concurrent transactions is equivalent to some serial execution of the same transactions  .
+- The validation based protocol has some advantages and disadvantages over other concurrency control techniques   .
+  - Advantages:
+    - It does not require locking or unlocking of data items, which reduces the overhead and the possibility of deadlock  .
+    - It allows more concurrency among transactions, as they can read data without blocking each other  .
+    - It is suitable for applications where conflicts are rare and transactions are short-lived  .
+  - Disadvantages:
+    - It may abort and restart transactions unnecessarily, which wastes resources and reduces throughput  .
+    - It may delay the commit of transactions until the validation phase, which increases the response time and the risk of failure  .
+    - It is not suitable for applications where conflicts are frequent and transactions are long-lived  .

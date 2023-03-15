@@ -1,0 +1,11 @@
+### Logical Addressing
+
+- Logical addressing is a scheme of addressing that allows computers to communicate over a network using a global addressing scheme.
+- Logical addressing is also called internet protocol (IP) addressing, as it is used by the TCP/IP layer of the network.
+- Logical addresses are software-based addresses that are assigned to each host (end system) on the network by the network administrator or a dynamic host configuration protocol (DHCP) server.
+- Logical addresses are independent of the physical addresses (MAC addresses) of the network interface cards (NICs) of the hosts.
+- Logical addresses are translated to physical addresses by an address resolution protocol (ARP) before the data is sent over the network.
+- Logical addresses have two parts: network part and host part. The network part identifies the network to which the host belongs, and the host part identifies the specific host within the network.
+- Logical addresses can be classified into two types: IPv4 and IPv6. IPv4 addresses are 32-bit binary numbers, divided into four octets (8 bits each), and written in dotted decimal notation. IPv6 addresses are 128-bit binary numbers, divided into eight hextets (16 bits each), and written in hexadecimal notation.
+- Logical addresses can be further divided into different classes (A, B, C, D, and E) based on the size of the network part and the host part. Class A addresses have the first bit as 0, and can accommodate 2^7 - 2 networks and 2^24 - 2 hosts per network. Class B addresses have the first two bits as 10, and can accommodate 2^14 - 2 networks and 2^16 - 2 hosts per network. Class C addresses have the first three bits as 110, and can accommodate 2^21 - 2 networks and 2^8 - 2 hosts per network. Class D addresses have the first four bits as 1110, and are used for multicast purposes. Class E addresses have the first four bits as 1111, and are reserved for future use.
+- Logical addresses can also be subnetted or supernetted to create more efficient and flexible network structures. Subnetting is the process of dividing a network into smaller subnetworks by borrowing bits from the host part of the address. Supernetting is the process of combining multiple networks into a larger network by borrowing bits from the network part of the address.

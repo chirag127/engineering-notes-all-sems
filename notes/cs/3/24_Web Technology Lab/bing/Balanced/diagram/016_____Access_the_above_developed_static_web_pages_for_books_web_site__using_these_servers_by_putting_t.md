@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is the content you requested:
+
+### Access the above developed static web pages for books web site, using these servers by putting the web pages developed for the notes of the Unit 5 - Design server site applications using JDDC,ODBC and section tracking API in the subject of Web Technology Lab
+
+- To access the static web pages for books web site, you need to have a web server that can host and serve the HTML files. You can use any web server software, such as Apache, Nginx, IIS, etc.  
+- You also need to have a database server that can store and retrieve the data for the books, such as MySQL, PostgreSQL, Oracle, etc. You need to create a database schema and populate it with some sample data.  
+- You need to have a JDBC driver that can connect to the database server from your web server. JDBC stands for Java Database Connectivity, and it is an API that allows Java applications to access data from various sources. ODBC stands for Open Database Connectivity, and it is a standard that allows applications to access data from various sources using a common interface. 
+- You need to have a servlet container that can run Java servlets on your web server. Servlets are Java classes that handle requests and responses from clients. You can use any servlet container software, such as Tomcat, Jetty, GlassFish, etc. 
+- You need to have a session tracking API that can maintain the state of the users across multiple requests. Session tracking is a technique that allows web applications to identify and store information about the users, such as their preferences, shopping cart, login status, etc. There are various ways to implement session tracking, such as cookies, URL rewriting, hidden fields, etc. 
+- You need to develop the server-side applications using JDBC, ODBC and session tracking API. These applications will interact with the database server and the static web pages to provide dynamic functionality, such as authentication, authorization, searching, browsing, ordering, etc. You need to follow the design principles and best practices for developing server-side applications. 
+- You need to put the web pages and the server-side applications in the appropriate directories on your web server. You need to configure the web server, the database server, the JDBC driver, the servlet container, and the session tracking API properly. You need to test and debug your web applications using various tools and techniques. 
+
+: Design The Following Static Web Pages of an Online Book Store, https://www.programmingwithbasics.com/2016/04/design-following-static-web-pages.html
+: Develop Static Pages (Using Only HTML) of An Online Book Store, https://www.scribd.com/doc/60394208/wt
+: Web Technology Lab Manual, https://www.scribd.com/document/387574481/Web-Technology-Lab-Manual

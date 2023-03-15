@@ -1,0 +1,22 @@
+### Hadoop Pipes
+
+- Hadoop Pipes is the name of the C++ interface to Hadoop MapReduce .
+- Unlike Streaming, which uses standard input and output to communicate with the map and reduce code, Pipes uses sockets as the channel over which the tasktracker communicates with the process running the C++ map or reduce function .
+- Hadoop Pipes requires the following components :
+  - A C++ program that implements the map and reduce functions using the Hadoop Pipes API.
+  - A Java program that acts as a driver for the C++ program and sets up the job configuration.
+  - A C++ library (libhadooppipes.a) that provides the implementation of the Hadoop Pipes API and the communication protocol with the tasktracker.
+  - A C++ library (libhadooputils.a) that provides some utility functions such as logging and debugging.
+- To run Hadoop Pipes, the following steps are needed :
+  - Compile the C++ program and link it with the C++ libraries.
+  - Compile the Java program and create a jar file that contains the driver class and the C++ program as a resource.
+  - Run the jar file using the hadoop command with the pipes option.
+- Hadoop Pipes has some advantages and disadvantages over Hadoop Streaming :
+  - Advantages:
+    - It allows the use of C++ which may offer better performance and more control over memory management than scripting languages.
+    - It avoids the overhead of serialization and deserialization of data between Java and C++.
+    - It supports combiners and partitioners in C++.
+  - Disadvantages:
+    - It requires more effort to write and compile the C++ and Java code than to write a script.
+    - It may not be compatible with some Hadoop features such as counters and custom input and output formats.
+    - It may be difficult to pass large data records to map/reduce tasks using sockets.

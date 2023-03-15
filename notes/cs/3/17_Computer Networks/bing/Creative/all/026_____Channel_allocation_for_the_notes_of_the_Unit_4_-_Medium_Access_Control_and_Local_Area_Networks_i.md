@@ -1,0 +1,13 @@
+# Channel allocation for the notes of the Unit 4 - Medium Access Control and Local Area Networks in the subject of Computer Networks
+
+Channel allocation is a process in which a single channel is divided and allotted to multiple users in order to carry user specific tasks. Channel allocation techniques are used to manage the access of multiple users to a shared network. There are three main types of channel allocation schemes:
+
+- **Static Channel Allocation (SCA)**: In this scheme, a fixed portion of the frequency channel is allotted to each user or station, regardless of whether they have data to transmit or not . This scheme is simple and efficient for networks with low or constant traffic, but it wastes bandwidth when some users are idle and others have high demand.
+- **Dynamic Channel Allocation (DCA)**: In this scheme, frequency bands are not permanently assigned to any user or station, but are allocated on demand . This scheme is more flexible and adaptive to changing traffic patterns, but it requires more coordination and overhead to allocate and deallocate channels.
+- **Hybrid Channel Allocation (HCA)**: In this scheme, a combination of SCA and DCA is used to balance the advantages and disadvantages of both. For example, a portion of the channel can be statically allocated to some users or stations, while the remaining portion can be dynamically allocated to others.
+
+There are different methods and algorithms to implement DCA, such as:
+
+- **Fixed-assignment schemes**: In these schemes, each user or station is assigned a fixed number of channels or time slots, which can be used to transmit data when needed. For example, frequency division multiple access (FDMA), time division multiple access (TDMA), and code division multiple access (CDMA) are fixed-assignment schemes.
+- **Demand-assignment schemes**: In these schemes, each user or station requests a channel or time slot when it has data to transmit, and the channel or time slot is allocated by a central controller or a distributed protocol. For example, polling, token passing, and reservation are demand-assignment schemes.
+- **Random-access schemes**: In these schemes, each user or station can transmit data on any available channel or time slot, without any prior coordination or reservation. However, this may result in collisions or interference among users or stations, which need to be resolved by some mechanism. For example, ALOHA, carrier sense multiple access (CSMA), and collision detection and avoidance (CD/CA) are random-access schemes.

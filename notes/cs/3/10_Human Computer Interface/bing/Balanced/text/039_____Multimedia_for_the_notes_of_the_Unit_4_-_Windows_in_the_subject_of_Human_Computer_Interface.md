@@ -1,0 +1,9 @@
+### Multimedia for the notes of the Unit 4 - Windows in the subject of Human Computer Interface
+
+- Multimedia refers to the computer-assisted integration of text, drawings, still and moving images (videos) graphics, audio, animation, and any other media in which any type of information can be expressed, stored, communicated, and processed digitally.
+- Multimedia can enhance the user experience and interaction with a computer system, especially for applications that require rich and diverse forms of input and output, such as e-commerce, e-learning, gaming, and entertainment.
+- Windows are graphical user interface (GUI) elements that allow users to view and manipulate multiple documents or applications within a single screen area. Windows can have various properties, such as size, position, shape, title, icon, menu, toolbar, status bar, scroll bar, etc.
+- Windows can be classified into different types, such as primary windows, secondary windows, modal windows, modeless windows, pop-up windows, dialog boxes, etc. Each type of window has a specific purpose and function in the user interface.
+- Windows can also be organized and managed in different ways, such as cascading, tiling, overlapping, stacking, tabbing, etc. These methods can affect the usability and efficiency of the user interface, as well as the user's mental model and spatial memory of the window layout.
+- Windows can be designed and evaluated using various principles and guidelines, such as consistency, visibility, feedback, affordance, constraints, etc. These principles and guidelines can help improve the usability, learnability, and satisfaction of the user interface.
+- Windows can also be affected by various factors, such as screen resolution, color depth, font size, window manager, operating system, etc. These factors can influence the appearance, functionality, and compatibility of the windows in the user interface.

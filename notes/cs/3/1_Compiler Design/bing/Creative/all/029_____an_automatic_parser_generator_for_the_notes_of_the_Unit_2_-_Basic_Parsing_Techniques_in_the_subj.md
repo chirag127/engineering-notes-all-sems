@@ -1,0 +1,34 @@
+# An Automatic Parser Generator for the Notes of the Unit 2 - Basic Parsing Techniques in the Subject of Compiler Design
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A parser generator is a tool that takes a grammar as input and automatically generates source code that can parse streams of characters using the grammar.
+- A parser generator can save time and effort for compiler developers by automating the tedious and error-prone task of writing a parser by hand.
+- A parser generator can also ensure that the generated parser is correct and efficient, as well as consistent with the grammar specification.
+- Some examples of parser generators are YACC, Bison, ANTLR, JavaCC, etc.
+- A parser generator typically consists of two components: a scanner and a parser.
+- A scanner is a program that reads the input stream of characters and converts it into a sequence of tokens, which are the basic units of syntax in a language.
+- A parser is a program that reads the sequence of tokens and tries to match it against the grammar rules, which define the syntactic structure of the language.
+- A parser can be classified into two types: top-down and bottom-up.
+- A top-down parser starts from the start symbol of the grammar and tries to derive the input by applying the grammar rules in a top-down manner.
+- A bottom-up parser starts from the input and tries to reduce it to the start symbol of the grammar by applying the grammar rules in a bottom-up manner.
+- A top-down parser can be further divided into two types: recursive-descent and predictive.
+- A recursive-descent parser is a type of top-down parser that uses recursive procedures to implement the grammar rules.
+- A predictive parser is a type of top-down parser that uses a lookahead symbol to decide which grammar rule to apply next.
+- A bottom-up parser can be further divided into two types: shift-reduce and operator-precedence.
+- A shift-reduce parser is a type of bottom-up parser that uses a stack to store the partially parsed input and performs two operations: shift and reduce.
+- A shift operation moves the next input symbol onto the top of the stack.
+- A reduce operation replaces the topmost symbols on the stack with a nonterminal symbol according to a grammar rule.
+- An operator-precedence parser is a type of bottom-up parser that uses a precedence table to resolve the conflicts between different operators in the input.
+- A precedence table specifies the relative precedence and associativity of the operators in the language.
+- A parser generator can generate different types of parsers depending on the properties of the grammar and the input.
+- A grammar can be classified into four types: regular, context-free, context-sensitive, and unrestricted.
+- A regular grammar is a type of grammar that can be expressed by regular expressions or finite automata.
+- A context-free grammar is a type of grammar that can be expressed by a set of rules of the form A -> B, where A is a nonterminal symbol and B is a string of terminal and nonterminal symbols.
+- A context-sensitive grammar is a type of grammar that can be expressed by a set of rules of the form A -> B, where A and B are strings of terminal and nonterminal symbols and B is not shorter than A.
+- An unrestricted grammar is a type of grammar that can be expressed by a set of rules of the form A -> B, where A and B are strings of terminal and nonterminal symbols and B can be shorter than A.
+- A parser generator can generate a regular parser for a regular grammar, a context-free parser for a context-free grammar, a context-sensitive parser for a context-sensitive grammar, and an unrestricted parser for an unrestricted grammar.
+- However, not all grammars are suitable for automatic parser generation, as some grammars may have ambiguities, conflicts, or inefficiencies that make parsing difficult or impossible.
+- An ambiguity is a situation where a given input can be derived by more than one parse tree according to the grammar.
+- A conflict is a situation where a parser cannot decide which action to take next based on the input and the grammar.
+- An inefficiency is a situation where a parser takes too much time or space to parse the input according to the grammar.
+- A parser generator can detect and report some of these problems, but it is the responsibility of the compiler developer to design and modify the grammar to make it suitable for automatic parser generation.

@@ -1,0 +1,11 @@
+# Comparison of Pig with Databases
+
+- Pig is a high-level data flow language and execution framework for parallel computation on Hadoop clusters. It allows users to write scripts in Pig Latin, a language that abstracts the complexity of MapReduce programming and supports various data formats, such as structured, semi-structured, and unstructured data .
+- Databases are systems that store and manage structured data in tables, rows, and columns. They support data manipulation and querying using SQL, a declarative language that specifies what data is needed and how to join and filter it. Databases can run on single machines or distributed clusters, depending on the scalability and performance requirements.
+- Some of the main differences between Pig and databases are:
+
+  - Pig is designed for batch processing of large volumes of data, while databases are more suitable for online transaction processing (OLTP) and online analytical processing (OLAP) of smaller datasets .
+  - Pig is schema-on-read, meaning that the data schema is inferred at the time of reading the data, while databases are schema-on-write, meaning that the data schema is defined at the time of writing the data. This makes Pig more flexible and adaptable to changing data formats, but also less efficient and consistent than databases .
+  - Pig is procedural, meaning that the user has to specify the steps and transformations to perform on the data, while databases are declarative, meaning that the user only has to specify the desired output and the system will figure out the optimal execution plan. This makes Pig more expressive and powerful, but also more complex and error-prone than databases .
+  - Pig supports user-defined functions (UDFs) in various languages, such as Java, Python, JavaScript, Ruby, or Groovy, which can extend the functionality and expressiveness of Pig Latin. Databases also support UDFs, but usually only in SQL or a limited set of languages, such as Java or C.
+  - Pig can integrate with other Hadoop ecosystem components, such as HBase, Hive, Spark, and Flume, to provide a comprehensive and scalable solution for big data analytics. Databases can also integrate with other systems, such as ETL tools, BI tools, and data warehouses, to provide a complete and reliable solution for data management and analysis .

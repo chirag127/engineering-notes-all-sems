@@ -1,0 +1,21 @@
+# Documents for the notes of the Unit 3 - Scripting in the subject of Web Technology
+
+- Scripting is a programming technique that allows the creation and execution of dynamic and interactive web pages.
+- Scripting languages are high-level languages that are interpreted by a browser or a server at run-time, rather than compiled beforehand.
+- Scripting languages can be classified into two types: client-side and server-side.
+- Client-side scripting languages are executed by the browser on the user's device, and can manipulate the HTML document, the browser window, and the user interface. Examples of client-side scripting languages are JavaScript, VBScript, and TypeScript.
+- Server-side scripting languages are executed by the web server, and can access databases, files, and other resources on the server. Examples of server-side scripting languages are PHP, Python, Ruby, and ASP.NET.
+- Scripting languages can be embedded into HTML documents using special tags, such as `<script>` for JavaScript, `<% %>` for ASP.NET, and `<?php ?>` for PHP.
+- Scripting languages can also be stored in external files and linked to HTML documents using the `src` attribute of the `<script>` tag, or the `href` attribute of the `<link>` tag for style sheets.
+- Scripting languages can interact with HTML elements using the Document Object Model (DOM), which is a tree-like representation of the structure and content of a web page.
+- Scripting languages can use events, which are actions or occurrences that happen in the browser or on the web page, such as clicking a button, loading a page, or submitting a form.
+- Scripting languages can use functions, which are blocks of code that perform a specific task and can be reused throughout the program.
+- Scripting languages can use variables, which are containers that store data and can be assigned different values.
+- Scripting languages can use operators, which are symbols that perform arithmetic, logical, or comparison operations on operands, such as `+`, `-`, `*`, `/`, `&&`, `||`, `==`, and `!=`.
+- Scripting languages can use control structures, which are statements that control the flow of execution of the program, such as `if`, `else`, `switch`, `for`, `while`, and `break`.
+- Scripting languages can use arrays, which are collections of data that are stored in a single variable and can be accessed by an index, such as `myArray[0]`, `myArray[1]`, and `myArray[2]`.
+- Scripting languages can use objects, which are collections of data and functions that are grouped together and can be accessed by a name, such as `myObject.name`, `myObject.age`, and `myObject.sayHello()`.
+- Scripting languages can use inheritance, which is a mechanism that allows one object to acquire the properties and methods of another object, such as `myChildObject.prototype = myParentObject`.
+- Scripting languages can use polymorphism, which is a mechanism that allows one object to behave differently depending on the context, such as `myObject.toString()`.
+- Scripting languages can use encapsulation, which is a mechanism that hides the internal details of an object and exposes only the relevant interface, such as `myObject.getName()`, `myObject.setName()`, and `myObject._name`.
+- Scripting languages can use abstraction, which is a mechanism that simplifies the complexity of an object and provides only the essential features, such as `myObject.draw()`.

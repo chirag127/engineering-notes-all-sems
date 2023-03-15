@@ -1,0 +1,25 @@
+### Data Independence and Database Language and Interfaces
+
+- Data independence is a property of DBMS that allows the database schema to be changed at one level without affecting the schema at the next higher level.
+- Database schema is the logical structure and organization of the data in the database.
+- There are two types of data independence: logical data independence and physical data independence .
+- Logical data independence means that the conceptual schema can be changed without affecting the external schema or the application programs .
+- Conceptual schema is the level of abstraction that describes the logical structure and relationships of the data in the database.
+- External schema is the level of abstraction that defines the views of different users or applications on the data in the database.
+- Physical data independence means that the internal schema can be changed without affecting the conceptual schema or the external schema .
+- Internal schema is the level of abstraction that describes the physical storage and access methods of the data in the database.
+- Data independence provides several benefits, such as:
+  - It allows the data to be separated from the programs that use it, which enhances the security, integrity, and portability of the data.
+  - It allows the database to evolve and adapt to changing requirements and technologies without affecting the existing applications.
+  - It reduces the maintenance and development costs of the database and the applications.
+- Database language is a set of commands and syntax used to define, manipulate, and query the data in the database.
+- There are three types of database languages: data definition language (DDL), data manipulation language (DML), and data query language (DQL).
+- Data definition language (DDL) is used to specify the structure and organization of the data in the database, such as creating, altering, or dropping tables, indexes, views, etc..
+- Data manipulation language (DML) is used to insert, update, delete, and retrieve the data in the database, such as inserting a new record, updating an existing record, deleting a record, etc..
+- Data query language (DQL) is used to query the data in the database, such as selecting, filtering, sorting, grouping, aggregating, etc..
+- Database interface is a software component that allows the users or applications to interact with the database using the database language.
+- There are different types of database interfaces for different categories of users, such as:
+  - Graphical user interface (GUI) is a user-friendly interface that provides graphical elements, such as menus, buttons, icons, etc., to perform database operations.
+  - Command-line interface (CLI) is a text-based interface that requires the user to type commands and parameters to perform database operations.
+  - Application programming interface (API) is a set of functions and protocols that allows the application programs to access and manipulate the database using the database language.
+  - Web interface is a web-based interface that allows the user to access and manipulate the database using a web browser and a web server.

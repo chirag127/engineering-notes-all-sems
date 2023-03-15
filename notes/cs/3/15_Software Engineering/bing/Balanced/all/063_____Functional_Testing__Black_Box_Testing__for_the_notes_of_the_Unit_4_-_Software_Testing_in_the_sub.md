@@ -1,0 +1,22 @@
+# Functional Testing (Black Box Testing)
+
+- Functional testing is a type of black box testing that verifies that the software system performs the expected functions according to the requirements and specifications.
+- Functional testing does not focus on the internal structure or implementation details of the software, but rather on the input and output behavior of the system.
+- Functional testing can be performed at different levels of testing, such as unit testing, integration testing, system testing, and acceptance testing.
+- Functional testing can be done manually or with the help of automated tools.
+- Functional testing involves the following steps:
+  - Identify the functions or features of the software system that need to be tested.
+  - Define the test cases and test data for each function or feature, based on the requirements and specifications.
+  - Execute the test cases and compare the actual results with the expected results.
+  - Report and track the defects or deviations found during the testing process.
+  - Repeat the testing until all the defects are fixed and the requirements are met.
+- Functional testing can be classified into different types, such as:
+  - Smoke testing: A preliminary testing that checks the basic functionality and stability of the software system before conducting more detailed testing.
+  - Sanity testing: A quick testing that verifies that the software system is logically sound and does not contain any major errors or defects that would prevent further testing.
+  - Regression testing: A testing that ensures that the software system still works correctly after any changes or modifications are made to the code or the environment.
+  - Usability testing: A testing that evaluates how easy and user-friendly the software system is for the end-users or customers.
+  - Compatibility testing: A testing that checks how well the software system works with different hardware, software, operating systems, browsers, or devices.
+  - Performance testing: A testing that measures how fast, reliable, and efficient the software system is under different workloads, stress, or load conditions.
+  - Security testing: A testing that verifies that the software system is secure and protected from unauthorized access, data breaches, or malicious attacks.
+  - Localization testing: A testing that ensures that the software system is adapted and suitable for different languages, cultures, or regions.
+  - User acceptance testing: A testing that validates that the software system meets the expectations and requirements of the end-users or customers.

@@ -1,0 +1,13 @@
+### Locking Techniques for Concurrency Control
+
+- Locking is a mechanism to enforce mutual exclusion and prevent data inconsistency in concurrent transactions.
+- A lock is a variable associated with a data item that describes the status of the item with respect to possible operations that can be applied to it.
+- Generally, there are two types of locks: binary locks and shared/exclusive locks.
+- Binary locks have two states: locked and unlocked. A transaction can lock a data item before accessing it and unlock it after finishing. Only one transaction can hold a lock on a data item at a time.
+- Shared/exclusive locks have three states: unlocked, shared, and exclusive. A transaction can lock a data item in shared mode or exclusive mode. Multiple transactions can hold shared locks on the same data item, but only one transaction can hold an exclusive lock. A transaction needs an exclusive lock to write a data item and a shared lock to read it.
+- A locking protocol is a set of rules that govern when and how transactions acquire and release locks. A locking protocol should ensure serializability and avoid deadlock.
+- Some common locking protocols are:
+  - Two-phase locking (2PL): A transaction must obtain all the locks it needs before it releases any lock. It has two phases: growing phase and shrinking phase. In the growing phase, the transaction can only acquire locks. In the shrinking phase, the transaction can only release locks. 2PL ensures serializability but may cause deadlock.
+  - Strict two-phase locking (Strict 2PL): A transaction must hold all its exclusive locks until it commits or aborts. It is a variation of 2PL that ensures recoverability and cascadelessness in addition to serializability. It may also cause deadlock.
+  - Conservative two-phase locking (Conservative 2PL): A transaction must obtain all the locks it needs before it starts execution. It is also called static or pre-claiming 2PL. It prevents deadlock but may cause unnecessary blocking and low concurrency.
+  - Timestamp ordering: A transaction is assigned a unique timestamp when it starts. The timestamp determines the serial order of transactions. A transaction can access a data item only if its timestamp is higher than the timestamp of the last transaction that accessed the same item. Otherwise, the transaction is aborted and restarted with a new timestamp. Timestamp ordering ensures serializability and avoids deadlock, but may cause high abort rate and starvation.

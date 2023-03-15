@@ -1,0 +1,10 @@
+# Adaptive Quantization
+
+- Adaptive quantization is a type of data compression technique that adjusts the quantizer parameters according to the characteristics of the input signal source.
+- The goal of adaptive quantization is to provide effective data compression of a signal source with time-varying parameters, such as synthetic aperture radar (SAR) raw data.
+- Adaptive quantization can be classified into two categories: forward adaptive quantization and backward adaptive quantization.
+- In forward adaptive quantization, the input is divided into blocks. The quantizer parameters are estimated for each block and transmitted to the receiver as side information. For example, the minimum and maximum values of each block can be used to determine the quantization step size and offset.
+- In backward adaptive quantization, the quantizer parameters are updated based on the previous quantized samples and the feedback from the receiver. For example, the Lloyd-Max algorithm can be used to iteratively adjust the quantization levels and boundaries to minimize the distortion.
+- Adaptive quantization can improve the performance of differential pulse-code modulation (DPCM), which is a method of encoding the difference between successive samples of a signal. By using adaptive quantization, the quantization noise can be reduced and the signal-to-noise ratio (SNR) can be improved.
+- Adaptive quantization can also be applied to image compression, where different regions of an image may have different levels of detail and contrast. By using adaptive quantization, the image quality can be preserved while reducing the bit rate.
+- Adaptive quantization can be implemented using various methods, such as block adaptive quantization, adaptive quantization modules, adaptive arithmetic coding, etc  . The choice of the method depends on the application, the data characteristics, and the compression requirements.

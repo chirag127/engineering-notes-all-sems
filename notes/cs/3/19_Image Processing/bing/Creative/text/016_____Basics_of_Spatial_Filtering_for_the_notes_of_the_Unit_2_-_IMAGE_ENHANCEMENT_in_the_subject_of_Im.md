@@ -1,0 +1,8 @@
+### Basics of Spatial Filtering
+
+- Spatial filtering is a process by which we can alter properties of an optical image by selectively removing certain spatial frequencies that make up an object.
+- Spatial filtering is performed by applying a filter or a mask, which is also known as a kernel, to an image. The filter is a small matrix that is moved over the image pixel by pixel, and the output image is formed by the filter's response at each pixel  .
+- The filter's response is calculated by a predefined relationship called a template, which is usually a convolution operation. Convolution is a mathematical operation that involves multiplying the filter values with the corresponding image values and adding them up to get the new pixel value.
+- Spatial filtering can be used for various purposes, such as smoothing, sharpening, edge detection, noise reduction, and enhancement of an image .
+- Spatial filters can be classified into two types: linear and nonlinear. Linear filters are those that satisfy the superposition principle, which means that the response to a sum of inputs is equal to the sum of responses to each input. Nonlinear filters are those that do not satisfy this principle, and their response depends on the order and magnitude of the inputs.
+- Examples of linear filters are mean filter, Gaussian filter, Laplacian filter, and Sobel filter. Examples of nonlinear filters are median filter, max filter, min filter, and rank filter.

@@ -1,0 +1,24 @@
+### Predictive Parsers
+
+- A predictive parser is a type of top-down parser that does not require backtracking or backup.
+- A predictive parser can predict which production to use by looking at the next input symbol and the current non-terminal.
+- A predictive parser is also known as an LL(1) parser, where L stands for left-to-right scanning of the input, L stands for leftmost derivation of the parse tree, and 1 stands for one symbol of lookahead.
+- A predictive parser can be implemented by using a stack and a table, where the stack stores the symbols to be matched and the table stores the parsing actions for each pair of stack symbol and input symbol.
+- A predictive parser can only handle a subset of context-free grammars, namely those that are LL(1). A grammar is LL(1) if and only if it satisfies two conditions: no left recursion and no ambiguity.
+- A left recursive grammar is one that has a production of the form A -> Aα, where A is a non-terminal and α is a string of terminals and non-terminals. A left recursive grammar can cause infinite recursion in a predictive parser.
+- An ambiguous grammar is one that has more than one parse tree for some input string. An ambiguous grammar can cause confusion and inconsistency in a predictive parser.
+- A grammar can be converted to an equivalent LL(1) grammar by eliminating left recursion and left factoring. Left factoring is a technique of extracting common prefixes from alternative productions of a non-terminal.
+- A predictive parser can be constructed by using the following steps:
+  - Eliminate left recursion and left factor the grammar if necessary.
+  - Compute the FIRST and FOLLOW sets for each non-terminal in the grammar. The FIRST set of a non-terminal is the set of terminals that can begin a string derived from that non-terminal. The FOLLOW set of a non-terminal is the set of terminals that can immediately follow that non-terminal in a derivation.
+  - Construct the predictive parsing table by using the following rules:
+    - For each production A -> α, if a is in FIRST(α), then add A -> α to the entry M[A, a] in the table, where M is the table and a is a terminal.
+    - For each production A -> α, if ε is in FIRST(α), then for each terminal b in FOLLOW(A), add A -> α to the entry M[A, b] in the table.
+    - For each production A -> α, if ε is in FIRST(α) and $ is in FOLLOW(A), where $ is the end-of-input marker, then add A -> α to the entry M[A, $] in the table.
+  - Simulate the predictive parser by using the following algorithm:
+    - Initialize the stack with the start symbol of the grammar and the input with the end-of-input marker.
+    - Repeat until the stack is empty or an error occurs:
+      - Pop the top symbol X from the stack and read the next input symbol a.
+      - If X is a terminal, then match it with a. If they are equal, then continue. If they are not equal, then report an error.
+      - If X is a non-terminal, then look up the entry M[X, a] in the table. If it is empty, then report an error. If it contains a production X -> α, then push the symbols of α in reverse order onto the stack. If it contains more than one production, then report an ambiguity error.
+    - If the stack is empty and the input is consumed, then report a successful parse. Otherwise, report an error.

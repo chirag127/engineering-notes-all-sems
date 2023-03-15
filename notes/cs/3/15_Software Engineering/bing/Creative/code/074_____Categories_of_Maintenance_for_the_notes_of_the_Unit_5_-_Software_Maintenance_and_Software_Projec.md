@@ -1,0 +1,11 @@
+### Categories of Maintenance
+
+Software maintenance is the process of modifying and updating software after it has been delivered to the customer. Software maintenance can be classified into four categories, namely, corrective, adaptive, perfective, and preventive. Each category has a different purpose and scope of work.
+
+- **Corrective maintenance** is concerned with fixing errors that are observed when the software is in use. These errors can be logical, coding, design, or implementation errors. Corrective maintenance aims to restore the software to its normal functioning state and ensure its reliability and quality. Corrective maintenance is usually reactive and unplanned, and it can be costly and time-consuming.
+
+- **Adaptive maintenance** is concerned with modifying and updating software when the customer needs the product to run on new platforms, environments, or technologies. Adaptive maintenance aims to adapt the software to changing requirements and specifications, and ensure its compatibility and interoperability. Adaptive maintenance is usually proactive and planned, and it can involve significant changes to the software architecture and design.
+
+- **Perfective maintenance** is concerned with enhancing and improving software when the customer requests new features, functions, or performance improvements. Perfective maintenance aims to optimize the software to meet the customer's expectations and satisfaction, and ensure its usability and maintainability. Perfective maintenance is usually proactive and planned, and it can involve minor or major changes to the software functionality and quality.
+
+- **Preventive maintenance** is concerned with preventing and reducing software errors and defects before they occur or become serious. Preventive maintenance aims to improve the software's future maintainability and reliability, and ensure its security and stability. Preventive maintenance is usually proactive and planned, and it can involve activities such as code refactoring, documentation, testing, and analysis.

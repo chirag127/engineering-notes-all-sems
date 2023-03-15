@@ -1,0 +1,26 @@
+# Digital signature
+
+- A digital signature is a type of electronic signature that encrypts documents with digital codes that are particularly difficult to duplicate.
+- A digital signature is a mathematical scheme for verifying the authenticity and integrity of digital messages or documents.
+- A digital signature is intended to solve the problem of tampering and impersonation in digital communications.
+- A digital signature can provide evidence of origin, identity and status of electronic documents, transactions or digital messages.
+- A digital signature can also be used to acknowledge informed consent by the signer.
+- A digital signature is the result of a cryptographic process or mathematical algorithm that can be used to authenticate a sequence of data.
+- A digital signature consists of three components: a signing algorithm, a verification algorithm and a key generation algorithm.
+- A signing algorithm takes a message and a private key as inputs and produces a signature as output.
+- A verification algorithm takes a message, a signature and a public key as inputs and outputs a binary value indicating whether the signature is valid or not.
+- A key generation algorithm produces a pair of keys: a private key and a public key.
+- The private key is kept secret by the signer and used to sign messages.
+- The public key is made public and used to verify signatures.
+- The public key and the private key are mathematically related, but it is computationally infeasible to derive one from the other.
+- A digital signature scheme is secure if it is unforgeable, meaning that an adversary cannot produce a valid signature for a message without knowing the private key.
+- A digital signature scheme is also secure if it is non-repudiable, meaning that the signer cannot deny having signed a message after producing a valid signature.
+- A digital signature scheme can be based on different cryptographic primitives, such as hash functions, asymmetric encryption, or digital signature algorithms.
+- A hash function is a function that maps an arbitrary-length input to a fixed-length output, called a hash or a digest.
+- A hash function is collision-resistant if it is hard to find two different inputs that produce the same output.
+- A hash function can be used to compress a message before signing it, reducing the computational cost and the signature size.
+- An asymmetric encryption scheme is a scheme that uses two different keys for encryption and decryption.
+- An asymmetric encryption scheme can be used to sign a message by encrypting it with the private key and verifying it by decrypting it with the public key.
+- An example of an asymmetric encryption scheme is RSA, which is based on the hardness of factoring large numbers.
+- A digital signature algorithm is a scheme that is specifically designed for signing and verifying messages.
+- An example of a digital signature algorithm is DSA, which is based on the hardness of computing discrete logarithms.

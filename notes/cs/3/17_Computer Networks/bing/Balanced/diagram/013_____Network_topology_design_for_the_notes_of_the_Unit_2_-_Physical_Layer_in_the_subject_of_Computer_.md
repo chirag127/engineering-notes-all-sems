@@ -1,0 +1,50 @@
+### Network topology design
+
+- Network topology design is the process of creating a physical, virtual, and logical arrangement of infrastructure in an IT network.
+- Network topology design helps to optimize the performance, security, scalability, and reliability of the network.
+- Network topology design involves the following steps:
+  - Analyzing the business requirements and objectives of the network
+  - Identifying the network devices, nodes, and connections that are needed to meet the requirements
+  - Choosing the best network topology type for the network, such as ring, chain, tree, or mesh
+  - Creating a network diagram that shows the placement and interconnection of the network elements
+  - Implementing, testing, and monitoring the network design
+- Network topology design can be classified into two major categories: physical and logical.
+  - Physical topology refers to the actual layout of the network devices, nodes, and connections in a given space.
+  - Logical topology refers to the way data flows and communicates in the network, regardless of the physical layout.
+- Network topology design can also be classified into different types based on the shape and structure of the network, such as :
+  - Ring topology: A network where each node is connected to exactly two other nodes, forming a circular loop.
+  - Chain topology: A network where each node is connected to exactly one other node, forming a linear sequence.
+  - Tree topology: A network where each node is connected to a central node, forming a hierarchical structure.
+  - Mesh topology: A network where each node is connected to every other node, forming a fully interconnected structure.
+  - Star topology: A network where each node is connected to a central hub, forming a radial structure.
+  - Bus topology: A network where each node is connected to a common backbone, forming a linear structure.
+  - Hybrid topology: A network that combines two or more of the above topology types.
+- Network topology design has advantages and disadvantages depending on the type and size of the network, such as :
+  - Ring topology: It is simple and easy to implement, but it has low fault tolerance and scalability.
+  - Chain topology: It is inexpensive and easy to extend, but it has low performance and reliability.
+  - Tree topology: It is scalable and organized, but it has high maintenance and dependency on the central node.
+  - Mesh topology: It is highly reliable and fault tolerant, but it is expensive and complex to implement and manage.
+  - Star topology: It is easy to install and troubleshoot, but it has high dependency and congestion on the central hub.
+  - Bus topology: It is cheap and simple to implement, but it has low security and performance.
+  - Hybrid topology: It is flexible and adaptable, but it is difficult to design and maintain.
+- Network topology design can be illustrated using network diagrams, which are graphical representations of the network elements and their connections.
+- Network diagrams can use different symbols and notations to show the network topology type, such as :
+  - A circle or an ellipse for a node or a device
+  - A line or a curve for a connection or a link
+  - A dot or a cross for a hub or a switch
+  - A box or a rectangle for a server or a router
+  - A cloud or a hexagon for a network or a subnet
+- Network diagrams can also use different colors and labels to show the network attributes, such as :
+  - The name or the IP address of a node or a device
+  - The type or the speed of a connection or a link
+  - The function or the role of a hub or a switch
+  - The service or the protocol of a server or a router
+  - The domain or the scope of a network or a subnet
+- Network diagrams can be created using different tools and software, such as :
+  - Microsoft Visio
+  - Cisco Packet Tracer
+  - Lucidchart
+  - Draw.io
+  - Network Notepad
+- Network diagrams can be used for different purposes, such as :
+  - Planning and designing a new

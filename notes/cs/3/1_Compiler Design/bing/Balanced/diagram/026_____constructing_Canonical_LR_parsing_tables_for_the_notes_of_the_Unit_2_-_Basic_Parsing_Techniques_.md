@@ -1,0 +1,15 @@
+### Constructing Canonical LR Parsing Tables
+
+Canonical LR parsing is a technique for constructing bottom-up parsers for context-free grammars. It is also known as LR(1) parsing, because it uses one lookahead symbol to determine the parsing action. The main steps for constructing canonical LR parsing tables are:
+
+1. Write an augmented grammar for the given grammar by adding a new start symbol and a production of the form `S' -> S`, where `S` is the original start symbol.
+2. Construct the canonical collection of LR(1) items for the augmented grammar. An LR(1) item is a pair of a production and a lookahead symbol, denoted as `[A -> α•β, a]`, where `A -> αβ` is a production, `α` and `β` are strings of grammar symbols, `•` is a marker indicating the position of the parser, and `a` is a terminal symbol or `$` (the end-of-input marker). The canonical collection of LR(1) items is a set of sets of LR(1) items, called states, that are reachable from the initial state by applying the closure and goto operations. The closure operation adds all the items that can be derived from the current items by expanding the nonterminal symbol immediately after the marker, if any. The goto operation moves the marker one position to the right for a given symbol and returns a new state. The initial state is the closure of the item `[S' -> •S, $]`.
+3. Construct the action and goto functions for the canonical LR parsing table. The action function maps a state and a terminal symbol to a parsing action, which can be shift, reduce, accept, or error. The goto function maps a state and a nonterminal symbol to a new state. The action and goto functions are defined as follows:
+
+- For each state `I` and each terminal `a` in `I`, if `[A -> α•aβ, b]` is in `I`, then set `action[I, a]` to `shift goto(I, a)`. This means that the parser shifts the input symbol `a` onto the stack and moves to the next state.
+- For each state `I` and each item `[A -> α•, a]` in `I`, where `A` is not `S'`, set `action[I, a]` to `reduce A -> α`. This means that the parser reduces the top symbols of the stack by the production `A -> α` and pops them off the stack.
+- If `[S' -> S•, $]` is in `I`, then set `action[I, $]` to `accept`. This means that the parser accepts the input as valid.
+- For each state `I` and each nonterminal `A` in `I`, set `goto[I, A]` to `goto(I, A)`. This means that the parser moves to the next state after reducing by a production with `A` on the left-hand side.
+- All the entries of the action and goto functions that are not defined by the above rules are set to `error`. This means that the parser encounters a syntax error and reports it.
+
+4. Represent the action and goto functions as a table, where the rows are the states and the columns are the terminal and nonterminal symbols. The table is called the canonical LR parsing table for the given grammar. The parser uses the table to parse the input by following the actions indicated by the table entries, starting from the initial state and the first input symbol. The parser terminates when it either accepts or reports an error.

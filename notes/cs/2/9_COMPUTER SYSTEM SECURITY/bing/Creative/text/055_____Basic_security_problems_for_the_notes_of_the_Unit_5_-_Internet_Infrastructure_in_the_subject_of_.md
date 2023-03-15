@@ -1,0 +1,23 @@
+### Basic security problems for the notes of the Unit 5 - Internet Infrastructure in the subject of COMPUTER SYSTEM SECURITY
+
+- Internet infrastructure refers to the hardware, software, protocols, and services that enable the communication and exchange of data over the internet.
+- Internet infrastructure security is the protection of these components from unauthorized access, modification, or destruction by malicious actors or applications.
+- Some of the basic security problems that affect the internet infrastructure are:
+
+  - **Ransomware attack**: This is a type of malware that encrypts the data or systems of the victim and demands a ransom for the decryption key. Ransomware can affect individual devices, servers, or entire networks, and can cause significant disruption and financial loss.
+  - **Code injection (remote code execution)**: This is a type of attack that exploits a vulnerability in a web application or service to execute arbitrary code on the server or the client. Code injection can allow the attacker to gain full control of the system, steal data, install malware, or perform other malicious actions .
+  - **Cross-site scripting (XSS)**: This is a type of attack that injects malicious scripts into a web page that is viewed by other users. XSS can allow the attacker to access the user's cookies, session tokens, or other sensitive information, or to perform actions on their behalf .
+  - **Data breach**: This is a type of attack that exposes the confidential or personal data of the users or the organization to unauthorized parties. Data breach can result from hacking, phishing, insider threats, or human errors, and can cause reputational damage, legal liability, or identity theft .
+  - **Malware and virus infection**: This is a type of attack that involves the installation of malicious software or code on the system or network of the victim. Malware and virus can perform various harmful functions, such as stealing data, logging keystrokes, deleting files, or spreading to other devices .
+  - **DDoS attack**: This is a type of attack that overwhelms the server or network of the victim with a large amount of traffic or requests, causing it to slow down or crash. DDoS attack can disrupt the availability and performance of the web services or applications, and can also be used as a distraction for other attacks .
+  - **Credential stuffing attack**: This is a type of attack that uses stolen or leaked usernames and passwords to access multiple accounts or services. Credential stuffing attack can allow the attacker to access the user's personal or financial information, or to perform fraudulent transactions .
+  - **Brute force attack**: This is a type of attack that tries to guess the password or encryption key of the system or account by trying different combinations of characters. Brute force attack can take a long time to succeed, but can be accelerated by using dictionaries, common passwords, or other techniques .
+
+- Some of the basic security solutions that can prevent or mitigate these problems are:
+
+  - **Encryption**: This is a technique that transforms the data or communication into an unreadable format that can only be decrypted by the authorized parties. Encryption can protect the data from being accessed or modified by unauthorized parties, even if it is intercepted or stolen.
+  - **Authentication**: This is a technique that verifies the identity of the user or device that is accessing the system or service. Authentication can prevent unauthorized access or impersonation, and can also provide accountability and traceability.
+  - **Authorization**: This is a technique that determines the level of access or privileges that the user or device has on the system or service. Authorization can restrict the actions or data that the user or device can access or modify, and can also enforce the principle of least privilege.
+  - **Firewall**: This is a device or software that monitors and filters the incoming and outgoing network traffic based on predefined rules or policies. Firewall can block or allow the traffic based on the source, destination, port, protocol, or content, and can also prevent or detect intrusions.
+  - **Antivirus**: This is a software that scans and removes the malicious software or code from the system or network. Antivirus can prevent or detect the infection of malware or virus, and can also provide updates and alerts on the latest threats.
+  - **Backup**: This is a technique that creates and stores a copy of the data or system in a separate location or medium

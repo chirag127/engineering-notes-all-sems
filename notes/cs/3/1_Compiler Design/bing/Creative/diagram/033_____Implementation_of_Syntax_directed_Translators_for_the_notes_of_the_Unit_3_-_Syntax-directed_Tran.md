@@ -1,0 +1,26 @@
+### Implementation of Syntax-Directed Translators
+
+- Syntax-directed translation is a method of compiler implementation where the source language translation is completely driven by the parser.
+- The parser uses a context-free grammar with attributes and semantic actions to generate intermediate code directly from the syntactic structure of the source language .
+- A syntax-directed translation scheme (SDT) is a context-free grammar with semantic actions enclosed within braces ({ }).
+- The semantic actions are subroutines that are executed by the parser at the appropriate time for translation.
+- The semantic actions can access the attributes of the grammar symbols, which are values associated with them.
+- The attributes can be either synthesized or inherited, depending on how they are computed.
+- A synthesized attribute is computed from the attributes of the children of a node in the parse tree or syntax tree.
+- An inherited attribute is computed from the attributes of the parent or siblings of a node in the parse tree or syntax tree.
+- The order of visiting the nodes of the parse tree or syntax tree for computing the attributes is determined by a dependency graph.
+- A dependency graph is a directed graph that shows the dependencies among the attributes at each node.
+- A dependency graph is acyclic if there is no cycle in the graph, which means that the attributes can be computed in a single bottom-up or top-down traversal of the tree.
+- A dependency graph is cyclic if there is a cycle in the graph, which means that the attributes require multiple traversals or iterative algorithms to be computed.
+- A syntax-directed definition (SDD) is a context-free grammar with attributes and rules for computing them.
+- A syntax-directed definition is equivalent to a syntax-directed translation scheme, but it separates the grammar and the semantic actions.
+- A syntax-directed definition can be implemented by augmenting the parser with attribute stacks or by constructing an annotated parse tree or syntax tree.
+- An attribute stack is a data structure that stores the attributes of the grammar symbols on the parser stack.
+- An annotated parse tree or syntax tree is a tree that has the attributes of the grammar symbols attached to the nodes.
+- A syntax-directed translation scheme can be classified as postfix, prefix, or infix, depending on the position of the semantic actions relative to the grammar symbols.
+- A postfix SDT is a syntax-directed translation scheme where the semantic actions appear at the end of the productions.
+- A postfix SDT can be implemented by a bottom-up parser, such as a shift-reduce parser, that executes the semantic actions when a production is reduced.
+- A prefix SDT is a syntax-directed translation scheme where the semantic actions appear at the beginning of the productions.
+- A prefix SDT can be implemented by a top-down parser, such as a recursive-descent parser, that executes the semantic actions when a production is expanded.
+- An infix SDT is a syntax-directed translation scheme where the semantic actions appear in the middle of the productions.
+- An infix SDT can be implemented by a parser that executes the semantic actions when they are encountered during the parsing process.

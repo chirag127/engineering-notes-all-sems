@@ -1,0 +1,5 @@
+### The syntactic specification of programming languages for the notes of the Unit 1 - Introduction to Compiler in the subject of Compiler Design
+
+- Syntax analysis, also known as parsing, is a process in compiler design where the compiler checks if the source code follows the grammatical rules of the programming language. This is typically the second stage of the compilation process, following lexical analysis.
+- When an input string (source code or a program in some language) is given to a compiler, the compiler processes it in several phases, starting from lexical analysis (scans the input and divides it into tokens) to target code generation. Syntax Analysis or Parsing is the second phase, i.e. after lexical analysis.
+- A CFG (Context-Free Grammar) is used to specify the syntactic structure of a programming language constructs like expressions and statements. The CFG is also known as Backus-Naur Form (BNF). A CFG comprises four components, namely, nonterminals, terminals, productions, and start symbol.

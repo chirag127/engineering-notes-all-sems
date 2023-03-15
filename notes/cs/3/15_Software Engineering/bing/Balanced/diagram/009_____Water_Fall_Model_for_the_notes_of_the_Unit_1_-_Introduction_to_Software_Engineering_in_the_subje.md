@@ -1,0 +1,24 @@
+### Waterfall Model for the notes of the Unit 1 - Introduction to Software Engineering in the subject of Software Engineering
+
+- The waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software engineering and product development.
+- The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff.
+- The waterfall model is the first SDLC model to be used for software development and is also known as the linear-sequential life cycle model.
+- Winston Royce first debuted it in 1970.
+- The waterfall model divides project activities into linear sequential phases that are handed down to each other, with each phase relying on the deliverables of the preceding one to get its corresponding task done.
+- This method is common in many areas of engineering design.
+- The phases of the waterfall model are:
+  - Requirements analysis: The project team gathers and documents the functional and non-functional requirements of the software system.
+  - System design: The project team designs the architecture and components of the software system based on the requirements.
+  - Implementation: The project team writes the source code and tests the software system according to the design specifications.
+  - Verification: The project team verifies that the software system meets the quality standards and the customer expectations.
+  - Maintenance: The project team provides support and fixes for the software system after deployment.
+- The advantages of the waterfall model are:
+  - It is simple and easy to understand and use.
+  - It provides a clear structure and documentation for the project.
+  - It facilitates planning and scheduling of the project activities and resources.
+  - It reduces the risk of scope creep and requirement changes.
+- The disadvantages of the waterfall model are:
+  - It is rigid and inflexible to accommodate changes and feedback during the project.
+  - It assumes that the requirements are complete and accurate at the beginning of the project.
+  - It does not allow for iterative testing and validation of the software system.
+  - It may cause delays and cost overruns if any phase encounters problems or errors.

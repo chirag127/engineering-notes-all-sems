@@ -1,0 +1,9 @@
+### Software Quality Frameworks
+
+Software quality frameworks are models or methods that help to evaluate and improve the quality of software products. Software quality frameworks can be classified into two main categories: product-oriented and process-oriented.
+
+- Product-oriented frameworks focus on the characteristics and attributes of the software product itself, such as functionality, reliability, usability, efficiency, maintainability, and portability. Product-oriented frameworks often use standards and metrics to measure and compare the quality of software products. Examples of product-oriented frameworks are the ISO/IEC 25000 series of standards, also known as SQuaRE (System and Software Quality Requirements and Evaluation), and the Capability Maturity Model Integration (CMMI) for Development.
+
+- Process-oriented frameworks focus on the activities and practices that are involved in the software development life cycle, such as planning, analysis, design, implementation, testing, deployment, and maintenance. Process-oriented frameworks often use guidelines and best practices to ensure and enhance the quality of software processes. Examples of process-oriented frameworks are the ISO/IEC 12207 standard for software life cycle processes, and the Agile software development methodology.
+
+Software quality frameworks are important for software engineering because they provide a systematic and consistent way to ensure that the software products meet the needs and expectations of the customers and stakeholders, and that the software processes are efficient and effective. Software quality frameworks also help to identify and resolve the problems and risks that may affect the quality of software products and processes. Software quality frameworks can also facilitate the communication and collaboration among the software development team and the other parties involved in the software project.

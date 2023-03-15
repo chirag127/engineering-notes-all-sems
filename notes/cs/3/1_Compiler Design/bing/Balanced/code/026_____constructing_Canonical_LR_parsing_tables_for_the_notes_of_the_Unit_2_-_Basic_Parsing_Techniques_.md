@@ -1,0 +1,21 @@
+### Constructing Canonical LR Parsing Tables
+
+- Canonical LR parsing is a bottom-up parsing technique that can handle a large class of context-free grammars.
+- LR parsing stands for Left-to-right scanning and Rightmost derivation.
+- LR parsing uses a stack and an input buffer to store the intermediate results of the parsing process.
+- LR parsing uses a parsing table that consists of two functions: action and goto.
+- The action function maps a state and an input symbol to an action, such as shift, reduce, accept, or error.
+- The goto function maps a state and a nonterminal symbol to a new state.
+- The parsing table is constructed from a set of LR(1) items, which are productions with a dot (.) indicating the current position and a lookahead symbol indicating the next input symbol.
+- LR(1) items are grouped into states, which represent the possible configurations of the parser at any point.
+- The states are connected by transitions, which are labeled by the symbols that cause the parser to move from one state to another.
+- The set of states and transitions is called the canonical collection of LR(1) items, and it can be computed by applying the closure and goto operations on the augmented grammar.
+- The closure operation adds all the items that can be derived from a given item by expanding the nonterminal symbol after the dot, if any.
+- The goto operation computes the set of items that can be reached from a given set of items by moving the dot over a given symbol, if possible.
+- The parsing table is filled by using the following rules:
+  - If [A -> α.β, a] is an item in state I and goto(I, β) = J, then set action[I, β] = shift J.
+  - If [A -> α., a] is an item in state I, then set action[I, a] = reduce A -> α for all a in the lookahead set of the item.
+  - If [S' -> S., $] is an item in state I, then set action[I, $] = accept.
+  - If action[I, a] is undefined for some state I and input symbol a, then set action[I, a] = error.
+  - If [A -> α.β, a] is an item in state I and β is a nonterminal, then set goto[I, β] = J, where J is the state that contains the closure of [β -> .γ, b] for all [A -> α.β, a] in I and all b in FIRST(βa).
+  - If goto[I, A] is undefined for some state I and nonterminal A, then set goto[I, A] = error.

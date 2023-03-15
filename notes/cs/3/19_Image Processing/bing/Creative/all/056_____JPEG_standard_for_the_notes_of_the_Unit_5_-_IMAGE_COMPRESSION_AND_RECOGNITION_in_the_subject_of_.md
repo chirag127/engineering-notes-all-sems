@@ -1,0 +1,13 @@
+# JPEG standard
+
+- JPEG stands for Joint Photographic Experts Group, which was a group of image processing experts that devised a standard for compressing images (ISO) .
+- JPEG is not really a file format but rather an image compression standard . The commonly used file formats for interchange of JPEG-compressed images are Exif and JFIF.
+- JPEG is a lossy image compression method, which means that some information is discarded during the compression process and cannot be recovered in the decompression process.
+- JPEG compression reduces file size by changing the color values and blocking together groups of pixels with a more uniform color, so that it doesn’t have to store as many different ones. While this does decrease the file size, it also alters the true image by changing the colors.
+- JPEG compression works by averaging color variation and discarding what the human eye cannot see, a process known as “lossy” compression. Depending on the level of compression, it is possible to compress an image by a factor of 100 to 1, though there may be some loss of quality at the compression limits.
+- JPEG compression consists of several steps :
+  - The image is converted from RGB to YCbCr color space, which separates the luminance (Y) from the chrominance (Cb and Cr) components. This allows for more compression of the chrominance components, which are less perceptible to the human eye than the luminance component.
+  - The image is divided into 8x8 pixel blocks, and each block is transformed by a discrete cosine transform (DCT), which converts the spatial domain information into the frequency domain information. The DCT coefficients represent the amount of each frequency component present in the block.
+  - The DCT coefficients are quantized, which means that they are divided by a predefined quantization matrix and rounded to the nearest integer. The quantization matrix determines the level of compression and quality of the image. The higher the quantization value, the more compression and the more loss of information.
+  - The quantized DCT coefficients are encoded by a variable-length coding scheme, such as Huffman coding or arithmetic coding, which assigns shorter codes to more frequent coefficients and longer codes to less frequent coefficients. This reduces the number of bits needed to represent the coefficients.
+  - The encoded coefficients are stored in a file along with some header information, such as the image size, the quantization matrix, and the coding scheme used. This file is the JPEG-compressed image.

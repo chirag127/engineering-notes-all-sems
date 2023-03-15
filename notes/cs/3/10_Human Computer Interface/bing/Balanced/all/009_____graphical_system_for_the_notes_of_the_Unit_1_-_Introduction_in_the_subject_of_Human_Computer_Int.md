@@ -1,0 +1,21 @@
+# Graphical System for the Notes of the Unit 1 - Introduction in the Subject of Human Computer Interface
+
+- Human-computer interaction (HCI) is a design field that focuses on the interfaces between people and computers.
+- HCI incorporates multiple disciplines, such as computer science, psychology, human factors, and ergonomics, into one field.
+- HCI aims to create intuitive and usable interfaces that meet the needs and preferences of the users.
+- The graphical user interface (GUI) is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators, instead of text-based UIs, typed command labels or text navigation.
+- The GUI was developed at the Xerox Palo Alto Research Center (PARC) in the late 1970s, but many argue that its concept was theorized long before.
+- The GUI lets users communicate with the computer with the help of the mouse, which can manipulate the graphical icons on the screen.
+- The GUI is based on the WIMP (windows, icons, menus, and pointers) paradigm, which is comprised of a graphic and text interface navigated by a mouse and keyboard.
+- The GUI has several advantages over text-based UIs, such as:
+  - It is more intuitive and easy to learn for novice users.
+  - It is more efficient and productive for expert users.
+  - It is more attractive and engaging for the users.
+  - It supports multiple modes of interaction, such as direct manipulation, selection, and command.
+- The GUI also has some challenges and limitations, such as:
+  - It requires more resources and processing power than text-based UIs.
+  - It may not be suitable for some tasks that require precise or complex input.
+  - It may not be accessible for some users with disabilities or special needs.
+  - It may not be consistent or compatible across different platforms or devices.
+- HCI and GUI are closely related fields that influence each other. HCI provides the principles and methods for designing and evaluating GUIs, while GUIs provide the tools and techniques for implementing and testing HCI concepts.
+- HCI and GUI are dynamic and evolving fields that respond to the changing needs and expectations of the users and the technology.

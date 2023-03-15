@@ -1,0 +1,10 @@
+## Unit 2 - Basic Parsing Techniques
+
+Parsing is the process of analyzing the structure and meaning of a sentence or a program based on a given grammar. Parsing techniques are methods for implementing parsers that can efficiently and correctly process the input.
+
+Some of the basic parsing techniques are:
+
+- Top-down parsing: This technique starts from the start symbol of the grammar and tries to derive the input by applying the production rules in a top-down manner. It can be implemented using recursive descent or table-driven methods. Top-down parsing can handle left-recursive grammars, but it may require backtracking or lookahead to resolve ambiguities.
+- Bottom-up parsing: This technique starts from the input and tries to reduce it to the start symbol of the grammar by applying the production rules in a bottom-up manner. It can be implemented using shift-reduce or table-driven methods. Bottom-up parsing can handle right-recursive grammars, but it may require lookahead to resolve conflicts.
+- Predictive parsing: This technique is a special case of top-down parsing that does not require backtracking or lookahead. It uses a predictive table that maps the current nonterminal and the next input symbol to the production rule to be applied. Predictive parsing can only handle LL(1) grammars, which are a subset of context-free grammars that have no left recursion and no common prefixes among the alternatives of a nonterminal.
+- Operator-precedence parsing: This technique is a special case of bottom-up parsing that does not require lookahead. It uses a precedence table that defines the relative precedence and associativity of the operators in the grammar. Operator-precedence parsing can only handle a subset of context-free grammars that have no epsilon productions, no unit productions, and no ambiguity among the operators.

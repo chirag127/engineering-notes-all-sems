@@ -1,0 +1,24 @@
+### Web security definitions goals and threat models
+
+- Web security is the practice of protecting web applications and web servers from unauthorized access, modification, or destruction by malicious actors.
+- The goals of web security are to ensure the confidentiality, integrity, and availability of web resources and data, as well as to prevent or mitigate the impact of web-based attacks such as cross-site scripting, SQL injection, denial-of-service, etc.
+- Threat models are systematic ways of identifying and analyzing the potential threats and vulnerabilities that may affect a web system, as well as the countermeasures that can be implemented to reduce or eliminate the risks.
+- Threat modeling can be performed at different stages of the web system development lifecycle, such as design, implementation, testing, deployment, and maintenance.
+- Threat modeling can help web developers and security professionals to:
+  - Define the scope and boundaries of the web system and its components
+  - Identify the assets and data that need to be protected
+  - Identify the actors and their motivations, capabilities, and goals
+  - Identify the attack vectors and scenarios that could compromise the web system
+  - Assess the likelihood and impact of each threat
+  - Prioritize the threats and vulnerabilities based on their severity and criticality
+  - Select and apply the appropriate security controls and countermeasures
+  - Document and communicate the threat model and the security requirements
+- There are different methods and frameworks for conducting threat modeling, such as STRIDE, DREAD, PASTA, OCTAVE, etc. Each method has its own advantages and limitations, and may be more suitable for certain types of web systems or applications.
+- A common threat modeling process consists of the following steps:
+  - Define the objectives and scope of the threat model
+  - Decompose the web system into its components and data flows
+  - Identify and categorize the threats and vulnerabilities
+  - Analyze and prioritize the risks
+  - Define and implement the mitigation strategies
+  - Validate and update the threat model
+- Threat modeling is not a one-time activity, but a continuous process that should be revisited and revised as the web system evolves or new threats emerge.

@@ -1,0 +1,29 @@
+### Job Scheduling for Map Reduce
+
+- Job scheduling is the process of assigning and executing tasks in a distributed system to process large-scale data efficiently and effectively.
+- Map Reduce is a programming model and framework for parallel and distributed processing of big data using a cluster of machines.
+- Job scheduling for Map Reduce involves the following steps:
+  - Splitting the input data into fixed-size pieces called input splits, which are assigned to different mapper nodes.
+  - Applying a user-defined map function to each input split, which produces intermediate key-value pairs as output.
+  - Shuffling and sorting the intermediate key-value pairs by their keys, and transferring them to different reducer nodes.
+  - Applying a user-defined reduce function to each group of values with the same key, which produces the final output.
+- Job scheduling for Map Reduce can be influenced by various factors, such as:
+  - The size and complexity of the input data and the map and reduce functions.
+  - The number and capacity of the available machines in the cluster.
+  - The network bandwidth and latency among the machines.
+  - The load balancing and fault tolerance of the system.
+  - The performance and fairness objectives of the system and the users.
+- Job scheduling for Map Reduce can be classified into two levels:
+  - Cluster-level scheduling, which allocates resources (such as CPU, memory, disk, and network) to different jobs submitted by different users or applications.
+  - Job-level scheduling, which assigns tasks (such as map and reduce) to different machines within a job.
+- Job scheduling for Map Reduce can be implemented by different algorithms or policies, such as:
+  - FIFO (First In First Out), which executes jobs in the order of their arrival time.
+  - Fair, which assigns resources to jobs proportionally to their demands and priorities.
+  - Capacity, which divides the cluster into multiple queues with different capacities and priorities, and allocates resources to jobs in each queue accordingly.
+  - Deadline, which considers the deadlines of the jobs and tries to minimize the number of missed deadlines.
+  - EFT (Earliest Finish Time), which considers the resource allocation and task execution time of the jobs and tries to minimize the makespan (the total completion time of all jobs).
+- Job scheduling for Map Reduce can be evaluated by different metrics, such as:
+  - Throughput, which measures the number of jobs or tasks completed per unit time.
+  - Response time, which measures the time elapsed from the submission of a job to its completion.
+  - Utilization, which measures the percentage of resources used by the system.
+  - Fairness, which measures the degree of equality or balance among the jobs or users in terms of resource allocation or performance.

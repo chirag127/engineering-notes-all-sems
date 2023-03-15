@@ -1,0 +1,21 @@
+### Optimization of DFA-Based Pattern Matchers
+
+- DFA stands for deterministic finite automaton, which is a model of computation that can recognize regular languages.
+- A pattern matcher is a program that can find all occurrences of a given pattern in a text, such as a regular expression or a string.
+- A DFA-based pattern matcher can be constructed from a regular expression by applying the following steps:
+  - Convert the regular expression to a nondeterministic finite automaton (NFA) using Thompson's construction algorithm.
+  - Convert the NFA to a DFA using the subset construction algorithm.
+  - Minimize the DFA using Hopcroft's algorithm or a similar technique.
+- The advantages of using a DFA-based pattern matcher are:
+  - It can scan the text in a single pass, without backtracking or lookahead.
+  - It can match multiple patterns simultaneously by using a combined DFA that accepts the union of the patterns.
+  - It can be implemented efficiently using a table-driven or a code-driven approach.
+- The disadvantages of using a DFA-based pattern matcher are:
+  - It may require a large amount of memory to store the transition table or the generated code, especially if the patterns are complex or numerous.
+  - It may not support some features of regular expressions, such as capturing groups, backreferences, or lookahead assertions.
+- The optimization of DFA-based pattern matchers can be done by applying various techniques, such as:
+  - Reducing the size of the transition table by using compression methods, such as row displacement, column displacement, or perfect hashing.
+  - Reducing the number of transitions by using character classes, equivalence classes, or transition merging.
+  - Reducing the number of states by using state merging, state splitting, or state elimination.
+  - Reducing the number of patterns by using pattern simplification, pattern elimination, or pattern grouping.
+  - Reducing the complexity of the patterns by using regular expression rewriting, regular expression minimization, or regular expression factorization.

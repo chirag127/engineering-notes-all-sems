@@ -1,0 +1,25 @@
+## Unit 11 - Hadoop Eco System Frameworks
+
+- Hadoop is a framework that enables processing of large data sets which reside in the form of clusters.
+- Hadoop is made up of several modules that are supported by a large ecosystem of technologies.
+- Hadoop Ecosystem is a platform or a suite which provides various services to solve the big data problems.
+- Hadoop Ecosystem includes Apache projects and various commercial tools and solutions.
+- There are four major elements of Hadoop i.e. HDFS, MapReduce, YARN, and Hadoop Common.
+- HDFS is a distributed file system that has the capability to store a large stack of data sets.
+- MapReduce is a programming model that allows for parallel processing of data across multiple nodes.
+- YARN is a resource management layer that allocates and schedules resources for different applications.
+- Hadoop Common is a set of utilities and libraries that support other Hadoop modules.
+- Some of the popular tools and frameworks in the Hadoop Ecosystem are:
+  - Hive: A data warehouse that provides SQL-like interface for querying and analyzing data.
+  - Pig: A scripting language that allows for data transformation and manipulation.
+  - Spark: A fast and general engine for large-scale data processing.
+  - HBase: A column-oriented database that provides random access and strong consistency for structured and semi-structured data.
+  - Sqoop: A tool that transfers data between Hadoop and relational databases.
+  - Flume: A tool that collects, aggregates, and moves large amounts of streaming data into HDFS.
+  - Kafka: A distributed messaging system that enables high-throughput and low-latency data ingestion and processing.
+  - Oozie: A workflow scheduler that manages and coordinates Hadoop jobs.
+  - ZooKeeper: A service that provides coordination and synchronization for distributed applications.
+  - Mahout: A library that provides scalable machine learning algorithms for data mining and analytics.
+- Hadoop is an open-source software framework that is widely used for storing and running applications on clusters of commodity hardware .
+- Hadoop provides massive storage for any kind of data, enormous processing power and the ability to handle virtually limitless concurrent tasks or jobs.
+- Hadoop is well-suited for big data problems that require high scalability, reliability, and fault-tolerance.

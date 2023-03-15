@@ -1,0 +1,21 @@
+# Validation Based Protocol
+
+- Validation Based Protocol is a type of concurrency control technique that works on the validation rules and timestamps .
+- It is also called Optimistic Concurrency Control Technique because it assumes that very few conflicts occur among transactions .
+- It does not check for conflicts while the transaction is executing, but only at the end of the transaction .
+- It consists of three phases for each transaction: read phase, validation phase, and write phase  .
+- In the read phase, the transaction can read data from the database and make updates to the local copies, but not to the actual database.
+- In the validation phase, the transaction checks for any conflicts with other transactions that have already committed. If there are no conflicts, the transaction is validated and can proceed to the write phase. Otherwise, the transaction is aborted and restarted  .
+- In the write phase, the transaction writes the updated data to the database and commits  .
+- The validation phase uses timestamps to determine the order of transactions and detect conflicts. There are two types of timestamps: start timestamp (ST) and end timestamp (ET)  .
+- The start timestamp is assigned to a transaction when it enters the read phase. It indicates the logical start time of the transaction  .
+- The end timestamp is assigned to a transaction when it completes the read phase. It indicates the logical end time of the transaction  .
+- A transaction T1 is said to precede another transaction T2 if ET(T1) < ST(T2). This means that T1 finishes its read phase before T2 starts its read phase  .
+- A transaction T1 is said to overlap with another transaction T2 if ST(T1) < ET(T2) and ET(T1) > ST(T2). This means that T1 and T2 have some common time interval in their read phases  .
+- A conflict occurs when two overlapping transactions access the same data item and at least one of them updates it  .
+- The validation phase uses the following rules to check for conflicts and validate transactions  :
+  - If T1 precedes T2, then T1 does not conflict with T2 and both transactions can be validated.
+  - If T1 overlaps with T2 and T1 reads a data item that T2 has updated, then T1 conflicts with T2 and T1 must be aborted and restarted.
+  - If T1 overlaps with T2 and T1 updates a data item that T2 has read or updated, then T1 conflicts with T2 and T1 must be aborted and restarted.
+- The validation based protocol ensures serializability of transactions by validating them in the order of their end timestamps  .
+- The validation based protocol has the advantage of avoiding locking and deadlock, but the disadvantage of wasting resources and time for aborting and restarting transactions  .

@@ -1,0 +1,9 @@
+### Applications of Huffman coding
+
+Huffman coding is a technique that is used for compressing data to reduce its size without losing any of its details. It is based on the idea of assigning variable-length codes to the data values based on their frequency or weight. The more frequent a data value is, the shorter its code will be. The less frequent a data value is, the longer its code will be. This way, the data can be represented using fewer bits on average, resulting in compression.
+
+Some of the applications of Huffman coding are:
+
+- **Transmitting fax and text**: Huffman coding can be used to compress the text or fax data before sending it over a communication channel, saving bandwidth and transmission time. For example, the ASCII code uses 8 bits to represent each character, but Huffman coding can use fewer bits for the common characters and more bits for the rare ones.
+- **Conventional compression formats**: Huffman coding is often used by compression formats like PKZIP, GZIP, BZIP2, etc. to compress the data before storing it in a file or archive. These formats usually combine Huffman coding with other techniques like run-length encoding, dictionary encoding, etc. to achieve better compression ratios .
+- **Multimedia codecs**: Huffman coding is also used by multimedia codecs like JPEG, PNG, and MP3 to compress the data that represents images, audio, or video. These codecs usually use Huffman coding to encode the quantized coefficients of the discrete cosine transform (DCT) or the modified discrete cosine transform (MDCT), which are used to transform the data from the spatial or temporal domain to the frequency domain. Huffman coding helps to reduce the size of the coefficients by assigning shorter codes to the more frequent ones and longer codes to the less frequent ones  .

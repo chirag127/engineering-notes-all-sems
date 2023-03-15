@@ -1,0 +1,16 @@
+# Unit 11 - Automatic Backup of Files and Recovery of Files in Database Management Systems Lab
+
+- Automatic backup is a process of creating copies of data files and databases at regular intervals without manual intervention. It can help protect data from accidental loss, corruption, or disaster. 
+- Recovery is a process of restoring data files and databases to a consistent state after a failure or a backup. It can help resume normal operations and minimize data loss. 
+- The backup and recovery strategy of a database depends on several factors, such as the recovery model, the backup type, the backup frequency, the backup location, the backup retention, and the recovery point objective (RPO) and recovery time objective (RTO). 
+- The recovery model of a database determines how the transaction log is managed and what types of backups are supported. There are three main recovery models: full, simple, and bulk-logged. 
+- The backup type of a database determines what data is included in the backup and how it affects the transaction log. There are four main backup types: full, differential, transaction log, and file or filegroup. 
+- The backup frequency of a database determines how often backups are performed and how much data is at risk of loss. The backup frequency depends on the recovery model, the backup type, the RPO, and the RTO. 
+- The backup location of a database determines where the backup files are stored and how they are accessed. The backup location can be local or remote, on-premises or cloud-based, and can use different storage media, such as disk, tape, or network. 
+- The backup retention of a database determines how long the backup files are kept and when they are deleted. The backup retention depends on the backup type, the recovery model, the RPO, and the RTO. 
+- The RPO of a database determines the maximum acceptable amount of data loss in case of a failure. The RPO is measured in time units, such as minutes, hours, or days. The RPO influences the backup frequency and the backup type. 
+- The RTO of a database determines the maximum acceptable amount of time to restore the database to a consistent state after a failure. The RTO is measured in time units, such as minutes, hours, or days. The RTO influences the backup frequency, the backup type, and the recovery method. 
+- The recovery method of a database determines how the backup files are used to restore the database to a consistent state. There are two main recovery methods: recovery to the most recent state or recovery to a specific point-in-time. 
+- Recovery to the most recent state restores the database to the latest possible state based on the available backup files. It requires a full backup and a sequence of differential and/or transaction log backups. 
+- Recovery to a specific point-in-time restores the database to a specific state based on a user-defined date and time. It requires a full backup and a sequence of differential and/or transaction log backups that cover the desired point-in-time. 
+- Some database management systems support additional backup and recovery features, such as automatic database backup, integrity checks, backup lifecycle management, data snapshots, and online or offline backup.

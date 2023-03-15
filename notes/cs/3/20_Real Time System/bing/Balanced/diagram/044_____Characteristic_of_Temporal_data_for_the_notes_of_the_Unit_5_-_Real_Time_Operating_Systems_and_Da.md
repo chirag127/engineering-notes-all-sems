@@ -1,0 +1,29 @@
+### Characteristic of Temporal Data
+
+- Temporal data is the data that is valid only for a prescribed time and becomes invalid or obsolete after a certain period of time.
+- Temporal data can represent time in different forms, such as dates, intervals, durations, events, cycles, or sequences.
+- Temporal data can be used to analyze weather patterns, traffic conditions, demographic trends, and other phenomena that change over time.
+- Temporal data can be stored in the form of a tuple that contains the data value, the validity time, and the generation time.
+- Temporal data can have different aspects, such as valid time, transaction time, or decision time.
+  - Valid time is the time period during or event time at which a fact is true in the real world.
+  - Transaction time is the time at which a fact was recorded in the database.
+  - Decision time is the time at which a fact was decided or acted upon.
+- Temporal data can be classified into different types, such as historical, current, future, or predictive.
+  - Historical data is the data that was valid in the past.
+  - Current data is the data that is valid at the present time.
+  - Future data is the data that will be valid in the future.
+  - Predictive data is the data that is estimated or projected based on historical or current data.
+- Temporal data can be modeled using different approaches, such as timestamping, snapshotting, or versioning.
+  - Timestamping is the approach of adding time attributes to the data to indicate its validity or transaction time.
+  - Snapshotting is the approach of storing the state of the data at different points in time as separate records.
+  - Versioning is the approach of maintaining the history of the data changes as a linked list of records.
+- Temporal data can be queried using different operators, such as temporal selection, temporal projection, temporal join, or temporal aggregation.
+  - Temporal selection is the operator of retrieving the data that satisfies a temporal condition.
+  - Temporal projection is the operator of extracting the temporal attributes from the data.
+  - Temporal join is the operator of combining the data from different sources based on their temporal overlap.
+  - Temporal aggregation is the operator of summarizing the data over a temporal interval.
+- Temporal data can be visualized using different techniques, such as timelines, charts, maps, or animations.
+  - Timelines are the techniques of displaying the data as a sequence of events or intervals along a horizontal or vertical axis.
+  - Charts are the techniques of displaying the data as a graphical representation of numerical values, such as bars, lines, or pies.
+  - Maps are the techniques of displaying the data as a spatial representation of geographical locations, such as points, regions, or routes.
+  - Animations are the techniques of displaying the data as a dynamic representation of changes over time, such as transitions, movements, or transformations.

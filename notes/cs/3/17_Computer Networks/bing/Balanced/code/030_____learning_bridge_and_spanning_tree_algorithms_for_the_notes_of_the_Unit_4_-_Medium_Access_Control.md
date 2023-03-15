@@ -1,0 +1,17 @@
+### Learning bridge and spanning tree algorithms for the notes of the Unit 4 - Medium Access Control and Local Area Networks in the subject of Computer Networks
+
+- A bridge is a device that connects two or more LAN segments and forwards frames between them based on the MAC addresses of the destination and source hosts.
+- A bridge operates at the data link layer of the OSI model and can filter, forward, or flood frames depending on the destination MAC address and the bridge's forwarding table.
+- A bridge can also learn the MAC addresses of the hosts connected to its ports by observing the source MAC addresses of the incoming frames and updating its forwarding table accordingly.
+- A bridge can create a loop-free logical topology for a network of LAN segments by running the spanning tree protocol (STP).
+- The spanning tree protocol is a network protocol that builds a loop-free logical topology for Ethernet networks by disabling some of the redundant links between the bridges.
+- The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them.
+- Spanning tree also allows a network design to include backup links providing fault tolerance if an active link fails.
+- The bridges that participate in spanning tree protocol are often called spanning tree bridges.
+- To construct a spanning tree, the bridges run a distributed algorithm that involves the following steps   :
+  - Each bridge periodically broadcasts a configuration message out all of its ports to its neighbors. The configuration message contains the bridge's identifier, the identifier of the root bridge (the bridge with the lowest identifier in the network), the cost of the path from the bridge to the root bridge, and the port identifier of the port that sent the message. These messages are called bridge protocol data units (BPDUs) or hello messages .
+  - Each bridge processes the BPDUs it receives from other bridges and updates its own information about the root bridge, the cost of the path to the root bridge, and the port that connects to the root bridge (the root port). The bridge also forwards the BPDUs to other ports, except the one that received the BPDU, after updating the cost of the path to the root bridge .
+  - Each bridge determines which of its ports are designated ports, which are the ports that provide the lowest cost path from the LAN segment to the root bridge. The bridge compares the BPDUs it receives on each port with the BPDUs it sends on that port. If the received BPDU has a lower cost path to the root bridge than the sent BPDU, the port is not a designated port. If the received BPDU has the same cost path to the root bridge as the sent BPDU, the port is a designated port if the bridge has a lower identifier than the sender of the BPDU. Otherwise, the port is not a designated port .
+  - Each bridge disables (blocks) all of its ports that are not root ports or designated ports. These ports are called non-designated ports. The bridge does not forward any frames or BPDUs on these ports. This way, the bridge eliminates any redundant links that could cause loops in the network .
+  - The process is dynamic, so if an outage occurs then the spanning tree is recomputed. If the outage should partition the network into two pieces, both pieces will build spanning trees.
+- The spanning tree algorithm was developed by Radia Perlman at the Digital Equipment Corporation and is the basis of the IEEE 802.1 specification for LAN bridges.

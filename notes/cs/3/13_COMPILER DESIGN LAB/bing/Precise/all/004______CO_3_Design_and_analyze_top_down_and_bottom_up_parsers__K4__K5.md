@@ -1,0 +1,11 @@
+#### CO 3 Design and analyze top down and bottom up parsers. K4, K5
+
+Top-down parsing and bottom-up parsing are two approaches to parsing, which is the process of analyzing a string of symbols according to the rules of a formal grammar.
+
+1. **Top-down parsing** starts with the start symbol of the grammar and applies production rules to derive the input string. It can be implemented using a recursive descent parser, which is a type of parser that consists of a set of mutually recursive procedures, each of which implements one of the nonterminals of the grammar. Top-down parsing can also be implemented using a predictive parser, which is a non-recursive, table-driven parser that uses a stack and a parsing table to determine which production rule to apply.
+
+2. **Bottom-up parsing** starts with the input string and applies production rules in reverse to derive the start symbol of the grammar. It can be implemented using a shift-reduce parser, which is a type of parser that shifts input symbols onto a stack and applies production rules to reduce the stack contents to the start symbol of the grammar. Bottom-up parsing can also be implemented using an operator-precedence parser, which is a type of parser that uses a set of precedence rules to determine the order in which operators are applied.
+
+Both top-down and bottom-up parsing have their advantages and disadvantages. Top-down parsing is generally easier to implement and understand, but it may not be able to handle left-recursive grammars. Bottom-up parsing can handle a larger class of grammars, including left-recursive grammars, but it may be more difficult to implement and understand.
+
+In summary, top-down and bottom-up parsing are two approaches to parsing, each with its own strengths and weaknesses. The choice of approach depends on the specific requirements of the application and the characteristics of the grammar being parsed. It is important to carefully design and analyze parsers to ensure that they are correct and efficient.

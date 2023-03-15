@@ -1,0 +1,9 @@
+### GanttProject for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- GanttProject is a free and open-source project management application that can be used to create and manage project schedules, tasks, resources, and dependencies.
+- GanttProject is distributed under the GNU General Public License version 3 (GPL3), which means that anyone can download, modify, and redistribute the source code and the binaries under the same terms.
+- GanttProject can run on Windows, Linux, and Mac OS X platforms, and does not require any installation or registration.
+- GanttProject can import and export documents in Microsoft Project format, as well as CSV and Excel formats. It can also generate reports and printable charts in PDF and PNG formats.
+- GanttProject uses a graphical user interface (GUI) that consists of a menu bar, a toolbar, a project tree, a Gantt chart, and a resource chart. The project tree shows the hierarchy of tasks and subtasks, the Gantt chart shows the start and end dates, durations, dependencies, and progress of tasks, and the resource chart shows the allocation and load of resources.
+- GanttProject allows the user to create and edit tasks, assign resources, set dependencies, add milestones, mark critical paths, and track progress. It also supports undo and redo operations, zooming, filtering, sorting, and grouping of tasks, and customizing the appearance and colors of the charts.
+- GanttProject is a simple and easy-to-use tool for planning and managing small to medium-sized projects. It can help the user to visualize the project scope, schedule, and resources, and to monitor the project status and performance. It can also facilitate communication and collaboration among project stakeholders by sharing the project documents and reports.
