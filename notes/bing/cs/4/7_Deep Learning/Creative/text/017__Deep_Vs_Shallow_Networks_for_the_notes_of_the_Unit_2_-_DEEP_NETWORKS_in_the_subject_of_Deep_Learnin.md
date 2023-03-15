@@ -1,7 +1,0 @@
-### Deep Vs Shallow Networks
-
-- A shallow network is a neural network that has only one hidden layer between the input and output layers. A deep network is a neural network that has more than one hidden layer.
-- Shallow networks are easier to train and interpret, but they have limited expressive power and generalization ability. Deep networks can learn more complex and abstract features, but they are harder to train and require more data and computational resources.
-- Shallow networks can perform well on simple and linearly separable problems, such as logical operations, linear regression, and classification of linearly separable data. Deep networks can perform well on complex and nonlinear problems, such as image recognition, natural language processing, and generative modeling.
-- Shallow networks have fewer parameters and are less prone to overfitting, but they may suffer from underfitting and high bias. Deep networks have more parameters and are more prone to overfitting, but they can reduce bias and variance by using regularization techniques, such as dropout, batch normalization, and weight decay.
-- Shallow networks are more transparent and explainable, but they may not capture the underlying structure and patterns of the data. Deep networks are more opaque and difficult to explain, but they can capture the hierarchical and compositional nature of the data.

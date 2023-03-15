@@ -1,9 +1,0 @@
-### HTML in Web Page Designing
-
-- HTML stands for HyperText Markup Language. It is the code that is used to structure a web page and its content. 
-- HTML uses different tags, elements, images and some latest components to make web pages more attractive and user-friendly. 
-- HTML tags are keywords that are enclosed in angle brackets (< and >). They indicate the start and end of an HTML element. For example, <p> and </p> are the tags for a paragraph element. 
-- HTML elements are the building blocks of a web page. They consist of a start tag, an end tag, and the content in between. Some elements have attributes, which are additional information that modify the element. For example, <img src="image.jpg" alt="A picture"> is an image element with two attributes: src and alt. 
-- HTML can be written by using any text editor, such as Notepad, TextEdit, or Brackets. The HTML code should be saved with a .html or .htm extension. To view the web page, the HTML file should be opened in a web browser, such as Chrome, Firefox, or Safari. 
-- HTML can be combined with CSS (Cascading Style Sheets) to change the look and feel of the web page. CSS is a language that defines how HTML elements are displayed, such as the color, font, layout, and animation. CSS can be written in a separate file and linked to the HTML file, or embedded in the HTML file using the <style> tag.  
-- HTML can also be made responsive, which means that the web page can automatically adjust to different screen sizes and devices. Responsive web design is achieved by using HTML and CSS to resize, hide, shrink, or enlarge the web page elements. One of the key techniques for responsive web design is to use the <meta> tag to set the viewport, which is the area of the web page that the user can see.

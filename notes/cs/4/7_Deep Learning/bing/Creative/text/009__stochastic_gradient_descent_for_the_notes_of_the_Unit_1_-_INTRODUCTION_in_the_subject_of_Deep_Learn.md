@@ -1,7 +1,0 @@
-### Stochastic Gradient Descent
-
-- Stochastic gradient descent (SGD) is an optimization algorithm that is widely used in deep learning to train neural networks.
-- SGD updates the parameters of the neural network by taking small steps in the opposite direction of the gradient of the loss function with respect to the parameters.
-- The gradient of the loss function is computed using a subset of the training data, called a mini-batch, instead of the entire data set. This makes SGD faster and more scalable than batch gradient descent, which uses the whole data set to compute the gradient.
-- SGD introduces randomness in the optimization process, which can help escape from local minima and find better solutions. However, SGD also has some drawbacks, such as high variance, sensitivity to learning rate, and difficulty in convergence.
-- To overcome some of the limitations of SGD, several variants and extensions have been proposed, such as momentum, Nesterov accelerated gradient, AdaGrad, RMSProp, Adam, and others. These methods aim to improve the speed, stability, and performance of SGD by using different strategies to adjust the learning rate, dampen the oscillations, and incorporate past gradients.

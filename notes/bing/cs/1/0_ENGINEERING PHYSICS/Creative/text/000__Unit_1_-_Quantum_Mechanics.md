@@ -1,8 +1,0 @@
-## Unit 1 - Quantum Mechanics
-
-- Quantum mechanics is a subfield of physics that describes the behavior of particles — atoms, electrons, photons and almost everything in the molecular and submolecular realm .
-- Quantum mechanics attempts to describe and account for the properties of molecules and atoms and their constituents— electrons, protons, neutrons, and other more esoteric particles such as quarks and gluons.
-- Quantum mechanics was developed during the first half of the 20th century, as a result of the failure of classical physics to explain certain phenomena, such as the blackbody radiation, the photoelectric effect, and the atomic spectra.
-- Quantum mechanics is based on a set of mathematical principles and postulates that govern the behavior of quantum systems, such as the Schrödinger equation, the Heisenberg uncertainty principle, and the superposition principle.
-- Quantum mechanics reveals that the physical reality at the microscopic level is often very different from the intuitive reality at the macroscopic level. For example, quantum mechanics shows that particles can behave like waves, and vice versa; that particles can exist in a superposition of two or more states until an observation is made; that particles can be entangled and influence each other instantaneously over large distances; and that particles can tunnel through potential barriers that would be impossible to overcome classically .
-- Quantum mechanics has many applications in various fields of science and technology, such as atomic physics, molecular physics, nuclear physics, particle physics, quantum chemistry, quantum optics, quantum information, quantum computing, quantum cryptography, quantum metrology, and nanotechnology.

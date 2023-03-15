@@ -1,7 +1,0 @@
-### Kautilya’s Arthashastra
-
-- Kautilya’s Arthashastra is a Sanskrit text on politics, economics, military strategy, and statecraft, attributed to Kautilya, also known as Chanakya or Vishnugupta, who was a professor at Taxila University and the prime minister of the Mauryan Empire under Chandragupta Maurya in the 4th century BCE   .
-- The Arthashastra is divided into 15 books, 150 chapters, and 180 topics, covering various aspects of governance, administration, diplomacy, law, taxation, trade, agriculture, industry, welfare, defense, espionage, and war.
-- The Arthashastra is considered to be one of the earliest and most comprehensive treatises on statecraft in the world, and it reflects the political, social, and economic conditions of ancient India as well as the worldview and values of Kautilya .
-- The Arthashastra is based on the principle of artha, which means material gain, wealth, or prosperity, and it advocates a pragmatic and utilitarian approach to politics, economics, and ethics, with the aim of maximizing the welfare and security of the people and the state .
-- The Arthashastra also contains insights and advice on various topics such as leadership, management, human psychology, diplomacy, espionage, ethics, morality, justice, and public policy, and it has influenced many thinkers and rulers throughout history, both in India and abroad .

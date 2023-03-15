@@ -1,9 +1,0 @@
-### Coherent sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
-
-- Wave optics is the branch of physics that studies the nature and behavior of light as a wave phenomenon.
-- One of the important aspects of wave optics is the interference of light, which occurs when two or more waves superpose and produce a resultant wave with a different intensity.
-- For interference to occur, the waves must have the same frequency and a constant phase difference. Such waves are called coherent waves, and the sources that produce them are called coherent sources.
-- Coherent sources can be natural or artificial. Natural sources of coherent light are rare, such as stars or some lasers. Artificial sources of coherent light can be created by using a single source and splitting it into two beams using a device such as a beam splitter, a prism, or a mirror.
-- Coherent sources produce a stable interference pattern, where the positions of the bright and dark fringes are fixed. The bright fringes are called constructive interference, where the waves add up in phase. The dark fringes are called destructive interference, where the waves cancel out in phase.
-- The condition for constructive interference is that the path difference between the two waves must be an integral multiple of the wavelength, i.e., $\Delta x = n\lambda$, where $n$ is an integer. The condition for destructive interference is that the path difference must be an odd multiple of half the wavelength, i.e., $\Delta x = (2n+1)\frac{\lambda}{2}$, where $n$ is an integer.
-- Coherent sources have many applications in physics, such as holography, interferometry, diffraction, and spectroscopy.

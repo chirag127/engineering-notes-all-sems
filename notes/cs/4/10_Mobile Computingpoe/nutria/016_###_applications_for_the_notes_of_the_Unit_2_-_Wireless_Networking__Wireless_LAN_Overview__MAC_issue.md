@@ -1,7 +1,0 @@
-
-### Applications for the Notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC Issues, IEEE 802.11, Blue Tooth, Wireless in the Subject of Mobile Computing
-
-* **MAC Issues**: The Medium Access Control (MAC) layer is responsible for controlling access to the wireless medium. It is responsible for determining when and how a station can access the medium, and for resolving collisions when two or more stations attempt to access the medium at the same time.
-* **IEEE 802.11**: The IEEE 802.11 standard defines the physical and MAC layers of the wireless LAN. It defines the media access control (MAC) layer protocol, the physical layer, and the physical layer protocol. It also specifies the frame format, the data rates, the modulation techniques, and the authentication and encryption mechanisms.
-* **Blue Tooth**: Bluetooth is a short-range wireless technology that enables two or more devices to communicate with each other over a short distance. It is used in a variety of applications, such as hands-free headsets, wireless keyboards, and wireless mice.
-* **Wireless**: Wireless is a term used to describe any communication system that uses radio waves to transmit data. It is used in a variety of applications, such as cellular phones, wireless LANs, and satellite communication systems.

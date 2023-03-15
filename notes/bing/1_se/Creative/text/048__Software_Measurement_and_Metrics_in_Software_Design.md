@@ -1,9 +1,0 @@
-### Software Measurement and Metrics in Software Design
-
-- Software measurement and metrics are used to assess the quality, complexity, reliability, performance, usability and maintainability of software products and processes.
-- Software measurement is the process of collecting data on the software and its specifications. Software metrics are the functions that assign a numerical value to an attribute of a software product or process.
-- Software measurement and metrics can help software engineers and developers to communicate the status of software development projects, identify and address issues, monitor and improve their workflow, and plan and estimate future work items.
-- There are three types of software metrics: product metrics, process metrics and project metrics.
-  - Product metrics are used to evaluate the state of the software product, such as its size, complexity, functionality, quality, reliability, usability and maintainability. Examples of product metrics are lines of code, cyclomatic complexity, defect density, mean time to failure, user satisfaction and technical debt.
-  - Process metrics are used to monitor and improve the long-term software development process, such as its efficiency, effectiveness, productivity, quality and maturity. Examples of process metrics are defect removal efficiency, defect leakage, process capability, process performance index and return on investment.
-  - Project metrics are used to control and manage the software development project, such as its scope, schedule, cost, risk and resources. Examples of project metrics are earned value, schedule variance, cost variance, risk exposure and resource utilization.

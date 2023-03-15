@@ -1,9 +1,0 @@
-### Geography in India and Ancient India
-
-- India is a large country in South Asia, with a diverse landscape of mountains, plains, deserts, and coasts.
-- India is surrounded by three bodies of water: the Arabian Sea to the west, the Indian Ocean to the south, and the Bay of Bengal to the east.
-- India has many rivers that flow from the Himalayas, the highest mountain range in the world, to the sea. Some of the major rivers are the Indus, the Ganges, the Brahmaputra, and the Narmada.
-- In ancient times, India was larger than it is today, and included parts of modern Pakistan and Afghanistan. The Indus River Valley was the cradle of one of the earliest civilizations in the world, known as the Harappan or Indus Valley Civilization.
-- The Harappan Civilization flourished from about 3300 BCE to 1300 BCE, and had a sophisticated urban culture, with standardized weights and measures, seal carving, and metallurgy. The Harappan people also developed a script, but it has not been deciphered yet.
-- The Harappan Civilization declined due to climate change, natural disasters, and invasions by other peoples. The Aryans, who came from Central Asia, were one of the groups that migrated to India and brought their language, culture, and religion.
-- The geography of India influenced its history, culture, and economy. The mountains and seas provided natural barriers and protection from invaders, but also allowed trade and cultural exchange with other regions. The rivers and monsoons provided fertile land and water for agriculture, but also caused floods and droughts. The diversity of the land and climate also led to the diversity of the people and their languages, religions, and traditions.

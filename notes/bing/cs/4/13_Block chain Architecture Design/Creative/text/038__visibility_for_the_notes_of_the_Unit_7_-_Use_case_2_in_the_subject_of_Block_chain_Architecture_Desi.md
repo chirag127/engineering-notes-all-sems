@@ -1,7 +1,0 @@
-### Visibility
-- Visibility is the ability to see and verify the transactions and data on a blockchain network.
-- Visibility is important for use cases that involve multiple parties who need to share information and trust each other, such as supply chain management, trade finance, healthcare, and identity management.
-- Visibility can be achieved by using public or private blockchains, depending on the level of transparency and privacy required by the use case.
-- Public blockchains are open and permissionless, meaning anyone can join the network, view the transactions, and participate in the consensus process. Public blockchains offer high transparency and immutability, but low scalability and privacy.
-- Private blockchains are closed and permissioned, meaning only authorized entities can join the network, view the transactions, and participate in the consensus process. Private blockchains offer high scalability and privacy, but low transparency and immutability.
-- Visibility can also be enhanced by using smart contracts, which are self-executing agreements that encode the business logic and rules of the use case. Smart contracts can automate transactions, enforce compliance, and provide auditability and accountability on the blockchain network.

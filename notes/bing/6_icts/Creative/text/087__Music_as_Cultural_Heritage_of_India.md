@@ -1,8 +1,0 @@
-### Music as Cultural Heritage of India
-
-- Music is an integral part of the cultural heritage of India. It reflects the diversity, history and spirituality of the Indian people.
-- Music of India can be broadly classified into two main traditions: Indian classical music and Indian folk music. Both traditions have regional variations and subgenres.
-- Indian classical music is based on the concepts of raga (melodic framework) and tala (rhythmic cycle). It is performed by soloists or small ensembles, using vocal or instrumental techniques. There are two major styles of Indian classical music: Carnatic music, which originated in South India, and Hindustani music, which originated in North India.
-- Indian folk music is the music of the common people, often associated with specific regions, communities, festivals, rituals or occupations. It is usually sung in local languages or dialects, and accompanied by simple instruments such as drums, flutes, stringed instruments or cymbals. Some examples of Indian folk music are Bhangra, Baul, Dandiya, Lavani and Qawwali.
-- Music of India has also been influenced by various external cultures and genres, such as Persian, Arabic, Turkish, Central Asian, European and American music. These influences have resulted in the emergence of new forms of music, such as Indian pop, rock, jazz, fusion, filmi and devotional music.
-- Music of India is a rich and diverse expression of the Indian identity, culture and heritage. It is a source of inspiration, joy, and spiritual upliftment for millions of people. It is also a valuable contribution to the global musical heritage.

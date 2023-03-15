@@ -1,7 +1,0 @@
-#### Link layer switches & bridges in local area network
-
-- Link layer switches and bridges are network devices that interconnect different segments of a local area network (LAN) at the data link layer (layer 2) of the OSI model.
-- Link layer switches and bridges operate in a store-and-forward mode, which means they store the incoming frames in a buffer and then forward them to the appropriate destination based on the MAC address of the frame.
-- Link layer switches and bridges can interconnect LAN segments that use different data link layer technologies, such as Ethernet and FDDI, as long as the maximum frame size is compatible. If the frame size is not compatible, the device may drop the frame or truncate it, which can cause errors or loss of data.
-- Link layer switches and bridges can improve the performance and scalability of a LAN by dividing it into smaller collision domains, which reduce the probability of collisions and the amount of retransmissions. However, they do not divide the LAN into smaller broadcast domains, which means they forward all broadcast frames to all ports. This can cause congestion and security issues in large networks.
-- Link layer switches and bridges can also implement some filtering and security functions, such as blocking or allowing frames based on their MAC addresses or VLAN tags. They can also learn the MAC addresses of the devices connected to each port and update their forwarding tables accordingly, which reduces the amount of unnecessary traffic on the network.

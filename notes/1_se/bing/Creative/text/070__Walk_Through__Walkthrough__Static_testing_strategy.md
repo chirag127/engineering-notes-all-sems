@@ -1,9 +1,0 @@
-#### Walk Through (Walkthrough) Static testing strategy
-
-- A walkthrough is a type of static testing technique that involves a presentation of the software product or document by the author to a group of peers or stakeholders for feedback, comments, or suggestions  .
-- The main purpose of a walkthrough is to improve the quality of the software product or document, to share knowledge, to find defects or errors, and to resolve issues or ambiguities  .
-- A walkthrough is usually informal and does not follow a strict procedure or agenda . The author leads the walkthrough and explains the logic, design, or functionality of the software product or document to the participants  .
-- The participants of a walkthrough can include other developers, testers, analysts, managers, customers, or users, depending on the scope and objective of the walkthrough  . The participants can ask questions, give opinions, or suggest improvements during the walkthrough  .
-- A walkthrough can be conducted at any stage of the software development life cycle, such as requirement analysis, design, coding, testing, or deployment  . A walkthrough can cover any software product or document, such as requirement specification, design document, code, test case, user manual, or configuration file  .
-- A walkthrough does not require a formal documentation or record of the feedback, comments, or suggestions given by the participants . However, the author is responsible for fixing the defects or errors found and improving the quality of the software product or document based on the feedback, comments, or suggestions received  .
-- A walkthrough is a simple, quick, and effective way of static testing that can help detect and prevent defects or errors early in the software development life cycle, reduce rework and cost, enhance communication and collaboration, and increase customer satisfaction and confidence   .

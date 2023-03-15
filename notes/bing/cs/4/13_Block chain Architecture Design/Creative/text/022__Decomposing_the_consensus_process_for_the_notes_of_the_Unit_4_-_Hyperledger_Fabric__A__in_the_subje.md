@@ -1,8 +1,0 @@
-### Decomposing the consensus process for the notes of the Unit 4 - Hyperledger Fabric (A) in the subject of Block chain Architecture Design
-
-- Consensus is the process of reaching agreement among a set of distributed nodes on the state and order of transactions in a blockchain network.
-- Hyperledger Fabric is a permissioned blockchain platform that supports pluggable consensus protocols, meaning that different networks can choose different algorithms to suit their needs and requirements.
-- Hyperledger Fabric decomposes the consensus process into three phases: **endorsement**, **ordering**, and **validation**.
-- Endorsement is the phase where transactions are proposed by clients and executed by peers (also called endorsers) that belong to different organizations. The peers check the validity of the transactions and endorse them by signing the results. The endorsed transactions are then sent back to the clients for collection.
-- Ordering is the phase where transactions are collected from different clients and batched into blocks by a special type of peer called the orderer. The orderer assigns a sequence number to each block and broadcasts the blocks to all the peers in the network.
-- Validation is the phase where transactions are checked for compliance with the endorsement policy and the versioning of the state. The endorsement policy specifies the minimum number and type of endorsements required for a transaction to be valid. The versioning of the state ensures that the transactions are executed on the latest version of the ledger state. The transactions that pass the validation are marked as valid and committed to the ledger, while the transactions that fail the validation are marked as invalid and discarded.

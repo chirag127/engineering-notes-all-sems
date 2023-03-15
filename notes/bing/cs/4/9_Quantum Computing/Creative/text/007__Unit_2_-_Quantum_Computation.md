@@ -1,9 +1,0 @@
-## Unit 2 - Quantum Computation
-
-- Quantum computation is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.
-- Quantum computers use quantum bits or qubits, which can exist in superposition of two states, such as |0> and |1>, and can be entangled with other qubits, creating quantum correlations.
-- Quantum computers can perform quantum algorithms, which exploit quantum phenomena such as superposition, entanglement, and interference, to achieve exponential speedup or enhanced accuracy over classical algorithms.
-- Quantum computers can be programmed using quantum software development kits (SDKs), such as Qiskit, which is an open-source, python-based quantum SDK developed by IBM. Qiskit has modules dedicated to finance, chemistry, optimization, and machine learning.
-- Quantum computing is based on the science of quantum mechanics and its unbelievable phenomena, such as the uncertainty principle, the no-cloning theorem, and the measurement problem. It is a beautiful combination of physics, mathematics, computer science and information theory.
-- Quantum computing requires a solid understanding of linear algebra, as it is essentially matrix vector multiplication under the hood. It also requires familiarity with complex numbers, probability theory, and logic gates.
-- Quantum computing is a rapidly evolving field, with many challenges and opportunities. Some of the current research topics include quantum error correction, quantum cryptography, quantum simulation, quantum machine learning, and quantum supremacy.

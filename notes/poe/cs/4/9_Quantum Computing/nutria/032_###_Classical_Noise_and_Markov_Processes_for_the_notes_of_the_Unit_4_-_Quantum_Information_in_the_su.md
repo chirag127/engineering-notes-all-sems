@@ -1,9 +1,0 @@
-
-### Classical Noise and Markov Processes for the Notes of the Unit 4 - Quantum Information in the Subject of Quantum Computing
-
-- **Classical Noise**: This refers to the random fluctuations in the environment that can affect the quantum state of a system. Examples of classical noise include thermal noise, electrical noise, and other environmental noise. 
-- **Markov Processes**: This is a type of stochastic process in which the future state of a system depends only on its current state and not on its past history. Markov processes are commonly used to model the behavior of quantum systems.
-- **Advantages of Classical Noise and Markov Processes**: These processes provide a way to model the behavior of a quantum system in a more realistic way, as they take into account the random fluctuations in the environment. They also allow for the simulation of a quantum system in real-time and can be used to analyze the effects of noise on a quantum system.
-- **Disadvantages of Classical Noise and Markov Processes**: These processes can be computationally expensive and can require significant computing power. They can also be difficult to analyze, as they rely on complex mathematical models.
-- **Examples of Classical Noise and Markov Processes**: Examples of classical noise and Markov processes include thermal noise, electrical noise, and other environmental noise. These processes can also be used to model the behavior of a quantum system in a more realistic way.
-- **Applications of Classical Noise and Markov Processes**: These processes can be used to model the behavior of a quantum system in a more realistic way and can be used to analyze the effects of noise on a quantum system. They can also be used to simulate a quantum system in real-time.

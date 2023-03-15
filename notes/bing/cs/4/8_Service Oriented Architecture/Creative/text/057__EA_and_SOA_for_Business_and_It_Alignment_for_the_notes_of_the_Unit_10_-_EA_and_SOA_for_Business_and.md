@@ -1,8 +1,0 @@
-### EA and SOA for Business and IT Alignment
-
-- Enterprise Architecture (EA) is a framework that covers all the dimensions of IT architecture for the enterprise, such as business, data, application, and technology architecture .
-- Service Oriented Architecture (SOA) is an architectural strategy that uses the concept of "Services" as the underlining business-IT alignment entity . Services are self-contained, reusable, and loosely coupled components that provide business functionality and can be orchestrated to achieve business goals.
-- Both EA and SOA share the objective of achieving business and IT alignment, which means ensuring that the IT solutions support the business vision, strategy, and goals  .
-- However, EA and SOA are not the same thing. EA is a broader and more holistic view of the enterprise, while SOA is a specific approach to design and implement IT solutions .
-- EA and SOA can complement each other and benefit from each other's strengths. EA can provide the strategic direction, governance, and standards for SOA, while SOA can provide the flexibility, agility, and interoperability for EA   .
-- SOA governance is a key aspect of ensuring the alignment between EA and SOA. SOA governance refers to the processes, policies, and roles that guide the design, development, deployment, and operation of SOA solutions. SOA governance should align with the business, IT, and EA governance, and ensure the compliance and quality of the SOA solutions.

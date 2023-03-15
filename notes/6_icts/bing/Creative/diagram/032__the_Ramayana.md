@@ -1,5 +1,0 @@
-The Ramayana is a Hindu epic about the life of the legendary Prince Rama of Kosala, who is an incarnation of the god Vishnu. He is exiled from his kingdom by his stepmother Kaikeyi, who wants her son Bharatha to be the king. He is accompanied by his wife Sita and his brother Lakshmana. In the forest, he encounters many sages, demons, and allies, such as the monkey king Sugriva and the bear king Jambavan. He also faces the evil demon king Ravana, who abducts Sita and takes her to his island kingdom of Lanka. Rama wages a war against Ravana with the help of his monkey army, led by the brave Hanuman. He rescues Sita and returns to Ayodhya, where he is crowned as the king. He later banishes Sita to the forest due to the doubts of his subjects about her chastity. Sita gives birth to his twin sons, Lava and Kusha, who are raised by the sage Valmiki. They eventually reunite with Rama, but Sita chooses to return to the earth, her mother. Rama rules for a long time and then returns to his heavenly abode.
-
-The following is a detailed ASCII diagram for the Ramayana:
-
-```

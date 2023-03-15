@@ -1,8 +1,0 @@
-### Centralized Deadlock Detection
-
-- Centralized deadlock detection is a technique used in distributed systems to handle deadlock detection by maintaining a global wait-for graph at a single chosen site, called the deadlock-detection coordinator .
-- A wait-for graph is a directed graph that represents the dependencies between processes and resources in the system. A node in the graph can be either a process or a resource, and an edge from a process to a resource means that the process is requesting the resource, while an edge from a resource to a process means that the resource is allocated to the process.
-- The deadlock-detection coordinator collects information from all the sites about the local wait-for graphs and constructs the global wait-for graph by merging the local graphs. The coordinator then periodically runs a cycle detection algorithm on the global graph to check for the existence of deadlocks .
-- If a deadlock is detected, the coordinator can initiate a recovery action, such as aborting one or more of the deadlocked processes, or preempting some of the resources involved in the deadlock .
-- The advantages of centralized deadlock detection are that it is simple to implement, it requires less communication overhead than distributed approaches, and it can detect global deadlocks that span multiple sites .
-- The disadvantages of centralized deadlock detection are that it relies on a single point of failure, the coordinator, which can become a bottleneck or a target of attacks, it may not be scalable for large or dynamic systems, and it may incur delays in detecting and resolving deadlocks due to the periodic nature of the algorithm .

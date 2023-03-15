@@ -1,9 +1,0 @@
-### Weighted Cepstral Distances And Filtering
-
-- Cepstrum is the inverse Fourier transform of the logarithm of the spectrum of a signal. It is useful for analyzing the properties of speech signals, such as the periodic excitation from the vocal cords and the formant filtering of the vocal tract.
-- Cepstral distance is a measure of the similarity or dissimilarity between two speech signals based on their cepstral coefficients. It can be used for speech recognition, speaker identification, and speech enhancement tasks.
-- Weighted cepstral distance is a variant of cepstral distance that assigns different weights to the cepstral coefficients according to their importance or relevance for the task. The weights can be derived from statistical, perceptual, or deterministic criteria  .
-- Weighted cepstral distance can improve the performance of speech processing systems by emphasizing the features that are more discriminative or perceptually significant, and by reducing the effects of noise or distortion  .
-- Filtering is a process of modifying the spectrum of a signal by applying a filter function. Filtering can be used to enhance, compress, or synthesize speech signals.
-- Weighted cepstral filtering is a technique of applying a filter function that is derived from the weighted cepstral distance between two signals. The filter function can be used to modify the spectrum of one signal to make it more similar or dissimilar to another signal .
-- Weighted cepstral filtering can be used for speech coding, speech synthesis, speech enhancement, and speech modification applications. It can improve the quality, intelligibility, or naturalness of speech signals by compensating for the spectral differences or distortions between the original and the processed signals .

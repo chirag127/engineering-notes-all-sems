@@ -1,8 +1,0 @@
-### Cluster Grids
-
-- Cluster grids are a form of high-performance computing (HPC) that use a large number of CPU or GPU-based computers to solve complex mathematical tasks.
-- Cluster grids can be used for various applications, such as genomics, oil and gas simulations, finance, semiconductor design, engineering, weather modeling, etc.
-- Cluster grids differ from traditional HPC systems in that they can dynamically scale up and down the resources as needed, removing the compute capacity as a bottleneck and optimizing the infrastructure for the requirements of the jobs.
-- Cluster grids can be implemented on cloud platforms, such as Azure, or on-premises, or as a hybrid solution. Cloud platforms offer a range of compute and storage options that are optimized for HPC workloads, as well as management and security tools.
-- Cluster grids can leverage distributed computing APIs, such as GridGain, to support massively parallel processing and real-time analytics. These APIs enable the distribution of resource-intensive tasks over a cluster of server nodes, and provide fault tolerance, load balancing, and data caching features.
-- Cluster grids can also use collapsed network backbones, which simplify the network architecture and improve the performance and reliability of the communication between the nodes. A collapsed network backbone consists of a single router that connects all the nodes, instead of multiple routers.

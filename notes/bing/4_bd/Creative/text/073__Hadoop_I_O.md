@@ -1,8 +1,0 @@
-#### Hadoop I/O
-
-- Hadoop I/O is a set of primitives for data input and output in Hadoop.
-- Hadoop I/O includes techniques such as data integrity, compression, serialization, and file formats that are suitable for large-scale data processing.
-- Data integrity is the ability to detect and correct errors in data. Hadoop I/O uses checksums to verify the integrity of data blocks stored in HDFS and transferred across the network.
-- Compression is the process of reducing the size of data to save storage space and network bandwidth. Hadoop I/O supports various compression codecs, such as gzip, bzip2, LZO, and Snappy. Compression can be applied at different levels, such as file, block, or record.
-- Serialization is the process of converting data structures into a binary format that can be stored or transmitted. Hadoop I/O uses Writable and Avro as the main serialization frameworks for MapReduce programs. Writable is a simple and fast serialization format that implements the Writable interface. Avro is a schema-based serialization format that supports schema evolution and data interoperability.
-- File formats are the ways of organizing and storing data in files. Hadoop I/O provides several file formats for different types of data, such as text, binary, and structured. Some of the common file formats are SequenceFile, MapFile, SetFile, ArrayFile, and AvroFile. These file formats provide features such as splitting, compression, and random access.

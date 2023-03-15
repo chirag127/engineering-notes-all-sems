@@ -1,8 +1,0 @@
-### Total order for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
-
-- A distributed system is a collection of independent processes that communicate by message passing over a network.
-- A distributed system is said to have **partial order** if we can have a partial order relationship among the events in the system. A partial order relationship means that some events are ordered and some are not.
-- A partial order relationship can be established by using **logical clocks**, such as Lamport timestamps, which assign a logical time to each event based on the causal dependencies among events.
-- A distributed system is said to have **total order** if we can have a total order relationship among the events in the system. A total order relationship means that all events are ordered and there is no ambiguity about their sequence.
-- A total order relationship can be established by using **total order protocols**, such as atomic broadcast, distributed consensus, or vector clocks, which ensure that all processes agree on the same order of events.
-- The total ordering of events is very useful for distributed system implementation, as it allows processes to coordinate their actions and maintain consistent state. For example, total order can be used to implement replicated state machines, fault-tolerant services, distributed transactions, or distributed databases.

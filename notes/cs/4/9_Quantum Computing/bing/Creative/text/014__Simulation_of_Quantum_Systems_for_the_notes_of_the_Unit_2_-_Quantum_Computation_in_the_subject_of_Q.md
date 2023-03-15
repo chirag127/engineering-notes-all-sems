@@ -1,9 +1,0 @@
-### Simulation of Quantum Systems
-
-- Simulation of quantum systems is the process of using a controllable quantum device to study the behavior of another quantum system that is less accessible or difficult to model.
-- Simulation of quantum systems can be useful for understanding quantum phenomena such as entanglement, superposition, interference, decoherence, and quantum phase transitions.
-- Simulation of quantum systems can also be applied to various fields of physics, chemistry, biology, and computer science, such as quantum chemistry, quantum metrology, quantum information, and quantum machine learning.
-- There are two main types of quantum simulation: analog and digital.
-  - Analog quantum simulation is the direct emulation of a quantum system by another quantum system that has similar properties and interactions. For example, a trapped ion system can be used to simulate a spin chain model.
-  - Digital quantum simulation is the approximation of a quantum system by a sequence of quantum gates applied to a quantum computer. For example, a quantum circuit can be used to simulate the time evolution of a quantum system.
-- The main challenges of quantum simulation are the scalability, fidelity, and complexity of the quantum devices and algorithms. The scalability refers to the ability to simulate large and complex quantum systems with a limited number of qubits and resources. The fidelity refers to the accuracy and robustness of the simulation against noise and errors. The complexity refers to the difficulty of designing and implementing efficient and reliable quantum algorithms and protocols for simulation.

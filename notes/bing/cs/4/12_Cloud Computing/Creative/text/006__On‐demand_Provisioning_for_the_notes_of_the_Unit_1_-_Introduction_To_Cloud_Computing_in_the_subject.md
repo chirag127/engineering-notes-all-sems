@@ -1,8 +1,0 @@
-### On‐demand Provisioning
-
-- On‐demand provisioning is one of the key characteristics of cloud computing that enables users to request and access computing resources as and when they need them.
-- On‐demand provisioning eliminates the need for upfront planning and long-term commitment of resources, as users can scale up or down their resources dynamically according to their changing needs and pay only for what they use.
-- On‐demand provisioning also improves the efficiency and utilization of resources, as cloud providers can allocate and deallocate resources to different users based on the demand and availability, without wasting or underutilizing any resources.
-- On‐demand provisioning can be achieved through various mechanisms, such as self-service portals, APIs, automation tools, and orchestration platforms, that allow users to interact with the cloud provider and request, configure, monitor, and release resources on demand.
-- On‐demand provisioning can be applied to different types of resources, such as compute, storage, network, software, platform, and function, that are offered by the cloud provider as services, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Function as a Service (FaaS).
-- On‐demand provisioning can also be categorized into different levels, such as coarse-grained and fine-grained, depending on the granularity and flexibility of the resources that can be provisioned on demand. For example, coarse-grained provisioning may allow users to request and access virtual machines of predefined sizes and configurations, while fine-grained provisioning may allow users to request and access specific amounts of CPU, memory, disk, and network resources.

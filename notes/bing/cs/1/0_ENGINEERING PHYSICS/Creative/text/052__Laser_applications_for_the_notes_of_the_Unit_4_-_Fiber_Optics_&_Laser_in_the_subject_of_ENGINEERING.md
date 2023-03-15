@@ -1,7 +1,0 @@
-### Laser applications
-
-Laser is an acronym for light amplification by stimulated emission of radiation. It is a device that produces a coherent, monochromatic, and intense beam of light. Lasers have many applications in various fields of science, engineering, medicine, industry, and entertainment. Some of the common laser applications are:
-
-- **Transmission and processing of information**: Lasers can be used to transmit and process information in various ways, such as optical fiber communication, optical data storage, barcode scanners, laser printers, holography, and optical computing.
-- **Precise delivery of energy**: Lasers can be used to deliver energy precisely and selectively to a target, such as laser cutting, welding, drilling, soldering, engraving, marking, heat treatment, and surface modification. Lasers can also be used for medical applications, such as laser surgery, photocoagulation, photodynamic therapy, and laser hair removal.
-- **Alignment, measurement, and imaging**: Lasers can be used to align, measure, and image objects and phenomena, such as laser levels, laser rangefinders, laser pointers, laser interferometry, laser spectroscopy, laser microscopy, laser scanning, and laser radar (lidar). Lasers can also be used for artistic and entertainment purposes, such as laser shows, laser art, and laser weapons.

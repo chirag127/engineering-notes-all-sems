@@ -1,8 +1,0 @@
-### Various Philosophical Doctrines in India
-
-- Indian philosophy refers to the diverse systems of thought and reflection that were developed by the civilizations of the Indian subcontinent. 
-- Indian philosophy can be classified into two broad categories: orthodox (astika) and heterodox (nastika) schools, depending on their acceptance or rejection of the authority of the Vedas, the ancient scriptures of Hinduism.  
-- The orthodox schools include six major systems: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta. These schools share some common themes, such as the concepts of dharma, karma, samsara, moksha, and the existence of Brahman and Atman. However, they differ in their metaphysical, epistemological, ethical, and soteriological views.   
-- The heterodox schools include four major systems: Jainism, Buddhism, Ajivika, and Charvaka. These schools reject the Vedas and the notion of a permanent self or soul. They also emphasize the role of rationality, experience, and ethical conduct in the pursuit of liberation from suffering and rebirth.   
-- Apart from these schools, there are also other traditions of Indian philosophy, such as the Shaiva, Raseshvara, Sikh, and Tantric schools, which have their own distinctive doctrines and practices.  
-- Indian philosophy has a long and rich history of debate, dialogue, and synthesis among the various schools and thinkers. It has also influenced and been influenced by other philosophical traditions, such as Greek, Persian, Chinese, and Islamic philosophy.

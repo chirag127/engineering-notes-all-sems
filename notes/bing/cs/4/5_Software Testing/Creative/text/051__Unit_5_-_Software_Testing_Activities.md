@@ -1,8 +1,0 @@
-## Unit 5 - Software Testing Activities
-
-Software testing activities are the tasks and processes that are performed to ensure the quality and reliability of a software product. Software testing activities can be classified into four main categories:
-
-- Planning: This involves defining the scope, objectives, strategy, resources, schedule, and risks of the testing process. Planning also includes identifying the test cases, test data, test environment, and test tools that will be used to verify the software requirements and specifications.
-- Design: This involves designing the test cases, test data, test environment, and test tools that will be used to execute the testing process. Design also includes reviewing and validating the test design to ensure its completeness, correctness, and consistency.
-- Execution: This involves running the test cases, test data, test environment, and test tools to perform the testing process. Execution also includes monitoring, controlling, and reporting the test results and test status.
-- Evaluation: This involves evaluating the test results and test status to determine the quality and reliability of the software product. Evaluation also includes identifying, analyzing, and resolving the defects and issues that are found during the testing process. Evaluation also includes documenting and communicating the test findings and recommendations to the stakeholders.

@@ -1,8 +1,0 @@
-### Treebanks
-
-- A treebank is a collection of sentences annotated with syntactic structures, such as phrase structure trees or dependency graphs .
-- Treebanks are useful for natural language processing (NLP) because they provide gold-standard data for training and evaluating systems such as part-of-speech taggers, parsers, semantic analyzers and machine translation systems  .
-- Treebanks also enable linguistic research on various aspects of syntax, such as word order, grammatical categories, argument structure, and long-distance dependencies  .
-- Treebanks can vary in their size, language, annotation scheme, and level of detail. Some examples of well-known treebanks are the Penn Treebank for English, the Prague Dependency Treebank for Czech, the Universal Dependencies Treebank for multiple languages, and the PropBank and FrameNet for semantic roles .
-- The process of creating a treebank involves developing a coding manual, designing an annotation tool, collecting and pre-processing a corpus, and annotating the sentences with syntactic structures. The annotation can be done manually, semi-automatically, or automatically, depending on the quality and availability of resources .
-- Treebanks are often evaluated in terms of their coverage, consistency, accuracy, and usability. Some challenges and limitations of treebanking include dealing with ambiguity, complexity, and variation in natural language, as well as ensuring interoperability and compatibility among different treebanks and annotation schemes .

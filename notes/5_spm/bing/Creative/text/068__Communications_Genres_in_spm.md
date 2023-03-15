@@ -1,7 +1,0 @@
-### Communications Genres in SPM
-
-- Communication genres are the types and forms of communication that are used in a software project management (SPM) context.
-- Communication genres can be classified into three main categories: oral, written, and visual.
-- Oral communication genres include face-to-face meetings, phone calls, video conferences, presentations, and speeches. Oral communication is useful for conveying information quickly, clarifying issues, resolving conflicts, and building rapport. However, oral communication can also be prone to misunderstandings, distractions, noise, and lack of documentation.
-- Written communication genres include emails, memos, reports, proposals, contracts, specifications, requirements, design documents, test plans, user manuals, and feedback forms. Written communication is useful for documenting information, providing evidence, communicating complex or technical details, and reaching a large or dispersed audience. However, written communication can also be time-consuming, impersonal, ambiguous, and overwhelming.
-- Visual communication genres include diagrams, charts, graphs, tables, models, prototypes, mockups, screenshots, and animations. Visual communication is useful for illustrating information, simplifying concepts, showing relationships, and enhancing understanding. However, visual communication can also be misleading, inaccurate, incomplete, or outdated.

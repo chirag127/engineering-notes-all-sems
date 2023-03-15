@@ -1,8 +1,0 @@
-### Transport layer protocols
-
-- Transport layer protocols are responsible for providing end-to-end communication services for applications over a network .
-- Transport layer protocols use port numbers to identify different applications or processes that communicate with each other.
-- Transport layer protocols can be classified into two categories: connection-oriented and connectionless .
-  - Connection-oriented protocols establish a logical connection between the sender and the receiver before exchanging data, and maintain the connection until the data transfer is complete. They also provide reliable data delivery, error detection and correction, flow control, and congestion control. An example of a connection-oriented protocol is the Transmission Control Protocol (TCP) .
-  - Connectionless protocols do not establish or maintain a connection between the sender and the receiver, and do not guarantee reliable data delivery, error detection and correction, flow control, or congestion control. They are suitable for applications that require fast and efficient data transfer, but can tolerate some data loss or corruption. An example of a connectionless protocol is the User Datagram Protocol (UDP) .
-- Some transport layer protocols that have been defined and implemented for specific purposes include the Datagram Congestion Control Protocol (DCCP) and the Stream Control Transmission Protocol (SCTP).

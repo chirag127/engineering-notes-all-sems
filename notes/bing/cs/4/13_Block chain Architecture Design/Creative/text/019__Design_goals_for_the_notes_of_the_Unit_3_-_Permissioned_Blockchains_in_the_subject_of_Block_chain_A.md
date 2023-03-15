@@ -1,8 +1,0 @@
-### Design goals for the notes of the Unit 3 - Permissioned Blockchains in the subject of Block chain Architecture Design
-
-- The notes should provide an overview of the concept, characteristics, and applications of permissioned blockchains, which are blockchains that require participants to be authorized by a central authority or a consortium of authorities.
-- The notes should explain the differences and trade-offs between permissioned and permissionless blockchains, such as scalability, security, privacy, governance, and interoperability.
-- The notes should introduce the main types of consensus mechanisms used in permissioned blockchains, such as proof-of-authority, proof-of-stake, proof-of-elapsed-time, and Byzantine fault tolerance, and compare their advantages and disadvantages.
-- The notes should describe the architecture and design principles of some of the most popular permissioned blockchain platforms, such as Hyperledger Fabric, Corda, Quorum, and Besu, and highlight their features and use cases.
-- The notes should illustrate the challenges and opportunities of developing and deploying permissioned blockchain solutions, such as regulatory compliance, identity management, smart contract development, and cross-chain communication.
-- The notes should include diagrams, examples, exercises, and references to help the students understand and apply the concepts and techniques of permissioned blockchains.

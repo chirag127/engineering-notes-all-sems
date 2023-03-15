@@ -1,8 +1,0 @@
-### Von Neumann
-
-- Von Neumann is the name of a famous mathematician and physicist who contributed to the fields of quantum mechanics, computer science, game theory, and many others.
-- In the context of quantum error correction, Von Neumann is associated with two concepts: projective measurements and classical error correction.
-- Projective measurements are a type of quantum measurements that collapse the state of a quantum system into one of the eigenstates of the measurement operator. They are also called von Neumann measurements or von Neumann-Lüders measurements.
-- Projective measurements are used in many quantum error correction schemes to detect and correct errors on quantum states. For example, in the surface code, projective measurements are performed on stabilizer operators to obtain error syndromes that indicate the type and location of errors on the logical qubits .
-- Classical error correction is a method of protecting classical information from noise and errors by encoding it into redundant bits and applying correction rules based on the error syndromes. It was first studied by von Neumann in the 1950s.
-- Classical error correction is the basis for many quantum error correction codes, such as the Shor code, the Steane code, and the CSS codes. These codes encode quantum information into multiple qubits and use projective measurements and classical correction rules to correct errors on the qubits.

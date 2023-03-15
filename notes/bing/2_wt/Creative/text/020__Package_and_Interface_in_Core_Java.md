@@ -1,9 +1,0 @@
-#### Package and Interface in Core Java
-
-- A **package** is a group of classes, interfaces, sub-packages, and other types that are logically related and organized into a folder structure. A package helps to avoid naming conflicts, to find and use related types, and to reuse existing code. A package is created using the `package` keyword, and a package name usually follows the reverse domain name convention, such as `com.example.myapp`.
-- An **interface** is a group of abstract methods and constants that define a contract or a behavior that a class can implement. An interface is created using the `interface` keyword, and an interface name usually follows the Pascal case convention, such as `MyInterface`. A class can implement one or more interfaces using the `implements` keyword, and must provide concrete implementations for all the abstract methods in the interfaces.
-- Some of the benefits of using packages and interfaces in core Java are:
-  - Packages and interfaces promote modularity and encapsulation, by separating the implementation details from the public interface of a type.
-  - Packages and interfaces facilitate code reuse, by allowing existing types to be imported and implemented in different contexts.
-  - Packages and interfaces enhance code readability and maintainability, by grouping related types into meaningful categories and providing clear documentation for the expected behavior of a type.
-  - Packages and interfaces enable polymorphism and dynamic binding, by allowing a reference variable of an interface type to hold any object that implements that interface, and to invoke the appropriate method at run time.

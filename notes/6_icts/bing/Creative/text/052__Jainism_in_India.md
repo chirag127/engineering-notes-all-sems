@@ -1,8 +1,0 @@
-### Jainism in India
-
-- Jainism is one of the world’s oldest religions, originating in India at least 2,500 years ago. The spiritual goal of Jainism is to become liberated from the endless cycle of rebirth and to achieve an all-knowing state called moksha.
-- Jainism is based on the teachings of 24 tirthankaras, or teachers, who showed the way of nonviolence and self-discipline. The last and most prominent tirthankara was Vardhamana Mahavira, who lived in the 6th century BCE .
-- Jainism emphasizes the principle of ahimsa, or not harming any living being, as the highest ethical value. Jains practice strict vegetarianism and avoid root vegetables, as they believe that uprooting them harms the soil and the microorganisms living in it .
-- Jainism also teaches the doctrines of anekantavada, or the multiplicity of viewpoints, and syadvada, or the relativity of truth. These doctrines imply that no single perspective can capture the whole truth, and that one should respect the views of others.
-- Jainism is India's sixth-largest religion and is practiced throughout India. As per the 2011 census, there are 4,451,753 Jains in the 1.35 billion population of India, the majority living in Maharashtra, Rajasthan, Gujarat and Madhya Pradesh.
-- Jains are highly educated and wealthy compared to Indians overall, and most of them belong to the General Category caste. Jains have also been awarded the minority status by the Government of India in 2014, which grants them certain rights and privileges .

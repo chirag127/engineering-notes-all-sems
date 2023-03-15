@@ -1,8 +1,0 @@
-#### Spark on YARN
-
-- Spark on YARN is a mode of running Spark applications on a Hadoop cluster that uses YARN (Yet Another Resource Negotiator) as the resource manager.
-- Spark on YARN supports two deploy modes: cluster and client. In cluster mode, the Spark driver runs inside an application master process that is managed by YARN on the cluster. In client mode, the driver runs in the client process, and the application master is only used for requesting resources from YARN.
-- Spark on YARN requires a binary distribution of Spark that is built with YARN support. The HADOOP_CONF_DIR or YARN_CONF_DIR environment variable must point to the directory that contains the Hadoop configuration files. These files are used to write to HDFS and connect to the YARN ResourceManager.
-- Spark on YARN can be launched using the spark-submit script with the --master parameter set to yarn. Additional options can be specified to configure the driver, executor, and application master resources, as well as the queue, the archive, and the external shuffle service.
-- Spark on YARN can leverage security features like authentication and encryption using Kerberos. The spark.yarn.principal and spark.yarn.keytab properties must be set to the principal and keytab file of the user running the application. The Hadoop configuration files must also contain the relevant security settings.
-- Spark on YARN can use the Spark History Server to replace the Spark Web UI for monitoring and debugging applications. The spark.yarn.historyServer.address property must be set to the address of the history server. The history server must have access to the event logs of the applications, which can be stored in HDFS or a local directory.

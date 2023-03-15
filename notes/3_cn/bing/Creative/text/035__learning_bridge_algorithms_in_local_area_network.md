@@ -1,9 +1,0 @@
-#### Learning bridge algorithms in local area network
-
-- A bridge is a device that connects two or more local area networks (LANs) at the data link layer and forwards packets between them based on their MAC addresses.
-- A bridge algorithm is a method that determines how a bridge learns and updates its forwarding table and how it handles loops and broadcasts in the network.
-- There are two main types of bridge algorithms: spanning tree and source routing.
-- Spanning tree algorithm  is based on the idea of creating a loop-free logical topology of the network by disabling some of the bridge ports. The algorithm uses a distributed protocol to elect a root bridge and assign port roles to each bridge. The algorithm also handles topology changes and network failures by reconfiguring the spanning tree.
-- Source routing algorithm  is based on the idea of embedding the path information in the packet header. The algorithm requires the source node to know the topology of the network and to choose a route for each packet. The algorithm also handles loops and broadcasts by using special flags and fields in the packet header.
-- The performance of the two bridge algorithms depends on various factors, such as the network size, topology, traffic pattern, and bridge implementation. Some of the performance metrics are throughput, delay, overhead, robustness, and scalability.
-- Generally speaking, spanning tree algorithm has the advantages of simplicity, transparency, and adaptability, while source routing algorithm has the advantages of flexibility, efficiency, and load balancing. However, both algorithms have some drawbacks and limitations, such as broadcast storms, topology discovery, and address resolution.

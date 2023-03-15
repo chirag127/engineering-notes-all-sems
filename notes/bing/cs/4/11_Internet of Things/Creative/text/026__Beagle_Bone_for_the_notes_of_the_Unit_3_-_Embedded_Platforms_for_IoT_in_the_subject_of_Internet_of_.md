@@ -1,8 +1,0 @@
-### BeagleBone
-
-- BeagleBone is a series of low-cost, open-source, single-board computers that run Linux and can be used for various IoT projects.
-- BeagleBone is based on the Texas Instruments (TI) Sitara AM335x system-on-chip, which features a 1 GHz ARM Cortex-A8 processor, a 3D graphics accelerator, and a programmable real-time unit (PRU) for interfacing with sensors and actuators.
-- BeagleBone has 512 MB of DDR3 RAM and 4 GB of eMMC flash storage, which can be expanded with a microSD card slot. It also has a micro HDMI port, a USB host port, a USB client port, and a 10/100 Ethernet port.
-- BeagleBone has two 46-pin headers that expose various digital and analog I/O pins, serial interfaces, PWM outputs, and power signals. These pins can be connected to various plug-in boards called capes, which extend the functionality of the BeagleBone with additional features such as LCD displays, cameras, motor drivers, sensors, etc.
-- BeagleBone can run various Linux distributions, such as Debian, Ubuntu, and Android, as well as other operating systems, such as Windows Embedded and FreeBSD. It can also run applications written in Python, C/C++, Java, Node.js, and other languages.
-- BeagleBone is supported by a large and active community of developers and hobbyists, who provide documentation, tutorials, code examples, and project ideas. BeagleBone also has a dedicated website, https://beagleboard.org, where users can find more information and resources.

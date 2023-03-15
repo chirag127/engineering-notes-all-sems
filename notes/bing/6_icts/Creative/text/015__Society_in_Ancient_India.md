@@ -1,8 +1,0 @@
-### Society in Ancient India
-
-- Ancient India was a diverse and complex society that spanned from the late Bronze Age to the early Iron Age, and from the Indus Valley to the Gangetic Plain.
-- The ancient Indian society was based on the concept of **varna**, which was a four-fold classification of people into four categories: Brahmins (priests and scholars), Kshatriyas (warriors and rulers), Vaishyas (merchants and farmers), and Shudras (servants and laborers). 
-- The ancient Indian society was also divided into four stages of life, or **ashrams**, which were: Brahmacharya (student), Grihastha (householder), Vanaprastha (retired), and Sannyasa (renunciant). 
-- The ancient Indian society was influenced by various religions and philosophies, such as Hinduism, Buddhism, Jainism, and others, which shaped the values, beliefs, and practices of the people.
-- The ancient Indian society was marked by remarkable achievements in various fields, such as mathematics, astronomy, medicine, literature, art, architecture, and urban planning. Some of the inventions and innovations of the ancient Indians include the decimal system, zero, the concept of infinity, plastic surgery, yoga, chess, and the flush toilet. 
-- The ancient Indian society was also characterized by social problems and challenges, such as caste discrimination, gender inequality, poverty, violence, and foreign invasions. The ancient Indians faced various political and cultural changes, such as the rise and fall of empires, the emergence of regional kingdoms, and the interaction with other civilizations.

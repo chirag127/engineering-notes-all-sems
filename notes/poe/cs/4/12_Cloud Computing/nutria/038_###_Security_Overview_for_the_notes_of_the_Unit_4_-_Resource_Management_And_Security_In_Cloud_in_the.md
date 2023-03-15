@@ -1,9 +1,0 @@
-
-### Security Overview for the Notes of the Unit 4 - Resource Management and Security in Cloud in the Subject of Cloud Computing
-
-* Cloud computing is a technology that allows users to access data, applications, and services over the internet. It also enables users to store and manage data in a secure and cost-effective manner.
-* Security is a major concern in cloud computing, as it involves the handling of sensitive data and the potential for unauthorized access.
-* To ensure the security of cloud computing systems, resource management and security measures must be implemented.
-* Resource management involves the allocation of resources such as memory, storage, and processing power to users. It also involves the scheduling of tasks and the management of user accounts.
-* Security measures in cloud computing include authentication, authorization, encryption, and access control. Authentication is the process of verifying the identity of a user before granting access to a system. Authorization is the process of granting permission to a user to access certain resources. Encryption is the process of scrambling data to make it unreadable to unauthorized users. Access control is the process of restricting access to certain resources based on user roles and privileges.
-* To ensure the security of cloud computing systems, organizations must implement robust security measures, such as two-factor authentication, encryption of data in transit and at rest, and access control policies. Additionally, organizations should invest in security tools, such as intrusion detection systems, to detect and prevent unauthorized access.

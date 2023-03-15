@@ -1,7 +1,0 @@
-#### Challenges faced by Women in Society in Ancient India
-
-- Women in ancient India had a varied and complex status depending on the time period and the social and religious context.
-- In the early Vedic period (around 1500 BC), women enjoyed a high degree of freedom and respect. They could participate in war, gymnastics, public activities, decision-making, and education. They could also study the Vedic texts and become scholars and philosophers.
-- However, in the later Vedic period, women's status declined as patriarchy and caste system became more dominant. Women lost their economic and political rights and were confined to the domestic sphere. They were also subjected to various restrictions and discriminations such as child marriage, widow burning, and inheritance laws.
-- In the post-Vedic period, women's condition further deteriorated as the Manusmriti texts were adopted. These texts prescribed a code of conduct for women that was oppressive and degrading. Women were considered as impure, dependent, and inferior to men. They were denied the right to education, property, and freedom of choice.
-- Women in ancient India faced many challenges such as violence, exploitation, harassment, and oppression from the male-dominated society. They had to endure the burden of child bearing and family care, as well as the stigma of being considered as a source of sin and evil.

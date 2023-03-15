@@ -1,7 +1,0 @@
-### Shannon’s theory of confusion and diffusion
-
-- Shannon’s theory of confusion and diffusion is a framework for designing secure block ciphers, proposed by Claude Shannon in his paper "Communication Theory of Secrecy Systems" in 1949.
-- Confusion and diffusion are two properties that a block cipher should have to resist various attacks, such as statistical analysis, differential cryptanalysis, and linear cryptanalysis.
-- Confusion means that the relationship between the plaintext and the ciphertext should be complex and obscure, so that an attacker cannot easily infer the key or the plaintext from the ciphertext. This can be achieved by using nonlinear functions, such as S-boxes, in the encryption algorithm.
-- Diffusion means that the influence of each plaintext bit or key bit should be spread over as many ciphertext bits as possible, so that changing one bit in the plaintext or the key results in changing many bits in the ciphertext. This can be achieved by using permutation functions, such as P-boxes, in the encryption algorithm.
-- A block cipher that combines confusion and diffusion effectively can achieve a high level of security, as it can resist both statistical attacks and algebraic attacks. Shannon also introduced the concept of product cipher, which is a block cipher that consists of multiple rounds of applying confusion and diffusion functions alternately. Examples of product ciphers are DES, AES, and Triple DES.

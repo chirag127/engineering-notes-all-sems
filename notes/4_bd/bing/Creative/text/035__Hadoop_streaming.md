@@ -1,7 +1,0 @@
-#### Hadoop streaming
-
-- Hadoop streaming is a utility that comes with the Hadoop distribution. It allows you to create and run MapReduce jobs with any executable or script as the mapper and/or the reducer .
-- Hadoop streaming works by converting the inputs and outputs of the mapper and reducer processes into key/value pairs. The utility will create a MapReduce job, submit it to an appropriate cluster, and monitor its progress until it completes .
-- Hadoop streaming has several command options to specify the input and output directories, the mapper and reducer executables, the number of reducers, the input and output formats, the partitioner and comparator classes, the environment variables, the configuration variables, and other plugins for the job .
-- Hadoop streaming also supports working with large files and archives, making files and archives available to tasks, updating counters and status in streaming applications, parsing XML documents, and providing custom input/output formats .
-- Hadoop streaming is useful for writing MapReduce scripts in languages other than Java, such as Python, Ruby, Perl, etc. It can also be used to run existing programs or scripts as mappers or reducers without modifying them.

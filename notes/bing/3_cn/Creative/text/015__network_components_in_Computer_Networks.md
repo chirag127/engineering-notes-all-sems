@@ -1,9 +1,0 @@
-#### Network components in Computer Networks
-
-A computer network is a system of interconnected devices that can communicate and share data. The network components are the hardware and software elements that enable this communication and data transfer. Some of the common network components are:
-
-- **Nodes**: Nodes are the devices that participate in the network, such as computers, laptops, smartphones, printers, servers, routers, switches, etc. Nodes have network interfaces that allow them to send and receive data over the network.
-- **Media**: Media are the physical or wireless means that carry the data signals between the nodes. Examples of media are copper wires, fiber-optic cables, radio waves, infrared beams, etc. Media have different characteristics, such as bandwidth, latency, noise, interference, etc., that affect the network performance.
-- **Protocols**: Protocols are the rules and standards that govern how the nodes communicate and exchange data over the network. Protocols define the format, structure, timing, and error control of the data packets. Examples of protocols are TCP/IP, Ethernet, Wi-Fi, HTTP, FTP, etc. Protocols are organized into layers, such as the OSI model or the TCP/IP model, that specify the functions and responsibilities of each layer.
-- **Network devices**: Network devices are the specialized hardware that facilitate the network operation and management. Examples of network devices are routers, switches, hubs, bridges, repeaters, firewalls, modems, etc. Network devices perform different functions, such as forwarding, filtering, amplifying, converting, or securing the data packets.
-- **Network services**: Network services are the software applications that provide various functionalities and resources to the network users. Examples of network services are DNS, DHCP, email, web, file, print, etc. Network services run on servers or cloud platforms that can be accessed by the network clients.

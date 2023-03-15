@@ -1,8 +1,0 @@
-
-### The Mahabharata
-
-* The Mahabharata is one of the two major Sanskrit epics of ancient India, the other being the Ramayana. It is an important source of information on the development of Hinduism between 400 BCE and 200 CE and is regarded by Hindus as both a text about dharma (Hindu moral law) and a history.
-* The Mahabharata is traditionally ascribed to the Sage Vyasa. It contains over 100,000 verses, making it one of the longest epic poems in the world. The core story follows the struggle between two groups of cousins, the Kauravas and the Pandavas, for the throne of Hastinapura in an Indian kingdom called Kuru.
-* The Mahabharata contains many stories and lessons that are still relevant today. It is a source of moral teachings, and its stories are often used as parables in Hindu philosophy. It is also a source of inspiration for Indian art, literature, and music.
-* The Mahabharata can be divided into two main parts: the Adi Parva (or "Book of the Beginning") and the Sabha Parva (or "Book of the Assembly Hall"). The Adi Parva is the longest and most important part of the Mahabharata, and it contains the story of the Kurukshetra War and the death of the Pandavas. The Sabha Parva contains the stories of the Pandavas' exile and return, as well as the story of the Mahabharata itself.
-* To remember the stories of the Mahabharata, a useful mnemonic is "Krishna's Discourse: Pandavas' War". This mnemonic refers to the Bhagavad Gita, a discourse given by Krishna to Arjuna before the Kurukshetra War, and the war itself.

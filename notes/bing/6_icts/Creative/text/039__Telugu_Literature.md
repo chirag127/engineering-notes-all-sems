@@ -1,8 +1,0 @@
-### Telugu Literature
-
-- Telugu literature is the body of works written in the Telugu language, a Dravidian language spoken mainly in the states of Andhra Pradesh and Telangana in India.
-- Telugu literature consists of various genres, such as poetry, prose, drama, folklore, and song lyrics. Some of the prominent forms of Telugu literature are śataka, padya, gadya, kāvya, nāṭaka, prabandha, and campū.
-- Telugu literature has a long and rich history, dating back to at least the 11th century CE, when the poet Nannaya translated the Mahabharata into Telugu. Some of the other notable early Telugu poets are Tikkana, Errana, Nannayya, Srinatha, and Potana.
-- Telugu literature reached its zenith during the Vijayanagara Empire (14th-16th centuries), when poets such as Allasani Peddana, Nandi Timmana, Tenali Ramakrishna, Pingali Surana, and Krishnadevaraya flourished. They wrote in various styles, such as prabandha, campū, and śṛṅgāra.
-- Telugu literature also witnessed a revival during the 19th and 20th centuries, when social reformers, nationalists, and modernists emerged. Some of the influential writers of this period are Gurajada Apparao, Kandukuri Veeresalingam, Viswanatha Satyanarayana, Sri Sri, Jashuva, and C. Narayana Reddy.
-- Telugu literature has been recognized with several awards, such as the Jnanpith Award, the Sahitya Akademi Award, and the Padma Shri. Telugu literature has also influenced other languages, such as Kannada, Tamil, and Hindi.

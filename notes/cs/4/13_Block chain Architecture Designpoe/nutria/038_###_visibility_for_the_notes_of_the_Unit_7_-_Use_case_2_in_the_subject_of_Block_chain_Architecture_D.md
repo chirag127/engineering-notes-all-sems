@@ -1,9 +1,0 @@
-
-### Visibility for the Notes of the Unit 7 - Use Case 2 in the Subject of Block Chain Architecture Design
-
-* Visibility is an important concept in Block Chain Architecture Design. It refers to the ability for users to view the data stored in the block chain. 
-* Visibility can be achieved in two ways. The first is through the use of a distributed ledger, which is a public record of all transactions on the network. The second is through the use of smart contracts, which are programs that execute on the block chain and can be used to enforce visibility rules.
-* In Unit 7 - Use Case 2, visibility is used to ensure that only authorized users can view the data stored in the block chain. This is done by encrypting the data with a private key, which is known only to the authorized user. The private key is then used to decrypt the data when it is needed.
-* In order to ensure visibility, it is important to ensure that the private key is kept secure. This can be done by using a secure storage system such as a hardware wallet. It is also important to ensure that the private key is not shared with anyone else, as this could lead to unauthorized access to the data.
-* Additionally, it is important to ensure that the data stored in the block chain is kept up to date. This can be done by using a consensus algorithm, which is a way of ensuring that all users agree on the state of the data in the block chain.
-* Mnemonics can be used to help remember the concepts of visibility in Block Chain Architecture Design. For example, the phrase "Private Key - Secure Storage - Consensus Algorithm" can be used to remember the three components of visibility.

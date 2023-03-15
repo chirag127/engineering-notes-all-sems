@@ -1,8 +1,0 @@
-#### Spanning Tree Algorithms in Local Area Network
-
-- Spanning tree algorithms are used to prevent loops and broadcast storms in Ethernet networks that have redundant links between switches or bridges.
-- Spanning tree algorithms work by selecting one switch or bridge as the root of the network, and then disabling some of the links that are not part of the shortest path from the root to the other nodes.
-- The most common spanning tree algorithm is the Spanning Tree Protocol (STP), which is standardized by IEEE 802.1D. STP uses a set of parameters, such as bridge ID, port priority, and path cost, to determine the best link for each node to reach the root.
-- STP also has a mechanism to detect and recover from link failures, by enabling the backup links that were previously disabled. STP can take up to 50 seconds to converge after a topology change, which can cause temporary network disruptions.
-- A variant of STP is the Rapid Spanning Tree Protocol (RSTP), which is standardized by IEEE 802.1w. RSTP reduces the convergence time by using a faster handshake process between switches, and by designating some ports as alternate or backup ports that can quickly take over in case of a failure.
-- Another variant of STP is the Multiple Spanning Tree Protocol (MSTP), which is standardized by IEEE 802.1s. MSTP allows the creation of multiple spanning trees for different VLANs, which can improve the load balancing and fault tolerance of the network. MSTP also supports RSTP features for faster convergence.

@@ -1,8 +1,0 @@
-### Ease of designing and affordability
-
-- One of the key features of IoT is the ease of designing and affordability of the devices and sensors that can be connected to the internet and communicate with each other.
-- IoT devices and sensors can be designed using various hardware platforms, such as Arduino, Raspberry Pi, ESP32, etc. These platforms are low-cost, easy to program, and compatible with various sensors and actuators.
-- IoT devices and sensors can also be designed using software platforms, such as Node-RED, ThingSpeak, Blynk, etc. These platforms provide graphical user interfaces, cloud services, and data analytics tools that can be used to create IoT applications without much coding.
-- IoT devices and sensors can be powered by batteries, solar panels, or harvested energy from the environment, such as vibration, heat, or light. This reduces the need for wiring and maintenance, and increases the lifespan and reliability of the devices and sensors.
-- IoT devices and sensors can communicate with each other and the internet using various wireless technologies, such as Wi-Fi, Bluetooth, Zigbee, LoRa, etc. These technologies are low-power, low-cost, and widely available, and can support different ranges and data rates depending on the application requirements.
-- IoT devices and sensors can be integrated with various web services, such as Google Assistant, Amazon Alexa, IFTTT, etc. These services can provide voice control, automation, and personalization features that can enhance the user experience and functionality of the IoT applications.

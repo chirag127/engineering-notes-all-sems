@@ -1,8 +1,0 @@
-### Raspberry Pi for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
-
-- Raspberry Pi is a small and inexpensive computer that can run various operating systems and programming languages, such as Linux, Python, C, etc.
-- Raspberry Pi can be used as an embedded platform for IoT applications, as it can connect to various sensors, actuators, and other devices through its GPIO (General Purpose Input/Output) pins, USB ports, Ethernet port, Wi-Fi module, etc.
-- Raspberry Pi can also act as an IoT gateway, which is a device that collects, processes, and transmits data from IoT devices to the cloud or other networks. Raspberry Pi can run IoT software such as AWS Greengrass, which enables local data processing, messaging, and synchronization with the cloud.
-- Raspberry Pi can support various IoT protocols, such as MQTT, CoAP, HTTP, etc., which are used for communication between IoT devices and servers. Raspberry Pi can also use APIs (Application Programming Interfaces) to access various IoT services and platforms, such as AWS IoT, Google Cloud IoT, etc.
-- Raspberry Pi can enable various IoT applications, such as smart home, smart city, smart agriculture, smart health, etc., by integrating with different sensors, actuators, and devices, such as cameras, microphones, speakers, LEDs, motors, relays, etc.
-- Raspberry Pi can also be used for prototyping and testing IoT solutions, as it is easy to set up, program, and debug. Raspberry Pi can also be simulated using software tools, such as QEMU, which can emulate the hardware and software of Raspberry Pi on a PC.

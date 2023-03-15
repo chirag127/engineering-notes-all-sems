@@ -1,7 +1,0 @@
-#### Map Reduce features
-
-- Map Reduce is a programming model and an associated implementation for processing and generating large data sets with a parallel, distributed algorithm on a cluster.
-- Map Reduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input key-value pair and produces a set of intermediate key-value pairs. The reduce phase merges all intermediate values associated with the same intermediate key and produces the final output.
-- Map Reduce can handle various types of data, such as structured, semi-structured, or unstructured data. It can also process data that is too large to fit in memory or on a single disk.
-- Map Reduce is fault-tolerant, scalable, and easy to use. It automatically handles failures, load balancing, data distribution, and communication among nodes. It also provides a simple interface for users to specify the map and reduce functions without worrying about the low-level details of the system.
-- Map Reduce can be used for a wide range of applications, such as word count, inverted index, web link analysis, machine learning, data mining, and more. It can also be combined with other frameworks, such as Hadoop, Spark, or Flink, to enhance its functionality and performance.

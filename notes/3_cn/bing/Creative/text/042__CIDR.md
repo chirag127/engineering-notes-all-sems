@@ -1,7 +1,0 @@
-#### CIDR
-- CIDR stands for Classless Inter-Domain Routing, a method for allocating IP addresses and for IP routing.
-- CIDR was introduced in 1993 to replace the previous classful network addressing architecture on the Internet, which had five classes of IP addresses (A, B, C, D, and E) with fixed network prefixes and host identifiers.
-- CIDR allows for variable-length subnet masking (VLSM), in which network prefixes have variable length, depending on the size and number of subnets needed by an organization. This reduces the waste of IP addresses and the size of routing tables on routers across the Internet.
-- CIDR notation is a way of writing IP addresses with a suffix indicating the number of bits of the network prefix. For example, 192.168.1.0/24 means that the network prefix is 24 bits long, and the host identifier is 8 bits long. The slash (/) separates the IP address from the prefix length.
-- CIDR blocks are groups of IP addresses that share the same network prefix. For example, 10.0.0.0/8 is a CIDR block that contains all IP addresses that start with 10. A CIDR block can be further divided into smaller subnets, such as 10.1.0.0/16 or 10.1.1.0/24. The smaller the prefix length, the larger the subnet size.
-- CIDR can be used to calculate the number of IP addresses, subnets, and hosts in a network. For example, given a CIDR block of 192.168.1.0/24, the number of IP addresses is 2^(32-24) = 256, the number of subnets is 1, and the number of hosts is 256 - 2 = 254 (subtracting 2 for the network address and the broadcast address).
