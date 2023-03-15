@@ -1,0 +1,27 @@
+### Focus for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- The unit covers the following topics:
+  - The importance of technical communication skills for engineers and professionals
+  - The characteristics and principles of effective technical communication
+  - The types and formats of technical documents, such as reports, proposals, manuals, memos, letters, and emails
+  - The process and strategies of planning, drafting, revising, and editing technical documents
+  - The ethical and legal issues in technical communication
+  - The use of visual aids, graphics, and tables in technical documents
+  - The oral presentation skills and techniques for technical communication
+- The main objectives of the unit are:
+  - To understand the role and purpose of technical communication in engineering and professional contexts
+  - To apply the principles of clarity, conciseness, coherence, accuracy, and appropriateness in technical communication
+  - To identify the audience, purpose, and scope of technical documents
+  - To organize and structure technical documents according to their types and formats
+  - To use appropriate language, tone, and style in technical communication
+  - To incorporate relevant and reliable information, data, and evidence in technical documents
+  - To cite and reference sources correctly and avoid plagiarism in technical communication
+  - To design and use visual aids, graphics, and tables to enhance technical communication
+  - To prepare and deliver effective oral presentations on technical topics
+- The main outcomes of the unit are:
+  - To demonstrate the ability to communicate technical information clearly, concisely, coherently, accurately, and appropriately to various audiences and purposes
+  - To produce well-organized, well-formatted, and well-written technical documents, such as reports, proposals, manuals, memos, letters, and emails
+  - To revise and edit technical documents for content, organization, language, style, and mechanics
+  - To adhere to the ethical and legal standards and norms in technical communication
+  - To create and use visual aids, graphics, and tables to support and complement technical communication
+  - To deliver oral presentations on technical topics confidently, professionally, and persuasively

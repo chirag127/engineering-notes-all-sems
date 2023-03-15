@@ -1,0 +1,15 @@
+# Prolog Programming for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Prolog is a **logic programming language** that has an important role in **artificial intelligence**  .
+- Unlike many other programming languages, Prolog is intended primarily as a **declarative programming language** . This means that the program logic is expressed in terms of **relations** (called as **facts** and **rules**) rather than a specific sequence of instructions .
+- Prolog is based on **first-order logic**, a formal logic that allows for expressing **predicates**, **variables**, **quantifiers**, and **connectives**.
+- Prolog programs consist of a **database** of facts and rules, and a **query** that asks for a logical consequence of the database .
+- Prolog uses a **backtracking** algorithm to search for possible solutions to a query, by trying to match the query with the facts and rules in the database, and applying **unification** and **substitution** to instantiate variables .
+- Prolog supports **recursion**, **lists**, **arithmetic**, **cut** operator, **built-in predicates**, and **user-defined predicates** .
+- Prolog can be used for various applications in artificial intelligence, such as **natural language processing**, **expert systems**, **planning**, **knowledge representation and reasoning**, and **machine learning** .
+- Knowledge representation and reasoning (KRR) is a subfield of artificial intelligence that studies how to represent and manipulate knowledge in a formal and computable way .
+- KRR aims to provide methods and tools for **encoding**, **inference**, **revision**, and **communication** of knowledge, as well as for **dealing with uncertainty**, **inconsistency**, and **nonmonotonicity** .
+- KRR uses various paradigms and languages to model different aspects of knowledge, such as **propositional logic**, **first-order logic**, **description logic**, **modal logic**, **nonmonotonic logic**, **fuzzy logic**, **probabilistic logic**, **semantic networks**, **frames**, **scripts**, **ontologies**, and **common-sense reasoning** .
+- Prolog is one of the most popular and widely used languages for KRR, as it allows for expressing complex and rich knowledge structures and reasoning mechanisms in a concise and natural way  .
+- Prolog can be extended and modified to accommodate different semantics and features of KRR, such as **answer set programming** (ASP), **constraint logic programming** (CLP), **abductive logic programming** (ALP), and **inductive logic programming** (ILP) .
+- AILog is a knowledge-representation and reasoning system built on top of Prolog, that supports **default reasoning**, **negation as failure**, **inheritance**, and **meta-level reasoning**. AILog can be used to implement and test various KRR scenarios and applications, such as **family relations**, **blocks world**, **wumpus world**, and **medical diagnosis**.

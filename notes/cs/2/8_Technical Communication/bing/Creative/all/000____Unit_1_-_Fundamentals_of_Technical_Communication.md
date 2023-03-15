@@ -1,0 +1,22 @@
+## Unit 1 - Fundamentals of Technical Communication
+
+- Technical communication is the process of conveying information and instructions to a specific audience for a specific purpose.
+- Technical communication can be written, oral, visual, or multimodal, depending on the context, audience, and purpose of the communication.
+- Technical communication has the following characteristics:
+  - It is audience-centered, meaning it focuses on the needs, expectations, and preferences of the intended audience.
+  - It is purpose-driven, meaning it has a clear and specific goal or objective that guides the communication.
+  - It is factual and accurate, meaning it provides reliable and verifiable information that is relevant to the audience and purpose.
+  - It is clear and concise, meaning it uses simple and precise language, avoids unnecessary details, and organizes the information logically and coherently.
+  - It is ethical and respectful, meaning it follows the principles of honesty, integrity, fairness, and professionalism, and respects the values, beliefs, and cultures of the audience and stakeholders.
+- Technical communication can be classified into two main types: informative and persuasive.
+  - Informative technical communication aims to inform, explain, describe, or instruct the audience about a topic, process, product, or service. Examples of informative technical communication are manuals, reports, memos, emails, presentations, etc.
+  - Persuasive technical communication aims to persuade, motivate, or influence the audience to take a certain action, adopt a certain attitude, or support a certain idea or proposal. Examples of persuasive technical communication are proposals, advertisements, brochures, flyers, etc.
+- Technical communication can be further categorized into different genres or forms, depending on the purpose, audience, and context of the communication. Some common genres of technical communication are:
+  - Definition: A statement that explains the meaning of a term, concept, or phenomenon.
+  - Description: A statement that provides the characteristics, features, or attributes of an object, person, place, or event.
+  - Process: A sequence of steps or actions that leads to a specific outcome or result.
+  - Classification: A system of grouping or organizing items or ideas into categories or classes based on certain criteria or principles.
+  - Comparison and contrast: A method of showing the similarities and differences between two or more items or ideas.
+  - Cause and effect: A method of showing the relationship between an event or action and its consequences or outcomes.
+  - Problem and solution: A method of identifying a problem or issue and proposing or evaluating possible solutions or alternatives.
+  - Argument: A method of presenting a claim or position and supporting it with evidence and reasoning.

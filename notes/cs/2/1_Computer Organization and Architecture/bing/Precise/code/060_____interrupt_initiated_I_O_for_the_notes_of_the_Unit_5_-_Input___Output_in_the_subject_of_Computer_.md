@@ -1,0 +1,8 @@
+### Interrupt Initiated I/O
+
+- In the programmed I/O method, the CPU stays in the program loop until the I/O unit indicates that it is ready for data transfer. This is a time-consuming process because it keeps the processor busy needlessly.
+- Interrupt Initiated I/O uses an interrupt facility and special commands to inform the interface to issue the interrupt command when data becomes available and the interface is ready for the data transfer. In the meantime, the CPU keeps on executing other tasks and need not check for the flag.
+- The I/O devices are organized in a priority structure such that the interrupt raised by the high priority device is accepted even if the processor is servicing the interrupt from a low priority device. A priority level is assigned to the processor which can be regulated using the program.
+- Both the methods programmed I/O and Interrupt-driven I/O require the active intervention of the processor to transfer data between memory and the I/O module, and any data transfer must transverse a path through the processor. Thus both these forms of I/O suffer from two inherent drawbacks.
+- Interrupt is the mechanism by which modules like I/O or memory may interrupt the normal processing by CPU. External devices are comparatively slower than CPU.
+- Hardware interrupts are used by devices to communicate that they require attention from the operating system. Internally, hardware interrupts are implemented using electronic alerting signals that are sent to the processor from an external device, which is either a part of the computer itself, such as a disk controller, or an external peripheral.

@@ -1,0 +1,14 @@
+## Unit 5 - Turing Machines and Recursive Function Theory
+
+1. **Turing Machines**: A Turing machine is a theoretical computing machine invented by Alan Turing in 1936. It is a mathematical model of computation that defines an abstract machine that manipulates symbols on a strip of tape according to a table of rules.
+2. **Components of a Turing Machine**: A Turing machine consists of a tape, a read/write head, a state register, and a finite set of rules.
+3. **Tape**: The tape is an infinite sequence of cells, each of which can contain a symbol from a finite alphabet. The tape is divided into cells, and the machine can read or write a symbol in the cell under the read/write head.
+4. **Read/Write Head**: The read/write head can move left or right along the tape and can read or write a symbol in the cell under the head.
+5. **State Register**: The state register stores the current state of the machine. The machine starts in an initial state and can transition to other states according to the rules.
+6. **Rules**: The rules specify how the machine should behave based on the current state and the symbol under the read/write head. The rules are in the form of a table, where each row specifies the current state, the current symbol, the new symbol to be written, the direction to move the head, and the new state.
+7. **Recursive Function Theory**: Recursive function theory is a branch of mathematical logic that studies computable functions and their properties. It is closely related to the theory of computation and the study of algorithms.
+8. **Computable Functions**: A function is computable if it can be computed by a Turing machine. The set of all computable functions is known as the recursive functions.
+9. **Church-Turing Thesis**: The Church-Turing thesis states that any function that can be computed by an algorithm can also be computed by a Turing machine. This thesis is widely accepted and forms the basis of the study of computability.
+10. **Decidability**: A problem is decidable if there exists an algorithm that can determine whether a given instance of the problem has a solution. In other words, a problem is decidable if there exists a Turing machine that can determine whether a given input belongs to the language of the problem.
+11. **Undecidability**: A problem is undecidable if there does not exist an algorithm that can determine whether a given instance of the problem has a solution. In other words, a problem is undecidable if there does not exist a Turing machine that can determine whether a given input belongs to the language of the problem.
+12. **Halting Problem**: The halting problem is the problem of determining whether a given Turing machine will halt on a given input. The halting problem is undecidable, meaning that there does not exist an algorithm that can determine whether a given Turing machine will halt on a given input.

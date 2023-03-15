@@ -1,0 +1,23 @@
+### Interrupts
+- An interrupt is a condition that causes the microprocessor to temporarily work on a different task, and then later return to its previous task.
+- Interrupts can be internal or external.
+  - Internal interrupts, or "software interrupts," are triggered by a software instruction and operate similarly to a jump or branch instruction.
+  - External interrupts, or "hardware interrupts," are triggered by an external device, such as a keyboard, a mouse, a timer, or another microprocessor .
+- Interrupts are used for data transfer between the peripheral and the microprocessor, or for handling errors or events that require immediate attention .
+- The microprocessor has a dedicated interrupt request (IRQ) line, which is a wire that can be used by external devices to send a signal to the microprocessor .
+- The microprocessor also has an interrupt acknowledge (INTA) line, which is a wire that is used by the microprocessor to send a signal to the external device that it has received the interrupt request.
+- The microprocessor has a priority logic circuit, which decides which interrupt request to accept if there are multiple requests at the same time.
+- The microprocessor has an interrupt vector table, which is a memory location that stores the addresses of the interrupt service routines (ISR), which are the programs that handle the interrupts .
+- The microprocessor has an interrupt enable (IE) flag, which is a bit in the status register that can be used to enable or disable the interrupts .
+- The microprocessor has an interrupt instruction (INT), which is a software instruction that can be used to generate an internal interrupt.
+- The microprocessor has an interrupt return (IRET) instruction, which is a software instruction that can be used to return from an interrupt service routine.
+- The microprocessor follows a sequence of steps when an interrupt occurs :
+  - It checks the interrupt request line at the end of each instruction cycle.
+  - If the interrupt request line is high and the interrupt enable flag is set, it acknowledges the interrupt by sending a signal on the interrupt acknowledge line.
+  - It saves the current program counter (PC) and the status register (SR) on the stack.
+  - It disables the interrupts by clearing the interrupt enable flag.
+  - It fetches the interrupt vector from the interrupt vector table and loads it into the program counter.
+  - It executes the interrupt service routine at the new program counter address.
+  - It restores the original program counter and the status register from the stack.
+  - It enables the interrupts by setting the interrupt enable flag.
+  - It resumes the execution of the main program from where it was interrupted.

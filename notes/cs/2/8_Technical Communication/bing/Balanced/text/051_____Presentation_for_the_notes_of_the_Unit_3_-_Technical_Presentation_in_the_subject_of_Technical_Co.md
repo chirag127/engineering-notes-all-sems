@@ -1,0 +1,12 @@
+### Presentation for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that conveys technical information to a specific audience, such as engineers, scientists, managers, or customers.
+- The purpose of a technical presentation is to inform, persuade, or instruct the audience about a technical topic, such as a new product, a research finding, a design solution, or a business proposal.
+- A technical presentation should be clear, concise, and accurate, as well as engaging, interesting, and relevant to the audience's needs and expectations.
+- A technical presentation consists of three main parts: introduction, body, and conclusion.
+- The introduction should capture the audience's attention, establish the speaker's credibility, state the main purpose and scope of the presentation, and preview the main points or outline.
+- The body should develop the main points or arguments in a logical and coherent manner, using appropriate evidence, examples, diagrams, graphs, tables, or other visual aids to support the claims and enhance the understanding of the audience.
+- The conclusion should summarize the main points or findings, restate the purpose and significance of the presentation, and provide a clear and memorable take-away message or call to action for the audience.
+- A technical presentation should follow the principles of effective oral communication, such as using clear and simple language, avoiding jargon and technical terms, adapting to the audience's level of knowledge and interest, using vocal variety and body language, maintaining eye contact and rapport with the audience, and handling questions and feedback professionally and politely.
+- A technical presentation should also follow the guidelines of ethical communication, such as respecting the audience's values and beliefs, acknowledging the sources of information, avoiding plagiarism and fabrication, and being honest and objective.
+- A technical presentation should be prepared and practiced well in advance, taking into account the time limit, the venue, the equipment, and the audience's expectations and preferences. The speaker should rehearse the presentation several times, preferably with feedback from peers or mentors, and make necessary adjustments to improve the content, structure, delivery, and visual aids. The speaker should also anticipate possible questions or objections from the audience and prepare appropriate responses.

@@ -1,0 +1,7 @@
+# Conclusion for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Technical communication skills are essential for engineers and other professionals who need to communicate effectively with different audiences and purposes.
+- Technical communication skills include the ability to analyze the communication situation, identify the communication objectives, select the appropriate communication medium and style, organize and present the information clearly and concisely, and use feedback to improve the communication process and outcome.
+- Technical communication skills can be improved by following some general principles and guidelines, such as using plain language, avoiding jargon and ambiguity, using visual aids, adapting to the audience and context, and following ethical standards.
+- Technical communication skills can be applied to various types of documents and presentations, such as reports, proposals, memos, emails, letters, resumes, instructions, manuals, brochures, posters, slides, and oral presentations.
+- Technical communication skills can help engineers and other professionals to achieve their professional goals, such as informing, persuading, instructing, collaborating, and building relationships with their colleagues, clients, customers, and stakeholders.

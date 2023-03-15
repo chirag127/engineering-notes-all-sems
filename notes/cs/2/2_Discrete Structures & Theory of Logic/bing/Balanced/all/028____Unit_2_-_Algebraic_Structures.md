@@ -1,0 +1,31 @@
+## Unit 2 - Algebraic Structures
+
+- An algebraic structure is a set of elements with one or more operations defined on it that satisfy certain properties or axioms.
+- Examples of algebraic structures are groups, rings, fields, vector spaces, matrices, etc.
+- A group is an algebraic structure that consists of a set G and a binary operation * such that:
+  - The operation * is closed, meaning that for any two elements a and b in G, a * b is also in G.
+  - The operation * is associative, meaning that for any three elements a, b and c in G, (a * b) * c = a * (b * c).
+  - There exists an identity element e in G such that for any element a in G, a * e = e * a = a.
+  - For every element a in G, there exists an inverse element a^-1 in G such that a * a^-1 = a^-1 * a = e.
+- A ring is an algebraic structure that consists of a set R and two binary operations + and * such that:
+  - The operation + is closed, associative, commutative, and has an identity element 0 and an inverse element -a for every a in R.
+  - The operation * is closed, associative, and has an identity element 1.
+  - The operation * is distributive over +, meaning that for any three elements a, b and c in R, a * (b + c) = (a * b) + (a * c) and (b + c) * a = (b * a) + (c * a).
+- A field is an algebraic structure that consists of a set F and two binary operations + and * such that:
+  - The operation + is closed, associative, commutative, and has an identity element 0 and an inverse element -a for every a in F.
+  - The operation * is closed, associative, commutative, and has an identity element 1 and an inverse element a^-1 for every nonzero a in F.
+  - The operation * is distributive over +, meaning that for any three elements a, b and c in F, a * (b + c) = (a * b) + (a * c) and (b + c) * a = (b * a) + (c * a).
+- A vector space is an algebraic structure that consists of a set V and two operations + and * such that:
+  - The operation + is closed, associative, commutative, and has an identity element 0 and an inverse element -v for every v in V.
+  - The operation * is a scalar multiplication, meaning that it takes an element from a field F and an element from V and returns an element in V.
+  - The operation * is distributive over +, meaning that for any scalar a in F and any two vectors u and v in V, a * (u + v) = (a * u) + (a * v).
+  - The operation * is compatible with the field operations, meaning that for any two scalars a and b in F and any vector v in V, (a + b) * v = (a * v) + (b * v) and (a * b) * v = a * (b * v).
+  - There exists a scalar 1 in F such that for any vector v in V, 1 * v = v.
+- A matrix is an algebraic structure that consists of a rectangular array of elements from a field F, arranged in rows and columns.
+  - The size of a matrix is determined by the number of rows and columns it has, denoted by m x n, where m is the number of rows and n is the number of columns.
+  - The elements of a matrix are denoted by a subscript notation, such as a_ij, where i is the row index and j is the column index.
+  - Two matrices are equal if they have the same size and the same elements in the corresponding positions.
+  - Matrices can be added and subtracted if they have the same size, by adding or subtracting the corresponding elements.
+  - Matrices can be multiplied by scalars, by multiplying each element by the scalar.
+  - Matrices can be multiplied by other matrices, if the number of columns of the first matrix matches the number of rows of the second matrix, by taking the dot product of each row of the first matrix with each column of the second matrix.
+  - The identity matrix is a square matrix that has 1s on the main diagonal and 0s elsewhere, denoted by I_n,

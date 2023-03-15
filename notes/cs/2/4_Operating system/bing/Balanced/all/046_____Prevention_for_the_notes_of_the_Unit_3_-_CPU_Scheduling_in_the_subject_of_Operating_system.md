@@ -1,0 +1,22 @@
+# Prevention for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- CPU scheduling is the process of allocating the CPU to different processes in a multiprogramming system.
+- CPU scheduling aims to maximize the CPU utilization, throughput, and responsiveness, and minimize the waiting time, turnaround time, and context switching overhead.
+- CPU scheduling can be classified into two types: preemptive and non-preemptive.
+  - Preemptive scheduling allows the CPU to be taken away from a running process when a higher priority process arrives or a time quantum expires.
+  - Non-preemptive scheduling does not interrupt a running process until it finishes or requests I/O.
+- CPU scheduling can face various challenges and problems, such as starvation, aging, deadlock, and co-scheduling.
+  - Starvation is a situation where a low-priority process waits indefinitely for the CPU because of a continuous stream of higher-priority processes.
+  - Aging is a technique to prevent starvation by gradually increasing the priority of a waiting process over time.
+  - Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource held by another process.
+  - Co-scheduling is a technique to schedule a group of interacting processes together to avoid blocking due to waiting on each other.
+- CPU scheduling can be improved by using various algorithms and techniques, such as:
+  - First Come First Serve (FCFS): The simplest algorithm that schedules the processes in the order of their arrival time.
+  - Shortest Job First (SJF): The algorithm that schedules the processes according to their burst time, giving preference to the shortest process.
+  - Longest Job First (LJF): The algorithm that schedules the processes according to their burst time, giving preference to the longest process.
+  - Priority Scheduling: The algorithm that schedules the processes according to their priority, giving preference to the highest priority process.
+  - Round Robin (RR): The algorithm that schedules the processes in a circular order, giving each process a fixed time quantum to run.
+  - Multilevel Queue (MLQ): The algorithm that divides the processes into different queues based on their characteristics, such as foreground or background, and applies a different scheduling algorithm to each queue.
+  - Multilevel Feedback Queue (MLFQ): The algorithm that divides the processes into different queues based on their characteristics, such as CPU-bound or I/O-bound, and allows the processes to move between the queues based on their behavior.
+  - Lottery Scheduling: The algorithm that assigns tickets to the processes and randomly selects a ticket to decide which process to run next.
+  - Fair Share Scheduling: The algorithm that allocates the CPU to the processes based on the share of resources they deserve, such as the number of users or the amount of work.

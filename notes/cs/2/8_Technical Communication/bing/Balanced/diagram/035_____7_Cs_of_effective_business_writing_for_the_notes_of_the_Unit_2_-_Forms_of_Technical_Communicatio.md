@@ -1,0 +1,11 @@
+### 7 Cs of effective business writing
+
+Business writing is a form of technical communication that aims to convey information clearly, concisely, correctly, coherently, courteously, creatively, and convincingly. These are the 7 Cs of effective business writing:
+
+- **Clarity**: The message should be clear and easy to understand by the intended audience. Avoid ambiguity, jargon, and unnecessary words. Use simple and direct language, active voice, and concrete examples.
+- **Conciseness**: The message should be concise and to the point. Avoid redundancy, repetition, and irrelevant details. Use short and simple sentences, bullet points, and headings. Eliminate wordiness and filler words.
+- **Correctness**: The message should be correct and accurate in terms of facts, figures, grammar, spelling, and punctuation. Avoid errors, mistakes, and misinformation. Use reliable sources, proofread, and edit your writing. Follow the appropriate format, style, and tone for your purpose and audience.
+- **Coherence**: The message should be coherent and logical in terms of structure, organization, and flow. Avoid confusion, inconsistency, and contradiction. Use transitions, connectors, and signposts to link your ideas and paragraphs. Follow a clear and consistent outline and use headings and subheadings to guide your reader.
+- **Courtesy**: The message should be courteous and respectful to the reader and other parties involved. Avoid rudeness, hostility, and negativity. Use polite and positive language, address the reader by name, and express appreciation and gratitude. Consider the reader's needs, expectations, and feelings.
+- **Creativity**: The message should be creative and original in terms of content, style, and presentation. Avoid plagiarism, clichés, and stereotypes. Use your own words, ideas, and voice. Add some flair, humor, and personality to your writing. Use visual aids, such as graphs, charts, and images, to enhance your message.
+- **Convincingness**: The message should be convincing and persuasive in terms of purpose, argument, and evidence. Avoid vagueness, weakness, and bias. Use clear and specific language, strong and valid claims, and relevant and credible support. Appeal to the reader's logic, emotions, and values. Provide a clear and compelling call to action.

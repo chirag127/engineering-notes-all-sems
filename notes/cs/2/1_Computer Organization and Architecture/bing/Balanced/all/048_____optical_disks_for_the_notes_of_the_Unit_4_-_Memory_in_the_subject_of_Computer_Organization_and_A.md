@@ -1,0 +1,23 @@
+# Optical Disks
+
+- Optical disks are a type of secondary storage device that use a laser beam to read and write data on a rotating disk coated with a reflective material  .
+- Optical disks offer high capacity, portability, durability, and low cost compared to magnetic disks .
+- Optical disks come in various formats, such as CD-ROM, CD-R, CD-RW, DVD-ROM, DVD-R, DVD-RW, Blu-ray, and Ultra HD Blu-ray .
+- Optical disks can be classified into three categories based on their write capability  :
+  - Read-only optical disks (ROM): These disks are pre-recorded with data that cannot be modified by the user. Examples are CD-ROM and DVD-ROM.
+  - Write-once optical disks (WORM): These disks allow the user to write data once, but not erase or modify it. Examples are CD-R and DVD-R.
+  - Rewritable optical disks (RW): These disks allow the user to write, erase, and rewrite data multiple times. Examples are CD-RW, DVD-RW, and Blu-ray.
+- Optical disks use a laser beam to read and write data on the disk surface. The laser beam is focused by a lens on a small spot on the disk, where it can either reflect or be absorbed by the disk material  .
+- The disk surface is divided into concentric tracks, which are further divided into sectors. Each sector can store a fixed amount of data, such as 2 KB for CD-ROM and 32 KB for DVD-ROM .
+- The data on the disk is encoded using a technique called eight-to-fourteen modulation (EFM), which converts each 8-bit byte into a 14-bit code that avoids long sequences of zeros or ones. This reduces the possibility of errors and improves the reliability of the disk .
+- The data on the disk is also protected by error detection and correction codes, such as cyclic redundancy check (CRC) and Reed-Solomon codes, which can detect and correct errors caused by scratches, dust, or defects on the disk surface .
+- The data transfer rate of optical disks depends on the rotational speed of the disk, the number of tracks, the density of data, and the type of interface. The rotational speed of optical disks is usually expressed in terms of multiples of a base speed, such as 1x, 2x, 4x, etc. For example, a CD-ROM with a 1x speed rotates at 200 rpm and has a data transfer rate of 150 KB/s, while a CD-ROM with a 52x speed rotates at 10,400 rpm and has a data transfer rate of 7.8 MB/s .
+- The access time of optical disks consists of three components: seek time, latency, and transfer time. Seek time is the time required to move the read/write head to the desired track. Latency is the time required to wait for the desired sector to rotate under the read/write head. Transfer time is the time required to read or write the data from or to the disk. The access time of optical disks is usually higher than that of magnetic disks, due to the slower rotational speed and the longer seek time .
+- Optical disks have several advantages and disadvantages over other types of storage devices. Some of the advantages are  :
+  - High capacity: Optical disks can store large amounts of data, ranging from 700 MB for CD-ROM to 128 GB for Ultra HD Blu-ray.
+  - Portability: Optical disks are easy to carry and transport, due to their small size and light weight.
+  - Durability: Optical disks are resistant to magnetic fields, heat, humidity, and dust, which can damage magnetic disks.
+  - Low cost: Optical disks are relatively cheap to produce and purchase, compared to magnetic disks and solid-state drives.
+- Some of the disadvantages are  :
+  - Low speed: Optical disks have lower data transfer rates and higher access times than magnetic disks and solid-state drives, due to the slower rotational speed and the longer seek time.
+  - Fragility: Optical disks are prone to physical damage,

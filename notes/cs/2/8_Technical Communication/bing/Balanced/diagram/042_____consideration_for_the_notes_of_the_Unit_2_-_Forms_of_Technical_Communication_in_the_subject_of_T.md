@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Technical Communication. Here are some points to consider for the notes of Unit 2 - Forms of Technical Communication:
+
+- Unit 2 covers the different types of technical communication, such as memos, letters, reports, proposals, instructions, manuals, presentations, and websites.
+- Each type of technical communication has a specific purpose, audience, format, style, and tone. You should be able to identify and analyze these elements in various examples of technical communication.
+- You should also be able to apply the principles of effective technical communication, such as clarity, conciseness, accuracy, coherence, and ethics, to your own writing and speaking.
+- You should be familiar with the common conventions and standards of technical communication, such as document design, layout, graphics, citations, and references.
+- You should practice your skills of technical communication by completing various assignments, such as writing a memo, a letter, a report, a proposal, or a manual, or creating a presentation or a website. You should follow the guidelines and criteria provided by your instructor and use appropriate tools and resources.

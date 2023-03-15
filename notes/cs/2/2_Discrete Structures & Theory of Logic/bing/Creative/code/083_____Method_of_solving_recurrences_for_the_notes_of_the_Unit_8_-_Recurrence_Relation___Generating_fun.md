@@ -1,0 +1,9 @@
+### Method of solving recurrences
+
+A recurrence relation is an equation that defines a sequence in terms of its previous terms. Recurrence relations are often used to model the time complexity of recursive algorithms. There are several methods to solve recurrence relations, such as:
+
+- **Forward substitution**: This method involves solving the recurrence relation for small values of n until a pattern emerges. Then, a guess for the general solution is made and verified by induction.
+- **Recursion tree**: This method involves converting the recurrence relation into a tree, where each node represents the cost at a certain level of recursion. The total cost is then obtained by summing up the costs of all the nodes .
+- **Master theorem**: This method is applicable for a special class of divide-and-conquer recurrences of the form T(n) = aT(n/b) + f(n), where a, b, and f(n) are constants or functions. The master theorem provides a formula to find the asymptotic behavior of T(n) based on the comparison of f(n) and n^(log_b a).
+- **Akra-Bazzi method**: This method is a generalization of the master theorem that can handle more general forms of divide-and-conquer recurrences, such as T(n) = g(n) + sum_(i=1)^k a_i T(b_i n + h_i(n)), where g(n), a_i, b_i, and h_i(n) are constants or functions. The Akra-Bazzi method provides a formula to find the asymptotic behavior of T(n) based on the solution of a certain integral equation.
+- **Substitution method**: This method involves guessing the form of the solution and using induction to prove that the guess is valid. This method is useful when the recurrence relation does not fit into any of the above methods or when the solution is not obvious .

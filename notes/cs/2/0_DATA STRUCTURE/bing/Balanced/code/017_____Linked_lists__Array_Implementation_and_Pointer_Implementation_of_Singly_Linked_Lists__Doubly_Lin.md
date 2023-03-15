@@ -1,0 +1,27 @@
+### Linked lists: Array Implementation and Pointer Implementation of Singly Linked Lists, Doubly Linked List, Circularly Linked List, Operations on a Linked List. Insertion, Deletion, Traversal, Polynomial Representation and Addition Subtraction & Multiplications of Single variable & Two variables Polynomial.
+
+- A linked list is a linear data structure that stores a collection of data elements dynamically    .
+- Nodes represent those data elements, and links or pointers connect each node   .
+- Each node consists of two fields, the information stored in a linked list and a pointer that stores the address of its next node   .
+- A linked list is not stored at contiguous memory locations, but rather at any available memory location  .
+- A linked list can be classified into different types based on the number and direction of links or pointers   .
+  - A singly linked list has only one pointer in each node that points to the next node in the list   .
+  - A doubly linked list has two pointers in each node, one that points to the next node and one that points to the previous node in the list   .
+  - A circularly linked list has the last node pointing to the first node in the list, forming a loop   .
+- A linked list can be implemented using either an array or a pointer   .
+  - An array implementation of a linked list uses a fixed-size array to store the nodes of the list   .
+  - A pointer implementation of a linked list uses dynamic memory allocation to create nodes as needed   .
+- A linked list supports various operations such as insertion, deletion, traversal, and polynomial representation and manipulation   .
+  - Insertion is the operation of adding a new node to the list at a specified position   .
+  - Deletion is the operation of removing an existing node from the list at a specified position   .
+  - Traversal is the operation of visiting each node in the list and performing some action on it   .
+  - Polynomial representation is the operation of using a linked list to store the coefficients and exponents of a polynomial expression   .
+  - Polynomial manipulation is the operation of performing arithmetic operations such as addition, subtraction, and multiplication on two polynomials represented by linked lists   .
+- A linked list has some advantages and disadvantages over other data structures   .
+  - Advantages include:
+    - Dynamic memory allocation, which allows the list to grow or shrink as needed   .
+    - Easy insertion and deletion, which can be done in constant time if the position is known   .
+    - Flexible size, which means the list can occupy only the required memory space   .
+  - Disadvantages include:
+    - Extra space for pointers, which increases the memory overhead   .
+    - Random access is not possible, which means the list has to be traversed sequentially to access any node [^3^

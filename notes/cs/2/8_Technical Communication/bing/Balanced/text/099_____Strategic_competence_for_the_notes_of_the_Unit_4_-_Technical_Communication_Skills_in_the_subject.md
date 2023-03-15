@@ -1,0 +1,23 @@
+### Strategic competence for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Strategic competence is the ability to use effective strategies to communicate or learn a language, especially when facing difficulties or challenges  .
+- Strategic competence involves assessment, planning, and execution functions in determining the most suitable means of achieving a communicative or language learning goal.
+- Strategic competence connects declarative, procedural, and conditional knowledge, which are the types of knowledge that one needs to communicate or learn a language.
+- Declarative knowledge is the knowledge of facts, concepts, and rules.
+- Procedural knowledge is the knowledge of how to perform certain tasks or skills.
+- Conditional knowledge is the knowledge of when and why to use certain tasks or skills.
+- Strategic competence is an important aspect of communicative competence, which is the ability to use language appropriately and effectively in various contexts and situations .
+- Communicative competence consists of four components: linguistic competence, sociolinguistic competence, discourse competence, and strategic competence .
+- Linguistic competence is the knowledge of the language system, such as grammar, vocabulary, and pronunciation .
+- Sociolinguistic competence is the knowledge of the social and cultural norms and rules that govern language use in different contexts and situations .
+- Discourse competence is the knowledge of how to organize and connect different types of texts, such as spoken or written, formal or informal, and coherent or cohesive .
+- Strategic competence is the knowledge and application of communicative strategies that are particularly significant when a communicator lacks linguistic competence or faces communication breakdowns .
+- Communicative strategies are the techniques or actions that a communicator uses to convey or comprehend a message, such as paraphrasing, asking for clarification, using gestures, or guessing .
+- Strategic competence can help a communicator to overcome communication problems, such as misunderstanding, ambiguity, or incomprehension .
+- Strategic competence can also help a communicator to initiate innovation and bring strategic change, by using their knowledge to put new ideas into action.
+- Strategic competence can also help a communicator to build and maintain friendly, trustworthy, and open internal and external relationships and networks with people who are, or might become, important actors in achieving strategic-related goals.
+- Strategic competence can also help a communicator to develop a broad, big-picture view of the organisation and its mission, and to align their actions and decisions with the strategic objectives and values of the organisation.
+- Strategic competence is a valuable skill for technical communication, as it can help a technical communicator to communicate complex and technical information effectively and efficiently to various audiences and purposes, and to adapt to changing situations and demands   .
+- To develop strategic competence, a technical communicator needs to practice using different communicative strategies in various contexts and situations, and to reflect on their effectiveness and appropriateness   .
+- To develop strategic competence, a technical communicator also needs to be aware of their own strengths and weaknesses, and to seek feedback and guidance from others, such as peers, mentors, or experts   .
+- To develop strategic competence, a technical communicator also needs to be open-minded and curious, and to explore new ideas and perspectives, as well as to learn from their own and others' experiences and mistakes   .

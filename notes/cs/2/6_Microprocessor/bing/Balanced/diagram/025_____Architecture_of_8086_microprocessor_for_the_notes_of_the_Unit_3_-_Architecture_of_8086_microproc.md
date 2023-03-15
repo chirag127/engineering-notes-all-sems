@@ -1,0 +1,24 @@
+### Architecture of 8086 Microprocessor
+
+- The 8086 is a 16-bit microprocessor with a 16-bit internal and external data bus. With 20 address lines, it can access upto 2^20^ = 1 MB of memory.
+- The architecture of the 8086 microprocessor consists of two independent sections or units, the Bus Interface Unit (BIU) and Execution Unit (EU)  .
+- The Bus Interface Unit (BIU) provides the interface of 8086 to external memory and I/O devices via the System Bus. It handles all the data transfer functions  .
+- The BIU consists of the following components  :
+  - Segment registers: These are four 16-bit registers that store the starting addresses of four memory segments: code, data, stack, and extra. Each segment can be upto 64 KB in size.
+  - Instruction pointer: This is a 16-bit register that stores the offset address of the next instruction to be executed within the code segment.
+  - Address adder: This is a circuit that combines the segment address and the offset address to form a 20-bit physical address that is sent to the memory or I/O device.
+  - Prefetch queue: This is a 6-byte buffer that stores the prefetched instructions from the code segment. It helps to speed up the execution by providing the instructions to the EU in advance.
+- The Execution Unit (EU) performs the arithmetic and logical operations on the data. It also controls the flow of execution by testing the conditions and branching accordingly  .
+- The EU consists of the following components  :
+  - General purpose registers: These are eight 16-bit registers that can be used for various purposes such as data storage, address calculation, and operand manipulation. They are: AX, BX, CX, DX, SI, DI, BP, and SP. Each register can be accessed as a whole or as two 8-bit registers, such as AH and AL for AX.
+  - Flag register: This is a 16-bit register that stores the status of the EU after an operation. It has nine active bits that indicate various conditions such as carry, zero, sign, overflow, etc.
+  - Arithmetic and logic unit (ALU): This is a circuit that performs the arithmetic and logical operations on the data, such as addition, subtraction, multiplication, division, and, or, xor, etc.
+  - Control unit: This is a circuit that decodes the instructions from the prefetch queue and generates the control signals to execute them. It also handles the interrupts and exceptions that may occur during the execution.
+- The 8086 microprocessor can operate in two modes: minimum mode and maximum mode .
+  - Minimum mode: This is the mode when the 8086 is used as a single processor in a system. In this mode, the 8086 generates all the control signals for the memory and I/O devices directly.
+  - Maximum mode: This is the mode when the 8086 is used as a master processor in a multiprocessor system. In this mode, the 8086 generates some signals that are used by an external coprocessor, such as 8087, or a bus controller, such as 8288, to generate the control signals for the memory and I/O devices.
+- The 8086 microprocessor has a rich instruction set that can perform various operations on the data, such as data transfer, arithmetic, logical, shift, rotate, string, branch, loop, etc .
+- The instruction format of the 8086 microprocessor consists of one to six bytes, depending on the type of instruction. The first byte is called the opcode, which specifies the operation to be performed. The following bytes are called the operands, which specify the source and destination of the data .
+- The types of instructions in the 8086 microprocessor are :
+  - Data transfer instructions: These are the instructions that move the data from one location to another, such as MOV, PUSH, POP, etc.
+  - Arithmetic instructions: These are the instructions that perform the arithmetic operations on the data, such as ADD, SUB, MUL, DIV, etc.

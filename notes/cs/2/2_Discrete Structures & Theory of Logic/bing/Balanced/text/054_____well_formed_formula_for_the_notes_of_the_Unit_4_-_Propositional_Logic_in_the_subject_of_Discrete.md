@@ -1,0 +1,24 @@
+### Well formed formula
+
+- A well formed formula (WFF) is a finite sequence of symbols from a given alphabet that is grammatically correct according to some rules of syntax.
+- The alphabet of propositional logic consists of propositional variables, logical connectives, and parentheses.
+- The propositional variables are symbols that represent propositions, such as p, q, r, etc.
+- The logical connectives are symbols that represent logical operations, such as negation (~), conjunction (∧), disjunction (∨), implication (→), and equivalence (↔).
+- The parentheses are symbols that group symbols together and indicate the order of evaluation, such as ( and ).
+- The rules of syntax for WFFs are as follows:
+  - Any propositional variable is a WFF.
+  - If α is a WFF, then (~α) is a WFF.
+  - If α and β are WFFs, then (α ∧ β), (α ∨ β), (α → β), and (α ↔ β) are WFFs.
+  - Nothing else is a WFF.
+- Examples of WFFs are:
+  - p
+  - (~q)
+  - (p ∧ q)
+  - ((p ∨ q) → r)
+  - ((p ↔ q) ↔ (~r))
+- Examples of non-WFFs are:
+  - p ∧
+  - (p q)
+  - (p →) q
+  - p ↔ (~q
+  - p ∨ q ∧ r

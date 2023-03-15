@@ -1,0 +1,33 @@
+# Regular Languages and Computers
+
+- Regular languages are a class of formal languages that can be defined by regular expressions or recognized by finite automata.
+- Regular languages are used in parsing and designing programming languages, as well as in modeling simple computational problems that require a very small amount of memory.
+- Regular languages have several equivalent characterizations, such as:
+  - A language is regular if and only if it can be defined by a regular expression.
+  - A language is regular if and only if it can be recognized by a deterministic finite automaton (DFA).
+  - A language is regular if and only if it can be recognized by a nondeterministic finite automaton (NFA).
+  - A language is regular if and only if it can be recognized by a right-linear grammar.
+  - A language is regular if and only if it can be recognized by a left-linear grammar.
+  - A language is regular if and only if it can be recognized by a regular grammar.
+- Regular languages have several closure properties, such as:
+  - The union of two regular languages is regular.
+  - The intersection of two regular languages is regular.
+  - The complement of a regular language is regular.
+  - The concatenation of two regular languages is regular.
+  - The Kleene star of a regular language is regular.
+  - The reversal of a regular language is regular.
+  - The homomorphism of a regular language is regular.
+  - The inverse homomorphism of a regular language is regular.
+- Regular languages have several decidability properties, such as:
+  - The emptiness problem: Given a regular language L, decide whether L is empty or not.
+  - The finiteness problem: Given a regular language L, decide whether L is finite or not.
+  - The membership problem: Given a regular language L and a word w, decide whether w belongs to L or not.
+  - The equivalence problem: Given two regular languages L1 and L2, decide whether L1 and L2 are equal or not.
+  - The inclusion problem: Given two regular languages L1 and L2, decide whether L1 is a subset of L2 or not.
+  - The minimization problem: Given a regular language L, find a DFA that recognizes L and has the minimum number of states.
+- Regular languages have several limitations, such as:
+  - They cannot recognize languages that require an unbounded amount of memory, such as the language of balanced parentheses or the language of palindromes.
+  - They cannot recognize languages that are not closed under intersection, such as the language of prime numbers or the language of squares.
+  - They cannot recognize languages that are not closed under complement, such as the language of odd-length words or the language of words that contain an even number of a's and an odd number of b's.
+  - They cannot recognize languages that are not closed under concatenation, such as the language of words that start and end with the same symbol or the language of words that contain exactly two a's.
+  - They cannot recognize languages that are not closed under Kleene star, such as the language of words that contain at least one a or the language of words that contain exactly one b.

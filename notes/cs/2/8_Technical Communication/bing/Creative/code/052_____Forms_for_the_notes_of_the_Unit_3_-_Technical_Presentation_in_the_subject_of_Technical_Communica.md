@@ -1,0 +1,10 @@
+### Forms for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Notes are brief records of information that help the speaker to deliver a presentation effectively and confidently.
+- Notes can be written in different forms, depending on the speaker's preference, the purpose of the presentation, and the audience's expectations.
+- Some common forms of notes are:
+
+  - **Outline**: A list of main points and subpoints that show the structure and logic of the presentation. An outline can be written in full sentences or keywords, and can use symbols, numbers, or letters to indicate the hierarchy of ideas. An outline helps the speaker to organize the content and avoid omitting or repeating information.
+  - **Index cards**: Small cards that contain one or two main points or keywords per card. Index cards are easy to carry and shuffle, and can be used to prompt the speaker during the presentation. Index cards can also include visual aids, such as diagrams, graphs, or images, to support the verbal message.
+  - **Mind map**: A diagram that shows the relationships between the main topic and the subtopics of the presentation. A mind map uses colors, shapes, symbols, and lines to represent different types of information and connections. A mind map helps the speaker to visualize the content and recall the key points.
+  - **Script**: A written text that contains the exact words that the speaker will say during the presentation. A script can include cues for pauses, gestures, intonation, and emphasis. A script helps the speaker to prepare the language and style of the presentation, and to practice the pronunciation and delivery. However, a script can also make the speaker sound unnatural or monotonous, and can reduce the eye contact and interaction with the audience.

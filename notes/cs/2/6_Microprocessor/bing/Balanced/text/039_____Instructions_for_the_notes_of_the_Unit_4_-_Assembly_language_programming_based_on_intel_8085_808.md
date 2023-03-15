@@ -1,0 +1,22 @@
+### Instructions for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level programming language that is specific to a given processor. It uses mnemonics to represent the binary instructions that the microprocessor can execute. 
+- The intel 8085 and 8086 are popular 8-bit and 16-bit microprocessors respectively, that are used widely across the world to introduce students to microprocessor concepts and assembly language programming. 
+- The intel 8085 and 8086 have different architectures, registers, instruction sets, addressing modes, and memory models. Therefore, the assembly language programs written for one microprocessor may not work on the other.
+- The intel 8085 and 8086 assembly language programs consist of the following components:
+  - A label, which is an optional identifier for a memory location or a program segment. It is followed by a colon (:).
+  - An instruction, which is a mnemonic that represents an operation code (opcode) and one or more operands. The operands can be registers, memory addresses, data values, or labels. The instruction is followed by a semicolon (;).
+  - A comment, which is an optional explanation or remark for the program. It is preceded by a semicolon (;).
+  - A directive, which is a command to the assembler that controls the assembly process, such as defining constants, variables, macros, segments, etc. It is preceded by a dot (.).
+- The intel 8085 and 8086 assembly language programs can be classified into the following categories based on the type of instructions they use:
+  - Data transfer instructions, which are used to move data between registers, memory, and input/output devices. Examples are MOV, MVI, LDA, STA, IN, OUT, etc.
+  - Arithmetic instructions, which are used to perform arithmetic operations on data, such as addition, subtraction, multiplication, division, increment, decrement, etc. Examples are ADD, SUB, MUL, DIV, INR, DCR, etc.
+  - Logic instructions, which are used to perform logical operations on data, such as AND, OR, XOR, NOT, complement, shift, rotate, etc. Examples are ANA, ORA, XRA, CMA, RLC, RRC, etc.
+  - Branch instructions, which are used to alter the sequence of execution of the program based on certain conditions, such as jump, call, return, etc. Examples are JMP, JC, JNC, JZ, JNZ, CALL, RET, etc.
+  - Looping instructions, which are used to repeat a block of code for a specified number of times or until a condition is met. Examples are LOOP, LOOPE, LOOPNE, etc.
+  - Counting instructions, which are used to manipulate the contents of a register or a memory location as a counter. Examples are INX, DCX, LXI, etc.
+  - Indexing instructions, which are used to access data in memory using an index register. Examples are LDAX, STAX, etc.
+  - Programming techniques, which are used to improve the efficiency, readability, and maintainability of the program, such as using subroutines, macros, comments, labels, directives, etc.
+  - Counters and time delays, which are used to generate a specific duration of time or a specific number of pulses using a loop or a counter. Examples are DELAY, COUNT, etc.
+  - Stacks and subroutines, which are used to store and retrieve data or return addresses using a special memory area called the stack. Examples are PUSH, POP, CALL, RET, etc.
+  - Conditional call and return instructions, which are used to call or return from a subroutine based on certain conditions, such as CC, CNC, CZ, CNZ, etc.

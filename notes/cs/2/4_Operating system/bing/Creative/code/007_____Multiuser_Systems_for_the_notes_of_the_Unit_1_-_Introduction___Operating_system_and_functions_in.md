@@ -1,0 +1,21 @@
+### Multiuser Systems
+
+- A multiuser system is an operating system that allows multiple users to access the same computer system and its resources simultaneously .
+- A multiuser system can be implemented using a network of terminals connected to a central server, or using a distributed system of interconnected computers .
+- The main objectives of a multiuser system are to achieve efficient time-sharing and batch processing of tasks, and to provide security and protection mechanisms for user data and programs .
+- Some of the advantages of a multiuser system are:
+  - It allows resource sharing and collaboration among users .
+  - It reduces the cost and maintenance of hardware and software .
+  - It improves the reliability and availability of the system .
+- Some of the challenges of a multiuser system are:
+  - It requires more complex design and management of the operating system .
+  - It poses more security and privacy risks for user data and programs .
+  - It may cause performance degradation and resource contention due to concurrent access .
+- Some of the examples of multiuser operating systems are:
+  - UNIX  
+  - Microsoft Windows  
+  - Linux  
+  - MySQL
+  - Mac OS X 
+  - BeOS
+  - HP/UX

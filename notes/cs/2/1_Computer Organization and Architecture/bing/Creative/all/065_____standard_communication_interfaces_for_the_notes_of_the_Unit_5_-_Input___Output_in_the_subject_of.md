@@ -1,0 +1,32 @@
+# Standard Communication Interfaces
+
+- A communication interface is a device or system that allows data to be exchanged between different components of a computer system or a network.
+- A standard communication interface is a communication interface that follows a predefined set of rules or protocols for data transfer, such as SCSI, USB, Ethernet, etc.
+- A standard communication interface decouples the design and introduction of computing hardware, such as I/O devices, from the design and introduction of other components of a computing system, thereby allowing users and manufacturers great flexibility in the implementation of computing systems.
+- A standard communication interface consists of two main parts: the physical layer and the logical layer.
+  - The physical layer defines the electrical and mechanical characteristics of the interface, such as the connectors, cables, voltages, signals, etc.
+  - The logical layer defines the format and meaning of the data that is transferred over the interface, such as the commands, responses, error detection, etc.
+- A standard communication interface supports a method by which data is transferred between internal storage and external I/O devices.
+  - The data transfer can be synchronous or asynchronous.
+    - Synchronous data transfer means that the data is transferred at a fixed rate and with a fixed timing between the sender and the receiver.
+    - Asynchronous data transfer means that the data is transferred without a fixed rate or timing between the sender and the receiver, and the sender and the receiver use some signals or codes to indicate the start and the end of the data .
+  - The data transfer can be serial or parallel.
+    - Serial data transfer means that the data is transferred one bit at a time over a single wire or channel.
+    - Parallel data transfer means that the data is transferred multiple bits at a time over multiple wires or channels.
+- A standard communication interface provides a set of primitive operations or services that each layer in a network layered architecture can use to communicate with each other.
+  - The services can be connection-oriented or connectionless.
+    - Connection-oriented services mean that the sender and the receiver establish a logical connection before exchanging data, and maintain the connection until the data transfer is complete.
+    - Connectionless services mean that the sender and the receiver do not establish a logical connection before exchanging data, and each data unit is treated independently.
+  - The services can be reliable or unreliable.
+    - Reliable services mean that the sender and the receiver ensure that the data is delivered correctly and in order, and use some mechanisms to handle errors, losses, or duplicates.
+    - Unreliable services mean that the sender and the receiver do not guarantee that the data is delivered correctly and in order, and do not use any mechanisms to handle errors, losses, or duplicates.
+- A standard communication interface uses an interface data unit (IDU) to have an agreed way of communication among two layers in a network layered architecture.
+  - An IDU is a data unit that contains the information that is exchanged between two layers, such as the header, the payload, and the trailer.
+  - An IDU is passed from the higher layer to the lower layer, and from the lower layer to the higher layer, through a service access point (SAP).
+  - A SAP is an identifier label for the endpoints of a network in a layered model, and it specifies which service or protocol is used by the layer.
+- A standard communication interface uses a control and status register to communicate with the CPU.
+  - A control and status register is a register that contains the information that is used to control or monitor the operation of the interface, such as the mode, the direction, the status, the interrupt, etc.
+  - A control and status register is accessed by the CPU through a data bus buffer, which is a bi-directional data bus that connects the interface to the CPU.
+  - A control and status register is also connected to the read/write control logic, which is a circuit that determines whether the CPU is reading from or writing to the interface.
+- A standard communication interface uses a port register to communicate with the I/O device.
+  - A port register is a register that contains the data that is transferred between the interface and the I/O device, such as the input data, the output data, the address

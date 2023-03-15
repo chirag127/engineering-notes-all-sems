@@ -1,0 +1,38 @@
+### Content for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Oral communication is the process of expressing information or ideas by word of mouth.
+- Oral communication can be formal or informal, depending on the context and purpose.
+- Oral communication has several advantages, such as:
+  - It allows for immediate feedback and clarification.
+  - It can convey emotions and tone more effectively than written communication.
+  - It can build rapport and trust among the participants.
+  - It can be more persuasive and influential than written communication.
+- Oral communication also has some disadvantages, such as:
+  - It can be affected by noise, distractions, or interruptions.
+  - It can be misunderstood or misinterpreted due to lack of nonverbal cues or cultural differences.
+  - It can be forgotten or distorted over time, unless recorded or documented.
+  - It can be less organized and structured than written communication.
+- Oral communication can be classified into two dimensions: verbal and nonverbal.
+  - Verbal communication involves the words and language used to convey the message.
+  - Nonverbal communication involves the vocal and visual cues that accompany the message, such as tone, pitch, volume, facial expressions, gestures, eye contact, etc.
+- Oral communication can also be influenced by the organizational design, which refers to the structure, hierarchy, culture, and norms of the organization.
+  - Organizational design can affect the flow, direction, frequency, and quality of oral communication among the members.
+  - Organizational design can also affect the interaction involvement, which consists of three interrelated dimensions: responsiveness, perceptiveness, and attentiveness.
+- Voice dynamics are the aspects of oral communication that relate to the quality and effectiveness of the voice.
+- Voice dynamics include the following elements:
+  - Articulation: the clarity and accuracy of pronouncing the words.
+  - Enunciation: the stress and emphasis placed on the syllables and words.
+  - Pronunciation: the correctness and appropriateness of using the words according to the standard or dialect.
+  - Fluency: the smoothness and continuity of the speech without hesitation or interruption.
+  - Modulation: the variation and adjustment of the pitch, tone, and volume of the voice according to the context and emotion.
+  - Projection: the strength and direction of the voice to reach the audience and convey the message.
+- Voice dynamics can enhance or hinder the oral communication, depending on how they are used and perceived by the listeners.
+- Voice dynamics can be improved by practicing and applying the following tips:
+  - Breathe deeply and relax the throat and jaw muscles before speaking.
+  - Speak slowly and clearly, and avoid mumbling or slurring the words.
+  - Use appropriate words and language for the audience and the purpose.
+  - Vary the pitch, tone, and volume of the voice to avoid monotony and boredom.
+  - Use pauses and emphasis to highlight the key points and transitions.
+  - Maintain eye contact and facial expressions to show interest and confidence.
+  - Use gestures and body language to support and reinforce the message.
+  - Seek feedback and adjust the voice dynamics accordingly.

@@ -1,0 +1,21 @@
+# Decidability
+
+- Decidability is the property of a problem that can be solved by an algorithm in a finite number of steps.
+- In terms of automata theory, decidability refers to the problem of testing whether a given model of computation, such as a finite automaton, a Turing machine, or a grammar, accepts a given input string or generates a given language.
+- A problem is decidable if there exists a Turing machine that halts on every input and gives a correct answer (yes or no) for the problem.
+- A language is decidable or recursive if there exists a Turing machine that accepts and halts on every string in the language, and rejects and halts on every string not in the language.
+- A decidable language corresponds to an algorithmically solvable decision problem.
+- Some examples of decidable problems in automata theory are:
+  - A DFA: Given a deterministic finite automaton (DFA) and an input string, does the DFA accept the string?
+  - A NFA: Given a nondeterministic finite automaton (NFA) and an input string, does the NFA accept the string?
+  - E DFA: Given a DFA, is the language accepted by the DFA empty?
+  - E Q DFA: Given two DFAs, do they accept the same language?
+  - A CFG: Given a context-free grammar (CFG) and an input string, does the CFG generate the string?
+- Some examples of undecidable problems in automata theory are:
+  - A TM: Given a Turing machine and an input string, does the Turing machine accept the string?
+  - E TM: Given a Turing machine, is the language accepted by the Turing machine empty?
+  - E Q TM: Given two Turing machines, do they accept the same language?
+  - A RE: Given a regular expression and an input string, does the regular expression match the string?
+  - A CS: Given a context-sensitive grammar and an input string, does the grammar generate the string?
+- Decidability is related to the concept of computability, which studies what kinds of functions can be computed by different models of computation.
+- Decidability is also related to the concept of complexity, which studies how efficiently a problem can be solved by an algorithm, given the available resources such as time and space.

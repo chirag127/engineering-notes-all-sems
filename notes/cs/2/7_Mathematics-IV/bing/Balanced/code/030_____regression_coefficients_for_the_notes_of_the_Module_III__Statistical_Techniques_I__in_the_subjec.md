@@ -1,0 +1,25 @@
+# Regression Coefficients
+
+- Regression coefficients are estimates of some unknown parameters to describe the relationship between a predictor variable and the corresponding response.
+- In linear regression, the main aim is to find the equation of a straight line that best describes the relationship between two or more variables.
+- For instance, y = 7x - 3 represents a simple regression equation, where 7 is the coefficient, x is the predictor and -3 is the constant term.
+- Regression coefficients calculate the slope of the line, which is the change in the independent variable for a unit change in the variable.
+- As a result, they’re often referred to as the slope coefficient.
+- The equation for the linear regression line is y = a + bX, where a is the intercept and b is the slope.
+- The slope b can be calculated by the formula b = r * (Sy / Sx), where r is the correlation coefficient, Sy is the standard deviation of y and Sx is the standard deviation of x.
+- The intercept a can be calculated by the formula a = y - bX, where y and x are the means of y and x respectively.
+- Regression coefficients have some properties, such as:
+  - They are independent of the change of origin, but not of the change of scale.
+  - They are symmetrical, i.e., bxy = byx, where bxy is the regression coefficient of y on x and byx is the regression coefficient of x on y.
+  - They are dimensionless, i.e., they do not depend on the units of measurement.
+  - They lie between -1 and 1, i.e., -1 <= bxy <= 1 and -1 <= byx <= 1.
+  - They are related to the correlation coefficient by the formula r = sqrt(bxy * byx), where r is the correlation coefficient.
+- Regression coefficients can be used to predict the value of an unknown variable using a known variable.
+- For example, if we know the regression equation of y on x is y = 2x + 5, and we want to predict the value of y when x = 3, we can plug in x = 3 into the equation and get y = 2 * 3 + 5 = 11.
+- Regression coefficients can also be used to measure the strength and direction of the linear relationship between two variables.
+- For example, if the regression coefficient of y on x is positive, it means that y increases as x increases, and vice versa.
+- If the regression coefficient of y on x is negative, it means that y decreases as x increases, and vice versa.
+- If the regression coefficient of y on x is zero, it means that there is no linear relationship between y and x.
+- The magnitude of the regression coefficient indicates how steep the regression line is, and how much y changes for a unit change in x.
+- The larger the absolute value of the regression coefficient, the stronger the linear relationship between y and x.
+- The smaller the absolute value of the regression coefficient, the weaker the linear relationship between y and x.

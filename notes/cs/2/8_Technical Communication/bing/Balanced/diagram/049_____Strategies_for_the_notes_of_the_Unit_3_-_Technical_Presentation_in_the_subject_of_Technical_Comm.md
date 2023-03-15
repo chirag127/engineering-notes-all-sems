@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Technical Presentation in Technical Communication. Here are some strategies for the notes of the Unit 3:
+
+### Strategies for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Identify the purpose and audience of your presentation. What is the main message you want to convey? Who are you speaking to and what are their expectations, needs, and interests?
+- Plan the structure and content of your presentation. Use a clear and logical sequence of introduction, body, and conclusion. Use headings, subheadings, and transitions to guide your audience through your presentation. Use relevant and credible sources to support your claims and arguments.
+- Design effective visual aids to enhance your presentation. Use charts, graphs, diagrams, images, videos, or animations to illustrate your points and data. Use appropriate colors, fonts, sizes, and layouts to make your visual aids readable and attractive. Avoid cluttering your slides with too much text or information.
+- Prepare and practice your delivery. Write a script or an outline of your presentation and rehearse it several times. Use a confident and clear voice, vary your tone and pace, and use pauses and emphasis to highlight key points. Use eye contact, gestures, and body language to engage your audience and show your enthusiasm. Anticipate and prepare for possible questions or feedback from your audience.

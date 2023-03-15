@@ -1,0 +1,21 @@
+# Considerateness for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Considerateness is one of the seven C's of effective communication, along with clarity, conciseness, completeness, correctness, concreteness, and courtesy .
+- Considerateness means showing respect and empathy for the audience, and focusing on their needs, interests, and expectations .
+- Considerateness also means using positive and polite language, avoiding negative or offensive words, and emphasizing on what is possible rather than what is impossible .
+- Considerateness is important for oral communication because it helps to build rapport and trust with the listeners, and to avoid misunderstandings and conflicts .
+- Some features of considerate oral communication are   :
+  - Using "you" approach instead of "I" or "we" approach, to show that the speaker cares about the listener's perspective and benefits.
+  - Empathizing with the listener's feelings, opinions, and concerns, and expressing interest and appreciation for them.
+  - Showing optimism and enthusiasm, and using words that convey positive emotions and outcomes, such as "jovial", "committed", "thanks", "warm", "healthy", "help", etc.
+  - Avoiding words that convey negative emotions and outcomes, such as "angry", "lazy", "sorry", "cold", "sick", "harm", etc.
+  - Using simple and clear language, and avoiding jargon, technical terms, or complex sentences that may confuse or bore the listener.
+  - Adapting the message to the listener's level of knowledge, background, and culture, and avoiding assumptions or stereotypes that may offend or alienate the listener.
+  - Providing feedback and asking questions, to ensure that the listener understands and agrees with the message, and to invite their participation and input.
+  - Listening actively and attentively, and acknowledging the listener's responses, to show that the speaker values and respects the listener's views and contributions.
+- Considerateness can be improved by practicing the following skills   :
+  - Analyzing the audience before and during the oral communication, and identifying their needs, interests, expectations, and preferences.
+  - Planning and organizing the message, and choosing the appropriate tone, style, and content for the audience and the purpose of the communication.
+  - Delivering the message with confidence, clarity, and sincerity, and using appropriate nonverbal cues, such as eye contact, gestures, facial expressions, and voice modulation.
+  - Revising and editing the message, and seeking feedback from the audience, to check for errors, omissions, or misunderstandings, and to make improvements if needed.
+  - Evaluating the effectiveness of the communication, and reflecting on the strengths and weaknesses of the message and the delivery, and learning from the experience.

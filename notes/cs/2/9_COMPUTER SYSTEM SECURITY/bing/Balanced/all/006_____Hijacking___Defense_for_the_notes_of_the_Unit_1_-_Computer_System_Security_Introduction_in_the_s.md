@@ -1,0 +1,23 @@
+# Hijacking & Defense
+
+Hijacking is a type of network security attack in which the attacker takes control of computer systems, software programs and/or network communications. Hijacking can be used to steal information, spy on users, display persistent advertising, or execute malicious code.
+
+Defense is the process of preventing or mitigating hijacking attacks by applying various security measures and techniques. Defense can be applied at different levels, such as software, system, or network.
+
+Some examples of hijacking and defense are:
+
+- **Control hijacking**: The attacker exploits a vulnerability in the software to overwrite a code pointer, such as a return address or a function pointer, and redirect the execution flow to malicious code. This can result in arbitrary code execution, privilege escalation, or denial of service. Control hijacking can be performed by using techniques such as buffer overflow, integer overflow, or format string attacks.
+  - **Defense**: Some possible defenses against control hijacking are:
+    - **Memory safety**: This is the property of a programming language or a system that prevents invalid access or modification of memory locations. Memory safety can prevent buffer overflow and other memory corruption attacks that can lead to control hijacking.
+    - **Code pointer integrity**: This is the property of a system that ensures that only valid and authorized code pointers can be used to change the execution flow. Code pointer integrity can prevent the attacker from overwriting code pointers with malicious values.
+    - **Control flow integrity**: This is the property of a system that ensures that the execution flow follows a predefined and legitimate path. Control flow integrity can prevent the attacker from diverting the execution flow to arbitrary or unintended locations.
+- **Session hijacking**: The attacker intercepts or steals a session token, such as a cookie or a URL parameter, that is used to authenticate a user to a web application. This allows the attacker to impersonate the user and access their account or data. Session hijacking can be performed by using techniques such as network sniffing, cross-site scripting, or malware infection.
+  - **Defense**: Some possible defenses against session hijacking are:
+    - **Encryption**: This is the process of transforming data into an unreadable form that can only be decrypted by authorized parties. Encryption can prevent the attacker from eavesdropping or tampering with the session tokens or the data transmitted between the user and the web application.
+    - **Secure cookies**: These are cookies that have certain attributes that enhance their security, such as the Secure, HttpOnly, and SameSite flags. Secure cookies can prevent the attacker from stealing or manipulating the cookies via network attacks or cross-site scripting.
+    - **Session expiration**: This is the process of terminating a session after a certain period of inactivity or a certain event, such as logging out. Session expiration can prevent the attacker from using a stolen or hijacked session token indefinitely.
+- **Browser hijacking**: The attacker modifies the settings or behavior of the user's web browser, such as the home page, the search engine, the toolbar, or the extensions. This allows the attacker to redirect the user to unwanted or malicious websites, display unwanted ads, or monitor the user's browsing activity. Browser hijacking can be performed by using techniques such as phishing, drive-by downloads, or software bundling.
+  - **Defense**: Some possible defenses against browser hijacking are:
+    - **Antivirus software**: This is a software program that detects and removes malware, such as viruses, worms, trojans, or spyware, from the user's computer. Antivirus software can prevent or remove browser hijackers that are installed as malware on the user's computer.
+    - **Browser settings**: These are the options and preferences that the user can configure to customize their web browser, such as the home page, the search engine, the extensions, or the security features. Browser settings can prevent or undo the changes made by browser hijackers to the user's web browser.
+    - **User awareness**: This is the knowledge and understanding of the user about the risks and best practices of using the web browser and the internet. User awareness can prevent the user from falling victim to browser hijacking by avoiding suspicious links, downloads, or software.

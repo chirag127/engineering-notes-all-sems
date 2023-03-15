@@ -1,0 +1,8 @@
+### Division and logic operations for the notes of the Unit 2 - Arithmetic and logic unit in the subject of Computer Organization and Architecture
+
+- An arithmetic logic unit (ALU) is a component of a computer that performs simple arithmetic and logic operations, such as addition, subtraction, multiplication, division, OR, AND, etc.  
+- The ALU is controlled by the control unit, which sends signals to the ALU to select the operation and the operands. The operands are usually stored in the memory unit or in the registers. The result of the operation is stored in another register or memory location.  
+- Division is a more complex operation than multiplication, as it involves repeated cycles of comparison, shifting, and subtraction. The quotient digit is either 0 or 1, depending on whether the divisor is larger or smaller than the dividend.  
+- There are different algorithms for division, depending on the representation of the numbers. For example, in signed-magnitude representation, the sign of the quotient is determined by the signs of the dividend and the divisor, and the magnitude of the quotient is obtained by dividing the magnitudes of the dividend and the divisor. 
+- Logic operations are performed on the bits of the operands, using Boolean algebra rules. For example, OR operation returns 1 if either bit is 1, AND operation returns 1 if both bits are 1, NOT operation returns the complement of the bit, etc.  
+- Logic operations are useful for manipulating and testing bits, such as setting, clearing, toggling, or masking bits. They are also used for implementing conditional branching, loops, and other control structures.

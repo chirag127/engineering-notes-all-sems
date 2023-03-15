@@ -1,0 +1,31 @@
+### Moves for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+
+- A push down automaton (PDA) is a finite state machine with an additional stack memory.
+- A PDA can perform three types of moves: push, pop, and no operation (no-op) on the stack.
+- A push move adds a symbol to the top of the stack.
+- A pop move removes the top symbol from the stack.
+- A no-op move does not change the stack.
+- A PDA can make a move based on the current state, the current input symbol, and the top stack symbol.
+- A PDA can have either deterministic or nondeterministic transitions.
+- A deterministic PDA (DPDA) has at most one move for each combination of state, input symbol, and stack symbol.
+- A nondeterministic PDA (NPDA) can have zero, one, or more moves for each combination of state, input symbol, and stack symbol.
+- A PDA accepts an input string if it reaches a final state after reading the entire input and performing zero or more moves on the stack.
+- A PDA can also accept an input string by emptying the stack, regardless of the final state.
+- A language is context-free if it can be accepted by some PDA.
+- A context-free grammar (CFG) is a set of rules that generate context-free languages.
+- A CFG consists of a set of variables, a set of terminals, a start variable, and a set of production rules.
+- A production rule has the form A -> α, where A is a variable and α is a string of variables and terminals.
+- A CFG derives a string by starting from the start variable and applying production rules until only terminals are left.
+- A CFG is in Chomsky normal form (CNF) if every production rule has the form A -> BC or A -> a, where A, B, and C are variables and a is a terminal.
+- Every context-free language, except the empty language and the language containing only the empty string, has an equivalent CFG in CNF.
+- A CFG is in Greibach normal form (GNF) if every production rule has the form A -> aα, where A is a variable, a is a terminal, and α is a string of variables.
+- Every context-free language, except the empty language, has an equivalent CFG in GNF.
+- A CFG is ambiguous if it can derive the same string in more than one way.
+- A language is inherently ambiguous if every CFG that generates it is ambiguous.
+- A CFG is left-recursive if it has a production rule of the form A -> Aα, where A is a variable and α is a string of variables and terminals.
+- A CFG is right-recursive if it has a production rule of the form A -> αA, where A is a variable and α is a string of variables and terminals.
+- Left-recursion and right-recursion can cause problems for some parsing algorithms, such as top-down parsing.
+- A CFG can be converted to an equivalent CFG without left-recursion or right-recursion by using elimination algorithms.
+- A CFG can also be converted to an equivalent PDA by using a construction algorithm.
+- A PDA can also be converted to an equivalent CFG by using a reverse construction algorithm.
+- The equivalence of PDAs and CFGs shows that context-free languages have both a generative and a recognitive characterization.

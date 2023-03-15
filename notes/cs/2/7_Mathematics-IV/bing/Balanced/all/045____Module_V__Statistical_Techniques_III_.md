@@ -1,0 +1,7 @@
+## Module V: Statistical Techniques III:
+
+- This module covers some advanced statistical techniques for data analysis, such as regression, correlation, ANOVA, and chi-square test.
+- Regression is a technique that models the relationship between a dependent variable and one or more independent variables. It can be used to estimate the effect of a change in one variable on another, or to predict the value of a variable based on other variables.
+- Correlation is a measure of the strength and direction of the linear association between two variables. It can be used to assess how closely two variables are related, or to test hypotheses about their relationship. Correlation ranges from -1 to 1, where -1 indicates a perfect negative relationship, 0 indicates no relationship, and 1 indicates a perfect positive relationship.
+- ANOVA (analysis of variance) is a technique that compares the means of two or more groups of data. It can be used to test whether there is a significant difference among the groups, or to examine the effect of one or more factors on a response variable.
+- Chi-square test is a technique that compares the observed frequencies of categorical data with the expected frequencies under a null hypothesis. It can be used to test whether there is a significant association between two categorical variables, or to test the goodness of fit of a theoretical distribution to the observed data.

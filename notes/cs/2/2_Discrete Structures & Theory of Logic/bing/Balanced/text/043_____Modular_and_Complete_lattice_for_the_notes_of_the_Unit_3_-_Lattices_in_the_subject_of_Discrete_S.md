@@ -1,0 +1,12 @@
+### Modular and Complete Lattice
+
+- A **lattice** is a partially ordered set (poset) in which every two elements have a unique least upper bound (called their **join** or **supremum**) and a unique greatest lower bound (called their **meet** or **infimum**).
+- A lattice is **modular** if it satisfies the following self-dual condition: for any elements a, b, and x in the lattice, if a ≤ b, then a ∨ (b ∧ x) = (a ∨ b) ∧ x, where ∨ denotes the join operation and ∧ denotes the meet operation. This condition is also known as the **modular law**.
+- A lattice is **complete** if it has a join and a meet for every subset of the lattice, not just for pairs of elements. Equivalently, a lattice is complete if it has a least element (called the **bottom** or **zero**) and a greatest element (called the **top** or **one**).
+- Every finite lattice is complete, since the join and meet of any subset can be obtained by applying the join and meet operations repeatedly to the elements of the subset. However, not every infinite lattice is complete. For example, the lattice of natural numbers with the usual order is not complete, since it has no greatest element.
+- Some examples of complete lattices are:
+
+  - The lattice of all subsets of a given set, ordered by inclusion. The join of any collection of subsets is their union, and the meet of any collection of subsets is their intersection. The bottom element is the empty set, and the top element is the whole set.
+  - The lattice of all partitions of a given set, ordered by refinement. The join of any collection of partitions is their coarsest common refinement, and the meet of any collection of partitions is their finest common coarsening. The bottom element is the partition that has only one block (the whole set), and the top element is the partition that has only singleton blocks (each element in a separate block).
+  - The lattice of all natural numbers, ordered by divisibility. The join of any collection of natural numbers is their least common multiple, and the meet of any collection of natural numbers is their greatest common divisor. The bottom element is 1, and the top element is 0 (since every natural number divides 0).
+  - The lattice of all real numbers, ordered by the usual order. The join of any collection of real numbers is their supremum, and the meet of any collection of real numbers is their infimum. The bottom element is -∞, and the top element is +∞.

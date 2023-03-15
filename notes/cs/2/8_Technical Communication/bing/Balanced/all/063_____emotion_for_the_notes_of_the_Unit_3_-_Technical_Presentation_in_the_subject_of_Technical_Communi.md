@@ -1,0 +1,13 @@
+# Emotion
+
+Emotion is a topic that relates to the affective aspect of human communication. Emotion can be defined as a natural instinctive state of mind deriving from one's circumstances, mood, or relationships with others. Emotion can also be distinguished from reasoning or knowledge, as it is based on intuition, gut feeling, or sentiment. Emotion can have various effects on the communication process, such as influencing the tone, style, and content of the message, as well as the perception, interpretation, and response of the receiver. Emotion can also be expressed through verbal and nonverbal cues, such as words, voice, facial expressions, gestures, and body language.
+
+Some of the main points to consider when studying emotion in technical communication are:
+
+- Emotion can be classified into different types, such as basic emotions (e.g., happiness, sadness, anger, fear, surprise, and disgust), complex emotions (e.g., guilt, shame, pride, envy, and jealousy), and mixed emotions (e.g., love, hate, and ambivalence).
+- Emotion can be influenced by various factors, such as personality, culture, context, mood, and motivation. Emotion can also vary in intensity, duration, and frequency.
+- Emotion can have positive or negative effects on communication, depending on how it is managed, expressed, and regulated. Emotion can enhance communication by creating rapport, empathy, and trust, or hinder communication by causing misunderstanding, conflict, and bias.
+- Emotion can be communicated effectively by using appropriate verbal and nonverbal strategies, such as choosing the right words, tone, and volume, as well as matching the facial expressions, gestures, and posture to the message. Emotion can also be communicated respectfully by being aware of the audience's needs, expectations, and preferences, as well as the ethical and professional standards of the communication situation.
+- Emotion can be understood accurately by paying attention to the verbal and nonverbal cues of the sender, as well as the context and purpose of the message. Emotion can also be understood empathetically by acknowledging, validating, and responding to the feelings of the sender, without judging, criticizing, or imposing one's own emotions.
+
+Emotion is an important aspect of technical communication, as it can affect the quality, effectiveness, and outcomes of the communication process. Emotion can also enrich the human experience of communication, as it can create meaningful connections, interactions, and relationships. Therefore, it is essential for technical communicators to be aware of the role and impact of emotion in their communication, and to develop the skills and strategies to communicate emotion appropriately, effectively, and respectfully.

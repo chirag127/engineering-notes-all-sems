@@ -1,0 +1,8 @@
+# Method of separation of variables
+
+- The method of separation of variables is a technique to solve partial differential equations (PDEs) that involve two or more independent variables, such as time and space.
+- The method is based on the assumption that the solution of the PDE can be written as a product of functions, each of which depends only on one independent variable. For example, for a PDE in x and t, we try to find a solution of the form u(x, t) = X(x)T(t).
+- The method consists of three main steps:
+  - Substitute the product solution into the PDE and separate the variables by dividing both sides by the product. This will result in an equation that has terms involving only one variable on each side. For example, for the heat equation u_t = ku_xx, we get T'(t)/kT(t) = X''(x)/X(x).
+  - Solve the resulting ordinary differential equations (ODEs) for each variable. This will usually involve finding the eigenvalues and eigenfunctions of the ODEs. For example, for the heat equation, we get T'(t) = -kλT(t) and X''(x) = -λX(x), where λ is a constant.
+  - Combine the solutions of the ODEs to form the general solution of the PDE. This will usually involve using the boundary conditions and the principle of superposition to find the coefficients of the linear combination. For example, for the heat equation, we get u(x, t) = ∑c_n e^(-kλ_n t) X_n(x), where c_n and X_n(x) are determined by the boundary conditions.

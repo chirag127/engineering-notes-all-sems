@@ -1,0 +1,28 @@
+# Theory of Inference for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- Propositional logic is the branch of logic that studies ways of combining or altering statements or propositions to form more complicated statements or propositions.
+- A proposition is a declarative sentence that is either true or false, but not both.
+- Examples of propositions are: "It is raining.", "2 + 2 = 4.", "Sydney is an AI assistant."
+- Examples of non-propositions are: "What time is it?", "x + y = z.", "Hello."
+- Propositional logic uses symbols to represent propositions and logical connectives to form compound propositions.
+- Examples of symbols and connectives are: p, q, r, ~ (negation), ^ (conjunction), v (disjunction), -> (implication), <-> (equivalence).
+- A compound proposition is a proposition that is formed by combining two or more propositions using logical connectives.
+- Examples of compound propositions are: "~p", "p ^ q", "p v q", "p -> q", "p <-> q".
+- A truth table is a table that shows the truth value of a compound proposition for every possible combination of truth values of its component propositions.
+- A truth table has one column for each component proposition and one column for the compound proposition, and one row for each possible assignment of truth values to the component propositions.
+- A tautology is a compound proposition that is always true, regardless of the truth values of its component propositions.
+- Examples of tautologies are: "p v ~p", "p -> p", "p <-> p".
+- A contradiction is a compound proposition that is always false, regardless of the truth values of its component propositions.
+- Examples of contradictions are: "p ^ ~p", "p -> ~p", "~(p <-> p)".
+- A contingency is a compound proposition that is neither a tautology nor a contradiction, meaning that it can be true or false depending on the truth values of its component propositions.
+- Examples of contingencies are: "p ^ q", "p v q", "p -> q", "p <-> q", when p and q are not tautologies or contradictions.
+- A logical equivalence is a relation between two compound propositions that have the same truth value for every possible assignment of truth values to their component propositions.
+- Examples of logical equivalences are: "p v q" and "q v p", "p -> q" and "~p v q", "p <-> q" and "(p -> q) ^ (q -> p)".
+- A logical implication is a relation between two compound propositions such that whenever the first proposition (the antecedent) is true, the second proposition (the consequent) is also true.
+- Examples of logical implications are: "p -> q" and "p", "p -> q" and "~q -> ~p", "p <-> q" and "p -> q".
+- A logical inference is a process of deriving a new proposition (the conclusion) from one or more given propositions (the premises) using rules of inference.
+- A rule of inference is a valid pattern of reasoning that can be applied to any propositions that match its form.
+- Examples of rules of inference in propositional logic are: modus ponens, modus tollens, contraposition, hypothetical syllogism, disjunctive syllogism, conjunction, simplification, addition, resolution, etc.
+- A proof is a sequence of propositions, each of which is either a premise or a conclusion derived from previous propositions using a rule of inference, that ends with the desired conclusion.
+- A proof is valid if every step is justified by a rule of inference and the conclusion follows logically from the premises.
+- A proof is sound if it is valid and the premises are true.

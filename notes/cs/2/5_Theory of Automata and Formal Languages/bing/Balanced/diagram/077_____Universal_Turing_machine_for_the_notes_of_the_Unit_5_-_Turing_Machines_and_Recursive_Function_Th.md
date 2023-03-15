@@ -1,0 +1,22 @@
+### Universal Turing machine
+
+- A universal Turing machine (UTM) is a Turing machine that can simulate an arbitrary Turing machine on arbitrary input .
+- A UTM essentially achieves this by reading both the description of the machine to be simulated as well as the input to that machine from its own tape .
+- A UTM can be used to model the notion of computability and to prove the existence of undecidable problems.
+- A UTM can also be seen as a general-purpose computer that can execute any program given as input.
+- A UTM has a finite set of states, a finite alphabet of symbols, a tape divided into cells, a tape head that can read and write symbols, and a transition function that defines the next state and action based on the current state and symbol.
+- A UTM can be formally defined as a 7-tuple (Q, Σ, Γ, δ, q0, qaccept, qreject), where:
+  - Q is the set of states
+  - Σ is the input alphabet (Σ ⊆ Γ and does not contain the blank symbol _)
+  - Γ is the tape alphabet
+  - δ: Q × Γ → Q × Γ × {L, R} is the transition function
+  - q0 ∈ Q is the initial state
+  - qaccept ∈ Q is the accept state
+  - qreject ∈ Q is the reject state (qreject ≠ qaccept)
+- A UTM can be represented by a state diagram, where each node is a state and each edge is a transition labeled by the current symbol, the new symbol, and the direction of the tape head movement.
+- A UTM can be encoded by a binary string that specifies its states, alphabet, and transition function.
+- A UTM can decode another UTM's encoding and simulate its computation by using a special format of input that consists of the encoding of the simulated machine, a separator symbol, and the input of the simulated machine.
+- A UTM can accept, reject, or loop on any input, depending on the behavior of the simulated machine.
+- A UTM is universal in the sense that it can simulate any Turing machine, but not in the sense that it can solve any problem that is computable.
+- A UTM is not the most efficient way of computing, as it involves extra steps of encoding, decoding, and simulating.
+- A UTM is not the most powerful model of computation, as there are some hypercomputational models that can compute more than what a UTM can.

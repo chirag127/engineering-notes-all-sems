@@ -1,0 +1,10 @@
+## Unit 2 - PROBLEM SOLVING METHODS
+
+Problem solving is the process of finding solutions to difficult or complex issues. Problem solving methods are strategies or techniques that can be used to solve problems effectively and efficiently. Some of the common problem solving methods are:
+
+- **Trial and error**: This method involves trying different solutions until one works or the problem is solved. This method is simple and intuitive, but it can also be time-consuming, inefficient, and frustrating.
+- **Algorithm**: This method involves following a set of rules or steps that guarantee a solution to the problem. This method is precise and reliable, but it can also be rigid, complex, and impractical for some problems.
+- **Heuristic**: This method involves using a rule of thumb or a shortcut that can help find a good or satisfactory solution to the problem. This method is flexible and creative, but it can also be inaccurate, inconsistent, and biased for some problems.
+- **Divide and conquer**: This method involves breaking down a large or complex problem into smaller or simpler subproblems that can be solved more easily. This method is systematic and efficient, but it can also be difficult to identify the subproblems and combine the solutions.
+- **Means-ends analysis**: This method involves comparing the current state of the problem with the desired goal state and finding the actions that can reduce the difference between them. This method is goal-oriented and logical, but it can also be complicated and unclear for some problems.
+- **Backtracking**: This method involves retracing the steps or actions that have been taken to solve the problem and undoing or revising them if they lead to a dead end or a wrong solution. This method is adaptive and corrective, but it can also be repetitive and wasteful for some problems.

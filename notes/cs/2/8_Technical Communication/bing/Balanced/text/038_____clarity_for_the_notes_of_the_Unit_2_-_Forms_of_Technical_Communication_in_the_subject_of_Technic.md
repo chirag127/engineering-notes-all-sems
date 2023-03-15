@@ -1,0 +1,21 @@
+### Clarity for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is the process of conveying information to a specific audience for a specific purpose.
+- Forms of technical communication are the different ways of presenting information to the audience, such as reports, manuals, proposals, memos, emails, etc.
+- Clarity is the quality of being clear, coherent, and understandable in technical communication.
+- Clarity is important for effective technical communication because it helps the audience to:
+  - Comprehend the information quickly and accurately.
+  - Follow the instructions or recommendations easily and correctly.
+  - Avoid confusion, ambiguity, or misunderstanding.
+  - Make informed decisions or take appropriate actions based on the information.
+- Some strategies for achieving clarity in technical communication are:
+  - Define the purpose and scope of the communication.
+  - Analyze the audience and their needs, expectations, and preferences.
+  - Organize the information logically and coherently.
+  - Use clear and precise language, avoiding jargon, slang, or vague terms.
+  - Use appropriate tone, style, and format for the communication.
+  - Use visual aids, such as tables, graphs, diagrams, etc., to supplement or illustrate the information.
+  - Provide examples, evidence, or references to support the information.
+  - Use transitions, headings, lists, etc., to guide the audience through the communication.
+  - Revise and edit the communication for accuracy, completeness, and consistency.
+  - Seek feedback from the audience or other reviewers to improve the communication.

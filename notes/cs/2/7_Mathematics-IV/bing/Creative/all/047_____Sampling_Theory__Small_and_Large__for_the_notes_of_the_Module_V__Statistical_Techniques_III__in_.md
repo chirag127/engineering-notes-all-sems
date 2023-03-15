@@ -1,0 +1,19 @@
+# Sampling Theory (Small and Large)
+
+Sampling theory is the study of how to select a subset of a population (called a sample) that can represent the characteristics of the whole population. Sampling is a useful technique when the population is too large or difficult to measure completely. Sampling can also reduce the cost and time of data collection and analysis.
+
+There are two main types of sampling: probability sampling and non-probability sampling. Probability sampling is based on random selection of elements from the population, where each element has a known and non-zero chance of being selected. Non-probability sampling is based on subjective or convenience criteria, where the chance of selection is unknown or zero for some elements.
+
+The size of the sample affects the accuracy and precision of the estimates based on the sample. In general, larger samples tend to be more representative and have smaller sampling errors than smaller samples. However, the sample size also depends on the variability and distribution of the population, the sampling method, and the desired level of confidence and margin of error.
+
+Sampling theory can be studied under two heads: the sampling of attributes and the sampling of variables. Attributes are categorical or qualitative characteristics of the population, such as gender, color, or opinion. Variables are numerical or quantitative characteristics of the population, such as height, weight, or income.
+
+The sampling of attributes is based on the binomial distribution, which describes the probability of observing a certain number of successes (or failures) in a fixed number of trials. The sampling of variables is based on the normal distribution, which describes the probability of observing a certain value of a continuous variable.
+
+The sampling of variables can be further divided into two cases: large sample and small sample. A large sample is commonly understood as any sample that includes more than 30 items, whereas a small sample is one that includes 30 or fewer items. The distinction is based on the central limit theorem, which states that the sampling distribution of the mean of a large sample tends to follow a normal distribution, regardless of the shape of the population distribution. For small samples, the sampling distribution of the mean may not be normal, and depends on the shape of the population distribution.
+
+For large samples, the sampling theory of variables is based on the z-distribution, which is a special case of the normal distribution with a mean of zero and a standard deviation of one. The z-distribution can be used to calculate the confidence intervals and hypothesis tests for the population mean and proportion, using the sample mean and proportion as estimates.
+
+For small samples, the sampling theory of variables is based on the t-distribution, which is similar to the normal distribution but has fatter tails and a higher peak. The t-distribution can be used to calculate the confidence intervals and hypothesis tests for the population mean, using the sample mean and the sample standard deviation as estimates. The t-distribution has a parameter called the degrees of freedom, which depends on the sample size and affects the shape of the distribution. As the degrees of freedom increase, the t-distribution approaches the normal distribution.
+
+Other sampling distributions that are used for small samples are the F-distribution and the chi-square distribution. The F-distribution is used to compare the variances of two populations, using the sample variances as estimates. The chi-square distribution is used to test the goodness of fit of a population distribution to a theoretical distribution, using the observed and expected frequencies as inputs. Both the F-distribution and the chi-square distribution have a parameter called the degrees of freedom, which affects the shape of the distribution.

@@ -1,0 +1,25 @@
+### Analysis for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Unit 4 covers the following topics:
+  - Technical communication process and product
+  - Technical communication genres and conventions
+  - Technical communication ethics and professionalism
+  - Technical communication design and visuals
+- The main objectives of this unit are to:
+  - Explain the purpose, audience, context, and constraints of technical communication
+  - Identify and apply the appropriate genre, format, style, tone, and level of detail for different technical communication situations
+  - Demonstrate ethical awareness and responsibility in technical communication
+  - Use design principles and visual aids to enhance the clarity, readability, and attractiveness of technical documents
+- The main points to remember from this unit are:
+  - Technical communication is a process of creating, delivering, and using information to achieve specific goals in a technical or professional context
+  - Technical communication products can be classified into four major categories: instructions, descriptions, reports, and proposals
+  - Technical communication genres are the conventional forms and structures of technical documents that reflect the expectations and needs of the audience and the situation
+  - Technical communication conventions are the rules and norms of language, style, format, and citation that govern technical documents
+  - Technical communication ethics and professionalism involve following the principles of honesty, accuracy, fairness, respect, and accountability in technical communication
+  - Technical communication design and visuals are the elements of layout, typography, color, graphics, and multimedia that help to organize, emphasize, and illustrate the information in technical documents
+- The main questions to review from this unit are:
+  - What are the steps of the technical communication process and what are the factors that influence each step?
+  - What are the characteristics and examples of the four major categories of technical communication products?
+  - What are the criteria and strategies for choosing and applying the appropriate technical communication genre for a given situation?
+  - What are the sources and guidelines for following the technical communication conventions in your field or discipline?
+  - What are the ethical issues and dilemmas that technical communicators may face and how can they resolve them?

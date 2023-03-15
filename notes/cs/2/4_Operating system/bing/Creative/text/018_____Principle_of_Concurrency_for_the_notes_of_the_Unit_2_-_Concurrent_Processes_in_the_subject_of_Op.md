@@ -1,0 +1,21 @@
+### Principle of Concurrency for the notes of the Unit 2 - Concurrent Processes in the subject of Operating System
+
+- Concurrency in Operating System refers to the execution of several programs at the same time   .
+- It takes place in OS when multiple processes or threads are executing in parallel   .
+- It is the execution of processes to provide an impression of a synchronous computation.
+- Concurrency can be achieved by using current technology such as multi-core processors and parallel processing, which allow multiple instructions to be executed simultaneously.
+- Concurrency has some advantages and challenges in operating system design.
+  - Advantages of concurrency:
+    - It can improve the performance and efficiency of the system by utilizing the CPU and other resources more effectively .
+    - It can enhance the responsiveness and interactivity of the system by allowing processes to run in the background while the user interacts with the foreground processes .
+    - It can support the modularity and structure of the system by allowing processes to be divided into smaller and independent units that can communicate with each other .
+  - Challenges of concurrency:
+    - It can introduce complexity and difficulty in the system design and implementation, as the processes need to be coordinated and synchronized to avoid conflicts and errors .
+    - It can increase the overhead and cost of the system, as the processes need to share and manage the common resources and data .
+    - It can create potential security and reliability issues, as the processes may interfere with each other or access unauthorized or corrupted data .
+- Concurrency in operating system is based on some principles:
+  - Principle of mutual exclusion: It states that only one process can access a critical section (a shared resource or data) at a time, and other processes must wait until the critical section is released.
+  - Principle of deadlock: It states that a set of processes is in a deadlock state if each process is waiting for a resource that is held by another process in the same set, and no process can proceed until some other process releases the resource.
+  - Principle of starvation: It states that a process is in a starvation state if it is waiting indefinitely for a resource that is never available or always allocated to other processes.
+  - Principle of fairness: It states that every process should have a fair and equal chance of accessing a resource or executing a critical section, and no process should be favored or discriminated over others.
+  - Principle of bounded waiting: It states that there should be a limit on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section, and that limit should not depend on the number of processes in the system.

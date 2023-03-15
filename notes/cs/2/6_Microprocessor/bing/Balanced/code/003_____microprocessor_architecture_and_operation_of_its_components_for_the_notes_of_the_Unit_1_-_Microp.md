@@ -1,0 +1,12 @@
+### Microprocessor Architecture and Operation of its Components
+
+A microprocessor is a single integrated circuit (IC) that contains the data processing logic and control of a computer's central processing unit (CPU). It can perform arithmetic, logic, and control operations on the data received from an input device or memory. It is the core component of various electronic devices, such as computers, smartphones, tablets, etc.
+
+The basic components of a microprocessor architecture are:
+
+- Arithmetic Logic Unit (ALU): It performs arithmetic and logic operations on the data, such as addition, subtraction, multiplication, division, and, bitwise operations. It also sets the flags according to the result of the operation.
+- Accumulator: It is a special register that holds one of the operands as well as the result of the operation performed by the ALU. It is also used to store intermediate or final results before transferring them to memory or output devices.
+- Program Counter (PC): It is a register that holds the address of the next instruction to be executed by the microprocessor. It is incremented by one after each instruction fetch, unless it is modified by a jump or branch instruction.
+- Control Unit: It is the part of the microprocessor that controls the execution of instructions and the flow of data within the microprocessor. It generates the control signals that enable or disable the other components of the microprocessor, such as the ALU, the registers, the memory, and the input/output devices. It also decodes the instructions and generates the appropriate micro-operations for the ALU.
+- Register Array: It is a set of registers that are used to store data temporarily during the execution of instructions. They are faster than memory and can be accessed directly by the ALU. Some of the registers are general-purpose, while some are special-purpose, such as the stack pointer, the index register, the status register, etc.
+- System Bus: It is a set of wires that connects the microprocessor to the other components of the system, such as the memory and the input/output devices. It consists of three types of buses: the data bus, the address bus, and the control bus. The data bus transfers the data between the microprocessor and the memory or input/output devices. The address bus transfers the address of the memory location or input/output device that the microprocessor wants to access. The control bus transfers the control signals that indicate the direction and type of data transfer.

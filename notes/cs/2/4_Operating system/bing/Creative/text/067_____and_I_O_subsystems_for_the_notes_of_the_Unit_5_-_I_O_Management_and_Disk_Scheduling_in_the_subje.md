@@ -1,0 +1,9 @@
+# I/O Subsystems for Operating System
+
+- I/O subsystems are the components of the operating system that handle the input and output operations of the computer system.
+- I/O subsystems consist of the following elements    :
+  - **Device drivers**: These are software modules that can be plugged into an operating system to handle a particular device. Device drivers communicate with the device controllers and translate the high-level commands into low-level device-specific commands.
+  - **Interrupt handlers**: These are routines that are executed when a device controller generates an interrupt signal to notify the CPU that an I/O operation is completed or an error has occurred. Interrupt handlers save the state of the current process, run the device driver to service the interrupt, and restore the state of the previous process.
+  - **Device-independent I/O software**: This is the layer of software that provides a uniform interface for accessing different types of devices. It performs functions such as buffering, caching, spooling, error handling, and device allocation and deallocation.
+  - **User-space I/O software**: This is the layer of software that runs in the user mode and provides libraries and utilities for performing I/O operations. It includes functions such as file manipulation, terminal handling, network communication, and graphical user interface.
+  - **Kernel I/O subsystem**: This is the core component of the operating system that manages the I/O requests and data transfers between the user space and the device drivers. It includes functions such as I/O scheduling, device naming, security, and synchronization.

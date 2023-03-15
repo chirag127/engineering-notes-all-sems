@@ -1,0 +1,39 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS. Here are some notes on the topic of Backward Chaining:
+
+### Backward Chaining
+- Backward chaining is a method of reasoning that starts from the goal and works backward to find the facts or rules that support it.
+- Backward chaining is useful for answering queries or solving problems that have a clear and specific goal, but may have many possible premises or conditions.
+- Backward chaining is based on the modus ponens rule of inference, which states that if P implies Q and P is true, then Q is true.
+- Backward chaining can be applied to a knowledge base that consists of a set of facts and a set of rules. A fact is a statement that is known to be true, and a rule is a statement that implies a conclusion from a set of conditions.
+- Backward chaining algorithm:
+  - Start with the goal as the current query.
+  - If the query is a fact in the knowledge base, then return true and stop.
+  - If the query is not a fact, then find a rule in the knowledge base that has the query as its conclusion.
+  - If no such rule exists, then return false and stop.
+  - If such a rule exists, then for each condition of the rule, apply backward chaining recursively.
+  - If all the conditions are true, then return true and stop.
+  - If any of the conditions is false, then backtrack and try another rule that has the query as its conclusion.
+  - If no more rules are available, then return false and stop.
+- Backward chaining example:
+  - Knowledge base:
+    - Facts: 
+      - John is a father of Peter.
+      - Peter is a father of Mark.
+      - Mark is a father of Tom.
+    - Rules:
+      - If X is a father of Y, then Y is a son of X.
+      - If X is a son of Y, then Y is a grandfather of Z.
+  - Query: Is John a grandfather of Tom?
+  - Backward chaining steps:
+    - Start with the query: Is John a grandfather of Tom?
+    - Find a rule that has the query as its conclusion: If X is a son of Y, then Y is a grandfather of Z.
+    - Replace the variables with the query terms: If Tom is a son of X, then John is a grandfather of Tom.
+    - Apply backward chaining to the condition: Is Tom a son of X?
+    - Find a rule that has the condition as its conclusion: If X is a father of Y, then Y is a son of X.
+    - Replace the variables with the condition terms: If X is a father of Tom, then Tom is a son of X.
+    - Apply backward chaining to the condition: Is X a father of Tom?
+    - Find a fact that matches the condition: Mark is a father of Tom.
+    - Replace the variable with the fact term: Mark is a father of Tom.
+    - Return true for the condition: Mark is a father of Tom.
+    - Return true for the condition: Tom is a son of Mark.
+    - Return true for the query: John is a grandfather of Tom.

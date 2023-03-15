@@ -1,0 +1,12 @@
+### Methods of Presentation
+
+- A presentation is a way of communicating information to an audience, using speech, visuals, and other modes of communication.
+- A presentation can have various purposes, such as informing, persuading, educating, or entertaining the audience.
+- A presentation can be delivered in different formats, such as live, recorded, online, or hybrid.
+- A presentation can be adapted to different audiences, contexts, and situations, depending on the goals and expectations of the presenter and the audience.
+- A presentation can use different methods of presentation, such as:
+
+  - **Speech**: This is the most common method of presentation, where the presenter uses verbal language to convey the message. Speech can be enhanced by using vocal variety, tone, pace, volume, and pronunciation. Speech can also be supported by using notes, cue cards, or a script. Speech can be interactive, by allowing questions, feedback, or discussion from the audience. Speech can be effective when the presenter is confident, clear, concise, and engaging .
+  - **Visuals**: These are the graphical elements that accompany the speech, such as slides, images, charts, graphs, diagrams, videos, animations, or demonstrations. Visuals can help the audience to understand, remember, and be interested in the information. Visuals can also help the presenter to structure, organize, and emphasize the key points. Visuals can be effective when they are relevant, simple, clear, consistent, and attractive .
+  - **Storytelling**: This is a method of presentation that uses narrative techniques, such as characters, plot, conflict, resolution, and emotions, to convey the message. Storytelling can help the audience to relate, empathize, and be engaged with the information. Storytelling can also help the presenter to create a connection, build rapport, and establish credibility with the audience. Storytelling can be effective when the story is relevant, authentic, memorable, and impactful.
+  - **Humor**: This is a method of presentation that uses jokes, anecdotes, irony, sarcasm, or wit to convey the message. Humor can help the audience to relax, enjoy, and be attentive to the information. Humor can also help the presenter to break the ice, reduce tension, and show personality. Humor can be effective when it is appropriate, respectful, relevant, and funny.

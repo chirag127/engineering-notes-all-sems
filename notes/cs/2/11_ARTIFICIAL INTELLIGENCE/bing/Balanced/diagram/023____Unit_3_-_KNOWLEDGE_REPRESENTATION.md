@@ -1,0 +1,11 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to reason and act.
+- Knowledge representation involves choosing a suitable representation language, defining the syntax and semantics of the language, and using the language to express facts, rules, constraints, preferences, and goals about the domain.
+- Knowledge representation languages can be classified into different types, such as logic-based, rule-based, frame-based, semantic network-based, ontology-based, and probabilistic languages.
+- Logic-based languages use formal logic to represent and manipulate knowledge. They have well-defined syntax and semantics, and allow for deductive reasoning and inference. Examples of logic-based languages are propositional logic, first-order logic, and description logic.
+- Rule-based languages use conditional statements (rules) to represent and manipulate knowledge. They allow for forward chaining and backward chaining reasoning, and can handle uncertainty and exceptions. Examples of rule-based languages are production systems, Prolog, and Datalog.
+- Frame-based languages use hierarchical structures (frames) to represent and manipulate knowledge. They allow for inheritance, default values, and slot-filling. Examples of frame-based languages are KL-ONE, KRL, and Frame Logic.
+- Semantic network-based languages use graphs (networks) to represent and manipulate knowledge. They allow for association, categorization, and visualization. Examples of semantic network-based languages are Conceptual Graphs, RDF, and Topic Maps.
+- Ontology-based languages use formal specifications (ontologies) to represent and manipulate knowledge. They allow for sharing, reuse, and interoperability of knowledge. Examples of ontology-based languages are OWL, CycL, and Common Logic.
+- Probabilistic languages use mathematical models (probabilities) to represent and manipulate knowledge. They allow for handling uncertainty, inconsistency, and incompleteness of knowledge. Examples of probabilistic languages are Bayesian networks, Markov logic networks, and probabilistic relational models.

@@ -1,0 +1,23 @@
+### Signed operand multiplication
+
+- Signed operand multiplication is the process of multiplying two binary numbers that have a sign bit, usually in 2's complement representation.
+- The sign bit is the most significant bit of the number, and it indicates whether the number is positive (0) or negative (1).
+- The magnitude of the number is the remaining bits, and it represents the absolute value of the number.
+- There are different algorithms for performing signed operand multiplication, such as the shift-and-add algorithm, the Booth's algorithm, and the signed-magnitude algorithm.
+- The shift-and-add algorithm is similar to the unsigned multiplication algorithm, but it requires some modifications to handle the sign bits and the negative numbers.
+  - The algorithm involves shifting the multiplier to the right and adding the multiplicand to the partial product if the multiplier bit is 1.
+  - The algorithm also requires sign extension of the partial product and the multiplier to preserve the sign of the result.
+  - The algorithm terminates when the multiplier becomes 0 or when the number of iterations equals the number of bits in the operands.
+  - The algorithm can be implemented using a register for the partial product, a register for the multiplier, and a register for the multiplicand.
+- The Booth's algorithm is an efficient way of multiplying signed 2's complement numbers, as it reduces the number of additions and subtractions required.
+  - The algorithm operates on the fact that strings of 0's in the multiplier require no addition but just shifting and a string of 1's in the multiplier from bit weight 2^k to 2^m can be treated as 2^(m+1) - 2^k.
+  - The algorithm involves examining the least significant bit of the multiplier and the previous bit (which is initially 0) and performing one of the following actions based on the pair of bits:
+    - 00: do nothing, shift the partial product and the multiplier to the right by one bit
+    - 01: add the multiplicand to the partial product, shift the partial product and the multiplier to the right by one bit
+    - 10: subtract the multiplicand from the partial product, shift the partial product and the multiplier to the right by one bit
+    - 11: do nothing, shift the partial product and the multiplier to the right by one bit
+  - The algorithm terminates when the multiplier becomes 0 or when the number of iterations equals the number of bits in the operands plus one.
+  - The algorithm can be implemented using a register for the partial product, a register for the multiplier, and a register for the multiplicand.
+- The signed-magnitude algorithm is a straightforward extension of the unsigned multiplication algorithm, but it requires a separate computation of the sign of the product.
+  - The algorithm involves multiplying the magnitudes of the operands as usual by the shift-and-add algorithm, and computing the sign of the product by the exclusive OR of the sign bits of the operands.
+  - The algorithm can be implemented using a register for the partial product, a register for the multiplier, a register for the multiplicand, and a register for the sign of the product.

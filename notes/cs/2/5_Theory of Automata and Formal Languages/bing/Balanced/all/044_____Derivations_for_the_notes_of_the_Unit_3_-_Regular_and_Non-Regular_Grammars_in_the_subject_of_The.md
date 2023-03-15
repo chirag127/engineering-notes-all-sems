@@ -1,0 +1,29 @@
+# Derivations for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+
+- A **derivation** is a process of generating a string from a grammar by applying production rules.
+- A **derivation tree** is a graphical representation of a derivation, where each node is a symbol and each branch is a production rule.
+- A **regular grammar** is a type of grammar that can generate only regular languages, which are languages that can be recognized by finite automata.
+- A **non-regular grammar** is a type of grammar that can generate languages that are not regular, which are languages that cannot be recognized by finite automata.
+- A regular grammar can be either **left-regular** or **right-regular**, depending on whether the production rules have the non-terminal symbol on the left or right side of the arrow.
+- A left-regular grammar has the following form: A -> aB | a | epsilon, where A and B are non-terminals, a is a terminal, and epsilon is the empty string.
+- A right-regular grammar has the following form: A -> Ba | a | epsilon, where A and B are non-terminals, a is a terminal, and epsilon is the empty string.
+- A regular grammar can be converted to a finite automaton by following these steps:
+  - The number of states in the automaton will be equal to the number of non-terminals plus one.
+  - Each state in the automaton represents each non-terminal in the regular grammar.
+  - The additional state will be the final state of the automaton.
+  - The initial state of the automaton will be the state corresponding to the start symbol of the grammar.
+  - The transitions of the automaton will be determined by the production rules of the grammar.
+  - If A -> aB is a rule, then there will be a transition from state A to state B labeled with a.
+  - If A -> a is a rule, then there will be a transition from state A to the final state labeled with a.
+  - If A -> epsilon is a rule, then state A will be a final state as well.
+- A finite automaton can be converted to a regular grammar by following these steps:
+  - The set of non-terminals of the grammar will be the set of states of the automaton.
+  - The start symbol of the grammar will be the initial state of the automaton.
+  - The production rules of the grammar will be determined by the transitions of the automaton.
+  - If there is a transition from state A to state B labeled with a, then A -> aB will be a rule.
+  - If state A is a final state, then A -> epsilon will be a rule as well.
+- A **regular expression** is another way of describing a regular language, using symbols and operators to construct strings that belong to the language.
+- A regular expression can be converted to a finite automaton by using the **Thompson's construction** algorithm, which builds a non-deterministic finite automaton (NFA) for each subexpression and combines them using epsilon transitions.
+- A finite automaton can be converted to a regular expression by using the **Kleene's theorem**, which states that for any finite automaton, there exists a regular expression that generates the same language, and vice versa.
+- A regular expression can be converted to a regular grammar by using the **Brzozowski's algorithm**, which constructs a right-regular grammar for each subexpression and combines them using non-terminals.
+- A regular grammar can be converted to a regular expression by using the **Arden's lemma**, which states that for any equation of the form X = AX + B, where X, A, and B are sets of strings, there exists a unique solution X = A* B, where A* is the Kleene star operator.

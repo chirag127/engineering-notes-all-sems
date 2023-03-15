@@ -1,0 +1,32 @@
+### Dekker's solution for the notes of the Unit 2 - Concurrent Processes in the subject of Operating System
+
+- Dekker's solution is the first known correct solution to the mutual exclusion problem in concurrent programming where processes only communicate via shared memory.
+- The mutual exclusion problem is the problem of ensuring that at most one process can enter a critical section at a time, where a critical section is a piece of code that accesses a shared resource.
+- Dekker's solution allows two processes to share a single-use resource without conflict, using only shared memory for communication.
+- Dekker's solution avoids the strict alternation of a naive turn-taking algorithm, and was one of the first mutual exclusion algorithms to be invented.
+- Dekker's solution has five versions, each improving on the previous one in terms of efficiency and correctness.
+- The final version of Dekker's solution satisfies the following conditions:
+  - Mutual exclusion: No two processes can be in the critical section at the same time.
+  - Progress: If no process is in the critical section, and some processes want to enter the critical section, then one of them should be able to do so without delay.
+  - Bounded waiting: There is a bound on the number of times that other processes are allowed to enter the critical section after a process has made a request to enter the critical section and before that request is granted.
+- The final version of Dekker's solution uses two boolean variables, flag[0] and flag[1], and one integer variable, turn, to achieve mutual exclusion.
+- The algorithm for process 0 is as follows:
+  - Repeat forever:
+    - flag[0] = true // Process 0 wants to enter the critical section
+    - while (flag[1]) // Process 1 also wants to enter the critical section
+      - if (turn != 0) // Process 1 has the priority
+        - flag[0] = false // Process 0 waits
+        - while (turn != 0) // Busy wait
+          - skip
+        - flag[0] = true // Process 0 wants to enter the critical section again
+      - end if
+    - end while
+    - // Critical section
+    - turn = 1 // Process 0 gives the priority to process 1
+    - flag[0] = false // Process 0 exits the critical section
+    - // Remainder section
+  - end repeat
+- The algorithm for process 1 is symmetric to that of process 0, with the indices 0 and 1 swapped.
+- Dekker's solution ensures mutual exclusion by setting the flag of the process that wants to enter the critical section to true, and checking the flag of the other process.
+- Dekker's solution ensures progress by giving the priority to the other process if both processes want to enter the critical section at the same time, and by setting the turn to the other process after exiting the critical section.
+- Dekker's solution ensures bounded waiting by limiting the number of times that the other process can enter the critical section while the current process is waiting to at most one.

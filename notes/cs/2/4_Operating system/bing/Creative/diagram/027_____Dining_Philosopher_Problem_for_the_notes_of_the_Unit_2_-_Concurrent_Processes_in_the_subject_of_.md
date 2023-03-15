@@ -1,0 +1,19 @@
+### Dining Philosopher Problem
+
+- The dining philosopher problem is a classic problem of synchronization in concurrent programming, where multiple threads or processes need to access shared resources without causing deadlock or starvation.
+- The problem is formulated as follows  :
+  - There are five philosophers sitting around a circular table, each with a plate of noodles in front of them.
+  - There are five chopsticks on the table, one between each pair of adjacent philosophers.
+  - Each philosopher alternates between thinking and eating. To eat, a philosopher needs to pick up both chopsticks on his left and right.
+  - A philosopher cannot pick up a chopstick if it is already held by another philosopher.
+  - A philosopher must put down both chopsticks after finishing eating.
+- The problem is to design a protocol that allows each philosopher to eat without causing deadlock (where no one can eat because everyone is waiting for a chopstick) or starvation (where some philosophers are prevented from eating indefinitely because others keep holding the chopsticks)   .
+- There are different ways of solving the problem, such as using semaphores, monitors, locks, or message passing    . Some of the common solutions are:
+  - Using a semaphore for each chopstick, initialized to 1, and having each philosopher wait on both semaphores before eating and signal both semaphores after eating   . This solution can cause deadlock if all philosophers pick up their left chopstick at the same time and wait for their right chopstick indefinitely   .
+  - Using a semaphore for each chopstick, initialized to 1, and having each philosopher wait on one semaphore at a time, in a random order, before eating and signal both semaphores after eating   . This solution can avoid deadlock but can cause starvation if some philosophers are unlucky and never get both chopsticks   .
+  - Using a semaphore for each chopstick, initialized to 1, and having each philosopher wait on both semaphores before eating and signal both semaphores after eating, but with the additional rule that one philosopher (say the first one) must pick up the right chopstick first and the left chopstick second, while the others must do the opposite   . This solution can avoid deadlock and starvation by breaking the circular wait condition   .
+  - Using a monitor with a condition variable for each chopstick, initialized to true, and having each philosopher check the condition variables of both chopsticks before eating and signal them after eating, while waiting on the monitor if either chopstick is false   . This solution can avoid deadlock and starvation by ensuring that only one philosopher can access the chopsticks at a time and that a philosopher can be notified when a chopstick becomes available   .
+  - Using a monitor with a condition variable for each philosopher, initialized to false, and having each philosopher check the condition variable of himself before eating and signal the condition variables of his neighbors after eating, while waiting on the monitor if his condition variable is false   . This solution can avoid deadlock and starvation by ensuring that only one philosopher can access the chopsticks at a time and that a philosopher can be notified when he can eat   .
+  - Using a message passing system with a message queue for each chopstick, initialized to empty, and having each philosopher send a request message to both chopstick queues before eating and send a release message to both chopstick queues after eating, while waiting for an acknowledgment message from both chopstick queues before eating    . This solution can avoid deadlock and starvation by ensuring that only one philosopher can access the chopsticks at a time and that a philosopher can be notified when a chopstick is available    .
+
+: https://

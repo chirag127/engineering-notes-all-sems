@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes for the Unit 3 - Technical Presentation in the subject of Technical Communication. Here are some essentials for the notes:
+
+- Define the purpose and audience of your presentation. Identify the main objective and the key points you want to convey. Consider the background, expectations, and needs of your audience.
+- Plan and structure your presentation. Use a clear and logical sequence of introduction, body, and conclusion. Use transitions and signposts to guide your audience through your presentation. Use headings and subheadings to organize your notes.
+- Prepare your visual aids. Choose appropriate and effective visual aids such as graphs, charts, diagrams, images, videos, etc. to support your message. Make sure they are clear, relevant, and consistent with your verbal presentation. Use captions, labels, and legends to explain your visual aids.
+- Practice your presentation. Rehearse your presentation several times to improve your delivery, timing, and confidence. Use a microphone, projector, and remote control if possible. Get feedback from others and make necessary adjustments.
+- Deliver your presentation. Use a confident and engaging tone of voice, eye contact, gestures, and body language. Avoid reading from your notes or slides. Interact with your audience and invite questions and comments. Thank them for their attention and provide a summary and a call to action.

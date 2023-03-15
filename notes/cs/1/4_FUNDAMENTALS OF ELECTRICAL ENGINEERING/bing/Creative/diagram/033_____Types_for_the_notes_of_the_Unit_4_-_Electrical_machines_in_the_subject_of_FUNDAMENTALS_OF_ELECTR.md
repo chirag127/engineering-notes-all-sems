@@ -1,0 +1,17 @@
+### Types of Electrical Machines
+
+Electrical machines are devices that convert electrical energy to mechanical energy or vice versa. They can be broadly classified into two types: static and dynamic.
+
+- Static electrical machines are stationary devices that do not have any moving parts. They transfer electrical energy from one circuit to another by electromagnetic induction. The most common example of a static electrical machine is a transformer, which can step up or step down the voltage and current of an alternating current (AC) source. Transformers are used for power transmission, distribution, and conversion applications.   
+
+- Dynamic electrical machines are rotating devices that have a rotor and a stator. They can either generate electrical energy from mechanical energy or use electrical energy to produce mechanical energy. The most common types of dynamic electrical machines are:
+
+  - DC machines: These are machines that operate on direct current (DC) sources. They have a commutator and brushes that switch the direction of the current in the rotor coil. DC machines can be classified into DC generators and DC motors. DC generators convert mechanical energy to DC electrical energy, while DC motors convert DC electrical energy to mechanical energy. DC machines are used for applications that require variable speed and torque, such as electric vehicles, cranes, and elevators.  
+
+  - Synchronous machines: These are machines that operate on AC sources and have a constant speed that is proportional to the frequency of the source. They have a rotor that is magnetized by either permanent magnets or electromagnets. Synchronous machines can be classified into synchronous generators and synchronous motors. Synchronous generators convert mechanical energy to AC electrical energy, while synchronous motors convert AC electrical energy to mechanical energy. Synchronous machines are used for applications that require constant speed and power factor, such as power plants, pumps, and compressors.  
+
+  - Induction machines: These are machines that operate on AC sources and have a variable speed that depends on the load and the slip. They have a rotor that is induced by the magnetic field of the stator. Induction machines can be classified into induction generators and induction motors. Induction generators convert mechanical energy to AC electrical energy, while induction motors convert AC electrical energy to mechanical energy. Induction machines are used for applications that require high efficiency and low maintenance, such as fans, blowers, and conveyor belts.  
+
+  - Permanent magnet machines: These are machines that have permanent magnets in the rotor that set up a magnetic field. They can operate on either DC or AC sources and have a high power density and efficiency. Permanent magnet machines can be classified into permanent magnet generators and permanent magnet motors. Permanent magnet generators convert mechanical energy to electrical energy, while permanent magnet motors convert electrical energy to mechanical energy. Permanent magnet machines are used for applications that require high performance and reliability, such as wind turbines, electric vehicles, and robotics.  
+
+These are the main types of electrical machines that are covered in the unit 4 of the subject of fundamentals of electrical engineering. They have different principles of operation, characteristics, and applications that are important to understand and study.

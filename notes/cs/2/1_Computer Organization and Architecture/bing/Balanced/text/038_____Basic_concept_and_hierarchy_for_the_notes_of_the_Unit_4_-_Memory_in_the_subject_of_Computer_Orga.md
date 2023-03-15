@@ -1,0 +1,24 @@
+### Basic concept and hierarchy for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- Memory is the component of a computer system that stores data and instructions for processing. Memory is essential for the functioning of a computer, as it enables the processor to access the information it needs quickly and efficiently.
+- Memory can be classified into different types and levels based on various factors, such as capacity, access time, cost, performance, and technology. The memory hierarchy is a way of organizing the memory in a computer system according to these factors, such that the most frequently used and fastest memory is closest to the processor, and the least frequently used and slowest memory is farthest from the processor.
+- The memory hierarchy in a typical computer system consists of the following levels    :
+
+  - Registers: These are the smallest and fastest memory units in the CPU, which store temporary data and instructions for the current operation. Registers have very limited capacity and are accessed directly by the processor.
+  - Cache memory: This is a small and fast memory unit that is located between the CPU and the main memory, which stores frequently used data and instructions from the main memory. Cache memory reduces the access time and the number of memory references to the main memory, thereby improving the performance of the system. Cache memory can be further divided into different levels, such as L1, L2, and L3, based on their proximity to the CPU and their size and speed.
+  - Main memory: This is the largest and most commonly used memory unit in the system, which stores the data and instructions that are currently needed by the processor. Main memory is also known as primary memory, random access memory (RAM), or volatile memory, as it loses its contents when the power is turned off. Main memory can be further divided into different types, such as static RAM (SRAM), dynamic RAM (DRAM), synchronous DRAM (SDRAM), and read-only memory (ROM).
+  - Magnetic disks: These are the secondary memory units that store large amounts of data and instructions that are not currently needed by the processor, but can be accessed when required. Magnetic disks are also known as hard disks, or non-volatile memory, as they retain their contents even when the power is turned off. Magnetic disks have much higher capacity and lower cost than main memory, but also have much slower access time and higher power consumption.
+  - Magnetic tapes: These are the tertiary memory units that store huge amounts of data and instructions that are rarely needed by the processor, but can be accessed for backup or archival purposes. Magnetic tapes are also known as offline storage, or removable storage, as they can be detached from the system and stored separately. Magnetic tapes have the highest capacity and lowest cost among all the memory units, but also have the slowest access time and the lowest performance.
+
+- The memory hierarchy design is based on the following characteristics:
+
+  - Capacity: It is the global volume of information the memory can store. As we move from top to bottom in the hierarchy, the capacity of the memory units increases, while the number of memory units decreases.
+  - Access time: It is the time interval between the read/write request and the availability of the data. As we move from top to bottom in the hierarchy, the access time of the memory units increases, while the frequency of access decreases.
+  - Cost: It is the amount of money required to acquire a unit of memory. As we move from top to bottom in the hierarchy, the cost of the memory units decreases, while the cost per bit of information decreases.
+  - Performance: It is the measure of how well the memory units can support the processing speed and efficiency of the system. As we move from top to bottom in the hierarchy, the performance of the memory units decreases, while the performance gap between the memory and the processor increases.
+
+- The memory hierarchy design aims to achieve the following objectives :
+
+  - To provide the processor with the required data and instructions as fast as possible, without causing delays or bottlenecks in the system.
+  - To optimize the use of the available memory resources, by storing the most frequently and recently used data and instructions in the fastest and closest memory units, and the least frequently and recently used data and instructions in the slowest and farthest memory units.
+  - To minimize the cost and power consumption of the memory units, by using the appropriate technology and size for each level of the hierarchy, and by reducing the number of memory references and transfers between the levels

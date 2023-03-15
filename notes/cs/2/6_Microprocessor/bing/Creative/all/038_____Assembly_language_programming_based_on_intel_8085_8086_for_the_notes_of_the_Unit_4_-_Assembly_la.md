@@ -1,0 +1,24 @@
+# Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level language that uses mnemonics to represent the binary instructions that the microprocessor can execute  .
+- Assembly language is specific to a given processor, so the syntax and instruction set of 8085 and 8086 are different .
+- 8085 is an 8-bit microprocessor that has 74 instructions and 246 opcodes  . It has a 16-bit address bus and an 8-bit data bus .
+- 8086 is a 16-bit microprocessor that has 133 instructions and 255 opcodes . It has a 20-bit address bus and a 16-bit data bus.
+- Assembly language programming with 8085/8086 involves the following steps   :
+  - Writing the source code in a text editor using the mnemonics and operands of the instruction set.
+  - Assembling the source code using an assembler that converts the mnemonics to binary opcodes and generates an object code file.
+  - Linking the object code file with any libraries or modules using a linker that resolves the addresses and symbols and generates an executable file.
+  - Loading the executable file into the memory of the microprocessor using a loader that transfers the binary code to the appropriate memory locations.
+  - Running the executable file using a debugger or a simulator that executes the instructions and displays the results and status of the registers and flags.
+- Assembly language instructions can be classified into the following categories   :
+  - Data transfer instructions: These instructions are used to move data between registers, memory and I/O devices. Examples are MOV, MVI, LDA, STA, IN, OUT, etc.
+  - Arithmetic instructions: These instructions are used to perform arithmetic operations on data such as addition, subtraction, multiplication, division, increment and decrement. Examples are ADD, SUB, MUL, DIV, INR, DCR, etc.
+  - Logic instructions: These instructions are used to perform logical operations on data such as AND, OR, XOR, NOT, complement, shift and rotate. Examples are ANA, ORA, XRA, CMA, RLC, RRC, etc.
+  - Branch instructions: These instructions are used to alter the sequence of execution of the program based on certain conditions or flags. Examples are JMP, JZ, JNZ, JC, JNC, CALL, RET, etc.
+  - Looping instructions: These instructions are used to repeat a block of code for a specified number of times or until a condition is met. Examples are LOOP, DJNZ, etc.
+  - Counting instructions: These instructions are used to increment or decrement a register or a memory location by one. Examples are INR, DCR, etc.
+  - Indexing instructions: These instructions are used to access data from an array or a table using an index register. Examples are LXI, LDAX, STAX, etc.
+- Assembly language programming techniques involve the following concepts   :
+  - Counters and time delays: These are used to measure the duration of an event or to generate a delay in the execution of the program. Counters are registers or memory locations that store a value that is decremented or incremented by a loop until it becomes zero. Time delays are calculated by using the clock frequency and the number of cycles required for each instruction.
+  - Stacks and subroutines: These are used to store and retrieve data or return addresses from the memory in a last-in first-out (LIFO) manner. Stacks are memory locations that are accessed by using the stack pointer (SP) register and the push (PUSH) and pop (POP) instructions. Subroutines are blocks of code that are called by using the call (CALL) instruction and returned by using the return (RET) instruction. Subroutines can be nested and can pass parameters by using the stack or the registers.
+  - Conditional call and return instructions: These are used to call or return from a subroutine based on certain conditions or flags. Examples are CC, CNC, CZ, CNZ, etc.

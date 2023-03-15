@@ -1,0 +1,17 @@
+### Sampling Theory (Small and Large)
+
+Sampling theory is the study of how to select a subset of a population (called a sample) that can represent the characteristics of the whole population. Sampling is useful when the population is too large or difficult to measure directly. Sampling can also reduce the cost and time of data collection and analysis.
+
+There are two types of sampling: probability sampling and non-probability sampling. Probability sampling is based on random selection of elements from the population, so that each element has a known and non-zero chance of being included in the sample. Non-probability sampling is based on convenience, judgment, or other criteria, so that the chance of inclusion of each element is unknown or zero.
+
+The sample size is the number of elements in the sample. The sample size affects the accuracy and precision of the estimates based on the sample. In general, the larger the sample size, the smaller the sampling error (the difference between the sample estimate and the true population value).
+
+The sampling distribution is the distribution of a statistic (a numerical measure) calculated from the sample. For example, the sample mean is the average of the sample values, and the sample variance is the measure of the variability of the sample values. The sampling distribution shows how the statistic varies from sample to sample.
+
+The sampling distribution depends on the sample size and the population distribution. The population distribution is the distribution of the values of the variable of interest in the population. For example, the population mean is the average of the population values, and the population variance is the measure of the variability of the population values.
+
+The sampling distribution can be classified into two categories: large sample and small sample. A large sample is one in which the number of elements is more than 30, whereas a small sample is one in which the number of elements is less than or equal to 30.
+
+Large sample theory is the study of the sampling distribution of a statistic for large samples. The main result of large sample theory is the central limit theorem, which states that the sampling distribution of the sample mean (or any other statistic that is a sum or average of sample values) approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution. The normal distribution is a symmetric and bell-shaped distribution that is widely used in statistics and probability.
+
+Small sample theory is the study of the sampling distribution of a statistic for small samples. For small samples, the sampling distribution of the sample mean may not be normal, especially if the population distribution is skewed or has outliers. Therefore, small sample theory relies on other distributions, such as the t, F, and chi-square distributions, that are derived from the normal distribution and account for the variability of the sample. The t distribution is used for estimating the population mean and testing hypotheses about it. The F distribution is used for comparing the variances of two populations. The chi-square distribution is used for testing the goodness-of-fit of a population distribution and the independence of two variables.

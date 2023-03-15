@@ -1,0 +1,11 @@
+# Church's Thesis
+
+- Church's thesis, also known as the Church-Turing thesis, is a statement about the nature and scope of computable functions.
+- It asserts that any function that can be computed by an effective or systematic or mechanical method, i.e., a finite sequence of precise and unambiguous instructions, can also be computed by a Turing machine, i.e., a hypothetical device that manipulates symbols on an infinite tape according to a set of rules.
+- The thesis is not a formal theorem, but rather a conjecture or a hypothesis that is widely accepted by the scientific community as a foundational principle of computability theory, the branch of mathematics and computer science that studies the limits of computation.
+- The thesis was independently proposed by Alonzo Church and Alan Turing in the 1930s, based on their respective definitions of computable functions using lambda calculus and Turing machines. They also showed that their definitions were equivalent, i.e., that any function that can be computed by a lambda expression can also be computed by a Turing machine, and vice versa.
+- The thesis has several implications and applications, such as:
+  - It provides a precise and universal notion of what it means for a problem to be solvable by an algorithm or a program, regardless of the specific model of computation or programming language used.
+  - It implies that there are problems that are inherently unsolvable by any algorithm or program, such as the halting problem, the Entscheidungsproblem, and the incompleteness theorems.
+  - It suggests that any physical system that can perform computation, such as a digital computer, a neural network, or a quantum computer, is subject to the same limitations and capabilities as a Turing machine, unless it can exploit some form of hypercomputation that goes beyond the standard model of computation.
+  - It serves as a basis for exploring the connections and differences between human intelligence and artificial intelligence, and the possibility of creating machines that can think, learn, and reason.

@@ -1,0 +1,24 @@
+### Algebraic manipulation of Boolean expressions
+
+- Boolean expressions are algebraic expressions that involve variables and operators that take only two values: true (1) or false (0).
+- The main operators in Boolean algebra are AND (`*`), OR (`+`), and NOT (`'`).
+- AND operator returns true only if both operands are true, OR operator returns true if at least one operand is true, and NOT operator returns the opposite of the operand.
+- Boolean algebra has some basic laws and rules that can be used to simplify and manipulate Boolean expressions, such as:
+  - Commutative laws: `A + B = B + A` and `A * B = B * A`
+  - Associative laws: `(A + B) + C = A + (B + C)` and `(A * B) * C = A * (B * C)`
+  - Distributive laws: `A * (B + C) = (A * B) + (A * C)` and `A + (B * C) = (A + B) * (A + C)`
+  - Identity laws: `A + 0 = A` and `A * 1 = A`
+  - Complement laws: `A + A' = 1` and `A * A' = 0`
+  - Idempotent laws: `A + A = A` and `A * A = A`
+  - Involution law: `(A')' = A`
+  - De Morgan's laws: `(A + B)' = A' * B'` and `(A * B)' = A' + B'`
+  - Absorption laws: `A + (A * B) = A` and `A * (A + B) = A`
+  - Consensus law: `A * B + A' * C + B * C = A * B + A' * C`
+- Algebraic manipulation of Boolean expressions is the process of applying these laws and rules to transform one expression into an equivalent one that is simpler, more standardized, or more suitable for a specific purpose.
+- Some common forms of Boolean expressions are:
+  - Sum-of-products (SOP): A Boolean expression that is a sum (OR) of one or more product (AND) terms, such as `A * B + A' * C`.
+  - Product-of-sums (POS): A Boolean expression that is a product (AND) of one or more sum (OR) terms, such as `(A + B) * (A' + C)`.
+  - Canonical form: A Boolean expression that is either a SOP or a POS form that contains all the variables in each term, such as `A * B + A' * B' * C`.
+  - Minterm: A product term that contains all the variables in the expression, either complemented or uncomplemented, such as `A * B' * C`.
+  - Maxterm: A sum term that contains all the variables in the expression, either complemented or uncomplemented, such as `A' + B + C'`.
+- Algebraic manipulation of Boolean expressions can be useful for simplifying complex expressions, minimizing the number of literals (variables) or terms, converting between different forms, and designing digital circuits.

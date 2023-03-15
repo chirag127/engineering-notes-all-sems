@@ -1,0 +1,15 @@
+# Sample Attacks for the notes of the Unit 1 - Computer System Security Introduction in the subject of COMPUTER SYSTEM SECURITY
+
+- A cyber attack is a malicious attempt to breach the security of a computer system, network, or other computing device by an individual, group, or organization.
+- Cyber attacks can have various objectives, such as stealing data, extorting money, disrupting services, sabotaging systems, or spreading propaganda.
+- Cyber attacks can use different methods, such as malware, phishing, brute force, denial-of-service, or social engineering, to exploit the vulnerabilities of the target system or the human factor of the users.
+- Some examples of common cyber attacks are:
+
+  - Identity theft, fraud, extortion: These attacks aim to obtain personal or financial information from the victims, such as their names, passwords, credit card numbers, or bank accounts, and use them for illegal purposes, such as making purchases, transferring funds, or blackmailing them.
+  - Malware, phishing, spamming, spoofing, spyware, trojans, and viruses: These attacks use malicious software or deceptive messages to infect, damage, or control the target system, or to steal or manipulate data, such as keystrokes, files, or browser history.
+  - Stolen hardware, such as laptops or mobile devices: These attacks involve physically stealing or accessing the devices that contain sensitive or confidential data, such as personal or business information, or that can be used to access other systems, such as email accounts or cloud services.
+  - Denial-of-service and distributed denial-of-service attacks: These attacks aim to overwhelm the resources of the target system, such as bandwidth, memory, or processing power, to the point where it is unable to respond to legitimate requests, resulting in service disruption or degradation.
+  - Breach of access: These attacks involve gaining unauthorized access to the target system, either by exploiting a vulnerability, guessing a password, or using stolen credentials, and performing malicious actions, such as deleting, modifying, or copying data, or installing backdoors or ransomware.
+  - Password sniffing: These attacks involve intercepting or capturing the network traffic that contains the passwords or other authentication data of the users, and using them to access the target system or other accounts.
+  - System infiltration: These attacks involve penetrating the defenses of the target system, such as firewalls, antivirus, or encryption, and gaining a foothold or persistence, such as by creating hidden accounts, processes, or files, or by modifying the system configuration or registry.
+  - Website defacement: These attacks involve altering the appearance or content of the target website, such as by replacing the homepage, inserting malicious code, or posting offensive or false messages, to damage the reputation or credibility of the website owner or to spread propaganda or misinformation.

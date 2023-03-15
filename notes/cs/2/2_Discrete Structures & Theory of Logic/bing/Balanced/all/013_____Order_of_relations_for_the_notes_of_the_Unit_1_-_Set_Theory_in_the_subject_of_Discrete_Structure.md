@@ -1,0 +1,22 @@
+# Order of relations for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- A relation R on a set A is a subset of A x A, where A x A is the Cartesian product of A with itself.
+- A relation R on a set A can be represented by a matrix, a directed graph, or a table.
+- A relation R on a set A is called reflexive if (a, a) ∈ R for every a ∈ A.
+- A relation R on a set A is called symmetric if (a, b) ∈ R implies (b, a) ∈ R for every a, b ∈ A.
+- A relation R on a set A is called antisymmetric if (a, b) ∈ R and (b, a) ∈ R imply a = b for every a, b ∈ A.
+- A relation R on a set A is called transitive if (a, b) ∈ R and (b, c) ∈ R imply (a, c) ∈ R for every a, b, c ∈ A.
+- A relation R on a set A is called an equivalence relation if it is reflexive, symmetric, and transitive.
+- An equivalence relation R on a set A partitions A into disjoint subsets called equivalence classes, where two elements belong to the same equivalence class if and only if they are related by R.
+- A relation R on a set A is called a partial order if it is reflexive, antisymmetric, and transitive.
+- A partial order R on a set A is called a total order or a linear order if for every a, b ∈ A, either (a, b) ∈ R or (b, a) ∈ R or both.
+- A partial order R on a set A is called a well-order if every nonempty subset of A has a least element with respect to R.
+- A relation R on a set A is called a function if for every a ∈ A, there is exactly one b ∈ A such that (a, b) ∈ R.
+- A function f: A -> B is a relation from A to B such that for every a ∈ A, there is exactly one b ∈ B such that (a, b) ∈ f.
+- A function f: A -> B is called injective or one-to-one if f(a) = f(b) implies a = b for every a, b ∈ A.
+- A function f: A -> B is called surjective or onto if for every b ∈ B, there is some a ∈ A such that f(a) = b.
+- A function f: A -> B is called bijective or one-to-one and onto if it is both injective and surjective.
+- The inverse of a bijective function f: A -> B is a function f^-1: B -> A such that f^-1(f(a)) = a for every a ∈ A and f(f^-1(b)) = b for every b ∈ B.
+- A function f: A -> B is called increasing if a < b implies f(a) < f(b) for every a, b ∈ A.
+- A function f: A -> B is called decreasing if a < b implies f(a) > f(b) for every a, b ∈ A.
+- A function f: A -> B is called monotonic if it is either increasing or decreasing.

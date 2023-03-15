@@ -1,0 +1,10 @@
+### Inter Process Communication models and Schemes
+
+Inter process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions. The communication between these processes can be seen as a method of cooperation between them.
+
+There are two primary models of inter process communication: shared memory and message passing .
+
+- Shared memory: In this model, a region of memory that is shared by cooperating processes is established. Processes can read and write to the shared memory region, and use synchronization techniques to ensure consistency and avoid race conditions. Shared memory is a fast and efficient way of communication, but it requires careful management of the memory space and access rights. Shared memory is supported by POSIX systems and Windows operating systems.
+- Message passing: In this model, processes communicate by sending and receiving messages to each other. Messages can be of fixed or variable size, and can be exchanged through direct or indirect communication. Direct communication means that processes explicitly name the sender and receiver of the message, while indirect communication means that processes use a common mailbox or message queue to exchange messages. Message passing is a more abstract and portable way of communication, but it may incur more overhead and latency than shared memory. Message passing is supported by most operating systems, and can be implemented using pipes, sockets, files, signals, message queues, etc .
+
+Some operating systems also provide other models of inter process communication, such as remote procedure calls (RPC), which allow processes to invoke functions or procedures on remote machines, or distributed shared memory (DSM), which allow processes to access a shared memory region that is distributed across multiple machines.

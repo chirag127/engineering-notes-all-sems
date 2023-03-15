@@ -1,0 +1,21 @@
+### Monolithic and Microkernel Systems
+
+- A **monolithic kernel** is an operating system architecture where the entire operating system is working in kernel space.
+- A **microkernel** is a kernel type that provides mechanisms such as low-level address space management, thread management and interprocess communication to implement an operating system.
+- The main difference between microkernel and monolithic kernel is that the microkernel-based systems have OS services and kernel in separate address spaces while the monolithic kernel-based systems have OS services and kernel in the same address space .
+- Some advantages of monolithic kernel are:
+  - It provides CPU scheduling, memory management, file management, and other operating system functions through system calls.
+  - It is easy to design and implement.
+  - It has high performance and efficiency.
+- Some disadvantages of monolithic kernel are:
+  - It is difficult to maintain and debug.
+  - It is less secure and reliable.
+  - It is less flexible and portable.
+- Some advantages of microkernel are:
+  - It is more secure and reliable.
+  - It is more flexible and portable.
+  - It is easier to maintain and extend.
+- Some disadvantages of microkernel are:
+  - It is complex to design.
+  - It has high overhead and low performance.
+  - It requires more system calls and context switches.

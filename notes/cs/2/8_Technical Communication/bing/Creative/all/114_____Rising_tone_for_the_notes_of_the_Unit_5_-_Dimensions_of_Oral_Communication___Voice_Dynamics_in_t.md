@@ -1,0 +1,34 @@
+# Rising tone
+
+- A rising tone is an intonation pattern in which the pitch of the voice rises over time.
+- A rising tone is mainly used for:
+  - Questions with a yes/no answer, such as "Are you thirsty?"
+  - Requests for clarification, which indicate uncertainty, such as "So, is that the new doctor?"
+  - High energy emotions, such as happiness, anger, or shock, such as "Wow!"
+- A rising tone can also convey different attitudes or meanings depending on the context and the speaker's intention, such as:
+  - Challenging or impatient, such as "Are you listening to me?"
+  - Suspicious or annoyed, such as "Who are you?"
+  - Interested or curious, such as "What did you say?"
+  - Polite or tentative, such as "Could you please pass me the salt?"
+- A rising tone can be contrasted with a falling tone, which is an intonation pattern in which the pitch of the voice falls over time.
+- A falling tone is mainly used for:
+  - Statements or declarations, such as "I hear the Health Centre is expanding."
+  - Commands or requests, such as "Sit down."
+  - Questions with a wh-word, such as "What time is it?"
+  - Finality or completion, such as "Thank you."
+- A falling tone can also convey different attitudes or meanings depending on the context and the speaker's intention, such as:
+  - Confident or assertive, such as "I know what I'm doing."
+  - Bored or indifferent, such as "Whatever."
+  - Surprised or impressed, such as "Really?"
+  - Apologetic or regretful, such as "I'm sorry."
+- A rising tone and a falling tone can be combined in a mixed intonation, which is an intonation pattern in which the pitch of the voice falls and then rises, or rises and then falls.
+- A mixed intonation can be used for:
+  - Showing contrast or contradiction, such as "She's rich but unhappy."
+  - Expressing doubt or reservation, such as "Maybe."
+  - Indicating incompleteness or continuation, such as "Well..."
+  - Adding emphasis or interest, such as "Really?"
+- A mixed intonation can also convey different attitudes or meanings depending on the context and the speaker's intention, such as:
+  - Sarcasm or irony, such as "That's very helpful."
+  - Disbelief or skepticism, such as "You're kidding."
+  - Agreement or confirmation, such as "Exactly."
+  - Hesitation or uncertainty, such as "I guess."

@@ -1,0 +1,42 @@
+### Addressing Modes
+
+- Addressing modes are the different ways of specifying the location of an operand in an instruction .
+- Operand is the data on which the operation specified by the instruction is performed.
+- The choice of addressing mode affects the instruction format, the instruction size, the instruction execution time, and the memory access time.
+- Different types of addressing modes are:
+
+  - **Implied / Implicit Addressing Mode** 
+    - The operand is specified in the instruction itself or implied by the instruction.
+    - No memory access is required to fetch the operand.
+    - Example: `CLC` (clear carry flag), `INR A` (increment accumulator).
+  - **Immediate Addressing Mode** 
+    - The operand is given as a constant value in the instruction itself.
+    - One memory access is required to fetch the instruction.
+    - Example: `MOV A, #5` (move 5 to accumulator), `ADD R1, #10` (add 10 to register R1).
+  - **Direct Addressing Mode** 
+    - The operand is located in a memory address given in the instruction itself.
+    - Two memory accesses are required: one to fetch the instruction and one to fetch the operand.
+    - Example: `LDA 2000` (load accumulator with the content of memory location 2000), `STA 3000` (store accumulator to memory location 3000).
+  - **Register Addressing Mode** 
+    - The operand is located in a register specified in the instruction itself.
+    - One memory access is required to fetch the instruction.
+    - Example: `MOV A, B` (move the content of register B to register A), `ADD R1, R2` (add the content of register R2 to register R1).
+  - **Register Indirect Addressing Mode** 
+    - The operand is located in a memory address pointed by a register specified in the instruction itself.
+    - Two memory accesses are required: one to fetch the instruction and one to fetch the operand.
+    - Example: `LDA (R1)` (load accumulator with the content of memory location pointed by register R1), `STA (R2)` (store accumulator to memory location pointed by register R2).
+  - **Displacement Addressing Mode** 
+    - The operand is located in a memory address obtained by adding a displacement value to a base address specified in the instruction itself.
+    - Two memory accesses are required: one to fetch the instruction and one to fetch the operand.
+    - Example: `LDA 100(R1)` (load accumulator with the content of memory location obtained by adding 100 to the content of register R1), `STA 50(R2)` (store accumulator to memory location obtained by adding 50 to the content of register R2).
+  - **Relative Addressing Mode** 
+    - The operand is located in a memory address obtained by adding a displacement value to the program counter (PC) specified in the instruction itself.
+    - Two memory accesses are required: one to fetch the instruction and one to fetch the operand.
+    - Example: `JMP 100(PC)` (jump to the memory location obtained by adding 100 to the current value of PC), `BNE 50(PC)` (branch to the memory location obtained by adding 50 to the current value of PC if the zero flag is not set).
+  - **Indexed Addressing Mode** 
+    - The operand is located in a memory address obtained by adding an index value to a base address specified in the instruction itself.
+    - Two memory accesses are required: one to fetch the instruction and one to fetch the operand.
+    - Example: `LDA 100(X)` (load accumulator with the content of memory location obtained by adding 100 to the content of index register X), `STA 50(Y)` (store accumulator to memory location obtained by adding 50 to the content of index register Y).
+  - **Base Register Addressing Mode** 
+    - The operand is located in a memory address obtained by adding a displacement value to a base address pointed by a register specified in the instruction itself.
+    - Two memory accesses are required:

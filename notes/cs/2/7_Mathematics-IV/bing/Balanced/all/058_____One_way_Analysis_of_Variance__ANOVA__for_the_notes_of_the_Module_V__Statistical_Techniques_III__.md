@@ -1,0 +1,24 @@
+# One way Analysis of Variance (ANOVA)
+
+- One way ANOVA is a statistical technique that can be used to compare whether two or more sample means are significantly different or not (using the F distribution) .
+- One way ANOVA is also known as single factor ANOVA or one factor ANOVA.
+- One way ANOVA is a parametric test, which means it assumes that the data are normally distributed and have equal variances.
+- One way ANOVA has one independent variable (also called factor or treatment) and one dependent variable (also called response or outcome).
+- The independent variable can have two or more levels (also called groups or categories).
+- The null hypothesis of one way ANOVA is that the population means of all the groups are equal.
+- The alternative hypothesis of one way ANOVA is that at least one of the population means is different from the others.
+- To perform a one way ANOVA, the following steps are required:
+  - Calculate the sum of squares between groups (SSB), which measures the variation due to the differences between the group means.
+  - Calculate the sum of squares within groups (SSW), which measures the variation due to the differences within each group.
+  - Calculate the total sum of squares (SST), which measures the total variation in the data.
+  - Calculate the mean square between groups (MSB), which is the ratio of SSB and the degrees of freedom between groups (dfB).
+  - Calculate the mean square within groups (MSW), which is the ratio of SSW and the degrees of freedom within groups (dfW).
+  - Calculate the F-statistic, which is the ratio of MSB and MSW.
+  - Compare the F-statistic with the critical value from the F-distribution table, using the appropriate level of significance (alpha) and the degrees of freedom (dfB and dfW).
+  - If the F-statistic is greater than the critical value, reject the null hypothesis and conclude that there is a significant difference between the group means.
+  - If the F-statistic is less than or equal to the critical value, fail to reject the null hypothesis and conclude that there is no significant difference between the group means.
+- To interpret the results of one way ANOVA, the following points are important:
+  - A significant F-test indicates that there is evidence of a difference between the group means, but it does not tell which groups are different from each other.
+  - To identify which groups are different from each other, a post-hoc test (such as Tukey's HSD, Bonferroni, or Scheffe) can be performed, which compares the pairwise differences between the group means and adjusts the significance level for multiple comparisons.
+  - The effect size of one way ANOVA can be measured by the coefficient of determination (R-squared), which is the ratio of SSB and SST. It indicates the proportion of the total variation in the data that is explained by the group differences.
+  - The assumptions of one way ANOVA can be checked by using graphical methods (such as boxplots, histograms, or QQ-plots) or statistical tests (such as Shapiro-Wilk test for normality or Levene's test for homogeneity of variances). If the assumptions are violated, a non-parametric alternative (such as Kruskal-Wallis test) can be used instead of one way ANOVA.

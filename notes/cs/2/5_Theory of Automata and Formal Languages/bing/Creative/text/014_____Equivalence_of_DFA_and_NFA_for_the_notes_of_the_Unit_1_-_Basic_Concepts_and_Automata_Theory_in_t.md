@@ -1,0 +1,12 @@
+### Equivalence of DFA and NFA
+
+- A DFA (Deterministic Finite Automaton) is a finite state machine that accepts or rejects a given string of symbols, where each symbol is read exactly once and the machine is in exactly one state at any given time.
+- An NFA (Nondeterministic Finite Automaton) is a finite state machine that accepts or rejects a given string of symbols, where each symbol is read exactly once and the machine can be in multiple states at any given time, or make transitions without reading any symbol (called epsilon transitions).
+- A DFA and an NFA are called equivalent if they recognize the same language, that is, if they accept exactly the same set of strings.
+- The equivalence of DFA and NFA can be proved by showing that for any DFA, there is an equivalent NFA, and vice versa.
+- To construct an equivalent NFA from a given DFA, we can simply copy the states, transitions, initial state and final states of the DFA, since a DFA is a special case of an NFA where there is only one transition for each symbol from each state, and no epsilon transitions.
+- To construct an equivalent DFA from a given NFA, we can use the subset construction algorithm, which works as follows:
+  - The states of the DFA are subsets of the states of the NFA, and the initial state of the DFA is the epsilon closure of the initial state of the NFA, where the epsilon closure of a state is the set of all states that can be reached from that state by following only epsilon transitions.
+  - The transitions of the DFA are defined by applying the transition function of the NFA to each subset of states and each symbol, and taking the epsilon closure of the resulting set of states. That is, for each subset S of states of the NFA and each symbol a, the transition from S on a in the DFA is the epsilon closure of the union of the transitions from each state in S on a in the NFA.
+  - The final states of the DFA are those subsets of states of the NFA that contain at least one final state of the NFA.
+- The subset construction algorithm ensures that the DFA simulates the behavior of the NFA on any given input string, by keeping track of all the possible states that the NFA can be in after reading each symbol. Therefore, the DFA and the NFA accept the same language.

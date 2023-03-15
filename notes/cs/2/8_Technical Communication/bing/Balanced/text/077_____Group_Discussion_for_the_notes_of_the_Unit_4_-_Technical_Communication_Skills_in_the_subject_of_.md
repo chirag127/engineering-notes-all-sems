@@ -1,0 +1,14 @@
+### Group Discussion
+
+- A group discussion is a method of communication in which a small number of people exchange their ideas and opinions on a given topic in a structured and interactive manner.
+- The purpose of a group discussion is to enhance the understanding of the topic, develop critical thinking and problem-solving skills, and foster teamwork and collaboration among the participants.
+- A group discussion usually involves four to six participants and a moderator who introduces the topic, guides the discussion, and summarizes the main points at the end.
+- A group discussion can be classified into two types: formal and informal. A formal group discussion is conducted for a specific objective, such as academic assessment, job selection, or decision making. An informal group discussion is conducted for general interest, such as socializing, sharing experiences, or expressing opinions.
+- A group discussion can also be categorized based on the nature of the topic: factual, controversial, or abstract. A factual topic is based on facts and data that can be verified, such as current affairs, historical events, or scientific phenomena. A controversial topic is based on opinions and arguments that can be debated, such as political issues, ethical dilemmas, or social problems. An abstract topic is based on concepts and ideas that can be interpreted in different ways, such as art, philosophy, or literature.
+- A group discussion requires certain skills and strategies to be effective and successful. Some of the skills and strategies are:
+
+  - Preparation: Before participating in a group discussion, one should research the topic, gather relevant information, and form a clear and logical viewpoint.
+  - Initiation: At the beginning of a group discussion, one should try to initiate the discussion by introducing the topic, defining the scope and objective, and stating one's position.
+  - Participation: During the course of a group discussion, one should actively participate by expressing one's ideas, supporting them with evidence and examples, listening to others, asking questions, clarifying doubts, and acknowledging different perspectives.
+  - Coordination: Throughout the group discussion, one should try to coordinate with others by following the rules and norms of the discussion, maintaining eye contact and body language, using polite and respectful language, avoiding interruptions and digressions, and building on others' points.
+  - Conclusion: At the end of a group discussion, one should try to conclude the discussion by summarizing the main points, highlighting the consensus and disagreement, and suggesting a possible outcome or action.

@@ -1,0 +1,11 @@
+### Buses
+- A bus is a communication system that transfers data between components inside a computer or between computers.
+- It is a group of wires through which data is transmitted from one part of a computer to another.
+- There are three types of buses: data bus, address bus, and control bus.
+- The data bus transfers data between the processor, memory, and input/output devices.
+- The address bus is used by the processor to specify the memory location where data is to be read from or written to.
+- The control bus carries control signals to coordinate the transfer of data between components.
+- Buses can be parallel or serial, depending on whether data is transferred in parallel or one bit at a time.
+- The width of a bus, measured in bits, determines how much data can be transferred at once.
+- The speed of a bus, measured in Hertz, determines how fast data can be transferred.
+- Buses are an essential component of computer architecture, allowing different components to communicate and work together.

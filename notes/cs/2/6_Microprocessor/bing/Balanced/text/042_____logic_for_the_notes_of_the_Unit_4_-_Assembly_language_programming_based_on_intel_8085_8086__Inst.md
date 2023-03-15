@@ -1,0 +1,54 @@
+### Logic for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level programming language that uses mnemonics to represent machine instructions .
+- Assembly language is specific to a given processor, so the assembly language of 8085 is different from that of 8086 or Motorola 6800 .
+- The microprocessor cannot understand a program written in assembly language, so a program known as assembler is used to convert an assembly language program to machine code .
+- Assembly language programming of 8085/8086 involves the following steps:
+  - Writing the source code in a text editor
+  - Saving the source code with an extension .asm
+  - Assembling the source code using an assembler
+  - Linking the object code with any libraries or modules
+  - Loading the executable code into the memory
+  - Running the program and debugging if necessary
+- Assembly language programming of 8085/8086 requires the knowledge of the following concepts:
+  - Instructions: The basic commands that the microprocessor can execute, such as data transfer, arithmetic, logic, branch, loop, etc.
+  - Operands: The data or addresses that the instructions operate on, such as registers, memory locations, immediate values, etc.
+  - Labels: The symbolic names that represent the addresses of instructions or data, such as START, LOOP, DATA, etc.
+  - Directives: The commands that tell the assembler how to process the source code, such as ORG, EQU, DB, DW, END, etc.
+  - Macros: The sequences of instructions that can be defined and invoked by a single name, such as SUM, MAX, MIN, etc.
+- Data transfer instructions are used to move data between registers, memory, and I/O devices . Some examples are:
+  - MOV: Move data from source to destination
+  - MVI: Move immediate data to register or memory
+  - LDA: Load accumulator from memory
+  - STA: Store accumulator to memory
+  - IN: Input data from I/O device to accumulator
+  - OUT: Output data from accumulator to I/O device
+- Arithmetic instructions are used to perform addition, subtraction, increment, and decrement operations on data . Some examples are:
+  - ADD: Add register or memory to accumulator
+  - ADI: Add immediate data to accumulator
+  - SUB: Subtract register or memory from accumulator
+  - SUI: Subtract immediate data from accumulator
+  - INR: Increment register or memory by one
+  - DCR: Decrement register or memory by one
+- Logic instructions are used to perform bitwise logical operations on data, such as AND, OR, XOR, NOT, etc . Some examples are:
+  - ANA: And register or memory with accumulator
+  - ANI: And immediate data with accumulator
+  - ORA: Or register or memory with accumulator
+  - ORI: Or immediate data with accumulator
+  - XRA: Xor register or memory with accumulator
+  - XRI: Xor immediate data with accumulator
+  - CMA: Complement accumulator
+- Branch instructions are used to alter the sequence of execution of the program based on certain conditions, such as flags, registers, or memory values . Some examples are:
+  - JMP: Jump unconditionally to a specified address
+  - JC: Jump if carry flag is set
+  - JNC: Jump if carry flag is reset
+  - JZ: Jump if zero flag is set
+  - JNZ: Jump if zero flag is reset
+  - JPE: Jump if parity flag is even
+  - JPO: Jump if parity flag is odd
+- Loop instructions are used to repeat a block of code for a specified number of times or until a condition is met . Some examples are:
+  - LOOP: Decrement CX register and jump if not zero
+  - LOOPE: Decrement CX register and jump if zero flag is set
+  - LOOPNE: Decrement CX register and jump if zero flag is reset
+- Counting instructions are used to manipulate the values of registers or memory locations for counting purposes . Some examples are:
+  - INC: Increment register or

@@ -1,0 +1,21 @@
+# Agent Communication
+
+- Agent communication is the process of exchanging information and knowledge between intelligent agents in a multi-agent system.
+- Agent communication is an important aspect of artificial intelligence, as it enables agents to interact, cooperate, coordinate, and negotiate with each other.
+- Agent communication is based on the use of agent communication languages (ACLs), which are formal languages that define the syntax and semantics of messages that agents can exchange.
+- ACLs are often inspired by the speech act theory, which is a philosophical theory that analyzes the meaning and function of utterances as actions that have effects on the world.
+- Some examples of ACLs are Knowledge Query and Manipulation Language (KQML), Knowledge Interchange Format (KIF), and Foundation for Intelligent Physical Agents (FIPA) ACL.
+- Agent communication also requires the use of ontologies, which are explicit and shared specifications of the concepts and terms that agents use in their messages.
+- Ontologies provide a common vocabulary and a common understanding of the domain of discourse for agents.
+- Some examples of ontologies are DARPA Agent Markup Language (DAML), Web Ontology Language (OWL), and Cyc.
+- Agent communication can be classified into two types: direct and indirect.
+- Direct communication is when agents send messages to each other explicitly, using a specific communication channel and protocol.
+- Indirect communication is when agents communicate implicitly, by modifying or observing the environment or the behavior of other agents.
+- Direct communication can be further divided into two modes: synchronous and asynchronous.
+- Synchronous communication is when agents exchange messages in real time, and wait for a response before proceeding.
+- Asynchronous communication is when agents send messages without expecting an immediate response, and can continue their activities independently.
+- Agent communication can have various purposes and functions, such as information exchange, coordination, cooperation, negotiation, persuasion, argumentation, and social interaction.
+- Agent communication can also have various effects and outcomes, such as knowledge sharing, belief revision, goal alignment, plan synchronization, resource allocation, conflict resolution, trust building, and relationship formation.
+- Agent communication is a complex and dynamic process that involves multiple factors, such as the agent's goals, beliefs, preferences, capabilities, emotions, and social norms.
+- Agent communication is also influenced by the characteristics of the communication medium, such as the bandwidth, reliability, security, and modality.
+- Agent communication is a challenging and active research area in artificial intelligence, as it involves various theoretical and practical issues, such as the design and evaluation of ACLs and ontologies, the development and implementation of communication protocols and strategies, the modeling and analysis of communication behavior and performance, and the integration and interoperability of heterogeneous and distributed agents.

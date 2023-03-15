@@ -1,0 +1,25 @@
+### Importance of notes for the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Notes are a way of summarizing and organizing the main ideas and information from a source, such as a textbook, a lecture, or a website.
+- Notes help you to:
+  - Understand and remember the content of the source better
+  - Identify the key points and the supporting details of the source
+  - Distinguish between facts and opinions in the source
+  - Avoid plagiarism by paraphrasing and citing the source correctly
+  - Prepare for exams, assignments, and presentations based on the source
+- Notes should be:
+  - Clear and concise, using your own words and avoiding unnecessary details
+  - Accurate and ethical, reflecting the true meaning and intention of the source
+  - Organized and structured, following a logical order and using headings, subheadings, bullet points, and other visual aids
+  - Complete and comprehensive, covering all the relevant and important information from the source
+  - Consistent and professional, using the same format, style, and tone throughout the notes
+- Notes can be taken in different ways, such as:
+  - Quoting, which is copying the exact words of the source within quotation marks and citing the source
+  - Paraphrasing, which is rewriting the source in your own words and citing the source
+  - Summarizing, which is condensing the main ideas of the source in your own words and citing the source
+  - Outlining, which is creating a hierarchical list of the main topics and subtopics of the source
+  - Mapping, which is drawing a diagram of the relationships and connections between the ideas of the source
+- Notes can be used for different purposes, such as:
+  - Studying, which is reviewing and revising the notes to reinforce your learning and understanding of the source
+  - Writing, which is using the notes as a basis for creating your own documents, such as reports, proposals, or websites
+  - Presenting, which is using the notes as a guide for delivering your oral or visual communication, such as speeches, slides, or blogs

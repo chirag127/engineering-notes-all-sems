@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of problem solving methods in artificial intelligence. Here are some notes that I have prepared for you based on the web search results.
+
+### Problem solving methods in artificial intelligence
+
+- Problem solving in artificial intelligence (AI) is the process of finding solutions to problems that are difficult or impossible for humans to solve by using reasoning, search, optimization, and learning techniques .
+- Problem solving methods in AI can be classified into two categories: **search-based** and **knowledge-based** .
+- Search-based methods use algorithms that explore a large space of possible solutions and select the best one based on some criteria. Search-based methods can be further divided into **uninformed search** and **informed search** .
+  - Uninformed search algorithms do not use any domain-specific knowledge or heuristics to guide the search. They rely on brute-force or trial-and-error methods to find a solution. Examples of uninformed search algorithms are **breadth-first search**, **depth-first search**, **uniform-cost search**, and **iterative deepening search** .
+  - Informed search algorithms use some domain-specific knowledge or heuristics to guide the search. They try to find a solution more efficiently by exploiting some information about the problem. Examples of informed search algorithms are **greedy search**, **A* search**, **hill-climbing search**, and **beam search** .
+- Knowledge-based methods use representations of facts, rules, and concepts to reason about the problem and find a solution. Knowledge-based methods can be further divided into **logic-based** and **non-logic-based** .
+  - Logic-based methods use formal systems of logic, such as **propositional logic**, **predicate logic**, and **modal logic**, to represent and manipulate knowledge. Logic-based methods can perform **deductive reasoning**, **inductive reasoning**, and **abductive reasoning** to infer new facts or conclusions from existing knowledge .
+  - Non-logic-based methods use other forms of representation and reasoning, such as **semantic networks**, **frames**, **scripts**, **ontologies**, and **neural networks**, to model and manipulate knowledge. Non-logic-based methods can perform **associative reasoning**, **analogical reasoning**, and **case-based reasoning** to infer new facts or conclusions from existing knowledge .
+
+- Problem solving methods in AI can be applied to various domains and tasks, such as **planning**, **scheduling**, **diagnosis**, **classification**, **prediction**, **optimization**, **game playing**, **natural language processing**, **computer vision**, **machine learning**, and **robotics**  .

@@ -1,0 +1,10 @@
+### Serial Communication
+
+Serial communication is the process of sequentially transferring the information/bits on the same channel. Due to this, the cost of wire will be reduced, but it slows the transmission speed. Serial communication is used for all long-haul communication and most computer networks, where the cost of cable and synchronization difficulties make parallel communication impractical. 
+
+Some of the main points to note about serial communication are:
+
+- In serial communication, binary pulses are used to show the data. Binary contains the two numbers 0 and 1. 0 is used to show the LOW or 0 Volts, and 1 is used to show the HIGH or 5 Volts.
+- The serial communication can either be asynchronous or synchronous. Asynchronous communication means that the data is sent without a clock signal, and the receiver has to synchronize with the sender based on the start and stop bits. Synchronous communication means that the data is sent with a clock signal, and the receiver can use the same clock to read the data.
+- Some of the well-known interfaces used for the data exchange are RS-232, RS-485, I2C, SPI etc. RS-232 is a standard for serial communication between two devices using a single-ended signal. RS-485 is a standard for serial communication between multiple devices using a differential signal. I2C is a standard for serial communication between two or more devices using a two-wire bus. SPI is a standard for serial communication between one master device and one or more slave devices using a four-wire bus.
+- A data communication processor is an I/O processor that distributes and collects data from numerous remote terminals connected through telephone and other communication lines to the computer. It is a specialized I/O processor designed to communicate with data communication networks.

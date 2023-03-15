@@ -1,0 +1,32 @@
+### Pipelining
+
+- Pipelining is a technique for breaking down a sequential process into various sub-operations and executing each sub-operation in its own dedicated segment that runs in parallel with all other segments.
+- Pipelining defines the temporal overlapping of processing. It allows storing and executing instructions in an orderly process. It is also known as pipeline processing.
+- Pipelining improves the performance of a computer system by increasing the instruction throughput, which is the number of instructions executed per unit time.
+- A pipeline has two ends, the input end and the output end. Between these ends, there are several stages that perform different operations on the instructions or data.
+- Interface registers are used to hold the intermediate output between two stages. These interface registers are also known as pipeline latches or pipeline buffers.
+- All the stages in the pipeline along with the interface registers are connected by a common bus. The bus transfers the data from one stage to another.
+- A typical pipeline for instruction processing consists of the following stages:
+  - Fetch: Fetch instructions from memory.
+  - Decode: Read the input register, and decode the instruction.
+  - Execute: Execute the instruction.
+  - Memory: Access an operand in data memory.
+  - Writeback: Write the result of the operation into the input register of the next segment.
+- A pipeline can be classified into two types: linear pipeline and nonlinear pipeline.
+  - A linear pipeline is a pipeline where each stage performs a fixed operation on the data. The output of one stage is the input of the next stage. A linear pipeline can be further divided into two types: uniform pipeline and non-uniform pipeline.
+    - A uniform pipeline is a pipeline where each stage takes the same amount of time to process the data. The time taken by each stage is called the cycle time of the pipeline. The cycle time determines the speed of the pipeline.
+    - A non-uniform pipeline is a pipeline where each stage takes a different amount of time to process the data. The cycle time of the pipeline is the maximum of the cycle times of all the stages. A non-uniform pipeline can handle more complex operations than a uniform pipeline.
+  - A nonlinear pipeline is a pipeline where some stages can perform more than one operation on the data. The output of one stage can be the input of more than one stage. A nonlinear pipeline can be further divided into two types: static pipeline and dynamic pipeline.
+    - A static pipeline is a pipeline where the operation performed by each stage is fixed and predetermined. The data flow in the pipeline is controlled by a fixed logic. A static pipeline is simpler and faster than a dynamic pipeline.
+    - A dynamic pipeline is a pipeline where the operation performed by each stage can vary depending on the data or the instruction. The data flow in the pipeline is controlled by a variable logic. A dynamic pipeline is more flexible and powerful than a static pipeline.
+- Pipelining has some advantages and disadvantages:
+  - Advantages:
+    - It increases the instruction throughput and the performance of the system.
+    - It reduces the average execution time of an instruction.
+    - It utilizes the hardware resources more efficiently.
+    - It allows parallel processing of instructions and data.
+  - Disadvantages:
+    - It increases the complexity and cost of the system.
+    - It introduces some overheads and delays in the pipeline, such as pipeline filling, pipeline flushing, pipeline stalls, pipeline hazards, etc.
+    - It requires more synchronization and coordination among the pipeline stages.
+    - It may not be suitable for some applications that have unpredictable or irregular data flow.

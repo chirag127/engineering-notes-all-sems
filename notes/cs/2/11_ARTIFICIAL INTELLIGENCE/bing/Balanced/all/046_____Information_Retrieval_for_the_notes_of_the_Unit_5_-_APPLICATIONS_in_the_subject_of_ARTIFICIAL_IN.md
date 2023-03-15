@@ -1,0 +1,17 @@
+# Information Retrieval for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Information retrieval (IR) is the process of finding relevant information from a large collection of documents, such as web pages, books, articles, etc., based on a user's query.
+- Artificial intelligence (AI) is the field of computer science that aims to create systems that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, natural language processing, etc.
+- AI methods are employed throughout the standard IR process and for novel value-added services, such as personalization, recommendation, summarization, etc.
+- The main steps in the IR process are:
+  - Document analysis: This involves extracting features from the documents, such as words, phrases, concepts, etc., and representing them in a suitable format, such as vectors, graphs, etc.
+  - Query analysis: This involves interpreting the user's query, such as identifying the keywords, synonyms, intents, etc., and transforming it into a suitable representation, such as a query vector, a logical expression, etc.
+  - Matching and ranking: This involves comparing the document and query representations, and assigning a score to each document based on its relevance to the query. The documents are then sorted in descending order of their scores and presented to the user.
+  - Feedback and evaluation: This involves collecting feedback from the user, such as clicks, ratings, comments, etc., and using it to evaluate the performance of the IR system, and to improve it by learning from the feedback.
+- Some examples of AI applications in IR are:
+  - Natural language processing: This involves using AI techniques, such as parsing, semantic analysis, sentiment analysis, etc., to understand the natural language of the documents and queries, and to generate natural language responses or summaries.
+  - Machine learning: This involves using AI techniques, such as classification, clustering, regression, etc., to learn from the data and to optimize the IR system parameters, such as the weighting scheme, the ranking function, the relevance feedback, etc.
+  - Knowledge representation and reasoning: This involves using AI techniques, such as logic, ontologies, inference, etc., to represent and reason with the knowledge extracted from the documents and queries, and to provide more accurate and comprehensive answers or suggestions.
+  - Neural networks and deep learning: This involves using AI techniques, such as artificial neural networks, convolutional neural networks, recurrent neural networks, etc., to model complex and nonlinear relationships between the documents and queries, and to learn high-level features and representations.
+  - Information extraction and retrieval: This involves using AI techniques, such as named entity recognition, relation extraction, question answering, etc., to extract specific information from the documents, such as names, dates, facts, answers, etc., and to retrieve them based on the user's query.
+  - Personalization and recommendation: This involves using AI techniques, such as user modeling, collaborative filtering, content-based filtering, etc., to tailor the IR system to the user's preferences, interests, behavior, etc., and to recommend relevant documents or items to the user.

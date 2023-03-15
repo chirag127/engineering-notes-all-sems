@@ -1,0 +1,23 @@
+### ROM memories for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- ROM stands for Read Only Memory, which means that the data stored in it can only be read and not modified.
+- ROM is a type of non-volatile memory, which means that the data stored in it is retained even when the power is turned off.
+- ROM is typically used to store the computer’s BIOS (basic input/output system), which contains the instructions for booting the computer, as well as firmware for other hardware devices.
+- ROM is also used to store fixed programs that are not to be altered and for tables of constants that are not subject to change.
+- ROM can implement any combinational circuit with k inputs and n outputs.
+- ROM is a semiconductor-based memory, which means that it is made of integrated circuits that physically encode the data to be stored.
+- There are different types of ROM, such as:
+  - Mask-programmed ROM: The data is programmed during the fabrication of the chip and cannot be changed later.
+  - Programmable ROM (PROM): The data can be programmed once by the user using a special device called a programmer.
+  - Erasable PROM (EPROM): The data can be erased and reprogrammed by exposing the chip to ultraviolet light.
+  - Electrically Erasable PROM (EEPROM): The data can be erased and reprogrammed electrically using a programmer.
+  - Flash memory: The data can be erased and reprogrammed in blocks or sectors using a programmer.
+- ROM has some advantages and disadvantages, such as:
+  - Advantages:
+    - ROM is non-volatile, which means that it does not lose data when the power is turned off.
+    - ROM is reliable and durable, as it does not have any moving parts and is not affected by environmental factors.
+    - ROM is secure, as it prevents unauthorized modification of the data stored in it.
+  - Disadvantages:
+    - ROM is expensive, as it requires a complex fabrication process and a programmer device.
+    - ROM is slow, as it has a longer access time than RAM.
+    - ROM is inflexible, as it does not allow easy updating or changing of the data stored in it.

@@ -1,0 +1,12 @@
+### Regression Coefficients
+
+- Regression coefficients are the values that are used in a regression equation to estimate the relationship between a predictor variable and a response variable   .
+- The most commonly used type of regression is linear regression, which assumes that the relationship between the predictor and the response is linear, i.e., it can be represented by a straight line .
+- The equation of the best-fitted line is given by Y = aX + b, where Y is the response variable, X is the predictor variable, a is the slope coefficient, and b is the intercept coefficient  .
+- The slope coefficient a measures the change in the response variable for a unit change in the predictor variable, i.e., how steep the line is  .
+- The intercept coefficient b measures the value of the response variable when the predictor variable is zero, i.e., where the line crosses the Y-axis  .
+- The regression coefficients can be estimated using various methods, such as the method of least squares, which minimizes the sum of squared errors between the observed and predicted values .
+- The regression coefficients can be interpreted to understand the direction, magnitude, and significance of the relationship between the predictor and the response variable.
+- The direction of the relationship is indicated by the sign of the coefficient: a positive coefficient means that the response variable increases as the predictor variable increases, and a negative coefficient means that the response variable decreases as the predictor variable increases.
+- The magnitude of the relationship is indicated by the value of the coefficient: a larger coefficient means that the response variable changes more for a given change in the predictor variable, and a smaller coefficient means that the response variable changes less for a given change in the predictor variable.
+- The significance of the relationship is indicated by the p-value of the coefficient: a low p-value means that the coefficient is statistically different from zero, and a high p-value means that the coefficient is not statistically different from zero. A coefficient that is not statistically different from zero implies that there is no evidence of a linear relationship between the predictor and the response variable.

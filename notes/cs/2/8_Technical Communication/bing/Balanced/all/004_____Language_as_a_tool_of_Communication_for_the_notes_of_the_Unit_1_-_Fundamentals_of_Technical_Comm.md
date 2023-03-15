@@ -1,0 +1,8 @@
+# Language as a tool of Communication
+
+- Language is a medium of communication that helps us expressing and conveying our thoughts, feelings, and emotions of two individuals.
+- Language depends on verbal or non-verbal codes. Verbal codes are words and sentences that we use to communicate. Non-verbal codes are gestures, facial expressions, body language, and other signs that we use to communicate.
+- Language is considered the prime tool of communication because it enables us to share our ideas, knowledge, beliefs, values, and culture with others.
+- Language is also a powerful tool of communication because it can influence how we think, feel, and act. Language can shape our perception of reality, our identity, our relationships, and our social norms.
+- Language is not a static or fixed tool of communication. It is dynamic and flexible, changing over time and across contexts. Language can also be creative and expressive, using various figures of speech, such as irony, paradox, similes, metaphors, and so on, to convey different meanings and effects .
+- Language is a tool of communication that requires skills and strategies to use effectively. We need to be aware of the purpose, audience, context, and mode of communication, and choose the appropriate language, style, tone, and format accordingly. We also need to be able to interpret and evaluate the language of others, and provide constructive feedback when necessary.

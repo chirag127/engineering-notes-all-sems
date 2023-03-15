@@ -1,0 +1,13 @@
+### Introduction to Recursive Function Theory
+
+- Recursive function theory is a branch of mathematical logic that studies the class of functions on the natural numbers that can be defined by recursion .
+- A function is recursive if it can be computed by a finite set of rules that involve only basic operations (such as addition, multiplication, etc.) and calling the function itself on smaller inputs .
+- Recursive functions are closely related to computability theory, which investigates the limits of what can be computed by various models of computation, such as Turing machines, lambda calculus, etc .
+- A recursive function is called total if it is defined for every input, or equivalently, if it always halts. A recursive function is called partial if it is undefined for some inputs, or equivalently, if it may not halt for some inputs.
+- A recursive function is called primitive recursive if it can be defined by using only basic operations and a restricted form of recursion, called primitive recursion, which requires that the function calls itself only on the immediate predecessor of the input .
+- A recursive function is called general recursive if it can be defined by using any form of recursion, including unbounded recursion, which allows the function to call itself on any smaller input .
+- Every primitive recursive function is also general recursive, but not every general recursive function is primitive recursive. For example, the Ackermann function is a well-known example of a general recursive function that is not primitive recursive .
+- The set of all general recursive functions is equivalent to the set of all Turing-computable functions, i.e., the functions that can be computed by a Turing machine. This is known as the Church-Turing thesis .
+- The set of all total recursive functions is a proper subset of the set of all general recursive functions, i.e., there are some general recursive functions that are not total. This is a consequence of the undecidability of the halting problem, which states that there is no general recursive function that can determine whether a given Turing machine halts on a given input .
+- The set of all partial recursive functions is equivalent to the set of all recursively enumerable sets, i.e., the sets that can be enumerated by a Turing machine. A set is recursively enumerable if there is a general recursive function that outputs its elements in some order .
+- A set is recursive if it is both recursively enumerable and co-recursively enumerable, i.e., its complement is also recursively enumerable. A set is recursive if and only if there is a total recursive function that decides whether a given element belongs to the set or not .

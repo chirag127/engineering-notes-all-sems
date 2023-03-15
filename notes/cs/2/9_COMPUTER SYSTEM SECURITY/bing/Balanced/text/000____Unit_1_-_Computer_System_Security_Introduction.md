@@ -1,0 +1,26 @@
+## Unit 1 - Computer System Security Introduction
+
+- Computer system security is the protection of computer systems and networks from attack by malicious actors that may result in unauthorized information disclosure, theft of, or damage to hardware, software, or data, as well as from the disruption or misdirection of the services they provide.
+- Computer system security is also the process of preventing and detecting unauthorized use of your computer system.
+- The components of a computer system that need to be protected are:
+  - Hardware, the physical part of the computer, like the system memory and disk drive
+  - Firmware, permanent software that is etched into a hardware device’s nonvolatile memory and is mostly invisible to the user
+  - Software, the programming instructions and data that make the computer perform tasks
+  - Data, the information that is stored and processed by the computer system
+- The main goals of computer system security are:
+  - Confidentiality, ensuring that only authorized parties can access the information
+  - Integrity, ensuring that the information is not modified or corrupted by unauthorized parties
+  - Availability, ensuring that the information and the system are accessible and functional when needed
+- The main challenges of computer system security are:
+  - The complexity and diversity of computer systems and networks, which make them vulnerable to various types of attacks and hard to secure
+  - The dynamic and evolving nature of threats, which require constant vigilance and adaptation of security measures
+  - The trade-offs between security and other desirable properties, such as performance, usability, and cost
+- The main techniques for achieving computer system security are:
+  - Operating system (OS) security, which provides the basic mechanisms for isolating and protecting different processes and resources on the computer
+  - Capabilities, which are tokens of authority that grant specific rights to processes and objects
+  - Information flow control, which tracks and enforces the flow of information within and between computer systems
+  - Cryptography, which is the science of using mathematical techniques to secure information and communication
+  - Network security, which protects the communication channels and protocols between computer systems
+  - Web security, which deals with the security issues of web applications and services
+  - Software security, which ensures that the software is free of vulnerabilities and defects that can compromise security
+  - Hardware security, which protects the physical components of the computer system from tampering and reverse engineering

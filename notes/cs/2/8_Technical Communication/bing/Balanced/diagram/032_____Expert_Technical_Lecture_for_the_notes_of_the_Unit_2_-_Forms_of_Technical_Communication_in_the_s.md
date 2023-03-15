@@ -1,0 +1,25 @@
+### Expert Technical Lecture for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is the method of producing and sharing concepts and data in organizations.
+- Technical communication often involves communicating expert, technical, or highly complex information to a non expert or more general audience.
+- Technical communication might define, instruct, inform, or persuade.
+- Technical communication is a broad field and includes any form of communication that exhibits one or more of the following characteristics:
+  - Communicating about technical or specialized topics, such as computer applications, medical procedures, or environmental regulations.
+  - Communicating by using technology, such as web pages, help files, or social media sites.
+  - Providing instructions about how to do something, regardless of how technical the task is or even if technology is used to create or distribute that communication.
+- Some common forms of technical communication are :
+  - Proposals and requests for proposals (RFPs)
+  - Technical or research reports
+  - Documentation records and product specifications
+  - User guides (step-by-step instructions, procedures, manuals)
+  - Online help, technical support
+  - Reference information (encyclopedia-style information)
+  - Consumer literature (information for the public about regulations, safety issues, etc.)
+  - Business letters, memos, notices
+  - Websites, blogs, podcasts, webinars
+  - Presentations, posters, infographics
+- The forms of technical communication may vary depending on the purpose, audience, context, and medium of the communication.
+- Technical communicators need to consider the following factors when choosing the appropriate form of technical communication:
+  - The goal of the communication: What is the main message or objective of the communication? What action or response do you want from the audience?
+  - The audience of the communication: Who are the intended recipients of the communication? What are their needs, expectations, preferences, and level of expertise?
+  - The context of the communication: What is the situation or environment in which the communication takes place? What are the constraints, challenges, and opportunities that affect the communication?

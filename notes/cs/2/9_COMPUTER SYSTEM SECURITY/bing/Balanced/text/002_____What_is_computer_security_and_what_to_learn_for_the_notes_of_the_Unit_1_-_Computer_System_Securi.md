@@ -1,0 +1,23 @@
+### What is computer security and what to learn for the notes of the Unit 1 - Computer System Security Introduction in the subject of COMPUTER SYSTEM SECURITY
+
+- Computer security, also called cybersecurity or information technology security, is the protection of computer systems and networks from attack by malicious actors that may result in unauthorized information disclosure, theft of, or damage to hardware, software, or data, as well as from the disruption or misdirection of the services they provide.
+- Computer security can be implemented using passwords, encryption, and firewalls, and denying physical access to a computer's location.
+- Computer security can be divided into three main categories: confidentiality, integrity, and availability.
+  - Confidentiality means preventing unauthorized access to sensitive information or data.
+  - Integrity means ensuring that data is not modified or corrupted by unauthorized parties.
+  - Availability means ensuring that authorized users can access the data or services they need without interruption or delay.
+- Computer security can also be classified into different levels or domains, such as network security, application security, endpoint security, cloud security, and data security.
+  - Network security refers to the protection of the communication channels and devices that connect computer systems and networks.
+  - Application security refers to the protection of the software programs and services that run on computer systems and networks.
+  - Endpoint security refers to the protection of the individual devices, such as laptops, smartphones, or servers, that access or host computer systems and networks.
+  - Cloud security refers to the protection of the data and services that are stored or delivered over the internet using cloud computing platforms.
+  - Data security refers to the protection of the data itself, regardless of where it is stored or transmitted.
+- Computer security can be achieved by following best practices, such as using strong passwords, updating software regularly, avoiding phishing emails, using antivirus software, and backing up data.
+- Computer security can also be enhanced by using security standards, protocols, and tools, such as encryption, authentication, authorization, digital signatures, certificates, and public key infrastructure.
+- Computer security can be evaluated by using security metrics, such as vulnerability assessment, penetration testing, risk analysis, and security audit.
+- Computer security can be challenged by various types of threats, such as malware, ransomware, denial-of-service attacks, man-in-the-middle attacks, spoofing, phishing, social engineering, and zero-day exploits.
+- Computer security can be improved by using security frameworks, such as NIST, ISO, COBIT, and CIS.
+  - NIST stands for National Institute of Standards and Technology, and it provides guidelines and standards for computer security in the US.
+  - ISO stands for International Organization for Standardization, and it provides international standards for various aspects of computer security, such as ISO/IEC 27001 and ISO/IEC 27002.
+  - COBIT stands for Control Objectives for Information and Related Technologies, and it provides a framework for managing and governing information technology, including computer security.
+  - CIS stands for Center for Internet Security, and it provides benchmarks and best practices for securing computer systems and networks.

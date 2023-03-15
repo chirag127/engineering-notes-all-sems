@@ -1,0 +1,13 @@
+### Multithreaded Systems
+
+- A thread is a basic unit of CPU utilization that consists of a program counter, a stack, and a set of registers.
+- A process can have multiple threads that share the same address space and other resources, such as open files and signals.
+- Multithreading is the ability of an operating system to support multiple concurrent threads of execution within a single process.
+- Multithreading can improve the performance and responsiveness of a system by allowing multiple tasks to run concurrently on a multiprocessor or multicore system, or by overlapping I/O and computation on a single processor system.
+- Multithreading can also simplify the design and implementation of concurrent applications by providing a higher-level abstraction than processes.
+- There are two types of multithreading: user-level and kernel-level.
+  - User-level threads are managed by a thread library in the user space, without the involvement of the kernel. The kernel is unaware of the existence of user-level threads and schedules the process as a whole.
+  - Kernel-level threads are supported and managed by the kernel. The kernel can schedule each thread individually and provide system calls for thread creation, synchronization, and termination.
+- There are advantages and disadvantages of both types of multithreading.
+  - User-level threads have lower overhead and faster context switching than kernel-level threads, since they do not require system calls or kernel intervention. They also allow more flexibility and control over the thread management policies, such as scheduling and synchronization. However, user-level threads suffer from some drawbacks, such as the lack of kernel support for blocking system calls, signal handling, and multiprocessor scheduling. If one user-level thread blocks on a system call, the entire process will be blocked and the other threads will not run. Similarly, if a signal is delivered to the process, only one thread can handle it. Moreover, user-level threads cannot take advantage of the parallelism offered by multiprocessor or multicore systems, since the kernel will assign only one processor to the process.
+  - Kernel-level threads have the opposite advantages and disadvantages of user-level threads. They have full kernel support for blocking system calls, signal handling, and multiprocessor scheduling, which allows them to run in parallel on multiple processors or cores. However, they have higher overhead and slower context switching than user-level threads, since they require system calls and kernel intervention. They also have less flexibility and control over the thread management policies, which are determined by the kernel.

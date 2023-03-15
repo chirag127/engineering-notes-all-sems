@@ -1,0 +1,26 @@
+# Introduction to Recursive Function Theory
+
+- Recursive function theory is a branch of mathematical logic that studies the class of functions on the natural numbers that can be defined by recursion .
+- Recursion is a process of defining a function by applying the same function to its own arguments .
+- A function that calls itself directly or indirectly is called a recursive function.
+- Recursive functions are closely related to computability theory, which investigates the limits of what can be computed by machines such as Turing machines  .
+- A recursive function is called total if it is defined for every input, or equivalently, if it can be computed by a total Turing machine.
+- A recursive function is called partial if it is not defined for some inputs, or equivalently, if it can be computed by a partial Turing machine.
+- A recursive function is called primitive recursive if it can be defined using only basic arithmetic operations, zero, successor, and bounded recursion  .
+- A recursive function is called general recursive or simply recursive if it can be defined using unbounded recursion, or equivalently, if it can be computed by a Turing machine  .
+- A recursive function is called computable if it can be computed by an algorithm, or equivalently, if it is general recursive  .
+- A recursive function is called uncomputable if it cannot be computed by any algorithm, or equivalently, if it is not general recursive  .
+- A set of natural numbers is called recursive or computable if its characteristic function (which returns 1 if the input belongs to the set and 0 otherwise) is recursive  .
+- A set of natural numbers is called recursively enumerable or semi-computable if its enumeration function (which lists the elements of the set in some order) is recursive  .
+- A set of natural numbers is called co-recursively enumerable or co-semi-computable if its complement is recursively enumerable  .
+- A set of natural numbers is called decidable if it is recursive, and undecidable if it is not recursive  .
+- A set of natural numbers is called semi-decidable if it is recursively enumerable, and co-semi-decidable if it is co-recursively enumerable  .
+- A set of natural numbers is called creative if it is recursively enumerable but not recursive, and its complement is not recursively enumerable  .
+- A set of natural numbers is called simple if it is recursively enumerable but not recursive, and its complement is infinite and recursive  .
+- A set of natural numbers is called m-complete if it is recursively enumerable but not recursive, and every recursively enumerable set is reducible to it  .
+- A set of natural numbers is called m-intermediate if it is recursively enumerable but not recursive, and neither reducible to nor from any m-complete set  .
+- A set of natural numbers is called m-simple if it is recursively enumerable but not recursive, and its complement is infinite and co-recursively enumerable  .
+- A set of natural numbers is called productive if it is recursively enumerable but not recursive, and there is a recursive function that produces an element of the set from any recursive function that enumerates a subset of the set  .
+- A set of natural numbers is called immune if it is infinite and recursive, and none of its infinite subsets is recursively enumerable  .
+- A set of natural numbers is called hyperimmune if it is infinite and recursive, and there is no recursive function that dominates its enumeration function  .
+- A set of natural numbers is called hyperimmune-free if it is

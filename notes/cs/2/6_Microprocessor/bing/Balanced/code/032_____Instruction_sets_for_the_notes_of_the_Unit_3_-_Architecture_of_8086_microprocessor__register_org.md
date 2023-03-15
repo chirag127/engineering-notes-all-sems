@@ -1,0 +1,34 @@
+# Unit 3 - Architecture of 8086 microprocessor: register organization, bus interface unit, execution unit, memory addressing, and memory segmentation. Operating modes. Instruction sets, instruction format, Types of instructions. Interrupts: hardware and software interrupts.
+
+- The 8086 microprocessor is a 16-bit microprocessor that was designed by Intel in 1976.
+- It has 20 address lines and 16 data lines that provide up to 1 MB of memory space.
+- It consists of two main components: the bus interface unit (BIU) and the execution unit (EU).
+- The BIU is responsible for fetching instructions from memory, generating memory addresses, and transferring data to and from memory and I/O devices.
+- The EU is responsible for decoding and executing instructions, performing arithmetic and logical operations, and controlling the flags register.
+- The 8086 microprocessor has 14 registers, divided into four groups: general-purpose registers, segment registers, pointer and index registers, and flag register.
+- The general-purpose registers are AX, BX, CX, and DX, each 16-bit wide and can be accessed as two 8-bit registers (AH, AL, BH, BL, CH, CL, DH, DL).
+- The segment registers are CS, DS, SS, and ES, each 16-bit wide and used to store the base addresses of the code, data, stack, and extra segments respectively.
+- The pointer and index registers are IP, SP, BP, SI, and DI, each 16-bit wide and used to store the instruction pointer, stack pointer, base pointer, source index, and destination index respectively.
+- The flag register is a 16-bit register that contains 9 flags that indicate the status of the EU after an operation. The flags are: carry, parity, auxiliary carry, zero, sign, trap, interrupt, direction, and overflow.
+- The 8086 microprocessor supports two operating modes: minimum mode and maximum mode.
+- In minimum mode, the 8086 operates as a single processor in a system and uses the MN/MX pin to control the bus signals.
+- In maximum mode, the 8086 operates as a master processor in a multiprocessor system and uses the MN/MX pin to communicate with the bus controller chip 8288.
+- The 8086 microprocessor supports a powerful instruction set, which provides operations like multiplication and division easily.
+- The instruction set can be classified into 8 types: data transfer, arithmetic, bit manipulation, string, program execution transfer, processor control, iteration control, and interrupt.
+- The instruction format consists of one or more bytes, divided into three fields: prefix, opcode, and operand.
+- The prefix field is optional and used to modify the default segment, repeat string operations, or lock the bus.
+- The opcode field is mandatory and specifies the operation to be performed.
+- The operand field is optional and specifies the source and/or destination of the data.
+- The operands can be classified into four types: immediate, register, memory, and I/O port.
+- The immediate operand is a constant value that is part of the instruction.
+- The register operand is a value stored in one of the registers.
+- The memory operand is a value stored in a memory location, specified by a segment and an offset.
+- The I/O port operand is a value stored in an I/O device, specified by a port number.
+- The 8086 microprocessor supports two types of interrupts: hardware and software.
+- Hardware interrupts are external signals that cause the processor to suspend the current program and execute a service routine.
+- Software interrupts are instructions that cause the processor to execute a service routine.
+- The 8086 microprocessor has 256 interrupt vectors, each 4 bytes long, stored in the first 1 KB of memory.
+- The interrupt vector contains the segment and offset of the service routine.
+- The 8086 microprocessor recognizes 5 hardware interrupts: INTR, NMI, RESET, HOLD, and HLDA.
+- The INTR interrupt is a maskable interrupt that can be enabled or disabled by the EI and DI instructions.
+- The NMI

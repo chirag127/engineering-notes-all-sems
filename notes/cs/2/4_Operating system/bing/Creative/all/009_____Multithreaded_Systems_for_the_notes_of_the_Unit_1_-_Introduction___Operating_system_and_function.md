@@ -1,0 +1,23 @@
+# Multithreaded Systems
+
+- Multithreading is the ability of a program or an operating system to enable more than one user at a time without requiring multiple copies of the program running on the computer.
+- Multithreading can also handle multiple requests from the same user. Each user request for a program or system service is tracked as a thread with a separate identity.
+- Multithreading scenario includes multiple users working in the same system or processor, running different applications and issuing different commands at a given time and the operating system executes all the threads from all the users in parallel.
+- The processor should have sufficient power to manage multithreading operations.
+- Multithreading can be of two different types, such as concurrent and parallel multithread executions.
+- Concurrent multithreading is when the threads are executed one after another in a time-sharing manner, giving the illusion of parallelism.
+- Parallel multithreading is when the threads are executed simultaneously on multiple cores or processors, achieving true parallelism.
+- A thread can be defined as a chunk or unit of a process that can be identified as either a user-level thread or a kernel-level thread.
+- User-level threads are created and managed by the user-level libraries, without the intervention of the operating system.
+- Kernel-level threads are created and managed by the operating system, which has full control over their scheduling and execution.
+- Multithreading has several advantages, such as:
+  - Improved performance and responsiveness of the system.
+  - Better utilization of the CPU resources.
+  - Reduced overhead and context switching time compared to processes.
+  - Easier to create and maintain than processes.
+  - Increased concurrency and parallelism in the system.
+- Multithreading also has some disadvantages, such as:
+  - Increased complexity and difficulty of debugging and testing.
+  - Potential synchronization and data sharing issues among threads.
+  - Dependency on the operating system and hardware support.
+  - Possible security and reliability risks due to shared memory and resources.

@@ -1,0 +1,34 @@
+### Encoding process for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Encoding is the process of turning thoughts into communication.
+- The encoder is the person who creates the message, adapts it to the receiver, and transmits it across a channel.
+- The encoding process is based on the purpose of communication and the relation between the sender and the receiver.
+- The encoder uses symbols to communicate their message, such as words, gestures, images, sounds, etc.
+- The encoder has to consider the following factors when encoding a message:
+  - The context of the communication situation
+  - The characteristics of the receiver, such as their needs, interests, knowledge, attitudes, etc
+  - The channel of communication, such as oral, written, visual, etc
+  - The code of communication, such as the language, grammar, vocabulary, etc
+  - The feedback from the receiver, such as their reactions, responses, questions, etc
+- The encoding process can be affected by various barriers, such as:
+  - Semantic barriers, such as the use of ambiguous, unclear, or unfamiliar words or symbols
+  - Psychological barriers, such as the emotions, attitudes, or biases of the encoder or the receiver
+  - Physical barriers, such as the noise, distance, or interference in the channel of communication
+  - Cultural barriers, such as the differences in the values, beliefs, or norms of the encoder or the receiver
+- The encoding process can be improved by using the following strategies:
+  - Choosing the appropriate channel and code of communication for the message and the receiver
+  - Using clear, simple, and precise words or symbols that convey the intended meaning
+  - Using nonverbal cues, such as gestures, facial expressions, or tone of voice, to support the verbal message
+  - Adapting the message to the context and the characteristics of the receiver
+  - Seeking feedback from the receiver to check their understanding and to clarify any doubts or confusion
+- The encoding process is especially important in oral communication, as it involves the use of voice dynamics, such as:
+  - Volume, which is the loudness or softness of the voice
+  - Pitch, which is the highness or lowness of the voice
+  - Rate, which is the speed or slowness of the speech
+  - Pause, which is the silence or hesitation between words or sentences
+  - Stress, which is the emphasis or accent on certain words or syllables
+  - Intonation, which is the rise and fall of the voice
+  - Articulation, which is the clarity and accuracy of the pronunciation
+  - Fluency, which is the smoothness and continuity of the speech
+- The encoder has to use voice dynamics effectively to convey the message, to express the emotions, and to engage the receiver in oral communication.
+- The encoder has to practice and rehearse the oral message before delivering it, to improve the encoding process and to overcome any anxiety or nervousness.

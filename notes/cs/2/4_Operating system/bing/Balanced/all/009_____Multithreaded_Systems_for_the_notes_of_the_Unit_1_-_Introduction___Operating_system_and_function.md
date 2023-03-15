@@ -1,0 +1,21 @@
+# Multithreaded Systems
+
+- A multithreaded system is a system that can execute multiple threads of execution concurrently, supported by the operating system.
+- A thread is a path which is followed during a program’s execution. It is a lightweight process that the operating system can schedule and run concurrently with other threads.
+- A thread can be either a user-level thread or a kernel-level thread, depending on whether it is managed by the user program or the operating system kernel.
+- Multithreading can improve the performance and responsiveness of a system by utilizing the CPU resources more efficiently and allowing multiple tasks to run in parallel.
+- Multithreading can also handle multiple requests from the same user or different users without requiring multiple copies of the program running on the computer.
+- Multithreading can be of two different types, such as concurrent and parallel multithread executions.
+  - Concurrent multithreading is when multiple threads are executed on a single processor by switching between them in a time-sliced manner.
+  - Parallel multithreading is when multiple threads are executed on multiple processors simultaneously.
+- Multithreading has some advantages and disadvantages, such as:
+  - Advantages:
+    - Increased throughput and CPU utilization.
+    - Reduced context switching overhead and memory consumption.
+    - Enhanced user interface and interactivity.
+    - Simplified program structure and development.
+  - Disadvantages:
+    - Increased complexity and difficulty of debugging.
+    - Potential synchronization and data consistency issues.
+    - Dependency on the operating system and hardware support.
+    - Possible security and reliability risks.

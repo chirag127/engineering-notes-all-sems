@@ -1,0 +1,33 @@
+## Unit 6 - Trees
+
+- A tree is a nonlinear data structure that consists of nodes connected by edges.
+- A tree has the following properties:
+  - There is one node called the root, which has no parent.
+  - Every node other than the root has exactly one parent node.
+  - There is a unique path from the root to every node.
+  - A node with no children is called a leaf node.
+  - A node with at least one child is called an internal node.
+  - The height of a node is the number of edges on the longest path from the node to a leaf.
+  - The depth of a node is the number of edges on the path from the node to the root.
+  - The level of a node is the depth of the node plus one.
+  - The height of a tree is the height of the root node.
+  - The size of a tree is the number of nodes in the tree.
+- A tree can be represented in different ways, such as:
+  - A linked list of nodes, where each node has a data field and a pointer to its parent and children.
+  - An array, where the index of a node is its level-order position and the parent-child relationship is determined by a formula.
+  - A nested list, where each element is either a data value or a sublist representing a subtree.
+- A tree can be traversed in different ways, such as:
+  - Preorder traversal, where the root is visited first, then the left subtree, then the right subtree.
+  - Inorder traversal, where the left subtree is visited first, then the root, then the right subtree.
+  - Postorder traversal, where the left subtree is visited first, then the right subtree, then the root.
+  - Level-order traversal, where the nodes are visited in increasing order of their levels.
+- A tree can be classified into different types, such as:
+  - Binary tree, where each node has at most two children.
+  - Binary search tree, where each node has a key and the keys in the left subtree are smaller than the key of the node and the keys in the right subtree are larger than the key of the node.
+  - Balanced binary tree, where the height of the left and right subtrees of every node differ by at most one.
+  - Complete binary tree, where every level except the last is completely filled and the nodes in the last level are as far left as possible.
+  - Full binary tree, where every node has either zero or two children.
+  - Perfect binary tree, where every node has two children and all the leaves are at the same level.
+  - General tree, where each node can have any number of children.
+  - Ordered tree, where the children of a node are ordered from left to right.
+  - Forest, where a set of disjoint trees are considered as a single data structure.

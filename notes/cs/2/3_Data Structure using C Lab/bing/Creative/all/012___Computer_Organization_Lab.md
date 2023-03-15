@@ -1,0 +1,22 @@
+# Computer Organization Lab
+
+- Computer organization lab is a course that teaches the students the basic concepts and principles of computer hardware and architecture.
+- The main objectives of this course are:
+  - To understand the structure and function of various components of a computer system, such as CPU, memory, I/O devices, buses, etc.
+  - To learn how to design and implement simple digital circuits using logic gates, flip-flops, multiplexers, decoders, etc.
+  - To learn how to use assembly language and machine code to program a microprocessor or a microcontroller.
+  - To learn how to use simulation tools and hardware kits to test and debug the digital circuits and programs.
+- The main topics covered in this course are:
+  - Number systems and data representation
+  - Boolean algebra and logic gates
+  - Combinational and sequential circuits
+  - Registers, counters, and memory units
+  - Instruction set architecture and assembly language
+  - Arithmetic and logic unit (ALU) and control unit (CU)
+  - Input/output and interrupts
+  - Microprocessor and microcontroller
+- The main outcomes of this course are:
+  - The students will be able to analyze and design simple digital circuits using logic gates and flip-flops.
+  - The students will be able to write and execute assembly language and machine code programs for a microprocessor or a microcontroller.
+  - The students will be able to use simulation tools and hardware kits to verify and demonstrate the functionality of the digital circuits and programs.
+  - The students will be able to apply the knowledge of computer organization and architecture to solve real-world problems.

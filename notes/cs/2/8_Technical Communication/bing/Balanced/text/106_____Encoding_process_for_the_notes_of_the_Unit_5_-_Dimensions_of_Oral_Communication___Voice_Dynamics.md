@@ -1,0 +1,24 @@
+### Encoding process for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Encoding is the process of turning thoughts into communication.
+- The encoder is the person who creates the message, adapts it to the receiver, and transmits it across a channel.
+- The encoding process is based on the purpose of communication and the relation between the sender and the receiver.
+- The encoder uses symbols to communicate their message, such as words, gestures, images, sounds, etc.
+- The encoder has to consider the following factors when encoding a message:
+  - The context of the communication: the situation, setting, time, and place of the interaction.
+  - The content of the communication: the information, ideas, opinions, or emotions that are being conveyed.
+  - The code of the communication: the system of symbols, signs, or rules that are used to express the message.
+  - The channel of the communication: the medium or tool that is used to transmit the message, such as speech, writing, video, etc.
+  - The receiver of the communication: the person or group who is intended to receive and interpret the message.
+- The encoder has to choose the appropriate code and channel for the message, depending on the context, content, and receiver.
+- The encoder has to ensure that the message is clear, concise, coherent, and complete.
+- The encoder has to avoid any barriers or noise that may interfere with the encoding or transmission of the message, such as ambiguity, distortion, distraction, or misunderstanding.
+- The encoder has to provide feedback to the receiver to check if the message has been received and understood correctly.
+- The encoding process is influenced by the dimensions of oral communication and voice dynamics, such as:
+  - The purpose of the speech: the goal or objective that the speaker wants to achieve with the communication.
+  - The audience analysis: the process of identifying and understanding the characteristics, needs, interests, and expectations of the listeners.
+  - The topic selection: the process of choosing a subject that is relevant, appropriate, and interesting for the speaker and the audience.
+  - The speech organization: the process of arranging the main points and supporting materials of the speech in a logical and coherent structure.
+  - The language use: the process of selecting and using words, phrases, and sentences that are clear, accurate, and effective for the communication.
+  - The delivery: the process of presenting the speech orally, using vocal and nonverbal elements, such as voice, tone, pitch, volume, rate, pause, gesture, eye contact, etc.
+  - The visual aids: the process of using images, graphs, charts, diagrams, or other visual elements to enhance the communication and support the message.

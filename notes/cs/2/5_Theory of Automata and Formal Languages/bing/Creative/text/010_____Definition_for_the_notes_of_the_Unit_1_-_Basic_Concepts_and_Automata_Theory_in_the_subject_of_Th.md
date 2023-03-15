@@ -1,0 +1,25 @@
+### Definition for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+
+- **Alphabet**: A finite, non-empty set of symbols, usually denoted by Σ.
+- **String**: A finite sequence of symbols from an alphabet, also called a word.
+- **Language**: A set of strings over an alphabet, usually denoted by L.
+- **Empty string**: The string of length zero, denoted by ε or λ.
+- **Concatenation**: The operation of joining two strings together, denoted by a dot (.) or simply by writing the strings next to each other.
+- **Kleene star**: The operation of forming the set of all possible strings of any length (including zero) from an alphabet, denoted by Σ*.
+- **Kleene plus**: The operation of forming the set of all possible strings of positive length from an alphabet, denoted by Σ+.
+- **Length**: The number of symbols in a string, denoted by |w| for a string w.
+- **Prefix**: A substring of a string that occurs at the beginning of the string, denoted by w[1..i] for a string w and an index i.
+- **Suffix**: A substring of a string that occurs at the end of the string, denoted by w[i..n] for a string w, an index i, and the length n of w.
+- **Subsequence**: A string obtained by deleting zero or more symbols from a string, denoted by w[i1..ik] for a string w and a sequence of indices i1..ik.
+- **Substring**: A string obtained by deleting zero or more symbols from both ends of a string, denoted by w[i..j] for a string w and a pair of indices i and j.
+- **Reversal**: The operation of reversing the order of symbols in a string, denoted by w^R for a string w.
+- **Palindrome**: A string that is equal to its reversal, such as "racecar" or "abba".
+- **Power**: The operation of repeating a string a certain number of times, denoted by w^k for a string w and a non-negative integer k.
+- **Automaton**: An abstract model of computation that consists of a finite set of states, a finite set of input symbols, a transition function that maps states and input symbols to states, an initial state, and a set of final or accepting states.
+- **Deterministic Finite Automaton (DFA)**: An automaton that has exactly one transition for each state and input symbol, and accepts a string if and only if the sequence of transitions leads to a final state.
+- **Nondeterministic Finite Automaton (NFA)**: An automaton that may have zero, one, or more transitions for each state and input symbol, and accepts a string if and only if there exists a sequence of transitions that leads to a final state.
+- **ε-transition**: A transition in an NFA that does not consume any input symbol, and can be taken spontaneously from a state.
+- **ε-closure**: The set of states that can be reached from a state by taking zero or more ε-transitions.
+- **Equivalence of DFA and NFA**: The property that for any NFA, there exists a DFA that accepts the same language, and vice versa.
+- **Regular expression**: A notation for describing a language using symbols, parentheses, concatenation, union, and Kleene star.
+- **Equivalence of regular expressions and finite automata**: The property that for any regular expression, there exists a finite automaton that accepts the same language, and vice versa.

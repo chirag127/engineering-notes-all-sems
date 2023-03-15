@@ -1,0 +1,37 @@
+### Process Concept
+
+- A process is a program in execution which then forms the basis of all computation.
+- A process is more than the program code as it includes the program counter, process stack, registers, program code etc.
+- A process is defined as an entity which represents the basic unit of work to be implemented in the system.
+- A process is an active program i.e a program that is under execution.
+- A process can be in one of the following states: new, ready, running, waiting, terminated.
+- A process control block (PCB) is a data structure that contains the information about a process, such as its identifier, state, priority, program counter, memory allocation, etc.
+- A process can be created by another process, called the parent process, using a system call such as fork or spawn.
+- A process can communicate with another process, called the child process, using a system call such as pipe or message queue.
+- A process can terminate itself or another process using a system call such as exit or kill.
+- A process can be suspended or resumed by the operating system, which manages the CPU allocation and scheduling of the processes.
+- A process can be classified into two types: user process and kernel process.
+  - A user process is a process that executes user-level code, such as applications and utilities.
+  - A kernel process is a process that executes kernel-level code, such as device drivers and system services.
+- A process can be further divided into threads, which are the basic units of CPU utilization.
+  - A thread is a sequence of instructions that can be executed independently within a process.
+  - A thread shares the same address space and resources as the process it belongs to.
+  - A thread can be created, terminated, suspended, resumed, and synchronized by the process or the operating system.
+  - A thread can be classified into two types: user thread and kernel thread.
+    - A user thread is a thread that is managed by a user-level library, such as POSIX threads or Java threads.
+    - A kernel thread is a thread that is managed by the operating system, such as Windows threads or Linux threads.
+- A process can be executed in one of the following modes: user mode and kernel mode.
+  - A user mode is a mode in which a process executes user-level code, such as applications and utilities.
+  - A kernel mode is a mode in which a process executes kernel-level code, such as device drivers and system services.
+  - A process can switch from user mode to kernel mode using a system call or an interrupt.
+  - A process can switch from kernel mode to user mode using a return from system call or an interrupt.
+- A process concept is essential for the operating system to perform the following functions:
+  - Process management: the operating system creates, terminates, suspends, resumes, and schedules the processes.
+  - Memory management: the operating system allocates, deallocates, and protects the memory regions for the processes.
+  - File management: the operating system provides the processes with access to files and directories.
+  - Device management: the operating system controls the input/output devices for the processes.
+  - Security management: the operating system enforces the security policies and permissions for the processes.
+  - Inter-process communication: the operating system enables the processes to exchange data and signals.
+  - Resource sharing: the operating system allows the processes to share the resources such as CPU, memory, files, etc.
+  - Concurrency: the operating system supports the simultaneous execution of multiple processes or threads.
+  - Parallelism: the operating system exploits the multiple processors or cores to execute the processes or threads in parallel.

@@ -1,0 +1,18 @@
+### Information Extraction
+
+Information extraction (IE) is the process of automatically extracting structured information from unstructured or semi-structured text documents. It is an important application of artificial intelligence (AI) that can enable various tasks such as data analysis, decision making, knowledge discovery, and information retrieval.
+
+Some of the main components of information extraction are:
+
+- **Document analysis**: This involves preprocessing the text documents to identify the format, layout, language, and structure of the documents. For example, optical character recognition (OCR) can be used to convert scanned images of documents into text.
+- **Named entity recognition (NER)**: This involves identifying and classifying the entities (such as persons, organizations, locations, dates, etc.) that are mentioned in the text documents. For example, NER can be used to extract the names of the authors and the titles of the books from a bibliography.
+- **Relation extraction (RE)**: This involves identifying and classifying the relations (such as affiliation, ownership, causality, etc.) that exist between the entities that are extracted by NER. For example, RE can be used to extract the relation of authorship between the authors and the books from a bibliography.
+- **Event extraction (EE)**: This involves identifying and classifying the events (such as actions, occurrences, states, etc.) that are mentioned in the text documents, as well as the entities and relations that are involved in the events. For example, EE can be used to extract the event of a merger between two companies, as well as the names of the companies and the date of the merger.
+- **Template filling (TF)**: This involves organizing the extracted information into a structured format, such as a table, a graph, or a database. For example, TF can be used to fill a template with the information extracted from a resume, such as the name, education, skills, and work experience of the candidate.
+
+Some of the applications of information extraction are:
+
+- **Banking**: Information extraction can be used to digitize and analyze the records that were previously stored on paper, such as invoices, receipts, contracts, etc. This can help in improving the efficiency, accuracy, and security of the banking operations, as well as providing better customer service and fraud detection.
+- **Healthcare**: Information extraction can be used to extract and organize the information from the medical records, such as the diagnosis, treatment, medication, etc. of the patients. This can help in improving the quality and accessibility of the healthcare services, as well as providing better insights and predictions for the medical research and development.
+- **Legal**: Information extraction can be used to extract and analyze the information from the legal documents, such as the contracts, agreements, patents, etc. This can help in improving the compliance, efficiency, and accuracy of the legal processes, as well as providing better support and advice for the legal professionals and clients.
+- **Media**: Information extraction can be used to extract and summarize the information from the news articles, social media posts, blogs, etc. This can help in providing better information retrieval, analysis, and dissemination for the media consumers and producers, as well as providing better insights and trends for the media research and development.

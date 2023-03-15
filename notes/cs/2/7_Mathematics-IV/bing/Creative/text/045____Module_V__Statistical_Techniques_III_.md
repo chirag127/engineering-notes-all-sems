@@ -1,0 +1,7 @@
+## Module V: Statistical Techniques III:
+
+- This module covers some advanced statistical techniques for data analysis, such as regression, ANOVA, and chi-square tests.
+- Regression is a technique that allows us to model the relationship between a dependent variable and one or more independent variables. There are different types of regression, such as linear, logistic, and multiple regression, depending on the nature of the variables and the research question.
+- ANOVA (analysis of variance) is a technique that allows us to compare the means of two or more groups on a continuous dependent variable. There are different types of ANOVA, such as one-way, two-way, and repeated measures ANOVA, depending on the number and type of independent variables and the research design.
+- Chi-square tests are a technique that allows us to test the association between two categorical variables. There are different types of chi-square tests, such as goodness-of-fit, independence, and homogeneity, depending on the research question and the data structure.
+- In this module, you will learn how to perform these techniques using appropriate software, such as SPSS or R, and how to interpret and report the results. You will also learn how to check the assumptions and limitations of these techniques, and how to handle violations or problems.

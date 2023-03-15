@@ -1,0 +1,21 @@
+# Group Discussion for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- A group discussion is a discussion involving a number of people who are connected by some shared activity, interest, or quality  .
+- A group discussion typically forms a part of the selection process used by organisations and educational institutions.
+- A group discussion can also be used for exchanging ideas, determining goals and motivating other members in a business environment.
+- A group discussion can have various types, such as:
+  - Topic-based: The group is given a specific topic to discuss, such as current affairs, social issues, case studies, etc.
+  - Problem-solving: The group is given a problem or a situation to analyse and suggest solutions, such as business scenarios, ethical dilemmas, crisis management, etc.
+  - Role-playing: The group is assigned different roles to play and interact with each other, such as customer service, sales pitch, negotiation, etc.
+  - Brainstorming: The group is encouraged to generate as many ideas as possible on a given topic or problem, without judging or evaluating them, such as product development, marketing strategy, innovation, etc.
+- A group discussion can have various benefits, such as:
+  - Developing communication skills: A group discussion helps to improve one's verbal and non-verbal communication skills, such as clarity, fluency, listening, body language, etc.
+  - Enhancing critical thinking: A group discussion helps to sharpen one's analytical and logical thinking skills, such as identifying the problem, evaluating the arguments, providing evidence, etc.
+  - Fostering teamwork: A group discussion helps to promote collaboration and cooperation among the group members, such as respecting others' opinions, giving feedback, resolving conflicts, etc.
+  - Building confidence: A group discussion helps to boost one's self-esteem and self-awareness, such as expressing one's views, handling criticism, coping with stress, etc.
+- A group discussion can have various best practices, such as:
+  - Preparing well: A group discussion requires prior research and knowledge on the topic or problem, as well as awareness of the purpose and objectives of the discussion.
+  - Initiating positively: A group discussion can be started by introducing oneself, greeting the other members, stating the topic or problem, and inviting others to participate.
+  - Contributing effectively: A group discussion can be sustained by providing relevant and meaningful information, examples, facts, statistics, etc., as well as asking questions, clarifying doubts, summarising points, etc.
+  - Listening actively: A group discussion can be enriched by paying attention to what others are saying, showing interest and respect, nodding, smiling, etc., as well as avoiding interruptions, distractions, arguments, etc.
+  - Concluding gracefully: A group discussion can be ended by thanking the other members, highlighting the main points, suggesting a course of action, and expressing one's opinion or recommendation.

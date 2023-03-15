@@ -1,0 +1,21 @@
+# System Model for CPU Scheduling
+
+- CPU scheduling is a process that allows one process to use the CPU while the execution of another process is on hold (in waiting state) due to unavailability of any resource like I/O etc, thereby making full use of CPU.
+- The aim of CPU scheduling is to make the system efficient, fast, and fair.
+- CPU scheduling is performed by the operating system using various scheduling algorithms.
+- A system model for CPU scheduling consists of the following components:
+  - A set of processes that are ready to execute on the CPU.
+  - A ready queue that holds the processes that are waiting for the CPU.
+  - A CPU that can execute one process at a time.
+  - A scheduler that selects the next process from the ready queue to run on the CPU.
+  - A dispatcher that switches the context from the current process to the selected process and transfers the control to it.
+- A system model for CPU scheduling can be classified into two types based on the number of processors:
+  - Single-processor system: A system that has only one CPU. The scheduler selects one process from the ready queue and assigns it to the CPU. The dispatcher switches the context between the processes when a process is preempted or terminated.
+  - Multiprocessor system: A system that has more than one CPU. The scheduler can select multiple processes from the ready queue and assign them to different CPUs. The dispatcher can switch the context between the processes on the same CPU or different CPUs. There are two approaches to multiprocessor scheduling: symmetric multiprocessing and asymmetric multiprocessing.
+    - Symmetric multiprocessing: It is used where each processor is self-scheduling. All processes may be in a common ready queue, or each processor may have its private queue for ready processes.
+    - Asymmetric multiprocessing: It is used where only one processor is responsible for scheduling. The other processors execute the processes assigned by the scheduler. The scheduler may have a separate queue for each processor or a common queue for all processors.
+- A system model for CPU scheduling can also be classified into two types based on the type of processes:
+  - Process-based system: A system that treats each process as a single unit of execution. The scheduler selects a process from the ready queue and assigns it to the CPU. The dispatcher switches the context between the processes when a process is preempted or terminated.
+  - Thread-based system: A system that treats each thread as a unit of execution. A thread is a subset of a process that can run independently. A process can have multiple threads that share the same address space and resources. The scheduler selects a thread from the ready queue and assigns it to the CPU. The dispatcher switches the context between the threads when a thread is preempted or terminated. There are two types of threads: user-level threads and kernel-level threads.
+    - User-level threads: They are managed by the user-level thread library. The operating system is unaware of the existence of user-level threads. The thread library is responsible for creating, scheduling, and switching the user-level threads. The operating system sees only one process for each user-level thread group.
+    - Kernel-level threads: They are managed by the operating system. The operating system is aware of the existence of kernel-level threads. The operating system is responsible for creating, scheduling, and switching the kernel-level threads. The operating system sees multiple processes for each kernel-level thread group.

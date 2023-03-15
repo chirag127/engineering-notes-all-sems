@@ -1,0 +1,8 @@
+### Group Homomorphisms
+
+- A group homomorphism is a function that maps one group to another group in such a way that the group operation is preserved. That is, if $G$ and $H$ are groups with operations $\ast$ and $\cdot$, respectively, then a function $h:G\to H$ is a group homomorphism if for all $u,v\in G$, we have $h(u\ast v)=h(u)\cdot h(v)$.
+- A group homomorphism preserves the identity element and the inverse element of a group. That is, if $h:G\to H$ is a group homomorphism, then $h(e_G)=e_H$, where $e_G$ and $e_H$ are the identity elements of $G$ and $H$, respectively, and $h(u^{-1})=h(u)^{-1}$ for all $u\in G$.
+- The kernel of a group homomorphism is the set of all elements in the domain that are mapped to the identity element in the codomain. That is, if $h:G\to H$ is a group homomorphism, then $\ker h=\{u\in G\mid h(u)=e_H\}$.
+- The image of a group homomorphism is the set of all elements in the codomain that are mapped from some element in the domain. That is, if $h:G\to H$ is a group homomorphism, then $\operatorname{im} h=\{h(u)\mid u\in G\}$.
+- A group homomorphism is injective if and only if its kernel is trivial, that is, $\ker h=\{e_G\}$. A group homomorphism is surjective if and only if its image is the whole codomain, that is, $\operatorname{im} h=H$.
+- A group homomorphism that is both injective and surjective is called an isomorphism. Two groups that are isomorphic have the same algebraic structure and are essentially the same group, except for the names of the elements. If there exists an isomorphism between $G$ and $H$, we write $G\cong H$ and say that $G$ and $H$ are isomorphic groups.

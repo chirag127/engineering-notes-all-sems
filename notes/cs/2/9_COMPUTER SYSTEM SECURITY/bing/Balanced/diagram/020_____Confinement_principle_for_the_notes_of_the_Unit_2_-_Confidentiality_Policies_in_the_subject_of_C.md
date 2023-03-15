@@ -1,0 +1,10 @@
+### Confinement principle
+
+- The confinement principle is a security principle that says that a server shouldn't give out information that the user of the service thinks is private.
+- The confinement principle stops a process from doing things that are not allowed, such as leaking sensitive data or compromising the system .
+- Confinement is a mechanism for enforcing the principle of least privilege, which means that a process should only have the minimum permissions and resources necessary to perform its function .
+- The problem of confinement is that the confined process may need to transmit data to another process, and the confinement mechanism must distinguish between transmission of authorized data and transmission of unauthorized data.
+- This presents a dilemma in that modern computers are designed to share resources and yet by the act of sharing they create channels of communication along which information can be leaked.
+- Confinement can be implemented at different levels, such as threads, applications, processes, or virtual machines.
+- Confinement can be achieved by various techniques, such as encryption, sandboxing, access control, or isolation .
+- Confinement is a challenging problem in computer security, as it requires balancing the trade-off between functionality and protection .

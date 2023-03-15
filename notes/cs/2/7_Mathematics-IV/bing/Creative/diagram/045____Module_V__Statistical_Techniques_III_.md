@@ -1,0 +1,7 @@
+## Module V: Statistical Techniques III:
+
+- This module covers some advanced statistical techniques for data analysis, such as regression, ANOVA, and chi-square tests.
+- Regression is a technique that models the relationship between a dependent variable and one or more independent variables. It can be used to test hypotheses, estimate parameters, and make predictions.
+- ANOVA (analysis of variance) is a technique that compares the means of two or more groups of data. It can be used to test whether the groups have different means, and if so, which groups are different from each other.
+- Chi-square tests are techniques that compare the observed frequencies of categorical data with the expected frequencies under a null hypothesis. They can be used to test whether the data are consistent with the null hypothesis, or whether there is some association or difference between the categories.
+- The module also introduces some concepts and methods for dealing with non-parametric data, such as rank tests, sign tests, and Wilcoxon tests. Non-parametric data are data that do not follow a normal distribution or have unknown parameters. Non-parametric tests are based on the ranks or signs of the data, rather than the actual values. They are less powerful than parametric tests, but more robust and flexible.

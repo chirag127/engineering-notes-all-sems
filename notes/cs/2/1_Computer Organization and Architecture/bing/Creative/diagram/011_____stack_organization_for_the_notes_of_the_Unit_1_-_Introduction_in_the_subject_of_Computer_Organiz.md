@@ -1,0 +1,22 @@
+### Stack Organization
+
+- A stack is a data structure that stores information in a last-in, first-out (LIFO) order. The item stored last is the first item retrieved. 
+- A stack is a useful feature that is included in the CPU of most computers. It can be used for various purposes, such as:
+  - Function calls and returns
+  - Parameter passing
+  - Local variable storage
+  - Expression evaluation
+  - Interrupt handling
+- A stack can be implemented in two ways: 
+  - Register stack: It is built using registers in the CPU. It has a fixed size and a fast access time.
+  - Memory stack: It is a logical part of memory allocated as stack. It has a variable size and a slower access time.
+- A stack pointer (SP) is a register that stores the address of the topmost element of the stack. The SP is updated whenever an item is pushed or popped from the stack. 
+- A stack can be accessed by two basic operations: 
+  - Push: It adds an item to the top of the stack and increments the SP.
+  - Pop: It removes an item from the top of the stack and decrements the SP.
+- A stack-based CPU organization is a type of CPU that uses a stack as the main data structure for instruction execution. It has the following characteristics: 
+  - It has a simple instruction format, with no operands or one operand.
+  - It has a simple instruction set, with mostly arithmetic and logical operations.
+  - It has a simple addressing mode, with implicit operands on the stack.
+  - It has a high code density, with fewer bytes per instruction.
+  - It has a low hardware complexity, with fewer registers and buses.

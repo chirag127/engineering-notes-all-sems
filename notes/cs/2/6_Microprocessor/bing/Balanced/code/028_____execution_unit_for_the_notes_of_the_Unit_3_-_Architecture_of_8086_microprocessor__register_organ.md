@@ -1,0 +1,12 @@
+### Execution Unit for the notes of the Unit 3 - Architecture of 8086 microprocessor
+
+- The execution unit (EU) is the part of the 8086 microprocessor that performs the arithmetic and logical operations on the data and executes the instructions  .
+- The EU consists of the following components :
+  - Arithmetic and Logic Unit (ALU): It performs arithmetic operations like addition, subtraction, multiplication, and division, and logical operations like AND, OR, XOR, NOT, etc. It also sets the flags in the flag register according to the result of the operation.
+  - General Purpose Registers: There are eight 16-bit registers that can be used for storing data, addresses, or operands. They are AX, BX, CX, DX, SI, DI, BP, and SP. Some of them have special functions or can be divided into two 8-bit registers for byte operations.
+  - Flag Register: It is a 16-bit register that contains nine flags that indicate the status of the EU after an operation. The flags are carry, overflow, sign, zero, auxiliary carry, parity, trap, interrupt enable, and direction.
+  - Instruction Pointer: It is a 16-bit register that holds the offset address of the next instruction to be fetched from the memory. It is automatically incremented by the EU after each instruction fetch.
+  - Instruction Decoder: It decodes the instruction fetched from the memory and generates the control signals for the EU and the BIU to execute the instruction.
+  - Control Circuitry: It coordinates the activities of the EU and the BIU and handles the interrupts and exceptions.
+- The EU communicates with the bus interface unit (BIU) through an internal 16-bit data bus  . The BIU fetches the instructions and data from the memory or I/O devices and stores them in a 6-byte instruction queue. The EU reads the instructions and data from the queue and executes them. The EU can also send the data back to the BIU for storing them in the memory or I/O devices.
+- The EU can operate in two modes: minimum mode and maximum mode . In minimum mode, the 8086 microprocessor works as a single processor in a system. In maximum mode, the 8086 microprocessor works as a master processor in a multiprocessor system with other coprocessors like 8087, 8089, etc. The mode is selected by the MN/MX# pin on the 8086 chip.

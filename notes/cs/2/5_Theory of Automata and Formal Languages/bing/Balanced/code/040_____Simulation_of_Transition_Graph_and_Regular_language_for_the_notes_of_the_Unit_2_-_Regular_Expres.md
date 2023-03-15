@@ -1,0 +1,10 @@
+### Simulation of Transition Graph and Regular Language
+
+- A transition graph is a graphical representation of a finite automaton, which is a mathematical model of a machine that can recognize a regular language.
+- A regular language is a set of strings that can be described by a regular expression, which is a notation for specifying patterns of characters using symbols such as concatenation, union, and Kleene star.
+- A transition graph consists of a finite set of states, a finite set of input symbols, a start state, a set of final states, and a transition function that maps each state and input symbol to a next state.
+- A transition graph can be simulated by reading an input string from left to right and following the transitions according to the input symbols. If the simulation ends in a final state, the input string is accepted by the transition graph. Otherwise, the input string is rejected.
+- A transition graph can also be simulated by using a transition table, which is a tabular representation of the transition function. Each row of the table corresponds to a state, and each column corresponds to an input symbol. The entry in each cell indicates the next state for that state and input symbol.
+- A transition graph can be converted to a regular expression by using the state elimination method, which is a systematic procedure for removing states from the transition graph and replacing the transitions with regular expressions that denote the same language.
+- A regular expression can be converted to a transition graph by using the Thompson's construction method, which is a recursive algorithm for constructing a transition graph from the basic components of the regular expression, such as concatenation, union, and Kleene star.
+- A transition graph can be minimized by using the Hopcroft's algorithm, which is an efficient method for finding the smallest equivalent transition graph for a given regular language. The algorithm partitions the states into equivalence classes based on their distinguishability by input strings, and then merges the equivalent states into a single state.

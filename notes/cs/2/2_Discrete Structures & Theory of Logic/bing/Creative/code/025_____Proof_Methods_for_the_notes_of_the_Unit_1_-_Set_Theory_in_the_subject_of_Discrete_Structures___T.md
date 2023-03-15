@@ -1,0 +1,20 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of proof methods for the notes of the unit 1 - set theory in the subject of discrete structures and theory of logic.
+
+### Proof Methods
+
+A proof is a logical argument that establishes the validity of a statement or a theorem. A proof consists of a sequence of statements that are either axioms, definitions, or logical consequences of previous statements. A proof must follow the rules of logic and be clear and unambiguous.
+
+There are different methods of proof that can be used depending on the type of statement or theorem to be proved. Some of the common proof methods are:
+
+- **Direct proof**: A direct proof shows that a statement of the form "if p, then q" is true by assuming that p is true and then using logic to show that q must also be true. For example, to prove that if x is an even integer, then x + 2 is also an even integer, we can assume that x is an even integer, which means that x = 2k for some integer k, and then show that x + 2 = 2k + 2 = 2(k + 1), which is also an even integer.
+
+- **Indirect proof**: An indirect proof shows that a statement of the form "if p, then q" is true by assuming that q is false and then using logic to show that p must also be false. This is also known as proof by contradiction or reductio ad absurdum. For example, to prove that the square root of 2 is irrational, we can assume that it is rational, which means that it can be written as a fraction of two integers, say a/b, where a and b have no common factors. Then we can show that this leads to a contradiction, such as a and b both being even, which contradicts the assumption that they have no common factors.
+
+- **Contrapositive proof**: A contrapositive proof shows that a statement of the form "if p, then q" is true by showing that its contrapositive, "if not q, then not p", is true. This is based on the fact that a statement and its contrapositive are logically equivalent. For example, to prove that if x is odd, then x + 1 is even, we can show that its contrapositive, if x + 1 is odd, then x is even, is true. This can be done by assuming that x + 1 is odd, which means that x + 1 = 2k + 1 for some integer k, and then showing that x = x + 1 - 1 = 2k + 1 - 1 = 2k, which is even.
+
+- **Proof by cases**: A proof by cases shows that a statement is true by dividing the possible cases into mutually exclusive and exhaustive subcases and then proving the statement for each subcase. For example, to prove that the absolute value of any integer is non-negative, we can consider two cases: either the integer is positive or negative. In the first case, the absolute value is equal to the integer, which is positive, and in the second case, the absolute value is equal to the negative of the integer, which is also positive. Therefore, in both cases, the absolute value is non-negative.
+
+- **Proof by induction**: A proof by induction shows that a statement is true for all natural numbers by proving two steps: the base case and the induction step. The base case shows that the statement is true for the smallest natural number, usually 0 or 1. The induction step shows that if the statement is true for some natural number k, then it is also true for the next natural number k + 1. This implies that the statement is true for all natural numbers by the principle of mathematical induction. For example, to prove that the sum of the first n natural numbers is n(n + 1)/2 for all natural numbers n, we can use induction as follows:
+
+  - Base case: When n = 1, the sum of the first natural number is 1, which is equal to 1(1 + 1)/2, so the statement is true for n = 1.
+  - Induction step: Assume that the statement is true for some natural number k, that is, the sum of the first k natural numbers is k(k + 1)/2. Then we can show that the statement is also true for k + 1, that is, the sum of the first k + 1 natural numbers is (k + 1)((k + 1) + 1)/2. This can be done by adding

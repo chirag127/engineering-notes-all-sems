@@ -1,0 +1,23 @@
+# Probability mass function and Probability density function
+
+- A **probability mass function (PMF)** is a function that gives the probability that a **discrete random variable** is exactly equal to some value.
+- A **probability density function (PDF)** is a function that gives the probability that a **continuous random variable** falls within some interval.
+- A PMF differs from a PDF in that the latter must be **integrated** over an interval to yield a probability, while the former can be directly evaluated at a point.
+- The value of the random variable having the largest probability mass or density is called the **mode**.
+- The shape of the graph of a PDF is often a **bell curve**, while the shape of the graph of a PMF is often a **histogram**.
+- The properties of a PMF are:
+  - It is **non-negative**, i.e., f(x) ≥ 0 for all x in the sample space.
+  - It **sums up to one**, i.e., ∑f(x) = 1 for all x in the sample space.
+  - It gives the **probability** of each outcome, i.e., P(X = x) = f(x) for all x in the sample space.
+- The properties of a PDF are:
+  - It is **non-negative**, i.e., f(x) ≥ 0 for all x in the sample space.
+  - It **integrates to one**, i.e., ∫f(x)dx = 1 for all x in the sample space.
+  - It gives the **relative likelihood** of each outcome, i.e., P(a ≤ X ≤ b) = ∫f(x)dx for any interval [a, b] in the sample space.
+- Examples of PMFs are:
+  - The **Bernoulli distribution**, which models a single trial of a binary experiment, such as a coin toss.
+  - The **Binomial distribution**, which models the number of successes in a fixed number of independent Bernoulli trials, such as the number of heads in 10 coin tosses.
+  - The **Poisson distribution**, which models the number of events occurring in a fixed interval of time or space, such as the number of customers arriving at a store in an hour.
+- Examples of PDFs are:
+  - The **Uniform distribution**, which models a random variable that is equally likely to take any value in a given interval, such as the height of a randomly chosen person.
+  - The **Normal distribution**, which models a random variable that is influenced by many small and independent factors, such as the IQ score of a randomly chosen person.
+  - The **Exponential distribution**, which models the time between successive events in a Poisson process, such as the time between customer arrivals at a store.

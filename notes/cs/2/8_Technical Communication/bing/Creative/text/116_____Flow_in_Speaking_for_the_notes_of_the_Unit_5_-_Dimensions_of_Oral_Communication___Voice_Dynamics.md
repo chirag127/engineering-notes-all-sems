@@ -1,0 +1,8 @@
+### Flow in Speaking
+
+Flow in speaking is the smoothness or ease with which sounds, syllables, words and phrases are joined together in speech. Flow in speaking is important for effective oral communication, as it helps the speaker to convey their message clearly and confidently, and it helps the listener to follow and understand the speaker's ideas. Flow in speaking can be improved by following some simple steps, such as:
+
+- Plan and organize your speech before you deliver it. Have a clear purpose, main points, supporting details, and conclusion. Use transitions, signposts, and summaries to connect your ideas and guide your audience.
+- Practice your speech aloud several times, preferably in front of a mirror, a recorder, or a friend. Pay attention to your pronunciation, intonation, stress, and pauses. Try to avoid filler words, such as "um", "uh", "like", or "you know". Use gestures, facial expressions, and eye contact to enhance your delivery.
+- Relax and breathe deeply before and during your speech. Try to calm your nerves and focus on your message, not on your mistakes. Speak at a comfortable pace, not too fast or too slow. Adjust your volume, pitch, and tone according to the situation and the audience.
+- Engage with your audience and get feedback. Show interest and enthusiasm in your topic and your listeners. Ask questions, invite comments, and respond to their reactions. Use humor, stories, examples, and anecdotes to make your speech more lively and memorable. After your speech, ask for constructive criticism and suggestions for improvement.

@@ -1,0 +1,12 @@
+# Presentation for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that conveys technical information to a specific audience, such as engineers, scientists, managers, or customers.
+- The purpose of a technical presentation is to inform, persuade, or instruct the audience about a technical topic, such as a new product, a research project, a problem solution, or a design proposal.
+- A technical presentation should be clear, concise, and coherent, and should use appropriate language, visuals, and delivery techniques to engage the audience and achieve the desired outcome.
+- The steps involved in preparing a technical presentation are:
+
+  - Analyze the audience and the context: Identify the audience's needs, expectations, background, and interests, and determine the goal, scope, and format of the presentation.
+  - Plan the content and structure: Outline the main points and subpoints of the presentation, and organize them in a logical and coherent sequence. Use the introduction, body, and conclusion structure, and include transitions, summaries, and signposts to guide the audience.
+  - Design the visuals: Select and create appropriate visuals, such as graphs, charts, diagrams, tables, images, or videos, to support and enhance the verbal message. Use consistent and clear design principles, such as contrast, alignment, repetition, and proximity, to make the visuals easy to read and understand.
+  - Practice the delivery: Rehearse the presentation several times, preferably in front of a mirror, a recorder, or a friend, and get feedback. Pay attention to the verbal and nonverbal aspects of delivery, such as voice, eye contact, gestures, posture, and movement. Use notes or cue cards, but do not read from them or memorize the script. Anticipate and prepare for possible questions from the audience.
+  - Deliver the presentation: Arrive early and check the equipment and the room setup. Greet the audience and introduce yourself and the topic. Speak clearly, confidently, and enthusiastically, and use appropriate language and tone. Maintain eye contact and rapport with the audience, and use gestures and movement to emphasize key points. Use the visuals effectively, and refer to them when necessary. Conclude the presentation with a summary and a call to action, and invite questions from the audience. Thank the audience and end on a positive note.

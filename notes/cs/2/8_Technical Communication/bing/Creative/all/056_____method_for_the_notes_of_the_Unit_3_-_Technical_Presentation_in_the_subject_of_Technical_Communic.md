@@ -1,0 +1,36 @@
+# Method for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that aims to inform, persuade, or instruct an audience about a specific topic, using clear and concise language, appropriate visuals, and effective delivery techniques.
+- A technical presentation can have various purposes, such as:
+  - To report the results of a research project or experiment.
+  - To propose a new idea, solution, or recommendation for a problem or issue.
+  - To demonstrate how a product, process, or system works or operates.
+  - To teach or train others how to perform a task or use a tool or software.
+  - To persuade others to adopt a certain viewpoint, opinion, or course of action.
+- A technical presentation can have various audiences, such as:
+  - Peers, colleagues, or fellow students who share a common interest or background in the topic.
+  - Supervisors, managers, or instructors who evaluate the quality and relevance of the presentation.
+  - Clients, customers, or stakeholders who have a need or demand for the product, service, or information presented.
+  - General public or media who have a curiosity or concern about the topic.
+- A technical presentation can have various formats, such as:
+  - A stand-alone presentation that is delivered by one or more speakers, with or without visual aids, in front of a live or online audience.
+  - A poster presentation that is displayed on a large board or screen, with brief text and graphics, and accompanied by a short oral explanation by the presenter.
+  - A video presentation that is recorded and edited, with voice-over narration, music, and transitions, and played on a device or platform.
+  - A webinar presentation that is delivered online, with live or recorded audio and video, slides, polls, and chat features, and accessed by the audience through a link or invitation.
+- A technical presentation can have various structures, depending on the purpose, audience, and format, but a common one is the following:
+  - Introduction: The part where the presenter introduces the topic, the purpose, the main points, and the relevance or significance of the presentation for the audience.
+  - Body: The part where the presenter develops and supports the main points, using facts, data, examples, arguments, and visuals.
+  - Conclusion: The part where the presenter summarizes the main points, restates the purpose, and provides a call to action or a recommendation for the audience.
+  - Questions and answers: The part where the presenter invites and responds to questions, comments, or feedback from the audience, and clarifies any doubts or misunderstandings.
+- A technical presentation can have various notes, depending on the preference and style of the presenter, but some common types are the following:
+  - Full-text notes: The notes that contain the complete script or transcript of the presentation, word for word, and can be read aloud by the presenter.
+  - Outline notes: The notes that contain the main headings and subheadings of the presentation, with keywords, phrases, or sentences that summarize the main ideas and details.
+  - Cue cards: The notes that contain brief reminders or prompts for the presenter, such as the title, the main points, the transitions, the examples, and the questions.
+  - Slide notes: The notes that are attached to the slides of the presentation, and can be viewed by the presenter on a screen or device, but not by the audience.
+- A method for the notes of the technical presentation is a process or a strategy that the presenter follows to prepare and use the notes effectively, and it can vary depending on the purpose, audience, and format of the presentation, but a general one is the following:
+  - Analyze the purpose, audience, and format of the presentation, and determine the appropriate structure, content, and style for the presentation.
+  - Research the topic, and gather relevant and reliable information, data, and sources that support the main points and the purpose of the presentation.
+  - Organize the information, and create an outline or a draft of the presentation, with a clear introduction, body, and conclusion, and logical transitions and connections between the main points and the subpoints.
+  - Design the visuals, and select or create appropriate images, graphs, charts, tables, diagrams, or videos that illustrate, explain, or enhance the main points and the purpose of the presentation.
+  - Write the notes, and choose the type and the format of the notes that suit the presenter's preference and style, and the presentation's purpose, audience, and format. The notes should be concise, clear, and consistent with the presentation, and should include the main points, the supporting details, the examples, the transitions, and the questions.
+  - Practice the presentation,

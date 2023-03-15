@@ -1,0 +1,9 @@
+### Architecture for Intelligent Agents
+
+- An intelligent agent is a system that perceives its environment via sensors and acts rationally upon that environment with its effectors.
+- The architecture of an agent describes its modules and capabilities, and how these operate together.
+- The agent architecture determines how the agent function is implemented in the agent program, which runs on the agent's hardware.
+- There are three primary types of agent architectures in AI:
+  - Reactive agents: Reactive agents are the simplest type of AI agent. They act only based on the current percept, without any memory or reasoning. They are fast and robust, but limited in their capabilities. Examples of reactive agents are obstacle-avoiding robots, thermostat controllers, etc.
+  - Deliberative agents: Deliberative agents are more complex than reactive agents. They have an internal model of the world, which they update based on their percepts. They use reasoning and planning to decide on the best action to achieve their goals. They are more flexible and intelligent, but also slower and more prone to errors. Examples of deliberative agents are chess-playing programs, route-finding systems, etc.
+  - Interactive agents: Interactive agents are agents that communicate and cooperate with other agents, either human or artificial. They have social skills and norms, and can negotiate, coordinate, and collaborate with others. They are more adaptive and sociable, but also more challenging to design and implement. Examples of interactive agents are chatbots, virtual assistants, multi-agent systems, etc.

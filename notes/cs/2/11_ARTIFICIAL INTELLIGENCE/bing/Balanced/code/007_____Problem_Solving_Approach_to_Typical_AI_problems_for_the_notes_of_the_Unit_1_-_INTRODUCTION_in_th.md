@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Artificial Intelligence KCS. Here is the content for the topic of Problem Solving Approach to Typical AI problems:
+
+### Problem Solving Approach to Typical AI problems
+
+- A typical AI problem can be defined as a situation where an agent (a computer program or a robot) has to perform some tasks or achieve some goals in a given environment, with some constraints or limitations.
+- A problem solving approach to AI involves the following steps:
+  - Problem formulation: This is the process of defining the initial state, the goal state, and the actions or operators that can change the state of the environment. The problem formulation should be clear, precise, and consistent.
+  - Search: This is the process of finding a sequence of actions or operators that can transform the initial state into the goal state. The search can be guided by some criteria or heuristics that can evaluate the quality or desirability of each state or action. The search can be classified into different types, such as uninformed search, informed search, local search, adversarial search, etc.
+  - Execution: This is the process of applying the sequence of actions or operators to the environment and observing the results. The execution can be simulated or real, depending on the nature of the problem and the agent. The execution can also involve feedback or learning from the outcomes of the actions.
+- Some examples of typical AI problems are:
+  - Puzzle solving: This involves finding a way to arrange or manipulate some pieces or objects according to some rules or constraints. For example, the 8-puzzle, the Tower of Hanoi, the Rubik's cube, etc.
+  - Path finding: This involves finding a way to move from one location to another in a given map or graph, while avoiding obstacles or minimizing some cost. For example, the shortest path problem, the traveling salesman problem, the robot navigation problem, etc.
+  - Game playing: This involves finding a way to win or maximize the score in a competitive or cooperative game, while anticipating the moves or actions of other players or agents. For example, chess, tic-tac-toe, checkers, etc.
+  - Planning: This involves finding a way to achieve a complex or long-term goal, by decomposing it into subgoals and subtasks, and ordering and scheduling the actions or operators to accomplish them. For example, the blocks world problem, the logistics problem, the mission planning problem, etc.
+  - Natural language processing: This involves finding a way to understand or generate natural language sentences or texts, by analyzing or producing their syntax, semantics, pragmatics, and discourse. For example, the machine translation problem, the question answering problem, the text summarization problem, etc.
+  - Computer vision: This involves finding a way to perceive or interpret visual information, such as images or videos, by extracting or recognizing their features, objects, scenes, actions, etc. For example, the face recognition problem, the object detection problem, the scene understanding problem, etc.
+  - Machine learning: This involves finding a way to improve the performance or behavior of an agent, by learning from data or experience, and adapting to new situations or tasks. For example, the classification problem, the regression problem, the clustering problem, etc.

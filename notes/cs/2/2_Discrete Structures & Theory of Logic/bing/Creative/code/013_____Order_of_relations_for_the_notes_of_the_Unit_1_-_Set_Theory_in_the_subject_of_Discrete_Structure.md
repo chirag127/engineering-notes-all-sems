@@ -1,0 +1,26 @@
+### Order of relations for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- A relation on a set \\(A\\) is a subset of \\(A\times A\\), that is, a set of ordered pairs of elements of \\(A\\) .
+- An order relation on a set \\(A\\) is a relation that satisfies the following properties for all \\(a,b,c\in A\\) :
+  - Reflexivity: \\(a\leq a\\)
+  - Antisymmetry: \\(a\leq b\\) and \\(b\leq a\\) imply \\(a=b\\)
+  - Transitivity: \\(a\leq b\\) and \\(b\leq c\\) imply \\(a\leq c\\)
+- An order relation is called a partial order if it does not necessarily compare every pair of elements in \\(A\\), that is, there may exist \\(a,b\in A\\) such that neither \\(a\leq b\\) nor \\(b\leq a\\) .
+- An order relation is called a total order or a linear order if it compares every pair of elements in \\(A\\), that is, for any \\(a,b\in A\\), either \\(a\leq b\\) or \\(b\leq a\\) .
+- An order relation is called a strict order if it satisfies the following properties for all \\(a,b,c\in A\\) :
+  - Irreflexivity: \\(a\not< a\\)
+  - Asymmetry: \\(a< b\\) implies \\(b\not< a\\)
+  - Transitivity: \\(a< b\\) and \\(b< c\\) imply \\(a< c\\)
+- A strict order relation is always a partial order, but not necessarily a total order .
+- A partial order relation \\(\leq\\) can be converted into a strict order relation \\(<\\) by defining \\(a< b\\) if and only if \\(a\leq b\\) and \\(a\neq b\\) .
+- A strict order relation \\(<\\) can be converted into a partial order relation \\(\leq\\) by defining \\(a\leq b\\) if and only if \\(a< b\\) or \\(a=b\\) .
+- An element \\(a\in A\\) is called a maximal element of \\(A\\) with respect to a partial order relation \\(\leq\\) if there is no \\(b\in A\\) such that \\(a< b\\) .
+- An element \\(a\in A\\) is called a minimal element of \\(A\\) with respect to a partial order relation \\(\leq\\) if there is no \\(b\in A\\) such that \\(b< a\\) .
+- An element \\(a\in A\\) is called the greatest element of \\(A\\) with respect to a partial order relation \\(\leq\\) if \\(a\geq b\\) for all \\(b\in A\\) .
+- An element \\(a\in A\\) is called the least element of \\(A\\) with respect to a partial order relation \\(\leq\\) if \\(a\leq b\\) for all \\(b\in A\\) .
+- A greatest element or a least element of \\(A\\) is unique if it exists .
+- A maximal element or a minimal element of \\(A\\) may not be unique .
+- A greatest element is always a maximal element, but not vice versa .
+- A least element is always a minimal element, but not vice versa .
+- A subset \\(B\\) of \\(A\\) is called a chain if \\(B\\) is totally ordered by \\(\leq\\) .
+- A subset \\(B\\) of \\(A\\) is called an antichain if no

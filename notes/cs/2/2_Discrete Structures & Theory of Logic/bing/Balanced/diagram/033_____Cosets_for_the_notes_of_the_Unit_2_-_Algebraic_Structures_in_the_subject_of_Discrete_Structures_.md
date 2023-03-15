@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on the topic of cosets for the notes of Unit 2 - Algebraic Structures in the subject of Discrete Structures & Theory of Logic.
+
+### Cosets
+
+- A coset is a subset of a group that is obtained by multiplying a fixed element of the group by every element of a subgroup.
+- There are two types of cosets: left cosets and right cosets. A left coset is formed by multiplying the fixed element on the left of the subgroup elements, while a right coset is formed by multiplying the fixed element on the right of the subgroup elements.
+- For example, let G be the group of integers under addition, and let H be the subgroup of even integers. Then, for any integer a, the left coset of H by a is {a + h | h in H}, and the right coset of H by a is {h + a | h in H}.
+- In general, left cosets and right cosets may not be equal, but they have the same size (or cardinality). This is known as Lagrange's theorem, which states that the order of a subgroup divides the order of the group, and the number of cosets of a subgroup is equal to the quotient of the orders.
+- For example, in the previous example, the order of G is infinite, the order of H is infinite, and the number of cosets of H is infinite. However, for any finite group G and subgroup H, the order of H divides the order of G, and the number of cosets of H is finite and equal to the quotient of the orders.
+- A subgroup H of a group G is called normal if every left coset of H is equal to the corresponding right coset of H. In other words, H is normal if for every g in G, gH = Hg. Normal subgroups are important because they allow us to define quotient groups, which are groups formed by the cosets of a normal subgroup.
+- For example, let G be the group of symmetries of a square, and let H be the subgroup of rotations. Then H is normal in G, and the quotient group G/H is the group of two elements, consisting of the identity coset H and the reflection coset Hr, where r is any reflection. The quotient group G/H captures the parity (even or odd) of the symmetries of the square.

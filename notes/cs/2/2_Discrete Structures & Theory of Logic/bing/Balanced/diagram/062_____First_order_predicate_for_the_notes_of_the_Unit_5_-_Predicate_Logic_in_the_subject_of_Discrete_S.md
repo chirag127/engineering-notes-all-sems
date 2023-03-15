@@ -1,0 +1,28 @@
+### First order predicate for the notes of the Unit 5 - Predicate Logic in the subject of Discrete Structures & Theory of Logic
+
+- Predicate logic is a branch of logic that deals with predicates, quantifiers, and variables.
+- A predicate is a statement that can be true or false depending on the values of its variables.
+- A quantifier is a symbol that expresses how many or how much of something satisfies a predicate.
+- A variable is a symbol that can represent any element of a given domain.
+- First order predicate logic is a type of predicate logic that allows quantification over individual elements of a domain, but not over sets, functions, or relations.
+- The syntax of first order predicate logic consists of the following components:
+  - A set of constants, which are symbols that denote specific elements of the domain.
+  - A set of variables, which are symbols that can represent any element of the domain.
+  - A set of predicate symbols, which are symbols that denote predicates with a fixed number of arguments.
+  - A set of function symbols, which are symbols that denote functions with a fixed number of arguments.
+  - A set of logical connectives, which are symbols that denote logical operations such as negation, conjunction, disjunction, implication, and equivalence.
+  - A set of quantifiers, which are symbols that denote universal or existential quantification.
+  - A set of parentheses, which are symbols that group expressions together.
+- The semantics of first order predicate logic consists of the following components:
+  - A domain, which is a non-empty set of elements that the variables and constants can refer to.
+  - An interpretation, which is a function that assigns a meaning to each constant, predicate symbol, and function symbol in the domain.
+  - A valuation, which is a function that assigns a value to each variable in the domain.
+  - A truth value, which is either true or false.
+  - A satisfaction relation, which is a relation that determines whether a predicate logic expression is true or false under a given interpretation and valuation.
+- The rules of inference of first order predicate logic consist of the following components:
+  - A set of axioms, which are predicate logic expressions that are always true.
+  - A set of inference rules, which are rules that allow deriving new predicate logic expressions from existing ones.
+  - A proof, which is a sequence of predicate logic expressions that starts with axioms and ends with a conclusion, such that each expression is either an axiom or follows from previous expressions by an inference rule.
+  - A validity, which is a property of a predicate logic expression that means it is true under every interpretation and valuation.
+  - A soundness, which is a property of an inference rule that means it preserves validity, i.e., if the premises are valid, then the conclusion is valid.
+  - A completeness, which is a property of a set of inference rules that means it can prove every valid predicate logic expression.

@@ -1,0 +1,12 @@
+### Complemented for the notes of the Unit 3 - Lattices in the subject of Discrete Structures & Theory of Logic
+
+- A **lattice** is a partially ordered set (poset) in which every pair of elements has a unique least upper bound (lub) and a unique greatest lower bound (glb).
+- A **bounded lattice** is a lattice that has a minimum element (denoted by 0) and a maximum element (denoted by 1).
+- A **complemented lattice** is a bounded lattice in which every element has a **complement**, that is, an element such that their lub is 1 and their glb is 0.
+- A **distributive lattice** is a lattice that satisfies the **distributive laws**, that is, for any elements x, y, and z in the lattice, x ∧ (y ∨ z) = (x ∧ y) ∨ (x ∧ z) and x ∨ (y ∧ z) = (x ∨ y) ∧ (x ∨ z), where ∧ and ∨ denote the glb and lub operations, respectively.
+- A **Boolean algebra** is a complemented distributive lattice. It is also equivalent to a set of subsets of a given set, closed under the operations of union, intersection, and complement, with respect to the whole set.
+- A **sublattice** of a lattice is a subset of the lattice that is also a lattice under the same glb and lub operations.
+- A **homomorphism** between two lattices is a function that preserves the glb and lub operations, that is, for any elements x and y in the source lattice, f(x ∧ y) = f(x) ∧ f(y) and f(x ∨ y) = f(x) ∨ f(y) in the target lattice.
+- An **isomorphism** between two lattices is a bijective homomorphism that has an inverse homomorphism. Two lattices are **isomorphic** if there exists an isomorphism between them.
+- A **direct product** of two lattices is a lattice whose elements are ordered pairs of elements from the two lattices, and whose glb and lub operations are defined componentwise, that is, for any elements (x1, y1) and (x2, y2) in the direct product, (x1, y1) ∧ (x2, y2) = (x1 ∧ x2, y1 ∧ y2) and (x1, y1) ∨ (x2, y2) = (x1 ∨ x2, y1 ∨ y2).
+- A **subdirect product** of two lattices is a sublattice of their direct product that projects onto both lattices, that is, for any elements x and y in the first lattice, there exists an element (x, z) in the subdirect product, and for any elements u and v in the second lattice, there exists an element (w, v) in the subdirect product.

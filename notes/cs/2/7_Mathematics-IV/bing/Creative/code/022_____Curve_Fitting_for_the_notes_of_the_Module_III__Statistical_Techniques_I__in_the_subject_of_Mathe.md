@@ -1,0 +1,29 @@
+### Curve Fitting
+
+- Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points, possibly subject to constraints .
+- Curve fitting can involve either interpolation, where an exact fit to the data is required, or smoothing, where a smooth function is constructed that approximates the data.
+- Curve fitting can be used for various purposes, such as:
+  - Exploring the relationship between variables
+  - Extrapolating or predicting future values
+  - Testing hypotheses or models
+  - Evaluating the goodness of fit or accuracy of the curve
+- Curve fitting can be done by various methods, such as:
+  - Analytical methods, where a closed-form solution or formula is derived for the curve
+  - Numerical methods, where an iterative or approximate algorithm is used to find the curve
+  - Graphical methods, where a visual inspection or comparison is done to find the curve
+- Some common types of curves or functions that are used for curve fitting are:
+  - Linear functions, where the curve is a straight line
+  - Polynomial functions, where the curve is a sum of powers of a variable
+  - Exponential functions, where the curve is a product of a constant and a power of a variable
+  - Logarithmic functions, where the curve is a product of a constant and a logarithm of a variable
+  - Trigonometric functions, where the curve is a sum of sine or cosine functions
+  - Gaussian functions, where the curve is a bell-shaped curve
+  - Sigmoid functions, where the curve is an S-shaped curve
+- Some examples of curve fitting are:
+  - Fitting a line to a set of points to find the slope and intercept
+  - Fitting a parabola to a set of points to find the vertex and focus
+  - Fitting an exponential curve to a set of points to find the growth rate and initial value
+  - Fitting a logarithmic curve to a set of points to find the scale and shift
+  - Fitting a sine curve to a set of points to find the amplitude, frequency and phase
+  - Fitting a Gaussian curve to a set of points to find the mean, standard deviation and height
+  - Fitting a sigmoid curve to a set of points to find the threshold, slope and maximum value

@@ -1,0 +1,25 @@
+### Reading & comprehension for the notes of the Unit 1 - Fundamentals of Technical Communication in the subject of Technical Communication
+
+- Reading is a process of decoding written symbols and constructing meaning from them.
+- Comprehension is the ability to understand and interpret what is read.
+- Reading and comprehension are essential skills for technical communication, as they enable the reader to access, analyze, evaluate, and use information from various sources and formats.
+- Reading and comprehension involve several cognitive processes, such as:
+  - Skimming: reading quickly to get the main idea or gist of a text.
+  - Scanning: reading selectively to locate specific information or details in a text.
+  - Inferring: drawing logical conclusions or assumptions from the text based on prior knowledge and context clues.
+  - Predicting: anticipating what will happen next or what the author's purpose or intention is based on the text and background knowledge.
+  - Summarizing: condensing the main points or ideas of a text in a concise and accurate way.
+  - Paraphrasing: restating the text in one's own words without changing the meaning or tone.
+  - Synthesizing: combining information from different sources or texts to create a new understanding or perspective.
+  - Evaluating: judging the quality, credibility, relevance, and usefulness of a text based on criteria and standards.
+  - Applying: using the information or knowledge gained from a text to solve problems, make decisions, or perform tasks.
+- Reading and comprehension strategies are techniques or methods that help the reader to improve their reading skills and comprehension level. Some examples of reading and comprehension strategies are:
+  - Previewing: looking at the title, headings, subheadings, images, graphs, tables, and other features of a text before reading to activate prior knowledge and set a purpose for reading.
+  - Questioning: asking questions before, during, and after reading to clarify, monitor, and deepen understanding of the text.
+  - Annotating: making notes, comments, or marks on the text to highlight important or interesting information, identify key terms or concepts, or express opinions or reactions.
+  - Outlining: creating a hierarchical structure or framework of the text that shows the main idea, supporting details, and relationships among them.
+  - Mapping: creating a visual representation or diagram of the text that shows the main idea, supporting details, and relationships among them using symbols, shapes, colors, or lines.
+  - Chunking: breaking down a long or complex text into smaller and manageable units or sections based on topic, theme, or structure.
+  - Re-reading: reading the text again to review, reinforce, or revise one's understanding or interpretation of the text.
+  - Self-questioning: checking one's comprehension by asking oneself questions about the text and answering them using evidence from the text or prior knowledge.
+  - Self-monitoring: being aware of one's reading process and progress and adjusting one's reading strategies or pace accordingly.

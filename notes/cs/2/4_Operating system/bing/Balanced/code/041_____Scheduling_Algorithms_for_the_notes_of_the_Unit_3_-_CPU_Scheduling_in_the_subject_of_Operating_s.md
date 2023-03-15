@@ -1,0 +1,15 @@
+# Scheduling Algorithms for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- A scheduling algorithm in OS is the algorithm that defines how much CPU time must be allotted to which process and when.
+- CPU scheduling is the process of selecting a process from the ready queue and allocating the CPU to it.
+- CPU scheduling algorithms can be classified into two categories: preemptive and non-preemptive.
+  - Preemptive scheduling algorithms allow the CPU to be taken away from a running process before its completion, if a higher priority process arrives in the ready queue.
+  - Non-preemptive scheduling algorithms do not interrupt a running process until it finishes or voluntarily relinquishes the CPU.
+- Some of the common scheduling algorithms are:
+  - First-Come, First-Served (FCFS) Scheduling: The process that arrives first in the ready queue is selected for execution. This algorithm is simple, fair, and easy to implement, but it may cause long waiting times and poor CPU utilization.
+  - Shortest-Job-Next (SJN) Scheduling: The process with the shortest estimated burst time (CPU time required) is selected for execution. This algorithm minimizes the average waiting time, but it requires the knowledge of the burst time of each process, which is not realistic in most cases.
+  - Priority Scheduling: The process with the highest priority is selected for execution. This algorithm allows the system to meet the needs of different types of processes, but it may cause starvation of low priority processes.
+  - Shortest Remaining Time (SRT) Scheduling: The process with the shortest remaining burst time is selected for execution. This algorithm is a preemptive version of SJN scheduling, and it optimizes the average waiting time, but it may cause more context switches and overhead.
+  - Round Robin (RR) Scheduling: The processes in the ready queue are executed in a circular order, with each process getting a fixed time slice (quantum) of the CPU. This algorithm is fair, simple, and suitable for time-sharing systems, but it may cause high waiting times and poor response times for short processes.
+  - Multiple-Level Queues Scheduling: The processes are divided into different queues based on their characteristics, such as foreground/background, interactive/batch, etc. Each queue has its own scheduling algorithm, and the queues are assigned different priorities. This algorithm allows the system to handle a variety of processes, but it may be complex and difficult to implement.
+- When designing an operating system, a programmer must consider which scheduling algorithm will perform best for the use the system is going to see. There is no universal "best" scheduling algorithm, and many operating systems use extended or combinations of the scheduling algorithms above.

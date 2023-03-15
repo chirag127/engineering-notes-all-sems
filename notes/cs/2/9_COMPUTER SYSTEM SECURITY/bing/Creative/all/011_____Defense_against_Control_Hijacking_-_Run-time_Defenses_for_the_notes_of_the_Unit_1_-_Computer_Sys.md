@@ -1,0 +1,10 @@
+# Defense against Control Hijacking - Run-time Defenses
+
+- A control hijacking attack exploits a program error, particularly a memory corruption vulnerability, at application runtime to subvert the intended control flow of a program.
+- A variety of defensive mechanisms have been proposed to mitigate control-flow hijacking attacks. As previously mentioned, complete memory safety, code pointer integrity, and control flow integrity are promising defenses in theory .
+- Some of the run-time defenses against control hijacking are   :
+  - **Stack canaries**: A random value is placed on the stack before the return address and checked before returning from a function. If the canary is overwritten, the program aborts. This can prevent some buffer overflow attacks that overwrite the return address.
+  - **Non-executable memory**: The memory regions that contain data are marked as non-executable, so that the processor will not execute any instructions from those regions. This can prevent some code injection attacks that inject malicious code into data regions and redirect the control flow to them.
+  - **Address space layout randomization (ASLR)**: The memory layout of the program is randomized at each execution, so that the attacker cannot predict the addresses of code or data. This can make it harder for the attacker to find the target of a control flow redirection or to inject code at a known location.
+  - **Control flow integrity (CFI)**: The program's control flow graph (CFG) is determined ahead of time and enforced at runtime. Any deviation from the CFG is detected and prevented. This can prevent arbitrary control flow redirections that violate the intended program logic.
+  - **Shadow stacks**: A separate stack is maintained for storing return addresses, which is protected from memory corruption. This can prevent return-oriented programming (ROP) attacks that overwrite return addresses with gadgets.

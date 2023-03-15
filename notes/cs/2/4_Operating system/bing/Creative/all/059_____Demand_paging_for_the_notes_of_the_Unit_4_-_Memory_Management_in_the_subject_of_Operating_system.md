@@ -1,0 +1,10 @@
+# Demand paging
+
+Demand paging is a method of virtual memory management that allows a process to execute without loading all of its pages into physical memory. Instead, the operating system copies a disk page into physical memory only when it is needed, i.e., when a page fault occurs. This reduces the amount of physical memory and disk space required by a process, and allows the system to run more processes concurrently.
+
+Some of the concepts related to demand paging are:
+
+- **Page fault**: A page fault occurs when a process tries to access a page that is not present in physical memory. The operating system then interrupts the process, locates the page on the disk, allocates a free frame in physical memory, copies the page into the frame, updates the page table, and resumes the process.
+- **Page replacement**: Page replacement is the process of selecting a page in physical memory to be replaced by a new page from the disk. The operating system uses a page replacement algorithm to decide which page to replace, such as FIFO, LRU, or optimal. The goal is to minimize the number of page faults and maximize the utilization of physical memory.
+- **Working set**: The working set of a process is the set of pages that are frequently accessed by the process in a given period of time. The working set reflects the locality of reference of the process, i.e., the tendency of the process to access the same pages repeatedly. The operating system tries to keep the working set of each process in physical memory to reduce the page fault rate.
+- **Thrashing**: Thrashing occurs when the system spends more time on paging than on executing processes. This happens when the total demand for physical memory exceeds the available memory, and the system constantly swaps pages in and out of memory. Thrashing degrades the performance of the system and can be prevented by using proper memory allocation and page replacement policies.

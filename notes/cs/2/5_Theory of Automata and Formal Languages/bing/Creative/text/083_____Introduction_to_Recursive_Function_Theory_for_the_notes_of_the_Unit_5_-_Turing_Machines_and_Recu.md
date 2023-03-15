@@ -1,0 +1,16 @@
+### Introduction to Recursive Function Theory
+
+- Recursive function theory is a branch of mathematical logic that studies the properties and limitations of computable functions on natural numbers .
+- A function is computable if there is an effective method or algorithm to compute its value for any given input. For example, the factorial function `n! = n * (n-1) * ... * 1` is computable because there is a simple algorithm to calculate it using repeated multiplication.
+- There are different models of computation that can be used to define computable functions, such as Turing machines, lambda calculus, register machines, etc. These models are equivalent in the sense that they can compute exactly the same class of functions, which are called the **recursive functions** or the **computable functions**  .
+- A recursive function can be defined in terms of simpler recursive functions using some basic operations, such as composition, primitive recursion, and minimization. These operations are also called the **schemata** of recursion  .
+- Composition is the operation of applying one function to the result of another function. For example, if `f(x) = x + 1` and `g(x) = x * 2`, then `h(x) = f(g(x)) = (x * 2) + 1` is a composition of `f` and `g`.
+- Primitive recursion is the operation of defining a function by specifying its value for the base case (usually 0) and its value for the successor case (usually `n + 1`) in terms of the previous values. For example, the factorial function can be defined by primitive recursion as follows:
+
+  - `f(0) = 1` (base case)
+  - `f(n + 1) = (n + 1) * f(n)` (successor case)
+
+- Minimization is the operation of finding the smallest value of a variable that satisfies a given condition. For example, the function `g(x) = the smallest y such that f(y) = x` is a minimization of `f`, where `f` is some computable function.
+- A function that is defined by using only composition and primitive recursion is called a **primitive recursive function**. Primitive recursive functions are a subset of recursive functions that are always total, meaning that they are defined for every input. For example, the addition, multiplication, and exponentiation functions are primitive recursive  .
+- A function that is defined by using minimization in addition to composition and primitive recursion is called a **general recursive function** or a **partial recursive function**. General recursive functions are a superset of primitive recursive functions that may be partial, meaning that they are undefined for some inputs. For example, the function `h(x) = the smallest y such that y * y > x` is general recursive but not primitive recursive, because it is undefined for negative inputs  .
+- Recursive function theory also studies the properties of the sets of natural numbers that can be defined by recursive functions, such as decidability, enumerability, reducibility, and complexity. These concepts are related to the notion of **Turing degrees**, which measure the relative computability of sets and functions  .

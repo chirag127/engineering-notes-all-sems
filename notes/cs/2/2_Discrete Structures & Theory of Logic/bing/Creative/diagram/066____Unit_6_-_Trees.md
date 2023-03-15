@@ -1,0 +1,23 @@
+## Unit 6 - Trees
+
+- A tree is a nonlinear data structure that consists of a collection of nodes connected by edges.
+- A node is an entity that stores some data and has zero or more child nodes.
+- An edge is a link that connects a parent node to a child node.
+- A root is a special node that has no parent node and is the ancestor of all other nodes in the tree.
+- A leaf is a node that has no child nodes and is the descendant of all its ancestors.
+- The height of a node is the number of edges in the longest path from the node to a leaf.
+- The depth of a node is the number of edges in the path from the root to the node.
+- The level of a node is the depth of the node plus one.
+- The height of a tree is the height of the root node.
+- A subtree is a part of a tree that consists of a node and all its descendants.
+- A binary tree is a tree in which each node has at most two child nodes, called the left child and the right child.
+- A binary search tree is a binary tree in which the data stored in each node follows a specific order: the data in the left child is less than or equal to the data in the parent node, and the data in the right child is greater than or equal to the data in the parent node.
+- A balanced binary tree is a binary tree in which the height of the left and right subtrees of every node differ by at most one.
+- A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
+- A full binary tree is a binary tree in which every node has either zero or two child nodes.
+- A perfect binary tree is a binary tree in which every node has two child nodes and all leaves are at the same level.
+- A traversal is a process of visiting each node in a tree exactly once in a specific order.
+- A preorder traversal is a traversal in which the parent node is visited before its child nodes.
+- An inorder traversal is a traversal in which the left child node is visited before the parent node, and the right child node is visited after the parent node.
+- A postorder traversal is a traversal in which the child nodes are visited before the parent node.
+- A level order traversal is a traversal in which the nodes are visited level by level, from left to right.

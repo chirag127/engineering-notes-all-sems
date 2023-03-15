@@ -1,0 +1,13 @@
+### Execution Unit (EU) of 8086 Microprocessor
+
+- The execution unit (EU) is responsible for decoding and executing the instructions fetched by the bus interface unit (BIU) from the memory or I/O devices  .
+- The EU consists of the following components :
+  - Arithmetic and Logic Unit (ALU): It performs arithmetic and logical operations on 8-bit or 16-bit data. It can also perform bit manipulation, shift and rotate operations, and decimal arithmetic operations .
+  - Control Unit: It controls the flow of instructions and data within the EU and between the EU and the BIU. It also generates control signals for the BIU to access memory and I/O devices .
+  - Instruction Pointer (IP): It holds the offset address of the next instruction to be fetched from the code segment. It is automatically incremented by the BIU after each instruction fetch .
+  - Flags Register: It holds the status flags that reflect the outcome of the previous ALU operation or indicate the current operating mode of the processor. The flags register consists of 16 bits, out of which 9 are active and 7 are reserved. The active flags are divided into two groups: conditional flags and control flags .
+  - General Registers: They are used to store data and operands during the execution of instructions. They can be accessed as 8-bit or 16-bit registers. There are four general registers: AX, BX, CX, and DX. Each of them can be split into two 8-bit registers: AH and AL for AX, BH and BL for BX, CH and CL for CX, and DH and DL for DX .
+  - Segment Registers: They are used to hold the segment addresses of the four memory segments: code, data, stack, and extra. They are 16-bit registers and are named as CS, DS, SS, and ES respectively. The segment address is combined with the offset address to form the physical address of a memory location .
+  - Pointer and Index Registers: They are used to store the offset addresses of memory locations within the data and extra segments. They are 16-bit registers and are named as SP, BP, SI, and DI. SP and BP are used as stack pointer and base pointer respectively. SI and DI are used as source index and destination index respectively .
+- The EU communicates with the BIU through an internal 16-bit bidirectional bus called the EU-BIU interface. The EU sends requests to the BIU for fetching instructions or data from the memory or I/O devices. The BIU responds by sending the requested information to the EU through the interface  .
+- The EU operates independently of the BIU and can execute instructions while the BIU is fetching the next instruction or data. This allows the 8086 to achieve a high degree of parallelism and increase the processing speed  .

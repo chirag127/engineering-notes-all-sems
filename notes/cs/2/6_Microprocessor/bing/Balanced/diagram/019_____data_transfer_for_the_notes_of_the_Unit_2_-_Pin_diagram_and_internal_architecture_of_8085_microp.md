@@ -1,0 +1,39 @@
+### Data Transfer for the notes of the Unit 2 - Pin diagram and internal architecture of 8085 microprocessor, registers, ALU, Control & status, interrupt and machine cycle. Instruction sets. Addressing modes. Instruction formats Instruction Classification: data transfer, arithmetic operations, logical operations, branching operations, machine control and assembler directives.
+
+- Data transfer is the process of moving data from one location to another in the microprocessor.
+- Data transfer can be done in different ways, such as parallel, serial, or direct memory access (DMA).
+- Parallel data transfer involves transferring 8 bits of data simultaneously over 8 data lines in the parallel I/O mode.
+- Serial data transfer involves transferring one bit of data at a time over a single data line in the serial I/O mode.
+- DMA data transfer involves transferring a block of data from an external device to the memory or vice versa without the intervention of the microprocessor.
+- Data transfer instructions are the instructions that transfer data in the microprocessor without any modification of data.
+- Data transfer instructions are of various types, such as MOV, MVI, LDA, LHLD, LXI, etc.
+- MOV instruction copies the contents of the source register into the destination register.
+- MVI instruction loads an 8-bit immediate data into a register.
+- LDA instruction loads the accumulator with the contents of a memory location specified by a 16-bit address.
+- LHLD instruction loads the H and L registers with the contents of two memory locations specified by a 16-bit address.
+- LXI instruction loads a 16-bit immediate data into a register pair.
+- Data transfer can also be done by using stack, interrupts, or I/O ports.
+- Stack is a section of memory that stores data in a last-in first-out (LIFO) order.
+- Interrupts are signals that cause the microprocessor to temporarily suspend the current program and execute a subroutine.
+- I/O ports are special memory locations that are used to communicate with external devices.
+- Data transfer can be classified into three categories: register to register, register to memory, and memory to memory.
+- Register to register data transfer involves transferring data between two registers.
+- Register to memory data transfer involves transferring data between a register and a memory location.
+- Memory to memory data transfer involves transferring data between two memory locations.
+- Data transfer can be done using different addressing modes, such as immediate, direct, register, register indirect, and implied.
+- Immediate addressing mode involves specifying the data as a part of the instruction.
+- Direct addressing mode involves specifying the memory address as a part of the instruction.
+- Register addressing mode involves specifying the register as a part of the instruction.
+- Register indirect addressing mode involves specifying the register pair that contains the memory address as a part of the instruction.
+- Implied addressing mode involves using the accumulator or the stack pointer implicitly as a part of the instruction.
+- Data transfer can be done using different instruction formats, such as one-byte, two-byte, and three-byte instructions.
+- One-byte instructions are the instructions that have only one 8-bit word as the machine code.
+- Two-byte instructions are the instructions that have two 8-bit words as the machine code.
+- Three-byte instructions are the instructions that have three 8-bit words as the machine code.
+- Data transfer is one of the instruction classifications in the 8085 microprocessor.
+- Other instruction classifications are arithmetic operations, logical operations, branching operations, machine control and assembler directives.
+- Arithmetic operations are the instructions that perform addition, subtraction, increment, decrement, or decimal adjustment of data.
+- Logical operations are the instructions that perform logical AND, OR, XOR, complement, or rotate of data.
+- Branching operations are the instructions that change the sequence of execution of the program based on some conditions.
+- Machine control operations are the instructions that control the operation of the microprocessor, such as halt, enable interrupt, disable interrupt, etc.
+- Assembler directives are the instructions that are used to direct the assembler to perform some tasks, such as define data, reserve memory, specify origin, etc.

@@ -1,0 +1,11 @@
+### Methods for the notes of the Unit 2 - Forms of Technical Communication
+
+Technical communication is the method of producing and sharing ideas and information in organizations. It involves communicating about technical or specialized topics, using technology, and providing instructions or persuasion. Technical communication can take various forms, such as:
+
+- **Letters and emails**: These are written messages that convey information or requests to a specific audience. They can be formal or informal, depending on the context and purpose. Letters and emails should be clear, concise, courteous, and coherent.
+- **Instructions**: These are step-by-step directions that guide the user to perform a task or use a product. They can be written, oral, visual, or a combination of these modes. Instructions should be accurate, complete, consistent, and user-friendly.
+- **Status reports**: These are documents that summarize the progress, problems, and plans of a project or activity. They can be written or oral, and they can be delivered to different audiences, such as managers, clients, or team members. Status reports should be informative, honest, timely, and organized.
+- **Project proposals**: These are documents that present a plan for a project or activity, including the goals, methods, budget, timeline, and expected outcomes. They can be written or oral, and they can be addressed to different stakeholders, such as sponsors, investors, or partners. Project proposals should be persuasive, realistic, detailed, and professional.
+- **Websites and blogs**: These are online platforms that provide information, entertainment, or interaction to a specific audience. They can use various media, such as text, images, videos, or audio. Websites and blogs should be attractive, accessible, navigable, and updated.
+
+These are some of the common forms of technical communication, but there are many others, such as manuals, white papers, specifications, infographics, videos, podcasts, etc. Technical communication can be applied to any domain or industry, such as science, engineering, business, education, health, etc. Technical communication is a dynamic and evolving field that requires constant learning and adaptation to the changing needs and expectations of the audience, the technology, and the situation .

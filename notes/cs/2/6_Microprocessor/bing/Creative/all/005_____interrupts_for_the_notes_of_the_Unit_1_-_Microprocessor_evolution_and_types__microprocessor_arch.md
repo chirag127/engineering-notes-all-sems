@@ -1,0 +1,21 @@
+# Interrupts
+
+- An interrupt is a condition that causes the microprocessor to temporarily work on a different task, and then later return to its previous task.
+- Interrupts can be internal or external.
+  - Internal interrupts, or "software interrupts," are triggered by a software instruction and operate similarly to a jump or branch instruction.
+  - External interrupts, or "hardware interrupts," are triggered by an external device or signal that needs the microprocessor's attention.
+- Interrupts are used for data transfer between the peripheral and the microprocessor, or for handling errors or events that require immediate attention .
+- When an interrupt occurs, the microprocessor saves its current state and executes an interrupt handler routine, which is a special program that performs the required work or handles the error.
+- After the interrupt handler routine is completed, the microprocessor resumes its previous task.
+- Interrupts can be classified into various categories based on different parameters:
+  - Maskable and non-maskable interrupts: Maskable interrupts can be disabled or ignored by the microprocessor, while non-maskable interrupts cannot be ignored and must be serviced.
+  - Vectored and non-vectored interrupts: Vectored interrupts have a predefined address for the interrupt handler routine, while non-vectored interrupts require the microprocessor to fetch the address from an external device.
+  - Edge-triggered and level-triggered interrupts: Edge-triggered interrupts occur when the interrupt signal changes from low to high or high to low, while level-triggered interrupts occur when the interrupt signal remains at a certain level for a period of time.
+  - Priority interrupts: Priority interrupts are assigned a priority level based on their importance, and the microprocessor services the highest priority interrupt first.
+- The 8085 microprocessor has five hardware interrupts: TRAP, RST 7.5, RST 6.5, RST 5.5, and INTR.
+  - TRAP is a non-maskable, edge-triggered, and highest priority interrupt.
+  - RST 7.5, RST 6.5, and RST 5.5 are maskable, edge-triggered, and vectored interrupts, with decreasing priority levels.
+  - INTR is a maskable, level-triggered, and non-vectored interrupt, with the lowest priority level.
+- The 8085 microprocessor also has one software interrupt instruction: RST n, where n is a number from 0 to 7.
+  - RST n causes the microprocessor to jump to a predefined address, which is 8 times the value of n.
+  - For example, RST 4 causes the microprocessor to jump to address 20H.

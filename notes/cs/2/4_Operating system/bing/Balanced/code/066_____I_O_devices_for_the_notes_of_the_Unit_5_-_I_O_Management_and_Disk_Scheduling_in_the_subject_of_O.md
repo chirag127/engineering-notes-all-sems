@@ -1,0 +1,10 @@
+### I/O devices for the notes of the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating system
+
+- I/O devices are the hardware components that allow the operating system to interact with the external world, such as mouse, keyboard, disk drive, printer, network connection, etc.
+- I/O devices can be classified into two categories: block devices and character devices.
+  - Block devices are devices that transfer data in fixed-size blocks, such as disk drives, CD-ROMs, etc. They support random access and can store large amounts of data.
+  - Character devices are devices that transfer data one character at a time, such as keyboards, mice, printers, etc. They do not support random access and are usually used for interactive input/output.
+- I/O devices are managed by the operating system using three techniques: polling, interrupts, and direct memory access (DMA).
+  - Polling is a software technique that uses a program to check the status of devices. The device can be a disk drive or any other peripheral device. The program loops through a set of status registers, testing the readiness of each device. When a device is ready, the program performs the data transfer.
+  - Interrupts are a hardware technique that allows devices to signal the processor when they are ready for data transfer. The device sends an interrupt request to the processor, which suspends the current execution and jumps to a predefined interrupt handler routine. The interrupt handler performs the data transfer and returns control to the original program.
+  - DMA is a hardware technique that allows devices to transfer data directly to or from memory without involving the processor. The device uses a special controller called a DMA controller, which communicates with the memory controller and the device controller. The DMA controller initiates the data transfer and generates an interrupt when the transfer is complete.

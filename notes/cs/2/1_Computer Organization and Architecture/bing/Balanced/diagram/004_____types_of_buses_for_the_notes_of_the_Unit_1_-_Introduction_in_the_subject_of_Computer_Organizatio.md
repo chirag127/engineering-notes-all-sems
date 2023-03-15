@@ -1,0 +1,12 @@
+### Types of Buses
+
+A bus is a set of wires or lines that connect different components of a computer system and allow them to communicate and transfer data. Buses can be classified into different types based on their function, location, and direction of data flow.
+
+- **System bus**: This is the bus that connects the CPU to the main memory on the motherboard. The system bus is also called the front-side bus, memory bus, local bus, or host bus. The system bus consists of three sub-buses: address bus, data bus, and control bus.
+  - **Address bus**: This is a unidirectional bus that carries the address of the memory location or I/O device that the CPU wants to access. The width of the address bus determines the maximum amount of memory that the CPU can address. For example, a 32-bit address bus can address up to 2^32 bytes of memory, or 4 GB.
+  - **Data bus**: This is a bidirectional bus that transfers the data between the CPU and the memory or I/O devices. The width of the data bus determines the amount of data that can be transferred in one cycle. For example, a 64-bit data bus can transfer 8 bytes of data in one cycle.
+  - **Control bus**: This is a bidirectional bus that carries the control signals that synchronize the operations of the CPU, memory, and I/O devices. The control signals include read, write, interrupt, reset, clock, etc.
+
+- **Expansion bus**: This is the bus that connects the expansion cards or peripheral devices to the system bus. The expansion bus is also called the back-side bus, I/O bus, or peripheral bus. The expansion bus allows the system to be customized and upgraded with different devices, such as graphics cards, sound cards, network cards, etc. The expansion bus has different standards and specifications, such as ISA, EISA, MCA, VESA, PCI, PCI Express, etc. The expansion bus may have its own address, data, and control lines, or may share some of them with the system bus.
+
+- **Internal bus**: This is the bus that connects the internal components of the CPU, such as the arithmetic logic unit (ALU), the registers, the cache, etc. The internal bus is also called the local bus, processor bus, or CPU bus. The internal bus operates at the same speed as the CPU and is usually not visible to the external devices. The internal bus may have different architectures and designs, such as the Von Neumann architecture, the Harvard architecture, the RISC architecture, etc.

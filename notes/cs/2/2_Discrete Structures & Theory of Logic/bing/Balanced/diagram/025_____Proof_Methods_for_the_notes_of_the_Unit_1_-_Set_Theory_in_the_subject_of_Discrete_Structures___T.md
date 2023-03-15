@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Discrete Structures & Theory of Logic. Here is the content for the topic of Proof Methods for the notes of the Unit 1 - Set Theory.
+
+### Proof Methods
+
+A proof is a logical argument that establishes the validity of a statement or a theorem. A proof consists of a sequence of statements that are either axioms, definitions, or logical consequences of previous statements. A proof must follow the rules of logic and be clear and unambiguous.
+
+There are different methods of proof that can be used depending on the type of statement or theorem to be proved. Some of the common proof methods are:
+
+- **Direct proof**: A direct proof shows that a statement of the form "if p, then q" is true by assuming that p is true and then using logic to show that q must also be true. For example, to prove that "if n is an even integer, then n^2 is an even integer", we can assume that n is an even integer, that is, n = 2k for some integer k, and then show that n^2 = (2k)^2 = 4k^2, which is also an even integer.
+
+- **Indirect proof**: An indirect proof shows that a statement of the form "if p, then q" is true by assuming that q is false and then using logic to show that p must also be false. This is also known as proof by contradiction or reductio ad absurdum. For example, to prove that "if n is an odd integer, then n^2 is an odd integer", we can assume that n^2 is an even integer, that is, n^2 = 2k for some integer k, and then show that this implies that n is also an even integer, which contradicts the assumption that n is an odd integer.
+
+- **Proof by contrapositive**: A proof by contrapositive shows that a statement of the form "if p, then q" is true by showing that the contrapositive statement "if not q, then not p" is true. This is based on the logical equivalence of these two statements. For example, to prove that "if n is a prime number, then n is not divisible by 4", we can show that the contrapositive statement "if n is divisible by 4, then n is not a prime number" is true, by noting that if n is divisible by 4, then n has at least three distinct factors: 1, 4, and n, which means that n is not a prime number.
+
+- **Proof by cases**: A proof by cases shows that a statement is true by dividing the possible cases into mutually exclusive and exhaustive subcases and then proving the statement for each subcase. For example, to prove that "for any integer n, n^3 + 5 is odd", we can divide the possible cases into two subcases: n is even or n is odd. Then, we can show that in each subcase, n^3 + 5 is odd, by using the definitions of even and odd numbers and the properties of arithmetic operations.
+
+- **Proof by mathematical induction**: A proof by mathematical induction shows that a statement of the form "for all natural numbers n, P(n) is true" is true by showing that P(1) is true (base case) and that if P(k) is true for some natural number k, then P(k+1) is also true (inductive step). This implies that P(n) is true for all natural numbers n by the principle of mathematical induction. For example, to prove that "for all natural numbers n, 1 + 2 + ... + n = n(n+1)/2", we can show that P(1) is true, that is, 1 = 1(1+1)/2, and that if P(k) is true, that is, 1 + 2 + ... + k = k(k+1)/2, then P(k+1) is also true, that is, 1 + 2 + ... + k + (k+1) = (k+1)((k+1)+1)/2, by using algebraic manipulation.

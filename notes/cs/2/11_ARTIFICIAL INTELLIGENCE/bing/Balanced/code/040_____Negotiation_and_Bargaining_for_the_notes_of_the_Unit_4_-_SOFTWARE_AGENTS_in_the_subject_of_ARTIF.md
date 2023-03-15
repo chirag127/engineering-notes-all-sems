@@ -1,0 +1,25 @@
+### Negotiation and Bargaining
+
+- Negotiation is a process of reaching an agreement between two or more parties that have conflicting interests or preferences.
+- Bargaining is a subset of negotiation that involves making offers and counteroffers until a deal is reached or rejected.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, diplomacy, law, and personal relationships.
+- Negotiation and bargaining can be performed by humans, software agents, or a combination of both  .
+- Software agents are autonomous programs that can act on behalf of humans or other agents in a specific environment.
+- Software agents can use artificial intelligence (AI) techniques to enhance their negotiation and bargaining skills, such as learning, planning, reasoning, and communication .
+- AI can help software agents to:
+  - Analyze the preferences, goals, and strategies of the other parties  .
+  - Generate and evaluate possible offers and counteroffers  .
+  - Adapt to changing situations and uncertainties  .
+  - Coordinate and cooperate with other agents  .
+  - Persuade and influence the other parties  .
+- AI can also help human negotiators to:
+  - Reduce their time spent on busywork and focus on strategic aspects .
+  - Overcome their cognitive biases and limited information processing abilities  .
+  - Access relevant data and insights from various sources  .
+  - Receive guidance and feedback from software agents  .
+- AI-based negotiation and bargaining systems face several challenges, such as:
+  - Modeling complex and dynamic preferences and utilities of the parties  .
+  - Dealing with incomplete, inconsistent, or deceptive information from the parties  .
+  - Balancing between efficiency, fairness, and satisfaction of the parties  .
+  - Ensuring the trust, transparency, and accountability of the software agents  .
+  - Respecting the ethical, legal, and social implications of the negotiation outcomes  .

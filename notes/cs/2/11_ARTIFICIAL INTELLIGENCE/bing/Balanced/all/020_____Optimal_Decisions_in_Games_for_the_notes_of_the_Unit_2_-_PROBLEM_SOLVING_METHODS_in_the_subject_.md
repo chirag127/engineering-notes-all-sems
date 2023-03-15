@@ -1,0 +1,27 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a function that specifies the move to make in each situation .
+- A strategy is optimal if it guarantees the best possible outcome against any opponent.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just its utility value .
+- The minimax value of a non-terminal node can be computed recursively by applying the following rules :
+  - If n is a MAX node, then MINIMAX(n) = max(MINIMAX(c) for c in children(n))
+  - If n is a MIN node, then MINIMAX(n) = min(MINIMAX(c) for c in children(n))
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax value of the root node and returns the optimal move for MAX .
+- The minimax algorithm can be improved by using alpha-beta pruning, which eliminates branches of the game tree that are provably worse than the current best option .
+- Alpha-beta pruning maintains two values, alpha and beta, that represent the lower and upper bounds of the possible minimax values of the nodes along the current path .
+- Alpha-beta pruning can be applied by modifying the minimax algorithm as follows :
+  - If n is a MAX node, then MINIMAX(n, alpha, beta) = max(MINIMAX(c, alpha, beta) for c in children(n)), and update alpha = max(alpha, MINIMAX(n, alpha, beta)) after each child
+  - If n is a MIN node, then MINIMAX(n, alpha, beta) = min(MINIMAX(c, alpha, beta) for c in children(n)), and update beta = min(beta, MINIMAX(n, alpha, beta)) after each child
+  - If alpha >= beta, then prune the remaining children of n and return MINIMAX(n, alpha, beta)
+- Alpha-beta pruning does not affect the correctness of the minimax algorithm, but it can reduce the number of nodes that need to be explored .
+- The effectiveness of alpha-beta pruning depends on the order of the children nodes. The best case is when the best moves are examined first, which leads to more pruning. The worst case is when the best moves are examined last, which leads to no pruning .
+- The minimax algorithm and alpha-beta pruning are examples of rule-based systems for game playing in artificial intelligence. Rule-based systems use a set of fixed rules to play the game.
+- Another approach to game playing in artificial intelligence is machine learning-based systems. Machine learning-based systems use algorithms to learn from experience and make decisions based on that experience.
+- Some examples of machine learning-based systems for game playing are reinforcement learning, neural networks, evolutionary algorithms, and Monte Carlo tree search.
+- Reinforcement learning is a method of learning from trial and error, where an agent receives rewards or penalties for its actions and updates its policy accordingly.
+- Neural networks are models of computation that consist of layers of interconnected nodes that can learn from data and perform complex tasks.
+- Evolutionary algorithms are methods of optimization that mimic the process of natural selection, where a population of candidate solutions evolves over generations by applying operators such as mutation, crossover, and selection.
+- Monte Carlo tree search is a method of search that uses random sampling to estimate the value of each node and select the best move.

@@ -1,0 +1,24 @@
+# Schedulers for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- Schedulers are the components of the operating system that decide which processes should be executed by the CPU and when  .
+- Schedulers are essential for achieving multiprogramming, which is the ability of the operating system to run multiple processes concurrently and efficiently .
+- There are three types of schedulers in operating system  :
+  - Long-term scheduler: Also known as admission scheduler or high-level scheduler, it decides which programs are admitted to the system for processing. It controls the degree of multiprogramming, i.e., the number of processes in memory. It runs infrequently and may involve I/O or swapping operations.
+  - Mid-term scheduler: Also known as medium-term scheduler, it decides which processes should be swapped in or out of the main memory. It is used to improve the utilization of memory and CPU. It runs occasionally and may involve I/O or swapping operations.
+  - Short-term scheduler: Also known as CPU scheduler or low-level scheduler, it decides which process should be allocated the CPU next. It is responsible for providing the illusion of parallelism among processes. It runs frequently and must be fast and efficient. It does not involve I/O or swapping operations.
+- The criteria for selecting a scheduler are:
+  - CPU utilization: The percentage of time the CPU is busy executing processes. It should be maximized.
+  - Throughput: The number of processes completed per unit time. It should be maximized.
+  - Turnaround time: The time interval from the submission of a process to its completion. It should be minimized.
+  - Waiting time: The time interval a process spends in the ready queue waiting for the CPU. It should be minimized.
+  - Response time: The time interval from the submission of a request to the first response by a process. It should be minimized.
+- The types of scheduling algorithms are:
+  - Non-preemptive: The CPU is allocated to a process until it completes or requests I/O. The process cannot be interrupted by the scheduler.
+  - Preemptive: The CPU is allocated to a process for a fixed time slice or quantum. The process can be interrupted by the scheduler if it exceeds the quantum or a higher priority process arrives.
+- Some examples of scheduling algorithms are:
+  - First Come First Serve (FCFS): The process that requests the CPU first is allocated the CPU first. It is non-preemptive and simple, but may cause long waiting times and convoy effect.
+  - Shortest Job First (SJF): The process with the shortest burst time (the time required by the process to execute on the CPU) is allocated the CPU first. It can be non-preemptive or preemptive (also known as Shortest Remaining Time First or SRTF). It is optimal in minimizing the average waiting time, but may cause starvation and requires the knowledge of burst times in advance.
+  - Priority Scheduling: The process with the highest priority is allocated the CPU first. It can be non-preemptive or preemptive. It can be static (the priority of a process does not change) or dynamic (the priority of a process can change based on various factors). It may cause starvation and requires the definition of priorities for processes.
+  - Round Robin (RR): The processes are allocated the CPU in a circular order for a fixed quantum. It is preemptive and fair, but may cause high context switching overhead and requires the tuning of the quantum size.
+  - Multilevel Queue (MLQ): The processes are divided into different queues based on their characteristics, such as foreground or background, system or user, interactive or batch, etc. Each queue has its own scheduling algorithm, such as FCFS, SJF, RR, etc. The queues are assigned different priorities and the CPU is allocated to the processes in the highest priority queue that is not empty. It is suitable for handling different types of processes, but may cause starvation and requires the classification of processes and the definition of queue priorities.
+  - Multilevel Feedback Queue (MLFQ): It is a variation of MLQ, where the processes can move between different queues based on their behavior, such as CPU-bound or I/O-bound, long or short, etc. The queues have different priorities and different quantum sizes. The CPU is allocated to the processes in the highest priority queue that is not empty. It is adaptive and flexible, but

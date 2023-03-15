@@ -1,0 +1,22 @@
+# Linear Bounded Automata
+
+- A linear bounded automaton (LBA) is a type of Turing machine that has a finite amount of tape to work with.
+- The tape is divided into cells, each containing a symbol from the tape alphabet.
+- The tape alphabet includes two special symbols, called left and right endmarkers, that indicate the boundaries of the tape.
+- The LBA has a finite set of states and a transition function that determines how it moves from one state to another, depending on the current state and the symbol under the tape head.
+- The LBA can also change the symbol under the tape head, except for the endmarkers.
+- The LBA can move the tape head left or right, but not beyond the endmarkers.
+- The LBA can be deterministic or nondeterministic, depending on whether the transition function is one-to-one or one-to-many.
+- The LBA can be multi-track, meaning that each tape cell can store more than one symbol, as long as the number of tracks is fixed.
+- The LBA can accept or reject an input string by entering a final or non-final state, respectively.
+- The LBA can be defined as an 8-tuple (Q, X, ∑, q0, ML, MR, δ, F), where:
+  - Q is the finite set of states
+  - X is the tape alphabet
+  - ∑ is the input alphabet, a subset of X without the endmarkers
+  - q0 is the initial state
+  - ML and MR are the left and right endmarkers, respectively
+  - δ is the transition function, a mapping from Q × X to 2^(Q × X × {L, R})
+  - F is the set of final states, a subset of Q
+- The LBA can recognize a class of languages called context-sensitive languages, which are more powerful than context-free languages but less powerful than recursively enumerable languages.
+- The LBA can also decide a class of problems called linear space problems, which are those that can be solved using a linear amount of space in terms of the input size.
+- The LBA is a model of computation that captures the notion of bounded memory.

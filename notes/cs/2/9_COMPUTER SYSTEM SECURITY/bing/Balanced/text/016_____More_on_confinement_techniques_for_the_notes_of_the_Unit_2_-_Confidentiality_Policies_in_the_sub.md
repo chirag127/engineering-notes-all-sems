@@ -1,0 +1,12 @@
+### More on confinement techniques
+
+- Confinement techniques are methods to prevent unauthorized information flow from a process or a system to another process or system.
+- Confinement techniques aim to enforce the principle of least privilege, which states that a process or a system should only have the minimum access rights necessary to perform its function.
+- Confinement techniques can be classified into two categories: static and dynamic.
+  - Static confinement techniques are applied before the execution of a process or a system, and do not change during the execution. Examples of static confinement techniques are access control lists, role-based access control, and mandatory access control.
+  - Dynamic confinement techniques are applied during the execution of a process or a system, and can change according to the context or the behavior of the process or system. Examples of dynamic confinement techniques are sandboxing, virtualization, and encryption.
+- Confinement techniques face the challenge of distinguishing between authorized and unauthorized information flow, especially when the process or system needs to communicate with other processes or systems. This is known as the confinement problem.
+- Confinement techniques also need to consider the possibility of covert channels, which are hidden ways of transmitting information that bypass the confinement mechanism. Covert channels can be classified into two types: storage and timing.
+  - Storage covert channels use a shared resource, such as memory or disk space, to store information that can be later retrieved by another process or system.
+  - Timing covert channels use the timing of events, such as CPU usage or network traffic, to encode information that can be later decoded by another process or system.
+- Confinement techniques can be evaluated based on several criteria, such as effectiveness, efficiency, usability, and compatibility. Effectiveness measures how well the technique prevents unauthorized information flow. Efficiency measures how much the technique impacts the performance of the process or system. Usability measures how easy the technique is to implement and use. Compatibility measures how well the technique works with existing systems and applications.

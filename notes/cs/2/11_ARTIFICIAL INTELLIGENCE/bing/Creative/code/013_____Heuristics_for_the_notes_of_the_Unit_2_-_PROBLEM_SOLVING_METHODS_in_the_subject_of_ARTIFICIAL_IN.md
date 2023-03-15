@@ -1,0 +1,20 @@
+# Heuristics for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Heuristics are techniques that are used to solve problems or make decisions in situations where traditional methods are too slow or impractical .
+- Heuristics are often based on human intuition, experience, or common sense, and they aim to find approximate solutions that are good enough for the specific problem at hand .
+- Heuristics are an inevitable and inseparable part of artificial intelligence, as they simulate the human thinking process and enable the AI system to deal with complex, uncertain, or dynamic environments .
+- Heuristics can be used in conjunction with optimization algorithms to enhance the overall efficiency and quality of the desired results, or they can be used as standalone methods when optimization is not feasible or necessary .
+- Heuristics can be classified into different types, such as:
+  - **Constructive heuristics**: These heuristics build a solution incrementally, by adding one element at a time, until a complete or satisfactory solution is obtained. For example, a greedy algorithm is a constructive heuristic that always chooses the best option available at each step.
+  - **Improvement heuristics**: These heuristics start with an initial solution, and then try to improve it by making small changes, such as swapping, inserting, or deleting some elements. For example, a local search algorithm is an improvement heuristic that explores the neighborhood of the current solution and moves to a better one if possible.
+  - **Metaheuristics**: These heuristics are general-purpose methods that can be applied to a wide range of problems, and they combine different heuristics or strategies to explore the solution space and escape from local optima. For example, a genetic algorithm is a metaheuristic that mimics the natural process of evolution and uses crossover, mutation, and selection operators to generate new solutions.
+- Heuristics can be evaluated based on different criteria, such as:
+  - **Effectiveness**: This criterion measures how well the heuristic can find a solution that meets the problem requirements and constraints, and how close the solution is to the optimal one (if known).
+  - **Efficiency**: This criterion measures how fast the heuristic can find a solution, and how much computational resources (such as time, memory, or energy) it consumes.
+  - **Robustness**: This criterion measures how well the heuristic can cope with different problem instances, variations, or uncertainties, and how consistent its performance is across different scenarios.
+  - **Simplicity**: This criterion measures how easy the heuristic is to understand, implement, and modify, and how transparent its logic and behavior are.
+- Heuristics can be applied to various domains and problems in artificial intelligence, such as:
+  - **Search**: Heuristics can be used to guide the search process and prioritize the most promising nodes or paths in the search space. For example, a heuristic function can estimate the cost or distance from a node to the goal, and a best-first search algorithm can use this function to select the node with the lowest value.
+  - **Planning**: Heuristics can be used to generate or evaluate plans that achieve a given goal or objective. For example, a heuristic can estimate the difficulty or usefulness of an action, and a planning algorithm can use this information to select the best action to execute.
+  - **Scheduling**: Heuristics can be used to assign tasks or resources to time slots or locations, in order to optimize some criteria, such as minimizing the total cost, maximizing the quality, or satisfying the preferences. For example, a heuristic can assign the most urgent or important tasks first, or the most compatible or convenient resources first.
+  - **Machine learning**: Heuristics can be used to learn from data or experience, and to adapt to new situations or feedback. For example, a heuristic can select the most relevant or informative features, examples, or models, or it can adjust the parameters or weights of a learning algorithm.

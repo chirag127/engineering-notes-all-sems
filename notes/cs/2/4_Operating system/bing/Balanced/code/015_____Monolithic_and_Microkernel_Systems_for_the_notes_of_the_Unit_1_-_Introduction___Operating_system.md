@@ -1,0 +1,12 @@
+### Monolithic and Microkernel Systems
+
+- A **kernel** is the core component of an operating system that manages the system resources, such as memory, CPU, disk, and network.
+- A **monolithic kernel** is an operating system architecture where the entire operating system is working in **kernel space** , which is a protected and privileged area of memory.
+- A **microkernel** is an operating system architecture where only the most essential components of the operating system are working in kernel space, such as inter-process communication, memory management, and basic hardware abstraction . The rest of the operating system services, such as file system, device drivers, network protocols, and user interface, are working in **user space**, which is a less privileged and more flexible area of memory.
+- Some of the key differences between monolithic and microkernel systems are:
+
+  - **Space usage for execution**: Monolithic kernel runs all the operating system instructions in the same address space, the kernel space, whereas microkernel runs most system instructions in user space and only a few in kernel space.
+  - **Performance**: Monolithic kernel has faster performance than microkernel, as it does not require context switching or message passing between different modules . However, microkernel has better modularity and extensibility, as it allows adding, removing, or updating modules without affecting the whole system .
+  - **Reliability and security**: Monolithic kernel is less reliable and secure than microkernel, as a failure or a bug in one module can crash the entire system or compromise its security . Microkernel is more reliable and secure, as a failure or a bug in one module can be isolated and fixed without affecting the rest of the system .
+  - **Complexity and development**: Monolithic kernel is more complex and difficult to develop and maintain than microkernel, as it requires a deep understanding of the entire system and its interactions . Microkernel is simpler and easier to develop and maintain, as it requires only a minimal knowledge of the core system and its interfaces .
+  - **Examples**: Some examples of operating systems that use monolithic kernel are Linux, Windows, and MacOS . Some examples of operating systems that use microkernel are QNX, Minix, and L4 .

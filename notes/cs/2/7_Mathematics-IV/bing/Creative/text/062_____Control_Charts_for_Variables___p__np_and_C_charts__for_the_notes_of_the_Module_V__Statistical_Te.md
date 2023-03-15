@@ -1,0 +1,22 @@
+### Control Charts for Variables (p, np and c charts)
+
+- Control charts are graphical tools that help monitor the quality of a process by plotting the variation of a quality characteristic over time.
+- Control charts can be classified into two types: variable control charts and attribute control charts.
+- Variable control charts are used for continuous data, such as length, weight, temperature, etc. Attribute control charts are used for discrete data, such as defects, errors, failures, etc.
+- There are four types of attribute control charts: p chart, np chart, c chart and u chart.
+- p chart is used to plot the proportion of defective items in a sample. np chart is used to plot the number of defective items in a sample. c chart is used to plot the number of defects in a sample. u chart is used to plot the number of defects per unit in a sample.
+- The assumptions for attribute control charts are:
+  - The samples are independent and randomly selected from the population.
+  - The quality characteristic is binary, i.e., either defective or non-defective, or either defect or no defect.
+  - The probability of defect is constant for each item in the population (except for u chart).
+- The control limits for attribute control charts are calculated using the following formulas:
+  - p chart: UCL = p̅ + zα/2 √(p̅(1-p̅)/n), LCL = p̅ - zα/2 √(p̅(1-p̅)/n), where p̅ is the average proportion of defective items, n is the sample size, and zα/2 is the z-score for the given confidence level (usually 95% or 99%).
+  - np chart: UCL = np̅ + zα/2 √(np̅(1-p̅)), LCL = np̅ - zα/2 √(np̅(1-p̅)), where np̅ is the average number of defective items, and the other symbols are the same as above.
+  - c chart: UCL = c̅ + zα/2 √(c̅), LCL = c̅ - zα/2 √(c̅), where c̅ is the average number of defects.
+  - u chart: UCL = u̅ + zα/2 √(u̅/n̅), LCL = u̅ - zα/2 √(u̅/n̅), where u̅ is the average number of defects per unit, and n̅ is the average sample size.
+- To construct an attribute control chart, the following steps are followed:
+  - Collect samples of the quality characteristic at regular intervals and record the number or proportion of defects or defectives.
+  - Calculate the average and the control limits using the formulas above.
+  - Plot the data points and the control limits on a chart.
+  - Interpret the chart by looking for patterns or trends that indicate the process is out of control, such as points beyond the control limits, runs of points above or below the center line, or cycles or shifts in the data.
+- Attribute control charts are useful for monitoring the quality of a process and detecting any changes in the process performance. They can also help identify the sources of variation and improve the process capability.

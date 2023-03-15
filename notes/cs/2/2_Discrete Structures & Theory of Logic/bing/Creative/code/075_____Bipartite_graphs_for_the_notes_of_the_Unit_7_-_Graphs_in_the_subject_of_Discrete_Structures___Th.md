@@ -1,0 +1,22 @@
+### Bipartite Graphs
+
+- A **bipartite graph** is a graph whose vertices can be divided into two disjoint and independent sets, such that every edge connects a vertex in one set to a vertex in the other set .
+- The two sets are usually called the **parts** of the graph, and are denoted by and .
+- A bipartite graph can also be seen as a graph that is **two-colorable**, meaning that the vertices can be colored with two colors such that no two adjacent vertices have the same color.
+- A **complete bipartite graph** is a bipartite graph where every vertex in one part is connected to every vertex in the other part.
+- A complete bipartite graph with vertices in and vertices in is denoted by .
+- A **subgraph** of a graph is a graph whose vertices and edges are subsets of the vertices and edges of the original graph.
+- A graph is **bipartite** if and only if it has no **odd cycles**, meaning cycles of odd length.
+- A **matching** in a graph is a set of edges such that no two edges share a common vertex.
+- A **maximum matching** in a graph is a matching that contains the largest possible number of edges.
+- A **perfect matching** in a graph is a matching that covers all the vertices of the graph.
+- A **bipartite matching** is a matching in a bipartite graph.
+- A **maximum bipartite matching** is a maximum matching in a bipartite graph.
+- A **perfect bipartite matching** is a perfect matching in a bipartite graph.
+- A **Hall's theorem** states that a bipartite graph has a perfect matching if and only if for every subset of vertices in one part, the number of neighbors in the other part is at least as large as the size of the subset.
+- A **König's theorem** states that in a bipartite graph, the size of a maximum matching is equal to the size of a minimum vertex cover, where a vertex cover is a set of vertices that touches all the edges of the graph.
+- A **Hungarian algorithm** is a method for finding a maximum matching in a weighted bipartite graph, where each edge has a numerical value or weight.
+- A **weighted bipartite matching** is a matching in a weighted bipartite graph.
+- A **maximum weighted bipartite matching** is a weighted bipartite matching that has the largest possible sum of weights of the edges.
+- A **minimum weighted bipartite matching** is a weighted bipartite matching that has the smallest possible sum of weights of the edges.
+- A **bipartite graph** can be used to model many real-world problems, such as **assignment problems**, where a set of tasks has to be assigned to a set of agents, or **network flow problems**, where a commodity has to be transported from a set of sources to a set of sinks .

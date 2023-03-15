@@ -1,0 +1,13 @@
+### Disk storage and disk scheduling
+
+- Disk storage is the use of secondary storage devices, such as hard disks, to store data and programs in operating systems.
+- Disk scheduling is the technique used by the operating system to manage multiple requests for accessing the disk and to optimize the disk performance.
+- Disk scheduling algorithms are the methods used by the operating system to decide the order of servicing the disk requests.
+- The main objective of disk scheduling algorithms is to reduce the total seek time, which is the time taken by the disk head to move from one track to another.
+- Some of the common disk scheduling algorithms are:
+  - First Come First Serve (FCFS): This algorithm serves the disk requests in the order they arrive, without any reordering. It is simple but not efficient, as it may cause long seek times and disk head movements.
+  - Shortest Seek Time First (SSTF): This algorithm serves the disk request that is closest to the current position of the disk head, minimizing the seek time for each request. It is more efficient than FCFS, but it may cause starvation for some requests that are far away from the disk head.
+  - SCAN: This algorithm moves the disk head from one end of the disk to the other, serving the requests in one direction. Then it reverses the direction and repeats the process. It is also known as the elevator algorithm, as it resembles the movement of an elevator. It is fair and efficient, but it may cause long waiting times for some requests at the ends of the disk.
+  - C-SCAN: This algorithm is a variation of SCAN, where the disk head moves from one end of the disk to the other, serving the requests in one direction. Then it jumps back to the other end and repeats the process. It is also known as the circular scan algorithm, as it treats the disk as a circular track. It is more uniform than SCAN, as it reduces the waiting time for the requests at the ends of the disk.
+  - LOOK: This algorithm is similar to SCAN, but it does not move the disk head to the ends of the disk, unless there is a request there. It looks ahead for the requests in the current direction and changes the direction when there are no more requests. It is more efficient than SCAN, as it reduces the unnecessary disk head movements.
+  - C-LOOK: This algorithm is similar to C-SCAN, but it does not move the disk head to the ends of the disk, unless there is a request there. It looks ahead for the requests in the current direction and jumps back to the other end when there are no more requests. It is more efficient than C-SCAN, as it reduces the unnecessary disk head movements.

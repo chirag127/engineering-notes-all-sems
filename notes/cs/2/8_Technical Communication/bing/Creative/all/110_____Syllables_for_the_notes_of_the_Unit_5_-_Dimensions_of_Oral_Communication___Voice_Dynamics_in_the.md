@@ -1,0 +1,24 @@
+# Syllables for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- A syllable is a unit of pronunciation that consists of one or more sounds, usually a vowel sound and one or more consonant sounds     .
+- Syllables are the building blocks of spoken words and determine the pace and rhythm of how the words are pronounced .
+- Syllables can have different structures, such as:
+  - Vowel (V): a syllable with only a vowel sound, e.g. a, I, eye, oh, etc.
+  - Consonant-Vowel (CV): a syllable with a consonant sound followed by a vowel sound, e.g. be, go, me, no, etc.
+  - Vowel-Consonant (VC): a syllable with a vowel sound followed by a consonant sound, e.g. at, in, on, up, etc.
+  - Consonant-Vowel-Consonant (CVC): a syllable with a consonant sound followed by a vowel sound and another consonant sound, e.g. cat, dog, sun, etc.
+  - Consonant-Consonant-Vowel (CCV): a syllable with two consonant sounds followed by a vowel sound, e.g. try, sky, fly, etc.
+  - Consonant-Vowel-Consonant-Consonant (CVCC): a syllable with a consonant sound followed by a vowel sound and two consonant sounds, e.g. fast, last, best, etc.
+  - Consonant-Consonant-Vowel-Consonant (CCVC): a syllable with two consonant sounds followed by a vowel sound and another consonant sound, e.g. stop, drop, clap, etc.
+  - Consonant-Consonant-Vowel-Consonant-Consonant (CCVCC): a syllable with two consonant sounds followed by a vowel sound and two more consonant sounds, e.g. split, twist, crisp, etc.
+- Syllables can be classified into different types based on the stress or emphasis they receive in a word, such as:
+  - Stressed syllable: a syllable that is pronounced with more force or loudness than the other syllables in a word, e.g. the first syllable in `table`, the second syllable in `re`port, etc.
+  - Unstressed syllable: a syllable that is pronounced with less force or loudness than the other syllables in a word, e.g. the second syllable in `table`, the first syllable in `re`port, etc.
+  - Primary stress: the most stressed syllable in a word, e.g. the first syllable in `water`, the second syllable in `be`gin, etc.
+  - Secondary stress: the second most stressed syllable in a word, e.g. the third syllable in `in`ter`est`ing, the fourth syllable in `in`for`ma`tion, etc.
+  - Tertiary stress: the third most stressed syllable in a word, e.g. the fifth syllable in `in`ter`na`tion`al`, the sixth syllable in `in`ter`na`tion`al`i`za`tion, etc.
+- Syllables are important for oral communication and voice dynamics because they affect the following aspects of speech:
+  - Intonation: the rise and fall of the pitch or tone of the voice, which conveys meaning, emotion, and attitude, e.g. rising intonation at the end of a question, falling intonation at the end of a statement, etc.
+  - Rhythm: the pattern of stressed and unstressed syllables in a sentence, which creates a natural flow and pace of speech, e.g. alternating stressed and unstressed syllables in `I like ice cream`, stressing every other syllable in `She was walking down the street`, etc.
+  - Pronunciation: the way a word or a sound is spoken, which affects the clarity and accuracy of communication, e.g. pronouncing the final consonant sound in `cat` and `dog`, pronouncing the vowel sound in `bit` and `bite`, etc.
+  - Fluency: the ability to speak smoothly and effortlessly, without pauses, hesitations, or errors, which

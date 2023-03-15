@@ -1,0 +1,17 @@
+### Knowledge Representation
+
+Knowledge representation (KR) is a field of artificial intelligence that focuses on designing computer representations that capture information about the world that can be used for solving complex problems. KR is also concerned with how the knowledge can be manipulated, reasoned with, and communicated by a computer system. Some of the objectives of KR are:
+
+- Representational accuracy: KR should be able to represent all kinds of required knowledge, such as facts, rules, concepts, categories, relations, events, actions, goals, preferences, etc.
+- Inferential adequacy: KR should be able to manipulate the representational structures to produce new knowledge corresponding to the logical consequences of the existing knowledge.
+- Inferential efficiency: KR should be able to perform the inferential tasks within a reasonable amount of time and space.
+- Acquisitional efficiency: KR should be able to acquire new knowledge from various sources, such as human experts, databases, sensors, natural language texts, etc.
+- Communicability: KR should be able to communicate the knowledge to other agents, such as humans or other computer systems, in a clear and understandable way.
+
+Some of the common techniques for KR are:
+
+- Logic: Logic is a formal system of symbols and rules that can be used to represent and reason about propositions, facts, and relations. Logic can be divided into various types, such as propositional logic, predicate logic, modal logic, temporal logic, etc. Logic can also be used to define ontologies, which are formal specifications of the concepts and relations in a domain of interest.
+- Semantic networks: Semantic networks are graphical representations of concepts and relations, where nodes represent concepts and edges represent relations. Semantic networks can be used to model hierarchical, associative, and causal knowledge. Semantic networks can also be enhanced with logic, such as description logic, to provide more expressive and inferential power.
+- Frames: Frames are data structures that represent entities or situations, where each frame consists of a set of slots and values. Slots can represent attributes, properties, or relations of the entity or situation, and values can be constants, variables, or pointers to other frames. Frames can be used to model structured, object-oriented, and default knowledge. Frames can also be organized into inheritance hierarchies, where subclasses can inherit the slots and values of their superclasses.
+- Production rules: Production rules are conditional statements that specify actions to be performed when certain conditions are met. Production rules can be used to model procedural, declarative, and conditional knowledge. Production rules can also be organized into rule-based systems, where a set of rules are applied to a set of facts in a working memory, and a conflict resolution strategy is used to select the rules to fire.
+- Scripts: Scripts are sequences of actions or events that describe typical scenarios or behaviors. Scripts can be used to model episodic, temporal, and causal knowledge. Scripts can also be associated with roles, actors, and goals, to provide more context and flexibility. Scripts can also be linked to other scripts, to form complex narratives or plans.

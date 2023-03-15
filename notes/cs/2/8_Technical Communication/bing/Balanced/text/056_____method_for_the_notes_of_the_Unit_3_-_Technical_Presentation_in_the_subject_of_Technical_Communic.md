@@ -1,0 +1,12 @@
+### Method for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that conveys technical information to a specific audience, such as engineers, managers, customers, or the general public.
+- The purpose of a technical presentation is to inform, persuade, or instruct the audience about a technical topic, such as a new product, a research project, a problem solution, or a proposal.
+- The method for the notes of a technical presentation consists of the following steps:
+
+  1. Analyze the audience and the context of the presentation. Consider the audience's background, needs, expectations, and interests, as well as the time, place, and occasion of the presentation.
+  2. Define the objective and the scope of the presentation. State the main message or goal of the presentation, and limit the scope to what can be covered in the allotted time.
+  3. Organize the content of the presentation. Use a logical structure, such as introduction, body, and conclusion, and divide the content into main points and subpoints. Use transitions, signposts, and summaries to guide the audience through the presentation.
+  4. Design the visual aids for the presentation. Choose the appropriate type and number of visual aids, such as slides, charts, graphs, diagrams, or videos, to support the content and enhance the audience's understanding and attention. Follow the principles of clarity, simplicity, consistency, and relevance when creating the visual aids.
+  5. Prepare the notes for the presentation. Write the notes in a concise and clear language, using keywords, phrases, or sentences. Use the notes as a guide, not a script, and avoid reading them word for word. Use the notes to remind yourself of the main points, the transitions, the examples, and the questions.
+  6. Practice and rehearse the presentation. Practice the presentation several times, preferably in front of a mirror, a recorder, or a friend. Check the timing, the pronunciation, the voice, the gestures, and the eye contact. Revise the notes and the visual aids as needed. Rehearse the presentation in the actual setting, if possible, and test the equipment and the lighting.

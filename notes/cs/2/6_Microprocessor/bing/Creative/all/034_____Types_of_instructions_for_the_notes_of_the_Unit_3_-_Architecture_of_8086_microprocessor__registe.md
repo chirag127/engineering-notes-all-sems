@@ -1,0 +1,19 @@
+# Types of instructions for the notes of the Unit 3 - Architecture of 8086 microprocessor: register organization, bus interface unit, execution unit, memory addressing, and memory segmentation. Operating modes. Instruction sets, instruction format, Types of instructions. Interrupts: hardware and software interrupts.
+
+- The 8086 microprocessor is a 16-bit microprocessor that was designed by Intel in 1976. It has 20 address lines and 16 data lines that provide up to 1 MB of memory space.
+- The 8086 microprocessor has two main functional units: the bus interface unit (BIU) and the execution unit (EU) .
+  - The BIU is responsible for fetching instructions from memory, calculating the effective addresses of operands, and transferring data between the microprocessor and the external devices .
+  - The EU is responsible for decoding and executing the instructions, performing arithmetic and logical operations, and updating the flags and registers .
+- The 8086 microprocessor has 14 registers, divided into four groups: general-purpose registers, segment registers, pointer and index registers, and flag register  .
+  - The general-purpose registers are AX, BX, CX, and DX, each 16-bit wide. They can be used for data manipulation, arithmetic operations, and input/output operations. They can also be split into two 8-bit registers, such as AH and AL for AX  .
+  - The segment registers are CS, DS, SS, and ES, each 16-bit wide. They are used to define the memory segments where the code, data, stack, and extra data are stored. They are combined with the offset addresses to form the physical addresses of memory locations  .
+  - The pointer and index registers are SP, BP, SI, and DI, each 16-bit wide. They are used to store the offset addresses of the stack, base, source, and destination operands, respectively. They can be used for indirect addressing, string manipulation, and array indexing  .
+  - The flag register is a 16-bit register that contains 9 flags that indicate the status of the microprocessor after an operation. The flags are: carry, parity, auxiliary carry, zero, sign, trap, interrupt, direction, and overflow  .
+- The 8086 microprocessor supports two operating modes: minimum mode and maximum mode .
+  - The minimum mode is used when the 8086 microprocessor is the only processor in the system. In this mode, the microprocessor generates all the control signals for memory and I/O interfacing .
+  - The maximum mode is used when the 8086 microprocessor is part of a multiprocessor system. In this mode, the microprocessor uses an external coprocessor, such as 8087, 8089, or 8088, to share the system bus and perform specialized tasks. The microprocessor also uses an external bus controller, such as 8288, to generate the control signals for memory and I/O interfacing .
+- The 8086 microprocessor supports a rich and powerful instruction set that can perform various operations on data, such as arithmetic, logical, shift, rotate, compare, transfer, branch, loop, call, return, and interrupt .
+- The 8086 microprocessor has a variable-length instruction format, ranging from 1 byte to 6 bytes. Each instruction consists of one or more of the following fields: prefix, opcode, mod-reg-r/m, displacement, and immediate .
+  - The prefix field is an optional field that modifies the default segment, operand size, or address size of the instruction .
+  - The opcode field is a mandatory field that specifies the operation to be performed by the instruction. It can be 1 byte or 2 bytes long .
+  - The mod-reg-r/m field is an optional field that specifies the addressing mode and the operands of the instruction. It can be 1 byte long [^

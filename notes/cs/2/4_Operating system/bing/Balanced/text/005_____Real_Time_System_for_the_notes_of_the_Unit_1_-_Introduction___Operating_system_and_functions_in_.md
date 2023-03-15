@@ -1,0 +1,30 @@
+### Real Time System for the notes of the Unit 1 - Introduction : Operating system and functions in the subject of Operating system
+
+- A real time system is a system that must process data and events within a specific time limit, otherwise it may cause failure or loss .
+- A real time operating system (RTOS) is an operating system that supports the development and execution of real time applications    .
+- An RTOS has two key features: predictability and determinism.
+  - Predictability means that the system can guarantee that a task will be completed within a certain time bound.
+  - Determinism means that the system can guarantee that a task will always produce the same output for the same input.
+- An RTOS is different from a general-purpose operating system (GPOS), such as Windows or Linux, which manages the sharing of system resources with a scheduler, data buffers, or fixed task priorities .
+  - A GPOS is designed to optimize the average performance and throughput of the system, not the worst-case response time.
+  - A GPOS may have unpredictable delays or interruptions due to factors such as paging, swapping, caching, or preemption.
+- An RTOS is also different from a bare-metal system, which is a system that runs without an operating system and directly interacts with the hardware.
+  - A bare-metal system may have low overhead and high performance, but it lacks the features and services of an operating system, such as memory management, file system, network stack, or device drivers.
+  - A bare-metal system may also have difficulty in supporting complex or concurrent applications, or porting to different hardware platforms.
+- An RTOS provides the following functions and services to support real time applications    :
+  - Real time multithreading, which allows the creation and execution of multiple tasks that can run concurrently and independently.
+  - Inter-thread communication and synchronization, which allows the exchange of data and signals between tasks, and the coordination of their execution order and timing.
+  - Memory management, which allocates and deallocates memory for tasks and data, and ensures that memory is used efficiently and safely.
+  - Input/output management, which handles the interaction with external devices, such as sensors, actuators, or displays, and provides device drivers and protocols.
+  - Interrupt handling, which responds to external or internal events that require immediate attention, and invokes the appropriate tasks or handlers.
+  - Timer and clock services, which provide accurate and reliable measurement and control of time, and support periodic or one-shot tasks.
+  - Power management, which optimizes the energy consumption and battery life of the system, and supports low-power modes or wake-up events.
+  - Debugging and testing tools, which help the developers to find and fix errors, and to verify the correctness and performance of the system.
+- An RTOS can be classified into three types based on the strictness of the time constraints:
+  - Hard real time operating system, which guarantees that critical tasks will be completed within a specified time bound, otherwise it may cause catastrophic consequences.
+  - Soft real time operating system, which provides some relaxation in the time limit, and allows some tasks to miss their deadlines occasionally without causing serious damage.
+  - Firm real time operating system, which requires that tasks meet their deadlines, but does not care about the quality of the output if they miss their deadlines.
+- An RTOS can be used for various applications that require real time performance, such as    :
+  - Embedded systems, such as automotive, aerospace, industrial, medical, or consumer electronics    .
+  - Robotics, such as autonomous vehicles, drones, or humanoid robots    .
+  - Multimedia, such as audio, video, or gaming   [^4

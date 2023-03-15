@@ -1,0 +1,11 @@
+### ROM memories for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- ROM stands for Read Only Memory. It is a type of non-volatile memory that stores data permanently and cannot be modified or erased by the user.
+- ROM is used to store fixed programs that are not to be altered and for tables of constants that are not subject to change. For example, ROM is used to store the computer’s BIOS (basic input/output system), which contains the instructions for booting the computer, as well as firmware for other hardware devices.
+- ROM is also used to implement any combinational circuit with k inputs and n outputs. For example, ROM can be used to design a control unit for a digital computer.
+- There are different types of ROM memories based on the method of fabrication and programming. Some of the common types are:
+  - Mask ROM: It is a ROM chip that physically encodes the data to be stored during the fabrication process. It is the cheapest and fastest type of ROM, but it is not programmable by the user.
+  - Programmable ROM (PROM): It is a ROM chip that can be programmed by the user using a special device called a PROM programmer. It can be programmed only once and cannot be erased or modified.
+  - Erasable PROM (EPROM): It is a ROM chip that can be erased and reprogrammed by the user using a special device that emits ultraviolet light. It can be reprogrammed multiple times, but the erasing process is slow and requires removing the chip from the circuit.
+  - Electrically Erasable PROM (EEPROM): It is a ROM chip that can be erased and reprogrammed by the user using an electric signal. It can be reprogrammed multiple times, but the erasing and programming process is slower and consumes more power than EPROM.
+  - Flash ROM: It is a ROM chip that can be erased and reprogrammed by the user in blocks or sectors using an electric signal. It can be reprogrammed multiple times, and the erasing and programming process is faster and consumes less power than EEPROM.

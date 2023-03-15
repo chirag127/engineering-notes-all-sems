@@ -1,0 +1,16 @@
+### Three Phase Synchronous Machines
+
+- A three phase synchronous machine is a type of electric machine that can operate as either a generator or a motor, depending on the direction of power flow.
+- A three phase synchronous machine consists of two main parts: a stator and a rotor.
+- The stator is the stationary part of the machine that contains a three phase winding, which is connected to the AC supply or the load. The stator winding produces a rotating magnetic field when energized by AC current.
+- The rotor is the rotating part of the machine that contains a DC field winding, which is excited by a DC source or an exciter. The rotor field interacts with the stator field to produce torque and power.
+- The rotor can be either cylindrical (round rotor) or salient pole (projected pole), depending on the shape and distribution of the field poles. Round rotor machines are used for high speed and high power applications, such as steam turbines and gas turbines. Salient pole machines are used for low speed and low power applications, such as hydro generators and single phase motors.
+- The speed of the rotor is equal to the speed of the stator field, which is determined by the frequency of the AC supply and the number of poles on the stator. This speed is called the synchronous speed, and it is given by the formula:
+
+  `N_s = 120f / P`
+
+  where N_s is the synchronous speed in rpm, f is the frequency in Hz, and P is the number of poles on the stator.
+
+- A three phase synchronous machine can operate in two modes: synchronous mode and asynchronous mode. In synchronous mode, the rotor speed is equal to the synchronous speed, and the machine is said to be in synchronism. In asynchronous mode, the rotor speed is different from the synchronous speed, and the machine is said to be out of synchronism.
+- A three phase synchronous generator converts mechanical energy into electrical energy by rotating the rotor field in the same direction as the stator field. The output voltage and frequency of the generator depend on the speed and excitation of the rotor. The generator can supply power to a balanced or unbalanced load, depending on the connection of the stator winding (star or delta).
+- A three phase synchronous motor converts electrical energy into mechanical energy by rotating the rotor field in the opposite direction as the stator field. The input voltage and frequency of the motor determine the speed and torque of the rotor. The motor can be started by various methods, such as damper winding, induction motor, or external source. The motor can operate at constant speed or variable speed, depending on the control of the rotor excitation.

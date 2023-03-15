@@ -1,0 +1,12 @@
+### Trust and Reputation in Multi-Agent Systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS) where agents can cooperate, coordinate, and negotiate with each other.
+- Trust is the subjective belief that an agent has about the reliability, honesty, and competence of another agent in a specific context or domain.
+- Reputation is the collective opinion that a group of agents has about the trustworthiness of another agent based on their direct or indirect experiences or observations.
+- Trust and reputation can help agents to select suitable partners, avoid malicious or incompetent agents, and cope with uncertainty and risk in dynamic and complex environments.
+- Several models and mechanisms have been proposed in the literature to represent, measure, and update trust and reputation in MAS. Some of the prominent ones are:
+  - Marsh's model: A formal model of trust that defines trust as a function of basic trust, general trust, and situational trust. Basic trust is the initial trust that an agent has in another agent based on their personal characteristics. General trust is the trust that an agent has in another agent based on their past interactions. Situational trust is the trust that an agent has in another agent in a specific situation or context.
+  - Sen et al.'s model: A computational model of trust that uses a Bayesian network to represent and update trust based on the evidence of the outcomes of previous interactions. The model also considers the uncertainty and variability of the evidence and the trust values.
+  - SPORAS: A reputation system that uses a simple scoring scheme to assign reputation scores to agents based on their feedback ratings from other agents. The system also uses a normalization technique to adjust the scores according to the number and quality of the ratings.
+  - eBay's system: A reputation system that uses a feedback mechanism to allow buyers and sellers to rate each other after a transaction. The system computes the reputation score of an agent as the difference between the number of positive and negative ratings. The system also displays the history and distribution of the ratings for each agent.
+  - Certified reputation: A reputation system that uses a third-party certification authority to verify and certify the reputation of agents. The system also allows agents to query the certification authority for the reputation of other agents and to update their own reputation based on their interactions.

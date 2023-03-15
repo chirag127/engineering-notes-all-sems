@@ -1,0 +1,36 @@
+# Basics: Expressions for the notes of the Unit 1 - Introduction: The Programming Cycle for Python , Python IDE, Interacting with Python Programs , Elements of Python, Type Conversion.
+
+- An expression is a combination of operators and operands that is interpreted to produce some other value.
+- Operators are special symbols that designate that some sort of computation should be performed.
+- Operands are the values or variables on which the operators act.
+- Python expressions only contain identifiers, literals, and operators.
+- Identifiers are any name that is used to define a class, function, variable, module, or object.
+- Literals are language-independent terms in Python and should exist independently in any programming language.
+- Examples of literals are numbers, strings, booleans, etc.
+- Python supports various types of operators, such as arithmetic, assignment, comparison, logical, bitwise, membership, identity, etc.
+- The precedence of operators determines the order of evaluation of expressions.
+- Python follows the PEMDAS rule for operator precedence, which stands for Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+- Expressions can be evaluated in different ways in Python, such as using the interactive interpreter, writing a script file, or using a function.
+- The interactive interpreter is a program that allows the user to type Python expressions and see the results immediately.
+- A script file is a text file that contains Python statements and expressions that can be executed by the Python interpreter.
+- A function is a block of code that can be defined and called with some parameters and return a value.
+- Python also supports function annotations, which are arbitrary Python expressions that are associated with various parts of functions.
+- Function annotations are evaluated at compile time and have no life in Python’s runtime environment.
+- Python does not attach any meaning to these annotations, but they can be used by third-party tools or libraries for type checking, documentation, etc.
+- To write and run Python programs, the user needs a Python IDE (Integrated Development Environment), which is a software application that provides various features such as code editing, debugging, testing, etc.
+- Some examples of Python IDEs are PyCharm, Visual Studio Code, Spyder, etc.
+- To interact with Python programs, the user can use various input and output functions, such as print(), input(), etc.
+- The print() function displays the value of an expression or a string to the standard output device, such as the console or the screen.
+- The input() function reads a line of text from the standard input device, such as the keyboard, and returns it as a string.
+- The user can also use formatted strings, which are strings that contain placeholders for values that can be inserted using the format() method or the f-string syntax.
+- Examples of formatted strings are "Hello, {}!".format(name) or f"Hello, {name}!".
+- The elements of Python are the basic components that make up the language, such as keywords, identifiers, literals, operators, expressions, statements, blocks, comments, etc.
+- Keywords are reserved words that have a special meaning and syntax in Python, such as def, if, for, etc.
+- Identifiers are user-defined names that can be used to refer to variables, functions, classes, modules, etc.
+- Literals are fixed values that can be of various types, such as numbers, strings, booleans, etc.
+- Operators are symbols that perform some computation on operands, such as +, -, *, /, etc.
+- Expressions are combinations of operators and operands that produce a value, such as x + y, 2 ** 3, etc.
+- Statements are instructions that tell the Python interpreter what to do, such as assignment, conditional, loop, etc.
+- Blocks are groups of statements that are executed together, such as the body of a function, a loop, or an if statement.
+- Comments are lines of text that are ignored by the Python interpreter, but can be used to document or explain the code, such as # This is a comment.
+- Type conversion is the process of changing the data type of a value or a variable, such as from int to float

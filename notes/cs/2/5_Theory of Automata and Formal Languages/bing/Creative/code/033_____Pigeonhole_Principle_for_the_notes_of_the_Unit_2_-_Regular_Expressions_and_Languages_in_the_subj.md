@@ -1,0 +1,9 @@
+### Pigeonhole Principle
+
+- The pigeonhole principle is a basic mathematical idea that states that if there are more items than containers, then at least one container must have more than one item.
+- The principle is also known as Dirichlet's box principle or the drawer principle, and it can be used to prove the existence of certain outcomes or patterns without finding them explicitly.
+- The principle can be illustrated by a simple example: if you have 10 pigeons and 9 holes, then you cannot put one pigeon in each hole. You must put at least two pigeons in one hole. 
+- The principle can be generalized to say that if you have n items and m containers, where n > m, then at least one container must have at least ⌈n/m⌉ items, where ⌈x⌉ is the ceiling function that rounds x up to the nearest integer. 
+- The principle can also be applied to other situations, such as distances, colors, numbers, etc. For example, if you have 5 socks of 2 colors in a drawer, then you only need to pull out 3 socks to guarantee a matching pair. 
+- The principle can be used to prove many interesting results in mathematics and computer science, such as the existence of irrational numbers, the infinitude of primes, the impossibility of perfect hashing, the lower bound of sorting algorithms, etc.  
+- The principle is often used in the context of regular expressions and languages, which are topics in the theory of automata and formal languages. For example, the principle can be used to show that any regular language over an alphabet of size k has a pumping length of at most k+1, which means that any string in the language longer than k+1 can be pumped (repeated or deleted) without leaving the language.

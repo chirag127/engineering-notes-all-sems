@@ -1,0 +1,36 @@
+## Unit 6 - Trees
+
+- A tree is a nonlinear data structure that consists of nodes connected by edges.
+- A tree has the following properties:
+  - There is one node called the root, which has no parent.
+  - Every node except the root has exactly one parent node.
+  - A node can have zero or more child nodes.
+  - There is a unique path from the root to every node.
+  - A node with no children is called a leaf node.
+- Some common types of trees are:
+  - Binary tree: A tree where each node has at most two children.
+  - Binary search tree: A binary tree where the left subtree of a node contains only nodes with values less than the node's value, and the right subtree contains only nodes with values greater than or equal to the node's value.
+  - Balanced binary tree: A binary tree where the height of the left and right subtrees of every node differ by at most one.
+  - AVL tree: A balanced binary search tree where the balance factor of every node is either -1, 0, or 1. The balance factor is the difference between the heights of the left and right subtrees.
+  - Red-black tree: A balanced binary search tree where every node is either red or black, and the following rules are satisfied:
+    - The root is black.
+    - Every leaf is black.
+    - If a node is red, then both its children are black.
+    - Every simple path from a node to a descendant leaf has the same number of black nodes.
+  - B-tree: A tree where each node has a variable number of children, and the following rules are satisfied:
+    - The root has at least two children, unless it is the only node in the tree.
+    - Every node except the root and the leaves has at least `t` children and at most `2t` children, where `t` is a fixed positive integer.
+    - Every leaf has the same depth, which is the height of the tree.
+    - Each node contains `n` keys, where `n` is the number of children minus one, and the keys are sorted in ascending order.
+    - The keys of a node act as separators for the subtrees. For example, if a node has keys `k1, k2, k3`, and children `c1, c2, c3, c4`, then all the keys in `c1` are less than `k1`, all the keys in `c2` are between `k1` and `k2`, all the keys in `c3` are between `k2` and `k3`, and all the keys in `c4` are greater than `k3`.
+  - Trie: A tree where each node represents a prefix of a string, and the children of a node are the possible characters that can extend the prefix. The root represents the empty string. A node is marked as a terminal node if it represents a complete string.
+- Some common operations on trees are:
+  - Traversal: Visiting every node in the tree in a specific order. There are three types of traversal for binary trees:
+    - Preorder: Visit the root, then the left subtree, then the right subtree.
+    - Inorder: Visit the left subtree, then the root, then the right subtree.
+    - Postorder: Visit the left subtree, then the right subtree, then the root.
+  - Search: Finding a node with a given value or key in the tree. The search algorithm depends on the type of the tree. For example, for a binary search tree, we can compare the value with the root, and recursively search in the left or right subtree depending on the result of the comparison.
+  - Insertion: Adding a new node with a given value or key to the tree. The insertion algorithm depends on the type of the tree. For example, for a binary search tree, we can search for the value, and insert the new node as a leaf at the appropriate position.
+  - Deletion: Removing a node with a given value or key from the tree. The deletion algorithm depends on the type of the tree. For example, for a binary search tree, we can search for the value, and replace the node with its successor or predecessor, or with a leaf if it has no children.
+  - Height: Finding the length of the longest path from the root to a leaf in the tree. The height of an empty tree is -1, and the height of a tree with one node is 0.
+  - Size: Finding the number of nodes in the tree. The size of an empty tree is 0, and the size of a tree with one node is 1

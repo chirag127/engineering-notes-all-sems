@@ -1,0 +1,25 @@
+### Alphabet
+
+- An alphabet is a finite, non-empty set of symbols, usually denoted by Σ.
+- The symbols in an alphabet are called letters or characters.
+- Examples of alphabets are:
+  - The binary alphabet: Σ = {0, 1}
+  - The decimal alphabet: Σ = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+  - The ASCII alphabet: Σ = {all 128 ASCII characters}
+  - The English alphabet: Σ = {a, b, c, ..., z, A, B, C, ..., Z}
+- An alphabet can be used to form strings or words by concatenating the symbols in the alphabet.
+- The length of a string is the number of symbols in it, denoted by |w|.
+- The empty string is the string of length zero, denoted by ε or λ.
+- The set of all possible strings over an alphabet Σ is denoted by Σ*.
+- Examples of strings over the binary alphabet are:
+  - ε (the empty string)
+  - 0 (a string of length one)
+  - 101 (a string of length three)
+  - 0101010101 (a string of length ten)
+- A language is a subset of Σ*, that is, a set of strings over an alphabet.
+- Examples of languages over the binary alphabet are:
+  - The empty language: L = {}
+  - The language of all strings of even length: L = {w ∈ Σ* | |w| is even}
+  - The language of all strings that start with 1: L = {w ∈ Σ* | w = 1x for some x ∈ Σ*}
+  - The language of all strings that contain at least two 0s: L = {w ∈ Σ* | w contains at least two 0s}
+- A language can be defined by a set of rules or a pattern that the strings in the language must follow. Such rules or patterns are called grammars or regular expressions.

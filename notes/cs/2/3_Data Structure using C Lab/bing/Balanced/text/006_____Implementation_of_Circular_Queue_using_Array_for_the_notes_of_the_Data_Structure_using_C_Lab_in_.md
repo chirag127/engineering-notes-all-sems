@@ -1,0 +1,24 @@
+### Implementation of Circular Queue using Array
+
+- A circular queue is a linear data structure that follows the **FIFO (First In First Out)** principle.
+- A circular queue can be implemented using an array of fixed size, say `MAX`.
+- A circular queue has two pointers, `front` and `rear`, that indicate the first and last elements of the queue respectively.
+- Initially, both `front` and `rear` are set to `-1`, indicating an empty queue.
+- To insert an element into the queue, we perform the following steps:
+  - Check if the queue is full by using the condition `((rear + 1) % MAX == front)`. If the queue is full, display an error message and return.
+  - If the queue is empty, set both `front` and `rear` to `0`.
+  - Otherwise, increment `rear` by `1` modulo `MAX`, i.e., `rear = (rear + 1) % MAX`.
+  - Store the element at the `rear` index of the array.
+- To delete an element from the queue, we perform the following steps:
+  - Check if the queue is empty by using the condition `(front == -1)`. If the queue is empty, display an error message and return.
+  - If the queue has only one element, set both `front` and `rear` to `-1`, indicating an empty queue.
+  - Otherwise, increment `front` by `1` modulo `MAX`, i.e., `front = (front + 1) % MAX`.
+  - Return the element at the previous `front` index of the array.
+- To display the elements of the queue, we perform the following steps:
+  - Check if the queue is empty by using the condition `(front == -1)`. If the queue is empty, display a message and return.
+  - Otherwise, initialize a variable `i` to `front` and a counter `c` to `0`.
+  - Loop until `c` is equal to the number of elements in the queue, i.e., `(rear - front + MAX) % MAX + 1`.
+    - Print the element at the `i`th index of the array.
+    - Increment `i` by `1` modulo `MAX`, i.e., `i = (i + 1) % MAX`.
+    - Increment `c` by `1`.
+- The advantage of a circular queue over a linear queue is that it avoids the wastage of space in the array, as the insertion and deletion operations can wrap around the array.

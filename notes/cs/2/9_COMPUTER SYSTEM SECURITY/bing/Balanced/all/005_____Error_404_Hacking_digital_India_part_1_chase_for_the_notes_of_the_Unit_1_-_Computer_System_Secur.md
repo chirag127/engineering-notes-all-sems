@@ -1,0 +1,23 @@
+# Error 404 Hacking digital India part 1 chase for the notes of the Unit 1 - Computer System Security Introduction
+
+- Computer system security is the protection of computer systems and information from harm, theft, and unauthorized use. It is the process of preventing and detecting unauthorized use of your computer system .
+- Computer system security can be classified into three types: computer security, network security, and cybersecurity.
+  - Computer security means securing a standalone machine by keeping it updated and patched.
+  - Network security is by securing both the software and hardware technologies that connect computers and devices.
+  - Cybersecurity is defined as protecting computer systems, which communicate over the computer networks, from cyberattacks and cybercrimes.
+- Computer system security involves various concepts, techniques, and tools to achieve the following goals:
+  - Confidentiality: ensuring that only authorized parties can access the information.
+  - Integrity: ensuring that the information is not modified or corrupted by unauthorized parties.
+  - Availability: ensuring that the information and the system are accessible and functional when needed.
+  - Authentication: ensuring that the identity of the parties involved in the communication is verified.
+  - Authorization: ensuring that the parties have the appropriate permissions to access or modify the information or the system.
+  - Accountability: ensuring that the actions and events on the system are recorded and traceable.
+  - Non-repudiation: ensuring that the parties cannot deny their involvement in the communication or the transaction.
+- Computer system security faces various threats and challenges, such as:
+  - Control hijacking attacks: exploiting vulnerabilities in the system to execute malicious code or commands.
+  - Buffer overflow exploits and defenses: overflowing the memory allocated for a program or a data structure to overwrite other memory locations or execute arbitrary code.
+  - Privilege separation: dividing the system into different levels of privileges and restricting the access and actions of each level.
+  - Capabilities: granting and revoking specific rights or permissions to access or modify resources on the system.
+  - Sandboxing native code: isolating and restricting the execution of untrusted or potentially harmful code on the system.
+  - Web security model: defining the rules and policies for web browsers and web servers to interact and exchange information.
+  - Securing web applications: preventing and mitigating common web attacks, such as cross-site scripting, cross-site request forgery, SQL injection, etc.

@@ -1,0 +1,21 @@
+# Discrete Structure & Logic Lab
+
+- Discrete Structure & Logic Lab is a course that covers fundamental concepts of discrete mathematics, such as logic, proofs, sets, relations, functions, counting, and probability, with an emphasis on applications in computer science .
+- The course also involves programming exercises in C and Mapple to implement and test various discrete structures and algorithms.
+- The course objectives are to:
+  - Develop the ability to think abstractly and mathematically.
+  - Learn how to use formal methods to reason about discrete structures and problems.
+  - Apply discrete mathematics concepts and techniques to solve problems in computer science.
+  - Gain experience in programming with discrete structures and logic.
+- The course topics include:
+  - Propositional and predicate logic: syntax, semantics, validity, satisfiability, equivalence, inference rules, normal forms, resolution, and applications .
+  - Sets, relations, and functions: operations, properties, cardinality, equivalence relations, partial orders, functions, inverse functions, composition, and applications.
+  - Proof techniques: direct, contrapositive, contradiction, induction, and structural induction .
+  - Counting and combinatorics: basic counting principles, permutations, combinations, binomial coefficients, inclusion-exclusion, pigeonhole principle, and applications.
+  - Recurrence relations and generating functions: linear recurrence relations, characteristic equations, generating functions, and applications.
+  - Graphs and trees: definitions, properties, representations, traversals, connectivity, Eulerian and Hamiltonian paths and cycles, planarity, coloring, spanning trees, and applications.
+  - Algorithms and complexity: asymptotic notation, analysis of algorithms, growth of functions, recurrence equations, and applications.
+- The course assessment consists of:
+  - Lab assignments: programming exercises in C and Mapple to implement and test various discrete structures and algorithms.
+  - Quizzes: short tests on the theoretical concepts and proofs.
+  - Midterm and final exams: comprehensive exams on the course topics.

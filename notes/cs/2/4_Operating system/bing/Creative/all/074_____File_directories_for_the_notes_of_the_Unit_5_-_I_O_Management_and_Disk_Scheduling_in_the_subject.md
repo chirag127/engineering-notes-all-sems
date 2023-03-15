@@ -1,0 +1,58 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 5 - I/O Management and Disk Scheduling in the subject of Operating System. Here is the file directory for the notes of this unit:
+
+# Unit 5 - I/O Management and Disk Scheduling
+
+- ## Introduction
+  - ### I/O Devices
+    - #### Characteristics of I/O Devices
+    - #### Device Controllers and Device Drivers
+  - ### I/O Subsystem
+    - #### I/O Buffering
+    - #### Disk Caching
+    - #### Spooling and Device Reservation
+    - #### Error Handling
+- ## I/O Scheduling
+  - ### Objectives of I/O Scheduling
+  - ### Types of I/O Scheduling
+    - #### First-Come, First-Served (FCFS)
+    - #### Shortest Seek Time First (SSTF)
+    - #### SCAN
+    - #### C-SCAN
+    - #### LOOK and C-LOOK
+  - ### Performance Evaluation of I/O Scheduling Algorithms
+- ## Disk Management
+  - ### Disk Structure
+    - #### Disk Geometry
+    - #### Disk Formatting
+    - #### Disk Partitioning
+    - #### Disk Attachment
+  - ### Disk Reliability
+    - #### Disk Failures
+    - #### Disk Recovery
+    - #### RAID
+  - ### Disk Space Management
+    - #### Disk Allocation Methods
+      - ##### Contiguous Allocation
+      - ##### Linked Allocation
+      - ##### Indexed Allocation
+    - #### Disk Free-Space Management
+      - ##### Bit Vector
+      - ##### Linked List
+      - ##### Grouping
+      - ##### Counting
+- ## File Systems
+  - ### File System Interface
+    - #### File Concept
+    - #### Access Methods
+    - #### Directory Structure
+    - #### File Protection
+  - ### File System Implementation
+    - #### File System Structure
+    - #### File System Mounting
+    - #### File Sharing
+    - #### File System Protection
+  - ### File System Performance
+    - #### File System Efficiency
+    - #### File System Consistency
+    - #### File System Recovery
+    - #### Log-Structured File Systems

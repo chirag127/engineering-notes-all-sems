@@ -1,0 +1,13 @@
+### Slip-torque characteristics of induction motor
+
+- The slip-torque characteristic of an induction motor is the relation between the torque produced by the motor and the slip of the rotor with respect to the synchronous speed.
+- The slip of the rotor is defined as the difference between the synchronous speed and the actual speed of the rotor, expressed as a fraction of the synchronous speed.
+- The slip-torque characteristic can be derived from the equivalent circuit of the induction motor, by equating the mechanical power output to the electrical power input to the rotor.
+- The torque-slip characteristic curve can be divided roughly into three regions   :
+  - Low slip region: This is the region where the slip is very small (less than 5%) and the rotor speed is near the synchronous speed. In this region, the torque is proportional to the slip and the rotor resistance is negligible compared to the rotor reactance. The torque is low and increases linearly with the slip.
+  - Medium slip region: This is the region where the slip is moderate (between 5% and 15%) and the rotor speed is lower than the synchronous speed. In this region, the torque is proportional to the square of the slip and the rotor resistance is comparable to the rotor reactance. The torque is higher and reaches a maximum value at a certain slip, called the pull-out slip or the critical slip. This is the region where the motor operates normally under load.
+  - High slip region: This is the region where the slip is high (greater than 15%) and the rotor speed is much lower than the synchronous speed. In this region, the torque is inversely proportional to the slip and the rotor resistance is dominant over the rotor reactance. The torque is lower and decreases rapidly with the slip. This is the region where the motor stalls or runs in reverse direction.
+
+- The shape of the torque-slip characteristic curve depends on the rotor resistance, the rotor reactance, and the stator voltage. The higher the rotor resistance, the higher the maximum torque and the pull-out slip. The higher the rotor reactance, the lower the maximum torque and the pull-out slip. The higher the stator voltage, the higher the torque at any slip.
+- The torque-slip characteristic curve can be modified by changing the rotor resistance, the rotor reactance, or the stator voltage. This can be done by using external resistors, slip rings, variable frequency drives, or soft starters.
+- The torque-slip characteristic curve can be used to analyze the performance, efficiency, and stability of the induction motor under different operating conditions and loads.

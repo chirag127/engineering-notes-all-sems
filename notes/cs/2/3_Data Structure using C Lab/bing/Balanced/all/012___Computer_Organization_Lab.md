@@ -1,0 +1,40 @@
+# Computer Organization Lab
+
+- Computer organization lab is a course that teaches the students the basic concepts and principles of computer hardware and architecture.
+- The lab consists of various experiments that involve designing, implementing, testing, and analyzing different components and systems of a computer, such as arithmetic logic unit, memory, input/output devices, instruction set, assembly language, etc.
+- The lab also helps the students to develop skills in using tools and software for simulation, debugging, and performance evaluation of computer systems.
+- The lab is usually conducted in a computer laboratory with the following equipment and software:
+  - Personal computers with Windows or Linux operating system
+  - Logisim, a graphical tool for designing and simulating digital logic circuits
+  - MARS, a MIPS assembly language simulator and IDE
+  - SPIM, a MIPS simulator that runs assembly programs
+  - QtSpim, a graphical user interface for SPIM
+  - CodeBlocks, an integrated development environment for C and C++ programming
+  - GCC, a compiler for C and C++ programming
+  - GDB, a debugger for C and C++ programming
+- The lab typically covers the following topics and experiments:
+  - Introduction to computer organization and architecture
+  - Binary and hexadecimal number systems and arithmetic
+  - Logic gates and combinational circuits
+  - Sequential circuits and flip-flops
+  - Registers and counters
+  - Multiplexers and decoders
+  - Adders and subtractors
+  - Arithmetic logic unit
+  - Memory and addressing modes
+  - Input/output devices and interfaces
+  - Instruction set and assembly language
+  - Program structure and control flow
+  - Subroutines and stack
+  - Data types and directives
+  - System calls and exceptions
+  - Pipelining and performance
+  - C and C++ programming basics
+  - Data structures and algorithms
+  - Pointers and arrays
+  - Structures and unions
+  - File handling and input/output
+  - Dynamic memory allocation and linked lists
+  - Recursion and sorting
+  - Searching and hashing
+  - Trees and graphs

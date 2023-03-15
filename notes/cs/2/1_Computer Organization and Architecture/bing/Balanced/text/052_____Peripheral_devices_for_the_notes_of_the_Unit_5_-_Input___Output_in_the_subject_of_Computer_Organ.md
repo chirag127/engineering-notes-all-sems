@@ -1,0 +1,24 @@
+### Peripheral devices for the notes of the Unit 5 - Input / Output in the subject of Computer Organization and Architecture
+
+- Peripheral devices are those devices that are linked either internally or externally to a computer.
+- Peripheral devices are used to transfer data, provide auxiliary storage, or perform input or output functions .
+- Peripheral devices are commonly divided into three kinds: input devices, output devices, and storage devices.
+- Input devices convert incoming data and instructions into a pattern of electrical signals in binary code that are comprehensible to a digital computer.
+- Output devices convert the binary information that the computer processes into a form that human users or other systems can understand.
+- Storage devices provide a means of storing data and programs for later use or retrieval.
+- Some examples of peripheral devices are:
+  - Input devices: keyboard, mouse, scanner, microphone, webcam, etc.
+  - Output devices: monitor, printer, speaker, projector, etc.
+  - Storage devices: hard disk, floppy disk, CD-ROM, DVD-ROM, USB flash drive, etc.
+- Peripheral devices communicate with the computer system through a bus, which is a set of wires that carry data and control signals.
+- A bus has three components: data lines, address lines, and control lines.
+- Data lines carry the data to be transferred between the computer and the peripheral device.
+- Address lines specify the source or destination of the data on the bus.
+- Control lines carry signals that coordinate the activities of the bus and the devices connected to it.
+- A bus can be classified as parallel or serial, depending on how the data is transferred.
+- A parallel bus transfers multiple bits of data simultaneously, using multiple data lines.
+- A serial bus transfers one bit of data at a time, using a single data line.
+- A parallel bus is faster than a serial bus, but requires more wires and connectors.
+- A serial bus is simpler and cheaper than a parallel bus, but has lower bandwidth and longer latency.
+- Some examples of parallel buses are: ISA, PCI, AGP, etc.
+- Some examples of serial buses are: USB, FireWire, SATA, etc.

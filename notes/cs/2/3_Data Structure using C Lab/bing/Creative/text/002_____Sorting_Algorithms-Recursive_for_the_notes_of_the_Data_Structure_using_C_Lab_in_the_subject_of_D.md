@@ -1,0 +1,13 @@
+### Sorting Algorithms-Recursive
+
+Sorting algorithms are methods of arranging a set of data elements in a specific order, such as ascending or descending. Recursive sorting algorithms are those that use recursion, a technique of breaking down a problem into smaller subproblems that can be solved by calling the same function repeatedly.
+
+Some examples of recursive sorting algorithms are:
+
+- **Merge sort**: This algorithm divides the array into two halves, sorts each half recursively, and then merges the two sorted halves into one sorted array. The merge operation requires an auxiliary array to store the merged elements. The time complexity of merge sort is O(n log n) in the average and worst cases, and O(n) in the best case when the array is already sorted. The space complexity of merge sort is O(n) due to the auxiliary array.
+
+- **Quick sort**: This algorithm chooses a pivot element from the array, partitions the array into two subarrays such that all the elements less than the pivot are in the left subarray and all the elements greater than or equal to the pivot are in the right subarray, and then sorts each subarray recursively. The choice of the pivot element can affect the performance of quick sort. The time complexity of quick sort is O(n log n) in the average case, and O(n^2) in the worst case when the array is already sorted or reverse sorted. The space complexity of quick sort is O(log n) due to the recursive calls.
+
+- **Heap sort**: This algorithm builds a max-heap from the array, where the largest element is at the root of the heap, and then repeatedly swaps the root element with the last element of the heap, reduces the size of the heap by one, and restores the heap property by calling a recursive function called heapify. The time complexity of heap sort is O(n log n) in all cases. The space complexity of heap sort is O(1) as it does not require any extra space.
+
+- **Insertion sort**: This algorithm sorts the array by inserting each element into its correct position in the sorted part of the array. The sorted part of the array is initially empty, and grows by one element in each iteration. The insertion operation can be done recursively by shifting the larger elements to the right until the correct position is found. The time complexity of insertion sort is O(n) in the best case when the array is already sorted, and O(n^2) in the average and worst cases. The space complexity of insertion sort is O(1) as it does not require any extra space.

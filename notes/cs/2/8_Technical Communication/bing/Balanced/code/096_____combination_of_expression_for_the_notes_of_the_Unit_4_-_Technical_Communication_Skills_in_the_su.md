@@ -1,0 +1,55 @@
+### Combination of expression for the notes of the Unit 4 - Technical Communication Skills
+
+- Unit 4 of Technical Communication Skills covers the following topics:
+  - Interview skills
+  - Group discussion: objective and method
+  - Seminar/conference presentation skills: focus, content, style
+  - Argumentation skills: devices, analysis, cohesion and emphasis
+  - Critical thinking
+  - Nuances: exposition, narration and description
+- Interview skills are the abilities to communicate effectively and professionally with the interviewer, to demonstrate one's suitability for the job, admission or promotion, and to handle different types of questions and situations.
+  - Some interview skills are:
+    - Researching the organization and the role
+    - Preparing relevant and concise answers
+    - Dressing appropriately and confidently
+    - Arriving on time and greeting the interviewer politely
+    - Listening actively and responding clearly
+    - Asking relevant and insightful questions
+    - Following up with a thank-you note
+- Group discussion is a method of assessing the communication, interpersonal, analytical and problem-solving skills of the participants, who are given a topic or a case to discuss in a group for a limited time.
+  - Some group discussion skills are:
+    - Initiating the discussion with a clear and relevant introduction
+    - Contributing positively and constructively to the discussion
+    - Supporting one's views with facts and examples
+    - Respecting and acknowledging others' views and perspectives
+    - Handling disagreements and conflicts diplomatically
+    - Summarizing the main points and conclusions of the discussion
+- Seminar/conference presentation skills are the abilities to deliver an effective and engaging presentation on a specific topic or research in a formal setting, such as a seminar or a conference, to an audience of experts or peers.
+  - Some seminar/conference presentation skills are:
+    - Planning and organizing the presentation according to the purpose, audience and time limit
+    - Preparing clear and attractive visual aids, such as slides, charts or graphs
+    - Practicing the presentation and rehearsing the timing and delivery
+    - Using appropriate language, tone and voice modulation
+    - Maintaining eye contact and rapport with the audience
+    - Handling questions and feedback confidently and politely
+- Argumentation skills are the abilities to construct and present a logical and persuasive argument on a given issue or topic, using various devices, such as facts, opinions, examples, analogies, statistics, etc.
+  - Some argumentation skills are:
+    - Identifying the main claim and the supporting reasons
+    - Providing relevant and reliable evidence for each reason
+    - Addressing the counterarguments and refuting them
+    - Using transitional words and phrases to connect the ideas and create coherence
+    - Emphasizing the key points and restating the main claim in the conclusion
+    - Avoiding logical fallacies, such as hasty generalization, false dilemma, ad hominem, etc.
+- Critical thinking is the ability to analyze, evaluate and synthesize information from various sources and perspectives, and to apply it to solve problems, make decisions and form judgments.
+  - Some critical thinking skills are:
+    - Asking relevant and probing questions
+    - Identifying the assumptions and biases
+    - Comparing and contrasting different viewpoints and arguments
+    - Recognizing the strengths and weaknesses of the evidence and the reasoning
+    - Drawing valid and reasonable conclusions and implications
+    - Reflecting on one's own thinking and learning process
+- Nuances are the subtle differences or variations in meaning, expression or tone that affect the interpretation and response of the audience.
+  - Some nuances are:
+    - Exposition: a mode of writing that explains, informs or describes a topic or an idea, using facts, definitions, examples, etc.
+    - Narration: a mode of writing that tells a story or an event, using characters, settings, actions, dialogues, etc.
+    - Description: a mode of writing that creates a vivid picture of a person, place, object or scene, using sensory details, adjectives, metaphors, etc.

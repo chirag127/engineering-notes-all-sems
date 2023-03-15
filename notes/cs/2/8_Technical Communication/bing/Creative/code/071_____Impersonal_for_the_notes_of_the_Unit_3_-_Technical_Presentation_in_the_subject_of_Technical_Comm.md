@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on impersonal technical communication. Here is some information I found on the web:
+
+### Impersonal Technical Communication
+
+- Impersonal technical communication is a style of writing or speaking that avoids using personal pronouns (I, you, he, she, we, etc.) and focuses on conveying data and important information.
+- Impersonal technical communication is common in engineering, science, and business fields, where the goal is to present facts, results, and recommendations in a clear, objective, and professional manner.
+- Impersonal technical communication can be achieved by using the passive voice, the third person, and nominalization. For example, instead of saying "I conducted the experiment and found that the temperature increased by 10 degrees", you can say "The experiment was conducted and a 10-degree increase in temperature was observed".
+- Impersonal technical communication can also be enhanced by using precise and specific language, avoiding vague or emotional words, and providing evidence and references to support your claims. For example, instead of saying "The new design is better and more efficient", you can say "The new design reduced the energy consumption by 15% and increased the output by 20%, as shown in Figure 1 and Table 2".
+- Impersonal technical communication can help you establish credibility, authority, and accuracy in your field. It can also help you avoid bias, confusion, and misunderstanding among your audience. However, impersonal technical communication should not be confused with impersonal communication, which is a lack of connection or rapport between the communicator and the receiver. Impersonal technical communication should still be clear, concise, and courteous, and address the needs and expectations of your audience.

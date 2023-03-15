@@ -1,0 +1,12 @@
+# Types of Buses
+
+A bus is a set of wires or lines that carry data, addresses, and control signals between different components of a computer system. Buses can be classified into different types based on their functions, locations, and architectures. Here are some of the common types of buses in computer architecture:
+
+- **System bus**: This is the bus that connects the CPU to the main memory on the motherboard. The system bus is also called the front-side bus, memory bus, local bus, or host bus. The system bus consists of three sub-buses: address bus, data bus, and control bus.
+  - **Address bus**: This is a unidirectional bus that carries the address of the memory location or the I/O device that the CPU wants to access. The width of the address bus determines the maximum amount of memory that the CPU can address. For example, a 32-bit address bus can address up to 2^32 bytes of memory, which is 4 GB.
+  - **Data bus**: This is a bidirectional bus that transfers the data between the CPU and the memory or the I/O devices. The width of the data bus determines the amount of data that can be transferred in one cycle. For example, a 16-bit data bus can transfer 16 bits or 2 bytes of data at a time.
+  - **Control bus**: This is a bidirectional bus that carries the control signals that synchronize the operations of the CPU, memory, and I/O devices. The control signals include read, write, interrupt, reset, clock, and others.
+
+- **Expansion bus**: This is the bus that connects the expansion cards or peripheral devices to the system bus. The expansion bus is also called the I/O bus, peripheral bus, or external bus. The expansion bus allows the system to be customized and upgraded with different devices, such as graphics cards, sound cards, network cards, and others. There are different standards and protocols for the expansion bus, such as ISA, EISA, MCA, VESA, PCI, PCI Express, and others. The expansion bus typically has a lower speed and bandwidth than the system bus.
+
+- **Internal bus**: This is the bus that connects the internal components of the CPU, such as the arithmetic logic unit (ALU), the registers, the cache, and the instruction decoder. The internal bus is also called the local bus, processor bus, or CPU bus. The internal bus operates at the same speed as the CPU and has a high bandwidth. The internal bus is usually not visible to the external system and is specific to the CPU architecture.

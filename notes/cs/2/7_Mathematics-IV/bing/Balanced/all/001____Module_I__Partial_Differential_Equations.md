@@ -1,0 +1,18 @@
+## Module I: Partial Differential Equations
+
+- A partial differential equation (PDE) is an equation that involves partial derivatives of an unknown function of two or more variables.
+- PDEs are used to model various phenomena in physics, engineering, biology, chemistry, and other sciences.
+- The order of a PDE is the highest order of partial derivatives that appear in the equation. For example, the equation $$u_{xx} + u_{yy} = 0$$ is a second-order PDE.
+- The degree of a PDE is the highest power of the highest-order partial derivatives that appear in the equation. For example, the equation $$u_{xx}^2 + u_{yy}^2 = 0$$ is a second-order PDE of degree two.
+- A PDE is linear if it is a linear combination of the unknown function and its partial derivatives with constant or variable coefficients. For example, the equation $$u_{xx} + x u_{yy} + y u = 0$$ is a linear PDE. A PDE is nonlinear if it is not linear. For example, the equation $$u_{xx} + u u_{yy} + u^2 = 0$$ is a nonlinear PDE.
+- A PDE is homogeneous if it is equal to zero. For example, the equation $$u_{xx} + u_{yy} = 0$$ is a homogeneous PDE. A PDE is inhomogeneous if it is not equal to zero. For example, the equation $$u_{xx} + u_{yy} = f(x,y)$$ is an inhomogeneous PDE, where $$f(x,y)$$ is a given function.
+- A PDE is separable if it can be written as a product of functions of one variable. For example, the equation $$u_{xx} + u_{yy} = 0$$ is separable, since it can be written as $$u(x,y) = X(x) Y(y)$$, where $$X(x)$$ and $$Y(y)$$ are functions of one variable. A PDE is nonseparable if it cannot be written as a product of functions of one variable.
+- A solution of a PDE is a function that satisfies the equation. For example, the function $$u(x,y) = e^{-x^2-y^2}$$ is a solution of the equation $$u_{xx} + u_{yy} = 0$$.
+- A general solution of a PDE is a solution that contains arbitrary constants or functions. For example, the function $$u(x,y) = f(x) + g(y)$$ is a general solution of the equation $$u_{xx} + u_{yy} = 0$$, where $$f(x)$$ and $$g(y)$$ are arbitrary functions of one variable.
+- A particular solution of a PDE is a solution that is obtained by assigning specific values to the arbitrary constants or functions in the general solution. For example, the function $$u(x,y) = x + y$$ is a particular solution of the equation $$u_{xx} + u_{yy} = 0$$, obtained by choosing $$f(x) = x$$ and $$g(y) = y$$.
+- A boundary condition is a condition that specifies the value or the derivative of the solution on the boundary of the domain of the PDE. For example, the condition $$u(x,0) = 0$$ is a boundary condition that specifies the value of the solution on the lower edge of the domain.
+- An initial condition is a condition that specifies the value or the derivative of the solution at a given time. For example, the condition $$u(x,0) = f(x)$$ is an initial condition that specifies the value of the solution at time $$t = 0$$.
+- A boundary value problem (BVP) is a PDE with boundary conditions. For example, the problem $$u_{xx} + u_{yy} = 0, \quad u(x,0) = 0, \quad u(x,1) = 1$$ is a BVP.
+- An initial value problem (IVP) is a PDE with initial conditions. For example, the problem $$u_{t} = u_{xx}, \quad u(x,0) = f(x)$$ is an IVP.
+- A well-posed problem is a problem that has a unique solution that depends continuously on the data. For example, the problem $$u_{t} = u_{xx}, \quad u(x,0) = f(x), \quad u(0,t) = u(1,t) = 0$$ is a well-posed problem.
+-

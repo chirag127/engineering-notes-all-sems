@@ -1,0 +1,21 @@
+### Exponential curves
+
+- An exponential curve is a graph of an exponential function .
+- An exponential function is a mathematical function of the form `f(x) = a^x`, where `a > 0` and `a ≠ 1` .
+- The exponential function is defined for all real numbers `x`, except when `a` is negative and `x` is a fraction between `-1` and `1`.
+- The exponential function has the following properties :
+  - It is always positive, i.e., `f(x) > 0` for all `x`.
+  - It is always increasing, i.e., `f(x) < f(y)` for all `x < y`.
+  - It has a horizontal asymptote at `y = 0`, i.e., `lim_(x->-∞) f(x) = 0`.
+  - It has a vertical asymptote at `x = log_a(0)`, i.e., `lim_(x->log_a(0)) f(x) = ∞`.
+  - It passes through the point `(0, 1)`, i.e., `f(0) = 1`.
+  - It is one-to-one and invertible, i.e., for every `y > 0`, there is a unique `x` such that `f(x) = y`, and the inverse function is `f^(-1)(y) = log_a(y)`.
+  - It is continuous and differentiable, i.e., it has no breaks or sharp corners, and its derivative is `f'(x) = a^x ln(a)`.
+  - It has a constant relative growth rate, i.e., the ratio of the change in the function value to the function value is constant, and equal to `ln(a)`.
+  - It satisfies the property `f(x + y) = f(x) f(y)` for all `x` and `y`, i.e., it is an example of a multiplicative function.
+- The exponential curve depends on the value of `a`, the base of the exponential function :
+  - If `a > 1`, the exponential curve is increasing and concave up, i.e., it bends away from the horizontal asymptote as `x` increases.
+  - If `0 < a < 1`, the exponential curve is decreasing and concave down, i.e., it bends toward the horizontal asymptote as `x` increases.
+  - If `a = e`, the exponential curve is called the natural exponential curve, and the exponential function is called the natural exponential function, denoted by `f(x) = e^x`. The natural exponential function has the special property that its derivative is equal to itself, i.e., `f'(x) = e^x`.
+- The exponential curve can be used to model various phenomena that involve exponential growth or decay, such as population growth, radioactive decay, compound interest, bacterial growth, etc .
+- The exponential curve can also be generalized to complex numbers, where the exponential function is defined as `f(z) = e^(z)`, where `z = x + iy` is a complex number, and `e^(z) = e^(x) (cos(y) + i sin(y))` is the complex exponential function. The graph of the complex exponential function is a two-dimensional surface curving through four dimensions.

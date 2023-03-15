@@ -1,0 +1,21 @@
+# Falling Tone for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Falling tone is a type of intonation that involves a downward pitch movement at the end of a sentence or a phrase.
+- Falling tone is used to convey finality, certainty, completeness, or closure in oral communication.
+- Falling tone is most commonly used for normal, neutral statements and information questions that begin with who, what, where, when, why, how, etc. 
+- Examples of falling tone in statements:
+  - I'm going to the library today.
+  - She likes to read mystery novels.
+  - He works as an engineer.
+- Examples of falling tone in information questions:
+  - Where are you from?
+  - How long have you been studying English?
+  - What do you do for fun?
+- Falling tone signals to the listener that the speaker is done talking and expects a response or a reaction. 
+- Falling tone can also be used to express politeness, formality, or respect in certain situations, such as apologies, requests, or compliments. 
+- Examples of falling tone in polite expressions:
+  - I'm sorry for the inconvenience.
+  - Could you please pass me the salt?
+  - You look very nice today.
+- Falling tone is essential for clear communication in English, as it helps to avoid confusion, misunderstanding, or ambiguity. 
+- Falling tone can be practiced by paying attention to the pitch contour of native speakers, recording and listening to one's own speech, and using a visual aid such as a pitch tracker or a hand gesture.

@@ -1,0 +1,9 @@
+### Hardwired and Microprogrammed Control
+
+Control Unit is the component of the computer's central processing unit (CPU) that directs the operation of the processor. It tells the computer's memory, arithmetic and logic unit, and input and output devices how to respond to the instructions that have been sent to the processor. There are two types of control units: hardwired and microprogrammed.
+
+1. **Hardwired Control Unit**: A hardwired control unit is implemented using combinational logic circuits that generate specific control signals for each of the computer's operations. The control logic is designed for a specific CPU architecture, which means that it can be optimized for that architecture. This results in faster operation compared to a microprogrammed control unit.
+
+2. **Microprogrammed Control Unit**: A microprogrammed control unit, on the other hand, uses a microprogram to generate the control signals. A microprogram is a sequence of microinstructions that specify which control signals should be generated for each operation. The microprogram is stored in a control memory, which is a type of read-only memory (ROM). The advantage of a microprogrammed control unit is that it is easier to design and modify compared to a hardwired control unit. However, it is generally slower than a hardwired control unit because it takes time to fetch the microinstructions from the control memory.
+
+In summary, a hardwired control unit is faster but more difficult to design and modify, while a microprogrammed control unit is easier to design and modify but slower. The choice between the two types of control units depends on the specific requirements of the computer system.

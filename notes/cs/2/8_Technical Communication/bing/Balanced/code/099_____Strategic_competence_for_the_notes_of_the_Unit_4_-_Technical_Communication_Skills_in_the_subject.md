@@ -1,0 +1,22 @@
+### Strategic competence for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Strategic competence is one's knowledge and application of communicative strategies that are particularly significant when a communicator lacks linguistic competence (e.g., lacks vocabulary or grammatical knowledge to express a thought.).
+- Strategic competence performs assessment, planning, and execution functions in determining the most effective means of achieving a communicative or language learning goal. It connects declarative, procedural, and conditional knowledge .
+- Strategic competence refers to the ability to overcome difficulties when communication breakdowns occur (Celce-Murcia, Dörnyei & Thurrell, 1995).
+- Strategic competence is essential for technical communication, as it involves the use of various skills and techniques to convey complex and specialized information to different audiences and contexts.
+- Some examples of strategic competence in technical communication are:
+  - Using appropriate terminology, jargon, acronyms, and abbreviations for different audiences and purposes.
+  - Using visual aids, such as graphs, charts, diagrams, tables, and illustrations, to support and clarify the verbal message.
+  - Using headings, subheadings, bullet points, lists, and other formatting features to organize and highlight the main points and details of the document.
+  - Using examples, analogies, metaphors, and comparisons to explain abstract or unfamiliar concepts and processes.
+  - Using rhetorical devices, such as questions, statements, commands, suggestions, and recommendations, to engage the reader and persuade them to take action or accept a point of view.
+  - Using feedback, clarification, paraphrasing, summarizing, and repetition to ensure mutual understanding and avoid misunderstandings and misinterpretations.
+  - Using politeness, courtesy, respect, and empathy to establish rapport and trust with the reader and avoid offending or alienating them.
+  - Using humor, irony, sarcasm, and exaggeration to create interest and appeal to the reader's emotions and values.
+- To develop strategic competence in technical communication, one should:
+  - Analyze the purpose, audience, context, and medium of the communication.
+  - Plan the content, structure, style, and tone of the document or message.
+  - Draft and revise the document or message, using appropriate language, format, and design features.
+  - Edit and proofread the document or message, checking for accuracy, clarity, coherence, consistency, and correctness.
+  - Evaluate the effectiveness and appropriateness of the document or message, using feedback, self-assessment, and peer review.
+  - Show that one can initiate innovation and bring strategic change. To be viewed as a strategic thinker, one must also demonstrate that one can use one's knowledge to put new ideas into action.

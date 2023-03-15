@@ -1,0 +1,17 @@
+### Inter Process Communication models and Schemes
+
+Inter process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions without sharing the same address space. IPC is useful for coordinating concurrent activities among processes, such as data transfer, resource sharing, event notification, and load balancing. IPC can be classified into two models: shared memory and message passing.
+
+- Shared memory model: In this model, processes communicate by accessing a common region of memory that is shared by all the processes. The processes can read and write data to the shared memory, and use synchronization techniques such as semaphores, locks, or monitors to ensure data consistency and avoid race conditions. The advantages of shared memory model are that it is fast, simple, and flexible. The disadvantages are that it requires a common address space, which may not be available in distributed systems, and that it may cause memory fragmentation, security issues, and scalability problems. Examples of shared memory model are POSIX shared memory, memory mapped files, and OpenMP.
+
+- Message passing model: In this model, processes communicate by sending and receiving messages to each other. The messages can be either fixed-size or variable-size, and can be either synchronous or asynchronous. The processes can use different methods of message passing, such as direct or indirect communication, blocking or non-blocking primitives, and buffered or unbuffered channels. The advantages of message passing model are that it is portable, secure, and scalable. The disadvantages are that it may incur overhead, latency, and complexity. Examples of message passing model are pipes, sockets, message queues, and MPI.
+
+Some IPC schemes that are based on these models are:
+
+- Pipes: Pipes are unidirectional channels that allow one process to write data to another process. Pipes can be either named or unnamed, and can be either persistent or transient. Pipes are implemented using the shared memory model, and are supported by most operating systems. Pipes are useful for simple data transfer and interprocess filtering.
+
+- Sockets: Sockets are bidirectional channels that allow processes to communicate over a network. Sockets can be either stream-oriented or datagram-oriented, and can use either TCP or UDP protocols. Sockets are implemented using the message passing model, and are supported by most operating systems. Sockets are useful for distributed and client-server applications.
+
+- Semaphores: Semaphores are synchronization tools that allow processes to control access to shared resources. Semaphores can be either binary or counting, and can be either local or global. Semaphores are implemented using the shared memory model, and are supported by most operating systems. Semaphores are useful for mutual exclusion and deadlock prevention.
+
+- Message queues: Message queues are data structures that allow processes to exchange messages in a FIFO order. Message queues can be either local or global, and can have different attributes such as capacity, priority, and persistence. Message queues are implemented using the message passing model, and are supported by some operating systems. Message queues are useful for asynchronous and reliable communication.

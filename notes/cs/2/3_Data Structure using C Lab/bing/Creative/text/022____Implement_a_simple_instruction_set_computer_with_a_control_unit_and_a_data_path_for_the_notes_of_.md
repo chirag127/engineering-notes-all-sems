@@ -1,0 +1,24 @@
+## Implement a simple instruction set computer with a control unit and a data path
+
+- An instruction set computer (ISC) is a computer that executes a set of instructions defined by its instruction set architecture (ISA).
+- A control unit (CU) is a component of the ISC that generates the control signals to coordinate the execution of the instructions by the other components of the ISC.
+- A data path (DP) is a component of the ISC that performs the data processing operations, such as arithmetic, logic, and memory access, as specified by the instructions.
+- A simple ISC can be implemented with a CU and a DP that support a subset of the MIPS ISA, such as the R-type, I-type, and J-type instructions.
+- The CU can be designed as a finite state machine (FSM) that takes the opcode of the instruction as the input and generates the control signals as the output. The control signals include the following:
+  - ALUOp: the operation code for the arithmetic logic unit (ALU) in the DP.
+  - ALUSrc: the source of the second operand for the ALU, either from the register file or the sign-extended immediate field of the instruction.
+  - RegDst: the destination register for the result of the ALU, either rt or rd field of the instruction.
+  - RegWrite: the enable signal for writing the result to the register file.
+  - MemRead: the enable signal for reading data from the data memory.
+  - MemWrite: the enable signal for writing data to the data memory.
+  - MemToReg: the source of the data to be written to the register file, either from the ALU or the data memory.
+  - PCSrc: the source of the next program counter (PC) value, either from PC + 4 or the branch target address.
+  - Branch: the enable signal for taking the branch if the ALU output is zero.
+  - Jump: the enable signal for taking the jump to the jump target address.
+- The DP can be designed as a combination of functional units, such as the PC, the instruction memory, the register file, the ALU, the data memory, and the adders, that are connected by multiplexers, sign-extend units, and wires. The DP performs the following steps for each instruction:
+  - Instruction fetch: the PC value is used to access the instruction memory and fetch the instruction. The PC value is also incremented by 4 and sent to an adder that computes the branch target address by adding the sign-extended lower 16 bits of the instruction.
+  - Instruction decode: the instruction is split into its fields, such as opcode, rs, rt, rd, shamt, funct, and immediate. The rs and rt fields are used to access the register file and read the values of the source registers. The opcode field is sent to the CU to generate the control signals.
+  - Execution: the ALU performs the operation specified by the ALUOp and ALUSrc signals on the operands from the register file and the sign-extended immediate field. The ALU also sets a zero flag if the result is zero. The jump target address is computed by concatenating the upper 4 bits of PC + 4 and the lower 26 bits of the instruction.
+  - Memory access: the data memory is accessed with the ALU result as the address and the value of the rt register as the data. The MemRead and MemWrite signals control whether the data memory is read or written.
+  - Write back: the result of the ALU or the data memory is written to the register file, depending on the MemToReg and RegDst signals. The RegWrite signal controls whether the register file is written or not.
+  - Next PC selection: the next PC value is selected from PC + 4, the branch target address, or the jump target address, depending on the PCSrc, Branch, and Jump signals. The next PC value is sent to the PC for the next instruction fetch.

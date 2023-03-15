@@ -1,0 +1,11 @@
+## Module I: Partial Differential Equations
+
+- A partial differential equation (PDE) is an equation that involves partial derivatives of an unknown function of two or more variables.
+- A PDE can be classified as linear or nonlinear, homogeneous or inhomogeneous, and of different orders depending on the highest order of partial derivatives involved.
+- A PDE can also be classified by the number and type of its characteristic equations, which are ordinary differential equations that describe the curves along which the solution of the PDE is constant.
+- The general form of a first-order linear PDE is `a(x,y)u_x + b(x,y)u_y + c(x,y)u = f(x,y)`, where `u` is the unknown function, `u_x` and `u_y` are its partial derivatives with respect to `x` and `y`, and `a`, `b`, `c`, and `f` are given functions of `x` and `y`.
+- The general form of a second-order linear PDE is `a(x,y)u_xx + b(x,y)u_xy + c(x,y)u_yy + d(x,y)u_x + e(x,y)u_y + f(x,y)u = g(x,y)`, where `u_xx`, `u_xy`, and `u_yy` are the second-order partial derivatives of `u` with respect to `x` and `y`, and `a`, `b`, `c`, `d`, `e`, `f`, and `g` are given functions of `x` and `y`.
+- The classification of a second-order linear PDE depends on the discriminant `D = b^2 - 4ac`, where `a`, `b`, and `c` are the coefficients of the second-order partial derivatives. If `D > 0`, the PDE is hyperbolic; if `D = 0`, the PDE is parabolic; and if `D < 0`, the PDE is elliptic.
+- Some examples of PDEs are the heat equation, the wave equation, the Laplace equation, and the Poisson equation, which model various physical phenomena such as heat conduction, wave propagation, electrostatic potential, and gravitational potential.
+- The solution of a PDE usually requires specifying some boundary conditions and/or initial conditions, which are the values or the behavior of the unknown function on the boundary or at the initial time of the domain of interest.
+- The methods of solving PDEs include separation of variables, Fourier series, Fourier transform, Laplace transform, Green's functions, and numerical methods.

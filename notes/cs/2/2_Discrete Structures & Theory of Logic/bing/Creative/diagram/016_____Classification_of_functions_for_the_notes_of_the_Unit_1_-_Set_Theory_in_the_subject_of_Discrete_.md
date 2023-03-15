@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of classification of functions.
+
+### Classification of functions
+
+A function is a relation between two sets that assigns each element of the first set to exactly one element of the second set. The first set is called the domain and the second set is called the codomain. The set of all elements that are assigned by the function is called the range.
+
+There are different ways to classify functions based on their properties. Some of the common classifications are:
+
+- **One-to-one and many-to-one functions**: A function is one-to-one if it assigns different elements of the domain to different elements of the codomain. A function is many-to-one if it assigns the same element of the codomain to two or more elements of the domain. For example, the function f(x) = x^2 is many-to-one, because f(2) = f(-2) = 4. The function g(x) = x + 1 is one-to-one, because g(x) = g(y) implies x = y.
+- **Onto and into functions**: A function is onto if it assigns every element of the codomain to some element of the domain. A function is into if there is some element of the codomain that is not assigned by the function. For example, the function f(x) = x^2 is into, because there is no x such that f(x) = -1. The function g(x) = x + 1 is onto, because for any y in the codomain, there is an x such that g(x) = y.
+- **Injective, surjective and bijective functions**: A function is injective if it is one-to-one and into. A function is surjective if it is many-to-one and onto. A function is bijective if it is one-to-one and onto. For example, the function f(x) = x^2 is neither injective nor surjective, because it is many-to-one and into. The function g(x) = x + 1 is bijective, because it is one-to-one and onto.
+- **Linear and nonlinear functions**: A function is linear if it satisfies the property f(x + y) = f(x) + f(y) for all x and y in the domain. A function is nonlinear if it does not satisfy this property. For example, the function f(x) = x^2 is nonlinear, because f(2 + 3) ≠ f(2) + f(3). The function g(x) = 2x + 5 is linear, because g(x + y) = g(x) + g(y) for all x and y.
+- **Polynomial and non-polynomial functions**: A function is polynomial if it can be written as a sum of terms of the form ax^n, where a is a constant and n is a nonnegative integer. A function is non-polynomial if it cannot be written in this form. For example, the function f(x) = x^2 + 3x - 5 is polynomial, because it is a sum of terms of the form ax^n. The function g(x) = sin(x) is non-polynomial, because it cannot be written as a sum of terms of the form ax^n.

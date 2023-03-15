@@ -1,0 +1,25 @@
+### Downward Communication
+
+- Downward communication is the act of relaying important information in a company or organization from higher levels to lower levels.
+- It is a communication process in which information or the chain of command passes from the upper hierarchy level to the lower level.
+- It is also known as top-down communication or vertical communication.
+- The main objectives of downward communication are:
+  - To provide instructions, directions, orders and feedback to the subordinates.
+  - To inform the subordinates about the goals, policies, procedures and rules of the organization.
+  - To motivate, inspire and influence the subordinates to perform better and achieve the desired results.
+  - To create a sense of unity, loyalty and commitment among the subordinates.
+- Some examples of downward communication are:
+  - Memos, letters, reports, newsletters and bulletins from the management to the employees.
+  - Meetings, presentations, speeches and announcements from the leaders to the followers.
+  - Performance appraisals, rewards, recognition and criticism from the supervisors to the workers.
+  - Training, coaching, mentoring and counseling from the experts to the novices.
+- Some advantages of downward communication are:
+  - It ensures clarity, consistency and accuracy of information across the organization.
+  - It facilitates coordination, control and supervision of the activities and tasks.
+  - It enhances the efficiency, productivity and quality of work and output.
+  - It fosters a positive organizational culture and climate.
+- Some disadvantages of downward communication are:
+  - It may create a communication gap or distortion due to filtering, noise, misunderstanding or misinterpretation of the messages.
+  - It may lead to overloading, overload or underload of information for the receivers.
+  - It may reduce the participation, creativity and initiative of the subordinates.
+  - It may cause resentment, frustration or alienation among the subordinates.

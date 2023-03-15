@@ -1,0 +1,11 @@
+### Performance Criteria for CPU Scheduling
+
+CPU scheduling is the process of selecting a process from the ready queue and allocating the CPU to it. CPU scheduling algorithms aim to optimize the performance of the system by maximizing the utilization of the CPU and minimizing the waiting time of the processes. There are different criteria for evaluating the performance of CPU scheduling algorithms, such as   :
+
+- **CPU utilization**: The percentage of time the CPU is busy executing processes. The higher the CPU utilization, the better the performance of the system. Ideally, the CPU utilization should be close to 100%, but in reality, it varies from 40% to 90% depending on the system load.
+- **Throughput**: The number of processes that complete their execution per unit of time. The higher the throughput, the more work is done by the system. Throughput depends on the length of the processes and the CPU scheduling algorithm used.
+- **Turnaround time**: The amount of time it takes for a process to finish its execution, from the time it is submitted to the system until the time it is terminated. The turnaround time includes the waiting time in the ready queue, the CPU time, and the I/O time. The lower the turnaround time, the faster the processes are completed.
+- **Waiting time**: The amount of time a process spends in the ready queue, waiting for its turn to use the CPU. The waiting time does not include the CPU time or the I/O time. The lower the waiting time, the less the processes are delayed.
+- **Response time**: The amount of time it takes for a process to start its execution, from the time it is submitted to the system until the time it gets the first response from the CPU. The response time is important for interactive processes that require immediate feedback from the system. The lower the response time, the more responsive the system is.
+
+Different CPU scheduling algorithms may have different trade-offs among these criteria. For example, a CPU scheduling algorithm that minimizes the waiting time may not necessarily maximize the CPU utilization, or an algorithm that minimizes the response time may not necessarily minimize the turnaround time. Therefore, the choice of a CPU scheduling algorithm depends on the goals and requirements of the system.

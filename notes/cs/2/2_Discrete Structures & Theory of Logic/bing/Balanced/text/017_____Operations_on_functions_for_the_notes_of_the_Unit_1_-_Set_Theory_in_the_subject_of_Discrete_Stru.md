@@ -1,0 +1,31 @@
+### Operations on functions
+
+- A function is a relation that assigns to each element of a set A (called the domain) exactly one element of a set B (called the codomain).
+- A function can be represented by a set of ordered pairs, a table, a graph, or a formula.
+- The notation f: A -> B means that f is a function from A to B.
+- The notation f(a) = b means that b is the value of the function f at a, or the image of a under f.
+- The set of all images of the elements of A under f is called the range of f, and it is a subset of B.
+- Two functions f and g are equal if they have the same domain, codomain, and value for every element of the domain.
+- Some common types of functions are:
+  - Identity function: f(x) = x for all x in the domain.
+  - Constant function: f(x) = c for some constant c and all x in the domain.
+  - Linear function: f(x) = ax + b for some constants a and b and all x in the domain.
+  - Quadratic function: f(x) = ax^2 + bx + c for some constants a, b, and c and all x in the domain.
+  - Polynomial function: f(x) = a_n x^n + a_(n-1) x^(n-1) + ... + a_1 x + a_0 for some constants a_0, a_1, ..., a_n and all x in the domain.
+  - Exponential function: f(x) = a^x for some constant a > 0 and all x in the domain.
+  - Logarithmic function: f(x) = log_a x for some constant a > 0 and all x in the domain.
+  - Trigonometric function: f(x) = sin x, cos x, tan x, etc. for all x in the domain.
+  - Inverse function: f^(-1)(x) is the function that satisfies f(f^(-1)(x)) = x and f^(-1)(f(x)) = x for all x in the domain of f^(-1) and the range of f, respectively.
+- Operations on functions are ways of combining two or more functions to create a new function.
+- Some common operations on functions are:
+  - Composition: (f o g)(x) = f(g(x)) for all x in the domain of g such that g(x) is in the domain of f.
+  - Addition: (f + g)(x) = f(x) + g(x) for all x in the domain of both f and g.
+  - Subtraction: (f - g)(x) = f(x) - g(x) for all x in the domain of both f and g.
+  - Multiplication: (f * g)(x) = f(x) * g(x) for all x in the domain of both f and g.
+  - Division: (f / g)(x) = f(x) / g(x) for all x in the domain of both f and g such that g(x) is not zero.
+- Operations on functions have some properties, such as:
+  - Associativity: (f o g) o h = f o (g o h) for all functions f, g, and h with compatible domains and codomains.
+  - Commutativity: f + g = g + f and f * g = g * f for all functions f and g with compatible domains and codomains.
+  - Distributivity: f * (g + h) = (f * g) + (f * h) and (g + h) * f = (g * f) + (h * f) for all functions f, g, and h with compatible domains and codomains.
+  - Identity: f o i = i o f = f for all functions f and the identity function i with compatible domains and codomains.
+  - Inverse: f o f^(-1) = f^(-1) o f = i for all functions f and their inverses f^(-1) with compatible domains and codomains.

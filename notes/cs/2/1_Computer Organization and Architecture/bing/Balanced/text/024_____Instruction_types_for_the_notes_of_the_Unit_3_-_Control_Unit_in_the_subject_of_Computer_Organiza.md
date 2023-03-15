@@ -1,0 +1,24 @@
+### Instruction types for the notes of the Unit 3 - Control Unit in the subject of Computer Organization and Architecture
+
+- Instructions are the basic units of execution in a computer. They specify the operations to be performed by the processor and the operands to be used.
+- Instructions can be classified into different types based on their format, functionality, and addressing modes.
+- The format of an instruction refers to the layout of its fields, such as the opcode, the source operands, the destination operands, and the next instruction reference.
+- The functionality of an instruction refers to the type of operation it performs, such as arithmetic, logical, data transfer, control transfer, or input/output.
+- The addressing modes of an instruction refer to the ways of specifying the location of the operands, such as immediate, register, direct, indirect, indexed, or relative.
+- Based on the format, instructions can be categorized into zero-address, one-address, two-address, and three-address instructions.
+  - Zero-address instructions have no operand fields in the instruction. They use a stack to store and access the operands. An example of a zero-address instruction is ADD, which pops two values from the stack, adds them, and pushes the result back to the stack.
+  - One-address instructions have one operand field in the instruction. They use an accumulator register to store one of the operands and the result. An example of a one-address instruction is ADD X, which adds the value of X to the accumulator and stores the result in the accumulator.
+  - Two-address instructions have two operand fields in the instruction. They use one of the operands as the destination and the other as the source. An example of a two-address instruction is ADD X, Y, which adds the value of X to the value of Y and stores the result in Y.
+  - Three-address instructions have three operand fields in the instruction. They use one of the operands as the destination and the other two as the sources. An example of a three-address instruction is ADD X, Y, Z, which adds the value of X and Y and stores the result in Z.
+- Based on the functionality, instructions can be categorized into arithmetic, logical, data transfer, control transfer, and input/output instructions.
+  - Arithmetic instructions perform mathematical operations on the operands, such as addition, subtraction, multiplication, division, or modulo. Examples of arithmetic instructions are ADD, SUB, MUL, DIV, and MOD.
+  - Logical instructions perform bitwise operations on the operands, such as AND, OR, XOR, NOT, or shift. Examples of logical instructions are AND, OR, XOR, NOT, SHL, and SHR.
+  - Data transfer instructions move data between registers, memory, or input/output devices. Examples of data transfer instructions are MOV, LOAD, STORE, IN, and OUT.
+  - Control transfer instructions alter the sequence of execution by changing the value of the program counter. Examples of control transfer instructions are JMP, JZ, JNZ, CALL, and RET.
+  - Input/output instructions communicate with external devices, such as keyboards, monitors, printers, or disks. Examples of input/output instructions are IN, OUT, READ, and WRITE.
+- Based on the addressing modes, instructions can be categorized into immediate, register, direct, indirect, indexed, and relative instructions.
+  - Immediate instructions have a constant value as one of the operands. The value is encoded in the instruction itself. An example of an immediate instruction is ADD #5, X, which adds 5 to the value of X.
+  - Register instructions have a register name as one of the operands. The value is stored in the register. An example of a register instruction is ADD R1, R2, which adds the value of R1 to the value of R2.
+  - Direct instructions have a memory address as one of the operands. The value is stored in the memory location. An example of a direct instruction is ADD 1000, X, which adds the value stored in memory address 1000 to the value of X.
+  - Indirect instructions have a memory address as one of the operands, but the value is stored in another memory location pointed by the address. An example of an indirect instruction is ADD (1000), X, which adds the value stored in the memory location pointed by the value in memory address 1000 to the value of X.
+  - Indexed instructions have a memory address and an index register as one of the operands. The value is stored in the memory location obtained by adding the address and the index register. An example of an indexed instruction is ADD 1000(R1), X, which adds the value stored in the memory location

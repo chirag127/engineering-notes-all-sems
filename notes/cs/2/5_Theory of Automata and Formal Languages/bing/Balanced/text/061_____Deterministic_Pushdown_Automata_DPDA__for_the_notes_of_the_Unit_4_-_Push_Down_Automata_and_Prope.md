@@ -1,0 +1,23 @@
+### Deterministic Pushdown Automata (DPDA)
+
+- A deterministic pushdown automaton (DPDA) is a variation of the pushdown automaton (PDA) that accepts the deterministic context-free languages (DCFL), a proper subset of context-free languages (CFL) .
+- A DPDA has a single computation from the initial configuration until an accepting one for all strings belonging to the language it accepts .
+- A DPDA can be formally defined as a 7-tuple (Q, Σ, Γ, δ, q0, Z0, F), where :
+  - Q is a finite set of states
+  - Σ is a finite set of input symbols
+  - Γ is a finite set of stack symbols
+  - δ is a partial transition function of type (Q × Σε × Γ) → (Q × Γ*)
+  - q0 is the initial state
+  - Z0 is the initial stack symbol
+  - F is a set of final states
+- A DPDA is deterministic if for every state q, input symbol a, and stack symbol X, there is at most one transition of the form (q, a, X) → (p, α) in δ .
+- A DPDA can accept a string by two modes: final state and empty stack .
+  - In final state mode, a DPDA accepts a string if it reaches a final state after reading the whole input string.
+  - In empty stack mode, a DPDA accepts a string if it empties the stack after reading the whole input string.
+- A DPDA can be converted into an equivalent context-free grammar (CFG) and vice versa .
+- A DPDA can be simulated by a Turing machine (TM) and vice versa .
+- A DPDA can be represented by a state diagram, where each transition is labeled by an input symbol, a stack symbol to be popped, and a stack symbol (or string) to be pushed .
+- A DPDA can be implemented by a program that uses a stack data structure to store the stack symbols .
+- A DPDA can be used to recognize some languages that cannot be recognized by a finite automaton (FA), such as the language of balanced parentheses .
+- A DPDA cannot recognize some languages that can be recognized by a nondeterministic pushdown automaton (NPDA), such as the language {a^n b^n c^n | n ≥ 0} .
+- A DPDA is less powerful than a NPDA, but more efficient in terms of time and space complexity .

@@ -1,0 +1,11 @@
+### Computability
+- Computability is the ability to solve a problem in an effective manner.
+- It is a key concept in computer science and is closely related to the notion of an algorithm.
+- A problem is said to be computable if there exists an algorithm that can solve the problem.
+- The study of computability is concerned with the limitations of computers and the problems that can be solved using them.
+- The field of computability theory deals with the question of what problems can be solved by computers and what problems cannot.
+- One of the fundamental results in computability theory is the existence of problems that are not computable, i.e., there is no algorithm that can solve them.
+- The most famous example of such a problem is the halting problem, which asks whether a given computer program will eventually halt or run forever.
+- The halting problem is not computable, meaning that there is no algorithm that can solve it.
+- The study of computability has important implications for the design of computer systems and the development of algorithms.
+- It helps us understand the limitations of computers and guides us in the search for efficient algorithms for solving problems.

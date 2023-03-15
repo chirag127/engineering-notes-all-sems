@@ -1,0 +1,8 @@
+### Strategic competence for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Strategic competence is one's knowledge and application of communicative strategies that are particularly significant when a communicator lacks linguistic competence (e.g., lacks vocabulary or grammatical knowledge to express a thought.).
+- Strategic competence performs assessment, planning, and execution functions in determining the most effective means of achieving a communicative or language learning goal. It connects declarative, procedural, and conditional knowledge.
+- Strategic competence refers to the ability to overcome difficulties when communication breakdowns occur (Celce-Murcia, Dörnyei & Thurrell, 1995).
+- Strategic competence is made up of verbal and nonverbal communication strategies that may be called into action to compensate for breakdowns in communication due to performance variables or to insufficient competence (Canale & Swain, 1980, p. 30).
+- Strategic competence also involves the ability to initiate innovation and bring strategic change. To be viewed as a strategic thinker, one must also demonstrate that one can use one's knowledge to put new ideas into action.
+- Some examples of strategic competence are: using paraphrasing, circumlocution, repetition, clarification requests, confirmation checks, self-correction, gestures, etc. to convey or comprehend a message.

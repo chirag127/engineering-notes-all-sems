@@ -1,0 +1,21 @@
+### Interrupt and Machine Cycle
+
+- An interrupt is a signal that causes the microprocessor to temporarily stop its current program execution and switch to a predefined subroutine called an interrupt service routine (ISR).
+- An interrupt can be initiated by an external device, such as a keyboard or a printer, or by an internal event, such as an overflow or a division by zero.
+- The 8085 microprocessor has five hardware interrupt pins: INTR, RST 7.5, RST 6.5, RST 5.5, and TRAP. These pins have different priorities and functions.
+- The INTR pin is a maskable interrupt, which means it can be enabled or disabled by software instructions. It is the lowest priority interrupt and it requires an external hardware to provide an 8-bit instruction to the microprocessor during the interrupt acknowledge cycle.
+- The RST 7.5, RST 6.5, and RST 5.5 pins are also maskable interrupts, but they have higher priorities than INTR. They do not require an external hardware to provide an instruction, as they are internally connected to the RST instructions with the corresponding vector addresses. For example, RST 7.5 is equivalent to RST 7, which has a vector address of 003CH.
+- The TRAP pin is a non-maskable interrupt, which means it cannot be disabled by software instructions. It is the highest priority interrupt and it also does not require an external hardware to provide an instruction, as it is internally connected to the RST 4 instruction, which has a vector address of 0024H.
+- The microprocessor checks the interrupt pins after each instruction execution. If an interrupt request is detected and accepted, the microprocessor performs the following steps:
+  - It completes the current instruction and saves the address of the next instruction on the stack.
+  - It sends an interrupt acknowledge signal (INTA) to the external device and receives an 8-bit instruction from it (only for INTR).
+  - It executes the received instruction or the corresponding RST instruction and jumps to the ISR at the vector address.
+  - It returns to the main program after completing the ISR by popping the saved address from the stack.
+
+- A machine cycle is the basic unit of time required by the microprocessor to perform an operation. It consists of one or more clock cycles (T-states), which are the smallest units of time measured by the system clock.
+- The 8085 microprocessor has six types of machine cycles: opcode fetch, memory read, memory write, I/O read, I/O write, and interrupt acknowledge.
+- The opcode fetch cycle is used to fetch the opcode of an instruction from the memory. It consists of four T-states: T1, T2, T3, and T4. During T1 and T2, the microprocessor places the address of the opcode on the address bus and enables the memory read signal (MEMR). During T3 and T4, the microprocessor reads the opcode from the data bus and disables the memory read signal.
+- The memory read cycle is used to read data from the memory. It also consists of four T-states: T1, T2, T3, and T4. During T1 and T2, the microprocessor places the address of the data on the address bus and enables the memory read signal. During T3 and T4, the microprocessor reads the data from the data bus and disables the memory read signal.
+- The memory write cycle is used to write data to the memory. It also consists of four T-states: T1, T2, T3, and T4. During T1 and T2, the microprocessor places the address of the data on the address bus and the data on the data bus. During T3 and T4, the microprocessor enables the memory write signal (MEMW) and writes the data to the memory.
+- The I/O read cycle is used to read data from an input device. It also consists of four T-states: T1, T2, T3, and T4. During T1 and T2, the microprocessor places the address of the input device on the address bus and enables the I/O read signal (IOR). During T3 and T4, the microprocessor reads the data from the data bus and disables the I/O read signal.
+- The I/O write cycle is used to write data to an output device. It also consists of four T-states: T1, T2, T3, and T4. During T1 and T2, the microprocessor places

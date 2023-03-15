@@ -1,0 +1,21 @@
+### Control and Status for the Notes of the Unit 2
+
+- Control and status signals are used to identify the nature of operation, such as memory read, memory write, I/O read, I/O write, etc.
+- The 8085 microprocessor provides two control signals: RD (read) and WR (write) to initiate read or write cycle. These signals are used both for reading/writing memory and for reading/writing an input device.
+- The 8085 microprocessor also provides a signal called IO/M (input/output or memory) to indicate whether the initiated cycle is for an I/O device or for a memory device. IO/M is high for I/O operations and low for memory operations.
+- The 8085 microprocessor has a 16-bit address bus, which can address up to 64KB of memory. The address bus is divided into two parts: the high-order address bus (A15-A8) and the low-order address bus (A7-A0).
+- The 8085 microprocessor has an 8-bit data bus, which can transfer 8 bits of data at a time. The data bus is multiplexed with the low-order address bus, and is denoted as AD7-AD0. A multiplexer is used to separate the data bus from the address bus during a read or write operation.
+- The 8085 microprocessor has a 16-bit program counter (PC), which holds the address of the next instruction to be executed. The PC is incremented automatically after each instruction fetch.
+- The 8085 microprocessor has a 16-bit stack pointer (SP), which points to the top of the stack in the memory. The stack is used to store the return addresses of subroutines, interrupt service routines, and data temporarily.
+- The 8085 microprocessor has six 8-bit registers, which are arranged in pairs: BC, DE, and HL. These registers can be used as 16-bit registers by combining them in pairs. For example, BC can be used as B (high-order byte) and C (low-order byte).
+- The 8085 microprocessor has an 8-bit accumulator (A), which is used to store the result of arithmetic and logical operations. The accumulator is also called the register A.
+- The 8085 microprocessor has an 8-bit flag register (F), which indicates the status of the accumulator after an operation. The flag register has five flags: sign (S), zero (Z), auxiliary carry (AC), parity (P), and carry (CY).
+- The 8085 microprocessor has an arithmetic and logic unit (ALU), which performs arithmetic and logical operations on the data in the accumulator and the registers.
+- The 8085 microprocessor has a control unit, which generates the control signals for the internal and external devices. The control unit also coordinates the timing and sequencing of the operations.
+- The 8085 microprocessor has a serial communication unit, which allows the data transfer between the microprocessor and the external devices in serial mode. The serial communication unit has two pins: SID (serial input data) and SOD (serial output data).
+- The 8085 microprocessor has an interrupt unit, which handles the external interrupts from the peripheral devices. The interrupt unit has five interrupt pins: TRAP, RST 7.5, RST 6.5, RST 5.5, and INTR. The interrupt unit also has an interrupt enable flip-flop, which can be set or reset by the EI (enable interrupt) and DI (disable interrupt) instructions.
+- The 8085 microprocessor has a machine cycle unit, which defines the basic operations performed by the microprocessor. A machine cycle is the time required to complete one operation of accessing memory, I/O, or acknowledging an external request. A machine cycle consists of three or more T-states, which are the subdivisions of a machine cycle.
+- The 8085 microprocessor has an instruction set, which is a collection of instructions that the microprocessor can execute. The instruction set of 8085 microprocessor has 74 instructions, which are classified into five categories: data transfer, arithmetic, logical, branching, and machine control.
+- The 8085 microprocessor has three addressing modes, which specify how the operands of an instruction are accessed. The addressing modes are: immediate, direct, and register.
+- The 8085 microprocessor has three instruction formats, which define the structure of an instruction. The instruction formats are: one-byte, two-byte, and three-byte.
+- The 8085 microprocessor has some assembler directives, which

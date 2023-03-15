@@ -1,0 +1,23 @@
+### Introduction for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+
+- In this module, we will learn about some advanced statistical techniques that are useful for analyzing data and making inferences.
+- The topics covered in this module are:
+  - Sampling distributions and the central limit theorem
+  - Point estimation and interval estimation
+  - Hypothesis testing and significance tests
+  - Chi-square tests and analysis of variance
+  - Correlation and regression analysis
+- By the end of this module, you should be able to:
+  - Understand the concept and properties of sampling distributions and the central limit theorem
+  - Apply point estimation and interval estimation methods to estimate population parameters from sample data
+  - Perform hypothesis testing and significance tests for various scenarios and interpret the results
+  - Conduct chi-square tests and analysis of variance to compare categorical and numerical data
+  - Calculate and interpret correlation and regression coefficients to measure the relationship between two variables
+- The prerequisites for this module are:
+  - Basic knowledge of probability theory and random variables
+  - Familiarity with descriptive statistics and measures of central tendency and dispersion
+  - Ability to use a calculator or a software to perform statistical calculations
+- The references for this module are:
+  - Walpole, R.E., Myers, R.H., Myers, S.L., and Ye, K. (2012). Probability and Statistics for Engineers and Scientists (9th ed.). Pearson Education.
+  - Spiegel, M.R., Schiller, J., and Srinivasan, R.A. (2009). Probability and Statistics (3rd ed.). McGraw-Hill Education.
+  - Ross, S.M. (2014). Introduction to Probability and Statistics for Engineers and Scientists (5th ed.). Academic Press.

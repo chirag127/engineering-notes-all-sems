@@ -1,0 +1,11 @@
+### Defense against Control Hijacking - Platform Defenses
+
+Control hijacking is a type of attack that exploits a vulnerability in a program to alter its execution flow and execute malicious code. Control hijacking can be used to compromise the security and integrity of the system, bypass authentication, escalate privileges, steal sensitive data, or cause denial of service.
+
+Platform defenses are techniques that aim to prevent or mitigate control hijacking attacks at the level of the hardware, the operating system, or the compiler. Some of the platform defenses are:
+
+- **Fixing bugs**: The most effective way to prevent control hijacking is to eliminate the root causes of the vulnerabilities, such as buffer overflows, format string errors, or use-after-free bugs. This can be done by auditing the software, using automated tools, or rewriting the software in a type-safe language.
+- **Stack canaries**: A stack canary is a random value that is placed on the stack before the return address. The canary is checked before returning from a function, and if it is corrupted, the program aborts. This can prevent some buffer overflow attacks that overwrite the return address.
+- **Non-executable memory**: Non-executable memory is a feature that marks some regions of memory as non-executable, meaning that the processor will not execute any instructions stored there. This can prevent some code injection attacks that place malicious code on the stack or the heap.
+- **Address space layout randomization (ASLR)**: ASLR is a technique that randomizes the locations of the code, the stack, the heap, and the libraries in the memory. This can make it harder for an attacker to predict the addresses of the target functions or variables, or to reuse existing code.
+- **Control flow integrity (CFI)**: CFI is a technique that enforces that the program follows a valid control flow graph (CFG) that is determined ahead of time. This can prevent some control flow hijacking attacks that divert the execution to arbitrary locations or jump to existing code fragments.

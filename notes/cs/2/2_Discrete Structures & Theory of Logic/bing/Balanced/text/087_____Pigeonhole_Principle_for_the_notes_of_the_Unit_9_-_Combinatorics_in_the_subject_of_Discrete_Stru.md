@@ -1,0 +1,7 @@
+### Pigeonhole Principle
+
+- The pigeonhole principle is a basic principle of combinatorics that states that if there are more objects than containers, then at least one container must hold more than one object.
+- Formally, the pigeonhole principle can be stated as follows: If n objects are placed into k containers, where n > k, then there exists at least one container that contains more than one object.
+- The pigeonhole principle can be used to prove the existence of certain outcomes or patterns, without actually finding them. For example, using the pigeonhole principle, one can show that in any group of 13 people, there are at least two who have the same birthday month.
+- The pigeonhole principle can also be generalized to account for different numbers of objects and containers, or different conditions on the containers. For example, one can show that in any group of 100 people, there are at least 50 who have the same last digit of their phone number, by using 10 containers corresponding to the 10 possible digits, and placing 100 objects (people) into them.
+- The pigeonhole principle can also be applied to infinite sets, using the concept of cardinality. For example, one can show that there are infinitely many irrational numbers, by using the pigeonhole principle on the set of real numbers and the set of rational numbers, both of which have the same cardinality (aleph-one). Since there are more real numbers than rational numbers, there must be some real numbers that are not rational, and hence irrational.

@@ -1,0 +1,12 @@
+# Demand paging
+
+Demand paging is a memory management scheme used by modern operating systems to manage the limited memory available. It is a method of virtual memory management that allows a process to execute without loading all of its pages into physical memory. Instead, the operating system copies a disk page into physical memory only if an attempt is made to access it and that page is not already in memory (i.e., if a page fault occurs) .
+
+Some of the main concepts and advantages of demand paging are:
+
+- **Page fault**: A page fault occurs when a process tries to access a page that is not present in physical memory. The operating system then handles the page fault by locating the page on the disk, allocating a free frame in physical memory, and copying the page from the disk to the frame. The process can then resume its execution with the page in memory   .
+- **Page replacement**: Page replacement is the process of selecting a page in physical memory to be replaced by a new page from the disk. This is necessary when there is no free frame available in physical memory. The operating system uses a page replacement algorithm to decide which page to replace, such as FIFO, LRU, or optimal  .
+- **Working set**: The working set of a process is the set of pages that are frequently accessed by the process in a given period of time. The working set reflects the locality of reference of the process, which means that the process tends to access the same pages repeatedly. The operating system tries to keep the working set of each process in physical memory to reduce the number of page faults  .
+- **Thrashing**: Thrashing occurs when the operating system spends more time on paging than on executing processes. This happens when the total demand for physical memory exceeds the available memory, and the operating system has to constantly swap pages in and out of memory. Thrashing degrades the system performance and can be avoided by using proper memory allocation and page replacement policies  .
+
+Demand paging is an efficient and flexible way of managing memory in operating systems. It allows the operating system to run more processes than the physical memory can accommodate, and to load only the pages that are needed by the processes. Demand paging also reduces the disk I/O and memory wastage by avoiding loading pages that are never accessed   .

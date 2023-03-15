@@ -1,0 +1,22 @@
+# Theory of Inference for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- **Propositional logic** is the branch of logic that studies ways of combining or altering statements or propositions to form more complicated statements or propositions.
+- **Inference** is the process of deriving new statements or propositions from given statements or propositions using rules of logic.
+- **Rules of inference** are the logical principles that allow us to draw valid conclusions from given premises.
+- **Validity** is the property of an argument that guarantees that the conclusion follows from the premises, regardless of the truth or falsity of the premises.
+- **Soundness** is the property of an argument that guarantees that the conclusion is true, if the premises are true and the argument is valid.
+- **Modus ponens** is a rule of inference that states that if p implies q and p is true, then q is true. Symbolically, it can be written as (p -> q) ^ p => q.
+- **Modus tollens** is a rule of inference that states that if p implies q and q is false, then p is false. Symbolically, it can be written as (p -> q) ^ ~q => ~p.
+- **Contraposition** is a rule of inference that states that if p implies q, then not q implies not p. Symbolically, it can be written as (p -> q) => (~q -> ~p).
+- **Conjunction** is a rule of inference that states that if p and q are both true, then p ^ q is true. Symbolically, it can be written as p ^ q => p ^ q.
+- **Simplification** is a rule of inference that states that if p ^ q is true, then p is true and q is true. Symbolically, it can be written as p ^ q => p and p ^ q => q.
+- **Addition** is a rule of inference that states that if p is true, then p v q is true for any q. Symbolically, it can be written as p => p v q.
+- **Disjunctive syllogism** is a rule of inference that states that if p v q is true and p is false, then q is true. Symbolically, it can be written as (p v q) ^ ~p => q.
+- **Hypothetical syllogism** is a rule of inference that states that if p implies q and q implies r, then p implies r. Symbolically, it can be written as (p -> q) ^ (q -> r) => (p -> r).
+- **Dilemma** is a rule of inference that states that if p implies q and r implies s, and either p or r is true, then either q or s is true. Symbolically, it can be written as (p -> q) ^ (r -> s) ^ (p v r) => (q v s).
+- **Resolution** is a rule of inference that states that if p v q and ~p v r are true, then q v r is true. Symbolically, it can be written as (p v q) ^ (~p v r) => (q v r).
+- **De Morgan's laws** are rules of inference that state that the negation of a conjunction is equivalent to the disjunction of the negations, and the negation of a disjunction is equivalent to the conjunction of the negations. Symbolically, they can be written as ~(p ^ q) <=> ~p v ~q and ~(p v q) <=> ~p ^ ~q.
+- **Double negation** is a rule of inference that states that the negation of a negation is equivalent to the original statement. Symbolically, it can be written as ~~p <=> p.
+- **Commutation** is a rule of inference that states that the order of the operands in a conjunction or a disjunction does not affect the truth value of the statement. Symbolically, it can be written as p ^ q <=> q ^ p and p v q <=> q v p.
+- **Association** is a rule of inference that states that the grouping of the operands in a conjunction or a disjunction does not affect the truth value of the statement. Symbolically, it can be written as (p ^ q) ^ r <=> p ^ (q ^ r) and (p v q) v r <=> p v (q v r).
+- **Distribution** is a rule of inference

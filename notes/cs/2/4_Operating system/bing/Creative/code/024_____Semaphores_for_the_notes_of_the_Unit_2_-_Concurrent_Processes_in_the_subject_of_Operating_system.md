@@ -1,0 +1,21 @@
+### Semaphores for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+
+- A semaphore is a variable or abstract data type used to control access to a common resource by multiple threads and avoid critical section problems in a concurrent system such as a multitasking operating system.
+- A semaphore has two fields: a non-negative integer value S.V and a set of processes in a queue S.L.
+- A semaphore can be initialized to any non-negative value, depending on the number of resources available or the number of processes allowed to enter the critical section at a time.
+- A semaphore supports two atomic operations: wait and signal, also known as P and V.
+- The wait operation decrements the semaphore value by one, if it is positive, or blocks the calling process until the value becomes positive, and then adds it to the queue S.L.
+- The signal operation increments the semaphore value by one, and if the queue S.L is not empty, removes a process from the queue and unblocks it.
+- There are two main types of semaphores: counting semaphores and binary semaphores.
+- A counting semaphore can have any non-negative value and is used to represent the number of available resources or the number of permits for the critical section.
+- A binary semaphore can have only two values: 0 or 1, and is used to implement mutual exclusion or locks.
+- A binary semaphore is a special case of a counting semaphore with an initial value of 1.
+- Semaphores have some advantages and disadvantages as a synchronization primitive.
+- Advantages of semaphores:
+  - Semaphores allow only one process into the critical section at a time, ensuring mutual exclusion.
+  - Semaphores can be used to solve various synchronization problems, such as the producer-consumer problem, the readers-writers problem, the dining philosophers problem, etc.
+  - Semaphores are simple to implement and understand.
+- Disadvantages of semaphores:
+  - Semaphores require busy waiting, which wastes CPU time and may cause starvation or deadlock.
+  - Semaphores are prone to programming errors, such as forgetting to initialize, signal, or wait on a semaphore, or using the wrong semaphore for a resource.
+  - Semaphores do not provide information about the state of the resource or the processes waiting on it.

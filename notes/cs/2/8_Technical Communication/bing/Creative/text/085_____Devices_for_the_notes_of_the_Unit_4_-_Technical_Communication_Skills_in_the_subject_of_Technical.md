@@ -1,0 +1,14 @@
+### Devices for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Technical communication is a broad field that includes any form of communication that is about technical or specialized topics, uses technology such as web pages or help files, or provides instruction about how to do something.
+- Technical communication skills are essential for professionals who need to communicate complex information clearly, accurately, and effectively to various audiences and purposes.
+- Devices for the notes of technical communication are tools or methods that help technical communicators to record, organize, and outline information before writing the initial draft of a document.
+- Some examples of devices for the notes of technical communication are:
+
+  - Quotations: direct citations of words or phrases from a source, enclosed in quotation marks and attributed to the original author or speaker. Quotations are used to support a claim, provide evidence, or illustrate a point with the exact words of an authority.
+  - Paraphrases: restatements of the main ideas or information from a source, using one's own words and sentence structure. Paraphrases are used to simplify or clarify a complex or technical passage, or to avoid excessive quoting.
+  - Summaries: concise overviews of the main points or arguments from a source, using one's own words and omitting details or examples. Summaries are used to provide a brief overview of a long or dense text, or to highlight the main findings or conclusions of a source.
+  - Graphics: visual representations of data or information, such as charts, graphs, diagrams, maps, icons, etc. Graphics are used to complement or supplement the text, to show trends, patterns, relationships, or processes, or to attract attention or interest.
+  - Hyperlinks: clickable references to other web pages or documents, usually indicated by a different color or underline. Hyperlinks are used to provide additional or related information, to direct the reader to a source or citation, or to create interactivity and navigation.
+  - Video: moving images with or without sound, such as animations, demonstrations, interviews, etc. Video is used to show dynamic or complex phenomena, to provide visual or auditory examples, to engage the viewer emotionally or aesthetically, or to appeal to different learning styles.
+  - Audio: sound recordings, such as voice-overs, podcasts, music, etc. Audio is used to convey information or instructions verbally, to enhance the mood or tone of the document, to provide auditory examples, or to appeal to different learning styles.

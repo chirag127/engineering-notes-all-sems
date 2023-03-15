@@ -1,0 +1,11 @@
+### Satisfiability for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- Satisfiability is a semantic property of a propositional formula or a set of propositional formulas that indicates whether there exists a truth assignment that makes the formula or the set true.
+- A propositional formula is satisfiable if there is a 1-assignment for it; a set of propositional formulas is satisfiable if there is a simultaneous 1-assignment for its elements.
+- The propositional satisfiability problem (often called SAT) is the problem of determining whether a given set of sentences in propositional logic is satisfiable.
+- SAT is a fundamental problem in computer science and logic, as many other problems can be reduced to it, such as circuit design, planning, theorem proving, and cryptography.
+- SAT is also a computationally hard problem, as it belongs to the class of NP-complete problems, which means that there is no known efficient algorithm that can solve all instances of SAT in polynomial time.
+- There are various methods to test the satisfiability of a propositional formula or a set of propositional formulas, such as truth tables, resolution, DPLL algorithm, and satisfiability modulo theories (SMT).
+- A propositional formula or a set of propositional formulas is unsatisfiable if there is no truth assignment that makes it true; it is valid if every truth assignment makes it true; it is contingent if it is neither unsatisfiable nor valid.
+- The satisfiability of a propositional formula or a set of propositional formulas can be expressed using the logical connectives, such as negation, conjunction, disjunction, implication, and equivalence.
+- For example, a propositional formula p is satisfiable if and only if ¬p is not valid; a set of propositional formulas {p, q, r} is satisfiable if and only if p ∧ q ∧ r is satisfiable; a propositional formula p is valid if and only if ¬p is unsatisfiable; a set of propositional formulas {p, q, r} is valid if and only if p ∧ q ∧ r is valid; a propositional formula p is contingent if and only if ¬p is satisfiable and p is satisfiable; a set of propositional formulas {p, q, r} is contingent if and only if p ∧ q ∧ r is contingent.

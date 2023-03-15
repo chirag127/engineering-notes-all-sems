@@ -1,0 +1,22 @@
+# Principle of Concurrency
+
+- Concurrency in Operating System refers to the execution of several programs at the same time .
+- It takes place in OS when multiple processes are executing in parallel  .
+- It is the execution of processes to provide an impression of a synchronous computation.
+- Concurrency can occur on a single processor (by interleaving the execution of multiple processes) or on multiple processors (by distributing the execution of multiple processes) .
+- Concurrency in OS has some advantages and challenges, such as  :
+  - Advantages:
+    - Increased performance and efficiency
+    - Improved responsiveness and interactivity
+    - Better utilization of resources
+    - Enhanced modularity and scalability
+  - Challenges:
+    - Complexity and difficulty of design and implementation
+    - Potential for errors and bugs due to race conditions and deadlocks
+    - Need for synchronization and coordination mechanisms
+    - Overhead of context switching and communication
+- Concurrency in OS is based on some principles, such as :
+  - Mutual exclusion: Only one process can access a shared resource at a time
+  - Progress: A process that is waiting for a shared resource should eventually get it
+  - Bounded waiting: There should be a limit on how long a process can wait for a shared resource
+  - Fairness: All processes should have equal chances of accessing a shared resource

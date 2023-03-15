@@ -1,0 +1,12 @@
+### Operating System Services
+
+An operating system is a software that manages the hardware and other software on a computer. It provides a programming environment where a programmer can work on a given computer system. It also provides an interface for the users to interact with the computer and the programs running on it. An operating system offers various services to both the users and the programs. Some of the common services are:
+
+- **User Interface**: This is the service that allows the users to communicate with the operating system and the programs. It can be graphical (GUI), command-line (CLI), or batch (scripting).
+- **Program Execution**: This is the service that loads the programs into the memory and executes them. It also handles the termination of the programs, either normally or abnormally (due to errors).
+- **File System Manipulation**: This is the service that allows the users and the programs to create, delete, read, write, and modify files and directories on the storage devices. It also provides access control and protection mechanisms for the files and directories.
+- **Input/Output Operations**: This is the service that enables the users and the programs to interact with the input and output devices, such as keyboards, mice, monitors, printers, scanners, etc. It also manages the device drivers and buffers for the input and output operations.
+- **Communication**: This is the service that allows the users and the programs to exchange information between different processes, either on the same computer or on different computers connected by a network. It can be done by message passing or shared memory.
+- **Resource Allocation**: This is the service that allocates the available resources, such as CPU, memory, disk space, etc., to the users and the programs according to some policies and criteria. It also deals with the contention and deadlock situations that may arise due to the resource allocation.
+- **Error Detection**: This is the service that detects and corrects the errors that may occur in the hardware and the software components of the computer system. It also provides logging and debugging facilities for the users and the programs.
+- **Accounting**: This is the service that keeps track of the usage of the resources, such as CPU time, memory space, disk space, etc., by the users and the programs. It also provides billing and auditing mechanisms for the resource consumption.

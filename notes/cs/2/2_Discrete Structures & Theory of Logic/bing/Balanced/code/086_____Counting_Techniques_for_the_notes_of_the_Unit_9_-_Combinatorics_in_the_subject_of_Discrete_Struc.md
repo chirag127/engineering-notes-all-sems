@@ -1,0 +1,13 @@
+### Counting Techniques for the notes of the Unit 9 - Combinatorics in the subject of Discrete Structures & Theory of Logic
+
+Combinatorics is the branch of mathematics that deals with the study of finite or countable discrete structures. It includes the enumeration or counting of objects having certain properties, such as arrangements, combinations, permutations, partitions, and selections. Combinatorics methods can be used to solve various problems in computer science, cryptography, probability, graph theory, and algebra.
+
+Some of the basic counting techniques are:
+
+- **The product rule**: This rule states that if there are $n_1$ ways to do one thing, and $n_2$ ways to do another thing, then there are $n_1 \times n_2$ ways to do both things. For example, if there are 10 shirts and 8 pants to choose from, then there are $10 \times 8 = 80$ ways to choose a shirt and a pant.
+- **The sum rule**: This rule states that if there are $n_1$ ways to do one thing, and $n_2$ ways to do another thing, and these two things cannot be done at the same time, then there are $n_1 + n_2$ ways to do either one thing or the other. For example, if there are 5 red balls and 7 blue balls in a box, then there are $5 + 7 = 12$ ways to pick a ball from the box.
+- **The factorial**: This is a notation that represents the product of all positive integers from 1 to a given number $n$. It is denoted by $n!$. For example, $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$. The factorial can be used to count the number of ways to arrange $n$ distinct objects in a row, which is $n!$.
+- **The permutation**: This is a way of counting the number of ways to select and arrange $r$ objects from a set of $n$ distinct objects, where the order of selection matters. It is denoted by $P(n,r)$ or $_n P_r$. For example, the number of ways to select and arrange 3 letters from the word "MATH" is $P(4,3) = 4 \times 3 \times 2 = 24$. The permutation can be calculated using the formula $P(n,r) = \frac{n!}{(n-r)!}$.
+- **The combination**: This is a way of counting the number of ways to select $r$ objects from a set of $n$ distinct objects, where the order of selection does not matter. It is denoted by $C(n,r)$ or $_n C_r$ or ${n \choose r}$. For example, the number of ways to select 3 letters from the word "MATH" is $C(4,3) = 4$. The combination can be calculated using the formula $C(n,r) = \frac{n!}{r!(n-r)!}$.
+
+These are some of the common counting techniques that can be used to solve combinatorial problems. There are also other techniques, such as the inclusion-exclusion principle, the binomial theorem, the pigeonhole principle, and the principle of mathematical induction, that can be useful in some cases.

@@ -1,0 +1,9 @@
+# Flow in Speaking
+
+Flow in speaking is the smoothness or ease with which sounds, syllables, words and phrases are joined together in speech. Flow in speaking is important for effective oral communication, as it helps the speaker to convey their message clearly and confidently, and to engage the audience's attention and interest. Flow in speaking can be improved by following some simple steps, such as:
+
+- Planning and organizing your speech before you deliver it. Having a clear structure and outline of your main points, subpoints, examples and transitions can help you to avoid pauses, hesitations, repetitions and filler words that can disrupt your flow.
+- Practicing your speech aloud several times, preferably in front of a mirror, a recorder, or a friend. This can help you to identify and correct any errors, inconsistencies, or awkward expressions in your speech, and to become more familiar and comfortable with your content and delivery.
+- Using appropriate vocal variety, such as changes in pitch, volume, rate, tone and emphasis, to express your emotions, attitudes and intentions, and to highlight the key points and transitions in your speech. Vocal variety can also help you to avoid monotony and boredom, and to keep your audience engaged and interested.
+- Using effective nonverbal communication, such as eye contact, facial expressions, gestures, posture and movement, to complement and reinforce your verbal message, and to establish rapport and trust with your audience. Nonverbal communication can also help you to convey confidence, enthusiasm and professionalism, and to avoid distractions and nervousness.
+- Adapting to the feedback and reactions of your audience, such as their facial expressions, body language, comments and questions, and adjusting your speech accordingly. This can help you to maintain a conversational and interactive style, and to address any concerns, doubts or misunderstandings that your audience may have.

@@ -1,0 +1,9 @@
+### File organization and access mechanism
+
+- File organization is the way of arranging the files on a storage device, such as disk or tape. It affects the performance, reliability, and security of the file system. 
+- File access mechanism is the way of accessing the data or information stored in the files by the operating system or the applications. It affects the efficiency, convenience, and flexibility of the file system. 
+- There are different types of file organization and access mechanism, depending on the nature and purpose of the files. Some common types are:
+
+  - Sequential organization and access: The files are stored and accessed in a sequential order, one record after the other. This is suitable for files that are processed in a batch mode, such as backup files or log files. The advantage of this method is its simplicity and low cost. The disadvantage is its slow speed and lack of random access.   
+  - Direct organization and access: The files are stored and accessed in a random order, using a unique key or address for each record. This is suitable for files that are processed in an interactive mode, such as database files or index files. The advantage of this method is its fast speed and random access. The disadvantage is its complexity and high cost.    
+  - Indexed sequential organization and access: The files are stored in a sequential order, but also have an index that allows random access to any record. This is suitable for files that are processed in both batch and interactive modes, such as transaction files or master files. The advantage of this method is its flexibility and versatility. The disadvantage is its overhead and maintenance.

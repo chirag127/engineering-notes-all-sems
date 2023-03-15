@@ -1,0 +1,23 @@
+### Focus for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- The main focus of this unit is to understand the importance and principles of technical communication skills in the engineering profession.
+- The unit covers the following topics:
+  - The definition and characteristics of technical communication
+  - The purpose and audience of technical communication
+  - The process and strategies of technical communication
+  - The types and formats of technical communication
+  - The ethical and legal issues of technical communication
+- The learning outcomes of this unit are:
+  - To identify the features and functions of technical communication
+  - To apply the principles of effective technical communication to various situations and contexts
+  - To plan, draft, revise, and edit technical documents and presentations
+  - To use appropriate style, tone, language, and visuals for technical communication
+  - To evaluate the quality and credibility of technical communication
+  - To adhere to the ethical and legal standards of technical communication
+- The assessment criteria of this unit are:
+  - To demonstrate the knowledge and understanding of the concepts and principles of technical communication
+  - To demonstrate the ability and skills to produce clear, concise, and accurate technical documents and presentations
+  - To demonstrate the ability and skills to communicate effectively with different audiences and purposes
+  - To demonstrate the ability and skills to use appropriate tools and technologies for technical communication
+  - To demonstrate the ability and skills to work collaboratively and independently in technical communication
+  - To demonstrate the ability and skills to reflect on and improve one's own technical communication

@@ -1,0 +1,58 @@
+# Combination of Expression for the Notes of the Unit 4 - Technical Communication Skills
+
+- Unit 4 of Technical Communication Skills covers the following topics:
+  - Interview skills
+  - Group discussion: objective and method
+  - Seminar/conference presentation skills: focus, content, style
+  - Argumentation skills: devices, analysis, cohesion and emphasis
+  - Critical thinking
+  - Nuances: exposition, narration and description
+- Interview skills are the abilities to communicate effectively and professionally with the interviewer, to demonstrate one's suitability for the job, admission or promotion, and to handle different types of questions and situations in an interview.
+  - Some interview skills are:
+    - Researching the organization and the role
+    - Preparing relevant and concise answers
+    - Dressing appropriately and confidently
+    - Arriving on time and greeting the interviewer politely
+    - Listening actively and responding clearly
+    - Asking relevant and insightful questions
+    - Following up with a thank you note
+- Group discussion is a method of assessing the communication, interpersonal, analytical and problem-solving skills of the participants, who are given a topic or a case to discuss in a group for a limited time.
+  - Some group discussion skills are:
+    - Understanding the objective and the rules of the discussion
+    - Initiating the discussion with a clear and relevant introduction
+    - Contributing positively and constructively to the discussion
+    - Respecting others' opinions and avoiding arguments
+    - Supporting one's points with facts and examples
+    - Summarizing the main points and conclusions of the discussion
+- Seminar/conference presentation skills are the abilities to deliver an effective and engaging presentation on a specific topic or research in a seminar or a conference, where the audience is usually academic or professional.
+  - Some seminar/conference presentation skills are:
+    - Planning the presentation with a clear focus, purpose and structure
+    - Preparing the content with relevant and accurate information
+    - Choosing the appropriate style, tone and language for the audience
+    - Using visual aids and technology effectively and appropriately
+    - Practicing the presentation and timing it well
+    - Delivering the presentation with confidence, clarity and enthusiasm
+    - Handling questions and feedback from the audience
+- Argumentation skills are the abilities to construct and evaluate logical and persuasive arguments on a given issue or topic, using various devices and techniques of reasoning and evidence.
+  - Some argumentation skills are:
+    - Identifying the main claim, premises and conclusion of an argument
+    - Recognizing the types and sources of evidence and their reliability
+    - Analyzing the strength, validity and soundness of an argument
+    - Using cohesion and emphasis to connect and highlight the main points
+    - Avoiding logical fallacies and emotional appeals
+    - Acknowledging and refuting counterarguments
+    - Presenting one's own argument in a clear and convincing manner
+- Critical thinking is the ability to think rationally, objectively and creatively about a topic or a problem, using various skills and strategies of analysis, evaluation and synthesis.
+  - Some critical thinking skills are:
+    - Defining the problem or the question clearly and precisely
+    - Gathering and evaluating relevant and reliable information
+    - Applying logical and systematic methods of reasoning
+    - Identifying and challenging assumptions and biases
+    - Comparing and contrasting different perspectives and solutions
+    - Developing and testing one's own conclusions and recommendations
+    - Communicating one's findings and arguments effectively and ethically
+- Nuances are the subtle differences or variations in meaning, expression or tone that affect the interpretation and impact of a message or a text.
+  - Some nuances are:
+    - Exposition: a mode of writing that explains, informs or describes a topic or an idea, using facts, examples, definitions and analysis.
+    - Narration: a mode of writing that tells a story or an event, using characters, settings, actions, dialogues and emotions.
+    - Description: a mode of writing that creates a vivid picture of a person, place, object or scene, using sensory details, imagery and figurative language.

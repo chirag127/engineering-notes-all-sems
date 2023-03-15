@@ -1,0 +1,21 @@
+### I/O ports
+
+- I/O ports are the interface between the CPU and the external devices such as keyboards, mice, printers, scanners, etc.
+- I/O ports allow data to be transferred between the internal storage and the external I/O devices .
+- I/O ports can be classified into two types: serial ports and parallel ports.
+- Serial ports transmit data one bit at a time over a single wire. They are used for external modems and older computer mice. They have two versions: 9-pin and 25-pin. Data travels at 115 kilobits per second.
+- Parallel ports transmit data eight bits at a time over eight wires. They are used for scanners and printers. They have a 25-pin model.
+- I/O ports are controlled by I/O modules, which are special hardware components that supervise and synchronize all I/O operations .
+- I/O modules perform the following functions:
+  - Control and timing: I/O modules coordinate the flow of traffic between internal resources and external devices.
+  - Processor communication: I/O modules communicate with the CPU using commands, status information, and data.
+  - Device communication: I/O modules communicate with the external devices using electrical signals, protocols, and handshaking.
+  - Data buffering: I/O modules store data temporarily in memory to compensate for the speed difference between the CPU and the external devices.
+  - Error detection: I/O modules detect and report any errors that occur during the data transfer.
+- I/O ports can use different methods to transfer data, such as programmed I/O, interrupt-driven I/O, and direct memory access (DMA).
+- Programmed I/O is a method in which the CPU initiates and monitors the data transfer. The CPU is busy during the entire I/O operation and cannot perform other tasks.
+- Interrupt-driven I/O is a method in which the CPU initiates the data transfer and then resumes other tasks. The I/O module interrupts the CPU when the data transfer is complete or when an error occurs.
+- Direct memory access (DMA) is a method in which a specialized I/O processor takes over control of an I/O operation to move a large block of data. The CPU is free to perform other tasks during the data transfer.
+- Some examples of external I/O interfaces are FireWire and Infiniband.
+- FireWire is a high-speed serial interface that can connect up to 63 devices. It can support data rates up to 800 megabits per second.
+- Infiniband is a switched fabric interface that can connect multiple devices using point-to-point links. It can support data rates up to 2.5 gigabits per second per link.

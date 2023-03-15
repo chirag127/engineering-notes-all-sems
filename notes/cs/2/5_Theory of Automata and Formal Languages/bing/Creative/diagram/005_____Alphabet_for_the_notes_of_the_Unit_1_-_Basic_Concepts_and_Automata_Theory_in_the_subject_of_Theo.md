@@ -1,0 +1,16 @@
+### Alphabet
+- An alphabet is a finite, non-empty set of symbols, usually denoted by Σ.
+- The symbols in an alphabet are called letters or characters.
+- An alphabet can be used to form strings or words by concatenating the letters in some order.
+- The length of a string is the number of letters it contains, denoted by |w| for a string w.
+- The empty string is the string of length zero, denoted by ε or λ.
+- A string can be reversed by writing its letters in the opposite order, denoted by w^R for a string w.
+- A string can be repeated by concatenating it with itself n times, denoted by w^n for a string w and a natural number n.
+- A string can be a prefix, suffix, or substring of another string if it appears at the beginning, end, or somewhere in the middle of the other string, respectively.
+- A string can be a factor of another string if it is a non-empty substring of the other string.
+- A string can be a subsequence of another string if it can be obtained by deleting some letters from the other string, without changing the order of the remaining letters.
+- A language is a set of strings over an alphabet, usually denoted by L.
+- A language can be finite or infinite, depending on the number of strings it contains.
+- A language can be empty, denoted by ∅, if it contains no strings at all.
+- A language can be unary, binary, or n-ary, depending on the number of letters in its alphabet.
+- A language can be regular, context-free, context-sensitive, or recursively enumerable, depending on the type of grammar or automaton that can generate or recognize it.

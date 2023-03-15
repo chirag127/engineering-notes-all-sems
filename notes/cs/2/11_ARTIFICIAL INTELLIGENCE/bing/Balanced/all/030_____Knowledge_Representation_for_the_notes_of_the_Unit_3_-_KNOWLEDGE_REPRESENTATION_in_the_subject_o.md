@@ -1,0 +1,18 @@
+# Knowledge Representation
+
+Knowledge representation (KR) is a field of artificial intelligence that focuses on designing computer representations that capture information about the world that can be used for solving complex problems. KR is also the study of how the beliefs, intentions, and value judgments of an intelligent agent can be expressed in a transparent, symbolic notation suitable for automated reasoning. KR is essential for building intelligent systems that can perform tasks such as diagnosing a medical condition, having a dialog in a natural language, or planning a route.
+
+Some of the requirements for a good knowledge representation system are:
+
+- Representational accuracy: KR system should have the ability to represent all kinds of required knowledge.
+- Inferential adequacy: KR system should have the ability to manipulate the representational structures to produce new knowledge corresponding to the logical consequences of the existing knowledge.
+- Inferential efficiency: KR system should have the ability to derive the desired conclusions from the knowledge base in a reasonable amount of time and space.
+- Acquisitional efficiency: KR system should have the ability to acquire new knowledge from the external sources or from the user in a convenient and natural way.
+
+Some of the common techniques for knowledge representation are:
+
+- Logic: Logic is a formal system of symbols and rules that can be used to represent and reason about facts, beliefs, and goals. Logic can be divided into two types: propositional logic and predicate logic. Propositional logic deals with simple statements that are either true or false, such as "It is raining" or "John likes Mary". Predicate logic deals with statements that involve variables, predicates, and quantifiers, such as "All humans are mortal" or "There exists a person who loves Mary".
+- Semantic networks: Semantic networks are graphical representations of concepts and their relationships. Semantic networks consist of nodes and links, where nodes represent concepts and links represent relations. For example, a semantic network for animals can have nodes for "animal", "mammal", "bird", "dog", "cat", etc. and links for "is-a", "has", "can", etc. Semantic networks can be used to represent hierarchical, associative, and causal knowledge.
+- Frames: Frames are data structures that represent stereotypical situations or objects. Frames consist of slots and fillers, where slots represent attributes or features and fillers represent values or pointers to other frames. For example, a frame for a car can have slots for "color", "model", "owner", etc. and fillers for "red", "Honda", "John", etc. Frames can be used to represent default, inheritance, and exception knowledge.
+- Scripts: Scripts are data structures that represent typical sequences of events or actions. Scripts consist of slots and fillers, where slots represent roles or variables and fillers represent values or pointers to other scripts. For example, a script for a restaurant can have slots for "customer", "waiter", "menu", "order", etc. and fillers for "John", "Mary", "pizza", "salad", etc. Scripts can be used to represent procedural, temporal, and conditional knowledge.
+- Production rules: Production rules are data structures that represent conditional actions or behaviors. Production rules consist of two parts: a condition and an action. The condition specifies when the rule is applicable and the action specifies what to do when the rule is triggered. For example, a production rule for driving can be "IF the traffic light is red THEN stop". Production rules can be used to represent control, planning, and learning knowledge.

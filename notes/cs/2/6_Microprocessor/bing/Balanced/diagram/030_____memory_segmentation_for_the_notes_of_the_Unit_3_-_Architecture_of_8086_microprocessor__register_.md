@@ -1,0 +1,8 @@
+### Memory Segmentation
+
+- Memory segmentation is a technique that allows the 8086 microprocessor to access more than 64 KB of memory by dividing the memory into segments of 64 KB each.
+- The 8086 microprocessor has a 20-bit address bus, which means it can address 1 MB of memory. However, its internal registers are only 16-bit, which means they can only hold values up to 65,536.
+- To overcome this limitation, the 8086 microprocessor uses four segment registers: code segment (CS), data segment (DS), stack segment (SS), and extra segment (ES). These registers store the upper 16 bits of the starting addresses of the four memory segments that the 8086 is working with at any instant of time.
+- The lower 16 bits of the memory address are provided by an offset register, such as the instruction pointer (IP), the stack pointer (SP), the base pointer (BP), or the index registers (SI and DI).
+- The final physical address is calculated by adding the segment address and the offset address, and then multiplying the result by 16. This is called the segment:offset notation. For example, if CS = 1000h and IP = 200h, then the physical address of the next instruction is (1000h + 200h) * 16 = 12000h.
+- Memory segmentation allows the 8086 microprocessor to access different types of data and code in different segments, and also to switch between different segments by changing the values of the segment registers. This enables the 8086 microprocessor to support multitasking, memory protection, and virtual memory.

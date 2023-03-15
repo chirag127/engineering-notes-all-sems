@@ -1,0 +1,23 @@
+### Principle of Concurrency for the notes of the Unit 2 - Concurrent Processes in the subject of Operating System
+
+- Concurrency in Operating System refers to the execution of several programs at the same time   .
+- It takes place in OS when multiple processes or threads are executing in parallel   .
+- It is the execution of processes to provide an impression of a synchronous computation.
+- Concurrency can be achieved by using current technology such as multi-core processors and parallel processing, which allow multiple instructions to be executed simultaneously.
+- Concurrency has some advantages and challenges in operating system design.
+  - Advantages of concurrency:
+    - It can improve the performance and efficiency of the system by utilizing the CPU and other resources effectively  .
+    - It can enhance the responsiveness and interactivity of the system by allowing processes to run in the background while the user interacts with the foreground processes  .
+    - It can support the modularity and structure of the system by allowing processes to be divided into smaller and independent units that can communicate with each other  .
+  - Challenges of concurrency:
+    - It can introduce complexity and difficulty in the system design and implementation, as the processes need to be coordinated and synchronized to avoid conflicts and errors  .
+    - It can increase the overhead and cost of the system, as the processes need to share the limited resources and exchange the messages among them  .
+    - It can cause unpredictability and non-determinism in the system behavior, as the processes may interfere with each other and produce different outcomes depending on the order and timing of their execution  .
+- Principles of concurrency are the guidelines and rules that help to manage the concurrency in the operating system.
+  - Some of the principles of concurrency are:
+    - Mutual exclusion: It ensures that only one process can access a critical section or a shared resource at a time, and prevents the interference and inconsistency among the processes.
+    - Deadlock: It is a situation where a set of processes are waiting for each other to release the resources that they hold, and none of them can proceed.
+    - Starvation: It is a situation where a process is indefinitely delayed or denied from accessing a resource or a service that it needs.
+    - Livelock: It is a situation where a set of processes are constantly changing their states in response to each other, but none of them can make any progress.
+    - Synchronization: It is a mechanism that coordinates the execution and communication of the processes, and ensures the order and consistency of the system state.
+    - Cooperation: It is a mechanism that allows the processes to share the information and resources, and achieve a common goal.

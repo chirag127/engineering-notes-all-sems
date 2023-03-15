@@ -1,0 +1,13 @@
+### Public Speaking for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+Public speaking is the process of communicating information to an audience, usually in a formal setting. Technical presentation is a type of public speaking that involves explaining complex or specialized topics to a non-expert audience, such as customers, investors, or students.
+
+Some of the tips for delivering a successful technical presentation are:
+
+- Know your subject matter. You should be confident and knowledgeable about the topic you are presenting, and be able to answer questions or clarify doubts from the audience. You should also avoid reading from your slides or notes, and instead use them as a guide to support your speech.
+- Know your audience. You should tailor your presentation to the level of understanding, interest, and expectations of your audience. You should also use appropriate language, tone, and examples to engage them and avoid jargon or technical terms that they may not understand.
+- Configure your IDE. If you are using an integrated development environment (IDE) to demonstrate your code or software, you should make sure that it is configured properly and that it works smoothly. You should also test your code or software before the presentation, and have a backup plan in case of technical issues.
+- Minimize distractions. You should eliminate any potential distractions that may interfere with your presentation, such as background noise, phone calls, or notifications. You should also turn off or mute your devices, and ask the audience to do the same. You should also avoid fidgeting, pacing, or looking at your watch, and instead maintain eye contact and a confident posture.
+- Get the right equipment. You should use the appropriate equipment and tools for your presentation, such as a microphone, a projector, a pointer, or a clicker. You should also check the compatibility and functionality of your equipment before the presentation, and have a backup plan in case of technical issues.
+- Rehearse in advance. You should practice your presentation several times before the actual event, and get feedback from others. You should also time yourself and adjust your content and delivery accordingly. You should also prepare for possible questions or challenges from the audience, and have ready answers or solutions.
+- Finally, enjoy the experience. You should try to relax and have fun during your presentation, and show enthusiasm and passion for your topic. You should also smile, use humor, and interact with the audience to create a positive and memorable impression.

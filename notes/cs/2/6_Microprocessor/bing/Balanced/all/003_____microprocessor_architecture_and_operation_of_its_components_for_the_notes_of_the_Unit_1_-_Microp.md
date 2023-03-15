@@ -1,0 +1,12 @@
+# Microprocessor Architecture and Operation of Its Components
+
+A microprocessor is a single integrated circuit (IC) that contains the data processing logic and control of a computer's central processing unit (CPU). It performs arithmetic, logic, and control operations on the data received from an input device or memory. It also communicates with other devices through a system bus.
+
+The basic components of a microprocessor architecture are:
+
+- Arithmetic Logic Unit (ALU): It performs arithmetic and logic operations on the data, such as addition, subtraction, multiplication, division, and, or, not, etc. It also sets the flags according to the result of the operation.
+- Accumulator: It is a special register that holds one of the operands as well as the result of the operation performed by the ALU. It is also used to store intermediate or final results before transferring them to memory or output devices.
+- Program Counter (PC): It is a register that holds the address of the next instruction to be executed. It is incremented by one after each instruction fetch, unless it is modified by a jump or branch instruction.
+- Control Unit: It is the component that controls the execution of instructions and the flow of data within the microprocessor. It generates the control signals that enable or disable other components, such as the ALU, the registers, the memory, and the input/output devices. It also generates the timing signals that synchronize the operations of the microprocessor.
+- Register Array: It is a set of registers that store data temporarily during the execution of instructions. They are used to hold operands, addresses, or intermediate results. Some registers are general-purpose, while others are special-purpose, such as the stack pointer, the index register, the status register, etc.
+- System Bus: It is a set of wires that connect the microprocessor to other devices, such as the memory, the input/output devices, and other microprocessors. It consists of three types of lines: data lines, address lines, and control lines. Data lines carry the data to be transferred, address lines carry the address of the device to be accessed, and control lines carry the control signals that indicate the type and direction of the transfer.

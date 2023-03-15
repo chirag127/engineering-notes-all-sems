@@ -1,0 +1,21 @@
+### Algebraic manipulation of Boolean expressions
+
+- Boolean expressions are algebraic expressions that use binary variables and logical operators to represent logical values and functions.
+- Boolean expressions can be simplified or transformed into equivalent forms by applying the laws, rules and theorems of Boolean algebra.
+- Some common Boolean algebra operations are:
+  - AND operator: It is analogous to conjunction. In a Boolean expression, `*` is used to represent the AND operator. It returns true only if both operands are true. For example, `A * B` is true only if both `A` and `B` are true.
+  - OR operator: This operator is equivalent to disjunction. In a Boolean expression, `+` symbol is used to represent the OR operator. It returns true if either or both operands are true. For example, `A + B` is true if either `A` or `B` or both are true.
+  - NOT operator: This logical operator is comparable to negation. NOT operator returns true if the input variable is false. In a Boolean expression, a prime (`'`) symbol is used to represent the NOT operator. For example, `A'` is true if `A` is false.
+- Some common Boolean algebra laws, rules and theorems are:
+  - Commutative law: It states that the order of the operands does not affect the result of the operation. For example, `A * B = B * A` and `A + B = B + A`.
+  - Associative law: It states that the grouping of the operands does not affect the result of the operation. For example, `(A * B) * C = A * (B * C)` and `(A + B) + C = A + (B + C)`.
+  - Distributive law: It states that an operation can be distributed over another operation. For example, `A * (B + C) = (A * B) + (A * C)` and `A + (B * C) = (A + B) * (A + C)`.
+  - Identity law: It states that an operand remains unchanged when operated with an identity element. For example, `A * 1 = A` and `A + 0 = A`.
+  - Complement law: It states that an operand and its complement have opposite values. For example, `A * A' = 0` and `A + A' = 1`.
+  - Idempotent law: It states that an operand remains unchanged when operated with itself. For example, `A * A = A` and `A + A = A`.
+  - De Morgan's law: It states that the complement of a conjunction is the disjunction of the complements, and vice versa. For example, `(A * B)' = A' + B'` and `(A + B)' = A' * B'`.
+  - Absorption law: It states that an operand can be absorbed by another operand if they are operated by OR and then by AND, or vice versa. For example, `A * (A + B) = A` and `A + (A * B) = A`.
+- Algebraic manipulation of Boolean expressions can be used to simplify or transform expressions into different forms, such as canonical, standard, or minimal forms.
+  - Canonical form: It is a standardized form of a Boolean expression that uses either minterms or maxterms. A minterm is a product term that contains all the variables in the expression, either in complemented or uncomplemented form. A maxterm is a sum term that contains all the variables in the expression, either in complemented or uncomplemented form. For example, `A * B' + A' * B` is a canonical form using minterms, and `(A + B') * (A' + B)` is a canonical form using maxterms.
+  - Standard form: It is a simplified form of a Boolean expression that uses either sum-of-products (SOP) or product-of-sums (POS). A SOP is a sum of one or more product terms, and a POS is a product of one or more sum terms. For example, `A * B + A' * C` is a SOP, and `(A + B) * (A' + C)` is a POS.
+  - Minimal form: It is the simplest form of a Boolean expression that uses the least number of literals and terms. A literal is a variable or its complement, and a term is a product or sum of literals. For example, `

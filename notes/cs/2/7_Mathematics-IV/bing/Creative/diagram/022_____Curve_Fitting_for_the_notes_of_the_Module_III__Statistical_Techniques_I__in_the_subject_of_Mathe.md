@@ -1,0 +1,28 @@
+### Curve Fitting
+
+- Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points, possibly subject to constraints .
+- Curve fitting can involve either interpolation, where an exact fit to the data is required, or smoothing, where a smooth function is constructed that approximates the data.
+- Curve fitting can be used for various purposes, such as:
+  - Exploring the relationship between variables
+  - Extrapolating or predicting future values
+  - Testing hypotheses or models
+  - Evaluating the goodness of fit or accuracy of the curve
+- Curve fitting can be done by various methods, such as:
+  - Analytical methods, where a closed-form solution or formula is derived for the curve
+  - Numerical methods, where an iterative algorithm is used to find the optimal curve parameters
+  - Graphical methods, where a visual inspection or comparison is done to choose the best curve
+- Some common types of curves or functions that are used for curve fitting are:
+  - Linear functions, where the curve is a straight line
+  - Polynomial functions, where the curve is a sum of powers of the independent variable
+  - Exponential functions, where the curve is a product of a constant and a power of the independent variable
+  - Logarithmic functions, where the curve is a product of a constant and the logarithm of the independent variable
+  - Trigonometric functions, where the curve is a sum of sine and cosine functions
+  - Gaussian functions, where the curve is a bell-shaped curve
+  - Sigmoid functions, where the curve is an S-shaped curve
+- Some common criteria or measures that are used to evaluate the quality of the curve fit are:
+  - Residuals, which are the differences between the observed and predicted values
+  - Sum of squared residuals, which is the sum of the squares of the residuals
+  - Coefficient of determination, which is the proportion of the variance in the dependent variable that is explained by the curve
+  - Root mean squared error, which is the square root of the average of the squared residuals
+  - Akaike information criterion, which is a measure of the trade-off between the complexity and the goodness of fit of the curve
+  - Bayesian information criterion, which is a similar measure to the Akaike information criterion, but with a different penalty for the complexity of the curve

@@ -1,0 +1,21 @@
+### Introduction for the notes of the Unit 1 - INTRODUCTION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Artificial Intelligence (AI) is the branch of computer science that aims to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, etc.
+- AI is an interdisciplinary field that draws upon knowledge and methods from various domains, such as mathematics, logic, psychology, linguistics, philosophy, neuroscience, etc.
+- AI can be classified into different types based on the goals, methods, and applications, such as:
+  - Weak AI or Narrow AI: AI systems that are designed to perform specific tasks or solve specific problems, such as speech recognition, face detection, chess playing, etc. They do not have general intelligence or understanding of the world.
+  - Strong AI or General AI: AI systems that can perform any intellectual task that a human can do, such as reasoning, planning, learning, etc. They have general intelligence and can adapt to new situations and domains.
+  - Artificial Superintelligence (ASI): AI systems that can surpass human intelligence and capabilities in all aspects, such as creativity, wisdom, social skills, etc. They can potentially create and control other AI systems.
+- AI can also be classified into different types based on the approach or paradigm, such as:
+  - Symbolic AI or Classical AI: AI systems that use symbols and rules to represent and manipulate knowledge, such as logic, search, expert systems, etc. They rely on explicit and formal representations of the problem domain and the solution methods.
+  - Subsymbolic AI or Connectionist AI: AI systems that use numerical values and networks to model and process information, such as neural networks, fuzzy logic, evolutionary algorithms, etc. They rely on implicit and distributed representations of the problem domain and the solution methods.
+  - Hybrid AI: AI systems that combine symbolic and subsymbolic approaches to leverage the strengths and overcome the limitations of both paradigms, such as neural-symbolic systems, neuro-fuzzy systems, etc.
+- AI has many applications and impacts in various fields and domains, such as:
+  - Natural Language Processing (NLP): AI systems that can understand, generate, and manipulate natural language, such as text, speech, etc. Examples are machine translation, chatbots, sentiment analysis, etc.
+  - Computer Vision (CV): AI systems that can perceive, analyze, and understand visual information, such as images, videos, etc. Examples are face recognition, object detection, scene understanding, etc.
+  - Robotics: AI systems that can control physical machines or devices that can sense and act in the real world, such as robots, drones, self-driving cars, etc. Examples are navigation, manipulation, coordination, etc.
+  - Machine Learning (ML): AI systems that can learn from data and experience, and improve their performance and behavior over time, such as supervised learning, unsupervised learning, reinforcement learning, etc. Examples are classification, clustering, regression, etc.
+  - Expert Systems (ES): AI systems that can provide expert knowledge and advice in specific domains, such as medical diagnosis, legal reasoning, financial planning, etc. Examples are MYCIN, DENDRAL, PROSPECTOR, etc.
+  - Artificial Neural Networks (ANN): AI systems that use interconnected nodes or units that can process and transmit information, inspired by the biological neural networks in the brain, such as perceptron, multilayer perceptron, convolutional neural network, recurrent neural network, etc. Examples are image recognition, natural language processing, etc.
+  - Fuzzy Logic (FL): AI systems that use fuzzy sets and fuzzy rules to deal with uncertainty and imprecision, inspired by the human way of thinking and reasoning, such as fuzzy set theory, fuzzy inference, fuzzy control, etc. Examples are temperature control, weather forecasting, etc.
+  - Evolutionary Algorithms (EA): AI systems that use evolutionary principles and mechanisms to optimize and evolve solutions, inspired by the natural evolution and genetics, such as genetic algorithms, genetic programming, evolutionary strategies, etc. Examples are function optimization, design optimization, etc.

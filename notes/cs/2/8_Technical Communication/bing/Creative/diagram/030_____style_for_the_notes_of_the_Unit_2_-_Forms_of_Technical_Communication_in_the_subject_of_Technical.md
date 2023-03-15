@@ -1,0 +1,32 @@
+### Style for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Style is the way a writer expresses ideas in a document.
+- Style affects the tone, clarity, accuracy, and effectiveness of a document.
+- Style can be influenced by the purpose, audience, context, and format of a document.
+- Style can be improved by following some general principles, such as:
+  - Using plain and precise language
+  - Avoiding jargon, slang, and clichés
+  - Using active voice and strong verbs
+  - Varying sentence length and structure
+  - Using parallelism, coordination, and subordination
+  - Using transitions and signposts
+  - Using appropriate punctuation and capitalization
+  - Using consistent spelling and grammar
+  - Using headings, lists, and tables to organize information
+  - Using visual aids, such as graphs, charts, and diagrams, to supplement text
+- Style can also be adapted to different forms of technical communication, such as:
+  - Memos: short, informal, and direct messages that convey information or instructions within an organization
+  - Letters: formal and courteous messages that communicate with external parties, such as clients, customers, or suppliers
+  - Emails: electronic messages that can be either formal or informal, depending on the situation and the relationship between the sender and the receiver
+  - Reports: detailed and structured documents that present information, analysis, or recommendations on a specific topic or problem
+  - Proposals: persuasive documents that offer a solution, a plan, or a project to meet a need or a goal
+  - Manuals: instructional documents that explain how to use, operate, or maintain a product, a service, or a system
+  - Presentations: oral or visual communication that delivers information, ideas, or arguments to an audience
+  - Websites: online platforms that provide information, services, or products to users
+- Style can be evaluated by using some criteria, such as:
+  - Suitability: the degree to which the style matches the purpose, audience, context, and format of the document
+  - Coherence: the degree to which the style connects the ideas and the information in a logical and consistent way
+  - Conciseness: the degree to which the style conveys the message in the fewest possible words
+  - Readability: the degree to which the style makes the document easy to read and understand
+  - Accuracy: the degree to which the style reflects the facts and the data correctly and objectively
+  - Courtesy: the degree to which the style shows respect and consideration for the reader

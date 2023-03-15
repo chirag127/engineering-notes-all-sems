@@ -1,0 +1,9 @@
+### Dining Philosopher Problem
+
+- The dining philosopher problem is a classic problem of synchronization in computer science, which illustrates the possibility of deadlocks and starvation in concurrent programs that access multiple shared resources .
+- The problem was originally formulated by Edsger Dijkstra in 1965 as a student exam exercise, presented in terms of computers competing for access to tape drive peripherals.
+- The problem can be described as follows: There are five philosophers sitting around a circular table, each with a plate of noodles in front of them. There are also five chopsticks on the table, one between each pair of adjacent philosophers    .
+- The philosophers alternate between thinking and eating. To eat, a philosopher needs to pick up both chopsticks on his left and right. However, only one philosopher can hold a chopstick at a time. Therefore, a philosopher cannot eat if either of his neighbors is already eating    .
+- The problem is to design a protocol that allows the philosophers to eat and think without causing any deadlock or starvation. A deadlock occurs when all philosophers are holding one chopstick and waiting for the other, thus no one can eat. A starvation occurs when a philosopher is unable to eat for an indefinite period of time, even though there is food available    .
+- There are different ways of solving the problem, such as using semaphores, monitors, locks, or message passing. Some solutions may impose additional constraints, such as limiting the number of philosophers who can eat at the same time, or assigning priorities or ordering to the chopsticks    .
+- The problem is a useful model for studying various synchronization issues and techniques in concurrent systems, such as deadlock detection and prevention, resource allocation, fairness, and deadlock freedom .

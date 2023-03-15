@@ -1,0 +1,24 @@
+### Cache memories for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- Cache memory is a special type of memory that is faster than main memory and is located between the CPU and the main memory .
+- Cache memory stores frequently accessed data and instructions so that they can be delivered to the CPU quickly when needed.
+- Cache memory reduces the average time to access data from the main memory, which improves the performance of the system.
+- Cache memory works under different configurations, such as direct mapped, associative, and set associative.
+- Direct mapped cache has each block of main memory mapped to exactly one location in the cache.
+- Associative cache has each block of main memory mapped to any location in the cache, which allows more flexibility but requires more complex hardware.
+- Set associative cache has each block of main memory mapped to a subset of locations in the cache, which is a compromise between direct mapped and associative cache.
+- Cache memory uses different techniques to manage the data, such as write-through, write-back, write-allocate, and write-no-allocate.
+- Write-through cache updates both the cache and the main memory when a write operation occurs, which ensures data consistency but increases the traffic.
+- Write-back cache updates only the cache when a write operation occurs, and updates the main memory later, which reduces the traffic but may cause data inconsistency.
+- Write-allocate cache allocates a new block in the cache when a write miss occurs, which may improve the performance of subsequent reads.
+- Write-no-allocate cache does not allocate a new block in the cache when a write miss occurs, which may save the cache space for more useful data.
+- Cache memory can be classified into different levels, such as L1, L2, and L3, based on their proximity to the CPU and their size.
+- L1 cache is the closest and the fastest cache level, but also the smallest and the most expensive.
+- L2 cache is the next cache level, which is larger and slower than L1 cache, but also cheaper.
+- L3 cache is the farthest and the slowest cache level, but also the largest and the cheapest.
+- Cache memory can be further divided into instruction cache and data cache, which store the instructions and the data separately.
+- Instruction cache and data cache can be combined into a unified cache, which stores both the instructions and the data together.
+- Cache memory can also be shared or private among different cores of the CPU, which affects the performance and the coherence.
+- Shared cache can be accessed by multiple cores, which reduces the duplication and the miss rate, but also increases the contention and the latency.
+- Private cache can be accessed by only one core, which reduces the contention and the latency, but also increases the duplication and the miss rate.
+- Cache memory is an important component of computer organization and architecture, which enhances the speed and the efficiency of the system .

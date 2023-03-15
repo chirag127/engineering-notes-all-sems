@@ -1,0 +1,12 @@
+### Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that can be used by more than one job at a time, such as memory, disk, or network bandwidth.
+- Each unit of a multiple-unit resource is used in a non-preemptive and mutually exclusive manner; resources are serially reusable.
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards; the time the resource is locked is the critical section.
+- The challenge of access control in multiple-unit resources is to prevent deadlock and priority inversion, while ensuring schedulability and resource utilization.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - The Priority Inheritance Protocol (PIP): A job that locks a resource inherits the priority of the highest-priority job that is blocked on that resource. The priority is restored when the resource is unlocked.
+  - The Priority Ceiling Protocol (PCP): Each resource is assigned a priority ceiling, which is the highest priority of any job that can lock that resource. A job can lock a resource only if its priority is higher than the priority ceiling of all locked resources. A job that locks a resource inherits the priority ceiling of that resource. The priority is restored when the resource is unlocked.
+  - The Stack Resource Policy (SRP): Each job is assigned a preemption level, which is the highest priority of any resource that it can lock. A job can lock a resource only if its preemption level is higher than the preemption level of all locked resources. A job that locks a resource inherits the preemption level of that resource. The preemption level is restored when the resource is unlocked.
+  - The Maximum Urgency First (MUF) Protocol: Each job is assigned an urgency, which is the inverse of its deadline. A job can lock a resource only if its urgency is higher than the urgency of all locked resources. A job that locks a resource inherits the urgency of that resource. The urgency is restored when the resource is unlocked.
+- The protocols differ in their blocking time, schedulability, and implementation complexity. Generally, the protocols that use preemption levels or urgency are more efficient than the protocols that use priority inheritance or priority ceiling. However, the protocols that use preemption levels or urgency require more information about the resource usage of each job, and may be harder to implement in a distributed system.

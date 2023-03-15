@@ -1,0 +1,8 @@
+### Demand paging
+
+- Demand paging is a **method of virtual memory management** that allows a process to use a larger address space than the available physical memory  .
+- In a system that uses demand paging, the operating system **copies a disk page into physical memory only if an attempt is made to access it** and that page is not already in memory  . This is called a **page fault**  .
+- Demand paging reduces the **initial loading time** of a process, as only the pages that are needed are loaded into memory  . It also reduces the **memory wastage**, as pages that are never accessed are never loaded into memory  .
+- Demand paging requires a **page table** to keep track of the mapping between logical and physical addresses . The page table also indicates whether a page is **valid** (in memory) or **invalid** (not in memory) .
+- Demand paging also requires a **page replacement algorithm** to decide which page to evict from memory when a page fault occurs and there is no free frame  . Some common page replacement algorithms are **FIFO**, **LRU**, **OPT**, etc  .
+- Demand paging improves the **performance** and **efficiency** of the system, as it allows more processes to run concurrently and makes better use of the available memory  . However, it also introduces some **overhead** due to the page fault handling, disk I/O, and page table updates  . The optimal degree of multiprogramming depends on the **page fault rate** and the **service time** of the disk  .

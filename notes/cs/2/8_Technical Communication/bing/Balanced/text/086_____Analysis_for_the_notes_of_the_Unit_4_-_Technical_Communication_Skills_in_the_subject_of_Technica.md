@@ -1,0 +1,25 @@
+### Analysis for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Unit 4 covers the following topics: 
+  - Technical writing process
+  - Technical writing style
+  - Technical writing conventions
+  - Technical writing formats
+  - Technical writing tools
+- The main objectives of the unit are to:
+  - Explain the steps and principles of the technical writing process
+  - Identify the characteristics and strategies of effective technical writing style
+  - Apply the standard conventions of grammar, punctuation, spelling, and usage in technical writing
+  - Distinguish between different types and purposes of technical writing formats
+  - Use appropriate software and online tools to create and edit technical documents
+- The main points of the notes are:
+  - Technical writing process involves four stages: planning, drafting, revising, and editing
+  - Technical writing style aims to be clear, concise, accurate, objective, and respectful
+  - Technical writing conventions include using consistent terminology, abbreviations, symbols, units, and references
+  - Technical writing formats vary depending on the audience, purpose, and context of the document
+  - Technical writing tools include word processors, graphics software, presentation software, and online platforms
+- The main questions to review the notes are:
+  - What are the steps and principles of the technical writing process?
+  - What are the characteristics and strategies of effective technical writing style?
+  - What are the standard conventions of grammar, punctuation, spelling, and usage in technical writing?
+  - What are the different types and purposes of technical writing formats?

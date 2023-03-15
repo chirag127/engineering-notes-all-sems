@@ -1,0 +1,13 @@
+### Draft for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is the process of conveying information in a clear, concise, and accurate manner to a specific audience for a specific purpose.
+- Technical communication can take various forms, such as reports, proposals, manuals, memos, emails, presentations, websites, blogs, podcasts, etc.
+- The forms of technical communication can be classified into two broad categories: internal and external.
+- Internal technical communication is the communication that takes place within an organization, such as between employees, managers, departments, or teams. Internal technical communication can have various purposes, such as informing, instructing, persuading, or collaborating.
+- External technical communication is the communication that takes place between an organization and its external stakeholders, such as customers, clients, suppliers, regulators, investors, or the public. External technical communication can have various purposes, such as marketing, promoting, educating, or informing.
+- The forms of technical communication can also be classified into two broad categories: written and oral.
+- Written technical communication is the communication that uses written words, symbols, images, or diagrams to convey information. Written technical communication can have various advantages, such as permanence, accuracy, clarity, and accessibility.
+- Oral technical communication is the communication that uses spoken words, sounds, gestures, or body language to convey information. Oral technical communication can have various advantages, such as immediacy, feedback, interactivity, and persuasion.
+- The forms of technical communication can also be classified into two broad categories: formal and informal.
+- Formal technical communication is the communication that follows certain rules, standards, conventions, or formats to ensure consistency, professionalism, and credibility. Formal technical communication can have various examples, such as research papers, technical reports, business proposals, user manuals, etc.
+- Informal technical communication is the communication that does not follow any specific rules, standards, conventions, or formats, but rather adapts to the needs, preferences, and expectations of the audience and the situation. Informal technical communication can have various examples, such as emails, memos, blogs, podcasts, etc.

@@ -1,0 +1,28 @@
+### Stochastic Games
+
+- Stochastic games are a generalization of Markov decision processes (MDPs) to the case where there are multiple agents in a common environment  .
+- The agents perform a joint action that defines both the reward obtained by the agents and the new state of the environment .
+- The agents may have different objectives and preferences, and may act cooperatively or competitively  .
+- Stochastic games can model many artificial intelligence applications, such as playing chess and Go games, autonomous driving, and robotics .
+- Stochastic games can be classified into different types, depending on the information available to the agents, the structure of the game, and the nature of the rewards .
+- Some of the types of stochastic games are:
+  - Zero-sum games: the sum of the rewards of the agents is zero for every state and action .
+  - General-sum games: the sum of the rewards of the agents is not necessarily zero .
+  - Perfect-information games: the agents know the state of the environment and the actions of the other agents  .
+  - Imperfect-information games: the agents do not know the state of the environment and/or the actions of the other agents .
+  - Stochastic games with nature: the environment is partially controlled by a random process that is independent of the agents' actions .
+  - Repeated games: the agents play the same game multiple times .
+- The solution concepts for stochastic games are similar to those for MDPs, such as value functions, policies, and optimal strategies .
+- However, the solution concepts for stochastic games may depend on the type of the game, the information available to the agents, and the criteria for evaluating the performance of the agents .
+- Some of the solution concepts for stochastic games are:
+  - Nash equilibrium: a joint strategy where no agent can improve its expected reward by deviating from its strategy, given the strategies of the other agents .
+  - Pareto optimality: a joint strategy where no agent can improve its expected reward without decreasing the expected reward of another agent .
+  - Minimax: a joint strategy that minimizes the maximum possible loss for the worst-case scenario .
+  - Maximin: a joint strategy that maximizes the minimum possible gain for the best-case scenario .
+- The algorithms for finding the solution concepts for stochastic games are based on dynamic programming, linear programming, reinforcement learning, and game theory  .
+- Some of the algorithms for finding the solution concepts for stochastic games are:
+  - Value iteration: an iterative algorithm that updates the value function for each state and action until convergence .
+  - Policy iteration: an iterative algorithm that alternates between evaluating a policy and improving a policy until convergence .
+  - Linear programming: a mathematical method that solves a system of linear equations and inequalities to find the optimal value function and strategy .
+  - Q-learning: a reinforcement learning algorithm that learns the action-value function by interacting with the environment and updating the Q-values based on the observed rewards and transitions  .
+  - Fictitious play: a learning algorithm that assumes that the other agents play according to their empirical frequency of actions, and updates its own strategy based on the expected payoff .

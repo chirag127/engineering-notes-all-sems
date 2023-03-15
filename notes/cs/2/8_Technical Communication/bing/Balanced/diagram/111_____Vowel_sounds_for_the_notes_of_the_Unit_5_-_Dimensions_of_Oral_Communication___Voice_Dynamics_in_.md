@@ -1,0 +1,21 @@
+# Vowel sounds for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Vowel sounds are created when air flows smoothly, without interruption, through the throat and mouth.
+- Different vowel sounds are produced as a speaker changes the shape and placement of articulators (parts of the throat and mouth), such as the tongue, jaws and lips .
+- In contrast, consonant sounds happen when the flow of air is obstructed or interrupted .
+- In English, the vowels are a, e, i, o, and u, although y can sometimes count as a vowel, too.
+- Vowels are very broadly divided into two categories, namely, monophthongs (pure vowels) and diphthongs (vowel glides).
+- A monophthong is a vowel sound that has a single quality and does not change in the mouth, such as /i/ in "see" or /a/ in "cat".
+- A diphthong is a vowel sound that consists of two elements, a beginning and an end, and the quality of the vowel changes in the mouth, such as /aɪ/ in "eye" or /eɪ/ in "day".
+- A vowel is described taking into account the following criteria:
+  - The height of the tongue in the mouth (high, mid, or low).
+  - The part of the tongue that is raised (front, central, or back).
+  - The shape of the lips (rounded or unrounded).
+  - The length of the vowel (long or short).
+- Vowel sounds are important for oral communication and voice dynamics, as they affect the clarity, tone, and pitch of speech .
+- To improve vowel sounds, one should practice the following techniques :
+  - Listen to native speakers and imitate their vowel sounds.
+  - Use a mirror or a recorder to check your mouth position and pronunciation.
+  - Learn the phonetic symbols and the International Phonetic Alphabet (IPA) to identify and produce vowel sounds accurately.
+  - Use minimal pairs (words that differ only by one vowel sound) to practice the distinction between similar vowel sounds, such as "bit" and "beat".
+  - Use tongue twisters and rhymes to practice vowel sounds in different contexts and combinations.

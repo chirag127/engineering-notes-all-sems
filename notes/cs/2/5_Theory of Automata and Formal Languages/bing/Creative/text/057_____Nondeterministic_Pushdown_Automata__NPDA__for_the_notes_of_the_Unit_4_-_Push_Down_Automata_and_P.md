@@ -1,0 +1,26 @@
+### Nondeterministic Pushdown Automata (NPDA) for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+
+- A nondeterministic pushdown automaton (NPDA), or just pushdown automaton (PDA) is a variation on the idea of a nondeterministic finite automaton (NDFA) .
+- Unlike an NDFA, a PDA is associated with a stack (hence the name pushdown), which is a data structure that allows storing and retrieving elements in a last-in first-out (LIFO) manner  .
+- A PDA can use the stack to store symbols and manipulate them during the computation. The stack can also be used to remember information that can be later retrieved .
+- Formally, a PDA is a 7-tuple (Q, Σ, Γ, δ, q0, Z0, F), where :
+  - Q is a finite set of states
+  - Σ is an input alphabet
+  - Γ is a stack alphabet
+  - δ : Q × Σε × Γε → P(Q × Γε) is a transition function, where P denotes the power set and ε denotes the empty string
+  - q0 ∈ Q is the initial state
+  - Z0 ∈ Γ is the initial stack symbol
+  - F ⊆ Q is the set of final or accepting states
+- A PDA can make a transition from one state to another by reading an input symbol, popping a stack symbol, and pushing zero or more stack symbols, according to the transition function .
+- A PDA can also make ε-transitions, which do not consume any input symbol .
+- A PDA accepts an input string if there exists a sequence of transitions that leads from the initial configuration to a final configuration, where the input string is completely read and the PDA is in an accepting state .
+- A PDA can accept an input string by two different modes: by final state or by empty stack .
+  - By final state: the PDA accepts an input string if it reaches an accepting state after reading the input string, regardless of the stack content .
+  - By empty stack: the PDA accepts an input string if it empties the stack after reading the input string, regardless of the current state .
+- The class of languages accepted by PDA is called the context-free languages (CFL), which is a proper subset of the recursively enumerable languages (REL) .
+- A PDA is nondeterministic in general, meaning that in a given configuration there may be several possible transitions. Any of these transitions can be chosen in a computation .
+- A PDA is deterministic if for every configuration there is at most one possible transition  .
+- The class of languages accepted by deterministic PDA (DPDA) is called the deterministic context-free languages (DCFL), which is a proper subset of the CFL  .
+- Not every CFL can be accepted by a DPDA. For example, the language {a^n b^n c^n | n ≥ 0} is a CFL but not a DCFL  .
+- A PDA can be represented by a state diagram, which is a graphical representation of the states, transitions, and stack operations of the PDA .
+- A PDA can also be simulated by a Turing machine, which is a more powerful model of computation that can manipulate an infinite tape instead of a finite stack .

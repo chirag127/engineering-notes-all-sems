@@ -1,0 +1,28 @@
+### Process Concept
+
+- A process is a program in execution which then forms the basis of all computation.
+- A process is more than the program code as it includes the program counter, process stack, registers, program code etc.
+- A process is defined as an entity which represents the basic unit of work to be implemented in the system.
+- A process can be in one of the following states: new, ready, running, waiting, terminated.
+- A process control block (PCB) is a data structure that contains the information about a process, such as its identifier, state, priority, program counter, memory allocation, etc.
+- The operating system keeps its processes separate and allocates the resources they need, so that they are less likely to interfere with each other and cause system failures.
+- The operating system may also provide mechanisms for inter-process communication to enable processes to interact in safe and predictable ways.
+- A process can be classified into two types: user process and system process.
+- A user process is a process that executes user programs, such as applications, games, etc.
+- A system process is a process that executes system programs, such as operating system kernel, device drivers, etc.
+- A process can also be classified into two types: foreground process and background process.
+- A foreground process is a process that interacts with the user, such as a text editor, a web browser, etc.
+- A background process is a process that runs without user interaction, such as a printer spooler, a virus scanner, etc.
+- A process can create other processes, which are called child processes.
+- A process that creates other processes is called a parent process.
+- A process hierarchy is a tree structure that shows the relationship between parent and child processes.
+- A process can terminate itself or be terminated by another process.
+- A process can also be suspended or resumed by the operating system or by another process.
+- A process can communicate with other processes using various methods, such as shared memory, message passing, pipes, signals, etc.
+- A process can synchronize with other processes using various methods, such as semaphores, mutexes, monitors, etc.
+- A process can also cooperate or compete with other processes for the shared resources, such as CPU, memory, I/O devices, etc.
+- A process can be scheduled by the operating system using various algorithms, such as first-come first-served, shortest job first, priority, round robin, etc.
+- A process can be executed in one of the following modes: user mode or kernel mode.
+- A user mode is a mode in which a process executes user programs and has limited access to the system resources.
+- A kernel mode is a mode in which a process executes system programs and has full access to the system resources.
+- A process can switch from user mode to kernel mode or vice versa using system calls, interrupts, or exceptions.

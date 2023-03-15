@@ -1,0 +1,25 @@
+# Definition for the notes of the Unit 2 - Algebraic Structures in the subject of Discrete Structures & Theory of Logic
+
+- Discrete mathematics is the branch of mathematics that deals with finite or discrete objects, such as integers, graphs, logic, and codes.
+- An algebraic structure is a set with one or more operations defined on it that satisfy certain properties or axioms.
+- Examples of algebraic structures are groups, rings, fields, vector spaces, lattices, and Boolean algebras.
+- An algebraic system is a pair (A, F) where A is a nonempty set and F is a set of operations on A .
+- An operation on a set A is a function that maps some elements of A to another element of A.
+- An operation can be unary (one input), binary (two inputs), ternary (three inputs), or n-ary (n inputs) depending on the number of inputs it takes.
+- A binary operation on a set A is usually denoted by a symbol, such as +, *, or ∨, and written as a * b, where a and b are elements of A.
+- A unary operation on a set A is usually denoted by a symbol, such as -, ~, or ¬, and written as -a, ~a, or ¬a, where a is an element of A.
+- Some common properties or axioms of operations are commutativity, associativity, identity, inverse, distributivity, and closure.
+- An operation * on a set A is commutative if a * b = b * a for all a, b in A.
+- An operation * on a set A is associative if (a * b) * c = a * (b * c) for all a, b, c in A.
+- An operation * on a set A has an identity element e if a * e = e * a = a for all a in A.
+- An operation * on a set A has an inverse element for a if there exists b in A such that a * b = b * a = e, where e is the identity element.
+- An operation * on a set A is distributive over another operation + on A if a * (b + c) = (a * b) + (a * c) and (b + c) * a = (b * a) + (c * a) for all a, b, c in A.
+- An operation * on a set A is closed if a * b is in A for all a, b in A.
+- A set A with a binary operation * is called a group if * is associative, has an identity element, and has an inverse element for every element in A.
+- A group is called abelian or commutative if * is also commutative.
+- A set A with two binary operations + and * is called a ring if + and * are associative, + is commutative, * is distributive over +, and + has an identity element and an inverse element for every element in A.
+- A ring is called commutative if * is also commutative.
+- A ring is called a field if * also has an identity element and an inverse element for every nonzero element in A.
+- A set A with a binary operation + and a scalar multiplication operation * is called a vector space if + is associative, commutative, has an identity element, and has an inverse element for every element in A, and * satisfies certain properties such as distributivity, associativity, and identity.
+- A set A with a partial order relation ≤ is called a lattice if for any two elements a and b in A, there exist a least upper bound (lub) and a greatest lower bound (glb) of a and b in A.
+- A lattice is called a Boolean algebra if it also has two binary operations + and * that are commutative, associative, distributive, and satisfy certain identities such as a + a = a, a * a = a, a + 1 = 1, a * 0 = 0, and a + ¬a = 1, where 1 and 0 are the maximum and minimum elements of the

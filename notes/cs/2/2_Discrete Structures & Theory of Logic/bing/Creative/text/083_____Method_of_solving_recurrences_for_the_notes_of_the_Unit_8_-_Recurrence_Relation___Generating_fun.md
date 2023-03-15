@@ -1,0 +1,8 @@
+### Method of solving recurrences
+
+A recurrence relation is an equation that defines a sequence in terms of its previous terms. Recurrence relations are often used to model the time complexity of recursive algorithms. There are several methods to solve recurrence relations, such as:
+
+- **Forward substitution**: This method involves solving the recurrence relation for small values of n until a pattern emerges, and then making a guess for the general solution. The guess can be verified by mathematical induction.
+- **Recursion tree**: This method involves converting the recurrence relation into a tree, where each node represents the cost of a recursive call. The total cost of the algorithm is the sum of the costs of all the nodes in the tree. The tree can be simplified by using asymptotic notation and bounding the costs of each level .
+- **Master theorem**: This method is applicable for recurrence relations of the form T(n) = aT(n/b) + f(n), where a, b, and f(n) are constants or functions of n. The master theorem provides a formula to find the asymptotic solution of T(n) based on the comparison of f(n) and n^(log_b a).
+- **Akra-Bazzi method**: This method is a generalization of the master theorem that can handle recurrence relations of the form T(n) = g(n) + \sum_{i=1}^k a_i T(b_i n + h_i(n)), where g(n), a_i, b_i, and h_i(n) are constants or functions of n. The Akra-Bazzi method provides a formula to find the asymptotic solution of T(n) based on the solution of a certain integral.

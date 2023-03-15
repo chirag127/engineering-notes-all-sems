@@ -1,0 +1,16 @@
+### Typical Intelligent Agents
+
+- An **intelligent agent** is an entity that makes a decision, that enables artificial intelligence to be put into action.
+- It can also be described as a software entity that conducts operations in the place of users or programs after sensing the environment.
+- It uses **sensors** to perceive the environment and **actuators** to initiate action in that environment.
+- In addition, intelligent agents may **learn** from the environment to achieve their goals.
+- Intelligent agents in artificial intelligence are closely related to agents in economics, and versions of the intelligent agent paradigm are studied in cognitive science, ethics, the philosophy of practical reason, as well as in many interdisciplinary socio-cognitive modeling and computer social simulations.
+- Examples of intelligent agents in AI are driverless cars, the Siri virtual assistant, chatbots, web crawlers, etc .
+
+- There are different types of intelligent agents based on their degree of rationality, autonomy, learning ability, and interaction.
+- The five main types of intelligent agents are:
+  - **Simple reflex agents**: These agents act based on the current state of the environment, without considering the consequences or history of their actions. They have a fixed set of rules or condition-action pairs that determine their behavior. For example, a vacuum cleaner robot that moves based on the presence or absence of dirt in its sensor .
+  - **Model-based reflex agents**: These agents act based on the current state of the environment as well as an internal model of the environment that they maintain. They use the model to keep track of the effects of their actions and the changes in the environment. For example, a driverless car that uses a map and a GPS to navigate the road .
+  - **Goal-based agents**: These agents act based on the current state of the environment, an internal model of the environment, and a goal or set of goals that they want to achieve. They use the model to predict the outcomes of their actions and choose the ones that bring them closer to their goals. For example, a chess-playing program that evaluates the possible moves and selects the ones that increase its chances of winning .
+  - **Utility-based agents**: These agents act based on the current state of the environment, an internal model of the environment, a goal or set of goals, and a utility function that measures how desirable each state is. They use the model and the utility function to estimate the expected utility of their actions and choose the ones that maximize their utility. For example, a stock-trading program that buys and sells shares based on the expected profit and risk .
+  - **Learning agents**: These agents act based on the current state of the environment, an internal model of the environment, a goal or set of goals, a utility function, and a learning component that allows them to improve their performance over time. They use the learning component to update their model, their goals, their utility function, or their action selection strategy based on their experience and feedback. For example, the Siri virtual assistant that learns from the user's preferences and queries .

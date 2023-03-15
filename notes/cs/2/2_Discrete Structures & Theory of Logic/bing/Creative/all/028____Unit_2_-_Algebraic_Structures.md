@@ -1,0 +1,28 @@
+## Unit 2 - Algebraic Structures
+
+- An algebraic structure is a set of elements with one or more operations defined on it that satisfy certain properties or axioms.
+- Examples of algebraic structures are groups, rings, fields, vector spaces, matrices, etc.
+- The most basic algebraic structure is a group, which consists of a set G and a binary operation * that satisfies the following properties:
+  - Closure: For any a, b in G, a * b is also in G.
+  - Associativity: For any a, b, c in G, (a * b) * c = a * (b * c).
+  - Identity: There exists an element e in G such that for any a in G, a * e = e * a = a. This element is called the identity element of G.
+  - Inverse: For any a in G, there exists an element b in G such that a * b = b * a = e. This element is called the inverse of a and is denoted by a^-1.
+- A group is called abelian or commutative if it also satisfies the following property:
+  - Commutativity: For any a, b in G, a * b = b * a.
+- Examples of groups are the integers Z with addition as the operation, the nonzero rational numbers Q* with multiplication as the operation, the set of symmetries of a regular polygon with composition as the operation, etc.
+- A ring is an algebraic structure that consists of a set R and two binary operations, usually denoted by + and *, that satisfy the following properties:
+  - (R, +) is an abelian group.
+  - * is associative and has an identity element, usually denoted by 1.
+  - * is distributive over +, that is, for any a, b, c in R, a * (b + c) = (a * b) + (a * c) and (a + b) * c = (a * c) + (b * c).
+- A ring is called commutative if * is also commutative.
+- Examples of rings are the integers Z, the polynomials Z[x] with coefficients in Z, the matrices M_n(Z) with entries in Z and size n x n, etc.
+- A field is a commutative ring that satisfies the following additional property:
+  - Every nonzero element of R has a multiplicative inverse, that is, for any a in R, a != 0, there exists b in R such that a * b = b * a = 1.
+- Examples of fields are the rational numbers Q, the real numbers R, the complex numbers C, the finite fields Z_p with p a prime number, etc.
+- A vector space is an algebraic structure that consists of a set V and two operations, usually denoted by + and *, that satisfy the following properties:
+  - (V, +) is an abelian group.
+  - * is a scalar multiplication, that is, it takes an element of a field F, called a scalar, and an element of V, called a vector, and produces another vector in V.
+  - * is distributive over both + operations, that is, for any a, b in F and u, v in V, a * (u + v) = (a * u) + (a * v) and (a + b) * u = (a * u) + (b * u).
+  - * is compatible with the field multiplication, that is, for any a, b in F and u in V, (a * b) * u = a * (b * u).
+  - * has an identity element, usually denoted by 1, such that for any u in V, 1 * u = u.
+- Examples of vector spaces are the set of n-tuples of elements of a field F, denoted by F^n, the set of polynomials of degree less than or equal to n with coefficients in a field F, denoted by F[x]_n, the set of continuous functions from a closed interval [a, b] to a field F, denoted by C[a, b], etc.

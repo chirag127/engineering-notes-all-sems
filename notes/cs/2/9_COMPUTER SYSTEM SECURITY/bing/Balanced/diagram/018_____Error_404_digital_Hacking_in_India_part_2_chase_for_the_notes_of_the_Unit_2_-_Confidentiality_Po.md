@@ -1,0 +1,14 @@
+### Error 404 digital Hacking in India part 2 chase
+
+- This is a course on computer system security that covers various topics related to confidentiality policies, such as encryption, authentication, access control, and digital signatures.
+- The course is based on a series of videos that show real-world examples of cyberattacks and how they can be prevented or mitigated.
+- The second part of the course focuses on the following attacks:
+  - Israel Power Grid hit by a big hack attack in 2016, which is being called one of the worst cyberattacks ever. The attackers used a phishing email to trick an employee into opening a malicious attachment that installed a remote access tool on the network. The attackers then gained control of the power grid and tried to shut it down, but failed due to the resilience of the system.
+  - A hydropower plant in upstate New York got hacked in 2014 by an Iranian hacker group called SOBH Cyber Jihad. The hackers exploited a vulnerability in the plant's industrial control system and caused a temporary shutdown of the plant. The attack was detected by the FBI and the Department of Homeland Security, who helped the plant operators to restore the system.
+  - The Indian National Informatics Centre (NIC) was hacked in 2014 by a Pakistani hacker group called Team MaDLeeTs. The hackers defaced the official websites of various Indian government agencies, such as the Ministry of Home Affairs, the Ministry of Defence, and the Prime Minister's Office. The hackers also claimed to have stolen sensitive data from the NIC servers, but this was not verified by the authorities.
+  - The Indian Space Research Organisation (ISRO) was hacked in 2012 by a Chinese hacker group called the Comment Crew. The hackers used a spear-phishing email to trick an ISRO employee into opening a malicious attachment that installed a backdoor on the network. The hackers then accessed confidential information related to India's space program, such as satellite designs, launch schedules, and telemetry data.
+- The course also explains the concepts and techniques that can be used to protect the confidentiality of data and systems, such as:
+  - Encryption: the process of transforming data into an unreadable form using a secret key, so that only authorized parties can decrypt it and access the original data.
+  - Authentication: the process of verifying the identity of a user or a device before granting access to a system or a service, using methods such as passwords, biometrics, tokens, or certificates.
+  - Access control: the process of defining and enforcing rules and policies that determine who can access what data and resources on a system, using mechanisms such as roles, permissions, and audit logs.
+  - Digital signatures: the process of using encryption and hashing to create a unique and verifiable signature for a message or a document, that proves its authenticity and integrity.

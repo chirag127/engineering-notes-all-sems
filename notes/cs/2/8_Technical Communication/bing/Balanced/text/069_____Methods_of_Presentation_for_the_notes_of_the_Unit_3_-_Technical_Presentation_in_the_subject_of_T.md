@@ -1,0 +1,12 @@
+### Methods of Presentation
+
+- There are different methods of presenting technical information to an audience, depending on the purpose, context, and audience of the presentation.
+- Some of the common methods of presentation are:
+
+  - Oral presentation: This method involves speaking to the audience, either with or without visual aids, such as slides, charts, graphs, etc. Oral presentation can be formal or informal, interactive or non-interactive, and can vary in length and style. Oral presentation is suitable for situations where the presenter wants to convey a message, persuade, inform, or entertain the audience, and where the audience can ask questions or give feedback.
+
+  - Written presentation: This method involves writing a document, such as a report, a proposal, a memo, a letter, etc., that contains the technical information. Written presentation can be printed or electronic, and can have different formats, structures, and styles, depending on the type and purpose of the document. Written presentation is suitable for situations where the presenter wants to provide detailed, accurate, and permanent information, and where the audience can read and refer to the document at their own pace and convenience.
+
+  - Poster presentation: This method involves creating a poster, which is a large sheet of paper or board that displays the technical information in a concise and attractive way, using text, images, graphs, tables, etc. Poster presentation can be standalone or accompanied by a short oral presentation, and can be displayed in a conference, a seminar, a workshop, etc. Poster presentation is suitable for situations where the presenter wants to summarize and highlight the main points of the technical information, and where the audience can view the poster and interact with the presenter.
+
+  - Demonstration: This method involves showing the audience how a product, a process, a system, or a technique works, using a physical model, a prototype, a simulation, a video, etc. Demonstration can be live or recorded, and can be combined with oral or written presentation. Demonstration is suitable for situations where the presenter wants to explain and illustrate the technical information in a practical and visual way, and where the audience can observe and understand the functionality and benefits of the product, process, system, or technique.

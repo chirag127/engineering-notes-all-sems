@@ -1,0 +1,21 @@
+# Advanced Control Hijacking Attacks
+
+- A control hijacking attack is carried out by overwriting part of the data structures of a victim program, causing it to lose control of its control flow and, as a result, the program's and perhaps the underlying system's control .
+- Control hijacking attacks can be classified into two categories: direct and indirect.
+  - Direct control hijacking attacks involve overwriting a function return address or a function pointer with the address of malicious code, such as a shellcode or a gadget.
+  - Indirect control hijacking attacks involve manipulating the data or metadata of a program, such as a format string, a heap metadata, or a virtual function table, to alter the control flow of the program.
+- Some examples of advanced control hijacking attacks are:
+  - Return-oriented programming (ROP): a technique that exploits a stack buffer overflow to execute a sequence of instructions (called gadgets) that are already present in the executable or shared libraries.
+  - Jump-oriented programming (JOP): a technique that exploits a non-control data attack to execute a sequence of gadgets that are controlled by a dispatcher, which is a piece of code that reads a jump table and transfers the control to the next gadget.
+  - Return-to-libc: a technique that exploits a stack buffer overflow to execute a function from the standard C library (such as system) with a chosen argument (such as "/bin/sh").
+  - Format string attack: a technique that exploits a format string vulnerability to write arbitrary values to arbitrary memory locations, such as a return address or a function pointer.
+  - Heap overflow: a technique that exploits a heap buffer overflow to corrupt the heap metadata, such as the size or the next pointer of a chunk, to perform arbitrary memory allocation or deallocation, or to execute a function pointer stored in the heap.
+  - Virtual function table hijacking: a technique that exploits a heap buffer overflow to overwrite a virtual function table pointer of an object, causing the program to execute a malicious function when calling a virtual function of the object.
+  - RDP hijacking: a technique that exploits the Remote Desktop Protocol (RDP) to take over an existing RDP session of another user, gaining access to the user's desktop and applications.
+- Some possible defenses against control hijacking attacks are:
+  - Stack canaries: a technique that places a random value (called a canary) between the local variables and the return address on the stack, and checks the integrity of the canary before returning from a function, to detect and prevent stack buffer overflows.
+  - Non-executable memory: a technique that marks the memory regions that contain data (such as the stack and the heap) as non-executable, to prevent the execution of malicious code injected into these regions.
+  - Address space layout randomization (ASLR): a technique that randomizes the base addresses of the executable, the shared libraries, the stack, and the heap, to make it harder for the attacker to guess the addresses of the gadgets or the functions.
+  - Control-flow integrity (CFI): a technique that enforces the intended control flow of a program by checking the validity of the target address of a control transfer instruction, such as a return, a call, or a jump, to prevent the execution of unintended code.
+  - Code pointer encryption: a technique that encrypts the code pointers (such as the return address or the function pointer) stored in the memory, and decrypts them only when they are used for control transfer, to prevent the attacker from overwriting or reading them.
+  - Data-flow integrity (DFI): a technique that enforces the intended data flow of a program by checking the validity of the source and destination of a memory write instruction, to prevent the attacker from corrupting the data or the metadata of the program.

@@ -1,0 +1,29 @@
+### File System
+
+- A file system is a software component that manages the organization, storage, retrieval, naming, sharing, and protection of files on a disk or other storage device.
+- A file system provides an abstraction layer that hides the physical details of the disk and presents a logical view of the files and directories to the users and applications.
+- A file system consists of two parts: a collection of files, each storing related data, and a directory structure, which organizes and provides information about all the files in the system.
+- Some common file system operations are:
+  - Creating and deleting files and directories
+  - Opening and closing files for reading and writing
+  - Reading and writing data to and from files
+  - Seeking to a specific position within a file
+  - Truncating or extending a file
+  - Renaming or moving files and directories
+  - Setting or querying file attributes and permissions
+  - Linking or unlinking files
+- Some common file system design issues are:
+  - How to allocate disk space for files and directories
+  - How to keep track of the free and used disk blocks
+  - How to map logical file names to physical disk locations
+  - How to deal with file fragmentation and external fragmentation
+  - How to support different file types and formats
+  - How to ensure file system consistency and reliability
+  - How to provide file system security and access control
+  - How to support file system performance and efficiency
+  - How to support file system scalability and portability
+- Some common file system types are:
+  - FAT (File Allocation Table): A simple and widely used file system that uses a table to store the mapping between file names and disk clusters. It supports 8.3 character file names and has a limit of 4 GB file size and 32 GB disk size. It is prone to fragmentation and does not support file permissions or journaling.
+  - NTFS (New Technology File System): A file system developed by Microsoft that uses a master file table (MFT) to store the metadata of files and directories. It supports long file names, large file sizes, large disk sizes, compression, encryption, file permissions, journaling, and recovery.
+  - ext2/ext3/ext4 (Extended File System): A family of file systems developed for Linux that use inodes to store the metadata of files and directories. ext2 is the oldest and simplest version that does not support journaling. ext3 adds journaling to ext2 and improves reliability. ext4 adds several features to ext3, such as extents, delayed allocation, online defragmentation, and checksums.
+  - HFS/HFS+ (Hierarchical File System): A file system developed by Apple for Mac OS that uses a catalog file to store the metadata of files and directories. HFS is the older version that supports 31 character file names and has a limit of 2 GB file size and 2 TB disk size. HFS+ is the newer version that supports Unicode file names, large file sizes, large disk sizes, journaling, and compression.

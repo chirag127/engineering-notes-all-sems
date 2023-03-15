@@ -1,0 +1,30 @@
+### Process Concept
+
+- A process is a program in execution which then forms the basis of all computation.
+- A process is more than the program code as it includes the program counter, process stack, registers, program code etc.
+- A process is defined as an entity which represents the basic unit of work to be implemented in the system.
+- A process can be in one of the following states: new, ready, running, waiting, terminated.
+- A process control block (PCB) is a data structure that contains the information about a process, such as its identifier, state, priority, program counter, memory allocation, etc.
+- A process can be created by another process, called the parent process, using a system call such as fork or spawn.
+- A process can communicate with another process, called the child process, using a system call such as pipe or message queue.
+- A process can terminate itself or another process using a system call such as exit or kill.
+- A process can be suspended or resumed by the operating system, which manages the CPU allocation and scheduling of the processes.
+- A process can be classified into two types: user process and kernel process.
+  - A user process is a process that executes user-level code, such as applications and utilities.
+  - A kernel process is a process that executes kernel-level code, such as device drivers and system services.
+- A process can be further divided into threads, which are subunits of execution that share the same address space and resources of the process.
+- A process can be either single-threaded or multi-threaded, depending on the number of threads it contains.
+- A thread can be in one of the following states: new, ready, running, waiting, terminated.
+- A thread control block (TCB) is a data structure that contains the information about a thread, such as its identifier, state, priority, program counter, registers, etc.
+- A thread can be created by another thread, called the parent thread, using a system call such as pthread_create or CreateThread.
+- A thread can communicate with another thread, called the child thread, using a system call such as pthread_join or WaitForSingleObject.
+- A thread can terminate itself or another thread using a system call such as pthread_exit or ExitThread.
+- A thread can be suspended or resumed by the operating system, which manages the CPU allocation and scheduling of the threads.
+- A thread can be classified into two types: user thread and kernel thread.
+  - A user thread is a thread that is managed by a user-level library, such as POSIX threads or Java threads.
+  - A kernel thread is a thread that is managed by the operating system, such as Windows threads or Linux threads.
+- A thread can be either one-to-one or many-to-one mapped to a kernel thread, depending on the thread model used by the operating system.
+  - A one-to-one mapping means that each user thread is associated with a unique kernel thread.
+  - A many-to-one mapping means that multiple user threads are associated with a single kernel thread.
+- A process concept is important for the operating system because it enables the operating system to manage the computer's resources, especially the allocation of those resources among other programs.
+- A process concept is also important for the user because it enables the user to run multiple programs concurrently and interact with them in safe and predictable ways.

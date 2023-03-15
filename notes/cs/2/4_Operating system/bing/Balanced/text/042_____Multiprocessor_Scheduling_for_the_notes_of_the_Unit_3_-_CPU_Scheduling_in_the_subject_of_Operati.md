@@ -1,0 +1,18 @@
+### Multiprocessor Scheduling
+
+- Multiprocessor scheduling is the process of allocating CPU resources to multiple processes or threads that run on multiple processors or cores in a system.
+- Multiprocessor scheduling aims to achieve high performance, load balancing, fairness, and responsiveness for the system and the processes.
+- Multiprocessor scheduling is more complex than single processor scheduling because of the following challenges:
+  - Interprocessor communication and synchronization: Processes or threads that run on different processors may need to communicate or synchronize with each other, which may incur overhead and delay.
+  - Processor affinity: Processes or threads may have a preference or affinity for a certain processor or core, based on the locality of data or code. Moving a process or thread from one processor to another may cause cache misses and performance degradation.
+  - Load balancing: The workload of the system may vary over time and across processors. A good multiprocessor scheduler should distribute the load evenly among the processors to avoid idle or overloaded processors.
+  - Scalability: The multiprocessor scheduler should be able to handle a large number of processors and processes or threads without compromising efficiency or fairness.
+
+- There are two main approaches to multiprocessor scheduling in the operating system: symmetric multiprocessing and asymmetric multiprocessing.
+  - Symmetric multiprocessing (SMP): In SMP, each processor is self-scheduling and has equal access to the system resources. All processes or threads may be in a common ready queue, or each processor may have its own private queue. The advantages of SMP are simplicity, flexibility, and scalability. The disadvantages are contention, overhead, and lack of processor affinity.
+  - Asymmetric multiprocessing (AMP): In AMP, one processor is designated as the master processor and is responsible for scheduling the other processors, which are called slave processors. The master processor may have its own workload or may be dedicated to scheduling. The advantages of AMP are reduced contention, improved processor affinity, and better control. The disadvantages are complexity, bottleneck, and lack of scalability.
+
+- There are several different algorithms and techniques that have been studied and implemented for multiprocessor scheduling, such as:
+  - Gang scheduling: Gang scheduling is a technique that schedules a group of related processes or threads (called a gang) to run simultaneously on a set of processors. The idea is to preserve the communication and synchronization patterns of the gang and to reduce the context switching overhead. Gang scheduling requires global coordination and synchronization among the processors.
+  - Processor sharing: Processor sharing is a technique that allows multiple processes or threads to share a processor by dividing its time into small slices. The idea is to provide fairness and responsiveness for the processes or threads and to utilize the processor efficiently. Processor sharing requires local scheduling and preemption on each processor.
+  - Work stealing: Work stealing is a technique that allows a processor to steal a process or thread from another processor's queue when it becomes idle. The idea is to balance the load among the processors and to exploit the processor affinity of the processes or threads. Work stealing requires local scheduling and communication among the processors.

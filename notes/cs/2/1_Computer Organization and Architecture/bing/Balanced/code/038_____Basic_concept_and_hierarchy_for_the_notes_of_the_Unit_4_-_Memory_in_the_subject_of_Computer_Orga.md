@@ -1,0 +1,15 @@
+### Basic concept and hierarchy for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- Memory is the component of a computer system that stores data and instructions for processing.
+- Memory hierarchy is the arrangement of memory and storage devices in a computer system, based on their speed, capacity, and cost.
+- The purpose of memory hierarchy is to minimize the average access time of the entire memory system, by using faster and smaller memory devices near the processor and slower and larger memory devices farther from the processor.
+- The memory hierarchy consists of several levels of memory, each with different characteristics and functions. The levels are:
+
+  - **Register**: The fastest and smallest memory level, located inside the processor. It holds the data and instructions that are currently being executed by the processor.
+  - **Cache memory**: A small and fast memory level, located between the processor and the main memory. It acts as a buffer that stores frequently accessed data and instructions from the main memory, to reduce the access time for the processor.
+  - **Main memory**: The primary memory level, also known as random access memory (RAM). It holds the data and instructions that are currently needed by the processor and the cache memory. It is volatile, meaning that it loses its contents when the power is turned off.
+  - **Secondary memory**: The secondary memory level, also known as auxiliary memory or external memory. It holds the data and instructions that are not currently needed by the processor and the main memory, but can be transferred to them when required. It is non-volatile, meaning that it retains its contents even when the power is turned off. It includes devices such as hard disk, optical disk, flash memory, etc.
+  - **Tertiary memory**: The tertiary memory level, also known as offline memory or archival memory. It holds the data and instructions that are rarely needed by the processor and the main memory, but can be retrieved when necessary. It is non-volatile and removable, meaning that it can be detached from the computer system and stored elsewhere. It includes devices such as magnetic tape, CD-ROM, DVD, etc.
+
+- The memory hierarchy follows the principle of locality of reference, which states that a program tends to access the same or nearby memory locations repeatedly over a short period of time. This allows the memory hierarchy to exploit the temporal and spatial locality of a program, by keeping the most frequently and recently accessed data and instructions in the faster and smaller memory levels, and the less frequently and recently accessed data and instructions in the slower and larger memory levels.
+- The memory hierarchy also follows the principle of inclusion, which states that the data and instructions in a lower level of memory are also present in all the higher levels of memory. This ensures that the processor can always find the required data and instructions in the memory hierarchy, by searching from the highest level to the lowest level.

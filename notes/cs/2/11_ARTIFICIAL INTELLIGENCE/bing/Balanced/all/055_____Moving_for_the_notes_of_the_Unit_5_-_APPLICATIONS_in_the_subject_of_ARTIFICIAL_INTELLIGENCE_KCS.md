@@ -1,0 +1,14 @@
+# Moving for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Artificial intelligence (AI) is the ability of a machine, program or system to learn and adapt by experience.
+- AI can be classified into two types: artificial narrow intelligence (ANI) and artificial general intelligence (AGI).
+  - ANI, or weak AI, is a type of AI that can only focus on one specific task or problem at a time. Examples of ANI include speech recognition, face recognition, chess playing, spam filtering, etc.
+  - AGI, or strong AI, is the type of AI that can perform any intellectual task that a human can. Examples of AGI include human-like robots, self-aware machines, artificial consciousness, etc. AGI is still a hypothetical concept and has not been achieved yet.
+- AI has a multitude of applications in various domains, such as health care, finance, national security, criminal justice, transportation, e-commerce, etc .
+  - In health care, AI can be used for diagnosis, treatment, drug discovery, personalized medicine, etc. For example, IBM Watson is an AI system that can analyze medical data and provide recommendations for doctors.
+  - In finance, AI can be used for credit scoring, fraud detection, trading, portfolio management, etc. For example, robo-advisors are AI-based platforms that can provide financial advice and investment services to customers.
+  - In national security, AI can be used for surveillance, cyber defense, warfare, counterterrorism, etc. For example, drones are AI-enabled devices that can perform reconnaissance, surveillance, and attack missions.
+  - In criminal justice, AI can be used for crime prediction, prevention, detection, investigation, etc. For example, facial recognition is an AI technique that can identify and verify people from images or videos.
+  - In transportation, AI can be used for autonomous driving, traffic management, navigation, etc. For example, self-driving cars are AI-powered vehicles that can drive themselves without human intervention.
+  - In e-commerce, AI can be used for product recommendation, customer service, pricing, marketing, etc. For example, Amazon is an e-commerce giant that uses AI to provide personalized recommendations, dynamic pricing, and efficient delivery to its customers.
+- AI is a general purpose technology that has a wide range of applications and impacts on society. AI can bring benefits such as increased productivity, efficiency, innovation, and quality of life. However, AI can also pose challenges such as ethical, legal, social, and economic issues. Therefore, it is important to understand the potential and limitations of AI, and to develop responsible and human-centric AI systems.

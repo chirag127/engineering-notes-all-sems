@@ -1,0 +1,15 @@
+### Operating System Structure
+
+An operating system is a program that manages a computer's resources, especially the allocation of those resources among other programs. An operating system structure illustrates the organization of modules inside it. The structure of the operating system varies from system to system, depending on the design goals and the hardware constraints. Engineers design it more carefully, so that the operating system functions properly and adopts the modification easily.
+
+There are different approaches or structures of operating systems, such as:
+
+- **Simple structure**: Such operating systems do not have well defined structure and are small, simple and limited systems. They are usually written in assembly language and run in a single address space. An example of a simple structure operating system is MS-DOS.
+- **Layered structure**: Such operating systems have a hierarchical structure, where each layer provides a set of functions to the higher-level layers and uses the functions of the lower-level layers. The layers are independent of each other and can be modified or replaced without affecting the other layers. An example of a layered structure operating system is THE operating system.
+- **Modular structure**: Such operating systems have a core kernel that provides the basic services, such as memory management, process management, and inter-process communication. The kernel is extended by dynamically loading modules that provide additional functionality, such as device drivers, file systems, and network protocols. The modules can be added or removed without recompiling the kernel. An example of a modular structure operating system is Linux.
+- **Microkernel structure**: Such operating systems have a minimal kernel that provides only the essential services, such as low-level memory management, thread management, and message passing. The other services, such as file systems, device drivers, and network protocols, are implemented as user-level processes that communicate with the kernel and each other through messages. This structure improves the reliability, security, and portability of the operating system, but may incur some performance overhead. An example of a microkernel structure operating system is Mach.
+- **Hybrid structure**: Such operating systems combine the features of different structures, such as microkernel and modular, to achieve the desired trade-offs between performance, reliability, security, and portability. They may have a microkernel that provides the basic services, and a set of modules that provide the higher-level services. The modules may run in the kernel space or the user space, depending on the design choices. An example of a hybrid structure operating system is Windows NT.
+
+The following diagram shows a comparison of different operating system structures:
+
+![Operating System Structures](https://binaryterms.com/wp-content/uploads/2019/01/Operating-System-Structure-1.jpg)

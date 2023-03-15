@@ -1,0 +1,23 @@
+### Negotiation and Bargaining
+
+- Negotiation is a process of reaching an agreement between two or more parties that have conflicting interests or preferences.
+- Bargaining is a subset of negotiation that involves making offers and counteroffers until a deal is reached or rejected.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, law, diplomacy, and personal relationships.
+- Negotiation and bargaining can be performed by humans, software agents, or a combination of both  .
+- Software agents are autonomous programs that can act on behalf of humans or other agents in a specific environment.
+- Software agents can use artificial intelligence (AI) techniques to enhance their negotiation and bargaining skills, such as learning, reasoning, planning, and communication .
+- AI can help software agents to:
+  - Analyze the preferences, goals, and strategies of the other parties  .
+  - Generate and evaluate possible offers and counteroffers  .
+  - Adapt to changing situations and uncertainties  .
+  - Coordinate and cooperate with other agents or humans  .
+  - Persuade and influence the other parties  .
+- AI can also help humans to negotiate and bargain better by providing them with information, advice, and feedback  .
+- AI can reduce the time, cost, stress, and cognitive effort involved in negotiation and bargaining   .
+- AI can also improve the outcomes and satisfaction of negotiation and bargaining by finding optimal or fair solutions   .
+- However, AI also poses some challenges and limitations for negotiation and bargaining, such as:
+  - Ethical, legal, and social implications of using AI in sensitive or high-stakes domains .
+  - Trust, transparency, and accountability of AI systems and their decisions .
+  - Human-AI interaction and collaboration issues, such as communication, coordination, and conflict resolution .
+  - Scalability, robustness, and security of AI systems and their data .
+  - Evaluation and comparison of AI systems and their performance .

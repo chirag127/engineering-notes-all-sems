@@ -1,0 +1,21 @@
+### Addressing Modes
+
+- Addressing modes are the different ways of specifying the location of an operand in an instruction .
+- Operand is the data on which the operation specified by the instruction is performed.
+- Different types of addressing modes exist, each with its own advantages and disadvantages .
+- The syntax of addressing mode is the way of representing the addressing mode used.
+- The choice of addressing mode affects the instruction format, instruction length, instruction execution time, and memory access time .
+
+#### Types of Addressing Modes
+
+- There are many types of addressing modes, but some of the common ones are   :
+
+  - **Immediate addressing mode**: The operand is specified in the instruction itself. The instruction format has a field for the operand value. This mode is fast and simple, but it limits the range and size of the operand.
+  - **Direct addressing mode**: The operand is stored in a memory location, and the instruction has the address of that location. The instruction format has a field for the address. This mode allows access to any memory location, but it requires an extra memory access to fetch the operand.
+  - **Register addressing mode**: The operand is stored in a register, and the instruction has the number of that register. The instruction format has a field for the register number. This mode is fast and flexible, but it limits the number of operands that can be accessed.
+  - **Register indirect addressing mode**: The operand is stored in a memory location, and the address of that location is stored in a register. The instruction has the number of that register. The instruction format has a field for the register number. This mode allows access to any memory location, but it requires an extra memory access to fetch the operand address.
+  - **Displacement addressing mode**: The operand is stored in a memory location, and the address of that location is calculated by adding a displacement value to a base address. The instruction has the displacement value and the number of a register that holds the base address. The instruction format has fields for the displacement and the register number. This mode allows access to a range of memory locations relative to a base address, but it requires an extra calculation to compute the effective address.
+  - **Indexed addressing mode**: The operand is stored in a memory location, and the address of that location is calculated by adding an index value to a base address. The instruction has the number of a register that holds the index value and the number of another register that holds the base address. The instruction format has fields for the register numbers. This mode allows access to a range of memory locations relative to a base address, but it requires an extra calculation to compute the effective address.
+  - **Relative addressing mode**: The operand is stored in a memory location, and the address of that location is calculated by adding an offset value to the program counter. The instruction has the offset value. The instruction format has a field for the offset. This mode is useful for branching instructions, as it allows access to a range of memory locations relative to the current instruction, but it requires an extra calculation to compute the effective address.
+  - **Base register addressing mode**: The operand is stored in a memory location, and the address of that location is calculated by adding a displacement value to a base address stored in a register. The instruction has the displacement value and the number of the register that holds the base address. The instruction format has fields for the displacement and the register number. This mode is similar to displacement addressing mode, but it allows the base address to be changed dynamically by modifying the register value.
+  - **Stack addressing mode**: The operand is stored at the top of the stack, and the stack pointer register points to that location. The instruction does not have any operand field. The instruction format does not have any operand field. This mode is simple and efficient for implementing subroutine calls and returns, as it allows push and pop operations on the stack, but it limits the access to the operands in the stack.

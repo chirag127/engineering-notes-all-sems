@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Discrete Structures & Theory of Logic. Here are some definitions for the notes of Unit 1 - Set Theory.
+
+### Definition for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- A **set** is a collection of distinct objects, called **elements** or **members** of the set. A set can be represented by listing its elements between braces, such as {1, 2, 3}, or by using a rule or a description, such as {x | x is an even positive integer less than 10}.
+- A set is said to be **well-defined** if there is a clear criterion to determine whether an object belongs to the set or not. For example, the set of all prime numbers is well-defined, but the set of all interesting numbers is not well-defined.
+- Two sets are **equal** if they have exactly the same elements. For example, {1, 2, 3} = {3, 2, 1}, but {1, 2, 3} ≠ {1, 2, 4}.
+- A set is a **subset** of another set if every element of the first set is also an element of the second set. For example, {1, 2} is a subset of {1, 2, 3}, but {1, 4} is not a subset of {1, 2, 3}. We use the symbol ⊆ to denote subset, and ⊂ to denote proper subset (a subset that is not equal to the original set).
+- A set is **empty** if it has no elements. The empty set is denoted by ∅ or {}. The empty set is a subset of every set.
+- The **union** of two sets is the set of all elements that belong to either set or both. For example, {1, 2, 3} ∪ {3, 4, 5} = {1, 2, 3, 4, 5}. The union of a set and the empty set is the original set.
+- The **intersection** of two sets is the set of all elements that belong to both sets. For example, {1, 2, 3} ∩ {3, 4, 5} = {3}. The intersection of a set and the empty set is the empty set.
+- The **difference** of two sets is the set of all elements that belong to the first set but not to the second set. For example, {1, 2, 3} - {3, 4, 5} = {1, 2}. The difference of a set and the empty set is the original set.
+- The **complement** of a set is the set of all elements that do not belong to the set. The complement of a set is relative to a **universal set**, which is the set of all possible elements under consideration. For example, if the universal set is {1, 2, 3, 4, 5}, then the complement of {1, 2, 3} is {4, 5}. The complement of a set is denoted by a bar over the set, such as Ā.
+- Two sets are **disjoint** if they have no elements in common. For example, {1, 2, 3} and {4, 5, 6} are disjoint, but {1, 2, 3} and {3, 4, 5} are not disjoint. The empty set is disjoint from every set.
+- The **cardinality** of a set is the number of elements in the set. For example, the cardinality of {1, 2, 3} is 3, and the cardinality of the empty set is 0. The cardinality of a set is denoted by |A| or #A.
+- A set is **finite** if it has a finite number of elements, and **infinite** otherwise. For example, {1, 2, 3} is finite, but the set of all natural numbers is infinite. An infinite set can be **countable** or **uncountable**, depending on whether its elements can be listed in a sequence or not. For example, the set of all natural numbers is countable, but the set of all real numbers is uncountable.

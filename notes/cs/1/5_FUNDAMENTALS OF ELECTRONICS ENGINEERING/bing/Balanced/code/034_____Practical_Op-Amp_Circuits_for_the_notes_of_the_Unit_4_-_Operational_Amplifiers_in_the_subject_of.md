@@ -1,0 +1,21 @@
+### Practical Op-Amp Circuits
+
+An operational amplifier (op-amp) is a versatile device that can be used to amplify signals, filter noise, perform mathematical operations, and more. Op-amps are usually used in conjunction with passive components such as resistors and capacitors to form various circuits. Here are some of the most common and useful op-amp circuits:
+
+- **Voltage follower**: This is the simplest op-amp circuit, which consists of an op-amp with its output connected to its non-inverting (+) input. The output voltage is equal to the input voltage, but with a very high input impedance and a very low output impedance. This circuit can be used to isolate or buffer a signal source from a load, or to drive a high-current device.
+
+- **Inverting amplifier**: This circuit consists of an op-amp with a resistor (R1) connected between the input and the inverting (-) input, and another resistor (R2) connected between the inverting input and the output. The output voltage is proportional to the input voltage, but with a negative sign and a gain of -R2/R1. This circuit can be used to invert or amplify a signal, or to perform subtraction or scaling.
+
+- **Non-inverting amplifier**: This circuit consists of an op-amp with a resistor (R1) connected between the non-inverting (+) input and the ground, and another resistor (R2) connected between the non-inverting input and the output. The output voltage is proportional to the input voltage, but with a positive sign and a gain of 1+R2/R1. This circuit can be used to amplify or buffer a signal, or to perform addition or scaling.
+
+- **Summing amplifier**: This circuit consists of an op-amp with two or more resistors (R1, R2, ...) connected between the inputs and the inverting (-) input, and another resistor (Rf) connected between the inverting input and the output. The output voltage is proportional to the sum of the input voltages, but with a negative sign and a gain of -Rf/R1, -Rf/R2, ... This circuit can be used to add or mix signals, or to perform weighted averaging.
+
+- **Differential amplifier**: This circuit consists of an op-amp with two resistors (R1 and R2) connected in series between the inputs, and two resistors (R3 and R4) connected in series between the inverting (-) input and the output. The output voltage is proportional to the difference of the input voltages, but with a gain of R4/R2. This circuit can be used to measure or amplify the difference between two signals, or to reject common-mode noise or interference.
+
+- **Integrator**: This circuit consists of an op-amp with a resistor (R) connected between the input and the inverting (-) input, and a capacitor (C) connected between the inverting input and the output. The output voltage is proportional to the integral of the input voltage, but with a negative sign and a gain of -1/RC. This circuit can be used to perform integration or low-pass filtering.
+
+- **Differentiator**: This circuit consists of an op-amp with a capacitor (C) connected between the input and the inverting (-) input, and a resistor (R) connected between the inverting input and the output. The output voltage is proportional to the derivative of the input voltage, but with a positive sign and a gain of RC. This circuit can be used to perform differentiation or high-pass filtering.
+
+- **Comparator**: This circuit consists of an op-amp with its output connected to a positive or negative voltage supply (V+ or V-), and its inputs connected to two signals (V1 and V2). The output voltage is either V+ or V-, depending on which input voltage is higher. This circuit can be used to compare or detect signals, or to perform logic operations.
+
+- **Schmitt trigger**: This circuit consists of an op-amp with its output connected to its non-inverting (+) input through a resistor (R1), and its inverting (-) input connected to a voltage divider formed by two resistors (R2 and R3). The output voltage is either V+ or V-, depending on the input voltage and the hysteresis created by the feedback loop. This circuit can be used to eliminate noise or oscillations, or to generate square

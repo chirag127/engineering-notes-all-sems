@@ -1,0 +1,23 @@
+### Analysis & Findings for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is the process of conveying information and instructions to a specific audience for a specific purpose.
+- Technical communication can take various forms, such as reports, manuals, proposals, memos, letters, emails, presentations, websites, blogs, podcasts, etc.
+- Technical communication can be classified into two broad categories: internal and external.
+  - Internal communication is directed to the members of an organization, such as employees, managers, shareholders, etc. It is used to coordinate tasks, share information, provide feedback, etc.
+  - External communication is directed to the outside audience, such as customers, clients, suppliers, regulators, etc. It is used to promote products, services, ideas, etc.
+- Technical communication can also be classified into two types: informative and persuasive.
+  - Informative communication is used to provide factual information and instructions to the audience, such as how to use a product, what are the features of a service, etc.
+  - Persuasive communication is used to influence the audience's attitudes, beliefs, or actions, such as why to buy a product, what are the benefits of a service, etc.
+- Technical communication requires the following skills and abilities:
+  - Analyzing the purpose, audience, and context of the communication
+  - Researching and gathering relevant and reliable information
+  - Organizing and structuring the information logically and coherently
+  - Writing and designing the document or presentation using clear, concise, and accurate language and visuals
+  - Revising and editing the document or presentation for clarity, correctness, and completeness
+  - Evaluating the effectiveness and appropriateness of the communication
+- Technical communication follows the following principles and standards:
+  - Ethical: Technical communication should be honest, fair, respectful, and responsible. It should not mislead, deceive, harm, or offend the audience or any other stakeholders.
+  - Legal: Technical communication should comply with the relevant laws, regulations, policies, and guidelines. It should respect the intellectual property rights, privacy rights, and confidentiality rights of others.
+  - Professional: Technical communication should reflect the competence, credibility, and reputation of the communicator and the organization. It should adhere to the norms and expectations of the field and the industry.
+  - Accessible: Technical communication should be easy to access, understand, and use by the intended audience. It should consider the needs, preferences, and limitations of the audience, such as their background, knowledge, skills, culture, language, etc.
+  - User-centered: Technical communication should focus on the needs, goals, and interests of the audience. It should provide relevant, useful, and meaningful information and instructions to the audience. It should also solicit and incorporate feedback from the audience.

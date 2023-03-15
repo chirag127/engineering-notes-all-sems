@@ -1,0 +1,23 @@
+### Tautology for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- A tautology is a propositional formula that is always true, regardless of the truth values of the propositional variables in it.
+- A tautology can be verified by using a truth table, where every possible combination of truth values for the propositional variables results in a true value for the formula .
+- Examples of tautologies are:
+  - p ∨ ¬p (law of excluded middle)
+  - p → p (law of identity)
+  - (p → q) ∨ (q → p) (law of material equivalence)
+  - (p ∧ q) → p (law of simplification)
+  - p ∨ (p ∧ q) (law of absorption)
+- A contradiction is a propositional formula that is always false, regardless of the truth values of the propositional variables in it.
+- A contradiction can be verified by using a truth table, where every possible combination of truth values for the propositional variables results in a false value for the formula.
+- Examples of contradictions are:
+  - p ∧ ¬p (law of non-contradiction)
+  - p → ¬p (law of negation)
+  - (p ∧ q) ∧ ¬(p ∧ q) (law of contradiction)
+  - p ∧ (p → q) ∧ ¬q (modus tollens)
+- A tautology can be used as a rule of inference to eliminate redundancy in disjunctions and conjunctions when they occur in logical proofs.
+- The rules of tautology are:
+  - p ∨ p ≡ p (idempotency of disjunction)
+  - p ∧ p ≡ p (idempotency of conjunction)
+- A tautology can also be used to prove the validity of an argument, by showing that the conjunction of the premises and the negation of the conclusion is a contradiction.
+- The method of proof by contradiction is based on this idea.

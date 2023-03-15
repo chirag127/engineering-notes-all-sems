@@ -1,0 +1,27 @@
+### Reduced Instruction Set Computer
+
+- A reduced instruction set computer (RISC) is a computer that uses a central processing unit (CPU) that implements the processor design principle of simplified instructions.
+- RISC is the opposite of complex instruction set computer (CISC), which uses more complex and diverse instructions to perform tasks.
+- The main idea behind RISC is to make hardware simpler, faster, and more efficient by using a smaller number of types of instructions that can operate at a higher speed .
+- Some of the characteristics of RISC are:
+  - Fixed-length and simple instruction format
+  - Single-cycle instruction execution
+  - Large number of general-purpose registers
+  - Load/store architecture for memory access
+  - Pipelining and parallelism for performance enhancement
+  - Use of compiler for instruction optimization
+- Some of the advantages of RISC are:
+  - Reduced hardware complexity and cost
+  - Increased instruction throughput and speed
+  - Improved code density and portability
+  - Enhanced power efficiency and reliability
+- Some of the disadvantages of RISC are:
+  - Increased code size and memory requirement
+  - Limited instruction functionality and flexibility
+  - Difficulty in supporting complex operations and data types
+  - Dependency on compiler quality and availability
+- Some of the examples of RISC processors are:
+  - ARM
+  - MIPS
+  - PowerPC
+  - SPARC

@@ -1,0 +1,18 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Theory of Automata and Formal Languages. Here are some definitions for the notes of the Unit 1 - Basic Concepts and Automata Theory:
+
+### Definition for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+
+- **Alphabet**: An alphabet is a finite set of symbols, usually denoted by Σ. For example, Σ = {0, 1} is the binary alphabet.
+- **String**: A string is a finite sequence of symbols from an alphabet. For example, 0101 is a string over the binary alphabet. The length of a string is the number of symbols in it, denoted by |s|. The empty string is the string with no symbols, denoted by ε. The set of all strings over an alphabet Σ is denoted by Σ*.
+- **Language**: A language is a set of strings over an alphabet. For example, L = {0, 1, 00, 01, 10, 11} is a language over the binary alphabet. A language can be finite or infinite, depending on the number of strings in it. The empty language is the language with no strings, denoted by ∅.
+- **Automaton**: An automaton is an abstract machine that can process strings and accept or reject them. An automaton has a finite set of states, a finite set of input symbols, a transition function that maps states and input symbols to states, an initial state, and a set of final or accepting states. An automaton can be represented by a diagram or a table.
+- **Deterministic Finite Automaton (DFA)**: A DFA is a type of automaton that has exactly one transition for each state and input symbol. A DFA accepts a string if it reaches a final state after reading the string from left to right. A DFA can be represented by a five-tuple (Q, Σ, δ, q0, F), where Q is the set of states, Σ is the input alphabet, δ is the transition function, q0 is the initial state, and F is the set of final states.
+- **Nondeterministic Finite Automaton (NFA)**: An NFA is a type of automaton that can have zero, one, or more transitions for each state and input symbol. An NFA accepts a string if there exists a path from the initial state to a final state that matches the string. An NFA can be represented by a five-tuple (Q, Σ, δ, q0, F), where Q is the set of states, Σ is the input alphabet, δ is the transition function, q0 is the initial state, and F is the set of final states. The transition function δ maps states and input symbols to subsets of states, rather than single states.
+- **Regular Expression**: A regular expression is a notation for describing languages. A regular expression can be built from the following rules:
+  - The empty string ε is a regular expression that denotes the language {ε}.
+  - Any symbol a in the alphabet Σ is a regular expression that denotes the language {a}.
+  - If r and s are regular expressions, then (r + s) is a regular expression that denotes the union of the languages denoted by r and s.
+  - If r and s are regular expressions, then (rs) is a regular expression that denotes the concatenation of the languages denoted by r and s.
+  - If r is a regular expression, then (r*) is a regular expression that denotes the Kleene closure of the language denoted by r, which is the set of all strings that can be formed by repeating r zero or more times.
+  - Parentheses can be used to group regular expressions and change the order of precedence. The precedence order is *, concatenation, and +, from highest to lowest.
+- **Regular Language**: A regular language is a language that can be described by a regular expression, or equivalently, by a DFA or an NFA. For example, the language L = {0n1n | n ≥ 0} is not a regular language, because it cannot be described by any of these methods.

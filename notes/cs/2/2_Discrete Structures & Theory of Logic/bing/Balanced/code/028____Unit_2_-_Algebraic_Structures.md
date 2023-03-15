@@ -1,0 +1,11 @@
+## Unit 2 - Algebraic Structures
+
+An algebraic structure is a set of elements with one or more operations defined on it that satisfy certain properties or axioms. Some examples of algebraic structures are groups, rings, fields, vector spaces, matrices, etc.
+
+In this unit, we will learn about the following topics:
+
+- **Binary operations**: A binary operation on a set is a function that takes two elements from the set and returns another element in the set. For example, addition and multiplication are binary operations on the set of real numbers. We will study the properties of binary operations, such as commutativity, associativity, identity, inverse, and distributivity.
+- **Groups**: A group is an algebraic structure that consists of a set and a binary operation that satisfies four properties: closure, associativity, identity, and inverse. For example, the set of integers with the operation of addition forms a group. We will learn how to check if a set and an operation form a group, and how to classify groups based on their properties, such as abelian, cyclic, finite, etc.
+- **Subgroups**: A subgroup is a subset of a group that is also a group under the same operation. For example, the set of even integers is a subgroup of the group of integers under addition. We will learn how to find subgroups of a given group, and how to use the subgroup test to verify if a subset is a subgroup or not.
+- **Cosets and Lagrange's theorem**: A coset is a set obtained by multiplying or adding a fixed element to every element of a subgroup. For example, if H is a subgroup of a group G, and a is an element of G, then aH and Ha are cosets of H. We will learn how to find cosets of a subgroup, and how to use Lagrange's theorem to relate the order of a group and its subgroups.
+- **Normal subgroups and quotient groups**: A normal subgroup is a subgroup that is invariant under conjugation by any element of the group. For example, the center of a group is a normal subgroup. A quotient group is a group obtained by dividing a group by a normal subgroup. For example, if H is a normal subgroup of G, then G/H is a quotient group. We will learn how to check if a subgroup is normal, and how to construct and study quotient groups.

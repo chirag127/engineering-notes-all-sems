@@ -1,0 +1,13 @@
+### Moving
+
+Moving is the process of changing the location or position of an object or a person. Moving can be done by various means, such as walking, driving, flying, or using machines. Moving can have different purposes, such as transportation, exploration, entertainment, or escape.
+
+Artificial intelligence (AI) is the ability of a machine, program, or system to learn and adapt by experience. AI can perform tasks that are commonly associated with intelligent beings, such as reasoning, discovering meaning, planning, or decision making. AI can also help humans to move more efficiently, safely, and comfortably.
+
+Some of the applications of AI in moving are:
+
+- **Autonomous vehicles**: These are vehicles that can drive themselves without human intervention, using sensors, cameras, maps, and algorithms to navigate the roads and traffic. Autonomous vehicles can reduce accidents, emissions, and congestion, and provide convenience and mobility to passengers. Examples of autonomous vehicles are self-driving cars, trucks, buses, trains, and drones .
+- **Robotics**: These are machines that can perform physical tasks, such as moving, lifting, or manipulating objects, using sensors, actuators, and controllers. Robotics can assist humans in various domains, such as manufacturing, agriculture, health care, military, or entertainment. Examples of robotics are industrial robots, agricultural robots, surgical robots, military robots, and social robots .
+- **Navigation**: This is the process of finding the best route or direction to a destination, using sensors, maps, and algorithms. Navigation can help humans and machines to move more efficiently and accurately, avoiding obstacles and hazards. Examples of navigation are GPS, indoor positioning systems, and path planning algorithms .
+- **Gaming**: This is the activity of playing games, either for entertainment or education, using computers, consoles, or mobile devices. Gaming can involve moving virtual characters or objects, using controllers, keyboards, or touchscreens. Gaming can also use AI to create realistic and immersive environments, characters, and scenarios, or to adapt the game difficulty and feedback to the player's preferences and skills. Examples of gaming are video games, augmented reality games, and virtual reality games .
+- **Facial recognition**: This is the process of identifying or verifying a person's identity, using cameras, databases, and algorithms. Facial recognition can help humans to move more securely and conveniently, by unlocking devices, accessing facilities, or verifying transactions. Examples of facial recognition are biometric authentication, surveillance, and social media .

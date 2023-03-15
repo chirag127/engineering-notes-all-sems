@@ -1,0 +1,32 @@
+# Strategic competence for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Strategic competence is the ability to use communicative strategies effectively and appropriately in different situations and contexts .
+- Communicative strategies are verbal and nonverbal techniques that help to overcome difficulties or breakdowns in communication due to lack of linguistic competence or other factors.
+- Strategic competence is an important aspect of communicative competence, which is the overall ability to communicate successfully in a given language .
+- Strategic competence involves three main functions: assessment, planning, and execution.
+  - Assessment: evaluating the communicative goal, the situation, the interlocutor, and the available resources.
+  - Planning: selecting and organizing the appropriate strategies to achieve the communicative goal.
+  - Execution: implementing and monitoring the strategies and adjusting them as needed.
+- Some examples of communicative strategies are :
+  - Avoidance: avoiding topics or words that are difficult or unknown
+  - Paraphrase: using synonyms, explanations, or examples to convey the intended meaning
+  - Circumlocution: describing the characteristics or functions of an object or concept instead of naming it
+  - Approximation: using a more general or vague word that is close to the intended meaning
+  - Word coinage: creating a new word based on existing rules or patterns
+  - Restructuring: changing the order or structure of a sentence or utterance
+  - Transfer: using a word or expression from another language
+  - Code-switching: switching between languages or varieties of a language
+  - Appeal for help: asking the interlocutor or a third party for assistance or clarification
+  - Mime: using gestures, facial expressions, or sounds to convey the intended meaning
+  - Repetition: repeating a word, phrase, or utterance to emphasize or clarify it
+  - Confirmation: checking or confirming the understanding or agreement of the interlocutor
+  - Comprehension check: asking the interlocutor to confirm their understanding or comprehension
+  - Self-correction: correcting one's own errors or mistakes
+  - Self-monitoring: checking one's own speech or writing for accuracy and appropriateness
+- Strategic competence is essential for effective technical communication, as it helps to  :
+  - Achieve the communicative goal and purpose of the message
+  - Adapt to the needs, expectations, and preferences of the audience
+  - Overcome linguistic, cultural, or situational barriers or challenges
+  - Enhance the clarity, coherence, and cohesion of the message
+  - Maintain the rapport and relationship with the interlocutor
+  - Initiate innovation and bring strategic change

@@ -1,0 +1,9 @@
+### Consonant sounds for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Consonant sounds are produced when the airflow is obstructed in some way by the articulators (lips, teeth, tongue, palate, etc.) during speech.
+- There are several ways to classify consonants, including by place of articulation, manner of articulation, and voicing.
+- Place of articulation refers to where in the mouth the obstruction of airflow occurs. Some common places of articulation include bilabial (both lips), labiodental (lower lip and upper teeth), dental (tongue and upper teeth), alveolar (tongue and alveolar ridge), and velar (back of the tongue and soft palate).
+- Manner of articulation refers to how the airflow is obstructed. Some common manners of articulation include stops (complete obstruction), fricatives (narrow constriction), affricates (stop followed by fricative), nasals (airflow through the nose), and approximants (slight constriction).
+- Voicing refers to whether the vocal cords vibrate during the production of the sound. Consonants can be either voiced (vocal cords vibrate) or voiceless (vocal cords do not vibrate).
+- In English, there are 24 consonant sounds, including /p/, /b/, /t/, /d/, /k/, /g/, /f/, /v/, /θ/ (as in "think"), /ð/ (as in "this"), /s/, /z/, /ʃ/ (as in "ship"), /ʒ/ (as in "measure"), /h/, /m/, /n/, /ŋ/ (as in "sing"), /l/, /r/, /w/, /j/ (as in "yes"), and /ʔ/ (glottal stop, as in "uh-oh").
+- Consonant sounds play an important role in the clarity and intelligibility of speech. Proper articulation of consonant sounds can improve the effectiveness of oral communication.

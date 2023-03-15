@@ -1,0 +1,9 @@
+## Module IV: Statistical Techniques II:
+
+This module covers some advanced statistical techniques for data analysis, such as:
+
+- **Analysis of variance (ANOVA)**: A method to compare the means of two or more groups of data and test whether they are significantly different from each other. ANOVA can be used to test the effects of one or more factors (independent variables) on a continuous outcome (dependent variable).
+- **Regression analysis**: A method to model the relationship between one or more independent variables (predictors) and a dependent variable (response). Regression analysis can be used to estimate the effect of each predictor on the response, to test hypotheses about the predictors, and to make predictions based on the model.
+- **Correlation analysis**: A method to measure the strength and direction of the linear relationship between two variables. Correlation analysis can be used to explore the associations between variables and to test hypotheses about the correlations.
+- **Chi-square test**: A method to test whether the observed frequencies of categorical data are consistent with the expected frequencies based on a hypothesis. Chi-square test can be used to test the independence of two categorical variables, the goodness of fit of a categorical variable to a theoretical distribution, or the homogeneity of proportions across groups.
+- **Non-parametric tests**: A class of statistical tests that do not require the data to follow a specific distribution or meet certain assumptions. Non-parametric tests can be used to compare the medians or ranks of two or more groups of data, to test the symmetry or randomness of a distribution, or to measure the correlation between ordinal variables.

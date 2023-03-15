@@ -1,0 +1,9 @@
+### Recursive and Recursively Enumerable language
+
+- A **recursive language** is a formal language for which there exists a Turing machine that, when presented with any finite input string, halts and accepts if the string is in the language, and halts and rejects otherwise.
+- A **recursively enumerable language** is a formal language for which there exists a Turing machine that, when presented with any finite input string, halts and accepts if the string is in the language, and runs forever otherwise.
+- Recursive languages are also known as **decidable languages**, while recursively enumerable languages are also known as **semi-decidable languages** or **Turing-recognizable languages**.
+- Every recursive language is also recursively enumerable, but not every recursively enumerable language is recursive.
+- The class of recursive languages is closed under union, intersection, complementation, concatenation, and Kleene star, while the class of recursively enumerable languages is closed under union, intersection, concatenation, and Kleene star, but not complementation.
+- The halting problem is an example of a problem that is recursively enumerable but not recursive. It is the problem of determining, given a description of a Turing machine and an input string, whether the Turing machine will halt when run on the input string.
+- Recursive and recursively enumerable languages play an important role in the study of computability and computational complexity theory. They are used to classify problems based on their solvability by Turing machines and to study the limitations of what can be computed by such machines.

@@ -1,0 +1,19 @@
+### Data Transfer Schemes
+
+Data transfer schemes are the methods through which data can be transferred between the units of a microprocessor system, such as the CPU, memory, and I/O devices. Data transfer schemes are important for the efficient and smooth operation of the system. There are three main types of data transfer schemes:
+
+- Programmed I/O Data Transfer
+- Interrupt Driven Data Transfer
+- Direct Memory Access (DMA) Data Transfer
+
+#### Programmed I/O Data Transfer
+
+Programmed I/O Data Transfer is a simple and basic data transfer scheme. In this scheme, data transfer takes place under the control of a program that resides in the memory of the microprocessor system. The program is executed by the CPU and contains instructions to read or write data from or to the I/O devices. The CPU communicates with the I/O devices through the data bus, address bus, and control bus. The CPU also checks the status of the I/O devices before and after each data transfer by using status flags or registers. This scheme is generally used when the speed of data transfer is not critical and the amount of data to be transferred is small. The advantages of this scheme are that it is simple, easy to implement, and does not require any additional hardware. The disadvantages are that it consumes a lot of CPU time and resources, and it makes the CPU wait for the slow I/O devices.
+
+#### Interrupt Driven Data Transfer
+
+Interrupt Driven Data Transfer is a data transfer scheme that uses interrupts to notify the CPU of the data transfer requests from the I/O devices. In this scheme, the CPU does not need to constantly check the status of the I/O devices or execute a program to perform the data transfer. Instead, the I/O devices send an interrupt signal to the CPU when they are ready to send or receive data. The CPU then temporarily suspends its current task and executes an interrupt service routine (ISR) that handles the data transfer. After the data transfer is completed, the CPU resumes its previous task. This scheme is used when the speed of data transfer is moderate and the amount of data to be transferred is variable. The advantages of this scheme are that it reduces the CPU overhead and improves the system performance. The disadvantages are that it requires additional hardware to generate and handle interrupts, and it may cause priority conflicts among multiple I/O devices.
+
+#### Direct Memory Access (DMA) Data Transfer
+
+Direct Memory Access (DMA) Data Transfer is a data transfer scheme that allows the I/O devices to directly access the memory without involving the CPU. In this scheme, the CPU delegates the data transfer task to a special hardware device called the DMA controller (DMAC). The DMAC communicates with the I/O devices and the memory through the data bus, address bus, and control bus. The DMAC also receives the data transfer parameters from the CPU, such as the starting address, the number of bytes, and the direction of transfer. The DMAC then initiates and controls the data transfer between the I/O devices and the memory. The CPU is only involved at the beginning and the end of the data transfer, and it can perform other tasks in the meantime. The DMAC also sends an interrupt signal to the CPU when the data transfer is completed. This scheme is used when the speed of data transfer is high and the amount of data to be transferred is large. The advantages of this scheme are that it frees the CPU from the data transfer task and increases the system throughput. The disadvantages are that it requires a complex and expensive hardware device, and it may cause bus contention among the CPU, the DMAC, and the memory.

@@ -1,0 +1,23 @@
+# Recursive and Recursively Enumerable Language
+
+- A **recursive language** is a formal language for which there exists a Turing machine that accepts and halts on every input string, whether it belongs to the language or not.
+- A **recursively enumerable language** is a formal language for which there exists a Turing machine that accepts and halts on every input string that belongs to the language, but may either reject or loop forever on input strings that do not belong to the language.
+- Recursive languages are a subset of recursively enumerable languages, since a Turing machine that decides a language can also enumerate it by testing every possible input string in some order.
+- Some properties of recursive languages are:
+  - They are closed under union, intersection, complement, concatenation, Kleene star, reversal, homomorphism, and inverse homomorphism.
+  - They are a proper subset of context-sensitive languages.
+  - They are decidable by a Turing machine in finite time.
+  - They are accepted by a linear bounded automaton.
+- Some properties of recursively enumerable languages are:
+  - They are closed under union, intersection, concatenation, Kleene star, and homomorphism, but not under complement, reversal, or inverse homomorphism.
+  - They are a proper subset of recursively enumerable languages.
+  - They are semi-decidable by a Turing machine, meaning that they can be accepted in finite time, but not rejected in finite time.
+  - They are accepted by a Turing machine with unlimited tape.
+- Some examples of recursive languages are:
+  - The language of all palindromes over a finite alphabet.
+  - The language of all strings over a finite alphabet that have an even number of symbols.
+  - The language of all strings over a finite alphabet that are accepted by a finite automaton.
+- Some examples of recursively enumerable languages that are not recursive are:
+  - The language of all strings over a finite alphabet that encode a valid proof in some formal system, such as Peano arithmetic or Zermelo-Fraenkel set theory.
+  - The language of all strings over a finite alphabet that encode a Turing machine that halts on the empty input.
+  - The language of all strings over a finite alphabet that are accepted by a pushdown automaton, but not by a finite automaton.

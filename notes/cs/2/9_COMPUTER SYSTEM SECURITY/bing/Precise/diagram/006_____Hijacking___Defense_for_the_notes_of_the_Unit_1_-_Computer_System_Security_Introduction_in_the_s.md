@@ -1,0 +1,5 @@
+### Hijacking & Defense
+
+Hijacking, also known as cyber hijacking or computer hijacking, is a type of network security attack in which the attacker takes control of computer systems, software programs, and/or network communications . It is also known as a man-in-the-middle attack, where the perpetrator takes control of an established connection while it is in progress. The attacker intercepts messages in a public key exchange and then retransmits them, substituting their own public key for the requested one, so that the two original parties still appear to be communicating with each other .
+
+Defense against hijacking includes complete memory safety, code pointer integrity, and control hijacking attacks, which includes buffer overflow, integer overflow, bypassing browser, and memory protection  .

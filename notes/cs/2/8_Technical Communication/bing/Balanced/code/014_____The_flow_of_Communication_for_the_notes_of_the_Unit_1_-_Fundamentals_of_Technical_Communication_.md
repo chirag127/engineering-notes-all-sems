@@ -1,0 +1,18 @@
+### The flow of Communication
+
+The flow of communication refers to the direction and channels of communication within an organization or between different parties. Communication can be classified into five main types: downward, upward, lateral, diagonal, and external.
+
+- Downward communication is communication that flows from the higher levels of an organization to the lower levels, or down the chain of command. For example, a manager may communicate the goals, policies, or feedback to the employees. Downward communication can be used to inform, instruct, motivate, or evaluate the subordinates.
+- Upward communication is communication that flows from the lower levels of an organization to the higher levels, or up the chain of command. For example, an employee may communicate the problems, suggestions, or reports to the manager. Upward communication can be used to provide feedback, seek clarification, express grievances, or participate in decision-making.
+- Lateral communication is communication that flows among the same level of an organization, or across the chain of command. For example, a team member may communicate with another team member, or a department may communicate with another department. Lateral communication can be used to coordinate, collaborate, share information, or solve problems.
+- Diagonal communication is communication that flows across different levels and functions of an organization, or across the chain of command. For example, a salesperson may communicate with an engineer, or a customer service representative may communicate with a product manager. Diagonal communication can be used to facilitate interdepartmental cooperation, innovation, or customer satisfaction.
+- External communication is communication that flows between an organization and its external stakeholders, such as customers, suppliers, competitors, media, or government. For example, a company may communicate its products, services, or values to the public, or a nonprofit organization may communicate its mission, vision, or impact to the donors. External communication can be used to promote, persuade, inform, or build relationships with the outside world.
+
+Technical communication is a type of communication that involves communicating expert, technical, or highly complex information to a non expert or more general audience. Technical communication often involves technology (though not always), and it responds to a specific rhetorical situation and context. Technical communication can be multimodal, which means that it uses more than one communication mode (such as words, images, videos, sounds, etc.). Technical communication can be used for various purposes, such as:
+
+- To instruct or guide the users on how to use a product, service, or system (e.g., manuals, tutorials, instructions, FAQs, etc.)
+- To inform or explain the features, functions, or benefits of a product, service, or system (e.g., brochures, flyers, websites, blogs, podcasts, etc.)
+- To report or document the results, findings, or recommendations of a research, project, or experiment (e.g., reports, proposals, articles, presentations, etc.)
+- To persuade or convince the audience to adopt a certain viewpoint, action, or solution (e.g., proposals, white papers, case studies, testimonials, etc.)
+
+The flow of communication and the type of technical communication depend on the goals, audience, context, and content of the communication. As technical communicators, it is important to consider these factors and apply the appropriate strategies and skills to produce effective and ethical communication.

@@ -1,0 +1,31 @@
+### Instructions for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level language that uses mnemonics to represent machine instructions .
+- Assembly language is specific to a given processor, so the assembly language of 8085 is different from that of 8086 .
+- An assembler is a program that converts an assembly language program to machine language.
+- The 8085 microprocessor is an 8-bit microprocessor that has 8 bits of data bus and 16 bits of address bus.
+- The 8086 microprocessor is a 16-bit microprocessor that has 16 bits of data bus and 20 bits of address bus.
+- The 8086 microprocessor uses memory segmentation to divide the memory into four segments: code, data, stack, and extra .
+- The 8086 microprocessor has 14 registers: 4 general purpose registers (AX, BX, CX, DX), 4 segment registers (CS, DS, SS, ES), 4 index registers (SI, DI, BP, SP), and 2 pointer registers (IP, FLAGS) .
+- The assembly language program of 8086 consists of three sections: data section, code section, and stack section .
+- The data section defines the variables and constants used in the program .
+- The code section contains the instructions that perform the tasks of the program .
+- The stack section defines the size and location of the stack segment .
+- The assembly language instructions of 8086 can be classified into four types: data transfer, arithmetic, logic, and branch .
+- Data transfer instructions move data between registers, memory, and I/O devices .
+- Arithmetic instructions perform addition, subtraction, multiplication, division, and increment/decrement operations on data .
+- Logic instructions perform bitwise operations such as AND, OR, XOR, NOT, and shift/rotate operations on data .
+- Branch instructions alter the sequence of execution by transferring control to another location in the program .
+- Looping, counting, and indexing are programming techniques that use data transfer, arithmetic, logic, and branch instructions to perform repetitive tasks .
+- Looping is a technique that repeats a block of instructions until a condition is met .
+- Counting is a technique that uses a register or a memory location to keep track of the number of iterations of a loop .
+- Indexing is a technique that uses an index register to access data stored in a sequential manner .
+- Programming techniques also include counters and time delays, which are used to measure the duration of events or to create delays in the execution of the program .
+- Counters are registers or memory locations that store a value that is decremented or incremented by a fixed amount at regular intervals .
+- Time delays are loops that waste a certain number of clock cycles before proceeding to the next instruction .
+- Stacks and subroutines are programming techniques that use the stack segment to store and retrieve data or to transfer control to another part of the program .
+- A stack is a data structure that follows the last-in first-out (LIFO) principle, meaning that the last item pushed onto the stack is the first item popped from the stack .
+- A subroutine is a set of instructions that performs a specific task and can be called from the main program or another subroutine .
+- A subroutine call involves pushing the return address (the address of the instruction following the call) onto the stack and jumping to the subroutine .
+- A subroutine return involves popping the return address from the stack and jumping back to the caller .
+- Conditional call and return instructions are branch instructions that transfer control to a subroutine or return from a subroutine based on a

@@ -1,0 +1,29 @@
+### Expert Technical Lecture for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is a form of communication based on the writing and sharing of technical information with a specialized target audience.
+- Technical communication often involves communicating expert, technical, or highly complex information to a non-expert or more general audience.
+- Technical communication often works to convince an audience to take some specific action or to inform or instruct them about a certain topic.
+- Technical communication is a broad field and includes any form of communication that exhibits one or more of the following characteristics:
+  - Communicating about technical or specialized topics, such as computer applications, medical procedures, or environmental regulations.
+  - Communicating by using technology, such as web pages, help files, or social media sites.
+  - Providing instructions about how to do something, regardless of how technical the task is or even if technology is used to create or distribute that communication.
+- Some examples of technical communication are  :
+  - Proposals and requests for proposals (RFPs)
+  - Technical or research reports
+  - Documentation records and product specifications
+  - User guides (step-by-step instructions, procedures, manuals)
+  - Online help, technical support
+  - Reference information (encyclopedia-style information)
+  - Consumer literature (information for the public about regulations, safety issues, etc.)
+  - Business letters, memos, notices
+  - Websites, blogs, podcasts, webinars
+  - Presentations, posters, infographics
+- To be effective, technical communication should follow some general principles, such as:
+  - Addressing a specific audience and purpose
+  - Providing accurate and complete information
+  - Using clear and concise language
+  - Organizing and formatting the information for easy access and readability
+  - Using appropriate design elements, such as graphics, color, font, layout, etc.
+  - Adhering to ethical and legal standards
+  - Revising and editing the communication for quality and usability
+- Technical communication skills are essential for professionals in various fields, such as engineering, science, technology, business, health, education, etc. Technical communication skills can help them to communicate their ideas, findings, solutions, products, or services to various stakeholders, such as customers, clients, colleagues, managers, regulators, etc. Technical communication skills can also help them to collaborate with others, solve problems, learn new things, and advance their careers  .

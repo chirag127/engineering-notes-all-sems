@@ -1,0 +1,22 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of game playing for the notes of the unit 2 - problem solving methods in the subject of artificial intelligence KCS.
+
+### Game Playing
+
+- Game playing is a form of problem solving where the agent has to deal with an adversarial environment, where the actions of one agent can affect the utility of another agent.
+- Game playing can be seen as a special case of search, where the agent has to consider not only its own actions, but also the possible actions and responses of the opponent.
+- Game playing can be classified into two types: deterministic and non-deterministic. Deterministic games are those where the outcome of each move is fully determined by the current state and the action chosen. Non-deterministic games are those where the outcome of each move is affected by some random factor, such as dice rolls or card draws.
+- Examples of deterministic games are chess, checkers, tic-tac-toe, etc. Examples of non-deterministic games are backgammon, poker, monopoly, etc.
+- Game playing can also be classified into two types: zero-sum and non-zero-sum. Zero-sum games are those where the total utility of all the agents is constant, and the gain of one agent is equal to the loss of another agent. Non-zero-sum games are those where the total utility of all the agents can vary, and the agents can have different or even conflicting objectives.
+- Examples of zero-sum games are chess, checkers, tic-tac-toe, etc. Examples of non-zero-sum games are prisoner's dilemma, chicken, bargaining, etc.
+- To model a game playing problem, we need to define the following components:
+  - The initial state, which describes the configuration of the game at the beginning.
+  - The successor function, which generates the possible states that can result from a legal move by a player.
+  - The terminal test, which determines whether a state is a final or end state of the game.
+  - The utility function, which assigns a numerical value to each terminal state, indicating the preference or desirability of that state for a player.
+  - The player function, which specifies which player has the turn to move in a given state.
+- A game tree is a graphical representation of the possible states and moves in a game, starting from the initial state and branching out until the terminal states are reached. Each node in the game tree corresponds to a state, and each edge corresponds to a move. The root node is the initial state, and the leaf nodes are the terminal states. The utility values of the terminal states are shown at the leaf nodes.
+- A game tree can be used to analyze the optimal strategy for a game, by applying a decision rule that selects the best move for each player at each node. One such decision rule is the minimax rule, which assumes that each player tries to maximize their own utility, while minimizing the utility of the opponent. The minimax rule can be implemented by a recursive algorithm that traverses the game tree in a depth-first manner, and returns the utility value of the best move for the current player at each node. The algorithm uses two parameters: alpha and beta, which represent the lower and upper bounds of the utility values that the current player can achieve. The algorithm also uses a pruning technique, called alpha-beta pruning, which eliminates the branches of the game tree that are irrelevant or suboptimal, and reduces the search space and the computation time. The algorithm can be summarized as follows:
+
+  - If the current node is a terminal node, return the utility value of that node.
+  - If the current node is a max node (the player is the maximizing player), initialize alpha to negative infinity, and for each child node, recursively call the algorithm and update alpha to the maximum of alpha and the returned value. If alpha is greater than or equal to beta, prune the remaining branches and return alpha. Otherwise, return alpha at the end.
+  - If the current node is a min node (the player is the minimizing player), initialize beta to positive infinity, and for each child node, recursively call the algorithm and update beta to the minimum of beta and the returned value. If beta is less than or equal to alpha, prune the remaining branches and return beta. Otherwise, return beta at the end.
