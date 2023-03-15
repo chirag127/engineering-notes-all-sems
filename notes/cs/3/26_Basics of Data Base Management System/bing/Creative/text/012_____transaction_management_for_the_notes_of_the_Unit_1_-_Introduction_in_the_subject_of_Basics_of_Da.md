@@ -1,0 +1,11 @@
+### Transaction Management
+
+Transaction management is a logical unit of processing in a DBMS which entails one or more database access operations. It is a transaction is a program unit whose execution may or may not change the contents of a database. Transaction management ensures data integrity and consistency in the face of concurrent access, system failures, and malicious attacks.
+
+Some of the topics covered in this unit are:
+
+- Transaction states: A transaction can be in one of the following states: active, partially committed, committed, failed, or aborted. The state transition diagram shows how a transaction moves from one state to another based on the events that occur during its execution.
+- Transaction properties: A transaction must satisfy four properties, known as ACID properties, to ensure data integrity and consistency. These are: atomicity, consistency, isolation, and durability . Atomicity means that a transaction is either executed completely or not at all. Consistency means that a transaction preserves the database rules and constraints. Isolation means that a transaction does not interfere with other concurrent transactions. Durability means that the effects of a committed transaction are permanent and survive system failures.
+- Transaction log: A transaction log is a file that records all transactions and the database modifications made by each transaction. The transaction log is a critical component of the database, as it is used to recover the database to a consistent state in case of a system failure. The transaction log also supports concurrency control and backup operations.
+- Concurrency control: Concurrency control is the process of managing simultaneous access to the database by multiple transactions. Concurrency control ensures that the transactions do not conflict with each other and maintain data integrity and consistency. Concurrency control techniques include locking, timestamping, validation, and multiversioning.
+- Recovery management: Recovery management is the process of restoring the database to a consistent state after a system failure. Recovery management uses the transaction log and the backup files to undo or redo the effects of the transactions that were affected by the failure. Recovery management techniques include checkpointing, shadow paging, and deferred and immediate update.

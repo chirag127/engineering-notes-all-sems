@@ -1,0 +1,24 @@
+### Recoverability
+- Recoverability is the ability of a database system to restore the database to a consistent state after a failure or an abort of a transaction.
+- A transaction is a logical unit of work that consists of a sequence of operations on the database, such as read, write, insert, delete, etc.
+- A transaction must satisfy the ACID properties: atomicity, consistency, isolation, and durability.
+- Atomicity means that either all the operations of a transaction are executed or none of them are.
+- Consistency means that a transaction preserves the integrity constraints and business rules of the database.
+- Isolation means that a transaction does not interfere with other concurrent transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failure.
+- A failure or an abort of a transaction may leave the database in an inconsistent state, violating the ACID properties.
+- To ensure recoverability, the database system must keep track of the changes made by each transaction and be able to undo or redo them if necessary.
+- The database system uses a recovery manager to perform the recovery operations.
+- The recovery manager uses two main techniques: logging and checkpointing.
+- Logging is the process of recording the changes made by each transaction in a log file, which is stored on a stable storage device.
+- A log record contains information such as the transaction id, the operation performed, the data item affected, the old value, and the new value.
+- The log file is used to undo or redo the changes made by a transaction in case of a failure or an abort.
+- Undoing a change means restoring the old value of a data item, while redoing a change means applying the new value of a data item.
+- Checkpointing is the process of periodically writing the modified pages of the database from the main memory to the disk, and recording the checkpoint in the log file.
+- A checkpoint marks a point in time when the database is consistent and all the transactions that have committed before the checkpoint have their effects reflected on the disk.
+- Checkpointing reduces the amount of work that the recovery manager has to do in case of a failure, as it only has to consider the transactions that have started after the checkpoint.
+- The recovery manager uses two main algorithms to perform the recovery operations: undo and redo.
+- The undo algorithm is used to roll back the transactions that have not committed at the time of the failure, and restore the database to a consistent state.
+- The undo algorithm scans the log file backwards from the end to the most recent checkpoint, and undoes the changes made by each transaction in reverse order of their occurrence.
+- The redo algorithm is used to reapply the changes made by the transactions that have committed but have not written their effects to the disk at the time of the failure, and ensure the durability of the transactions.
+- The redo algorithm scans the log file forward from the most recent checkpoint to the end, and redoes the changes made by each transaction in the same order of their occurrence.

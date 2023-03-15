@@ -1,0 +1,11 @@
+### SOM Algorithm and its variant
+
+- SOM stands for Self-Organizing Map, which is a type of artificial neural network that can perform unsupervised learning and dimensionality reduction.
+- SOM consists of two layers: an input layer and an output layer. The output layer is usually a one or two dimensional grid of nodes, each representing a cluster or a feature of the input data.
+- SOM works by iteratively adjusting the weights of the output nodes based on the similarity between the input patterns and the node prototypes. The node that is closest to the input pattern is called the winner or the best matching unit (BMU), and its weights are updated more than the other nodes.
+- SOM also applies a neighborhood function that determines the extent of the weight update for the nodes around the winner. The neighborhood function typically decreases over time, so that the learning becomes more local and fine-tuned.
+- SOM can be used for various applications, such as clustering, visualization, data exploration, anomaly detection, and feature extraction .
+- A variant of the SOM algorithm is the SOM-based optimization (SOMO) algorithm, which was proposed by Su and Zhao  . The SOMO algorithm can be used to solve continuous optimization problems by exploring and exploiting good solutions through the self-organizing process.
+- The SOMO algorithm differs from the conventional SOM algorithm in several aspects, such as the initialization of the output nodes, the calculation of the distance between the input patterns and the node prototypes, the update of the weights, and the termination criterion.
+- The SOMO algorithm can be interpreted as a model of social influence and social learning, where the output nodes represent individuals or groups that interact with each other and learn from the environment.
+- The SOMO algorithm has been shown to be effective and efficient in solving various optimization problems, such as the traveling salesman problem, the quadratic assignment problem, and the knapsack problem.

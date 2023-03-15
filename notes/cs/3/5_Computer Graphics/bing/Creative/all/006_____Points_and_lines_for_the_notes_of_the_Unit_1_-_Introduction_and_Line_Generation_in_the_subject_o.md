@@ -1,0 +1,8 @@
+# Points and lines for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A point is the simplest graphical element that can be displayed on a screen. It is represented by a pair of coordinates (x, y) that specify its position on a two-dimensional plane.
+- A line is a sequence of points that are connected by straight or curved segments. It is represented by two endpoints (x1, y1) and (x2, y2) that specify the start and end of the line, or by a slope-intercept equation y = mx + b that specifies the direction and position of the line.
+- There are different algorithms for generating lines on a raster display, such as DDA (Digital Differential Analyzer), Bresenham's, and Xiaolin Wu's algorithms. These algorithms differ in their accuracy, efficiency, and smoothness of the lines they produce.
+- DDA algorithm uses the equation of the line to incrementally calculate the x and y coordinates of each point along the line. It is simple but slow and prone to rounding errors.
+- Bresenham's algorithm uses integer arithmetic and decision variables to determine the next point along the line. It is faster and more accurate than DDA, but it can only handle lines with slopes between -1 and 1.
+- Xiaolin Wu's algorithm uses anti-aliasing techniques to smooth the edges of the lines by varying the intensity of the pixels along the line. It is more complex and slower than Bresenham's, but it can handle lines with any slope and produce high-quality results.

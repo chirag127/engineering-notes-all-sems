@@ -1,0 +1,18 @@
+### Web Standards and W3C Recommendations
+
+- Web standards are a set of rules and guidelines that define how web technologies should work and how web content should be created and delivered.
+- Web standards ensure that web pages and applications are interoperable, accessible, secure, and user-friendly across different browsers, devices, and platforms.
+- Web standards are developed by various organizations and communities, such as the World Wide Web Consortium (W3C), the Internet Engineering Task Force (IETF), the Web Hypertext Application Technology Working Group (WHATWG), and the Ecma International.
+- W3C is the main international standards organization for the web. It was founded in 1994 by Tim Berners-Lee, the inventor of the web, and is composed of member organizations, staff, and the public.
+- W3C publishes documents that define web technologies, such as HTML, CSS, XML, SVG, and WCAG. These documents follow a process designed to promote consensus, fairness, public accountability, and quality. At the end of this process, W3C publishes Recommendations, which are considered web standards .
+- W3C also publishes other types of documents, such as Working Drafts, Candidate Recommendations, Proposed Recommendations, and Notes, which represent different stages of development and maturity of web technologies .
+- W3C web standards are optimized for interoperability, security, privacy, web accessibility, and internationalization. W3C's proven web standards process is based on fairness, openness, royalty-free, and making the web work for everyone .
+- W3C is focusing on technologies to enable web access anywhere, anytime, using any device. This includes web access from mobile phones and other mobile devices as well as use of web technology in consumer electronics, printers, interactive television, and even automobiles.
+- W3C's web standards are reviewed for accessibility support by the Accessible Platform Architectures (APA) Working Group. The W3C standards and Working Group Notes introduced below are particularly relevant to accessibility:
+
+  - Web Content Accessibility Guidelines (WCAG): provide principles, guidelines, and success criteria for making web content accessible to people with disabilities.
+  - Authoring Tool Accessibility Guidelines (ATAG): provide principles, guidelines, and success criteria for making web authoring tools accessible to people with disabilities and for supporting the production of accessible web content.
+  - User Agent Accessibility Guidelines (UAAG): provide principles, guidelines, and success criteria for making web browsers and other user agents accessible to people with disabilities and for supporting the use of accessible web content.
+  - Accessible Rich Internet Applications (WAI-ARIA): provide a framework for adding accessibility information to web content and applications that use dynamic and interactive features.
+  - Web Accessibility Initiative - Accessible Document Format (WAI-ADF): provide guidance and techniques for making documents in various formats, such as PDF, EPUB, and Office Open XML, accessible to people with disabilities.
+  - Web Accessibility Initiative - Pronunciation (WAI-Pronunciation): provide a mechanism for specifying the pronunciation of web content for speech synthesis and recognition.

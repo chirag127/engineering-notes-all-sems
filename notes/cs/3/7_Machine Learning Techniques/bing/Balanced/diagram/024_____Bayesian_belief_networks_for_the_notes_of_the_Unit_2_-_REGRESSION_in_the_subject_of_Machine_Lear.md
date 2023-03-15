@@ -1,0 +1,26 @@
+### Bayesian belief networks
+
+- Bayesian belief networks (BBNs) are graphical models that represent the joint probability distribution of a set of variables and their conditional dependencies via a directed acyclic graph (DAG) .
+- BBNs can capture the causal relationships among variables and support reasoning and inference under uncertainty .
+- BBNs can be used for classification, prediction, diagnosis, decision making, and knowledge discovery .
+- BBNs consist of two components: a structure and a set of parameters.
+  - The structure is a DAG where each node represents a variable and each edge represents a direct dependency between two variables.
+  - The parameters are the conditional probability tables (CPTs) that specify the probability of each variable given its parents in the DAG.
+- BBNs can be learned from data or expert knowledge, or a combination of both .
+- BBNs can be updated with new evidence using Bayes' rule, which calculates the posterior probability of a variable given the observed values of other variables .
+- BBNs can be used to answer various types of queries, such as:
+  - Marginal queries: What is the probability of a variable given no evidence?
+  - Conditional queries: What is the probability of a variable given some evidence?
+  - Intervention queries: What is the probability of a variable given an external action that changes the value of another variable?
+  - Explanation queries: What is the most likely explanation for a set of observed values?
+- BBNs have some advantages and limitations, such as:
+  - Advantages: 
+    - They can handle incomplete and noisy data.
+    - They can incorporate prior knowledge and domain expertise.
+    - They can provide intuitive and interpretable results.
+    - They can handle multiple types of variables (discrete, continuous, mixed).
+  - Limitations:
+    - They can be computationally expensive to learn and update.
+    - They can be sensitive to the choice of structure and parameters.
+    - They can be difficult to validate and verify.
+    - They can suffer from the curse of dimensionality when the number of variables is large.

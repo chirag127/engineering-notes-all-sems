@@ -1,0 +1,21 @@
+# Cohen Sutherland line clipping algorithm
+
+- Cohen Sutherland algorithm is a line clipping algorithm that cuts lines to portions which are within a rectangular area.
+- Line clipping is the process of removing lines or portions of lines outside an area of interest.
+- The area of interest is also called the clipping window or the viewport .
+- The algorithm divides a two-dimensional space into 9 regions and then efficiently determines the lines and portions of lines that are visible in the central region of interest (the viewport)  .
+- The algorithm can be outlined as follows:
+  - Nine regions are created, eight "outside" regions and one "inside" region.
+  - Each region is assigned a 4-bit code, called the outcode, based on its position relative to the clipping window.
+  - The outcode is computed by testing the endpoints of the line against the four boundaries of the clipping window.
+  - The outcode is 0000 for the inside region, and has a 1-bit for each boundary that the region is outside of. For example, the outcode for the top-left region is 1001, meaning it is outside the top and left boundaries.
+  - If both endpoints of the line have the same outcode, the line is trivially rejected, meaning it is entirely outside the clipping window.
+  - If both endpoints of the line have the outcode 0000, the line is trivially accepted, meaning it is entirely inside the clipping window.
+  - If the endpoints of the line have different outcodes, the line may be partially inside the clipping window, and needs to be clipped.
+  - To clip the line, the algorithm finds an intersection point between the line and one of the boundaries of the clipping window, using the parametric equation of the line.
+  - The intersection point replaces the endpoint that is outside the clipping window, and the outcode is recalculated for the new endpoint.
+  - The algorithm repeats until the line is either trivially accepted or trivially rejected.
+- Cohen Sutherland algorithm works only for rectangular clip window which means if the area of interest has any other shape than a rectangle, it will not work.
+- For area of interest with other shapes, we need to use other algorithms like Cyrus Beck algorithm and Sutherland Hodgman algorithm.
+- Cohen Sutherland algorithm is efficient because it quickly eliminates the lines that are outside the clipping window, and reduces the number of intersection calculations .
+- Cohen Sutherland algorithm is also easy to implement and understand.

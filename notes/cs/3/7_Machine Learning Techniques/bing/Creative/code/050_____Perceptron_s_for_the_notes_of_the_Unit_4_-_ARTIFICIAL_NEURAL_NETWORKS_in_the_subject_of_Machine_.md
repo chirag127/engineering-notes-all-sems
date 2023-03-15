@@ -1,0 +1,27 @@
+# Perceptrons
+
+- A perceptron is an algorithm for supervised learning of binary classifiers .
+- A binary classifier is a function that can decide whether an input, represented by a vector of numbers, belongs to some specific class.
+- A perceptron is also a single-layer neural network, which is the simplest possible neural network.
+- A neural network is a collection of artificial neurons that are interconnected and can process data in parallel.
+- An artificial neuron is a mathematical function that is modeled after a biological neuron .
+- A biological neuron is a cell that can receive and transmit electrical signals.
+- A perceptron consists of three main components  :
+  - An input layer, which receives the input vector and assigns a weight to each input value.
+  - A linear combination function, which computes the weighted sum of the input values and adds a bias term.
+  - An activation function, which applies a threshold to the linear combination and outputs either 0 or 1, representing the class prediction.
+- The perceptron learning algorithm is a procedure to update the weights and bias of the perceptron based on the training data  .
+- The algorithm works as follows  :
+  - Initialize the weights and bias to zero or small random values.
+  - For each training example, perform the following steps:
+    - Compute the output of the perceptron using the current weights and bias.
+    - Compare the output with the actual class label and compute the error.
+    - Update the weights and bias by adding or subtracting a fraction of the error multiplied by the input value.
+  - Repeat the above steps until the error is minimized or a maximum number of iterations is reached.
+- The perceptron learning algorithm can be applied in online or offline mode:
+  - In online mode, the weights and bias are updated after each training example.
+  - In offline mode, the weights and bias are updated after processing all the training examples in a batch.
+- The perceptron learning algorithm can converge to a solution if the training data is linearly separable, meaning that there exists a hyperplane that can separate the two classes  .
+- The perceptron learning algorithm cannot converge if the training data is not linearly separable, meaning that there is no hyperplane that can separate the two classes  .
+- The perceptron learning algorithm can be extended to handle multiple classes by using one perceptron for each class and applying a one-vs-all or one-vs-one strategy .
+- The perceptron learning algorithm can also be extended to handle nonlinearly separable data by using a kernel function that maps the input data to a higher-dimensional space where it becomes linearly separable .

@@ -1,0 +1,11 @@
+# NP-Completeness and Approximation Algorithms with Examples Such as Graph Coloring
+
+NP-Completeness is a concept in computational complexity theory that deals with the classification of computational problems. A problem is said to be NP-Complete if it is both in the class NP (Nondeterministic Polynomial time) and NP-Hard. This means that the problem can be solved in polynomial time by a nondeterministic algorithm, and that all problems in the class NP can be reduced to it in polynomial time.
+
+Approximation algorithms are algorithms used to find approximate solutions to optimization problems. These algorithms are often used when the problem is NP-Hard, meaning that finding an exact solution is computationally infeasible. Approximation algorithms provide a way to find a solution that is close to the optimal solution, within a guaranteed bound.
+
+One example of an NP-Complete problem is the Graph Coloring problem. In this problem, the goal is to assign colors to the vertices of a graph in such a way that no two adjacent vertices share the same color. The problem is to find the minimum number of colors required to color the graph. This problem is NP-Complete, meaning that there is no known polynomial-time algorithm to solve it exactly. However, there are approximation algorithms that can find a coloring that uses a small number of colors, within a guaranteed bound.
+
+Other examples of NP-Complete problems include the Travelling Salesman Problem, the n-Queen Problem, Hamiltonian Cycles, and the Sum of Subsets problem. These problems are all computationally difficult to solve exactly, but approximation algorithms can be used to find near-optimal solutions.
+
+In summary, NP-Completeness is a concept in computational complexity theory that classifies problems based on their computational difficulty. Approximation algorithms provide a way to find near-optimal solutions to difficult optimization problems, such as the Graph Coloring problem. Other examples of NP-Complete problems include the Travelling Salesman Problem, the n-Queen Problem, Hamiltonian Cycles, and the Sum of Subsets problem. These problems can be solved approximately using approximation algorithms.

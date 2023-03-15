@@ -1,0 +1,22 @@
+### Validation of Forms
+
+- Validation of forms is the process of checking the user input data against a set of rules or criteria before submitting it to the server.
+- Validation of forms can be done on the client side or the server side, or both.
+- Client side validation is done by using JavaScript code that runs in the browser and validates the data before sending it to the server.
+- Server side validation is done by using a server-side scripting language such as PHP, ASP, or JSP that receives the data from the client and validates it on the server.
+- The advantages of client side validation are:
+  - It provides immediate feedback to the user and improves the user experience.
+  - It reduces the network traffic and the server load by preventing invalid data from being sent to the server.
+  - It can prevent malicious attacks such as SQL injection or cross-site scripting by filtering the user input data.
+- The disadvantages of client side validation are:
+  - It depends on the browser support and the user settings. Some browsers may not support JavaScript or the user may disable it, which can bypass the validation.
+  - It can be easily tampered with by the user or a hacker using tools such as browser developer tools or proxy servers, which can modify the validation code or the data.
+  - It cannot validate the data against the database or other server resources, which may require additional validation on the server side.
+- The advantages of server side validation are:
+  - It is more secure and reliable, as it does not depend on the browser or the user settings. It can validate the data against the database or other server resources, which can prevent duplicate or inconsistent data.
+  - It can provide more complex and customized validation rules, such as regular expressions, date formats, or business logic, which may not be possible or efficient on the client side.
+- The disadvantages of server side validation are:
+  - It requires a round trip to the server, which can increase the network traffic and the server load, and delay the response time to the user.
+  - It does not provide immediate feedback to the user, which can affect the user experience and cause frustration or confusion.
+  - It may require additional code and resources on the server side, which can increase the complexity and the maintenance cost of the application.
+- The best practice is to use both client side and server side validation, as they complement each other and provide a better user experience and security. Client side validation can provide a quick and user-friendly feedback, while server side validation can provide a final and secure check.

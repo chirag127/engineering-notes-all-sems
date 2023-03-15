@@ -1,0 +1,23 @@
+### Align for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for **Cascading Style Sheets** and is used to **style and layout web pages** .
+- CSS is a **rule-based language** that allows you to define the **presentation** of a document written in HTML or XML.
+- CSS rules consist of **selectors** and **declarations**. Selectors are used to **target** the elements or groups of elements that you want to style. Declarations are used to **specify** the styles that you want to apply to the selected elements. Declarations are made of **properties** and **values**.
+- CSS rules can be written in different **places**:
+  - **Inline** - inside an HTML element, using the `style` attribute.
+  - **Internal** - inside the `<style>` element in the `<head>` section of an HTML document.
+  - **External** - in a separate file with the `.css` extension, linked to an HTML document using the `<link>` element.
+- CSS rules can also have different **sources**:
+  - **Author** - the styles defined by the creator of the web page.
+  - **User** - the styles defined by the user of the web page, such as the browser settings or preferences.
+  - **User agent** - the styles defined by the browser or device that displays the web page.
+- CSS rules can also have different **levels**:
+  - **CSS1** - the first version of CSS, released in 1996, that defined the basic features of the language.
+  - **CSS2** - the second version of CSS, released in 1998, that added more features and modules, such as positioning, media types, and pseudo-elements.
+  - **CSS3** - the current version of CSS, that is divided into many modules, each with its own specification and status, such as selectors, backgrounds, borders, animations, and transitions.
+- CSS rules are applied to the web page according to the **cascade**, which is a process that determines the **priority** and **specificity** of the rules. The cascade follows these steps:
+  - **Importance** - user agent declarations are the least important, followed by user declarations, followed by author declarations, followed by author `!important` declarations, followed by user `!important` declarations.
+  - **Specificity** - if two rules have the same importance, the one with the higher specificity wins. Specificity is calculated based on the number and type of selectors used in the rule.
+  - **Source order** - if two rules have the same importance and specificity, the one that comes later in the source wins.
+- CSS rules can be **inherited** or **not inherited** by the child elements of the selected element. Inherited properties are those that affect the **text** or **font** of the element, such as `color`, `font-family`, or `text-align`. Not inherited properties are those that affect the **box** or **layout** of the element, such as `width`, `height`, or `margin`.
+- CSS rules can also be **overridden** or **not overridden** by the child elements of the selected element. Overridden properties are those that can be **redefined** by the child elements, such as `color`, `font-family`, or `text-align`. Not overridden properties are those that **cannot be redefined** by the child elements, such as `display`, `position`, or `float`.

@@ -1,0 +1,12 @@
+### Serializability of schedules
+
+- A schedule is a sequence of operations performed by concurrent transactions on a shared database.
+- Serializability is a property of a schedule that ensures the consistency and correctness of the database state after the execution of the transactions.
+- A schedule is serializable if it produces the same effect on the database as some serial schedule, which is a schedule where transactions are executed one after another without any overlap in time.
+- There are different types of serializability, such as conflict serializability, view serializability, and cursor stability serializability, which have different criteria for determining the equivalence of schedules.
+- Conflict serializability is the most common type of serializability, which is based on the notion of conflict between operations. Two operations conflict if they access the same data item and at least one of them is a write operation. A schedule is conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations.
+- View serializability is a weaker type of serializability, which is based on the notion of view of the database. A view of the database is the set of values read and written by the transactions. A schedule is view serializable if it produces the same view of the database as some serial schedule.
+- Cursor stability serializability is a type of serializability that is specific to cursor-based transactions, which are transactions that use cursors to access records in the database. A cursor is a pointer that identifies the current record being accessed by a transaction. A schedule is cursor stability serializable if it preserves the cursor positions of the transactions in some serial schedule.
+
+- Serializability is important for ensuring the isolation and atomicity of transactions, which are two of the ACID properties of database systems. Isolation means that transactions do not interfere with each other's effects on the database, and atomicity means that transactions either commit or abort as a whole.
+- Serializability can be enforced by using concurrency control mechanisms, such as locking, timestamping, or validation, which prevent or resolve conflicts between transactions. Concurrency control mechanisms can also improve the performance and throughput of the database system by allowing more parallelism and less blocking of transactions.

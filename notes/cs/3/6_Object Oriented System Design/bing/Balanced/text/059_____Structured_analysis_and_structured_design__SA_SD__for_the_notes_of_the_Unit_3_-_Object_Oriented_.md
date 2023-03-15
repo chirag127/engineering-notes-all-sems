@@ -1,0 +1,9 @@
+### Structured analysis and structured design (SA/SD) for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Structured analysis and structured design (SA/SD) is a methodology for developing software systems based on functional decomposition and data flow diagrams.
+- SA/SD consists of four main phases: feasibility study, requirements analysis, logical design, and physical design.
+- Feasibility study: This phase determines the scope, objectives, costs, benefits, and risks of the proposed system. It also identifies the alternative solutions and recommends the best one.
+- Requirements analysis: This phase defines the functional and non-functional requirements of the system, such as inputs, outputs, processes, data, performance, security, etc. It also models the system using data flow diagrams (DFDs), which show the flow of data and control among the system components.
+- Logical design: This phase transforms the DFDs into a structured model of the system, using hierarchical charts, structure charts, data dictionaries, and entity-relationship diagrams (ERDs). It also specifies the algorithms and data structures for the system processes and data elements.
+- Physical design: This phase maps the logical design to the hardware and software environment of the system, such as the network, operating system, database, programming language, etc. It also defines the user interface, testing, and implementation plans for the system.
+- SA/SD is a top-down and modular approach that focuses on the functionality and data of the system, rather than the objects and interactions. It is suitable for well-defined and stable systems, but may not be able to handle complex and dynamic systems that require more flexibility and adaptability.

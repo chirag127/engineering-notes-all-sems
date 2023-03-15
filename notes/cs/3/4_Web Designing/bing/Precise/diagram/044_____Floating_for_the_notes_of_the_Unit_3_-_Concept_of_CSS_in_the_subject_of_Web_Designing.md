@@ -1,0 +1,10 @@
+### Floating
+- Floating is a CSS property that allows an element to be pushed to the left or right, allowing other elements to wrap around it.
+- The `float` property can have one of the following values: `left`, `right`, `none`, or `inherit`.
+- When an element is floated, it is taken out of the normal flow of the page and shifted to the left or right as far as possible.
+- Elements after the floated element will flow around it, filling the space next to it.
+- If there is not enough space for the floated element, it will be pushed down until there is enough space.
+- The `clear` property can be used to prevent elements from wrapping around a floated element. It can have one of the following values: `left`, `right`, `both`, or `none`.
+- The `clear` property specifies which sides of an element should not be adjacent to earlier floated elements.
+- Floating can be used to create multi-column layouts, align images with text, and more.
+- It is important to properly clear floats to prevent layout issues.

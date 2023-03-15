@@ -1,0 +1,22 @@
+### Physical packaging for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Physical packaging is the process of organizing the classes and objects identified in the object-oriented analysis phase into discrete units that can be edited, compiled, imported, or otherwise manipulated.
+- Physical packaging helps to manage the complexity and dependencies of the system, as well as to facilitate reuse and maintenance.
+- Physical packaging can be done at different levels of granularity, depending on the programming language and the design methodology used.
+- Some examples of physical packaging units are:
+  - Source files in C and Fortran
+  - Packages in Ada
+  - Modules in Modula-2
+  - Classes in Smalltalk and Java
+  - Namespaces in C++ and C#
+- Physical packaging units can be further grouped into larger units, such as:
+  - Libraries in C and C++
+  - Components in COM and CORBA
+  - Assemblies in .NET
+  - JAR files in Java
+- Physical packaging units should follow some principles, such as:
+  - High cohesion: the classes and objects within a unit should be closely related and have a clear purpose.
+  - Low coupling: the units should have minimal dependencies on other units and avoid unnecessary interactions.
+  - Information hiding: the units should expose only the necessary interfaces and hide the implementation details.
+  - Consistency: the units should follow a consistent naming and coding convention and adhere to the system architecture.
+  - Abstraction: the units should provide a high-level view of the system functionality and hide the low-level details.

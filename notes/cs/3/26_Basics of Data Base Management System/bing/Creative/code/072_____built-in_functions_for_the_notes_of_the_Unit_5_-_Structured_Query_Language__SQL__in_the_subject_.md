@@ -1,0 +1,15 @@
+# Built-in functions for the notes of the Unit 5 - Structured Query Language (SQL) in the subject of Basics of Data Base Management System
+
+- A built-in function is an expression in which an SQL keyword or special operator executes some operation.
+- Built-in functions use keywords that are case-insensitive and can be used anywhere expressions are allowed.
+- Built-in functions can be categorized into different types based on their functionality and input/output data types   .
+- Some of the common types of built-in functions are:
+
+  - **String functions**: These functions perform operations on string values, such as concatenation, extraction, searching, replacing, formatting, etc. Some examples of string functions are ASCII, CHAR, CHARINDEX, CONCAT, FORMAT, LEFT, LEN, LOWER, REPLACE, REVERSE, RIGHT, SUBSTRING, TRIM, UPPER, etc .
+  - **Numeric functions**: These functions perform mathematical calculations on numeric values, such as rounding, truncating, absolute value, logarithm, power, square root, etc. Some examples of numeric functions are ABS, CEILING, FLOOR, LOG, LOG10, PI, POWER, RAND, ROUND, SIGN, SQRT, etc .
+  - **Date and time functions**: These functions perform operations on date and time values, such as extracting, adding, subtracting, formatting, converting, etc. Some examples of date and time functions are CURRENT_TIMESTAMP, DATEADD, DATEDIFF, DATEFROMPARTS, DATEPART, DATENAME, DAY, GETDATE, GETUTCDATE, MONTH, YEAR, etc .
+  - **Conversion functions**: These functions convert values from one data type to another, such as binary, character, date, numeric, etc. Some examples of conversion functions are CAST, CONVERT, PARSE, TRY_CAST, TRY_CONVERT, TRY_PARSE, etc .
+  - **Aggregate functions**: These functions perform a calculation on a set of values and return a single value, such as sum, average, count, minimum, maximum, etc. They are often used with the GROUP BY clause to group the result set by one or more columns. Some examples of aggregate functions are AVG, COUNT, MAX, MIN, SUM, etc  .
+  - **Analytic functions**: These functions compute an aggregate value based on a group of rows, but unlike aggregate functions, they do not reduce the number of rows in the result set. They are often used with the OVER clause to specify the partitioning and ordering of the rows. Some examples of analytic functions are CUME_DIST, DENSE_RANK, FIRST_VALUE, LAG, LAST_VALUE, LEAD, NTILE, PERCENT_RANK, RANK, ROW_NUMBER, etc .
+  - **Bit manipulation functions**: These functions perform bitwise operations on binary values, such as AND, OR, XOR, NOT, shifting, etc. Some examples of bit manipulation functions are BITAND, BITOR, BITXOR, BITNOT, BITCOUNT, BIT_LENGTH, etc.
+  - **System functions**: These functions return information about the system, such as database name, user name, server name, version, etc. Some examples of system functions are DB_NAME, USER_NAME, @@SERVERNAME, @@VERSION, etc .

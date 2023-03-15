@@ -1,0 +1,13 @@
+### Alternative Approaches to Database Design
+
+- Database design is the process of defining the structure, organization, and relationships of data in a database.
+- Database design can be influenced by various factors, such as the requirements of the application, the characteristics of the data, the performance and scalability needs, and the preferences of the developers and users.
+- There are different approaches and techniques that can be used to design a database, depending on the context and the goals of the project. Some of the alternative approaches and advanced techniques are:
+
+  - **Domain Model from Use Cases**: This is an agile approach that focuses on identifying the main entities and relationships of the domain from the user stories and use cases, rather than using formal entity-relationship diagrams. This approach can help to capture the essential features and behaviors of the system, and to avoid over-engineering or under-engineering the database.
+
+  - **Normalization**: This is a technique that aims to reduce data redundancy and dependency by organizing the data into tables with well-defined attributes and keys. Normalization can help to improve data integrity, consistency, and efficiency, as well as to facilitate data manipulation and querying. Normalization involves applying a series of rules or normal forms to the tables, such as eliminating repeating groups, partial dependencies, and transitive dependencies.
+
+  - **NoSQL Databases**: These are databases that do not follow the relational model or use SQL as the query language. NoSQL databases can store data in different formats and structures, such as JSON documents, key-value pairs, graphs, or columns. NoSQL databases can offer advantages such as flexibility, scalability, and performance, especially for handling large and unstructured data sets. However, they may also have drawbacks such as lack of standardization, consistency, and security.
+
+  - **Application Development Tools**: These are tools that can help to create and manage databases without requiring extensive coding or technical skills. Application development tools can provide features such as data collection, analysis, visualization, and reporting, as well as user interface design, workflow automation, and collaboration. Some examples of application development tools are Office Reports, Second Prism, Databoard, DataMarket, and Q Research Software.

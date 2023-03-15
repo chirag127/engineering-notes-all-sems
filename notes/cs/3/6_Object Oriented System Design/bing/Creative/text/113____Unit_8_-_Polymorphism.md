@@ -1,0 +1,11 @@
+## Unit 8 - Polymorphism
+
+- Polymorphism is the ability of an object to take on different forms depending on the context or usage.
+- Polymorphism is one of the key concepts of object-oriented programming (OOP) and a powerful tool for designing and implementing software systems.
+- Polymorphism can be achieved in different ways, such as inheritance, interfaces, abstract classes, method overloading, method overriding, and dynamic binding.
+- Inheritance is a mechanism that allows a subclass to inherit the properties and behaviors of a superclass, and to add or modify them as needed. Inheritance enables polymorphism by allowing a subclass object to be treated as an instance of its superclass or any of its ancestors.
+- Interfaces are contracts that specify the methods that a class must implement, without providing any implementation details. Interfaces enable polymorphism by allowing a class to implement multiple interfaces and to be used interchangeably with any other class that implements the same interface.
+- Abstract classes are classes that cannot be instantiated, but can have abstract methods that must be overridden by subclasses. Abstract classes enable polymorphism by providing a common base class for subclasses that share some common behaviors, but differ in some details.
+- Method overloading is a technique that allows a class to have multiple methods with the same name, but different parameters. Method overloading enables polymorphism by allowing a method to perform different actions depending on the number and type of arguments passed to it.
+- Method overriding is a technique that allows a subclass to redefine a method inherited from a superclass, with the same name and parameters. Method overriding enables polymorphism by allowing a subclass to provide a more specific or different implementation of a method than its superclass.
+- Dynamic binding is a mechanism that determines which method to invoke at run time, based on the actual type of the object, rather than the declared type of the variable. Dynamic binding enables polymorphism by allowing a variable to refer to different types of objects and to invoke the appropriate method for each object.

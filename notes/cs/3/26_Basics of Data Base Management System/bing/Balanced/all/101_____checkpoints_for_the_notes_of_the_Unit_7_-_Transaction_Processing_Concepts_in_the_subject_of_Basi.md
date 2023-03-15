@@ -1,0 +1,37 @@
+# Checkpoints for the notes of the Unit 7 - Transaction Processing Concepts in the subject of Basics of Data Base Management System
+
+- A transaction is a logical unit of work that accesses and possibly modifies the contents of a database.
+- Transactions access data using read and write operations.
+- In order to maintain consistency of data, transactions must satisfy the ACID properties: Atomicity, Consistency, Isolation, and Durability.
+- Atomicity ensures that either all the operations of a transaction are reflected in the database or none are.
+- Consistency ensures that the database remains in a consistent state before and after the transaction.
+- Isolation ensures that the concurrent execution of transactions does not result in a loss of data consistency.
+- Durability ensures that the changes made by committed transactions persist in the database even in the event of failures.
+- A schedule is a chronological sequence of operations performed by transactions on the database.
+- A schedule is serial if the operations of each transaction are executed consecutively without any interleaving operations from other transactions.
+- A schedule is serializable if it is equivalent to some serial schedule, meaning that it produces the same final state of the database as the serial schedule.
+- A schedule is conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations, meaning that they access different data items or they are both read operations.
+- A schedule is view serializable if it is view equivalent to some serial schedule, meaning that it preserves the same initial and final values of each data item and the same set of transactions that read the initial value of each data item.
+- A schedule is recoverable if no transaction commits until all transactions whose changes it has read have committed.
+- A schedule is cascadeless if no transaction reads a data item until the last transaction that has written it has committed.
+- A schedule is strict if no transaction reads or writes a data item until the last transaction that has written it has committed.
+- A concurrency control protocol is a set of rules that govern how transactions access and modify data in the database concurrently.
+- The main goal of concurrency control is to ensure serializability and recoverability of schedules while maximizing the degree of concurrency.
+- Some common concurrency control protocols are: locking protocols, timestamp-based protocols, validation-based protocols, and multiversion protocols.
+- A locking protocol is a concurrency control protocol that uses locks to synchronize the access of transactions to data items in the database.
+- A lock is a variable associated with a data item that describes the status of the item with respect to possible operations that can be applied to it.
+- There are two types of locks: binary locks and shared/exclusive locks.
+- A binary lock can have two states: locked or unlocked. A transaction can access a data item only if it is unlocked and it must lock it before accessing it. A transaction must also unlock the data item after it finishes accessing it.
+- A shared/exclusive lock can have three states: unlocked, shared, or exclusive. A transaction can read a data item only if it is unlocked or shared and it must acquire a shared lock before reading it. A transaction can write a data item only if it is unlocked and it must acquire an exclusive lock before writing it. A transaction must also release the lock after it finishes accessing the data item.
+- A locking protocol is deadlock-free if it prevents the occurrence of deadlocks, which are situations where two or more transactions are waiting for locks held by each other and none of them can proceed.
+- A locking protocol is deadlock-preventable if it imposes some restrictions on how transactions can acquire locks so that at least one of the conditions for deadlock occurrence is violated.
+- A locking protocol is deadlock-detectable if it allows deadlocks to occur but provides a mechanism to detect them and abort some transactions to break the deadlock cycle.
+- A locking protocol is deadlock-avoidable if it uses some information about the future requests of transactions to decide whether granting a lock can potentially lead to a deadlock or not.
+- A timestamp-based protocol is a concurrency control protocol that uses timestamps to order the transactions and ensure serializability.
+- A timestamp is a unique identifier assigned to each transaction that reflects its start time or priority.
+- There are two types of timestamps: commit-timestamps and logical-timestamps.
+- A commit-timestamp is assigned to a transaction when it commits and reflects its actual commit time.
+- A logical-timestamp is assigned to a transaction when it starts and reflects its relative priority.
+- A timestamp-based protocol ensures that the conflicting operations of transactions are executed in the order of their timestamps.
+- A timestamp-based protocol is optimistic if it assumes that conflicts are rare and validates the transactions at commit time to ensure serializability.
+- A timestamp-based protocol is pessimistic if it checks for conflicts at the time of each operation and aborts the

@@ -1,0 +1,10 @@
+### Greedy Methods with Examples
+
+A greedy method is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. Greedy methods are often used to solve optimization problems, where the goal is to find the best solution according to a given criterion. Greedy methods are easy to implement and usually fast, but they may not always produce the optimal solution.
+
+Some examples of greedy methods are:
+
+- **Optimal Reliability Allocation**: This is a problem of allocating a given budget to improve the reliability of a system composed of several components. A greedy method would choose the component that has the highest ratio of reliability improvement to cost at each step, until the budget is exhausted or all components are improved.
+- **Knapsack Problem**: This is a problem of packing a set of items with different weights and values into a knapsack with a limited capacity. A greedy method would choose the item that has the highest value per unit weight at each step, until the knapsack is full or no more items are left.
+- **Minimum Spanning Tree**: This is a problem of finding a subset of edges in a weighted graph that connects all the vertices with the minimum total weight. A greedy method would choose the edge that has the lowest weight at each step, as long as it does not create a cycle in the tree.
+- **Single Source Shortest Paths**: This is a problem of finding the shortest paths from a given source vertex to all other vertices in a weighted graph. A greedy method would choose the vertex that has the lowest distance from the source at each step, and update the distances of its adjacent vertices accordingly. There are two famous greedy methods for this problem: Dijkstra's algorithm and Bellman-Ford algorithm.

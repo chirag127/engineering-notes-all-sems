@@ -1,0 +1,14 @@
+## Unit 3 - DECISION TREE LEARNING
+
+- Decision tree learning is a supervised machine learning technique that can be used for classification or regression problems.
+- A decision tree is a graphical representation of a hierarchical structure that partitions a data set into subsets based on a sequence of tests or rules applied to the features or attributes of the data.
+- Each node in the tree represents a test or a rule, each branch represents an outcome of the test or a rule, and each leaf represents a class label or a predicted value.
+- The goal of decision tree learning is to find the optimal tree that minimizes the error or maximizes the accuracy on the training data, while avoiding overfitting or underfitting on the test data.
+- Decision tree learning algorithms can be divided into two categories: top-down and bottom-up.
+- Top-down algorithms start from the root node and recursively split the data into smaller subsets based on the best test or rule at each node, until a stopping criterion is met. Examples of top-down algorithms are ID3, C4.5, and CART.
+- Bottom-up algorithms start from the leaf nodes and recursively merge the data into larger subsets based on the best test or rule at each node, until a stopping criterion is met. Examples of bottom-up algorithms are BID3 and OC1.
+- The quality of a test or a rule at a node can be measured by different criteria, such as information gain, gain ratio, gini index, or chi-square test.
+- Information gain measures the reduction in entropy or uncertainty of the class labels after applying a test or a rule. It is defined as the difference between the entropy of the parent node and the weighted average entropy of the child nodes.
+- Gain ratio is a modification of information gain that penalizes tests or rules that have many outcomes or branches. It is defined as the ratio of information gain to the intrinsic information of a test or a rule, which measures the amount of information needed to identify an outcome or a branch.
+- Gini index measures the impurity or diversity of the class labels in a subset of data. It is defined as the sum of the squared probabilities of each class label in the subset. A lower gini index means a higher purity or homogeneity of the class labels.
+- Chi-square test measures the statistical significance of the difference between the observed and the expected frequencies of the class labels in a subset of data. It is defined as the sum of the squared differences between the observed and the expected frequencies, divided by the expected frequencies. A higher chi-square value means a higher significance or confidence of the test or rule.

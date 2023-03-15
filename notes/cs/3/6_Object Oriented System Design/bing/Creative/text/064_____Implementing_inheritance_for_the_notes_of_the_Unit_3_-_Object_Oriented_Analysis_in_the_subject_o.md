@@ -1,0 +1,26 @@
+### Implementing inheritance for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Inheritance is the mechanism of basing an object or class upon another object or class, retaining similar implementation .
+- Inheritance enables you to create new classes that reuse, extend, and modify the behavior defined in other classes.
+- Inheritance is one of the three primary characteristics of object-oriented programming, along with encapsulation and polymorphism.
+- Inheritance provides code re-usability, as you can avoid writing the same code multiple times by inheriting the properties of one class into another.
+- Inheritance also supports the concept of hierarchical classification, as you can organize classes into a hierarchy of classes that share a set of attributes and methods.
+- Inheritance can be implemented in different ways depending on the programming language, such as class-based inheritance or prototype-based inheritance.
+- In class-based inheritance, a class is defined as a blueprint for creating objects, and a subclass can inherit the attributes and methods of a superclass .
+- In prototype-based inheritance, an object is created by cloning an existing object, and a child object can inherit the properties and behaviors of a parent object.
+- Inheritance can be represented using different notations in object oriented analysis, such as Unified Modeling Language (UML) diagrams or Entity-Relationship (ER) diagrams.
+- In UML diagrams, inheritance is shown using a solid line with a hollow triangle pointing to the superclass.
+- In ER diagrams, inheritance is shown using a dashed line with a circle and a triangle pointing to the superclass.
+- Inheritance can be applied to different types of classes, such as abstract classes, concrete classes, or interfaces .
+- An abstract class is a class that cannot be instantiated, but can be inherited by other classes. It defines the common behavior for its subclasses .
+- A concrete class is a class that can be instantiated and inherited. It implements the behavior defined by its superclass or interface .
+- An interface is a class that only defines the behavior for its subclasses, but does not provide any implementation. It can be inherited by multiple classes .
+- Inheritance can also be classified into different types, such as single inheritance, multiple inheritance, multilevel inheritance, hierarchical inheritance, or hybrid inheritance .
+- Single inheritance is when a subclass inherits from only one superclass .
+- Multiple inheritance is when a subclass inherits from more than one superclass .
+- Multilevel inheritance is when a subclass inherits from another subclass, forming a chain of inheritance .
+- Hierarchical inheritance is when more than one subclass inherits from the same superclass .
+- Hybrid inheritance is when a subclass inherits from a combination of the above types of inheritance .
+- Inheritance can have some advantages and disadvantages, depending on the context and the design of the system .
+- Some advantages of inheritance are: code re-usability, code maintainability, code extensibility, and code readability .
+- Some disadvantages of inheritance are: increased complexity, increased coupling, increased testing effort, and increased risk of errors .

@@ -1,0 +1,26 @@
+# Perception and Convergence Rule
+
+- The perceptron is a kind of a single-layer artificial neural network with only one neuron  .
+- The perceptron is a simplified model of the biological neurons in our brain.
+- The perceptron is the building block of artificial neural networks.
+- The perceptron can be used for binary classification tasks, such as determining whether an input belongs to one class or another.
+- The perceptron consists of the following components:
+  - A set of inputs, which can be real-valued or boolean.
+  - A set of weights, which are real-valued parameters that determine the influence of each input on the output.
+  - A bias, which is a real-valued parameter that shifts the output away from zero.
+  - A linear combination function, which computes the weighted sum of the inputs and the bias.
+  - A threshold activation function, which outputs 1 if the linear combination is greater than or equal to zero, and 0 otherwise.
+- The perceptron can be represented by the following equation:
+  - output = f(w1 * x1 + w2 * x2 + ... + wn * xn + b)
+  - where f is the threshold activation function, w1, w2, ..., wn are the weights, x1, x2, ..., xn are the inputs, and b is the bias.
+- The perceptron can be trained using the perceptron learning rule, which is an algorithm that updates the weights and the bias based on the error between the desired output and the actual output for each input  .
+- The perceptron learning rule can be expressed by the following formula:
+  - w_new = w_old + alpha * (y - y_hat) * x
+  - b_new = b_old + alpha * (y - y_hat)
+  - where w_new and b_new are the updated weights and bias, w_old and b_old are the old weights and bias, alpha is the learning rate, y is the desired output, y_hat is the actual output, and x is the input.
+- The perceptron learning rule can be applied iteratively until the perceptron converges to a solution, which means that it correctly classifies all the inputs, or until a maximum number of iterations is reached.
+- The perceptron convergence theorem states that for any data set which is linearly separable, the perceptron learning rule is guaranteed to find a solution in a finite number of steps  .
+- Linearly separable means that there exists a hyperplane that can separate the inputs into two classes without any errors .
+- The perceptron convergence theorem can be proved using mathematical induction and geometry .
+- The perceptron convergence theorem does not hold for data sets that are not linearly separable, in which case the perceptron learning rule will never converge to a solution and will oscillate indefinitely .
+- The perceptron can be extended to handle multiple classes, nonlinear functions, and multiple layers, resulting in more complex and powerful neural networks  .

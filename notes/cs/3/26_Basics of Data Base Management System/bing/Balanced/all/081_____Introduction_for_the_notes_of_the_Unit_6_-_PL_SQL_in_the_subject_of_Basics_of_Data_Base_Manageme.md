@@ -1,0 +1,7 @@
+# Introduction for the notes of the Unit 6 - PL/SQL in the subject of Basics of Data Base Management System
+
+- PL/SQL stands for Procedural Language/Structured Query Language. It is a programming language that extends SQL, the standard language for accessing and manipulating data in relational databases.
+- PL/SQL allows users to create stored procedures, functions, triggers, packages, and other program units that can be executed by the database server. PL/SQL also supports features such as variables, constants, data types, operators, expressions, control structures, loops, arrays, collections, cursors, exceptions, and records.
+- PL/SQL is designed to integrate seamlessly with SQL. Users can embed SQL statements in PL/SQL blocks, and use PL/SQL variables and parameters in SQL statements. PL/SQL also provides built-in functions and packages that can be used to manipulate data, perform calculations, handle errors, and interact with the database server.
+- PL/SQL is a compiled language. The database server compiles and stores PL/SQL program units in the database, where they can be executed by other applications or users. The compilation process checks the syntax and semantics of the PL/SQL code, and generates an executable form that can run efficiently on the database server.
+- PL/SQL is a portable language. It can run on any platform that supports Oracle Database, and it is compatible with different versions of Oracle Database. PL/SQL also follows the ANSI/ISO SQL standards, and can interoperate with other languages and technologies that use SQL.

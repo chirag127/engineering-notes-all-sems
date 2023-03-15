@@ -1,0 +1,43 @@
+### Indices for the notes of the Unit 6 - PL/SQL in the subject of Basics of Data Base Management System
+
+- Introduction to PL/SQL
+  - What is PL/SQL and why use it?
+  - Features and advantages of PL/SQL
+  - PL/SQL architecture and environment
+  - PL/SQL block structure and syntax
+  - PL/SQL data types and variables
+  - PL/SQL operators and expressions
+- PL/SQL Control Structures
+  - Conditional statements (IF, CASE)
+  - Looping statements (FOR, WHILE, LOOP, EXIT, CONTINUE)
+  - Sequential control statements (GOTO, NULL)
+- PL/SQL Cursors and Exceptions
+  - What are cursors and why use them?
+  - Types of cursors (implicit, explicit, parameterized, ref cursors)
+  - Cursor attributes and operations
+  - What are exceptions and why handle them?
+  - Types of exceptions (predefined, user-defined, unnamed)
+  - Exception propagation and scope
+  - Exception handlers and statements (RAISE, RAISE_APPLICATION_ERROR)
+- PL/SQL Subprograms
+  - What are subprograms and why use them?
+  - Types of subprograms (procedures, functions, packages)
+  - Subprogram parameters and modes (IN, OUT, IN OUT, NOCOPY)
+  - Subprogram overloading and resolution
+  - Subprogram invocation and execution
+  - Subprogram scope and visibility
+- PL/SQL Triggers
+  - What are triggers and why use them?
+  - Types of triggers (row, statement, DML, instead-of, system)
+  - Trigger attributes and operations
+  - Trigger restrictions and guidelines
+  - Trigger enabling and disabling
+  - Trigger mutating table error and solutions
+- PL/SQL Collections and Records
+  - What are collections and records and why use them?
+  - Types of collections (associative arrays, nested tables, varrays)
+  - Collection methods and operations
+  - Collection bulk binding and performance
+  - What are records and how to define them?
+  - Record operations and attributes
+  - Record comparison and assignment

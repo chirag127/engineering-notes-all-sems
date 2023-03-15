@@ -1,0 +1,14 @@
+### Dimension for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for Cascading Style Sheets, which is a language that describes how HTML elements are displayed on a web page.
+- CSS can be used to control the layout, colors, fonts, borders, backgrounds, and other aspects of the appearance of a web page.
+- CSS can be applied to HTML elements in three ways: inline, internal, and external.
+  - Inline CSS is written inside the `style` attribute of an HTML element, and affects only that element.
+  - Internal CSS is written inside the `<style>` tag in the `<head>` section of an HTML document, and affects all elements in that document.
+  - External CSS is written in a separate file with the `.css` extension, and is linked to an HTML document using the `<link>` tag in the `<head>` section. External CSS can affect multiple HTML documents that share the same style sheet.
+- CSS uses selectors to target specific HTML elements and apply styles to them. Selectors can be based on element names, classes, ids, attributes, pseudo-classes, pseudo-elements, or combinations of these.
+- CSS uses properties and values to define the styles for the selected elements. Properties are the aspects of the appearance that can be changed, such as `color`, `font-size`, `margin`, etc. Values are the specific settings for the properties, such as `red`, `16px`, `10px`, etc.
+- CSS follows a set of rules to determine which styles have priority over others, in case of conflicting styles. These rules are based on the specificity, inheritance, and cascade of the selectors and styles.
+  - Specificity is a measure of how precise a selector is, and how likely it is to override other selectors. Specificity is calculated based on the number and type of components in a selector, such as element names, classes, ids, etc. The more specific a selector is, the higher its priority.
+  - Inheritance is a mechanism that allows some properties to be passed down from parent elements to child elements, unless overridden by a more specific selector. For example, the `color` property is inherited by default, so if a parent element has a `color: red` style, its child elements will also have red text, unless they have a different `color` style applied to them.
+  - Cascade is the process of applying the styles in the order they are declared, from top to bottom, and from left to right. The cascade also takes into account the source and importance of the styles, such as inline, internal, external, user, or browser styles, and whether they have the `!important` keyword. The cascade resolves any conflicts that are not resolved by specificity or inheritance, by giving preference to the styles that are declared later, from a more authoritative source, or with more importance.

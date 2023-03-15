@@ -1,0 +1,36 @@
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notations.
+- The static structure of a system consists of the components that make up the system and their relationships.
+- The main components of a system are objects, classes, and subsystems.
+- An object is an instance of a class that has a state, behavior, and identity.
+- A class is a blueprint or template that defines the common attributes and methods of a group of objects.
+- A subsystem is a group of classes that collaborate to provide a specific functionality or service to the system.
+- The main relationships among components are association, aggregation, composition, generalization, and dependency.
+- An association is a structural relationship that specifies that objects of one class are connected to objects of another class.
+- An aggregation is a special form of association that represents a whole-part relationship between a container class and its parts.
+- A composition is a stronger form of aggregation that implies that the parts cannot exist without the container.
+- A generalization is a relationship that specifies that a class is a specialization or subclass of another class, and inherits its attributes and methods.
+- A dependency is a relationship that specifies that a change in one class may affect another class.
+- The main notations for basic structural modeling are class diagrams and object diagrams.
+- A class diagram is a graphical representation of the classes and their relationships in a system.
+- An object diagram is a graphical representation of the objects and their links in a system at a specific point in time.
+- A link is an instance of an association that connects two or more objects.
+- A class diagram consists of the following elements: class name, attributes, methods, visibility, multiplicity, role name, association name, and generalization and dependency arrows.
+- A class name is the name of the class enclosed in a rectangle.
+- An attribute is a property or characteristic of a class that describes its state.
+- A method is an operation or function that a class can perform.
+- The visibility of an attribute or method indicates whether it can be accessed by other classes or objects.
+- The visibility can be public (+), protected (#), private (-), or package (~).
+- The multiplicity of an association end specifies how many objects of one class can be related to one object of another class.
+- The role name of an association end specifies the role or purpose of the class in the association.
+- The association name is the name of the association that describes its meaning or semantics.
+- The generalization arrow is a solid line with a hollow triangle pointing to the superclass.
+- The dependency arrow is a dashed line with an open arrowhead pointing to the class that is depended upon.
+- An object diagram consists of the following elements: object name, attribute values, links, and link names.
+- An object name is the name of the object followed by a colon and the name of its class enclosed in a rectangle.
+- An attribute value is the value of an attribute of an object that describes its state at a specific point in time.
+- A link is a solid line that connects two or more objects.
+- A link name is the name of the link that describes its meaning or semantics.
+- Basic structural modeling is useful for understanding and designing the static aspects of a system, such as the data, the functionality, and the hierarchy of the components.
+- Basic structural modeling can also help to identify and eliminate inconsistencies, redundancies, and ambiguities in the system.

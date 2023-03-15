@@ -1,0 +1,22 @@
+### Tries
+
+- A trie is a tree-based data structure used for storing and retrieving collections of strings over an alphabet .
+- The word trie comes from the word re**trie**val, which means to find or get something back.
+- A trie is also called a digital tree or a prefix tree.
+- A trie is a type of k-ary search tree, where each node has k children, one for each character in the alphabet.
+- A trie can store any finite set of strings, such as words, phone numbers, URLs, etc.
+- A trie can perform the following operations efficiently:
+  - Insert: To add a new string to the trie, we start from the root and follow the path corresponding to the characters of the string. If the path does not exist, we create new nodes along the way. We mark the last node as the end of the string.
+  - Search: To search for a string in the trie, we start from the root and follow the path corresponding to the characters of the string. If the path exists and the last node is marked as the end of the string, we return true. Otherwise, we return false.
+  - Delete: To delete a string from the trie, we first search for it. If it is not present, we do nothing. If it is present, we unmark the last node as the end of the string. Then, we delete the nodes from the bottom up, until we reach a node that has more than one child or is marked as the end of another string.
+- A trie has the following advantages over a hash table:
+  - A trie can handle prefix queries, such as finding all the strings that start with a given prefix, efficiently .
+  - A trie can handle substring queries, such as finding all the strings that contain a given substring, efficiently .
+  - A trie can handle wildcard queries, such as finding all the strings that match a given pattern with some unknown characters, efficiently .
+  - A trie can handle approximate matching queries, such as finding all the strings that are within a given edit distance from a given string, efficiently .
+  - A trie can save space by sharing common prefixes among the strings .
+- A trie has the following disadvantages over a hash table:
+  - A trie can have a high memory overhead, especially if the alphabet is large and the strings are short .
+  - A trie can have a high traversal cost, especially if the strings are long and the trie is deep .
+  - A trie can have a high insertion and deletion cost, especially if the strings are long and the trie is deep .
+- A trie can be modified or optimized in various ways, such as using compression, hashing, arrays, bitmaps, etc., to improve its performance and reduce its space .

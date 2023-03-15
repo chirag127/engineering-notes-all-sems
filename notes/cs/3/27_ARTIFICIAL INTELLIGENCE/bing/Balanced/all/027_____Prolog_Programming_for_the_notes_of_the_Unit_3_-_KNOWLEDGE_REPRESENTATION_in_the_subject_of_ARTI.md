@@ -1,0 +1,21 @@
+# Prolog Programming for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Prolog is a **logic programming language** that has an important role in **artificial intelligence** .
+- Unlike many other programming languages, Prolog is intended primarily as a **declarative programming language**. In Prolog, logic is expressed as **relations** (called as **facts** and **rules**) .
+- Prolog is based on the idea of **resolution** and **unification**. Resolution is a method of **inference** that allows deriving new facts from existing facts and rules. Unification is a process of **matching** two terms by finding a substitution that makes them equal .
+- Prolog programs consist of a **database** of facts and rules, and a **query** that asks for a goal to be proved. Prolog tries to find a **proof** for the query by applying the rules and facts in the database .
+- Prolog supports **backtracking**, which means that it can try different alternatives until it finds a solution or fails. Backtracking allows Prolog to implement **search** and **planning** algorithms .
+- Prolog also supports **recursion**, which means that a rule can call itself or another rule. Recursion allows Prolog to express complex and hierarchical relations .
+- Prolog can be used for various applications of artificial intelligence, such as **natural language processing**, **expert systems**, **knowledge bases**, **ontologies**, **machine learning**, **logic puzzles**, and **games** .
+- Prolog is also used in **IBM Watson**, a system that can answer natural language questions by using a large knowledge base and various reasoning techniques .
+- Knowledge representation is the **heart** of the artificial intelligence enterprise. It is the process of **encoding** and **manipulating** knowledge in a way that can be used by a computer system .
+- Knowledge representation involves choosing a **scheme** or a **paradigm** that can capture the essential features of the domain of interest. Different schemes have different **advantages** and **limitations** .
+- Some of the major knowledge representation paradigms are  :
+  - **Logic-based**: using logic formulas to represent facts and rules, and using inference mechanisms to derive new knowledge. Examples are **first-order logic**, **description logic**, and **answer set programming**.
+  - **Frame-based**: using frames or structures to represent objects and their properties, and using inheritance and default reasoning to handle commonalities and exceptions. Examples are **semantic networks**, **conceptual graphs**, and **object-oriented systems**.
+  - **Rule-based**: using rules to represent conditional actions or implications, and using forward or backward chaining to apply the rules. Examples are **production systems**, **expert systems**, and **business rules**.
+  - **Network-based**: using nodes and links to represent concepts and their relations, and using spreading activation or path finding to access relevant knowledge. Examples are **neural networks**, **Bayesian networks**, and **Markov networks**.
+  - **Case-based**: using cases or examples to represent specific situations or problems, and using similarity or analogy to retrieve and adapt the cases. Examples are **case-based reasoning**, **instance-based learning**, and **analogical reasoning**.
+- Knowledge representation and reasoning systems are software tools that allow users to **define**, **store**, **query**, and **manipulate** knowledge in a specific paradigm. Examples are **Prolog**, **AILog**, **CLIPS**, **Protégé**, and **Cyc**  .
+- Prolog is a logic-based knowledge representation and reasoning system that uses **Horn clauses** to represent facts and rules, and uses **SLD resolution** to derive new knowledge .
+- AILog is a knowledge representation and reasoning system built on top of Prolog that uses **abductive logic programming** to represent facts, rules, and assumptions, and uses **abductive proof procedures** to derive explanations and solutions .

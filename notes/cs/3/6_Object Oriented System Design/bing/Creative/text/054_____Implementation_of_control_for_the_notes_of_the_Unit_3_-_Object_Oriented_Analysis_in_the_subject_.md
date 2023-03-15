@@ -1,0 +1,42 @@
+### Implementation of control for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object-oriented software engineering.
+- OOA introduces new concepts to investigate a problem, such as objects, classes, attributes, operations, associations, aggregation, composition, inheritance, dependency, multiplicity, polymorphism, encapsulation, interface, and package .
+- OOA is based on a set of basic principles, which are as follows:
+  - The information domain is modeled.
+  - Behavior is represented.
+  - The function is described.
+- OOA aims to identify the objects and their relationships in the problem domain, and to define the requirements and specifications for the system.
+- OOA can be performed using various methods and notations, such as Unified Modeling Language (UML), Object Modeling Technique (OMT), Object-Oriented Software Engineering (OOSE), and Object-Oriented Systems Analysis (OOSA) .
+- OOA can be divided into three phases:
+  - Find and define the objects.
+  - Organize the objects.
+  - Describe how the objects interact with one another.
+- OOA can also be divided into three models:
+  - Object model: describes the static structure and properties of the objects.
+  - Dynamic model: describes the behavior and interactions of the objects.
+  - Functional model: describes the functionality and data flow of the system.
+- OOA is followed by Object Oriented Design (OOD), which is the process of designing the system architecture, components, interfaces, and data structures using the results of OOA .
+- OOD aims to create a system that is modular, reusable, maintainable, and extensible.
+- OOD can be performed using various methods and notations, such as UML, OMT, OOSE, and OOSA .
+- OOD can be divided into two phases:
+  - Define the external behavior of the objects.
+  - Define the internal behavior of the objects.
+- OOD can also be divided into three models:
+  - Design model: describes the system architecture and components.
+  - Implementation model: describes the code structure and modules.
+  - Deployment model: describes the physical configuration and distribution of the system.
+- OOD is followed by Object Oriented Programming (OOP), which is the process of implementing the system design using a programming language that supports object-oriented concepts .
+- OOP aims to create a system that is executable, testable, and reliable.
+- OOP can be performed using various languages, such as Java, C++, Python, Ruby, and Smalltalk .
+- OOP can be divided into three activities:
+  - Coding: writing the source code for the system components.
+  - Testing: verifying the correctness and quality of the system components.
+  - Debugging: finding and fixing the errors and defects in the system components.
+- OOP is followed by Object Oriented Maintenance (OOM), which is the process of modifying and updating the system after its deployment.
+- OOM aims to keep the system functional, efficient, and adaptable to changing requirements and environments.
+- OOM can be performed using various tools and techniques, such as refactoring, reengineering, reverse engineering, and documentation.
+- OOM can be divided into three types:
+  - Corrective maintenance: fixing the faults and bugs in the system.
+  - Adaptive maintenance: adapting the system to new requirements and environments.
+  - Perfective maintenance: improving the performance and usability of the system.

@@ -1,0 +1,11 @@
+# Features of PL/SQL
+
+PL/SQL is a procedural extension of SQL that allows developers to write efficient and compact code for manipulating data in a database. Some of the features of PL/SQL are:
+
+- **Tight integration with SQL**: PL/SQL can use any SQL statement, such as SELECT, INSERT, UPDATE, DELETE, MERGE, etc., within its code. PL/SQL also supports SQL data types, operators, functions, and expressions.
+- **Extensive error checking**: PL/SQL can handle errors and exceptions using predefined and user-defined handlers. PL/SQL also provides debugging tools and features, such as breakpoints, watches, and tracebacks.
+- **Numerous data types**: PL/SQL supports scalar, composite, reference, and large object (LOB) data types. Scalar data types include numbers, characters, booleans, dates, intervals, etc. Composite data types include records, collections, and object types. Reference data types include pointers, cursors, and REFs. LOB data types include BLOB, CLOB, NCLOB, and BFILE.
+- **Variety of programming structures**: PL/SQL supports conditional, iterative, and sequential control structures, such as IF-THEN-ELSE, CASE, LOOP, FOR, WHILE, EXIT, CONTINUE, GOTO, etc. PL/SQL also supports subprograms, such as procedures, functions, packages, triggers, and types.
+- **Structured programming**: PL/SQL supports modular and reusable code through subprograms, packages, and types. Subprograms are blocks of code that can be invoked from other subprograms or SQL statements. Packages are collections of related subprograms and variables. Types are user-defined data types that can have attributes and methods.
+- **Object-oriented programming**: PL/SQL supports object-oriented features, such as inheritance, polymorphism, encapsulation, and abstraction. Types can be defined as subtypes of other types, and can override or overload methods. Types can also have constructors, destructors, and static methods.
+- **Web application development**: PL/SQL can be used to create dynamic web pages and server pages using PL/SQL Server Pages (PSP) and PL/SQL Web Toolkit. PSP allows embedding PL/SQL code within HTML tags, and PL/SQL Web Toolkit provides APIs for generating HTML, XML, JSON, etc. PL/SQL can also interact with web services using SOAP and REST protocols.

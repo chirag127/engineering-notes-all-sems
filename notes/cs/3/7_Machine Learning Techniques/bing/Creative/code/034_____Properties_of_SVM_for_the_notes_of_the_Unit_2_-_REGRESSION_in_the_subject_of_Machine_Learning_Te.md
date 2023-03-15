@@ -1,0 +1,9 @@
+### Properties of SVM
+
+Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification and regression problems. It tries to find a hyperplane that separates the data points of different classes with maximum margin . Some of the properties of SVM are:
+
+- **Duality**: SVM uses the concept of duality to transform the original optimization problem into a dual problem that is easier to solve. The dual problem involves only the inner products of the data points, which can be replaced by kernel functions to handle nonlinear data.
+- **Kernels**: SVM can use different kernel functions to map the data points into a higher-dimensional feature space, where a linear hyperplane can be found. Some common kernel functions are linear, polynomial, radial basis function (RBF), and sigmoid .
+- **Margin**: SVM tries to maximize the margin, which is the distance between the hyperplane and the closest data points of each class. The data points that lie on the margin are called support vectors, and they determine the optimal hyperplane. SVM is robust to outliers, as it ignores the data points that cross the margin and adds a penalty to the objective function .
+- **Convexity**: SVM solves a convex optimization problem, which means that there is a unique global optimum and no local optima. This makes SVM more reliable and stable than other algorithms that may get stuck in local optima.
+- **Sparseness**: SVM uses only a subset of the training data points (the support vectors) to define the decision boundary, which makes it memory-efficient and fast to predict. The number of support vectors is usually much smaller than the total number of data points.

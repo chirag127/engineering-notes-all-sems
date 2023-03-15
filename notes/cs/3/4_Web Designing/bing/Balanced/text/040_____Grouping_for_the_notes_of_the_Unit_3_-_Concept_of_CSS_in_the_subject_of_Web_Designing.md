@@ -1,0 +1,20 @@
+### Grouping for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for Cascading Style Sheets. It is a language that defines how HTML elements are displayed on a web page.
+- CSS can be applied to HTML elements in three ways: inline, internal, and external.
+  - Inline CSS is written inside the style attribute of an HTML element. It affects only that element and has the highest priority.
+  - Internal CSS is written inside the style element in the head section of an HTML document. It affects all the elements in that document and has the second highest priority.
+  - External CSS is written in a separate file with the .css extension and linked to an HTML document using the link element in the head section. It affects all the elements in the linked document and has the lowest priority.
+- CSS uses selectors to target HTML elements and apply styles to them. There are different types of selectors, such as element, class, id, attribute, pseudo-class, and pseudo-element selectors.
+  - Element selectors match HTML elements by their tag name, such as p, h1, div, etc.
+  - Class selectors match HTML elements by their class attribute value, such as .red, .big, .center, etc. They are preceded by a dot (.).
+  - Id selectors match HTML elements by their id attribute value, such as #header, #footer, #main, etc. They are preceded by a hash (#).
+  - Attribute selectors match HTML elements by their attribute name or value, such as [href], [src="logo.png"], [type="text"], etc. They are enclosed in square brackets ([]).
+  - Pseudo-class selectors match HTML elements based on their state or position, such as :hover, :active, :first-child, :nth-child, etc. They are preceded by a colon (:).
+  - Pseudo-element selectors match parts of HTML elements, such as ::before, ::after, ::first-line, ::first-letter, etc. They are preceded by two colons (::).
+- CSS uses properties and values to define the style of HTML elements. Properties are the aspects of the elements that can be styled, such as color, font-size, margin, border, etc. Values are the specific settings for the properties, such as red, 20px, 10px, solid, etc.
+- CSS uses rules to group selectors and declarations. A rule consists of a selector and a declaration block. A declaration block contains one or more declarations, each consisting of a property and a value, separated by a colon and ending with a semicolon. A rule is enclosed in curly braces ({}).
+- CSS follows the cascading order to resolve conflicts between multiple rules that apply to the same element. The cascading order is based on the following factors: specificity, importance, and source order.
+  - Specificity is a measure of how specific a selector is. A more specific selector has a higher priority than a less specific one. The specificity of a selector is calculated based on the number of id, class, attribute, and element components it contains. An inline style has the highest specificity, followed by id, class, attribute, and element selectors. Pseudo-class and pseudo-element selectors are counted as class and element selectors respectively. The universal selector (*) has the lowest specificity and matches any element.
+  - Importance is a way of overriding the specificity of a selector by using the !important keyword after a value. A declaration with !important has the highest priority, regardless of the specificity of the selector. However, if multiple declarations have !important, the specificity of the selector is used to determine the priority.
+  - Source order is the order in which the rules appear in the source code. A rule that appears later in the source code has a higher priority than a rule that appears earlier, if they have the same specificity and importance. However, external style sheets have a lower priority than internal and inline style sheets, regardless of the source order.

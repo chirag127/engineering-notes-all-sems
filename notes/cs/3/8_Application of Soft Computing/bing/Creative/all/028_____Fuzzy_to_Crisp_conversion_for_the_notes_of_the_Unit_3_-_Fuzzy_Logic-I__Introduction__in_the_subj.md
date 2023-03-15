@@ -1,0 +1,12 @@
+# Fuzzy to Crisp Conversion
+
+- Fuzzy to crisp conversion, also known as **defuzzification**, is the process of transforming a fuzzy set into a single crisp value that represents the best decision or action based on the fuzzy set .
+- Fuzzy to crisp conversion is necessary because some applications require a precise output that can be understood and executed by a controller, such as a motor, a valve, or a switch .
+- Fuzzy to crisp conversion can be done by various methods, each with its own advantages and disadvantages. Some of the common methods are  :
+  - **Center of gravity (COG)**: This method calculates the weighted average of the numeric values corresponding to the membership degrees of the fuzzy set. It is the most popular and widely used method, as it produces a balanced and smooth output. However, it can be computationally expensive and sensitive to outliers.
+  - **Mean of maxima (MOM)**: This method calculates the average of the numeric values that have the maximum membership degree in the fuzzy set. It is simple and fast, but it can produce multiple or discontinuous outputs if there are more than one maxima in the fuzzy set.
+  - **Leftmost maximum (LM)**: This method selects the smallest numeric value that has the maximum membership degree in the fuzzy set. It is also simple and fast, but it can produce a biased output that favors the left side of the fuzzy set.
+  - **Rightmost maximum (RM)**: This method selects the largest numeric value that has the maximum membership degree in the fuzzy set. It is similar to the LM method, but it favors the right side of the fuzzy set.
+  - **Bisector of area (BOA)**: This method finds the numeric value that divides the area under the membership function of the fuzzy set into two equal parts. It is a fair and symmetric method, but it can be difficult to calculate and may not exist for some fuzzy sets.
+  - **Smallest of maximum (SOM)**: This method selects the smallest numeric value that has a membership degree equal to or greater than a specified threshold in the fuzzy set. It is a conservative and cautious method, but it can produce a very low output that may not reflect the true intention of the fuzzy set.
+  - **Largest of maximum (LOM)**: This method selects the largest numeric value that has a membership degree equal to or greater than a specified threshold in the fuzzy set. It is an optimistic and aggressive method, but it can produce a very high output that may not reflect the true intention of the fuzzy set.

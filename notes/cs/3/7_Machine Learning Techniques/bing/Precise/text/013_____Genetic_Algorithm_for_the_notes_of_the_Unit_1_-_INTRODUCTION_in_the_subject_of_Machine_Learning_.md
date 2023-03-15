@@ -1,0 +1,7 @@
+### Genetic Algorithm
+
+Genetic Algorithms are heuristic search and optimization techniques that mimic the process of natural evolution. They are local search techniques used to find approximate solutions to optimization and search problems. Genetic Algorithms are efficient and effective techniques for both optimization and machine learning applications .
+
+- **Introduction:** A genetic algorithm is a search-based algorithm used for solving optimization problems in machine learning. This algorithm is important because it solves difficult problems that would take a long time to solve .
+- **Definition:** A genetic algorithm (GA) is a heuristic search algorithm used to solve search and optimization problems. This algorithm is a subset of evolutionary algorithms, which are used in computation. Genetic algorithms employ the concept of genetics and natural selection to provide solutions to problems .
+- **Usage:** Genetic Algorithm (GA) is a search-based optimization technique based on the principles of Genetics and Natural Selection. It is frequently used to find optimal or near-optimal solutions to difficult problems which otherwise would take a lifetime to solve. It is frequently used to solve optimization problems, in research, and in machine learning .

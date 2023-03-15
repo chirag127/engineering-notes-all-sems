@@ -1,0 +1,10 @@
+### Properties of Transaction for the notes of the Unit 7 - Transaction Processing Concepts in the subject of Basics of Data Base Management System
+
+A transaction is a logical unit of work that accesses and possibly modifies the data in a database. A transaction must maintain the following properties, collectively known as ACID  :
+
+- **Atomicity**: This property ensures that either all the operations of a transaction are executed successfully, or none of them are. A transaction is an indivisible entity that cannot be partially completed. If any operation fails, the entire transaction is aborted and the database is restored to its previous consistent state    .
+- **Consistency**: This property ensures that a transaction preserves the integrity constraints and business rules of the database. A transaction must transform the database from one valid state to another, without violating any consistency rules. For example, if a transaction transfers money from one account to another, the total balance of both accounts must remain the same before and after the transaction    .
+- **Isolation**: This property ensures that a transaction is executed independently of other concurrent transactions. A transaction should not be affected by the intermediate results or actions of other transactions. Each transaction should operate as if it is the only transaction in the system. The degree of isolation can vary depending on the concurrency control protocol used by the database management system    .
+- **Durability**: This property ensures that the effects of a committed transaction are permanent and persist even in the case of system failures. A transaction that has completed successfully should not be lost or undone by any erroneous operation or system crash. The recovery subsystem of the database management system is responsible for ensuring the durability of transactions    .
+
+These properties are essential for ensuring the correctness and reliability of transactions and the database system.

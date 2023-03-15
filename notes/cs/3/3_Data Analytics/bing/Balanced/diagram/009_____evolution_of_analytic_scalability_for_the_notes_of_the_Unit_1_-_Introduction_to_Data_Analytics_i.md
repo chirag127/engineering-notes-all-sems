@@ -1,0 +1,12 @@
+### Evolution of Analytic Scalability
+
+- Analytic scalability refers to the ability to handle large and complex data sets for analysis purposes.
+- It involves pulling the data together in a separate analytics environment and then performing analysis, such as merging, filtering, aggregating, modeling, and visualizing the data.
+- Analytic scalability has evolved over time due to the increasing volume, variety, and velocity of data, as well as the growing demand for advanced analytics.
+- Some of the key paradigms that have enabled greater analytic scalability are:
+
+  - **Convergence of the analytic and data environments**: This means integrating the analytics capabilities into the data storage and processing systems, such as databases, data warehouses, and data lakes. This reduces the need for moving and copying data across different systems, and allows for faster and more efficient analysis.
+  - **Massively parallel processing (MPP) architectures**: These are systems that use multiple processors or nodes to perform tasks in parallel, such as querying, loading, and analyzing data. MPP architectures can scale up to handle large and complex data sets by adding more nodes or processors, and can distribute the workload across them.
+  - **Cloud computing**: This is a model of delivering computing resources, such as servers, storage, networks, and software, over the internet, on demand, and as a service. Cloud computing offers scalability, flexibility, and cost-effectiveness for analytics, as it allows for accessing and analyzing data from anywhere, anytime, and with any device, and for paying only for the resources used.
+  - **Grid computing**: This is a form of distributed computing that uses a network of computers or devices to share resources and perform tasks. Grid computing can leverage the idle or underutilized resources of multiple computers or devices, such as CPUs, memory, disk space, and bandwidth, to perform large-scale and complex analytics.
+  - **MapReduce**: This is a programming model and an associated implementation for processing and generating large data sets. MapReduce consists of two phases: map and reduce. The map phase applies a function to each input data element and produces a set of intermediate key-value pairs. The reduce phase combines the intermediate values associated with the same key and produces a set of output values. MapReduce can parallelize and distribute the computation across multiple nodes or clusters, and can handle large and unstructured data sets.

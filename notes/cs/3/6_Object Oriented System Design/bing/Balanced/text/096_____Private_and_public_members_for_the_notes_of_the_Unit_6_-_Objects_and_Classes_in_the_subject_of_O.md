@@ -1,0 +1,8 @@
+### Private and public members
+
+- In object-oriented system design, classes contain properties and methods that define the state and behavior of the objects of that class.
+- Private and public members are two types of access modifiers that specify the access restriction to the class members from other classes or other components of the system.
+- A public member is visible from anywhere in the system. It can be accessed by any object or class that has a reference to the class that contains the public member. A public member is prefixed by the symbol `+` in a class diagram .
+- A private member is visible only from within the class. It cannot be accessed from outside the class. A private member is prefixed by the symbol `-` in a class diagram .
+- The purpose of using private and public members is to achieve data hiding and encapsulation, which are important features of object-oriented programming. Data hiding prevents the functions of a program to access directly the internal representation of a class type. Encapsulation binds the data and the methods that operate on the data together in a single unit .
+- The general principle of designing classes is to make the members as private as possible, and only expose the public members that are necessary for the interaction with other classes. This way, the class can maintain its integrity and consistency, and avoid unwanted side effects or errors.

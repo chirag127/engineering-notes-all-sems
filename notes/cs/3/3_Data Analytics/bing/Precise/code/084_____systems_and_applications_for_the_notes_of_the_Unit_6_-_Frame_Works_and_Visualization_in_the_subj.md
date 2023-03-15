@@ -1,0 +1,7 @@
+### Unit 6 - Frame Works and Visualization in Data Analytics: Systems and Applications
+
+1. **Data visualization frameworks** are software libraries or packages that provide pre-built components and tools for creating visual representations of data. Some popular frameworks include D3.js, Chart.js, and Highcharts.
+2. **Data visualization applications** are software programs that allow users to create and customize visualizations without the need for coding. Some popular applications include Tableau, QlikView, and Microsoft Power BI.
+3. **Data visualization systems** refer to the combination of hardware, software, and processes used to collect, store, analyze, and present data in a visual format. These systems can range from simple desktop applications to complex enterprise-level solutions.
+4. **Data visualization** is an important tool in data analytics as it allows analysts to quickly identify patterns, trends, and relationships in large datasets. By presenting data in a visual format, analysts can more easily communicate their findings to stakeholders and decision-makers.
+5. **Choosing the right framework or application** for data visualization depends on several factors, including the type of data being analyzed, the intended audience, and the desired level of customization. It is important to carefully evaluate the available options to find the best fit for the specific needs of the project.

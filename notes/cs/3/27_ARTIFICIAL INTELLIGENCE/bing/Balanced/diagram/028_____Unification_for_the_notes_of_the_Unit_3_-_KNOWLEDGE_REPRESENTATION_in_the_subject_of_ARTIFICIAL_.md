@@ -1,0 +1,32 @@
+### Unification
+
+- Unification is the process of combining multiple representations of information into a single, more comprehensive representation .
+- Unification is done in order to reduce the complexity of the overall representation, and to make it easier to manipulate and reason about the information .
+- Unification is an inherent part of algorithms used in artificial intelligence, natural language programming, pattern detection, and algorithms for automating other tasks.
+- Unification is a key component of all first-order inference algorithms.
+- Unification can be seen as a way of finding a common ground between different expressions or sentences.
+- Unification can also be seen as a way of finding a generalization or abstraction of specific instances or examples.
+- Unification can be performed by using a UNIFY algorithm, which takes two atomic sentences and returns a unifier for those sentences.
+- A unifier is a substitution that makes the two sentences identical.
+- A unifier may not exist, in which case the UNIFY algorithm returns fail.
+- A unifier may not be unique, in which case the UNIFY algorithm returns the most general unifier (MGU), which is the one that makes the least assumptions.
+- A unifier may be partial, in which case the UNIFY algorithm returns a set of variable bindings that can be extended to a complete unifier.
+- A unifier may be inconsistent, in which case the UNIFY algorithm returns a contradiction, such as x = 1 and x = 2.
+- Unification can be used to perform resolution, which is the process of breaking down a problem into smaller, more manageable pieces.
+- Resolution can be used to prove theorems, answer queries, and derive new facts from existing facts.
+- Resolution can be performed by using a RESOLVE algorithm, which takes two clauses and returns a resolvent for those clauses.
+- A clause is a disjunction of literals, where a literal is an atomic sentence or its negation.
+- A resolvent is a new clause that is logically implied by the two original clauses.
+- A resolvent may not exist, in which case the RESOLVE algorithm returns fail.
+- A resolvent may not be unique, in which case the RESOLVE algorithm returns the most general resolvent (MGR), which is the one that makes the least assumptions.
+- A resolvent may be empty, in which case the RESOLVE algorithm returns the empty clause, which represents a contradiction.
+- A resolvent may be trivial, in which case the RESOLVE algorithm returns a tautology, such as A or not A.
+- Resolution can be used to perform refutation, which is the process of proving a goal by showing that its negation leads to a contradiction.
+- Refutation can be performed by using a REFUTE algorithm, which takes a goal and a knowledge base and returns a proof for the goal.
+- A goal is a sentence that we want to prove or disprove.
+- A knowledge base is a set of sentences that represent our background knowledge.
+- A proof is a sequence of clauses that starts with the negation of the goal and ends with the empty clause.
+- A proof may not exist, in which case the REFUTE algorithm returns fail.
+- A proof may not be unique, in which case the REFUTE algorithm returns the shortest proof, which is the one that uses the least number of clauses.
+- A proof may be incomplete, in which case the REFUTE algorithm returns a partial proof, which is a sequence of clauses that can be extended to a complete proof.
+- A proof may be inconsistent, in which case the REFUTE algorithm returns a contradiction, such as the empty clause.

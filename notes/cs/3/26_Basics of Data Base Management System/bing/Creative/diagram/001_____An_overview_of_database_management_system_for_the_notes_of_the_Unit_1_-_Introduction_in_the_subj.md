@@ -1,0 +1,8 @@
+### An overview of database management system
+
+- A database management system (DBMS) is a software system that manages databases, which are collections of data that are organized and structured in a way that facilitates efficient storage, retrieval, modification, and analysis of the data  .
+- A DBMS provides an interface for users and applications to perform various operations on the data, such as creating, reading, updating, and deleting records, as well as querying, sorting, filtering, and aggregating data  .
+- A DBMS also provides protection and security to the data, ensuring that only authorized users can access and manipulate the data, and that the data is consistent, accurate, and reliable  .
+- A DBMS consists of multiple components, such as a storage engine, a query processor, a transaction manager, a metadata manager, and a user interface. These components work together to deliver a consistent, managed, and optimized environment for data management.
+- A DBMS can be classified into different types based on various criteria, such as the data model, the architecture, the distribution, and the usage . Some common types of DBMS are relational, hierarchical, network, object-oriented, document, graph, and NoSQL .
+- A DBMS is a vital component of many applications and systems that rely on data for their functionality, such as business, education, health, science, engineering, and government. A DBMS enables users to store, access, and analyze large amounts of data efficiently and effectively.

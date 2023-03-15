@@ -1,0 +1,19 @@
+## Experiment 11 - Perform a case study about the different routing algorithms to select the network path with its optimum and economical during data transfer
+
+- Routing algorithms are methods that help routers decide the best path for delivering packets to their destination in a network.
+- Routing algorithms consider various parameters such as packet communication cost, delay, bandwidth, throughput, maximum transmission unit time delay, and hop count.
+- Routing protocols are sets of rules that implement routing algorithms and exchange routing information among routers. Some examples of routing protocols are RIP, IGRP, OSPF, EGP, and BGP.
+- Routing optimization is the process of finding the most efficient and cost-effective path for data transfer in a network, considering factors such as network topology, traffic load, congestion, link failures, and security policies.
+- Routing optimization can be achieved by using different techniques, such as heuristic algorithms, metaheuristic algorithms, mathematical programming, and swarm intelligence.
+- Heuristic algorithms are simple and fast methods that find a near-optimal solution based on some rules of thumb or intuition. They do not guarantee optimality or completeness. Some examples of heuristic algorithms are Dijkstra's algorithm, Bellman-Ford algorithm, and A* algorithm.
+- Metaheuristic algorithms are advanced methods that use stochastic processes to explore a large search space and find a global optimal or near-optimal solution. They can escape from local optima and handle complex problems. Some examples of metaheuristic algorithms are genetic algorithm, simulated annealing, tabu search, and ant colony optimization.
+- Mathematical programming is a method that formulates the routing optimization problem as a mathematical model, such as linear programming, integer programming, or nonlinear programming, and solves it using exact or approximate algorithms. It can guarantee optimality and feasibility, but it may be computationally expensive and difficult to model.
+- Swarm intelligence is a method that mimics the collective behavior of natural or artificial systems, such as ants, bees, birds, or bacteria, to find a optimal or near-optimal solution. It can adapt to dynamic environments and handle multiple objectives. Some examples of swarm intelligence algorithms are particle swarm optimization, firefly algorithm, artificial bee colony, and bacterial foraging optimization .
+- A case study is a detailed and in-depth analysis of a real-world problem or situation, using empirical data and evidence. It can provide insights, solutions, and recommendations for the problem or situation.
+- A case study about the different routing algorithms to select the network path with its optimum and economical during data transfer can be conducted by following these steps:
+
+  - Define the problem or situation, such as the network topology, the traffic demand, the performance metrics, and the optimization objectives.
+  - Select the routing algorithms to be compared, such as heuristic, metaheuristic, mathematical programming, or swarm intelligence algorithms, and explain their advantages and disadvantages.
+  - Implement the routing algorithms using a programming language, a simulation tool, or a network emulator, and test their functionality and correctness.
+  - Collect and analyze the data from the routing algorithms, such as the path length, the path cost, the path delay, the path reliability, and the path security, and compare them using statistical methods and graphical tools.
+  - Evaluate the results and draw conclusions, such as which routing algorithm performs better, why, and under what conditions, and provide recommendations for improvement or future work.

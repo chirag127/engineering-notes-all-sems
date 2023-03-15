@@ -1,0 +1,12 @@
+### Concepts of SEO for the notes of the Unit 5 - Web Hosting in the subject of Web Designing
+
+1. **SEO** stands for **Search Engine Optimization**. It is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
+2. **Organic search results** are the listings on search engine results pages that appear because of their relevance to the search terms, as opposed to their being advertisements.
+3. **On-page SEO** refers to the practice of optimizing individual web pages in order to rank higher and earn more relevant traffic in search engines. On-page refers to both the content and HTML source code of a page that can be optimized.
+4. **Off-page SEO** refers to actions taken outside of your own website to impact your rankings within search engine results pages. This includes tactics such as link building and social media marketing.
+5. **Keywords** are the words and phrases that people type into search engines to find what they are looking for. Keyword research is the process of finding and analyzing these words and phrases in order to optimize your content for search engines.
+6. **Backlinks** are links from other websites that point to your website. They are important for SEO because they signal to search engines that other websites consider your content to be valuable and relevant.
+7. **Meta tags** are snippets of text that describe a page's content. They are not visible on the page itself, but are included in the page's HTML code. Meta tags can help search engines understand what a page is about, and can also be used to control how a page is displayed in search results.
+8. **Search engine algorithms** are the complex mathematical formulas that search engines use to determine which pages to show in response to a search query. These algorithms take many factors into account, including the relevance and quality of the content, the user's location and search history, and the authority and trustworthiness of the website.
+9. **Crawling** is the process by which search engines discover new and updated pages to be added to their index. This is done by following links from one page to another.
+10. **Indexing** is the process of adding web pages to a search engine's database. Once a page has been indexed, it can be displayed in search results in response to relevant search queries.

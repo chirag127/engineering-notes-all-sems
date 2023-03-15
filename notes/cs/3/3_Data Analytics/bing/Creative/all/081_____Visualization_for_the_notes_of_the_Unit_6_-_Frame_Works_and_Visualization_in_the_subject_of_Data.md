@@ -1,0 +1,23 @@
+# Visualization for the notes of the Unit 6 - Frame Works and Visualization in the subject of Data Analytics
+
+- Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations.
+- Data visualization helps users develop powerful business insight quickly and effectively by communicating complex data relationships and data-driven insights in a way that is easy to understand .
+- Data visualization also enables stronger storytelling by highlighting the key messages and patterns in the data, and engaging the audience with interactive and dynamic visuals .
+- Different visualization techniques lend themselves to different types of data analysis. For example, charts and graphs are best used for univariate data and descriptive analytics, while diagrams are ideal for demonstrating the complex relationships between hierarchical or multidimensional data, and maps are great for visualizing geographical data.
+- Data visualization requires a systematic and iterative process that involves the following steps:
+  - Define the objective and audience of the visualization
+  - Identify the data sources and variables to be visualized
+  - Choose the appropriate visualization technique and tool for the data and the objective
+  - Design and create the visualization with attention to aesthetics, clarity, and accuracy
+  - Evaluate and refine the visualization based on feedback and testing
+  - Present and share the visualization with the intended audience
+- Data visualization tools are software applications that help users create, customize, and share visualizations from various data sources. Some of the top data visualization tools are:
+  - Tableau
+  - Looker
+  - Zoho Analytics
+  - Sisense
+  - IBM Cognos Analytics
+  - Qlik Sense
+  - Domo
+  - Microsoft Power BI
+- Data visualization is an essential skill for data analysts, as it helps them explore, analyze, and communicate data in a meaningful and impactful way. Data visualization can also enhance data analytics by revealing hidden patterns, trends, and outliers in the data, and by facilitating data-driven decision making.

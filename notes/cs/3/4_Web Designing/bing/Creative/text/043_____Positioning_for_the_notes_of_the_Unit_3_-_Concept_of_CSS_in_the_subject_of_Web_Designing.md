@@ -1,0 +1,10 @@
+### Positioning
+
+- Positioning is a CSS property that allows you to control how elements are laid out on a web page.
+- Positioning can be used to create complex layouts, overlap elements, or fix elements to a specific location on the screen.
+- There are five values for the `position` property: `static`, `relative`, `absolute`, `fixed`, and `sticky`.
+- The default value for the `position` property is `static`, which means the element is placed in the normal flow of the document, without any offset or alignment.
+- The `relative` value means the element is placed in the normal flow of the document, but can be offset from its original position using the `top`, `right`, `bottom`, and `left` properties. The offset is relative to the element's original position.
+- The `absolute` value means the element is removed from the normal flow of the document, and positioned relative to its closest positioned ancestor (an element with a `position` value other than `static`). If there is no positioned ancestor, the element is positioned relative to the document body. The element can be placed anywhere on the page using the `top`, `right`, `bottom`, and `left` properties.
+- The `fixed` value means the element is removed from the normal flow of the document, and positioned relative to the viewport (the visible area of the browser window). The element stays in the same place even when the page is scrolled. The element can be placed anywhere on the page using the `top`, `right`, `bottom`, and `left` properties.
+- The `sticky` value means the element is placed in the normal flow of the document, but behaves like a `fixed` element when it reaches a certain threshold. The element can be "stuck" to the top, bottom, left, or right edge of the viewport using the `top`, `right`, `bottom`, and `left` properties. The element returns to its normal position when it is no longer within the threshold. The `sticky` value is not supported by all browsers.

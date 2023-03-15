@@ -1,0 +1,15 @@
+### Deployment
+- Deployment is the process of distributing software components and artifacts to target nodes or devices in a system.
+- Deployment diagrams are used to model the physical aspects of a system, such as the hardware, the network, the servers, the clients, etc.
+- Deployment diagrams show how software components are deployed on nodes, and how nodes are connected by communication links or associations.
+- Deployment diagrams can also show the configuration and properties of nodes and components, such as the processor type, the memory size, the operating system, the protocol, etc.
+- Deployment diagrams can be used to model different scenarios or views of a system, such as the development view, the execution view, the installation view, etc.
+- Deployment diagrams use the following elements:
+  - Node: A physical entity that can execute one or more components. Nodes can be devices, machines, servers, etc. Nodes are represented by cubes with optional stereotypes and names.
+  - Component: A modular unit of software that provides a set of interfaces and requires a set of interfaces. Components can be executables, libraries, databases, etc. Components are represented by rectangles with two small rectangles on the left side, and optional stereotypes and names.
+  - Artifact: A physical piece of information that is used or produced by a software system. Artifacts can be source code files, executable files, scripts, configuration files, etc. Artifacts are represented by rectangles with a document icon on the upper right corner, and optional stereotypes and names.
+  - Deployment specification: A set of properties or parameters that specify how an artifact is deployed on a node. Deployment specifications can include the location, the size, the version, the dependencies, etc. of an artifact. Deployment specifications are represented by rectangles with dashed lines, and optional stereotypes and names.
+  - Manifestation: A dependency relationship that indicates that an artifact is manifested or implemented by a component. Manifestations are represented by dashed lines with an open arrowhead pointing from the artifact to the component, and optional stereotypes and names.
+  - Communication path: A connection or channel between two nodes that allows them to exchange information. Communication paths can represent physical links, such as cables, or logical links, such as protocols. Communication paths are represented by solid lines with optional stereotypes and names.
+  - Association: A relationship between two components that indicates that they communicate or collaborate with each other. Associations can have multiplicity, roles, and directionality. Associations are represented by solid lines with optional stereotypes, names, and adornments.
+  - Deployment: A dependency relationship that indicates that an artifact is deployed on a node or a component. Deployments are represented by dashed lines with a closed arrowhead pointing from the artifact to the node or component, and optional stereotypes and names.

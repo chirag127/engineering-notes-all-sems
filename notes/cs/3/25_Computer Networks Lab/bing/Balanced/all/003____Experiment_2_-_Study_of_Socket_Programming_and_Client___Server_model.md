@@ -1,0 +1,34 @@
+# Experiment 2 - Study of Socket Programming and Client – Server model
+
+- Socket programming is a way of connecting two nodes on a network to communicate with each other.
+- A socket is an endpoint of a communication channel between two processes or machines.
+- Socket programming can be used to implement different types of network applications, such as web browsers, email clients, chat servers, etc.
+- Client-server model is a distributed application structure that partitions tasks between the providers of a resource or service, called servers, and service requesters, called clients.
+- In the client-server model, the client initiates a request to the server, and the server responds with the desired service or resource.
+- The client and the server can communicate using sockets, which are identified by a combination of an IP address and a port number.
+- There are two types of sockets: stream sockets and datagram sockets.
+  - Stream sockets, also known as connection-oriented sockets, establish a connection before transferring data. They are reliable, in-order, and use Transmission Control Protocol (TCP) as the underlying protocol.
+  - Datagram sockets, also known as connectionless sockets, do not require a connection before transferring data. They are unreliable, out-of-order, and use User Datagram Protocol (UDP) as the underlying protocol.
+- To create a socket, the socket() function is used, which takes three arguments: the domain, the type, and the protocol.
+  - The domain specifies the address family, such as AF_INET for IPv4 or AF_INET6 for IPv6.
+  - The type specifies the socket type, such as SOCK_STREAM for stream sockets or SOCK_DGRAM for datagram sockets.
+  - The protocol specifies the protocol to be used by the socket, such as IPPROTO_TCP for TCP or IPPROTO_UDP for UDP.
+- To bind a socket to an address, the bind() function is used, which takes two arguments: the socket descriptor and the address structure.
+  - The socket descriptor is an integer that identifies the socket returned by the socket() function.
+  - The address structure is a data structure that contains the IP address and the port number of the socket.
+- To listen for incoming connections on a stream socket, the listen() function is used, which takes two arguments: the socket descriptor and the backlog.
+  - The backlog is an integer that specifies the maximum number of pending connections that can be queued for the socket.
+- To accept a connection on a stream socket, the accept() function is used, which takes three arguments: the socket descriptor, the address structure of the client, and the size of the address structure.
+  - The accept() function blocks until a connection request arrives, and then returns a new socket descriptor for the established connection.
+  - The address structure of the client contains the IP address and the port number of the client that initiated the connection.
+  - The size of the address structure is an integer that specifies the size of the address structure in bytes.
+- To connect to a server on a stream socket, the connect() function is used, which takes three arguments: the socket descriptor, the address structure of the server, and the size of the address structure.
+  - The connect() function blocks until a connection is established with the server, or an error occurs.
+  - The address structure of the server contains the IP address and the port number of the server that offers the service or resource.
+  - The size of the address structure is an integer that specifies the size of the address structure in bytes.
+- To send data on a stream socket, the write() function is used, which takes three arguments: the socket descriptor, the buffer, and the size of the buffer.
+  - The socket descriptor is an integer that identifies the socket returned by the socket() or the accept() function.
+  - The buffer is a pointer to a memory location that contains the data to be sent.
+  - The size of the buffer is an integer that specifies the number of bytes to be sent.
+- To receive data on a stream socket, the read() function is used, which takes three arguments: the socket descriptor, the buffer, and the size of the buffer.
+  - The socket descriptor is an integer that identifies the socket returned by the socket() or

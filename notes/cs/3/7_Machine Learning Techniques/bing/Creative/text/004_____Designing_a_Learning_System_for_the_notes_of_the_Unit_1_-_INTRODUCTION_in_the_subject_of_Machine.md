@@ -1,0 +1,9 @@
+### Designing a Learning System
+
+A learning system is a computer program that can learn from data or experience and improve its performance on a specific task. Designing a learning system involves the following steps :
+
+- **Choosing the training experience**: This is the data or experience that will be fed to the learning algorithm. It should be relevant, representative, and sufficient for the task at hand. The training experience can be in the form of labeled examples, unlabeled examples, feedback, or rewards.
+- **Choosing the target function**: This is the function that the learning algorithm will try to approximate or optimize. It should capture the desired output or behavior of the system for any given input. The target function can be in the form of a classification, a regression, a clustering, a ranking, or a policy.
+- **Choosing a representation for the target function**: This is the way that the learning algorithm will represent the target function internally. It should be expressive, flexible, and computationally feasible. The representation can be in the form of a decision tree, a neural network, a linear model, a kernel method, or a probabilistic model.
+- **Choosing a function approximation algorithm**: This is the algorithm that will learn the target function from the training experience. It should be efficient, accurate, and robust. The algorithm can be in the form of a supervised learning, an unsupervised learning, a semi-supervised learning, a reinforcement learning, or a meta-learning.
+- **The final design**: This is the combination of the above components that forms the complete learning system. It should be evaluated, tested, and deployed according to the performance measure, the task, and the environment. The final design can be in the form of a standalone system, a component of a larger system, or a service that can be accessed by other systems.

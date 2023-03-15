@@ -1,0 +1,12 @@
+# Various Phases of Data Analytics Lifecycle
+
+Data analytics lifecycle is a framework that guides the process of transforming data into insights that can be used to achieve business or project goals. It is based on the CRISP-DM methodology, which is an open-standard analytics model developed by IBM . The data analytics lifecycle consists of six phases, which are:
+
+- **Business understanding**: This phase involves defining the problem or opportunity, identifying the objectives and requirements, and establishing the success criteria for the analytics project . It also involves understanding the domain and the context of the business or project.
+- **Data understanding**: This phase involves collecting, exploring, and describing the data that is relevant to the problem or opportunity . It also involves assessing the quality, quantity, and availability of the data, and identifying any potential issues or gaps .
+- **Data preparation**: This phase involves cleaning, transforming, and integrating the data to make it ready for analysis . It also involves selecting, sampling, and creating new features or variables from the data, and ensuring the data meets the requirements and assumptions of the analysis methods .
+- **Data analysis**: This phase involves applying various techniques and tools to explore, model, and test the data to discover patterns, relationships, and insights . It also involves evaluating and comparing different models, and selecting the best ones based on the success criteria and the data quality .
+- **Data validation**: This phase involves verifying and validating the results and insights obtained from the data analysis phase . It also involves assessing the reliability, robustness, and generalizability of the models and the insights, and identifying any limitations or risks .
+- **Data presentation**: This phase involves communicating and presenting the results and insights to the stakeholders or the target audience in a clear, concise, and compelling way . It also involves providing recommendations, actions, or solutions based on the insights, and measuring the impact and value of the analytics project .
+
+These six phases are not necessarily sequential or linear, but rather iterative and cyclical, meaning that they can be repeated or revisited as needed throughout the analytics project . The data analytics lifecycle helps to ensure that the analytics project is aligned with the business or project goals, and that the data is used effectively and ethically to generate meaningful and actionable insights.

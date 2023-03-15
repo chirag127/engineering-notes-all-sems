@@ -1,0 +1,24 @@
+### Tries
+
+- A trie is a tree-based data structure used for storing and retrieving collections of strings over an alphabet .
+- The word trie comes from the word re**trie**val, which means to find or get something back.
+- A trie is also called a digital tree or a prefix tree.
+- A trie is a type of k-ary search tree, where each node has at most k children, and the links between nodes are defined by individual characters of the keys.
+- A trie can store a large amount of strings efficiently, and perform pattern matching and prefix search operations.
+- A trie has the following properties:
+  - The root node does not contain any character, and represents an empty string.
+  - Each node, except the root, contains one character of a key.
+  - Each node may have a boolean flag to indicate whether it marks the end of a key or not.
+  - A node is a leaf node if it has no children.
+  - A node is an internal node if it has at least one child.
+  - A key is stored in the trie by following the path from the root to a leaf node, or to a node marked as the end of a key.
+  - A key is present in the trie if there is a path from the root to a node marked as the end of the key, and the characters along the path match the key.
+  - A key is a prefix of another key if there is a path from the root to a node that contains the key, and the node is not marked as the end of the key.
+  - A node can have multiple prefixes and suffixes, depending on the keys stored in the trie.
+- A trie can be implemented using an array of pointers, a hash map, or a dynamic array to store the children of each node.
+- A trie can be traversed using depth-first search or breadth-first search algorithms.
+- A trie can be used for various applications, such as:
+  - Autocomplete and spell check features in text editors and search engines.
+  - IP routing and longest prefix matching in computer networks.
+  - Text compression and encoding schemes.
+  - Dictionary and word games.

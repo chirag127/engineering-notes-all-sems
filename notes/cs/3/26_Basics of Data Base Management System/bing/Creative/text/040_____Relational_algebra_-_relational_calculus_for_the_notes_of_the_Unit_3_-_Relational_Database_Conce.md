@@ -1,0 +1,12 @@
+### Relational algebra - relational calculus
+
+- Relational algebra and relational calculus are two formal languages for manipulating relations in the relational model of data.
+- Relational algebra is a **procedural** language that specifies **how** to construct a new relation from one or more existing relations.
+- Relational calculus is a **declarative** language that specifies **what** information is required from the relations, without specifying how to obtain it.
+- Relational algebra and relational calculus are **logically equivalent**, meaning that any query expressed in one language can be translated into an equivalent query in the other language. This is known as **Codd's theorem**  .
+- Relational algebra consists of a set of basic operations, such as selection, projection, union, set difference, Cartesian product, and renaming, and a set of additional operations, such as join, division, natural join, and assignment, that can be derived from the basic ones.
+- Relational calculus can be classified into two types: **tuple relational calculus** (TRC) and **domain relational calculus** (DRC). Both types use a notation of **quantified variables** and **logical predicates** to express queries over relations.
+- Tuple relational calculus uses variables that range over **tuples** of a relation. A query in TRC is of the form `{T | P(T)}`, where `T` is a tuple variable and `P(T)` is a predicate involving `T` and other constants or variables. The result of the query is the set of all tuples `T` that satisfy the predicate `P(T)`.
+- Domain relational calculus uses variables that range over **domains** or **attributes** of a relation. A query in DRC is of the form `{x1, x2, ..., xn | P(x1, x2, ..., xn)}`, where `x1, x2, ..., xn` are domain variables and `P(x1, x2, ..., xn)` is a predicate involving the variables and other constants. The result of the query is the set of all tuples `(x1, x2, ..., xn)` that satisfy the predicate `P(x1, x2, ..., xn)`.
+- An example of a query in TRC is: `{T.name | Book(T) AND T.author = 'J.K. Rowling'}`, which returns the names of all books written by J.K. Rowling.
+- An example of a query in DRC is: `{x | Book(y) AND y.name = x AND y.author = 'J.K. Rowling'}`, which returns the same result as the previous query.

@@ -1,0 +1,37 @@
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)
+
+- Socket programming is a way of connecting two nodes on a network to communicate with each other.
+- A socket is an endpoint of a communication channel that can send and receive data using a specific protocol.
+- There are three types of sockets: stream sockets, datagram sockets and raw sockets.
+- Stream sockets use TCP (Transmission Control Protocol) as the transport layer protocol, which provides a reliable, connection-oriented and byte-stream service .
+- Datagram sockets use UDP (User Datagram Protocol) as the transport layer protocol, which provides an unreliable, connectionless and message-oriented service .
+- Raw sockets can use any protocol, but they require the programmer to handle the headers and checksums of the packets.
+- TCP and UDP have different characteristics and trade-offs, depending on the application requirements .
+- TCP ensures that the data is delivered in order and without errors, but it adds more overhead and latency than UDP .
+- UDP is faster and more efficient than TCP, but it does not guarantee the delivery, order or integrity of the data .
+- Some examples of applications that use TCP are web browsers, email clients, file transfer programs and remote login sessions .
+- Some examples of applications that use UDP are video streaming, online gaming, voice over IP and DNS (Domain Name System) queries .
+- To program sockets using TCP or UDP in C/C++, we need to use the socket.h header file, which provides the functions and structures for creating, binding, listening, connecting, sending and receiving sockets.
+- To program sockets using TCP or UDP in Python, we need to use the socket module, which provides the same functionality as the socket.h header file in C/C++ .
+- The main difference between working with TCP and UDP in Python is that, when creating the socket, we have to use SOCK_DGRAM for UDP and SOCK_STREAM for TCP.
+- To create a simple DNS client/server using UDP, we need to do the following steps:
+  - Create a UDP socket on the server side and bind it to a port number.
+  - Create a UDP socket on the client side and send a DNS query to the server's IP address and port number.
+  - Receive the DNS query on the server side and process it to find the corresponding IP address of the domain name.
+  - Send the IP address back to the client side using the same UDP socket.
+  - Receive the IP address on the client side and print it to the console.
+- To create a simple data & time client/server using TCP, we need to do the following steps:
+  - Create a TCP socket on the server side and bind it to a port number.
+  - Listen for incoming connections on the server side using the listen() function.
+  - Create a TCP socket on the client side and connect it to the server's IP address and port number using the connect() function.
+  - Accept the connection on the server side using the accept() function, which returns a new socket for the communication with the client.
+  - Send the current date and time to the client side using the send() function on the new socket.
+  - Receive the date and time on the client side using the recv() function on the original socket and print it to the console.
+  - Close the sockets on both sides using the close() function.
+- To create a simple echo client/server using TCP or UDP, we need to do the following steps:
+  - Create a TCP or UDP socket on the server side and bind it to a port number.
+  - Listen for incoming connections on the server side using the listen() function (only for TCP).
+  - Create a TCP or UDP socket on the client side and connect it to the server's IP address and port number using the connect() function (only for TCP).
+  - Accept the connection on the server side using the accept() function, which returns a new socket for the communication with the client (only for TCP).
+  - Send a message to the server side using the send() or sendto() function on the client socket.
+  - Receive the message on the server side using the recv() or recvfrom

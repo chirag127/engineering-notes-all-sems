@@ -1,0 +1,25 @@
+### Robustness for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Robustness is the ability of a system to handle errors, failures, and unexpected situations without compromising its functionality or performance.
+- Robustness analysis is a technique for identifying and classifying the objects that participate in a use case based on their roles and responsibilities .
+- Robustness analysis helps to bridge the gap between the requirements and the design of a system, by providing a first-guess set of objects that can be refined and elaborated in subsequent design steps .
+- Robustness analysis involves the following steps:
+  - Analyzing the narrative text of use cases, one sentence at a time, and drawing the actors, the appropriate boundary, entity, and control objects, and the messages that flow between them.
+  - Boundary objects represent the interfaces between the actors and the system, such as user interfaces, input/output devices, or external systems.
+  - Entity objects represent the persistent information or data that is manipulated by the system, such as database tables, files, or objects.
+  - Control objects represent the use case logic and coordinate the other classes, such as controllers, mediators, or facades.
+  - Messages represent the interactions or communications between the objects, such as method calls, events, or signals.
+  - Applying the robustness rules to check the validity and completeness of the robustness diagram, such as:
+    - Every use case must have one and only one control object.
+    - Every entity object must be connected to at least one control object.
+    - Every boundary object must be connected to at least one control object.
+    - Every message must be connected to at least one control object.
+    - Every message must have a sender and a receiver.
+    - Every message must have a name that corresponds to an operation or attribute of the receiver.
+  - Refining and revising the robustness diagram based on feedback, changes, or new requirements.
+  - Mapping the robustness diagram to a class diagram by adding attributes, operations, associations, and inheritance relationships to the objects.
+- Robustness analysis benefits the object oriented system design by :
+  - Improving the quality and consistency of the use cases and the system requirements.
+  - Discovering missing, redundant, or irrelevant objects, messages, or use cases.
+  - Enhancing the communication and collaboration among the stakeholders, developers, and testers.
+  - Facilitating the transition from analysis to design by providing a preliminary set of classes and interactions.

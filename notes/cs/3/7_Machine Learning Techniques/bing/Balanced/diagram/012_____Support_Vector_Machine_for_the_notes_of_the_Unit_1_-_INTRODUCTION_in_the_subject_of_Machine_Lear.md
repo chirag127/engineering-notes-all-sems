@@ -1,0 +1,21 @@
+### Support Vector Machine
+
+- Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for classification or regression tasks .
+- The main idea behind SVM is to find a hyperplane that maximally separates the different classes in the training data .
+- A hyperplane is a d-1 dimensional subspace in a d-dimensional space that can be used as a decision boundary.
+- A hyperplane is defined by a normal vector w and a bias term b, such that w.x + b = 0, where x is any point on the hyperplane.
+- The optimal hyperplane is the one that maximizes the margin, which is the distance between the hyperplane and the closest points from each class, called support vectors .
+- To find the optimal hyperplane, SVM solves a quadratic optimization problem that minimizes the norm of w subject to some constraints that ensure the correct classification of the training data .
+- The constraints are of the form y_i (w.x_i + b) >= 1, where y_i is the class label of x_i, either +1 or -1 .
+- The optimization problem can be solved using Lagrange multipliers and the Karush-Kuhn-Tucker (KKT) conditions .
+- The solution of the optimization problem gives the values of w and b, as well as the support vectors and their corresponding Lagrange multipliers .
+- The support vectors are the only points that influence the decision boundary, as they lie on the margin or violate the constraints .
+- The decision function for a new point x is given by f(x) = sign(w.x + b), which returns +1 or -1 depending on the class of x .
+- SVM can handle nonlinearly separable data by using a kernel function that maps the data to a higher-dimensional space where a linear hyperplane can be found  .
+- A kernel function is a function that computes the inner product of two points in the feature space without explicitly mapping them  .
+- Some common kernel functions are the linear kernel, the polynomial kernel, the radial basis function (RBF) kernel, and the sigmoid kernel  .
+- The choice of the kernel function and its parameters affects the performance and generalization ability of the SVM  .
+- SVM can also be used for regression tasks by using a different loss function, such as the epsilon-insensitive loss, which penalizes the errors that exceed a certain threshold epsilon .
+- SVM has many advantages, such as high accuracy, robustness to outliers, sparsity of the solution, and flexibility in choosing the kernel function  .
+- SVM also has some disadvantages, such as high computational complexity, sensitivity to noise, difficulty in choosing the optimal parameters, and lack of interpretability  .
+- SVM is widely used in real-world applications, such as text categorization, handwritten character recognition, image classification, biosequence analysis, etc. .

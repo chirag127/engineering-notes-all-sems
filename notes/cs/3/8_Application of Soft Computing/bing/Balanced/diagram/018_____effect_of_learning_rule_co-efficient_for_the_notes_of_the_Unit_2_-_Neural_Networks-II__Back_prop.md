@@ -1,0 +1,8 @@
+### Effect of learning rule coefficient for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of Application of Soft Computing
+
+- A learning rule coefficient is a parameter that controls the rate or speed of learning in a neural network. It is also known as the learning rate or the convergence coefficient .
+- A learning rule coefficient affects how much the weights of the network are updated based on the error signal and the gradient of the cost function .
+- A learning rule coefficient can have different values depending on the type of learning algorithm used. For example, in the backpropagation algorithm, which is based on the Widrow-Hoff learning rule, the learning rule coefficient is a positive constant that is multiplied by the gradient-descent correction term .
+- A learning rule coefficient can also be combined with other parameters, such as the momentum coefficient, which is a term that adds a fraction of the previous weight change to the current weight change, to improve the stability and speed of learning.
+- A learning rule coefficient has a significant effect on the performance and convergence of the neural network. If the learning rule coefficient is too small, the learning process will be slow and may get stuck in local minima. If the learning rule coefficient is too large, the learning process will be fast but may overshoot the optimal solution and diverge  .
+- Therefore, choosing an appropriate learning rule coefficient is a crucial task in neural network design and training. There are different methods for selecting or adapting the learning rule coefficient, such as trial and error, grid search, heuristic rules, or stochastic automata .

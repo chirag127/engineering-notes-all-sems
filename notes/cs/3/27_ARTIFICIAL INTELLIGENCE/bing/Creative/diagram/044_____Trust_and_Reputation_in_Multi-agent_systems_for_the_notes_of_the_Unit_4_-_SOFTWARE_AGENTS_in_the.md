@@ -1,0 +1,19 @@
+### Trust and Reputation in Multi-Agent Systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS) where agents can cooperate, coordinate, and negotiate with each other .
+- Trust is the subjective belief that an agent has about the reliability, honesty, and competence of another agent . Trust can be based on direct experiences, recommendations, or third-party information.
+- Reputation is the collective opinion that a group of agents has about the trustworthiness of another agent . Reputation can be derived from aggregating trust ratings, feedback, or testimonials from multiple sources.
+- Trust and reputation models aim to provide mechanisms for agents to assess the trustworthiness and reputation of other agents, and to use this information to guide their decisions and actions .
+- Trust and reputation models can be classified into two main categories: centralized and decentralized.
+  - Centralized models rely on a trusted authority or a central server to collect, store, and disseminate trust and reputation information. Examples of centralized models are SPORAS and eBay .
+  - Decentralized models allow agents to maintain and update their own trust and reputation information, and to share it with other agents through communication. Examples of decentralized models are Marsh, Sen et al., and certified reputation .
+- Trust and reputation models can also be distinguished by the type of information they use: binary, discrete, or continuous.
+  - Binary models use a simple yes/no or good/bad rating to represent trust and reputation. An example of a binary model is the one used in eBay .
+  - Discrete models use a finite set of values or categories to represent trust and reputation. An example of a discrete model is SPORAS .
+  - Continuous models use a numerical scale or a probability distribution to represent trust and reputation. Examples of continuous models are Marsh, Sen et al., and certified reputation .
+- Trust and reputation models can also be characterized by the factors they consider, such as context, time, uncertainty, risk, and social network.
+  - Context refers to the specific situation or domain in which trust and reputation are evaluated. Some models are context-dependent, meaning that they take into account the different aspects or dimensions of trust and reputation in different contexts. Examples of context-dependent models are Marsh and Sen et al. .
+  - Time refers to the temporal dynamics of trust and reputation, such as how they change over time and how they decay or discount old information. Some models are time-dependent, meaning that they update trust and reputation values based on the recency and frequency of interactions. Examples of time-dependent models are SPORAS and certified reputation .
+  - Uncertainty refers to the degree of confidence or reliability of trust and reputation information. Some models are uncertainty-aware, meaning that they incorporate uncertainty measures or confidence intervals into trust and reputation values. Examples of uncertainty-aware models are Marsh and certified reputation .
+  - Risk refers to the potential loss or harm that can result from trusting or interacting with an untrustworthy agent. Some models are risk-sensitive, meaning that they adjust trust and reputation values based on the risk level or the expected utility of the interaction. Examples of risk-sensitive models are Marsh and Sen et al. .
+  - Social network refers to the structure and properties of the network of agents and their relationships. Some models are network-based, meaning that they exploit the social network information to propagate, aggregate, or filter trust and reputation information. Examples of network-based models are certified reputation and the model proposed by Sabater and Sierra.

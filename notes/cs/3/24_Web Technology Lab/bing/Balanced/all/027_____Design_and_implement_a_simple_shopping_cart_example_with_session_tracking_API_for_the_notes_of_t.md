@@ -1,0 +1,17 @@
+# Design and implement a simple shopping cart example with session tracking API
+
+- A shopping cart is a web application that allows users to browse, select, and purchase items from an online store.
+- A session tracking API is a mechanism that enables the web server to identify and maintain the conversational state of each user across multiple requests.
+- Session tracking is needed for shopping cart applications because the server should know which items belong to which user's cart, and how to handle actions such as adding, removing, or checking out items.
+- There are different methods for session tracking, such as cookies, URL rewriting, hidden form fields, and HTTP session objects.
+- Cookies are small pieces of data that are stored on the client's browser and sent to the server with every request. Cookies can store information such as user ID, cart ID, or item IDs.
+- URL rewriting is a technique that appends session information to the end of every URL in the web application. For example, /cart?sessionID=1234. This method does not rely on the client's browser settings, but it can make the URLs longer and less user-friendly.
+- Hidden form fields are input elements that are not visible to the user, but can store session information and send it to the server when a form is submitted. For example, <input type="hidden" name="sessionID" value="1234">. This method only works for requests that use the POST method, and it can increase the size of the HTML pages.
+- HTTP session objects are server-side objects that store session information in memory or in a database. Each session object is associated with a unique session ID that is sent to the client as a cookie or a URL parameter. The server can retrieve the session object by using the session ID and access the session attributes. For example, session.getAttribute("cart").
+- A simple shopping cart example with session tracking API can be designed and implemented as follows:
+
+  - Create a web page that displays the available items for sale, along with their prices and an option to add them to the cart.
+  - Create a servlet that handles the requests for adding items to the cart. The servlet should check if the user has a valid session ID, and if not, create a new session object and send the session ID to the client as a cookie or a URL parameter. The servlet should also add the selected item ID to the session object as an attribute, and redirect the user to the cart page.
+  - Create a web page that displays the items in the user's cart, along with their prices and the total amount. The page should also provide options to remove items from the cart, or to proceed to checkout.
+  - Create a servlet that handles the requests for removing items from the cart. The servlet should retrieve the session object by using the session ID from the cookie or the URL parameter, and remove the item ID from the session attribute. The servlet should then redirect the user to the cart page.
+  - Create a servlet that handles the requests for checking out. The servlet should retrieve the session object by using the session ID from the cookie or the URL parameter, and process the payment and order details. The servlet should also invalidate the session object and redirect the user to a confirmation page.

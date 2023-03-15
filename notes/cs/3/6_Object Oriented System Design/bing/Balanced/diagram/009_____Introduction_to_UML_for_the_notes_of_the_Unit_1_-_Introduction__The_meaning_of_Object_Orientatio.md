@@ -1,0 +1,21 @@
+### Introduction to UML
+
+- UML stands for **Unified Modeling Language**  .
+- It is a **general-purpose, developmental modeling language** in the field of software engineering  .
+- It is intended to provide a **standard way to visualize the design of a system**  .
+- It can help **specify, visualize, construct, and document** the artifacts of software systems, as well as for business modeling and other non-software systems.
+- It can also help **combine visualization with standardization** to result in higher quality, better compliance and enhanced productivity.
+- It is **not a programming language**, but it can provide visual representations that help software developers better understand potential outcomes or errors in programs.
+- It consists of an **integrated set of diagrams**, each with a different purpose and notation.
+- Some of the common UML diagrams are:
+  - **Use case diagram**: shows the interactions between a system and its external actors (users or other systems) in terms of use cases (scenarios of functionality).
+  - **Class diagram**: shows the static structure of a system in terms of classes (entities with attributes and operations) and their relationships (associations, generalizations, dependencies, etc.).
+  - **Sequence diagram**: shows the dynamic behavior of a system in terms of objects (instances of classes) and their interactions (messages) over time.
+  - **Activity diagram**: shows the flow of control or data in a system in terms of activities (actions or states) and their transitions (arcs or edges).
+  - **State machine diagram**: shows the state changes of an object or a system in response to events (triggers or guards).
+  - **Component diagram**: shows the physical or logical components of a system and their dependencies (interfaces or ports).
+  - **Deployment diagram**: shows the distribution of components across nodes (hardware or software devices) and their connections (links or channels).
+- UML was originally motivated by the desire to **standardize the disparate notational systems and approaches to software design**.
+- UML was created by a group of experts called the **UML Partners** in the mid-1990s, and was later adopted by the **Object Management Group (OMG)** as a standard.
+- UML has undergone several revisions and extensions since its inception, and the current version is **UML 2.5.1**, released in 2017.
+- UML is widely used in the software industry and academia, and has many tools and resources available for learning and applying it.

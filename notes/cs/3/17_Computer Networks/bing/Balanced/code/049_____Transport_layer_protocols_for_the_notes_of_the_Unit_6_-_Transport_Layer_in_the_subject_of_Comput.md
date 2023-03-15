@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of transport layer protocols for the unit 6 - transport layer in the subject of computer networks.
+
+### Transport layer protocols
+
+- The transport layer is the fourth layer in the OSI model, which provides communication services between the computers connected in the network.
+- The transport layer is responsible for process-to-process delivery, which means it ensures that the data packets are delivered from the source process to the destination process correctly and in order.
+- The transport layer also provides functions such as error control, flow control, congestion control, multiplexing, and demultiplexing .
+- The two main transport layer protocols are:
+  - Transmission Control Protocol (TCP): It provides reliable communication between two hosts. It uses a connection-oriented approach, which means it establishes a logical connection before sending any data. It also uses acknowledgments, retransmissions, and sequence numbers to ensure that no data is lost or duplicated. TCP also implements flow control and congestion control mechanisms to avoid overloading the network or the receiver  .
+  - User Datagram Protocol (UDP): It provides unreliable communication between two hosts. It uses a connectionless approach, which means it does not establish any connection before sending any data. It also does not use any acknowledgments, retransmissions, or sequence numbers to ensure data delivery. UDP is faster and simpler than TCP, but it does not guarantee reliability, ordering, or error detection. UDP is suitable for applications that can tolerate some data loss or delay, such as streaming media, online games, or voice over IP  .
+- Additional transport layer protocols that have been defined and implemented include the Datagram Congestion Control Protocol (DCCP) and the Stream Control Transmission Protocol (SCTP). DCCP provides a congestion-controlled, unreliable datagram service for applications that do not require reliability but benefit from congestion control, such as multimedia streaming or interactive gaming. SCTP provides a reliable, message-oriented, connection-oriented service for applications that require multiple streams of data within a single connection, such as telephony signaling or web browsing.

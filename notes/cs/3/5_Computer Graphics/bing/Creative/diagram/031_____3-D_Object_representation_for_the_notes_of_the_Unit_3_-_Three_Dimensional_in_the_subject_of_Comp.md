@@ -1,0 +1,12 @@
+### 3-D Object Representation
+
+- 3-D object representation is the process of developing a mathematical coordinate-based representation of any surface of an object in three dimensions via specialized software .
+- 3-D object representation is essential for computer graphics applications such as animation, rendering, simulation, and gaming.
+- 3-D object representation can be divided into two categories:
+  - Boundary representations (B-reps) - It describes a 3-D object as a set of surfaces that separates the object interior from the environment. B-reps are useful for modeling solid objects with complex shapes and topology. Examples of B-reps are polygon meshes, NURBS surfaces, and subdivision surfaces.
+  - Space-partitioning representations - It is used to describe interior properties, by dividing the spatial region containing the object into subregions. Space-partitioning representations are useful for modeling volumetric objects with simple shapes and topology. Examples of space-partitioning representations are octrees, voxels, and constructive solid geometry (CSG).
+- 3-D object representation can be created by various methods:
+  - Procedural modeling - It is a technique that generates 3-D objects by using a set of rules or algorithms. Procedural modeling can create realistic and complex objects with minimal user input. Examples of procedural modeling are fractals, L-systems, and noise functions.
+  - Geometric modeling - It is a technique that creates 3-D objects by using geometric primitives such as points, lines, curves, and surfaces. Geometric modeling can create precise and smooth objects with high control over the shape and topology. Examples of geometric modeling are spline curves, Bézier curves, and B-splines.
+  - Image-based modeling - It is a technique that reconstructs 3-D objects from 2-D images or videos. Image-based modeling can create realistic and detailed objects with minimal geometric information. Examples of image-based modeling are photogrammetry, structure from motion, and stereo vision.
+  - Sketch-based modeling - It is a technique that creates 3-D objects from freehand sketches or drawings. Sketch-based modeling can create intuitive and expressive objects with minimal user interface. Examples of sketch-based modeling are Teddy, FiberMesh, and SketchUp.

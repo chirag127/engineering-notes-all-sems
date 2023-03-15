@@ -1,0 +1,8 @@
+## Unit 4 - Introduction to Client Side Scripting
+
+- Client side scripting is a technique of writing code that runs on the user's web browser, rather than on the web server.
+- Client side scripting can enhance the interactivity, functionality, and user experience of web pages by allowing dynamic changes to the content, layout, and appearance of the web page without reloading it.
+- Client side scripting can also reduce the load on the web server by performing some tasks on the user's device, such as validating user input, storing data locally, or fetching data from other sources.
+- Client side scripting languages are interpreted by the web browser, which means they do not need to be compiled before execution. Some examples of client side scripting languages are JavaScript, VBScript, TypeScript, and Dart.
+- Client side scripting languages can interact with the HTML elements of the web page through the Document Object Model (DOM), which is a tree-like representation of the web page structure and content. The DOM provides methods and properties to access and manipulate the HTML elements and their attributes, styles, and events.
+- Client side scripting languages can also use Application Programming Interfaces (APIs) to access and use the features and functionalities of the web browser, such as geolocation, local storage, web sockets, canvas, audio, and video. APIs are sets of predefined functions and objects that provide a standard way of communicating with the web browser or other services.

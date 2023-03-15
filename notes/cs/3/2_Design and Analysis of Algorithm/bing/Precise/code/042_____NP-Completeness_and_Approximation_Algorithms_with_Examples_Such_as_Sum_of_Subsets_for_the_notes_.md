@@ -1,0 +1,9 @@
+### NP-Completeness and Approximation Algorithms with Examples Such as Sum of Subsets
+
+NP-Completeness is a concept in computational complexity theory that deals with the classification of computational problems. A problem is considered NP-Complete if it is both in the class NP (Nondeterministic Polynomial time) and NP-Hard. This means that the problem can be verified in polynomial time, but there is no known polynomial time algorithm to solve it.
+
+An approximation algorithm is an algorithm that is used to find approximate solutions to optimization problems. These algorithms are used when the problem is NP-Hard and finding an exact solution is not feasible. Approximation algorithms provide a way to find a solution that is close to the optimal solution in a reasonable amount of time.
+
+One example of an NP-Complete problem is the Sum of Subsets problem. In this problem, we are given a set of positive integers and a target sum, and we need to determine if there is a subset of the given set that adds up to the target sum. This problem is NP-Complete because it can be verified in polynomial time, but there is no known polynomial time algorithm to solve it.
+
+An approximation algorithm for the Sum of Subsets problem is the greedy algorithm. In this algorithm, we sort the given set of integers in descending order and then select the largest integer that is less than or equal to the target sum. We then subtract this integer from the target sum and repeat the process until the target sum is zero or there are no more integers left to select. This algorithm provides an approximate solution to the problem in polynomial time.

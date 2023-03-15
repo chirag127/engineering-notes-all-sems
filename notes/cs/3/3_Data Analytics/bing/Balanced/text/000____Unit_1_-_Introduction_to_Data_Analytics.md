@@ -1,0 +1,23 @@
+## Unit 1 - Introduction to Data Analytics
+
+- Data analytics is the process of collecting, organizing, analyzing, and interpreting data to derive insights and support decision making.
+- Data analytics can be applied to various domains, such as business, science, engineering, health, education, and social sciences.
+- Data analytics can help answer questions, solve problems, identify patterns, discover trends, and generate value from data.
+- Data analytics can be classified into four types, depending on the purpose and complexity of the analysis:
+  - Descriptive analytics: summarizes what has happened in the past using historical data.
+  - Diagnostic analytics: explains why something has happened in the past using statistical techniques and data mining.
+  - Predictive analytics: forecasts what is likely to happen in the future using statistical models and machine learning.
+  - Prescriptive analytics: suggests what actions should be taken in the future using optimization and simulation.
+- Data analytics involves various steps, such as:
+  - Data acquisition: collecting data from various sources, such as databases, files, sensors, web, etc.
+  - Data preparation: cleaning, transforming, integrating, and formatting data to make it suitable for analysis.
+  - Data exploration: examining data using descriptive statistics, visualizations, and queries to understand its characteristics and quality.
+  - Data analysis: applying analytical techniques, such as regression, classification, clustering, association, etc. to extract insights and knowledge from data.
+  - Data interpretation: communicating and presenting the results of the analysis using reports, dashboards, charts, etc. to support decision making.
+- Data analytics requires various skills, such as:
+  - Data literacy: the ability to understand, interpret, and communicate data effectively.
+  - Data management: the ability to store, organize, and manipulate data efficiently and securely.
+  - Data processing: the ability to use software tools and programming languages, such as Excel, SQL, Python, R, etc. to perform data operations and calculations.
+  - Data visualization: the ability to use graphical tools and techniques, such as Tableau, Power BI, matplotlib, ggplot2, etc. to create and display data in a clear and engaging way.
+  - Data modeling: the ability to use mathematical and statistical methods and algorithms, such as linear regression, logistic regression, k-means, decision trees, etc. to build and evaluate data models and predictions.
+  - Data reasoning: the ability to use logical and critical thinking and problem-solving skills to analyze data and draw valid conclusions and recommendations.

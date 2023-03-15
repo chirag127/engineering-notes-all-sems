@@ -1,0 +1,8 @@
+## Experiment 11 - Perform a case study about the different routing algorithms to select the network path with its optimum and economical during data transfer
+
+- Routing algorithms are the methods used by routers to determine the best path for sending packets in a network.
+- Routing algorithms can be classified into two main categories: adaptive and non-adaptive.
+- Adaptive algorithms change their routing decisions whenever network topology or traffic load changes. They can adapt to network conditions and optimize performance, but they require more computation and communication overhead. Examples of adaptive algorithms are distance vector, link state, and multipath routing.
+- Non-adaptive algorithms do not change their routing decisions once they are initialized. They are simpler and faster, but they may not be able to cope with network failures or congestion. Examples of non-adaptive algorithms are shortest path, flooding, and broadcast routing.
+- A case study of the evolution of routing algorithms in a network planning tool is presented in   . The authors describe how they developed and improved a software system for transmission network planning, which involves combining network topology, traffic demand, and routing algorithms to find the optimal network configuration.
+- The authors compare three different routing algorithms: shortest path, minimum interference, and minimum cost routing. They evaluate the algorithms based on their performance, complexity, and suitability for different network scenarios. They also discuss the challenges and trade-offs involved in implementing and evolving routing algorithms in a network planning tool.

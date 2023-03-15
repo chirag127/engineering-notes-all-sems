@@ -1,0 +1,23 @@
+# Display for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for **Cascading Style Sheets** and it is used to **style and layout web pages** .
+- CSS is a **rule-based language** that allows you to define the **presentation** of a document written in HTML or XML.
+- CSS can alter the **font, color, size, and spacing** of your content, split it into **multiple columns**, or add **animations and other decorative features**.
+- CSS can also control how your web page is **rendered** on different **media** such as screen, paper, speech, or other devices.
+- CSS works by **selecting** elements or groups of elements on your web page and applying **styles** to them.
+- CSS has three main components: **selectors**, **properties**, and **values**.
+  - **Selectors** are patterns that match one or more elements on your web page, such as `p`, `h1`, `.class`, `#id`, etc.
+  - **Properties** are aspects of the selected elements that you want to change, such as `color`, `font-size`, `margin`, `display`, etc.
+  - **Values** are the specific settings for the properties, such as `red`, `16px`, `10px`, `block`, etc.
+- CSS rules are written in the following syntax: `selector { property: value; }`.
+- CSS rules can be written in three different ways: **inline**, **internal**, or **external**.
+  - **Inline** CSS is when you write the style attribute directly in the HTML element, such as `<p style="color: blue;">This is a paragraph.</p>`.
+  - **Internal** CSS is when you write the style element inside the head element of the HTML document, such as `<style> p { color: blue; } </style>`.
+  - **External** CSS is when you write the style in a separate file with the .css extension and link it to the HTML document using the link element, such as `<link rel="stylesheet" href="style.css">`.
+- CSS rules can also be **inherited**, **overridden**, or **cascaded** depending on the **specificity** and **order** of the selectors .
+  - **Inherited** CSS is when the style of a parent element is passed down to its child elements, such as the color of a paragraph inheriting the color of the body element.
+  - **Overridden** CSS is when the style of a more specific selector takes precedence over the style of a less specific selector, such as the color of a paragraph with a class attribute overriding the color of a paragraph without a class attribute.
+  - **Cascaded** CSS is when the style of a later selector takes precedence over the style of an earlier selector, such as the color of a paragraph defined in an external style sheet overriding the color of a paragraph defined in an internal style sheet.
+- CSS can also be divided into different **modules** or **levels** that add new features and capabilities to the language, such as **CSS3**.
+  - **CSS3** is the latest version of CSS that introduces new selectors, properties, values, and media queries that allow for more flexibility and responsiveness in web design.
+  - Some examples of CSS3 modules are **Flexbox**, **Grid**, **Transitions**, **Transforms**, **Animations**, **Filters**, **Variables**, etc.

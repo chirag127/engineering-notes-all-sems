@@ -1,0 +1,8 @@
+### Implementing polymorphism for the notes of the Unit
+
+Polymorphism is the ability of an object to take on different forms depending on the context. It is one of the key features of object-oriented programming. Polymorphism can be implemented in different ways, such as:
+
+- **Overloading**: This is when a method or an operator has different implementations based on the number or type of parameters. For example, the `+` operator can be overloaded to perform addition for numbers, concatenation for strings, or union for sets.
+- **Overriding**: This is when a subclass redefines a method inherited from a superclass. For example, the `toString()` method can be overridden by different classes to return a custom representation of the object.
+- **Abstract classes and interfaces**: These are classes that cannot be instantiated, but can define abstract methods that must be implemented by the subclasses or the classes that implement the interface. For example, an abstract class `Animal` can define an abstract method `makeSound()` that must be implemented by the subclasses `Dog`, `Cat`, `Bird`, etc.
+- **Dynamic binding**: This is when the type of an object is determined at run time, and the appropriate method is invoked based on the actual type of the object. For example, if we have a variable `a` of type `Animal`, and we assign it to an object of type `Dog`, then calling `a.makeSound()` will invoke the `makeSound()` method of the `Dog` class, not the `Animal` class.

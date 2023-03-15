@@ -1,0 +1,24 @@
+### Using Control Panel for the notes of the Unit 5 - Web Hosting in the subject of Web Designing
+
+- A web hosting control panel is a virtual interface provided by a web hosting service that allows you to manage your servers and hosted services.
+- Every hosting provider has its own type of control panel. To access your control panel, you only need to go to your hosting account webpage and input your login details.
+- Some tasks you can do on a web hosting control panel include:
+  - Account administration: With this option, you can renew your plan, update your billing details, and update or change your password.
+  - Domain management: You can renew, forward, and register new domains and IP addresses from the control panel. You can also edit the domain name system and manage sub-domains.
+  - Email management: Set up, manage, and delete email accounts from the control panel. You can also configure spam filters, autoresponders, and email forwarding.
+  - File management: Upload, download, edit, and delete files and folders from your web server using the file manager or FTP client.
+  - Database management: Create, modify, and delete databases and users from the control panel. You can also access tools like phpMyAdmin to manage your data.
+  - Security management: Change various security settings, such as SSL certificates, firewall rules, password protection, and malware scanning.
+  - Application installation: Install add-on apps on your server, such as WordPress, Joomla, Drupal, Magento, and more, using tools like Softaculous or WordPress Manager.
+  - Resource monitoring: Check your bandwidth and other usage stats, such as disk space, CPU, memory, and visitors, from the control panel. You can also view error logs and access reports.
+- Some of the most popular web hosting control panels are:
+  - cPanel: The most widely used control panel, especially for Linux-based hosting. It has a user-friendly interface and a rich set of features. It also integrates with WHM (Web Host Manager), which allows you to manage multiple cPanel accounts and servers.
+  - Plesk: Another popular control panel, which supports both Linux and Windows hosting. It has a similar interface and functionality as cPanel, but with some differences in terms of layout and terminology.
+  - DirectAdmin: A lightweight and fast control panel, which is suitable for low-resource servers. It has a simple and intuitive interface, but less features than cPanel or Plesk.
+  - Webmin: A free and open-source control panel, which is more suitable for advanced users who want to have more control over their server configuration. It has a modular design and supports various Linux distributions.
+  - ISPConfig: Another free and open-source control panel, which is more focused on web hosting and server management. It supports multiple servers and domains, and has a web-based interface.
+- To install WordPress using cPanel, you can follow these steps:
+  - Find the WordPress Manager app in the cPanel dashboard and click on it.
+  - Click on the Install button and fill in the required details, such as domain name, site name, admin username, and password.
+  - Click on the Install button again and wait for the installation to complete.
+  - You can now access your WordPress site by visiting your domain name or the admin dashboard by adding /wp-admin to the end of your domain name.

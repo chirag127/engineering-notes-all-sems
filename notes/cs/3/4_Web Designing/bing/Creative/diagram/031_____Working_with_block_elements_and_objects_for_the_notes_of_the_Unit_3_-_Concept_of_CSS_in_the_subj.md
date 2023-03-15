@@ -1,0 +1,18 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on web designing. Here is some content on the topic of working with block elements and objects for the notes of the Unit 3 - Concept of CSS.
+
+### Working with block elements and objects
+
+- Block elements are HTML elements that occupy the entire width of their parent container and start on a new line. Examples of block elements are `<div>`, `<p>`, `<h1>`, `<ul>`, etc.
+- Block elements can be styled with CSS properties such as `width`, `height`, `margin`, `padding`, `border`, `background`, `display`, `position`, etc.
+- Block elements can contain other block elements or inline elements as their children. Inline elements are HTML elements that do not start on a new line and only occupy the space needed for their content. Examples of inline elements are `<span>`, `<a>`, `<img>`, `<em>`, etc.
+- Block elements can be transformed into inline elements or vice versa by using the `display` property in CSS. The `display` property specifies how an element is rendered on the web page. The possible values for the `display` property are:
+  - `block`: The element is displayed as a block element, occupying the entire width of its parent container and starting on a new line.
+  - `inline`: The element is displayed as an inline element, occupying only the space needed for its content and not starting on a new line.
+  - `inline-block`: The element is displayed as an inline element, but it can have a specified width and height like a block element.
+  - `none`: The element is not displayed on the web page at all.
+- Block elements can also be positioned in different ways by using the `position` property in CSS. The `position` property specifies how an element is placed in relation to its normal position, its parent element, or the viewport. The possible values for the `position` property are:
+  - `static`: The element is positioned in its normal position in the document flow. This is the default value for the `position` property.
+  - `relative`: The element is positioned in its normal position, but it can be offset from its original location by using the `top`, `right`, `bottom`, or `left` properties. The offset does not affect the position of other elements.
+  - `absolute`: The element is positioned in relation to its nearest positioned ancestor (an element with a `position` value other than `static`). The element can be placed anywhere in the document by using the `top`, `right`, `bottom`, or `left` properties. The element is removed from the document flow and does not affect the position of other elements.
+  - `fixed`: The element is positioned in relation to the viewport (the visible area of the web page). The element can be placed anywhere in the document by using the `top`, `right`, `bottom`, or `left` properties. The element is removed from the document flow and does not affect the position of other elements. The element also stays in the same place even when the web page is scrolled.
+  - `sticky`: The element is positioned in relation to its normal position, but it behaves like a `fixed` element when it reaches a specified offset from the viewport edge. The offset can be specified by using the `top`, `right`, `bottom`, or `left` properties. The element is removed from the document flow and does not affect the position of other elements. The element also returns to its normal position when it is not within the specified offset.

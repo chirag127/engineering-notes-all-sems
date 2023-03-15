@@ -1,0 +1,7 @@
+### Data Science Vs Machine Learning
+
+- Data science is a field that studies data and how to extract meaning from it, whereas machine learning is a field devoted to understanding and building methods that utilize data to improve performance or inform predictions .
+- Data science is a broad term for multiple disciplines, such as statistics, mathematics, visualization, programming, and domain knowledge . Data science can involve collecting, cleaning, exploring, analyzing, and communicating data from various sources and formats .
+- Machine learning is a branch of artificial intelligence that focuses on tools and techniques for building models that can learn by themselves by using data . Machine learning can involve supervised, unsupervised, or reinforcement learning methods, as well as deep learning and natural language processing techniques .
+- Data science and machine learning are closely related and often overlap, as data science can use machine learning to create predictive models or discover patterns in data, and machine learning can use data science to preprocess and evaluate data or interpret results .
+- Data science and machine learning also have different roles and skill sets, as data scientists are typically more focused on the business or domain problems and the insights derived from data, while machine learning engineers are typically more focused on the technical aspects and the implementation of machine learning algorithms and systems .

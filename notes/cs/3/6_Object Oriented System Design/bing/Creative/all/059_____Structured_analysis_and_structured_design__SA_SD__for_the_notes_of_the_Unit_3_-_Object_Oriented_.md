@@ -1,0 +1,22 @@
+# Structured analysis and structured design (SA/SD)
+
+- Structured analysis and structured design (SA/SD) is a software development method that was popular in the 1970s and 1980s.
+- The method is based on the principle of structured programming, which emphasizes the importance of breaking down a software system into smaller, more manageable components.
+- The basic goal of SA/SD is to improve quality and reduce the risk of system failure. It establishes concrete management specifications and documentation.
+- SA/SD uses two types of diagrams: activity models and data models.
+- Activity models describe the functions and processes of the system, using boxes to represent entities and activities, and arrows to represent data flows and control flows.
+- Data models describe the data structures and relationships of the system, using entity-relationship diagrams or data dictionaries.
+- SA/SD follows a top-down approach, which means that the system is decomposed from a high-level overview to a low-level detail.
+- SA/SD consists of four main phases: feasibility study, requirements analysis, logical design, and physical design.
+- Feasibility study evaluates the technical, economic, and operational feasibility of the proposed system.
+- Requirements analysis identifies the user needs, objectives, and constraints of the system.
+- Logical design defines the functional specifications and data specifications of the system, using activity models and data models.
+- Physical design defines the technical specifications and implementation details of the system, such as hardware, software, database, and network.
+- Advantages of SA/SD include:
+  - Clarity and simplicity: The SA/SD method emphasizes breaking down complex systems into smaller, more manageable components, which makes the system easier to understand and modify.
+  - Better communication: The SA/SD method provides a common language and framework for communicating the design of the system among different stakeholders, such as developers, managers, and users.
+  - Systematic documentation: The SA/SD method produces clear and consistent documentation of the system, which facilitates testing, maintenance, and evolution.
+- Disadvantages of SA/SD include:
+  - Rigidity and inflexibility: The SA/SD method follows a predefined and sequential process, which may not be able to cope with changing requirements and dynamic environments.
+  - Overemphasis on data: The SA/SD method focuses more on the data aspects of the system, rather than the behavior and interaction aspects, which may limit the expressiveness and flexibility of the design.
+  - Lack of user involvement: The SA/SD method relies more on the analyst's interpretation of the user needs, rather than the direct feedback and participation of the users, which may lead to miscommunication and dissatisfaction.

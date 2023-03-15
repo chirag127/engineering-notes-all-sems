@@ -1,0 +1,11 @@
+### Dynamic Programming with Examples Such as Knapsack
+
+Dynamic programming is a method for solving complex problems by breaking them down into smaller, simpler subproblems. It is applicable to problems that exhibit the properties of overlapping subproblems and optimal substructure. When a problem can be divided into subproblems that are smaller instances of the same problem, and the solution to the problem can be constructed from the solutions to the subproblems, dynamic programming can be used to find the optimal solution.
+
+One example of a problem that can be solved using dynamic programming is the knapsack problem. The knapsack problem is a combinatorial optimization problem where the goal is to maximize the value of items that can be placed into a knapsack of limited capacity. The problem can be solved using dynamic programming by breaking it down into smaller subproblems, where each subproblem represents the maximum value that can be achieved with a smaller knapsack and a subset of the items.
+
+The solution to the knapsack problem can be found by constructing a table where the rows represent the items and the columns represent the capacity of the knapsack. The entry in the table at row i and column j represents the maximum value that can be achieved with a knapsack of capacity j and the first i items. The table is filled in row by row, where each entry is calculated by considering whether to include the current item in the knapsack or not. The final solution to the problem is the entry in the bottom right corner of the table.
+
+Other examples of problems that can be solved using dynamic programming include the resource allocation problem, the traveling salesman problem, and the sum of subsets problem. These problems can be solved using similar techniques, where the problem is broken down into smaller subproblems and the solution is constructed from the solutions to the subproblems.
+
+In summary, dynamic programming is a powerful method for solving complex problems by breaking them down into smaller, simpler subproblems. It is applicable to problems that exhibit the properties of overlapping subproblems and optimal substructure, and can be used to find the optimal solution to a wide range of problems.

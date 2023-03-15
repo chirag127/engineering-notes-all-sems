@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query.
+
+The principles of modelling for object oriented system design are:
+
+- Abstraction: It is the process of identifying the essential features and behaviors of a system and ignoring the irrelevant details. Abstraction helps to reduce complexity and focus on the problem domain. 
+- Encapsulation: It is the mechanism of hiding the internal state and functionality of an object and only allowing access through a public set of functions. Encapsulation ensures data integrity and security, and prevents unauthorized or unintended manipulation. 
+- Inheritance: It is the ability to create new abstractions based on existing abstractions. Inheritance allows code reuse and specialization of behavior. A subclass inherits the attributes and methods of a superclass, and can override or extend them as needed. 
+- Polymorphism: It is the ability of an object to behave differently depending on the context or the type of the object. Polymorphism enables dynamic binding and flexibility of design. An object can implement multiple interfaces or abstract classes, and a method can have different implementations for different subclasses. 
+- Modularity: It is the principle of dividing a system into smaller and independent units or modules that can be composed and reused. Modularity enhances maintainability, testability, and extensibility of a system. A module should have high cohesion and low coupling, meaning that it should have a clear and single responsibility and minimal dependencies on other modules. 
+- Hierarchy: It is the principle of organizing a system into a hierarchical structure of levels or layers, where each level has a well-defined interface and responsibility. Hierarchy helps to manage complexity and abstraction, and to achieve modularity and reuse. A higher level can use the services of a lower level, but not vice versa. 
+- Typing: It is the principle of defining and enforcing the types of data and objects in a system. Typing helps to ensure correctness, safety, and efficiency of a system. A type specifies the set of values and operations that an object can have. A type system can be static or dynamic, strong or weak, depending on how and when the types are checked and enforced. 
+- Concurrency: It is the principle of allowing multiple activities or tasks to execute simultaneously or in parallel in a system. Concurrency enables responsiveness, performance, and scalability of a system. Concurrency can be achieved by using threads, processes, or distributed systems. Concurrency introduces challenges such as synchronization, communication, and coordination among the concurrent activities. 
+- Persistence: It is the principle of preserving the state and data of a system beyond its execution or lifetime. Persistence enables durability, availability, and consistency of a system. Persistence can be achieved by using files, databases, or other storage mechanisms. Persistence introduces challenges such as serialization, caching, and transaction management. 
+
+: Object-Oriented Programming (C#) | Microsoft Learn
+: Software Engineering | Object Modeling Technique (OMT)

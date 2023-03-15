@@ -1,0 +1,21 @@
+### Performance Measurements
+
+- Performance measurements are used to evaluate and compare the efficiency of different algorithms for solving a problem.
+- Performance measurements can be based on various factors, such as time, space, network, accuracy, etc.
+- Time: How much time does the algorithm take to execute on a given input?
+- Space: How much memory or space does the algorithm use while it is executed?
+- Network: How much data does the algorithm send or receive over the network?
+- Accuracy: How accurate is the algorithm in producing the correct output?
+- Performance measurements can be expressed using the **Big O notation**, which describes the asymptotic behavior of the algorithm as the input size grows.
+- Big O notation captures the **worst-case** scenario of the algorithm, i.e., the maximum number of operations it can perform on any input of size n.
+- Big O notation ignores the constant factors and lower-order terms that do not affect the growth rate of the algorithm.
+- For example, if an algorithm takes 2n + 5 operations to execute on an input of size n, its Big O notation is O(n), because the linear term n dominates the constant term 5 as n grows large.
+- Some common Big O notations are:
+  - O(1): constant time, the algorithm takes the same amount of time regardless of the input size.
+  - O(log n): logarithmic time, the algorithm takes less time as the input size increases, but at a decreasing rate.
+  - O(n): linear time, the algorithm takes more time as the input size increases, but at a constant rate.
+  - O(n log n): linearithmic time, the algorithm takes more time as the input size increases, but at a slower rate than linear time.
+  - O(n^2): quadratic time, the algorithm takes more time as the input size increases, but at a faster rate than linear time.
+  - O(2^n): exponential time, the algorithm takes more time as the input size increases, but at a very fast rate.
+  - O(n!): factorial time, the algorithm takes more time as the input size increases, but at an extremely fast rate.
+- Performance measurements can help us to choose the best algorithm for a given problem, based on the trade-offs between different factors and the expected input size.

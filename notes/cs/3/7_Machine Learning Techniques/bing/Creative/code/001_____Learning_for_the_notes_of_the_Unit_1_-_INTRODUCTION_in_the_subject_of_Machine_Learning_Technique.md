@@ -1,0 +1,11 @@
+# Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+
+- Machine learning is the study of algorithms and models that can learn from data and perform tasks such as prediction, classification, clustering, etc. without being explicitly programmed .
+- Machine learning can be divided into three main types: supervised learning, unsupervised learning, and reinforcement learning  .
+  - Supervised learning is the type of machine learning where the algorithm learns from labeled data, i.e., data that has a known output or target variable. The goal of supervised learning is to learn a function that maps the input data to the output data  .
+  - Unsupervised learning is the type of machine learning where the algorithm learns from unlabeled data, i.e., data that has no known output or target variable. The goal of unsupervised learning is to discover patterns, structures, or features in the data that can be useful for analysis or visualization  .
+  - Reinforcement learning is the type of machine learning where the algorithm learns from its own actions and feedback from the environment. The goal of reinforcement learning is to learn a policy that maximizes a reward function that measures the performance of the algorithm  .
+- Machine learning can be applied to various domains and problems, such as natural language processing, computer vision, speech recognition, recommender systems, robotics, bioinformatics, etc   .
+- Machine learning involves some basic concepts and steps, such as data collection, data preprocessing, feature extraction, model selection, model training, model evaluation, and model deployment   .
+- Machine learning also involves some challenges and issues, such as data quality, data scarcity, data imbalance, data privacy, model complexity, model interpretability, model generalization, model robustness, etc   .
+- Machine learning can be implemented using various tools and frameworks, such as Python, R, MATLAB, TensorFlow, PyTorch, scikit-learn, etc     .

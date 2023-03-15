@@ -1,0 +1,11 @@
+### Flow control and retransmission for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- The transport layer is the fourth layer of the OSI model that ensures the reliable delivery of messages across a network.
+- The transport layer performs the following functions    :
+  - Packetization: The transport layer divides the application messages into smaller segments and adds a header to each segment with a sequence number and other information.
+  - Flow control: The transport layer regulates the rate of data transmission between the sender and the receiver to prevent buffer overflow or underflow. The transport layer can use techniques such as sliding window, stop-and-wait, or backpressure to achieve flow control.
+  - Error control: The transport layer detects and corrects errors in the data segments by using checksums, acknowledgments, timers, and retransmissions. The transport layer can use techniques such as automatic repeat request (ARQ), selective repeat, or go-back-N to achieve error control.
+  - Multiplexing and demultiplexing: The transport layer enables multiple applications to share the same network connection by using port numbers to identify the source and destination applications. The transport layer can use techniques such as socket, stream, or datagram to achieve multiplexing and demultiplexing.
+  - Congestion control: The transport layer adjusts the sending rate of the sender to avoid network congestion and packet loss. The transport layer can use techniques such as additive increase multiplicative decrease (AIMD), slow start, congestion avoidance, or fast recovery to achieve congestion control.
+  - Quality of service (QoS): The transport layer can provide different levels of service to different applications based on their requirements, such as reliability, latency, throughput, or jitter. The transport layer can use techniques such as integrated services (IntServ), differentiated services (DiffServ), or multiprotocol label switching (MPLS) to achieve QoS.
+- The transport layer protocols are implemented in the end systems but not in the network routers. A computer network provides more than one protocol to the network applications, such as TCP and UDP, that provide a different set of services to the network layer.

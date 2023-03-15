@@ -1,0 +1,21 @@
+### Margin properties
+
+- The CSS margin properties are used to create space around elements, outside of any defined borders .
+- With CSS, you have full control over the margins. There are properties for setting the margin for each side of an element (top, right, bottom, and left)  .
+- The margin properties are:
+  - `margin`: A shorthand property for setting all the margins of an element  .
+  - `margin-top`: Sets the top margin of an element .
+  - `margin-right`: Sets the right margin of an element .
+  - `margin-bottom`: Sets the bottom margin of an element .
+  - `margin-left`: Sets the left margin of an element .
+- The margin properties can take different values, such as:
+  - Length values (e.g. `10px`, `2em`, `5%`)  .
+  - Auto values (e.g. `margin: auto`)  .
+  - Inherit values (e.g. `margin: inherit`)  .
+- The margin properties can also have different number of values, such as:
+  - One value (e.g. `margin: 10px`)  .
+  - Two values (e.g. `margin: 10px 20px`)  .
+  - Three values (e.g. `margin: 10px 20px 30px`)  .
+  - Four values (e.g. `margin: 10px 20px 30px 40px`)  .
+- The margin properties can affect the layout of the elements and the document flow  .
+- The margin properties can also create collapsing margins, which means that adjacent margins of two or more elements can combine into one margin  .

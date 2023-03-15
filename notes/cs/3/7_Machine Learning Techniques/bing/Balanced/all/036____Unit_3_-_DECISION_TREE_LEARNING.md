@@ -1,0 +1,27 @@
+## Unit 3 - DECISION TREE LEARNING
+
+- Decision tree learning is a supervised machine learning technique that can be used for classification or regression problems.
+- A decision tree is a graphical representation of a hierarchical structure that splits the data into subsets based on some criteria, such as the values of a feature or the outcome of a test.
+- A decision tree consists of nodes, branches, and leaves. A node represents a test or a decision point, a branch represents an outcome of a test or a value of a feature, and a leaf represents a class label or a predicted value.
+- The root node is the first node in the tree, and it contains the entire data set. The internal nodes are the nodes that have children, and they represent the tests or the features that are used to split the data. The leaf nodes are the nodes that have no children, and they represent the final predictions or the class labels.
+- The goal of decision tree learning is to find the optimal tree that minimizes the error or the impurity of the data at the leaf nodes, while also avoiding overfitting or underfitting the data.
+- There are different algorithms for decision tree learning, such as ID3, C4.5, CART, etc. They differ in the way they choose the features or the tests to split the data, the way they measure the error or the impurity of the data, and the way they prune the tree to avoid overfitting or underfitting.
+- Some of the common methods for choosing the features or the tests to split the data are:
+  - Information gain: This method selects the feature or the test that maximizes the reduction in entropy or the uncertainty of the data after the split.
+  - Gain ratio: This method is a modification of information gain that also takes into account the intrinsic information or the randomness of the feature or the test itself, and avoids bias towards features or tests that have many values or outcomes.
+  - Gini index: This method selects the feature or the test that minimizes the Gini impurity or the probability of misclassification of the data after the split.
+- Some of the common methods for measuring the error or the impurity of the data are:
+  - Entropy: This is a measure of the uncertainty or the disorder of the data, and it is calculated as the negative sum of the probabilities of each class label multiplied by the logarithm of the same probabilities.
+  - Gini impurity: This is a measure of the probability of misclassification of the data, and it is calculated as the sum of the products of the probabilities of each class label and the probabilities of the other class labels.
+  - Mean squared error: This is a measure of the average squared difference between the actual values and the predicted values of the data, and it is used for regression problems.
+- Some of the common methods for pruning the tree to avoid overfitting or underfitting are:
+  - Pre-pruning: This is a method that stops growing the tree before it reaches the maximum depth or the minimum number of samples at the leaf nodes, based on some criteria, such as the error rate or the confidence interval of the data.
+  - Post-pruning: This is a method that grows the tree to its full extent, and then removes some of the nodes or branches that do not improve the performance of the tree, based on some criteria, such as the error rate or the confidence interval of the data.
+- Some of the advantages of decision tree learning are:
+  - It is easy to understand and interpret, as it provides a visual and intuitive representation of the data and the rules that are used to make predictions.
+  - It can handle both categorical and numerical features, and it can also handle missing values and outliers in the data.
+  - It can perform feature selection and dimensionality reduction, as it only uses the relevant features or tests to split the data.
+- Some of the disadvantages of decision tree learning are:
+  - It can be prone to overfitting or underfitting the data, as it can create complex or simple trees that do not generalize well to new or unseen data.
+  - It can be unstable or sensitive to small changes in the data, as it can create different trees with different splits or structures.
+  - It can be biased or influenced by the order or the frequency of the features or the tests that are used to split the data, as it can create different trees with different accuracy or performance.

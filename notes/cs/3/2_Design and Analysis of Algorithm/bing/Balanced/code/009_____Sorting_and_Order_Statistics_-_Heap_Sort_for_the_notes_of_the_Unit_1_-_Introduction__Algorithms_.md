@@ -1,0 +1,10 @@
+### Sorting and Order Statistics - Heap Sort
+
+- Heap sort is a comparison-based sorting algorithm that uses a binary heap data structure to sort a given array of elements.
+- A binary heap is a complete binary tree that satisfies the heap property: the value of each node is greater than or equal to the values of its children (max-heap) or less than or equal to the values of its children (min-heap).
+- Heap sort consists of two phases: building the heap and extracting the elements from the heap.
+- Building the heap: the algorithm converts the input array into a max-heap or a min-heap by repeatedly applying a procedure called heapify, which ensures that the subtree rooted at a given node satisfies the heap property. This phase takes O(n) time, where n is the number of elements in the array.
+- Extracting the elements from the heap: the algorithm repeatedly swaps the root element of the heap with the last element of the heap, and then reduces the size of the heap by one. Then, it applies heapify to the root node to restore the heap property. This phase takes O(n log n) time, where n is the number of elements in the heap.
+- The overall time complexity of heap sort is O(n log n), where n is the number of elements in the array. The space complexity is O(1), as the algorithm only requires constant extra space.
+- Heap sort is an in-place, unstable, and non-adaptive sorting algorithm. It does not require additional memory, it does not preserve the relative order of equal elements, and it does not take advantage of the existing order in the input array.
+- Heap sort is suitable for sorting large data sets, as it has a good asymptotic performance and a low space requirement. However, it is not very efficient for sorting small data sets, as it has a high constant factor and a poor cache performance. It is also not stable, which may be undesirable for some applications.

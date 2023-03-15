@@ -1,0 +1,10 @@
+# Defining Name Servers
+
+- A name server is a computer that translates domain names into IP addresses, which are numerical identifiers of web servers.
+- A name server is part of the Domain Name System (DNS), which is a distributed network of name servers that maintains a database of domain names and their corresponding IP addresses.
+- A name server is also known as a DNS server or a name resolver.
+- A name server can be authoritative or recursive. An authoritative name server stores the DNS records for a specific domain name and responds to queries for that domain name. A recursive name server queries other name servers to resolve a domain name and caches the results for future use.
+- A name server can be primary or secondary. A primary name server is the main source of DNS information for a domain name and can make changes to the DNS records. A secondary name server is a backup that synchronizes with the primary name server and provides redundancy and load balancing.
+- A name server can be public or private. A public name server is accessible to anyone on the Internet and provides DNS resolution for many domain names. A private name server is only accessible to a specific network or organization and provides DNS resolution for internal domain names.
+- A name server can be configured by the domain name owner or the web hosting provider. The domain name owner can choose to use the name servers provided by the web hosting provider or use custom name servers from a third-party DNS service. The web hosting provider can also assign name servers to the domain name automatically or allow the domain name owner to change them manually.
+- A name server can be identified by a host name or an IP address. A host name is a human-readable name that follows the format of ns1.example.com, where ns1 is the name server prefix and example.com is the domain name. An IP address is a numerical identifier that follows the format of 192.168.1.1, where each number is between 0 and 255.

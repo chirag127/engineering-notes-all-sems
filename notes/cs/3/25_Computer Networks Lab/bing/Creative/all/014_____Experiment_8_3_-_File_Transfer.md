@@ -1,0 +1,25 @@
+# Experiment 8.3 - File Transfer
+
+- The objective of this experiment is to learn how to transfer files between different devices using various protocols and methods.
+- The prerequisites for this experiment are:
+  - Basic knowledge of networking concepts and terminology.
+  - Access to at least two devices that can communicate over a network, such as computers, smartphones, tablets, etc.
+  - A common file format that can be transferred and opened by both devices, such as a text file, an image file, a PDF file, etc.
+- The steps for this experiment are:
+  - Choose a file that you want to transfer from one device to another. Make sure the file is not too large or too sensitive for the purpose of this experiment.
+  - Decide which protocol or method you want to use for the file transfer. Some common options are:
+    - FTP (File Transfer Protocol): A standard network protocol for transferring files between a client and a server over a TCP/IP network. You will need an FTP client software on the device that initiates the transfer, and an FTP server software on the device that receives the transfer. You will also need to know the IP address, username, and password of the FTP server.
+    - HTTP (Hypertext Transfer Protocol): A standard network protocol for transferring files between a web browser and a web server over a TCP/IP network. You will need a web browser on the device that initiates the transfer, and a web server software on the device that receives the transfer. You will also need to know the URL (Uniform Resource Locator) of the file on the web server.
+    - Bluetooth: A wireless technology for transferring files between devices that are in close proximity to each other. You will need to enable Bluetooth on both devices, and pair them with each other. You will also need to select the file on the device that initiates the transfer, and accept the file on the device that receives the transfer.
+    - Email: A method of transferring files by attaching them to an email message and sending them to a recipient. You will need an email account and an email client software on the device that initiates the transfer, and an email account and an email client software on the device that receives the transfer. You will also need to know the email address of the recipient, and the size limit of the email attachment.
+  - Follow the instructions of the chosen protocol or method to transfer the file from one device to another. Verify that the file has been transferred successfully and that it can be opened by the receiving device.
+  - Repeat the steps with different files, protocols, and methods to compare their advantages and disadvantages. Some factors to consider are:
+    - Speed: How fast is the file transfer?
+    - Reliability: How likely is the file transfer to fail or be interrupted?
+    - Security: How secure is the file transfer from unauthorized access or modification?
+    - Ease of use: How easy is the file transfer to set up and perform?
+    - Compatibility: How compatible is the file transfer with different devices and file formats?
+- The expected outcomes of this experiment are:
+  - You will gain practical experience in transferring files between different devices using various protocols and methods.
+  - You will understand the benefits and drawbacks of different file transfer options.
+  - You will be able to choose the most suitable file transfer option for different scenarios and purposes.

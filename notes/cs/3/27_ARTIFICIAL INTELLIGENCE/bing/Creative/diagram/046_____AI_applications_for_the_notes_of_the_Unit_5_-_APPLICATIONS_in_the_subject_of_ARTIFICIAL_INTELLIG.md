@@ -1,0 +1,16 @@
+### AI applications
+
+Artificial intelligence (AI) is a general purpose technology that has a multitude of applications in various domains. AI can be used to perform tasks that are difficult, tedious, or dangerous for humans, as well as to enhance human capabilities and creativity. Some of the common AI applications are:
+
+- **Transportation**: AI can assist drivers with features like self-parking, advanced cruise control, lane keeping, and collision avoidance. AI can also enable autonomous vehicles that can navigate complex environments without human intervention .
+- **Manufacturing**: AI can help automate and optimize various aspects of manufacturing, such as quality control, inventory management, predictive maintenance, and supply chain optimization. AI can also enable robots to perform tasks that are non-ergonomic, hazardous, or require high precision .
+- **Healthcare**: AI can help diagnose diseases, recommend treatments, monitor patients, and discover new drugs using patient's health data and other related data. AI can also assist doctors and nurses with tasks like image analysis, natural language processing, and decision support  .
+- **Finance and Banking**: AI can help with fraud detection, credit scoring, risk management, and customer service in the finance and banking sector. AI can also enable personalized financial advice, robo-advisors, and algorithmic trading  .
+- **Human Resources**: AI can help with talent acquisition, performance evaluation, employee engagement, and retention in the human resources domain. AI can also enable resume screening, interview scheduling, and feedback generation .
+- **Agriculture**: AI can help with crop monitoring, pest detection, yield prediction, and irrigation management in the agriculture sector. AI can also enable precision farming, smart greenhouses, and drone-based surveillance  .
+- **Education**: AI can help with personalized learning, adaptive assessment, and feedback generation in the education domain. AI can also enable intelligent tutoring systems, gamified learning, and plagiarism detection  .
+- **E-Commerce**: AI can help with product recommendation, price optimization, customer segmentation, and sentiment analysis in the e-commerce sector. AI can also enable chatbots, voice assistants, and visual search  .
+- **Smart Devices**: AI can help with speech recognition, face recognition, gesture recognition, and natural language understanding in smart devices like phones, tablets, laptops, and wearables. AI can also enable biometric authentication, emotion detection, and augmented reality  .
+- **ERP**: AI can help with data analysis, process automation, and decision support in enterprise resource planning (ERP) systems. AI can also enable predictive analytics, anomaly detection, and natural language generation .
+
+These are some of the AI applications that are widely adopted or emerging in the current scenario. However, AI has the potential to transform many other domains and industries in the future, such as entertainment, media, art, law, security, and social welfare.

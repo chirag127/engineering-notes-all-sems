@@ -1,0 +1,12 @@
+### Types of support vector kernel
+
+- A support vector kernel is a function that transforms the input data into a higher dimensional feature space, where a linear classifier can be used to separate the data.
+- The choice of kernel function affects the performance and accuracy of the support vector machine (SVM) model.
+- There are different types of kernel functions, each with its own advantages and disadvantages. Some of the popular ones are:
+
+  - **Linear kernel**: This is the simplest kernel function, which computes the dot product of the input vectors. It is suitable for linearly separable data, but may not perform well on non-linear data. It has no hyperparameters to tune, and is fast to compute.
+  - **Polynomial kernel**: This kernel function computes the dot product of the input vectors raised to a specified degree. It can generate non-linear decision boundaries using polynomial features. It has two hyperparameters: the degree of the polynomial and a constant term. It can fit more complex data than the linear kernel, but may also overfit or underfit depending on the choice of hyperparameters.
+  - **Radial basis function (RBF) kernel**: This kernel function computes the exponential of the negative squared distance between the input vectors. It can generate non-linear decision boundaries using radial basis functions, which measure the similarity between the input vectors and some centers. It has one hyperparameter: the width of the radial basis functions. It can fit any data, but may also overfit or underfit depending on the choice of hyperparameter. It is also more computationally expensive than the linear kernel.
+  - **Sigmoid kernel**: This kernel function computes the hyperbolic tangent of the scaled and shifted dot product of the input vectors. It can generate non-linear decision boundaries using sigmoid functions, which are similar to neural network activation functions. It has two hyperparameters: the scale and the shift of the dot product. It can fit some non-linear data, but may also suffer from numerical instability or poor performance.
+
+- Other types of kernel functions include cosine similarity, Laplacian, chi-squared, and Gaussian kernel. The choice of kernel function depends on the characteristics of the data and the desired complexity of the model.

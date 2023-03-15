@@ -1,0 +1,8 @@
+### Working with Lists and Tables
+
+- Lists and tables are common elements in web pages that can be styled with CSS.
+- Lists are used to display a series of items in a vertical or horizontal order. There are three types of lists in HTML: ordered lists, unordered lists, and definition lists.
+- Ordered lists (`<ol>`) use numbers, letters, or other symbols to indicate the order of the items. Unordered lists (`<ul>`) use bullets or other markers to show the items. Definition lists (`<dl>`) consist of pairs of terms (`<dt>`) and definitions (`<dd>`).
+- To style lists with CSS, you can use properties such as `list-style-type`, `list-style-image`, `list-style-position`, and `list-style` to change the appearance of the list markers, or use `display` and `flex` properties to change the layout of the list items.
+- Tables are used to display data in rows and columns. Tables are composed of table elements such as `<table>`, `<tr>`, `<td>`, `<th>`, `<thead>`, `<tbody>`, and `<tfoot>`.
+- To style tables with CSS, you can use properties such as `border`, `border-collapse`, `border-spacing`, `padding`, `text-align`, `vertical-align`, and `background-color` to change the appearance of the table cells, or use `display` and `grid` properties to change the layout of the table rows and columns. You can also use pseudo-classes such as `:nth-child` and `:hover` to apply different styles to specific table elements.

@@ -1,0 +1,21 @@
+# Type Conversion
+
+- Type conversion is the process of changing the data type of a value or an expression to another data type.
+- Type conversion can be either implicit or explicit.
+- Implicit type conversion is done automatically by the compiler or the interpreter when the operands of an expression have different data types or when a value is assigned to a variable of a different data type.
+- Explicit type conversion is done by the programmer using a type cast operator or a conversion function to specify the desired data type of the result.
+- Type conversion can be either widening or narrowing.
+- Widening type conversion is when the result has a larger range or precision than the original value or expression. For example, converting an int to a double or a char to an int.
+- Narrowing type conversion is when the result has a smaller range or precision than the original value or expression. For example, converting a double to an int or an int to a char.
+- Widening type conversion is usually safe and does not cause any loss of information or accuracy.
+- Narrowing type conversion can be unsafe and may cause loss of information or accuracy, truncation, rounding, or overflow.
+- Type conversion can also be done between primitive types and reference types, such as between int and Integer, or between String and char[].
+- Primitive types are the basic data types that are built into the language, such as int, double, char, boolean, etc.
+- Reference types are the data types that are defined by classes, such as String, Integer, Object, etc.
+- Primitive types store the actual value in memory, while reference types store the address of an object in memory.
+- To convert a primitive type to a reference type, the programmer can use a wrapper class or a constructor of the reference type. For example, int i = 10; Integer iObj = new Integer(i); or Integer iObj = Integer.valueOf(i);
+- To convert a reference type to a primitive type, the programmer can use a method of the reference type that returns the corresponding primitive type. For example, Integer iObj = new Integer(10); int i = iObj.intValue();
+- To convert a String to a primitive type, the programmer can use a parse method of the wrapper class of the primitive type. For example, String s = "10"; int i = Integer.parseInt(s); or double d = Double.parseDouble(s);
+- To convert a primitive type to a String, the programmer can use the toString method of the wrapper class of the primitive type or the String.valueOf method. For example, int i = 10; String s = Integer.toString(i); or String s = String.valueOf(i);
+- To convert a String to a char array, the programmer can use the toCharArray method of the String class. For example, String s = "Hello"; char[] c = s.toCharArray();
+- To convert a char array to a String, the programmer can use the String constructor that takes a char array as a parameter. For example, char[] c = {'H', 'e', 'l', 'l', 'o'}; String s = new String(c);

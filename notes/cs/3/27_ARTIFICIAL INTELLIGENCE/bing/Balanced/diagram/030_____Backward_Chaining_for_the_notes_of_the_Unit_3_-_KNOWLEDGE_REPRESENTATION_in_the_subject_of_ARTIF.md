@@ -1,0 +1,34 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS. Here is the content for the topic of Backward Chaining:
+
+### Backward Chaining
+- Backward chaining is a method of reasoning that starts from the goal and works backward to find the facts or rules that can prove it.
+- Backward chaining is useful for answering queries or solving problems that have a clear goal or a well-defined solution.
+- Backward chaining is based on the modus ponens rule of inference, which states that if P implies Q and P is true, then Q is true.
+- Backward chaining can be applied to a knowledge base that consists of a set of facts and a set of rules. A fact is a statement that is known to be true, and a rule is a statement that implies a new fact from existing facts.
+- Backward chaining algorithm:
+  - Input: A knowledge base KB and a query Q
+  - Output: A proof of Q from KB or a failure
+  - Procedure:
+    - Initialize a goal stack with Q
+    - Repeat until the goal stack is empty or a failure occurs:
+      - Pop the top goal G from the goal stack
+      - If G is a fact in KB, then continue
+      - Else, find a rule R in KB that has G as its consequent
+      - If no such rule exists, then return failure
+      - Else, push the antecedent of R onto the goal stack
+    - Return success and the proof of Q from KB
+- Example:
+  - KB: {P, Q, R, (P ^ Q) -> S, (R ^ S) -> T}
+  - Q: T
+  - Goal stack: [T]
+  - Pop T, find rule (R ^ S) -> T, push R and S
+  - Goal stack: [S, R]
+  - Pop R, find fact R, continue
+  - Goal stack: [S]
+  - Pop S, find rule (P ^ Q) -> S, push P and Q
+  - Goal stack: [Q, P]
+  - Pop P, find fact P, continue
+  - Goal stack: [Q]
+  - Pop Q, find fact Q, continue
+  - Goal stack: []
+  - Return success and proof: T <- (R ^ S) <- (P ^ Q) <- P, Q, R

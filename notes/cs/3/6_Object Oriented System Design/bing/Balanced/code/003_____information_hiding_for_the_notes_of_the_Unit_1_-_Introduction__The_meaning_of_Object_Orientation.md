@@ -1,0 +1,8 @@
+### Information hiding for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Information hiding is a principle of modularization that aims to reduce the complexity and risk of software development by hiding the details of implementation from the users of a module .
+- Information hiding allows a module to provide a well-defined interface that specifies the operations and properties that are available to the users, while concealing the internal logic and data structures that support them .
+- Information hiding enables a module to be changed or replaced without affecting the rest of the system, as long as the interface remains consistent . This enhances the maintainability, reusability, and reliability of software components .
+- Information hiding is one of the key characteristics of object-oriented programming, where objects encapsulate their state and behavior and expose only the relevant and essential aspects to other objects .
+- Information hiding can be achieved in object-oriented programming by using access modifiers, such as public, private, and protected, to control the visibility and accessibility of the members of a class .
+- Information hiding supports the concepts of abstraction, inheritance, and polymorphism, which are the core features of object-oriented system design . Abstraction allows a class to represent the essential features of a concept or entity, while hiding the irrelevant details. Inheritance allows a subclass to inherit the common attributes and methods of a superclass, while hiding the differences. Polymorphism allows a single interface to be implemented by multiple classes, while hiding the specific behavior of each class.

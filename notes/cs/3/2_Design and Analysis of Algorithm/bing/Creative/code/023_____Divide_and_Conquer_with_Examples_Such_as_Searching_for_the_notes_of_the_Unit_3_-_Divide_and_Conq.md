@@ -1,0 +1,13 @@
+# Divide and Conquer with Examples Such as Sorting, Matrix Multiplication, Convex Hull and Searching
+
+- Divide and conquer is a paradigm for designing algorithms that solve a problem by breaking it into smaller subproblems, solving them recursively, and combining their solutions to get the final answer  .
+- Divide and conquer algorithms have three main steps: divide, conquer, and combine .
+  - Divide: This step involves splitting the problem into smaller and simpler subproblems of the same type.
+  - Conquer: This step involves solving the subproblems by calling the algorithm recursively until they are small enough to be solved directly.
+  - Combine: This step involves merging the solutions of the subproblems to obtain the solution of the original problem.
+- Divide and conquer algorithms are often efficient and elegant, as they reduce the complexity of the problem by exploiting its structure and properties .
+- Some examples of divide and conquer algorithms are:
+  - Sorting: Merge sort and quicksort are two popular sorting algorithms that use divide and conquer. Merge sort divides the array into two halves, sorts them recursively, and then merges them in linear time. Quicksort partitions the array around a pivot element, sorts the two subarrays recursively, and then concatenates them. Both algorithms have an average time complexity of O(n log n) .
+  - Matrix multiplication: Strassen's algorithm is an efficient algorithm to multiply two matrices. A naive algorithm would need three nested loops and O(n^3) time. Strassen's algorithm divides each matrix into four submatrices, performs seven multiplications and some additions on them, and then combines them to get the final product. The algorithm has a time complexity of O(n^2.8974) .
+  - Convex hull: The convex hull of a set of points is the smallest convex polygon that contains all the points. A divide and conquer algorithm for finding the convex hull works as follows: split the points into two halves by a vertical line, find the convex hull of each half recursively, and then merge the two hulls by finding the upper and lower tangents. The algorithm has a time complexity of O(n log n).
+  - Searching: Binary search is a classic example of a divide and conquer algorithm for searching a sorted array. It works by comparing the target element with the middle element of the array, and then recursively searching the left or right subarray depending on the comparison result. The algorithm has a time complexity of O(log n) .

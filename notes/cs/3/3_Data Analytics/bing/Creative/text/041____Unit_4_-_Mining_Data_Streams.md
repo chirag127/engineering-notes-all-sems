@@ -1,0 +1,26 @@
+## Unit 4 - Mining Data Streams
+
+- A data stream is a sequence of data elements that arrives continuously and rapidly, and whose size is potentially unbounded.
+- Examples of data streams include sensor readings, network packets, web clicks, online transactions, social media posts, etc.
+- Mining data streams poses several challenges, such as:
+  - The data cannot be stored or accessed randomly, and only a small fraction of the data can be kept in memory.
+  - The data may be noisy, incomplete, or evolving over time, and the patterns or models derived from the data may need to be updated accordingly.
+  - The data may arrive at a high speed or with variable rates, and the algorithms need to process the data in real time or near real time, with low latency and high throughput.
+- Some common tasks or goals of mining data streams are:
+  - Sampling: selecting a representative subset of the data stream that preserves its main characteristics and distributions.
+  - Filtering: removing irrelevant, redundant, or noisy data elements from the data stream based on some criteria or rules.
+  - Aggregation: computing summary statistics or measures of the data stream, such as count, sum, average, minimum, maximum, etc.
+  - Clustering: grouping similar data elements in the data stream into clusters or partitions, based on some distance or similarity measure.
+  - Classification: assigning labels or categories to the data elements in the data stream, based on some predefined classes or models.
+  - Outlier detection: identifying data elements in the data stream that deviate significantly from the normal or expected behavior or pattern.
+  - Frequent pattern mining: discovering recurring or frequent patterns or associations among the data elements in the data stream, such as itemsets, subsequences, subgraphs, etc.
+  - Trend analysis: detecting changes or trends in the data stream over time, such as shifts, spikes, bursts, cycles, etc.
+- Some common techniques or methods for mining data streams are:
+  - Sliding window: maintaining a fixed-size or variable-size window of the most recent data elements in the data stream, and discarding the older data elements that fall out of the window.
+  - Sketching: creating a compact and approximate representation of the data stream, such as a histogram, a count-min sketch, a bloom filter, etc., that supports fast and accurate queries or computations on the data stream.
+  - Sampling: applying random or weighted sampling techniques to select a subset of the data stream that preserves its main characteristics and distributions, such as reservoir sampling, priority sampling, etc.
+  - Synopsis: constructing a summary or synopsis of the data stream, such as a quantile summary, a wavelet transform, a synopsis diffusion, etc., that captures the essential features or properties of the data stream.
+  - Micro-clustering: creating small and dynamic clusters of the data elements in the data stream, based on some distance or similarity measure, and updating the clusters as new data elements arrive or old data elements expire, such as CF-tree, CluStream, etc.
+  - Ensemble learning: combining multiple models or classifiers that are trained on different subsets or segments of the data stream, and using a voting or weighting scheme to produce a final prediction or classification, such as bagging, boosting, stacking, etc.
+  - Concept drift detection: monitoring the performance or accuracy of the models or classifiers on the data stream, and detecting when there is a significant change or drift in the underlying concept or distribution of the data stream, such as DDM, EDDM, ADWIN, etc.
+  - Concept evolution detection: discovering new or emerging concepts or classes in the data stream, and incorporating them into the existing models or classifiers, such as EC3, Minas, etc.

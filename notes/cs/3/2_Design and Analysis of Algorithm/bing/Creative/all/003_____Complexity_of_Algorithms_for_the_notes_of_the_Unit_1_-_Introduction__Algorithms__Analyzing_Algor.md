@@ -1,0 +1,25 @@
+# Complexity of Algorithms
+
+- Complexity of algorithms is a measure of how long an algorithm would take to complete given an input of size n.
+- Complexity is about the algorithm itself, the way it processes the data to solve a given problem. It's a software design concern at the "idea level".
+- Complexity is calculated asymptotically as n approaches infinity, to capture the behavior of the algorithm for large inputs.
+- Complexity is also called algorithmic complexity or running time.
+- Complexity is important for evaluating the efficiency and scalability of algorithms.
+- Complexity can be measured in terms of time and space.
+  - Time complexity: Time taken by the algorithm to solve the problem. It is measured by calculating the number of iterations of loops, recursive calls, comparisons, etc.
+  - Space complexity: Space taken by the algorithm to solve the problem. It includes space for input, output, variables, constants, etc.
+- Complexity can be expressed using different notations, such as big O, big Theta, big Omega, etc.
+  - Big O notation: It gives the upper bound of the complexity, or the worst-case scenario. It is denoted by O(f(n)), where f(n) is some function of n.
+  - Big Theta notation: It gives the tight bound of the complexity, or the average-case scenario. It is denoted by Θ(f(n)), where f(n) is some function of n.
+  - Big Omega notation: It gives the lower bound of the complexity, or the best-case scenario. It is denoted by Ω(f(n)), where f(n) is some function of n.
+- Complexity can be classified into different classes, such as constant, logarithmic, linear, polynomial, exponential, etc.
+  - Constant complexity: It means the complexity does not depend on the input size. It is denoted by O(1).
+  - Logarithmic complexity: It means the complexity grows as the logarithm of the input size. It is denoted by O(log n).
+  - Linear complexity: It means the complexity grows as the input size. It is denoted by O(n).
+  - Polynomial complexity: It means the complexity grows as some power of the input size. It is denoted by O(n^k), where k is some constant.
+  - Exponential complexity: It means the complexity grows as some exponential function of the input size. It is denoted by O(a^n), where a is some constant.
+- Complexity can be compared using the order of growth, or the rate at which the complexity increases as the input size increases.
+  - For example, O(n) is better than O(n^2), because O(n) grows slower than O(n^2) as n increases.
+  - Similarly, O(log n) is better than O(n), because O(log n) grows slower than O(n) as n increases.
+  - The best complexity is O(1), because it does not depend on the input size at all.
+  - The worst complexity is O(n!), because it grows faster than any other complexity as n increases.

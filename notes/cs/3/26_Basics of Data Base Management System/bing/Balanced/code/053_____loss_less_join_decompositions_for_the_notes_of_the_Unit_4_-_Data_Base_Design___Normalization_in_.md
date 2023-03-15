@@ -1,0 +1,28 @@
+### Lossless Join Decomposition
+
+- Lossless join decomposition is a process of splitting a relation R into two or more relations R1, R2, ... such that the natural join of the smaller relations yields back the original relation R. 
+- Lossless join decomposition is important for removing redundancy and anomalies from databases while preserving the original data.  
+- Lossless join decomposition is based on the concept of functional dependencies, which are constraints that specify how one set of attributes determines another set of attributes in a relation. 
+- A decomposition of R into R1 and R2 is lossless if and only if one of the following functional dependencies holds in the closure of the given set of functional dependencies F:  
+  - R1 ∩ R2 → R1
+  - R1 ∩ R2 → R2
+- The above condition ensures that the common attributes of R1 and R2 are a superkey for either R1 or R2, which means that they can uniquely identify each tuple in the smaller relation. 
+- If the decomposition is not lossless, then the natural join of R1 and R2 may produce spurious tuples that do not exist in the original relation R, resulting in loss of information and inconsistency. 
+- There are algorithms that can decompose a relation into smaller relations that are in a certain normal form and also satisfy the lossless join property. Some of these algorithms are: 
+  - Boyce-Codd Normal Form (BCNF) decomposition algorithm
+  - Third Normal Form (3NF) decomposition algorithm
+- These algorithms use the concept of minimal cover, which is a minimal set of functional dependencies that is equivalent to the given set of functional dependencies. 
+- The steps of the BCNF decomposition algorithm are: 
+  - Find a minimal cover G for the given set of functional dependencies F.
+  - Initialize the set of relations D to {R}, where R is the original relation.
+  - For each relation Ri in D, do the following:
+    - Find a functional dependency X → Y in G that violates BCNF, i.e., X is not a superkey for Ri.
+    - If such a dependency exists, then replace Ri by two relations: (Ri - Y) and (X U Y).
+    - Repeat this step until Ri is in BCNF or no more dependencies in G can be applied.
+  - Return the set of relations D as the final decomposition.
+- The steps of the 3NF decomposition algorithm are: 
+  - Find a minimal cover G for the given set of functional dependencies F.
+  - Find a canonical cover H for G, i.e., a set of functional dependencies that preserves the dependency and has a singleton right-hand side.
+  - For each functional dependency X → A in H, create a relation with the schema XA and add it to the set of relations D.
+  - If none of the relations in D contains a key of R, then create a relation with the schema of any key of R and add it to D.
+  - Return the set of relations D as the final decomposition.

@@ -1,0 +1,15 @@
+# Manipulating Enterprise Java Beans
+
+Enterprise Java Beans (EJB) are server-side components that encapsulate the business logic of an application. They are part of the Java Platform, Enterprise Edition (Java EE) and provide a standard way of developing distributed, transactional, secure and portable applications based on Java technology.
+
+There are three types of enterprise beans:
+
+- **Session beans**: These are non-persistent objects that handle requests from clients. They can be stateless (no conversational state with the client) or stateful (maintain conversational state with the client). They can also be singleton (only one instance per application) or asynchronous (handle requests concurrently)  .
+- **Entity beans**: These are persistent objects that represent data stored in a database. They can be container-managed (the container handles the persistence logic) or bean-managed (the bean handles the persistence logic). They can also be CMP (container-managed persistence) or BMP (bean-managed persistence)  .
+- **Message-driven beans**: These are stateless objects that act as message consumers and process messages from a message queue. They implement the Java Message Service (JMS) API and can handle both synchronous and asynchronous messages   .
+
+To manipulate enterprise beans, one needs to use the following steps:
+
+- **Create and deploy an enterprise bean**: This involves writing the Java code for the bean class, the remote and/or local interfaces, the home and/or business interfaces, and the deployment descriptor. The deployment descriptor is an XML file that specifies the configuration and properties of the bean. The bean class and the interfaces must follow certain naming conventions and rules. The bean must also be packaged in a JAR file and deployed to an EJB container, which is a runtime environment that manages the bean's lifecycle and services .
+- **Access and invoke an enterprise bean**: This involves obtaining a reference to the bean's home or business interface, which can be done through various methods such as JNDI lookup, dependency injection, or service locator. The home interface provides methods for creating, finding, and removing bean instances, while the business interface provides methods for invoking the bean's business logic. The client can then use the reference to invoke the methods on the bean and receive the results .
+- **Manage the enterprise bean's lifecycle and services**: This involves using the EJB container's features and APIs to control the bean's creation, activation, passivation, removal, pooling, caching, security, transactions, concurrency, and messaging. The container provides these services transparently to the bean and the client, and the bean can use annotations or the deployment descriptor to specify its requirements and preferences for these services .

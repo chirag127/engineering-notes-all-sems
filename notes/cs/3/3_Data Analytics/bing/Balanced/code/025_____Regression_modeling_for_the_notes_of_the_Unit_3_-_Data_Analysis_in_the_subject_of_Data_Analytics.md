@@ -1,0 +1,22 @@
+### Regression modeling for the notes of the Unit 3 - Data Analysis in the subject of Data Analytics
+
+- Regression modeling is a statistical technique that aims to describe the relationship between one or more explanatory variables (also called independent variables or predictors) and a response variable (also called dependent variable or outcome).
+- Regression models can be used for various purposes, such as:
+  - Exploring the nature and strength of the relationship between variables
+  - Testing hypotheses about the effects of variables on the response
+  - Estimating the value of the response variable for a given set of explanatory variables
+  - Predicting the future values of the response variable based on new or unseen data
+- There are different types of regression models, depending on the nature of the response variable and the assumptions made about the error term. Some common types are:
+  - Linear regression: The response variable is continuous and the relationship between the variables is linear. The error term is assumed to be normally distributed and have constant variance.
+  - Logistic regression: The response variable is binary (0 or 1) and the relationship between the variables is modeled by a logistic function. The error term is assumed to follow a binomial distribution.
+  - Poisson regression: The response variable is a count (non-negative integer) and the relationship between the variables is modeled by a Poisson function. The error term is assumed to follow a Poisson distribution.
+  - Multinomial regression: The response variable is categorical (more than two categories) and the relationship between the variables is modeled by a multinomial function. The error term is assumed to follow a multinomial distribution.
+- To perform a regression analysis, the following steps are usually involved:
+  - Selecting the appropriate type of regression model based on the research question and the data
+  - Fitting the model to the data using a method such as ordinary least squares (OLS), maximum likelihood estimation (MLE), or gradient descent
+  - Evaluating the quality of the model using various criteria, such as coefficient of determination (R-squared), mean squared error (MSE), log-likelihood, or Akaike information criterion (AIC)
+  - Testing the significance of the model parameters using methods such as t-test, z-test, or F-test
+  - Interpreting the model coefficients and their implications for the research question
+  - Checking the validity of the model assumptions using methods such as residual analysis, diagnostic plots, or goodness-of-fit tests
+  - Comparing the model with alternative models or specifications using methods such as nested model test, likelihood ratio test, or Bayesian information criterion (BIC)
+  - Making predictions or inferences based on the model using methods such as confidence intervals, prediction intervals, or hypothesis testing

@@ -1,0 +1,21 @@
+# Implementation of Control for the Notes of the Unit 3 - Object Oriented Analysis in the Subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is a method for analyzing and designing an application, system, or business by applying the object-oriented paradigm.
+- OOA focuses on modeling the functional requirements of the software while remaining independent of any implementation details.
+- OOA involves identifying the objects and classes that represent the entities and concepts in the problem domain, and defining their attributes, operations, and relationships.
+- OOA also involves defining the scenarios and use cases that describe how the objects interact to achieve the goals and functions of the system.
+- One of the methods for conducting OOA is the Shlaer-Mellor method, also known as Object-Oriented Systems Analysis (OOSA).
+- The Shlaer-Mellor method consists of the following steps:
+  - Domain analysis: identifying the domain of interest and defining its terminology, scope, and context.
+  - Information analysis: identifying the information objects and their attributes that are relevant to the domain, and organizing them into a conceptual schema.
+  - State analysis: identifying the states and events that affect the behavior of the information objects, and defining the state models that describe their transitions and actions.
+  - Process analysis: identifying the processes and services that manipulate the information objects, and defining the process models that describe their inputs, outputs, and control flows.
+  - Control analysis: identifying the control objects and their attributes that coordinate the processes and services, and defining the control models that describe their interactions and rules.
+- The Shlaer-Mellor method uses a graphical notation called Object Modeling Technique (OMT) to represent the analysis models.
+- OMT consists of the following diagrams:
+  - Object model: shows the classes and objects and their associations and generalizations.
+  - Dynamic model: shows the state models and event traces of the classes and objects.
+  - Functional model: shows the process models and data flows of the classes and objects.
+- The Shlaer-Mellor method also uses a textual notation called Action Language to specify the details of the operations, actions, and rules of the analysis models.
+- Action Language is a structured, imperative, and object-oriented language that supports data manipulation, control flow, and communication.
+- The Shlaer-Mellor method aims to make the analysis models so precise and complete that they can be directly implemented by a code generator.

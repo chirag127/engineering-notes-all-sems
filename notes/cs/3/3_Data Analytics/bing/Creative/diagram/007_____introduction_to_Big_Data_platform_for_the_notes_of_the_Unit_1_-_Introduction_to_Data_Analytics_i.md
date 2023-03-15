@@ -1,0 +1,9 @@
+### Introduction to Big Data Platform
+
+- A big data platform is a type of IT solution that combines the features and capabilities of several big data applications and utilities within a single solution.
+- A big data platform enables organizations to develop, deploy, operate and manage a big data infrastructure/environment.
+- A big data platform generally consists of big data storage, servers, database, big data management, business intelligence and other big data management utilities. It also supports custom development, querying and integration with other systems.
+- A big data platform acts as an organized storage medium for large amounts of data. Big data platforms utilize a combination of data management hardware and software tools to store aggregated data sets, usually onto the cloud.
+- Big data is different from typical data assets because of its volume, complexity and need for advanced business intelligence tools to process and analyze it. The attributes that define big data are volume, variety and velocity, also known as the three Vs .
+- Volume refers to the amount of data generated and stored, which can range from terabytes to zettabytes. Variety refers to the types and sources of data, which can be structured, unstructured or semi-structured. Velocity refers to the speed and frequency of data generation and processing, which can be real-time, near-real-time or batch .
+- Big data platforms can help organizations gain insights from their data, improve decision making, enhance customer experience, optimize operations, reduce costs, increase revenue and create new business opportunities  .

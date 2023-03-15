@@ -1,0 +1,30 @@
+### Sampling Data in a Stream
+
+- Sampling data in a stream is a technique to select a subset of data items from a continuous and potentially infinite stream of data.
+- Sampling data in a stream can be useful for several purposes, such as:
+  - Reducing the memory and computational cost of processing the stream.
+  - Estimating statistics or properties of the stream, such as frequency, mean, variance, etc.
+  - Detecting outliers or anomalies in the stream.
+  - Finding frequent or rare items in the stream.
+- Sampling data in a stream can be challenging because of the following factors:
+  - The stream may be too large or fast to store or process all the data items.
+  - The stream may be dynamic and evolving over time, requiring adaptive sampling methods.
+  - The stream may be noisy or contain missing or erroneous data items, requiring robust sampling methods.
+  - The stream may have unknown or varying distribution, requiring unbiased sampling methods.
+- Sampling data in a stream can be classified into two main types: **reservoir sampling** and **sketch-based sampling**.
+- Reservoir sampling is a technique to maintain a fixed-size sample of data items from a stream, such that each data item has an equal probability of being in the sample at any time.
+  - Reservoir sampling works by initializing an empty sample of size k, and then processing each data item from the stream as follows:
+    - If the sample is not full, add the data item to the sample.
+    - If the sample is full, generate a random number r between 1 and the number of data items seen so far, and replace the r-th data item in the sample with the current data item, with probability k/r.
+  - Reservoir sampling has the following properties:
+    - It is simple and efficient, requiring only O(k) space and O(1) time per data item.
+    - It is unbiased, meaning that each data item has the same probability of being in the sample, regardless of the order or distribution of the stream.
+    - It is online, meaning that it can process the stream in one pass and update the sample as new data items arrive.
+    - It is adaptive, meaning that it can handle changes in the stream over time, without requiring prior knowledge of the stream size or distribution.
+- Sketch-based sampling is a technique to maintain a compact summary or representation of the stream, such that the sample can be extracted or reconstructed from the sketch with some accuracy or confidence.
+  - Sketch-based sampling works by applying a hash function or a random projection to each data item from the stream, and then storing or updating some statistics or counters based on the hashed or projected values.
+  - Sketch-based sampling has the following properties:
+    - It is scalable and flexible, requiring only O(log n) space and O(1) time per data item, where n is the stream size or the number of distinct data items in the stream.
+    - It is approximate, meaning that the sample may not be exact or representative of the stream, but can be bounded by some error or confidence intervals.
+    - It is offline, meaning that it requires the sketch to be constructed before the sample can be extracted or reconstructed from the sketch.
+    - It is specialized, meaning that it can be tailored to specific sampling tasks or objectives, such as frequency estimation, quantile estimation, heavy hitter detection, etc.

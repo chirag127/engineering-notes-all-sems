@@ -1,0 +1,21 @@
+### Activation Functions
+
+- Activation functions are mathematical equations that determine the output of a neural network model.
+- Activation functions also have a major effect on the neural network’s ability to converge and the convergence speed, or in some cases, activation functions might prevent neural networks from converging in the first place.
+- Activation functions are functions used in a neural network to compute the weighted sum of inputs and biases, which is in turn used to decide whether a neuron can be activated or not.
+- Activation functions manipulate the presented data and produce an output for the neural network that contains the parameters in the data.
+- Activation functions shape the outputs of artificial neurons and, therefore, are integral parts of neural networks in general and deep learning in particular.
+- Some activation functions, such as logistic and relu, have been used for many decades.
+- Activation functions can be linear or nonlinear, depending on whether they preserve or distort the linearity of the input data.
+- Activation functions can be classified into four main types: threshold, sigmoid, hyperbolic tangent, and rectified linear unit.
+- Threshold activation function outputs a binary value (0 or 1) based on whether the input exceeds a certain threshold.
+- Sigmoid activation function outputs a value between 0 and 1, which can be interpreted as a probability or a degree of activation.
+- Hyperbolic tangent activation function outputs a value between -1 and 1, which can be interpreted as a positive or negative activation.
+- Rectified linear unit activation function outputs the input value if it is positive, and 0 otherwise.
+- The choice of activation function depends on the type of problem, the architecture of the neural network, and the desired properties of the output.
+- Some of the desired properties of activation functions are: differentiability, monotonicity, smoothness, boundedness, and non-saturation.
+- Differentiability allows the use of gradient-based optimization methods, such as backpropagation, to train the neural network.
+- Monotonicity ensures that the output of the activation function increases or decreases as the input increases or decreases.
+- Smoothness ensures that the output of the activation function does not have abrupt changes or discontinuities.
+- Boundedness ensures that the output of the activation function is within a finite range, which can prevent numerical instability or overflow.
+- Non-saturation ensures that the output of the activation function does not approach a constant value as the input becomes large or small, which can prevent vanishing or exploding gradients.

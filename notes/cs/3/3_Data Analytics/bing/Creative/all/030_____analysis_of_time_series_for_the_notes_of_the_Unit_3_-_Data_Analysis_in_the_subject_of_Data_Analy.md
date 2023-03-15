@@ -1,0 +1,26 @@
+# Analysis of Time Series
+
+- A time series is a series of data points indexed in time order. Most commonly, a time series is a sequence taken at successive equally spaced points in time.
+- Time series analysis is a specific way of analyzing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly.
+- Time series analysis is a basic tool for the analysis of natural systems, which cannot be understood without it. For example, climate cycles and fluctuations in the economy, as well as volcanic eruptions and earthquakes, are examples of natural systems, whose behavior can best be studied using time series analysis.
+- The objectives of time series analysis are to:
+  - Describe the main patterns and trends in the data
+  - Model the underlying structure of the data
+  - Forecast future values of the data based on the model
+  - Test hypotheses about the causes and effects of the data
+- The main components of a time series are:
+  - Trend: the long-term direction of the data
+  - Seasonality: the periodic fluctuations of the data
+  - Cyclicity: the irregular variations of the data due to external factors
+  - Noise: the random fluctuations of the data due to measurement errors or other sources of uncertainty
+- The main techniques of time series analysis are:
+  - Decomposition: separating the time series into its components
+  - Smoothing: reducing the noise in the data by averaging or filtering
+  - Differencing: transforming the data by subtracting successive values or values at fixed intervals
+  - Stationarity: testing whether the data has a constant mean and variance over time
+  - Autocorrelation: measuring the correlation between the data and its lagged values
+  - Regression: modeling the relationship between the data and one or more explanatory variables
+  - ARIMA: modeling the data as an autoregressive integrated moving average process
+  - Exponential smoothing: forecasting the data using weighted averages of past values
+  - State space models: modeling the data as a dynamic system with unobserved states
+  - Spectral analysis: analyzing the frequency domain of the data

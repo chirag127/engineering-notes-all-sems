@@ -1,0 +1,23 @@
+# Transaction Management in DBMS
+
+- Transaction management is a logical unit of processing in a DBMS which entails one or more database access operations.
+- A transaction is a program unit whose execution may or may not change the contents of a database.
+- Transactions are used to manage concurrency and ensure data integrity in a database.
+- A transaction is a set of logically related operations, such as transferring money from one account to another, or booking a flight ticket.
+- A transaction usually means that the data in the database has changed.
+- A transaction has four main properties, also known as ACID properties:
+  - Atomicity: A transaction is either completed in its entirety or not at all. If any part of the transaction fails, the whole transaction is aborted and the database is restored to its previous state  .
+  - Consistency: A transaction must preserve the consistency of the database, meaning that it must follow the rules and constraints defined by the database schema  .
+  - Isolation: A transaction must not interfere with other concurrent transactions. Each transaction must execute as if it is the only one running on the database  .
+  - Durability: A transaction must ensure that the changes made by it are permanent and persist even in the case of system failures or power outages  .
+- Transaction management in a DBMS involves the following steps:
+  - Begin transaction: The DBMS marks the start of a transaction and assigns a unique identifier to it.
+  - Execute transaction: The DBMS executes the SQL statements that make up the transaction and records the changes in a temporary buffer.
+  - Commit transaction: The DBMS verifies that the transaction has completed successfully and writes the changes to the database permanently.
+  - Rollback transaction: The DBMS aborts the transaction and undoes the changes made by it in case of any failure or error.
+- Transaction management in a DBMS also involves the following concepts:
+  - Concurrency control: The DBMS ensures that multiple transactions can access the database simultaneously without violating the ACID properties.
+  - Locking: The DBMS uses locks to prevent concurrent transactions from accessing the same data item at the same time.
+  - Deadlock: The DBMS detects and resolves situations where two or more transactions are waiting for each other to release locks on the same data item.
+  - Logging: The DBMS maintains a log of all the transactions and their actions on the database to facilitate recovery in case of system failures.
+  - Recovery: The DBMS restores the database to a consistent state after a system failure by using the log and the ACID properties.

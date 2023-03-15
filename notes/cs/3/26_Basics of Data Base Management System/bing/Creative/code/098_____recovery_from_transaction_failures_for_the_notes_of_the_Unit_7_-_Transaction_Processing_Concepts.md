@@ -1,0 +1,15 @@
+### Recovery from transaction failures
+
+- A transaction failure is an event that causes a transaction to abort or terminate before it can commit its changes to the database.
+- Transaction failures can occur due to various reasons, such as network failures, deadlock, or errors in application logic.
+- Transaction failures can compromise the consistency and integrity of the database, as they may leave some changes partially applied or uncommitted.
+- Recovery from transaction failures is the process of restoring the database to a consistent state after such failures.
+- Recovery from transaction failures is based on two principles:
+  - Atomicity: A transaction should either commit all its changes or none of them.
+  - Durability: The committed changes of a transaction should persist in the database even in the event of a system failure.
+- Recovery from transaction failures can be achieved by using different techniques, such as deferred updates, immediate updates, undoing, redoing, or checkpointing  .
+- Deferred updates: This technique does not physically update the database on disk until a transaction has reached its commit point. Instead, it records the changes in a log file in main memory. If a transaction fails, no undoing is required, as the database on disk is unaffected. However, redoing may be required to apply the changes of committed transactions from the log file to the database on disk.
+- Immediate updates: This technique allows the database on disk to be updated before a transaction reaches its commit point. However, it also records the changes in a log file in main memory. If a transaction fails, undoing may be required to reverse the effects of the failed transaction from the database on disk using the log file. Redoing may also be required to apply the changes of committed transactions from the log file to the database on disk in case of a system failure.
+- Undoing: This is the process of reversing the operations of a failed transaction from the database on disk using the log file. Undoing is necessary to ensure atomicity and consistency of the database. Undoing can be done by applying the inverse operations of the failed transaction in the reverse order of their execution.
+- Redoing: This is the process of applying the operations of a committed transaction to the database on disk using the log file. Redoing is necessary to ensure durability and consistency of the database. Redoing can be done by applying the same operations of the committed transaction in the same order of their execution.
+- Checkpointing: This is the process of periodically writing the contents of the log file and the main memory buffers to the database on disk. Checkpointing reduces the amount of undoing and redoing required in case of a system failure, as it ensures that the database on disk is more up-to-date. Checkpointing can be done by writing a special record to the log file indicating the start and end of a checkpoint, and then flushing the log file and the buffers to the disk.

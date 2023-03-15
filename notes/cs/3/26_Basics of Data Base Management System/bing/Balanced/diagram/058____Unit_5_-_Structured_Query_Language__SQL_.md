@@ -1,0 +1,22 @@
+## Unit 5 - Structured Query Language (SQL)
+
+- SQL is a standard language for creating, manipulating, and querying data in relational databases.
+- SQL consists of several types of statements, such as Data Definition Language (DDL), Data Manipulation Language (DML), Data Control Language (DCL), and Data Query Language (DQL).
+- SQL statements are composed of keywords, clauses, expressions, operators, and identifiers that follow a specific syntax and semantics.
+- SQL statements can be executed interactively through a command-line interface, or embedded in a host programming language, such as Java, C#, or Python.
+- SQL statements can also be stored in files or scripts and executed as a batch or a stored procedure.
+- SQL supports various data types, such as numeric, character, date, time, interval, boolean, and binary.
+- SQL also supports various constraints, such as primary key, foreign key, unique, not null, check, and default, to enforce data integrity and consistency.
+- SQL allows creating, altering, and dropping database objects, such as tables, views, indexes, triggers, functions, and procedures, using DDL statements.
+- SQL allows inserting, updating, deleting, and merging data in tables using DML statements.
+- SQL allows granting and revoking permissions and roles to users and groups using DCL statements.
+- SQL allows retrieving data from one or more tables or views using DQL statements, such as SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT.
+- SQL supports various join types, such as inner join, left outer join, right outer join, full outer join, and cross join, to combine data from multiple tables based on a common condition.
+- SQL supports various set operations, such as union, intersect, and except, to combine the results of two or more queries based on a common attribute.
+- SQL supports various aggregate functions, such as count, sum, avg, min, max, and stddev, to perform calculations on a group of values.
+- SQL supports various scalar functions, such as substring, upper, lower, trim, length, and concat, to manipulate individual values.
+- SQL supports various conditional expressions, such as case, if, and coalesce, to evaluate different conditions and return a value based on the outcome.
+- SQL supports various subqueries, such as correlated, uncorrelated, scalar, and table, to nest one query inside another query and use the result as a value, a condition, or a table.
+- SQL supports various operators, such as arithmetic, comparison, logical, and bitwise, to perform operations on values and expressions.
+- SQL supports various modifiers, such as distinct, all, and any, to specify the scope or quantity of the values or expressions.
+- SQL supports various clauses, such as alias, as, and with, to assign a temporary name or a common table expression to a table, a column, or a query.

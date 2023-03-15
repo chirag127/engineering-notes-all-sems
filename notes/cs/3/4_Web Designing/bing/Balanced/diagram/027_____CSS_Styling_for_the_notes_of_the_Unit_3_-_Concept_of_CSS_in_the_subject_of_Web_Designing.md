@@ -1,0 +1,14 @@
+### CSS Styling for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for **Cascading Style Sheets**. It is a language that is used to describe the **look, style, and format** of a document written in any markup language, such as HTML .
+- CSS can **control the layout** of multiple web pages all at once by using **external style sheets**. External style sheets are stored in **CSS files** that are linked to the HTML documents .
+- CSS can also be added to HTML documents in two other ways: **inline** and **internal** .
+  - Inline CSS is used to style a **single HTML element** by using the **style attribute** inside the element's tag. For example: `<p style="color: blue;">This is a blue paragraph.</p>`
+  - Internal CSS is used to style a **single HTML page** by using the **style element** inside the head section of the document. For example: `<head><style type="text/css">p {color: red;}</style></head>`
+- CSS has different **versions** that introduce new features and improvements. The latest version is **CSS3**, which is divided into **modules** that cover different aspects of styling, such as colors, fonts, animations, transitions, etc .
+- CSS uses **selectors** to target HTML elements and apply styles to them. There are different types of selectors, such as **element**, **class**, **id**, **attribute**, **pseudo-class**, and **pseudo-element** selectors.
+- CSS uses **properties** and **values** to define the styles for the selected elements. Properties are the aspects of the element that can be styled, such as **color**, **font-size**, **margin**, **border**, etc. Values are the specific settings for the properties, such as **red**, **16px**, **10px**, **solid**, etc.
+- CSS follows a set of **rules** that determine how the styles are applied to the elements. Some of these rules are:
+  - The **cascade** rule: CSS applies the styles in order of **specificity** and **source order**. Specificity is a measure of how specific a selector is, and source order is the order in which the styles are defined. The more specific and later a style is, the higher priority it has.
+  - The **inheritance** rule: CSS passes some of the styles from the parent element to the child element, unless the child element has its own style for that property. For example, if the parent element has a color property, the child element will inherit that color, unless it has a different color property.
+  - The **box model** rule: CSS treats every element as a **box** that has four components: **content**, **padding**, **border**, and **margin**. Content is the actual text or image inside the element. Padding is the space between the content and the border. Border is the line that surrounds the element. Margin is the space between the border and the other elements. CSS can style each of these components using different properties.

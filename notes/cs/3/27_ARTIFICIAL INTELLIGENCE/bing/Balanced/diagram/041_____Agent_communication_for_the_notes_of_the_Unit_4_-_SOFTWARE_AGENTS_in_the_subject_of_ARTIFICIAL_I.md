@@ -1,0 +1,13 @@
+### Agent communication
+
+- Agent communication is the process of exchanging information and knowledge between intelligent agents in a multi-agent system.
+- Agent communication is also known as artificial communication, as it is performed by artificial entities that work with artificial intelligence.
+- Agent communication is important for achieving interoperability, coordination, cooperation and collaboration among agents.
+- Agent communication is based on the following components:
+  - Agent communication languages (ACLs): These are the standardized languages that agents use to encode and decode messages. ACLs are inspired by the speech act theory, which states that utterances have illocutionary force, meaning they can perform actions or express intentions. Examples of ACLs are KQML (Knowledge Query and Manipulation Language) and FIPA-ACL (Foundation for Intelligent Physical Agents Agent Communication Language).
+  - Agent communication protocols: These are the rules and conventions that agents follow to initiate, maintain and terminate conversations. Protocols define the structure, content and sequence of messages exchanged by agents. Examples of protocols are FIPA-Request, FIPA-Contract-Net and FIPA-Subscribe.
+  - Agent communication ontologies: These are the shared vocabularies and definitions that agents use to represent and reason about the domain of discourse. Ontologies enable agents to have a common understanding of the concepts and relations involved in communication. Examples of ontologies are RDF (Resource Description Framework), OWL (Web Ontology Language) and Cyc.
+- Agent communication can be classified into the following types:
+  - Unidirectional communication: This is the simplest form of communication, where one agent sends a message to another agent without expecting a reply. For example, an agent can inform another agent about a fact or an event.
+  - Bidirectional communication: This is the form of communication where two agents exchange messages in a sequential manner. For example, an agent can request another agent to perform a task or provide some information, and the other agent can reply with an acceptance, rejection or counter-offer.
+  - Multidirectional communication: This is the form of communication where more than two agents participate in a conversation. For example, an agent can broadcast a message to a group of agents, or a group of agents can negotiate a contract or a plan.

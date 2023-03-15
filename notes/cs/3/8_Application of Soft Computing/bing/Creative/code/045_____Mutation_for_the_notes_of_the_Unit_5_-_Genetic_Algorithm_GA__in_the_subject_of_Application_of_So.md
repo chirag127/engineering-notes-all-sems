@@ -1,0 +1,7 @@
+### Mutation
+
+- Mutation is a genetic operator that alters one or more gene values in a chromosome from its initial state. It is used to introduce and maintain diversity in the population of candidate solutions.
+- Mutation can occur at random locations in a chromosome and is usually controlled by a mutation probability. A higher mutation probability means a higher chance of changing the gene values, which can increase the exploration of the search space, but also reduce the exploitation of the current solutions.
+- Mutation can be applied to different types of chromosomes, such as binary, integer, real-valued, or permutation. Depending on the type of chromosome, different mutation operators can be used, such as bit-flip, swap, inversion, or Gaussian mutation.
+- Mutation can also be adaptive, meaning that the mutation probability or the mutation operator can change dynamically during the evolution process, depending on some criteria, such as the fitness of the population, the diversity of the population, or the generation number.
+- The purpose of mutation in genetic algorithms is to prevent premature convergence to local optima and to help escape from plateaus. Mutation can also help to preserve genetic diversity and to generate new and potentially better solutions.

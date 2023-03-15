@@ -1,0 +1,11 @@
+### Prolog Programming for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Prolog is a logic programming language that is based on the concept of declarative programming, which means that a program consists of data based on facts and rules rather than instructions on how to find a solution .
+- Prolog has its roots in first-order logic, a formal logic that uses predicates, variables, constants, and logical connectives to express statements about the world.
+- Prolog programs can be used to represent and manipulate knowledge in various domains, such as natural language processing, artificial intelligence, databases, expert systems, etc .
+- Prolog programs consist of clauses, which are either facts or rules. Facts are statements that are true in the given domain, such as `father(john, mary).` Rules are statements that define the logical relationship between facts, such as `grandfather(X, Y) :- father(X, Z), father(Z, Y).` Clauses are terminated by a period .
+- Prolog programs can be executed by running queries, which are questions that ask for the truth value or the possible values of a given expression, such as `grandfather(john, X).` Queries are terminated by a question mark .
+- Prolog uses a technique called unification to match the terms in a query with the terms in a clause. Unification is the process of finding a substitution that makes two terms represent the same structure, such as `X = john` for `grandfather(X, mary).` Unification is the basis for pattern matching and variable binding in Prolog .
+- Prolog uses a technique called backtracking to search for all possible solutions to a query. Backtracking is the process of retracing the steps of a computation and trying alternative choices when a failure occurs. Backtracking is the basis for logical inference and recursion in Prolog .
+- Prolog supports various built-in predicates that perform common operations, such as arithmetic, input/output, list manipulation, etc. Prolog also allows the definition of user-defined predicates that extend the functionality of the language .
+- Prolog is a powerful and expressive language that can be used to model complex problems and reason about them in a logical way. Prolog is also a flexible and dynamic language that can be modified and extended at run-time .

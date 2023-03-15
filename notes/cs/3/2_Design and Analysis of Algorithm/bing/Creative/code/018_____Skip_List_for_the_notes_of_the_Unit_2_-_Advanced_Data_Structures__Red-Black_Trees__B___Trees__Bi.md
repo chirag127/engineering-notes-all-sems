@@ -1,0 +1,27 @@
+# Skip List
+
+- A skip list is a data structure that allows for efficient search, insertion and deletion of elements in a sorted list .
+- It is a probabilistic data structure, meaning that its average time complexity is determined through a probabilistic analysis .
+- In a skip list, elements are organized in layers, with each layer having a smaller number of elements than the previous one.
+- Each element in a layer has a pointer to the next element in the same layer, and a pointer to the element below it in the lower layer.
+- The lowest layer contains all the elements of the list in sorted order, and is called the base list.
+- The highest layer contains only one element, called the head, which points to the first element of the base list.
+- To search for an element in a skip list, we start from the head and follow the pointers in the highest layer until we find an element that is larger than or equal to the target element .
+- Then, we move down to the lower layer and repeat the process until we reach the base list .
+- If the target element is found in the base list, we return it; otherwise, we return null .
+- The expected time complexity of search in a skip list is O(log n), where n is the number of elements in the base list  .
+- To insert an element in a skip list, we first search for its position in the base list using the same algorithm as above .
+- Then, we insert the element in the base list and update the pointers of the adjacent elements .
+- Next, we toss a coin to decide whether to promote the element to the higher layer or not .
+- If the coin comes up heads, we promote the element and create a new node in the higher layer that points to the element in the lower layer .
+- We also update the pointers of the adjacent nodes in the higher layer to point to the new node .
+- We repeat this process for each higher layer until the coin comes up tails or we reach the highest layer .
+- The expected time complexity of insertion in a skip list is O(log n), where n is the number of elements in the base list  .
+- To delete an element from a skip list, we first search for it using the same algorithm as above .
+- If the element is found, we delete it from the base list and update the pointers of the adjacent elements .
+- Then, we check each higher layer to see if the element has a node in that layer .
+- If it does, we delete the node and update the pointers of the adjacent nodes .
+- We repeat this process for each higher layer until we reach the highest layer or we find a layer that does not contain the element .
+- The expected time complexity of deletion in a skip list is O(log n), where n is the number of elements in the base list  .
+- Skip lists are a probabilistic data structure that seem likely to supplant balanced trees as the implementation method of choice for many applications.
+- Skip list algorithms have the same asymptotic expected time bounds as balanced trees and are simpler, faster and use less space.

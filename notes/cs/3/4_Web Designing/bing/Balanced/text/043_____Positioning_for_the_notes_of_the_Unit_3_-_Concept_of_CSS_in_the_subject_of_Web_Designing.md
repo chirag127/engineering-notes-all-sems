@@ -1,0 +1,12 @@
+### Positioning
+
+- Positioning is a concept in CSS that allows you to control how elements are laid out on a web page.
+- Positioning can be used to create complex layouts, overlap elements, align elements, or create fixed or sticky elements that stay in place when scrolling.
+- There are five values for the `position` property in CSS: `static`, `relative`, `absolute`, `fixed`, and `sticky`.
+- The default value for the `position` property is `static`, which means the element is positioned according to the normal flow of the document.
+- The `relative` value means the element is positioned relative to its normal position. You can use the `top`, `right`, `bottom`, and `left` properties to offset the element from its normal position.
+- The `absolute` value means the element is positioned relative to its closest positioned ancestor. If there is no positioned ancestor, the element is positioned relative to the initial containing block (usually the `<html>` element). You can use the `top`, `right`, `bottom`, and `left` properties to specify the position of the element.
+- The `fixed` value means the element is positioned relative to the viewport, which is the visible area of the browser window. The element stays in the same place even when the page is scrolled. You can use the `top`, `right`, `bottom`, and `left` properties to specify the position of the element.
+- The `sticky` value means the element is positioned based on the user's scroll position. The element behaves like a `relative` element until a certain scroll position is reached, then it behaves like a `fixed` element. You can use the `top`, `right`, `bottom`, and `left` properties to specify the offset from the edge of the viewport.
+- To use the `sticky` value, you need to specify at least one of the `top`, `right`, `bottom`, or `left` properties, otherwise the element will not stick.
+- The `z-index` property can be used to control the stacking order of positioned elements. The element with the highest `z-index` value will appear on top of other elements. The default `z-index` value is `auto`, which means the element inherits the `z-index` value of its parent. You can use positive or negative integers to specify the `z-index` value.

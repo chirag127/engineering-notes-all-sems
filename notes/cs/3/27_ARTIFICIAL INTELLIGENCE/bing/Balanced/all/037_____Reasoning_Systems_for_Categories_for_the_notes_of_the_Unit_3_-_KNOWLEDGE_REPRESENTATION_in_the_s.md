@@ -1,0 +1,17 @@
+# Reasoning Systems for Categories
+
+Reasoning is the process of drawing logical conclusions from a set of facts, rules, and beliefs. Reasoning is one of the key aspects of artificial intelligence, as it enables intelligent agents to perform complex tasks, solve problems, and interact with their environment.
+
+There are different types of reasoning systems for categories in artificial intelligence, each with its own advantages and disadvantages. Some of the common types are:
+
+- **Deductive reasoning**: This is the process of deriving specific conclusions from general premises or rules. For example, if we know that all humans are mortal, and Socrates is a human, then we can deduce that Socrates is mortal. Deductive reasoning is sound and valid, meaning that the conclusions are always true if the premises are true. However, deductive reasoning is limited by the availability and completeness of the premises or rules, and it cannot generate new knowledge or hypotheses.
+
+- **Inductive reasoning**: This is the process of inferring general rules or patterns from specific observations or examples. For example, if we observe that the sun rises every day, then we can induce that the sun will rise tomorrow. Inductive reasoning is useful for discovering new knowledge and making predictions, but it is not guaranteed to be correct, as there may be exceptions or counterexamples to the inferred rules or patterns.
+
+- **Abductive reasoning**: This is the process of finding the best or most plausible explanation for a given observation or phenomenon. For example, if we see smoke, then we can abduce that there is fire. Abductive reasoning is helpful for diagnosing problems, generating hypotheses, and reasoning under uncertainty, but it is not conclusive, as there may be multiple or alternative explanations for the same observation.
+
+- **Common sense reasoning**: This is the process of using everyday knowledge and experience to reason about the world. For example, if we see a glass on the edge of a table, then we can reason that it might fall and break. Common sense reasoning is essential for understanding natural language, human behavior, and social situations, but it is difficult to formalize, as it involves a large amount of implicit and context-dependent knowledge.
+
+- **Monotonic reasoning**: This is the process of reasoning that preserves the truth of previous conclusions when new facts or rules are added. For example, if we know that A implies B, and we learn that A is true, then we can conclude that B is true, and this conclusion will remain true even if we learn more facts or rules. Monotonic reasoning is simple and consistent, but it is not realistic, as it cannot handle changes or contradictions in the knowledge base.
+
+- **Non-monotonic reasoning**: This is the process of reasoning that allows the revision or withdrawal of previous conclusions when new facts or rules are added. For example, if we know that A implies B, and we learn that A is true, then we can conclude that B is true, but this conclusion may become false if we learn that C implies not B, and C is true. Non-monotonic reasoning is flexible and adaptive, but it is complex and challenging, as it requires mechanisms for dealing with conflicts and inconsistencies in the knowledge base.

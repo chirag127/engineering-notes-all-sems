@@ -1,0 +1,16 @@
+# Systems and Applications for Data Analytics Frameworks and Visualization
+
+- Data analytics is the process of collecting, organizing, analyzing, and interpreting data to generate insights, improve decision making, and optimize business performance.
+- Data analytics frameworks are sets of principles, methods, tools, and best practices that guide and support data analytics projects and processes.
+- Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations, to communicate complex data relationships and data-driven insights in a way that is easy to understand .
+- Data visualization is a critical step in the data analytics process, helping teams and individuals convey data more effectively to colleagues and decision makers.
+- Data visualization is not limited to performance dashboards, but can also be used for exploratory analysis, storytelling, and interactive applications.
+- Some of the common systems and applications for data analytics frameworks and visualization are:
+
+  - Python: a general-purpose programming language that is widely used for data analytics, offering many libraries and tools for data manipulation, modeling, visualization, and analysis, such as Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, and TensorFlow.
+  - R: a programming language and environment that is specialized for statistical computing and graphics, providing many packages and functions for data analysis, visualization, and machine learning, such as dplyr, ggplot2, Shiny, and caret.
+  - SQL: a standard language for querying and manipulating data in relational databases, allowing data analysts to perform data extraction, transformation, and loading (ETL) tasks, as well as join, filter, aggregate, and analyze data from multiple tables.
+  - Excel: a spreadsheet application that is widely used for data entry, calculation, analysis, and visualization, offering many features and functions for data manipulation, formatting, charting, and reporting, such as pivot tables, formulas, conditional formatting, and slicers.
+  - Tableau: a data visualization and analysis tool that allows users to connect to various data sources, perform data analytics, and distribute results via dashboards and reports, offering many options and features for creating interactive and engaging visualizations, such as filters, parameters, calculations, and animations .
+  - Power BI: a data visualization and analysis tool that is similar to Tableau, but integrates with Microsoft products and services, such as Excel, Azure, and Office 365, enabling users to create and share dashboards, reports, and other interactive visualizations that enable better decisions.
+  - SAS: a software suite that provides solutions for data management, analytics, and business intelligence, offering various modules and tools for data integration, quality, mining, modeling, forecasting, reporting, and visualization, such as SAS Enterprise Guide, SAS Visual Analytics, and SAS Studio.

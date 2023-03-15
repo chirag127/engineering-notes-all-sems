@@ -1,0 +1,14 @@
+### Types of support vector kernel
+
+- A support vector kernel is a function that transforms the input data into a higher dimensional feature space, where a linear classifier can be used to separate the data.
+- The choice of the kernel function affects the performance and accuracy of the support vector machine (SVM) algorithm.
+- There are different types of kernel functions, each with its own advantages and disadvantages.
+- Some of the popular kernel functions are:
+
+  - **Linear kernel**: This is the simplest kernel function, which computes the dot product of the input vectors. It is suitable for linearly separable data, but it cannot capture the non-linear patterns in the data . It has no hyperparameters to tune, and it is fast to compute.
+  - **Polynomial kernel**: This kernel function computes the dot product of the input vectors raised to a specified degree. It can generate a non-linear decision boundary using polynomial features. It has three hyperparameters: the degree, the coefficient, and the bias. It can fit complex data, but it may also overfit or underfit depending on the choice of the hyperparameters.
+  - **Radial basis function (RBF) kernel**: This kernel function computes the exponential of the negative squared distance between the input vectors. It can generate a non-linear decision boundary using radial basis functions, which measure the similarity between the input vectors and some centers. It has two hyperparameters: the gamma, which controls the width of the radial basis functions, and the bias. It can fit any data, but it may also overfit or underfit depending on the choice of the hyperparameters. It is also more computationally expensive than the linear kernel.
+  - **Sigmoid kernel**: This kernel function computes the hyperbolic tangent of the dot product of the input vectors plus a bias. It can generate a non-linear decision boundary using sigmoid functions, which are similar to the activation functions used in neural networks. It has two hyperparameters: the coefficient and the bias. It can fit complex data, but it may also suffer from numerical instability or poor performance depending on the choice of the hyperparameters.
+
+- Other kernel functions include the Laplacian kernel, the cosine similarity kernel, the chi-squared kernel, and the ANOVA kernel. They are used for specific types of data, such as text, images, or histograms.
+- The kernel function should be chosen based on the characteristics of the data and the desired complexity of the decision boundary . A good way to select the kernel function and the hyperparameters is to use cross-validation and grid search.

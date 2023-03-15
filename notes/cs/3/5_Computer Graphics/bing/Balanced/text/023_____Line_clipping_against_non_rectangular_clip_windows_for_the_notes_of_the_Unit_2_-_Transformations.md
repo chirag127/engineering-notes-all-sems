@@ -1,0 +1,26 @@
+### Line clipping against non rectangular clip windows
+
+- Line clipping is the process of removing the portions of a line that lie outside a given region of interest, such as a window or a polygon.
+- Line clipping algorithms can be classified into two categories: rectangular and non-rectangular.
+- Rectangular line clipping algorithms, such as Cohen-Sutherland and Liang-Barsky, are efficient and simple, but they can only handle rectangular windows.
+- Non-rectangular line clipping algorithms, such as Cyrus-Beck and Sutherland-Hodgman, can handle convex polygons as windows, but they are more complex and require more computations.
+- Cyrus-Beck is a non-rectangular line clipping algorithm that is based on the following steps :
+  - Define the convex polygon window by a set of vertices given in a clockwise order.
+  - Assign a normal vector to each edge of the polygon, pointing outward from the window.
+  - For each line to be clipped, calculate the parameter t for each intersection point with the polygon edges, using the formula: t = (P - P0) . n / D . n, where P is the intersection point, P0 is the starting point of the line, n is the normal vector of the edge, and D is the direction vector of the line.
+  - Discard the intersection points that have negative values of t or that lie outside the edge boundaries.
+  - Sort the remaining intersection points by increasing values of t.
+  - Determine the visible portion of the line by finding the largest interval of t that lies within the window, using the following rules:
+    - If the line enters the window at an edge, the value of t at that edge is the lower bound of the interval.
+    - If the line exits the window at an edge, the value of t at that edge is the upper bound of the interval.
+    - If the line is parallel to an edge and lies inside the window, the value of t at that edge is ignored.
+    - If the line is parallel to an edge and lies outside the window, the line is completely invisible.
+  - Draw the visible portion of the line by interpolating the points corresponding to the lower and upper bounds of the interval.
+- Sutherland-Hodgman is another non-rectangular line clipping algorithm that is based on the following steps :
+  - Define the convex polygon window by a set of vertices given in a clockwise order.
+  - For each edge of the polygon, clip the line against that edge, using the following rules:
+    - If both endpoints of the line are inside the edge, output the line as it is.
+    - If both endpoints of the line are outside the edge, discard the line.
+    - If one endpoint of the line is inside the edge and the other is outside, output the portion of the line that lies inside the edge, and calculate the intersection point with the edge as the new endpoint.
+    - If one endpoint of the line is outside the edge and the other is inside, calculate the intersection point with the edge as the new endpoint, and output the portion of the line that lies inside the edge.
+  - Repeat the clipping process for each edge of the polygon, until the line is either completely visible or completely invisible.

@@ -1,0 +1,15 @@
+### Relationships
+
+Relationships are the connections between classes or objects in object-oriented system design. They describe how the classes or objects interact with each other and what kind of dependencies they have. Relationships can be classified into four types :
+
+- **Inheritance**: Inheritance is a relationship where a class (called the subclass or child class) inherits the attributes and operations of another class (called the superclass or parent class). Inheritance is based on the "is a" relationship, meaning that the subclass is a specific type of the superclass. For example, a `Dog` class can inherit from an `Animal` class, because a dog is an animal. Inheritance allows for code reuse and polymorphism.
+- **Association**: Association is a relationship where two classes or objects are linked by some kind of reference. Association is based on the "has a" relationship, meaning that one class or object has a reference to another class or object. For example, a `Person` class can have an association with a `Car` class, because a person can have a car. Association can be unidirectional or bidirectional, and can have different multiplicity (one-to-one, one-to-many, many-to-one, many-to-many).
+- **Composition**: Composition is a relationship where a class or object is composed of other classes or objects. Composition is based on the "part of" relationship, meaning that the composed class or object is a part of the composing class or object. For example, a `Car` class can have a composition with a `Wheel` class, because a car is composed of wheels. Composition implies a strong ownership and lifecycle dependency between the composing and composed classes or objects. If the composing class or object is destroyed, so are the composed classes or objects.
+- **Aggregation**: Aggregation is a relationship where a class or object is a collection of other classes or objects. Aggregation is also based on the "part of" relationship, but it implies a weaker ownership and lifecycle dependency between the aggregating and aggregated classes or objects. For example, a `Library` class can have an aggregation with a `Book` class, because a library is a collection of books. Aggregation does not imply that the aggregating class or object is responsible for creating or destroying the aggregated classes or objects. They can exist independently of each other.
+
+Relationships can be represented in UML class diagrams using different symbols and notations  :
+
+- Inheritance is represented by a solid line with a hollow triangle pointing to the superclass.
+- Association is represented by a solid line with optional arrowheads indicating the direction and multiplicity of the relationship.
+- Composition is represented by a solid line with a filled diamond pointing to the composing class or object.
+- Aggregation is represented by a solid line with a hollow diamond pointing to the aggregating class or object.

@@ -1,0 +1,6 @@
+# SOM Algorithm and its variant
+
+- The SOM algorithm is an unsupervised learning algorithm that can map high-dimensional data onto a low-dimensional grid of nodes, preserving the topological structure of the data.
+- The SOM algorithm consists of two steps: competition and cooperation. In the competition step, the algorithm finds the node that is closest to the input vector in terms of Euclidean distance. This node is called the winner or the best matching unit (BMU). In the cooperation step, the algorithm updates the weights of the nodes in the neighborhood of the BMU, making them more similar to the input vector. The size of the neighborhood decreases over time, resulting in a finer clustering of the data.
+- The SOM algorithm can be used for clustering, dimensionality reduction, data visualization, feature extraction, and anomaly detection.
+- A variant of the SOM algorithm is the SOM-based optimization (SOMO) algorithm, which was developed to apply the SOM algorithm in continuous optimization problems. The SOMO algorithm uses a different update rule for the weights of the nodes, which is based on the gradient of the objective function. The SOMO algorithm can explore and exploit good solutions to an optimization problem simultaneously, and can also be interpreted as a model of social influence and learning  .

@@ -1,0 +1,10 @@
+### Combining three models for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object-oriented software engineering. It aims to model the functional requirements of the software while remaining independent of any implementation details .
+- The three analysis techniques that are used in conjunction with each other for object-oriented analysis are object modelling, dynamic modelling, and functional modelling.
+- Object modelling develops the static structure of the software system in terms of objects, classes, attributes, associations, and generalizations. It uses diagrams such as class diagrams, object diagrams, and association diagrams to represent the concepts and relationships .
+- Dynamic modelling describes the behavior of the objects and the interactions among them over time. It uses diagrams such as state diagrams, sequence diagrams, and collaboration diagrams to represent the states, events, actions, and messages .
+- Functional modelling captures the functionality of the system and the data flow among the objects. It uses diagrams such as data flow diagrams, activity diagrams, and use case diagrams to represent the processes, data stores, external entities, and actors .
+- The three models are combined to form a complete and consistent representation of the system requirements. The object model defines the entities and their attributes, the dynamic model defines the behavior and the interactions, and the functional model defines the functionality and the data flow.
+- The combination of the three models helps to identify and resolve any conflicts, ambiguities, or gaps in the requirements. It also helps to verify and validate the requirements with the stakeholders and users .
+- The combination of the three models also facilitates the transition from analysis to design, as the models provide a clear and detailed specification of the system that can be used as a basis for designing the software architecture, components, interfaces, and algorithms .

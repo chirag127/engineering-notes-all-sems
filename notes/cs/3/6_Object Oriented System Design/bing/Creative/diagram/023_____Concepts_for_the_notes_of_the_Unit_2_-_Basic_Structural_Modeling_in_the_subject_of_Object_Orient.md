@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on Basic Structural Modeling in Object Oriented System Design. Here are some concepts you should know:
+
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- **Basic Structural Modeling** is the process of describing the static structure of a system using classes, objects, attributes, operations, associations, and generalizations.
+- **Class** is a category of objects that share common properties and behaviors. A class is represented by a rectangle with the class name at the top, followed by the attributes and operations sections.
+- **Object** is an instance of a class that has a unique identity, state, and behavior. An object is represented by a rectangle with the object name and class name separated by a colon, followed by the attribute values section.
+- **Attribute** is a property of a class or an object that describes some aspect of the object's state. An attribute has a name and a type, and optionally a multiplicity, an initial value, and a visibility. An attribute is represented by a text line in the attributes section of a class or an object.
+- **Operation** is a behavior of a class or an object that can be invoked by a message. An operation has a name, a list of parameters, a return type, and optionally a visibility. An operation is represented by a text line in the operations section of a class or an object.
+- **Association** is a relationship between two or more classes or objects that indicates how they are connected or related. An association has a name, a direction, and optionally a multiplicity, a role, and a visibility for each end. An association is represented by a line connecting the classes or objects, with an optional name, arrow, and text labels for each end.
+- **Generalization** is a relationship between a more general class (superclass) and a more specific class (subclass) that indicates that the subclass inherits the properties and behaviors of the superclass. A generalization is represented by a line with a hollow triangle pointing to the superclass.

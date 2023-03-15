@@ -1,0 +1,12 @@
+# 3-D Clipping
+
+- Clipping is the process of removing or hiding the parts of an object that are outside the viewing volume or the region of interest.
+- Clipping is important for efficiency, accuracy and aesthetics in computer graphics.
+- In three-dimensional graphics, clipping can be done in two stages: object-space clipping and image-space clipping.
+- Object-space clipping discards or clips the objects that are completely or partially outside the viewing volume before projection. This reduces the number of objects that need to be transformed and projected.
+- Image-space clipping discards or clips the projected objects that are outside the viewport or the screen boundaries. This prevents the drawing routine from accessing invalid memory locations or drawing outside the screen.
+- Clipping can be done against different types of clipping regions, such as planes, cubes, spheres, cylinders, cones, etc. The most common clipping region is the view frustum, which is a truncated pyramid that defines the boundaries of the viewing volume.
+- Clipping can be done for different types of primitives, such as points, lines, polygons, curves, surfaces, etc. The clipping algorithm depends on the type of primitive and the type of clipping region.
+- Clipping algorithms typically use some form of classification or rejection tests to determine the visibility of a primitive or a part of a primitive. For example, outcodes are binary codes that indicate the position of a point relative to the clipping region. Outcodes can be used to quickly accept or reject a line or a polygon based on bitwise operations.
+- Clipping algorithms may also use intersection tests to find the points where a primitive crosses the boundary of the clipping region. These points can be used to split or clip the primitive into visible and invisible parts.
+- Clipping algorithms may also use homogenous coordinates or clipping coordinates to simplify the clipping process. Clipping coordinates are obtained by applying the projection matrix to the object coordinates. In clipping coordinates, the clipping region is a unit cube with boundaries at -1 and 1 in each axis. Clipping in clipping coordinates can be done by comparing the coordinates of a point with the boundaries of the unit cube.

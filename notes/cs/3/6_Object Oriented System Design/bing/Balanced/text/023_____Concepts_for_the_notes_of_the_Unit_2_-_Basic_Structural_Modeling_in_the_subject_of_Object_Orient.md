@@ -1,0 +1,9 @@
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notations.
+- The static structure of a system consists of the components that make up the system and their relationships, such as classes, objects, attributes, operations, associations, aggregations, compositions, generalizations, and dependencies.
+- The main purpose of basic structural modeling is to capture the essential features and properties of a system and to provide a common vocabulary and understanding among the stakeholders.
+- The main techniques and tools for basic structural modeling are:
+  - Class-Responsibility-Collaboration (CRC) cards: A simple and informal way of representing classes and their responsibilities and collaborations with other classes. CRC cards are useful for brainstorming, identifying, and validating classes and scenarios in the early stages of analysis and design.
+  - Class diagrams: A graphical way of representing classes and their relationships using the Unified Modeling Language (UML) notation. Class diagrams are useful for showing the static structure and hierarchy of a system, the attributes and operations of each class, and the constraints and rules that govern the system.
+  - Object diagrams: A graphical way of representing objects and their relationships using the UML notation. Object diagrams are useful for showing the state and behavior of a system at a specific point in time, the values and links of each object, and the dynamic aspects of a system.

@@ -1,0 +1,12 @@
+### Introduction to HTML
+
+- HTML stands for HyperText Markup Language. It is the standard language for creating web pages and web applications.
+- HTML describes the structure and content of a web page using tags, elements, and attributes.
+- Tags are keywords enclosed in angle brackets (< and >) that define the start and end of an element. For example, `<p>` and `</p>` are tags for a paragraph element.
+- Elements are the building blocks of a web page. They consist of a start tag, an end tag, and the content between them. For example, `<p>Hello, world!</p>` is a paragraph element with the content "Hello, world!".
+- Attributes are additional information that modify the behavior or appearance of an element. They are specified in the start tag using the syntax `name="value"`. For example, `<p style="color:red;">Hello, world!</p>` is a paragraph element with the style attribute that sets the text color to red.
+- HTML documents have a basic structure that consists of a `<!DOCTYPE>` declaration, a `<html>` element, a `<head>` element, and a `<body>` element.
+- The `<!DOCTYPE>` declaration tells the browser which version of HTML the document is using. For HTML5, the latest version, the declaration is `<!DOCTYPE html>`.
+- The `<html>` element is the root element that contains all other elements in the document. It has a `lang` attribute that specifies the language of the document. For example, `<html lang="en">` indicates that the document is in English.
+- The `<head>` element contains information about the document, such as the title, meta data, links to external resources, and scripts. The `<title>` element is a child of the `<head>` element that defines the title of the document that appears in the browser tab or window. For example, `<title>Introduction to HTML</title>` sets the title to "Introduction to HTML".
+- The `<body>` element contains the visible content of the document, such as text, images, links, tables, forms, and multimedia. The `<h1>` to `<h6>` elements are used to create headings of different levels. The `<p>` element is used to create paragraphs of text. The `<img>` element is used to insert images using the `src` attribute that specifies the URL of the image. The `<a>` element is used to create hyperlinks using the `href` attribute that specifies the URL of the destination. For example, `<a href="https://www.w3schools.com/html/">Learn more about HTML</a>` creates a link to the W3Schools HTML tutorial.

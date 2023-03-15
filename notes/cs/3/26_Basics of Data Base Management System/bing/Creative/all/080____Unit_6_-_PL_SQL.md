@@ -1,0 +1,13 @@
+## Unit 6 - PL/SQL
+
+- PL/SQL stands for Procedural Language/Structured Query Language. It is an extension of SQL that allows users to write procedural code in Oracle database.
+- PL/SQL supports variables, constants, data types, operators, expressions, control structures, loops, arrays, cursors, exceptions, subprograms, packages, triggers, and object-oriented features.
+- PL/SQL code is compiled and stored in the database, and can be executed by using SQL statements such as `EXECUTE`, `CALL`, or `BEGIN`.
+- PL/SQL code can also be embedded in SQL statements, such as `SELECT`, `INSERT`, `UPDATE`, or `DELETE`, by using the `PL/SQL` keyword.
+- PL/SQL code can interact with SQL data by using the `INTO`, `FROM`, and `RETURNING` clauses, and can use SQL functions, such as `SYSDATE`, `COUNT`, or `MAX`, in expressions.
+- PL/SQL code can also use SQL cursors, which are pointers to the result sets of SQL queries, and can fetch, process, and close them using the `OPEN`, `FETCH`, `LOOP`, and `CLOSE` statements.
+- PL/SQL code can handle errors and exceptions by using the `EXCEPTION` section, which contains handlers for predefined or user-defined exceptions, and can use the `RAISE` statement to raise an exception explicitly.
+- PL/SQL code can modularize and reuse code by using subprograms, which are named blocks of code that can be invoked from other PL/SQL blocks or SQL statements. Subprograms can be either procedures or functions, depending on whether they return a value or not.
+- PL/SQL code can also use packages, which are collections of related subprograms, variables, constants, cursors, and exceptions, that can be compiled and stored in the database as a unit. Packages can have a specification and a body, which can be created separately or together.
+- PL/SQL code can also use triggers, which are special subprograms that are executed automatically when a certain event occurs on a table or view, such as `INSERT`, `UPDATE`, or `DELETE`. Triggers can be either row-level or statement-level, depending on whether they are executed for each affected row or once per statement.
+- PL/SQL code can also use object-oriented features, such as object types, methods, inheritance, polymorphism, and collections, to model complex data structures and behaviors in the database. Object types can have attributes and methods, and can be used as data types for columns, variables, parameters, or return values. Object types can also inherit from other object types, and can be overridden or overloaded by using the `OVERRIDING` and `OVERLOADING` keywords. Collections are data structures that can store multiple values of the same or different data types, and can be either nested tables, varrays, or associative arrays.

@@ -1,0 +1,13 @@
+# Alpha for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Problem solving methods are techniques that can be used to find solutions to specific problems in artificial intelligence (AI).
+- Problem solving methods often involve searching through a space of possible actions, states, or goals, and applying heuristics or rules to guide the search process.
+- Some common problem solving methods in AI are:
+
+  - **Search algorithms**: These are methods that systematically explore the space of possible actions or states, and find a path from the initial state to the goal state. Search algorithms can be classified into two types: uninformed and informed. Uninformed search algorithms do not use any domain-specific knowledge or heuristics, and rely on brute-force or random exploration. Examples of uninformed search algorithms are breadth-first search, depth-first search, and iterative deepening search. Informed search algorithms use some domain-specific knowledge or heuristics to guide the search process and reduce the search space. Examples of informed search algorithms are best-first search, greedy search, A* search, and hill-climbing search  .
+
+  - **Evolutionary computations**: These are methods that mimic the natural process of evolution to generate and improve solutions to a problem. Evolutionary computations use a population of candidate solutions, and apply operators such as selection, crossover, and mutation to produce new generations of solutions. The quality of the solutions is measured by a fitness function, and the best solutions are retained and refined over time. Examples of evolutionary computations are genetic algorithms, genetic programming, evolutionary strategies, and particle swarm optimization.
+
+  - **Knowledge representations**: These are methods that encode the relevant information and rules about a problem domain in a formal and structured way, such as logic, graphs, frames, or ontologies. Knowledge representations can be used to reason about the problem, infer new facts, and draw conclusions. Examples of knowledge representations are propositional logic, first-order logic, semantic networks, and description logic .
+
+- Alpha is a general term for a family of AI systems developed by DeepMind that use deep learning and reinforcement learning to achieve superhuman performance in various domains, such as games, programming, and natural language understanding. Alpha systems learn from data and feedback, and can adapt to new tasks and environments. Examples of Alpha systems are AlphaGo, AlphaZero, AlphaFold, and AlphaCode.

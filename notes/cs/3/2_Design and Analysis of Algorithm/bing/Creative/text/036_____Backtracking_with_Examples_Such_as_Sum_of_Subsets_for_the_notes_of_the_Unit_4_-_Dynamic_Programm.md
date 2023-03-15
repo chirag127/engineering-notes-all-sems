@@ -1,0 +1,22 @@
+### Backtracking with Examples Such as Sum of Subsets
+
+- Backtracking is a class of algorithms for finding solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution.
+- Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time.
+- Backtracking can be visualized as a state space tree, where each node represents a partial solution, and the root node represents an empty solution. The algorithm explores the tree by visiting the nodes in a depth-first manner, and prunes the branches that cannot lead to a valid solution.
+- A backtracking algorithm consists of the following steps :
+  - Define a procedure `backtrack(P, c)` that takes a problem `P` and a candidate solution `c` as inputs.
+  - If `c` is a reject, then return without any further action.
+  - If `c` is an accept, then output `c` as a solution and return.
+  - Let `s` be the first extension of `c` for `P`.
+  - While `s` is not null, do the following:
+    - Call `backtrack(P, s)` recursively.
+    - Let `s` be the next extension of `c` for `P`.
+- An example of a backtracking problem is the sum of subsets problem, where we are given a set of positive integers `S` and a target sum `T`, and we want to find all the subsets of `S` that add up to `T`.
+- A possible solution to the sum of subsets problem using backtracking is as follows:
+  - Define a problem `P` that consists of the set `S`, the target sum `T`, and a current sum `C`.
+  - Define a candidate solution `c` that consists of a subset of `S` and a boolean array `A` that indicates which elements of `S` are included in the subset.
+  - Define a reject condition as `C > T`, which means that the current sum exceeds the target sum.
+  - Define an accept condition as `C == T`, which means that the current sum equals the target sum.
+  - Define a first extension of `c` as adding the next element of `S` to the subset, and updating `C` and `A` accordingly.
+  - Define a next extension of `c` as removing the last element of `S` from the subset, and updating `C` and `A` accordingly.
+  - Call `backtrack(P, c)` with an empty subset and a zero current sum as the initial candidate solution.

@@ -1,0 +1,12 @@
+### Systems and Applications for Data Analytics
+
+Data analytics is the process of collecting, organizing, analyzing and interpreting data to derive insights and support decision making. Data analytics can be applied to various domains and industries, such as business, science, engineering, health, education, sports, etc. Data analytics can also be used for different purposes, such as descriptive, diagnostic, predictive, prescriptive, exploratory, etc.
+
+There are many systems and applications that enable data analytics, such as:
+
+- **Data management systems**: These are systems that store, process, and manipulate data in various formats and structures, such as relational databases, NoSQL databases, data warehouses, data lakes, etc. Data management systems provide functionalities such as data ingestion, integration, transformation, quality, security, etc.
+- **Data analysis software**: These are software tools that perform various data analysis tasks, such as data cleaning, preprocessing, modeling, visualization, reporting, etc. Data analysis software can be general-purpose or domain-specific, such as Microsoft Excel, Tableau, Qlik Sense, Looker, Klipfolio, Zoho Analytics, Domo, etc. 
+- **Data science applications**: These are applications that use data science techniques, such as machine learning, artificial intelligence, statistics, etc., to solve complex problems and generate value from data. Data science applications can be categorized into different types, such as anomaly detection, pattern recognition, predictive modeling, recommendation engines, personalization systems, classification and categorization, sentiment and behavioral analysis, conversational systems, autonomous systems, etc. 
+- **Data visualization systems**: These are systems that present data in graphical or interactive forms, such as charts, graphs, maps, dashboards, etc. Data visualization systems help users to explore, understand, and communicate data effectively. Data visualization systems can be standalone or integrated with other data analysis software, such as Microsoft Power BI, Tableau, Qlik Sense, Looker, Klipfolio, Zoho Analytics, Domo, etc. 
+
+These systems and applications for data analytics can work together or independently, depending on the data analytics needs and goals. Data analytics can help organizations to improve their performance, efficiency, innovation, customer satisfaction, and competitive advantage.

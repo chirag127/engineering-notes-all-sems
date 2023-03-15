@@ -1,0 +1,12 @@
+### Fuzzy to Crisp Conversion
+
+- Fuzzy to crisp conversion, also known as **defuzzification**, is the process of transforming a fuzzy set into a single crisp value that represents the best decision or action based on the fuzzy set .
+- Fuzzy to crisp conversion is necessary because some applications require a precise output that can be understood and executed by a controller or a human .
+- There are different methods of fuzzy to crisp conversion, each with its own advantages and disadvantages. Some of the common methods are :
+  - **Center of gravity (COG)**: This method calculates the crisp value as the weighted average of the fuzzy set, where the weights are the membership degrees. This method is simple and intuitive, but it may not reflect the shape of the fuzzy set well.
+  - **Center of sums (COS)**: This method calculates the crisp value as the ratio of the sum of the fuzzy set values to the sum of the membership degrees. This method is similar to COG, but it gives more weight to the higher values of the fuzzy set.
+  - **Center of maxima (COM)**: This method calculates the crisp value as the average of the values that have the maximum membership degree in the fuzzy set. This method is suitable for symmetric fuzzy sets, but it may not be unique if there are multiple maxima.
+  - **Mean of maxima (MOM)**: This method calculates the crisp value as the mean of the values that have the maximum membership degree in the fuzzy set. This method is similar to COM, but it gives equal weight to all the maxima.
+  - **Bisector of area (BOA)**: This method calculates the crisp value as the value that divides the area under the fuzzy set curve into two equal parts. This method is robust and stable, but it may not be unique if the fuzzy set is not convex.
+  - **Smallest of maxima (SOM)**: This method calculates the crisp value as the smallest value that has the maximum membership degree in the fuzzy set. This method is suitable for left-skewed fuzzy sets, but it may ignore the other values of the fuzzy set.
+  - **Largest of maxima (LOM)**: This method calculates the crisp value as the largest value that has the maximum membership degree in the fuzzy set. This method is suitable for right-skewed fuzzy sets, but it may ignore the other values of the fuzzy set.

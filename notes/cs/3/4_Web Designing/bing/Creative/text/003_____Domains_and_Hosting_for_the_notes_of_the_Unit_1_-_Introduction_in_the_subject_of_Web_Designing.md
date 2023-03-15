@@ -1,0 +1,9 @@
+### Domains and Hosting
+
+- A domain is the address of a website that allows visitors to easily find it online. For example, `www.example.com` is a domain name.
+- A hosting is the service that provides space on a web server to store the files and data of a website. For example, Hostinger is a web hosting provider that offers different plans and features for hosting websites.
+- A domain and a hosting are two different components of a website, but they work together to make websites possible. A domain name must be registered with a domain registrar, and a hosting plan must be purchased from a hosting provider.
+- A domain name can be registered for a certain period of time, usually from one to ten years. The domain name must be renewed before it expires, otherwise it will become available for others to register. A domain name can also be transferred from one registrar to another, if the owner wants to change the service or the price.
+- A hosting plan can be purchased for a certain period of time, usually from one month to several years. The hosting plan must be renewed before it expires, otherwise the website will go offline. A hosting plan can also be upgraded or downgraded, depending on the needs and the budget of the website owner.
+- A domain name and a hosting plan must be connected in order for the website to be accessible online. This can be done by changing the domain name servers (DNS) to point to the hosting provider's servers. The DNS is a system that translates domain names into IP addresses, which are the numerical identifiers of web servers.
+- A domain name and a hosting plan can be purchased from the same provider or from different providers. Some providers offer both services as a package, while others specialize in one or the other. The advantages and disadvantages of each option depend on the price, the features, the support, and the reliability of the provider.

@@ -1,0 +1,11 @@
+### Normalization using FD for Unit 4 - Data Base Design & Normalization in Basics of Data Base Management System
+
+Normalization is the process of organizing data in a database to minimize redundancy and dependency. It is achieved by dividing larger tables into smaller, less redundant tables and defining relationships between them. The objective is to isolate data so that additions, deletions, and modifications of a field can be made in just one table and then propagated through the rest of the database via the defined relationships.
+
+Functional dependencies (FD) are used in the normalization process to determine the relationships between attributes in a relation. A functional dependency is a constraint between two sets of attributes in a relation from a database. Given a relation R, a set of attributes X in R is said to functionally determine another set of attributes Y, also in R, (written X → Y) if, and only if, each X value is associated with precisely one Y value.
+
+There are several normal forms, including first normal form (1NF), second normal form (2NF), third normal form (3NF), Boyce-Codd normal form (BCNF), fourth normal form (4NF), and fifth normal form (5NF). Each normal form has a set of rules and constraints that must be satisfied in order for a relation to be considered in that normal form.
+
+Normalization using FD involves analyzing the functional dependencies between attributes in a relation and decomposing the relation into smaller relations that satisfy the constraints of a given normal form. This process can be iterative, with the relation being decomposed into smaller relations until it satisfies the constraints of the desired normal form.
+
+In summary, normalization using FD is a process of organizing data in a database to minimize redundancy and dependency by analyzing the functional dependencies between attributes and decomposing the relation into smaller relations that satisfy the constraints of a given normal form. This process can help to improve the efficiency and maintainability of a database.

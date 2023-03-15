@@ -1,0 +1,27 @@
+### Display for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for **Cascading Style Sheets** and is a **stylesheet language** used to describe the **presentation** of a document written in HTML or XML.
+- CSS is used to **style and layout web pages** — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.
+- CSS is a **rule-based language** — you define the rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page.
+- CSS rules consist of two parts: a **selector** and a **declaration block**.
+  - A selector is a pattern that matches one or more elements on the web page, such as `p`, `h1`, or `.class`.
+  - A declaration block is a set of one or more declarations enclosed by curly braces, such as `{color: red; font-size: 20px;}`.
+  - A declaration is a pair of a **property** and a **value**, separated by a colon, such as `color: red;`.
+  - A property is a name that specifies an aspect of the presentation of an element, such as `color`, `font-size`, or `border`.
+  - A value is a keyword or a numerical expression that defines the value of the property, such as `red`, `20px`, or `solid`.
+- CSS rules can be written in three ways: **inline**, **internal**, or **external**.
+  - Inline CSS is written directly in the HTML element using the `style` attribute, such as `<p style="color: red;">This is a paragraph.</p>`.
+  - Internal CSS is written in the `<head>` section of the HTML document using the `<style>` tag, such as `<style>p {color: red;}</style>`.
+  - External CSS is written in a separate file with the `.css` extension and linked to the HTML document using the `<link>` tag, such as `<link rel="stylesheet" href="style.css">`.
+- CSS rules are applied to the web page according to the **cascading order**, which determines the priority of the rules based on their source, specificity, and importance.
+  - The source of a rule is where it comes from, such as the browser default, the user agent, the author, or the user.
+  - The specificity of a rule is how precise the selector is, such as the number of elements, classes, ids, or pseudo-classes it contains.
+  - The importance of a rule is whether it has the `!important` keyword, which overrides the normal cascading order.
+- CSS rules can be modified by using **inheritance**, **pseudo-classes**, **pseudo-elements**, **media queries**, **variables**, **functions**, and **calculations**.
+  - Inheritance is the mechanism by which some properties are automatically passed from parent elements to child elements, such as `color` or `font-family`.
+  - Pseudo-classes are keywords that specify the state or position of an element, such as `:hover`, `:first-child`, or `:checked`.
+  - Pseudo-elements are keywords that create virtual elements that are part of the document tree, such as `::before`, `::after`, or `::first-line`.
+  - Media queries are expressions that test the conditions of the device or the viewport, such as `@media (max-width: 600px)`, and apply different sets of rules accordingly.
+  - Variables are custom properties that store values that can be reused throughout the document, such as `--main-color: red;`.
+  - Functions are predefined or user-defined expressions that perform calculations or transformations, such as `calc()`, `rgb()`, or `rotate()`.
+  - Calculations are mathematical operations that can be performed on numerical values, such as `width: calc(100% - 50px);`.

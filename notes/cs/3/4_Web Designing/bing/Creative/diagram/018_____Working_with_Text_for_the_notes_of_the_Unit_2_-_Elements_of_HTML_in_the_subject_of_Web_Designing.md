@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your web designing course. Here are some notes on the topic of working with text for the unit 2 - elements of HTML.
+
+### Working with Text
+
+- Text is the most common type of content on web pages. HTML provides various elements and attributes to structure and format text.
+- The basic structure of text in HTML is a paragraph, which is created by using the `<p>` element. A paragraph can contain plain text, as well as other elements such as links, images, lists, etc.
+- To create a line break within a paragraph, use the `<br>` element. This element is self-closing, meaning it does not need a closing tag.
+- To create a heading, use one of the six heading elements: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, or `<h6>`. The `<h1>` element is the most important and should be used for the main title of the page. The other heading elements are used for subheadings and should be used in a hierarchical order.
+- To create a horizontal rule, use the `<hr>` element. This element is also self-closing and creates a visual separation between sections of content.
+- To emphasize or mark a part of text, use the `<em>` or `<strong>` elements. The `<em>` element indicates emphasis, while the `<strong>` element indicates importance. Both elements can be nested within other elements, such as paragraphs or headings.
+- To create a quotation, use the `<blockquote>` element. This element creates a block-level quotation that is indented from the rest of the text. To cite the source of the quotation, use the `cite` attribute and provide a URL to the original source.
+- To create an inline quotation, use the `<q>` element. This element creates a quotation that is part of the surrounding text. The quotation marks are automatically added by the browser.
+- To create a list, use one of the three list elements: `<ul>`, `<ol>`, or `<dl>`. The `<ul>` element creates an unordered list, where the items are marked with bullets. The `<ol>` element creates an ordered list, where the items are numbered. The `<dl>` element creates a description list, where the items consist of a term and a definition.
+- To create a list item, use the `<li>` element. This element must be nested within a list element and can contain text or other elements. To create a term or a definition in a description list, use the `<dt>` or `<dd>` elements, respectively.
+- To create a link, use the `<a>` element. This element requires the `href` attribute, which specifies the URL of the destination. The text or content between the opening and closing tags of the `<a>` element is the link text or the link label. To create a link to an email address, use the `mailto:` protocol in the `href` attribute, followed by the email address.
+- To create an image, use the `<img>` element. This element is self-closing and requires the `src` attribute, which specifies the URL of the image file. To provide an alternative text for the image, use the `alt` attribute and provide a brief description of the image. To adjust the size of the image, use the `width` and `height` attributes and provide the values in pixels.

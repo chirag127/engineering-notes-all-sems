@@ -1,0 +1,23 @@
+### Unit 1 - Introduction to Data Analytics
+
+- Data analytics is the science of analyzing raw data to make conclusions about that information.
+- Data analytics can help a business optimize its performance, perform more efficiently, maximize profit, or make more strategically-guided decisions.
+- Data analytics can also be used for various purposes, such as understanding customer behavior, identifying patterns and trends, testing hypotheses, or solving problems  .
+- Data analytics involves four basic steps: data collection, data preparation, data analysis, and data visualization.
+- Data collection is the process of gathering data from different sources, such as databases, surveys, sensors, or web scraping.
+- Data preparation is the process of cleaning, transforming, and organizing data to make it suitable for analysis.
+- Data analysis is the process of applying statistical, mathematical, or computational techniques to data to discover insights, patterns, or relationships.
+- Data visualization is the process of presenting data in graphical or interactive forms, such as charts, graphs, maps, or dashboards, to communicate findings or recommendations.
+- Data analytics can be classified into different types, depending on the nature and purpose of the data and the analysis.
+- Descriptive analytics is the type of data analytics that summarizes what has happened in the past, such as sales, revenue, or customer satisfaction.
+- Diagnostic analytics is the type of data analytics that explains why something has happened in the past, such as the root causes, factors, or drivers of a problem or an opportunity.
+- Predictive analytics is the type of data analytics that forecasts what is likely to happen in the future, such as customer churn, demand, or risk.
+- Prescriptive analytics is the type of data analytics that suggests what actions should be taken in the future, such as optimal pricing, marketing, or inventory.
+- Data analytics requires various skills and tools, such as programming languages, software applications, statistical methods, machine learning algorithms, and domain knowledge .
+- Some of the most popular programming languages for data analytics are Python, R, SQL, and SAS .
+- Some of the most widely used software applications for data analytics are Excel, Tableau, Power BI, and SPSS .
+- Some of the most common statistical methods for data analytics are descriptive statistics, inferential statistics, hypothesis testing, and regression analysis .
+- Some of the most advanced machine learning algorithms for data analytics are classification, clustering, association rules, and neural networks .
+- Domain knowledge is the understanding of the specific context, industry, or problem that the data and the analysis are related to .
+- Data analytics is a fast-growing and high-demand field, with many career opportunities and benefits, such as data analyst, data scientist, data engineer, business analyst, and data visualization specialist .
+- Data analytics can also be applied to various domains and industries, such as healthcare, education, finance, marketing, sports, and social media .

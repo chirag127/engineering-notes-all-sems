@@ -1,0 +1,26 @@
+## Experiment 11 - Perform a case study about the different routing algorithms to select the network path with its optimum and economical during data transfer
+
+- Routing is the process of selecting a path for traffic in a network or between or across multiple networks.
+- Routing algorithms are the methods that determine the best path for a packet to reach its destination.
+- Routing algorithms can be classified into two types: static and dynamic.
+  - Static routing algorithms use fixed routes that do not change with network conditions. They are simple, fast, and easy to implement, but they cannot adapt to network failures or congestion.
+  - Dynamic routing algorithms use current network information to update routes periodically or on demand. They are more flexible, robust, and efficient, but they require more computation, communication, and memory resources.
+- Routing algorithms can also be categorized based on their scope: global or decentralized.
+  - Global routing algorithms use complete information about the network topology and state to compute optimal routes. They are also called link-state algorithms. Examples are Dijkstra's algorithm and Open Shortest Path First (OSPF) protocol.
+  - Decentralized routing algorithms use partial or local information about the network to compute routes. They are also called distance-vector algorithms. Examples are Bellman-Ford algorithm and Routing Information Protocol (RIP).
+- Routing algorithms can also be distinguished based on their adaptiveness: non-adaptive or adaptive.
+  - Non-adaptive routing algorithms use fixed routes that do not change with network conditions. They are also called deterministic algorithms. Examples are shortest path routing and flooding.
+  - Adaptive routing algorithms use dynamic routes that change with network conditions. They are also called stochastic algorithms. Examples are congestion-aware routing and load balancing.
+- Path selection involves applying a routing metric to multiple routes to select (or predict) the best route.
+  - A routing metric is a numerical value that represents the desirability of a route. It can be based on various factors, such as hop count, bandwidth, delay, cost, reliability, etc.
+  - A routing metric can be additive, multiplicative, or concave. An additive metric is the sum of the values of each link in the route. A multiplicative metric is the product of the values of each link in the route. A concave metric is the minimum of the values of each link in the route.
+  - A routing metric can also be static or dynamic. A static metric is fixed and does not change with network conditions. A dynamic metric is variable and changes with network conditions.
+- Path selection can be performed by different methods, such as shortest path, least cost, highest bandwidth, lowest delay, etc.
+  - Shortest path selects the route with the minimum number of hops. It is simple and fast, but it does not consider other factors, such as link capacity, traffic load, etc.
+  - Least cost selects the route with the minimum total cost. It is economical and efficient, but it requires a common cost function for all links and nodes.
+  - Highest bandwidth selects the route with the maximum available bandwidth. It is optimal for high-throughput applications, but it may cause congestion and waste of resources.
+  - Lowest delay selects the route with the minimum total delay. It is suitable for real-time applications, but it may ignore other factors, such as reliability, security, etc.
+- Path selection can also be performed by using multiple paths, such as multipath routing, equal-cost multipath routing, or load balancing.
+  - Multipath routing uses more than one path for a packet to reach its destination. It can improve reliability, performance, and fault tolerance, but it may cause routing loops, out-of-order delivery, or increased overhead.
+  - Equal-cost multipath routing uses multiple paths that have the same routing metric value. It can balance the load among the paths, but it may cause packet reordering or synchronization issues.
+  - Load balancing distributes the traffic among multiple paths based on their current load or utilization. It can optimize the network performance and avoid congestion, but it may require frequent updates and coordination among the routers.

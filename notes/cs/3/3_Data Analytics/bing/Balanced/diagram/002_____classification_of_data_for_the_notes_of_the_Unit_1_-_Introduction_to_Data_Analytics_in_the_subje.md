@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Data Analytics. Here is the content for the topic of classification of data.
+
+### Classification of data
+
+Data can be classified into different types based on various criteria, such as:
+
+- The level of measurement: This refers to the degree of precision or detail that the data can provide. There are four levels of measurement: nominal, ordinal, interval, and ratio. Nominal data are categorical data that have no inherent order or ranking, such as names, colors, or genders. Ordinal data are also categorical data, but they have a meaningful order or ranking, such as grades, ratings, or preferences. Interval data are numerical data that have equal intervals or differences between values, but no true zero point, such as temperatures, dates, or scores. Ratio data are numerical data that have equal intervals and a true zero point, such as heights, weights, or distances.
+- The source of collection: This refers to the origin or method of obtaining the data. There are two sources of collection: primary and secondary. Primary data are data that are collected directly from the subjects or objects of interest, such as surveys, experiments, or observations. Secondary data are data that are obtained from existing sources, such as books, reports, or databases.
+- The structure or format: This refers to the way the data are organized or presented. There are two structures or formats: structured and unstructured. Structured data are data that have a predefined and consistent format or schema, such as tables, spreadsheets, or databases. Unstructured data are data that have no fixed or standard format or schema, such as text, images, audio, or video.
+
+The classification of data is important for data analytics, as it helps to determine the appropriate methods and techniques for data processing, analysis, and visualization. Different types of data may require different tools and approaches to extract meaningful insights and information.

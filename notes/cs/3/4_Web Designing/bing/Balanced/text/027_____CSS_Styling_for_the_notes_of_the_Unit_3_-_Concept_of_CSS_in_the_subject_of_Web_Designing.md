@@ -1,0 +1,18 @@
+### CSS Styling
+
+- CSS stands for Cascading Style Sheets. It is a language that defines how HTML elements are displayed on a web page.
+- CSS can be used to control the layout, colors, fonts, backgrounds, borders, margins, padding, and other aspects of the appearance of a web page.
+- CSS can be applied to HTML elements in three ways: inline, internal, and external.
+  - Inline CSS is written inside the `style` attribute of an HTML element. It affects only that element and has the highest priority.
+  - Internal CSS is written inside the `<style>` tag in the `<head>` section of an HTML document. It affects all the elements in that document and has the second highest priority.
+  - External CSS is written in a separate file with the `.css` extension and linked to an HTML document using the `<link>` tag in the `<head>` section. It affects all the elements in the linked document and has the lowest priority.
+- CSS uses selectors to target specific HTML elements and apply styles to them. There are different types of selectors, such as element, class, id, attribute, pseudo-class, and pseudo-element selectors.
+  - Element selectors match all the elements of a given type, such as `p`, `h1`, `div`, etc.
+  - Class selectors match all the elements that have a specific class attribute, such as `.red`, `.big`, `.center`, etc. They are preceded by a dot (`.`) in CSS.
+  - Id selectors match only one element that has a specific id attribute, such as `#logo`, `#header`, `#footer`, etc. They are preceded by a hash (`#`) in CSS.
+  - Attribute selectors match all the elements that have a specific attribute or attribute value, such as `[href]`, `[src="logo.png"]`, `[type="text"]`, etc. They are enclosed in square brackets (`[]`) in CSS.
+  - Pseudo-class selectors match all the elements that are in a certain state, such as `:hover`, `:active`, `:visited`, `:first-child`, etc. They are preceded by a colon (`:`) in CSS.
+  - Pseudo-element selectors match a specific part of an element, such as `::before`, `::after`, `::first-line`, `::first-letter`, etc. They are preceded by two colons (`::`) in CSS.
+- CSS uses properties and values to define the styles for the selected elements. Properties are the aspects of the appearance that can be changed, such as `color`, `font-size`, `width`, `height`, etc. Values are the specific settings for the properties, such as `red`, `16px`, `50%`, `auto`, etc. Properties and values are written in the form of `property: value;` and are enclosed in curly braces (`{}`) in CSS.
+- CSS uses the concept of specificity to determine which style rules apply to an element when there are conflicting rules. Specificity is calculated based on the type and number of selectors used in a rule. The more specific a selector is, the higher its specificity and the higher its priority. The order of specificity from highest to lowest is: inline styles, id selectors, class selectors, attribute selectors, pseudo-class selectors, element selectors, and universal selector (`*`).
+- CSS uses the concept of inheritance to pass down some styles from parent elements to child elements. Inheritance means that some properties, such as `color`, `font-family`, `text-align`, etc., are automatically applied to the child elements unless they are overridden by a more specific rule. Some properties, such as `width`, `height`, `margin`, `padding`, etc., are not inherited and need to be specified for each element.

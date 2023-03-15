@@ -1,0 +1,10 @@
+### Components of Reinforcement Learning
+
+Reinforcement learning (RL) is an area of machine learning that deals with learning from the consequences of actions and optimizing the behavior of an agent in an environment. The main components of reinforcement learning are:
+
+- **Agent**: The agent is the entity that interacts with the environment and learns from the feedback it receives. The agent can be a robot, a software program, a game player, or any other system that can perceive and act.
+- **Environment**: The environment is the external world that the agent operates in. The environment can be deterministic or stochastic, fully or partially observable, discrete or continuous, static or dynamic, etc. The environment provides the agent with observations and rewards.
+- **Policy**: The policy is the strategy that the agent follows to select actions in each state. The policy can be deterministic or stochastic, explicit or implicit, learned or predefined, etc. The policy maps the agent's observations to actions.
+- **Reward**: The reward is the numerical feedback that the agent receives from the environment after taking an action. The reward can be positive or negative, immediate or delayed, scalar or vector, etc. The reward reflects the desirability of the agent's behavior and guides its learning process.
+- **Value function**: The value function is the function that estimates the long-term value or expected return of each state or state-action pair. The value function can be state-value function or action-value function, learned or computed, etc. The value function helps the agent to evaluate and compare different actions and policies.
+- **Model**: The model is the optional component that represents the agent's knowledge or assumptions about the environment's dynamics and rewards. The model can be learned or given, accurate or approximate, etc. The model allows the agent to plan ahead and simulate the outcomes of its actions.

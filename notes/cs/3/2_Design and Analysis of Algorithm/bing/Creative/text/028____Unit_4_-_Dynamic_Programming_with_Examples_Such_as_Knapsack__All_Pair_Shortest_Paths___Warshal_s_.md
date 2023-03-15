@@ -1,0 +1,22 @@
+## Unit 4 - Dynamic Programming with Examples Such as Knapsack. All Pair Shortest Paths – Warshal’s and Floyd’s Algorithms, Resource Allocation Problem. Backtracking, Branch and Bound with Examples Such as Travelling Salesman Problem, Graph Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets.
+
+- Dynamic programming is a technique for solving optimization problems that have overlapping subproblems and optimal substructure properties. It works by breaking down the problem into smaller subproblems, solving them once and storing their solutions, and then combining the solutions to obtain the optimal solution for the original problem.
+- Knapsack problem is an example of a dynamic programming problem. It is a problem of packing a set of items, each with a weight and a value, into a knapsack with a limited capacity. The goal is to maximize the total value of the items in the knapsack without exceeding the capacity. The knapsack problem can be solved by using a two-dimensional array to store the optimal value for each subproblem of choosing a subset of items and a subcapacity of the knapsack. The optimal value for the original problem can be obtained by filling the array from bottom to top and right to left, using the recurrence relation:
+
+  - `V[i][w] = max(V[i-1][w], V[i-1][w-wi] + vi)` if `wi <= w`
+  - `V[i][w] = V[i-1][w]` otherwise
+
+  where `V[i][w]` is the optimal value for choosing from the first `i` items and a knapsack capacity of `w`, `wi` and `vi` are the weight and value of the `i`-th item, respectively  .
+
+- All pair shortest paths problem is another example of a dynamic programming problem. It is a problem of finding the shortest paths between every pair of vertices in a weighted graph. The problem can be solved by using a three-dimensional array to store the shortest distance for each subproblem of choosing a pair of vertices and an intermediate vertex. The shortest distance for the original problem can be obtained by filling the array from front to back and bottom to top, using the recurrence relation:
+
+  - `D[k][i][j] = min(D[k-1][i][j], D[k-1][i][k] + D[k-1][k][j])`
+
+  where `D[k][i][j]` is the shortest distance between vertices `i` and `j` using only the first `k` vertices as intermediate vertices  .
+
+- Resource allocation problem is a problem of allocating a limited amount of resources to a number of independent activities in order to maximize the total profit or minimize the total cost. The problem can be solved by using a functional equation technique of dynamic programming. The idea is to define a function that represents the optimal value for each subproblem of allocating a certain amount of resources to a certain number of activities. The optimal value for the original problem can be obtained by solving the functional equation recursively or iteratively, using the principle of optimality   .
+
+- Backtracking is a technique for solving problems that involve searching for a solution among a large number of possibilities. It works by exploring the solution space incrementally, making a choice at each step, and backtracking if the choice leads to a dead end or a suboptimal solution. Backtracking can be used to solve problems that have a goal test, a set of constraints, and a set of choices at each step.
+- Travelling salesman problem is an example of a problem that can be solved by backtracking. It is a problem of finding the shortest tour that visits every city in a given set of cities exactly once and returns to the starting city. The problem can be solved by using a one-dimensional array to store the current tour, a variable to store the current length, and a variable to store the minimum length. The solution can be obtained by starting from an arbitrary city, choosing the next city to visit from the unvisited ones, updating the current tour and length, checking if the current tour is a complete tour or if the current length is already greater than the minimum length, and backtracking if necessary.
+
+- Branch and bound is a technique for solving optimization problems that involve searching for a solution among a large number of possibilities. It works by exploring the solution space incrementally, making a choice at each step

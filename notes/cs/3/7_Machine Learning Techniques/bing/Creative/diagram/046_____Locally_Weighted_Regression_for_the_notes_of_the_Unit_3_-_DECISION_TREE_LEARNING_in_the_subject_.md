@@ -1,0 +1,23 @@
+### Locally Weighted Regression
+
+- Locally weighted regression (LWR) is a nonparametric regression method that combines k-nearest neighbor based machine learning  .
+- It is called locally weighted because for a query point, the function is approximated on the basis of data near that point and weighted because the contribution of each data point is weighted by its distance from the query point .
+- LWR does not have a training phase, but it performs all the work during the testing phase or while making predictions  .
+- LWR can be seen as a generalization of k-nearest neighbor, where instead of using a fixed number of neighbors, it uses a kernel function to assign weights to the neighbors based on their distance from the query point .
+- LWR can also be seen as a generalization of linear regression, where instead of fitting a global linear model to the entire data, it fits a local linear model to a subset of data around the query point  .
+- LWR can handle nonlinear and complex relationships between the input and output variables, as well as outliers and noise in the data .
+- LWR has a hyperparameter called the bandwidth or smoothing parameter, which controls the size of the neighborhood or the degree of smoothing of the function   .
+- LWR can be implemented using the following steps :
+  - For a given query point x, find the distance of x from each data point in the dataset.
+  - Compute the weights for each data point using a kernel function, such as the Gaussian kernel, based on the distance and the bandwidth parameter.
+  - Fit a linear model to the weighted data points using the normal equation or gradient descent.
+  - Evaluate the hypothesis function h at the query point x using the fitted model parameters.
+- LWR has some advantages and disadvantages :
+  - Advantages:
+    - It can fit complex and nonlinear functions without explicitly choosing the features or the basis functions.
+    - It can adapt to the local structure of the data and avoid overfitting or underfitting.
+    - It can handle outliers and noise in the data by giving them lower weights.
+  - Disadvantages:
+    - It is computationally expensive, as it requires finding the distances, weights, and model parameters for each query point.
+    - It is sensitive to the choice of the bandwidth parameter, which can affect the smoothness and accuracy of the function.
+    - It can suffer from the curse of dimensionality, as the distance metric becomes less meaningful in high-dimensional spaces.

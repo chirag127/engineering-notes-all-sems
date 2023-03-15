@@ -1,0 +1,25 @@
+### Implementation of control for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object oriented analysis (OOA) is a method for viewing the interaction of data and manipulations of data that is based on the object-oriented programming paradigm.
+- OOA aims to model the functional requirements of the software while remaining independent of any potential implementation requirements.
+- OOA involves identifying the objects and classes that are relevant to the problem domain, and defining their attributes, operations, and relationships.
+- Control is one of the aspects of OOA that deals with the sequencing and coordination of the actions and interactions of the objects and classes.
+- Control can be implemented in different ways, depending on the level of abstraction and the design approach.
+- One way to implement control is to use control objects, which encapsulate the control logic for each use-case, ensuring the right steps occur in the right order.
+- Control objects can be identified by analyzing the use-case scenarios and finding the objects that initiate, coordinate, or terminate the actions and interactions of other objects.
+- Control objects can be classified into three types: system control, subsystem control, and object control.
+- System control objects are responsible for the overall control of the system, such as initializing, configuring, and terminating the system.
+- Subsystem control objects are responsible for the control of a subsystem, such as managing the resources, services, and interactions of the subsystem.
+- Object control objects are responsible for the control of a single object, such as validating the input, performing the operation, and updating the state of the object.
+- Another way to implement control is to use the Shlaer-Mellor method, which is also known as Object-Oriented Systems Analysis (OOSA) or Object-Oriented Analysis (OOA).
+- The Shlaer-Mellor method makes the documented analysis so precise that it is possible to implement the analysis model directly by translating it into executable code.
+- The Shlaer-Mellor method uses two models to represent the system: the information model and the state model.
+- The information model describes the static structure of the system, such as the objects, classes, attributes, and associations.
+- The state model describes the dynamic behavior of the system, such as the states, events, actions, and transitions.
+- The state model also specifies the control logic for each object and class, by defining the conditions and actions that trigger the state changes.
+- The Shlaer-Mellor method uses a notation called Object Communication Diagrams (OCDs) to illustrate the interactions and control flow among the objects and classes.
+- OCDs show the objects and classes involved in a scenario, the events that occur between them, and the order and timing of the events.
+- OCDs also show the state changes of the objects and classes, and the actions that are performed as a result of the events.
+- The Shlaer-Mellor method uses a tool called Object-Oriented Analysis Tool (OOAT) to automate the translation of the analysis model into executable code.
+- OOAT supports various target languages and platforms, such as C, C++, Java, Ada, and CORBA.
+- OOAT also supports various analysis methods and notations, such as UML, OMT, and Booch.

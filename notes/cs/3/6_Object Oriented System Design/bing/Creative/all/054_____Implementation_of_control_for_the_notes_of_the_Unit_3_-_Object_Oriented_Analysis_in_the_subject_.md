@@ -1,0 +1,10 @@
+# Implementation of control for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Control is the aspect of a system that determines the order and timing of events and actions.
+- Control can be implemented in different ways in object oriented analysis, depending on the level of abstraction and the design goals.
+- Some common approaches to implement control are :
+  - **Control objects**: These are objects that encapsulate the control logic for each use case, ensuring the right steps occur in the right order. They coordinate the interactions between other objects that participate in the use case. They may also handle exceptions and errors that may arise during the execution of the use case. Control objects are useful for complex and dynamic scenarios that involve multiple actors and objects.
+  - **Passive control**: This is the approach where objects provide services only when they are requested by other objects. They do not initiate any actions on their own. They may provide data storage, data manipulation, or both. Passive control objects are useful for simple and static scenarios that involve few actors and objects.
+  - **Active control**: This is the approach where objects initiate actions on their own, based on some internal or external triggers. They may use timers, events, or messages to communicate with other objects. They may also have their own threads of execution. Active control objects are useful for concurrent and distributed scenarios that involve asynchronous and parallel processing.
+- The choice of control implementation depends on the requirements and constraints of the system, such as performance, scalability, modularity, reusability, maintainability, etc.
+- The control implementation should be documented in the system design, using appropriate diagrams and notations, such as state diagrams, sequence diagrams, collaboration diagrams, etc .

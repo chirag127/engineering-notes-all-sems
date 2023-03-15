@@ -1,0 +1,13 @@
+### Classification of Data
+
+- Data classification is the process of organizing data by relevant categories so that it may be used and protected more efficiently.
+- Data classification can be based on various criteria, such as the source, nature, format, or sensitivity of the data .
+- Data classification can help in data analysis, data management, data security, and data compliance  .
+- Some common types of data classification are:
+
+  - Qualitative classification: This type of classification is based on the characteristics or attributes of the data, such as gender, color, religion, etc. Qualitative data can be further divided into nominal and ordinal data. Nominal data are data that can be named but not ordered, such as country names or eye colors. Ordinal data are data that can be ordered but not measured, such as ranks or grades.
+  - Quantitative classification: This type of classification is based on the numerical values or measurements of the data, such as height, weight, income, etc. Quantitative data can be further divided into discrete and continuous data. Discrete data are data that can be counted but not measured, such as number of students or number of books. Continuous data are data that can be measured but not counted, such as temperature or time.
+  - Public data: This type of data is important information that is freely accessible for anyone to use, such as census data, weather data, or government data. Public data does not require a high level of security or protection, but it can be useful for research, education, or public service.
+  - Private data: This type of data is personal information that is not available for public use, such as name, address, phone number, or email. Private data requires a moderate level of security or protection, as it can be used for identity theft, fraud, or harassment if exposed.
+  - Internal data: This type of data is business information that is only accessible for authorized employees or stakeholders, such as financial reports, customer data, or employee records. Internal data requires a high level of security or protection, as it can affect the reputation, performance, or competitiveness of the organization if leaked.
+  - Confidential data: This type of data is sensitive information that is only accessible for a limited number of people, such as trade secrets, intellectual property, or classified documents. Confidential data requires the highest level of security or protection, as it can cause serious damage, loss, or harm to the organization or the nation if disclosed .

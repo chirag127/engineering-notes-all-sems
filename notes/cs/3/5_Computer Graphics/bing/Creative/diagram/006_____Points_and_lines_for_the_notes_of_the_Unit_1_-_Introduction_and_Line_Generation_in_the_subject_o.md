@@ -1,0 +1,9 @@
+### Points and lines for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A point is the simplest graphical element that can be displayed on a screen. It is represented by a pair of coordinates (x, y) that specify its position on a two-dimensional plane.
+- A line is a sequence of points that are connected by straight or curved segments. It is represented by two endpoints (x1, y1) and (x2, y2) that specify the start and end of the line, or by a slope-intercept equation y = mx + b that specifies the direction and position of the line.
+- Lines are used to draw shapes, boundaries, curves, and other graphical elements. They can also be used to represent mathematical functions, data, and relations.
+- There are different algorithms to generate lines on a raster display, such as the digital differential analyzer (DDA) algorithm, the Bresenham's line algorithm, and the midpoint line algorithm. These algorithms use integer arithmetic and incremental calculations to plot the pixels that approximate the line.
+- The DDA algorithm uses the slope of the line to incrementally calculate the x and y coordinates of each pixel along the line. It is simple but prone to rounding errors and floating-point operations.
+- The Bresenham's line algorithm uses the decision variable to determine whether to increment the x or y coordinate of each pixel along the line. It is faster and more accurate than the DDA algorithm, but it only works for lines with slopes between 0 and 1.
+- The midpoint line algorithm uses the midpoint between two pixels to decide whether to increment the x or y coordinate of each pixel along the line. It is similar to the Bresenham's line algorithm, but it works for lines with any slope. It is also more efficient and elegant than the Bresenham's line algorithm.

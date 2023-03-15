@@ -1,0 +1,44 @@
+### Circle generating algorithms for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A circle is one of the fundamental shapes used in computer graphics and it is generated through a circle generation algorithm.
+- A circle generation algorithm is an algorithm used to create a circle on a computer screen by determining the subsequent points required to draw the circle .
+- The equation of a circle is X^2^ + Y^2^ = r^2^, where r is the radius of the circle.
+- There are several algorithms used for generating circles on a computer screen, such as:
+  - Bresenham's Algorithm
+  - Midpoint Circle Algorithm
+  - Polar Coordinates Method
+  - Trigonometric Method
+- Bresenham's Algorithm :
+  - It is an efficient and incremental algorithm that uses only integer arithmetic and avoids floating-point operations.
+  - It is based on the idea of using the midpoint of the circle to decide the next point to be plotted.
+  - It starts from the point (0, r) and moves in an anti-clockwise direction along the octant of the circle in the first quadrant.
+  - It uses a decision variable d to determine whether to choose the pixel at (x+1, y) or (x+1, y-1) as the next point.
+  - The initial value of d is 3 - 2r and it is updated at each step as follows:
+    - If d < 0, then d = d + 4x + 6 and the next point is (x+1, y)
+    - If d >= 0, then d = d + 4(x-y) + 10 and the next point is (x+1, y-1)
+  - The algorithm stops when x >= y, as the remaining points can be obtained by symmetry.
+- Midpoint Circle Algorithm :
+  - It is similar to Bresenham's Algorithm, but it uses a different decision variable and update rules.
+  - It is based on the idea of using the midpoint of the line joining the two candidate pixels to decide the next point to be plotted.
+  - It starts from the point (0, r) and moves in an anti-clockwise direction along the octant of the circle in the first quadrant.
+  - It uses a decision variable p to determine whether to choose the pixel at (x+1, y) or (x+1, y-1) as the next point.
+  - The initial value of p is 1 - r and it is updated at each step as follows:
+    - If p < 0, then p = p + 2x + 3 and the next point is (x+1, y)
+    - If p >= 0, then p = p + 2(x-y) + 5 and the next point is (x+1, y-1)
+  - The algorithm stops when x >= y, as the remaining points can be obtained by symmetry.
+- Polar Coordinates Method:
+  - It is an algorithm that uses the polar coordinates of the circle to generate the points on the circle.
+  - It is based on the idea of using the angle theta and the radius r to calculate the Cartesian coordinates of the points on the circle.
+  - It starts from the point (r, 0) and increments the angle theta by a small value delta until it reaches 2*pi radians.
+  - It uses the following formulas to calculate the Cartesian coordinates of the points on the circle:
+    - x = r * cos(theta)
+    - y = r * sin(theta)
+  - The algorithm requires floating-point operations and trigonometric functions, which may be costly and inaccurate.
+- Trigonometric Method:
+  - It is an algorithm that uses the trigonometric identities of the circle to generate the points on the circle.
+  - It is based on the idea of using the angle theta and the radius r to calculate the Cartesian coordinates of the points on the circle.
+  - It starts from the point (r, 0) and increments the angle theta by a small value delta until it reaches 2*pi radians.
+  - It uses the following formulas to calculate the Cartesian coordinates of the points on the circle:
+    - x = r * cos(theta)
+    - y = r * sin(theta)
+  - It also uses the following trigonometric identities to avoid calculating the same values repeatedly

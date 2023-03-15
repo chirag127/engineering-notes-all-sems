@@ -1,0 +1,9 @@
+### 1D and 2D Artificial Neural Networks
+
+- Artificial neural networks (ANNs) are computational models that mimic the structure and function of biological neurons and their connections.
+- ANNs can be classified into different types based on the dimensionality of their input and output data, such as 1D, 2D, or 3D.
+- 1D ANNs take one-dimensional data as input, such as time series, audio signals, or text. 2D ANNs take two-dimensional data as input, such as images, videos, or matrices.
+- One common type of 1D ANN is the convolutional neural network (CNN), which applies a series of filters or kernels to the input data to extract features and learn patterns. 1D CNNs are usually used for tasks such as speech recognition, natural language processing, or anomaly detection .
+- One common type of 2D ANN is also the convolutional neural network, but with a different kernel shape and movement. 2D CNNs apply filters that move in two directions (horizontal and vertical) to the input data, creating a feature map for each filter. 2D CNNs are usually used for tasks such as image classification, face recognition, or object detection.
+- 1D and 2D ANNs have different advantages and disadvantages depending on the nature and complexity of the data and the task. For example, 1D ANNs are easier to train and have lower computational complexity than 2D ANNs, but 2D ANNs can capture more spatial information and context from the data.
+- Recently, researchers have developed the first 2D neural network made using two-dimensional materials, such as graphene, which could enable faster and more energy-efficient computing.

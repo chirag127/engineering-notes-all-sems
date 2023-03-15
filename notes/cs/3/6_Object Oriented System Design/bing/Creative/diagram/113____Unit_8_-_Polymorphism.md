@@ -1,0 +1,11 @@
+## Unit 8 - Polymorphism
+
+Polymorphism is one of the key concepts of object-oriented programming. It means the ability of an object to take on different forms or behaviors depending on the context. Polymorphism can be achieved in different ways, such as:
+
+- **Overloading**: This is when a class or a method has multiple definitions with different parameters or return types. For example, a class can have multiple constructors with different arguments, or a method can have different versions for different data types. Overloading allows us to use the same name for different operations that are related or similar.
+
+- **Overriding**: This is when a subclass or a child class redefines a method inherited from a superclass or a parent class. For example, a class Animal can have a method sound() that returns a generic noise, and a subclass Dog can override this method to return "woof". Overriding allows us to customize or modify the behavior of an inherited method.
+
+- **Abstract classes and interfaces**: These are special types of classes that cannot be instantiated, but can only be inherited or implemented by other classes. They define abstract methods that must be overridden by the subclasses or the implementing classes. For example, an abstract class Shape can have an abstract method area() that returns the area of the shape, and a subclass Circle can override this method to return the area of a circle. An interface is similar to an abstract class, but it can only have abstract methods and constants, and a class can implement multiple interfaces. Abstract classes and interfaces allow us to define a common contract or specification for a group of related classes.
+
+- **Dynamic binding or late binding**: This is when the type of an object is determined at run time, not at compile time. For example, if we have a reference variable of type Animal, and we assign it to an object of type Dog, then the type of the object is Animal at compile time, but Dog at run time. This means that when we call a method on the object, such as sound(), the method of the actual object type (Dog) will be executed, not the method of the reference type (Animal). Dynamic binding allows us to achieve polymorphic behavior with a single reference variable.

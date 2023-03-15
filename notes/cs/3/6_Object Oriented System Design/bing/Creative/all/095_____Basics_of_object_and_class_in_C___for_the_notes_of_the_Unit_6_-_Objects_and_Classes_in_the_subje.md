@@ -1,0 +1,11 @@
+# Basics of object and class in C++
+
+- An **object** is an instance of a **class** that encapsulates data and behavior related to a specific entity.
+- A **class** is a user-defined data type that defines the properties and methods of a group of similar objects.
+- A class can be declared using the keyword `class` followed by the class name and a pair of curly braces that contain the class members.
+- A class member can be either a **data member** or a **member function**. A data member is a variable that stores the state or attribute of an object. A member function is a function that performs some operation on or with the object.
+- An object can be created from a class using the syntax `ClassName objectName;` or `ClassName objectName(parameters);` where `parameters` are optional arguments that initialize the object's data members.
+- An object can access the class members using the dot operator `.` or the arrow operator `->` if the object is a pointer. For example, `objectName.dataMember` or `objectName->dataMember` or `objectName.memberFunction()` or `objectName->memberFunction()`.
+- A class can also have **static members** that are shared by all the objects of the class. A static member can be declared using the keyword `static` before the member declaration. A static member can be accessed using the scope resolution operator `::` with the class name. For example, `ClassName::staticMember`.
+- A class can also have **access specifiers** that control the visibility of the class members. There are three access specifiers: `public`, `private`, and `protected`. A public member can be accessed by anyone, a private member can only be accessed by the class itself or its friends, and a protected member can be accessed by the class itself, its friends, or its derived classes. The default access specifier for a class is `private`.
+- A class can also have **constructors** and **destructors** that are special member functions that are invoked when an object is created or destroyed. A constructor has the same name as the class and can have parameters to initialize the object's data members. A destructor has the same name as the class with a tilde `~` prefix and has no parameters. A constructor and a destructor can be declared using the syntax `ClassName(parameters);` and `~ClassName();` respectively.

@@ -1,0 +1,16 @@
+### Network structure and architecture
+
+- Network structure and architecture refer to the way network devices and services are structured to serve the connectivity needs of client devices.
+- Network devices typically include switches, routers, hubs, bridges, gateways, firewalls, etc.
+- Network services typically include DHCP, DNS, FTP, HTTP, SMTP, etc.
+- Network structure and architecture also describe how the network devices are connected and the rules that govern data transfer between them .
+- The medium of data transmission, such as copper wire, fiber optic cable, radio waves, etc., also constitutes the network structure and architecture.
+- There are many ways to approach network structure and architecture design, which depend on the purpose and size of the network.
+- The main types of network structure and architecture are peer-to-peer (P2P) and client/server.
+  - In a P2P network, each node can act as both a client and a server, and there is no central authority or server. P2P networks are usually decentralized, self-organizing, and scalable. P2P networks are suitable for small networks that share files, printers, or other resources.
+  - In a client/server network, there is a central server that provides services to multiple clients. The server can store data, process requests, or perform other functions. The clients can access the server's resources, but cannot provide services to other clients. Client/server networks are usually centralized, hierarchical, and controlled. Client/server networks are suitable for large networks that require security, reliability, or performance.
+- Network structure and architecture can also be classified based on the geographical scope of the network, such as local area network (LAN), metropolitan area network (MAN), wide area network (WAN), or personal area network (PAN).
+  - A LAN is a network that connects devices within a small area, such as a building, a floor, or a room. A LAN can use wired or wireless transmission media, and can have different topologies, such as bus, ring, star, or mesh. A LAN can provide high-speed data transfer, low cost, and easy installation.
+  - A MAN is a network that connects devices within a large area, such as a city, a campus, or a region. A MAN can use fiber optic cable, microwave, or satellite transmission media, and can have different topologies, such as ring, star, or tree. A MAN can provide moderate-speed data transfer, moderate cost, and moderate installation.
+  - A WAN is a network that connects devices across a wide area, such as a country, a continent, or the world. A WAN can use fiber optic cable, microwave, satellite, or telephone transmission media, and can have different topologies, such as point-to-point, point-to-multipoint, or broadcast. A WAN can provide low-speed data transfer, high cost, and complex installation.
+  - A PAN is a network that connects devices within a personal range, such as a few meters. A PAN can use wireless transmission media, such as Bluetooth, infrared, or Wi-Fi. A PAN can provide low-speed data transfer, low cost, and easy installation.

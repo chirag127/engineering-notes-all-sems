@@ -1,0 +1,26 @@
+### Binomial Heaps
+
+- A binomial heap is a data structure that acts as a priority queue but also allows pairs of heaps to be merged.
+- A binomial heap is implemented as a set of binomial trees that satisfy the binomial heap properties:
+  - Each binomial tree in a heap obeys the minimum-heap property: the key of a node is greater than or equal to the key of its parent.
+  - There can be at most one binomial tree for each order, including zero order.
+- A binomial tree of order 0 is a single node.
+- A binomial tree of order k has a root node whose children are roots of binomial trees of orders k-1, k-2, ..., 2, 1, 0 (in this order).
+- A binomial tree of order k has 2^k nodes.
+- A binomial heap with n nodes has at most log(n) + 1 binomial trees.
+- The operations supported by a binomial heap are:
+  - Create-heap: creates an empty binomial heap.
+  - Insert: inserts a new node into the binomial heap.
+  - Get-min: returns the node with the minimum key in the binomial heap.
+  - Extract-min: removes and returns the node with the minimum key in the binomial heap.
+  - Union: merges two binomial heaps into one.
+  - Decrease-key: decreases the key of a given node in the binomial heap.
+  - Delete: deletes a given node from the binomial heap.
+- The time complexities of the operations are:
+  - Create-heap: O(1)
+  - Insert: O(log n)
+  - Get-min: O(log n)
+  - Extract-min: O(log n)
+  - Union: O(log n)
+  - Decrease-key: O(log n)
+  - Delete: O(log n)

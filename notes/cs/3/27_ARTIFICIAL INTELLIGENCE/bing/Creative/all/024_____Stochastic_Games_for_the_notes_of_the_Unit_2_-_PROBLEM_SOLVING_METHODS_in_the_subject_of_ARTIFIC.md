@@ -1,0 +1,21 @@
+# Stochastic Games
+
+- Stochastic games are a generalization of Markov decision processes (MDPs) to the case where there are multiple agents in a common environment.
+- The agents perform a joint action that defines both the reward obtained by the agents and the new state of the environment.
+- The agents may have different objectives and preferences, and may cooperate or compete with each other.
+- Stochastic games can model many artificial intelligence applications, such as board games, robotics, autonomous driving, and multi-agent systems.
+- Stochastic games can be classified into different types, depending on the information available to the agents, the structure of the game, and the nature of the rewards.
+- Some common types of stochastic games are:
+  - Zero-sum games: the sum of the rewards of the agents is zero, so one agent's gain is another agent's loss.
+  - Cooperative games: the agents share a common reward function and try to maximize it together.
+  - Non-cooperative games: the agents have individual reward functions and try to maximize their own rewards.
+  - Perfect-information games: the agents know the state of the environment and the actions and rewards of the other agents.
+  - Imperfect-information games: the agents have incomplete or uncertain information about the state, actions, or rewards of the other agents.
+  - Deterministic games: the state transition function is deterministic, so the next state is fully determined by the current state and the joint action.
+  - Stochastic games: the state transition function is stochastic, so the next state is probabilistic and depends on the current state and the joint action.
+- Stochastic games can be solved by various methods, depending on the type of the game and the assumptions made about the agents.
+- Some common methods are:
+  - Minimax: a method for finding the optimal strategy for a zero-sum game with perfect information, by minimizing the maximum possible loss.
+  - Nash equilibrium: a method for finding a stable strategy profile for a non-cooperative game, where no agent can improve its reward by deviating from its strategy, given the strategies of the other agents.
+  - Reinforcement learning: a method for learning an optimal or near-optimal strategy for a stochastic game, by interacting with the environment and updating the strategy based on the observed rewards and state transitions.
+  - Descent: a method for learning and planning in the context of stochastic two-player perfect-information games, by using a neural network to approximate the value function and a gradient descent algorithm to update the network parameters.

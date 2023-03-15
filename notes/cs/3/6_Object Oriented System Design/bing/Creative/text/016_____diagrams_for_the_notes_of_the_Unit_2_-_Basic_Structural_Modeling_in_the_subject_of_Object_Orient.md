@@ -1,0 +1,9 @@
+### Diagrams for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of describing the static structure of a system using diagrams that show the elements and their relationships.
+- The Unified Modeling Language (UML) is a standard notation for creating such diagrams.
+- UML defines four types of structural diagrams: class diagram, object diagram, component diagram, and deployment diagram.
+- Class diagram: A class diagram models the static view of a system. It shows the classes, interfaces, and collaborations of a system, and the relationships between them. A class diagram can also show the attributes and operations of each class, and the constraints that apply to them.
+- Object diagram: An object diagram is a snapshot of the instances of the classes in a system at a given point in time. It shows the objects, their attributes, and their links to other objects. An object diagram can be used to illustrate a specific scenario or example of a system.
+- Component diagram: A component diagram models the physical components of a system and how they are organized and connected. It shows the software components, such as modules, packages, libraries, and frameworks, and the hardware components, such as devices, nodes, and connectors. A component diagram can be used to describe the architecture and deployment of a system.
+- Deployment diagram: A deployment diagram models the distribution of the components of a system across the nodes of a network. It shows the nodes, such as servers, workstations, routers, and switches, and the components that are deployed on them. A deployment diagram can be used to show the configuration and topology of a system.

@@ -1,0 +1,11 @@
+### Interaction techniques for data analytics
+
+Interaction techniques are methods or tools that enable users to explore, manipulate, and analyze data in a visual or interactive way. Interaction techniques can help users gain insights, discover patterns, test hypotheses, and communicate findings from data. Some examples of interaction techniques for data analytics are:
+
+- **Filtering**: This technique allows users to select a subset of data based on some criteria, such as a range of values, a category, or a keyword. Filtering can help users focus on the most relevant or interesting data and reduce noise or clutter.
+- **Brushing and linking**: This technique allows users to highlight or select a group of data points in one view and see the corresponding data points in another view. Brushing and linking can help users compare and correlate data across different dimensions or perspectives.
+- **Zooming and panning**: This technique allows users to adjust the level of detail or the region of interest in a data visualization. Zooming and panning can help users explore data at different scales and contexts.
+- **Drilling down and rolling up**: This technique allows users to navigate through different levels of data hierarchy or aggregation. Drilling down and rolling up can help users examine data at different granularities and summarize data at different levels.
+- **Sorting and ranking**: This technique allows users to order data based on some attribute or measure, such as alphabetical, numerical, or categorical. Sorting and ranking can help users identify the most or least important, frequent, or extreme data points.
+- **Querying and searching**: This technique allows users to specify a question or a keyword and retrieve data that matches or answers the query. Querying and searching can help users find specific or relevant data and test hypotheses or assumptions.
+- **Annotation and storytelling**: This technique allows users to add notes, comments, or explanations to data or data visualizations. Annotation and storytelling can help users communicate their findings, insights, or arguments to others.

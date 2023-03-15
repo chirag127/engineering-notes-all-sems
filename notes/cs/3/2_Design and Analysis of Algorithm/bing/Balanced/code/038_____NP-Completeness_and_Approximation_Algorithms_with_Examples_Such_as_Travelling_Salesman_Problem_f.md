@@ -1,0 +1,22 @@
+# NP-Completeness and Approximation Algorithms with Examples Such as Travelling Salesman Problem, Graph Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets.
+
+- NP-Completeness is a concept that relates to the complexity of decision problems, which are problems that have a yes or no answer. A decision problem is NP-complete if it satisfies two conditions:
+  - It is in NP, which means that a given solution can be verified in polynomial time.
+  - It is NP-hard, which means that any other problem in NP can be reduced to it in polynomial time.
+- NP-complete problems are believed to be very hard to solve, as no polynomial time algorithm is known for any of them. If a polynomial time algorithm is found for one NP-complete problem, then it can be used to solve all other NP-complete problems as well. This is called the P vs NP problem, and it is one of the most important open questions in computer science.
+- Approximation Algorithms are a way of dealing with NP-completeness for optimization problems, which are problems that seek to find the best solution among many possible ones. For example, finding the shortest path between two points, or the minimum number of colors needed to color a graph. Optimization problems can be formulated as decision problems by asking whether there exists a solution that is better than a given threshold.
+  - An Approximation Algorithm does not guarantee the best solution, but rather a solution that is close to the optimal one. The goal of an Approximation Algorithm is to find a solution that has a provable quality guarantee, which is usually expressed as a ratio between the value of the solution found and the value of the optimal solution. This ratio is called the approximation factor or the approximation ratio.
+  - For example, an approximation algorithm for the vertex cover problem, which asks for the minimum number of vertices needed to cover all the edges of a graph, can guarantee that the solution found is at most twice as large as the optimal one. This means that the approximation factor is 2.
+  - Approximation Algorithms are useful when finding the optimal solution is too hard or too time-consuming, and a good enough solution is acceptable. Approximation Algorithms can also provide insights into the structure and properties of the problem, and sometimes lead to better algorithms or lower bounds for the optimal solution.
+
+## Examples of NP-Complete Problems and Approximation Algorithms
+
+- Travelling Salesman Problem (TSP): Given a set of cities and the distances between them, find the shortest tour that visits each city exactly once and returns to the starting point.
+  - This problem is NP-complete, as it can be shown that the Hamiltonian cycle problem, which asks for a cycle that visits each vertex of a graph exactly once, can be reduced to it in polynomial time.
+  - One approximation algorithm for the TSP is the nearest neighbor heuristic, which starts from a random city and repeatedly visits the nearest unvisited city until all cities are visited. This algorithm can guarantee that the tour found is at most twice as long as the optimal one, if the distances satisfy the triangle inequality, which means that the distance between any two cities is no more than the sum of the distances between them and a third city.
+- Graph Coloring: Given a graph, assign a color to each vertex such that no two adjacent vertices have the same color. Minimize the number of colors used.
+  - This problem is NP-complete, as it can be shown that the 3-colorability problem, which asks whether a graph can be colored with at most three colors, can be reduced to it in polynomial time.
+  - One approximation algorithm for the graph coloring problem is the greedy algorithm, which assigns colors to the vertices in some order, and always chooses the smallest available color for each vertex. This algorithm can guarantee that the number of colors used is at most the maximum degree of the graph plus one, where the degree of a vertex is the number of edges incident to it.
+- n-Queen Problem: Given an n x n chessboard, place n queens on the board such that no two queens attack each other, i.e., no two queens share the same row, column, or diagonal.
+  - This problem is NP-complete, as it can be shown that the exact cover problem, which asks whether a given set of subsets of a finite set can cover the whole set without overlapping, can be reduced to it in polynomial time.
+  - One approximation algorithm for the n-queen problem is

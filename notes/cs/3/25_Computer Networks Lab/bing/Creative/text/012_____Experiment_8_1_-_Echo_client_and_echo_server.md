@@ -1,0 +1,26 @@
+### Experiment 8.1 - Echo client and echo server
+
+- An echo client and echo server are applications that allow a client and a server to communicate over a network using sockets     .
+- The client sends a message to the server and the server receives the message and sends, or echoes, it back to the client     .
+- The echo functionality is useful for testing the connectivity and performance of the network and the applications .
+- The echo client and server can be implemented using different protocols, such as TCP or UDP   .
+- TCP is a reliable, connection-oriented protocol that ensures the delivery and order of the messages   .
+- UDP is an unreliable, connectionless protocol that does not guarantee the delivery and order of the messages   .
+- The echo client and server can be implemented using different programming languages, such as Java, Python, or C   .
+- The echo client and server can be implemented using different threading models, such as single-threaded or multi-threaded  .
+- A single-threaded server means that it accepts only one client connection at a time  .
+- A multi-threaded server means that it can handle multiple client connections concurrently using threads  .
+- The echo client and server can be implemented using different socket APIs, such as BSD sockets or Java sockets   .
+- A socket API is a set of functions and data structures that allow applications to create and manipulate sockets   .
+- A socket is an endpoint of communication between two processes on a network   .
+- A socket has an address, which consists of an IP address and a port number   .
+- An IP address is a numerical identifier that uniquely identifies a host on a network   .
+- A port number is a numerical identifier that uniquely identifies a process on a host   .
+- The echo client and server can be implemented using different message formats, such as text or binary   .
+- A text message is a sequence of characters that can be encoded and decoded using a character set, such as ASCII or UTF-8   .
+- A binary message is a sequence of bytes that can be interpreted according to a specific protocol or format, such as JPEG or MP3   .
+- The echo client and server can be implemented using different message delimiters, such as newline or length-prefix   .
+- A message delimiter is a special character or sequence of characters that indicates the end or the length of a message   .
+- A newline delimiter is a character or sequence of characters that represents a line break, such as \n or \r\n   .
+- A length-prefix delimiter is a sequence of characters that represents the length of the message, such as 4HELLO or 10HELLO WORLD   .
+- The echo client and server can be implemented using different message buffers, such as fixed-size or dynamic-size

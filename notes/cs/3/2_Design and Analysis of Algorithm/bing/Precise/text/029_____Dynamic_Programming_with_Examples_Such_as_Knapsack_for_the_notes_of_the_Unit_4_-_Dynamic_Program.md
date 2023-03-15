@@ -1,0 +1,11 @@
+### Dynamic Programming with Examples Such as Knapsack
+
+Dynamic programming is a method for solving complex problems by breaking them down into smaller subproblems. It is applicable to problems that exhibit the properties of overlapping subproblems and optimal substructure. When a problem can be divided into smaller subproblems, and the solution to the original problem can be obtained by combining the solutions to the subproblems, dynamic programming can be used to find the optimal solution.
+
+One example of a problem that can be solved using dynamic programming is the knapsack problem. The knapsack problem is a combinatorial optimization problem where the goal is to maximize the value of items that can be placed into a knapsack of limited capacity. The problem can be solved using dynamic programming by breaking it down into smaller subproblems, where each subproblem represents the maximum value that can be obtained by filling the knapsack with a subset of the items up to a certain weight.
+
+Other examples of problems that can be solved using dynamic programming include the resource allocation problem, the traveling salesman problem, and the graph coloring problem. These problems can be broken down into smaller subproblems and solved using dynamic programming to find the optimal solution.
+
+In addition to dynamic programming, other techniques such as backtracking and branch and bound can be used to solve combinatorial optimization problems. Backtracking is a method for finding all possible solutions to a problem by incrementally building a solution and then backing up when a solution is not possible. Branch and bound is a method for finding the optimal solution to a problem by systematically exploring the solution space and eliminating suboptimal solutions.
+
+Overall, dynamic programming is a powerful technique for solving complex problems by breaking them down into smaller subproblems and finding the optimal solution. It is applicable to a wide range of problems and can be used in combination with other techniques to find the best solution.

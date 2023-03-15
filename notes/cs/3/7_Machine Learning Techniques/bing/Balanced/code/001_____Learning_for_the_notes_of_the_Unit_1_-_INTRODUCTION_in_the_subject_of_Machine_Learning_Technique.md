@@ -1,0 +1,14 @@
+# Learning for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+
+Machine learning is a branch of artificial intelligence that enables computers to learn from data and experience without being explicitly programmed. Machine learning techniques are used to automatically find the valuable underlying patterns within complex data that we would otherwise struggle to discover. The hidden patterns and knowledge about a problem can be used to predict future events and perform all kinds of complex decision making.
+
+Machine learning techniques can be broadly classified into four categories:
+
+- **Regression**: Regression techniques are used to model the relationship between a dependent variable (output) and one or more independent variables (inputs). Regression techniques can be used for tasks such as estimating the price of a house, predicting the sales of a product, or forecasting the weather.
+- **Classification**: Classification techniques are used to assign a label or category to an input based on some predefined criteria. Classification techniques can be used for tasks such as identifying the type of a flower, detecting spam emails, or diagnosing a disease.
+- **Clustering**: Clustering techniques are used to group similar inputs together based on some measure of similarity or distance. Clustering techniques can be used for tasks such as finding customer segments, discovering topics in a text, or detecting anomalies in a network.
+- **Recommendation**: Recommendation techniques are used to suggest items or actions to a user based on their preferences, behavior, or context. Recommendation techniques can be used for tasks such as recommending products, movies, or music to a user, or personalizing ads or news articles.
+
+Machine learning techniques can be implemented using various algorithms, such as linear models, neighbor methods, neural networks, trees, ensembles, kernel methods, etc. Each algorithm has its own advantages and disadvantages, and the choice of the best algorithm depends on the nature and complexity of the problem, the availability and quality of the data, and the computational resources and time constraints.
+
+Machine learning techniques require a systematic and iterative process of data collection, preprocessing, analysis, evaluation, and deployment. Machine learning techniques also involve various challenges and trade-offs, such as overfitting, underfitting, bias, variance, accuracy, precision, recall, etc. Machine learning techniques are constantly evolving and improving, and have a wide range of applications and impacts in various domains and industries.

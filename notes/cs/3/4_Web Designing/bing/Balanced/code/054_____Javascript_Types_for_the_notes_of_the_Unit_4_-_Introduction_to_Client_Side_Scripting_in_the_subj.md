@@ -1,0 +1,12 @@
+### Javascript Types
+
+- Javascript is a **dynamically typed** language, which means that the type of a variable is determined at runtime, not at compile time.
+- Javascript has **seven** basic types: **number**, **string**, **boolean**, **null**, **undefined**, **symbol**, and **object**.
+- The **number** type represents both integers and floating-point numbers. There is no separate type for integers. Javascript uses the IEEE 754 standard to store numbers in 64-bit binary format.
+- The **string** type represents a sequence of characters. Strings are enclosed in single quotes ('') or double quotes (""). Strings can be concatenated with the + operator, and can be accessed by index using bracket notation ([]).
+- The **boolean** type represents a logical value that can be either **true** or **false**. Booleans are often used in conditional statements and logical operators.
+- The **null** type represents a value that intentionally has no value. Null is not the same as undefined, which means a variable has not been assigned a value yet.
+- The **undefined** type represents a value that has not been assigned yet. Undefined is the default value of variables that are declared but not initialized, and of properties that do not exist in an object.
+- The **symbol** type represents a unique and immutable identifier that can be used as a property key in objects. Symbols are created with the Symbol() function, and can have an optional description string.
+- The **object** type represents a collection of properties, each of which has a name (a string or a symbol) and a value (any type). Objects are created with the object literal syntax ({}) or with the new operator and a constructor function. Objects can be accessed and modified by using dot notation (.) or bracket notation ([]).
+- Javascript also has some **special** types, such as **function**, **array**, **date**, **regexp**, and **error**, which are all objects with some additional features and methods. Functions are objects that can be executed as code, arrays are objects that can store multiple values in a sequential order, dates are objects that represent a point in time, regexps are objects that represent a pattern for matching strings, and errors are objects that represent an exception or a failure.

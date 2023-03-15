@@ -1,0 +1,13 @@
+# Greedy Methods with Examples
+
+Greedy methods are a class of algorithms that make local optimal choices at each step, hoping to find a global optimal solution. Greedy methods do not always guarantee the best solution, but they are often efficient and easy to implement. Greedy methods are suitable for problems where the optimal substructure and the greedy choice property hold.
+
+- Optimal substructure means that an optimal solution to the problem contains optimal solutions to its subproblems.
+- Greedy choice property means that a locally optimal choice is also part of an optimal solution.
+
+Some examples of greedy methods are:
+
+- **Fractional knapsack problem**: Given a set of items, each with a weight and a value, and a knapsack with a maximum capacity, find the maximum value of items that can be packed in the knapsack. The items can be split into fractions. A greedy method for this problem is to sort the items by their value per unit weight, and then pack the items in that order until the knapsack is full or no more items are left. This method gives an optimal solution.
+- **Minimum spanning tree problem**: Given a connected, undirected, weighted graph, find a subset of edges that connects all the vertices with the minimum total weight. A greedy method for this problem is to start with an empty set of edges, and then repeatedly add the edge with the minimum weight that does not create a cycle, until all the vertices are connected. This method gives an optimal solution. There are two well-known algorithms based on this method: Prim's algorithm and Kruskal's algorithm.
+- **Single source shortest path problem**: Given a weighted, directed graph and a source vertex, find the shortest path from the source to every other vertex. A greedy method for this problem is to maintain a set of vertices whose shortest distance from the source is known, and then repeatedly select the vertex with the minimum distance from the source that is not in the set, and update the distances of its adjacent vertices. This method gives an optimal solution. There are two well-known algorithms based on this method: Dijkstra's algorithm and Bellman-Ford algorithm.
+- **Activity selection problem**: Given a set of activities, each with a start and finish time, find the maximum number of activities that can be performed by a single person, assuming that the person can only do one activity at a time. A greedy method for this problem is to sort the activities by their finish time, and then select the first activity, and then repeatedly select the next activity that starts after the finish of the previous activity, until no more activities can be selected. This method gives an optimal solution.

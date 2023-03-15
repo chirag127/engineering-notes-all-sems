@@ -1,0 +1,24 @@
+### Grouping for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for Cascading Style Sheets. It is a language that defines how HTML elements are displayed on a web page.
+- CSS can be applied to HTML elements in three ways: inline, internal, and external.
+  - Inline CSS: The style attribute is used to apply CSS directly to an HTML element. For example, `<p style="color: red;">This is a paragraph.</p>`
+  - Internal CSS: The `<style>` tag is used to define CSS rules inside the `<head>` section of an HTML document. For example, `<style>p {color: red;}</style>`
+  - External CSS: The `<link>` tag is used to link an external CSS file to an HTML document. For example, `<link rel="stylesheet" href="style.css">`
+- CSS can be used to control the layout, appearance, and behavior of HTML elements. Some of the properties that can be manipulated with CSS are:
+  - Color: The color property sets the text color of an element. For example, `p {color: blue;}`
+  - Background: The background property sets the background color or image of an element. For example, `body {background: yellow;}`
+  - Font: The font property sets the font family, size, style, and weight of the text. For example, `h1 {font-family: Arial; font-size: 36px; font-style: italic; font-weight: bold;}`
+  - Border: The border property sets the width, style, and color of the border around an element. For example, `div {border: 2px solid black;}`
+  - Margin: The margin property sets the space outside the border of an element. For example, `p {margin: 10px;}`
+  - Padding: The padding property sets the space inside the border of an element. For example, `p {padding: 10px;}`
+  - Display: The display property sets how an element is displayed on the page. For example, `span {display: inline;}`
+  - Position: The position property sets how an element is positioned on the page. For example, `div {position: absolute; top: 50px; left: 100px;}`
+  - Transform: The transform property applies various transformations to an element, such as rotate, scale, skew, and translate. For example, `img {transform: rotate(45deg);}`
+  - Transition: The transition property specifies how an element changes from one state to another. For example, `div {transition: width 2s;}`
+  - Animation: The animation property specifies how an element moves or changes over time. For example, `div {animation: bounce 3s infinite;}`
+- CSS can be used to create responsive web design, which means that the web page adapts to different screen sizes and devices. Some of the techniques that can be used for responsive web design are:
+  - Media Queries: Media queries are used to apply different CSS rules based on the device characteristics, such as width, height, orientation, and resolution. For example, `@media (max-width: 600px) {p {font-size: 12px;}}`
+  - Flexbox: Flexbox is a layout mode that allows the elements to adjust their size and position based on the available space. For example, `div {display: flex; flex-direction: row; flex-wrap: wrap;}`
+  - Grid: Grid is a layout mode that allows the elements to be placed in a two-dimensional grid. For example, `div {display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 1fr);}`
+  - Bootstrap: Bootstrap is a framework that provides a set of predefined CSS classes and components that can be used to create responsive web design. For example, `<div class="container"><div class="row"><div class="col-md-4">Column 1</div><div class="col-md-4">Column 2</div><div class="col-md-4">Column 3</div></div></div>`

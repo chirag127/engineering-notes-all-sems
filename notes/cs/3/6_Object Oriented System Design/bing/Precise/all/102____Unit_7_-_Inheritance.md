@@ -1,0 +1,9 @@
+## Unit 7 - Inheritance
+
+Inheritance is a mechanism in object-oriented programming that allows a new class to be created based on an existing class. The new class, called the subclass, inherits the properties and methods of the existing class, called the superclass.
+
+1. Inheritance allows for code reuse, as common properties and methods can be defined in the superclass and inherited by the subclass.
+2. Inheritance also allows for the creation of more specific classes based on a general class. For example, a `Vehicle` class could be defined with properties such as `make`, `model`, and `year`, and methods such as `drive` and `stop`. A `Car` class could then be created as a subclass of `Vehicle`, inheriting all of its properties and methods, and adding additional properties and methods specific to cars, such as `number_of_doors` and `open_trunk`.
+3. Inheritance can also be used to create a hierarchy of classes, with more general classes at the top and more specific classes at the bottom. This allows for the creation of complex systems with multiple levels of abstraction.
+4. Inheritance is implemented differently in different programming languages. In some languages, such as Java and C++, a subclass can only inherit from a single superclass. In other languages, such as Python, a subclass can inherit from multiple superclasses, a feature known as multiple inheritance.
+5. Inheritance should be used judiciously, as it can create complex and tightly-coupled systems if not used carefully. It is important to carefully design the class hierarchy to ensure that inheritance is used in a way that promotes code reuse and maintainability.

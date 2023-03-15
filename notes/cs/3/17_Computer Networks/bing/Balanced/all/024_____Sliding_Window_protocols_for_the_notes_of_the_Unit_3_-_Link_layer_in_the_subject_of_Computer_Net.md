@@ -1,0 +1,13 @@
+# Sliding Window Protocols
+
+Sliding window protocols are data link layer protocols for reliable and sequential delivery of data frames. They are also used in the Transmission Control Protocol (TCP) for flow control and congestion control. The sliding window technique allows the sender to send multiple frames at a time before receiving any acknowledgment from the receiver. The receiver uses the sequence number of each frame to detect missing or duplicate frames and to send acknowledgments accordingly. The sender maintains a window of frames that it can send without waiting for an acknowledgment, and the receiver maintains a window of frames that it can receive and acknowledge. The size of the window determines the efficiency and reliability of the protocol.
+
+There are two types of sliding window protocols: stop-and-wait ARQ and go-back-N ARQ.
+
+## Stop-and-Wait ARQ
+
+Stop-and-wait ARQ is the simplest sliding window protocol, where the window size is one. The sender sends one frame at a time and waits for an acknowledgment from the receiver before sending the next frame. The receiver sends an acknowledgment for each frame it receives. If the sender does not receive an acknowledgment within a certain time, it assumes that the frame or the acknowledgment was lost and retransmits the frame. This protocol is simple but inefficient, as it wastes the bandwidth of the channel and introduces a large delay.
+
+## Go-Back-N ARQ
+
+Go-back-N ARQ is a sliding window protocol where the window size is greater than one. The sender can send up to N frames at a time without waiting for an acknowledgment, where N is the window size. The receiver sends an acknowledgment for the last frame it received in sequence. If the receiver receives a frame out of sequence, it discards it and sends an acknowledgment for the last frame it received in sequence. If the sender does not receive an acknowledgment for a frame within a certain time, it assumes that the frame or the acknowledgment was lost and retransmits all the frames from that frame onwards. This protocol is more efficient than stop-and-wait ARQ, as it utilizes the bandwidth of the channel better and reduces the delay. However, it also introduces more overhead and complexity, as it requires the sender and the receiver to maintain the window and the sequence numbers. It also wastes the bandwidth of the channel by retransmitting frames that may have been received correctly by the receiver.

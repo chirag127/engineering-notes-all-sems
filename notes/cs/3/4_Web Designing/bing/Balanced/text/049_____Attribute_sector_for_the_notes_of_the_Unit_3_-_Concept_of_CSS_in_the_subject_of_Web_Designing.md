@@ -1,0 +1,17 @@
+### Attribute selector for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- An attribute selector is a type of CSS selector that matches elements based on the presence or value of a given attribute.
+- An attribute is a property of an HTML element that gives further detail about the element, such as its class, id, href, src, etc.
+- An attribute selector has the following syntax: `[attribute]` or `[attribute=value]` or `[attribute~=value]` or `[attribute|=value]` or `[attribute^=value]` or `[attribute$=value]` or `[attribute*=value]`.
+- The different types of attribute selectors are:
+
+  - Presence selector: `[attribute]` matches any element that has the specified attribute, regardless of its value. For example, `[hidden]` matches any element that has the `hidden` attribute.
+  - Equality selector: `[attribute=value]` matches any element that has the specified attribute with the exact value. For example, `[type=text]` matches any element that has the `type` attribute with the value `text`.
+  - Whitespace selector: `[attribute~=value]` matches any element that has the specified attribute with a value that contains the specified value as a whole word, separated by whitespace. For example, `[class~=red]` matches any element that has the `class` attribute with a value that contains the word `red`, such as `class="red"` or `class="red green"`.
+  - Hyphen selector: `[attribute|=value]` matches any element that has the specified attribute with a value that is exactly the specified value or the specified value followed by a hyphen. For example, `[lang|=en]` matches any element that has the `lang` attribute with a value that is `en` or `en-` followed by anything, such as `lang="en"` or `lang="en-US"`.
+  - Prefix selector: `[attribute^=value]` matches any element that has the specified attribute with a value that begins with the specified value. For example, `[href^=https]` matches any element that has the `href` attribute with a value that starts with `https`, such as `href="https://example.com"`.
+  - Suffix selector: `[attribute$=value]` matches any element that has the specified attribute with a value that ends with the specified value. For example, `[src$=.jpg]` matches any element that has the `src` attribute with a value that ends with `.jpg`, such as `src="image.jpg"`.
+  - Substring selector: `[attribute*=value]` matches any element that has the specified attribute with a value that contains the specified value anywhere. For example, `[title*=flower]` matches any element that has the `title` attribute with a value that contains the word `flower`, such as `title="A beautiful flower"` or `title="flower power"`.
+
+- Attribute selectors can be combined with other selectors, such as type, class, or id selectors, to create more specific selectors. For example, `a[href^=https]` matches any anchor element that has the `href` attribute with a value that starts with `https`.
+- Attribute selectors can also be modified by adding a case-insensitive flag `i` or a case-sensitive flag `s` after the value, to indicate whether the value should be matched in a case-insensitive or case-sensitive manner. For example, `[type=text i]` matches any element that has the `type` attribute with the value `text`, `Text`, `TEXT`, etc.

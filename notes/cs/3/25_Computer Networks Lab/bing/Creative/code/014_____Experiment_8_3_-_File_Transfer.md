@@ -1,0 +1,23 @@
+### Experiment 8.3 - File Transfer
+
+- The objective of this experiment is to learn how to transfer files between different devices using various protocols and methods.
+- The prerequisites for this experiment are:
+  - Basic knowledge of networking concepts and terminology.
+  - Access to at least two devices that can communicate over a network, such as computers, smartphones, tablets, etc.
+  - Familiarity with the operating systems and applications of the devices.
+- The steps for this experiment are:
+  - Identify the source and destination devices and the files to be transferred.
+  - Choose a suitable protocol and method for the file transfer, such as FTP, HTTP, Bluetooth, email, cloud storage, etc.
+  - Configure the settings and permissions of the devices and the files as needed.
+  - Initiate the file transfer and monitor the progress and status.
+  - Verify the integrity and availability of the transferred files on the destination device.
+- The expected outcomes and observations of this experiment are:
+  - The files are successfully transferred from the source to the destination device without any errors or interruptions.
+  - The transferred files are identical to the original files in terms of size, format, content, etc.
+  - The transferred files can be accessed and used on the destination device as intended.
+  - The file transfer speed and efficiency depend on various factors, such as the protocol, method, network bandwidth, file size, etc.
+- The possible challenges and limitations of this experiment are:
+  - The file transfer may fail or be incomplete due to network issues, device compatibility, file corruption, security restrictions, etc.
+  - The file transfer may consume a lot of network resources, such as bandwidth, data, battery, etc.
+  - The file transfer may expose the files to unauthorized access, modification, or deletion by malicious actors or software.
+  - The file transfer may not preserve the metadata, attributes, or permissions of the files, such as creation date, owner, read-only, etc.

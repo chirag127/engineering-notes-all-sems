@@ -1,0 +1,25 @@
+### Data Preparation for the Notes of the Unit 2 - Data Analytics Lifecycle
+
+- Data preparation is the process of collecting, processing, and cleansing data for use in analytics and business intelligence.
+- Data preparation is one of the six phases of the data analytics lifecycle, which is a systematic method for managing data to achieve corporate objectives.
+- The data analytics lifecycle consists of the following steps:
+  - Understanding the business issue
+  - Understanding the data set
+  - Preparing the data
+  - Exploratory analysis
+  - Validation and deployment
+  - Presentation and visualization
+- The data preparation stage requires something known as an analytical sandbox, which is a scalable platform that data analysts and data scientists use to process data.
+- The analytical sandbox is filled with data that was executed, loaded and transformed into the sandbox.
+- The data preparation stage involves the following tasks:
+  - Accessing data from various sources, such as databases, files, web services, etc.
+  - Loading data into the analytical sandbox, using tools such as SAS Data Integration Studio, SAS Data Loader for Hadoop, etc.
+  - Structuring data into a suitable format for analysis, such as tables, matrices, arrays, etc.
+  - Purging data of errors, outliers, missing values, duplicates, etc., using techniques such as data quality assessment, data cleansing, data imputation, etc.
+  - Unifying data from different sources, using methods such as data integration, data blending, data fusion, etc.
+  - Adjusting data to meet the analytical requirements, such as data transformation, data aggregation, data normalization, etc.
+  - Enriching data with additional information, such as data augmentation, data annotation, data labeling, etc.
+  - Exploring data to understand its characteristics, such as data profiling, data visualization, data summarization, etc.
+- The data preparation stage is crucial for the success of the data analytics project, as it ensures that the data is accurate, consistent, relevant, and ready for analysis.
+- The data preparation stage can be challenging, as it requires a lot of time, effort, and skills to handle large and complex data sets.
+- The data preparation stage can be improved by using tools and techniques that automate and simplify the data preparation tasks, such as SAS Data Preparation, SAS Visual Analytics, SAS Visual Data Mining and Machine Learning, etc.

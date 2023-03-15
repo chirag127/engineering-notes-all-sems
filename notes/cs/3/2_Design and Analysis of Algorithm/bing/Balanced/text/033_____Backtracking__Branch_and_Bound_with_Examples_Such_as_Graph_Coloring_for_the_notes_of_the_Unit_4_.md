@@ -1,0 +1,32 @@
+### Backtracking, Branch and Bound with Examples Such as Graph Coloring
+
+- Backtracking is a technique to solve problems that involve searching for a feasible solution among a large number of possibilities.
+- Backtracking works by exploring the solution space incrementally, building a partial solution at each step, and then backtracking (undoing) the last step if it leads to a dead end (an infeasible or suboptimal solution).
+- Backtracking can be applied to problems that have the following characteristics:
+  - The problem can be decomposed into a sequence of decisions or choices.
+  - Each choice has a finite number of alternatives or candidates.
+  - The goal is to find a complete solution that satisfies some constraints or optimality criteria.
+- Backtracking can be implemented using recursion or iteration, with the help of a data structure (such as a stack) to store the partial solutions and the candidates for the next choice.
+- Backtracking can be classified into two types: chronological backtracking and intelligent backtracking.
+  - Chronological backtracking always undoes the most recent choice when a dead end is encountered, and tries the next alternative for that choice.
+  - Intelligent backtracking can undo more than one choice at a time, by using some information (such as a bound or a heuristic) to prune the search space and avoid exploring unpromising branches.
+- Branch and bound is a technique to solve optimization problems that involve finding the best (minimum or maximum) solution among a large number of possibilities.
+- Branch and bound works by dividing the solution space into smaller and smaller subspaces (branches), and then bounding (estimating) the quality of the best solution in each subspace.
+- Branch and bound can be applied to problems that have the following characteristics:
+  - The problem can be formulated as a mathematical optimization problem, such as a linear programming or an integer programming problem.
+  - The objective function and the constraints are linear or can be linearized.
+  - The solution space is discrete or can be discretized.
+- Branch and bound can be implemented using recursion or iteration, with the help of a data structure (such as a queue or a priority queue) to store the subspaces and their bounds.
+- Branch and bound can be classified into two types: best-first branch and bound and depth-first branch and bound.
+  - Best-first branch and bound always selects the subspace with the best (lowest or highest) bound for further exploration, and maintains a global upper or lower bound for the optimal solution.
+  - Depth-first branch and bound explores the subspaces in a depth-first order, and updates a local upper or lower bound for the optimal solution at each node.
+
+- Graph coloring is an example of a problem that can be solved by backtracking or branch and bound.
+- Graph coloring is the problem of assigning colors to the vertices of a graph, such that no two adjacent vertices have the same color, and the number of colors used is minimized.
+- Graph coloring can be modeled as a backtracking problem, by considering the following choices and candidates:
+  - The choices are the vertices of the graph, ordered by some criterion (such as the degree or the index).
+  - The candidates for each vertex are the colors that have not been used by its neighbors.
+  - The goal is to color all the vertices with the minimum number of colors.
+- Graph coloring can be modeled as a branch and bound problem, by considering the following formulation and bounds:
+  - The formulation is an integer programming problem, where the variables are binary indicators of whether a vertex is colored with a certain color, and the objective is to minimize the sum of the variables, subject to the constraints that each vertex is colored with exactly one color, and no two adjacent vertices are colored with the same color.
+  - The bounds can be computed by relaxing the integer constraints and solving the linear programming problem, or by using some heuristics (such as the greedy algorithm or the Welsh-Powell algorithm) to obtain an upper bound for the minimum number of colors, and a lower bound based on the chromatic number or the chromatic index of the graph.

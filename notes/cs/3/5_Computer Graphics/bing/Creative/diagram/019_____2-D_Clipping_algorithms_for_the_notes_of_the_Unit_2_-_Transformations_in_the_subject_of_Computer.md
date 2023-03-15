@@ -1,0 +1,18 @@
+### 2-D Clipping algorithms
+
+- Clipping is the process of removing or hiding the parts of a graphical object that lie outside a specified region of interest, such as the viewport or the window .
+- Clipping is useful for improving the efficiency and quality of rendering, as well as for implementing effects such as fog, shadows, or depth of field.
+- In 2D, the clipping process can be applied to a variety of graphics primitives such as points, lines, polygons and curves.
+- Clipping is performed with respect to a clipping boundary, which may be a convex or concave polygonal boundary.
+- There are different algorithms for clipping different types of primitives, such as:
+  - Point clipping: This is the simplest form of clipping, where a point is either inside or outside the clipping boundary based on its coordinates .
+  - Line clipping: This is the process of finding the intersection points of a line segment with the clipping boundary, and discarding the parts of the line that lie outside the boundary . Some of the common algorithms for line clipping are:
+    - Cohen-Sutherland algorithm: This algorithm divides a 2D space into 9 regions, of which only the middle part (viewport) is visible. It assigns a 4-bit code to each endpoint of the line, based on its position relative to the boundary. It then uses bitwise operations to determine if the line is trivially accepted, trivially rejected, or needs further clipping.
+    - Liang-Barsky algorithm: This algorithm uses parametric equations to represent the line segment, and then solves for the values of the parameter that correspond to the intersection points with the boundary. It then compares the values to determine the visible part of the line.
+    - Cyrus-Beck algorithm: This algorithm is a generalization of the Liang-Barsky algorithm, and can handle convex polygonal clipping boundaries. It uses the concept of normal vectors to find the intersection points and the parameter values.
+  - Polygon clipping: This is the process of finding the intersection points of a polygon with the clipping boundary, and creating a new polygon that represents the visible part of the original polygon. Some of the common algorithms for polygon clipping are:
+    - Sutherland-Hodgman algorithm: This algorithm clips a polygon against each edge of the clipping boundary in turn, and outputs a new polygon that is inside the edge. It uses the concept of entering and leaving vertices to determine the intersection points and the output vertices.
+    - Weiler-Atherton algorithm: This algorithm is a generalization of the Sutherland-Hodgman algorithm, and can handle concave polygonal clipping boundaries. It uses the concept of lists and labels to keep track of the intersection points and the output vertices.
+  - Curve clipping: This is the process of finding the intersection points of a curve with the clipping boundary, and discarding the parts of the curve that lie outside the boundary. Some of the common algorithms for curve clipping are:
+    - Cohen-Sutherland algorithm: This algorithm can be extended to clip curves by subdividing the curve into smaller line segments, and applying the line clipping algorithm to each segment.
+    - Midpoint subdivision algorithm: This algorithm recursively subdivides the curve into smaller segments, and tests each segment for trivial acceptance or rejection. If the segment is neither trivially accepted nor rejected, it is further subdivided until a desired accuracy is reached.

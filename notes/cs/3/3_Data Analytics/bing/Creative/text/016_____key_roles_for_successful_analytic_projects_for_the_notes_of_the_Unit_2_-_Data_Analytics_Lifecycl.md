@@ -1,0 +1,7 @@
+### Key roles for successful analytic projects
+
+- **Business analyst**: This role is responsible for understanding the business problem, defining the objectives and scope of the project, identifying the data sources and requirements, and communicating the results and recommendations to the stakeholders.
+- **Data engineer**: This role is responsible for collecting, cleaning, transforming, and storing the data from various sources, ensuring its quality, security, and availability, and creating pipelines and workflows for data processing and analysis.
+- **Data scientist**: This role is responsible for applying statistical and machine learning techniques to the data, exploring and visualizing the data, building and testing predictive or prescriptive models, and evaluating and interpreting the outcomes and insights.
+- **Data visualization expert**: This role is responsible for designing and creating effective and engaging data visualizations, dashboards, and reports, using appropriate tools and techniques, and following the best practices and principles of data visualization.
+- **Project manager**: This role is responsible for planning, organizing, coordinating, and leading the project team, managing the budget, timeline, and resources, monitoring and controlling the project progress and quality, and ensuring the project deliverables and expectations are met.

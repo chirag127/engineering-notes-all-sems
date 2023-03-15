@@ -1,0 +1,10 @@
+# Keys for the notes of the Unit 2 - Data Modeling using the Entity Relationship Model
+
+- Data modeling is a process of designing and representing the structure and relationships of data in a database.
+- Entity Relationship Model (ER Model) is a graphical and conceptual tool for data modeling using entities, attributes, and relationships.
+- Entities are the basic objects or concepts that are stored in a database, such as people, places, things, or events. Entities are represented by rectangles in an ER diagram.
+- Attributes are the properties or characteristics of entities, such as name, age, address, or phone number. Attributes are represented by ovals in an ER diagram.
+- Relationships are the associations or connections between entities, such as works for, owns, or studies. Relationships are represented by diamonds in an ER diagram.
+- Cardinality is the number of instances of one entity that can or must be associated with each instance of another entity. Cardinality can be one-to-one, one-to-many, many-to-one, or many-to-many. Cardinality is shown by placing numbers or symbols near the relationship diamond in an ER diagram.
+- Participation is the degree to which each entity is involved in a relationship. Participation can be total or partial. Total participation means that every instance of an entity must participate in the relationship, while partial participation means that some instances of an entity may not participate in the relationship. Participation is shown by placing a double line or a single line between the entity and the relationship in an ER diagram.
+- Keys are the attributes or combinations of attributes that uniquely identify each instance of an entity. Keys can be primary, candidate, or foreign. Primary keys are the chosen keys that are used to refer to the entity instances, while candidate keys are the alternative keys that could have been chosen as primary keys. Foreign keys are the attributes of one entity that refer to the primary keys of another entity. Keys are shown by underlining the attribute names in an ER diagram.

@@ -1,0 +1,13 @@
+### Single Layer Artificial Neural Network
+
+- A single layer artificial neural network is a type of neural network that has just one layer between the input and output layers. This type of neural network is also known as a perceptron .
+- A perceptron can be used to perform binary classification tasks, such as predicting whether an email is spam or not, or whether a tumor is benign or malignant .
+- A perceptron consists of a set of input nodes, each with a corresponding weight, a bias term, an activation function, and an output node  .
+- The input nodes receive the features of the data, such as the words in an email or the size of a tumor, and multiply them by the weights. The weighted inputs are then summed up and added to the bias term, which is a constant that shifts the decision boundary  .
+- The activation function is a nonlinear function that maps the sum of the weighted inputs and the bias to the output node. The output node produces a binary value, either 0 or 1, depending on whether the activation function is greater than or less than a threshold  .
+- The activation function can be chosen from different types, such as the step function, the sigmoid function, the tanh function, or the ReLU function. The choice of the activation function affects the performance and the learning ability of the perceptron  .
+- The weights and the bias of the perceptron are the parameters that need to be learned from the training data. The learning process involves adjusting the weights and the bias to minimize the error between the predicted output and the actual output  .
+- The error can be measured by different loss functions, such as the mean squared error, the cross-entropy, or the hinge loss. The loss function quantifies how well the perceptron fits the data  .
+- The learning process can be done by different algorithms, such as the gradient descent, the stochastic gradient descent, or the perceptron learning rule. The algorithms update the weights and the bias by moving in the direction of the negative gradient of the loss function  .
+- A single layer artificial neural network can only learn linearly separable patterns, meaning that the data points can be separated by a straight line. If the data is nonlinearly separable, such as the XOR problem, a single layer artificial neural network cannot learn it  .
+- To overcome the limitation of a single layer artificial neural network, a multilayer artificial neural network can be used, which consists of one or more hidden layers between the input and output layers. A hidden layer is a layer of artificial neurons that transforms the input into a higher-level representation that can capture nonlinear patterns.

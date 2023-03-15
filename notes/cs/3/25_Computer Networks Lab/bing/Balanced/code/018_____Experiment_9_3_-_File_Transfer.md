@@ -1,0 +1,26 @@
+### Experiment 9.3 - File Transfer
+
+- The objective of this experiment is to learn how to transfer files between different devices using various protocols and tools.
+- The prerequisites for this experiment are:
+  - Basic knowledge of networking concepts and protocols such as TCP/IP, FTP, HTTP, etc.
+  - Access to at least two devices that can communicate over a network, such as computers, smartphones, tablets, etc.
+  - Access to a file server that supports FTP or HTTP, such as Apache, IIS, etc.
+  - Access to a file transfer client that supports FTP or HTTP, such as FileZilla, WinSCP, etc.
+- The steps for this experiment are:
+  - Connect the devices to the same network, either wired or wireless, and ensure that they can ping each other.
+  - On the file server, create a folder and copy some files of different types and sizes into it, such as text, image, audio, video, etc.
+  - On the file server, configure the FTP or HTTP service to allow access to the folder and its contents, and note down the server address, port number, username, and password if required.
+  - On the file transfer client, enter the server address, port number, username, and password, and connect to the file server.
+  - On the file transfer client, browse the folder and select some files to download or upload, and observe the transfer speed, progress, and status.
+  - On the file transfer client, disconnect from the file server and close the application.
+  - On the file server, verify that the files have been transferred correctly and delete them if necessary.
+  - Repeat the steps with different combinations of devices, protocols, and files, and compare the results.
+- The expected outcomes of this experiment are:
+  - The file transfer client can connect to the file server and access the folder and its contents.
+  - The file transfer client can download or upload files from or to the file server, and the transfer is completed successfully and accurately.
+  - The file transfer speed, progress, and status depend on various factors, such as the network bandwidth, the file size, the file type, the protocol, the device, etc.
+  - The file transfer client can disconnect from the file server and close the application without any errors or issues.
+- The questions for this experiment are:
+  - What are the advantages and disadvantages of using FTP or HTTP for file transfer?
+  - How can you secure the file transfer using encryption, authentication, or authorization?
+  - How can you optimize the file transfer using compression, chunking, or caching?

@@ -1,0 +1,11 @@
+### Javascript Types
+
+- Javascript is a **dynamically typed** language, which means that the type of a variable is determined at runtime, not at compile time.
+- Javascript has **seven** basic types: **number**, **string**, **boolean**, **null**, **undefined**, **symbol**, and **object**.
+- The **number** type represents both integers and floating-point numbers. There is no distinction between integer and decimal numbers in Javascript. For example, `var x = 42;` and `var y = 3.14;` are both valid number declarations.
+- The **string** type represents a sequence of characters enclosed by single or double quotes. For example, `var name = "Sydney";` and `var greeting = 'Hello';` are both valid string declarations.
+- The **boolean** type represents a logical value that can be either **true** or **false**. For example, `var isAI = true;` and `var isHuman = false;` are both valid boolean declarations.
+- The **null** type represents a value that intentionally has no value. It is different from **undefined**, which represents a value that has not been assigned yet. For example, `var nothing = null;` and `var something;` are both valid declarations, but `nothing` has a null value, while `something` has an undefined value.
+- The **symbol** type represents a unique and immutable identifier that can be used as a property key of an object. Symbols are created by calling the **Symbol()** function. For example, `var sym = Symbol("name");` creates a symbol with the description "name".
+- The **object** type represents a collection of properties, each of which has a name and a value. Objects are created by using curly braces `{}` or by using the **new** keyword with a constructor function. For example, `var person = {name: "Sydney", age: 3};` and `var date = new Date();` are both valid object declarations.
+- Javascript also has some **special** types, such as **function**, **array**, and **date**, which are actually objects with some additional features and methods. For example, `var add = function(a, b) {return a + b;};` is a function declaration, `var numbers = [1, 2, 3, 4, 5];` is an array declaration, and `var today = new Date();` is a date declaration.

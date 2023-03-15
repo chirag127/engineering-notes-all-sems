@@ -1,0 +1,24 @@
+## Unit 3 - Relational Database Concepts
+
+- A relational database is a collection of data organized into tables, where each table consists of rows (records) and columns (attributes).
+- A primary key is a column or a combination of columns that uniquely identifies each row in a table.
+- A foreign key is a column or a combination of columns that references a primary key in another table, to establish a relationship between the tables.
+- A relationship is a logical association between two or more tables, based on a common attribute or a foreign key.
+- There are three types of relationships: one-to-one, one-to-many, and many-to-many.
+- A one-to-one relationship occurs when each row in one table is related to exactly one row in another table.
+- A one-to-many relationship occurs when each row in one table is related to zero or more rows in another table.
+- A many-to-many relationship occurs when each row in one table is related to zero or more rows in another table, and vice versa.
+- A many-to-many relationship cannot be directly represented in a relational database, and requires an intermediate table (also called a junction table or a linking table) to store the associations between the tables.
+- A relational schema is a graphical representation of the tables, attributes, keys, and relationships in a relational database.
+- A relational model is a set of rules and constraints that define how data is stored and manipulated in a relational database.
+- Some of the rules and constraints are: entity integrity, referential integrity, domain integrity, and normalization.
+- Entity integrity is the rule that states that no primary key value can be null or duplicated in a table.
+- Referential integrity is the rule that states that if a foreign key value exists in a table, it must match a primary key value in the referenced table, or be null.
+- Domain integrity is the rule that states that each attribute value must be valid and conform to the data type and range of the attribute domain.
+- Normalization is the process of organizing the data in a relational database to reduce redundancy and improve data integrity.
+- Normalization involves applying a series of normal forms, which are rules or criteria for designing a relational schema.
+- The most common normal forms are: first normal form (1NF), second normal form (2NF), third normal form (3NF), and Boyce-Codd normal form (BCNF).
+- First normal form (1NF) requires that each attribute value in a table is atomic, meaning it cannot be further divided into smaller parts, and that each row in a table is unique.
+- Second normal form (2NF) requires that a table is in 1NF, and that each non-key attribute in a table is fully functionally dependent on the primary key, meaning it cannot be determined by a subset of the primary key.
+- Third normal form (3NF) requires that a table is in 2NF, and that each non-key attribute in a table is non-transitively dependent on the primary key, meaning it cannot be determined by another non-key attribute in the table.
+- Boyce-Codd normal form (BCNF) requires that a table is in 3NF, and that every determinant in a table is a candidate key, meaning it can uniquely identify each row in the table.

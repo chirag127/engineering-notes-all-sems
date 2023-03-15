@@ -1,0 +1,10 @@
+# UDP and TCP
+
+UDP and TCP are two protocols that are used for sending data over the Internet. They are both built on top of the IP protocol, which is responsible for routing packets to their destination. However, they have different characteristics and features that make them suitable for different types of applications. Here are some of the main differences between UDP and TCP:
+
+- UDP stands for User Datagram Protocol, while TCP stands for Transmission Control Protocol.
+- UDP is a connectionless protocol, which means that it does not establish a connection between the sender and the receiver before sending data. TCP is a connection-oriented protocol, which means that it establishes a connection between the sender and the receiver before sending data, and maintains it until the data transfer is complete.
+- UDP is faster and more efficient than TCP, as it does not have to deal with error-checking, retransmission, congestion control, or flow control. TCP is slower and more complex than UDP, as it has to ensure that the data is delivered reliably, in order, and without errors or losses. TCP also has mechanisms to avoid network congestion and regulate the speed of data transmission.
+- UDP is suitable for applications that require real-time, low-latency, or high-throughput data transfer, such as streaming media, online gaming, voice over IP, or video conferencing. TCP is suitable for applications that require reliable, ordered, and error-free data transfer, such as web browsing, email, file transfer, or remote access.
+- UDP does not guarantee the delivery of data to the destination, as it does not have any acknowledgment or feedback mechanism. TCP guarantees the delivery of data to the destination, as it uses acknowledgments, sequence numbers, and timers to detect and recover from lost or corrupted packets.
+- UDP does not have any concept of a session or a state, as it does not keep track of the status of the connection or the data transfer. TCP has a concept of a session and a state, as it uses a three-way handshake to establish and terminate a connection, and uses flags and window sizes to manage the data transfer.

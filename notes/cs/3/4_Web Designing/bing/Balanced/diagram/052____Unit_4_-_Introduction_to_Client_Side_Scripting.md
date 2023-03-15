@@ -1,0 +1,11 @@
+## Unit 4 - Introduction to Client Side Scripting
+
+- Client side scripting is a technique of writing code that runs on the user's web browser, rather than on the web server.
+- Client side scripting can enhance the interactivity, functionality, and usability of web pages by allowing the code to respond to user events, such as clicks, mouse movements, form inputs, etc.
+- Client side scripting can also reduce the load on the web server by performing some tasks locally on the user's device, such as data validation, calculations, animations, etc.
+- Client side scripting languages are interpreted, not compiled, meaning that the code is executed by the browser as it is read, without requiring a separate compilation step.
+- Client side scripting languages are usually embedded in HTML documents, either in the `<head>` or `<body>` sections, or in external files that are linked to the HTML document using the `<script>` tag.
+- Some of the most popular client side scripting languages are JavaScript, VBScript, JScript, and TypeScript. JavaScript is the most widely supported and used language, and is compatible with all major browsers.
+- Client side scripting languages can interact with the HTML document using the Document Object Model (DOM), which is a tree-like representation of the elements and attributes of the web page. The DOM provides methods and properties to access and manipulate the document dynamically.
+- Client side scripting languages can also use various APIs (Application Programming Interfaces) to access and use the features and functionalities of the web browser and the user's device, such as geolocation, local storage, web sockets, web workers, etc.
+- Client side scripting languages can also communicate with the web server using various techniques, such as AJAX (Asynchronous JavaScript and XML), JSON (JavaScript Object Notation), REST (Representational State Transfer), etc. These techniques allow the code to send and receive data from the server without reloading the web page, creating a more seamless and responsive user experience.

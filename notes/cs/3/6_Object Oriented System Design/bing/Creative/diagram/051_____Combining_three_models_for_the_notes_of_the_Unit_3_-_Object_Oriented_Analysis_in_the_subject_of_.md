@@ -1,0 +1,23 @@
+### Combining three models for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object-oriented software engineering .
+- OOA introduces new concepts to investigate a problem, such as objects, classes, inheritance, polymorphism, and encapsulation.
+- OOA is based on a set of basic principles, which are as follows:
+  - The information domain is modeled.
+  - Behavior is represented.
+  - The function is described.
+- The three analysis techniques that are used in conjunction with each other for object-oriented analysis are:
+  - Object Modeling: It develops the static structure of the software system in terms of objects, classes, attributes, associations, and generalizations.
+  - Dynamic Modeling: It describes the interactions and collaborations among objects and classes, using scenarios, state diagrams, and activity diagrams.
+  - Functional Modeling: It captures the functional requirements of the system, using data flow diagrams or use case diagrams.
+- The main benefits of OOA are :
+  - It helps to identify the essential concepts and entities of the problem domain, and their relationships.
+  - It provides a clear and consistent view of the system from different perspectives.
+  - It facilitates communication and collaboration among stakeholders, developers, and users.
+  - It reduces complexity and ambiguity, and increases reusability and maintainability.
+  - It supports incremental and iterative development, and allows for changes and refinements.
+- The main challenges of OOA are :
+  - It requires a paradigm shift from traditional structured analysis and design methods, which may be difficult for some developers and users.
+  - It involves a high degree of abstraction and creativity, which may be hard to master and apply.
+  - It may not be suitable for some types of systems or problems, such as real-time, embedded, or concurrent systems.
+  - It may not be compatible with some existing tools, standards, or platforms, which may limit its applicability and integration.

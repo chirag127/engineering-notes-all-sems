@@ -1,0 +1,11 @@
+### Phong model
+
+The Phong model is an empirical model of the local illumination of points on a surface designed by the computer graphics researcher Bui Tuong Phong . It is widely used in computer graphics to simulate the appearance of shiny surfaces, such as metal, plastic, or glass. The Phong model consists of three components: ambient, diffuse, and specular reflection .
+
+- Ambient reflection: This component accounts for the constant background light that is present in the environment. It is independent of the surface orientation and the light direction. It is usually modeled as a constant color multiplied by a material coefficient .
+- Diffuse reflection: This component accounts for the light that is scattered uniformly in all directions by the surface. It depends on the surface orientation and the light direction, but not on the viewer position. It is usually modeled as the dot product of the surface normal and the light direction, multiplied by a material coefficient and a light color .
+- Specular reflection: This component accounts for the light that is reflected in a mirror-like manner by the surface. It depends on the surface orientation, the light direction, and the viewer position. It is usually modeled as the dot product of the reflection vector and the view vector, raised to a power that controls the shininess of the surface, multiplied by a material coefficient and a light color .
+
+The Phong model can be expressed as a formula:
+
+![Phong model formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/1f0b7f0b0f1f7a3f3f0c0a0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c

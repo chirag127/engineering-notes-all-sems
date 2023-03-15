@@ -1,0 +1,22 @@
+# Unit 4 - Data Base Design & Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database management system (DBMS) .
+- Normalization is a database design technique that reduces data redundancy and eliminates undesirable characteristics like insertion, update and deletion anomalies .
+- Normalization rules divide larger tables into smaller tables and link them using relationships .
+- Normalization is based on the concept of normal forms, which are sets of conditions that a table must satisfy to be considered well-structured .
+- The most common normal forms are:
+  - First normal form (1NF): A table is in 1NF if every attribute is atomic, meaning it cannot be further subdivided, and every row has a unique identifier .
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key, meaning it cannot be determined by a subset of the key .
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key, meaning it cannot be determined by another non-key attribute .
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key, meaning there are no partial or transitive dependencies .
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and there are no multi-valued dependencies, meaning there are no attributes that depend on a set of values rather than a single value .
+- To perform the normalization process, you start with a rough idea of the data you want to store, and apply certain rules to it in order to get it to a more efficient form .
+- The benefits of normalization are:
+  - It reduces data duplication and storage space .
+  - It improves data integrity and consistency .
+  - It simplifies data manipulation and querying .
+  - It facilitates data security and access control .
+- The drawbacks of normalization are:
+  - It may increase the number of tables and joins, which can affect performance .
+  - It may require denormalization to optimize some queries or operations .
+  - It may not capture all the semantics and constraints of the real-world data .

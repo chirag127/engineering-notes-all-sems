@@ -1,0 +1,18 @@
+## Unit 2 - Transformations
+
+A transformation is a change in the position, size, or shape of a figure. There are four basic types of transformations: translations, rotations, reflections, and dilations.
+
+- A translation is a transformation that moves every point of a figure the same distance and in the same direction. The figure does not change its size or orientation. A translation can be described by a vector, which has a magnitude (length) and a direction. A vector can be represented by an arrow or by a pair of numbers (x, y) that indicate how much the figure moves horizontally and vertically.
+
+- A rotation is a transformation that turns a figure around a fixed point called the center of rotation. The figure does not change its size or shape, but it may change its orientation. A rotation can be described by an angle of rotation, which measures how much the figure rotates clockwise or counterclockwise, and a direction of rotation, which indicates which way the figure turns. A positive angle of rotation means the figure turns counterclockwise, and a negative angle of rotation means the figure turns clockwise.
+
+- A reflection is a transformation that flips a figure over a line called the line of reflection. The figure does not change its size or shape, but it may change its orientation. A reflection can be described by the equation of the line of reflection, which is usually given in slope-intercept form (y = mx + b) or standard form (Ax + By = C). The line of reflection is the perpendicular bisector of the segment that joins each point of the figure and its image.
+
+- A dilation is a transformation that changes the size of a figure, but not its shape. The figure may change its orientation depending on the center of dilation. A dilation can be described by a scale factor, which is a ratio that compares the lengths of the corresponding sides of the figure and its image. A scale factor greater than 1 means the figure enlarges, and a scale factor less than 1 means the figure shrinks. A scale factor of 1 means the figure does not change its size. The center of dilation is a fixed point that the figure expands or contracts from. If the center of dilation is the origin (0, 0), then the figure does not change its orientation. If the center of dilation is not the origin, then the figure may change its orientation.
+
+Some properties of transformations are:
+
+- A transformation maps a figure onto its image. The notation for this is f(x) -> f'(x), where f(x) is the original figure and f'(x) is the image.
+- A transformation preserves the distance between any two points of a figure and its image. This means that the length of any segment in the figure is equal to the length of its corresponding segment in the image. This property is called the distance-preserving property or the rigid motion property.
+- A transformation preserves the measure of any angle of a figure and its image. This means that the measure of any angle in the figure is equal to the measure of its corresponding angle in the image. This property is called the angle-preserving property or the congruence property.
+- A transformation preserves the orientation of a figure and its image if the figure and its image have the same clockwise or counterclockwise order of vertices. This means that the figure and its image are facing the same way. This property is called the orientation-preserving property. A translation, a rotation, and a dilation with the origin as the center of dilation are orientation-preserving transformations. A reflection and a dilation with a center of dilation other than the origin are not orientation-preserving transformations.

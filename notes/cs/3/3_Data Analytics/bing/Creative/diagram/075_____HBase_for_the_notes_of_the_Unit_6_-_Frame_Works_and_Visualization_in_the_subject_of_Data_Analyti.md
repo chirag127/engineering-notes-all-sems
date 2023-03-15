@@ -1,0 +1,28 @@
+### HBase
+
+- HBase is a **column-oriented non-relational database management system** that runs on top of **Hadoop Distributed File System (HDFS)**  .
+- HBase provides a **fault-tolerant** way of storing **sparse data sets**, which are common in many big data use cases .
+- HBase is well suited for **real-time data processing** or **random read/write access** to large volumes of data  .
+- HBase is modeled after **Google's Bigtable**, a distributed storage system for structured data.
+- HBase does not have a **fixed database schema** in a non-relational database, which means developers can add new data without conforming to a schema model.
+- HBase uses the following components and concepts:
+  - **HMaster**: The master server that manages the cluster and assigns regions to region servers.
+  - **HRegionServer**: The slave server that hosts and serves regions of tables.
+  - **HRegion**: A contiguous range of rows in a table, stored together on a region server.
+  - **HColumnFamily**: A logical grouping of columns in a table, which share the same attributes and compression settings.
+  - **HColumn**: A named attribute of a row, which has a value and a timestamp.
+  - **HCell**: A single unit of data in a table, identified by row, column, and timestamp.
+  - **HFile**: A file format that stores sorted key-value pairs in HDFS.
+  - **WAL**: A write-ahead log that records all changes to data in HBase, for durability and recovery purposes.
+- HBase supports the following features :
+  - **Linear and modular scalability**: HBase can scale horizontally by adding more nodes to the cluster, without compromising performance or availability.
+  - **Strictly consistent reads and writes**: HBase guarantees that all read and write operations are atomic and isolated, and that the latest version of data is always visible to clients.
+  - **Automatic and configurable sharding of tables**: HBase automatically splits and distributes regions of tables across the cluster, based on the load and size of the data. Users can also configure the split policies and region boundaries manually.
+  - **Automatic failover support between RegionServers**: HBase can detect and handle region server failures, by reassigning the regions to other available servers, without data loss or downtime.
+  - **Convenient base classes for backing Hadoop MapReduce jobs with HBase tables**: HBase provides input and output formats for integrating with Hadoop MapReduce, which allows users to perform batch processing on HBase data.
+  - **Easy to use Java API for client access**: HBase provides a simple and intuitive Java API for performing CRUD (create, read, update, delete) operations on HBase tables, as well as scan and filter data.
+  - **Block cache and Bloom filters for real-time queries**: HBase uses a block cache to store frequently accessed data in memory, and Bloom filters to reduce disk lookups for non-existent rows or columns, which improves the query performance.
+  - **Query predicate push down via server-side Filters**: HBase supports server-side filters, which allow users to specify conditions for selecting rows or columns, and push down the filtering logic to the region servers, which reduces the network bandwidth and latency.
+  - **Thrift gateway and a REST-ful Web service that supports XML, Protobuf, and binary data encoding options**: HBase provides alternative interfaces for accessing HBase data, such as Thrift and REST, which support different data formats and languages.
+  - **Extensible jruby-based (JIRB) shell**: HBase provides a command-line shell, based on jruby, which allows users to interact with HBase using scripts or commands.
+  - **Support for exporting metrics via the Hadoop metrics subsystem to files or Ganglia; or via JMX**: HBase supports various metrics systems, such as Hadoop, Ganglia, or JMX, which allow users to monitor and analyze the performance and health of HBase cluster.

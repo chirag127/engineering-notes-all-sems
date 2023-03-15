@@ -1,0 +1,21 @@
+### Mutation
+
+- Mutation is a process of introducing random changes in the parameters or structure of a learning agent, such as a neural network, to improve its performance or explore new possibilities .
+- Mutation is often inspired by natural evolution, where genetic variations occur due to errors in DNA replication or environmental factors .
+- Mutation can be used in reinforcement learning (RL) to enhance the exploration and exploitation trade-off, which is the balance between trying new actions and exploiting the best known ones .
+- Mutation can also be used in RL to generate adversarial examples, which are inputs that can fool or evade a trained classifier, such as a malware detector.
+- Mutation can be applied in different ways, such as:
+  - Changing the values of the weights or biases of a neural network by adding a small random noise .
+  - Replacing a subset of the weights or biases of a neural network with random values .
+  - Adding or removing layers or nodes in a neural network .
+  - Altering the reward function or the policy of an RL agent.
+  - Modifying the exploration rate or the experience replay buffer of an RL agent.
+- Mutation can have different effects, such as:
+  - Improving the convergence speed or the generalization ability of a learning agent .
+  - Increasing the diversity or the robustness of a learning agent .
+  - Creating new behaviors or strategies for a learning agent .
+  - Evading or deceiving a classifier or a defender.
+  - Introducing errors or vulnerabilities in a learning agent.
+- Mutation can be adaptive or fixed, meaning that the mutation rate or the mutation operator can change over time or remain constant .
+- Mutation can be combined with other evolutionary operators, such as crossover or selection, to form a complete evolutionary algorithm .
+- Mutation can be guided by reinforcement signals, such as rewards or losses, to achieve a desired goal or objective  .

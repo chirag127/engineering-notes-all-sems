@@ -1,0 +1,18 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Object Oriented System Design. Here are some notes on the topic of variables for the Unit 4 - C++ Basics.
+
+### Variables
+- A variable is a named memory location that can store a value of a specific data type.
+- A variable has three attributes: name, type, and value.
+- The name of a variable is an identifier that follows the rules of C++ syntax. It must start with a letter or an underscore, and can contain letters, digits, and underscores. It cannot be a reserved keyword, such as int, void, or class.
+- The type of a variable determines the range of values that it can store, and the operations that can be performed on it. C++ has several built-in data types, such as int, char, double, bool, etc. It also allows the user to define custom data types using classes, structs, enums, etc.
+- The value of a variable is the data that is stored in the memory location associated with the variable name. The value can be assigned to a variable using the assignment operator (=), or can be read from the variable using its name.
+- A variable must be declared before it can be used in a program. A variable declaration specifies the name and the type of the variable, and optionally an initial value. For example, `int x = 10;` declares a variable named x of type int and assigns it the value 10.
+- A variable can be declared in different scopes, which determine the visibility and lifetime of the variable. A scope is a region of code where a variable can be accessed. There are three types of scopes in C++: global, local, and class.
+  - A global variable is declared outside any function or class, and can be accessed by any part of the program. A global variable has a static lifetime, which means it exists throughout the execution of the program.
+  - A local variable is declared inside a function or a block of code, and can be accessed only within that function or block. A local variable has an automatic lifetime, which means it is created when the function or block is entered, and destroyed when the function or block is exited.
+  - A class variable is declared inside a class definition, and can be accessed by the members of that class, or by other classes or functions that have access to that class. A class variable has a dynamic lifetime, which means it is created when an object of that class is instantiated, and destroyed when the object is deleted.
+- A variable can also have different storage classes, which determine how the variable is stored in memory, and how it is initialized and accessed. There are four storage classes in C++: auto, static, extern, and register.
+  - An auto variable is the default storage class for local variables. It is stored in the stack memory, and is initialized to a garbage value unless explicitly assigned.
+  - A static variable is a variable that retains its value between function calls or object instantiations. It can be declared as a global variable, a local variable, or a class variable. It is stored in the static memory, and is initialized to zero unless explicitly assigned.
+  - An extern variable is a variable that is declared in one file, but defined in another file. It is used to share global variables between different files. It is stored in the static memory, and must be initialized in the file where it is defined.
+  - A register variable is a variable that is stored in a CPU register, instead of the main memory, for faster access. It can be declared as a local variable, or as a function parameter. It is initialized to a garbage value unless explicitly assigned. The compiler may ignore the register specifier if there are not enough registers available.

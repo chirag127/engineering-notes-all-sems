@@ -1,0 +1,7 @@
+## Unit 8 - Concurrency Control Techniques
+
+Concurrency control techniques are methods to ensure the correctness and consistency of data in a database system when multiple transactions are executed concurrently. Concurrency control techniques can be classified into two categories: pessimistic and optimistic.
+
+- Pessimistic concurrency control techniques assume that conflicts are likely to occur and prevent them by locking the data items that are accessed by the transactions. Locking can be done at different levels of granularity, such as records, pages, tables, or the entire database. Locking can also be done in different modes, such as shared, exclusive, or update. Locking protocols are rules that govern how transactions acquire and release locks on data items. Some examples of locking protocols are two-phase locking, timestamp ordering, and strict two-phase locking.
+
+- Optimistic concurrency control techniques assume that conflicts are rare and allow transactions to execute without locking. However, before committing, each transaction has to validate its read and write sets against the database state to ensure that no conflicts have occurred. If a conflict is detected, the transaction is aborted and restarted. Some examples of optimistic concurrency control techniques are validation-based, multiversion, and snapshot isolation.

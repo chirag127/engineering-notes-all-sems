@@ -1,0 +1,28 @@
+### Implementation of control for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object oriented software engineering.
+- OOA introduces new concepts to investigate a problem, such as objects, classes, attributes, operations, associations, aggregation, composition, inheritance, dependency, multiplicity, polymorphism, encapsulation, interface and package.
+- OOA is based on a set of basic principles, which are as follows:
+  - The information domain is modeled.
+  - Behavior is represented.
+  - The function is described.
+- OOA aims to identify the objects and their relationships in the problem domain, and to define the requirements and constraints for the system.
+- OOA consists of the following steps:
+  - Find and define the objects.
+  - Organize the objects.
+  - Describe how the objects interact with one another.
+  - Define the external behavior of the objects.
+  - Define the internal behavior of the objects.
+- OOA produces an object model for the system, which is a graphical representation of the objects and their relationships using Unified Modeling Language (UML) diagrams.
+- Object Oriented Design (OOD) is the next technical activity performed after OOA, which transforms the object model into a design model that can be implemented using a programming language.
+- OOD applies design principles and patterns to refine and optimize the object model, and to ensure the quality attributes of the system, such as reusability, modularity, extensibility, maintainability, testability, etc.
+- OOD consists of the following steps:
+  - Define the context and modes of use of the system.
+  - Design the system architecture and identify the subsystems and components.
+  - Specify the interfaces and collaborations among the subsystems and components.
+  - Design the classes and objects and their responsibilities and collaborations.
+  - Design the algorithms and data structures for the operations and attributes of the classes and objects.
+- OOD produces a design model for the system, which is also a graphical representation of the design elements and their relationships using UML diagrams.
+- OOD is followed by Object Oriented Programming (OOP), which implements the design model using a programming language, such as Java, C++, Python, etc.
+- OOP involves writing the source code, compiling, debugging, testing and deploying the system.
+- OOP uses the concepts of objects, classes, inheritance, polymorphism, encapsulation and abstraction to create modular and reusable software.

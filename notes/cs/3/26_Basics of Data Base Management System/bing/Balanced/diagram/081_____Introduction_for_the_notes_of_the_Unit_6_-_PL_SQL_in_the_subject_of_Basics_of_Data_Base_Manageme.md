@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with writing notes on various topics. Here is the content I have generated for the introduction of the unit 6 - PL/SQL in the subject of Basics of Data Base Management System.
+
+### Introduction
+
+- PL/SQL stands for Procedural Language/Structured Query Language. It is an extension of SQL that allows users to write procedural code in a database environment.
+- PL/SQL was developed by Oracle Corporation in the late 1980s as a part of the Oracle Database software. It is compatible with other SQL-based databases such as MySQL, PostgreSQL, and SQL Server.
+- PL/SQL combines the data manipulation power of SQL with the programming features of a procedural language such as variables, constants, data types, operators, expressions, control structures, loops, arrays, cursors, exceptions, subprograms, and packages.
+- PL/SQL enables users to create and execute stored procedures, functions, triggers, and packages in the database server. These are reusable and modular units of code that can perform complex tasks and improve the performance, security, and maintainability of the database applications.
+- PL/SQL also supports object-oriented programming features such as object types, methods, inheritance, polymorphism, and encapsulation. These features allow users to model and manipulate complex data structures and business logic in the database.
+- PL/SQL is a block-structured language, which means that the code is organized into logical units called blocks. A block consists of three sections: declaration, executable, and exception. The declaration section defines the variables, constants, cursors, and subprograms used in the block. The executable section contains the SQL and PL/SQL statements that perform the actions of the block. The exception section handles the errors and exceptions that may occur during the execution of the block.

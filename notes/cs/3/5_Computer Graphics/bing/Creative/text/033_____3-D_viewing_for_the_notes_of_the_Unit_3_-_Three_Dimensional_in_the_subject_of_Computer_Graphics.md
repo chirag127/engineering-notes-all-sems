@@ -1,0 +1,10 @@
+### 3-D viewing for the notes of the Unit 3 - Three Dimensional in the subject of Computer Graphics
+
+- 3-D viewing is the process of generating and displaying 3-D computer graphics on a 2-D or 3-D display device .
+- 3-D viewing involves two main steps: 3-D modeling and 3-D projection .
+- 3-D modeling is the creation of 3-D models using 3-D modeling software or modelers. 3-D models are composed of basic geometric primitives such as points, lines, triangles and other polygonal patches.
+- 3-D projection is the transformation of 3-D models into 2-D or 3-D images that can be displayed on a screen or a projection plane. 3-D projection involves two sub-steps: modeling transformation and viewing transformation.
+- Modeling transformation is the manipulation of 3-D models using 3-D transformations such as translation, rotation, scaling, shearing, reflection and projection. Modeling transformation changes the position, orientation, size and shape of 3-D models in the 3-D world coordinate system.
+- Viewing transformation is the specification of the observer viewing position and the position of the projection plane in the 3-D world coordinate system. Viewing transformation defines the viewing-coordinate system, which is used as a reference for projecting 3-D models onto the projection plane.
+- There are different types of 3-D projection methods, such as parallel projection and perspective projection. Parallel projection preserves the relative sizes and shapes of 3-D models, but does not create the illusion of depth. Perspective projection creates the illusion of depth by reducing the size of objects as they recede from the viewer, but distorts the shapes of objects.
+- 3-D viewing can be used for various applications, such as movies, video games, graphics and virtual reality  . 3-D viewing can create realistic, immersive and interactive 3-D scenes that can enhance the user experience and engagement.

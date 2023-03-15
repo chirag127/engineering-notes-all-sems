@@ -1,0 +1,25 @@
+### Identifiers
+
+- Identifiers are the unique names of variables, functions, classes, structures, unions, enumerations, labels, constants, and data types in C++  .
+- Identifiers are used to identify and refer to the entities in the program.
+- Identifiers must follow certain rules and conventions in C++.
+  - Identifiers can consist of letters, digits, and underscores (_), but they cannot start with a digit  .
+  - Identifiers are case-sensitive, meaning that `sum` and `Sum` are different identifiers .
+  - Identifiers cannot be reserved words or keywords in C++, such as `int`, `float`, `if`, `else`, etc  .
+  - Identifiers should be descriptive and meaningful, to make the code more readable and maintainable.
+  - Identifiers should follow a consistent naming style, such as camelCase, snake_case, or PascalCase, to avoid confusion and ambiguity.
+- Examples of valid identifiers in C++ are:
+  - `age` (a variable name)
+  - `sumOfSquares` (a function name)
+  - `Student` (a class name)
+  - `Point` (a structure name)
+  - `Color` (an enumeration name)
+  - `red` (an enumeration member name)
+  - `PI` (a constant name)
+  - `double` (a data type name)
+- Examples of invalid identifiers in C++ are:
+  - `3x` (starts with a digit)
+  - `if` (a reserved word)
+  - `sum-of-squares` (contains a hyphen)
+  - `Sum` (conflicts with `sum`)
+  - `student` (conflicts with `Student`)

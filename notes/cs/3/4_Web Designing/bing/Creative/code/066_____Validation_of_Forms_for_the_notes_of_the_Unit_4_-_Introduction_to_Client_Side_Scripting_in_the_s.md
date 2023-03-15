@@ -1,0 +1,23 @@
+### Validation of Forms
+
+- Form validation is the process of checking that the data entered by the user in a web form is correct, complete, and secure before it is sent to the server.
+- Form validation can be done on the client side (using JavaScript) or on the server side (using PHP, ASP, etc.).
+- Client side validation has the following advantages:
+  - It is faster and more responsive, as it does not require a round trip to the server.
+  - It can provide immediate feedback to the user, such as highlighting errors or showing hints.
+  - It can reduce the load on the server, as it can prevent invalid or incomplete data from being submitted.
+- Client side validation has the following disadvantages:
+  - It is not secure, as it can be bypassed or manipulated by the user or by malicious scripts.
+  - It is not reliable, as it depends on the browser and the JavaScript support of the user.
+  - It is not accessible, as it may not work for users with disabilities or with different devices or preferences.
+- Server side validation has the following advantages:
+  - It is secure, as it can verify the data against the server's rules and database.
+  - It is reliable, as it does not depend on the browser or the JavaScript support of the user.
+  - It is accessible, as it can provide alternative ways of displaying errors or feedback to the user.
+- Server side validation has the following disadvantages:
+  - It is slower and less responsive, as it requires a round trip to the server.
+  - It can cause frustration to the user, as it may require them to re-enter or correct the data after submitting the form.
+  - It can increase the load on the server, as it has to process every form submission.
+- To achieve the best user experience and security, it is recommended to use both client side and server side validation for web forms.
+- Client side validation can be done using HTML attributes, such as `required`, `pattern`, `min`, `max`, etc., or using JavaScript functions, such as `checkValidity()`, `setCustomValidity()`, `addEventListener()`, etc.
+- Server side validation can be done using server side scripting languages, such as PHP, ASP, etc., or using frameworks, such as Laravel, Django, etc.

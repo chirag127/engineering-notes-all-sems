@@ -1,0 +1,44 @@
+### JS Arrays
+
+- An array is a data structure that can store multiple values of the same or different types in a single variable.
+- An array is created by using square brackets `[]` and separating the values by commas `,`.
+- Example: `var fruits = ["apple", "banana", "orange"];`
+- An array can also be created by using the `new Array()` constructor, but this is not recommended as it can cause confusion and errors.
+- Example: `var fruits = new Array("apple", "banana", "orange");`
+- An array is an object, and it has properties and methods that can be used to manipulate the data.
+- The `length` property returns the number of elements in an array.
+- Example: `fruits.length; // returns 3`
+- The `push()` method adds a new element to the end of an array and returns the new length.
+- Example: `fruits.push("grape"); // returns 4`
+- The `pop()` method removes the last element from an array and returns it.
+- Example: `fruits.pop(); // returns "grape"`
+- The `unshift()` method adds a new element to the beginning of an array and returns the new length.
+- Example: `fruits.unshift("strawberry"); // returns 4`
+- The `shift()` method removes the first element from an array and returns it.
+- Example: `fruits.shift(); // returns "strawberry"`
+- The `indexOf()` method returns the first index of a given element in an array, or -1 if not found.
+- Example: `fruits.indexOf("banana"); // returns 1`
+- The `lastIndexOf()` method returns the last index of a given element in an array, or -1 if not found.
+- Example: `fruits.lastIndexOf("banana"); // returns 1`
+- The `slice()` method returns a new array that contains a copy of a portion of an array, without modifying the original array.
+- Example: `fruits.slice(1, 3); // returns ["banana", "orange"]`
+- The `splice()` method changes the contents of an array by removing or replacing existing elements and/or adding new elements, and returns an array of the deleted elements.
+- Example: `fruits.splice(1, 2, "kiwi", "mango"); // returns ["banana", "orange"]`
+- The `concat()` method returns a new array that is the result of joining two or more arrays or values, without modifying the original arrays.
+- Example: `fruits.concat(["cherry", "lemon"]); // returns ["apple", "kiwi", "mango", "cherry", "lemon"]`
+- The `join()` method returns a string that is the result of joining all the elements of an array, separated by a specified separator, or a comma by default.
+- Example: `fruits.join("-"); // returns "apple-kiwi-mango"`
+- The `reverse()` method reverses the order of the elements in an array and returns the same array.
+- Example: `fruits.reverse(); // returns ["mango", "kiwi", "apple"]`
+- The `sort()` method sorts the elements of an array in place and returns the same array. By default, it sorts the elements as strings in ascending order, but a custom compare function can be provided to sort by other criteria.
+- Example: `fruits.sort(); // returns ["apple", "kiwi", "mango"]`
+- The `forEach()` method executes a provided function for each element in an array, in order.
+- Example: `fruits.forEach(function(fruit) {console.log(fruit);}); // logs "apple", "kiwi", "mango"`
+- The `map()` method creates a new array with the results of calling a provided function on every element in an array.
+- Example: `var lengths = fruits.map(function(fruit) {return fruit.length;}); // returns [5, 4, 5]`
+- The `filter()` method creates a new array with all the elements that pass the test implemented by a provided function.
+- Example: `var shortFruits = fruits.filter(function(fruit) {return fruit.length < 5;}); // returns ["kiwi"]`
+- The `reduce()` method applies a function that reduces an array to a single value, from left to right.
+- Example: `var sum = [1, 2, 3, 4].reduce(function(accumulator, currentValue) {return accumulator + currentValue;}); // returns 10`
+- The `reduceRight()` method applies a function that reduces an array to a single value, from right to left.
+- Example

@@ -1,0 +1,28 @@
+### Variables
+
+- Variables are containers for storing data values in a program.
+- Variables have a name (identifier) and a type (data type) that determine the size and range of values that can be stored in them.
+- Variables can be declared using the syntax: `type name;` where `type` is one of the predefined or user-defined data types and `name` is a valid identifier.
+- Variables can be initialized (assigned an initial value) at the time of declaration or later in the program.
+- Variables can be modified (assigned a new value) during program execution.
+- Variables can be classified into different categories based on their scope (visibility), storage duration (lifetime), and linkage (accessibility) in a program.
+- Some of the common types of variables in C++ are:
+  - Local variables: declared and used within a function or a block; have automatic storage duration and no linkage.
+  - Global variables: declared outside any function or block; have static storage duration and external linkage.
+  - Static variables: declared with the `static` keyword; have static storage duration and either internal or no linkage depending on the scope.
+  - Register variables: declared with the `register` keyword; have automatic storage duration and no linkage; may be stored in a CPU register for faster access.
+  - Const variables: declared with the `const` keyword; have the same storage duration and linkage as the type they are declared with; cannot be modified after initialization.
+  - Volatile variables: declared with the `volatile` keyword; have the same storage duration and linkage as the type they are declared with; may be modified by external factors such as hardware or other threads.
+  - Mutable variables: declared with the `mutable` keyword; have the same storage duration and linkage as the type they are declared with; can be modified even if the object they belong to is const.
+- Some of the common data types for variables in C++ are:
+  - int: stores integers (whole numbers), without decimals, such as 123 or -123.
+  - double: stores floating point numbers, with decimals, such as 19.99 or -19.99.
+  - char: stores single characters, such as 'a' or 'B'.
+  - bool: stores boolean values, either true or false.
+  - string: stores sequences of characters, such as "Hello" or "World".
+  - array: stores a fixed number of elements of the same type, such as int[10] or char[5].
+  - pointer: stores the address of another variable or function, such as int* or void(*)(int).
+  - struct: stores a group of variables of different types, such as struct student {int id; string name; double gpa;}.
+  - class: stores a group of variables and functions of different types, such as class student {int id; string name; double gpa; void print();}.
+  - enum: stores a set of named constants of the same type, such as enum color {red, green, blue}.
+  - union: stores a single variable that can have different types, such as union data {int i; double d; char c;}.

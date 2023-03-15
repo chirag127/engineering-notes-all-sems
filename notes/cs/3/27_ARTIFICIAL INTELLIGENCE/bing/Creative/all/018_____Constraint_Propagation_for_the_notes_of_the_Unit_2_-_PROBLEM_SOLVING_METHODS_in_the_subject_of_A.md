@@ -1,0 +1,8 @@
+# Constraint Propagation
+
+- Constraint propagation is a technique for reducing the search space of a problem by applying constraints that eliminate inconsistent or impossible values from the domains of the variables.
+- A constraint is a restriction on the possible values of one or more variables. For example, in a map-coloring problem, a constraint could be that two adjacent regions cannot have the same color.
+- A domain is the set of possible values that a variable can take. For example, in a map-coloring problem, the domain of each region could be the set of colors {red, green, blue}.
+- Constraint propagation works by applying constraints repeatedly until no more values can be eliminated from the domains. This can lead to either a solution, a contradiction, or a partial assignment that cannot be further reduced.
+- There are different types of constraints, such as unary, binary, and n-ary constraints. Unary constraints involve only one variable, binary constraints involve two variables, and n-ary constraints involve more than two variables.
+- There are also different algorithms for constraint propagation, such as arc consistency, path consistency, and k-consistency. Arc consistency ensures that every value in the domain of a variable has a consistent value in the domain of another variable that is connected by a constraint. Path consistency ensures that every pair of values in the domains of two variables has a consistent value in the domain of a third variable that is connected by a constraint. K-consistency generalizes this idea to k variables.

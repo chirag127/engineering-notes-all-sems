@@ -1,0 +1,13 @@
+### Object representation for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object representation is a way of describing the real world entities and their relationships in an object-oriented system.
+- An object is a representation of a real world object with behaviors, characteristics, and states.
+- Object representation can be done using different techniques, such as diagrams, tables, or textual descriptions.
+- Some of the common object representation techniques are:
+
+  - Class diagrams: A class diagram shows the classes and objects in the system, and their attributes, operations, and associations. A class is a blueprint for creating objects of the same type. An attribute is a property or characteristic of an object. An operation is a function or method that an object can perform. An association is a relationship between two or more classes or objects.
+  - Object diagrams: An object diagram shows the instances of classes and objects in the system, and their values, links, and roles. A value is the data stored in an attribute. A link is a connection between two or more objects. A role is the function or purpose of an object in a specific context.
+  - State diagrams: A state diagram shows the states and transitions of an object or a class in the system, and the events and actions that cause them. A state is a condition or situation of an object or a class. A transition is a change from one state to another. An event is an occurrence or stimulus that triggers a transition. An action is an operation or activity that is performed as a result of a transition.
+  - Sequence diagrams: A sequence diagram shows the interactions and messages between objects or classes in the system, and the order and timing of them. An interaction is a communication or exchange of information between two or more objects or classes. A message is a signal or request that is sent or received by an object or a class. A message can be synchronous or asynchronous. A synchronous message is a message that requires a response before the sender can continue. An asynchronous message is a message that does not require a response and the sender can continue without waiting.
+
+- Object representation is an important part of object-oriented analysis (OOA), which is the first technical activity performed as part of object-oriented software engineering. OOA assesses the system requirements and identifies the classes and objects and their relationships. The main purpose of OOA is to model the application domain and gather the requirements of the system.

@@ -1,0 +1,12 @@
+## Unit 5 - Genetic Algorithm(GA)
+
+A genetic algorithm (GA) is a search heuristic that is inspired by the process of natural selection. It is used to find approximate solutions to optimization and search problems.
+
+1. **Working of GA**: GA operates on a population of potential solutions, applying the principle of survival of the fittest to produce better and better approximations to a solution. At each generation, a new set of approximations is created by the process of selecting individuals according to their level of fitness in the problem domain and breeding them together using operators borrowed from natural genetics.
+2. **Encoding**: The first step in implementing a GA is to encode the problem in a way that can be manipulated by the algorithm. The most common way to do this is to represent the solution as a string of bits, where each bit represents a particular feature of the solution.
+3. **Selection**: The selection operator is used to choose parents for reproduction. The most common selection method is fitness proportionate selection, where the probability of an individual being selected is proportional to its fitness.
+4. **Crossover**: Crossover is the process of combining the genetic information of two parents to create one or more offspring. The most common crossover operator is single-point crossover, where a random crossover point is chosen and the genetic information is exchanged between the parents to create two offspring.
+5. **Mutation**: Mutation is the process of randomly altering the genetic information of an individual. This is usually done by flipping one or more bits in the bit string representation of the solution.
+6. **Termination**: The GA is terminated when a satisfactory solution has been found or when a predetermined number of generations have been completed.
+
+Genetic algorithms have been successfully applied to a wide range of problems, including function optimization, machine learning, scheduling, and vehicle routing. They are particularly well-suited to problems where the search space is large, complex, and poorly understood. However, they are not guaranteed to find the global optimum solution and can sometimes get stuck in local optima. It is important to carefully choose the parameters of the GA, such as the population size, selection method, and mutation rate, to ensure good performance.

@@ -1,0 +1,13 @@
+# Terms for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notation.
+- The static structure of a system consists of the components that make up the system and their relationships, such as classes, objects, attributes, operations, associations, aggregations, compositions, generalizations, and dependencies.
+- A class is a blueprint or template that defines the common properties and behaviors of a set of similar objects. A class has a name, attributes, and operations.
+- An object is an instance or occurrence of a class that has a unique identity, state, and behavior. An object has a name, values for its attributes, and can perform its operations.
+- An attribute is a named property of a class or an object that describes some aspect of the class or object. An attribute has a name, a type, and optionally a default value and a visibility.
+- An operation is a named function or service that can be performed by a class or an object. An operation has a name, a list of parameters, a return type, and optionally a visibility and a body.
+- An association is a relationship between two or more classes or objects that indicates some meaningful connection or interaction between them. An association has a name, a direction, and optionally a multiplicity, a role, and a qualifier for each end.
+- An aggregation is a special kind of association that represents a whole-part or a-part-of relationship between two classes or objects. An aggregation has a hollow diamond symbol at the end of the association line that represents the whole.
+- A composition is a stronger form of aggregation that implies ownership and exclusive containment of the parts by the whole. A composition has a solid diamond symbol at the end of the association line that represents the whole.
+- A generalization is a relationship between two classes or objects that indicates that one class or object is a specialized or a-subtype-of another class or object. A generalization has a solid line with a hollow triangle symbol at the end of the line that points to the more general class or object.
+- A dependency is a relationship between two classes or objects that indicates that one class or object depends on another class or object for some reason. A dependency has a dashed line with an open arrow symbol at the end of the line that points to the class or object that is depended upon.

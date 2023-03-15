@@ -1,0 +1,8 @@
+### Introduction to HTML
+
+- HTML stands for HyperText Markup Language. It is the standard language for creating web pages and web applications.
+- HTML describes the structure and content of a web page using tags, attributes, and elements.
+- Tags are keywords enclosed in angle brackets (< and >) that define how the content should be displayed or processed by the browser. For example, `<p>` is a tag that indicates a paragraph of text.
+- Attributes are additional information that modify the behavior or appearance of a tag. They are written inside the tag, after the tag name, and consist of a name and a value separated by an equal sign. For example, `<p align="center">` is a tag with an attribute named align and a value of center.
+- Elements are the basic building blocks of HTML. They are composed of a start tag, an end tag, and the content between them. For example, `<p>This is a paragraph.</p>` is an element that contains a paragraph of text. Some elements do not have an end tag, such as `<img>` or `<br>`, and are called self-closing elements.
+- HTML documents have a basic structure that consists of a declaration, a head section, and a body section. The declaration (`<!DOCTYPE html>`) tells the browser what version of HTML is used. The head section (`<head>...</head>`) contains information about the document, such as the title, meta data, style sheets, and scripts. The body section (`<body>...</body>`) contains the actual content of the document, such as text, images, links, tables, and forms.

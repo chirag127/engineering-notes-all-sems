@@ -1,0 +1,10 @@
+### UDP and TCP
+
+UDP and TCP are two protocols used for sending data over the Internet. They are both built on top of the IP protocol, which means they use IP addresses to identify the source and destination of the data packets. However, they have different characteristics and features that make them suitable for different types of applications. Here are some of the main differences between UDP and TCP:
+
+- UDP stands for User Datagram Protocol, while TCP stands for Transmission Control Protocol.
+- UDP is a connectionless protocol, which means it does not establish a connection between the sender and the receiver before sending data. TCP is a connection-oriented protocol, which means it sets up a connection between the sender and the receiver before sending data.
+- UDP is faster and simpler than TCP, as it does not perform error-checking, retransmission, or flow control. TCP is slower and more complex than UDP, as it performs error-checking, retransmission, and flow control to ensure reliable and ordered delivery of data.
+- UDP is suitable for applications that require speed, efficiency, and real-time communication, such as video streaming, voice over IP, online gaming, and live broadcasting. TCP is suitable for applications that require reliability, accuracy, and data integrity, such as web browsing, email, file transfer, and remote access.
+- UDP does not guarantee the delivery of data to the destination, as it does not acknowledge the receipt of data packets. TCP guarantees the delivery of data to the destination, as it acknowledges the receipt of data packets and retransmits the lost or corrupted ones.
+- UDP supports broadcast and multicast transmission, which means it can send data to multiple destinations at once. TCP supports only unicast transmission, which means it can send data to only one destination at a time.

@@ -1,0 +1,32 @@
+### Dimension for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for Cascading Style Sheets. It is a language that defines how HTML elements are displayed on a web page.
+- CSS can control the layout, colors, fonts, backgrounds, borders, margins, padding, and other aspects of the presentation of HTML elements.
+- CSS can be applied to HTML elements in three ways: inline, internal, and external.
+  - Inline CSS: The style attribute is used to apply CSS directly to an HTML element. For example: `<p style="color: red;">This is a paragraph.</p>`
+  - Internal CSS: The `<style>` tag is used to define CSS rules inside the `<head>` section of an HTML document. For example: `<style> p {color: red;} </style>`
+  - External CSS: The `<link>` tag is used to link an external CSS file to an HTML document. For example: `<link rel="stylesheet" href="style.css">`
+- CSS uses selectors to target HTML elements and apply style rules to them. There are different types of selectors, such as:
+  - Element selector: Selects all elements of a specific type. For example: `p {color: red;}` selects all `<p>` elements and makes their text color red.
+  - Class selector: Selects all elements that have a specific class attribute. For example: `.red {color: red;}` selects all elements that have `class="red"` and makes their text color red.
+  - ID selector: Selects a single element that has a specific id attribute. For example: `#red {color: red;}` selects the element that has `id="red"` and makes its text color red.
+  - Attribute selector: Selects all elements that have a specific attribute or attribute value. For example: `[title] {color: red;}` selects all elements that have a title attribute and makes their text color red.
+  - Pseudo-class selector: Selects elements based on their state or position. For example: `a:hover {color: red;}` selects all `<a>` elements when the mouse pointer is over them and makes their text color red.
+  - Pseudo-element selector: Selects a part of an element. For example: `p::first-line {color: red;}` selects the first line of text in every `<p>` element and makes its text color red.
+  - Combinator selector: Combines two or more selectors to create a more specific selector. For example: `p.red {color: red;}` selects all `<p>` elements that have `class="red"` and makes their text color red.
+- CSS uses properties and values to define the style rules for the selected elements. For example: `color: red;` is a property-value pair that sets the text color to red. There are many CSS properties and values that can be used to style HTML elements. Some of the common ones are:
+  - `font-family`: Specifies the font family for the text. For example: `font-family: Arial, sans-serif;`
+  - `font-size`: Specifies the font size for the text. For example: `font-size: 16px;`
+  - `font-weight`: Specifies the font weight for the text. For example: `font-weight: bold;`
+  - `font-style`: Specifies the font style for the text. For example: `font-style: italic;`
+  - `text-align`: Specifies the horizontal alignment of the text. For example: `text-align: center;`
+  - `text-decoration`: Specifies the decoration of the text. For example: `text-decoration: underline;`
+  - `color`: Specifies the color of the text. For example: `color: red;`
+  - `background-color`: Specifies the background color of the element. For example: `background-color: yellow;`
+  - `background-image`: Specifies the background image of the element. For example: `background-image: url("image.jpg");`
+  - `background-repeat`: Specifies how the background image is repeated. For example: `background-repeat: no-repeat;`
+  - `background-position`: Specifies the position of the background image. For example: `background-position: center;`
+  - `background-size`: Specifies the size of the background image. For example: `background-size: cover;`
+  - `width`: Specifies the width of the element. For example: `width: 200px;`
+  - `height`: Specifies the height of the element. For example: `height: 100px;`
+  - `border`: Specifies the border of the element. For example: `border:

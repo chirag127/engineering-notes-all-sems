@@ -1,0 +1,9 @@
+## Unit 3 - DECISION TREE LEARNING
+
+- Decision tree learning is a method of supervised learning that uses a tree-like structure to represent a set of rules for classifying or predicting an outcome based on a set of input features.
+- A decision tree consists of nodes, branches, and leaves. A node represents a test or a question on a feature, a branch represents an outcome or an answer to the test, and a leaf represents a class label or a prediction.
+- The root node is the first node in the tree, and it has no incoming branches. The internal nodes are the nodes that have both incoming and outgoing branches. The leaf nodes are the nodes that have only incoming branches and no outgoing branches.
+- The process of building a decision tree involves recursively splitting the data into subsets based on the values of the features, until the subsets are pure or homogeneous, meaning that they contain only one class label or a very small proportion of other class labels.
+- The splitting criterion is a measure of how well a feature can separate the data into subsets based on the class labels. There are different splitting criteria, such as information gain, gain ratio, and gini index, that can be used to select the best feature to split on at each node.
+- The advantages of decision tree learning are that it is easy to understand and interpret, it can handle both numerical and categorical features, it can deal with missing values and outliers, and it can perform feature selection automatically.
+- The disadvantages of decision tree learning are that it can be prone to overfitting, meaning that it can learn too many details from the training data and fail to generalize well to new data, it can be sensitive to small changes in the data, and it can create complex and large trees that are hard to maintain and update.

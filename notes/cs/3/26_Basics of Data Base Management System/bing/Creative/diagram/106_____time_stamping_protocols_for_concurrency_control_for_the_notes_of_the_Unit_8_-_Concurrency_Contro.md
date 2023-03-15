@@ -1,0 +1,23 @@
+### Time stamping protocols for concurrency control
+
+- Time stamping protocols are a type of non-locking concurrency control methods that use timestamps to order the transactions and ensure serializability   .
+- A timestamp is a unique identifier that represents the creation time of a transaction or a logical counter that increments after each transaction   .
+- Each transaction has two timestamps: a start timestamp (TS) that indicates when the transaction started, and a commit timestamp (CTS) that indicates when the transaction committed.
+- Each data item also has two timestamps: a read timestamp (RTS) that indicates the latest time when the data item was read, and a write timestamp (WTS) that indicates the latest time when the data item was written   .
+- The basic rules of timestamp ordering protocol are   :
+  - If a transaction T wants to read a data item X, it can do so only if TS(T) >= WTS(X). This means that T started after the last transaction that wrote X. If this condition is not satisfied, T is aborted and restarted with a new timestamp.
+  - If a transaction T wants to write a data item X, it can do so only if TS(T) >= RTS(X) and TS(T) >= WTS(X). This means that T started after the last transaction that read or wrote X. If this condition is not satisfied, T is aborted and restarted with a new timestamp.
+  - Whenever a transaction T reads a data item X, RTS(X) is set to the maximum of RTS(X) and TS(T). This means that X is updated with the latest read timestamp.
+  - Whenever a transaction T writes a data item X, WTS(X) is set to TS(T). This means that X is updated with the latest write timestamp.
+- The advantages of timestamp ordering protocol are   :
+  - It avoids deadlock, as no transaction ever waits for another transaction to release a lock.
+  - It ensures serializability, as the transactions are executed in the order of their timestamps.
+  - It is easy to implement, as no lock manager or deadlock detection is required.
+- The disadvantages of timestamp ordering protocol are   :
+  - It may cause starvation, as a transaction may be repeatedly aborted and restarted with a new timestamp if it conflicts with other transactions.
+  - It may cause cascading aborts, as an aborted transaction may invalidate the results of other transactions that depend on it.
+  - It may not preserve recoverability, as a transaction may commit before the transactions that it depends on.
+- There are some variations of timestamp ordering protocol that try to overcome some of these disadvantages, such as   :
+  - Basic timestamp ordering protocol with Thomas' write rule: This protocol allows a transaction T to write a data item X even if TS(T) < WTS(X), as long as TS(T) >= RTS(X). This means that T can overwrite an older version of X that has not been read by any other transaction. This rule reduces the number of aborts, but may cause some writes to be ignored.
+  - Multiversion timestamp ordering protocol: This protocol maintains multiple versions of each data item, each with a different timestamp. A transaction T can read the latest version of a data item X that has a timestamp less than or equal to TS(T). A transaction T can write a new version of a data item X with a timestamp equal to TS(T), as long as TS(T) is greater than the timestamp of any existing version of X. This protocol allows more concurrency, but requires more storage space and garbage collection.
+  - Timestamp ordering protocol with validation: This protocol divides each transaction into three phases: read phase, validation phase, and write phase. In the read phase, a transaction T can read any data item, but cannot write. In the validation phase, T checks if it conflicts with any other transaction that has committed in the meantime. If there is no conflict, T can proceed to the write phase, where it writes all the data items that it modified. Otherwise, T is aborted and restarted with a new timestamp. This protocol avoids

@@ -1,0 +1,21 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to perform reasoning and problem-solving tasks.
+- Knowledge representation involves choosing a suitable representation language, defining the syntax and semantics of the language, and designing methods for acquiring, storing, manipulating, and using the knowledge.
+- Some of the goals of knowledge representation are:
+  - Expressiveness: the ability to represent complex and diverse concepts and relations.
+  - Efficiency: the ability to perform reasoning and inference tasks in a reasonable time and space.
+  - Adequacy: the ability to capture the essential features and assumptions of the domain.
+  - Learnability: the ability to acquire new knowledge from data and experience.
+  - Verifiability: the ability to check the consistency and validity of the knowledge.
+- Some of the challenges of knowledge representation are:
+  - Uncertainty: the presence of incomplete, inconsistent, or noisy information.
+  - Incompleteness: the impossibility of representing all the relevant facts and rules of the domain.
+  - Complexity: the difficulty of dealing with large and dynamic domains.
+  - Trade-offs: the need to balance between different criteria and objectives of knowledge representation.
+- Some of the common types of knowledge representation languages are:
+  - Logic: a formal system of symbols and rules for expressing and manipulating propositions and arguments.
+  - Semantic networks: a graphical representation of concepts and relations using nodes and links.
+  - Frames: a hierarchical representation of concepts and attributes using slots and values.
+  - Production rules: a conditional representation of actions and effects using if-then statements.
+  - Ontologies: a specification of the concepts, relations, and axioms of a domain using a controlled vocabulary.

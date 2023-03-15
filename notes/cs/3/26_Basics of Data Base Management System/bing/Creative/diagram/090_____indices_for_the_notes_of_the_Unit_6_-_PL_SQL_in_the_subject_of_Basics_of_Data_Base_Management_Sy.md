@@ -1,0 +1,30 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on Unit 6 - PL/SQL in the subject of Basics of Data Base Management System. Here are some possible indices for the notes:
+
+- Introduction to PL/SQL
+  - What is PL/SQL and why is it used?
+  - Features and advantages of PL/SQL
+  - Basic structure and syntax of PL/SQL
+  - Data types and variables in PL/SQL
+- PL/SQL Blocks and Control Structures
+  - What is a PL/SQL block and how to execute it?
+  - Types of PL/SQL blocks: anonymous, named, nested
+  - Control structures: conditional, iterative, sequential
+  - Examples and exercises of PL/SQL blocks and control structures
+- PL/SQL Cursors and Exceptions
+  - What is a cursor and how to declare, open, fetch, and close it?
+  - Types of cursors: implicit, explicit, parameterized, ref
+  - What is an exception and how to handle it?
+  - Types of exceptions: predefined, user-defined, pragma
+  - Examples and exercises of PL/SQL cursors and exceptions
+- PL/SQL Subprograms and Packages
+  - What is a subprogram and how to create and invoke it?
+  - Types of subprograms: procedures, functions
+  - What is a package and how to create and use it?
+  - Types of packages: specification, body, built-in, user-defined
+  - Examples and exercises of PL/SQL subprograms and packages
+- PL/SQL Triggers and Collections
+  - What is a trigger and how to create and manage it?
+  - Types of triggers: row, statement, before, after, instead of, compound
+  - What is a collection and how to declare and manipulate it?
+  - Types of collections: array, nested table, varray
+  - Examples and exercises of PL/SQL triggers and collections

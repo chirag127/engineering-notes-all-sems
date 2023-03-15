@@ -1,0 +1,22 @@
+## Unit 3 - Data Analysis
+
+- Data analysis is the process of collecting, organizing, exploring, interpreting, and presenting data to answer questions, solve problems, or support decisions.
+- Data analysis involves the following steps:
+  - Define the question or problem: What is the purpose of the analysis? What are the objectives and expectations?
+  - Collect the data: What are the sources and types of data? How will the data be obtained and stored?
+  - Organize the data: How will the data be cleaned, validated, and formatted? How will the data be structured and summarized?
+  - Explore the data: What are the characteristics and patterns of the data? What are the descriptive statistics and visualizations of the data?
+  - Interpret the data: What are the inferences and conclusions from the data? What are the limitations and assumptions of the data?
+  - Present the data: How will the results be communicated and reported? What are the appropriate formats and media for the audience?
+- Data analysis can be classified into two main types: quantitative and qualitative.
+  - Quantitative data analysis deals with numerical data that can be measured and compared using mathematical and statistical methods. Examples of quantitative data are test scores, sales figures, and survey responses.
+  - Qualitative data analysis deals with non-numerical data that can be observed and interpreted using thematic and narrative methods. Examples of qualitative data are interviews, observations, and documents.
+- Data analysis can also be classified into two main approaches: deductive and inductive.
+  - Deductive data analysis starts with a hypothesis or theory and tests it using data. It follows a top-down logic that moves from general to specific. Examples of deductive data analysis are experiments, tests, and surveys.
+  - Inductive data analysis starts with data and generates a hypothesis or theory from it. It follows a bottom-up logic that moves from specific to general. Examples of inductive data analysis are case studies, exploratory research, and grounded theory.
+- Data analysis requires the use of various tools and techniques, such as:
+  - Data collection tools: surveys, questionnaires, interviews, observations, experiments, etc.
+  - Data organization tools: spreadsheets, databases, tables, charts, graphs, etc.
+  - Data exploration tools: descriptive statistics, measures of central tendency, measures of variability, measures of association, etc.
+  - Data interpretation tools: inferential statistics, hypothesis testing, confidence intervals, significance tests, etc.
+  - Data presentation tools: reports, dashboards, slides, infographics, etc.

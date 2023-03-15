@@ -1,0 +1,23 @@
+### Physical packaging for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Physical packaging is the process of organizing the classes and objects identified in the object-oriented analysis phase into discrete units that can be edited, compiled, imported, or otherwise manipulated.
+- Physical packaging helps to manage the complexity of the system, improve the reusability of the classes, and facilitate the collaboration among the developers.
+- Physical packaging can be done at different levels of granularity, depending on the programming language and the design methodology used. Some examples of physical packaging units are:
+  - Source files: In languages like C and Fortran, the physical units are source files that contain the definitions and implementations of the classes and objects.
+  - Packages: In languages like Ada and Java, the physical units are packages that group related classes and objects into a namespace and provide access control mechanisms .
+  - Modules: In languages like Python and Ruby, the physical units are modules that group related classes and objects into a namespace and provide import and export mechanisms.
+  - Libraries: In languages like C++ and C#, the physical units are libraries that group related classes and objects into a binary file and provide linking and loading mechanisms.
+- Physical packaging can be done according to different criteria, such as:
+  - Functionality: The classes and objects that provide similar or related functionality are grouped into the same physical unit.
+  - Cohesion: The classes and objects that have high internal cohesion and low external coupling are grouped into the same physical unit.
+  - Dependency: The classes and objects that have low dependency on other physical units are grouped into the same physical unit.
+  - Reusability: The classes and objects that are likely to be reused in other systems or contexts are grouped into the same physical unit.
+- Physical packaging can be represented using different notations, such as:
+  - UML package diagrams: These diagrams show the physical units as packages and the dependencies among them as dashed arrows.
+  - UML component diagrams: These diagrams show the physical units as components and the dependencies among them as lollipop-and-socket symbols.
+  - UML deployment diagrams: These diagrams show the physical units as artifacts and the dependencies among them as dashed arrows.
+- Physical packaging can be refined and modified throughout the system development life cycle, as the system requirements and design evolve.
+- Physical packaging can be verified and validated using different techniques, such as:
+  - Code reviews: These techniques involve inspecting the source code of the physical units and checking for errors, inconsistencies, or violations of the design principles.
+  - Testing: These techniques involve executing the physical units and checking for their functionality, performance, reliability, or compatibility.
+  - Metrics: These techniques involve measuring the properties of the physical units, such as size, complexity, cohesion, coupling, or reusability.

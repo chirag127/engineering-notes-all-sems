@@ -1,0 +1,21 @@
+### Analytic Process and Tools
+
+- Analytic process is the systematic application of data analysis techniques to solve a problem or achieve a goal.
+- Analytic tools are the software or methods that enable data collection, manipulation, visualization, and interpretation.
+- Some examples of analytic tools are Microsoft Power BI, Tableau, Qlik Sense, Looker, etc.
+- Analytic process and tools are essential for data analytics, which is the process of transforming data into insights for decision making or action.
+- The analytic process typically involves the following steps:
+  - Define the problem or question
+  - Collect and prepare the data
+  - Explore and analyze the data
+  - Communicate and present the results
+  - Implement and evaluate the solution
+- The analytic process can be improved by using process analysis tools, which are techniques that help identify, understand, and optimize the work processes involved in data analysis.
+- Some examples of process analysis tools are flow charts, process maps, written procedures, work instructions, cause and effect diagrams, etc.  
+- Process analysis tools can help with the following benefits:
+  - Document and standardize the process steps and inputs
+  - Identify and eliminate process waste, errors, and inefficiencies
+  - Enhance process quality, consistency, and performance
+  - Facilitate process improvement and innovation
+  - Increase process visibility and collaboration
+- Process analysis tools can be applied to any stage of the analytic process, depending on the specific needs and objectives of the project.

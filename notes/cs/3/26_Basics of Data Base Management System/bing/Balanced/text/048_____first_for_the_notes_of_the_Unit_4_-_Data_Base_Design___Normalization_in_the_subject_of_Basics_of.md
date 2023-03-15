@@ -1,0 +1,26 @@
+### Unit 4 - Data Base Design & Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database management system (DBMS).
+- Normalization is a database design technique that reduces data redundancy and eliminates undesirable characteristics like insertion, update and deletion anomalies.
+- Normalization rules divide larger tables into smaller tables and link them using relationships.
+- The main benefits of normalization are:
+  - It improves data integrity and consistency by avoiding data duplication and inconsistency.
+  - It reduces storage space and improves query performance by minimizing the number of columns and rows in a table.
+  - It facilitates data maintenance and security by simplifying the enforcement of constraints and access control.
+- The main drawbacks of normalization are:
+  - It may increase the complexity and number of joins in a query, which can affect performance and readability.
+  - It may require denormalization to achieve optimal performance for some applications or queries.
+- Normalization is based on the concept of normal forms, which are levels of data organization that satisfy certain conditions or rules.
+- The most common normal forms are:
+  - First normal form (1NF): A table is in 1NF if it contains only atomic values and no repeating groups of attributes.
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key.
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key.
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key.
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and has no multi-valued dependencies.
+  - Fifth normal form (5NF): A table is in 5NF if it is in 4NF and has no join dependencies.
+- The process of normalization involves the following steps:
+  - Identify the functional dependencies and candidate keys in a table.
+  - Decompose the table into smaller tables based on the normal form criteria.
+  - Preserve the original information and relationships by creating foreign keys and referential integrity constraints.
+  - Evaluate the resulting tables for anomalies and performance issues.
+  - Repeat the process until the desired level of normalization is achieved.

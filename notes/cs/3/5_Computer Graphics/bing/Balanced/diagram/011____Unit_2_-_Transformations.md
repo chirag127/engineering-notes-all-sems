@@ -1,0 +1,23 @@
+## Unit 2 - Transformations
+
+A transformation is a change in the position, size, or shape of a figure. There are four basic types of transformations: translations, rotations, reflections, and dilations.
+
+- A translation is a transformation that moves every point of a figure by the same distance and in the same direction. The figure does not change its size or orientation. A translation can be described by a vector, which has a magnitude (length) and a direction. A vector can be represented by an arrow or by a pair of numbers (x, y) that indicate how much the figure moves horizontally and vertically.
+
+- A rotation is a transformation that turns a figure around a fixed point called the center of rotation. The figure does not change its size or shape, but it changes its orientation. A rotation can be described by an angle of rotation, which measures how much the figure rotates clockwise or counterclockwise. A positive angle means a clockwise rotation, and a negative angle means a counterclockwise rotation. A rotation can also be described by a point and a direction, such as (90°, P) which means a 90° clockwise rotation around point P.
+
+- A reflection is a transformation that flips a figure over a line called the line of reflection. The figure does not change its size or shape, but it changes its orientation. A reflection can be described by the equation of the line of reflection, such as y = x, which means the figure is flipped over the line y = x. A reflection can also be described by a direction, such as horizontal or vertical, which means the figure is flipped over a horizontal or vertical line.
+
+- A dilation is a transformation that changes the size of a figure by a scale factor. The figure does not change its shape or orientation, but it changes its size. A dilation can be described by a scale factor, which is a positive number that indicates how much the figure is enlarged or reduced. A scale factor greater than 1 means an enlargement, and a scale factor less than 1 means a reduction. A dilation can also be described by a center and a scale factor, such as (O, 2) which means a dilation with center O and scale factor 2.
+
+A transformation maps an original figure, called the pre-image, to a new figure, called the image. The pre-image and the image are congruent, meaning they have the same shape and size, except for dilations, which change the size but not the shape. The notation for a transformation is T(P) = P', where T is the transformation, P is a point on the pre-image, and P' is the corresponding point on the image.
+
+A transformation can be represented by a matrix, which is a rectangular array of numbers that shows how the coordinates of the pre-image are changed to the coordinates of the image. A matrix has rows and columns, and each entry in the matrix is called an element. The notation for a matrix is [a b; c d], where a, b, c, and d are the elements. A matrix can be multiplied by a vector to get a new vector, which represents the image of a point after a transformation. The notation for matrix multiplication is [a b; c d] * [x; y] = [ax + by; cx + dy], where x and y are the coordinates of the point, and ax + by and cx + dy are the coordinates of the image.
+
+A transformation can also be represented by a function, which is a rule that assigns an output to every input. A function can be written as f(x) = y, where x is the input, y is the output, and f is the name of the function. A function can be graphed by plotting the ordered pairs (x, y) on a coordinate plane. A function can be composed with another function to get a new function, which represents the result of applying two transformations in a row. The notation for function composition is f(g(x)) = y, where f and g are the functions, x is the input, and y is the output. Function composition can be read as "f of g of x", which means apply g to x, and then apply f to the result. Function composition is not commutative, meaning f(g(x)) is not necessarily equal to g(f(x)).
+
+Some properties of transformations are:
+
+- A transformation preserves distance, meaning the distance between any two points on the pre-image is equal to the distance between the corresponding points on the image. This property is also called the rigid motion property or the congruence property.
+
+- A transformation preserves angle measure, meaning the measure of any angle on the pre-image is equal to the measure of the corresponding angle on the image. This property is also called the

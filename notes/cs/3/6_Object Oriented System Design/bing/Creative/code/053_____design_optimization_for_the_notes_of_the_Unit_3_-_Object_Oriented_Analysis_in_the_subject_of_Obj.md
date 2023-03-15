@@ -1,0 +1,24 @@
+# Design Optimization for Object Oriented Analysis
+
+- Object Oriented Analysis (OOA) is a technical approach for analyzing the functional requirements of a software system by applying the object-oriented paradigm and concepts  .
+- OOA aims to model the real-world entities and processes using objects, classes, attributes, methods, associations, and behaviors.
+- OOA is independent of any implementation details, such as programming language, platform, or design patterns.
+- OOA is an iterative and incremental process that involves the following steps :
+  - Identify the problem domain and the scope of the system.
+  - Define the use cases and scenarios that describe the interactions between the system and the external actors.
+  - Identify the main classes and objects that represent the entities and concepts in the problem domain.
+  - Define the attributes and methods of each class and object, and specify their visibility and accessibility.
+  - Establish the relationships and associations between the classes and objects, such as inheritance, aggregation, composition, and dependency.
+  - Define the state and behavior diagrams that show the dynamic aspects of the system, such as the states, transitions, events, and actions of each object.
+  - Validate and verify the analysis model using various techniques, such as reviews, inspections, testing, and prototyping.
+- Design Optimization for OOA is the process of improving the quality, efficiency, and effectiveness of the analysis model by applying various principles, guidelines, and heuristics.
+- Design Optimization for OOA can be achieved by following some of the best practices, such as:
+  - Applying the principle of abstraction, which is to focus on the essential features and ignore the irrelevant details of each class and object.
+  - Applying the principle of encapsulation, which is to hide the internal implementation and data of each class and object from the outside world, and provide a well-defined interface for communication and interaction.
+  - Applying the principle of modularity, which is to divide the system into smaller and independent units that can be developed, tested, and maintained separately.
+  - Applying the principle of cohesion, which is to ensure that each class and object has a single and clear responsibility, and that its attributes and methods are closely related to its purpose.
+  - Applying the principle of coupling, which is to minimize the dependencies and interactions between the classes and objects, and to use loose and weak associations rather than tight and strong ones.
+  - Applying the principle of inheritance, which is to reuse the common attributes and methods of existing classes and objects by creating new subclasses and subobjects that inherit from them.
+  - Applying the principle of polymorphism, which is to allow different subclasses and subobjects to have different implementations of the same method, and to use a common interface for invoking them.
+  - Applying the principle of genericity, which is to use abstract and parameterized classes and objects that can be instantiated with different types of data and behavior.
+  - Applying the principle of design patterns, which are proven and reusable solutions for common and recurring problems in OOA.

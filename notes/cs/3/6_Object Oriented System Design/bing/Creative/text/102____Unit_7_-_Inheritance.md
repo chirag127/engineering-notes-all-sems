@@ -1,0 +1,38 @@
+## Unit 7 - Inheritance
+
+- Inheritance is a mechanism that allows a class to inherit the properties and methods of another class.
+- The class that inherits is called the **subclass** or the **child class**.
+- The class that is inherited from is called the **superclass** or the **parent class**.
+- Inheritance enables code reuse and polymorphism.
+- Code reuse means that a subclass can use the existing code of the superclass without having to rewrite it.
+- Polymorphism means that a subclass can modify or override the behavior of the superclass to suit its own needs.
+- Inheritance can be implemented using the **extends** keyword in Java.
+- For example, `public class Dog extends Animal` means that the Dog class inherits from the Animal class.
+- A subclass can access the public and protected members of the superclass, but not the private members.
+- A subclass can also define its own members that are specific to its type.
+- A subclass can invoke the constructor of the superclass using the **super** keyword.
+- For example, `super(name, age)` means that the subclass calls the superclass constructor with the name and age parameters.
+- A subclass can override the methods of the superclass using the **@Override** annotation.
+- For example, `@Override public void makeSound()` means that the subclass defines its own implementation of the makeSound method that was inherited from the superclass.
+- A subclass can also call the superclass method using the **super** keyword.
+- For example, `super.makeSound()` means that the subclass invokes the superclass method makeSound.
+- A subclass can inherit from only one superclass in Java, but a superclass can have multiple subclasses.
+- This is called **single inheritance**.
+- Multiple inheritance, where a subclass can inherit from more than one superclass, is not supported in Java.
+- However, Java supports **multiple interfaces**, where a class can implement more than one interface.
+- An interface is a collection of abstract methods that a class must implement.
+- An interface can be implemented using the **implements** keyword in Java.
+- For example, `public class Dog extends Animal implements Pet` means that the Dog class inherits from the Animal class and implements the Pet interface.
+- A class can implement multiple interfaces using a comma-separated list.
+- For example, `public class Dog extends Animal implements Pet, Runnable` means that the Dog class inherits from the Animal class and implements the Pet and Runnable interfaces.
+- An interface can also extend another interface using the **extends** keyword.
+- For example, `public interface Pet extends Animal` means that the Pet interface inherits from the Animal interface.
+- An interface can have default methods that provide a default implementation for the subclasses.
+- A default method can be defined using the **default** keyword in Java.
+- For example, `default void play() { System.out.println("Playing"); }` means that the interface defines a default play method that prints "Playing".
+- A default method can be overridden by the subclasses if they want to provide a different implementation.
+- An interface can also have static methods that are common to all the subclasses.
+- A static method can be defined using the **static** keyword in Java.
+- For example, `static void sleep() { System.out.println("Sleeping"); }` means that the interface defines a static sleep method that prints "Sleeping".
+- A static method cannot be overridden by the subclasses, but can be invoked using the interface name.
+- For example, `Pet.sleep()` means that the class calls the static sleep method of the Pet interface.

@@ -1,0 +1,10 @@
+### SQL operators and their procedure
+
+SQL operators are symbols or keywords that are used to perform operations on values or expressions in SQL statements. They are used to specify conditions, filter results, compare values, perform calculations, concatenate strings, and more. SQL operators can be classified into six types:
+
+- Arithmetic operators: These operators are used for mathematical operations on numerical data, such as adding, subtracting, multiplying, dividing, and finding the remainder. For example, `SELECT 10 + 10;` returns 20.
+- Comparison operators: These operators are used to compare two values or expressions and return a boolean value (true or false). For example, `SELECT 10 > 10;` returns false.
+- Logical operators: These operators are used to combine two or more conditions and return a boolean value. They are often used with the WHERE clause to filter the results based on multiple criteria. For example, `SELECT * FROM customers WHERE age > 18 AND gender = 'F';` returns all the female customers who are older than 18.
+- Bitwise operators: These operators are used to perform bitwise operations on binary data, such as AND, OR, XOR, NOT, and SHIFT. They are often used to manipulate bits, flags, and masks. For example, `SELECT 10 & 2;` returns 2, which is the result of bitwise AND operation between 10 (1010 in binary) and 2 (0010 in binary).
+- String operators: These operators are used to manipulate character data, such as concatenating, extracting, replacing, and converting. For example, `SELECT 'Hello' + ' ' + 'World';` returns 'Hello World', which is the result of concatenating two strings with a space in between.
+- Set operators: These operators are used to combine the results of two or more queries and return a single result set. They are often used to perform set operations, such as union, intersection, difference, and symmetric difference. For example, `SELECT name FROM customers UNION SELECT name FROM suppliers;` returns the names of all the customers and suppliers, without any duplicates.

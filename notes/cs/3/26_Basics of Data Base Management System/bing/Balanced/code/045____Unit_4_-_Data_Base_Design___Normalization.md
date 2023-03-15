@@ -1,0 +1,13 @@
+## Unit 4 - Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a relational database management system (RDBMS).
+- Database normalization is a technique of database design that organizes data into tables and columns to reduce redundancy and improve data integrity.
+- Normalization also simplifies the database design by creating atomic elements (i.e., elements that cannot be broken down into smaller parts) and defining relationships among them.
+- Normalization is based on a series of normal forms (NF) that specify the conditions for a table to be well-structured and normalized. The most common normal forms are:
+  - First normal form (1NF): A table is in 1NF if it has no repeating groups or arrays of data. Each column should contain only one value for each row, and each row should have a unique identifier (primary key).
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key column depends on the whole primary key. There should be no partial dependencies, where a column depends on only a part of the primary key.
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key column depends only on the primary key. There should be no transitive dependencies, where a column depends on another non-key column that depends on the primary key.
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant (a column or a set of columns that determines another column) is a candidate key (a minimal set of columns that uniquely identifies a row).
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and has no multi-valued dependencies, where a column or a set of columns depends on another column or a set of columns, and both are independent of the primary key.
+  - Fifth normal form (5NF): A table is in 5NF if it is in 4NF and has no join dependencies, where a table can be decomposed into two or more tables and then reconstructed by joining them on their primary keys without losing any information.
+- Normalization is not always desirable or feasible, as it may result in too many tables, increased complexity, reduced performance, or loss of business meaning. Therefore, database designers should balance the benefits and costs of normalization and consider the requirements and constraints of the application and the users.

@@ -1,0 +1,21 @@
+### Rule Induction
+
+- Rule induction is a data mining process of deducing if-then rules from a data set.
+- These symbolic decision rules explain an inherent relationship between the attributes and class labels in the data set.
+- Rule induction uses a number of specific beliefs in the form of database tuples as evidence to support a general belief that is consistent with these specific beliefs.
+- A collection of tuples in the database may form a relation that is defined by the values of particular attributes, and relations in the database form the basis of rules.
+- Rule induction can be used for various purposes, such as:
+  - Classification: to assign a class label to a new instance based on the rules learned from the training data.
+  - Prediction: to estimate the value of a target variable for a new instance based on the rules learned from the training data.
+  - Discovery: to find interesting and novel patterns or associations in the data based on the rules learned from the data.
+- Rule induction can be performed using different methods, such as:
+  - Decision tree induction: to generate a hierarchical structure of rules that split the data into smaller subsets based on the values of the attributes.
+  - Association rule mining: to generate rules that describe the co-occurrence of items or attributes in the data.
+  - Sequential pattern mining: to generate rules that describe the order or sequence of items or attributes in the data.
+  - Generalized rule induction: to generate rules that relate any subset of the domain variables using information theory calculations.
+- Rule induction can be evaluated using different criteria, such as:
+  - Accuracy: to measure how well the rules predict the correct class or value for the new instances.
+  - Coverage: to measure how many instances are covered by the rules.
+  - Confidence: to measure how reliable the rules are based on the evidence in the data.
+  - Complexity: to measure how simple or concise the rules are.
+  - Interestingness: to measure how surprising or useful the rules are.

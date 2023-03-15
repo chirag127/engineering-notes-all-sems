@@ -1,0 +1,26 @@
+### Storage Management for the Notes of the Unit 1 - Introduction in the Subject of Basics of Data Base Management System
+
+- Storage management is the process of optimizing the use of storage resources for data storage in database systems.
+- Storage management involves planning, allocating, monitoring, and maintaining the storage capacity and performance of the database system.
+- Storage management is important for database administration because it affects the availability, reliability, security, and efficiency of the data and the database system.
+- Storage management strategies include :
+  - Understanding the data needs and value of the business
+  - Choosing the appropriate storage devices and technologies
+  - Using a tiered approach to store data based on its frequency of access, performance requirements, and cost
+  - Mapping out disaster recovery plans and backup procedures
+  - Using intelligent storage management software and tools to automate and simplify storage tasks
+  - Consolidating and scaling storage systems to reduce complexity and overhead
+  - Archiving and deleting infrequently accessed or obsolete data to free up space
+- Storage devices and technologies for data storage in database systems include :
+  - Primary storage devices, such as CPU registers, main memory, and cache memory, that store data temporarily and provide fast access to the CPU
+  - Secondary storage devices, such as hard disks, solid state drives, and optical disks, that store data persistently and provide large capacity and durability
+  - Tertiary storage devices, such as magnetic tapes, CDs, and DVDs, that store data for long-term archival and backup purposes
+  - Storage area networks (SANs), that connect multiple storage devices and servers over a high-speed network
+  - Network-attached storage (NAS), that provides file-level access to storage devices over a network
+  - Cloud storage, that provides on-demand access to storage resources over the internet
+- Storage management challenges include :
+  - Managing the increasing volume and variety of data
+  - Balancing the trade-offs between storage performance, capacity, and cost
+  - Ensuring the security and integrity of the data
+  - Complying with the regulatory and legal requirements for data retention and disposal
+  - Adapting to the changing business and user needs and expectations

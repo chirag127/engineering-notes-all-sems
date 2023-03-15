@@ -1,0 +1,21 @@
+## Unit 3 - Object Oriented Analysis
+
+- Object oriented analysis (OOA) is a process of identifying and modeling the problem domain in terms of objects and their relationships.
+- OOA aims to capture the essential features and behaviors of the system, without focusing on the implementation details.
+- OOA uses various diagrams and notations to represent the objects, their attributes, methods, associations, and interactions.
+- Some of the benefits of OOA are:
+  - It facilitates reuse of existing objects and code.
+  - It promotes modularity and encapsulation of data and behavior.
+  - It supports abstraction and inheritance of common properties and methods.
+  - It enhances communication and understanding among stakeholders and developers.
+- Some of the challenges of OOA are:
+  - It requires a shift in mindset from procedural to object-oriented thinking.
+  - It may be difficult to identify the appropriate objects and their boundaries.
+  - It may introduce complexity and overhead in design and implementation.
+  - It may not be suitable for some types of problems or domains.
+- Some of the steps involved in OOA are:
+  - Define the scope and objectives of the system.
+  - Identify the actors and use cases of the system.
+  - Create a conceptual model of the system using class diagrams and object diagrams.
+  - Specify the dynamic behavior of the system using sequence diagrams, state diagrams, and activity diagrams.
+  - Validate and refine the analysis model using scenarios and prototypes.

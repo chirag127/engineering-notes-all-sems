@@ -1,0 +1,21 @@
+### Database System Concepts and Architecture
+
+- A database system is a software system that manages and manipulates data stored in a database.
+- A database system consists of several components, such as:
+  - Database: a collection of related data that represents some aspects of the real world.
+  - Database management system (DBMS): a software package that provides the functionality to create, maintain, and manipulate databases.
+  - Database application: a program that interacts with the database system to perform specific tasks, such as querying, updating, or reporting data.
+  - Database users: the people or organizations that use the database system for various purposes, such as data entry, analysis, or decision making.
+- A database system can have different architectures, depending on how the components are distributed and organized across different computers or devices.
+  - Centralized architecture: a single computer hosts the database, the DBMS, and the database applications. All database users access the database system through the same computer.
+  - Client-server architecture: the database and the DBMS are hosted on a server computer, while the database applications are hosted on client computers. The clients communicate with the server through a network to access the database system.
+  - Distributed architecture: the database and the DBMS are partitioned and distributed across multiple computers, which may be geographically dispersed. The database applications can access the database system through a network, which may involve multiple hops or intermediaries.
+- A database system can also have different levels of abstraction, depending on how the data is structured and represented.
+  - External level: the view of the data that is presented to the database users, which may vary depending on their needs and preferences.
+  - Conceptual level: the logical structure of the data that is independent of the physical storage and implementation details.
+  - Internal level: the physical representation of the data that is dependent on the hardware and software characteristics of the database system.
+- A database system can also have different models, depending on how the data is organized and manipulated.
+  - Relational model: the data is organized as tables, which consist of rows and columns. The tables can be linked by common attributes, which form relationships. The data can be manipulated using a declarative query language, such as SQL.
+  - Hierarchical model: the data is organized as a tree, which consists of nodes and edges. The nodes represent records, and the edges represent parent-child relationships. The data can be manipulated using a navigational query language, such as DL/I.
+  - Network model: the data is organized as a graph, which consists of nodes and edges. The nodes represent records, and the edges represent arbitrary relationships. The data can be manipulated using a navigational query language, such as CODASYL.
+  - Object-oriented model: the data is organized as objects, which consist of attributes and methods. The objects can be grouped into classes, which form inheritance hierarchies. The data can be manipulated using an object-oriented query language, such as OQL.

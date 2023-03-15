@@ -1,0 +1,45 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 6 - PL/SQL in the subject of Basics of Data Base Management System. Here are the indices for the notes of the unit:
+
+### Indices for the notes of the Unit 6 - PL/SQL
+
+- Introduction to PL/SQL
+  - What is PL/SQL and why use it?
+  - Features and advantages of PL/SQL
+  - PL/SQL architecture and environment
+  - PL/SQL block structure and syntax
+  - PL/SQL data types and variables
+  - PL/SQL operators and expressions
+- PL/SQL Control Structures
+  - Conditional statements (IF, CASE)
+  - Looping statements (FOR, WHILE, LOOP, EXIT, CONTINUE)
+  - Sequential control statements (GOTO, NULL)
+  - Exception handling (RAISE, EXCEPTION, PRAGMA EXCEPTION_INIT, SQLCODE, SQLERRM)
+- PL/SQL Cursors and Records
+  - What are cursors and why use them?
+  - Types of cursors (implicit, explicit, parameterized, ref, bulk)
+  - Cursor attributes (%FOUND, %NOTFOUND, %ROWCOUNT, %ISOPEN)
+  - Cursor FOR loop
+  - What are records and why use them?
+  - Types of records (table-based, cursor-based, user-defined)
+  - Record operations (assignment, comparison, INSERT, UPDATE, DELETE)
+- PL/SQL Subprograms
+  - What are subprograms and why use them?
+  - Types of subprograms (procedures, functions, packages)
+  - Subprogram parameters (IN, OUT, IN OUT, NOCOPY)
+  - Subprogram overloading and resolution
+  - Subprogram scope and visibility
+  - Subprogram invocation and return
+- PL/SQL Triggers
+  - What are triggers and why use them?
+  - Types of triggers (row, statement, DML, DDL, database, instead-of)
+  - Trigger attributes (OLD, NEW, INSERTING, UPDATING, DELETING)
+  - Trigger restrictions and guidelines
+  - Trigger examples and applications
+- PL/SQL Collections and Dynamic SQL
+  - What are collections and why use them?
+  - Types of collections (associative arrays, nested tables, varrays)
+  - Collection methods (COUNT, EXISTS, EXTEND, TRIM, DELETE, PRIOR, NEXT, FIRST, LAST, LIMIT)
+  - Collection examples and applications
+  - What is dynamic SQL and why use it?
+  - Types of dynamic SQL (EXECUTE IMMEDIATE, OPEN-FOR, OPEN-FOR-USING, DBMS_SQL)
+  - Dynamic SQL examples and applications

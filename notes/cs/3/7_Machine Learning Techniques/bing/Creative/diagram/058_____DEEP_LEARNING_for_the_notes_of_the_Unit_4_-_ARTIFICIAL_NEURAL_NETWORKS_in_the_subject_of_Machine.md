@@ -1,0 +1,13 @@
+### DEEP LEARNING
+
+- Deep learning is a specialized form of machine learning that uses multiple layers of artificial neural networks to learn from large amounts of data  .
+- Deep learning can perform tasks that are natural to humans, such as image recognition, natural language processing, speech recognition, etc. by learning from examples .
+- Deep learning can be supervised, semi-supervised or unsupervised, depending on the availability and quality of the labeled data.
+- Deep learning models can be divided into two categories: feedforward and recurrent. Feedforward models process the input data from the input layer to the output layer without feedback loops, while recurrent models have feedback loops that allow them to process sequential data.
+- Some of the common deep learning architectures are:
+  - Convolutional neural networks (CNNs): These are composed of convolutional layers that apply filters to the input data and extract features. CNNs are widely used for image processing, computer vision, natural language processing, etc.
+  - Recurrent neural networks (RNNs): These are composed of recurrent layers that have memory cells that store the previous state of the network. RNNs are widely used for natural language processing, speech recognition, time series analysis, etc.
+  - Long short-term memory (LSTM) networks: These are a special type of RNNs that have memory cells that can store and forget information over long periods of time. LSTM networks are widely used for natural language processing, speech recognition, machine translation, etc.
+  - Generative adversarial networks (GANs): These are composed of two networks: a generator and a discriminator. The generator tries to produce realistic data that can fool the discriminator, while the discriminator tries to distinguish between real and fake data. GANs are widely used for image generation, image manipulation, image super-resolution, etc.
+  - Transformer networks: These are composed of attention layers that allow the network to focus on the relevant parts of the input and output data. Transformer networks are widely used for natural language processing, machine translation, text summarization, etc.
+- Deep learning has many applications in various domains, such as computer vision, natural language processing, speech recognition, natural language generation, machine translation, text summarization, image generation, image manipulation, image super-resolution, etc.  .

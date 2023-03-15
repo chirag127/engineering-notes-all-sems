@@ -1,0 +1,11 @@
+### Recoverability
+
+Recoverability is the property of a transaction schedule that ensures that the database state is consistent after a system failure or transaction abort. A schedule is recoverable if it does not contain any dirty read, which is a read operation by a transaction on a data item that has been updated by another transaction that has not yet committed. A dirty read may cause the database to be inconsistent if the transaction that performed the update aborts and rolls back its changes, while the transaction that read the updated value commits and makes its changes permanent.
+
+There are different types of recoverable schedules, depending on the order of commit and abort operations of the transactions involved. Some examples are:
+
+- **Cascadeless schedules**: These are schedules in which a transaction reads a data item only after all transactions that have updated it have committed. These schedules avoid cascading aborts, which are a chain of aborts caused by a single transaction abort. Cascadeless schedules are always recoverable, but not all recoverable schedules are cascadeless.
+- **Strict schedules**: These are schedules in which a transaction holds all the locks on the data items it has updated until it commits or aborts. These schedules prevent any other transaction from reading or writing the updated data items until the transaction that updated them has finished. Strict schedules are always cascadeless, but not all cascadeless schedules are strict.
+- **Rigorous schedules**: These are schedules in which a transaction holds all the locks on the data items it has accessed (read or write) until it commits or aborts. These schedules are a subset of strict schedules, and they ensure serializability and recoverability.
+
+To ensure recoverability, a transaction processing system must use some recovery techniques, such as logging, checkpointing, shadow paging, or undo/redo operations. These techniques help the system to restore the database to a consistent state after a failure or abort, by undoing the changes of uncommitted transactions and redoing the changes of committed transactions.

@@ -1,0 +1,9 @@
+### Jackson Structured Development (JSD) for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Jackson Structured Development (JSD) is a method of software development that focuses on the structure and behavior of the system, rather than the data and functions.
+- JSD was developed by Michael A. Jackson in the late 1970s and early 1980s, as an extension of his earlier work on Jackson Structured Programming (JSP).
+- JSD consists of four main phases: entity action modeling, entity structure modeling, initial specification, and implementation.
+- Entity action modeling is the process of identifying the entities (or objects) in the system and their actions (or methods). Entities are the things that exist and persist in the system, such as customers, orders, products, etc. Actions are the events that occur and change the state of the entities, such as placing an order, shipping a product, etc.
+- Entity structure modeling is the process of defining the relationships and attributes of the entities. Relationships are the associations between entities, such as one-to-one, one-to-many, many-to-many, etc. Attributes are the properties or characteristics of the entities, such as name, address, price, quantity, etc.
+- Initial specification is the process of describing the system behavior in terms of action sequences and action diagrams. Action sequences are the ordered lists of actions that occur in the system, such as order processing, inventory management, billing, etc. Action diagrams are the graphical representations of action sequences, using symbols such as circles, arrows, diamonds, etc.
+- Implementation is the process of translating the initial specification into executable code, using a programming language or a software tool. JSD does not prescribe a specific language or tool, but rather provides guidelines and principles for implementation, such as modularity, cohesion, coupling, etc.

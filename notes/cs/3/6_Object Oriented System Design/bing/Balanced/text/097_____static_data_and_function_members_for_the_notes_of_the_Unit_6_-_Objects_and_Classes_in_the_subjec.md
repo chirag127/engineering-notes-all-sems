@@ -1,0 +1,6 @@
+### Static Data and Function Members
+
+- Static data members are class variables that are shared by all objects of the class. They are declared with the `static` keyword inside the class definition, but outside any member function. They are initialized outside the class definition, usually in a source file.
+- Static function members are class functions that can access static data members or other static function members. They are also declared with the `static` keyword inside the class definition, but outside any member function. They can be called using the class name or an object of the class.
+- Static data and function members are useful for implementing class-wide properties or behaviors that do not depend on individual objects. For example, a class that represents a counter can have a static data member that stores the total number of counters created, and a static function member that returns this value.
+- Static data and function members have some limitations and differences from non-static ones. For example, static data members cannot be initialized inside the class definition, static function members cannot access non-static data members or non-static function members, and static function members cannot be virtual or const.

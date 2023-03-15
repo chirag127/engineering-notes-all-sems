@@ -1,0 +1,13 @@
+### Component for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using the Unified Modeling Language (UML).
+- UML is a graphical notation that supports object-oriented analysis and design, and consists of various diagrams that represent different aspects of a system.
+- The main components of basic structural modeling are:
+  - Classes: A class is a blueprint or template that defines the attributes and behaviors of a set of objects that share common characteristics. A class is represented by a rectangle with the class name at the top, followed by the attributes and operations sections.
+  - Objects: An object is an instance or occurrence of a class that has a specific state and identity. An object is represented by an underlined name, optionally followed by the class name in parentheses.
+  - Associations: An association is a relationship between two or more classes that indicates how they are connected or related. An association is represented by a line connecting the classes, optionally labeled with a name, role, multiplicity, and direction.
+  - Aggregation: An aggregation is a special type of association that represents a whole-part relationship, where the whole can exist without the part, but the part cannot exist without the whole. An aggregation is represented by a line with a hollow diamond at the end of the whole.
+  - Composition: A composition is a stronger form of aggregation that represents a whole-part relationship, where the whole and the part have the same lifetime, and the part cannot belong to more than one whole. A composition is represented by a line with a solid diamond at the end of the whole.
+  - Generalization: A generalization is a relationship between a more general class (superclass) and a more specific class (subclass) that indicates that the subclass inherits the attributes and behaviors of the superclass. A generalization is represented by a line with a hollow triangle at the end of the superclass.
+  - Realization: A realization is a relationship between a specification (interface) and an implementation (class) that indicates that the class conforms to the contract defined by the interface. A realization is represented by a dashed line with a hollow triangle at the end of the interface.
+  - Dependency: A dependency is a relationship between two elements that indicates that a change in one element may affect the other element. A dependency is represented by a dashed line with an open arrow at the end of the dependent element.

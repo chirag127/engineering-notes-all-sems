@@ -1,0 +1,8 @@
+### Single Layer Artificial Neural Network
+
+- A single layer artificial neural network is a type of neural network that has just one layer between the input and output layers. This type of neural network is also known as a perceptron .
+- A perceptron can be used to perform binary classification tasks, such as predicting whether an email is spam or not, or whether a tumor is benign or malignant.
+- A perceptron consists of a set of input nodes, each with a corresponding weight, a bias term, an activation function, and an output node  .
+- The input nodes receive the features of the data, such as the words in an email or the size of a tumor. The weights are the parameters that determine how much each input contributes to the output. The bias term is a constant that shifts the output. The activation function is a nonlinear function that maps the weighted sum of the inputs and the bias to the output. The output node produces the final prediction, usually 0 or 1  .
+- The perceptron can be trained using a learning algorithm, such as the gradient descent algorithm, that updates the weights and the bias based on the error between the predicted output and the actual output. The goal is to minimize the error and make the perceptron learn the optimal decision boundary that separates the classes  .
+- A single layer neural network has some limitations, such as the inability to learn complex nonlinear patterns or to solve problems that are not linearly separable, such as the XOR problem. To overcome these limitations, multiple layers of neurons can be stacked together to form a multilayer neural network or a deep neural network.

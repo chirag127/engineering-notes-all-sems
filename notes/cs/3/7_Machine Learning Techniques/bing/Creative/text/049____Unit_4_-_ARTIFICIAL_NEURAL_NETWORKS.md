@@ -1,0 +1,8 @@
+## Unit 4 - ARTIFICIAL NEURAL NETWORKS
+
+- Artificial neural networks (ANNs) are **computational models** inspired by the **biological neural networks** that constitute animal brains.
+- ANNs are composed of **nodes** or **artificial neurons** that are connected by **weights** and have **thresholds**. Each node can receive inputs from other nodes and produce an output based on a **nonlinear activation function** .
+- ANNs can **learn** from data by **adjusting** the weights and thresholds of the nodes through a process called **training**. Training involves presenting a set of **inputs** and **desired outputs** to the network and using a **learning algorithm** to minimize the **error** between the actual and desired outputs .
+- ANNs can be used to **approximate functions** that are generally unknown or complex, such as **classification**, **regression**, **clustering**, **pattern recognition**, **optimization**, **control**, **forecasting**, etc .
+- ANNs can have different **architectures** or **topologies**, depending on the number and arrangement of the nodes and layers. Some common types of ANNs are **feedforward neural networks**, **recurrent neural networks**, **convolutional neural networks**, **deep neural networks**, etc .
+- ANNs are a subset of **machine learning** and are at the heart of **deep learning** algorithms. Deep learning is a branch of machine learning that uses ANNs with multiple **hidden layers** to learn from large and complex data sets .

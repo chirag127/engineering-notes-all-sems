@@ -1,0 +1,32 @@
+# Training of network for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- Artificial neural networks (ANNs) are computational models inspired by the structure and function of biological neurons.
+- ANNs consist of interconnected nodes or units that process and transmit information.
+- ANNs can learn from data and perform tasks such as classification, regression, clustering, dimensionality reduction, etc.
+- Training an ANN involves adjusting the weights of the connections between the nodes to minimize a loss function that measures the difference between the actual and desired outputs of the network.
+- Training an ANN requires the following steps :
+  - Initialize the weights of the network randomly or using some heuristic method.
+  - Split the data set into batches of a fixed size (batch size).
+  - For each batch, perform the following sub-steps:
+    - Feed the input data to the network and compute the output using a forward pass algorithm.
+    - Compare the output of the network with the expected output (target) and calculate the loss function.
+    - Backpropagate the error signal from the output layer to the input layer using a backward pass algorithm and update the weights using a learning rule (such as gradient descent, momentum, etc.).
+  - Repeat the above steps until the loss function reaches a minimum value or a maximum number of iterations is reached.
+- Some factors that affect the training of an ANN are :
+  - The architecture of the network (number of layers, number of nodes, activation functions, etc.).
+  - The choice of the loss function (such as mean squared error, cross-entropy, etc.).
+  - The choice of the learning rule (such as gradient descent, stochastic gradient descent, Adam, etc.).
+  - The choice of the learning rate (the step size for updating the weights).
+  - The choice of the batch size (the number of data points used for each weight update).
+  - The choice of the regularization method (such as dropout, weight decay, etc.).
+  - The choice of the initialization method (such as Xavier, He, etc.).
+  - The choice of the optimization method (such as early stopping, learning rate decay, etc.).
+- Some applications of ANNs are :
+  - Image recognition and classification (such as face detection, object detection, etc.).
+  - Natural language processing (such as machine translation, sentiment analysis, etc.).
+  - Speech recognition and synthesis (such as voice assistants, text-to-speech, etc.).
+  - Computer vision (such as scene understanding, depth estimation, etc.).
+  - Bioinformatics (such as gene expression analysis, protein structure prediction, etc.).
+  - Medical diagnosis (such as cancer detection, disease prediction, etc.).
+  - Recommender systems (such as product recommendation, content recommendation, etc.).
+  - Gaming and robotics (such as chess, Go, self-driving cars, etc.).

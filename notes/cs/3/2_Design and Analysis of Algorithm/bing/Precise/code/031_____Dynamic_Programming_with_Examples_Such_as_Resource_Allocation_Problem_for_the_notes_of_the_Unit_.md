@@ -1,0 +1,11 @@
+### Dynamic Programming with Examples Such as Resource Allocation Problem
+
+Dynamic programming is a method for solving complex problems by breaking them down into smaller, simpler subproblems. It is applicable to problems that exhibit the properties of overlapping subproblems and optimal substructure. When a problem can be divided into subproblems that are smaller instances of the same problem, and the solution to the problem can be constructed from the solutions to the subproblems, dynamic programming can be used to find the optimal solution.
+
+One example of a problem that can be solved using dynamic programming is the resource allocation problem. In this problem, a set of resources must be allocated among a set of activities in such a way as to maximize the total benefit. The problem can be formulated as a linear program, and dynamic programming can be used to find the optimal solution.
+
+The basic idea behind dynamic programming is to store the solutions to the subproblems in a table, so that they can be reused when solving larger problems. This can greatly reduce the time required to find the optimal solution, as the same subproblems do not need to be solved multiple times.
+
+In the resource allocation problem, the dynamic programming approach involves defining a function that represents the maximum benefit that can be obtained by allocating a certain amount of resources to a certain number of activities. This function can be computed recursively, by considering the benefit that can be obtained by allocating resources to the current activity, and the benefit that can be obtained by not allocating resources to the current activity. The maximum of these two values is the optimal solution.
+
+Overall, dynamic programming is a powerful technique that can be used to solve a wide range of problems, including the resource allocation problem. By breaking the problem down into smaller subproblems and storing the solutions to these subproblems, dynamic programming can greatly reduce the time required to find the optimal solution.

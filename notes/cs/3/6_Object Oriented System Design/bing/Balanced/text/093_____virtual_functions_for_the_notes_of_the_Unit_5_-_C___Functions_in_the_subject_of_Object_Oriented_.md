@@ -1,0 +1,9 @@
+### Virtual Functions in C++
+
+- A virtual function is a member function of a class that can be redefined in a derived class using the same signature and return type.
+- A virtual function is declared using the `virtual` keyword in the base class.
+- A virtual function allows the compiler to perform dynamic binding or late binding, which means the function call is resolved at run time based on the type of the object pointed by the base class pointer.
+- A virtual function is used to achieve runtime polymorphism, which is the ability of an object to behave differently depending on its actual type.
+- A virtual function can be overridden in a derived class using the same name and signature as the base class function. Optionally, the `override` keyword can be used to indicate that the function is overriding a virtual function from the base class.
+- A virtual function can be pure or impure. A pure virtual function is declared with a `= 0` at the end of its declaration, and it has no definition in the base class. A pure virtual function makes the base class abstract, which means it cannot be instantiated. A derived class must override all the pure virtual functions of the base class to be concrete, which means it can be instantiated. An impure virtual function has a definition in the base class, which can be called using the scope resolution operator `::` or using a base class pointer or reference.
+- A virtual function can be called using a base class pointer or reference that points or refers to a derived class object. The compiler will determine the actual type of the object at run time and call the appropriate function definition. If the function is not virtual, the compiler will perform static binding or early binding, which means the function call is resolved at compile time based on the type of the pointer or reference. This will call the base class function even if the pointer or reference points or refers to a derived class object.

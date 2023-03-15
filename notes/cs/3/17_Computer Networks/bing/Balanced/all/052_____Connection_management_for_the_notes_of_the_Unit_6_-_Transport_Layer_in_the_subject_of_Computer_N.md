@@ -1,0 +1,26 @@
+# Connection management for the transport layer
+
+- The transport layer is the fourth layer of the OSI reference model that provides end-to-end communication services for applications.
+- The transport layer is responsible for the process-to-process delivery of the entire message, which may involve segmenting, reassembling, multiplexing, and demultiplexing data from different applications.
+- The transport layer also provides various services such as reliability, flow control, congestion control, error detection, and error correction to ensure the quality of data transmission.
+- The transport layer protocols are implemented in the end systems but not in the network routers. Some examples of transport layer protocols are TCP, UDP, and SCTP.
+- Connection management is the process of establishing, maintaining, and terminating a logical connection between two or more processes that communicate using the transport layer.
+- Connection management involves three phases: connection establishment, data transfer, and connection termination.
+- Connection establishment is the phase where the two processes agree on the parameters and rules for the data exchange, such as the port numbers, sequence numbers, window sizes, and checksum methods.
+- Connection establishment can be either active or passive. An active open is initiated by the process that wants to send data, while a passive open is performed by the process that waits for incoming connections.
+- Connection establishment can also be either symmetric or asymmetric. A symmetric connection is bidirectional, meaning that both processes can send and receive data. An asymmetric connection is unidirectional, meaning that only one process can send data and the other can only receive data.
+- Connection establishment can also be either reliable or unreliable. A reliable connection guarantees that the data will be delivered in order and without errors, while an unreliable connection does not provide any guarantees.
+- Connection establishment can also be either connection-oriented or connectionless. A connection-oriented connection requires a handshake between the processes before data transfer, while a connectionless connection does not require any prior agreement.
+- TCP is an example of a reliable, connection-oriented, and symmetric transport layer protocol that uses a three-way handshake to establish a connection. UDP is an example of an unreliable, connectionless, and symmetric transport layer protocol that does not use any connection establishment mechanism.
+- Data transfer is the phase where the two processes exchange data using the agreed parameters and rules. Data transfer can involve segmenting, reassembling, multiplexing, and demultiplexing data from different applications.
+- Data transfer can also involve various mechanisms to ensure the quality of data transmission, such as reliability, flow control, congestion control, error detection, and error correction.
+- Reliability is the ability of the transport layer to ensure that the data is delivered in order and without errors. Reliability can be achieved by using sequence numbers, acknowledgments, timers, and retransmissions.
+- Flow control is the ability of the transport layer to regulate the rate of data transmission between the sender and the receiver. Flow control can be achieved by using window-based or rate-based methods.
+- Congestion control is the ability of the transport layer to prevent or reduce network congestion by adjusting the rate of data transmission according to the network conditions. Congestion control can be achieved by using various algorithms, such as AIMD, slow start, fast retransmit, and fast recovery.
+- Error detection is the ability of the transport layer to detect errors in the data segments. Error detection can be achieved by using checksums, CRC, or parity bits.
+- Error correction is the ability of the transport layer to correct errors in the data segments. Error correction can be achieved by using retransmissions, forward error correction, or error recovery codes.
+- TCP is an example of a transport layer protocol that provides reliability, flow control, congestion control, error detection, and error correction. UDP is an example of a transport layer protocol that does not provide any of these mechanisms.
+- Connection termination is the phase where the two processes agree to end the connection and release the resources. Connection termination can be either active or passive. An active close is initiated by the process that wants to end the connection, while a passive close is performed by the process that waits for the other process to end the connection.
+- Connection termination can also be either symmetric or asymmetric. A symmetric connection is terminated by a mutual agreement between the processes, while an asymmetric connection is terminated by a unilateral decision of one process.
+- Connection termination can also be either graceful or abrupt. A graceful connection termination ensures that all the data is delivered before the connection is closed, while an abrupt connection termination does not ensure any data delivery.
+- TCP is an example of a transport layer protocol that uses a four-way handshake to terminate a connection gracefully. UDP is an example of a transport layer protocol that does

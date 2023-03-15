@@ -1,0 +1,13 @@
+### Evolution of Analytic Scalability
+
+- Analytic scalability refers to the ability to handle large and complex data sets for analysis purposes.
+- Analytic scalability has evolved over time as the volume, variety, and velocity of data have increased and the demand for faster and deeper insights has grown.
+- Some of the key milestones in the evolution of analytic scalability are:
+
+  - The convergence of the analytic and data environments: This involves bringing the analytics closer to the data, rather than moving the data to a separate analytics platform. This reduces the data movement, latency, and complexity involved in analytics. Examples of this approach are in-database analytics, in-memory analytics, and in-stream analytics   .
+  - The adoption of massively parallel processing (MPP) architectures: These are systems that use multiple processors or nodes to perform parallel processing of data. This enables faster and more scalable analytics, as well as the ability to handle structured and unstructured data. Examples of this approach are data warehouse appliances, columnar databases, and NoSQL databases   .
+  - The emergence of the cloud: This is the delivery of computing resources and services over the internet, rather than on-premise. This offers greater flexibility, scalability, and cost-effectiveness for analytics, as well as the ability to access and integrate data from various sources. Examples of this approach are cloud-based data warehouses, data lakes, and analytics platforms   .
+  - The development of grid computing: This is the use of a network of distributed computers to share and coordinate resources and tasks. This allows for parallel and distributed processing of data, as well as load balancing and fault tolerance. Examples of this approach are grid-based data mining, distributed file systems, and distributed databases   .
+  - The introduction of MapReduce: This is a programming model and framework for processing large and complex data sets in a parallel and distributed manner. It consists of two phases: map, which applies a function to each data element and produces intermediate key-value pairs; and reduce, which aggregates the intermediate values based on the keys and produces the final output. Examples of this approach are Hadoop, Spark, and Hive   .
+
+- These paradigms have enabled greater scalability and performance for analytics, as well as the ability to handle diverse and dynamic data sources and types. They have also opened up new possibilities and challenges for data analytics, such as big data, streaming data, and machine learning.

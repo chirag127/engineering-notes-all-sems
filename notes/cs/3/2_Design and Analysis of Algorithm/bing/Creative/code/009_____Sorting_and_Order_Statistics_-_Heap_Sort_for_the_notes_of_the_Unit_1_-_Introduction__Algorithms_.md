@@ -1,0 +1,11 @@
+### Sorting and Order Statistics - Heap Sort
+
+- Heap sort is a comparison-based sorting algorithm that uses a binary heap data structure to sort a given array of elements.
+- A binary heap is a complete binary tree that satisfies the heap property: the value of each node is greater than or equal to the values of its children (max-heap) or less than or equal to the values of its children (min-heap).
+- Heap sort consists of two phases: building a heap from the input array and extracting the maximum (or minimum) element from the heap and placing it at the end of the sorted output array.
+- To build a heap from an array, heap sort uses a bottom-up approach that starts from the last non-leaf node and moves up to the root, applying a procedure called max-heapify (or min-heapify) to each node. Max-heapify ensures that the subtree rooted at a given node is a max-heap by swapping the node with its largest child if necessary and recursing on the affected child.
+- To extract the maximum (or minimum) element from the heap, heap sort swaps the root of the heap with the last element of the heap, reduces the heap size by one, and applies max-heapify (or min-heapify) to the new root. This process is repeated until the heap size becomes one, which means the array is sorted.
+- Heap sort has a worst-case time complexity of O(n log n), where n is the number of elements in the array. This is because building a heap takes O(n) time and extracting each element from the heap takes O(log n) time.
+- Heap sort is an in-place sorting algorithm, meaning it does not require extra space to sort the array, except for a constant number of variables to store the heap size and indices.
+- Heap sort is not a stable sorting algorithm, meaning it does not preserve the relative order of equal elements in the array.
+- Heap sort is suitable for sorting large data sets that do not fit in memory, as it can be implemented using external memory such as disks or tapes. It is also useful for implementing priority queues, which are data structures that support efficient insertion and deletion of the highest (or lowest) priority element.

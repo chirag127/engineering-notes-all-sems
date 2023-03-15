@@ -1,0 +1,14 @@
+# Divide and Conquer with Examples
+
+Divide and conquer is a powerful algorithm design technique that can solve many problems efficiently. The basic idea is to break a large problem into smaller subproblems that are easier to solve, and then combine the solutions of the subproblems to obtain the solution of the original problem. The following are the three main steps of a divide and conquer algorithm:
+
+- **Divide**: This involves dividing the problem into smaller subproblems that are similar to the original problem but smaller in size.
+- **Conquer**: Solve the subproblems by calling the algorithm recursively until they are small enough to be solved directly.
+- **Combine**: Combine the solutions of the subproblems to get the final solution of the whole problem.
+
+Some examples of problems that can be solved using divide and conquer are:
+
+- **Sorting**: Sorting is the process of arranging a collection of items in a certain order. There are many sorting algorithms that use divide and conquer, such as merge sort, quicksort, and heap sort. These algorithms divide the input array into two or more subarrays, sort them recursively, and then merge or combine them to get the sorted array.
+- **Matrix multiplication**: Matrix multiplication is the operation of multiplying two matrices to get a third matrix. A naive algorithm to multiply two n x n matrices takes O(n^3) time by using three nested loops. However, using divide and conquer, we can reduce the time complexity to O(n^2.8074) by using Strassen's algorithm, which divides each matrix into four submatrices of size n/2 x n/2, and then recursively multiplies them using only seven multiplications instead of eight.
+- **Convex hull**: Convex hull is the smallest convex polygon that contains a set of points in a plane. A convex polygon is a polygon that has no interior angles greater than 180 degrees. A naive algorithm to find the convex hull of n points takes O(n^3) time by checking all possible combinations of three points. However, using divide and conquer, we can reduce the time complexity to O(n log n) by using Graham's scan algorithm, which divides the points into two subsets by a vertical line, finds the convex hull of each subset recursively, and then merges them to get the final convex hull.
+- **Searching**: Searching is the process of finding a specific item or element in a collection of items. There are many searching algorithms that use divide and conquer, such as binary search, interpolation search, and exponential search. These algorithms divide the search space into two or more subspaces, and then recursively search in the subspace that may contain the target item.

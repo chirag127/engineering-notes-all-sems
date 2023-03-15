@@ -1,0 +1,13 @@
+### Data Independence
+
+Data independence is the property of a database management system (DBMS) that allows the database schema to be changed without affecting the user applications that access the data. Data independence helps to maintain the consistency and integrity of the data, and to reduce the complexity and cost of developing and maintaining the applications.
+
+Data independence is of two types:
+
+- **Physical data independence**: This is the ability to modify the physical schema of the database without affecting the logical schema or the external schema. The physical schema defines how the data is stored, organized, and accessed on the physical storage devices. Examples of physical schema changes are adding or removing indexes, changing the file structure or storage method, or altering the compression or encryption techniques. Physical data independence is present in most databases and file environments, as the hardware details and storage methods are hidden from the users.  
+
+- **Logical data independence**: This is the ability to modify the logical schema of the database without affecting the external schema or the user applications. The logical schema defines the structure and relationships of the data, such as tables, columns, keys, and constraints. Examples of logical schema changes are adding or removing tables, columns, or constraints, changing the data type or domain of a column, or altering the primary key or foreign key of a table. Logical data independence is more difficult to achieve than physical data independence, as the user applications may depend on the logical structure and meaning of the data.  
+
+- **View level data independence**: This is the ability to modify the external schema of the database without affecting the user applications. The external schema defines the views or subsets of the data that are available to different users or applications. Examples of external schema changes are adding or removing views, changing the attributes or conditions of a view, or altering the access rights or privileges of a view. View level data independence is also challenging to achieve, as the user applications may depend on the content and format of the views. 
+
+Data independence is achieved by using a three-level architecture for the database, which separates the physical, logical, and external levels of abstraction. The data definition language (DDL) is used to define the schemas at each level, and the data manipulation language (DML) is used to access and manipulate the data. The DBMS provides a data dictionary or catalog that stores the metadata or information about the schemas, and a mapping mechanism that translates the requests and responses between different levels.

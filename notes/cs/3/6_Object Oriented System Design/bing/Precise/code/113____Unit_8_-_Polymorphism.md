@@ -1,0 +1,10 @@
+## Unit 8 - Polymorphism
+
+Polymorphism is one of the four fundamental principles of Object-Oriented Programming (OOP), along with encapsulation, inheritance, and abstraction. Polymorphism allows objects of different classes to be treated as objects of a common superclass.
+
+1. **Definition**: Polymorphism is derived from two Greek words, 'poly' meaning many and 'morph' meaning forms. In programming, it refers to the ability of a variable, function, or object to take on multiple forms.
+2. **Types of Polymorphism**: There are two main types of polymorphism in OOP: compile-time polymorphism (also known as static or early binding) and runtime polymorphism (also known as dynamic or late binding).
+    - **Compile-time Polymorphism**: This type of polymorphism is achieved through function overloading and operator overloading. Function overloading allows multiple functions with the same name but different signatures (i.e., different number or types of parameters) to coexist in the same scope. Operator overloading allows operators to have different behaviors depending on their operands.
+    - **Runtime Polymorphism**: This type of polymorphism is achieved through method overriding and virtual functions. Method overriding allows a subclass to provide a specific implementation of a method that is already defined in its superclass. Virtual functions are functions that can be overridden in derived classes and are resolved at runtime.
+3. **Benefits of Polymorphism**: Polymorphism provides several benefits, including code reusability, flexibility, and maintainability. It allows for the creation of more generic and reusable code, as well as the ability to easily extend and modify existing code without having to change large portions of it.
+4. **Polymorphism in Practice**: Polymorphism is commonly used in practice to create more flexible and extensible code. For example, a common use case is to create an array of objects of a superclass and then populate it with objects of various subclasses. This allows for the creation of more generic code that can handle objects of different types in a uniform manner.

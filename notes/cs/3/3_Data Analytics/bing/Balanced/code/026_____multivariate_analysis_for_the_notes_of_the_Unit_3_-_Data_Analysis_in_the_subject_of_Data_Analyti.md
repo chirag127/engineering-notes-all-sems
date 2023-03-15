@@ -1,0 +1,16 @@
+### Multivariate Analysis
+
+Multivariate analysis (MVA) is a method of analyzing data that involves more than two variables at the same time. It is used to find patterns, relationships, and effects among the variables and to understand their structures. MVA can be divided into two types: dependent methods and interdependent methods.
+
+- Dependent methods are used when there is one or more dependent variables that are influenced by one or more independent variables. The goal is to test hypotheses, predict outcomes, or explain causes and effects. Some examples of dependent methods are:
+
+  - Multivariate analysis of variance (MANOVA): It extends the analysis of variance (ANOVA) to cover cases where there is more than one dependent variable and the effect of one or more independent variables on them is examined. It can also test for interactions among the independent variables and the dependent variables.
+  - Multivariate regression: It extends the linear regression to cover cases where there is more than one dependent variable and one or more independent variables. It can also handle nonlinear relationships and multiple predictors. It can be used to estimate the coefficients, test the significance, and assess the fit of the model.
+  - Discriminant analysis: It is used to classify observations into two or more groups based on one or more independent variables. It can also determine which variables are the most important for distinguishing the groups and how well the classification model performs.
+  - Canonical correlation analysis: It is used to measure the linear relationship between two sets of variables, each containing more than one variable. It can also identify the linear combinations of variables that have the highest correlation and test the significance of the correlation.
+
+- Interdependent methods are used when there is no distinction between dependent and independent variables. The goal is to explore the data, reduce the dimensionality, or cluster the observations. Some examples of interdependent methods are:
+
+  - Principal component analysis (PCA): It is used to transform a set of correlated variables into a smaller set of uncorrelated variables called principal components. The principal components capture the maximum amount of variation in the data and can be used for data compression, visualization, or feature extraction.
+  - Factor analysis: It is similar to PCA, but it assumes that the variables are influenced by some underlying factors that are not directly observable. The factors can be interpreted as latent variables that represent the common themes or dimensions in the data. Factor analysis can be used for data reduction, structure detection, or hypothesis testing.
+  - Cluster analysis: It is used to group observations into clusters based on their similarity or dissimilarity. The clusters can be hierarchical or non-hierarchical, and the similarity or dissimilarity can be measured by different methods. Cluster analysis can be used for data segmentation, classification, or pattern recognition.

@@ -1,0 +1,21 @@
+## Unit 4 - Mining Data Streams
+
+- A data stream is a sequence of data items that arrives continuously and rapidly, such as sensor readings, web clicks, tweets, etc.
+- Mining data streams poses several challenges, such as:
+  - The data is unbounded and potentially infinite, so it cannot be stored or processed in its entirety.
+  - The data is transient and volatile, so it may not be available for future access or analysis.
+  - The data is noisy and uncertain, so it may contain errors, outliers, or missing values.
+  - The data is heterogeneous and evolving, so it may have different formats, sources, or distributions over time.
+- To address these challenges, some techniques and methods for mining data streams are:
+  - Sampling: selecting a representative subset of the data stream to reduce its size and complexity, while preserving its essential characteristics and statistics.
+  - Sketching: summarizing the data stream using compact data structures that support efficient queries and operations, such as count-min sketches, bloom filters, etc.
+  - Sliding windows: dividing the data stream into fixed or variable-sized segments that capture the recent or relevant data, and discarding the older or irrelevant data.
+  - Landmarks: marking certain points or events in the data stream as reference points for measuring or comparing the data, such as timestamps, thresholds, etc.
+  - Synopsis: extracting the key features or patterns from the data stream, such as frequent items, clusters, outliers, etc.
+  - Online learning: updating the models or parameters for the data stream incrementally and adaptively, using techniques such as stochastic gradient descent, online k-means, etc.
+- Some applications and tasks for mining data streams are:
+  - Anomaly detection: identifying unusual or suspicious data items or patterns in the data stream, such as fraud, intrusion, or fault detection.
+  - Classification: assigning labels or categories to the data items in the data stream, such as spam filtering, sentiment analysis, or activity recognition.
+  - Clustering: grouping the data items in the data stream based on their similarity or proximity, such as customer segmentation, topic modeling, or social network analysis.
+  - Association rule mining: discovering the co-occurrence or correlation of the data items in the data stream, such as market basket analysis, recommender systems, or web mining.
+  - Regression: estimating the relationship or function between the data items or variables in the data stream, such as prediction, forecasting, or optimization.

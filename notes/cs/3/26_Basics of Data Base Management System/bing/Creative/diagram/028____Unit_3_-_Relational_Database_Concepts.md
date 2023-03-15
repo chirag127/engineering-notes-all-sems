@@ -1,0 +1,27 @@
+## Unit 3 - Relational Database Concepts
+
+- A relational database is a collection of data organized into tables, where each table consists of rows (records) and columns (attributes).
+- A primary key is a column or a combination of columns that uniquely identifies each row in a table.
+- A foreign key is a column or a combination of columns that references a primary key in another table, to establish a relationship between the tables.
+- A relationship is a logical association between two or more tables, based on a common attribute or a foreign key.
+- There are three types of relationships: one-to-one, one-to-many, and many-to-many.
+- A one-to-one relationship occurs when each row in one table is related to exactly one row in another table.
+- A one-to-many relationship occurs when each row in one table is related to zero or more rows in another table, and each row in the second table is related to exactly one row in the first table.
+- A many-to-many relationship occurs when each row in one table is related to zero or more rows in another table, and each row in the second table is related to zero or more rows in the first table.
+- A many-to-many relationship requires a third table, called a junction table or an associative table, to store the combinations of primary keys from the two related tables.
+- A relational schema is a graphical representation of the structure and relationships of a relational database, using symbols and notation to indicate the tables, columns, keys, and relationships.
+- An entity-relationship (ER) diagram is a type of relational schema that uses rectangles to represent tables (entities), ovals to represent columns (attributes), diamonds to represent relationships, and lines to connect them.
+- A crow's foot notation is a type of ER diagram that uses symbols at the ends of the lines to indicate the cardinality of the relationships, such as one, many, or optional.
+- A relational model is a set of rules and constraints that define how data is stored and manipulated in a relational database, such as the integrity rules, the relational algebra, and the relational calculus.
+- The integrity rules are the conditions that ensure the validity and consistency of the data in a relational database, such as the entity integrity rule, the referential integrity rule, and the domain integrity rule.
+- The entity integrity rule states that no primary key value can be null or duplicated in a table.
+- The referential integrity rule states that any foreign key value in a table must either match a primary key value in the related table, or be null.
+- The domain integrity rule states that each column in a table must have a defined data type, range, and format, and any constraints or default values.
+- The relational algebra is a set of operators that can be applied to one or more tables to perform various operations, such as selection, projection, join, union, intersection, difference, and division.
+- The relational calculus is a declarative language that can be used to specify the desired result of a query, without specifying how to obtain it, using variables, predicates, and quantifiers.
+- A query is a request to retrieve or manipulate data from a relational database, using a query language, such as SQL (Structured Query Language).
+- SQL is a standard language that can be used to perform various tasks on a relational database, such as creating tables, inserting data, updating data, deleting data, and querying data.
+- SQL has three main components: the Data Definition Language (DDL), the Data Manipulation Language (DML), and the Data Query Language (DQL).
+- The DDL is used to define the structure and schema of the database, using commands such as CREATE, ALTER, and DROP.
+- The DML is used to manipulate the data in the database, using commands such as INSERT, UPDATE, and DELETE.
+- The DQL is used to query the data in the database, using commands such as SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY.

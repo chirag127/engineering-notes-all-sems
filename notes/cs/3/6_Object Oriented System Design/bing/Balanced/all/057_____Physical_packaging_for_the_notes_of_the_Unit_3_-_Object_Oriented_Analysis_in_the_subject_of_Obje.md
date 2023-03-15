@@ -1,0 +1,25 @@
+# Physical packaging for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Physical packaging is the process of organizing the classes and objects identified in the object-oriented analysis phase into discrete units that can be edited, compiled, imported, or otherwise manipulated .
+- Physical packaging helps to manage the complexity of the system, improve the reusability of the classes and objects, and facilitate the collaboration among the developers.
+- Physical packaging can be done at different levels of granularity, depending on the programming language and the design methodology used .
+- Some examples of physical packaging units are:
+  - Source files in C and Fortran
+  - Packages in Ada
+  - Modules in Modula-2
+  - Classes in Smalltalk
+  - Namespaces in C++
+  - Packages in Java
+  - Assemblies in C#
+- Physical packaging can be represented by using package diagrams, which show the dependencies and relationships among the packages .
+- Package diagrams can also show the visibility and accessibility of the classes and objects within and across the packages .
+- Package diagrams can be used to model the logical structure of the system, as well as the physical deployment of the system on different nodes .
+- Some guidelines for effective physical packaging are :
+  - Group related classes and objects into cohesive packages
+  - Minimize the coupling between the packages
+  - Avoid circular dependencies among the packages
+  - Use consistent naming conventions for the packages
+  - Document the purpose and contents of each package
+  - Use subpackages to organize large packages
+  - Use interfaces to define the contracts between the packages
+  - Use version control and configuration management tools to manage the packages

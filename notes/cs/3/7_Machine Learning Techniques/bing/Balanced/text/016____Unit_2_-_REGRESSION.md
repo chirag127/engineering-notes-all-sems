@@ -1,0 +1,15 @@
+## Unit 2 - REGRESSION
+
+- Regression is a statistical method that aims to model the relationship between a dependent variable (also called the response or outcome variable) and one or more independent variables (also called the predictors or explanatory variables).
+- Regression can be used for various purposes, such as describing how the dependent variable changes with the independent variables, testing hypotheses about the effects of the independent variables, predicting the value of the dependent variable for new observations, or estimating the optimal value of the independent variable to achieve a desired outcome.
+- There are different types of regression models, depending on the nature and number of the independent variables, the shape of the relationship, and the distribution of the dependent variable. Some common types of regression models are:
+  - Linear regression: assumes a linear relationship between the dependent variable and the independent variables, and that the dependent variable is normally distributed. It can be simple (one independent variable) or multiple (more than one independent variable).
+  - Logistic regression: assumes a logistic (S-shaped) relationship between the dependent variable and the independent variables, and that the dependent variable is binary (0 or 1). It can be used to model the probability of an event occurring or not.
+  - Polynomial regression: assumes a polynomial (curved) relationship between the dependent variable and the independent variables, and that the dependent variable is normally distributed. It can be used to model nonlinear phenomena, such as growth or decay.
+  - Cox regression: assumes a proportional hazards relationship between the dependent variable and the independent variables, and that the dependent variable is the time until an event occurs. It can be used to model the survival or failure rate of subjects over time.
+- To perform a regression analysis, one needs to specify the regression model, estimate the parameters of the model, assess the goodness of fit of the model, and interpret the results. Some common steps are:
+  - Choose the type of regression model that best suits the data and the research question.
+  - Define the dependent variable and the independent variables, and check for any outliers, missing values, multicollinearity, or nonlinearity in the data.
+  - Fit the regression model using an appropriate method, such as the least squares method, the maximum likelihood method, or the Bayesian method, and obtain the estimates of the parameters, such as the intercept, the slope, or the coefficients.
+  - Evaluate the goodness of fit of the regression model using various criteria, such as the coefficient of determination (R-squared), the residual analysis, the standard error of the estimate, the confidence intervals, or the hypothesis tests.
+  - Interpret the results of the regression model in terms of the research question, such as the direction, magnitude, and significance of the effects of the independent variables, the predicted values of the dependent variable, or the optimal values of the independent variables.

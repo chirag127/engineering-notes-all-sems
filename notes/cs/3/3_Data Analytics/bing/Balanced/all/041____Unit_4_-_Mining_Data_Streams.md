@@ -1,0 +1,22 @@
+## Unit 4 - Mining Data Streams
+
+- A data stream is a sequence of data items that arrives continuously and rapidly, such as sensor readings, web clicks, tweets, etc.
+- Mining data streams poses several challenges, such as:
+  - The data is unbounded and potentially infinite, so it cannot be stored or processed in its entirety.
+  - The data is transient and volatile, so it may not be available for future access or analysis.
+  - The data is noisy and uncertain, so it may contain errors, outliers, or missing values.
+  - The data is heterogeneous and evolving, so it may have different formats, sources, or distributions over time.
+- To address these challenges, some techniques and methods for mining data streams are:
+  - Sampling: selecting a representative subset of the data stream to reduce its size and complexity, while preserving its essential characteristics and statistics.
+  - Sketching: summarizing the data stream using compact data structures that support efficient queries and operations, such as count-min sketch, bloom filter, hyperloglog, etc.
+  - Sliding window: maintaining the most recent portion of the data stream that is relevant for the analysis, and discarding the older data that is obsolete or redundant.
+  - Landmark window: dividing the data stream into segments based on fixed time intervals or events, and analyzing each segment separately or in combination.
+  - Decaying window: assigning different weights to the data items based on their recency or importance, and giving more preference to the newer or more significant data.
+  - Algorithmic techniques: designing algorithms that can process the data stream in a single pass or a few passes, using limited memory and time, and producing approximate or probabilistic results, such as streaming algorithms, online algorithms, randomized algorithms, etc.
+- Some applications and tasks for mining data streams are:
+  - Clustering: grouping similar data items into clusters based on their features or distances, such as k-means, DBSCAN, BIRCH, etc.
+  - Classification: assigning labels or categories to data items based on their features or rules, such as decision trees, naive Bayes, support vector machines, etc.
+  - Regression: predicting numerical values or trends for data items based on their features or functions, such as linear regression, logistic regression, polynomial regression, etc.
+  - Outlier detection: identifying data items that deviate significantly from the normal or expected behavior, such as distance-based, density-based, or subspace-based methods.
+  - Frequent pattern mining: discovering patterns or associations that occur frequently or coherently in the data stream, such as frequent itemsets, sequential patterns, or graph patterns.
+  - Change detection: detecting changes or anomalies in the data stream that indicate shifts or events, such as statistical tests, control charts, or concept drift methods.

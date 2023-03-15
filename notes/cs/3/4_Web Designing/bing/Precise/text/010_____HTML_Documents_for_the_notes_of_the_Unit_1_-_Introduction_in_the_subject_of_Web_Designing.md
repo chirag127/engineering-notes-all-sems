@@ -1,0 +1,21 @@
+### HTML Documents
+
+- HTML stands for HyperText Markup Language.
+- HTML is the standard markup language for creating web pages and other information that can be displayed in a web browser.
+- HTML documents are text files that contain a combination of content and markup tags.
+- Markup tags are used to describe the structure and formatting of the content.
+- HTML documents are saved with the .html or .htm file extension.
+- The basic structure of an HTML document includes the `<!DOCTYPE html>` declaration, the `<html>` element, the `<head>` element, and the `<body>` element.
+- The `<!DOCTYPE html>` declaration specifies that the document is an HTML5 document.
+- The `<html>` element is the root element of an HTML page and contains all other elements.
+- The `<head>` element contains metadata about the document, such as the title and links to stylesheets.
+- The `<body>` element contains the main content of the document, such as text, images, and links.
+- HTML elements are represented by tags, which are enclosed in angle brackets.
+- Tags usually come in pairs, with an opening tag and a closing tag.
+- The content of an element is placed between the opening and closing tags.
+- Some elements, such as `<img>` and `<input>`, are self-closing and do not require a closing tag.
+- HTML elements can have attributes, which provide additional information about the element.
+- Attributes are specified in the opening tag of an element and are written as name-value pairs separated by an equal sign.
+- Common attributes include `id`, `class`, `style`, and `src`.
+- HTML also supports the use of comments, which are used to add notes or explanations to the code.
+- Comments are written between `<!--` and `-->` and are not displayed in the web browser.

@@ -1,0 +1,13 @@
+# Sorting and Order Statistics - Quick Sort
+
+- Quick sort is a **divide-and-conquer** algorithm that sorts an array of elements by recursively partitioning it into two subarrays around a **pivot** element.
+- The pivot element is chosen randomly or by some heuristic, such as the median of the first, middle and last elements of the array.
+- The partitioning step rearranges the array such that all the elements that are **less than or equal to** the pivot are in the **left subarray**, and all the elements that are **greater than** the pivot are in the **right subarray**.
+- The pivot element is then placed in its **correct position** in the sorted array, and the subarrays are sorted recursively by the same procedure.
+- The algorithm terminates when the subarray size is one or zero, which means it is already sorted.
+- Quick sort is an **in-place** algorithm, meaning it does not require additional memory to store the subarrays, but it modifies the original array.
+- Quick sort is also an **unstable** algorithm, meaning it does not preserve the relative order of equal elements in the array.
+- The **best-case** scenario for quick sort is when the pivot element always divides the array into two equal or nearly equal subarrays, resulting in a balanced recursion tree. In this case, the running time is **O(n log n)**, where n is the number of elements in the array.
+- The **worst-case** scenario for quick sort is when the pivot element is always the smallest or the largest element in the array, resulting in an unbalanced recursion tree. In this case, the running time is **O(n^2)**, which is as bad as the insertion sort or the selection sort algorithms.
+- The **average-case** scenario for quick sort is when the pivot element is chosen randomly or by a good heuristic, resulting in a moderately balanced recursion tree. In this case, the running time is also **O(n log n)**, which is asymptotically optimal for comparison-based sorting algorithms.
+- Quick sort is a **practical** and **efficient** algorithm for sorting large arrays, as it has a low constant factor in its running time and it can exploit the cache memory of modern processors. However, it is not suitable for sorting small arrays, as the overhead of recursion and partitioning may outweigh the benefits of divide-and-conquer. It is also not suitable for sorting arrays that are already sorted or nearly sorted, as it may degenerate to the worst-case scenario. In these cases, other algorithms such as insertion sort or merge sort may perform better.

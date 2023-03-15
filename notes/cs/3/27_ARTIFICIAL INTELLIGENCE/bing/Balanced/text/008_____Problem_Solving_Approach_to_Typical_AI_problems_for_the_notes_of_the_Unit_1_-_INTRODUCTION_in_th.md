@@ -1,0 +1,11 @@
+### Problem Solving Approach to Typical AI Problems
+
+- Problem solving in AI is the process of finding solutions to complex or ill-defined problems by applying knowledge, heuristics, algorithms, and reasoning techniques.
+- Problem solving in AI can be classified into two types: search problems and optimization problems.
+- Search problems are those where the goal is to find a path or a sequence of actions that leads from an initial state to a goal state, satisfying some constraints or criteria. Examples of search problems are pathfinding, planning, scheduling, game playing, etc.
+- Optimization problems are those where the goal is to find the best or optimal solution among a set of possible solutions, according to some objective function or measure of quality. Examples of optimization problems are resource allocation, machine learning, design, etc.
+- Problem solving in AI can be approached by using different methods, such as:
+  - Search algorithms: These are methods that systematically explore the space of possible solutions, using various strategies to guide the search, such as depth-first, breadth-first, best-first, hill climbing, etc. Search algorithms can be classified into uninformed (blind) or informed (heuristic) search, depending on whether they use domain-specific knowledge or not.
+  - Constraint satisfaction: This is a method that reduces a problem to a set of variables, domains, and constraints, and then tries to find an assignment of values to the variables that satisfies all the constraints. Constraint satisfaction can be solved by using backtracking, forward checking, arc consistency, etc.
+  - Logic and inference: This is a method that uses formal systems of symbols and rules to represent and manipulate knowledge, and to draw conclusions from given facts and assumptions. Logic and inference can be based on propositional logic, first-order logic, modal logic, etc.
+  - Game theory and decision making: This is a method that models situations where multiple agents interact and compete or cooperate with each other, and tries to find the best or optimal strategies for each agent, taking into account the actions and preferences of the others. Game theory and decision making can be based on minimax, alpha-beta pruning, Nash equilibrium, etc.

@@ -1,0 +1,18 @@
+### Deployment
+
+- Deployment is the process of installing, configuring, and running a software system on a target platform.
+- Deployment diagrams are used to model the physical aspects of a software system, such as the hardware, the network, and the software components that run on them.
+- Deployment diagrams show the allocation of software artifacts to nodes, where an artifact is a physical piece of information that is used or produced by a software system, and a node is a physical or virtual device that executes software.
+- Deployment diagrams can also show the communication links between nodes, such as network protocols, bandwidth, latency, and security.
+- Deployment diagrams can be used to model different scenarios of a software system, such as development, testing, production, or distribution.
+- Deployment diagrams can help to identify the performance, scalability, reliability, and security requirements of a software system, as well as the trade-offs and constraints involved in satisfying them.
+- Deployment diagrams can also help to plan and manage the deployment process, such as the installation, configuration, and maintenance of the software system and its components.
+
+Some of the elements of a deployment diagram are:
+
+- Node: A node is a physical or virtual device that executes software. A node can have a name, a stereotype, and properties. A node can also have nested nodes to represent subcomponents or subdevices. A node is represented by a cube with an optional name and stereotype on the top.
+- Artifact: An artifact is a physical piece of information that is used or produced by a software system, such as a source code file, a binary file, a configuration file, a database, or a document. An artifact can have a name, a stereotype, and properties. An artifact is represented by a rectangle with an optional name and stereotype on the top, and a small rectangle on the bottom right corner.
+- Deployment specification: A deployment specification is a set of properties that specify how an artifact is deployed on a node, such as the location, the configuration, the dependencies, and the parameters. A deployment specification can have a name, a stereotype, and properties. A deployment specification is represented by a rectangle with an optional name and stereotype on the top, and a dashed line to the artifact it specifies.
+- Manifestation: A manifestation is a dependency relationship that indicates that an artifact is manifested on a node, meaning that the artifact is deployed, executed, or otherwise used by the node. A manifestation can have a name, a stereotype, and properties. A manifestation is represented by a dashed line with an optional name and stereotype, and an open arrowhead pointing from the artifact to the node.
+- Communication path: A communication path is a connection between two nodes that allows them to exchange information. A communication path can have a name, a stereotype, and properties. A communication path is represented by a solid line with an optional name and stereotype, and an open arrowhead on both ends.
+- Association: An association is a relationship between two artifacts that indicates that they are related in some way, such as a dependency, a composition, or an aggregation. An association can have a name, a stereotype, and properties. An association is represented by a solid line with an optional name and stereotype, and an optional diamond or open arrowhead on one or both ends.

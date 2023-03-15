@@ -1,0 +1,23 @@
+### Validation Based Protocol for Concurrency Control
+
+- Validation based protocol is also called optimistic concurrency control technique  .
+- It is used to avoid concurrency problems in transactions by validating them before committing them to the database  .
+- It works on the assumption that very few transactions interfere with each other, so there is no need to check for conflicts while the transaction is executing .
+- It divides the transaction into three phases: read phase, validation phase, and write phase  .
+- In the read phase, the transaction reads the data values from the database and makes updates to the local copies, not the actual database .
+- In the validation phase, the transaction checks if it can be committed without violating the serializability order of the transactions  .
+- In the write phase, the transaction writes the updated values to the database if it passes the validation, otherwise it is aborted and restarted  .
+- The validation phase uses timestamps to determine the order of the transactions and to detect conflicts  .
+- There are different types of timestamps associated with each transaction, such as start timestamp, validation timestamp, and finish timestamp.
+- The start timestamp is the time when the transaction begins its execution.
+- The validation timestamp is the time when the transaction enters the validation phase.
+- The finish timestamp is the time when the transaction completes its execution.
+- The validation phase applies different rules to check if the transaction can be committed, such as basic timestamp ordering, Thomas write rule, and multiversion timestamp ordering .
+- Basic timestamp ordering ensures that the transactions are executed in the order of their start timestamps and rejects any conflicting operations .
+- Thomas write rule allows some conflicting write operations to be ignored if they do not affect the final outcome of the transactions .
+- Multiversion timestamp ordering maintains multiple versions of the data items and assigns them different timestamps to allow more concurrency among the transactions .
+- Validation based protocol has the advantage of not requiring locking or blocking of the data items, which reduces the overhead and the possibility of deadlock .
+- It also has the advantage of allowing more concurrency among the transactions, as they can execute without interference until the validation phase .
+- However, it has the disadvantage of requiring more memory space to store the local copies and the timestamps of the transactions .
+- It also has the disadvantage of wasting some computation time if the transactions are aborted and restarted after the validation phase .
+- It is suitable for applications where the conflict rate is low and the transactions are short-lived .

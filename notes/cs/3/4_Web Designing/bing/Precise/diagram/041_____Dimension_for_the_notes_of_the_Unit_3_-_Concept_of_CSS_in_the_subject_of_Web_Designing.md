@@ -1,0 +1,11 @@
+### Dimension
+- In CSS, the dimension property is used to define the height and width of an element.
+- The height and width properties can be set using length, percentage, or auto values.
+- Length values can be defined using absolute units such as px, cm, or in, or relative units such as em or %.
+- The percentage value is relative to the parent element's height or width.
+- The auto value allows the browser to calculate the height or width of the element.
+- The min-height, max-height, min-width, and max-width properties can be used to set the minimum and maximum height and width of an element.
+- These properties are useful for creating responsive designs that adapt to different screen sizes.
+- The box-sizing property can be used to define how the height and width of an element are calculated, including padding and borders.
+- The default value of the box-sizing property is content-box, which means the height and width properties only include the content of the element, not the padding or borders.
+- The value border-box can be used to include the padding and borders in the calculation of the height and width of the element.

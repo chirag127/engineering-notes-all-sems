@@ -1,0 +1,22 @@
+### Mapping Constraints for the Notes of the Unit 2 - Data Modeling using the Entity Relationship Model in the Subject of Basics of Data Base Management System
+
+- Mapping constraints are also known as the **cardinality ratio**. They express the number of entities to which another entity can be related via a relationship set .
+- Mapping constraints are most useful in describing the relationship sets that involve more than two entity sets.
+- For binary relationship set R on an entity set A and B, there are four possible mapping cardinalities :
+  - One-to-one: Each entity in A is associated with at most one entity in B, and each entity in B is associated with at most one entity in A.
+  - One-to-many: Each entity in A is associated with any number of entities in B, but each entity in B is associated with at most one entity in A.
+  - Many-to-one: Each entity in A is associated with at most one entity in B, but each entity in B is associated with any number of entities in A.
+  - Many-to-many: Each entity in A is associated with any number of entities in B, and each entity in B is associated with any number of entities in A.
+- For ternary relationship set R on entity sets A, B and C, there are eight possible mapping cardinalities:
+  - One-to-one-to-one: Each entity in A, B and C is associated with at most one entity in each of the other two sets.
+  - One-to-one-to-many: Each entity in A and B is associated with at most one entity in each of the other two sets, but each entity in C is associated with any number of entities in A and B.
+  - One-to-many-to-one: Each entity in A and C is associated with at most one entity in each of the other two sets, but each entity in B is associated with any number of entities in A and C.
+  - One-to-many-to-many: Each entity in A is associated with at most one entity in each of the other two sets, but each entity in B and C is associated with any number of entities in A and the other set.
+  - Many-to-one-to-one: Each entity in B and C is associated with at most one entity in each of the other two sets, but each entity in A is associated with any number of entities in B and C.
+  - Many-to-one-to-many: Each entity in B is associated with at most one entity in each of the other two sets, but each entity in A and C is associated with any number of entities in B and the other set.
+  - Many-to-many-to-one: Each entity in C is associated with at most one entity in each of the other two sets, but each entity in A and B is associated with any number of entities in C and the other set.
+  - Many-to-many-to-many: Each entity in A, B and C is associated with any number of entities in each of the other two sets.
+- Mapping constraints can be represented by using different notations in the ER diagrams :
+  - Crow's foot notation: Uses symbols like |, <, O, and * to indicate the cardinality ratio and the participation constraint of each entity set in a relationship set.
+  - Chen notation: Uses symbols like 1, N, and M to indicate the cardinality ratio of each entity set in a relationship set, and double lines to indicate the total participation constraint of an entity set in a relationship set.
+  - Min-Max notation: Uses numbers like (min, max) to indicate the minimum and maximum number of entities that an entity set can be related to via a relationship set.

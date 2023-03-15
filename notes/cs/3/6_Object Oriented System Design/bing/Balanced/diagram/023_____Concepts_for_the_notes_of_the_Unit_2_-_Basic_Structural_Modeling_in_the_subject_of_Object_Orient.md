@@ -1,0 +1,27 @@
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notations.
+- The static structure of a system consists of the components that make up the system and their relationships.
+- The main components of a system are objects, classes, and subsystems.
+- An object is an instance of a class that has a state, a behavior, and an identity.
+- A class is a blueprint or a template that defines the common attributes and methods of a group of objects.
+- A subsystem is a group of classes and objects that collaborate to provide a specific functionality or service to the system.
+- The main relationships among components are association, aggregation, composition, generalization, and dependency.
+- An association is a structural relationship that specifies that objects of one class are connected to objects of another class.
+- An aggregation is a special form of association that represents a whole-part relationship between a container class and its parts.
+- A composition is a stronger form of aggregation that implies that the parts cannot exist without the container.
+- A generalization is a relationship that specifies that a class is a specialization or a subclass of another class, which is called a generalization or a superclass.
+- A dependency is a relationship that specifies that a change in one class may affect another class.
+- The main notations for basic structural modeling are class diagrams and object diagrams.
+- A class diagram is a graphical representation of the classes and their relationships in a system.
+- An object diagram is a graphical representation of the objects and their links in a system at a specific point in time.
+- A link is an instance of an association that connects two or more objects.
+- A class diagram can be used to show the static structure of a system at different levels of abstraction, such as conceptual, specification, and implementation.
+- A conceptual class diagram shows the most important classes and their relationships in the problem domain.
+- A specification class diagram shows the interfaces and contracts of the classes and their relationships in the solution domain.
+- An implementation class diagram shows the details of the classes and their relationships in the programming language.
+- An object diagram can be used to show the state of a system or a subsystem at a specific point in time, such as during a use case execution.
+- A use case is a description of a sequence of actions that a system performs to provide a service to an actor.
+- An actor is a role that a user or another system plays when interacting with the system.
+- Basic structural modeling is an essential part of object-oriented analysis and design, as it helps to identify and organize the components of a system and their relationships.
+- Basic structural modeling also helps to ensure the consistency, completeness, and correctness of the system design.

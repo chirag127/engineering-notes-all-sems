@@ -1,0 +1,9 @@
+### Abstraction and Encapsulation
+
+- Abstraction and encapsulation are two fundamental concepts of object-oriented analysis and design.
+- Abstraction is the process of hiding the unnecessary details and exposing only the essential features of an object or a system.
+- Encapsulation is the process of bundling the data and the methods that operate on the data together in a single unit, and protecting them from unauthorized access or modification.
+- Abstraction and encapsulation are complementary concepts: abstraction focuses on the observable behavior of an object, while encapsulation focuses on the implementation that gives rise to this behavior .
+- Abstraction helps to reduce the complexity of a system by providing a higher-level view of the system, without being concerned with the low-level details. Abstraction also allows for changing the implementation of an object without affecting its interface .
+- Encapsulation helps to achieve modularity, reusability, and maintainability of the code by separating the concerns and hiding the internal workings of an object. Encapsulation also enforces data integrity and security by preventing unauthorized or invalid access or modification of the data .
+- Abstraction and encapsulation are achieved in object-oriented programming languages by using classes, objects, methods, and access modifiers. A class is an abstract data type that defines the properties and behaviors of a set of objects. An object is an instance of a class that encapsulates the data and the methods that operate on the data. A method is a function that defines the actions or operations that an object can perform. An access modifier is a keyword that specifies the level of visibility or accessibility of a class, an object, a method, or a data member .

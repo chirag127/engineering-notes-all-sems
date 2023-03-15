@@ -1,0 +1,43 @@
+## Unit 3 - DECISION TREE LEARNING
+
+- Decision tree learning is a supervised machine learning technique that can be used for classification or regression problems.
+- A decision tree is a graphical representation of a hierarchical structure that consists of nodes, branches, and leaves.
+- A node represents a test or a question on an attribute or a feature of the data.
+- A branch represents an outcome or a value of the attribute or feature.
+- A leaf represents a class label or a target value.
+- The root node is the topmost node that has no parent node.
+- The internal nodes are the nodes that have at least one child node.
+- The terminal nodes or the leaf nodes are the nodes that have no child node.
+- The depth of a node is the number of edges from the root node to the node.
+- The height of a tree is the maximum depth of any node in the tree.
+- The path from the root node to a leaf node represents a rule or a decision that classifies or predicts an instance.
+- The goal of decision tree learning is to find the best split at each node that maximizes the information gain or minimizes the impurity of the data.
+- The information gain is the difference between the entropy of the parent node and the weighted average entropy of the child nodes.
+- The entropy is a measure of uncertainty or randomness of the data.
+- The impurity is a measure of how mixed the data is in terms of the class labels or the target values.
+- The common impurity measures are Gini index and mean squared error for classification and regression problems, respectively.
+- The Gini index is the probability of misclassifying an instance if it is randomly assigned a class label according to the distribution of the labels in the node.
+- The mean squared error is the average of the squared differences between the actual and the predicted values of the instances in the node.
+- The decision tree learning algorithm can be divided into two phases: tree induction and tree pruning.
+- Tree induction is the process of recursively splitting the data into smaller subsets based on the best split criterion until a stopping condition is met.
+- Tree pruning is the process of removing or collapsing some nodes or branches of the tree to reduce the complexity and avoid overfitting.
+- Overfitting is the problem of learning a model that fits the training data too well but generalizes poorly to new or unseen data.
+- The common stopping conditions for tree induction are:
+  - All the instances in the node belong to the same class or have the same target value.
+  - The node has less than a minimum number of instances.
+  - The node has reached a maximum depth.
+  - The information gain or the impurity reduction is below a threshold.
+- The common methods for tree pruning are:
+  - Pre-pruning: stop growing the tree before it becomes too large or complex.
+  - Post-pruning: grow the tree fully and then remove or collapse some nodes or branches based on a validation set or a complexity measure.
+- The advantages of decision tree learning are:
+  - It is easy to understand and interpret.
+  - It can handle both categorical and numerical data.
+  - It can handle missing values and outliers.
+  - It is robust to noise and irrelevant features.
+  - It can perform feature selection and dimensionality reduction.
+- The disadvantages of decision tree learning are:
+  - It can be prone to overfitting and underfitting.
+  - It can be unstable and sensitive to small changes in the data or the parameters.
+  - It can create biased trees if some classes or features dominate the data.
+  - It can have a high computational cost and memory requirement for large and complex trees.

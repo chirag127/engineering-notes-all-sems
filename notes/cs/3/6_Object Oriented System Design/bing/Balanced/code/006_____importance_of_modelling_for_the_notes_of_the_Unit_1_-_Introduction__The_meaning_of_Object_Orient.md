@@ -1,0 +1,22 @@
+### Importance of modelling for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Modelling is the process of creating a representation of a system or a problem using concepts, symbols, and diagrams.
+- Modelling is important for object oriented system design because it helps to:
+  - Visualize the system as it is or as we want it to be.
+  - Specify the structure and behavior of the system using classes, objects, attributes, operations, and relationships.
+  - Guide the construction of the system using a template or a blueprint.
+  - Document the decisions and assumptions we have made about the system.
+- Modelling also enables us to:
+  - Analyze the system requirements and design alternatives.
+  - Communicate and collaborate with other stakeholders such as users, developers, and managers.
+  - Validate and verify the system functionality and quality.
+  - Reuse and maintain the system components and knowledge.
+- Modelling in object oriented system design is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+  - Abstraction is the process of hiding the irrelevant details and focusing on the essential features of a system or a problem.
+  - Encapsulation is the process of bundling the data and the operations that manipulate the data into a single unit called an object.
+  - Inheritance is the process of creating new classes from existing classes by inheriting their attributes and operations.
+  - Polymorphism is the process of allowing different objects to respond differently to the same operation based on their types.
+- Modelling in object oriented system design uses a standard notation called Unified Modeling Language (UML) to represent the system elements and their relationships.
+  - UML consists of different types of diagrams such as use case diagrams, class diagrams, sequence diagrams, state diagrams, etc. that capture different aspects of the system.
+  - UML also provides a set of rules and guidelines for creating and interpreting the diagrams.
+  - UML is widely used and supported by various tools and platforms.

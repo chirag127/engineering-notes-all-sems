@@ -1,0 +1,21 @@
+### Architecture for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of Application of Soft Computing
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to produce a desired output .
+- The algorithm adjusts the weights of the connections between the nodes in the network according to a feedback signal that indicates the error rate of a forward propagation .
+- The feedback signal is calculated by comparing the actual output of the network with the expected output for a given input.
+- The error is then propagated backward through the network, layer by layer, and the weights are updated using a learning rule that minimizes the error .
+- The learning rule is usually based on the gradient descent method, which finds the optimal weights that minimize a loss function .
+- The back propagation algorithm consists of two phases: the forward phase and the backward phase.
+- In the forward phase, the input is fed to the network and the output is computed by applying the activation functions of the nodes.
+- In the backward phase, the error is computed by subtracting the actual output from the expected output, and the weights are updated by applying the learning rule.
+- The algorithm repeats these two phases until the error is reduced below a certain threshold or a maximum number of iterations is reached.
+- The architecture of a back propagation network consists of three main components: the input layer, the hidden layer(s), and the output layer .
+- The input layer consists of nodes that receive the input data and pass it to the hidden layer(s) .
+- The hidden layer(s) consist of nodes that perform nonlinear transformations on the input data and pass it to the output layer .
+- The output layer consists of nodes that produce the final output of the network .
+- The nodes in each layer are connected by weighted links that represent the strength of the influence of one node on another .
+- The number of nodes and layers in a back propagation network depends on the complexity of the problem and the amount of training data available .
+- A back propagation network can be represented by a directed acyclic graph, where the nodes are the vertices and the weighted links are the edges.
+- A back propagation network can also be represented by a matrix, where the rows are the nodes and the columns are the weights.
+- A back propagation network can be trained using various methods, such as batch, online, stochastic, or mini-batch .
+- A back propagation network can be used for various applications, such as classification, regression, pattern recognition, image processing, natural language processing, etc .

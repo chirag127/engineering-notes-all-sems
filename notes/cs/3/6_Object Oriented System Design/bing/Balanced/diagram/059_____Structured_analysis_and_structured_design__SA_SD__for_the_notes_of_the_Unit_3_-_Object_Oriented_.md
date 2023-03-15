@@ -1,0 +1,12 @@
+### Structured analysis and structured design (SA/SD)
+
+- SA/SD is a software development method that is based on the principle of structured programming, which emphasizes the importance of breaking down a software system into smaller, more manageable components .
+- SA/SD is a diagrammatic notation that is designed to help people understand the system. The basic goal of SA/SD is to improve quality and reduce the risk of system failure. It establishes concrete management specifications and documentation .
+- SA/SD consists of two main phases: structured analysis and structured design. Structured analysis focuses on identifying the functional requirements of the system, while structured design focuses on defining the structure and behavior of the system components .
+- SA/SD uses various diagrams to represent different aspects of the system, such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), structure charts, state transition diagrams, etc. These diagrams help to visualize the data flow, data structure, control flow, and state changes of the system .
+- SA/SD follows a top-down approach, which means that the system is decomposed from the highest level of abstraction to the lowest level of detail. Each level of decomposition corresponds to a level of design, and each design level is verified and validated against the requirements of the previous level .
+- SA/SD is suitable for developing systems that are well-defined, stable, and sequential. However, it has some limitations, such as:
+  - It does not support object-oriented concepts, such as inheritance, polymorphism, and encapsulation, which are essential for developing complex and dynamic systems .
+  - It does not address the non-functional requirements, such as performance, security, usability, etc., which are important for ensuring the quality and reliability of the system .
+  - It does not handle the changes in the requirements or the environment, which are inevitable in the software development life cycle. It assumes that the system is static and fixed .
+- SA/SD is one of the classical methods of systems analysis and design, which has influenced many other methods, such as structured systems analysis and design method (SSADM), information engineering (IE), and rapid application development (RAD) . However, it has been largely replaced by more modern and flexible methods, such as object-oriented analysis and design (OOAD), agile methods, etc..

@@ -1,0 +1,18 @@
+# Growth of Functions
+
+- Growth of functions is a concept that helps us to compare the efficiency and performance of different algorithms based on their input size and execution time.
+- The growth of a function is the rate at which it increases or decreases as the input size changes. For example, a function that grows linearly has a constant rate of growth, while a function that grows exponentially has an increasing rate of growth.
+- The growth of a function can be expressed using asymptotic notation, which is a mathematical tool that simplifies the function by ignoring the constants and lower order terms that are less significant for large inputs.
+- There are three types of asymptotic notation: big-O, big-Ω, and big-Θ. Each of them represents a different way of bounding the growth of a function from above, below, or both.
+- Big-O notation gives the upper bound of a function, meaning that the function is always less than or equal to a constant multiple of another function. For example, f(n) = O(g(n)) means that f(n) ≤ c*g(n) for some constant c and sufficiently large n.
+- Big-Ω notation gives the lower bound of a function, meaning that the function is always greater than or equal to a constant multiple of another function. For example, f(n) = Ω(g(n)) means that f(n) ≥ c*g(n) for some constant c and sufficiently large n.
+- Big-Θ notation gives the tight bound of a function, meaning that the function is both upper and lower bounded by a constant multiple of another function. For example, f(n) = Θ(g(n)) means that c1*g(n) ≤ f(n) ≤ c2*g(n) for some constants c1 and c2 and sufficiently large n.
+- Some commonly used functions and their comparison are:
+  - Constant functions: f(n) = 1. These functions take a constant amount of time regardless of the input size.
+  - Linear functions: f(n) = n. These functions grow linearly with the input size.
+  - Quadratic functions: f(n) = n^2. These functions grow faster than linear functions, but slower than exponential functions.
+  - Logarithmic functions: f(n) = log n. These functions grow very slowly with the input size, and are often used in divide-and-conquer algorithms.
+  - Exponential functions: f(n) = 2^n. These functions grow very fast with the input size, and are often infeasible to compute in practice.
+- The growth of functions can help us to analyze the time and space complexity of algorithms, which are measures of how much time and memory an algorithm requires to solve a problem. The time complexity of an algorithm is the function that gives the number of basic operations performed by the algorithm as a function of the input size. The space complexity of an algorithm is the function that gives the amount of memory used by the algorithm as a function of the input size.
+- The growth of functions can also help us to compare the best case, worst case, and average case scenarios of an algorithm, which are the minimum, maximum, and expected values of the time or space complexity of the algorithm for different inputs. For example, the best case time complexity of linear search is O(1), the worst case time complexity is O(n), and the average case time complexity is O(n/2).
+- The growth of functions can also help us to choose the most suitable algorithm for a given problem, depending on the input size, the desired output, and the available resources. For example, for sorting a large array of numbers, quick sort is usually faster than merge sort, but merge sort is more stable and requires less space.

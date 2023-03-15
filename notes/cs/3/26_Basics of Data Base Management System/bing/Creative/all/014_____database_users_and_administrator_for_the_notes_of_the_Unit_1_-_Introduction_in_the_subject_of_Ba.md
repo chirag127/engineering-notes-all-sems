@@ -1,0 +1,13 @@
+# Database Users and Administrator
+
+Database users and administrator are the people who are accessing or working with the database. The primary aim of the database management system (DBMS) is to store the data or information and retrieve it whenever it is needed by the database users. There are different types of database users and administrator, depending on their roles and responsibilities. Here are some of the common types of database users and administrator:
+
+- **Native Users**: These are the database users who are communicating with the database through an already written program. For example, when a student logs in to an online learning platform, the program will interact with the database to authenticate the student and display the relevant courses and materials. Native users do not need to know the details of the database or the query language. They just use the interface provided by the program.
+
+- **Application Programmers**: These are the software developers and programming professionals who write the programs that access the database. They use a programming language such as Java, Python, C#, etc. and a query language such as SQL, NoSQL, etc. to manipulate the data in the database. They need to know the logical structure and schema of the database, as well as the syntax and semantics of the query language.
+
+- **Casual Users**: These are the database users who occasionally access the database for some specific purpose. They may use a general-purpose query language such as SQL or a graphical user interface (GUI) to submit queries to the database. They do not need to be familiar with the database structure or the query language, but they need to know what information they want and how to formulate the query.
+
+- **Sophisticated Users**: These are the database users who have a good knowledge of the database system and the query language. They can use the query language to perform complex and specialized operations on the database. They may also use some application programs to access the database, but they can also write their own queries and programs. They may be data analysts, data scientists, researchers, etc. who need to extract and analyze data from the database.
+
+- **Database Administrator (DBA)**: Database administrator (DBA) is a person or a team who defines the schema and also controls the three levels of the database. The three levels are the physical level, the logical level, and the view level. The DBA is responsible for creating, maintaining, and securing the database. The DBA also grants and revokes permissions and privileges to other database users and administrator. The DBA has full control of the database and can use a superuser account to perform any operation on the database  .

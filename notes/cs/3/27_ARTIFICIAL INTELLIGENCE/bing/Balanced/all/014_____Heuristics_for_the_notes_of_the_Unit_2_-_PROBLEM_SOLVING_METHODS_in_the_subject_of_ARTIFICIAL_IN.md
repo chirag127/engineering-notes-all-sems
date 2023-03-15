@@ -1,0 +1,22 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of heuristics for the unit 2 - problem solving methods in the subject of artificial intelligence KCS. Here are some points to remember:
+
+- Heuristics are rules of thumb or strategies that guide the search process towards a goal state in a problem space.
+- Heuristics can be used to reduce the complexity of the search space, to prune the branches that are unlikely to lead to a solution, or to estimate the distance or cost to the goal state.
+- Heuristics can be classified into two types: domain-independent and domain-dependent. Domain-independent heuristics are general and applicable to any problem, while domain-dependent heuristics are specific and tailored to a particular problem or domain.
+- Some examples of domain-independent heuristics are:
+  - Breadth-first search: expand the shallowest node first.
+  - Depth-first search: expand the deepest node first.
+  - Uniform-cost search: expand the node with the lowest path cost so far.
+  - Best-first search: expand the node with the lowest heuristic value, which is an estimate of the cost to the goal state.
+  - A* search: expand the node with the lowest sum of the path cost and the heuristic value.
+- Some examples of domain-dependent heuristics are:
+  - Hill-climbing: move to the neighbor node that has the highest heuristic value, which is an estimate of the quality of the state.
+  - Simulated annealing: move to a random neighbor node with a probability that depends on the difference in heuristic values and a decreasing temperature parameter.
+  - Genetic algorithms: generate new states by applying crossover and mutation operators to a population of states, and select the fittest states according to a fitness function.
+  - Constraint satisfaction: assign values to variables that satisfy a set of constraints, and use backtracking or local search to resolve conflicts.
+- Heuristics can be evaluated based on their completeness, optimality, time complexity, and space complexity. Completeness means that the heuristic can find a solution if one exists, optimality means that the heuristic can find the best solution, time complexity means how fast the heuristic can find a solution, and space complexity means how much memory the heuristic requires.
+- Heuristics can also be evaluated based on their admissibility and consistency. Admissibility means that the heuristic never overestimates the cost to the goal state, and consistency means that the heuristic satisfies the triangle inequality, which means that the heuristic value of a node is never greater than the heuristic value of its successor plus the cost of the edge between them.
+- Heuristics can be derived from various sources, such as:
+  - Relaxation: simplify the problem by ignoring some constraints or features, and use the solution of the relaxed problem as a heuristic for the original problem.
+  - Pattern databases: precompute and store the optimal solutions for subproblems or patterns, and use them as heuristics for the larger problem.
+  - Learning: use data or feedback to learn a heuristic function from examples or experience, such as using neural networks, decision trees, or reinforcement learning.

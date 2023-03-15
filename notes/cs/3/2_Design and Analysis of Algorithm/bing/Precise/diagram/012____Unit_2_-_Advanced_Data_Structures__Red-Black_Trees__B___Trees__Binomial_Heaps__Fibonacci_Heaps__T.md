@@ -1,0 +1,8 @@
+## Unit 2 - Advanced Data Structures: Red-Black Trees, B – Trees, Binomial Heaps, Fibonacci Heaps, Tries, Skip List
+
+1. **Red-Black Trees** are a type of self-balancing binary search tree. Each node of the tree has an extra bit representing the color of the node, either red or black. The tree is balanced by ensuring that certain properties are maintained during insertions and deletions.
+2. **B-Trees** are a type of tree data structure that is commonly used in databases and file systems. It is a self-balancing tree that maintains sorted data and allows searches, insertions, and deletions in logarithmic time.
+3. **Binomial Heaps** are a type of heap data structure that is used to implement priority queues. It is made up of a collection of binomial trees, where each tree follows the min-heap property.
+4. **Fibonacci Heaps** are a type of heap data structure that is used to implement priority queues. It is similar to a binomial heap, but has a more efficient decrease-key operation.
+5. **Tries** are a type of tree data structure that is used to store strings. Each node of the tree represents a prefix of the strings stored in the tree, and the children of a node represent the possible characters that can follow the prefix represented by the node.
+6. **Skip Lists** are a type of data structure that allows fast search within an ordered sequence of elements. It is made up of multiple layers of linked lists, where each layer is a subsequence of the previous layer, and elements are inserted in a probabilistic manner.

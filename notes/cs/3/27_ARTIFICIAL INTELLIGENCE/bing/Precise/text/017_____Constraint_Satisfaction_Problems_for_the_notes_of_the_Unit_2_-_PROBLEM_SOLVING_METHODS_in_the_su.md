@@ -1,0 +1,17 @@
+### Constraint Satisfaction Problems
+
+Constraint Satisfaction Problems (CSPs) are mathematical problems defined as a set of objects whose state must satisfy a number of constraints or limitations. CSPs represent the entities in a problem as a homogeneous collection of finite constraints over variables, which is solved by constraint satisfaction methods. CSPs are the subject of intense research in both artificial intelligence and operations research, since the regularity in their formulation provides a common basis to analyze and solve problems of many seemingly unrelated families.
+
+CSPs often exhibit high complexity, requiring a combination of heuristics and combinatorial search methods to be solved in a reasonable time. The most basic form of a CSP consists of:
+
+- A set of variables, X = {X1, X2, ..., Xn}
+- A set of domains, D = {D1, D2, ..., Dn}, one for each variable
+- A set of constraints, C = {C1, C2, ..., Cm}, that specify allowable combinations of values.
+
+Each constraint Ci involves some subset of the variables and specifies the allowable combinations of values for that subset. An assignment of values to all the variables that satisfies all the constraints is called a solution to the CSP.
+
+CSPs can be solved using a variety of techniques, including backtracking search, local search, and constraint propagation. These methods can be used alone or in combination to find solutions to CSPs.
+
+Some common examples of CSPs include the Sudoku puzzle, the map-coloring problem, and the job-shop scheduling problem. These problems can be represented as CSPs and solved using the techniques mentioned above.
+
+In summary, Constraint Satisfaction Problems are a powerful tool for modeling and solving complex problems in artificial intelligence and operations research. They provide a common framework for representing and solving a wide range of problems, and a variety of techniques have been developed to solve them efficiently.

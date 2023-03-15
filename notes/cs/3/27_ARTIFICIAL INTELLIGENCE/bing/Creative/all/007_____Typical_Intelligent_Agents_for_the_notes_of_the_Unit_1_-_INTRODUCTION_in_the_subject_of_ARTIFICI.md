@@ -1,0 +1,13 @@
+# Typical Intelligent Agents
+
+- An **intelligent agent** is an autonomous entity that acts upon an environment using sensors and actuators to achieve its goals .
+- An intelligent agent may also learn from the environment to improve its performance.
+- Examples of intelligent agents are driverless cars, virtual assistants, chatbots, robots, etc .
+- There are different types of intelligent agents based on their degree of rationality, observability, learning ability, and goal-directedness  .
+- The main types of intelligent agents are:
+
+  - **Simple reflex agents**: These agents act based on the current percept, without considering the history of percepts. They have a fixed set of rules that map the percept to the action. They are the simplest and most limited type of agents. For example, a thermostat that turns on or off the heater based on the current temperature.
+  - **Model-based reflex agents**: These agents act based on the current percept and a model of the environment. They maintain an internal state that represents the relevant aspects of the environment that are not directly observable. They use the model and the state to choose the best action. For example, a driverless car that uses a map and a GPS to navigate the road.
+  - **Goal-based agents**: These agents act based on the current percept, a model of the environment, and a goal. They have a desired outcome that they want to achieve, and they use the model and the state to evaluate the possible actions and choose the one that leads to the goal. For example, a chess-playing agent that has the goal of winning the game.
+  - **Utility-based agents**: These agents act based on the current percept, a model of the environment, a goal, and a utility function. They have a measure of how desirable each state is, and they use the model and the state to calculate the expected utility of each action and choose the one that maximizes the utility. For example, a stock-trading agent that has the goal of maximizing the profit and the utility function that reflects the risk and reward of each trade.
+  - **Learning agents**: These agents act based on the current percept, a model of the environment, a goal, a utility function, and a learning component. They have the ability to improve their performance over time by observing the environment and updating their model, goal, utility function, or action rules. For example, a virtual assistant that learns from the user's feedback and preferences .

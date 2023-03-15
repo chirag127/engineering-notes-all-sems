@@ -1,0 +1,11 @@
+### Javascript Types
+
+- Javascript is a **dynamically typed** language, which means that the type of a variable is determined at runtime, not at compile time.
+- Javascript has **seven** basic types: **number**, **string**, **boolean**, **null**, **undefined**, **symbol**, and **object**.
+- The **number** type represents both integers and floating-point numbers. There is no separate type for integers. Javascript uses the IEEE 754 standard to store numbers in 64-bit binary format.
+- The **string** type represents a sequence of characters. Strings are enclosed in single quotes ('') or double quotes (""). Strings can be concatenated with the + operator, and can use escape sequences (\n, \t, etc.) to represent special characters.
+- The **boolean** type represents a logical value, either **true** or **false**. Boolean values can be used in conditional statements and logical operators (&&, ||, !, etc.).
+- The **null** type represents a value that intentionally has no value. It is not the same as undefined, which represents a value that has not been assigned or declared. Null can be assigned to a variable to indicate that it is empty or unknown.
+- The **undefined** type represents a value that has not been assigned or declared. It is the default value of variables that are declared but not initialized, and of properties that do not exist in an object. Undefined can also be returned by functions that do not specify a return value.
+- The **symbol** type represents a unique and immutable identifier. Symbols can be created with the Symbol() function, and can be used as property keys in objects. Symbols are not enumerable, and cannot be converted to strings or numbers.
+- The **object** type represents a collection of properties, each with a name (key) and a value. Objects can be created with the object literal syntax ({}), or with the new operator and a constructor function. Objects can have methods, which are functions that belong to the object. Objects can inherit properties and methods from other objects, using the prototype chain.

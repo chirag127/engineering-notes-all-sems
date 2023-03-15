@@ -1,0 +1,9 @@
+### Parallel algorithms for line generation
+
+- Line generation is a fundamental task in computer graphics, where a straight line segment is approximated by a sequence of pixels on a discrete grid.
+- There are several algorithms for line generation, such as DDA (Digital Differential Analyzer), Bresenham's algorithm, and Midpoint algorithm, which are based on incremental calculations of the coordinates of the next pixel along the line.
+- However, these algorithms are sequential and require a loop to iterate over the pixels, which can be inefficient for parallel processing or hardware implementation.
+- A parallel approach for line generation is to derive the coordinate pairs of the pixels from the line equation, and then use a parallel algorithm to compute and display them.
+- One such parallel algorithm is based on the concept of edge functions, which are linear functions that have a value greater than zero on one side of an edge and less than zero on the opposite side. The edge function of a pixel can be interpolated from the edge function of its neighbors, and the sign of the edge function can be used to determine if the pixel is inside or outside the line segment.
+- Another parallel algorithm is based on the fact that line generation is equivalent to a vector prefix sums calculation, which is a common operation in parallel computing. The vector prefix sums of a line segment can be computed by a binary tree of processors, where each node performs a simple calculation involving only additions and shifts.
+- These parallel algorithms can achieve a speedup of O(log n) over the sequential algorithms, where n is the number of pixels in the line segment. They can also be easily implemented in hardware, such as FPGA (Field Programmable Gate Array) or GPU (Graphics Processing Unit), to achieve high performance and low power consumption.

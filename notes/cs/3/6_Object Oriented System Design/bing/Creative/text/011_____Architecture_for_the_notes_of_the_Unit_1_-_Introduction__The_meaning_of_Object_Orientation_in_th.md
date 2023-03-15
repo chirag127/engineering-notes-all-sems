@@ -1,0 +1,8 @@
+### Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Architecture is the high-level structure of a software system that defines its components, their relationships, and the principles and guidelines for their design and evolution.
+- Architecture is important for software development because it provides a blueprint for the system, facilitates communication among stakeholders, enables reuse of existing components, and guides quality attributes such as performance, security, and maintainability.
+- Architecture can be described at different levels of abstraction, such as conceptual, logical, physical, and implementation. Each level provides a different perspective and detail of the system.
+- Architecture can be represented using various notations and models, such as diagrams, views, patterns, styles, and frameworks. Each representation has its own advantages and limitations, and can be used for different purposes and audiences.
+- Architecture can be evaluated using various methods and criteria, such as scenarios, metrics, checklists, and reviews. Evaluation helps to identify and resolve architectural issues, risks, and trade-offs, and to ensure that the architecture meets the requirements and expectations of the stakeholders.
+- Architecture can be influenced by various factors, such as the domain, the technology, the organization, the process, and the standards. These factors can affect the architectural decisions, constraints, and alternatives, and should be considered in the architectural design and evolution.

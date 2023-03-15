@@ -1,0 +1,27 @@
+### Multiplexing for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- Multiplexing is the process of collecting the data from multiple application processes of the sender, enveloping that data with headers and sending them as a whole to the intended receiver.
+- Multiplexing extends the host-to-host delivery service provided by the network layer to a process-to-process delivery service for applications running on the hosts.
+- Multiplexing takes a parallelized source of information and turns it into a serialized format.
+- Multiplexing is done by the transport layer using port numbers to identify the source and destination processes.
+- Port numbers are 16-bit integers that range from 0 to 65535.
+- Port numbers are divided into three categories: well-known ports (0 to 1023), registered ports (1024 to 49151), and dynamic or private ports (49152 to 65535).
+- Well-known ports are assigned to standard protocols, such as HTTP (80), FTP (21), and SMTP (25).
+- Registered ports are assigned to user applications, such as Skype (49175), BitTorrent (6881), and Minecraft (25565).
+- Dynamic or private ports are used for temporary connections, such as ephemeral ports.
+- Multiplexing can be done in two ways: connectionless multiplexing and connection-oriented multiplexing.
+- Connectionless multiplexing is used by UDP, which does not establish a connection before sending data.
+- Connectionless multiplexing uses only the port numbers of the source and destination processes to identify the segments.
+- Connection-oriented multiplexing is used by TCP, which establishes a connection before sending data.
+- Connection-oriented multiplexing uses the port numbers of the source and destination processes, as well as the IP addresses of the source and destination hosts, to identify the segments.
+- Connection-oriented multiplexing creates a socket, which is a combination of an IP address and a port number, to uniquely identify a process on a host.
+- A connection in TCP is identified by a 4-tuple: (source IP address, source port number, destination IP address, destination port number).
+- Demultiplexing is the reverse process of multiplexing, which is done by the transport layer at the receiver side.
+- Demultiplexing is the process of extracting the data from the segments received from the network layer, and delivering that data to the appropriate application processes.
+- Demultiplexing uses the port numbers and the IP addresses in the headers of the segments to determine the destination processes.
+- Demultiplexing can also be done in two ways: connectionless demultiplexing and connection-oriented demultiplexing.
+- Connectionless demultiplexing is used by UDP, which does not maintain any connection state information.
+- Connectionless demultiplexing uses only the destination port number in the segment header to deliver the data to the corresponding process.
+- Connection-oriented demultiplexing is used by TCP, which maintains a connection state information for each connection.
+- Connection-oriented demultiplexing uses the 4-tuple in the segment header to deliver the data to the corresponding process.
+- Connection-oriented demultiplexing can handle multiple connections from the same source IP address and port number, as long as they have different destination IP addresses or port numbers.

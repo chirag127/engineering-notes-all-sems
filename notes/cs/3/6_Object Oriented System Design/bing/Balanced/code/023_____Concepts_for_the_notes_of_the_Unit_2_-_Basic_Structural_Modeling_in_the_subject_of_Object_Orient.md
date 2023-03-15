@@ -1,0 +1,26 @@
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of describing the structure of the objects that support the business processes in an organization using object-oriented design (OOD) .
+- OOD is a technique that maps the technology-independent concepts in the analysis model onto implementing classes, constraints, and interfaces, resulting in a model for the solution domain .
+- OOD aims to improve the quality and productivity of system analysis and design by making it more usable, reusable, and maintainable .
+- OOD uses the Unified Modeling Language (UML) as a standard notation to represent the structural models of software systems .
+- UML consists of several types of diagrams that capture different aspects of the system structure, such as:
+  - Class diagrams: show the static structure of the classes and their relationships, such as inheritance, association, aggregation, and composition .
+  - Object diagrams: show the instances of classes and their values, links, and states at a specific point in time .
+  - Component diagrams: show the physical components of the system and their dependencies, such as libraries, modules, executables, and interfaces .
+  - Deployment diagrams: show the distribution of the components across the hardware nodes, such as servers, clients, and devices .
+- The basic elements of the structural models are:
+  - Classes: represent the abstract concepts or entities that have common attributes and behaviors .
+  - Objects: represent the concrete instances of classes that have specific values and states .
+  - Attributes: represent the properties or characteristics of classes or objects .
+  - Operations: represent the actions or functions that classes or objects can perform .
+  - Associations: represent the relationships or links between classes or objects .
+  - Multiplicity: represent the number of instances of one class that can be related to one instance of another class .
+  - Roles: represent the names or labels that describe the purpose or function of an association end .
+  - Aggregation: represent the relationship between a whole and its parts, where the parts can exist independently of the whole .
+  - Composition: represent the relationship between a whole and its parts, where the parts cannot exist independently of the whole .
+  - Generalization: represent the relationship between a superclass and its subclasses, where the subclasses inherit the attributes and operations of the superclass .
+  - Abstraction: represent the relationship between a specification and its implementation, where the specification defines the essential features of the implementation .
+  - Interface: represent the set of operations that a class or component provides or requires .
+  - Realization: represent the relationship between a class or component and an interface, where the class or component implements or uses the interface .
+  - Dependency: represent the relationship between two elements that indicates that a change in one element may affect the other element .

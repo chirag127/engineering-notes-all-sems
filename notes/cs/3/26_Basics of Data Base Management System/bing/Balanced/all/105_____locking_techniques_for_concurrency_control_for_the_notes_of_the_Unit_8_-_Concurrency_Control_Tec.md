@@ -1,0 +1,20 @@
+# Locking Techniques for Concurrency Control
+
+Concurrency control is the process of managing simultaneous access to shared data in a database system. Concurrency control ensures that transactions are executed in a consistent and correct manner, and that the integrity of the database is maintained.
+
+One of the most common concurrency control techniques is locking. Locking is an operation that grants a transaction permission to read or write a data item. A lock manager is a subsystem that manages the acquisition and release of locks on data items.
+
+There are different types of locks, such as:
+
+- Binary locks: These locks have two states, locked or unlocked. A transaction can either lock a data item exclusively for writing, or leave it unlocked for reading by any transaction.
+- Shared/exclusive locks: These locks have three states, shared, exclusive, or unlocked. A transaction can either lock a data item exclusively for writing, lock it shared for reading, or leave it unlocked. Multiple transactions can lock the same data item shared, but only one transaction can lock it exclusive.
+- Read/write locks: These locks are similar to shared/exclusive locks, but they distinguish between read and write operations. A transaction can either lock a data item for reading, lock it for writing, or leave it unlocked. Multiple transactions can lock the same data item for reading, but only one transaction can lock it for writing.
+- Intention locks: These locks are used to indicate the intention of a transaction to lock a data item or a group of data items at a lower level of granularity. For example, a transaction can lock a table with an intention to lock a row, or lock a row with an intention to lock a column. Intention locks prevent other transactions from locking the same data item or group of data items at a higher level of granularity.
+- Certify locks: These locks are used in multi-version concurrency control techniques, where each transaction works on a local version of the data item and certifies its updates before committing. A transaction must acquire a certify lock on all the data items it has written before committing, and check for any conflicts with other transactions.
+
+Locking techniques can also be classified based on the timing and duration of locking, such as:
+
+- Strict two-phase locking: This is a locking protocol that requires a transaction to acquire all the locks it needs before releasing any lock. A transaction goes through two phases: a growing phase, where it acquires locks, and a shrinking phase, where it releases locks. Strict two-phase locking ensures serializability, which means that the concurrent execution of transactions is equivalent to some serial execution of the same transactions.
+- Rigorous two-phase locking: This is a locking protocol that requires a transaction to hold all the locks it has acquired until it commits or aborts. Rigorous two-phase locking is a stricter version of strict two-phase locking, and it also ensures recoverability, which means that a transaction does not read or overwrite the data written by another transaction that has not committed yet.
+- Conservative two-phase locking: This is a locking protocol that requires a transaction to acquire all the locks it needs before it starts execution. Conservative two-phase locking avoids deadlock, which is a situation where two or more transactions are waiting for each other to release locks, and none of them can proceed.
+- Timestamp-based locking: This is a locking protocol that assigns a unique timestamp to each transaction, and uses the timestamp to order the access to data items. A transaction can lock a data item only if its timestamp is greater than the timestamp of the last transaction that accessed the same data item. Timestamp-based locking avoids deadlock, but it may cause more aborts due to conflicts.

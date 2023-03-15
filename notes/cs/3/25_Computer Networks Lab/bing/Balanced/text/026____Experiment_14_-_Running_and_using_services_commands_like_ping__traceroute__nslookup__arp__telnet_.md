@@ -1,0 +1,23 @@
+## Experiment 14 - Running and using services/commands like ping, traceroute, nslookup, arp, telnet, ftp, etc
+
+- The objective of this experiment is to learn how to use some common network services and commands that can help in troubleshooting, testing, and transferring data over the network.
+- The following are the main services and commands that will be covered in this experiment:
+  - ping: A command that sends packets of data to a specified destination and measures the round-trip time and packet loss rate.
+  - traceroute: A command that traces the route of packets from the source to the destination and displays the IP addresses and names of the intermediate routers and hosts.
+  - nslookup: A command that queries the Domain Name System (DNS) and resolves hostnames to IP addresses or vice versa.
+  - arp: A command that displays or modifies the Address Resolution Protocol (ARP) cache, which maps IP addresses to MAC addresses on the local network.
+  - telnet: A service that allows remote login and command execution on a host using the Telnet protocol.
+  - ftp: A service that allows file transfer between hosts using the File Transfer Protocol (FTP).
+- The following are the steps to perform the experiment:
+  - Step 1: Open a terminal window on your computer and type `ping www.google.com` to test the connectivity to Google's website. Observe the output and note down the IP address of the destination, the number of packets sent and received, the round-trip time, and the packet loss rate.
+  - Step 2: Type `traceroute www.google.com` to trace the route of packets to Google's website. Observe the output and note down the number of hops, the IP addresses and names of the intermediate routers and hosts, and the time taken for each hop.
+  - Step 3: Type `nslookup www.google.com` to query the DNS and resolve the hostname to an IP address. Observe the output and note down the name and address of the DNS server, the name and address of the destination, and any aliases or other records associated with the destination.
+  - Step 4: Type `arp -a` to display the ARP cache on your computer. Observe the output and note down the IP addresses and MAC addresses of the hosts on your local network.
+  - Step 5: Type `telnet towel.blinkenlights.nl` to connect to a remote host using the Telnet protocol. Observe the output and enjoy the ASCII art animation of Star Wars. To exit, press Ctrl + ] and then type `quit`.
+  - Step 6: Type `ftp ftp.gnu.org` to connect to a remote host using the FTP protocol. Observe the output and enter `anonymous` as the username and your email address as the password. To list the files and directories on the remote host, type `ls`. To download a file, type `get filename`. To upload a file, type `put filename`. To exit, type `bye`.
+- The following are some questions to test your understanding of the experiment:
+  - Q1: What is the purpose of ping command and what are the parameters that can be used to modify its behavior?
+  - Q2: What is the difference between traceroute and ping commands and how can they be used to diagnose network problems?
+  - Q3: What is the role of DNS and how can nslookup command be used to query different types of DNS records?
+  - Q4: What is the function of ARP and how can arp command be used to add, delete, or modify ARP entries?
+  - Q5: What are the advantages and disadvantages of telnet service and what are some alternatives to it?

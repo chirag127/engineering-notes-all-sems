@@ -1,0 +1,27 @@
+# Event and signals
+
+- Events are occurrences that trigger changes in the state of a system or its components .
+- Events can be external or internal .
+  - External events are those that pass between the system and its actors (users or other systems).
+  - Internal events are those that pass among the objects that live within the system.
+- There are four kinds of events :
+  - Signals
+  - Calls
+  - The passing of time
+  - A change in state
+- Signals are events that represent the specification of an asynchronous stimulus communicated between instances  .
+  - A signal is an object that is dispatched (thrown) asynchronously by one object and then received (caught) by another .
+  - A signal event is the event of sending or receiving a signal.
+  - When an object sends a signal to another object, it does not wait for an acknowledgement, but continues its execution.
+  - An acknowledgement signal is a separate signal under the control of the receiver object, which may or may not choose to send it.
+  - Modeling a signal event is visualized by a dashed arrow with a filled arrowhead from the sender to the receiver .
+- Calls are events that represent the invocation of an operation on an object.
+  - A call is a synchronous event, which means that when an object invokes an operation on another object, control passes from the sender to the receiver until the operation is completed, whereupon control returns to the sender .
+  - A call event is the event of invoking or executing an operation.
+  - Modeling a call event is visualized in the same way as a signal event, except that the arrow is solid instead of dashed .
+- The passing of time is an event that represents the elapse of a certain amount of time.
+  - A time event is the event of reaching a specific point in time or a specific duration of time.
+  - Modeling a time event is visualized by a stopwatch symbol attached to the lifeline of an object.
+- A change in state is an event that represents the occurrence of a change in the value of an attribute or a relationship of an object.
+  - A change event is the event of satisfying a boolean expression that defines the change in state.
+  - Modeling a change event is visualized by a lightning bolt symbol attached to the lifeline of an object.

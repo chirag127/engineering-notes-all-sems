@@ -1,0 +1,23 @@
+### Analysis of Time Series
+
+- A time series is a series of data points indexed in time order. It is a sequence of discrete-time data that represents observations of a variable over time. Examples of time series are heights of ocean tides, counts of sunspots, and the daily closing value of the stock market.
+- Time series analysis is the process of analyzing a time series to extract meaningful statistics and characteristics of the data. It is mainly concerned with identifying three aspects of the time series: trend, seasonality, and noise.
+  - Trend is the long-term direction or pattern of the data. It can be upward, downward, or constant. Trend can be estimated by smoothing the data using moving averages or regression techniques.
+  - Seasonality is the periodic or cyclical variation of the data that repeats over a fixed period of time, such as days, weeks, months, or years. Seasonality can be detected by decomposing the data into seasonal and non-seasonal components using methods such as additive or multiplicative models.
+  - Noise is the random or irregular fluctuation of the data that is not explained by the trend or seasonality. Noise can be reduced by applying filters or transformations to the data, such as differencing or logarithmic transformation.
+- Time series analysis can be used for various purposes, such as:
+  - Descriptive analysis: to summarize and visualize the main features and patterns of the data.
+  - Exploratory analysis: to identify potential relationships, correlations, or causations between the data and other variables or factors.
+  - Inferential analysis: to test hypotheses or make inferences about the population or the underlying process that generates the data.
+  - Predictive analysis: to forecast future values of the data based on past observations and models.
+  - Prescriptive analysis: to suggest optimal actions or decisions based on the data and models.
+- Time series analysis can employ a range of models that can process the data, such as:
+  - Autoregressive (AR) models: to model the data as a linear function of its own past values.
+  - Moving average (MA) models: to model the data as a linear function of past errors or residuals.
+  - Autoregressive moving average (ARMA) models: to combine AR and MA models.
+  - Autoregressive integrated moving average (ARIMA) models: to extend ARMA models by adding differencing to make the data stationary or constant in mean and variance.
+  - Seasonal autoregressive integrated moving average (SARIMA) models: to extend ARIMA models by adding seasonal terms to capture seasonality.
+  - Exponential smoothing models: to model the data as a weighted average of its past values, with more weight given to recent observations.
+  - State space models: to model the data as a function of unobserved or latent variables that evolve over time according to a transition equation.
+  - Neural network models: to model the data as a nonlinear function of its own past values and other inputs, using artificial neurons and layers.
+  - Machine learning models: to model the data using various algorithms that learn from the data and optimize a loss function, such as regression, classification, clustering, or reinforcement learning.

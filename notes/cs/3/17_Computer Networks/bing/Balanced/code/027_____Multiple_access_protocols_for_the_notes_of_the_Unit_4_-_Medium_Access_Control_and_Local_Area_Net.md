@@ -1,0 +1,10 @@
+### Multiple access protocols for the notes of the Unit 4 - Medium Access Control and Local Area Networks in the subject of Computer Networks
+
+- Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model.
+- These protocols allow a number of nodes or users to access a shared network channel, such as a wired or wireless LAN or a satellite network .
+- The main challenge of multiple access protocols is to coordinate the access to the link and avoid collisions, which occur when two or more nodes transmit at the same time and interfere with each other .
+- Multiple access protocols can be classified into three categories: random access, controlled access, and channelization .
+- Random access protocols: In these protocols, all stations have equal priority to send data over the channel. There is no fixed time for sending data. Stations can sense the state of the channel (idle or busy) and decide when to transmit. Examples of random access protocols are ALOHA, Carrier Sense Multiple Access (CSMA), CSMA with Collision Detection (CSMA/CD), and CSMA with Collision Avoidance (CSMA/CA) .
+- Controlled access protocols: In these protocols, the access to the channel is controlled by a central station or a distributed algorithm. Stations have to request permission to send data and wait for their turn. Examples of controlled access protocols are Reservation, Polling, and Token Passing .
+- Channelization protocols: In these protocols, the channel is divided into smaller sub-channels, either in time, frequency, or code. Each station is assigned a sub-channel and can transmit data without interference from other stations. Examples of channelization protocols are Time Division Multiple Access (TDMA), Frequency Division Multiple Access (FDMA), and Code Division Multiple Access (CDMA) .
+- Multiple access protocols are essential for the efficient and fair use of the network resources and the performance of the communication system.

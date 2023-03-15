@@ -1,0 +1,26 @@
+# Validation Based Protocol
+
+- Validation Based Protocol is a type of concurrency control technique that works on the validation rules and timestamps .
+- It is also called Optimistic Concurrency Control Technique because it assumes that very few conflicts occur among transactions .
+- It does not check for conflicts while the transaction is executing, but only at the end of the transaction .
+- It consists of three phases for each transaction: read phase, validation phase, and write phase  .
+- In the read phase, the transaction can read data values from the database, but it can only write or update the local copies of the data, not the actual database .
+- In the validation phase, the transaction is checked for conflicts with other transactions that have already committed  .
+- The validation phase uses timestamps to determine the order of transactions and to detect conflicts  .
+- A timestamp is a unique identifier assigned to each transaction when it starts  .
+- The validation phase uses two types of timestamps for each transaction: start timestamp (ST) and end timestamp (ET)  .
+- ST is the timestamp when the transaction starts its read phase, and ET is the timestamp when the transaction finishes its read phase  .
+- The validation phase compares the timestamps of the current transaction with the timestamps of the other transactions that have committed or are in the validation phase  .
+- The validation phase follows three rules to check for conflicts  :
+  - If the current transaction Ti has read a data item X that was written by another transaction Tj, and STi < ETj, then Ti is aborted and restarted with a new timestamp  .
+  - If the current transaction Ti has written a data item X that was read by another transaction Tj, and STi < STj < ETi, then Ti is aborted and restarted with a new timestamp  .
+  - If the current transaction Ti has written a data item X that was written by another transaction Tj, and STi < STj < ETi, then Ti is aborted and restarted with a new timestamp  .
+- If the current transaction Ti passes the validation phase without any conflicts, then it proceeds to the write phase  .
+- In the write phase, the transaction writes or updates the actual database with the local copies of the data .
+- The transaction then commits and releases all the resources .
+- The advantages of validation based protocol are :
+  - It does not require locking or unlocking of data items, which reduces the overhead and the possibility of deadlock .
+  - It allows more concurrency among transactions, as they can execute without interference until the validation phase .
+- The disadvantages of validation based protocol are :
+  - It may cause more aborts and restarts of transactions, which increases the cost and the response time .
+  - It may not be suitable for applications that have high conflict rates among transactions .

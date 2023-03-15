@@ -1,0 +1,10 @@
+### Flow control and retransmission for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- The transport layer is the fourth layer of the OSI model that provides reliable and efficient communication between end systems across a network.
+- The transport layer performs the following functions:
+  - Packetization: The transport layer divides the application messages into smaller units called segments and adds a header to each segment with information such as source and destination port numbers, sequence numbers, and checksums.
+  - Flow control: The transport layer regulates the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver or causing buffer overflow or underflow. Flow control can be implemented by using techniques such as sliding window, stop-and-wait, or backpressure .
+  - Retransmission: The transport layer detects and corrects errors in the data transmission by requesting retransmission of corrupted or lost segments. Retransmission can be triggered by using techniques such as acknowledgments, timers, or checksums.
+- The transport layer protocols are implemented in the end systems but not in the network routers. A computer network provides more than one protocol to the network applications. For example, TCP and UDP are two transport layer protocols that provide a different set of services to the network layer.
+  - TCP (Transmission Control Protocol) is a connection-oriented, reliable, and full-duplex protocol that provides flow control, error control, and congestion control mechanisms. TCP uses a three-way handshake to establish a connection, a sliding window to regulate the data flow, and acknowledgments and timers to ensure the data delivery.
+  - UDP (User Datagram Protocol) is a connectionless, unreliable, and simplex protocol that provides minimal services to the network layer. UDP does not provide any flow control, error control, or congestion control mechanisms. UDP is suitable for applications that require low latency, high throughput, or multicast communication.

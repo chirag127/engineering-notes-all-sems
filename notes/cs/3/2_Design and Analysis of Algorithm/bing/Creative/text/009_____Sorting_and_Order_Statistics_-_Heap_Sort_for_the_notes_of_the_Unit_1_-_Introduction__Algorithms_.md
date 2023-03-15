@@ -1,0 +1,12 @@
+### Sorting and Order Statistics - Heap Sort
+
+- Heap sort is a comparison-based sorting algorithm that uses a binary heap data structure to sort a list of elements.
+- A binary heap is a complete binary tree that satisfies the heap property: the value of each node is greater than or equal to the value of its children (for a max heap) or less than or equal to the value of its children (for a min heap).
+- The heap sort algorithm can be divided into two steps: heapify and extract.
+- Heapify is the process of building a heap from an unsorted list. It can be done in linear time by starting from the last non-leaf node and sifting it down until it satisfies the heap property, and then repeating the same for all the preceding non-leaf nodes.
+- Extract is the process of removing the root element of the heap (which is the maximum or minimum element depending on the type of heap) and replacing it with the last element of the heap, and then sifting it down until it satisfies the heap property. This is repeated until the heap is empty, and the extracted elements form a sorted list.
+- Heap sort is an in-place algorithm, meaning it does not require extra space to sort the list. However, it is not a stable algorithm, meaning it does not preserve the relative order of equal elements.
+- The time complexity of heap sort is O(n log n) in the worst, average, and best cases, where n is the number of elements in the list. This is because heapify takes O(n) time and extract takes O(log n) time for each element.
+- The space complexity of heap sort is O(1), as it only requires a constant amount of extra space to store the heap.
+- Heap sort is typically 2-3 times slower than well-implemented quick sort, due to the lack of locality of reference and the overhead of maintaining the heap structure.
+- Heap sort is suitable for sorting large data sets that do not fit in memory, as it can be easily implemented using external storage devices. It is also useful for finding the k largest or smallest elements in a list, as it can be done in O(n + k log n) time by using a heap of size k.

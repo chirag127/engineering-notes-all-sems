@@ -1,0 +1,10 @@
+### 3-D viewing for the notes of the Unit 3 - Three Dimensional in the subject of Computer Graphics
+
+- 3-D viewing is the process of displaying 3-D computer graphics on a 2-D or 3-D display device, such as a monitor or a virtual reality headset.
+- 3-D viewing involves two main steps: 3-D modeling and 3-D projection.
+- 3-D modeling is the creation of 3-D objects using 3-D modeling software, such as Blender, Maya, or SketchUp . 3-D modeling software allows the user to define the shape, color, texture, and other properties of 3-D objects using various methods, such as drawing points, lines, triangles, and other polygonal patches.
+- 3-D projection is the transformation of 3-D objects into 2-D or 3-D images that can be displayed on a screen or a projection plane . 3-D projection involves two sub-steps: modeling transformation and viewing transformation.
+- Modeling transformation is the manipulation of 3-D objects in the 3-D world coordinate system, such as translation, rotation, scaling, and shearing. Modeling transformation allows the user to change the position, orientation, size, and shape of 3-D objects according to their needs.
+- Viewing transformation is the specification of the observer's position, orientation, and view volume in the 3-D world coordinate system. Viewing transformation allows the user to define the perspective from which the 3-D objects are viewed and the region of interest that is projected onto the screen or the projection plane.
+- There are different types of 3-D projection, such as parallel projection and perspective projection. Parallel projection preserves the relative sizes and shapes of 3-D objects, but does not create a realistic sense of depth. Perspective projection creates a realistic sense of depth, but distorts the relative sizes and shapes of 3-D objects.
+- 3-D viewing is an important and challenging topic in computer graphics, as it requires a lot of mathematical calculations, algorithms, and data structures to perform efficiently and accurately . 3-D viewing is also widely used in various applications, such as video games, animation, simulation, virtual reality, and augmented reality   .

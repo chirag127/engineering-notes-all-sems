@@ -1,0 +1,7 @@
+### Hadoop for the notes of the Unit 6 - Frame Works and Visualization in the subject of Data Analytics
+
+1. **Introduction to Data Visualization**: Data visualization is a set of data points and information that are represented graphically to make it easy and quick for the user to understand. Data visualization is good if it has a clear meaning, purpose, and is very easy to interpret, without requiring context .
+
+2. **Data Visualization and Hadoop**: Hadoop is an open-source software framework used as a popular data storage and analysis platform. Many large and successful organizations are using Hadoop to do powerful analysis of the data . There are data visualization tools designed for dynamic data visualization that can integrate, prepare, and analyze any kind of data, highly suitable for end-to-end data visualization that can be used with Hadoop. It has a compatibility feature with Hadoop that combines self-service data integration technology .
+
+3. **Implementation of Data Visualization Techniques in Hadoop**: In the case of Big Data, the datasets need to be formatted and uploaded to the Hadoop Distributed File System (HDFS) and used further by various nodes with Mappers and Reducers in Hadoop clusters . Further advancement of Hadoop makes it a powerful framework and an extensible platform for both ongoing innovation in terms of data management and adoptions of enterprise application (using data visualization tools such as Datameer) .

@@ -1,0 +1,18 @@
+### Notes for Unit 5 - Structured Query Language (SQL) in the subject of Basics of Data Base Management System
+
+- SQL is a standard language for creating, manipulating, and querying data in relational databases.
+- SQL consists of several sublanguages, such as Data Definition Language (DDL), Data Manipulation Language (DML), Data Control Language (DCL), and Data Query Language (DQL).
+- DDL is used to define the structure and schema of the database, such as creating, altering, and dropping tables, views, indexes, and constraints.
+- DML is used to insert, update, delete, and merge data in the database tables.
+- DCL is used to grant and revoke permissions and privileges to users and roles on the database objects.
+- DQL is used to retrieve and manipulate data from the database tables using various clauses, operators, functions, and expressions.
+- SQL statements are composed of keywords, identifiers, literals, symbols, and comments. Keywords are reserved words that have a specific meaning and syntax in SQL. Identifiers are names of database objects, such as tables, columns, views, etc. Literals are constants, such as strings, numbers, dates, etc. Symbols are punctuation marks, such as commas, parentheses, semicolons, etc. Comments are optional texts that explain or document the SQL code, and are ignored by the SQL interpreter.
+- SQL statements can be executed interactively using a command-line interface (CLI) or a graphical user interface (GUI) tool, or embedded in a host programming language, such as Java, C#, Python, etc.
+- SQL statements can be classified into two categories: single-row and multiple-row statements. Single-row statements affect or return only one row at a time, such as INSERT, UPDATE, DELETE, and SELECT with a WHERE clause. Multiple-row statements affect or return more than one row at a time, such as SELECT without a WHERE clause, JOIN, GROUP BY, HAVING, and ORDER BY.
+- SQL supports various data types, such as numeric, character, date and time, Boolean, binary, etc. Each data type has a range of values and a storage size. SQL also supports user-defined data types, such as domains, enums, arrays, etc.
+- SQL supports various constraints, such as primary key, foreign key, unique, not null, check, default, etc. Constraints are rules that enforce the integrity and validity of the data in the database tables.
+- SQL supports various operators, such as arithmetic, comparison, logical, bitwise, set, etc. Operators are symbols that perform calculations or comparisons on the operands. Operators have a precedence order that determines the order of evaluation in an expression.
+- SQL supports various functions, such as aggregate, scalar, string, numeric, date and time, conversion, etc. Functions are predefined or user-defined routines that perform a specific task and return a value. Functions can be used in various clauses and expressions in SQL statements.
+- SQL supports various clauses, such as SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, etc. Clauses are keywords that specify the structure and logic of the SQL statements. Clauses have a specific order and syntax in SQL statements.
+- SQL supports various expressions, such as arithmetic, conditional, case, null, etc. Expressions are combinations of literals, identifiers, operators, and functions that produce a value. Expressions can be used in various clauses and statements in SQL.
+- SQL supports various statements, such as CREATE, ALTER, DROP, TRUNCATE, INSERT, UPDATE, DELETE, SELECT, JOIN, UNION, INTERSECT, EXCEPT, etc. Statements are keywords that perform a specific action on the database objects or data. Statements have a specific syntax and semantics in SQL.

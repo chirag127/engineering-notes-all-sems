@@ -1,0 +1,11 @@
+### Alpha
+- Alpha is a **search algorithm** that uses **heuristic evaluation functions** to guide the search process towards the most promising states.
+- Alpha is based on the idea of **best-first search**, which expands the node with the lowest evaluation function value at each step.
+- Alpha uses a **priority queue** to store the nodes that are waiting to be expanded, and orders them by their evaluation function values.
+- Alpha can be seen as a generalization of **greedy search** and **A* search**, which are special cases of best-first search with different evaluation functions.
+- Alpha can also be seen as a generalization of **minimax search** and **alpha-beta pruning**, which are special cases of best-first search for two-player games with adversarial evaluation functions.
+- Alpha can handle **any type of evaluation function**, as long as it is consistent with the goal test and the path cost function.
+- Alpha can also handle **any type of search problem**, as long as it is well-defined and has a finite branching factor.
+- Alpha is **complete** and **optimal** if the evaluation function is **admissible** and **consistent**, meaning that it never overestimates the cost to reach the goal and it is monotonic along any path.
+- Alpha is **incomplete** and **suboptimal** if the evaluation function is **inadmissible** or **inconsistent**, meaning that it may overestimate the cost to reach the goal or it may decrease along some paths.
+- Alpha is **efficient** and **effective** if the evaluation function is **informative** and **selective**, meaning that it provides a good estimate of the cost to reach the goal and it discriminates well between promising and unpromising states.

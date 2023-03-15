@@ -1,0 +1,29 @@
+### Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a function that specifies the move to make in each situation .
+- A strategy is optimal if it guarantees the best possible outcome against any opponent .
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just its utility value .
+- The minimax value of a non-terminal node can be computed recursively by applying the following rules :
+  - If n is a MAX node, then MINIMAX(n) = max(MINIMAX(c) for c in CHILDREN(n))
+  - If n is a MIN node, then MINIMAX(n) = min(MINIMAX(c) for c in CHILDREN(n))
+- The minimax algorithm is a depth-first search that computes the minimax value of the root node by applying the above rules .
+- The optimal move for MAX is the one that leads to a child node with the highest minimax value .
+- The optimal move for MIN is the one that leads to a child node with the lowest minimax value .
+- The minimax algorithm is complete and optimal, but it is also very inefficient, as it explores the entire game tree .
+- The complexity of the minimax algorithm is O(b^m), where b is the branching factor and m is the maximum depth of the game tree .
+- The minimax algorithm can be improved by using alpha-beta pruning, which is a technique that eliminates branches of the game tree that are provably irrelevant .
+- Alpha-beta pruning maintains two values, alpha and beta, that represent the lower and upper bounds of the possible minimax values of the nodes along the current path of the search .
+- Alpha-beta pruning applies the following rules :
+  - If a MAX node n has a child c such that MINIMAX(c) >= beta, then prune the remaining children of n, as they cannot improve the minimax value of n.
+  - If a MIN node n has a child c such that MINIMAX(c) <= alpha, then prune the remaining children of n, as they cannot worsen the minimax value of n.
+  - Update alpha and beta values as the search progresses, using alpha = max(alpha, MINIMAX(c)) for MAX nodes and beta = min(beta, MINIMAX(c)) for MIN nodes.
+- Alpha-beta pruning does not affect the correctness of the minimax algorithm, but it can reduce the complexity to O(b^(m/2)) in the best case and O(b^(3m/4)) in the average case .
+- The performance of alpha-beta pruning depends on the order of the children nodes, as pruning more branches earlier leads to more efficiency .
+- A good heuristic function can help to order the children nodes by estimating their minimax values without exploring them fully .
+- A heuristic function is a function that maps a state to a numerical value that represents its desirability for a player .
+- A heuristic function should be consistent with the utility function, meaning that it should assign higher values to states that are more likely to lead to wins and lower values to states that are more likely to lead to losses .
+- A heuristic function should also be admissible, meaning that it should never overestimate the true minimax value of a state .
+- A heuristic function can be used to implement a depth-limited search, which is a variant of the minimax algorithm

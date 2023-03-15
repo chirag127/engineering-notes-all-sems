@@ -1,0 +1,22 @@
+### Variables
+- A variable is a named memory location that can store a value of a specific data type.
+- A variable has three attributes: name, type, and value.
+- The name of a variable is an identifier that follows the rules of C++ syntax.
+- The type of a variable determines the range of values it can store and the operations that can be performed on it.
+- The value of a variable is the data that is stored in the memory location associated with the variable name.
+- A variable can be declared, initialized, assigned, and accessed in a C++ program.
+- A variable declaration specifies the name and type of a variable, and optionally its initial value.
+- A variable initialization assigns a value to a variable at the time of its declaration.
+- A variable assignment changes the value of a variable after its declaration.
+- A variable access refers to the use of a variable name in an expression or a statement to retrieve or modify its value.
+- A variable can have different scopes and lifetimes depending on where and how it is declared.
+- A variable scope is the region of the program where the variable name is visible and can be accessed.
+- A variable lifetime is the duration of the program execution where the variable exists in memory and has a valid value.
+- A variable can have one of the following scopes: global, local, or static.
+- A global variable is declared outside any function or class, and can be accessed from any part of the program.
+- A local variable is declared inside a function or a block, and can be accessed only from within that function or block.
+- A static variable is declared with the static keyword, and retains its value across multiple function calls or program executions.
+- A variable can have one of the following lifetimes: automatic, static, or dynamic.
+- An automatic variable is created when its declaration is encountered, and destroyed when its scope ends.
+- A static variable is created before the program execution begins, and destroyed when the program execution ends.
+- A dynamic variable is created and destroyed by the programmer using the new and delete operators, and has no fixed scope or lifetime.

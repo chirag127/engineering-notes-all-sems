@@ -1,0 +1,8 @@
+# K-means for the notes of the Unit 5 - Frequent Itemsets and Clustering in the subject of Data Analytics
+
+- K-means is a popular and simple algorithm for clustering data into k groups, where k is a predefined number of clusters.
+- The algorithm works by randomly choosing k points as the initial cluster centers (called centroids), and then assigning each data point to the closest centroid based on some distance measure (usually Euclidean distance).
+- The algorithm then iterates by updating the centroids as the mean of the data points assigned to them, and reassigning the data points to the new centroids. The algorithm stops when the centroids do not change significantly or a maximum number of iterations is reached.
+- The main advantages of k-means are its simplicity, speed, and scalability. It can handle large and high-dimensional data sets efficiently.
+- The main disadvantages of k-means are its sensitivity to the initial centroids, the choice of k, and the distance measure. It can produce different results depending on these factors, and it may not find the optimal clustering. It also assumes that the clusters are spherical and have similar sizes and densities, which may not be true for some data sets.
+- Some variations and extensions of k-means are k-medoids, which uses actual data points as centroids instead of means, k-means++, which uses a smarter way of choosing the initial centroids, and fuzzy k-means, which allows data points to belong to multiple clusters with different degrees of membership.

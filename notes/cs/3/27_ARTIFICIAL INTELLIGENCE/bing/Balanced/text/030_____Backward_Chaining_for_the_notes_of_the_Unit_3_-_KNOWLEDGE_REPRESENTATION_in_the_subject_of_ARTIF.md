@@ -1,0 +1,28 @@
+### Backward Chaining
+
+- Backward chaining is a concept in artificial intelligence that involves backtracking from the endpoint or goal to steps that led to the endpoint.
+- It is a goal-driven inference method that starts from the goal and moves backward to comprehend the steps that were taken to attain this goal.
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining.
+- The main steps of backward chaining are:
+  - Identify the goal or query that needs to be proved or answered.
+  - Find a rule in the knowledge base that has the goal or query as its conclusion.
+  - Check if the premises of the rule are true or can be proved by other rules.
+  - If all the premises are true or can be proved, then the goal or query is true.
+  - If some of the premises are false or cannot be proved, then the goal or query is false or unknown.
+  - If there are multiple rules that have the goal or query as their conclusion, then try each rule until one succeeds or all fail.
+- An example of backward chaining is:
+  - Goal: John is a criminal
+  - Rule 1: If someone is a tax evader, then they are a criminal
+  - Rule 2: If someone earns more than $100,000 and does not pay taxes, then they are a tax evader
+  - Rule 3: John earns more than $100,000
+  - Backward chaining process:
+    - To prove John is a criminal, we need to find a rule that has John is a criminal as its conclusion.
+    - Rule 1 has John is a criminal as its conclusion, but it requires John is a tax evader as its premise.
+    - To prove John is a tax evader, we need to find a rule that has John is a tax evader as its conclusion.
+    - Rule 2 has John is a tax evader as its conclusion, but it requires John earns more than $100,000 and John does not pay taxes as its premises.
+    - To prove John earns more than $100,000, we can use Rule 3, which is a fact in the knowledge base.
+    - To prove John does not pay taxes, we need to find a fact or a rule that supports this premise, but we do not have any in the knowledge base.
+    - Therefore, we cannot prove John is a tax evader, and we cannot prove John is a criminal.
+    - We can try another rule that has John is a criminal as its conclusion, if there is any, or we can conclude that John is a criminal is false or unknown.

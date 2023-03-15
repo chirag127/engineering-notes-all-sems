@@ -1,0 +1,8 @@
+### Linear Kernel
+
+Linear kernel is a type of kernel function used in machine learning algorithms, particularly in support vector machines (SVMs). A kernel function is used to transform the input data into a higher dimensional space, where it is easier to separate the data using a linear classifier.
+
+- Linear Regression is an algorithm that belongs to supervised Machine Learning. It tries to apply relations that will predict the outcome of an event based on the independent variable data points. The relation is usually a straight line that best fits the different data points as close as possible .
+- Linear Regression in Machine Learning analysis is important for evaluating data and establishing a definite relationship between two or more variables. Regression quantifies how the dependent variable changes as the independent variable itself take different values .
+- Kernel ridge regression (KRR) combines ridge regression (linear least squares with l2-norm regularization) with the kernel trick. It thus learns a linear function in the space induced by the respective kernel and the data. For non-linear kernels, this corresponds to a non-linear function in the original space .
+- In machine learning, kernel machines are a class of algorithms for pattern analysis, whose best known member is the support-vector machine (SVM). The general task of pattern analysis is to find and study general types of relations (for example clusters, rankings, principal components, correlations, classifications) in datasets .

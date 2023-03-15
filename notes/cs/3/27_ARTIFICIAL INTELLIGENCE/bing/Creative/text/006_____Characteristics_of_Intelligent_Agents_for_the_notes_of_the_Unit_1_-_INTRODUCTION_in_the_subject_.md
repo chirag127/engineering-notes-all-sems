@@ -1,0 +1,9 @@
+### Characteristics of Intelligent Agents
+
+An intelligent agent is a computer software system that can perceive its environment, act rationally, and learn from its experience. Intelligent agents can be used for various applications in artificial intelligence, such as data mining, data analytics, customer service, and decision support. Some of the common characteristics of intelligent agents are:
+
+- **Autonomy**: An intelligent agent can act independently and without direct human intervention. It can control its own actions and internal state based on its goals and preferences. It can also adapt to changing situations and cope with uncertainty.
+- **Learning**: An intelligent agent can improve its performance and knowledge over time by learning from its own actions and feedback. It can also learn from other agents or sources of information. It can use different learning methods, such as reinforcement learning, supervised learning, or unsupervised learning.
+- **Interaction**: An intelligent agent can communicate and cooperate with other agents, humans, or systems. It can use various modes of interaction, such as natural language, speech, gestures, or graphical user interfaces. It can also follow social norms and protocols to coordinate its actions with others.
+- **Knowledge**: An intelligent agent can represent and reason about its environment, its own state, and its goals. It can use various forms of knowledge, such as facts, rules, beliefs, preferences, or plans. It can also update its knowledge based on new information or feedback.
+- **Goal-oriented**: An intelligent agent can pursue its own objectives and interests. It can formulate and execute plans to achieve its goals. It can also monitor its progress and evaluate its outcomes. It can also balance multiple and conflicting goals and preferences.

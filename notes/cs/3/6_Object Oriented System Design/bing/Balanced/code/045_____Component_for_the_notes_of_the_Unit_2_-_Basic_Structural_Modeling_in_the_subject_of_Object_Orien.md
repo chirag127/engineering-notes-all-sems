@@ -1,0 +1,21 @@
+### Component for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notation.
+- The static structure of a system consists of the objects, classes, attributes, operations, associations, and constraints that define the system's state and behavior.
+- Basic structural modeling can be performed at different levels of abstraction, such as analysis, design, and implementation.
+- Basic structural modeling can be represented using different diagrams, such as class diagrams, object diagrams, component diagrams, and deployment diagrams.
+- The benefits of basic structural modeling are:
+  - It helps to understand the system's domain and requirements.
+  - It helps to identify the main entities and relationships in the system.
+  - It helps to define the system's architecture and subsystems.
+  - It helps to reuse existing classes and components.
+  - It helps to facilitate communication and collaboration among stakeholders.
+- The steps of basic structural modeling are:
+  - Identify the classes and objects in the system.
+  - Define the attributes and operations of each class and object.
+  - Specify the associations and multiplicity among classes and objects.
+  - Apply generalization, specialization, and inheritance to organize classes and objects into hierarchies.
+  - Define the interfaces and contracts of each class and object.
+  - Group classes and objects into components and subsystems.
+  - Allocate components and subsystems to physical nodes and devices.
+  - Validate and verify the structural model using scenarios and test cases.

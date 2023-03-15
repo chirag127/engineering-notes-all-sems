@@ -1,0 +1,22 @@
+### Operator Precedence Parsing
+
+- Operator precedence parsing is a bottom-up parsing method that can handle a subset of LR(1) grammars.
+- A grammar is said to be operator precedence if it has two properties:
+  - It does not contain epsilon productions (productions with empty right-hand side).
+  - It does not contain two consecutive nonterminals in the right-hand side of any production.
+- Operator precedence parsing uses a stack and an input buffer to parse the input string.
+- The stack initially contains a special symbol `$` that marks the bottom of the stack.
+- The input buffer initially contains the input string followed by a special symbol `$` that marks the end of the input.
+- The parser maintains a relation between the terminal symbols of the grammar, which can be one of the following:
+  - Less than (`<`): The symbol on the top of the stack has lower precedence than the symbol at the front of the input buffer.
+  - Equal to (`=`): The symbol on the top of the stack has the same precedence as the symbol at the front of the input buffer.
+  - Greater than (`>`): The symbol on the top of the stack has higher precedence than the symbol at the front of the input buffer.
+  - Error (` `): There is no relation between the symbol on the top of the stack and the symbol at the front of the input buffer.
+- The relation between the terminal symbols can be defined by a precedence table or by precedence functions.
+- The parser performs one of the following actions depending on the relation between the symbols:
+  - Shift: If the relation is `<` or `=`, the parser pushes the symbol from the input buffer to the stack and advances the input pointer.
+  - Reduce: If the relation is `>`, the parser pops the symbols from the stack until it finds a handle (a right-hand side of a production) and replaces it with the corresponding left-hand side (a nonterminal). The input pointer does not change.
+  - Accept: If the stack contains only the start symbol of the grammar and the input buffer contains only `$`, the parser accepts the input string and terminates.
+  - Error: If the relation is ` ` or the stack does not contain a handle, the parser reports an error and terminates.
+- Operator precedence parsing is simple and efficient, but it can only handle a limited class of grammars. It also requires the grammar to be unambiguous and to have a proper precedence order among the operators.
+- Operator precedence parsing is commonly used for parsing arithmetic expressions and simple programming languages.

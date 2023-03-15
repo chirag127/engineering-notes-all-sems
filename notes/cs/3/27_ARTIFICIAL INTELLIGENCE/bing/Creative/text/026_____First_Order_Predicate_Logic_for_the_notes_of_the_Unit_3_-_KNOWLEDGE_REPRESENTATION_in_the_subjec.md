@@ -1,0 +1,13 @@
+### First Order Predicate Logic
+
+- First order predicate logic (FOPL) is a formal system of logic that allows the representation of complex sentences and relations using predicates, quantifiers, and variables.
+- A predicate is a symbol that denotes a property or relation of one or more objects. For example, `P(x)` means that object `x` has property `P`, and `Q(x,y)` means that objects `x` and `y` are related by `Q`.
+- A quantifier is a symbol that specifies how many objects in a domain satisfy a predicate. There are two main types of quantifiers: universal (`∀`) and existential (`∃`). For example, `∀x P(x)` means that all objects in the domain have property `P`, and `∃x Q(x,y)` means that there exists some object in the domain that is related to `y` by `Q`.
+- A variable is a symbol that can take any value from a domain. Variables are usually lowercase letters such as `x`, `y`, `z`, etc. Variables can be bound by quantifiers or free. For example, in `∀x P(x)`, `x` is a bound variable, and in `Q(x,y)`, `x` and `y` are free variables.
+- A constant is a symbol that denotes a specific object in the domain. Constants are usually uppercase letters such as `A`, `B`, `C`, etc. For example, `P(A)` means that object `A` has property `P`.
+- A function is a symbol that maps one or more objects to another object in the domain. Functions are usually lowercase letters followed by parentheses, such as `f(x)`, `g(x,y)`, etc. For example, `Q(f(x),g(x,y))` means that the object obtained by applying function `f` to `x` is related to the object obtained by applying function `g` to `x` and `y` by `Q`.
+- A term is either a variable, a constant, or a function applied to terms. For example, `x`, `A`, and `f(g(x,y))` are terms.
+- An atomic formula is a predicate applied to terms. For example, `P(x)`, `Q(A,B)`, and `R(f(x),g(y,z))` are atomic formulas.
+- A formula is either an atomic formula, or a complex formula obtained by applying logical connectives (such as `¬`, `∧`, `∨`, `→`, `↔`) or quantifiers to formulas. For example, `¬P(x)`, `P(x) ∧ Q(y)`, `∀x (P(x) → Q(x))`, and `∃x ∃y (R(x,y) ↔ ¬R(y,x))` are formulas.
+- A sentence is a formula that has no free variables. For example, `∀x P(x)`, `∃x Q(x,A)`, and `∀x ∃y (R(x,y) ↔ ¬R(y,x))` are sentences.
+- A model is a structure that assigns a domain, a value to each constant, a function to each function symbol, and a truth value to each atomic formula. A model satisfies a formula if the formula is true under the model. A formula is valid if it is satisfied by every model, and satisfiable if it is satisfied by some model. A formula is unsatisfiable if it is satisfied by no model.

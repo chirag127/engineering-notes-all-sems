@@ -1,0 +1,26 @@
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)
+
+- Socket programming is a way of connecting two nodes on a network to communicate with each other.
+- A socket is an endpoint of a communication channel that can send and receive data using a protocol.
+- There are two main types of sockets: stream sockets and datagram sockets.
+- Stream sockets use TCP (Transmission Control Protocol) as the transport layer protocol, which provides a reliable, connection-oriented, and byte-stream service .
+- Datagram sockets use UDP (User Datagram Protocol) as the transport layer protocol, which provides an unreliable, connectionless, and message-oriented service .
+- TCP sockets require a three-way handshake to establish a connection between the client and the server, and use acknowledgments and retransmissions to ensure data delivery.
+- UDP sockets do not require a connection establishment or termination, and do not guarantee data delivery or order.
+- TCP sockets are suited for applications that require high reliability, such as web browsing, file transfer, or email.
+- UDP sockets are suited for applications that require low latency, such as video streaming, online gaming, or voice over IP.
+- To create a TCP socket in C, the socket() function is used with the arguments AF_INET (for IPv4), SOCK_STREAM (for stream socket), and 0 (for default protocol) .
+- To create a UDP socket in C, the socket() function is used with the arguments AF_INET (for IPv4), SOCK_DGRAM (for datagram socket), and 0 (for default protocol) .
+- To create a TCP socket in Python, the socket.socket() function is used with the arguments socket.AF_INET (for IPv4), socket.SOCK_STREAM (for stream socket), and 0 (for default protocol).
+- To create a UDP socket in Python, the socket.socket() function is used with the arguments socket.AF_INET (for IPv4), socket.SOCK_DGRAM (for datagram socket), and 0 (for default protocol).
+- To bind a socket to a specific port and IP address, the bind() function is used with the arguments socket and sockaddr (a structure that contains the IP and port)   .
+- To listen for incoming connections on a TCP socket, the listen() function is used with the argument socket and backlog (the maximum number of queued connections)  .
+- To accept a connection request on a TCP socket, the accept() function is used with the argument socket and returns a new socket and the client address  .
+- To connect to a server on a TCP socket, the connect() function is used with the argument socket and sockaddr (the server address)  .
+- To send data on a TCP socket, the send() function is used with the arguments socket and buffer (the data to be sent)  .
+- To receive data on a TCP socket, the recv() function is used with the arguments socket and length (the maximum number of bytes to be received)  .
+- To close a TCP socket, the close() function is used with the argument socket  .
+- To send data on a UDP socket, the sendto() function is used with the arguments socket, buffer (the data to be sent), flags (optional), and sockaddr (the destination address) .
+- To receive data on a UDP socket, the recvfrom() function is used with the arguments socket, length (the maximum number of bytes to be received), flags (optional), and sockaddr (the source address) .
+- To close a UDP socket, the close() function is used with the argument socket .
+- A simple DNS (Domain Name System) client/server application can be implemented using UDP sockets, where the client sends a domain name to the server and the server responds with the corresponding IP address[^

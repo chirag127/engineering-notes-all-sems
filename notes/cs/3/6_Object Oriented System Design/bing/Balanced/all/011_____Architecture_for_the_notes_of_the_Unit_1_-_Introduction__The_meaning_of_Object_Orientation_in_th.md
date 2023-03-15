@@ -1,0 +1,26 @@
+# Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Object Oriented System Design is a software development methodology that focuses on modeling the system as a collection of interacting objects that encapsulate data and behavior.
+- Object Oriented Architecture is a design paradigm that defines the structure and organization of an object oriented system, based on the principles of abstraction, encapsulation, inheritance, polymorphism, and modularity.
+- The benefits of Object Oriented Architecture are:
+  - It supports reusability and maintainability of code, as objects can be reused in different contexts and modified without affecting other parts of the system.
+  - It facilitates the development of complex and dynamic systems, as objects can communicate and collaborate with each other through well-defined interfaces and messages.
+  - It enhances the readability and understandability of the system, as objects can be represented by meaningful names and concepts that reflect the problem domain.
+  - It promotes the separation of concerns and the principle of least knowledge, as objects only expose the essential details of their functionality and hide the implementation details from other objects.
+- The main components of Object Oriented Architecture are:
+  - Classes: The blueprint or template for creating objects, defining their attributes and methods.
+  - Objects: The instances of classes, representing the entities or actors in the system, with their own state and behavior.
+  - Methods: The actions or operations that objects can perform, defining their functionality and logic.
+  - Attributes: The data or properties that objects have, defining their characteristics and state.
+  - Relationships: The associations or links between objects, defining how they interact and depend on each other. The common types of relationships are:
+    - Inheritance: The mechanism of creating new classes from existing ones, inheriting their attributes and methods, and adding new ones or overriding existing ones. This enables code reuse and specialization of behavior.
+    - Composition: The mechanism of creating complex objects from simpler ones, by aggregating them as parts of a whole. This enables code modularity and flexibility of design.
+    - Association: The mechanism of creating logical connections between objects, by referencing them as attributes or parameters. This enables code collaboration and communication of messages.
+    - Aggregation: A special type of association, where the whole object has a stronger relationship with the part object, and the part object can belong to only one whole object. This implies a whole-part hierarchy and a shared lifecycle.
+    - Generalization: A special type of inheritance, where the subclass is a more specific or specialized version of the superclass, and the superclass is a more general or abstract version of the subclass. This implies a is-a relationship and a substitution principle.
+- The main principles of Object Oriented Design are:
+  - Abstraction: The process of hiding the irrelevant details and focusing on the essential features of an object or a system, to simplify the complexity and increase the efficiency of design.
+  - Encapsulation: The process of wrapping the data and the methods of an object into a single unit, to protect the internal state and behavior of the object from external access and modification.
+  - Inheritance: The process of deriving new classes from existing ones, to reuse and extend the functionality of the parent classes, and to establish a hierarchical classification of objects.
+  - Polymorphism: The ability of an object to take different forms or behaviors, depending on the context or the type of the object, to support dynamic and flexible design.
+  - Modularity: The process of dividing a system into smaller and independent units or modules, to increase the cohesion and decrease the coupling of the system, and to facilitate the development and maintenance of the system.

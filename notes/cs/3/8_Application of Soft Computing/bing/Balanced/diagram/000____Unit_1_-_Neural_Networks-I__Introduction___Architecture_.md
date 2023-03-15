@@ -1,0 +1,28 @@
+## Unit 1 - Neural Networks-I (Introduction & Architecture)
+
+- Neural networks are computational models that are inspired by the structure and function of biological neurons and synapses.
+- Neural networks can learn from data and perform tasks such as classification, regression, clustering, dimensionality reduction, etc.
+- Neural networks consist of layers of artificial neurons, also called units or nodes, that are connected by weighted links, also called edges or synapses.
+- Each neuron receives inputs from other neurons or external sources, and computes an output based on a nonlinear activation function.
+- The output of a neuron can be transmitted to other neurons or used as the final output of the network.
+- The weights of the links determine the strength and direction of the influence of one neuron on another.
+- The weights can be adjusted by a learning algorithm that minimizes a loss function, which measures the discrepancy between the network output and the desired output.
+- The learning algorithm can be supervised, unsupervised, or reinforcement-based, depending on the availability and nature of the data and the task.
+- The architecture of a neural network refers to the number, type, and arrangement of the layers and neurons in the network.
+- The architecture determines the complexity and capacity of the network, as well as the computational cost and efficiency of the learning and inference processes.
+- The most common types of layers are:
+  - Input layer: the layer that receives the input data and passes it to the next layer.
+  - Hidden layer: the layer that performs some computation on the input or previous layer output and passes it to the next layer.
+  - Output layer: the layer that produces the final output of the network.
+- The most common types of neurons are:
+  - Linear neuron: the neuron that computes a weighted sum of the inputs and adds a bias term.
+  - Sigmoid neuron: the neuron that applies a sigmoid function to the linear output, which squashes the output to the range (0, 1).
+  - Tanh neuron: the neuron that applies a hyperbolic tangent function to the linear output, which squashes the output to the range (-1, 1).
+  - ReLU neuron: the neuron that applies a rectified linear unit function to the linear output, which sets the output to zero if it is negative and keeps it unchanged if it is positive.
+  - Softmax neuron: the neuron that applies a softmax function to the linear output, which normalizes the output to a probability distribution over a set of classes.
+- The most common types of architectures are:
+  - Feedforward neural network: the network that has no cycles or loops in the connections, and the information flows from the input layer to the output layer in one direction.
+  - Recurrent neural network: the network that has cycles or loops in the connections, and the information can flow back and forth between the layers, allowing the network to store and process sequential data.
+  - Convolutional neural network: the network that has layers that perform convolution operations on the input or previous layer output, which can extract local and hierarchical features from spatial data such as images or videos.
+  - Autoencoder: the network that has an encoder layer that compresses the input data to a lower-dimensional representation, and a decoder layer that reconstructs the input data from the representation, which can learn useful features or reduce noise from the data.
+  - Generative adversarial network: the network that has a generator layer that produces synthetic data from a random input, and a discriminator layer that tries to distinguish the synthetic data from the real data, which can learn to generate realistic and diverse data.
