@@ -1,0 +1,10 @@
+
+### Requirements for Representation for the Notes of the Unit 4 - Semantics and Pragmatics in the Subject of Natural Language Processing
+
+* Semantics refers to the meaning of words, phrases, and sentences in a language. It is the study of how words and phrases are used to convey meaning.
+* Pragmatics is the study of how language is used to convey meaning in different contexts. It is concerned with how language is used in different contexts, such as in conversations, in writing, in advertising, etc.
+* Representation for the notes of the Unit 4 - Semantics and Pragmatics in the subject of Natural Language Processing is the process of representing the meaning of words, phrases, and sentences in a language in a way that is understandable to computers.
+* One of the most common methods of representation is through the use of semantic networks. A semantic network is a graph-like structure that represents the relationships between words and concepts.
+* Another common method of representation is through the use of ontologies. An ontology is a formal representation of knowledge about a particular domain. It is used to represent the relationships between concepts in the domain and to define the terms used in the domain.
+* Natural language processing also involves the use of machine learning algorithms to learn how to interpret the meaning of words, phrases, and sentences in a language. Machine learning algorithms can be used to identify patterns in text and to classify text into different categories.
+* Mnemonics and learning tricks can be helpful when studying Natural Language Processing. For example, the acronym “POS” can be used to remember the four main parts of speech (nouns, verbs, adjectives, and adverbs). Additionally, the acronym “NLP” can be used to remember the three main components of Natural Language Processing (semantics, pragmatics, and representation).
