@@ -1,0 +1,12 @@
+### Design Guidelines - System Control
+
+System control is the task of performing actions that affect the state or mode of the system, such as opening menus, selecting commands, changing settings, or quitting the application. System control is often integrated with another 3D interaction task, such as navigation or manipulation. Therefore, system control techniques should be designed to avoid disturbing the flow of action of an interaction task.
+
+Some design guidelines for system control are:
+
+- Use consistent and intuitive mappings between input devices and system actions. For example, use a button or gesture that is easy to remember and perform for a frequently used command, or use a spatial metaphor that matches the function of the command, such as moving up to increase the volume.
+- Provide feedback for system actions, such as visual, auditory, or haptic cues that indicate the state or mode of the system, the availability of commands, or the result of an action. For example, use a highlight or a sound to show that a menu item is selected, or use a color change or a vibration to show that a setting has been changed.
+- Support undo and redo operations for system actions that have irreversible or undesirable consequences. For example, allow the user to revert to a previous state or mode of the system, or to cancel an ongoing action, by using a button or gesture that is easy to access and perform.
+- Minimize the number of steps or interactions required to perform a system action. For example, use direct manipulation or voice commands instead of nested menus or dialogs, or use context-sensitive or adaptive menus that show only the relevant or frequently used commands.
+- Avoid occlusion or interference between system control elements and the 3D scene or objects. For example, use transparent or semi-transparent menus or dialogs, or use spatial or temporal separation between system control elements and the 3D scene or objects.
+- Consider the trade-offs between immersion and usability when designing system control techniques. For example, use natural or realistic input devices or gestures that enhance the sense of presence and engagement in the 3D environment, but also ensure that they are easy to use and reliable. Alternatively, use abstract or symbolic input devices or gestures that are more efficient and accurate, but also provide feedback or cues that maintain the consistency and coherence of the 3D environment.

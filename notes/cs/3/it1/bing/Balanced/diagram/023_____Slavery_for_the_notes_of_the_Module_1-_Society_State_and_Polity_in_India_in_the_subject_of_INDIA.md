@@ -1,0 +1,9 @@
+### Slavery in Ancient India
+
+- Slavery was a universal social evil and had its origin even from the early period of history. In India, its origin is closely associated with the caste system. 
+- The early history of slavery in the Indian subcontinent is contested because it depends on the translations of terms such as dasa and dasyu. Greek writer Megasthenes in his work Indika, while describing the Maurya Empire states that slavery was banned in Indian society.
+- However, other sources suggest that slavery was prevalent in ancient India, especially in the form of debt bondage, domestic servitude, and war captives. Slaves were also used for agricultural and industrial labour, as well as for sexual exploitation and entertainment.
+- Slavery in ancient India was not based on race or ethnicity, but on social and economic factors. Slaves could be of any caste, religion, or region. Some slaves were born into slavery, while others were enslaved due to poverty, debt, crime, or war.
+- Slavery in ancient India was not a permanent or hereditary condition. Slaves could be freed by their masters, by paying off their debts, by performing meritorious deeds, or by converting to certain religions. Some slaves could also acquire property, education, and social status.
+- Slavery in ancient India was also influenced by the cultural and religious values of the society. Some religious texts and laws condemned slavery as a sin, while others justified it as a natural order. Some religious sects and movements advocated for the liberation of slaves, while others endorsed their subjugation.
+- Slavery in ancient India also had an impact on the political and military history of the region. Some slaves rose to become powerful rulers, generals, and reformers, while others rebelled against their oppressors. Some slaves also contributed to the cultural and artistic heritage of India.

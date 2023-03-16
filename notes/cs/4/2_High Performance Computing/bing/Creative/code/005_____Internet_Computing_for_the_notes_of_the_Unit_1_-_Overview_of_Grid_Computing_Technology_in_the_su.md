@@ -1,0 +1,10 @@
+# Internet Computing for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+
+- Grid Computing is a subset of distributed computing, where a virtual supercomputer comprises machines on a network connected by some bus, mostly Ethernet or sometimes the Internet.
+- Grid Computing can also be seen as a form of Parallel Computing where instead of many CPU cores on a single machine, it contains multiple cores spread across various locations.
+- Grid Computing offers a single virtual organization that shares computing resources, acting as a vehicle for resource sharing. The virtual supercomputer makes it possible to share resources on demand and incorporates a secure framework for simple data access and exchange.
+- Grid Computing supports high-performance computing use cases, such as scientific simulations, data analysis, and machine learning. The compute APIs distribute resource-intensive tasks over a cluster of server nodes. This provides support for HPC and massively parallel processing.
+- Grid Computing has several advantages, such as scalability, fault tolerance, load balancing, and cost efficiency. It also has some challenges, such as security, interoperability, standardization, and scheduling.
+- Grid Computing has various applications in different domains, such as aerospace, bioinformatics, e-commerce, education, finance, healthcare, and media.
+- Grid Computing can be classified into different types, such as computational grid, data grid, service grid, and cloud grid, based on the nature and purpose of the shared resources.
+- Grid Computing is different from cloud computing in some aspects, such as ownership, architecture, service model, and pricing. Cloud computing is a form of utility computing that provides on-demand services over the Internet, while grid computing is a form of collaborative computing that provides distributed resources over a network.

@@ -1,0 +1,10 @@
+### Participatory Sensing Technology
+
+- Participatory sensing is an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture  .
+- Participatory sensing differs from traditional sensor networks in that the sensors are owned and controlled by the users, who can decide when, where, and what to sense, and how to share and use the data.
+- Participatory sensing can enable various applications such as environmental monitoring, urban planning, traffic management, public health, social networking, and citizen science.
+- Participatory sensing involves four main components: sensors, devices, networks, and services.
+  - Sensors are the hardware components that measure physical phenomena such as sound, light, temperature, humidity, air quality, etc. Sensors can be embedded in the devices, attached externally, or accessed remotely.
+  - Devices are the personal mobile devices such as smartphones, tablets, laptops, etc. that host the sensors and provide the user interface, data storage, processing, and communication capabilities. Devices can run various software applications that enable participatory sensing tasks such as data collection, analysis, visualization, and sharing.
+  - Networks are the communication infrastructure that connects the devices and the services. Networks can be wireless, wired, or hybrid, and can use different protocols and technologies such as cellular, Wi-Fi, Bluetooth, NFC, etc. Networks can support data transmission, synchronization, aggregation, and dissemination.
+  - Services are the web-based platforms that provide the backend functionality for participatory sensing applications. Services can offer data storage, processing, analysis, visualization, and sharing capabilities, as well as user management, authentication, privacy, and security features. Services can also provide feedback, incentives, and guidance to the users to encourage participation and improve data quality.

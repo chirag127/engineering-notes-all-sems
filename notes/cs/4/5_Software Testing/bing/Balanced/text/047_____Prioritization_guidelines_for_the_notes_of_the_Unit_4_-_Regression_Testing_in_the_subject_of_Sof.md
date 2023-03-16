@@ -1,0 +1,13 @@
+### Prioritization guidelines for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or adversely affected the existing functionality.
+- Regression testing can be performed at different levels of testing, such as unit, integration, system, and acceptance testing.
+- Regression testing can be done manually or with the help of automated tools, depending on the availability of resources, time, and budget.
+- Regression testing can be classified into three types: retest all, selective, and test suite minimization.
+  - Retest all is the simplest approach, where all the test cases are executed again after each change. This ensures complete coverage, but it is also time-consuming and expensive.
+  - Selective is the most common approach, where only a subset of test cases are executed based on some criteria, such as the impact of the change, the risk of the functionality, the frequency of use, the defect history, etc. This reduces the testing effort, but it also requires a good selection strategy and a traceability matrix to link the test cases with the requirements and the code.
+  - Test suite minimization is the most advanced approach, where the test cases are reduced to the minimum number that can still achieve the same coverage as the original test suite. This requires sophisticated algorithms and tools to analyze the dependencies and redundancies among the test cases and the code.
+- Regression testing can be further enhanced by using techniques such as regression test prioritization, regression test selection, and regression test optimization.
+  - Regression test prioritization is the process of ordering the test cases according to some criteria, such as the likelihood of detecting defects, the severity of defects, the cost of execution, the coverage of requirements, etc. This helps to execute the most important test cases first and increase the effectiveness of the testing process.
+  - Regression test selection is the process of choosing the test cases that are relevant and necessary for the current change. This helps to eliminate the test cases that are obsolete, redundant, or infeasible and reduce the testing effort.
+  - Regression test optimization is the process of modifying the test cases to improve their quality and efficiency. This helps to remove the defects, errors, and inconsistencies in the test cases and improve their readability, maintainability, and reusability.

@@ -1,0 +1,24 @@
+### Description Logics for Natural Language Processing
+
+- Description logics (DLs) are a family of logic-based knowledge representation languages that allow for the formalization of concepts, roles, and individuals in a domain of interest .
+- DLs can be used for various applications, such as the representation of ontologies, natural language processing, and the semantics of UML class diagrams  .
+- In natural language processing (NLP), DLs can be used to model the meaning of natural language expressions, such as sentences, phrases, and words, in a precise and computable way  .
+- DLs can also be used to perform reasoning tasks on natural language expressions, such as entailment, consistency, subsumption, and satisfiability  .
+- DLs are based on the notions of concepts, roles, and individuals, which correspond to the linguistic notions of nouns, verbs, and proper names, respectively  .
+- Concepts are unary predicates that denote sets of individuals, such as `Person`, `Dog`, or `Red`  .
+- Roles are binary predicates that denote relations between individuals, such as `hasPet`, `loves`, or `isColorOf`  .
+- Individuals are constants that denote specific objects in the domain, such as `Alice`, `Fido`, or `the apple`  .
+- DLs allow for the construction of complex concepts and roles from atomic ones using various logical operators, such as conjunction, disjunction, negation, quantification, and modalities  .
+- For example, the concept `Person and (hasPet some Dog)` denotes the set of all persons who have at least one dog as a pet  .
+- The role `loves o hasPet` denotes the relation between individuals who love someone who has a pet  .
+- DLs also allow for the definition of axioms that constrain the interpretation of concepts and roles in a domain  .
+- For example, the axiom `Dog subClassOf Animal` states that every dog is an animal  .
+- The axiom `hasPet domain Person` states that only persons can have pets  .
+- The axiom `Alice instanceOf Person and (hasPet some Dog)` states that Alice is a person who has at least one dog as a pet  .
+- A DL knowledge base consists of a set of axioms that define the domain of interest  .
+- A DL reasoner is a software tool that can perform various reasoning tasks on a DL knowledge base, such as checking its consistency, answering queries, and computing subsumption hierarchies  .
+- In NLP, DLs can be used to represent the meaning of natural language expressions in terms of concepts, roles, and individuals, and to perform reasoning tasks on them using DL reasoners  .
+- For example, the sentence `Alice loves someone who has a dog` can be translated into the DL expression `Alice instanceOf (loves some (hasPet some Dog))`  .
+- The phrase `a red apple` can be translated into the DL expression `some (isColorOf value Red) and Apple`  .
+- The word `dog` can be translated into the DL expression `Dog`  .
+- Using a DL reasoner, one can check whether a natural language expression is entailed by a DL knowledge base, such as whether `Alice loves an animal` follows from `Alice loves someone who has a dog`  [^6

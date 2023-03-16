@@ -1,0 +1,34 @@
+### Negotiation and Bargaining for the notes of the Unit 4 - SOFTWARE AGENTS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Negotiation and bargaining are processes of reaching an agreement between two or more parties that have conflicting interests or preferences.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, diplomacy, law, and personal relationships.
+- Negotiation and bargaining can involve human agents, artificial agents, or a combination of both.
+- Artificial intelligence (AI) can play a role in negotiation and bargaining in different ways, such as :
+  - Providing information and analysis to support human negotiators
+  - Automating and optimizing some aspects of the negotiation process
+  - Learning from past negotiations and improving over time
+  - Representing and advocating for human or organizational interests
+  - Coordinating and collaborating with other agents
+- Negotiation and bargaining can be classified into different types, such as :
+  - Distributive bargaining: a zero-sum situation where the parties compete over a fixed resource or value
+  - Integrative bargaining: a positive-sum situation where the parties cooperate to create or expand the value of the agreement
+  - Mixed-motive bargaining: a situation where the parties have both conflicting and compatible interests or goals
+  - Multi-issue bargaining: a situation where the parties negotiate over multiple issues or dimensions of the agreement
+  - Multi-party bargaining: a situation where more than two parties are involved in the negotiation
+- Negotiation and bargaining can be influenced by various factors, such as :
+  - The characteristics of the agents, such as their preferences, beliefs, emotions, and personalities
+  - The characteristics of the environment, such as the availability of information, the time pressure, and the uncertainty
+  - The characteristics of the interaction, such as the communication mode, the protocol, and the norms
+  - The characteristics of the outcome, such as the fairness, the efficiency, and the satisfaction
+- Negotiation and bargaining can be evaluated by various criteria, such as :
+  - Pareto efficiency: a measure of how well the agreement utilizes the available resources or value
+  - Nash equilibrium: a measure of how stable the agreement is against unilateral deviations by any party
+  - Individual rationality: a measure of how acceptable the agreement is for each party compared to their alternatives
+  - Social welfare: a measure of how beneficial the agreement is for the collective interests of the parties
+  - Equity: a measure of how fair the agreement is in terms of the distribution of the resources or value
+- Negotiation and bargaining can be modeled and implemented by various methods, such as :
+  - Game theory: a mathematical framework for analyzing the strategic interactions and outcomes of rational agents
+  - Argumentation: a logical framework for exchanging and evaluating reasons and evidence for different positions or proposals
+  - Heuristics: a set of rules or guidelines for simplifying and improving the decision-making process
+  - Machine learning: a computational framework for learning from data and improving the performance of agents
+  - Multi-agent systems: a computational framework for designing and coordinating the behaviors of multiple autonomous agents

@@ -1,0 +1,12 @@
+# Uninformed Search Methods
+
+Uninformed search methods are a type of search algorithms in artificial intelligence that do not use any additional information to guide the search process. They only use the information provided in the problem definition, such as the start state, the goal state, and the actions available at each state. Uninformed search methods explore the search space in a systematic, but blind, manner without considering the cost of reaching the goal or the likelihood of finding a solution.
+
+Some of the common uninformed search methods are:
+
+- **Depth-first search (DFS)**: It is a search algorithm that traverses the search tree from the root node and explores as deep as possible in a single path before backtracking. It uses a stack data structure to store the nodes that are not yet expanded. DFS is memory-efficient, but it may get stuck in an infinite loop or a very long path.
+- **Breadth-first search (BFS)**: It is a search algorithm that traverses the search tree from the root node and explores all the children of a node before moving to the next level. It uses a queue data structure to store the nodes that are not yet expanded. BFS is complete and optimal, but it may consume a lot of memory and time.
+- **Uniform-cost search (UCS)**: It is a search algorithm that expands the node with the lowest path cost from the root node. It uses a priority queue data structure to store the nodes that are not yet expanded. UCS is complete and optimal, but it may also consume a lot of memory and time.
+- **Depth-limited search (DLS)**: It is a search algorithm that limits the depth of the search tree to a predefined value. It avoids the problem of infinite loops and long paths, but it may miss the solution if it is deeper than the limit.
+- **Iterative deepening search (IDS)**: It is a search algorithm that combines the advantages of DFS and BFS. It performs a series of DLS with increasing depth limits until the solution is found or the search space is exhausted. IDS is complete and optimal, but it may repeat some work at each iteration.
+- **Bidirectional search (BDS)**: It is a search algorithm that performs two simultaneous searches: one from the start state and one from the goal state. It stops when the two searches meet in the middle. BDS is efficient, but it requires that the goal state is known and that the actions are reversible.

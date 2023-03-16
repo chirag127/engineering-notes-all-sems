@@ -1,0 +1,8 @@
+# Priority category for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or adversely affected the existing functionality.
+- Regression testing can be performed at different levels of testing, such as unit, integration, system, or acceptance testing.
+- Regression testing can be classified into three categories based on the scope and selection of test cases: retest all, selective, and test case prioritization.
+- Retest all is the simplest approach, where all the test cases in the test suite are executed after every change. This ensures complete coverage, but it is also very costly and time-consuming.
+- Selective is the approach where only a subset of test cases in the test suite are executed after every change. This reduces the cost and time of regression testing, but it also requires a criterion to select the relevant test cases.
+- Test case prioritization is the approach where the test cases in the test suite are ordered according to some criteria, such as the likelihood of detecting faults, the severity of faults, the coverage of code or requirements, or the feedback from previous test runs. This allows the testers to execute the most important test cases first and stop the testing when a desired level of confidence or quality is achieved.

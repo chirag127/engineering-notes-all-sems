@@ -1,0 +1,26 @@
+### Atomic Commit Protocols for Distributed Transactions
+
+- A distributed transaction is a transaction that involves multiple servers or nodes in a distributed system.
+- An atomic commit protocol is a protocol that guarantees the atomicity property of a transaction, which means that either all the operations of the transaction are executed or none of them are.
+- Atomicity is important for maintaining the consistency and integrity of the data in a distributed system, especially in the presence of failures or concurrency.
+- There are different types of atomic commit protocols, such as two-phase commit (2PC), three-phase commit (3PC), parallel commit, and failure-aware commit.
+- Two-phase commit (2PC) is the most widely used atomic commit protocol. It consists of two phases: a prepare phase and a commit phase.
+  - In the prepare phase, the coordinator (the node that initiates the transaction) sends a prepare message to all the participants (the nodes that execute the operations of the transaction) and waits for their votes (yes or no).
+  - In the commit phase, if the coordinator receives a yes vote from all the participants, it sends a commit message to all of them and commits the transaction. If the coordinator receives a no vote from any participant, or a timeout occurs, it sends an abort message to all the participants and aborts the transaction.
+- Two-phase commit (2PC) has some drawbacks, such as blocking, vulnerability to network partitions, and high latency.
+  - Blocking means that if the coordinator or any participant fails or becomes unreachable, the other nodes may have to wait indefinitely for its recovery or message, and cannot proceed with other transactions.
+  - Vulnerability to network partitions means that if the network is split into two or more disconnected components, the nodes in different components may have inconsistent views of the transaction outcome, and may commit or abort the transaction independently, violating the atomicity property.
+  - High latency means that the transaction has to wait for two round-trips of messages between the coordinator and the participants, which may be costly in a large-scale or geographically distributed system.
+- Three-phase commit (3PC) is an extension of two-phase commit (2PC) that aims to overcome the blocking problem. It consists of three phases: a prepare phase, a pre-commit phase, and a commit phase.
+  - In the prepare phase, the coordinator sends a prepare message to all the participants and waits for their votes (yes or no).
+  - In the pre-commit phase, if the coordinator receives a yes vote from all the participants, it sends a pre-commit message to all of them and waits for their acknowledgments. If the coordinator receives a no vote from any participant, or a timeout occurs, it sends an abort message to all the participants and aborts the transaction.
+  - In the commit phase, if the coordinator receives an acknowledgment from all the participants, it sends a commit message to all of them and commits the transaction. If the coordinator does not receive an acknowledgment from any participant, or a timeout occurs, it aborts the transaction.
+- Three-phase commit (3PC) has some advantages over two-phase commit (2PC), such as non-blocking, resilience to network partitions, and fault tolerance.
+  - Non-blocking means that if the coordinator or any participant fails or becomes unreachable, the other nodes can decide the transaction outcome based on their local state and the messages they have received, and can proceed with other transactions.
+  - Resilience to network partitions means that if the network is split into two or more disconnected components, the nodes in different components can agree on the same transaction outcome, and can commit or abort the transaction consistently, preserving the atomicity property.
+  - Fault tolerance means that the transaction can tolerate up to n/2 failures, where n is the number of nodes involved in the transaction, and still reach a correct and consistent outcome.
+- Three-phase commit (3PC) has some drawbacks, such as increased latency, increased message complexity, and increased state complexity.
+  - Increased latency means that the transaction has to wait for three round-trips of messages between the coordinator and the participants, which may be more costly than two round-trips in two-phase commit (2PC).
+  - Increased message complexity means that the transaction has to exchange more messages between the coordinator and the participants, which may consume more network bandwidth and resources.
+  - Increased state complexity means that the transaction has to maintain more states for each node, such as prepared, pre-committed, committed, and aborted, which may increase the memory and storage requirements.
+- Parallel commit is a new atomic commit protocol that aims to reduce the latency of transactions to only a single round-trip of distributed consensus.

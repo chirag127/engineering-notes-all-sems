@@ -1,0 +1,10 @@
+### Word Sense Disambiguation
+
+- Word sense disambiguation (WSD) is the problem of determining which "sense" (meaning) of a word is activated by the use of the word in a particular context, a process which appears to be largely unconscious in people.
+- WSD is an important research problem in the field of natural language processing (NLP) because lexical ambiguity, syntactic or semantic, is one of the very first problems that any NLP system faces.
+- WSD is a subfield of NLP that deals with identifying the intended meaning of a word in a given context from a set of possible senses, based on the context in which the word appears.
+- WSD can be applied to various NLP tasks, such as machine translation, information retrieval, text summarization, sentiment analysis, etc.
+- WSD can be classified into two main types: supervised and unsupervised. Supervised WSD uses annotated data to train a classifier that can assign senses to words in new contexts. Unsupervised WSD does not use annotated data, but relies on clustering or similarity measures to group words with similar meanings.
+- WSD can also be classified into two main approaches: knowledge-based and corpus-based. Knowledge-based WSD uses external sources of information, such as dictionaries, thesauri, ontologies, etc., to infer the meaning of words. Corpus-based WSD uses statistical or machine learning methods to learn the meaning of words from large collections of texts.
+- WSD faces some difficulties, such as the lack of standard sense inventories, the granularity of senses, the domain specificity of senses, the data sparseness, the word sense variation, etc.
+- WSD can be evaluated using different metrics, such as accuracy, precision, recall, F-measure, etc. WSD can also be evaluated using intrinsic or extrinsic methods. Intrinsic evaluation measures the performance of WSD in isolation, while extrinsic evaluation measures the impact of WSD on a downstream task.

@@ -1,0 +1,21 @@
+### Platform for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+- Cloud computing can cover a broad range of tasks, from high powered computing to more mundane ones. It can be used for specialized tasks, as well as those that can be done on a standard home computer.
+- The benefits of cloud computing include:
+  - Faster deployment and scalability of applications.
+  - Improved manageability and less maintenance of IT resources.
+  - Ability to adjust resources to meet fluctuating and unpredictable demand.
+  - Cost-effectiveness and flexibility compared to on-premises options  .
+- High-performance computing (HPC) is a subset of cloud computing that uses a large number of CPU or GPU-based computers to solve complex mathematical tasks.
+- HPC is used by many industries to solve some of their most difficult problems, such as:
+  - Genomics
+  - Oil and gas simulations
+  - Finance
+  - Semiconductor design
+  - Engineering
+  - Weather modeling.
+- HPC requires specialized infrastructure, solutions, and optimized application services to achieve high performance, reliability, and efficiency .
+- Some examples of HPC platforms on cloud are:
+  - Azure HPC, which offers a complete set of computing, networking, and storage resources integrated with workload orchestration services for HPC applications.
+  - Google Cloud HPC, which provides easy-to-use, cost-optimized, and flexible HPC solutions based on the latest technology, and a Cloud HPC Toolkit to launch new HPC environments.

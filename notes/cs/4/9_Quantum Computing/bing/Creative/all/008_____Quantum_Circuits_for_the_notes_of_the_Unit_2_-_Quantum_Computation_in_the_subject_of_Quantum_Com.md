@@ -1,0 +1,12 @@
+# Quantum Circuits
+
+- A quantum circuit is a model for quantum computation, similar to classical circuits, in which a computation is a sequence of quantum gates, measurements, initializations of qubits to known values, and possibly other actions.
+- A quantum circuit consists of quantum wires and quantum gates. Quantum wires are used to carry qubits, the basic units of quantum information, from one gate to another. Quantum gates are used to manipulate qubits by applying unitary transformations, which preserve the quantum state of the system .
+- A quantum circuit can be represented by a diagram, in which horizontal lines represent quantum wires and boxes or symbols represent quantum gates. The input qubits are on the left and the output qubits are on the right. The order of the gates from left to right corresponds to the order of the operations in time.
+- A quantum circuit can also be represented by a matrix, which is the product of the matrices corresponding to each gate in the circuit. The matrix representation allows us to calculate the output state of the circuit given the input state, by multiplying the matrix with the input state vector.
+- A quantum circuit can be classified into different types, depending on the structure and the functionality of the circuit. Some common types are:
+  - Universal quantum circuits: quantum circuits that can approximate any unitary transformation on any number of qubits, using a finite set of elementary gates.
+  - Reversible quantum circuits: quantum circuits that can be inverted by applying the same gates in reverse order, such that the input state can be recovered from the output state.
+  - Measurement-based quantum circuits: quantum circuits that use measurements as a way of controlling the quantum state and implementing quantum gates, instead of applying unitary transformations directly.
+  - Variational quantum circuits: quantum circuits that use parametrized shallow quantum gates, which can be optimized using classical feedback loops, to solve optimization and machine learning problems.
+  - Random quantum circuits: quantum circuits that use random local unitary gates and local measurements, which can generate complex quantum dynamics and exhibit universal phenomena such as thermalization and chaos.

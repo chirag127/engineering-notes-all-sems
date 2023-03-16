@@ -1,0 +1,22 @@
+### Causal ordering of messages
+
+- Causal ordering of messages is a partial ordering of messages in a distributed computing environment .
+- It places a restriction on communication between processes by requiring that if the transmission of message mi to process pk necessarily preceded the transmission of message mj to the same process, then the delivery of these messages to that process must be ordered such that mi is delivered before mj .
+- Causal ordering of messages is one of the four semantics of multicast communication, namely unordered, totally ordered, causal, and sync-ordered communication.
+- Multicast communication methods vary according to the message’s reliability guarantee and ordering guarantee.
+- Causal ordering of messages is based on the notion of potential causality, which captures the idea that if an event A can possibly have caused another event B, then A must happen before B.
+- Potential causality is defined by two rules:
+  - If A and B are events in the same process, and A comes before B, then A -> B (A potentially causes B).
+  - If A is the event of sending a message by one process and B is the event of receiving that message by another process, then A -> B.
+- Potential causality is transitive, meaning that if A -> B and B -> C, then A -> C.
+- Causal ordering of messages ensures that the messages are delivered in a way that is consistent with the potential causality relation.
+- Causal ordering of messages can be implemented by various algorithms, such as vector clocks, logical clocks, or piggybacking  .
+- Causal ordering of messages has some advantages and disadvantages:
+  - Advantages:
+    - It preserves the logical dependencies between messages and events.
+    - It avoids the need for global synchronization or agreement among processes.
+    - It allows for concurrent and independent execution of processes.
+  - Disadvantages:
+    - It may delay the delivery of some messages that are not causally related to others.
+    - It may incur some overhead in terms of message size or computation.
+    - It may not be sufficient for some applications that require stronger ordering guarantees.

@@ -1,0 +1,24 @@
+# Highly Available Services for the Notes of the Unit 10 - Replication in the Subject of Distributed System
+
+- Replication is the process of creating and maintaining multiple copies of data or services across different nodes or locations in a distributed system.
+- Replication can enhance the availability, reliability, performance, and scalability of distributed systems by reducing the impact of failures, network congestion, and data access latency.
+- Replication can also enable load balancing, fault tolerance, and data consistency among the replicas.
+- Replication can be classified into two types: eager replication and lazy replication.
+  - Eager replication ensures that all the replicas are updated as soon as a change occurs in any of them. This requires synchronous communication and coordination among the replicas, which can increase the overhead and delay of the system. Eager replication can provide strong consistency guarantees, but it can also reduce the availability of the system in the presence of failures or partitions.
+  - Lazy replication allows some replicas to be updated later than others, after a change occurs in any of them. This requires asynchronous communication and reconciliation among the replicas, which can reduce the overhead and delay of the system. Lazy replication can provide higher availability and performance, but it can also introduce inconsistency and conflicts among the replicas.
+- Replication can be implemented at different levels of abstraction, such as data replication, service replication, or process replication.
+  - Data replication involves creating and maintaining multiple copies of data items or databases across different nodes or locations. Data replication can be used to improve the availability and performance of data access, as well as to provide backup and recovery mechanisms. Data replication can be based on different models, such as primary-backup, master-slave, peer-to-peer, or quorum-based.
+  - Service replication involves creating and maintaining multiple instances of a service or an application across different nodes or locations. Service replication can be used to improve the availability and performance of service invocation, as well as to provide load balancing and fault tolerance mechanisms. Service replication can be based on different techniques, such as stateless, stateful, or hybrid replication.
+  - Process replication involves creating and maintaining multiple copies of a process or a thread across different nodes or locations. Process replication can be used to improve the availability and performance of process execution, as well as to provide fault tolerance and recovery mechanisms. Process replication can be based on different methods, such as checkpointing, logging, or message-passing.
+- Replication can pose several challenges and trade-offs for distributed systems, such as:
+  - How to create and maintain replicas across different nodes or locations?
+  - How to ensure consistency and coherence among the replicas?
+  - How to handle conflicts and concurrency among the replicas?
+  - How to balance the benefits and costs of replication?
+  - How to adapt to dynamic changes in the system, such as failures, partitions, or workload variations?
+- Replication can be supported by various algorithms and protocols, such as:
+  - Viewstamped replication, which is a primary-backup protocol that uses a leader election mechanism to select a primary replica that coordinates the updates and broadcasts them to the backup replicas.
+  - Paxos, which is a quorum-based protocol that uses a consensus mechanism to agree on a sequence of updates among a set of replicas, and ensures that at least a majority of replicas are consistent at any time.
+  - Raft, which is a simplified version of Paxos that uses a leader election mechanism to select a leader replica that proposes and commits the updates, and ensures that the leader and a majority of replicas are consistent at any time.
+  - Dynamo, which is a peer-to-peer protocol that uses a consistent hashing mechanism to partition and replicate the data among a set of replicas, and uses a vector clock mechanism to detect and resolve conflicts among the replicas.
+  - CRDTs, which are data structures that can be replicated and updated independently and concurrently by different replicas, and can be merged without conflicts or losses.

@@ -1,0 +1,21 @@
+### Test Cases for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software engineering is a branch of computer science that deals with the design, implementation, and maintenance of complex computer programs .
+- Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
+- Software engineering involves various activities, such as:
+  - Requirements analysis: identifying and specifying the needs and expectations of the stakeholders and users of the software system.
+  - Design: creating a blueprint or model of the software system that defines its structure, behavior, and interfaces.
+  - Implementation: writing and testing the source code of the software system according to the design specifications.
+  - Verification and validation: checking and evaluating the software system to ensure that it meets the requirements and quality standards.
+  - Deployment: delivering and installing the software system to the target environment and users.
+  - Maintenance: fixing and improving the software system to cope with changing needs and issues.
+- Software engineering follows different models or methodologies to guide and organize the software development process, such as:
+  - Waterfall model: a sequential and linear approach that divides the software development process into distinct phases, such as requirements, design, implementation, testing, and maintenance. Each phase must be completed and reviewed before moving to the next one.
+  - Agile model: an iterative and incremental approach that emphasizes collaboration, feedback, and adaptation. The software development process is divided into short cycles or sprints, where the software system is developed and delivered in small and functional increments. Each sprint involves planning, analysis, design, implementation, testing, and review.
+  - Spiral model: a risk-driven and evolutionary approach that combines the features of the waterfall and agile models. The software development process is divided into four quadrants: planning, risk analysis, engineering, and evaluation. Each quadrant is repeated until the software system reaches the desired level of quality and functionality.
+- Software engineering faces various challenges and issues, such as:
+  - Complexity: software systems are often large, intricate, and interdependent, which makes them difficult to understand, design, implement, test, and maintain.
+  - Change: software systems are subject to frequent and unpredictable changes in requirements, technologies, environments, and users, which makes them difficult to manage and adapt.
+  - Quality: software systems must meet various quality attributes, such as functionality, reliability, usability, efficiency, maintainability, and security, which makes them difficult to measure and ensure.
+  - Cost: software systems are often expensive to develop, deploy, and maintain, which makes them difficult to estimate and control.
+  - Human factors: software systems are developed and used by people, who have different skills, preferences, expectations, and behaviors, which makes them difficult to communicate and coordinate.

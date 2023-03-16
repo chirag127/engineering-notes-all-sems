@@ -1,0 +1,10 @@
+### Northern Indian Languages & Literature
+
+- Northern Indian languages are derived from the Indo-Aryan branch of the Indo-European language family, which evolved from the ancient Sanskrit language.
+- The literature of these languages is influenced by the ancient Indian epics, Puranas, and other Sanskrit works, as well as by the Islamic, Persian, and English cultures.
+- Some of the major northern Indian languages and their literary features are:
+
+  - Hindi: The most widely spoken language in India, with many dialects and regional variations. Hindi literature can be divided into four periods: Adikal (early period), Bhaktikal (devotional period), Ritikal (poetic period), and Adhunik (modern period). Some of the prominent Hindi writers are Kabir, Tulsidas, Surdas, Premchand, Harivansh Rai Bachchan, and Mahadevi Varma.
+  - Urdu: The official language of Pakistan and a co-official language of India, with a rich vocabulary borrowed from Persian and Arabic. Urdu literature is known for its poetry, especially the ghazal, a lyrical form of expressing love, longing, and separation. Some of the famous Urdu poets are Mirza Ghalib, Mir Taqi Mir, Allama Iqbal, and Faiz Ahmed Faiz.
+  - Punjabi: The language of the Punjab region, which spans parts of India and Pakistan. Punjabi literature reflects the history, culture, and spirituality of the Sikh and Sufi traditions, as well as the social and political issues of the region. Some of the notable Punjabi writers are Guru Nanak, Bulleh Shah, Waris Shah, Amrita Pritam, and Shiv Kumar Batalvi.
+  - Bengali: The language of West Bengal and Bangladesh, and one of the most spoken languages in the world. Bengali literature is renowned for its richness, diversity, and innovation, spanning genres such as poetry, novels, short stories, drama, and essays. Some of the eminent Bengali writers are Rabindranath Tagore, Kazi Nazrul Islam, Bankim Chandra Chattopadhyay, Sarat Chandra Chattopadhyay, and Satyajit Ray.

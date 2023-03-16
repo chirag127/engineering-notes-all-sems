@@ -1,0 +1,22 @@
+# Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement protocols are a class of protocols that allow a set of processes in a distributed system to reach a consensus on some value or action, despite the possibility of failures or malicious behavior.
+- Agreement protocols are essential for ensuring the correctness and consistency of distributed systems, especially in the presence of faults or attacks.
+- Some examples of agreement problems are:
+  - Leader election: electing a unique process to coordinate some task or decision.
+  - Atomic commit: ensuring that a set of processes either all commit or all abort a transaction.
+  - Byzantine agreement: reaching a consensus on a value even if some processes are faulty or malicious.
+  - Consensus: reaching a consensus on a value in a fault-tolerant way.
+- Agreement protocols can be classified according to the following criteria:
+  - Synchronous vs asynchronous: whether the system has bounded or unbounded delays in message delivery and process execution.
+  - Crash vs Byzantine: whether the system can tolerate only crash failures or also arbitrary (Byzantine) failures.
+  - Deterministic vs randomized: whether the protocol always guarantees a correct outcome or only with some probability.
+  - Binary vs multivalued: whether the protocol agrees on a binary value (0 or 1) or a value from a larger domain.
+- The difficulty and feasibility of agreement protocols depend on the combination of these criteria. For example, in a synchronous system with crash failures, consensus can be achieved deterministically with a simple majority of processes. However, in an asynchronous system with Byzantine failures, consensus is impossible to achieve deterministically, even with a single faulty process.
+- In this unit, we will study some of the fundamental agreement protocols and their properties, such as:
+  - The FLP impossibility result: proving that consensus is impossible in an asynchronous system with crash failures.
+  - The Paxos protocol: achieving consensus in a partially synchronous system with crash failures.
+  - The Raft protocol: a simplified and practical variant of Paxos for leader election and log replication.
+  - The Lamport's Byzantine Generals problem: defining the Byzantine agreement problem and its requirements.
+  - The Byzantine agreement protocol: achieving Byzantine agreement in a synchronous system with a 2/3 majority of honest processes.
+  - The Practical Byzantine Fault Tolerance (PBFT) protocol: achieving Byzantine agreement in a partially synchronous system with a 2/3 majority of honest processes.

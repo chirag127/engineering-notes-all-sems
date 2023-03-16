@@ -1,0 +1,11 @@
+### Sufi movement
+
+- Sufism is a mystical branch of Islam that emphasizes the direct experience of God through love, devotion, and self-purification.
+- Sufism originated in the Middle East and Central Asia in the early centuries of Islam, and spread to India through the invasions and migrations of Muslim rulers and saints.
+- Sufism in India was influenced by the local traditions of Hinduism, Buddhism, and Jainism, and developed various schools or orders (silsilas) with different doctrines and practices.
+- Some of the prominent Sufi orders in India are:
+  - Chishti order: Founded by Khwaja Moinuddin Chishti in the 12th century, it is the most popular and influential Sufi order in India. It is known for its tolerance, charity, music, and poetry. Some of the famous Chishti saints are Khwaja Qutbuddin Bakhtiyar Kaki, Khwaja Fariduddin Ganjshakar, Khwaja Nizamuddin Auliya, and Amir Khusrau.
+  - Suhrawardi order: Founded by Sheikh Shihabuddin Suhrawardi in the 12th century, it is a more orthodox and ascetic Sufi order that emphasizes the study of Islamic law and theology. Some of the famous Suhrawardi saints are Sheikh Bahauddin Zakariya, Sheikh Ruknuddin Abul Fath, and Sheikh Hamiduddin Nagori.
+  - Qadiri order: Founded by Sheikh Abdul Qadir Jilani in the 12th century, it is a Sufi order that focuses on the invocation of God's name (dhikr) and the cultivation of spiritual power (barakah). Some of the famous Qadiri saints are Sheikh Nizamuddin Auliya, Sheikh Nasiruddin Chiragh Dehlavi, and Sheikh Abdul Haq Muhaddis Dehlavi.
+  - Naqshbandi order: Founded by Sheikh Baha-ud-Din Naqshband in the 14th century, it is a Sufi order that stresses the silent remembrance of God (dhikr-e-khafi) and the observance of the Sharia. Some of the famous Naqshbandi saints are Sheikh Ahmad Sirhindi, Sheikh Mujaddid Alf Sani, and Sheikh Shah Waliullah.
+- The Sufi movement in India had a significant impact on the religious, social, and cultural life of the people. It contributed to the spread of Islam, the synthesis of Hindu-Muslim culture, the development of regional languages and literature, the promotion of art and music, and the reform of society.

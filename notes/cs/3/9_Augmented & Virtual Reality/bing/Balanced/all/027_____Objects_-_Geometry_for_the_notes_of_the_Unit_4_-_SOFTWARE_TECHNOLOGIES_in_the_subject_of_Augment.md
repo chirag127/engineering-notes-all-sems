@@ -1,0 +1,8 @@
+# Objects - Geometry
+
+- In computer graphics, an **object** is a collection of geometric data that defines the shape and appearance of a 3D entity in a virtual scene.
+- The geometric data of an object can be represented in different ways, such as **polygons**, **curves**, **volumes**, or **point clouds**.
+- A **polygon** is a flat shape bounded by straight edges. The most common type of polygon used in computer graphics is a **triangle**, which has three vertices and three edges. Triangles are easy to render and can approximate any complex shape by using many small triangles.
+- A **curve** is a smooth shape that can be defined by a mathematical function or a set of control points. Some common types of curves used in computer graphics are **Bezier curves**, **B-splines**, and **NURBS**. Curves can represent smooth and organic shapes that are difficult to model with polygons.
+- A **volume** is a solid shape that occupies a region of 3D space. Volumes can be defined by a set of voxels (3D pixels), a mathematical function, or a boundary surface. Volumes can represent complex and irregular shapes that are not easily defined by polygons or curves.
+- A **point cloud** is a set of discrete points in 3D space, each with its own position and optionally color, normal, or other attributes. Point clouds can be obtained from 3D scanning devices or generated from other geometric representations. Point clouds can represent detailed and realistic shapes that are hard to model with other methods.

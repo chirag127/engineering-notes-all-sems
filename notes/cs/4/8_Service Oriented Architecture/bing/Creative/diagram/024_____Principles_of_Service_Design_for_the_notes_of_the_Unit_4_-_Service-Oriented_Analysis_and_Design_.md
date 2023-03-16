@@ -1,0 +1,11 @@
+### Principles of Service Design
+
+Service design is the process of planning and organizing the interactions between a service provider and its customers, as well as the resources and infrastructure required to deliver the service. Service design aims to create services that are valuable, usable, efficient, effective and desirable for both the service provider and the customers.
+
+Some of the principles of service design are:
+
+- **User-centered**: Service design should be based on a deep understanding of the needs, preferences, expectations and behaviors of the customers who use the service. Service design should involve customers in the design process, as well as test and validate the service with them.
+- **Co-creative**: Service design should be a collaborative and participatory process that involves multiple stakeholders, such as customers, employees, managers, partners and suppliers. Service design should leverage the diverse perspectives, skills and experiences of these stakeholders to create better solutions.
+- **Sequencing**: Service design should consider the service as a sequence of interactions that occur over time and across different touchpoints. Service design should map out the customer journey and the service blueprint, and identify the critical moments and opportunities for improvement.
+- **Evidencing**: Service design should make the intangible aspects of the service visible and tangible for both the customers and the service provider. Service design should use visual communication tools, such as sketches, prototypes, mock-ups, storyboards and scenarios, to illustrate and communicate the service concept and the value proposition.
+- **Holistic**: Service design should take into account the whole service system, including the people, processes, technology, environment and culture that influence the service delivery. Service design should align the service strategy, the service operations and the service experience, and ensure consistency and coherence across all the service elements.

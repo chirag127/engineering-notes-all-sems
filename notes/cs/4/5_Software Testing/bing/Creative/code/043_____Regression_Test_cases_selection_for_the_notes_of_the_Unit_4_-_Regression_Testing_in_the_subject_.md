@@ -1,0 +1,10 @@
+### Regression Test cases selection
+
+- Regression testing is the process of retesting the modified parts of a software system and their interactions with other parts to ensure that no new defects are introduced due to the changes.
+- Regression test cases are the test cases that are selected for regression testing based on some criteria or techniques.
+- The selection of regression test cases is important because it can affect the effectiveness and efficiency of regression testing.
+- There are different techniques for selecting regression test cases, such as:
+  - Retest all: This technique involves retesting all the test cases in the test suite, regardless of the changes made to the software. This technique is simple, but it can be very costly and time-consuming, especially for large and complex systems.
+  - Retest affected: This technique involves retesting only the test cases that are directly or indirectly affected by the changes made to the software. This technique can reduce the cost and time of regression testing, but it requires a good understanding of the dependencies and impacts of the changes.
+  - Retest prioritized: This technique involves retesting the test cases that are prioritized based on some criteria, such as the severity of the defects, the frequency of the failures, the importance of the features, the risk of the changes, etc. This technique can improve the effectiveness of regression testing by focusing on the most critical test cases, but it requires a good estimation and ranking of the test cases.
+  - Retest optimized: This technique involves retesting the test cases that are optimized based on some criteria, such as the code coverage, the fault detection capability, the diversity, the similarity, etc. This technique can improve the efficiency of regression testing by reducing the redundancy and increasing the diversity of the test cases, but it requires a good analysis and optimization of the test cases.

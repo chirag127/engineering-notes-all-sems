@@ -1,0 +1,23 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing, where a set of parties in a distributed environment need to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and inspired by a hypothetical scenario of several divisions of the Byzantine army camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- A solution to the Byzantine agreement problem requires that the following conditions are met:
+  - **Agreement**: All honest parties agree on the same value.
+  - **Validity**: If all honest parties propose the same value, then they must agree on that value.
+  - **Termination**: All honest parties eventually decide on a value.
+- A number of solutions to the Byzantine agreement problem exist, depending on the assumptions made about the communication model, the number of corrupted parties, and the type of corruption.
+- One of the most well-known solutions is the **oral messages algorithm** proposed by Lamport, Shostak, and Pease. This algorithm assumes that the communication is synchronous, meaning that there is a known upper bound on the message delivery time, and that the messages are authenticated, meaning that the sender and the content of the message cannot be forged. The algorithm also assumes that less than one-third of the parties are corrupted, and that the corruption is arbitrary, meaning that the corrupted parties can behave in any way to disrupt the agreement.
+- The oral messages algorithm works as follows:
+  - Each party proposes a value and sends it to all other parties.
+  - For each round `r`, each party acts as a commander and sends an order to all other parties, based on the majority of the values received in the previous round. If there is no majority, the party sends a default value.
+  - Each party acts as a lieutenant and follows the order of the commander, unless the order is different from the majority of the orders received from other parties. In that case, the party follows the majority or the default value if there is no majority.
+  - After `r` rounds, each party decides on the value that it received in the last round.
+- The oral messages algorithm can tolerate up to `f` corrupted parties, where `f` satisfies `3f < n`, where `n` is the total number of parties. The algorithm requires `O(n^2)` messages and `O(n)` rounds of communication.
+- The oral messages algorithm can be improved by using **signed messages**, which allow the parties to prove the authenticity of the messages they receive and send. This reduces the number of rounds of communication to `O(f)` and the number of messages to `O(nf)`.
+- Another solution to the Byzantine agreement problem is the **randomized algorithm** proposed by Rabin. This algorithm assumes that the communication is asynchronous, meaning that there is no upper bound on the message delivery time, and that the messages are authenticated. The algorithm also assumes that less than one-half of the parties are corrupted, and that the corruption is arbitrary.
+- The randomized algorithm works as follows:
+  - Each party proposes a value and sends it to all other parties.
+  - Each party flips a coin and sends the result to all other parties.
+  - Each party decides on the value that is proposed by the majority of the parties that have the same coin result as itself. If there is no such majority, the party decides on a default value.
+- The randomized algorithm can tolerate up to `f` corrupted parties, where `f` satisfies `2f < n`, where `n` is the total number of parties. The algorithm requires `O(n^2)` messages and `O(1)` rounds of communication. The algorithm has a probability of error that decreases exponentially with the number of parties.

@@ -1,0 +1,8 @@
+### Deep Vs Shallow Networks
+
+- A **shallow network** is a neural network that has only one hidden layer between the input and output layers. A **deep network** is a neural network that has multiple hidden layers, usually more than two.
+- Both shallow and deep networks are capable of **approximating any function**, but they may differ in the **efficiency** and **quality** of the approximation .
+- For the same level of accuracy, deeper networks can be much more **efficient** in terms of computation and number of parameters. This is because deeper networks can exploit the **hierarchical structure** of the data and learn more **abstract and complex features** at each layer .
+- Deeper networks are able to create **deep representations**, at every layer, the network learns a new, more abstract representation of the input. This can help the network to **generalize better** to unseen data and to **capture long-range dependencies** in the data .
+- However, deeper networks also have some **challenges** and **limitations**, such as **vanishing or exploding gradients**, **overfitting**, **optimization difficulties**, and **interpretability issues**. These challenges require careful design and regularization of the network architecture and hyperparameters .
+- Therefore, the choice of shallow or deep networks depends on the **nature of the problem**, the **availability of data**, and the **computational resources**. There is no definitive answer to which one is better, but rather a trade-off between **simplicity and expressiveness**.

@@ -1,0 +1,16 @@
+### Attribute selector
+
+- An attribute selector is a type of CSS selector that matches elements based on the presence or value of a given attribute.
+- An attribute is a property of an HTML element that provides additional information about the element, such as its class, id, style, or source.
+- An attribute selector has the following syntax: `[attribute]`, `[attribute=value]`, `[attribute~=value]`, `[attribute|=value]`, `[attribute^=value]`, `[attribute$=value]`, `[attribute*=value]`.
+- The different types of attribute selectors are:
+
+  - `[attribute]`: This selector matches any element that has the specified attribute, regardless of its value. For example, `[src]` matches any element that has a `src` attribute.
+  - `[attribute=value]`: This selector matches any element that has the specified attribute with the exact value. For example, `[type="text"]` matches any element that has a `type` attribute with the value `"text"`.
+  - `[attribute~=value]`: This selector matches any element that has the specified attribute with a value that contains the specified word, separated by spaces. For example, `[class~="red"]` matches any element that has a `class` attribute with a value that contains the word `"red"`, such as `"red"`, `"red bold"`, or `"big red"`.
+  - `[attribute|=value]`: This selector matches any element that has the specified attribute with a value that is either exactly the specified value, or the specified value followed by a hyphen. For example, `[lang|="en"]` matches any element that has a `lang` attribute with a value that is either `"en"` or starts with `"en-"`, such as `"en"`, `"en-US"`, or `"en-GB"`.
+  - `[attribute^=value]`: This selector matches any element that has the specified attribute with a value that starts with the specified value. For example, `[href^="https"]` matches any element that has a `href` attribute with a value that starts with `"https"`, such as `"https://example.com"` or `"https://www.educba.com"`.
+  - `[attribute$=value]`: This selector matches any element that has the specified attribute with a value that ends with the specified value. For example, `[src$=".jpg"]` matches any element that has a `src` attribute with a value that ends with `".jpg"`, such as `"image.jpg"` or `"photo.jpg"`.
+  - `[attribute*=value]`: This selector matches any element that has the specified attribute with a value that contains the specified value. For example, `[title*="CSS"]` matches any element that has a `title` attribute with a value that contains `"CSS"`, such as `"CSS Tutorial"` or `"Learn CSS"`.
+- Attribute selectors can be combined with other selectors, such as type, class, or id selectors, to create more specific selectors. For example, `img[src$=".png"]` matches any `img` element that has a `src` attribute with a value that ends with `".png"`.
+- Attribute selectors can be used to style elements based on their attributes, such as changing the color, font, or border of elements that have a certain attribute or value. For example, `a[href^="mailto:"]` can be used to style links that start with `"mailto:"` differently from other links.

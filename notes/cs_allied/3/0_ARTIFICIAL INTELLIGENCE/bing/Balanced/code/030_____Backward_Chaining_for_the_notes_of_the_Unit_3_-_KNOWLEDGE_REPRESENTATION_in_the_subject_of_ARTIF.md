@@ -1,0 +1,33 @@
+### Backward Chaining
+
+- Backward chaining is a method of reasoning in artificial intelligence that involves backtracking from the goal or endpoint to the steps that led to the goal .
+- It is a goal-driven inference algorithm that can find solutions where the end goal is defined.
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications, the other being forward chaining.
+- The main steps of backward chaining are :
+  - Start with the goal or query and match it with the consequent (right-hand side) of an inference rule.
+  - If there is a match, then add the antecedent (left-hand side) of the rule to the list of subgoals to be proved.
+  - If there is no match, then try another rule or fail.
+  - Repeat the process for each subgoal until either all subgoals are proved or no more rules can be applied.
+  - If all subgoals are proved, then the original goal is proved. If not, then the goal is not proved.
+- An example of backward chaining is:
+  - Goal: John is a criminal
+  - Rule 1: If X is a tax evader, then X is a criminal
+  - Rule 2: If X is a US citizen and X has income, then X must pay taxes
+  - Rule 3: John is a US citizen
+  - Rule 4: John has income
+  - Backward chaining process:
+    - Match the goal with the consequent of Rule 1 and get the subgoal: John is a tax evader
+    - Match the subgoal with the antecedent of Rule 2 and get the subgoals: John is a US citizen and John must pay taxes
+    - Match the first subgoal with the consequent of Rule 3 and get the subgoal: true (since Rule 3 is a fact)
+    - Match the second subgoal with the negation of the consequent of Rule 4 and get the subgoal: John does not have income
+    - Fail to match the last subgoal with any rule or fact
+    - Fail to prove the original goal
+- Backward chaining is more efficient than forward chaining for proof-finding problems, since it only searches for relevant rules and facts that support the goal.
+- Backward chaining is also more suitable for applications that have a large knowledge base and a small number of queries, such as expert systems.
+- However, backward chaining has some limitations, such as:
+  - It may generate redundant subgoals that have already been proved or disproved
+  - It may encounter infinite loops if the rules are not well-ordered or consistent
+  - It may not find a solution if the goal is too vague or complex
+  - It may not be able to handle uncertainty or probabilistic reasoning

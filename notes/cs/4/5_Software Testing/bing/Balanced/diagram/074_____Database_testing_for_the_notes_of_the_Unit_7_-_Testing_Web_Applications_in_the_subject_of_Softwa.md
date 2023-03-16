@@ -1,0 +1,35 @@
+### Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Database testing is a type of software testing that checks the schema, tables, triggers, etc. of the database under test.
+- Database testing also checks data integrity and consistency, which are very important for a web application.
+- Database testing involves creating and executing queries, manipulating data, verifying data retrieval and update, and testing database security.
+- Database testing can be done using various tools, such as MS-Access, MS SQL Server, SQL Server, Oracle, Oracle Financial, MySQL, PostgreSQL, DB2, Toad, Admirer, etc.
+- Database testing can help prevent data loss, unauthorized access, aborted transactions, and other vulnerabilities in the web application.
+- Database testing can be divided into four categories: structural testing, functional testing, non-functional testing, and security testing.
+- Structural testing checks the database design, schema, tables, columns, indexes, constraints, etc.
+- Functional testing checks the business logic, data manipulation, data validation, stored procedures, triggers, etc.
+- Non-functional testing checks the performance, reliability, scalability, availability, etc. of the database.
+- Security testing checks the authentication, authorization, encryption, auditing, etc. of the database.
+- Database testing can be done using various techniques, such as black-box testing, white-box testing, gray-box testing, etc.
+- Black-box testing does not require knowledge of the database structure or code, and focuses on the input and output of the database.
+- White-box testing requires knowledge of the database structure and code, and focuses on the internal workings of the database.
+- Gray-box testing combines both black-box and white-box testing, and requires some knowledge of the database structure and code.
+- Database testing can be done using various methods, such as manual testing, automated testing, or a combination of both.
+- Manual testing involves writing and executing queries by hand, and checking the results manually.
+- Automated testing involves using tools or scripts to generate and execute queries, and compare the results with expected outcomes.
+- A combination of both manual and automated testing can be used to achieve optimal coverage and efficiency.
+- Database testing can be done at various stages of the software development life cycle, such as unit testing, integration testing, system testing, regression testing, etc.
+- Unit testing checks the individual components or modules of the database.
+- Integration testing checks the interaction and communication between different components or modules of the database.
+- System testing checks the functionality and performance of the database as a whole.
+- Regression testing checks the impact of any changes or updates on the existing functionality and performance of the database.
+- Database testing can be done using various strategies, such as top-down testing, bottom-up testing, sandwich testing, etc.
+- Top-down testing starts from the higher-level components or modules of the database, and moves down to the lower-level components or modules.
+- Bottom-up testing starts from the lower-level components or modules of the database, and moves up to the higher-level components or modules.
+- Sandwich testing combines both top-down and bottom-up testing, and tests the middle-level components or modules of the database.
+- Database testing can be done using various best practices, such as planning the test cases, designing the test data, preparing the test environment, executing the test cases, reporting the test results, etc.
+- Planning the test cases involves identifying the scope, objectives, requirements, and criteria of the database testing.
+- Designing the test data involves creating or selecting the appropriate data sets for the database testing.
+- Preparing the test environment involves setting up the database server, tools, scripts, etc. for the database testing.
+- Executing the test cases involves running the queries, manipulating the data, verifying the results, etc. for the database testing.
+- Reporting the test results involves documenting the test cases, test data, test outcomes, test defects, etc. for the database testing.

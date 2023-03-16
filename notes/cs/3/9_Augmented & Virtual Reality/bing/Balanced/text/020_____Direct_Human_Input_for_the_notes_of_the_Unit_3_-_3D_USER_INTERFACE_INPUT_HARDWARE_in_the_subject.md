@@ -1,0 +1,30 @@
+### Direct Human Input for 3D User Interface Input Hardware
+
+- Direct human input refers to the use of the human body or its parts as input devices for 3D user interfaces (3D UIs).
+- Direct human input can provide natural and intuitive interaction with 3D environments, as well as high degrees of freedom (DOF) and accuracy.
+- Direct human input can be classified into two categories: gesture-based and touch-based.
+- Gesture-based input involves using hand or body gestures to manipulate 3D objects or navigate 3D spaces. Examples of gesture-based input devices are:
+  - 3D mice: devices that allow the user to move and rotate a 3D cursor in 6 DOF by moving and tilting the device in the air.
+  - Motion trackers: devices that capture the position and orientation of the user's body or body parts using sensors, cameras, or magnetic fields.
+  - Gesture recognition systems: devices that recognize predefined or user-defined gestures using computer vision, machine learning, or other techniques.
+- Touch-based input involves using direct contact with a surface or an object to interact with 3D environments. Examples of touch-based input devices are:
+  - Pen- and touch-based tablets: devices that allow the user to draw, write, or point on a 2D surface using a stylus or a finger, and map the input to 3D actions.
+  - Touchscreens: devices that allow the user to touch a 2D or 3D display directly and manipulate 3D objects or navigate 3D spaces using multi-touch gestures.
+  - Haptic devices: devices that provide tactile or force feedback to the user's hand or body when touching or manipulating 3D objects or environments.
+- The choice of direct human input devices for 3D UIs depends on several factors, such as:
+  - The application domain and the task requirements.
+  - The user's preferences and expectations.
+  - The device's characteristics, such as DOF, input type, frequency, accuracy, resolution, latency, reliability, and cost.
+  - The device's compatibility and integration with other input and output devices.
+  - The device's usability and learnability.
+  - The device's impact on the user's performance, satisfaction, and comfort.
+- Direct human input devices have advantages and disadvantages for 3D UIs. Some of the advantages are:
+  - They can provide natural and intuitive interaction with 3D environments.
+  - They can support high DOF and accuracy for 3D manipulation and navigation.
+  - They can enhance the user's sense of presence and immersion in 3D environments.
+  - They can enable multimodal and collaborative interaction with 3D environments.
+- Some of the disadvantages are:
+  - They can suffer from occlusion, interference, or noise issues.
+  - They can cause fatigue, discomfort, or injury to the user's body or body parts.
+  - They can have limited range, resolution, or feedback.
+  - They can require calibration, training, or recognition algorithms.

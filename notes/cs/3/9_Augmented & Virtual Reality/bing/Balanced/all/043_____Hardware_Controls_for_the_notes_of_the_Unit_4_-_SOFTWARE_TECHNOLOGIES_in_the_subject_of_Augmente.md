@@ -1,0 +1,10 @@
+# Hardware Controls for Augmented and Virtual Reality
+
+- Hardware controls are the devices and components that enable users to interact with augmented and virtual reality applications and environments.
+- Hardware controls can be classified into three main categories: input, output, and tracking.
+- Input controls are the devices that allow users to provide commands, gestures, and feedback to the system. Examples of input controls are keyboards, mice, gamepads, touchscreens, voice recognition, eye tracking, and motion controllers.
+- Output controls are the devices that display the augmented and virtual reality content to the users. Examples of output controls are monitors, projectors, head-mounted displays, smart glasses, and speakers.
+- Tracking controls are the devices that measure the position, orientation, and movement of the users and the environment. Examples of tracking controls are cameras, sensors, GPS, and inertial measurement units.
+- Some hardware controls can perform multiple functions, such as head-mounted displays that can provide both output and tracking, or motion controllers that can provide both input and tracking.
+- Hardware controls can vary in their performance, compatibility, cost, and usability. Some factors that affect these aspects are resolution, refresh rate, field of view, latency, accuracy, battery life, ergonomics, and design.
+- Hardware controls can also have different advantages and disadvantages for different types of augmented and virtual reality applications and scenarios. For example, head-mounted displays can provide immersive and realistic experiences, but they can also cause motion sickness, discomfort, and social isolation. Smart glasses can provide convenient and contextual information, but they can also raise privacy and security concerns, and have limited battery life and display quality.

@@ -1,0 +1,9 @@
+### Programming Environment for Google App Engine
+
+- Google App Engine is a cloud computing platform that allows developers to build and run web applications on Google's infrastructure.
+- Google App Engine provides four possible runtime environments for applications, one for each of four programming languages: Java, Python, PHP, and Go. The environment you choose depends on the language and related technologies you want to use for developing the application.
+- Google App Engine also supports other languages via "custom runtimes" that allow developers to use any language and framework of their choice.
+- Google App Engine offers two types of environments: standard and flexible. The standard environment has predefined runtimes, automatic scaling, and free usage up to a certain limit. The flexible environment has custom runtimes, manual or automatic scaling, and billing based on the resources used.
+- To create an application for Google App Engine, you can use the SDK (Software Development Kit) for the language of your choice. The SDK provides tools to develop, test, and deploy your application locally or on the cloud.
+- Each language's SDK and runtime are unique and have different features and limitations. For example, the Java runtime supports servlets, JSPs, and frameworks like Spring and Struts, while the Python runtime supports webapp2, Django, and Flask .
+- Google App Engine also provides various services and APIs to enhance your application, such as Datastore, Memcache, Cloud Storage, Cloud SQL, Cloud Firestore, Cloud Pub/Sub, Cloud Tasks, Cloud Endpoints, and more.

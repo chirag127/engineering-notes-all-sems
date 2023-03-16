@@ -1,0 +1,13 @@
+### Global Perspectives for the notes of the Unit 1 - Fundamental Concepts in the subject of Quantum Computing
+
+- Quantum computing is a computation model that uses quantum physical properties to solve problems that are intractable or inefficient for classical computers.
+- Quantum computing has the potential to transform various domains such as cryptography, optimization, machine learning, chemistry, physics, and medicine by enabling faster, more accurate, and more scalable solutions .
+- Quantum computing is based on the concepts of qubits, superposition, entanglement, interference, and measurement, which are explained in the following sections.
+- Qubits are the basic units of quantum information, analogous to bits in classical computing. Qubits can exist in two states, usually denoted as |0> and |1>, or a linear combination of both, called superposition.
+- Superposition is the property of qubits that allows them to represent both |0> and |1> simultaneously, with a certain probability amplitude for each state. The state of a qubit can be written as a|0> + b|1>, where a and b are complex numbers such that |a|^2 + |b|^2 = 1.
+- Entanglement is the property of qubits that allows them to share quantum information and influence each other, even when they are physically separated. When two or more qubits are entangled, their states cannot be described independently, but only as a joint state of the whole system.
+- Interference is the property of qubits that allows them to constructively or destructively combine their probability amplitudes, depending on their relative phases. Interference is the mechanism that enables quantum algorithms to amplify the correct solutions and cancel out the wrong ones.
+- Measurement is the process of observing the state of a qubit or a quantum system, which collapses the superposition or entanglement into a definite state, either |0> or |1>, with a certain probability. Measurement is irreversible and introduces randomness and uncertainty in quantum computing.
+- Quantum computing is an active and rapidly evolving field of research and development, with multiple companies, universities, and governments investing in quantum hardware, software, and applications  .
+- Quantum computing faces several challenges and limitations, such as noise, decoherence, error correction, scalability, and algorithm design, which require further innovation and breakthroughs to achieve practical and reliable quantum systems  .
+- Quantum computing also raises ethical, social, and legal implications, such as the impact on cybersecurity, privacy, intellectual property, regulation, and education, which require careful consideration and collaboration among stakeholders .

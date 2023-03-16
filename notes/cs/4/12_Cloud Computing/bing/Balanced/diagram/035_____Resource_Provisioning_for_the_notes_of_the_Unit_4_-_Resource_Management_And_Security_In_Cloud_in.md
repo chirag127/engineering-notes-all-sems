@@ -1,0 +1,23 @@
+### Resource Provisioning
+
+- Resource provisioning is the process of allocating and delivering cloud resources and services to a customer, according to their requirements and preferences.
+- Resource provisioning is an important aspect of cloud computing, as it enables the customer to access cloud resources on-demand, pay-as-you-go, and scale up or down as needed.
+- Resource provisioning can be conducted using one of three delivery models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS).
+  - IaaS: The customer provisions virtual machines, storage, network, and other low-level resources from the cloud provider, and has full control over them.
+  - PaaS: The customer provisions application platforms, middleware, databases, and other high-level resources from the cloud provider, and has limited control over them.
+  - SaaS: The customer provisions software applications, such as email, CRM, or ERP, from the cloud provider, and has no control over them.
+- Resource provisioning can be performed using different methods, such as manual, automated, or dynamic.
+  - Manual: The customer requests the resources from the cloud provider, and the cloud provider allocates them manually.
+  - Automated: The customer specifies the resources they need, and the cloud provider allocates them automatically using predefined policies and scripts.
+  - Dynamic: The customer and the cloud provider agree on the service level agreements (SLAs), and the cloud provider allocates the resources dynamically based on the customer's demand and the provider's availability.
+- Resource provisioning faces some challenges, such as resource heterogeneity, resource contention, resource fragmentation, resource scalability, and resource security .
+  - Resource heterogeneity: The cloud resources may have different types, configurations, capabilities, and performance, which makes it difficult to provision them uniformly and efficiently.
+  - Resource contention: The cloud resources may be shared by multiple customers, which may lead to conflicts, delays, and quality degradation.
+  - Resource fragmentation: The cloud resources may be distributed across different locations, domains, and providers, which makes it difficult to provision them coherently and optimally.
+  - Resource scalability: The cloud resources may need to be scaled up or down rapidly and elastically, which makes it difficult to provision them accurately and timely.
+  - Resource security: The cloud resources may be exposed to various threats, such as unauthorized access, data leakage, or denial of service, which makes it difficult to provision them securely and reliably.
+- Resource provisioning can be improved by using some techniques, such as resource virtualization, resource orchestration, resource optimization, and resource monitoring .
+  - Resource virtualization: The cloud resources are abstracted from their physical characteristics and presented as logical units, which makes them easier to provision and manage.
+  - Resource orchestration: The cloud resources are coordinated and integrated using workflows, policies, and rules, which makes them more consistent and efficient.
+  - Resource optimization: The cloud resources are allocated and utilized using algorithms, models, and heuristics, which makes them more optimal and cost-effective.
+  - Resource monitoring: The cloud resources are observed and measured using metrics, indicators, and feedback, which makes them more visible and adaptable.

@@ -1,0 +1,25 @@
+### Location Management: HLR-VLR, Hierarchical, Handoffs
+
+- Location management is the process of tracking and updating the location of mobile users in a wireless cellular network.
+- Location management consists of three main tasks: location update, location lookup, and paging.
+- Location update is the process of informing the network about the current location of the mobile user, usually initiated by the mobile user when it moves across a predefined boundary (such as a cell or a registration area).
+- Location lookup is the process of finding the current location of the mobile user, usually initiated by the network when it needs to deliver a call or a message to the mobile user.
+- Paging is the process of notifying the mobile user about an incoming call or a message, usually initiated by the network after locating the mobile user.
+- Location management involves two types of databases: Home Location Register (HLR) and Visitor Location Register (VLR).
+- HLR is a centralized database that stores the permanent information of all the mobile users in the network, such as their service profile, authentication data, and current location (in terms of the VLR that serves them).
+- VLR is a local database that stores the temporary information of the mobile users that are currently visiting its service area, such as their identity, location (in terms of the cell or the base station that serves them), and service status.
+- HLR and VLR communicate with each other to update and lookup the location of the mobile users, using standardized protocols such as MAP (Mobile Application Part) or IS-41.
+- Location management can be classified into two categories: flat and hierarchical.
+- Flat location management uses a single level of database (HLR) to store and retrieve the location of the mobile users, without any intermediate level of database (VLR). This simplifies the network architecture, but increases the signaling overhead and the database size.
+- Hierarchical location management uses multiple levels of databases (HLR and VLR) to store and retrieve the location of the mobile users, with each level covering a different geographical area. This reduces the signaling overhead and the database size, but increases the network complexity and the latency.
+- Handoff is the process of transferring the ongoing communication of a mobile user from one base station to another, without interrupting the service quality or the user perception.
+- Handoff can be classified into two types: horizontal and vertical.
+- Horizontal handoff occurs when the mobile user moves from one base station to another within the same network or the same technology (such as GSM or CDMA).
+- Vertical handoff occurs when the mobile user moves from one network to another or from one technology to another (such as GSM to Wi-Fi or CDMA to LTE).
+- Handoff involves three main steps: handoff initiation, handoff decision, and handoff execution.
+- Handoff initiation is the process of detecting the need for a handoff, usually based on the signal strength, the signal quality, or the user preference.
+- Handoff decision is the process of selecting the best target base station for the handoff, usually based on the network load, the available resources, or the user profile.
+- Handoff execution is the process of switching the communication channel from the old base station to the new base station, usually using a predefined signaling protocol (such as GSM BSSMAP or CDMA IS-95).
+- Handoff can be further classified into two types: hard and soft.
+- Hard handoff occurs when the mobile user breaks the connection with the old base station before establishing the connection with the new base station. This causes a temporary interruption in the service, but reduces the interference and the resource consumption.
+- Soft handoff occurs when the mobile user maintains the connection with both the old and the new base stations simultaneously. This avoids any interruption in the service, but increases the interference and the resource consumption.

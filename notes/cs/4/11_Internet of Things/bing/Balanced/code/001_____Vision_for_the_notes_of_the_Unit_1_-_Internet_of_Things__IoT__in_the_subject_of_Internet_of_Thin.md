@@ -1,0 +1,10 @@
+### Vision for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+
+- Vision is the ability to perceive and interpret the surrounding environment using light.
+- Vision is essential for many applications of the Internet of Things (IoT), such as smart homes, smart cities, autonomous vehicles, health care, agriculture, etc.
+- Vision can be achieved by using various sensors, such as cameras, lidars, radars, infrared, etc., that capture images or videos of the scene.
+- Vision can also be enhanced by using artificial intelligence (AI) techniques, such as computer vision, machine learning, deep learning, etc., that process and analyze the images or videos to extract useful information or perform tasks.
+- Vision can enable the IoT devices to interact with the physical world, such as recognizing objects, faces, gestures, emotions, etc., detecting anomalies, events, activities, etc., tracking and locating people, vehicles, animals, etc., measuring distances, dimensions, speeds, etc., generating maps, models, reconstructions, etc., and providing feedback, guidance, assistance, etc.
+- Vision can also enable the IoT devices to communicate with each other, such as sharing data, coordinating actions, collaborating on tasks, etc., and with the users, such as displaying information, alerts, notifications, etc., and receiving commands, requests, preferences, etc.
+- Vision can also enable the IoT devices to learn from the environment, such as adapting to changes, improving performance, discovering new patterns, etc., and to improve the environment, such as optimizing resources, reducing waste, enhancing safety, etc.
+- Vision can also pose some challenges and limitations for the IoT, such as requiring high bandwidth, storage, computation, power, etc., dealing with noise, occlusion, illumination, etc., ensuring privacy, security, ethics, etc., and handling uncertainty, ambiguity, complexity, etc.

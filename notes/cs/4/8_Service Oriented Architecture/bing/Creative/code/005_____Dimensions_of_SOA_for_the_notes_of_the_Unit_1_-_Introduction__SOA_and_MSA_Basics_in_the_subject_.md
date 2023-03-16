@@ -1,0 +1,9 @@
+### Dimensions of SOA
+
+Service-Oriented Architecture (SOA) is an architectural approach in which applications make use of services available in the network. Services are self-contained, loosely coupled, and reusable components that provide specific functionality and can be composed to create complex business processes. SOA testing is the process of verifying the quality and functionality of the services and the processes that use them.
+
+There are many dimensions of SOA testing, but the main ones are:
+
+- **Service-level testing**: This is the most important dimension, as it focuses on testing the individual services that are the building blocks of the SOA. Service-level testing involves validating the input and output parameters, the business logic, the data transformations, the error handling, the security, and the performance of each service. Service-level testing can be done using tools such as SOAPUI, Postman, or JMeter.
+- **Process-level testing**: This is the dimension that tests the orchestration and choreography of the services to create business processes. Process-level testing involves verifying the workflow logic, the service interactions, the data flows, the exception handling, the transaction management, and the performance of the processes. Process-level testing can be done using tools such as BPELUnit, BPMNUnit, or BizUnit.
+- **Performance testing**: This is the dimension that tests the scalability, reliability, and availability of the SOA under different load and stress conditions. Performance testing involves measuring the response time, throughput, resource utilization, and error rate of the services and the processes. Performance testing can be done using tools such as LoadRunner, JMeter, or Gatling.

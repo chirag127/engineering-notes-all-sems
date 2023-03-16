@@ -1,0 +1,25 @@
+### Conceptual Framework for the notes of the Unit 1 - Internet of Things (IoT): Vision, Definition, Conceptual Framework, Architectural view, technology behind IoT, Sources of the IoT, M2M Communication, IoT Examples. Design Principles for Connected Devices: IoT/M2M systems layers and design standardization, communication technologies, data enrichment and consolidation, ease of designing and affordability in the subject of INTRODUCTION TO INTERNET OF THINGS
+
+- Internet of Things (IoT) is a network of physical objects or things that are embedded with sensors, actuators, controllers, and communication devices that enable them to exchange data with other devices, applications, or cloud services through the Internet.
+- IoT vision is to create a smart, connected, and ubiquitous world where physical and virtual objects can interact with each other and provide value-added services to humans and other entities.
+- Conceptual framework for IoT is a way of describing the main components, functions, and relationships of an IoT system. A simple conceptual framework of IoT can be represented as follows:
+
+```
+Physical object + Controller, Sensor and Actuators + Internet = Internet of Things
+```
+
+- IoT consisting of internetworked devices and objects: Gather + Enrich + Stream + Manage + Acquire + Organise and Analyse = Internet of Things with connectivity to data centre, enterprise or cloud server.
+- Architectural view of IoT is a way of depicting the different layers, modules, and interfaces of an IoT system. A common architectural view of IoT consists of three layers, namely physical, network, and application layer.
+  - Physical layer: This layer includes the physical objects or things that are equipped with sensors, actuators, controllers, and communication devices. This layer is responsible for sensing, actuating, and transmitting data to the network layer.
+  - Network layer: This layer includes the communication protocols, standards, and technologies that enable data transmission and routing among the physical objects and the application layer. This layer can use wired or wireless networks, such as Wi-Fi, Bluetooth, ZigBee, cellular, or satellite.
+  - Application layer: This layer includes the software applications, platforms, and cloud services that process, store, analyse, and visualise the data collected from the physical objects. This layer also provides the user interface and the business logic for the IoT system.
+- Technology behind IoT is the combination of hardware, software, and communication technologies that enable the IoT system to function. Some of the key technologies behind IoT are:
+  - Sensors and actuators: These are devices that can measure or control physical parameters, such as temperature, humidity, motion, light, sound, etc. Sensors and actuators are essential for enabling the physical objects to interact with the environment and other objects.
+  - Microcontrollers and embedded systems: These are small computers that can run software programs and control the sensors, actuators, and communication devices. Microcontrollers and embedded systems are essential for enabling the physical objects to perform specific functions and tasks.
+  - Communication protocols and standards: These are rules and specifications that define how data is formatted, transmitted, and received among the physical objects and the application layer. Communication protocols and standards are essential for ensuring interoperability and compatibility among different devices, networks, and applications.
+  - Cloud computing and big data analytics: These are technologies that enable the storage, processing, analysis, and visualisation of large amounts of data collected from the physical objects. Cloud computing and big data analytics are essential for providing scalable, reliable, and cost-effective services and solutions for the IoT system.
+- Sources of the IoT are the different domains, sectors, or industries that generate or use the IoT data and services. Some of the sources of the IoT are:
+  - Smart home: This is the domain that involves the use of IoT devices and applications to automate, monitor, and control the home environment and appliances, such as lighting, heating, security, entertainment, etc.
+  - Smart city: This is the domain that involves the use of IoT devices and applications to improve the efficiency, sustainability, and quality of life in urban areas, such as transportation, energy, water, waste, health, education, etc.
+  - Smart industry: This is the domain that involves the use of IoT devices and applications to enhance the productivity, performance, and safety of industrial processes, such as manufacturing, logistics, agriculture, mining, etc.
+  - Smart health: This is the domain that involves the use of IoT devices and applications to provide better health care and wellness services, such as remote monitoring, diagnosis, treatment, prevention, etc.

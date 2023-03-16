@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some applications of ad hoc networks for the notes of Unit 5:
+
+- **Military battlefield**: Ad hoc networks can be used to establish communication among soldiers, vehicles, and headquarters without relying on fixed infrastructure or centralized control.
+- **Vehicular ad hoc network (VANET)**: Ad hoc networks can be used to enable communication between vehicles for traffic management, safety, and entertainment. VANETs can also use artificial intelligence and ad hoc technologies to coordinate actions during accidents.
+- **Smartphone ad hoc network (SPAN)**: Ad hoc networks can be created on smartphones using existing technologies like Wi-Fi and Bluetooth to enable peer-to-peer data exchange, social networking, and emergency services without depending on cellular networks or access points .
+- **Wireless sensor network (WSN)**: Ad hoc networks can be used to connect a large number of sensor nodes that collect and process data from the environment. WSNs can be used for applications such as environmental monitoring, health care, agriculture, and smart homes.
+- **Industrial and commercial applications**: Ad hoc networks can be used to support cooperative mobile data exchange among workers, customers, and devices in various domains such as manufacturing, retail, health care, and education.

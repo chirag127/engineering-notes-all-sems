@@ -1,0 +1,9 @@
+## Unit 5 - Software Testing Activities
+
+Software testing is the process of verifying and validating that a software product meets the requirements and expectations of the stakeholders. Software testing activities include:
+
+- **Planning**: This involves defining the scope, objectives, strategy, resources, schedule, and risks of the testing process. Planning also includes identifying the test cases, test data, test environment, and test tools that will be used to conduct the testing.
+- **Design**: This involves creating and documenting the test cases and test data that will be used to verify the functionality, performance, usability, security, and reliability of the software product. Design also includes defining the expected results and acceptance criteria for each test case.
+- **Execution**: This involves running the test cases and test data on the software product using the test environment and test tools. Execution also involves recording the actual results and comparing them with the expected results to determine the outcome of each test case.
+- **Evaluation**: This involves analyzing the test results and evaluating the quality of the software product based on the outcome of the test cases. Evaluation also involves identifying the defects, errors, and failures that occurred during the testing process and reporting them to the developers and stakeholders.
+- **Closure**: This involves completing the testing process and ensuring that all the test activities and deliverables are documented and archived. Closure also involves conducting a review and a retrospective to assess the effectiveness and efficiency of the testing process and identify the lessons learned and the best practices for future testing projects.

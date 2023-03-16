@@ -1,0 +1,12 @@
+### Object-oriented Analysis and Design (OOAD) Process
+
+- Object-oriented analysis and design (OOAD) is a technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the software development process to guide stakeholder communication and product quality.
+- OOAD consists of two main activities: object-oriented analysis (OOA) and object-oriented design (OOD).
+- OOA is the process of identifying and modeling the functional requirements of the software, while remaining independent of any implementation details. OOA uses object-oriented concepts and techniques, such as classes, objects, attributes, methods, associations, inheritance, and polymorphism, to model the problem domain .
+- OOD is the process of designing the software architecture and components that will satisfy the functional requirements, while considering the non-functional requirements, such as performance, reliability, security, and maintainability. OOD uses object-oriented concepts and techniques, such as abstraction, encapsulation, modularity, and reusability, to design the software structure and behavior .
+- OOAD follows an iterative and incremental approach, where the analysis and design activities are performed in cycles, each producing a partial or complete version of the software. OOAD also uses visual modeling languages, such as Unified Modeling Language (UML), to represent the analysis and design artifacts, such as use cases, class diagrams, sequence diagrams, and state diagrams .
+- The main benefits of OOAD are:
+  - It facilitates communication and collaboration among stakeholders, such as developers, customers, and users, by using a common vocabulary and notation.
+  - It improves the quality and maintainability of the software, by promoting modularity, reusability, and extensibility of the code.
+  - It supports the development of complex and large-scale software systems, by allowing the decomposition of the problem into manageable and cohesive modules.
+  - It enables the adaptation and evolution of the software, by allowing the modification and extension of the existing classes and objects  .

@@ -1,0 +1,15 @@
+### Multimodal System Control Techniques
+
+Multimodal system control techniques are methods of using multiple input channels (such as speech, gesture, eye gaze, etc.) to control the system or application settings, modes, or functions in a 3D user interface (3DUI). For example, a user can say "pause" to pause the simulation, or use a hand gesture to switch between different views of the scene.
+
+Some advantages of using multimodal system control techniques are:
+
+- Decoupling: Using an input channel that differs from the main input channel used for interaction with the environment can decrease user cognitive load. For example, using speech to control the system while using hand gestures to manipulate objects can reduce the need to switch between different input devices or modes.
+- Error reduction and correction: The use of multiple input channels can be very effective when the input is ambiguous or noisy, especially with recognition-based input like speech or gestures. For example, using speech and gesture together can increase the accuracy and robustness of the input recognition, or allow the user to correct errors by using another input channel.
+- Expressiveness and naturalness: The use of multiple input channels can enable more expressive and natural interaction with the 3D environment, by allowing the user to use the input modalities that are most suitable for the task or context. For example, using speech and gesture together can allow the user to create and position objects in a 3D scene by speaking while gesturing in 3D space.
+
+Some challenges of using multimodal system control techniques are:
+
+- Design: The design of multimodal system control techniques requires careful consideration of the compatibility, complementarity, and redundancy of the input channels, as well as the feedback and feedforward mechanisms to inform the user of the system state and available commands. For example, the system should provide clear and consistent cues to indicate what input modalities are accepted, and how the system interprets the input.
+- Implementation: The implementation of multimodal system control techniques requires the integration of multiple input devices and recognition algorithms, as well as the coordination and fusion of the input data from different sources. For example, the system should be able to handle the temporal and spatial alignment, synchronization, and conflict resolution of the input modalities.
+- Evaluation: The evaluation of multimodal system control techniques requires the measurement and analysis of the usability, performance, and user experience of the 3DUI, as well as the comparison with alternative or baseline techniques. For example, the system should be able to assess the effectiveness, efficiency, and satisfaction of the user in using the multimodal system control techniques.

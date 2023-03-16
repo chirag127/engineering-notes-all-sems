@@ -1,0 +1,19 @@
+### Associations Encapsulation for the Notes of the Unit 3 - Object Oriented Analysis in the Subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the process of identifying software engineering requirements and developing software specifications in terms of a software system's object model, which consists of interacting objects.
+- An object is an entity that has a state (attributes) and a behavior (operations) that define its identity and role in the system.
+- A class is a blueprint or template that defines the common attributes and operations of a set of objects that belong to the same category.
+- Encapsulation is a fundamental concept in OOA that involves bundling data and the methods that operate on that data within a single unit, known as a class.
+- Encapsulation helps to protect the data and methods from outside interference, as it restricts direct access to them. It also promotes modularity, reusability, and maintainability of the code.
+- Encapsulation separates the contractual interface of a class and its implementation. The interface defines the services or functionalities that a class provides to other classes or objects, while the implementation defines how those services are performed internally.
+- Associations are semantically weak relationships between otherwise unrelated classes or objects that indicate how they are connected or related to each other.
+- Associations can have different types, such as aggregation, composition, inheritance, and dependency, depending on the nature and strength of the relationship.
+- Aggregation is a type of association that represents a "part-of" or "has-a" relationship between a whole and its parts. The parts can exist independently of the whole, and the whole does not own or control the parts.
+- Composition is a type of association that represents a "part-of" or "has-a" relationship between a whole and its parts. The parts cannot exist independently of the whole, and the whole owns and controls the parts. The lifetime of the parts is bound to the lifetime of the whole.
+- Inheritance is a type of association that represents an "is-a" or "kind-of" relationship between a superclass and its subclasses. The subclasses inherit the attributes and operations of the superclass, and can also add or override them. Inheritance enables code reuse and polymorphism.
+- Dependency is a type of association that represents a "uses" or "depends-on" relationship between two classes or objects. One class or object requires the services or functionalities of another class or object, but does not own or control it. Dependency indicates a weak and temporary relationship.
+- Associations can have different properties, such as multiplicity, role, and direction, that specify the number, name, and direction of the links between the classes or objects involved in the association.
+- Multiplicity defines how many instances of one class or object can be linked to one instance of another class or object in an association. It can be expressed as a single value, a range, or a set of values.
+- Role defines the name or purpose of a class or object in an association. It can be used to distinguish between different types of associations or to clarify the meaning of an association.
+- Direction defines the direction of the link or the flow of information or control between the classes or objects in an association. It can be unidirectional or bidirectional.
+- Associations and encapsulation are important concepts in OOA, as they help to model the structure and behavior of a software system in terms of its objects and their relationships. They also help to ensure the quality and reliability of the software system by enforcing the principles of modularity, reusability, and maintainability.

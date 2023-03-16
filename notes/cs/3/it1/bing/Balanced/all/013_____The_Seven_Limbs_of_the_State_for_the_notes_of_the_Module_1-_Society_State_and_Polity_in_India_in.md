@@ -1,0 +1,12 @@
+# The Seven Limbs of the State
+
+- The seven limbs of the state (saptanga) are a political concept given by Kautilya in his treatise Arthashastra, which deals with the art of governance and statecraft.
+- According to Kautilya, the seven limbs of the state are: 
+  - King: The king is the supreme authority and the head of the state. He is responsible for the peace, justice and stability of the state. He should be virtuous, wise, courageous and benevolent. He should also be well-versed in the four sciences of politics, economics, ethics and warfare.
+  - Amatya: The amatya are the bureaucrats or ministers who assist the king in the administration of the state. They should be loyal, efficient, honest and competent. They should also be well-trained in the six branches of knowledge: law, diplomacy, military, finance, agriculture and trade.
+  - Janapada: The janapada is the territory or population of the state. It should be fertile, prosperous, well-defended and loyal to the king. It should also be diverse and harmonious, with different castes, classes, religions and occupations.
+  - Durga: The durga is the fort or the capital of the state. It should be strategically located, well-fortified and well-supplied. It should also be the center of culture, education and commerce.
+  - Kosa: The kosa is the treasury or the wealth of the state. It should be sufficient, well-managed and well-spent. It should also be derived from fair and legitimate sources, such as taxes, trade, mines and spoils of war.
+  - Danda: The danda is the coercive authority or the military of the state. It should be strong, disciplined and loyal. It should also be well-equipped, well-trained and well-led.
+  - Mitra: The mitra is the ally or the friend of the state. It should be reliable, supportive and beneficial. It should also be chosen wisely, based on the six-fold policy of peace, war, neutrality, alliance, march and division.
+- Kautilya believed that the seven limbs of the state are interdependent and interrelated, and that the success or failure of the state depends on the balance and harmony of these limbs. He also provided detailed guidelines and advice on how to maintain, improve and protect each limb of the state.

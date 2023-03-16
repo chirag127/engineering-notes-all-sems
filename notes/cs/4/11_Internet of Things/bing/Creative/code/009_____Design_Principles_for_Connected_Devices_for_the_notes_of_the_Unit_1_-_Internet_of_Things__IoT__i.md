@@ -1,0 +1,15 @@
+### Design Principles for Connected Devices
+
+- Design principles are fundamental pieces of advice for you to make easy-to-use, pleasurable designs. They represent the accumulated wisdom of researchers and practitioners in design and related fields.
+- Design principles for connected devices are especially important in the context of the Internet of Things (IoT), where multiple devices interact with each other and with users in complex and dynamic ways .
+- Some of the design principles for connected devices are:
+
+  - **Calm technology**: A system that does not compete for attention but has a high utility when given attention, this type of technology is referred to as calm technology. Calm technology aims to reduce the cognitive load and distraction of users, and to enhance their awareness and control of the system.
+  - **Interoperability**: The ability of different devices to communicate and exchange data with each other, regardless of their manufacturer, platform, or protocol. Interoperability enables more use cases and scenarios for connected devices, and increases their value and functionality.
+  - **Security**: The protection of devices, data, and users from unauthorized access, modification, or harm. Security is a critical aspect of connected devices, as they may store sensitive information, control critical functions, or affect the safety and privacy of users. Security requires applying best practices such as encryption, authentication, authorization, and updating.
+  - **User experience**: The overall impression and satisfaction of users when interacting with a device or a system. User experience covers aspects such as usability, aesthetics, feedback, and emotions. User experience is influenced by the design of the device, the interface, the functionality, and the context of use.
+  - **Scalability**: The ability of a system to handle increasing numbers of devices, data, or users without compromising its performance, reliability, or quality. Scalability is essential for connected devices, as they may operate in large and dynamic networks, and generate massive amounts of data. Scalability requires designing for modularity, flexibility, and efficiency.
+  - **Reliability**: The ability of a system to perform its intended functions consistently and correctly under normal and adverse conditions. Reliability is important for connected devices, as they may affect the safety, productivity, or convenience of users. Reliability requires designing for robustness, redundancy, and fault tolerance.
+  - **Sustainability**: The ability of a system to minimize its negative impact on the environment and society, and to maximize its positive impact. Sustainability is relevant for connected devices, as they may consume energy, generate waste, or influence human behavior. Sustainability requires designing for durability, efficiency, and social responsibility.
+
+- These are some of the design principles for connected devices that can help create successful and beneficial IoT products and services. They are not exhaustive or definitive, but rather serve as guidelines and inspiration for designers and developers.

@@ -1,0 +1,11 @@
+# Virtualization Support and Disaster Recovery
+
+- Virtualization is the process of creating a virtual version of a physical resource, such as a server, a storage device, a network, or an application.
+- Virtualization enables multiple virtual machines (VMs) to run on a single physical host, sharing the same hardware resources and reducing the cost and complexity of IT infrastructure.
+- Virtualization also provides benefits for data protection and disaster recovery, which are the processes of ensuring the availability and integrity of data and systems in the event of a disruption or a disaster.
+- Virtualization can support and bolster disaster recovery strategy in the following ways   :
+
+  - Simplify backup storage: Virtualization allows for easier and faster backup of VMs, as they can be stored as files on a disk or in the cloud. This reduces the need for multiple storage media and devices, and enables the 3-2-1 rule of backup, which recommends having three copies of data, on two different media, and one offsite.
+  - Enhance recovery speed: Virtualization enables faster recovery of VMs, as they can be restored from backup files or replicated to another host or site. This reduces the downtime and data loss in the event of a disaster, and improves the recovery point objective (RPO) and recovery time objective (RTO), which are the metrics for measuring the acceptable amount of data loss and downtime in a disaster recovery scenario.
+  - Provide hardware independence: Virtualization decouples the VMs from the underlying hardware, which means that they can run on any compatible host or platform. This eliminates the need for having identical hardware at the primary and secondary disaster recovery sites, and allows for more flexibility and scalability in disaster recovery planning and testing.
+  - Maintain business continuity: Virtualization helps ensure that the critical business functions and applications can continue to operate in the event of a disaster, by storing the data and VMs in the cloud servers or in a remote location. This minimizes the impact of the disaster on the business operations and customers, and reduces the risk of revenue loss and reputation damage.

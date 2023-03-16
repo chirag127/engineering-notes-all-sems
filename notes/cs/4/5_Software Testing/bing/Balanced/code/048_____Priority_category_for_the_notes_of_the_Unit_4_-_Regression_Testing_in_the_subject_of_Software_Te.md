@@ -1,0 +1,23 @@
+### Priority category for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of verifying that a software change does not adversely affect the existing functionality or quality of the software.
+- Regression testing is important to ensure that the software remains stable and reliable after any modification, enhancement, bug fix, or configuration change.
+- Regression testing can be performed at different levels of testing, such as unit, integration, system, or acceptance testing.
+- Regression testing can be done manually or automatically, depending on the availability of test cases, test tools, and resources.
+- Regression testing can be challenging due to the large number of test cases, the frequent changes in the software, and the limited time and budget for testing.
+- To overcome these challenges, regression testing should be planned and prioritized based on the following factors:
+  - The criticality and impact of the software change on the business and the users
+  - The risk and complexity of the software change and the affected modules
+  - The frequency and stability of the software change and the release cycle
+  - The coverage and quality of the existing test cases and the test data
+  - The feasibility and cost of the test automation and the test execution
+- Based on these factors, the regression test suite can be divided into three categories of priority:
+  - High priority: These test cases cover the critical function of the application, defect prone modules and modules that have undergone recent changes. These test cases add a lot of value to the project and should be executed first and frequently.
+  - Medium priority: These test cases include negative test scenarios, complex test cases, and test cases that cover less critical or less frequently used functionalities. These test cases provide moderate value to the project and should be executed after the high priority test cases and as needed.
+  - Low priority: These test cases cover the remaining functionality of the application, such as UI, performance, security, and compatibility. These test cases provide low value to the project and should be executed last and occasionally.
+- By prioritizing the test cases for regression testing, the testing team can achieve the following benefits:
+  - Optimize the test suite and reduce the test execution time and effort
+  - Increase the test coverage and the defect detection rate
+  - Improve the test quality and the software reliability
+  - Enhance the test reporting and the decision making
+  - Align the test strategy with the business goals and the user expectations

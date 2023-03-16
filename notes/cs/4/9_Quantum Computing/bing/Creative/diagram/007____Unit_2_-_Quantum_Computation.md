@@ -1,0 +1,9 @@
+## Unit 2 - Quantum Computation
+
+- Quantum computation is a type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.
+- Quantum states are the states of subatomic particles, such as electrons or photons, that can exist in a superposition of two or more values, such as spin up or down, or polarization horizontal or vertical.
+- Quantum computation uses quantum bits, or qubits, as the basic unit of information. A qubit can be in a superposition of 0 and 1, meaning it can represent both values simultaneously until it is measured.
+- Quantum computation can perform certain tasks faster or more efficiently than classical computation, such as factoring large numbers, searching databases, or simulating quantum systems.
+- Quantum computation requires quantum hardware, such as superconducting circuits, trapped ions, or photonic devices, that can manipulate and measure qubits with high fidelity and coherence.
+- Quantum computation can be described as a network of quantum logic gates and measurements. Quantum logic gates are operations that change the state of one or more qubits, such as the Hadamard gate, the Pauli-X gate, or the CNOT gate. Measurements are operations that reveal the value of one or more qubits, such as the Z-measurement or the X-measurement.
+- Quantum computation can be implemented using various models, such as the circuit model, the measurement-based model, or the adiabatic model. Each model has its own advantages and limitations, and can be converted to another model with some overhead.

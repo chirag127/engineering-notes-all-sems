@@ -1,0 +1,13 @@
+### Internet Computing
+
+Internet computing is the use of the Internet as a platform for distributed computing, where applications and data are accessed and processed over the network, rather than on a single machine or a local area network. Internet computing enables the creation of large-scale, dynamic, and heterogeneous systems that can leverage the resources and capabilities of different devices, servers, and services across the Internet.
+
+One of the technologies that enables internet computing is grid computing, which is a subset of distributed computing that aims to create a virtual supercomputer by connecting multiple machines on a network, such as Ethernet or the Internet, and sharing their resources and capabilities. Grid computing can support high-performance computing (HPC) and massively parallel processing (MPP) use cases, where resource-intensive tasks are distributed and executed over a cluster of server nodes. Grid computing can also support collaborative and cooperative computing, where different organizations and users can share data and applications on demand, and form virtual organizations that span across different domains and locations.
+
+### Overview of Grid Computing Technology
+
+Grid computing technology consists of the following components:
+
+- Grid infrastructure: The hardware and software that provide the basic services and functionalities for grid computing, such as communication, security, resource discovery, resource allocation, scheduling, load balancing, fault tolerance, and data management. The grid infrastructure can be organized into different layers, such as fabric, connectivity, resource, collective, and application layers, according to the Open Grid Services Architecture (OGSA) model.
+- Grid middleware: The software that provides the common and standard interfaces and protocols for grid computing, such as the Grid Application Toolkit (GAT), the Grid Application Programming Interface (GAPI), the Grid Resource Allocation and Management (GRAM) protocol, and the Grid Security Infrastructure (GSI). The grid middleware enables the interoperability and portability of grid applications and services across different grid platforms and environments.
+- Grid applications: The software that utilizes the grid infrastructure and middleware to perform specific tasks and functions on the grid, such as scientific computing, data analysis, simulation, visualization, and collaboration. Grid applications can be classified into different types, such as computational grids, data grids, service grids, and knowledge grids, according to their main objectives and requirements.

@@ -1,0 +1,17 @@
+### Hyperledger Fabric Components
+
+Hyperledger Fabric is a distributed ledger technology (DLT) platform that allows participants to create and manage private, permissioned blockchain networks. Hyperledger Fabric consists of various major components that have different roles and functions in the network. Some of the main components are:
+
+- **Certificate Authority (CA)**: This is a service that issues and manages digital certificates for the network participants. The CA verifies the identities of the participants and assigns them roles and permissions. The CA also provides a mechanism for revoking or renewing certificates. The CA can be implemented using different protocols, such as Fabric-CA or Fabric-SDK  .
+
+- **Peer Nodes**: These are the nodes that store and process the ledger data and execute the smart contracts (also known as chaincode) on the network. Peer nodes can have different roles, such as endorsing peers, committing peers, or anchor peers. Endorsing peers are responsible for validating and endorsing transactions, committing peers are responsible for updating the ledger with the ordered transactions, and anchor peers are responsible for communicating with other peer nodes across different organizations  .
+
+- **Ordering Service**: This is a service that maintains the global ordering of transactions and delivers them to the peer nodes in batches (also known as blocks). The ordering service can use different consensus algorithms, such as Solo, Kafka, or Raft, to ensure the consistency and finality of the transactions. The ordering service can be composed of multiple ordering nodes that belong to different organizations  .
+
+- **Private Channel**: This is a mechanism that allows a subset of network participants to create and join a private and secure communication channel, where they can share ledger data and chaincode among themselves. Private channels enable data privacy and confidentiality, as well as scalability and performance, by reducing the amount of data that needs to be broadcasted to the whole network  .
+
+- **Membership Service**: This is a service that manages the identities and access rights of the network participants. The membership service can be implemented using different frameworks, such as Fabric-CA or Fabric-SDK, or integrated with external identity providers, such as LDAP or OAuth. The membership service ensures that only authorized and authenticated entities can join and interact with the network  .
+
+- **Chaincode**: This is the term used for the smart contracts that run on the Hyperledger Fabric network. Chaincode is a program that defines the business logic and rules for the network transactions. Chaincode can be written in different languages, such as Go, Node.js, or Java, and can be deployed and invoked by the peer nodes. Chaincode can also interact with the ledger state and external services, such as databases or APIs  .
+
+These are some of the main components of Hyperledger Fabric that enable the creation and management of private, permissioned blockchain networks. Hyperledger Fabric also provides a modular and versatile design that allows components, such as consensus and membership services, to be plug-and-play. This satisfies a broad range of industry use cases and requirements .

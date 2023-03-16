@@ -1,0 +1,17 @@
+### Architectures for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+1. **Autoencoders**: Autoencoders are neural networks that are trained to reconstruct their inputs. They consist of an encoder that maps the input to a lower-dimensional representation, and a decoder that maps the lower-dimensional representation back to the input space. The lower-dimensional representation is a compressed representation of the input, and can be used for dimensionality reduction.
+
+2. **Principal Component Analysis (PCA)**: PCA is a linear dimensionality reduction technique that finds the directions of maximum variance in the data, and projects the data onto a lower-dimensional subspace spanned by these directions. The directions of maximum variance are given by the eigenvectors of the covariance matrix of the data.
+
+3. **t-Distributed Stochastic Neighbor Embedding (t-SNE)**: t-SNE is a non-linear dimensionality reduction technique that is particularly well-suited for visualizing high-dimensional data in two or three dimensions. It constructs a probability distribution over pairs of high-dimensional objects in such a way that similar objects have a higher probability of being chosen, and then constructs a similar probability distribution over the points in the low-dimensional map, and minimizes the divergence between the two distributions.
+
+4. **Linear Discriminant Analysis (LDA)**: LDA is a linear dimensionality reduction technique that is used for classification. It finds the directions that maximize the separation between different classes, and projects the data onto a lower-dimensional subspace spanned by these directions.
+
+5. **Isomap**: Isomap is a non-linear dimensionality reduction technique that is based on the idea of preserving the geodesic distances between all pairs of points. It constructs a neighborhood graph of the data, and computes the shortest path distances between all pairs of points. It then uses classical multidimensional scaling to embed the data in a lower-dimensional space while preserving the shortest path distances.
+
+6. **Locally Linear Embedding (LLE)**: LLE is a non-linear dimensionality reduction technique that is based on the idea of preserving the local neighborhood relationships between points. It constructs a neighborhood graph of the data, and computes the weights that best reconstruct each point from its neighbors. It then uses these weights to compute a lower-dimensional embedding of the data that preserves the neighborhood relationships.
+
+7. **Uniform Manifold Approximation and Projection (UMAP)**: UMAP is a non-linear dimensionality reduction technique that is based on the idea of preserving the topological structure of the data. It constructs a fuzzy simplicial complex representation of the data, and uses this representation to compute a lower-dimensional embedding of the data that preserves the topological structure.
+
+These are some of the common architectures used for dimensionality reduction in the subject of Deep Learning. Each technique has its own strengths and weaknesses, and the choice of technique depends on the specific requirements of the task at hand. It is important to understand the underlying assumptions and limitations of each technique in order to apply them effectively.

@@ -1,0 +1,8 @@
+# LODs for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- LODs stands for Levels of Detail, which are techniques to optimize the rendering of 3D graphics by reducing the complexity of the models depending on the distance from the camera or the user's viewpoint.
+- LODs are useful for creating immersive and realistic experiences in Augmented Reality (AR) and Virtual Reality (VR), which are technologies that overlay or replace the real world with digital content.
+- Some of the software technologies that support LODs for AR and VR are:
+  - CAD software: Computer-Aided Design software is used to create and manipulate 3D models of objects, environments, and animations. CAD software can generate different LODs for the same model by applying different levels of detail, such as wireframe, solid, or textured.
+  - Game engines: Game engines are software frameworks that provide the core functionalities for developing and running video games, such as rendering, physics, sound, and input. Game engines can also support LODs for AR and VR by dynamically adjusting the quality and quantity of the models based on the performance and the user's perspective.
+  - SDKs: Software Development Kits are collections of tools, libraries, and documentation that enable developers to create applications for specific platforms or devices. SDKs can provide specific features and functions for implementing LODs for AR and VR, such as tracking, occlusion, lighting, and interaction.

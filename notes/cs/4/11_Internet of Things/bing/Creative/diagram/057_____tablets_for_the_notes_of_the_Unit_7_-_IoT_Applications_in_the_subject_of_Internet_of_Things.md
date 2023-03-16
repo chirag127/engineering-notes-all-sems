@@ -1,0 +1,13 @@
+# Tablets for IoT Applications
+
+Tablets are portable devices that can be used for various purposes, such as browsing the web, playing games, watching videos, reading e-books, etc. However, tablets can also be used for IoT applications, which are applications that involve the interconnection of physical devices, sensors, actuators, and software over the internet. Some examples of tablets for IoT applications are:
+
+- **Smart pill dispensers**: These are tablets that can dispense medication to patients according to their prescriptions and schedules. They can also monitor the patient's adherence, vital signs, and side effects, and send the data to the cloud or to the healthcare provider. These tablets can help improve medication compliance, reduce errors, and enhance patient outcomes.
+
+- **IoT Communicator**: This is an app that can be installed on tablets to communicate with IoT devices using the MQTT protocol. The app can display the process data from the IoT devices in a clear overview, and send alarms as push notifications. The app can also use TLS encryption to ensure secure data transfer.
+
+- **IoT sensors and trackers**: These are tablets that can be equipped with various sensors and trackers, such as GPS, accelerometer, gyroscope, camera, microphone, etc. These tablets can collect and analyze data from the environment, such as location, movement, sound, image, etc. They can also send the data to the cloud or to other devices for further processing. These tablets can be used for various applications, such as navigation, security, surveillance, entertainment, etc.
+
+- **Touchless transactions**: These are tablets that can enable contactless payment and data collection using technologies such as NFC, QR codes, biometrics, etc. These tablets can reduce the risk of infection, fraud, and theft, and improve the customer experience and satisfaction. They can also provide valuable insights into customer behavior and preferences.
+
+- **Custom-designed tablets**: These are tablets that can be customized for specific IoT use cases, such as industrial, medical, military, etc. They can have features such as rugged design, long battery life, high performance, cellular connectivity, etc. They can also be integrated with other IoT devices and systems, such as sensors, actuators, controllers, etc. These tablets can provide reliable and efficient solutions for various IoT challenges and opportunities .

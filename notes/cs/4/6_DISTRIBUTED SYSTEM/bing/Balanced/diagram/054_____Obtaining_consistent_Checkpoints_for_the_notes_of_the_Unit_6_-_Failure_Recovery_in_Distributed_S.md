@@ -1,0 +1,13 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- A failure in a distributed system can be caused by various factors, such as node crashes, network partitions, message losses, malicious attacks, etc.
+- A consistent checkpoint is a snapshot of the global state of the system that satisfies the following properties:
+  - No orphan message: A message is orphan if it is sent by a process before taking its checkpoint, but received by another process after taking its checkpoint.
+  - No domino effect: The domino effect occurs when a failure forces the system to roll back to an earlier checkpoint, which in turn causes another failure, and so on, until the system reaches the initial state.
+- Obtaining consistent checkpoints is important for efficient and correct failure recovery, as it allows the system to resume the computation from a known and valid state, without losing or repeating any work.
+- There are different techniques for obtaining consistent checkpoints, such as coordinated checkpointing, uncoordinated checkpointing, and communication-induced checkpointing.
+  - Coordinated checkpointing: All the processes in the system agree on when to take a checkpoint, and synchronize their actions to ensure a consistent global state. This technique is simple and avoids the orphan message problem, but it incurs a high overhead and requires a reliable broadcast mechanism.
+  - Uncoordinated checkpointing: Each process takes a checkpoint independently, without any coordination with other processes. This technique is flexible and scalable, but it may result in inconsistent global states and requires a complex recovery algorithm to deal with orphan messages and domino effect.
+  - Communication-induced checkpointing: Each process takes a checkpoint based on the information piggybacked on the messages it receives from other processes. This technique is adaptive and reduces the number of checkpoints, but it requires a consistent cut detection algorithm and a dependency tracking mechanism.
+- The choice of the checkpointing technique depends on the characteristics of the system, such as the failure rate, the communication pattern, the checkpoint size, the recovery time, etc.

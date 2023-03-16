@@ -1,0 +1,14 @@
+## Unit 8 - Transactions and Concurrency Control
+
+A transaction is a logical unit of work that consists of a sequence of database operations, such as queries, updates, inserts, or deletes. A transaction has the following properties:
+
+- Atomicity: A transaction is either executed in its entirety or not at all. If any operation in the transaction fails, the entire transaction is aborted and the database is restored to its previous state.
+- Consistency: A transaction preserves the consistency of the database by ensuring that it satisfies all the integrity constraints and business rules before and after its execution.
+- Isolation: A transaction executes independently of other concurrent transactions and does not interfere with them. The intermediate results of a transaction are not visible to other transactions until the transaction commits.
+- Durability: The effects of a committed transaction are permanent and persist even in the event of system failures or power outages.
+
+Concurrency control is the process of managing the simultaneous execution of multiple transactions in a shared database system. Concurrency control ensures that the transactions do not conflict with each other and maintain the consistency and isolation properties. Concurrency control can be implemented using various techniques, such as:
+
+- Locking: A locking mechanism grants exclusive or shared access to a data item or a set of data items to a transaction. A transaction must acquire a lock before accessing a data item and release the lock after finishing the access. Locking prevents concurrent transactions from modifying the same data item or reading an uncommitted value of a data item.
+- Timestamping: A timestamping mechanism assigns a unique timestamp to each transaction and uses the timestamps to order the transactions. A transaction can access a data item only if its timestamp is older than the timestamp of the last transaction that modified the data item. Timestamping avoids the need for locking and prevents deadlock situations.
+- Validation: A validation mechanism executes a transaction in three phases: read phase, validation phase, and write phase. In the read phase, the transaction reads the data items from the database but does not modify them. In the validation phase, the transaction checks whether its read set and write set conflict with any other concurrent transaction. If there is no conflict, the transaction proceeds to the write phase and commits its changes to the database. Otherwise, the transaction is aborted and restarted. Validation ensures that the transactions are serializable, meaning that their concurrent execution is equivalent to some sequential execution.

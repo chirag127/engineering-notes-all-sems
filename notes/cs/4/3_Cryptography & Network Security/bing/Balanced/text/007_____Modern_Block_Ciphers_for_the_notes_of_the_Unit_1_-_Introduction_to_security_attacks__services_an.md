@@ -1,0 +1,18 @@
+### Modern Block Ciphers
+
+- A block cipher is a symmetric-key encryption algorithm that operates on a fixed-length group of bits, called a block, and produces a ciphertext block of the same length.
+- A block cipher can be used to encrypt a message by dividing it into blocks and encrypting each block separately, using the same secret key.
+- A block cipher can also be used to decrypt a ciphertext by reversing the encryption process, using the same secret key.
+- A block cipher can be designed using different principles, such as substitution, permutation, or a combination of both, known as a fiestal structure.
+- A block cipher should satisfy two main properties: confusion and diffusion, as proposed by Shannon's theory of secrecy systems.
+  - Confusion means that the relationship between the plaintext and the ciphertext should be complex and obscure, so that an attacker cannot easily infer the key or the plaintext from the ciphertext.
+  - Diffusion means that a small change in the plaintext or the key should produce a large change in the ciphertext, so that an attacker cannot exploit statistical patterns or correlations in the plaintext or the ciphertext.
+- Some examples of modern block ciphers are:
+  - Data Encryption Standard (DES): a 64-bit block cipher that uses a 56-bit key and performs 16 rounds of encryption, each consisting of a substitution and a permutation operation. DES was widely used in the past, but it is now considered insecure due to its small key size and vulnerability to differential cryptanalysis and brute-force attacks.
+  - Triple DES (3DES): a variant of DES that applies DES three times with either two or three different keys, resulting in an effective key size of 112 or 168 bits. 3DES is more secure than DES, but it is also slower and less efficient.
+  - Block Cipher Modes of Operation: a way of using a block cipher to encrypt or decrypt messages that are longer than the block size. Some common modes of operation are:
+    - Electronic Codebook (ECB): the simplest mode, where each block of the message is encrypted or decrypted independently with the same key. ECB is fast and easy to implement, but it is insecure because it does not provide diffusion and it reveals identical blocks in the plaintext or the ciphertext.
+    - Cipher Block Chaining (CBC): a mode where each block of the message is XORed with the previous ciphertext block before being encrypted or decrypted with the same key. CBC provides diffusion and prevents identical blocks from appearing in the ciphertext, but it requires an initialization vector (IV) to start the process and it is not parallelizable.
+    - Cipher Feedback (CFB): a mode where the block cipher is used to generate a keystream that is XORed with the message to produce the ciphertext or the plaintext. CFB is similar to a stream cipher and it does not require padding, but it also requires an IV and it is not parallelizable.
+    - Output Feedback (OFB): a mode where the block cipher is used to generate a keystream that is independent of the message and is XORed with the message to produce the ciphertext or the plaintext. OFB is also similar to a stream cipher and it does not require padding or an IV, but it is not parallelizable and it is vulnerable to bit errors.
+    - Counter (CTR): a mode where the block cipher is used to encrypt a counter that is incremented for each block and is XORed with the message to produce the ciphertext or the plaintext. CTR is parallelizable and it does not require padding or an IV, but it is vulnerable to replay attacks and it requires a unique counter for each message.

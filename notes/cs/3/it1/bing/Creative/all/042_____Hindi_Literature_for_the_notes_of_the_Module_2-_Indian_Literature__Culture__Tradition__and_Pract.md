@@ -1,0 +1,11 @@
+# Hindi Literature
+
+Hindi literature is the literature written in the Hindi language, which includes various dialects and scripts. Hindi literature has a rich and diverse history, spanning from the medieval period to the present day. Some of the main features and topics of Hindi literature are:
+
+- Hindi literature originated from the poetry of Apabhraṃśa, a group of languages derived from Prakrit and Sanskrit, such as Awadhi, Magadhi, Ardhamagadhi and Marwari.
+- Hindi literature can be divided into three broad styles: prose (gadya), poetry (padya) and prosimetrum (campū). Prose is the most common and versatile form of expression, while poetry is often used for lyrical and aesthetic purposes. Prosimetrum is a mixed form of prose and poetry, usually found in epics and legends.
+- Hindi literature reflects the religious and philosophical diversity of India, as well as the social and political issues of different times and regions. Some of the major themes of Hindi literature are Hinduism, Islam, Buddhism, Jainism, Sikhism, nationalism, feminism, caste, class, gender, and humanism .
+- Hindi literature has produced many genres and forms, such as bhakti (devotional), rīti (courtly), adhunik (modern), dalit (oppressed), chhayavad (romantic), pragativad (progressive), nayi kavita (new poetry), nai kahani (new story), and upanyas (novel) .
+- Hindi literature has also been influenced by and interacted with other Indian and foreign literatures, such as Sanskrit, Persian, Urdu, English, Bengali, and Marathi. Some of the prominent writers of Hindi literature are Kabir, Tulsidas, Surdas, Mirabai, Premchand, Jaishankar Prasad, Mahadevi Varma, Harivansh Rai Bachchan, Nagarjun, Dharamvir Bharati, Nirmal Verma, and Mahasweta Devi  .
+
+Hindi literature is a valuable source of knowledge and insight into the culture, tradition, and practices of India. It is also a medium of creative expression and social critique, as well as a vehicle of national integration and identity. Hindi literature is a living and evolving entity, constantly adapting to the changing times and needs of the people.

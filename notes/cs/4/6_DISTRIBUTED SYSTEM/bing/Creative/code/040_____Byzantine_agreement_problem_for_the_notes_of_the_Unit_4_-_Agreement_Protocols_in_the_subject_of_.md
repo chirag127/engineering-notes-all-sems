@@ -1,0 +1,17 @@
+### Byzantine agreement problem
+
+The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing. It requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted. A corrupted party may behave arbitrarily, sending conflicting or misleading messages to different parties, or remaining silent. The problem is also known as the Byzantine generals problem, the interactive consistency problem, or the source congruency problem.
+
+The problem was first defined by Lamport in the context of a source processor broadcasting its initial value to other processors in the system. The source processor may be faulty, and some of the other processors may be faulty as well. The goal is to ensure that all the non-faulty processors agree on the same value, which is either the initial value of the source processor if it is non-faulty, or an arbitrary value otherwise.
+
+The problem can be generalized to the case where each processor has its own initial value, and the goal is to ensure that all the non-faulty processors agree on the same value, which is a function of the initial values of the non-faulty processors. This is known as the Byzantine consensus problem.
+
+Some of the challenges and solutions to the Byzantine agreement problem are:
+
+- The problem is impossible to solve in a purely asynchronous system, where there is no bound on the message delivery time or the relative speed of the processors. This is because a faulty processor can delay its messages indefinitely, making it indistinguishable from a slow or crashed processor. A solution requires some form of synchrony, such as a common clock, a timeout mechanism, or a partial order of events.
+- The problem is also impossible to solve if more than one-third of the processors are faulty. This is because a faulty processor can send different values to different subsets of processors, creating a split in the system. A solution requires a majority of non-faulty processors, or a stronger assumption on the fault model, such as the ability to detect or exclude faulty processors.
+- The problem can be solved using various algorithms, such as the oral messages algorithm, the signed messages algorithm, the authenticated broadcast algorithm, or the randomized algorithm. These algorithms differ in the number of rounds, the number of messages, the message size, the computational complexity, and the security assumptions. A common technique is to use a reduction from the Byzantine consensus problem to the Byzantine agreement problem, and then use a recursive algorithm to reach agreement on each bit of the consensus value.
+
+The Byzantine agreement problem is relevant for many applications in distributed systems, such as distributed databases, distributed ledgers, distributed consensus protocols, fault-tolerant replication, and secure multiparty computation. The problem illustrates the trade-offs and limitations of achieving reliability, consistency, and security in a distributed environment.
+
+: Lamport, L., Shostak, R., & Pease, M. (1982). The Byzantine generals problem. ACM Transactions on Programming Languages and Systems (TOPLAS), 4(3), 382-401.

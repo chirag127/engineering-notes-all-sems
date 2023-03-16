@@ -1,0 +1,21 @@
+### File system for mobile computing
+
+- A file system is a software component that manages the storage and retrieval of data on a persistent device, such as a hard disk, flash memory, or optical disc.
+- A file system for mobile computing is a file system that supports the mobility of both users and devices, and adapts to the challenges of wireless and mobile environments, such as network disconnection, low bandwidth, high latency, and limited battery power.
+- Some of the design issues for a file system for mobile computing are:
+  - How to provide location transparency, i.e., the ability to access files regardless of their physical location or the location of the user or device.
+  - How to support user mobility, i.e., the ability to access files from different devices and locations, and to migrate files across devices and networks.
+  - How to ensure data consistency and availability, i.e., the ability to access the latest version of a file and to handle concurrent updates and conflicts, especially in the presence of network disconnection or partition.
+  - How to optimize network and device resources, i.e., the ability to reduce network traffic and storage overhead, and to conserve battery power and bandwidth.
+- Some of the design options for a file system for mobile computing are:
+  - Client-server model, where a central server stores and manages the files, and the clients access them over the network. This model provides location transparency and data consistency, but requires a reliable and high-speed network connection, and may incur high network and server load.
+  - Replication model, where multiple servers store and manage copies of the files, and the clients access them from the nearest or most available server. This model provides location transparency and data availability, but requires a mechanism to synchronize the replicas and to resolve conflicts, and may incur high storage and network overhead.
+  - Caching model, where the clients store and manage local copies of the files, and the servers store and manage the master copies. This model provides data availability and network and device optimization, but requires a mechanism to validate and update the caches and to resolve conflicts, and may incur data inconsistency and staleness.
+  - Hybrid model, where the clients and the servers store and manage partial or full copies of the files, and use a combination of replication and caching techniques. This model provides a trade-off between the benefits and drawbacks of the other models, but requires a complex and adaptive mechanism to coordinate the file operations and to balance the resource utilization.
+- One example of a file system for mobile computing is Coda , which is a distributed file system that uses a hybrid model of replication and caching, and supports disconnected operation for mobile computing. Some of the features of Coda are:
+  - It is freely available under the GPL license.
+  - It provides high performance through client-side persistent caching, which allows the clients to access and modify the files locally even when the network is unavailable or slow.
+  - It provides server replication, which allows the servers to store and manage multiple copies of the files, and to handle partial network failures and load balancing.
+  - It provides a security model for authentication, encryption and access control, which ensures the integrity and confidentiality of the files and the file operations.
+  - It provides network bandwidth adaptation, which allows the clients and the servers to adjust the amount and frequency of data transfer according to the network conditions.
+  - It provides good scalability, which allows the system to handle a large number of clients and servers, and a large amount of data.

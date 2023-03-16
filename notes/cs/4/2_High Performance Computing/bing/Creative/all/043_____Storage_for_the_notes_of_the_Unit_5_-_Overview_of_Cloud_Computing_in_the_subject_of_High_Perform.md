@@ -1,0 +1,16 @@
+# Storage for Cloud Computing
+
+Storage for cloud computing is a mode of computer data storage in which digital data is stored on servers in off-site locations. The servers are maintained by a third-party provider who is responsible for hosting, managing, and securing data stored on its infrastructure.
+
+There are three main types of storage for cloud computing:
+
+- **Object storage**: This type of storage is suitable for applications that are developed inside the cloud and require scalability and metadata. Object storage stores data as objects, which consist of data and associated metadata. Each object has a unique identifier that allows it to be accessed through a RESTful API. Object storage is ideal for storing unstructured data, such as images, videos, documents, etc.
+- **File storage**: This type of storage is suitable for applications that need to access a shared file system. File storage stores data as files, which are organized in a hierarchical structure of folders and subfolders. File storage supports common file operations, such as create, read, update, and delete. File storage is ideal for storing structured or semi-structured data, such as spreadsheets, databases, etc.
+- **Block storage**: This type of storage is suitable for applications that need to access data at a low level. Block storage stores data as blocks, which are fixed-sized chunks of data. Each block has a unique address that allows it to be accessed through a block-level protocol, such as SCSI or iSCSI. Block storage is ideal for storing high-performance data, such as operating systems, applications, etc.
+
+Some of the benefits of storage for cloud computing are :
+
+- **Scalability**: Storage for cloud computing can scale up or down according to the demand of the applications. Users can provision or deprovision storage resources as needed, without worrying about the physical limitations of the storage devices.
+- **Cost-effectiveness**: Storage for cloud computing can reduce the cost of data storage by eliminating the need for purchasing, maintaining, and upgrading storage hardware and software. Users only pay for the amount of storage they use, and can benefit from the economies of scale of the cloud provider.
+- **Availability**: Storage for cloud computing can ensure the availability of data by replicating it across multiple servers and locations. This can prevent data loss or corruption due to hardware failures, natural disasters, or human errors. Users can also access their data from anywhere and anytime, as long as they have an internet connection.
+- **Security**: Storage for cloud computing can protect the data from unauthorized access or modification by encrypting it at rest and in transit. The cloud provider also implements various security measures, such as firewalls, access control, authentication, and auditing, to safeguard the data stored on its infrastructure. Users can also choose the level of security they want for their data, depending on their compliance and regulatory requirements.

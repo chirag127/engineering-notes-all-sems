@@ -1,0 +1,6 @@
+### Indian Architect
+
+1. Indian architecture is rooted in the history, culture, and religion of India. Among several architectural styles and traditions, the best-known include the many varieties of Hindu temple architecture and Indo-Islamic architecture, especially Rajput architecture, Mughal architecture, South Indian architecture and Indo-Saracenic architecture .
+2. Indian architecture, primarily established through historical and cultural influences, is most recently a conversation about how best to modernize. India's architecture has to mediate rapid urbanization with respecting its climate, culture, and tradition .
+3. Architectural studies in India, typically takes 5 years for a bachelor degree and then a year of practicing as an intern in an architectural firm before starting to work as a full-time professional architect. All these years of hard work and dedication must be praised and recognized .
+4. Balkrishna Vithaldas Doshi, master architect, urban planner, educator, 2018 Pritzker Prize Winner, and 2022 Riba’s Gold Medal has passed away at 95, in Ahmedabad, India on Tuesday the 24th of January 2023  . He helped bring modernism to his native India, at first collaborating with Le Corbusier and Louis Kahn and then developing his own approach to building in his country .

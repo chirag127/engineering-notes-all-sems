@@ -1,0 +1,9 @@
+### World Authoring and Playback
+
+- World authoring is the process of creating and editing content for augmented reality (AR) applications, such as scenarios, scenes, objects, animations, interactions, etc.
+- World playback is the process of rendering and displaying the authored content in the real world using AR devices, such as head-mounted displays (HMDs), smartphones, tablets, etc.
+- World authoring and playback can be done using different types of tools, such as programming tools, content design tools, or in situ tools.
+- Programming tools require coding skills and allow more flexibility and customization of the AR content, but they are more complex and time-consuming to use. Examples of programming tools are Unity, Unreal Engine, ARCore, ARKit, etc.
+- Content design tools do not require coding skills and allow users to create and edit AR content using graphical user interfaces (GUIs), such as menus, buttons, sliders, etc. They are more user-friendly and accessible, but they may have limited features and functionality. Examples of content design tools are Adobe Aero, Vuforia Studio, ZapWorks, etc.
+- In situ tools allow users to create and edit AR content directly in the real world using natural user interfaces (NUIs), such as gestures, voice, sketching, etc. They are more intuitive and immersive, but they may have technical challenges and limitations. Examples of in situ tools are GesturAR, Sketching up the world, AR Scenario Builder, etc.
+- World authoring and playback are important for developing AR applications for various domains, such as education, entertainment, tourism, training, etc. They can enhance the user experience, engagement, and learning outcomes of the AR applications.

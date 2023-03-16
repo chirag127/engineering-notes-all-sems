@@ -1,0 +1,23 @@
+### Relations between Senses
+
+- Senses are the meanings of words or expressions in a given context or situation.
+- Semantics is the study of the relations between senses and the objects or concepts they refer to.
+- Pragmatics is the study of the relations between senses and the users or contexts of language.
+- There are different types of relations between senses, such as:
+  - Synonymy: the relation between senses that have the same or very similar meaning, e.g. big and large, sofa and couch, happy and glad.
+  - Antonymy: the relation between senses that have opposite or contrasting meaning, e.g. hot and cold, up and down, true and false.
+  - Hyponymy: the relation between senses that have a hierarchical or inclusion relation, e.g. dog and animal, rose and flower, red and color.
+  - Meronymy: the relation between senses that have a part-whole relation, e.g. finger and hand, wheel and car, chapter and book.
+  - Homonymy: the relation between senses that have the same form but different and unrelated meaning, e.g. bank (financial institution) and bank (edge of a river), bat (flying mammal) and bat (wooden stick), date (fruit) and date (calendar day).
+  - Polysemy: the relation between senses that have the same form but different but related meaning, e.g. head (part of the body) and head (leader of a group), foot (part of the leg) and foot (unit of measurement), eye (organ of vision) and eye (center of a storm).
+- These relations can be studied from two perspectives:
+  - Paradigmatic: the perspective that focuses on the relations between senses that can substitute for each other in a given context, e.g. synonyms, antonyms, hyponyms.
+  - Syntagmatic: the perspective that focuses on the relations between senses that can combine with each other in a given context, e.g. modifiers, complements, collocations.
+- The relations between senses are not fixed or absolute, but depend on various factors, such as:
+  - Context: the situation or environment in which language is used, e.g. register, genre, domain, culture, etc.
+  - Speaker: the user of language who intends to communicate a certain message, e.g. attitude, intention, background, etc.
+  - Hearer: the receiver of language who interprets the message, e.g. expectation, inference, knowledge, etc.
+- Pragmatics is the branch of linguistics that studies how the relations between senses are affected by these factors, and how they can be used to achieve various communicative goals, such as:
+  - Implicature: the implied meaning that goes beyond the literal meaning, e.g. He is not the sharpest tool in the shed. (implicates that he is not very smart)
+  - Presupposition: the assumed meaning that is taken for granted, e.g. Have you stopped smoking? (presupposes that you used to smoke)
+  - Speech act: the action that is performed by using language, e.g. I apologize for being late. (performs an apology), I hereby declare you husband and wife. (performs a marriage)

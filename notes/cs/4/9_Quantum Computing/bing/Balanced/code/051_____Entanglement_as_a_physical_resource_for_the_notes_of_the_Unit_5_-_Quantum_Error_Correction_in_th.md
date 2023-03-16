@@ -1,0 +1,7 @@
+### Entanglement as a physical resource
+
+- Quantum entanglement is a phenomenon in which two or more quantum systems, such as particles, are prepared or interact in such a way that their quantum states cannot be described independently, even when they are separated by large distances.
+- Quantum entanglement is a physical resource, like energy, that can be measured, transformed, and purified. It enables tasks such as quantum cryptography, superdense coding, and teleportation.
+- Quantum entanglement is essential for quantum computing, as it allows qubits to share information and perform operations faster and more efficiently than classical bits. Entanglement also enables the creation of quantum error correction codes, which protect quantum information from noise and decoherence.
+- Quantum entanglement can be quantified and characterized by various measures, such as entanglement entropy, concurrence, negativity, and entanglement witnesses. These measures can help identify the type and degree of entanglement present in a quantum state, and how useful it is for different quantum applications.
+- Quantum entanglement can be generated and manipulated in various physical systems, such as superconducting qubits, photons, atoms, and ions. The challenge is to create and maintain high-quality entanglement in large-scale quantum systems, as entanglement is fragile and easily disturbed by environmental factors.

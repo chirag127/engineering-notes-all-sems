@@ -1,0 +1,26 @@
+# Global State for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A **distributed system** is a collection of independent processes that communicate through message passing to achieve a common goal.
+- The **local state** of a process is the set of values of its variables and data structures at a given point in time.
+- The **global state** of a distributed system is the union of the local states of all the processes and the channels .
+- A **channel** is a communication link between two processes that can store messages in transit.
+- A **global state** can be used to reason about the properties and behavior of a distributed system, such as deadlock detection, termination detection, checkpointing, debugging, etc.
+- However, capturing a global state of a distributed system is challenging, because the processes are concurrent and asynchronous, and there is no global clock or shared memory.
+- Therefore, a global state must be **consistent**, meaning that it reflects a possible execution of the distributed system, and does not contain any causal anomalies.
+- A **causal anomaly** is a situation where a global state contains an effect of an event, but not the event itself, or vice versa.
+- For example, a global state that shows a message being received by a process, but not being sent by another process, is inconsistent and causally anomalous.
+- A **consistent cut** is a set of local states of the processes that form a consistent global state.
+- A **cut** is a partition of the set of events of a distributed system into two subsets: past and future.
+- A **consistent cut** satisfies the property that if an event is in the future of the cut, then all the events that causally precede it are also in the future of the cut.
+- A **snapshot** is an algorithm that records a consistent cut of a distributed system.
+- A **snapshot** can be initiated by any process, and requires each process to record its local state and the state of its incoming channels.
+- A **snapshot** must ensure that no message is recorded twice or missed by the algorithm.
+- A **snapshot** can be implemented using different techniques, such as markers, vector clocks, or logical clocks.
+- A **marker** is a special message that is used to indicate the start and end of a snapshot.
+- A **vector clock** is a data structure that maintains a logical timestamp for each process, and is updated whenever an event occurs or a message is sent or received.
+- A **logical clock** is a function that assigns a logical timestamp to each event, such that the timestamps respect the causal order of the events.
+- A **snapshot** can be used to determine various properties of a distributed system, such as:
+  - Whether the system is in a **deadlock** state, meaning that no process can make any progress.
+  - Whether the system has **terminated**, meaning that all the processes have completed their tasks.
+  - What is the **minimum consistent recovery line**, meaning the earliest consistent cut that can be used to restore the system after a failure.
+  - What is the **global predicate**, meaning a logical expression that evaluates to true or false based on the global state of the system.

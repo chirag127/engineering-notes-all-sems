@@ -1,0 +1,7 @@
+### Evolution of SOA and MSA
+
+- Service-Oriented Architecture (SOA) is a broad concept and meant different things to different people. From a technical standpoint, SOA and Microservices Architecture (MSA) are conceptually similar, both being service-based architectures which means that they are architectural patterns leveraging.
+- Some experts consider MSA as the natural evolution of SOA. However, if we look at it from a different point of view, microservices should be considered as an independent architecture style that contains its own approach to generate efficient information system software.
+- SOA enhances component sharing, whereas MSA tries to minimize sharing through “bounded context.” A bounded context refers to the coupling of a component and its data as a single unit with minimal dependencies. As SOA relies on multiple services to fulfill a business request, systems built on SOA are likely to be slower than MSA.
+- Both SOA and microservices can use automation to speed up business processes. Larger, more diverse environments tend to lean towards service-oriented architecture (SOA), which supports integration between heterogenous applications and messaging protocols via an enterprise-service bus (ESB).
+- In an MSA, a service has to be independent of other services. In an SOA, there is no requirement for independence. In an MSA, parallelism and architectural resilience and scalability are achieved through this independence. In an SOA, there is freedom to select how to achieve these goals.

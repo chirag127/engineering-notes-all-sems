@@ -1,0 +1,16 @@
+### Ad Hoc on demand distance vector routing (AODV)
+
+- AODV is a routing protocol designed for wireless and mobile ad hoc networks .
+- Ad hoc networks are networks that do not have a fixed infrastructure or centralized administration, and consist of nodes that communicate with each other over wireless links .
+- AODV establishes routes to destinations on demand, meaning that it only initiates a route discovery process when a node needs to send data to a destination that it does not have a route to  .
+- AODV supports both unicast and multicast routing, meaning that it can send data to a single destination or to a group of destinations .
+- AODV offers quick adaptation to dynamic link conditions, low processing and memory overhead, and low network utilization  .
+- AODV operates as follows   :
+  - Each node maintains a routing table that contains information about the next hop and the number of hops to reach each destination.
+  - Each node also maintains a sequence number that is incremented whenever the node detects a change in the network topology or initiates a route discovery.
+  - When a node needs to send data to a destination that it does not have a route to, it broadcasts a route request (RREQ) message to its neighbors, containing the destination address, the destination sequence number, the source address, the source sequence number, and a hop count.
+  - Each node that receives the RREQ message checks its routing table to see if it has a fresh route to the destination, meaning that the destination sequence number in the routing table is equal or greater than the one in the RREQ message. If so, it sends a route reply (RREP) message back to the source, containing the destination address, the destination sequence number, the source address, the hop count, and the lifetime of the route. If not, it rebroadcasts the RREQ message to its neighbors, after incrementing the hop count and updating the source sequence number if necessary.
+  - The RREP message is forwarded back to the source along the reverse path of the RREQ message, and each intermediate node updates its routing table with the new route information.
+  - The source node can start sending data to the destination once it receives the RREP message, and it also sets a timer for the route lifetime. If the timer expires, the route is considered invalid and a new route discovery is initiated if needed.
+  - When a node detects a link break to a next hop, it sends a route error (RERR) message to its upstream neighbors, containing the list of destinations that are unreachable via that link. The upstream neighbors then update their routing tables and propagate the RERR message further if necessary.
+  - A node can also send a gratuitous RREP message to its downstream neighbors if it learns a better route to a destination, meaning that the route has a smaller hop count or a larger destination sequence number. The downstream neighbors then update their routing tables and forward the gratuitous RREP message further if necessary.

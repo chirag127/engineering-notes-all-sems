@@ -1,0 +1,23 @@
+## Unit 4 - Service-Oriented Analysis and Design
+
+- Service-oriented analysis and design (SOAD) is a methodology that refers to the modeling and design for service-oriented architecture (SOA) applications.
+- A SOAD approach in designing SOA applications requires the following key elements:
+  - Identification of services and service candidates based on business requirements and goals
+  - Specification of service contracts and interfaces
+  - Composition and orchestration of services into business processes
+  - Evaluation and validation of service quality attributes
+- SOAD can be performed using different methods and techniques, such as:
+  - Top-down: starting from the business domain and deriving services from business processes and functions
+  - Bottom-up: starting from the existing systems and assets and exposing them as services
+  - Meet-in-the-middle: combining top-down and bottom-up approaches and reconciling the gaps and overlaps
+  - Goal-driven: starting from the strategic goals and objectives and deriving services that support them
+- SOAD can benefit from using modeling languages and tools, such as:
+  - Unified Modeling Language (UML): a standard graphical notation for modeling software systems and architectures
+  - Business Process Modeling Notation (BPMN): a standard graphical notation for modeling business processes and workflows
+  - Service-Oriented Modeling Framework (SOMF): a modeling language and framework for modeling service-oriented systems and architectures
+  - Service-Oriented Modeling and Architecture (SOMA): a method and tool for identifying, specifying, and implementing services and service components
+- SOAD can help achieve the following benefits for SOA applications:
+  - Alignment of business and IT domains
+  - Reuse and interoperability of services and components
+  - Agility and flexibility of business processes and functions
+  - Quality and reliability of service delivery and performance

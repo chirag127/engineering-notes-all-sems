@@ -1,0 +1,27 @@
+# Applications for the notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC issues, IEEE 802.11, Blue Tooth, Wireless in the subject of Mobile Computing
+
+- Wireless networking is the technology that enables devices to communicate without wires or cables, using radio waves or infrared signals.
+- Wireless LAN (WLAN) is a type of wireless network that connects devices within a local area, such as a home, office, or campus.
+- WLANs can be classified into two types: infrastructure and ad hoc.
+  - Infrastructure WLANs use a base station, such as a wireless access point (AP), to coordinate the communication among the devices. The AP is usually connected to a wired network, such as the Internet, and acts as a gateway for the wireless devices.
+  - Ad hoc WLANs do not use a base station, but rely on the devices to communicate directly with each other. This mode is also known as peer-to-peer (P2P) or Wi-Fi Direct.
+- The main standard for WLANs is IEEE 802.11, which defines the Medium Access Control (MAC) and Physical Layer (PHY) protocols for wireless communication.
+  - The MAC layer is responsible for controlling the access to the shared wireless medium, avoiding collisions, and ensuring reliable data delivery.
+  - The PHY layer is responsible for encoding, modulating, transmitting, receiving, and demodulating the wireless signals.
+  - IEEE 802.11 has several variants, such as 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ax, which differ in terms of frequency, bandwidth, data rate, modulation, and range.
+- The main MAC issues in WLANs are:
+  - Hidden terminal problem: when two devices are in the range of the AP, but not in the range of each other, they may not sense each other's transmission and cause a collision at the AP.
+  - Exposed terminal problem: when two devices are in the range of each other, but not in the range of the AP, they may unnecessarily defer their transmission, even if they do not interfere with the AP.
+  - Near-far problem: when a device close to the AP transmits at a high power, it may drown out the signal of a device far from the AP, causing unfairness and inefficiency.
+- The main MAC technique used in IEEE 802.11 is Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA), which is based on the following principles:
+  - Before transmitting, a device senses the channel to check if it is idle or busy. If it is busy, the device waits for a random backoff time before trying again.
+  - Before transmitting data, a device sends a short Request to Send (RTS) frame to the AP, and waits for a Clear to Send (CTS) frame from the AP. This is called the RTS/CTS handshake, and it helps to avoid the hidden terminal problem and reserve the channel for the data transmission.
+  - After transmitting data, a device waits for an acknowledgment (ACK) frame from the AP, which confirms the successful reception of the data. If the ACK is not received within a timeout, the device assumes a collision or an error, and retransmits the data after a random backoff time.
+- Bluetooth is another wireless technology that enables short-range communication among devices, such as phones, laptops, headphones, keyboards, and mice.
+  - Bluetooth uses a frequency-hopping spread spectrum (FHSS) technique, which means that it changes the frequency of the signal rapidly and randomly, to avoid interference and improve security.
+  - Bluetooth devices form a network called a piconet, which consists of one master device and up to seven active slave devices. The master device controls the frequency hopping and the synchronization of the piconet.
+  - Multiple piconets can be interconnected to form a scatternet, which allows more devices to communicate with each other.
+  - Bluetooth has several versions, such as Bluetooth 1.0, Bluetooth 2.0, Bluetooth 3.0, Bluetooth 4.0, Bluetooth 5.0, and Bluetooth 6.0, which differ in terms of data rate, range, power consumption, and features.
+- Wireless multiple access protocols are the rules that govern how multiple devices share the wireless medium and avoid collisions and interference.
+  - The main types of wireless multiple access protocols are:
+    - Frequency division multiple access (FDMA): each device is assigned a different frequency band to transmit and receive data, and the

@@ -1,0 +1,11 @@
+### Network & Communication aspects in IoT
+
+- Network and communication aspects in IoT refer to the methods and protocols that enable IoT devices to communicate with each other, applications, and services over the internet or other networks.
+- IoT devices can use various types of communication technologies, such as wired, wireless, cellular, satellite, or optical, depending on their requirements and capabilities.
+- Some of the key aspects of network and communication in IoT are:
+
+  - Wireless Medium access issues: Wireless medium access issues are the challenges and solutions for sharing the wireless channel among multiple IoT devices, such as interference, collision, congestion, and power consumption. Some of the wireless medium access control (MAC) protocols for IoT are contention-based (e.g., CSMA/CA), reservation-based (e.g., TDMA), or hybrid (e.g., slotted Aloha).
+  - MAC protocol survey: MAC protocol survey is a systematic review and comparison of the existing MAC protocols for IoT, based on their characteristics, advantages, and disadvantages. Some of the criteria for evaluating MAC protocols are scalability, reliability, latency, energy efficiency, and security.
+  - Survey routing protocols: Survey routing protocols are a comprehensive analysis and evaluation of the existing routing protocols for IoT, based on their features, performance, and suitability for different scenarios. Some of the criteria for assessing routing protocols are network topology, routing strategy, routing metric, and routing overhead.
+  - Sensor deployment & Node discovery: Sensor deployment and node discovery are the processes of placing and locating IoT devices in the network, respectively. Sensor deployment can be random, deterministic, or adaptive, depending on the application and environment. Node discovery can be proactive, reactive, or hybrid, depending on the network size and dynamics.
+  - Data aggregation & dissemination: Data aggregation and dissemination are the techniques of collecting and distributing data from and to IoT devices, respectively. Data aggregation can reduce the communication overhead and energy consumption by combining and compressing data from multiple sources. Data dissemination can optimize the data delivery and reliability by using multicast, broadcast, or anycast methods.

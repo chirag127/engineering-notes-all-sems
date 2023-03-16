@@ -1,0 +1,30 @@
+### Test Data Generation Tools
+
+- Test data generation tools are software programs or libraries that help programmers and testers create realistic and representative test data sets for various kinds of applications and use cases.
+- Test data generation tools can be used for different purposes, such as:
+  - Unit testing: To verify the functionality of specific units or components of a software program as well as the interactions between various components of the application.
+  - Performance testing: To measure the speed, scalability, reliability, and resource consumption of a software system under different workloads and scenarios.
+  - Security testing: To check the vulnerability and robustness of a software system against malicious attacks and unauthorized access.
+  - Compliance testing: To ensure that the software system meets the legal and regulatory requirements for data protection and privacy.
+- Test data generation tools can have different features and capabilities, such as:
+  - Data masking: To hide or replace sensitive or confidential data with realistic but fictitious data, such as names, addresses, phone numbers, etc.
+  - Data subsetting: To select a smaller but representative subset of data from a large data source, such as a production database, to reduce the storage and processing costs of testing.
+  - Data profiling: To analyze the structure, quality, and characteristics of the data source, such as data types, formats, patterns, dependencies, etc.
+  - Data transformation: To convert the data from one format or structure to another, such as from XML to JSON, from flat files to relational tables, etc.
+  - Data generation: To create synthetic or artificial data that mimics the real data, such as using random values, predefined rules, algorithms, etc.
+- Some examples of test data generation tools are:
+  - DTM Data Generator: A reliable tool for delivering high-quality and realistic test data by generating data rows and schema objects for various databases, such as Oracle, SQL Server, MySQL, etc.
+  - Visual Studio (Premium) Data Generator: A feature of Visual Studio that allows developers to generate test data for SQL Server databases using predefined generators or custom scripts.
+  - Redgate SQL Data Generator: A tool that helps developers and testers populate SQL Server databases with realistic test data using a graphical user interface or a command-line interface.
+  - ApexSQL Generate: A tool that enables users to generate test data for SQL Server databases using various data sources, such as CSV files, Excel files, SQL scripts, etc.
+  - Upscene Advanced Data Generator: A tool that supports multiple databases, such as MySQL, PostgreSQL, Firebird, etc, and allows users to generate test data using built-in generators or custom expressions.
+  - EMS Data Generator: A tool that supports various databases, such as MySQL, PostgreSQL, Oracle, etc, and allows users to generate test data using predefined generators or custom queries.
+  - Generatedata.com: A free online tool that allows users to generate test data in various formats, such as CSV, XML, JSON, SQL, etc, using predefined data types or custom fields.
+  - IBM DB2 Test Database Generator: A tool that helps users create test data for DB2 databases using various methods, such as random generation, data masking, data subsetting, etc.
+  - Avo iTDM: A test data management platform that empowers users to create, manage, and provision test data for various applications and environments using AI-powered techniques.
+  - MOSTLY AI: A synthetic data generator that uses AI to create realistic and representative test data sets that preserve the statistical properties and patterns of the original data while protecting the privacy and confidentiality of the individuals.
+  - DATPROF: A test data management solution that simplifies the process of creating, masking, subsetting, and generating test data for various databases and applications.
+  - IRI RowGen: A tool that supports many databases and file target formats and allows users to generate test data using various methods, such as data profiling, data masking, data subsetting, etc.
+  - Mockaroo: A free online tool that allows users to generate test data in various formats, such as CSV, JSON, SQL, etc, using various data types and options.
+  - Faker: A Python library that generates fake data for various purposes, such as names, addresses, phone numbers, etc.
+  - GenRocket: A test data generation platform that enables

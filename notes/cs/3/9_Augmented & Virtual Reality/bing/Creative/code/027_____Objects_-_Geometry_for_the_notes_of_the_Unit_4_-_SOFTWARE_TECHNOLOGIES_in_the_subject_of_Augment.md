@@ -1,0 +1,22 @@
+### Objects - Geometry
+
+- Geometry is the branch of mathematics that deals with the properties, measurements, and relationships of points, lines, angles, surfaces, and solids.
+- In computer graphics, geometry is used to represent and manipulate the shapes and positions of objects in a virtual scene.
+- There are different types of geometry, such as Euclidean, non-Euclidean, affine, projective, and differential geometry, each with its own axioms, rules, and applications.
+- In this section, we will focus on Euclidean geometry, which is the most common and intuitive type of geometry for computer graphics.
+- Euclidean geometry is based on the following postulates:
+  - A straight line segment can be drawn joining any two points.
+  - Any straight line segment can be extended indefinitely in a straight line.
+  - Given any straight line segment, a circle can be drawn having the segment as radius and one endpoint as center.
+  - All right angles are congruent.
+  - If two lines are drawn which intersect a third in such a way that the sum of the inner angles on one side is less than two right angles, then the two lines inevitably must intersect each other on that side if extended far enough.
+- Some basic concepts and terms in Euclidean geometry are:
+  - Point: A point is a location in space that has no dimension. It is usually denoted by a capital letter, such as A, B, C, etc.
+  - Line: A line is a collection of points that extends infinitely in both directions. It has one dimension, length. It is usually denoted by a lowercase letter, such as l, m, n, etc., or by two points on the line, such as AB, CD, EF, etc.
+  - Ray: A ray is a part of a line that starts at a point and extends infinitely in one direction. It is usually denoted by a point and an arrow, such as A→, B→, C→, etc., or by two points, where the first point is the endpoint and the second point is any other point on the ray, such as AB→, CD→, EF→, etc.
+  - Segment: A segment is a part of a line that has two endpoints. It has a finite length. It is usually denoted by two points, such as AB, CD, EF, etc.
+  - Angle: An angle is a figure formed by two rays that have a common endpoint, called the vertex. The rays are called the sides of the angle. The measure of an angle is the amount of rotation from one side to the other, expressed in degrees or radians. It is usually denoted by a lowercase letter, such as ∠a, ∠b, ∠c, etc., or by three points, where the middle point is the vertex and the other two points are on the sides, such as ∠ABC, ∠CDE, ∠EFG, etc.
+  - Polygon: A polygon is a closed figure formed by a finite number of segments that meet only at their endpoints. The segments are called the sides of the polygon, and the points where they meet are called the vertices of the polygon. The number of sides of a polygon is called its order or degree. A polygon with n sides is called an n-gon. Some common polygons are triangles (3-gon), quadrilaterals (4-gon), pentagons (5-gon), hexagons (6-gon), etc.
+  - Circle: A circle is a set of points that are equidistant from a fixed point, called the center. The distance from the center to any point on the circle is called the radius. A segment that joins two points on the circle and passes through the center is called a diameter. The length of a diameter is twice the length of a radius. The measure of a circle is the amount of space enclosed by the circle, expressed in square units. It is usually denoted by a capital letter, such as O, P, Q, etc., or by the center and the radius, such as O(r), P(r), Q(r), etc.
+  - Surface: A surface is a collection of points that has two dimensions, length and width. It can be flat or curved. A flat surface is called a plane. A curved surface can be spherical, cylindrical, conical, etc. A surface can be bounded or unbounded. A bounded surface has a finite area and a boundary. An unbounded surface has an infinite area and no boundary.
+  - Solid: A solid is a collection of points that has three dimensions, length, width, and height. It can be regular or irregular. A regular solid has a uniform shape and size. An irregular solid has a

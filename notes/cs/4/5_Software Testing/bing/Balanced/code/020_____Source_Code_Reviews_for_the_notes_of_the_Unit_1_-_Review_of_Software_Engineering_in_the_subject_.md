@@ -1,0 +1,22 @@
+### Source Code Reviews
+
+- Source code reviews are a systematic examination of the source code of a software system to detect and correct defects, improve quality, and ensure compliance with standards and guidelines.
+- Source code reviews can be performed manually or with the help of automated tools, such as static code analyzers, code coverage tools, code metrics tools, etc.
+- Source code reviews can be conducted at different stages of the software development life cycle, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
+- Source code reviews can be classified into different types, such as:
+  - Formal inspections: A structured and rigorous process that involves a team of reviewers, a moderator, an author, and a recorder, who follow a predefined set of rules and procedures to inspect the source code and document the findings and actions.
+  - Walkthroughs: A less formal and more collaborative process that involves a group of peers, who discuss the source code and provide feedback and suggestions to the author.
+  - Desk checks: A simple and informal process that involves the author of the source code, who reviews the code by themselves or with the help of a colleague or a mentor.
+  - Pair programming: A dynamic and interactive process that involves two programmers, who work together on the same source code, one as the driver and the other as the navigator, who review the code as they write it and switch roles frequently.
+- Source code reviews can provide several benefits, such as:
+  - Finding and fixing defects early, which can reduce the cost and time of debugging and testing.
+  - Improving the quality, readability, maintainability, and security of the source code.
+  - Enhancing the skills, knowledge, and confidence of the programmers.
+  - Promoting the reuse, standardization, and consistency of the source code.
+  - Facilitating the communication, collaboration, and coordination among the stakeholders.
+- Source code reviews can also pose some challenges, such as:
+  - Requiring a significant amount of time, effort, and resources to conduct and document the reviews.
+  - Depending on the availability, expertise, and attitude of the reviewers and the authors.
+  - Introducing the risk of bias, conflict, and misunderstanding among the participants.
+  - Overlooking some defects or introducing new defects due to human errors or limitations.
+  - Focusing too much on the details and missing the big picture or the context of the source code.

@@ -1,0 +1,27 @@
+### Unification
+
+- Unification is the process of combining multiple representations of information into a single, more comprehensive representation.
+- Unification is used to reduce the complexity of the overall representation, and to make it easier to manipulate and reason about the information.
+- Unification is an inherent part of algorithms used in artificial intelligence, natural language programming, pattern detection, and algorithms for automating other tasks.
+- Unification is a key component of all first-order inference algorithms.
+- Unification can be seen as a way of finding a common ground between different expressions or sentences.
+- Unification can be performed by using the UNIFY algorithm, which takes two atomic sentences and returns a unifier for those sentences.
+- A unifier is a substitution that makes the two sentences identical.
+- The UNIFY algorithm returns fail if the expressions do not match with each other.
+- The UNIFY algorithm can be applied recursively to complex sentences that contain variables, constants, functions, and predicates.
+- Unification can be seen as a form of generalization, where the unifier represents the most general expression that covers both the input sentences.
+- Unification can also be seen as a form of specialization, where the unifier represents the most specific expression that is consistent with both the input sentences.
+- Unification can be used to implement resolution, which is a process of breaking down a problem into smaller, more manageable pieces.
+- Resolution is a technique for proving theorems in first-order logic by using inference rules.
+- Resolution can be used to derive new sentences from a given set of sentences, or to show that a given sentence is inconsistent with a set of sentences.
+- Resolution can be performed by using the RESOLVE algorithm, which takes two sentences and returns a resolvent for those sentences.
+- A resolvent is a new sentence that is logically implied by the two input sentences.
+- The RESOLVE algorithm returns fail if the two sentences do not have a complementary literal.
+- A literal is an atomic sentence or its negation.
+- A complementary literal is a literal that has the same predicate but opposite polarity as another literal.
+- The RESOLVE algorithm uses the UNIFY algorithm to find a unifier for the complementary literals, and then applies the unifier to the remaining literals to form the resolvent.
+- The RESOLVE algorithm can be applied recursively to complex sentences that contain conjunctions, disjunctions, and negations.
+- Resolution can be used to implement a proof by contradiction, where the goal is to show that a given sentence is false by deriving a contradiction from it and a set of sentences.
+- Resolution can also be used to implement a proof by refutation, where the goal is to show that a given sentence is true by showing that its negation is false.
+- Resolution can be seen as a form of deduction, where the resolvent represents a logical consequence of the input sentences.
+- Resolution can also be seen as a form of induction, where the resolvent represents a generalization of the input sentences.

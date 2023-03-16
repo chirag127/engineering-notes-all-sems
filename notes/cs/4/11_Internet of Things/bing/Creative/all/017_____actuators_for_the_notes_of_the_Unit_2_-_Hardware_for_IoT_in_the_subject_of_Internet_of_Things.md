@@ -1,0 +1,16 @@
+# Actuators for IoT
+
+- An actuator is a device that converts energy into motion. It does this by taking an electrical signal and combining it with an energy source. In an IoT system, the actuator can act on data collected by sensors to create an outcome as determined by the chosen settings of the user.
+- Actuators enable a physical action based on data that originates with one or more sensors. The conversion of sensor data to activity follows this sequence:
+  - Sensors detect an event in the physical environment.
+  - The sensor data is transmitted to a gateway or cloud platform via a communication network.
+  - The gateway or cloud platform processes the sensor data and applies the logic or rules defined by the user or application.
+  - The gateway or cloud platform sends a command to the actuator to perform a specific action.
+  - The actuator executes the action by converting energy into movement.
+- There are different types of actuators for IoT, depending on the energy source, the movement type, and the application domain. Some common types of actuators are :
+  - Servo Motors: A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. Servo motors are widely used in robotics, automation, and industrial applications.
+  - Stepper Motors: Stepper motors are DC motors that move in discrete steps. Each step corresponds to a fixed angle of rotation. Stepper motors can achieve high torque and precision, but they require a controller to regulate the speed and direction of rotation. Stepper motors are often used in CNC machines, 3D printers, and cameras.
+  - DC Motors (Continuous Rotation Motors): DC motors are two wire (power & ground), continuous rotation motors. They can vary their speed and direction of rotation by changing the polarity and voltage of the power supply. DC motors are simple and cheap, but they have low efficiency and accuracy. DC motors are commonly used in toys, fans, and pumps.
+  - Linear Actuator: A linear actuator is a device that converts rotational motion into linear motion. It can be powered by different energy sources, such as electricity, hydraulic fluid, or pneumatic pressure. Linear actuators can produce large forces and long strokes, but they have low speed and precision. Linear actuators are used in applications such as lifting, pushing, or pulling objects.
+  - Thermal/Magnetic Actuators: These are actuated by thermal or mechanical energy. Shape Memory Alloys (SMAs) or Magnetic Shape Memory Alloys (MSMAs) are materials that can change their shape or size when heated or magnetized. Thermal/magnetic actuators can achieve large deformations and high forces, but they have slow response time and high power consumption. Thermal/magnetic actuators are used in applications such as valves, switches, or locks.
+  - Soft Actuators: These are made of soft materials, such as polymers, gels, or elastomers, that can deform or bend when stimulated by electricity, light, or chemicals. Soft actuators can mimic the natural movements of biological systems, such as muscles, tendons, or skin. Soft actuators can offer high flexibility and adaptability, but they have low durability and stability. Soft actuators are used in applications such as wearable devices, biomedical devices, or soft robots.

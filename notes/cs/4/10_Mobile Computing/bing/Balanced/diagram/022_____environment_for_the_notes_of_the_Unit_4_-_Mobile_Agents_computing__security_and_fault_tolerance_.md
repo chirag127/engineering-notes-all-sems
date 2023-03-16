@@ -1,0 +1,11 @@
+# Environment for Mobile Agents
+
+- A mobile agent is a software entity that can migrate from one node to another in a network, carrying its code, data, and execution state .
+- A mobile agent environment is the software infrastructure that supports the creation, execution, migration, and communication of mobile agents .
+- A mobile agent environment consists of the following components :
+  - **Agent platform**: The computational environment in which an agent operates. It provides the basic services and resources for agent creation, execution, migration, and communication. It also ensures the security and integrity of the agents and the host system. The agent platform where an agent originates is called the home platform, and the platform where an agent migrates to is called the foreign platform.
+  - **Agent server**: The software component that manages the agent platform and provides the interface for agent interaction. It is responsible for accepting incoming agents, dispatching outgoing agents, and controlling the local agent execution. It also handles the agent registration, authentication, and authorization .
+  - **Agent transport service**: The software component that implements the agent migration mechanism. It is responsible for transferring the agent code, data, and execution state between agent platforms. It also handles the agent serialization, deserialization, and encapsulation .
+  - **Agent communication service**: The software component that implements the agent communication mechanism. It is responsible for enabling the exchange of messages and data between agents, users, and systems. It also handles the agent naming, addressing, and routing .
+  - **Agent development tools**: The software tools that support the design, implementation, testing, and debugging of mobile agents. They may include agent programming languages, libraries, frameworks, compilers, interpreters, editors, debuggers, and profilers .
+  - **Agent applications**: The software applications that use mobile agents to perform various tasks and functions. They may include agent-based information retrieval, e-commerce, network management, distributed computing, and mobile computing .

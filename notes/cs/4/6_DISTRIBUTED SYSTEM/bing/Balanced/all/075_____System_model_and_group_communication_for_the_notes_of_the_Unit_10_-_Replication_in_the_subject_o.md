@@ -1,0 +1,14 @@
+# System model and group communication for replication in distributed systems
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by exchanging messages.
+- Replication is a technique to improve the availability, performance, and fault tolerance of a distributed system by creating and maintaining multiple copies of the same data or service on different processes or nodes.
+- A system model is a set of assumptions and properties that describe the behavior and characteristics of a distributed system, such as the communication model, the failure model, the timing model, and the security model.
+- Group communication is a form of communication that involves sending messages to a subset of processes in a distributed system, called a group, rather than to a single process or to all processes. Group communication can be used to implement replication by allowing processes to coordinate their actions and exchange their states.
+- There are different types of group communication, such as:
+  - Broadcast communication: when a process sends a message to all processes in the system, or to all processes in a predefined group. Broadcast communication can be used to disseminate information or commands to all replicas, or to discover and join a group of replicas.
+  - Multicast communication: when a process sends a message to a subset of processes in the system, or to a subset of processes in a predefined group. Multicast communication can be used to send updates or requests to a subset of replicas, or to partition a group of replicas into smaller groups.
+  - Anycast communication: when a process sends a message to any one process in the system, or to any one process in a predefined group. Anycast communication can be used to send queries or requests to any replica that can provide a response or service, or to balance the load among replicas.
+- Group communication can have different properties or guarantees, such as:
+  - Reliability: the property that ensures that a message sent by a process is eventually delivered to all intended recipients, unless the sender or the recipients fail. Reliability can be further classified into best-effort, reliable, or atomic delivery, depending on the degree of assurance and ordering of messages.
+  - Ordering: the property that ensures that messages sent by one or more processes are delivered to all recipients in the same order. Ordering can be further classified into FIFO, causal, total, or causal-total ordering, depending on the relation between the messages and the processes.
+  - Agreement: the property that ensures that all correct processes in a group agree on a common value or decision, despite the presence of failures or asynchrony. Agreement can be further classified into consensus, atomic commit, or group membership, depending on the problem and the system model.

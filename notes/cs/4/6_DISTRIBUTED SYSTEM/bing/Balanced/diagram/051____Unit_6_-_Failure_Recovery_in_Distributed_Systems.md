@@ -1,0 +1,24 @@
+## Unit 6 - Failure Recovery in Distributed Systems
+
+- Failure recovery is the process of restoring the correct state and operation of a distributed system after a failure occurs.
+- Failure recovery is essential for fault tolerance, which is the ability of a system to continue functioning despite faults or errors.
+- Failure recovery can be classified into two types: reactive and proactive.
+  - Reactive failure recovery involves detecting and correcting failures after they happen, using techniques such as checkpointing, logging, replication, and rollback.
+  - Proactive failure recovery involves preventing or avoiding failures before they happen, using techniques such as fault detection, fault diagnosis, fault isolation, and fault masking.
+- Failure recovery can also be classified into two levels: system level and application level.
+  - System level failure recovery aims to restore the availability and consistency of the system resources, such as nodes, links, and data.
+  - Application level failure recovery aims to restore the correctness and progress of the application logic, such as transactions, workflows, and computations.
+- Failure recovery can be challenging in distributed systems due to the following issues:
+  - Partial failures: some components of the system may fail while others remain operational, making it difficult to detect and isolate failures.
+  - Network failures: communication links may fail or become unreliable, causing message loss, duplication, or delay, which can affect the coordination and synchronization of the system.
+  - Concurrency: multiple processes may access or update the same data or resources concurrently, leading to inconsistency or conflicts, which can affect the correctness and integrity of the system.
+  - Transparency: the system may hide the details of its distribution and replication from the users and applications, making it difficult to identify and recover from failures.
+- Failure recovery can be achieved by using various techniques and mechanisms, such as:
+  - Checkpointing: periodically saving the state of the system or the application to a stable storage, which can be used to resume the execution from a consistent point in case of a failure.
+  - Logging: recording the events or actions of the system or the application to a stable storage, which can be used to replay or undo the execution in case of a failure.
+  - Replication: maintaining multiple copies of the system or the application on different nodes, which can provide redundancy and fault tolerance in case of a failure.
+  - Rollback: restoring the state of the system or the application to a previous consistent point in case of a failure, which can undo the effects of the failure.
+  - Fault detection: monitoring the system or the application for signs of faults or errors, such as timeouts, exceptions, or anomalies, which can trigger the failure recovery process.
+  - Fault diagnosis: identifying the cause and location of the faults or errors, such as node crashes, link failures, or data corruption, which can help in isolating and correcting the faults.
+  - Fault isolation: separating the faulty components from the rest of the system, such as disconnecting the links, blocking the messages, or removing the nodes, which can prevent the propagation of the faults.
+  - Fault masking: hiding the effects of the faults from the users and applications, such as providing alternative paths, substituting values, or retrying operations, which can maintain the functionality and performance of the system.

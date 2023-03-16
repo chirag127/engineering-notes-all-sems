@@ -1,0 +1,9 @@
+### India’s Dominance up to Pre-colonial Times
+
+- Pre-colonial India refers to the period before the British occupation of India, which started in 1757 with the Battle of Plassey.
+- India has a long and rich history that dates back to the Indus Valley Civilization (2500-1500 BC), which was one of the earliest urban civilizations in the world.
+- India witnessed the rise and fall of many empires and kingdoms, such as the Mauryan Empire (321-185 BC), the Gupta Empire (320-550 AD), the Delhi Sultanate (1206-1526 AD), and the Mughal Empire (1526-1857 AD).
+- India was a major economic, cultural, and political force in the world, especially in Asia, Africa, and Europe. India had a flourishing trade network that connected it with various regions, such as China, Southeast Asia, Central Asia, Persia, Arabia, and Europe.
+- India was also a center of learning, art, literature, science, mathematics, astronomy, medicine, and spirituality. India produced many influential thinkers, writers, artists, scientists, mathematicians, astronomers, physicians, and religious leaders, such as Ashoka, Chanakya, Kalidasa, Aryabhata, Varahamihira, Charaka, Sushruta, Nagarjuna, Shankara, Ramanuja, Kabir, Mirabai, Akbar, Abul Fazl, Amir Khusrau, and Guru Nanak.
+- India's dominance was challenged by the European powers, especially the British, who sought to exploit India's resources and markets. The British gradually established their political and economic control over India through a combination of diplomacy, warfare, and alliances with local rulers.
+- The British colonial rule had a profound impact on India's society, economy, culture, and politics. It also sparked resistance and nationalism among the Indians, who fought for their independence and dignity.

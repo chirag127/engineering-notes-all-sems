@@ -1,0 +1,21 @@
+### Dependency Grammar
+
+- Dependency grammar is a descriptive and theoretical tradition in linguistics that can be traced back to antiquity.
+- It has long been influential in the European linguistics tradition and has more recently become a mainstream approach to representing syntactic and semantic structure in natural language processing.
+- Dependency grammar states that words of a sentence are dependent upon other words of the sentence .
+- Dependency grammar is based on the concept that there is a direct link between every linguistic unit of a sentence.
+- Dependency grammar uses dependency relations to indicate how words are related to each other in a sentence.
+- Dependency relations are binary, asymmetric and labeled relations between a head and a dependent.
+- A head is a word that governs the form and/or position of one or more dependents.
+- A dependent is a word that is governed by a head and modifies or complements the head.
+- A dependency relation is represented by an arc from the head to the dependent, with a label indicating the type of relation.
+- A dependency tree is a graphical representation of the dependency relations in a sentence.
+- A dependency tree has a single root node that corresponds to the main predicate of the sentence.
+- A dependency tree is well-formed if it satisfies the following criteria:
+  - Every word in the sentence is a node in the tree.
+  - Every node in the tree has exactly one incoming arc, except for the root node, which has none.
+  - There are no cycles or crossing arcs in the tree.
+- Dependency grammar can capture both syntactic and semantic information in a sentence .
+- Dependency grammar can handle various linguistic phenomena, such as word order variation, coordination, ellipsis, long-distance dependencies, etc .
+- Dependency grammar can be implemented using various algorithms and frameworks, such as transition-based parsing, graph-based parsing, neural network-based parsing, etc .
+- Dependency grammar can be applied to various natural language processing tasks, such as information extraction, machine translation, sentiment analysis, etc .

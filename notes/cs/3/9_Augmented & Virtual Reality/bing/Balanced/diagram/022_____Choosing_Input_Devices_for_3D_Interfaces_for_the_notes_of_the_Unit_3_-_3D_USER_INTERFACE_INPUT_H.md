@@ -1,0 +1,23 @@
+### Choosing Input Devices for 3D Interfaces
+
+- Input devices are hardware devices that capture and interpret the actions performed by the user in a 3D environment.
+- The degrees of freedom (DOF) are one of the main features of these systems. They refer to the number of independent directions or angles that the user can control with the input device.
+- Input devices can be classified into two categories: 3D input devices and 2D input devices.
+  - 3D input devices allow the user to provide input by making movements or gestures in physical 3D space, such as hand or body gestures, physical walking, or manipulating tools or sensors.
+  - 2D input devices allow the user to provide input by mapping 2D actions, such as mouse clicks or keyboard strokes, into a 3D virtual location.
+- Some examples of 3D input devices are:
+  - Kinect: a motion sensing device that tracks the user's body movements and gestures using a camera and a depth sensor.
+  - Leap Motion: a device that tracks the user's hand and finger movements using infrared cameras.
+  - Holo Lens: a head-mounted device that projects holograms onto the user's field of view and allows the user to interact with them using hand gestures and voice commands.
+  - Magic Leap: a device that combines a head-mounted display and a wearable computer that creates mixed reality experiences and allows the user to interact with them using hand gestures, eye tracking, and voice commands.
+- Some examples of 2D input devices are:
+  - Mouse: a device that moves a cursor on a 2D screen and allows the user to select, drag, or manipulate objects in a 3D environment.
+  - Keyboard: a device that allows the user to enter text or commands in a 3D environment.
+  - Touchscreen: a device that allows the user to touch or swipe on a 2D surface and map the actions to a 3D environment.
+- When choosing input devices for 3D interfaces, some factors to consider are:
+  - The type and complexity of the tasks that the user needs to perform in the 3D environment.
+  - The level of immersion and realism that the user expects from the 3D interface.
+  - The availability and affordability of the input devices.
+  - The compatibility and interoperability of the input devices with the 3D interface and the output devices.
+  - The usability and learnability of the input devices for the user.
+  - The comfort and safety of the user when using the input devices.

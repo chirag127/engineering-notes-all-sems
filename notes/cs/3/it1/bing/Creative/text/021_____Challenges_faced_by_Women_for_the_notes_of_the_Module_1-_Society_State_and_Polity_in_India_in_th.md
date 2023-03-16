@@ -1,0 +1,12 @@
+### Challenges faced by Women for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Women in India face various challenges that are related to their socio-cultural, economic, and political status in the society  .
+- Some of the major challenges are:
+
+  - Gender discrimination and inequality: Women are often denied equal opportunities and rights in education, employment, health care, property, and decision making. They face discrimination and violence at home, workplace, and public spaces. They are also subjected to harmful practices such as child marriage, dowry, female foeticide, and honour killings  .
+  - Sexual abuse and harassment: Women are vulnerable to sexual abuse and harassment by men who exploit their power and position. They face rape, molestation, stalking, cybercrime, and domestic violence. They also face difficulties in reporting and seeking justice for such crimes due to social stigma, victim blaming, and lack of support  .
+  - Lack of sanitation and hygiene: Women suffer from poor sanitation and hygiene facilities in their homes, workplaces, and public places. They face problems such as lack of toilets, water, and menstrual hygiene products. They also face health risks such as infections, anemia, and reproductive disorders due to poor sanitation and hygiene.
+  - Economic dependency and poverty: Women are often dependent on their male relatives for their economic needs and survival. They have limited access to financial resources, assets, and credit. They also face wage discrimination and exploitation in the informal sector. They are more likely to be poor, malnourished, and illiterate than men  .
+  - Political underrepresentation and marginalization: Women are underrepresented and marginalized in the political sphere. They have low participation and representation in the parliament, state assemblies, local bodies, and political parties. They also face barriers such as patriarchal norms, violence, and lack of education and awareness in exercising their political rights and leadership .
+
+- These challenges affect the dignity, empowerment, and development of women in India. They also hinder the progress and growth of the nation as a whole. Therefore, there is a need to address these challenges and promote the rights and welfare of women in India.

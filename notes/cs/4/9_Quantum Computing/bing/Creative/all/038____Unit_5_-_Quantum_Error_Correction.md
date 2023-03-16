@@ -1,0 +1,11 @@
+# Unit 5 - Quantum Error Correction
+
+- Quantum error correction (QEC) is a set of methods to protect quantum information—that is, quantum states—from unwanted environmental interactions (decoherence) and other forms of noise .
+- Quantum information is stored in a quantum error-correcting code, which is a subspace in a larger Hilbert space. The code is designed to detect and correct errors that affect a subset of the physical qubits that encode the logical qubits .
+- Quantum error correction is essential to achieve fault-tolerant quantum computing, which can reduce the effects of noise on stored quantum information, faulty quantum gates, and faulty quantum measurements  .
+- Quantum error correction protocols consist of three main steps: encoding, syndrome measurement, and correction  .
+  - Encoding: The quantum information is encoded into a quantum error-correcting code by applying a unitary transformation on the logical qubits and some ancillary qubits. The encoding process increases the redundancy of the information, making it more robust to errors .
+  - Syndrome measurement: The encoded quantum information is measured by applying a set of operators that commute with the code subspace. The measurement outcomes, called the syndrome, reveal information about the errors that have occurred, without disturbing the logical qubits .
+  - Correction: Based on the syndrome, a recovery operation is applied to the encoded quantum information to restore it to the code subspace. The recovery operation can be a unitary transformation, a measurement, or a combination of both .
+- Quantum error correction codes can be classified into different types, such as stabilizer codes, CSS codes, topological codes, surface codes, and quantum LDPC codes. Each type of code has different properties, such as the number of qubits, the distance, the rate, the threshold, and the complexity .
+- Quantum error correction is a challenging and active area of research, as it requires the development of new codes, protocols, algorithms, hardware, and software to achieve scalable and reliable quantum computing  .

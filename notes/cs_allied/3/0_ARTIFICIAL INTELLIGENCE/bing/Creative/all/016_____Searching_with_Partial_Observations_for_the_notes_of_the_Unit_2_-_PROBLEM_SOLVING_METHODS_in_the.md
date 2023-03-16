@@ -1,0 +1,18 @@
+# Searching with Partial Observations
+
+- Searching with partial observations is a problem-solving method in artificial intelligence that deals with environments that are **partially observable**, meaning that the agent cannot fully perceive the state of the world at any given time.
+- In such environments, an agent can be in one of several possible **physical states**, and an action can lead to one of several possible **outcomes**. The agent does not know which physical state it is in, or which outcome will result from its action.
+- To cope with this uncertainty, the agent maintains a **belief state** that represents the agent's current belief about the possible physical states it might be in. A belief state is a set of physical states that are consistent with the agent's history of actions and observations.
+- A **percept** is a piece of information that the agent receives from the environment, such as a sensor reading or a feedback signal. A **percept function** specifies how the environment generates percepts for each physical state.
+- A **transition function** specifies how the environment changes from one physical state to another as a result of an action. A transition function may be **nondeterministic**, meaning that an action can have more than one possible outcome.
+- A **goal test** specifies which physical states are desirable for the agent to achieve. A **goal test function** maps a belief state to a boolean value, indicating whether the belief state contains at least one goal state or not.
+- A **search problem** with partial observations consists of the following components:
+  - A set of possible **physical states** of the environment.
+  - A set of possible **actions** that the agent can perform.
+  - A **transition function** that maps a physical state and an action to a set of possible physical states that can result from the action.
+  - A **percept function** that maps a physical state to a percept that the agent receives from the environment.
+  - An **initial belief state** that represents the agent's initial knowledge about the possible physical states it might be in.
+  - A **goal test function** that maps a belief state to a boolean value, indicating whether the belief state contains at least one goal state or not.
+- A **solution** to a search problem with partial observations is a **conditional plan** that specifies what action the agent should take for each possible percept it might receive, such that the plan leads the agent to a goal state with some probability.
+- A **search tree** with partial observations is a tree that represents the possible sequences of actions and percepts that the agent can encounter, starting from the initial belief state. Each node in the tree is labeled with a belief state, an action, and a percept. The root node is labeled with the initial belief state and no action or percept. The children of a node are labeled with the possible belief states, actions, and percepts that can follow from the parent node. The branches of the tree are labeled with the probabilities of the transitions and the percepts.
+- A **search algorithm** with partial observations is a procedure that explores the search tree and constructs a conditional plan that solves the search problem. There are different types of search algorithms, such as **depth-first search**, **breadth-first search**, **best-first search**, **minimax search**, **expectimax search**, and **Monte Carlo tree search**. Each algorithm has its own advantages and disadvantages, depending on the characteristics of the search problem, such as the size of the state space, the degree of nondeterminism, the quality of the heuristic function, and the computational resources available.

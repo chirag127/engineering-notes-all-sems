@@ -1,0 +1,33 @@
+### GPRS for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- GPRS stands for **General Packet Radio Service** .
+- It is a **packet oriented** wireless data communication service for mobile communications on **2G and 3G cellular networks**  .
+- It is **non-voice**, high speed packet switching technology intended for GSM networks .
+- It enables **moderately high-speed data transfers** using packet-based technologies .
+- It offers more data transmission options for GSM-based devices, as GSM networks at the time could only use Short Message Service (SMS), for example, to transmit a small amount of data.
+- It establishes a **connected mobile environment** for IoT applications.
+- It supports **multiple users** on a single channel by using **statistical multiplexing**.
+- It uses **logical channels** to transmit data packets between mobile stations and the network.
+- It has two main classes of logical channels: **Packet Data Channels (PDCHs)** and **Packet Control Channels (PCCHs)**.
+- PDCHs are used to carry user data and network control information.
+- PCCHs are used to carry signaling information between the mobile station and the network.
+- It has two main network elements: **Serving GPRS Support Node (SGSN)** and **Gateway GPRS Support Node (GGSN)**.
+- SGSN is responsible for **authentication**, **encryption**, **mobility management**, **session management**, and **routing** of data packets.
+- GGSN is responsible for **interfacing** with external packet data networks, such as the internet, and **translating** between different protocols.
+- It has four main modes of operation: **Idle mode**, **Ready mode**, **Standby mode**, and **Transfer mode**.
+- Idle mode is when the mobile station is **not attached** to the GPRS network and **cannot** send or receive data packets.
+- Ready mode is when the mobile station is **attached** to the GPRS network and has a **temporary logical link** with the SGSN.
+- Standby mode is when the mobile station is **attached** to the GPRS network but has a **dormant logical link** with the SGSN.
+- Transfer mode is when the mobile station is **sending or receiving** data packets over the PDCHs.
+- It has several advantages, such as:
+  - **Higher data rates** than circuit-switched services.
+  - **Efficient use of radio resources** by sharing channels among multiple users.
+  - **Always-on connectivity** without occupying a dedicated channel.
+  - **Flexible billing** based on volume or duration of data transfer.
+  - **Seamless integration** with other packet data networks.
+- It has several applications, such as:
+  - **Mobile internet access** via web browsers, email clients, etc..
+  - **Machine-to-machine (M2M) communication** for IoT devices, such as smart meters, sensors, etc..
+  - **Location-based services** for navigation, tracking, etc..
+  - **Multimedia messaging service (MMS)** for sending and receiving images, videos, etc..
+  - **Wireless application protocol (WAP)** for accessing information and services from mobile devices.

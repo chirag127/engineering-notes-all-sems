@@ -1,0 +1,25 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of fiestal structure for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security. Here is the content in markdown format:
+
+# Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES
+
+## Security Attacks, Services and Mechanisms
+- Security attacks are any actions that compromise the security of information or systems. They can be classified as passive or active, depending on whether they only observe or also modify the data or system.
+- Security services are the countermeasures that provide protection against security attacks. They can be classified as confidentiality, integrity, availability, authentication, non-repudiation, access control, or audit.
+- Security mechanisms are the methods or tools that implement security services. They can be classified as preventive, detective, corrective, or deterrent, depending on whether they prevent, detect, correct, or discourage security attacks.
+
+## Classical Encryption Techniques
+- Encryption is the process of transforming plaintext (readable data) into ciphertext (unreadable data) using a secret key. Decryption is the reverse process of recovering plaintext from ciphertext using the same or a different key.
+- Substitution ciphers are encryption techniques that replace each letter or symbol of the plaintext with another letter or symbol, depending on the key. For example, Caesar cipher, monoalphabetic cipher, polyalphabetic cipher, etc.
+- Transposition ciphers are encryption techniques that rearrange the order of the letters or symbols of the plaintext, depending on the key. For example, rail fence cipher, columnar cipher, permutation cipher, etc.
+- Cryptanalysis is the art or science of breaking encryption techniques, either by exploiting some weakness in the algorithm or the key, or by using brute force (trying all possible keys).
+- Steganography is the technique of hiding a secret message within another message or medium, such as an image, audio, video, etc. The goal is to conceal the existence of the secret message, rather than making it unreadable.
+
+## Stream and Block Ciphers
+- Stream ciphers are encryption techniques that encrypt each bit or byte of the plaintext with a keystream (a sequence of bits or bytes generated from a secret key). The ciphertext is obtained by XORing the plaintext and the keystream. For example, RC4, A5/1, etc.
+- Block ciphers are encryption techniques that encrypt each block of fixed size (usually 64 or 128 bits) of the plaintext with a secret key. The ciphertext is obtained by applying a series of transformations (such as substitution, permutation, XOR, etc.) to the plaintext block and the key. For example, DES, AES, etc.
+
+## Modern Block Ciphers
+- Block ciphers principles are the basic concepts and design principles of modern block ciphers, such as block size, key size, number of rounds, round function, key schedule, etc.
+- Shannon’s theory of confusion and diffusion are the two properties that a good block cipher should have, according to Claude Shannon. Confusion means that the relationship between the plaintext and the ciphertext should be complex and obscure, so that the key cannot be easily derived. Diffusion means that each bit of the ciphertext should depend on many bits of the plaintext and the key, so that a small change in the input should produce a large change in the output.
+- Fiestal structure is a common structure for block ciphers, proposed by Horst Feistel. It consists of dividing the plaintext block into two halves, and applying a round function to one half and XORing it with the other half, then swapping the halves. This is repeated for a number of rounds, with a different subkey derived from the main key for each round. The final swap is reversed to obtain the ciphertext block. For example, DES, Blowfish, etc.
+- Data encryption standard (DES) is a widely used block cipher, standardized by NIST in 1977. It has a block size of 64 bits,

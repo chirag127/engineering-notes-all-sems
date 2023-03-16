@@ -1,0 +1,14 @@
+### Cluster Systems
+
+- Cluster systems are a type of high performance computing (HPC) architecture that use a network of multiple computer servers, called nodes, to perform parallel computations on large and complex problems.
+- Cluster systems can achieve higher performance, scalability, availability, and cost-effectiveness than single-processor or shared-memory systems by leveraging the hardware and software components designed for general-purpose or consumer usage.
+- Cluster systems typically consist of the following components:
+  - Compute nodes: The servers that execute the parallel tasks and communicate with each other and the storage system. Each node may have one or more processors, such as CPUs or GPUs, and local memory and disk space.
+  - Storage system: The device or devices that store the input and output data of the parallel tasks. The storage system may be shared among the nodes or distributed across them. The storage system may use different technologies, such as hard disk drives, solid state drives, or tape drives.
+  - Network: The medium that connects the nodes and the storage system and enables data transfer and communication. The network may use different protocols, such as Ethernet, InfiniBand, or Fibre Channel, and different topologies, such as star, ring, or mesh.
+  - Software: The programs and tools that manage the cluster system and enable the parallel execution and optimization of the tasks. The software may include operating systems, middleware, libraries, compilers, schedulers, monitors, and debuggers.
+- Cluster systems can be classified into different types based on their purpose, configuration, or performance. Some common types of cluster systems are:
+  - High performance (HP) clusters: HP clusters use cluster systems and supercomputers to solve advanced computational problems that require high speed and accuracy. They are used for scientific and engineering applications, such as weather forecasting, fluid dynamics, molecular modeling, and cryptography.
+  - High availability (HA) clusters: HA clusters use cluster systems to provide continuous and reliable service for critical applications that cannot tolerate downtime or data loss. They are used for business and enterprise applications, such as databases, web servers, and e-commerce.
+  - High throughput (HT) clusters: HT clusters use cluster systems to process large amounts of data or tasks that can be executed independently and asynchronously. They are used for data-intensive and distributed applications, such as data mining, web crawling, and grid computing.
+  - Load balancing (LB) clusters: LB clusters use cluster systems to distribute the workload among the nodes and improve the performance and efficiency of the system. They are used for applications that have variable or unpredictable demand, such as web services, online gaming, and streaming media.

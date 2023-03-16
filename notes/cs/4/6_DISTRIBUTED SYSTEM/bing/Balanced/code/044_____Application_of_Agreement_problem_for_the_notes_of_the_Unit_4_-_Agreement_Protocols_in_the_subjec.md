@@ -1,0 +1,10 @@
+### Application of Agreement Problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement problem is a fundamental problem in distributed systems, where a set of processes need to reach a common decision based on their individual inputs and messages exchanged with each other .
+- Agreement problem has many variants, such as consensus, atomic broadcast, atomic commitment, group membership, etc., depending on the type and number of values to be agreed upon, the assumptions about the system model, and the requirements for the agreement .
+- Agreement problem is essential for many applications in distributed systems, such as fault tolerance, replication, coordination, distributed transactions, distributed databases, etc .
+- Some examples of applications that use agreement problem are:
+  - Atomic snapshot: A data structure that allows processes to atomically read and write multiple shared variables in a distributed system. Atomic snapshot can be implemented using a variant of agreement problem called lattice agreement, where processes need to agree on a value from a partially ordered set.
+  - Replicated state machine: A technique that replicates the same deterministic state machine on multiple servers, and ensures that they execute the same sequence of commands in the same order. Replicated state machine can be implemented using consensus or atomic broadcast, where processes need to agree on a single value or a total order of values.
+  - Distributed commit: A protocol that ensures that a distributed transaction either commits on all the participating sites, or aborts on all of them. Distributed commit can be implemented using atomic commitment, where processes need to agree on a binary value (commit or abort).
+  - Group membership: A service that maintains the membership information of a group of processes in a distributed system, and notifies them of any changes (such as join, leave, or failure) in the group. Group membership can be implemented using a variant of agreement problem where processes need to agree on a set of values (the group members).

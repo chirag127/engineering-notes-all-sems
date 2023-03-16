@@ -1,0 +1,15 @@
+## Unit 3 - Dimensionality Reduction
+
+- Dimensionality reduction is the process of transforming data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data, ideally close to its intrinsic dimension.
+- Dimensionality reduction can be done for various reasons, such as:
+  - To reduce the complexity of a model and avoid overfitting.
+  - To improve the performance of a learning algorithm by reducing the computational cost and the noise in the data.
+  - To make it easier to visualize and interpret the data by finding the most relevant features or patterns.
+- Dimensionality reduction can be divided into two main categories:
+  - Feature selection: selecting a subset of the original features that are most relevant or informative for the task at hand, such as classification or clustering. Feature selection can be done using various criteria, such as correlation, mutual information, or statistical tests.
+  - Feature extraction: creating new features that are combinations or transformations of the original features, such as linear or nonlinear projections, that capture the most variance or information in the data. Feature extraction can be done using various techniques, such as principal component analysis (PCA), singular value decomposition (SVD), or autoencoders.
+- Some of the popular techniques for dimensionality reduction are:
+  - Principal component analysis (PCA): a linear technique that finds the orthogonal directions (called principal components) that explain the most variance in the data, and projects the data onto a lower-dimensional subspace spanned by these directions.
+  - Singular value decomposition (SVD): a matrix factorization technique that decomposes a data matrix into three matrices: a matrix of left singular vectors, a diagonal matrix of singular values, and a matrix of right singular vectors. The singular values indicate the importance of each singular vector, and the data can be approximated by using only the top k singular vectors and values.
+  - Autoencoders: a type of neural network that learns to encode the input data into a lower-dimensional latent space, and then decode it back to the original space. The latent space captures the most salient features of the data, and the reconstruction error can be used as a measure of how well the data is represented.
+  - t-distributed stochastic neighbor embedding (t-SNE): a nonlinear technique that preserves the local structure of the data by mapping each point to a low-dimensional space such that points that are close in the high-dimensional space are also close in the low-dimensional space, and points that are far apart are also far apart. The technique uses a probabilistic model and a gradient descent algorithm to find the optimal mapping.

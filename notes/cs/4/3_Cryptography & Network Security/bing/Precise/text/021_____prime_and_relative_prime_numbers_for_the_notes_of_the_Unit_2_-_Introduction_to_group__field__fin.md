@@ -1,0 +1,14 @@
+### Prime and Relative Prime Numbers
+
+- A **prime number** is a natural number greater than 1 that is not a product of two smaller natural numbers. For example, 2, 3, 5, 7, 11, and 13 are prime numbers.
+- A **composite number** is a natural number that is not prime. For example, 4, 6, 8, 9, and 10 are composite numbers.
+- Two numbers are **relatively prime** if their greatest common divisor (GCD) is 1. For example, 8 and 9 are relatively prime because their GCD is 1.
+- The **Euclidean algorithm** can be used to find the GCD of two numbers. It is based on the principle that the GCD of two numbers does not change if the smaller number is subtracted from the larger number.
+- The **Extended Euclidean Algorithm** is an extension of the Euclidean algorithm that can be used to find the GCD of two numbers as well as the coefficients of Bézout's identity, which are integers x and y such that ax + by = gcd(a, b).
+- **Fermat's Little Theorem** states that if p is a prime number, then for any integer a, the number a^p − a is an integer multiple of p. In the notation of modular arithmetic, this is expressed as a^p ≡ a (mod p).
+- **Euler's Totient Theorem** states that if n and a are relatively prime, then a^φ(n) ≡ 1 (mod n), where φ(n) is the Euler's totient function, which counts the number of positive integers less than n that are relatively prime to n.
+- **Primality testing** is the process of determining whether a given number is prime. There are several algorithms for primality testing, including the **Sieve of Eratosthenes**, the **Miller-Rabin test**, and the **AKS primality test**.
+- The **Chinese Remainder Theorem** states that if n1, n2, ..., nk are pairwise relatively prime, then for any given sequence of integers a1, a2, ..., ak, there exists an integer x that solves the system of linear congruences x ≡ a1 (mod n1), x ≡ a2 (mod n2), ..., x ≡ ak (mod nk).
+- The **Discrete Logarithm Problem** is the problem of finding an integer x such that g^x ≡ h (mod p) for a given prime p and integers g and h. This problem is considered hard, and its hardness is the basis for several cryptographic protocols, including the **Diffie-Hellman key exchange**.
+- **Public key cryptography** is a cryptographic system that uses pairs of keys: public keys that can be widely distributed, and private keys that are known only to the owner. The most widely used public key cryptographic system is the **RSA algorithm**, which is based on the hardness of factoring large composite numbers.
+- The **security of RSA** depends on the difficulty of factoring the product of two large prime numbers. If an efficient algorithm for factoring large numbers were to be discovered, the security of RSA would be compromised. However, no such algorithm is currently known.

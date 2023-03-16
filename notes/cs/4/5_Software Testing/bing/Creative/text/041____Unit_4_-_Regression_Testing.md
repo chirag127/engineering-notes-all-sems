@@ -1,0 +1,14 @@
+## Unit 4 - Regression Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or adversely affected the existing functionality.
+- Regression testing can be performed at different levels of testing, such as unit, integration, system, or acceptance testing.
+- Regression testing can be done manually or automatically, depending on the availability of test cases, test tools, and resources.
+- Regression testing can be classified into three types: retest all, selective, and test suite minimization.
+  - Retest all is the simplest and most comprehensive approach, where all the existing test cases are executed again after any change in the software. This ensures maximum coverage and reliability, but also requires a lot of time and effort.
+  - Selective is the most common and practical approach, where only a subset of the existing test cases are executed based on some criteria, such as the impact of the change, the risk of the functionality, the frequency of use, or the history of defects. This reduces the time and effort required, but also increases the chance of missing some defects.
+  - Test suite minimization is the most advanced and efficient approach, where the existing test cases are analyzed and reduced to a minimum set that still covers all the affected functionality. This requires sophisticated techniques and tools, such as code coverage, dependency analysis, or fault localization. This minimizes the time and effort required, but also requires high accuracy and reliability of the analysis and reduction methods.
+- Regression testing can be enhanced by using various techniques and strategies, such as:
+  - Regression test selection, which is the process of selecting the most appropriate test cases for regression testing based on some criteria, such as the change impact, the test coverage, the test priority, or the test cost.
+  - Regression test prioritization, which is the process of ordering the selected test cases for regression testing based on some criteria, such as the test effectiveness, the test risk, the test feedback, or the test resource.
+  - Regression test execution, which is the process of executing the selected and prioritized test cases for regression testing using suitable methods and tools, such as manual testing, automated testing, parallel testing, or distributed testing.
+  - Regression test evaluation, which is the process of evaluating the results and outcomes of regression testing using suitable metrics and measures, such as the test quality, the test coverage, the test efficiency, or the test effectiveness.

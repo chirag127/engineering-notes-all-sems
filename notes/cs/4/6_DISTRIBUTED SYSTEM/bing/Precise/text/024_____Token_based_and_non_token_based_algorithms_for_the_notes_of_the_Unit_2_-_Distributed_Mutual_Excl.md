@@ -1,0 +1,9 @@
+### Token based and non token based algorithms
+
+Distributed mutual exclusion is a fundamental problem in distributed systems. It refers to the problem of ensuring that, in a distributed system, only one process can access a shared resource at a time. There are two main approaches to solving this problem: token-based algorithms and non-token-based algorithms.
+
+1. **Token-based algorithms:** In token-based algorithms, a unique token is passed between processes in the system. The process holding the token has the exclusive right to access the shared resource. Once the process has finished accessing the resource, it passes the token to the next process in line. Examples of token-based algorithms include the Ricart-Agrawala algorithm and the Suzuki-Kasami algorithm.
+
+2. **Non-token-based algorithms:** In non-token-based algorithms, processes use other means to coordinate access to the shared resource. For example, they may use timestamps or message passing to determine which process should have access to the resource at any given time. Examples of non-token-based algorithms include the Lamport's algorithm and the Maekawa's algorithm.
+
+Both token-based and non-token-based algorithms have their advantages and disadvantages. Token-based algorithms are generally simpler to implement and understand, but they can suffer from performance issues if the token is frequently passed between processes. Non-token-based algorithms can be more efficient, but they can be more complex to implement and may require more communication between processes. Ultimately, the choice of algorithm will depend on the specific requirements of the distributed system in question.

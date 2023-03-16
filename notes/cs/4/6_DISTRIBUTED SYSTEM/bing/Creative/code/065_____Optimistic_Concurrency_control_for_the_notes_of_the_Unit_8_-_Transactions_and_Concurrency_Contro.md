@@ -1,0 +1,23 @@
+### Optimistic Concurrency Control for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- Optimistic concurrency control (OCC) is a concurrency control method applied to transactional systems such as relational database management systems and software transactional memory.
+- OCC assumes that multiple transactions can frequently complete without interfering with each other, and avoids locking of data items that can reduce the performance of the system.
+- OCC consists of three phases: read, validation and write.
+  - In the read phase, the transaction reads the data items from the database and performs the necessary computations, but does not update the database.
+  - In the validation phase, the transaction checks if any of the data items it has read have been modified by other transactions that committed after it started. If so, the transaction is aborted and restarted, otherwise it proceeds to the write phase.
+  - In the write phase, the transaction updates the database with the new values of the data items it has modified.
+- OCC has some advantages over locking-based concurrency control techniques, such as:
+  - It avoids the overhead of acquiring and releasing locks, which can improve the performance of the system.
+  - It avoids the problem of deadlock, which can occur when two or more transactions are waiting for each other to release locks.
+  - It allows more concurrency, as transactions can execute without blocking each other until the validation phase.
+- OCC also has some disadvantages, such as:
+  - It may cause more aborts and restarts, especially when the contention for data items is high.
+  - It may require more storage space, as transactions need to keep copies of the data items they have read and modified until the write phase.
+  - It may not be suitable for real-time applications, as transactions may not meet their deadlines due to aborts and restarts.
+- OCC can be implemented in a distributed system, where transactions may access data items stored in different nodes of the system.
+  - In a distributed system, OCC requires a global validation phase, where transactions need to communicate with all the nodes they have accessed to check for conflicts.
+  - A distributed OCC protocol can use different strategies to reduce the communication overhead and the number of aborts, such as:
+    - Using timestamps to order transactions and detect conflicts.
+    - Using locks to guarantee a failed transaction a successful second execution.
+    - Using replication to increase the availability of data items and reduce the conflicts.
+- OCC is a concurrency control technique that can improve the performance and concurrency of transactional systems, but it also has some limitations and challenges, especially in a distributed system    .

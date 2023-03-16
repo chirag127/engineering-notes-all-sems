@@ -1,0 +1,13 @@
+### Multimodal System Control Techniques
+
+Multimodal system control techniques are methods of using multiple input channels, such as speech, gesture, eye gaze, or touch, to control the system or application settings in a 3D user interface. Some of the advantages of using multimodal system control techniques are:
+
+- Decoupling: Using an input channel that differs from the main input channel used for interaction with the environment can decrease user cognitive load. For example, using speech to switch between different modes or tools while using hand gestures to manipulate objects in 3D space can reduce the need for complex menus or buttons.
+- Error reduction and correction: The use of multiple input channels can be very effective when the input is ambiguous or noisy, especially with recognition-based input like speech or gestures. For example, using speech to confirm or cancel a gesture command can reduce the chances of false positives or negatives.
+- Expressiveness and efficiency: The use of multiple input channels can allow users to express their intentions more naturally and efficiently, especially when the input is complementary or synergistic. For example, using speech and gesture together can enable users to specify both the type and the location of an object to be created or modified in 3D space.
+
+Some of the challenges of using multimodal system control techniques are:
+
+- Integration and fusion: The system needs to be able to integrate and fuse the input from different channels in a coherent and consistent way, taking into account the timing, context, and semantics of the input. For example, the system needs to determine whether a speech command and a gesture command are intended to be combined or separate, and how to resolve any conflicts or inconsistencies between them.
+- Feedback and guidance: The system needs to provide appropriate feedback and guidance to the users about the available input channels, the expected input format, and the system status and response. For example, the system needs to indicate which input channels are active or inactive, how to activate or deactivate them, and how to correct any errors or misunderstandings.
+- Usability and user preference: The system needs to consider the usability and user preference of the different input channels, and provide options for customization and adaptation. For example, the system needs to account for the different levels of user expertise, comfort, and preference for using speech, gesture, or other input channels, and allow users to choose or switch between them.

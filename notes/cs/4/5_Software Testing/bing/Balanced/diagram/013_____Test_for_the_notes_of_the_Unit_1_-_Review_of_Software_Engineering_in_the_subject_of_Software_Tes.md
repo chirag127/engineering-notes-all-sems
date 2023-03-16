@@ -1,0 +1,23 @@
+### Test for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- The test will cover the following topics:
+  - Software engineering definition and objectives
+  - Software engineering process models and activities
+  - Software engineering principles and best practices
+  - Software engineering challenges and trends
+- The test will consist of multiple choice, true/false, and short answer questions.
+- The test will have a total of 20 questions and a duration of 40 minutes.
+- The test will be graded based on the following criteria:
+  - Correctness and completeness of the answers
+  - Clarity and conciseness of the explanations
+  - Relevance and accuracy of the examples
+  - Application and analysis of the concepts
+- The test will require the students to demonstrate the following learning outcomes:
+  - Explain the meaning and importance of software engineering
+  - Compare and contrast different software engineering process models and activities
+  - Apply software engineering principles and best practices to software development projects
+  - Identify and discuss the current and future challenges and trends in software engineering
+- The test will be administered online using a platform such as Moodle or Blackboard.
+- The test will be open book and open notes, but no collaboration or communication with other students or external sources is allowed.
+- The test will be available on the scheduled date and time, and the students must submit their answers before the deadline. No late submissions will be accepted.
+- The test will be marked and returned to the students within a week, along with feedback and solutions.

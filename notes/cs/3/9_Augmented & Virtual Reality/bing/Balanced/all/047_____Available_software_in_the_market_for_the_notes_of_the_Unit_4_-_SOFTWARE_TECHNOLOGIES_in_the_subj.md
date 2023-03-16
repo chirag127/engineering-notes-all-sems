@@ -1,0 +1,12 @@
+# Available software in the market for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- Augmented reality (AR) and virtual reality (VR) are two technologies that create immersive and interactive experiences for users.
+- AR overlays digital information or objects on the real world, while VR creates a simulated environment that replaces the real world.
+- Both AR and VR require software tools to design, develop, and deploy applications and content.
+- Some of the available software tools for AR and VR design are:
+
+  - **Adobe Aero**: The best AR design software overall (Editor’s choice) . It allows users to create and share immersive AR experiences without coding. It integrates with other Adobe products such as Photoshop and Illustrator, and supports various 3D formats and assets. It also provides a preview mode to test the AR scenes on mobile devices.
+  - **Tvori**: The best budget AR design software . It is a VR-based platform that enables users to create and animate 3D content in VR. It supports various input devices such as Oculus Touch, HTC Vive, and Windows Mixed Reality controllers. It also allows users to export their creations to other platforms such as Unity, Unreal Engine, and Sketchfab.
+  - **Masterpiece Studio Pro**: The best value VR design software . It is a suite of tools that helps users to create and optimize 3D models and animations for VR and AR. It includes Masterpiece Creator, which is a VR sculpting and modeling tool, and Masterpiece Motion, which is a VR rigging and animation tool. It also provides a library of 3D assets and templates, and supports various export formats and platforms.
+  - **Vuforia Engine**: The best AR design software for advanced users . It is a software development kit (SDK) that enables users to build cross-platform AR applications. It supports various features such as image recognition, object tracking, spatial mapping, and occlusion. It also integrates with popular game engines such as Unity and Unreal Engine, and supports various platforms such as iOS, Android, Windows, and HoloLens.
+  - **Unity 3D**: The best free software for AR and VR design . It is a game engine and development platform that allows users to create and run interactive 3D and 2D content. It supports various features such as physics, lighting, audio, animation, and scripting. It also provides a rich asset store and a large community of developers and users. It supports various platforms such as iOS, Android, Windows, Mac, Linux, and web browsers.

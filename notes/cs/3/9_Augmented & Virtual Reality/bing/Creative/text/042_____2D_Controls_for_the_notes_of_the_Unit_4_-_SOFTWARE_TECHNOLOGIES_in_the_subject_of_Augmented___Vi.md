@@ -1,0 +1,23 @@
+### 2D Controls for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- 2D controls are user interface elements that are displayed in screen space, rather than in the virtual or augmented environment.
+- 2D controls can be used to provide persistent or contextual information, settings, menus, navigation, or other functions that are not part of the immersive experience.
+- 2D controls can be implemented using various technologies, such as web-based frameworks, native platforms, or custom solutions.
+- 2D controls have some advantages and disadvantages compared to 3D controls, which are user interface elements that are integrated into the virtual or augmented environment.
+- Advantages of 2D controls include:
+  - They are familiar and intuitive to most users, as they resemble the controls used in traditional 2D applications.
+  - They can be easily designed and modified using existing tools and libraries.
+  - They can support complex and rich interactions, such as text input, scrolling, or gestures.
+  - They can be consistent and stable across different devices and environments.
+- Disadvantages of 2D controls include:
+  - They can break the immersion and presence of the user, as they remind them of the artificial nature of the experience.
+  - They can occlude or distract from the virtual or augmented content, especially if they are large or poorly positioned.
+  - They can be difficult to interact with using 3D input devices, such as controllers, hand tracking, or gaze.
+  - They can be affected by the limitations of the screen, such as resolution, brightness, or field of view.
+- Some examples of 2D controls in augmented and virtual reality are:
+  - A 2D menu that allows the user to select different options or modes in a VR game or simulation.
+  - A 2D overlay that shows the user's health, score, or inventory in a VR or AR game.
+  - A 2D slider that lets the user adjust the volume or brightness of the VR or AR experience.
+  - A 2D button that triggers a specific action or event in the VR or AR environment.
+  - A 2D image that transforms into a 3D model when the user scans it with an AR device.
+  - A 2D map that shows the user's location and direction in a VR or AR environment.

@@ -1,0 +1,15 @@
+### Avoidance for the notes of the Unit 3 - Distributed Deadlock Detection in the subject of DISTRIBUTED SYSTEM
+
+- Deadlock avoidance is a technique that prevents the occurrence of deadlocks by ensuring that the system is always in a safe state.
+- A safe state is one in which there exists a sequence of processes that can finish their execution without waiting for any resources.
+- In a distributed system, deadlock avoidance is impractical due to several problems, such as:
+  - The lack of global information about the resource allocation and requests of all processes.
+  - The dynamic and unpredictable nature of the system, where processes and resources may join or leave at any time.
+  - The high communication and synchronization overhead involved in maintaining a global safe state.
+- Therefore, deadlock detection is preferred over deadlock avoidance in distributed systems.
+- Deadlock detection is a technique that identifies the existence of deadlocks by examining the status of the process-resource interactions for the presence of cyclic wait.
+- Deadlock detection in distributed systems can be classified into four categories, based on the type of information exchanged among processes and resources:
+  - Path-pushing algorithms: These algorithms propagate the information about the wait-for relations along the paths of the wait-for graph. Each process maintains a set of dependent processes that are waiting for it directly or indirectly. When a process requests a resource, it sends its dependency set to the resource. When a resource is released, it sends the dependency set of the previous owner to the new owner. A deadlock is detected when a process receives its own identifier in a dependency set.
+  - Edge-chasing algorithms: These algorithms send special messages called probes along the edges of the wait-for graph. Each probe contains the identifiers of the sender and the receiver of the resource request. When a process receives a probe, it forwards it to the process or resource it is waiting for. A deadlock is detected when a process receives a probe that contains its own identifier.
+  - Diffusion computation algorithms: These algorithms initiate a computation at each process that requests a resource. The computation involves sending queries and replies among the processes and resources. A process sends a query to the process or resource it is waiting for, and waits for a reply. A resource replies positively to a query if it is free, and negatively if it is busy. A process replies positively to a query if it has received positive replies from all the processes or resources it has sent queries to, and negatively otherwise. A deadlock is detected when a process receives a negative reply.
+  - Global state detection algorithms: These algorithms collect the global state of the system, such as the resource allocation and request matrices, and apply a centralized deadlock detection algorithm on it. The global state can be obtained by using techniques such as snapshot algorithms or distributed agreement algorithms. A deadlock is detected when the global state contains a cycle in the resource allocation graph.

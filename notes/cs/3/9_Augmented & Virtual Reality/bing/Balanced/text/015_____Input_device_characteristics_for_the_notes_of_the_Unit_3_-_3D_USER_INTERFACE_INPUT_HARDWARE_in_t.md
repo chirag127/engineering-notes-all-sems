@@ -1,0 +1,12 @@
+### Input device characteristics for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+
+- Input devices are hardware that allow the user to communicate with the system by providing input in physical 3D space or manipulating tools, sensors, or devices in 3D space.
+- Input devices can be classified according to the following characteristics :
+  - Degrees of freedom (DOFs): the number of independent parameters that define the position and orientation of an object in 3D space. For example, a 6-DOF device can report the x, y, z coordinates and the pitch, yaw, roll angles of an object.
+  - DOF composition: the way the DOFs are grouped or separated in the input device. For example, a device can have integral DOFs, where all the DOFs are controlled by a single input, or separable DOFs, where each DOF is controlled by a different input.
+  - Type of electronics: the type of signals that the input device uses to communicate with the system. For example, a device can use digital electronics, where the signals are discrete and binary, or analog electronics, where the signals are continuous and variable.
+  - Range of reported values: the type and extent of the values that the input device can report to the system. For example, a device can report discrete values, where the values are fixed and finite, continuous values, where the values are variable and infinite, or hybrid values, where the values are a combination of discrete and continuous.
+  - Sensing technology: the type of technology that the input device uses to sense the user's input or the environment. For example, a device can use active sensing, where the device emits a signal and measures the response, or passive sensing, where the device measures a signal that is already present.
+  - Input modality: the type of input that the user can provide to the device. For example, a device can use gesture input, where the user performs a motion or a pose, or voice input, where the user speaks a command or a query.
+  - Form factor: the shape, size, and weight of the input device. For example, a device can be handheld, wearable, or stationary.
+  - Ergonomics: the design of the input device that affects the user's comfort, efficiency, and safety. For example, a device can have a natural or intuitive mapping, where the input corresponds to the expected output, or a feedback mechanism, where the device provides a response to the user's input.

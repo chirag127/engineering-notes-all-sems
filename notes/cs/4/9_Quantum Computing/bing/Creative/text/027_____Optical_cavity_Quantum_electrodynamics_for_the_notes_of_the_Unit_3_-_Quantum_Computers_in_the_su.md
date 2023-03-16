@@ -1,0 +1,11 @@
+### Optical cavity quantum electrodynamics
+
+- Optical cavity quantum electrodynamics (QED) is the study of the interaction between light confined in a reflective cavity and atoms or other particles, under conditions where the quantum nature of photons is significant.
+- Optical cavity QED can be used to implement quantum logic gates, quantum state transfer, quantum metrology, and quantum simulation.
+- The simplest model in optical cavity QED deals with a single two-level atom interacting with a single mode of the radiation field. This is known as the Jaynes-Cummings model.
+- The interaction between the atom and the cavity mode can be characterized by the coupling strength g, the cavity decay rate κ, and the atomic decay rate γ. Depending on the relative values of these parameters, the system can be in different regimes of optical cavity QED:
+  - Weak coupling regime: g < κ, γ. The atom and the cavity mode are weakly coupled and can be treated as independent systems.
+  - Strong coupling regime: g > κ, γ. The atom and the cavity mode are strongly coupled and form hybrid states called dressed states or polaritons.
+  - Ultrastrong coupling regime: g > κc, where κc is the critical cavity decay rate for the onset of the ultrastrong coupling regime. The atom and the cavity mode are so strongly coupled that the rotating wave approximation breaks down and the counter-rotating terms in the Hamiltonian become important.
+  - Deep strong coupling regime: g > ω, where ω is the frequency of the cavity mode or the atomic transition. The atom and the cavity mode are so strongly coupled that the energy splitting between the dressed states exceeds the bare energies of the atom and the cavity mode.
+- Optical cavity QED has allowed for a number of key experimental advances in quantum optics, including the observation of an enhancement of spontaneous emission, the demonstration of the photon blockade effect and vacuum-induced transparency, the generation of non-classical states of light and matter, and the realization of quantum feedback and measurement  .

@@ -1,0 +1,26 @@
+### Oracles
+
+- An oracle is a mechanism for determining whether a test has passed or failed  .
+- An oracle can be a person, a document, a software tool, or a set of rules that specifies the correct output for a given input  .
+- An oracle can be derived from various sources, such as the requirements specification, the design specification, the user expectations, the domain knowledge, or the intuition of the tester  .
+- An oracle can be classified into different types, such as:
+  - Explicit oracle: an oracle that provides the exact expected output for a given input .
+  - Implicit oracle: an oracle that provides some constraints or properties that the output should satisfy, but not the exact value .
+  - Partial oracle: an oracle that provides the expected output for some inputs, but not for all possible inputs .
+  - Complete oracle: an oracle that provides the expected output for all possible inputs .
+  - Consistent oracle: an oracle that provides the same expected output for the same input, regardless of the context or the state of the system .
+  - Inconsistent oracle: an oracle that provides different expected outputs for the same input, depending on the context or the state of the system .
+- An oracle can have various challenges, such as:
+  - Oracle existence: the challenge of finding or creating an oracle that can provide the correct output for a given input  .
+  - Oracle cost: the challenge of minimizing the time, effort, and resources required to use or maintain an oracle  .
+  - Oracle uncertainty: the challenge of dealing with the ambiguity, incompleteness, or inconsistency of an oracle  .
+  - Oracle precision: the challenge of ensuring that an oracle can provide the exact or accurate output for a given input, without any errors or deviations  .
+  - Oracle applicability: the challenge of ensuring that an oracle can provide the relevant or useful output for a given input, without any redundancy or irrelevance  .
+- An oracle can be used for various purposes, such as:
+  - Test case generation: an oracle can be used to generate test cases that cover different inputs, outputs, or scenarios  .
+  - Test case execution: an oracle can be used to execute test cases and compare the actual output with the expected output  .
+  - Test case evaluation: an oracle can be used to evaluate the test results and identify the pass, fail, or inconclusive cases  .
+  - Test case selection: an oracle can be used to select the most relevant or effective test cases for a given testing objective or criterion  .
+  - Test case prioritization: an oracle can be used to prioritize the test cases based on their importance, urgency, or impact  .
+  - Test case optimization: an oracle can be used to optimize the test cases by reducing their number, size, or complexity  .
+  - Test case maintenance: an oracle can be used to maintain the test cases by updating, modifying, or deleting them as needed  .

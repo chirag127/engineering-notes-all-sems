@@ -1,0 +1,28 @@
+### Composite Applications for the notes of the Unit 3 - Service-Oriented Applications in the subject of Service Oriented Architecture
+
+- A composite application is an application that consists of functionality drawn from several different sources, such as other applications, systems, modules, or web services.
+- A composite application can leverage existing assets and create new business models by integrating and orchestrating different services across different constituents.
+- A composite application requires a service-oriented architecture (SOA) in order to become a reality. A SOA is a modular architectural framework that enables software components to interact seamlessly.
+- A SOA is based on the principles of loose coupling, abstraction, reusability, composability, and interoperability of services.
+- A service is a self-contained unit of functionality that can be accessed and executed by a client or another service through a well-defined interface.
+- A service interface defines the contract between the service and its consumers, specifying the inputs, outputs, and behaviors of the service.
+- A service implementation is the actual code or logic that performs the functionality of the service.
+- A service can be implemented using any technology or platform, as long as it conforms to the service interface and can communicate with other services using standard protocols and formats.
+- A service can be exposed as a web service, which is a service that uses web standards such as HTTP, XML, SOAP, WSDL, and UDDI to enable interoperability across different platforms and languages.
+- A service can also be exposed as a RESTful service, which is a service that follows the principles of Representational State Transfer (REST) and uses HTTP methods, URIs, and media types to enable resource-oriented interactions.
+- A service can be composed of other services, creating a hierarchy of services that can be reused and combined in different ways to create composite applications.
+- A service composition is the process of defining the logic and flow of a composite application by specifying how the services interact with each other and with external events and data sources.
+- A service composition can be achieved using different techniques, such as orchestration, choreography, or mediation.
+- Orchestration is the technique of defining a centralized and executable process that coordinates the invocation and interaction of services to achieve a business goal.
+- Choreography is the technique of defining a decentralized and collaborative process that specifies the roles and responsibilities of each service and how they exchange messages to achieve a business goal.
+- Mediation is the technique of defining a intermediary service that acts as a broker, router, transformer, or adapter between different services to enable integration and communication.
+- A service composition can be described using different languages, such as BPEL, BPMN, WS-CDL, or SCA.
+- Service Component Architecture (SCA) is a set of specifications that describe a programming model for building applications and systems using a SOA .
+- SCA extends and complements previous approaches to implementing services and builds on open standards such as web services .
+- SCA defines a component as the basic unit of composition, which can be a service, a reference to another service, or a property that can be configured.
+- SCA defines a composite as a collection of components and wires that connect them, forming a logical unit of functionality that can be deployed and managed as a whole.
+- SCA defines a domain as a set of composites that share a common administration and governance.
+- SCA defines a binding as a mechanism that enables a component to communicate with other components or external services using different protocols and formats.
+- SCA defines a policy as a mechanism that enables a component to express its non-functional requirements and capabilities, such as security, reliability, or transactionality.
+- SCA defines a implementation as a mechanism that enables a component to specify its technology and platform, such as Java, C++, BPEL, or Spring.
+- SCA provides a declarative and modular way of developing, assembling, and deploying composite applications using a SOA.

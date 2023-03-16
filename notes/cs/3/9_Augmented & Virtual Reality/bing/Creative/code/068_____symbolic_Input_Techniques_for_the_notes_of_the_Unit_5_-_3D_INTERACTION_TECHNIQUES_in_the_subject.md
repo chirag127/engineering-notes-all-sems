@@ -1,0 +1,13 @@
+### Symbolic Input Techniques
+
+Symbolic input is the task in which users communicate symbolic information (text, numbers, and other symbols or marks) to the system . Symbolic input is often used for tasks such as entering commands, queries, annotations, labels, passwords, etc. Symbolic input can be challenging in 3D interaction, especially in immersive virtual environments (VEs), due to the lack of physical keyboards, the difficulty of text entry with 3D input devices, and the potential interference with spatial tasks .
+
+Some of the common symbolic input techniques for 3D interaction are:
+
+- **Keyboard-based techniques**: These techniques use physical or virtual keyboards to enter text or symbols. Physical keyboards can be attached to the user's body or placed in a fixed location, but they may not be easily accessible or visible in immersive VEs. Virtual keyboards can be displayed on a 2D or 3D surface, such as a screen, a tablet, a wall, or a hand, and can be operated by pointing, touching, or gesturing. Virtual keyboards can be customized to the application or the user's preferences, but they may take up screen space, occlude the 3D scene, or require precise input  .
+
+- **Pen-based techniques**: These techniques use a pen or a stylus to write or draw symbols on a 2D or 3D surface, such as a paper, a tablet, a wall, or a hand. Pen-based techniques can leverage the user's natural handwriting skills, but they may require handwriting recognition, which can be error-prone or slow. Pen-based techniques can also be used to create sketches or diagrams, which can be useful for expressing spatial or graphical information  .
+
+- **Gesture-based techniques**: These techniques use hand or body gestures to create symbols or commands in 3D space. Gesture-based techniques can be performed with or without a handheld device, such as a wand, a glove, or a controller. Gesture-based techniques can be intuitive, expressive, and efficient, but they may require gesture recognition, which can be error-prone or slow. Gesture-based techniques can also be used to create 3D shapes or paths, which can be useful for expressing spatial or graphical information  .
+
+- **Speech-based techniques**: These techniques use voice input to speak symbols or commands to the system. Speech-based techniques can be performed hands-free, eyes-free, and in any orientation, which can be useful for multitasking or mobility. Speech-based techniques can also leverage the user's natural language skills, but they may require speech recognition, which can be error-prone or slow. Speech-based techniques can also be used to create natural language queries or commands, which can be useful for expressing complex or abstract information  .

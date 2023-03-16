@@ -1,0 +1,26 @@
+### Design of Activity Services (or Business Services) for Service-Oriented Analysis and Design
+
+- Activity services (or business services) are services that encapsulate a set of related business tasks or processes, such as order processing, inventory management, or customer service.
+- Activity services are designed to support the business goals and requirements of an organization, and to provide reusable and interoperable functionality for different applications and consumers.
+- Service-oriented analysis and design (SOAD) is a methodology that refers to the modeling and design for service-oriented architecture (SOA) applications, which are composed of loosely coupled and distributed services that communicate via standard protocols and interfaces.
+- SOAD involves the following key elements:
+  - Service identification: the process of discovering and defining the services that are needed to support the business processes and goals, and to fulfill the functional and non-functional requirements of the consumers.
+  - Service specification: the process of describing the service contract, which defines the interface, operations, parameters, messages, policies, and quality of service of the service.
+  - Service realization: the process of implementing the service logic, which may involve the development of new components, the reuse of existing components, or the orchestration of other services.
+  - Service deployment: the process of deploying the service to the target environment, which may involve the configuration of the service infrastructure, the registration of the service in a service registry, and the testing of the service functionality and performance.
+  - Service governance: the process of managing the service lifecycle, which may involve the monitoring, evaluation, and improvement of the service quality, availability, reliability, security, and compliance.
+- The design of activity services for SOAD follows a top-down, bottom-up, or meet-in-the-middle approach:
+  - Top-down approach: the design starts from the business process level, and then decomposes the process into smaller tasks or activities, which are then mapped to the corresponding services. This approach ensures the alignment of the services with the business goals and requirements, but may require more effort and time to implement the services.
+  - Bottom-up approach: the design starts from the existing components or systems, and then identifies and exposes the services that can be reused or integrated. This approach leverages the existing assets and reduces the development cost and time, but may result in services that are not well aligned with the business goals and requirements.
+  - Meet-in-the-middle approach: the design combines the top-down and bottom-up approaches, and then reconciles the gaps and overlaps between the services identified from both perspectives. This approach balances the benefits and drawbacks of the other two approaches, but may require more coordination and communication among the stakeholders.
+- The design of activity services for SOAD follows a set of principles and best practices :
+  - Service abstraction: the service should hide the implementation details and expose only the essential information through the service contract.
+  - Service autonomy: the service should have a high degree of control and independence over its logic and resources, and minimize the dependencies and impacts from other services or components.
+  - Service reusability: the service should provide a generic and modular functionality that can be reused by different consumers and applications, and avoid duplication and redundancy.
+  - Service statelessness: the service should minimize the retention of state information within the service, and delegate the state management to the consumers or external systems, to improve the scalability and performance of the service.
+  - Service discoverability: the service should provide sufficient and accurate metadata that describes the service contract, policies, and quality of service, and register the metadata in a service registry, to facilitate the discovery and selection of the service by the consumers.
+  - Service composability: the service should be designed to participate in the composition or orchestration of other services, and to support the dynamic and flexible integration of the services.
+  - Service granularity: the service should have an appropriate level of granularity, which balances the complexity, functionality, reusability, and performance of the service, and matches the needs and expectations of the consumers.
+  - Service interoperability: the service should use standard protocols and formats to communicate with other services or components, and adhere to the common policies and agreements, to ensure the compatibility and consistency of the service.
+  - Service loose coupling: the service should minimize the dependencies and assumptions between the service and the consumers or other services, and allow the changes or variations of the service without affecting the others.
+  - Service contract standardization: the service should use a common and consistent way to define and document the service contract, which specifies the interface, operations, parameters, messages, policies, and quality of

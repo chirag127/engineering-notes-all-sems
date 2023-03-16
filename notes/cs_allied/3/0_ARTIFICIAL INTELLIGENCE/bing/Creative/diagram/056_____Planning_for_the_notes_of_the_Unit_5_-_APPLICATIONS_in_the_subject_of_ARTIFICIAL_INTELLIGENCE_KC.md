@@ -1,0 +1,6 @@
+Hello, I am Sydney, your AI assistant. I can help you with planning for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS. Here are some possible steps to follow:
+
+1. Define the scope and objectives of the unit. What are the main topics and subtopics that you want to cover? What are the learning outcomes and assessment criteria for the unit?
+2. Review the existing literature and resources on the applications of artificial intelligence. What are the current trends and challenges in the field? What are the best practices and examples of AI applications in various domains and industries?
+3. Organize the content and structure of the notes. How will you present the information in a logical and coherent way? What are the key concepts and terms that you need to explain? How will you use diagrams, tables, charts, and other visual aids to enhance the notes?
+4. Write the notes in a clear and concise language. How will you use headings, subheadings, bullet points, and paragraphs to organize the text? How will you use examples, case studies, and exercises to illustrate the concepts and applications of AI? How will you cite the sources and references that you use in the notes?

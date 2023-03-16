@@ -1,0 +1,22 @@
+### Likelihood Distortions for Speech Analysis
+
+- Likelihood distortions are measures of the similarity or dissimilarity between two short-time spectra of speech signals.
+- They are used to compare the spectral features of speech signals for speech recognition, enhancement, coding, and synthesis applications.
+- There are different types of likelihood distortions, such as:
+  - Log likelihood ratio (LLR): the negative logarithm of the ratio of the probability densities of two spectra.
+  - Likelihood ratio (LR): the ratio of the probability densities of two spectra.
+  - Itakura-Saito (IS): the negative logarithm of the LR minus the LR plus one.
+  - Cepstral (CEP): the squared Euclidean distance between the cepstral coefficients of two spectra.
+  - Weighted likelihood ratio (WLR): the LLR weighted by a perceptual weighting function that emphasizes the spectral regions with higher auditory sensitivity.
+  - Weighted slope metric (WSM): the squared Euclidean distance between the slopes of the log spectra weighted by a perceptual weighting function.
+- The choice of the likelihood distortion measure depends on the application and the characteristics of the speech signals.
+- Some factors that affect the performance of the likelihood distortion measures are:
+  - The spectral resolution and frequency warping of the spectra.
+  - The inclusion or exclusion of the energy, gain, and loudness information of the spectra.
+  - The perceptual relevance and robustness of the distortion measure to noise and channel variations.
+- Some studies have compared the performance of different likelihood distortion measures for speech recognition using dynamic time warping (DTW) algorithms.
+- Some of the findings are:
+  - The LLR and WSM distortion measures gave the highest recognition accuracy, while the IS distortion measure gave the lowest score .
+  - The addition of suprasegmental energy information helped the recognition performance, while the use of gain and absolute loudness degraded the performance .
+  - Bark-scale frequency warping did not perform as well as its unwarped counterpart for highly bandlimited telephone data .
+  - The WLR distortion measure did not perform as well as its unweighted counterpart .

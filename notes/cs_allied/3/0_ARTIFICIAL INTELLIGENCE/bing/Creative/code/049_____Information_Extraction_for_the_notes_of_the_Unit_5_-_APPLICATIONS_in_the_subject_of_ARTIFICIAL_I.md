@@ -1,0 +1,16 @@
+# Information Extraction
+
+Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents and other electronically represented sources. It is a subfield of artificial intelligence (AI) that aims to mimic the human ability to analyze data and extract relevant information.
+
+Some of the applications of information extraction are:
+
+- **Document analysis**: Information extraction can be used to process various types of documents, such as invoices, receipts, contracts, forms, etc., and extract key information, such as dates, amounts, names, addresses, etc. This can help automate workflows, reduce errors, and improve efficiency .
+- **Text summarization**: Information extraction can be used to generate concise summaries of long texts, such as news articles, research papers, reviews, etc., by identifying the main topics, entities, and facts in the texts. This can help users quickly grasp the main points and save time.
+- **Sentiment analysis**: Information extraction can be used to detect the opinions, emotions, and attitudes of the authors or speakers in texts or speech, such as tweets, comments, reviews, etc., by extracting the polarity, intensity, and subjectivity of the expressions. This can help businesses understand customer feedback, monitor brand reputation, and improve products and services.
+- **Knowledge base construction**: Information extraction can be used to populate structured databases or knowledge graphs with information from various sources, such as web pages, books, articles, etc., by extracting entities, relations, and attributes. This can help create rich and comprehensive knowledge bases that can support various tasks, such as question answering, recommendation, reasoning, etc.
+
+Some of the techniques used for information extraction are:
+
+- **Rule-based method**: This method utilizes specific rules for extracting the text out of a given document. The rules can be based on regular expressions, patterns, keywords, syntax, semantics, etc. This method is simple and transparent, but it requires manual effort to create and maintain the rules, and it may not generalize well to new or diverse data.
+- **Machine learning method**: This method utilizes statistical models that learn from labeled or unlabeled data to extract the text out of a given document. The models can be based on supervised, semi-supervised, or unsupervised learning, and they can use various features, such as words, n-grams, part-of-speech tags, named entities, etc. This method is flexible and scalable, but it requires a large amount of data to train the models, and it may not be interpretable or explainable.
+- **Hybrid method**: This method combines the rule-based and machine learning methods to leverage the strengths and overcome the weaknesses of both methods. The hybrid method can use rules to guide or constrain the machine learning models, or use machine learning models to generate or refine the rules. This method can achieve high accuracy and robustness, but it may be complex and challenging to implement.

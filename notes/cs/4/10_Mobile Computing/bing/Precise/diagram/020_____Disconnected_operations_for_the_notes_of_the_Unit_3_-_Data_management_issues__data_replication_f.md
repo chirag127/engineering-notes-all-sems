@@ -1,0 +1,11 @@
+### Disconnected Operations
+- Disconnected operations refer to the ability of a mobile device to continue functioning even when it is not connected to a network.
+- This is an important feature for mobile devices as they often operate in environments where network connectivity is not always available.
+- To support disconnected operations, mobile devices must be able to store and access data locally.
+- Data replication is one technique used to support disconnected operations.
+- Data replication involves creating copies of data and storing them on multiple devices.
+- This allows mobile devices to access data even when they are not connected to a network.
+- Adaptive clustering is another technique used to support disconnected operations.
+- Adaptive clustering involves grouping mobile devices into clusters based on their location and connectivity.
+- This allows mobile devices to share data and resources within their cluster, even when they are not connected to a network.
+- These techniques are important for supporting data management on mobile devices and enabling them to operate effectively in environments with limited network connectivity.

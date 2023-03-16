@@ -1,0 +1,21 @@
+# Programming for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Cluster computing is a collection of tightly or loosely connected computers that work together so that they act as a single entity  .
+- Each computer that is linked to the network is known as a node .
+- Cluster computing provides solutions to solve difficult problems by providing faster computational speed, and enhanced data integrity .
+- Cluster computing architecture is designed with an array of interconnected individual computers and the computer systems operating collectively as a single, integrated computing resource .
+- A node can be either a single processor or a multiprocessor system, and can have its own memory, disk, and I/O subsystems .
+- Cluster computing can be classified into different types based on the level of coupling, the degree of resource sharing, and the communication pattern among the nodes .
+- Some of the common types of cluster computing are:
+  - High-availability (HA) clusters: These clusters provide continuous availability of services by eliminating single points of failure and by failing over services from one node to another in case a node becomes unavailable .
+  - Load-balancing clusters: These clusters distribute the workload among the nodes to optimize the resource utilization and to improve the performance and scalability of the system .
+  - High-performance computing (HPC) clusters: These clusters provide high computational power for solving complex scientific and engineering problems that require a large number of CPU cycles or huge amounts of data .
+- Some of the advantages of cluster computing are:
+  - Cost-effectiveness: Cluster computing can reduce the cost of hardware and software by using commodity components and open-source software .
+  - Scalability: Cluster computing can easily add or remove nodes to adjust the system capacity according to the demand .
+  - Reliability: Cluster computing can increase the system reliability by providing fault tolerance and redundancy mechanisms .
+  - Performance: Cluster computing can improve the system performance by parallelizing the tasks and distributing the workload among the nodes .
+- Some of the applications of cluster computing are:
+  - Web servers: Cluster computing can handle the high volume of web requests and provide high availability and load balancing for web services .
+  - Database servers: Cluster computing can provide fast and reliable access to large and complex databases by using distributed and parallel database techniques .
+  - Scientific computing: Cluster computing can solve computationally intensive problems in various domains such as physics, chemistry, biology, astronomy, etc. by using parallel and distributed algorithms and frameworks .

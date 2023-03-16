@@ -1,0 +1,22 @@
+### Data encryption standard(DES)
+
+- Data encryption standard (DES) is a **symmetric-key** algorithm for the encryption of digital data    .
+- Symmetric-key algorithms use the **same key** for encryption and decryption    .
+- DES encrypts data in **blocks** of size of **64 bits** each, which means 64 bits of plain text go as the input to DES, which produces 64 bits of ciphertext  .
+- DES uses a **key length** of **56 bits**, which is divided into eight 7-bit subkeys and one parity bit for each subkey    .
+- DES is an implementation of a **Feistel cipher**, which is a structure that divides the input block into two halves and applies a series of rounds of substitution and permutation operations on them  .
+- DES uses **16 rounds** of Feistel structure, where each round uses a different subkey derived from the main key   .
+- DES also uses an **initial permutation** and a **final permutation** on the input and output blocks, respectively, which are the inverse of each other  .
+- DES is based on the principles of **confusion and diffusion**, which are proposed by Claude Shannon to make a cipher secure  .
+- Confusion means that the relationship between the key and the ciphertext should be complex and obscure, which is achieved by using **nonlinear substitution** functions called S-boxes in DES  .
+- Diffusion means that the influence of one bit of plaintext or key should spread to many bits of ciphertext, which is achieved by using **permutation** functions called P-boxes in DES  .
+- DES was adopted as a standard by the National Institute of Standards and Technology (NIST) in 1977 for government agencies to protect sensitive data  .
+- DES was officially retired in 2005, as it was found to be insecure against **brute-force attacks** and **differential cryptanalysis**  .
+- Brute-force attacks are possible because of the short key length of 56 bits, which can be searched exhaustively by modern computers  .
+- Differential cryptanalysis is a technique that exploits the statistical properties of the S-boxes and the Feistel structure to recover the key from a large number of plaintext-ciphertext pairs  .
+- A variant of DES called **Triple DES** (3DES) was proposed to increase the security of DES by using three keys and three rounds of encryption    .
+- 3DES has a key length of 168 bits, but its effective key length is 112 bits, as the third key is used to decrypt the second round, which is equivalent to encrypting with the first key again    .
+- 3DES is more secure than DES, but it is also slower and more complex    .
+- DES and 3DES can be used in different **modes of operation**, which define how to encrypt multiple blocks of data  .
+- The most common modes of operation are **electronic codebook (ECB)**, **cipher block chaining (CBC)**, **cipher feedback (CFB)**, and **output feedback (OFB)**  .
+- ECB mode encrypts each block independently with the same key, which makes it simple but also vulnerable to **

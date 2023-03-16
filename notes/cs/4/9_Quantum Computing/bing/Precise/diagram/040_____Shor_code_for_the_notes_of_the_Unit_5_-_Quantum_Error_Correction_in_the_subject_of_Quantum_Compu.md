@@ -1,0 +1,6 @@
+### Shor code for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Quantum error correction (QEC) is used in quantum computing to protect quantum information from errors due to decoherence and other quantum noise .
+- The Shor code works by first taking the computational state of the main qubit and transferring it to the 3rd and 6th qubit. These qubits are used for correcting phase errors. After this, these qubits are put into superposition using a Hadamard gate .
+- This code protects against a bit flip, which is the only possible error that can occur in classical computing. But qubits have one more potential source of error. Superpositions are the key to quantum computing, but it’s not just the value of the qubit that’s important. The relative “phase” between qubits matters too .
+- Quantum error correction will play an essential role in the realization of quantum computing. So understanding quantum error correction codes is basic to understand and be familiar with the current and future of the quantum information processing and the quantum computation .

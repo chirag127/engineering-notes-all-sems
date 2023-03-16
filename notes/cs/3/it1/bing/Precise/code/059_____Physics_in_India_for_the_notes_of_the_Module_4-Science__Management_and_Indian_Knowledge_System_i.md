@@ -1,0 +1,8 @@
+### Physics in India
+
+- The Department of Physics at the Indian Institute of Science Bangalore was established in 1933 by Nobel Laureate C.V. Raman. It has evolved into the leading center in the country for advanced postgraduate education and cutting-edge research in physics.
+- The largest number of Ph.D.s in physics in India, 110 since 1998, come from this department. Graduates from the department have gone on to distinguished careers in science and occupy leading positions in research institutes in India and the world over.
+- The Nyaya and Vaisheshika philosophies encouraged a scientific culture in ancient India. These aspects are dealt with in present-day physics, through the laws of motion, gravitation, thermodynamics, wave mechanics, hydrostatics, classical and quantum mechanics, nuclear and atomic physics, and electromagnetic theory.
+- India has produced stars in physics and astronomy over the past century, such as Satyendra Nath Bose and Nobel Prize winner C. V. Raman. In 1945, nuclear physicist Homi Bhabha established the internationally respected Tata Institute of Fundamental Research (TIFR) in Mumbai.
+- There are many famous Indian physicists, including Homi J. Bhabha and Jayant Narlikar.
+- Physics education in India includes topics such as electric charges and fields, electrostatic potential and capacitance, current electricity, moving charges and magnetism, and magnetism and matter.

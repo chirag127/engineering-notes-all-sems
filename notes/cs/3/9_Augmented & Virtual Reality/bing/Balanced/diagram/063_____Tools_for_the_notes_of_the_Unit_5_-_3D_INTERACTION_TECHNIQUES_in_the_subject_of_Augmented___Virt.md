@@ -1,0 +1,22 @@
+### Tools for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- 3D interaction techniques are methods for interacting with 3D environments and objects using 3D input devices and modalities.
+- 3D interaction techniques can be classified into four categories based on the tasks they support :
+  - Navigation: moving the viewpoint or the user in the 3D space.
+  - Selection: choosing one or more 3D objects or regions of interest.
+  - Manipulation: changing the position, orientation, size, shape, or appearance of 3D objects.
+  - System control: accessing menus, dialogs, or commands in the 3D environment.
+- Some examples of 3D interaction techniques are  :
+  - Pointing: using a ray or a cursor to select or manipulate distant objects.
+  - Grabbing: using a hand or a tool to grasp and move objects in the 3D space.
+  - Flying: using a joystick, a mouse, or a gesture to control the direction and speed of the viewpoint movement.
+  - Walking: using a treadmill, a motion platform, or a gesture to simulate walking in the 3D space.
+  - Scaling: using a pinch gesture, a slider, or a voice command to change the size of the 3D objects or the user.
+  - Deformation: using a brush, a glove, or a haptic device to modify the shape of the 3D objects.
+  - Menu: using a button, a gesture, or a voice command to access a list of options or commands in the 3D environment.
+  - Widget: using a 3D graphical element, such as a knob, a dial, or a slider, to control a parameter or a function in the 3D environment.
+- Some tools for taking notes on 3D interaction techniques are :
+  - Sketching: using a pen and paper, a tablet, or a VR headset to draw diagrams or illustrations of the 3D interaction techniques.
+  - Annotation: using a text editor, a voice recorder, or a VR headset to write or speak notes or comments on the 3D interaction techniques.
+  - Video recording: using a camera, a screen capture software, or a VR headset to record videos of the 3D interaction techniques in action.
+  - Evaluation: using a questionnaire, a rating scale, or a VR headset to measure the usability, performance, or satisfaction of the 3D interaction techniques.

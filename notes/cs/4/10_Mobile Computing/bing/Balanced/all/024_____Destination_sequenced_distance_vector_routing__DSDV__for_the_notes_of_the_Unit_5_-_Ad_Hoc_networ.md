@@ -1,0 +1,35 @@
+# Destination sequenced distance vector routing (DSDV)
+
+- Destination sequenced distance vector routing (DSDV) is a table-driven routing scheme for ad hoc mobile networks based on the Bellman–Ford algorithm.
+- It was developed by C. Perkins and P. Bhagwat in 1994.
+- The main contribution of the algorithm was to solve the routing loop problem.
+- It adds a new attribute, sequence number, to each route table entry of the conventional Routing Information Protocol (RIP).
+- Using the newly added sequence number, the mobile nodes can distinguish stale route information from the new and thus prevent the formation of routing loops.
+- A limitation of DSDV is that it provides only one route for a source/destination pair.
+- DSDV is also based on distance vector routing and thus uses bidirectional links.
+- DSDV requires each node to periodically broadcast routing updates.
+- This is a table driven algorithm based on modifications made to the Bellman-Ford routing mechanism.
+- DSDV can be classified into two categories: full dump and incremental.
+- Full dump broadcasts the entire routing table to the neighbors, while incremental broadcasts only the entries that have changed since the last update.
+- DSDV uses two types of packets for routing updates: update packets and request packets.
+- Update packets contain the routing information, such as destination address, next hop, number of hops, and sequence number.
+- Request packets are used to request routing information from the neighbors when a node does not have a route to a destination.
+- DSDV maintains two tables: a routing table and a neighbor table.
+- The routing table stores the routing information for each destination, such as next hop, number of hops, sequence number, and a flag to indicate the status of the route.
+- The neighbor table stores the information about the neighbors, such as their addresses, sequence numbers, and the status of the link.
+- DSDV uses two rules to update the routing table:
+  - If a new route has a higher sequence number than the existing one, it replaces the existing one.
+  - If a new route has the same sequence number as the existing one, but a lower metric (number of hops), it replaces the existing one.
+- DSDV also uses a settling time to reduce the fluctuations in the routing table.
+- The settling time is the time interval between receiving a routing update and broadcasting it to the neighbors.
+- If a node receives a better route for a destination within the settling time, it cancels the previous update and broadcasts the new one.
+- DSDV has some advantages and disadvantages:
+  - Advantages:
+    - It avoids routing loops by using sequence numbers.
+    - It provides consistent and up-to-date routing information.
+    - It is simple and easy to implement.
+  - Disadvantages:
+    - It generates a lot of overhead due to periodic updates.
+    - It wastes bandwidth and battery power by broadcasting unnecessary updates.
+    - It does not support multipath routing.
+    - It does not adapt well to dynamic network topology.

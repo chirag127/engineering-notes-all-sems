@@ -1,0 +1,13 @@
+### SOA Governance – Best Practices
+
+SOA governance is the process of establishing and enforcing policies, standards, and guidelines for the design, development, and operation of service-oriented architecture (SOA) solutions. SOA governance aims to ensure that the SOA delivers the expected business value, aligns with the organizational strategy, and complies with the regulatory and security requirements.
+
+Some of the best practices for SOA governance are:
+
+- **Get buy-in from management.** SOA governance requires the support and commitment of the senior management, as well as the involvement of the business and IT stakeholders. SOA governance should be aligned with the business vision, goals, and priorities, and should demonstrate the benefits and value proposition of SOA to the organization.
+- **Choose a champion.** SOA governance needs a leader who can guide the governance process, communicate the vision and strategy, and resolve the issues and conflicts that may arise. The champion should have the authority, credibility, and influence to drive the SOA adoption and ensure the compliance with the governance policies.
+- **Start small, then evolve.** SOA governance should not be implemented as a big bang, but rather as an incremental and iterative approach. SOA governance should start with a pilot project or a domain that has a clear business case and a high potential for reuse. SOA governance should then be expanded and refined based on the feedback, lessons learned, and changing needs of the organization.
+- **Avoid \"death by governance.\"** SOA governance should not be too rigid, complex, or bureaucratic, as it may hinder the innovation, agility, and productivity of the SOA developers and consumers. SOA governance should balance the control and flexibility, and focus on the critical and high-impact aspects of SOA. SOA governance should also be automated and monitored as much as possible, using tools and metrics that can track the SOA performance, quality, and compliance.
+- **Communicate that \"governance is there to help.\"** SOA governance should not be perceived as a burden or a constraint, but rather as a facilitator and an enabler of SOA success. SOA governance should foster a culture of collaboration, trust, and accountability among the SOA stakeholders, and provide them with the guidance, support, and incentives to follow the governance policies. SOA governance should also promote the awareness, education, and recognition of the SOA best practices and achievements.
+
+: SOA Governance for the Organization: Best Practices for Getting Started, https://www.dbizinstitute.org/resources/articles/soa-governance-organization-best-practices-getting-started

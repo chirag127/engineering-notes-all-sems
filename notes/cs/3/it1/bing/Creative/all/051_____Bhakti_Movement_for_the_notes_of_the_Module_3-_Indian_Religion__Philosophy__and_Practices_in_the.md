@@ -1,0 +1,10 @@
+# Bhakti Movement
+
+- The Bhakti movement was a significant religious movement in medieval Hinduism that sought to bring religious reforms to all strata of society by adopting the method of devotion to achieve salvation.
+- Bhakti means "devotion" or "love" in Sanskrit, and it refers to the intense emotional attachment and love of a devotee toward a personal god and of the god for the devotee.
+- The Bhakti movement preached against the caste system, ritualism, idolatry, and social inequalities, and used the local languages to convey its message to the masses.
+- The Bhakti movement originated in South India in the 7th-8th centuries CE, with the Alvars (devotees of Vishnu) and the Nayanars (devotees of Shiva), who composed hymns and songs in praise of their respective deities.
+- The Bhakti movement spread to North India in the 12th-13th centuries CE, with the emergence of various sects and schools, such as the Vaishnavism of Ramananda, Ramanuja, and Vallabha, the Shaivism of Basava and Gorakhnath, and the Shaktism of Ramprasad Sen and Chaitanya Mahaprabhu.
+- The Bhakti movement also influenced the development of Sikhism, a monotheistic religion founded by Guru Nanak in the 15th century CE, which incorporated elements of both Hinduism and Islam.
+- The Bhakti movement had a profound impact on the social, cultural, and literary aspects of Indian society, as it fostered a spirit of tolerance, harmony, and universal brotherhood among the people, and produced a rich and diverse body of literature, music, art, and architecture.
+- The Bhakti movement also contributed to the practice of yoga, as it emphasized the importance of meditation, chanting, and surrender to the divine will as means of attaining union with the supreme reality. Bhakti yoga is one of the four main paths of yoga, along with karma yoga (action), jnana yoga (knowledge), and raja yoga (meditation).

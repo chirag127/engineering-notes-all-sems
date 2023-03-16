@@ -1,0 +1,7 @@
+### Total Causal Order
+
+- Total causal order is a property of message delivery in distributed systems that ensures that all messages are delivered in a consistent and logical order across all processes .
+- Total causal order implies that if a message m1 causally precedes a message m2, then m1 is delivered before m2 by all processes. Moreover, if m1 and m2 are concurrent, meaning that they are not causally related, then they are delivered in the same order by all processes  .
+- Total causal order is the strictest form of ordering in distributed systems, as it establishes a single linearization of all events that occur in the system, even those that are concurrent. This means that the execution of the system is considered as synchronous, and there is no ambiguity or inconsistency in the global state of the system .
+- Total causal order can be implemented by using a logical clock, such as a vector clock, to assign timestamps to each message that reflect the causal dependencies among them. Then, a message delivery protocol, such as a sequencer or a consensus algorithm, can be used to ensure that all processes agree on the order of messages based on their timestamps .
+- Total causal order is useful for applications that require strong consistency and coordination among distributed processes, such as distributed databases, replicated state machines, or distributed transactions . However, it also introduces a high overhead and latency in message delivery, as it requires global synchronization and agreement among all processes .

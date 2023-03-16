@@ -1,0 +1,9 @@
+### Acoustics of Speech Production
+
+- Acoustics of speech production is the study of how speech sounds are generated and modified by the human vocal tract and the physical properties of the resulting sound waves .
+- Speech production involves a complex interaction of three main components: the sound source, the vocal tract filter, and the radiation at the lips .
+- The sound source is the part of the speech production system that provides the acoustic energy for speech. It can be either voiced or voiceless, depending on whether the vocal folds vibrate or not .
+- The vocal tract filter is the part of the speech production system that shapes the sound source by changing the configuration of the oral and nasal cavities. It can be modeled as a series of tubes with varying cross-sectional areas and lengths, which affect the resonance frequencies and the spectral envelope of the sound source  .
+- The radiation at the lips is the part of the speech production system that transmits the sound from the vocal tract to the air. It can be modeled as a high-pass filter that attenuates the low-frequency components of the sound source and amplifies the high-frequency components .
+- The acoustic theory of speech production is a mathematical model that describes how the sound source, the vocal tract filter, and the radiation at the lips combine to produce the acoustic speech signal. It is based on the source-filter theory, which assumes that the sound source and the vocal tract filter are independent of each other and that the radiation at the lips is a linear function of the sound source  .
+- The acoustic theory of speech production can be used to analyze and synthesize speech sounds, to measure and model the vocal tract shape and size, and to understand the acoustic cues for speech perception and recognition   .

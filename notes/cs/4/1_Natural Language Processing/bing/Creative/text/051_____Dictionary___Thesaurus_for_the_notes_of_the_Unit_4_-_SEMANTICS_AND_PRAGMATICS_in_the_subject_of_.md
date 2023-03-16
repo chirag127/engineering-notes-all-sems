@@ -1,0 +1,12 @@
+### Dictionary & Thesaurus for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+- A **dictionary** is a collection of words and their meanings, pronunciations, usage examples, and other information. A dictionary can be used to look up the meaning of a word, to check its spelling, or to find synonyms or antonyms.
+- A **thesaurus** is a specialized dictionary that stores synonyms and antonyms of selected words in a language. A thesaurus can be used to find alternative words with similar or opposite meanings, to enrich the vocabulary, or to avoid repetition.
+- In natural language processing (NLP), a dictionary and a thesaurus can be useful resources for various tasks, such as:
+  - **Word sense disambiguation**: the process of identifying the correct meaning of a word in a given context, among multiple possible meanings. A dictionary can provide the definitions of different senses, and a thesaurus can provide the related words for each sense.
+  - **Text summarization**: the process of creating a concise and informative summary of a longer text. A thesaurus can help to find synonyms or paraphrases for the key words or phrases in the text, to reduce redundancy and improve readability.
+  - **Text generation**: the process of creating natural language text from some input, such as a prompt, a query, or a data source. A dictionary can provide the spelling and grammar rules for the target language, and a thesaurus can provide the word choices and variations for the generated text.
+- However, a dictionary and a thesaurus also have some limitations and challenges for NLP, such as:
+  - **Coverage**: a dictionary and a thesaurus may not include all the words and phrases in a language, especially the new, rare, or domain-specific ones. They may also not capture the nuances and connotations of words in different contexts.
+  - **Ambiguity**: a dictionary and a thesaurus may not be able to resolve the ambiguity of words that have multiple meanings or senses, or words that are synonyms or antonyms in some contexts but not in others. They may also not account for the pragmatics and discourse of natural language .
+  - **Complexity**: a dictionary and a thesaurus may not be able to represent the complex and dynamic nature of natural language, such as the syntactic, semantic, and pragmatic relations among words, phrases, sentences, and texts. They may also not be able to handle the variations and changes of language over time and across domains.

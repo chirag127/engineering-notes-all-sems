@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on quantum computing. Here are some guiding principles for the notes of Unit 3 - Quantum Computers:
+
+### Guiding Principles for the notes of the Unit 3 - Quantum Computers
+
+- The notes should cover the main concepts and applications of quantum computers, such as qubits, superposition, entanglement, interference, measurement, quantum gates, quantum algorithms, quantum error correction, and quantum cryptography.
+- The notes should explain the differences and similarities between classical and quantum computers, such as the advantages and limitations of each model, the physical implementations and challenges, and the computational complexity and speed.
+- The notes should use diagrams, examples, and exercises to illustrate and reinforce the concepts and applications of quantum computers. The diagrams should show the quantum circuit representation, the Bloch sphere visualization, and the matrix notation of quantum operations. The examples and exercises should be based on real-world problems and scenarios, such as factoring, search, encryption, and machine learning.
+- The notes should provide references and links to relevant sources and materials for further reading and learning, such as textbooks, articles, videos, podcasts, and online courses. The references and links should be reliable, up-to-date, and accessible.

@@ -1,0 +1,11 @@
+### Architectural Design Challenges
+
+Cloud computing is used for enabling global access to mutual pools of resources such as services, apps, data, servers, and computer networks. It is done on either a third-party server located in a data center or a privately owned cloud. Cloud computing architecture is designed in such a way that it solves latency issues, improves data processing requirements, reduces IT operating costs, and gives good accessibility to access data and digital tools. However, cloud computing also poses some architectural design challenges that need to be addressed, such as:
+
+- **Scalability**: The ability to handle increasing or decreasing workloads without compromising performance, availability, or quality. Cloud computing architecture should be able to scale up or down according to the demand and provide elasticity and flexibility to the users.
+- **Security**: The ability to protect data and resources from unauthorized access, modification, or disclosure. Cloud computing architecture should be able to implement security measures such as encryption, authentication, authorization, auditing, and monitoring to ensure data privacy and integrity.
+- **Reliability**: The ability to deliver consistent and predictable results under normal and abnormal conditions. Cloud computing architecture should be able to handle failures, errors, and faults gracefully and provide backup, recovery, and redundancy mechanisms to ensure availability and durability.
+- **Interoperability**: The ability to communicate and exchange data and services with other systems and platforms. Cloud computing architecture should be able to support standard protocols, formats, and interfaces to enable seamless integration and compatibility with other cloud or non-cloud systems.
+- **Cost-effectiveness**: The ability to optimize the use of resources and minimize the expenses. Cloud computing architecture should be able to provide pay-as-you-go models, resource pooling, and automation to reduce operational and capital costs and increase efficiency and productivity.
+
+These are some of the architectural design challenges that cloud computing faces and needs to overcome to provide a better user experience and service quality.

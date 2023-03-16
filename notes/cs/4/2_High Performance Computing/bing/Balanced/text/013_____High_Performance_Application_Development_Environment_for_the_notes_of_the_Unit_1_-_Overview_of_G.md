@@ -1,0 +1,12 @@
+### High Performance Application Development Environment
+
+- A high performance application development environment is a set of tools, frameworks, and practices that enable developers to create, test, deploy, and optimize applications that run on high performance computing (HPC) systems, such as clusters, grids, clouds, or supercomputers.
+- A high performance application development environment typically consists of the following components  :
+  - A development server, where the code is written, compiled, debugged, and tested using various tools and libraries. The development server may also support parallel programming models, such as MPI, OpenMP, or CUDA, to enable distributed and accelerated computation.
+  - A staging server, where the application is deployed and validated in a simulated or emulated environment that resembles the target production system. The staging server may also support performance analysis, profiling, and tuning tools to identify and resolve bottlenecks and optimize the application for the target system.
+  - A production server, where the application is finally executed on the actual HPC system, using the available resources, such as processors, memory, storage, network, and accelerators. The production server may also support monitoring, logging, and troubleshooting tools to ensure the reliability, availability, and scalability of the application.
+- A high performance application development environment may also support the following features and benefits  :
+  - DevOps-centric approaches, such as continuous integration, continuous delivery, and continuous testing, to enable faster, more efficient, and more collaborative development and delivery of high-quality applications.
+  - Cloud-based architectures, such as microservices, serverless, or containers, to enable more flexible, scalable, and resilient applications that can leverage the cloud features, such as resource elasticity, software-defined networking, auto-provisioning, high availability, and load balancing.
+  - Project-based templates, such as Azure Deployment Environments, to enable quick and easy creation and management of development environments that are tailored to the current stage of development and adhere to the best practices and standards.
+  - Managed developer services, such as Azure DevTest Labs, GitHub Codespaces, or Windows Virtual Desktop, to enable secure and convenient access to development environments from anywhere, without sacrificing governance, cost control, or security.

@@ -1,0 +1,11 @@
+# Storage for Cloud Computing
+
+- Storage for cloud computing is a mode of computer data storage in which digital data is stored on servers in off-site locations.
+- The servers are maintained by a third-party provider who is responsible for hosting, managing, and securing data stored on its infrastructure.
+- The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a hosting company.
+- The cloud storage is a computer data storage model in which the data that is digital in format is stored, and hence it is said to be on the cloud, in logical pools.
+- The cloud storage offers several advantages over traditional data storage, such as scalability, availability, durability, cost-effectiveness, and accessibility .
+- The cloud storage can be classified into three main types based on the level of abstraction and the access methods: object storage, file storage, and block storage.
+- Object storage is a type of cloud storage that stores data as objects, which consist of data and metadata. The data is stored in a flat namespace, and the objects are identified by unique identifiers. The metadata can include information such as creation date, size, type, and custom attributes. Object storage is suitable for applications that require scalability and metadata features, such as web applications, big data analytics, and multimedia content.
+- File storage is a type of cloud storage that stores data as files, which are organized in a hierarchical structure of folders and subfolders. The files are accessed by using standard protocols, such as NFS and SMB. File storage is suitable for applications that require a shared file system, such as legacy applications, document management, and collaboration.
+- Block storage is a type of cloud storage that stores data as blocks, which are fixed-sized chunks of data. The blocks are accessed by using low-level protocols, such as iSCSI and Fibre Channel. Block storage is suitable for applications that require high performance and low latency, such as databases, virtual machines, and transactional systems.

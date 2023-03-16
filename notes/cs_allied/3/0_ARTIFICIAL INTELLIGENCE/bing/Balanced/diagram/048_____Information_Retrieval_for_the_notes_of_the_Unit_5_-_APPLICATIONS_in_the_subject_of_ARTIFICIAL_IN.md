@@ -1,0 +1,13 @@
+### Information Retrieval for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Information retrieval (IR) is the process of finding and accessing relevant information from a large collection of documents, such as web pages, books, articles, etc. 
+- IR involves activities related to human cognition and knowledge management, such as understanding the user's information need, representing the documents and queries, ranking and retrieving the most relevant documents, and presenting the results to the user.
+- Artificial intelligence (AI) is the branch of computer science that aims to create systems that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, natural language processing, computer vision, etc.
+- AI methods are employed throughout the standard IR process and for novel value-added services, such as question answering, summarization, personalization, recommendation, etc. 
+- AI techniques can help to account for the intrinsic uncertainty and imprecision that characterize the subjectivity of IR, such as dealing with natural language, user preferences, document quality, etc.
+- AI concepts that are applicable in IR include pattern recognition, representation, problem solving and planning, heuristics, and learning. 
+- Pattern recognition is the ability to identify and classify patterns in data, such as words, images, sounds, etc. Pattern recognition techniques can be used for document analysis, feature extraction, text classification, image retrieval, speech recognition, etc. 
+- Representation is the way of encoding and organizing the information in a system, such as using symbols, rules, graphs, vectors, matrices, etc. Representation techniques can be used for document indexing, query formulation, relevance feedback, semantic analysis, etc. 
+- Problem solving and planning is the ability to find solutions to complex and ill-defined problems, such as finding the optimal set of documents that satisfy the user's information need. Problem solving and planning techniques can be used for query expansion, query optimization, document ranking, result diversification, etc. 
+- Heuristics are rules of thumb or shortcuts that can guide the search process and reduce the search space, such as using frequency, popularity, recency, authority, etc. Heuristics can be used for document filtering, query reformulation, result clustering, result ranking, etc. 
+- Learning is the ability to acquire and improve knowledge and skills from data and feedback, such as using supervised, unsupervised, or reinforcement learning methods. Learning techniques can be used for document classification, query classification, relevance estimation, user modeling, etc.

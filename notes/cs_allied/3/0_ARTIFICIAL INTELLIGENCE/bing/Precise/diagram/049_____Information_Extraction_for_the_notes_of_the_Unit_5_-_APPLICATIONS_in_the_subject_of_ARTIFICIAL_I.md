@@ -1,0 +1,5 @@
+### Information Extraction
+
+Information Extraction (IE) is one of the applications of Artificial Intelligence (AI) that is covered in Unit 5 of the KCS 071 course. It is a type of language processing that involves automatically extracting useful information from unstructured data sources. Some of the other AI applications covered in this unit include Language Models, Information Retrieval, Natural Language Processing, Machine Translation, Speech Recognition, Robotics, Hardware, Perception, Planning, and Moving.
+
+IE is a crucial component in the process of transforming raw data into useful information. It can be used to extract relevant information from various sources such as text documents, web pages, and social media. The extracted information can then be used for various purposes such as data analysis, decision making, and knowledge discovery.

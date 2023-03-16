@@ -1,0 +1,23 @@
+### Strategies for Designing and Developing Guidelines and Evaluation for 3D User Interfaces
+
+- 3D user interfaces (3D UIs) are interfaces that allow users to interact with 3D environments and objects using various input and output devices, such as head-mounted displays, controllers, trackers, haptic devices, etc.
+- Designing and developing 3D UIs requires considering the user's needs, goals, preferences, and abilities, as well as the characteristics and constraints of the 3D application domain, the 3D interaction techniques, and the 3D devices.
+- Guidelines are general principles or recommendations that help designers and developers create effective, efficient, and satisfying 3D UIs. They can be derived from theory, research, practice, or experience, and can be domain-specific or general.
+- Evaluation is the process of assessing the quality and performance of 3D UIs using various methods and metrics. Evaluation can be done at different stages of the design and development process, such as before, during, or after implementation, and can have different purposes, such as identifying usability problems, comparing alternatives, or measuring user satisfaction.
+- Some strategies for designing and developing guidelines and evaluation for 3D UIs are:
+
+  - Define the user requirements and the application context. Identify the target users, their tasks, goals, and expectations, as well as the 3D environment, objects, and interactions that the 3D UI should support.
+  - Review existing guidelines and literature. Search for relevant guidelines and research findings that can inform the design and development of the 3D UI. For example,  provides a comprehensive overview of 3D UI design principles and evaluation methods.
+  - Choose appropriate 3D devices and interaction techniques. Select the 3D input and output devices that best suit the user's needs and the application domain, and design or adopt suitable 3D interaction techniques that enable natural, intuitive, and efficient 3D manipulation, navigation, and system control. For example,  discusses various types of 3D devices and interaction techniques, such as 2D, "magic", "natural", multimodal, and two-handed interaction.
+  - Apply and adapt existing guidelines. Apply relevant guidelines to the design and development of the 3D UI, and adapt them as needed to fit the specific context and requirements. For example,   present some general guidelines for 3D UI design and evaluation, such as:
+
+    - Use consistent and meaningful mappings between input and output devices and 3D actions and feedback.
+    - Provide multiple modes of feedback, such as visual, auditory, and haptic, to enhance the user's perception and awareness of the 3D environment and objects.
+    - Support multiple levels of interaction, such as direct, indirect, symbolic, and abstract, to accommodate different user preferences and abilities.
+    - Minimize the cognitive and physical workload of the user by reducing the number of steps, actions, and options required to perform a task.
+    - Avoid occlusion, clutter, and visual fatigue by using appropriate 3D display techniques, such as stereoscopy, perspective, depth cues, and shading.
+    - Conduct cognitive walkthroughs and heuristic evaluations to identify potential usability problems and design flaws in the 3D UI. A cognitive walkthrough is a method of stepping through common tasks that a user would perform and evaluating the interface's ability to support each step. A heuristic evaluation is a method of having several usability experts separately evaluate a UI design by applying a set of design guidelines.
+  - Develop and test prototypes. Implement and test low-fidelity or high-fidelity prototypes of the 3D UI using various tools and platforms, such as Unity, Unreal Engine, WebXR, etc. Prototypes can help validate the design and development decisions, as well as identify and fix technical issues and bugs.
+  - Conduct formative and summative evaluations. Perform observational, empirical evaluations that involve representative users in task-based scenarios to measure the usability, usefulness, and emotional impact of the 3D UI. Formative evaluation is done during the design and development process to identify and improve usability problems. Summative evaluation is done after the implementation to assess and compare the final outcome. For example,   suggest some evaluation methods and metrics for 3D UIs, such as:
+
+    - User performance: the speed, accuracy, and efficiency of the user in completing a task or a subtask using the 3D UI. Performance can be measured by metrics such as task completion time, error

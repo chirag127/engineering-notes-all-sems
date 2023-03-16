@@ -1,0 +1,16 @@
+# Module 2- Indian Literature, Culture, Tradition, and Practices
+
+- Indian literature is the expression of the diverse and rich cultural heritage of India. It includes oral and written forms in various languages, such as Sanskrit, Hindi, Urdu, Tamil, Bengali, Marathi, Gujarati, etc. Indian literature reflects the themes of religion, philosophy, mythology, history, society, and art. Some of the prominent genres of Indian literature are epics, poetry, drama, novels, short stories, essays, and folktales .
+- Indian culture is the collective way of life, values, beliefs, customs, and traditions of the people of India. It is influenced by the ancient civilizations, religions, and diversity of the country. Indian culture is known for its unity in diversity, as it accommodates and respects the differences among various groups and regions. Some of the salient features of Indian culture are   :
+  - The Namaste greeting, which is a gesture of respect and reverence, done by joining the palms together and bowing slightly.
+  - The concept of Dharma, which is the moral duty and righteous conduct of an individual according to his or her role and stage in life.
+  - The belief in Karma, which is the law of cause and effect, according to which one's actions determine one's destiny.
+  - The practice of Yoga, which is a system of physical, mental, and spiritual exercises for achieving harmony and balance.
+  - The celebration of various festivals, such as Diwali, Holi, Eid, Christmas, etc., which mark the occasions of religious, historical, or seasonal significance.
+  - The respect for elders, teachers, and guests, who are considered as equivalent to God.
+  - The joint family system, which is a social structure where several generations live together under one roof and share common resources and responsibilities.
+  - The arranged marriage system, which is a form of matrimonial alliance where the parents or relatives of the bride and groom select the partners for them, based on factors such as caste, religion, education, horoscope, etc.
+  - The diversity of cuisine, which varies from region to region and reflects the local ingredients, climate, and preferences. Some of the common elements of Indian cuisine are rice, wheat, lentils, spices, herbs, vegetables, fruits, dairy products, and meat.
+  - The variety of clothing, which depends on the climate, geography, and culture of the region. Some of the common types of clothing are saree, salwar kameez, kurta, dhoti, sherwani, etc.
+  - The richness of art and architecture, which showcases the creativity, skill, and aesthetics of the Indian people. Some of the examples of Indian art and architecture are the Ajanta and Ellora caves, the Taj Mahal, the Khajuraho temples, the Mughal paintings, the Madhubani paintings, etc.
+  - The diversity of dance and music, which are forms of expression and entertainment, influenced by the regional, religious, and classical traditions. Some of the forms of dance and music are Bharatanatyam, Kathak, Odissi, Kuchipudi, Manipuri, Carnatic, Hindustani, Ghazal, Qawwali, etc.

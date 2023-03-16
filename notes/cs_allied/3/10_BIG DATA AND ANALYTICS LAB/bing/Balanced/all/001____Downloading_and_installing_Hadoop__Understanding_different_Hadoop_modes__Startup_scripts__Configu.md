@@ -1,0 +1,24 @@
+## Downloading and installing Hadoop; Understanding different Hadoop modes. Startup scripts, Configuration files.
+
+- Hadoop is an open-source framework for distributed storage and processing of large-scale data using clusters of commodity hardware.
+- Hadoop consists of four main components: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common.
+- Hadoop can run in different modes: standalone, pseudo-distributed, and fully distributed.
+- Standalone mode is the default mode of Hadoop, where it runs as a single Java process on a local file system. It is mainly used for testing and debugging purposes.
+- Pseudo-distributed mode is where Hadoop runs on a single node, but simulates a cluster by using HDFS and running multiple Java processes. It is useful for development and experimentation.
+- Fully distributed mode is where Hadoop runs on a cluster of multiple nodes, each running one or more Hadoop daemons. It is the production mode of Hadoop, where it can leverage the parallelism and fault tolerance of the cluster.
+- To download and install Hadoop on Ubuntu, follow these steps:
+  - Visit the official Apache Hadoop project page, and select the version of Hadoop you want to implement. The steps outlined in this tutorial use the Binary download for Hadoop Version 3.2.1.
+  - Use the provided mirror link and download the Hadoop package with the wget command: `wget https://downloads.apache.org/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz`
+  - Once the download is complete, extract the files to initiate the Hadoop installation: `tar -xvzf hadoop-3.2.1.tar.gz`
+  - Move the extracted files to the /usr/local directory: `sudo mv hadoop-3.2.1 /usr/local/hadoop`
+  - Set the JAVA_HOME environment variable in the /usr/local/hadoop/etc/hadoop/hadoop-env.sh file: `export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64`
+  - Edit the /usr/local/hadoop/etc/hadoop/core-site.xml file and add the following configuration: `<configuration> <property> <name>fs.defaultFS</name> <value>hdfs://localhost:9000</value> </property> </configuration>`
+  - Edit the /usr/local/hadoop/etc/hadoop/hdfs-site.xml file and add the following configuration: `<configuration> <property> <name>dfs.replication</name> <value>1</value> </property> <property> <name>dfs.namenode.name.dir</name> <value>file:///home/hadoop/hadoopdata/hdfs/namenode</value> </property> <property> <name>dfs.datanode.data.dir</name> <value>file:///home/hadoop/hadoopdata/hdfs/datanode</value> </property> </configuration>`
+  - Create the directories specified in the configuration: `mkdir -p /home/hadoop/hadoopdata/hdfs/namenode` and `mkdir -p /home/hadoop/hadoopdata/hdfs/datanode`
+  - Edit the /usr/local/hadoop/etc/hadoop/mapred-site.xml file and add the following configuration: `<configuration> <property> <name>mapreduce.framework.name</name> <value>yarn</value> </property> </configuration>`
+  - Edit the /usr/local/hadoop/etc/hadoop/yarn-site.xml file and add the following configuration: `<configuration> <property> <name>yarn.nodemanager.aux-services</name> <value>mapreduce_shuffle</value> </property> <property> <name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name> <value>org.apache.hadoop.mapred.ShuffleHandler</value> </property> </configuration>`
+  - Format the namenode using the command: `hdfs namenode -format`
+  - Start the Hadoop daemons using the command: `start-all.sh`
+  - Verify the status of the daemons using the command: `jps`
+  - You should see the following processes running: NameNode, DataNode, ResourceManager, NodeManager, SecondaryNameNode, and Jps.
+  - You can also access the web interfaces of Hadoop using the following URLs: http://localhost:9870 for the namenode, http://localhost:9864 for the datanode, http://localhost:8088 for the resource manager, and http://localhost:19888 for the job

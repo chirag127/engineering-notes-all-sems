@@ -1,0 +1,23 @@
+### Cluster Systems
+
+- Cluster systems are a type of parallel systems that consist of two or more independent computers connected by a network and working together as a single system  .
+- Cluster systems can provide high performance, high availability, high scalability, and high reliability for various applications  .
+- Cluster systems can be classified into different types based on their architecture, functionality, and purpose . Some common types are:
+  - Load-balancing clusters: These clusters distribute the workload among the nodes to improve the performance and availability of the system . For example, web servers, email servers, etc.
+  - High-availability clusters: These clusters provide continuous service even if one or more nodes fail by transferring the failed nodes' roles to other nodes  . For example, database servers, file servers, etc.
+  - High-performance clusters: These clusters use parallel processing techniques to execute computationally intensive tasks faster and more efficiently . For example, scientific computing, data analysis, etc.
+  - Grid clusters: These clusters combine the resources of geographically distributed nodes to form a virtual supercomputer . For example, SETI@home, Folding@home, etc.
+- Cluster systems require special software to manage the nodes, the network, the storage, and the applications running on the cluster  . Some common components of cluster software are:
+  - Cluster management software: This software monitors the status and performance of the nodes and the cluster, and performs tasks such as node addition, removal, configuration, etc  .
+  - Cluster communication software: This software enables the nodes to communicate with each other and exchange data and messages using protocols such as TCP/IP, MPI, etc  .
+  - Cluster storage software: This software provides shared access to data and files among the nodes using techniques such as network file system (NFS), distributed file system (DFS), etc  .
+  - Cluster application software: This software provides the functionality and logic of the applications running on the cluster, such as web servers, database servers, etc  .
+- Cluster systems have several advantages and disadvantages compared to other types of parallel systems, such as multiprocessor systems and distributed systems . Some of them are:
+  - Advantages:
+    - Cluster systems can use commodity hardware and software, which reduces the cost and complexity of the system .
+    - Cluster systems can scale up or down by adding or removing nodes, which increases the flexibility and adaptability of the system .
+    - Cluster systems can provide fault tolerance and load balancing, which improves the reliability and efficiency of the system  .
+  - Disadvantages:
+    - Cluster systems require high bandwidth and low latency network connections, which increases the network overhead and cost .
+    - Cluster systems may suffer from performance degradation and inconsistency due to the communication and synchronization overhead among the nodes .
+    - Cluster systems may face security and privacy issues due to the exposure of data and resources to the network .

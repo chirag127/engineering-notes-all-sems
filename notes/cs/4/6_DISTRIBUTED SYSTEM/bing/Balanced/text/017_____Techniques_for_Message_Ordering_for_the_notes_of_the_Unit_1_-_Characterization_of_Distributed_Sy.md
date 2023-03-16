@@ -1,0 +1,15 @@
+### Techniques for Message Ordering for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Message ordering is the problem of ensuring that messages are processed in a consistent and predictable order in a distributed system .
+- Message ordering is important because it affects the final outcome of the actions and the correctness of the algorithms in a distributed system .
+- There are different types of message ordering techniques, depending on the desired level of consistency and synchronization among the processes in a distributed system  .
+- Some of the common message ordering techniques are:
+
+  - **Unordered**: Messages are delivered in any order, without any guarantee of consistency or synchronization. This is the simplest and fastest technique, but it may lead to incorrect or inconsistent results  .
+  - **FIFO**: Messages are delivered in the same order as they are sent by each sender, but not necessarily in the same order as they are received by each receiver. This technique ensures that messages from the same sender are processed in a sequential order, but it does not guarantee any global order among messages from different senders  .
+  - **Causal**: Messages are delivered in a way that respects the causal dependencies among them, i.e., if a message m1 causally precedes a message m2, then m1 is delivered before m2 at every receiver. This technique ensures that messages that are related by some logical or temporal relation are processed in a consistent order, but it does not guarantee any total order among all messages  .
+  - **Total**: Messages are delivered in the same order at every receiver, i.e., there is a global order among all messages in the system. This technique ensures that messages are processed in a deterministic and uniform order, but it requires a high degree of coordination and synchronization among the processes  .
+  - **Synchronous**: Messages are delivered in the same order and at the same time at every receiver, i.e., there is a global order and a global clock among all messages in the system. This technique ensures that messages are processed in a synchronous and atomic manner, but it requires a very high degree of coordination and synchronization among the processes, and it may not be feasible in some scenarios  .
+
+- Each message ordering technique has its own advantages and disadvantages, and it may be suitable for different applications and requirements. For example, unordered message ordering may be sufficient for some simple or unreliable tasks, while total or synchronous message ordering may be necessary for some critical or complex tasks  .
+- There are different protocols and algorithms that can implement each message ordering technique, such as vector clocks, logical clocks, Lamport timestamps, sequence numbers, etc. These protocols and algorithms may vary in their complexity, overhead, scalability, and performance  .

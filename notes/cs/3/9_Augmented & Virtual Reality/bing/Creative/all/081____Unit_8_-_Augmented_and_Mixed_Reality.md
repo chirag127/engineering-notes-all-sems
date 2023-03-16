@@ -1,0 +1,8 @@
+# Unit 8 - Augmented and Mixed Reality
+
+- Augmented reality (AR) and mixed reality (MR) are both immersive technologies that enhance the perception of reality by adding virtual elements to the real world.
+- AR and MR differ in the degree of interaction and integration between the real and virtual elements.
+- AR overlays virtual objects on the real-world environment, such as adding a digital map or a 3D model to the user's view. AR does not change the physical properties of the real world, but rather enhances it with additional information or graphics.
+- MR not only overlays but also anchors virtual objects to the real world, such as placing a hologram on a table or a wall. MR allows the user to manipulate and interact with the virtual objects as if they were physically present. MR also adapts the virtual objects to the real-world context, such as occluding them behind real objects or changing their appearance based on the lighting or the user's perspective.
+- AR and MR can be experienced using various devices, such as smartphones, tablets, head-mounted displays, smart glasses, or projectors. The choice of device depends on the application, the user's preference, and the availability of the technology.
+- AR and MR have many potential applications in various domains, such as education, entertainment, gaming, tourism, health care, manufacturing, engineering, and art. AR and MR can provide immersive and engaging experiences that enhance learning, creativity, productivity, and enjoyment.

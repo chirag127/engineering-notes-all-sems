@@ -1,0 +1,10 @@
+### Kingship in Ancient India
+
+- Kingship in ancient India was a **sovereignty over a territory** by a king who functioned as its **protector**, a role which involved both **secular and religious power**.
+- Ancient Indians believed that kingship arose out of **military requirement**. A king must be a **capable general** whose leadership is recognized by all.
+- The meaning and significance of kingship changed dramatically between the **Vedic and Later Vedic period**, and underwent further development under the times of the **Jain and Buddhist rulers**.
+- The Vedic literature has some speculations about the **origin of kingship**. Some sources suggest that kingship was **divinely ordained**, while others imply that it was a **human invention** or a **social contract**.
+- The Vedic king was primarily a **ritual leader** who performed sacrifices and maintained the **cosmic order**. He was also a **warrior** who defended his people and expanded his territory.
+- The Later Vedic period saw the emergence of **monarchical states** and the decline of **tribal republics**. The king became more **powerful** and **autonomous**, and acquired a **divine status**. He was assisted by a **council of ministers** and a **general assembly** of the people.
+- The Jain and Buddhist texts challenged the **Brahmanical theory of kingship** and advocated for a **moral and ethical** basis of governance. They also recognized the **diversity** and **complexity** of the political landscape in ancient India, which included **empires, kingdoms, republics, and chiefdoms**.
+- Some of the famous kings and emperors of ancient India were **Ajatasatru, Chandragupta Maurya, Ashoka, Samudragupta, Harshavardhana, Rajaraja Chola, and Krishnadevaraya**. They are remembered for their **military conquests, administrative reforms, cultural achievements, and religious patronage**.

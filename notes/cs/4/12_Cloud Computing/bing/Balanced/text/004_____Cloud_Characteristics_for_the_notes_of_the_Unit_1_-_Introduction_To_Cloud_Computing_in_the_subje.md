@@ -1,0 +1,9 @@
+### Cloud Characteristics
+
+Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources, such as networks, servers, storage, applications, and services. Cloud computing has some essential features that distinguish it from traditional computing models. These are:
+
+- **On-demand self-service**: Cloud users can provision and release computing resources as needed, without requiring human intervention from the service provider . This gives users more control and flexibility over their computing needs.
+- **Multi-tenancy and resource pooling**: Cloud service providers use a multi-tenant architecture to accommodate more users at the same time, by sharing the same physical and virtual resources among them . This enables higher utilization and efficiency of the resources, as well as lower costs for the users.
+- **Broad network access**: Cloud services are accessible over the internet, using standard protocols and devices, such as laptops, smartphones, tablets, etc . This allows users to access the cloud services from anywhere and anytime, as long as they have an internet connection.
+- **Rapid elasticity and scalability**: Cloud services can be scaled up or down quickly and dynamically, depending on the demand and workload of the users . This enables users to handle peak or fluctuating demands, without worrying about the capacity or performance of the resources.
+- **Measured service**: Cloud service providers monitor and measure the usage and performance of the cloud resources, and charge the users accordingly . This ensures transparency and accountability of the cloud services, as well as optimal allocation and utilization of the resources.

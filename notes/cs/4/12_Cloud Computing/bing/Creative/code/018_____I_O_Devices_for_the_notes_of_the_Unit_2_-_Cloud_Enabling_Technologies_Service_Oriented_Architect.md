@@ -1,0 +1,7 @@
+### I/O Devices
+
+- I/O devices are hardware components that can take, output, or process data. They receive data as input and provide it to a computer, as well as send computer data to storage media as a storage output.
+- Some common I/O devices are mouse, keyboard, touchpad, USB devices, bit-mapped screen, LED, on/off switch, network connections, audio I/O, printers, etc.
+- In cloud computing, I/O devices are used to access cloud resources and services from different locations and platforms. Users can use a wide range of devices, such as mobile devices, tablets, laptops, etc., to connect to the cloud.
+- I/O devices can also be virtualized, which means that a single physical device can be presented as multiple logical devices to the system. This can simplify the configuration and management of I/O resources, as well as reduce the power consumption and cost of I/O devices.
+- I/O devices can also be part of the edge computing paradigm, which involves processing data closer to the source of generation, rather than sending it to the cloud. Edge devices, such as smart cameras, thermometers, robots, drones, vibration sensors, and other IoT devices, can have built-in compute, memory, and storage capabilities, or rely on nearby edge servers for processing.

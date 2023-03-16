@@ -1,0 +1,19 @@
+## Unit 5 - Quantum Error Correction
+
+- Quantum error correction (QEC) is a set of methods to protect quantum information—that is, quantum states—from unwanted environmental interactions (decoherence) and other forms of noise .
+- Quantum information is stored in a quantum error-correcting code, which is a subspace in a larger Hilbert space that can be accessed by a set of logical operators.
+- Quantum error correction is essential to achieve fault-tolerant quantum computing, which can reduce the effects of noise on stored quantum information, faulty quantum gates, and faulty quantum measurements .
+- Quantum error correction protocols consist of three main steps: encoding, syndrome measurement, and correction.
+  - Encoding: The quantum information is encoded into a larger number of physical qubits using a quantum error-correcting code. The code is designed to detect and correct a certain class of errors, such as bit-flip, phase-flip, or both.
+  - Syndrome measurement: The encoded qubits are measured using a set of ancillary qubits and quantum gates to extract information about the errors that have occurred. The measurement results are called the syndrome and do not reveal the quantum information.
+  - Correction: Based on the syndrome, a suitable correction operation is applied to the encoded qubits to restore the quantum information. The correction operation can be a classical feedback or a quantum feedforward.
+- Quantum error correction codes can be classified into different types, such as stabilizer codes, topological codes, subsystem codes, and concatenated codes.
+  - Stabilizer codes: These are codes that are defined by a set of commuting operators called stabilizers, which act on the encoded qubits and have eigenvalue +1 on the code subspace. The syndrome is obtained by measuring the stabilizers.
+  - Topological codes: These are codes that are defined on a two-dimensional lattice of qubits, where the stabilizers are local operators that act on a small number of neighboring qubits. The syndrome is obtained by measuring the stabilizers on the boundary of the lattice.
+  - Subsystem codes: These are codes that are defined by a set of commuting operators called gauge operators, which act on the encoded qubits and have eigenvalue +1 on a subsystem of the code subspace. The syndrome is obtained by measuring the gauge operators.
+  - Concatenated codes: These are codes that are obtained by encoding each qubit of a quantum error-correcting code using another quantum error-correcting code. The syndrome is obtained by measuring the stabilizers of the inner and outer codes.
+- Quantum error correction can be implemented using various physical platforms, such as superconducting qubits, trapped ions, photonic qubits, and spin qubits.
+  - Superconducting qubits: These are qubits that are based on superconducting circuits, where the quantum information is stored in the superposition of macroscopic current states. Superconducting qubits can be coupled using microwave resonators and controlled using microwave pulses.
+  - Trapped ions: These are qubits that are based on trapped atomic ions, where the quantum information is stored in the superposition of electronic or vibrational states. Trapped ions can be coupled using laser beams and controlled using optical pulses.
+  - Photonic qubits: These are qubits that are based on photons, where the quantum information is stored in the superposition of polarization or frequency states. Photonic qubits can be coupled using beam splitters and controlled using optical devices.
+  - Spin qubits: These are qubits that are based on spins of electrons or nuclei, where the quantum information is stored in the superposition of spin states. Spin qubits can be coupled using magnetic fields and controlled using electric fields.

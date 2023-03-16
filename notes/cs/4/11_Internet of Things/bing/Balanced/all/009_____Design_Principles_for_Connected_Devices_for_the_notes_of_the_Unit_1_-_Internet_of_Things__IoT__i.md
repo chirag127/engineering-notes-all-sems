@@ -1,0 +1,10 @@
+# Design Principles for Connected Devices
+
+- Design principles are fundamental pieces of advice for you to make easy-to-use, pleasurable designs.
+- Design principles for connected devices are specific to the Internet of Things (IoT) domain, which involves the interconnection of physical objects with digital systems and networks.
+- Some of the design principles for connected devices are:
+
+  - **Define the purpose and user base of the device.** The first step in the design process is to research the device's purpose and its user base. To define its main features, designers should think like the device's eventual users to identify how the IoT product will solve pain points and help overcome obstacles.
+  - **Consider the operating settings of the device.** During IoT device design, consider everything the product could connect to, control or communicate with in the network, and design accordingly. If designers understand the bigger picture, it helps create a device that is interoperable and can integrate into more use cases.
+  - **Use calm technology.** A system that does not compete for attention but has a high utility when given attention, this type of technology is referred to as calm technology. In a connected devices environment, multiple challenges come up, such as information overload, distraction, privacy and security. Calm technology aims to reduce these challenges by designing devices that are unobtrusive, context-aware, informative and respectful.
+  - **Choose the appropriate communication protocol.** A communication protocol is a set of rules and standards that enable data exchange between devices and systems. There are various communication protocols for connected devices, such as Representational State Transfer (REST), JSON-RPC, Simple Object Access Protocol (SOAP) and XML-RPC. Each protocol has its own advantages and disadvantages, depending on the use case, data format, bandwidth, security and scalability requirements.

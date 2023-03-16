@@ -1,0 +1,9 @@
+### Components for Clusters
+
+- A cluster is a collection of interconnected computers that work together as a single system to perform high-performance computing tasks.
+- The main components of a cluster are:
+  - **Compute nodes**: These are the servers that execute the parallel applications and algorithms. They can have different configurations of CPUs, GPUs, FPGAs, memory, and other resources depending on the workload requirements.
+  - **Network**: This is the communication infrastructure that connects the compute nodes and enables data transfer and synchronization. The network can be based on different technologies such as Ethernet, InfiniBand, or Omni-Path, and can have different topologies such as star, ring, or mesh.
+  - **Storage**: This is the component that provides persistent data storage for the cluster. It can be either local or shared, and can use different file systems such as NFS, Lustre, or GPFS. The storage performance and capacity should match the compute and network capabilities of the cluster.
+  - **Cluster provisioner**: This is the software tool that automates the installation, configuration, and management of the cluster. It ensures that the compute nodes are homogeneous and consistent, and that the cluster is secure and reliable. Examples of cluster provisioners are MAAS, xCAT, or Rocks.
+  - **Scheduler**: This is the software component that allocates the cluster resources to the user jobs and optimizes the cluster utilization and efficiency. It queues up the jobs, assigns them to the available nodes, and monitors their progress and status. Examples of schedulers are Slurm, PBS, or LSF.

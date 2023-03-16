@@ -1,0 +1,22 @@
+### Overview of IOT supported Hardware platforms such as Arduino
+
+- IoT (Internet of Things) is the concept of connecting various devices and sensors to the internet and enabling data exchange and communication among them.
+- IoT devices require hardware platforms that can support the functionalities of sensing, processing, communication, and actuation.
+- There are many IoT hardware platforms available in the market, each with different features, capabilities, and limitations.
+- Some of the common IoT hardware platforms are:
+
+  - **Arduino**: Arduino is an open-source platform that consists of microcontroller-based boards and a software development environment. Arduino boards are easy to use, inexpensive, and compatible with various sensors and modules. Arduino supports various communication protocols such as WiFi, Bluetooth, LoRa, GSM, etc. Arduino is suitable for prototyping and developing simple IoT applications that do not require high performance or complex logic.  
+  - **Raspberry Pi**: Raspberry Pi is a single-board computer that runs on Linux operating system. Raspberry Pi has a powerful processor, memory, and storage that can handle complex computations and data processing. Raspberry Pi also supports various peripherals and interfaces such as HDMI, USB, Ethernet, camera, etc. Raspberry Pi can be used for developing IoT applications that require high performance, multimedia, or graphical capabilities. Raspberry Pi can also communicate with Arduino and other devices using serial, SPI, or I2C protocols.  
+  - **ESP8266**: ESP8266 is a low-cost and low-power microcontroller that has built-in WiFi connectivity. ESP8266 can be programmed using Arduino IDE or other tools. ESP8266 is ideal for developing IoT applications that require wireless communication and minimal power consumption. ESP8266 can also interface with various sensors and modules using GPIO pins.  
+  - **Intel Edison**: Intel Edison is a tiny computer module that has a dual-core processor, memory, storage, WiFi, Bluetooth, and USB connectivity. Intel Edison can run on Linux or Arduino software. Intel Edison can be used for developing IoT applications that require high performance, security, and scalability. Intel Edison can also connect to various sensors and modules using Arduino expansion boards or other shields.  
+  - **Intel Galileo**: Intel Galileo is a microcontroller board that is compatible with Arduino software and shields. Intel Galileo has a 32-bit processor, memory, storage, Ethernet, USB, and GPIO pins. Intel Galileo can be used for developing IoT applications that require more processing power and memory than Arduino, but less than Raspberry Pi or Intel Edison. Intel Galileo can also communicate with other devices using WiFi, Bluetooth, or Zigbee modules.  
+  - **BeagleBone**: BeagleBone is a single-board computer that runs on Linux operating system. BeagleBone has a 32-bit processor, memory, storage, Ethernet, USB, and HDMI ports. BeagleBone also has many GPIO pins that can interface with various sensors and modules. BeagleBone can be used for developing IoT applications that require high performance, multimedia, or graphical capabilities. BeagleBone can also communicate with other devices using WiFi, Bluetooth, or Zigbee modules.  
+  - **Banana Pi**: Banana Pi is a single-board computer that runs on Linux or Android operating system. Banana Pi has a 32-bit processor, memory, storage, Ethernet, USB, HDMI, and camera ports. Banana Pi also has many GPIO pins that can interface with various sensors and modules. Banana Pi can be used for developing IoT applications that require high performance, multimedia, or graphical capabilities. Banana Pi can also communicate with other devices using WiFi, Bluetooth, or Zigbee modules.  
+  - **NodeMCU**: NodeMCU is a development kit that consists of an ESP8266 microcontroller and a Lua-based firmware. NodeMCU can be programmed using Lua scripting language or Arduino IDE. NodeMCU has built-in WiFi connectivity and can interface with various sensors and modules using GPIO pins. NodeMCU can be used for developing IoT applications that require wireless communication and minimal power consumption.  
+
+- The choice of IoT hardware platform depends on various factors such as:
+
+  - The requirements and specifications of the IoT application
+  - The budget and availability of the hardware
+  - The compatibility and interoperability of the hardware with other devices and platforms
+  - The ease of use and development of the hardware and

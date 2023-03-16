@@ -1,0 +1,21 @@
+# Radio Frequency Identification (RFID) Technology
+
+- Radio Frequency Identification (RFID) technology uses radio waves to identify people or objects without physical contact or line of sight  .
+- An RFID system consists of a tag, a reader and a database  .
+  - A tag is a wireless device that contains an integrated circuit (IC) and an antenna. The tag stores information such as a unique identifier or other data. The tag can be passive (no battery) or active (battery-powered)  .
+  - A reader is a device that has one or more antennas that emit radio waves and receive signals from the tag. The reader can be fixed or mobile, and can communicate with one or more tags at a time   .
+  - A database is a system that stores the information associated with the tags, such as the tag ID, the object name, the location, the status, etc. The database can be accessed by the reader or other devices via a network  .
+- RFID technology has many applications in various domains, such as supply chain management, inventory control, asset tracking, access control, identification, authentication, security, etc.     .
+- RFID technology has some advantages and disadvantages over other identification technologies, such as barcodes, optical character recognition (OCR), biometrics, etc.  .
+  - Advantages include:
+    - No line of sight or physical contact required
+    - High data capacity and fast data transfer
+    - Long read range and multiple tag reading
+    - High durability and reusability
+    - Low maintenance and operational costs
+  - Disadvantages include:
+    - Interference from metal, liquids or other radio sources
+    - Security and privacy risks from unauthorized reading or cloning
+    - Standardization and compatibility issues among different systems
+    - High initial investment and tag costs
+    - Environmental and health concerns from radio emissions

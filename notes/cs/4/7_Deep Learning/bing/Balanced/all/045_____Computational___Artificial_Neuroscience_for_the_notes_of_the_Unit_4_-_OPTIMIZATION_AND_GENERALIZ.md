@@ -1,0 +1,12 @@
+# Computational & Artificial Neuroscience
+
+## Unit 4 - OPTIMIZATION AND GENERALIZATION
+
+- Optimization and generalization are two key concepts in deep learning that relate to how well a neural network can learn from data and perform on new data.
+- Optimization is the process of finding the best set of parameters (weights and biases) for a neural network that minimizes a loss function (a measure of the error between the network's output and the desired output).
+- Generalization is the ability of a neural network to perform well on new data that it has not seen during training, i.e., to avoid overfitting (when the network learns the specific patterns of the training data and fails to generalize to new data) or underfitting (when the network fails to learn the relevant patterns of the training data and performs poorly on both training and new data).
+- Optimization and generalization are closely related, as the choice of optimization algorithm, learning rate, regularization, initialization, and other hyperparameters can affect the generalization performance of a neural network.
+- Some of the common optimization algorithms used in deep learning are gradient descent, stochastic gradient descent, momentum, Nesterov accelerated gradient, AdaGrad, RMSProp, Adam, and others. These algorithms differ in how they update the parameters based on the gradient of the loss function, and how they adapt the learning rate over time.
+- Some of the common regularization techniques used in deep learning are weight decay, dropout, batch normalization, data augmentation, early stopping, and others. These techniques aim to reduce the complexity of the neural network, introduce noise or randomness, or use additional information to prevent overfitting and improve generalization.
+- Some of the common initialization methods used in deep learning are random initialization, Xavier initialization, He initialization, and others. These methods aim to set the initial values of the parameters in a way that avoids vanishing or exploding gradients, and facilitates the learning process.
+- Some of the common metrics used to evaluate the optimization and generalization performance of a neural network are training loss, validation loss, test loss, accuracy, precision, recall, F1-score, ROC curve, AUC, and others. These metrics measure different aspects of the network's performance on the training, validation, and test data sets, and can help to diagnose optimization and generalization issues.

@@ -1,0 +1,8 @@
+### Evolution of script and languages in India
+
+- India has a rich and diverse linguistic history, with over 1,600 languages and dialects spoken in the subcontinent.
+- The earliest evidence of writing in India is the Indus Valley Civilization (IVC) script, which dates back to around 2500 BCE. The IVC script is still undeciphered and its relation to other scripts is unclear .
+- The next major phase of writing in India is the Brahmi script, which emerged around the 3rd century BCE and is considered the ancestor of most modern Indian scripts. The Brahmi script was used to write various languages, such as Prakrit, Sanskrit, Pali, and Tamil  .
+- The Brahmi script evolved into different regional variants over time, such as Kharosthi, Gupta, Nagari, Siddham, Sharada, Grantha, and many others. These scripts were influenced by various factors, such as cultural, religious, political, and geographical contexts  .
+- The modern Indian scripts are derived from these regional variants of Brahmi, and can be classified into four main groups: Devanagari and its derivatives, such as Hindi, Marathi, Nepali, and Sanskrit; Bengali-Assamese and its derivatives, such as Bengali, Assamese, Odia, and Manipuri; Gujarati and its derivatives, such as Gujarati, Sindhi, and Kutchi; and Southern scripts, such as Tamil, Telugu, Kannada, Malayalam, and Sinhala .
+- The evolution of script and languages in India reflects the diversity and dynamism of the Indian culture and society, as well as the interactions and influences of various external forces, such as invasions, migrations, trade, and colonization  .

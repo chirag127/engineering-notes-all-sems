@@ -1,0 +1,26 @@
+# Theory of Quantum Error-Correction
+
+- Quantum error correction is the process of protecting quantum information from the effects of noise and errors that occur during quantum computation or communication.
+- Quantum error correction is essential to achieve fault-tolerant quantum computing, which can perform reliable and scalable quantum algorithms with noisy and imperfect quantum devices.
+- Quantum error correction is based on the principles of quantum mechanics, such as superposition, entanglement, and measurement.
+- Quantum error correction differs from classical error correction in several ways, such as:
+  - Quantum errors are continuous and probabilistic, not discrete and deterministic.
+  - Quantum information cannot be copied or measured without disturbing it, due to the no-cloning theorem and the no-signaling theorem.
+  - Quantum errors can affect both the amplitude and the phase of a quantum state, not just the bit value.
+- Quantum error correction codes are designed to correct a discrete set of errors that belong to the Pauli group, which consists of tensor products of the identity operator I and the three Pauli matrices X, Y, and Z.
+- Quantum error correction codes use quantum bits (qubits) as the basic unit of information, and encode a logical qubit into a larger number of physical qubits.
+- Quantum error correction codes use ancillary qubits and quantum gates to perform error detection and correction, without revealing the encoded information.
+- Quantum error correction codes can be classified into different types, such as:
+  - Stabilizer codes, which use a set of commuting operators to define the code space and detect errors.
+  - CSS codes, which are a subclass of stabilizer codes that are based on classical linear codes.
+  - Topological codes, which use geometric structures and local measurements to correct errors.
+  - Surface codes, which are a subclass of topological codes that use a two-dimensional lattice of qubits and have high error thresholds.
+  - Concatenated codes, which use multiple levels of encoding and decoding to correct errors.
+- Quantum error correction codes have various properties and performance metrics, such as:
+  - Code distance, which is the minimum number of qubits that need to be corrupted to cause an undetectable error.
+  - Code rate, which is the ratio of logical qubits to physical qubits in a code.
+  - Error threshold, which is the maximum error rate that a code can tolerate and still correct errors with high probability.
+  - Code overhead, which is the additional resources (such as qubits, gates, and time) required to implement a code.
+  - Code efficiency, which is the ratio of code rate to code overhead.
+- Quantum error correction is an active and interdisciplinary research field that involves physics, mathematics, computer science, and engineering.
+- Quantum error correction is a challenging and open problem that requires developing new codes, algorithms, architectures, and hardware for practical quantum computing.

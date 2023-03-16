@@ -1,0 +1,11 @@
+# State in Ancient India
+
+- The state in ancient India was a social organization with political power that ensured peace, order and happiness.
+- The origin of the state in ancient India is not clear, but there are three main theories: social contract theory, divine origin theory and organic theory.
+- Social contract theory: This theory holds that the state was formed by a voluntary agreement among the people who gave up some of their rights and freedoms to a ruler or a group of rulers in exchange for protection and welfare.
+- Divine origin theory: This theory holds that the state was created by God or gods who appointed a king or a dynasty to rule over the people as their representatives or agents.
+- Organic theory: This theory holds that the state was a natural and inevitable outcome of the growth and development of human society, which needed a central authority to regulate its affairs and maintain harmony.
+- The types of states in ancient India were loosely categorized into monarchy, republic and oligarchy.
+- Monarchy: This was the most prevalent type of state in ancient India, where the king was the supreme ruler who derived his power from his lineage, charisma, military prowess or divine sanction. The king was assisted by ministers, provincial governors, village councils, town councils and trade guilds, who were all subordinate to him.
+- Republic: This was a type of state where the people or their representatives had a say in the governance and administration of the state. The republics were usually formed by clans, tribes or groups of people who shared a common ancestry, territory or occupation. The republics had assemblies or councils where the members discussed and decided on matters of common interest.
+- Oligarchy: This was a type of state where the power was concentrated in the hands of a few people or a class of people who dominated the rest of the society. The oligarchs were usually wealthy landowners, merchants or warriors who controlled the resources and the military of the state. The oligarchs often exploited the masses and oppressed the weaker sections of the society.

@@ -1,0 +1,45 @@
+### Netduino for IoT
+
+- Netduino is an open-source electronics platform that uses the.NET Micro Framework to run.NET applications on microcontrollers  .
+- Netduino Plus 2 is one of the models of Netduino that has a 32-bit ARM Cortex-M3 microcontroller running at 168 MHz with 1 MB Flash and 192 KB RAM .
+- Netduino Plus 2 has the following features :
+  - 22 GPIOs (digital input/output) pins
+  - 6 PWM (analog output) channels
+  - 4 UARTs (serial communication) ports
+  - 2 SPI (serial peripheral interface) ports
+  - 1 I2C (inter-integrated circuit) port
+  - 1 Micro SD card slot
+  - 1 10/100 Ethernet port
+  - 1 Micro USB port
+  - 1 JTAG (debugging) port
+  - 1 3.3V and 1 5V power pins
+  - 1 Reset button
+  - 1 User LED
+  - Compatible with most Arduino shields
+- Netduino Plus 2 can be programmed using Visual Studio or Visual Studio Code with the.NET Micro Framework SDK and the Netduino SDK .
+- Netduino Plus 2 can be used for various IoT applications, such as:
+  - Sensor networks
+  - Home automation
+  - Robotics
+  - Remote control
+  - Web servers
+  - Cloud services
+- Netduino Plus 2 can communicate with other devices or the internet using the following protocols :
+  - TCP/IP (Transmission Control Protocol/Internet Protocol)
+  - UDP (User Datagram Protocol)
+  - HTTP (Hypertext Transfer Protocol)
+  - MQTT (Message Queuing Telemetry Transport)
+  - CoAP (Constrained Application Protocol)
+  - REST (Representational State Transfer)
+- Netduino Plus 2 can be integrated with various cloud platforms, such as:
+  - Azure IoT Hub
+  - AWS IoT Core
+  - Google Cloud IoT Core
+  - IBM Watson IoT Platform
+  - Hologram
+- Netduino Plus 2 can be extended with various software libraries, such as:
+  - Netduino.Foundation (a collection of drivers and helpers for common peripherals and sensors)
+  - Netduino.WebServer (a lightweight web server for Netduino)
+  - Netduino.IP (a new TCP/IP stack for Netduino)
+  - Netduino.Deploy (a tool for deploying and debugging Netduino applications)
+  - Netduino.IoT.Starter.Core (a framework for building IoT applications with Netduino)

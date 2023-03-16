@@ -1,0 +1,14 @@
+### Weights Initialization
+
+- Weight initialization is a procedure to set the weights of a neural network to small random values that define the starting point for the optimization (learning or training) of the neural network model  .
+- Weight initialization is a very important concept in deep neural networks and using the right initialization technique can heavily affect the accuracy of the deep learning model.
+- An appropriate weight initialization technique must be employed, taking various factors such as activation function used, into consideration.
+- Some common weight initialization techniques are:
+
+  - **Zero initialization**: Setting all the weights to zero. This is a bad idea because it leads to symmetry breaking problem, where all the neurons in a layer learn the same features and the model becomes equivalent to a linear model.
+  - **Random initialization**: Setting the weights to small random values, usually drawn from a normal or uniform distribution. This helps to break the symmetry and allows the neurons to learn different features. However, the scale of the random values is important, as too large or too small values can cause vanishing or exploding gradients problem  .
+  - **Xavier initialization**: Setting the weights to random values drawn from a normal distribution with zero mean and variance equal to 1 / (number of input units). This helps to keep the variance of the activations and gradients consistent across layers and avoid vanishing or exploding gradients problem. This technique is suitable for nodes that use sigmoid or tanh activation functions .
+  - **He initialization**: Setting the weights to random values drawn from a normal distribution with zero mean and variance equal to 2 / (number of input units). This helps to keep the variance of the activations and gradients consistent across layers and avoid vanishing or exploding gradients problem. This technique is suitable for nodes that use ReLU activation function  .
+  - **Orthogonal initialization**: Setting the weights to random values drawn from an orthogonal matrix. This helps to preserve the orthogonality of the weight matrix and avoid vanishing or exploding gradients problem. This technique is suitable for recurrent neural networks .
+
+- Bias tensors are usually initialized to zero.

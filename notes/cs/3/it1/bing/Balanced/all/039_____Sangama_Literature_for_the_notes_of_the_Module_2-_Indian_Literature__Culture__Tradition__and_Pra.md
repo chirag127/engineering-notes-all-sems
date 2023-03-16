@@ -1,0 +1,9 @@
+# Sangama Literature
+
+- Sangama literature is the oldest literature to have been composed in the Tamilakam, the ancient region of South India that corresponds to the modern states of Tamil Nadu and Kerala .
+- The word Sangama means "college" or "assembly" and refers to the three literary academies that were established at different periods and places in Tamilakam to foster and patronize Tamil poetry .
+- The first Sangama was at Then Madurai (Southern Madurai), the second at Kapalapuram (City of the Goddess), and the third at Madurai (the present-day city in Tamil Nadu). The duration and dates of these Sangamas are uncertain and disputed, but some scholars suggest that they spanned from the 3rd century BCE to the 3rd century CE .
+- The Sangama literature consists of poems, grammar, epics and Tirukkural, a collection of ethical aphorisms. The poems are divided into two main categories: akam (love) and puram (heroism) .
+- The akam poems deal with various aspects of love, such as courtship, separation, union, and infidelity. They are set in different landscapes or tinai, each of which symbolizes a particular mood or emotion. The five tinai are kurinji (mountainous region), mullai (forest), marutam (agricultural land), neytal (coastal area), and palai (desert) .
+- The puram poems deal with the praise of kings, their wars, victories, generosity, and virtues. They also describe the life and culture of the ancient Tamils, such as their customs, festivals, arts, crafts, and trade. The puram poems are classified into ten types, such as patirruppattu (decads of lineage), porunararruppadai (guides to the poets), and perumparrapadal (great songs of war) .
+- The Sangama literature is considered to be the source of authentic information about the ancient Tamil society, history, and culture. It also showcases the richness and diversity of the Tamil language and literature, and its influence on other languages and literatures of India and Southeast Asia  .

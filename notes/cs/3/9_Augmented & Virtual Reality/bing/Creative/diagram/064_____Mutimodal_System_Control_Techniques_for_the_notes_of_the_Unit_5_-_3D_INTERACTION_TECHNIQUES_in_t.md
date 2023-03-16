@@ -1,0 +1,15 @@
+### Multimodal System Control Techniques
+
+Multimodal system control techniques are methods of using multiple input channels (such as speech, gesture, eye gaze, etc.) to control the system functions (such as menu selection, mode switching, system feedback, etc.) in a 3D user interface (3DUI).
+
+Some advantages of using multimodal system control techniques are:
+
+- Decoupling: Using an input channel that differs from the main input channel used for interaction with the environment can decrease user cognitive load. For example, using speech to select a menu item while using a 3D tracker to manipulate an object can reduce the need to switch between input devices or modes.
+- Error reduction and correction: The use of multiple input channels can be very effective when the input is ambiguous or noisy, especially with recognition-based input like speech or gestures. For example, using speech and gesture together can increase the accuracy and robustness of the system, and also provide a natural way to correct errors by repeating or modifying the input.
+- Expressiveness and efficiency: The use of multiple input channels can enable more expressive and efficient interaction with the system, by allowing the user to combine different modalities to convey complex or concurrent commands. For example, using speech and gesture together can allow the user to specify both the action and the target of the action in a single utterance, such as "move this to there" while pointing at the objects.
+
+Some examples of multimodal system control techniques are:
+
+- Speech and gesture: This is one of the most common and natural combinations of modalities for 3DUIs, as it mimics the way humans communicate with each other. Speech can be used to specify commands, parameters, or feedback, while gesture can be used to indicate objects, locations, or directions in 3D space. For example, the Dragon 3D VR system  used speech and gesture to create and manipulate digital content in a 3D topographical scene.
+- Eye gaze and gesture: This is another combination of modalities that can leverage the user's natural attention and intention in 3DUIs. Eye gaze can be used to select or highlight objects, locations, or directions in 3D space, while gesture can be used to perform actions or commands on them. For example, the EyeSee3D system  used eye gaze and gesture to interact with 3D models of human anatomy.
+- Haptic and auditory: This is a combination of modalities that can provide rich and immersive feedback to the user in 3DUIs, especially when the visual channel is limited or occluded. Haptic can be used to convey tactile or force feedback, while auditory can be used to convey spatial or semantic information. For example, the Haptic-Audio Interaction Design system  used haptic and auditory feedback to guide the user's exploration of 3D shapes.

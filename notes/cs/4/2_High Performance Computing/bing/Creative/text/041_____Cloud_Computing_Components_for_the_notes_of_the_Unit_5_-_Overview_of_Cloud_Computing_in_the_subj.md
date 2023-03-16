@@ -1,0 +1,15 @@
+### Cloud Computing Components
+
+Cloud computing is a paradigm that delivers computing resources and services over the internet. Cloud computing architecture refers to the components and subcomponents required for cloud computing. These components typically consist of a front end platform, a back end platform, a cloud based delivery, and a network. Here are some important components of cloud computing architecture:
+
+- **Front end platform**: This is the component that provides a graphical user interface (GUI) to the users or clients who want to access the cloud services. The front end platform can be a fat client, a thin client, or a mobile device. A fat client is a computer that has its own applications and data storage, while a thin client is a computer that relies on the cloud for applications and data storage. A mobile device is a handheld device that can access the cloud services through a wireless network.
+
+- **Back end platform**: This is the component that provides the cloud services to the users or clients. The back end platform consists of servers, storage, and applications. Servers are the computers that run the cloud software and provide the computing resources. Storage is the component that stores the data and files of the users or clients. Applications are the software programs that run on the cloud and provide the functionality and features to the users or clients.
+
+- **Cloud based delivery**: This is the component that delivers the cloud services to the users or clients over the internet. There are three types of cloud based delivery models: infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). IaaS offers compute and storage services, such as virtual machines, containers, and databases. PaaS offers a develop-and-deploy environment to build cloud applications, such as web servers, frameworks, and tools. SaaS delivers applications as services, such as email, office, and social media.
+
+- **Network**: This is the component that connects the front end platform and the back end platform. The network can be the internet, an intranet, or an intercloud. The internet is the global network that connects millions of computers and devices. An intranet is a private network that connects computers and devices within an organization. An intercloud is a network of clouds that can communicate and share resources.
+
+- **Management**: This is the component that manages the cloud computing system and ensures its performance, availability, security, and scalability. Management includes tasks such as provisioning, monitoring, troubleshooting, backup, recovery, and auditing.
+
+- **Security**: This is the component that protects the cloud computing system and its data from unauthorized access, modification, or damage. Security includes measures such as encryption, authentication, authorization, firewall, and antivirus.

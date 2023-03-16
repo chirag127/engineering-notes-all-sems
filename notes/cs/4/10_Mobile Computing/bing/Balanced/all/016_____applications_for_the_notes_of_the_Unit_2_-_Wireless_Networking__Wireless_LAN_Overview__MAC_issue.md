@@ -1,0 +1,26 @@
+# Applications for the notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC issues, IEEE 802.11, Blue Tooth, Wireless in the subject of Mobile Computing
+
+- Wireless networking is the use of wireless communication technologies to connect devices and networks without wires or cables.
+- Wireless LAN (WLAN) is a type of wireless networking that allows devices to communicate within a local area network (LAN) using radio waves or infrared signals.
+- WLAN can provide mobility, flexibility, scalability, and cost-effectiveness for network users and administrators.
+- WLAN can be classified into two types: infrastructure and ad hoc.
+  - Infrastructure WLAN uses a central device called an access point (AP) to connect wireless devices to a wired LAN or the internet.
+  - Ad hoc WLAN does not use an AP, but rather allows wireless devices to communicate directly with each other in a peer-to-peer (P2P) fashion.
+- WLAN can also be categorized based on the standards and protocols they use, such as IEEE 802.11, Bluetooth, Wi-Fi Direct, etc.
+- IEEE 802.11 is the most widely used standard for WLAN, which defines the medium access control (MAC) and physical (PHY) layers for wireless communication.
+  - MAC layer is responsible for coordinating the access of multiple wireless devices to the shared wireless medium, using techniques such as carrier sense multiple access with collision avoidance (CSMA/CA), request to send/clear to send (RTS/CTS), and fragmentation and reassembly.
+  - PHY layer is responsible for encoding, modulating, transmitting, receiving, and demodulating the wireless signals, using different frequency bands, modulation schemes, and data rates, such as 2.4 GHz, 5 GHz, OFDM, QPSK, 11 Mbps, 54 Mbps, etc.
+- IEEE 802.11 has several amendments and extensions, such as 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ax, which provide different features and enhancements for WLAN, such as higher data rates, wider channels, multiple-input multiple-output (MIMO) antennas, beamforming, etc.
+- Bluetooth is another standard for WLAN, which is designed for short-range, low-power, and low-cost wireless communication between devices, such as smartphones, laptops, headphones, keyboards, mice, etc.
+  - Bluetooth uses a frequency-hopping spread spectrum (FHSS) technique to avoid interference and increase security, by changing the frequency of the wireless signal every 625 microseconds.
+  - Bluetooth also uses a master-slave architecture, where one device acts as the master and controls the communication with up to seven other devices, forming a piconet.
+  - Bluetooth can also form a scatternet, where multiple piconets are interconnected by shared devices.
+  - Bluetooth has several versions and profiles, such as Bluetooth 1.0, Bluetooth 2.0, Bluetooth 3.0, Bluetooth 4.0, Bluetooth 5.0, etc., which provide different features and enhancements for WLAN, such as higher data rates, lower power consumption, longer range, etc.
+- Wireless multiple access protocols are the rules and algorithms that govern how multiple wireless devices share the wireless medium and avoid collisions and interference.
+  - Wireless multiple access protocols can be classified into two types: random access and controlled access.
+    - Random access protocols allow wireless devices to transmit whenever they have data to send, without coordination with other devices, such as ALOHA, slotted ALOHA, CSMA, CSMA/CA, etc.
+    - Controlled access protocols require wireless devices to obtain permission or reservation before transmitting, with coordination with other devices, such as polling, token passing, reservation ALOHA, etc.
+- TCP over wireless is the use of the transmission control protocol (TCP) for reliable and ordered data delivery over wireless networks, which are prone to errors, losses, delays, and variations.
+  - TCP over wireless faces several challenges and issues, such as TCP misinterpreting wireless losses as congestion losses, TCP triggering unnecessary retransmissions and timeouts, TCP reducing the congestion window and throughput, TCP experiencing spurious retransmissions and duplicate acknowledgments, etc.
+  - TCP over wireless can be improved and enhanced by using different techniques and solutions, such as link layer retransmission, split TCP, TCP snooping, selective acknowledgment, fast retransmit and recovery, etc.
+- Wireless applications are the software and services that use wireless networks and technologies to provide various functions and features for users and organizations, such as web browsing,

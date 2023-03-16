@@ -1,0 +1,13 @@
+# Distributed Deadlocks
+
+- A distributed deadlock is a situation where a set of processes in a distributed system are waiting for each other to release resources or messages, and none of them can proceed.
+- Distributed deadlocks can occur when distributed transactions or concurrency control are utilized in distributed systems .
+- Distributed deadlocks are harder to detect, avoid, and prevent than deadlocks in centralized systems, because there is no single authority that can oversee resource allocation and dependency graphs.
+- There are three main approaches to handle distributed deadlocks :
+  - Prevention: This approach tries to ensure that at least one of the necessary conditions for deadlock (mutual exclusion, hold and wait, no preemption, circular wait) is never satisfied. For example, by using timeouts, ordering resources, or aborting transactions.
+  - Avoidance: This approach tries to ensure that the system will always remain in a safe state, where there is at least one possible sequence of resource allocation that will not lead to deadlock. For example, by using the banker's algorithm or timestamps.
+  - Detection: This approach tries to identify the existence of deadlocks after they occur, and then resolve them by breaking the circular wait. For example, by constructing a global wait-for graph (WFG) from local wait-for graphs at a deadlock detector or by a distributed algorithm like edge chasing .
+- There are different types of distributed deadlocks, depending on the nature of the resources and the communication model:
+  - Communication deadlocks: These occur when processes are waiting for messages from each other, and there is no buffer space to store the messages. For example, a deadlock can occur if two processes send messages to each other simultaneously, and both messages are lost due to network congestion.
+  - Resource deadlocks: These occur when processes are waiting for resources that are held by other processes, and there is no mechanism to release the resources. For example, a deadlock can occur if two processes request exclusive access to two files that are stored on different machines, and each process obtains one file but not the other.
+  - Hybrid deadlocks: These occur when both communication and resource deadlocks are involved. For example, a deadlock can occur if a process requests a resource from another process, and the latter process sends a message to the former process to confirm the request, but the message is blocked due to lack of buffer space.

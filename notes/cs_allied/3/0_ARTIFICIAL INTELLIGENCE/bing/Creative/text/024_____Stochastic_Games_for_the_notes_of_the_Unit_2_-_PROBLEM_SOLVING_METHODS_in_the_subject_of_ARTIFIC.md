@@ -1,0 +1,21 @@
+### Stochastic Games
+
+- Stochastic games are a generalization of Markov decision processes (MDPs) to the case where there are multiple agents in a common environment .
+- The agents perform a joint action that defines both the reward obtained by the agents and the new state of the environment .
+- The agents may have different objectives and preferences, and may cooperate or compete with each other .
+- Stochastic games can model many artificial intelligence applications, such as playing chess and Go games, autonomous driving, and robotics .
+- Stochastic games can be classified into different types, depending on the information available to the agents, the structure of the game, and the nature of the rewards .
+- Some of the types of stochastic games are:
+  - Zero-sum games: the sum of the rewards of the agents is zero for every state and action. These games are competitive and adversarial .
+  - General-sum games: the sum of the rewards of the agents is not necessarily zero. These games can be cooperative, competitive, or mixed .
+  - Perfect-information games: the agents know the state of the environment and the actions and rewards of the other agents. These games are deterministic and can be solved by backward induction .
+  - Imperfect-information games: the agents do not know the state of the environment and/or the actions and rewards of the other agents. These games are stochastic and can be solved by expectation-maximization or reinforcement learning .
+  - Stationary games: the transition and reward functions are independent of time. These games have a stationary equilibrium that can be computed by dynamic programming or linear programming .
+  - Non-stationary games: the transition and reward functions depend on time. These games have a non-stationary equilibrium that can be computed by adaptive learning or online optimization .
+- Some of the algorithms for solving stochastic games are:
+  - Minimax-Q: a reinforcement learning algorithm for zero-sum games that learns a Q-value function for each state and action pair, and chooses the action that minimizes the maximum expected loss .
+  - Nash-Q: a generalization of Minimax-Q for general-sum games that learns a Q-value function for each agent, and chooses the action that is a Nash equilibrium .
+  - Fictitious play: a learning algorithm for general-sum games that assumes that the other agents play according to their empirical frequency distribution, and chooses the best response to that distribution .
+  - Descent: a learning and planning algorithm for perfect-information games that uses a neural network to approximate the value function, and uses gradient descent to update the network parameters.
+  - CFR: a learning algorithm for imperfect-information games that uses counterfactual regret minimization to iteratively improve the strategy of each agent .
+  - WoLF-PHC: a reinforcement learning algorithm for non-stationary games that uses a variable learning rate to adjust the policy of each agent according to the win or lose frequency .

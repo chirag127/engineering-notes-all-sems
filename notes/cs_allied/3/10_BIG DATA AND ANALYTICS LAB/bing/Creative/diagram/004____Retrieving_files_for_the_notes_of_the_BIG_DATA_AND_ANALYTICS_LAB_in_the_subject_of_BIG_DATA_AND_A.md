@@ -1,0 +1,6 @@
+## Retrieving files for the notes of the BIG DATA AND ANALYTICS LAB in the subject of BIG DATA AND ANALYTICS LAB
+
+- To retrieve files for the notes of the BIG DATA AND ANALYTICS LAB, you need to access the online learning platform of your institution and navigate to the course page of the subject.
+- On the course page, you will find a section called "Lab Notes" where you can download the files for each lab session. The files are in PDF format and contain the objectives, instructions, and expected outputs of the lab exercises.
+- Alternatively, you can also access the files from the cloud storage service that your instructor has shared with you. You will need to log in with your credentials and open the folder named "BIG DATA AND ANALYTICS LAB". There you will find the files for the notes of the lab sessions.
+- You should save the files in a convenient location on your device and review them before and after each lab session. You should also take notes of your own observations and results during the lab exercises and compare them with the expected outputs. This will help you to understand the concepts and techniques of big data and analytics better.

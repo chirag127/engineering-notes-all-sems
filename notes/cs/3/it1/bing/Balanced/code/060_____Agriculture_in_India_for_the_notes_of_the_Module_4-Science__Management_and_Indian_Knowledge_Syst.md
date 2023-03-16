@@ -1,0 +1,9 @@
+### Agriculture in India
+
+- Agriculture is one of the major sectors of the Indian economy, contributing about 16% of the gross domestic product (GDP) and employing about 58% of the population .
+- India has a diverse agro-climatic zone, ranging from tropical to temperate, and produces a variety of crops, such as cereals, pulses, oilseeds, fruits, vegetables, spices, sugarcane, cotton, jute, tea, coffee, and rubber .
+- India is the world's largest producer of many fresh fruits, such as banana, mango, guava, papaya, and lemon, and vegetables, such as chickpea, okra, and milk, major spices, such as chili pepper, ginger, fibrous crops, such as jute, staples, such as millets, and castor oilseed .
+- India is also the world's largest cattle herd (buffaloes), and the largest producer of milk, accounting for about 22% of the global production .
+- India's agriculture sector is facing several challenges, such as low productivity, declining soil fertility, water scarcity, climate change, market volatility, and policy uncertainty .
+- The government of India has launched various schemes and initiatives to support and improve the agriculture sector, such as Pradhan Mantri Fasal Bima Yojana (PMFBY), Pradhan Mantri Krishi Sinchai Yojana (PMKSY), Soil Health Card Scheme, National Agriculture Market (e-NAM), Pradhan Mantri Kisan Samman Nidhi (PM-KISAN), and Kisan Credit Card (KCC) Scheme .
+- The agriculture sector has a huge potential for growth and development, as India has a large domestic market, a favorable demographic dividend, a rich biodiversity, and a strong research and development base .

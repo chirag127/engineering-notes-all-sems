@@ -1,0 +1,13 @@
+### Security for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Security is a crucial aspect of blockchain technology, as it ensures the integrity, confidentiality and availability of the data stored and exchanged on the network.
+- Security in blockchain is based on the following principles:
+  - Cryptography: Blockchain networks use cryptographic algorithms to secure transactions and data. This means that the security of the network depends on the strength of the cryptographic algorithms and the keys used to encrypt and decrypt the data .
+  - Decentralization: Blockchain networks are distributed among multiple nodes, each of which maintains a copy of the ledger. This means that there is no single point of failure or control, and that the network can resist attacks or censorship by malicious actors .
+  - Consensus: Blockchain networks use consensus mechanisms to ensure that all nodes agree on the state of the ledger and validate transactions. This means that the network can prevent double-spending, fraud and tampering, and that the transactions are irreversible .
+- Security in blockchain is also a comprehensive risk management system, which involves using cybersecurity frameworks, assurance services and best practices to reduce the risks of attacks and fraud .
+- Security in blockchain is a dynamic and evolving field, as new threats and challenges emerge with the development and adoption of the technology. Some of the current and future security issues in blockchain include:
+  - Cryptojacking: This is a type of malware that hijacks the computing resources of infected devices to mine cryptocurrencies without the user's consent or knowledge.
+  - Rug pulls: This is a type of scam that involves the creators of a decentralized application (DApp) or a decentralized finance (DeFi) project withdrawing or stealing the funds invested by the users, leaving them with worthless tokens or contracts.
+  - 51% attacks: This is a type of attack that involves a malicious actor gaining control of more than 50% of the network's computing power, which allows them to manipulate the ledger, reverse transactions, double-spend or halt the network.
+  - Quantum computing: This is a type of computing that uses quantum physics to perform operations that are faster and more powerful than classical computers. This poses a potential threat to the security of blockchain networks, as quantum computers could break the cryptographic algorithms and keys that secure the data.

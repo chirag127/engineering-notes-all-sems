@@ -1,0 +1,24 @@
+# Evaluating Wayfinding Aids for 3D Interaction Techniques
+
+- Wayfinding aids (WATs) are tools or methods that help users navigate in 3D virtual environments (VEs) by providing spatial information or guidance.
+- WATs can be classified into four categories: maps, compasses, landmarks, and signs .
+- Maps show the layout of the VE from a top-down or bird's-eye perspective, and can be either static or dynamic, embedded or overlaid, or global or local.
+- Compasses indicate the direction of the user's orientation or the destination, and can be either 2D or 3D, embedded or overlaid, or absolute or relative.
+- Landmarks are distinctive objects or features in the VE that serve as reference points or cues for navigation, and can be either natural or artificial, static or dynamic, or global or local.
+- Signs are textual or graphical symbols that provide directions or instructions for navigation, and can be either static or dynamic, embedded or overlaid, or global or local.
+- Evaluating WATs is important to understand their impact on user performance, experience, and preference in 3D VEs.
+- Evaluation methods can be either quantitative or qualitative, objective or subjective, or experimental or observational.
+- Quantitative methods measure numerical data such as task completion time, error rate, distance traveled, or number of turns.
+- Qualitative methods collect descriptive data such as user feedback, comments, ratings, or preferences.
+- Objective methods rely on observable and measurable data such as system logs, sensors, or eye tracking.
+- Subjective methods depend on user-reported data such as questionnaires, interviews, or think-aloud protocols.
+- Experimental methods involve controlled settings, predefined tasks, and predefined WATs, and compare different WATs or conditions.
+- Observational methods involve natural settings, open-ended tasks, and user-selected WATs, and observe user behavior and interaction with WATs.
+- Evaluation criteria can be based on different aspects of user performance, experience, and preference, such as effectiveness, efficiency, satisfaction, usability, learnability, memorability, or presence.
+- Effectiveness measures how well the user can complete the navigation task or reach the destination with the help of WATs.
+- Efficiency measures how fast or how much effort the user can complete the navigation task or reach the destination with the help of WATs.
+- Satisfaction measures how pleased or comfortable the user is with the WATs or the navigation task.
+- Usability measures how easy or intuitive the WATs are to use or understand.
+- Learnability measures how quickly or easily the user can learn to use or understand the WATs.
+- Memorability measures how well the user can remember the spatial information or the WATs after the navigation task.
+- Presence measures how immersed or engaged the user feels in the VE or the navigation task.

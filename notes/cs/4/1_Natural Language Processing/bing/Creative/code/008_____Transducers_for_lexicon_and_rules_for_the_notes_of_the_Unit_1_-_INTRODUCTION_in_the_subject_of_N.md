@@ -1,0 +1,8 @@
+# Transducers for lexicon
+
+- A transducer is a device or a model that converts one form of data into another form of data. For example, a microphone is a transducer that converts sound waves into electrical signals.
+- In natural language processing (NLP), a transducer is often used to map between different levels of linguistic representation, such as surface forms and lexical forms, or words and syntactic structures.
+- A lexical transducer is a specialized finite-state transducer that maps inflected surface forms to lexical forms, and vice versa . For example, a lexical transducer can map the word "dogs" to its lexical form "dog+N+PL", indicating that it is a noun in plural form.
+- A lexical transducer can be constructed using finite-state methods, such as regular expressions, rewrite rules, and composition operations. A lexical transducer can also be compiled from a lexicon, which is a list of words and their morphological features.
+- A lexical transducer can be used for various NLP tasks, such as morphological analysis, morphological generation, spelling correction, text normalization, and finite-state parsing . A lexical transducer can also be used to compress large lexicons for efficient storage and retrieval .
+- A lexical transducer can be seen as a generalization of a finite-state automaton, which is a transducer that maps strings to sets of states. A lexical transducer can also be seen as a special case of a weighted finite-state transducer, which is a transducer that maps strings to strings with weights .

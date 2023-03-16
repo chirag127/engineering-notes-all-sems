@@ -1,0 +1,11 @@
+### Actuators for IoT
+
+- An actuator is a device that converts energy into motion. It does this by taking an electrical signal and combining it with an energy source .
+- In an IoT system, the actuator can act on data collected by sensors to create an outcome as determined by the chosen settings of the user .
+- For example, a smart thermostat can use an actuator to adjust the temperature of a room based on the sensor data and the user's preference.
+- There are different types of actuators for IoT, such as :
+  - Thermal/Magnetic Actuators: These are actuated by thermal or mechanical energy. Shape Memory Alloys (SMAs) or Magnetic Shape Memory Alloys (MSMAs) are examples of this type. They can change their shape or size when heated or magnetized, and return to their original form when cooled or demagnetized.
+  - Mechanical Actuators: A mechanical actuator executes movement by converting rotary motion into linear motion. It uses gears, screws, levers, or belts to achieve this. A common example is a servo motor, which can rotate to a specific angle based on the input signal.
+  - Soft Actuators: These are made of soft materials that can deform or bend when stimulated by electricity, light, heat, or chemicals. Shape Memory Polymers (SMPs), Light Activated Polymers (LAPs), and Electroactive Polymers (EAPs) are examples of this type. They can mimic natural movements, such as muscle contraction or expansion.
+  - Hydraulic/Pneumatic Actuators: These use pressurized fluids or gases to generate force or motion. They can produce high torque and speed, and are suitable for heavy-duty applications. A common example is a hydraulic cylinder, which can extend or retract based on the fluid pressure.
+  - Piezoelectric Actuators: These use the piezoelectric effect, which is the ability of some materials to generate electric charge when subjected to mechanical stress, or vice versa. They can produce precise and rapid movements, and are suitable for micro- or nano-scale applications. A common example is a piezoelectric buzzer, which can produce sound waves based on the electric signal.

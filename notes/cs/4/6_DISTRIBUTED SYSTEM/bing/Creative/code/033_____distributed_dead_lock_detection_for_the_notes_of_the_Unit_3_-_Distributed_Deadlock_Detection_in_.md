@@ -1,0 +1,11 @@
+### Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set.
+- Deadlocks can occur in distributed systems when distributed transactions or concurrency control are utilized.
+- Deadlock detection is one of the strategies to deal with deadlocks, along with deadlock prevention and deadlock avoidance.
+- Deadlock detection in distributed systems entails addressing two basic issues: detection of existing deadlocks and resolution of detected deadlocks.
+- Deadlock detection requires examination of the status of process-resource interactions for presence of cyclic wait.
+- There are three approaches to detect deadlocks in distributed systems:
+  - Centralized approach: A single node is designated as the deadlock detector and collects the local wait-for graphs from all the nodes to construct a global wait-for graph. The deadlock detector periodically runs a cycle detection algorithm on the global wait-for graph and informs the nodes about the deadlocked processes. This approach has the advantages of simplicity and low message complexity, but the disadvantages of single point of failure and bottleneck.
+  - Hierarchical approach: The nodes are organized into a logical hierarchy, such as a tree, and each node has a parent and possibly some children. The leaf nodes send their local wait-for graphs to their parents, who aggregate them and send them to their parents, and so on, until the root node receives the global wait-for graph. The root node runs a cycle detection algorithm and sends the deadlock information to the affected nodes. This approach has the advantages of fault tolerance and load balancing, but the disadvantages of high message complexity and delay.
+  - Distributed approach: Each node maintains its own local wait-for graph and initiates a cycle detection algorithm when it suspects a deadlock. The cycle detection algorithm involves sending probe messages along the edges of the wait-for graph and waiting for replies. If a node receives a probe message that originated from itself, it detects a cycle and initiates a deadlock resolution. This approach has the advantages of no single point of failure and no global wait-for graph, but the disadvantages of high message complexity and false deadlock detection.

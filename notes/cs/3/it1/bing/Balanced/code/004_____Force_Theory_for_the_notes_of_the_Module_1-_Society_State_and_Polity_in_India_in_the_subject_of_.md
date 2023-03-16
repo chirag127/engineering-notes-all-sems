@@ -1,0 +1,8 @@
+# Force Theory of Origin of State
+
+- Force theory of origin of state is a theory that explains the emergence of the state as a result of the conquest and domination of one group of people over another by the use of physical force  .
+- According to this theory, the state originated due to the need for security, order and protection from external and internal threats, which led the strong and powerful to subjugate the weak and vulnerable and establish their authority over them  .
+- The theory is based on the assumption that war is the natural condition of human society and that the state is the product of war and violence  .
+- The theory is also known as the conquest theory or the might-is-right theory, as it implies that the state is founded on the principle of force and coercion, and that the legitimacy and sovereignty of the state derive from the power and will of the conqueror  .
+- The theory is supported by some historical examples of state formation, such as the ancient empires of Egypt, Mesopotamia, China, Rome and Greece, which were built by the expansion and annexation of territories and peoples by military force  .
+- The theory is criticized by many scholars and thinkers for being simplistic, unrealistic, unethical and inaccurate, as it ignores the role of other factors and processes in the origin and development of the state, such as social contract, divine right, natural law, evolution, culture, religion, economy, law, consent, cooperation and democracy    .

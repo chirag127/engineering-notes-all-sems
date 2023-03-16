@@ -1,0 +1,33 @@
+# Backward Chaining
+
+- Backward chaining is a concept in artificial intelligence that involves backtracking from the endpoint or goal to steps that led to the endpoint .
+- It is a goal-driven inference method that starts from the goal and moves backward to comprehend the steps that were taken to attain this goal .
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications .
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining.
+- The main steps of backward chaining are :
+  - Start with the goal or query and try to find a rule that has the goal as its conclusion.
+  - If such a rule is found, then try to prove its premises using the same method recursively.
+  - If no such rule is found, then try to find a fact that matches the goal or query.
+  - If such a fact is found, then the goal or query is true.
+  - If no such fact is found, then the goal or query is false or unknown.
+- An example of backward chaining is:
+  - Goal: John is a grandfather.
+  - Rule 1: If X is a father of Y and Y is a father of Z, then X is a grandfather of Z.
+  - Rule 2: If X is a father of Y and Y is a mother of Z, then X is a grandfather of Z.
+  - Fact 1: John is a father of Bob.
+  - Fact 2: Bob is a father of Alice.
+  - Fact 3: Bob is a mother of Eve.
+  - Backward chaining process:
+    - Try to find a rule that has John is a grandfather as its conclusion.
+    - Rule 1 and Rule 2 match the conclusion, so try to prove their premises.
+    - For Rule 1, try to prove John is a father of Y and Y is a father of Z.
+    - For Rule 2, try to prove John is a father of Y and Y is a mother of Z.
+    - For both rules, try to find a fact that matches John is a father of Y.
+    - Fact 1 matches the premise, so Y is Bob.
+    - For Rule 1, try to find a fact that matches Bob is a father of Z.
+    - Fact 2 matches the premise, so Z is Alice.
+    - For Rule 2, try to find a fact that matches Bob is a mother of Z.
+    - Fact 3 matches the premise, so Z is Eve.
+    - Therefore, John is a grandfather of Alice and Eve by Rule 1 and Rule 2 respectively.
+    - The goal is true.

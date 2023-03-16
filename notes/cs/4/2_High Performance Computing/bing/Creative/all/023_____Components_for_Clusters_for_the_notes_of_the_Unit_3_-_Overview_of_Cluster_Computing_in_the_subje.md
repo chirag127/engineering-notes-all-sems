@@ -1,0 +1,10 @@
+# Components for Clusters
+
+- A cluster is a collection of interconnected computers that work together as a single system to perform high-performance computing tasks.
+- A cluster typically consists of the following components    :
+  - A cluster provisioner that ensures node homogeneity and manages the installation and configuration of the cluster software and hardware.
+  - Servers, often referred to as nodes, that provide the computing power and run the applications. Nodes can be homogeneous or heterogeneous in terms of their hardware and software specifications. Nodes can be divided into different types, such as head nodes, compute nodes, login nodes, and service nodes, depending on their roles and functions in the cluster.
+  - A scheduler that queues up workloads against the cluster resources and allocates nodes to the jobs submitted by the users. A scheduler also monitors the status and performance of the cluster and handles failures and errors.
+  - A network for communication between nodes and external devices. The network can be composed of different types of interconnects, such as Ethernet, InfiniBand, or Omni-Path, that vary in their bandwidth, latency, and cost. The network topology and routing can also affect the performance and scalability of the cluster.
+  - A general-purpose storage solution used to store applications and user data. This can be a local storage attached to each node, a shared storage accessible by all nodes, or a cloud storage service. The storage solution should provide sufficient capacity, performance, reliability, and security for the cluster needs.
+  - A high-speed, low-latency clustered file system generally used for computational storage. This is a special type of file system that allows multiple nodes to access the same files concurrently and consistently. A clustered file system can improve the data throughput and availability of the cluster and reduce the data movement and duplication. Examples of clustered file systems are Lustre, GPFS, and BeeGFS.

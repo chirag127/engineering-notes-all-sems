@@ -1,0 +1,11 @@
+### Speeding up the solution of NP – complete problems
+
+- Efficiently solving NP-complete problems is a main area of research today .
+- Quantum computing, whose supremacy over classical computing is still controversial, is an often considered method for speeding up computation of NP-complete problems .
+- The quantum counting algorithm can be used to speed up solution to problems which are NP-complete .
+- An example of an NP-complete problem is the Hamiltonian cycle problem, which is the problem of determining whether a graph has a Hamiltonian cycle .
+- Quantum computers do not uniformly speed up all computational problems .
+- One of the most important classes of computational problems, the NP-complete problems, have been described as looking for a needle in an exponentially large haystack .
+- For several NP-complete problems, many sophisticated classical algorithms have been designed .
+- They are still exponential, but much faster than the brute force algorithms .
+- The question arises whether their running time can still be decreased from T(n) to \\tilde {O}(\\sqrt {T(n)}) by using a quantum computer .

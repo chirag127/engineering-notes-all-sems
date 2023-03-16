@@ -1,0 +1,9 @@
+### Beyond Text and Number entry for 3D interaction techniques
+
+- Text and number entry are common tasks in many interactive applications, but they pose challenges in 3D environments, such as virtual reality (VR) and augmented reality (AR).
+- Traditional input devices, such as keyboards and mice, are not well suited for 3D interaction, as they require a flat surface and may not be available or convenient in VR/AR settings.
+- Therefore, alternative methods for text and number entry in 3D are needed, such as gesture-based, voice-based, or selection-based techniques.
+- Gesture-based techniques allow the user to perform hand or finger motions to enter text or numbers, such as drawing letters in the air or using finger counting. These techniques can be natural and intuitive, but they may also suffer from recognition errors, fatigue, and lack of feedback.
+- Voice-based techniques allow the user to speak the text or numbers they want to enter, using speech recognition software. These techniques can be fast and easy, but they may also suffer from noise interference, privacy issues, and social awkwardness.
+- Selection-based techniques allow the user to select characters from a virtual keyboard, using a controller, a gaze, or a hand gesture. These techniques can be accurate and familiar, but they may also suffer from low speed, high cognitive load, and occlusion problems.
+- The design of text and number entry techniques for 3D interaction should consider the following factors: the input modality, the output modality, the layout of the characters, the feedback mechanism, the error correction method, and the user preferences.

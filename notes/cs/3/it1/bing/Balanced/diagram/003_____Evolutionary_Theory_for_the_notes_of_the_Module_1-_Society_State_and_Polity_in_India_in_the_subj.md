@@ -1,0 +1,10 @@
+### Evolutionary Theory
+
+- Evolutionary theory is a sociological theory that attempts to explain the origin and changes of society and culture over time.
+- Evolutionary theory is based on the assumption that societies gradually change from simple beginnings into more complex forms, and that social change means progress toward something better.
+- Evolutionary theory draws on the concepts of variation, selection, and transmission from biological evolution, but applies them to social and cultural phenomena.
+- Evolutionary theory can be divided into two main branches: unilinear and multilinear.
+  - Unilinear evolutionary theory holds that all societies follow the same path of development, from primitive to civilized, and that they can be classified into stages based on their level of technology, economy, and culture. Examples of unilinear theorists are Auguste Comte, Herbert Spencer, and Lewis Henry Morgan.
+  - Multilinear evolutionary theory holds that different societies can follow different paths of development, depending on their environmental and historical circumstances, and that they can be compared based on their adaptive strategies, modes of production, and forms of social organization. Examples of multilinear theorists are Franz Boas, Leslie White, and Julian Steward.
+- A contemporary version of evolutionary theory is ecological-evolutionary theory (EET), which emphasizes the importance of natural environment and technological change as the main drivers of sociocultural evolution. EET argues that societies evolve through a process of adaptation, selection, and differentiation, and that they can be classified into four types: hunting and gathering, horticultural, agrarian, and industrial .
+- Evolutionary theory has been criticized for being ethnocentric, deterministic, teleological, and reductionist, and for ignoring the role of human agency, conflict, and diversity in social change .

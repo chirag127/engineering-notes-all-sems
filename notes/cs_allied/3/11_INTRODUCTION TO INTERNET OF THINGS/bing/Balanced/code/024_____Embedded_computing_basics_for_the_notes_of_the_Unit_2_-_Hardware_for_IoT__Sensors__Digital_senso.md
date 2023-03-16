@@ -1,0 +1,21 @@
+### Embedded computing basics
+
+- An embedded system is a special-purpose computer system designed to perform a dedicated function.
+- Unlike a general-purpose computer, such as a personal computer, an embedded system performs one or a few pre-defined tasks, usually with very specific requirements, and often includes task-specific hardware and mechanical parts not usually found in a general-purpose computer.
+- Embedded systems are typically characterized by low cost, low power, small size, high reliability, and real-time performance.
+- Embedded systems can be classified into four types: standalone, networked, mobile, and real-time.
+- Standalone embedded systems operate independently and do not require a host system or network connection.
+- Networked embedded systems rely on a network connection to communicate with other systems or devices, such as the Internet of Things (IoT) devices.
+- Mobile embedded systems are portable and battery-powered, such as smartphones, tablets, and wearable devices.
+- Real-time embedded systems have strict timing constraints and must respond to events or inputs within a specified deadline, such as industrial control systems, medical devices, and avionics systems.
+- Embedded systems are widely used in various domains, such as consumer electronics, automotive, aerospace, telecommunications, healthcare, and industrial automation.
+- Embedded systems are developed using a combination of hardware and software components, such as microcontrollers, microprocessors, sensors, actuators, memory, input/output devices, operating systems, and application software.
+- Embedded systems software and development environments are specialized tools and techniques for designing, testing, debugging, and optimizing embedded systems.
+- Some of the common embedded systems software and development environments are C/C++ programming languages, assembly language, embedded Linux, real-time operating systems, cross compilers, debuggers, simulators, and emulators.
+- Some of the popular embedded systems hardware platforms for IoT are Arduino, Netduino, Raspberry Pi, BeagleBone, Intel Galileo, and ARM Cortex.
+- Arduino is an open-source platform that consists of a microcontroller board and a software development environment that can be used to create interactive electronic projects.
+- Netduino is a similar platform to Arduino, but it uses the .NET Micro Framework and C# programming language instead of C/C++.
+- Raspberry Pi is a low-cost, credit-card sized computer that can run Linux and other operating systems, and can be used for various applications, such as web servers, media centers, robotics, and home automation.
+- BeagleBone is another single-board computer that can run Linux and other operating systems, and has more processing power and memory than Raspberry Pi, but is also more expensive.
+- Intel Galileo is a microcontroller board that is compatible with Arduino, but also supports Linux and other operating systems, and has more connectivity options, such as Ethernet, USB, and mini-PCI Express.
+- ARM Cortex is a family of microcontroller cores that are widely used in embedded systems, and can run various operating systems, such as Linux, Android, Windows Embedded, and FreeRTOS.

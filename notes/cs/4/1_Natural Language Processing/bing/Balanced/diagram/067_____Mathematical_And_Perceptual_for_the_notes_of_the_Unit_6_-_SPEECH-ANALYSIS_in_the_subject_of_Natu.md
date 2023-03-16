@@ -1,0 +1,10 @@
+### Mathematical And Perceptual Speech Analysis
+
+- Mathematical speech analysis is the study of how human language and mathematics relate to each other and to the real world. It involves using mathematical models and methods to describe, explain, and predict various aspects of speech and language, such as phonology, morphology, syntax, and semantics .
+- Perceptual speech analysis is the study of how human listeners perceive and process speech sounds and meanings. It involves using psychological and physiological principles and methods to measure and model the auditory system and its responses to speech stimuli, such as critical-band spectral resolution, equal-loudness curve, and intensity-loudness power law.
+- Mathematical and perceptual speech analysis are both important for natural language processing, as they provide insights into the structure, function, and representation of human language and communication. They also enable the development of speech technology applications, such as speech recognition, synthesis, and enhancement.
+- Some of the challenges and open problems in mathematical and perceptual speech analysis are:
+  - How to account for the variability and diversity of speech and language across speakers, dialects, genres, and contexts.
+  - How to integrate the different levels and modalities of speech and language, such as phonetics, phonology, morphology, syntax, semantics, pragmatics, and gesture .
+  - How to bridge the gap between the formal and empirical aspects of speech and language, such as the logical and probabilistic models, the symbolic and subsymbolic representations, and the discrete and continuous properties.
+  - How to evaluate the validity and reliability of speech and language models and methods, and how to compare and contrast them with human performance and behavior .

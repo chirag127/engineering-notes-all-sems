@@ -1,0 +1,24 @@
+# NIST Cloud Computing Reference Architecture
+
+- The NIST Cloud Computing Reference Architecture (NIST SP 500-292) is a document that defines a baseline cloud computing architecture and taxonomy to facilitate communication and understanding of various cloud services and components .
+- The NIST Cloud Computing Reference Architecture consists of five major architectural components :
+  - Cloud Consumer: A person or organization that maintains a business relationship with, and uses service from, Cloud Providers.
+  - Cloud Provider: A person, organization, or entity responsible for making a service available to Cloud Consumers.
+  - Cloud Auditor: A party that can conduct independent assessment of cloud services, information system operations, performance and security of the cloud implementation.
+  - Cloud Broker: An entity that manages the use, performance and delivery of cloud services, and negotiates relationships between Cloud Providers and Cloud Consumers.
+  - Cloud Carrier: An intermediary that provides connectivity and transport of cloud services from Cloud Providers to Cloud Consumers.
+- The NIST Cloud Computing Reference Architecture also defines a set of cloud service categories and subcategories, based on the service and deployment models of the NIST Cloud Computing Definition:
+  - Software as a Service (SaaS): The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure. The applications are accessible from various client devices through a thin client interface such as a web browser (e.g., web-based email). The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
+    - Examples of SaaS subcategories are: Customer Relationship Management, Email, Collaboration, Productivity, Content Management, etc.
+  - Platform as a Service (PaaS): The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage, but has control over the deployed applications and possibly configuration settings for the application-hosting environment.
+    - Examples of PaaS subcategories are: Application Development, Database, Business Analytics, Integration, etc.
+  - Infrastructure as a Service (IaaS): The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls).
+    - Examples of IaaS subcategories are: Compute, Storage, Network, Security, etc.
+- The NIST Cloud Computing Reference Architecture also provides a set of cloud service attributes that can be used to describe and compare different cloud services:
+  - Service Level Agreement (SLA): A contract between a Cloud Provider and a Cloud Consumer that specifies the performance, availability, security, and other characteristics of the service offered by the provider.
+  - Performance: The measure of the quality and efficiency of the service delivered by the provider, such as response time, throughput, availability, reliability, scalability, etc.
+  - Security: The degree of protection of the service and the data from unauthorized access, use, disclosure, modification, or destruction, such as confidentiality, integrity, availability, authentication, authorization, accountability, etc.
+  - Manageability: The ability of the provider and the consumer to monitor, control, and administer the service and the resources involved, such as provisioning, configuration, maintenance, backup, recovery, etc.
+  - Usability: The ease of use and satisfaction of the consumer with the service and the interface, such as user-friendliness, accessibility, documentation, support, etc.
+  - Interoperability: The ability of the service to work with other services, systems, or components without special effort, such as standards, protocols, formats, etc.
+  - Portability: The ability of the service or the data to be moved from one provider to another or from one environment to another, such as migration, compatibility, etc.

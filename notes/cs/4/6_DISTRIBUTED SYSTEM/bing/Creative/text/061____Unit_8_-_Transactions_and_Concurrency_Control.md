@@ -1,0 +1,18 @@
+## Unit 8 - Transactions and Concurrency Control
+
+- A **transaction** is a logical unit of work that consists of a sequence of operations on a database, such as reading, writing, inserting, deleting, or updating data.
+- A transaction has four main properties, known as **ACID**:
+  - **Atomicity**: A transaction is either executed completely or not at all. If a transaction fails in the middle, the database is restored to its original state before the transaction started.
+  - **Consistency**: A transaction preserves the integrity constraints and business rules of the database. After a transaction completes, the database is in a consistent and valid state.
+  - **Isolation**: A transaction is executed independently of other transactions. The intermediate results of a transaction are not visible to other transactions, and vice versa.
+  - **Durability**: The effects of a transaction are permanent and persist even in the event of system failures or power outages.
+- A **concurrency control** mechanism is a set of rules and techniques that ensures the correct and consistent execution of multiple transactions on a shared database.
+- Concurrency control is necessary to prevent **conflicts** or **anomalies** that may arise when multiple transactions access or modify the same data concurrently, such as:
+  - **Lost update**: A transaction overwrites the changes made by another transaction that has not yet committed.
+  - **Dirty read**: A transaction reads the uncommitted changes made by another transaction.
+  - **Non-repeatable read**: A transaction reads the same data twice, but gets different results because another transaction has modified the data in between.
+  - **Phantom read**: A transaction reads a set of data that satisfies some condition, but gets different results because another transaction has inserted or deleted some data that satisfies the same condition in between.
+- There are different types of concurrency control mechanisms, such as:
+  - **Locking**: A transaction acquires locks on the data items it needs to access or modify, and releases them when it is done. Locks can be exclusive (for writing) or shared (for reading). Locks prevent other transactions from accessing or modifying the same data items concurrently, thus ensuring isolation and preventing lost updates. However, locking may cause **deadlocks**, where two or more transactions are waiting for each other to release locks, or **starvation**, where a transaction is repeatedly denied access to a data item due to other transactions holding locks for a long time.
+  - **Timestamping**: A transaction is assigned a unique timestamp when it starts, and uses it to order its operations on the data items. Timestamps can be either logical (based on a counter) or physical (based on the system clock). Timestamps ensure that older transactions have precedence over newer transactions, thus ensuring consistency and preventing lost updates and dirty reads. However, timestamping may cause **aborts**, where a transaction is rolled back and restarted due to conflicts with other transactions, or **cascading aborts**, where a transaction is rolled back and causes other transactions that depend on its results to be rolled back as well.
+  - **Optimistic**: A transaction executes without any concurrency control until it is ready to commit, and then checks if there are any conflicts with other transactions. If there are no conflicts, the transaction commits; otherwise, it aborts and restarts. Optimistic concurrency control assumes that conflicts are rare, and avoids the overhead of locking or timestamping. However, optimistic concurrency control may cause a high rate of aborts if conflicts are frequent, or if transactions are long and access many data items.

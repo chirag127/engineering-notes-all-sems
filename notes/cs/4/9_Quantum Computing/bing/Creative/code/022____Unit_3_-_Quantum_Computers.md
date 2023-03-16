@@ -1,0 +1,7 @@
+## Unit 3 - Quantum Computers
+
+- Quantum computers are devices that use the principles of quantum mechanics to perform computations that are impossible or impractical for classical computers.
+- Quantum computers exploit the phenomena of superposition, entanglement, and interference to manipulate quantum bits (qubits), which can store and process information in two states simultaneously.
+- Quantum computers can perform certain tasks faster and more efficiently than classical computers, such as factoring large numbers, simulating quantum systems, and solving optimization problems.
+- Quantum computers are also more powerful than classical computers in terms of computational complexity, as they can solve some problems that are intractable for classical computers, such as the Deutsch-Jozsa problem and Grover's search algorithm.
+- Quantum computers are currently limited by various challenges, such as decoherence, noise, error correction, scalability, and algorithm design. However, significant progress has been made in recent years to overcome these obstacles and demonstrate quantum supremacy, which is the ability of a quantum computer to outperform a classical computer on a specific task.

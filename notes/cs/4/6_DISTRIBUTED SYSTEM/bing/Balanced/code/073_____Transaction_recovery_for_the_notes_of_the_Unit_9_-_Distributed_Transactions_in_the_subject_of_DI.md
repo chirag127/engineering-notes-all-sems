@@ -1,0 +1,25 @@
+### Transaction recovery for the notes of the Unit 9 - Distributed Transactions in the subject of DISTRIBUTED SYSTEM
+
+- A distributed transaction is a transaction that involves multiple sites or nodes in a distributed system, such as a network of databases or microservices.
+- A distributed transaction must satisfy the ACID properties: atomicity, consistency, isolation, and durability.
+- Atomicity means that either all the subtransactions of a distributed transaction commit or none of them do.
+- Consistency means that the distributed transaction preserves the integrity constraints of the data.
+- Isolation means that the distributed transaction does not interfere with other concurrent transactions.
+- Durability means that the effects of a committed distributed transaction are permanent and survive failures.
+- A failure in a distributed system can affect one or more sites or nodes, and can cause partial or complete loss of data, communication, or processing capability.
+- A failure can also leave some distributed transactions in an uncertain or in-doubt state, where it is not clear whether they have committed or aborted.
+- Transaction recovery is the process of restoring the consistency and durability of the data after a failure, by either committing or aborting the affected distributed transactions.
+- Transaction recovery in a distributed system is more complex than in a centralized system, because it involves coordination and communication among multiple sites or nodes, and it must handle different types of failures and their effects.
+- There are two main approaches for transaction recovery in a distributed system: logging and shadow versions.
+- Logging is a technique that records the changes made by a distributed transaction in a log file, which can be used to undo or redo the changes in case of a failure.
+- Shadow versions is a technique that creates a copy of the data before a distributed transaction modifies it, and switches to the new version only after the transaction commits.
+- Both logging and shadow versions require a distributed commit protocol, such as the two-phase commit protocol, to ensure atomicity of the distributed transaction.
+- The two-phase commit protocol consists of two phases: the prepare phase and the commit phase.
+- In the prepare phase, the coordinator of the distributed transaction asks all the participants to vote on whether they are ready to commit or not, and collects their votes.
+- In the commit phase, the coordinator decides whether to commit or abort the distributed transaction based on the votes, and informs all the participants of the decision.
+- The two-phase commit protocol can handle some types of failures, such as site failures or communication failures, by using timeouts and recovery managers.
+- However, the two-phase commit protocol can also block or deadlock if the coordinator or some participants fail permanently or indefinitely, and no one knows the outcome of the distributed transaction.
+- To avoid blocking or deadlock, some variations of the two-phase commit protocol have been proposed, such as the three-phase commit protocol, the presumed abort protocol, and the presumed commit protocol.
+- The three-phase commit protocol adds a pre-commit phase between the prepare phase and the commit phase, where the coordinator and the participants agree on the decision before committing or aborting.
+- The presumed abort protocol optimizes the two-phase commit protocol by assuming that a distributed transaction is aborted unless it is explicitly committed, and thus reducing the amount of logging and communication needed.
+- The presumed commit protocol optimizes the two-phase commit protocol by assuming that a distributed transaction is committed unless it is explicitly aborted, and thus reducing the amount of logging and communication needed.

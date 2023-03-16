@@ -1,0 +1,11 @@
+# Principles of Service Design
+
+Service design is the process of planning and organizing the interactions between a service provider and its customers, as well as the resources and infrastructure required to deliver the service. Service design aims to create services that are useful, usable, desirable, efficient and effective for both the service provider and the customers.
+
+Some of the principles of service design are:
+
+- **User-centered**: Service design should be based on a genuine understanding of the needs, expectations and preferences of the customers, as well as their behaviors and emotions when using the service. Service design should involve customers in the co-creation of the service, and test the service with them to ensure it meets their needs .
+- **Business-oriented**: Service design should also consider the goals, capabilities and constraints of the service provider, and align the service with the business strategy and vision. Service design should ensure that the service is feasible, viable and sustainable for the service provider, and that it delivers value to the business and the customers .
+- **Holistic**: Service design should look at the service as a whole, and consider all the touchpoints, channels, actors and interactions that are involved in the service delivery. Service design should also take into account the context and environment of the service, and the interdependencies and relationships between the service and other services or systems .
+- **Iterative**: Service design should follow an iterative process of research, ideation, prototyping, testing and evaluation, and continuously improve the service based on feedback and learning. Service design should be flexible and adaptable to changing needs, expectations and situations, and embrace experimentation and innovation .
+- **Evidencing**: Service design should make the service tangible and visible, and communicate the value and benefits of the service to the customers and the service provider. Service design should use visual and experiential methods to illustrate the service concept, the customer journey, the service blueprint and the service prototype, and to elicit feedback and insights from the stakeholders .

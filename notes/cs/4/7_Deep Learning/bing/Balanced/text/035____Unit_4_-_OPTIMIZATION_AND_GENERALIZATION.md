@@ -1,0 +1,10 @@
+## Unit 4 - OPTIMIZATION AND GENERALIZATION
+
+- Optimization is the process of finding the best parameters for a machine learning model that minimize the loss function on the training data.
+- Generalization is the ability of a machine learning model to perform well on new and unseen data that is not part of the training data.
+- Optimization and generalization are related but not the same. A model that is over-optimized may overfit the training data and fail to generalize well. A model that is under-optimized may underfit the training data and also fail to generalize well.
+- There are different methods and techniques for optimization and generalization, such as gradient descent, regularization, early stopping, cross-validation, etc.
+- Gradient descent is an iterative algorithm that updates the parameters of a model by moving in the opposite direction of the gradient of the loss function with respect to the parameters. The size of the update is determined by the learning rate, which is a hyperparameter that controls how fast the model learns.
+- Regularization is a technique that adds a penalty term to the loss function to reduce the complexity of the model and prevent overfitting. There are different types of regularization, such as L1, L2, dropout, etc.
+- Early stopping is a technique that stops the training process when the validation loss stops decreasing or starts increasing, indicating that the model is overfitting the training data and not improving on the validation data.
+- Cross-validation is a technique that splits the data into k folds and trains the model on k-1 folds while testing it on the remaining fold. This is repeated for each fold and the average performance is reported. Cross-validation helps to evaluate the model's generalization ability and to tune the hyperparameters.

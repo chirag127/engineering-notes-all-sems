@@ -1,0 +1,9 @@
+# On‐demand Provisioning
+
+- On-demand provisioning is a feature of cloud computing that allows users to access and allocate cloud resources as and when they need them, without requiring human intervention or long-term commitment .
+- On-demand provisioning enables cloud users to scale up or down their computing resources dynamically, depending on their workload and demand.
+- On-demand provisioning also reduces the cost and complexity of managing cloud resources, as users only pay for what they use and do not have to worry about over-provisioning or under-provisioning.
+- On-demand provisioning can be implemented in different ways, depending on the cloud service model and the cloud provider. Some examples are:
+  - On-demand self-service: This is a service provided by cloud providers that enables users to provision cloud resources through an online control panel or an API, without requiring any approval or assistance from the provider . For example, users can create, delete, or resize virtual machines, storage, or databases on demand.
+  - On-demand resource provisioning: This is a technique used by cloud providers to allocate cloud resources to users based on their estimated or actual load, and to release them when they are no longer needed. For example, cloud providers can use load balancing, auto-scaling, or elasticity mechanisms to adjust the number of servers, CPU, or memory available to users on demand.
+  - On-demand provisioning in Azure Active Directory: This is a feature of Azure Active Directory that allows users to provision user accounts and groups from a source system (such as an on-premises Active Directory) to a target system (such as a cloud application) on demand, without requiring a scheduled synchronization . For example, users can provision a user account from their on-premises Active Directory to a cloud application when they sign in to the application for the first time.

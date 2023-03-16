@@ -1,0 +1,15 @@
+### Designing of smart street lights in smart city
+
+- Smart street lights are street lights that can be remotely controlled, monitored and optimized using sensors, wireless communication and data analytics.
+- Smart street lights can provide various benefits for a smart city, such as:
+  - Energy saving: Smart street lights can adjust their brightness and color temperature according to the ambient light, traffic and weather conditions, reducing the power consumption and carbon emissions.
+  - Cost saving: Smart street lights can report their status and faults in real time, enabling proactive and preventive maintenance, reducing the operational and maintenance costs.
+  - Safety and security: Smart street lights can enhance the visibility and comfort of road users, pedestrians and cyclists, reducing the risk of accidents and crimes. They can also support emergency services by flashing or changing colors to alert or guide them.
+  - Smart city platform: Smart street lights can serve as a backbone for other smart city applications, such as environmental sensors, traffic counters, security cameras, electric vehicle chargers, public Wi-Fi, etc., creating a connected and integrated urban network.
+- The design of smart street lights involves the following components and steps:
+  - LED lamps: LED lamps are energy-efficient, long-lasting and versatile light sources that can be dimmed and tuned according to the needs and preferences of the users. They can also be integrated with sensors and wireless modules to enable communication and data collection.
+  - Sensors: Sensors are devices that can measure and detect various physical phenomena, such as light, motion, temperature, humidity, air quality, noise, etc. They can provide feedback and input for the smart street light system to adjust the lighting parameters and trigger other actions.
+  - Wireless communication: Wireless communication is the transmission and reception of data and signals using radio waves, such as Wi-Fi, Bluetooth, ZigBee, LoRa, etc. It enables the smart street lights to communicate with each other, with a central control unit and with other smart city devices.
+  - Data analytics: Data analytics is the process of collecting, processing, analyzing and visualizing data to extract useful information and insights. It can help the smart street light system to optimize the lighting performance, identify patterns and trends, detect anomalies and faults, and generate reports and alerts.
+  - Central control unit: Central control unit is the device or software that manages and coordinates the smart street light system. It can send commands and settings to the smart street lights, receive and store data from them, and provide a user interface for monitoring and control.
+  - User interface: User interface is the means by which the users can interact with the smart street light system. It can be a web-based or mobile-based application that allows the users to view the status and performance of the smart street lights, adjust the lighting parameters, set schedules and policies, and receive notifications and alerts.

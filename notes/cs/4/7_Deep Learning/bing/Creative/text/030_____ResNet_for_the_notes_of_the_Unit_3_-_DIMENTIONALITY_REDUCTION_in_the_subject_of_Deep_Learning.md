@@ -1,0 +1,7 @@
+### ResNet
+
+- ResNet stands for **Residual Neural Network**, a type of artificial neural network that uses **residual connections** or **skip connections** to ease the training of very deep networks .
+- Residual connections allow the network to learn **residual functions** with reference to the layer inputs, instead of learning unreferenced functions. This helps to address the problem of **vanishing gradients** and **degradation** in deep networks .
+- ResNet consists of several **residual blocks**, each of which has two or more convolutional layers and a shortcut connection that bypasses some layers. The output of a residual block is the sum of the outputs of the convolutional layers and the shortcut connection .
+- ResNet can be used as a feature extractor for many deep learning tasks like image classification, object detection, and image segmentation. ResNet can also be pre-trained on large datasets and fine-tuned on specific tasks to achieve better results .
+- ResNet was introduced by Kaiming He et al. in 2015 in their paper "Deep Residual Learning for Image Recognition". They won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 2015 with ResNet. ResNet has since become one of the most influential architectures in deep learning.

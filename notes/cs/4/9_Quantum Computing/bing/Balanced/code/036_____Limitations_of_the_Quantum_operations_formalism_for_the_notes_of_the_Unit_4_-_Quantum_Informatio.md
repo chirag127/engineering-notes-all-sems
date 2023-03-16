@@ -1,0 +1,13 @@
+### Limitations of the Quantum Operations Formalism
+
+The quantum operations formalism is a mathematical framework for describing the dynamics of quantum systems that interact with their environment. It is based on the assumption that the system can be prepared in a known state and then subjected to a completely positive and trace-preserving map, called a quantum operation, that transforms the state into another one. The quantum operation can be represented by a set of Kraus operators, which satisfy certain conditions.
+
+However, the quantum operations formalism has some limitations, such as:
+
+- It does not account for the back-action of the system on the environment, or the correlations that may exist between them. This means that the quantum operation may not be unique or well-defined for a given physical process.
+- It does not capture the non-commutativity of quantum observables, which implies that the order of measurements matters and that some observables cannot be measured simultaneously. This means that the quantum operation may not be compatible with the Heisenberg uncertainty principle.
+- It does not address the computational complexity of quantum processes, which may be exponentially hard to simulate or verify using classical resources. This means that the quantum operation may not be efficiently implementable or characterizable.
+- It does not incorporate the probabilistic nature of quantum measurements, which may yield different outcomes with different probabilities. This means that the quantum operation may not be deterministic or reversible.
+- It does not reflect the physical origin or meaning of the quantum operators, which may depend on the underlying interactions between the system and the environment. This means that the quantum operation may not be physically motivated or interpretable.
+
+These limitations suggest that the quantum operations formalism is not a complete or universal description of quantum dynamics, but rather a useful and convenient approximation that works well under certain conditions. To overcome these limitations, one may need to consider more general or refined models of quantum processes, such as quantum trajectories, quantum channels, quantum circuits, quantum algorithms, quantum measurements, quantum decoherence, quantum entanglement, quantum error correction, quantum cryptography, quantum metrology, quantum thermodynamics, quantum gravity, and so on.

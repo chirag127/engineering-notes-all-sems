@@ -1,0 +1,12 @@
+### Beyond Chaincode
+
+- Chaincode is the term used for smart contracts in Hyperledger Fabric. It is a program that runs on the peers and interacts with the ledger.
+- Chaincode can be written in various languages, such as Go, Node.js, or Java. It can implement any logic or functionality that the application requires.
+- Chaincode can be invoked by clients through transactions, or by other chaincodes through chaincode-to-chaincode calls. It can also query the ledger state or history, or emit events to notify external applications.
+- Chaincode can be installed and instantiated on one or more channels, depending on the endorsement policy and the access control requirements. It can also be upgraded to a new version when needed.
+- Chaincode is not the only way to implement business logic or functionality in Hyperledger Fabric. There are other components and features that can complement or extend the capabilities of chaincode, such as:
+
+  - **Private data collections**: These are subsets of the ledger data that are shared among a subset of organizations in a channel, and are not stored on the ledger or available to unauthorized parties. They can be used to implement data privacy or confidentiality for sensitive or regulated information, such as medical records or trade secrets.
+  - **State-based endorsement**: This is a feature that allows the endorsement policy of a chaincode to be specified as a key-value pair in the ledger state, rather than as a static policy in the chaincode definition. This enables the endorsement policy to be dynamic and changeable, depending on the state of the ledger or the application logic.
+  - **Chaincode events**: These are events that are emitted by the chaincode when a transaction is committed, and can be used to notify external applications or systems about the changes in the ledger state or the execution of the chaincode logic. They can be used to implement event-driven architectures, such as triggering workflows, alerts, or notifications.
+  - **System chaincodes**: These are special chaincodes that are part of the Fabric system and provide core functionality, such as configuration, lifecycle, or governance. They can be invoked by clients or other chaincodes, and can access the ledger or other Fabric components. They can be used to implement system-level logic or functionality, such as managing the channel configuration, the chaincode lifecycle, or the identity management.

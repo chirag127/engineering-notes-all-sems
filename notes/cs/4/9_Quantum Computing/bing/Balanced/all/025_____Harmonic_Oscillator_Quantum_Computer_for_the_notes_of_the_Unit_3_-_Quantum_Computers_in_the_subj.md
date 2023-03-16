@@ -1,0 +1,9 @@
+# Harmonic Oscillator Quantum Computer
+
+- A harmonic oscillator quantum computer is a proposed model of quantum computation that uses the energy eigenstates of a simple harmonic oscillator as quantum bits.
+- A simple harmonic oscillator is a system that exhibits periodic motion under a restoring force that is proportional to the displacement from the equilibrium position.
+- The energy eigenstates of a simple harmonic oscillator are discrete and equally spaced, and can be labeled by a non-negative integer n, such that E_n = (n + 1/2)hbar omega, where hbar is the reduced Planck constant and omega is the angular frequency of the oscillator.
+- A finite subset of these energy eigenstates can be used to represent quantum bits, or qubits, by assigning the ground state (n = 0) to |0> and the first excited state (n = 1) to |1>. Higher energy states can be used to encode more qubits, such as |2> and |3> for a second qubit, and so on.
+- The advantage of using harmonic oscillator qubits is that they have long lifetimes, since they are insensitive to environmental noise and decoherence. The lifetimes depend on physical parameters such as the cavity quality factor, which can be increased by using highly reflective mirrors.
+- The challenge of using harmonic oscillator qubits is that they are difficult to manipulate and measure, since they are linear systems and do not exhibit nonlinearity or anharmonicity. Nonlinearity or anharmonicity means that the energy levels are not equally spaced, and can be used to implement logic gates and readout mechanisms.
+- One possible way to introduce nonlinearity or anharmonicity in a harmonic oscillator quantum computer is to couple it with another quantum system, such as an atom or a superconducting circuit, that can act as a nonlinear mediator or a switch. This can enable the implementation of universal quantum gates and measurements.

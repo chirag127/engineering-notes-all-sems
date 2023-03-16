@@ -1,0 +1,19 @@
+### Characteristics of Intelligent Agents
+
+An intelligent agent (IA) is an autonomous entity that can perceive its environment using sensors and act upon it using actuators to achieve its goals. In addition, an IA may learn from the environment and improve its performance over time. Some examples of IAs are driverless cars, virtual assistants, chatbots, and robots.
+
+Some of the characteristics of IAs are:
+
+- **Autonomy**: The ability of an IA to make decisions and control its actions without direct human intervention or other software methods. It also implies that the IA has its own goals, preferences, and beliefs that guide its behavior.
+- **Reactivity**: The ability of an IA to perceive and react to environmental changes in order to achieve its goals. A reactive IA can respond to stimuli in a timely and appropriate manner, without necessarily having a long-term plan or memory.
+- **Proactivity**: The ability of an IA to initiate actions and pursue goals based on its own initiative, rather than just reacting to external events. A proactive IA can anticipate future situations and act accordingly, as well as generate new goals and subgoals.
+- **Adaptability**: The ability of an IA to learn from its experience and improve its performance over time. An adaptive IA can modify its behavior and knowledge based on feedback, observation, or exploration.
+- **Sociability**: The ability of an IA to interact and cooperate with other agents, humans, or systems. A social IA can communicate, negotiate, coordinate, and collaborate with others to achieve common or individual goals.
+
+Depending on the complexity and capabilities of an IA, it can be classified into different types, such as:
+
+- **Simple reflex agents**: These are the simplest and most basic type of IAs, which ignore the rest of the percept history and act only on the basis of the current percept. They have a fixed set of rules or condition-action pairs that determine their behavior. For example, a thermostat is a simple reflex agent that adjusts the temperature based on the current reading.
+- **Model-based reflex agents**: These are more advanced than simple reflex agents, as they maintain an internal state or model of the environment, which is updated based on the percepts. They can also handle partially observable environments, where some aspects of the environment are hidden or unknown. For example, a driverless car is a model-based reflex agent that uses sensors and maps to navigate the roads.
+- **Goal-based agents**: These are further advanced than model-based reflex agents, as they have explicit goals that they try to achieve by choosing the best action. They can also reason about the future consequences of their actions and compare them with their desired outcomes. For example, a chess-playing agent is a goal-based agent that tries to win the game by selecting the best move.
+- **Utility-based agents**: These are even more advanced than goal-based agents, as they have a utility function that measures how desirable a state is. They can also handle situations where there are multiple conflicting or uncertain goals, and choose the action that maximizes their expected utility. For example, a stock-trading agent is a utility-based agent that tries to maximize its profit by buying and selling stocks.
+- **Learning agents**: These are the most advanced and intelligent type of IAs, as they have the ability to learn from their experience and improve their performance over time. They can also modify their behavior, knowledge, goals, and utility function based on feedback, observation, or exploration. For example, a chatbot is a learning agent that learns from its conversations with humans and adapts its responses accordingly.

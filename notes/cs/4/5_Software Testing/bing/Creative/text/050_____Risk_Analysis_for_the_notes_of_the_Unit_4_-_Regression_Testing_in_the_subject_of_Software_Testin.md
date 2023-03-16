@@ -1,0 +1,25 @@
+### Risk Analysis for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Risk analysis is the process of identifying and assessing the potential risks that may affect the quality, performance, or functionality of a software system after changes are made to it.
+- Regression testing is the process of verifying that the software system still works as expected after changes are made to it, such as adding new features, fixing bugs, or modifying existing functionality.
+- Risk analysis in regression testing helps to prioritize the test cases that need to be executed based on the likelihood and impact of the risks associated with the changes.
+- Some of the benefits of risk analysis in regression testing are:
+  - It helps to optimize the test coverage and reduce the testing effort and cost by focusing on the most critical and risky areas of the system.
+  - It helps to detect and prevent potential defects and failures that may affect the system's reliability, security, usability, or performance.
+  - It helps to improve the quality and confidence of the software system and ensure customer satisfaction and trust.
+- Some of the steps involved in risk analysis in regression testing are:
+  - Identify the changes made to the software system and their scope and impact on the system's functionality, performance, or quality.
+  - Identify the potential risks that may arise due to the changes and their severity, probability, and exposure levels.
+  - Prioritize the risks based on their risk level, which is calculated by multiplying the severity and probability of the risk.
+  - Select the test cases that cover the most risky areas of the system and assign them a priority level based on the risk level of the corresponding risk.
+  - Execute the test cases according to their priority level and report the test results and defects.
+  - Analyze the test results and defects and take corrective actions if needed.
+- Some of the tools and techniques that can be used for risk analysis in regression testing are:
+  - Risk matrix: A table that shows the severity and probability of the risks and their risk level and priority level.
+  - Risk-based testing: A testing approach that uses risk analysis to guide the test planning, design, execution, and reporting.
+  - Risk register: A document that records the identified risks, their risk level, priority level, mitigation strategies, and status.
+  - Risk assessment questionnaire: A set of questions that helps to elicit the information about the changes and the risks from the stakeholders, such as developers, testers, customers, or users.
+  - Risk traceability matrix: A table that shows the relationship between the risks and the test cases that cover them.
+  - Risk-based test coverage: A metric that measures the percentage of the risks that are covered by the test cases.
+  - Risk-based test report: A report that summarizes the test results and defects based on the risk level and priority level of the test cases.
+  - ROC curve: A graphical representation of the trade-off between the true positive rate and the false positive rate of a risk prediction model.

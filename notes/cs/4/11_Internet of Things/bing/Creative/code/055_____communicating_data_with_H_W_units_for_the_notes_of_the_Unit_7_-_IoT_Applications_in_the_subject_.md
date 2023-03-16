@@ -1,0 +1,18 @@
+### Communicating data with H/W units for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- IoT devices are physical objects that are embedded with sensors, actuators, and communication interfaces that can collect, process, and exchange data with other devices or applications over the internet or other networks  .
+- IoT devices can communicate data with H/W units in different ways, depending on the type, purpose, and location of the device, as well as the network protocol, data format, and security requirements    .
+- Some of the common ways of communicating data with H/W units are:
+
+  - Wired communication: This involves using a physical connection, such as a serial port, an ethernet port, or a USB port, to transfer data between the IoT device and the H/W unit. This method is usually faster, more reliable, and more secure than wireless communication, but it also requires more power and space, and limits the mobility and scalability of the IoT device.
+  - Wireless communication: This involves using radio signals, such as Wi-Fi, Bluetooth, Zigbee, LoRa, or cellular, to transfer data between the IoT device and the H/W unit. This method is usually more flexible, convenient, and cost-effective than wired communication, but it also introduces more challenges, such as interference, latency, bandwidth, and security   .
+  - Gateway communication: This involves using an intermediate device, such as a router, a hub, or a bridge, to connect the IoT device and the H/W unit. The gateway can perform various functions, such as data aggregation, protocol translation, security enforcement, and network management. The gateway can also provide access to the internet or other networks, if the IoT device or the H/W unit cannot directly communicate over TCP/IP  .
+  - Cloud communication: This involves using a remote server or application, usually hosted on the internet, to store, process, and analyze the data from the IoT device and the H/W unit. The cloud can provide various benefits, such as scalability, reliability, and intelligence, but it also requires a reliable and secure network connection, and may incur additional costs and latency  .
+
+- The communication of IoT devices can be unidirectional (send data only) or bidirectional (send and receive data). The communication can also be synchronous (real-time) or asynchronous (delayed). The communication can also be human-to-machine (H2M), machine-to-human (M2H), or machine-to-machine (M2M), depending on the source and destination of the data  .
+- The communication of IoT devices requires various standards and protocols to ensure interoperability, compatibility, and security. Some of the common standards and protocols are:
+
+  - Data format standards: These define the structure, syntax, and semantics of the data exchanged between the IoT device and the H/W unit. Some examples are JSON, XML, MQTT, and CoAP.
+  - Network protocol standards: These define the rules and procedures for data transmission, addressing, routing, and error control between the IoT device and the H/W unit. Some examples are TCP/IP, UDP, HTTP, and HTTPS.
+  - Wireless protocol standards: These define the frequency, modulation, encoding, and encryption of the radio signals used for wireless communication between the IoT device and the H/W unit. Some examples are Wi-Fi, Bluetooth, Zigbee, LoRa, and cellular.
+  - Security protocol standards: These define the methods and mechanisms for authentication, authorization, encryption, and integrity of the data exchanged between the IoT device and the H/W unit. Some examples are SSL, TLS, DTLS, and IPSec.

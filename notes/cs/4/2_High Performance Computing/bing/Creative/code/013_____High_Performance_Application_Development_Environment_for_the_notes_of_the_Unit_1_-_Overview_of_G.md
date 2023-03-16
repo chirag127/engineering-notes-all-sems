@@ -1,0 +1,24 @@
+# High Performance Application Development Environment
+
+- A high performance application development environment is a set of tools, frameworks, and practices that enable developers to create, test, deploy, and optimize applications that run on high performance computing (HPC) systems or platforms.
+- HPC systems or platforms are those that provide high levels of processing power, memory, storage, and network bandwidth for solving complex scientific, engineering, or business problems that require large-scale parallel or distributed computations.
+- A high performance application development environment typically consists of the following components:
+  - A programming model or language that supports parallel or distributed programming paradigms, such as message passing, shared memory, or data parallelism.
+  - A compiler or interpreter that translates the source code into executable code that can run on the target HPC system or platform.
+  - A debugger or profiler that helps developers identify and fix errors, bugs, or performance bottlenecks in the application code.
+  - A testing or validation framework that verifies the correctness, functionality, or quality of the application code or output.
+  - A deployment or configuration tool that automates the process of installing, launching, or managing the application on the target HPC system or platform.
+  - A monitoring or analysis tool that collects and displays metrics, logs, or traces of the application performance, behavior, or resource utilization on the target HPC system or platform.
+  - A optimization or tuning tool that suggests or applies improvements or modifications to the application code, parameters, or environment to enhance the application performance, efficiency, or scalability on the target HPC system or platform.
+- A high performance application development environment can be specific to a particular HPC system or platform, such as a supercomputer, a cloud service, or a hybrid or multicloud environment, or it can be generic or portable across different HPC systems or platforms, depending on the level of abstraction, standardization, or interoperability of the components.
+- A high performance application development environment can benefit from the following features or capabilities of the HPC system or platform:
+  - Resource elasticity, which allows the application to dynamically adjust the amount or type of resources it uses based on the workload or demand.
+  - Software-defined networking, which enables the application to configure, control, or optimize the network topology, routing, or traffic among the nodes or components of the HPC system or platform.
+  - Auto-provisioning, which automates the process of allocating, releasing, or scaling the resources for the application on the HPC system or platform.
+  - High availability, which ensures the application can continue to run or recover from failures, faults, or disruptions of the HPC system or platform.
+  - Scalability, which enables the application to handle increasing or varying amounts of data, computations, or users on the HPC system or platform.
+- A high performance application development environment can also leverage the following architectural choices or patterns for the application design or implementation:
+  - Microservices, which decompose the application into small, independent, and loosely coupled services that communicate via well-defined interfaces or protocols.
+  - Serverless, which abstracts away the server or infrastructure management and allows the application to run on demand or in response to events or triggers.
+  - Containers, which package the application and its dependencies into isolated and portable units that can run on any compatible HPC system or platform.
+  - DevOps, which integrates the development and operation processes and practices and enables the application to be delivered faster, more efficiently, and with higher quality.

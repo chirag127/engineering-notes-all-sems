@@ -1,0 +1,26 @@
+### Location Management: HLR-VLR, Hierarchical, Handoffs
+
+- Location management is the process of tracking and updating the location of mobile users in wireless cellular networks.
+- Location management consists of three main tasks: location update, location lookup, and paging.
+- Location update is the process of informing the network about the current location of the mobile user, usually initiated by the mobile user when it moves across a predefined boundary called a registration area (RA).
+- Location lookup is the process of finding the current location of the mobile user, usually initiated by the network when it needs to deliver a call or a message to the mobile user.
+- Paging is the process of notifying the mobile user about an incoming call or a message, usually initiated by the network after locating the mobile user.
+- Location management involves two types of databases: the home location register (HLR) and the visitor location register (VLR).
+- The HLR is a centralized database that stores the permanent information of all the mobile users in the network, such as their service profile, authentication data, and current location (RA).
+- The VLR is a local database that stores the temporary information of the mobile users that are currently visiting a specific RA, such as their temporary identity, authentication data, and current cell.
+- The HLR and the VLR communicate with each other to update and retrieve the location information of the mobile users.
+- The HLR-VLR scheme is a hierarchical location management scheme that divides the service coverage area into RAs, each with a VLR. Each RA covers a group of base stations (cells).
+- The HLR-VLR scheme reduces the location update cost by limiting the updates to the VLRs within the same RA, and reduces the location lookup cost by querying the HLR only once for each RA.
+- The HLR-VLR scheme can be further improved by using caching, replication, or mobility prediction techniques to reduce the communication overhead between the HLR and the VLRs.
+- Handoff is the process of transferring the ongoing communication of a mobile user from one base station to another, without interrupting the service quality or dropping the call.
+- Handoff is necessary to maintain the continuity of service and to balance the load among the base stations.
+- Handoff involves four main steps: handoff initiation, handoff decision, handoff execution, and handoff completion.
+- Handoff initiation is the process of detecting the need for a handoff, usually based on the signal strength or the quality of service measurements.
+- Handoff decision is the process of selecting the target base station for the handoff, usually based on the signal strength, the load, or the user preference.
+- Handoff execution is the process of switching the communication channel from the old base station to the new base station, usually with the help of a mobile switching center (MSC) or a base station controller (BSC).
+- Handoff completion is the process of updating the location information of the mobile user in the network databases, such as the HLR and the VLR.
+- Handoff can be classified into different types based on the direction, the timing, the control, or the technology of the handoff.
+- The direction of the handoff can be either horizontal or vertical. Horizontal handoff occurs when the mobile user moves from one base station to another within the same network or the same technology. Vertical handoff occurs when the mobile user moves from one network to another or from one technology to another.
+- The timing of the handoff can be either hard or soft. Hard handoff occurs when the mobile user breaks the connection with the old base station before establishing the connection with the new base station. Soft handoff occurs when the mobile user maintains the connection with both the old and the new base stations until the handoff is completed.
+- The control of the handoff can be either network-controlled or mobile-controlled. Network-controlled handoff occurs when the network initiates and decides the handoff based on the network measurements. Mobile-controlled handoff occurs when the mobile user initiates and decides the handoff based on the mobile measurements.
+- The technology of the handoff can be either circuit-switched or packet-switched. Circuit-switched handoff occurs when the mobile user switches from one circuit to another within the same or different networks. Packet-switched handoff occurs when the mobile user switches from one packet to another within the same or different networks.

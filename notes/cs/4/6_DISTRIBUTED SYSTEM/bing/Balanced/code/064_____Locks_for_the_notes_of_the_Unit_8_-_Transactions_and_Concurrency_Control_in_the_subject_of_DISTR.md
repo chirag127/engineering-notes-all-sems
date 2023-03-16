@@ -1,0 +1,24 @@
+### Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A lock is a mechanism that allows only one of the innumerable nodes or processes to access and modify a resource or data that is being shared commonly to prevent execution of same task twice and also maintain data integrity.
+- Locks are designed to enforce a mutual exclusion concurrency control policy, which means that only one transaction can hold a lock on a data item at a time.
+- Locks can be classified into different types based on the following criteria:
+  - The granularity of the data item being locked, such as record-level, page-level, or table-level locks.
+  - The mode of the lock, such as shared (read) or exclusive (write) locks.
+  - The duration of the lock, such as long (until the transaction commits or aborts) or short (until the operation finishes) locks.
+  - The protocol of acquiring and releasing locks, such as two-phase locking (2PL), timestamp ordering, or optimistic concurrency control.
+- In distributed systems, locks can be implemented using different strategies, such as:
+  - Centralized locking, where a single node acts as a lock manager and grants or denies lock requests from other nodes.
+  - Distributed locking, where each node manages its own locks and communicates with other nodes to coordinate lock requests.
+  - Hierarchical locking, where the nodes are organized into a tree structure and lock requests are propagated from the leaves to the root or vice versa.
+- Distributed locks can also be based on different security levels of the lock resources, such as:
+  - Distributed systems based on asynchronous replication, such as MySQL, Tair, and Redis, where the lock resource is replicated on multiple nodes and the lock is granted by the primary node or a quorum of nodes.
+  - Paxos-based distributed consensus systems, such as ZooKeeper, etcd, and Consul, where the lock resource is stored on a cluster of nodes that use a consensus algorithm to agree on the lock state.
+- Distributed locks are useful for coordinating access to shared resources in a distributed system, but they also have some challenges and limitations, such as:
+  - Lock contention, where multiple transactions compete for the same lock and cause delays or deadlocks.
+  - Lock availability, where the lock manager or the lock resource may fail or become unreachable and cause lock failures or inconsistencies.
+  - Lock performance, where the lock operations may incur network overhead or latency and affect the throughput or responsiveness of the system.
+- Distributed locks should be used with caution and only when necessary, as they may introduce more complexity and risk than benefit. Some alternatives or complements to distributed locks are:
+  - Idempotent operations, where the same operation can be repeated without changing the outcome or causing side effects.
+  - Conflict-free replicated data types (CRDTs), where the data can be replicated and modified on multiple nodes without requiring coordination or synchronization.
+  - Event sourcing and command query responsibility segregation (CQRS), where the data is stored as a sequence of events and the queries are separated from the commands.

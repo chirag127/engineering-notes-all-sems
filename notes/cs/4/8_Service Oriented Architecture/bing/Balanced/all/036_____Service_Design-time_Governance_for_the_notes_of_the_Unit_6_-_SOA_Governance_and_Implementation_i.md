@@ -1,0 +1,13 @@
+# Service Design-time Governance
+
+Service design-time governance is the process of defining and enforcing standards, policies, and guidelines for the creation and modification of services in a service-oriented architecture (SOA). It aims to ensure that services are designed in a consistent, reusable, and interoperable way that meets the business and technical requirements of the service consumers and providers.
+
+Some of the key aspects of service design-time governance are:
+
+- Service design methodology: A service design methodology provides a series of steps or activities that the service engineering team can use to decompose the business process to identify which aspects may make sense to be developed into a service based on service-oriented principles of design.
+- Service design principles: Service design principles are the general rules or best practices that guide the service engineering team to design services that are customer-centric, value-driven, holistic, iterative, and collaborative.
+- Service design standards: Service design standards are the specific technical specifications or conventions that define how services should be named, described, structured, implemented, tested, and documented. They may include standards for service interface, data model, message format, security, quality of service, and service level agreement.
+- Service design policies: Service design policies are the rules or constraints that govern the behavior or functionality of services. They may include policies for service availability, performance, reliability, scalability, fault tolerance, and exception handling.
+- Service design guidelines: Service design guidelines are the recommendations or suggestions that help the service engineering team to make decisions or choices when designing services. They may include guidelines for service granularity, modularity, reusability, composability, and discoverability.
+- Service design governance model: A service design governance model is the framework or structure that defines the roles, responsibilities, and relationships of the stakeholders involved in the service design process. It may include the service owner, service provider, service consumer, service architect, service developer, service tester, and service manager.
+- Service design governance tools: Service design governance tools are the software applications or systems that support the service design governance process. They may include tools for service modeling, service repository, service registry, service contract, service validation, and service monitoring.

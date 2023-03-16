@@ -1,0 +1,12 @@
+# Graphical Menus
+
+- Graphical menus are an integral and essential component of user interfaces and have been widely used for 2D desktop applications .
+- Graphical menus for 3D UIs are the 3D equivalent of the 2D menus that have proven to be a successful system control technique in desktop UIs .
+- Graphical menus in 3D UIs can be subdivided into three categories :
+  - Adapted 2D menus: These are 2D menus that are embedded in a 3D environment, either as a hand-held flat panel display or as a fixed screen in the virtual world. They provide a familiar metaphor for the users who used graphical menus for desktop applications, but they may suffer from occlusion, distortion, or limited interaction space .
+  - 1-DOF menus: These are menus that use one degree of freedom (DOF) for navigation, such as radial menus, pie menus, or marking menus. They can be easily accessed by a simple gesture or a ray-casting technique, and they can reduce the number of menu levels and selections. However, they may have limited scalability, visibility, or expressiveness.
+  - 3D widgets: These are menus that take advantage of the extra DOF available in a 3D environment to enable more complex menu structures or better visual affordances for menu entries. They can be either 3D representations of 2D menus, such as 3D buttons, sliders, or dials, or novel 3D menu techniques, such as flower menus, toolglasses, or 3D cursors. They can provide more feedback, flexibility, and functionality to the user, but they may also increase the cognitive load, the interaction time, or the error rate.
+- Some of the design issues and challenges for designing and implementing graphical menus as system control techniques in 3D UIs are :
+  - Positioning of graphical user interface elements in space: The location, orientation, and size of the menus should be carefully chosen to ensure visibility, accessibility, and usability for the user. Some factors to consider are the user's viewpoint, the task context, the menu content, and the interaction technique .
+  - Choosing an appropriate selection technique: The selection technique should match the menu type, the input device, and the user's preference. Some common selection techniques are ray-casting, direct manipulation, or gaze-based selection .
+  - Representation of the menu and its overall structure: The menu should be visually appealing, informative, and consistent. The menu structure should be clear, concise, and logical. The menu entries should be labeled, grouped, and ordered appropriately .

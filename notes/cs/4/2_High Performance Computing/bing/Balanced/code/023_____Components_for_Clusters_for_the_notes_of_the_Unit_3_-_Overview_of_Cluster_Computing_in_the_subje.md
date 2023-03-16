@@ -1,0 +1,12 @@
+### Components for Clusters
+
+- A cluster is a collection of interconnected computers that work together as a single system to perform high-performance computing tasks.
+- The main components of a cluster are:
+
+  - **Compute nodes**: These are the servers that execute the parallel applications and algorithms. They can have different configurations of CPUs, GPUs, FPGAs, memory, and other resources depending on the workload requirements.    
+  - **Network**: This is the communication infrastructure that connects the compute nodes and enables data transfer and synchronization. The network can be based on different technologies, such as Ethernet, InfiniBand, or Omni-Path, and have different topologies, such as star, ring, or mesh. The network performance is measured by bandwidth, latency, and reliability.    
+  - **Storage**: This is the component that provides persistent data storage for the cluster. It can be divided into two types: general-purpose storage and high-performance storage. General-purpose storage is used to store applications and user data, and can be based on NAS, SAN, or cloud storage. High-performance storage is used to store temporary data that is accessed frequently by the compute nodes, and can be based on parallel file systems, such as Lustre, GPFS, or BeeGFS.    
+  - **Scheduler**: This is the software component that manages the cluster resources and allocates them to the user jobs. The scheduler is responsible for queuing, prioritizing, and executing the jobs on the available compute nodes, as well as monitoring and reporting the cluster status and performance. Some examples of schedulers are Slurm, PBS, or LSF.  
+  - **Provisioner**: This is the software component that ensures the homogeneity and consistency of the cluster nodes. The provisioner is responsible for installing, configuring, and updating the operating system, drivers, libraries, and applications on the cluster nodes, as well as enforcing security and compliance policies. Some examples of provisioners are MAAS, Ansible, or Puppet. 
+
+- These components work together to provide a high-performance computing environment that can handle large-scale, complex, and data-intensive problems.

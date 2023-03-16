@@ -1,0 +1,23 @@
+### Linear (PCA, LDA) and manifolds for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+- Dimensionality reduction is the process of reducing the number of features or variables in a dataset, while preserving the essential information or structure.
+- Dimensionality reduction can be useful for several purposes, such as:
+  - Reducing the computational cost and complexity of learning algorithms.
+  - Improving the generalization performance and avoiding overfitting.
+  - Enhancing the interpretability and visualization of the data.
+  - Removing noise and redundancy from the data.
+- There are two main types of dimensionality reduction techniques: linear and nonlinear.
+- Linear techniques assume that the data lies on or near a linear subspace of the original feature space, and try to find a lower-dimensional linear projection that captures the most variance or discriminability of the data.
+- Nonlinear techniques assume that the data lies on or near a nonlinear manifold of the original feature space, and try to find a lower-dimensional nonlinear embedding that preserves the local or global geometry of the data.
+- Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) are two popular linear dimensionality reduction techniques.
+- PCA tries to find the orthogonal directions (principal components) that explain the most variance of the data, and projects the data onto a lower-dimensional subspace spanned by these directions.
+- LDA tries to find the directions (linear discriminants) that maximize the between-class variance and minimize the within-class variance of the data, and projects the data onto a lower-dimensional subspace spanned by these directions.
+- PCA is an unsupervised technique, meaning that it does not use the class labels of the data, while LDA is a supervised technique, meaning that it does use the class labels of the data.
+- PCA and LDA can be formulated as eigenvalue problems, where the eigenvectors of the covariance matrix or the generalized eigenvalue problem of the between-class and within-class scatter matrices correspond to the principal components or the linear discriminants, respectively.
+- The eigenvalues of the eigenvectors indicate the amount of variance or discriminability explained by each direction, and can be used to select the optimal number of dimensions to retain.
+- Manifolds are mathematical objects that locally resemble a Euclidean space, but globally may have a more complex structure, such as curves, surfaces, or higher-dimensional shapes.
+- Manifold learning is a class of nonlinear dimensionality reduction techniques that try to discover the intrinsic manifold structure of the data, and map the data from the high-dimensional ambient space to a lower-dimensional latent space that preserves the manifold geometry.
+- Manifold learning can be divided into two categories: global and local.
+- Global manifold learning techniques try to preserve the global distances or geodesics between the data points on the manifold, such as Multidimensional Scaling (MDS), Isomap, or Laplacian Eigenmaps.
+- Local manifold learning techniques try to preserve the local neighborhoods or angles between the data points on the manifold, such as Locally Linear Embedding (LLE), Local Tangent Space Alignment (LTSA), or t-distributed Stochastic Neighbor Embedding (t-SNE).
+- Manifold learning techniques can be useful for finding nonlinear patterns, clusters, or structures in the data, such as images, speech, text, or graphs.

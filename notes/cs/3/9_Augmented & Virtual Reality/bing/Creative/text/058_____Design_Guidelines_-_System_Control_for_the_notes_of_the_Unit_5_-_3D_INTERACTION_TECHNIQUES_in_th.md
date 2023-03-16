@@ -1,0 +1,14 @@
+### Design Guidelines - System Control
+
+System control is the task of issuing commands or changing settings in a 3D user interface (3D UI). It is often integrated with other 3D interaction tasks such as navigation, selection, and manipulation. Some design guidelines for system control are:
+
+- System control techniques should be designed to avoid disturbing the flow of action of an interaction task. For example, if the user is manipulating an object in 3D space, the system control technique should not require the user to switch to a different mode or device, or to move the object out of the way.
+- System control techniques should be consistent with the 3D spatial context and the user's expectations. For example, if the user is immersed in a virtual environment, the system control technique should not break the illusion of presence by using 2D elements or metaphors that are incongruent with the 3D scene.
+- System control techniques should be easy to access, use, and understand. For example, if the user needs to access a menu or a widget, the system control technique should provide clear feedback, affordances, and labels, and should minimize the number of steps or movements required to perform the desired action.
+- System control techniques should be adaptable to different domains, tasks, and user preferences. For example, if the user is performing a specific task in a certain domain, the system control technique should provide the relevant options and parameters, and should allow the user to customize or personalize the interface.
+
+Some examples of system control techniques for 3D UIs are:
+
+- Graphical menus: These are the 3D equivalent of the 2D menus that are commonly used in desktop UIs. They can be subdivided into three categories: adapted 2D menus, 1-DOF menus, and 3D widgets. Adapted 2D menus are 2D menus that are projected onto a 3D surface or attached to a 3D object. 1-DOF menus are menus that are arranged along a single degree of freedom, such as a radial menu or a linear menu. 3D widgets are 3D objects that can be manipulated to perform system control actions, such as a dial, a slider, or a button.
+- Voice commands: These are commands that are spoken by the user and recognized by the system. They can be used to perform system control actions, such as changing modes, settings, or views, or to invoke other 3D interaction techniques, such as navigation, selection, or manipulation. Voice commands can be natural or synthetic, discrete or continuous, and explicit or implicit.
+- Gestures: These are movements or poses of the user's body, hands, or fingers that are interpreted by the system as system control actions. They can be used to perform system control actions, such as changing modes, settings, or views, or to invoke other 3D interaction techniques, such as navigation, selection, or manipulation. Gestures can be static or dynamic, symbolic or iconic, and unimanual or bimanual.

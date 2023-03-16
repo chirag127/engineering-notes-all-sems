@@ -1,0 +1,11 @@
+# Consensus protocols for Permissioned Blockchains
+
+- A consensus protocol enables all the parties of the blockchain network to come to a common agreement (consensus) on the present data state of the ledger .
+- In a permissioned blockchain, all the participating nodes are known and chosen. However, consensus is still required because we can’t assume that every node is trustworthy .
+- In a permissioned blockchain, choosing the right consensus protocol depends on factors like the extent of decentralization required, the level of trust among the participants, the performance and scalability of the network, and the security and fault tolerance of the system .
+- Some of the common consensus protocols for permissioned blockchains are:
+
+  - **Delegated Proof of Stake (DPoS)**: This protocol is a variation of the Proof of Stake (PoS) protocol, where the stakeholders elect a fixed number of delegates to produce and validate blocks. The delegates are rewarded for their service and can be voted out by the stakeholders if they misbehave. This protocol aims to achieve high efficiency, scalability, and democracy in the network.
+  - **Delegated Byzantine Fault Tolerance (dBFT)**: This protocol is based on the Byzantine Fault Tolerance (BFT) algorithm, where a leader node is randomly selected to propose a block and a majority of the nodes have to agree on the validity of the block. The leader node can be replaced by another node if it fails or acts maliciously. This protocol aims to achieve high security, finality, and performance in the network.
+  - **Proof of Elapsed Time (PoET)**: This protocol is a variation of the Proof of Work (PoW) protocol, where the nodes have to wait for a random amount of time before proposing a block. The waiting time is determined by a trusted execution environment (TEE) that ensures fairness and randomness. This protocol aims to achieve low energy consumption, scalability, and simplicity in the network.
+  - **Proof of Authority (PoA)**: This protocol is based on the idea of validating transactions by trusted entities or authorities. The authorities are pre-selected by the network and have to stake their reputation or identity to validate blocks. This protocol aims to achieve fast and cheap transactions, scalability, and censorship resistance in the network.

@@ -1,0 +1,10 @@
+### Basic crypto primitives for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Cryptographic primitives are the low-level algorithms that are used to build cryptographic protocols for a strong secured network.
+- They are the basic building blocks of the cryptosystem and the programmers develop new cryptographic algorithms with the help of cryptographic primitives.
+- Basic cryptographic primitives include the hash functions, digital signature, encryption primitives, and randomized algorithms which are incorporated in Blockchain.
+- Below are some of the common cryptographic primitives:
+  - One way Hash Functions: It is a mathematical function used to encrypt variable length data to fixed binary data. It is a one-way function, meaning that it is easy to compute the hash value for a given message, but hard to find the message that corresponds to a given hash value. Examples of hash functions are SHA-256, SHA-512, and Ethash.
+  - Symmetric Key cryptography: This is also known as Symmetric Encryption. It is a method of encryption where the same key is used to encrypt and decrypt the data. The key is shared between the sender and the receiver of the data. Examples of symmetric key algorithms are AES, DES, and RC4.
+  - Asymmetric key cryptography: It is also known as public key cryptography. It is a method of encryption where two different keys are used to encrypt and decrypt the data. One key is public and can be shared with anyone, while the other key is private and kept secret by the owner. The public key is used to encrypt the data, while the private key is used to decrypt the data. Examples of asymmetric key algorithms are RSA, ECC, and ElGamal.
+  - Randomized Algorithms: These algorithms produce random ciphertexts for encryption. They use a random number generator to generate a random key or a random nonce (a number used only once) to encrypt the data. The randomness ensures that the same plaintext will produce different ciphertexts each time it is encrypted. Examples of randomized algorithms are CTR, CBC, and GCM modes of operation for block ciphers.

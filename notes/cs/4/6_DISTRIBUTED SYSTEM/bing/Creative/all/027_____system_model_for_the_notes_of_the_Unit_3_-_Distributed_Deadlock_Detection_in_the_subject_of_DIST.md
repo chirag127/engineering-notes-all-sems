@@ -1,0 +1,10 @@
+# System Model for Distributed Deadlock Detection
+
+- A distributed system consists of a collection of processes that communicate and share resources over a network.
+- A deadlock is a situation where a set of processes are blocked waiting for resources that are held by other processes in the set.
+- Distributed deadlock detection is the problem of finding and resolving deadlocks in a distributed system.
+- There are three main approaches to distributed deadlock detection  :
+  - Centralized approach: A single node is designated as the deadlock detector and collects information from all other nodes about their resource requests and allocations. The deadlock detector constructs a global wait-for graph (WFG) and checks for cycles in the graph. If a cycle is found, it indicates a deadlock and the detector aborts one or more processes to break the cycle.
+  - Hierarchical approach: The nodes are organized into clusters and each cluster has a local deadlock detector that handles the deadlock detection within the cluster. The clusters are further grouped into higher-level clusters and so on, forming a hierarchy of deadlock detectors. The deadlock detectors at each level exchange information with their neighbors and construct a partial WFG. If a cycle is detected at any level, it indicates a deadlock and the detector aborts one or more processes to break the cycle.
+  - Distributed approach: There is no central or hierarchical authority for deadlock detection. Each node maintains its own local WFG and periodically initiates a distributed algorithm to detect cycles in the global WFG. One such algorithm is edge chasing, where each node sends a probe message along the edges of its local WFG and waits for a reply. If a node receives a probe message that originated from itself, it indicates a cycle and the node aborts itself or another process to break the cycle.
+- The advantages and disadvantages of each approach depend on factors such as the frequency and size of deadlocks, the communication and computation overhead, the accuracy and timeliness of deadlock detection, and the fairness and efficiency of deadlock resolution.

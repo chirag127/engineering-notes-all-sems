@@ -1,0 +1,10 @@
+# Technology behind IoT
+
+The Internet of Things (IoT) is the concept of connecting any device that has an on/off switch to the Internet and to other connected devices. IoT devices can collect and share data about their usage and the environment around them, enabling various applications and services. Some examples of IoT devices are smart home systems, wearable devices, smart meters, industrial sensors, and connected vehicles.
+
+To enable IoT, several technologies are involved, such as:
+
+- **Hardware**: IoT devices require hardware components such as processors, sensors, actuators, memory, and communication modules. Depending on the device's functionality and power consumption, different types of hardware can be used, such as CPUs, MCUs, GPUs, security chips, and FPGA.
+- **Connectivity**: IoT devices need to communicate with each other and/or a central area, such as a cloud platform or an edge gateway. Different types of connectivity technologies can be used, such as GSM cellular networks, Wi-Fi, Ethernet, Bluetooth, Zigbee, LoRa, eSIM, mesh networks, 5G, and Wi-Fi 6  .
+- **Software**: IoT devices need software to run the hardware, process the data, and provide the user interface. Software can include operating systems, firmware, drivers, middleware, applications, and cloud services. Software can also enable edge computing, which refers to the technology used to make smart devices do more than just send or receive data to their IoT platform. It increases the computing power at the edges of an IoT network, reducing communication latency and improving response time .
+- **Data analytics**: IoT devices generate a large amount of data that can be analyzed to provide insights, predictions, and recommendations. Data analytics can include data collection, storage, processing, visualization, and machine learning. Data analytics can be performed on the device, on the edge, or on the cloud, depending on the data volume, complexity, and latency requirements .

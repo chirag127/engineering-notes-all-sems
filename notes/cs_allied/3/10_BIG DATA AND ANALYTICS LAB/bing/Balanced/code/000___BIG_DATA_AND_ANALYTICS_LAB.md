@@ -1,0 +1,23 @@
+# BIG DATA AND ANALYTICS LAB
+
+- Big data and analytics lab is a course that teaches students how to use various tools and techniques to analyze large and complex data sets.
+- The course covers topics such as data preprocessing, data visualization, data mining, machine learning, and big data frameworks.
+- The course also provides hands-on experience with various software and platforms such as Python, R, Weka, Tableau, Hadoop, Spark, and MongoDB.
+- The course objectives are to:
+  - Understand the concepts and challenges of big data and analytics.
+  - Learn how to apply data preprocessing techniques to clean, transform, and integrate data from different sources.
+  - Learn how to use data visualization tools to explore and communicate data insights.
+  - Learn how to use data mining and machine learning algorithms to discover patterns and make predictions from data.
+  - Learn how to use big data frameworks to process and analyze large-scale data in a distributed and parallel manner.
+  - Learn how to use NoSQL databases to store and query unstructured and semi-structured data.
+- The course outcomes are to:
+  - Demonstrate the ability to use various tools and techniques for big data and analytics.
+  - Apply appropriate data preprocessing techniques to prepare data for analysis.
+  - Apply appropriate data visualization techniques to present data insights.
+  - Apply appropriate data mining and machine learning techniques to solve data-driven problems.
+  - Apply appropriate big data frameworks to handle large-scale data processing and analysis.
+  - Apply appropriate NoSQL databases to store and query unstructured and semi-structured data.
+- The course assessment is based on:
+  - Lab assignments: 40%
+  - Midterm exam: 20%
+  - Final exam: 40%

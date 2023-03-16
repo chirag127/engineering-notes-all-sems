@@ -1,0 +1,11 @@
+### Cluster Systems
+
+- A cluster system is a collection of interconnected computers that work together as a single system to perform high-performance computing tasks.
+- Cluster systems are composed of three main components: compute servers, data storage, and network interconnects.
+- Compute servers are the nodes that execute the parallel applications and algorithms. They can have multiple processors, cores, and memory modules. They can also have accelerators such as GPUs or FPGAs to enhance the performance.
+- Data storage is the component that stores the input and output data of the applications. It can be local or distributed, depending on the data access patterns and performance requirements. Data storage can use different technologies such as hard disks, solid state drives, or tape drives.
+- Network interconnects are the components that connect the compute servers and the data storage. They enable data transfer and communication among the nodes. Network interconnects can use different protocols and topologies, such as Ethernet, InfiniBand, or Omni-Path.
+- Cluster systems can be classified into different types, depending on the purpose and the design of the system. Some common types are:
+  - High performance (HP) clusters: These clusters are designed to solve computationally intensive problems that require high speed and scalability. They use high-end hardware and software components to achieve high performance and efficiency. They are often used for scientific and engineering applications, such as fluid dynamics, molecular dynamics, or climate modeling.
+  - High availability (HA) clusters: These clusters are designed to provide continuous service and reliability, even in the presence of failures. They use redundant hardware and software components to detect and recover from faults. They are often used for mission-critical applications, such as databases, web servers, or e-commerce systems.
+  - High throughput (HT) clusters: These clusters are designed to process large amounts of data in parallel, using many low-cost and low-power nodes. They use distributed file systems and frameworks to manage the data and the computation. They are often used for data-intensive applications, such as data mining, machine learning, or bioinformatics.

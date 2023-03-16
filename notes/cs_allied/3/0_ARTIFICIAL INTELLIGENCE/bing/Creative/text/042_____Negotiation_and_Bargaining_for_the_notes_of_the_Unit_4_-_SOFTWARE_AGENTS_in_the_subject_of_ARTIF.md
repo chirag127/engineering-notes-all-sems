@@ -1,0 +1,22 @@
+### Negotiation and Bargaining
+
+- Negotiation is a process of reaching an agreement between two or more parties that have conflicting interests or preferences.
+- Bargaining is a subset of negotiation that involves making offers and counteroffers until a deal is reached or rejected.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, diplomacy, law, and personal relationships.
+- Negotiation and bargaining can be performed by humans, software agents, or a combination of both  .
+- Software agents are autonomous programs that can act on behalf of humans or other agents in a specific environment.
+- Software agents can use artificial intelligence (AI) techniques to enhance their negotiation and bargaining capabilities, such as:
+  - Learning from past experiences or data to improve their strategies and outcomes.
+  - Analyzing the preferences, emotions, and behaviors of other parties to adapt their tactics and offers .
+  - Communicating effectively and persuasively with natural language or other modalities .
+  - Collaborating or competing with other agents to achieve their goals or the goals of their principals .
+- AI-based negotiation and bargaining agents can offer several benefits, such as:
+  - Reducing the time, cost, stress, and cognitive effort required by human negotiators .
+  - Optimizing the outcomes and efficiency of the negotiation process .
+  - Handling complex, large-scale, or multi-issue negotiations that are beyond human capabilities .
+  - Supporting or advising human negotiators before or during the negotiation process .
+- AI-based negotiation and bargaining agents also face several challenges, such as:
+  - Dealing with uncertainty, incompleteness, or inconsistency of information .
+  - Balancing between cooperation and competition, self-interest and social welfare, honesty and deception  .
+  - Respecting the ethical, legal, and social norms and values of the negotiation context .
+  - Interacting with human negotiators who may have different expectations, emotions, or biases  .

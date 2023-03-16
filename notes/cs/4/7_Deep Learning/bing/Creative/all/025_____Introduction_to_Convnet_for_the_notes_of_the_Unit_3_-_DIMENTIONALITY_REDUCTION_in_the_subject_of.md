@@ -1,0 +1,14 @@
+# Introduction to Convolutional Neural Network
+
+- A convolutional neural network (CNN) is a type of artificial neural network (ANN) that uses a mathematical operation called **convolution** in place of general matrix multiplication in at least one of its layers.
+- Convolution is a process of applying a filter (also called a kernel) to an input, such as an image, and producing an output, such as a feature map.
+- Convolution helps to extract features from the input, such as edges, shapes, patterns, etc., that are useful for image recognition and processing tasks.
+- A CNN consists of an input layer, hidden layers, and an output layer. The hidden layers can include convolutional layers, pooling layers, activation layers, dropout layers, batch normalization layers, etc.
+- A convolutional layer applies one or more filters to the input and produces one or more feature maps as the output. The filter size, stride, padding, and number of filters are the hyperparameters of the convolutional layer.
+- A pooling layer reduces the size of the feature maps by applying a pooling operation, such as max, average, or min, to a region of the input. Pooling helps to reduce the computational cost, memory usage, and overfitting of the network.
+- An activation layer applies a nonlinear function, such as sigmoid, tanh, ReLU, etc., to the input and produces the output. Activation functions help to introduce nonlinearity to the network and enable it to learn complex functions.
+- A dropout layer randomly drops out some of the units in the input with a certain probability and produces the output. Dropout helps to prevent overfitting and improve the generalization of the network.
+- A batch normalization layer normalizes the input by subtracting the mean and dividing by the standard deviation of the batch and produces the output. Batch normalization helps to accelerate the training, reduce the dependence on the initialization, and improve the performance of the network.
+- A fully connected layer connects every unit in the input to every unit in the output and produces the output. Fully connected layers are usually used at the end of the network to perform classification or regression tasks.
+- A CNN can be trained using backpropagation and gradient descent algorithms, similar to other ANNs. The goal is to minimize a loss function that measures the difference between the predicted output and the actual output.
+- A CNN can be used for various image-related tasks, such as image classification, object detection, face recognition, semantic segmentation, etc. CNNs are also used for other domains, such as natural language processing, speech recognition, etc., where convolution can be applied to sequential data.

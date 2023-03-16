@@ -1,0 +1,12 @@
+### Join Operations
+
+Join operations are used to combine data from two or more tables in a relational database based on a common attribute or condition. Join operations are based on the relational algebra operation of the same name, which is a combination of Cartesian product and selection.
+
+There are different types of join operations, such as:
+
+- **Inner join**: This type of join returns only the rows that match the join condition in both tables. For example, if you want to join the tables `Customers` and `Orders` based on the `CustomerID` column, an inner join will return only the rows that have the same `CustomerID` value in both tables.
+- **Outer join**: This type of join returns all the rows from one table and the matching rows from the other table. If there is no match, the missing values are filled with nulls. There are three types of outer joins: left outer join, right outer join, and full outer join. For example, if you want to join the tables `Customers` and `Orders` based on the `CustomerID` column, a left outer join will return all the rows from the `Customers` table and the matching rows from the `Orders` table. If a customer has no orders, the order details will be null.
+- **Cross join**: This type of join returns the Cartesian product of the two tables, which means every row from one table is paired with every row from the other table. This type of join does not require a join condition, but it can result in a very large result set. For example, if you want to join the tables `Customers` and `Products` without any condition, a cross join will return every possible combination of customer and product.
+- **Self join**: This type of join is used to join a table with itself, which means the same table is used as both the left and the right table. This type of join requires an alias for the table name to distinguish the two instances of the same table. This type of join is useful when you want to compare or relate data within the same table. For example, if you want to find the customers who live in the same city as another customer, you can use a self join on the `Customers` table based on the `City` column.
+
+There are different ways to implement join operations in SQL, such as using the `JOIN` keyword, using the `WHERE` clause, or using subqueries. The syntax and performance of join operations may vary depending on the database system and the size and structure of the tables.

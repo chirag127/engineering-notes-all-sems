@@ -1,0 +1,9 @@
+### Theoretical Foundation for Distributed System
+
+A distributed system is a collection of processes that are spatially separated and do not share a common memory and communicate with one another by exchanging messages with arbitrary delays . Some of the theoretical foundations for distributed systems are:
+
+- **Limitations of distributed systems**: Due to the lack of a global clock, shared memory, and reliable communication, distributed systems face some inherent challenges such as synchronization, coordination, consistency, fault-tolerance, and scalability .
+- **Logical clocks**: Logical clocks are a way of ordering events in a distributed system based on their causal relationships, rather than their physical timestamps. Logical clocks can be implemented using different algorithms, such as Lamport's logical clocks and vector clocks .
+- **Concepts in message passing systems**: Message passing systems are a model of communication in distributed systems, where processes send and receive messages to each other. Some of the concepts in message passing systems are: message types, message ordering, message delivery, message buffering, message acknowledgement, and message passing primitives .
+- **Distributed algorithms**: Distributed algorithms are algorithms that run on multiple processes in a distributed system and coordinate their actions to achieve a common goal. Some examples of distributed algorithms are: leader election, mutual exclusion, consensus, broadcast, multicast, and distributed snapshots .
+- **Distributed information systems**: Distributed information systems are systems that store, process, and disseminate information across multiple nodes in a distributed system. Some of the challenges and opportunities of distributed information systems are: data replication, data consistency, data partitioning, data querying, data mining, and data privacy.

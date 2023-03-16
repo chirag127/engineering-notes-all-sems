@@ -1,0 +1,31 @@
+# Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a unit of work that accesses and possibly modifies data in a database or a system.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- A distributed transaction is a transaction that accesses data from multiple servers or systems that are connected by a network.
+- A nested transaction is a transaction that contains other transactions as subtransactions.
+- A nested transaction can be used to improve the performance, modularity, and fault tolerance of distributed transactions.
+- A nested transaction has the following characteristics:
+  - It has a parent transaction and zero or more child transactions.
+  - It inherits the ACID properties from its parent transaction.
+  - It can commit or abort independently of its parent or child transactions.
+  - It can be partially committed, meaning that some of its subtransactions are committed and some are aborted.
+  - It can be flattened, meaning that it is treated as a single transaction by the system.
+- A nested transaction can be classified into two types: closed nested transactions and open nested transactions.
+- A closed nested transaction is a nested transaction that does not allow any communication or interaction between its subtransactions and the outside world until it commits or aborts.
+- A closed nested transaction has the following advantages and disadvantages:
+  - It preserves the serializability and recoverability of the transactions.
+  - It simplifies the concurrency control and deadlock detection mechanisms.
+  - It reduces the network overhead and the number of messages exchanged.
+  - It limits the parallelism and concurrency of the subtransactions.
+  - It increases the locking time and the risk of blocking or aborting other transactions.
+  - It requires a two-phase commit protocol to coordinate the commit or abort of the subtransactions.
+- An open nested transaction is a nested transaction that allows some communication or interaction between its subtransactions and the outside world before it commits or aborts.
+- An open nested transaction has the following advantages and disadvantages:
+  - It increases the parallelism and concurrency of the subtransactions.
+  - It reduces the locking time and the risk of blocking or aborting other transactions.
+  - It allows the subtransactions to access external resources or services.
+  - It violates the serializability and recoverability of the transactions.
+  - It complicates the concurrency control and deadlock detection mechanisms.
+  - It increases the network overhead and the number of messages exchanged.
+  - It requires a compensation mechanism to undo the effects of the subtransactions in case of abort.

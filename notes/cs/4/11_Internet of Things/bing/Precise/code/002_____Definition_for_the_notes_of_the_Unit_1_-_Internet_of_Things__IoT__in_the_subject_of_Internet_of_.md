@@ -1,0 +1,8 @@
+### Definition for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+
+- The Internet of Things (IoT) refers to the interconnection of physical devices, vehicles, buildings, and other objects, embedded with electronics, software, sensors, and network connectivity, that enables these objects to collect and exchange data.
+- IoT allows objects to be sensed and controlled remotely across existing network infrastructure, creating opportunities for more direct integration of the physical world into computer-based systems, and resulting in improved efficiency, accuracy, and economic benefit.
+- IoT is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
+- IoT is a concept that describes the idea of everyday physical objects being connected to the internet and being able to identify themselves to other devices.
+- IoT is significant because an object that can represent itself digitally becomes something greater than the object by itself. No longer does the object relate just to its user, but it is now connected to surrounding objects and database data.
+- IoT is an enabler of the smart home, smart city, smart grid, and smart transportation, among other applications.

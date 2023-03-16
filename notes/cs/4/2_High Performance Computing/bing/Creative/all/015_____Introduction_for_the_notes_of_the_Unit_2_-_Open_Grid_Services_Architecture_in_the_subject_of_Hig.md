@@ -1,0 +1,22 @@
+# Introduction for the notes of the Unit 2 - Open Grid Services Architecture in the subject of High Performance Computing
+
+- Open Grid Services Architecture (OGSA) is a set of standards and specifications that define how grid computing systems should operate and interact.
+- Grid computing is a form of distributed computing that enables the sharing and coordination of heterogeneous resources across multiple domains and locations.
+- OGSA aims to provide a common framework for building and deploying grid applications and services that are interoperable, scalable, secure, and reliable.
+- OGSA is based on the concepts and technologies of web services, which are software components that can be accessed and invoked over the internet using standard protocols and formats.
+- OGSA extends the web services model to support the dynamic and complex requirements of grid environments, such as resource discovery, negotiation, provisioning, monitoring, and management.
+- OGSA defines a set of core components and interfaces that constitute the basic building blocks of grid systems, such as:
+  - Grid Service: a web service that conforms to the OGSA specifications and provides a set of common behaviors and capabilities, such as lifetime management, notification, and metadata access.
+  - Grid Service Handle (GSH): a globally unique and persistent identifier for a grid service instance, which can be used to locate and access the service.
+  - Grid Service Reference (GSR): a transient and transport-specific reference to a grid service instance, which contains the GSH and other information needed to invoke the service.
+  - Service Data: a set of structured and self-describing data elements that represent the state and properties of a grid service instance, which can be queried and updated by clients and other services.
+  - Factory: a grid service that can create and destroy other grid services of a specific type, according to the requests and parameters from clients and other services.
+  - Registry: a grid service that can register, discover, and query other grid services and their metadata, based on various criteria and attributes.
+  - Container: a software component that hosts and manages the lifecycle and execution of grid services, and provides them with access to the underlying resources and functionalities of the grid system.
+- OGSA also defines a set of higher-level components and interfaces that address specific grid functionalities and domains, such as:
+  - Data Access and Integration: a set of services and protocols that enable the access, integration, and manipulation of distributed and heterogeneous data sources and repositories across the grid.
+  - Execution Management: a set of services and protocols that enable the submission, scheduling, execution, and control of computational tasks and workflows across the grid.
+  - Resource Management: a set of services and protocols that enable the discovery, allocation, reservation, and monitoring of physical and virtual resources across the grid.
+  - Security: a set of services and protocols that enable the authentication, authorization, encryption, and auditing of grid entities and interactions.
+  - Information: a set of services and protocols that enable the collection, aggregation, dissemination, and analysis of information about the grid system and its components.
+  - Self-Management: a set of services and protocols that enable the self-configuration, self-optimization, self-healing, and self-protection of the grid system and its components.

@@ -1,0 +1,13 @@
+# Considerations for Service-oriented Applications
+
+- A service-oriented application is an application that is composed largely of services, which are often in a hierarchy.
+- A service is a self-contained unit of software functionality, or set of functionalities, designed to complete a specific task such as retrieving specified data, performing a calculation, or validating a customer's identity.
+- Services use common interface standards and an architectural pattern so they can be rapidly incorporated into new applications.
+- Service-oriented architecture (SOA) is an implementation of the service concept or service model of computing, where business processes are implemented as software services, accessed through a set of strictly defined application program interfaces (APIs) and bound into applications through dynamic service orchestration.
+- Some of the considerations for designing and developing service-oriented applications are:
+
+  - Service granularity: The level of detail and functionality that a service provides. A coarse-grained service provides a high-level functionality that may involve multiple tasks, while a fine-grained service provides a low-level functionality that may involve a single task. The granularity of a service affects its reusability, performance, and maintainability.
+  - Service coupling: The degree of dependency and interaction between a service and other services or components. A loosely coupled service has minimal dependencies and interactions, while a tightly coupled service has many dependencies and interactions. Loose coupling promotes service autonomy, flexibility, and scalability.
+  - Service contract: The specification of the service interface, behavior, and quality attributes. A service contract defines what the service does, how it can be accessed, and what are the expected outcomes and non-functional requirements. A service contract should be clear, consistent, and standardized.
+  - Service discovery: The mechanism for finding and selecting the appropriate service for a given task or process. Service discovery can be static or dynamic, depending on whether the service location and configuration are predefined or determined at runtime. Service discovery should be reliable, secure, and efficient.
+  - Service composition: The process of combining multiple services to create a new functionality or application. Service composition can be done manually or automatically, depending on the level of automation and intelligence involved. Service composition should be flexible, adaptable, and reusable.

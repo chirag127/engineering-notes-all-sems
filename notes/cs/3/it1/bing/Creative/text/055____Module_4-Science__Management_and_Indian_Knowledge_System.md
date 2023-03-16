@@ -1,0 +1,23 @@
+## Module 4-Science, Management and Indian Knowledge System
+
+- Science is the systematic study of the natural and physical world through observation and experimentation.
+- Management is the process of planning, organizing, leading and controlling the human and material resources of an organization to achieve its goals and objectives.
+- Indian Knowledge System (IKS) is an innovative cell under Ministry of Education (MoE) at AICTE, New Delhi. It is established to promote interdisciplinary research on all aspects of IKS, preserve and disseminate IKS for further research and societal applications.
+- IKS refers to the rich and diverse knowledge traditions that have evolved in India over millennia, covering various fields such as philosophy, mathematics, astronomy, medicine, metallurgy, architecture, art, music, literature, etc.
+- IKS is based on the principles of holistic, integrative and experiential learning, and aims to foster a sense of harmony, balance and respect for nature and all living beings.
+- IKS is relevant for the contemporary world as it offers insights and solutions for various challenges such as environmental degradation, social injustice, health and well-being, ethical leadership, innovation and creativity, etc.
+- Some of the examples of IKS are:
+  - Vedas, Upanishads, Puranas, Epics and other classical texts that contain the essence of Indian wisdom and culture.
+  - Yoga, Ayurveda, Siddha, Unani and other systems of health and wellness that emphasize prevention, cure and holistic living.
+  - Sankhya, Nyaya, Vaisheshika, Mimamsa, Vedanta and other schools of Indian philosophy that explore the nature of reality, knowledge, ethics and spirituality.
+  - Aryabhatta, Brahmagupta, Bhaskara, Madhava and other mathematicians and astronomers who made remarkable contributions to the fields of algebra, geometry, trigonometry, calculus, astronomy, etc.
+  - Charaka, Sushruta, Nagarjuna, Patanjali and other physicians and surgeons who pioneered the fields of anatomy, physiology, pharmacology, surgery, etc.
+  - Kanada, Rishi Agastya, Rishi Bharadwaja and other scientists and inventors who discovered the concepts of atomism, metallurgy, aviation, etc.
+  - Panini, Bhartrihari, Patanjali and other linguists and grammarians who developed the science of language, grammar and semantics.
+  - Kautilya, Chanakya, Shukracharya and other political thinkers and strategists who formulated the principles of statecraft, diplomacy, economics, etc.
+  - Vishwakarma, Mayasura, Bhoja and other architects and engineers who designed and built magnificent temples, palaces, forts, bridges, etc.
+  - Bharata, Abhinavagupta, Nandikeswara and other artists and aestheticians who created and refined the theories and practices of music, dance, drama, painting, sculpture, etc.
+  - Valmiki, Vyasa, Kalidasa, Tulsidas and other poets and writers who composed and narrated the epic stories and legends of India.
+- The Centre for Indian Knowledge Systems at IIT Guwahati is an academic center involving multi-disciplinary research for preserving, documenting, and building upon a philosophic and scientific understanding of Indian Traditional Knowledge Systems.
+- The study of IKS is being offered as a non-credit course in academic institutions for the last three years. The course aims to expose students to the rich heritage of India and its relevance for the modern world.
+- The ancient Indian knowledge systems and their relevance today can be understood with an emphasis on Arthasastra, which is a treatise on statecraft, economics, politics, diplomacy, warfare, etc. written by Kautilya or Chanakya in the 4th century BCE. Arthasastra provides a comprehensive and pragmatic framework for governance, administration, security, welfare, ethics, etc. that can be applied to the contemporary challenges and opportunities.

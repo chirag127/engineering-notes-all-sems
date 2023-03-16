@@ -1,0 +1,11 @@
+## Unit 3 - SYNTACTIC ANALYSIS
+
+- Syntactic analysis is the process of analyzing the structure and grammar of a natural language sentence or program code.
+- Syntactic analysis can be performed by using formal methods, such as context-free grammars, or by using statistical or machine learning methods, such as hidden Markov models or neural networks.
+- Syntactic analysis can be used for various applications, such as parsing, translation, summarization, error detection, code generation, and natural language understanding.
+- Syntactic analysis can be divided into two main phases: lexical analysis and parsing.
+- Lexical analysis is the process of breaking down a sentence or code into its smallest meaningful units, called tokens or lexemes. Lexical analysis can be done by using regular expressions, finite state automata, or lexers.
+- Parsing is the process of building a hierarchical representation of the syntactic structure and relationships of the tokens or lexemes in a sentence or code. Parsing can be done by using context-free grammars, pushdown automata, or parsers.
+- There are different types of parsers, such as top-down parsers, bottom-up parsers, and hybrid parsers. Top-down parsers start from the root or start symbol of the grammar and try to match the input with the production rules. Bottom-up parsers start from the input and try to reduce it to the root or start symbol of the grammar. Hybrid parsers combine both top-down and bottom-up strategies.
+- There are different algorithms for parsing, such as recursive descent parsing, predictive parsing, shift-reduce parsing, operator precedence parsing, LR parsing, LL parsing, and Earley parsing. Each algorithm has its own advantages and disadvantages in terms of efficiency, complexity, and accuracy.
+- Syntactic analysis can produce different types of output, such as parse trees, abstract syntax trees, syntax diagrams, or dependency graphs. Each type of output has its own benefits and limitations in terms of readability, compactness, and information content.

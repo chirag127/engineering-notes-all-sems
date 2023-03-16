@@ -1,0 +1,23 @@
+# Security Overview
+
+- Security is a major concern for cloud computing, as it involves storing and processing sensitive data on remote servers that are accessed over the internet.
+- Cloud security is a collection of procedures and technology designed to address external and internal threats to business security.
+- Cloud security encompasses three core capabilities: confidentiality, integrity, and availability.
+  - Confidentiality is the ability to keep information secret from people who should not have access.
+  - Integrity means that systems operate as they are intended to function and produce outputs that are not unexpected or misleading.
+  - Availability means that systems and data are accessible and reliable when needed.
+- Cloud security can be divided into two categories: security of the cloud and security in the cloud.
+  - Security of the cloud refers to the security measures that are implemented by the cloud service provider (CSP) to protect the cloud infrastructure and platform from unauthorized access, modification, or disruption.
+  - Security in the cloud refers to the security measures that are implemented by the cloud customer (CC) to protect the cloud applications and data from unauthorized access, modification, or disruption.
+- Cloud security requires a shared responsibility model between the CSP and the CC.
+  - The CSP is responsible for securing the cloud infrastructure and platform, such as the physical servers, networks, storage, hypervisors, operating systems, and middleware.
+  - The CC is responsible for securing the cloud applications and data, such as the application code, configuration, encryption, authentication, authorization, and backup.
+- Cloud security faces several challenges and risks, such as data breaches, data loss, denial of service, malicious insiders, misconfiguration, unauthorized access, compliance violations, and legal issues.
+  - Data breaches occur when sensitive data is exposed or stolen by unauthorized parties, which can result in financial losses, reputational damage, or legal liabilities.
+  - Data loss occurs when data is accidentally or intentionally deleted, corrupted, or overwritten, which can result in business disruption, operational failures, or customer dissatisfaction.
+  - Denial of service occurs when a cloud service is rendered unavailable or degraded by overwhelming it with traffic or requests, which can result in business interruption, performance degradation, or customer frustration.
+  - Malicious insiders are people who have legitimate access to the cloud service but use it for malicious purposes, such as stealing data, sabotaging systems, or leaking information.
+  - Misconfiguration is a common human error that occurs when cloud settings are not properly configured or updated, which can result in security vulnerabilities, data exposure, or service disruption.
+  - Unauthorized access occurs when unauthorized parties gain access to the cloud service or data, which can result in data theft, data manipulation, or service abuse.
+  - Compliance violations occur when cloud customers or providers fail to comply with the relevant laws, regulations, standards, or policies that govern their cloud activities, which can result in fines, penalties, or legal actions.
+  - Legal issues arise when cloud customers or providers face disputes or conflicts over the ownership, jurisdiction, liability, or privacy of the cloud service or data, which can result in lawsuits, arbitration, or mediation.

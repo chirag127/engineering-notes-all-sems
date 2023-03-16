@@ -1,0 +1,7 @@
+### Static Data and Function Members
+
+- Static data members are class variables that are shared by all objects of the class. They are declared with the `static` keyword inside the class definition, but outside any member function. They are initialized outside the class definition, usually in a source file.
+- Static function members are class functions that can access only static data members or other static function members. They are also declared with the `static` keyword inside the class definition, but outside any member function. They are defined outside the class definition, usually in a source file.
+- Static data and function members are useful for defining constants, counters, or utility functions that are related to the class, but do not depend on any specific object of the class.
+- Static data and function members can be accessed by using the class name and the scope resolution operator `::`, or by using an object of the class and the dot operator `.`. For example, if `count` is a static data member of class `Student`, then it can be accessed as `Student::count` or `s.count`, where `s` is an object of class `Student`.
+- Static data and function members have the same visibility rules as non-static data and function members. They can be public, private, or protected, depending on the access specifier used in the class definition.

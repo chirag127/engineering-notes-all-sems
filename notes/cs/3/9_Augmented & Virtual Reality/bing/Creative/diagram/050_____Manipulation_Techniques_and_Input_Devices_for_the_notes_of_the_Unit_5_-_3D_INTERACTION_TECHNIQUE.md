@@ -1,0 +1,31 @@
+### Manipulation Techniques and Input Devices for 3D Interaction
+
+- Manipulation techniques are methods for controlling the position, orientation, size, shape, or appearance of 3D objects in virtual environments.
+- Input devices are hardware components that allow users to provide input to the system by making movements or gestures in physical or virtual 3D space.
+- Some common manipulation tasks are:
+  - Translation: moving an object along one or more axes
+  - Rotation: rotating an object around one or more axes
+  - Scaling: changing the size of an object uniformly or non-uniformly
+  - Deformation: changing the shape of an object by applying forces or constraints
+  - Appearance: changing the color, texture, transparency, or other visual properties of an object
+- Some common input devices for 3D interaction are:
+  - Mouse: a 2D pointing device that can be used to control a cursor or a virtual hand in 3D space
+  - Keyboard: a set of keys that can be used to trigger commands or enter text
+  - Joystick: a 2D or 3D device that can be used to control the direction and speed of movement or rotation
+  - Trackball: a 2D or 3D device that can be used to control the orientation or rotation of an object or a viewpoint
+  - Touchscreen: a 2D or 3D device that can detect the location and pressure of one or more fingers or styluses on a surface
+  - Gesture sensor: a 2D or 3D device that can detect the position, orientation, and movement of the user's hand or body in 3D space
+  - Eye tracker: a 2D or 3D device that can detect the direction and focus of the user's gaze
+  - Brain-computer interface: a 2D or 3D device that can detect the user's brain activity and use it as input
+- Some common manipulation techniques for 3D interaction are:
+  - Virtual hand: a technique that uses a 3D input device to control a virtual representation of the user's hand, which can then be used to grab, move, rotate, or scale objects in 3D space
+  - Ray-casting: a technique that uses a 2D or 3D input device to project a ray from the device's position or orientation, which can then be used to select, move, rotate, or scale objects in 3D space
+  - Widget: a technique that uses a 2D or 3D input device to control a graphical user interface element, such as a handle, a slider, a dial, or a button, which can then be used to manipulate objects in 3D space
+  - Gesture: a technique that uses a 2D or 3D input device to recognize the user's hand or body gestures, which can then be used to trigger commands or manipulate objects in 3D space
+  - Voice: a technique that uses a microphone to recognize the user's voice commands, which can then be used to trigger commands or manipulate objects in 3D space
+- Some factors that affect the design and performance of manipulation techniques and input devices for 3D interaction are:
+  - Number of control dimensions: the number of degrees of freedom (DOFs) that the input device or the manipulation technique can provide
+  - Integration of control dimensions: the way that the input device or the manipulation technique maps the control dimensions to the manipulation task
+  - Force vs. position control: the way that the input device or the manipulation technique uses the force or the position of the user's input to control the manipulation task
+  - Feedback: the way that the system provides the user with information about the manipulation task, such as visual, auditory, haptic, or tactile feedback
+  - Display-specific and device-specific factors: the way that the input device or the manipulation technique adapts to the characteristics of the display device or the input device, such as size, resolution, field of view, latency, accuracy, or ergonomics

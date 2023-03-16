@@ -1,0 +1,13 @@
+## Unit 1 - INTRODUCTION
+
+- This unit provides an overview of the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be classified into different types based on the goals, methods, and applications of the systems. Some of the common types are:
+  - Weak AI or Narrow AI: Systems that are designed to perform a specific task or domain, such as face recognition, chess playing, or speech recognition. They do not have general intelligence or understanding of other domains.
+  - Strong AI or Artificial General Intelligence (AGI): Systems that can perform any intellectual task that a human can, across different domains and contexts. They have general intelligence and can reason, learn, and adapt to new situations. This type of AI is still a hypothetical goal and has not been achieved yet.
+  - Artificial Superintelligence (ASI): Systems that can surpass human intelligence and capabilities in all domains and contexts. They can create and discover new knowledge and goals that humans cannot. This type of AI is also a hypothetical goal and has not been achieved yet.
+- AI can also be classified into different types based on the degree of human involvement and control over the systems. Some of the common types are:
+  - Reactive AI: Systems that do not have any memory or learning capabilities. They react to the current inputs and stimuli without considering the past or future consequences. For example, a chess program that only evaluates the current board position and makes the best move.
+  - Limited Memory AI: Systems that can store and use some information from the past to improve their performance. They can learn from their experiences and adapt to changing situations. For example, a self-driving car that can remember the traffic rules and road conditions.
+  - Theory of Mind AI: Systems that can understand and model the mental states, emotions, beliefs, and intentions of other agents, both human and artificial. They can interact and communicate with others in a natural and empathetic way. For example, a social robot that can recognize and respond to human emotions and expressions.
+  - Self-Aware AI: Systems that can have a sense of self and consciousness. They can reflect on their own actions, goals, and abilities, and modify them accordingly. They can also understand and respect the values and ethics of other agents. For example, an AI agent that can explain its own reasoning and decisions to humans.

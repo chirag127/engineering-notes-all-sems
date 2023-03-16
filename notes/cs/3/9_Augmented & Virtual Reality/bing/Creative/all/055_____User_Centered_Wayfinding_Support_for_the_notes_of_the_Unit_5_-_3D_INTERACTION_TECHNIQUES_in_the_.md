@@ -1,0 +1,21 @@
+# User Centered Wayfinding Support
+
+- Wayfinding is the process of navigating from one location to another in an unfamiliar environment.
+- User centered wayfinding support is the design of wayfinding systems that consider the needs, preferences, and abilities of the users.
+- User centered wayfinding support can improve the usability, accessibility, and satisfaction of the users in various domains, such as healthcare, education, tourism, etc  .
+- User centered wayfinding support can involve different techniques, such as:
+  - Providing clear and consistent signage, symbols, and landmarks .
+  - Using multiple modalities, such as visual, auditory, haptic, and olfactory cues .
+  - Adapting the wayfinding system to the user's context, such as location, orientation, task, and preferences .
+  - Providing feedback and guidance, such as maps, directions, and progress indicators .
+  - Enhancing the user's spatial knowledge and cognitive map, such as by providing overview, orientation, and survey information .
+- User centered wayfinding support can be evaluated by using different methods, such as:
+  - Observing the user's behavior, such as route choice, navigation errors, and time spent .
+  - Measuring the user's performance, such as accuracy, efficiency, and completion rate .
+  - Assessing the user's experience, such as satisfaction, confidence, and stress level .
+  - Testing the user's spatial knowledge, such as recall, recognition, and sketching .
+- User centered wayfinding support can be improved by using a structured process, such as:
+  - Analyzing the user's needs, goals, and characteristics  .
+  - Designing the wayfinding system based on the user's requirements and expectations  .
+  - Testing the wayfinding system with the user's feedback and input  .
+  - Implementing the wayfinding system with the user's involvement and acceptance  .

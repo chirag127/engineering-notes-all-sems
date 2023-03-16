@@ -1,0 +1,8 @@
+# Recovery in Distributed Database Systems
+
+- Recovery in distributed database systems is the process of restoring the database to a consistent and correct state after a failure or a transaction abort.
+- Recovery in distributed database systems is more complex than in centralized database systems because failures can occur at multiple sites or communication links, and transactions can span multiple sites.
+- Recovery in distributed database systems aims to maintain the atomicity and durability of distributed transactions, which means that either all or none of the subtransactions at different sites are committed, and the committed changes are permanent.
+- Recovery in distributed database systems can be classified into two types: local recovery and global recovery.
+  - Local recovery is the process of recovering a single site from a failure or a transaction abort. Local recovery techniques include undo, redo, and undo/redo logging, which record the changes made by transactions and allow to roll back or roll forward the changes as needed.
+  - Global recovery is the process of coordinating the recovery of multiple sites involved in a distributed transaction. Global recovery techniques include two-phase commit (2PC), three-phase commit (3PC), and presumed abort/commit protocols, which ensure that all sites agree on the outcome of a distributed transaction and avoid the problem of orphaned or in-doubt subtransactions.

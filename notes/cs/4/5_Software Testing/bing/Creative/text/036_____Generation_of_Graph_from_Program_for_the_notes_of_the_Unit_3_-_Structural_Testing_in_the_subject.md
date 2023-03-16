@@ -1,0 +1,26 @@
+### Generation of Graph from Program
+
+- A graph is a mathematical representation of a set of objects and the relationships between them.
+- A graph consists of nodes (or vertices) and edges (or arcs) that connect the nodes.
+- A graph can be used to model the control flow of a program, where each node represents a statement or a block of statements, and each edge represents a possible transfer of control between the nodes.
+- A graph that represents the control flow of a program is called a control flow graph (CFG) or a program graph (PG).
+- A CFG or a PG can be derived from the source code of a program by following some rules, such as:
+  - Each entry point and exit point of the program is a node.
+  - Each decision point (such as an if statement or a loop condition) is a node.
+  - Each branch from a decision point is an edge.
+  - Each sequential statement or block of statements is a node.
+  - Each transfer of control between statements or blocks is an edge.
+- A CFG or a PG can be used for various purposes in software testing, such as:
+  - Measuring the complexity of a program using metrics such as cyclomatic complexity or decision density.
+  - Designing test cases to cover different paths or branches of the program using techniques such as path testing or branch testing.
+  - Detecting defects or errors in the program using tools such as automatic generation of dd-graph or symbolic testing.
+- A dd-graph (or def-use graph) is a derived graph from a CFG or a PG that shows the definition and use of variables in the program.
+- A dd-graph can help in identifying the test paths that are feasible or infeasible, and the test cases that can exercise the data flow dependencies in the program.
+- A symbolic testing is a technique that uses symbolic values and expressions to represent the inputs and outputs of the program, and then solves the constraints to generate test cases that satisfy the desired coverage criteria.
+- A CFG or a PG can be represented in different ways, such as:
+  - A graphical representation, where the nodes are drawn as circles or rectangles, and the edges are drawn as arrows or lines.
+  - A textual representation, where the nodes are labeled with numbers or names, and the edges are shown as pairs of node labels.
+  - A matrix representation, where the nodes are indexed by rows and columns, and the edges are shown as entries in the matrix.
+- A graphical representation can be more intuitive and visual, but it can also be more difficult to draw or manipulate for large or complex programs.
+- A textual representation can be more compact and easy to generate, but it can also be more difficult to understand or analyze for human readers.
+- A matrix representation can be more convenient and efficient for mathematical or algorithmic operations, but it can also be more abstract and less expressive for graphical or logical features.

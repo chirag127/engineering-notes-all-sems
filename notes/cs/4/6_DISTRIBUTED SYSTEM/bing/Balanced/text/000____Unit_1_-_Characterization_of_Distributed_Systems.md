@@ -1,0 +1,22 @@
+## Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent computers that appear to the users as a single coherent system.
+- The main characteristics of distributed systems are:
+  - Concurrency: Multiple components can execute simultaneously and interact with each other.
+  - No global clock: There is no shared physical clock among the components, so synchronization and coordination are challenging.
+  - Independent failures: Each component can fail independently, without affecting the rest of the system, unless there is a dependency.
+  - Heterogeneity: The components can have different hardware, software, network, data, and protocols.
+  - Scalability: The system can grow in size and complexity without losing its functionality and performance.
+  - Transparency: The system hides its internal details from the users, such as the location, migration, replication, and failure of components.
+- The main advantages of distributed systems are:
+  - Resource sharing: The system can access and utilize the resources of multiple components, such as files, printers, sensors, etc.
+  - Fault tolerance: The system can tolerate and recover from the failure of some components, by using replication, redundancy, or backup mechanisms.
+  - Performance: The system can achieve higher throughput and lower latency by distributing the workload among multiple components and using parallelism.
+  - Availability: The system can provide continuous service to the users, by using load balancing, caching, or replication techniques.
+  - Modularity: The system can be composed of smaller and simpler components, which can be developed, tested, and maintained independently.
+- The main challenges of distributed systems are:
+  - Coordination: The system needs to coordinate the actions and states of multiple components, by using algorithms, protocols, or middleware.
+  - Consistency: The system needs to ensure that the components have a consistent view of the data and the system state, by using synchronization, replication, or consensus mechanisms.
+  - Security: The system needs to protect the data and the communication from unauthorized access, modification, or disclosure, by using encryption, authentication, or authorization techniques.
+  - Reliability: The system needs to ensure that the components perform correctly and deliver the expected results, by using verification, testing, or debugging techniques.
+  - Complexity: The system needs to cope with the complexity and uncertainty of the environment, such as network failures, message delays, or malicious attacks, by using fault tolerance, adaptation, or self-organization techniques.

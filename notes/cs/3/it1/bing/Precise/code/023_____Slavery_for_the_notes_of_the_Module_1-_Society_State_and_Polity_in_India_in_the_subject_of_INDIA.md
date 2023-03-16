@@ -1,0 +1,6 @@
+### Slavery in India
+
+- Slavery in India continued through the 18th and 19th centuries. During the colonial era, Indians were taken into different parts of the world as slaves by various European merchant companies as part of the Indian Ocean slave trade .
+- Slavery in India escalated during the Muslim domination of northern India after the 11th century, when Muslim rulers re-introduced slavery to the Indian subcontinent .
+- There are currently more slaves living in India than in the rest of the world, with estimates ranging between 14 and 18 million. Slavery is very much still a lucrative business and it nets traffickers around $150 billion a year. To make this even more shocking, one-third of the profits is produced in developed countries .
+- The Global Slavery Index estimates that on any given day in 2016 there were nearly 8 million people living in modern slavery in India. In terms of prevalence of modern slavery in India, there were 6.1 victims for every thousand people. In the 2016 Global Slavery Index, we reported there were 18.3 million people in modern slavery in India .

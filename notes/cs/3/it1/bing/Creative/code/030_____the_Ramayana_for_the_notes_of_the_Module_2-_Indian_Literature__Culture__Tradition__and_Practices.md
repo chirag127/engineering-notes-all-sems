@@ -1,0 +1,14 @@
+### The Ramayana
+
+The Ramayana is a Hindu epic that narrates the life and adventures of Rama, the prince of Kosala, and his wife Sita. It is one of the two major Sanskrit epics of ancient India, along with the Mahabharata. The Ramayana consists of seven books and 24,000 verses. It is attributed to the sage Valmiki, who is also a character in the story.
+
+Some of the main points of the Ramayana are:
+
+- Rama is the eldest son of King Dasaratha of Kosala and his first wife Kausalya. He is the ideal man, known for his courage, virtue, and devotion to his duty (dharma).
+- Rama is chosen to marry Sita, the princess of Mithila, after he breaks the bow of Shiva in a contest. Sita is the incarnation of Lakshmi, the goddess of wealth and beauty, and the ideal woman, known for her loyalty, purity, and self-sacrifice.
+- Rama is exiled for 14 years by his stepmother Kaikeyi, who wants her son Bharata to be the king instead. Sita and Rama's brother Lakshmana accompany him to the forest. Bharata refuses to accept the throne and vows to rule as Rama's regent until he returns.
+- Ravana, the ten-headed king of Lanka and a powerful demon, abducts Sita with the help of his sister Surpanakha and his uncle Maricha. He wants to avenge his sister, who was mutilated by Lakshmana for trying to seduce Rama, and also desires Sita for himself. He takes her to his island and tries to persuade her to marry him, but she remains faithful to Rama.
+- Rama and Lakshmana search for Sita with the help of Hanuman, the monkey king, and his army of monkeys and bears. They meet many allies and enemies along the way, such as Sugriva, the exiled monkey king, Vibhishana, the righteous brother of Ravana, and Indrajit, the son of Ravana and a master of magic.
+- Rama and his allies build a bridge across the ocean and invade Lanka. They fight a fierce war with Ravana and his army of demons. Rama kills Ravana with the help of Vibhishana and the gods, and rescues Sita. He then returns to Ayodhya with Sita, Lakshmana, and Hanuman, and is crowned as the king.
+- Rama faces another challenge when some of his subjects doubt Sita's chastity, as she had lived in Ravana's palace for a year. Rama reluctantly banishes Sita to the forest, where she gives birth to twin sons, Lava and Kusha. They are raised by the sage Valmiki, who teaches them the Ramayana.
+- Rama performs a horse sacrifice (ashvamedha) to assert his sovereignty and encounters his sons, who challenge his army and recite the Ramayana. Rama recognizes them as his sons and reunites with Sita. Sita proves her purity by invoking the earth, her mother, to swallow her. Rama rules for many years as a righteous and benevolent king, before returning to his heavenly abode with his brothers and allies.

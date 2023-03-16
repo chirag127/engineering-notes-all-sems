@@ -1,0 +1,12 @@
+# Overview of IOT supported Hardware platforms such as Arduino, NetArduino, Raspberry pi, Beagle Bone, Intel Galileo boards and ARM cortex
+
+- Internet of Things (IoT) is the concept of connecting various devices and sensors to the internet, enabling data collection, processing, and communication.
+- IoT devices typically require hardware platforms that are small, low-cost, low-power, and capable of interfacing with various sensors, actuators, and wireless modules.
+- Some of the common IoT hardware platforms are:
+
+  - **Arduino**: Arduino is an open-source platform that consists of a microcontroller board and a software development environment. Arduino boards are easy to use and program, and support a wide range of sensors and actuators. Arduino boards can communicate with other devices using serial, USB, Bluetooth, Wi-Fi, or Ethernet .
+  - **Netduino**: Netduino is a platform that uses the .NET Micro Framework to program microcontroller boards. Netduino boards are compatible with Arduino shields and can run C# code. Netduino boards can communicate with other devices using serial, USB, Ethernet, or Wi-Fi.
+  - **Raspberry Pi**: Raspberry Pi is a single-board computer that runs Linux or other operating systems. Raspberry Pi boards have a powerful processor, memory, and various ports and interfaces. Raspberry Pi boards can communicate with other devices using HDMI, USB, Ethernet, Wi-Fi, Bluetooth, or GPIO .
+  - **BeagleBone**: BeagleBone is a single-board computer that runs Linux or Android. BeagleBone boards have a powerful processor, memory, and various ports and interfaces. BeagleBone boards can communicate with other devices using HDMI, USB, Ethernet, Wi-Fi, Bluetooth, or GPIO .
+  - **Intel Galileo**: Intel Galileo is a microcontroller board that runs Linux. Intel Galileo boards are compatible with Arduino shields and can run Arduino sketches. Intel Galileo boards can communicate with other devices using serial, USB, Ethernet, or Wi-Fi .
+  - **ARM Cortex**: ARM Cortex is a family of microcontroller cores that are widely used in embedded systems. ARM Cortex cores offer high performance, low power consumption, and various features and peripherals. ARM Cortex cores can communicate with other devices using serial, USB, Ethernet, Wi-Fi, Bluetooth, or GPIO.

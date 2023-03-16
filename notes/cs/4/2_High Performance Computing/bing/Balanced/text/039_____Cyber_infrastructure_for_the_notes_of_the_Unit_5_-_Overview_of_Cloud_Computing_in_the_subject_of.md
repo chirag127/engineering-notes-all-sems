@@ -1,0 +1,12 @@
+### Cyber infrastructure for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cyber infrastructure is a term that refers to the collection of information technology systems and software, physical and information assets, processes, and people that enable an organization to efficiently and securely function on cyber space .
+- Cyber infrastructure can support advanced data acquisition, data storage, data management, data integration, data mining, data visualization and other computing and information processing services distributed over the Internet beyond the scope of a single institution.
+- Cyber infrastructure can also facilitate scientific research by connecting laboratories, data, computers, and people with the goal of enabling derivation of novel scientific theories and knowledge.
+- Cloud computing is a type of cyber infrastructure that provides on-demand access to a shared pool of configurable computing resources (such as servers, storage, networks, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+- Cloud computing can offer various benefits for cyber infrastructure, such as scalability, elasticity, cost-effectiveness, reliability, security, and performance.
+- Cloud computing can also enable new modes of scientific discovery and collaboration, such as data-intensive computing, high-performance computing, distributed computing, and edge computing.
+- Cloud computing can be classified into different service models, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Function as a Service (FaaS).
+- Cloud computing can also be deployed in different models, such as public cloud, private cloud, hybrid cloud, and community cloud.
+- Cloud computing can pose some challenges for cyber infrastructure, such as data privacy, data sovereignty, data security, data transfer, data quality, data provenance, data interoperability, data governance, and data ethics.
+- Cloud computing can also require some skills and competencies for cyber infrastructure, such as cloud architecture, cloud engineering, cloud administration, cloud security, cloud programming, cloud analytics, and cloud management.

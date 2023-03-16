@@ -1,0 +1,22 @@
+### Hierarchy for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- Introduction
+  - Definition and examples of software technologies for AR and VR
+  - Classification of software technologies based on the level of immersion, interaction, and realism
+  - Benefits and challenges of using software technologies for AR and VR
+- Software Development Kits (SDKs) and Frameworks
+  - Definition and functions of SDKs and frameworks for AR and VR
+  - Comparison of different SDKs and frameworks based on the supported platforms, features, and performance
+  - Examples of popular SDKs and frameworks for AR and VR, such as Unity, Unreal Engine, ARCore, ARKit, Vuforia, etc.
+- Application Programming Interfaces (APIs) and Libraries
+  - Definition and functions of APIs and libraries for AR and VR
+  - Comparison of different APIs and libraries based on the supported languages, functions, and compatibility
+  - Examples of popular APIs and libraries for AR and VR, such as OpenGL, DirectX, WebXR, OpenCV, etc.
+- Tools and Editors
+  - Definition and functions of tools and editors for AR and VR
+  - Comparison of different tools and editors based on the supported formats, functions, and usability
+  - Examples of popular tools and editors for AR and VR, such as Blender, Maya, Photoshop, Audacity, etc.
+- Testing and Debugging
+  - Definition and functions of testing and debugging for AR and VR
+  - Comparison of different testing and debugging methods and tools based on the supported platforms, functions, and accuracy
+  - Examples of popular testing and debugging methods and tools for AR and VR, such as simulators, emulators, loggers, profilers, etc.

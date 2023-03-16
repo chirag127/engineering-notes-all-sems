@@ -1,0 +1,14 @@
+### High Performance Application Development Environment
+
+- A high performance application development environment is a set of tools, frameworks, and practices that enable software developers to create, test, deploy, and maintain applications that can run efficiently and reliably on large-scale, distributed, and parallel computing systems.
+- A high performance application development environment typically consists of the following components:
+  - A programming model that defines the syntax, semantics, and libraries for expressing parallelism, concurrency, and data distribution in the application code. Examples of programming models are MPI, OpenMP, CUDA, and Spark.
+  - A compiler or interpreter that translates the application code into executable binaries or scripts that can run on the target computing platform. The compiler or interpreter may also perform optimizations, such as loop unrolling, vectorization, and parallelization, to improve the performance of the application.
+  - A debugger and profiler that help the developers identify and fix errors, bugs, and performance bottlenecks in the application code. The debugger and profiler may also provide features such as breakpoints, watchpoints, call stacks, memory usage, and performance counters.
+  - A testing framework that automates the process of verifying the correctness and functionality of the application code. The testing framework may also provide features such as unit testing, integration testing, regression testing, and code coverage.
+  - A deployment environment that facilitates the process of packaging, distributing, installing, configuring, and running the application on the target computing platform. The deployment environment may also provide features such as resource management, load balancing, fault tolerance, and scalability.
+- A high performance application development environment aims to achieve the following goals:
+  - Reduce the development time and cost of high performance applications by providing abstractions, libraries, and tools that simplify the complexity of parallel and distributed computing.
+  - Improve the quality and reliability of high performance applications by providing mechanisms for testing, debugging, and profiling that detect and prevent errors, bugs, and performance issues.
+  - Enhance the productivity and efficiency of software developers by providing a consistent, intuitive, and user-friendly interface that supports the entire application development lifecycle.
+  - Enable the delivery of high performance applications that meet the requirements of the end users and the stakeholders by providing a flexible, scalable, and adaptable deployment environment that supports various computing platforms and scenarios   .

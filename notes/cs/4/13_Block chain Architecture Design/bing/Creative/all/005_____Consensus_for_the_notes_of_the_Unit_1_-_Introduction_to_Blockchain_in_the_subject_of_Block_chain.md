@@ -1,0 +1,14 @@
+# Consensus for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Consensus is the process of reaching agreement among a group of participants on a shared state of a system.
+- Consensus is essential for blockchain systems, which are distributed, decentralized, and trustless networks of nodes that maintain a shared ledger of transactions.
+- Consensus ensures that all nodes in the network have the same view of the ledger, and that any valid transactions are appended to the ledger in a consistent and irreversible way.
+- Consensus also prevents malicious or faulty nodes from compromising the integrity, security, or availability of the system.
+- There are different types of consensus algorithms that vary in their assumptions, properties, and trade-offs.
+- Some of the common consensus algorithms used in blockchain systems are:
+
+  - Proof-of-Work (PoW): A consensus algorithm that requires nodes to perform a computationally intensive task, called mining, to create new blocks and validate transactions. The difficulty of the task is adjusted dynamically to maintain a constant block time. PoW is used by Bitcoin, Ethereum, and other cryptocurrencies.
+  - Proof-of-Stake (PoS): A consensus algorithm that assigns nodes a stake, or a fraction of the total supply of the native cryptocurrency, that determines their probability of creating new blocks and validating transactions. PoS is more energy-efficient and scalable than PoW, but may introduce centralization and security risks. PoS is used by Cardano, Polkadot, and other cryptocurrencies.
+  - Proof-of-Authority (PoA): A consensus algorithm that relies on a predefined set of trusted nodes, called validators, to create new blocks and validate transactions. PoA is fast and efficient, but sacrifices decentralization and censorship-resistance. PoA is used by private or permissioned blockchains, such as Quorum and Hyperledger Besu.
+  - Byzantine Fault Tolerance (BFT): A consensus algorithm that can tolerate up to a certain fraction of faulty or malicious nodes in the network, and still reach agreement on the ledger state. BFT is based on the classical problem of the Byzantine Generals, and requires nodes to exchange multiple rounds of messages to reach consensus. BFT is used by public or permissionless blockchains, such as Stellar and NEO.
+  - Delegated Proof-of-Stake (DPoS): A consensus algorithm that combines PoS and BFT, and allows nodes to delegate their stake to a subset of nodes, called delegates, who are responsible for creating new blocks and validating transactions. DPoS is more democratic and efficient than PoS, but may introduce centralization and security risks. DPoS is used by EOS, Tron, and other cryptocurrencies.

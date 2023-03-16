@@ -1,0 +1,11 @@
+### Detection
+
+Detection is the task of identifying and locating objects in an image or a video. Detection can be useful for many applications, such as face recognition, security, autonomous driving, and computer vision. Detection typically uses different algorithms to perform this recognition and localization of objects, and these algorithms utilize deep learning to generate meaningful results.
+
+Some of the main points to know about detection are:
+
+- Detection is different from classification, which only predicts the label of an image, and segmentation, which divides an image into regions based on pixels. Detection not only predicts the label of an object, but also its location and size in the image, usually by drawing a bounding box around it.
+- Detection can be divided into two subtasks: region proposal and region classification. Region proposal is the process of generating candidate regions that may contain objects, and region classification is the process of assigning labels and confidence scores to each region.
+- Detection can be performed using different types of deep learning models, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs). CNNs are the most common and effective models for detection, as they can learn features from images and perform spatial transformations.
+- Detection can be further categorized into single-stage and two-stage methods, depending on how they perform region proposal and region classification. Single-stage methods, such as YOLO and SSD, directly predict the bounding boxes and labels of objects in one pass, while two-stage methods, such as R-CNN and Faster R-CNN, first generate region proposals and then refine them in a second pass.
+- Detection is a challenging and active research area, as it involves many factors, such as object scale, occlusion, background clutter, illumination, and viewpoint. Detection methods need to balance between accuracy and speed, as well as generalize to different domains and scenarios.

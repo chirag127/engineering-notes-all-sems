@@ -1,0 +1,21 @@
+### Testing Suite for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- A testing suite is a collection of test cases that are designed to verify the functionality, quality, and performance of a software system or component.
+- A testing suite can be organized according to different criteria, such as:
+  - The level of testing (unit, integration, system, acceptance, etc.)
+  - The type of testing (functional, non-functional, structural, etc.)
+  - The test objective (coverage, reliability, usability, security, etc.)
+  - The test technique (black-box, white-box, gray-box, etc.)
+  - The test environment (hardware, software, network, etc.)
+- A testing suite should have the following characteristics:
+  - Completeness: It should cover all the requirements and specifications of the software system or component.
+  - Consistency: It should follow a uniform format and structure for test cases and test results.
+  - Traceability: It should be able to link each test case to the corresponding requirement, specification, or defect.
+  - Reusability: It should be able to reuse test cases or test data for different versions or configurations of the software system or component.
+  - Maintainability: It should be easy to update, modify, or extend the test cases or test data as the software system or component evolves.
+  - Effectiveness: It should be able to detect the maximum number of defects with the minimum number of test cases.
+  - Efficiency: It should be able to execute the test cases with the minimum amount of time and resources.
+- A testing suite can be created using different tools, such as:
+  - Test management tools: These are software applications that help in planning, designing, organizing, executing, and reporting test cases and test results. Examples are TestRail, Zephyr, TestLink, etc.
+  - Test automation tools: These are software applications that help in automating the execution of test cases and test results. Examples are Selenium, TestComplete, QTP, etc.
+  - Test design tools: These are software applications that help in generating test cases or test data based on different criteria or techniques. Examples are TestNG, JUnit, NUnit, etc.

@@ -1,0 +1,26 @@
+# Computer Graphics for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+
+- Virtual reality (VR) is the use of computer graphics systems in combination with various display and interface devices to provide the effect of immersion in the interactive 3D computer-generated environment .
+- We call such an environment a virtual environment (VE).
+- VR applications immerse the user in a computer-generated environment that simulates reality through the use of interactive devices, which send and receive information from the user and the system.
+- The imagery of VR may be constructed from photographs or film of real places, or it can be entirely computer generated — CGI VR.
+- VR allows people to explore just about any world that can be imagined, from the streets of a foreign city to the surface of a distant, fictional planet.
+- VR can be used for various purposes, such as entertainment, education, training, simulation, therapy, art, and research.
+- VR can create different types of experiences, such as immersive, non-immersive, collaborative, and mixed reality.
+- Immersive VR is the most common type of VR, where the user wears a head-mounted display (HMD) or a head-up display (HUD) that covers the user's field of view and blocks out the real world.
+- Non-immersive VR is where the user views the virtual environment on a screen or a projector, without wearing any special devices.
+- Collaborative VR is where multiple users can interact with each other and the virtual environment, either in the same physical location or remotely.
+- Mixed reality (MR) is where the virtual environment is blended with the real world, creating a hybrid experience that can be either augmented reality (AR) or augmented virtuality (AV).
+- AR is where the virtual elements are overlaid on the real world, enhancing the user's perception of reality.
+- AV is where the real elements are integrated into the virtual world, creating a more realistic simulation.
+- VR requires various components to create a convincing and interactive experience, such as computer graphics, sound, haptics, tracking, and rendering.
+- Computer graphics are the visual representation of the virtual environment, which can be either 2D or 3D, realistic or stylized, static or dynamic.
+- Sound is the auditory component of the VR experience, which can be either spatial or non-spatial, natural or synthetic, ambient or directional.
+- Haptics are the tactile and force feedback of the VR experience, which can be either passive or active, vibrotactile or kinesthetic, contact or non-contact.
+- Tracking is the process of measuring the position and orientation of the user and the devices in the VR system, which can be either optical or non-optical, inside-out or outside-in, absolute or relative.
+- Rendering is the process of generating the images and sounds of the VR experience, which can be either rasterization or ray tracing, real-time or offline, stereoscopic or monoscopic.
+- VR faces various challenges and limitations, such as technical, ethical, social, and psychological issues.
+- Technical issues include the high cost, complexity, and maintenance of VR systems, the low resolution, latency, and bandwidth of VR devices, and the lack of standards, interoperability, and compatibility of VR software and hardware.
+- Ethical issues include the potential misuse, abuse, and addiction of VR, the privacy and security risks of VR data, and the moral and legal implications of VR actions and consequences.
+- Social issues include the isolation, alienation, and disconnection of VR users from the real world, the lack of social norms, etiquette, and trust in VR interactions, and the impact of VR on the culture, identity, and diversity of VR communities.
+- Psychological issues include the motion sickness, cybersickness, and simulator sickness of VR users, the presence, immersion, and engagement of VR users in the virtual environment, and the transfer, learning, and memory of VR users from the virtual to the real world.

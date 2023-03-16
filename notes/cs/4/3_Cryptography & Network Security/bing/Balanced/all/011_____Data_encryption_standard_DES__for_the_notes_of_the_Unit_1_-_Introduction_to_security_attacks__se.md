@@ -1,0 +1,10 @@
+# Data Encryption Standard (DES)
+
+- Data Encryption Standard (DES) is a symmetric-key block cipher that was adopted by the US government in 1977 as a standard for encrypting and decrypting sensitive data.
+- DES operates on 64-bit blocks of plaintext and ciphertext, using a 56-bit key that is derived from a 64-bit key by discarding 8 parity bits.
+- DES uses a Feistel structure, which consists of 16 rounds of encryption or decryption, each involving a subkey that is derived from the main key using a key schedule algorithm.
+- DES applies two main operations on the data blocks: substitution and permutation. Substitution involves replacing bits with other bits according to a predefined table called a S-box. Permutation involves rearranging the bits according to another predefined table called a P-box.
+- DES achieves confusion and diffusion, two properties that make a cipher resistant to cryptanalysis, by applying multiple rounds of substitution and permutation, and by using different subkeys in each round.
+- DES has a simple and elegant design, but it is no longer considered secure due to its small key size and the advances in computing power and cryptanalysis techniques. It can be broken by brute-force attacks, differential cryptanalysis, linear cryptanalysis, and other methods.
+- DES can be used in various modes of operation, such as Electronic Codebook (ECB), Cipher Block Chaining (CBC), Cipher Feedback (CFB), Output Feedback (OFB), and Counter (CTR), to achieve different security and performance goals.
+- Triple DES (3DES) is a variant of DES that applies three rounds of DES encryption or decryption with two or three different keys, to increase the effective key size and the security level. However, 3DES is also slow and outdated, and has been replaced by more modern and efficient block ciphers, such as Advanced Encryption Standard (AES).

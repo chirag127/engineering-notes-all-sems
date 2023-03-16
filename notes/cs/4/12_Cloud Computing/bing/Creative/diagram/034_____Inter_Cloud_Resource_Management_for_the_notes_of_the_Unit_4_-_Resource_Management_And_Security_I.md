@@ -1,0 +1,26 @@
+### Inter Cloud Resource Management
+
+Inter cloud resource management is the process of managing the resources of multiple clouds that are interconnected and interdependent. Inter cloud resource management aims to optimize the performance, cost, availability, and reliability of cloud services by dynamically allocating and sharing resources among different clouds.
+
+Some of the challenges and benefits of inter cloud resource management are:
+
+- Challenges:
+  - Interoperability: Different clouds may have different APIs, protocols, standards, and policies that make it difficult to communicate and exchange data and resources.
+  - Security: Inter cloud resource management requires ensuring the confidentiality, integrity, and availability of data and resources across different clouds and networks, as well as complying with various regulations and laws.
+  - Quality of Service: Inter cloud resource management requires meeting the service level agreements (SLAs) and quality of service (QoS) requirements of different cloud users and providers, as well as handling the dynamic changes in demand and supply of resources.
+- Benefits:
+  - Scalability: Inter cloud resource management enables scaling up or down the resources according to the changing needs and preferences of cloud users and providers, as well as leveraging the resources of other clouds when the local cloud is overloaded or unavailable.
+  - Cost-efficiency: Inter cloud resource management enables reducing the operational and capital expenses of cloud services by utilizing the resources of other clouds that are cheaper or more suitable for the tasks, as well as avoiding over-provisioning or under-utilization of resources.
+  - Reliability: Inter cloud resource management enables improving the availability and fault-tolerance of cloud services by distributing the workload and data across different clouds and networks, as well as recovering from failures or disruptions of individual clouds.
+
+Some of the types and examples of inter cloud resource management are:
+
+- Types:
+  - Federation Clouds: A federation cloud is a type of inter cloud where several cloud service providers voluntarily link their cloud infrastructures together to exchange resources. Cloud service providers in the federation trade resources in an open manner, and may have common goals or interests. For example, the European Grid Infrastructure (EGI) is a federation of national and regional cloud providers that offer computing and storage resources to scientific communities.
+  - Broker Clouds: A broker cloud is a type of inter cloud where a third-party entity acts as an intermediary between cloud users and providers, and manages the resources of multiple clouds on behalf of the users. Broker clouds may offer services such as cloud selection, negotiation, integration, orchestration, and monitoring. For example, the Cloud Broker Platform (CBP) is a broker cloud that provides a unified interface for accessing and managing heterogeneous cloud resources.
+  - Multi-Cloud Services: A multi-cloud service is a type of inter cloud where a cloud user or provider uses multiple clouds to deliver a single service or application. Multi-cloud services may leverage the resources of different clouds for different purposes, such as performance optimization, cost reduction, or reliability enhancement. For example, Netflix is a multi-cloud service that uses Amazon Web Services (AWS) for its core operations, Google Cloud Platform (GCP) for its disaster recovery, and its own Open Connect network for its content delivery.
+  - Multi-Cloud Libraries: A multi-cloud library is a type of inter cloud where a cloud user or provider uses a uniform cloud API as a library to access and manage multiple clouds. Multi-cloud libraries may simplify the development and deployment of cloud applications that span across different clouds, as well as abstract the differences and complexities of individual clouds. For example, Apache Libcloud is a multi-cloud library that supports over 50 cloud providers and offers a common interface for computing, storage, and networking services.
+- Examples:
+  - OPTIMUS: OPTIMUS is an inter cloud initiative that aims to optimize the energy efficiency and performance of cloud services by using machine learning and multi-objective optimization techniques. OPTIMUS leverages multi-cloud services to dynamically select and migrate cloud resources based on the energy consumption, carbon footprint, cost, and QoS of different clouds.
+  - Contrail: Contrail is an inter cloud initiative that aims to provide a federated and distributed cloud platform that supports the deployment and execution of cloud applications across multiple clouds. Contrail offers services such as cloud federation, virtual infrastructure management, security management, and SLA management. Contrail also provides a programming model and a runtime environment for developing and running cloud applications.
+  - MOSAIC: MOSAIC is an inter cloud initiative that aims to enable the development and execution of cloud applications that span across multiple clouds and devices. MOSAIC offers services such as cloud brokering, cloud orchestration, cloud adaptation

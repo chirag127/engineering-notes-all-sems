@@ -1,0 +1,11 @@
+### Choosing Output Devices for 3D User Interfaces
+
+Output devices, also called display devices, allow the machine to provide information or feedback to one or more users through the human perceptual system. Most of them are focused on stimulating the visual, auditory, or haptic senses.
+
+Some of the factors to consider when choosing output devices for 3D user interfaces are:
+
+- The type and amount of information to be displayed. For example, if the information is complex, dynamic, or spatial, then a 3D visual display may be more suitable than a 2D one. If the information is multimodal, then a combination of visual, auditory, and haptic output may be more effective than a single modality.
+- The level of immersion and presence desired. Immersion refers to the degree to which the output device creates a realistic and believable representation of the virtual environment. Presence refers to the degree to which the user feels present in the virtual environment. Generally, output devices that provide a high level of immersion and presence, such as head-mounted displays or spatial audio systems, may enhance the user's engagement and performance in 3D user interfaces.
+- The cost and availability of the output devices. Some output devices, such as stereoscopic projection displays or whole-hand haptic devices, may be expensive, bulky, or difficult to obtain. Therefore, the budget and resources of the project may limit the choice of output devices.
+- The compatibility and integration of the output devices. Some output devices may not be compatible with the input devices, the software platform, or the hardware configuration of the system. For example, some head-mounted displays may require a specific graphics card or operating system to work properly. Therefore, the output devices should be chosen based on their compatibility and integration with the rest of the system.
+- The user preferences and expectations. Some output devices may be more comfortable, intuitive, or enjoyable for the user than others. For example, some users may prefer a large-screen display over a head-mounted display, or a haptic glove over a 3D mouse. Therefore, the output devices should be chosen based on the user preferences and expectations.

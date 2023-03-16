@@ -1,0 +1,10 @@
+### Malayalam Literature
+
+- Malayalam literature is the body of writing in the Malayalam language, a South-Dravidian language spoken in the Indian state of Kerala .
+- The earliest extant literary work in Malayalam is Ramacharitam, a poem composed in the late 12th or early 13th century . It narrates the story of Rama in a mixture of Malayalam and Sanskrit.
+- Malayalam literature has been influenced by two outside sources: Sanskrit, which was the language of scholarship and religion, and Tamil, which was the language of administration and culture for a long period.
+- Malayalam literature can be divided into four main periods: the Pattu (song) period, the Manipravalam (ruby and coral) period, the Classical period, and the Modern period.
+- The Pattu period (12th to 16th century) is characterized by a popular literature of ballads, folk songs, and heroic poems, mostly composed in a simple and colloquial style. Some of the notable works of this period are Ramacharitam, Thirunizhalmala, and Vadakkan Pattukal.
+- The Manipravalam period (14th to 16th century) is marked by a literature of mainly erotic poetry, composed in a sophisticated style that blended Malayalam and Sanskrit . Some of the prominent works of this period are Unniyachi Charitam, Niranam poets, and Krishnagatha.
+- The Classical period (17th to 19th century) is distinguished by a literature of diverse genres, such as poetry, drama, prose, biography, history, and satire, written in pure Malayalam. Some of the eminent works of this period are Kathakali, Kilippattu, Thullal, Bhasha Kautukam, and Kerala Varma Valiya Koyil Thampuran.
+- The Modern period (20th century onwards) is characterized by a literature of social realism, nationalism, romanticism, modernism, and postmodernism, influenced by the Western literary movements and the socio-political changes in Kerala. Some of the notable works of this period are Indulekha, Adukkalayil Ninnu Arangathekku, Chemmeen, Khasakkinte Ithihasam, and Randamoozham.

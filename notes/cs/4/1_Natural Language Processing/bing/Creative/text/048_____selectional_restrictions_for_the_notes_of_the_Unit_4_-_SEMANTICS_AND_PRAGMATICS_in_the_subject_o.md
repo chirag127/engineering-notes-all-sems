@@ -1,0 +1,7 @@
+### Selectional restrictions
+
+- Selectional restrictions are semantic constraints that limit the possible arguments of a predicate (such as a verb, noun, or adjective) based on their meaning or category  .
+- Selectional restrictions account for the implausibility or ungrammaticality of sentences such as *Colorless green ideas slept furiously* or *The chair ate the sandwich* .
+- Selectional restrictions can be used in natural language understanding for disambiguation, pronoun resolution, sense variation, and composition  .
+- Selectional restrictions can be violated for various reasons, such as metaphor, irony, humor, or creativity . For example, *The sun smiled at me* violates the selectional restriction that the subject of *smile* should be animate, but it is a metaphorical expression.
+- Selectional restrictions can be modeled using different approaches, such as semantic features, types, categories, or distributional semantics   . For example, using semantic features, one can specify that the verb *eat* requires its subject to have the feature [+animate] and its object to have the feature [+edible]. Using distributional semantics, one can measure the similarity between the arguments and the typical collocates of the predicate based on their co-occurrence patterns in large corpora.

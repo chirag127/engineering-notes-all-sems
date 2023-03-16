@@ -1,0 +1,11 @@
+# Tools for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+3D interaction techniques are methods of manipulating and interacting with 3D objects and environments in augmented and virtual reality (AR/VR) applications. They are essential for creating immersive and natural user experiences in AR/VR. Some of the tools for the notes of the unit 5 are:
+
+- **3D transformation**: This is the process of changing the position, orientation, and scale of 3D objects using mathematical operations such as translation, rotation, and scaling. 3D transformation can be applied to digital objects in AR/VR using various input devices, such as hand gestures, controllers, or trackers.
+- **3D selection**: This is the process of identifying and selecting a target object or region in 3D space using a pointer, a ray, or a volume. 3D selection can be used for distant object interaction in AR/VR, such as picking, moving, or manipulating objects.
+- **3D manipulation**: This is the process of changing the shape, appearance, or behavior of 3D objects using direct or indirect methods. Direct manipulation involves touching or grabbing the object with a hand or a tool, while indirect manipulation involves using a menu, a widget, or a voice command. 3D manipulation can be used for editing, modeling, or animating objects in AR/VR.
+- **3D navigation**: This is the process of moving or changing the viewpoint in 3D space using locomotion, steering, or flying techniques. 3D navigation can be used for exploring, searching, or traveling in AR/VR environments.
+- **3D gesture recognition**: This is the process of detecting and interpreting the meaning of hand or body movements in 3D space using computer vision or sensor-based techniques. 3D gesture recognition can be used for natural and intuitive interaction in AR/VR, such as pointing, waving, or drawing.
+
+These are some of the basic 3D interaction techniques in AR/VR that can be studied and applied in various tasks and applications. They can be combined, modified, or extended to create more complex and advanced 3D interaction techniques.

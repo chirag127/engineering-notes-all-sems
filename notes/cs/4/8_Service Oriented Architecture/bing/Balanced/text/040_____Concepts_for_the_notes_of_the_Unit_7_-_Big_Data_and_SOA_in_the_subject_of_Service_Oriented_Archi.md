@@ -1,0 +1,17 @@
+### Concepts for the notes of the Unit 7 - Big Data and SOA in the subject of Service Oriented Architecture
+
+- Big data is a term that refers to the large, complex, and diverse datasets that are generated from various sources and require advanced techniques and technologies to store, process, and analyze .
+- SOA (Service Oriented Architecture) is a design paradigm that promotes the development and integration of software applications as a collection of reusable, loosely coupled, and platform-independent services that communicate through standardized interfaces and protocols .
+- Big data and SOA have a synergistic relationship, as SOA services can benefit from the insights and intelligence derived from big data analytics and AI, while big data platforms can leverage the flexibility and scalability of SOA services to handle the data challenges .
+- Some of the key concepts and topics related to big data and SOA are:
+
+  - Data sources and types: Big data can originate from various sources, such as sensors, social media, web logs, transactions, etc., and can have different types, such as structured, semi-structured, or unstructured .
+  - Data storage and management: Big data requires distributed and parallel systems, such as Hadoop, Spark, NoSQL, etc., to store and manage the data efficiently and reliably .
+  - Data processing and analysis: Big data requires advanced techniques and tools, such as MapReduce, streaming, machine learning, deep learning, etc., to process and analyze the data and extract meaningful information and knowledge .
+  - Data visualization and communication: Big data requires effective ways to visualize and communicate the results and insights of the data analysis, such as dashboards, charts, graphs, reports, etc., to support decision making and action .
+  - Data ethics and governance: Big data raises ethical and legal issues, such as privacy, security, quality, ownership, accountability, etc., that need to be addressed and regulated by appropriate policies and standards .
+  - Service design and development: SOA services need to follow the principles and best practices of service orientation, such as abstraction, reusability, modularity, interoperability, discoverability, etc., to ensure the quality and performance of the services .
+  - Service integration and composition: SOA services need to use the appropriate methods and technologies, such as SOAP, REST, XML, JSON, etc., to integrate and compose the services into complex and dynamic systems and processes .
+  - Service discovery and registry: SOA services need to have mechanisms and platforms, such as UDDI, WS-Discovery, etc., to publish, discover, and register the services and their metadata, such as functionality, quality, location, etc., to facilitate the service reuse and selection .
+  - Service governance and management: SOA services need to have frameworks and tools, such as ESB, BPM, BAM, etc., to govern and manage the service lifecycle, such as design, development, deployment, monitoring, evaluation, etc., to ensure the alignment and optimization of the services with the business goals and requirements .
+  - Service security and reliability: SOA services need to have strategies and mechanisms, such as encryption, authentication, authorization, etc., to ensure the security and reliability of the service communication and execution, especially in the context of big data and cloud computing .

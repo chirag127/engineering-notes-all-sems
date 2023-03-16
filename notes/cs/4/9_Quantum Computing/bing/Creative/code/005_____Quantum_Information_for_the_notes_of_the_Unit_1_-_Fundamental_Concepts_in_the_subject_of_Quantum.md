@@ -1,0 +1,18 @@
+### Quantum Information
+
+Quantum information is the information of the state of a quantum system. It is the basic entity of study in quantum information theory, and can be manipulated using quantum information processing techniques.
+
+Some of the fundamental concepts of quantum information are:
+
+- **Qubit**: A qubit is the basic unit of quantum information. It is a two-level quantum system that can exist in a superposition of two states, usually denoted as |0> and |1>. A qubit can be realized by various physical systems, such as an electron spin, a photon polarization, or a nuclear spin.
+- **Quantum entanglement**: Quantum entanglement is a phenomenon in which two or more quantum systems, such as qubits, are correlated in such a way that their quantum states cannot be described independently, even when they are spatially separated. Entanglement is a resource for quantum information processing, as it enables quantum teleportation, quantum cryptography, quantum error correction, and quantum computation.
+- **Quantum measurement**: Quantum measurement is the process of obtaining information about the state of a quantum system by interacting with it. Quantum measurement is probabilistic, meaning that the outcome of a measurement is not deterministic, but depends on the quantum state and the measurement basis. Quantum measurement also affects the quantum state, causing it to collapse to one of the possible outcomes.
+- **Quantum computation**: Quantum computation is the use of quantum systems, such as qubits, to perform operations on data. Quantum computation exploits the properties of quantum superposition and entanglement to achieve speedup or efficiency over classical computation for certain problems, such as factoring large numbers, searching unsorted databases, or simulating quantum systems.
+- **Quantum communication**: Quantum communication is the transmission of quantum information from one location to another, using quantum channels, such as optical fibers or free space. Quantum communication enables forms of secure communication that are provably impossible in a classical world, such as quantum key distribution, quantum secret sharing, or quantum digital signatures.
+- **Quantum algorithms**: Quantum algorithms are algorithms that use quantum systems, such as qubits, to perform operations on data. Quantum algorithms are designed to exploit the properties of quantum superposition and entanglement to achieve speedup or efficiency over classical algorithms for certain problems, such as Shor's algorithm, Grover's algorithm, or quantum Fourier transform.
+- **Quantum error correction**: Quantum error correction is the technique of protecting quantum information from noise and decoherence, which are inevitable in realistic quantum systems. Quantum error correction uses entanglement and redundancy to encode quantum information in such a way that errors can be detected and corrected without disturbing the quantum state.
+- **Quantum cryptography**: Quantum cryptography is the use of quantum systems, such as qubits, to perform cryptographic tasks, such as encryption, decryption, authentication, or key distribution. Quantum cryptography relies on the properties of quantum superposition and entanglement to achieve security that is based on the laws of physics, rather than on computational assumptions.
+
+: Quantum information - Wikipedia
+: Quantum Information | Stanford Institute for Theoretical Physics
+: Quantum information science | NIST

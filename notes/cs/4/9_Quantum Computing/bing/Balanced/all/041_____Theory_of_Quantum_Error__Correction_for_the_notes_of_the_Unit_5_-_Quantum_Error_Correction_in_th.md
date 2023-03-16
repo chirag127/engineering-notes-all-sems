@@ -1,0 +1,24 @@
+# Theory of Quantum Error-Correction
+
+- Quantum error correction is the process of protecting quantum information from noise and errors that can affect quantum systems, such as qubits, quantum gates, quantum measurements, and quantum channels.
+- Quantum error correction is essential for achieving fault-tolerant quantum computing, which can perform reliable and scalable quantum computations despite the presence of noise and errors.
+- Quantum error correction is based on the principles of quantum information theory, such as superposition, entanglement, and measurement.
+- Quantum error correction differs from classical error correction in several ways, such as:
+  - Quantum errors are continuous and probabilistic, whereas classical errors are discrete and deterministic.
+  - Quantum errors cannot be detected or corrected without disturbing the quantum state, whereas classical errors can be detected and corrected without affecting the classical bit.
+  - Quantum errors can affect both the amplitude and the phase of a quantum state, whereas classical errors can only affect the value of a classical bit.
+  - Quantum errors can be correlated and non-local, whereas classical errors are independent and local.
+- Quantum error correction relies on the use of quantum codes, which are special types of quantum states that can encode logical qubits into physical qubits, and quantum operations that can manipulate and measure the quantum codes.
+- Quantum codes can be classified into different types, such as:
+  - Stabilizer codes, which are based on the properties of the Pauli group and can correct a discrete set of errors.
+  - CSS codes, which are a subclass of stabilizer codes that can correct both bit-flip and phase-flip errors.
+  - Topological codes, which are based on the properties of topological phases of matter and can correct errors by using local measurements and operations.
+  - Surface codes, which are a subclass of topological codes that can correct errors by using a two-dimensional lattice of qubits and a syndrome extraction procedure.
+  - Concatenated codes, which are based on the idea of nesting quantum codes within quantum codes and can correct errors by using a hierarchical structure of error correction levels.
+- Quantum error correction requires the use of quantum circuits, which are networks of quantum gates that can implement quantum operations on quantum codes.
+- Quantum circuits can be designed and optimized by using various techniques, such as:
+  - Transversal gates, which are quantum gates that can act on each physical qubit of a quantum code independently and preserve the code structure.
+  - Logical gates, which are quantum gates that can act on the logical qubits encoded by a quantum code and implement logical operations.
+  - Fault-tolerant gates, which are quantum gates that can act on faulty quantum codes and correct errors during the computation.
+  - Clifford gates, which are a subset of quantum gates that can preserve the stabilizer of a quantum code and can be efficiently simulated classically.
+  - Universal gates, which are a minimal set of quantum gates that can implement any quantum operation on any quantum code and can perform universal quantum computation.

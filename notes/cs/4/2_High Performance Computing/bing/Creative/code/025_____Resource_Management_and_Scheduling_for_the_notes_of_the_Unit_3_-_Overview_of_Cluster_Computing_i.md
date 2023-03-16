@@ -1,0 +1,23 @@
+# Resource Management and Scheduling in Cluster Computing
+
+- Cluster computing is a form of parallel and distributed computing that consists of a collection of interconnected and independent computers (nodes) that work together as a single system.
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, as they determine how the cluster resources are allocated and utilized by the applications or jobs submitted by the users.
+- The RMS of clusters provides support of four main functionalities :
+  - Management of resources: The RMS manages, controls, and maintains the status information of the resources such as processors and disk storage in the cluster system.
+  - Job queuing: Jobs submitted by the users into the cluster system are initially placed into queues until there are available resources to execute the jobs.
+  - Job scheduling: The cluster RMS then invokes the cluster scheduler to determine how resources are assigned to various jobs, based on some criteria or objectives such as fairness, priority, performance, etc.
+  - Job execution: After that, the cluster RMS dispatches the jobs to the assigned nodes and manages the job execution processes before returning the results to the users upon job completion.
+- Cluster resource scheduling includes two main functions :
+  - Resource allocation: The process of assigning a certain quantity of computing resources to each user or application at runtime, guided by a global policy to share cluster resources among multiple users based on fairness and/or predefined priority.
+  - Job scheduling: The process of mapping the tasks or subtasks of a job to the allocated resources, taking into account the dependencies, communication, and synchronization among the tasks, as well as the heterogeneity and dynamism of the resources and the workload.
+- Cluster resource scheduling faces many challenges, such as :
+  - Achieving a tradeoff between multiple conflicting objectives, such as maximizing resource utilization, minimizing processing time, maximizing throughput, minimizing energy consumption, etc.
+  - Finding the balance between jobs' requirements, such as deadline, budget, quality of service, etc., and cluster's constraints, such as resource availability, capacity, cost, etc.
+  - Scaling to the increasing size and complexity of the cluster systems and the applications, as well as handling the uncertainty and variability of the resource and workload characteristics.
+  - Adapting to the dynamic changes in the cluster environment, such as resource failures, additions, or removals, as well as job arrivals, cancellations, or resubmissions.
+- Cluster resource scheduling can be classified into different categories based on different criteria, such as :
+  - The scheduling level: Cluster-level scheduling, which considers the whole cluster as a single resource pool and assigns jobs to nodes without considering their internal structure; or node-level scheduling, which considers the individual nodes and their components (such as cores, memory, etc.) and assigns tasks to them.
+  - The scheduling scope: Global scheduling, which considers all the jobs and resources in the cluster and makes a centralized decision; or local scheduling, which considers only a subset of jobs and resources and makes a distributed or decentralized decision.
+  - The scheduling strategy: Static scheduling, which makes the scheduling decision before the execution of the jobs and does not change it during the execution; or dynamic scheduling, which makes the scheduling decision at runtime and can change it according to the changing conditions.
+  - The scheduling objective: Single-objective scheduling, which optimizes only one criterion or metric; or multi-objective scheduling, which optimizes multiple criteria or metrics, often with tradeoffs or preferences.
+  - The scheduling algorithm: Heuristic scheduling, which uses some rules or heuristics to make the scheduling decision, often based on some intuition or experience; or metaheuristic scheduling, which uses some advanced techniques or algorithms, such as genetic algorithms, simulated annealing, particle swarm optimization, etc., to find near-optimal or optimal solutions.

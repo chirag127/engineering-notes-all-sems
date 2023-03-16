@@ -1,0 +1,12 @@
+### Federated Services and Applications for Hadoop
+
+- Hadoop is an open source framework that enables distributed processing and storage of large-scale data using clusters of commodity hardware.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and MapReduce.
+- HDFS is a distributed file system that provides high-throughput access to data across multiple nodes. HDFS stores data in blocks and replicates them across the cluster for fault tolerance.
+- MapReduce is a programming model that allows parallel processing of data using key-value pairs. MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input key-value pair and generates intermediate key-value pairs. The reduce phase aggregates the intermediate key-value pairs by key and produces the final output.
+- Hadoop also supports a variety of other components and applications that run on top of HDFS and MapReduce, such as Hive, Pig, HBase, Spark, etc.
+- Hadoop 2.x introduced a new feature called HDFS Federation, which allows multiple independent NameNodes/namespaces to coexist in the same cluster. This improves the scalability, performance, and isolation of HDFS.
+- A NameNode is the master node that manages the metadata of the file system, such as file names, permissions, locations, etc. A namespace is a logical grouping of files and directories that share a common root directory.
+- In HDFS Federation, each NameNode manages a separate namespace and does not communicate with other NameNodes. The DataNodes, which store the actual data blocks, are shared by all the NameNodes and can serve requests from any of them.
+- HDFS Federation also supports multiple mount points, which allow users to access files from different namespaces using a single path. For example, /user/foo can be mounted to namespace1 and /user/bar can be mounted to namespace2. Users can access files from both namespaces using /user/foo or /user/bar as the prefix.
+- HDFS Federation enhances the flexibility and scalability of Hadoop by allowing users to create and manage multiple namespaces according to their needs. It also reduces the load and risk of a single NameNode failure and improves the performance of the file system.

@@ -1,0 +1,25 @@
+### Mystical Theory for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Mystical theory is one of the theories that attempts to explain the origin of the state in ancient India.
+- According to this theory, the state is a divine institution that is established by God or his representative on earth.
+- The king is the embodiment of God or his chosen agent who rules by divine right and grace.
+- The king is the source of law and justice and the protector of dharma (righteousness).
+- The king is also the supreme judge, the commander-in-chief of the army, and the owner of all land and wealth in the kingdom.
+- The subjects owe absolute obedience and loyalty to the king and have no rights or liberties against him.
+- The king is accountable only to God and not to the people or any other authority.
+- The king is advised by a council of ministers who are appointed by him and serve at his pleasure.
+- The king is assisted by a bureaucracy of officials who carry out his orders and administer the affairs of the state.
+- The king is supported by a priestly class who perform rituals and sacrifices for the welfare of the king and the state.
+- The king is revered by the people who regard him as a father, a benefactor, and a savior.
+- The king is expected to rule according to the principles of dharma, which include benevolence, justice, generosity, compassion, and protection of the weak and the oppressed.
+- The king is also expected to uphold the varna (caste) system, which divides the society into four main classes: the brahmins (priests and scholars), the kshatriyas (warriors and rulers), the vaishyas (merchants and farmers), and the shudras (servants and laborers).
+- The king is also expected to maintain the ashrama (stage of life) system, which prescribes the duties and obligations of the individuals according to their age and status: the brahmacharya (student), the grihastha (householder), the vanaprastha (retiree), and the sannyasa (renunciant).
+- The king is also expected to follow the purusharthas (goals of life), which include the dharma (righteousness), the artha (wealth), the kama (pleasure), and the moksha (liberation).
+- The king is also expected to observe the yamas (restraints) and the niyamas (observances), which are the ethical and moral codes of conduct for the Hindus.
+- The king is also expected to practice the sadhanas (spiritual disciplines), which include the karma yoga (action), the bhakti yoga (devotion), the jnana yoga (knowledge), and the raja yoga (meditation).
+- The king is also expected to perform the samskaras (rites of passage), which mark the important events and transitions in the life of a Hindu, such as birth, initiation, marriage, death, etc.
+- The king is also expected to celebrate the festivals and holidays, which commemorate the deeds and teachings of the gods, the sages, and the heroes of the Hindu tradition.
+- The king is also expected to honor the sacred texts and scriptures, which contain the wisdom and guidance of the Hindu religion, such as the Vedas, the Upanishads, the Bhagavad Gita, the Ramayana, the Mahabharata, etc.
+- The king is also expected to worship the gods and goddesses, who are the manifestations of the supreme reality, the Brahman, in various forms and aspects, such as Vishnu, Shiva, Ganesha, Lakshmi, Durga, etc.
+- The king is also expected to respect the gurus and the saints, who are the spiritual teachers and guides of the Hindu tradition, such as Shankara, Ramanuja, Madhva, Chaitanya, Ramakrishna, Vivekananda, etc.
+- The king is also expected to serve the humanity and the nature, which are the expressions of the divine presence and grace in the world.

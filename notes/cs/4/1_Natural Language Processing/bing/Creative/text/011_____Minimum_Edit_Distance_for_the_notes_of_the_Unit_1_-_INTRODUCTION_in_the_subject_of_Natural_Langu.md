@@ -1,0 +1,22 @@
+### Minimum Edit Distance
+
+- Minimum edit distance is a measure of how similar or dissimilar two strings are to each other by counting the minimum number of operations required to transform one string into another .
+- The operations can be insertion, deletion, or substitution of a single character, or transposition of two adjacent characters.
+- Minimum edit distance can be used for various natural language processing tasks, such as spelling correction, text classification, information extraction, and machine translation .
+- Minimum edit distance can be computed using a dynamic programming algorithm that fills a matrix with the costs of the optimal alignments of the prefixes of the two strings  .
+- The algorithm works as follows :
+  - Initialize the first row and column of the matrix with the costs of inserting or deleting the characters of the first string or the second string, respectively.
+  - For each cell in the matrix, compute the minimum cost of aligning the corresponding characters of the two strings, considering the following cases:
+    - If the characters are equal, the cost is the same as the cost of aligning the previous characters (the diagonal cell).
+    - If the characters are different, the cost is the minimum of the following options:
+      - Inserting a character in the first string (the cell above plus the insertion cost).
+      - Deleting a character from the first string (the cell to the left plus the deletion cost).
+      - Substituting a character in the first string (the diagonal cell plus the substitution cost).
+      - Transposing two adjacent characters in the first string (the cell to the left of the diagonal cell plus the transposition cost), if applicable.
+  - The minimum edit distance is the value of the bottom-right cell of the matrix.
+  - The optimal alignment can be obtained by tracing back the path of the minimum costs from the bottom-right cell to the top-left cell of the matrix.
+- The costs of the operations can be assigned arbitrarily, depending on the application and the language . For example, some common choices are:
+  - Assigning equal costs to all operations, such as 1 or 0.5.
+  - Assigning lower costs to more frequent or less severe errors, such as transpositions or vowel substitutions.
+  - Assigning higher costs to less frequent or more severe errors, such as consonant substitutions or insertions/deletions at the beginning or end of a word.
+  - Assigning zero cost to matching characters, to avoid penalizing correct alignments.

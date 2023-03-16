@@ -1,0 +1,26 @@
+### Data Grids
+
+- A data grid is a set of structured services that gives individuals or groups of users the ability to access, modify and transfer extremely large amounts of geographically distributed data for research purposes .
+- Data grids are often used in scientific domains that require collaborative data analysis, such as high-energy physics, bioinformatics, astronomy, etc.
+- Data grids provide several benefits, such as:
+  - Data sharing: Data grids enable users to share data across different locations and organizations, without requiring physical data movement or replication.
+  - Data integration: Data grids allow users to access and combine data from heterogeneous sources, such as databases, files, web services, etc.
+  - Data management: Data grids provide mechanisms for data discovery, metadata management, security, replication, caching, etc.
+  - Data processing: Data grids support various data processing techniques, such as data mining, data analysis, data visualization, etc.
+- Data grids are composed of several components, such as:
+  - Data sources: These are the original data providers, such as databases, files, web services, etc.
+  - Data repositories: These are the intermediate data storage systems, such as file systems, object stores, etc.
+  - Data services: These are the software components that provide data access, transfer, integration, management, and processing functionalities, such as data catalog, data transfer service, data federation service, data analysis service, etc.
+  - Data clients: These are the end users or applications that consume data from the data grid, such as web browsers, desktop applications, etc.
+- Data grids can be classified into different types, based on the data model, the data organization, the data access, and the data processing, such as:
+  - Relational data grids: These are data grids that use the relational data model and SQL as the query language, such as OGSA-DAI, OGSA-DQP, etc.
+  - XML data grids: These are data grids that use the XML data model and XQuery as the query language, such as XGSP, XGWS, etc.
+  - Object data grids: These are data grids that use the object data model and object-oriented languages as the query language, such as Jini, JXTA, etc.
+  - File data grids: These are data grids that use the file data model and file system operations as the query language, such as SRB, iRODS, etc.
+  - Semantic data grids: These are data grids that use the semantic data model and RDF/SPARQL as the query language, such as S-OGSA, S-OGSI, etc.
+  - Hierarchical data grids: These are data grids that organize data in a hierarchical structure, such as tree, graph, etc., such as GridFTP, Globus, etc.
+  - Flat data grids: These are data grids that organize data in a flat structure, such as hash table, list, etc., such as Chord, Pastry, etc.
+  - Pull data grids: These are data grids that allow data clients to request data from data sources or data repositories, such as HTTP, FTP, etc.
+  - Push data grids: These are data grids that allow data sources or data repositories to send data to data clients, such as JMS, MQ, etc.
+  - Batch data grids: These are data grids that support batch data processing, such as MapReduce, Hadoop, etc.
+  - Stream data grids: These are data grids that support stream data processing, such as Storm, Spark, etc.

@@ -1,0 +1,12 @@
+## Unit 9 - Distributed Transactions
+
+- A distributed transaction is a type of transaction that involves two or more network hosts, usually providing transactional resources, such as databases, message queues, file systems, etc.   
+- A distributed transaction is coordinated by a transaction manager, which is responsible for creating and managing a global transaction that encompasses all the operations against the transactional resources.   
+- A distributed transaction requires the following properties to ensure data consistency and reliability: atomicity, consistency, isolation, and durability (ACID).  
+- Atomicity means that either all the operations in a distributed transaction are executed successfully, or none of them are. If any operation fails, the transaction manager should roll back the changes made by the other operations.  
+- Consistency means that the distributed transaction should preserve the integrity constraints and business rules of the data. The transaction manager should ensure that the data is in a valid state before and after the transaction.  
+- Isolation means that the distributed transaction should not interfere with other concurrent transactions. The transaction manager should prevent the data from being accessed or modified by other transactions until the current transaction is committed or aborted.  
+- Durability means that the effects of a committed distributed transaction should be permanent and survive any system failures. The transaction manager should ensure that the data is written to persistent storage and can be recovered if needed.  
+- A distributed transaction can be implemented using different protocols, such as two-phase commit (2PC), three-phase commit (3PC), or the saga pattern. Each protocol has its own advantages and disadvantages in terms of performance, availability, and fault tolerance.  
+- A distributed transaction can also be classified into different models, such as flat, nested, or multidatabase. Each model has its own characteristics and challenges in terms of concurrency control, deadlock detection, and recovery.  
+- A distributed transaction is a complex and costly process that introduces additional overhead and risks to the system. Therefore, it should be used only when necessary and when the benefits outweigh the drawbacks.

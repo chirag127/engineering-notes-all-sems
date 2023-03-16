@@ -1,0 +1,17 @@
+### Basics of Virtualization
+
+Virtualization is a process that allows for more efficient utilization of physical computer hardware by creating multiple virtual computers, called virtual machines (VMs), that run on a single physical computer or server. Virtualization uses software to create an abstraction layer over the hardware elements, such as processors, memory, storage, and network, and allows them to be divided and shared among the VMs. Virtualization is the foundation of cloud computing, as it enables the delivery of computing resources as a service over the internet.
+
+Some of the benefits of virtualization are:
+
+- Cost reduction: Virtualization reduces the need for purchasing and maintaining multiple physical servers, as well as the power and cooling costs associated with them.
+- Resource optimization: Virtualization allows for better utilization of the available hardware resources, as multiple VMs can run on the same physical server and use only the resources they need.
+- Scalability: Virtualization enables the creation and deletion of VMs on demand, as well as the migration of VMs across different physical servers, to meet the changing workload requirements.
+- Isolation: Virtualization provides a degree of isolation between the VMs, as each VM has its own operating system and applications, and does not interfere with the other VMs on the same physical server.
+- Security: Virtualization can enhance the security of the VMs, as they can be isolated from the physical network and protected by firewalls and encryption.
+
+There are different types of virtualization, depending on the level of abstraction and the type of resource being virtualized. Some of the common types of virtualization are:
+
+- Hardware virtualization: This is the most common type of virtualization, where the entire physical server is virtualized and divided into multiple VMs, each with its own operating system and applications. The software that creates and manages the VMs is called a hypervisor or a virtual machine monitor (VMM). Examples of hypervisors are VMware ESXi, Microsoft Hyper-V, and KVM.
+- Operating system virtualization: This is a type of virtualization where the operating system kernel is virtualized and shared among multiple VMs, each with its own user space and applications. The VMs are also called containers, as they are lightweight and portable. The software that creates and manages the containers is called a container engine or a container runtime. Examples of container engines are Docker, LXC, and rkt.
+- Application virtualization: This is a type of virtualization where the application is virtualized and separated from the underlying operating system and hardware. The application runs in a runtime environment that provides the necessary libraries and dependencies. The application can be delivered to the end user device in different ways, such as local application virtualization, where the entire application runs on the device, application streaming, where the application is streamed from a server and runs on the device, or remote application virtualization, where the application runs on a server and the user interacts with it through a remote display protocol. Examples of application virtualization software are Microsoft App-V, Citrix XenApp, and VMware ThinApp.

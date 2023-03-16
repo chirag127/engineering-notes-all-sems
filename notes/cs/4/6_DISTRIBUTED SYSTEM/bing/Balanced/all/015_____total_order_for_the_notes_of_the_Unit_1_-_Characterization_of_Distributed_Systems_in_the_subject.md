@@ -1,0 +1,14 @@
+# Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing to achieve a common goal.
+- Events are the occurrences of actions or changes of state in a distributed system.
+- The order of events is important for understanding the behavior and correctness of a distributed system.
+- A partial order is a binary relation that is reflexive, antisymmetric, and transitive. A partial order can be represented by a directed acyclic graph (DAG).
+- A total order is a partial order that is also complete, meaning that any two elements are comparable. A total order can be represented by a linear sequence.
+- A distributed system is said to have partial order if we can have a partial order relationship among the events in the system. If 'totality', i.e., causal relationship among all events in the system, can be established, then the system is said to have total order .
+- A single entity cannot have two events occur simultaneously. However, two events in different entities may be concurrent, meaning that they are not causally related and their order is not defined.
+- To establish a total order of events in a distributed system, we need a mechanism to assign timestamps to events and compare them. A timestamp is a value that reflects the occurrence time of an event.
+- There are two types of timestamps: physical and logical. Physical timestamps are based on the real time of the system clocks, while logical timestamps are based on the logical order of events.
+- Physical timestamps are subject to clock synchronization and drift issues, which may cause inconsistencies and anomalies in the order of events. Logical timestamps are immune to these issues, but they do not reflect the real time of events.
+- One example of logical timestamps is Lamport timestamps, which are integers that are incremented by one for each event in an entity, and are updated to the maximum of the current value and the received value for each message. Lamport timestamps can be used to create a total ordering of events in a distributed system by using some arbitrary mechanism to break ties (e.g. the ID of the process) .
+- Another example of logical timestamps is vector clocks, which are arrays of integers that are incremented by one for each event in an entity, and are updated to the element-wise maximum of the current value and the received value for each message. Vector clocks can be used to create a partial ordering of events in a distributed system by using the happened-before relation, which is defined as follows: if the vector clock of event A is less than or equal to the vector clock of event B in every element, then A happened before B. Vector clocks can also be used to detect concurrent events, which are those that are not related by the happened-before relation.

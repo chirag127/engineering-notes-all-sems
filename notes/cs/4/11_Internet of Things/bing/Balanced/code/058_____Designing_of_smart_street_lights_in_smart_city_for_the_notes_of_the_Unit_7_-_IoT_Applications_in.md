@@ -1,0 +1,14 @@
+### Designing of smart street lights in smart city
+
+- Smart street lights are street lights that can be remotely controlled, monitored and managed by a central system or a network of sensors and devices.
+- Smart street lights can provide various benefits for a smart city, such as:
+  - Energy saving: Smart street lights can adjust their brightness and color temperature according to the ambient light, traffic, weather and time of the day, reducing the energy consumption and carbon footprint of the city.
+  - Cost saving: Smart street lights can reduce the maintenance and operational costs of the city by detecting and reporting faults, optimizing the lighting schedule and performance, and extending the lifespan of the lamps.
+  - Safety and security: Smart street lights can enhance the safety and security of the city by providing adequate and uniform illumination for pedestrians, cyclists and drivers, deterring crime and vandalism, and supporting emergency services and law enforcement.
+  - Data and connectivity: Smart street lights can collect and transmit various data about the city, such as air quality, noise, traffic, weather and parking, enabling data-driven decision making and planning for the city. Smart street lights can also serve as a backbone for the smart city network, providing wireless connectivity and power for other smart city applications, such as cameras, sensors, displays and chargers.
+- The design of smart street lights in a smart city involves the following steps:
+  - Define the objectives and requirements of the smart street lighting system, such as the lighting standards, the energy and cost savings, the data and connectivity needs, and the integration with other smart city systems.
+  - Select the appropriate technologies and components for the smart street lighting system, such as the lamps, the drivers, the controllers, the sensors, the communication protocols, the network infrastructure, and the software platform.
+  - Install and commission the smart street lighting system, ensuring the proper wiring, mounting, testing, and calibration of the components, and the connectivity and interoperability of the system.
+  - Operate and maintain the smart street lighting system, using the software platform to monitor, control, and optimize the performance and functionality of the system, and to collect and analyze the data from the system.
+  - Evaluate and improve the smart street lighting system, using the data and feedback from the system to assess the impact and benefits of the system, and to identify and implement the areas for improvement and innovation.

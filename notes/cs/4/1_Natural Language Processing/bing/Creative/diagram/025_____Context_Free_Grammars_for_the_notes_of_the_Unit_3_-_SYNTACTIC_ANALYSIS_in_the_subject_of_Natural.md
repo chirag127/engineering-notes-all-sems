@@ -1,0 +1,28 @@
+### Context Free Grammars
+
+- A context-free grammar (CFG) is a list of rules that define the set of all well-formed sentences in a language.
+- Each rule has a left-hand side, which identifies a syntactic category, and a right-hand side, which defines its alternative component parts, reading from left to right.
+- A syntactic category is a label for a group of words or phrases that share some common properties, such as noun, verb, adjective, etc.
+- A context-free grammar is called so because the rules can be applied regardless of the surrounding context of the words or phrases.
+- A context-free grammar can be formally defined as a 4-tuple (N, Σ, R, S), where:
+  - N is a finite set of non-terminal symbols, which represent syntactic categories.
+  - Σ is a finite set of terminal symbols, which represent words or punctuation marks.
+  - R is a finite set of production rules, which have the form A → α, where A ∈ N and α ∈ (N ∪ Σ)*.
+  - S ∈ N is the start symbol, which represents the whole sentence.
+- A context-free grammar can be used to generate or parse sentences in a language.
+- To generate a sentence, we start with the start symbol and apply the rules recursively until we get a string of terminal symbols.
+- To parse a sentence, we start with the string of terminal symbols and try to find a sequence of rule applications that can derive it from the start symbol.
+- A context-free grammar can be represented by a parse tree, which is a graphical representation of the derivation process.
+- A parse tree has the following properties:
+  - The root node is labeled with the start symbol.
+  - The leaf nodes are labeled with terminal symbols.
+  - The internal nodes are labeled with non-terminal symbols.
+  - Each node is connected to its children by branches, which correspond to the right-hand side of a rule.
+  - The order of the children reflects the order of the symbols in the right-hand side of a rule.
+- A context-free grammar can be used to model the constituent structure of natural language, which is the hierarchical organization of words and phrases into larger units.
+- A constituent is a word or a phrase that functions as a single unit in a sentence.
+- A context-free grammar can capture the recursive nature of natural language, which allows sentences to be embedded within other sentences.
+- A context-free grammar can also account for some syntactic phenomena, such as agreement, coordination, and subcategorization.
+- However, a context-free grammar is not sufficient to describe all the aspects of natural language syntax, such as word order, movement, and anaphora.
+- Natural languages are really not context-free, as they depend on the surrounding context for interpretation and disambiguation.
+- Therefore, more expressive formalisms, such as mildly context-sensitive grammars, are often used to capture the complexity of natural language syntax.

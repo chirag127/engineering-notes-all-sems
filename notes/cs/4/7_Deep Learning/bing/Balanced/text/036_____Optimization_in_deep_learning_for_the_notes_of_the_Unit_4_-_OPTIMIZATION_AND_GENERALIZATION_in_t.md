@@ -1,0 +1,16 @@
+### Optimization in deep learning
+
+- Optimization is the process of finding the optimal values of the parameters (weights and biases) of a deep neural network that minimize a loss function or maximize a performance metric.
+- Optimization methods are algorithms that update the parameters iteratively based on the gradients of the loss function with respect to the parameters.
+- Optimization methods can be classified into two categories: first-order methods and second-order methods.
+- First-order methods only use the first-order derivatives (gradients) of the loss function to update the parameters. They are more efficient and scalable for large-scale problems, but they may suffer from slow convergence or oscillations.
+- Second-order methods use the second-order derivatives (Hessian matrix) or approximations of the loss function to update the parameters. They are more accurate and stable, but they are more computationally expensive and memory intensive.
+- Some of the most popular first-order optimization methods in deep learning are:
+
+  - Gradient descent: The simplest and most widely used optimization method. It updates the parameters by subtracting a fraction of the gradient from the current values. It can be applied in batch mode (using the whole dataset), mini-batch mode (using a subset of the dataset), or stochastic mode (using a single sample).
+  - Momentum: A method that accelerates the convergence of gradient descent by adding a momentum term to the update rule. The momentum term is a fraction of the previous update, which helps the algorithm overcome local minima and avoid oscillations.
+  - Nesterov accelerated gradient (NAG): A method that improves the momentum method by using a lookahead gradient instead of the current gradient. The lookahead gradient is computed at a point that is slightly ahead of the current parameters, which helps the algorithm anticipate the future direction of the gradient and correct the momentum accordingly.
+  - Adaptive gradient (AdaGrad): A method that adapts the learning rate for each parameter based on the historical gradients. The learning rate is inversely proportional to the square root of the sum of the squared gradients, which means that parameters with large gradients have smaller learning rates and vice versa. This helps the algorithm deal with sparse and noisy gradients and converge faster.
+  - AdaDelta: A method that improves AdaGrad by using a moving average of the squared gradients instead of the sum. This prevents the learning rate from decreasing too rapidly and allows the algorithm to adapt to changing gradients.
+  - RMSProp: A method that also uses a moving average of the squared gradients, but with a decay factor that controls the influence of the past gradients. This helps the algorithm avoid the problem of diminishing returns and achieve a balanced learning rate for each parameter.
+  - Adaptive moment estimation (Adam): A method that combines the ideas of momentum and adaptive learning rate. It uses a moving average of both the gradients and the squared gradients to update the parameters. It also introduces a bias correction term to account for the initialization of the moving averages at zero. Adam is one of the most popular and effective optimization methods in deep learning.

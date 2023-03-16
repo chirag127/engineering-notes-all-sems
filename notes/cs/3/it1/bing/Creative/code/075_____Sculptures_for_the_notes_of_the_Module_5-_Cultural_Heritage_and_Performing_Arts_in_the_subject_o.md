@@ -1,0 +1,13 @@
+### Sculptures for the notes of the Module 5- Cultural Heritage and Performing Arts in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Sculpture is a form of artistic expression that uses three-dimensional shapes and materials to create images or forms.
+- Sculpture was the favoured medium of artistic expression on the Indian subcontinent, as Indian buildings were profusely adorned with it and indeed are often inseparable from it.
+- The subject matter of Indian sculpture was almost invariably abstracted human forms that were used to instruct people in the truths of the Hindu, Buddhist, or Jain religions.
+- The nude was used both to represent the body as a symbol of spirit and to reveal the imagined shapes of the gods.
+- Some of the famous and unique sculptures of India are:
+
+  - The Dancing Girl, Mohen Jo Daro, c. 2500 BC: The statue of the famous 'Dancing Girl, found to be in the times of Harappa. It is made of bronze and depicts a young girl with a bangle on her left arm and her right hand on her hip. It is one of the earliest examples of realistic human representation in Indian art .
+  - Ashoka Pillar, Sarnath, 3rd Century BC: The most celebrated capital (the four-lion one at Sarnath (Uttar Pradesh)) erected by Emperor Ashoka circa 250 BC. also called the "Ashoka Column". It is made of sandstone and bears the edicts of Ashoka, which promote the principles of Buddhism. It also has the emblem of India, the four lions facing the four cardinal directions, on top of it.
+  - Buddha Statue, Sarnath: A large statue of Buddha in a seated posture, made of sandstone, dating back to the 5th century AD. It is located at the site where Buddha gave his first sermon after attaining enlightenment. It shows the gesture of teaching (dharmachakra mudra) and has a serene expression on the face.
+  - Nataraj, Chola Bronze Sculpture: A representation of Shiva as the lord of dance, made of bronze, dating back to the 10th century AD. It is one of the most iconic images of Hinduism and shows Shiva dancing in a ring of fire, symbolizing the cosmic cycle of creation and destruction. It also shows his attributes, such as the drum, the trident, the snake, and the dwarf demon.
+  - Khajuraho Temples, Madhya Pradesh: A group of Hindu and Jain temples, built between the 10th and 12th centuries AD, famous for their erotic sculptures. The sculptures depict various aspects of human life, such as love, war, royalty, spirituality, and sexuality. They are considered to be expressions of the divine energy and the celebration of life.

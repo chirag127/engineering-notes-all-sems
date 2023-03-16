@@ -1,0 +1,12 @@
+### Jainism
+
+Jainism is one of the oldest religions of India, with a history of more than 2500 years. It is based on the teachings of 24 spiritual leaders called tirthankaras, who attained enlightenment and liberation from the cycle of rebirth. The last and most famous of these tirthankaras was Mahavira, who lived in the 6th century BCE.
+
+Some of the main features of Jainism are:
+
+- It teaches a path of spiritual purity and enlightenment through disciplined nonviolence (ahimsa) to all living beings, including animals and plants. Ahimsa is the core principle of Jain ethics and practice, and it extends to one's thoughts, words, and actions.
+- It holds that the universe is eternal, uncreated, and governed by natural laws. It is also transtheistic, meaning that it does not affirm or deny the existence of a supreme being, but rather focuses on the individual soul and its liberation.
+- It believes that every living being has a soul (jiva) that is trapped in a cycle of birth and death (samsara) due to the accumulation of karma, which is the result of one's actions. Karma can be good or bad, and it affects the quality of one's life and future rebirths.
+- It asserts that the soul can attain liberation (moksha) by following the three jewels of Jainism: right knowledge (samyak jnana), right faith (samyak darshana), and right conduct (samyak charitra). Right conduct involves following the five vows of nonviolence, truthfulness, non-stealing, celibacy, and non-attachment.
+- It has two main sects: Digambara and Svetambara, which differ in some aspects of doctrine, practice, and tradition. For example, Digambara monks do not wear clothes, while Svetambara monks wear white robes. Both sects have sub-sects and traditions within them, such as Terapanth, Sthanakvasi, and Shvetambara Murtipujaka.
+- It has a rich and diverse literature, art, architecture, and culture, which reflect its history, philosophy, and values. Some of the famous Jain texts are the Agamas, the Kalpa Sutra, the Tattvartha Sutra, and the Uttaradhyayana Sutra. Some of the famous Jain temples are the Dilwara Temples in Mount Abu, the Ranakpur Temple in Rajasthan, and the Palitana Temples in Gujarat. Some of the famous Jain festivals are Mahavir Jayanti, Paryushana, and Diwali.

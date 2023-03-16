@@ -1,0 +1,19 @@
+# Build a Case for SOA
+
+Service Oriented Architecture (SOA) is a design paradigm that aims to create reusable, interoperable, and loosely coupled services that can be composed to meet changing business needs. SOA can offer many benefits to organizations, such as:
+
+- Increased agility and flexibility: SOA enables faster and easier integration of existing and new applications, as well as adaptation to changing business requirements and processes.
+- Reduced costs and complexity: SOA reduces duplication and redundancy of functionality, as well as maintenance and development efforts, by leveraging existing services and standards.
+- Improved quality and reliability: SOA promotes consistency and reuse of services, as well as better testing and monitoring of service performance and availability.
+- Enhanced innovation and collaboration: SOA facilitates the creation and consumption of services across organizational boundaries, as well as the sharing of best practices and knowledge.
+
+However, building a business case for SOA is not a trivial task, as it requires a clear understanding of the current and future state of the organization, the specific problems and opportunities that SOA can address, and the expected costs and benefits of SOA implementation. A generic or abstract business case for SOA is not sufficient, as it may not reflect the unique context and goals of each project or organization. Therefore, a project-specific and value-driven business case for SOA is needed, which can be guided by the following framework:
+
+- Define the business problem or opportunity: Identify the current pain points or gaps in the business processes, systems, or capabilities that SOA can help to solve or improve. For example, the problem could be high integration costs, low customer satisfaction, or poor scalability.
+- Analyze the current state: Assess the current architecture, infrastructure, and governance of the organization, and identify the strengths, weaknesses, opportunities, and threats (SWOT) of the current situation. For example, the current state could have a high degree of legacy systems, siloed applications, or manual processes.
+- Envision the future state: Define the desired outcomes, objectives, and metrics of the SOA solution, and describe how it will address the business problem or opportunity. For example, the future state could have a higher degree of service reuse, interoperability, or agility.
+- Evaluate the alternatives: Compare the SOA solution with other possible solutions, such as custom development, packaged applications, or outsourcing, and weigh the pros and cons of each option. For example, the alternatives could have different levels of risk, cost, or time to market.
+- Estimate the costs and benefits: Quantify the expected costs and benefits of the SOA solution, and calculate the return on investment (ROI), net present value (NPV), or payback period of the SOA project. For example, the costs could include hardware, software, training, or consulting, and the benefits could include revenue, savings, or customer loyalty.
+- Present the business case: Communicate the business case for SOA to the relevant stakeholders, such as senior management, business users, or IT staff, and highlight the value proposition, risks, and recommendations of the SOA solution. For example, the presentation could use charts, graphs, or case studies to illustrate the business case.
+
+Building a business case for SOA is a critical step to justify and secure the investment and support for SOA initiatives. By following a structured and evidence-based approach, organizations can demonstrate the alignment of SOA with their business strategy, goals, and needs, and increase the chances of SOA success.

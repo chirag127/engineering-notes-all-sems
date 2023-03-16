@@ -1,0 +1,15 @@
+### Atomic Commit in Distributed Database System
+
+- A distributed database system consists of multiple database sites that are connected by a communication network.
+- A distributed transaction is a transaction that accesses data from multiple sites and executes as a single logical unit of work.
+- An atomic commit is an operation that applies a set of distinct changes as a single operation. If the changes are applied, then the atomic commit is said to have succeeded. If the changes are not applied, then the atomic commit is said to have failed or aborted.
+- An atomic commit protocol is a protocol that ensures the atomicity of distributed transactions, i.e., either all the changes are committed at all the sites, or none of them are committed at any site.
+- Atomic commit protocols are needed to maintain the consistency and reliability of distributed data, especially in the presence of failures, such as site crashes, network partitions, or message losses.
+- Atomic commit protocols can be classified into two categories: blocking and non-blocking.
+  - Blocking protocols are protocols that require some sites to wait for the decision of other sites before committing or aborting their changes. Blocking protocols can suffer from blocking problems, such as deadlock, livelock, or indefinite postponement, if some sites fail or become unreachable.
+  - Non-blocking protocols are protocols that allow some sites to decide independently of other sites, based on the information they have. Non-blocking protocols can avoid blocking problems, but they may incur more communication overhead or require more assumptions about the system model.
+- Some examples of atomic commit protocols are:
+  - Two-phase commit (2PC): A blocking protocol that uses a coordinator site to collect the votes of all the participant sites and then broadcast the final decision to all the sites. 2PC ensures atomicity and agreement, but it can block if the coordinator or some participants fail.
+  - Three-phase commit (3PC): A blocking protocol that extends 2PC with an additional phase to reduce the possibility of blocking. 3PC introduces a pre-commit phase, in which the coordinator and the participants prepare to commit and exchange acknowledgments. 3PC ensures atomicity, agreement, and non-triviality, but it can still block if some sites fail during the pre-commit phase.
+  - Paxos commit: A non-blocking protocol that uses a consensus algorithm to elect a leader site and reach a decision among a majority of sites. Paxos commit ensures atomicity, agreement, and termination, but it requires a majority of sites to be alive and reachable, and it may incur more messages than 2PC or 3PC.
+  - FLAC: A non-blocking protocol that leverages failure-awareness to optimize the communication cost and latency of atomic commit. FLAC uses a failure detector to monitor the liveness of the sites and dynamically adjusts the protocol steps based on the failure information. FLAC ensures atomicity, agreement, and termination, and it can achieve optimal performance in both failure-free and failure-prone scenarios.

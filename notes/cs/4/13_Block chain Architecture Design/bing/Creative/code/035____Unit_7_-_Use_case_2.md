@@ -1,0 +1,21 @@
+## Unit 7 - Use case 2
+
+- Use case 2 is about designing and implementing a chatbot that can answer questions about a company's products and services.
+- The chatbot should be able to:
+  - Greet the user and introduce itself as the company's chatbot.
+  - Ask the user for their name and use it in the conversation.
+  - Identify the user's intent and provide relevant information or suggestions.
+  - Handle multiple queries and follow-up questions from the user.
+  - Apologize and redirect the user to a human agent if the chatbot cannot answer the question or handle the request.
+  - Thank the user and ask for feedback at the end of the conversation.
+- The chatbot should use natural language processing (NLP) techniques to understand the user's input and generate appropriate responses.
+- The chatbot should also use a knowledge base or a database to store and retrieve information about the company's products and services.
+- The chatbot should be able to handle different types of user input, such as:
+  - Questions: e.g., "What is the price of product X?"
+  - Commands: e.g., "Show me the features of product Y."
+  - Feedback: e.g., "I like product Z."
+  - Chitchat: e.g., "How are you today?"
+- The chatbot should be able to handle different types of user intent, such as:
+  - Informational: e.g., "Tell me more about product X."
+  - Transactional: e.g., "I want to buy product Y."
+  - Navigational: e.g., "How can I contact customer service?"

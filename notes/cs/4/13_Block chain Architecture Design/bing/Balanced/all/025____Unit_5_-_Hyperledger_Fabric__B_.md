@@ -1,0 +1,22 @@
+# Unit 5 - Hyperledger Fabric (B)
+
+- Hyperledger Fabric is an open source project from the Linux Foundation that provides a modular blockchain framework and a de facto standard for enterprise blockchain platforms  .
+- Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture that allows components, such as consensus and membership services, to be plug-and-play .
+- Hyperledger Fabric is designed to support various industry use cases, such as finance, banking, healthcare, IoT, supply chain, manufacturing and technology .
+- Hyperledger Fabric delivers a uniquely elastic and extensible architecture, distinguishing it from alternative blockchain solutions .
+- Hyperledger Fabric supports smart contracts written in general-purpose programming languages, such as Go, Java, and Node.js .
+- Hyperledger Fabric uses a permissioned network model, where participants need to be authenticated and authorized by a trusted entity .
+- Hyperledger Fabric supports a pluggable consensus mechanism, where different algorithms can be used depending on the network configuration and requirements .
+- Hyperledger Fabric supports a channel concept, where a subset of network participants can create a private communication channel and share a ledger among themselves .
+- Hyperledger Fabric supports a state database concept, where the current state of the ledger is stored in a key-value store, such as LevelDB or CouchDB .
+- Hyperledger Fabric supports a world state concept, where the state database can be queried using rich queries, such as JSON or SQL-like syntax .
+- Hyperledger Fabric supports a chaincode concept, where the smart contracts are deployed and executed on the network .
+- Hyperledger Fabric supports a endorsement policy concept, where the network participants can specify the conditions for validating and committing transactions to the ledger .
+- Hyperledger Fabric supports a private data concept, where the network participants can share sensitive data among a subset of authorized peers without revealing it to the rest of the network .
+- Hyperledger Fabric supports a event concept, where the network participants can subscribe to and receive notifications about the changes in the ledger or the state database .
+- Hyperledger Fabric supports a identity concept, where the network participants can use a membership service provider (MSP) to issue and manage certificates and identities for the network .
+- Hyperledger Fabric supports a orderer concept, where the network participants can use a ordering service to batch and order transactions into blocks and broadcast them to the network .
+- Hyperledger Fabric supports a peer concept, where the network participants can use a peer node to host and execute chaincode, maintain the ledger, and validate transactions .
+- Hyperledger Fabric supports a client concept, where the network participants can use a client application to interact with the network, such as invoking chaincode, querying the ledger, or subscribing to events .
+- Hyperledger Fabric supports a fabric-ca concept, where the network participants can use a fabric certificate authority to issue and manage certificates and identities for the network .
+- Hyperledger Fabric supports a fabric-sdk concept, where the network participants can use a fabric software development kit to simplify the development and integration of client applications with the network .

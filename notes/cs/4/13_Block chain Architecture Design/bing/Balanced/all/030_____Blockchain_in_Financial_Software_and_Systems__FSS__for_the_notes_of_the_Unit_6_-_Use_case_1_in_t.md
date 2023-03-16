@@ -1,0 +1,12 @@
+# Blockchain in Financial Software and Systems (FSS)
+
+- Blockchain is a decentralized ledger that records transactions in a distributed network of nodes, without the need for intermediaries or central authorities.
+- Blockchain can provide various benefits for the financial software and systems industry, such as:
+  - Reducing fraud, risk and costs by increasing transparency, security and trust among participants.
+  - Enhancing liquidity, speed and efficiency by enabling faster and cheaper transactions and trades, as well as automated contracts.
+  - Creating new opportunities and markets by allowing the creation, exchange and management of digital assets, such as cryptocurrencies, tokens, securities and derivatives.
+- Some of the use cases for blockchain in the financial software and systems industry are:
+  - Digital assets: Blockchain can enable the representation of any financial instrument as a unique digital asset that can be traded, transferred and stored on the network, with reduced friction and intermediation. For example, IBM offers a blockchain platform for digital assets that can help financial institutions create, issue and manage tokenized securities.
+  - Cross-border payments: Blockchain can facilitate the movement of money across borders, by reducing the cost, time and complexity of traditional payment systems, as well as enhancing the security and traceability of transactions. For example, Ripple is a blockchain-based network that connects banks, payment providers and digital asset exchanges, and enables fast and low-cost cross-border payments.
+  - Trade finance: Blockchain can streamline the process of trade finance, by enabling the digitization and automation of trade documents, contracts and payments, as well as improving the visibility and trust among the parties involved. For example, TradeLens is a blockchain-based platform that connects the participants in the global trade ecosystem, and provides a shared and secure record of trade transactions.
+  - Identity management: Blockchain can provide a secure and decentralized way of verifying and managing the identity of individuals and entities, by allowing them to store and control their own personal data, and share it with trusted parties as needed. For example, Civic is a blockchain-based identity platform that enables users to create and verify their digital identity, and access various services and products without the need for passwords or usernames.

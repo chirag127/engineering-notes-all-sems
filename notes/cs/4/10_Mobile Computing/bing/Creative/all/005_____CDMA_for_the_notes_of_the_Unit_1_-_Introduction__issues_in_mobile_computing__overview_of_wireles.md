@@ -1,0 +1,25 @@
+# CDMA for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- CDMA stands for Code Division Multiple Access and is a spread spectrum multiple access technique  .
+- Spread spectrum technique spreads bandwidth of data in a uniform manner for the same transmitted power.
+- CDMA is a digital cellular technology used for mobile communication .
+- CDMA is the base on which access methods such as cdmaOne, CDMA2000, and WCDMA are built .
+- CDMA allows numerous signals to occupy a single transmission channel, optimizing the use of available bandwidth .
+- CDMA uses codes to differentiate between multiple users sharing the same frequency .
+- CDMA has advantages such as increased capacity, improved voice quality, enhanced security, and reduced interference .
+- CDMA has disadvantages such as complex receiver design, synchronization issues, and power control problems .
+- CDMA is one of the multiple access techniques in mobile computing, along with FDMA (Frequency Division Multiple Access) and TDMA (Time Division Multiple Access).
+- FDMA divides the frequency spectrum into distinct channels and assigns one channel to each user.
+- TDMA divides the time into slots and assigns one slot to each user in a cyclic manner.
+- CDMA, FDMA, and TDMA are used to achieve efficient and fair allocation of resources among multiple users in a wireless network.
+- CDMA is compatible with other cellular technologies such as GSM (Global System for Mobile Communications), which is the most widely used standard for mobile telephony .
+- GSM is a cellular concept that divides a geographical area into cells, each served by a base station .
+- GSM uses a combination of FDMA and TDMA to multiplex users on the same channel .
+- GSM provides services such as voice, data, SMS, and roaming .
+- GSM has advantages such as international compatibility, low-cost handsets, and high-quality voice .
+- GSM has disadvantages such as limited data rates, security vulnerabilities, and spectrum inefficiency .
+- CDMA and GSM are examples of wireless telephony, which is the transmission of voice and data over a wireless network .
+- Wireless telephony is a part of mobile computing, which is the use of computing devices that can communicate wirelessly and are portable .
+- Mobile computing has issues such as mobility, heterogeneity, scalability, security, and energy efficiency .
+- Mobile computing has applications such as e-commerce, e-learning, e-health, social networking, and location-based services .
+- Mobile computing has challenges such as network availability, bandwidth limitations, device diversity, user interface design, and data synchronization .

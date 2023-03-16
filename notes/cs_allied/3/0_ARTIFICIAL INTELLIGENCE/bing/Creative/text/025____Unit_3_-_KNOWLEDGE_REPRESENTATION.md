@@ -1,0 +1,12 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding and storing information in a form that can be used by an intelligent system, such as an AI agent.
+- Knowledge representation aims to capture the meaning, structure, and context of the information, as well as the reasoning and inference capabilities of the system.
+- Knowledge representation can be divided into two main categories: declarative and procedural.
+  - Declarative knowledge represents facts, concepts, and relationships that are true or false in a given domain. Examples of declarative knowledge are logic, semantic networks, frames, and ontologies.
+  - Procedural knowledge represents actions, procedures, and strategies that can be executed to achieve a goal or solve a problem. Examples of procedural knowledge are rules, scripts, plans, and algorithms.
+- Knowledge representation can also be classified based on the level of abstraction, the degree of formalism, and the type of reasoning involved.
+  - The level of abstraction refers to how close the representation is to the natural language or the real world. Higher-level representations are more expressive and intuitive, but also more complex and ambiguous. Lower-level representations are more precise and efficient, but also more rigid and limited.
+  - The degree of formalism refers to how well the representation is defined by a formal syntax and semantics. Higher-degree representations are more rigorous and consistent, but also more difficult to construct and understand. Lower-degree representations are more flexible and pragmatic, but also more prone to errors and inconsistencies.
+  - The type of reasoning refers to how the system can manipulate and infer new information from the representation. Deductive reasoning is based on applying general rules or principles to specific cases. Inductive reasoning is based on deriving general rules or principles from specific cases. Abductive reasoning is based on finding the best explanation for a given observation or fact.
+- Knowledge representation is a fundamental and challenging task in AI, as it requires balancing the trade-offs between expressiveness, efficiency, and consistency. Different domains and applications may require different types of knowledge representation, depending on the nature and complexity of the information and the goals and capabilities of the system.

@@ -1,0 +1,10 @@
+### Hyperledger Fabric Components
+
+Hyperledger Fabric is a distributed ledger technology (DLT) platform that allows participants to create and manage smart contracts, or chaincode, that define the business logic and rules for transactions. Hyperledger Fabric has a modular architecture that enables flexibility and customization for different use cases and industries. Hyperledger Fabric consists of the following major components:
+
+- **Peer nodes** are the basic units of the network that host and execute chaincode, store the ledger, and validate transactions. Peer nodes can have different roles, such as endorsing peers, committing peers, or anchor peers, depending on their functions in the network.
+- **Clients** are applications that act on behalf of users to invoke chaincode, submit transactions, or query the ledger. Clients can be written in different programming languages, such as Go, Node.js, or Java.
+- **Ordering service** is a component that maintains the global ordering of transactions and delivers them to the peer nodes in batches, or blocks. The ordering service can use different consensus algorithms, such as Solo, Kafka, or Raft, to ensure the consistency and finality of the ledger.
+- **Membership service** is a component that manages the identities and access rights of the participants in the network. The membership service can use different mechanisms, such as X.509 certificates, or identity mixer, to provide authentication, authorization, and privacy for the users.
+- **Chaincode** is the term for smart contracts in Hyperledger Fabric. Chaincode defines the business logic and rules for transactions on the ledger. Chaincode can be written in different programming languages, such as Go, Node.js, or Java, and can be deployed and instantiated on specific peer nodes or channels.
+- **Channels** are private communication channels that allow a subset of network participants to share a separate ledger and chaincode. Channels provide confidentiality and isolation for transactions and data on the network. Channels can be created and joined by authorized peer nodes and clients.

@@ -1,0 +1,12 @@
+### Virtual Machine Security in Cloud
+
+- Virtual machines (VMs) are software entities that emulate the functionality of physical machines, such as servers, desktops, or mobile devices, on a host system.
+- VMs enable cloud computing, which is the delivery of on-demand computing resources over the internet, such as storage, processing, networking, and applications.
+- VM security in cloud is the protection of VMs and their data from unauthorized access, modification, or destruction, as well as the prevention of VM-related attacks on the host system or other VMs.
+- VM security in cloud involves the following aspects    :
+  - Isolation: VMs should be isolated from each other and from the host system, using techniques such as virtual networks, firewalls, encryption, and access control. This prevents VMs from interfering with or compromising each other or the host system.
+  - Antimalware: VMs should be protected from viruses, malware, ransomware, and other malicious software, using antimalware software from reputable vendors. This prevents VMs from being infected or used as vectors for spreading malware to other VMs or the host system.
+  - Encryption: VMs should encrypt their sensitive data, such as passwords, keys, certificates, and personal information, using encryption algorithms and protocols. This prevents VMs from exposing their data to unauthorized parties or losing their data in case of theft or deletion.
+  - Network security: VMs should secure their network traffic, using techniques such as VPNs, SSL/TLS, IPSec, and HTTPS. This prevents VMs from being intercepted, eavesdropped, or tampered with by attackers on the network.
+  - Threat detection: VMs should monitor their activities and logs, using tools such as intrusion detection systems, security information and event management systems, and anomaly detection systems. This helps VMs to identify and respond to potential threats, such as unauthorized access, data breaches, or denial-of-service attacks.
+  - Compliance: VMs should adhere to the security standards and regulations that apply to their domain, such as PCI DSS, HIPAA, GDPR, or NIST. This helps VMs to avoid legal or reputational risks, as well as to ensure the trust and confidence of their customers and stakeholders.

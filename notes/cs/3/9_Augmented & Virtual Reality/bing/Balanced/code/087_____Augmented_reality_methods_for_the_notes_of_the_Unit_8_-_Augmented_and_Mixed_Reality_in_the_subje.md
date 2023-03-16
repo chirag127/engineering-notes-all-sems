@@ -1,0 +1,15 @@
+### Augmented reality methods
+
+Augmented reality (AR) is a technology that enhances the real-world environment with computer-generated content, such as images, sounds, videos, or text. AR allows users to interact with both the physical and the digital elements in a seamless way. AR can be used for various purposes, such as entertainment, education, training, navigation, gaming, and marketing.
+
+There are different methods to create and deliver AR experiences, depending on the type of device, the type of content, and the type of interaction. Some of the common methods are:
+
+- **Marker-based AR**: This method uses a camera and a special visual object, such as a QR code, a logo, or a symbol, to trigger the AR content. The AR software recognizes the marker and calculates its position and orientation to overlay the digital content on top of it. For example, a marker-based AR app can show a 3D model of a furniture item when the user scans a catalog page with the camera.
+
+- **Marker-less AR**: This method does not require any predefined markers to activate the AR content. Instead, it uses the device's sensors, such as GPS, accelerometer, gyroscope, and compass, to determine the location and orientation of the device and the user. The AR software then displays the digital content based on the user's context and environment. For example, a marker-less AR app can show directions, landmarks, or nearby places on the screen when the user points the camera at the street.
+
+- **Projection-based AR**: This method uses a projector to cast the digital content onto a physical surface, such as a wall, a table, or a floor. The projector can be embedded in the device or mounted externally. The AR software can track the user's gestures and movements to enable interaction with the projected content. For example, a projection-based AR app can show a virtual keyboard on the desk that the user can type on.
+
+- **Superimposition-based AR**: This method replaces or enhances a part or the whole of the real-world view with the digital content. The AR software can use object recognition or image processing techniques to identify the target object and replace it with the digital one. For example, a superimposition-based AR app can show how a user would look with different hairstyles, clothes, or accessories.
+
+- **Display-based AR**: This method uses a display device, such as a monitor, a tablet, or a head-mounted display (HMD), to show the digital content in front of the user's eyes. The display device can be fixed or wearable, and can have different levels of transparency and field of view. The AR software can use eye tracking, head tracking, or hand tracking to enable interaction with the digital content. For example, a display-based AR app can show a virtual menu, a map, or a notification on the user's glasses.

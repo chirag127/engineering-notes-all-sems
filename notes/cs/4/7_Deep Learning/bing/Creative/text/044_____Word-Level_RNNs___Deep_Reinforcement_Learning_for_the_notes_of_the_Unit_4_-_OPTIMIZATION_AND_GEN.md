@@ -1,0 +1,18 @@
+### Word-Level RNNs & Deep Reinforcement Learning for the notes of the Unit 4 - OPTIMIZATION AND GENERALIZATION in the subject of Deep Learning
+
+- Word-level RNNs are recurrent neural networks that process sequences of words, such as sentences or documents, and learn to capture the semantic and syntactic dependencies among them.
+- Word-level RNNs can be used for various natural language processing tasks, such as text classification, sentiment analysis, machine translation, text summarization, etc.
+- Word-level RNNs typically consist of an embedding layer that maps words to vector representations, a recurrent layer that encodes the sequential information, and an output layer that performs the specific task.
+- Word-level RNNs can be trained using backpropagation through time (BPTT), which is a variant of gradient descent that updates the network parameters by propagating the errors backwards through the sequence.
+- Word-level RNNs can suffer from the vanishing or exploding gradient problem, which means that the gradients can become very small or very large as they are multiplied by the recurrent weights during BPTT, making the learning unstable or ineffective.
+- Word-level RNNs can be improved by using different architectures, such as long short-term memory (LSTM) or gated recurrent unit (GRU), which introduce gating mechanisms to control the information flow and avoid the gradient problem.
+- Word-level RNNs can also be improved by using regularization techniques, such as dropout, weight decay, or early stopping, which prevent overfitting and improve generalization.
+- Deep reinforcement learning (DRL) is a field that combines reinforcement learning (RL), which deals with sequential decision-making through an agent that takes actions in an environment and receives rewards or penalties, and deep learning, which employs deep neural networks to approximate the agent's policy or value function.
+- DRL can be used for various optimization and control problems, such as robotics, games, self-driving cars, etc.
+- DRL typically consists of an agent, an environment, a state space, an action space, a reward function, and a learning algorithm.
+- DRL can be categorized into value-based methods, policy-based methods, and actor-critic methods, depending on how the agent learns from its experience.
+- Value-based methods learn a value function that estimates the expected return for each state or state-action pair, and select the action that maximizes the value. Examples of value-based methods are Q-learning, deep Q-network (DQN), and deep deterministic policy gradient (DDPG).
+- Policy-based methods learn a policy function that directly maps states to actions, and optimize the policy to maximize the expected return. Examples of policy-based methods are REINFORCE, policy gradient, and proximal policy optimization (PPO).
+- Actor-critic methods combine value-based and policy-based methods, and learn both a value function and a policy function, where the value function evaluates the policy and the policy function improves the action selection. Examples of actor-critic methods are advantage actor-critic (A2C), asynchronous advantage actor-critic (A3C), and soft actor-critic (SAC).
+- DRL can suffer from high variance, sample inefficiency, exploration-exploitation trade-off, and generalization issues, which make the learning challenging and unstable.
+- DRL can be improved by using different techniques, such as experience replay, target networks, reward shaping, exploration strategies, curriculum learning, transfer learning, meta-learning, etc.

@@ -1,0 +1,8 @@
+# Software Practices for Beowulf Cluster
+
+- A Beowulf cluster is a group of commodity-grade computers that are networked and programmed to perform parallel computing tasks.
+- A Beowulf cluster does not have any specific software that defines it. Typically, only free and open source software is used, both to save cost and to allow customization.
+- A Beowulf cluster usually runs a Unix-like operating system, such as BSD, Linux, or Solaris. The operating system is installed on each node of the cluster, and the nodes communicate with each other using standard protocols, such as TCP/IP.
+- A Beowulf cluster requires a head node, which acts as the master and controls the other nodes, called compute nodes. The head node is responsible for distributing the work among the compute nodes, collecting the results, and providing user interface and storage services.
+- A Beowulf cluster can be configured and managed using various tools, such as Open Source Cluster Application Resources (OSCAR), which automates the provisioning of operating systems and other software for the cluster. Other tools include MPI (Message Passing Interface), which enables parallel programming and communication among the nodes, and PBS (Portable Batch System), which allows job scheduling and resource allocation for the cluster.
+- A Beowulf cluster can be used for various applications that require high performance computing, such as scientific simulations, data analysis, image processing, and machine learning. Some examples of Beowulf clusters are NASA's Columbia supercomputer, which consists of 20 interconnected clusters, and the Green Destiny cluster, which is designed to be energy-efficient and reliable.

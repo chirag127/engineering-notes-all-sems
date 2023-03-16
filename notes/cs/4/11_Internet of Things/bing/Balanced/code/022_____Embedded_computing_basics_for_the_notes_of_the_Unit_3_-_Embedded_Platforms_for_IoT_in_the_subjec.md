@@ -1,0 +1,38 @@
+### Embedded computing basics
+
+- An embedded system is a special-purpose computer system designed to perform a dedicated function.
+- Unlike a general-purpose computer, such as a personal computer, an embedded system performs one or a few pre-defined tasks, usually with very specific requirements, and often includes task-specific hardware and mechanical parts not usually found in a general-purpose computer.
+- Examples of embedded systems are an watch, washing machine, microwave oven, digital camera, etc.
+- Embedded systems are typically characterized by the following features  :
+  - Performs specific task: Embedded systems perform some specific function or tasks.
+  - Low Cost: The price of an embedded system is not so expensive.
+  - Time Specific: It performs the tasks within a certain time frame.
+  - Low Power: Embedded Systems don’t consume much power and can run on batteries.
+  - Small Size: Embedded Systems are usually small in size and can be easily integrated with other devices.
+  - Reliable: Embedded Systems are designed to work under harsh conditions and are less prone to errors or failures.
+  - Real-Time: Embedded Systems often have to respond to events or inputs in real-time, meaning within a specified deadline.
+- There are four types of embedded systems:
+  - Standalone embedded systems: These systems operate independently and do not require any external network or device to function. Examples are calculators, digital watches, etc.
+  - Network embedded systems: These systems rely on a network connection to communicate with other devices or systems. Examples are routers, smart home devices, etc.
+  - Mobile embedded systems: These systems are portable and can move from one place to another. Examples are smartphones, tablets, laptops, etc.
+  - Real-time embedded systems: These systems have to meet strict timing constraints and provide deterministic results. Examples are airbags, pacemakers, etc.
+- Embedded systems are widely used in various domains and applications, such as :
+  - Consumer electronics: TVs, DVD players, gaming consoles, etc.
+  - Industrial automation: Robots, CNC machines, PLCs, etc.
+  - Automotive: Engine control, anti-lock braking system, cruise control, etc.
+  - Aerospace: Flight control, navigation, communication, etc.
+  - Medical: MRI, ECG, blood pressure monitor, etc.
+  - Telecommunication: Mobile phones, routers, modems, etc.
+  - Internet of Things: Smart home devices, wearable devices, sensors, etc.
+- Embedded systems software and development environments are the tools and techniques used to design, program, test, and debug embedded systems.
+- Embedded systems software consists of the following components:
+  - Operating system: The software that manages the hardware resources and provides services to the application software. Examples are Linux, Windows, Android, etc.
+  - Application software: The software that implements the specific functionality of the embedded system. Examples are user interface, control logic, data processing, etc.
+  - Device drivers: The software that enables the communication between the operating system and the hardware devices. Examples are keyboard, mouse, display, etc.
+  - Middleware: The software that provides common services and functions to the application software. Examples are network protocols, databases, encryption, etc.
+- Embedded systems development environments are the tools and techniques used to create, compile, link, debug, and deploy embedded systems software.
+- Embedded systems development environments consist of the following components:
+  - Hardware platform: The physical device or board that hosts the embedded system. Examples are Arduino, Raspberry Pi, BeagleBone, etc.
+  - Software platform: The operating system and the libraries that run on the hardware platform. Examples are Linux, Windows, Android, etc.
+  - Development tools: The software tools that assist the developers in creating, testing, and debugging the embedded systems software. Examples are compilers, assemblers, linkers, debuggers, etc.
+  - Programming languages: The languages used to write the embedded systems software. Examples are C, C++, Java, Python, etc.

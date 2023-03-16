@@ -1,0 +1,7 @@
+### Cepstral Distances for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- Cepstral distance is a measure of the similarity or dissimilarity between two speech frames based on their cepstral coefficients.
+- Cepstral coefficients are obtained by applying the inverse Fourier transform to the logarithm of the spectrum of a speech signal . They represent the envelope of the spectrum and capture the spectral features of the speech signal.
+- Cepstral distance can be used for various applications in speech analysis, such as endpoint detection, emotion recognition, speaker recognition, and voice quality assessment  .
+- One of the most common ways to compute the cepstral distance is to use the Euclidean distance between the mel frequency cepstral coefficients (MFCC) of two speech frames. MFCC are cepstral coefficients that are derived from a filter bank algorithm that mimics the human auditory system by using filters that are equally spaced on a mel frequency scale.
+- Cepstral distance can be combined with other features, such as speech energy, to improve the performance of speech analysis tasks. For example, cepstral distance can help to distinguish between different emotions, such as sad and boring, by capturing the variations in the spectral envelope of the speech signal.

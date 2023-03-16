@@ -1,0 +1,19 @@
+# Fault-Tolerant Services for the Notes of the Unit 10 - Replication in the Subject of Distributed System
+
+- Fault-tolerant services are services that can continue to function correctly even in the presence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique for implementing fault-tolerant services by creating multiple copies of the same service (or state machine) and coordinating the interactions of clients with these copies.
+- Replication can improve the availability, performance, and reliability of distributed systems, but also introduces challenges such as consistency, concurrency, and communication overhead.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+  - Primary-backup replication assigns one replica as the primary and the others as backups. The primary receives all the client requests and executes them, while sending updates to the backups. The backups apply the updates in the same order as the primary and send acknowledgments. If the primary fails, one of the backups takes over as the new primary.
+  - Active replication involves all the replicas receiving and executing the same client requests in the same order. The replicas use a consensus protocol to agree on the order of requests and send replies to the clients. If some replicas fail, the others can still provide the service.
+- Replication can tolerate different types of faults, such as crash faults or Byzantine faults.
+  - Crash faults occur when a replica stops functioning or becomes unreachable. To tolerate f crash faults, primary-backup replication requires n(f+1) replicas, while active replication requires n(2f+1) replicas.
+  - Byzantine faults occur when a replica behaves arbitrarily or maliciously, such as sending incorrect or conflicting messages. To tolerate f Byzantine faults, primary-backup replication requires n(3f+1) replicas, while active replication requires n(3f+1) replicas.
+- Replication can also be classified based on the consistency model that it provides, such as linearizability, sequential consistency, causal consistency, or eventual consistency.
+  - Linearizability is the strongest consistency model, which requires that every operation appears to take effect atomically at some point between its invocation and response, and that the order of operations is consistent with the real-time order of invocations.
+  - Sequential consistency is a weaker consistency model, which requires that every operation appears to take effect atomically at some point between its invocation and response, and that the order of operations is consistent with the order of invocations by each individual client.
+  - Causal consistency is a weaker consistency model, which requires that every operation appears to take effect atomically at some point between its invocation and response, and that the order of operations is consistent with the causal order of invocations, i.e., the order implied by the dependencies among operations.
+  - Eventual consistency is the weakest consistency model, which requires that every operation appears to take effect atomically at some point between its invocation and response, and that the order of operations is eventually consistent, i.e., all replicas converge to the same state after some finite time without failures or updates.
+- Replication can also be classified based on the location of the replicas, such as local replication or geo-replication.
+  - Local replication involves replicas that are located within the same data center or network. Local replication can provide low latency and high throughput, but also has limited fault tolerance and scalability.
+  - Geo-replication involves replicas that are located across different geographical regions or continents. Geo-replication can provide high availability and global scalability, but also has high latency and communication overhead.

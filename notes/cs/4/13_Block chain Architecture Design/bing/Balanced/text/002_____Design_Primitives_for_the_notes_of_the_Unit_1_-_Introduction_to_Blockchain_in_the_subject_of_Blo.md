@@ -1,0 +1,9 @@
+### Design Primitives for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+Design primitives are the basic elements or components that are used to construct a blockchain system. They can be categorized into three types: transaction design, consensus design and block design.
+
+- Transaction design refers to how the data or information is structured, validated and recorded on the blockchain. It includes aspects such as the format of transactions, the types of transactions, the cryptographic primitives used to secure transactions, the scripting language used to express transaction logic, and the incentives or fees associated with transactions.
+- Consensus design refers to how the nodes or participants of the blockchain network agree on the state or history of the blockchain. It includes aspects such as the consensus algorithm, the consensus rules, the consensus protocol, the network topology, the fault tolerance, and the scalability of the consensus mechanism.
+- Block design refers to how the transactions are grouped, linked and stored on the blockchain. It includes aspects such as the block size, the block interval, the block header, the block hash, the block reward, and the block difficulty.
+
+These design primitives can be combined and customized to create different types of blockchains, such as public, private, permissioned, permissionless, hybrid, federated, etc. Each type of blockchain has its own advantages and disadvantages, depending on the application domain and the requirements of the users. Some examples of blockchain applications are cryptocurrencies, smart contracts, supply chain management, digital identity, voting systems, etc.

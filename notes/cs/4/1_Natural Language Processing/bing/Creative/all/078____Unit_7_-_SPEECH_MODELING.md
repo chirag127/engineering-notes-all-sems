@@ -1,0 +1,25 @@
+## Unit 7 - SPEECH MODELING
+
+- Speech modeling is the process of using speech and language to help a child or a learner develop their communication skills   .
+- Speech modeling can be used for various purposes, such as:
+  - Enhancing receptive language, which is the ability to understand what others say.
+  - Improving expressive language, which is the ability to produce words, phrases, sentences, etc.  .
+  - Correcting speech errors, such as articulation, fluency, or voice problems.
+  - Learning a foreign language, by synthesizing speech in the target language with the learner's own voice.
+- Speech modeling can be done by different agents, such as:
+  - Caregivers, parents, teachers, or peers, who can provide natural and meaningful language input to the child or the learner   .
+  - Speech therapists, who can use specific techniques and strategies to elicit and reinforce speech and language skills .
+  - Artificial intelligence, which can generate speech and language based on data and algorithms.
+- Speech modeling can be implemented in different ways, such as:
+  - Self-talk, which is when the model talks about what they are doing or feeling  .
+  - Parallel talk, which is when the model talks about what the child or the learner is doing or feeling  .
+  - Expansion, which is when the model repeats and adds more words to what the child or the learner says  .
+  - Recasting, which is when the model changes the grammatical form or the word order of what the child or the learner says  .
+  - Prompting, which is when the model asks questions or gives cues to elicit a response from the child or the learner  .
+  - Feedback, which is when the model provides praise, correction, or reinforcement to the child or the learner  .
+  - Neural codec, which is when the model encodes and decodes speech and language across different languages using deep neural networks.
+- Speech modeling can have various benefits, such as:
+  - Increasing the vocabulary, grammar, and pragmatics of the child or the learner   .
+  - Improving the speech intelligibility, accuracy, and fluency of the child or the learner.
+  - Enhancing the confidence, motivation, and interest of the child or the learner   .
+  - Enabling the child or the learner to speak a foreign language with their own voice.

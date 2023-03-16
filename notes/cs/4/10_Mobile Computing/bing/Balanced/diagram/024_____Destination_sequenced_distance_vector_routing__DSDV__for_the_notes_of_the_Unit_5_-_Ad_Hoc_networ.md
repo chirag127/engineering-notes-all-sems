@@ -1,0 +1,34 @@
+### Destination sequenced distance vector routing (DSDV)
+
+- DSDV is a table-driven routing scheme for ad hoc mobile networks based on the Bellman–Ford algorithm.
+- It was developed by C. Perkins and P. Bhagwat in 1994.
+- It adds a new attribute, sequence number, to each route table entry of the conventional RIP.
+- Using the sequence number, the mobile nodes can distinguish stale route information from the new and thus prevent the formation of routing loops.
+- DSDV provides only one route for a source/destination pair.
+- DSDV requires each node to periodically broadcast routing updates.
+- DSDV uses bidirectional links.
+- DSDV has two types of routing updates: full dump and incremental.
+  - Full dump: a node sends its entire routing table to its neighbors.
+  - Incremental: a node sends only the updated entries to its neighbors.
+- DSDV has two types of packets: advertisement and request.
+  - Advertisement: a node broadcasts its routing table or the updated entries to its neighbors.
+  - Request: a node sends a query to its neighbors for a specific destination.
+- DSDV has two types of routes: settled and unstable.
+  - Settled: a route that has not changed for a certain period of time.
+  - Unstable: a route that has changed recently or frequently.
+- DSDV has two types of sequence numbers: even and odd.
+  - Even: a sequence number assigned by the destination node to its own route.
+  - Odd: a sequence number assigned by an intermediate node to a route learned from another node.
+- DSDV uses the following rules to update the routing table:
+  - If a route has a higher sequence number, it is preferred over a route with a lower sequence number.
+  - If two routes have the same sequence number, the one with a lower hop count is preferred.
+  - If a route has an odd sequence number, it is marked as unstable and used only if no other route is available.
+  - If a route has an even sequence number, it is marked as settled and used as the default route.
+- DSDV has the following advantages:
+  - It is simple and easy to implement.
+  - It guarantees loop-free routes.
+  - It supports both unicast and multicast routing.
+- DSDV has the following disadvantages:
+  - It consumes a lot of bandwidth and battery power due to frequent routing updates.
+  - It does not scale well to large networks due to the overhead of maintaining routing tables.
+  - It does not handle mobility and topology changes well due to the delay in propagating updates.

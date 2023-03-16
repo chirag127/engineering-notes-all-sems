@@ -1,0 +1,17 @@
+### Trade/Supply Chain Finance
+
+Trade finance is the process of financing international trade transactions, such as the exchange of goods and services across borders. Trade finance involves various intermediaries, such as banks, exporters, importers, insurers, and logistics providers, who facilitate the trade process and mitigate the risks involved.
+
+Supply chain finance is a subset of trade finance that focuses on optimizing the cash flow and working capital of the parties involved in a supply chain, such as suppliers, buyers, and financiers. Supply chain finance aims to improve the liquidity and efficiency of the supply chain by offering various financing solutions, such as invoice discounting, reverse factoring, inventory financing, and pre-shipment financing.
+
+Blockchain is a distributed ledger technology that enables secure and transparent transactions among multiple parties without the need for a central authority or intermediary. Blockchain can offer various benefits for trade and supply chain finance, such as:
+
+- Increased security and efficiency: Blockchain can digitize the entire trade finance lifecycle with increased security and efficiency. It can enable more transparent governance, decreased processing times, lower capital requirements and reduced risks of fraud, human error, and overall counterparty risk.
+- Seamless transfer of value: Blockchain can enable seamless transfer of value across the trade network to remove process inefficiencies in asset issuance, exchange and redemption. Blockchain’s consensus mechanism enables this by providing a single source of truth to all parties to prevent double spend problem.
+- New business models: Blockchain can unlock new business models for trade and supply chain finance, such as peer-to-peer lending, tokenization of assets, smart contracts, and decentralized applications. Blockchain can also enable greater financial inclusion and access to trade finance for small and medium enterprises (SMEs) and emerging markets.
+
+Some of the use cases of blockchain in trade and supply chain finance are:
+
+- Letters of credit: Letters of credit are instruments issued by banks to guarantee the payment of an exporter by an importer upon the delivery of goods or services. Blockchain can streamline the process of issuing, verifying, and executing letters of credit by reducing the paperwork, costs, and delays involved. Blockchain can also enhance the trust and transparency among the parties involved by providing a shared and immutable record of the transaction .
+- Invoice financing: Invoice financing is a form of short-term borrowing where a supplier sells its invoices to a financier at a discount in exchange for immediate cash. Blockchain can improve the process of invoice financing by enabling faster and cheaper verification of invoices, reducing the risk of duplicate or fraudulent invoices, and providing real-time visibility of the invoice status and payment .
+- Trade asset tokenization: Trade asset tokenization is the process of converting trade assets, such as invoices, purchase orders, or inventory, into digital tokens that can be traded on a blockchain platform. Blockchain can enable trade asset tokenization by providing a secure and standardized way of representing and exchanging trade assets, creating a liquid and transparent market for trade finance, and enabling new sources of funding and investment.

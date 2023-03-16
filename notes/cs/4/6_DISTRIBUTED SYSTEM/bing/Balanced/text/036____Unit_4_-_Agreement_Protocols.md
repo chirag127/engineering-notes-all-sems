@@ -1,0 +1,9 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are used in distributed systems to ensure that processes or sites can reach a common decision or goal in the presence of failures or uncertainties  .
+- Agreement protocols can be classified into different types based on the problem they solve, such as consensus, atomic commit, leader election, group membership, etc  .
+- Consensus is the problem of getting all processes to agree on a single value, such as a leader or a transaction outcome  . Consensus is impossible to achieve in asynchronous systems with even one faulty process.
+- Atomic commit is the problem of getting all processes to agree on whether to commit or abort a transaction that involves multiple sites . Atomic commit can be solved by using two-phase commit (2PC) or three-phase commit (3PC) protocols .
+- Leader election is the problem of getting all processes to agree on a unique process that acts as the coordinator or the master  . Leader election can be solved by using various algorithms, such as the bully algorithm, the ring algorithm, or the randomized algorithm  .
+- Group membership is the problem of getting all processes to agree on a set of processes that are currently active or alive in the system . Group membership can be solved by using heartbeat messages, failure detectors, or gossip protocols .
+- Agreement protocols must satisfy some properties, such as validity, agreement, termination, and integrity . Validity means that the agreed value must be proposed by some process. Agreement means that all processes must agree on the same value. Termination means that all processes must eventually decide on a value. Integrity means that the agreed value must not be changed once decided .

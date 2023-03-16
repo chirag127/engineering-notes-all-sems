@@ -1,0 +1,8 @@
+### Clients for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- A cloud client is a hardware device or software used to access a cloud service .
+- A cloud service is a type of computing service that is delivered over the internet and provides scalable and on-demand resources such as computing cycles, data storage, applications, and platforms .
+- A cloud client can be classified into three types based on the level of functionality and dependency on the cloud service:
+  - Thick client: A thick client is a device or software that has its own operating system, applications, and data, and can function independently of the cloud service. It can also use the cloud service for additional features or backup. Examples of thick clients are personal computers, laptops, and smartphones.
+  - Thin client: A thin client is a device or software that has minimal functionality and relies heavily on the cloud service for processing, storage, and applications. It can only function when connected to the cloud service. Examples of thin clients are web browsers, Chromebooks, and some tablets.
+  - Zero client: A zero client is a device or software that has no functionality and is only used as an interface to access the cloud service. It has no operating system, applications, or data, and is completely dependent on the cloud service. Examples of zero clients are some smart TVs, gaming consoles, and virtual desktops.

@@ -1,0 +1,25 @@
+### PLP and MFCC Coefficients for Speech Analysis
+
+- Speech analysis is the process of extracting features from speech signals that can be used for various applications, such as speech recognition, speaker identification, emotion detection, etc.
+- Speech features are usually derived from the spectral, temporal, or cepstral properties of speech signals, which reflect the characteristics of the vocal tract, the glottal source, and the prosody of speech.
+- Two common methods of speech feature extraction are Perceptual Linear Prediction (PLP) and Mel Frequency Cepstral Coefficients (MFCC).
+- PLP is a technique that mimics the human auditory system by applying a psychoacoustic model to the speech spectrum. It consists of the following steps :
+  - Pre-emphasis: a high-pass filtering operation that enhances the high-frequency components of speech and reduces the effect of noise.
+  - Windowing: a process of dividing the speech signal into short frames (typically 20-30 ms) and applying a window function (such as Hamming or Hanning) to each frame to reduce the discontinuities at the edges.
+  - Fourier transform: a mathematical operation that converts each frame of speech from the time domain to the frequency domain, resulting in a power spectrum.
+  - Critical band analysis: a process of applying a set of triangular filters that are spaced according to the Bark scale, which is a perceptual scale of frequency based on the human hearing sensitivity. This reduces the spectral resolution and emphasizes the perceptually important frequency bands.
+  - Equal-loudness pre-emphasis: a process of applying a weighting function to the critical band spectrum that compensates for the human ear's non-uniform sensitivity to different frequencies.
+  - Intensity-loudness power law: a process of applying a non-linear transformation to the equal-loudness spectrum that simulates the human perception of loudness, which is proportional to the logarithm of the intensity.
+  - Autoregressive modeling: a process of fitting a linear predictive model to the intensity-loudness spectrum, resulting in a set of coefficients that represent the spectral envelope of speech.
+  - Cepstral coefficients: a process of applying a discrete cosine transform to the autoregressive coefficients, resulting in a set of coefficients that are decorrelated and have a lower dimensionality. The lower-order coefficients are usually retained as the PLP features.
+- MFCC is a technique that also mimics the human auditory system by applying a mel-scale filter bank to the speech spectrum. It consists of the following steps  :
+  - Pre-emphasis: same as PLP.
+  - Windowing: same as PLP.
+  - Fourier transform: same as PLP.
+  - Mel-scale filter bank: a process of applying a set of triangular filters that are spaced according to the mel scale, which is another perceptual scale of frequency that is based on the human pitch perception. This also reduces the spectral resolution and emphasizes the perceptually important frequency bands.
+  - Logarithmic compression: a process of applying a logarithmic function to the mel-scale spectrum, which simulates the human perception of loudness.
+  - Cepstral coefficients: same as PLP, except that the discrete cosine transform is applied to the logarithmic mel-scale spectrum, resulting in a set of coefficients that are decorrelated and have a lower dimensionality. The lower-order coefficients are usually retained as the MFCC features.
+- Both PLP and MFCC are widely used in speech analysis, as they capture the salient features of speech that are robust to noise and speaker variability. However, they also have some differences and limitations  :
+  - PLP is more closely related to the human auditory system, as it incorporates more psychoacoustic principles, such as the equal-loudness pre-emphasis and the intensity-loudness power law. MFCC is more closely related to the human vocal tract, as it reflects the shape of the resonances that are produced by the articulators.
+  - PLP is more suitable for low-bitrate speech coding, as it preserves the perceptual quality of speech better than MFCC. MFCC is more suitable for speech recognition, as it provides a better representation of the phonetic content of speech than PLP.
+  - PLP and MFCC are both sensitive to the choice of parameters, such as the frame size, the window type, the number of filters, the order of the autoregressive model, and the number of coefficients. These parameters need to be tuned according to

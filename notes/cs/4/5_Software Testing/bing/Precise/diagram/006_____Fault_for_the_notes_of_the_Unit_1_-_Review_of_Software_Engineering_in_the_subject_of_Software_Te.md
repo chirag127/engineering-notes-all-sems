@@ -1,0 +1,11 @@
+### Fault
+- A fault, also known as a defect or a bug, is an error or flaw in a software system that can cause it to behave in unintended ways.
+- Faults can occur at any stage of the software development process, from requirements gathering to design, coding, testing, and maintenance.
+- Faults can be introduced by human error, such as a mistake in coding or a misunderstanding of the requirements, or by environmental factors, such as hardware failures or changes in the operating system.
+- Faults can have varying levels of severity, from minor issues that do not affect the functionality of the system to critical faults that can cause the system to crash or behave in unexpected ways.
+- The goal of software testing is to identify and correct faults in the system before it is released to the end-users.
+- Faults can be classified into different types, such as syntax errors, logic errors, and runtime errors.
+- Fault prevention, fault detection, and fault tolerance are important concepts in software engineering that aim to reduce the occurrence and impact of faults in a software system.
+- Fault prevention involves techniques such as code reviews, static analysis, and formal methods to prevent faults from being introduced into the system.
+- Fault detection involves techniques such as testing, debugging, and monitoring to identify and correct faults in the system.
+- Fault tolerance involves techniques such as redundancy, error correction, and exception handling to enable the system to continue functioning correctly even in the presence of faults.

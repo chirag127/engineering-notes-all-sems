@@ -1,0 +1,10 @@
+### Constructing Quantum Codes
+
+- Quantum codes are methods of encoding quantum information (qubits) in such a way that errors due to noise or decoherence can be detected and corrected without disturbing the encoded state.
+- Quantum codes can be classified into two main types: quantum block codes and quantum convolutional codes.
+- Quantum block codes encode a fixed number of qubits into a larger number of qubits using a unitary transformation. The encoded qubits form a subspace of the Hilbert space that is invariant under certain error operators. The error operators can be detected and corrected by measuring some observables that commute with the encoded state, called stabilizers.
+- Quantum convolutional codes encode a stream of qubits into another stream of qubits using a repeated unitary transformation that has a memory structure. The encoded qubits form a subspace of the Hilbert space that is invariant under certain error operators that act on a sliding window of qubits. The error operators can be detected and corrected by measuring some observables that commute with the encoded state, called check operators.
+- Quantum codes can be constructed from classical codes using various techniques, such as the Calderbank-Shor-Steane (CSS) construction, the Gottesman-Knill theorem, the stabilizer formalism, and the quantum Fourier transform  .
+- Quantum codes can also be constructed from entanglement properties, such as the Schmidt decomposition, the entanglement spectrum, and the entanglement entropy.
+- Quantum codes can be evaluated by their parameters, such as the code length, the code dimension, the code distance, the code rate, the code threshold, and the code performance  .
+- Quantum codes can be applied to various tasks, such as quantum communication, quantum computation, quantum cryptography, quantum metrology, and quantum simulation   .

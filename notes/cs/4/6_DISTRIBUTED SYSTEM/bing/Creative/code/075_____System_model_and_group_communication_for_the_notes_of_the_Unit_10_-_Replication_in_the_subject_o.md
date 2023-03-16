@@ -1,0 +1,24 @@
+### System model and group communication for replication in distributed systems
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by exchanging messages .
+- Replication is a technique to improve the availability, performance, and fault tolerance of a distributed system by creating and maintaining multiple copies of the same data or service .
+- A system model is a set of assumptions and properties that describe the characteristics and behavior of a distributed system, such as the communication network, the process model, the failure model, and the timing model .
+- Group communication is a form of communication between multiple processes in a distributed system that allows them to exchange messages, coordinate actions, and share state   .
+- Group communication can be classified into two types: broadcast communication and multicast communication .
+  - Broadcast communication is when a process sends a message to all other processes in the system, regardless of their group membership or interest .
+  - Multicast communication is when a process sends a message to a subset of processes in the system, based on their group membership or interest .
+- Group communication can also be characterized by the reliability and ordering guarantees it provides, such as best-effort, reliable, causal, atomic, or total order  .
+  - Best-effort delivery is when a message is delivered to some or none of the intended recipients, without any guarantee of success or failure .
+  - Reliable delivery is when a message is delivered to all of the intended recipients, or none of them, in case of a failure .
+  - Causal delivery is when a message is delivered to all of the intended recipients in a way that preserves the causal order of events, i.e., if a message m1 causally precedes a message m2, then m1 is delivered before m2 at every process .
+  - Atomic delivery is when a message is delivered to all of the intended recipients in a way that preserves the total order of messages, i.e., if a message m1 is delivered before a message m2 at one process, then m1 is delivered before m2 at every process .
+  - Total order delivery is when a message is delivered to all of the intended recipients in a way that preserves the total order of messages and the sender's order of messages, i.e., if a message m1 is sent before a message m2 by the same process, then m1 is delivered before m2 at every process .
+- Group communication can be implemented using various protocols and algorithms, such as flooding, gossiping, reliable broadcast, reliable multicast, causal multicast, atomic multicast, or total order multicast  .
+  - Flooding is a simple protocol that sends a message to all of the neighbors of a process, and each neighbor forwards the message to its neighbors, until the message reaches all processes in the system .
+  - Gossiping is a probabilistic protocol that sends a message to a random subset of neighbors of a process, and each neighbor forwards the message to another random subset of neighbors, until the message reaches a large fraction of processes in the system .
+  - Reliable broadcast is a protocol that ensures that a message sent by a process is delivered to all processes in the system, or none of them, in case of a failure .
+  - Reliable multicast is a protocol that ensures that a message sent by a process is delivered to all processes in a specified group, or none of them, in case of a failure .
+  - Causal multicast is a protocol that ensures that a message sent by a process is delivered to all processes in a specified group in a way that preserves the causal order of events .
+  - Atomic multicast is a protocol that ensures that a message sent by a process is delivered to all processes in a specified group in a way that preserves the total order of messages .
+  - Total order multicast is a protocol that ensures that a message sent by a process is delivered to all processes in a specified group in a way that preserves the total order of messages and the sender's order of messages .
+- Group communication can be used for replication in distributed systems, by allowing processes to share and update the state of replicated data or services, and to coordinate their actions and decisions  .

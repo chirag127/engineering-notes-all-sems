@@ -1,0 +1,13 @@
+### Services
+
+Services are the core components of cloud computing that provide various IT resources and capabilities to users over the internet. Services can be classified into different categories based on the level of abstraction, functionality, and control they offer to the users. Some of the common categories of services are:
+
+- **Software as a service (SaaS)**: This is the most widely used and familiar type of cloud service, where users can access and use software applications that are hosted and managed by the cloud provider. Users do not need to install, update, or maintain the software, and they only pay for the usage or subscription of the service. Examples of SaaS are Gmail, Google Docs, Netflix, Salesforce, etc.  
+
+- **Platform as a service (PaaS)**: This is a type of cloud service that provides users with a platform to develop, test, deploy, and run their own applications without worrying about the underlying infrastructure, operating system, middleware, or tools. Users can focus on the business logic and code of their applications, and leverage the scalability, security, and reliability of the cloud platform. Examples of PaaS are Google App Engine, Microsoft Azure, Heroku, etc.  
+
+- **Infrastructure as a service (IaaS)**: This is a type of cloud service that provides users with the most basic and low-level computing resources, such as servers, storage, network, and virtualization. Users can rent and use these resources as per their needs, and have full control and flexibility over them. Users are responsible for managing and maintaining the resources, such as installing software, patches, updates, etc. Examples of IaaS are Amazon Web Services, Microsoft Azure, Google Cloud Platform, etc.  
+
+- **Anything/Everything as a service (XaaS)**: This is a broad term that encompasses any type of cloud service that is not covered by the previous categories. It can include services that provide specific functionality, such as database as a service (DBaaS), security as a service (SECaaS), analytics as a service (AaaS), etc. It can also include services that provide higher-level abstraction, such as backend as a service (BaaS), serverless computing, etc. 
+
+- **Function as a service (FaaS)**: This is a type of cloud service that allows users to execute small pieces of code or functions in response to events or triggers, without having to provision or manage any servers or infrastructure. Users only pay for the execution time and resources consumed by the functions, and benefit from the scalability, availability, and performance of the cloud platform. Examples of FaaS are AWS Lambda, Google Cloud Functions, Azure Functions, etc.

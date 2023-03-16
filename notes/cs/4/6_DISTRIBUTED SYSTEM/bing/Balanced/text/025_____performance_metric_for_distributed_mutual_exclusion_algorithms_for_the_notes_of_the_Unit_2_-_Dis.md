@@ -1,0 +1,9 @@
+### Performance Metric for Distributed Mutual Exclusion Algorithms
+
+- Distributed mutual exclusion algorithms are algorithms that ensure that only one process can access a shared resource or execute a critical section at a time in a distributed system.
+- The performance of distributed mutual exclusion algorithms can be evaluated by the following four metrics :
+  - **Message complexity**: It is the number of messages that are required per critical section execution by a process. It reflects the communication overhead and network congestion caused by the algorithm. A lower message complexity is desirable.
+  - **Synchronization delay**: It is the time elapsed between the departure of a process from the critical section and the entry of the next process into the critical section. It reflects the degree of concurrency and fairness achieved by the algorithm. A lower synchronization delay is desirable.
+  - **Response time**: It is the time interval between the request of a process to enter the critical section and the actual entry of the process into the critical section. It reflects the waiting time and the performance perceived by the process. A lower response time is desirable.
+  - **Throughput**: It is the number of critical section executions per unit time in the system. It reflects the overall efficiency and utilization of the shared resource by the algorithm. A higher throughput is desirable.
+- Different distributed mutual exclusion algorithms may have different trade-offs among these metrics, depending on the underlying assumptions, design choices, and network conditions. For example, a token-based algorithm may have a lower message complexity but a higher synchronization delay than a non-token-based algorithm. A quorum-based algorithm may have a lower response time but a higher message complexity than a centralized algorithm.

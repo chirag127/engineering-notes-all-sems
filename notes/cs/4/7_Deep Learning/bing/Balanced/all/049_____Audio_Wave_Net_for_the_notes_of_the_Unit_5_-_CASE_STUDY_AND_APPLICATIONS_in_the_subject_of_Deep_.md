@@ -1,0 +1,9 @@
+# Audio Wave Net
+
+Audio Wave Net is a deep learning-based generative model for raw audio waveforms. It was developed by Google DeepMind and can be used for various applications such as speech synthesis, music generation, audio denoising, etc. Some of the main features and concepts of Audio Wave Net are:
+
+- It is a fully probabilistic and autoregressive model, meaning that it predicts each audio sample based on all the previous ones, and assigns a probability distribution over the possible values of each sample.
+- It uses a convolutional neural network (CNN) with dilated causal convolutions, which allow it to capture long-range dependencies and temporal patterns in the audio data. The dilation factor increases exponentially with the depth of the network, creating a large receptive field that can span several seconds of audio.
+- It uses a softmax output layer to model the discrete nature of the audio samples, which are typically quantized to 8-bit or 16-bit values. Alternatively, it can use a mixture of logistic distributions to model the continuous nature of the audio samples, which can improve the quality and diversity of the generated audio.
+- It can be conditioned on additional inputs, such as text, speaker identity, or musical notes, to generate audio that matches the desired content, style, or emotion. The conditioning information can be encoded as embeddings or as local or global features, and can be fed to the network at different layers.
+- It can be trained on various types of audio data, such as speech, music, or environmental sounds, and can generate audio that mimics the characteristics and diversity of the original data. It can also be trained on multi-speaker or multi-instrument data, and can generate audio that switches between different sources or styles.

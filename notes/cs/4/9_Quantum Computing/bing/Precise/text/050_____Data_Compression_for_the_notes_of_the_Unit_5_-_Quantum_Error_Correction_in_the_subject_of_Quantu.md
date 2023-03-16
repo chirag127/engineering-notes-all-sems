@@ -1,0 +1,8 @@
+### Data Compression for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Quantum error correction is theorized as essential to achieve fault-tolerant quantum computing that can reduce the effects of noise on stored quantum information, faulty quantum gates, faulty quantum preparation, and faulty measurements. This would allow algorithms of greater circuit depth.
+- A phase error is the corruption of the extra quantum information that qubits carry, which makes qubits innately different from classical bits. Quantum error correction codes provide the protection needed for quantum computers to operate reliably in the presence of these much higher error rates and wider set of error types.
+- The state of a single quantum bit needs to be imprinted on nine quantum bits for the error correction to work.
+- The original data qubit state can finally be restored by a correcting logic gate based on the ancilla qubit states. Most commonly, this correction can be performed by a projective measurement.
+- The science of quantum error correction, a discipline that seeks to combine and protect quantum information from the effects of decoherence using structures known as codes, has arisen to meet this challenge. Stabilizer codes, a particular subclass of quantum codes, have enabled fast progress in the field of quantum error correction by allowing.
+- Quantum error correction is a work in progress — and the progress that our team has made to date is impressive. We’re optimistic that this work will continue to push us along our hardware roadmap toward full-scale quantum computation. Making quantum error correction more practical.

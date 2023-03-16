@@ -1,0 +1,14 @@
+# Smoothing
+
+Smoothing is a technique for improving the performance of language models by assigning non-zero probabilities to unseen or rare word sequences. Language models are probabilistic models that assign probabilities to sequences of words based on some training data. Smoothing is needed because:
+
+- Language is highly diverse and creative, and it is impossible to capture all possible word sequences in a finite training data.
+- Some word sequences may have zero or very low probabilities in the training data, but they may occur in the test data or in the real world. This can lead to inaccurate or unreliable predictions or classifications.
+- Smoothing can help to avoid overfitting the language model to the training data, and generalize better to unseen data.
+
+Some common smoothing techniques are:
+
+- Additive smoothing: This involves adding a small constant (usually 1) to the counts of all word sequences, regardless of whether they are seen or unseen in the training data. This reduces the probability mass of the seen word sequences and increases the probability mass of the unseen word sequences. This is also known as Laplace smoothing or add-one smoothing.
+- Backoff smoothing: This involves using a lower-order n-gram model (such as a bigram or a unigram) to estimate the probability of a higher-order n-gram model (such as a trigram or a four-gram) when the higher-order n-gram is unseen or rare in the training data. This is based on the assumption that lower-order n-grams are more reliable and robust than higher-order n-grams. This is also known as Katz smoothing or deleted interpolation.
+- Interpolation smoothing: This involves combining the probabilities of different n-gram models (such as a unigram, a bigram, and a trigram) with some weights that sum to one. The weights are usually estimated from a held-out data set that is separate from the training and test data. This is based on the assumption that different n-gram models capture different aspects of the language, and a linear combination of them can provide a better estimate than any single model. This is also known as Jelinek-Mercer smoothing or linear interpolation.
+- Kneser-Ney smoothing: This involves modifying the counts of the n-grams based on the number of different words that precede or follow them in the training data. This is based on the intuition that some words are more likely to occur in novel contexts than others, and this should be reflected in the language model. For example, the word "the" is more likely to be followed by a new word than the word "of". This is also known as absolute discounting or modified Kneser-Ney smoothing.

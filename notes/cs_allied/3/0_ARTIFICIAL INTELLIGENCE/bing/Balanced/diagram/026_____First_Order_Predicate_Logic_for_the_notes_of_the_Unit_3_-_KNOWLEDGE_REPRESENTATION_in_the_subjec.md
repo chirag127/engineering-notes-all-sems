@@ -1,0 +1,21 @@
+### First Order Predicate Logic
+
+- First order predicate logic (FOL) is a way of knowledge representation in artificial intelligence that extends propositional logic .
+- FOL can represent natural language statements in a concise way and express the relationship between objects   .
+- FOL is also known as predicate logic or first-order predicate logic  .
+- The language of FOL is built around objects and relations  .
+- Objects are the entities that exist in the domain of discourse, such as people, animals, numbers, etc .
+- Relations are the properties or connections that hold between objects, such as being taller than, being a parent of, being divisible by, etc .
+- FOL uses symbols to represent objects and relations, such as constants, variables, predicates, functions, quantifiers, and connectives .
+- Constants are symbols that refer to specific objects, such as a, b, c, 1, 2, 3, etc .
+- Variables are symbols that can refer to any object, such as x, y, z, etc .
+- Predicates are symbols that represent relations, such as P, Q, R, etc .
+- Functions are symbols that map objects to objects, such as f, g, h, etc .
+- Quantifiers are symbols that specify the scope of variables, such as ∀ (for all) and ∃ (there exists) .
+- Connectives are symbols that combine or modify sentences, such as ∧ (and), ∨ (or), ¬ (not), → (implies), and ↔ (if and only if) .
+- A term is a symbol that refers to an object, such as a constant, a variable, or a function applied to terms .
+- An atomic formula is a predicate applied to terms, such as P(a), Q(x, y), R(f(x), g(a, b)), etc .
+- A well-formed formula (wff) is a sentence that is either an atomic formula, or a sentence formed by applying connectives and quantifiers to wffs .
+- The semantics of FOL define the truth value of a wff in a given interpretation, which consists of a domain of objects and an assignment of meanings to symbols .
+- The syntax and semantics of FOL allow us to express complex and general statements about the world, such as "Every human is mortal", "There is a prime number greater than 100", "No one loves everyone", etc .
+- FOL is a powerful and expressive language that can be used for various applications in artificial intelligence, such as natural language processing, automated reasoning, knowledge bases, planning, etc  .

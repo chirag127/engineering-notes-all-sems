@@ -1,0 +1,9 @@
+# Optical cavity quantum electrodynamics
+
+- Optical cavity quantum electrodynamics (QED) is the study of the interaction between light confined in a reflective cavity and atoms or other particles, under conditions where the quantum nature of photons is significant.
+- Optical cavity QED can be used to implement quantum logic gates, quantum state engineering, quantum metrology, and quantum information processing.
+- The simplest model in optical cavity QED deals with a single two-level atom interacting with a single mode of the radiation field. This ideal situation is realized by using high quality microwave or optical cavities as photon boxes.
+- The interaction between the atom and the cavity mode can be described by the Jaynes-Cummings model, which predicts various phenomena such as vacuum Rabi oscillations, Purcell effect, strong and weak coupling regimes, and photon blockade effect .
+- The optical cavity QED system can be coupled to external fields or reservoirs, which introduce decoherence and dissipation effects. These effects can be exploited to manipulate the quantum state of the system, such as creating entanglement, squeezing, or cooling.
+- Optical cavity QED can also be extended to include multiple atoms or cavity modes, which increase the complexity and richness of the system. For example, chiral cavity QED explores the effects of breaking the symmetry between clockwise and counterclockwise cavity modes on the atom-cavity interaction.
+- Optical cavity QED can also be realized in different physical platforms, such as superconducting circuits, nanophotonic structures, or cold atoms. These platforms offer different advantages and challenges for implementing optical cavity QED experiments and applications.

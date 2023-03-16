@@ -1,0 +1,10 @@
+## Deleting files
+
+- To delete files from HDFS, you can use the `hadoop fs -rm` command with the path of the file or directory to be deleted.
+- For example, `hadoop fs -rm /user/hadoop/file.txt` will delete the file named `file.txt` from the `/user/hadoop` directory in HDFS.
+- You can also use the `-r` option to recursively delete a directory and all its contents.
+- For example, `hadoop fs -rm -r /user/hadoop/logs` will delete the `logs` directory and all the files and subdirectories inside it from the `/user/hadoop` directory in HDFS.
+- You can also use the `-skipTrash` option to bypass the trash and permanently delete the files or directories.
+- For example, `hadoop fs -rm -skipTrash /user/hadoop/temp` will delete the `temp` directory and all its contents from the `/user/hadoop` directory in HDFS without moving them to the trash.
+- Note that deleting files from HDFS is different from deleting files from the local file system. When you delete a file from HDFS, it is moved to the trash directory, which is located at `/user/<username>/.Trash` by default. You can restore the deleted files from the trash using the `hadoop fs -mv` command. However, the trash directory has a limited capacity and a retention period, which can be configured in the `core-site.xml` file. Once the trash directory is full or the retention period is over, the files in the trash will be permanently deleted.
+- A typical Hadoop workflow creates data files (such as log files) elsewhere and copies them into HDFS using one of the above command line utilities. This is because HDFS is designed for storing large, immutable files that are accessed by multiple processes. HDFS is not suitable for storing small, frequently updated files that are accessed by a single process. Therefore, it is recommended to create and modify the data files in the local file system and then copy them to HDFS for processing and analysis. After the processing and analysis are done, you can delete the files from HDFS to free up the space.

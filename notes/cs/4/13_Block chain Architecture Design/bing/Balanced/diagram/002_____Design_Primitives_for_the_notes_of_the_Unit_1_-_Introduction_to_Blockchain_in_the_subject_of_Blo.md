@@ -1,0 +1,18 @@
+### Design Primitives for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+Design primitives are the basic elements or components that are used to construct a blockchain system. They can be categorized into three types: transaction design, consensus design and block design.
+
+- Transaction design: This refers to how the transactions are structured, validated and executed on the blockchain. Transactions are the main units of data that are exchanged and recorded on the blockchain. Transaction design involves the following aspects:
+  - Data model: This defines the format and content of the transactions, such as the inputs, outputs, signatures, metadata, etc.
+  - Scripting language: This specifies the logic and rules for validating and executing the transactions, such as the conditions for spending the outputs, the verification of the signatures, the computation of the fees, etc.
+  - Cryptographic primitives: These are the mathematical tools and techniques that are used to ensure the security and integrity of the transactions, such as hashing, digital signatures, encryption, etc. For example, in the blockchain, SHA-256 a hashing algorithm is used in combination with a public key algorithm to encrypt the data.
+- Consensus design: This refers to how the nodes in the network agree on the state and order of the transactions and blocks on the blockchain. Consensus design involves the following aspects:
+  - Consensus protocol: This defines the rules and mechanisms for reaching consensus among the nodes, such as the voting, the incentives, the penalties, the fault tolerance, etc.
+  - Consensus algorithm: This implements the consensus protocol in a specific way, such as the proof-of-work, the proof-of-stake, the Byzantine fault tolerance, etc.
+  - Network topology: This describes the structure and configuration of the network, such as the number, the role, the location, the connectivity, the latency, the bandwidth, etc. of the nodes.
+- Block design: This refers to how the blocks are created, linked and stored on the blockchain. Blocks are the main units of storage that contain the transactions and other information on the blockchain. Block design involves the following aspects:
+  - Block structure: This defines the format and content of the blocks, such as the header, the body, the hash, the nonce, the timestamp, the difficulty, etc.
+  - Block creation: This describes the process and criteria for generating and proposing new blocks, such as the mining, the validation, the broadcasting, the reward, etc.
+  - Block linking: This specifies the way the blocks are connected and organized on the blockchain, such as the chain, the tree, the graph, the fork, the branch, etc.
+
+These design primitives are used to derive the blockchain theory from other computer science fields, such as distributed systems, cryptography, game theory, etc. They also determine the properties and trade-offs of the blockchain system, such as the scalability, the security, the privacy, the efficiency, etc. Different blockchain systems may have different design choices and implementations for these primitives, depending on their goals and requirements. For example, Bitcoin uses a UTXO data model, a stack-based scripting language, a proof-of-work consensus algorithm, and a linear block chain structure, while Ethereum uses an account-based data model, a Turing-complete scripting language, a proof-of-stake consensus algorithm, and a tree-like block chain structure.

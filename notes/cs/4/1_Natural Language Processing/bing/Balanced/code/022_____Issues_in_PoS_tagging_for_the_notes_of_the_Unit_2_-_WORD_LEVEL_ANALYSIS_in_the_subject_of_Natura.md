@@ -1,0 +1,10 @@
+### Issues in PoS tagging
+
+Part-of-speech (PoS) tagging is the task of assigning a word category (such as noun, verb, adjective, etc.) to each word in a text based on its definition and context. PoS tagging is an important step in natural language processing (NLP) applications such as syntactic parsing, semantic analysis, information extraction, machine translation, and text summarization.
+
+However, PoS tagging is not a trivial task, as it faces several challenges and difficulties, such as:
+
+- **Ambiguity**: Many words in natural languages have multiple meanings and therefore multiple PoS tags. For example, the word "book" can be a noun or a verb depending on the sentence. The job of a PoS tagger is to resolve this ambiguity accurately based on the context of use  .
+- **Unknown words**: A PoS tagger may encounter words that are not in its vocabulary or training data, such as new words, proper names, acronyms, foreign words, etc. The PoS tagger has to assign a reasonable tag to these words based on some heuristics or rules, such as morphological analysis, capitalization, suffixes, etc .
+- **Tagset size and granularity**: Different PoS taggers may use different sets of tags to represent the word categories. Some tagsets are small and coarse-grained, such as the Penn Treebank tagset with 36 tags, while others are large and fine-grained, such as the CLAWS tagset with 179 tags. The choice of tagset depends on the purpose and the level of detail required by the NLP application. However, a larger tagset may increase the complexity and the error rate of the PoS tagger .
+- **Language variation and diversity**: Different languages may have different PoS systems and structures, such as word order, inflection, agreement, etc. A PoS tagger that works well for one language may not work well for another language. Moreover, within the same language, there may be variations and dialects that affect the PoS tagging performance. Therefore, a PoS tagger has to be adapted and customized for different languages and domains .

@@ -1,0 +1,23 @@
+### Natural Language Processing for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+Natural language processing (NLP) is a branch of artificial intelligence (AI) that deals with the interaction between computers and human languages. NLP enables computers to understand, analyze, generate, and manipulate natural language data, such as text and speech. NLP has many applications in various domains, such as:
+
+- **Text Classification or Categorization**: This is the task of assigning a text document to one or more predefined categories based on its content. For example, spam filtering, sentiment analysis, topic modeling, etc. Text classification can be done using supervised or unsupervised learning methods, such as naive Bayes, support vector machines, k-means clustering, etc. 
+
+- **Sentiment Analysis**: This is the task of identifying and extracting the subjective opinions, emotions, and attitudes expressed in a text. For example, positive, negative, or neutral sentiment, polarity, intensity, etc. Sentiment analysis can be used for various purposes, such as customer feedback analysis, social media monitoring, product review analysis, etc. Sentiment analysis can be done using lexicon-based or machine learning-based methods, such as rule-based systems, deep neural networks, etc. 
+
+- **Chatbot**: This is a software program that can simulate a natural conversation with human users through text or voice. Chatbots can be used for various purposes, such as customer service, entertainment, education, etc. Chatbots can be designed using rule-based or data-driven methods, such as pattern matching, natural language understanding, natural language generation, etc. 
+
+- **Automatic Text Generation**: This is the task of producing natural language text from a given input, such as keywords, images, data, etc. For example, text summarization, image captioning, text paraphrasing, etc. Automatic text generation can be done using rule-based or statistical methods, such as templates, n-grams, hidden Markov models, etc. 
+
+- **Document Summarization**: This is the task of producing a concise and coherent summary of a longer text document, such as an article, a report, a book, etc. Document summarization can be done using extractive or abstractive methods, such as selecting the most important sentences, generating new sentences, etc. Document summarization can be used for various purposes, such as information retrieval, text analysis, text simplification, etc. 
+
+- **Character Recognition**: This is the task of converting handwritten or printed text into digital text that can be processed by computers. For example, optical character recognition (OCR), handwriting recognition, etc. Character recognition can be done using image processing and machine learning methods, such as segmentation, feature extraction, classification, etc. Character recognition can be used for various purposes, such as digitizing documents, data entry, authentication, etc. 
+
+- **Speech Recognition**: This is the task of converting speech signals into text or commands that can be processed by computers. For example, voice assistants, speech-to-text, voice control, etc. Speech recognition can be done using signal processing and machine learning methods, such as acoustic modeling, language modeling, decoding, etc. Speech recognition can be used for various purposes, such as human-computer interaction, speech analysis, speech synthesis, etc. 
+
+- **Question Answering System**: This is a system that can answer natural language questions posed by human users. For example, search engines, virtual assistants, trivia games, etc. Question answering systems can be designed using various methods, such as information retrieval, natural language understanding, knowledge representation, inference, etc. Question answering systems can be used for various purposes, such as information access, education, entertainment, etc. 
+
+- **Machine Translation**: This is the task of translating text or speech from one natural language to another. For example, Google Translate, Skype Translator, etc. Machine translation can be done using rule-based or statistical methods, such as transfer, interlingua, direct, example-based, statistical, neural, etc. Machine translation can be used for various purposes, such as communication, education, globalization, etc. 
+
+- **Natural Language Understanding**: This is the task of extracting the meaning and intent of natural language input, such as text or speech. For example, named entity recognition, relation extraction, semantic parsing, etc. Natural language understanding can be done using rule-based or machine learning methods, such as grammar, logic, ontologies

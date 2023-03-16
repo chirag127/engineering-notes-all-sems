@@ -1,0 +1,23 @@
+### Embedded computing basics for IoT
+
+- Embedded systems are electronic devices that have a specific function and are integrated within a larger system. They usually have limited resources, such as memory, processing power, and battery life. They support real-time computing and sensing in the IoT.
+- Embedded systems consist of several components, such as:
+  - Power source: The device needs a source of energy to operate, such as utility power, batteries, or solar panels.
+  - Time base: The device needs a way to measure time and synchronize its operations, such as a clock or a timer.
+  - Digital processing: The device needs a processor or a microcontroller to execute instructions and perform computations.
+  - Memory: The device needs a storage space to store data and programs, such as ROM, RAM, flash, or EEPROM.
+  - Software and firmware: The device needs a set of instructions and algorithms to perform its function, such as an operating system, a device driver, or an application.
+  - Specialized circuitry: The device may need additional hardware components to perform specific tasks, such as sensors, actuators, communication modules, or display units.
+  - Input from the environment: The device may need to sense and collect data from the physical world, such as temperature, humidity, light, sound, or motion.
+  - Output to the environment: The device may need to act and control the physical world, such as turning on a light, opening a door, or sending a message.
+- Embedded systems can be classified into different types, such as:
+  - Standalone: The device works independently and does not communicate with other devices or networks.
+  - Networked: The device communicates with other devices or networks using wired or wireless protocols, such as Ethernet, Wi-Fi, Bluetooth, or ZigBee.
+  - Mobile: The device is portable and can move from one location to another, such as a smartphone, a tablet, or a wearable device.
+  - Real-time: The device has strict timing constraints and must respond to events within a predefined deadline, such as a pacemaker, a flight controller, or a robot.
+- Embedded systems can be programmed using different languages and tools, such as:
+  - Assembly: A low-level language that directly corresponds to the machine instructions of the processor.
+  - C/C++: A high-level language that provides more abstraction and portability than assembly, but still allows direct access to the hardware.
+  - Arduino: A platform and an IDE that simplifies the development of embedded systems using C/C++ and a library of functions.
+  - Raspberry Pi: A platform and an OS that enables the development of embedded systems using Python and other languages.
+  - ARM: A family of processors and architectures that are widely used in embedded systems, such as Cortex-M, Cortex-A, and Cortex-R.

@@ -1,0 +1,12 @@
+### Bioinformatics for the notes of the Unit 5 - CASE STUDY AND APPLICATIONS in the subject of Deep Learning
+
+Bioinformatics is the application of computational methods to analyze biological data, such as DNA, RNA, protein, gene expression, and molecular interactions. Deep learning is a branch of machine learning that uses artificial neural networks to learn from large and complex data sets. Deep learning has been widely used in bioinformatics for various tasks, such as:
+
+- Sequence analysis: Deep learning can compare and align biological sequences, such as DNA, RNA, and protein, and identify functional or structural motifs, such as promoters, genes, and binding sites.
+- Structure prediction: Deep learning can predict the three-dimensional structure of proteins and nucleic acids from their sequences, and also model the interactions between biomolecules, such as docking and binding .
+- Gene expression regulation: Deep learning can infer the regulatory networks of genes from gene expression data, such as microarrays and RNA-seq, and also identify the factors that influence gene expression, such as transcription factors, epigenetic modifications, and environmental stimuli .
+- Biomedical image processing and diagnosis: Deep learning can process and analyze biomedical images, such as microscopy, MRI, CT, and PET, and extract useful features for diagnosis, prognosis, and treatment of diseases, such as cancer, Alzheimer's, and Parkinson's .
+- Drug discovery and design: Deep learning can assist in the discovery and design of new drugs, by screening large libraries of compounds, predicting their properties and activities, and generating novel molecules with desired characteristics .
+- Systems biology: Deep learning can integrate multiple types of biological data, such as genomics, proteomics, metabolomics, and phenomics, and model the complex interactions and dynamics of biological systems, such as pathways, networks, and organisms .
+
+These are some of the case studies and applications of deep learning in bioinformatics. Deep learning has shown great potential and performance in solving challenging problems in bioinformatics, and also opened new avenues for future research and development.

@@ -1,0 +1,21 @@
+### Pattern-based Architecture for Service-oriented Applications
+
+- A pattern-based architecture for service-oriented applications is an architectural style that uses well-defined and reusable patterns to design and implement distributed systems that deliver services to other applications through protocols.
+- A pattern is a proven solution to a recurring problem in a given context. Patterns can be classified into different categories, such as design patterns, integration patterns, enterprise patterns, etc.
+- A service-oriented application is an application that consists of a set of loosely coupled, fine-grained, and autonomous services that communicate with each other using standard interfaces and protocols. A service is a self-contained unit of functionality that provides a business capability.
+- The benefits of using a pattern-based architecture for service-oriented applications are:
+  - It provides a platform-independent and technology-neutral view of the system.
+  - It facilitates the reuse of existing services and patterns, reducing the development time and cost.
+  - It improves the scalability, reliability, and maintainability of the system by enabling the independent deployment and evolution of services.
+  - It supports the integration and interoperability of heterogeneous systems and applications by using common standards and protocols.
+  - It enables the orchestration and automation of business processes and workflows by composing services into higher-level services.
+- Some examples of patterns for service-oriented applications are:
+  - Service interface pattern: It defines the contract and the communication protocol for a service.
+  - Service implementation pattern: It describes how to implement the logic and the behavior of a service.
+  - Service discovery pattern: It enables the dynamic discovery and binding of services at runtime.
+  - Service registry pattern: It provides a central repository for storing and managing the metadata of services.
+  - Service proxy pattern: It acts as an intermediary between a service consumer and a service provider, hiding the details of the service invocation and location.
+  - Service broker pattern: It routes and mediates the requests and responses between service consumers and service providers, providing additional functionalities such as load balancing, caching, security, etc.
+  - Service composition pattern: It defines how to combine multiple services into a higher-level service that provides a new functionality.
+  - Service orchestration pattern: It coordinates the execution and the interaction of multiple services in a predefined sequence to achieve a business goal.
+  - Service choreography pattern: It defines the collaboration and the coordination of multiple services in a decentralized manner, without a central controller.

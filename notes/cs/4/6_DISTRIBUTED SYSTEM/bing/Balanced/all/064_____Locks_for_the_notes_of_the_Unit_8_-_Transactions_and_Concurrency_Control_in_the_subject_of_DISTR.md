@@ -1,0 +1,21 @@
+# Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A lock is a mechanism that allows only one of the innumerable nodes or processes to access and modify a resource or data that is being shared commonly to prevent execution of same task twice and also maintain data integrity.
+- Locks are designed to enforce a mutual exclusion concurrency control policy, which means that only one transaction can hold a lock on a data item at a time.
+- Locks can be classified into different types based on the following criteria:
+  - The granularity of the data item being locked, such as record-level, page-level, or table-level locks.
+  - The mode of the lock, such as shared (read) or exclusive (write) locks.
+  - The duration of the lock, such as long (held until the transaction commits or aborts) or short (released as soon as the operation is done) locks.
+  - The protocol of acquiring and releasing locks, such as two-phase locking (2PL), which ensures serializability of transactions by acquiring all locks before releasing any, or timestamp ordering, which assigns a logical timestamp to each transaction and grants locks based on the timestamp order.
+- In distributed systems, locks can be implemented using different strategies, such as:
+  - Centralized locking, where a single node acts as a lock manager and grants or denies lock requests from other nodes.
+  - Distributed locking, where each node has a local lock manager and communicates with other nodes to coordinate lock requests.
+  - Hierarchical locking, where the nodes are organized into a tree structure and lock requests are propagated from the leaves to the root or vice versa.
+- Distributed locks can also be based on different security levels of lock resources, such as:
+  - Distributed systems based on asynchronous replication, such as MySQL, Tair, and Redis, where the lock resource is replicated on multiple nodes and the lock is granted by the primary node or a quorum of nodes.
+  - Paxos-based distributed consensus systems, such as ZooKeeper, etcd, and Consul, where the lock resource is stored on a cluster of nodes that follow a consensus protocol to ensure consistency and availability.
+- Distributed locks are useful for coordinating access to shared resources in a distributed system, but they also have some challenges and limitations, such as:
+  - Lock contention, where multiple transactions compete for the same lock and cause delays or deadlocks.
+  - Lock expiration, where a lock is released after a timeout or a failure of the lock holder, which may cause inconsistency or livelock.
+  - Lock scalability, where the number of lock requests increases with the size and complexity of the distributed system, which may affect the performance and reliability of the lock service.
+  - Lock correctness, where the lock service must ensure that the lock semantics are preserved in the presence of network partitions, message delays, or node failures.

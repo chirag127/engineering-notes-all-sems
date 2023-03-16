@@ -1,0 +1,23 @@
+# Voting protocols for the notes of the Unit 7 - Fault Tolerance in the subject of DISTRIBUTED SYSTEM
+
+- Voting protocols are a type of consensus protocols that allow a set of distributed nodes to agree on a common value or decision, despite the presence of faults or attacks in the system    .
+- Voting protocols are based on the idea of collecting votes from a majority or a quorum of nodes, and choosing the value that has the most votes as the consensus value    .
+- Voting protocols can be classified into two categories: exact voting and inexact voting .
+  - Exact voting requires that all nodes agree on the same value, and that the value is correct and consistent with the initial inputs of the nodes .
+  - Inexact voting allows some degree of divergence or approximation in the consensus value, as long as it satisfies some quality criteria or constraints .
+- Voting protocols can also be distinguished by the number of rounds or phases they use to reach consensus  .
+  - One-phase voting protocols collect and count the votes in a single round, and do not require any confirmation or acknowledgement from the nodes .
+  - Two-phase voting protocols use a first round to collect the votes, and a second round to confirm or abort the consensus value, depending on the agreement of the nodes  .
+  - Multi-phase voting protocols use more than two rounds to iteratively refine or update the consensus value, until a termination condition is met .
+- Voting protocols can also be characterized by the level of security or fault-tolerance they provide   .
+  - Secure voting protocols aim to protect the voting process from malicious attacks, such as tampering, impersonation, denial-of-service, or collusion   .
+  - Fault-tolerant voting protocols aim to cope with benign faults, such as crashes, failures, or errors, that may affect the availability or correctness of the nodes   .
+  - Some voting protocols combine both security and fault-tolerance features, by using cryptographic techniques, redundancy, or verification mechanisms   .
+- Voting protocols can also be influenced by the properties or assumptions of the distributed system, such as the network topology, the communication model, the node heterogeneity, or the synchrony    .
+  - Some voting protocols assume a fully connected or a partially connected network, where nodes can communicate directly or indirectly with each other    .
+  - Some voting protocols assume a reliable or an unreliable communication model, where messages can be lost, delayed, duplicated, or reordered    .
+  - Some voting protocols assume a homogeneous or a heterogeneous network, where nodes may have different levels of reputation, weight, or computational power .
+  - Some voting protocols assume a synchronous or an asynchronous system, where nodes may have different speeds, clocks, or timeouts    .
+- Voting protocols can also be evaluated by the performance or the quality metrics they achieve, such as the latency, the throughput, the scalability, the resilience, or the fairness    .
+  - Latency measures the time it takes for a voting protocol to reach consensus, from the start of the voting process to the end    .
+  - Throughput measures the number of consensus values that a voting protocol can produce per unit of time[^1

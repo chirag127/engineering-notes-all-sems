@@ -1,0 +1,22 @@
+### Hidden Markov Models for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+
+- A hidden Markov model (HMM) is a statistical model that can be used to represent sequential data, such as speech signals, natural language texts, or biological sequences .
+- An HMM consists of two components: a set of hidden states and a set of observable symbols .
+- The hidden states are not directly observable, but they generate the observable symbols according to some probability distribution .
+- The transitions between the hidden states are governed by a Markov chain, which means that the next state depends only on the current state .
+- An HMM can be represented by a 5-tuple: (S, V, A, B, π), where :
+  - S is the set of hidden states, such as part-of-speech tags or phonemes.
+  - V is the set of observable symbols, such as words or acoustic features.
+  - A is the state transition matrix, where a<sub>ij</sub> is the probability of moving from state i to state j.
+  - B is the observation probability matrix, where b<sub>i</sub>(v) is the probability of observing symbol v in state i.
+  - π is the initial state distribution, where π<sub>i</sub> is the probability of starting in state i.
+- An HMM can be used for various tasks in natural language processing, such as   :
+  - Part-of-speech tagging: Given a sentence, assign a part-of-speech tag to each word, such as noun, verb, adjective, etc. The hidden states are the tags and the observable symbols are the words. The HMM can learn the tag transition probabilities and the word emission probabilities from a tagged corpus, and then use the Viterbi algorithm to find the most likely tag sequence for a new sentence.
+  - Speech recognition: Given a speech signal, transcribe it into a sequence of words. The hidden states are the phonemes and the observable symbols are the acoustic features. The HMM can learn the phoneme transition probabilities and the feature emission probabilities from a speech corpus, and then use the Viterbi algorithm to find the most likely phoneme sequence for a new signal. The phoneme sequence can then be mapped to a word sequence using a language model.
+  - Named entity recognition: Given a sentence, identify and classify the names of persons, organizations, locations, etc. The hidden states are the entity types and the observable symbols are the words. The HMM can learn the entity transition probabilities and the word emission probabilities from a labeled corpus, and then use the Viterbi algorithm to find the most likely entity sequence for a new sentence.
+- An HMM can be trained using two methods :
+  - Supervised learning: If the hidden state sequences are known for the training data, the HMM parameters can be estimated by counting the frequencies of state transitions and symbol emissions, and then normalizing them to get probabilities.
+  - Unsupervised learning: If the hidden state sequences are unknown for the training data, the HMM parameters can be estimated using the Expectation-Maximization (EM) algorithm, which iteratively assigns probabilities to the possible state sequences and then updates the parameters to maximize the likelihood of the data.
+- An HMM can be evaluated using two metrics :
+  - Likelihood: The probability of generating a given observation sequence given the HMM parameters. This can be computed using the forward algorithm, which sums over all possible state sequences that can produce the observation sequence.
+  - Accuracy: The percentage of correctly predicted hidden states given the observation sequence and the HMM parameters. This can be computed using the Viterbi algorithm, which finds the most likely state sequence that can produce the observation sequence.

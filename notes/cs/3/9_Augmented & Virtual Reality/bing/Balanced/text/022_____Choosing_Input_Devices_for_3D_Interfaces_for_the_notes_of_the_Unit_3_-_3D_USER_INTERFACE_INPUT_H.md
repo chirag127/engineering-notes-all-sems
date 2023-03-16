@@ -1,0 +1,24 @@
+### Choosing Input Devices for 3D Interfaces
+
+- Input devices are hardware devices that capture and interpret the actions performed by the user in a 3D environment.
+- The degrees of freedom (DOF) are one of the main features of these systems, as they determine how many dimensions the user can manipulate with the device.
+- 3D input devices can be classified into two categories: direct and indirect.
+  - Direct input devices allow the user to interact with the 3D environment using natural hand or body gestures, such as pointing, grabbing, or walking.
+  - Indirect input devices require the user to map 2D input, such as mouse movements or keyboard presses, into a 3D virtual location.
+- Some examples of direct input devices are:
+  - Kinect: a motion sensing device that tracks the user's body movements and gestures using a camera and a depth sensor.
+  - Leap Motion: a device that tracks the user's hand and finger movements using infrared cameras.
+  - Holo Lens: a head-mounted device that projects holograms onto the user's field of view and allows the user to interact with them using hand gestures and voice commands.
+  - Magic Leap: a device that combines a head-mounted display and a wearable computer that creates mixed reality experiences and allows the user to interact with them using hand gestures and eye tracking.
+- Some examples of indirect input devices are:
+  - Mouse: a device that moves a cursor on a 2D screen and allows the user to select, drag, or rotate objects in a 3D environment.
+  - Keyboard: a device that allows the user to enter text or commands in a 3D environment.
+  - Joystick: a device that allows the user to control the movement or orientation of an object or a viewpoint in a 3D environment.
+  - Trackball: a device that allows the user to rotate an object or a viewpoint in a 3D environment by rolling a ball with the fingers.
+- When choosing input devices for 3D interfaces, some factors to consider are:
+  - The type and complexity of the tasks to be performed in the 3D environment.
+  - The level of immersion and realism desired by the user and the application.
+  - The availability and affordability of the devices.
+  - The usability and learnability of the devices.
+  - The compatibility and interoperability of the devices with the 3D software and hardware.
+  - The ergonomic and health implications of the devices for the user.

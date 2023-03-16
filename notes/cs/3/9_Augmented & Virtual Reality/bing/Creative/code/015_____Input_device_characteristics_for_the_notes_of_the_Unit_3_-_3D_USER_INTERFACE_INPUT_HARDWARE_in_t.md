@@ -1,0 +1,13 @@
+### Input device characteristics for the notes of the Unit 3 - 3D USER INTERFACE INPUT HARDWARE in the subject of Augmented & Virtual Reality
+
+- Input devices are hardware that allow the user to communicate with the system by providing input in 3D space  .
+- Input devices can be classified according to the following characteristics :
+  - Degrees of Freedom (DOFs): the number and type of independent parameters that define the position and orientation of an object in 3D space. For example, a 6-DOF device can report the x, y, z coordinates and the pitch, yaw, roll angles of an object.
+  - DOF composition: the way the DOFs are grouped and controlled by the device. For example, a device can have integral DOFs, where all the DOFs are controlled simultaneously by a single input, or separable DOFs, where each DOF is controlled independently by a different input.
+  - Type of electronics: the way the device reports the input values to the system. For example, a device can be digital, where the input values are discrete and binary, or analog, where the input values are continuous and proportional.
+  - Range of reported values: the minimum and maximum values that the device can report for each DOF. For example, a device can have discrete values, where the input values are fixed and finite, or continuous values, where the input values are variable and infinite, or hybrid values, where the input values are a combination of discrete and continuous.
+  - Sensing technology: the method that the device uses to detect and measure the input values. For example, a device can use active sensing, where the device emits a signal and measures the response, or passive sensing, where the device measures the ambient signal without emitting anything.
+  - Form factor: the physical shape and size of the device and how it is held or worn by the user. For example, a device can be a handheld device, a wearable device, a desktop device, or a room-scale device.
+  - Feedback: the information that the device provides to the user about the input values or the system state. For example, a device can provide visual feedback, auditory feedback, haptic feedback, or a combination of them.
+  - Compatibility: the ability of the device to work with different systems and platforms. For example, a device can be compatible with a specific system or platform, or with a range of systems and platforms, or with a standard interface or protocol.
+- Input devices can be designed for specific purposes or applications, or for general purposes or applications . For example, a device can be a special-purpose device, such as a steering wheel, a joystick, or a glove, or a general-purpose device, such as a mouse, a keyboard, or a touch screen.

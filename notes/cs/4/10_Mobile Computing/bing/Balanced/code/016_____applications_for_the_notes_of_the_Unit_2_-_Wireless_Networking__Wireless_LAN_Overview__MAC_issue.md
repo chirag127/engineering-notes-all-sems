@@ -1,0 +1,23 @@
+### Applications for the notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC issues, IEEE 802.11, Blue Tooth, Wireless in the subject of Mobile Computing
+
+- Wireless networking is the use of wireless communication technologies to connect devices and networks without wires or cables.
+- Wireless LAN (WLAN) is a type of wireless networking that connects devices within a local area network (LAN) using radio waves or infrared signals.
+- WLAN can be classified into two types: infrastructure and ad hoc.
+  - Infrastructure WLAN uses a base station or access point (AP) to coordinate the communication among the wireless devices and the wired network.
+  - Ad hoc WLAN does not use a base station or AP, but rather allows the wireless devices to communicate directly with each other in a peer-to-peer (P2P) manner.
+- MAC (Medium Access Control) is a sublayer of the data link layer that controls how the wireless devices access the shared wireless medium and avoid collisions.
+- IEEE 802.11 is a family of standards that define the MAC and physical (PHY) layer specifications for WLANs. It supports various frequency bands, modulation schemes, data rates, and security mechanisms.
+- Blue Tooth is a wireless technology that enables short-range communication between devices such as mobile phones, headsets, keyboards, mice, printers, etc. It uses a low-power radio frequency (RF) in the 2.4 GHz band and supports both voice and data transmission.
+- Wireless multiple access protocols are the rules that govern how the wireless devices share the wireless medium and avoid interference. Some of the common protocols are:
+  - FDMA (Frequency Division Multiple Access): Each device is assigned a different frequency channel to transmit and receive data.
+  - TDMA (Time Division Multiple Access): Each device is assigned a different time slot to transmit and receive data in a round-robin fashion.
+  - CDMA (Code Division Multiple Access): Each device is assigned a different code to spread its signal over the entire frequency band and distinguish it from other signals using a correlator.
+  - CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance): Each device senses the medium before transmitting and defers its transmission if the medium is busy. It also uses a random backoff mechanism to reduce the probability of collision.
+- TCP (Transmission Control Protocol) is a reliable transport layer protocol that ensures the delivery of data packets in order and without errors. However, TCP faces some challenges over wireless networks, such as:
+  - High bit error rate: Wireless channels are prone to noise, interference, and fading, which can cause packet loss or corruption.
+  - Variable delay: Wireless channels have varying propagation delays and queuing delays, which can affect the estimation of round-trip time (RTT) and congestion window size.
+  - Mobility: Wireless devices can move across different networks or subnets, which can cause route changes, handoffs, or disconnections.
+- Wireless applications are the software programs that run on wireless devices and use wireless networks to provide various services and functions. Some of the common wireless applications are:
+  - Data broadcasting: The transmission of data from a source to multiple receivers over a wireless channel. Examples are news, weather, traffic, stock quotes, etc.
+  - Mobile IP: A protocol that enables a mobile device to maintain its IP address and connectivity while moving across different networks. It uses a home agent (HA) and a foreign agent (FA) to route the packets to and from the mobile device.
+  - WAP (Wireless Application Protocol): A protocol suite that enables the delivery of web content and services to wireless devices. It uses a WAP gateway to translate between the wireless protocols and the Internet protocols. It also uses a WML (Wireless Markup Language) to format the web pages for the wireless devices.

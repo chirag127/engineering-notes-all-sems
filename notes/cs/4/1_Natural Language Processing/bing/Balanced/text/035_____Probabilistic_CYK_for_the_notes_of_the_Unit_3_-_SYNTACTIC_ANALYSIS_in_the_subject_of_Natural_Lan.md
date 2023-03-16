@@ -1,0 +1,11 @@
+### Probabilistic CYK
+
+- The probabilistic CYK algorithm is an extension of the CYK algorithm for parsing sentences with probabilistic context-free grammars (PCFGs).
+- PCFGs are context-free grammars that assign probabilities to each production rule, indicating how likely it is to be used in a derivation.
+- The probabilistic CYK algorithm finds the most likely parse tree for a given sentence according to the production probabilities, using dynamic programming to avoid redundant computations.
+- The algorithm works as follows:
+
+  - Initialize a table T of size n x n, where n is the length of the input sentence. Each cell T[i,j] will store a set of nonterminals that can generate the substring from i to j, along with their probabilities.
+  - For each word in the sentence, fill the diagonal cells of the table with the nonterminals that can directly produce the word, and their probabilities. For example, if the word is "dog" and the grammar has the rule N -> dog [0.5], then T[i,i] = {N: 0.5}.
+  - For each substring of length 2 or more, fill the upper triangular cells of the table by considering every possible split point k between i and j, and every possible pair of nonterminals A and B that can generate T[i,k] and T[k+1,j], respectively. For each such pair, check if there is a rule C -> A B [p] in the grammar, and if so, add C to T[i,j] with the probability p * T[i,k].A * T[k+1,j].B. For example, if T[i,k] = {N: 0.5, V: 0.2} and T[k+1,j] = {N: 0.3, D: 0.1}, and the grammar has the rule S -> N V [0.4], then T[i,j] = {S: 0.04}.
+  - The most likely parse tree for the sentence is the one that has the highest probability among the nonterminals in T[0,n-1]. This can be found by backtracking from the table, starting from the nonterminal with the highest probability in T[0,n-1], and recursively choosing the most probable split point and nonterminals at each step. For example, if T[0,n-1] = {S: 0.04, NP: 0.02}, then the most likely parse tree is the one that starts with S and has the highest probability among the possible splits and nonterminals for S.

@@ -1,0 +1,15 @@
+# INTRODUCTION TO INTERNET OF THINGS
+
+- The Internet of Things (IoT) describes the network of physical objects that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet or other communications networks.
+- The term IoT was coined by Kevin Ashton in 1999, who envisioned a system where the physical world could be connected to the digital world through sensors and RFID tags.
+- IoT devices can range from ordinary household objects to sophisticated industrial tools, and can include anything with a sensor assigned a unique identifier (UID).
+- IoT applications can be found in various domains, such as smart homes, smart cities, smart health, smart agriculture, smart manufacturing, smart energy, smart transportation, and smart retail .
+- IoT systems consist of several functional blocks, such as devices, communications, services, management, security, and application.
+- IoT devices are the physical objects that collect and transmit data through sensors and actuators. They can be passive (such as RFID tags) or active (such as smart phones) and can have different levels of processing and storage capabilities.
+- IoT communications are the protocols and technologies that enable data transfer between devices and systems. They can be wired (such as Ethernet) or wireless (such as Wi-Fi, Bluetooth, Zigbee, LoRa, 5G, etc.) and can have different ranges and bandwidths.
+- IoT services are the software components that provide functionality and intelligence to IoT systems. They can be cloud-based (such as AWS, Azure, Google Cloud, etc.) or edge-based (such as Raspberry Pi, Arduino, etc.) and can perform tasks such as data processing, analytics, visualization, machine learning, etc..
+- IoT management is the process of monitoring, controlling, and maintaining IoT systems. It involves tasks such as device discovery, configuration, provisioning, updating, troubleshooting, etc..
+- IoT security is the protection of IoT systems from unauthorized access, manipulation, or damage. It involves aspects such as encryption, authentication, authorization, privacy, trust, etc..
+- IoT application is the end-user interface that provides value and benefits to the users of IoT systems. It can be a web-based (such as a dashboard) or mobile-based (such as an app) and can enable user interaction, feedback, and customization.
+- IoT architecture is the design methodology that defines the structure, components, and interactions of IoT systems. It can be based on a reference model (such as the one proposed by the IoT-A project) or a specific framework (such as the one proposed by the IEEE P2413 standard).
+- IoT challenges are the issues and limitations that hinder the development and deployment of IoT systems. They can be technical (such as interoperability, scalability, reliability, etc.), social (such as user acceptance, ethics, etc.), or environmental (such as energy consumption, waste management, etc.) .

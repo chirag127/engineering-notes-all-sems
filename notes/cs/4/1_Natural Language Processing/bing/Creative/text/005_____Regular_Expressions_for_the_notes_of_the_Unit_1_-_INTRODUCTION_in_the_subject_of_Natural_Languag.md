@@ -1,0 +1,28 @@
+### Regular Expressions for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- A regular expression (RE) is a language for specifying text search strings.
+- RE helps us to match or find other strings or sets of strings, using a specialized syntax held in a pattern.
+- RE are useful for numerous practical day-to-day tasks that a data scientist encounters, such as data pre-processing, rule-based information mining systems, pattern matching, text feature engineering, web scraping, data extraction, etc.
+- RE can be applied in many programming languages like Java, JS, php, C++, etc.
+- RE are composed of literals (characters that match themselves) and metacharacters (characters that have special meanings) .
+- Some common metacharacters are:
+  - `.` matches any single character except newline
+  - `*` matches zero or more occurrences of the preceding character
+  - `+` matches one or more occurrences of the preceding character
+  - `?` matches zero or one occurrence of the preceding character
+  - `^` matches the beginning of a line
+  - `$` matches the end of a line
+  - `[ ]` matches any one of the characters inside the brackets
+  - `[^ ]` matches any one of the characters not inside the brackets
+  - `( )` groups a subexpression
+  - `|` matches either the expression before or the expression after
+  - `\` escapes the following character
+- Examples of RE and their corresponding regular sets are:
+  - `(0 + 10*)` matches `{0, 1, 10, 100, 1000, 10000, … }`
+  - `(0*10*)` matches `{1, 01, 10, 010, 0010, …}`
+  - `(0 + ε) (1 + ε)` matches `{ε, 0, 1, 01}`
+  - `(a+b)*` matches the set of strings of a’s and b’s of any length, including the empty string
+  - `[a-zA-Z]+` matches any word consisting of alphabetic characters
+  - `^0*1*0*$` matches any string of 0’s and 1’s that begins and ends with 0
+  - `\d{3}-\d{3}-\d{4}` matches any phone number of the format xxx-xxx-xxxx
+  - `[A-Z][a-z]*` matches any capitalized word

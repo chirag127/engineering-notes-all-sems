@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of Beyond Chaincode for the Unit 5 - Hyperledger Fabric (B) in the subject of Blockchain Architecture Design.
+
+### Beyond Chaincode
+
+- Chaincode is the smart contract layer of Hyperledger Fabric, where the business logic of the network is defined and executed.
+- Chaincode can be written in various programming languages, such as Go, Node.js, or Java, and can interact with the ledger state and other chaincodes through the Fabric Contract API.
+- However, chaincode is not the only way to implement the logic and functionality of a Fabric network. There are other components and features that can be used to enhance the network capabilities and performance, such as:
+  - **Private data collections**: A way to store and share data among a subset of network participants, without revealing it to the rest of the network or storing it on the ledger. Private data collections can be used to implement confidential transactions, enforce access control policies, or comply with data privacy regulations.
+  - **State-based endorsement**: A way to specify the endorsement policy for a given key-value pair on the ledger, instead of applying a global endorsement policy for the whole chaincode. State-based endorsement can be used to implement more fine-grained and dynamic control over who can endorse and validate transactions that affect a specific state.
+  - **Chaincode events**: A way to emit and listen to custom events from the chaincode, which can be used to trigger actions or notifications based on the occurrence of certain conditions or events on the ledger. Chaincode events can be used to implement event-driven architectures, workflows, or integrations with external systems.
+  - **CouchDB as state database**: A way to use CouchDB as the state database for the ledger, instead of the default LevelDB. CouchDB is a document-oriented database that supports rich queries, indexing, and pagination of the ledger state. CouchDB can be used to implement complex queries, analytics, or reporting on the ledger data.
+  - **System chaincodes**: A way to implement chaincodes that run on the system channel and provide system-level services or functionality to the network. System chaincodes can be used to implement network governance, configuration, or management features, such as the lifecycle chaincode (LSCC), the configuration chaincode (CSCC), or the query system chaincode (QSCC).

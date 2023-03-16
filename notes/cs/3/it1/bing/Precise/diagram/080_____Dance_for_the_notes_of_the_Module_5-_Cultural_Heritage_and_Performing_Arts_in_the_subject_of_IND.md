@@ -1,0 +1,9 @@
+### Dance - Module 5: Cultural Heritage and Performing Arts
+
+Dance is an integral part of the cultural heritage and performing arts of India. India boasts of exceptionally rich performing arts, with various kinds of exquisite classical dance forms and music, along with folk dances and songs .
+
+- **Classical Dance Forms:** Some of the world-famous dance forms that originated and evolved in India are Bharatnatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniattam, and Odissi . Each art form represents the culture in a beautiful and impressive way which is incomparable to any other .
+- **Kathak:** The most famous is Kathak which features two styles of performance, Nritta, and Nritya. Nritta moves from slow to a faster pace while Nritya uses facial expression to convey a story . The dance evolved incorporating stories of Krishna and integrated the Persian arts to meet the taste of the Mughal court. There are 3 distinct forms of this dance: Jaipur, Benares, and Lucknow. Each dance emphasizes rhythmic foot movements, with the legs and the torso kept straight .
+- **Folk Dances:** India also has a rich tradition of folk dances, with each region having its own unique dance forms. Some examples include Jatra and Kirtania Natak from Bengal, Bideshia from Bihar, Raas and Jhumar from Rajasthan, Nautanki and Svaang from Uttar Pradesh, Bhawaii from Gujarat, Tamasha from Maharashtra, and Kathakali and Yakshagana from Tamil Nadu, Kerala, and Karnataka .
+
+Dance and music are few of the oldest parts of the traditions of ancient India . They continue to be an important part of the cultural scene in India, with concerts and performances of Indian classical music and dance, theatre productions, art exhibitions, and Bollywood movies .

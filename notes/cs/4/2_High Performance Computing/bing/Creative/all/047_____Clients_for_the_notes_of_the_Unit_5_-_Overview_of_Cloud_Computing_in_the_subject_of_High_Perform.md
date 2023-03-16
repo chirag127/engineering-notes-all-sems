@@ -1,0 +1,13 @@
+# Clients for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- A cloud client is a hardware device or software used to access a cloud service .
+- A cloud service is a type of computing service that is delivered over the internet and provides scalable and on-demand resources such as computing cycles, data storage, applications, and platforms .
+- A cloud client can be classified into three types based on the level of functionality and dependency on the cloud service:
+  - Thick client: A thick client is a device or software that has its own operating system, applications, and data, and can function independently of the cloud service. A thick client can use the cloud service for additional features or backup, but does not rely on it for core functionality. Examples of thick clients are personal computers, laptops, and smartphones.
+  - Thin client: A thin client is a device or software that has minimal functionality and relies on the cloud service for most of its operations. A thin client usually has a basic operating system, a web browser, and a network connection, and uses the cloud service to access applications and data. Examples of thin clients are Chromebooks, tablets, and smart TVs.
+  - Zero client: A zero client is a device or software that has no functionality and relies entirely on the cloud service for all its operations. A zero client has no operating system, no local storage, and no applications, and uses the cloud service to access a virtual desktop environment. Examples of zero clients are dumb terminals, thin clients with no operating system, and virtual machines.
+- The advantages of using cloud clients are:
+  - Reduced cost: Cloud clients can reduce the cost of hardware, software, maintenance, and energy consumption, as they rely on the cloud service for most of their functionality and resources.
+  - Increased security: Cloud clients can reduce the risk of data loss, theft, or corruption, as they store and process data on the cloud service, which can provide better encryption, backup, and recovery options.
+  - Improved performance: Cloud clients can improve the performance and scalability of applications and data, as they leverage the cloud service's computing power, storage capacity, and network bandwidth.
+  - Enhanced mobility: Cloud clients can enable users to access applications and data from anywhere and any device, as they use the cloud service's internet connection and web interface.

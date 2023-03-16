@@ -1,0 +1,7 @@
+## Unit 3 - Data management issues, data replication for mobile computers, adaptive clustering for mobile
+
+1. **Data management issues:** With the increasing use of mobile devices, data management has become a critical issue. The challenges include ensuring data availability, consistency, and security while dealing with the constraints of mobile devices such as limited storage, processing power, and battery life.
+
+2. **Data replication for mobile computers:** One solution to the data management challenges is data replication, where multiple copies of data are stored on different devices. This can improve data availability and reduce the need for constant network connectivity. However, it also introduces challenges in ensuring data consistency and resolving conflicts when multiple devices update the same data.
+
+3. **Adaptive clustering for mobile:** Adaptive clustering is a technique used to improve the performance of data management in mobile environments. It involves grouping mobile devices into clusters based on their location, connectivity, and other factors. Data is then replicated and managed within these clusters, reducing the need for communication with a central server and improving data availability and consistency.

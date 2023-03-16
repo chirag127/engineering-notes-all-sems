@@ -1,0 +1,8 @@
+# The representation of Women in Historical traditions for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- The position of women in ancient India was not equal to that of men. Women were mainly seen as wives and mothers, and their role was subordinate to men.
+- Some women in the Vedic period had economic freedom and were engaged in teaching, but they were not allowed to perform rituals or study the Vedas.
+- Some women in the epic period were revered as ideal and virtuous, such as Sita, Draupadi, Ahalya, Tara, and Mandodari. They also influenced men on religious and social matters, but they had to endure hardships and sacrifices for their husbands and sons.
+- In the medieval period, the status of women declined further due to the influence of Islamic invasions, caste system, and patriarchal norms. Women faced restrictions on their mobility, education, and rights. They were also subjected to practices such as sati, child marriage, and purdah .
+- In the modern period, the status of women improved due to the efforts of social reformers, nationalists, and feminists. Women gained access to education, employment, and political participation. Some women also became leaders and icons, such as Rani Lakshmi Bai, Sarojini Naidu, Indira Gandhi, and Sonia Gandhi .
+- However, the status of women in contemporary India is still not equal to that of men. Women face challenges such as gender discrimination, violence, dowry, and female foeticide. They also have to balance their roles as homemakers and professionals. Women's history in India is a complex and diverse field that needs more attention and research .

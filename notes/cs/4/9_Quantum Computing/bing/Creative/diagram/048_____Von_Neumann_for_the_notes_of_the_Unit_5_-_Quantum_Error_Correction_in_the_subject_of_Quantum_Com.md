@@ -1,0 +1,31 @@
+### Von Neumann
+
+- Von Neumann was a mathematician and physicist who studied the problem of noise and errors in classical computation in the 1950s.
+- He proposed a method of error correction based on redundancy, where multiple copies of the same information are stored and compared to detect and correct errors.
+- He also introduced the concept of a universal Turing machine, which can simulate any other Turing machine, and is equivalent to a modern computer.
+- Von Neumann's ideas inspired the development of quantum error correction (QEC), which is used to protect quantum information from errors due to decoherence and other quantum noise.
+- QEC is essential to achieve fault tolerant quantum computing, which can reduce the effects of noise on stored quantum information, faulty quantum gates, faulty quantum measurements, and faulty quantum communication.
+- QEC schemes use quantum codes, which are subspaces of the Hilbert space of a quantum system that can encode logical qubits and correct errors.
+- QEC schemes also use quantum measurements, which are used to extract information about the errors without disturbing the encoded quantum information.
+- QEC schemes can be classified into discrete and continuous, depending on the type of errors and measurements they can handle .
+- Discrete QEC schemes use projective von Neumann measurements on stabilizers to discretize the error syndromes into a finite set, and fast unitary gates are applied to recover the corrupted information .
+- Continuous QEC schemes use non-projective measurements on continuous variables to estimate the error syndromes in a continuous range, and feedback control is applied to correct the errors in real time .
+- QEC schemes can also be classified into active and passive, depending on whether they require active intervention or not.
+- Active QEC schemes require periodic measurements and corrections to maintain the quantum information.
+- Passive QEC schemes use quantum error avoiding codes or decoherence free subspaces, which are immune to certain types of errors without requiring measurements or corrections.
+- QEC schemes can also be classified into hardware-efficient and software-efficient, depending on whether they optimize the physical or logical resources.
+- Hardware-efficient QEC schemes use fewer physical qubits and simpler gates, but require more logical qubits and complex encoding and decoding procedures.
+- Software-efficient QEC schemes use more physical qubits and complex gates, but require fewer logical qubits and simpler encoding and decoding procedures.
+- QEC schemes can also be classified into local and non-local, depending on whether they use local or non-local interactions between qubits.
+- Local QEC schemes use nearest-neighbor interactions between qubits, which are easier to implement physically, but require more qubits and longer codes.
+- Non-local QEC schemes use long-range interactions between qubits, which are harder to implement physically, but require fewer qubits and shorter codes.
+- QEC schemes can also be classified into stabilizer and non-stabilizer, depending on whether they use stabilizer codes or not.
+- Stabilizer QEC schemes use stabilizer codes, which are a special class of quantum codes that can be described by a set of commuting operators called stabilizers.
+- Stabilizer QEC schemes are easier to construct and analyze, but have limitations in correcting general errors.
+- Non-stabilizer QEC schemes use non-stabilizer codes, which are quantum codes that cannot be described by stabilizers.
+- Non-stabilizer QEC schemes are harder to construct and analyze, but have more flexibility in correcting general errors.
+- QEC schemes can also be classified into measurement-based and gate-based, depending on whether they use quantum measurements or quantum gates as the main tool for error correction.
+- Measurement-based QEC schemes use quantum measurements to extract error syndromes and correct errors, and rely on entanglement and teleportation to encode and decode quantum information.
+- Measurement-based QEC schemes are more robust to gate errors, but require more measurements and communication.
+- Gate-based QEC schemes use quantum gates to encode and decode quantum information, and rely on error detection and correction circuits to correct errors.
+- Gate-based QEC schemes are more robust to measurement errors, but require more gates and computation.

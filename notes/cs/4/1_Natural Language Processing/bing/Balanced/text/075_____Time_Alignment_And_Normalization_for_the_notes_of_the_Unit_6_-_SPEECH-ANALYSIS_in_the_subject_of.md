@@ -1,0 +1,9 @@
+### Time Alignment And Normalization for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- Time alignment is the process of finding the optimal correspondence between the frames of two speech signals that are related by some transformation, such as speaker variation, speaking rate variation, or voice conversion   .
+- Time alignment is useful for applications such as speech recognition, text-to-speech synthesis, speaker recognition, and voice conversion, where the goal is to compare, match, or transform speech signals from different sources or conditions  .
+- Time alignment can be achieved by using methods such as dynamic time warping (DTW), hidden Markov models (HMMs), or neural networks, which measure the dissimilarity between speech events and minimize the timing differences between corresponding speech events   .
+- Time alignment can be improved by using techniques such as refinement, normalization, and frame comparison, which reduce the alignment error and increase the sound correspondence between the speech signals.
+- Normalization is the process of adjusting the speech signals to reduce the effects of speaker variation, such as pitch, intensity, duration, and spectral characteristics, which can affect the perception and recognition of speech.
+- Normalization is important for speech perception and processing, as it allows listeners and systems to recognize words and phonemes spoken by different speakers despite the acoustic variation.
+- Normalization can be achieved by using methods such as vocal tract length normalization (VTLN), cepstral mean subtraction (CMS), z-score normalization, or speaker adaptation, which modify the speech signals to make them more comparable or compatible across speakers.

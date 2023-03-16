@@ -1,0 +1,27 @@
+### Architectural view for the notes of the Unit 1 - Internet of Things (IoT)
+
+- Internet of Things (IoT) is a system of interrelated, internet-connected objects which are able to collect and transfer data over a wireless network without human intervention.
+- IoT has a vision of creating a smart and connected world where physical and digital entities can interact seamlessly and autonomously.
+- IoT has a definition of a network of uniquely identifiable things that communicate without human interaction using IP connectivity.
+- IoT has a conceptual framework that consists of four main components: things, gateways, networks and cloud.
+  - Things are the devices that have sensors, actuators, processors and communication modules to collect and exchange data.
+  - Gateways are the intermediaries that connect things to networks and provide data processing, security and protocol translation functions.
+  - Networks are the communication infrastructures that enable data transmission between things and gateways, and between gateways and cloud.
+  - Cloud is the centralized platform that provides data storage, analysis, visualization and application services for IoT.
+- IoT has an architectural view that can be broken down into four layers: device layer, transport layer, processing layer and application layer.
+  - Device layer is the layer closest to the physical world and consists of the sensors, actuators and other devices that collect data and perform actions.
+  - Transport layer is the layer that provides connectivity and communication protocols for data transmission between devices and gateways, and between gateways and cloud.
+  - Processing layer is the layer that provides data processing, aggregation, filtering, enrichment and consolidation functions for IoT data.
+  - Application layer is the layer that provides the end-user applications and services that utilize IoT data and enable user interaction.
+- IoT has a technology behind it that includes various hardware, software and communication technologies that enable the implementation of IoT systems.
+  - Hardware technologies include sensors, actuators, microcontrollers, embedded systems, RFID tags, etc. that enable data collection and actuation.
+  - Software technologies include operating systems, middleware, databases, analytics, machine learning, etc. that enable data processing and application development.
+  - Communication technologies include wired and wireless technologies, such as Wi-Fi, Bluetooth, Zigbee, LoRa, cellular, etc. that enable data transmission and connectivity.
+- IoT has sources that include various domains and sectors that generate and consume IoT data, such as smart homes, smart cities, smart agriculture, smart health, smart industry, etc..
+- IoT has M2M communication that refers to the direct exchange of data between machines or devices without human intervention.
+- IoT has examples that include various applications and use cases that demonstrate the benefits and challenges of IoT, such as smart lighting, smart parking, smart metering, smart farming, smart wearables, smart manufacturing, etc..
+- IoT has design principles for connected devices that include various guidelines and standards that aim to ensure the quality, security, interoperability and scalability of IoT systems.
+  - IoT/M2M systems layers and design standardization refer to the common architecture and protocols that enable the integration and communication of IoT devices and services.
+  - Communication technologies refer to the selection and optimization of the appropriate technologies that meet the requirements and constraints of IoT applications, such as bandwidth, latency, power consumption, etc..
+  - Data enrichment and consolidation refer to the techniques and methods that enhance the value and quality of IoT data, such as data fusion, data cleaning, data compression, etc..
+  - Ease of designing and affordability refer to the factors that influence the adoption and deployment of IoT solutions, such as user-friendliness, cost-effectiveness, modularity, etc..

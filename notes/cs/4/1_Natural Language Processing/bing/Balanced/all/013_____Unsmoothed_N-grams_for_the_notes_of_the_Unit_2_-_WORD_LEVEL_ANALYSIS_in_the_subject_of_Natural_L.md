@@ -1,0 +1,10 @@
+# Unsmoothed N-grams
+
+- An **n-gram** is a sequence of **n** words or tokens in a text. For example, "natural language processing" is a **trigram** (n = 3), "machine learning" is a **bigram** (n = 2), and "statistics" is a **unigram** (n = 1).
+- An **n-gram model** is a probabilistic model that estimates the probability of a word or token given the previous **n - 1** words or tokens. For example, a **bigram model** estimates the probability of a word given the previous word, and a **trigram model** estimates the probability of a word given the previous two words.
+- An **unsmoothed n-gram model** is a simple way of calculating the probabilities of n-grams using the **maximum likelihood estimation (MLE)**. The MLE of an n-gram is the ratio of its frequency in the text to the frequency of its prefix (the previous n - 1 words or tokens). For example, the MLE of a bigram is the ratio of its frequency to the frequency of its first word, and the MLE of a trigram is the ratio of its frequency to the frequency of its first two words.
+- An **unsmoothed n-gram model** has some limitations and drawbacks, such as:
+  - It assigns **zero probability** to any n-gram that does not occur in the text, which is unrealistic and problematic for language modeling and generation tasks.
+  - It is **data sparsity** problem, which means that many n-grams have very low frequencies or do not occur at all in the text, especially for higher values of n. This makes the model unreliable and inaccurate.
+  - It is **overfitting** problem, which means that the model is too dependent on the specific text and does not generalize well to new or unseen texts. This reduces the model's performance and applicability.
+- To overcome these limitations and drawbacks, various **smoothing techniques** are used to adjust the probabilities of n-grams and avoid zero probabilities. Some of the common smoothing techniques are **additive smoothing**, **Good-Turing smoothing**, **Kneser-Ney smoothing**, and **interpolation**.

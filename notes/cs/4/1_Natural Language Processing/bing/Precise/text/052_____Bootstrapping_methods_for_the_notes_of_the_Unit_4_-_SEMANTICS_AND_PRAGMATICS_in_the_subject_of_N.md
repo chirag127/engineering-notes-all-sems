@@ -1,0 +1,9 @@
+### Bootstrapping methods for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+1. Bootstrapping is a technique used in natural language processing to automatically learn new information from a small amount of initial data.
+2. This technique is particularly useful in the field of semantics and pragmatics, where it can be used to learn the meaning of words and phrases, and how they are used in context.
+3. There are several bootstrapping methods that can be used in natural language processing, including:
+    - **Seed-based bootstrapping**: This method involves starting with a small set of seed examples and using them to learn new information. For example, a seed-based bootstrapping algorithm might start with a few examples of words that are known to be positive or negative, and use them to learn the sentiment of other words.
+    - **Pattern-based bootstrapping**: This method involves identifying patterns in text that can be used to learn new information. For example, a pattern-based bootstrapping algorithm might look for patterns such as "X is a Y" to learn that X is a type of Y.
+    - **Co-training**: This method involves using two or more classifiers to learn from each other. For example, one classifier might be trained on text data, while another is trained on visual data. The classifiers can then be used to bootstrap each other, learning from the predictions of the other classifier.
+4. Bootstrapping methods can be very effective in natural language processing, allowing algorithms to learn new information quickly and accurately. However, they can also be sensitive to the quality of the initial data, and may require careful tuning to achieve good results.

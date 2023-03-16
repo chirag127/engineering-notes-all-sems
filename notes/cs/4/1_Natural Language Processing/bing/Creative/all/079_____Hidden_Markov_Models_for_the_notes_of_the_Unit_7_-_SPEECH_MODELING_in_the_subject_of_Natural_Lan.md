@@ -1,0 +1,21 @@
+# Hidden Markov Models for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+
+- A hidden Markov model (HMM) is a statistical model that can be used to describe the probabilistic behavior of a system that undergoes transitions between a set of discrete states, where the current state is not directly observable but depends on a hidden variable.
+- HMMs can be applied to various natural language processing (NLP) tasks, such as part-of-speech tagging, speech recognition, machine translation, and text generation.
+- The basic components of an HMM are:
+  - A set of N states, denoted by S = {S1, S2, ..., SN}.
+  - A set of M observations, denoted by V = {v1, v2, ..., vM}.
+  - A transition matrix A, where aij is the probability of moving from state Si to state Sj.
+  - An emission matrix B, where bij is the probability of observing vj given that the current state is Si.
+  - An initial state distribution π, where πi is the probability of starting in state Si.
+- The three fundamental problems of HMMs are:
+  - Evaluation: Given an HMM and a sequence of observations, what is the probability of the observations given the model?
+  - Decoding: Given an HMM and a sequence of observations, what is the most likely sequence of states that generated the observations?
+  - Learning: Given a sequence of observations and the number of states, what is the best HMM that fits the data?
+- The basic algorithms to solve these problems are:
+  - Forward algorithm: A dynamic programming algorithm that computes the probability of the observations given the model by summing over all possible state sequences.
+  - Viterbi algorithm: A dynamic programming algorithm that finds the most likely state sequence given the observations and the model by maximizing over all possible state sequences.
+  - Baum-Welch algorithm: An iterative algorithm that estimates the model parameters by maximizing the likelihood of the observations using the expectation-maximization (EM) technique.
+- The application of HMMs to speech modeling can be divided into two main tasks: acoustic modeling and language modeling.
+  - Acoustic modeling: The task of mapping the speech signal to a sequence of phonetic units, such as phones, syllables, or words. This can be done by using an HMM for each phonetic unit, where the states represent the acoustic features of the unit and the observations are the speech frames. The acoustic model can be trained using labeled speech data, where the phonetic units are aligned with the speech signal.
+  - Language modeling: The task of predicting the next word or phonetic unit given the previous ones. This can be done by using an HMM for each word or phonetic unit, where the states represent the context of the unit and the observations are the units themselves. The language model can be trained using large corpora of text or speech, where the probabilities of the units are estimated from their frequencies.

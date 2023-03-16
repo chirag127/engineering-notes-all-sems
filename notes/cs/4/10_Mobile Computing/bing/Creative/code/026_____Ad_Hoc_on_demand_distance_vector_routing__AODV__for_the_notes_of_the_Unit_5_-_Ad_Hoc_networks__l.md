@@ -1,0 +1,22 @@
+### Ad Hoc on demand distance vector routing (AODV)
+
+- AODV is a routing protocol designed for wireless and mobile ad hoc networks .
+- AODV establishes routes to destinations on demand and supports both unicast and multicast routing .
+- AODV is based on the principle of distance vector routing, where each node maintains a routing table with the next hop and the distance (in terms of hops) to each destination .
+- AODV uses two types of messages: route request (RREQ) and route reply (RREP)  .
+- When a source node wants to communicate with a destination node, it broadcasts a RREQ message to its neighbors  .
+- The RREQ message contains the source and destination addresses, a sequence number, and a hop count  .
+- The sequence number is used to avoid loops and to ensure freshness of routes  .
+- The hop count is incremented by one at each intermediate node that forwards the RREQ message  .
+- If an intermediate node has a fresh route to the destination, it can send a RREP message back to the source  .
+- The RREP message contains the destination address, the sequence number, and the hop count  .
+- The source node updates its routing table with the route to the destination and starts sending data packets  .
+- If an intermediate node does not have a route to the destination, it rebroadcasts the RREQ message to its neighbors  .
+- The RREQ message is propagated until it reaches the destination or a node with a fresh route to the destination  .
+- The destination node or the node with a fresh route sends a RREP message back to the source along the reverse path of the RREQ message  .
+- Each intermediate node that forwards the RREP message updates its routing table with the route to the destination  .
+- AODV also uses route error (RERR) messages to notify the source node of link failures or route breaks  .
+- AODV is the routing protocol used in Zigbee – a low power, low data rate wireless ad hoc network.
+- AODV has various implementations such as MAD-HOC, Kernel-AODV, AODV-UU, AODV-UCSB and AODV-UIUC.
+- AODV has some advantages such as low network overhead, loop-free routes, and quick adaptation to network changes .
+- AODV has some disadvantages such as high latency for route discovery, vulnerability to flooding attacks, and lack of scalability for large networks .

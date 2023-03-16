@@ -1,0 +1,7 @@
+### Ease of Designing and Affordability for the Notes of the Unit 1 - Internet of Things (IoT) in the Subject of Internet of Things
+
+1. **Ease of Designing**: When designing connected devices for IoT applications, services, and business processes, the designer considers the ease in designing the device's physical, data link, adaptation layers, and gateway.
+2. **Affordability**: IoT proves to be a valuable technology for many organizations and sectors. If organizations can develop and standardize certain aspects of the IoT architecture, they can tap into the full potential of their investments.
+3. **Usability**: A key feature of your IoT platform should be ease of use. It should be intuitive and easily accessible for both tech-savvy and not-so-technically sound workforce. The system must integrate with existing processes to provide maximum value.
+4. **Scalability**: The scalability of your custom IoT solutions is one thing to consider when choosing a partner. You should ask whether scaling up will require time-consuming configuration efforts or significant investments in new hardware.
+5. **Usability Design**: Careful usability design is an essential part of the overall design process of the objects if you want your product to reach its full potential, therefore it is essential to take into account all the usability principles, so the product can adapt to the skills of the users.

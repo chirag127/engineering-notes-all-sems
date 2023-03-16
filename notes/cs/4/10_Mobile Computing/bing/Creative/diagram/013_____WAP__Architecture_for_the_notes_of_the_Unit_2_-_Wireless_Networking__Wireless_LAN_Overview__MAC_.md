@@ -1,0 +1,17 @@
+### WAP: Architecture
+
+- WAP stands for Wireless Application Protocol. It is a specification for a set of communication protocols to standardize the way wireless devices, such as mobile phones and radio transceivers, can be used for internet access, including email, the web, newsgroups and instant messaging.
+- WAP is designed in a layered fashion, so that it can be extensible, flexible, and scalable. As a result, the WAP protocol stack is divided into five layers:
+  - Application Layer: This layer is of most interest to content developers because it contains among other things, device specifications, scripting languages, and an XML-based markup language called the Wireless Markup Language (WML), which is the successor to the Handheld Device Markup Language (HDML) as defined by Openwave Systems. The application layer also includes the Wireless Application Environment (WAE), which provides a framework for developing and delivering applications and services to wireless devices.
+  - Session Layer: This layer provides a reliable session service between applications, based on a request-response paradigm. The session layer uses the Wireless Session Protocol (WSP), which is a binary-encoded version of the HTTP protocol, optimized for low-bandwidth and high-latency networks.
+  - Transaction Layer: This layer provides a lightweight transaction service on top of the session layer, based on a two-phase commit protocol. The transaction layer uses the Wireless Transaction Protocol (WTP), which supports reliable and unreliable datagram service, and user datagram service.
+  - Security Layer: This layer provides data integrity and privacy services for the wireless network, based on encryption and authentication mechanisms. The security layer uses the Wireless Transport Layer Security (WTLS), which is a wireless-optimized version of the TLS protocol, derived from the SSL protocol.
+  - Transport Layer: This layer provides a datagram service and a connection-oriented service for the wireless network, based on the characteristics of the underlying bearer network. The transport layer uses the Wireless Datagram Protocol (WDP), which is an adaptation layer that allows WAP to operate over various types of wireless networks, such as GSM, CDMA, CDPD, SMS, and GPRS.
+- The WAP architecture also includes several components, each serving a specific function. These components include:
+  - WAP Client: This is the wireless device that runs a micro-browser and interacts with the WAP gateway. The WAP client supports the WAP protocol stack and the WAE components, such as WML, WMLScript, and WBMP.
+  - WAP Gateway: This is the intermediary between the wireless network and the internet. The WAP gateway performs several functions, such as protocol translation, content encoding and decoding, security services, and caching.
+  - WAP Server: This is the web server that hosts the WAP content and applications. The WAP server supports the WAP protocol stack and the WAE components, such as WML, WMLScript, and WBMP.
+  - WAP Proxy: This is an optional component that acts as a proxy between the WAP gateway and the WAP server. The WAP proxy can perform functions such as content filtering, adaptation, and compression.
+- The WAP architecture is illustrated in the following diagram:
+
+![WAP Architecture Diagram](https://www.educba.com/wp-content/uploads/2019/08/WAP-Architecture-1.png)

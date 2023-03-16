@@ -1,0 +1,24 @@
+## Downloading and installing Hadoop; Understanding different Hadoop modes. Startup scripts, Configuration files.
+
+- Hadoop is an open-source framework for distributed storage and processing of large-scale data using clusters of commodity hardware.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce.
+- Hadoop can run in different modes: standalone, pseudo-distributed, and fully distributed.
+- Standalone mode is the default mode of Hadoop, where it runs on a single machine without using HDFS or MapReduce. It is useful for testing and debugging purposes.
+- Pseudo-distributed mode is where Hadoop runs on a single machine, but simulates a cluster by using HDFS and MapReduce. It is useful for development and learning purposes.
+- Fully distributed mode is where Hadoop runs on a cluster of multiple machines, each running a Hadoop daemon. It is the mode used for production and performance purposes.
+- To download and install Hadoop on Ubuntu, follow these steps:
+  - Visit the official Apache Hadoop project page, and select the version of Hadoop you want to implement. The steps outlined in this tutorial use the Binary download for Hadoop Version 3.2.1.
+  - Use the provided mirror link and download the Hadoop package with the wget command: `wget https://downloads.apache.org/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz`
+  - Once the download is complete, extract the files to initiate the Hadoop installation: `tar xvf hadoop-3.2.1.tar.gz`
+  - Move the extracted files to the /usr/local directory: `sudo mv hadoop-3.2.1 /usr/local/hadoop`
+  - Set the JAVA_HOME environment variable in the /etc/environment file: `sudo nano /etc/environment` and add the following line: `JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"`
+  - Reload the environment variables: `source /etc/environment`
+  - Set the HADOOP_HOME and HADOOP_CONF_DIR environment variables in the ~/.bashrc file: `nano ~/.bashrc` and add the following lines: `export HADOOP_HOME="/usr/local/hadoop"` and `export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop`
+  - Reload the bashrc file: `source ~/.bashrc`
+  - Edit the core-site.xml file in the Hadoop configuration directory: `nano $HADOOP_CONF_DIR/core-site.xml` and add the following lines between the `<configuration>` tags: `<property>` `<name>fs.defaultFS</name>` `<value>hdfs://localhost:9000</value>` `</property>`
+  - Edit the hdfs-site.xml file in the Hadoop configuration directory: `nano $HADOOP_CONF_DIR/hdfs-site.xml` and add the following lines between the `<configuration>` tags: `<property>` `<name>dfs.replication</name>` `<value>1</value>` `</property>` `<property>` `<name>dfs.namenode.name.dir</name>` `<value>file:///home/hadoop/hadoopdata/hdfs/namenode</value>` `</property>` `<property>` `<name>dfs.datanode.data.dir</name>` `<value>file:///home/hadoop/hadoopdata/hdfs/datanode</value>` `</property>`
+  - Edit the mapred-site.xml file in the Hadoop configuration directory: `nano $HADOOP_CONF_DIR/mapred-site.xml` and add the following lines between the `<configuration>` tags: `<property>` `<name>mapreduce.framework.name</name>` `<value>yarn</value>` `</property>`
+  - Edit the yarn-site.xml file in the Hadoop configuration directory: `nano $HADOOP_CONF_DIR/yarn-site.xml` and add the following lines between the `<configuration>` tags: `<property>` `<name>yarn.nodemanager.aux-services</name>` `<value>mapreduce_shuffle</value>` `</property>` `<property>` `<name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name>` `<value>org.apache.hadoop.mapred.ShuffleHandler</value>` `</property>`
+  - Create the HDFS directories specified in the configuration files: `mkdir -p ~/hadoopdata/hdfs/namenode` and `mkdir -p ~/hadoopdata/hdfs/datanode`
+  - Format the HDFS namenode: `hdfs namenode -format`
+  - Start the H

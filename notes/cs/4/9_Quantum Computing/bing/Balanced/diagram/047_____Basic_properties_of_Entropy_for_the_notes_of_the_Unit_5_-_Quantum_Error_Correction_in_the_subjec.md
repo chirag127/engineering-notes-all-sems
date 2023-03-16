@@ -1,0 +1,9 @@
+### Basic properties of Entropy for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Entropy is a measure of the uncertainty, disorder, or randomness of a quantum system.
+- Entropy can be defined in different ways depending on the context, such as Shannon entropy, von Neumann entropy, conditional entropy, etc.
+- Entropy is related to the information content of a quantum system, and can be used to quantify the amount of compression, communication, or computation that can be performed with quantum states.
+- Entropy is also related to the thermodynamics of a quantum system, and can be used to describe the equilibrium, irreversibility, and heat exchange of quantum processes.
+- Entropy can be affected by the interaction of a quantum system with its environment, which can cause decoherence, noise, or errors. Quantum error correction is a technique to protect and restore the quantum information from such effects.
+- Entropy can be calculated from the density matrix of a quantum system, which is a mathematical representation of the quantum state and the probabilities of the possible outcomes of measurements. The density matrix can be different for the same state depending on the algebra of observables and the selection rules.
+- Entropy satisfies some basic mathematical properties, such as non-negativity, additivity, subadditivity, concavity, and continuity. These properties imply some physical consequences, such as the second law of thermodynamics, the data processing inequality, the strong subadditivity, and the asymptotic equipartition property.

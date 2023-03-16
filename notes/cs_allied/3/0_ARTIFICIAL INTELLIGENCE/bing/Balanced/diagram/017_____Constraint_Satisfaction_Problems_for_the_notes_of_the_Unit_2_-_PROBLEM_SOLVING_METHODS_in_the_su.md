@@ -1,0 +1,21 @@
+### Constraint Satisfaction Problems
+
+- Constraint satisfaction problems (CSPs) are a class of problems in artificial intelligence that involve finding a solution that satisfies a set of constraints on a set of variables.
+- A CSP can be represented by a triple (X, D, C), where :
+  - X is a set of variables {x1, x2, ..., xn}
+  - D is a set of domains {D1, D2, ..., Dn}, where Di is the set of possible values for variable xi
+  - C is a set of constraints that specify the allowed combinations of values for some subset of variables
+- A solution to a CSP is an assignment of values to all variables that satisfies all constraints.
+- Examples of CSPs include map coloring, sudoku, crossword puzzles, scheduling, and timetabling .
+- CSPs can be solved by using general-purpose search algorithms, such as backtracking search, or by using specialized techniques, such as constraint propagation and local search .
+- Backtracking search is a depth-first search that tries to assign values to variables one by one, and backtracks to the previous variable if a dead end is reached .
+- Constraint propagation is a technique that reduces the size of the domains by applying inference rules that exploit the constraints .
+- Forward checking is a form of constraint propagation that eliminates values from the domains of unassigned variables that are inconsistent with the current assignment .
+- Local search is a technique that starts with a complete but suboptimal assignment and tries to improve it by changing the values of some variables.
+- Heuristics can be used to guide the search process and improve the efficiency of solving CSPs .
+- Some common heuristics are :
+  - Minimum remaining values: choose the variable with the fewest legal values in its domain
+  - Degree heuristic: choose the variable that is involved in the most constraints with other unassigned variables
+  - Least constraining value: choose the value that rules out the fewest values in the domains of other unassigned variables
+- CSPs are a specialized class of identification problems, where the goal itself is important, not the path.
+- CSPs can be used to model and solve many real-world problems that require finding a consistent configuration of variables .

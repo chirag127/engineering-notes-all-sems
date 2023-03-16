@@ -1,0 +1,21 @@
+## Unit 10 - Replication
+
+- Replication is the process of creating and maintaining multiple copies of the same data on different database servers.
+- Replication provides benefits such as high availability, fault tolerance, load balancing, and scalability.
+- Replication can be classified into two types: synchronous and asynchronous.
+  - Synchronous replication ensures that all copies of the data are updated at the same time, but it may incur performance overhead and network latency.
+  - Asynchronous replication allows updates to be applied to different copies of the data at different times, but it may introduce data inconsistency and conflict resolution issues.
+- Replication can be implemented using different architectures, such as master-slave, peer-to-peer, multi-master, and hybrid.
+  - Master-slave replication involves one primary server (master) that receives all the updates and propagates them to one or more secondary servers (slaves) that are read-only.
+  - Peer-to-peer replication involves multiple servers that can receive and send updates to each other, and each server maintains a full copy of the data.
+  - Multi-master replication involves multiple servers that can receive and send updates to each other, but each server maintains only a partial copy of the data (a subset of tables or rows).
+  - Hybrid replication involves a combination of different replication architectures, such as master-slave and peer-to-peer, to achieve different objectives.
+- Replication can be configured using different parameters, such as replication scope, replication frequency, replication mode, replication filter, and conflict resolution.
+  - Replication scope defines what data is replicated, such as the entire database, a specific schema, a specific table, or a specific column.
+  - Replication frequency defines how often the data is replicated, such as continuously, periodically, or on demand.
+  - Replication mode defines how the data is replicated, such as full, incremental, or differential.
+    - Full replication copies the entire data set from the source to the destination.
+    - Incremental replication copies only the changes that have occurred since the last replication.
+    - Differential replication copies only the changes that have occurred since the last full replication.
+  - Replication filter defines what data is excluded from replication, such as certain rows, columns, or transactions.
+  - Conflict resolution defines how to handle data conflicts that may arise due to concurrent updates, such as using timestamps, version numbers, or custom logic.

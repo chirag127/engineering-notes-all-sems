@@ -1,0 +1,23 @@
+### Mathematics in India
+
+- Mathematics in India is the discipline of mathematics as it developed in the Indian subcontinent from ancient to modern times.
+- Indian mathematics is characterized by a blend of the familiar and the strange, as it incorporates elements from various cultural and religious traditions, such as Hinduism, Buddhism, Jainism, and Islam .
+- Indian mathematics made significant contributions to various fields of mathematics, such as arithmetic, algebra, geometry, trigonometry, combinatorics, calculus, and astronomy .
+- Some of the notable achievements of Indian mathematics are:
+  - The invention of the decimal place-value system and the use of zero as a number .
+  - The discovery of negative numbers, fractions, irrational numbers, and quadratic equations .
+  - The development of the concept of infinity and the notion of infinitesimals .
+  - The formulation of the sine, cosine, and tangent functions and their relations to the sides of a right triangle .
+  - The calculation of the value of pi and the approximation of square roots .
+  - The construction of geometric figures using a compass and a straightedge .
+  - The study of combinatorial problems, such as the enumeration of permutations and combinations, and the analysis of magic squares and chess problems .
+  - The invention of the concept of differential calculus and the application of integration to find the area and volume of curves and solids .
+  - The advancement of astronomical knowledge and the development of accurate calendars and methods of timekeeping .
+- Some of the prominent mathematicians of India are:
+  - Aryabhata (476-550 CE), who wrote the Aryabhatiya, a treatise on mathematics and astronomy, and introduced the concepts of zero, pi, and trigonometric functions .
+  - Brahmagupta (598-668 CE), who wrote the Brahmasphutasiddhanta, a work on arithmetic and algebra, and gave the rules for operating with zero, negative numbers, and fractions .
+  - Bhaskara II (1114-1185 CE), who wrote the Siddhanta Siromani, a comprehensive text on mathematics and astronomy, and gave the solutions to quadratic, cubic, and indeterminate equations, and the proof of the Pythagorean theorem .
+  - Varahamihira (505-587 CE), who wrote the Panchasiddhantika, a summary of five earlier astronomical treatises, and the Brihat Samhita, an encyclopedia of natural and human phenomena .
+  - Madhava of Sangamagrama (1350-1425 CE), who founded the Kerala school of mathematics and astronomy, and discovered the infinite series expansions for pi, sine, and cosine functions, and the principles of calculus .
+- Indian mathematics influenced the development of mathematics in other regions, such as China, the Middle East, and Europe, through trade, cultural exchange, and transmission of texts .
+- Indian mathematics is a rich and diverse tradition that reflects the history, culture, and philosophy of India, and has contributed to the advancement of human knowledge and civilization .

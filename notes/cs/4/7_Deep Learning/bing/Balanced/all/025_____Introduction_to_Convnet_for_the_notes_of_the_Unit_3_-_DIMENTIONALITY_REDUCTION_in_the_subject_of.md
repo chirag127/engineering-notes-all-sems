@@ -1,0 +1,8 @@
+# Introduction to Convolutional Neural Networks
+
+- A convolutional neural network (CNN) is a type of artificial neural network (ANN) that uses a mathematical operation called **convolution** in place of general matrix multiplication in at least one of its layers.
+- Convolution is a process of applying a filter (also called a kernel) to an input, such as an image, and producing an output, such as a feature map. The filter slides over the input and performs element-wise multiplication and summation to produce the output.
+- Convolution can help extract useful features from the input, such as edges, shapes, textures, etc. It can also reduce the dimensionality of the input and make the network more efficient and robust to noise and variations.
+- A CNN consists of an input layer, hidden layers and an output layer. The hidden layers can include convolutional layers, pooling layers, activation layers, dropout layers, batch normalization layers, etc. The output layer is usually a fully connected layer that performs the final classification or regression task .
+- A CNN is predominantly used for image recognition and processing tasks, such as face detection, object recognition, scene segmentation, etc. It can also be applied to other types of data, such as audio, text, or time series, as long as they can be represented as a grid of values.
+- A CNN is an extension of ANN and inherits some of its advantages and challenges, such as the ability to learn from data, the need for large amounts of labeled data, the risk of overfitting, the choice of hyperparameters, etc. However, a CNN also has some unique characteristics and benefits, such as the use of local connectivity, weight sharing, translation invariance, etc .

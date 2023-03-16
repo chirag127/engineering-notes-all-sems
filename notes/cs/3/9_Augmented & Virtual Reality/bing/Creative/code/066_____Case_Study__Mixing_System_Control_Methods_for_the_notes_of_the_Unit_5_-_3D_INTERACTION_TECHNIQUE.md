@@ -1,0 +1,12 @@
+### Case Study: Mixing System Control Methods for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- The case study is based on a 3D user interface (UI) for controlling a mixing system that simulates the mixing of fluids with different properties.
+- The mixing system consists of a cylindrical container with two inlets and one outlet, a rotating impeller, and a control panel with buttons and sliders.
+- The 3D UI allows the user to interact with the mixing system using a 6-DOF (degrees of freedom) input device, such as a 3D mouse or a tracked wand.
+- The 3D UI supports the following interaction techniques for the common tasks of selection, manipulation, navigation, and system control:
+  - Ray-casting: The user can point the input device at an object in the 3D scene and press a button to select it. This technique is used for selecting the inlets, the outlet, and the control panel buttons.
+  - Direct manipulation: The user can move the input device in 3D space to manipulate the selected object. This technique is used for adjusting the position and orientation of the inlets and the outlet, and for changing the impeller speed and the fluid properties using the control panel sliders.
+  - Exocentric navigation: The user can change the viewpoint of the 3D scene by moving the input device along the x, y, and z axes, and by rotating it around the x and y axes. This technique allows the user to explore the mixing system from different perspectives.
+  - Menu selection: The user can access a pop-up menu by pressing a button on the input device, and select an option by pointing at it with the input device. This technique is used for accessing system functions, such as resetting the simulation, changing the display mode, and quitting the application.
+- The 3D UI provides visual, auditory, and haptic feedback to the user, such as highlighting the selected object, playing a click sound when a button is pressed, and vibrating the input device when the impeller is rotating.
+- The 3D UI is designed to be intuitive, efficient, and engaging for the user, by leveraging the natural mapping between the input device and the 3D scene, and by providing realistic and interactive simulation of the mixing process.

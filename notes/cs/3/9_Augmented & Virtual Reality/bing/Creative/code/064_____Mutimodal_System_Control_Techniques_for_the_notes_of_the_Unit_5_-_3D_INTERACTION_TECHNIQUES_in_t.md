@@ -1,0 +1,15 @@
+### Multimodal System Control Techniques
+
+Multimodal system control techniques are methods of using multiple input channels (such as speech, gesture, eye gaze, etc.) to control the system or application in 3D interaction environments. These techniques can enhance the user experience and performance by allowing the user to choose the most natural and convenient input mode for different tasks or situations.
+
+Some of the advantages of using multimodal system control techniques are:
+
+- Decoupling: Using an input channel that differs from the main input channel used for interaction with the environment can decrease user cognitive load. For example, using speech to control the system while using hand gestures to manipulate objects in 3D space can reduce the need for switching between input devices or modes .
+- Error reduction and correction: The use of multiple input channels can be very effective when the input is ambiguous or noisy, especially with recognition-based input like speech or gestures. For example, using speech and gesture together can help resolve the ambiguity of homonyms or synonyms, or using eye gaze and speech can help correct the recognition errors of speech.
+- Expressiveness and efficiency: The use of multiple input channels can enable the user to express complex commands or queries more easily and efficiently than using a single input channel. For example, using speech and gesture together can allow the user to specify both the object and the action in a single utterance, such as "move this to there" while pointing at the object and the destination.
+- Adaptability and flexibility: The use of multiple input channels can provide the user with more options and flexibility to adapt to different contexts or preferences. For example, the user can choose the input channel that is more suitable for the current task, environment, or personal style, such as using speech when the hands are busy, using gesture when the speech is noisy, or using eye gaze when the user is tired or has a disability.
+
+Some of the challenges of using multimodal system control techniques are:
+
+- Design and implementation: The design and implementation of multimodal system control techniques require careful consideration of the compatibility, complementarity, and redundancy of the input channels, as well as the feedback, dialogue, and error handling mechanisms. The system should also be able to handle the synchronization, fusion, and interpretation of the multimodal input, as well as the adaptation and personalization of the multimodal output .
+- Evaluation and usability: The evaluation and usability of multimodal system control techniques require appropriate methods and metrics to measure the user performance, satisfaction, and preference, as well as the system accuracy, robustness, and efficiency. The evaluation should also take into account the trade-offs, costs, and benefits of using multiple input channels, as well as the individual and contextual factors that may affect the user behavior and experience .

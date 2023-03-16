@@ -1,0 +1,24 @@
+## Unit 3 - Structural Testing
+
+- Structural testing is a technique of testing software based on the internal structure or code of the software.
+- Structural testing is also known as white-box testing, glass-box testing, or logic-driven testing.
+- The main objective of structural testing is to verify the correctness and quality of the software code and to ensure that the code meets the design specifications and requirements.
+- Structural testing can be applied at different levels of testing, such as unit testing, integration testing, system testing, and regression testing.
+- Structural testing can be performed manually or with the help of automated tools that can generate test cases, execute them, and measure the code coverage.
+- The benefits of structural testing are:
+  - It can detect errors and defects that are not visible at the functional level.
+  - It can improve the maintainability, reliability, and performance of the software.
+  - It can facilitate debugging and fault localization.
+  - It can ensure compliance with coding standards and best practices.
+- The challenges of structural testing are:
+  - It requires access to the source code and detailed knowledge of the software architecture and logic.
+  - It can be time-consuming and costly to design and execute a large number of test cases.
+  - It can be difficult to achieve complete code coverage and to measure it accurately.
+  - It can be affected by code changes and modifications.
+- The main types of structural testing are:
+  - Statement coverage: It measures the percentage of executable statements in the code that are executed by the test cases.
+  - Branch coverage: It measures the percentage of decision outcomes or branches in the code that are executed by the test cases.
+  - Condition coverage: It measures the percentage of logical conditions or expressions in the code that are evaluated to both true and false by the test cases.
+  - Path coverage: It measures the percentage of independent paths or sequences of statements and branches in the code that are executed by the test cases.
+  - Data flow coverage: It measures the percentage of data flow relations or dependencies between variables and statements in the code that are exercised by the test cases.
+  - Mutation coverage: It measures the percentage of mutants or modified versions of the code that are detected or killed by the test cases.

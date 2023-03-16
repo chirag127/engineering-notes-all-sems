@@ -1,0 +1,7 @@
+# Speech Distortion Measures
+
+- Speech distortion measures are quantitative methods to evaluate the quality and intelligibility of speech signals that have been degraded by noise, hearing loss, or processing techniques.
+- Speech distortion measures can be classified into two categories: signal-based and perception-based.
+- Signal-based measures compare the original and distorted speech signals in terms of their spectral, temporal, or cepstral features, and compute a numerical score that reflects the degree of distortion. Examples of signal-based measures are mean squared error (MSE), log spectral distance (LSD), Itakura-Saito (IS) distance, and segmental signal-to-noise ratio (SNR).
+- Perception-based measures estimate the subjective perception of speech quality or intelligibility by human listeners, and correlate the numerical scores with the results of listening tests. Examples of perception-based measures are perceptual evaluation of speech quality (PESQ), perceptual evaluation of speech intelligibility (PESI), and speech transmission index (STI).
+- Speech distortion measures can be used for various applications, such as evaluating the performance of speech enhancement, speech coding, speech recognition, or hearing aid algorithms, or diagnosing the speech impairments caused by hearing loss, articulation disorders, or phonological disorders.

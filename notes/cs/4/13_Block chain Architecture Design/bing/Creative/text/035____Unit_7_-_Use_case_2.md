@@ -1,0 +1,21 @@
+## Unit 7 - Use case 2
+
+- Use case 2 is about designing and implementing a chatbot that can answer questions about a company's products and services.
+- The chatbot should be able to:
+  - Greet the user and introduce itself as the company's chatbot.
+  - Ask the user for their name and use it in the conversation.
+  - Identify the user's intent and provide relevant information or suggestions.
+  - Handle multiple intents and follow-up questions.
+  - Handle chit-chat and off-topic questions gracefully.
+  - Apologize and redirect the user to a human agent if the chatbot cannot answer the question or fulfill the request.
+  - Thank the user and ask for feedback at the end of the conversation.
+- The chatbot should use natural language processing (NLP) techniques such as:
+  - Intent classification: to determine the user's goal or purpose of the message.
+  - Entity extraction: to identify and extract important information from the user's message, such as product names, features, preferences, etc.
+  - Dialog management: to maintain the context and flow of the conversation, and to generate appropriate responses based on the user's intent and entities.
+  - Natural language generation (NLG): to produce natural and coherent responses that match the tone and style of the company and the chatbot.
+- The chatbot should be trained and tested on a large and diverse dataset of user messages and chatbot responses, covering various scenarios and use cases.
+- The chatbot should be evaluated and improved based on metrics such as:
+  - Accuracy: the percentage of user messages that the chatbot correctly identifies the intent and entities, and provides the correct information or suggestion.
+  - User satisfaction: the degree to which the user is satisfied with the chatbot's performance, based on feedback surveys, ratings, reviews, etc.
+  - Engagement: the degree to which the user is interested and involved in the conversation with the chatbot, based on metrics such as number of messages, duration of conversation, retention rate, etc.

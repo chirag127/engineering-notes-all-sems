@@ -1,0 +1,25 @@
+### Chemistry in India
+
+- Chemistry is the science of matter and its interactions with energy and other matter.
+- Chemistry in India has a long and rich history, dating back to the ancient times.
+- Some of the earliest contributions of Indian chemistry include:
+  - The concept of five elements (panchabhuta) as the basis of all matter, which influenced the development of Ayurveda, metallurgy, alchemy and cosmology.
+  - The discovery and use of various metals, alloys, minerals, dyes, paints, perfumes, cosmetics, drugs, explosives, fertilizers and other substances for various purposes.
+  - The development of various techniques and instruments for chemical analysis, synthesis, purification, distillation, extraction, calcination, sublimation, fermentation, etc.
+  - The formulation of various theories and principles of chemistry, such as atomic theory, acid-base theory, chemical bonding, chemical equilibrium, chemical kinetics, etc.
+- Some of the notable Indian chemists and their works include:
+  - Kanada (6th century BCE), who proposed the atomic theory of matter and described the properties and types of atoms and molecules.
+  - Nagarjuna (2nd century CE), who wrote the Rasaratnakara, a treatise on alchemy, metallurgy and medicine, and invented various processes such as cinnabar into mercury, zinc from calamine, etc.
+  - Charaka (3rd century CE), who wrote the Charaka Samhita, a compendium of Ayurvedic medicine, and classified drugs into four categories based on their origin, properties, actions and effects.
+  - Sushruta (4th century CE), who wrote the Sushruta Samhita, a treatise on surgery and medicine, and described various surgical instruments, procedures, anaesthetics, antiseptics, etc.
+  - Aryabhata (5th century CE), who wrote the Aryabhatiya, a mathematical and astronomical treatise, and calculated the value of pi, the circumference of the earth, the length of the year, etc.
+  - Varahamihira (6th century CE), who wrote the Brihat Samhita, an encyclopaedia of natural and human sciences, and described various phenomena such as eclipses, rainfall, earthquakes, etc.
+  - Brahmagupta (7th century CE), who wrote the Brahmasphutasiddhanta, a mathematical and astronomical treatise, and introduced the concept of zero, negative numbers, algebra, etc.
+  - Bhaskara II (12th century CE), who wrote the Siddhanta Shiromani, a mathematical and astronomical treatise, and developed the concepts of differential calculus, trigonometry, etc.
+  - Nagarjuna Siddha (13th century CE), who wrote the Rasendramangalam, a treatise on alchemy and medicine, and discovered various methods of preparing mercury compounds, elixirs, etc.
+  - Acharya Hemachandra (13th century CE), who wrote the Yogashastra, a treatise on Jain philosophy and mathematics, and developed the concept of Fibonacci numbers, combinatorics, etc.
+  - Madhava of Sangamagrama (14th century CE), who wrote the Yuktibhasha, a treatise on mathematics and astronomy, and developed the concepts of infinite series, calculus, etc.
+  - Nilakantha Somayaji (15th century CE), who wrote the Tantrasangraha, a treatise on mathematics and astronomy, and improved the heliocentric model of the solar system, etc.
+  - Jyesthadeva (16th century CE), who wrote the Yuktibhasha, a commentary on the Tantrasangraha, and explained the concepts of calculus, trigonometry, etc. in detail.
+  - Sawai Jai Singh II (18th century CE), who built the Jantar Mantar, a collection of astronomical instruments, and made accurate observations and measurements of celestial bodies, etc.
+  - Prafulla Chandra Ray (19th-20th century CE), who is considered the father of modern Indian chemistry, and founded the Bengal Chemicals and Pharmaceuticals, the first Indian pharmaceutical company, and wrote the History of Hindu Chemistry, a comprehensive account of the ancient and medieval Indian chemistry.

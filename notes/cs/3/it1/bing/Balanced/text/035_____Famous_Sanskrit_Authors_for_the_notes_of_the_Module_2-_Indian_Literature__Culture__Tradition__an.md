@@ -1,0 +1,27 @@
+### Famous Sanskrit Authors
+
+- Sanskrit is one of the oldest and most influential languages of India, and the medium of many literary works of ancient and medieval times.
+- Sanskrit literature can be broadly divided into three periods: Vedic, Classical and Post-Classical.
+- Vedic literature consists of the four Vedas (Rigveda, Samaveda, Yajurveda and Atharvaveda), which are the oldest and most sacred texts of Hinduism, and their associated commentaries and appendices (Brahmanas, Aranyakas, Upanishads, Sutras, etc.).
+- Some of the famous Vedic authors are:
+  - Yaska, who wrote the Nirukta, a treatise on etymology and semantics.
+  - Panini, who wrote the Ashtadhyayi, a comprehensive grammar of Sanskrit that is considered the foundation of linguistics.
+  - Katyayana, who wrote the Varttika, a commentary and supplement to the Ashtadhyayi.
+  - Patanjali, who wrote the Mahabhashya, a detailed exposition and analysis of the Ashtadhyayi and the Varttika.
+- Classical literature consists of the works of poetry, drama, prose, grammar, philosophy, aesthetics, etc. that were composed from the 3rd century BCE to the 10th century CE, following the rules and conventions laid down by the Natyashastra, a treatise on dramaturgy and poetics attributed to Bharata Muni.
+- Some of the famous Classical authors are:
+  - Kalidasa, who is regarded as the greatest poet and playwright of Sanskrit literature, and the author of the epics Raghuvamsa and Kumarasambhava, the plays Abhijnanasakuntalam, Vikramorvasiyam and Malavikagnimitram, and the lyric poems Meghaduta and Ritusamhara.
+  - Bhasa, who is considered to be one of the earliest Sanskrit dramatists, and the author of thirteen plays, including Svapnavasavadatta, Pratijnayaugandharayana and Urubhanga.
+  - Asvaghosa, who is regarded as the first Sanskrit kavya (poetic) writer, and the author of the Buddhacarita, a biography of the Buddha, and the Saundarananda, a poem on the conversion of the Buddha's half-brother Nanda.
+  - Bharavi, who wrote the Kiratarjuniya, an epic poem on the encounter between Arjuna and Shiva in the Mahabharata.
+  - Magha, who wrote the Sisupalavadha, an epic poem on the slaying of Sisupala by Krishna in the Mahabharata.
+  - Harsha, who wrote the Naisadhacarita, an epic poem on the love story of Nala and Damayanti in the Mahabharata.
+  - Banabhatta, who wrote the Kadambari and the Harshacarita, two of the earliest and most celebrated examples of Sanskrit prose fiction.
+  - Dandin, who wrote the Dasakumaracarita, a collection of stories about ten princes, and the Kavyadarsa, a manual of poetics.
+  - Bhartrihari, who wrote the Satakatraya, a collection of three hundred verses on love, renunciation and wisdom.
+  - Jayadeva, who wrote the Gita Govinda, a lyrical poem on the love of Krishna and Radha.
+- Post-Classical literature consists of the works of poetry, drama, prose, grammar, philosophy, aesthetics, etc. that were composed from the 11th century CE onwards, following the revival and innovation of Sanskrit literature by the Kashmiri school of poets and critics.
+- Some of the famous Post-Classical authors are:
+  - Abhinavagupta, who was a polymath and a master of various disciplines, and the author of the Abhinavabharati, a commentary on the Natyashastra, and the Tantraloka, a compendium of Tantric philosophy and practice.
+  - Anandavardhana, who was a pioneer of the theory of rasa (aesthetic emotion) and dhvani (suggestion), and the author of the Dhvanyaloka, a treatise on poetics.
+  - Mammata, who wrote the Kavyaprakasa,

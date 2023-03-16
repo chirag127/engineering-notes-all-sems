@@ -1,0 +1,7 @@
+### Smart Cards for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+Smart cards are used in a wide range of industries worldwide to support access, identity, payment, and other applications. They provide ways to securely identify and authenticate the holder and third parties who want access to the card. For example, a cardholder can use a PIN code or biometric data for authentication. They also provide a way to securely store data on the card and protect communications with encryption.
+
+In the context of IoT, smart cards can be used to authenticate IoT device users and administrators. Enhanced smart chips or secure elements can be embedded into the IoT device to authenticate devices and applications just like smart cards are used to authenticate people.
+
+IoT SIM cards, also known as M2M SIM cards, are used to connect modern smart objects or devices (like cameras or drones, or other machines) and also connect to cloud services. Unlike regular SIM cards, which are connected to only one network provider, IoT SIM cards connect with multiple such providers. They can be used in so many lifestyle and healthcare applications and devices such as smartwatches, fitness trackers, healthcare monitors, and so many others. Such devices can significantly improve the standard of living in multiple ways.

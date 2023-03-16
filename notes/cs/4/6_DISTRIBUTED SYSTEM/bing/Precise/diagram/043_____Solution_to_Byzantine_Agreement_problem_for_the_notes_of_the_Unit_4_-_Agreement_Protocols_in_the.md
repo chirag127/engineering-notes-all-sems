@@ -1,0 +1,5 @@
+### Solution to Byzantine Agreement problem
+
+The Byzantine Agreement problem was first defined by Lamport, who also provided the first solution under the situation of processor failure . To solve the Byzantine Generals problem, loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination) . The solution to the Byzantine Generals Problem involves some hashing, heavy computing work, and communication between all of the nodes (generals) to verify the message .
+
+According to the concept of Byzantine agreement problem, a source processor is taken to broadcast its initial value to another processor in the system . While actually solving the Byzantine Generals Problem is quite complex, we now understand the fundamental challenge .

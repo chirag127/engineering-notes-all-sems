@@ -1,0 +1,12 @@
+### Textile Technology in India
+
+- Textile technology is the application of scientific and engineering principles to the design, production, and processing of textile materials and products.
+- Textile technology is one of the oldest and most important industries in India, contributing to 7% of the industrial output, 2% of the GDP, and 15% of the export earnings.
+- Textile technology in India can be broadly classified into two categories: conventional textiles and technical textiles.
+- Conventional textiles are those that are used for clothing, home furnishings, and other traditional applications. Technical textiles are those that are used for their technical performance and functional properties, such as protection, filtration, reinforcement, etc.
+- Technical textiles have a huge scope in India and are in the sunrise sector. India accounts for 3% of the world's technical textile production, producing roughly 90,000 MT of technical textiles.
+- Some of the major segments of technical textiles in India are agro-textiles, geo-textiles, medical textiles, protective textiles, sports textiles, etc.
+- Textile technology in India has undergone significant changes and innovations in the past few decades, with the introduction of new fibres, fabrics, processes, and products.
+- Some of the key drivers of textile technology in India are the growing domestic and global demand, the availability of raw materials and skilled labour, the government policies and incentives, the research and development initiatives, and the adoption of sustainable and eco-friendly practices.
+- Some of the challenges faced by textile technology in India are the high cost of production and raw materials, the lack of infrastructure and quality standards, the competition from other countries, the environmental and social issues, and the need for upgradation and modernization of the industry.
+- Some of the opportunities for textile technology in India are the increasing penetration of technical textiles in various sectors, the development of new and niche markets, the integration of smart and functional textiles, the collaboration and partnership with global players, and the promotion of innovation and entrepreneurship.

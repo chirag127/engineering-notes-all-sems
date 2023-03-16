@@ -1,0 +1,11 @@
+## Unit 2 - Hardware Technologies for 3D User Interfaces
+
+- Hardware technologies for 3D user interfaces are the devices and systems that enable the communication between a user (or users) and a 3D system. They can be classified into input and output devices, depending on their function and direction of information flow.
+- Input devices allow the user to provide information, commands, requests, questions, intent, and goals to the system. They can capture the user's position, orientation, motion, gestures, voice, eye gaze, and physiological signals, among others. Examples of input devices are keyboards, mice, joysticks, trackers, gloves, cameras, microphones, and sensors.
+- Output devices allow the system to provide information, feedback, guidance, instructions, and responses to the user. They can stimulate the user's visual, auditory, haptic, or olfactory senses, among others. Examples of output devices are monitors, projectors, speakers, headphones, haptic devices, and smell generators.
+- Hardware technologies for 3D user interfaces should be designed and evaluated according to several criteria, such as accuracy, resolution, latency, bandwidth, reliability, cost, usability, ergonomics, and aesthetics. They should also be compatible and interoperable with the software and hardware components of the 3D system.
+- Hardware technologies for 3D user interfaces are constantly evolving and improving, as new devices and techniques are developed and tested. Some of the current trends and challenges in this field are: 
+  - Developing more immersive, realistic, and natural output devices, such as head-mounted displays, 3D audio systems, and wearable haptic devices.
+  - Developing more intuitive, expressive, and multimodal input devices, such as gesture recognition, speech recognition, and eye tracking.
+  - Developing more portable, wireless, and low-power devices, such as mobile and wearable devices, that can support 3D user interfaces in various contexts and environments.
+  - Developing more collaborative, social, and interactive devices, such as shared displays, telepresence systems, and virtual and augmented reality systems, that can support 3D user interfaces for multiple users and applications.

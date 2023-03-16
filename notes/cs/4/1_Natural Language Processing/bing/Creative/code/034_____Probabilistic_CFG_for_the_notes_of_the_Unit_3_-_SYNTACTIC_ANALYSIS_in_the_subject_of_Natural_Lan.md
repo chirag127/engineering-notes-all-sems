@@ -1,0 +1,22 @@
+### Probabilistic CFG
+
+- A probabilistic context-free grammar (PCFG) is a context-free grammar that assigns probabilities to each of its production rules .
+- The probabilities of the rules are estimated from a corpus of sentences and their parse trees, called a treebank .
+- The probability of a parse tree given a PCFG is the product of the probabilities of the rules used to derive the tree .
+- PCFGs can be used to model natural languages and perform syntactic analysis, such as parsing and generation .
+- PCFGs can also capture some aspects of semantics and pragmatics, such as word sense disambiguation and anaphora resolution .
+- PCFGs have some advantages over standard CFGs, such as:
+  - They can rank the possible parse trees for a sentence according to their probabilities, and select the most likely one as the best parse .
+  - They can handle ambiguity and noise in natural language better than deterministic parsers .
+  - They can incorporate lexical information and statistical features into the grammar rules, and learn from data .
+- PCFGs have some limitations, such as:
+  - They assume independence among the rules, which may not hold in natural language .
+  - They may overgenerate or undergenerate some structures that are valid or invalid in natural language .
+  - They may not capture long-distance dependencies or non-local context that are important for natural language understanding .
+- PCFGs can be extended or modified to overcome some of these limitations, such as:
+  - Using lexicalized PCFGs, which include the head words of the phrases in the rules .
+  - Using probabilistic lexicalized dependency grammars, which model the dependencies between words rather than the phrase structure .
+  - Using latent variable PCFGs, which introduce hidden variables to capture more fine-grained syntactic categories .
+  - Using hierarchical PCFGs, which allow rules to have more than two nonterminals on the right-hand side .
+- PCFGs can be parsed using algorithms such as the CKY algorithm, which is a bottom-up dynamic programming algorithm that finds all possible parse trees for a sentence under a PCFG in Chomsky Normal Form (CNF) .
+- PCFGs can be generated using algorithms such as the inverse CKY algorithm, which is a top-down stochastic algorithm that generates a sentence from a PCFG in CNF by sampling rules according to their probabilities .

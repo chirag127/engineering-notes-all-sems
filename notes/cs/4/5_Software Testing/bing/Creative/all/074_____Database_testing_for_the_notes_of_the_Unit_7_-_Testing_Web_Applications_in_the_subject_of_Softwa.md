@@ -1,0 +1,22 @@
+# Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Database testing is a type of software testing that checks the schema, tables, triggers, etc. of the database under test.
+- Database testing also checks data integrity and consistency, which means that the data is accurate, complete, and reliable.
+- Database testing is important for web applications because it protects the web app from vulnerabilities like data loss, saves aborted transaction data, and prevents unauthorized access to information.
+- Database testing involves creating complex queries to load/stress test the database and check its responsiveness.
+- Database testing also involves checking the data manipulation operations such as insert, update, delete, and retrieve.
+- Database testing can be done using various tools such as MS-Access, MS SQL Server, SQL Server, Oracle, Oracle Financial, MySQL, PostgreSQL, DB2, Toad, Admirer, etc.
+- Database testing can be performed at different levels such as unit testing, integration testing, system testing, and acceptance testing.
+- Database testing can be done using different techniques such as black-box testing, white-box testing, gray-box testing, and exploratory testing.
+- Database testing can be done using different methods such as structural testing, functional testing, non-functional testing, and regression testing.
+- Database testing can be done using different strategies such as top-down, bottom-up, sandwich, and hybrid.
+- Database testing can be done using different types of test cases such as positive test cases, negative test cases, boundary test cases, and equivalence test cases.
+- Database testing can be done using different types of test data such as valid data, invalid data, null data, and random data.
+- Database testing can be done using different types of test scenarios such as normal scenarios, abnormal scenarios, error scenarios, and exception scenarios.
+- Database testing can be done using different types of test scripts such as manual test scripts, automated test scripts, and hybrid test scripts.
+- Database testing can be done using different types of test reports such as summary reports, detailed reports, and graphical reports.
+- Database testing can be done using different types of test metrics such as defect density, defect severity, defect priority, defect resolution time, defect removal efficiency, test coverage, test effectiveness, and test efficiency.
+- Database testing can be done using different types of test tools such as test management tools, test design tools, test execution tools, test data generation tools, test data comparison tools, test data validation tools, and test data migration tools.
+- Database testing can be done using different types of test environments such as development environment, testing environment, staging environment, and production environment.
+- Database testing can be done using different types of test standards such as IEEE, ISO, CMMI, and ISTQB.
+- Database testing can be done using different types of test best practices such as planning, designing, executing, reporting, and improving.

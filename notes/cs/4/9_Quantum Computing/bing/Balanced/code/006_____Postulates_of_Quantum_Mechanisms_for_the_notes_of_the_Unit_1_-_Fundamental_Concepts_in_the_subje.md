@@ -1,0 +1,13 @@
+### Postulates of Quantum Mechanics
+
+Quantum mechanics is the branch of physics that describes the behavior of matter and energy at the atomic and subatomic scales. Quantum mechanics is based on a set of postulates, or fundamental assumptions, that are not derived from any other principles but are consistent with experimental observations. The postulates of quantum mechanics are:
+
+- **Postulate 1**: The state of a quantum mechanical system is completely specified by a wave function, which is a mathematical function that depends on the coordinates and time of the system. The wave function contains all the information that can be known about the system, and its square modulus gives the probability density of finding the system in a given region of space and time.
+
+- **Postulate 2**: To every physical observable, such as position, momentum, energy, angular momentum, etc., there corresponds a linear, Hermitian operator, which is a mathematical operation that acts on the wave function and returns another wave function. The eigenvalues of the operator are the possible outcomes of measuring the observable, and the eigenvectors of the operator are the corresponding states of the system.
+
+- **Postulate 3**: The outcome of measuring an observable on a system is unpredictable, but follows a probabilistic distribution. The probability of obtaining a particular eigenvalue is given by the square of the inner product of the wave function and the corresponding eigenvector. The measurement process collapses the wave function to the eigenvector associated with the observed eigenvalue, and the system is left in a definite state.
+
+- **Postulate 4**: The time evolution of a quantum mechanical system is governed by the Schrödinger equation, which is a partial differential equation that relates the wave function at different times. The Schrödinger equation is derived from the principle of least action, and preserves the normalization and linearity of the wave function.
+
+These postulates form the basis of quantum mechanics, and can be used to derive various theorems and applications, such as the uncertainty principle, the superposition principle, the tunneling effect, the quantum harmonic oscillator, the hydrogen atom, etc. The postulates of quantum mechanics are also compatible with the principles of special relativity, and can be generalized to relativistic quantum mechanics and quantum field theory.

@@ -1,0 +1,21 @@
+# Puppetry
+
+Puppetry is an ancient art form that involves storytelling through manipulating puppets. Puppets are figures that resemble humans, animals, or mythical creatures, and are animated by strings, rods, wires, or hands. Puppetry is a form of performing arts that reflects the cultural heritage and diversity of India.
+
+## Types of Puppetry in India
+
+There are four main types of puppetry in India, based on the way the puppets are manipulated. They are:
+
+- **String puppets**: These are puppets that are controlled by strings attached to their limbs and head. The strings are held by the puppeteer, who can make the puppets move and gesture. String puppets are also known as marionettes or kathputli. They are the most popular and widespread form of puppetry in India, and are found in states like Rajasthan, Orissa, Karnataka, Tamil Nadu, and Maharashtra. String puppets are usually made of wood, cloth, or leather, and are decorated with bright colors and costumes. They can perform complex movements and acrobatic feats, and are used to enact stories from epics, legends, and folk tales. Some examples of string puppets are Rajasthani kathputli, Orissa's kundhei, Karnataka's gombeyatta, Tamil Nadu's bommalattam, and Maharashtra's kalasutri bommalu.
+
+- **Rod puppets**: These are puppets that are controlled by rods attached to their limbs and head. The rods are held by the puppeteer, who can make the puppets move and gesture. Rod puppets are also known as stick puppets or danda kathputli. They are found in states like West Bengal, Bihar, and Assam. Rod puppets are usually made of wood, cloth, or paper, and are decorated with bright colors and costumes. They can perform simple movements and expressions, and are used to enact stories from epics, legends, and folk tales. Some examples of rod puppets are West Bengal's putul nautch, Bihar's yampuri, and Assam's putala nach.
+
+- **Shadow puppets**: These are puppets that are made of translucent or opaque materials, and are projected on a screen by a light source. The puppeteer manipulates the puppets behind the screen, and creates shadows that are visible to the audience. Shadow puppets are also known as chhaya kathputli or tolubommalata. They are found in states like Kerala, Karnataka, Andhra Pradesh, Maharashtra, and Tamil Nadu. Shadow puppets are usually made of leather, paper, or cloth, and are cut into various shapes and sizes. They are painted with bright colors and designs, and are used to enact stories from epics, legends, and folk tales. Some examples of shadow puppets are Kerala's tholpavakoothu, Karnataka's togalu gombeyatta, Andhra Pradesh's tholu bommalata, Maharashtra's chamadyache bahulya, and Tamil Nadu's thol bommalattam.
+
+- **Glove puppets**: These are puppets that are worn on the hands of the puppeteer, who can make the puppets move and gesture. Glove puppets are also known as hand puppets or hasth kathputli. They are found in states like Uttar Pradesh, West Bengal, Orissa, and Kerala. Glove puppets are usually made of cloth, leather, or paper, and are decorated with bright colors and costumes. They can perform simple movements and expressions, and are used to enact stories from epics, legends, and folk tales. Some examples of glove puppets are Uttar Pradesh's pavakathakali, West Bengal's benir putul, Orissa's gopalila kundhei, and Kerala's pavakoothu.
+
+## Origin and Salient Features of Puppetry in India
+
+Puppetry in India dates back to thousands of years, and has references in ancient texts, folk tales, ballads, and songs. Puppetry in India is influenced by various factors, such as religion, mythology, history, geography, and socio-cultural aspects. Some of the salient features of puppetry in India are:
+
+- Puppetry in India is a family business, and the skills and knowledge are passed on from generation to generation. The puppeteers are also known as sutradhars, which means string bearers or narrators. The puppeteers not only make and operate the puppets, but also memorize the texts and songs. The puppeteers also have a close relationship

@@ -1,0 +1,10 @@
+### Tailoring Software Quality Assurance Program by Reviews
+
+- Software quality assurance (SQA) is the process of ensuring that software products meet the specified requirements and standards of quality, reliability, usability, and security.
+- SQA involves planning, implementing, monitoring, and improving the software development and testing processes, as well as verifying and validating the software products and deliverables.
+- SQA can be tailored to suit the specific needs and characteristics of each software project, depending on factors such as the size, complexity, scope, domain, methodology, and risks of the project.
+- One of the ways to tailor SQA is by conducting reviews at different stages of the software development life cycle (SDLC), such as requirements review, design review, code review, test review, and release review.
+- Reviews are formal or informal evaluations of software artifacts, such as documents, models, code, test cases, and reports, by a group of qualified reviewers, who identify and report any defects, issues, or improvement opportunities.
+- Reviews can help to improve the quality of software products by detecting and correcting defects early, preventing defects from propagating to later stages, reducing rework and cost, enhancing communication and collaboration, and ensuring compliance with standards and best practices.
+- Reviews can also help to monitor and measure the effectiveness and efficiency of the SQA program, by providing feedback, metrics, and lessons learned, and by identifying any gaps, risks, or areas for improvement in the SQA processes and activities.
+- Reviews can be tailored to the specific objectives, scope, criteria, and methods of each software project, depending on the type, level, and purpose of the review, the roles and responsibilities of the reviewers, the review process and procedures, the review tools and techniques, and the review outcomes and outputs.

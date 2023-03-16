@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on Sangama Literature for the Module 2- Indian Literature, Culture, Tradition, and Practices in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY.
+
+### Sangama Literature
+
+- Sangama Literature is the oldest literature to have been composed in the Tamilakam, the region of South India that includes the modern states of Tamil Nadu and Kerala .
+- The word Sangam refers to college, and the commentary of Iraiyanar Agapporul (c. AD 750) alludes to three Sangams that lasted at long intervals over 9900 years. These were at Then Madurai, Kapalapuram and Madurai respectively.
+- The Sangam literature had fallen into oblivion for much of the second millennium of the common era, but were preserved by and rediscovered in the monasteries of Hinduism, particularly those related to Shaivism near Kumbakonam, by colonial-era scholars in the late nineteenth century.
+- The Sangam literature is divided into two main groups: Patinenmelkanakku (the Eighteen Greater Texts) and Patinenkilkanakku (the Eighteen Lesser Texts). The former consists of eight anthologies of poems (Ettuthokai) and ten long poems (Pattuppattu), while the latter consists of eighteen works of various genres, such as grammar, rhetoric, ethics, medicine, etc.
+- The Sangam writings are possibly unique in early Indian literature, which is almost entirely religious. The poems are concerned with two main topics: those of the first five collections are on love (akam), and those of the next two are on heroism (puram), including the praise of kings and their deeds.
+- The Sangam literature reflects the social, political, economic, religious and cultural aspects of the ancient Tamil society. It also provides valuable information on the geography, flora, fauna, climate, trade, warfare, art, music, etc. of the Tamilakam.
+- The Sangam literature is considered to be the source of the Tamil language and culture, and has influenced many later works of Tamil literature, such as the Silappatikaram, the Manimekalai, the Tirukkural, etc.

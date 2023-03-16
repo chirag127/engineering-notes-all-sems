@@ -1,0 +1,13 @@
+### Language Models
+
+A language model is an artificial intelligence system that has been trained to predict the next word or words in a text based on the preceding words. It is part of the technology that predicts the next word you want to type on your mobile phone, allowing you to complete the message faster.
+
+Some of the topics covered in this unit are:
+
+- The unigram language model: This is the simplest type of language model, which assumes that each word in a text is independent of the others. It assigns a probability to each word based on its frequency in the training data. For example, the probability of the word "the" is high, while the probability of the word "zebra" is low.
+- The n-gram language model: This is a more sophisticated type of language model, which considers the context of the previous n-1 words when predicting the next word. For example, a bigram model (n=2) would use the previous word to predict the next word, while a trigram model (n=3) would use the previous two words. The n-gram model assigns a probability to each word based on its frequency in the training data, as well as the frequency of the preceding n-1 words.
+- Exponential language models: These are language models that use a weighted combination of different features, such as word frequency, part-of-speech tags, semantic classes, etc. to predict the next word. They are more flexible and expressive than n-gram models, but also more complex and computationally expensive.
+- Neural network language models: These are language models that use artificial neural networks, such as recurrent neural networks (RNNs) or transformers, to learn the patterns and dependencies in the text data. They can capture long-range and non-linear relationships between words, and generate more natural and coherent texts than n-gram models. However, they also require a large amount of data and computational resources to train and run .
+- Uses for language models: Language models have many applications in natural language processing, such as speech recognition, machine translation, text summarization, text generation, question answering, sentiment analysis, etc. They can also be used for other domains, such as computer vision, where they can help to generate captions or descriptions for images or videos  .
+
+- Summary: Language models are artificial intelligence systems that can predict the next word or words in a text based on the preceding words. They can be classified into different types, such as unigram, n-gram, exponential, or neural network models, depending on the assumptions and methods they use. They have many applications in natural language processing and other domains, where they can help to understand, generate, or manipulate natural language texts .

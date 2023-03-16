@@ -1,0 +1,9 @@
+### Environments and Tools for Cluster Computing
+
+- Cluster computing is a form of high performance distributed computing (HPDC) that involves a set of loosely or tightly connected computers that work together to solve computationally intensive applications across networks of computers.
+- Cluster computing environments can be classified into different types based on the hardware, software, and network architectures, such as homogeneous or heterogeneous, dedicated or non-dedicated, symmetric or asymmetric, and LAN or WAN clusters.
+- Cluster computing environments require various tools and components to enable the efficient and effective execution and management of cluster applications, such as:
+  - Cluster management tools: These are tools that orchestrate the compute nodes in a cluster, such as creating, scaling, monitoring, and deleting clusters. Some examples of cluster management tools are Managed Instance Groups, Kubernetes, Apache Mesos, and Docker Swarm .
+  - DevOps tools: These are tools that provision and build clusters, such as automating the deployment, configuration, and testing of cluster applications. Some examples of DevOps tools are Terraform, Ansible, Chef, and Puppet .
+  - End-user applications: These are tools that execute computations and view and analyze output, such as running parallel or distributed algorithms, simulations, or models on cluster nodes. Some examples of end-user applications are OpenFOAM, GROMACS, WRF, and Jupyter Notebooks .
+- Cluster computing environments can also leverage cloud-based infrastructure, which provides on-demand and scalable resources for cluster applications, such as software-as-a-service (SaaS), infrastructure-as-a-service (IaaS), and platform-as-a-service (PaaS) services.

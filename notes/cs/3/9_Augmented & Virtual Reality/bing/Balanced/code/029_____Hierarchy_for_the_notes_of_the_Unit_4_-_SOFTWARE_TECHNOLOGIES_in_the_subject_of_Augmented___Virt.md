@@ -1,0 +1,52 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Augmented & Virtual Reality. Here is the hierarchy for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES:
+
+### Unit 4 - SOFTWARE TECHNOLOGIES
+
+- Introduction
+  - Definition and characteristics of software technologies
+  - Types and examples of software technologies for AR and VR
+  - Benefits and challenges of software technologies for AR and VR
+- Software Development Kits (SDKs)
+  - Definition and functions of SDKs
+  - Components and features of SDKs
+  - Comparison and evaluation of popular SDKs for AR and VR
+    - ARCore
+    - ARKit
+    - Vuforia
+    - Unity
+    - Unreal Engine
+    - WebXR
+- Application Programming Interfaces (APIs)
+  - Definition and functions of APIs
+  - Types and examples of APIs for AR and VR
+  - Comparison and evaluation of popular APIs for AR and VR
+    - Google Maps API
+    - Google Vision API
+    - Microsoft Cognitive Services API
+    - Facebook Graph API
+    - Amazon Sumerian API
+- Programming Languages
+  - Definition and functions of programming languages
+  - Types and examples of programming languages for AR and VR
+  - Comparison and evaluation of popular programming languages for AR and VR
+    - C#
+    - C++
+    - Java
+    - JavaScript
+    - Python
+- Software Testing and Debugging
+  - Definition and importance of software testing and debugging
+  - Types and methods of software testing and debugging for AR and VR
+  - Tools and techniques for software testing and debugging for AR and VR
+    - Emulators and simulators
+    - Debugging consoles and logs
+    - Testing frameworks and libraries
+    - User feedback and analytics
+- Software Deployment and Distribution
+  - Definition and steps of software deployment and distribution
+  - Platforms and channels for software deployment and distribution for AR and VR
+  - Challenges and solutions for software deployment and distribution for AR and VR
+    - Compatibility and accessibility issues
+    - Security and privacy risks
+    - Legal and ethical regulations
+    - User engagement and retention strategies

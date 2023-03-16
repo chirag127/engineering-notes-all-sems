@@ -1,0 +1,11 @@
+### Classical Encryption Techniques: Substitution Ciphers and Transposition Ciphers
+
+Classical encryption techniques are methods used to secure information by transforming it into an unreadable format that can only be deciphered by someone who possesses the secret key. There are two main types of classical encryption techniques: substitution ciphers and transposition ciphers.
+
+1. **Substitution Ciphers**: In a substitution cipher, each letter or symbol in the plaintext (the original message) is replaced by another letter or symbol to produce the ciphertext (the encrypted message). The key in a substitution cipher is the mapping of the letters or symbols. One of the most well-known substitution ciphers is the Caesar cipher, in which each letter is shifted by a certain number of positions in the alphabet.
+
+2. **Transposition Ciphers**: In a transposition cipher, the letters or symbols in the plaintext are rearranged to produce the ciphertext. The key in a transposition cipher is the method used to rearrange the letters or symbols. One example of a transposition cipher is the rail fence cipher, in which the plaintext is written in a zigzag pattern along a set number of "rails" and then read off row by row to produce the ciphertext.
+
+Both substitution and transposition ciphers can be cryptanalyzed, or broken, by someone who has enough information and resources. Cryptanalysis is the study of methods for obtaining the meaning of encrypted information without access to the key. Steganography, on the other hand, is the practice of concealing a message within another message or medium, such as an image or audio file.
+
+Stream and block ciphers are modern encryption techniques that are widely used today. A stream cipher encrypts individual bits or bytes of the plaintext one at a time, while a block cipher encrypts a fixed-size block of the plaintext at once. The Data Encryption Standard (DES) is an example of a block cipher that uses a Feistel structure and the principles of confusion and diffusion, as described by Shannon's theory, to provide security. The strength of DES has been questioned, and it is now commonly used in a tripled form known as Triple DES. Block ciphers can be used in various modes of operation to provide different levels of security and functionality.

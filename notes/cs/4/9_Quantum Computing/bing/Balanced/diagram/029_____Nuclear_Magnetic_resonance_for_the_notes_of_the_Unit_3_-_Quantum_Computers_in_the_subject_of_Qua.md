@@ -1,0 +1,14 @@
+### Nuclear Magnetic Resonance for the notes of the Unit 3 - Quantum Computers in the subject of Quantum Computing
+
+- Nuclear magnetic resonance (NMR) is a physical phenomenon that occurs when nuclei in a magnetic field absorb and re-emit electromagnetic radiation. NMR can be used to study the structure and dynamics of molecules, as well as to manipulate and measure quantum states of nuclei.
+- Nuclear magnetic resonance quantum computing (NMRQC) is one of the several proposed approaches for constructing a quantum computer, that uses the spin states of nuclei within molecules as qubits . The quantum states are probed through the nuclear magnetic resonances, allowing the system to be implemented as a variation of nuclear magnetic resonance spectroscopy.
+- NMRQC differs from other implementations of quantum computers in that it uses an ensemble of systems, in this case molecules, rather than a single pure state qubit . This means that the quantum information is distributed over a large number of identical molecules, and the measurements are performed on the average signal of the ensemble. This also means that the quantum states cannot be directly observed, but only inferred from the statistical properties of the ensemble.
+- NMRQC has several advantages and disadvantages as a quantum computing platform. Some of the advantages are:
+  - NMRQC is relatively easy to implement, as it uses existing techniques and equipment from NMR spectroscopy.
+  - NMRQC can operate at room temperature, unlike some other quantum computing platforms that require extremely low temperatures.
+  - NMRQC can manipulate and measure multiple qubits simultaneously, allowing for parallel processing and efficient algorithms.
+- Some of the disadvantages are:
+  - NMRQC suffers from low signal-to-noise ratio, as the quantum information is diluted over a large number of molecules. This limits the number of qubits and the complexity of the quantum operations that can be performed.
+  - NMRQC cannot implement universal quantum gates, as it relies on the natural interactions between the nuclei. This means that some quantum algorithms cannot be executed on NMRQC, or require additional resources and overhead.
+  - NMRQC cannot generate entanglement between the qubits, as the ensemble is in a mixed state rather than a pure state. This means that some quantum phenomena and applications, such as quantum teleportation and quantum cryptography, are not possible on NMRQC.
+- NMRQC has been used to demonstrate some basic quantum algorithms and protocols, such as the Deutsch-Jozsa algorithm, the Grover's algorithm, the Shor's algorithm, and the quantum error correction. NMRQC has also been used to develop a hybrid algorithm that combines classical and quantum computing to analyze NMR readings of small molecules in biological samples. This algorithm can potentially improve the accuracy and efficiency of NMR spectroscopy for medical diagnostics and drug discovery.

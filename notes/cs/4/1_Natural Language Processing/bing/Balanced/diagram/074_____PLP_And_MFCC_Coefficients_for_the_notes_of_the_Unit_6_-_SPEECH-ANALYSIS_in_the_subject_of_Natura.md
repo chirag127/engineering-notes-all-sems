@@ -1,0 +1,22 @@
+### PLP and MFCC Coefficients for Speech Analysis
+
+- Speech analysis is the process of extracting useful information from speech signals, such as speaker identity, emotion, language, accent, etc.
+- Speech analysis requires feature extraction methods that can represent the speech signals in a compact and discriminative way, while capturing the relevant aspects of speech production and perception.
+- PLP and MFCC are two popular feature extraction methods for speech analysis, based on different models of the human auditory system.
+- PLP stands for Perceptual Linear Prediction, and MFCC stands for Mel Frequency Cepstral Coefficients.
+- Both methods involve the following steps:
+  - Pre-emphasis: a high-pass filtering operation that enhances the high-frequency components of the speech signal and reduces the effect of noise.
+  - Framing: a segmentation operation that divides the speech signal into short overlapping frames, typically 20-30 ms long, with a 50% overlap.
+  - Windowing: a weighting operation that applies a window function, such as Hamming or Hanning, to each frame to reduce the discontinuities at the frame boundaries.
+  - Fourier transform: a spectral analysis operation that converts each frame from the time domain to the frequency domain, resulting in a complex-valued spectrum.
+  - Power spectrum: a magnitude operation that computes the squared magnitude of the complex spectrum, resulting in a real-valued power spectrum.
+  - Filter bank: a frequency analysis operation that applies a set of band-pass filters to the power spectrum, resulting in a set of filter bank energies.
+  - Logarithm: a nonlinearity operation that applies the logarithm function to the filter bank energies, resulting in a set of log filter bank energies.
+  - Discrete cosine transform: a compression operation that applies the discrete cosine transform (DCT) to the log filter bank energies, resulting in a set of cepstral coefficients.
+  - Cepstral mean normalization: an optional normalization operation that subtracts the mean of the cepstral coefficients from each frame, resulting in a set of normalized cepstral coefficients.
+- The main differences between PLP and MFCC are in the filter bank and the DCT steps.
+- PLP uses a filter bank that mimics the frequency resolution and the critical bandwidths of the human ear, based on the Bark scale. MFCC uses a filter bank that mimics the frequency resolution and the mel scale of the human ear, based on a logarithmic mapping of the frequency axis.
+- PLP applies an equal-loudness curve and an intensity-loudness power law to the filter bank energies, to account for the perceptual sensitivity and loudness of the human ear. MFCC does not apply these transformations.
+- PLP applies an autoregressive (AR) model to the log filter bank energies, to smooth the spectrum and reduce the spectral peaks. MFCC does not apply this model.
+- PLP uses a linear DCT to obtain the cepstral coefficients, while MFCC uses a nonlinear DCT. The linear DCT preserves the linear prediction property of the PLP spectrum, while the nonlinear DCT decorrelates the log filter bank energies.
+- PLP and MFCC have different advantages and disadvantages for speech analysis, depending on the application and the data. PLP is more robust to noise and channel distortion, while MFCC is more sensitive to speaker and phonetic variations. PLP is more computationally complex, while MFCC is more widely used and supported by various tools and libraries.

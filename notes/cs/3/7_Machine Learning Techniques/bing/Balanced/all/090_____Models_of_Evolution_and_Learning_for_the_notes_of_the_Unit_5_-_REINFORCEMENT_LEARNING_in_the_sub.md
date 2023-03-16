@@ -1,0 +1,14 @@
+# Models of Evolution and Learning for Reinforcement Learning
+
+- Reinforcement learning (RL) is a machine learning technique that aims to learn optimal policies for sequential decision making problems by interacting with an environment and receiving rewards or penalties.
+- Evolutionary algorithms (EAs) are a class of optimization methods that mimic the principles of natural evolution, such as variation, selection, and inheritance, to generate solutions to complex problems.
+- Evolutionary reinforcement learning (ERL) is a hybrid approach that combines RL and EA to leverage the advantages of both methods, such as exploration, exploitation, diversity, and gradient information.
+- ERL can be implemented in different ways, depending on how the RL and EA components interact and exchange information. Some common variants are:
+  - Coevolutionary RL: RL and EA are applied in parallel to coevolve a population of agents and a population of tasks or opponents, creating a dynamic and competitive environment that fosters learning and adaptation.
+  - Evolutionary RL: RL is applied to a single agent that is periodically reinserted into an EA population, where it competes with other agents based on its performance and transfers its learned policy to its offspring.
+  - Evolutionary-driven RL: EA is applied to a population of agents that are periodically trained by an RL algorithm, where the EA provides diversified data to the RL and the RL injects gradient information to the EA.
+- ERL can also be classified according to the level of integration between learning and evolution, which can be either Darwinian or Lamarckian. In Darwinian ERL, learning and evolution are separate processes that do not affect each other, while in Lamarckian ERL, learning and evolution are coupled and the learned policies are inherited by the offspring.
+- ERL has been applied to various domains, such as robotics, games, and control, where it can achieve better performance, robustness, and generalization than pure RL or EA methods. Some examples of ERL applications are:
+  - Deep Evolutionary Reinforcement Learning (DERL): a framework that can evolve diverse agent morphologies and learn challenging locomotion and manipulation tasks in physics-based simulations.
+  - Evolving Reinforcement Learning Algorithms (ERLA): a method that can learn new, analytically interpretable and generalizable RL algorithms by using a graph representation and applying evolutionary optimization techniques.
+  - Evolutionary-Driven Reinforcement Learning (evo-RL): an algorithm that embeds an RL algorithm in an evolutionary cycle, where it distinguishes between purely evolvable (instinctive) behavior and purely learnable behavior.

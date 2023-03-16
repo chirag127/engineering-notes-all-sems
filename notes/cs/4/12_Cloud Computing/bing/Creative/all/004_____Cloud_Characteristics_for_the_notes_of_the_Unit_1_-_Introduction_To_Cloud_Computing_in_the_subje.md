@@ -1,0 +1,18 @@
+# Cloud Characteristics
+
+Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+
+Some of the essential characteristics of cloud computing are:
+
+- **On-demand self-service**: Users can request and access cloud services without human intervention from the cloud provider. For example, users can create, delete, or modify cloud resources such as virtual machines, storage, or applications using a web portal or an API .
+- **Multi-tenancy and resource pooling**: Cloud providers use a multi-tenant architecture to accommodate multiple users on the same physical infrastructure, while isolating their data and applications from each other. The cloud resources are pooled and dynamically assigned and reassigned according to user demand. This enables efficient utilization of resources and economies of scale .
+- **Broad network access**: Cloud services are accessible over the internet or other standard networks from various devices such as laptops, smartphones, tablets, etc. Users can access cloud services from anywhere and at any time, as long as they have network connectivity .
+- **Rapid elasticity and scalability**: Cloud services can be scaled up or down quickly and automatically to meet the changing user demand. Users can access as much or as little resources as they need, and pay only for what they use. Cloud services can also handle peak loads and sudden spikes in demand without compromising performance or availability .
+- **Measured service**: Cloud providers monitor and measure the usage of cloud resources by users, and charge them accordingly. Users can track and control their cloud consumption and costs through transparent and auditable billing mechanisms. Cloud providers can also optimize the allocation and utilization of resources based on the measured data .
+
+Other benefits of cloud computing include:
+
+- **Cost reduction**: Cloud computing eliminates the need for users to invest in and maintain their own IT infrastructure, such as hardware, software, power, cooling, security, etc. Users can save on capital expenditure (CAPEX) and operational expenditure (OPEX) by paying only for the cloud services they use .
+- **Reliability**: Cloud computing offers high availability and fault tolerance by using multiple redundant servers, storage, and network devices across different geographic locations. Users can access cloud services even if one or more components fail or become unavailable. Cloud providers also offer backup and recovery options for data and applications in case of disasters .
+- **Security**: Cloud computing provides various security measures to protect the data and applications of users from unauthorized access, modification, or deletion. These include encryption, authentication, authorization, firewalls, intrusion detection and prevention, etc. Cloud providers also comply with various security standards and regulations to ensure the privacy and confidentiality of user data .
+- **Innovation**: Cloud computing enables users to access the latest technologies and capabilities without having to upgrade or replace their existing IT infrastructure. Users can leverage the cloud to experiment with new ideas, test new products, or launch new services faster and cheaper than before. Cloud computing also fosters collaboration and knowledge sharing among users and cloud providers .

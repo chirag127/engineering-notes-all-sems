@@ -1,0 +1,30 @@
+## Downloading and installing Hadoop; Understanding different Hadoop modes. Startup scripts, Configuration files.
+
+- Hadoop is an open-source framework for distributed storage and processing of large-scale data using clusters of commodity hardware.
+- Hadoop consists of four main components: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common.
+- Hadoop can run in different modes: standalone, pseudo-distributed, and fully distributed.
+- Standalone mode is the default mode of Hadoop, where it runs on a single machine without using HDFS or YARN. It is useful for testing and debugging purposes.
+- Pseudo-distributed mode is where Hadoop runs on a single machine, but simulates a cluster by using HDFS and YARN. It is useful for development and learning purposes.
+- Fully distributed mode is where Hadoop runs on a cluster of multiple machines, using HDFS and YARN to manage the storage and computation. It is the mode used for production and performance purposes.
+- To download and install Hadoop on Ubuntu, follow these steps:
+  - Visit the official Apache Hadoop project page, and select the version of Hadoop you want to implement. The steps outlined in this tutorial use the Binary download for Hadoop Version 3.2.1.
+  - Use the provided mirror link and download the Hadoop package with the wget command: `wget https://downloads.apache.org/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz`
+  - Once the download is complete, extract the files to initiate the Hadoop installation: `tar -xvzf hadoop-3.2.1.tar.gz`
+  - Move the extracted files to the /usr/local directory: `sudo mv hadoop-3.2.1 /usr/local/hadoop`
+  - Set the HADOOP_HOME environment variable to point to the Hadoop installation directory: `export HADOOP_HOME=/usr/local/hadoop`
+  - Add the Hadoop bin and sbin directories to the PATH variable: `export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin`
+  - Verify the installation by running the command: `hadoop version`
+- To configure Hadoop for different modes, you need to edit some configuration files under the $HADOOP_HOME/etc/hadoop directory. The main configuration files are:
+  - core-site.xml: This file contains the core settings of Hadoop, such as the default file system URI, the I/O settings, and the security settings.
+  - hdfs-site.xml: This file contains the settings of HDFS, such as the replication factor, the block size, and the namenode and datanode directories.
+  - mapred-site.xml: This file contains the settings of MapReduce, such as the framework name, the job tracker address, and the resource manager address.
+  - yarn-site.xml: This file contains the settings of YARN, such as the resource manager address, the node manager address, and the resource allocation settings.
+- To run Hadoop in standalone mode, no configuration is required. You can use the `hadoop jar` command to run a MapReduce job using a local file system.
+- To run Hadoop in pseudo-distributed mode, you need to configure Hadoop to use HDFS and YARN by editing the following properties in the configuration files:
+  - In core-site.xml, set the fs.defaultFS property to `hdfs://localhost:9000`
+  - In hdfs-site.xml, set the dfs.replication property to `1`, and the dfs.namenode.name.dir and dfs.datanode.data.dir properties to point to the directories where you want to store the HDFS data. For example, `/home/hadoop/data/namenode` and `/home/hadoop/data/datanode`.
+  - In mapred-site.xml, set the mapreduce.framework.name property to `yarn`
+  - In yarn-site.xml, set the yarn.nodemanager.aux-services property to `mapreduce_shuffle`
+- To run Hadoop in fully distributed mode, you need to configure Hadoop to use HDFS and YARN on multiple machines by editing the following properties in the configuration files:
+  - In core-site.xml, set the fs.defaultFS property to `hdfs://<namenode-hostname>:9000`, where <namenode-hostname> is the hostname of the machine that runs the namenode daemon.
+  - In hdfs-site.xml, set the dfs.replication property to a value greater than

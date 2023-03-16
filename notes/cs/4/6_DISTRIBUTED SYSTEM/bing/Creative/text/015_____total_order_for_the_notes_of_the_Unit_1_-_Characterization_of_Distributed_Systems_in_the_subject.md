@@ -1,0 +1,9 @@
+### Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing and coordinate their actions to achieve a common goal.
+- A distributed system is said to have partial order if we can have a partial order relationship among the events in the system. An event is something that happens at a single point in time and space, such as sending or receiving a message, or changing a local state.
+- A partial order relationship is defined by the "happened before" relation, denoted by ->, which captures the causal dependencies between events. For example, if a process sends a message and another process receives it, then the send event happened before the receive event.
+- A distributed system is said to have total order if 'totality', i.e., causal relationship among all events in the system, can be established, then the system is said to have total order. This means that for any two events in the system, either one happened before the other, or they are concurrent.
+- Total order is useful for ensuring consistency and agreement among the entities in a distributed system, especially when dealing with shared resources, replicated data, or fault tolerance  .
+- Total order can be implemented by using logical clocks, such as Lamport timestamps or vector clocks, which assign a unique and monotonically increasing value to each event in the system . These values can be used to compare and order events according to their causal relationships .
+- Total order can also be implemented by using atomic broadcast, which is a communication primitive that guarantees that all entities in a distributed system receive the same messages in the same order. Atomic broadcast can be achieved by using consensus algorithms, such as Paxos or Raft, which ensure that all entities agree on a single value or sequence of values.

@@ -1,0 +1,22 @@
+### Mobile IP
+
+- Mobile IP (MIP) is a protocol that allows mobile devices to move from one network to another while maintaining the same permanent IP address.
+- Mobile IP is based on IP and can support any media that can support IP, such as wired and wireless networks.
+- Mobile IP is designed to support seamless and continuous Internet connectivity, especially for roaming between overlapping wireless systems.
+- Mobile IP consists of three main components: a home agent, a foreign agent, and a mobile node.
+- A home agent is a router on the home network of the mobile node that maintains a binding table of the current location of the mobile node.
+- A foreign agent is a router on the visited network of the mobile node that provides routing and other services to the mobile node.
+- A mobile node is a device that can change its point of attachment to the Internet, such as a laptop or a smartphone.
+- A mobile node has two IP addresses: a home address and a care-of address.
+- A home address is a permanent IP address assigned to the mobile node on its home network.
+- A care-of address is a temporary IP address assigned to the mobile node on the visited network.
+- A mobile node registers its care-of address with its home agent when it moves to a new network.
+- A home agent intercepts packets destined for the mobile node's home address and tunnels them to the mobile node's care-of address.
+- A foreign agent decapsulates the tunneled packets and delivers them to the mobile node.
+- A mobile node can also send packets to other nodes using its home address as the source address.
+- A mobile node can use either co-located care-of address or foreign agent care-of address.
+- A co-located care-of address is an IP address obtained by the mobile node on the visited network, such as through DHCP.
+- A foreign agent care-of address is an IP address of the foreign agent that serves as a proxy for the mobile node.
+- Mobile IP can support both IPv4 and IPv6, with some differences in the protocol details.
+- Mobile IP for IPv4 is described in IETF RFC 5944, and extensions are defined in IETF RFC 4721.
+- Mobile IP for IPv6 is described in IETF RFC 6275, and extensions are defined in IETF RFC 5555.

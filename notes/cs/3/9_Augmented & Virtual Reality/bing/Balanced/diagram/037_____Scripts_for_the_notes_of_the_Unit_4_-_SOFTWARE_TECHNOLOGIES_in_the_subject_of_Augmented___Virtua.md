@@ -1,0 +1,24 @@
+### Scripts for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- Augmented reality (AR) and virtual reality (VR) are technologies that create immersive and interactive experiences for users by overlaying digital content on the real world or simulating a virtual environment.
+- AR and VR require software technologies that can handle the challenges of rendering, tracking, interaction, and performance.
+- Some of the software technologies that are commonly used for AR and VR development are:
+
+  - Programming languages: These are the languages that developers use to write the code that defines the logic, functionality, and behavior of AR and VR applications. Some of the popular programming languages for AR and VR are:
+
+    - C#: C# is a general-purpose, object-oriented language that is widely used for developing AR and VR applications with the Unity engine. Unity is a cross-platform game engine that supports various AR and VR platforms and devices, such as ARCore, ARKit, Vuforia, Oculus, SteamVR, and Windows Mixed Reality .
+    - C++: C++ is a low-level, compiled language that offers high performance and control over memory management. C++ is often used for developing AR and VR applications with the Unreal Engine, which is another powerful game engine that supports various AR and VR platforms and devices, such as ARCore, ARKit, Magic Leap, Oculus, SteamVR, and Windows Mixed Reality.
+    - JavaScript: JavaScript is a scripting language that runs on web browsers and can be used for creating web-based AR and VR applications. JavaScript can leverage various web frameworks and libraries, such as A-Frame, Three.js, Babylon.js, and React 360, that provide tools and components for building 3D scenes, animations, and interactions for AR and VR.
+
+  - Software development kits (SDKs): These are collections of tools, libraries, and documentation that provide developers with the necessary functionalities and features to create AR and VR applications for specific platforms and devices. Some of the popular SDKs for AR and VR are:
+
+    - ARCore: ARCore is Google's SDK for developing AR applications for Android and iOS devices. ARCore provides features such as environmental understanding, motion tracking, light estimation, and cloud anchors, that enable developers to create AR experiences that blend digital content with the real world.
+    - ARKit: ARKit is Apple's SDK for developing AR applications for iOS devices. ARKit provides features such as face tracking, plane detection, image recognition, object detection, and world mapping, that enable developers to create AR experiences that interact with the real world.
+    - Vuforia: Vuforia is a cross-platform SDK for developing AR applications for various devices, such as smartphones, tablets, smart glasses, and headsets. Vuforia provides features such as image targets, model targets, ground plane, area targets, and spatial anchors, that enable developers to create AR experiences that recognize and track various types of objects and environments.
+    - Oculus: Oculus is a platform and SDK for developing VR applications for Oculus devices, such as Oculus Quest, Oculus Rift, and Oculus Go. Oculus provides features such as spatial audio, hand tracking, avatars, platform SDK, and integrations with Unity and Unreal Engine, that enable developers to create immersive and social VR experiences.
+    - SteamVR: SteamVR is a platform and SDK for developing VR applications for various devices, such as HTC Vive, Valve Index, and Windows Mixed Reality headsets. SteamVR provides features such as room-scale tracking, input system, rendering, audio, and integrations with Unity and Unreal Engine, that enable developers to create high-fidelity and interactive VR experiences.
+
+  - Software tools: These are applications or programs that assist developers in creating, testing, debugging, and deploying AR and VR applications. Some of the popular software tools for AR and VR are:
+
+    - Unity: Unity is a game engine and an integrated development environment (IDE) that allows developers to create 2D and 3D games and applications, including AR and VR applications, for various platforms and devices. Unity provides a graphical user interface (GUI) that enables developers to design and edit scenes, assets, scripts, and prefabs, as well as a code editor that supports C# and JavaScript. Unity also provides various tools and services, such as Unity Editor, Unity Hub, Unity Asset Store, Unity Play Mode, Unity Profiler, Unity Cloud Build, and Unity Analytics, that help developers in various aspects of AR and VR development.
+    - Unreal

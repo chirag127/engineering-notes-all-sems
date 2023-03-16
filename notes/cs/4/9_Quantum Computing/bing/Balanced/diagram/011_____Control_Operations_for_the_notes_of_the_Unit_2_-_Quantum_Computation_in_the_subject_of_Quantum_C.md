@@ -1,0 +1,12 @@
+### Control Operations
+
+- Control operations are quantum operations that depend on the state of one or more control qubits.
+- Control operations are essential for implementing quantum logic gates, quantum algorithms, quantum error correction, and quantum feedback control.
+- Control operations can be realized by applying electric, magnetic, or electromagnetic control fields to the quantum system.
+- Control operations can be classified into two types: coherent control and measurement-based control.
+  - Coherent control is the manipulation of quantum states without destroying their coherence or entanglement. Coherent control can be achieved by applying unitary or nonunitary operations to the quantum system.
+  - Measurement-based control is the manipulation of quantum states by performing measurements on some qubits and using the outcomes to adjust the control fields for the remaining qubits. Measurement-based control can be used to implement quantum teleportation, quantum cryptography, and quantum error correction.
+- Control operations can be optimized by using quantum optimal control techniques, which aim to find the optimal control fields that achieve the desired quantum dynamics with minimum cost or maximum fidelity.
+- Control operations can be affected by various sources of noise and decoherence, such as thermal fluctuations, electromagnetic interference, and qubit relaxation. Control operations can be made more robust by using error-robust control schemes, such as dynamical decoupling, composite pulses, and quantum error correction.
+- Control operations are implemented by using control hardware, which drives the quantum processor and orchestrates the entire quantum computing system. Control hardware consists of components such as signal generators, amplifiers, mixers, filters, and digitizers.
+- Control operations are challenging to scale up as the number of qubits increases, due to the complexity and cost of the control hardware and the difficulty of maintaining coherence and entanglement. Control operations can be simplified and improved by using integrated control systems, such as field-programmable gate arrays (FPGAs), application-specific integrated circuits (ASICs), and superconducting quantum processors.

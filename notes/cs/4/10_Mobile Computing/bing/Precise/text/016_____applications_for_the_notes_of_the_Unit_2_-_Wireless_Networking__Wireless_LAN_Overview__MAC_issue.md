@@ -1,0 +1,8 @@
+### Applications for the notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC issues, IEEE 802.11, Blue Tooth, Wireless in the subject of Mobile Computing
+
+1. **Wireless Networking**: Wireless networking refers to the use of wireless technology to connect devices to a network, allowing them to communicate and share data without the need for physical connections.
+2. **Wireless LAN Overview**: A wireless LAN (WLAN) is a type of local area network that uses high-frequency radio waves to provide wireless connectivity to devices within a limited area, such as a home, office, or campus.
+3. **MAC issues**: The medium access control (MAC) layer is responsible for controlling access to the shared wireless medium. In a wireless network, multiple devices may attempt to transmit data at the same time, leading to collisions and interference. The MAC layer uses various techniques to coordinate access and avoid collisions.
+4. **IEEE 802.11**: IEEE 802.11 is a set of standards for implementing wireless local area networks (WLANs). It defines the physical and MAC layers of the wireless network and specifies the characteristics of the wireless medium, including frequency, modulation, and transmission power.
+5. **Blue Tooth**: Bluetooth is a short-range wireless technology used for exchanging data between devices over short distances. It is commonly used for wireless communication between mobile phones, computers, and other devices.
+6. **Wireless**: Wireless refers to the use of electromagnetic waves or infrared signals to transmit data without the need for physical connections. Wireless technology is used in a wide range of applications, including mobile phones, wireless networks, and remote controls.

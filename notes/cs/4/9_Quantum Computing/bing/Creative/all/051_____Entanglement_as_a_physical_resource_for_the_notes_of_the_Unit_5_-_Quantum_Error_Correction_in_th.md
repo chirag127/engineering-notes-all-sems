@@ -1,0 +1,8 @@
+# Entanglement as a physical resource
+
+- Quantum entanglement is a phenomenon in which two or more quantum systems, such as particles, are prepared or interact in such a way that their quantum states cannot be described independently, even when they are separated by large distances.
+- Quantum entanglement is a physical resource, like energy, that can be measured, transformed, and purified. It enables tasks such as quantum cryptography, superdense coding, and teleportation.
+- Quantum entanglement is essential for quantum computing, as it allows qubits to share information and perform operations faster and more efficiently than classical bits. Entanglement also enables quantum error correction, which is the process of protecting quantum information from decoherence and noise.
+- Quantum error correction requires creating and manipulating entangled states of many qubits, such as graph states, cluster states, or code states . These states have different properties and advantages for different quantum computing tasks and architectures .
+- Quantum error correction also requires detecting and correcting errors that occur in the entangled states, such as bit flips or phase flips. This can be done by using techniques such as syndrome measurement, stabilizer codes, or fault-tolerant schemes  .
+- Quantum error correction is a challenging and active area of research, as it involves finding optimal ways of creating, manipulating, and protecting entangled states of many qubits, while minimizing the resources and overheads required  .

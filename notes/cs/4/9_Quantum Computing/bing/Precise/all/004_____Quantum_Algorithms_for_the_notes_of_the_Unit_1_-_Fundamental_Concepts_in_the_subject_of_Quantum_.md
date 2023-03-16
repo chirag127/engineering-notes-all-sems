@@ -1,0 +1,5 @@
+# Quantum Algorithms
+
+Quantum algorithms are algorithms that run on a realistic model of quantum computation, with the most commonly used model being the quantum circuit model of computation. In this model, quantum algorithms are usually described by a quantum circuit that acts on some input qubits and terminates with a measurement. A quantum circuit consists of simple quantum gates that act on at most a fixed number of qubits.
+
+Quantum algorithms can be categorized by the main techniques used by the algorithm. Some commonly used techniques/ideas in quantum algorithms include phase kick-back, phase estimation, the quantum Fourier transform, quantum walks, amplitude amplification, and topological quantum field theory. These techniques allow quantum computers to outperform standard computers in certain areas, such as cryptography, search, and optimization.

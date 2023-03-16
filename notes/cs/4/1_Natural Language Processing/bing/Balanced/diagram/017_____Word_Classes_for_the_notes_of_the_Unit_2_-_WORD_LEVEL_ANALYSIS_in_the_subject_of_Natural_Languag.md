@@ -1,0 +1,11 @@
+### Word Classes
+
+- Word classes, also known as **parts of speech**, are categories of words that share similar syntactic and semantic properties in a language.
+- Word classes are useful for natural language processing tasks such as **word and text representation**, **part-of-speech tagging**, **parsing**, **machine translation**, and **question answering**.
+- Different languages may have different word classes, but some common ones are **nouns**, **verbs**, **adjectives**, **adverbs**, **pronouns**, **prepositions**, **conjunctions**, and **interjections**.
+- Some word classes are **closed**, meaning that they have a fixed and finite set of members, such as pronouns and conjunctions. Other word classes are **open**, meaning that they can be extended with new words, such as nouns and verbs.
+- Some word classes are **flexible**, meaning that they can change their function depending on the context, such as nouns that can act as verbs or adjectives. Other word classes are **inflexible**, meaning that they have a fixed function, such as prepositions and interjections.
+- Some word classes are **inflected**, meaning that they can change their form to indicate grammatical features such as number, gender, case, tense, aspect, mood, or voice, such as nouns and verbs. Other word classes are **uninflected**, meaning that they have a constant form, such as adverbs and conjunctions.
+- Some word classes are **content words**, meaning that they carry the main meaning and information in a sentence, such as nouns and verbs. Other word classes are **function words**, meaning that they serve a grammatical role and connect or modify other words, such as prepositions and conjunctions.
+- Word classes can be identified by using various criteria, such as **morphology**, **syntax**, **semantics**, and **distribution**. For example, nouns can be recognized by their ability to take plural or possessive endings, to act as subjects or objects of verbs, to denote entities or concepts, and to appear in certain positions in a sentence.
+- Word classes can be represented by using different methods, such as **one-hot encoding**, **word embeddings**, **contextualized embeddings**, or **transformers**. These methods aim to capture the syntactic and semantic features of words and their relations with other words in a vector space.

@@ -1,0 +1,15 @@
+# Resource Provisioning
+
+Resource provisioning is the process of allocating, deploying, and managing the computing, storage, network, and software resources in a cloud environment. Resource provisioning aims to optimize the performance, availability, scalability, and cost-efficiency of cloud services.
+
+Some of the key concepts and techniques related to resource provisioning are:
+
+- **Resource demand**: The amount and type of resources required by a cloud service or application to meet the service level objectives (SLOs) and quality of service (QoS) expectations of the users and providers.
+- **Resource capacity**: The amount and type of resources available in a cloud environment to serve the resource demand. Resource capacity can be static or dynamic, depending on the cloud deployment model and the resource provisioning strategy.
+- **Resource allocation**: The process of assigning resources to cloud services or applications based on the resource demand and capacity. Resource allocation can be static or dynamic, depending on the resource provisioning strategy.
+- **Resource scheduling**: The process of determining the order and timing of resource allocation and deallocation for cloud services or applications. Resource scheduling can be based on various criteria, such as priority, deadline, cost, or load balancing.
+- **Resource scaling**: The process of adjusting the amount and type of resources allocated to cloud services or applications based on the changes in resource demand and capacity. Resource scaling can be horizontal or vertical, and proactive or reactive, depending on the resource provisioning strategy.
+- **Resource elasticity**: The ability of a cloud service or application to automatically scale the resources up or down according to the resource demand and capacity. Resource elasticity is a desirable property of cloud computing that enables efficient and flexible resource utilization and cost saving.
+- **Resource reservation**: The process of reserving resources in advance for cloud services or applications that have predictable or periodic resource demand. Resource reservation can reduce the risk of resource contention and improve the performance and reliability of cloud services or applications.
+- **Resource overcommitment**: The process of allocating more resources than the available resource capacity to cloud services or applications that have variable or bursty resource demand. Resource overcommitment can increase the resource utilization and cost-efficiency of cloud services or applications, but it also introduces the risk of resource contention and performance degradation.
+- **Resource migration**: The process of moving resources from one location to another in a cloud environment to optimize the resource provisioning. Resource migration can be triggered by various factors, such as load balancing, fault tolerance, energy efficiency, or data locality.

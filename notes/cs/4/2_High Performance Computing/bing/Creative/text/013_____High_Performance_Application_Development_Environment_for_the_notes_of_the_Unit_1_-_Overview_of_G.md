@@ -1,0 +1,14 @@
+### High Performance Application Development Environment
+
+- A high performance application development environment is a set of tools, frameworks, and practices that enable developers to create, test, deploy, and optimize applications that run on high performance computing (HPC) systems, such as clusters, grids, supercomputers, or cloud platforms.
+- A high performance application development environment typically consists of the following components  :
+  - A development server, where the developers write, debug, and test the code using various programming languages, libraries, and compilers. The development server may also provide performance analysis and profiling tools to help optimize the code for HPC systems.
+  - A staging server, where the developers integrate, validate, and verify the application with other components, such as data sources, middleware, or external services. The staging server may also provide tools for configuration management, version control, and continuous integration and delivery.
+  - A production server, where the application is deployed and executed on the target HPC system, such as a cluster, grid, supercomputer, or cloud platform. The production server may also provide tools for monitoring, logging, troubleshooting, and scaling the application.
+- A high performance application development environment may also support the following features  :
+  - Resource elasticity, which allows the application to dynamically adjust the amount of computing resources (such as CPU, memory, disk, or network) it uses based on the workload and demand.
+  - Software-defined networking, which allows the application to control and optimize the network configuration and performance, such as routing, load balancing, security, or quality of service.
+  - Auto-provisioning, which allows the application to automatically create and destroy the required resources and environments based on the predefined policies and rules.
+  - High availability, which allows the application to tolerate and recover from failures, such as hardware faults, network disruptions, or software errors.
+  - Scalability, which allows the application to handle increasing or decreasing amounts of data, users, or requests without compromising the performance or quality.
+- A high performance application development environment may also follow the DevOps approach, which is a set of practices that aim to improve the collaboration and communication between the development and operations teams, and to automate and streamline the application delivery process. DevOps may involve the use of tools such as GitHub, Jenkins, Docker, Kubernetes, or Azure DevTest Labs.

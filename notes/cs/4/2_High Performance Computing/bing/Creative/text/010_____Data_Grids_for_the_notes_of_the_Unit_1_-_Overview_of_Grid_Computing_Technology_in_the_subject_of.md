@@ -1,0 +1,24 @@
+### Data Grids
+
+- A data grid is a set of structured services that gives individuals or groups of users the ability to access, modify and transfer extremely large amounts of geographically distributed data for research purposes .
+- Data grids are often used in scientific domains that require collaborative analysis of large-scale data sets, such as high-energy physics, astronomy, bioinformatics, etc.
+- Data grids provide various functionalities, such as:
+  - Data discovery: locating and identifying data sources that match certain criteria.
+  - Data access: retrieving data from remote sources using standard protocols and formats.
+  - Data replication: creating and maintaining copies of data across different locations for performance, reliability or availability reasons.
+  - Data caching: storing frequently accessed data in local or intermediate storage for faster access.
+  - Data migration: moving data from one location to another based on policies or user requests.
+  - Data synchronization: ensuring consistency and coherence of data across different replicas or caches.
+  - Data security: protecting data from unauthorized access, modification or disclosure.
+  - Data management: organizing, cataloging, annotating and curating data.
+- Data grids rely on various components, such as:
+  - Data sources: the original providers of data, such as databases, files, sensors, etc.
+  - Data storage: the physical or logical devices that store data, such as disks, tapes, clouds, etc.
+  - Data servers: the software entities that offer data services, such as data access, replication, caching, migration, etc.
+  - Data clients: the software entities that consume data services, such as applications, portals, workflows, etc.
+  - Data brokers: the software entities that mediate between data clients and data servers, such as data discovery, data security, data management, etc.
+- Data grids can be classified into different types, such as:
+  - Replica-based data grids: data grids that focus on creating and maintaining multiple copies of data across different locations for performance, reliability or availability reasons.
+  - Computation-based data grids: data grids that focus on providing data-intensive computing capabilities, such as data analysis, data mining, data visualization, etc.
+  - Knowledge-based data grids: data grids that focus on extracting and sharing knowledge from data, such as data semantics, data provenance, data quality, etc.
+  - Service-based data grids: data grids that focus on exposing data as services, such as data as a service (DaaS), data federation, data integration, etc.

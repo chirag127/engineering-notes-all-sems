@@ -1,0 +1,21 @@
+### Design Primitives for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+Design primitives are the basic elements or components that are used to construct a blockchain system. They can be categorized into three types: transaction design, consensus design and block design.
+
+- Transaction design: This refers to how the transactions are structured, validated and executed on the blockchain. Transactions are the basic units of data exchange and state change on the blockchain. Some of the aspects of transaction design are:
+
+  - Transaction model: This defines the format and content of the transactions, such as the inputs, outputs, signatures, scripts, etc. Different blockchain platforms may use different transaction models, such as UTXO (Unspent Transaction Output) model in Bitcoin, account model in Ethereum, etc.
+  - Transaction validation: This defines the rules and mechanisms for verifying the authenticity and correctness of the transactions, such as digital signatures, cryptographic hashes, etc. Transactions must be validated before they can be included in a block and broadcasted to the network.
+  - Transaction execution: This defines the logic and functionality of the transactions, such as the conditions, operations, effects, etc. Transactions may contain scripts or smart contracts that encode the business logic and rules of the blockchain application. Transaction execution may involve the use of a virtual machine, such as the Ethereum Virtual Machine (EVM), to run the code and update the state of the blockchain.
+
+- Consensus design: This refers to how the nodes in the network agree on the validity and order of the transactions and blocks on the blockchain. Consensus is essential for maintaining the consistency and security of the blockchain. Some of the aspects of consensus design are:
+
+  - Consensus protocol: This defines the algorithm and process for reaching consensus among the nodes, such as the roles, rules, incentives, penalties, etc. Different blockchain platforms may use different consensus protocols, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), Byzantine Fault Tolerance (BFT), etc.
+  - Consensus mechanism: This defines the implementation and execution of the consensus protocol, such as the data structures, messages, functions, etc. Consensus mechanism may involve the use of cryptographic primitives, such as hashes, signatures, commitments, proofs, etc., to ensure the integrity and verifiability of the consensus process.
+  - Consensus performance: This defines the efficiency and scalability of the consensus protocol and mechanism, such as the throughput, latency, finality, security, etc. Consensus performance may depend on various factors, such as the network size, topology, bandwidth, latency, etc.
+
+- Block design: This refers to how the blocks are structured, linked and stored on the blockchain. Blocks are the basic units of data storage and synchronization on the blockchain. Some of the aspects of block design are:
+
+  - Block structure: This defines the format and content of the blocks, such as the header, transactions, metadata, etc. Different blockchain platforms may use different block structures, such as the block header and Merkle tree in Bitcoin, the block header and state root in Ethereum, etc.
+  - Block linking: This defines the rules and mechanisms for connecting the blocks into a chain or a graph, such as the hash pointers, timestamps, difficulty, etc. Block linking ensures the continuity and immutability of the blockchain. Different blockchain platforms may use different block linking schemes, such as the longest chain rule in Bitcoin, the heaviest subtree rule in Ethereum, the tangle in IOTA, etc.
+  - Block storage: This defines the methods and techniques for storing and retrieving the blocks on the nodes, such as the database, index, cache, etc. Block storage affects the availability and accessibility of the blockchain data. Different blockchain platforms may use different block storage systems, such as the LevelDB in Bitcoin, the Trie in Ethereum, the Swarm in IOTA, etc.

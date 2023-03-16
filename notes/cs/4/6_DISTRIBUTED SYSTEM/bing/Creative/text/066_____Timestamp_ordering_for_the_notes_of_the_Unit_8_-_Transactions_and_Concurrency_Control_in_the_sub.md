@@ -1,0 +1,11 @@
+### Timestamp ordering for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- Timestamp ordering is a class of **optimistic** concurrency control protocols that assume that transaction conflicts are rare .
+- Timestamp ordering does not require transactions to acquire locks before they are allowed to read or write to a database object. Instead, it uses **timestamps** to determine the serializability order of transactions .
+- A timestamp is a monotonically increasing number that is often based on the system clock. It is assigned to each transaction when it starts .
+- A schedule is serializable if it is equivalent to some serial schedule, where transactions are executed one after another without interleaving.
+- Timestamp ordering ensures that the transactions are executed in a serializable order by enforcing two rules: the **read-write rule** and the **write-write rule**.
+- The read-write rule states that a transaction T can read an object X only if the timestamp of T is greater than or equal to the timestamp of the last transaction that wrote X. If this condition is not satisfied, T is aborted and restarted with a new timestamp.
+- The write-write rule states that a transaction T can write an object X only if the timestamp of T is greater than the timestamp of the last transaction that wrote X. If this condition is not satisfied, T is aborted and restarted with a new timestamp.
+- Timestamp ordering can be implemented in a centralized or distributed system. In a centralized system, a single timestamp generator can assign timestamps to transactions. In a distributed system, each site can have its own timestamp generator, but they must ensure that the timestamps are globally unique and consistent.
+- Timestamp ordering has some advantages and disadvantages. Some advantages are: it avoids deadlock, it reduces locking overhead, and it allows read-only transactions to execute without any concurrency control . Some disadvantages are: it may abort and restart transactions unnecessarily, it may cause starvation of some transactions, and it may not preserve the original order of transactions .

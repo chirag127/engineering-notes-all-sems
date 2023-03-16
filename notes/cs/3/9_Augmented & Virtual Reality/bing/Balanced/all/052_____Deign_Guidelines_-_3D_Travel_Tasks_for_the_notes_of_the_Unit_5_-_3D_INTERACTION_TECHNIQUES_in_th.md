@@ -1,0 +1,21 @@
+# Design Guidelines - 3D Travel Tasks
+
+- 3D travel tasks are the tasks that involve moving the user's viewpoint or virtual body in a 3D environment.
+- 3D travel tasks can be classified into different types based on the following characteristics:
+  - The goal of the travel: whether it is to reach a specific destination, to explore or search the environment, or to follow a predefined path.
+  - The distance to be traveled: whether it is short, medium, or long.
+  - The amount of curvature or number of turns in the path: whether it is straight, curved, or complex.
+  - The visibility of the target from the starting location: whether it is visible, partially visible, or invisible.
+  - The number of degrees of freedom (DOF) required for the movement: whether it is 1D, 2D, or 3D.
+  - The required accuracy of the movement: whether it is high, medium, or low.
+  - The other primary tasks that take place during travel: whether they are navigation, manipulation, or communication tasks.
+- 3D travel techniques are the methods that enable the user to perform 3D travel tasks. They can be categorized into three main types:
+  - Target-based techniques: the user specifies a target location or object and the system moves the user there automatically or semi-automatically. Examples are point-and-fly, world-in-miniature, and portals.
+  - Steering techniques: the user controls the direction and speed of the movement continuously using an input device or a body gesture. Examples are walking, flying, and driving.
+  - Physical locomotion techniques: the user moves in the real world and the system maps the movement to the virtual world. Examples are treadmill, omni-directional surface, and redirected walking.
+- 3D travel techniques should be designed according to the following guidelines :
+  - The most common travel tasks should require a minimum amount of effort from the user.
+  - Use high-speed transitional motions, not instant teleportation, if overall environment context is important.
+  - Provide multiple travel techniques to support different travel tasks in the same application.
+  - Make simple travel tasks easier by using target-based techniques for goal-oriented travel and steering techniques for exploration and search.
+  - Use a physical locomotion technique if user exertion or naturalism is required.

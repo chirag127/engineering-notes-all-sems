@@ -1,0 +1,22 @@
+### Edge Chasing Algorithms for Distributed Deadlock Detection
+
+- Edge chasing algorithms are a class of distributed deadlock detection algorithms that use special messages called probes to trace the dependency graph of processes and resources in a distributed system .
+- A probe is a triplet (i, j, k) that denotes that the deadlock detection is initiated by process P_i and the message is being sent by the home site of process P_j to the home site of process P_k .
+- The probe message contains the information about the initiator process, the sender process and the receiver process of the message, as well as the dependency path of the processes involved in the deadlock detection .
+- The algorithm works as follows :
+  - A process P_i initiates the deadlock detection by sending a probe message (i, i, j) to the home site of process P_j, where P_j is a process that P_i is waiting for.
+  - The home site of process P_j forwards the probe message to the home site of process P_k, where P_k is a process that P_j is waiting for, and so on.
+  - If a probe message (i, j, i) reaches the home site of process P_i, then a deadlock involving process P_i is detected.
+  - If a probe message (i, j, k) reaches the home site of process P_k, where P_k is not waiting for any other process, then the probe message is discarded and no deadlock is detected.
+  - If a probe message (i, j, k) reaches the home site of process P_k, where P_k is waiting for a process that is not in the dependency path of the probe message, then the probe message is updated with the new dependency path and forwarded to the home site of the process that P_k is waiting for.
+- The algorithm terminates when either a deadlock is detected or all the probe messages are discarded .
+- The algorithm is based on the AND model of requests, which means that a process can request multiple resources simultaneously and it will be blocked until it acquires all the requested resources .
+- The algorithm has the following advantages and disadvantages :
+  - Advantages:
+    - It is simple and easy to implement.
+    - It does not require any global information or synchronization among the sites.
+    - It can detect deadlocks involving cycles of any length and complexity.
+  - Disadvantages:
+    - It may generate a large number of probe messages, which can cause network congestion and delay.
+    - It may detect false deadlocks, which are deadlocks that do not exist in the actual system state but are caused by the delay or loss of messages.
+    - It may miss some deadlocks, which are deadlocks that exist in the actual system state but are not detected by the algorithm due to the interference of other messages or events.

@@ -1,0 +1,10 @@
+### Painting
+
+- Painting is one of the oldest and most diverse forms of artistic expression in India.
+- Indian paintings can be broadly classified as murals, miniatures and paintings on cloth.
+- Murals are large works executed on the walls of solid structures, such as temples, caves and palaces. They depict religious, mythological, historical or secular themes. Some of the famous examples of murals are the Ajanta Caves, the Kailashnath temple, the Brihadeshwara temple and the Mattancherry Palace.
+- Miniatures are small-scale paintings done on paper, palm leaf, ivory, wood or metal. They are usually made for books, albums, manuscripts or court records. They reflect the styles and influences of different regions, dynasties and religions. Some of the prominent schools of miniature painting are the Pala, the Mughal, the Rajput, the Deccan and the Pahari.
+- Paintings on cloth are artworks done on fabrics such as cotton, silk, jute or canvas. They are often used for religious, ritualistic, decorative or folk purposes. They may involve techniques such as painting, printing, dyeing, embroidery or applique. Some of the well-known forms of paintings on cloth are the Kalamkari, the Pattachitra, the Madhubani, the Warli and the Thangka.
+- Indian paintings have a long history and evolution, dating back to the prehistoric times. The earliest Indian paintings were the rock paintings of petroglyphs, found in places like the Bhimbetka rock shelters. They depict animals, humans, geometric patterns and symbols.
+- Indian paintings have been influenced by various factors, such as religion, culture, politics, trade, geography and foreign invasions. They have also influenced the art of other regions and countries, such as Central Asia, Southeast Asia, China, Japan and Europe.
+- Indian paintings are rich in symbolism, aesthetics, color, composition, perspective and emotion. They reflect the diversity, creativity and spirituality of the Indian people and their traditions.

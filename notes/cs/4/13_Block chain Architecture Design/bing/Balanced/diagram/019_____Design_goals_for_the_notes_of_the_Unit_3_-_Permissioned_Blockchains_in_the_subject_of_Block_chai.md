@@ -1,0 +1,26 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Block chain Architecture Design. Here are some design goals for the notes of the Unit 3 - Permissioned Blockchains:
+
+- The notes should cover the main concepts and features of permissioned blockchains, such as:
+  - The difference between permissioned and permissionless blockchains
+  - The types and roles of participants in permissioned blockchains
+  - The benefits and challenges of permissioned blockchains
+  - The use cases and examples of permissioned blockchains
+- The notes should explain the key components and mechanisms of permissioned blockchains, such as:
+  - The consensus protocols and algorithms used in permissioned blockchains
+  - The identity and access management systems used in permissioned blockchains
+  - The smart contracts and business logic implemented in permissioned blockchains
+  - The data privacy and security measures adopted in permissioned blockchains
+- The notes should compare and contrast the existing platforms and frameworks for developing permissioned blockchains, such as:
+  - Hyperledger Fabric
+  - Corda
+  - Quorum
+  - Besu
+- The notes should provide practical examples and exercises for applying the concepts and skills learned in the unit, such as:
+  - Designing and deploying a permissioned blockchain network using one of the platforms or frameworks
+  - Developing and testing smart contracts using one of the languages or tools
+  - Analyzing and evaluating the performance and security of a permissioned blockchain network using one of the metrics or methods
+- The notes should follow the standards and guidelines for academic writing, such as:
+  - Using clear and concise language
+  - Citing and referencing the sources of information
+  - Organizing and formatting the notes in a logical and consistent manner
+  - Avoiding plagiarism and academic misconduct

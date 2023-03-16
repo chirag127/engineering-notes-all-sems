@@ -1,0 +1,14 @@
+### World Authoring and Playback
+
+- World authoring and playback are the processes of creating and experiencing virtual and augmented reality content.
+- Virtual reality (VR) is a simulated experience, where a scenario is replicated in a digital environment and where users are able to interact with that virtual world using computer-based objects.
+- Augmented reality (AR) is a view of the real world in which computer-generated content is laid on top of the real world to augment the world with additional information or metadata such as sound, graphics, GPS data, and textual displays.
+- World authoring and playback can be used for various purposes, such as education, entertainment, training, simulation, and social interaction.
+- World authoring and playback require different tools and techniques, depending on the type and complexity of the content, the target platform and device, and the user preferences and needs.
+- Some of the common tools and techniques for world authoring and playback are:
+
+  - E-learning authoring tools: These are software applications that help develop AR and VR content for educational purposes. They provide an intuitive user interface, hotspots, markers, interactives, and 360° media assets that help create immersive learning experiences. Some examples of e-learning authoring tools are Adobe Captivate, Lectora Inspire, and Articulate Storyline.
+  - Event-based interaction modules: These are software components that enable the authoring and editing of virtual and augmented contents by using events and actions. They allow the user to create and modify the content by performing actions in the virtual or augmented environment, such as grabbing, moving, rotating, scaling, and triggering objects. Some examples of event-based interaction modules are Authoring-By-Doing, VRED, and Unity.
+  - 3D modeling and animation software: These are software applications that help create and animate 3D objects and scenes for VR and AR content. They provide tools for modeling, texturing, lighting, rigging, and rendering 3D graphics. Some examples of 3D modeling and animation software are Blender, Maya, and 3ds Max.
+  - Game engines: These are software frameworks that help create and run VR and AR games and applications. They provide features such as physics, sound, graphics, networking, scripting, and user interface. Some examples of game engines are Unreal Engine, Unity, and Godot.
+  - VR and AR headsets: These are devices that help the user experience VR and AR content. They provide a display, sensors, and controllers that track the user's head and hand movements and provide feedback. Some examples of VR and AR headsets are Oculus Quest, HTC Vive, and Microsoft HoloLens.

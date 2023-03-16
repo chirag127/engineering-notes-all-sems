@@ -1,0 +1,24 @@
+# Interactive Consistency Problem in Distributed System
+
+- Interactive consistency is the problem in which **n** nodes, each having its own private value, where up to **t** may be Byzantine, run an algorithm that allows all non-faulty nodes to infer the values of each other node  .
+- Byzantine nodes are those that can behave arbitrarily, such as sending different messages to different nodes, lying about their values, or crashing.
+- Interactive consistency is also known as **Byzantine Generals Problem** or **Byzantine Agreement Problem** .
+- Interactive consistency is a fundamental problem in distributed systems, especially for critical applications that rely on the combination of the opinions of multiple peers to provide a service, such as fault-tolerant control systems, distributed databases, or blockchain systems  .
+- Interactive consistency is a challenging problem because of the possibility of network failures, message delays, or malicious attacks that can prevent the nodes from reaching a consistent agreement  .
+- Interactive consistency has two variants: **weak interactive consistency** and **strong interactive consistency** .
+  - Weak interactive consistency requires that all non-faulty nodes agree on the values of all non-faulty nodes, but not necessarily on the values of faulty nodes .
+  - Strong interactive consistency requires that all non-faulty nodes agree on the values of all nodes, including faulty ones .
+- Interactive consistency has two types of solutions: **deterministic** and **randomized** .
+  - Deterministic solutions use a fixed protocol that guarantees to reach a consistent agreement in a finite number of rounds, regardless of the randomness in the system .
+  - Randomized solutions use a probabilistic protocol that can reach a consistent agreement with high probability in a finite number of rounds, but may fail with low probability due to the randomness in the system .
+- Interactive consistency has two types of assumptions: **synchronous** and **asynchronous** .
+  - Synchronous assumptions imply that there is a known upper bound on the message delivery time and the node processing time, and that all nodes have synchronized clocks .
+  - Asynchronous assumptions imply that there is no known upper bound on the message delivery time and the node processing time, and that the nodes have no synchronized clocks .
+- Interactive consistency has two types of communication models: **broadcast** and **point-to-point** .
+  - Broadcast communication model implies that a node can send a message to all other nodes in one round, and that all non-faulty nodes receive the same message .
+  - Point-to-point communication model implies that a node can send a message to one or more other nodes in one round, and that the messages may be different or lost .
+- Interactive consistency has a lower bound on the number of nodes and the number of rounds required to solve the problem, depending on the variant, the type of solution, the type of assumption, and the type of communication model .
+  - For weak interactive consistency, the lower bound on the number of nodes is **n > 3t** for deterministic solutions, and **n > t** for randomized solutions, regardless of the type of assumption and the type of communication model .
+  - For strong interactive consistency, the lower bound on the number of nodes is **n > 3t** for deterministic solutions, and **n > 2t** for randomized solutions, regardless of the type of assumption and the type of communication model .
+  - For synchronous assumptions, the lower bound on the number of rounds is **t + 1** for deterministic solutions, and **1** for randomized solutions, regardless of the variant and the type of communication model .
+  - For asynchronous assumptions, the lower bound on the number of rounds is **unbounded** for deterministic solutions, and **log n** for randomized solutions, regardless of the variant and the type of communication model[^2

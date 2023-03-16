@@ -1,0 +1,12 @@
+### Quantum Circuits
+
+- A quantum circuit is a model for quantum computation, similar to classical circuits, in which a computation is a sequence of quantum gates, measurements, initializations of qubits to known values, and possibly other actions.
+- A quantum gate is a basic unitary operation that acts on one or more qubits, such as the Hadamard gate, the Pauli-X gate, the CNOT gate, etc.
+- A quantum wire is a line that carries a qubit from one gate to another, or to a measurement device.
+- A quantum circuit can be represented by a diagram, where the horizontal axis is the time and the vertical axis is the qubits. Each gate is shown by a symbol, and each measurement is shown by a meter icon.
+- A quantum circuit can be used to implement a unitary transformation, U, on a set of input qubits, producing a set of output qubits. The unitary transformation is determined by the number and the types of gates, as well as the interconnection scheme of the circuit.
+- A quantum circuit can also be used to prepare a quantum state, such as an entangled state, a superposition state, or a basis state, by applying appropriate gates and measurements on the qubits.
+- A quantum circuit can be evaluated by applying the corresponding unitary matrices of the gates to the input qubits, and then measuring the output qubits in a chosen basis. The measurement outcomes are probabilistic, and depend on the quantum state of the qubits.
+- A quantum circuit can be simulated by a classical computer, but the computational cost grows exponentially with the number of qubits and gates. Therefore, quantum circuits are expected to offer a speedup over classical circuits for some problems, such as factoring large numbers, searching unsorted databases, or simulating quantum systems.
+- A quantum circuit can be implemented by a physical device, such as a superconducting qubit, a trapped ion, a photon, or an atom, that can manipulate and measure quantum information. However, quantum circuits are imperfect, and suffer from noise, decoherence, and errors, which limit their performance and scalability.
+- A quantum circuit can be optimized by using techniques such as circuit simplification, gate decomposition, error correction, or variational methods, to reduce the number of gates, the circuit depth, the noise, or the error rate, and to improve the accuracy, the efficiency, or the robustness of the circuit .

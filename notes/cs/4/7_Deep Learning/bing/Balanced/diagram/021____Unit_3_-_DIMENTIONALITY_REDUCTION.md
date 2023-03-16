@@ -1,0 +1,21 @@
+# Unit 3 - Dimensionality Reduction
+
+- Dimensionality reduction is the process of transforming data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data, ideally close to its intrinsic dimension.
+- Dimensionality reduction can be done for a variety of reasons, such as to reduce the complexity of a model, to improve the performance of a learning algorithm, or to make it easier to visualize the data.
+- Some of the benefits of dimensionality reduction are:
+  - It can reduce the noise and redundancy in the data.
+  - It can reduce the computational cost and storage space required for processing the data.
+  - It can reveal the hidden patterns and structures in the data.
+  - It can prevent overfitting and improve generalization.
+- Some of the challenges of dimensionality reduction are:
+  - It can cause information loss and distortion in the data.
+  - It can be difficult to choose the optimal number of dimensions or features to retain.
+  - It can be sensitive to the choice of parameters and methods.
+  - It can be affected by the scale and distribution of the data.
+- Some of the techniques for dimensionality reduction are:
+  - Principal component analysis (PCA), which projects the data onto a lower-dimensional subspace that captures the maximum variance of the data .
+  - Singular value decomposition (SVD), which decomposes the data matrix into three matrices that capture the most important features of the data.
+  - Linear discriminant analysis (LDA), which projects the data onto a lower-dimensional subspace that maximizes the class separability of the data.
+  - Non-negative matrix factorization (NMF), which decomposes the data matrix into two matrices that have only non-negative elements and capture the parts-based representation of the data.
+  - t-distributed stochastic neighbor embedding (t-SNE), which embeds the data into a lower-dimensional space that preserves the local similarities of the data.
+  - Autoencoders, which are neural networks that learn to compress and reconstruct the data in a lower-dimensional space.

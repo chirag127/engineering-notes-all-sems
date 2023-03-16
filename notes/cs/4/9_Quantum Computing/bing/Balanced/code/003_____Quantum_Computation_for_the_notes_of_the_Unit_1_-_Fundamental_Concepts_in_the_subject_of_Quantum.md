@@ -1,0 +1,11 @@
+### Quantum Computation for the notes of the Unit 1 - Fundamental Concepts
+
+- Quantum computation is a computation model that uses quantum physical properties to solve problems that are hard or impossible for classical computers.
+- Quantum computation relies on quantum phenomena, such as quantum bits, superposition, entanglement, and interference.
+- Quantum bits, or qubits, are the basic units of information in quantum computation. Unlike classical bits, which can only be in one of two states (0 or 1), qubits can be in a superposition of both states, meaning they can be 0, 1, or a combination of both at the same time .
+- Superposition is the ability of a quantum system to be in multiple states simultaneously. For example, a coin in quantum mechanics can be both heads and tails until it is measured, at which point it collapses to one of the two outcomes .
+- Entanglement is a quantum phenomenon where two or more qubits are linked in such a way that their states depend on each other, even if they are physically separated. This means that measuring one qubit will affect the state of the other qubits .
+- Interference is a quantum phenomenon where the probability of a certain outcome is affected by the superposition of different quantum states. For example, two waves in quantum mechanics can interfere constructively or destructively, depending on their relative phases.
+- Quantum computation makes use of quantum logic gates, which are devices that perform operations on one or more qubits. Quantum logic gates are reversible, meaning they can be undone by applying the inverse gate.
+- Quantum computation can be performed by quantum networks, which are devices consisting of quantum logic gates whose computational steps are synchronized in time. The outputs of some of the gates are connected by wires to the inputs of others. The size of the network is the number of gates it contains.
+- Quantum computation can offer algorithmic speed-ups over classical computation for certain problems, such as factoring large numbers, searching unsorted databases, and simulating quantum systems. However, quantum computation also faces challenges, such as decoherence, noise, and scalability.

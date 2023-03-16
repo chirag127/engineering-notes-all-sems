@@ -1,0 +1,11 @@
+### Control Flow Testing
+
+Control flow testing is a software testing technique that uses the control flow of a program as a model to design and execute test cases. Control flow testing is a type of white box testing, which means it requires the knowledge of the internal structure and logic of the program.
+
+Some of the main points of control flow testing are:
+
+- Control flow testing is based on the concept of a control flow graph, which is a graphical representation of the possible paths of execution in a program. A control flow graph consists of nodes and edges, where nodes represent statements or blocks of code, and edges represent the transitions between nodes based on conditions or decisions.
+- Control flow testing aims to cover all the possible paths or a subset of paths in the control flow graph, depending on the level of testing and the criteria used. Some of the common criteria for control flow testing are statement coverage, branch coverage, condition coverage, path coverage, etc.
+- Control flow testing can help to detect errors in the logic, sequence, and branching of the program, such as missing or incorrect statements, unreachable code, infinite loops, etc. Control flow testing can also reveal the complexity and maintainability of the program by measuring the number of nodes, edges, and paths in the control flow graph.
+- Control flow testing can be performed manually or automatically, depending on the availability of tools and the size and complexity of the program. Control flow testing can be applied at different levels of testing, such as unit testing, integration testing, system testing, etc.
+- Control flow testing has some advantages and disadvantages. Some of the advantages are: it can detect a large number of defects in the program, it can improve the quality and reliability of the program, it can provide a clear and structured view of the program logic, it can facilitate debugging and maintenance, etc. Some of the disadvantages are: it can be time-consuming and costly, it can be difficult to generate and execute test cases for complex programs, it can be incomplete or redundant, it can miss some errors that are not related to the control flow, etc.

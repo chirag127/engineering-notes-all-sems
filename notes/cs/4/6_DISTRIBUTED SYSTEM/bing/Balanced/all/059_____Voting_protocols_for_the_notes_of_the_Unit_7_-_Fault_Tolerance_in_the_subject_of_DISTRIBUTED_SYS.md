@@ -1,0 +1,13 @@
+# Voting protocols for the notes of the Unit 7 - Fault Tolerance in the subject of DISTRIBUTED SYSTEM
+
+- Voting protocols are a type of consensus protocols that allow a set of distributed nodes to agree on a common value or decision, despite the presence of faults or attacks.
+- Voting protocols are useful for achieving fault tolerance in distributed systems, such as replicated databases, distributed file systems, or blockchain networks.
+- Voting protocols can be classified into two categories: exact voting and inexact voting.
+  - Exact voting requires that all nodes agree on the same value or decision, and that the value or decision is correct according to some predefined criteria. Examples of exact voting protocols are two-phase commit, three-phase commit, and Paxos.
+  - Inexact voting allows some degree of disagreement or error among the nodes, as long as the value or decision is acceptable according to some predefined criteria. Examples of inexact voting protocols are majority voting, weighted voting, and probabilistic voting.
+- Voting protocols can also be classified into two categories based on the security properties they provide: secure voting and non-secure voting.
+  - Secure voting ensures that the value or decision is not influenced by malicious nodes or external attackers, and that the voting process is resilient to denial-of-service attacks, message tampering, or impersonation. Examples of secure voting protocols are Byzantine fault-tolerant protocols, such as PBFT, Zyzzyva, and Tendermint.
+  - Non-secure voting does not provide any security guarantees, and assumes that the nodes are honest and the network is reliable. Examples of non-secure voting protocols are traditional two-phase commit and three-phase commit protocols.
+- Voting protocols can also be classified into two categories based on the fairness properties they provide: fair voting and unfair voting.
+  - Fair voting ensures that the value or decision is not biased by the nodes' preferences, weights, or reputations, and that the voting process is equitable and proportional. Examples of fair voting protocols are approval voting, Borda count, and Condorcet methods.
+  - Unfair voting allows some degree of bias or inequality among the nodes, as long as the value or decision is acceptable according to some predefined criteria. Examples of unfair voting protocols are plurality voting, weighted voting, and reputation-based voting.

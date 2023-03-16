@@ -1,0 +1,21 @@
+# Testing Suite for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software engineering is a branch of computer science that deals with the design, implementation, and maintenance of complex computer programs .
+- Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
+- Software engineering involves various activities, such as:
+  - Requirements analysis: identifying and defining the needs and expectations of the stakeholders and the users of the software system.
+  - Software design: creating a high-level blueprint of the software architecture, components, interfaces, and data structures.
+  - Software development: writing, testing, debugging, and documenting the source code of the software system.
+  - Software testing: verifying and validating the functionality, quality, performance, and reliability of the software system.
+  - Software deployment: installing, configuring, and launching the software system in the target environment.
+  - Software maintenance: updating, modifying, and fixing the software system to cope with changing requirements, errors, and new technologies.
+- Software engineering follows various models, methods, and processes to guide and manage the software development life cycle, such as:
+  - Waterfall model: a sequential and linear approach that divides the software development into distinct phases, such as requirements, design, implementation, testing, and maintenance.
+  - Agile model: an iterative and incremental approach that emphasizes collaboration, feedback, and adaptation, and delivers working software in short cycles, called sprints.
+  - Spiral model: a risk-driven and evolutionary approach that combines the features of the waterfall and agile models, and involves four phases: planning, risk analysis, engineering, and evaluation.
+  - V-model: a verification and validation approach that maps each phase of the software development to a corresponding phase of testing, such as unit testing, integration testing, system testing, and acceptance testing.
+- Software engineering faces various challenges, such as:
+  - Complexity: software systems are often large, distributed, heterogeneous, and dynamic, and require sophisticated design and implementation techniques.
+  - Quality: software systems must meet the functional and non-functional requirements of the stakeholders and the users, and adhere to the standards and best practices of software engineering.
+  - Cost: software systems must be developed within the budget and time constraints of the project, and optimize the use of resources and tools.
+  - Change: software systems must be adaptable and maintainable to cope with changing requirements, errors, and new technologies.

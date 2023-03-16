@@ -1,0 +1,13 @@
+# Scientific landmarks for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+
+- Virtual reality (VR) is a technology that creates immersive and interactive simulations of real or imaginary environments using computer graphics and sensory feedback.
+- VR has been used for various purposes in science, such as:
+  - Scientific visualization: VR can help scientists express complex ideas and concepts, such as molecular models, statistical results, or astronomical phenomena, in a more intuitive and engaging way  .
+  - Neuroscience research and therapy: VR can enable researchers to study the brain and behavior in controlled and realistic scenarios, such as navigation, social interaction, or phobias. VR can also be used to treat various neurological and psychological disorders, such as post-traumatic stress disorder, stroke, or autism.
+  - Discovery and exploration: VR can allow scientists to access and manipulate data that are otherwise difficult or impossible to observe, such as the structure and dynamics of the human genome, the formation and evolution of stars and galaxies, or the origin and fate of the universe .
+- Some of the scientific landmarks of VR are:
+  - The first VR system: The Sensorama, invented by Morton Heilig in 1957, was a mechanical device that simulated a motorcycle ride through New York City, using a stereoscopic display, stereo sound, vibration, wind, and smell.
+  - The first head-mounted display (HMD): The Sword of Damocles, developed by Ivan Sutherland in 1968, was a computer-generated graphics system that projected simple wireframe images onto a user's eyes, creating a primitive form of augmented reality.
+  - The first immersive VR environment: The Aspen Movie Map, created by MIT in 1978, was a video-based simulation of the city of Aspen, Colorado, that allowed users to navigate through the streets using a joystick and a large projection screen.
+  - The first VR glove: The DataGlove, invented by Thomas Zimmerman and Jaron Lanier in 1985, was a wearable device that tracked the movements and gestures of the user's hand and fingers, enabling natural and intuitive interaction with virtual objects.
+  - The first VR CAVE: The Cave Automatic Virtual Environment, developed by the University of Illinois at Chicago in 1992, was a room-sized VR system that surrounded the user with stereoscopic images projected on the walls, floor, and ceiling, creating a high-fidelity and immersive experience.

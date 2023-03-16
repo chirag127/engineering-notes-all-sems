@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of word senses for the unit 4 - semantics and pragmatics in the subject of natural language processing.
+
+### Word Senses
+
+- A word sense is the meaning of a word in a particular context or situation.
+- A word can have multiple senses depending on how it is used or interpreted.
+- For example, the word "bank" can have different senses such as a financial institution, a river shore, or a verb meaning to tilt or turn.
+- Word senses are often related to each other by semantic relations such as synonymy, antonymy, hyponymy, hypernymy, meronymy, holonymy, etc.
+- For example, the word "dog" is a hyponym of the word "animal", meaning that it is a more specific type of animal. The word "animal" is a hypernym of the word "dog", meaning that it is a more general type of dog. The word "tail" is a meronym of the word "dog", meaning that it is a part of a dog. The word "dog" is a holonym of the word "tail", meaning that it is a whole that contains a tail.
+- Word senses can be ambiguous, meaning that they can have more than one possible interpretation in a given context.
+- For example, the sentence "He saw the bat" can be ambiguous because the word "bat" can have two senses: a flying mammal or a wooden club.
+- Word sense disambiguation is the task of resolving the ambiguity of word senses and assigning the correct sense to a word in a context.
+- For example, the sentence "He saw the bat in the cave" can be disambiguated by assigning the sense of a flying mammal to the word "bat", based on the clue of the word "cave".
+- Word sense disambiguation can be done by using various methods such as rule-based, knowledge-based, supervised, unsupervised, or semi-supervised approaches.
+- For example, a rule-based method can use predefined rules or patterns to match the word and the context and assign the sense accordingly. A knowledge-based method can use external resources such as dictionaries, thesauri, ontologies, or corpora to find the semantic relations and similarities between the word and the context and assign the sense accordingly. A supervised method can use annotated data to train a classifier or a model to predict the sense based on the features of the word and the context. An unsupervised method can use unannotated data to cluster the word and the context based on their distributional or contextual properties and assign the sense accordingly. A semi-supervised method can use a combination of annotated and unannotated data to leverage the advantages of both supervised and unsupervised methods and assign the sense accordingly.
+- Word sense disambiguation is an important and challenging task in natural language processing because it can affect the performance and accuracy of other tasks such as machine translation, information retrieval, information extraction, text summarization, sentiment analysis, etc.
+- For example, the sentence "He saw the bat" can have different translations in different languages depending on the sense of the word "bat". The sentence "He saw the bat in the cave" can have different information to be extracted depending on the sense of the word "bat". The sentence "He saw the bat and ran away" can have different sentiments to be analyzed depending on the sense of the word "bat".

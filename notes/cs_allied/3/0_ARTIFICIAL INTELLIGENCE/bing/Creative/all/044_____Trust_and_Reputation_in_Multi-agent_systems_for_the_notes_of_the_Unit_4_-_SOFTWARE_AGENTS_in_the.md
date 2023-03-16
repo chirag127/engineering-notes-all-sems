@@ -1,0 +1,25 @@
+# Trust and Reputation in Multi-Agent Systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS) where agents can cooperate, coordinate, and negotiate with each other .
+- Trust is the subjective belief that an agent has about the reliability, honesty, and competence of another agent .
+- Reputation is the collective opinion that a group of agents has about the trustworthiness of another agent based on their direct or indirect experiences .
+- Trust and reputation can help agents to select suitable partners, avoid malicious or incompetent agents, and cope with uncertainty and risk .
+- There are many different models and metrics for trust and reputation in MAS, such as:
+  - Marsh's model: a formal model that defines trust as a function of basic, general, and situational trust, and uses utility theory to evaluate the outcomes of trusting actions .
+  - Sen et al.'s model: a probabilistic model that computes trust as the likelihood of an agent performing a given action based on its past behavior and the behavior of similar agents .
+  - SPORAS: a reputation system that assigns numerical scores to agents based on their feedback ratings, and updates them using a decay function and a normalization factor .
+  - eBay's system: a reputation system that allows buyers and sellers to rate each other after a transaction, and displays the total number of positive, negative, and neutral ratings for each agent .
+  - Certified reputation: a reputation system that uses cryptographic techniques to ensure the authenticity and integrity of the feedback ratings, and to prevent agents from creating fake identities or colluding with each other .
+- Trust and reputation models can be classified into several categories based on different criteria, such as:
+  - The source of information: direct (based on first-hand experiences) or indirect (based on recommendations or reports from other agents) .
+  - The type of information: binary (positive or negative), discrete (using a finite scale), or continuous (using a real-valued range) .
+  - The aggregation method: how the information from multiple sources is combined, such as using average, weighted average, majority voting, or Bayesian inference .
+  - The update mechanism: how the trust and reputation values are updated over time, such as using exponential decay, sliding window, or forgetting factor .
+  - The representation format: how the trust and reputation values are represented, such as using numbers, probabilities, fuzzy sets, or logic .
+- Trust and reputation models face several challenges and issues, such as:
+  - How to deal with incomplete, inconsistent, or inaccurate information .
+  - How to cope with dynamic and uncertain environments .
+  - How to handle malicious or dishonest agents that may provide false or misleading information, or behave opportunistically or strategically .
+  - How to balance between exploration and exploitation, i.e., between trying new or unknown agents and sticking to familiar or trusted agents .
+  - How to incentivize agents to cooperate, share information, and provide honest feedback .
+  - How to evaluate the performance and effectiveness of trust and reputation models .

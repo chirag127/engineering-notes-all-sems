@@ -1,0 +1,13 @@
+### Postulates of Quantum Mechanics
+
+Quantum mechanics is the branch of physics that describes the behavior of matter and energy at the atomic and subatomic scales. Quantum mechanics is based on a set of postulates, or fundamental assumptions, that are not derived from any other principles but are consistent with experimental observations. The postulates of quantum mechanics are:
+
+- **Postulate 1**: The state of a quantum mechanical system is completely specified by a wave function, which is a mathematical function that depends on the coordinates and time of the system. The wave function contains all the information that can be known about the system, and its square modulus gives the probability density of finding the system in a given region of space and time.
+
+- **Postulate 2**: To every physical observable, such as position, momentum, energy, angular momentum, etc., there corresponds a linear, Hermitian operator, which is a mathematical operation that acts on the wave function and returns another wave function. The eigenvalues of the operator are the possible values of the observable that can be measured in an experiment, and the eigenvectors of the operator are the corresponding wave functions that give definite values of the observable.
+
+- **Postulate 3**: The outcome of a measurement of an observable on a quantum system is one of the eigenvalues of the corresponding operator, and the probability of obtaining a particular eigenvalue is given by the square of the inner product of the wave function before the measurement and the eigenvector associated with that eigenvalue. The wave function after the measurement collapses to the eigenvector corresponding to the measured eigenvalue.
+
+- **Postulate 4**: The time evolution of a quantum system is governed by the Schrödinger equation, which is a differential equation that relates the wave function at different times. The Schrödinger equation is derived from the principle of least action, and it preserves the normalization and linearity of the wave function.
+
+These postulates form the basis of quantum mechanics, and they can be used to derive various theorems, principles, and applications of quantum physics. However, they also raise some conceptual and philosophical questions, such as the nature of reality, the role of the observer, the meaning of probability, and the compatibility of quantum mechanics with relativity and causality. These questions are still the subject of active research and debate among physicists and philosophers.

@@ -1,0 +1,12 @@
+### Hyperparameter optimization for deep learning
+
+- Hyperparameter optimization is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
+- Hyperparameters can affect the performance, speed, and complexity of deep learning models. Some examples of hyperparameters are learning rate, number of hidden layers, number of neurons per layer, activation functions, regularization, dropout, batch size, etc.
+- Hyperparameter optimization can be done manually, by trial and error, or automatically, by using algorithms that search the hyperparameter space and evaluate the model performance on a validation set or using cross-validation.
+- Some common algorithms for hyperparameter optimization are:
+  - **Random search**: It randomly samples values from a predefined range or distribution for each hyperparameter and evaluates the model for a fixed number of iterations or until a certain criterion is met.
+  - **Grid search**: It exhaustively tests all possible combinations of values from a predefined grid for each hyperparameter and evaluates the model for each combination.
+  - **Bayesian optimization**: It uses a probabilistic model to estimate the objective function (model performance) as a function of the hyperparameters and selects the next set of hyperparameters to evaluate based on an acquisition function that balances exploration and exploitation.
+  - **Tree-structured Parzen Estimator (TPE)**: It is a variant of Bayesian optimization that models the objective function as a mixture of two distributions: one for the hyperparameters that lead to good performance and one for the hyperparameters that lead to bad performance. It then selects the next set of hyperparameters to evaluate based on the ratio of these two distributions.
+  - **Genetic algorithm (GA)**: It is a population-based evolutionary algorithm that mimics the natural selection process. It starts with a random population of individuals (sets of hyperparameters) and evaluates their fitness (model performance). It then applies genetic operators such as crossover and mutation to generate new individuals and selects the best ones to form the next generation. This process is repeated until a certain criterion is met.
+- Hyperparameter optimization can also be applied to other aspects of deep learning, such as architecture search, data subset selection, and weight initialization .

@@ -1,0 +1,12 @@
+### Visual Displays for the notes of the Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES in the subject of Augmented & Virtual Reality
+
+- Visual displays are output devices that present 3D representations of system state to the user .
+- Visual displays can be classified into two categories: fully-immersive and semi-immersive.
+  - Fully-immersive displays occlude the real world and provide a high degree of presence and immersion to the user. Examples are head-mounted displays, arm-mounted displays and virtual retinal displays.
+  - Semi-immersive displays allow the user to see the real world and provide a lower degree of presence and immersion. Examples are monitors, surround-screen displays, workbenches, hemispherical displays and autostereoscopic displays .
+- Visual display characteristics that affect the quality and performance of 3D user interfaces are :
+  - Field of regard (FOR) and field of view (FOV): FOR is the total angular extent of the display, while FOV is the angular extent of the display that is visible to the user at any given time. A larger FOV can increase the sense of immersion and realism, but also increase the computational cost and the risk of simulator sickness.
+  - Spatial resolution: The number of pixels per unit area or per unit angle of the display. A higher resolution can improve the visual quality and the perception of depth and distance, but also increase the computational cost and the power consumption.
+  - Brightness, contrast and gamma correction: The luminance, the ratio of the brightest and darkest colors, and the nonlinear mapping of input intensity to output luminance of the display. These factors can affect the visibility, legibility and color reproduction of the display, as well as the user's comfort and fatigue.
+  - Stereoscopy: The ability of the display to present different images to each eye of the user, creating a binocular disparity that enhances the perception of depth. Stereoscopic displays can be active (using shutter glasses or eye tracking) or passive (using polarized glasses or filters).
+  - Refresh rate: The frequency at which the display updates the image. A higher refresh rate can reduce the latency, flicker and motion blur of the display, as well as the risk of simulator sickness. A refresh rate of at least 60 Hz is recommended for 3D user interfaces.

@@ -1,0 +1,11 @@
+### Consensus protocols for Permissioned Blockchains
+
+- A consensus protocol enables all the parties of the blockchain network to come to a common agreement (consensus) on the present data state of the ledger .
+- In a permissioned blockchain, all the participating nodes are known and chosen, but consensus is still required because not every node is trustworthy.
+- Choosing the right consensus protocol for permissioned blockchain depends on factors like the extent of decentralization required, the level of trust among the participants, the number of permissions granted to the participants, the performance and scalability of the network, and the security and fault tolerance of the system .
+- Some of the common consensus protocols for permissioned blockchains are:
+
+  - **Delegated Proof of Stake (DPoS)**: A variant of Proof of Stake (PoS) where stakeholders elect a fixed number of delegates to produce blocks and validate transactions. The delegates are rewarded for their service and can be voted out by the stakeholders if they misbehave. This protocol aims to achieve high efficiency, scalability, and democracy in the network .
+  - **Delegated Byzantine Fault Tolerance (dBFT)**: A protocol that uses a leader-follower model to reach consensus. The leader proposes a block and the followers validate it. If the leader is faulty or malicious, the followers can switch to a new leader. This protocol aims to achieve high finality, low latency, and resistance to forks .
+  - **Proof of Elapsed Time (PoET)**: A protocol that uses a trusted execution environment (TEE) to randomly assign a waiting time to each node. The node with the shortest waiting time gets to propose the next block. This protocol aims to achieve low energy consumption, fairness, and scalability .
+  - **Practical Byzantine Fault Tolerance (PBFT)**: A protocol that uses a state machine replication technique to reach consensus. The nodes communicate through multiple rounds of messages to agree on a block. This protocol aims to achieve high throughput, low latency, and tolerance to up to one-third of faulty nodes.

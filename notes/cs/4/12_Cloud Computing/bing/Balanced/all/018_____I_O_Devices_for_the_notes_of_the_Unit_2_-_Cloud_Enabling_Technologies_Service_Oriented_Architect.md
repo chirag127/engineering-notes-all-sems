@@ -1,0 +1,9 @@
+# I/O Devices
+
+- I/O devices are hardware components that can take, output, or process data. They receive data as input and provide it to a computer, as well as send computer data to storage media as a storage output.
+- In cloud computing, I/O devices can be virtualized, meaning that a virtual device is substituted for its physical equivalent, such as a network interface card (NIC) or host bus adapter (HBA). This can simplify server configurations and reduce power consumption.
+- Some examples of I/O devices in cloud computing are:
+  - IoT devices: These are devices that can connect to the internet and exchange data with cloud services. They can include smart cameras, thermometers, robots, drones, vibration sensors, and other sensors. IoT devices can generate large amounts of data that need to be stored and processed in the cloud.
+  - Edge devices: These are devices that can perform some computation and storage at the edge of the network, closer to the data sources and users. They can reduce latency and bandwidth consumption by processing some data locally before sending it to the cloud. Edge devices can include processors, memory, and storage units.
+  - Input devices: These are devices that can provide data to the cloud, such as keyboards, mice, scanners, cameras, microphones, etc. Input devices can enable users to interact with cloud applications and services.
+  - Output devices: These are devices that can display or produce data from the cloud, such as monitors, printers, speakers, headphones, etc. Output devices can enable users to receive feedback and results from cloud applications and services.

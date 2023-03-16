@@ -1,0 +1,11 @@
+### Issues in PoS tagging
+
+- PoS tagging is the task of assigning a part-of-speech (PoS) label to each word in a sentence, such as noun, verb, adjective, etc.
+- PoS tagging is useful for many natural language processing (NLP) applications, such as syntactic parsing, semantic analysis, information extraction, machine translation, etc.
+- However, PoS tagging is not a trivial task, and there are several issues that make it challenging, such as:
+
+  - **Ambiguity**: Many words can have more than one possible PoS tag, depending on the context. For example, the word "book" can be a noun or a verb, and the word "can" can be a modal verb or a noun. PoS taggers need to use contextual information and linguistic rules to disambiguate the correct tag for each word.
+  - **Sparsity**: Many words are rare or unseen in the training data, and PoS taggers need to generalize to new words based on their morphology, semantics, or other clues. For example, the word "quark" may not appear in the training data, but it can be inferred to be a noun based on its suffix and meaning. PoS taggers need to use smoothing techniques, back-off models, or unknown word handling methods to deal with sparsity.
+  - **Variation**: Language is dynamic and constantly evolving, and PoS taggers need to adapt to new words, new meanings, new genres, new domains, and new styles of writing. For example, the word "tweet" can be a noun or a verb, and it has a different meaning in social media than in ornithology. PoS taggers need to use domain adaptation, online learning, or active learning methods to deal with variation.
+  - **Noise**: Text data can contain errors, typos, misspellings, slang, abbreviations, or non-standard forms that can affect the PoS tagging accuracy. For example, the word "ur" can be a typo for "your" or a slang for "you are". PoS taggers need to use normalization, correction, or robustness methods to deal with noise.
+  - **Granularity**: Different PoS tag sets can have different levels of granularity, ranging from coarse-grained to fine-grained, and PoS taggers need to choose the appropriate tag set for the task and the data. For example, the Penn Treebank tag set has 36 tags, while the Universal Dependencies tag set has 17 tags. PoS taggers need to use tag mapping, tag projection, or tag induction methods to deal with granularity.

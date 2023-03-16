@@ -1,0 +1,13 @@
+### Architectures for Dimensionality Reduction
+
+Dimensionality reduction is the process of reducing the number of features or variables in a dataset, while preserving the essential information or structure. Dimensionality reduction can be useful for data visualization, data compression, data analysis, and machine learning or deep learning applications.
+
+Some of the common architectures for dimensionality reduction are:
+
+- **Principal Component Analysis (PCA)**: PCA is a linear transformation that projects the data onto a lower-dimensional subspace, such that the variance of the projected data is maximized. PCA can be computed using eigenvalue decomposition or singular value decomposition of the data matrix. PCA can be used for data visualization, noise reduction, feature extraction, and data compression.
+
+- **Autoencoders**: Autoencoders are a type of neural network that learn to encode the input data into a lower-dimensional representation, and then decode it back to the original input. Autoencoders can be trained using self-supervised learning, where the input data is also the target output. Autoencoders can be used for data compression, feature extraction, anomaly detection, and generative modeling. Autoencoders can be constructed using various frameworks, such as Pytorch, Pytorch Lightning, Keras, and TensorFlow.
+
+- **Deep Belief Networks (DBNs)**: DBNs are a type of deep neural network that consist of multiple layers of Restricted Boltzmann Machines (RBMs). RBMs are a type of generative model that learn to capture the joint probability distribution of the input data and a set of hidden variables. DBNs can be trained using a greedy layer-wise approach, where each layer is trained as an RBM using contrastive divergence. DBNs can be used for feature extraction, generative modeling, and classification.
+
+- **Dimensionality Reduction Methods (DRMs)**: DRMs are a class of methods that use various techniques to project the high-dimensional data onto a lower-dimensional space, while preserving some aspects of the data structure, such as distances, angles, clusters, or manifolds. Some examples of DRMs are Multidimensional Scaling (MDS), Isomap, Locally Linear Embedding (LLE), Laplacian Eigenmaps, t-distributed Stochastic Neighbor Embedding (t-SNE), and Uniform Manifold Approximation and Projection (UMAP). DRMs can be used for data visualization, data analysis, and data preprocessing.

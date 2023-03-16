@@ -1,0 +1,12 @@
+### Types of Grids for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+
+- Grid computing is a distributed computing paradigm that allows multiple computers to share resources and work together to solve a common problem or perform a common task.
+- Grid computing networks consist of three types of machines: control nodes, provider nodes, and consumer nodes.
+- Control nodes are servers that administer the network and maintain the grid middleware, which is the software layer that enables communication and coordination among the grid nodes.
+- Provider nodes are computers that contribute their resources, such as CPU, memory, disk space, or bandwidth, to the network.
+- Consumer nodes are computers that request and use the resources provided by the network.
+- Grid computing can be classified into different types based on the purpose, architecture, or application of the network. Some of the common types are:
+  - Computational grid: This type of grid acts as a mediator of many computers in a given network to solve one single problem at a time. The problem is divided into smaller subtasks that are distributed among the provider nodes for parallel processing. An example of a computational grid is the SETI@home project, which uses the idle CPU cycles of millions of computers to search for extraterrestrial intelligence.
+  - Data grid: The grid that deals with the sharing and managing the distributed data in a controlled manner is termed as a data grid. Data grids provide mechanisms for data replication, caching, migration, and access across multiple locations. An example of a data grid is the Earth System Grid, which provides access to climate data from various sources.
+  - Collaborative grid: Such types of grids help in solving collective problems that require human interaction and coordination. Collaborative grids enable the sharing of applications, tools, documents, and other resources among geographically dispersed users. An example of a collaborative grid is the Access Grid, which supports video conferencing and virtual reality environments.
+  - Service grid: This type of grid provides a platform for delivering and consuming services over the network. Service grids use web services standards and protocols to enable interoperability and integration among heterogeneous systems. An example of a service grid is the Globus Toolkit, which provides a set of services for security, resource management, data transfer, and monitoring in grid environments.

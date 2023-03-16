@@ -1,0 +1,9 @@
+### MAC protocol survey
+
+- MAC (Medium Access Control) protocols are responsible for coordinating the access of multiple devices to a shared wireless medium in IoT (Internet of Things) networks.
+- MAC protocols can be classified into two main categories: contention-based and contention-free.
+- Contention-based MAC protocols allow devices to compete for the channel access without reservation or scheduling. They are suitable for low traffic and dynamic networks, but they may suffer from collisions, overhead, and unfairness. Examples of contention-based MAC protocols are CSMA/CA, ALOHA, and IEEE 802.11.
+- Contention-free MAC protocols allocate the channel access to devices in advance using reservation or scheduling mechanisms. They are suitable for high traffic and static networks, but they may suffer from complexity, overhead, and wastage. Examples of contention-free MAC protocols are TDMA, FDMA, CDMA, and IEEE 802.15.4.
+- MAC protocols can also be classified based on the coverage range of the wireless medium: short-range and long-range.
+- Short-range MAC protocols are designed for devices that communicate within a few meters, such as Bluetooth, ZigBee, and NFC. They are low-power, low-cost, and low-data-rate protocols that support various applications such as personal area networks, home automation, and smart cards.
+- Long-range MAC protocols are designed for devices that communicate over tens or hundreds of meters, such as WiFi, WiMAX, and LoRa. They are high-power, high-cost, and high-data-rate protocols that support various applications such as wireless local area networks, wireless metropolitan area networks, and low-power wide area networks.

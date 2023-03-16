@@ -1,0 +1,11 @@
+### Resource Management and Scheduling
+
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, which involves coordinating and controlling the use of computing resources among multiple users and applications  .
+- The main objectives of RMS are to maximize resource utilization, minimize processing time, and ensure fairness and quality of service for the users and applications .
+- The RMS of clusters provides support for four main functionalities: management of resources, job queuing, job scheduling, and execution .
+  - Management of resources: The RMS manages, controls, and maintains the status information of the resources, such as processors and disk storage, in the cluster system. It also monitors the availability and performance of the resources and handles failures and faults .
+  - Job queuing: Jobs submitted by the users into the cluster system are initially placed into queues until there are available resources to execute the jobs. The RMS may use different policies to prioritize and order the jobs in the queues, such as first-come first-served, shortest job first, or user-defined priority .
+  - Job scheduling: The cluster RMS then invokes the cluster scheduler to determine how resources are assigned to various jobs. The scheduler may use different algorithms and strategies to allocate resources to jobs, such as static or dynamic, centralized or distributed, or single or multiple criteria .
+  - Execution: After that, the cluster RMS dispatches the jobs to the assigned nodes and manages the job execution processes before returning the results to the users upon job completion. The RMS may also perform load balancing, migration, or preemption of jobs to improve the performance and efficiency of the cluster system .
+- Cluster resource scheduling is a challenging and complex problem, as it involves dealing with heterogeneous and dynamic resources, multiple and conflicting objectives, diverse and unpredictable workloads, and various constraints and requirements  .
+- Cluster resource scheduling is also an active and evolving research area, as new technologies and applications emerge and pose new challenges and opportunities for improving the performance and functionality of cluster systems .

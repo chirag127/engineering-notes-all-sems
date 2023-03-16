@@ -1,0 +1,21 @@
+### Stochastic Games
+
+- Stochastic games are a generalization of Markov decision processes (MDPs) to the case where there are multiple agents in a common environment.
+- The agents perform a joint action that defines both the reward obtained by the agents and the new state of the environment.
+- The environment is assumed to be stochastic, meaning that the state transition probabilities depend only on the current state and the joint action, not on the history of the game.
+- The agents are assumed to be rational, meaning that they aim to maximize their expected discounted return over time.
+- Stochastic games can model various artificial intelligence applications that involve multiple agents, such as playing chess and Go, autonomous driving, and robotics.
+- Stochastic games can be classified into different types based on the information available to the agents, the structure of the game, and the objectives of the agents.
+- Some common types of stochastic games are:
+  - Zero-sum games: The agents have opposite and conflicting interests, such that the sum of their rewards is zero at each state. For example, chess and Go are zero-sum games.
+  - General-sum games: The agents have arbitrary and possibly cooperative interests, such that the sum of their rewards is not necessarily zero at each state. For example, autonomous driving and robotics are general-sum games.
+  - Perfect-information games: The agents have complete and accurate knowledge of the current state of the environment and the actions of the other agents. For example, chess and Go are perfect-information games.
+  - Imperfect-information games: The agents have incomplete or inaccurate knowledge of the current state of the environment and the actions of the other agents. For example, poker and bridge are imperfect-information games.
+  - Deterministic games: The state transition probabilities are either one or zero, meaning that the outcome of the joint action is certain. For example, chess and Go are deterministic games.
+  - Stochastic games: The state transition probabilities are between zero and one, meaning that the outcome of the joint action is uncertain. For example, backgammon and dice are stochastic games.
+- Stochastic games can be solved by various methods, depending on the type and size of the game. Some common methods are:
+  - Minimax: A method for finding the optimal strategy for a zero-sum game with perfect information and deterministic transitions. It involves searching the game tree and choosing the action that minimizes the maximum possible loss.
+  - Alpha-beta pruning: A technique for improving the efficiency of minimax by pruning branches of the game tree that are provably worse than the current best option.
+  - Expectimax: A generalization of minimax for stochastic games with perfect information. It involves searching the game tree and choosing the action that maximizes the expected value of the outcome.
+  - Monte Carlo tree search (MCTS): A method for finding near-optimal strategies for large and complex games with perfect or imperfect information and deterministic or stochastic transitions. It involves sampling the game tree and updating the value estimates of the nodes based on the outcomes of the simulations.
+  - Reinforcement learning (RL): A method for learning optimal or near-optimal strategies for stochastic games with imperfect information and stochastic transitions. It involves interacting with the environment and updating the value estimates or policies of the agents based on the feedback from the environment.

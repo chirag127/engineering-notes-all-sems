@@ -1,0 +1,12 @@
+# Moving
+
+Moving is the process of changing the location or position of an object or a person. Moving can be done by various means, such as walking, driving, flying, sailing, etc. Moving can have different purposes, such as transportation, exploration, migration, etc.
+
+# Applications of Artificial Intelligence in Moving
+
+Artificial intelligence (AI) is the ability of machines, programs or systems to learn and adapt by experience. AI has many applications in different domains, such as language translation, image recognition, credit scoring, e-commerce, etc. AI can also be used to improve the efficiency, safety and quality of moving in various ways, such as:
+
+- **Navigation**: AI can help with finding the best routes, avoiding traffic, optimizing fuel consumption, etc. AI can also provide voice or visual guidance, real-time updates, and alternative suggestions in case of emergencies or changes in plans. For example, Google Maps, Waze, Uber, etc. use AI to provide navigation services to users.
+- **Autonomous vehicles**: AI can enable vehicles to move without human intervention, by using sensors, cameras, radars, lidars, etc. to perceive the environment, and by using algorithms, neural networks, etc. to control the steering, acceleration, braking, etc. AI can also help with collision avoidance, lane keeping, parking, etc. For example, Tesla, Waymo, Cruise, etc. use AI to develop autonomous vehicles.
+- **Robotics**: AI can help with designing, programming, and operating robots that can move and perform various tasks, such as manufacturing, cleaning, delivery, surgery, etc. AI can also help with enhancing the mobility, dexterity, and coordination of robots, by using machine learning, computer vision, natural language processing, etc. For example, Boston Dynamics, Amazon, iRobot, etc. use AI to create and use robots for different purposes.
+- **Space exploration**: AI can help with exploring and studying the outer space, by using satellites, probes, rovers, etc. that can move and collect data, images, samples, etc. AI can also help with analyzing the data, finding patterns, detecting anomalies, etc. AI can also help with communicating with the spacecraft, adjusting the trajectory, landing, etc. For example, NASA, SpaceX, ESA, etc. use AI to support their space missions.

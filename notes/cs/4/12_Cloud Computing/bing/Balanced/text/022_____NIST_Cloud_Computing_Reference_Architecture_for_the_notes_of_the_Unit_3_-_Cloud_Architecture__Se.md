@@ -1,0 +1,10 @@
+### NIST Cloud Computing Reference Architecture
+
+- The NIST Cloud Computing Reference Architecture (NIST SP 500-292) is a document that defines a neutral and generic cloud computing architecture and taxonomy to facilitate communication and understanding of various cloud services and offerings .
+- The NIST Cloud Computing Reference Architecture consists of five major components: cloud consumer, cloud provider, cloud broker, cloud auditor, and cloud carrier .
+- Cloud consumer is the entity that uses cloud services from a cloud provider. Cloud consumer can be an individual, an organization, or a software system.
+- Cloud provider is the entity that provides cloud services to cloud consumers. Cloud provider can offer different types of cloud service models, such as Software as a Service (SaaS), Platform as a Service (PaaS), or Infrastructure as a Service (IaaS).
+- Cloud broker is an intermediary entity that manages the use, performance, and delivery of cloud services for cloud consumers. Cloud broker can provide services such as service intermediation, service aggregation, or service arbitrage.
+- Cloud auditor is an independent entity that conducts audits and assessments of cloud services, such as security, privacy, performance, or compliance. Cloud auditor can provide reports or attestations to cloud consumers, cloud providers, or other stakeholders.
+- Cloud carrier is the entity that transports data and information between cloud consumers and cloud providers. Cloud carrier can provide services such as network connectivity, bandwidth, or routing.
+- The NIST Cloud Computing Reference Architecture also defines a set of roles and activities for each component, as well as the interactions and relationships among them. The NIST Cloud Computing Reference Architecture aims to support interoperability, portability, and security requirements for cloud computing.

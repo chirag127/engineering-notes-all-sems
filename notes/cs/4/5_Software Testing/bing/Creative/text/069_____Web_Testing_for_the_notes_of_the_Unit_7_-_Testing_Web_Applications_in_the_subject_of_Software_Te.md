@@ -1,0 +1,13 @@
+### Web Testing
+
+Web testing is software testing that focuses on web applications. Web applications are software programs that run on web browsers and communicate with web servers. Web testing aims to ensure that web applications are functional, reliable, secure, compatible, and performant before they are released to the public .
+
+Some of the topics that web testing covers are:
+
+- **Functionality testing**: This type of testing verifies that the web application meets the functional requirements and specifications. It checks for features such as links, forms, navigation, database connections, user authentication, etc. Functionality testing also involves testing for errors, such as broken links, missing images, incorrect messages, etc. 
+- **Usability testing**: This type of testing evaluates the user-friendliness and accessibility of the web application. It checks for aspects such as user interface design, content clarity, ease of use, feedback, help, etc. Usability testing involves testing with real users or user representatives to get their feedback and suggestions. 
+- **Compatibility testing**: This type of testing checks whether the web application works well across different browsers, operating systems, devices, and screen resolutions. It also checks for compatibility with other web standards, such as HTML, CSS, JavaScript, etc. Compatibility testing helps to ensure that the web application provides a consistent user experience for all users.  
+- **Security testing**: This type of testing verifies that the web application protects the data and privacy of the users and the system. It checks for aspects such as encryption, authentication, authorization, session management, input validation, etc. Security testing also involves testing for vulnerabilities, such as SQL injection, cross-site scripting, denial-of-service, etc.  
+- **Performance testing**: This type of testing measures the speed, scalability, and stability of the web application under different load conditions. It checks for aspects such as response time, throughput, resource utilization, etc. Performance testing also involves testing for bottlenecks, errors, and failures that may affect the web application's performance.  
+
+Web testing is an important part of the software development life cycle. It helps to ensure the quality and functionality of the web application and to prevent potential issues and risks. Web testing can be done manually or with the help of automated tools and frameworks.

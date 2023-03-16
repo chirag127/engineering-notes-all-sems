@@ -1,0 +1,24 @@
+### File system for mobile computing
+
+- A file system is a software component that manages the storage and retrieval of data on a persistent device, such as a hard disk, flash memory, or optical disc.
+- A file system for mobile computing is a file system that supports the mobility of both users and devices, and adapts to the challenges of wireless and mobile environments, such as network disconnection, low bandwidth, high latency, and limited battery power.
+- Some of the design issues for a file system for mobile computing are:
+  - How to provide location transparency, i.e., the ability to access files regardless of their physical location or the location of the user or device.
+  - How to support user mobility, i.e., the ability to access files from different devices and networks, and to migrate files across devices and networks.
+  - How to ensure data consistency and availability, i.e., the ability to access the latest version of a file and to handle concurrent updates and conflicts, especially in the presence of network disconnection or partition.
+  - How to optimize network and device resources, i.e., the ability to reduce network traffic and storage overhead, and to conserve battery power and bandwidth.
+  - How to provide security and privacy, i.e., the ability to authenticate users and devices, to encrypt and decrypt data, and to control access to files and directories.
+- One of the design options for a file system for mobile computing is to use a distributed file system, such as the Andrew File System (AFS) or the Coda File System, which are based on the client-server model, where a central server stores the files and a client caches the files locally for faster access and offline operation.
+- A distributed file system for mobile computing should provide the following features:
+  - Caching: The client should cache the files locally to improve performance and availability, and to reduce network traffic and power consumption. The caching should be persistent, i.e., the cached files should survive across reboots and crashes, and should be synchronized with the server periodically or on demand.
+  - Replication: The server should replicate the files across multiple servers to improve availability and fault tolerance, and to balance the load. The replication should be consistent, i.e., the replicas should have the same version of a file, and should be updated atomically and reliably.
+  - Disconnected operation: The client should be able to operate in the absence of network connectivity, i.e., to read and write files from the local cache, and to reconcile the changes with the server when the network is restored. The reconciliation should handle conflicts, i.e., the situation where the same file has been modified by different clients or servers while disconnected.
+  - Adaptive clustering: The client should be able to form clusters with other nearby clients to share files and resources, and to reduce the dependency on the server. The clustering should be adaptive, i.e., the clusters should be formed and dissolved dynamically based on the network conditions and the user preferences.
+- An example of a file system for mobile computing that implements these features is the Coda File System, which is an extension of the AFS. Coda provides the following advantages:
+  - High performance through client-side persistent caching
+  - High availability through server replication
+  - Disconnected operation for mobile computing
+  - Network bandwidth adaptation
+  - Security model for authentication, encryption and access control
+  - Continued operation during partial network failures in server network
+  - Good scalability

@@ -1,0 +1,26 @@
+### Architectural models for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Architectural models are types of system models that deal with the organization of components across the network and their interrelationship.
+- Architectural models describe the placement of parts in a distributed system and the relationship between them.
+- Architectural models can be classified into different styles, such as:
+  - Client-server architecture: A style where one or more servers provide services to multiple clients that request them. The servers and clients can be distributed across the network. This style forms the base for multi-tier architectures.
+  - Broker architecture: A style where a broker component acts as an intermediary between clients and servers, hiding the details of communication and location from them. The broker can also provide additional services such as security, load balancing, and fault tolerance. An example of this style is CORBA.
+  - Service-oriented architecture: A style where services are loosely coupled and can be discovered, composed, and invoked dynamically. Services are self-contained, platform-independent, and communicate using standard protocols such as SOAP and REST. An example of this style is web services.
+  - Peer-to-peer architecture: A style where each node in the network can act as both a client and a server, and can communicate directly with other nodes without a central authority. This style can provide scalability, resilience, and resource sharing. An example of this style is BitTorrent.
+  - Distributed object architecture: A style where objects are distributed across the network and can be accessed and manipulated by remote method invocation. Objects can be transparently replicated, migrated, and cached for performance and availability. An example of this style is Java RMI.
+  - Distributed component architecture: A style where components are distributed across the network and can be assembled into applications using a component model. Components can be reusable, configurable, and interoperable. An example of this style is EJB.
+- Architectural models can also be influenced by other factors, such as:
+  - Scalability: The ability of a system to handle increasing workload or number of users without degrading performance or quality of service.
+  - Availability: The degree to which a system is operational and accessible to users.
+  - Reliability: The probability that a system will perform its intended function without failure.
+  - Security: The protection of a system from unauthorized access, modification, or disclosure of information.
+  - Transparency: The degree to which a system hides the details of its distribution from users and applications.
+  - Heterogeneity: The diversity of hardware, software, and network platforms in a distributed system.
+- Architectural models can be evaluated and compared based on various criteria, such as:
+  - Complexity: The difficulty of designing, implementing, testing, and maintaining a system.
+  - Modularity: The degree to which a system is composed of independent and cohesive units.
+  - Reusability: The extent to which a system or its parts can be used in different contexts or applications.
+  - Configurability: The ease of adapting a system to different requirements or environments.
+  - Interoperability: The ability of a system to communicate and cooperate with other systems.
+  - Performance: The measure of how well a system meets its functional and non-functional requirements.
+  - Cost: The amount of resources (such as time, money, and effort) required to develop, deploy, and operate a system.

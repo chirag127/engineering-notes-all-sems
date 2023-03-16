@@ -1,0 +1,25 @@
+### Hidden Markov Models for the notes of the Unit 7 - SPEECH MODELING in the subject of Natural Language Processing
+
+- A Hidden Markov Model (HMM) is a statistical tool for modeling data with sequential correlations in neighboring samples, such as time series data.
+- HMM is one of the most successful applications in natural language processing (NLP), especially for speech recognition and part-of-speech tagging  .
+- HMM explains about the probability of the observable state or variable by learning the hidden or unobservable states.
+- HMM consists of two components: a set of hidden states and a set of observable symbols .
+- HMM assumes that the hidden states follow a Markov chain, which means that the current state depends only on the previous state .
+- HMM also assumes that the observable symbols are conditionally independent of each other given the hidden states .
+- HMM can be represented by a 5-tuple: (S, V, A, B, π), where :
+  - S is the set of hidden states, such as phonemes or part-of-speech tags.
+  - V is the set of observable symbols, such as acoustic features or words.
+  - A is the state transition matrix, which specifies the probability of moving from one state to another.
+  - B is the observation probability matrix, which specifies the probability of emitting an observable symbol from a state.
+  - π is the initial state distribution, which specifies the probability of starting from a state.
+- HMM can be used to solve three basic problems :
+  - Evaluation: Given an HMM and a sequence of observable symbols, what is the probability that the HMM generated the sequence?
+  - Decoding: Given an HMM and a sequence of observable symbols, what is the most likely sequence of hidden states that generated the sequence?
+  - Learning: Given a set of sequences of observable symbols, how can we estimate the parameters of an HMM that best fits the data?
+- HMM can be applied to speech recognition by using acoustic features as observable symbols and phonemes as hidden states  .
+- HMM can be applied to part-of-speech tagging by using words as observable symbols and part-of-speech tags as hidden states .
+- HMM can be trained using supervised or unsupervised methods .
+  - Supervised methods use labeled data, where both the observable symbols and the hidden states are known, to estimate the parameters of the HMM using maximum likelihood estimation or maximum a posteriori estimation .
+  - Unsupervised methods use unlabeled data, where only the observable symbols are known, to estimate the parameters of the HMM using expectation-maximization algorithm or Baum-Welch algorithm .
+- HMM can be evaluated using metrics such as accuracy, precision, recall, or F1-score, depending on the task and the application .
+- HMM can be improved by using techniques such as smoothing, pruning, scaling, or beam search, to deal with issues such as data sparsity, numerical underflow, or computational complexity .

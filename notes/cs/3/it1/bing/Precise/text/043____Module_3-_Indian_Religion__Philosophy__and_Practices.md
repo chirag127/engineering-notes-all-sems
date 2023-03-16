@@ -1,0 +1,8 @@
+## Module 3- Indian Religion, Philosophy, and Practices
+
+1. Hinduism is a major religious and cultural tradition of South Asia, which developed from Vedic religion.
+2. The majority of Asian Indians practice Hinduism. The other major religions are Sikhism, Buddhism, Jainism, Christianity, and Islam. A small percentage of the population practices Judaism, Zoroastrianism, and Baha’I’ Faith.
+3. Religion played an important part in the lives of Indians from the earliest times. The nature of the religious beliefs and practices of the Aryans is also known from the Rig Veda.
+4. Indian philosophers do not seek to justify religious faith; philosophic wisdom itself is accorded the dignity of religious truth. Theory is not subordinated to practice, but theory itself, as theory, is regarded as being supremely worthy and efficacious.
+5. Hinduism is a major world religion originating on the Indian subcontinent and comprising several and varied systems of philosophy, belief, and ritual. Although the name Hinduism is relatively new, having been coined by British writers in the first decades of the 19th century, it refers to a rich cumulative tradition of texts and practices.
+6. Most Indians believe in God and say religion is very important in their lives. Nearly all Indians say they believe in God (97%), and roughly 80% of people in most religious groups say they are absolutely certain that God exists. The main exception is Buddhists, one-third of whom say they do not believe in God.

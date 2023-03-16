@@ -1,0 +1,12 @@
+### Drivers for SOA
+
+Service-oriented architecture (SOA) is a design paradigm that aims to create loosely coupled, reusable, and interoperable software services that can be composed to meet the changing business needs. SOA is driven by various factors that influence the adoption and implementation of this approach. Some of the drivers for SOA are:
+
+- **Reuse of software services across the enterprise**: SOA enables the development and deployment of software services that can be shared and reused by different applications and business processes within and across the enterprise. This reduces the duplication of effort, cost, and complexity of maintaining multiple versions of the same functionality. Reuse also enhances the consistency, quality, and reliability of the software services. 
+- **Business flexibility**: SOA allows the business to respond quickly and effectively to the changing market conditions, customer demands, and regulatory requirements. SOA enables the business to modify, replace, or add new software services without affecting the existing ones. SOA also facilitates the alignment of the software services with the business goals and strategies, as well as the collaboration and integration of the business processes and functions.  
+- **Ease of integration**: SOA simplifies the integration of heterogeneous systems, platforms, and technologies by using standard protocols, interfaces, and formats. SOA enables the communication and interaction of the software services regardless of their location, implementation, or vendor. SOA also reduces the dependency and coupling of the software services, making them more independent and modular.  
+- **Speed of integration**: SOA accelerates the integration of the software services by using a service registry and a service bus that facilitate the discovery, invocation, and orchestration of the software services. SOA also enables the parallel development and testing of the software services, as well as the incremental and iterative delivery of the software solutions. SOA also supports the automation and optimization of the integration processes and workflows.  
+
+: https://formtek.com/blog/soa-top-drivers-for-soa-adoption/
+: https://www.cleverism.com/how-to-build-service-oriented-architecture-soa/
+: https://www.bmc.com/blogs/service-oriented-architecture-overview/

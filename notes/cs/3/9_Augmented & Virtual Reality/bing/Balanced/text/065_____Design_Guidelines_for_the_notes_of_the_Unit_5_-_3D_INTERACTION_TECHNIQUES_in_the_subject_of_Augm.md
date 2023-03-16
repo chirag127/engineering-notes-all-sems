@@ -1,0 +1,23 @@
+### Design Guidelines for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- 3D interaction techniques are methods of interacting with 3D objects and environments in virtual reality (VR) and augmented reality (AR) applications.
+- 3D interaction techniques can be classified into four categories: selection, manipulation, navigation, and system control.
+- Selection techniques are methods of specifying one or more 3D objects as the target of an interaction, such as pointing, ray-casting, or lassoing.
+- Manipulation techniques are methods of changing the position, orientation, size, shape, or appearance of 3D objects, such as grabbing, dragging, scaling, or rotating.
+- Navigation techniques are methods of changing the viewpoint or location of the user or the virtual camera in the 3D environment, such as walking, flying, or teleporting.
+- System control techniques are methods of accessing and modifying the system parameters, modes, or options, such as menus, buttons, or voice commands.
+- 3D interaction techniques should follow some general design principles, such as:
+  - Affordance: the technique should indicate its functionality and usage to the user.
+  - Consistency: the technique should behave in a predictable and coherent way across different contexts and applications.
+  - Feedback: the technique should provide appropriate and timely information to the user about the outcome of the interaction.
+  - Efficiency: the technique should enable the user to perform the desired task with minimal effort and time.
+  - Intuitiveness: the technique should match the user's mental model and expectations of the interaction.
+  - Immersion: the technique should enhance the user's sense of presence and engagement in the 3D environment.
+  - Comfort: the technique should avoid causing physical or mental fatigue, discomfort, or motion sickness to the user.
+- 3D interaction techniques should also consider the specific characteristics and constraints of the VR and AR platforms, such as:
+  - Display: the technique should adapt to the type, size, resolution, and field of view of the display device, such as head-mounted displays (HMDs), monitors, or projectors.
+  - Input: the technique should utilize the available input devices and modalities, such as controllers, gloves, trackers, or gestures.
+  - Output: the technique should leverage the available output devices and modalities, such as audio, haptics, or vibration.
+  - Tracking: the technique should account for the accuracy, latency, and occlusion of the tracking system, which may affect the user's perception and performance.
+  - Registration: the technique should ensure the alignment and coherence of the virtual and real objects and environments, especially in AR applications.
+  - Context: the technique should suit the task, application, and environment of the user, such as educational, gaming, or industrial settings.

@@ -1,0 +1,9 @@
+### Recovery in Concurrent Systems
+
+- Recovery in concurrent systems is the process of restoring the system to a consistent state after a failure, while preserving the effects of the transactions that committed before the failure.
+- Recovery in concurrent systems is challenging because multiple transactions may interleave their operations and share data, which may result in inconsistent or incomplete recovery actions.
+- Recovery in concurrent systems can be classified into two main categories: backward recovery and forward recovery.
+- Backward recovery is the technique of undoing the effects of the transactions that were affected by the failure, and restoring the system to a previous consistent state. Backward recovery requires the system to maintain logs or checkpoints of the system state and the transaction history, and to use them to roll back the changes made by the transactions.
+- Forward recovery is the technique of redoing the effects of the transactions that were committed before the failure, and applying them to the current state of the system. Forward recovery requires the system to maintain logs or checkpoints of the committed transactions and their outputs, and to use them to replay the changes made by the transactions.
+- Recovery in concurrent systems can also be influenced by the concurrency control mechanism used by the system, such as locking, timestamping, or optimistic methods. Concurrency control can affect the order and the atomicity of the transactions, and thus the recovery actions needed to preserve them.
+- Recovery in concurrent systems can also be performed in parallel or concurrently, by using multiple recovery sessions or threads to recover different parts of the system or different media sets. Concurrent recovery can improve the performance and the availability of the system, but it may also introduce additional complexity and synchronization issues.

@@ -1,0 +1,6 @@
+### Definition for the notes of the Unit 1 - INTRODUCTION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Artificial intelligence (AI) is the **theory and development of computer systems** that can **perform tasks** that normally require **human intelligence**, such as visual perception, speech recognition, decision-making, and translation between languages .
+- AI is also the **ability of a digital computer or computer-controlled robot** to perform tasks **commonly associated with intelligent beings**, such as reasoning, discovering meaning, learning from experience, and adapting to new situations.
+- AI is a **branch of computer science** that deals with the **simulation of intelligent behavior in computers** and the **capability of a machine to imitate intelligent human behavior**.
+- AI is a **field** that combines **computer science and robust datasets** to enable **problem-solving**. It also encompasses **sub-fields of machine learning and deep learning**, which are frequently mentioned in conjunction with AI.

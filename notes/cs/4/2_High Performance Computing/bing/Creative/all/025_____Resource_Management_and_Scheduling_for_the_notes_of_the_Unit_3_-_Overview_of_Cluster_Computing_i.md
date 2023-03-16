@@ -1,0 +1,21 @@
+# Resource Management and Scheduling for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, as they determine how the cluster resources are allocated and utilized by the applications.
+- The RMS of clusters provides support of four main functionalities:
+  - Management of resources: The RMS manages, controls and maintains the status information of the resources such as processors and disk storage in the cluster system.
+  - Job queuing: Jobs submitted by the users into the cluster system are initially placed into queues until there are available resources to execute the jobs.
+  - Job scheduling: The cluster RMS then invokes the cluster scheduler to determine how resources are assigned to various jobs based on some criteria such as fairness, priority, performance, etc.
+  - Job execution: After that, the cluster RMS dispatches the jobs to the assigned nodes and manages the job execution processes before returning the results to the users upon job completion.
+- Cluster resource scheduling includes two main functions:
+  - Resource allocation: The process of assigning a certain quantity of computing resources to each user or application at runtime, guided by a global policy to share cluster resources among multiple users based on fairness and/or predefined priority.
+  - Job scheduling: The process of mapping the tasks of an application to the allocated resources, taking into account the dependencies, communication, load balancing, and optimization objectives.
+- There are different types of cluster schedulers, such as:
+  - Batch schedulers: They execute jobs in batches, without any user interaction. They are suitable for long-running, compute-intensive, and parallel applications. Examples are Slurm, PBS, and LSF.
+  - Interactive schedulers: They execute jobs on demand, with user interaction. They are suitable for short-running, interactive, and sequential applications. Examples are SSH and RSH.
+  - Hybrid schedulers: They combine the features of batch and interactive schedulers, and can execute both types of jobs. Examples are Condor and SGE.
+- There are different challenges and trade-offs involved in cluster resource scheduling, such as:
+  - Heterogeneity: The cluster resources may have different capabilities, availability, and performance, which makes the scheduling more complex and dynamic.
+  - Scalability: The cluster may have a large number of resources and jobs, which requires efficient and distributed algorithms and data structures to handle the scheduling problem.
+  - Fault tolerance: The cluster may experience failures of resources or jobs, which requires mechanisms to detect, recover, and reschedule the affected tasks.
+  - Quality of service: The cluster may have different service level agreements (SLAs) with the users or applications, which requires mechanisms to ensure the satisfaction of the SLAs in terms of performance, availability, reliability, etc.
+  - Energy efficiency: The cluster may consume a large amount of energy, which requires mechanisms to reduce the energy consumption and carbon footprint of the cluster, such as dynamic voltage and frequency scaling (DVFS), power capping, and resource consolidation.

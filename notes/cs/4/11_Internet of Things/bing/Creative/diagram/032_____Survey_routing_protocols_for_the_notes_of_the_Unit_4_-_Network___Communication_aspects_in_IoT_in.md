@@ -1,0 +1,20 @@
+### Survey routing protocols for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- Routing protocols are algorithms that determine the best paths for data packets to reach their destinations in a network.
+- Routing protocols for Internet of Things (IoT) are designed to meet the specific challenges and requirements of IoT networks, such as resource constraints, heterogeneity, scalability, mobility, and security.
+- Routing protocols for IoT can be classified into different categories based on various criteria, such as network topology, routing strategy, data flow direction, and security level.
+- Some of the common categories of routing protocols for IoT are:
+
+  - Flat routing protocols: These protocols treat all the nodes in the network as equal and do not form any hierarchy or cluster. They are suitable for small and static networks with low traffic and energy consumption. Examples of flat routing protocols for IoT are Ad hoc On-Demand Distance Vector (AODV), Dynamic Source Routing (DSR), and Optimized Link State Routing (OLSR).
+  - Hierarchical routing protocols: These protocols divide the network into clusters or groups of nodes, where each cluster has a leader or a coordinator that performs routing and data aggregation functions. They are suitable for large and dynamic networks with high traffic and energy consumption. Examples of hierarchical routing protocols for IoT are Low-Energy Adaptive Clustering Hierarchy (LEACH), Threshold-sensitive Energy Efficient sensor Network (TEEN), and Hybrid Energy-Efficient Distributed clustering (HEED).
+  - Location-based routing protocols: These protocols use the geographic information of the nodes to make routing decisions. They are suitable for networks with high mobility and location-aware applications. Examples of location-based routing protocols for IoT are Geographic Routing Protocol (GRP), Greedy Perimeter Stateless Routing (GPSR), and Distance Routing Effect Algorithm for Mobility (DREAM).
+  - Context-based routing protocols: These protocols use the contextual information of the nodes, such as their status, preferences, capabilities, and environment, to make routing decisions. They are suitable for networks with heterogeneous and dynamic nodes and applications. Examples of context-based routing protocols for IoT are Context-Aware Routing Protocol (CARP), Context-Aware Routing Protocol for IoT (CARPIoT), and Context-Based Routing Protocol (CBRP).
+  - Security-based routing protocols: These protocols use cryptographic techniques and trust mechanisms to ensure the security and privacy of the data and the nodes in the network. They are suitable for networks with sensitive and confidential data and applications. Examples of security-based routing protocols for IoT are Secure Routing Protocol for IoT (SRP-IoT), Secure and Trust-Aware Routing Protocol for IoT (STAR-IoT), and Secure and Energy-Efficient Routing Protocol for IoT (SEER-IoT).
+
+- Routing protocols for IoT are still an active area of research and development, as new challenges and opportunities emerge with the advancement of IoT technologies and applications. Some of the future research directions for routing protocols for IoT are:
+
+  - Developing adaptive and self-organizing routing protocols that can cope with the dynamic and unpredictable nature of IoT networks and applications.
+  - Developing cross-layer and cooperative routing protocols that can exploit the synergy and collaboration among different layers and nodes in the network.
+  - Developing energy-efficient and green routing protocols that can minimize the energy consumption and environmental impact of IoT networks and applications.
+  - Developing quality-of-service and performance-aware routing protocols that can meet the diverse and stringent requirements of IoT networks and applications.
+  - Developing interoperable and standard-based routing protocols that can enable the seamless integration and communication among different IoT networks and platforms.

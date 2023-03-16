@@ -1,0 +1,25 @@
+### Standards and Guidelines for SOA
+
+- Standards and guidelines are two different types of documents that provide recommendations or best practices for service-oriented architecture (SOA).
+- Standards are mandatory and enforceable rules that specify the requirements or criteria for SOA. Standards can be set by professional organizations, regulatory bodies, or industry consortia. Examples of standards for SOA include:
+  - XML: Extensible Markup Language, a standard format for data exchange and representation.
+  - SOAP: Simple Object Access Protocol, a standard protocol for message exchange between services.
+  - WSDL: Web Services Description Language, a standard language for describing the interface and functionality of services.
+  - UDDI: Universal Description, Discovery and Integration, a standard registry for publishing and discovering services.
+  - WS-*: A family of standards for web services, such as WS-Security, WS-ReliableMessaging, WS-Addressing, etc.
+- Guidelines are optional and advisory documents that suggest or recommend specific professional behavior, endeavor or conduct for SOA. Guidelines are aspirational in intent and do not impose any obligations or sanctions. Examples of guidelines for SOA include:
+  - SOA Principles: A set of principles that guide the design and development of services and service-oriented solutions. Some of the common SOA principles are:
+    - Standardized service contract: Services should have well-defined and consistent interfaces that are specified through one or more service description documents.
+    - Loose coupling: Services should be designed as self-contained components that maintain relationships that minimize dependencies on other services.
+    - Abstraction: Services should hide their logic and implementation details from the consumers and only expose what is necessary through their contracts.
+    - Reusability: Services should be designed to support reuse across different contexts and domains.
+    - Autonomy: Services should have control over their own logic and resources and avoid being affected by external factors.
+    - Statelessness: Services should avoid maintaining state information within their scope and delegate state management to the consumers or external mechanisms.
+    - Discoverability: Services should be easily discoverable and identifiable by potential consumers and provide sufficient metadata to describe their capabilities and requirements.
+    - Composability: Services should be designed to support composition and orchestration into higher-level services and processes.
+  - SOA Patterns: A set of proven and reusable solutions for common problems or challenges in SOA. Some of the common SOA patterns are:
+    - Service Façade: A pattern that provides a simplified and uniform interface to a complex or heterogeneous set of services or systems.
+    - Service Broker: A pattern that mediates the communication and interaction between service consumers and providers and provides functions such as routing, transformation, validation, etc.
+    - Service Registry: A pattern that provides a centralized repository for storing and retrieving service metadata and contracts.
+    - Service Bus: A pattern that provides a shared and distributed infrastructure for connecting and integrating services and systems.
+    - Service Proxy: A pattern that provides an intermediary service that acts on behalf of another service and provides functions such as caching, logging, security, etc.

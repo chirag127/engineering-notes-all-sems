@@ -1,0 +1,7 @@
+### Public, Private and Hybrid Clouds
+
+- Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence.
+- There are three main types of cloud deployment models: public, private, and hybrid clouds. Each one has its own advantages and disadvantages, depending on the needs and goals of the organization.
+- **Public cloud** is cloud computing that’s delivered via the internet and shared across organizations. Anyone can subscribe to and access public cloud services, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). Public cloud offers scalability, reliability, and cost-efficiency, but also less control, security, and customization than private cloud.
+- **Private cloud** is cloud computing that is dedicated solely to your organization. It can be hosted on-premises or by a third-party provider. Private cloud offers more control, security, and customization than public cloud, but also requires more investment, maintenance, and expertise than public cloud.
+- **Hybrid cloud** is any environment that uses both public and private clouds. It allows organizations to leverage the benefits of both cloud models, such as scalability, cost-efficiency, security, and flexibility. Hybrid cloud also introduces some challenges, such as complexity, compatibility, and governance.

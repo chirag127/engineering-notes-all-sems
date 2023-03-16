@@ -1,0 +1,10 @@
+# Input device characteristics
+
+- Input devices are hardware that allow the user to communicate with the system by providing input in 3D space  .
+- Input devices can be classified according to the following characteristics :
+  - Degrees of freedom (DOFs): the number and type of independent parameters that define the position and orientation of an object in 3D space. For example, a 6-DOF device can report the x, y, z coordinates and the pitch, yaw, roll angles of an object. DOFs can be integral (combined in a single device) or separable (divided among multiple devices).
+  - Type of electronics: digital (binary) or analog (continuous) signals that are sent from the device to the system. For example, a button is a digital device that can be either on or off, while a joystick is an analog device that can report a range of values along two axes.
+  - Range of reported values: discrete (finite) or continuous (infinite) or hybrid (combination) values that the device can produce. For example, a keyboard is a discrete device that can only produce a limited number of characters, while a mouse is a continuous device that can produce an unlimited number of positions on a plane.
+  - Sensing technology: active (emitting) or passive (receiving) sensors that are used to track the position and orientation of the device or the user. For example, a magnetic tracker is an active device that emits a magnetic field and measures its distortion, while a camera is a passive device that captures images of the environment and analyzes them.
+  - Input modality: the type of human sensory channel that is used to provide input to the system. For example, a glove is a haptic device that uses touch and force feedback, while a microphone is an auditory device that uses speech and sound recognition.
+  - Special purpose: the degree of generality or specificity of the device for a particular task or application. For example, a mouse is a general-purpose device that can be used for many tasks, while a steering wheel is a special-purpose device that is designed for driving simulations.

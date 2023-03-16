@@ -1,0 +1,23 @@
+# Virtualization Structures
+
+- Virtualization is the process of creating and delivering a virtual rather than a physical version of something   .
+- Virtualization can be applied to hardware, such as desktops, servers, storage, memory and networks, as well as software, such as operating systems, applications and databases  .
+- Virtualization enables the creation of virtual machines (VMs), which are isolated environments that run on the same physical machine and share the same hardware resources  .
+- Virtualization plays a key and dominant role in cloud computing, as it facilitates the delivery of cloud services, such as infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS), by allowing multiple users to access the same physical resources in a secure and efficient manner  .
+- A virtualization architecture is a conceptual model of a virtual infrastructure that specifies the arrangement and interrelationships among the components in the virtual environment.
+- A virtualization architecture consists of three main layers: the hardware layer, the virtualization layer and the virtual machine layer.
+- The hardware layer is the physical infrastructure that provides the computing, storage and networking resources for the virtual environment.
+- The virtualization layer is the software that creates and manages the VMs and allocates the hardware resources to them  .
+- The virtual machine layer is the collection of VMs that run on the virtualization layer and host the operating systems, applications and data of the users  .
+- A virtualization architecture can be classified into different types based on the level of abstraction and the degree of isolation among the VMs. Some of the common types are:
+  - Full virtualization: The VMs are completely isolated from each other and the hardware layer, and can run any operating system without modification  .
+  - Para-virtualization: The VMs are partially isolated from each other and the hardware layer, and need to run a modified operating system that is aware of the virtualization layer  .
+  - Hardware-assisted virtualization: The hardware layer supports the virtualization layer by providing special instructions and features that enhance the performance and security of the VMs  .
+  - Operating system-level virtualization: The virtualization layer is integrated with the operating system of the physical machine, and creates isolated containers that share the same kernel and resources .
+  - Application-level virtualization: The virtualization layer is embedded in the application, and creates virtual instances of the application that run on different platforms without installation .
+- The advantages of virtualization in cloud computing are:
+  - Improved resource utilization and efficiency, as the physical resources can be dynamically allocated and shared among multiple VMs   .
+  - Reduced costs and energy consumption, as the number of physical machines and devices can be minimized and optimized   .
+  - Enhanced scalability and flexibility, as the VMs can be easily created, modified, migrated and deleted according to the changing demands and requirements   .
+  - Increased security and reliability, as the VMs are isolated from each other and the hardware layer, and can be protected and recovered by the virtualization layer   .
+  - Simplified management and maintenance, as the VMs can be centrally controlled and monitored by the virtualization layer   .

@@ -1,0 +1,23 @@
+### Memory for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+
+- Service Oriented Architecture (SOA) is a design paradigm that defines how software components can interact and cooperate to provide business services .
+- SOA is based on the principles of loose coupling, abstraction, reusability, composability, statelessness, discoverability, and interoperability .
+- SOA enables cloud computing by facilitating the integration and orchestration of distributed and heterogeneous services across the internet  .
+- REST (Representational State Transfer) is an architectural style that defines how web resources can be accessed and manipulated using a uniform and stateless interface .
+- REST is based on the principles of resource identification, resource representation, resource linking, and uniform interface .
+- REST enables cloud computing by providing a scalable, flexible, and efficient way of exposing and consuming web services .
+- Systems of Systems (SoS) are large-scale systems that consist of multiple independent and interrelated subsystems that collaborate to achieve a common goal .
+- SoS are characterized by operational and managerial independence, evolutionary development, emergent behavior, and geographical distribution .
+- SoS enable cloud computing by allowing the dynamic and adaptive composition of services from different domains and providers .
+- Web Services are software components that can be invoked and composed over the web using standard protocols and formats  .
+- Web Services can be classified into two types: SOAP (Simple Object Access Protocol) and RESTful  .
+- SOAP is a protocol that defines how to exchange structured and typed messages between web services using XML and HTTP  .
+- RESTful is a style that defines how to access and manipulate web resources using HTTP methods and formats  .
+- Web Services enable cloud computing by providing a platform-independent and interoperable way of exposing and consuming business functionalities  .
+- Publish-Subscribe Model is a communication pattern that decouples the producers and consumers of messages by using an intermediary broker .
+- Publish-Subscribe Model is based on the concepts of topics, publishers, subscribers, and brokers .
+- Topics are logical channels that categorize the messages according to their content or type .
+- Publishers are entities that produce and send messages to the topics .
+- Subscribers are entities that register their interest in one or more topics and receive the messages that match their subscriptions .
+- Brokers are entities that manage the topics, store the messages, and deliver them to the subscribers .
+- Publish-Subscribe Model enables cloud computing by providing a scalable, reliable, and asynchronous way of exchanging data and events between distributed and decoupled services .

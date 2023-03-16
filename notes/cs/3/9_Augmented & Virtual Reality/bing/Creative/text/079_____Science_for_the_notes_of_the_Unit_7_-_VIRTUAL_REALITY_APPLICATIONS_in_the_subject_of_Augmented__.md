@@ -1,0 +1,21 @@
+### Science for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+
+- Virtual reality applications are applications that make use of virtual reality (VR), an immersive sensory experience that digitally simulates a virtual environment.
+- Virtual reality uses software and hardware to immerse a user, and potentially other viewers, in a digital environment. They get to explore and interact with virtual surroundings, and in some cases, also their physical environment.
+- Virtual reality applications require interactive devices, such as goggles, headsets, gloves, or body suits, that send and receive information and create a stereoscopic or 3D view of the simulated environment.
+- Virtual reality applications can be classified into different categories, such as:
+  - Education and training: VR can be used to create realistic and immersive scenarios for learning and practicing skills, such as medical procedures, military operations, driving, or flying.
+  - Entertainment and gaming: VR can be used to create engaging and immersive experiences for fun and leisure, such as exploring different worlds, playing games, watching movies, or creating art.
+  - Business and industry: VR can be used to enhance productivity and collaboration, such as virtual meetings, data visualization, product design, or marketing.
+  - Health and wellness: VR can be used to improve physical and mental health, such as rehabilitation, therapy, fitness, or meditation.
+  - Social and cultural: VR can be used to connect and interact with others, such as social networking, communication, education, or tourism.
+- Virtual reality applications have many benefits, such as:
+  - Providing a safe and controlled environment for learning and training.
+  - Enhancing the sense of presence and immersion for entertainment and gaming.
+  - Improving the efficiency and quality of work for business and industry.
+  - Supporting the recovery and well-being of health and wellness.
+  - Enabling the access and exchange of information and experiences for social and cultural.
+- Virtual reality applications also have some challenges, such as:
+  - Technical limitations, such as high cost, low resolution, latency, or compatibility.
+  - User issues, such as motion sickness, eye strain, or privacy.
+  - Ethical and social implications, such as addiction, isolation, or deception.

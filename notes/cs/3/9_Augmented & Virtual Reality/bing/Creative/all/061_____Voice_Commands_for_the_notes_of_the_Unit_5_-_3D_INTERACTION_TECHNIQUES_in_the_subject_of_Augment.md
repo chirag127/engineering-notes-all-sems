@@ -1,0 +1,27 @@
+# Voice Commands for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- Voice commands are a type of system control technique that allow users to interact with 3D environments using speech input .
+- Voice commands can be very powerful as they are hands-free and natural, and can reduce the cognitive and physical load of using other input devices .
+- Voice commands can also be combined with other modalities, such as gestures, to create multimodal interfaces that can enhance the expressiveness and efficiency of 3D interaction .
+- Voice commands can be used for various tasks in 3D interaction, such as navigation, selection, manipulation, system control, and communication .
+- Voice commands can be classified into two categories: direct and indirect .
+  - Direct voice commands are those that directly map to a specific action or function, such as "move left", "rotate", or "zoom in" .
+  - Indirect voice commands are those that require some interpretation or inference by the system, such as "make it bigger", "align with that", or "show me more options" .
+- Voice commands can also be classified into two types: discrete and continuous .
+  - Discrete voice commands are those that have a finite set of possible values, such as "yes", "no", or "red" .
+  - Continuous voice commands are those that have a continuous range of possible values, such as "move 10 cm", "rotate 45 degrees", or "zoom 50%" .
+- Voice commands can have various advantages and disadvantages for 3D interaction, depending on the context, task, and user preferences .
+  - Advantages of voice commands include:
+    - They are natural and intuitive, and can reduce the need for memorizing menus or buttons .
+    - They are hands-free and eyes-free, and can free up the user's hands and gaze for other tasks or modalities .
+    - They are fast and efficient, and can reduce the number of steps or actions required to perform a task .
+    - They are expressive and flexible, and can allow the user to specify complex or precise commands using natural language .
+  - Disadvantages of voice commands include:
+    - They are prone to errors and misunderstandings, and can require error correction or confirmation mechanisms .
+    - They are sensitive to noise and accents, and can require calibration or adaptation to different environments or users .
+    - They are intrusive and disruptive, and can interfere with the user's privacy or social context .
+    - They are limited and constrained, and can depend on the system's vocabulary or grammar .
+- Voice commands can be improved or enhanced by using various techniques, such as voice snapping, multimodal feedback, or adaptive recognition  .
+  - Voice snapping is a technique that uses interface snapping mechanisms to help users manipulate graphical objects' dimensions using voice commands.
+  - Multimodal feedback is a technique that uses visual, auditory, or haptic cues to provide feedback to the user about the system's recognition or execution of voice commands .
+  - Adaptive recognition is a technique that uses machine learning or user modeling to adjust the system's recognition or interpretation of voice commands based on the user's behavior or preferences .

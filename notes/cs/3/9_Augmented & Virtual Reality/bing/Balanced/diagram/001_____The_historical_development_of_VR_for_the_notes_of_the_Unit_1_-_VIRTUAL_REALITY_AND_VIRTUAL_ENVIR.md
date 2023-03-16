@@ -1,0 +1,11 @@
+### The historical development of VR
+
+- Virtual reality (VR) is the simulation of a three-dimensional environment that can be interacted with in a seemingly real way by a person using special equipment, such as a headset and gloves.
+- The concept of VR dates back to the 1800s, when stereoscopes were invented to create the illusion of depth in photographs by using twin mirrors to project a single image.
+- In the 1950s, Morton Heilig, a filmmaker and inventor, developed the Sensorama, a device that could display 3D images, sounds, smells, and vibrations to create an immersive cinematic experience.
+- In 1968, Ivan Sutherland and Bob Sproull created the first VR head-mounted display (HMD) system, called the Sword of Damocles, which could track the user's head movements and display simple wireframe graphics.
+- In the 1970s and 1980s, VR research and development was mainly driven by the military and academic institutions, such as the US Department of Defense, the National Science Foundation, and NASA, who used VR for training, simulation, and visualization purposes.
+- In 1987, Jaron Lanier, a computer scientist and entrepreneur, coined the term "virtual reality" and founded VPL Research, a company that produced VR products, such as the EyePhone, the DataGlove, and the DataSuit .
+- In the 1990s, VR became more popular and accessible to the public, with the emergence of arcade games, home consoles, and personal computers that could support VR applications, such as Sega VR, Nintendo Virtual Boy, and VRML.
+- In the 2000s and 2010s, VR technology advanced rapidly, with the introduction of more sophisticated and affordable HMDs, such as the Oculus Rift, the HTC Vive, the PlayStation VR, and the Samsung Gear VR, as well as the development of VR content for entertainment, education, health, and social media.
+- In the 2020s, VR is expected to continue to evolve and expand, with the integration of artificial intelligence, haptics, eye tracking, and 5G, as well as the emergence of new applications, such as VR tourism, VR therapy, and VR art.

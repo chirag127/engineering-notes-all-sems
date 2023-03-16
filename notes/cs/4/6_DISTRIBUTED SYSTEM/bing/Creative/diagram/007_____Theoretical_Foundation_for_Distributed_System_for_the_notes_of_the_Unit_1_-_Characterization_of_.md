@@ -1,0 +1,11 @@
+### Theoretical Foundation for Distributed System
+
+A distributed system is a collection of processes that are spatially separated and do not share a common memory and communicate with one another by exchanging messages with arbitrary delays .
+
+Some of the theoretical foundations for distributed system are:
+
+- **Limitation of Distributed System**: Due to the lack of global clock, shared memory, and reliable communication, distributed systems face challenges such as synchronization, consistency, fault tolerance, and security.
+- **Logical Clocks**: Logical clocks are a way of ordering events in a distributed system without relying on physical clocks. They assign logical timestamps to events such that causally related events have consistent timestamps. There are different types of logical clocks, such as Lamport's clocks and vector clocks, that have different properties and trade-offs .
+- **Message Passing System**: Message passing system is a model of communication in distributed systems where processes send and receive messages to each other. Message passing system can be synchronous or asynchronous, reliable or unreliable, and FIFO or non-FIFO. Message passing system can be used to implement various distributed algorithms, such as leader election, mutual exclusion, consensus, and broadcast .
+- **Coordination Algorithms**: Coordination algorithms are fundamental in distributed systems to achieve agreement and consistency among processes. They can be used for dynamic role assignment, resource sharing, and action coordination. Some examples of coordination algorithms are Paxos, Raft, Two-Phase Commit, and Distributed Snapshots.
+- **Distributed Information Systems**: Distributed information systems are systems that store, process, and disseminate information across multiple nodes in a network. They aim to provide scalability, availability, and fault tolerance for large-scale data management. They also face challenges such as data replication, consistency, and security. Some examples of distributed information systems are distributed databases, distributed file systems, and distributed web services.

@@ -1,0 +1,9 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Checkpointing is a technique to save the state of a distributed system periodically, so that it can be recovered from failures.
+- A checkpoint is a snapshot of the local state of a process, such as its memory, registers, and open files.
+- A consistent checkpoint is a set of checkpoints from different processes that reflects a global state that could have occurred during the execution of the system.
+- A consistent checkpoint should not contain any orphan messages, which are messages that are received by a process after its checkpoint, but sent by another process before its checkpoint.
+- There are two main approaches to obtain consistent checkpoints: coordinated checkpointing and communication-induced checkpointing.
+- Coordinated checkpointing requires all processes to coordinate with each other to take checkpoints at the same time, or to flush all messages in transit before taking checkpoints. This ensures that no orphan messages are created, but it incurs a high overhead and may block the normal execution of the system.
+- Communication-induced checkpointing allows each process to take checkpoints independently, but requires them to piggyback some information on the messages they send or receive, such as the sequence number or the dependency vector. This information is used to detect and discard inconsistent checkpoints, or to force some processes to take additional checkpoints to eliminate orphan messages. This approach reduces the overhead and blocking, but it may create more checkpoints than necessary.

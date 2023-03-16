@@ -1,0 +1,15 @@
+# Trade in Ancient India
+
+- Trade in ancient India was an important source of commerce and cultural exchange between different regions and civilizations.
+- India has a long history of trade since the Harappan civilization (c. 2600-1900 BCE), which had extensive contacts with Mesopotamia, Egypt, and Central Asia. The Harappans traded mainly in gold, copper, ivory, beads, textiles, and pottery. 
+- After the decline of the Harappan civilization, trade continued in the post-Vedic period (c. 1500-600 BCE) with the rise of new urban centers such as Pataliputra, Ujjain, Puhar, and Mathura. These cities became hubs of political, religious, and economic activities, and facilitated trade within India and with foreign lands.
+- Trade in the Mauryan Empire (c. 321-185 BCE) reached new heights under the rule of Ashoka (r. c. 268-232 BCE), who expanded the empire to cover most of South Asia. Ashoka also promoted Buddhism and sent missionaries to various regions, including Sri Lanka, Southeast Asia, and Central Asia. Trade in this period involved commodities such as textiles, spices, precious metals, gems, pearls, ivory, and silk. 
+- Trade in the post-Mauryan period (c. 185 BCE-320 CE) saw the emergence of new kingdoms and dynasties, such as the Satavahanas, the Kushans, the Shungas, and the Guptas. These rulers maintained trade relations with various regions, such as the Roman Empire, China, Southeast Asia, and Central Asia. Trade in this period also witnessed the development of maritime routes, especially along the Malabar and Coromandel coasts, which connected India with the Indian Ocean world.  
+- Trade in the Gupta Empire (c. 320-550 CE) reached its peak under the rule of Samudragupta (r. c. 335-375 CE) and Chandragupta II (r. c. 380-415 CE), who consolidated the empire and extended its influence over neighboring regions. Trade in this period involved goods such as cotton, silk, spices, perfumes, medicines, metals, gems, and coins. Trade also fostered cultural and scientific exchanges, as evidenced by the works of scholars such as Aryabhata, Varahamihira, and Kalidasa. 
+- Trade in the post-Gupta period (c. 550-1200 CE) saw the decline of the empire and the rise of regional kingdoms, such as the Pallavas, the Chalukyas, the Rashtrakutas, the Pandyas, the Cholas, the Pratiharas, the Palas, and the Chahamanas. These kingdoms competed and cooperated with each other, and also maintained trade relations with foreign lands, such as the Arab world, China, Southeast Asia, and East Africa. Trade in this period involved goods such as textiles, spices, sugar, rice, indigo, ivory, and pearls.  
+
+: https://unacademy.com/content/upsc/study-material/ncert-notes/towns-and-trade-in-ancient-india/
+: https://ithihas.wordpress.com/2014/05/17/trade-and-commerce-in-ancient-india/
+: https://www.worldhistory.org/india/
+: https://indianculture.gov.in/ebooks/trade-and-trade-routes-ancient-india
+: https://journals.sagepub.com/doi/full/10.1177/0019464619892894

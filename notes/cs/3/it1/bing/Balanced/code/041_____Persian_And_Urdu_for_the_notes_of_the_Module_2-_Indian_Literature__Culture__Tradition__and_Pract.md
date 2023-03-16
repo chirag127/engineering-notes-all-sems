@@ -1,0 +1,11 @@
+### Persian And Urdu
+
+- Persian and Urdu are two languages that have influenced the literary and cultural traditions of India, especially in the northern and central regions.
+- Persian was the official language of the Mughal Empire, which ruled over most of India from the 16th to the 18th centuries. Persian was also the language of court, administration, literature, and art in many regional kingdoms and sultanates that emerged after the decline of the Mughals.
+- Urdu is a language that developed from the interaction of Persian, Arabic, and local Indian languages, such as Hindi, Punjabi, and Sindhi. Urdu is written in a modified form of the Arabic script, while Hindi is written in the Devanagari script. Urdu and Hindi are mutually intelligible in their spoken forms, but differ in their vocabulary, grammar, and script.
+- Persian and Urdu have contributed to the richness and diversity of Indian literature, culture, tradition, and practices in various ways. Some examples are:
+
+  - Persian and Urdu poetry, such as ghazals, qawwalis, and marsiyas, have expressed the themes of love, devotion, mysticism, and sorrow in a refined and elegant manner. Some of the famous poets who wrote in these languages are Amir Khusrau, Mirza Ghalib, Mir Taqi Mir, and Allama Iqbal.
+  - Persian and Urdu prose, such as histories, biographies, travelogues, and novels, have narrated the events, personalities, and experiences of the past and present in a vivid and engaging way. Some of the notable writers who wrote in these languages are Abul Fazl, Ziauddin Barani, Saadat Hasan Manto, and Ismat Chughtai.
+  - Persian and Urdu have enriched the vocabulary and grammar of many Indian languages, such as Hindi, Gujarati, Marathi, Bengali, and Telugu. Many words of Persian and Urdu origin are commonly used in these languages, such as adab, shukriya, khush, afsana, and kalam.
+  - Persian and Urdu have influenced the art, architecture, music, cuisine, and dress of India, especially in the regions where the Mughals and their successors ruled. Some examples of these influences are the Taj Mahal, the Qutub Minar, the sitar, the biryani, and the sherwani.

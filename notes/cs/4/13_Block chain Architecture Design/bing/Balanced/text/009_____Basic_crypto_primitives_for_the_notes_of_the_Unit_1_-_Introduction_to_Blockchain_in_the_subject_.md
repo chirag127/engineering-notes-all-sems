@@ -1,0 +1,10 @@
+### Basic crypto primitives for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Cryptographic primitives are the low-level algorithms that are used to build cryptographic protocols for a strong secured network.
+- They are the basic building blocks of the cryptosystem and the programmers develop new cryptographic algorithms with the help of cryptographic primitives.
+- Basic cryptographic primitives include hash functions, digital signatures, symmetric key cryptography, asymmetric key cryptography, and randomized algorithms .
+- Hash functions are mathematical functions that map arbitrary length data to fixed length binary data, also known as hashes or digests. They are one-way functions, meaning that it is easy to compute the hash from the input, but hard to find the input from the hash .
+- Digital signatures are schemes that allow a sender to sign a message with their private key, and a receiver to verify the signature with the sender's public key. They provide authenticity, integrity, and non-repudiation of the message .
+- Symmetric key cryptography is a type of encryption where the same key is used to encrypt and decrypt the message. The key must be shared securely between the sender and the receiver. Examples of symmetric key algorithms are AES, DES, and RC4 .
+- Asymmetric key cryptography, also known as public key cryptography, is a type of encryption where different keys are used to encrypt and decrypt the message. The sender uses the receiver's public key to encrypt the message, and the receiver uses their own private key to decrypt it. The public key can be shared openly, while the private key must be kept secret. Examples of asymmetric key algorithms are RSA, ECC, and ElGamal .
+- Randomized algorithms are algorithms that produce random ciphertexts for encryption. They add randomness to the input or the key to make the encryption more secure and unpredictable. Examples of randomized algorithms are OAEP, CTR, and CBC .

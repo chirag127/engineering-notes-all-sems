@@ -1,0 +1,8 @@
+### Sources of the IoT
+
+The Internet of Things (IoT) is the network of physical objects that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. The sources of the IoT are the devices and sensors that generate data and communicate with each other and the cloud. Some of the sources of the IoT are:
+
+- **Temperature, flow, pressure and humidity sensors**: These sensors are used to monitor various environmental parameters, such as the temperature of a room, the flow of water, the pressure of a gas, or the humidity of the air. These sensors can be used for applications such as smart home, smart agriculture, smart city, or smart industry.
+- **Video surveillance cameras**: These cameras are used to capture and stream video data over the internet, which can be used for security, safety, or entertainment purposes. Video surveillance cameras can be used for applications such as face recognition, traffic management, or live streaming.
+- **Machines in a factory**: These machines are equipped with sensors and actuators that can measure and control various aspects of the production process, such as the speed, temperature, or quality of the products. These machines can be used for applications such as predictive maintenance, quality control, or process optimization.
+- **Conversational artificial intelligence (AI)**: These are systems that can interact with humans or other devices using natural language, such as voice or text. Conversational AI can be used for applications such as virtual assistants, chatbots, or smart speakers.

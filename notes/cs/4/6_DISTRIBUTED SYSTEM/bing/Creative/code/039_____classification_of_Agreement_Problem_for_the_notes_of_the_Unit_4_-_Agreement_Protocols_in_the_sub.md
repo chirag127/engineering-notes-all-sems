@@ -1,0 +1,15 @@
+### Classification of Agreement Problem
+
+An agreement problem is a problem where a set of processes in a distributed system have to agree on a common value or decision, despite the possibility of failures or malicious behavior. Agreement problems are fundamental to the design of fault-tolerant distributed systems, as they enable coordination and consistency among the processes.
+
+There are different types of agreement problems, depending on the assumptions and requirements of the system. Some of the well-known agreement problems are:
+
+- **Byzantine agreement problem**: A single value, which is to be agreed on, is initialized by an arbitrary process and all non-faulty processes have to agree on that value. The processes may be subject to Byzantine failures, which means they can behave arbitrarily or maliciously. The goal is to ensure that all non-faulty processes agree on the same value, and that value is the initial value of some non-faulty process  .
+- **Consensus problem**: A generalization of the Byzantine agreement problem, where each process can propose a value and all non-faulty processes have to agree on a common value. The value agreed on must be one of the proposed values, and the processes must terminate the protocol in a finite number of steps  .
+- **Interactive consistency problem**: A variation of the Byzantine agreement problem, where each process has an initial value and all non-faulty processes have to agree on a vector of values, one for each process. The vector agreed on must satisfy two properties: (1) the value for each non-faulty process is its initial value, and (2) the value for each faulty process is the same for all non-faulty processes  .
+
+These problems are related to each other, and solutions for one problem can be used to solve another problem. For example, a solution for the consensus problem can be used to solve the Byzantine agreement problem, by having each process propose the value initialized by itself. A solution for the interactive consistency problem can be used to solve the consensus problem, by having each process propose a vector of values, one for each process, and then agreeing on the first element of the vector  .
+
+The difficulty of solving these problems depends on the system model, such as the number of processes, the number of faulty processes, the type of communication channels, the type of failures, and the type of synchrony. For example, it is impossible to solve the consensus problem in an asynchronous system with one faulty process, even if the failures are benign (such as crashes). However, it is possible to solve the consensus problem in a synchronous system with a majority of non-faulty processes, even if the failures are Byzantine  .
+
+The applications of agreement problems are numerous, as they can be used to implement various distributed services and algorithms, such as atomic broadcast, atomic commit, group membership, leader election, distributed mutual exclusion, state machine replication, and blockchain .

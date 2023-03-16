@@ -1,0 +1,22 @@
+## Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES
+
+- Hardware technologies for 3D user interfaces are the devices that enable the communication between a user (or users) and a system in a 3D environment .
+- Hardware technologies for 3D user interfaces can be classified into two categories: input devices and output devices .
+- Input devices allow the user to provide information, commands, requests, questions, intent, and goals to the system. They can capture the user's actions, gestures, speech, gaze, and physiological signals  .
+- Output devices allow the system to provide information, feedback, guidance, instructions, and responses to the user. They can stimulate the user's senses, such as vision, hearing, touch, and smell  .
+- Some examples of input devices for 3D user interfaces are:
+  - Keyboards, mice, and touchscreens: These are traditional input devices that can be used for 2D and 3D interactions, such as typing, pointing, clicking, dragging, and zooming .
+  - Trackers: These are devices that can measure the position and orientation of an object or a user in 3D space, such as a head-mounted display, a hand-held controller, or a motion capture suit  .
+  - Gesture recognition systems: These are devices that can recognize the user's hand or body gestures, such as waving, pointing, grabbing, or throwing, and translate them into commands or actions for the system  .
+  - Speech recognition systems: These are devices that can recognize the user's voice and natural language, and convert them into text or commands for the system  .
+  - Eye trackers: These are devices that can measure the user's eye movements, such as gaze direction, fixation, and blink, and use them as input for the system  .
+  - Biometric sensors: These are devices that can measure the user's physiological signals, such as heart rate, skin conductance, and brain activity, and use them as input for the system  .
+- Some examples of output devices for 3D user interfaces are:
+  - Monitors, projectors, and screens: These are traditional output devices that can display 2D or 3D graphics, text, and images to the user .
+  - Stereoscopic displays: These are devices that can create the illusion of depth by presenting different images to each eye of the user, such as 3D glasses, head-mounted displays, or autostereoscopic displays  .
+  - Haptic devices: These are devices that can provide tactile or force feedback to the user, such as vibrations, pressure, or resistance, to simulate the physical properties of objects or environments in 3D space  .
+  - Audio devices: These are devices that can produce sound or music to the user, such as speakers, headphones, or earphones, to enhance the realism or immersion of the 3D experience  .
+  - Olfactory devices: These are devices that can generate smells or scents to the user, such as scent dispensers or smell-o-vision, to create a more multisensory 3D experience  .
+- The choice of hardware technologies for 3D user interfaces depends on several factors, such as the application domain, the user's preferences, the system's requirements, the cost, the availability, and the performance of the devices  .
+- The design of hardware technologies for 3D user interfaces should consider the human factors, such as the user's capabilities, limitations, comfort, safety, and satisfaction  .
+- The evaluation of hardware technologies for 3D user interfaces should measure the effectiveness, efficiency, and satisfaction of the user's interaction with the system,

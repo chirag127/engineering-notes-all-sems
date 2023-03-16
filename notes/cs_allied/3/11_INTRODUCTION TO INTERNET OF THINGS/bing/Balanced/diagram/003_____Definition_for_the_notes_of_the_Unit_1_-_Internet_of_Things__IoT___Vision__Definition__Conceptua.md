@@ -1,0 +1,27 @@
+### Definition for the notes of the Unit 1 - Internet of Things (IoT): Vision, Definition, Conceptual Framework, Architectural view, technology behind IoT, Sources of the IoT, M2M Communication, IoT Examples. Design Principles for Connected Devices: IoT/M2M systems layers and design standardization, communication technologies, data enrichment and consolidation, ease of designing and affordability in the subject of INTRODUCTION TO INTERNET OF THINGS
+
+- Internet of Things (IoT) is the interconnection via the internet of computing devices embedded in everyday objects, enabling them to send and receive data .
+- IoT is a vision of a world where physical objects (or things) are connected and communicate with each other and with humans through the internet or other networks.
+- IoT is also a conceptual framework that describes how things can be identified, sensed, controlled, and interacted with by using various technologies, such as RFID, sensors, actuators, cloud computing, big data, artificial intelligence, etc.
+- IoT is based on an architectural view that consists of four main layers: the device layer, the network layer, the service layer, and the application layer.
+  - The device layer includes the physical objects or things that have computing and communication capabilities, such as sensors, actuators, smart phones, wearables, etc.
+  - The network layer provides the connectivity and protocols for data transmission and routing between the devices and the service layer, such as Wi-Fi, Bluetooth, cellular, LoRaWAN, etc.
+  - The service layer provides the functionalities and services for data processing, storage, analysis, and management, such as cloud computing, big data, edge computing, etc.
+  - The application layer provides the user interfaces and applications that use the data and services from the service layer, such as smart home, smart city, smart health, smart agriculture, etc.
+- IoT is enabled by various technologies that support the identification, sensing, communication, and computation of the things, such as:
+  - RFID (Radio Frequency Identification): a technology that uses radio waves to identify and track objects by attaching tags that contain a unique identifier and a small amount of data.
+  - Sensors: devices that measure physical quantities, such as temperature, humidity, pressure, light, sound, etc., and convert them into electrical signals.
+  - Actuators: devices that perform physical actions, such as opening a valve, turning on a light, moving a robot arm, etc., based on electrical signals.
+  - Cloud computing: a technology that provides on-demand access to shared computing resources, such as servers, storage, networks, software, etc., over the internet.
+  - Big data: a term that refers to large, complex, and diverse datasets that require advanced techniques and tools for storage, processing, analysis, and visualization.
+  - Artificial intelligence: a branch of computer science that aims to create machines or systems that can perform tasks that normally require human intelligence, such as learning, reasoning, decision making, etc.
+- IoT is driven by various sources that generate data and demand for services, such as:
+  - People: humans who use IoT devices and applications for personal, social, or professional purposes, such as health monitoring, fitness tracking, social networking, etc.
+  - Organizations: entities that use IoT devices and applications for business, industrial, or public purposes, such as inventory management, asset tracking, process optimization, etc.
+  - Environments: natural or artificial surroundings that use IoT devices and applications for monitoring, control, or improvement purposes, such as weather forecasting, pollution detection, energy saving, etc.
+- IoT involves M2M (Machine-to-Machine) communication, which is the exchange of data and commands between devices without human intervention, such as sensors sending data to a cloud server, or an actuator receiving a command from a mobile app.
+- IoT has many examples of applications that span across various domains and sectors, such as:
+  - Smart home: a home that uses IoT devices and applications to automate and control various aspects of the home, such as lighting, heating, security, entertainment, etc.
+  - Smart city: a city that uses IoT devices and applications to improve the quality of life and the efficiency of the city services, such as traffic management, waste management, public safety, etc.
+  - Smart health: a health care system that uses IoT devices and applications to enhance the diagnosis, treatment, and prevention of diseases, such as wearable devices, remote monitoring, telemedicine, etc.
+  - Smart agriculture: an agricultural system

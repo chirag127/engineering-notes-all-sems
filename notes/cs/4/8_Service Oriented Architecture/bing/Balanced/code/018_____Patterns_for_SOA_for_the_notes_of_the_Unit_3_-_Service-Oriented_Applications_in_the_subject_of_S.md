@@ -1,0 +1,25 @@
+### Patterns for SOA
+
+Service-oriented architecture (SOA) is a design approach that aims to create loosely coupled, reusable, and interoperable services that can be composed to fulfill business needs. SOA patterns are reusable solutions to common problems or challenges that arise in the design and implementation of SOA. SOA patterns can help architects and developers to plan, build, and manage complex service-oriented systems.
+
+Some of the common SOA patterns are:
+
+- **Agnostic Services**: These are services that implement logic that is common to multiple business problems and can be reused in different contexts. Agnostic services should declare their agnosticism explicitly and avoid any dependencies or assumptions on specific business domains or processes. Agnostic services can increase the modularity, reusability, and maintainability of a service-oriented system. 
+
+- **Atomic Service Transaction**: This is a pattern that ensures the consistency and reliability of a service transaction by using a single unit of work that either succeeds or fails as a whole. Atomic service transactions can use various mechanisms, such as compensating transactions, distributed transactions, or saga patterns, to achieve atomicity. Atomic service transactions can improve the quality of service and reduce the risk of data corruption or inconsistency. 
+
+- **Enterprise Service Bus (ESB)**: This is a pattern that introduces a middleware layer that acts as a communication and integration backbone for service-oriented systems. An ESB can provide various capabilities, such as routing, transformation, mediation, orchestration, security, monitoring, and governance, to facilitate the interaction and coordination of services. An ESB can enhance the scalability, performance, availability, and agility of a service-oriented system.  
+
+- **Service Façade**: This is a pattern that exposes a simplified and standardized interface for a service or a group of services, hiding the complexity and heterogeneity of the underlying implementation. A service façade can act as a proxy, a wrapper, or a coordinator for the core service logic, and can provide additional features, such as validation, caching, logging, or exception handling. A service façade can improve the usability, security, and reliability of a service-oriented system. 
+
+- **Service Callback**: This is a pattern that enables a service to invoke another service asynchronously and receive a response at a later time. A service callback can use various techniques, such as message queues, events, or webhooks, to establish a bidirectional communication channel between the service provider and the service consumer. A service callback can increase the responsiveness, scalability, and flexibility of a service-oriented system. 
+
+- **Multiple Service Contracts**: This is a pattern that allows a service to have more than one contract, or interface, to accommodate different service consumers and their requirements. Multiple service contracts can be based on different levels of abstraction, granularity, or functionality, and can use different protocols, formats, or standards. Multiple service contracts can improve the interoperability, reusability, and evolvability of a service-oriented system. 
+
+- **Authentication Broker**: This is a pattern that centralizes the authentication and authorization logic for a service-oriented system, using a dedicated service or component that acts as a broker between the service consumers and the service providers. An authentication broker can use various mechanisms, such as tokens, certificates, or single sign-on, to verify the identity and credentials of the service consumers and grant them access to the service providers. An authentication broker can enhance the security, consistency, and manageability of a service-oriented system. 
+
+- **Service Decomposition**: This is a pattern that breaks down a large and complex service into smaller and simpler services, based on the principles of modularity, cohesion, and coupling. Service decomposition can use various criteria, such as functionality, data, or domain, to identify the boundaries and responsibilities of the sub-services. Service decomposition can improve the performance, scalability, and maintainability of a service-oriented system. 
+
+- **Service Composition**: This is a pattern that combines multiple services to create a higher-level service that fulfills a specific business goal or process. Service composition can use various techniques, such as orchestration, choreography, or mashups, to coordinate and integrate the sub-services. Service composition can increase the reusability, flexibility, and agility of a service-oriented system. 
+
+- **Service Abstraction**: This is a pattern that hides the implementation details and internal logic of a service, exposing only the essential information and functionality to the service consumers. Service abstraction can use various methods, such as encapsulation, general

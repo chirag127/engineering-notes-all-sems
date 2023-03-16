@@ -1,0 +1,16 @@
+# Statistical Language Model for Natural Language Processing
+
+- A statistical language model (SLM) is a mathematical representation of the probability distribution of sequences of words or symbols in a natural language.
+- SLMs are used to generate or evaluate natural language texts in various natural language processing (NLP) tasks, such as speech recognition, machine translation, natural language generation, etc.
+- SLMs are based on the assumption that the probability of a word or symbol depends on its previous words or symbols, which is called the Markov property.
+- SLMs can be classified into different types based on the number of previous words or symbols they consider, which is called the order or the n-gram size of the model.
+- An n-gram is a sequence of n words or symbols in a text. For example, "language" is a unigram (n = 1), "language model" is a bigram (n = 2), "statistical language model" is a trigram (n = 3), and so on.
+- A unigram model is the simplest type of SLM, which assumes that each word or symbol is independent of its context. The probability of a text is the product of the probabilities of each word or symbol in the text.
+- A bigram model is a type of SLM that assumes that each word or symbol depends only on its immediate predecessor. The probability of a text is the product of the conditional probabilities of each word or symbol given its previous word or symbol in the text.
+- A trigram model is a type of SLM that assumes that each word or symbol depends only on its previous two words or symbols. The probability of a text is the product of the conditional probabilities of each word or symbol given its previous two words or symbols in the text.
+- In general, an n-gram model is a type of SLM that assumes that each word or symbol depends only on its previous n-1 words or symbols. The probability of a text is the product of the conditional probabilities of each word or symbol given its previous n-1 words or symbols in the text.
+- The higher the order of the n-gram model, the more context information it can capture, but also the more data and computation it requires.
+- SLMs can be estimated from a large corpus of natural language texts, which is called the training data. The most common method of estimation is the maximum likelihood estimation (MLE), which assigns the probability of an n-gram to its relative frequency in the training data.
+- SLMs often suffer from the problem of data sparsity, which means that some n-grams may not occur in the training data, resulting in zero probabilities. To overcome this problem, various smoothing techniques are used to assign non-zero probabilities to unseen n-grams by redistributing some probability mass from seen n-grams.
+- SLMs can be evaluated by various metrics, such as perplexity, which measures how well the model predicts a test set of natural language texts. The lower the perplexity, the better the model.
+- SLMs can also be extended or modified by incorporating various features, such as syntax, semantics, morphology, etc., to improve their performance and applicability.

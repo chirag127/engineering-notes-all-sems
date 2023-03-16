@@ -1,0 +1,15 @@
+# Choosing Output Devices for 3D User Interfaces
+
+Output devices, also called display devices, allow the machine to provide information or feedback to one or more users through the human perceptual system. Most of them are focused on stimulating the visual, auditory, or haptic senses.
+
+Some of the factors to consider when choosing output devices for 3D user interfaces are:
+
+- The type and quality of the output: Different output devices have different capabilities and limitations in terms of the type and quality of the output they can provide. For example, some output devices can produce stereoscopic images, which create a sense of depth and immersion, while others can only produce monoscopic images, which are flat and less realistic. Similarly, some output devices can produce high-resolution, high-fidelity, and high-dynamic-range images, while others can only produce low-resolution, low-fidelity, and low-dynamic-range images. The type and quality of the output affect the user's perception, performance, and satisfaction in 3D user interfaces   .
+- The cost and availability of the output devices: Different output devices have different costs and availability in the market. For example, some output devices are expensive, rare, or require special hardware or software, while others are cheap, common, or compatible with standard hardware or software. The cost and availability of the output devices affect the feasibility, scalability, and accessibility of 3D user interfaces   .
+- The user's preferences and needs: Different users may have different preferences and needs for the output devices they use in 3D user interfaces. For example, some users may prefer output devices that are comfortable, portable, or easy to use, while others may prefer output devices that are immersive, realistic, or interactive. Similarly, some users may need output devices that are suitable for their physical, cognitive, or sensory abilities, while others may need output devices that are adaptable, customizable, or inclusive. The user's preferences and needs affect the usability, satisfaction, and engagement of 3D user interfaces   .
+
+Some of the examples of output devices for 3D user interfaces are:
+
+- Visual output devices: These devices provide visual feedback to the user, such as images, graphics, or text. Some of the common visual output devices are monitors, projectors, head-mounted displays, and augmented reality glasses    .
+- Auditory output devices: These devices provide auditory feedback to the user, such as sounds, music, or speech. Some of the common auditory output devices are speakers, headphones, and earphones    .
+- Haptic output devices: These devices provide haptic feedback to the user, such as force, vibration, or touch. Some of the common haptic output devices are force-feedback devices, tactile displays, and wearable devices    .

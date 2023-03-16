@@ -1,0 +1,21 @@
+### Publish, Subscribe Model
+
+- Publish, subscribe model, or pub/sub model, is a software architecture model by which applications create and share data  .
+- Pub/sub model is an asynchronous service-to-service communication method used in serverless and microservices architectures .
+- Pub/sub model enables event-driven architectures and asynchronous parallel processing, while improving performance, reliability and scalability .
+- Pub/sub model separates the client (publisher) that sends the message from the client (subscriber) that receives the message . The publisher and the subscriber do not need to establish direct contact.
+- Pub/sub model involves:
+  - A publisher who sends a message to a topic .
+  - A topic which is a logical channel that groups messages by subject or type .
+  - A subscriber who receives the message from the topic .
+  - A message broker or a messaging service that manages the topics and delivers the messages to the subscribers .
+- Pub/sub model has the following benefits:
+  - Decoupling: Publishers and subscribers are independent and do not need to know each other's identity, location, or implementation details  .
+  - Scalability: Publishers and subscribers can scale up or down independently without affecting each other  .
+  - Reliability: Messages are delivered reliably and durably to the subscribers, even if the publisher or the subscriber is offline or unavailable  .
+  - Flexibility: Publishers and subscribers can dynamically join or leave topics, and topics can be created or deleted on demand  .
+  - Performance: Pub/sub model reduces the latency and the network traffic between the publishers and the subscribers, as the messages are delivered in parallel and asynchronously  .
+- Pub/sub model has the following challenges:
+  - Complexity: Pub/sub model requires a message broker or a messaging service to manage the topics and the message delivery, which adds an extra layer of complexity and dependency  .
+  - Consistency: Pub/sub model does not guarantee the order or the timing of the message delivery, which may cause inconsistency or duplication issues  .
+  - Security: Pub/sub model may expose sensitive data to unauthorized subscribers, unless proper authentication and encryption mechanisms are implemented  .

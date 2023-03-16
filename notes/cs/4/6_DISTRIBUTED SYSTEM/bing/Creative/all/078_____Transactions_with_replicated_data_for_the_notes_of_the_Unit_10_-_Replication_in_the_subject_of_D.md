@@ -1,0 +1,15 @@
+# Transactions with Replicated Data
+
+- Transactions are a sequence of operations that are executed atomically, consistently, isolatedly, and durably (ACID properties) on a database system.
+- Replication is the process of copying data and storing it in different locations, such as multiple servers or nodes in a distributed system.
+- Replication serves to make the data widely available, improve performance, and protect from data loss or failures.
+- Transactions with replicated data are transactions that involve operations on data items that are replicated across multiple locations.
+- Transactions with replicated data pose some challenges for maintaining the ACID properties, such as:
+  - How to ensure that all copies of a data item are updated consistently and atomically?
+  - How to prevent conflicts or anomalies when concurrent transactions access or update replicated data items?
+  - How to recover from failures or network partitions that may affect some or all copies of a data item?
+- There are different approaches or protocols for managing transactions with replicated data, such as:
+  - Primary-copy protocol: One copy of each data item is designated as the primary copy, and all transactions must access or update the primary copy first. The primary copy then propagates the updates to the other copies (secondary copies) asynchronously or synchronously. This protocol ensures serializability and atomicity, but introduces a single point of failure and a bottleneck for the primary copy.
+  - Majority protocol: Each data item has a version number that is incremented whenever it is updated. Transactions must read or write a majority of the copies of a data item to ensure consistency and atomicity. This protocol tolerates failures or partitions as long as a majority of the copies are accessible, but increases the communication and latency costs.
+  - Quorum protocol: Each data item has a read quorum and a write quorum, which are subsets of the copies that must be accessed for reading or writing respectively. The read and write quorums must satisfy some conditions, such as the write quorum must include a majority of the copies, and the read and write quorums must have a non-empty intersection. This protocol allows for more flexibility and trade-offs between availability and consistency, but also increases the complexity and overhead of managing the quorums.
+  - Optimistic protocol: Transactions are allowed to read or write any copy of a data item without locking or coordination. However, before committing, transactions must validate their operations by checking if they have read or written the latest version of the data items. If not, the transactions must abort and restart. This protocol reduces the contention and blocking of transactions, but may incur more aborts and restarts if there are many concurrent updates or conflicts.

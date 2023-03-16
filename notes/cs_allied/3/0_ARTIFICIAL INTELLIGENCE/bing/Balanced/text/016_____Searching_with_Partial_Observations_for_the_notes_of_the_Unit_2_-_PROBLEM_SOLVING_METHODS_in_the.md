@@ -1,0 +1,27 @@
+### Searching with Partial Observations
+
+- Searching with partial observations is a problem-solving method in artificial intelligence that deals with environments that are **partially observable**, meaning that the agent cannot access the complete state of the environment at any given time.
+- In such environments, the agent has to rely on **percepts**, which are pieces of information that the agent receives from its sensors, such as vision, sound, touch, etc.
+- Percepts may be **incomplete**, meaning that they do not cover all the aspects of the environment, or **noisy**, meaning that they may contain errors or uncertainties.
+- The agent has to use its **memory** and **inference** abilities to construct a **belief state**, which is a representation of the agent's knowledge and uncertainty about the environment.
+- A belief state may be a **set** of possible states that the agent considers plausible, a **probability distribution** over the possible states, or a **logical formula** that captures the agent's beliefs and constraints.
+- The agent has to use its **actions** to gather more information and reduce its uncertainty, as well as to achieve its **goals**.
+- The agent has to balance between **exploration**, which is the act of acquiring new information, and **exploitation**, which is the act of using the existing information to achieve the goals.
+- Searching with partial observations can be modeled as a **partially observable Markov decision process (POMDP)**, which is a general framework that captures the agent's beliefs, actions, percepts, rewards, and transitions.
+- A POMDP is defined by a tuple <S, A, T, R, O, Z>, where:
+  - S is a set of states of the environment
+  - A is a set of actions that the agent can perform
+  - T is a transition function that maps a state and an action to a probability distribution over the next state
+  - R is a reward function that maps a state and an action to a numerical reward
+  - O is a set of observations that the agent can receive
+  - Z is an observation function that maps a state and an action to a probability distribution over the next observation
+- A POMDP can be solved by finding an **optimal policy**, which is a function that maps a belief state to an action that maximizes the expected cumulative reward over time.
+- Finding an optimal policy for a POMDP is **NP-hard**, meaning that there is no efficient algorithm that can solve it in polynomial time.
+- Therefore, various **approximation** and **heuristic** methods have been developed to find **suboptimal** policies that are still reasonable and effective.
+- Some of these methods include:
+  - **Value iteration**, which is an iterative algorithm that computes the optimal value function and policy for a finite-horizon POMDP
+  - **Point-based value iteration**, which is a variant of value iteration that samples a finite set of belief points and updates their values
+  - **Monte Carlo tree search**, which is a simulation-based algorithm that builds a search tree of possible actions and outcomes and selects the best action based on the estimated values
+  - **Policy gradient**, which is a gradient-based algorithm that updates the policy parameters based on the observed rewards and gradients
+  - **Deep reinforcement learning**, which is a neural network-based algorithm that learns a policy or a value function from raw observations and rewards using deep learning techniques
+- Searching with partial observations is a challenging and important problem in artificial intelligence, as it models many real-world scenarios where the agent has to deal with uncertainty and incomplete information, such as robotics, computer vision, natural language processing, games, etc.

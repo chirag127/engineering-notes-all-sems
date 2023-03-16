@@ -1,0 +1,22 @@
+### Proof of Work (PoW) for the notes of the Unit 2 - Consensus in the subject of Block chain Architecture Design
+
+- Proof of work (PoW) is a **decentralized system** used to verify the accuracy of transactions on the blockchain network  .
+- Proof of work removes the need for a central authority like a bank, business, or government agency to monitor and manage transactions and their corresponding accounts .
+- Proof of work lets blockchain networks operate by **consensus rules** rather than “trust.”
+- Proof of work involves the following steps:
+  - When a new transaction is broadcasted to the network, it is added to a pool of unconfirmed transactions.
+  - A group of unconfirmed transactions is formed into a block, which has a header that contains metadata such as the previous block's hash, the timestamp, and a nonce (a random number).
+  - The block header is then hashed using a cryptographic function, such as SHA-256, to produce a fixed-length output called a hash or a digest.
+  - The hash must satisfy a certain condition, such as having a specific number of leading zeros, to be considered valid. This condition is called the **difficulty** and it determines how hard it is to find a valid hash.
+  - The process of finding a valid hash is called **mining** and it requires a lot of computational power and energy. The miners are the nodes that compete to find a valid hash and earn a reward for doing so.
+  - The first miner to find a valid hash broadcasts the block to the network, where other nodes verify the hash and the transactions in the block.
+  - If the block is valid, it is added to the blockchain and the transactions are confirmed. The miner also receives a reward in the form of newly created coins and transaction fees.
+  - The process repeats for the next block, using the hash of the previous block as an input.
+- Proof of work provides the following benefits:
+  - It ensures the **security** of the network by making it costly and difficult for malicious actors to tamper with the blockchain or create fake transactions.
+  - It ensures the **immutability** of the blockchain by creating a chain of blocks that are linked by hashes, making it impossible to alter or delete previous blocks without invalidating the subsequent ones.
+  - It ensures the **fairness** of the network by rewarding the miners for their contribution and incentivizing them to follow the consensus rules.
+- Proof of work also has some drawbacks:
+  - It consumes a lot of **energy** and generates a lot of **heat** and **noise**, which have environmental and social impacts.
+  - It creates a **scalability** problem, as the network can only process a limited number of transactions per second, depending on the block size and the block time.
+  - It creates a **centralization** risk, as the mining power becomes concentrated in the hands of a few large and powerful entities, such as mining pools or corporations, which can influence the network or collude to attack it.

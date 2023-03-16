@@ -1,0 +1,15 @@
+### Detection
+
+Detection is the task of identifying and locating objects in an image or a video. Detection can be useful for many applications, such as face recognition, security, surveillance, autonomous driving, and computer vision  .
+
+Detection typically uses different algorithms to perform this recognition and localization of objects, and these algorithms utilize deep learning to generate meaningful results. Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
+
+Some of the popular deep learning approaches for detection are:
+
+- RCNN or Region-based Convolutional Neural Networks, which is one of the pioneering approaches that is utilised in object detection using deep learning. RCNN first generates a set of region proposals using a selective search algorithm, then extracts features from each region using a convolutional neural network (CNN), and finally classifies each region using a support vector machine (SVM) and refines the bounding boxes using a linear regressor .
+- Fast RCNN, which improves the speed and accuracy of RCNN by sharing the computation of the CNN over the entire image, and using a region of interest (RoI) pooling layer to extract features from each region proposal. Fast RCNN also replaces the SVM classifier and the linear regressor with a softmax layer and a bounding box regressor, respectively, to perform the classification and localization in a single network.
+- Faster RCNN, which further enhances the performance of Fast RCNN by replacing the selective search algorithm with a region proposal network (RPN), which is a fully convolutional network that predicts the region proposals directly from the feature maps. Faster RCNN combines the RPN and the Fast RCNN into a single end-to-end network, which can be trained jointly.
+- YOLO or You Only Look Once, which is a different approach from the RCNN family, as it treats the detection problem as a single regression problem. YOLO divides the input image into a grid of cells, and predicts the bounding boxes and the class probabilities for each cell. YOLO is much faster than the RCNN variants, as it only requires a single forward pass through the network to make the predictions.
+- SSD or Single Shot MultiBox Detector, which is another fast and accurate approach for detection, similar to YOLO. SSD also predicts the bounding boxes and the class probabilities in a single pass, but it uses multiple feature maps with different resolutions to handle objects of different sizes. SSD also uses default boxes, which are pre-defined bounding boxes that are matched with the ground truth boxes during training.
+
+These are some of the examples of deep learning methods for detection, but there are many more variations and improvements that have been proposed in the literature. Detection is an active and challenging research area, and deep learning has shown great potential and success in this field.

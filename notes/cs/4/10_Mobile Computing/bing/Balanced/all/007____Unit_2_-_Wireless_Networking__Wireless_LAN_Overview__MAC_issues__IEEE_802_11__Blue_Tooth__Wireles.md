@@ -1,0 +1,33 @@
+## Unit 2 - Wireless Networking, Wireless LAN Overview: MAC issues, IEEE 802.11, Bluetooth, Wireless
+
+- Wireless networking is the technology that enables devices to communicate without wires or cables, using radio waves or infrared signals.
+- Wireless LAN (WLAN) is a type of wireless network that connects devices within a local area, such as a home, office, or campus.
+- WLANs use the IEEE 802.11 standard, which defines the medium access control (MAC) and physical layer (PHY) specifications for wireless communication.
+- MAC is the sublayer of the data link layer that controls how devices access the shared wireless medium and avoid collisions.
+- PHY is the sublayer of the data link layer that defines the modulation, coding, and transmission of wireless signals.
+- IEEE 802.11 has several variants, such as 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ax, that differ in terms of frequency, bandwidth, data rate, and range.
+- IEEE 802.11 uses the Ethernet protocol and CSMA/CA (carrier sense multiple access with collision avoidance) for MAC.
+- CSMA/CA is a technique that allows devices to sense the wireless medium before transmitting and to back off if the medium is busy.
+- CSMA/CA also uses a mechanism called RTS/CTS (request to send/clear to send) to reserve the medium for a data transmission and to avoid the hidden node problem.
+- The hidden node problem occurs when two devices that are out of range of each other try to communicate with a common device, causing collisions and interference.
+- IEEE 802.11 also uses a mechanism called fragmentation to divide large data frames into smaller fragments and to reduce the probability of errors and retransmissions.
+- IEEE 802.11 also uses a mechanism called acknowledgement (ACK) to confirm the successful reception of a data frame or a fragment.
+- IEEE 802.11 also uses a mechanism called power management to conserve the battery life of wireless devices by switching them to a low-power mode when they are idle or not associated with an access point (AP).
+- An AP is a device that acts as a bridge between the wireless and wired networks and provides wireless connectivity to the devices associated with it.
+- A WLAN can operate in two modes: infrastructure mode and ad hoc mode.
+- In infrastructure mode, the wireless devices communicate through one or more APs that are connected to a wired network.
+- In ad hoc mode, the wireless devices communicate directly with each other without any AP or wired network.
+- Bluetooth is another wireless technology that enables short-range communication between devices, such as phones, headsets, keyboards, mice, printers, etc.
+- Bluetooth uses the IEEE 802.15.1 standard, which defines the MAC and PHY specifications for wireless personal area networks (WPANs).
+- WPANs are wireless networks that connect devices within a personal area, such as a room or a car.
+- Bluetooth uses a technique called frequency hopping spread spectrum (FHSS) to hop among 79 channels in the 2.4 GHz band and to avoid interference from other wireless devices.
+- Bluetooth also uses a technique called adaptive frequency hopping (AFH) to detect and avoid the channels that are occupied by other wireless devices, such as Wi-Fi or microwave ovens.
+- Bluetooth also uses a technique called inquiry and paging to discover and connect with other Bluetooth devices within range.
+- Bluetooth also uses a technique called pairing to establish a secure and encrypted link between two Bluetooth devices.
+- Bluetooth also uses a technique called service discovery protocol (SDP) to exchange information about the services and capabilities of the Bluetooth devices.
+- Bluetooth also uses a technique called logical link control and adaptation protocol (L2CAP) to multiplex multiple logical channels over a single physical link and to adapt the data packets to the characteristics of the wireless medium.
+- Bluetooth also uses a technique called radio frequency communication (RFCOMM) to emulate a serial port and to provide a reliable and bidirectional data stream between the Bluetooth devices.
+- Bluetooth also uses a technique called object exchange (OBEX) to exchange objects, such as files, contacts, calendars, etc., between the Bluetooth devices.
+- Bluetooth also uses a technique called advanced audio distribution profile (A2DP) to stream high-quality audio between the Bluetooth devices, such as a phone and a headset.
+- Bluetooth also uses a technique called audio/video remote control profile (AVRCP) to control the playback of audio and video between the Bluetooth devices, such as a phone and a speaker.
+- Wireless is a

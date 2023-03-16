@@ -1,0 +1,21 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to reason and act.
+- Knowledge representation involves choosing a language or a data structure to represent the facts, rules, concepts, and relationships that are relevant to the domain.
+- Knowledge representation also involves designing inference mechanisms or algorithms that can manipulate the knowledge and derive new conclusions or actions.
+- Some of the goals of knowledge representation are:
+  - Expressiveness: the ability to capture the complexity and variety of the domain.
+  - Efficiency: the ability to perform reasoning and problem-solving tasks quickly and accurately.
+  - Understandability: the ability to communicate the knowledge to humans and other agents.
+  - Reusability: the ability to apply the knowledge to different situations and domains.
+- Some of the challenges of knowledge representation are:
+  - Incompleteness: the difficulty of representing all the possible facts and situations that may arise in the domain.
+  - Inconsistency: the possibility of having conflicting or contradictory knowledge that cannot be resolved.
+  - Uncertainty: the presence of incomplete, inaccurate, or vague information that may affect the reasoning and decision-making process.
+  - Scalability: the difficulty of handling large and complex domains that require a lot of knowledge and computation.
+- Some of the common types of knowledge representation are:
+  - Logic: a formal language that uses symbols and rules to represent and manipulate propositions and arguments. Logic can be divided into propositional logic, predicate logic, modal logic, etc.
+  - Semantic networks: a graphical representation that uses nodes and links to represent concepts and relationships. Semantic networks can be divided into hierarchical networks, associative networks, etc.
+  - Frames: a representation that uses structures or schemas to organize the attributes and values of concepts. Frames can be divided into slots and fillers, default values, inheritance, etc.
+  - Production rules: a representation that uses conditional statements or rules to specify the actions that should be taken when certain conditions are met. Production rules can be divided into forward chaining, backward chaining, etc.
+  - Ontologies: a representation that defines the concepts, terms, and relationships that are shared by a domain or a community. Ontologies can be divided into classes, instances, properties, axioms, etc.

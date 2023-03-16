@@ -1,0 +1,27 @@
+## Unit 8 - Business Case for SOA
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for building distributed systems that are composed of loosely coupled, reusable, and interoperable services.
+- A service is a self-contained unit of functionality that provides a specific value to the consumers, such as a web service, a microservice, or a business process.
+- A business case for SOA is a document that describes the benefits, costs, risks, and assumptions of adopting SOA in an organization, and compares them with the current state and alternative solutions.
+- The main benefits of SOA are:
+  - Increased agility: SOA enables faster and easier changes to the business processes and systems, as services can be composed, modified, and reused without affecting other services or consumers.
+  - Improved alignment: SOA aligns the business and IT domains, as services are designed and implemented based on the business requirements and goals, and can be monitored and measured by the business outcomes.
+  - Reduced complexity: SOA simplifies the system architecture, as services hide the implementation details and expose only the interface and contract to the consumers, and can be standardized and governed by policies and standards.
+  - Enhanced quality: SOA improves the reliability, availability, scalability, and security of the systems, as services can be tested, deployed, and managed independently, and can leverage the best practices and technologies for each service.
+  - Lowered costs: SOA reduces the development, maintenance, and integration costs of the systems, as services can be reused across multiple applications and domains, and can leverage the existing assets and infrastructure.
+- The main costs of SOA are:
+  - Initial investment: SOA requires a significant upfront investment in the planning, design, development, and governance of the services and the SOA infrastructure, such as the service registry, repository, bus, and broker.
+  - Cultural change: SOA requires a shift in the mindset and culture of the organization, as SOA involves a collaborative and cross-functional approach to the service lifecycle, and a focus on the business value and outcomes rather than the technical details and features.
+  - Governance overhead: SOA requires a continuous and effective governance of the services and the SOA infrastructure, such as the definition, enforcement, and monitoring of the policies, standards, and best practices for the service design, development, deployment, and management.
+  - Complexity trade-off: SOA introduces some new complexities and challenges to the system architecture, such as the service discovery, orchestration, coordination, versioning, and security, and the potential performance, reliability, and scalability issues due to the network and communication overhead.
+- The main risks of SOA are:
+  - Lack of buy-in: SOA may face resistance or opposition from the stakeholders, such as the business users, managers, developers, and vendors, who may not understand, agree, or support the SOA vision, strategy, and benefits, or who may have conflicting interests or agendas.
+  - Lack of skills: SOA may require new or different skills and competencies from the staff, such as the service analysis, design, development, testing, and governance, and the use of the SOA technologies, tools, and frameworks.
+  - Lack of standards: SOA may suffer from the lack of widely adopted or compatible standards and specifications for the service definition, description, discovery, communication, and integration, which may limit the interoperability and portability of the services and the SOA infrastructure.
+  - Lack of maturity: SOA may not deliver the expected results or benefits due to the lack of maturity or readiness of the organization, the processes, the systems, or the services, which may affect the quality, performance, or value of the SOA solution.
+- The main assumptions of SOA are:
+  - The business needs and goals are clear, stable, and aligned with the SOA vision and strategy.
+  - The organization has the commitment, support, and resources to adopt and sustain SOA.
+  - The staff has the skills, knowledge, and motivation to implement and use SOA.
+  - The SOA technologies, tools, and frameworks are available, reliable, and compatible.
+  - The services are designed, developed, and governed according to the SOA principles, best practices, and standards.

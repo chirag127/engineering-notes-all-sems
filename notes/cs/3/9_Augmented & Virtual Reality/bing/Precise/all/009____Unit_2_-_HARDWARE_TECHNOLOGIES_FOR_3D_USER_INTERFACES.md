@@ -1,0 +1,7 @@
+## Unit 2 - HARDWARE TECHNOLOGIES FOR 3D USER INTERFACES
+
+1. **3D Displays**: These displays are capable of displaying 3D images and videos. They can be either autostereoscopic, which means that they do not require special glasses to view the 3D content, or they can be stereoscopic, which means that they require special glasses to view the 3D content.
+2. **Head-Mounted Displays (HMDs)**: These are displays that are worn on the head like a helmet or a pair of glasses. They can display 3D content and can also track the user's head movements to provide an immersive experience.
+3. **Motion Controllers**: These are handheld devices that can track the user's hand movements and gestures. They can be used to interact with 3D content in a more natural and intuitive way.
+4. **Haptic Feedback Devices**: These devices can provide tactile feedback to the user, allowing them to feel virtual objects as if they were real. This can enhance the realism and immersion of 3D user interfaces.
+5. **Tracking Systems**: These systems can track the user's movements and gestures, allowing them to interact with 3D content in a more natural and intuitive way. They can use various technologies such as cameras, infrared sensors, and accelerometers to track the user's movements.

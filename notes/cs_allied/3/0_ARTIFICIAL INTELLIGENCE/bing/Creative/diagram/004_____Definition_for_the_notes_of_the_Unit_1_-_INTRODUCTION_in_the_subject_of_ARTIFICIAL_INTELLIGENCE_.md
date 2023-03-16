@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on Artificial Intelligence. Here is the definition for the notes of the Unit 1 - INTRODUCTION in the subject of ARTIFICIAL INTELLIGENCE KCS:
+
+### Definition
+
+- Artificial Intelligence (AI) is the branch of computer science that aims to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, etc.
+- AI can be classified into two main categories: weak AI and strong AI. Weak AI, also known as narrow AI, is the type of AI that can perform specific tasks well, but cannot generalize to other domains or situations. Strong AI, also known as general AI, is the type of AI that can achieve human-like intelligence and understanding across various domains and situations.
+- AI can also be classified into four main approaches: symbolic AI, connectionist AI, evolutionary AI, and hybrid AI. Symbolic AI, also known as classical AI, is the approach that uses logic, rules, and symbols to represent and manipulate knowledge. Connectionist AI, also known as neural AI, is the approach that uses artificial neural networks to learn from data and perform tasks. Evolutionary AI, also known as genetic AI, is the approach that uses evolutionary algorithms to optimize solutions based on natural selection and variation. Hybrid AI, also known as neuro-symbolic AI, is the approach that combines symbolic and connectionist AI to leverage the strengths of both methods.

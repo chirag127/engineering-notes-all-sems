@@ -1,0 +1,11 @@
+# Beyond Chaincode
+
+- Chaincode is the term used for smart contracts in Hyperledger Fabric. It is a program that implements the business logic and rules of a blockchain application.
+- Chaincode runs on the peers of a Fabric network, and interacts with the ledger and other chaincode through the Fabric APIs.
+- Chaincode can be written in various languages, such as Go, Node.js, or Java. It can also be packaged and deployed using the Fabric tools or the Fabric SDKs.
+- However, chaincode is not the only way to implement logic and functionality on a Fabric network. There are other components and features that can be used to enhance the capabilities and performance of a blockchain application. Some of these are:
+
+  - **Private data collections**: A feature that allows a subset of organizations on a Fabric network to share data privately and securely, without exposing it to the rest of the network or storing it on the ledger. Private data collections can be used to implement confidential transactions, enforce access control policies, or comply with data privacy regulations.
+  - **State-based endorsement policies**: A feature that allows the endorsement policy of a chaincode to be specified at the level of individual keys or values in the ledger state, rather than at the level of the chaincode as a whole. State-based endorsement policies can be used to implement more fine-grained and dynamic control over who can endorse and validate transactions that affect certain parts of the ledger state.
+  - **Chaincode events**: A feature that allows chaincode to emit custom events that can be subscribed to by applications or other chaincode. Chaincode events can be used to implement event-driven logic, notifications, or triggers for actions that depend on the state changes of the ledger or the execution of chaincode functions.
+  - **Chaincode external services**: A feature that allows chaincode to invoke external services or APIs that are not part of the Fabric network, such as cloud services, databases, or third-party applications. Chaincode external services can be used to implement logic or functionality that is not feasible or efficient to implement within the chaincode itself, or to integrate with existing systems or services that are outside the Fabric network.

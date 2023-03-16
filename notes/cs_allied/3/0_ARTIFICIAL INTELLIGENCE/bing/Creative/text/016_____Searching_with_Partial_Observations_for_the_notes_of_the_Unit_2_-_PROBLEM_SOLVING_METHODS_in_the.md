@@ -1,0 +1,10 @@
+### Searching with Partial Observations
+
+- Searching with partial observations is a problem-solving method in artificial intelligence that deals with environments that are **partially observable**, meaning that the agent cannot access the complete state of the environment at any given time .
+- In such environments, an agent can be in one of several possible states, and an action can lead to one of several possible outcomes. Therefore, the agent needs to maintain a **belief state**, which is a set of possible states that are consistent with the agent's observations and actions.
+- A belief state can be represented as a **contingency plan**, which is a tree of actions and observations that specifies what the agent should do in each possible situation. A contingency plan can be constructed by **searching** in the space of belief states, using algorithms such as **AND-OR search** or **expectimax search**.
+- Searching with partial observations can be challenging because the size of the belief state can grow exponentially with the number of actions and observations, and because the agent may not have enough information to distinguish between different states. Therefore, some techniques to reduce the complexity of searching with partial observations are:
+  - **Observation compression**: reducing the number of possible observations by grouping them into equivalence classes that have the same effect on the belief state.
+  - **State compression**: reducing the number of possible states by grouping them into equivalence classes that have the same utility for the agent.
+  - **Learning action models**: inferring the effects of actions on the environment from sequences of partial observations, using methods such as **inductive logic programming** or **Bayesian networks**.
+  - **Universal search**: using a dataflow graph-based programming model to represent the agent's knowledge and reasoning, and applying a general search algorithm that can handle any type of environment, including partially observable ones.

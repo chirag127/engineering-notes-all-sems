@@ -1,0 +1,21 @@
+### Malayalam Literature
+
+- Malayalam literature is the body of writing in the Malayalam language, a South-Dravidian language spoken in the Indian state of Kerala .
+- The earliest extant literary work in Malayalam is **Ramacharitam** (late 12th or early 13th century), an epic poem based on the Sanskrit Ramayana .
+- The subsequent period saw the emergence of two distinct styles of literature: **pattu** (song) and **manipravalam** (ruby and coral) .
+  - Pattu literature was composed in pure Malayalam, using native meters and vocabulary. It was mainly influenced by folk songs and ballads, and often dealt with themes of devotion, heroism, and romance .
+  - Manipravalam literature was composed in a mixture of Malayalam and Sanskrit, using sophisticated meters and vocabulary. It was mainly influenced by classical Sanskrit literature, and often dealt with themes of eroticism, aesthetics, and spirituality .
+- Some of the notable works and authors of pattu literature are:
+  - **Krishnagatha** (14th century), a poem on the life of Krishna by Cherussery Namboothiri .
+  - **Ramakathapattu** (15th century), a retelling of the Ramayana in the form of songs by Ezhuthachan, who is considered the father of Malayalam literature .
+  - **Thunchaththu Ezhuthachan** (16th century), a collection of poems on various topics by Thunchaththu Ramanujan Ezhuthachan, a poet and scholar who standardized the Malayalam alphabet and grammar .
+  - **Kannassa Ramayanam** (16th century), a version of the Ramayana with a focus on Rama's wife Sita by Kunchan Nambiar, who is also credited with inventing the art form of **ottan thullal**, a satirical dance-drama .
+- Some of the notable works and authors of manipravalam literature are:
+  - **Lilathilakam** (14th century), a treatise on grammar and rhetoric by an anonymous author, which established the rules and conventions of manipravalam style .
+  - **Unnunili Sandesam** (14th century), a love letter in the form of a messenger poem by an anonymous author, which is considered one of the earliest examples of Malayalam prose .
+  - **Kathakali** (17th century), a form of classical dance-drama that combines elements of manipravalam literature, music, and martial arts, and depicts stories from Hindu epics and mythology .
+  - **Kerala Varma Valiya Koyil Thampuran** (19th century), a poet and scholar who wrote several works in manipravalam style, such as **Kerala Sahitya Charitam** (History of Kerala Literature) and **Mayura Sandesam** (Peacock Messenger) .
+- Malayalam literature underwent a modernization and renaissance in the 19th and 20th centuries, influenced by the social and political movements, the British colonial rule, and the contact with Western literature and culture .
+- Some of the prominent genres and authors of modern Malayalam literature are:
+  - **Novel**: A form of prose fiction that emerged in the late 19th century, and explored themes such as realism, social criticism, nationalism, feminism, and humanism. Some of the notable novelists are O. Chandu Menon, C.V. Raman Pillai, Thakazhi Sivasankara Pillai, Vaikom Muhammad Basheer, M.T. Vasudevan Nair, O.V. Vijayan, and Arundhati Roy .
+  - **Short story**: A form of prose fiction that emerged in the early 20th century, and experimented with various styles, techniques, and themes. Some of the notable short story

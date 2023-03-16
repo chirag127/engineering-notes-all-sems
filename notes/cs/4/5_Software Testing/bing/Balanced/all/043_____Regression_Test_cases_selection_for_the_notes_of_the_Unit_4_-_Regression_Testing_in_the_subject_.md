@@ -1,0 +1,11 @@
+# Regression Test Cases Selection
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes do not introduce new faults or degrade the system's functionality.
+- Regression test cases are the test cases that are executed during regression testing to verify that the system still meets the requirements and specifications after the changes.
+- Regression test cases selection is the process of choosing a subset of test cases from the test suite to perform regression testing, based on some criteria or techniques.
+- Regression test cases selection is important because it can reduce the cost and time of regression testing, while maintaining the effectiveness and coverage of the testing.
+- There are different techniques for regression test cases selection, such as:
+  - Retest all: This technique involves re-executing all the test cases in the test suite, regardless of the changes made to the system. This technique is simple and ensures high coverage, but it is also expensive and inefficient, especially for large and complex systems.
+  - Retest affected: This technique involves re-executing only the test cases that are affected by the changes made to the system. This technique is more efficient and cost-effective than retest all, but it requires a precise analysis of the impact of the changes on the test cases, which can be difficult and error-prone.
+  - Test case prioritization: This technique involves ranking the test cases in the test suite according to some criteria, such as the severity of the faults they can detect, the frequency of their execution, the complexity of their code, etc. Then, the test cases are executed in the order of their priority, until a certain budget or threshold is reached. This technique can improve the effectiveness and efficiency of regression testing, but it requires a reliable and objective way of assigning priorities to the test cases, which can be challenging and subjective.
+  - Test case minimization: This technique involves removing the redundant or obsolete test cases from the test suite, to reduce its size and complexity. This technique can improve the efficiency and maintainability of regression testing, but it can also reduce the coverage and effectiveness of the testing, if some important test cases are eliminated.

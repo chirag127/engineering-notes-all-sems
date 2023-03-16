@@ -1,0 +1,26 @@
+# Council of Ministers
+
+- The Council of Ministers is the principal executive organ of the Government of India, which functions as the senior decision making body of the executive branch.
+- It is chaired by the Prime Minister and consists of the heads of each of the executive government ministries.
+- The Council of Ministers exercises executive authority in India and is responsible for implementing the laws and policies enacted by the Parliament.
+- The Council of Ministers is appointed by the President of India on the advice of the Prime Minister .
+- The Council of Ministers is collectively responsible to the Lok Sabha, the lower house of the Parliament, and must enjoy its confidence .
+- The Council of Ministers is made up of five categories of ministers, in descending order of rank:
+  - Prime Minister: Leader of the executive of the Government of India and the chief spokesperson of the government.
+  - Deputy Prime Minister (if any): Presides as prime minister in his absence or as the senior most cabinet minister.
+  - Cabinet Ministers: Heads of the major ministries and members of the Cabinet, the core decision making body of the government.
+  - Ministers of State (with independent charge): Heads of the minor ministries or departments and not members of the Cabinet.
+  - Ministers of State: Junior ministers who assist the Cabinet Ministers or the Ministers of State (with independent charge) in their respective ministries or departments.
+- The current Council of Ministers, as of December 2023, has 30 Cabinet Ministers, 9 Ministers of State (with independent charge), and 45 Ministers of State .
+- The current Prime Minister is Shri Narendra Modi, who also holds the portfolios of Ministry of Personnel, Public Grievances and Pensions, Department of Atomic Energy, Department of Space, and All important policy issues.
+- Some of the important Cabinet Ministers and their portfolios are :
+  - Shri Rajnath Singh: Minister of Defence
+  - Shri Amit Shah: Minister of Home Affairs
+  - Shri Nitin Gadkari: Minister of Road Transport and Highways
+  - Smt. Nirmala Sitharaman: Minister of Finance and Corporate Affairs
+  - Shri S. Jaishankar: Minister of External Affairs
+  - Shri Dharmendra Pradhan: Minister of Education
+  - Shri Hardeep Singh Puri: Minister of Petroleum and Natural Gas, Minister of Housing and Urban Affairs
+  - Shri Anurag Thakur: Minister of Information and Broadcasting, Minister of Youth Affairs and Sports
+  - Shri G. Kishan Reddy: Minister of Culture, Minister of Tourism, Minister of Development of North Eastern Region
+- The Council of Ministers plays a vital role in the governance of India and the implementation of its socio-economic policies. It is accountable to the Parliament and the people of India for its actions and performance.

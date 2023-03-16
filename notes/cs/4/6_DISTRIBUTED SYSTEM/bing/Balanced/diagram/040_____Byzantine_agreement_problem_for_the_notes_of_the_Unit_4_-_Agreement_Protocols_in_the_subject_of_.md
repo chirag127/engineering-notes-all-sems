@@ -1,0 +1,20 @@
+### Byzantine agreement problem
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and was inspired by a hypothetical scenario where several divisions of the Byzantine army are camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action  .
+- The problem is challenging because some of the generals may be traitors who try to prevent the loyal generals from reaching agreement. The traitors may send conflicting messages to different generals, or may not send any messages at all. The loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination).
+- A solution to the Byzantine agreement problem must satisfy the following properties :
+  - **Termination**: Every loyal general eventually decides on a value.
+  - **Agreement**: All loyal generals decide on the same value.
+  - **Validity**: If all loyal generals start with the same value, then they all decide on that value.
+- A number of solutions to the Byzantine agreement problem exist, but they have different assumptions and trade-offs. Some of the factors that affect the feasibility and efficiency of the solutions are :
+  - The number of parties involved and the fraction of them that are corrupted.
+  - The type of communication channels used (synchronous or asynchronous, reliable or unreliable, authenticated or unauthenticated, etc.).
+  - The type of cryptographic primitives available (digital signatures, hash functions, encryption schemes, etc.).
+  - The type of values to be agreed upon (binary, multivalued, or arbitrary).
+  - The type of adversary model (static or adaptive, passive or active, etc.).
+- Some examples of Byzantine agreement protocols are:
+  - **Lamport's oral messages algorithm**: This is the original solution proposed by Lamport, which assumes synchronous and reliable communication channels, and requires 3f+1 parties to tolerate f corrupted parties. The algorithm involves f+1 rounds of message exchange, where each party sends its value to all other parties, and then applies a majority rule to decide on a value.
+  - **Lamport's signed messages algorithm**: This is an improvement of the oral messages algorithm, which assumes authenticated communication channels, and requires 2f+1 parties to tolerate f corrupted parties. The algorithm involves f+1 rounds of message exchange, where each party signs its value and sends it to all other parties, and then applies a majority rule to decide on a value.
+  - **King algorithm**: This is an optimization of the signed messages algorithm, which assumes authenticated communication channels, and requires 2f+1 parties to tolerate f corrupted parties. The algorithm involves only one round of message exchange, where one party is designated as the king and sends its value to all other parties, and then each party decides on the value received from the king, unless it is inconsistent with the values received from other parties.
+  - **Practical Byzantine Fault Tolerance (PBFT) algorithm**: This is a practical solution for Byzantine agreement in asynchronous and unreliable communication channels, which requires 3f+1 parties to tolerate f corrupted parties. The algorithm involves three phases of message exchange, where one party is designated as the primary and proposes a value, and then the other parties exchange messages to verify and commit the value. The algorithm also uses checkpoints and view changes to ensure liveness and safety.

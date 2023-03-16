@@ -1,0 +1,21 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are a class of distributed algorithms that allow a set of processes to reach a common decision or consensus, despite the possibility of failures or malicious behavior.
+- Agreement protocols are useful for implementing fault-tolerant services, such as distributed databases, replicated state machines, leader election, atomic broadcast, etc.
+- Agreement protocols can be classified into different types, depending on the assumptions and guarantees they provide. Some common types are:
+  - **Byzantine agreement**: The processes can have arbitrary faults or behave maliciously, and the protocol guarantees that all correct processes agree on the same value, and the value is proposed by some correct process.
+  - **Crash-recovery agreement**: The processes can only have crash faults or recover from faults, and the protocol guarantees that all correct processes agree on the same value, and the value is proposed by some correct process.
+  - **Crash-stop agreement**: The processes can only have crash faults and do not recover, and the protocol guarantees that all correct processes agree on the same value, and the value is proposed by some correct process.
+  - **Uniform agreement**: The protocol guarantees that all correct processes agree on the same value, regardless of the type of faults or behavior of the processes.
+  - **Non-uniform agreement**: The protocol guarantees that all correct processes agree on the same value, only if they receive the same set of messages from other processes.
+- Agreement protocols can also be classified into different models, depending on the communication and timing assumptions they make. Some common models are:
+  - **Synchronous model**: The processes have bounded message delays and clock drifts, and the protocol can use timeouts and rounds to synchronize the processes.
+  - **Asynchronous model**: The processes have no bounds on message delays and clock drifts, and the protocol cannot use timeouts and rounds to synchronize the processes.
+  - **Partially synchronous model**: The processes have bounded message delays and clock drifts, but the bounds are unknown or may change over time, and the protocol can use adaptive timeouts and rounds to synchronize the processes.
+  - **Hybrid model**: The processes have different communication and timing assumptions, depending on the type of faults or behavior they exhibit, and the protocol can use different mechanisms to synchronize the processes.
+- Agreement protocols can also be classified into different variants, depending on the number and type of values they can agree on. Some common variants are:
+  - **Binary agreement**: The processes can only propose and agree on two values, usually 0 and 1.
+  - **Multi-valued agreement**: The processes can propose and agree on any value from a finite domain.
+  - **Generalized agreement**: The processes can propose and agree on any value from an infinite domain, such as real numbers.
+  - **Consensus**: The processes can propose and agree on any value, and the value is proposed by some correct process.
+  - **k-set agreement**: The processes can propose and agree on any value, and the number of distinct values agreed on is at most k.

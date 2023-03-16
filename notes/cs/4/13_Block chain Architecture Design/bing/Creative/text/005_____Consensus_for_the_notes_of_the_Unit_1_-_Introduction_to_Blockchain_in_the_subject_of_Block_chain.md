@@ -1,0 +1,12 @@
+### Consensus for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Consensus is the process of reaching agreement among a group of participants on a shared state of a system.
+- Consensus is essential for blockchain systems, which are distributed, decentralized, and trustless networks of nodes that maintain a shared ledger of transactions.
+- Consensus ensures that all nodes in the network have the same view of the ledger, and that any changes to the ledger are valid and consistent with the rules of the system.
+- Consensus also prevents malicious or faulty nodes from compromising the integrity, security, or availability of the system.
+- There are different types of consensus algorithms that vary in their design, assumptions, performance, and security properties.
+- Some of the common consensus algorithms used in blockchain systems are:
+  - Proof-of-Work (PoW): A node has to solve a computationally hard puzzle to propose a new block to the ledger. The other nodes validate the solution and the transactions in the block. The node that solves the puzzle receives a reward for its work. PoW is used by Bitcoin, Ethereum, and other cryptocurrencies.
+  - Proof-of-Stake (PoS): A node has to stake some amount of its own tokens to participate in the consensus process. The node with the highest stake or a random selection of staked nodes gets to propose a new block to the ledger. The other nodes validate the block and the transactions in it. The node that proposes the block receives a reward for its stake. PoS is used by Cardano, Polkadot, and other cryptocurrencies.
+  - Proof-of-Authority (PoA): A node has to be authorized by a trusted entity or a set of entities to propose a new block to the ledger. The other nodes validate the block and the transactions in it. The node that proposes the block receives a reward for its authority. PoA is used by private or permissioned blockchains, such as Quorum, Hyperledger, and Binance Smart Chain.
+  - Byzantine Fault Tolerance (BFT): A node has to communicate with a quorum of other nodes to reach a consensus on a new block to the ledger. The nodes use a voting mechanism to agree on the block and the transactions in it. The node that proposes the block receives a reward for its participation. BFT is used by public or permissionless blockchains, such as Stellar, Ripple, and Cosmos.
