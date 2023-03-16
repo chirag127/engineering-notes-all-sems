@@ -1,0 +1,16 @@
+## Unit 4 - BI – DATA ANALYTICS PROCESS
+
+- Data analytics is the process of transforming raw data into meaningful insights for decision making and problem solving.
+- Data analytics can be performed at different levels of complexity, depending on the business objectives and the available data sources.
+- Data analytics can be classified into four types: descriptive, diagnostic, predictive, and prescriptive.
+- Descriptive analytics summarizes what has happened in the past using historical data. It can answer questions such as "How many sales did we make last month?" or "What are the most popular products in our store?".
+- Diagnostic analytics explains why something has happened in the past using statistical techniques and data mining. It can answer questions such as "Why did our sales drop in the last quarter?" or "What factors influenced customer satisfaction in our service?".
+- Predictive analytics forecasts what is likely to happen in the future using machine learning and artificial intelligence. It can answer questions such as "What will be the demand for our products in the next year?" or "How likely is a customer to churn in the next month?".
+- Prescriptive analytics recommends what actions should be taken to optimize the outcomes using optimization and simulation. It can answer questions such as "What is the best price to set for our products?" or "How should we allocate our resources to maximize our profits?".
+- Data analytics process consists of six steps: define the problem, collect the data, prepare the data, analyze the data, communicate the results, and act on the results.
+- Define the problem: This step involves identifying the business goal, the key questions to be answered, the metrics to be measured, and the scope and constraints of the analysis.
+- Collect the data: This step involves gathering the relevant data from various sources, such as internal databases, external sources, surveys, sensors, etc. The data should be reliable, valid, and relevant to the problem.
+- Prepare the data: This step involves cleaning, transforming, and integrating the data to make it ready for analysis. The data should be checked for errors, missing values, outliers, duplicates, inconsistencies, etc. The data should also be formatted, normalized, aggregated, and joined as needed.
+- Analyze the data: This step involves applying the appropriate analytical techniques and tools to the data to generate insights and answer the questions. The techniques and tools can vary depending on the type of analytics and the data characteristics. Some examples are descriptive statistics, visualization, correlation, regression, clustering, classification, etc.
+- Communicate the results: This step involves presenting and explaining the findings and recommendations to the stakeholders in a clear and concise manner. The results should be visualized using charts, graphs, tables, dashboards, etc. The results should also be interpreted and justified using evidence and logic.
+- Act on the results: This step involves implementing the recommendations and monitoring the outcomes and impacts of the actions. The results should be evaluated and validated using feedback and metrics. The results should also be updated and refined as new data and information become available.

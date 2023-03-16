@@ -1,0 +1,27 @@
+### AMQP for the notes of the Unit 4 - Transport & Session Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- AMQP stands for Advanced Message Queuing Protocol. It is an open standard, binary application layer protocol designed for message-oriented middleware.
+- AMQP enables encrypted and interoperable messaging between organizations and applications. The protocol is used in client/server messaging and in IoT device management. AMQP is efficient, portable, multichannel and secure.
+- AMQP protocol standardizes messaging using Producers, Brokers and Consumers. Producers send messages to a broker, which stores them in queues or topics. Consumers receive messages from the broker, either by subscribing to topics or by requesting from queues.
+- AMQP has the following features and benefits for IoT applications:
+  - Reliable: AMQP ensures that messages are delivered exactly once, in order, and without duplication or loss.
+  - Secure: AMQP supports encryption, authentication, and authorization of messages and connections.
+  - Interoperable: AMQP is based on a common data model and a common wire format, which allows different implementations and platforms to communicate seamlessly.
+  - Open: AMQP is an open standard, published by OASIS, and supported by a large community of vendors and users.
+  - Standard: AMQP is a standard protocol, which reduces the complexity and cost of integration and maintenance of IoT systems.
+  - Low overhead: AMQP has a binary wire format, which minimizes the bandwidth and processing requirements of IoT devices and networks.
+- AMQP can be used to connect to an IoT hub by using the claims-based security (CBS) or Simple Authentication and Security Layer (SASL) authentication. The following information is required for the service client:
+  - IoT hub hostname: `<iot-hub-name>.azure-devices.net`
+  - Key name: `iothubowner`
+  - Key value: `<iothubowner-key>`
+  - Event hub-compatible name: `<iot-hub-name>`
+  - Event hub-compatible endpoint: `sb://<iot-hub-name>.servicebus.windows.net/`
+  - Consumer group: `$Default`
+  - Partition ID: `0` to `n-1`, where `n` is the number of partitions in the IoT hub
+- AMQP can also be used to connect to an IoT hub by using the WebSockets protocol, which allows AMQP to work over HTTP proxies and firewalls. The following information is required for the device client:
+  - IoT hub hostname: `<iot-hub-name>.azure-devices.net`
+  - Device ID: `<device-id>`
+  - Device key: `<device-key>`
+  - Port: `443`
+  - Path: `/devices/<device-id>/messages/events`
+  - Subprotocol: `AMQPWSB10`

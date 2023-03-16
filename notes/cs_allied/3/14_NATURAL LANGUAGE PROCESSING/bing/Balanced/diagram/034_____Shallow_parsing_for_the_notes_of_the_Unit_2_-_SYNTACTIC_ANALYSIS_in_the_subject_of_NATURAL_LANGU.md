@@ -1,0 +1,15 @@
+### Shallow parsing
+
+- Shallow parsing (also called chunking or light parsing) is an analysis of a sentence which first identifies constituent parts of sentences (nouns, verbs, adjectives, etc.) and then links them to higher order units that have discrete grammatical meanings (noun groups or phrases, verb groups, etc.).
+- Shallow parsing is different from deep parsing, which aims to produce a complete and detailed representation of the syntactic structure of a sentence, such as a parse tree. Shallow parsing is faster and less complex than deep parsing, but it also provides less information.
+- Shallow parsing can be useful for various natural language processing tasks, such as:
+  - Semantic role labeling, which is the process of assigning labels to words or phrases in a sentence that indicate their semantic role in the sentence, such as that of an agent, goal, or result. It serves to find the meaning of the sentence.
+  - Information extraction, which is the process of extracting structured information from unstructured or semi-structured text, such as names, dates, locations, events, etc. It can be used for applications such as question answering, summarization, or knowledge base construction.
+  - Text summarization, which is the process of creating a concise and coherent summary of a longer text, such as a news article, a report, or a book. It can be used for providing an overview of the main points, highlighting the key information, or reducing the reading time.
+- Shallow parsing can be performed using various techniques, such as:
+  - Rule-based methods, which use predefined rules or patterns to identify and label the chunks in a sentence. For example, a rule might state that a noun phrase consists of a determiner followed by zero or more adjectives followed by a noun. Rule-based methods are easy to implement and understand, but they can also be brittle and incomplete, as they may not cover all the possible cases or variations in natural language.
+  - Machine learning methods, which use data-driven approaches to learn the rules or patterns for chunking from a large corpus of annotated sentences. For example, a machine learning method might use a classifier to predict the chunk boundaries and labels based on the features of the words and their context. Machine learning methods can be more robust and adaptable, but they also require a lot of training data and computational resources.
+- Shallow parsing can be evaluated using various metrics, such as:
+  - Precision, which is the ratio of correctly identified chunks to the total number of chunks identified by the system. It measures how accurate the system is in finding the chunks.
+  - Recall, which is the ratio of correctly identified chunks to the total number of chunks in the reference (gold standard) annotation. It measures how complete the system is in finding the chunks.
+  - F1-score, which is the harmonic mean of precision and recall. It measures the overall performance of the system in finding the chunks.

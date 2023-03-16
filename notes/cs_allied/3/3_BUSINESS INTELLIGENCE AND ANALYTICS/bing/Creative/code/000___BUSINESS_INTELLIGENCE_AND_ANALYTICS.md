@@ -1,0 +1,24 @@
+# BUSINESS INTELLIGENCE AND ANALYTICS
+
+- Business intelligence (BI) is the process of collecting, analyzing, and transforming data into meaningful insights that can help businesses make better decisions and improve their performance.
+- Business analytics (BA) is the application of statistical, mathematical, and computational techniques to data for the purpose of discovering patterns, trends, and relationships that can support decision making and problem solving.
+- BI and BA are closely related, but they have some differences. BI focuses more on descriptive and diagnostic analysis, which answer the questions of what happened and why it happened. BA focuses more on predictive and prescriptive analysis, which answer the questions of what will happen and what should be done.
+- BI and BA can be used for various purposes, such as:
+  - Improving operational efficiency and effectiveness
+  - Enhancing customer satisfaction and loyalty
+  - Increasing revenue and profitability
+  - Reducing costs and risks
+  - Innovating products and services
+  - Gaining competitive advantage
+- BI and BA require a combination of tools, technologies, processes, and people to work effectively. Some of the key components are:
+  - Data sources: the raw data that is collected from various internal and external sources, such as databases, files, web pages, social media, sensors, etc.
+  - Data integration: the process of combining, transforming, and cleansing data from different sources into a consistent and unified format that can be used for analysis.
+  - Data warehouse: a centralized repository that stores integrated and historical data for analysis and reporting purposes.
+  - Data marts: subsets of data warehouse that are tailored for specific business units or functions, such as sales, marketing, finance, etc.
+  - Data quality: the degree to which data is accurate, complete, consistent, timely, and relevant for analysis and decision making.
+  - Data governance: the policies, procedures, roles, and responsibilities that define how data is collected, stored, accessed, used, and protected in an organization.
+  - Data mining: the process of discovering hidden patterns, trends, and relationships in large and complex data sets using various statistical, mathematical, and machine learning techniques.
+  - Data visualization: the process of presenting data in graphical or interactive forms, such as charts, graphs, maps, dashboards, etc., to make it easier to understand and communicate.
+  - Business intelligence software: the software applications that provide various functionalities for data integration, analysis, visualization, and reporting, such as Microsoft Power BI, Tableau, Qlik, etc.
+  - Business analytics software: the software applications that provide various functionalities for data mining, modeling, simulation, optimization, and forecasting, such as IBM SPSS, SAS, R, Python, etc.
+  - Business intelligence users: the people who use BI and BA tools and techniques to access, analyze, and act on data and insights, such as managers, analysts, consultants, etc.

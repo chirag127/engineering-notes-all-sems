@@ -1,0 +1,26 @@
+### Honey Pots
+
+- A **honeypot** is a **cybersecurity mechanism** that uses a **manufactured attack target** to lure cybercriminals away from legitimate targets, and also gathers intelligence about the identity, methods and motivations of adversaries .
+- A honeypot can be modeled after any digital asset, including software applications, servers or the network itself .
+- Honeypots are typically configured to look like attractive targets to attackers—such as servers running vulnerable versions of operating systems or databases with easy passwords.
+- When attackers exploit the honeypot, their activities are monitored and recorded.
+- Honeypots can be used to **attract, detect, and thereby deflect** cybercriminals from hacking into legitimate targets.
+- Honeypots can also serve **forensic purposes**, quietly gathering data about the hackers who stole it.
+- Honeypots can be classified into two types: **research honeypots** and **production honeypots**.
+  - Research honeypots are used to study the behavior and techniques of cyber attackers, and to collect information that can help improve security measures.
+  - Production honeypots are used to protect real systems and networks by diverting attackers' attention and resources away from them.
+- Honeypots can also be categorized based on their level of interaction: **low-interaction honeypots**, **medium-interaction honeypots**, and **high-interaction honeypots**.
+  - Low-interaction honeypots are simple and easy to deploy, but they only simulate a limited set of services and functionalities, and can be easily detected by sophisticated attackers.
+  - Medium-interaction honeypots are more complex and realistic, but they still do not provide full access to the underlying system or network, and can be compromised by skilled attackers.
+  - High-interaction honeypots are the most advanced and authentic, but they also require the most resources and maintenance, and can pose a high risk of damage or data leakage if breached by attackers.
+- Honeypots should not serve as the centerpiece of a cybersecurity strategy, but they should be considered a crucial component of one.
+- Honeypots can provide valuable benefits, such as:
+  - Detecting and preventing cyberattacks before they cause harm to real systems and networks .
+  - Collecting and analyzing data about the attackers' identity, methods, tools, and objectives  .
+  - Improving the security awareness and preparedness of organizations and individuals .
+  - Testing and evaluating new security solutions and policies.
+- Honeypots can also pose some challenges, such as:
+  - Requiring careful design, deployment, and management to avoid detection, compromise, or misuse by attackers .
+  - Involving legal and ethical issues, such as privacy, consent, and liability.
+  - Consuming significant resources and time, especially for high-interaction honeypots.
+  - Creating a false sense of security or complacency, if not complemented by other security measures.

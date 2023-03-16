@@ -1,0 +1,25 @@
+### Speech Fundamentals
+
+- Speech is the natural mode of communication for humans, and speech processing is the study of how to analyze, understand, and generate speech using computational methods.
+- Speech processing is a subfield of natural language processing (NLP), which is the branch of artificial intelligence that deals with the interaction between computers and human languages.
+- Speech processing involves several tasks, such as:
+  - Speech recognition: the process of converting spoken voice data into text data.
+  - Speech synthesis: the process of generating speech from text data or other inputs.
+  - Speech analysis: the process of extracting features, information, and meaning from speech signals.
+  - Speech enhancement: the process of improving the quality and intelligibility of speech signals.
+  - Speech coding: the process of compressing and decompressing speech signals for transmission or storage.
+  - Speech translation: the process of translating speech from one language to another.
+- Speech processing relies on various techniques and models, such as:
+  - Acoustic modeling: the representation of the relationship between speech sounds and their corresponding acoustic features, such as frequency, amplitude, and duration.
+  - Language modeling: the representation of the statistical properties and structure of natural languages, such as vocabulary, grammar, and syntax.
+  - Hidden Markov models (HMMs): a probabilistic framework for modeling sequential data, such as speech signals, based on the assumption that the underlying system is a Markov process with hidden states.
+  - Neural networks: a computational paradigm that mimics the structure and function of biological neurons, and can learn complex patterns and functions from data.
+  - Deep learning: a subfield of machine learning that uses multiple layers of neural networks to learn high-level abstractions and features from data.
+  - Attention mechanisms: a technique that allows neural networks to focus on relevant parts of the input or output, and to dynamically align them.
+- Speech processing has many applications and benefits, such as:
+  - Voice assistants: software agents that can perform tasks or services for users based on voice commands, such as Siri, Alexa, and Cortana.
+  - Speech-to-text: software that can transcribe speech into text, such as Google Docs Voice Typing, Microsoft Dictate, and Dragon NaturallySpeaking.
+  - Text-to-speech: software that can synthesize speech from text, such as Google Text-to-Speech, Microsoft Speech Synthesis, and Amazon Polly.
+  - Speech analytics: software that can analyze speech data for various purposes, such as sentiment analysis, emotion recognition, speaker identification, and speech summarization.
+  - Speech translation: software that can translate speech from one language to another, such as Google Translate, Microsoft Translator, and Skype Translator.
+  - Speech therapy: software that can help people with speech disorders or impairments, such as stuttering, aphasia, and dysarthria, to improve their speech skills and quality of life.

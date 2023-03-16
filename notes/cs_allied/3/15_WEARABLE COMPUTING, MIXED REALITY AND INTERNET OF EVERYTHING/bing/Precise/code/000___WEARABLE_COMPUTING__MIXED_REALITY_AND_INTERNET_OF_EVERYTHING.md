@@ -1,0 +1,9 @@
+# WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing refers to the use of small, portable electronic devices that are worn on the body or attached to clothing. These devices are often equipped with sensors and can connect to the internet to exchange data with other devices or systems.
+- Mixed reality is a technology that combines the physical and digital worlds, allowing users to interact with virtual objects as if they were real. This is achieved through the use of devices such as head-mounted displays, which can overlay digital information onto the user's view of the real world.
+- The Internet of Everything (IoE) is a concept that refers to the interconnection of all devices and objects, allowing them to communicate and exchange data with each other. This includes not only traditional computing devices such as smartphones and laptops, but also everyday objects such as home appliances, vehicles, and even clothing.
+
+Wearable devices connect people to the “internet of things” through direct contact with the body – on a wrist with smartwatches or fitness trackers, on a face with smart glasses or necklaces, and virtual reality (VR) headsets. Wearable Mobile Computers like Magic Leap One or HoloLens 2 are capable of Augmented Reality (AR), Mixed Reality (MR), and Spatial Computing. They offer a new pattern of computing, with displays that feel vast when compared to screens because of their ability to project the digital into the physical space all around you.
+
+In the future, wearable technology could support the creation of an entire user-generated, non-verbal language. With a single swipe, consumers could send a loved one a message they can feel through unique light, sound, and vibration patterns on their wearable device. The Internet of Things and wearable computing will progress significantly between now and 2025. Many believe there will be clear advantages as that happens.

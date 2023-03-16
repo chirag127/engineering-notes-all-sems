@@ -1,0 +1,5 @@
+### Cyber warfare
+
+Cyber warfare refers to the use of computer technology to disrupt the activities of a state or organization, especially the deliberate attacking of information systems for strategic or military purposes . It is usually waged against government and military networks in order to disrupt, destroy, or deny their use . Cyber warfare can be conducted by a nation or organization to attack another country or institution's computer network systems with the intention of disrupting, damaging, or destroying infrastructure by computer viruses or denial-of-service attacks .
+
+Some intended outcomes of cyber warfare could be espionage, sabotage, propaganda, manipulation or economic warfare . Cyber warfare involves the actions by a nation-state or international organization to attack and attempt to damage another nation's computers or information networks .

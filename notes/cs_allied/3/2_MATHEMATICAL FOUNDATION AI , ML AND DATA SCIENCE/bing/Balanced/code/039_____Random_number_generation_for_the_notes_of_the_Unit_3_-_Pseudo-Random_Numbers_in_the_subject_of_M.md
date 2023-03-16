@@ -1,0 +1,13 @@
+### Random number generation
+
+- Random number generation is the process of producing a sequence of numbers that are unpredictable and have no discernible pattern or correlation.
+- Random numbers are useful for various applications, such as cryptography, simulation, sampling, testing, gaming, and statistical analysis.
+- There are two principal methods used to generate random numbers:
+  - **Physical methods**: These methods measure some physical phenomenon that is expected to be random and then compensates for possible biases in the measurement process. Example sources include measuring atmospheric noise, thermal noise, and other external electromagnetic and quantum phenomena.
+  - **Computational methods**: These methods use algorithms to produce pseudo-random numbers, which are deterministic and reproducible, but appear to be random for most purposes. Example algorithms include linear congruential generators, Mersenne Twister, Blum Blum Shub, and cryptographic hash functions.
+- Physical methods are generally more reliable and secure, but they are also slower, more expensive, and harder to implement than computational methods.
+- Computational methods are more convenient and efficient, but they also have some limitations and drawbacks, such as periodicity, predictability, and correlation. To overcome these issues, some techniques are used, such as seeding, shuffling, combining, and testing.
+- Seeding is the process of initializing a pseudo-random number generator with a value, called a seed, that determines the output sequence. A good seed should be unpredictable and hard to guess, such as the current time, a user input, or a physical source.
+- Shuffling is the process of rearranging the output sequence of a pseudo-random number generator to break any possible patterns or correlations. A common shuffling technique is the Fisher-Yates algorithm, which swaps each element with a random element in the sequence.
+- Combining is the process of mixing the output of two or more pseudo-random number generators to produce a more random and uniform sequence. A common combining technique is the XOR operation, which performs a bitwise exclusive OR on the outputs of the generators.
+- Testing is the process of evaluating the quality and randomness of a pseudo-random number generator using various statistical tests, such as frequency test, runs test, autocorrelation test, and chi-square test. A good pseudo-random number generator should pass most of these tests with a high confidence level.

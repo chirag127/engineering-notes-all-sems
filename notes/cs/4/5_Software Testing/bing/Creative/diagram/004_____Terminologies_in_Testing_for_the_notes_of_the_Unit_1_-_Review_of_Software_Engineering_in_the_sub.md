@@ -1,0 +1,27 @@
+### Terminologies in Testing
+
+- **Software Testing**: The process of verifying and validating that a software product or system meets the specified requirements and expectations of the stakeholders .
+- **Software Testing Life Cycle (STLC)**: The sequence of activities performed during the testing process, from planning to closure .
+- **Test Level**: A specific instantiation of a test process, such as unit testing, integration testing, system testing, or acceptance testing .
+- **Test Type**: A group of test activities aimed at testing a component or system regarding one or more quality attributes, such as functional testing, performance testing, security testing, or usability testing .
+- **Test Design Technique**: A procedure to derive and/or select test cases based on an analysis of the test basis, such as specification-based testing, structure-based testing, or experience-based testing .
+- **Test Case**: A set of input values, execution preconditions, expected results and execution postconditions, developed for a particular objective or test condition, such as to exercise a particular program path or to verify compliance with a specific requirement .
+- **Test Script**: A sequence of instructions for the execution of a test .
+- **Test Data**: Data that exists (for example, in a database) before a test is executed, and that affects or is affected by the component or system under test .
+- **Test Environment**: An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test .
+- **Test Execution**: The process of running a test on the component or system under test, producing actual result(s) .
+- **Test Result**: The outcome of the test execution, such as pass, fail, inconclusive, blocked, etc .
+- **Test Log**: A chronological record of relevant details about the execution of tests .
+- **Test Report**: A document summarizing testing activities and results, and providing an evaluation of the component or system under test and the testing process .
+- **Test Plan**: A document describing the scope, approach, resources and schedule of intended test activities. It identifies amongst others test items, the features to be tested, the testing tasks, who will do each task, degree of tester independence, the test environment, the test design techniques and entry and exit criteria to be used, and the rationale for their choice, and any risks requiring contingency planning .
+- **Test Strategy**: A high-level description of the test levels to be performed and the testing within those levels for an organization or program (one or more projects) .
+- **Test Policy**: A high-level document describing the principles, approach and major objectives of the organization regarding testing .
+- **Test Objective**: A reason or purpose for designing and executing a test .
+- **Test Basis**: The body of knowledge used as the basis for test analysis and design, such as requirements, design specifications, user stories, etc .
+- **Test Coverage**: The degree, expressed as a percentage, to which a specified coverage item has been exercised by a test suite .
+- **Test Oracle**: A source to determine expected results to compare with the actual result of the software under test .
+- **Test Automation**: The use of software to perform or support test activities, such as test management, test design, test execution and test evaluation .
+- **Test Tool**: A software product that supports one or more test activities, such as planning and control, specification, building initial files and data, test execution and test analysis .
+- **Test Management**: The planning, estimating, monitoring and control of test activities, typically carried out by a test manager .
+- **Test Analysis**: The activity that identifies test conditions by analyzing the test basis .
+- **Test Design**: The activity that derives and specifies test cases from test conditions [^6

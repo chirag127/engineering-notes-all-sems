@@ -1,0 +1,13 @@
+## Unit 5 - Cyber Laws and Authorities
+
+- Cyber laws, more commonly known as internet laws, are laws that are related to legal informatics, regulating the digital distribution of information, e-commerce, software, and information security.
+- Cyber laws usually cover many related areas, such as usage and access to the Internet, freedom of speech, and privacy.
+- Cyber laws are important to prevent and punish cybercrimes, such as hacking, identity theft, phishing, cyberstalking, and cyberterrorism .
+- Cyber laws vary from country to country and from state to state, depending on the jurisdiction and the nature of the cyber activity .
+- Cyber laws also involve the regulation of certifying authorities, which are entities that issue digital certificates to verify the identity and authenticity of the parties involved in electronic transactions.
+- Certifying authorities are regulated by the Information Technology Act, 2000 in India, which establishes the Controller of Certifying Authorities as the supervisory authority and lays down the duties, functions, and qualifications of the certifying authorities.
+- Cyber laws also require compliance with cybersecurity and privacy standards, laws, regulations, or requirements that may come from federal, state, local, or tribal governments, or from industry or voluntary bodies.
+- Some of the common laws and requirements related to cybersecurity and privacy in the United States are the Federal Information Security Management Act (FISMA), the Health Insurance Portability and Accountability Act (HIPAA), the Gramm-Leach-Bliley Act (GLBA), the Children's Online Privacy Protection Act (COPPA), and the General Data Protection Regulation (GDPR) of the European Union.
+- Cyber laws are constantly evolving and changing to keep up with the rapid development and innovation of technology and the emerging threats and challenges of cyberspace  .
+- In June 2022, the U.S. President Joe Biden signed two cybersecurity bills into law, which aim to strengthen the federal cyber workforce and foster collaboration across all levels of government.
+- The bills are the Cybersecurity Advisory Committee Authorization Act, which establishes a committee of experts to advise the Department of Homeland Security on cybersecurity matters, and the State and Local Cybersecurity Improvement Act, which authorizes grants to state and local governments to improve their cybersecurity capabilities.

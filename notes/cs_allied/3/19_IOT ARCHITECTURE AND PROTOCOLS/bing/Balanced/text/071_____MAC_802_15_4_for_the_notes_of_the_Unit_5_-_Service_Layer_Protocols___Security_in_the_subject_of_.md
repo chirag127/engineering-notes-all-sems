@@ -1,0 +1,29 @@
+### MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 is designed for low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 supports multiple PHYs for different frequency bands and modulation schemes, such as 2.4 GHz O-QPSK, 868/915 MHz BPSK, and 950 MHz GFSK  .
+- MAC 802.15.4 provides two types of MAC services: data service and management service .
+  - Data service enables the transmission and reception of MAC protocol data units (MPDUs) between peer MAC entities .
+  - Management service enables the configuration and maintenance of the MAC sublayer and the coordination of the PHY sublayer .
+- MAC 802.15.4 supports two types of network topologies: star and peer-to-peer .
+  - Star topology consists of a single coordinator (PAN coordinator) and multiple devices that communicate only with the coordinator .
+  - Peer-to-peer topology consists of multiple devices that can communicate with each other directly or through one or more coordinators .
+- MAC 802.15.4 supports two types of device roles: coordinator and device .
+  - Coordinator is a device that has the ability to start a network, synchronize other devices, and allocate addresses .
+  - Device is a device that can join a network, communicate with other devices, and perform MAC management functions .
+- MAC 802.15.4 supports two types of addressing modes: short and extended .
+  - Short addressing mode uses 16-bit addresses that are allocated by the coordinator within a personal area network (PAN) .
+  - Extended addressing mode uses 64-bit addresses that are globally unique and assigned by the manufacturer .
+- MAC 802.15.4 supports two types of channel access methods: slotted and unslotted CSMA/CA .
+  - Slotted CSMA/CA is a contention-based channel access method that uses a superframe structure with active and inactive periods, where the active period is divided into 16 equally sized time slots .
+  - Unslotted CSMA/CA is a contention-based channel access method that does not use a superframe structure and allows devices to transmit at any time after sensing the channel to be idle .
+- MAC 802.15.4 supports two types of frame formats: beacon and non-beacon .
+  - Beacon frame is a frame that is transmitted by the coordinator periodically to synchronize devices, announce the PAN identifier, and indicate the availability of pending data .
+  - Non-beacon frame is a frame that is transmitted by any device to transfer data or perform MAC management functions .
+- MAC 802.15.4 supports four types of frame types: data, acknowledgment, MAC command, and multipurpose .
+  - Data frame is a frame that carries upper layer data or MAC sublayer data .
+  - Acknowledgment frame is a frame that is sent to confirm the successful reception of a data or MAC command frame .
+  - MAC command frame is a frame that is used to perform MAC management functions, such as association, disassociation, or data request .
+  - Multipurpose frame is a frame that can carry any type of payload and can be used for different purposes, such as ranging, security, or fragmentation .
+- MAC 802.15.4 supports two types

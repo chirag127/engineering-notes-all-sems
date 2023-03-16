@@ -1,0 +1,9 @@
+### IOT Based Automatic Vehicle Accident Detection and Rescue System
+
+- An IOT Based Automatic Vehicle Accident Detection and Rescue System is a system that detects accidents and communicates information to rescue teams via SMS, web applications, or Android mobile applications  .
+- The system uses a vibration sensor, a Wifi module, and a Global Positioning System (GPS) to detect accidents and send location information to the rescue team .
+- The vibration sensor produces a digital pulse output on the detection of any accident or collision. It produces an output based on the threshold which is set over in the potentiometer. The sensor is tightly fitted over in any part of the car.
+- The Wifi module is used to connect the system to the internet and send the accident information to the web application or the Android mobile application. The web application or the Android mobile application can display the location of the accident on a map and also provide other details such as the vehicle number, the driver name, the contact number, etc  .
+- The GPS is used to obtain the latitude and longitude of the accident location and send it to the Wifi module. The GPS also provides the speed and direction of the vehicle .
+- The system can also be integrated with other sensors such as airbag sensor, alcohol sensor, temperature sensor, etc. to provide more information about the accident and the driver's condition  .
+- The system can help to reduce the response time of the rescue team and save lives of the accident victims. It can also help to prevent theft of the vehicle by sending an alert to the owner if the vehicle is moved without authorization  .

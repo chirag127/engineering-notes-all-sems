@@ -1,0 +1,28 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- This is a system that uses Internet of Things (IOT) technology to automate the process of Covid-19 testing in a contactless and safe manner.
+- The system consists of the following components:
+  - A microcontroller that acts as the heart of the project and controls the other devices.
+  - A RFID reader and tags that are used to identify and register the person who wants to get tested.
+  - A GSM modem that sends the test results and other information to the person's mobile phone via SMS.
+  - A MATLAB software that analyzes the images of the nasal swab samples and detects the presence of Covid-19 virus using image processing techniques.
+  - A servo motor that moves the swab stick to collect the sample from the person's nose.
+  - A camera that captures the images of the swab samples and sends them to the MATLAB software for analysis.
+  - A LCD display that shows the instructions and the test results to the person.
+  - A buzzer that alerts the person when the test is done.
+  - A Covid testing booth that provides a safe and isolated environment for the testing process.
+- The system works as follows:
+  - The person who wants to get tested enters the Covid testing booth and scans their RFID tag on the RFID reader.
+  - The microcontroller registers the person's details and displays them on the LCD screen.
+  - The microcontroller instructs the person to position their nose in front of the swab stick and press a button to start the test.
+  - The servo motor moves the swab stick to collect the sample from the person's nose and then retracts it.
+  - The camera captures the images of the swab samples and sends them to the MATLAB software for analysis.
+  - The MATLAB software uses image processing techniques to detect the presence of Covid-19 virus in the samples and sends the test results to the microcontroller.
+  - The microcontroller displays the test results on the LCD screen and sends them to the person's mobile phone via SMS using the GSM modem.
+  - The microcontroller also alerts the person when the test is done using the buzzer.
+  - The person exits the Covid testing booth and disposes the swab stick in a bin.
+- The advantages of this system are:
+  - It reduces the human contact and the risk of infection during the testing process.
+  - It provides a fast and accurate testing method that can be deployed in large group spaces.
+  - It saves the time and resources of the health workers and the testing centers.
+  - It improves the efficiency and the scalability of the testing process.

@@ -1,0 +1,11 @@
+### Creative Coding Platforms
+
+- Creative coding is the practice of using programming languages and techniques to create artistic expressions, such as animations, games, music, interactive design, and generative art.
+- Creative coding platforms are tools or environments that enable and support creative coding, by providing features such as code editing, graphics rendering, sound synthesis, data access, and collaboration.
+- Some examples of creative coding platforms are:
+
+  - **Processing**: A flexible software sketchbook and a language for learning how to code within the context of the visual arts. Processing is based on Java and can run on multiple platforms. It has a large and active community of users and contributors, and a rich set of libraries and examples. 
+  - **p5.js**: A JavaScript library that makes coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. p5.js is based on the core principles of Processing and can run in any modern web browser. It has a web editor, a friendly online community, and a variety of tutorials and examples. 
+  - **Tynker**: A leading K-12 creative coding platform that enables students of all ages to develop the coding skills to design and power animations, games, music, robots and drones, smart devices, virtual worlds like Minecraft, and more. Tynker is web-based and has a gamified curriculum, a code editor, and a global community of learners and teachers. 
+  - **Scratch**: A free creative coding platform and online community that allows children of all ages to code, share, and remix their own stories, games, and animations. Scratch is translated into 50+ languages and available both online and offline. It has a graphical, block-based programming interface, a media library, and a project gallery. 
+  - **OpenProcessing**: A creative coding platform and online community that explores, experiments, and plays with code. OpenProcessing is web-based and supports both Processing and p5.js. It has a code editor, a sketch gallery, and a social network of creative coders.

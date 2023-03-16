@@ -1,0 +1,14 @@
+### Weather Imaging CubeSat with Telemetry Transmission
+
+- A CubeSat is a type of miniaturized satellite that has a standard size of 10x10x10 cm and a mass of up to 1.33 kg. CubeSats can be deployed in low Earth orbit for various applications, such as communication, GPS, remote sensing, and scientific research .
+- A weather imaging CubeSat is a CubeSat that is equipped with a camera or a radiometer to capture images or measurements of the Earth's atmosphere, clouds, and precipitation. The data collected by the weather imaging CubeSat can be used for weather prediction and forecasting systems  .
+- A telemetry transmission system is a system that allows the CubeSat to communicate with a ground station or a satellite network. The telemetry transmission system consists of a transmitter, a receiver, an antenna, and a protocol. The transmitter encodes and modulates the data into radio signals, the receiver decodes and demodulates the signals into data, the antenna transmits and receives the signals, and the protocol defines the format and structure of the data .
+- The problem analysis and designing a solution for a weather imaging CubeSat with telemetry transmission involves the following steps:
+  - Define the objectives and requirements of the CubeSat mission, such as the orbit, the payload, the power, the data rate, the frequency, the modulation, the coding, the antenna, the protocol, the budget, and the timeline .
+  - Conduct a feasibility study and a risk assessment to evaluate the technical and operational challenges and the possible solutions for the CubeSat mission .
+  - Select the appropriate components and subsystems for the CubeSat, such as the structure, the attitude control, the propulsion, the thermal control, the power supply, the onboard computer, the payload, and the telemetry transmission system .
+  - Design and test the CubeSat hardware and software, such as the circuit boards, the sensors, the actuators, the algorithms, the interfaces, and the protocols .
+  - Integrate and verify the CubeSat subsystems and the payload, such as the mechanical, electrical, and functional tests .
+  - Prepare and launch the CubeSat into orbit, such as the integration with the launch vehicle, the deployment mechanism, the orbit insertion, and the initial operation .
+  - Operate and monitor the CubeSat in orbit, such as the command and control, the data acquisition and processing, the orbit determination and maintenance, and the anomaly resolution .
+  - Analyze and disseminate the CubeSat mission results, such as the data quality and accuracy, the mission performance and achievements, and the lessons learned and recommendations .

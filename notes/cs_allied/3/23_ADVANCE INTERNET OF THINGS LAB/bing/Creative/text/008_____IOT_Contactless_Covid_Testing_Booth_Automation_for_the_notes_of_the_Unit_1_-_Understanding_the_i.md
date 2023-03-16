@@ -1,0 +1,24 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- IOT Contactless Covid Testing Booth Automation is a project that aims to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- The system utilizes microcontroller, MATLAB, GSM modem, RFID reader, RFID tags, LCD display, buzzer, and swab collection mechanism .
+- The system works as follows:
+  - The person who wants to get tested has to register online and get an RFID tag with a unique ID.
+  - The person has to scan the RFID tag at the entrance of the booth and the system will display the person's name, contact number, and address on the LCD screen .
+  - The system will also send a confirmation message to the person's mobile number using GSM modem .
+  - The person has to enter the booth and follow the instructions on the LCD screen to collect the swab sample using the swab collection mechanism .
+  - The system will automatically seal the sample and send it to the lab for testing using a conveyor belt .
+  - The system will also generate a QR code for the person to scan and get the test result online .
+  - The system will alert the person to exit the booth using a buzzer and sanitize the booth using UV light .
+- The advantages of this system are:
+  - It reduces the human contact and the risk of infection in the covid testing centers .
+  - It saves time and resources by automating the registration and sample collection process .
+  - It provides a safe and secure covid testing environment for the person and the staff .
+- The challenges of this system are:
+  - It requires a reliable internet connection and power supply for the system to work properly .
+  - It requires a high level of accuracy and precision for the swab collection mechanism and the QR code generation .
+  - It requires a regular maintenance and calibration of the system components to ensure their functionality .
+- The future scope of this system are:
+  - It can be integrated with other IOT devices and sensors to monitor the temperature, oxygen level, and heart rate of the person .
+  - It can be enhanced with artificial intelligence and machine learning to analyze the test results and provide personalized feedback and recommendations .
+  - It can be deployed in other public places such as airports, malls, schools, and offices to conduct mass testing and screening .

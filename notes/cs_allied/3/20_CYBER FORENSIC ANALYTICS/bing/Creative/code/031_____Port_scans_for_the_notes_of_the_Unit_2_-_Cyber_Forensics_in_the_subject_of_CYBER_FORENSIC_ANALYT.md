@@ -1,0 +1,23 @@
+### Port scans
+
+- A port scan is a technique used by cybercriminals to find out information about a system they are going to target .
+- It involves scanning through a network system and determining which ports are open, which are sending data, and which are receiving data .
+- A port is a logical endpoint of communication in a network, identified by a number from 0 to 65535.
+- A port scan attack helps cyber criminals find open ports and figure out whether they are receiving or sending data. It can also reveal whether active security devices like firewalls are being used by an organization.
+- Port scanning is a fundamental part of the pre-attack phase of a penetration test, where ethical hackers and penetration testers use port scanning techniques to locate vulnerabilities in a network.
+- There are several different port scanning or checking techniques, including :
+  - Ping scans: A ping is used to check whether a network data packet can reach an IP address without any issues. Ping scans can be used to discover which hosts are alive on a network.
+  - Half-open or SYNC scans: Attackers can check the state of a port without creating a full connection, by sending a SYN packet and waiting for a response. If the response is a SYN-ACK packet, the port is open. If the response is a RST packet, the port is closed.
+  - Connect scans: Attackers can establish a full TCP connection with each port and then close it. This is a reliable but noisy method that can be easily detected by firewalls and intrusion detection systems.
+  - UDP scans: Attackers can send UDP packets to each port and wait for a response. If the response is an ICMP port unreachable message, the port is closed. If there is no response, the port is either open or filtered by a firewall.
+  - Stealth scans: Attackers can use various techniques to avoid detection by firewalls and intrusion detection systems, such as fragmenting packets, using decoy addresses, or changing the source port.
+- Port scanning can be detected by various methods, such as:
+  - Monitoring network traffic and looking for anomalies, such as a large number of packets sent to different ports or hosts, or packets with unusual flags or options.
+  - Using firewalls and intrusion detection systems to block or alert on suspicious packets or connections.
+  - Implementing honeypots or honeynets, which are decoy systems or networks that attract and trap attackers, and allow for analysis and investigation of their activities.
+- Port scanning can be prevented or mitigated by various methods, such as  :
+  - Closing or disabling unnecessary ports and services on the network devices .
+  - Using strong passwords and encryption for the ports and services that are open .
+  - Configuring firewalls and intrusion detection systems to filter or block unwanted or malicious traffic  .
+  - Updating and patching the network devices and applications regularly to fix any vulnerabilities .
+  - Educating and training the network users and administrators on the risks and best practices of port scanning and security .

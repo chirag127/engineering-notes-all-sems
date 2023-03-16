@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on energy harvesting based sensor networks. Here is some information that I found from the web:
+
+### Energy Harvesting Based Sensor Networks
+
+- Energy harvesting is the process of capturing and converting ambient energy sources, such as solar, wind, vibration, thermal, or RF, into electrical energy that can be used to power sensor nodes .
+- Energy harvesting based sensor networks (EH-WSNs) are wireless sensor networks that use energy harvesting techniques to overcome the limitations of battery-powered sensor nodes, such as short lifetime, high maintenance cost, and environmental impact .
+- EH-WSNs can enable long-term and self-sustaining monitoring applications in various domains, such as environmental, industrial, agricultural, biomedical, and underwater  .
+- EH-WSNs consist of three main components: energy harvesting unit, energy storage unit, and sensor node. The energy harvesting unit captures and converts ambient energy into electrical energy. The energy storage unit stores the harvested energy for later use. The sensor node performs sensing, processing, and communication tasks using the stored energy.
+- EH-WSNs face several challenges, such as energy variability, energy uncertainty, energy management, network topology, routing, medium access control, and security  . Energy variability refers to the fluctuations in the amount and availability of ambient energy sources. Energy uncertainty refers to the unpredictability of the future energy availability. Energy management refers to the optimal allocation and utilization of the harvested energy among different tasks and nodes. Network topology refers to the structure and connectivity of the sensor nodes. Routing refers to the selection of the best paths for data transmission. Medium access control refers to the coordination of the access to the shared wireless channel. Security refers to the protection of the data and the network from malicious attacks.
+- EH-WSNs require novel solutions and protocols that can adapt to the dynamic and heterogeneous energy conditions, and balance the trade-off between performance and energy efficiency  . Some of the proposed solutions and protocols are:
+
+  - Greedy routing algorithm, which selects the next hop node based on the residual energy and the distance to the destination.
+  - Energy harvesting based routing protocol, which considers the energy harvesting rate and the energy consumption rate of the nodes in the routing decision.
+  - EC-MAC protocol, which adjusts the duty cycle of the nodes based on the energy harvesting rate and the traffic load.
+  - Alternative energy harvesting techniques, such as piezoelectric, thermoelectric, and biofuel cells, which can provide more stable and diverse energy sources for sensor nodes.

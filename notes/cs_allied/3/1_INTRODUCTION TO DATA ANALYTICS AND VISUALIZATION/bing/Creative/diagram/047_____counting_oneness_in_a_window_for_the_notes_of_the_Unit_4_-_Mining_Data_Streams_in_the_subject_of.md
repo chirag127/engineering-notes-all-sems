@@ -1,0 +1,23 @@
+### Counting oneness in a window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot be stored in memory.
+- One possible solution is to use the DGIM algorithm, which uses O(log2 N) bits to represent a window of N bits, and allows us to estimate the number of 1's in the window with an error of no more than 50% .
+- The DGIM algorithm works as follows:
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - The algorithm divides the window into buckets, each consisting of:
+    - The timestamp of its right (most recent) end.
+    - The number of 1's in the bucket.
+  - The algorithm maintains the following invariants for the buckets:
+    - There are at most two buckets with the same number of 1's.
+    - The buckets are ordered by their timestamps, from left (oldest) to right (most recent).
+    - The number of 1's in a bucket is a power of 2.
+  - When a new bit arrives, the algorithm updates the buckets as follows:
+    - If the bit is 0, nothing changes.
+    - If the bit is 1, a new bucket with timestamp equal to the current position and number of 1's equal to 1 is created at the right end of the window.
+    - If there are now three buckets with the same number of 1's, the two oldest buckets are merged into one bucket with timestamp equal to the newer of the two and number of 1's equal to the sum of the two.
+    - If the oldest bucket falls outside the window, it is discarded.
+  - To estimate the number of 1's in the last k bits, the algorithm does the following:
+    - Find the rightmost bucket that is completely within the last k bits. Let its timestamp be t and its number of 1's be r.
+    - Add r/2 to the estimate, since the bucket may be only partially within the last k bits.
+    - For each bucket to the left of t, add its number of 1's to the estimate.
+    - Return the estimate as the answer.

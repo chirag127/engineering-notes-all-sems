@@ -1,0 +1,26 @@
+## Unit 2 - Inferential Statistics
+
+- Inferential statistics are methods of drawing conclusions about a population based on a sample of data from that population.
+- Inferential statistics involve two steps: estimating a parameter and testing a hypothesis.
+- A parameter is a numerical characteristic of a population, such as the mean, the standard deviation, or the proportion.
+- An estimate is a numerical value obtained from a sample that approximates a parameter.
+- A point estimate is a single value that is the best guess for the parameter, such as the sample mean or the sample proportion.
+- An interval estimate is a range of values that is likely to contain the parameter, such as a confidence interval.
+- A confidence interval is an interval estimate that is constructed using a confidence level, which is the probability that the interval contains the parameter.
+- A hypothesis is a statement or claim about a parameter that can be tested using data.
+- A null hypothesis is a hypothesis that represents the status quo or no effect, such as H0: μ = 50 or H0: p = 0.5.
+- An alternative hypothesis is a hypothesis that represents the research question or the effect of interest, such as H1: μ ≠ 50 or H1: p > 0.5.
+- A hypothesis test is a procedure of comparing the data with the null hypothesis and deciding whether to reject or fail to reject the null hypothesis.
+- A test statistic is a numerical value that measures the strength of the evidence against the null hypothesis, such as the z-score or the t-score.
+- A p-value is the probability of obtaining the observed data or more extreme data, assuming the null hypothesis is true.
+- A significance level is a predetermined threshold for the p-value, such as α = 0.05 or α = 0.01, that determines the outcome of the hypothesis test.
+- If the p-value is less than or equal to the significance level, the result is statistically significant and the null hypothesis is rejected.
+- If the p-value is greater than the significance level, the result is not statistically significant and the null hypothesis is not rejected.
+- A type I error is the mistake of rejecting the null hypothesis when it is true. The probability of a type I error is equal to the significance level.
+- A type II error is the mistake of not rejecting the null hypothesis when it is false. The probability of a type II error is denoted by β.
+- The power of a hypothesis test is the probability of correctly rejecting the null hypothesis when it is false. The power is equal to 1 - β.
+- The factors that affect the power of a hypothesis test are the sample size, the effect size, the significance level, and the type of test (one-tailed or two-tailed).
+- A one-tailed test is a hypothesis test that has a directional alternative hypothesis, such as H1: μ > 50 or H1: p < 0.5.
+- A two-tailed test is a hypothesis test that has a non-directional alternative hypothesis, such as H1: μ ≠ 50 or H1: p ≠ 0.5.
+- A one-tailed test has more power than a two-tailed test for the same sample size and significance level, but it also has more risk of a type I error.
+- A two-tailed test has less power than a one-tailed test for the same sample size and significance level, but it also has less risk of a type I error.

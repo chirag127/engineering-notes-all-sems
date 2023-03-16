@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to discuss. You have asked me to write some notes on antithetic variables/control variates for the Unit 3 - Pseudo-Random Numbers in the subject of MATHEMATICAL FOUNDATION AI, ML AND DATA SCIENCE. Here is what I have written:
+
+### Antithetic Variables/Control Variates
+
+- Antithetic variables and control variates are two techniques for reducing the variance of Monte Carlo estimates, which are based on using pseudo-random numbers to approximate some quantity of interest.
+- Antithetic variables involve generating pairs of pseudo-random numbers that are negatively correlated, such that one is high when the other is low, and vice versa. This reduces the variability of the average of the pair, which can be used as an estimate of the quantity of interest.
+- Control variates involve using a known quantity that is correlated with the quantity of interest, and adjusting the estimate by subtracting a multiple of the difference between the known quantity and its expected value. This reduces the variance of the estimate by removing some of the common variation between the two quantities.
+- Both techniques can improve the accuracy and efficiency of Monte Carlo methods, especially when the quantity of interest is highly variable or has a complex distribution. However, they also require some additional assumptions and computations, such as knowing the correlation or the expected value of the control variate.

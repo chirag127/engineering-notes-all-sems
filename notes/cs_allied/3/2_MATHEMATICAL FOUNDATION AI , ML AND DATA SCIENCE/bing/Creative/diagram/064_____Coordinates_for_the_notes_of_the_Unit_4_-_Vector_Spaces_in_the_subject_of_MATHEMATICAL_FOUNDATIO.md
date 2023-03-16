@@ -1,0 +1,22 @@
+### Coordinates for the notes of the Unit 4 - Vector Spaces in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+- A **coordinate vector** is a representation of a vector in terms of a basis.
+- A **basis** is a set of linearly independent vectors that span the vector space.
+- A **vector space** is a set of vectors that can be added and scaled by scalars.
+- A **scalar** is a real or complex number that can multiply a vector.
+- A **real coordinate space** is a set of all sequences of real numbers, such as R^n^, where n is the dimension.
+- A **complex coordinate space** is a set of all sequences of complex numbers, such as C^n^, where n is the dimension.
+- A **Euclidean space** is a real coordinate space with a standard inner product that defines the length and angle of vectors.
+- A **Cartesian coordinate system** is a way of assigning coordinates to points in a Euclidean space using orthogonal axes.
+- A **linear transformation** is a function that maps vectors from one vector space to another, preserving addition and scalar multiplication.
+- A **matrix** is a rectangular array of numbers that can represent a linear transformation, a system of linear equations, or a coordinate vector.
+- A **system of linear equations** is a set of equations that involve linear combinations of variables.
+- A **linear combination** is a sum of scalar multiples of vectors.
+- A **span** is the set of all linear combinations of a given set of vectors.
+- A **linear independence** is a property of a set of vectors that none of them can be written as a linear combination of the others.
+- A **dimension** is the number of vectors in a basis of a vector space.
+- A **subspace** is a subset of a vector space that is also a vector space.
+- A **orthogonal** is a property of two vectors that their inner product is zero.
+- A **inner product** is a function that assigns a scalar to a pair of vectors, satisfying certain properties.
+- A **norm** is a function that assigns a non-negative scalar to a vector, satisfying certain properties.
+- A **unit vector** is a vector with norm equal to one.

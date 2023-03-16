@@ -1,0 +1,14 @@
+# Circuit Theory for the Notes of the Unit 1 - INTRODUCTION in the Subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Circuit theory is the study of the behavior of electrical circuits, which are composed of components such as resistors, capacitors, inductors, diodes, transistors, and sources of voltage and current.
+- Circuit theory can be used to analyze and design various types of circuits, such as analog, digital, linear, nonlinear, active, passive, AC, DC, and mixed-signal circuits.
+- Circuit theory can also be applied to other domains, such as mechanical, thermal, hydraulic, and optical systems, by using analogous quantities and laws.
+- Wearable computing is the field of designing and developing wearable devices, such as smartwatches, fitness trackers, smart glasses, and smart clothing, that can sense, process, and communicate information.
+- Wearable computing can provide various benefits, such as enhancing human capabilities, improving health and wellness, enabling context-aware applications, and creating new forms of interaction and expression.
+- Wearable computing can also pose various challenges, such as ensuring user comfort, privacy, security, and social acceptance, as well as managing power consumption, data quality, and interoperability.
+- Mixed reality is the field of creating and experiencing immersive environments that blend the physical and digital worlds, using technologies such as virtual reality, augmented reality, and holograms.
+- Mixed reality can enable various applications, such as entertainment, education, training, simulation, gaming, art, and social interaction, that can enrich human perception, cognition, and emotion.
+- Mixed reality can also raise various issues, such as ethical, legal, and social implications, as well as technical limitations, such as latency, resolution, and field of view.
+- Internet of everything is the concept of connecting people, processes, data, and things through the internet, using technologies such as sensors, actuators, cloud computing, big data, and artificial intelligence.
+- Internet of everything can create various opportunities, such as increasing efficiency, productivity, innovation, and value, as well as enabling new services, business models, and experiences, that can transform various domains, such as industry, agriculture, healthcare, education, and smart cities.
+- Internet of everything can also entail various risks, such as security, privacy, and reliability threats, as well as ethical, social, and environmental impacts, that require careful consideration and regulation.

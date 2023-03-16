@@ -1,0 +1,6 @@
+### DoS for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- **DoS** stands for **Denial of Service**. It is a type of cyber attack that occurs when an attacker seeks to render a computer or other networks inaccessible to its authorized users by momentarily or permanently interrupting the normal operations of a host linked to the Internet.
+- **Cyber Forensics** is needed for the investigation of crime and law enforcement. There are cases like hacking and denial of service (DoS) attacks where the computer system is the crime scene. The proof of the crime will be present in the computer system.
+- **DoS Attack Forensics** has several motivations. When under attack, this process is important to identify the attacker and safely distinguish it from legitimate traffic, and in turn to accurately employ various mitigation techniques to block it.
+- Some key features of digital forensics tools include: Advanced data and metadata searches and filtering, Automatic report generation, Bit-by-bit copies and disk cloning, Bookmarking of files and sectors, Evidence preservation using hashes, File recovery for hidden and deleted data, Forensically sound .

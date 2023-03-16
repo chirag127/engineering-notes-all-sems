@@ -1,0 +1,13 @@
+# Harvesting for RF Sensors and ID Tags
+
+- RF sensors and ID tags are devices that use radio frequency (RF) signals to communicate data, such as identification, location, temperature, etc.
+- RF sensors and ID tags can be classified into passive, semi-passive, and active, depending on their power source and functionality.
+- Passive RF sensors and ID tags have no battery and rely on the RF reader signal to power up and transmit data. They have low cost, long lifetime, and small size, but limited range and functionality.
+- Semi-passive RF sensors and ID tags have a battery that powers the sensor or the logic circuit, but not the RF communication. They have longer range and higher functionality than passive tags, but higher cost and shorter lifetime.
+- Active RF sensors and ID tags have a battery that powers both the sensor and the RF communication. They have the longest range and the highest functionality, but also the highest cost and the shortest lifetime.
+- Energy harvesting is a technique that enables RF sensors and ID tags to collect energy from the environment, such as light, heat, vibration, or RF signals, and use it to power the device or extend the battery life.
+- Energy harvesting can improve the performance, reliability, and sustainability of RF sensors and ID tags, especially for active and semi-passive ones, by reducing the dependency on batteries and enabling self-powered operation.
+- Energy harvesting can also enable new applications of RF sensors and ID tags, such as wireless sensor networks, smart buildings, smart cities, and internet of things, by increasing the scalability, flexibility, and adaptability of the devices.
+- Energy harvesting for RF sensors and ID tags can be achieved by using different types of energy harvesters, such as solar cells, thermoelectric generators, piezoelectric generators, electromagnetic generators, or RF harvesters, depending on the available energy sources and the power requirements of the device.
+- Energy harvesting for RF sensors and ID tags also requires power management circuits, such as rectifiers, voltage converters, regulators, and storage elements, to efficiently convert, regulate, and store the harvested energy for the device operation.
+- Energy harvesting for RF sensors and ID tags is a challenging and active research area, as it involves trade-offs between the power consumption, the power generation, the power storage, and the power transfer of the device, as well as the environmental factors, the device design, and the application requirements.

@@ -1,0 +1,8 @@
+### Cyber Criminal profiling for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber defense forensics analysts are detectives who sleuth out what happened at the scene of a computer crime, and document evidence for use in apprehending the perpetrators.
+- Cyber forensics is the discipline of studying digital sources to find reliable evidence of serious data security incidents. A cyber forensics investigation involves looking for clues from sources such as physical devices, network logs, databases, and cloud services.
+- The use of criminal profiling by investigators is widespread. It has assisted with cybercriminal classification to help distinguish the petty thief from the professional criminal hacker. This tool requires scientifically-based methodology and a secure connection with another investigative tool: computer forensics.
+- Criminal or offender profiling, in general, is a tool that has been used by forensic experts for decades and can help to identify the offender’s behavioral tendencies, personality traits, demographic variables, and geographical variables based on the information and characteristics of the crime.
+- Digital forensics sits at the intersection of cybersecurity and criminal justice. Computer forensic investigators help retrieve information from computers and other digital storage devices. The retrieved data can then be used in criminal investigations or as evidence in cases of cyber crimes.
+- Cybercrime investigation and forensics is relatively a new field that can benefit from methods and tools from its predecessor, the traditional counterpart. Cyber criminal profiling differs from ordinary criminal profiling.

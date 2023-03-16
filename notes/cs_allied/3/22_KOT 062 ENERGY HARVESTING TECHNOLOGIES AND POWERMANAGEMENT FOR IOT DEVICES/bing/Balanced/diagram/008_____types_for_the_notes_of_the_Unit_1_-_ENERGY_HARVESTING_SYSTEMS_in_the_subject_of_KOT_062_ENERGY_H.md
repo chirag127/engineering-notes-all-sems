@@ -1,0 +1,9 @@
+### Types of Energy Harvesting Systems
+
+Energy harvesting systems are devices or systems that are used to convert ambient energy, which is derived from external sources existing in the atmosphere, into electrical energy. Energy harvesting systems can be classified into different types based on the source of ambient energy they utilize, such as:
+
+- **Solar energy harvesting systems**: These systems use photovoltaic cells to capture and convert solar radiation into electrical energy. Solar energy harvesting systems can be used for applications such as wireless sensor networks, wearable devices, and remote monitoring systems.
+- **Thermal energy harvesting systems**: These systems use thermoelectric generators to convert temperature gradients or heat flows into electrical energy. Thermal energy harvesting systems can be used for applications such as waste heat recovery, body heat harvesting, and environmental sensing.
+- **Mechanical energy harvesting systems**: These systems use piezoelectric, electrostatic, or electromagnetic transducers to convert mechanical vibrations, motions, or forces into electrical energy. Mechanical energy harvesting systems can be used for applications such as structural health monitoring, human motion harvesting, and vehicle energy harvesting.
+- **Radio frequency (RF) energy harvesting systems**: These systems use antennas to capture and convert RF signals from sources such as TV, radio, or cellular towers into electrical energy. RF energy harvesting systems can be used for applications such as RFID tags, wireless charging, and ambient intelligence.
+- **Other types of energy harvesting systems**: These systems use other sources of ambient energy such as wind, water, sound, or light to generate electrical energy. Some examples of these systems are wind turbines, hydroelectric generators, acoustic energy harvesters, and optical energy harvesters.

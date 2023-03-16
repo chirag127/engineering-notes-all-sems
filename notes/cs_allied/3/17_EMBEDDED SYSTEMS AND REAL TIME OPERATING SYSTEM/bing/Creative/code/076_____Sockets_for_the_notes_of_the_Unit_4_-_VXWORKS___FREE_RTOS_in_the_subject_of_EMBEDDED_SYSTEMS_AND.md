@@ -1,0 +1,29 @@
+### Sockets for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A socket is an endpoint of a network communication that allows a program to send and receive data over the network.
+- Sockets can be used for both TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) communication, which are two different protocols for reliable and unreliable data transfer respectively.
+- Sockets can also be used for broadcast and multicast communication, which are forms of one-to-many communication that send data to multiple recipients at once.
+- To create a socket, the API function `FreeRTOS_socket()` is used, which takes three parameters: the domain, the type, and the protocol of the socket.
+- The domain must be set to `FREERTOS_AF_INET`, which indicates that the socket uses the Internet Protocol version 4 (IPv4) for addressing.
+- The type can be either `FREERTOS_SOCK_STREAM` for TCP sockets or `FREERTOS_SOCK_DGRAM` for UDP sockets.
+- The protocol can be either `FREERTOS_IPPROTO_TCP` for TCP sockets or `FREERTOS_IPPROTO_UDP` for UDP sockets.
+- The function returns a handle to the socket, which can be used for further operations on the socket, such as binding, sending, receiving, closing, etc.
+- To bind a socket to a specific port number, the API function `FreeRTOS_bind()` is used, which takes three parameters: the socket handle, the address structure, and the size of the address structure.
+- The address structure is of type `struct freertos_sockaddr`, which contains two fields: `sin_port` for the port number and `sin_addr` for the IP address.
+- The IP address can be either a specific address or `FREERTOS_INADDR_ANY`, which means that the socket can accept connections from any address.
+- The function returns `0` on success or `-1` on failure.
+- To send data to a socket, the API function `FreeRTOS_sendto()` is used, which takes six parameters: the socket handle, the data buffer, the length of the data, the flags, the destination address structure, and the size of the destination address structure.
+- The flags can be either `0` or `FREERTOS_ZERO_COPY`, which indicates whether the data buffer should be copied or not.
+- The destination address structure is of type `struct freertos_sockaddr`, which contains the port number and the IP address of the recipient.
+- The function returns the number of bytes sent or `-1` on failure.
+- To receive data from a socket, the API function `FreeRTOS_recvfrom()` is used, which takes six parameters: the socket handle, the data buffer, the length of the buffer, the flags, the source address structure, and the size of the source address structure.
+- The flags can be either `0` or `FREERTOS_ZERO_COPY`, which indicates whether the data buffer should be copied or not.
+- The source address structure is of type `struct freertos_sockaddr`, which contains the port number and the IP address of the sender.
+- The function returns the number of bytes received or `-1` on failure.
+- To close a socket, the API function `FreeRTOS_closesocket()` is used, which takes one parameter: the socket handle.
+- The function returns `0` on success or `-1` on failure.
+- VxWorks is another real-time operating system that supports sockets for network communication.
+- VxWorks provides a similar Berkeley sockets interface as FreeRTOS, but with some differences in the API functions and the data structures.
+- VxWorks uses the `socket()` function to create a socket, which takes the same parameters as FreeRTOS, but returns an integer file descriptor instead of a handle.
+- VxWorks uses the `bind()` function to bind a socket to a port number, which takes the same parameters as FreeRTOS, but uses a different address structure.
+- The address structure is of type `struct sockaddr_in`, which contains four fields: `sin_len` for the length of the structure, `sin_family` for

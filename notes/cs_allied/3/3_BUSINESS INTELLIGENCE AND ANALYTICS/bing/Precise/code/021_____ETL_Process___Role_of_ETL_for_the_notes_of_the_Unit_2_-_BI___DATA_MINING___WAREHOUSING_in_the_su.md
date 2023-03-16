@@ -1,0 +1,9 @@
+### ETL Process – Role of ETL for the notes of the Unit 2 - BI – DATA MINING & WAREHOUSING in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+1. ETL stands for Extract, Transform, and Load. It is a process used to integrate data from multiple sources and prepare it for analysis.
+2. The first step in the ETL process is to extract data from various sources such as databases, files, and applications. This data is then transformed into a common format that can be loaded into a data warehouse.
+3. The transformation step involves cleaning, filtering, and aggregating the data to ensure that it is accurate and consistent. This step is crucial for ensuring the quality of the data that is loaded into the data warehouse.
+4. The final step in the ETL process is to load the transformed data into the data warehouse. This data can then be used for analysis and reporting.
+5. The ETL process plays a critical role in data warehousing and business intelligence. It enables organizations to integrate data from multiple sources and prepare it for analysis, which can help to drive better decision-making.
+6. ETL tools are used to automate the ETL process, making it faster and more efficient. These tools can also help to ensure the accuracy and consistency of the data that is loaded into the data warehouse.
+7. In summary, the ETL process is an essential component of data warehousing and business intelligence. It enables organizations to integrate data from multiple sources and prepare it for analysis, which can help to drive better decision-making. ETL tools can help to automate this process, making it faster and more efficient.

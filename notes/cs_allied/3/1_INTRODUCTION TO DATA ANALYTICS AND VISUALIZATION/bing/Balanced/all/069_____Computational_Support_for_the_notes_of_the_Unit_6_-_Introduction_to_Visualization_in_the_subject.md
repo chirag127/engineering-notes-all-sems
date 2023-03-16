@@ -1,0 +1,11 @@
+# Computational Support for Visualization
+
+- Visualization is the process of creating and manipulating graphical representations of data to enhance human understanding and communication .
+- Visualization can be classified into two broad categories: data visualization and computational visualization.
+- Data visualization deals with abstract data, such as numbers, text, or symbols, that do not have a direct mapping to the physical world. Examples of data visualization are charts, graphs, infographics, and dashboards.
+- Computational visualization deals with physical data, such as images, videos, or simulations, that have a direct mapping to the physical world. Examples of computational visualization are volume rendering, surface rendering, and vector field visualization.
+- Computational support for visualization refers to the hardware and software tools that enable the creation, manipulation, and interaction of visual representations of data.
+- Computational support for visualization can be divided into three main components: data sources, visualization systems, and display devices.
+- Data sources are the origin of the data to be visualized. They can be databases, files, sensors, simulations, or web services. Data sources provide the raw data that needs to be processed and transformed into visual forms.
+- Visualization systems are the software applications that perform the data processing and transformation, and generate the visual representations of data. They can be general-purpose tools, such as MATLAB, Python, or R, or domain-specific tools, such as Paraview, VisIt, or VMD. Visualization systems provide the functionality and flexibility to create different types of visualizations for different purposes and audiences.
+- Display devices are the hardware devices that present the visual representations of data to the users. They can be monitors, projectors, tablets, smartphones, or virtual reality headsets. Display devices provide the interface and interaction between the users and the visualizations.

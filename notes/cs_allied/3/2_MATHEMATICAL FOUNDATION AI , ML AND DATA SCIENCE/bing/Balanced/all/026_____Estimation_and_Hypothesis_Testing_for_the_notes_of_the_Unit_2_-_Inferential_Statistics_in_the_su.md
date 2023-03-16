@@ -1,0 +1,20 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 2 - Inferential Statistics in the subject of Mathematical Foundation AI, ML and Data Science. Here is the content for the topic of Estimation and Hypothesis Testing:
+
+# Estimation and Hypothesis Testing
+
+- Estimation is the process of using sample data to estimate the value of an unknown population parameter, such as the mean, proportion, variance, etc.
+- Hypothesis testing is the process of using sample data to test a claim or a statement about a population parameter, such as the mean, proportion, variance, etc.
+- Both estimation and hypothesis testing are based on the concept of sampling distribution, which is the distribution of a sample statistic obtained from repeated random samples of the same size from a population.
+- There are two types of estimation: point estimation and interval estimation.
+  - Point estimation is the process of using a single value, called a point estimate, to estimate the population parameter. For example, the sample mean is a point estimate of the population mean.
+  - Interval estimation is the process of using an interval, called a confidence interval, to estimate the population parameter. A confidence interval is a range of values that is likely to contain the population parameter with a certain level of confidence. For example, a 95% confidence interval for the population mean is an interval that has a 95% chance of containing the true population mean.
+- There are two types of hypothesis testing: one-tailed and two-tailed tests.
+  - One-tailed test is a test that is used to test a claim about the direction of the difference between the population parameter and a specified value. For example, a one-tailed test can be used to test whether the population mean is greater than or less than a given value.
+  - Two-tailed test is a test that is used to test a claim about the equality or inequality of the population parameter and a specified value. For example, a two-tailed test can be used to test whether the population mean is equal to or not equal to a given value.
+- The steps of hypothesis testing are as follows:
+  1. State the null hypothesis and the alternative hypothesis. The null hypothesis is the claim that is assumed to be true unless there is strong evidence against it. The alternative hypothesis is the claim that is opposite to the null hypothesis and is what we want to prove.
+  2. Choose a significance level, which is the probability of rejecting the null hypothesis when it is true. A common significance level is 0.05, which means that there is a 5% chance of making a type I error, which is rejecting the null hypothesis when it is true.
+  3. Calculate the test statistic, which is a value that measures the difference between the sample statistic and the hypothesized value of the population parameter. The test statistic depends on the type of parameter, the type of test, and the sampling distribution.
+  4. Determine the critical value or the p-value, which are the values that are used to make a decision about the null hypothesis. The critical value is the value of the test statistic that separates the rejection region from the non-rejection region. The p-value is the probability of obtaining a test statistic as extreme or more extreme than the observed value, assuming that the null hypothesis is true.
+  5. Compare the test statistic with the critical value or the p-value with the significance level, and make a decision to reject or fail to reject the null hypothesis. If the test statistic is in the rejection region or the p-value is less than the significance level, then we reject the null hypothesis and accept the alternative hypothesis. If the test statistic is not in the rejection region or the p-value is greater than or equal to the significance level, then we fail to reject the null hypothesis and do not accept the alternative hypothesis.
+  6. State the conclusion in the context of the problem. The conclusion should be based on the decision made in the previous step and should answer the research question or the claim that is being tested.

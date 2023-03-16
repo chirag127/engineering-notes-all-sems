@@ -1,0 +1,33 @@
+### Measures of Skewness and Kurtosis
+
+- Skewness and kurtosis are two measures of shape that describe the distribution of data values.
+- Skewness measures the degree of symmetry or asymmetry of a distribution, while kurtosis measures the degree of heaviness or lightness of the tails of a distribution.
+- Skewness and kurtosis are important for understanding the characteristics of a data set, such as its central tendency, variability, and outliers.
+
+#### Skewness
+
+- Skewness is a measure of the lack of symmetry of a distribution. A distribution is symmetric if it looks the same to the left and right of the center point.
+- A distribution is positively skewed if it has a long right tail, meaning that it has more values on the right side of the center. A distribution is negatively skewed if it has a long left tail, meaning that it has more values on the left side of the center.
+- Skewness can be calculated using different formulas, such as Pearson's median skewness, which is defined as:
+
+$$
+\text{Pearson's median skewness} = \frac{3(\text{mean} - \text{median})}{\text{standard deviation}}
+$$
+
+- Pearson's median skewness tells you how many standard deviations separate the mean and median of a distribution. A positive value indicates a positive skew, a negative value indicates a negative skew, and a zero value indicates a symmetric distribution.
+- Skewness can also be estimated visually by looking at the shape of a histogram or a box plot. A histogram shows the frequency of data values in different intervals, while a box plot shows the median, quartiles, and outliers of a data set.
+- A symmetric distribution has a histogram that is roughly bell-shaped and a box plot that is roughly symmetric around the median. A positively skewed distribution has a histogram that is skewed to the right and a box plot that has a longer right whisker than left whisker. A negatively skewed distribution has a histogram that is skewed to the left and a box plot that has a longer left whisker than right whisker.
+
+#### Kurtosis
+
+- Kurtosis is a measure of the heaviness or lightness of the tails of a distribution. A distribution has heavy tails if it has more extreme values (far from the center) than a normal distribution. A distribution has light tails if it has fewer extreme values than a normal distribution.
+- Kurtosis can be calculated using different formulas, such as the excess kurtosis, which is defined as:
+
+$$
+\text{Excess kurtosis} = \frac{\text{fourth moment}}{(\text{second moment})^2} - 3
+$$
+
+- The fourth moment and the second moment are measures of the spread of the data values around the mean. The excess kurtosis tells you how much the kurtosis of a distribution differs from the kurtosis of a normal distribution, which is 3.
+- A positive value of excess kurtosis indicates a heavy-tailed distribution, a negative value indicates a light-tailed distribution, and a zero value indicates a normal distribution.
+- Kurtosis can also be estimated visually by looking at the shape of a histogram or a box plot. A histogram shows the frequency of data values in different intervals, while a box plot shows the median, quartiles, and outliers of a data set.
+- A normal distribution has a histogram that is roughly bell-shaped and a box plot that has few or no outliers. A heavy-tailed distribution has a histogram that has a higher peak and fatter tails than a normal distribution and a box plot that has many outliers. A light-tailed distribution has a histogram that has a lower peak and thinner tails than a normal distribution and a box plot that has few or no outliers.

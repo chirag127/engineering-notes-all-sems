@@ -1,0 +1,9 @@
+# Software for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- A software framework is a set of libraries, drivers, modules, and tools that provide an abstraction layer to the hardware and simplify the development of embedded software for microcontrollers.
+- A software framework can help reduce design time, improve code quality, enhance portability, and facilitate maintenance and debugging of embedded software.
+- Some examples of software frameworks for microcontrollers are:
+
+  - **Advanced Software Framework (ASF)** : A software framework developed by Microchip Technology that supports various microcontrollers and microprocessors from the company. It provides drivers and middleware for common peripherals, communication protocols, wireless connectivity, graphics, touch, security, and more. It also includes code examples, documentation, and support for various development tools and IDEs.
+  - **MPLAB® Harmony v3**: A software framework developed by Microchip Technology that is based on ASF and provides additional features and flexibility for 32-bit microcontrollers and microprocessors from the company. It supports modular and configurable software components, graphical configuration tools, third-party software integration, and cloud-based services. It also includes code examples, documentation, and training resources.
+  - **Embedded Software Development Kits (SDKs)**: A collection of software frameworks developed by Texas Instruments that support various microcontrollers and microprocessors from the company. They provide operating systems, middleware, stacks, application examples, demos, documentation, and training for various domains, such as industrial, automotive, wireless, and IoT. They also support various development tools and IDEs.

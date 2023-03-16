@@ -1,0 +1,26 @@
+# Data Mart
+
+- A data mart is a **subset** of a data warehouse focused on a **particular line of business, department, or subject area** .
+- A data mart makes specific data available to a **defined group of users**, which allows those users to quickly access critical insights without wasting time searching through an entire data warehouse .
+- For example, many companies may have a data mart that aligns with a specific department in the business, such as finance, sales, or marketing .
+- A data mart is a **subject-oriented** relational database that stores transactional data in rows and columns, which makes it easy to access, organize, and understand.
+- As it contains historical data, this structure makes it easier for an analyst to determine data trends.
+- A data mart can be **independent** or **dependent** on a data warehouse .
+  - An independent data mart is created directly from operational data sources without using a data warehouse .
+  - A dependent data mart is derived from a data warehouse and follows the same data model and standards .
+- A data mart can also be **logical** or **physical**.
+  - A logical data mart is a view or query on a data warehouse that provides a subset of data for a specific user group.
+  - A physical data mart is a separate database that stores a subset of data from a data warehouse.
+- A data mart can provide the following benefits  :
+  - Faster and easier access to relevant data
+  - Improved query performance and response time
+  - Reduced load and complexity on the data warehouse
+  - Enhanced data quality and consistency
+  - Increased user satisfaction and productivity
+  - Lower cost and maintenance
+- A data mart can also have some challenges, such as  :
+  - Data redundancy and inconsistency
+  - Data integration and security issues
+  - Data governance and management difficulties
+  - Scalability and flexibility limitations
+  - Potential conflicts with the data warehouse

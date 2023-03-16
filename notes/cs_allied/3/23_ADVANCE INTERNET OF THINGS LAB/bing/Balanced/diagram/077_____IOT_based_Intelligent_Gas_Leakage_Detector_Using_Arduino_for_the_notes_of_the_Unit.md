@@ -1,0 +1,23 @@
+### IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that uses an Arduino board, an MQ5 gas sensor, an ESP8266 Wi-Fi module, and a buzzer to detect and alert the presence of LPG gas leakage in the air  .
+- The MQ5 gas sensor is a metal oxide semiconductor sensor that can sense various gases such as methane, butane, LPG, smoke, alcohol, etc. It has a high sensitivity and fast response time. It outputs an analog voltage that varies according to the concentration of the gas.
+- The Arduino board is a microcontroller that can read the analog voltage from the MQ5 sensor, process it, and send it to the ESP8266 module via serial communication  .
+- The ESP8266 module is a low-cost Wi-Fi chip that can connect to the internet and send or receive data from a cloud server or a web page . It can also be programmed using the Arduino IDE.
+- The buzzer is a device that can produce a loud sound when activated by a digital signal from the Arduino board . It can be used to alert the user or the nearby people about the gas leakage .
+- The working principle of this project is as follows  :
+  - The MQ5 sensor is powered by 5V from the Arduino board and is placed near the gas source or the gas cylinder.
+  - The sensor continuously monitors the level of LPG gas in the air and outputs an analog voltage that is proportional to the gas concentration.
+  - The Arduino board reads the analog voltage from the sensor and converts it to a digital value using an analog-to-digital converter (ADC).
+  - The Arduino board compares the digital value with a predefined threshold and decides whether the gas level is normal or abnormal.
+  - If the gas level is normal, the Arduino board sends a message to the ESP8266 module saying "No Gas Leakage".
+  - If the gas level is abnormal, the Arduino board sends a message to the ESP8266 module saying "Gas Leakage Detected" and activates the buzzer to produce a sound.
+  - The ESP8266 module receives the message from the Arduino board and connects to the internet using Wi-Fi.
+  - The ESP8266 module sends the message to a cloud server or a web page using HTTP protocol.
+  - The user can access the cloud server or the web page using a smartphone or a computer and see the status of the gas leakage.
+  - The user can also receive an email or a text message alert from the cloud server or the web page if the gas leakage is detected.
+- The advantages of this project are :
+  - It is a low-cost and easy-to-build system that can prevent fire accidents and save lives.
+  - It is an IoT based system that can send real-time data and alerts to the user remotely.
+  - It can be customized and modified according to the user's needs and preferences.
+  - It can be integrated with other IoT devices and applications for smart home automation and security.

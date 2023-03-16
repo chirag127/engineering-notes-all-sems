@@ -1,0 +1,6 @@
+### Case studies for the notes of the Unit 4 - Mining Data Streams in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+1. **Introduction to Stream Mining** - Data Stream Mining is the process of extracting knowledge from continuous rapid data records which comes to the system in a stream. A Data Stream is an ordered sequence of instances in time .
+2. **The Stream Data Model** - The elements of streams and stream processing are discussed, explaining the difference between streams and databases and the special problems that arise when dealing with streams. Some typical applications where the stream model applies are examined .
+3. **A Data-Stream-Management System** - In analogy to a database-management system, a stream processor can be viewed as a kind of data-management system, the high-level organization of which is suggested in Fig. 4.1. Any number of streams can enter the system .
+4. **Mining Data Streams: A Review** - Mining data streams is concerned with extracting knowledge structures represented in models and patterns in non stopping streams of information .

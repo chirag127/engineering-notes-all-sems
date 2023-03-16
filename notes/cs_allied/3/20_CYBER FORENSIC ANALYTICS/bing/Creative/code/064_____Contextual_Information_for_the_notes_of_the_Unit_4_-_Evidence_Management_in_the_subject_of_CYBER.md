@@ -1,0 +1,33 @@
+### Contextual Information for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of identifying, collecting, acquiring, preserving, and analyzing digital evidence from computing systems involved in cybersecurity incidents or cybercrime activities .
+- Evidence management is crucial for ensuring the integrity, reliability, and admissibility of digital evidence in legal proceedings.
+- Evidence management follows a five-step process:
+  - Identification: Information needs to be gathered before the digital device is even touched. It won’t often be clear what contextual information is relevant to an investigation until much later. Some examples of contextual information are:
+    - The type, model, and serial number of the device
+    - The owner, user, and location of the device
+    - The date and time of the incident
+    - The nature and scope of the incident
+    - The potential sources and types of digital evidence
+    - The legal authority and jurisdiction for the investigation
+  - Collection: The digital device needs to be handled carefully and securely to avoid any damage, alteration, or loss of digital evidence. Some best practices for collection are:
+    - Documenting the device and its surroundings with photographs, sketches, notes, etc.
+    - Isolating the device from any network or power source to prevent remote access or data wiping
+    - Using appropriate tools and techniques to collect the device and its components, such as anti-static bags, gloves, labels, etc.
+    - Maintaining a chain of custody to record the details of who, what, when, where, why, and how the device was collected
+  - Acquisition: The digital device needs to be imaged or copied to create an exact replica of the data stored on it. The original device should be stored in a secure location and not used for analysis. Some best practices for acquisition are:
+    - Using forensically sound tools and methods to create a bit-by-bit copy of the device or its storage media
+    - Verifying the integrity of the copy by comparing the hash values of the original and the copy
+    - Encrypting the copy to protect the confidentiality of the data
+    - Documenting the acquisition process and the tools used
+  - Preservation: The digital copy needs to be stored in a safe and accessible manner to prevent any unauthorized access, modification, or deletion of the data. Some best practices for preservation are:
+    - Using reliable and durable storage media, such as hard drives, optical disks, flash drives, etc.
+    - Making multiple copies and backups of the data and storing them in different locations
+    - Using encryption, passwords, locks, etc. to secure the storage media
+    - Updating the chain of custody to reflect the location and status of the data
+  - Analysis: The digital data needs to be examined and interpreted to extract relevant information and evidence for the investigation. Some best practices for analysis are:
+    - Using appropriate tools and techniques to recover, extract, and analyze the data, such as file carving, data carving, keyword searching, timeline analysis, etc.
+    - Using data analytics methods to identify patterns, trends, anomalies, and relationships in the data, such as clustering, classification, association, etc.
+    - Using forensic standards and guidelines to ensure the validity and reliability of the analysis, such as the Scientific Working Group on Digital Evidence (SWGDE), the National Institute of Standards and Technology (NIST), etc.
+    - Using information management tools to reduce the potential bias and error in the analysis, such as Linear Sequential Unmasking-Expanded (LSU-E), which is a practical tool that laboratories can use to implement a sequential and unmasked approach to forensic decisions.
+    - Documenting the analysis process and the findings in a clear and concise manner

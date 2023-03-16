@@ -1,0 +1,11 @@
+### Metadata for the notes of the Unit 5 - IMPLEMENTATION OF BI in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- Metadata is data that describes other data. It provides information about the characteristics, quality, origin, and usage of data.
+- Metadata management is the process of creating, storing, organizing, and maintaining metadata in a centralized location. It helps to ensure the consistency, accuracy, and accessibility of data across the organization.
+- Metadata management is essential for business intelligence (BI) and analytics, as it enables data users to understand the context, meaning, and relevance of data. It also helps to track the lineage, transformation, and dependencies of data throughout the data lifecycle.
+- There are different types of metadata, such as technical, business, and operational metadata. Each type serves a different purpose and audience.
+  - Technical metadata includes data structures, types, and models, such as physical database schemas, tables, and columns. It helps data engineers and developers to design, build, and maintain data systems and applications .
+  - Business metadata describes data by mapping it to business terms, key performance indicators (KPIs), data domains, reports, glossary terms, and more. It helps data analysts and business users to understand the business context and meaning of data, and to perform data discovery and analysis.
+  - Operational metadata includes information about the performance, usage, and quality of data, such as data sources, timestamps, frequency, volume, errors, and validations. It helps data managers and stewards to monitor, audit, and improve the data quality and governance.
+- Metadata management can drive business value, improve innovation and collaboration, and mitigate risk. It can also enable data users to access high-quality and trusted data, thus ensuring that they work with the right data to deliver accurate insights .
+- Metadata management can be implemented using various tools and techniques, such as metadata repositories, metadata standards, metadata extraction, metadata integration, metadata cataloging, and metadata search. These tools and techniques can help to automate, simplify, and enhance the metadata management process.

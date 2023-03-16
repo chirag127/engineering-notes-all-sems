@@ -1,0 +1,22 @@
+### Cyber extortion
+
+Cyber extortion is a form of cybercrime in which hackers or cybercriminals demand money or something else of value from their victims in exchange for not carrying out a threat to harm their data, systems, or reputation. Some common types of cyber extortion are:
+
+- **Ransomware**: This is a type of malware that encrypts the victim's files or locks their device and displays a message demanding a ransom to restore access. Ransomware can affect individuals, businesses, or public institutions and can cause significant losses and disruptions.
+- **Distributed denial-of-service (DDoS) attacks**: This is a type of cyberattack that floods the victim's website or network with a large amount of traffic, making it slow or unavailable. The attacker may demand a payment to stop the attack or to prevent future attacks.
+- **Data breach extortion**: This is a type of cyberattack that involves stealing the victim's sensitive or confidential data and threatening to expose it publicly or to a third party unless a ransom is paid. The data may include personal information, financial records, trade secrets, or intellectual property.
+- **Reputation damage extortion**: This is a type of cyberattack that involves creating or spreading false or damaging information about the victim online and demanding a payment to remove or stop it. The information may include fake reviews, negative comments, or defamatory content.
+
+Cyber extortion can have serious consequences for the victims, such as:
+
+- **Financial losses**: The victims may have to pay a large amount of money to the extortionists or to recover from the damage caused by the attack. They may also lose revenue, customers, or business opportunities due to the disruption or loss of trust.
+- **Operational losses**: The victims may experience downtime, reduced performance, or loss of functionality of their systems or services due to the attack. They may also have to spend time and resources to restore their systems, data, or reputation.
+- **Legal liabilities**: The victims may face legal actions, fines, or penalties from regulators, customers, or other parties if they fail to protect their data or comply with the relevant laws and regulations. They may also have to deal with lawsuits, claims, or disputes arising from the breach or exposure of their data or reputation.
+- **Reputational losses**: The victims may suffer damage to their reputation, brand, or image due to the attack or the disclosure of their data or information. They may lose the trust, confidence, or loyalty of their customers, partners, or stakeholders. They may also face negative publicity, media attention, or social media backlash.
+
+To prevent or mitigate cyber extortion, the victims should:
+
+- **Implement security measures**: The victims should adopt best practices and standards to protect their systems, data, and networks from cyberattacks. They should use encryption, backup, antivirus, firewall, and other security tools and technologies. They should also update and patch their systems and software regularly and monitor and audit their network activity and logs.
+- **Educate and train their staff**: The victims should raise awareness and educate their staff about the risks and signs of cyber extortion and how to avoid or respond to it. They should also train their staff on how to use their systems and devices securely and how to report any suspicious or unusual activity or incident.
+- **Develop and test a response plan**: The victims should have a clear and comprehensive plan on how to respond to a cyber extortion incident. They should identify and assign roles and responsibilities, establish communication channels and procedures, and prepare contingency and recovery plans. They should also test and update their plan regularly and conduct drills and simulations.
+- **Seek professional help**: The victims should consult and cooperate with law enforcement, cybersecurity experts, or legal advisors if they face a cyber extortion incident. They should report the incident, preserve the evidence, and follow the guidance and advice of the professionals. They should also avoid paying the ransom or communicating with the extortionists unless advised otherwise.

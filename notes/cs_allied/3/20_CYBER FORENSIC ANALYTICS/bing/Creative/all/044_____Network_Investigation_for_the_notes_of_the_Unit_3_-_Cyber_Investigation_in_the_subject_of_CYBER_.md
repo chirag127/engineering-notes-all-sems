@@ -1,0 +1,11 @@
+# Network Investigation
+
+Network investigation is a branch of digital forensics that deals with the collection and analysis of network traffic data related to cyber crimes or cyber attacks . Network investigation can help identify the sources, methods, and motives of malicious actors, as well as the vulnerabilities and damages of the targeted systems . Network investigation can also help recover and preserve digital evidence for legal purposes.
+
+Some of the topics that are covered in network investigation are:
+
+- Network architecture and protocols: The basic concepts and components of network communication, such as the OSI model, TCP/IP, Ethernet, Wi-Fi, etc. Understanding how networks are structured and how data is transmitted and received is essential for network investigation .
+- Network traffic capture and analysis: The techniques and tools for capturing and analyzing network traffic data, such as packet sniffers, network analyzers, network monitors, etc. These tools can help identify and filter relevant information from the large amount of network data, such as IP addresses, ports, protocols, payloads, etc .
+- Network forensics methods: The approaches and strategies for conducting network forensics investigations, such as the "catch it as you can" method and the "stop, look and listen" method. These methods differ in the amount and type of data that is captured and analyzed, as well as the trade-offs between performance and completeness.
+- Network forensics challenges and solutions: The difficulties and limitations of network forensics, such as encryption, fragmentation, spoofing, tunneling, etc. These challenges can hinder the network investigation process and require special techniques or tools to overcome them .
+- Network forensics case studies and best practices: The examples and lessons learned from real-world network forensics investigations, such as the Sony hack, the Stuxnet attack, the Mirai botnet, etc. These case studies can illustrate the network forensics methods and tools in action, as well as the legal and ethical issues involved .

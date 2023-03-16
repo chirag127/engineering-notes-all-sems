@@ -1,0 +1,22 @@
+### Hard disk for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- A hard disk is a magnetic storage medium that stores data on flat circular discs coated with a magnetic substance.
+- Hard disk forensics is the science of extracting actionable information from hard disks to be presented as evidence in criminal proceedings .
+- Hard disk forensics often involves recovering data that was deleted, damaged, or encrypted, and reconstructing it to its original state .
+- Hard disk forensics can be used to investigate cyberattacks, cybercrimes, data breaches, fraud, intellectual property theft, malware infections, and other digital incidents  .
+- Hard disk forensics can be performed using various tools and techniques, such as:
+  - Disk imaging: creating a bit-by-bit copy of the hard disk for analysis.
+  - Disk partitioning: dividing the hard disk into logical sections for data organization and access.
+  - File system analysis: examining the structure and metadata of files and directories on the hard disk.
+  - File carving: recovering files from unallocated or slack space on the hard disk.
+  - Deleted file recovery: restoring files that were deleted by the user or the operating system.
+  - Encryption and decryption: applying or removing cryptographic algorithms to protect or access data on the hard disk.
+  - Hashing: generating unique identifiers for files and data blocks to verify their integrity and authenticity.
+  - Keyword searching: finding specific words or phrases in the data on the hard disk.
+  - Timeline analysis: reconstructing the chronological sequence of events and actions on the hard disk.
+- Some examples of hard disk forensics tools are:
+  - Autopsy: an open source digital forensics platform that supports various file systems, network evidence, memory images, and more.
+  - SIFT Workstation: a collection of digital forensics tools that can analyze file systems, network evidence, memory images, and more.
+  - FTK Imager: a tool that can create disk images, view file and disk properties, and mount images as logical drives.
+  - EnCase: a commercial digital forensics software that can acquire, analyze, and report on data from hard disks and other devices.
+  - X-Ways Forensics: a tool that can perform disk imaging, file system analysis, file carving, deleted file recovery, encryption and decryption, hashing, keyword searching, and more.

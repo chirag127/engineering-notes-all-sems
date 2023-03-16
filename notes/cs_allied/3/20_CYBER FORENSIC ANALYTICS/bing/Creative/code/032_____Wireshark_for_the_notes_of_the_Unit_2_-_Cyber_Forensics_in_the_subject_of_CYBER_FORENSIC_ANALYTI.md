@@ -1,0 +1,9 @@
+### Wireshark for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- Wireshark is a free and open-source network protocol analyzer that can capture and examine packets from various network interfaces .
+- Wireshark can be used for network forensics, which is the process of analyzing network traffic and packets to identify and investigate malicious activities, such as cyberattacks, malware infections, data breaches, etc  .
+- Wireshark can display the details of each packet, such as the source and destination addresses, protocols, ports, timestamps, payload, etc. It can also filter, search, and highlight packets based on various criteria, such as IP addresses, protocols, keywords, etc .
+- Wireshark can also reconstruct and export the contents of some packets, such as web pages, images, files, etc. This can help forensic investigators to recover evidence or artifacts from network traffic .
+- Wireshark can also perform statistical analysis and generate graphs and charts to visualize the network traffic patterns, such as throughput, packet size, packet loss, etc. This can help forensic investigators to identify anomalies or trends in network behavior .
+- Wireshark can also be integrated with other tools and plugins to enhance its functionality and support more protocols and formats. For example, Wireshark can use Nmap to scan network hosts, Tshark to capture packets from the command line, Volatility to analyze memory dumps, etc .
+- Wireshark is widely used by network technicians, security professionals, forensic investigators, and researchers to monitor, troubleshoot, and analyze network traffic and packets    .

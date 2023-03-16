@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of independent event for the notes of the Unit 1 - Descriptive Statistics in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE.
+
+### Independent Event
+
+- An independent event is an event that is not affected by the occurrence of another event.
+- Two events A and B are independent if and only if P(A and B) = P(A) * P(B), where P(A and B) is the probability of both events happening, P(A) is the probability of event A happening, and P(B) is the probability of event B happening.
+- For example, if you toss a coin and roll a die, the outcome of the coin toss is independent of the outcome of the die roll, because the coin and the die are not related in any way. The probability of getting a head and a 6 is equal to the probability of getting a head times the probability of getting a 6, which is 0.5 * 1/6 = 1/12.
+- Another way to check if two events are independent is to use the conditional probability formula: P(A|B) = P(A and B) / P(B), where P(A|B) is the probability of event A given that event B has occurred. Two events A and B are independent if and only if P(A|B) = P(A), meaning that the probability of event A does not change when event B has occurred.
+- For example, if you draw two cards from a standard deck of 52 cards without replacement, the outcome of the first draw is not independent of the outcome of the second draw, because the first draw affects the number and composition of the remaining cards. The probability of drawing an ace and a king is not equal to the probability of drawing an ace times the probability of drawing a king, which is 4/52 * 4/52 = 1/169. The conditional probability of drawing a king given that an ace has been drawn is P(K|A) = P(A and K) / P(A) = 4/51 / 4/52 = 13/51, which is not equal to P(K) = 4/52. Therefore, the events are not independent.

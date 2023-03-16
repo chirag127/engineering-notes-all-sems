@@ -1,0 +1,18 @@
+### Sockets for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A socket is an endpoint of a bidirectional communication channel between two processes or devices over a network.
+- Sockets can be used to send and receive data using various protocols, such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+- TCP is a reliable, connection-oriented protocol that ensures data integrity and delivery. UDP is an unreliable, connectionless protocol that offers low latency and high throughput.
+- Both VXWORKS and FREE RTOS support sockets as a way of implementing network communication in embedded systems and real-time operating systems.
+- VXWORKS is a proprietary, UNIX-like real-time operating system that is widely used in safety-critical applications, such as aerospace, defense, and industrial automation.
+- FREE RTOS is an open source, scalable, and thread-safe real-time operating system that is designed for small embedded systems with limited resources.
+- VXWORKS and FREE RTOS have different APIs for creating and using sockets, but they both follow the standard Berkeley sockets interface, which is familiar to most programmers .
+- To create a socket in VXWORKS, the function `socket()` is used, which takes three parameters: the domain (AF_INET for IPv4), the type (SOCK_STREAM for TCP or SOCK_DGRAM for UDP), and the protocol (0 for default or IPPROTO_TCP or IPPROTO_UDP for specific protocols).
+- To create a socket in FREE RTOS, the function `FreeRTOS_socket()` is used, which takes the same three parameters as VXWORKS, but with different names: xDomain (FREERTOS_AF_INET for IPv4), xType (FREERTOS_SOCK_STREAM for TCP or FREERTOS_SOCK_DGRAM for UDP), and xProtocol (0 for default or FREERTOS_IPPROTO_TCP or FREERTOS_IPPROTO_UDP for specific protocols).
+- To bind a socket to a specific port number and IP address, the function `bind()` is used in both VXWORKS and FREE RTOS, which takes a socket descriptor, a pointer to a sockaddr_in structure, and the size of the structure as parameters.
+- To listen for incoming connections on a TCP socket, the function `listen()` is used in both VXWORKS and FREE RTOS, which takes a socket descriptor and a backlog (the maximum number of pending connections) as parameters.
+- To accept a connection on a TCP socket, the function `accept()` is used in both VXWORKS and FREE RTOS, which takes a socket descriptor, a pointer to a sockaddr_in structure, and a pointer to the size of the structure as parameters. It returns a new socket descriptor for the accepted connection.
+- To connect to a remote server on a TCP socket, the function `connect()` is used in both VXWORKS and FREE RTOS, which takes a socket descriptor, a pointer to a sockaddr_in structure, and the size of the structure as parameters.
+- To send data on a TCP or UDP socket, the function `send()` or `sendto()` is used in both VXWORKS and FREE RTOS, which take a socket descriptor, a pointer to a buffer, the size of the buffer, some flags, and optionally a pointer to a sockaddr_in structure and the size of the structure as parameters.
+- To receive data on a TCP or UDP socket, the function `recv()` or `recvfrom()` is used in both VXWORKS and FREE RTOS, which take a socket descriptor, a pointer to a buffer, the size of the buffer, some flags, and optionally a pointer to a sockaddr_in structure and a pointer to the size of the structure as parameters.
+- To close a socket, the function `close()` is used in both VXWORKS and FREE RTOS, which takes a socket descriptor as a parameter.

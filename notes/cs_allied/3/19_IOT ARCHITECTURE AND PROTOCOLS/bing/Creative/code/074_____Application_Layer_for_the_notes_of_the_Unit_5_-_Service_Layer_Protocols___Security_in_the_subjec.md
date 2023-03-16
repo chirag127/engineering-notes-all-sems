@@ -1,0 +1,12 @@
+### Application Layer for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The application layer is the interface between the IoT device and the network with which it will communicate.
+- It handles data formatting and presentation and serves as the bridge between what the IoT device is doing and the network handoff of the data it produces.
+- It is also the layer where the applications and platforms that integrate together to deliver the functionality from the IoT infrastructure to the business are located.
+- In other words, the application layer, platform layer and integration layer are what provide the business value from the IoT infrastructure.
+- Some of the common application layer protocols in IoT are :
+  - MQTT: Message Queuing Telemetry Transport is a lightweight publish/subscribe protocol that is designed for low-bandwidth, high-latency and unreliable networks. It is widely used for IoT applications that require real-time data delivery, such as smart home, smart grid and industrial automation.
+  - CoAP: Constrained Application Protocol is a web transfer protocol that is optimized for constrained devices and networks. It is based on the RESTful architecture and uses UDP as the transport layer. It supports features such as multicast, caching, asynchronous messaging and resource discovery.
+  - HTTP: Hypertext Transfer Protocol is the most common web protocol that is used for exchanging data between clients and servers. It is based on the request/response model and uses TCP as the transport layer. It supports features such as authentication, encryption, compression and caching.
+  - AMQP: Advanced Message Queuing Protocol is an open standard for message-oriented middleware that is designed for high-performance, reliable and secure communication. It is based on the peer-to-peer model and uses TCP as the transport layer. It supports features such as routing, queuing, transactions and acknowledgements.
+  - XMPP: Extensible Messaging and Presence Protocol is an open standard for instant messaging and presence information that is based on the XML format. It is based on the client/server model and uses TCP as the transport layer. It supports features such as chat, group chat, file transfer and voice/video calls.

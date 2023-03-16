@@ -1,0 +1,9 @@
+### Cyber Criminal Profiling
+
+Cyber Criminal Profiling is a technique used by forensic investigators and law enforcement agencies to understand why criminals are committing cyber crimes, to classify criminal behavior and to solve crimes that have already been committed . It is a tool that requires scientifically-based methodology and a secure connection with another investigative tool: computer forensics .
+
+Criminal profiling involves collecting inferences about the traits of the individual responsible for the series of crime or for a particular crime. It involves understanding what a particular crime says about the perpetrator . It is used by forensic investigators and law enforcement agencies to understand and apprehend criminal offenders. As a forensic technique, criminal profiling enables investigative agencies to use the specific information to focus their attention on people with personality traits that parallel those of other offenders who have committed other similar offences .
+
+Integrating the sciences and the arts, criminal profiling allows investigators to analyze victims and crime scene and comparing them to similar crimes committed by known offenders’ personalities and traits. From this, the criminal profiler can predict the unknown offender’s characteristics including sex, age, and level of mental stability, geographical location and motivation . The investigators can also link other offences committed by the offender from the offender’s signature and modus operandi identified from the physical evidence collected at the setting where the crime occurred and scene of crime .
+
+Cyber crime investigation and forensics is relatively a new field that can benefit from methods and tools from its predecessor, the traditional counterpart . However, cyber criminal profiling differs from ordinary criminal profiling .

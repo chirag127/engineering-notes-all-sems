@@ -1,0 +1,27 @@
+### Monte Carlo hypothesis testing
+
+- Monte Carlo hypothesis testing is a method for conducting statistical tests using simulated data under the null hypothesis .
+- The null hypothesis is the assumption that there is no significant difference or relationship between the variables of interest.
+- The test statistic is a numerical measure that summarizes the evidence against the null hypothesis, such as the mean difference, the correlation coefficient, or the chi-square value.
+- The p-value is the probability of obtaining a test statistic at least as extreme as the observed one, assuming the null hypothesis is true.
+- The p-value is used to make a decision about the null hypothesis: if the p-value is smaller than a pre-specified significance level (usually 0.05), then the null hypothesis is rejected; otherwise, it is not rejected.
+- Monte Carlo hypothesis testing involves the following steps  :
+  - Specify the null hypothesis and the alternative hypothesis.
+  - Choose a test statistic that is sensitive to the difference or relationship between the variables of interest.
+  - Generate a large number of simulated data sets that follow the null hypothesis, using random number generators or other methods.
+  - Calculate the test statistic for each simulated data set and store the results in a vector.
+  - Compare the observed test statistic from the original data set with the vector of simulated test statistics, and count how many simulated test statistics are at least as extreme as the observed one.
+  - Divide the count by the number of simulated data sets to obtain the p-value.
+  - Compare the p-value with the significance level and make a decision about the null hypothesis.
+- Monte Carlo hypothesis testing has some advantages over traditional hypothesis testing  :
+  - It does not require any assumptions about the distribution of the test statistic or the data, such as normality, independence, or homogeneity of variance.
+  - It can be applied to any test statistic, even if its distribution is unknown or complicated.
+  - It can handle complex models and data structures, such as nonlinear regression, multilevel models, or spatial data.
+  - It can provide exact p-values, without any approximation or correction.
+  - It can control the level of the test, which is the probability of rejecting the null hypothesis when it is true, by adjusting the number of simulated data sets.
+- Monte Carlo hypothesis testing also has some limitations and challenges  :
+  - It can be computationally intensive and time-consuming, especially for large or complex data sets and models.
+  - It can be affected by the quality and randomness of the simulated data sets, which depend on the choice of random number generators and other parameters.
+  - It can be difficult to specify the null hypothesis and the alternative hypothesis, especially for complex models and data structures.
+  - It can be sensitive to the choice of the test statistic, which should be appropriate for the research question and the data.
+  - It can be influenced by the significance level, which should be chosen carefully and reported clearly.

@@ -1,0 +1,11 @@
+### Perspective for the notes of the Unit 4 - BI – DATA ANALYTICS PROCESS in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- Perspective in data analytics refers to the process of analyzing data from various viewpoints or perspectives to gain deeper insights and make informed decisions.
+- Perspective analytics is also a process that helps marketers progress from start to scale by targeting actionable insights v. more traditional, linear data analysis/response approaches.
+- There are different types of perspective analytics, such as descriptive, diagnostic, predictive, and prescriptive analytics, that serve different purposes and provide different levels of insights.
+- Descriptive analytics summarizes what has happened in the past using historical data. It answers the question of "what" and provides basic statistics, such as averages, frequencies, and trends.
+- Diagnostic analytics explains why something has happened in the past using historical data. It answers the question of "why" and provides root cause analysis, such as correlations, regressions, and hypothesis testing.
+- Predictive analytics forecasts what is likely to happen in the future using historical data and machine learning techniques. It answers the question of "what if" and provides probabilities, scenarios, and outcomes.
+- Prescriptive analytics recommends what should be done in the future using historical data, machine learning techniques, and optimization methods. It answers the question of "what next" and provides suggestions, actions, and solutions .
+- The data analysis perspective is a tool that helps data analysts complete data analysis tasks using various views, such as data sources, data sets, data flows, and data rules.
+- The data and analytics strategic planning is a process that helps organizations align their data and analytics objectives with their mission and goals. It involves determining the strategic impact of data and analytics on the goals, prioritizing action steps, and building a data and analytics roadmap.

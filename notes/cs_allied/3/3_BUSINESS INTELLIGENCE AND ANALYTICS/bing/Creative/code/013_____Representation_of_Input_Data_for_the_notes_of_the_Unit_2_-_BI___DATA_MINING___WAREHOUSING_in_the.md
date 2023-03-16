@@ -1,0 +1,17 @@
+### Representation of Input Data
+
+- Input data is the raw data that is collected from various sources and stored in a database or a data warehouse for data mining purposes.
+- Input data can be of different types, such as numerical, categorical, textual, spatial, temporal, multimedia, etc.
+- Input data can also have different structures, such as flat files, relational tables, graphs, trees, sequences, etc.
+- Input data needs to be represented in a suitable format that can be processed by data mining algorithms and techniques.
+- Input data representation can affect the quality, efficiency, and effectiveness of data mining results.
+- Input data representation can be done by using various techniques, such as:
+
+  - Data preprocessing: This involves cleaning, transforming, integrating, and reducing the input data to remove noise, outliers, missing values, inconsistencies, and redundancies. Data preprocessing can improve the accuracy and speed of data mining algorithms and techniques.
+  - Data encoding: This involves converting the input data into a numerical or symbolic form that can be manipulated by data mining algorithms and techniques. Data encoding can reduce the dimensionality and complexity of the input data and enhance its interpretability. Data encoding can be done by using techniques such as one-hot encoding, label encoding, ordinal encoding, etc.
+  - Data discretization: This involves dividing the input data into a finite number of intervals or categories that can capture the essential characteristics of the data. Data discretization can reduce the noise and variability of the input data and simplify the data mining process. Data discretization can be done by using techniques such as binning, clustering, entropy-based, etc.
+  - Data feature extraction: This involves selecting or creating a subset of attributes or variables that can represent the input data effectively and efficiently. Data feature extraction can reduce the dimensionality and redundancy of the input data and improve the performance and scalability of data mining algorithms and techniques. Data feature extraction can be done by using techniques such as principal component analysis, linear discriminant analysis, singular value decomposition, etc.
+  - Data feature selection: This involves choosing a subset of attributes or variables that are relevant and informative for the data mining task. Data feature selection can eliminate the irrelevant and redundant attributes or variables that can affect the accuracy and reliability of data mining results. Data feature selection can be done by using techniques such as filter methods, wrapper methods, embedded methods, etc.
+  - Data visualization: This involves presenting the input data in a graphical or pictorial form that can facilitate the understanding and exploration of the data. Data visualization can reveal the patterns, trends, outliers, and anomalies of the input data and support the data mining process. Data visualization can be done by using techniques such as histograms, scatter plots, box plots, heat maps, etc.
+
+- Input data representation is an important and challenging task in data mining, as it can affect the outcome and quality of the data mining process. Input data representation should be done carefully and appropriately, considering the characteristics, structure, and type of the input data, as well as the objectives and requirements of the data mining task.

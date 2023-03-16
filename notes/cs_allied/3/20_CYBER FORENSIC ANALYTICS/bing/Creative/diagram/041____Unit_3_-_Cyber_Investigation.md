@@ -1,0 +1,12 @@
+## Unit 3 - Cyber Investigation
+
+- Cyber investigation is the process of collecting, analyzing, and preserving digital evidence from various sources, such as computers, networks, mobile devices, cloud services, and social media platforms.
+- Cyber investigation aims to identify, track, and prosecute cybercriminals, who use technology to commit various crimes, such as hacking, fraud, identity theft, cyberstalking, cyberbullying, cyberterrorism, and cyberespionage.
+- Cyber investigation requires specialized skills, tools, and techniques, such as digital forensics, malware analysis, network analysis, cryptography, reverse engineering, and cyber intelligence.
+- Cyber investigation follows a standard methodology, which consists of the following steps:
+  - Preparation: Define the scope, objectives, and legal authority of the investigation. Identify and secure the resources and personnel needed. Establish the chain of custody and evidence handling procedures.
+  - Identification: Locate and identify the sources and types of digital evidence relevant to the case. Document the physical and logical characteristics of the evidence, such as serial numbers, timestamps, file names, and hashes.
+  - Preservation: Acquire and preserve the digital evidence in a forensically sound manner, using appropriate tools and techniques. Ensure the integrity and authenticity of the evidence by verifying the hashes and applying digital signatures.
+  - Analysis: Examine and interpret the digital evidence, using various tools and techniques, such as data carving, file recovery, keyword searching, timeline analysis, link analysis, and anomaly detection. Identify and correlate the relevant artifacts, such as files, logs, emails, chats, images, videos, and metadata.
+  - Presentation: Prepare and present the findings and conclusions of the analysis, using clear and concise language, charts, graphs, tables, and diagrams. Support the findings with relevant evidence and references. Address the questions and challenges from the audience, such as lawyers, judges, juries, or clients.
+  - Review: Evaluate the effectiveness and efficiency of the investigation. Identify the strengths and weaknesses of the methodology, tools, and techniques used. Document the lessons learned and best practices for future improvement.

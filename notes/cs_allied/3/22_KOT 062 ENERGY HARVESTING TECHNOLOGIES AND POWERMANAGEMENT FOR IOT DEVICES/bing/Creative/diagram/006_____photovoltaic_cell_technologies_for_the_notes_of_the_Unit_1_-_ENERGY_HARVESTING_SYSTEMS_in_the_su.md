@@ -1,0 +1,8 @@
+### Photovoltaic Cell Technologies
+
+- Photovoltaic (PV) technologies are devices that absorb energy from sunlight and convert it into electrical energy through semiconducting materials.
+- PV devices are also called solar cells, and they are connected together in chains to form larger power-generating units known as modules or panels .
+- PV technologies can be classified into three main categories based on the type of semiconducting material used: crystalline silicon (c-Si), thin-film, and emerging technologies.
+- Crystalline silicon (c-Si) is the most widely used and mature PV technology, accounting for about 90% of the global PV market. It has high efficiency, reliability, and durability, but also high manufacturing cost and energy consumption. c-Si can be further divided into monocrystalline and multicrystalline types.
+- Thin-film PV technologies use thin layers of semiconducting materials deposited on a substrate, such as glass, metal, or plastic. They have lower efficiency, but also lower cost and weight, and better flexibility and adaptability to different surfaces and applications. Thin-film PV technologies include amorphous silicon (a-Si), cadmium telluride (CdTe), copper indium gallium selenide (CIGS), and perovskite.
+- Emerging PV technologies are novel and innovative approaches that aim to overcome the limitations of existing PV technologies and achieve higher efficiency, lower cost, and better performance. They include organic PV, dye-sensitized solar cells (DSSC), quantum dot PV, and concentrator PV .

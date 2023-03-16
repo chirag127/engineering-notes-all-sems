@@ -1,0 +1,22 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT-based solution aiming to increase COVID-19 indoor safety by checking the temperature and mask status of the visitors or employees before allowing them to enter a building or a room.
+- The system consists of the following components:
+  - A contactless temperature scanner that uses a thermal sensor or a camera to measure the body temperature of a person with a precision of ± 0.3 °C.
+  - A mask detector that uses a video camera and an image processing algorithm to detect the presence or absence of a mask on a person's face.
+  - A gate controller that is connected to the temperature scanner and the mask detector and can open or close a gate-like structure depending on the results of the scans.
+  - A display screen that shows the temperature and mask status of the person and instructs them to enter or wait.
+  - A Raspberry Pi system that acts as the central processing unit and communicates with the other components using IoT protocols such as MQTT or HTTP.
+- The system works as follows:
+  - A person approaches the gate and stands in front of the temperature scanner and the mask detector.
+  - The temperature scanner measures the body temperature of the person and sends the data to the Raspberry Pi system.
+  - The mask detector captures the image of the person's face and analyzes it to determine if a mask is worn or not and sends the result to the Raspberry Pi system.
+  - The Raspberry Pi system compares the temperature and mask data with the predefined thresholds and decides whether to allow or deny the entry of the person.
+  - The gate controller receives the decision from the Raspberry Pi system and opens or closes the gate accordingly.
+  - The display screen shows the temperature and mask status of the person and instructs them to enter or wait.
+- The system has the following advantages:
+  - It reduces the risk of COVID-19 transmission by screening the visitors or employees for fever and mask compliance.
+  - It eliminates the need for human intervention and contact in the entry process, which saves time and resources and enhances safety and privacy.
+  - It provides a real-time monitoring and data logging of the temperature and mask scans, which can be used for analysis and reporting purposes.
+  - It is flexible and adaptable to different scenarios and environments, such as offices, schools, hospitals, malls, etc.
+  - It is affordable and easy to implement using readily available hardware and software components.

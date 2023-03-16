@@ -1,0 +1,7 @@
+### Jurisprudential Inconsistency
+
+- Jurisprudential inconsistency refers to the situation where different judges deliver different rulings on similar cases involving cyber crime .
+- This inconsistency may be caused by the lack of experience, knowledge, or training of the judges on cyber crime issues, such as the nature, scope, and impact of cyber crime, the technical aspects of digital evidence, and the legal frameworks and standards for cyber crime prosecution .
+- Jurisprudential inconsistency may undermine the credibility, reliability, and fairness of the judicial system, and may create confusion, uncertainty, and frustration for the victims, witnesses, investigators, and prosecutors of cyber crime .
+- Jurisprudential inconsistency may also affect the deterrence and prevention of cyber crime, as potential offenders may exploit the loopholes or inconsistencies in the judicial rulings to avoid or reduce their liability or punishment .
+- Jurisprudential inconsistency may be reduced or resolved by enhancing the education, training, and awareness of the judges on cyber crime issues, by developing and applying consistent and uniform standards and guidelines for cyber crime adjudication, and by promoting cooperation and communication among the judges and other stakeholders involved in cyber crime investigations and prosecutions .

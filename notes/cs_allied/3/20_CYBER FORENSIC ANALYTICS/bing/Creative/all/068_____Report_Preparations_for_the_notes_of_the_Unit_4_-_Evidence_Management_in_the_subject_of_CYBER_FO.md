@@ -1,0 +1,21 @@
+# Report Preparations for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of ensuring that the digital evidence collected, preserved, analyzed, and presented in a cyber forensic investigation is reliable, accurate, and admissible in a court of law.
+- A digital forensic report is a technical and scientific document that summarizes the findings, methods, and procedures of a cyber forensic analysis.
+- A good digital forensic report should have the following characteristics:
+  - It should be clear, concise, and complete, without any ambiguity, jargon, or irrelevant information.
+  - It should be objective, factual, and unbiased, without any personal opinions, assumptions, or speculations.
+  - It should be reproducible, meaning that another neutral examiner, given the same evidence and tools, should be able to follow the report step-by-step and achieve the same results.
+  - It should be verifiable, meaning that the evidence, tools, and methods used in the analysis should be documented and referenced with proper sources.
+  - It should be consistent, meaning that the report should follow a logical structure and format, and use the same terminology and notation throughout.
+- A typical digital forensic report should have the following sections:
+  - Introduction: This section should provide the background and context of the investigation, such as the case number, the date and time of the incident, the identity and role of the examiner, the scope and objectives of the analysis, and the sources and types of evidence examined.
+  - Methodology: This section should describe the tools, techniques, and procedures used in the analysis, such as the hardware and software specifications, the evidence acquisition and preservation methods, the evidence examination and analysis methods, and the evidence validation and verification methods.
+  - Findings: This section should present the results and outcomes of the analysis, such as the evidence recovered, the artifacts identified, the activities reconstructed, and the conclusions drawn. This section should also provide the supporting evidence and references for each finding, such as screenshots, tables, graphs, logs, hashes, etc.
+  - Summary: This section should provide a brief overview of the main findings and conclusions of the analysis, and highlight the key points and implications of the report.
+  - Appendices: This section should include any additional information or documentation that is relevant to the report, such as the evidence inventory, the chain of custody, the tool validation, the glossary of terms, etc.
+- A good digital forensic report should follow the principles of evidence management, such as:
+  - Integrity: The evidence should be protected from any alteration, modification, or deletion, and its authenticity and originality should be maintained.
+  - Continuity: The evidence should be tracked and documented throughout the investigation, and its chain of custody should be established and preserved.
+  - Security: The evidence should be stored and handled in a secure and controlled environment, and its access and disclosure should be limited and authorized.
+  - Quality: The evidence should be collected, preserved, analyzed, and presented in a professional and ethical manner, and its reliability and accuracy should be ensured.

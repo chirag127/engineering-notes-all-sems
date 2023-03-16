@@ -1,0 +1,11 @@
+### Discrete and Continuous Probability Distributions
+
+A probability distribution is a function that describes all possible values of a random variable as well as the associated probabilities. A random variable is a variable whose value is determined by the outcome of a random experiment. For example, the number of heads obtained in 10 coin tosses is a random variable.
+
+There are two types of probability distributions: discrete and continuous.
+
+- A discrete probability distribution counts occurrences that have countable or finite outcomes. For example, the number of heads obtained in 10 coin tosses can only take values from 0 to 10, which are finite and countable. A discrete distribution means that the random variable can assume one of a countable (usually finite) number of values. For example, the number of heads obtained in 10 coin tosses can only be 0, 1, 2, ..., 10. For a discrete distribution, probabilities can be assigned to the values in the distribution. For example, the probability that the number of heads obtained in 10 coin tosses is 5 is 0.246.
+
+- A continuous probability distribution measures occurrences that have uncountable or infinite outcomes. For example, the height of a person can take any value between 0 and infinity, which are infinite and uncountable. A continuous distribution means that the random variable can assume one of an infinite (uncountable) number of different values. For example, the height of a person can be 1.75 m, 1.751 m, 1.7511 m, etc. For a continuous distribution, probabilities cannot be assigned to the values in the distribution, but only to the intervals or ranges of values. For example, the probability that the height of a person is exactly 1.75 m is zero, but the probability that the height of a person is between 1.7 m and 1.8 m is 0.15.
+
+Some common examples of discrete distributions are the binomial, Poisson, and Bernoulli distributions. Some common examples of continuous distributions are the normal, uniform, and exponential distributions.

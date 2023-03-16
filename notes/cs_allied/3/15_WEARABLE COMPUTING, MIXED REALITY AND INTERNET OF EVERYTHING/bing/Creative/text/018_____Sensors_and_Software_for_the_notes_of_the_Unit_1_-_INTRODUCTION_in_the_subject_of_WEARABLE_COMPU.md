@@ -1,0 +1,13 @@
+### Sensors and Software for Wearable Computing, Mixed Reality and Internet of Everything
+
+- Wearable computing is the use of electronic devices that are worn on the body or embedded in clothing to perform various functions, such as sensing, computing, communication, and interaction.
+- Mixed reality is the blending of the physical and digital worlds, where virtual and augmented reality elements can coexist and interact with each other.
+- Internet of everything is the concept of connecting any device, person, process, or data to the internet and each other, enabling new capabilities and value creation.
+- Sensors are devices that detect and measure physical phenomena, such as temperature, pressure, motion, sound, light, etc., and convert them into electrical signals.
+- Software is the set of instructions and data that control the operation and behavior of a computer system or device.
+- Sensors and software are essential components for wearable computing, mixed reality and internet of everything, as they enable the following functions and benefits:
+
+  - Sensing: Sensors can capture various types of data from the environment, such as biometric, environmental, location, activity, etc., and provide feedback to the user or other devices . For example, a smart watch can monitor the user's heart rate, blood pressure, calories burned, etc., and display them on a screen or send them to a smartphone app.
+  - Computing: Software can process and analyze the data collected by sensors, using algorithms, artificial intelligence, machine learning, etc., and generate useful information, insights, or actions . For example, a smart hearing aid can use AI to filter out background noise and enhance speech recognition.
+  - Communication: Sensors and software can enable the exchange of data and information between devices, users, and cloud services, using wireless technologies, such as Bluetooth, Wi-Fi, cellular, etc . For example, a smart ring can communicate with a smartphone via Bluetooth and allow the user to control various functions, such as music playback, notifications, etc., by gestures.
+  - Interaction: Sensors and software can enable the creation and manipulation of virtual and augmented reality elements, such as images, sounds, haptics, etc., and provide immersive and engaging experiences to the user . For example, a mixed reality headset can use sensors to track the user's head and eye movements, and software to render 3D holograms that can interact with the physical environment.

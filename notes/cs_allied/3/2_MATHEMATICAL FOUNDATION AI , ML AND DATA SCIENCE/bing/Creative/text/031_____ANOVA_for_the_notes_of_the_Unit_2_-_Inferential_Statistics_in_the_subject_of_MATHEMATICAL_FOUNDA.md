@@ -1,0 +1,24 @@
+### ANOVA
+
+- ANOVA stands for **Analysis of Variance**, which is a statistical test that looks for significant differences between means on a particular measure .
+- ANOVA tells you if the dependent variable changes according to the level of the independent variable. For example, you might want to know if there is a difference in exam scores among students who have low, medium, and high test anxiety.
+- ANOVA can be classified into different types based on the number and nature of the independent variables. The most common types are:
+  - **One-way ANOVA**: This type of ANOVA has only one independent variable with two or more levels. For example, you might compare the exam scores of students who study with music, without music, or with noise.
+  - **Two-way ANOVA**: This type of ANOVA has two independent variables, each with two or more levels. For example, you might compare the exam scores of students based on their gender and test anxiety level.
+  - **Repeated measures ANOVA**: This type of ANOVA has one or more independent variables that are measured repeatedly on the same subjects. For example, you might compare the exam scores of students before and after a training program.
+- ANOVA uses a table to summarize the results of the analysis. The table typically includes the following components:
+  - **Source**: This column indicates the source of variation in the data, such as the independent variable, the interaction between independent variables, or the error (residual).
+  - **Sum of squares (SS)**: This column indicates the amount of variation explained by each source.
+  - **Degrees of freedom (df)**: This column indicates the number of independent values that are used to calculate the sum of squares for each source.
+  - **Mean square (MS)**: This column indicates the average variation explained by each source, which is calculated by dividing the sum of squares by the degrees of freedom.
+  - **F-ratio (F)**: This column indicates the ratio of the mean square for each source to the mean square for the error, which is used to test the significance of each source.
+  - **P-value (p)**: This column indicates the probability of obtaining an F-ratio as large or larger than the observed one by chance, which is used to determine if each source has a significant effect on the dependent variable.
+- ANOVA has some assumptions that need to be met for the results to be valid. The main assumptions are:
+  - **Independence**: The observations in each group are independent of each other and are randomly sampled from the population.
+  - **Normality**: The distribution of the dependent variable in each group is approximately normal.
+  - **Homogeneity of variance**: The variance of the dependent variable is equal across all groups.
+- ANOVA can be used for various applications in different fields, such as psychology, education, agriculture, engineering, etc. Some examples of ANOVA applications are:
+  - Studying the effect of different teaching methods on student performance.
+  - Comparing the yield of different crops based on different seeds and fertilizers.
+  - Evaluating the impact of different treatments on patient recovery.
+  - Testing the influence of different factors on product quality.

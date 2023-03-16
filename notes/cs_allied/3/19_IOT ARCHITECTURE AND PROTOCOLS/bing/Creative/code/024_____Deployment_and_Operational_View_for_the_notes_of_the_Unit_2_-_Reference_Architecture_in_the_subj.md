@@ -1,0 +1,7 @@
+### Deployment and Operational View
+
+- The deployment and operational view describes the main real world components of the system such as devices, network routers, servers, etc. and how they are deployed and operated in the IoT system .
+- The deployment view focuses on the physical layout and configuration of the components, such as the hardware, software, and network specifications, the location and connectivity of the components, and the security and scalability aspects of the system.
+- The operational view focuses on the runtime behavior and management of the components, such as the data flow and processing, the communication protocols and standards, the monitoring and maintenance of the system, and the performance and reliability aspects of the system.
+- The deployment and operational view can vary depending on the specific IoT domain, application, and scenario, and can be customized and adapted to the requirements and constraints of the system.
+- The deployment and operational view can also be influenced by the functional and information views of the IoT system, as they define the main functions and data of the system that need to be supported by the deployment and operational view.

@@ -1,0 +1,17 @@
+### DoS for the notes of the Unit 2 - Cyber Forensics
+
+- DoS stands for Denial-of-Service, which is a type of cyberattack that aims to prevent legitimate users from accessing a computer system or network by overwhelming it with malicious traffic or requests.
+- DoS attacks can cause serious damage to the availability, integrity, and confidentiality of the targeted system or network, as well as financial losses, reputation damage, and legal consequences for the victims.
+- DoS attacks can be classified into two main categories: volumetric and application-layer. Volumetric attacks flood the network bandwidth or resources of the target with a large amount of packets or connections, while application-layer attacks exploit vulnerabilities or weaknesses in the application protocols or software of the target.
+- Some common types of DoS attacks are:
+  - SYN flood: The attacker sends a large number of TCP SYN packets to the target, initiating a connection request, but never completing the handshake. This causes the target to allocate resources for each connection request, eventually exhausting its memory or processing capacity.
+  - UDP flood: The attacker sends a large number of UDP packets to random ports on the target, causing the target to generate ICMP error messages for each packet, consuming its network bandwidth and CPU resources.
+  - ICMP flood: The attacker sends a large number of ICMP echo request packets (also known as ping) to the target, causing the target to reply with ICMP echo reply packets, consuming its network bandwidth and CPU resources.
+  - HTTP flood: The attacker sends a large number of HTTP requests to the target, either legitimate or malformed, causing the target to process each request, exhausting its web server resources or application logic.
+  - Slowloris: The attacker sends a large number of HTTP requests to the target, but keeps the connection open by sending partial or incomplete headers, preventing the target from closing the connection or serving other requests.
+- Cyber forensics is the process of collecting, analyzing, and presenting digital evidence related to cybercrimes or incidents. Cyber forensics can help to identify the source, method, and impact of a DoS attack, as well as to provide legal proof for prosecution or mitigation.
+- Cyber forensics involves four main steps: preservation, acquisition, analysis, and presentation. Preservation is the process of securing the digital evidence from tampering or alteration. Acquisition is the process of extracting the digital evidence from the source device or network. Analysis is the process of examining the digital evidence using various tools and techniques to identify relevant information or patterns. Presentation is the process of reporting the findings and conclusions of the analysis in a clear and concise manner.
+- Some of the challenges or issues in cyber forensics for DoS attacks are:
+  - The large volume and variety of data involved in a DoS attack, which can make the acquisition and analysis of digital evidence difficult and time-consuming.
+  - The dynamic and distributed nature of a DoS attack, which can involve multiple sources, intermediaries, or targets, as well as changing tactics or techniques, making the attribution and tracing of the attacker challenging and complex.
+  - The legal and ethical aspects of cyber forensics, which can vary depending on the jurisdiction, legislation, or regulation of the involved parties, as well as the privacy and human rights of the affected individuals or organizations.

@@ -1,0 +1,27 @@
+### Dependency Grammar
+
+- Dependency grammar is a descriptive and theoretical tradition in linguistics that can be traced back to antiquity.
+- It has long been influential in the European linguistics tradition and has more recently become a mainstream approach to representing syntactic and semantic structure in natural language processing.
+- Dependency grammar is based on the idea that linguistic units, such as words, are connected by directed links called dependencies.
+- Dependencies express the grammatical relations between words, such as subject, object, modifier, etc.
+- Dependencies are represented by labeled arcs from a head (or governor) to a dependent (or modifier).
+- The head is the word that determines the syntactic and semantic properties of the phrase, while the dependent is the word that depends on the head for its syntactic and semantic role.
+- A dependency structure is a tree that spans all the words in a sentence, with a single node designated as the root.
+- The root is usually the main verb or predicate of the sentence.
+- A dependency structure captures the hierarchical and linear order of the words, as well as their grammatical functions.
+- Dependency grammar has several advantages over other syntactic frameworks, such as phrase structure grammar or constituency grammar :
+  - It is more parsimonious and economical, as it does not require the postulation of empty categories or non-terminal nodes.
+  - It is more transparent and intuitive, as it directly reflects the semantic relations between words.
+  - It is more flexible and adaptable, as it can handle various word orders and non-projective constructions.
+  - It is more compatible and interoperable, as it can be easily integrated with other linguistic levels, such as morphology, semantics, and pragmatics.
+- Dependency grammar has several applications in natural language processing, such as :
+  - Dependency parsing, which is the task of automatically analyzing the dependency structure of a given sentence.
+  - Semantic role labeling, which is the task of identifying the semantic roles of the arguments of a predicate, such as agent, patient, instrument, etc.
+  - Information extraction, which is the task of extracting relevant information from unstructured text, such as named entities, relations, events, etc.
+  - Machine translation, which is the task of translating text from one language to another, using dependency structures as intermediate representations.
+  - Text summarization, which is the task of producing a concise and coherent summary of a longer text, using dependency structures to identify the main points and relations.
+- Dependency grammar is a rich and diverse field of research, with many variants and extensions, such as:
+  - Word grammar, which is a dependency-based theory of language that incorporates cognitive and psychological aspects of language processing.
+  - Lexical functional grammar, which is a dependency-based theory of language that combines a phrase structure component with a functional structure component.
+  - Meaning-text theory, which is a dependency-based theory of language that aims to model the relation between meaning and text at various levels of representation.
+  - Universal dependencies, which is a cross-linguistically consistent framework for dependency annotation of corpora.

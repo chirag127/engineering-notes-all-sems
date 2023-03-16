@@ -1,0 +1,23 @@
+# BBF for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The service layer protocols are the application layer protocols that enable the communication and interaction among IoT devices and services.
+- The service layer protocols have to deal with the challenges of security, scalability, interoperability, and resource constraints in the IoT environment.
+- Some of the common service layer protocols in IoT are:
+  - Constrained Application Protocol (CoAP): A lightweight protocol that is HTTP-friendly and uses request-response messages. It supports multicast, asynchronous, and observe modes of communication. It also provides security features such as encryption, authentication, and authorization using Datagram Transport Layer Security (DTLS)  .
+  - Message Queuing Telemetry Transport (MQTT): A publish-subscribe protocol that uses a broker to route messages between publishers and subscribers. It is designed for low-bandwidth, high-latency, and unreliable networks. It also provides security features such as encryption, authentication, and authorization using Transport Layer Security (TLS)  .
+  - Advanced Message Queuing Protocol (AMQP): A peer-to-peer protocol that uses exchanges and queues to route messages between producers and consumers. It is designed for high-performance, reliable, and secure messaging. It also provides security features such as encryption, authentication, and authorization using TLS and Simple Authentication and Security Layer (SASL)  .
+  - HyperText Transfer Protocol (HTTP): A request-response protocol that uses Uniform Resource Identifiers (URIs) to identify resources and methods to manipulate them. It is widely used for web-based applications and services. It also provides security features such as encryption, authentication, and authorization using TLS and HTTP Secure (HTTPS)  .
+  - User Services Platform (USP): A protocol that enables the management and control of IoT devices and services. It is based on the Broadband Forum (BBF) data model and uses CoAP, MQTT, or WebSocket as the underlying transport protocol. It also provides security features such as encryption, authentication, and authorization using DTLS, TLS, or WebSocket Secure (WSS) .
+- The security of service layer protocols is of paramount importance since these protocols are at the basis of the communications among applications and services running on different IoT devices and on cloud/edge infrastructures.
+- The security of service layer protocols has to address the following aspects:
+  - Data privacy: The protection of the confidentiality and integrity of the data exchanged among IoT devices and services. This can be achieved by using encryption, hashing, and digital signatures.
+  - Data provenance: The verification of the origin and history of the data exchanged among IoT devices and services. This can be achieved by using certificates, timestamps, and blockchain.
+  - Authentication: The verification of the identity of the IoT devices and services that communicate with each other. This can be achieved by using passwords, tokens, or biometrics.
+  - Authorization: The verification of the permissions and roles of the IoT devices and services that communicate with each other. This can be achieved by using access control lists, policies, or roles.
+  - Trust management: The establishment and maintenance of the trustworthiness and reputation of the IoT devices and services that communicate with each other. This can be achieved by using trust models, ratings, or feedback.
+- The security of service layer protocols has to deal with various security attacks and threats, such as:
+  - Eavesdropping: The interception and analysis of the data exchanged among IoT devices and services. This can be prevented by using encryption and secure channels.
+  - Replay: The retransmission of the data exchanged among IoT devices and services to cause malicious effects. This can be prevented by using nonce, sequence number, or timestamp.
+  - Modification: The alteration or tampering of the data exchanged among IoT devices and services. This can be prevented by using hashing, digital signatures, or checksums.
+  - Impersonation: The masquerading as a legitimate IoT device or service to gain unauthorized access or privileges. This can be prevented by using authentication and authorization mechanisms.
+  - Denial of service: The disruption or degradation of the availability and performance of the IoT devices and services. This can be prevented by using rate limiting, filtering, or redundancy.

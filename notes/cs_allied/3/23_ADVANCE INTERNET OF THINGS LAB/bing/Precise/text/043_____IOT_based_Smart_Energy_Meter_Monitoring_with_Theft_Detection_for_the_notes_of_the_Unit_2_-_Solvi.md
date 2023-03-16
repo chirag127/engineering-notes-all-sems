@@ -1,0 +1,9 @@
+### IOT based Smart Energy Meter Monitoring with Theft Detection
+
+- Energy crisis is one of the major problems that the world faces today. The energy crisis can be reduced to a certain extent by properly monitoring our energy consumption and avoiding energy wastage .
+- IOT based Smart Energy Meter Monitoring with Theft Detection is a system that eliminates the human involvement in electricity maintenance .
+- The theft of electricity increases the costs paid by customers. Hence this system is used for the detection of theft .
+- The proposed system is to detect and monitor the theft of electricity by using PLC. In this area of electricity consumers is divided into sections and for each section IoT based Energy meter is installed to monitor all the parameter of the sections. And one master unit is provided at near distribution pole site to monitor all the sections data .
+- This paper presents the application of the Internet of Things (IoT) in power stealing detection and good meter observance. statistical regression methodology is employed for detection power stealing by unending observance the buyer and distribution finish good meters knowledge .
+- This paper develops an energy detection system called smart energy theft system (SETS) based on machine learning and statistical models. There are three stages of decision-making modules, the first stage is the prediction model which uses multimodel forecasting system .
+- With the advent of smart grid technologies, smart meters with Information Communication Technology (ICT) can provide a solution for detecting and alerting the power theft. This paper presents the application of Internet of Things (IoT) in power theft detection and real-time smart meter monitoring .

@@ -1,0 +1,25 @@
+### Mobile Payments
+
+Mobile payments are transactions that use mobile devices such as smartphones, tablets, or smartwatches to initiate, authorize, or confirm the payment of goods or services. Mobile payments can be made through various methods, such as mobile wallets, QR codes, NFC, SMS, or biometrics.
+
+Mobile payments offer convenience, speed, and flexibility for consumers and merchants, as well as new opportunities for innovation and inclusion in the digital economy. However, mobile payments also pose significant challenges and risks for cybersecurity, privacy, and consumer protection.
+
+Some of the cyber threats and crimes that affect mobile payments are:
+
+- Data breaches: Cybercriminals can hack into mobile payment systems or devices and steal sensitive data, such as card numbers, bank account details, personal identification numbers (PINs), or biometric information. Data breaches can result in identity theft, fraud, or blackmail. For example, in 2014, hackers stole the data of 56 million customers from Home Depot, a US retailer that used mobile payment terminals.
+
+- Malware: Malicious software can infect mobile devices or payment applications and compromise their functionality, security, or performance. Malware can also capture, modify, or redirect mobile payment transactions, or send unauthorized payments to fraudsters. For example, in 2019, a malware called EventBot targeted Android devices and stole banking and cryptocurrency information from over 200 mobile payment apps.
+
+- Phishing: Phishing is a form of social engineering that tricks users into revealing their personal or financial information, or clicking on malicious links or attachments, by impersonating legitimate entities or contacts. Phishing can target mobile payment users through emails, text messages, phone calls, or fake websites. For example, in 2020, a phishing campaign used fake SMS messages to lure users into downloading a malicious app that pretended to be a mobile payment service.
+
+- SIM swapping: SIM swapping is a technique that involves transferring a user's phone number to a new SIM card, usually by convincing or bribing a mobile service provider's employee. SIM swapping can allow fraudsters to bypass two-factor authentication (2FA) or receive one-time passwords (OTPs) that are sent to the user's phone number. SIM swapping can enable fraudsters to access the user's mobile payment accounts, bank accounts, or cryptocurrency wallets. For example, in 2018, a SIM swapping ring stole over $2.4 million from cryptocurrency investors in the US.
+
+Some of the best practices and measures that can help protect mobile payments from cyber threats and crimes are:
+
+- Encryption: Encryption is a process that transforms data into an unreadable format that can only be decrypted by authorized parties. Encryption can protect data at rest (stored on devices or servers) or in transit (sent over networks or channels). Encryption can prevent unauthorized access, modification, or interception of mobile payment data. For example, mobile wallets use encryption to store and transmit card information.
+
+- Tokenization: Tokenization is a process that replaces sensitive data, such as card numbers, with a unique and random identifier, called a token. Tokenization can reduce the exposure and impact of data breaches, as tokens are useless to cybercriminals and cannot be traced back to the original data. Tokenization can also enhance the security and privacy of mobile payments, as tokens can be limited to specific devices, merchants, or transactions. For example, Apple Pay uses tokenization to generate a device account number (DAN) for each card added to the mobile wallet.
+
+- Authentication: Authentication is a process that verifies the identity or legitimacy of a user, device, or transaction. Authentication can prevent unauthorized access, use, or fraud of mobile payment accounts or services. Authentication can use various factors, such as passwords, PINs, OTPs, biometrics, or behavioral patterns. Authentication can also be enhanced by using multiple factors (MFA) or adaptive methods that adjust to the risk level of each transaction. For example, Google Pay uses MFA and risk-based authentication to secure mobile payments.
+
+- Education: Education is a process that informs and trains users, merchants, and service providers about the benefits, risks, and best practices of mobile payments. Education can increase the awareness, knowledge, and skills of mobile payment stakeholders, and help them avoid or mitigate cyber threats and crimes. Education can also foster a culture of security and responsibility among mobile payment users and providers. For example, the Federal Trade Commission (FTC) provides tips and resources for consumers and businesses on how to protect mobile payments.

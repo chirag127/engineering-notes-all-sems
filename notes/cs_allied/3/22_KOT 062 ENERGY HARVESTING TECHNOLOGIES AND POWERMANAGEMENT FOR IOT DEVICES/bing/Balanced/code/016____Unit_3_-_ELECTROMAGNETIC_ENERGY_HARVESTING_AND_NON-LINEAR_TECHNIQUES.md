@@ -1,0 +1,10 @@
+# Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Electromagnetic energy harvesting is the process of converting ambient electromagnetic waves into electrical energy for powering low-power devices, such as wireless sensors, implantable devices, wearable devices, etc.
+- Electromagnetic energy harvesting can be classified into two types: far-field and near-field. Far-field harvesting captures the radiated electromagnetic waves from sources such as radio, TV, cellular, and satellite signals. Near-field harvesting exploits the magnetic or electric coupling between the source and the harvester, such as inductive or capacitive coupling.
+- Non-linear techniques are used to enhance the performance of electromagnetic energy harvesting systems, such as increasing the output power, widening the bandwidth, or improving the efficiency. Non-linear techniques can be applied to the mechanical, electrical, or magnetic components of the system, such as using non-linear springs, non-linear circuits, or magnetic levitation.
+- Some examples of non-linear electromagnetic energy harvesting systems are:
+
+  - A nonlinear electromagnetic harvester with a small magnet moving in an isolating tube surrounded by a coil attached to an electrical circuit. In the nonlinear case, the magnet vibrates between two fixed magnets attached to both ends of the tube. Additionally, two springs are used to limit the movement of the small magnet .
+  - A nonlinear electromagnetic harvester with a magnetic levitation mechanism, where a permanent magnet is suspended above a coil by the repulsive force of another magnet. The levitated magnet can oscillate in a large amplitude and frequency range, and induce a voltage in the coil .
+  - A nonlinear electromagnetic harvester with a nonlinear interface circuit and a power management circuit. The interface circuit uses a buck-boost DC-DC converter to match the load resistance of the harvester, and the power management circuit uses a supercapacitor and a low-dropout regulator to store and regulate the harvested energy.

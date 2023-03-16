@@ -1,0 +1,22 @@
+# Interrupt Handling for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- An **interrupt** is a signal to the processor emitted by hardware or software indicating an event that needs immediate attention.
+- Interrupts are indispensable when writing any practical embedded firmware, as they allow the CPU to respond to external events that are not synchronized to the software running on the system .
+- Interrupts can be classified into two types: **hardware interrupts** and **software interrupts**.
+  - **Hardware interrupts** are triggered by peripheral devices outside the micro-controller, such as timers, sensors, buttons, serial ports, etc. They are usually asynchronous and unpredictable .
+  - **Software interrupts** are called from software, using a specified command, such as a system call or a trap instruction. They are usually synchronous and predictable .
+- Interrupts have several advantages over polling, such as reducing CPU overhead, improving responsiveness, simplifying code structure, and saving power .
+- Interrupts also have some challenges, such as handling multiple interrupts, prioritizing interrupts, avoiding race conditions, preserving data consistency, and minimizing interrupt latency .
+- Interrupt handling in embedded systems involves the following steps :
+  - **Interrupt request**: The peripheral device sends a signal to the CPU to request an interrupt service.
+  - **Interrupt acknowledge**: The CPU acknowledges the interrupt request and finishes the current instruction.
+  - **Interrupt vector**: The CPU jumps to a predefined address in the memory, where the interrupt service routine (ISR) is stored. The address is called the interrupt vector.
+  - **Context save**: The CPU saves the current context, such as the program counter, the stack pointer, and the registers, to a dedicated memory area or a stack.
+  - **Interrupt service**: The CPU executes the ISR, which performs the necessary actions to handle the interrupt, such as reading data, clearing flags, sending acknowledgments, etc.
+  - **Context restore**: The CPU restores the previous context from the memory or the stack, and resumes the execution of the interrupted program.
+- Interrupt handling in embedded systems can be affected by the following factors :
+  - **Interrupt priority**: The order in which the CPU handles multiple interrupt requests. Higher priority interrupts can preempt lower priority interrupts, and lower priority interrupts can be masked or deferred.
+  - **Interrupt nesting**: The ability of the CPU to handle a new interrupt request while servicing another interrupt. Nested interrupts can improve responsiveness, but also increase complexity and stack usage.
+  - **Interrupt latency**: The time elapsed between the occurrence of an interrupt and the execution of the ISR. Interrupt latency can be influenced by the CPU architecture, the interrupt priority, the interrupt nesting, the context switching, and the ISR length.
+  - **Interrupt sharing**: The situation where multiple peripheral devices share the same interrupt line or vector. Interrupt sharing can reduce the number of interrupt pins or vectors, but also require additional logic to identify the source of the interrupt.
+  - **Interrupt masking**: The ability of the CPU to disable or enable interrupts globally or selectively. Interrupt masking can be used to prevent unwanted interrupts, to protect critical sections of code, or to implement software polling.

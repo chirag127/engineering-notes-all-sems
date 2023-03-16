@@ -1,0 +1,12 @@
+### Electronic signature certificates for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- An electronic signature is a way of representing one's identity and consent in an electronic form, such as a typed name, a scanned image of a handwritten signature, a biometric identifier, or a digital code.
+- An electronic signature certificate is a digital document that contains information about the identity and public key of the signer, and is issued by a trusted third party called a certification authority (CA).
+- A digital signature is a type of electronic signature that uses a mathematical scheme to verify the authenticity and integrity of a digital document or message. A digital signature is created by applying a private key to a message, and can be verified by anyone who has access to the corresponding public key and the message.
+- A digital signature certificate is a type of electronic signature certificate that contains a digital signature of the CA, and is used to validate the digital signature of the signer.
+- Electronic signature certificates and digital signature certificates are governed by various laws and regulations in different countries and regions, such as the Information Technology Act, 2000 in India, the Uniform Electronic Transactions Act (UETA) and the Electronic Signatures in Global and National Commerce Act (ESIGN) in the United States, and the eIDAS Regulation in the European Union.
+- Electronic signature certificates and digital signature certificates have various applications and benefits in the field of cyber forensic analytics, such as:
+  - They can provide evidence of the identity, consent, and intent of the parties involved in an electronic transaction or communication.
+  - They can ensure the security, integrity, and non-repudiation of the electronic data and documents that are analyzed or presented as evidence in a cyber forensic investigation or litigation.
+  - They can facilitate the exchange and interoperability of electronic information and documents across different platforms, systems, and jurisdictions.
+  - They can reduce the costs, risks, and delays associated with paper-based processes and documents.

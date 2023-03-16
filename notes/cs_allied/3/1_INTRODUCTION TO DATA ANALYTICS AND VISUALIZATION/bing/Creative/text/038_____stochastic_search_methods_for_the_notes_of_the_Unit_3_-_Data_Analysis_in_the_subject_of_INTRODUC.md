@@ -1,0 +1,12 @@
+### Stochastic Search Methods
+
+- Stochastic search methods are optimization techniques that use randomness in some way, either in the objective function or in the search algorithm.
+- Stochastic search methods are useful for solving complex problems that involve uncertainty, noise, or multiple objectives.
+- Some examples of stochastic search methods are:
+  - Simulated annealing: a method that mimics the physical process of cooling a material to find its lowest energy state. It starts with a high temperature and randomly explores the search space, accepting worse solutions with some probability. As the temperature decreases, the exploration becomes more focused and the probability of accepting worse solutions decreases .
+  - Genetic algorithms: a method that mimics the biological process of evolution. It starts with a population of candidate solutions, each encoded as a string of genes. It applies genetic operators such as crossover and mutation to generate new solutions, and selects the best ones based on a fitness function. The process is repeated until a termination criterion is met .
+  - Particle swarm optimization: a method that mimics the social behavior of a flock of birds or a school of fish. It starts with a swarm of particles, each representing a candidate solution. Each particle has a position, a velocity, and a memory of its best position. The particles move in the search space, influenced by their own best position, the best position of the swarm, and some random factors. The process is repeated until a termination criterion is met .
+- Some practical considerations when using stochastic search methods are:
+  - Repeated evaluations: since stochastic search methods are based on randomness, they may produce different results in different runs. Therefore, it is advisable to repeat the search multiple times and compare the results using statistical tests.
+  - Parameter tuning: stochastic search methods often have several parameters that affect their performance, such as the temperature, the population size, the mutation rate, etc. These parameters need to be carefully chosen or adapted to suit the problem at hand.
+  - Stopping criteria: stochastic search methods may not guarantee to find the optimal solution, or even to converge to a solution. Therefore, it is important to define a stopping criterion that indicates when the search is satisfactory, such as a maximum number of iterations, a minimum improvement, or a target value.

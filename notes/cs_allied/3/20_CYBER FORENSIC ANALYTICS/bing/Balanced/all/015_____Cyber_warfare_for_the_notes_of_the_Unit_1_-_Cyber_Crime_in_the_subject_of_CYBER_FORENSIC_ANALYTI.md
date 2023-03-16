@@ -1,0 +1,24 @@
+# Cyber warfare
+
+- Cyber warfare means the use of computer technology to disrupt the activities of a state or organization, especially the deliberate attacking of information systems for strategic or military purposes.
+- Cyber warfare is usually waged against government and military networks in order to disrupt, destroy, or deny their use.
+- Cyber warfare can have intended outcomes such as espionage, sabotage, propaganda, manipulation or economic warfare.
+- Cyber warfare can involve different types of attacks, such as:
+  - Computer viruses: malicious programs that infect and damage computer files or systems.
+  - Denial-of-service attacks: overwhelming a network or server with traffic or requests to make it unavailable or slow down its performance.
+  - Phishing: sending fraudulent emails or messages that appear to be from legitimate sources to trick users into revealing sensitive information or installing malware.
+  - Ransomware: encrypting the data or files of a victim and demanding payment for their decryption.
+  - Distributed denial-of-service attacks: using multiple compromised devices or computers to launch a coordinated denial-of-service attack.
+  - Botnets: networks of infected computers or devices that can be remotely controlled by hackers to perform malicious tasks.
+  - Cyber espionage: stealing or accessing confidential or classified information from a target network or system.
+  - Cyber sabotage: damaging or destroying physical or digital infrastructure or assets of a target.
+  - Cyber propaganda: spreading false or misleading information or opinions online to influence public perception or behavior.
+  - Cyber manipulation: altering or tampering with data or information to deceive or mislead a target or audience.
+  - Cyber economic warfare: disrupting or harming the economic activities or interests of a target, such as trade, finance, or commerce.
+- Cyber warfare can pose serious threats and challenges to national and international security, as well as to human rights, democracy, and the rule of law.
+- Cyber warfare can also have ethical, legal, and social implications, such as:
+  - The attribution of cyber attacks: identifying the source, origin, and responsibility of cyber attacks can be difficult and uncertain, as hackers can use various techniques to hide or disguise their identity and location.
+  - The proportionality and necessity of cyber attacks: determining the appropriate and justified level and scope of cyber attacks in response to a provocation or threat can be complex and subjective, as cyber attacks can have unpredictable and unintended consequences and collateral damage.
+  - The distinction between combatants and non-combatants: distinguishing between legitimate and illegitimate targets of cyber attacks can be challenging and controversial, as cyber attacks can affect civilians and civilian infrastructure, as well as military and government entities.
+  - The accountability and oversight of cyber operations: ensuring the compliance and regulation of cyber operations with international law and norms can be problematic and inconsistent, as cyber operations can be conducted by various actors, such as states, non-state actors, or private entities, with different motivations, capabilities, and interests.
+  - The prevention and resolution of cyber conflicts: preventing and resolving cyber conflicts can be difficult and uncertain, as cyber conflicts can escalate quickly and unpredictably, and as there is a lack of clear and agreed-upon rules and mechanisms for cyber diplomacy and cooperation.

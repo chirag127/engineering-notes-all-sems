@@ -1,0 +1,21 @@
+# Jurisprudential Inconsistency for the notes of the Unit 1 - Cyber Crime in the subject of CYBER FORENSIC ANALYTICS
+
+- Jurisprudential inconsistency refers to the lack of uniformity or coherence in the legal system or the legal theory that deals with cyber crime and digital forensics.
+- Cyber crime challenges the traditional notions of crime and jurisdiction because it is non-local in nature, which throws law enforcement into confusion regarding who should investigate and prosecute the criminal .
+- Digital forensics investigations jurisprudence is the theory and philosophy of the study of law and the principles upon which a law is based. For digital evidence to appear at court and be legally admissible, the evidence must be authentic, accurate, complete, and convincing to the jury.
+- Jurisprudential inconsistency can arise from various sources, such as:
+  - Inconsistencies in the definitions, classifications, and terminologies of cyber crime and digital forensics across different jurisdictions, laws, and standards.
+  - Inconsistencies in the procedures, methods, and tools used for collecting, preserving, analyzing, and presenting digital evidence.
+  - Inconsistencies in the interpretation, evaluation, and weight of digital evidence by judges, lawyers, experts, and jurors.
+  - Inconsistencies in the ethical, legal, and social implications of cyber crime and digital forensics, such as privacy, human rights, sovereignty, and accountability.
+- Jurisprudential inconsistency can have negative impacts on the effectiveness, efficiency, and fairness of cyber crime and digital forensics, such as:
+  - Reducing the credibility, reliability, and validity of digital evidence.
+  - Increasing the complexity, uncertainty, and ambiguity of cyber crime and digital forensics cases.
+  - Creating conflicts, disputes, and loopholes in the application and enforcement of cyber crime and digital forensics laws.
+  - Undermining the trust, confidence, and cooperation among the stakeholders involved in cyber crime and digital forensics, such as law enforcement, judiciary, academia, industry, and civil society.
+- Jurisprudential inconsistency can be addressed by various measures, such as:
+  - Harmonizing the definitions, classifications, and terminologies of cyber crime and digital forensics across different jurisdictions, laws, and standards.
+  - Developing and adopting best practices, guidelines, and protocols for collecting, preserving, analyzing, and presenting digital evidence.
+  - Enhancing the education, training, and certification of judges, lawyers, experts, and jurors on cyber crime and digital forensics.
+  - Balancing the ethical, legal, and social implications of cyber crime and digital forensics, such as privacy, human rights, sovereignty, and accountability.
+  - Fostering the dialogue, collaboration, and coordination among the stakeholders involved in cyber crime and digital forensics, such as law enforcement, judiciary, academia, industry, and civil society.

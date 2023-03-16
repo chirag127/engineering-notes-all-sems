@@ -1,0 +1,16 @@
+### Techniques for Message Ordering in Distributed Systems
+
+Message ordering is the problem of ensuring that messages sent by different processes in a distributed system are processed in a consistent and meaningful order. Message ordering is important for achieving correctness, consistency, and coordination in distributed systems.
+
+There are different types of message ordering techniques, depending on the desired level of ordering guarantee and the trade-off between performance and complexity. Some of the common techniques are:
+
+- **Unordered message ordering**: This is the simplest and fastest technique, where messages are delivered to the recipients as soon as they arrive, without any regard for their order. This technique is suitable for applications that do not require any ordering guarantee, such as broadcasting or gossiping.
+- **FIFO (First-In-First-Out) message ordering**: This is a technique where messages sent by the same sender are delivered to the recipients in the same order as they were sent. This technique is suitable for applications that require a partial ordering guarantee, such as implementing a queue or a stack.
+- **Causal message ordering**: This is a technique where messages that are causally related are delivered to the recipients in the same order as they were sent. Two messages are causally related if one message could have influenced the other, either directly or indirectly. For example, if process A sends a message to process B, and then process B sends a message to process C, then the message from A to B is causally related to the message from B to C. This technique is suitable for applications that require a logical ordering guarantee, such as implementing a distributed shared memory or a distributed database.
+- **Total message ordering**: This is a technique where all messages are delivered to the recipients in the same order, regardless of their sender or causal relation. This technique is suitable for applications that require a global ordering guarantee, such as implementing a distributed consensus or a distributed transaction.
+
+There are different protocols that can implement these message ordering techniques, such as:
+
+- **Unicast protocols**: These are protocols that send messages to a single recipient, such as TCP or UDP. Unicast protocols can provide unordered or FIFO message ordering, depending on the underlying network layer.
+- **Multicast protocols**: These are protocols that send messages to a group of recipients, such as IP multicast or reliable multicast. Multicast protocols can provide unordered, FIFO, causal, or total message ordering, depending on the design of the protocol and the use of additional mechanisms, such as timestamps, vector clocks, or sequencers.
+- **Group communication protocols**: These are protocols that provide a higher-level abstraction for multicast communication, such as virtual synchrony or atomic broadcast. Group communication protocols can provide unordered, FIFO, causal, or total message ordering, as well as other properties, such as reliability, fault tolerance, or membership management.

@@ -1,0 +1,13 @@
+### Secure electronic records for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- Secure electronic records are digital documents or data that are protected from unauthorized access, alteration, or destruction by using encryption, authentication, or other security measures.
+- Cyber laws are the legal rules and regulations that govern the use, creation, and distribution of electronic records and information in cyberspace.
+- Cyber laws aim to prevent and punish cybercrimes, such as hacking, phishing, identity theft, cyberstalking, cyberterrorism, and cyberwarfare, as well as to protect the rights and interests of the users, owners, and creators of electronic records and information, such as privacy, intellectual property, contract, jurisdiction, and freedom of expression.
+- Cyber laws vary from country to country, depending on the national laws, policies, and culture. Some examples of cyber laws are:
+  - The Information Technology Act 2000 in India, which provides legal recognition to electronic records and digital signatures, and defines the offences and penalties for cybercrimes.
+  - The HIPAA Security Rule in the United States, which establishes a national set of security standards for protecting certain health information that is held or transferred in electronic form.
+  - The General Data Protection Regulation (GDPR) in the European Union, which regulates the processing and transfer of personal data of individuals in the EU and the European Economic Area.
+- Cyber authorities are the entities or agencies that are responsible for enforcing, implementing, or overseeing the cyber laws and regulations in a country or region. They may also provide guidance, education, or assistance to the public and private sectors on cyber-related issues. Some examples of cyber authorities are:
+  - The Ministry of Electronics and Information Technology (MeitY) in India, which is the nodal agency for the formulation and implementation of policies and programs related to information technology, electronics, and cyber security.
+  - The Department of Homeland Security (DHS) in the United States, which is the lead federal agency for coordinating the national response to cyber incidents and threats, and for enhancing the security and resilience of the nation's critical infrastructure.
+  - The European Union Agency for Cybersecurity (ENISA) in the European Union, which is the EU's agency for network and information security, and which supports the EU and its member states in developing and implementing policies and practices on cyber security.

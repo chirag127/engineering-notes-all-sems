@@ -1,0 +1,23 @@
+### IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that aims to detect the leakage of LPG gas in the surroundings and send data to an IOT module.
+- The IOT module can be accessed through a web browser or a smartphone app to monitor the gas level and alert the user in case of a leakage.
+- The main components of this project are:
+  - Arduino Uno: This is the microcontroller board that controls the sensors and the communication with the IOT module.
+  - MQ5 gas sensor: This is the sensor that detects the presence of LPG gas in the air. It has a high sensitivity and fast response time.
+  - ESP8266 Wi-Fi module: This is the module that connects the Arduino to the internet and sends the gas level data to the IOT platform.
+  - Buzzer: This is the device that produces a loud sound when the gas level exceeds a certain threshold.
+  - LED: This is the device that indicates the status of the gas level and the connection with the IOT module.
+- The working principle of this project is as follows:
+  - The MQ5 gas sensor is connected to the analog pin of the Arduino and it outputs a voltage that varies according to the gas concentration in the air.
+  - The Arduino reads the voltage and converts it to a gas level value using a calibration formula.
+  - The Arduino sends the gas level value to the ESP8266 module using serial communication.
+  - The ESP8266 module connects to the internet using Wi-Fi and sends the gas level data to the IOT platform using HTTP requests.
+  - The IOT platform stores the data and displays it on a web page or a smartphone app.
+  - The user can access the web page or the app and see the current and historical gas level data and the status of the connection.
+  - The Arduino also compares the gas level value with a predefined threshold and activates the buzzer and the LED if the value exceeds the threshold.
+  - The buzzer and the LED alert the user about the gas leakage and the need to take action.
+- The advantages of this project are:
+  - It is a low-cost and easy-to-build solution for gas leakage detection and prevention.
+  - It is a smart and interactive system that allows the user to monitor the gas level remotely and receive alerts in real time.
+  - It is a scalable and adaptable system that can be integrated with other sensors and devices to create a comprehensive IOT network.

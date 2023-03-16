@@ -1,0 +1,9 @@
+# Pre Search Activities for the Notes of the Unit 4 - Evidence Management in the Subject of Cyber Forensic Analytics
+
+- Pre search activities are the steps that cyber forensic experts take before conducting a search for digital evidence in a cyber crime investigation.
+- Pre search activities include the following tasks:
+  - **Identification**: The first step of cyber forensics experts are to identify what evidence is present, where it is stored, and in which format it is stored. This helps to determine the scope, objectives, and methods of the search.
+  - **Planning**: The second step of cyber forensics experts are to plan the search strategy, resources, tools, and techniques that will be used to collect, preserve, analyze, and present the evidence. This helps to ensure the efficiency, effectiveness, and legality of the search.
+  - **Authorization**: The third step of cyber forensics experts are to obtain the necessary authorization, permission, or warrant to conduct the search, depending on the jurisdiction, type, and location of the evidence. This helps to ensure the admissibility, integrity, and confidentiality of the evidence.
+  - **Preparation**: The fourth step of cyber forensics experts are to prepare the equipment, software, and personnel that will be involved in the search. This helps to ensure the readiness, reliability, and security of the search.
+- Pre search activities are essential for conducting a successful and ethical cyber forensic investigation. They help to ensure that the evidence is relevant, reliable, and admissible in court. They also help to prevent any damage, loss, or alteration of the evidence during the search process.

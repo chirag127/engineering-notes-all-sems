@@ -1,0 +1,24 @@
+## Unit 4 - ENERGY HARVESTING WIRELESS SENSORS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy sources into electrical energy to power themselves and communicate wirelessly.
+- Energy harvesting wireless sensors have several advantages over conventional battery-powered sensors, such as:
+  - Longer lifetime and reduced maintenance costs.
+  - Higher reliability and robustness.
+  - Environmental friendliness and sustainability.
+  - Scalability and flexibility for large-scale deployments.
+- Energy harvesting wireless sensors can be classified into four categories based on the type of energy source they harvest:
+  - Solar energy harvesting: using photovoltaic cells to convert light into electricity.
+  - Thermal energy harvesting: using thermoelectric generators to convert heat gradients into electricity.
+  - Mechanical energy harvesting: using piezoelectric, electromagnetic, or electrostatic transducers to convert vibrations, motions, or impacts into electricity.
+  - Radio frequency (RF) energy harvesting: using antennas to capture and rectify RF signals into electricity.
+- Energy harvesting wireless sensors face several challenges and trade-offs, such as:
+  - Low and variable energy availability and quality.
+  - High energy consumption and overhead of wireless communication.
+  - Limited energy storage and buffering capacity.
+  - Complex and dynamic network topology and connectivity.
+  - Heterogeneous and conflicting quality of service requirements.
+- Energy harvesting wireless sensors require novel design and optimization techniques at different levels, such as:
+  - Energy-aware and adaptive hardware and software architectures.
+  - Energy-efficient and reliable communication protocols and algorithms.
+  - Energy-aware and cooperative network management and control.
+  - Energy-aware and cross-layer optimization frameworks and tools.

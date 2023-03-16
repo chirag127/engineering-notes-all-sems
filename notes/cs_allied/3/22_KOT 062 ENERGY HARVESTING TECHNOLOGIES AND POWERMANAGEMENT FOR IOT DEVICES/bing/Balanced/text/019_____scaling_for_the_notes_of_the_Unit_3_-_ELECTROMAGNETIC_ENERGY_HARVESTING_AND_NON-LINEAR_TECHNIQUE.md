@@ -1,0 +1,25 @@
+### Scaling for the notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Scaling is the study of how the performance of an energy harvesting device changes with its size, frequency, and input acceleration.
+- Scaling laws can help to compare different devices, optimize the design parameters, and identify the limitations and challenges of miniaturization.
+- Electromagnetic energy harvesting devices (EMEH) are based on the principle of electromagnetic induction, where a coil of wire moves relative to a magnet and generates an electric current.
+- The power output of an EMEH device depends on the coil resistance, the number of turns, the magnetic flux density, the velocity of the coil, and the load resistance.
+- The power density of an EMEH device is defined as the power output per unit volume or mass of the device.
+- The power density of an EMEH device can be expressed as a function of the scaling length, which is a characteristic dimension of the device, such as the coil diameter or the magnet length.
+- The power density of an EMEH device can also be expressed as a function of the scaling mass, which is the total mass of the device, including the coil, the magnet, and the supporting structure.
+- The power density of an EMEH device can also be expressed as a function of the scaling frequency, which is the natural frequency of the device or the frequency of the input vibration.
+- The power density of an EMEH device can also be expressed as a function of the scaling acceleration, which is the amplitude of the input vibration.
+- The scaling laws of EMEH devices can be derived from the equations of motion, the electromagnetic coupling, and the power balance of the device.
+- The scaling laws of EMEH devices can be verified by experimental data from the literature, where different devices with different sizes, frequencies, and accelerations are compared.
+- The scaling laws of EMEH devices can reveal some important insights, such as:
+  - The power density increases with the scaling length, but decreases with the scaling mass, frequency, and acceleration.
+  - The optimal load resistance decreases with the scaling length, mass, frequency, and acceleration.
+  - The electromagnetic damping decreases with the scaling length, mass, frequency, and acceleration.
+  - The mechanical quality factor increases with the scaling length, mass, frequency, and acceleration.
+  - The efficiency of the device decreases with the scaling length, mass, frequency, and acceleration.
+- The scaling laws of EMEH devices can also indicate some challenges and limitations of miniaturization, such as:
+  - The power output of the device becomes very small when the size, frequency, or acceleration is reduced.
+  - The coil resistance becomes very high when the size or frequency is reduced, which reduces the power output and the efficiency.
+  - The magnetic flux density becomes very low when the size is reduced, which reduces the power output and the efficiency.
+  - The fabrication and assembly of the device becomes more difficult when the size is reduced, which increases the cost and the variability.
+  - The device becomes more sensitive to environmental factors, such as temperature, humidity, and noise, when the size, frequency, or acceleration is reduced.

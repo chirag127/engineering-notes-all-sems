@@ -1,0 +1,11 @@
+### Desktop
+- A desktop is a personal computer designed for regular use at a single location on or near a desk or table due to its size and power requirements.
+- The most common configuration has a case that houses the power supply, motherboard, disk storage, and peripheral interfaces, with a display screen, keyboard, and mouse for input.
+- All-in-one desktop computers integrate the system's internal components into the same case as the display, eliminating the need for a separate case.
+- Desktops have several advantages over laptops, including more upgrade options, larger displays, and better ergonomics.
+- Desktops can be used for a variety of tasks, including web browsing, word processing, gaming, and media playback.
+- Desktops can run a variety of operating systems, including Windows, macOS, and Linux.
+- Desktops can be customized and upgraded to meet the user's specific needs, with options for additional storage, memory, and processing power.
+- Desktops are generally more affordable than laptops, with a wider range of prices and specifications.
+- Desktops are generally more reliable and easier to repair than laptops, with more standardized components and easier access to internal components.
+- Desktops are generally more powerful than laptops, with faster processors, more memory, and dedicated graphics cards.

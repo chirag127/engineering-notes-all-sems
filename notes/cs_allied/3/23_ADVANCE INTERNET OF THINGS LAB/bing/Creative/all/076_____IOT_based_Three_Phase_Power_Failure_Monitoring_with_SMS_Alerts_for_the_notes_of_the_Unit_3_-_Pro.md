@@ -1,0 +1,28 @@
+# IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the power supply of a three-phase system and alerts the authorized person via SMS in case of a power failure in any of the phases   .
+- A three-phase system is a type of electrical power distribution that uses three alternating currents of the same frequency and amplitude, but with a phase difference of 120 degrees.
+- A power failure in a three-phase system can cause serious damage to the connected devices and equipment, as well as affect the performance and efficiency of the system   .
+- The system consists of the following components:
+  - A microcontroller that acts as the main controller of the system and performs the logic and communication functions  .
+  - A GSM module that connects the system to the cellular network and enables the SMS alert feature   .
+  - A LCD display that shows the status of the power supply and the voltage values of each phase   .
+  - A voltage sensor that measures the voltage of each phase and sends the data to the microcontroller   .
+  - A relay that switches on or off the power supply to the load depending on the availability of the phases  .
+  - A buzzer that sounds an alarm in case of a power failure  .
+- The system works as follows:
+  - The system is powered by a 12V DC supply and is connected to the three-phase power supply and the load  .
+  - The voltage sensor measures the voltage of each phase and sends the data to the microcontroller   .
+  - The microcontroller compares the voltage values with a predefined threshold and determines if there is a power failure in any of the phases   .
+  - If there is a power failure in any of the phases, the microcontroller sends a command to the relay to switch off the power supply to the load to prevent damage  .
+  - The microcontroller also sends a command to the GSM module to send an SMS alert to the authorized person with the details of the power failure   .
+  - The microcontroller also displays the status of the power supply and the voltage values of each phase on the LCD display   .
+  - The microcontroller also activates the buzzer to sound an alarm in case of a power failure  .
+  - If the power supply is restored in all the phases, the microcontroller sends a command to the relay to switch on the power supply to the load  .
+  - The microcontroller also sends a command to the GSM module to send an SMS alert to the authorized person with the details of the power restoration   .
+  - The microcontroller also displays the status of the power supply and the voltage values of each phase on the LCD display   .
+  - The microcontroller also deactivates the buzzer to stop the alarm  .
+- The system has the following advantages:
+  - It provides real-time monitoring and alerting of the power supply status of a three-phase system   .
+  - It prevents damage to the connected devices and equipment by switching off the power supply in case of a power failure   .
+  - It improves the performance and efficiency of the system by

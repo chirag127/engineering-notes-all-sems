@@ -1,0 +1,25 @@
+# Regulation of Certifying Authorities
+
+- A certifying authority (CA) is a trusted third party or entity that issues digital signature certificates for electronic authentication of users.
+- The Information Technology Act, 2000 (IT Act) has established a Controller of Certifying Authorities (CCA) to regulate the electronic transactions and the activities of CAs .
+- The CCA is appointed by the Central Government under Section 17 of the IT Act and has the following functions :
+  - Exercising supervision over the activities of the CAs.
+  - Certifying public keys of the CAs.
+  - Laying down the standards and conditions for the CAs to be observed.
+  - Specifying the qualifications and experience of the employees of the CAs.
+  - Specifying the content of the digital signature certificates and the electronic signature certificates.
+  - Specifying the manner and format of the digital signature certificates and the electronic signature certificates.
+  - Specifying the fees to be paid to the CCA and the CAs for carrying out the provisions of the IT Act.
+  - Resolving any conflict of interests between the CAs and the subscribers of the digital signature certificates.
+  - Maintaining a database of the public keys of the digital signature certificates.
+  - Performing any other functions as may be prescribed by the Central Government.
+- The CAs are required to obtain a license from the CCA before commencing their operations. The license is valid for a period of five years and can be renewed for another five years .
+- The CAs are required to follow the rules, regulations and guidelines issued by the CCA and the Central Government from time to time. They are also required to ensure the security and confidentiality of the digital signature certificates and the electronic signature certificates issued by them .
+- The CAs are liable for any damage caused to the subscriber or any person due to their negligence or failure to comply with the provisions of the IT Act or the rules and regulations made thereunder .
+- The CAs are subject to the audit and inspection by the CCA or any person authorized by the CCA at any time. The CCA may also suspend or revoke the license of the CAs for any violation of the provisions of the IT Act or the rules and regulations made thereunder .
+- The CAs are required to cooperate with the CCA and the law enforcement agencies in the investigation of any cyber crime or any other offence under the IT Act or any other law .
+- The CAs are required to maintain a record of the digital signature certificates and the electronic signature certificates issued by them for a period of seven years or such other period as may be prescribed by the CCA .
+- The CAs are required to display their license and the public key on their website and in their office premises. They are also required to publish their contact details and the procedure for filing complaints against them .
+- The CAs are required to adhere to the national and international standards and best practices for the security and quality of the digital signature certificates and the electronic signature certificates issued by them .
+- The CAs are required to inform the CCA and the subscribers of any breach or compromise of their security systems or the digital signature certificates or the electronic signature certificates issued by them .
+- The CAs are required to comply with any other requirements or obligations as may be specified by the CCA or the Central Government from time to time .

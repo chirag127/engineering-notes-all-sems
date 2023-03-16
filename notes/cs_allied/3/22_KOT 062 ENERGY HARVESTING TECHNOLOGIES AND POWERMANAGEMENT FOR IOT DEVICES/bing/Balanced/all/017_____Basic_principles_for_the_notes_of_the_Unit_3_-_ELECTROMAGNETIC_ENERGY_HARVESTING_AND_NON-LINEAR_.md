@@ -1,0 +1,13 @@
+# Basic principles for the notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Electromagnetic energy harvesting (EMEH) is a process of converting ambient mechanical vibrations into electrical energy using electromagnetic transducers.
+- EMEH devices consist of a coil of wire and a magnet that move relative to each other under external excitation, inducing a voltage across the coil terminals.
+- EMEH devices can be classified into linear and nonlinear types, depending on the nature of the magnetic force between the coil and the magnet.
+- Linear EMEH devices have a constant magnetic force and operate within a narrow frequency band around the natural frequency of the system. They require precise tuning and matching of the load resistance to achieve optimal power output.
+- Nonlinear EMEH devices have a variable magnetic force that depends on the position and velocity of the magnet. They can operate over a wide frequency range and exhibit multiple stable states, bifurcations and chaos. They can also adapt to the load resistance and achieve higher power output than linear devices.
+- Nonlinear EMEH devices can be implemented using various techniques, such as magnetic levitation, magnetic springs, magnetic stops, bistable magnets, and nonlinear interface circuits.
+- Magnetic levitation is a technique that uses repulsive magnetic forces to suspend the magnet above the coil, eliminating the need for mechanical springs and reducing the damping and friction losses.
+- Magnetic springs are nonlinear springs that use attractive or repulsive magnetic forces to provide a restoring force for the magnet. They can be designed to have negative, zero or positive stiffness, depending on the configuration and orientation of the magnets.
+- Magnetic stops are mechanical or magnetic barriers that limit the motion of the magnet and induce a sudden change in the magnetic force. They can create hardening or softening nonlinearities and enhance the bandwidth and power output of the EMEH device.
+- Bistable magnets are magnets that have two stable equilibrium positions and can switch between them under external excitation. They can generate large displacements and high voltages, as well as exhibit complex dynamical behaviors such as hysteresis, snap-through and chaos.
+- Nonlinear interface circuits are electrical circuits that modify the voltage and current characteristics of the EMEH device and create nonlinear feedback loops. They can improve the power conversion efficiency, increase the output power, and extend the operating frequency range of the EMEH device.

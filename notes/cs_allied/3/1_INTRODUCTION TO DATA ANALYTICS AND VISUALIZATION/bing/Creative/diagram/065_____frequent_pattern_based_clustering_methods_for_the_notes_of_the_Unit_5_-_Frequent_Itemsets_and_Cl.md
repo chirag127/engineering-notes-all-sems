@@ -1,0 +1,12 @@
+### Frequent Pattern Based Clustering Methods
+
+- Frequent pattern based clustering methods are a type of cluster analysis that use frequent patterns (such as sets of items or objects) that occur frequently in large data sets to group similar data points together.
+- Frequent patterns can be extracted from different types of data, such as transactions, sequences, graphs, texts, images, etc.
+- Frequent pattern based clustering methods can handle high-dimensional data and discover clusters in different subspaces of the data .
+- Frequent pattern based clustering methods can be divided into two categories: frequent itemset based clustering and frequent term based clustering.
+  - Frequent itemset based clustering uses frequent itemsets (such as sets of products purchased together) to cluster data points that share common itemsets. For example, customers who buy similar products can be clustered together based on their frequent itemsets.
+  - Frequent term based clustering uses frequent terms (such as words or phrases) to cluster text documents that contain common terms. For example, news articles that cover similar topics can be clustered together based on their frequent terms.
+- Some of the common algorithms for frequent pattern based clustering are:
+  - Apriori algorithm: This is one of the most widely used algorithms for frequent pattern mining and frequent itemset based clustering. It uses a bottom-up approach to find frequent itemsets by iteratively generating candidate itemsets and pruning the ones that are not frequent.
+  - FP-growth algorithm: This is an efficient algorithm for frequent pattern mining and frequent itemset based clustering. It uses a compressed data structure called FP-tree to store the frequent itemsets and avoid candidate generation and pruning. It grows the FP-tree by adding new transactions and mines the frequent itemsets by traversing the FP-tree.
+  - BIRCH algorithm: This is a scalable algorithm for frequent term based clustering. It uses a hierarchical data structure called CF-tree to store the summary information of the text documents and cluster them based on their frequent terms. It builds the CF-tree by scanning the documents once and refines the clusters by merging or splitting the CF-tree nodes.

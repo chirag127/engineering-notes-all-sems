@@ -1,0 +1,26 @@
+# Sockets for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A socket is an endpoint of communication between two processes or devices over a network.
+- Sockets can be used to send and receive data using different protocols, such as TCP (Transmission Control Protocol) or UDP (User Datagram Protocol).
+- TCP is a reliable, connection-oriented protocol that ensures data delivery and error recovery. UDP is an unreliable, connectionless protocol that does not guarantee data delivery or error recovery, but is faster and more efficient.
+- Both VXWORKS and FREE RTOS support sockets as a way of implementing network communication.
+- VXWORKS is a proprietary, UNIX-like real-time operating system that is widely used in safety-critical applications, such as aerospace, defense, and industrial automation .
+- FREE RTOS is an open source, scalable, and thread-safe real-time operating system that can be configured for various embedded systems, from small devices with memory constraints to complex systems with more functions.
+- To use sockets in VXWORKS, the following steps are required:
+  - Initialize the network stack by calling the usrNetInit() function.
+  - Create a socket by calling the socket() function, specifying the domain (AF_INET for IPv4), the type (SOCK_STREAM for TCP or SOCK_DGRAM for UDP), and the protocol (0 for default).
+  - Bind the socket to a local address and port by calling the bind() function, passing the socket descriptor, a pointer to a sockaddr_in structure, and the size of the structure.
+  - For TCP sockets, listen for incoming connections by calling the listen() function, passing the socket descriptor and the backlog (the maximum number of pending connections).
+  - For TCP sockets, accept an incoming connection by calling the accept() function, passing the socket descriptor, a pointer to a sockaddr_in structure, and a pointer to the size of the structure. The function returns a new socket descriptor for the connection.
+  - For UDP sockets, no listen or accept functions are needed, as UDP is connectionless.
+  - Send data to the remote endpoint by calling the send() function for TCP sockets, or the sendto() function for UDP sockets, passing the socket descriptor, a pointer to the data buffer, the size of the data, the flags (0 for default), and optionally, a pointer to a sockaddr_in structure and the size of the structure for UDP sockets.
+  - Receive data from the remote endpoint by calling the recv() function for TCP sockets, or the recvfrom() function for UDP sockets, passing the socket descriptor, a pointer to the data buffer, the size of the buffer, the flags (0 for default), and optionally, a pointer to a sockaddr_in structure and a pointer to the size of the structure for UDP sockets.
+  - Close the socket by calling the close() function, passing the socket descriptor.
+- To use sockets in FREE RTOS, the following steps are required  :
+  - Initialize the network stack by calling the FreeRTOS_IPInit() function, passing the IP address, netmask, gateway address, DNS server address, and MAC address of the device.
+  - Create a socket by calling the FreeRTOS_socket() function, specifying the domain (FREERTOS_AF_INET for IPv4), the type (FREERTOS_SOCK_STREAM for TCP or FREERTOS_SOCK_DGRAM for UDP), and the protocol (FREERTOS_IPPROTO_TCP for TCP or FREERTOS_IPPROTO_UDP for UDP).
+  - Bind the socket to a local port by calling the FreeRTOS_bind() function, passing the socket handle, a pointer to a FreeRTOS_sockaddr structure, and the size of the structure.
+  - For TCP sockets, listen for incoming connections by calling the FreeRTOS_listen() function, passing the socket handle and the backlog (the maximum number of pending connections).
+  - For TCP sockets, accept an incoming connection by calling the FreeRTOS_accept() function, passing the socket handle, a pointer to a FreeRTOS_sockaddr structure, and a pointer to the size of the structure. The function returns a new socket handle for the connection.
+  - For UDP sockets, no listen or accept functions are needed, as UDP is connectionless.
+  - Send data to the remote endpoint by calling the FreeRTOS_send() function for TCP sockets, or the FreeRTOS_sendto() function for UDP sockets, passing the socket handle, a pointer to the data buffer, the size of

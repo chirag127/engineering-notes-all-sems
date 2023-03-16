@@ -1,0 +1,9 @@
+# Circuit Theory for the Notes of the Unit 1 - INTRODUCTION in the Subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Circuit theory is the study of the behavior of electrical circuits, which are composed of components such as resistors, capacitors, inductors, diodes, transistors, and sources of voltage and current.
+- Circuit theory can be used to analyze and design various types of circuits, such as analog, digital, linear, nonlinear, active, passive, AC, DC, etc.
+- Circuit theory is based on some fundamental laws and principles, such as Kirchhoff's laws, Ohm's law, Thevenin's theorem, Norton's theorem, superposition principle, etc.
+- Circuit theory is essential for understanding and developing wearable computing, mixed reality, and internet of everything applications, which involve the integration of sensors, actuators, processors, communication modules, and power sources into various devices and systems that interact with the physical and virtual worlds.
+- Wearable computing is the field of computer science and engineering that deals with the design and implementation of wearable devices, such as smart watches, glasses, clothing, jewelry, etc., that can perform various functions, such as sensing, computing, displaying, communicating, etc., while being worn by the user.
+- Mixed reality is the field of computer science and engineering that deals with the creation and manipulation of digital content that is overlaid on or blended with the real world, such as augmented reality, virtual reality, holograms, etc., that can provide immersive and interactive experiences for the user.
+- Internet of everything is the field of computer science and engineering that deals with the interconnection and integration of people, processes, data, and things, using the internet as the platform, that can enable new capabilities, richer experiences, and unprecedented economic opportunities for businesses, individuals, and countries.

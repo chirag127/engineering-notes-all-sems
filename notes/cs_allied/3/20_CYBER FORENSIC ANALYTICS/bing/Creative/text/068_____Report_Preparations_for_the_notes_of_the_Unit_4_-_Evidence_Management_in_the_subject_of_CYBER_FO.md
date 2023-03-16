@@ -1,0 +1,27 @@
+### Report Preparations for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of collecting, processing, analyzing, storing, and presenting digital evidence in a forensically sound manner.
+- Evidence management involves following the principles of **chain of custody**, **integrity**, **authenticity**, and **admissibility** of digital evidence .
+- Evidence management requires the use of proper tools, techniques, and procedures to ensure the reliability and validity of digital evidence .
+- Evidence management also involves producing a **forensic report** that documents the findings and conclusions of the forensic investigation .
+- A forensic report should follow the best practices of writing a digital forensic report, such as:
+  - Do not break the law when collecting, processing, analyzing, or handling evidence.
+  - Only mention the information that is relevant to the case and the objectives of the investigation.
+  - Focus on concrete facts rather than personal opinions or interpretations.
+  - Utilize any forensics notes made during the investigation process.
+  - Avoid using complex terms and focus on conveying the relevant information in a manner that is coherent and simple to understand.
+  - Use clear and concise language, proper grammar, spelling, and punctuation.
+  - Use tables, charts, graphs, screenshots, or other visual aids to support the findings and conclusions.
+  - Cite the sources of information and evidence, and provide references and appendices if needed.
+  - Review and proofread the report before submitting it to the client or the court.
+- A forensic report should also follow the specific structure and format required by the type and scope of the investigation, such as  :
+  - A title page that includes the case name, number, date, and investigator's name and contact information.
+  - A table of contents that lists the main sections and sub-sections of the report, along with the page numbers.
+  - An executive summary that provides a brief overview of the case, the objectives, the methods, the findings, and the conclusions of the investigation.
+  - An introduction that describes the background and context of the case, the scope and limitations of the investigation, and the legal and ethical issues involved.
+  - A methodology that explains the tools, techniques, and procedures used to collect, process, analyze, and present the digital evidence, along with the rationale and justification for their use.
+  - A findings and analysis section that presents the results of the investigation, along with the evidence and arguments that support them. This section should also address any challenges, discrepancies, or anomalies encountered during the investigation, and how they were resolved or explained.
+  - A conclusion that summarizes the main findings and conclusions of the investigation, and provides recommendations or suggestions for further actions or investigations if needed.
+  - A glossary that defines any technical terms or acronyms used in the report.
+  - A bibliography that lists the sources of information and evidence used in the report, following a consistent citation style.
+  - An appendix that contains any additional or supplementary information or evidence that is relevant to the report, such as raw data, logs, screenshots, hashes, etc.

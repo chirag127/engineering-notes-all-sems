@@ -1,0 +1,10 @@
+# Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing and coordinate their actions to achieve a common goal.
+- Events are the occurrences of actions or state changes in a distributed system, such as sending or receiving a message, executing a computation, or accessing a resource.
+- The order of events is important for understanding the behavior and correctness of a distributed system, especially when there are concurrent or conflicting events.
+- A partial order is a binary relation that satisfies three properties: reflexivity, antisymmetry, and transitivity. A partial order can be represented by a directed acyclic graph (DAG), where the nodes are the events and the edges are the order relation.
+- A distributed system is said to have partial order if we can have a partial order relationship among the events in the system. For example, if two entities communicate by message passing, then the send event is said to 'happen before' the receive event, and the logical order can be established.
+- A total order is a binary relation that satisfies four properties: reflexivity, antisymmetry, transitivity, and totality. A total order can be represented by a linear sequence, where the events are ordered from left to right.
+- A distributed system is said to have total order if 'totality', i.e., causal relationship among all events in the system, can be established. For example, if we use some arbitrary mechanism to break ties (e.g. the ID of the process), then we can create a total order of events in a distributed system.
+- Total order is very useful for distributed system implementation, as it can help ensure consistency, agreement, and fault tolerance among the entities. For example, if a system has a shared resource that can be used by only one process at a time, then a total order can help determine which process has the priority to access the resource.

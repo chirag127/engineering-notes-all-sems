@@ -1,0 +1,22 @@
+### Global State for the Notes of the Unit 1 - Characterization of Distributed Systems in the Subject of Distributed System
+
+- A **distributed system** is a collection of independent processes that communicate by exchanging messages over a network.
+- A **global state** of a distributed system is a collection of the **local states** of the processes and the channels .
+- A **local state** of a process is the values of its variables and its program counter at a given point in time.
+- A **channel state** is the set of messages that have been sent but not yet received by the processes.
+- A global state is **consistent** if it reflects a possible execution of the system, i.e., it does not contain any causal anomalies  .
+- A **causal anomaly** is a situation where a message is received before it is sent, or a process observes the effect of a message before it observes the message itself.
+- A **cut** is a partition of the set of events in the system into two subsets: past and future.
+- A cut is **consistent** if it respects the causal order of events, i.e., it does not cut any message from sender to receiver .
+- A **snapshot** is a mechanism to capture a consistent global state of a distributed system .
+- A snapshot can be used for various purposes, such as checkpointing, debugging, monitoring, or termination detection .
+- A snapshot algorithm must satisfy two properties: **safety** and **liveness** .
+- **Safety** means that the snapshot is consistent and does not contain any causal anomalies .
+- **Liveness** means that the snapshot eventually terminates and does not interfere with the normal execution of the system .
+- There are different types of snapshot algorithms, depending on the assumptions about the system, such as synchronous or asynchronous, reliable or unreliable, FIFO or non-FIFO, etc .
+- One of the most famous snapshot algorithms is the **Chandy-Lamport algorithm**, which works for asynchronous and reliable systems with FIFO channels .
+- The Chandy-Lamport algorithm works as follows :
+  - A process initiates the snapshot by recording its local state and sending a special marker message on each outgoing channel.
+  - Upon receiving a marker message for the first time on an incoming channel, a process records its local state and the state of the channel as empty, and then sends a marker message on each outgoing channel.
+  - Upon receiving a marker message on an incoming channel that has already been recorded, a process records the state of the channel as the set of messages received on that channel since the previous marker message.
+  - The snapshot terminates when each process has recorded its local state and the state of each incoming channel.

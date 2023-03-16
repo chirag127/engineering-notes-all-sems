@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with writing content in markdown format. Here is the content I have written for you on the topic of Introduction for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING.
+
+# Introduction
+
+- Wearable computing, mixed reality and internet of everything are three emerging technologies that have the potential to transform the way we interact with the physical and digital world.
+- Wearable computing refers to the devices that are worn on the body or embedded in clothing, such as smart watches, fitness trackers, smart glasses, etc. These devices can sense, process and communicate data, and provide various functions and services to the user.
+- Mixed reality is a term that encompasses both augmented reality and virtual reality. Augmented reality is the technology that overlays digital information or objects on the real world, enhancing the user's perception and interaction. Virtual reality is the technology that creates a fully immersive and simulated environment, isolating the user from the real world.
+- Internet of everything is a concept that describes the network of physical and digital objects that are connected and communicate with each other, such as sensors, devices, machines, people, etc. This enables the exchange of data and the creation of value across various domains and applications.
+- These three technologies are interrelated and complementary, as they can enhance each other's capabilities and create new possibilities for human-computer interaction, data analysis, and service delivery.
+- In this unit, we will learn about the basic concepts, principles, and applications of these three technologies, and explore their current and future trends, challenges, and opportunities.

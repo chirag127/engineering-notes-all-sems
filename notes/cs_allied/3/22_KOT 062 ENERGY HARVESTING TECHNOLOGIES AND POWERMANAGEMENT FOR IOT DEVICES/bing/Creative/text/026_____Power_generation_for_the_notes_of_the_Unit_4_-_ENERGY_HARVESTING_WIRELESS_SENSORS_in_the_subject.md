@@ -1,0 +1,15 @@
+### Power generation for the notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy from their surroundings into electrical power for wireless communication and sensing applications.
+- Energy harvesting can provide a sustainable and reliable power source for wireless sensors, eliminating the need for batteries or wires, and reducing maintenance and environmental costs.
+- Energy harvesting can be classified into different types based on the source of ambient energy, such as solar, thermal, kinetic, radio frequency, and piezoelectric.
+- Solar energy harvesting uses photovoltaic cells to convert light into electricity. It is suitable for outdoor applications where sunlight is abundant and predictable.
+- Thermal energy harvesting uses thermoelectric generators to convert temperature differences into voltage. It can be used for applications where waste heat is available, such as industrial processes, engines, or human body.
+- Kinetic energy harvesting uses electromagnetic, electrostatic, or piezoelectric transducers to convert mechanical vibrations or motions into electrical power. It can be used for applications where mechanical energy is present, such as machines, vehicles, or human activities.
+- Radio frequency energy harvesting uses antennas to capture electromagnetic waves from wireless transmissions or ambient sources and convert them into direct current. It can be used for applications where radio frequency signals are strong and stable, such as near cellular base stations or Wi-Fi routers.
+- Piezoelectric energy harvesting uses piezoelectric materials to generate voltage when subjected to mechanical stress or strain. It can be used for applications where self-powered diagnostics or condition monitoring are required, such as machinery, pipelines, or bridges.
+- Energy harvesting wireless sensors face several challenges, such as low and variable power output, power management, energy storage, and system integration.
+- Energy harvesting wireless sensors require efficient and adaptive power management circuits to regulate, store, and distribute the harvested energy to the sensor components.
+- Energy harvesting wireless sensors may use supercapacitors or rechargeable batteries as energy storage devices to provide a stable and continuous power supply for the sensor operation.
+- Energy harvesting wireless sensors need to be integrated with low-power and high-performance sensor components, such as microcontrollers, transceivers, and sensors, to achieve optimal functionality and performance.
+- Energy harvesting wireless sensors have many potential applications in various domains, such as smart buildings, smart cities, smart grids, smart health, smart agriculture, and smart industry.

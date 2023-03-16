@@ -1,0 +1,21 @@
+### ATM frauds
+
+- ATM frauds are cyber crimes that involve stealing or misusing the debit card number, personal identification number (PIN), or other data of the ATM users for illegal purposes.
+- ATM frauds can take various forms, such as:
+  - Skimming: This is the use of counterfeit devices or software to capture the data on the card's magnetic strip or the user's PIN when they insert their card into the ATM or point-of-sale (POS) terminal .
+  - Shimming: This is the use of a thin device inserted into the card slot of the ATM or POS terminal to intercept the data from the chip of the card.
+  - Card trapping: This is the use of a device or mechanism to prevent the card from being ejected from the ATM or POS terminal, allowing the fraudster to retrieve it later.
+  - Cash trapping: This is the use of a device or mechanism to prevent the cash from being dispensed from the ATM, allowing the fraudster to collect it later.
+  - PIN capturing: This is the use of a hidden camera, keypad overlay, or shoulder surfing to observe or record the user's PIN when they enter it at the ATM or POS terminal.
+  - ATM hacking: This is the use of malware, phishing, or brute force attacks to compromise the ATM software or network and manipulate the cash dispensing or transaction processing.
+  - ATM robbery: This is the use of physical force or threats to coerce the user to withdraw cash from the ATM or hand over their card or PIN.
+- ATM frauds can have serious consequences for the victims, such as:
+  - Financial losses: The victims may lose their money or incur unauthorized charges on their accounts due to the fraudulent transactions.
+  - Identity theft: The victims may have their personal or financial information compromised or used for other illegal activities, such as opening new accounts, applying for loans, or committing tax fraud.
+  - Emotional distress: The victims may suffer from stress, anxiety, fear, or anger due to the violation of their privacy and security.
+- ATM frauds can be prevented or mitigated by the following measures:
+  - User awareness: The users should be aware of the common signs and methods of ATM frauds and report any suspicious or unusual activity or device at the ATM or POS terminal to the authorities or the card issuer .
+  - User caution: The users should protect their card and PIN from being stolen or captured by covering the keypad when entering the PIN, avoiding using ATMs or POS terminals that look tampered or damaged, and checking their account statements regularly for any unauthorized transactions .
+  - User security: The users should use strong and unique PINs for their cards, change them frequently, and never share them with anyone or write them down. They should also use secure and updated devices and networks when accessing their accounts online and avoid clicking on any suspicious or unsolicited links or attachments .
+  - Card issuer security: The card issuers should implement security features and protocols to protect the card and transaction data, such as encryption, authentication, fraud detection, and alert systems. They should also provide customer service and support to the users in case of any fraud or dispute .
+  - Law enforcement: The law enforcement agencies should investigate and prosecute the perpetrators of ATM frauds and cooperate with other authorities and stakeholders to prevent and combat the cyber crime .

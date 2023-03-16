@@ -1,0 +1,6 @@
+### IOT Covid Patient Health Monitor in Quarantine
+
+- With the commencement of the COVID-19 pandemic, social distancing and quarantine are becoming essential practices in the world. IoT health monitoring systems prevent frequent visits to doctors and meetings between patients and medical professionals. However, many individuals require regular health monitoring and observation through medical staff.
+- An IoT-based system is a real-time health monitoring system utilizing the measured values of body temperature, pulse rate, and oxygen saturation of the patients, which are the most important measurements required for critical care .
+- The proposed IoT-based patient health monitor in quarantine helps the patient to measure health parameters on their own. The medical staff, the doctor can act according to the data collected from the patient. It gives relief to the overcrowded health infrastructure and prevents the medical practitioner from unnecessary exposure.
+- The system monitors patient heartbeat, temperature, and blood pressure using a heartbeat sensor, temperature sensor, and BP Sensor respectively.

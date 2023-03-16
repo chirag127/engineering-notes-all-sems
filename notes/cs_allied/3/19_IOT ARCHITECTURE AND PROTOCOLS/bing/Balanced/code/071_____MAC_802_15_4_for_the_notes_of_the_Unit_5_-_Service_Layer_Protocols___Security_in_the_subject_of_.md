@@ -1,0 +1,12 @@
+### MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 supports low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 provides the basis of other higher-layer standards, such as ZigBee, WirelessHart, 6LoWPAN and MiWi.
+- MAC 802.15.4 supports multiple PHY options, such as frequency-hopping spread spectrum (FHSS), direct-sequence spread spectrum (DSSS), orthogonal frequency-division multiplexing (OFDM), and high-rate pulse ultra-wideband (HRP UWB) .
+- MAC 802.15.4 defines two types of devices: full-function devices (FFDs) and reduced-function devices (RFDs). FFDs can operate in any topology and communicate with any other device, while RFDs can only operate in star or peer-to-peer topologies and communicate only with FFDs .
+- MAC 802.15.4 defines two types of networks: star and peer-to-peer. In a star network, a single FFD acts as a coordinator and controls the access to the medium, while other devices are RFDs or FFDs that communicate only with the coordinator. In a peer-to-peer network, any FFD can act as a coordinator and form a cluster with other devices, and multiple clusters can be interconnected to form a mesh network .
+- MAC 802.15.4 uses a slotted or unslotted carrier sense multiple access with collision avoidance (CSMA/CA) mechanism for channel access. In slotted CSMA/CA, the coordinator divides the time into equal slots and allocates them to the devices using a superframe structure. In unslotted CSMA/CA, the devices can transmit at any time without synchronization .
+- MAC 802.15.4 supports two types of data transfers: data and acknowledgment. Data transfers are used to send data frames from a device to another device or the coordinator, and acknowledgment transfers are used to confirm the successful reception of a data frame .
+- MAC 802.15.4 supports two types of addressing modes: short and extended. Short addressing uses 16-bit addresses that are assigned by the coordinator, while extended addressing uses 64-bit addresses that are globally unique .
+- MAC 802.15.4 supports four types of security services: access control, message integrity, message confidentiality, and replay protection. MAC 802.15.4 uses the advanced encryption standard (AES) with 128-bit keys for encryption and authentication .

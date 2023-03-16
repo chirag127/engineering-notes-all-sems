@@ -1,0 +1,11 @@
+# Application Layer for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The application layer is the interface between the IoT device and the network with which it will communicate.
+- It handles data formatting and presentation and serves as the bridge between what the IoT device is doing and the network handoff of the data it produces.
+- It also provides services such as authentication, encryption, compression, and error detection and correction.
+- In IoT architecture, this layer lies above the service discovery layer, which is responsible for finding and connecting to other devices and services.
+- There are many application layer protocols in IoT, each with different features and trade-offs. Some of the common ones are :
+  - MQTT: Message Queuing Telemetry Transport is a lightweight publish-subscribe protocol that is designed for low-bandwidth, high-latency, and unreliable networks. It is widely used for IoT applications that require real-time data delivery, such as smart home, industrial automation, and healthcare.
+  - CoAP: Constrained Application Protocol is a web transfer protocol that is optimized for constrained devices and networks. It is based on the RESTful architecture and uses UDP as the transport layer. It supports features such as multicast, caching, and asynchronous communication. It is suitable for IoT applications that involve resource discovery, device management, and sensor networks.
+  - HTTP: Hypertext Transfer Protocol is the most common web protocol that is used for exchanging data between clients and servers. It is based on the request-response model and uses TCP as the transport layer. It supports features such as encryption, compression, and authentication. It is suitable for IoT applications that involve web services, cloud computing, and data analytics.
+  - AMQP: Advanced Message Queuing Protocol is a binary wire-level protocol that is designed for reliable and secure messaging. It is based on the broker model and uses TCP as the transport layer. It supports features such as routing, queuing, transactions, and acknowledgments. It is suitable for IoT applications that involve distributed systems, enterprise integration, and business processes.

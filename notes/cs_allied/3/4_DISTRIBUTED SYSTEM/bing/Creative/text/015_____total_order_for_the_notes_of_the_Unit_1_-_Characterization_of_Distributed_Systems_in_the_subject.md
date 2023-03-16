@@ -1,0 +1,28 @@
+### Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing and coordinate their actions to achieve a common goal.
+- Events are occurrences that happen at a specific point in time and space in a distributed system.
+- A partial order is a binary relation that is reflexive, antisymmetric, and transitive, meaning that for any events A, B, and C in a distributed system, the following hold:
+  - A ≤ A (reflexivity)
+  - If A ≤ B and B ≤ A, then A = B (antisymmetry)
+  - If A ≤ B and B ≤ C, then A ≤ C (transitivity)
+- A total order is a partial order that is also complete, meaning that for any events A and B in a distributed system, either A ≤ B or B ≤ A .
+- A total order can be used to establish a causal relationship among all events in a distributed system, which is useful for ensuring consistency, synchronization, and fault tolerance .
+- A total order can be implemented by using logical clocks, such as Lamport timestamps or vector clocks, that assign a unique and monotonically increasing value to each event in a distributed system .
+- A logical clock is a mechanism that assigns a logical time to each event in a distributed system, such that if event A happens before event B, then the logical time of A is less than the logical time of B .
+- Lamport timestamps are a type of logical clock that assign a logical time to each event in a distributed system based on the following rules :
+  - Each entity in the system maintains a counter that is initialized to zero.
+  - Each time an entity performs an internal event, it increments its counter by one.
+  - Each time an entity sends a message, it increments its counter by one and attaches its counter value to the message.
+  - Each time an entity receives a message, it updates its counter to the maximum of its own counter and the counter value in the message, and then increments it by one.
+- Lamport timestamps can be used to create a total order of events in a distributed system by using some arbitrary mechanism to break ties (e.g. the ID of the process).
+- Vector clocks are a type of logical clock that assign a logical time to each event in a distributed system based on the following rules:
+  - Each entity in the system maintains a vector of counters, one for each entity in the system, that is initialized to zero.
+  - Each time an entity performs an internal event, it increments its own counter in the vector by one.
+  - Each time an entity sends a message, it increments its own counter in the vector by one and attaches its vector to the message.
+  - Each time an entity receives a message, it updates each counter in its vector to the maximum of its own counter and the counter in the message vector.
+- Vector clocks can be used to create a partial order of events in a distributed system by using the following relation:
+  - A vector clock V1 is less than or equal to another vector clock V2 if and only if for every counter i in the vectors, V1[i] ≤ V2[i].
+  - A vector clock V1 is equal to another vector clock V2 if and only if for every counter i in the vectors, V1[i] = V2[i].
+  - A vector clock V1 is concurrent with another vector clock V2 if and only if neither V1 ≤ V2 nor V2 ≤ V1.
+- Vector clocks can be used to create a total order of events in a distributed system by using some arbitrary mechanism to break ties (e.g. the lexicographic order of the vectors).

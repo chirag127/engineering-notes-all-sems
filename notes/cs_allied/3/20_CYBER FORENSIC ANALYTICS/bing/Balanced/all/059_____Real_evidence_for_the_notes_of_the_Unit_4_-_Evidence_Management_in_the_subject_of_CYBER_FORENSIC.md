@@ -1,0 +1,21 @@
+# Real evidence for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Real evidence is any physical object that can be directly observed or examined by the court or the jury .
+- Real evidence can be used to prove or disprove a fact or a claim related to a cybercrime or a digital incident .
+- Real evidence can be classified into two types: hard evidence and soft evidence.
+  - Hard evidence is real evidence that is conclusively associated with a suspect or an activity, such as fingerprints, DNA, or a weapon.
+  - Soft evidence is real evidence that is not conclusive but can provide some support or corroboration to other evidence, such as a witness statement, a document, or a photograph.
+- Examples of real evidence in cyber forensics are:
+  - The physical devices that store or transmit digital data, such as computers, hard drives, mobile phones, flash drives, or routers  .
+  - The digital data that is extracted or recovered from the physical devices, such as files, emails, messages, logs, or metadata  .
+  - The physical traces or marks that link the devices or the data to a suspect or an activity, such as fingerprints, tool marks, or labels .
+- Real evidence in cyber forensics must be collected, preserved, analyzed, and presented following the principles and standards of digital evidence and forensics  .
+  - Collection: The process of identifying, locating, acquiring, and documenting the real evidence from the crime scene or the incident site  .
+  - Preservation: The process of protecting, securing, and maintaining the integrity and authenticity of the real evidence from any alteration, damage, or loss  .
+  - Analysis: The process of examining, interpreting, and extracting the relevant information from the real evidence using various tools and techniques  .
+  - Presentation: The process of reporting, explaining, and demonstrating the real evidence and its findings to the court or the jury in a clear, accurate, and convincing manner  .
+- Real evidence in cyber forensics can be challenged or disputed based on its reliability, validity, relevance, and admissibility  .
+  - Reliability: The degree to which the real evidence is consistent, dependable, and trustworthy  .
+  - Validity: The degree to which the real evidence is accurate, correct, and factual  .
+  - Relevance: The degree to which the real evidence is related, connected, and applicable to the case or the issue  .
+  - Admissibility: The degree to which the real evidence is acceptable, permissible, and lawful to be used in the court or the jury  .

@@ -1,0 +1,23 @@
+# Network components for the notes of the Unit 2 - Cyber Forensics
+
+- Network forensics is a science that centers on the discovery and retrieval of information surrounding a cybercrime within a networked environment.
+- Network forensics can help draw several conclusions during an investigation, such as the source, target, motive, and method of cyberattacks.
+- Network forensics involves the capture, recording and analysis of network packets in order to establish the evidence of a cybercrime.
+- Network forensics can be performed in two modes: live and post-mortem.
+  - Live forensics involves monitoring and analyzing network traffic in real-time, using tools such as network sniffers, firewalls, and intrusion detection systems (IDS).
+  - Post-mortem forensics involves examining network logs, backups, and other data sources after an incident has occurred, using tools such as network analyzers, packet reconstructors, and forensic software.
+- Network forensics requires a systematic approach that follows these steps:
+  - Identification: Identify the scope, nature, and source of the network incident.
+  - Preservation: Isolate and preserve the network data and evidence from tampering or alteration.
+  - Extraction: Extract relevant information from the network data and evidence using appropriate tools and techniques.
+  - Interpretation: Interpret and analyze the extracted information to reconstruct the network events and activities.
+  - Documentation: Document and report the findings and conclusions of the network forensics investigation.
+- Network forensics faces several challenges, such as :
+  - Volume: The large amount of network data that needs to be captured, stored, and analyzed.
+  - Volatility: The dynamic and transient nature of network data that can be easily lost or overwritten.
+  - Variety: The diverse and complex formats and protocols of network data that need to be understood and decoded.
+  - Privacy: The legal and ethical issues of collecting and analyzing network data that may contain personal or sensitive information.
+- Network forensics is a key component of digital forensics, which is the broader field of collecting, analyzing, and presenting digital evidence in court.
+- Digital forensics can be applied to various types of digital devices and media, such as computers, mobile phones, tablets, hard drives, memory cards, etc.
+- Digital forensics can also be divided into different branches, such as computer forensics, mobile forensics, cloud forensics, malware forensics, etc.
+- Digital forensics is closely related to incident response, which is the process of identifying, containing, eradicating, and recovering from a cyberattack.

@@ -1,0 +1,21 @@
+# IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person via SMS in case of a phase loss or failure   .
+- A phase loss occurs when one of the three phases of a three-phase system gets disconnected or damaged, resulting in a single phasing condition  .
+- A phase loss can cause serious damage to the equipment and appliances connected to the power supply, as well as increase the risk of fire and electric shock  .
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system .
+  - A GSM module that sends and receives SMS messages to and from the authorized person   .
+  - A LCD display that shows the voltage values of the three phases .
+  - A voltage sensor that measures the voltage of each phase and sends it to the microcontroller .
+  - A relay that switches on and off the power supply to the load.
+- The system works as follows:
+  - The voltage sensor continuously monitors the voltage of each phase and sends it to the microcontroller .
+  - The microcontroller compares the voltage values with a predefined threshold and determines if there is a phase loss or failure .
+  - If there is a phase loss or failure, the microcontroller sends a SMS message to the authorized person with the details of the fault   .
+  - The microcontroller also displays the voltage values and the fault status on the LCD display .
+  - The microcontroller can also switch off the power supply to the load using the relay to prevent further damage.
+  - The authorized person can send a SMS message to the system to check the status of the power supply or to reset the system  .
+- The system is an example of the implementation of IOT (Internet of Things) in the field of power monitoring and management   .
+- IOT is the concept of connecting physical devices and objects to the internet and enabling them to communicate and exchange data   .
+- IOT can provide various benefits such as remote control, automation, efficiency, safety, and convenience   .

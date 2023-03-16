@@ -1,0 +1,8 @@
+### IOT Circuit Breaker Project
+
+- The IOT circuit breaker project is a demonstration of how to control and monitor electrical appliances remotely using the Internet of Things (IOT) technology.
+- The project consists of a circuit breaker module, a web server, and a web application.
+- The circuit breaker module is a hardware device that can switch on or off the power supply to the appliances connected to it. It also measures the current and voltage of the appliances and sends the data to the web server via Wi-Fi.
+- The web server is a software program that runs on a cloud platform and stores the data received from the circuit breaker module in a database. It also provides an application programming interface (API) for the web application to access the data and control the circuit breaker module.
+- The web application is a user interface that runs on a web browser and allows the user to view the status and the power consumption of the appliances, and to switch them on or off remotely. It also displays graphs and charts of the historical data and alerts the user if any abnormality is detected.
+- The IOT circuit breaker project is an example of how IOT can be used to improve the energy efficiency and the safety of electrical appliances. It also demonstrates the basic concepts and components of IOT, such as sensors, actuators, communication protocols, cloud computing, and web development.

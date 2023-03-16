@@ -1,0 +1,15 @@
+### Causal Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent and autonomous processes that communicate by exchanging messages over a network.
+- The processes in a distributed system may have different views of the global state of the system, depending on the order and delivery of the messages they receive.
+- Causal order is a relation that captures the potential causal dependencies between the events that occur in a distributed system.
+- An event is causally dependent on another event if the occurrence of the first event influences or affects the occurrence of the second event, either directly or indirectly.
+- For example, if process A sends a message m to process B, and process B sends a message n to process C after receiving m, then the event of sending n is causally dependent on the event of sending m, and the event of receiving n is causally dependent on the event of receiving m.
+- Causal order is a partial order, meaning that not all events are comparable. Two events are concurrent if they are not causally dependent on each other, meaning that they could have occurred in any order without affecting the outcome of the system.
+- Causal order is important for ensuring the consistency and correctness of distributed systems, especially for applications that require coordination, synchronization, or replication of data or state across multiple processes.
+- Causal order can be enforced by various algorithms or protocols that ensure that messages are delivered and processed in a way that respects the causal dependencies between them.
+- Some examples of causal order algorithms or protocols are:
+  - Vector clocks: a mechanism that assigns a logical timestamp to each event, consisting of a vector of integers that represents the number of events that each process has observed or caused. A vector clock can be used to compare the causal order of two events by comparing their timestamps element-wise.
+  - Lamport timestamps: a simpler mechanism that assigns a scalar timestamp to each event, consisting of a single integer that represents the number of events that a process has observed or caused. A Lamport timestamp can be used to compare the causal order of two events by comparing their timestamps numerically.
+  - Causal multicast: a communication service that guarantees that messages are delivered to all processes in the same causal order as they were sent. Causal multicast can be implemented using vector clocks or Lamport timestamps to label and order the messages.
+  - Causal consistency: a consistency model that ensures that all processes see the same order of updates to a shared data item, as long as those updates are causally dependent on each other. Causal consistency can be achieved by using causal multicast or other mechanisms to propagate the updates.

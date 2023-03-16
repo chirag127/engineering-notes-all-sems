@@ -1,0 +1,24 @@
+### Digital device forensics
+
+- Digital device forensics is a branch of forensic science that deals with the recovery, investigation, examination and analysis of material found in digital devices, often in relation to mobile devices and computer crime.
+- Digital device forensics includes data from hard drives in computers, mobile phones, smart appliances, vehicle navigation systems, electronic door locks, and other digital devices.
+- Digital device forensics is the process of storing, analyzing, retrieving, and preserving electronic data that may be useful in an investigation.
+- Digital device forensics involves the following steps:
+  - Identification: The first step is to identify the sources and types of digital evidence that are relevant to the case.
+  - Collection: The next step is to collect the digital evidence using appropriate methods and tools, while maintaining the integrity and authenticity of the data.
+  - Preservation: The third step is to preserve the digital evidence in a secure and tamper-proof manner, using techniques such as hashing, encryption, and digital signatures.
+  - Analysis: The fourth step is to analyze the digital evidence using various tools and techniques, such as data carving, file recovery, malware analysis, network analysis, etc.
+  - Presentation: The final step is to present the findings and conclusions of the analysis in a clear and concise manner, using reports, charts, graphs, etc.
+- Digital device forensics can be classified into different types based on the device or the data involved, such as:
+  - Computer forensics: The analysis of data from computers and hard drives, such as operating systems, files, logs, etc.
+  - Mobile forensics: The analysis of data from mobile phones and tablets, such as call records, messages, contacts, apps, etc.
+  - Network forensics: The analysis of data from networks and internet, such as packets, protocols, traffic, etc.
+  - Cloud forensics: The analysis of data from cloud services and platforms, such as emails, social media, storage, etc.
+  - Database forensics: The analysis of data from databases and data structures, such as tables, queries, transactions, etc.
+  - Multimedia forensics: The analysis of data from multimedia files and formats, such as images, videos, audio, etc.
+- Digital device forensics requires specialized knowledge, skills, and tools to perform effectively and efficiently. Some of the common tools used in digital device forensics are:
+  - FTK: A comprehensive tool that can analyze various types of digital evidence, such as disk images, memory dumps, network packets, etc.
+  - EnCase: A widely used tool that can acquire, analyze, and report on digital evidence, such as files, partitions, registry, etc.
+  - Autopsy: An open source tool that can perform various tasks, such as data recovery, timeline analysis, keyword search, etc.
+  - Wireshark: A popular tool that can capture and analyze network traffic and protocols, such as TCP, UDP, HTTP, etc.
+  - Cellebrite: A leading tool that can extract and analyze data from mobile devices, such as contacts, messages, photos, etc.

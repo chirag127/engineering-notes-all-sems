@@ -1,0 +1,8 @@
+### Building a useful understanding of a social network for the notes of the Unit 5 - SUSTAINABILITY DATA AND ANALYTICS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+1. A social network is a structure made up of individuals or organizations, called nodes, which are connected by one or more specific types of interdependency, such as friendship, kinship, common interest, financial exchange, or relationships of beliefs, knowledge or prestige.
+2. Social network analysis is the process of investigating social structures through the use of network and graph theories. It characterizes networked structures in terms of nodes and the ties, edges, or links that connect them.
+3. Social network analysis can be used to study the sustainability of a system by examining the relationships and interactions between different actors within the system.
+4. By analyzing the structure of a social network, it is possible to identify key actors, or nodes, that play important roles in the sustainability of the system. These actors may be individuals, organizations, or even entire communities.
+5. Social network analysis can also be used to identify potential areas for intervention or improvement within the system, by examining the relationships and interactions between different actors and identifying areas where changes could have the greatest impact on the overall sustainability of the system.
+6. In the context of sustainability data and analytics, social network analysis can be a valuable tool for understanding the complex relationships and interactions between different actors within a system, and for identifying potential areas for intervention or improvement to enhance the overall sustainability of the system.

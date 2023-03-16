@@ -1,0 +1,27 @@
+### Introduction for the notes of the Unit 1 - ENERGY HARVESTING SYSTEMS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting (EH) is the process of capturing and converting ambient energy from various sources such as light, heat, vibration, and radio frequency (RF) into electrical energy  .
+- Energy harvesting systems (EHS) are devices or circuits that use EH techniques to power wireless sensors, wearable devices, implantable devices, and other low-power applications   .
+- EHS can provide several benefits such as:
+  - Reducing the dependence on batteries and extending the lifetime of the devices  .
+  - Enabling self-powered and autonomous operation of the devices   .
+  - Enhancing the reliability and safety of the devices  .
+  - Improving the environmental sustainability and reducing the waste of the devices  .
+- EHS consist of four main components  :
+  - Energy transducer: converts the ambient energy into electrical energy (e.g., photovoltaic cell, thermoelectric generator, piezoelectric element, etc.).
+  - Energy storage: stores the electrical energy for later use (e.g., battery, capacitor, supercapacitor, etc.).
+  - Power management: regulates and optimizes the energy flow between the transducer, the storage, and the load (e.g., DC-DC converter, maximum power point tracking, etc.).
+  - Load: consumes the electrical energy to perform a function (e.g., sensor, microcontroller, wireless transmitter, etc.).
+- EHS can be classified into different types based on the source of ambient energy, such as  :
+  - Solar energy harvesting: uses photovoltaic cells to convert light into electricity.
+  - Thermal energy harvesting: uses thermoelectric generators to convert heat gradients into electricity.
+  - Mechanical energy harvesting: uses piezoelectric, electromagnetic, or electrostatic elements to convert vibrations, motions, or impacts into electricity.
+  - RF energy harvesting: uses antennas to capture and rectify RF signals into electricity.
+  - Other types of energy harvesting: use other sources such as wind, water, sound, etc. to generate electricity.
+- EHS face several challenges such as:
+  - Low and variable power output of the energy transducers  .
+  - Mismatch between the energy supply and demand of the load  .
+  - Losses and inefficiencies in the energy conversion and storage processes  .
+  - Trade-offs between the size, weight, cost, and performance of the EHS components  .
+  - Compatibility and integration issues of the EHS with the existing devices and systems  .
+- EHS require novel and innovative solutions to overcome these challenges and to meet the requirements of the emerging applications in the fields of Internet of Things (IoT), biomedical engineering, smart buildings, etc.  .

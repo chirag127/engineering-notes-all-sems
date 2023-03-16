@@ -1,0 +1,18 @@
+# Sockets for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A socket is an endpoint of communication between two processes or devices over a network.
+- Sockets can be used to send and receive data using different protocols, such as TCP (Transmission Control Protocol) or UDP (User Datagram Protocol).
+- TCP is a reliable, connection-oriented protocol that ensures data delivery and error recovery. UDP is an unreliable, connectionless protocol that does not guarantee data delivery or error recovery, but is faster and more efficient for some applications.
+- Sockets can also be used to send and receive broadcast and multicast communications, which are both a form of one-to-many communications.
+- VXWORKS and FREE RTOS are two examples of real-time operating systems (RTOS) that support socket programming.
+- VXWORKS is a proprietary, UNIX-like RTOS that is widely used in safety-critical and high-performance applications, such as aerospace, defense, industrial, and automotive systems.
+- FREE RTOS is an open source, scalable, and thread-safe RTOS that is designed for small embedded systems with limited resources, such as microcontrollers.
+- Both VXWORKS and FREE RTOS provide a familiar and standards-based Berkeley sockets interface, which is a set of functions and data structures for creating and manipulating sockets  .
+- The Berkeley sockets interface includes functions such as socket(), bind(), listen(), accept(), connect(), send(), recv(), sendto(), recvfrom(), close(), etc.
+- The socket() function is used to create a socket and returns a socket descriptor, which is an integer that identifies the socket. The socket descriptor can then be used to perform other socket operations.
+- The bind() function is used to associate a socket with a local address and port number. This is necessary for receiving data from other sockets.
+- The listen() and accept() functions are used to create a server socket that can accept incoming connections from client sockets. The listen() function specifies the maximum number of pending connections that can be queued for the server socket. The accept() function blocks until a connection request arrives, and then returns a new socket descriptor for the connection.
+- The connect() function is used to create a client socket that can connect to a server socket. The connect() function specifies the remote address and port number of the server socket.
+- The send() and recv() functions are used to send and receive data over a TCP connection. The send() function returns the number of bytes sent, and the recv() function returns the number of bytes received. The send() and recv() functions can block until the data is sent or received, or they can be used in a non-blocking mode with the select() function, which monitors multiple sockets for activity.
+- The sendto() and recvfrom() functions are used to send and receive data over a UDP connection. The sendto() function specifies the remote address and port number of the destination socket, and the recvfrom() function returns the remote address and port number of the source socket. The sendto() and recvfrom() functions can also be used for broadcast and multicast communications.
+- The close() function is used to close a socket and release its resources. The close() function should be called when the socket is no longer needed.

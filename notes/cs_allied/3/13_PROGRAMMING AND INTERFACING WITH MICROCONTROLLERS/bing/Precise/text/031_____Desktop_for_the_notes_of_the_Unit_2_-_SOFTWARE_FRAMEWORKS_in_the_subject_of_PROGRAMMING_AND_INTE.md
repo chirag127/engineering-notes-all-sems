@@ -1,0 +1,19 @@
+### Desktop
+- A desktop is a personal computer designed for regular use at a single location on or near a desk or table due to its size and power requirements.
+- The most common configuration has a case that houses the power supply, motherboard (a printed circuit board with a microprocessor as the central processing unit, memory, bus, and other electronic components), disk storage (usually one or more hard disk drives, solid state drives, optical disc drives, and in early models a floppy disk drive); a keyboard and mouse for input; and a computer monitor, speakers, and, often, a printer for output.
+- The case may be oriented horizontally or vertically and placed either underneath, beside, or on top of a desk.
+- All-in-one desktop computers integrate the system's internal components into the same case as the display, thus occupying a smaller footprint (with fewer cables) than desktops that incorporate a tower.
+- Desktops have an advantage over laptops in that the spare parts and extensions tend to be standardized, resulting in lower prices and greater availability.
+- For example, the size and mounting of the motherboard are standardized into ATX, microATX, BTX or other form factors.
+- Desktops have several standardized expansion slots, like Conventional PCI or PCI express, while laptops only tend to have one mini-PCI slot and one PC Card slot (or ExpressCard slot).
+- This means that a desktop can be customized and upgraded to a greater extent than laptops.
+- Another advantage of the desktop is that (apart from environmental concerns) power consumption is not as critical as in laptop computers because the desktop is exclusively powered from the wall socket.
+- Desktop computers also provide more space for cooling fans and vents to dissipate heat, allowing enthusiasts to overclock with less risk.
+- The two large microprocessor manufacturers, Intel and AMD, have developed special CPUs for mobile computers (i.e. laptops) that consume less power and lower heat, but with lower performance levels.
+- Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS focuses on the software frameworks used in desktop computers for programming and interfacing with microcontrollers.
+- Software frameworks provide a standard way to build and deploy applications and are composed of a collection of libraries, APIs, and toolsets.
+- Popular software frameworks for desktop computers include .NET, Java, and Qt.
+- These frameworks provide a consistent development environment and allow for the creation of cross-platform applications.
+- In the context of programming and interfacing with microcontrollers, software frameworks provide a layer of abstraction that simplifies the process of communicating with and controlling microcontrollers from a desktop computer.
+- This can include features such as pre-built libraries for common microcontroller functions, graphical user interfaces for configuring and monitoring microcontroller behavior, and debugging tools for troubleshooting issues.
+- By using a software framework, developers can focus on the specific functionality of their application, rather than the low-level details of microcontroller communication and control.

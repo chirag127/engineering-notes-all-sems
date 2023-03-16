@@ -1,0 +1,22 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT-based system that aims to increase COVID-19 indoor safety by checking the temperature and mask status of the visitors or employees before allowing them to enter a building or a room.
+- The system consists of the following components:
+  - A contactless temperature scanner that uses a thermal sensor or a camera to measure the body temperature of the person (temperature measurement precision ± 0.3 °C)  .
+  - A mask detector that uses a camera and an image processing algorithm to detect the presence or absence of a mask on the person's face   .
+  - A gate or a barrier that controls the entry of the person based on the temperature and mask scan results. The gate can be a flap barrier, a turnstile, a door, or a similar device  .
+  - A display or a speaker that shows or announces the scan results and the entry status to the person   .
+  - A Raspberry Pi or a similar device that acts as the central controller of the system and communicates with the sensors, the camera, the gate, and the display or speaker   .
+  - An IoT platform or a cloud service that collects and stores the scan data and provides remote monitoring and management of the system   .
+- The system works as follows:
+  - The person approaches the system and stands in front of the temperature scanner and the camera   .
+  - The system scans the person's temperature and mask status and displays or announces the results   .
+  - If the person has a normal temperature and wears a mask, the system opens the gate and allows the person to enter   .
+  - If the person has a high temperature or does not wear a mask, the system closes the gate and prevents the person from entering   .
+  - The system sends the scan data to the IoT platform or the cloud service for further analysis and reporting   .
+- The system has the following benefits:
+  - It reduces the risk of COVID-19 transmission by screening the visitors or employees for fever and mask compliance   .
+  - It automates the entry process and eliminates the need for manual checking and intervention   .
+  - It provides real-time data and alerts on the temperature and mask scan results and the entry status of the people   .
+  - It can be easily deployed and integrated with existing security and access control systems   .
+  - It can be customized and configured according to the specific needs and preferences of the users   .

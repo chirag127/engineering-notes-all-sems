@@ -1,0 +1,22 @@
+### XMPP
+
+- XMPP stands for **Extensible Messaging and Presence Protocol** .
+- It is an **open communication protocol** designed for **instant messaging (IM)**, **presence information**, and **contact list maintenance** .
+- It is based on **XML (Extensible Markup Language)**, which enables the **near-real-time exchange of structured data** between two or more network entities.
+- It is a **decentralized protocol**, meaning that anyone can run their own XMPP server and communicate with other servers.
+- It is a **living standard**, meaning that engineers actively extend and improve it.
+- It supports various features, such as:
+  - **End-to-end encryption** for secure communication.
+  - **Multi-user chat** for group conversations.
+  - **Publish-subscribe** for event notifications.
+  - **File transfer** for sharing media.
+  - **Service discovery** for finding available services.
+  - **Internet of Things (IoT)** for connecting devices and sensors.
+  - **WebRTC** for real-time audio and video calls.
+- It is used by various applications, such as:
+  - **WhatsApp** for instant messaging and voice calls.
+  - **Facebook Messenger** for instant messaging and video calls.
+  - **Google Talk** for instant messaging and voice calls.
+  - **Signal** for instant messaging and voice calls.
+  - **Online gaming** for chat and presence.
+  - **Realtime social** for microblogging and status updates.

@@ -1,0 +1,19 @@
+### Clustering Techniques
+
+Clustering is a type of unsupervised learning method of machine learning that groups data points into clusters based on their similarity or distance. It is an exploratory data analysis technique that allows us to analyze the multivariate data sets without labelled output variable.
+
+Some of the applications of clustering are:
+
+- Customer segmentation
+- Image segmentation
+- Anomaly detection
+- Social network analysis
+- Bioinformatics
+
+Some of the clustering techniques are:
+
+- **K-Means**: This technique finds clusters by minimizing the mean distance between geometric points within each cluster. It requires specifying the number of clusters beforehand and randomly initializing the cluster centers. It then assigns each data point to the nearest cluster center and updates the cluster centers based on the average of the assigned points. It repeats this process until the cluster centers do not change significantly or a maximum number of iterations is reached .
+- **DBSCAN**: This technique uses density-based spatial clustering to find clusters of arbitrary shape and size. It defines a cluster as a high-density region that is separated from other regions by low-density regions. It requires specifying two parameters: epsilon and minPts. Epsilon is the maximum distance between two points to be considered as neighbors, and minPts is the minimum number of points required to form a dense region. It then classifies each point as a core point, a border point, or a noise point based on these parameters. It then assigns each core point to a cluster and expands the cluster by adding all the reachable border points .
+- **Spectral clustering**: This technique is a similarity graph-based algorithm that models the nearest-neighbor relationships between data points as an undirected graph. It then applies graph partitioning methods to find the optimal cut of the graph that minimizes the similarity between different clusters and maximizes the similarity within each cluster. It requires specifying the number of clusters beforehand and the similarity measure to construct the graph. It then computes the eigenvalues and eigenvectors of the graph Laplacian matrix and uses them to perform dimensionality reduction and k-means clustering .
+- **Hierarchical clustering**: This technique builds a hierarchy of clusters by either merging or splitting data points based on their similarity or distance. It can be either agglomerative or divisive. Agglomerative clustering starts with each data point as a single cluster and iteratively merges the closest pair of clusters until a single cluster or a desired number of clusters is reached. Divisive clustering starts with all data points in a single cluster and iteratively splits the cluster into smaller clusters based on some criterion until each data point is a single cluster or a desired number of clusters is reached. The result of hierarchical clustering can be visualized as a dendrogram that shows the nested structure of the clusters  .
+- **Gaussian mixture model (GMM)**: This technique assumes that the data points are generated from a mixture of Gaussian distributions with unknown parameters. It then uses the expectation-maximization (EM) algorithm to estimate the parameters of the Gaussian components and the probabilities of each data point belonging to each component. It requires specifying the number of components beforehand and initializing the parameters randomly or using k-means. It then alternates between the expectation step, where it computes the posterior probabilities of each data point for each component, and the maximization step, where it updates the parameters of each component based on the weighted average of the data points. It repeats this process until the parameters converge or a maximum number of iterations is reached .

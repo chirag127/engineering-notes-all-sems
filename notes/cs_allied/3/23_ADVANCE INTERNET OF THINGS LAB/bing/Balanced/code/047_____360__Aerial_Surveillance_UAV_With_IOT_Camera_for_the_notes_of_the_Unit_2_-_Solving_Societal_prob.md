@@ -1,0 +1,33 @@
+### 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- UAVs (Unmanned Aerial Vehicles) are aircrafts that can fly without a human pilot on board. They can be remotely controlled or autonomous.
+- IOT (Internet of Things) is the network of physical objects that can communicate and exchange data with each other and with the cloud via the internet.
+- A 360° aerial surveillance UAV with IOT camera is a system that combines the advantages of UAVs and IOT to provide a comprehensive and flexible solution for aerial monitoring and surveillance  .
+- The system consists of the following components  :
+  - A UAV drone that can fly in any direction and capture 360° images and videos with a camera mounted on a gimbal.
+  - A microcontroller that controls the drone's flight and camera movements and communicates with the IOT server via Wi-Fi or cellular network.
+  - An IOT server that receives the data from the drone and processes it using various algorithms and applications, such as face recognition, object detection, motion tracking, etc.
+  - A user interface that displays the live or recorded footage from the drone and allows the user to control the drone and the camera remotely.
+- The system can be used for various purposes, such as   :
+  - Border security and patrol
+  - Disaster management and rescue
+  - Crowd surveillance and crowd control
+  - Traffic monitoring and management
+  - Wildlife conservation and poaching prevention
+  - Industrial and agricultural inspection
+  - Entertainment and tourism
+- The system has several benefits, such as   :
+  - It can cover a large area and provide a panoramic view of the scene
+  - It can operate in any weather and lighting conditions
+  - It can be deployed quickly and easily
+  - It can be integrated with other IOT devices and sensors
+  - It can provide real time data and analysis
+  - It can reduce human risk and cost
+- The system also has some challenges and limitations, such as   :
+  - It requires a reliable and secure communication network
+  - It consumes a lot of power and has a limited battery life
+  - It may face interference and jamming from other devices or signals
+  - It may pose privacy and ethical issues
+  - It may be affected by environmental factors, such as wind, rain, dust, etc.
+  - It may encounter technical failures or malfunctions

@@ -1,0 +1,15 @@
+# Real-time concepts for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A real-time system is a system that must respond to events within a certain time frame, otherwise it may fail or cause undesirable consequences.
+- A real-time operating system (RTOS) is a specialized operating system that provides deterministic and predictable behavior for real-time systems.
+- An RTOS typically supports features such as:
+  - Preemptive multitasking: the ability to switch between tasks based on their priority and deadlines, without waiting for them to finish or yield.
+  - Inter-task communication and synchronization: the ability to exchange data and coordinate actions between tasks using mechanisms such as message queues, semaphores, mutexes, etc.
+  - Memory management: the ability to allocate and deallocate memory for tasks and data structures, with minimal overhead and fragmentation.
+  - Interrupt handling: the ability to respond to external events and signals, such as timers, sensors, etc., and execute interrupt service routines (ISRs) with low latency and high priority.
+  - Device drivers: the ability to interface with hardware devices and peripherals, such as serial ports, network interfaces, etc., and provide a uniform and abstracted access to them.
+- An open source RTOS is an RTOS that is developed and distributed under a free or open source license, such as GNU GPL, BSD, MIT, etc. This means that the source code of the RTOS is available to the public and can be modified, reused, and redistributed by anyone, subject to the terms of the license.
+- Some examples of open source RTOS are:
+  - FreeRTOS: a popular and widely used RTOS that supports many architectures and platforms, such as ARM, x86, PIC, Arduino, etc. It provides a simple and lightweight API for creating and managing tasks, queues, semaphores, timers, etc. It also supports optional features such as memory allocation, software timers, event groups, etc. 
+  - Linux: a general-purpose operating system that can be configured and customized for real-time applications, using extensions such as PREEMPT_RT, Xenomai, RTAI, etc. These extensions provide mechanisms for reducing the latency and jitter of the Linux kernel, such as preemptible kernel, priority inheritance, high-resolution timers, etc. Linux also supports POSIX real-time extensions, such as pthreads, semaphores, message queues, etc. 
+  - Zephyr: a scalable and modular RTOS that targets embedded systems and IoT devices, such as sensors, actuators, gateways, etc. It supports multiple architectures and platforms, such as ARM, x86, RISC-V, Arduino, etc. It provides a rich set of features, such as kernel services, device drivers, networking, security, file systems, etc. It also supports various protocols and standards, such as Bluetooth, LoRa, MQTT, CoAP, etc.

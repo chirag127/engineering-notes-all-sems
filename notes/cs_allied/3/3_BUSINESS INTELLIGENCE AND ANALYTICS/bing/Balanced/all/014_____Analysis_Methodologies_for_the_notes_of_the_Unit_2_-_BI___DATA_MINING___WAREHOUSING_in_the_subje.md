@@ -1,0 +1,13 @@
+# Analysis Methodologies for Data Mining
+
+- Data mining is the process of searching large sets of data to look out for patterns and trends that can’t be found using simple analysis techniques.
+- Data mining works in conjunction with predictive analysis, a branch of statistical science that uses complex algorithms designed to work with a special group of problems.
+- Data analysis and data mining tools use quantitative analysis, cluster analysis, pattern recognition, correlation discovery, and associations to analyze data with little or no IT intervention.
+- The resulting information is then presented to the user in an understandable form, processes collectively known as business intelligence (BI).
+- Some of the common data mining methodologies are:
+  - Association: It is used to find a correlation between two or more items by identifying the hidden pattern in the data. For example, finding the items that are frequently bought together in a supermarket.
+  - Classification: This data mining method is used to distinguish the items in the data sets into classes or groups. It uses techniques such as decision trees, neural networks, and support vector machines. For example, classifying customers based on their income, age, and spending habits.
+  - Clustering Analysis: This data mining method is used to group the items in the data sets that are similar to each other. It uses techniques such as k-means, hierarchical, and density-based clustering. For example, clustering customers based on their geographic location, preferences, and behavior.
+  - Outlier Detection: This data mining method is used to identify the items in the data sets that are different from the normal or expected pattern. It uses techniques such as box plots, z-scores, and isolation forest. For example, detecting fraud, errors, or anomalies in the data.
+  - Regression: This data mining method is used to find the relationship between a dependent variable and one or more independent variables. It uses techniques such as linear, logistic, and polynomial regression. For example, predicting the sales of a product based on the price, advertising, and demand.
+  - Prediction: This data mining method is used to forecast the future values of a variable based on the historical data. It uses techniques such as time series analysis, artificial neural networks, and deep learning. For example, predicting the stock market prices, weather, or customer churn.

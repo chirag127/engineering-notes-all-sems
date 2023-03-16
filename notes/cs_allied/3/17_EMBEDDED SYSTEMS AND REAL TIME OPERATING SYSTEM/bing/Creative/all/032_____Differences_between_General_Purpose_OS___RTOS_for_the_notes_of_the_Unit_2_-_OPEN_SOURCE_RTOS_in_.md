@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some differences between General Purpose OS and RTOS for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM:
+
+# Differences between General Purpose OS and RTOS
+
+- **Target devices**: A General Purpose OS (GPOS) is made for high-end, general purpose systems like a personal computer, a work station, a server system etc. An RTOS is usually designed for a low-end, stand-alone device like an ATM, Vending machines, Kiosks etc .
+- **Size and weight**: A GPOS is heavy and large in size compared to an RTOS. An RTOS is light weight and small in size, as it has to fit in the limited memory and resources of the embedded system .
+- **Task scheduling**: A GPOS is capable of handling various applications and are optimized to run a variety of applications at the same time. It switches between various processes very fast, creating an illusion that it all happens in real time. An RTOS schedules the tasks based on priority level and performs them within the deadline. It guarantees a deterministic response time for the critical tasks .
+- **Kernel mode**: A GPOS has a non-preemptive kernel, which means that a high-priority thread cannot preempt a kernel call in a GPOS. A kernel call can block the execution of other threads until it finishes. An RTOS has a preemptive kernel, which means that a high-priority thread can interrupt a kernel call in an RTOS. A kernel call can be suspended and resumed later to allow other threads to run.
+- **Performance**: A GPOS is optimized for high throughput and user experience, but not for meeting strict timing constraints. A GPOS may have unpredictable delays due to factors like paging, swapping, interrupts, etc. An RTOS is optimized for low latency and meeting hard real-time requirements. An RTOS has minimal or no delays due to factors like memory management, synchronization, etc.

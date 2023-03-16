@@ -1,0 +1,22 @@
+### Regular Expressions for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+- Regular expressions (RE) are a language for specifying text search strings .
+- RE are useful for numerous practical day-to-day tasks that a data scientist encounters, such as data pre-processing, rule-based information mining systems, pattern matching, text feature engineering, web scraping, data extraction, etc .
+- RE can be applied in many programming languages like Java, JS, php, C++, etc.
+- RE are composed of a series/sequence of characters that can replace a set of patterns in a text dataset.
+- RE have a specialized syntax held in a pattern that consists of the following building blocks :
+  - Literals: characters that match themselves, such as `a`, `b`, `1`, etc.
+  - Metacharacters: characters that have special meanings, such as `^`, `$`, `.`, `*`, etc.
+  - Character classes: sets of characters that match any one of them, such as `[a-z]`, `[0-9]`, `[aeiou]`, etc.
+  - Alternation: a choice between two or more alternatives, such as `cat|dog`, `(red|green|blue)`, etc.
+  - Grouping: a way to group subexpressions into a single unit, such as `(ab)+`, `([a-z]+)`, etc.
+  - Quantifiers: modifiers that specify how many times a subexpression can occur, such as `?`, `+`, `*`, `{n}`, `{n,m}`, etc.
+  - Anchors: markers that indicate the position of a match, such as `^`, `$`, `\b`, `\B`, etc.
+  - Backreferences: references to previous matched groups, such as `\1`, `\2`, etc.
+  - Escape sequences: sequences that represent special characters, such as `\n`, `\t`, `\\`, etc.
+- RE can be used to perform various operations on text, such as  :
+  - Matching: finding all occurrences of a pattern in a text, such as `re.match()`, `re.search()`, `re.findall()`, etc.
+  - Substitution: replacing all occurrences of a pattern with another string, such as `re.sub()`, `re.subn()`, etc.
+  - Splitting: breaking a text into smaller pieces based on a pattern, such as `re.split()`, etc.
+  - Compilation: creating a reusable RE object that can be applied to multiple texts, such as `re.compile()`, etc.
+  - Flags: modifying the behavior of a RE, such as `re.IGNORECASE`, `re.MULTILINE`, `re.DOTALL`, etc.

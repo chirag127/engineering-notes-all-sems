@@ -1,0 +1,3 @@
+### Types of Analytical Techniques in BI –Descriptive
+
+Descriptive analytics is one of the three types of analytics that businesses use to drive their decision making. It tells us what has already happened . General techniques used in descriptive analytics include data collection, data preparation, exploratory data analysis, data visualization, statistical analysis, and predictive modeling . Descriptive analysis may be done in a variety of ways depending on your objectives, but the process often includes gathering, cleaning, and then evaluating data .

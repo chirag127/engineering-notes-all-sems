@@ -1,0 +1,13 @@
+# Mathematical Foundation of AI, ML and Data Science
+
+Artificial Intelligence (AI), Machine Learning (ML) and Data Science are interdisciplinary fields that use computational methods to analyze data and make predictions, decisions or actions. They rely on various mathematical concepts and techniques to achieve their goals. Some of the main mathematical topics that are relevant for AI, ML and Data Science are:
+
+- **Linear Algebra**: This is the study of vector spaces, matrices, linear transformations, eigenvalues, eigenvectors, singular value decomposition, etc. Linear algebra is useful for manipulating and transforming data, performing dimensionality reduction, solving systems of linear equations, and implementing many ML algorithms such as linear regression, logistic regression, neural networks, support vector machines, etc.
+
+- **Calculus**: This is the study of functions, limits, derivatives, integrals, optimization, etc. Calculus is useful for understanding and analyzing the behavior of functions, finding the optimal values of parameters, computing gradients and rates of change, and implementing many ML algorithms such as gradient descent, backpropagation, stochastic gradient descent, etc.
+
+- **Probability and Statistics**: This is the study of uncertainty, randomness, distributions, sampling, inference, hypothesis testing, etc. Probability and statistics are useful for modeling and quantifying the uncertainty and variability of data, performing data analysis and visualization, estimating parameters and confidence intervals, testing hypotheses and significance, and implementing many ML algorithms such as naive Bayes, decision trees, random forests, k-means clustering, etc.
+
+- **Discrete Mathematics**: This is the study of finite and discrete structures, such as sets, logic, relations, functions, graphs, trees, algorithms, etc. Discrete mathematics is useful for representing and manipulating discrete data, performing logical reasoning and deduction, designing and analyzing algorithms and data structures, and implementing many AI techniques such as search, planning, knowledge representation, etc.
+
+- **Optimization**: This is the study of finding the best or optimal solution to a problem, subject to some constraints. Optimization is useful for formulating and solving many ML and Data Science problems, such as minimizing the error or loss function, maximizing the likelihood or accuracy, finding the optimal trade-off between bias and variance, etc. Optimization techniques include linear programming, quadratic programming, convex optimization, gradient-based methods, etc.

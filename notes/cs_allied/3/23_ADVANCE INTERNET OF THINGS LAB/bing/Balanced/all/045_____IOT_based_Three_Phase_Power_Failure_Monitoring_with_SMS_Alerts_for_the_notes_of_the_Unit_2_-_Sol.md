@@ -1,0 +1,24 @@
+# IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- IOT based Three Phase Power Failure Monitoring with SMS Alerts is a system that monitors the status of three-phase power supply and alerts the authorized person via SMS in case of any failure  .
+- The system consists of the following components:
+  - Three-phase transformer: It converts the high voltage AC power to low voltage AC power for the system.
+  - Voltage sensors: They measure the voltage of each phase and send the data to the microcontroller.
+  - Microcontroller: It processes the data from the voltage sensors and compares it with the predefined threshold values. It also controls the LCD display and the GSM module.
+  - LCD display: It shows the voltage values of each phase and the status of the power supply.
+  - GSM module: It communicates with the mobile phone of the authorized person and sends SMS alerts in case of any failure.
+- The system works as follows:
+  - The three-phase transformer provides low voltage AC power to the system.
+  - The voltage sensors measure the voltage of each phase and send the data to the microcontroller.
+  - The microcontroller processes the data and compares it with the predefined threshold values. If the voltage of any phase is below the threshold, it indicates a power failure in that phase.
+  - The microcontroller then sends a command to the GSM module to send an SMS alert to the authorized person with the details of the failure.
+  - The microcontroller also updates the LCD display with the voltage values and the status of the power supply.
+- The system has the following advantages:
+  - It can detect and report power failures in real time and prevent damage to the equipment and appliances connected to the three-phase power supply.
+  - It can reduce the downtime and maintenance costs of the power supply system.
+  - It can improve the safety and reliability of the power supply system.
+  - It can be easily implemented and configured using IOT devices and GSM technology.
+- The system has the following applications:
+  - It can be used in industrial, commercial, and residential sectors where three-phase power supply is required.
+  - It can be used in remote and rural areas where power supply is unreliable and prone to failures.
+  - It can be used in critical and sensitive areas where power supply is essential and failure can cause serious consequences.

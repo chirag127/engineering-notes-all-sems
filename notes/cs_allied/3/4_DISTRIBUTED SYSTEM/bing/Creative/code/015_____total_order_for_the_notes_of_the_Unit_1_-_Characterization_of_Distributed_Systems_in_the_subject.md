@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some information on the topic of total order for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM.
+
+### Total order
+
+- A distributed system is a collection of independent entities that communicate by message passing.
+- A distributed system is said to have **partial order** if we can have a **partial order relationship** among the events in the system. A partial order relationship is a binary relation that is **reflexive**, **antisymmetric**, and **transitive**. For example, if A and B are events in a distributed system, and A happens before B, then A is partially ordered with respect to B.
+- If **totality**, i.e., causal relationship among all events in the system, can be established, then the system is said to have **total order**. A total order relationship is a partial order relationship that is also **linear**, meaning that for any two events A and B in the system, either A happens before B, or B happens before A, or A and B are concurrent. For example, if A and B are events in a distributed system, and A and B are causally related, then A is totally ordered with respect to B.
+- Total order is very useful for distributed system implementation, as it can help ensure consistency, coordination, and agreement among the entities in the system. For example, if a system has a shared resource that can be used by only one entity at a time, then a total order can help determine which entity has the priority to access the resource.
+- One way to implement total order in a distributed system is to use **Lamport timestamps**. Lamport timestamps are logical clocks that assign a numerical value to each event in the system, based on the partial order relationship. The value of a Lamport timestamp is determined by the following rules:
+  - Each entity in the system maintains a counter that is initialized to zero.
+  - Whenever an entity performs an internal event, it increments its counter by one and assigns the new value to the event as its timestamp.
+  - Whenever an entity sends a message, it increments its counter by one and assigns the new value to the message as its timestamp.
+  - Whenever an entity receives a message, it updates its counter to the maximum of its current value and the timestamp of the message, and then increments it by one and assigns the new value to the receive event as its timestamp.
+- Lamport timestamps can be used to create a total order of events in a distributed system by using some arbitrary mechanism to break ties (e.g. the ID of the entity). For example, if A and B are events in a distributed system, and they have the same Lamport timestamp, then we can use the ID of the entity that performed the event to decide which event happens before the other. This way, we can establish a linear order among all events in the system.

@@ -1,0 +1,31 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- This is a system that uses Internet of Things (IoT) technology to automate the process of Covid-19 testing in a contactless and safe manner.
+- The system consists of the following components:
+  - A microcontroller that acts as the heart of the project and controls the other devices.
+  - A RFID reader and a RFID tag that are used to identify and register the person who wants to get tested.
+  - A GSM modem that sends the test results and the person's details to a central database via SMS.
+  - A MATLAB software that analyzes the test results and generates a QR code that contains the person's status (positive or negative).
+  - A thermal printer that prints the QR code and a receipt for the person.
+  - A swab stick and a test kit that are used to collect and process the sample from the person's nose or throat.
+  - A servo motor that moves the swab stick according to the person's position and distance.
+  - A buzzer and a LED that indicate the start and end of the testing process.
+  - A LCD display that shows the instructions and the test results to the person.
+- The system works as follows:
+  - The person scans their RFID tag at the RFID reader and enters the booth.
+  - The microcontroller verifies the person's details and displays them on the LCD screen.
+  - The person follows the instructions on the LCD screen and positions themselves in front of the swab stick.
+  - The microcontroller activates the servo motor and moves the swab stick to the person's nose or throat and collects the sample.
+  - The microcontroller transfers the sample to the test kit and waits for the test results.
+  - The microcontroller sends the test results and the person's details to the MATLAB software via serial communication.
+  - The MATLAB software analyzes the test results and generates a QR code that contains the person's status (positive or negative).
+  - The microcontroller receives the QR code from the MATLAB software and sends it to the thermal printer via serial communication.
+  - The thermal printer prints the QR code and a receipt for the person.
+  - The microcontroller activates the buzzer and the LED to indicate the end of the testing process.
+  - The person exits the booth and scans the QR code at a scanner to verify their status.
+- The advantages of this system are:
+  - It reduces the risk of infection and cross-contamination among the testers and the tested persons.
+  - It reduces the human errors and delays in the testing process.
+  - It increases the efficiency and accuracy of the testing process.
+  - It provides a digital record and a proof of the test results for the tested persons.
+  - It can be easily deployed and managed in large group spaces such as workplaces, schools, airports, etc.

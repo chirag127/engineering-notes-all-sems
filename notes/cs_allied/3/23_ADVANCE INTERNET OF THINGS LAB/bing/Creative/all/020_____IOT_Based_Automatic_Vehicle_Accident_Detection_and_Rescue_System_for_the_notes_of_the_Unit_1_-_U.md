@@ -1,0 +1,21 @@
+# IOT Based Automatic Vehicle Accident Detection and Rescue System
+
+- This system is a smart solution that can detect vehicle accidents and communicate the location and severity of the incident to the emergency services or rescue teams via SMS, web applications, or Android mobile applications.
+- The system consists of the following components:
+  - A vibration sensor that is attached to the vehicle and produces a digital pulse output when an accident or collision occurs. The sensor can be calibrated using a potentiometer to set the threshold of detection.
+  - A GPS module that can obtain the latitude and longitude coordinates of the vehicle's location using satellite signals.
+  - A WiFi module that can connect to the internet and send the accident information to a web server or a cloud platform such as Firebase or ThingSpeak.
+  - An Arduino Nano microcontroller that can process the sensor data and control the WiFi module.
+  - A power supply unit that can provide the required voltage and current to the system.
+  - An optional LCD display that can show the status of the system and the accident information.
+- The system works as follows:
+  - When the vibration sensor detects an accident, it sends a signal to the Arduino Nano.
+  - The Arduino Nano then activates the GPS module and obtains the location coordinates of the vehicle.
+  - The Arduino Nano also sends a command to the WiFi module to connect to the internet and upload the accident information to the web server or the cloud platform.
+  - The web server or the cloud platform then sends a notification to the registered rescue team or emergency service via SMS, web application, or Android mobile application.
+  - The rescue team or emergency service can then access the accident information and the location coordinates from the web server or the cloud platform and respond accordingly.
+- The advantages of this system are:
+  - It can reduce the response time and save lives by providing accurate and timely information to the rescue team or emergency service.
+  - It can reduce the human error and manual intervention by automating the accident detection and communication process.
+  - It can utilize the existing IoT infrastructure and technologies such as GPS, WiFi, web server, cloud platform, etc.
+  - It can be easily implemented and customized for different vehicles and scenarios.

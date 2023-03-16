@@ -1,0 +1,10 @@
+### Digital device forensics
+
+Digital device forensics is a branch of forensic science that deals with the recovery, investigation, examination and analysis of material found in digital devices, often in relation to mobile devices and computer crime.
+
+Some of the topics covered in this unit are:
+
+- **Digital evidence**: This refers to any data that can be useful in an investigation, such as location, communications, web searches, application usage, etc. Digital evidence can be found on various types of digital devices, such as computers, smartphones, smart appliances, vehicle navigation systems, electronic door locks, etc. Digital evidence can be volatile or non-volatile, depending on whether it is stored in memory or on a disk .
+- **Digital forensics process**: This is the systematic approach to collecting, preserving, analyzing and presenting digital evidence in a legally acceptable manner. The digital forensics process typically consists of four phases: identification, acquisition, examination and reporting. Each phase has its own challenges, tools and techniques .
+- **Digital forensics tools**: These are the software and hardware tools that help forensic examiners perform various tasks in the digital forensics process, such as imaging, hashing, carving, searching, recovering, decrypting, etc. Digital forensics tools can be classified into general-purpose tools, which can be used for multiple types of digital devices, and specific-purpose tools, which are designed for a particular type of digital device or data.
+- **Digital forensics types**: These are the sub-disciplines of digital forensics that focus on a specific type of digital device or data, such as computer forensics, mobile forensics, network forensics, cloud forensics, database forensics, etc. Each type of digital forensics has its own challenges, methods and standards.

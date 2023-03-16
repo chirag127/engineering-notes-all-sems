@@ -1,0 +1,22 @@
+### Relations between Senses
+
+- Senses are the meanings of words or expressions in a given context or situation.
+- Semantics is the study of the relations between senses and the objects or concepts they refer to.
+- Pragmatics is the study of the relations between senses and the users or contexts of language.
+- There are different types of relations between senses, such as:
+  - Synonymy: when two or more senses have the same or very similar meaning, e.g. big and large, sofa and couch, happy and glad.
+  - Antonymy: when two senses have opposite or contrasting meanings, e.g. hot and cold, up and down, true and false.
+  - Hyponymy: when one sense is more specific or included in another sense, e.g. rose and flower, dog and animal, red and color.
+  - Meronymy: when one sense is a part or component of another sense, e.g. finger and hand, wheel and car, chapter and book.
+  - Homonymy: when two or more senses have the same form but different meanings, e.g. bank (financial institution) and bank (river side), bat (animal) and bat (sport equipment), date (fruit) and date (calendar day).
+  - Polysemy: when one sense has multiple related meanings, e.g. head (body part) and head (leader), foot (body part) and foot (unit of measurement), eye (organ) and eye (hole in a needle).
+- Relations between senses can be studied at different levels of language, such as:
+  - Lexical: the relations between the senses of individual words, e.g. synonyms, antonyms, hyponyms, etc.
+  - Phrasal: the relations between the senses of phrases or combinations of words, e.g. idioms, metaphors, collocations, etc.
+  - Sentential: the relations between the senses of sentences or clauses, e.g. entailment, implication, contradiction, etc.
+  - Discourse: the relations between the senses of larger units of language, such as paragraphs, texts, conversations, etc., e.g. coherence, cohesion, relevance, etc.
+- Relations between senses are influenced by various factors, such as:
+  - Context: the situation or environment in which language is used, e.g. time, place, speaker, listener, purpose, etc.
+  - Culture: the shared beliefs, values, norms, and practices of a group of people, e.g. religion, ethnicity, nationality, etc.
+  - World knowledge: the general or specific information that a speaker or listener has about the world, e.g. facts, opinions, experiences, etc.
+  - Inference: the process of deriving or drawing conclusions from the available information, e.g. logic, reasoning, evidence, etc.

@@ -1,0 +1,11 @@
+### RPL for the notes of the Unit 3 - IOT Data Link Layer & Network Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The network layer is divided into two sublayers: routing layer which handles the transfer of packets from source to destination, and an encapsulation layer that forms the packets  .
+- RPL stands for Routing Protocol for Low-Power and Lossy Network. It is a routing protocol designed for low-power and lossy networks (LLNs), which are resource-constrained networks that have high packet loss, low bandwidth, and dynamic topology   .
+- RPL constructs a tree-like structure for the data transmission, called a Destination Oriented Directed Acyclic Graph (DODAG). A DODAG is a directed graph that has no cycles and has a single root node, which is the destination of the data packets   .
+- RPL uses an objective function (OF) to select the best path for the data packets based on certain metrics and constraints, such as hop count, latency, energy consumption, link quality, etc. The OF is defined by the network administrator or the application requirements   .
+- RPL supports both upward and downward routing. Upward routing is from the leaf nodes to the root node, and downward routing is from the root node to the leaf nodes. RPL uses two types of messages for the routing process: control messages and data messages   .
+- RPL control messages are used to discover, maintain, and repair the DODAG. They include DODAG Information Object (DIO), DODAG Information Solicitation (DIS), Destination Advertisement Object (DAO), and Destination Advertisement Object Acknowledgment (DAO-ACK)   .
+- RPL data messages are used to carry the application data from the source to the destination. They include IPv6 packets with RPL Option (RPL-OPT) and RPL Source Routing Header (RPL-SRH)   .
+- RPL has several advantages, such as scalability, adaptability, energy efficiency, and support for multiple traffic patterns. However, it also has some drawbacks, such as overhead, complexity, security issues, and performance degradation .
+- RPL is one of the standard network layer protocols for IoT applications. It is compatible with IPv6 and 6LoWPAN, which are the encapsulation protocols for the network layer. It is also suitable for various IoT scenarios, such as smart grid, smart city, smart home, etc  .

@@ -1,0 +1,11 @@
+### Interrupt management in RTOS environment
+
+- Interrupts are events that occur asynchronously and require immediate attention from the processor.
+- Interrupts can be triggered by external devices, such as sensors, timers, or communication interfaces, or by internal sources, such as software exceptions or system calls.
+- Interrupts can improve the responsiveness and efficiency of an embedded system, but they can also introduce challenges for the real-time operating system (RTOS) and the application.
+- Interrupt management in RTOS environment involves the following aspects:
+
+  - Interrupt service routines (ISRs): These are the functions that are executed when an interrupt occurs. They should be short and simple, and avoid blocking or calling RTOS services that may cause context switches or delays. ISRs can communicate with other threads, such as tasks, using mechanisms such as semaphores, queues, or event flags .
+  - Interrupt priority: This is the relative importance of an interrupt compared to other interrupts and threads. Higher priority interrupts can preempt lower priority ones, and can also preempt the RTOS scheduler and tasks. Interrupt priority should be carefully assigned to avoid priority inversion, starvation, or deadlock .
+  - Interrupt latency: This is the time between the occurrence of an interrupt and the execution of the corresponding ISR. Interrupt latency can be affected by factors such as the processor architecture, the interrupt controller, the RTOS interrupt dispatcher, and the nesting and masking of interrupts. Interrupt latency should be minimized and bounded to meet the real-time requirements of the system .
+  - Interrupt load: This is the amount of processor time consumed by the interrupts. Interrupt load can be measured by the interrupt frequency, the interrupt duration, and the interrupt overhead. Interrupt load should be balanced with the processor utilization and the task deadlines to avoid overloading the system or degrading the performance .

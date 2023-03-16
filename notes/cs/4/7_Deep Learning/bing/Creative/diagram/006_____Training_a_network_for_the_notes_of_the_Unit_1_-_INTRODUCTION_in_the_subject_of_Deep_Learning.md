@@ -1,0 +1,13 @@
+### Training a network for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+- Deep learning is a subfield of machine learning that deals with algorithms inspired by the structure and function of the brain.
+- Deep learning is a subset of machine learning, which is a part of artificial intelligence (AI). Artificial intelligence is the ability of a machine to imitate intelligent human behavior.
+- Deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as a nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.
+- Deep learning is a modern variation that is concerned with an unbounded number of layers of bounded size, which permits practical application and optimized implementation, while retaining theoretical universality under mild conditions.
+- Deep learning is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
+- Deep learning is not a competitive technology to the machine learning domain, but rather a complementary one that offers advantages in certain applications, such as computer vision, natural language processing, speech recognition, etc.
+- To train a deep learning network, one needs to define the architecture of the network, such as the number and type of layers, the activation functions, the loss function, the optimizer, etc.
+- The network is then fed with input data and corresponding labels, and the network learns to adjust its weights and biases to minimize the loss function, which measures the difference between the network's output and the desired output.
+- The network is trained using a technique called backpropagation, which calculates the gradients of the loss function with respect to the weights and biases, and updates them using the optimizer, such as stochastic gradient descent, Adam, etc.
+- The network is usually trained on a subset of the data, called the training set, and evaluated on another subset, called the validation set, to monitor the performance and avoid overfitting or underfitting.
+- The network is finally tested on a third subset, called the test set, to measure its generalization ability on unseen data.

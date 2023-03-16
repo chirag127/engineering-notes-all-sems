@@ -1,0 +1,10 @@
+# ETL Process – Role of ETL for BI
+
+ETL stands for Extract, Transform, and Load. It is a process of collecting data from various sources, manipulating it according to business rules, and loading it into a data warehouse or other destination data store. ETL is the backbone of Business Intelligence (BI) systems, as it enables data analysis and visualization for decision making and problem solving. 
+
+Some of the roles of ETL for BI are:
+
+- Data integration: ETL integrates data from disparate sources, such as databases, files, web services, APIs, etc. into a common format and structure. This ensures data consistency and quality across the BI system.
+- Data transformation: ETL applies various transformations to the data, such as filtering, sorting, aggregating, joining, splitting, cleansing, validating, etc. These transformations are based on the business logic and requirements of the BI system. They help to enhance the data and make it suitable for analysis and reporting.
+- Data loading: ETL loads the transformed data into a data warehouse or other destination data store, such as a data lake, a data mart, or a BI tool. The data loading can be done in batches or in real time, depending on the data volume and frequency. The data loading also involves indexing, partitioning, and compressing the data for optimal performance and storage.
+- Data extraction: ETL extracts data from the data warehouse or other destination data store for further analysis and visualization. The data extraction can be done using various BI tools, such as Power BI, Tableau, Qlik, etc. The data extraction can also be done using SQL queries or other programming languages, such as Python, R, etc. The data extraction allows the users to access and explore the data, generate reports and dashboards, and derive insights and actions.

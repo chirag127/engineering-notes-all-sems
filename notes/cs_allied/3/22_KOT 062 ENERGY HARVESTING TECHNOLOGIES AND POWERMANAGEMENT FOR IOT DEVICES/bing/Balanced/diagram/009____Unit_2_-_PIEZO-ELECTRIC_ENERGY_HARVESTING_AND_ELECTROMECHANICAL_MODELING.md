@@ -1,0 +1,17 @@
+## Unit 2 - Piezoelectric Energy Harvesting and Electromechanical Modeling
+
+- Piezoelectric energy harvesting is the process of converting mechanical vibrations into electrical energy using piezoelectric materials, which exhibit a voltage response when subjected to mechanical stress or strain  .
+- Piezoelectric energy harvesters can be used to power low-power devices such as wireless sensors, microelectromechanical systems (MEMS), and biomedical implants, by scavenging energy from ambient sources such as wind, waves, traffic, human motion, etc  .
+- Electromechanical modeling of piezoelectric energy harvesters is essential for understanding their dynamic behavior, optimizing their performance, and designing efficient power management circuits  .
+- Electromechanical models can be classified into lumped-parameter models and distributed-parameter models, depending on the level of detail and accuracy required  .
+- Lumped-parameter models treat the piezoelectric energy harvester as a single-degree-of-freedom (SDOF) or a multi-degree-of-freedom (MDOF) system, with equivalent mass, stiffness, damping, and electromechanical coupling coefficients  .
+- Lumped-parameter models are simple, easy to implement, and suitable for low-frequency applications, but they neglect the effects of higher modes, geometric nonlinearity, and material anisotropy  .
+- Distributed-parameter models treat the piezoelectric energy harvester as a continuous system, such as a beam, a plate, or a shell, with partial differential equations (PDEs) governing the coupled mechanical and electrical fields  .
+- Distributed-parameter models are more accurate, general, and versatile, but they require more computational effort and mathematical complexity, and they may need numerical methods or analytical approximations for solving the PDEs  .
+- Distributed-parameter models can account for various forms of excitation, such as base excitation, tip force, distributed load, fluid flow, etc., and various boundary conditions, such as clamped, simply supported, free, etc  .
+- Distributed-parameter models can also capture the nonlinear phenomena, such as large deformation, buckling, snap-through, hysteresis, etc., that may occur in piezoelectric energy harvesters under high-amplitude excitation  .
+- Distributed-parameter models can be derived using different approaches, such as the Euler-Bernoulli beam theory, the Timoshenko beam theory, the Kirchhoff plate theory, the Mindlin plate theory, the Hamilton's principle, the Lagrange's equation, the Rayleigh-Ritz method, the Galerkin method, the finite element method, etc   .
+- The choice of the modeling approach depends on the geometry, material, configuration, and application of the piezoelectric energy harvester   .
+- The output of the electromechanical model is usually the voltage, current, power, or efficiency of the piezoelectric energy harvester, as a function of the frequency, amplitude, or waveform of the excitation   .
+- The output can be used to evaluate the performance of the piezoelectric energy harvester, compare different designs or materials, and optimize the parameters or the load resistance for maximum power output   .
+- The output can also be used to design and test power management circuits, such as rectifiers, regulators, converters, or storage devices, that can efficiently harvest, store, and deliver the electrical energy to the load   .

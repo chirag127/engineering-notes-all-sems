@@ -1,0 +1,8 @@
+### Chebyshev’s inequality
+
+- Chebyshev’s inequality is a mathematical theorem that relates the mean, the standard deviation, and the probability of a random variable.
+- It states that for any random variable X with a finite mean μ and a finite positive standard deviation σ, the probability that X is more than k standard deviations away from the mean is at most 1/k^2, where k is any positive number.
+- In other words, P(|X - μ| ≥ kσ) ≤ 1/k^2 for any k > 0.
+- Chebyshev’s inequality is useful because it applies to any probability distribution, regardless of its shape or parameters. It provides a lower bound on how much of the data is concentrated near the mean.
+- Chebyshev’s inequality can be used to estimate the range of values that contain a certain percentage of the data. For example, if we want to find the range that contains at least 75% of the data, we can set k = 2 and solve for 1/k^2 = 0.25. This gives us k = 2, which means that the range [μ - 2σ, μ + 2σ] contains at least 75% of the data. Similarly, if we want to find the range that contains at least 89% of the data, we can set k = 3 and solve for 1/k^2 = 0.11. This gives us k = 3, which means that the range [μ - 3σ, μ + 3σ] contains at least 89% of the data.
+- Chebyshev’s inequality is a general result that does not depend on the specific shape of the distribution. However, for some distributions, such as the normal distribution, the actual probabilities of being within a certain number of standard deviations from the mean are much higher than the bounds given by Chebyshev’s inequality. Therefore, Chebyshev’s inequality should be seen as a conservative estimate that can be improved by using more information about the distribution.

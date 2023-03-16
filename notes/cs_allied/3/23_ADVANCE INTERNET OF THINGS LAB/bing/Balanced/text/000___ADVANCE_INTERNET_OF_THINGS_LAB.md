@@ -1,0 +1,28 @@
+# ADVANCED INTERNET OF THINGS LAB
+
+- The Advanced Internet of Things Lab is a course that aims to provide students with the knowledge and skills to design, implement, and evaluate IoT applications and systems.
+- The course covers the following topics:
+  - IoT concepts, architectures, and protocols
+  - IoT devices, sensors, and actuators
+  - IoT communication technologies, such as WiFi, Bluetooth, ZigBee, LoRa, and 5G
+  - IoT cloud platforms, such as AWS IoT, Azure IoT, and Google Cloud IoT
+  - IoT data processing, analytics, and visualization
+  - IoT security, privacy, and ethics
+  - IoT applications and use cases, such as smart home, smart city, smart health, and smart agriculture
+- The course consists of lectures, tutorials, and laboratory sessions, where students will work on hands-on projects using various IoT hardware and software tools.
+- The course assessment will be based on the following components:
+  - Lab assignments (40%)
+  - Midterm exam (20%)
+  - Final project (30%)
+  - Class participation (10%)
+- The course prerequisites are:
+  - Basic knowledge of computer networks, such as TCP/IP, HTTP, and sockets
+  - Basic knowledge of programming, such as Python, C, or Java
+  - Basic knowledge of electronics, such as Arduino, Raspberry Pi, or ESP32
+- The course learning outcomes are:
+  - Understand the principles, challenges, and opportunities of IoT
+  - Identify and compare different IoT devices, technologies, and platforms
+  - Design and implement IoT solutions using various hardware and software components
+  - Analyze and visualize IoT data using appropriate tools and techniques
+  - Evaluate and improve the performance, security, and usability of IoT systems
+  - Apply IoT concepts and skills to real-world problems and scenarios

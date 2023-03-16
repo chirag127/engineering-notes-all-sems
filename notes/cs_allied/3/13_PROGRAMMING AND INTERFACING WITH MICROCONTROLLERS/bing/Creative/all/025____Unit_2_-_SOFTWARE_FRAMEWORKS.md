@@ -1,0 +1,21 @@
+## Unit 2 - SOFTWARE FRAMEWORKS
+
+- A software framework is a reusable set of libraries or classes that provide a standard way to perform a specific task or implement a solution to a common problem.
+- A software framework differs from a software library in that it defines the overall structure and flow of control of an application, while a library provides specific functionality that can be used by any program.
+- A software framework typically consists of the following components:
+  - A core or kernel that defines the basic functionality and interfaces of the framework.
+  - A set of modules or extensions that provide additional features or services that can be plugged into the core.
+  - A set of tools or utilities that facilitate the development, testing, debugging, and deployment of applications based on the framework.
+- A software framework can provide the following benefits to developers and users:
+  - It reduces the amount of code that needs to be written and maintained, as the framework provides common functionality and best practices.
+  - It increases the quality and reliability of the code, as the framework has been tested and verified by many users and developers.
+  - It enhances the productivity and efficiency of the developers, as they can focus on the specific requirements and logic of their applications, rather than on the low-level details and implementation issues.
+  - It promotes the reuse and interoperability of the code, as the framework follows a standard design and architecture that can be easily integrated with other frameworks or applications.
+  - It facilitates the evolution and maintenance of the code, as the framework can be updated or extended without affecting the existing applications that use it.
+- Some examples of popular software frameworks are:
+  - Java Platform, Enterprise Edition (Java EE) - a framework for developing and running enterprise applications that use the Java programming language and various technologies such as servlets, JavaServer Pages (JSP), Enterprise JavaBeans (EJB), Java Message Service (JMS), Java Database Connectivity (JDBC), Java Persistence API (JPA), Java Transaction API (JTA), Java Naming and Directory Interface (JNDI), Java Authentication and Authorization Service (JAAS), JavaMail, JavaBeans Activation Framework (JAF), Java API for XML Processing (JAXP), Java API for XML Web Services (JAX-WS), Java API for RESTful Web Services (JAX-RS), Java API for JSON Processing (JSON-P), Java API for WebSocket (JSR 356), and JavaServer Faces (JSF).
+  - .NET Framework - a framework for developing and running applications that use various programming languages such as C#, Visual Basic .NET, F#, and C++/CLI, and various technologies such as Windows Forms, Windows Presentation Foundation (WPF), Windows Communication Foundation (WCF), Windows Workflow Foundation (WF), Windows Identity Foundation (WIF), ASP.NET, ASP.NET MVC, ASP.NET Web API, ASP.NET SignalR, Entity Framework, LINQ, ADO.NET, Windows Azure, and Windows Store.
+  - Ruby on Rails - a framework for developing and running web applications that use the Ruby programming language and various technologies such as ActiveRecord, ActionPack, ActionView, ActionMailer, ActiveJob, ActiveModel, ActiveSupport, and Sprockets.
+  - Django - a framework for developing and running web applications that use the Python programming language and various technologies such as models, views, templates, forms, authentication, administration, caching, sessions, messages, middleware, signals, and testing.
+  - Laravel - a framework for developing and running web applications that use the PHP programming language and various technologies such as Eloquent, Blade, Artisan, Homestead, Valet, Forge, Envoy, Cashier, Passport, Scout, Socialite, and Spark.
+  - Spring - a framework for developing and running enterprise applications that use the Java programming language and various technologies such as Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, Spring Integration, Spring Web Services, Spring WebFlux, Spring AMQP, Spring for Android, and Spring Social.

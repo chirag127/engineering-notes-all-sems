@@ -1,0 +1,13 @@
+### Open Source Platforms for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the field of technology that integrates computing devices into clothing or accessories that can be worn by humans. Wearable computing can enable applications such as health monitoring, fitness tracking, augmented reality, virtual reality, and smart clothing.
+- Mixed reality is the blending of physical and digital worlds, where real and virtual objects coexist and interact in real time. Mixed reality can enable applications such as immersive gaming, education, training, and entertainment.
+- Internet of everything is the concept of connecting people, data, processes, and things through the internet, creating a network of networks that can enable new insights, opportunities, and solutions. Internet of everything can enable applications such as smart cities, smart homes, smart agriculture, and smart manufacturing.
+
+Some of the open source platforms that can be used for developing wearable computing, mixed reality, and internet of everything applications are:
+
+- **Open Source Virtual Reality (OSVR)**: This is an open-source software project that aims to enable headsets and game controllers from all vendors to be used with any games developed by Razer and Sensics. It is also a virtual reality headset that claims to be open-source hardware using the OSVR software.
+- **Open Source Platforms for AR and VR**: These are various open source software tools and frameworks that can be used for creating augmented reality and virtual reality applications. Some examples are ARToolKit, A-Frame, WebXR, Vuforia, and Unity.
+- **Azure IoT**: This is a cloud platform that provides a set of services and tools for building and managing internet of things solutions. It supports various protocols, devices, and operating systems, and enables data analysis, digital twins, mixed reality, and autonomous systems.
+- **Snap**: This is a social media company that offers various products and features that leverage augmented reality and wearable computing. Some examples are Snapchat, Spectacles, Bitmoji, and Lens Studio.
+- **XR**: This is a term that encompasses all the forms of immersive technologies, such as virtual reality, augmented reality, and mixed reality. It can also refer to the hardware and software that enable these experiences, such as headsets, controllers, and platforms.

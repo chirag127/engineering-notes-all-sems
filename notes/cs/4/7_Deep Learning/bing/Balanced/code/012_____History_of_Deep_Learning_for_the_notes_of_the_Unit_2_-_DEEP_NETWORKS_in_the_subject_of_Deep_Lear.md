@@ -1,0 +1,24 @@
+### History of Deep Learning
+
+- Deep learning is a branch of machine learning that uses artificial neural networks to learn from data and perform tasks such as classification, regression, generation, etc.
+- The term deep learning was introduced by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.
+- The history of deep learning can be traced back to 1943, when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain. They used a combination of algorithms and mathematics they called “threshold logic” to mimic the thought process.
+- In 1950, Alan Turing predicted the future existence of a supercomputer with human-like intelligence and proposed a test to evaluate it, known as the Turing test.
+- In 1957, Frank Rosenblatt developed the perceptron, a single-layer neural network that could learn to classify linearly separable patterns.
+- In 1965, Alexey Ivakhnenko and Valentin Lapa published the first general, working learning algorithm for supervised deep feedforward multilayer perceptrons.
+- In 1969, Marvin Minsky and Seymour Papert published a book called Perceptrons, which showed the limitations of single-layer neural networks and discouraged further research in the field.
+- In 1974, Paul Werbos proposed the backpropagation algorithm, which could efficiently train multi-layer neural networks by adjusting the weights using the gradient of the error function.
+- In 1980, Kunihiko Fukushima proposed the neocognitron, a hierarchical neural network that could recognize handwritten digits and other patterns.
+- In 1986, Geoffrey Hinton, David Rumelhart and Ronald Williams popularized the backpropagation algorithm and demonstrated its applications to various tasks such as speech recognition, computer vision, natural language processing, etc.
+- In 1989, Yann LeCun, Leon Bottou, Yoshua Bengio and Patrick Haffner developed LeNet-5, a convolutional neural network that could recognize handwritten digits and was used by the US Postal Service.
+- In 1997, Long Short-Term Memory (LSTM), a recurrent neural network that could learn long-term dependencies, was proposed by Sepp Hochreiter and Jürgen Schmidhuber.
+- In 2006, Geoffrey Hinton, Simon Osindero and Yee-Whye Teh introduced the concept of deep belief networks, which could learn multiple layers of features from unlabeled data using a greedy layer-wise pre-training strategy.
+- In 2009, Andrew Ng and his team at Stanford University used deep learning to train a system that could detect objects in images, such as cars, pedestrians, etc.
+- In 2012, Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a large margin using a deep convolutional neural network called AlexNet, which had 60 million parameters and 650,000 neurons.
+- In 2014, Ian Goodfellow and his colleagues proposed generative adversarial networks (GANs), which could generate realistic images from random noise using a game-theoretic framework.
+- In 2015, Google DeepMind developed AlphaGo, a deep reinforcement learning system that could beat the world champion of Go, a complex board game.
+- In 2017, Google Translate switched to a neural machine translation system that could translate between any pair of languages without using intermediate steps.
+- In 2018, OpenAI developed GPT-2, a large-scale language model that could generate coherent and diverse texts on various topics.
+- In 2019, Google Research developed BERT, a bidirectional encoder representations from transformers model that achieved state-of-the-art results on several natural language understanding tasks.
+- In 2020, OpenAI released GPT-3, a massive language model with 175 billion parameters that could perform various natural language tasks such as answering questions, writing essays, composing emails, etc.
+- In 2021, DeepMind developed AlphaFold 2, a deep learning system that could predict the 3D structure of proteins with high accuracy, which could have implications for drug discovery, biotechnology, etc.

@@ -1,0 +1,22 @@
+# IOT Smart Parking Using RFID
+
+- IOT (Internet of Things) is the interconnection of physical devices, sensors, and actuators over the internet to exchange data and perform tasks.
+- RFID (Radio Frequency Identification) is a technology that uses radio waves to identify objects by attaching tags to them. Tags contain a unique identifier and some data that can be read by a reader device.
+- IOT Smart Parking Using RFID is a system that aims to improve the efficiency and convenience of parking management by using RFID tags and readers to monitor the availability and occupancy of parking spaces.
+- The system consists of the following components:
+  - RFID tags: These are attached to the vehicles or the entry cards of the users. They store the vehicle or user information and communicate with the RFID readers.
+  - RFID readers: These are installed at the entry and exit points of the parking area. They scan the RFID tags and send the data to the central server.
+  - Central server: This is the main controller of the system. It receives the data from the RFID readers and updates the database of the parking status. It also communicates with the mobile app and the display boards.
+  - Mobile app: This is an application that allows the users to check the availability of parking spaces, reserve a slot, pay the parking fee, and get directions to the parking area.
+  - Display boards: These are electronic boards that show the number of vacant and occupied parking spaces in the parking area. They also guide the users to their reserved slots.
+- The system works as follows:
+  - When a user arrives at the parking area, the RFID reader scans the RFID tag of the vehicle or the entry card and sends the data to the central server.
+  - The central server checks the database and assigns a parking slot to the user. It also updates the display boards and the mobile app with the parking status.
+  - The user can use the mobile app to reserve a slot, pay the parking fee, and get directions to the parking area.
+  - When the user leaves the parking area, the RFID reader scans the RFID tag again and sends the data to the central server.
+  - The central server updates the database and the display boards and the mobile app with the parking status. It also calculates the parking duration and the parking fee for the user.
+- The benefits of the system are:
+  - It reduces the parking search time and traffic congestion by providing real-time information and guidance to the users.
+  - It optimizes the parking space utilization by allocating the slots according to the demand and availability.
+  - It enhances the security and safety of the vehicles and the users by using RFID tags and readers to identify and monitor them.
+  - It improves the user experience and satisfaction by offering convenience and flexibility in parking management.

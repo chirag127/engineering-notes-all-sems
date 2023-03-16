@@ -1,0 +1,15 @@
+# Trojans and Backdoors
+
+- Trojans and backdoors are two types of malicious software (malware) that can compromise the security and integrity of a computer system.
+- A trojan is a malware that disguises itself as a legitimate program or file, and tricks the user into running it. Once executed, the trojan can perform various malicious actions, such as stealing data, installing other malware, or opening a backdoor for remote access  .
+- A backdoor is a malware that creates a hidden or unauthorized entry point to a computer system, allowing remote attackers to gain control or access to the system. A backdoor can be installed by a trojan, or by exploiting a vulnerability in the system .
+- Trojans and backdoors pose a serious threat to cyber security, as they can compromise the confidentiality, integrity, and availability of the system and its data. They can also be used to launch further attacks, such as distributed denial-of-service (DDoS), ransomware, or botnet  .
+- Cyber forensics is the discipline of collecting, analyzing, and presenting digital evidence related to cyber crimes or incidents. Cyber forensics can help identify, investigate, and prosecute the perpetrators of trojans and backdoors, as well as recover and protect the affected systems and data.
+- Some of the techniques and tools used in cyber forensics to deal with trojans and backdoors are:
+
+  - Static and dynamic malware analysis: This involves examining the code and behavior of the malware, using tools such as disassemblers, debuggers, sandboxes, and virtual machines, to understand its functionality, origin, and purpose.
+  - Network traffic analysis: This involves monitoring and capturing the network packets sent and received by the malware, using tools such as Wireshark, tcpdump, or Nmap, to identify its communication protocol, destination, and payload.
+  - Memory forensics: This involves analyzing the contents of the system's volatile memory (RAM), using tools such as Volatility, Rekall, or FTK Imager, to detect and extract the malware's artifacts, such as processes, files, registry keys, or strings.
+  - File system forensics: This involves examining the structure and content of the system's non-volatile storage (hard disk, flash drive, etc.), using tools such as Autopsy, Sleuth Kit, or EnCase, to locate and recover the malware's files, timestamps, metadata, or traces.
+  - Registry forensics: This involves analyzing the Windows registry, which stores various configuration and operational data for the system and its applications, using tools such as RegRipper, Registry Explorer, or RegShot, to identify and extract the malware's entries, values, or modifications.
+  - Log analysis: This involves reviewing the system's and application's log files, which record various events and activities, using tools such as Log Parser, Log2Timeline, or Splunk, to correlate and reconstruct the malware's timeline, actions, or impact.

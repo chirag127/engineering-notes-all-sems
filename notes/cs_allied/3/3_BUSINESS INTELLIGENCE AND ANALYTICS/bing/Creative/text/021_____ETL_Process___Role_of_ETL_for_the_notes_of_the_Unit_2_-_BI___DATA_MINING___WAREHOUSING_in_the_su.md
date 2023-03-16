@@ -1,0 +1,15 @@
+### ETL Process – Role of ETL for the notes of the Unit 2 - BI – DATA MINING & WAREHOUSING in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- ETL stands for **Extract, Transform and Load**, and it is a data integration process that combines data from multiple data sources into a single, consistent data store that is loaded into a data warehouse or other target system .
+- ETL is a key component of **business intelligence and analytics** as it enables data to be collected, cleaned, transformed and integrated for analysis and reporting purposes.
+- ETL consists of three main phases:
+  - **Extract**: Data is extracted from one or more data sources, such as databases, files, web services, APIs, etc. The extraction process can involve different methods, such as full extraction, incremental extraction, change data capture, etc. The extracted data is usually stored in a staging area for further processing  .
+  - **Transform**: Data is transformed according to the business rules and requirements of the target system. The transformation process can involve various operations, such as filtering, sorting, joining, splitting, aggregating, validating, cleansing, enriching, standardizing, etc. The transformed data is usually stored in another staging area or directly loaded into the target system  .
+  - **Load**: Data is loaded into the target system, such as a data warehouse, data store or data lake. The loading process can involve different methods, such as bulk loading, batch loading, streaming loading, etc. The loaded data is usually organized in a dimensional or relational model for analysis and reporting purposes  .
+- ETL plays a vital role in **data mining and warehousing** as it enables data to be prepared and integrated for mining and warehousing applications. Data mining is the process of discovering patterns, trends and insights from large and complex data sets using various techniques, such as classification, clustering, association, regression, etc. Data warehousing is the process of designing, building and maintaining a centralized repository of historical and current data for analytical purposes .
+- ETL helps data mining and warehousing by:
+  - **Reducing data redundancy and inconsistency**: ETL eliminates duplicate and conflicting data from different sources and ensures data quality and integrity in the target system .
+  - **Improving data accessibility and usability**: ETL transforms data into a common format and structure that is compatible with the target system and the analytical tools .
+  - **Enhancing data security and governance**: ETL applies data encryption, masking, auditing and authorization policies to protect data from unauthorized access and misuse .
+  - **Supporting data scalability and performance**: ETL optimizes data storage and retrieval by using compression, partitioning, indexing and caching techniques .
+  - **Facilitating data analysis and reporting**: ETL enables data to be sliced, diced, drilled, pivoted and visualized using various data mining and warehousing tools .

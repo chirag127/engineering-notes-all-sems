@@ -1,0 +1,13 @@
+# Filtering Streams
+
+- Filtering streams is a common task in data mining, where we want to select a subset of data from a large and potentially infinite stream of data.
+- Filtering streams can be useful for various purposes, such as sampling, preprocessing, anomaly detection, classification, and aggregation.
+- Filtering streams can be challenging because of the following characteristics of data streams:
+  - High volume and velocity: Data streams can generate a large amount of data at a fast rate, which may exceed the memory and processing capacity of the system.
+  - Unbounded and dynamic: Data streams can be infinite and unpredictable, which may require adaptive and incremental algorithms that can handle changes and uncertainties in the data.
+  - Distributed and heterogeneous: Data streams can come from multiple sources and have different formats and schemas, which may require coordination and integration of the data.
+- There are different techniques and algorithms for filtering streams, depending on the type and goal of the filtering task. Some of the common techniques are:
+  - Sampling: Sampling is the process of selecting a representative subset of data from a stream, which can reduce the size and complexity of the data and enable faster and more efficient analysis. Sampling can be done in different ways, such as random sampling, reservoir sampling, stratified sampling, and weighted sampling .
+  - Filtering by condition: Filtering by condition is the process of selecting data from a stream that satisfy a given condition or predicate, which can focus the analysis on the relevant and interesting data. Filtering by condition can be done in different ways, such as using filter expressions, filter editors, or filter functions .
+  - Filtering by pattern: Filtering by pattern is the process of selecting data from a stream that match a given pattern or template, which can extract the data that have certain features or characteristics. Filtering by pattern can be done in different ways, such as using regular expressions, pattern matching algorithms, or pattern mining methods .
+  - Filtering by aggregation: Filtering by aggregation is the process of selecting data from a stream that are aggregated or summarized by a given function or operator, which can reduce the granularity and redundancy of the data and enable higher-level analysis. Filtering by aggregation can be done in different ways, such as using group-by, window, or sketch operators .

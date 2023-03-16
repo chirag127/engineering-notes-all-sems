@@ -1,0 +1,12 @@
+# Advantages and Achievements for the Notes of the Unit 4 - WEB ENHANCED BUILDING in the Subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- Web enhanced building is a concept that uses the Internet of Things (IoT) and big data analytics to make buildings smarter, more efficient, and more sustainable.
+- Some of the advantages of web enhanced building are:
+  - Improved energy management: Web enhanced building can monitor and optimize the energy consumption of various devices and systems in the building, such as lighting, heating, ventilation, and air conditioning (HVAC), and reduce the carbon footprint of the building.
+  - Enhanced security: Web enhanced building can also improve the security of the building by using IoT data analytics to identify and track potential threats and then take measures to avoid them.
+  - Increased comfort and productivity: Web enhanced building can also enhance the comfort and productivity of the occupants by adjusting the environmental conditions, such as temperature, humidity, and noise, according to their preferences and needs.
+- Some of the achievements of web enhanced building are:
+  - A novel meta-model-based approach for integrating IoT and big data analytics: This approach proposes a four-layer architecture for IoT and big data analytics, where the lower layer consists of sensors and actuators, the middle layer consists of the IoT gateway and the cloud, and the upper layer consists of big data analytics applications and services.
+  - Emerging technologies for AI-enabled big data analytics in IoT: These technologies include edge computing, blockchain, federated learning, and quantum computing, which can provide new opportunities and challenges for IoT and big data analytics, such as increased efficiency, scalability, security, and privacy.
+  - A visualization and monitoring dashboard for IoT data with Amazon Kinesis and Amazon QuickSight: This dashboard can capture, transform, and load streaming data from IoT devices into AWS, and then visualize and monitor the data in real time using Amazon Kinesis Analytics and Amazon QuickSight.
+  - An IoT big data analytics framework for smart buildings systems: This framework can store and analyze real-time data generated from IoT sensors deployed inside the smart building, and then provide insights and recommendations for improving the performance and sustainability of the building.

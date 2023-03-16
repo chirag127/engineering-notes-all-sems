@@ -1,0 +1,23 @@
+# ANOVA
+
+- ANOVA stands for **Analysis of Variance** , a statistical test that looks for significant differences between means on a particular measure.
+- ANOVA can be used to compare the means of two or more groups of observations, where each group is defined by a categorical variable  .
+- For example, ANOVA can be used to test if the exam performance of students is different based on their test anxiety levels (low, medium, high), or if the weight loss of individuals is different based on the type of tea they drink (green, black, none).
+- ANOVA can be classified into different types based on the number and nature of the independent variables (also called factors) and the dependent variable (also called response or outcome)  .
+  - **One-way ANOVA** is used when there is only one independent variable with two or more levels, and one dependent variable  .
+  - **Two-way ANOVA** is used when there are two independent variables, each with two or more levels, and one dependent variable . Two-way ANOVA can also test for the interaction effect between the two independent variables, which means the effect of one variable depends on the level of the other variable .
+  - **Repeated measures ANOVA** is used when the same subjects are measured more than once on the same dependent variable, under different conditions or over time . For example, repeated measures ANOVA can be used to test if the blood pressure of patients changes before and after a treatment.
+  - **Multivariate ANOVA (MANOVA)** is used when there are two or more dependent variables, and one or more independent variables . For example, MANOVA can be used to test if the academic performance and self-esteem of students are different based on their gender and ethnicity.
+- ANOVA is based on the following assumptions  :
+  - The dependent variable is continuous and normally distributed within each group.
+  - The groups have equal variances, also known as homogeneity of variance.
+  - The observations are independent and randomly sampled from the population.
+- ANOVA uses the **F-test** to compare the variability between the groups (also called between-group variability or explained variability) and the variability within the groups (also called within-group variability or unexplained variability)   .
+  - The **F-statistic** is calculated as the ratio of the between-group variability to the within-group variability   .
+  - The **F-distribution** is used to determine the **p-value** of the F-statistic, which indicates the probability of obtaining the observed results by chance, assuming the null hypothesis is true   .
+  - The **null hypothesis** of ANOVA is that there is no difference between the means of the groups   .
+  - The **alternative hypothesis** of ANOVA is that there is at least one difference between the means of the groups   .
+  - The **significance level** of ANOVA is the threshold for rejecting the null hypothesis, usually set at 0.05   .
+  - If the p-value is less than the significance level, the null hypothesis is rejected and the conclusion is that there is a significant difference between the means of the groups   .
+  - If the p-value is greater than or equal to the significance level, the null hypothesis is not rejected and the conclusion is that there is no significant difference between the means of the groups   .
+- ANOVA can be performed

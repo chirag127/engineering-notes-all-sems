@@ -1,0 +1,10 @@
+# Intelligent Transportation Systems and Wireless Access in Vehicular Environment Technology for Developing Smart Cities
+
+- Intelligent Transportation Systems (ITS) are the application of advanced technologies to improve the efficiency, safety, and sustainability of transportation systems in urban areas .
+- ITS can provide various services and solutions, such as traffic and mobility management, public transport, road safety, environmental protection, freight and logistics, parking, and traveler information .
+- Wireless Access in Vehicular Environment (WAVE) is a set of standards and protocols for wireless communication between vehicles and infrastructure in ITS.
+- WAVE enables Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communication, which are collectively known as Vehicle-to-Everything (V2X) communication .
+- WAVE supports various applications and use cases, such as collision avoidance, cooperative driving, traffic signal control, electronic toll collection, and infotainment .
+- ITS and WAVE are key enabling technologies for developing smart cities, which are urban areas that use information and communication technologies to enhance the quality of life, efficiency of services, and environmental sustainability  .
+- Smart cities can benefit from ITS and WAVE by improving the mobility, safety, and accessibility of citizens, reducing the congestion, pollution, and energy consumption of transportation, and optimizing the use and management of existing infrastructure  .
+- Some of the challenges and opportunities for ITS and WAVE in smart cities include ensuring the interoperability, security, and privacy of the communication systems, addressing the social and legal aspects of the technology adoption, and exploring the potential of big data analytics and artificial intelligence for enhancing the performance and functionality of the applications .

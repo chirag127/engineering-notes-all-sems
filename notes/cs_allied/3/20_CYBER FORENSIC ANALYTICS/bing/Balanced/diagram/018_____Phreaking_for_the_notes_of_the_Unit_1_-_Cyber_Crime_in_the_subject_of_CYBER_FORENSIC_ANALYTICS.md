@@ -1,0 +1,10 @@
+### Phreaking
+
+- Phreaking is a slang term coined to describe the activity of a culture of people who study, experiment with, or explore telecommunication systems, such as equipment and systems connected to public telephone networks.
+- Phreaking involves hacking into secure telecommunication networks by mimicking dialing tones to trigger the automatic switches using whistles or custom devices called blue boxes .
+- Phreaking originated in the 1960s and 1970s, when phone companies used in-band signaling, which transmitted routing information along the same path as the voice signal. Phreakers exploited this system by generating the same tones used by the phone companies to route long distance calls and thus make free calls around the world .
+- Phreaking was also motivated by curiosity, exploration, and the thrill of accessing forbidden or hidden systems. Some phreakers also used their skills to eavesdrop on conversations, prank call, or harass others .
+- Some famous phreakers include John Draper (also known as Captain Crunch), who discovered that a toy whistle from a cereal box could generate a 2600 Hz tone that controlled the phone switches; Steve Jobs and Steve Wozniak, who built and sold blue boxes before founding Apple; and Kevin Mitnick, who was arrested several times for phreaking and other hacking activities .
+- Phreaking became less common and less effective after the phone companies switched to out-of-band signaling, which used separate channels for voice and routing information, and implemented more security measures to prevent unauthorized access .
+- Phreaking is considered a form of cybercrime, as it violates the laws and regulations governing the use of telecommunication systems. Phreaking can also cause financial losses to the phone companies and disrupt the normal functioning of the phone networks .
+- Phreaking is related to other forms of hacking, such as cracking, which involves breaking into computer systems or networks; spoofing, which involves impersonating another person or device on a network; and wardialing, which involves scanning a range of phone numbers to find modems or other devices connected to a network.

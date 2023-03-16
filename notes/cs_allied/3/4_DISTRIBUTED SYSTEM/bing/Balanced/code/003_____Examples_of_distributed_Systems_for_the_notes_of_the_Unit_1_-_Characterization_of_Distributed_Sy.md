@@ -1,0 +1,11 @@
+### Examples of Distributed Systems
+
+A distributed system is a collection of independent computers that communicate and coordinate their actions by passing messages. The computers in a distributed system may be physically close or geographically dispersed, and they may be connected by a network or a bus. Distributed systems can provide higher performance, reliability, scalability, and availability than centralized systems.
+
+Some examples of distributed systems are:
+
+- **Telecommunication networks**: Telephone networks are an early example of a peer-to-peer network, where each node can initiate or receive calls. Cellular and telephone networks are forms and examples of distributed networks. They use routing algorithms and protocols to establish and maintain connections, and to handle failures and congestion.  
+- **Real-time systems**: Many industries use real-time systems distributed in various areas, locally and globally. For example, air traffic control systems, power grid systems, industrial control systems, and autonomous vehicles are all examples of real-time distributed systems. They have strict timing and reliability requirements, and they use synchronization and coordination mechanisms to ensure consistent and correct behavior. 
+- **Distributed database systems**: A distributed database has locations across multiple servers, physical locations, or both. The data may be replicated or partitioned, and the system may use different consistency models and concurrency control techniques to ensure data integrity and availability. Examples of distributed database systems are Google's Bigtable, Amazon's Dynamo, and MongoDB.  
+- **Distributed computing platforms**: A distributed computing platform is a system that allows multiple computers to work together on a common task, such as processing large data sets, performing complex calculations, or rendering graphics. Examples of distributed computing platforms are MapReduce, Spark, Hadoop, and BOINC.  
+- **Distributed web applications**: A distributed web application is a system that delivers web content and services to users over the Internet. The system may use multiple web servers, load balancers, caches, databases, and other components to handle requests and provide functionality. Examples of distributed web applications are Facebook, Twitter, Netflix, and Amazon.

@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of IOT based Three Phase Power Failure Monitoring with SMS Alerts:
+
+- A three-phase system is a type of electrical power distribution that uses three alternating currents of the same frequency and amplitude, but with a phase difference of 120 degrees between them.
+- A phase loss occurs when one of the three phases gets lost due to a fault, such as a blown fuse, thermal overload, broken wire, worn contact or mechanical failure. This can cause damage to the equipment and appliances connected to the system, as well as power fluctuations and inefficiencies.
+- An IOT based system can monitor the three phases and detect any phase loss using voltage sensors and a microcontroller. The system can also display the voltage values of each phase on an LCD screen and send an SMS alert to the authorized person using a GSM module.
+- The system can be configured using a mobile phone and a SIM card. The user can set the phone number and the threshold voltage for each phase. The system can also send periodic status updates to the user via SMS.
+- The system can be useful for industries, factories, offices and homes that rely on three-phase power supply. It can help to prevent equipment damage, reduce power wastage and improve safety and reliability.

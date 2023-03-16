@@ -1,0 +1,22 @@
+# Importance sampling
+
+- Importance sampling is a **variance reduction technique** that can be used in the **Monte Carlo method**.
+- The idea behind importance sampling is that certain values of the input random variables in a simulation have more impact on the parameter being estimated than others.
+- Importance sampling can be used to **evaluate properties of a particular distribution**, while only having samples generated from a **different distribution** than the distribution of interest.
+- Importance sampling can also be used when sampling from the distribution of interest is **difficult** or **impossible**.
+- The basic idea of importance sampling is to sample the states from a different distribution to lower the variance of the estimation of **E[X;P]**, where **X** is a random variable of interest and **P** is the distribution of interest.
+- This is accomplished by first choosing a random variable **L** such that **E[L;P] = 1** and that **L > 0** almost everywhere.
+- Then, the importance sampling estimator of **E[X;P]** is given by **E[XL;Q]**, where **Q** is the distribution from which the samples are drawn.
+- The choice of **Q** and **L** affects the accuracy and efficiency of the importance sampling estimator.
+- A good choice of **Q** and **L** should satisfy the following criteria:
+  - **Q** should be easy to sample from and to evaluate its density function.
+  - **Q** should have a similar shape and support as **P**.
+  - **L** should be proportional to **X** or to the ratio of **P** and **Q**.
+  - **L** should have a small variance under **Q**.
+- An example of importance sampling is to estimate the probability of a rare event, such as a tail risk in finance.
+  - Suppose we want to estimate the probability that a portfolio loses more than 20% of its value in a year, given that the annual return of the portfolio follows a normal distribution with mean 10% and standard deviation 15%.
+  - The distribution of interest is **P**, the normal distribution, and the random variable of interest is **X**, the indicator function of the event that the portfolio loses more than 20%.
+  - The distribution from which we sample is **Q**, a normal distribution with mean -10% and standard deviation 15%, which is more skewed to the left and has a higher probability of the rare event.
+  - The random variable **L** is chosen to be the ratio of **P** and **Q**, which is proportional to **X** and satisfies **E[L;P] = 1**.
+  - The importance sampling estimator of **E[X;P]** is then given by **E[XL;Q]**, which is the average of the product of **X** and **L** over the samples drawn from **Q**.
+  - The importance sampling estimator has a lower variance than the naive Monte Carlo estimator, which is the average of **X** over the samples drawn from **P**.

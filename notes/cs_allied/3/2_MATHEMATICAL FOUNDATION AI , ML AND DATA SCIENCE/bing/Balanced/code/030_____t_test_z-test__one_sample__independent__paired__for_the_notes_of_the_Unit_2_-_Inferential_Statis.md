@@ -1,0 +1,15 @@
+### t-test/z-test (one sample, independent, paired)
+
+- t-test and z-test are statistical tests used to compare the means of two groups or samples and test hypotheses about population parameters.
+- t-test is used when the population standard deviation is unknown or the sample size is small (less than 30). t-test follows a t-distribution that depends on the degrees of freedom (df).
+- z-test is used when the population standard deviation is known or the sample size is large (more than 30). z-test follows a standard normal distribution (z-distribution) that has a mean of 0 and a standard deviation of 1.
+- One sample t-test or z-test is used to compare the mean of one sample to a hypothesized population mean. The null hypothesis is that the sample mean is equal to the population mean. The alternative hypothesis can be one-sided or two-sided, depending on whether the sample mean is expected to be greater than, less than, or different from the population mean.
+- Independent samples t-test or z-test is used to compare the means of two independent samples from two populations. The null hypothesis is that the difference between the two population means is zero. The alternative hypothesis can be one-sided or two-sided, depending on whether the difference is expected to be positive, negative, or nonzero.
+- Paired samples t-test or z-test is used to compare the means of two dependent or related samples from the same population. The samples are usually matched or paired by some criteria, such as before and after measurements, repeated observations, or matched subjects. The null hypothesis is that the mean difference between the paired samples is zero. The alternative hypothesis can be one-sided or two-sided, depending on whether the mean difference is expected to be positive, negative, or nonzero.
+- The general formula for t-test or z-test is:
+
+  `t = (x̄ - μ) / (s / √n)` or `z = (x̄ - μ) / (σ / √n)`
+
+  where x̄ is the sample mean, μ is the population mean or the hypothesized mean, s is the sample standard deviation, σ is the population standard deviation, and n is the sample size.
+- The test statistic (t or z) is compared to a critical value from the corresponding distribution table, based on the level of significance (α) and the degrees of freedom (df) for t-test, or the level of significance (α) and the type of test (one-sided or two-sided) for z-test. If the test statistic is more extreme than the critical value, the null hypothesis is rejected. Otherwise, the null hypothesis is not rejected.
+- The p-value is the probability of obtaining a test statistic as extreme or more extreme than the observed one, assuming the null hypothesis is true. If the p-value is less than or equal to the level of significance (α), the null hypothesis is rejected. Otherwise, the null hypothesis is not rejected.

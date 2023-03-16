@@ -1,0 +1,8 @@
+### Xenomai basics
+
+Xenomai is a real-time development software framework that cooperates with the Linux kernel to provide hard real-time computing support to user space applications. Some of the basic concepts of Xenomai are:
+
+- **Dual kernel**: Xenomai uses a dual kernel approach, where a small real-time kernel (RT-Nucleus) runs alongside the Linux kernel and handles the real-time tasks. The Linux kernel is preempted by the RT-Nucleus whenever a real-time task needs to run.
+- **Primary and secondary modes**: Xenomai allows real-time threads to run either in kernel space or in user space. A real-time thread in user space is scheduled by Xenomai directly, and has precedence over any Linux process. This is called the primary mode. A real-time thread in kernel space is scheduled by the Linux kernel, and can be preempted by other Linux processes. This is called the secondary mode.
+- **Skins**: Xenomai provides different interfaces or skins to support various real-time APIs, such as POSIX, RTAI, VxWorks, etc. A skin is a set of functions and data structures that implement a specific real-time API. A skin can be implemented either as a kernel module or as a user space library.
+- **Xenomai applications**: A Xenomai application is a user space program that uses one or more skins to create and manage real-time threads. A Xenomai application can also use regular Linux system calls and libraries, as long as they do not interfere with the real-time behavior. A Xenomai application can switch between primary and secondary modes dynamically, depending on the functions it calls .

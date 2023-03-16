@@ -1,0 +1,10 @@
+### Perspective for the notes of the Unit 4 - BI – DATA ANALYTICS PROCESS in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- Perspective in data analytics refers to the process of analyzing data from various viewpoints or perspectives to gain deeper insights and make informed decisions.
+- Perspective in data analytics can help marketers progress from start to scale by targeting actionable insights, focusing on value-adds for the customer, learning quickly what works and discarding what doesn't, and de-risking assumptions across the sales funnel.
+- Perspective in data analytics can also help data analysts complete various tasks, such as importing data, creating data sources, defining data rules, creating data sets, creating data flows, and running data flows.
+- Perspective in data analytics can be classified into three types: descriptive, predictive, and prescriptive.
+  - Descriptive analytics is the process of summarizing what has happened in the past using historical data. It can help answer questions such as "How many sales did we make last month?" or "What are the most popular products in our store?".
+  - Predictive analytics is the process of forecasting what will happen in the future using statistical models and machine learning. It can help answer questions such as "What will be the demand for our products next quarter?" or "Which customers are likely to churn?".
+  - Prescriptive analytics is the process of using data to determine an optimal course of action. It can help answer questions such as "What is the best price to set for our products?" or "Which marketing campaign should we launch?".
+- Perspective in data analytics requires a strategic planning process that aligns with the mission and goals of the organization, determines the impact of data and analytics on those goals, prioritizes action steps to realize business goals using data and analytics objectives, and builds a data and analytics roadmap.

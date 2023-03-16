@@ -1,0 +1,22 @@
+### Tokenization
+
+- Tokenization is the process of breaking down a piece of text into small units called tokens .
+- A token may be a word, part of a word or just characters like punctuation.
+- Tokenization is the first step in any NLP pipeline. It has an important effect on the rest of your pipeline.
+- A tokenizer breaks unstructured data and natural language text into chunks of information that can be considered as discrete elements.
+- The token occurrences in a document can be used directly as a vector representing that document.
+- Tokenization is used in natural language processing to split paragraphs and sentences into smaller units that can be more easily assigned meaning.
+- Tokenization is useful for a number of tasks in natural language processing, including sentiment analysis, topic modeling, and machine translation.
+- One of the main advantages of tokenization is that it can help to improve the accuracy of these tasks by providing more context for each word.
+- Tokenization is a crucial step in many NLP tasks, such as part-of-speech tagging and text classification.
+- Tokenization is a difficult task, because every language has its own grammatical constructs, which are often difficult to write down as rules.
+- Tokenization may also depend on the domain, genre, and style of the text.
+- There are different types of tokenization, such as word tokenization, sentence tokenization, subword tokenization, and character tokenization .
+- Word tokenization is the process of splitting a text into words, based on whitespace, punctuation, or other delimiters.
+- Sentence tokenization is the process of splitting a text into sentences, based on punctuation, capitalization, or other cues.
+- Subword tokenization is the process of splitting a word into smaller units, such as syllables, morphemes, or n-grams.
+- Character tokenization is the process of splitting a text into individual characters.
+- There are different tools and libraries that can perform tokenization, such as NLTK, spaCy, Stanford CoreNLP, and BERT .
+- Tokenization is not a perfect process, and it may face some challenges, such as handling abbreviations, contractions, hyphenated words, compound words, and multi-word expressions.
+- Tokenization may also need to deal with different languages, scripts, and writing systems, such as Chinese, Arabic, and Devanagari.
+- Tokenization is an essential and complex step in natural language processing, and it requires careful attention and evaluation.

@@ -1,0 +1,10 @@
+### Real-time concepts for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A real-time system is a system that must respond to events or inputs within a specified time limit, otherwise it may fail or cause undesirable consequences.
+- A real-time operating system (RTOS) is an operating system that provides the rigorous resource management and scheduling required to meet the demands of real-time applications.
+- An RTOS typically has a small footprint and is optimized for performance, with features such as multi-tasking, priority-driven pre-emptive scheduling, fast context-switching, and interrupt handling .
+- An RTOS can be classified into two types: hard real-time and soft real-time. A hard real-time system must meet all the deadlines, otherwise it is considered a failure. A soft real-time system can tolerate some missed deadlines, but the quality of service may degrade.
+- An RTOS can also be classified into two types: proprietary and open source. A proprietary RTOS is owned and licensed by a company or organization, and may have restrictions on its use, modification, and distribution. An open source RTOS is free and publicly available, and can be modified and distributed by anyone under certain terms and conditions.
+- Some examples of open source RTOSs are FreeRTOS, SAFERTOS, Zephyr, NuttX, and RIOT . These RTOSs can be used in embedded systems based on microcontrollers, such as Arduino, Raspberry Pi, STM32, and ESP32 .
+- Some benefits of using open source RTOSs are: lower cost, greater flexibility, faster development, wider community support, and easier integration with other open source software .
+- Some challenges of using open source RTOSs are: lack of certification, limited documentation, variable quality, legal issues, and security risks .

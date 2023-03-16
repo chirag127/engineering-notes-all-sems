@@ -1,0 +1,10 @@
+## Unit 2 - SOFTWARE HARDWARE FRAMEWORKS
+
+- Software hardware frameworks are the combination of software and hardware components that enable the development and execution of applications on various platforms.
+- Software frameworks are platforms for developing software applications that provide a set of tools, libraries, APIs, and guidelines for programmers. Software frameworks may support specific programming languages, paradigms, or domains. Software frameworks may also facilitate the use of hardware accelerators, such as GPUs or FPGAs, for improving the performance of applications  .
+- Hardware frameworks are physical components that provide the infrastructure and resources for running software applications. Hardware frameworks may include processors, memory, storage, network, sensors, actuators, etc. Hardware frameworks may also support specific software frameworks, such as Android or iOS, for developing mobile applications .
+- Some examples of software hardware frameworks are:
+
+  - TensorFlow: A software framework for developing and deploying machine learning and deep learning applications. TensorFlow supports various programming languages, such as Python, C++, and Java, and can run on multiple hardware platforms, such as CPUs, GPUs, TPUs, and mobile devices.
+  - Arduino: A hardware framework for creating interactive electronic projects. Arduino consists of a microcontroller board, a software development environment, and a set of libraries and APIs. Arduino can be programmed using C or C++, and can interface with various sensors, actuators, and modules.
+  - Cordova: A software framework for developing cross-platform mobile applications using web technologies, such as HTML, CSS, and JavaScript. Cordova allows developers to access native device features, such as camera, GPS, and accelerometer, through a common API. Cordova can run on various hardware platforms, such as Android, iOS, Windows, and Blackberry.

@@ -1,0 +1,8 @@
+## Unit 3 - BI – DATA PREPARTTION
+
+- Data preparation is the process of transforming raw data into a format that is suitable for analysis and reporting.
+- Data preparation involves various steps, such as data collection, data cleaning, data integration, data transformation, data reduction, and data quality assessment.
+- Data preparation is an essential and challenging task in business intelligence (BI), as it affects the accuracy, validity, and reliability of the analytical results and insights.
+- Data preparation can be performed manually or automatically, using various tools and techniques, such as spreadsheets, databases, scripting languages, data integration tools, data wrangling tools, and data quality tools.
+- Data preparation can be done in different stages of the BI process, such as before data loading, during data loading, after data loading, or on-demand.
+- Data preparation can have different goals and objectives, depending on the business needs and the analytical requirements, such as data exploration, data profiling, data cleansing, data enrichment, data standardization, data aggregation, data summarization, data anonymization, data sampling, data partitioning, data balancing, data encoding, data scaling, data normalization, data transformation, data feature extraction, data feature selection, data feature engineering, data validation, data verification, and data documentation.

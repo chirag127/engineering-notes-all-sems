@@ -1,0 +1,21 @@
+# Inner Product Spaces
+
+- An **inner product space** is a vector space with an operation called an **inner product** that assigns a scalar value to each pair of vectors in the space. 
+- The inner product of two vectors **u** and **v** is often denoted by <**u**, **v**> or (**u**, **v**). 
+- An inner product must satisfy the following three properties for all vectors **u**, **v**, **w** and all scalars **a**, **b** in the space: 
+  - **Linearity**: <**u** + **v**, **w**> = <**u**, **w**> + <**v**, **w**> and <**a** **u**, **v**> = **a** <**u**, **v**>
+  - **Symmetry**: <**u**, **v**> = <**v**, **u**>
+  - **Positive-definiteness**: <**u**, **u**> ≥ 0 and <**u**, **u**> = 0 if and only if **u** = **0**
+- Examples of inner product spaces include the Euclidean space **R**<sup>n</sup> with the dot product, the complex space **C**<sup>n</sup> with the Hermitian product, and the space of continuous functions on an interval with the integral product.  
+- An inner product space is also a **normed linear space**, which means that it has a notion of the length or magnitude of a vector. The norm of a vector **u** is defined as ||**u**|| = √<**u**, **u**>.  
+- The norm of a vector satisfies the following properties for all vectors **u**, **v** and all scalars **a**:  
+  - **Non-negativity**: ||**u**|| ≥ 0 and ||**u**|| = 0 if and only if **u** = **0**
+  - **Homogeneity**: ||**a** **u**|| = |**a**| ||**u**||
+  - **Triangle inequality**: ||**u** + **v**|| ≤ ||**u**|| + ||**v**||
+- An inner product space also allows us to define the angle between two vectors **u** and **v** as cos θ = <**u**, **v**> / (||**u**|| ||**v**||), where θ is the angle in radians.  
+- Two vectors **u** and **v** are said to be **orthogonal** or **perpendicular** if their inner product is zero, i.e., <**u**, **v**> = 0.  
+- A set of vectors {**u**<sub>1</sub>, **u**<sub>2</sub>, ..., **u**<sub>n</sub>} is said to be **orthogonal** if every pair of vectors in the set is orthogonal, i.e., <**u**<sub>i</sub>, **u**<sub>j</sub>> = 0 for all i ≠ j.  
+- A set of vectors {**u**<sub>1</sub>, **u**<sub>2</sub>, ..., **u**<sub>n</sub>} is said to be **orthonormal** if it is orthogonal and every vector in the set has norm one, i.e., ||**u**<sub>i</sub>|| = 1 for all i.  
+- An **orthogonal basis** for an inner product space is a basis that consists of orthogonal vectors. An **orthonormal basis** is a basis that consists of orthonormal vectors.  
+- Every finite-dimensional inner product space has an orthonormal basis, which can be obtained by applying the **Gram-Schmidt process** to any basis.  
+- The **Pythagorean theorem** holds in any inner product space: if **u** and **v** are orthogonal, then ||**u** + **v**||<sup>

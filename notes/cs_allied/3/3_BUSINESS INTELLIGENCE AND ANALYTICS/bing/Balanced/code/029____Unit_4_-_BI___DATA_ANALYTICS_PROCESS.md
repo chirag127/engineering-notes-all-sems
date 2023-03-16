@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material on Unit 4 - BI – DATA ANALYTICS PROCESS. Here is a summary of the main points:
+
+- Business intelligence (BI) is the process of transforming data into insights that can help businesses make better decisions and actions.
+- Data analytics is the science of analyzing data to discover patterns, trends, correlations, and anomalies that can provide valuable information for BI.
+- The data analytics process consists of six steps: define the problem, collect the data, prepare the data, analyze the data, visualize the data, and communicate the results.
+- Define the problem: This step involves identifying the business question or goal, the scope and context of the analysis, the stakeholders and their needs, and the metrics and criteria for success.
+- Collect the data: This step involves gathering the relevant data from various sources, such as databases, files, web, sensors, surveys, etc. The data should be reliable, valid, and representative of the problem domain.
+- Prepare the data: This step involves cleaning, transforming, and integrating the data to make it ready for analysis. This may include removing errors, outliers, duplicates, missing values, etc., as well as standardizing, normalizing, aggregating, or enriching the data.
+- Analyze the data: This step involves applying various techniques and tools to explore, model, and test the data to find answers to the business question or goal. This may include descriptive, diagnostic, predictive, or prescriptive analytics, as well as statistical, machine learning, or artificial intelligence methods.
+- Visualize the data: This step involves creating charts, graphs, maps, dashboards, or other visual representations of the data to highlight the key findings, patterns, trends, and insights. The visualization should be clear, accurate, and engaging for the audience.
+- Communicate the results: This step involves presenting and explaining the results of the data analysis to the stakeholders, using the appropriate language, format, and medium. The communication should be concise, relevant, and actionable, and should address the business question or goal, the methods and assumptions, the limitations and uncertainties, and the implications and recommendations.

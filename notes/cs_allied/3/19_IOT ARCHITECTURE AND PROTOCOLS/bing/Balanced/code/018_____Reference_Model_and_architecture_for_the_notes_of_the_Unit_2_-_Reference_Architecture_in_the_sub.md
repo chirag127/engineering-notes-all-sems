@@ -1,0 +1,21 @@
+### Reference Model and Architecture for IoT
+
+- A reference model is a conceptual framework that defines the common terminology, concepts, and principles for designing and developing IoT systems.
+- A reference architecture is a concrete instantiation of the reference model that provides specific guidelines, standards, and best practices for implementing IoT solutions.
+- A reference model and architecture for IoT should cover the following aspects:
+  - The cloud or server-side architecture that allows monitoring, managing, interacting with, and processing the data from the IoT devices.
+  - The networking model that enables communication between the IoT devices and the cloud or server-side components.
+  - The agents and code on the IoT devices themselves, as well as the requirements on what sort of device can support the reference architecture.
+- One example of a reference model and architecture for IoT is the IoT World Forum Reference Model, which consists of seven layers:
+  - Device layer: This layer includes the physical devices and sensors that generate data and act on commands.
+  - Connectivity layer: This layer provides the network protocols and standards for connecting the devices to the cloud or server-side components.
+  - Edge computing layer: This layer provides the local processing and storage capabilities for the devices, as well as the edge analytics and intelligence.
+  - Data accumulation layer: This layer provides the cloud or server-side storage and database services for the IoT data.
+  - Data abstraction layer: This layer provides the data normalization, transformation, and integration services for the IoT data.
+  - Application layer: This layer provides the business logic and functionality for the IoT solutions, such as dashboards, analytics, and automation.
+  - Collaboration and processes layer: This layer provides the collaboration and communication services for the IoT solutions, such as workflows, notifications, and social media.
+- Another example of a reference model and architecture for IoT is the IoT Architectural Reference Model (IoT ARM), which consists of four views:
+  - Functional view: This view describes the functional components and their interactions in an IoT system, such as devices, gateways, brokers, and services.
+  - Information view: This view describes the information model and semantics for the IoT data, such as data types, formats, and ontologies.
+  - Communication view: This view describes the communication protocols and standards for the IoT system, such as MQTT, CoAP, and HTTP.
+  - Deployment and operation view: This view describes the deployment and operation aspects of the IoT system, such as security, privacy, scalability, and management.

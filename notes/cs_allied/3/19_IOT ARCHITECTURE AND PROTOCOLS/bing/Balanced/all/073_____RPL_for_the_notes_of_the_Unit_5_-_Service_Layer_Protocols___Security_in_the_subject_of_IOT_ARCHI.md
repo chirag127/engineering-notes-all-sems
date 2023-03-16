@@ -1,0 +1,22 @@
+# RPL for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- RPL stands for **Routing Protocol for Low-Power and Lossy Networks**  .
+- It is an **IPv6** routing protocol that is standardized for the **Internet of Things (IoT)** by **Internet-Engineering Task Force (IETF)** .
+- It supports **multipoint-to-point (MP-to-P)**, **point-to-point (P-to-P)** and **point-to-multipoint (P-to-MP)** communications .
+- It forms a **tree-like topology** which is based on different optimizing process called **Objective Function (OF)** .
+- It assumes two types of nodes in a network: **border router (gateway)** and **ordinary nodes** .
+- The gateway has a connection to the **Internet**, hence it connects nodes in an LLN to the Internet .
+- RPL uses **Directed Acyclic Graphs (DAGs)** to represent the network topology and routing paths.
+- A DAG is a graph that has no cycles, meaning that there is no way to start at a node and traverse the graph back to the same node.
+- RPL defines two types of DAGs: **Destination-Oriented DAGs (DODAGs)** and **Multicast DAGs (M-DAGs)**.
+- A DODAG is a DAG rooted at a single destination, such as the gateway.
+- A M-DAG is a DAG that supports multicast communication among a group of nodes.
+- RPL uses **DODAG Information Object (DIO)** messages to advertise DODAGs and **DODAG Information Solicitation (DIS)** messages to request DIOs.
+- RPL also uses **Destination Advertisement Object (DAO)** messages to propagate destination information and **Destination Advertisement Object Acknowledgment (DAO-ACK)** messages to acknowledge DAOs.
+- RPL supports different modes of operation, such as **storing mode** and **non-storing mode**.
+- In storing mode, each node maintains a routing table that stores the next hop information for each destination.
+- In non-storing mode, each node does not store any routing information, but instead uses source routing to forward packets.
+- RPL provides security mechanisms to protect the routing messages and the network topology.
+- RPL uses **cryptographic keys** and **signatures** to authenticate the messages and the senders.
+- RPL also uses **secure join** and **secure leave** procedures to ensure that only authorized nodes can join or leave the network.
+- RPL is considered the de facto routing protocol for the IoT, but it also has some challenges and limitations, such as **scalability**, **mobility**, **reliability**, **energy efficiency**, and **interoperability**.

@@ -1,0 +1,11 @@
+### Bio-MEMS based applications
+
+- Bio-MEMS stands for biomedical micro-electro-mechanical systems, which are devices that integrate biological components with microfabrication technologies.
+- Bio-MEMS can be used for various applications in medicine, such as surgical tools, diagnostic devices, therapeutic devices, and tissue engineering .
+- Some examples of Bio-MEMS based applications are:
+
+  - Biomedical transducers: These are devices that convert one form of energy into another, such as electrical, mechanical, optical, or chemical. For example, a piezoelectric transducer can generate an electric signal from a mechanical vibration, or vice versa. Biomedical transducers can be used for sensing, actuation, or stimulation of biological systems.
+  - Microfluidics: These are devices that manipulate small volumes of fluids, such as blood, saliva, or urine, in microchannels or chambers. Microfluidics can be used for sample preparation, separation, detection, and analysis of biomolecules, cells, or pathogens. For example, a microfluidic chip can perform a polymerase chain reaction (PCR) to amplify DNA from a tiny sample.
+  - Medical implants: These are devices that are implanted into the body to replace, restore, or enhance a biological function. For example, a cochlear implant can restore hearing by stimulating the auditory nerve with electrical signals. Medical implants can be made of biocompatible materials, such as silicon, titanium, or polymers, and can incorporate sensors, actuators, or drug delivery systems.
+  - Microsurgical tools: These are devices that enable minimally invasive surgery, such as endoscopy, laparoscopy, or angioplasty. Microsurgical tools can be made of flexible or rigid materials, and can have features such as cameras, lights, electrodes, or needles. Microsurgical tools can reduce the risk of infection, bleeding, or scarring, and improve the accuracy and precision of the surgery.
+  - Tissue engineering: This is the field of creating artificial tissues or organs from living cells, biomaterials, and growth factors. Tissue engineering can be used for regenerative medicine, drug testing, or organ transplantation. Bio-MEMS can provide scaffolds, bioreactors, or microenvironments for tissue engineering, and can control the mechanical, chemical, or electrical stimuli for the cells.

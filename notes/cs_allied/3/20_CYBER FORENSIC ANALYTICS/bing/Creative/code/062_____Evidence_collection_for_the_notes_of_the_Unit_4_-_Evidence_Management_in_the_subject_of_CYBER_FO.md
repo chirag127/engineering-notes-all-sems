@@ -1,0 +1,29 @@
+### Evidence collection for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence collection is the process of identifying, acquiring, preserving and documenting digital data that can be useful in cyber forensic investigations  .
+- Evidence collection can be performed on various sources of digital data, such as computers, mobile devices, cloud services, network devices, IoT devices, etc  .
+- Evidence collection can be challenging due to the large volume, variety and volatility of digital data, as well as the legal and ethical issues involved in accessing and handling the data  .
+- Evidence collection should follow the principles of cyber forensic analysis, such as:
+  - Admissibility: The evidence should be legally acceptable and relevant to the case  .
+  - Authenticity: The evidence should be original and not tampered with  .
+  - Completeness: The evidence should cover all the aspects of the case and not leave any gaps  .
+  - Reliability: The evidence should be consistent and trustworthy  .
+  - Believability: The evidence should be convincing and supported by facts  .
+- Evidence collection should follow the steps of cyber forensic analysis, such as:
+  - Identification: The sources and types of digital data that are relevant to the case should be identified  .
+  - Acquisition: The digital data should be acquired using appropriate tools and techniques, such as imaging, copying, hashing, etc  .
+  - Preservation: The digital data should be preserved using proper methods, such as encryption, write-protection, backup, etc  .
+  - Documentation: The digital data and the evidence collection process should be documented using proper formats, such as logs, reports, chain of custody, etc  .
+  - Analysis: The digital data should be analyzed using suitable tools and techniques, such as extraction, parsing, correlation, etc  .
+  - Presentation: The digital data and the evidence collection process should be presented using appropriate methods, such as graphs, tables, charts, etc  .
+- Evidence collection should follow the standards and guidelines of cyber forensic analysis, such as:
+  - NIST Special Publication 800-86: Guide to Integrating Forensic Techniques into Incident Response
+  - NIST Special Publication 800-101 Revision 1: Guidelines on Mobile Device Forensics
+  - NIST Special Publication 800-144: Guidelines on Security and Privacy in Public Cloud Computing
+  - NIST Special Publication 800-145: The NIST Definition of Cloud Computing
+  - NIST Special Publication 800-181: The NICE Cybersecurity Workforce Framework
+  - NIST Special Publication 800-207: Zero Trust Architecture
+  - NIST Special Publication 800-212: Computing Platforms: Specifications and Considerations for Secure Hypervisor Platform Development
+  - NIST Special Publication 800-216: Security Guidelines for Storage Infrastructure
+  - NIST Special Publication 800-222: Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
+  - NIST Special Publication 800-223: Guide to Digital Forensics of Internet of Things (IoT) Devices

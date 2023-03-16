@@ -1,0 +1,22 @@
+## Unit 2 - SOFTWARE FRAMEWORKS
+
+- A software framework is a reusable set of libraries or classes that provide a standard way to perform a specific task, such as web development, database access, testing, etc.
+- A software framework typically consists of the following components:
+  - A core library that defines the basic functionality and architecture of the framework.
+  - A set of extension modules that provide additional features or services that can be plugged into the core library.
+  - A set of configuration files or parameters that allow the user to customize the behavior and appearance of the framework.
+  - A set of documentation and examples that explain how to use the framework and its modules.
+- A software framework differs from a software library in that:
+  - A software framework imposes a certain structure and design pattern on the application, while a software library provides a set of functions or classes that can be used in any way by the application.
+  - A software framework controls the flow of execution and calls the application code, while a software library is called by the application code.
+  - A software framework can be seen as a skeleton or template that the application fills in with its own logic, while a software library can be seen as a collection of tools or components that the application uses to perform its tasks.
+- Some of the benefits of using a software framework are:
+  - It reduces the amount of code that the developer has to write, test, and maintain, as the framework provides a lot of common functionality and best practices.
+  - It increases the quality, reliability, and security of the application, as the framework has been tested and verified by many users and experts.
+  - It enhances the productivity and efficiency of the developer, as the framework simplifies and standardizes the development process and provides a consistent and familiar environment.
+  - It facilitates the reuse and integration of code, as the framework follows a modular and interoperable design that allows the developer to use existing components or create new ones that can be easily plugged into the framework.
+  - It supports the scalability and maintainability of the application, as the framework allows the developer to easily add new features or modify existing ones without affecting the rest of the application.
+- Some of the challenges or drawbacks of using a software framework are:
+  - It requires a learning curve and a paradigm shift for the developer, as the framework may have a different syntax, terminology, and convention than the developer is used to.
+  - It limits the flexibility and creativity of the developer, as the framework may impose certain constraints or assumptions on the application that the developer has to follow or adapt to.
+  - It introduces a dependency and a risk of obsolescence for the application, as the framework may have bugs, vulnerabilities, or compatibility issues that affect the application, or may become outdated or unsupported over time.

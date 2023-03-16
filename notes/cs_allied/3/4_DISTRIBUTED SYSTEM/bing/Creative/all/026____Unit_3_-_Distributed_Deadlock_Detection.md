@@ -1,0 +1,9 @@
+# Unit 3 - Distributed Deadlock Detection
+
+- A **deadlock** is a condition where a set of processes request resources that are held by other processes in the set, and none of the processes can proceed until they obtain the resources they need.
+- A **distributed deadlock** is a deadlock that involves processes and resources located on different machines in a distributed system.
+- **Deadlock detection** is a strategy to handle deadlocks by examining the status of the process-resource interactions for the presence of cyclic wait.
+- **Deadlock resolution** is a strategy to handle deadlocks by aborting one or more deadlocked processes or preempting some resources from them.
+- Deadlock detection in distributed systems can be done by two main approaches:
+  - **Global wait-for graph (WFG)**: A graph that represents the waiting relationships among processes and resources in the system. A node in the WFG can be either a process or a resource, and an edge from node A to node B means that A is waiting for B. A cycle in the WFG indicates a deadlock. To construct a global WFG, each machine in the system maintains a local WFG and periodically sends it to a designated deadlock detector, which merges the local WFGs and checks for cycles.
+  - **Edge chasing**: A distributed algorithm that uses probe messages to detect cycles in the WFG. A probe message contains the identity of the sender and a list of nodes visited by the message. When a process requests a resource that is held by another process, it sends a probe message to that process. When a process receives a probe message, it appends its identity to the list and forwards the message to the process that holds the resource it is waiting for. If a process receives a probe message that contains its own identity in the list, it detects a cycle and initiates deadlock resolution.

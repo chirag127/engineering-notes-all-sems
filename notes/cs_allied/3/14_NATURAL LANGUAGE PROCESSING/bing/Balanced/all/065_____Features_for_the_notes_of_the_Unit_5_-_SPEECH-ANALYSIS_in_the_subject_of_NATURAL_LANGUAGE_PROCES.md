@@ -1,0 +1,21 @@
+# Features for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- Speech analysis is the process of extracting information from speech signals, such as the speaker's identity, emotions, intent, and the content of the speech.
+- Speech analysis is a subfield of natural language processing (NLP), which is the branch of computer science and artificial intelligence that deals with understanding and generating natural language  .
+- Speech analysis can be divided into two main tasks: speech recognition and speech understanding.
+  - Speech recognition is the task of converting speech signals into text or other symbolic representations.
+  - Speech understanding is the task of extracting the meaning and intent of the speech, as well as the speaker's characteristics and emotions.
+- Speech analysis can be performed using various techniques, such as:
+  - Acoustic analysis, which focuses on the physical properties of the speech signals, such as pitch, intensity, duration, and spectral features.
+  - Lexical analysis, which focuses on the words and phrases used in the speech, such as vocabulary, frequency, and collocations.
+  - Syntactic analysis, which focuses on the grammatical structure and rules of the speech, such as word order, parts of speech, and dependencies .
+  - Semantic analysis, which focuses on the meaning and logic of the speech, such as concepts, relations, and inference .
+  - Pragmatic analysis, which focuses on the context and purpose of the speech, such as discourse, dialogue, and figures of speech .
+- Speech analysis can be applied to various domains and applications, such as:
+  - Speech recognition systems, which enable users to interact with devices and services using voice commands .
+  - Speech synthesis systems, which enable devices and services to generate natural-sounding speech from text or other inputs .
+  - Speech translation systems, which enable users to communicate across different languages using speech .
+  - Speech emotion recognition systems, which enable devices and services to detect and respond to the emotional state of the speaker .
+  - Speech diarization systems, which enable devices and services to identify and separate different speakers in a multi-party conversation .
+  - Speech summarization systems, which enable devices and services to extract and present the main points of a speech .
+  - Speech analytics systems, which enable devices and services to monitor and analyze speech data for various purposes, such as customer service, marketing, and security .

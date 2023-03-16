@@ -1,0 +1,27 @@
+### OMA for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- OMA stands for Open Mobile Alliance, an organization that develops standards and specifications for the mobile and IoT industry.
+- OMA LwM2M (Lightweight Machine to Machine) is a protocol from OMA for device management and service enablement in IoT .
+- OMA LwM2M is based on IETF CoRE (Constrained RESTful Environments) RFCs and drafts, such as CoAP (Constrained Application Protocol), DTLS (Datagram Transport Layer Security), CBOR (Concise Binary Object Representation), and SenML (Sensor Measurement Lists).
+- OMA LwM2M defines the application layer communication protocol between an LwM2M Server and an LwM2M Client, which is located in an IoT device.
+- OMA LwM2M supports four main operations: Bootstrap, Register, Manage, and Report.
+  - Bootstrap: The LwM2M Client obtains the necessary security credentials and server information from a Bootstrap Server to access other LwM2M Servers.
+  - Register: The LwM2M Client registers with one or more LwM2M Servers and provides information about its capabilities and resources.
+  - Manage: The LwM2M Server can perform device management and service enablement tasks on the LwM2M Client, such as read, write, execute, observe, create, delete, and write-attributes.
+  - Report: The LwM2M Client can report its status and measurements to the LwM2M Server, either periodically or upon request.
+- OMA LwM2M uses a resource model to represent the data and functionality of the IoT device.
+  - A resource is a piece of information or an action that can be accessed by the LwM2M Server.
+  - A resource can have a single or multiple value, and a data type, such as integer, float, string, boolean, opaque, time, or object link.
+  - A resource can have attributes, such as minimum and maximum period, greater than, less than, step, and cancel.
+  - A resource can be part of an object, which is a collection of resources that share a common purpose.
+  - An object can have one or more object instances, which are individual representations of the object with specific values for the resources.
+  - An object can have a mandatory or optional flag, and a single or multiple flag, indicating whether the object or its instances are required or allowed to exist on the LwM2M Client.
+  - An object can have an object ID and an object version, which are unique identifiers for the object.
+  - An object, an object instance, or a resource can be addressed by a URI, which consists of the object ID, the object instance ID, and the resource ID.
+- OMA LwM2M defines a set of standard objects and resources for common IoT scenarios, such as device, server, security, access control, firmware update, location, connectivity monitoring, connectivity statistics, etc.
+- OMA LwM2M also allows the definition of custom objects and resources for specific IoT applications, using a web-based tool called LwM2M Editor.
+- OMA LwM2M provides end-to-end security for the IoT communication, using DTLS for the transport layer and OSCORE (Object Security for Constrained RESTful Environments) for the application layer.
+  - DTLS provides security features such as confidentiality, integrity, and authentication for the CoAP messages exchanged between the LwM2M Server and the LwM2M Client.
+  - OSCORE provides security features such as end-to-end protection, group communication, and proxy compatibility for the CoAP messages exchanged between the LwM2M Server and the LwM2M Client, even if they pass through intermediate nodes or gateways.
+  - OSCORE is based on COSE (CBOR Object Signing and Encryption), which is a format for signing and encrypting CBOR data.
+- OMA LwM2M

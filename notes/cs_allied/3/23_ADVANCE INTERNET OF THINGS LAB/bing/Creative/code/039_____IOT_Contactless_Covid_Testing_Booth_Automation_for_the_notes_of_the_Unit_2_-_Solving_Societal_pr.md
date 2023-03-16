@@ -1,0 +1,21 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- IOT Contactless Covid Testing Booth Automation is a system that aims to reduce the risk of virus transmission and human errors in the covid testing process by using RFID technology, microcontroller, MATLAB, and GSM modem  .
+- The system consists of the following components:
+  - A contactless covid testing booth that provides a safe and isolated environment for collecting the nasal swab samples from the test subjects.
+  - A RFID reader and a RFID tag that are used to identify and register the test subjects' details such as name, contact number, and address.
+  - A microcontroller that controls the operation of the booth, such as opening and closing the door, activating the swab collection mechanism, and sending the test results to the test subjects via GSM modem.
+  - A MATLAB program that analyzes the swab samples using image processing techniques and determines whether the test subjects are positive or negative for covid-19.
+  - A GSM modem that communicates with the microcontroller and the test subjects' mobile phones, and sends the test results and the QR code for the test certificate via SMS.
+- The system works as follows:
+  - The test subjects scan their RFID tags at the RFID reader, which registers their details and assigns them a unique ID.
+  - The test subjects enter the booth and follow the instructions on the LCD screen, which guides them to collect their nasal swab samples using the swab collection mechanism.
+  - The test subjects place their swab samples in the designated slot, which triggers the microcontroller to send the samples to the MATLAB program for analysis.
+  - The MATLAB program processes the images of the samples and determines the test results using a machine learning algorithm.
+  - The MATLAB program sends the test results and the QR code for the test certificate to the microcontroller, which displays them on the LCD screen and sends them to the test subjects' mobile phones via GSM modem.
+  - The test subjects exit the booth and scan the QR code at the exit gate, which verifies their test results and allows them to leave the testing center.
+- The system has the following advantages:
+  - It reduces the risk of virus transmission by minimizing the human contact and the exposure of the test subjects and the health workers to the virus.
+  - It reduces the human errors by automating the covid testing process and eliminating the manual registration and analysis of the samples.
+  - It increases the efficiency and accuracy of the covid testing process by using image processing and machine learning techniques to analyze the samples and generate the test results and the test certificate in a short time.
+  - It increases the convenience and accessibility of the covid testing process by using RFID technology and GSM modem to identify and communicate with the test subjects and provide them with the test results and the test certificate via SMS.

@@ -1,0 +1,14 @@
+# Filtering Streams
+
+- Filtering streams is a common task in data mining, where we want to select a subset of data from a large and potentially infinite stream of data.
+- Filtering streams can be useful for various purposes, such as sampling, anomaly detection, pattern matching, event detection, and data cleaning.
+- Filtering streams can be challenging because of the following characteristics of data streams:
+  - High volume and velocity: Data streams can generate a large amount of data at a fast rate, which may exceed the memory and processing capacity of the system.
+  - Unbounded and dynamic: Data streams can be infinite and unpredictable, which means we cannot store or scan the entire stream, and we have to deal with changing data distributions and patterns over time.
+  - Noisy and incomplete: Data streams can contain errors, outliers, missing values, and duplicates, which can affect the quality and accuracy of the filtered data.
+- To filter streams effectively, we need to design algorithms and techniques that can handle the above challenges and provide approximate or probabilistic answers with bounded errors and guarantees.
+- Some of the common filtering techniques for data streams are:
+  - Sampling: Sampling is a technique that selects a representative subset of data from a stream, based on some criteria or probability distribution. Sampling can reduce the size and complexity of the data, while preserving its essential characteristics and statistics. Sampling can be done in various ways, such as uniform, weighted, reservoir, stratified, and adaptive sampling .
+  - Sketching: Sketching is a technique that summarizes a stream of data into a compact data structure, such as a vector, matrix, or hash table, that can support various queries and operations on the stream. Sketching can reduce the memory and computational requirements of the system, while providing approximate answers with bounded errors. Sketching can be done in various ways, such as count-min sketch, bloom filter, hyperloglog, and frequent item sketch.
+  - Filtering: Filtering is a technique that selects a subset of data from a stream, based on some condition or predicate. Filtering can be used to remove unwanted or irrelevant data, or to extract data of interest or value. Filtering can be done in various ways, such as sliding window, landmark window, time-based window, and predicate-based window .
+  - Aggregation: Aggregation is a technique that computes some summary statistics or functions over a stream of data, such as count, sum, average, minimum, maximum, median, or percentile. Aggregation can provide a concise and meaningful representation of the data, while reducing the data volume and complexity. Aggregation can be done in various ways, such as group-by, join, nested, and incremental aggregation.

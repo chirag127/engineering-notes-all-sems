@@ -1,0 +1,9 @@
+### UDP
+
+- UDP stands for User Datagram Protocol. It is one of the core communication protocols of the Internet protocol suite used to send messages (transported as datagrams in packets) to other hosts on an Internet Protocol (IP) network.
+- UDP is a simple message-oriented transport layer protocol that is documented in RFC 768. It provides integrity verification (via checksum) of the header and payload, but it does not provide any guarantees to the upper layer protocol for message delivery and the UDP layer retains no state of UDP messages once sent .
+- UDP is primarily used to establish low-latency and loss-tolerating connections between applications on the internet. UDP speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party.
+- UDP is a part of the Internet Protocol suite, referred to as UDP/IP suite. Unlike TCP, it is an unreliable and connectionless protocol. So, there is no need to establish a connection prior to data transfer.
+- UDP provides a mechanism to detect corrupt data in packets, but it does not attempt to solve other problems that arise with packets, such as lost or out of order packets.
+- UDP is suitable for applications that require fast and efficient transmission, such as voice and video streaming, online gaming, and live broadcasting.
+- UDP has a header of 8 bytes, which consists of four fields: source port, destination port, length, and checksum. The source and destination ports identify the endpoints of the communication. The length field specifies the total length of the UDP datagram, including the header and the data. The checksum field is used to verify the integrity of the header and the data .

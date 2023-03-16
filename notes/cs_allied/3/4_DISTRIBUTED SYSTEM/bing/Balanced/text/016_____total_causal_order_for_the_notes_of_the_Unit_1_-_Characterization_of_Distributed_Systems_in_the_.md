@@ -1,0 +1,16 @@
+### Total Causal Order for the Notes of the Unit 1 - Characterization of Distributed Systems in the Subject of Distributed System
+
+- A distributed system is a collection of independent and autonomous processes that communicate and coordinate with each other by exchanging messages.
+- Events are the actions or occurrences that happen in a distributed system, such as sending or receiving a message, executing a local operation, or detecting a failure.
+- The order of events is important for understanding the behavior and correctness of a distributed system, especially in the presence of concurrency and failures.
+- A partial order is a binary relation that satisfies three properties: reflexivity, antisymmetry, and transitivity. A partial order can be represented by a directed acyclic graph (DAG), where the nodes are the events and the edges are the order relation.
+- A causal order is a partial order that captures the notion of potential causality or influence between events. An event e1 is causally related to an event e2, denoted by e1 -> e2, if one of the following conditions holds:
+  - e1 and e2 are events in the same process, and e1 happened before e2.
+  - e1 is the sending of a message m, and e2 is the receipt of the same message m.
+  - There exists an event e3 such that e1 -> e3 and e3 -> e2.
+- A causal order can be implemented by using logical clocks, which are counters that are incremented by each process at each local event and piggybacked on each message. A logical clock value can be used to label an event, and the causal order relation can be determined by comparing the logical clock values of the events.
+- A total order is a partial order that satisfies an additional property: totality. This means that for any two events e1 and e2 in the system, either e1 -> e2 or e2 -> e1 or both. A total order can be represented by a linear sequence, where the events are ordered from left to right according to the order relation.
+- A total order is useful for ensuring consistency and agreement among the processes in a distributed system, such as when delivering messages, taking snapshots, or executing transactions.
+- A total order can be implemented by using physical clocks, which are synchronized clocks that measure the real time. A physical clock value can be used to label an event, and the total order relation can be determined by comparing the physical clock values of the events.
+- A total-causal order is a total order that is consistent with the causal order, meaning that if e1 -> e2 in the causal order, then e1 -> e2 in the total order as well. A total-causal order is the strictest ordering in distributed systems; it establishes only one linearization, consistent with the causal ordering, among all the events that occur in the system, even those that occur concurrently.
+- A total-causal order can be implemented by using a combination of logical and physical clocks, or by using a distributed algorithm that assigns a unique sequence number to each event based on the causal order and the process identifier. A total-causal order can be used to provide fault tolerance and reliability for constructing distributed systems.

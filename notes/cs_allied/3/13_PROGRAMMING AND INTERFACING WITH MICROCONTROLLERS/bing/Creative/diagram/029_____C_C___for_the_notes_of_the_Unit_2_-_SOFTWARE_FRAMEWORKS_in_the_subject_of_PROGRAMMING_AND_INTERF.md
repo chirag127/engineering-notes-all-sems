@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of C/C++ for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS.
+
+### C/C++
+- C and C++ are two popular programming languages that are widely used for developing software applications, especially for embedded systems and microcontrollers.
+- C is a low-level, procedural language that provides direct access to the hardware and memory, and allows the programmer to manipulate bits and bytes efficiently.
+- C++ is an extension of C that supports object-oriented programming, which enables the programmer to create reusable classes and objects that encapsulate data and behavior.
+- Both C and C++ are compiled languages, which means that the source code is translated into machine code by a compiler before execution. This makes the programs fast and efficient, but also requires the programmer to deal with low-level details such as memory management and pointers.
+- C and C++ share a common syntax and grammar, but they differ in some features and conventions. For example, C++ supports operator overloading, multiple inheritance, templates, exceptions, and references, while C does not. C++ also has stricter type checking and scoping rules than C.
+- C and C++ are compatible with each other, which means that C code can be used in a C++ program and vice versa, as long as the code follows some rules and conventions. For example, C code should be enclosed in an `extern "C"` block to prevent name mangling by the C++ compiler, and C++ code should avoid using C keywords such as `new` and `delete`.
+- C and C++ are widely supported by various compilers, libraries, frameworks, and tools that facilitate the development, debugging, testing, and deployment of software applications. Some of the common tools are GCC, Visual Studio, Eclipse, Arduino, Qt, and Boost.

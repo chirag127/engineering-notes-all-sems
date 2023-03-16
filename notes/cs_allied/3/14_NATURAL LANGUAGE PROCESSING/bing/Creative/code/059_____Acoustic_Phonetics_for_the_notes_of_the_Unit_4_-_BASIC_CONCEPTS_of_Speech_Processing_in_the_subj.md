@@ -1,0 +1,8 @@
+### Acoustic Phonetics
+
+- Acoustic phonetics is the subfield of phonetics that deals with the acoustic aspects of speech sounds, such as their frequency, amplitude, and duration.
+- Acoustic phonetics investigates how speech sounds are produced by the vocal tract, how they are transmitted through the air, and how they are perceived by the human ear.
+- Acoustic phonetics uses various instruments and techniques to measure and analyze the physical properties of speech sounds, such as sound spectrographs, oscilloscopes, pitch trackers, and formant analyzers .
+- Acoustic phonetics is related to other branches of phonetics, such as articulatory phonetics, which studies how speech sounds are produced by the movements of the vocal organs, and auditory phonetics, which studies how speech sounds are perceived and processed by the human brain.
+- Acoustic phonetics is also related to abstract linguistic concepts, such as phonemes, which are the smallest units of sound that can distinguish meaning in a language, and prosody, which is the use of pitch, loudness, and duration to convey information about the structure and meaning of an utterance.
+- Acoustic phonetics is an instrumental and cumulative science that depends on the development of technology and the accumulation of knowledge over time. Acoustic phonetics has applications in various fields, such as speech recognition, speech synthesis, speech enhancement, speech pathology, forensics, and language teaching.

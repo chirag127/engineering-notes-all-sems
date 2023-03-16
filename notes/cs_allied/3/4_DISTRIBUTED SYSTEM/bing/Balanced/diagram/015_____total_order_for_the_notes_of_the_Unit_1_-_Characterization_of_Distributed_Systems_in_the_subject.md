@@ -1,0 +1,10 @@
+### Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing and coordinate their actions to achieve a common goal.
+- Events are occurrences that happen at a specific point in time and space in a distributed system.
+- A partial order is a binary relation that is reflexive, antisymmetric, and transitive. For example, the relation "happened before" is a partial order among events in a distributed system.
+- A total order is a partial order that is also complete, meaning that any two elements are comparable. For example, the relation "less than or equal to" is a total order among natural numbers.
+- A distributed system is said to have partial order if we can have a partial order relationship among the events in the system . For example, if two events are causally related, meaning that one event influenced the other, then they have a partial order.
+- A distributed system is said to have total order if we can have a total order relationship among all the events in the system . For example, if we can assign a unique timestamp to each event and compare them by their timestamps, then we have a total order.
+- Total order is useful for distributed system implementation because it can help ensure consistency, coordination, and agreement among the entities in the system. For example, if we want to implement a shared resource that can be accessed by only one entity at a time, we can use a total order to decide which entity has the priority to access the resource.
+- Total order can be implemented by using various algorithms and protocols, such as Lamport timestamps, vector clocks, logical clocks, consensus algorithms, etc . These methods can help assign a unique identifier to each event and compare them by some arbitrary mechanism to break ties .

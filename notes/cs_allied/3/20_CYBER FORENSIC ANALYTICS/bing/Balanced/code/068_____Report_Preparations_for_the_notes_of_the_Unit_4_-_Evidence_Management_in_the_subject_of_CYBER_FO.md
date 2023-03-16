@@ -1,0 +1,23 @@
+### Report Preparations for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of collecting, processing, analyzing, and handling digital evidence in a cyber forensic investigation.
+- Evidence management involves following the best practices and standards of digital forensics, such as:
+  - Don’t break the law when collecting, processing, analyzing, or handling evidence 
+  - Only mention the information that’s relevant to the case and the investigation objectives 
+  - Focus on concrete facts rather than your personal opinions or interpretations 
+  - Utilize any forensics notes you’ve made during the investigation itself 
+  - Avoid using complex terms and focus on conveying the relevant information in a manner that is coherent and simple to understand 
+  - Document and verify every step of the investigation and the evidence chain of custody 
+- Evidence management requires a combination of skills and knowledge, such as:
+  - A solid understanding of computer networking concepts, network security methodologies, risk management, computer and privacy laws, and data analytics
+  - An investigative mindset and the ability to follow the evidence trail and identify relevant sources and artifacts 
+  - Proficiency in using various tools and techniques for evidence collection, forensics for computers, smartphones, cloud, and networks 
+  - The ability to write clear, concise, and accurate forensic reports that can be presented to the court or other stakeholders  
+- Evidence management follows a general process that consists of the following steps  :
+  - Identify the scope and objectives of the investigation and the evidence sources
+  - Collect the evidence from the original devices or repositories using proper methods and tools
+  - Create an identical copy of the evidence and store it in a secure location
+  - Analyze the evidence copy using various tools and techniques to extract relevant information and artifacts
+  - Document the findings and the analysis process in a forensic report
+  - Verify the findings and the report with the original evidence and the investigation objectives
+  - Present the report to the court or other stakeholders

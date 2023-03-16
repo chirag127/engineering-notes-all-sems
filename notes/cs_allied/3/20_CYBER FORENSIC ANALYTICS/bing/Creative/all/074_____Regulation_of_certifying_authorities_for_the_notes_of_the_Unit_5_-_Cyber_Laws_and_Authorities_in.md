@@ -1,0 +1,22 @@
+# Regulation of Certifying Authorities
+
+- A certifying authority (CA) is an entity that issues digital certificates to verify the identity and authenticity of the users of electronic transactions.
+- The Information Technology Act, 2000 (IT Act) has established a regulatory framework for the CAs in India.
+- The IT Act empowers the Controller of Certifying Authorities (CCA) to license and supervise the CAs and to lay down the standards and conditions for their functioning.
+- The CCA is appointed by the Central Government and is assisted by a Deputy Controller and Assistant Controllers.
+- The CCA performs the following functions:
+  - Granting, renewing, revoking, suspending or rejecting the licenses of the CAs.
+  - Specifying the qualifications, experience and training of the CAs and their employees.
+  - Specifying the standards and procedures for the issuance and management of digital certificates.
+  - Specifying the format and content of the digital signature certificates.
+  - Maintaining a database of the public keys of the CAs and the digital signature certificates issued by them.
+  - Resolving any conflict of interests between the CAs and the subscribers of the digital certificates.
+  - Auditing the performance of the CAs and ensuring their compliance with the IT Act and the rules and regulations made thereunder.
+  - Advising the Central Government on any matter relating to the CAs and the digital signatures.
+- The CAs are required to obtain a license from the CCA before commencing their operations.
+- The CAs are required to follow the standards and procedures prescribed by the CCA and to ensure the security and confidentiality of the digital certificates and the keys associated with them.
+- The CAs are required to disclose the terms and conditions of their services to the subscribers and to maintain a record of the digital certificates issued by them.
+- The CAs are required to inform the CCA of any change in their particulars, any breach of security, any compromise of the keys or any revocation or suspension of the digital certificates.
+- The CAs are liable for any damage caused to the subscribers or any third party due to their negligence, fraud, misrepresentation or breach of duty.
+- The CAs are subject to the supervision and inspection of the CCA and are bound by the directions issued by the CCA from time to time.
+- The CAs are also subject to the penalties and punishments prescribed by the IT Act for any contravention of its provisions or the rules and regulations made thereunder.

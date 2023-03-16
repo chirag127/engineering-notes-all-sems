@@ -1,0 +1,21 @@
+## Unit 4 - Mining Data Streams
+
+- A data stream is a sequence of data items that arrives continuously and rapidly, such as sensor readings, network packets, web clicks, etc.
+- Mining data streams poses several challenges, such as:
+  - The data is unbounded and potentially infinite, so it cannot be stored or processed in its entirety.
+  - The data is transient and volatile, so it may not be available for future access or analysis.
+  - The data is noisy and uncertain, so it may contain errors, outliers, or missing values.
+  - The data is dynamic and evolving, so it may change its characteristics or distribution over time.
+- To address these challenges, data stream mining techniques need to be:
+  - Efficient and scalable, so they can process the data with limited time and memory resources.
+  - Incremental and adaptive, so they can update the results without reprocessing the entire data.
+  - Robust and resilient, so they can handle noise, outliers, and concept drift.
+  - Accurate and reliable, so they can provide meaningful and trustworthy insights.
+- Some common tasks and methods for data stream mining are:
+  - Sampling: selecting a representative subset of the data stream for analysis, using techniques such as reservoir sampling, sliding window sampling, or weighted sampling.
+  - Filtering: removing irrelevant or redundant data items from the data stream, using techniques such as bloom filters, sketches, or synopsis structures.
+  - Aggregation: computing summary statistics or functions over the data stream, using techniques such as count-min sketches, histograms, or wavelets.
+  - Clustering: grouping similar data items in the data stream into clusters, using techniques such as micro-clustering, density-based clustering, or streamKM++.
+  - Classification: assigning labels to data items in the data stream based on predefined classes, using techniques such as decision trees, naive Bayes, or Hoeffding trees.
+  - Outlier detection: identifying data items in the data stream that deviate from the normal behavior, using techniques such as distance-based methods, density-based methods, or subspace methods.
+  - Concept drift detection: detecting changes in the underlying distribution or structure of the data stream, using techniques such as statistical tests, error monitoring, or drift adaptation.

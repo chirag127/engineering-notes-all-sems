@@ -1,0 +1,14 @@
+### Session Layer for the notes of the Unit 4 - Transport & Session Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The session layer is the fifth layer of the OSI model that manages the connection between two endpoints of a network by controlling data between sender and receiver  .
+- The session layer protocols are responsible for the actual transmission of data in the IoT ecosystem. That's why these session layer protocols are also called as IoT messaging protocols or IoT data protocols  .
+- The session layer protocols review standards and protocols for message passing. Different standardization organizations introduce the IoT session layer protocols. There are different types of session layer protocols available with different functionality and range.
+- Some of the common IoT session layer protocols are   :
+  - MQTT (Message Queue Telemetry Transport): A lightweight, publish-subscribe protocol that is designed for low-bandwidth, high-latency, and unreliable networks. It is widely used for IoT applications that require real-time data delivery, such as smart home, smart grid, and industrial automation.
+  - CoAP (Constrained Application Protocol): A web transfer protocol that is optimized for constrained devices and networks. It is based on the RESTful architecture and uses UDP as the transport layer protocol. It supports features such as multicast, caching, and asynchronous communication. It is suitable for IoT applications that involve resource discovery, device management, and sensor networks.
+  - AMQP (Advanced Message Queuing Protocol): An open, binary, and application layer protocol that provides reliable, secure, and interoperable messaging between applications. It supports features such as message routing, queuing, delivery confirmation, and transactions. It is used for IoT applications that require high-performance, scalable, and distributed communication, such as cloud computing, big data, and enterprise integration.
+  - XMPP (Extensible Messaging and Presence Protocol): An XML-based protocol that enables the exchange of structured and extensible data between any two or more network entities. It supports features such as presence, chat, group chat, and publish-subscribe. It is used for IoT applications that require social and collaborative communication, such as smart city, smart health, and smart education.
+- The session layer also provides some functions such as:
+  - Dialog control: It allows systems to communicate in either half-duplex mode or full-duplex mode.
+  - Token management: It prevents two users to simultaneously access or transmit data over the same network.
+  - Synchronization: It allows the addition of checkpoints into a data stream so that the data can be recovered in case of failure or interruption.

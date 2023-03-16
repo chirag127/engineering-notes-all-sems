@@ -1,0 +1,25 @@
+# Dependency Grammar
+
+- Dependency grammar is a descriptive and theoretical tradition in linguistics that can be traced back to antiquity.
+- It has long been influential in the European linguistics tradition and has more recently become a mainstream approach to representing syntactic and semantic structure in natural language processing.
+- Dependency grammar is based on the idea that every word in a sentence depends on another word, except for the root word, which is the main predicate of the sentence.
+- The dependencies between words are represented by directed links from the head (or governor) word to the dependent (or modifier) word.
+- The links are labeled with the type of dependency relation, such as subject, object, modifier, etc.
+- Dependency grammar differs from phrase structure grammar, which uses hierarchical trees to group words into phrases and clauses.
+- Dependency grammar has some advantages over phrase structure grammar, such as:
+  - It is more economical and parsimonious, as it does not need to postulate empty categories or complex rules to account for word order variations.
+  - It is more compatible with semantic and pragmatic analysis, as it directly reflects the semantic roles and information structure of the sentence.
+  - It is more suitable for parsing and generating natural language, as it can handle discontinuous and non-projective constructions more easily.
+- Dependency grammar also has some challenges and limitations, such as:
+  - It is not always clear how to define the head and the dependent of a dependency relation, especially for complex or ambiguous constructions.
+  - It is not always consistent or universal across languages, as different languages may have different dependency structures and conventions.
+  - It is not always sufficient to capture all the syntactic and semantic phenomena of natural language, such as coordination, ellipsis, anaphora, etc.
+- Dependency grammar can be formalized and implemented in various ways, such as:
+  - Dependency tree: a tree structure where each node is a word and each edge is a dependency relation.
+  - Dependency matrix: a matrix where each row and column represents a word and each cell contains the dependency relation between the corresponding words.
+  - Dependency graph: a graph structure where each node is a word and each edge is a dependency relation, which can be directed or undirected, labeled or unlabeled, and can have cycles or multiple edges.
+- Dependency grammar can be applied to various tasks and applications in natural language processing, such as:
+  - Dependency parsing: the task of analyzing the dependency structure of a given sentence and producing a dependency representation, such as a dependency tree, matrix, or graph.
+  - Dependency generation: the task of producing a natural language sentence from a given dependency representation, such as a dependency tree, matrix, or graph.
+  - Dependency-based semantic analysis: the task of deriving the meaning of a sentence from its dependency structure, such as by using semantic role labeling, logical forms, or semantic graphs.
+  - Dependency-based information extraction: the task of extracting relevant information from a sentence based on its dependency structure, such as by using named entity recognition, relation extraction, or event extraction.

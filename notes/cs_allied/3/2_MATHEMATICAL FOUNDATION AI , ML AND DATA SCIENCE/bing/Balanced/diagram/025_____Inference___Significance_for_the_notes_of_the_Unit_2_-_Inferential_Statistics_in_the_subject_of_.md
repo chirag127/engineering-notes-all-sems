@@ -1,0 +1,26 @@
+### Inference & Significance
+
+- **Inference** is the process of making propositions or conclusions about a population, using data drawn from the population with some form of sampling.
+- **Significance** is a term used to measure how unlikely the observations could have occurred under the null hypothesis of a statistical test.
+- **Null hypothesis** is the default assumption that there is no relationship or difference between the variables of interest.
+- **Alternative hypothesis** is the opposite of the null hypothesis, and it states that there is a relationship or difference between the variables of interest.
+- **P-value** is the probability of obtaining the observed data or more extreme data, given that the null hypothesis is true.
+- **Alpha level** is the threshold for the p-value, below which the null hypothesis is rejected and the alternative hypothesis is accepted.
+- **Statistical significance** means that the p-value is less than the alpha level, and it indicates that the observed data is unlikely to occur by chance under the null hypothesis.
+- **Confidence interval** is a range of values that contains the true population parameter with a certain level of confidence.
+- **Margin of error** is the maximum possible difference between the point estimate and the true population parameter.
+- **Point estimate** is a single value that is used to estimate the population parameter, such as the sample mean or proportion.
+- **Sample size** is the number of observations or units in the sample.
+- **Sampling distribution** is the distribution of the point estimates from repeated sampling of the same population.
+- **Standard error** is the standard deviation of the sampling distribution.
+- **Z-score** is the number of standard errors that a point estimate is away from the hypothesized population parameter.
+- **Z-test** is a type of significance test that uses the z-score to compare the point estimate to the null hypothesis.
+- **T-test** is a type of significance test that uses the t-score to compare the point estimate to the null hypothesis, when the population standard deviation is unknown.
+- **T-score** is similar to the z-score, but it takes into account the sample size and the degrees of freedom.
+- **Degrees of freedom** is the number of independent pieces of information that are used to calculate the point estimate or the standard error.
+- **Type I error** is the error of rejecting the null hypothesis when it is true.
+- **Type II error** is the error of failing to reject the null hypothesis when it is false.
+- **Power** is the probability of correctly rejecting the null hypothesis when it is false.
+- **Effect size** is the measure of the magnitude or strength of the relationship or difference between the variables of interest.
+- **Cohen's d** is a common effect size measure for the difference between two means.
+- **Correlation coefficient** is a common effect size measure for the linear relationship between two variables.

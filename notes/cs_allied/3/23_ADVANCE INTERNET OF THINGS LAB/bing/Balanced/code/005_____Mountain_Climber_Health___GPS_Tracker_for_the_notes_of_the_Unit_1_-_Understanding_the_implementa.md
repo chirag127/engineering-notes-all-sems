@@ -1,0 +1,26 @@
+### Mountain Climber Health & GPS Tracker
+
+- Mountain Climber Health & GPS Tracker is a project that uses Arduino and sensors to monitor the health and location of mountain climbers over the Internet of Things (IOT) .
+- The project has the following advantages:
+  - Live Heartbeat Monitoring: The project uses a pulse sensor to measure the heartbeat of the climber and send it to the Arduino board. The Arduino board then sends the data to the IOT server using a Wi-Fi module .
+  - Upper & Lower Limit Settings: The project allows the user to set the upper and lower limits of the heartbeat and the altitude of the climber. If the climber's heartbeat or altitude crosses the limits, the Arduino board will send an SMS alert to the user's phone using a GSM module .
+  - IOT Live Vitals Display: The project uses a web page to display the live vitals of the climber, such as the heartbeat, the altitude, the temperature, and the GPS location. The web page also shows a map of the climber's route and a graph of the heartbeat over time .
+  - GPS Location Tracking: The project uses a GPS module to track the climber's location and send it to the Arduino board. The Arduino board then sends the data to the IOT server using a Wi-Fi module .
+  - Automatic Operation: The project does not require any manual intervention from the climber or the user. The Arduino board automatically collects and sends the data to the IOT server and the user's phone .
+- The project uses the following components:
+  - Arduino Uno: The Arduino Uno is a microcontroller board that controls the sensors and the modules. It also performs the logic and calculations for the project .
+  - Pulse Sensor: The pulse sensor is a device that measures the heartbeat of the climber by detecting the changes in blood volume in the finger. It sends the analog signal to the Arduino board .
+  - GPS Module: The GPS module is a device that receives the signals from the satellites and calculates the latitude and longitude of the climber. It sends the data to the Arduino board using a serial communication .
+  - Wi-Fi Module: The Wi-Fi module is a device that connects the Arduino board to the internet using a wireless network. It sends the data to the IOT server using an HTTP request .
+  - GSM Module: The GSM module is a device that connects the Arduino board to the cellular network using a SIM card. It sends the SMS alert to the user's phone using an AT command .
+  - LCD Display: The LCD display is a device that shows the climber's vitals on the Arduino board. It receives the data from the Arduino board using a parallel communication .
+  - Buzzer: The buzzer is a device that makes a sound when the climber's heartbeat or altitude crosses the limits. It receives the signal from the Arduino board using a digital pin .
+  - Temperature Sensor: The temperature sensor is a device that measures the ambient temperature of the climber. It sends the analog signal to the Arduino board .
+  - Pressure Sensor: The pressure sensor is a device that measures the atmospheric pressure of the climber. It sends the analog signal to the Arduino board .
+  - Breadboard: The breadboard is a device that provides a platform for connecting the components and the wires. It has rows and columns of holes that are electrically connected .
+  - Wires: The wires are used to connect the components and the Arduino board. They have different colors and lengths .
+  - Power Supply: The power supply is a device that provides the required voltage and current for the project. It can be a battery, a USB cable, or an adapter .
+- The project works as follows:
+  - The climber wears the pulse sensor on the finger and the GPS module on the backpack. The Arduino board, the Wi-Fi module, the GSM module, the LCD display, the buzzer, the temperature sensor, and the pressure sensor are also attached to the backpack .
+  - The Arduino board is powered by the power supply and programmed with the code that controls the project .
+  - The pulse sensor measures the heartbeat of the climber and sends the analog signal to the Arduino board. The Arduino board converts the signal to the digital value and displays it

@@ -1,0 +1,29 @@
+### Evidence Analysis for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence analysis is the process of examining and interpreting the digital evidence collected from a computer or a device involved in a crime or an incident .
+- Evidence analysis aims to reconstruct the events and actions that occurred on the device, identify the sources and destinations of the data, and establish the timeline and context of the activities.
+- Evidence analysis requires the use of various techniques and tools, depending on the type and format of the evidence, such as:
+  - Deleted file recovery: This technique involves recovering and restoring files or fragments deleted by a person—either accidentally or deliberately—or by a virus or malware.
+  - Reverse steganography: This technique involves detecting and extracting hidden data or messages embedded in other files, such as images, audio, or video.
+  - Database forensics: This technique involves retrieval and analysis of data or metadata found in databases, such as tables, queries, logs, or backups .
+  - Email forensics: This technique involves retrieval and analysis of messages, contacts, calendars, and other information on an email platform, such as headers, attachments, or encryption .
+  - Network forensics: This technique involves capture and analysis of network traffic, such as packets, protocols, or sessions, to identify the sources, destinations, and contents of the data transmitted or received.
+  - Mobile forensics: This technique involves extraction and analysis of data from mobile devices, such as phones, tablets, or smart watches, to access the device information, user data, applications, or location data.
+- Evidence analysis follows the principles and standards of forensic science, such as:
+  - Preservation: The evidence should be protected from any alteration, damage, or loss during the analysis process.
+  - Authentication: The evidence should be verified for its integrity, origin, and validity using methods such as hashing, digital signatures, or encryption.
+  - Documentation: The evidence should be recorded and documented with details such as the date, time, location, method, tool, and result of the analysis.
+  - Chain of custody: The evidence should be tracked and accounted for with information such as the identity, role, and responsibility of the persons who handled, analyzed, or transferred the evidence.
+  - Admissibility: The evidence should be presented in a form that is acceptable and understandable by the court, such as reports, exhibits, or testimony.
+- Evidence analysis is a crucial part of evidence management, which is the process of collecting, storing, preserving, analyzing, and presenting digital evidence in a forensically sound manner.
+- Evidence management involves the following steps:
+  - Identification: The first step is to identify the potential sources and types of digital evidence relevant to the case or the incident.
+  - Collection: The second step is to collect the digital evidence using appropriate methods and tools, such as imaging, copying, or seizing the devices.
+  - Storage: The third step is to store the digital evidence in a secure and controlled environment, such as a locked cabinet, a safe, or a server.
+  - Analysis: The fourth step is to analyze the digital evidence using the techniques and tools described above.
+  - Presentation: The fifth step is to present the digital evidence to the stakeholders, such as the investigators, the prosecutors, the defense, or the judge, in a clear and convincing manner.
+- Evidence management is a challenging and complex task that requires the skills and knowledge of cyber forensics specialists, who are trained and experienced in handling and processing digital evidence .
+- Evidence management is also influenced by various factors, such as the volume, variety, and volatility of the digital evidence, the legal and ethical issues involved, and the technological advancements and innovations in the field.
+- Evidence management is an essential and integral part of cyber forensics, which is the application of forensic science to the investigation and analysis of crimes or incidents involving computers or digital devices .
+- Cyber forensics is a multidisciplinary and dynamic field that covers various domains, such as law, computer science, information security, digital media, and network engineering .
+- Cyber forensics is a valuable

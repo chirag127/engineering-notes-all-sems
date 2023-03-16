@@ -1,0 +1,19 @@
+## Unit 3 - IOT Data Link Layer & Network Layer Protocols
+
+- The data link layer is the second layer of the OSI model and provides service to the network layer. It is responsible for transmitting and receiving data frames between devices on the same network.
+- The network layer is the third layer of the OSI model and provides service to the transport layer. It is responsible for routing and forwarding data packets between devices on different networks.
+- There are various protocols and standards that are used in the data link and network layers for IoT applications. Some of the common ones are:
+
+### Data Link Layer Protocols
+- **Bluetooth**: A short-range wireless communication protocol that operates on the 2.4 GHz radio frequency band. It supports low-power and low-cost devices and enables data exchange, voice communication, and device discovery. It is widely used for personal area networks (PANs) and wearable devices.
+- **Wi-Fi**: A medium-range wireless communication protocol that operates on the 2.4 GHz or 5 GHz radio frequency bands. It supports high-speed and high-capacity data transmission and enables internet access, local area networks (LANs), and wireless hotspots. It is widely used for home and office networks and smart devices.
+- **Zigbee**: A low-power and low-data-rate wireless communication protocol that operates on the 2.4 GHz radio frequency band. It supports mesh networking and self-healing capabilities and enables device control, monitoring, and automation. It is widely used for industrial and home automation, smart lighting, and smart metering.
+- **Z-Wave**: A low-power and low-data-rate wireless communication protocol that operates on the sub-GHz radio frequency bands. It supports mesh networking and interoperability and enables device control, monitoring, and automation. It is widely used for home automation, security, and smart appliances.
+- **LoRa**: A long-range and low-power wireless communication protocol that operates on the sub-GHz radio frequency bands. It supports star-of-stars topology and adaptive data rate and enables device connectivity, data transmission, and location tracking. It is widely used for smart cities, agriculture, and logistics.
+
+### Network Layer Protocols
+- **IPv4**: The fourth version of the Internet Protocol (IP) that provides logical addressing and packet delivery for devices on the internet. It supports 32-bit addresses and can accommodate up to 4.3 billion devices. It is widely used for most of the internet traffic and applications.
+- **IPv6**: The sixth version of the Internet Protocol (IP) that provides logical addressing and packet delivery for devices on the internet. It supports 128-bit addresses and can accommodate up to 3.4 x 10^38 devices. It is widely used for IoT applications that require scalability, security, and mobility.
+- **6LoWPAN**: A network layer protocol that enables IPv6 packets to be transmitted over low-power and low-data-rate wireless networks, such as Zigbee and Bluetooth Low Energy (BLE). It supports header compression, fragmentation, and mesh routing and enables end-to-end connectivity, interoperability, and internet access for IoT devices.
+- **CoAP**: A network layer protocol that provides a lightweight and RESTful application layer for IoT devices. It supports UDP, multicast, and asynchronous communication and enables resource discovery, data exchange, and device management for IoT devices. It is widely used for constrained and low-power devices and networks.
+- **MQTT**: A network layer protocol that provides a publish-subscribe messaging pattern for IoT devices. It supports TCP, SSL/TLS, and QoS and enables data transmission, event notification, and device communication for IoT devices. It is widely used for real-time and reliable applications, such as smart homes, healthcare, and industrial automation.

@@ -1,0 +1,22 @@
+### Cyber weapons
+
+- Cyber weapons are pieces of computer software or hardware that are used to commit cyberwarfare .
+- Cyberwarfare is the use of cyberattacks to damage, disrupt, or destroy the computers, networks, or information systems of another nation or organization.
+- Cyberattacks are malicious actions that exploit the vulnerabilities of digital devices or systems to compromise their confidentiality, integrity, or availability.
+- Cyber weapons can have different objectives, such as:
+  - Espionage: stealing or altering sensitive information or data from the target.
+  - Sabotage: causing physical, functional, or mental harm to the target's structures, systems, or living things .
+  - Influence: manipulating or deceiving the target's perception, behavior, or decision-making.
+- Cyber weapons can have different characteristics, such as:
+  - Lethality: the degree of damage or harm that a cyber weapon can cause to the target.
+  - Effect: the type and duration of the impact that a cyber weapon can have on the target, such as temporary, permanent, reversible, or irreversible.
+  - Employment: the mode and method of using a cyber weapon, such as remotely, locally, actively, or passively.
+- Cyber weapons can have different types, such as:
+  - Computer viruses: programs that can infect and replicate themselves on other computers, altering or deleting files or programs.
+  - Trojans: programs that appear to be harmless or useful, but contain hidden malicious code that can execute unauthorized actions on the target's computer.
+  - Spyware: programs that can monitor and collect information or data from the target's computer, such as keystrokes, browsing history, or personal details.
+  - Worms: programs that can spread across networks without human intervention, consuming bandwidth or resources, or creating backdoors for further attacks.
+- Cyber weapons can have different examples, such as:
+  - Stuxnet: a computer worm that targeted and damaged the Iranian nuclear program by causing centrifuges to malfunction.
+  - Flame: a spyware program that targeted and collected information from computers in the Middle East, such as audio, screenshots, or network traffic.
+  - NotPetya: a ransomware program that targeted and encrypted the files of computers in Ukraine and other countries, demanding payment for decryption.

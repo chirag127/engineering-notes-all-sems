@@ -1,0 +1,24 @@
+### Information Technology Act 2000
+
+- The Information Technology Act 2000 (also known as ITA-2000, or the IT Act) is an Act of the Indian Parliament (No 21 of 2000) notified on 17 October 2000 .
+- It is the primary law in India dealing with cybercrime and electronic commerce .
+- It came into force on October 17, 2000 and applies to the whole of India and to any offense committed inside or outside India's geographic boundaries and irrespective of nationality  .
+- It has 13 chapters, 94 sections and 4 schedules .
+- It covers various aspects of cyber law, such as:
+  - Legal recognition of electronic documents and digital signatures .
+  - Regulation of certifying authorities and electronic signature certificates .
+  - Offenses and penalties for cybercrimes, such as hacking, data theft, identity theft, cyber terrorism, etc .
+  - Adjudication and appeal mechanism for cyber disputes .
+  - Establishment of Cyber Appellate Tribunal and Cyber Regulations Advisory Committee .
+  - Protection of personal data and privacy .
+  - Interception, monitoring and decryption of electronic information .
+  - Liability of network service providers and intermediaries .
+  - Powers of police and other authorities to investigate and prosecute cybercrimes .
+  - Miscellaneous provisions, such as exemptions, amendments, savings, etc .
+- It was amended in 2008 to include new provisions, such as:
+  - Recognition of electronic signatures as a mode of authentication .
+  - Introduction of new offenses, such as child pornography, cyber stalking, phishing, etc .
+  - Enhancement of penalties for existing offenses .
+  - Expansion of the scope and powers of the authorities .
+  - Inclusion of new definitions, such as communication device, computer network, computer resource, etc .
+- It is a comprehensive and dynamic legislation that aims to provide a legal framework for the growth and development of information technology and e-commerce in India and to combat cybercrimes and protect the rights and interests of the users and service providers    .

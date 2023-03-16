@@ -1,0 +1,15 @@
+### Virus and Worms
+
+- A virus is a malicious program that attaches itself to another program or file and executes when the host is run. A virus can infect other files or programs on the same system or on other systems through removable media, network connections, or email attachments. A virus can harm the system's data or performance by deleting, modifying, encrypting, or corrupting files, displaying unwanted messages, consuming resources, or opening backdoors for remote access. A virus requires human action to replicate and spread.   
+
+- A worm is a malicious program that replicates itself without attaching to another program or file. A worm can spread through a computer network by exploiting vulnerabilities in software or protocols, or by using social engineering techniques to trick users into opening malicious attachments or links. A worm can harm the system's data or performance by consuming bandwidth, disk space, or CPU, deleting or modifying files, installing backdoors or other malware, or launching denial-of-service attacks. A worm can automatically replicate and spread without human action.    
+
+- Some examples of virus and worm attacks are:
+
+  - The ILOVEYOU virus was a Visual Basic script that was sent as an email attachment with the subject "ILOVEYOU" in 2000. It infected millions of computers worldwide by overwriting files, stealing passwords, and sending copies of itself to all the contacts in the user's address book. 
+
+  - The Conficker worm was a Windows-based worm that was first detected in 2008. It infected millions of computers worldwide by exploiting a vulnerability in the Windows Server service, using dictionary attacks to guess weak passwords, and copying itself to removable media. It created a botnet that could be used for various malicious purposes, such as stealing data, installing ransomware, or launching denial-of-service attacks. 
+
+  - The Stuxnet worm was a sophisticated cyberweapon that was designed to target the Iranian nuclear program in 2010. It infected Windows-based computers by using four zero-day exploits, spreading through USB drives, and using stolen digital certificates. It then targeted the programmable logic controllers that controlled the centrifuges used for uranium enrichment, causing them to malfunction and damage the equipment. 
+
+- Cyber forensics is the process of collecting, preserving, analyzing, and presenting digital evidence related to cybercrimes or cyber incidents. Cyber forensics can help identify the source, nature, and impact of virus and worm attacks, as well as the perpetrators, motives, and methods behind them. Cyber forensics can use various tools and techniques, such as antivirus software, malware analysis, network traffic analysis, file system analysis, memory analysis, or reverse engineering, to examine the infected systems and recover the relevant data. Cyber forensics can also help prevent or mitigate future virus and worm attacks by providing recommendations, best practices, or countermeasures to improve the security and resilience of the systems and networks.

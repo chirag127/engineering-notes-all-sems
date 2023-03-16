@@ -1,0 +1,21 @@
+### Honey Pots
+
+- A **honeypot** is a **cybersecurity mechanism** that uses a **manufactured attack target** to lure cybercriminals away from legitimate targets, and also gathers intelligence about the identity, methods and motivations of adversaries .
+- A honeypot can be modeled after any digital asset, including software applications, servers or the network itself .
+- Honeypots are typically configured to look like attractive targets to attackers—such as servers running vulnerable versions of operating systems or databases with easy passwords.
+- When attackers exploit the honeypot, their activities are monitored and recorded.
+- Honeypots can be used to **attract, detect, and deflect** cyberattacks, as well as to **collect data** for forensic analysis and threat intelligence .
+- Honeypots can be classified into different types based on their purpose, interaction level, and deployment mode .
+- The purpose of a honeypot can be either **research** or **production**. A research honeypot is used to study the behavior and techniques of attackers, while a production honeypot is used to protect a specific network or system .
+- The interaction level of a honeypot can be either **low**, **medium**, or **high**. A low-interaction honeypot simulates only the basic services and protocols of a target, while a high-interaction honeypot provides a realistic and fully functional environment for the attacker. A medium-interaction honeypot offers a compromise between the two extremes .
+- The deployment mode of a honeypot can be either **internal** or **external**. An internal honeypot is placed inside the network perimeter of an organization, while an external honeypot is placed outside the network perimeter. An internal honeypot can detect insider threats, while an external honeypot can detect external threats .
+- Honeypots have several advantages and disadvantages for cybersecurity. Some of the advantages are: 
+  - They can divert attackers from the real targets and waste their time and resources .
+  - They can provide early warning and detection of attacks and vulnerabilities .
+  - They can collect valuable information about the attackers and their methods .
+  - They can improve the security awareness and education of the organization .
+- Some of the disadvantages are:
+  - They can be detected and avoided by sophisticated attackers .
+  - They can be compromised and used as a launchpad for further attacks .
+  - They can pose legal and ethical issues regarding the consent and privacy of the attackers .
+  - They can require significant resources and expertise to maintain and analyze .

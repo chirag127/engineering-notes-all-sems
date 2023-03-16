@@ -1,0 +1,8 @@
+# Introduction for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the field of computer science that deals with the design, development and application of wearable devices that can sense, process and communicate information.
+- Wearable devices are typically worn on the body or embedded in clothing or accessories, and can provide various functions such as health monitoring, fitness tracking, entertainment, navigation, social interaction, etc.
+- Mixed reality is the field of computer science that deals with the creation and manipulation of digital content that is integrated with the physical environment, and can be experienced through various modalities such as vision, hearing, touch, etc.
+- Mixed reality can be classified into different categories based on the degree of immersion and interaction, such as augmented reality, virtual reality, augmented virtuality, etc.
+- Internet of Everything is the field of computer science that deals with the interconnection and integration of various devices, systems, people and processes through the internet, and can enable various applications such as smart cities, smart homes, smart agriculture, smart healthcare, etc.
+- Internet of Everything can be seen as an extension of the Internet of Things, which focuses on the communication and data exchange between physical objects, and can also incorporate other aspects such as cloud computing, big data, artificial intelligence, etc.

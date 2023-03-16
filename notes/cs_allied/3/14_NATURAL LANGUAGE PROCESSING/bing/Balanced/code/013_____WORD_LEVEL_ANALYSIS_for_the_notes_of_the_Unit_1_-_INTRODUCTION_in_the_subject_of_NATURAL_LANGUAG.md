@@ -1,0 +1,8 @@
+### WORD LEVEL ANALYSIS
+
+Word level analysis is a stage of natural language processing that deals with text at the individual word level. It involves the following tasks:
+
+- **Tokenization**: The process of splitting a text into smaller units called tokens, such as words, punctuation marks, numbers, etc. Tokenization is usually the first step of any natural language processing pipeline, as it prepares the text for further analysis. Tokenization can be done using various methods, such as whitespace, regular expressions, or specialized libraries.
+- **Morphological analysis**: The process of identifying the morphemes, the smallest meaningful units of a word, and their structure and function. Morphemes can be roots, stems, prefixes, suffixes, or inflections. Morphological analysis can help to determine the part of speech, number, tense, aspect, mood, voice, gender, case, or person of a word. Morphological analysis can be done using rules, dictionaries, or machine learning models.
+- **Stemming and lemmatization**: The process of reducing a word to its base form, either by removing affixes (stemming) or by finding the canonical form (lemmatization). Stemming and lemmatization can help to normalize the text and reduce the vocabulary size. Stemming and lemmatization can be done using rules, dictionaries, or machine learning models.
+- **Word sense disambiguation**: The process of determining the meaning of a word in a given context, among multiple possible meanings. Word sense disambiguation can help to improve the accuracy and relevance of natural language processing applications, such as information retrieval, machine translation, or text summarization. Word sense disambiguation can be done using rules, dictionaries, or machine learning models.

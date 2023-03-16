@@ -1,0 +1,23 @@
+### IOT based Manhole Detection and Monitoring System
+
+- IOT based Manhole Detection and Monitoring System is a project that aims to improve the safety and efficiency of the drainage system in urban areas by using sensors, GSM, GPS and cloud computing    .
+- The main objectives of this project are:
+  - To detect and prevent accidents caused by open or broken manholes using ultrasonic sensors and RFID tags   .
+  - To monitor and alert the authorities about the water level, flow rate and blockage in the drainage pipes using water level sensors and flow sensors    .
+  - To locate and identify the manholes using GPS and RFID readers   .
+  - To store and analyze the data collected from the sensors using cloud computing and web application    .
+- The main components of this project are:
+  - Arduino Uno: It is the microcontroller that controls the sensors and the communication modules   .
+  - Ultrasonic sensor: It is used to measure the distance between the sensor and the manhole cover and detect if the cover is open or closed   .
+  - RFID tag: It is attached to the manhole cover and contains the unique ID of the manhole   .
+  - RFID reader: It is used to read the RFID tag and send the ID to the Arduino   .
+  - Water level sensor: It is used to measure the water level in the drainage pipe and detect if there is any overflow or blockage    .
+  - Flow sensor: It is used to measure the flow rate of the water in the drainage pipe and detect if there is any abnormality    .
+  - GSM module: It is used to send the data and alerts from the Arduino to the cloud server using SMS   .
+  - GPS module: It is used to get the location of the manhole and send it to the cloud server   .
+  - Cloud server: It is used to store and process the data received from the GSM module and provide a web interface for the authorities to monitor and manage the manholes    .
+- The main advantages of this project are:
+  - It reduces the risk of accidents and injuries caused by open or broken manholes   .
+  - It improves the efficiency and maintenance of the drainage system by detecting and preventing water overflow and blockage    .
+  - It saves time and resources by providing real-time and accurate information about the manholes and their status    .
+  - It supports the development of smart cities by using IOT and cloud computing technologies    .

@@ -1,0 +1,24 @@
+### Honey Pots
+
+- A honey pot is a **cybersecurity mechanism** that uses a **manufactured attack target** to lure cybercriminals away from legitimate targets, and also gathers intelligence about the identity, methods and motivations of adversaries .
+- A honey pot can be modeled after any digital asset, including software applications, servers or the network itself .
+- Honeypots are network-attached systems intended to **mimic likely targets** of cyber attacks, such as vulnerable networks.
+- Honeypots can be used to **attract, detect, and deflect** cybercriminals from hacking into legitimate targets.
+- Honeypots can also serve **forensic purposes**, quietly gathering data about the hackers who stole it.
+- Honeypots are strategically built to **hoax the cyber criminal** into believing they have found a way to alter rights and steal authorizations.
+- When the trap is triggered, an alarm is sent to a **central deception server** that takes note of the affected decoy and the attack vectors that were used by the cyber criminal.
+- Honeypots can be classified into **research honeypots** and **production honeypots** based on their purpose and deployment .
+- Research honeypots are used to **collect information** about the techniques and strategies of cyber attackers, and are usually deployed by security researchers or organizations .
+- Production honeypots are used to **enhance the security** of a network or system, and are usually deployed by businesses or government agencies .
+- Honeypots can also be classified into **low-interaction honeypots** and **high-interaction honeypots** based on their level of complexity and involvement .
+- Low-interaction honeypots are **simple and easy** to deploy and maintain, but they only provide limited information and interaction to the attackers .
+- High-interaction honeypots are **complex and realistic** to deploy and maintain, but they provide detailed information and interaction to the attackers, and can also capture malware and exploits .
+- Honeypots have several **advantages** such as:
+  - They can **distract** the attackers from the real targets and waste their time and resources .
+  - They can **detect** the attacks that are not caught by other security tools and alert the defenders .
+  - They can **defend** the network or system by slowing down or stopping the attackers .
+  - They can **collect** valuable information about the attackers' identity, methods, and motivations, and help improve the security measures .
+- Honeypots also have some **disadvantages** such as:
+  - They can **attract** unwanted attention and increase the risk of being attacked .
+  - They can **mislead** the defenders by generating false positives or negatives, or by being compromised by the attackers .
+  - They can **violate** the legal or ethical issues of privacy, entrapment, or liability, depending on the jurisdiction and the context .

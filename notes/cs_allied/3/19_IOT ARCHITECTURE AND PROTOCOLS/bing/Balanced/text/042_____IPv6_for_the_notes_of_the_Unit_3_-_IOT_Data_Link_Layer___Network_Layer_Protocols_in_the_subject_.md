@@ -1,0 +1,18 @@
+### IPv6
+
+IPv6 is the next generation Internet Protocol (IP) standard intended to eventually replace IPv4, the protocol many Internet services still use today. IPv6 is designed to solve many of the problems of IPv4, such as address depletion, security, auto-configuration, extensibility, and so on. IPv6 expands the capabilities of the Internet to enable new kinds of applications, including peer-to-peer and mobile applications.
+
+Some of the important features and uses of IPv6 are:
+
+- IPv6 addresses: An IPv6 address uses 128 bits, four times more than the IPv4 address, which uses only 32 bits. This allows for a much larger address space, which can accommodate more devices and networks on the Internet. IPv6 addresses are written using hexadecimal, as opposed to dotted decimal in IPv4. For example, an IPv6 address may look like this: 2001:db8:0:1234:0:567:8:1.
+- Network and node addresses: In IPv4, address classes were used to split an address into two components: a network component and a node component. In IPv6, the address is divided into two parts: a 64-bit network prefix and a 64-bit interface identifier. The network prefix identifies the network or subnet to which the device belongs, and the interface identifier identifies the device or interface on that network. The interface identifier can be derived from the MAC address of the device, or randomly generated for privacy reasons.
+- IPv6 address types and scope: IPv6 defines different types of addresses for different purposes and scopes. Some of the common address types are:
+
+  - Link-local: These are addresses that are valid only on the local link or subnet. They are used for communication between devices on the same link, such as neighbor discovery, router advertisement, and address resolution. They start with the prefix fe80::/10.
+  - Global unicast: These are addresses that are globally unique and routable on the Internet. They are used for communication between devices on different networks. They start with any prefix other than fe80::/10, fc00::/7, or ff00::/8.
+  - Unique local: These are addresses that are locally unique and routable within a site or a group of sites. They are used for communication between devices that do not need global connectivity, such as private networks. They start with the prefix fc00::/7.
+  - Multicast: These are addresses that are used to send packets to multiple destinations at once. They are used for group communication, such as video streaming, conferencing, and service discovery. They start with the prefix ff00::/8.
+  - Anycast: These are addresses that are assigned to multiple devices that provide the same service. They are used to send packets to the nearest or best device among the group, such as load balancing, redundancy, and mobility. They can use any of the above address types, except multicast.
+
+- Using IPv6 addresses in uniform resource locators (URLs): IPv6 addresses can be used in URLs to access web resources, such as websites, files, and services. However, since IPv6 addresses contain colons, which are also used to separate the protocol and port number in URLs, they need to be enclosed in square brackets to avoid confusion. For example, a URL with an IPv6 address may look like this: http://[2001:db8:0:1234:0:567:8:1]:80/index.html.
+- IPv6 loopback: The loopback address is a special address that is used to test the connectivity and functionality of the local device. It is used to send packets to itself, without involving any external network. In IPv4, the loopback address is 127.0.0.1. In IPv6, the loopback address is ::1. For example, a ping command to the loopback address may look like this: ping ::1.

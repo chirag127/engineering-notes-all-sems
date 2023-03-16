@@ -1,0 +1,34 @@
+### IOT based Manhole Detection and Monitoring System
+
+- A drainage monitoring system plays a significant role in keeping towns and cities healthy and clean.
+- Most of the manholes are open without any observation that cause accidents. In India, many cities adopted emptying underground system because it is vital.
+- IOT based manhole detection and monitoring system is a solution that uses sensors to detect and send alerts to authorities via GSM and GPS module when any manhole crosses its threshold values .
+- This system reduces the death risk of manual scavengers who clean the underground drainage and also benefits the public.
+- This system also prevents contamination of fresh water due to problem in sewage drainage system and urban floods which are most common in crowded cities.
+- The main components of this system are:
+  - Arduino Uno: It is the microcontroller that controls the sensors and the communication modules  .
+  - Water level sensor: It is used to measure the water level in the manhole and send the data to the Arduino  .
+  - Gas sensor: It is used to detect the presence of harmful gases in the manhole and send the data to the Arduino  .
+  - Ultrasonic sensor: It is used to detect the presence of any obstacle or human in the manhole and send the data to the Arduino  .
+  - GSM module: It is used to send SMS alerts to the authorities with the location and status of the manhole  .
+  - GPS module: It is used to get the coordinates of the manhole and send them to the GSM module  .
+  - LCD display: It is used to show the readings of the sensors and the status of the system  .
+  - Buzzer: It is used to produce an audible alarm when any threshold value is crossed  .
+- The working of this system is as follows:
+  - The sensors are placed inside the manhole and connected to the Arduino  .
+  - The Arduino reads the data from the sensors and compares them with the predefined threshold values  .
+  - If any value is crossed, the Arduino sends a signal to the GSM module and the buzzer  .
+  - The GSM module sends an SMS alert to the authorities with the location and status of the manhole  .
+  - The buzzer produces an alarm to warn the nearby people  .
+  - The LCD display shows the readings of the sensors and the status of the system  .
+- The advantages of this system are:
+  - It is low cost, low maintenance, and real time.
+  - It is easy to install and operate.
+  - It improves the safety and hygiene of the city .
+  - It reduces the human intervention and manual errors .
+  - It saves time and resources for the authorities .
+- The challenges of this system are:
+  - It requires a reliable power supply and network connectivity .
+  - It may face interference from other wireless devices .
+  - It may need regular calibration and maintenance of the sensors .
+  - It may not be able to cover all the manholes in a large city .

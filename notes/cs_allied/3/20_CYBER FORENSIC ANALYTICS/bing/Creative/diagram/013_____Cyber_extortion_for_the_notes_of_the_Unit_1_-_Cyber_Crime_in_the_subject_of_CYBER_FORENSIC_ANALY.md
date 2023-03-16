@@ -1,0 +1,16 @@
+### Cyber extortion
+
+Cyber extortion is a form of cybercrime in which hackers or cybercriminals threaten to harm or damage an organization's data, systems, website, or reputation unless they receive a ransom or some other benefit. Cyber extortion can take various forms, such as:
+
+- **Ransomware**: A type of malware that encrypts the victim's files or locks the victim's device and demands a payment to restore access. Ransomware can affect individual users, businesses, or public institutions. Some examples of ransomware are CryptoLocker, WannaCry, and Ryuk.
+- **Distributed denial-of-service (DDoS) attacks**: A type of cyberattack that floods the victim's network or server with a large amount of traffic or requests, making it slow down or crash. DDoS attackers may demand a payment to stop the attack or to prevent future attacks. Some examples of DDoS attacks are Mirai, Dyn, and GitHub.
+- **Data breach extortion**: A type of cyberattack that involves stealing or accessing the victim's sensitive or confidential data, such as personal information, financial records, or trade secrets. Data breach extortionists may demand a payment to delete the data, return the data, or refrain from exposing or selling the data to third parties. Some examples of data breach extortion are Ashley Madison, Sony Pictures, and Colonial Pipeline.
+- **Reputation damage extortion**: A type of cyberattack that involves threatening to harm the victim's reputation or credibility by spreading false or damaging information, such as fake news, negative reviews, or defamatory content. Reputation damage extortionists may demand a payment to remove the information, stop the campaign, or restore the reputation. Some examples of reputation damage extortion are Yelp, Ripoff Report, and Sextortion.
+
+Cyber extortion is a serious and growing threat that can cause significant financial, operational, and reputational losses to organizations and individuals. Cyber extortion can also have legal, regulatory, and ethical implications, depending on the nature and scope of the attack and the response. Therefore, it is important to understand the risks and challenges of cyber extortion and to adopt appropriate measures to prevent, detect, and respond to cyber extortion incidents. Some of the best practices to mitigate cyber extortion are:
+
+- Implementing robust cybersecurity policies and procedures, such as data encryption, backup, firewall, antivirus, and patch management.
+- Educating and training employees and users on how to recognize and avoid phishing emails, malicious attachments, and suspicious links that may deliver ransomware or other malware.
+- Monitoring and testing network and system performance and security regularly to identify and address any vulnerabilities or anomalies.
+- Establishing and maintaining a crisis management and incident response plan that outlines the roles and responsibilities, communication channels, and escalation procedures in the event of a cyber extortion attack.
+- Reporting and cooperating with law enforcement and regulatory authorities in the investigation and prosecution of cyber extortion cases.

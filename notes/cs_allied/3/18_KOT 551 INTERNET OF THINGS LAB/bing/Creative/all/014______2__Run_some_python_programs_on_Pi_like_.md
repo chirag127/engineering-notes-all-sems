@@ -1,0 +1,8 @@
+#### 2. Run some python programs on Pi like:
+
+- To run python programs on Pi, you need to have a Raspberry Pi device, a microSD card, a power supply, a keyboard, a mouse, and a monitor. You also need to install an operating system such as Raspberry Pi OS on the microSD card.
+- Python is a popular programming language that can be used to create various applications, such as games, web servers, data analysis, and more. Python comes pre-installed on Raspberry Pi OS, so you don't need to download or install anything else to start coding.
+- To run a python program on Pi, you can use one of the following methods:
+  - Use the Python Shell, which is an interactive environment where you can type and execute python commands one by one. You can access the Python Shell by opening the Terminal application and typing `python3` and pressing Enter. To exit the Python Shell, type `exit()` and press Enter.
+  - Use the Thonny IDE, which is an integrated development environment that allows you to write, run, and debug python programs in a graphical user interface. You can access the Thonny IDE by opening the Menu application and selecting Programming > Thonny Python IDE. To run a python program in Thonny, you can either open an existing file or create a new one, and then click the green Run button or press F5.
+  - Use the command line, which is a text-based interface where you can run python programs by typing commands in the Terminal application. To run a python program from the command line, you need to navigate to the directory where the file is located, and then type `python3 filename.py` and press Enter, where filename.py is the name of your python file. To exit the command line, type `exit` and press Enter.

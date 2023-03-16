@@ -1,0 +1,11 @@
+# Inference Procedure for Correlation Coefficient
+
+- A correlation coefficient is a numerical measure of the strength and direction of a linear relationship between two variables.
+- The most common correlation coefficient is the Pearson correlation coefficient (r), which ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 0 indicates no linear relationship, and 1 indicates a perfect positive linear relationship.
+- To test the significance of the Pearson correlation coefficient, we can use the following steps:
+
+  1. State the null and alternative hypotheses. The null hypothesis is that there is no linear relationship between the two variables, or r = 0. The alternative hypothesis is that there is a linear relationship between the two variables, or r ≠ 0.
+  2. Calculate the t value using the formula: t = r * sqrt((n - 2) / (1 - r^2)), where n is the sample size and r is the sample correlation coefficient.
+  3. Find the critical value of t from a t table, using the degrees of freedom (df) equal to n - 2 and the significance level (α) of the test. The critical value of t is the value that divides the rejection region from the non-rejection region of the t distribution.
+  4. Compare the t value to the critical value of t. If the absolute value of the t value is greater than the critical value of t, then we reject the null hypothesis and conclude that there is a significant linear relationship between the two variables. If the absolute value of the t value is less than or equal to the critical value of t, then we fail to reject the null hypothesis and conclude that there is no significant linear relationship between the two variables.
+  5. Report the p value of the test, which is the probability of obtaining a t value as extreme or more extreme than the observed t value, assuming the null hypothesis is true. The p value can be calculated using a t table or a calculator. The smaller the p value, the stronger the evidence against the null hypothesis. If the p value is less than or equal to the significance level of the test, then we reject the null hypothesis. If the p value is greater than the significance level of the test, then we fail to reject the null hypothesis.

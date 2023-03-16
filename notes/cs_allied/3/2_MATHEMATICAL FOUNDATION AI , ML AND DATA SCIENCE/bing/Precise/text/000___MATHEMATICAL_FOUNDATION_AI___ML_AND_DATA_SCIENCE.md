@@ -1,0 +1,7 @@
+# MATHEMATICAL FOUNDATION AI, ML AND DATA SCIENCE
+
+Mathematics is an essential foundation of any contemporary discipline of science. Therefore, almost all data science techniques and concepts, such as Artificial Intelligence (AI) and Machine Learning (ML), have deep-rooted mathematical underpinnings.
+
+- Development of AI is a widely recognized challenge of our generation. In many instances, AI requires computer programs or algorithms simulating or modeling aspects of human behavior or accompanying human activity, and the mathematical tools are at the heart of such algorithms.
+- Mathematics plays an important role as it builds the foundation for programming for these two streams. And in this course, we’ve covered exactly that. We designed a complete course to help you master the mathematical foundation required for writing programs and algorithms for AI and ML.
+- This repo is home to the code that accompanies Jon Krohn's Machine Learning Foundations curriculum, which provides a comprehensive overview of all of the subjects — across mathematics, statistics, and computer science — that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques.

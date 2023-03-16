@@ -1,0 +1,11 @@
+### Introduction - History and Evolution
+
+- Business intelligence (BI) is the process of collecting, analyzing, and presenting data to support decision making and improve performance in organizations.
+- The term BI was coined in 1989 by Howard Dresner, a former Gartner analyst, who defined it as "concepts and methods to improve business decision making by using fact-based support systems" .
+- However, the origins of BI can be traced back to the 19th century, when Richard Millar Devens described how a banker used information about market trends to gain a competitive advantage in his book "Cyclopaedia of Commercial and Business Anecdotes" .
+- The evolution of BI can be divided into four main stages:   
+
+  - **Pre-digital era (before 1950s):** The earliest forms of BI were based on manual data collection and analysis, such as census, surveys, and accounting records. The main challenges were the lack of data availability, accuracy, and timeliness.
+  - **Early digital era (1950s-1980s):** The advent of computers and databases enabled the automation of data processing and storage, as well as the development of decision support systems (DSS) and executive information systems (EIS) that provided interactive and graphical interfaces for data analysis and reporting. The main challenges were the high cost, complexity, and inflexibility of these systems, as well as the lack of integration and standardization of data sources.
+  - **Modern digital era (1990s-2010s):** The emergence of the internet, data warehousing, online analytical processing (OLAP), data mining, and business analytics (BA) expanded the scope and capabilities of BI, as well as the accessibility and usability of data for various users and purposes. The main challenges were the increasing volume, variety, and velocity of data, as well as the need for more advanced and predictive analytics.
+  - **Future digital era (2020s and beyond):** The advancement of artificial intelligence (AI), machine learning (ML), cloud computing, big data, and data visualization are transforming BI into a more automated, intelligent, and agile process that can provide real-time, personalized, and prescriptive insights and recommendations. The main challenges are the ethical, legal, and social implications of data usage, as well as the need for human oversight and collaboration.

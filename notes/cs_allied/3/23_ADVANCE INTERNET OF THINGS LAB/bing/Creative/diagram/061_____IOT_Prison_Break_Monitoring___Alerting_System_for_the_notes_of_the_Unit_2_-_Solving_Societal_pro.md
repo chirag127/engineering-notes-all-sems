@@ -1,0 +1,23 @@
+### IOT Prison Break Monitoring & Alerting System
+
+- The system is designed to prevent and detect prison breaks by tracking the location and activities of the inmates using radio frequency (RF) technology and Internet of Things (IoT)    .
+- The system consists of the following components:
+  - RF trackers: These are small devices that are attached to each inmate and transmit a unique code wirelessly. The code identifies the inmate and his/her validated location in the prison premises   .
+  - RF receivers: These are circuits that are installed in the prison facility and scan the RF signals from the trackers. They are connected to a microcontroller that processes the data and sends it to the IoT portal   .
+  - IoT portal: This is an online platform that receives the data from the microcontroller and displays the status and location of each inmate on a dashboard. It also alerts the authorities in case of a prison break by sounding an alarm and sending a notification   .
+- The system works as follows:
+  - The RF trackers continuously transmit their codes to the RF receivers in the prison facility   .
+  - The RF receivers collect the codes and send them to the microcontroller   .
+  - The microcontroller compares the codes with the data stored in its memory and determines the location and status of each inmate   .
+  - The microcontroller sends the data to the IoT portal using a Wi-Fi or Ethernet connection   .
+  - The IoT portal displays the data on a dashboard and alerts the authorities in case of a prison break   .
+- The system has the following advantages:
+  - It enhances the security and safety of the prison facility by preventing and detecting prison breaks in real time    .
+  - It reduces the manpower and cost required for monitoring and managing the inmates    .
+  - It provides a digital and reliable record of the inmates' activities and location    .
+  - It improves the transparency and accountability of the prison administration    .
+- The system has the following challenges and limitations:
+  - It requires a robust and secure network infrastructure to transmit and receive the data    .
+  - It may face interference or jamming from external sources or malicious attacks    .
+  - It may raise ethical and legal issues regarding the privacy and human rights of the inmates    .
+  - It may not be able to detect other forms of escape or violence that do not involve leaving the premises    .

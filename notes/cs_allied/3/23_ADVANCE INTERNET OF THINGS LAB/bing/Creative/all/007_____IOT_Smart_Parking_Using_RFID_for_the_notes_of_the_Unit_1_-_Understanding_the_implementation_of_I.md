@@ -1,0 +1,27 @@
+# IOT Smart Parking Using RFID
+
+- IOT (Internet of Things) is the interconnection of devices, sensors, and software over the internet to exchange data and perform tasks.
+- RFID (Radio Frequency Identification) is a technology that uses electromagnetic fields to identify and track tags attached to objects.
+- IOT Smart Parking Using RFID is a system that aims to replace the traditional parking system with a high technological, IoT based smart parking using RFID .
+- The system consists of the following components:
+  - RFID tags: These are passive tags that are attached to the vehicles and contain a unique identification number.
+  - RFID readers: These are devices that can read the RFID tags and send the data to the server.
+  - ESP8266: This is a low-cost Wi-Fi module that can communicate with the server and control the LED indicators and the servo motor.
+  - LED indicators: These are lights that show the status of the parking slots (green for available, red for occupied).
+  - Servo motor: This is a motor that can rotate the gate to allow or deny access to the parking slot.
+  - Mobile app: This is an application that can display the available parking slots and the location of the vehicle on a map.
+- The system works as follows:
+  - The user scans the RFID tag at the entrance of the parking area and the RFID reader sends the data to the server.
+  - The server checks the availability of the parking slots and assigns one to the user.
+  - The server sends the slot number and the location of the vehicle to the mobile app.
+  - The ESP8266 receives the slot number and the status of the parking slots from the server and controls the LED indicators and the servo motor accordingly.
+  - The user parks the vehicle in the assigned slot and the LED indicator turns red.
+  - The user scans the RFID tag again at the exit of the parking area and the RFID reader sends the data to the server.
+  - The server updates the status of the parking slot and the location of the vehicle.
+  - The ESP8266 receives the updated status and turns the LED indicator green and rotates the gate to allow the user to exit.
+- The advantages of the system are:
+  - It reduces the search time and the fuel consumption of the vehicles.
+  - It optimizes the utilization of the parking space and the revenue of the parking operators.
+  - It enhances the security and the convenience of the users.
+  - It provides real-time information and feedback to the users and the operators.
+  - It is scalable and adaptable to different scenarios and environments.

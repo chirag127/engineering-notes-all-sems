@@ -1,1 +1,0 @@
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to discuss.

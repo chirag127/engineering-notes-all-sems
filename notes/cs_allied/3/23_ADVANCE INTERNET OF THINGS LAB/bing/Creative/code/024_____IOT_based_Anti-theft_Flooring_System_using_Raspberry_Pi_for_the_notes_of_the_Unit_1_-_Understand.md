@@ -1,0 +1,24 @@
+### IOT based Anti-theft Flooring System using Raspberry Pi
+
+- This system is designed to secure and guard the house in the absence of the owner by monitoring the entire floor for movement and alerting the user through mail over IOT  .
+- The system consists of the following components:
+  - Raspberry Pi: It is the main controller of the system that processes the signals from the sensors and controls the camera and the wifi modem   .
+  - Piezo sensors: They are attached to the flooring tiles and detect the pressure or vibration caused by the footsteps of the intruder   .
+  - Camera: It is connected to the Raspberry Pi and captures the image of the intruder when the movement is detected   .
+  - Wifi modem: It is used to connect the Raspberry Pi to the internet and send the image and the alert message to the user's email   .
+- The working of the system is as follows:
+  - The system is turned on by the user when he/she leaves the house  .
+  - The system monitors the entire floor for any movement using the piezo sensors   .
+  - If any movement is detected, the piezo sensor sends a signal to the Raspberry Pi   .
+  - The Raspberry Pi then moves the camera to the area where the movement was detected and captures the image of the intruder   .
+  - The Raspberry Pi then sends the image and the alert message to the user's email using the wifi modem   .
+  - The user can then check the image and take appropriate action   .
+- The advantages of the system are:
+  - It is cost-effective and easy to implement   .
+  - It covers the entire floor and does not require any additional sensors or devices   .
+  - It is reliable and accurate in detecting the movement and capturing the image   .
+  - It is user-friendly and convenient as it alerts the user through email over IOT   .
+- The disadvantages of the system are:
+  - It may generate false alarms due to noise or vibration from other sources   .
+  - It may not work properly if the wifi connection is weak or unavailable   .
+  - It may not capture the clear image of the intruder if the lighting is poor or the camera angle is not optimal   .

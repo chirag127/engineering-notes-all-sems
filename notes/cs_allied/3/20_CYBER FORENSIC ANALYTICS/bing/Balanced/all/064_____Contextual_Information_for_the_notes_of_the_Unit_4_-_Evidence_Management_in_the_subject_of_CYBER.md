@@ -1,0 +1,42 @@
+# Contextual Information for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of identifying, collecting, acquiring, preserving, and analyzing digital evidence from computing systems in a forensically sound manner .
+- Evidence management is crucial for cyber defense forensics analysts, who help organizations investigate cybersecurity incidents and look into potential cybercrime activities.
+- Evidence management requires a solid understanding of computer networking concepts, network security methodologies, risk management, computer and privacy laws, and data analytics.
+- Evidence management follows a five-step process:
+  - Identification: Information needs to be gathered before the digital device is even touched. It won’t often be clear what contextual information is relevant to an investigation until much later. Some examples of contextual information are:
+    - The type, model, and serial number of the device
+    - The owner, user, and location of the device
+    - The date and time of the incident and the device seizure
+    - The reason and scope of the investigation
+    - The chain of custody and the authorized personnel involved
+  - Collection: The device needs to be handled carefully and securely to avoid any damage, alteration, or loss of evidence. Some best practices for collection are:
+    - Documenting the device and its surroundings with photographs, notes, sketches, etc.
+    - Isolating the device from any network or power source to prevent remote access or data wiping
+    - Using appropriate tools and techniques to collect the device and any removable media
+    - Labeling and packaging the device and the media in anti-static bags or containers
+    - Transporting the device and the media to a secure location or a forensic laboratory
+  - Acquisition: The device needs to be imaged or copied in a bit-by-bit manner to create an exact replica of the original data. Some best practices for acquisition are:
+    - Using a write-blocker or a write-protected device to prevent any modification of the original data
+    - Verifying the integrity of the original data and the image with hash values or checksums
+    - Creating multiple copies of the image for backup and analysis purposes
+    - Storing the original data and the image in a safe and locked place
+  - Preservation: The image needs to be protected from any unauthorized access, modification, or deletion. Some best practices for preservation are:
+    - Encrypting the image with a strong password or a key
+    - Logging and documenting any access or activity related to the image
+    - Following the legal and ethical guidelines for evidence handling and retention
+    - Disposing of the image securely when it is no longer needed
+  - Analysis: The image needs to be examined and interpreted to extract relevant information and evidence for the investigation. Some best practices for analysis are:
+    - Using appropriate tools and techniques to recover, extract, and analyze data from the image
+    - Applying data analytics methods to identify patterns, trends, anomalies, and correlations in the data
+    - Reporting and presenting the findings and conclusions in a clear, concise, and objective manner
+    - Validating and verifying the findings and conclusions with other sources of evidence or experts
+- Evidence management faces various challenges and opportunities in the field of cyber forensic analytics, such as  :
+  - The increasing volume, variety, and velocity of digital data and devices
+  - The evolving and emerging technologies and techniques for data generation, storage, and transmission
+  - The complex and dynamic nature of cyberattacks and cybercrimes
+  - The legal and ethical issues and standards for digital evidence admissibility and reliability
+  - The human and cognitive factors and biases that affect forensic decision making
+  - The need for collaboration and communication among forensic analysts, investigators, and stakeholders
+  - The development and implementation of new tools and methods for evidence management and analysis
+  - The education and training of current and future forensic analysts and professionals

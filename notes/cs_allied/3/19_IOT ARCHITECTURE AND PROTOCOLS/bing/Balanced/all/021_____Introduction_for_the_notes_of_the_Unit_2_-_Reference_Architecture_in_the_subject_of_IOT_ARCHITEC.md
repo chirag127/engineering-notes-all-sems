@@ -1,0 +1,15 @@
+# Introduction for the notes of the Unit 2 - Reference Architecture in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- In this unit, we will learn about the reference architecture for the Internet of Things (IoT), which is a conceptual framework that defines the key components, functions, and interfaces of an IoT system.
+- A reference architecture provides a common vocabulary, a set of principles and best practices, and a logical structure for designing and implementing IoT solutions.
+- A reference architecture can also facilitate interoperability, scalability, security, and manageability of IoT systems across different domains and applications.
+- There are various reference architectures proposed by different organizations and standardization bodies for the IoT, such as the IoT-A, the IEEE P2413, the ISO/IEC 30141, and the oneM2M.
+- In this unit, we will focus on the oneM2M reference architecture, which is a global standard for machine-to-machine (M2M) and IoT communications.
+- The oneM2M reference architecture defines a common service layer that can be embedded in various hardware and software platforms, and that can interact with different network technologies and application domains.
+- The oneM2M reference architecture consists of three main entities: the Application Entity (AE), the Common Services Entity (CSE), and the Network Services Entity (NSE).
+- The AE represents the application logic and the end-user interface of an IoT system. It can be hosted on devices, gateways, or servers, and it can communicate with other AEs or CSEs using the oneM2M service layer protocols.
+- The CSE provides the core functionality of the oneM2M service layer, such as data management, device management, security, discovery, and subscription/notification. It can be hosted on devices, gateways, servers, or cloud platforms, and it can communicate with other CSEs or NSEs using the oneM2M service layer protocols or the underlying network protocols.
+- The NSE represents the network infrastructure and the network services that enable the connectivity and the transport of data between CSEs and AEs. It can include various network technologies, such as cellular, Wi-Fi, Bluetooth, Zigbee, or LoRaWAN, and it can communicate with CSEs using the underlying network protocols or the oneM2M service layer protocols.
+- The oneM2M reference architecture also defines a set of common service functions (CSFs) that can be implemented by the CSEs or the NSEs, such as registration, access control, group management, location, time series, semantic, and interworking.
+- The oneM2M reference architecture supports a variety of deployment scenarios and communication patterns, such as device-to-device, device-to-cloud, device-to-gateway, and gateway-to-cloud.
+- The oneM2M reference architecture aims to provide a horizontal and modular approach for developing and integrating IoT systems across different domains and applications, such as smart cities, smart homes, smart health, smart agriculture, and smart industry.

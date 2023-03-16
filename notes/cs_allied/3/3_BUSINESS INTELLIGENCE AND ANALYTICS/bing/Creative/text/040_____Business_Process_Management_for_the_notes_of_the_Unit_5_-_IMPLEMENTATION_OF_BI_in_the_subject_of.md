@@ -1,0 +1,22 @@
+### Business Process Management
+
+- Business Process Management (BPM) is a discipline that uses various methods to discover, model, analyze, measure, improve and optimize business processes  .
+- A business process is a set of activities that coordinate the behavior of people, systems, information and things to produce business outcomes in support of a business strategy.
+- BPM aims to achieve consistent, targeted results aligned with an organization’s strategic goals.
+- BPM can be applied to both automated and non-automated business processes.
+- BPM involves the following steps:
+  - Identify the business processes that need to be managed and improved.
+  - Design the current and desired state of the processes using graphical models and notations.
+  - Execute the processes using software tools or manual methods.
+  - Document the processes using standards and best practices.
+  - Measure the performance and outcomes of the processes using metrics and indicators.
+  - Monitor the processes using dashboards and reports.
+  - Control the processes using rules and policies.
+  - Improve the processes using feedback and analysis.
+- BPM can benefit an organization by  :
+  - Increasing efficiency and productivity
+  - Reducing costs and errors
+  - Enhancing quality and customer satisfaction
+  - Improving agility and innovation
+  - Enabling compliance and governance
+  - Supporting digital transformation and business intelligence

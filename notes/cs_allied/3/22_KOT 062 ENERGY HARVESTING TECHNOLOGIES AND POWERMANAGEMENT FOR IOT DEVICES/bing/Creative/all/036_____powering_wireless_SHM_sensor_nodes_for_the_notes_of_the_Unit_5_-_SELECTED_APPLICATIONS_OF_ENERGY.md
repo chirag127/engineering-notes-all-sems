@@ -1,0 +1,17 @@
+# Powering wireless SHM sensor nodes
+
+- Structural health monitoring (SHM) is the process of regularly measuring factors such as strain, movement, vibration, temperature, etc. on infrastructure such as bridges, buildings, pipelines, etc. to assess their condition and detect any damage or deterioration  .
+- Wireless sensor nodes (WSNs) are small devices that can sense, process, and communicate data wirelessly to a central node or a server. WSNs are widely used in SHM applications because they are low cost, easy to deploy, fast, and reliable .
+- However, one of the main challenges of using WSNs in SHM is how to power them. WSNs typically rely on batteries, which have limited lifetime and require periodic replacement or recharging. This can be costly, inconvenient, and impractical, especially for large-scale or remote SHM systems.
+- Therefore, energy harvesting (EH) is a promising solution to power WSNs in SHM. EH is the process of converting ambient energy sources such as solar, wind, vibration, thermal, etc. into electrical energy that can be used to power WSNs or charge their batteries.
+- EH can provide continuous, autonomous, and maintenance-free power supply for WSNs in SHM, thus enhancing their performance, reliability, and sustainability. EH can also enable more frequent and accurate data collection and transmission, which can improve the quality and efficiency of SHM.
+- However, EH also poses some challenges and limitations for WSNs in SHM, such as:
+  - The availability and intensity of ambient energy sources can vary depending on the location, time, and weather conditions, which can affect the output and stability of EH devices.
+  - The mismatch between the harvested energy and the power demand of WSNs can cause energy wastage or insufficient power supply, which can affect the functionality and lifetime of WSNs.
+  - The integration of EH devices with WSNs can increase the size, weight, and cost of the sensor nodes, which can affect their deployment and scalability.
+- Therefore, power management (PM) is a crucial component of EH systems for WSNs in SHM. PM is the process of regulating, storing, and distributing the harvested energy to the sensor nodes according to their power requirements and the availability of energy sources.
+- PM can optimize the energy utilization and efficiency of WSNs in SHM, thus improving their performance, reliability, and sustainability. PM can also enable adaptive and intelligent control of WSNs in SHM, such as adjusting the sampling rate, data processing, and communication frequency according to the energy budget and the SHM objectives.
+- However, PM also poses some challenges and limitations for WSNs in SHM, such as:
+  - The design and implementation of PM circuits and algorithms can increase the complexity and cost of the sensor nodes, which can affect their deployment and scalability.
+  - The trade-off between the performance and the power consumption of WSNs in SHM can affect the quality and efficiency of SHM, such as the accuracy, resolution, and timeliness of the data collection and transmission.
+  - The coordination and synchronization of PM among multiple sensor nodes in a network can affect the functionality and lifetime of WSNs, such as the network connectivity, coverage, and robustness.

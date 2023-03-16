@@ -1,0 +1,23 @@
+### 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- A 360° aerial surveillance UAV is a drone that can capture images and videos from all angles using a spherical camera mounted on it   .
+- An IOT camera is a camera that can connect to the internet and transmit data to a cloud server or a remote device   .
+- A 360° aerial surveillance UAV with IOT camera can provide the following benefits:
+  - It can cover a large area and provide a complete view of the surroundings  .
+  - It can stream live footage to a command center or a mobile device for real time analysis and decision making   .
+  - It can store data on the cloud for later access and processing   .
+  - It can be controlled remotely and autonomously using a wireless network or a GPS system   .
+  - It can be equipped with advanced features such as image stabilization, face recognition, object detection, and encryption  .
+- A 360° aerial surveillance UAV with IOT camera can be used for various applications such as:
+  - Military and defense operations such as reconnaissance, surveillance, target acquisition, and strike coordination   .
+  - Law enforcement and public safety operations such as crowd monitoring, crime prevention, disaster management, and emergency response .
+  - Environmental and wildlife conservation operations such as habitat mapping, animal tracking, poaching detection, and pollution monitoring.
+  - Industrial and commercial operations such as inspection, maintenance, security, and delivery .
+- A 360° aerial surveillance UAV with IOT camera can be implemented using the following components:
+  - A UAV or drone that can fly and maneuver in different environments and conditions   .
+  - A 360° camera that can capture high resolution images and videos from all directions   .
+  - An IOT module that can connect the camera to the internet and transmit data to a cloud server or a remote device   .
+  - A battery that can power the UAV and the camera for a long duration   .
+  - A controller that can operate the UAV and the camera remotely and autonomously using a wireless network or a GPS system   .
+  - A software that can process and analyze the data from the camera and provide useful insights and actions  .

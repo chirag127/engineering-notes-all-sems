@@ -1,0 +1,12 @@
+### Techniques for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber forensics is the process of collecting, preserving, analyzing, and presenting digital evidence from various sources, such as computers, mobile devices, networks, cloud services, etc.
+- Cyber forensics can be used for various purposes, such as investigating cybercrimes, resolving disputes, recovering lost data, auditing security, etc.
+- Cyber forensics requires a combination of technical skills, legal knowledge, and ethical principles to ensure the validity, reliability, and admissibility of the digital evidence.
+- Cyber forensic investigators use various techniques and tools to examine the data and some of the commonly used techniques are:
+
+  - **Deleted file recovery**: This technique involves recovering and restoring files or fragments deleted by a person—either intentionally or accidentally—using various forensic software tools that can access the physical disk sectors and reconstruct the data from the unallocated space or hidden folders .
+  - **Reverse steganography**: This technique involves detecting and extracting data that is hidden inside a digital file, message, or data stream using a method called steganography. Steganography is often used by cybercriminals to conceal malicious code, confidential information, or communication channels   .
+  - **Cross-drive analysis**: This technique involves correlating data from multiple sources, such as different drives, devices, or networks, to find patterns, connections, or anomalies that can reveal useful information or evidence. Cross-drive analysis can help identify the origin, destination, or timeline of the data.
+  - **Live analysis**: This technique involves examining the data on a system or device while it is running, without shutting it down or altering it. Live analysis can help capture volatile data, such as memory contents, network connections, or running processes, that may be lost or changed if the system is powered off or rebooted .
+  - **File carving**: This technique involves extracting data from a raw disk image or a file system that is damaged, corrupted, or formatted, without relying on the metadata or file structure. File carving can help recover data that is otherwise inaccessible or unreadable by normal means .

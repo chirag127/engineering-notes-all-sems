@@ -1,0 +1,15 @@
+# Introduction for the notes of the Unit 1 - ENERGY HARVESTING SYSTEMS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting is the process of capturing and converting ambient energy sources, such as solar, wind, thermal, kinetic, and electromagnetic, into electrical energy that can be used to power devices and systems.
+- Energy harvesting systems consist of three main components: an energy harvester, a power management circuit, and a storage element or a load.
+- Energy harvesting systems can provide a sustainable and autonomous power supply for various applications, such as wireless sensor networks, wearable devices, biomedical implants, and Internet of Things (IoT) devices.
+- Energy harvesting systems can offer several advantages over conventional batteries, such as longer lifetime, reduced maintenance, environmental friendliness, and enhanced reliability and safety.
+- Energy harvesting systems also face several challenges, such as low and variable power output, high cost and complexity, and compatibility and integration issues with existing devices and systems.
+- Energy harvesting systems require careful design and optimization to achieve high efficiency, performance, and functionality.
+- Energy harvesting systems can be classified into different types based on the energy source, the conversion mechanism, the output power level, and the application domain. Some examples of energy harvesting systems are:
+
+  - Solar energy harvesting systems: These systems use photovoltaic cells to convert light energy into electrical energy. They can provide high power output, but they depend on the availability and intensity of sunlight.
+  - Thermal energy harvesting systems: These systems use thermoelectric generators to convert heat energy into electrical energy. They can operate in various temperature gradients, but they have low efficiency and power density.
+  - Kinetic energy harvesting systems: These systems use piezoelectric, electromagnetic, or electrostatic transducers to convert mechanical energy into electrical energy. They can harvest energy from vibrations, motions, or impacts, but they have limited bandwidth and output voltage.
+  - Electromagnetic energy harvesting systems: These systems use antennas, coils, or rectennas to convert electromagnetic energy into electrical energy. They can harvest energy from radio frequency (RF) waves, microwaves, or magnetic fields, but they have low power output and require a strong and stable source.
+  - Other energy harvesting systems: These systems use novel or emerging techniques to convert other forms of energy, such as chemical, biological, acoustic, or nuclear, into electrical energy. They can offer new opportunities and challenges for energy harvesting applications.

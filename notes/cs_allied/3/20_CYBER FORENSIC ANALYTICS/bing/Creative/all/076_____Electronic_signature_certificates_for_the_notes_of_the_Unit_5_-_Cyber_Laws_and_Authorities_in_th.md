@@ -1,0 +1,11 @@
+# Electronic signature certificates for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- An electronic signature is a way of representing one's identity and consent in an electronic form, such as a typed name, a scanned image of a handwritten signature, a biometric identifier, or a digital code .
+- An electronic signature certificate is a digital document that contains information about the identity and public key of the signer, and is issued by a trusted authority called a certification authority (CA) .
+- A digital signature is a type of electronic signature that uses a mathematical scheme to verify the authenticity and integrity of a digital document or message . A digital signature is created by applying a private key to a document or message, and can be verified by anyone who has access to the corresponding public key .
+- A digital signature certificate is a type of electronic signature certificate that contains a digital signature of the CA, and is used to validate the digital signature of the signer .
+- Electronic signature certificates and digital signature certificates are governed by different laws and regulations in different countries and regions. Some of the major laws and regulations are:
+  - The Information Technology Act, 2000 in India, which defines the legal framework for electronic signatures and digital signatures, and establishes the role and functions of the CA.
+  - The Electronic Signatures in Global and National Commerce Act (ESIGN Act) in the United States, which validates the use of electronic signatures and digital signatures in interstate and foreign commerce, and preempts any state laws that are inconsistent with it .
+  - The Uniform Electronic Transactions Act (UETA) in the United States, which provides a legal framework for the use of electronic signatures and digital signatures in each state, and has been adopted by 49 states, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands.
+  - The California Government Code Section 16.5 in the United States, which specifies the requirements for a digital signature to be considered unique to the person using it, and the responsibilities of the CA.

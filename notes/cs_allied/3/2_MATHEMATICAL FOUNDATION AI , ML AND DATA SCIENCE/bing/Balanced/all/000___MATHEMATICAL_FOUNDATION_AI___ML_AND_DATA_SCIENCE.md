@@ -1,0 +1,12 @@
+# MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+The mathematical foundation of AI, ML and data science is the set of concepts, methods and tools that enable the development and analysis of intelligent systems that can learn from data and perform tasks that require human-like reasoning and decision making.
+
+Some of the main topics in this foundation are:
+
+- **Linear algebra**: The study of vector spaces, matrices, linear transformations, eigenvalues and eigenvectors, singular value decomposition, and other topics that are essential for manipulating and representing data, models and algorithms in AI, ML and data science.
+- **Calculus**: The study of functions, limits, derivatives, integrals, optimization, and other topics that are essential for understanding and applying the principles of differentiation and integration, which are the basis of many learning and optimization algorithms in AI, ML and data science.
+- **Probability and statistics**: The study of random variables, distributions, expectation, variance, hypothesis testing, confidence intervals, and other topics that are essential for modeling uncertainty, quantifying risk, and inferring patterns and relationships from data in AI, ML and data science.
+- **Discrete mathematics**: The study of sets, logic, relations, functions, graphs, trees, algorithms, and other topics that are essential for representing and reasoning about discrete structures, such as symbols, propositions, proofs, and computational problems in AI, ML and data science.
+- **Optimization**: The study of finding the best or optimal solution to a problem, subject to some constraints, such as minimizing a cost function, maximizing a utility function, or satisfying some conditions. Optimization methods are widely used in AI, ML and data science to train models, tune parameters, and solve complex problems.
+- **Numerical analysis**: The study of numerical methods, such as interpolation, approximation, root finding, numerical integration, numerical linear algebra, and other topics that are essential for implementing and evaluating algorithms and models in AI, ML and data science, especially when dealing with large-scale or high-dimensional data.

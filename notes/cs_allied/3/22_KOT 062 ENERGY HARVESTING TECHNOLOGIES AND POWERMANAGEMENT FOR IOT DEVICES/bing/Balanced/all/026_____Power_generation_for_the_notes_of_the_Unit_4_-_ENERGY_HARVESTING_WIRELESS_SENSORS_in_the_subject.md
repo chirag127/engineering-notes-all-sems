@@ -1,0 +1,11 @@
+# Power generation for the notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting wireless sensors (EH-WSNs) are devices that can collect ambient energy from the environment and convert it into electrical energy to power themselves and perform sensing tasks  .
+- Energy harvesting can address the energy-scarcity problem of WSNs and enable long-term and maintenance-free operation of the sensors.
+- The main sources of ambient energy for EH-WSNs are solar, thermal, mechanical, and electromagnetic  .
+- Solar energy harvesting uses photovoltaic cells to convert light into electricity. It is suitable for outdoor applications where sunlight is abundant and predictable .
+- Thermal energy harvesting uses thermoelectric generators to convert temperature gradients into electricity. It is suitable for applications where there is a significant difference between the temperature of the sensor and the surrounding environment, such as industrial processes or human body .
+- Mechanical energy harvesting uses piezoelectric, electrostatic, or magnetostrictive materials to convert mechanical vibrations, motions, or stresses into electricity. It is suitable for applications where the sensor is attached to a moving or vibrating object, such as machinery, vehicles, or bridges  .
+- Electromagnetic energy harvesting uses coils, antennas, or rectennas to convert electromagnetic waves into electricity. It is suitable for applications where the sensor is exposed to radio frequency signals, such as wireless communication or power transfer  .
+- The main challenges of energy harvesting for EH-WSNs are the low and variable power output, the mismatch between the energy source and the sensor load, the storage and management of the harvested energy, and the integration and miniaturization of the harvesting components  .
+- The main techniques to overcome these challenges are power conditioning circuits, maximum power point tracking algorithms, energy storage devices, power management schemes, and hybrid or cooperative harvesting systems  .

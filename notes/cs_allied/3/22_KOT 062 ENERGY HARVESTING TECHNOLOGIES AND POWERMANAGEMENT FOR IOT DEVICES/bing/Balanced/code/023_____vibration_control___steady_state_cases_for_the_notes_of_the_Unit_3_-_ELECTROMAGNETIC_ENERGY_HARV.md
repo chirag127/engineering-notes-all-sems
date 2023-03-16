@@ -1,0 +1,21 @@
+# Vibration Control and Steady State Cases
+
+- Vibration control is the process of reducing or eliminating unwanted vibrations in mechanical systems, such as machines, structures, vehicles, etc.
+- Vibration control can be achieved by passive or active methods, or a combination of both.
+- Passive vibration control involves the use of damping, isolation, or absorption devices that do not require external power or feedback.
+- Active vibration control involves the use of sensors, actuators, and controllers that apply forces or moments to counteract the vibrations.
+- Steady state cases are the situations where the vibration response of a system reaches a constant amplitude and phase after a transient period.
+- Steady state cases can be classified into two types: free vibration and forced vibration.
+- Free vibration is the vibration of a system under its natural frequency and damping, without any external excitation.
+- Forced vibration is the vibration of a system under an external periodic force or displacement, such as a harmonic, periodic, or random excitation.
+- The steady state response of a forced vibration system depends on the frequency ratio, the damping ratio, and the excitation amplitude and phase.
+- The frequency ratio is the ratio of the excitation frequency to the natural frequency of the system.
+- The damping ratio is the ratio of the damping coefficient to the critical damping coefficient of the system.
+- The critical damping coefficient is the minimum damping required to prevent oscillations in the system.
+- The steady state response of a forced vibration system can be expressed in terms of the amplitude and phase of the displacement, velocity, or acceleration of the system.
+- The amplitude and phase of the steady state response can be obtained by using the complex notation, the phasor diagram, or the trigonometric identities.
+- The amplitude and phase of the steady state response can also be plotted as a function of the frequency ratio, which is called the frequency response function or the transfer function of the system.
+- The frequency response function can be used to analyze the resonance, bandwidth, and sharpness of the system.
+- Resonance is the condition where the frequency ratio is equal to one, and the amplitude of the steady state response reaches a maximum value.
+- Bandwidth is the range of frequencies where the amplitude of the steady state response is greater than or equal to a certain fraction of the maximum amplitude.
+- Sharpness is the ratio of the maximum amplitude to the amplitude at a certain frequency ratio away from the resonance.

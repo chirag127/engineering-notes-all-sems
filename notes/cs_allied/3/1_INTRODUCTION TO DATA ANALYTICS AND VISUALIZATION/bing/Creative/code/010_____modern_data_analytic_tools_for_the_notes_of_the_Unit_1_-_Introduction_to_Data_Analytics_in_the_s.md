@@ -1,0 +1,19 @@
+### Modern Data Analytic Tools
+
+- Data analytics is the process of collecting, organizing, analyzing, and presenting data to gain insights and make informed decisions.
+- Data analytics tools are software applications that help data analysts perform various tasks related to data analytics, such as data extraction, transformation, loading, modeling, visualization, and reporting.
+- Some of the modern data analytics tools that are widely used in 2023 are:
+
+  - **Python**: Python is a general-purpose programming language that supports multiple paradigms, such as object-oriented, functional, and procedural. Python has a rich set of libraries and frameworks for data analysis, such as NumPy, pandas, SciPy, scikit-learn, TensorFlow, PyTorch, and matplotlib. Python is easy to learn, write, and read, and has a large and active community of developers and users. Python can be used for various data analytics tasks, such as data manipulation, exploration, modeling, machine learning, deep learning, natural language processing, computer vision, and web scraping .
+
+  - **R**: R is a programming language and environment for statistical computing and graphics. R has a comprehensive collection of packages and functions for data analysis, such as dplyr, tidyr, ggplot2, shiny, caret, and rmarkdown. R is designed for data analysis, and has features such as vectorization, data frames, and interactive graphics. R can be used for various data analytics tasks, such as data wrangling, visualization, statistical modeling, hypothesis testing, machine learning, and reporting .
+
+  - **SAS**: SAS is a software suite for advanced analytics, business intelligence, data management, and predictive analytics. SAS has a proprietary programming language, SAS, and a graphical user interface, SAS Enterprise Guide, for data analysis. SAS has modules and solutions for various domains and industries, such as SAS Analytics, SAS Visual Analytics, SAS Data Mining, SAS Forecasting, and SAS Customer Intelligence. SAS can be used for various data analytics tasks, such as data integration, quality, preparation, exploration, visualization, modeling, optimization, and simulation.
+
+  - **Excel**: Excel is a spreadsheet application that is part of the Microsoft Office suite. Excel has features and functions for data analysis, such as formulas, charts, pivot tables, slicers, and Power Query. Excel can be used for various data analytics tasks, such as data entry, calculation, aggregation, filtering, sorting, and reporting.
+
+  - **Power BI**: Power BI is a business analytics service that is part of the Microsoft Power Platform. Power BI has tools and components for data analysis, such as Power BI Desktop, Power BI service, Power BI Mobile, Power BI Report Server, and Power BI Embedded. Power BI can be used for various data analytics tasks, such as data connection, transformation, modeling, visualization, dashboarding, sharing, and embedding.
+
+  - **Tableau**: Tableau is a data visualization and analytics platform that helps users see and understand data. Tableau has products and features for data analysis, such as Tableau Desktop, Tableau Server, Tableau Online, Tableau Prep, and Tableau Public. Tableau can be used for various data analytics tasks, such as data connection, blending, cleaning, exploration, visualization, storytelling, and collaboration .
+
+  - **Apache Spark**: Apache Spark is an open-source distributed computing framework that provides a unified platform for large-scale data processing. Spark has libraries and APIs for data analysis, such as Spark SQL, Spark Streaming, Spark MLlib, and Spark GraphX. Spark can be used for various data analytics tasks, such as data ingestion, processing, analysis, streaming, machine learning, graph analysis, and real-time analytics .

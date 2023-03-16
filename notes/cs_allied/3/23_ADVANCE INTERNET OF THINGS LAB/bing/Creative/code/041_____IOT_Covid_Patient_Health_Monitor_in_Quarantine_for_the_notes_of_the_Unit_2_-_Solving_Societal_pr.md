@@ -1,0 +1,23 @@
+# IOT Covid Patient Health Monitor in Quarantine
+
+- IOT stands for Internet of Things, which is a network of physical devices, sensors, actuators, and software that can collect and exchange data over the internet.
+- Covid-19 is a highly contagious respiratory disease caused by a novel coronavirus that emerged in late 2019 and has spread across the world, causing a global pandemic.
+- Covid-19 patients often require isolation and quarantine to prevent transmission to others, but they also need regular health monitoring and care from medical professionals.
+- IOT Covid Patient Health Monitor in Quarantine is a system that uses IOT devices and sensors to measure and transmit the vital signs of Covid-19 patients, such as body temperature, pulse rate, blood pressure, and oxygen saturation, to a remote server or cloud, where they can be accessed and analyzed by doctors and nurses.
+- The system aims to provide the following benefits:
+  - Reduce the risk of exposure and infection for health workers and other patients by minimizing physical contact and visits.
+  - Save time and resources for health workers by enabling remote and real-time monitoring and diagnosis of multiple patients.
+  - Improve the quality and accuracy of health data by using automated and standardized sensors and devices.
+  - Enhance the comfort and convenience of patients by allowing them to stay at home or in a familiar environment, and receive timely feedback and guidance from health workers.
+- The system consists of the following components:
+  - IOT devices and sensors: These are wearable or portable devices that can measure the vital signs of the patients, such as body temperature, pulse rate, blood pressure, and oxygen saturation. Examples of such devices are smart watches, smart bands, thermometers, pulse oximeters, blood pressure monitors, etc. These devices are connected to the internet via Wi-Fi, Bluetooth, cellular, or other wireless technologies.
+  - Server or cloud: This is a central platform that receives and stores the data from the IOT devices and sensors, and provides various services and functions, such as data processing, analysis, visualization, alerting, reporting, etc. The server or cloud can be accessed by health workers and patients via web or mobile applications, or other interfaces.
+  - User interface: This is a graphical or textual interface that allows health workers and patients to interact with the system, view and manage the data, receive and send feedback, alerts, and instructions, etc. The user interface can be web-based, mobile-based, or voice-based, depending on the preferences and needs of the users.
+- The system works as follows:
+  - The patients wear or use the IOT devices and sensors to measure their vital signs periodically or continuously, depending on the device and the condition of the patient.
+  - The IOT devices and sensors send the data to the server or cloud via the internet, using encryption and authentication methods to ensure security and privacy.
+  - The server or cloud processes and analyzes the data, and compares them with predefined thresholds and rules to detect any abnormal or critical situations, such as fever, hypoxia, hypertension, etc.
+  - The server or cloud sends alerts and notifications to the health workers and patients via the user interface, if any abnormal or critical situations are detected, or if any actions or interventions are required, such as medication, oxygen therapy, hospitalization, etc.
+  - The health workers and patients can access and view the data, alerts, and notifications via the user interface, and communicate with each other via text, voice, or video calls, if needed.
+  - The health workers can also provide feedback and guidance to the patients via the user interface, such as advice, prescriptions, referrals, etc.
+  - The system can also generate reports and statistics on the health status and trends of the patients, and share them with other stakeholders, such as health authorities, researchers, etc., with the consent of the patients.

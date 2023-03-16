@@ -1,0 +1,26 @@
+# IOT Smart Parking Using RFID
+
+- IOT Smart Parking Using RFID is a system that aims to replace the traditional parking system with a high technological, IoT based smart parking system by using RFID (radio-frequency identification) technology .
+- RFID is a wireless technology that uses radio waves to identify and track objects. RFID tags are attached to the vehicles and RFID readers are installed at the entry and exit points of the parking area  .
+- The system consists of the following components  :
+  - RFID tags and readers
+  - ESP8266 microcontroller
+  - LCD display
+  - Servo motor
+  - Buzzer
+  - LED
+  - Mobile app
+- The system works as follows  :
+  - When a vehicle approaches the entry point, the RFID reader scans the RFID tag and sends the data to the ESP8266 microcontroller via serial communication.
+  - The ESP8266 microcontroller connects to the internet and sends the data to the cloud server using MQTT protocol.
+  - The cloud server verifies the data and sends a confirmation message to the ESP8266 microcontroller.
+  - The ESP8266 microcontroller displays the message on the LCD display and activates the servo motor to open the gate for the vehicle.
+  - The ESP8266 microcontroller also updates the status of the parking slot on the cloud server and the mobile app.
+  - The mobile app shows the available and occupied parking slots in real-time and allows the user to book a parking slot in advance.
+  - When a vehicle leaves the parking area, the same process is repeated in reverse order and the parking slot is freed up.
+- The advantages of the system are    :
+  - It reduces the parking search time and traffic congestion.
+  - It optimizes the parking space utilization and management.
+  - It enhances the security and convenience of the users.
+  - It provides a user-friendly and cost-effective solution.
+  - It supports the concept of smart cities and IoT applications.

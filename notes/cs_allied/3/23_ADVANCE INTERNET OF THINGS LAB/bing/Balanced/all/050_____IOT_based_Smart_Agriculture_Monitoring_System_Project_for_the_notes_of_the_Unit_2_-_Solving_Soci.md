@@ -1,0 +1,22 @@
+# IOT based Smart Agriculture Monitoring System Project
+
+- This project is an application of the Internet of Things (IoT) in the domain of smart agriculture.
+- The project aims to use IoT sensors and devices to monitor and control various parameters that affect the growth and yield of crops, such as temperature, humidity, light, soil moisture, and water level.
+- The project consists of the following components:
+  - Sensors: The project uses four types of sensors to measure the environmental conditions in the agricultural field. These are:
+    - Temperature sensor: This sensor measures the ambient temperature and sends the data to the controller.
+    - Humidity sensor: This sensor measures the relative humidity and sends the data to the controller.
+    - Light sensor: This sensor measures the intensity of light and sends the data to the controller.
+    - Soil moisture sensor: This sensor measures the moisture level in the soil and sends the data to the controller.
+  - Controller: The project uses an Arduino board as the controller that receives the data from the sensors and processes it according to the predefined logic. The controller also sends commands to the actuators based on the sensor data.
+  - Actuators: The project uses two types of actuators to perform actions based on the controller's commands. These are:
+    - Water pump: This actuator controls the water supply to the field based on the soil moisture level and the water level in the tank.
+    - LED strip: This actuator provides artificial light to the plants based on the light sensor data and the time of the day.
+  - Communication module: The project uses a GSM modem or a Wi-Fi module to communicate with the cloud server or the user's mobile device. The communication module sends the sensor data and the controller status to the cloud server or the user's mobile device and receives commands or queries from them.
+  - Cloud server or user's mobile device: The project uses a cloud server or a user's mobile device to store and display the sensor data and the controller status. The cloud server or the user's mobile device also allows the user to remotely monitor and control the system through a web or mobile application.
+- The project has the following advantages:
+  - It improves the efficiency and productivity of agriculture by providing optimal conditions for the crops.
+  - It reduces the human intervention and labor cost by automating the irrigation and lighting system.
+  - It saves water and energy by using them only when needed.
+  - It enables the user to access the system from anywhere and anytime through the internet.
+  - It provides real-time data and alerts to the user about the system status and any anomalies.

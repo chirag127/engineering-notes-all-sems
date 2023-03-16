@@ -1,0 +1,6 @@
+# OMA for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- OMA SpecWorks has responded to market demand in the M2M area, understanding that a common set of standards for managing lightweight and low capability devices on a variety of networks is not just a nice option, but a mandatory approach to realize the potential of the Internet of Things (IoT).
+- The OMA Lightweight M2M 1.1 standard (LwM2M 1.1) supports managing a broad spectrum of IoT devices including devices operating in LPWAN networks. LwM2M provides device management and service enablement capabilities for managing the entire lifecycle of the IoT device. LwM2M 1.1 adds support for a Non-IP transport binding.
+- Application-layer security is needed for many IoT service topologies to prevent critical data from becoming unprotected in middleboxes. The paper gives real-world use cases for application-layer end-to-end IoT security and describes the Open Mobile Alliance solution to these types of use cases.
+- In this case, an IoT service needs more than TLS to achieve end-to-end security: Security at the application layer preserves end-to-end security over middleboxes and IoT gateways. Security is applied to the application layer to make it unchangeable and unreadable between application endpoints .

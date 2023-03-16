@@ -1,0 +1,22 @@
+### Inner Product Spaces
+
+- An inner product space is a vector space that has an operation called an inner product, which is a way to multiply two vectors and get a scalar as a result    .
+- The inner product of two vectors is often denoted with angle brackets, such as $\langle a, b \rangle$   .
+- The inner product must satisfy the following four properties for any vectors $u, v, w$ and scalar $c$ in the vector space  :
+  - Linearity: $\langle u + v, w \rangle = \langle u, w \rangle + \langle v, w \rangle$ and $\langle cu, v \rangle = c\langle u, v \rangle$
+  - Symmetry: $\langle u, v \rangle = \langle v, u \rangle$
+  - Positivity: $\langle u, u \rangle \geq 0$
+  - Definiteness: $\langle u, u \rangle = 0$ if and only if $u = 0$
+- The inner product can be defined in different ways depending on the vector space. For example, in $\mathbb{R}^n$, the inner product is the dot product, $\langle x, y \rangle = x \cdot y = \sum_{i=1}^n x_i y_i$ . In $\mathbb{C}^n$, the inner product is the complex dot product, $\langle x, y \rangle = x \cdot \overline{y} = \sum_{i=1}^n x_i \overline{y_i}$, where $\overline{y_i}$ is the complex conjugate of $y_i$ . In the space of continuous functions on an interval $[a, b]$, the inner product is the integral, $\langle f, g \rangle = \int_a^b f(x) g(x) dx$ .
+- The inner product can be used to define other concepts in vector spaces, such as the norm (or length) of a vector, the distance between two vectors, the angle between two vectors, the orthogonality (or perpendicularity) of two vectors, and the projection of one vector onto another .
+- The norm of a vector $u$ is denoted by $\|u\|$ and is defined as $\|u\| = \sqrt{\langle u, u \rangle}$ . The norm satisfies the following properties for any vectors $u, v$ and scalar $c$ in the vector space :
+  - Non-negativity: $\|u\| \geq 0$
+  - Definiteness: $\|u\| = 0$ if and only if $u = 0$
+  - Homogeneity: $\|cu\| = |c|\|u\|$
+  - Triangle inequality: $\|u + v\| \leq \|u\| + \|v\|$
+- The distance between two vectors $u$ and $v$ is denoted by $d(u, v)$ and is defined as $d(u, v) = \|u - v\|$ . The distance satisfies the following properties for any vectors $u, v, w$ in the vector space :
+  - Non-negativity: $d(u, v) \geq 0$
+  - Definiteness: $d(u, v) = 0$ if and only if $u = v$
+  - Symmetry: $d(u, v) = d(v, u)$
+  - Triangle inequality: $d(u, w) \leq d(u, v) + d(v, w)$
+- The angle between two vectors $u$ and $v$ is denoted by $\theta$ and is defined as $\cos \theta = \frac{\langle u, v \rangle}{\|u\| \|v\|}$, where $0 \leq \theta \leq \pi$ [^5^

@@ -1,0 +1,11 @@
+# IOT based Smart Energy Meter Monitoring with Theft Detection
+
+- IOT based Smart Energy Meter Monitoring with Theft Detection is a system that aims to reduce the energy crisis and prevent the power theft by using smart meters and Internet of Things (IoT) technology.
+- The system consists of smart energy meters that are installed at the consumer end and the distribution end, and a master unit that is located at the distribution pole site. The smart energy meters can measure the energy consumption, voltage, current, power factor, and other parameters of the sections. The smart energy meters can also communicate with the master unit and the cloud server via wireless or wired network.
+- The master unit can collect the data from the smart energy meters and compare them with the predefined threshold values. If there is any discrepancy or abnormality in the data, such as power loss, power theft, or tampering, the master unit can send an alert to the cloud server and the authorized personnel. The master unit can also control the power supply of the sections by switching on or off the relays.
+- The cloud server can store and process the data from the master unit and the smart energy meters. The cloud server can also provide a web interface or a mobile application for the users and the authorities to monitor and manage the energy consumption and the power theft detection. The cloud server can also generate reports and statistics for the analysis and optimization of the energy distribution system.
+- The system can provide the following benefits:
+  - It can reduce the energy wastage and the energy cost by providing real-time feedback and control of the energy consumption.
+  - It can detect and prevent the power theft and the tampering by using smart meters and IoT technology.
+  - It can improve the reliability and the efficiency of the energy distribution system by using data analysis and optimization techniques.
+  - It can enhance the customer satisfaction and the transparency by providing user-friendly interface and services.

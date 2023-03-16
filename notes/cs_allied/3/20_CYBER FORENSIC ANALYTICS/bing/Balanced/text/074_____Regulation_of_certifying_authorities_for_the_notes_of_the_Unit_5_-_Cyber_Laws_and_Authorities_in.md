@@ -1,0 +1,22 @@
+### Regulation of certifying authorities
+
+- A certifying authority (CA) is a trusted third party or entity that issues digital signature certificates for electronic authentication of users.
+- The Information Technology Act, 2000 (IT Act) has established a Controller of Certifying Authorities (CCA) to regulate the electronic transactions and the activities of CAs .
+- The CCA is appointed by the Central Government under Section 17 of the IT Act and has the following functions  :
+  - To exercise supervision over the activities of CAs.
+  - To lay down the standards, conditions and procedures for the issue of digital signature certificates.
+  - To specify the qualifications and experience of the employees of CAs.
+  - To specify the contents of written, printed or visual materials and advertisements that may be distributed or used in respect of a digital signature certificate and the public key.
+  - To specify the form and content of a digital signature certificate and the key pair.
+  - To maintain a database containing the disclosure record of every CA containing such particulars as may be specified by regulations.
+  - To certify public keys of the CAs.
+  - To resolve any conflict of interests between the CAs and the subscribers.
+  - To lay down the duties of the CAs.
+  - To maintain a database of public keys in such a manner as may be specified by regulations.
+- The CCA also has the power to grant, renew, suspend or revoke the licence of a CA under Section 21 of the IT Act  .
+- The CCA may also investigate any contravention of the provisions of the IT Act, rules or regulations made thereunder by a CA and take appropriate action  .
+- The CCA may also delegate its powers to a Deputy Controller, an Assistant Controller or any other officer under Section 18 of the IT Act  .
+- The CCA is also required to follow the directions of the Central Government on questions of policy relating to national security and public interest under Section 19 of the IT Act  .
+- The CCA is also bound by the rules and regulations made by the Central Government under Sections 35 and 87 of the IT Act  .
+- The CCA is also subject to the oversight of the Cyber Appellate Tribunal (CAT) under Section 57 of the IT Act  .
+- The CCA is also responsible for ensuring compliance with the cybersecurity and privacy laws and regulations of the country, such as the Cybersecurity Maturity Model Certification (CMMC) program for the defense supply chain and the new federal cybersecurity legislation passed in June 2022.

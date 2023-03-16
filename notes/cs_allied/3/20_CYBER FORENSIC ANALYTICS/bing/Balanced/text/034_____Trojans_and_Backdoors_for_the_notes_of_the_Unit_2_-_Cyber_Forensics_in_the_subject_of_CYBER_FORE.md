@@ -1,0 +1,8 @@
+### Trojans and Backdoors
+
+- A **Trojan** is a type of malware that disguises itself as a legitimate program or file to trick the user into running it. Once executed, a Trojan can perform various malicious actions, such as stealing data, spying on activities, or opening a backdoor for remote access .
+- A **Backdoor** is a hidden or unauthorized way of accessing a computer system or network. A backdoor can be created by a Trojan, a hacker, or a legitimate program for maintenance or debugging purposes. A backdoor can allow an attacker to remotely control, monitor, or manipulate a compromised system .
+- Trojans and backdoors are often used together by cyber criminals to launch remote attacks, such as stealing confidential information, installing more malware, or using the infected system as a zombie or botnet for distributed denial-of-service (DDoS) attacks .
+- Cyber forensics is the process of collecting, analyzing, and presenting digital evidence related to cyber crimes. Cyber forensics can help identify the source, nature, and impact of Trojans and backdoors, as well as the motive and identity of the attackers.
+- Cyber forensics involves various techniques and tools, such as malware analysis, network analysis, memory analysis, disk analysis, and log analysis, to examine the traces and artifacts left by Trojans and backdoors on the compromised system or network.
+- Cyber forensics can also help prevent or mitigate future attacks by providing recommendations and best practices for securing the system or network, such as updating antivirus software, patching vulnerabilities, using strong passwords, and avoiding suspicious links or attachments.

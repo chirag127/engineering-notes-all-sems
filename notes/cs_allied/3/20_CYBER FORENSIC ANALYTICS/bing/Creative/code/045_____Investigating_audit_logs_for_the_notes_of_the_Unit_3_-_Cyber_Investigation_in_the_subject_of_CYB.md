@@ -1,0 +1,21 @@
+### Investigating audit logs for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Audit logs are records of events that occur on a system or a network, such as user actions, system changes, network connections, security breaches, etc.  
+- Audit logs are essential for cyber investigation because they can provide evidence of who did what, when, where, how and why on a system or a network.  
+- Audit logs can help investigators to:
+  - Detect and respond to cyber incidents in a timely manner.  
+  - Identify the source, scope, impact and root cause of an incident.  
+  - Recover from an incident and restore normal operations.  
+  - Prevent or mitigate future incidents by implementing corrective actions and improving security controls.  
+  - Comply with regulatory requirements and standards for data protection and privacy.  
+- Audit logs should be collected, stored, analyzed and reviewed in a secure and consistent manner, following the best practices and guidelines for audit log management.   
+- Audit logs should include the following types of information for each event:  
+  - Event name as identified in the system or the network.
+  - Event date and time, preferably in a standardized format and time zone.
+  - Event source, such as the user name, IP address, device name, etc.
+  - Event destination, such as the file name, URL, service name, etc.
+  - Event outcome, such as success, failure, error, etc.
+  - Event details, such as the data accessed, modified, deleted, transferred, etc.
+- Audit logs should be retained long enough to support incident investigations and meet regulatory requirements. The exact period of audit log data retention may vary depending on the service, system or network.  
+- Audit logs should be protected from unauthorized access, modification, deletion or tampering, using encryption, hashing, digital signatures, access control, etc.  
+- Audit logs should be monitored and reviewed regularly, using automated tools, alerts, reports, etc., to identify and investigate any anomalies, suspicious activities, or indicators of compromise.

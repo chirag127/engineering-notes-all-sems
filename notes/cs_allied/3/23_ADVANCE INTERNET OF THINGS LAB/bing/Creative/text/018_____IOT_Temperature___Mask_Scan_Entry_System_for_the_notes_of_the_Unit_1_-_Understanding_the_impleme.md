@@ -1,0 +1,23 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT temperature and mask scan entry system is a device that uses sensors and cameras to measure the body temperature and mask status of a person who wants to enter a building or a restricted area.
+- The system is designed to prevent the spread of COVID-19 and other infectious diseases by screening the visitors and denying entry to those who have a fever or do not wear a mask.
+- The system consists of the following components:
+  - A contactless temperature scanner that uses infrared or thermal technology to measure the forehead temperature of a person with a precision of ± 0.3 °C .
+  - A camera that captures the face image of a person and uses image processing and machine learning algorithms to detect the presence or absence of a mask  .
+  - A gate-like structure that is connected to the scanner and the camera and controls the entry of a person based on the temperature and mask scan results  . The gate can be a flap barrier, a turnstile, a door, or a buzzer.
+  - A Raspberry Pi system that acts as the central processing unit and communicates with the scanner, the camera, and the gate. The Raspberry Pi also stores the scan data and sends it to a cloud server or a mobile app for monitoring and analysis  .
+  - A 7-inch touch screen that displays the scan results and instructions for the user.
+- The system works as follows:
+  - A person approaches the system and stands in front of the scanner and the camera.
+  - The scanner measures the person's temperature and the camera captures the person's face image.
+  - The Raspberry Pi processes the scan data and compares it with the predefined thresholds for temperature and mask detection.
+  - If the person's temperature is below the threshold and the person is wearing a mask, the gate opens and allows the person to enter. The screen displays a green message and a sound signal is played.
+  - If the person's temperature is above the threshold or the person is not wearing a mask, the gate remains closed and denies the person's entry. The screen displays a red message and a warning signal is played. The system also alerts the authorities or the staff about the scan failure.
+  - The system records the scan data and sends it to the cloud server or the mobile app for further analysis and reporting. The system can also generate statistics and graphs on the number of visitors, the scan results, and the trends over time .
+- The system has the following advantages:
+  - It is a fully automated and contactless system that reduces the risk of cross-contamination and human error.
+  - It is a mobile and flexible system that can be placed in or in front of any building or area that requires entry control and screening.
+  - It is a low-cost and easy-to-install system that uses readily available components and software.
+  - It is a multipurpose system that can be used for various applications such as schools, offices, hospitals, airports, malls, etc.
+  - It is a smart and connected system that can be integrated with other IoT devices and platforms for data sharing and management.

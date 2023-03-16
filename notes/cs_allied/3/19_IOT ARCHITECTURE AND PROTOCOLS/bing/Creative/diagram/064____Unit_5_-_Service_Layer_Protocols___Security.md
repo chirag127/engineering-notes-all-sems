@@ -1,0 +1,12 @@
+## Unit 5 - Service Layer Protocols & Security
+
+- The service layer is a layer in the telecommunication network architecture that provides capability servers owned by a network service provider, accessed through open and secure Application Programming Interfaces (APIs) by application layer servers owned by third-party content providers.
+- The service layer also provides an interface to core networks at a lower resource layer.
+- Service layer protocols are protocols that operate at the service layer and provide various security services to the application layer protocols and the users.
+- Some examples of service layer protocols are:
+  - Secure Socket Layer (SSL) protocol: It is an internet security protocol used for exchanging information between a web browser and a web server in a secure manner. It provides two basic security services like authentication and confidentiality.
+  - Transport Layer Security (TLS) protocol: It is an extension of SSL protocol that provides more security features and enhancements. It is located between the application protocol layer and the TCP/IP layer, where it can secure and send application data to the transport layer. It can support multiple application layer protocols.
+  - Application Transparent Transport Layer Security (AT-TLS) protocol: It is a protocol that enables applications to use TLS without modifying the application code. It intercepts the application data and encrypts or decrypts it using TLS before sending or receiving it over the network.
+  - Kerberos protocol: It is a protocol that provides authentication, authorization and encryption services in a distributed network environment. It uses a trusted third party called the Key Distribution Center (KDC) to issue tickets and keys to the users and the services.
+  - Open Shortest Path First (OSPF) authentication: It is a protocol that provides authentication services for the OSPF routing protocol. It can use plain text passwords or cryptographic keys to verify the identity and integrity of the OSPF messages.
+  - Simple Network Management Protocol version 3 (SNMPv3) protocol: It is a protocol that provides security services for the SNMP network management protocol. It can use authentication, encryption and access control mechanisms to protect the SNMP messages and data.

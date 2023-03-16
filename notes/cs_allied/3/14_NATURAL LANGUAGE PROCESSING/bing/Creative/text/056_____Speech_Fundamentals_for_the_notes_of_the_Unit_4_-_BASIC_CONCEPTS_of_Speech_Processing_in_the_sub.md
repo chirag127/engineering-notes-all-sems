@@ -1,0 +1,27 @@
+### Speech Fundamentals
+
+- Speech is a natural mode of communication for humans, and one of the main sources of linguistic data for natural language processing (NLP).
+- Speech processing is the subfield of NLP that deals with the analysis, synthesis, and recognition of speech signals and the understanding of spoken language.
+- Speech processing involves multiple levels of representation and analysis, such as:
+  - Acoustic level: the physical properties of sound waves, such as frequency, amplitude, and duration.
+  - Phonetic level: the basic units of speech sounds, such as vowels, consonants, and tones.
+  - Phonological level: the patterns and rules of how speech sounds are organized and combined, such as stress, intonation, and syllable structure.
+  - Morphological level: the smallest units of meaning in words, such as roots, prefixes, and suffixes.
+  - Lexical level: the words and their meanings, such as nouns, verbs, and adjectives.
+  - Syntactic level: the structure and order of words in sentences, such as phrases, clauses, and modifiers.
+  - Semantic level: the meaning and interpretation of sentences, such as propositions, arguments, and relations.
+  - Pragmatic level: the use and function of language in context, such as speech acts, discourse, and dialogue.
+- Speech processing tasks can be divided into two main categories: speech synthesis and speech recognition.
+  - Speech synthesis is the process of generating speech signals from text or other symbolic inputs, such as emotions, gestures, or images.
+  - Speech recognition is the process of converting speech signals into text or other symbolic outputs, such as commands, queries, or actions.
+- Speech processing applications include:
+  - Text-to-speech (TTS): generating natural-sounding speech from text, such as for reading aloud, assistive technology, or entertainment.
+  - Speech-to-text (STT): transcribing speech into text, such as for dictation, captioning, or documentation.
+  - Speech translation: translating speech from one language to another, such as for communication, education, or tourism.
+  - Speech understanding: extracting information or intent from speech, such as for question answering, dialogue systems, or voice assistants.
+  - Speech enhancement: improving the quality or intelligibility of speech, such as for noise reduction, speaker identification, or emotion detection.
+  - Speech synthesis and recognition are challenging tasks that require sophisticated models and algorithms, as well as large and diverse datasets of speech and text. Some of the main challenges include:
+  - Variability: speech signals vary depending on the speaker, the environment, the channel, the dialect, the accent, the emotion, the style, and the context.
+  - Ambiguity: speech signals can have multiple interpretations or meanings, depending on the word, the sentence, the domain, the situation, and the listener.
+  - Complexity: speech signals have multiple levels of representation and analysis, each with its own rules and constraints, and often interacting with each other.
+  - Creativity: speech signals can be novel, expressive, and dynamic, reflecting the richness and diversity of human language and communication.

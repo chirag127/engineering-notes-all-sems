@@ -1,0 +1,25 @@
+# IOT Contactless Covid Testing Booth Automation
+
+- IOT Contactless Covid Testing Booth Automation is a project that aims to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- The system utilizes microcontroller, MATLAB, GSM modem, RFID reader, RFID tags, LCD display, buzzer, and swab collection mechanism .
+- The system works as follows:
+  - The person who wants to get tested approaches the booth and scans his/her RFID tag on the RFID reader.
+  - The RFID reader sends the tag ID to the microcontroller, which then displays the person's name, contact number, and address on the LCD display.
+  - The microcontroller also sends the person's details to a web server using GSM modem, where they are stored in a database.
+  - The person then enters the booth and presses a button to start the swab collection process.
+  - The swab collection mechanism, which consists of a motor, a servo, and a swab stick, moves the swab stick to the person's nose and throat and collects the sample.
+  - The swab stick then moves back to its original position and drops the sample into a container.
+  - The buzzer sounds to indicate the completion of the process and the person exits the booth.
+  - The microcontroller sends a confirmation message to the web server and the person's mobile number using GSM modem.
+  - The web server also sends the sample details to a laboratory for testing and generates a report.
+  - The person can access the report online using his/her RFID tag ID or mobile number.
+- The advantages of this system are:
+  - It reduces the human contact and the risk of infection during covid testing.
+  - It saves time and resources by automating the registration and swab collection process.
+  - It provides a safe and comfortable testing environment for the person.
+  - It enables real-time data transmission and report generation using IOT technology.
+- The challenges of this system are:
+  - It requires a reliable power supply and internet connection for the system to work properly.
+  - It needs regular maintenance and calibration of the swab collection mechanism and the RFID reader.
+  - It has to ensure the accuracy and quality of the swab samples and the test results.
+  - It has to protect the privacy and security of the person's data and the test report.

@@ -1,0 +1,19 @@
+### Circumstantial evidence
+
+- Circumstantial evidence is evidence that **indirectly** supports a conclusion or an inference about a fact or an event.
+- Circumstantial evidence is **not** direct evidence that proves a fact or an event by itself, but rather relies on **logic** and **reasoning** to connect the evidence to the conclusion or the inference.
+- Circumstantial evidence is often used in **cyber forensics**, which is the process of extracting data as proof for a crime that involves electronic devices while following proper investigation rules to present the evidence to the court.
+- Circumstantial evidence can be found in various forms of **digital evidence**, which is information stored or transmitted in binary form that may be relied on in court. For example, digital evidence can include:
+  - **Metadata**, which is data about data, such as the date, time, location, and device information of a file or a message.
+  - **Logs**, which are records of events or activities that occur on a system or a network, such as the IP addresses, timestamps, and actions of users or devices.
+  - **Cookies**, which are small pieces of data that are stored on a web browser by a website, such as the preferences, history, and identity of a user or a device.
+  - **Browser history**, which is a list of web pages that a user has visited on a web browser, such as the URLs, titles, and dates of the web pages.
+  - **Email headers**, which are the information that precedes the body of an email message, such as the sender, recipient, subject, and date of the message.
+- Circumstantial evidence can be used to **corroborate** or **contradict** other evidence or claims, such as the identity, motive, or alibi of a suspect or a victim. For example, circumstantial evidence can be used to:
+  - **Link** a suspect or a victim to a crime scene, a device, or a network, such as by matching the IP address, MAC address, or device ID of the suspect or the victim to the source or the destination of a digital communication or a file transfer.
+  - **Reconstruct** the sequence, timeline, or modus operandi of a crime, such as by analyzing the metadata, logs, or browser history of the devices or the networks involved in the crime.
+  - **Infer** the intent, knowledge, or state of mind of a suspect or a victim, such as by examining the content, context, or tone of the messages, files, or web pages accessed by the suspect or the victim.
+- Circumstantial evidence can be **challenged** or **disputed** by various factors, such as the reliability, validity, or authenticity of the digital evidence, the possibility of alternative explanations or scenarios, or the presence of errors, biases, or tampering in the collection, analysis, or presentation of the digital evidence. For example, circumstantial evidence can be challenged by:
+  - **Questioning** the source, origin, or integrity of the digital evidence, such as by verifying the hash values, digital signatures, or encryption methods of the files or the messages.
+  - **Providing** counter-evidence, counter-arguments, or counter-examples that weaken or undermine the logic or reasoning behind the conclusion or the inference drawn from the circumstantial evidence, such as by showing that the IP address, MAC address, or device ID of the suspect or the victim can be spoofed, changed, or shared by others.
+  - **Casting** doubt on the credibility, expertise, or objectivity of the person or the entity that collected, analyzed, or presented the circumstantial evidence, such as by exposing the conflicts of interest, biases, or errors of the investigator, analyst, or expert witness.

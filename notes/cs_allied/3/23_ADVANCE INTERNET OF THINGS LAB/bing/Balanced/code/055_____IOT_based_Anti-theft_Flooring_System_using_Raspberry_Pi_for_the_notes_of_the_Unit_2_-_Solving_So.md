@@ -1,0 +1,23 @@
+### IOT based Anti-theft Flooring System using Raspberry Pi
+
+- This system is designed to secure and guard the house in the absence of the owner by monitoring the entire floor for movement and alerting the user through mail over IOT  .
+- The system consists of the following components:
+  - Raspberry Pi: It is the main controller of the system that processes the signals from the sensors and controls the camera and the wifi modem   .
+  - Piezo sensors: They are attached to the flooring tiles and detect the pressure or vibration caused by the footsteps of the intruder   .
+  - Camera: It is connected to the Raspberry Pi and captures the image of the intruder when the movement is detected by the sensors   .
+  - Wifi modem: It is used to connect the Raspberry Pi to the internet and send the image of the intruder to the user's email address   .
+- The working of the system is as follows:
+  - The system is turned on by the user when they leave the house   .
+  - The system monitors the entire floor for movement using the piezo sensors   .
+  - If any movement is detected by the sensors, the Raspberry Pi receives the signal and validates it   .
+  - The Raspberry Pi then moves the camera to the area where the movement was detected and captures the image of the intruder   .
+  - The Raspberry Pi then sends the image of the intruder to the user's email address over the internet using the wifi modem   .
+  - The user can check the image and take appropriate action   .
+- The advantages of the system are:
+  - It is a low-cost and easy-to-install system that can cover the entire floor area   .
+  - It is a reliable and accurate system that can detect any movement on the floor and capture the image of the intruder   .
+  - It is a smart and convenient system that can alert the user through mail over IOT and allow them to take action remotely   .
+- The disadvantages of the system are:
+  - It may generate false alarms if the sensors are triggered by pets, rodents, or other non-human objects   .
+  - It may not work properly if the internet connection is disrupted or the power supply is cut off   .
+  - It may not capture the face of the intruder if they are wearing a mask or covering their head   .

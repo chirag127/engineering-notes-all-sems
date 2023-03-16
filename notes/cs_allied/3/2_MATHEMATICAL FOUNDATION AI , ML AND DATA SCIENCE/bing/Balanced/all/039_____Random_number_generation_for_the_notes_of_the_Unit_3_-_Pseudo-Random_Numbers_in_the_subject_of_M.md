@@ -1,0 +1,12 @@
+# Random number generation
+
+- Random number generation is a process by which, often by means of a random number generator (RNG), a sequence of numbers or symbols that cannot be reasonably predicted better than by random chance is generated.
+- Random numbers are useful for many applications, such as cryptography, simulation, gaming, statistical sampling, and scientific experiments.
+- There are two main types of random number generators: hardware-based and pseudo-random.
+- Hardware-based random number generators use physical sources of randomness, such as dice, coins, radioactive decay, quantum phenomena, or atmospheric noise  . These sources are considered to be truly random, as they are unpredictable and independent of any deterministic algorithm.
+- Pseudo-random number generators (PRNGs) are algorithms that use mathematical formulas or precalculated tables to produce sequences of numbers that appear random . These sequences are not truly random, as they are determined by the initial state or seed of the algorithm. However, if the algorithm is well-designed, the output can be sufficiently random for most purposes.
+- PRNGs are faster, easier, and cheaper to implement than hardware-based random number generators. They are also more portable and reproducible, as they can run on any computer and produce the same sequence given the same seed.
+- PRNGs can be classified into different categories based on their properties, such as period, distribution, correlation, complexity, and security. Some examples of PRNGs are linear congruential generators, linear feedback shift registers, Mersenne Twister, Blum Blum Shub, and cryptographic hash functions.
+- PRNGs have some limitations and drawbacks, such as periodicity, predictability, bias, and correlation. These can affect the quality and suitability of the generated random numbers for certain applications. Therefore, it is important to choose a PRNG that meets the requirements of the intended use case.
+- PRNGs can be tested and evaluated using various statistical tests, such as frequency test, runs test, autocorrelation test, chi-square test, and Kolmogorov-Smirnov test. These tests can measure the randomness and uniformity of the generated numbers and detect any deviations or anomalies.
+- PRNGs can also be combined or modified to improve their performance and randomness, such as using multiple seeds, mixing different algorithms, or applying transformations or post-processing techniques.

@@ -1,0 +1,11 @@
+# Creative Coding Platforms
+
+- Creative coding is the practice of using programming languages and techniques to create artistic expressions, such as animations, games, music, interactive design, and generative art.
+- Creative coding platforms are tools or environments that enable and support creative coding, by providing features such as code editing, graphics rendering, sound synthesis, data access, hardware integration, and online sharing.
+- Some examples of creative coding platforms are:
+
+  - **Processing**: A flexible software sketchbook and a language for learning how to code within the context of the visual arts. Processing is based on Java and can run on multiple platforms. It has a large and active community of users and contributors, and a rich set of libraries and examples. 
+  - **p5.js**: A JavaScript library that makes coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. p5.js is based on the core principles of Processing and can run in any modern web browser. It has a web editor, a sound library, a web editor, and a friendly online community.  
+  - **Scratch**: A free creative coding platform and online community that allows children of all ages to code, share, and remix their own stories, games, and animations. Scratch is translated into 50+ languages and available both online and offline. It has a simple drag-and-drop interface, a rich set of media assets, and a supportive learning environment. 
+  - **Tynker**: The world’s leading K-12 creative coding platform, enabling students of all ages to develop the coding skills to design and power animations, games, music, robots and drones, smart devices, virtual worlds like Minecraft, and more. Tynker has a curriculum-aligned platform, a code editor, a game engine, and a global community of learners and educators. 
+  - **OpenProcessing**: A platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. OpenProcessing is based on Processing and p5.js and allows users to create and share sketches online, as well as explore and remix the work of others. OpenProcessing has a social network, a classroom mode, and a subscription service.

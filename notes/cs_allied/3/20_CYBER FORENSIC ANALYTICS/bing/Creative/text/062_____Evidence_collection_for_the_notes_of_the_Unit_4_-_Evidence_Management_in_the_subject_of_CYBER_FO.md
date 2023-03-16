@@ -1,0 +1,16 @@
+### Evidence collection for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence collection is the process of identifying, accessing, preserving and analyzing data from various sources in the digital environment for forensic investigation .
+- Evidence collection plays a vital role in tracing the criminal activities, reconstructing the events, verifying the facts and presenting the findings in a court of law .
+- Evidence collection involves the following steps  :
+  - Planning and preparation: This step involves defining the scope, objectives, methods and tools of the investigation, as well as obtaining the legal authority and consent to access the data sources.
+  - Identification and acquisition: This step involves locating and securing the potential sources of evidence, such as computers, hard drives, mobile phones, cloud servers, etc. and creating a forensic copy or image of the data without altering or damaging the original source.
+  - Preservation and transportation: This step involves ensuring the integrity, authenticity and chain of custody of the evidence by applying cryptographic hashes, seals, labels and documentation, as well as storing and transporting the evidence in a safe and secure manner.
+  - Examination and analysis: This step involves extracting, decoding, interpreting and correlating the relevant data from the evidence using various forensic tools and techniques, such as file carving, keyword searching, timeline analysis, etc.
+  - Reporting and presentation: This step involves documenting and summarizing the findings and conclusions of the investigation in a clear, concise and accurate manner, as well as presenting the evidence and testimony in a court of law or other legal proceedings.
+- Evidence collection faces some challenges and issues, such as   :
+  - Volume and diversity: The amount and variety of data sources and formats in the digital environment can be overwhelming and complex to handle and analyze.
+  - Volatility and fragility: The data in the digital environment can be easily modified, deleted, overwritten or corrupted by the user, the system or the environment, which can affect the validity and reliability of the evidence.
+  - Encryption and obfuscation: The data in the digital environment can be protected or hidden by various methods, such as encryption, compression, steganography, etc. which can make the evidence inaccessible or unreadable.
+  - Privacy and legality: The data in the digital environment can contain sensitive or personal information that can raise ethical and legal issues regarding the rights and consent of the data owner, the data custodian and the data subject.
+  - Standardization and validation: The data in the digital environment can lack uniformity and consistency in terms of the formats, protocols, metadata, etc. which can affect the interoperability and compatibility of the forensic tools and techniques. Moreover, the forensic tools and techniques can have limitations and errors that can affect the accuracy and reliability of the evidence. Therefore, the forensic tools and techniques need to be standardized and validated by scientific methods and peer reviews.

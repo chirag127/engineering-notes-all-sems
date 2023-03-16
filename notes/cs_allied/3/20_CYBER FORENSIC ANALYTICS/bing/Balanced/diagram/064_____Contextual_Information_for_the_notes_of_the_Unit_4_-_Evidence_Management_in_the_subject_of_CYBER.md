@@ -1,0 +1,33 @@
+### Contextual Information for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of identifying, collecting, acquiring, preserving, and analyzing digital evidence from computing systems involved in cybersecurity incidents or cybercrime activities .
+- Evidence management is essential for ensuring the integrity, reliability, and admissibility of digital evidence in legal proceedings .
+- Evidence management requires a solid understanding of computer networking concepts, network security methodologies, risk management, computer and privacy laws, and data analytics.
+- Evidence management follows a five-step process of identification, collection, acquisition, preservation, and analysis:
+  - Identification: Information needs to be gathered before the digital device is even touched. It won’t often be clear what contextual information is relevant to an investigation until much later. Some examples of contextual information are:
+    - The type, model, and serial number of the device
+    - The owner, user, and location of the device
+    - The purpose, function, and configuration of the device
+    - The date and time of the incident and the device seizure
+    - The potential sources and types of digital evidence on the device
+    - The legal authority and scope of the investigation
+  - Collection: The device needs to be handled carefully and securely to avoid any damage, alteration, or loss of digital evidence. Some best practices for collection are:
+    - Documenting the device and its surroundings with photographs, notes, and sketches
+    - Isolating the device from any network or power source to prevent remote access or data wiping
+    - Applying appropriate anti-static and anti-tamper measures to protect the device
+    - Labeling and packaging the device with proper identification and chain of custody information
+    - Transporting and storing the device in a safe and controlled environment
+  - Acquisition: The device needs to be duplicated or imaged to create an exact copy of the data stored on it. The original device should be kept as intact as possible and only accessed when necessary. Some methods for acquisition are:
+    - Physical acquisition: Copying the entire physical storage media, including unallocated and slack space, hidden partitions, and deleted files
+    - Logical acquisition: Copying only the logical files and folders that are visible to the operating system
+    - Live acquisition: Copying the data from a running device, including volatile memory, open files, and network connections
+    - Remote acquisition: Copying the data from a device that is located in a different physical location, such as a cloud server or a mobile device
+  - Preservation: The acquired data needs to be verified and protected from any unauthorized modification or corruption. Some techniques for preservation are:
+    - Hashing: Calculating a unique value for the data that can be used to check its integrity and authenticity
+    - Encryption: Scrambling the data with a secret key that can be used to decrypt it later
+    - Signing: Attaching a digital signature to the data that can be used to prove its origin and validity
+    - Locking: Applying access control mechanisms to the data, such as passwords, biometrics, or tokens
+  - Analysis: The preserved data needs to be examined and interpreted to extract relevant information and evidence for the investigation. Some tools and methods for analysis are:
+    - Forensic software: Using specialized software applications that can perform various tasks, such as data recovery, file carving, keyword searching, timeline analysis, malware analysis, network analysis, and data visualization
+    - Forensic standards: Following established standards and guidelines that can provide a framework and a reference for conducting forensic analysis, such as the Scientific Working Group on Digital Evidence (SWGDE), the National Institute of Standards and Technology (NIST), and the International Organization for Standardization (ISO)
+    - Forensic reports: Producing clear, concise, and accurate reports that can summarize the findings and conclusions of the forensic analysis, as well as the methods and procedures used, the evidence sources and locations, the limitations and uncertainties, and the recommendations and implications

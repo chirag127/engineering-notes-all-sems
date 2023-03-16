@@ -1,0 +1,22 @@
+### Sustainability Data and Analytics in Cloud-Based M2M Systems
+
+- Cloud-based M2M systems are systems that use cloud computing technologies to enable communication and data exchange between machines or devices without human intervention.
+- Sustainability data and analytics are the processes of collecting, processing, analyzing, and visualizing data related to the environmental, social, and economic aspects of sustainability.
+- Cloud-based M2M systems can support sustainability governance by providing a platform for integrating IoT data and processes, linking monitored objects, monitoring data, and applications to stakeholders' needs, and enabling stakeholders to access data and perform data analytics of their own interest.
+- The main challenges of sustainability data and analytics in cloud-based M2M systems are:
+  - Dealing with large-scale, heterogeneous, and dynamic data from various sources and sensors.
+  - Providing data quality, security, privacy, and provenance.
+  - Enabling data interoperability, integration, and enrichment.
+  - Supporting data analysis, visualization, and decision making for different stakeholders and scenarios.
+- The main components of a cloud-based data analytics system for sustainability governance are:
+  - A Platform-as-a-Service (PaaS) that provides the infrastructure, middleware, and tools for data management, processing, and analysis in the cloud.
+  - An analytics framework that provides the methods, models, and algorithms for data analysis, visualization, and decision making.
+  - A stakeholder model that defines the roles, responsibilities, and requirements of different stakeholders in sustainability governance, such as building owners, facility managers, tenants, energy providers, etc.
+  - A monitored object model that defines the properties, attributes, and relationships of the objects that are monitored by sensors, such as rooms, floors, devices, etc.
+  - A monitoring data model that defines the structure, format, and semantics of the data that are collected by sensors, such as temperature, humidity, energy consumption, etc.
+  - An application model that defines the functionalities, interfaces, and parameters of the applications that use the monitoring data and provide services to stakeholders, such as dashboards, reports, alerts, etc.
+- The main benefits of a cloud-based data analytics system for sustainability governance are:
+  - It can reduce the cost, complexity, and maintenance of data management and analysis by leveraging the cloud resources and services.
+  - It can improve the scalability, performance, and reliability of data processing and analysis by exploiting the cloud elasticity and fault tolerance.
+  - It can enhance the usability, accessibility, and collaboration of data analysis and decision making by providing a web-based platform and tools for stakeholders.
+  - It can support the innovation, customization, and evolution of data analysis and applications by enabling stakeholders to create, modify, and deploy their own analytics solutions in the cloud.

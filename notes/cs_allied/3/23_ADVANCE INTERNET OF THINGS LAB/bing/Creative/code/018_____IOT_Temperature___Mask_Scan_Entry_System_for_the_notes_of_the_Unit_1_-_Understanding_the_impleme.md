@@ -1,0 +1,25 @@
+# IOT Temperature & Mask Scan Entry System
+
+- An IoT temperature and mask scan entry system is a device that uses a contactless temperature scanner and a camera to capture images of people who want to enter a building or a facility.
+- The device is connected to a gate-like structure that prevents entry if a high temperature or the absence of a mask is detected.
+- The device is also connected to a cloud server that stores and analyzes the data collected by the device, such as the number of people scanned, the temperature readings, the mask status, and the entry status.
+- The device can be controlled and monitored remotely through a web or mobile application that displays the data and allows the user to change the settings and parameters of the device, such as the temperature threshold, the mask detection algorithm, and the gate operation mode.
+- The device can be used for various purposes, such as:
+  - Preventing the spread of COVID-19 and other infectious diseases by screening people for fever and mask compliance.
+  - Enhancing the security and safety of the building or facility by restricting unauthorized access and recording the identity and temperature of the visitors.
+  - Improving the efficiency and convenience of the entry process by reducing the need for manual checks and queues.
+  - Providing useful insights and statistics for the management and administration of the building or facility, such as the occupancy rate, the peak hours, the health status, and the mask compliance rate of the visitors.
+- The device consists of several components, such as:
+  - A thermal camera that measures the temperature of the face or the forehead of the person using infrared radiation.
+  - A video camera that captures the image of the face of the person and applies a mask detection algorithm to determine if the person is wearing a mask or not.
+  - A 7-inch touch screen that displays the temperature and mask status of the person and provides feedback and instructions.
+  - A Raspberry Pi system that processes the data from the cameras and controls the gate and the cloud connection.
+  - A gate-like structure that opens or closes depending on the temperature and mask status of the person.
+  - A cloud server that stores and analyzes the data from the device and provides a web or mobile interface for the user.
+- The device works as follows:
+  - The person approaches the device and stands in front of the cameras.
+  - The device scans the temperature and the mask status of the person and displays them on the screen.
+  - If the temperature is below the threshold and the mask is detected, the device opens the gate and allows the person to enter.
+  - If the temperature is above the threshold or the mask is not detected, the device closes the gate and prevents the person from entering.
+  - The device sends the data to the cloud server and updates the web or mobile application.
+  - The user can access the web or mobile application and view the data and change the settings of the device.

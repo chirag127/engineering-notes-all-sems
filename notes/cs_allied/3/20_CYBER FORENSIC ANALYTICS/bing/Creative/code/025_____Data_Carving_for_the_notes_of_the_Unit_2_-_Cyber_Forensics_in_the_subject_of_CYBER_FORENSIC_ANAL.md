@@ -1,0 +1,11 @@
+### Data Carving
+
+Data carving is a technique used in cyber forensics to recover data from digital media without relying on the file system information. It is useful for finding hidden or deleted files that may contain evidence or clues for an investigation. Data carving can also recover data from damaged or corrupted media that cannot be accessed by normal means.
+
+Some key points about data carving are:
+
+- Data carving works by scanning the raw data blocks of the media and looking for patterns or signatures that indicate the start and end of a file. For example, a JPEG file usually starts with the bytes FF D8 and ends with FF D9, so a data carving tool can search for these bytes and extract the data between them as a JPEG file.
+- Data carving can recover files from areas that are not allocated to any file system, such as unallocated clusters, slack space, lost clusters, or bad sectors. These areas may contain remnants of previous files that were deleted, overwritten, or fragmented.
+- Data carving can also recover files from encrypted or compressed media, as long as the encryption or compression algorithm does not alter the file signatures. However, data carving cannot recover files that are encrypted or compressed at the file level, such as ZIP or RAR files, because they do not have recognizable signatures.
+- Data carving requires a lot of processing power and storage space, as it has to scan the entire media and extract every possible file. It may also produce a lot of false positives or incomplete files, as some data blocks may match the file signatures by coincidence or may belong to different files. Therefore, data carving results need to be verified and filtered manually or by using additional tools.
+- Data carving can be performed using various tools, such as Foremost, Scalpel, PhotoRec, or Autopsy. These tools have different features and capabilities, such as supporting different file types, allowing custom signatures, or providing graphical user interfaces. Some tools can also perform file carving based on file structure or content, rather than signatures, which can improve the accuracy and completeness of the recovery.

@@ -1,0 +1,10 @@
+### Case studies for the notes of the Unit 4 - Mining Data Streams in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Mining data streams is the process of extracting knowledge structures represented in models and patterns from continuous and unbounded streams of information.
+- Data stream mining has many applications and challenges in domains such as sensor networks, web mining, social media, network monitoring, fraud detection, etc .
+- Data stream mining algorithms need to cope with data sizes many times greater than memory, and handle concept drift, noise, outliers, and missing values.
+- Some case studies for mining data streams are:
+
+  - A case study of stream data mining classification: This paper presents a comparative study of different classification algorithms for stream data mining, such as Naive Bayes, Hoeffding Tree, and k-Nearest Neighbors. The paper evaluates the performance of these algorithms on a real-world dataset of network intrusion detection, and discusses the advantages and disadvantages of each algorithm.
+  - Improvised methods for tackling big data stream mining challenges: case study of electricity price prediction: This paper proposes a holistic data stream mining approach that integrates different components of data stream mining, such as feature selection, ensemble learning, and concept drift detection, to improve the prediction performance of electricity price. The paper applies the proposed approach to a real-world dataset of electricity price from the Australian market, and compares it with other existing methods.
+  - An update on global mining land use: This paper presents a global dataset of mining land use, based on satellite imagery and other sources, that covers both active and inactive mining sites from 2000 to 2019. The paper analyzes the spatial and temporal patterns of mining land use, and discusses the implications for environmental and social impacts. The paper also provides an online platform for visualizing and exploring the dataset.

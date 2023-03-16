@@ -1,0 +1,12 @@
+### Electronic signature certificates for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- An electronic signature is a way of representing one's identity and consent in an electronic form, such as a typed name, a scanned image, a fingerprint, or a digital code.
+- An electronic signature certificate is a digital document that contains information about the identity and public key of the signer, and is issued by a trusted authority called a certification authority (CA).
+- A digital signature is a type of electronic signature that uses a mathematical scheme to verify the authenticity and integrity of a digital document or message. A digital signature is created by applying a private key to the document or message, and can be verified by anyone using the corresponding public key.
+- A digital signature certificate is a type of electronic signature certificate that contains a digital signature of the CA, and is used to prove the validity of the signer's public key and identity.
+- Electronic signature certificates and digital signature certificates are regulated by different laws and standards in different countries and regions. Some of the major laws and standards are:
+  - The Information Technology Act, 2000 (IT Act) in India, which defines the legal framework for electronic signatures and digital signatures, and establishes the Controller of Certifying Authorities (CCA) as the regulatory authority.
+  - The Electronic Signatures in Global and National Commerce Act (ESIGN Act) in the United States, which validates the use of electronic signatures and records in interstate and foreign commerce, and preempts state laws that are inconsistent with it.
+  - The Uniform Electronic Transactions Act (UETA) in the United States, which is a model law adopted by 49 states, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands, and provides a legal framework for the use of electronic signatures and records in state transactions.
+  - The Electronic Identification and Trust Services Regulation (eIDAS) in the European Union, which establishes a common legal framework for electronic identification, electronic signatures, electronic seals, electronic time stamps, electronic delivery services, and website authentication across the EU member states.
+  - The Electronic Transactions Act (ETA) in Singapore, which provides the legal basis for electronic signatures and records, and recognizes the role of the Infocomm Media Development Authority (IMDA) as the accreditation authority for CAs.

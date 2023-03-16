@@ -1,0 +1,16 @@
+### Access Control for IoT
+
+Access control is a method of regulating who or what can access or use resources in a system. In the context of IoT, access control refers to the process of granting or denying permissions to IoT devices, users, and applications to access or manipulate data, services, or resources in an IoT system. Access control is essential for ensuring the security, privacy, and integrity of IoT systems and data.
+
+There are different types of access control models for IoT, such as:
+
+- **Role-based access control (RBAC)**: This model assigns roles to users or devices based on their functions or responsibilities, and grants permissions based on the roles. For example, a smart home system may have roles such as owner, family member, guest, or service provider, and each role may have different levels of access to the devices and data in the system.
+- **Attribute-based access control (ABAC)**: This model uses attributes or properties of users, devices, or resources to define access policies and rules. For example, a smart city system may use attributes such as location, time, weather, or traffic to determine the access rights of different devices or users to the system's resources or services.
+- **Capability-based access control (CBAC)**: This model uses tokens or certificates to represent the capabilities or rights of users or devices to access or perform actions on resources or services. For example, a smart car system may use tokens to authorize the access of different devices or users to the car's features or functions, such as unlocking the door, starting the engine, or changing the settings.
+
+Some of the challenges and requirements for implementing access control for IoT are:
+
+- **Scalability**: IoT systems may have a large number of devices, users, and resources, which may change dynamically over time. Access control mechanisms should be able to handle the high volume and variety of access requests and policies efficiently and effectively.
+- **Heterogeneity**: IoT systems may involve different types of devices, platforms, protocols, and standards, which may have different security and communication capabilities and requirements. Access control mechanisms should be able to support the interoperability and compatibility of different devices and systems, and adapt to the varying levels of security and trust.
+- **Distributed**: IoT systems may have distributed architectures, where devices and resources may be located in different physical or logical domains, such as edge, fog, or cloud. Access control mechanisms should be able to coordinate and enforce access policies and rules across different domains and layers, and cope with the network latency and connectivity issues.
+- **Dynamic**: IoT systems may have dynamic behaviors, where devices, users, and resources may join or leave the system, or change their states or contexts, at any time. Access control mechanisms should be able to update and revoke access rights and policies in real time, and respond to the changing conditions and situations of the system.

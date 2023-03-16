@@ -1,0 +1,25 @@
+## Unit 4 - ENERGY HARVESTING WIRELESS SENSORS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy sources into electrical energy to power themselves and communicate wirelessly.
+- Energy harvesting wireless sensors have several advantages over conventional battery-powered sensors, such as:
+  - Longer lifetime and reduced maintenance costs
+  - Higher reliability and robustness
+  - Environmental friendliness and sustainability
+  - Scalability and flexibility
+- Energy harvesting wireless sensors can be classified into four categories based on the type of energy source they exploit:
+  - Solar energy harvesting: using photovoltaic cells to convert light into electricity
+  - Thermal energy harvesting: using thermoelectric generators to convert heat gradients into electricity
+  - Mechanical energy harvesting: using piezoelectric, electrostatic, or electromagnetic transducers to convert vibrations, motions, or impacts into electricity
+  - Radio frequency energy harvesting: using antennas to capture electromagnetic waves and rectify them into direct current
+- Energy harvesting wireless sensors face several challenges and limitations, such as:
+  - Low and variable power output and efficiency of energy harvesters
+  - High power consumption and complexity of wireless communication protocols
+  - Trade-offs between performance, quality of service, and energy management
+  - Design and optimization of energy harvesting circuits, storage devices, and power management units
+  - Integration and miniaturization of energy harvesting components and sensors
+- Energy harvesting wireless sensors have many potential applications in various domains, such as:
+  - Structural health monitoring of buildings, bridges, pipelines, etc.
+  - Environmental monitoring of air quality, water quality, soil moisture, etc.
+  - Industrial monitoring of machines, processes, products, etc.
+  - Biomedical monitoring of human health, vital signs, implants, etc.
+  - Smart home and smart city applications, such as lighting, security, automation, etc.

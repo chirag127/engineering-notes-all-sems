@@ -1,0 +1,21 @@
+# Power Conditioning and Losses for Energy Harvesting Wireless Sensors
+
+- Energy harvesting wireless sensors (EHWS) are devices that can collect ambient energy from the environment and convert it into electrical energy to power themselves and perform sensing and communication tasks.
+- EHWS can eliminate the need for batteries, which have limited lifespan, require periodic replacement and maintenance, and pose environmental hazards.
+- However, EHWS face several challenges, such as the low and variable amount of harvested energy, the mismatch between the energy source and the load, and the losses in the energy conversion and storage processes.
+- Power conditioning is the process of regulating and optimizing the harvested energy to meet the requirements of the sensor node. It involves the following steps:
+  - Rectification: converting the AC output of some energy harvesters (such as piezoelectric, electromagnetic, or thermoelectric) into DC.
+  - Maximum power point tracking (MPPT): adjusting the input impedance of the power conditioning circuit to match the output impedance of the energy harvester, so that the maximum possible power can be extracted.
+  - Voltage regulation: boosting or bucking the rectified voltage to a desired level that can be used by the sensor node or stored in a capacitor or battery.
+  - Energy management: controlling the charging and discharging of the energy storage element, and switching between different power modes of the sensor node, such as active, idle, or sleep.
+- Power conditioning circuits can be implemented using various components, such as diodes, capacitors, inductors, transistors, switches, and microcontrollers. The choice of components depends on the type, characteristics, and output power of the energy harvester, as well as the power consumption and functionality of the sensor node.
+- Power conditioning circuits introduce losses in the energy harvesting system, which reduce the overall efficiency and performance of the EHWS. Some sources of losses are:
+  - Conduction losses: caused by the resistance of the wires and the components in the circuit, which dissipate power as heat.
+  - Switching losses: caused by the finite switching time and the parasitic capacitance and inductance of the switches, which result in transient currents and voltages that waste power.
+  - Control losses: caused by the power consumption of the control circuit or the microcontroller that implements the MPPT and the energy management algorithms.
+  - Leakage losses: caused by the self-discharge of the energy storage element, which reduces the stored energy over time.
+- To minimize the losses and improve the efficiency of the power conditioning circuit, some design techniques can be applied, such as:
+  - Choosing low-resistance and low-leakage components, such as Schottky diodes, low-ESR capacitors, and low-RDS(on) transistors.
+  - Reducing the switching frequency and the duty cycle of the switches, which reduces the switching losses and the control losses.
+  - Using adaptive MPPT and energy management algorithms, which can adjust to the variations of the harvested energy and the load demand, and avoid unnecessary switching and control actions.
+  - Using low-power and low-voltage microcontrollers, which can reduce the control losses and the voltage regulation losses.

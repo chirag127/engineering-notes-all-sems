@@ -1,0 +1,21 @@
+# Examples for the notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy sources, such as solar, thermal, kinetic, or electromagnetic, into electrical energy to power themselves and communicate wirelessly  .
+- Energy harvesting wireless sensors have several advantages over conventional battery-powered sensors, such as:
+  - They eliminate the need for battery replacement and maintenance, which reduces the cost, environmental impact, and labor involved  .
+  - They enable the deployment of sensors in remote, inaccessible, or hazardous locations, where battery replacement is impractical or impossible  .
+  - They increase the reliability, lifetime, and scalability of wireless sensor networks, as they can operate indefinitely and adapt to changing environmental conditions  .
+- Energy harvesting wireless sensors have various applications in different domains, such as:
+  - Smart buildings: Energy harvesting wireless sensors can monitor and control parameters such as temperature, humidity, lighting, occupancy, and air quality, and optimize the energy efficiency and comfort of buildings .
+  - Industrial IoT: Energy harvesting wireless sensors can enable the collection and analysis of data from machines, processes, and environments, and support predictive maintenance, asset tracking, and quality control .
+  - Healthcare: Energy harvesting wireless sensors can be used for wearable or implantable devices that monitor vital signs, activity, or medication adherence, and provide feedback or alerts to patients or caregivers .
+- Energy harvesting wireless sensors can be classified into different types based on the energy source they use, such as:
+  - Solar: Solar energy harvesting wireless sensors use photovoltaic cells to convert light into electricity. They are suitable for outdoor or indoor applications where there is sufficient illumination  .
+  - Thermal: Thermal energy harvesting wireless sensors use thermoelectric generators to convert heat into electricity. They are suitable for applications where there is a temperature difference between the sensor and the environment, such as industrial processes or human body  .
+  - Kinetic: Kinetic energy harvesting wireless sensors use piezoelectric, electromagnetic, or electrostatic transducers to convert mechanical motion into electricity. They are suitable for applications where there is vibration, rotation, or human activity  .
+  - Electromagnetic: Electromagnetic energy harvesting wireless sensors use antennas or coils to convert radio frequency signals into electricity. They are suitable for applications where there is a strong or nearby electromagnetic source, such as wireless power transfer or RFID  .
+- Energy harvesting wireless sensors typically consist of four main components  :
+  - Energy harvester: The device that collects and converts the ambient energy source into electrical energy.
+  - Energy storage: The device that stores the harvested energy for later use, such as a capacitor or a battery.
+  - Sensor: The device that measures a physical or chemical parameter of interest, such as temperature, pressure, or gas concentration.
+  - Wireless transceiver: The device that sends and receives data wirelessly, using a communication protocol such as Bluetooth, ZigBee, or LoRaWAN.

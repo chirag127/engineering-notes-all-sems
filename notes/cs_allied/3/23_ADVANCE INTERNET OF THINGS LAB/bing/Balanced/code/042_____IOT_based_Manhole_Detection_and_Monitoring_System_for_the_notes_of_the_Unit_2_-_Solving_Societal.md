@@ -1,0 +1,23 @@
+### IOT based Manhole Detection and Monitoring System
+
+- A drainage monitoring system plays a significant role in keeping towns and cities healthy and clean.
+- Most of the manholes are open without any observation that cause accidents. In India, many cities adopted emptying underground system because it is vital.
+- IOT based manhole detection and monitoring system is a solution that uses sensors to detect and send alerts to authorities via GSM and GPS module when any manhole crosses its threshold values .
+- This system reduces the death risk of manual scavengers who clean the underground drainage and also benefits the public.
+- This system also prevents contamination of fresh water due to problem in sewage drainage system.
+- This system also helps in avoiding urban floods which are most common in crowded cities.
+- The main components of this system are:
+  - Arduino Uno: It is the microcontroller that controls the sensors and the communication modules.
+  - Ultrasonic sensor: It is used to measure the water level in the manhole and send the data to the Arduino.
+  - Gas sensor: It is used to detect the presence of harmful gases in the manhole and send the data to the Arduino.
+  - GPS module: It is used to get the location of the manhole and send it to the GSM module.
+  - GSM module: It is used to send the alert message to the authorities with the location and the status of the manhole.
+  - LCD display: It is used to show the status of the manhole on the site.
+  - Power supply: It is used to provide the required voltage and current to the system.
+- The working of this system is as follows:
+  - The ultrasonic sensor and the gas sensor are placed inside the manhole and connected to the Arduino.
+  - The Arduino is programmed to read the data from the sensors and compare it with the predefined threshold values.
+  - If the water level or the gas level exceeds the threshold values, the Arduino sends a signal to the GPS module to get the location of the manhole.
+  - The GPS module sends the location data to the GSM module, which then sends an alert message to the authorities with the location and the status of the manhole.
+  - The LCD display shows the status of the manhole on the site.
+  - The authorities can take the necessary action to prevent any accidents or damage.

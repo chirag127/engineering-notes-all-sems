@@ -1,0 +1,10 @@
+## Unit 2 - Solving Societal problems with the help of IOT
+
+- IOT stands for Internet of Things, which refers to the network of physical devices, sensors, actuators, and software that can collect, process, and exchange data over the internet.
+- IOT can help solve various societal problems by providing smart solutions that can improve efficiency, safety, convenience, and quality of life for people and communities.
+- Some examples of societal problems that can be solved with the help of IOT are:
+
+  - **Smart cities**: IOT can enable the integration of various urban services, such as transportation, energy, water, waste management, security, and health care, through the use of sensors, data analytics, and cloud computing. This can help optimize resource consumption, reduce environmental impact, enhance public safety, and improve citizen satisfaction.
+  - **Smart agriculture**: IOT can help farmers monitor and control various aspects of crop production, such as soil moisture, temperature, humidity, pest infestation, and irrigation, through the use of sensors, drones, and mobile applications. This can help increase crop yield, reduce water and fertilizer use, and prevent crop losses.
+  - **Smart health care**: IOT can help patients and health care providers access and share health information, such as vital signs, medical records, and prescriptions, through the use of wearable devices, mobile applications, and cloud computing. This can help improve diagnosis, treatment, and prevention of diseases, as well as enhance patient comfort and convenience.
+  - **Smart education**: IOT can help students and teachers access and interact with educational resources, such as textbooks, videos, quizzes, and assignments, through the use of smart devices, online platforms, and artificial intelligence. This can help personalize learning, enhance engagement, and improve outcomes.

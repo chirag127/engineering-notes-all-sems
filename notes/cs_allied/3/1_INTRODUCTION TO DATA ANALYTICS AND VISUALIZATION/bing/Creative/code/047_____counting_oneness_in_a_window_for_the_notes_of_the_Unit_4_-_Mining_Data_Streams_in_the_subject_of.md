@@ -1,0 +1,27 @@
+### Counting oneness in a window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot be stored in memory.
+- One possible solution is to use the DGIM algorithm, which uses a compact representation of the stream using buckets of 1's with timestamps and sizes.
+- The DGIM algorithm works as follows :
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - The algorithm maintains a set of buckets, each consisting of the timestamp of its rightmost bit and the number of 1's in the bucket.
+  - The buckets are stored in a circular array of size N, where N is the length of the window. The algorithm also stores the total number of bits ever seen in the stream modulo N, which allows to determine the position of any bit in the current window.
+  - The buckets are subject to two invariants:
+    - There are at most two buckets of the same size.
+    - The buckets are ordered by their timestamps, from oldest to newest.
+  - Whenever a new bit arrives, the algorithm performs the following steps:
+    - If the bit is 0, it is ignored.
+    - If the bit is 1, it is placed in a new bucket of size 1 with the current timestamp.
+    - If there are three buckets of size 1, the oldest two are merged into a bucket of size 2 with the timestamp of the newer one.
+    - If there are three buckets of size 2, the oldest two are merged into a bucket of size 4 with the timestamp of the newer one, and so on.
+    - If the oldest bucket falls out of the window, it is discarded.
+  - To estimate the number of 1's in the last k bits, the algorithm performs the following steps:
+    - Find the oldest bucket that is entirely within the last k bits, call it B.
+    - Sum the sizes of all the buckets newer than B, call it S.
+    - Add half the size of B to S, call it E.
+    - Return E as the estimate.
+- The DGIM algorithm has the following properties :
+  - It uses O(log2 N) bits to represent a window of N bits.
+  - It allows to estimate the number of 1's in the window with an error of no more than 50%.
+  - It can handle arbitrary streams of 0's and 1's, and can adapt to changes in the stream.
+  - It can answer queries for any value of k less than N in constant time.

@@ -1,0 +1,22 @@
+#### 1. Start Raspberry Pi and try various Linux commands in command terminal window: ls, cd, touch, mv, rm, man
+
+- Raspberry Pi is a small, low-cost computer that can run Linux and other operating systems. It can be used for various projects, such as robotics, gaming, web development, etc.
+- To start Raspberry Pi, you need to connect it to a power source, a monitor, a keyboard, and a mouse. You also need to insert a microSD card with a Linux operating system installed on it. The Raspberry Pi will boot up and display a desktop environment or a command line interface, depending on the operating system you chose.
+- To access the command terminal window, you can either press Ctrl+Alt+T on the keyboard, or click on the terminal icon on the desktop or the menu bar. The command terminal window is where you can type and execute Linux commands to perform various tasks on the Raspberry Pi.
+- Linux commands are case-sensitive, meaning that uppercase and lowercase letters are treated differently. For example, `ls` and `LS` are not the same command. Linux commands also have options or arguments that modify their behavior or specify the target of the command. For example, `ls -l` and `ls /home/pi` are different from `ls` alone. Options usually start with a dash (-) and arguments are separated by spaces.
+- Here are some basic Linux commands that you can try on the Raspberry Pi:
+
+  - `ls`: This command lists the files and directories in the current working directory. The current working directory is the location where you are currently in the file system. You can see the current working directory by typing `pwd` (print working directory). For example, if you type `ls` in the terminal, you will see something like this:
+
+    ```
+    pi@raspberrypi:~ $ ls
+    Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+    ```
+
+    This means that you are in the home directory of the user `pi`, and there are eight subdirectories in it. You can also use options and arguments with `ls` to change the output. For example, `ls -l` will show more details about the files and directories, such as their size, permissions, owner, group, and modification date. `ls /home/pi/Desktop` will list the files and directories in the Desktop subdirectory of the home directory of the user `pi`.
+
+  - `cd`: This command changes the current working directory to the one specified by the argument. For example, if you type `cd Desktop`, you will move to the Desktop subdirectory of the current working directory. If you type `cd ..`, you will move to the parent directory of the current working directory. If you type `cd /`, you will move to the root directory of the file system, which is the topmost directory that contains all other directories and files. You can also use absolute paths or relative paths to specify the target directory. An absolute path starts with a slash (/) and specifies the location of the directory from the root directory. A relative path does not start with a slash and specifies the location of the directory from the current working directory. For example, `cd /home/pi/Documents` is an absolute path that will move you to the Documents subdirectory of the home directory of the user `pi`, regardless of where you are currently. `cd Documents` is a relative path that will move you to the Documents subdirectory of the current working directory, if it exists.
+
+  - `touch`: This command creates a new, empty file with the name specified by the argument. For example, if you type `touch test.txt`, you will create a new file named test.txt in the current working directory. You can also use options and arguments with `touch` to change the behavior of the command. For example, `touch -t 202103160412 test.txt` will create a new file named test.txt with the modification date set to March 16, 2023, 04:12 AM. `touch test1.txt test2.txt test3.txt` will create three new files named test1.txt, test2.txt, and test3.txt in the current working directory.
+
+  - `mv`: This command moves or renames a file or directory. The first argument specifies the source file or directory, and the second argument specifies the destination file or directory. For example, if you type `mv test.txt test2.txt`, you will rename the file test.txt to test2.txt in the current working directory. If you type `mv test.txt /home/pi/Desktop`, you will move the file test.txt from the current working directory to the Desktop subdirectory of the home directory of the user

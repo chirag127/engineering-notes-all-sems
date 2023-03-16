@@ -1,0 +1,23 @@
+### English Morphology
+
+- Morphology is the study of the internal structure and formation of words.
+- Words are composed of smaller units called morphemes, which are the smallest meaningful units in a language.
+- Morphemes can be classified into two types: free and bound.
+  - Free morphemes can stand alone as words, such as cat, dog, happy, etc.
+  - Bound morphemes cannot stand alone as words, but must be attached to other morphemes, such as -s, -ed, -ing, etc.
+- Morphemes can also be classified into two types: roots and affixes.
+  - Roots are the core of a word, carrying the main meaning and lexical category, such as cat, dog, happy, etc.
+  - Affixes are morphemes that modify the meaning or category of a root, such as -s, -ed, -ing, etc.
+- Affixes can be further classified into four types: prefixes, suffixes, infixes and circumfixes.
+  - Prefixes are affixes that attach to the beginning of a root, such as un-, re-, pre-, etc.
+  - Suffixes are affixes that attach to the end of a root, such as -s, -ed, -ing, etc.
+  - Infixes are affixes that insert into the middle of a root, such as -um- in Tagalog (e.g. sulat 'write', sumulat 'wrote').
+  - Circumfixes are affixes that attach to both the beginning and the end of a root, such as ge-...-t in German (e.g. spiel 'play', gespielt 'played').
+- The process of combining morphemes to form words is called word formation.
+- There are different types of word formation processes, such as derivation, inflection, compounding, blending, clipping, acronym, etc.
+  - Derivation is the process of creating new words by adding affixes to existing words, such as happy + -ness = happiness, teach + -er = teacher, etc.
+  - Inflection is the process of modifying existing words to indicate grammatical features, such as number, tense, person, case, etc. For example, cat + -s = cats, walk + -ed = walked, etc.
+  - Compounding is the process of creating new words by combining two or more existing words, such as blackboard, toothbrush, etc.
+  - Blending is the process of creating new words by combining parts of two or more existing words, such as brunch (breakfast + lunch), smog (smoke + fog), etc.
+  - Clipping is the process of creating new words by shortening existing words, such as gym (gymnasium), flu (influenza), etc.
+  - Acronym is the process of creating new words by using the initial letters of a phrase or a name, such as NASA (National Aeronautics and Space Administration), LOL (laugh out loud), etc.

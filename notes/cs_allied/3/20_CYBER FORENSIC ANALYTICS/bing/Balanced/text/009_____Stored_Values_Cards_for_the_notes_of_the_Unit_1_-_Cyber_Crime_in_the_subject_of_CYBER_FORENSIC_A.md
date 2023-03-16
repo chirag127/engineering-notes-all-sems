@@ -1,0 +1,24 @@
+### Stored Values Cards
+
+- Stored value cards (SVCs) are cards with data encoded in either a magnetic strip or a computer chip that are preloaded with a fixed amount of electronic currency or value.
+- SVCs can be classified into three types: closed system, semi-closed system, and open system.
+- Closed system cards are issued by a single merchant or group of merchants and can only be used to purchase goods or services from those merchants. Examples are gift cards, phone cards, and transit cards.
+- Semi-closed system cards are issued by a third-party provider and can be used to purchase goods or services from a network of merchants that accept the card. Examples are store cards, loyalty cards, and payroll cards.
+- Open system cards are issued by a financial institution and can be used to purchase goods or services from any merchant that accepts the card. Examples are prepaid debit cards, travel cards, and remittance cards.
+- SVCs offer convenience, security, and flexibility to consumers, merchants, and financial institutions. They can also facilitate financial inclusion for the unbanked and underbanked populations.
+- However, SVCs also pose money laundering risks, especially for open system and semi-closed system cards. These risks include:
+  - The widespread availability of SVCs (particularly at non-financial outlets), the high loading and card balance value limits of open system cards, and the anonymity offered by closed and semi-closed system cards could be abused by organised criminals for illicit financial transactions, money laundering and bulk cash smuggling, particularly as value limits increase.
+  - SVCs can be used to transfer funds across borders without triggering reporting or identification requirements. Criminals can use SVCs to avoid detection by law enforcement and financial intelligence units.
+  - SVCs can be used to purchase goods or services that are associated with criminal activities, such as online gambling, pornography, or drugs.
+  - SVCs can be used to facilitate cyber crimes, such as fraudulent monetary transfers and counterfeiting of stored value cards. This is typically done through the compromise of a legitimate user’s account credentials.
+- To address these risks, some regulatory measures have been implemented or proposed, such as:
+  - Requiring the identification and verification of customers who purchase, load, or redeem SVCs above a certain threshold.
+  - Requiring the reporting of suspicious or unusual transactions involving SVCs to the relevant authorities.
+  - Requiring the registration and licensing of SVC issuers and providers.
+  - Requiring the cooperation and information sharing among SVC issuers, providers, merchants, law enforcement, and financial intelligence units.
+  - Requiring the implementation of anti-money laundering and counter-terrorism financing policies and procedures by SVC issuers and providers.
+- However, these measures also face some challenges, such as:
+  - The lack of a consistent and harmonised definition and classification of SVCs across jurisdictions.
+  - The difficulty of enforcing and monitoring compliance with the regulatory requirements, especially for non-financial SVC issuers and providers.
+  - The potential impact on the cost, efficiency, and accessibility of SVCs for legitimate users.
+  - The need to balance the privacy and security of SVC users with the prevention and detection of money laundering and other crimes.

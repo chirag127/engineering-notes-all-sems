@@ -1,0 +1,11 @@
+### Circuit Theory
+
+Circuit theory is a set of techniques used to describe the flow of energy around an electrical loop. The theory is comprised of a number of different laws, ideas, and definitions. These include Ohm’s law and Kirchhoff’s laws, which describe the relationship between current, voltage, and resistance .
+
+Some basic concepts of circuit theory are:
+
+- A circuit is a closed path that allows electric current to flow from one point to another.
+- A circuit can be composed of two types of components: passive and active. Passive components are those that do not produce or consume energy, such as resistors, capacitors, and inductors. Active components are those that can generate or control energy, such as batteries, generators, and transistors.
+- A circuit can be analyzed using different methods, such as nodal analysis, mesh analysis, source transformation, superposition, Thevenin’s theorem, Norton’s theorem, and maximum power transfer theorem.
+- A circuit can be classified into different types, such as series, parallel, series-parallel, and complex circuits. Series circuits are those where the components are connected end to end, so that the same current flows through all of them. Parallel circuits are those where the components are connected across the same voltage source, so that the same voltage is applied to all of them. Series-parallel circuits are those that combine both series and parallel connections. Complex circuits are those that cannot be simplified into series or parallel connections.
+- A circuit can be represented using different models, such as lumped parameter model, distributed parameter model, and state-space model. Lumped parameter model is the simplest model that assumes that the circuit elements are concentrated at discrete points and that the effects of the physical dimensions of the circuit are negligible. Distributed parameter model is a more realistic model that takes into account the effects of the physical dimensions of the circuit, such as the resistance, capacitance, and inductance of the wires. State-space model is a mathematical model that describes the behavior of the circuit using a set of differential equations and initial conditions.

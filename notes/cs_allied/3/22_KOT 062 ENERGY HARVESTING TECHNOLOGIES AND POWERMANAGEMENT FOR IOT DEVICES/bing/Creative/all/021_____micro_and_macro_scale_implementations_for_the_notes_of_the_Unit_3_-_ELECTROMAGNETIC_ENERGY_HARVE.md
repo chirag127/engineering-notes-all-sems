@@ -1,0 +1,12 @@
+# Micro and Macro Scale Implementations for the Notes of the Unit 3 - Electromagnetic Energy Harvesting and Non-Linear Techniques
+
+Electromagnetic energy harvesting (EMEH) is a technique that converts ambient mechanical vibrations into electrical energy using electromagnetic induction. EMEH devices typically consist of a coil and a magnet, which move relative to each other and generate an electromotive force in the coil. EMEH can be used to power wireless sensor nodes, wearable devices, biomedical implants and other low-power applications.
+
+Non-linear techniques are methods that enhance the performance of EMEH devices by exploiting the non-linear behavior of the system. Non-linear techniques can increase the bandwidth, output power and efficiency of EMEH devices, as well as enable self-powered operation and adaptive tuning. Non-linear techniques can be implemented at both micro and macro scales, depending on the size and application of the EMEH device.
+
+Some examples of micro and macro scale implementations of non-linear techniques for EMEH are:
+
+- **Magnetic levitation**: This technique uses magnetic forces to suspend the magnet above the coil, creating a non-linear spring-mass-damper system. Magnetic levitation can reduce the mechanical damping and friction, increase the natural frequency and output voltage, and enable broadband operation of the EMEH device .
+- **Non-linear interface circuit**: This technique uses a non-linear electrical component, such as a diode, to modify the load resistance of the EMEH device. Non-linear interface circuit can increase the output power and efficiency of the EMEH device, as well as enable self-powered operation and adaptive tuning.
+- **Non-linear magnetic spring**: This technique uses two fixed magnets at the ends of the tube to create a non-linear magnetic force on the moving magnet. Non-linear magnetic spring can increase the bandwidth and output power of the EMEH device, as well as enable bi-stable operation and frequency up-conversion .
+- **Non-linear piezoelectric coupling**: This technique uses a piezoelectric element to couple the mechanical and electrical domains of the EMEH device. Non-linear piezoelectric coupling can increase the output power and efficiency of the EMEH device, as well as enable self-powered operation and adaptive tuning.

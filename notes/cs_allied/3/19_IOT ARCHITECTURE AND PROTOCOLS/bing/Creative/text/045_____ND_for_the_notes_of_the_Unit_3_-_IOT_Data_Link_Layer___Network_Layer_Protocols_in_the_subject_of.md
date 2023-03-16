@@ -1,0 +1,15 @@
+### ND for the notes of the Unit 3 - IOT Data Link Layer & Network Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The data link layer provides service to the network layer by enabling reliable and efficient communication between devices on the same network segment.
+- The network layer provides service to the transport layer by enabling routing and addressing of data packets across different networks.
+- Some of the common data link layer protocols in IoT are:
+  - Bluetooth: A short-range wireless communication network over a radio frequency. It supports low-power and low-cost devices and enables data exchange, voice communication, and device discovery.
+  - Wi-Fi: A wireless LAN technology that uses radio waves to provide high-speed internet access and network connectivity. It supports various standards such as 802.11a/b/g/n/ac/ax and offers security, scalability, and interoperability .
+  - ZigBee: A low-rate wireless personal area network (WPAN) that operates in the 2.4 GHz frequency band. It supports mesh networking, low-power consumption, and self-organization. It is widely used for home automation, smart lighting, and sensor networks .
+  - NFC: A short-range wireless communication technology that enables data exchange between devices by bringing them close together. It supports peer-to-peer, reader/writer, and card emulation modes. It is commonly used for mobile payments, access control, and smart tags.
+  - Ethernet: A wired LAN technology that uses twisted pair or optical fiber cables to provide data transfer rates as high as 100 Gbps. It supports various standards such as 802.3, 802.3u, 802.3ab, and 802.3z. It is widely used for industrial, enterprise, and data center networks.
+- Some of the common network layer protocols in IoT are:
+  - IPv4: The most widely used internet protocol that assigns 32-bit addresses to devices and supports various features such as fragmentation, checksum, and header options. It has a limited address space of 4.3 billion addresses and suffers from security and scalability issues.
+  - IPv6: The next generation internet protocol that assigns 128-bit addresses to devices and supports various features such as auto-configuration, mobility, and security. It has a virtually unlimited address space of 3.4 x 10^38 addresses and enables end-to-end connectivity and interoperability.
+  - 6LoWPAN: A protocol that enables IPv6 packets to be transmitted over low-power and lossy networks (LLNs) such as ZigBee, Bluetooth, and NFC. It supports header compression, fragmentation, and adaptation. It enables seamless integration of IoT devices with the internet.
+  - RPL: A routing protocol for LLNs that supports multipoint-to-point, point-to-multipoint, and point-to-point traffic. It uses a directed acyclic graph (DAG) to construct routes and supports various metrics such as hop count, latency, and energy. It enables efficient and reliable data delivery in IoT networks.

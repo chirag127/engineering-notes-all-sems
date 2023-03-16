@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some information on the topic of total causal order for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM.
+
+### Total Causal Order
+
+- A distributed system is a collection of independent processes that communicate by exchanging messages over a network.
+- Events in a distributed system are actions that occur at a specific point in time, such as sending or receiving a message, or performing a local computation.
+- The order of events in a distributed system is important for ensuring the consistency and correctness of the system's behavior and state.
+- A partial order is a relation that defines a precedence among some events, but not all. For example, if event A happens before event B in the same process, then A is partially ordered before B. However, if event C happens in a different process, then there is no partial order between A and C, or between B and C.
+- A causal order is a partial order that captures the potential causal influence of events on each other. For example, if event A causes event B, then A is causally ordered before B. Causality can be inferred from the message passing between processes. If event A sends a message to event B, then A is causally ordered before B. If event B sends a message to event C, then B is causally ordered before C. Therefore, by transitivity, A is causally ordered before C.
+- A total order is a relation that defines a precedence among all events in the system. For example, if event A happens before event B in the global clock, then A is totally ordered before B. However, a global clock is not always available or reliable in a distributed system, so other methods are needed to establish a total order.
+- A total causal order is a total order that is consistent with the causal order. It means that if event A is causally ordered before event B, then A is also totally ordered before B. However, a total causal order may not be unique, as there may be different ways to linearize the events that are concurrent (not causally related) in the system.
+- A total causal order can be implemented by using a logical clock, such as a vector clock, that assigns a timestamp to each event, such that the timestamp reflects the causal order of the event. Then, a total order can be obtained by comparing the timestamps of the events, using a predefined rule, such as lexicographic order.
+- A total causal order is useful for ensuring the consistency and agreement of the processes in the system, especially for applications that require atomic broadcast, distributed snapshots, or consensus.

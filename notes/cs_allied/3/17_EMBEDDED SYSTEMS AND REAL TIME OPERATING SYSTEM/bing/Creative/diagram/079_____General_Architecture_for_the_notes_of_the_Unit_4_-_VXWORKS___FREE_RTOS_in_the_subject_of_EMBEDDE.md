@@ -1,0 +1,11 @@
+### General Architecture
+
+- An RTOS (Real-Time Operating System) is a software system that provides predictable and deterministic behavior for time-sensitive applications.
+- An RTOS typically consists of a kernel, which manages the core functions such as task scheduling, inter-task communication, synchronization, memory management, and interrupt handling.
+- An RTOS may also include middleware, which provides additional services such as networking, file system, graphics, security, and device drivers.
+- An RTOS may be classified into two types based on its kernel architecture: monolithic and microkernel.
+- A monolithic kernel is a single large program that runs in the privileged mode of the processor and contains all the core functions and services of the RTOS. A monolithic kernel is faster and simpler to implement, but less modular and more prone to errors and security breaches.
+- A microkernel is a small program that runs in the privileged mode of the processor and provides only the basic functions of the RTOS, such as task switching, inter-task communication, and interrupt handling. A microkernel delegates the other functions and services to separate programs that run in the user mode of the processor. A microkernel is more modular and secure, but slower and more complex to implement.
+- VxWorks and FreeRTOS are two examples of RTOS that have different kernel architectures.
+- VxWorks is a monolithic kernel RTOS that supports both preemptive and cooperative multitasking, priority-based scheduling, inter-process communication, memory protection, and real-time POSIX compliance. VxWorks is widely used in aerospace, defense, industrial, and automotive applications.
+- FreeRTOS is a microkernel RTOS that supports preemptive multitasking, priority-based scheduling, inter-task communication, and memory allocation. FreeRTOS is designed for embedded systems with limited resources and is open source and portable. FreeRTOS is used in various domains such as IoT, medical, and consumer electronics.

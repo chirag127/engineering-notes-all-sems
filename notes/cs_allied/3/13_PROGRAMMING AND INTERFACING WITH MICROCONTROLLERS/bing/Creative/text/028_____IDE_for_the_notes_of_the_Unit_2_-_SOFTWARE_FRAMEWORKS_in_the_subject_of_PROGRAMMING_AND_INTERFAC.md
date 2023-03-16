@@ -1,0 +1,13 @@
+### IDE for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- An IDE (Integrated Development Environment) is a software program that provides a set of tools to help developers create, edit, compile, debug and test embedded applications for microcontrollers.
+- An IDE typically consists of a code editor, a compiler, a debugger, a simulator, a programmer and other utilities.
+- An IDE can simplify and speed up the development process by automating tasks, providing code completion, syntax highlighting, error checking, code formatting, code navigation, code refactoring and code generation features.
+- An IDE can also support multiple programming languages, frameworks, libraries, platforms and devices, depending on the features and plugins available.
+- Some of the popular IDEs for microcontroller programming are:
+
+  - **MPLAB X IDE** : An IDE developed by Microchip Technology for its PIC and dsPIC microcontrollers. It supports C, C++, Assembly and Java languages, and integrates with various compilers, debuggers, programmers and simulators. It also provides a graphical configuration tool, a code configurator, a harmony framework and a peripheral library.
+  - **Arduino IDE**: An IDE developed by Arduino for its Arduino boards and compatible microcontrollers. It supports C and C++ languages, and integrates with various compilers, debuggers, programmers and simulators. It also provides a library manager, a serial monitor, a serial plotter and a board manager.
+  - **Code Composer Studio**: An IDE developed by Texas Instruments for its microcontrollers and processors. It supports C, C++, Assembly and Java languages, and integrates with various compilers, debuggers, programmers and simulators. It also provides a code generation tool, a code analysis tool, a power analysis tool and a cloud development tool.
+  - **Arm Development Studio**: An IDE developed by Arm for its Cortex-M, Cortex-R and Cortex-A processors. It supports C, C++, Assembly and Java languages, and integrates with various compilers, debuggers, programmers and simulators. It also provides a performance analysis tool, a memory analysis tool, a trace analysis tool and a system design tool.
+  - **Eclipse**: An open-source IDE that can be customized and extended for various microcontroller platforms and devices. It supports multiple languages, frameworks, libraries and plugins, and integrates with various compilers, debuggers, programmers and simulators. It also provides a project explorer, a code editor, a code formatter, a code refactoring tool and a code generation tool.

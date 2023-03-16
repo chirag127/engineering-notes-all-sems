@@ -1,0 +1,12 @@
+### Variance Reduction
+
+- Variance reduction is a set of techniques that aim to improve the accuracy and efficiency of Monte Carlo simulations by reducing the variance of the estimator without changing its expected value.
+- Variance reduction techniques are useful when the estimator has a high variance, which means that it fluctuates a lot around the true value and requires a large number of samples to achieve a desired level of precision.
+- Some common variance reduction techniques are:
+
+  - **Common random numbers (CRN)**: This technique applies when comparing two or more alternative configurations of a system using the same random numbers to generate the samples for each configuration. This induces a positive correlation between the estimators and reduces the variance of their difference.
+  - **Control variates**: This technique uses a known quantity that is correlated with the quantity of interest to adjust the estimator and reduce its variance. The known quantity is called a control variate and its value and variance are either known or easy to compute.
+  - **Partial integration**: This technique reduces the variance by replacing some integrals over random variables or regions of space by their exact values, which are either known or easy to compute. This technique is also known as Rao-Blackwellization.
+  - **Systematic sampling**: This technique uses a deterministic or structured way of selecting the samples instead of a purely random way. This can reduce the variance by ensuring a more uniform coverage of the sample space and avoiding clustering or gaps. Some examples of systematic sampling methods are antithetic variates, stratified sampling, and quasi-Monte Carlo integration.
+  - **Importance sampling**: This technique changes the probability distribution of the random variables to sample from a more relevant or informative region of the sample space. This can reduce the variance by assigning more weight to the samples that have a larger impact on the estimator. The weights are adjusted by the ratio of the original and the new probability distributions.
+  - **Rare event sampling**: This technique is a special case of importance sampling that focuses on estimating the probability or frequency of rare events that have a very low probability of occurrence. This can reduce the variance by using an importance function that increases the probability of sampling the rare events and reduces the probability of sampling the common events.

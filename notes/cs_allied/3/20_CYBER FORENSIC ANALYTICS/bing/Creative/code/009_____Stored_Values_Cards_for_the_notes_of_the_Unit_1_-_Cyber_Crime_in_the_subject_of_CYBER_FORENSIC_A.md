@@ -1,0 +1,13 @@
+### Stored Values Cards for the notes of the Unit 1 - Cyber Crime in the subject of CYBER FORENSIC ANALYTICS
+
+- Stored value cards (SVCs) are cards with data encoded in either a magnetic strip or a computer chip that are preloaded with a fixed amount of electronic currency or value.
+- SVCs can be classified into three types: closed system, semi-closed system, and open system.
+- Closed system cards are issued by a specific merchant or group of merchants and can only be used to purchase goods or services from those merchants. Examples are gift cards, phone cards, and transit cards.
+- Semi-closed system cards are issued by a third-party provider and can be used to purchase goods or services from a network of merchants that accept the card. Examples are loyalty cards, campus cards, and payroll cards.
+- Open system cards are issued by a financial institution and can be used to purchase goods or services from any merchant that accepts the card network (such as Visa or MasterCard). Examples are prepaid debit cards, travel cards, and remittance cards.
+- SVCs offer convenience, security, and flexibility to consumers, merchants, and financial institutions. They can also facilitate financial inclusion for the unbanked and underbanked populations.
+- However, SVCs also pose money laundering and cyber security risks, especially the open system and semi-closed system cards that have high loading and card balance value limits and offer anonymity to users.
+- Money laundering is the process of concealing the origin, ownership, or destination of illicitly obtained money or other assets. Cyber security is the protection of information systems and networks from unauthorized access, use, modification, or destruction.
+- SVCs can be used by organized criminals to launder their illicit proceeds, transfer funds across borders, evade taxes, finance terrorism, or purchase illegal goods or services. They can also be compromised by hackers, fraudsters, or insiders to steal or counterfeit the stored value, access personal or financial information, or disrupt the payment system .
+- To mitigate these risks, SVCs are subject to various regulatory measures, such as customer identification and verification, transaction monitoring and reporting, record keeping, and cyber security standards. However, these measures vary across jurisdictions and may not be adequate or consistent to address the evolving threats and challenges posed by SVCs.
+- Therefore, there is a need for more cooperation and coordination among law enforcement agencies, financial intelligence units, regulators, and the private sector to enhance the detection, prevention, and prosecution of money laundering and cyber security crimes involving SVCs.

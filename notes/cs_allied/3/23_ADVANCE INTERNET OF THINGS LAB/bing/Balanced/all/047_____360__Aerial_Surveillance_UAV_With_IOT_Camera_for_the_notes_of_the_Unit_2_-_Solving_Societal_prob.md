@@ -1,0 +1,34 @@
+# 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- Large drones are very large in size which can be easily detected by enemy radars and also require large runways for takeoff and landing.
+- Small drones are more suitable for covert operations as they can fly at low altitudes and avoid detection. However, they have limited field of view and battery life.
+- 360° Aerial Surveillance UAV With IOT Camera is a project that aims to develop a small drone that can capture 360-degree images and videos and transmit them to a remote server using IOT technology .
+- The drone consists of the following components  :
+  - A quadcopter frame with four propellers and motors
+  - A flight controller board with sensors and GPS module
+  - A Raspberry Pi 3 as the main processing unit
+  - A 360-degree camera module attached to the bottom of the frame
+  - A Wi-Fi module for wireless communication
+  - A battery pack for power supply
+- The drone can be controlled by a smartphone app or a web interface that allows the user to view the live feed from the camera and send commands to the drone .
+- The drone can also perform autonomous tasks such as following a predefined path, hovering at a fixed location, or returning to the base station .
+- The drone can be used for various applications such as  :
+  - Border security and surveillance
+  - Disaster management and rescue operations
+  - Traffic monitoring and management
+  - Crowd surveillance and face recognition
+  - Wildlife conservation and research
+  - Entertainment and tourism
+- The drone has the following advantages over conventional drones :
+  - It can capture a complete view of the surroundings without any blind spots
+  - It can transmit high-quality images and videos in real time
+  - It can operate in low-light and adverse weather conditions
+  - It can fly at low altitudes and avoid detection
+  - It can be easily deployed and retrieved
+  - It can be integrated with other IOT devices and platforms
+- The drone also has some challenges and limitations such as :
+  - It requires a stable and secure wireless connection
+  - It consumes more power and has a shorter battery life
+  - It has a limited payload and range
+  - It may face legal and ethical issues regarding privacy and safety

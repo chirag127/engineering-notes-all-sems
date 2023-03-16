@@ -1,0 +1,10 @@
+### Introduction for the notes of the Unit 2 - Reference Architecture in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The Internet of Things (IoT) is a network of physical objects or things that can communicate, sense, and interact with each other and other entities over the Internet.
+- IoT systems consist of various components, such as devices, gateways, cloud platforms, applications, and services, that work together to provide functionalities and value to the users and stakeholders.
+- A reference architecture is a conceptual model that defines the structure, behavior, and interfaces of an IoT system, as well as the principles and guidelines for its design and evolution.
+- A reference architecture provides a common vocabulary, a shared vision, and a set of best practices for the development and integration of IoT systems.
+- A reference architecture also facilitates interoperability, scalability, security, and reliability of IoT systems, by defining the standards, protocols, and technologies that should be used in each layer and component of the system.
+- There are different reference architectures proposed by various organizations and initiatives, such as the IoT-Architecture (IoT-A) project, the IEEE P2413 standard, the Industrial Internet Consortium (IIC), and the OpenFog Consortium.
+- These reference architectures have different scopes, perspectives, and objectives, but they share some common elements and concepts, such as the IoT device, the IoT gateway, the IoT cloud, the IoT application, and the IoT service.
+- In this unit, we will study the main features, components, and layers of some of the most prominent reference architectures for IoT systems, and compare their similarities and differences. We will also discuss the challenges and opportunities of applying reference architectures to IoT systems.

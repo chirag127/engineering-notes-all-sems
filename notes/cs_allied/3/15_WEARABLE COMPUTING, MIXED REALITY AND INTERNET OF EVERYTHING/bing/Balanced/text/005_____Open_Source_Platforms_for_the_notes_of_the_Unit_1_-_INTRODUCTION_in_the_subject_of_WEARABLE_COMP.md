@@ -1,0 +1,12 @@
+### Open Source Platforms for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the field of computer science that deals with designing, developing and using wearable devices that can sense, process and communicate information.
+- Mixed reality is the blending of physical and digital worlds, creating new environments and visualizations where physical and digital objects co-exist and interact in real time.
+- Internet of everything is the concept of connecting any device with an on and off switch to the Internet and/or to each other, enabling more data collection, analysis and communication.
+- Some of the open source platforms that can be used for wearable computing, mixed reality and internet of everything are:
+
+  - **Open Source Virtual Reality (OSVR)**: An open-source software project that aims to enable headsets and game controllers from all vendors to be used with any games developed by Razer and Sensics. It is also a virtual reality headset that claims to be open-source hardware using the OSVR software.
+  - **ARToolKit**: An open-source software library for building augmented reality applications. It supports a variety of platforms, including Android, iOS, Linux, Windows and macOS. It can track the position and orientation of a camera and overlay computer-generated graphics on the real world.
+  - **Azure IoT**: A cloud-based platform that provides a set of services and tools for connecting, managing and securing internet of things devices. It also supports digital twins, mixed reality and autonomous systems, enabling new scenarios and innovations.
+  - **Snap Kit**: A collection of open-source tools and SDKs that allow developers to integrate Snapchat features into their apps, such as Bitmoji, Stories, Camera and Login. It also enables the creation of augmented reality experiences using Lens Studio.
+  - **WebXR**: A web standard that defines a set of APIs for creating immersive virtual and augmented reality experiences on the web. It supports a range of devices, from smartphones to head-mounted displays, and allows web developers to use familiar web technologies and frameworks.

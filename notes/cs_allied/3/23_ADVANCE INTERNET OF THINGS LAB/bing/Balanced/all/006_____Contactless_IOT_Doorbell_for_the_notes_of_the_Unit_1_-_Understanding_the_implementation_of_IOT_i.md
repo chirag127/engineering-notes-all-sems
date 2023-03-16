@@ -1,0 +1,21 @@
+# Contactless IOT Doorbell
+
+- A contactless IOT doorbell is a device that uses internet of things (IOT) technology to perform various functions such as ringing a bell, scanning the temperature, recognizing the face, and sending alerts to the house owner when a visitor arrives at the door.
+- A contactless IOT doorbell can help prevent the spread of Covid-19 and other infectious diseases by avoiding physical contact and detecting fever symptoms in the visitors.
+- A contactless IOT doorbell can also enhance the security and convenience of the house owner by allowing them to monitor and communicate with the visitors remotely through a mobile app or a web interface.
+- A contactless IOT doorbell typically consists of the following components:
+  - A microcontroller such as NodeMCU or Raspberry Pi that acts as the brain of the device and controls the communication and processing of data.
+  - A non-contact infrared temperature sensor such as MLX90614 that measures the body temperature of the visitor without touching them.
+  - A camera module that captures the image of the visitor and performs face recognition using machine learning algorithms.
+  - A speaker that plays a voice message or a sound to greet the visitor and inform them of the temperature reading.
+  - A wireless module such as Wi-Fi or Bluetooth that connects the device to the internet and enables data transmission and reception.
+  - A power supply such as a battery or a solar panel that provides the necessary voltage and current to the device.
+  - A buzzer or a LED that acts as a visual or an audible indicator of the device status and the visitor arrival.
+- A contactless IOT doorbell works as follows:
+  - When a visitor approaches the door, the device detects their presence using a motion sensor or a proximity sensor and activates the camera and the temperature sensor.
+  - The device captures the image of the visitor and sends it to a cloud server or a local server for face recognition and identification.
+  - The device also measures the temperature of the visitor and compares it with a threshold value to determine if they have fever or not.
+  - The device plays a voice message or a sound to welcome the visitor and inform them of the temperature reading and the face recognition result.
+  - The device sends the data and the image of the visitor to the house owner's mobile app or web interface through the internet and alerts them of the visitor arrival.
+  - The house owner can view the data and the image of the visitor and decide whether to open the door or not. They can also communicate with the visitor through the speaker or send a text message or an email to them.
+  - The device logs all the data and the images of the visitors in a database for future reference and analysis.

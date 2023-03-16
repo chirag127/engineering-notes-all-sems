@@ -1,0 +1,10 @@
+### IOT Covid Patient Health Monitor in Quarantine
+
+- IoT stands for Internet of Things, which is a network of physical devices, sensors, and actuators that can communicate and exchange data over the internet.
+- Covid-19 is a highly contagious respiratory disease caused by a novel coronavirus that emerged in late 2019 and has spread worldwide, causing a global pandemic.
+- Covid-19 patients who have mild or moderate symptoms are advised to isolate themselves at home or in designated quarantine facilities to prevent further transmission of the virus and to reduce the burden on the health care system.
+- However, these patients still need to monitor their vital signs, such as body temperature, pulse rate, blood oxygen saturation, and blood pressure, which are indicators of their health condition and potential complications.
+- IoT-based health monitoring systems can provide a solution for remote and real-time monitoring of Covid-19 patients in quarantine, by using wearable or non-invasive sensors that can measure the vital signs and transmit the data to a cloud server or a mobile application, where it can be accessed and analyzed by medical professionals or caregivers.
+- IoT-based health monitoring systems can also provide alerts and notifications to the patients and the medical staff in case of any abnormal readings or emergencies, and can also provide feedback and guidance to the patients on how to manage their symptoms and improve their recovery.
+- IoT-based health monitoring systems can benefit both the patients and the medical staff, by reducing the risk of exposure and infection, improving the quality of care, enhancing the efficiency and accuracy of diagnosis and treatment, and saving time and resources.
+- Some of the challenges and limitations of IoT-based health monitoring systems for Covid-19 patients in quarantine are: ensuring the reliability and security of the data transmission and storage, maintaining the battery life and connectivity of the sensors, ensuring the usability and comfort of the devices, complying with the ethical and legal regulations, and addressing the privacy and confidentiality issues of the patients.

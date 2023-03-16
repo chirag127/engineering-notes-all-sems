@@ -1,0 +1,10 @@
+# oneM2M
+
+- oneM2M is a global partnership project founded in 2012 and constituted by 8 of the world's leading ICT standards development organizations.
+- oneM2M aims to develop a common service layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
+- oneM2M is similar to a distributed operating system for the Internet of Things. It takes the form of a middleware service layer consisting of a suite of common service functions (CSFs).
+- oneM2M common service layer contains set of common service functions which are required by various IoT verticals. Common Service Entity (CSE) is the logical entity that implements the common service functions.
+- oneM2M defines three types of CSEs: Infrastructure Node (IN-CSE), Middle Node (MN-CSE) and Application Entity (AE). IN-CSE is the root of the oneM2M system and provides the core functionalities. MN-CSE is an intermediate node that can act as a gateway or a proxy. AE is the application logic that interacts with the oneM2M system.
+- oneM2M uses a resource-oriented architecture (ROA) based on RESTful principles. Resources are the basic units of information that can be created, retrieved, updated and deleted through standardized interfaces. Resources are organized in a hierarchical tree structure and can have attributes, sub-resources and subscriptions.
+- oneM2M supports various protocols for communication between CSEs and AEs, such as HTTP, CoAP, MQTT and WebSocket. oneM2M also defines a protocol-independent binding layer that abstracts the common features of these protocols and provides a uniform way of exchanging messages.
+- oneM2M provides various security mechanisms to ensure the confidentiality, integrity and availability of the oneM2M system and its resources. These include authentication, authorization, access control, encryption, digital signature, certificate management and auditing.

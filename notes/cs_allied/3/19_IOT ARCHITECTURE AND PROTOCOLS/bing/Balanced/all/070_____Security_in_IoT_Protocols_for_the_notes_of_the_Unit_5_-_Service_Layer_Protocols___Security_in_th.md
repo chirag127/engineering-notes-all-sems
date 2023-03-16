@@ -1,0 +1,21 @@
+# Security in IoT Protocols
+
+- Security in IoT protocols is the process of ensuring the confidentiality, integrity, and availability of data and devices in the Internet of Things (IoT) network.
+- IoT protocols are the communication standards and rules that enable data exchange and interaction among IoT devices, gateways, servers, and cloud platforms.
+- IoT protocols have to deal with various security challenges, such as:
+  - Resource constraints of IoT devices, which limit the use of complex encryption and authentication mechanisms.
+  - Heterogeneity and diversity of IoT devices, which require interoperability and compatibility among different protocols and platforms.
+  - Scalability and dynamism of IoT network, which involve a large number of devices and frequent changes in topology and connectivity.
+  - Privacy and trust issues of IoT data, which involve sensitive and regulated information that may be accessed by unauthorized or malicious parties.
+- Some of the common security attacks and threats in IoT network are:
+  - Eavesdropping, which is the interception and analysis of data in transit by unauthorized parties.
+  - Replay, which is the retransmission of captured data to impersonate or deceive legitimate parties.
+  - Modification, which is the alteration or tampering of data in transit or in storage by unauthorized parties.
+  - Denial of service (DoS), which is the disruption or prevention of normal service or functionality of IoT devices or network by overwhelming them with malicious traffic or requests.
+  - Physical attacks, which are the damage or destruction of IoT devices or network components by physical means.
+- Some of the common security protocols and mechanisms for IoT network are:
+  - MQTT (Message Queuing Telemetry Transport), which is a lightweight and publish-subscribe protocol that supports encryption, authentication, and authorization using TLS/SSL, username/password, and access control lists.
+  - CoAP (Constrained Application Protocol), which is a web-based and RESTful protocol that supports encryption, authentication, and authorization using DTLS, pre-shared keys, certificates, and tokens.
+  - LwM2M (Lightweight Machine to Machine), which is a device management and service enablement protocol that supports encryption, authentication, and authorization using DTLS, pre-shared keys, certificates, and bootstrap.
+  - ZigBee, which is a low-power and mesh-based protocol that supports encryption, authentication, and authorization using AES, network keys, link keys, and trust center.
+  - 6LoWPAN, which is a protocol that enables IPv6 communication over low-power and lossy networks, and supports encryption, authentication, and authorization using IPSec, IKEv2, and RPL.

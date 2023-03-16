@@ -1,0 +1,33 @@
+## Unit 3 - Problem Analysis and Designing a Solution
+
+- In this unit, you will learn how to analyze a given problem and design a solution using various tools and techniques.
+- Problem analysis is the process of identifying the nature, scope, and causes of a problem, and defining the goals and constraints of a solution.
+- Designing a solution is the process of creating a plan or a blueprint for implementing a solution that meets the goals and constraints of the problem.
+- Some of the tools and techniques for problem analysis and designing a solution are:
+
+  - **Problem statement**: A concise and clear description of the problem, its context, and its goals.
+  - **Problem decomposition**: Breaking down a complex problem into smaller and simpler subproblems that can be solved more easily.
+  - **Abstraction**: Ignoring the irrelevant details and focusing on the essential features of a problem or a solution.
+  - **Algorithm**: A step-by-step procedure or a set of rules for solving a problem or performing a task.
+  - **Flowchart**: A graphical representation of an algorithm using symbols and arrows to show the flow of logic and data.
+  - **Pseudocode**: A textual representation of an algorithm using natural language and programming constructs to describe the logic and data.
+  - **Data structure**: A way of organizing and storing data in a computer memory or disk, such as arrays, lists, stacks, queues, trees, graphs, etc.
+  - **Data type**: A classification of data that defines the possible values, operations, and representations of the data, such as integers, floats, strings, booleans, etc.
+  - **Variable**: A named memory location that can store a value of a certain data type and can be changed during the execution of a program.
+  - **Constant**: A named memory location that can store a value of a certain data type and cannot be changed during the execution of a program.
+  - **Expression**: A combination of variables, constants, operators, and functions that can be evaluated to produce a value of a certain data type.
+  - **Statement**: A command or an instruction that can be executed by a computer to perform a specific action or task, such as assignment, input, output, selection, iteration, etc.
+  - **Function**: A named block of code that can perform a specific task and can be reused in different parts of a program.
+  - **Parameter**: A variable that can receive a value from the caller of a function and can be used inside the function body.
+  - **Argument**: A value that can be passed to a function when the function is called and can be assigned to a parameter of the function.
+  - **Return value**: A value that can be returned by a function to the caller of the function and can be used as an expression or a statement.
+  - **Module**: A file or a collection of files that can contain variables, constants, functions, and other code elements that can be imported and used in other programs.
+  - **Class**: A blueprint or a template that can define the attributes and behaviors of a certain type of object.
+  - **Object**: An instance or a copy of a class that can have its own values for the attributes and can perform the behaviors defined by the class.
+  - **Attribute**: A variable that can belong to a class or an object and can store a value of a certain data type.
+  - **Method**: A function that can belong to a class or an object and can perform a specific task related to the class or the object.
+  - **Inheritance**: A mechanism that allows a class to inherit the attributes and methods of another class and to add or modify them as needed.
+  - **Polymorphism**: A mechanism that allows an object to behave differently depending on its class or the context of its use.
+  - **Encapsulation**: A mechanism that allows a class or an object to hide its internal details and to expose only the relevant features to the outside world.
+  - **Testing**: A process of checking and verifying the correctness and quality of a solution or a program by applying various methods and tools, such as debugging, unit testing, integration testing, system testing, etc.
+  - **Documentation**: A process of creating and maintaining the written or visual materials that can describe and explain the problem, the solution, the program, and the user instructions.

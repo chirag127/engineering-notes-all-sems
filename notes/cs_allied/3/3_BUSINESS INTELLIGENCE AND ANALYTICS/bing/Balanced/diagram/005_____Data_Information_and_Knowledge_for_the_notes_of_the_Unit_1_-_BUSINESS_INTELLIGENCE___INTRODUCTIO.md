@@ -1,0 +1,6 @@
+### Data Information and Knowledge
+
+- Data is a collection of raw facts, such as numbers, words, images, sounds, etc. that have no meaning by themselves. Data can be structured (organized in a predefined format) or unstructured (not organized in a predefined format).  
+- Information is data that has been processed, organized, or presented in a meaningful context. Information can answer questions or support decision making. Information can be qualitative (descriptive) or quantitative (numerical).  
+- Knowledge is information that has been interpreted, understood, and applied by a person or a group. Knowledge can be explicit (formalized and codified) or tacit (personal and experiential). Knowledge can be used to generate insights, solutions, or strategies. Knowledge can be stored, shared, or transferred.   
+- Business intelligence (BI) is the process of collecting, analyzing, and presenting data and information to help organizations make more data-driven decisions. BI uses various tools and techniques, such as data analytics, data mining, data visualization, data warehousing, etc. to transform data into information and information into knowledge. BI can help organizations improve their performance, efficiency, competitiveness, and profitability.

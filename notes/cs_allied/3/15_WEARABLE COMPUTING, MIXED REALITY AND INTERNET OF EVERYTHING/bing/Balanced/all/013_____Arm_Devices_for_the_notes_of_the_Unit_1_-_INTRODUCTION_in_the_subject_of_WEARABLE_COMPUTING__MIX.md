@@ -1,0 +1,9 @@
+# Arm Devices
+
+Arm devices are wearable computing devices that use Arm processors as their main computing unit. Arm processors are designed to be low-power, high-performance and scalable for various applications. Some examples of Arm devices are:
+
+- Smartwatches: These are wearable devices that can display time, notifications, health data and other information on a small screen. They can also interact with smartphones, sensors and other devices via Bluetooth, Wi-Fi or cellular networks. Some smartwatches use Arm processors such as Samsung's Galaxy Watch and Apple Watch .
+- Smartglasses: These are wearable devices that can project images, videos, text and other information onto the user's field of view. They can also capture images, videos, audio and other data from the user's environment. Some smartglasses use Arm processors such as Google Glass and Microsoft HoloLens .
+- Smartbands: These are wearable devices that can measure the user's physical activity, heart rate, blood pressure and other biometric data. They can also provide feedback, coaching and motivation to the user. Some smartbands use Arm processors such as Fitbit and Xiaomi Mi Band .
+
+Arm devices are part of the emerging field of wearable computing, which aims to integrate computing and communication capabilities into everyday objects and clothing. Wearable computing can enable new forms of human-computer interaction, augmented reality, virtual reality and internet of everything. Arm provides the hardware and software solutions for wearable computing, such as the Arm UP platform, the Mbed development platform and the Arm Mali graphics processors  .

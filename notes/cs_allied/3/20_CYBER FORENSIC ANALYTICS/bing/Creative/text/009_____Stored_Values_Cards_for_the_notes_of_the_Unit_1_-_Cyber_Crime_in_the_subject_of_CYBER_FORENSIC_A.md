@@ -1,0 +1,11 @@
+### Stored Values Cards
+
+- Stored value cards (SVCs) are cards with data encoded in either a magnetic strip or a computer chip that are preloaded with a fixed amount of electronic currency or value.
+- SVCs can be classified into three types: closed system cards, semi-closed system cards, and open system cards.
+- Closed system cards are cards that can only be used at a specific merchant or location, such as gift cards or phone cards. They usually do not require identification or registration of the cardholder.
+- Semi-closed system cards are cards that can be used at a limited number of merchants or locations that are affiliated with the card issuer, such as loyalty cards or transit cards. They may or may not require identification or registration of the cardholder.
+- Open system cards are cards that can be used at any merchant or location that accepts the card network, such as Visa or MasterCard. They usually require identification and registration of the cardholder, and can be reloaded with additional value.
+- SVCs can be used for legitimate purposes, such as convenience, security, and financial inclusion, but they can also pose risks for cyber crime and money laundering.
+- Cyber criminals can use SVCs to conduct fraudulent transactions, such as counterfeiting, cloning, skimming, or hacking of the cards or the card systems. They can also use SVCs to evade detection and traceability of their illicit activities, such as purchasing illegal goods or services, transferring funds across borders, or laundering their proceeds of crime.
+- Law enforcement and financial intelligence units face challenges in detecting and investigating the misuse of SVCs, such as the lack of uniform regulation, the anonymity of the cardholders, the difficulty of accessing the card data, and the jurisdictional issues of cross-border transactions.
+- Some measures that have been proposed or implemented to address the risks of SVCs include: setting limits on the loading and spending of the cards, requiring identification and verification of the cardholders, enhancing the security and encryption of the card data, establishing reporting and monitoring mechanisms for suspicious transactions, and enhancing the cooperation and information sharing among the relevant stakeholders.

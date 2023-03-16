@@ -1,0 +1,12 @@
+### Investigating audit logs for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Audit logs are records of events that occur on a system or network, such as user actions, system changes, security breaches, etc. 
+- Audit logs are essential for cyber investigation, as they can provide evidence of malicious or unauthorized activities, identify the source and scope of an incident, and help with remediation and recovery.  
+- Audit logs can be classified into two types: system logs and user-level logs. System logs capture the basic operations of the system, such as booting, shutting down, or updating. User-level logs capture the actions of users on the system, such as logging in, accessing files, or modifying settings. User-level logs require more configuration and storage than system logs, but they are more useful for cyber investigation. 
+- Audit logs should be collected, stored, and analyzed in a secure and efficient manner, following the best practices and standards for audit log management. Some of the key steps are:  
+  - Define the scope and objectives of audit logging, such as the types of events, sources, and destinations to be logged, the frequency and format of logging, and the retention and disposal policies.
+  - Configure the system and application settings to enable and customize audit logging, such as the level of detail, the fields and filters, and the encryption and hashing methods.
+  - Implement a centralized and scalable log collection and storage system, such as a log server, a database, or a cloud service, that can handle large volumes of data and ensure its integrity, availability, and confidentiality.
+  - Perform regular log analysis and review, using tools and techniques such as queries, reports, dashboards, alerts, and correlation, to detect anomalies, trends, and patterns, and to generate insights and recommendations.
+  - Document and report the audit log findings and actions, such as the incidents, the root causes, the impacts, the remediation steps, and the lessons learned, and communicate them to the relevant stakeholders and authorities.
+- Audit logs should also comply with the legal and regulatory requirements of the organization and the industry, such as the data protection, privacy, and security laws, and the industry standards and frameworks, such as the CIS Controls, the NIST SP 800-92, or the ISO 27001.
