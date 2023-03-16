@@ -1,0 +1,9 @@
+# B.Sc. (Hons.) in Environmental Science
+
+- B.Sc. (Hons.) in Environmental Science is a three-year undergraduate degree course that covers the study of the natural and human-made environment, its problems and solutions.
+- The course aims to provide students with the knowledge and skills to understand, analyze and manage environmental issues and challenges in various domains such as ecology, engineering, conservation, biology and chemistry.
+- The course is accredited by the Institution of Environmental Sciences (IES) and follows the Choice Based Credit System (CBCS) as per the National Education Policy-2020.
+- The course has 140 credits spread across 26 papers, which include eight electives and four ability-enhancement courses. Two of the courses are skill enhancement papers that help students develop practical and professional skills in environmental science.
+- The course covers topics such as environmental planning, disaster management, natural resources management, environmental pollution, environmental impact assessment, environmental law and policy, environmental biotechnology, environmental economics, climate change and sustainability.
+- The course also involves field work, laboratory work, projects and internships that expose students to real-world environmental problems and solutions.
+- The course prepares students for various career opportunities in the public and private sectors, such as environmental consultants, environmental engineers, environmental educators, environmental researchers, environmental activists, environmental journalists, environmental auditors, environmental managers and environmental policy makers.

@@ -1,0 +1,15 @@
+# Engineering Chemistry Lab
+
+Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills and knowledge of students in performing various experiments related to chemical engineering, such as polymerization, corrosion, water analysis, fuel analysis, spectroscopy, electrochemistry, etc. It also introduces the students to the scientific method, experimental design, chemical instrumentation, data collection and analysis, and preparation of laboratory reports.
+
+The syllabus of engineering chemistry lab may vary depending on the institution, branch, and curriculum. However, some of the common topics and experiments that are covered in engineering chemistry lab are:
+
+- High polymers and plastics: This topic covers the introduction, mechanism, methods, and properties of polymerization and polymers. The experiments may include the preparation and characterization of polymers such as nylon, bakelite, PVC, etc.
+- Water and its treatment: This topic covers the sources, impurities, hardness, and methods of water treatment and analysis. The experiments may include the estimation of hardness, alkalinity, chloride, dissolved oxygen, etc. in water samples.
+- Fuels and combustion: This topic covers the classification, characteristics, and analysis of solid, liquid, and gaseous fuels. The experiments may include the determination of calorific value, flash point, fire point, viscosity, etc. of fuels.
+- Corrosion and its control: This topic covers the causes, types, effects, and prevention of corrosion of metals and alloys. The experiments may include the study of corrosion rate, corrosion inhibitors, electrochemical corrosion, etc.
+- Phase rule and alloys: This topic covers the introduction, terminology, and applications of phase rule and phase diagrams. It also covers the types, properties, and preparation of alloys. The experiments may include the construction of phase diagrams, preparation and analysis of alloys, etc.
+- Instrumental methods of analysis: This topic covers the principles, instrumentation, and applications of various spectroscopic and electrochemical techniques for chemical analysis. The experiments may include the use of UV-Vis, IR, NMR, AAS, potentiometer, conductometer, etc. for the analysis of unknown samples.
+- Nanochemistry: This topic covers the introduction, synthesis, characterization, and applications of nanomaterials and nanotechnology. The experiments may include the preparation and characterization of nanoparticles, nanocomposites, nanocatalysts, etc.
+
+The engineering chemistry lab course requires the students to follow the safety rules, instructions, and procedures given by the instructor and the lab manual. The students are expected to perform the experiments in groups, record the observations and results, and submit the lab reports on time. The students are also evaluated based on their performance, understanding, and presentation of the experiments.

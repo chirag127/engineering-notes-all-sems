@@ -1,0 +1,14 @@
+### Scheduling Aperiodic and Sporadic jobs in Priority Driven and Clock Driven Systems
+
+- Aperiodic jobs are jobs that have no fixed arrival pattern or inter-arrival time. They can arrive at any time and have soft deadlines or no deadlines at all. Examples are user inputs, network packets, etc.
+- Sporadic jobs are jobs that have a minimum inter-arrival time between successive jobs, but no fixed arrival pattern. They have hard deadlines and must be completed before their deadlines. Examples are sensor readings, alarms, etc.
+- Priority driven systems are systems that assign priorities to jobs based on some criteria, such as deadline, period, criticality, etc. The scheduler always selects the highest priority job that is ready to execute. Examples are rate monotonic, earliest deadline first, etc.
+- Clock driven systems are systems that assign priorities to jobs based on a predefined schedule that is determined offline. The scheduler follows the schedule and switches jobs at predefined instants. Examples are cyclic executive, time triggered, etc.
+
+- The main challenge of scheduling aperiodic and sporadic jobs in priority driven and clock driven systems is to balance the responsiveness of aperiodic and sporadic jobs and the schedulability of periodic jobs.
+- In priority driven systems, there are two main approaches to schedule aperiodic and sporadic jobs: background scheduling and slack stealing.
+  - Background scheduling assigns the lowest priority to aperiodic and sporadic jobs, and executes them only when no periodic job is ready. This ensures that periodic jobs always meet their deadlines, but may result in poor response time for aperiodic and sporadic jobs.
+  - Slack stealing assigns higher priority to aperiodic and sporadic jobs, and executes them by using the available slack time of periodic and sporadic jobs. Slack time is the amount of time that a job can be delayed without affecting the schedulability of other jobs. This improves the response time of aperiodic and sporadic jobs, but may require more complex algorithms to compute and track the slack time.
+- In clock driven systems, there are two main approaches to schedule aperiodic and sporadic jobs: spare capacity scheduling and dynamic scheduling.
+  - Spare capacity scheduling allocates some slots in the predefined schedule for aperiodic and sporadic jobs, and executes them in a first-come first-served or priority based order. This provides some guaranteed service for aperiodic and sporadic jobs, but may waste some slots if no aperiodic or sporadic job arrives.
+  - Dynamic scheduling modifies the predefined schedule at runtime to accommodate aperiodic and sporadic jobs, by shifting or skipping some periodic jobs. This provides more flexibility for aperiodic and sporadic jobs, but may introduce more overhead and complexity for the scheduler.

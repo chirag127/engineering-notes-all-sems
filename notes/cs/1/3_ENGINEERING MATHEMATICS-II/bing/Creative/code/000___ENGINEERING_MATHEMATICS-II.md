@@ -1,0 +1,12 @@
+# Engineering Mathematics-II
+
+Engineering Mathematics-II is a course that covers various topics in mathematics that are relevant and useful for engineering students. The course aims to develop the students' skills in solving mathematical problems and applying them to engineering situations. The course may have different syllabi depending on the institution, but some common topics are:
+
+- **Matrices**: This topic covers the concepts of eigenvalues and eigenvectors of a real matrix, characteristic equation, properties of eigenvalues and eigenvectors, Cayley-Hamilton theorem, diagonalization of matrices, reduction of a quadratic form to canonical form by orthogonal transformation, and nature of quadratic forms.
+- **Calculus**: This topic covers the techniques of differentiation and integration and their applications to area, volume, work, improper integrals, approximate integration, analytic geometry, vectors, and computer algebra .
+- **Vector Algebra and Statics**: This topic covers the concepts of scalar and vector products, triple products, gradient, divergence, curl, Laplacian, line, surface and volume integrals, Green's theorem, Stokes' theorem, Gauss divergence theorem, and applications to statics.
+- **Complex Analysis**: This topic covers the concepts of function of complex variables, analytic functions, line integrals in complex plane, Cauchy's integral theorem, Cauchy's integral formula, Taylor's and Laurent's series, singularities, residue theorem, and contour integration.
+- **Numerical Analysis**: This topic covers the concepts of numerical methods for solving algebraic and transcendental equations, interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, and error analysis.
+- **Transform Techniques**: This topic covers the concepts of Laplace transform, inverse Laplace transform, properties of Laplace transform, convolution theorem, applications to differential equations, Fourier series, Fourier transform, and applications to engineering problems.
+
+Engineering Mathematics-II is a course that requires a good understanding of the basic concepts of mathematics and a logical approach to problem-solving. The course also helps the students to develop their analytical and computational skills and to appreciate the beauty and applications of mathematics in engineering.

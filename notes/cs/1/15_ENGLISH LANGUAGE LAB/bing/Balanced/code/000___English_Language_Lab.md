@@ -1,0 +1,23 @@
+# English Language Lab
+
+- An English language lab is a facility where learners can practice and improve their language skills using computer software and audio-visual materials.
+- The main objectives of an English language lab are to:
+  - Enhance the learners' listening, speaking, reading and writing skills.
+  - Provide authentic and interactive input for language acquisition.
+  - Develop the learners' confidence and fluency in using English.
+  - Expose the learners to different varieties and registers of English.
+  - Foster the learners' autonomy and self-assessment.
+- The main components of an English language lab are:
+  - A teacher console that controls the activities and monitors the learners' progress.
+  - A number of student stations that are equipped with headphones, microphones and keyboards.
+  - A network that connects the teacher console and the student stations.
+  - A software that provides the content and the feedback for the language exercises.
+  - A projector and a screen that display the instructions and the multimedia materials.
+- The main types of activities that can be done in an English language lab are:
+  - Listening comprehension: The learners listen to audio or video clips and answer questions or complete tasks based on the input.
+  - Pronunciation practice: The learners record their own voice and compare it with the model pronunciation or receive feedback from the software or the teacher.
+  - Speaking practice: The learners engage in dialogues, role-plays, presentations or discussions with the software, the teacher or other learners.
+  - Reading comprehension: The learners read texts and answer questions or complete tasks based on the input.
+  - Writing practice: The learners write texts and receive feedback from the software, the teacher or other learners.
+  - Grammar and vocabulary practice: The learners do exercises that test and reinforce their knowledge of grammar and vocabulary.
+  - Language games: The learners play games that are designed to make language learning fun and motivating.

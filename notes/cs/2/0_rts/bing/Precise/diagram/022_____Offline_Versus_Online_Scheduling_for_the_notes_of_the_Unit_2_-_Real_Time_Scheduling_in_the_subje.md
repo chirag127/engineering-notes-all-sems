@@ -1,0 +1,9 @@
+### Offline Versus Online Scheduling
+
+- **Offline scheduling** refers to the process of determining a schedule for a set of tasks before the system starts executing them. This type of scheduling is also known as **static scheduling**.
+- In contrast, **online scheduling** refers to the process of making scheduling decisions during the execution of the system. This type of scheduling is also known as **dynamic scheduling**.
+- Offline scheduling is typically used in systems where the set of tasks and their characteristics are known in advance. The schedule can be computed beforehand and is then followed during the execution of the system.
+- Online scheduling is used in systems where the set of tasks or their characteristics are not known in advance, or where the system needs to respond to changing conditions. The scheduler makes decisions on-the-fly based on the current state of the system.
+- Offline scheduling can result in more efficient schedules, as the scheduler has complete information about the tasks and can take the time to compute an optimal schedule. However, it is not suitable for systems where the set of tasks or their characteristics are not known in advance, or where the system needs to respond to changing conditions.
+- Online scheduling is more flexible, as the scheduler can respond to changing conditions and make decisions based on the current state of the system. However, it may result in less efficient schedules, as the scheduler has less information and less time to make decisions.
+- In the context of real-time systems, offline scheduling is typically used for **hard real-time systems**, where the set of tasks and their characteristics are known in advance and the system must meet strict timing constraints. Online scheduling is typically used for **soft real-time systems**, where the system must respond to changing conditions and the timing constraints are more relaxed.

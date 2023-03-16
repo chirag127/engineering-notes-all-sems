@@ -1,0 +1,8 @@
+### Optimality of Effective-Deadline-First (EDF) and Least-Slack-Time-First (LST) Algorithms
+
+- EDF and LST are two dynamic priority scheduling algorithms for real-time systems, where tasks have deadlines and preemption is allowed.
+- EDF assigns priorities to tasks based on their absolute deadlines. The earlier the deadline, the higher the priority.
+- LST assigns priorities to tasks based on their slacks. The slack of a task is the difference between its deadline and its remaining execution time. The smaller the slack, the higher the priority.
+- EDF and LST are optimal in the sense that they always produce a feasible schedule if one exists, i.e., they can meet all the deadlines of the tasks on a single processor.
+- The optimality of EDF and LST can be proved by contradiction. Suppose there is a feasible schedule S produced by some other algorithm A, but not by EDF or LST. Then, we can transform S into an EDF or LST schedule by swapping the tasks at the scheduling points, without violating any deadlines. This contradicts the assumption that EDF or LST cannot produce a feasible schedule.
+- EDF and LST have different advantages and disadvantages. EDF is simpler to implement and has lower overhead, but it may suffer from deadline misses due to transient overloads. LST is more robust to overloads and can handle aperiodic tasks better, but it requires more information and computation.

@@ -1,0 +1,13 @@
+# Basic Priority-Inheritance and Priority-Ceiling Protocols
+
+- Priority-inheritance and priority-ceiling protocols are two methods for managing resource access control in real-time systems.
+- Real-time systems are systems that have strict timing constraints and need to execute tasks with different priorities in a predictable and efficient manner.
+- Resource access control is the problem of ensuring that tasks that share resources (such as semaphores, locks, or buffers) do not interfere with each other's deadlines or cause priority inversion.
+- Priority inversion is a situation where a higher-priority task is blocked by a lower-priority task that holds a resource that the higher-priority task needs.
+- Priority-inheritance protocol (PIP) is a method for eliminating unbounded priority inversion by temporarily raising the priority of a task that holds a resource to the maximum priority of any other task waiting for that resource.
+- Priority-ceiling protocol (PCP) is a method for minimizing the blocking time of a task to at most the duration of a single critical section of a lower-priority task by assigning a ceiling priority to each resource and preventing a task from accessing a resource if its priority is lower than the ceiling priority of any resource currently held by another task.
+- The differences between PIP and PCP are:
+  - PIP is greedy, while PCP is not. PIP allows a task to access a resource whenever the resource is free, while PCP may withhold access to a free resource if the task's priority is lower than the ceiling priority of any resource held by another task.
+  - PIP may cause transitive blocking, while PCP does not. Transitive blocking is a situation where a task is blocked by another task that is blocked by a third task that holds a resource. PCP avoids this by preventing a task from accessing a resource if its priority is lower than the ceiling priority of any resource held by another task.
+  - PIP may cause chained blocking, while PCP does not. Chained blocking is a situation where a task is blocked by another task that holds multiple resources. PCP avoids this by preventing a task from accessing a resource if its priority is lower than the ceiling priority of any resource held by another task.
+  - PIP may cause deadlock, while PCP does not. Deadlock is a situation where two or more tasks are waiting for each other to release resources that they hold. PCP avoids this by preventing a task from accessing a resource if its priority is lower than the ceiling priority of any resource held by another task.

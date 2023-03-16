@@ -1,0 +1,30 @@
+# ENGINEERING CHEMISTRY LAB
+
+- Engineering chemistry lab is a practical course that introduces the students to the basic concepts and techniques of chemistry applied to engineering problems.
+- The main objectives of the lab are:
+  - To familiarize the students with the use of laboratory equipment and instruments.
+  - To develop the skills of observation, measurement, calculation, and analysis of experimental data.
+  - To demonstrate the principles and applications of chemical reactions, equilibrium, kinetics, electrochemistry, corrosion, water analysis, and polymerization.
+  - To enhance the understanding of the theoretical concepts learned in the engineering chemistry course.
+- The lab consists of several experiments that cover the following topics:
+  - Acid-base titration: To determine the concentration of an unknown acid or base solution using a standard solution and an indicator.
+  - Redox titration: To determine the concentration of an unknown oxidizing or reducing agent using a standard solution and a redox indicator.
+  - Complexometric titration: To determine the hardness of water by titrating with EDTA solution using Eriochrome Black T as an indicator.
+  - Potentiometry: To measure the electromotive force (EMF) of a cell and to determine the standard electrode potential of a metal electrode.
+  - Conductometry: To measure the electrical conductivity of a solution and to determine the equivalent conductance and degree of dissociation of an electrolyte.
+  - pH-metry: To measure the pH of a solution and to determine the dissociation constant of a weak acid or base.
+  - Spectrophotometry: To measure the absorbance of a solution and to determine the concentration of a solute using Beer-Lambert law.
+  - Corrosion: To study the factors affecting the rate of corrosion of iron and to measure the corrosion rate using weight loss method.
+  - Water analysis: To determine the alkalinity, chloride, dissolved oxygen, and biochemical oxygen demand of a water sample.
+  - Polymerization: To synthesize a polymer by free radical polymerization and to determine its molecular weight by viscosity method.
+- The lab report should include the following sections:
+  - Title: The name of the experiment and the date of the lab session.
+  - Objective: The purpose and aim of the experiment.
+  - Theory: The relevant background information and formulas used in the experiment.
+  - Procedure: The detailed steps followed to perform the experiment.
+  - Observations: The raw data collected during the experiment in tabular form.
+  - Calculations: The necessary calculations performed using the data to obtain the results.
+  - Results: The final outcomes of the experiment with proper units and significant figures.
+  - Discussion: The analysis and interpretation of the results and the comparison with the theoretical values or literature values.
+  - Conclusion: The summary of the main findings and the sources of error and uncertainty in the experiment.
+  - References: The list of the books, articles, websites, or any other sources used in the experiment.

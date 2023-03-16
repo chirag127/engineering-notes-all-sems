@@ -1,0 +1,11 @@
+# Processors and Resources
+
+- Processors and resources are two major types of system components in real-time systems.
+- Processors are also called servers or active resources. They are essential for the execution of a job. A job must have one or more processors in order to execute and proceed towards completion. Examples of processors are computers, transmission links, disks, and database servers.
+- Resources are also called passive resources. A job may or may not require a resource during its execution. A resource can be shared by multiple jobs, but only one job can access it at a time. Examples of resources are memory, files, printers, and sensors.
+- Processors and resources can be classified into two categories: dedicated and shared.
+- Dedicated processors and resources are allocated to a single job or task and cannot be used by any other job or task. Dedicated processors and resources can guarantee predictable and deterministic performance for real-time applications.
+- Shared processors and resources are accessible by multiple jobs or tasks and can be used by any job or task that needs them. Shared processors and resources can improve the utilization and efficiency of the system, but they can also introduce contention and interference among the jobs or tasks that share them. Shared processors and resources can cause unpredictable and nondeterministic performance for real-time applications.
+- Real-time systems need to manage the allocation and scheduling of processors and resources to meet the timing constraints and quality of service requirements of the real-time applications.
+- Real-time systems can use different techniques and algorithms to manage the processors and resources, such as priority-based scheduling, resource reservation, resource locking, resource access protocols, and resource reclaiming .
+- Real-time systems can also use different hardware and software features to support the processors and resources, such as real-time operating systems (RTOS), real-time configuration and optimization, time synchronization and communication, and real-time computing platforms  .

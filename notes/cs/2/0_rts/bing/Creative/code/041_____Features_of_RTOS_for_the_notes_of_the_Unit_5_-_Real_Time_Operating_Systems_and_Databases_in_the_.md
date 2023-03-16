@@ -1,0 +1,10 @@
+### Features of RTOS
+
+A real-time operating system (RTOS) is an operating system that can guarantee the timely and predictable execution of tasks in a system that has strict timing constraints. An RTOS is different from a general-purpose operating system, which may not be able to meet the deadlines or respond as quickly as required by the system.
+
+Some of the features of an RTOS are:
+
+- **Small and fast**: An RTOS is designed to be compact and efficient, occupying less memory and consuming fewer resources than a general-purpose operating system. An RTOS can also boot up and shut down quickly, minimizing the downtime of the system.
+- **Responsive and deterministic**: An RTOS can respond to events and interrupts in a timely and consistent manner, ensuring that the system behaves as expected every time. An RTOS can also prioritize the tasks according to their urgency and importance, and preempt the lower-priority tasks if necessary, to meet the deadlines of the higher-priority tasks.
+- **Scalable and adaptable**: An RTOS can be customized and configured to suit the specific needs and requirements of the system, such as the number of tasks, the hardware platform, the communication protocols, the security features, etc. An RTOS can also support the addition and modification of features and capabilities as the system evolves, without compromising the performance or reliability of the system.
+- **Cooperative or preemptive scheduling**: An RTOS can use different scheduling algorithms to manage the tasks in the system. A cooperative scheduling algorithm allows the tasks to run until they are completed or voluntarily yield the control to the kernel, while a preemptive scheduling algorithm allows the kernel to interrupt and suspend the tasks based on their priority and the availability of resources. A cooperative scheduling algorithm is simpler and easier to implement, but it may not be suitable for systems that have critical or time-sensitive tasks. A preemptive scheduling algorithm is more complex and requires more overhead, but it can ensure that the deadlines of the tasks are met and the system is responsive.

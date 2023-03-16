@@ -1,0 +1,25 @@
+# Offline Versus Online Scheduling
+
+- Offline scheduling is a technique that makes use of pre-computed schedule of all hard real-time tasks before the system begins to execute.
+- Online scheduling is a technique that makes scheduling decisions during the run-time of the system without knowledge about the future tasks.
+- The advantages of offline scheduling are:
+  - It can guarantee the schedulability of all tasks if the schedule is feasible.
+  - It can reduce the overhead of run-time scheduling decisions.
+  - It can optimize the resource utilization and energy consumption.
+- The disadvantages of offline scheduling are:
+  - It requires the complete knowledge of all task parameters, such as release time, execution time, deadline, resource requirement, etc.
+  - It cannot handle dynamic changes in the system, such as task arrival, task cancellation, task migration, etc.
+  - It may not be applicable for systems with unpredictable or stochastic behavior.
+- The advantages of online scheduling are:
+  - It can handle dynamic and unpredictable situations in the system.
+  - It can adapt to the changing workload and resource availability.
+  - It can provide flexibility and responsiveness to the user requests.
+- The disadvantages of online scheduling are:
+  - It may not guarantee the schedulability of all tasks, especially under overload conditions.
+  - It may incur higher overhead of run-time scheduling decisions.
+  - It may not optimize the resource utilization and energy consumption.
+- Online scheduling can be further classified into static and dynamic scheduling.
+  - Static scheduling is a technique that assigns a fixed priority to each task and schedules the tasks according to their priorities.
+  - Dynamic scheduling is a technique that assigns a variable priority to each task and schedules the tasks according to their current priorities.
+  - Static scheduling is simpler and faster than dynamic scheduling, but it may not be optimal or fair for all tasks.
+  - Dynamic scheduling is more complex and slower than static scheduling, but it may provide better performance and fairness for all tasks.

@@ -1,0 +1,10 @@
+# Offline Versus Online Scheduling
+
+- Offline scheduling is a technique that makes use of pre-computed schedule of all hard real-time tasks, i.e., the schedule is computed at offline before the system begins to execute and the computation is based on the knowledge of release time, execution time, and resource requirement of all tasks for all time.
+- Online scheduling is a technique that makes scheduling decisions during the run-time of the system, i.e., the scheduler does not have prior information about the tasks that will be released in the future and the parameters of each task are known to the scheduler only after the release of the task.
+- Offline scheduling has the advantage of being optimal, since it can exploit the complete knowledge of the task set and the system state, but it has the disadvantage of being inflexible, since it cannot handle dynamic changes or uncertainties in the task parameters or the system environment.
+- Online scheduling has the advantage of being adaptive, since it can react to dynamic changes or uncertainties in the task parameters or the system environment, but it has the disadvantage of being suboptimal, since it has to make decisions based on incomplete or inaccurate information.
+- Offline scheduling is suitable for static or periodic task sets, where the task parameters and the system state are known and fixed in advance, and the system behavior is predictable and deterministic.
+- Online scheduling is suitable for dynamic or aperiodic task sets, where the task parameters and the system state are unknown or variable in advance, and the system behavior is unpredictable and stochastic.
+- Examples of offline scheduling algorithms are table-driven scheduling, cyclic executive scheduling, and time-triggered scheduling.
+- Examples of online scheduling algorithms are priority-driven scheduling, event-triggered scheduling, and hybrid scheduling.

@@ -1,0 +1,21 @@
+### Overview of Commercial Real Time Databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses.
+- Some of the attributes of live real-time databases are:
+  - Concurrency control: the ability to handle multiple transactions accessing the same data without compromising data integrity or consistency.
+  - Data freshness: the degree to which the data reflects the current state of the real world.
+  - Data distribution: the ability to store and access data across multiple nodes or locations for scalability and availability.
+  - Data replication: the ability to create and maintain copies of data for fault tolerance and performance.
+  - Data recovery: the ability to restore data to a consistent state after a failure or error.
+  - Data security: the ability to protect data from unauthorized access or modification.
+  - Data quality: the ability to ensure that data is accurate, complete, and reliable.
+  - Data analysis: the ability to perform queries and computations on data to derive insights and intelligence.
+- Some of the examples of commercial real-time databases are :
+  - Dealpath: a cloud-based platform that provides data and tools for commercial real estate investment and development.
+  - Altus Group: a data and software provider that offers historical and current market information for commercial real estate valuation and analysis.
+  - CoStar: a leading provider of commercial real estate data and analytics that covers over 5.5 million properties and 18 billion square feet of space.
+  - Google Cloud Firestore: a highly performant, fully managed NoSQL database service for large analytical and operational workloads that offers up to 99.999% availability.

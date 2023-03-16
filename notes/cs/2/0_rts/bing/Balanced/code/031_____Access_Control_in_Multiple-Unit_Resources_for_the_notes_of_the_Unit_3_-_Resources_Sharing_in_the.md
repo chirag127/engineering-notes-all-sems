@@ -1,0 +1,11 @@
+### Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that can be used by more than one job at a time, such as memory, disk, or network bandwidth.
+- Each unit of a multiple-unit resource is used in a non-preemptive and mutually exclusive manner; resources are serially reusable  .
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards; the time the resource is locked is the critical section  .
+- The challenge of access control in multiple-unit resources is to prevent deadlock and priority inversion, while ensuring schedulability and resource utilization.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - The **Priority Inheritance Protocol (PIP)**: A job that locks a resource inherits the highest priority of all the jobs that are blocked on that resource. When the job unlocks the resource, it returns to its original priority  .
+  - The **Priority Ceiling Protocol (PCP)**: Each resource is assigned a priority ceiling, which is the highest priority of any job that can lock that resource. A job can lock a resource only if its priority is higher than the priority ceilings of all the locked resources. A job that locks a resource inherits the priority ceiling of that resource. When the job unlocks the resource, it returns to its original priority  .
+  - The **Stack Resource Policy (SRP)**: Each job is assigned a preemption level, which is the highest priority of any resource that the job can lock. A job can lock a resource only if its preemption level is higher than the preemption levels of all the jobs that have locked any resource. A job that locks a resource cannot be preempted by any other job. When the job unlocks the resource, it can be preempted by any higher-priority job .
+- The advantages and disadvantages of these protocols depend on the characteristics of the system, such as the number and type of resources, the number and priority of jobs, the length and frequency of critical sections, and the schedulability and performance requirements.

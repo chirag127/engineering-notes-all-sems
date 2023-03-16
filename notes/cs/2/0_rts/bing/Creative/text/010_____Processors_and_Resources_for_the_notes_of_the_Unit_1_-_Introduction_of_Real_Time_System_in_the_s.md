@@ -1,0 +1,10 @@
+### Processors and Resources for the notes of the Unit 1 - Introduction of Real Time System
+
+- A real-time system is a system that must respond to events or inputs within a specified time interval, or risk failure or degradation of performance.
+- A real-time system consists of hardware and software components that interact with the physical world and perform computations within the time constraints imposed by the system.
+- Processors are also known as active resources. They are essential for the execution of a job. A job must have one or more processors in order to execute and proceed towards completion. Example: computer, transmission links.
+- Resources are also known as passive resources. A job may or may not require a resource during its execution. A resource can be shared by multiple jobs, but only one job can access it at a time. Example: printer, disk, memory.
+- Processors and resources can be classified into two types: dedicated and shared. Dedicated processors or resources are allocated exclusively to a single job or task, while shared processors or resources can be used by multiple jobs or tasks, subject to some scheduling or arbitration policy.
+- Processors and resources can also be classified into two types: preemptive and non-preemptive. Preemptive processors or resources can be interrupted and resumed by higher priority jobs or tasks, while non-preemptive processors or resources cannot be interrupted once they are allocated to a job or task.
+- Processors and resources can affect the timing and performance of real-time systems. For example, a processor with a higher speed or a resource with a lower latency can improve the response time of a real-time system. However, processors and resources can also introduce delays or uncertainties, such as context switching, blocking, contention, or failure.
+- Processors and resources can be managed by different techniques, such as allocation, scheduling, synchronization, or fault tolerance. These techniques aim to optimize the utilization and reliability of processors and resources, while meeting the timing and functional requirements of real-time systems.

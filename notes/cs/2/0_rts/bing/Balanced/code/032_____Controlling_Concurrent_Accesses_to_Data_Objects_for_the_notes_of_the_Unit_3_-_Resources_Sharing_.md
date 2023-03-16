@@ -1,0 +1,19 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of controlling concurrent accesses to data objects in real time systems:
+
+### Controlling Concurrent Accesses to Data Objects
+
+- In real time systems, multiple tasks or jobs may need to access shared data objects concurrently, which may cause inconsistency or deadlock problems.
+- To ensure data consistency and meet timing constraints, real time systems need to use concurrency control algorithms or protocols to regulate the accesses to data objects.
+- Concurrency control algorithms can be classified into two categories: pessimistic and optimistic.
+- Pessimistic algorithms prevent conflicts from happening by locking the data objects before accessing them. Examples of pessimistic algorithms are priority ceiling protocol, convex ceiling protocol, and immediate ceiling protocol.
+- Optimistic algorithms allow conflicts to happen and then resolve them by aborting or restarting some transactions. Examples of optimistic algorithms are timestamp ordering, multiversion concurrency control, and validation-based protocols.
+- The choice of concurrency control algorithm depends on the characteristics of the real time system, such as the degree of data contention, the criticality of transactions, and the available resources.
+
+Some key points of each algorithm are:
+
+- Priority ceiling protocol: Each data object has a priority ceiling, which is the highest priority of any job that can access it. The system ceiling is the highest priority ceiling of any locked data object. A job can lock a data object only if its priority is higher than the system ceiling. This prevents deadlock and priority inversion problems.
+- Convex ceiling protocol: Each data object has a convex ceiling, which is the smallest convex set of priorities that contains the priorities of all jobs that can access it. A job can lock a data object only if its priority is in the convex ceiling of the data object. This reduces the blocking time and the number of preemptions compared to the priority ceiling protocol.
+- Immediate ceiling protocol: Each data object has an immediate ceiling, which is the priority of the first job that locks it. A job can lock a data object only if its priority is higher than the immediate ceiling of the data object. This reduces the blocking time and the number of preemptions compared to the convex ceiling protocol, but may cause deadlock problems.
+- Timestamp ordering: Each transaction has a timestamp, which is assigned when the transaction starts. A transaction can access a data object only if its timestamp is smaller than the timestamp of any other transaction that accesses the same data object. This ensures serializability, but may cause high abort rate and wasted resources.
+- Multiversion concurrency control: Each data object has multiple versions, each with a timestamp. A transaction can read the latest version of a data object that has a timestamp smaller than or equal to its own timestamp. A transaction can write a new version of a data object only if its timestamp is larger than the timestamp of any other transaction that accesses the same data object. This allows more concurrency and reduces the abort rate, but requires more storage space and overhead.
+- Validation-based protocols: Each transaction has a validation phase, in which it checks whether its accesses to data objects are consistent with other transactions. A transaction can commit only if it passes the validation phase. Otherwise, it has to abort and restart. This avoids locking and allows more concurrency, but may cause high abort rate and wasted resources.

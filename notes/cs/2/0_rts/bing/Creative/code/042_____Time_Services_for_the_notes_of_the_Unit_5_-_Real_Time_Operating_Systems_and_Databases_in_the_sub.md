@@ -1,0 +1,12 @@
+# Time Services for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+- A real-time system is a system that is subjected to real-time constraints, i.e., the response should be guaranteed within a specified timing constraint or the system should meet the specified deadline .
+- A real-time system is characterized by its ability to produce the expected result within a defined deadline (timeliness) and to coordinate independent clocks and operate together in unison (time synchronization).
+- Time services are the functions and mechanisms that provide the real-time system with the ability to measure, manipulate, and synchronize time.
+- Time services can be classified into two categories: clock services and timer services.
+- Clock services are the functions and mechanisms that provide the real-time system with the ability to measure the current time and the elapsed time. Clock services can be further divided into two types: physical clocks and logical clocks.
+  - Physical clocks are the hardware devices that generate periodic signals based on some physical phenomenon, such as quartz crystal oscillation or atomic transition. Physical clocks can be used to measure the absolute time (also called wall-clock time or UTC time) or the relative time (also called monotonic time or elapsed time) of the system.
+  - Logical clocks are the software algorithms that assign logical timestamps to the events and messages that occur in the system. Logical clocks can be used to establish a partial or total order among the events and messages, and to ensure the consistency and causality of the system.
+- Timer services are the functions and mechanisms that provide the real-time system with the ability to manipulate the time and to execute actions at specified time instants or intervals. Timer services can be further divided into two types: one-shot timers and periodic timers.
+  - One-shot timers are the timers that trigger a single action or event after a specified delay or at a specified absolute time. One-shot timers can be used to implement timeouts, deadlines, or alarms in the system.
+  - Periodic timers are the timers that trigger a repeated action or event at a specified interval or frequency. Periodic timers can be used to implement periodic tasks, sampling, or synchronization in the system.

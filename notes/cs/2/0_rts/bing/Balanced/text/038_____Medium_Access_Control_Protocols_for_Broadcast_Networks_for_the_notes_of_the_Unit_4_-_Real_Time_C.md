@@ -1,0 +1,21 @@
+### Medium Access Control Protocols for Broadcast Networks
+
+- Medium access control (MAC) protocols are mechanisms that allow several users or transmitters to access a common medium or channel.
+- MAC protocols play an important role in the development of both wired and wireless networks, especially in broadcast networks where a single transmitter can reach multiple receivers .
+- MAC protocols can be classified into two main categories: random access and scheduling .
+- Random access protocols allow users to transmit whenever they have data to send, without any coordination with other users. However, this may result in collisions, where two or more users transmit at the same time and interfere with each other. Examples of random access protocols are ALOHA, slotted ALOHA, and carrier sense multiple access with collision detection (CSMA/CD) .
+- Scheduling protocols require users to follow some rules or algorithms to determine when they can transmit, avoiding collisions. Examples of scheduling protocols are time division multiple access (TDMA), frequency division multiple access (FDMA), and code division multiple access (CDMA) .
+- In wireless networks, MAC protocols face additional challenges, such as hidden terminal problem, exposed terminal problem, fading, and mobility .
+- Hidden terminal problem occurs when two users are within the transmission range of a common receiver, but not within each other's transmission range. This may cause them to transmit simultaneously and collide at the receiver .
+- Exposed terminal problem occurs when a user is within the transmission range of two other users, but not within their mutual transmission range. This may prevent the user from transmitting to one of them, even though the other one is not receiving any transmission .
+- Fading is the variation of signal strength due to multipath propagation, shadowing, and interference. This may cause transmission errors or losses .
+- Mobility is the movement of users or nodes in the network. This may cause changes in the network topology, link quality, and interference patterns .
+- To cope with these challenges, wireless MAC protocols need to be adaptive, reliable, and efficient.
+- Adaptive MAC protocols can adjust their parameters or behavior according to the network conditions, such as channel quality, traffic load, or node density.
+- Reliable MAC protocols can ensure the successful delivery of packets, by using techniques such as acknowledgments, retransmissions, error correction, or diversity.
+- Efficient MAC protocols can maximize the network throughput, by using techniques such as channel access control, collision avoidance, power control, or spatial reuse.
+- An example of an adaptive and reliable MAC protocol for broadcast networks is ABROAD, which uses a combination of contention and scheduling to achieve high performance and reliability.
+- ABROAD divides the channel into slots, and assigns a slot to each node based on its priority and channel quality. Nodes with higher priority or better channel quality get earlier slots, while nodes with lower priority or worse channel quality get later slots or no slots at all.
+- ABROAD also uses a feedback mechanism, where the receiver broadcasts an acknowledgment (ACK) packet after each slot, indicating the status of the received packet. If the ACK is positive, the sender can move to the next packet. If the ACK is negative, the sender can retransmit the packet in the next slot or a later slot, depending on the channel quality.
+- ABROAD can adapt to the network conditions by dynamically adjusting the slot assignment and the retransmission strategy, based on the feedback from the receiver and the channel quality estimation.
+- ABROAD can achieve high reliability and efficiency, by reducing the collision probability, increasing the transmission success rate, and utilizing the channel resources.

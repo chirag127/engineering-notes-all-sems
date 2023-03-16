@@ -1,0 +1,11 @@
+### Reference Models for Real Time Systems
+
+A reference model is a canonical form that describes the essential features and properties of a system, without specifying the implementation details. A reference model can help us to reason about the system, to compare different systems, and to design new systems.
+
+There are different reference models for real time systems, depending on the aspects and dimensions that are considered. Some of the common reference models are:
+
+- **The workload model**: This model describes the applications or tasks that are supported by the system, and their timing and resource requirements. The workload model can specify the arrival pattern, the execution time, the deadline, the priority, the resource dependencies, and the precedence constraints of each task. The workload model can also represent the tasks as a graph, where the nodes are tasks and the edges are dependencies. The workload model can help us to analyze the schedulability and performance of the system, and to design the scheduling algorithms and policies.  
+
+- **The resource model**: This model describes the resources or components that are available in the system, and their types and relations. The resources can include the CPU, the memory, the network, the sensors, the actuators, and other devices. The resource model can specify the capacity, the speed, the availability, the reliability, and the communication protocols of each resource. The resource model can also represent the resources as a graph, where the nodes are resources and the edges are connections. The resource model can help us to analyze the utilization and allocation of the system, and to design the resource management and allocation algorithms and policies.  
+
+- **The control model**: This model describes the control logic and behavior of the system, and how it responds to the inputs and outputs. The control model can specify the state transitions, the events, the actions, the feedback, and the adaptation mechanisms of the system. The control model can also represent the system as a finite state machine, a Petri net, a hybrid automaton, or other formalisms. The control model can help us to analyze the correctness and robustness of the system, and to design the verification and validation methods and tools.

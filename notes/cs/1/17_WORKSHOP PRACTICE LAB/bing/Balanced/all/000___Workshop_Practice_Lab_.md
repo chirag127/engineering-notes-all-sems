@@ -1,0 +1,24 @@
+# Workshop Practice Lab:
+
+- Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
+- The objective of this lab is to get a hands-on knowledge of several workshop practices like carpentry, fitting, welding, machining, etc. and learn safety regulations to be maintained in a shop floor.
+- Workshop practice is the backbone of the real industrial environment which helps to develop and enhance relevant technical hand skills required by the technician working in the various engineering industries and workshops.
+- The lab syllabus may vary depending on the university or college, but some of the common experiments are :
+  - Introduction to workshop tools and safety precautions.
+  - Carpentry: making various types of joints, patterns, and models using wood and plywood.
+  - Fitting: making various types of joints, keys, and couplings using metal pieces and files.
+  - Welding: performing various types of welding operations such as gas welding, arc welding, spot welding, etc. using different electrodes and metals.
+  - Machining: operating various types of machines such as lathe, drilling, milling, grinding, etc. and making different shapes and profiles using cutting tools and workpieces.
+  - Sheet metal: making various types of objects such as trays, boxes, funnels, etc. using sheet metal and bending, cutting, and joining techniques.
+  - Plumbing: making various types of pipe joints, valves, and fittings using PVC pipes and fittings.
+  - Electrical: performing various types of electrical wiring, soldering, and testing using electrical components and instruments.
+- The lab work consists of four parts :
+  - A pre-lab homework that the students must complete before coming to the lab.
+  - The lab itself, answering all the warm-ups and predictions, and attaching data, results, graphs, and analysis.
+  - A post-lab report that the students must submit after the lab, summarizing the objectives, procedures, observations, calculations, and conclusions of the experiment.
+  - A viva-voce or oral examination that the students must face to demonstrate their understanding and skills of the experiment.
+- The lab assessment is based on the following criteria :
+  - Attendance and participation in the lab sessions.
+  - Quality and accuracy of the pre-lab homework, lab work, and post-lab report.
+  - Performance and confidence in the viva-voce or oral examination.
+  - Adherence to the safety rules and regulations in the workshop.

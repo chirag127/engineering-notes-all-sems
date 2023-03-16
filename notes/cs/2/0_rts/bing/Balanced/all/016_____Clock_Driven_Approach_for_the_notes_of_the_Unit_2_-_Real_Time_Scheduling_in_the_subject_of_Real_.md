@@ -1,0 +1,21 @@
+# Clock Driven Approach
+
+- Clock-driven scheduling is also called as time-driven scheduling .
+- When scheduling is clock-driven, decisions are made at specific time instants on what jobs should execute when.
+- Typically in clock-driven scheduling system, all the parameters of hard real-time jobs are fixed and known.
+- A schedule of the jobs is computed off-line and is stored for use at run-time.
+- The scheduler schedules the jobs according to this schedule at each scheduling decision time.
+- Clock-driven scheduling can be useful for real-time systems that require predictable and deterministic behaviour.
+- Clock-driven scheduling can be implemented using cyclic scheduling, table-driven scheduling, or hybrid scheduling.
+- Cyclic scheduling is a simple method that assigns a fixed time slot to each job in a cycle.
+- Table-driven scheduling is a more flexible method that uses a precomputed table to specify the start time and duration of each job.
+- Hybrid scheduling is a combination of cyclic and table-driven scheduling that can handle both periodic and aperiodic jobs.
+- Clock-driven scheduling has some advantages and disadvantages:
+  - Advantages:
+    - It is easy to implement and verify.
+    - It can guarantee the deadlines of hard real-time jobs.
+    - It can avoid priority inversion and blocking problems.
+  - Disadvantages:
+    - It is not suitable for dynamic or unpredictable workloads.
+    - It may waste CPU time and resources if the jobs are not evenly distributed.
+    - It may not be able to handle sporadic or urgent jobs.

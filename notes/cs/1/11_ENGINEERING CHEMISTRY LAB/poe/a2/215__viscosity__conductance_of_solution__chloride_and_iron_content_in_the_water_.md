@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Viscosity, Conductance of Solution, Chloride and Iron Content in Water
+
+- Viscosity: The resistance of a liquid to flow is known as viscosity. It depends on intermolecular forces between the molecules of the liquid. Higher the intermolecular forces, higher is the viscosity. For example, honey has higher viscosity than water due to stronger intermolecular forces between its molecules.
+- Conductance of Solution: The ability of a solution to conduct electric current is known as its conductance. It depends on the presence of free moving ions in the solution. More the ions, higher is the conductance. For example, sodium chloride solution has higher conductance than pure water due to the presence of Na+ and Cl- ions which can move freely.
+- Chloride Content: Chloride, usually in the form of NaCl, is one of the inorganic salts present in water. Its concentration can be determined by titrating the given water sample against silver nitrate solution. The amount of silver nitrate used corresponds to the chloride content which is usually expressed in parts per million (ppm). Higher chloride content affects the taste of water and makes it brackish.
+- Iron Content: Presence of iron salts like Fe2+ or Fe3+ imparts a reddish tinge and metallic taste to water. Iron content can be determined by treating the given water sample with potassium dichromate and measuring the amount of unreacted dichromate spectrophotometrically. Excess iron content makes the water unsuitable for drinking or agricultural use.
+
+The above content summarizes the key points about viscosity, conductance of solution, chloride and iron content in water in a formal tone with points and without any emojis or external links as per the given instructions. Please let me know if you would like me to modify or expand the content.

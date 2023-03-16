@@ -1,0 +1,7 @@
+### Precedence Constraints and Data Dependency
+
+- Precedence constraints and data dependency are two types of constraints that may affect the scheduling of jobs in real time systems.
+- Precedence constraints are the restrictions on the order of execution of jobs that are imposed by the logic or functionality of the system. For example, a job that computes the average of some data must execute after the job that collects the data.
+- Data dependency is the dependency of a job on the data produced or consumed by another job. For example, a job that displays the temperature on a screen must execute after the job that reads the temperature sensor.
+- Precedence constraints and data dependency can be represented by a directed graph called the precedence graph, where the vertices are the jobs and the edges are the constraints or dependencies. A job can only start execution if all its predecessors have completed execution.
+- Precedence constraints and data dependency can affect the feasibility and optimality of the scheduling algorithms for real time systems. Some algorithms may not be able to schedule a set of jobs with precedence constraints or data dependency, while others may require additional information or modifications to handle them. For example, the earliest deadline first (EDF) algorithm can schedule a set of independent periodic jobs optimally, but it may fail or require priority inheritance to schedule a set of periodic jobs with precedence constraints or data dependency.

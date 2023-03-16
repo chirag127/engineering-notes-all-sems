@@ -1,0 +1,8 @@
+### Precedence Constraints and Data Dependency
+
+- Precedence constraints are the restrictions on the order of execution of jobs in a real time system. They are usually represented by a directed graph called a precedence graph, where the vertices are the jobs and the edges are the constraints. A job can only start execution after all its predecessors have completed execution  .
+- Data dependency is the situation where the output of one job is used as the input of another job in a real time system. Data dependency cannot be captured by a precedence graph, as it does not imply a strict ordering of jobs. Data dependency may cause problems such as data inconsistency, data loss, or data corruption if not handled properly .
+- Some examples of real time systems that have precedence constraints and data dependency are:
+  - A robotic arm that has to perform a sequence of movements to assemble a product. The movements have to follow a certain order and depend on the feedback from sensors.
+  - A video streaming application that has to encode, transmit, and decode video frames. The encoding and decoding have to be done in a timely manner and depend on the availability and quality of the data.
+  - A flight control system that has to monitor and control various subsystems of an aircraft. The monitoring and control tasks have to be executed periodically and depend on the data from sensors and actuators.

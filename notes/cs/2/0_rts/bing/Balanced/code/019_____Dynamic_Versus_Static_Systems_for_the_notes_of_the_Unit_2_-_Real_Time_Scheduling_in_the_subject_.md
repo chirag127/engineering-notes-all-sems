@@ -1,0 +1,7 @@
+### Dynamic Versus Static Systems
+
+- A **static system** is one where the tasks and their parameters are known in advance and do not change during execution. A **dynamic system** is one where the tasks and their parameters may vary unpredictably during execution.
+- Static systems are easier to analyze and validate than dynamic systems, since the worst-case scenarios can be determined offline. Dynamic systems require online scheduling algorithms that can adapt to changing conditions and uncertainties.
+- Static systems can provide better performance guarantees and lower overheads than dynamic systems, since the scheduling decisions can be optimized offline and embedded in the system code. Dynamic systems can provide more flexibility and robustness than static systems, since they can handle new tasks and events that were not anticipated offline.
+- Static systems are more suitable for hard real-time systems, where missing deadlines can have catastrophic consequences. Dynamic systems are more suitable for soft real-time systems, where missing deadlines can have acceptable degradation of quality of service.
+- Static systems can be implemented using **table-driven scheduling**, where a precomputed schedule is stored in a table and executed by a simple dispatcher. Dynamic systems can be implemented using **priority-driven scheduling**, where each task is assigned a priority and the highest priority task is executed by a preemptive scheduler.

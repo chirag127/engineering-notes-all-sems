@@ -1,0 +1,15 @@
+# FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- Electrical engineering is the branch of engineering that deals with the study, design, and application of electrical and electronic systems, devices, and circuits.
+- Electrical engineering covers a wide range of topics, such as power generation and distribution, communication and information systems, control and automation, signal processing and analysis, and computer hardware and software.
+- Electrical engineering also involves the use of mathematics, physics, and engineering principles to solve complex problems and design innovative solutions.
+- Some of the fundamental concepts of electrical engineering are:
+
+  - Voltage, current, and power: Voltage is the difference in electric potential between two points, current is the rate of flow of electric charge, and power is the rate of doing work or transferring energy.
+  - Ohm's law: Ohm's law states that the voltage across a resistor is proportional to the current through it, and the constant of proportionality is the resistance.
+  - Kirchhoff's laws: Kirchhoff's laws are two rules that govern the conservation of charge and energy in electrical circuits. Kirchhoff's current law states that the sum of currents entering a node is equal to the sum of currents leaving it. Kirchhoff's voltage law states that the sum of voltages around a closed loop is zero.
+  - Circuit elements: Circuit elements are the basic components of electrical circuits, such as resistors, capacitors, inductors, diodes, transistors, switches, sources, and loads. Each circuit element has a specific function and behavior in a circuit.
+  - Circuit analysis: Circuit analysis is the process of finding the voltages and currents in a circuit using various methods, such as nodal analysis, mesh analysis, superposition, Thevenin's theorem, Norton's theorem, and maximum power transfer theorem.
+  - AC and DC circuits: AC and DC circuits are two types of electrical circuits that use alternating current (AC) and direct current (DC) as the source of power. AC circuits are more common in power systems, while DC circuits are more common in electronic devices. AC circuits involve sinusoidal voltages and currents, phasors, impedance, power factor, and resonance. DC circuits involve constant voltages and currents, equivalent resistance, and voltage and current division.
+  - Transformers: Transformers are devices that use electromagnetic induction to transfer electrical energy from one circuit to another, without changing the frequency. Transformers can step up or step down the voltage and current, depending on the ratio of the number of turns in the primary and secondary coils.
+  - Three-phase circuits: Three-phase circuits are a type of AC circuits that use three sinusoidal voltages and currents that are 120 degrees out of phase with each other. Three-phase circuits are more efficient and reliable than single-phase circuits for power transmission and distribution. Three-phase circuits can be connected in star or delta configurations, and the power can be calculated using the line-to-line or line-to-neutral voltages and currents.

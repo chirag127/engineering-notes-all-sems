@@ -1,0 +1,31 @@
+# Workshop Practice Lab:
+
+- Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
+- The objective of this lab is to get a hands-on knowledge of several workshop practices like carpentry, fitting, welding, machining, etc. and learn safety regulations to be maintained in a shop floor.
+- Workshop practice is the backbone of the real industrial environment which helps to develop and enhance relevant technical hand skills required by the technician working in the various engineering industries and workshops.
+- The lab syllabus may vary depending on the university or college, but some of the common experiments are  :
+  - Introduction to workshop tools and safety precautions
+  - Carpentry: making various joints and patterns using wood and nails
+  - Fitting: filing, sawing, drilling, tapping, and making various joints using metal pieces
+  - Welding: arc welding, gas welding, and spot welding of metal plates and rods
+  - Machining: turning, milling, shaping, and grinding of metal workpieces using lathe, milling machine, shaper, and grinder
+  - Sheet metal: cutting, bending, and forming of sheet metal using hand tools and machines
+  - Plumbing: cutting, threading, and joining of pipes and fittings
+  - Electrical and electronics: wiring, soldering, and testing of electrical and electronic circuits and components
+- The lab work consists of four parts :
+  - A pre-lab homework that the students must complete before coming to the lab
+  - The lab itself, answering all the warm-ups and predictions, and attaching data, results, graphs, and analysis
+  - A post-lab report that the students must submit after the lab
+  - A viva or oral examination that the students must attend to demonstrate their understanding of the lab concepts and skills
+- The lab work is evaluated based on the following criteria :
+  - Attendance and participation
+  - Pre-lab homework
+  - Lab performance and results
+  - Post-lab report
+  - Viva or oral examination
+- The lab work is expected to develop the following outcomes in the students:
+  - Ability to use various hand tools and machines in a safe and efficient manner
+  - Ability to perform various workshop operations and processes with accuracy and precision
+  - Ability to measure and inspect the workpieces using appropriate instruments and methods
+  - Ability to analyze and interpret the data and results obtained from the experiments
+  - Ability to communicate and document the lab work effectively and professionally

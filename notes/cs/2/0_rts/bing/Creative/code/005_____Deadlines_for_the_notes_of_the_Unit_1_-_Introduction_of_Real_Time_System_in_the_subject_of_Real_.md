@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Real Time System. Here is the content for the topic of Deadlines for the notes of the Unit 1 - Introduction of Real Time System:
+
+### Deadlines for the notes of the Unit 1 - Introduction of Real Time System
+
+- A deadline is a time limit or a constraint that specifies when a task or an activity must be completed or terminated.
+- Deadlines are important for real time systems because they ensure the timeliness and predictability of the system's behavior and performance.
+- There are different types of deadlines for real time systems, such as:
+  - Hard deadline: A hard deadline is a deadline that must be met without any exception or tolerance. Missing a hard deadline can result in a catastrophic failure or a severe degradation of the system's functionality or quality of service. For example, a hard deadline for an airbag deployment system is the time before the collision occurs.
+  - Soft deadline: A soft deadline is a deadline that can be missed occasionally or with some acceptable degree of deviation. Missing a soft deadline can result in a reduced performance or a lower quality of service, but not a failure or a violation of the system's requirements. For example, a soft deadline for a video streaming system is the time before the buffer underflows or overflows.
+  - Firm deadline: A firm deadline is a deadline that can be missed occasionally, but not frequently or consecutively. Missing a firm deadline can result in a waste of resources or a loss of benefit, but not a failure or a degradation of the system's functionality or quality of service. For example, a firm deadline for a sensor data collection system is the time before the data becomes obsolete or irrelevant.
+- Deadlines can also be classified as:
+  - Static deadline: A static deadline is a deadline that is fixed and known in advance. A static deadline does not change during the execution of the system. For example, a static deadline for a periodic task is the period of the task.
+  - Dynamic deadline: A dynamic deadline is a deadline that is variable and unknown in advance. A dynamic deadline can change during the execution of the system due to various factors, such as the system's workload, the environment's conditions, or the user's preferences. For example, a dynamic deadline for an aperiodic task is the time before the task becomes urgent or critical.

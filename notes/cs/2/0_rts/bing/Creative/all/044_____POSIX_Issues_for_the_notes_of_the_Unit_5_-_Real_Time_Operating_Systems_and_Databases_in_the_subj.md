@@ -1,0 +1,28 @@
+# POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, which is a set of standards that define how an application should interact with an operating system.
+- POSIX aims to achieve portability, interoperability, and compatibility among different operating systems, especially UNIX and its variants.
+- POSIX also covers extensions for real-time operating systems, which are systems that have strict timing constraints and need to respond to events within predictable and bounded time frames.
+- POSIX real-time extensions include specifications for:
+  - Timers, clocks, and calendar functions, which provide high-resolution and monotonic time measurements and operations.
+  - Signals, which are asynchronous notifications of events or conditions that can interrupt or resume a process or thread.
+  - Semaphores, which are synchronization mechanisms that control access to shared resources or coordinate activities among processes or threads.
+  - Message queues, which are communication mechanisms that allow processes or threads to exchange data in a FIFO (first-in, first-out) manner.
+  - Shared memory, which is a memory region that can be accessed by multiple processes or threads for data exchange or interprocess communication.
+  - Memory locking, which is a mechanism that prevents a memory region from being swapped out to disk or relocated by the operating system.
+  - Priority scheduling, which is a mechanism that assigns different levels of importance or urgency to processes or threads and determines the order of their execution.
+  - Real-time signals, which are extensions of the standard signals that have higher priority and can carry additional information.
+  - Timed waits, which are extensions of the standard wait functions that allow processes or threads to block until a specified time or a signal occurs.
+  - Asynchronous I/O, which is a mechanism that allows processes or threads to perform input/output operations without blocking or waiting for their completion.
+  - Memory mapping, which is a mechanism that maps a file or a device into a memory region that can be accessed by processes or threads.
+  - Threads, which are independent units of execution that share the same address space and resources of a process.
+  - Thread synchronization, which is a mechanism that coordinates the activities and interactions of multiple threads within a process.
+  - Thread cancellation, which is a mechanism that allows a thread to be terminated by another thread or by itself.
+  - Thread-specific data, which is a mechanism that allows a thread to store and retrieve data that is local to itself and not shared with other threads.
+  - Thread scheduling, which is a mechanism that determines the order and duration of thread execution within a process.
+  - Sporadic server, which is a mechanism that allows a thread to execute periodically with a specified minimum interarrival time and a specified execution budget.
+- POSIX real-time issues include:
+  - The trade-off between portability and performance, as some POSIX features may not be supported or optimized by some operating systems or hardware platforms.
+  - The trade-off between functionality and complexity, as some POSIX features may introduce additional overhead, latency, or unpredictability to the system.
+  - The trade-off between standardization and innovation, as some POSIX features may not reflect the latest advances or best practices in real-time system design and implementation.
+  - The trade-off between compatibility and flexibility, as some POSIX features may impose constraints or limitations on the system configuration or behavior.

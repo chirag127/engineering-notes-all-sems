@@ -1,0 +1,12 @@
+# Processors and Resources
+
+- Processors and resources are two major types of system components in real-time systems.
+- Processors are also called servers or active resources. They are essential for the execution of a job. A job must have one or more processors in order to execute and proceed towards completion. Examples of processors are computers, transmission links, disks, and database servers.
+- Resources are also called passive resources. A job may or may not require a resource during its execution. A resource can be shared by multiple jobs, but only one job can access it at a time. Examples of resources are memory, files, printers, and sensors.
+- Processors and resources can be classified into two categories: dedicated and shared.
+- Dedicated processors and resources are allocated to a single job or task and cannot be used by any other job or task. They are usually faster and more reliable than shared ones. Examples of dedicated processors and resources are private memory, registers, and caches.
+- Shared processors and resources are accessible by multiple jobs or tasks, but they need to be managed and scheduled properly to avoid conflicts and delays. They are usually slower and less reliable than dedicated ones. Examples of shared processors and resources are CPU, disk, network, and printer.
+- Processors and resources can also be classified into two categories: preemptive and non-preemptive.
+- Preemptive processors and resources can be interrupted and released by a higher priority job or task at any time. They are usually more flexible and responsive than non-preemptive ones. Examples of preemptive processors and resources are CPU, disk, and network.
+- Non-preemptive processors and resources cannot be interrupted and released by a higher priority job or task until they are finished or explicitly released. They are usually more stable and predictable than preemptive ones. Examples of non-preemptive processors and resources are memory, files, and printers.
+- Processors and resources are critical for the performance and correctness of real-time systems. They need to be designed, configured, and optimized according to the requirements and constraints of the real-time applications .

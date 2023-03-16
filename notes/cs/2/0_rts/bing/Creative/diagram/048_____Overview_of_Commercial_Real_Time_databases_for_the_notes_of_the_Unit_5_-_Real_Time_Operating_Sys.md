@@ -1,0 +1,22 @@
+### Overview of Commercial Real Time databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines, otherwise the system may fail.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses, but still aim to optimize the performance and quality of service.
+- Some of the attributes of live real-time databases are:
+  - Concurrency control: the ability to handle multiple transactions accessing the same data without compromising the consistency and integrity of the database.
+  - Data freshness: the degree to which the data reflects the current state of the real world.
+  - Data distribution: the ability to store and access data across multiple nodes or locations, which may improve availability, scalability, and fault tolerance.
+  - Data replication: the process of creating and maintaining copies of data on different nodes or locations, which may improve availability, scalability, and fault tolerance.
+  - Data partitioning: the process of dividing data into smaller subsets based on some criteria, such as key range, hash function, or geographic location, which may improve performance and scalability.
+  - Data compression: the process of reducing the size of data by removing redundancy or using encoding techniques, which may improve storage efficiency and network bandwidth.
+  - Data encryption: the process of transforming data into an unreadable form using a secret key, which may improve security and privacy.
+  - Data backup: the process of creating and storing copies of data for recovery purposes, which may improve reliability and durability.
+  - Data indexing: the process of creating and maintaining data structures that facilitate fast and efficient data retrieval, which may improve performance and usability.
+- Some of the examples of commercial real-time databases are:
+  - Google Cloud Firestore: a highly scalable, fully managed NoSQL database service for large analytical and operational workloads, offering up to 99.999% availability and processing more than 5 billion requests per second at peak.
+  - Google Cloud Bigtable: a highly performant, fully managed NoSQL database service for large analytical and operational workloads, offering up to 99.999% availability and processing more than 10 Exabytes of data under management.
+  - Google Cloud Spanner: a fully managed relational database service that combines the scalability and availability of NoSQL databases with the consistency and transactional capabilities of SQL databases, offering up to 99.999% availability and supporting up to 15 regions and 1000 nodes per instance.
+  - Google Cloud SQL: a fully managed relational database service that supports MySQL, PostgreSQL, and SQL Server, offering up to 99.95% availability and supporting up to 416 GB of RAM and 64 TB of storage per instance.

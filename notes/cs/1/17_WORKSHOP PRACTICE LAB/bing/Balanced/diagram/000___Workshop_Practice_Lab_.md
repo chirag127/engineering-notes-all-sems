@@ -1,0 +1,34 @@
+# Workshop Practice Lab:
+
+- Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
+- The objective of this lab is to get a hands-on knowledge of several workshop practices like carpentry, fitting, welding, machining, etc. and learn safety regulations to be maintained in a shop floor.
+- Workshop practice is the backbone of the real industrial environment which helps to develop and enhance relevant technical hand skills required by the technician working in the various engineering industries and workshops.
+- The lab syllabus may vary depending on the university or college, but some of the common experiments are  :
+  - Introduction to workshop tools and safety precautions
+  - Carpentry: making various joints and patterns using wood and nails
+  - Fitting: filing, sawing, drilling, tapping and making various joints using metal pieces
+  - Welding: electric arc welding and gas welding of metal plates and rods
+  - Machining: turning, milling, shaping and grinding operations using lathe, milling machine, shaper and grinder
+  - Sheet metal work: cutting, bending, forming and soldering of sheet metal
+  - Plumbing: cutting, threading and joining of pipes and fittings
+  - Electrical and electronics: wiring, soldering and testing of electrical and electronic circuits
+- The lab work consists of four parts :
+  - A pre-lab homework that the student must complete before coming to the lab
+  - The lab itself, answering all the warm-ups and predictions, and attaching data, results, graphs and analysis
+  - A post-lab report that the student must submit after the lab
+  - A lab quiz or test that the student must take to assess their understanding of the lab concepts
+- The lab work is evaluated based on the following criteria :
+  - Attendance and participation
+  - Pre-lab homework
+  - Lab performance and results
+  - Post-lab report
+  - Lab quiz or test
+- The lab work is expected to follow the following guidelines :
+  - Be prepared for the lab by reading the lab manual and completing the pre-lab homework
+  - Wear appropriate safety gear and follow the safety rules in the lab
+  - Work in groups of two or three and cooperate with each other
+  - Ask questions and seek help from the instructor or the lab assistant if needed
+  - Record all the data, observations and calculations in the lab notebook
+  - Analyze the data and results and draw conclusions
+  - Write a clear and concise post-lab report following the given format
+  - Review the lab concepts and prepare for the lab quiz or test

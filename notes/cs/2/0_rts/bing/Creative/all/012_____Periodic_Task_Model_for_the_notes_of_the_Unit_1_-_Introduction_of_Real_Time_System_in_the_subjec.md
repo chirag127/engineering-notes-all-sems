@@ -1,0 +1,13 @@
+# Periodic Task Model
+
+- The periodic task model is a well-known deterministic workload model that characterizes accurately many traditional hard real-time applications, such as digital control, real-time monitoring, and constant bit-rate voice/video transmission .
+- A periodic task is one that repeats itself after a fixed time interval, called the period.
+- A periodic task is denoted by four tuples: Ti = < Φi, Pi, ei, Di > Where, Φi – is the phase of the task, Pi – is the period of the task, ei – is the worst-case execution time of the task, and Di – is the relative deadline of the task.
+- The phase of a task is the time difference between the start of the first job and the start of the hyperperiod. The hyperperiod is the least common multiple of the periods of all the tasks in the system.
+- The relative deadline of a task is the maximum allowable time between the release of a job and its completion. The absolute deadline of a job is the sum of its release time and its relative deadline.
+- A periodic task is said to be feasible if there exists a schedule that can meet all the deadlines of the task. A set of periodic tasks is said to be feasible if there exists a schedule that can meet all the deadlines of all the tasks in the set.
+- A periodic task is said to be implicit-deadline if its relative deadline is equal to its period, i.e., Di = Pi. A periodic task is said to be constrained-deadline if its relative deadline is less than or equal to its period, i.e., Di ≤ Pi. A periodic task is said to be arbitrary-deadline if its relative deadline can be any value, i.e., Di can be greater than, equal to, or less than Pi.
+- A periodic task is said to be synchronous if its phase is zero, i.e., Φi = 0. A periodic task is said to be asynchronous if its phase is non-zero, i.e., Φi > 0.
+- A periodic task is said to be independent if it does not share any resources or communicate with any other tasks. A periodic task is said to be dependent if it shares some resources or communicates with some other tasks.
+- A periodic task is said to be preemptive if it can be interrupted by a higher priority task and resume later. A periodic task is said to be non-preemptive if it cannot be interrupted once it starts execution.
+- A periodic task is said to be sporadic if it has a minimum inter-arrival time between two consecutive jobs, which is equal to or greater than its period. A periodic task is said to be jittery if it has a maximum deviation from its ideal release time, which is called the jitter.

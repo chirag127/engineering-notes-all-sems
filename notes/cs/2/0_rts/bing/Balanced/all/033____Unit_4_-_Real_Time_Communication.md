@@ -1,0 +1,24 @@
+## Unit 4 - Real Time Communication
+
+- Real time communication (RTC) is the exchange of information between two or more parties without significant delay.
+- RTC can be synchronous or asynchronous, depending on whether the parties are communicating at the same time or not.
+- RTC can be text-based, voice-based, video-based, or a combination of these modalities.
+- RTC can be one-to-one, one-to-many, or many-to-many, depending on the number of participants and the direction of communication.
+- RTC can be facilitated by various technologies, such as:
+  - Internet Protocol (IP) telephony, which uses the internet to transmit voice and video signals over a network.
+  - Instant messaging (IM), which allows users to send and receive text messages in real time.
+  - Chat rooms, which are online spaces where multiple users can communicate simultaneously via text, voice, or video.
+  - Social media, which are online platforms that enable users to create and share content and interact with others.
+  - Web conferencing, which is a form of online meeting that allows users to collaborate and share presentations, documents, and applications in real time.
+  - Streaming media, which is the delivery of audio and video content over the internet in a continuous flow.
+- RTC has various benefits and challenges, such as:
+  - Benefits:
+    - It can enhance collaboration and productivity among remote teams and individuals.
+    - It can reduce travel costs and time for meetings and events.
+    - It can provide immediate feedback and support for customers and clients.
+    - It can create a sense of presence and social connection among participants.
+  - Challenges:
+    - It can require high bandwidth and reliable network connections to ensure quality and security of communication.
+    - It can pose technical and compatibility issues among different devices and platforms.
+    - It can cause distraction and interruption from other tasks and activities.
+    - It can raise ethical and legal concerns regarding privacy, consent, and data protection.

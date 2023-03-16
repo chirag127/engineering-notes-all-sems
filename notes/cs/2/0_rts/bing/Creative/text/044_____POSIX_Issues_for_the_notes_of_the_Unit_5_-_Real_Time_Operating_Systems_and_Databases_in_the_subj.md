@@ -1,0 +1,12 @@
+### POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, which is a set of standards that define how an application should interact with an operating system.
+- POSIX aims to achieve portability, interoperability, and compatibility among different operating systems, especially for applications that require long-term maintenance and support.
+- POSIX includes over 30 individual standards, covering various aspects of operating system services, such as file operations, process management, signals, devices, threads, and real-time extensions.
+- POSIX real-time extensions are defined in the POSIX.1b and POSIX.1j standards, which specify the additional features and functions that are needed by real-time applications, such as timers, clocks, semaphores, message queues, shared memory, priority scheduling, and asynchronous I/O .
+- POSIX real-time extensions aim to provide deterministic and predictable behavior for real-time applications, by allowing them to specify deadlines, priorities, and resource requirements, and by ensuring that the operating system can meet these demands in a timely manner.
+- POSIX real-time extensions also aim to provide flexibility and scalability for real-time applications, by allowing them to use different scheduling policies, such as fixed priority, earliest deadline first, and round-robin, and by supporting both hard and soft real-time constraints.
+- POSIX real-time extensions are not mandatory for an operating system to be POSIX-compliant, but they are widely adopted by many real-time operating systems, such as QNX, VxWorks, LynxOS, and RTLinux.
+- POSIX real-time extensions are not sufficient for all real-time applications, as they do not address some issues that are specific to certain domains, such as distributed systems, fault tolerance, security, and multimedia.
+- POSIX real-time extensions are also not optimal for some real-time applications, as they may introduce some overhead and complexity, such as system calls, context switches, and memory management, that may affect the performance and responsiveness of the system.
+- POSIX real-time extensions are therefore a trade-off between portability and efficiency, and they should be used with caution and evaluation, depending on the requirements and characteristics of the real-time application.

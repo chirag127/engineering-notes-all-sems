@@ -1,0 +1,10 @@
+# Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that can be used by more than one job at a time, such as memory, disk, or network bandwidth.
+- Each unit of a multiple-unit resource is used in a non-preemptive and mutually exclusive manner; resources are serially reusable  .
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards; the time the resource is locked is the critical section  .
+- The simplest resource access control protocol is to assign the highest priority to the job that acquires a resource and make it non-preemptable. However, this protocol has poor timing performance, as every job can be blocked by every lower-priority job with a critical section, even if there is no resource conflict.
+- A better resource access control protocol is to use the priority-ceiling protocol or the preemption-ceiling protocol, which are extensions of the priority-inheritance protocol for single-unit resources.
+- The priority-ceiling protocol assigns a priority ceiling to each resource, which is the highest priority of any job that may lock that resource. A job can lock a resource only if its priority is higher than the priority ceilings of all the resources currently locked by other jobs. This prevents deadlock and reduces blocking.
+- The preemption-ceiling protocol assigns a preemption ceiling to each resource, which is the priority of the highest-priority job that may lock that resource. A job can lock a resource only if it is currently executing at the highest priority level. When a job locks a resource, its priority is raised to the preemption ceiling of that resource. This also prevents deadlock and reduces blocking.
+- Both the priority-ceiling protocol and the preemption-ceiling protocol can be applied to multiple-unit resources by treating each unit of a resource as a separate resource with the same priority ceiling or preemption ceiling.

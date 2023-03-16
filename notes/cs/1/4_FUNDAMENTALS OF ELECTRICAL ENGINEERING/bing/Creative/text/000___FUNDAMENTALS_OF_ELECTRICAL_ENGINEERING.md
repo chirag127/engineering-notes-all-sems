@@ -1,0 +1,12 @@
+# FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- Electrical engineering is the branch of engineering that deals with the study, design, and application of electrical and electronic systems, devices, and circuits.
+- Electrical engineering covers a wide range of topics, such as electric circuits, power systems, control systems, signal processing, communication systems, and microelectronics.
+- Some of the fundamental concepts of electrical engineering are:
+
+  - Voltage, current, power, and energy: Voltage is the potential difference between two points in an electric circuit, current is the rate of flow of electric charge, power is the rate of doing work or transferring energy, and energy is the capacity to do work or transfer heat.
+  - Ohm's law, Kirchhoff's laws, and Thevenin's theorem: Ohm's law states that the voltage across a resistor is proportional to the current through it, Kirchhoff's laws state that the sum of currents entering a node is equal to the sum of currents leaving it, and the sum of voltages around a loop is zero, and Thevenin's theorem states that any linear circuit can be replaced by an equivalent circuit consisting of a voltage source and a resistor.
+  - Resistors, capacitors, inductors, and diodes: Resistors are passive components that oppose the flow of current, capacitors are passive components that store electric charge, inductors are passive components that store magnetic energy, and diodes are active components that allow current to flow in one direction only.
+  - AC and DC circuits: AC stands for alternating current, which is a current that changes its direction and magnitude periodically, and DC stands for direct current, which is a current that flows in one direction only. AC circuits are more common in power generation and transmission, while DC circuits are more common in electronic devices and batteries.
+  - Transformers, motors, and generators: Transformers are devices that change the voltage and current of an AC source, motors are devices that convert electrical energy into mechanical energy, and generators are devices that convert mechanical energy into electrical energy.
+  - Frequency, phase, and impedance: Frequency is the number of cycles of an AC signal per second, phase is the angle of an AC signal relative to a reference signal, and impedance is the ratio of voltage to current for an AC circuit element. Frequency, phase, and impedance are important for analyzing the behavior and performance of AC circuits and systems.

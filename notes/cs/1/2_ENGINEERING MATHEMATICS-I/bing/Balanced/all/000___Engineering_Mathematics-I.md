@@ -1,0 +1,14 @@
+# Engineering Mathematics-I
+
+Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to provide the students with the mathematical tools and skills that are essential for engineering analysis and modelling. The course may have different syllabi depending on the university or college, but some of the common topics are:
+
+- Differential calculus: This topic includes the study of functions, limits, continuity, derivatives, rules of differentiation, higher order derivatives, applications of derivatives, maxima and minima, curve sketching, mean value theorems, Taylor and Maclaurin series, indeterminate forms and L'Hospital's rule.
+- Integral calculus: This topic includes the study of indefinite and definite integrals, methods of integration, integration by parts, integration by substitution, integration by partial fractions, improper integrals, applications of integrals, area, volume, arc length, surface area, work, and average value.
+- Differential equations: This topic includes the study of ordinary differential equations and their solutions, first order and first degree equations, separable equations, homogeneous equations, exact equations, linear equations, Bernoulli equations, applications of differential equations, growth and decay, mixing problems, orthogonal trajectories, and Newton's law of cooling and heating.
+- Vector calculus: This topic includes the study of vectors, vector operations, dot product, cross product, scalar and vector triple products, vector functions, arc length and curvature, directional derivatives, gradient, divergence, curl, line integrals, surface integrals, volume integrals, Green's theorem, Stokes' theorem, and divergence theorem.
+
+The course may also include other topics such as complex numbers, matrices, linear algebra, partial derivatives, multiple integrals, Laplace transforms, Fourier series, and numerical methods, depending on the level and scope of the course.
+
+The course is usually taught using lectures, tutorials, assignments, quizzes, and exams. The students are expected to attend the classes, participate in the discussions, practice the problems, and complete the assessments. The course may also use online platforms, software, or calculators to enhance the learning experience.
+
+The course is designed to help the students develop their mathematical reasoning, problem-solving, and communication skills. The course also prepares the students for further studies in engineering mathematics and other engineering courses that require mathematical knowledge and methods. The course is beneficial for the students who want to pursue careers in engineering, science, technology, or related fields.
