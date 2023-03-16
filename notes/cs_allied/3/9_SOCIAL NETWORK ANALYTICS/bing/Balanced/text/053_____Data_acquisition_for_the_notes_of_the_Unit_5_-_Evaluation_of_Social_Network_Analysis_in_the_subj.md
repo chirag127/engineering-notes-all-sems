@@ -1,0 +1,12 @@
+### Data acquisition for social network analysis
+
+- Data acquisition is the process of collecting and preparing data from social networks for analysis.
+- Data acquisition can be challenging due to the large scale, dynamic nature, and heterogeneity of social network data.
+- Data acquisition can be performed using different techniques, such as:
+  - Network traffic analysis: This technique involves capturing and analyzing the packets of data that are exchanged between the social network servers and the users' devices. This can provide information about the network topology, the users' activities, and the content of the messages. However, this technique requires access to the network infrastructure, which may not be feasible or ethical in some cases.
+  - Application programming interfaces (APIs): This technique involves using the APIs provided by the social network platforms to access and download the data. This can provide information about the users' profiles, the network structure, and the content of the posts. However, this technique depends on the availability and functionality of the APIs, which may be limited or restricted by the social network providers.
+  - Web crawling: This technique involves using automated programs to visit and extract data from the web pages of the social network platforms. This can provide information about the users' profiles, the network structure, and the content of the posts. However, this technique may face challenges such as scalability, efficiency, and compliance with the web policies and regulations.
+- Data acquisition can be influenced by various factors, such as:
+  - The research question and objectives: The research question and objectives determine the scope and type of data that are needed for the analysis. For example, if the research question is about the influence of social media on political opinions, the data acquisition should focus on the relevant users, topics, and interactions.
+  - The data quality and validity: The data quality and validity refer to the accuracy, completeness, and representativeness of the data. For example, the data quality and validity can be affected by the presence of noise, errors, missing values, duplicates, bots, and outliers.
+  - The data privacy and ethics: The data privacy and ethics refer to the respect and protection of the rights and interests of the data subjects and stakeholders. For example, the data privacy and ethics can be affected by the consent, anonymity, confidentiality, and security of the data.

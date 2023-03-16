@@ -1,0 +1,11 @@
+## Unit 2 - Web Semantics in Social Network Applications
+
+1. **Introduction:** Web semantics refers to the use of metadata and other structured data to improve the understanding and organization of information on the web. In the context of social network applications, this can involve the use of semantic technologies to enhance the user experience and facilitate the discovery and sharing of information.
+
+2. **Semantic Markup:** One way in which web semantics can be applied to social network applications is through the use of semantic markup. This involves adding additional information to web content in the form of metadata, which can be used to describe the content and its relationships to other information. Examples of semantic markup languages include RDFa, Microdata, and JSON-LD.
+
+3. **Ontologies:** Another important aspect of web semantics in social network applications is the use of ontologies. An ontology is a formal representation of a set of concepts and their relationships, which can be used to model and organize information. In the context of social network applications, ontologies can be used to define common vocabularies and data models, which can help to improve the interoperability and integration of data across different applications.
+
+4. **Semantic Search:** The use of web semantics can also improve the search functionality of social network applications. By incorporating semantic information into search algorithms, it is possible to provide more accurate and relevant results to users. This can involve the use of natural language processing techniques to understand the intent behind user queries, as well as the use of knowledge graphs and other structured data to provide more detailed and contextualized results.
+
+5. **Conclusion:** In summary, web semantics can play an important role in enhancing the functionality and user experience of social network applications. By incorporating semantic technologies such as semantic markup, ontologies, and semantic search, it is possible to improve the organization, discovery, and sharing of information on social networks. This can help to create more engaging and useful applications for users, and facilitate the growth of the social web.

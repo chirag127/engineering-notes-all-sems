@@ -1,0 +1,11 @@
+### Process-to-process delivery in transport layer
+
+In the transport layer of the OSI model, process-to-process delivery refers to the process of delivering data between two applications running on different hosts. This layer is responsible for ensuring that data is delivered reliably and efficiently between these applications. Here are some key points to keep in mind regarding process-to-process delivery in the transport layer:
+
+- The transport layer provides two main protocols for process-to-process delivery: TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+- TCP is a connection-oriented protocol that provides reliable, ordered delivery of data. It establishes a connection between the two hosts and sends data in segments that are acknowledged by the receiving host.
+- UDP is a connectionless protocol that provides unreliable, unordered delivery of data. It does not establish a connection between the two hosts and simply sends data as packets without any guarantee of delivery or order.
+- When using TCP, the sender divides the data into segments and adds a header that includes sequence numbers, acknowledgements, and other control information. The receiver reassembles the segments and sends acknowledgements back to the sender to ensure reliable delivery.
+- When using UDP, the sender simply adds a header that includes the source and destination ports, length, and checksum. The receiver simply accepts the packets as they arrive without any guarantees regarding delivery or order.
+- The transport layer also provides flow control and congestion control mechanisms to ensure that data is delivered efficiently and without overloading the network. Flow control regulates the rate at which data is sent, while congestion control monitors the network to avoid congestion and packet loss.
+- In summary, process-to-process delivery in the transport layer involves the reliable and efficient delivery of data between two applications on different hosts using either TCP or UDP protocols. The transport layer also provides flow control and congestion control mechanisms to ensure efficient use of network resources.

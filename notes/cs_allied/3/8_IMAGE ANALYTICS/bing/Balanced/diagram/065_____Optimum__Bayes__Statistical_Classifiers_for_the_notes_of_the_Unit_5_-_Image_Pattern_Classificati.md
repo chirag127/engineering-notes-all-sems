@@ -1,0 +1,8 @@
+### Optimum (Bayes) Statistical Classifiers
+
+- Optimum (Bayes) statistical classifiers are classifiers that use the Bayes' theorem to make predictions based on the posterior probabilities of the classes given the features of a new example .
+- The Bayes' theorem states that the posterior probability of a class C given a feature vector x is proportional to the product of the prior probability of the class P(C) and the likelihood of the feature vector given the class P(x|C):
+  - P(C|x) = P(C)P(x|C) / P(x)
+- The optimum (Bayes) classifier chooses the class that has the highest posterior probability for a given feature vector, i.e., the class that maximizes P(C|x) . This is also known as the maximum a posteriori (MAP) estimation or the Bayes optimal decision rule.
+- The optimum (Bayes) classifier can be seen as a benchmark for the performance of other classifiers, as it represents the lowest possible error rate that can be achieved given the prior and likelihood distributions . However, in practice, the optimum (Bayes) classifier is often not feasible, as the prior and likelihood distributions are usually unknown or difficult to estimate .
+- The optimum (Bayes) classifier can be applied to image pattern classification problems, where the goal is to assign a label to an image based on its features, such as pixels, edges, colors, textures, etc. The features can be extracted from the image using various methods, such as filters, transforms, histograms, etc. The prior and likelihood distributions can be modeled using various techniques, such as parametric, nonparametric, or semi-parametric methods. The optimum (Bayes) classifier can then be used to assign the most probable label to a new image based on its features.

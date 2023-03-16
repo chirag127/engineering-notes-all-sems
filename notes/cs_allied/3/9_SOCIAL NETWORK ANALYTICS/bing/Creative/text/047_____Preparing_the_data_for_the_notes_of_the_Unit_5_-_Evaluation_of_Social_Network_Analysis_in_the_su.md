@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with preparing the data for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS. Here are some points you can use:
+
+- Evaluation of social network analysis is the process of assessing the quality, validity, and usefulness of the results obtained from applying social network analysis methods and techniques to social data.
+- Evaluation can be done at different levels, such as data, network, model, and application level, depending on the purpose and scope of the analysis.
+- Data level evaluation involves checking the accuracy, completeness, and representativeness of the data used for social network analysis, as well as the ethical and legal issues related to data collection and processing.
+- Network level evaluation involves measuring the structural properties and patterns of the network, such as density, centrality, clustering, and community detection, and comparing them with theoretical or empirical expectations or benchmarks.
+- Model level evaluation involves testing the fit, robustness, and generalizability of the network models, such as random graphs, exponential random graph models, or stochastic actor-oriented models, and their parameters and assumptions.
+- Application level evaluation involves assessing the impact, relevance, and value of the social network analysis results for the specific domain or problem of interest, such as social media, health, or education, and the stakeholders involved, such as users, practitioners, or policymakers.
+- Evaluation of social network analysis can be done using various methods and criteria, such as descriptive statistics, inferential statistics, hypothesis testing, visualization, simulation, sensitivity analysis, validation, verification, and replication.

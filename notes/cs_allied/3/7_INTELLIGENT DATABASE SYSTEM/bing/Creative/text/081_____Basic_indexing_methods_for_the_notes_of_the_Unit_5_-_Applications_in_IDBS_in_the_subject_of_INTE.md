@@ -1,0 +1,23 @@
+### Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Indexing is a way to optimize the performance of a database by minimizing the number of disk accesses required when a query is processed.
+- Indexing is a data structure technique which is used to quickly locate and access the data in a database.
+- Indexes are created using a few database columns.
+- Indexing in Database is defined based on its indexing attributes.
+- Two main types of indexing methods are: Primary Indexing and Secondary Indexing .
+- Primary Indexing is defined on an ordered data file, where the data file is ordered on a key field .
+- The key field is the same as the primary key of the database table.
+- The primary index has a fixed length size with two fields: the key field and a pointer to the data block that contains the record with that key value.
+- Primary Indexing is further divided into two types: Dense Index and Sparse Index.
+- In a dense index, a record is created for every search key value in the database.
+- In a sparse index, a record is created for only some of the search key values.
+- A sparse index requires less space and less maintenance than a dense index.
+- Secondary Indexing is defined on a field that is not the primary key of the database table .
+- The field may be a candidate key or a non-key with duplicate values.
+- The secondary index has a variable length size with two fields: the field value and a pointer to the record or a list of pointers if the field value is not unique.
+- Secondary Indexing is useful for queries that do not involve the primary key.
+- Secondary Indexing may create additional overhead for insertions, deletions, and updates.
+- Besides primary and secondary indexing, there are other indexing techniques for advanced database systems, such as B-tree, B+-tree, R-tree, hash-based, bitmap, etc .
+- These indexing techniques are designed to support different types of queries, such as range queries, spatial queries, text queries, etc .
+- These indexing techniques have different properties, such as height, fanout, balance, etc.
+- These indexing techniques have different advantages and disadvantages, such as space, time, concurrency, etc .

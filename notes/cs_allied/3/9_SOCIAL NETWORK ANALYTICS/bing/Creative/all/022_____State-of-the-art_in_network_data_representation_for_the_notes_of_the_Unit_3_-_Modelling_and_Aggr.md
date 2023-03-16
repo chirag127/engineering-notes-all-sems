@@ -1,0 +1,11 @@
+# State-of-the-art in network data representation for social network analysis
+
+- Network data representation, also known as network embedding, is the process of encoding network data into low-dimensional vectors that can preserve the network structure and attributes .
+- Network data representation is a fundamental step for social network analysis, which is the study of social structures and interactions through the use of networks and graph theory .
+- Network data representation can facilitate various tasks in social network analysis, such as node classification, link prediction, community detection, network visualization, and recommendation systems .
+- The state-of-the-art methods for network data representation can be categorized into four types: matrix factorization, random walk, deep learning, and graph neural networks .
+- Matrix factorization methods aim to decompose the network adjacency matrix or other similarity matrices into low-rank matrices, and use the rows or columns of these matrices as the node embeddings. Examples of these methods are Laplacian Eigenmaps, Locally Linear Embedding, and Singular Value Decomposition .
+- Random walk methods generate node sequences by performing random walks on the network, and then apply natural language processing techniques, such as Skip-gram or GloVe, to learn node embeddings from these sequences. Examples of these methods are DeepWalk, node2vec, and LINE .
+- Deep learning methods use neural networks to learn node embeddings from network data, either in an unsupervised or supervised manner. Examples of these methods are SDNE, DNGR, and GraphGAN .
+- Graph neural networks are a class of deep learning methods that can directly operate on graph data and learn node embeddings by aggregating information from neighboring nodes. Examples of these methods are GCN, GAT, and GraphSAGE .
+- The state-of-the-art methods for network data representation have different advantages and disadvantages, depending on the network characteristics, such as size, density, heterogeneity, and dynamics. Therefore, there is no single best method for all scenarios, and the choice of the method should be based on the specific application and data .

@@ -1,0 +1,14 @@
+#### Network architecture with reference to Computer Networks
+
+Network architecture refers to the design and organization of a computer network. It includes the physical and logical layout of the network, the protocols used for communication, and the hardware and software components that make up the network. Here are some key points to understand network architecture with reference to computer networks:
+
+- The physical architecture of a network refers to the physical layout of the network components, such as computers, routers, switches, and cabling. It includes the topology of the network, which can be a bus, star, ring, mesh, or hybrid topology.
+- The logical architecture of a network refers to the way in which information is transmitted and received within the network. It includes the protocols used for communication, such as TCP/IP, HTTP, FTP, and SMTP.
+- The hardware components of a network include the physical devices that make up the network, such as computers, routers, switches, and cabling. These components are used to transmit and receive data between devices on the network.
+- The software components of a network include the operating systems, applications, and protocols that are used to manage and control the network. They provide the necessary functionality for data transmission and communication between devices.
+- The different layers of a computer network architecture include the physical layer, data link layer, network layer, transport layer, session layer, presentation layer, and application layer. Each layer has a specific function and uses different protocols to communicate with other layers.
+- The OSI (Open Systems Interconnection) model is a widely used framework for network architecture. It defines seven layers of network functionality and provides a standard for network communication and interoperability.
+- Network architecture can be centralized or decentralized. In a centralized network, all communication flows through a central server or hub. In a decentralized network, communication can occur directly between devices without the need for a central server.
+- Network architecture can also be classified as client-server or peer-to-peer. In a client-server network, clients request services or resources from a central server. In a peer-to-peer network, devices communicate with each other directly without the need for a central server.
+
+Understanding network architecture is essential for designing, managing, and troubleshooting computer networks. It provides a framework for organizing network components and ensuring that data is transmitted efficiently and securely between devices on the network.

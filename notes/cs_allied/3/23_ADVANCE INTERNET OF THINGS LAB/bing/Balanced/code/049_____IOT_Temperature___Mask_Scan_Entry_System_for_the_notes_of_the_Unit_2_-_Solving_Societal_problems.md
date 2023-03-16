@@ -1,0 +1,24 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT-based system that aims to increase COVID-19 indoor safety by checking the temperature and mask status of the visitors or employees before allowing entry to a building or a room.
+- The system consists of the following components:
+  - A contactless temperature scanner that uses a thermal camera or a sensor to measure the body temperature of the person (temperature measurement precision ± 0.3 °C)  .
+  - A mask detector that uses a video camera and an image processing algorithm to detect the presence or absence of a mask on the person's face   .
+  - A gate or a barrier that controls the entry of the person based on the temperature and mask scan results. The gate can be a flap barrier, a turnstile, a door, or a similar device  .
+  - A display or a speaker that shows or announces the scan results and the entry status to the person   .
+  - A controller that connects the scanner, the detector, the gate, and the display or speaker. The controller can be a Raspberry Pi, an Arduino, or a similar device that runs the IoT software and the logic   .
+  - A cloud server or a database that stores and analyzes the scan data and provides remote access and monitoring of the system   .
+- The system works as follows:
+  - The person approaches the system and stands in front of the scanner and the detector   .
+  - The scanner measures the person's temperature and sends the data to the controller   .
+  - The detector captures the person's image and detects the mask status and sends the data to the controller   .
+  - The controller compares the temperature and mask data with the predefined thresholds and rules and decides whether to allow or deny entry to the person    .
+  - The controller sends the scan results and the entry status to the display or speaker and the gate    .
+  - The display or speaker shows or announces the scan results and the entry status to the person   .
+  - The gate opens or closes according to the entry status    .
+  - The controller sends the scan data to the cloud server or the database for storage and analysis   .
+- The system can help to solve societal problems related to COVID-19 by:
+  - Reducing the risk of transmission and infection by screening the visitors or employees for fever and mask compliance    .
+  - Enforcing the health and safety guidelines and regulations by preventing the entry of those who have high temperature or do not wear masks     .
+  - Providing real-time and historical data on the temperature and mask status of the visitors or employees for tracking and reporting purposes   .
+  - Improving the efficiency and convenience of the temperature and mask scan process by automating and integrating the system components     .

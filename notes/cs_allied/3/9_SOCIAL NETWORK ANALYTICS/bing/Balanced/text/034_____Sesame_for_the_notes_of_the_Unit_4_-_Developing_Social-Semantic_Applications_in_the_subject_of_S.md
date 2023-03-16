@@ -1,0 +1,28 @@
+### Sesame for the notes of the Unit 4 - Developing Social-Semantic Applications
+
+- Sesame is an open source framework for storing, querying and reasoning with RDF data.
+- RDF (Resource Description Framework) is a standard for representing and exchanging data on the Web in a graph-based format.
+- Sesame provides a Java API and a RESTful HTTP protocol for accessing and manipulating RDF data.
+- Sesame supports various RDF serialization formats, such as RDF/XML, Turtle, N-Triples, N-Quads, JSON-LD, etc.
+- Sesame also supports different query languages, such as SPARQL, SeRQL and RQL, for retrieving and updating RDF data.
+- Sesame can be used to build semantic web applications with social network features, such as Flink, which is a system that discovers and analyzes the social networks of the semantic web community.
+- Sesame consists of several components, such as:
+  - Sesame Core: the core API for accessing and manipulating RDF data.
+  - Sesame Repository API: an extension of the core API that defines the concept of a repository, which is a collection of RDF statements that can be queried and updated.
+  - Sesame SAIL API: an extension of the repository API that defines the concept of a storage and inference layer (SAIL), which is a component that implements the actual storage and reasoning functionality of a repository.
+  - Sesame Rio: a set of parsers and writers for various RDF serialization formats.
+  - Sesame Query API: an extension of the core API that defines the concept of a query, which is a request for information from a repository.
+  - Sesame QueryAlgebra API: an extension of the query API that defines the concept of a query algebra, which is a representation of a query as a tree of operators.
+  - Sesame QueryParser API: an extension of the query API that defines the concept of a query parser, which is a component that translates a query from a specific query language to a query algebra.
+  - Sesame QueryResult API: an extension of the query API that defines the concept of a query result, which is a collection of values that satisfy a query.
+  - Sesame HTTP Server: a component that exposes a repository as a RESTful web service over HTTP.
+  - Sesame HTTP Client: a component that allows accessing a repository over HTTP using the Sesame API.
+  - Sesame Console: a command-line tool for interacting with a repository.
+  - Sesame Workbench: a web-based tool for managing and exploring a repository.
+- Sesame can be integrated with other frameworks and tools, such as:
+  - Elmo: a framework that provides an object-oriented view of RDF data and allows defining Java interfaces for RDF classes and properties.
+  - GraphUtil: a library that provides utility methods for working with RDF graphs, such as computing graph metrics, finding cliques, etc.
+  - Jena: another open source framework for RDF data, which can interoperate with Sesame using a common API called RDF2Go.
+  - Protégé: an ontology editor and knowledge base framework, which can use Sesame as a backend for storing and querying RDF data.
+  - OWLIM: a scalable and high-performance RDF database, which can be used as a SAIL implementation for Sesame.
+  - OpenRDF.org: a website that hosts various projects and resources related to Sesame and RDF data.

@@ -1,0 +1,40 @@
+### Spark’s Memory Usage
+
+- Memory usage in Spark largely falls under one of two categories: **execution** and **storage**.
+- Execution memory refers to that used for computation in shuffles, joins, sorts and aggregations, while storage memory refers to that used for caching and propagating internal data across the cluster.
+- In Spark, execution and storage share a unified region (M) in the executor's heap memory.
+- The size of M can be configured by setting `spark.executor.memory`.
+- Spark uses a memory manager to dynamically allocate and evict memory between execution and storage.
+- There are two types of memory managers in Spark: **Static Memory Manager** and **Unified Memory Manager**.
+- Static Memory Manager divides M into two regions: a fixed-size region for storage and the remaining region for execution.
+- Unified Memory Manager does not pre-allocate a fixed-size region for storage, but allows execution and storage to borrow memory from each other as needed.
+- Unified Memory Manager is the default memory manager in Spark 1.6 and later versions.
+- Spark also supports off-heap memory, which is memory outside the executor's JVM.
+- Off-heap memory can be used for caching data in serialized form, which can reduce the memory overhead of Java objects.
+- Off-heap memory can be configured by setting `spark.memory.offHeap.enabled` to true and `spark.memory.offHeap.size` to the desired amount.
+- Spark operates by placing data in memory, so managing memory resources is a key aspect of optimizing the execution of Spark jobs.
+- There are several techniques to use the cluster's memory efficiently, such as:
+  - Choosing the right data format and serialization method
+  - Tuning the level of parallelism and partition size
+  - Using broadcast variables and accumulators
+  - Leveraging Spark's built-in memory management features, such as caching, spilling, and dynamic allocation
+- Spark provides a web UI that displays useful information about the application, such as:
+  - A list of scheduler stages and tasks
+  - A summary of RDD sizes and memory usage
+  - Environmental information
+  - Information about the running executors
+- Spark also provides metrics and logs that can be used to monitor and troubleshoot memory issues.
+- Some of the common memory problems in Spark are:
+  - OutOfMemoryError: Java heap space
+  - OutOfMemoryError: GC overhead limit exceeded
+  - OutOfMemoryError: Metaspace
+  - OutOfMemoryError: Direct buffer memory
+  - Memory leak
+- To avoid or resolve these problems, some of the best practices are:
+  - Estimating the memory consumption of the dataset and the application
+  - Tuning the garbage collection settings and parameters
+  - Increasing the driver and executor memory
+  - Reducing the memory overhead of Java objects
+  - Avoiding unnecessary caching and persisting of data
+  - Cleaning up unused variables and objects
+  - Using off-heap memory or external storage when possible

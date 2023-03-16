@@ -1,0 +1,23 @@
+# Storage and Reasoning for Social Network Analysis
+
+- Social network analysis (SNA) is the process of exploring or examining the social structure by using graph theory.
+- It is used for measuring and analyzing the structural properties of the network, such as centrality, density, clustering, etc.
+- It also helps to measure relationships and flows between groups, organizations, and other connected entities.
+- To perform SNA, the data must be stored and represented in a suitable format, such as a graph or a matrix.
+- A graph is a data structure that consists of nodes (vertices) and edges (links) that connect them.
+- A graph can store the relationships of people in the form of a sociogram, which is a visual representation of the social network.
+- A matrix is a data structure that consists of rows and columns of values.
+- A matrix can store the relationships of people in the form of a sociomatrix, which is a tabular representation of the social network.
+- Both graph and matrix formats have advantages and disadvantages for SNA, depending on the type and size of the network, the analysis goals, and the computational resources available.
+- For example, a graph format can be more intuitive and flexible for visualizing and exploring the network, but it can also be more complex and costly to manipulate and store, especially for large and dense networks.
+- A matrix format can be more efficient and convenient for performing mathematical operations and calculations on the network, but it can also be more abstract and less expressive for capturing the nuances and dynamics of the network.
+- To reason about the social network, SNA can use various methods and techniques, such as descriptive statistics, inferential statistics, network models, network algorithms, network metrics, network visualization, etc.
+- These methods and techniques can help to answer different types of questions and hypotheses about the network, such as:
+  - Who are the most influential or central actors in the network?
+  - How are the actors connected or clustered in the network?
+  - How does information or behavior spread or diffuse in the network?
+  - How does the network evolve or change over time?
+  - How does the network affect or reflect the outcomes or attributes of the actors?
+- The choice of the methods and techniques for SNA depends on the research question, the data availability, the data quality, the data complexity, and the data validity.
+- SNA can be applied to various domains and applications, such as sociology, psychology, communication, education, health, politics, business, security, etc.
+- SNA can provide insights, knowledge, and value for understanding and improving the social phenomena and processes in these domains and applications.

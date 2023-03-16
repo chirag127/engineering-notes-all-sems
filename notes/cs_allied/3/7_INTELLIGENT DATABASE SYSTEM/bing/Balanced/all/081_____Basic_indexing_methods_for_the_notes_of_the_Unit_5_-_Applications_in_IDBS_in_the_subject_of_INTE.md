@@ -1,0 +1,39 @@
+# Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Indexing is a way to optimize the performance of a database by minimizing the number of disk accesses required when a query is processed.
+- Indexing is a data structure technique which is used to quickly locate and access the data in a database.
+- Indexes are created using a few database columns.
+- Indexing in Database is defined based on its indexing attributes.
+- Two main types of indexing methods are:
+  - Primary Indexing
+  - Secondary Indexing
+- Primary Indexing
+  - Primary Index is an ordered file which is fixed length size with two fields.
+  - The first field is the same as a primary key and the second field is a pointer to that specific data block.
+  - Primary Index is defined on an ordered data file. The data file is ordered on a key field.
+  - Primary Indexing is also further divided into two types:
+    - Dense Index
+    - Sparse Index
+  - Dense Index
+    - In a dense index, a record is created for every search key value in the database.
+    - The index file size is large and requires more disk space.
+    - The index file is updated frequently when new records are inserted or deleted.
+  - Sparse Index
+    - In a sparse index, a record is created for only some of the search key values in the database.
+    - The index file size is small and requires less disk space.
+    - The index file is updated less frequently when new records are inserted or deleted.
+- Secondary Indexing
+  - Secondary Index may be generated from a field which is a candidate key and has a unique value in every record, or a non-key with duplicate values.
+  - Secondary Index is an ordered file with two fields.
+  - The first field is the same as the secondary key and the second field is a pointer to the primary index record.
+  - Secondary Index is defined on an unordered data file.
+  - Secondary Indexing is useful for queries that do not involve the primary key.
+- Other indexing techniques for advanced database systems
+  - Traditional indexing techniques such as the B-tree and its variants do not efficiently support some applications, such as spatial, temporal, multimedia, or text databases.
+  - As a result of the demand for database support for new applications, there has been a proliferation of new indexing techniques.
+  - Some examples of new indexing techniques are:
+    - R-tree and its variants for spatial databases
+    - B+-tree and its variants for temporal databases
+    - Signature file and inverted file for text databases
+    - Bitmap index and join index for data warehousing
+    - Grid file and hash-based index for multidimensional databases

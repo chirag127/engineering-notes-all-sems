@@ -1,0 +1,9 @@
+### Semantic-based Social Network Analysis in the sciences
+
+- Semantic-based Social Network Analysis (SNA) is an approach that combines semantic analysis and network analysis to study the structure, dynamics, and meaning of social networks .
+- Semantic analysis is the process of extracting and representing the sense and semantics of social data and contents, such as text, relation types, and quantitative or qualitative data related to social content.
+- Network analysis is the process of identifying and measuring the patterns and structures of social networks, such as nodes, links, clusters, communities, roles, positions, and centralities.
+- Semantic-based SNA can be applied to various domains and disciplines in the sciences, such as biology, medicine, psychology, sociology, linguistics, and computer science.
+- Semantic-based SNA can provide new insights and knowledge about the social phenomena and processes that are embedded in the social data and contents, such as topics, sentiments, emotions, opinions, attitudes, beliefs, values, norms, and behaviors .
+- Semantic-based SNA can also enable new applications and services that leverage the semantic and network information of social networks, such as recommendation systems, information retrieval, knowledge discovery, social media analytics, and social network visualization .
+- Semantic-based SNA faces some challenges and limitations, such as the complexity and diversity of social data and contents, the scalability and efficiency of semantic and network analysis methods, the validity and reliability of semantic and network measures, and the ethical and legal issues of social data and content processing .

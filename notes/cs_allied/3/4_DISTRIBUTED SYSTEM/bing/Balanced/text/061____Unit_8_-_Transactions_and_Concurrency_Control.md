@@ -1,0 +1,21 @@
+## Unit 8 - Transactions and Concurrency Control
+
+- A **transaction** is a logical unit of work that consists of a sequence of operations on a database, such as reading, writing, inserting, deleting, or updating data.
+- A transaction has four main properties, known as **ACID**:
+  - **Atomicity**: A transaction is either executed completely or not at all. If any operation in the transaction fails, the whole transaction is aborted and the database is restored to its previous state.
+  - **Consistency**: A transaction preserves the integrity and validity of the database. It ensures that the database satisfies all the constraints and rules before and after the transaction.
+  - **Isolation**: A transaction is executed independently of other concurrent transactions. It does not interfere with or see the intermediate results of other transactions.
+  - **Durability**: A transaction's effects are permanent and persistent in the database. They are not lost even in the case of system failures or power outages.
+- **Concurrency control** is the management of simultaneously executing transactions in a shared database. It ensures that correct results for concurrent operations are generated while getting those results as quickly as possible .
+- Concurrency control is important because it helps to maintain the **isolation** and **consistency** properties of transactions. Without concurrency control, concurrent transactions may cause problems such as:
+  - **Lost update**: A transaction overwrites the changes made by another transaction without seeing them.
+  - **Dirty read**: A transaction reads the uncommitted changes made by another transaction that may be rolled back later.
+  - **Non-repeatable read**: A transaction reads the same data twice but gets different results because another transaction has modified the data in between.
+  - **Phantom read**: A transaction reads a set of data that satisfies some condition but gets different results because another transaction has inserted or deleted some data that also satisfies the condition.
+- Concurrency control techniques implement some protocols that can be broadly classified into two categories:
+  - **Lock-based protocol**: This protocol uses locks to prevent concurrent transactions from accessing the same data item. A lock is a mechanism that grants or denies access to a data item. There are two types of locks: shared locks and exclusive locks. A shared lock allows a transaction to read a data item but not to modify it. An exclusive lock allows a transaction to both read and write a data item. A transaction must acquire a lock before accessing a data item and release it after finishing. A lock manager is responsible for granting, denying, and releasing locks. A lock-based protocol must follow two rules: 
+    - **Two-phase locking**: A transaction must acquire all the locks it needs before releasing any lock. This ensures that a transaction holds all the locks until it commits or aborts, which preserves the atomicity property.
+    - **No lock request is blocked**: A transaction must not wait indefinitely for a lock that is held by another transaction. This prevents deadlock, which is a situation where two or more transactions are waiting for each other to release locks.
+  - **Timestamp-based protocol**: This protocol uses timestamps to order the execution of concurrent transactions. A timestamp is a unique identifier that indicates the start time of a transaction. Each data item has two timestamps: read timestamp and write timestamp. The read timestamp records the latest time when a data item was read by a transaction. The write timestamp records the latest time when a data item was written by a transaction. A timestamp-based protocol must follow two rules:
+    - **Read-write conflict**: A transaction T1 can read a data item X only if the write timestamp of X is less than or equal to the timestamp of T1. This ensures that T1 does not read a data item that was modified by a later transaction, which preserves the consistency property.
+    - **Write-write conflict**: A transaction T1 can write a data item X only if the write timestamp of X is less than the timestamp of T1. This ensures that T1 does not overwrite the changes made by a later transaction, which preserves the consistency property.

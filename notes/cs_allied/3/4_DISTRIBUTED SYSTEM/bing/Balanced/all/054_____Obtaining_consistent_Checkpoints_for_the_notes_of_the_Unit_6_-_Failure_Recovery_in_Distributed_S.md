@@ -1,0 +1,26 @@
+# Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- A failure in a distributed system can be caused by various factors, such as hardware faults, software bugs, network errors, malicious attacks, or human mistakes.
+- A failure can affect one or more components of the system, such as nodes, processes, messages, or data.
+- A failure can have different consequences, such as data loss, data corruption, performance degradation, or system unavailability.
+- To recover from a failure, the system needs to detect the failure, identify the cause and location of the failure, and restore the system to a consistent and correct state.
+- A consistent state is a state where all the components of the system agree on the same view of the system and its data.
+- A correct state is a state where the system and its data satisfy the specifications and requirements of the system.
+- One of the common techniques for failure recovery in distributed systems is checkpointing .
+- Checkpointing is the process of periodically saving the state of the system or its components to a stable storage, such as a disk or a cloud service.
+- Checkpointing can be done at different levels, such as process level, node level, or system level.
+- Checkpointing can be done at different frequencies, such as every iteration, every transaction, or every time interval.
+- Checkpointing can be done in different modes, such as synchronous, asynchronous, or coordinated.
+- Synchronous checkpointing means that all the components of the system save their state at the same time.
+- Asynchronous checkpointing means that each component of the system saves its state independently of the others.
+- Coordinated checkpointing means that the components of the system save their state in a coordinated manner, such as by exchanging messages or using a global clock.
+- The advantages of checkpointing are that it can reduce the amount of data loss, data corruption, and re-computation in case of a failure.
+- The disadvantages of checkpointing are that it can introduce overhead, latency, and complexity to the system.
+- To obtain consistent checkpoints, the system needs to ensure that the checkpoints of the components are compatible and do not contain any inconsistencies or contradictions.
+- For example, if a process A sends a message to a process B, and B saves its state after receiving the message, but A saves its state before sending the message, then the checkpoints of A and B are inconsistent.
+- To avoid such inconsistencies, the system can use different techniques, such as causal dependency tracking, message logging, or vector clocks.
+- Causal dependency tracking means that the system records the causal relationships between the events and messages in the system, and uses them to determine the order and consistency of the checkpoints.
+- Message logging means that the system logs the messages sent and received by the components, and uses them to replay the messages and restore the state of the components after a failure.
+- Vector clocks means that the system assigns a logical timestamp to each event and message in the system, and uses them to compare and synchronize the checkpoints of the components.
+- Obtaining consistent checkpoints is important for failure recovery in distributed systems, because it can help the system to resume its normal operation and maintain its correctness and consistency after a failure.

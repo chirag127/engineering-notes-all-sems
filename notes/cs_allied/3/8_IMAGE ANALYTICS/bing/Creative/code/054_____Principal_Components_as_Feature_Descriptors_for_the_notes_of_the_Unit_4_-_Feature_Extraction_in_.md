@@ -1,0 +1,21 @@
+### Principal Components as Feature Descriptors
+
+- Principal components are linear combinations of the original features that capture the maximum variance in the data.
+- Principal components can be used as feature descriptors to reduce the dimensionality of the data and improve the performance of feature matching algorithms.
+- Principal component analysis (PCA) is a technique that transforms the data into a new coordinate system where the principal components are the axes.
+- PCA can be implemented in Python using scikit-learn library, which provides a PCA class that can fit and transform the data.
+- The steps to perform PCA are:
+  - Standardize the data to have zero mean and unit variance.
+  - Compute the covariance matrix of the standardized data.
+  - Compute the eigenvalues and eigenvectors of the covariance matrix.
+  - Sort the eigenvalues in descending order and select the top k eigenvectors corresponding to the k largest eigenvalues.
+  - Project the data onto the k eigenvectors to obtain the k principal components.
+- The advantages of using principal components as feature descriptors are:
+  - They reduce the redundancy and noise in the data.
+  - They capture the most relevant information in the data.
+  - They reduce the computational complexity and memory requirements of feature matching algorithms.
+  - They can handle high-dimensional data and multicollinearity among features.
+- The disadvantages of using principal components as feature descriptors are:
+  - They are sensitive to outliers and scaling of the data.
+  - They may lose some information and interpretability of the original features.
+  - They may not be optimal for some tasks that require specific features or non-linear relationships.

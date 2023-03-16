@@ -1,0 +1,15 @@
+### Electronic sources for network analysis
+
+- Network analysis is the process of determining the electrical parameters of a circuit or a network of interconnected components, such as resistors, capacitors, inductors, voltage sources, current sources, etc. 
+- Electronic sources are devices that can provide electrical energy to a circuit or a network, such as batteries, generators, solar cells, etc. Electronic sources can be classified into two types: voltage sources and current sources. 
+- A voltage source is a device that maintains a constant voltage across its terminals, regardless of the current flowing through it. A voltage source can be either independent or dependent. An independent voltage source has a fixed voltage value that does not depend on any other variable in the circuit. A dependent voltage source has a voltage value that is proportional to some other variable in the circuit, such as current, voltage, or power. 
+- A current source is a device that maintains a constant current through its terminals, regardless of the voltage across it. A current source can be either independent or dependent. An independent current source has a fixed current value that does not depend on any other variable in the circuit. A dependent current source has a current value that is proportional to some other variable in the circuit, such as current, voltage, or power. 
+- Electronic sources can be used for network analysis in various ways, such as:
+  - Applying a known voltage or current source to a circuit or a network and measuring the resulting voltage or current across or through a component of interest. This can help determine the resistance, impedance, reactance, inductance, capacitance, frequency, power, or energy of the component. 
+  - Transforming a voltage source into a current source, or vice versa, to simplify the analysis of a complex network. This can be done by using the equivalence between a voltage source in series with a resistor and a current source in parallel with a resistor. 
+  - Using a network analyzer, which is an electronic instrument that can measure the frequency response, impedance, reflection, transmission, or scattering parameters of a network. A network analyzer can apply corrections for cables and connectors by comparing what it measures to the values of the standards. 
+- Electronic sources for network analysis can be found in various online platforms, such as:
+  - Search engines, which can help find relevant websites, articles, books, videos, or tutorials on network analysis topics. 
+  - Social networking services, which can help connect with other people who are interested in or knowledgeable about network analysis. 
+  - Discussion networks, which can help exchange ideas, opinions, questions, or answers on network analysis issues. 
+  - Online courses, which can help learn the theory and practice of network analysis from experts or instructors.

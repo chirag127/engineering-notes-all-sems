@@ -1,0 +1,13 @@
+# System model and group communication for replication in distributed systems
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by exchanging messages.
+- Replication is a technique to improve the availability, reliability, and performance of a distributed system by creating and maintaining multiple copies of data or services across different processes or nodes.
+- A system model is a set of assumptions and properties that characterize the behavior and capabilities of a distributed system, such as the communication model, the failure model, the timing model, and the security model.
+- Group communication is a form of communication between multiple processes in a distributed system that share some common interest or goal, such as replicating data or coordinating actions.
+- Group communication can be classified into two types: broadcast communication and multicast communication.
+  - Broadcast communication is when a source process sends a message to all other processes in the system, regardless of their interest or membership in a group. Broadcast communication can be used to disseminate information widely and efficiently, such as code or a file, or to discover other processes in the system.
+  - Multicast communication is when a source process sends a message to a subset of processes in the system that belong to a specific group. Multicast communication can be used to implement replication, as the source process can update or query the replicas of data or services in the group.
+- Group communication can also be classified into two categories: reliable and unreliable.
+  - Reliable group communication is when the communication guarantees some properties, such as delivery, ordering, or agreement, of the messages sent and received by the group members. Reliable group communication can be used to ensure consistency and correctness of the replicated data or services in the group.
+  - Unreliable group communication is when the communication does not guarantee any properties of the messages sent and received by the group members. Unreliable group communication can be used to achieve higher performance and scalability of the replicated data or services in the group, at the cost of some inconsistency or inaccuracy.
+- Group communication can be implemented using various protocols and algorithms, such as IP multicast, gossip, Paxos, or Raft, depending on the system model and the replication requirements.

@@ -1,0 +1,19 @@
+# Token based and non token based algorithms for distributed mutual exclusion
+
+Distributed mutual exclusion (DME) is the problem of ensuring that only one process at a time can access a shared resource in a distributed system. There are two main approaches to solve this problem: token based and non token based algorithms.
+
+## Token based algorithms
+
+- In token based algorithms, a unique token is shared among all the sites in the distributed system. The token represents the permission to enter the critical section. Only the site that holds the token can execute the critical section.
+- Token based algorithms guarantee mutual exclusion and freedom from deadlock, but they may suffer from starvation and high message complexity.
+- Examples of token based algorithms are:
+  - **Suzuki-Kasami algorithm**: This is a modification of Ricart-Agrawala algorithm, a permission based algorithm that uses REQUEST and REPLY messages to ensure mutual exclusion. In Suzuki-Kasami algorithm, the token is a vector that records the number of requests made by each site. The token is passed to the site with the highest request number that has not yet executed the critical section. This algorithm reduces the number of messages from O(n^2) to O(n) per critical section execution, where n is the number of sites.
+  - **Raymond's algorithm**: This is a tree based algorithm that organizes the sites into a logical tree. The token is initially held by the root of the tree. A site that wants to enter the critical section sends a REQUEST message to its parent in the tree. The parent forwards the request to its parent, and so on, until it reaches the token holder. The token holder sends the token to the site that requested it, and updates its parent pointer to that site. This algorithm reduces the number of messages to O(log n) per critical section execution, but it may cause starvation and high delay.
+
+## Non token based algorithms
+
+- In non token based algorithms, also known as permission based algorithms, a site communicates with a set of other sites to determine who should execute the critical section next. The site that wants to enter the critical section sends a REQUEST message to the other sites, and waits for their REPLY messages. The site can enter the critical section only after receiving all the REPLY messages.
+- Non token based algorithms do not require a unique token, but they may generate more messages and cause more delay than token based algorithms. They also need to use timestamps to order the requests and resolve conflicts.
+- Examples of non token based algorithms are:
+  - **Lamport's algorithm**: This is a centralized algorithm that uses a coordinator site to manage the requests. The site that wants to enter the critical section sends a REQUEST message to the coordinator, along with its logical clock value. The coordinator maintains a queue of requests, ordered by their timestamps. The coordinator sends a REPLY message to the site whose request is at the head of the queue, granting it the permission to enter the critical section. This algorithm ensures mutual exclusion and fairness, but it has a single point of failure and a high message complexity of O(n) per critical section execution, where n is the number of sites.
+  - **Ricart-Agrawala algorithm**: This is a decentralized algorithm that uses a totally ordered multicast to broadcast the requests. The site that wants to enter the critical section sends a REQUEST message to all the other sites, along with its logical clock value. The other sites reply with a REPLY message, either immediately or after releasing the critical section, depending on their states and timestamps. The site can enter the critical section only after receiving all the REPLY messages. This algorithm ensures mutual exclusion and fairness, but it has a high message complexity of O(n^2) per critical section execution, where n is the number of sites.

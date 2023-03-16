@@ -1,0 +1,14 @@
+### Variable Thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+
+- Image segmentation is the process of dividing an image into meaningful regions or segments based on some criteria, such as pixel intensity, color, texture, etc.
+- Image thresholding is one of the simplest and most common techniques for image segmentation, which converts a grayscale image into a binary image by assigning pixels to either foreground or background based on a threshold value.
+- Variable thresholding is a type of image thresholding that adapts the threshold value to different regions of the image, rather than using a single global value for the whole image. This can improve the segmentation results for images that have uneven illumination, noise, or varying contrast.
+- Variable thresholding can be classified into two categories: local and adaptive.
+  - Local thresholding divides the image into smaller sub-images or windows, and applies a global thresholding method to each window separately. The threshold value for each window can be determined by the mean, median, mode, or other statistics of the pixel intensities within the window. Local thresholding can handle local variations in the image, but it may produce artifacts at the boundaries of the windows, and it requires a suitable window size to be chosen.
+  - Adaptive thresholding computes the threshold value for each pixel based on its local neighborhood, rather than using a fixed window size. The threshold value can be a function of the local mean, standard deviation, or other parameters of the pixel intensities. Adaptive thresholding can handle both global and local variations in the image, but it may be more computationally expensive and sensitive to noise than local thresholding.
+- Some examples of variable thresholding methods are:
+  - Niblack's method, which computes the threshold value for each pixel as the local mean plus a constant times the local standard deviation.
+  - Bernsen's method, which computes the threshold value for each pixel as the midpoint of the local minimum and maximum pixel intensities.
+  - Sauvola's method, which is a modification of Niblack's method that uses a dynamic parameter instead of a constant.
+  - Otsu's method, which is a global thresholding method that can be extended to local or adaptive thresholding by applying it to sub-images or neighborhoods of the image.
+  - Weighted Parzen-window method, which is a bi-level thresholding method based on estimating the probability density function of the pixel intensities using a weighted Parzen-window technique.

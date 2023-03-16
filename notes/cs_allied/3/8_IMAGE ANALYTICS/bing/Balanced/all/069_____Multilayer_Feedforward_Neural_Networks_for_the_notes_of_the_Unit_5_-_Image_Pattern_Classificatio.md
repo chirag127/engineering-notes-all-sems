@@ -1,0 +1,14 @@
+# Multilayer Feedforward Neural Networks
+
+- A multilayer feedforward neural network is an interconnection of perceptrons in which data and calculations flow in a single direction, from the input data to the outputs.
+- The number of layers in a neural network is the number of layers of perceptrons. The simplest neural network is one with a single input layer and an output layer of perceptrons.
+- A multilayer feedforward neural network can have one or more hidden layers between the input and output layers. The hidden layers can perform nonlinear transformations of the input data and extract features that are useful for the output task.
+- A multilayer feedforward neural network for classifying patterns into one of only two categories is referred to as a binary classification network. It has a single output: the estimated probability that the input pattern belongs to one of the two categories.
+- A multilayer feedforward neural network for classifying patterns into more than two categories is referred to as a multiclass classification network. It has as many outputs as the number of categories, and each output represents the estimated probability that the input pattern belongs to that category.
+- A multilayer feedforward neural network can also be used for regression tasks, where the output is a continuous value rather than a discrete category. In this case, the output layer can have one or more neurons, depending on the dimensionality of the output variable.
+- A multilayer feedforward neural network is also known as a multilayer perceptron (MLP) or a backpropagation network.
+- A multilayer feedforward neural network learns from data by adjusting the weights and biases of the neurons using a learning algorithm, such as gradient descent or stochastic gradient descent.
+- The learning algorithm uses a loss function to measure the discrepancy between the actual output and the desired output for each input pattern, and updates the weights and biases to minimize the loss function.
+- The learning algorithm also uses a backpropagation algorithm to compute the gradients of the loss function with respect to the weights and biases of each neuron, by propagating the errors from the output layer to the hidden layers and the input layer .
+- A multilayer feedforward neural network can be trained using supervised learning, where the desired output for each input pattern is known, or unsupervised learning, where the desired output is not known and the network learns to discover patterns or clusters in the input data.
+- A multilayer feedforward neural network can be applied to various domains, such as image pattern classification, speech recognition, natural language processing, computer vision, etc .

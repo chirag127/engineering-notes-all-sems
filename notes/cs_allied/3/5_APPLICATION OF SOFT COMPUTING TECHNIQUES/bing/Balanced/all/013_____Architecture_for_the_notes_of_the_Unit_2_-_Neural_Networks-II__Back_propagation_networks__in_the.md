@@ -1,0 +1,13 @@
+# Architecture of Back Propagation Networks
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to adjust the weights of the connections between neurons based on the error between the desired and actual output  .
+- A back propagation network consists of three main components: an input layer, one or more hidden layers, and an output layer  .
+- The input layer receives the input data and passes it to the first hidden layer. The hidden layers perform nonlinear transformations on the input data and pass it to the next layer. The output layer produces the final output of the network  .
+- The neurons in the hidden and output layers have biases, which are the connections from the units whose activation is always 1. The biases act as thresholds that shift the activation function of the neurons .
+- The number of neurons in the input and output layers depends on the dimensionality of the input and output data, respectively. The number of neurons and layers in the hidden layer depends on the complexity of the problem and is usually determined by trial and error .
+- The network structure is fully connected, meaning that each neuron in one layer is connected to every neuron in the next layer. The connections have weights that determine the strength of the influence of one neuron on another .
+- The network learns by adjusting the weights of the connections using a process called backpropagation. Backpropagation involves two steps: forward propagation and backward propagation  .
+- In forward propagation, the network computes the output for a given input and compares it with the desired output. The difference between the actual and desired output is the error or loss of the network  .
+- In backward propagation, the network propagates the error backward through the layers and updates the weights of the connections using a learning rule. The learning rule is based on the gradient descent algorithm, which minimizes the loss function of the network by moving the weights in the opposite direction of the gradient  .
+- The network repeats the forward and backward propagation steps for each input-output pair in the training data until the error is sufficiently small or a maximum number of iterations is reached  .
+- The network architecture determines how the network transforms the input into the output and affects the performance and efficiency of the network. Different architectures may have different advantages and disadvantages depending on the problem domain.

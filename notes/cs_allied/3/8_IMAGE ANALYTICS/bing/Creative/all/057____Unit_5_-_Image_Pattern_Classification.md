@@ -1,0 +1,22 @@
+# Unit 5 - Image Pattern Classification
+
+- Image pattern classification is the task of categorizing images into one or multiple predefined classes based on their visual content.
+- Image pattern classification is a subfield of computer vision and machine learning that deals with the recognition and analysis of images.
+- Image pattern classification can be applied to various domains, such as face recognition, medical imaging, remote sensing, biometrics, security, and surveillance.
+- Image pattern classification can be performed using different methods, such as supervised, unsupervised, or semi-supervised learning.
+  - Supervised learning: The images are labeled with the correct classes and the classifier is trained on a set of labeled images to learn the mapping between the images and the classes.
+  - Unsupervised learning: The images are not labeled and the classifier is trained to discover the inherent structure or clusters of the images based on their features.
+  - Semi-supervised learning: The images are partially labeled and the classifier is trained to leverage both the labeled and unlabeled images to improve the classification performance.
+- Image pattern classification generally consists of four parts: image acquisition, image preprocessing, feature extraction, and classification.
+  - Image acquisition: The images are captured by a camera or other devices and stored in a digital format.
+  - Image preprocessing: The images are enhanced or transformed to improve their quality or reduce their complexity.
+  - Feature extraction: The images are represented by a set of numerical or symbolic features that capture their salient characteristics and discriminate them from other classes.
+  - Classification: The images are assigned to one or more classes based on their features and a predefined decision rule or a learned model.
+- Image pattern classification can be based on different types of features, such as pixels, regions, edges, textures, shapes, colors, or descriptors .
+  - Pixels: The simplest and most common unit of measurement for image data, which represents the intensity or color value of a point in the image.
+  - Regions: The sub-images or windows that contain homogeneous or meaningful parts of the image, such as objects, backgrounds, or segments.
+  - Edges: The boundaries or contours that separate different regions or objects in the image, which can be detected by various edge detection algorithms.
+  - Textures: The patterns or variations of intensity or color that characterize the surface or appearance of an image region, which can be measured by various texture analysis methods .
+  - Shapes: The geometric or structural properties of an image region or object, such as size, orientation, curvature, or symmetry, which can be described by various shape descriptors.
+  - Colors: The spectral or chromatic attributes of an image region or object, such as hue, saturation, or brightness, which can be represented by various color models or spaces.
+  - Descriptors: The high-level or abstract features that capture the semantic or contextual information of an image region or object, such as SIFT, SURF, or HOG.

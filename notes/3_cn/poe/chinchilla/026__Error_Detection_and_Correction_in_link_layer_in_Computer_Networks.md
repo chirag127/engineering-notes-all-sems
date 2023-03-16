@@ -1,0 +1,19 @@
+#### Error Detection and Correction in Link Layer in Computer Networks
+
+The link layer is responsible for transmitting data between network devices over a physical connection. However, data transmission is not always perfect, and errors may occur during transmission due to noise or interference in the communication channel. To ensure the integrity of transmitted data, error detection and correction mechanisms are implemented in the link layer. In this article, we will discuss the various techniques used for error detection and correction in the link layer of computer networks.
+
+##### Error Detection Techniques
+
+1. **Parity Check**: Parity check is a simple technique used for error detection in the link layer. In this technique, an additional bit, known as the parity bit, is added to each data unit to check for errors. The parity bit is set to 1 or 0 depending on the number of 1s in the data unit. If the number of 1s is odd, the parity bit is set to 1, and if the number of 1s is even, the parity bit is set to 0. The receiver checks the parity bit to detect errors. However, this technique can only detect odd numbers of errors, and it is not suitable for detecting multiple errors.
+
+2. **Checksum**: Checksum is another popular technique used for error detection in the link layer. In this technique, a checksum value is calculated for each data unit, which is sent along with the data unit. The receiver calculates the checksum value for the received data unit and compares it with the checksum value sent by the sender. If the two values match, the data unit is assumed to be error-free. However, this technique can only detect errors with a high probability, and it is not suitable for detecting all errors.
+
+3. **Cyclic Redundancy Check (CRC)**: CRC is a widely used technique for error detection in the link layer. In this technique, a polynomial is used to generate a checksum value for each data unit. The checksum value is sent along with the data unit, and the receiver calculates the checksum value for the received data unit using the same polynomial. If the two values match, the data unit is assumed to be error-free. CRC can detect all types of errors, including multiple errors, and it is widely used in modern link layer protocols.
+
+##### Error Correction Techniques
+
+1. **Automatic Repeat Request (ARQ)**: ARQ is a popular technique used for error correction in the link layer. In this technique, the receiver sends an acknowledgement (ACK) message to the sender after receiving a data unit. If the sender does not receive an ACK message within a specified time period, it assumes that the data unit was not received correctly and retransmits the data unit. This process is repeated until the data unit is received correctly, or a maximum number of retransmissions is reached.
+
+2. **Forward Error Correction (FEC)**: FEC is another technique used for error correction in the link layer. In this technique, additional redundant bits are added to each data unit to enable error correction at the receiver. The receiver can use these redundant bits to correct errors without requiring retransmission of the data unit. FEC is widely used in modern link layer protocols, and it can provide high reliability with low overhead.
+
+In conclusion, error detection and correction mechanisms are essential for ensuring the integrity of data transmitted over a network. The link layer implements various techniques for error detection and correction, including parity check, checksum, CRC, ARQ, and FEC. These techniques can detect and correct errors with varying degrees of reliability and overhead, and they are widely used in modern link layer protocols to provide reliable data transmission.

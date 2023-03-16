@@ -1,0 +1,17 @@
+### The global structure of networks for the notes of the Unit 1 - Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is the study of the structure and dynamics of social networks, which are the patterns of relationships among individuals, groups, organizations, or other entities  .
+- SNA uses network and graph theory concepts to measure and visualize the properties of social networks, such as the size, density, centrality, clustering, and community structure  .
+- SNA can help understand the behavior of individuals and groups, the diffusion of information and innovations, the formation of norms and opinions, the emergence of leaders and influencers, the impact of social capital and trust, and the effects of network interventions on health, education, and development outcomes   .
+- SNA can be applied to various domains and use cases, such as social media analysis, organizational analysis, epidemiology, marketing, education, political science, history, and sociology   .
+- The global structure of networks refers to the overall shape and configuration of the network, which can reveal the characteristics and functions of the network . Some of the aspects of the global structure of networks are:
+
+  - The size of the network, which is the number of nodes (actors) and edges (relationships) in the network .
+  - The density of the network, which is the proportion of actual edges to the maximum possible edges in the network. A dense network has many connections among the nodes, while a sparse network has few connections .
+  - The diameter of the network, which is the longest shortest path between any pair of nodes in the network. A small diameter indicates that the network is compact and the nodes can reach each other quickly, while a large diameter indicates that the network is dispersed and the nodes are far apart .
+  - The degree distribution of the network, which is the frequency of nodes with a given number of edges. The degree distribution can indicate whether the network is homogeneous or heterogeneous, and whether it follows a random, regular, or scale-free model .
+  - The centrality of the network, which is the measure of the importance or influence of a node or a group of nodes in the network. There are different types of centrality, such as degree centrality, closeness centrality, betweenness centrality, and eigenvector centrality .
+  - The clustering of the network, which is the measure of the tendency of nodes to form groups or communities within the network. A high clustering coefficient indicates that the network has many triangles, which are the simplest form of cliques. A low clustering coefficient indicates that the network has few triangles and is more tree-like .
+  - The modularity of the network, which is the measure of the quality of the partition of the network into communities or modules. A high modularity indicates that the network has a clear community structure, where the nodes within a community are more connected to each other than to the nodes outside the community .
+
+- These aspects of the global structure of networks can help identify the patterns, roles, functions, and dynamics of the social network, and provide insights for network analysis and intervention   .

@@ -1,0 +1,12 @@
+### The generic architecture of Semantic Web applications
+
+- Semantic Web applications are software systems that use Semantic Web technologies to provide intelligent and interoperable services on the Web.
+- Semantic Web technologies include standards and languages for representing and querying data, such as RDF, SPARQL, OWL, and SKOS, as well as tools and frameworks for creating and managing data stores, vocabularies, and rules.
+- Semantic Web applications can be classified into two main categories based on their data access model: warehousing and on-demand.
+  - Warehousing applications collect and integrate data from multiple sources into a centralized repository, where they can be processed and analyzed offline. This model provides fast and consistent query responses, but requires a lot of preprocessing and maintenance, and may suffer from data staleness and incompleteness.
+  - On-demand applications query data from distributed sources at runtime, using techniques such as federated query processing, semantic web services, and linked data. This model provides up-to-date and comprehensive query results, but may incur high network and computational costs, and may face issues of data quality and availability.
+- The generic architecture of Semantic Web applications consists of four main components: data sources, data access, data processing, and data presentation.
+  - Data sources are the providers of data that can be accessed and used by Semantic Web applications. They can be internal or external, structured or unstructured, static or dynamic, and can use different formats and protocols.
+  - Data access is the component that enables Semantic Web applications to retrieve and manipulate data from data sources. It can use different methods and techniques, such as SPARQL endpoints, RESTful APIs, semantic web services, and linked data browsers.
+  - Data processing is the component that performs operations and transformations on the data, such as reasoning, inference, classification, clustering, summarization, and visualization. It can use different tools and frameworks, such as Jena, Sesame, Pellet, and Protégé.
+  - Data presentation is the component that displays and communicates the data to the users or other applications. It can use different formats and media, such as HTML, XML, JSON, RDFa, SVG, and charts.

@@ -1,0 +1,24 @@
+### Evaluation through analysis for the notes of the Unit 5 - Evaluation of Social Network Analysis
+
+- Social network analysis (SNA) is a tool used in modern sociology to identify the links between individuals in various social systems.
+- SNA can also be used in monitoring and evaluation in order to probe deeper into the power of the social network and how it can be used to measure program outcomes and impact.
+- SNA analyses the behavior of the individual at the micro level, the pattern of relationships (network structure) at the macro level, and the interactions between the two.
+- SNA helps the understanding of phenomena that emerge from the interaction of individuals or institutions and is useful to identify the key actors, the information flows, the social capital, and the network dynamics .
+- SNA can be used for developing and evaluating complex healthcare interventions by studying how social relationships within a network are established and evolve, and how they affect the implementation and outcomes of the interventions .
+- SNA can be applied in different phases of the evaluation process, such as:
+  - Planning: to map the existing or potential network of stakeholders, identify their roles and interests, and design the evaluation questions and methods .
+  - Data collection: to collect quantitative and qualitative data on the network structure, the network attributes, and the network relations using various methods, such as surveys, interviews, observations, or secondary data sources .
+  - Data analysis: to use software tools, such as UCINET, Gephi, or R, to analyze the network data and generate network metrics, such as density, centrality, cohesion, or subgroups, and network visualizations, such as graphs, matrices, or sociograms .
+  - Data interpretation: to interpret the network metrics and visualizations in relation to the evaluation questions and the context of the network, and to identify the strengths and weaknesses of the network, the opportunities and challenges for the intervention, and the recommendations for improvement .
+  - Data dissemination: to communicate the network findings to the relevant stakeholders using appropriate formats, such as reports, presentations, dashboards, or interactive tools, and to facilitate the use of the findings for decision making, learning, or action .
+- SNA can provide valuable insights for evaluation, such as:
+  - The extent and quality of collaboration and coordination among the network actors .
+  - The influence and power of different actors in the network and their roles and functions .
+  - The information and resource flows within the network and the gaps and bottlenecks that may hinder the intervention .
+  - The social capital and trust that exist in the network and how they affect the intervention .
+  - The network dynamics and changes over time and how they relate to the intervention outcomes and impact .
+- SNA can also have some limitations and challenges for evaluation, such as:
+  - The complexity and cost of collecting and analyzing network data, especially for large and dynamic networks .
+  - The ethical and privacy issues of collecting and sharing network data, especially for sensitive or vulnerable groups .
+  - The difficulty of attributing the network effects to the intervention, especially when there are multiple and interacting factors that influence the network and the outcomes .
+  - The need for adequate skills and capacities of the evaluators and the stakeholders to conduct and use SNA .

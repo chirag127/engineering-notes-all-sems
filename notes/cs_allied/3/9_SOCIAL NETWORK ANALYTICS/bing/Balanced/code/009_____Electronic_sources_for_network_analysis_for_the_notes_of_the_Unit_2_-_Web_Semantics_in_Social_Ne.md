@@ -1,0 +1,12 @@
+### Electronic sources for network analysis
+
+- Network analysis is the process of determining the electrical parameters of a circuit or network, such as voltage, current, resistance, impedance, power, etc. 
+- Network analysis can be performed using various methods, such as Kirchhoff's laws, mesh analysis, nodal analysis, superposition, Thevenin's theorem, Norton's theorem, etc. 
+- Electronic sources are devices that provide electrical energy to a circuit or network, such as batteries, generators, solar cells, etc. 
+- Electronic sources can be classified into two types: voltage sources and current sources. 
+- A voltage source is a device that maintains a constant voltage across its terminals, regardless of the current flowing through it. A voltage source can be ideal or practical. An ideal voltage source has zero internal resistance, while a practical voltage source has some internal resistance. 
+- A current source is a device that maintains a constant current through its terminals, regardless of the voltage across it. A current source can be ideal or practical. An ideal current source has infinite internal resistance, while a practical current source has some internal resistance. 
+- Electronic sources can be transformed from one type to another using source transformation techniques. Source transformation is a method of simplifying complex electrical networks by converting voltage sources to current sources and vice versa. 
+- Electronic sources can be connected in series or parallel to form equivalent sources. Series connection means that the sources have the same current but different voltages. Parallel connection means that the sources have the same voltage but different currents. 
+- Electronic sources can be used for network analysis by applying various circuit laws and theorems, such as Ohm's law, Kirchhoff's laws, superposition, Thevenin's theorem, Norton's theorem, etc. These laws and theorems help to find the equivalent resistance, voltage, current, and power of a network.  
+- Electronic sources can also be measured and calibrated using network analyzers. Network analyzers are instruments that measure the frequency response, impedance, and other characteristics of electronic networks. Network analyzers can apply corrections for cables and connectors by comparing what they measure to the values of the standards.

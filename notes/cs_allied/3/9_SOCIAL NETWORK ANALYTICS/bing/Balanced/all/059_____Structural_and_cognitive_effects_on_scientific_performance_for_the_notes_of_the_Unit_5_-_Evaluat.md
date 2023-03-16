@@ -1,0 +1,13 @@
+# Structural and cognitive effects on scientific performance
+
+- Scientific performance is the outcome of scientific activities, such as publications, citations, grants, awards, etc.
+- Scientific performance can be influenced by various factors, such as individual characteristics, social networks, institutional contexts, etc.
+- Structural effects refer to the effects of the network structure on scientific performance, such as the number, diversity, and quality of connections, the position and role of the actor in the network, the density and cohesion of the network, etc.
+- Cognitive effects refer to the effects of the cognitive abilities and processes on scientific performance, such as memory, attention, executive function, creativity, etc.
+- Structural and cognitive effects can interact and influence each other, as well as mediate or moderate the effects of other factors on scientific performance.
+
+## Examples of structural and cognitive effects on scientific performance
+
+- A study by  found that the centrality of an actor in the scientific community, measured by the degree and betweenness centrality, had a positive effect on the number of publications and citations, but a negative effect on the quality of publications, measured by the impact factor. The authors suggested that central actors may face trade-offs between quantity and quality of scientific output, and that they may benefit from reducing their centrality and increasing the overall connectivity of the network.
+- A study by  reviewed the effects of physical exercise (PE) on cognitive functioning and wellbeing in children and adolescents. The authors found that PE had positive effects on various cognitive domains, such as attention, memory, executive function, and academic achievement, as well as on psychological wellbeing, such as mood, self-esteem, and motivation. The authors also suggested that PE may enhance brain structure and function, such as hippocampal volume, neurogenesis, and neuroplasticity, which may underlie the cognitive and emotional benefits of PE.
+- A study by  examined the effects of chronic cocaine use on brain structure and cognitive function in rhesus monkeys. The authors found that cocaine use led to structural changes in the brain regions involved in addiction and relapse, such as the prefrontal cortex, the striatum, and the amygdala, as well as impairments in cognitive performance, such as working memory, impulse control, and decision making. The authors also found that some of these effects persisted after prolonged abstinence, suggesting that cocaine use may have long-lasting consequences on the brain and behavior.

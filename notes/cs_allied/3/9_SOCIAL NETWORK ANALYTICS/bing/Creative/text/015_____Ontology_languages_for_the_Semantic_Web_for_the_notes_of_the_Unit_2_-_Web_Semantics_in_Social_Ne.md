@@ -1,0 +1,12 @@
+### Ontology languages for the Semantic Web
+
+- Ontology languages are formal languages that are used to represent the concepts, properties, and relations of a domain of knowledge in a machine-readable and interoperable way.
+- Ontology languages are essential for the Semantic Web, which is an extension of the current web that aims to make the web content more meaningful and accessible for intelligent agents and applications.
+- Ontology languages can be classified into different levels of expressiveness and complexity, depending on the trade-off between the reasoning capabilities and the computational cost.
+- Some of the most widely used ontology languages for the Semantic Web are:
+
+  - XML (eXtensible Markup Language): a general-purpose markup language that defines a set of rules for encoding documents in a human-readable and machine-readable format. XML is not an ontology language per se, but it provides a common syntax and structure for other ontology languages.
+  - RDF (Resource Description Framework): a framework for representing information about resources in the web using triples of the form (subject, predicate, object). RDF can be serialized in different formats, such as XML, N-Triples, Turtle, or JSON-LD. RDF is a simple ontology language that can express basic facts and relations, but it lacks the ability to define complex concepts and constraints.
+  - RDFS (RDF Schema): an extension of RDF that adds the ability to define classes, subclasses, properties, domains, and ranges of properties. RDFS can be used to create simple ontologies and vocabularies, but it still has limited expressiveness and reasoning support.
+  - OWL (Web Ontology Language): a family of ontology languages that are based on description logic and that provide more expressive and powerful features than RDF and RDFS, such as cardinality restrictions, disjointness, equivalence, inverse properties, and logical operators. OWL can be used to create rich and complex ontologies and to perform automated reasoning and inference. OWL has different sublanguages, such as OWL Lite, OWL DL, and OWL Full, that vary in their expressiveness and decidability .
+  - Other ontology languages for the Semantic Web include KIF (Knowledge Interchange Format), SHOE (Simple HTML Ontology Extensions), OIL (Ontology Interchange Language), and DAML+OIL (DARPA Agent Markup Language + Ontology Interchange Language), which are predecessors or variants of OWL.

@@ -1,0 +1,22 @@
+## Unit 4 - Developing Social-Semantic Applications
+
+- Social-semantic applications are applications that combine social media and semantic web technologies to provide users with rich and personalized experiences.
+- Social media refers to the platforms and services that enable users to create, share, and consume user-generated content, such as blogs, wikis, social networks, microblogs, etc.
+- Semantic web refers to the vision and technologies that aim to make the web more understandable and interoperable for machines, such as RDF, OWL, SPARQL, etc.
+- Social-semantic applications can benefit from both the social and the semantic aspects of the web, such as:
+  - Leveraging the collective intelligence and wisdom of the crowds to create and enrich semantic data.
+  - Enhancing the social interactions and recommendations with semantic annotations and reasoning.
+  - Providing users with more control and ownership over their data and preferences with linked data principles and standards.
+  - Enabling cross-platform and cross-domain integration and interoperability with common vocabularies and ontologies.
+- Some examples of social-semantic applications are:
+  - DBpedia, which extracts structured data from Wikipedia and publishes it as linked data on the web.
+  - FOAF, which is a vocabulary for describing people and their social networks using RDF.
+  - SIOC, which is a vocabulary for describing online communities and their content using RDF.
+  - TwitLogic, which is a system that transforms tweets into RDF triples and links them to other semantic web resources.
+  - Revyu, which is a service that allows users to rate and review anything using RDF and SPARQL.
+- Developing social-semantic applications involves the following steps:
+  - Identifying the user needs and requirements for the application domain and scenario.
+  - Choosing the appropriate social media and semantic web technologies and tools for the application.
+  - Designing and implementing the user interface and the backend components of the application.
+  - Evaluating and testing the application with real users and data.
+  - Deploying and maintaining the application on the web.

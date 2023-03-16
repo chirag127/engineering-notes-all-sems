@@ -1,0 +1,10 @@
+### Data collection for social network analysis
+
+- Data collection is the process of obtaining information about the structure and dynamics of social networks, such as the actors, ties, and attributes involved.
+- Data collection methods for social network analysis can be classified into two types: socio-centric and ego-centric.
+  - Socio-centric methods focus on the whole network or a well-defined subset of actors, such as an organization, a community, or a group. Socio-centric methods require identifying and surveying all the actors in the network, and asking them to report their ties with other actors. This can be done using saturation surveys, where respondents are given a roster of all network members and asked to indicate their relationships with them  .
+  - Ego-centric methods focus on the personal network of a single actor or a sample of actors, such as an individual, a household, or a respondent. Ego-centric methods require asking the actor to name and describe their alters (the people they are connected to), and optionally asking the alters to report their ties with other alters. This can be done using name generators, where respondents are asked to list the people they interact with for a specific topic or context, and name interpreters, where respondents are asked to provide information about their alters, such as their attributes, their relationship, and their frequency of contact.
+- Data collection challenges for social network analysis include:
+  - Defining the network boundary, scope, and level of analysis, such as the criteria for selecting the actors and ties, the type and direction of the relationships, and the unit and scale of measurement.
+  - Ensuring the validity, reliability, and completeness of the data, such as the accuracy and consistency of the respondents' reports, the coverage and response rate of the surveys, and the missing and erroneous data.
+  - Preprocessing the data for analysis, such as transforming, reducing, or enriching the data to make it more suitable for SNA. This can include cleaning, coding, formatting, aggregating, filtering, imputing, or augmenting the data.

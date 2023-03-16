@@ -1,0 +1,22 @@
+# Storage and Reasoning for Social Network Analysis
+
+- Social network analysis (SNA) is the process of exploring or examining the social structure by using graph theory.
+- SNA helps to measure relationships and flows between groups, organizations, and other connected entities.
+- SNA can be applied to various domains and applications, such as sentiment analysis, opinion mining, recommender systems, community detection, etc.
+- SNA requires data that represents the social network, such as nodes (actors), edges (relations), and attributes (properties) of nodes and edges.
+- The data can be obtained from various sources, such as text, databases, sensor networks, communication systems, and social media.
+- The data can be stored in different formats, such as matrices, lists, tables, or graphs.
+- The most common format for storing social network data is the sociomatrix, which is a matrix data structure that depicts the relations between people in the form of a graph.
+- The sociomatrix can be binary (indicating the presence or absence of a relation) or valued (indicating the strength or weight of a relation).
+- The sociomatrix can also be symmetric (indicating that the relation is reciprocal) or asymmetric (indicating that the relation is directional).
+- The sociomatrix can be used to perform various operations and calculations on the social network, such as finding the degree, centrality, density, clustering, etc.
+- The sociomatrix can also be converted to other formats, such as adjacency lists, edge lists, or graph objects, depending on the needs and preferences of the analyst.
+- The reasoning for social network analysis is the process of applying analytical tools and methods to the social network data to achieve certain goals or objectives.
+- The reasoning for social network analysis can be divided into six main stages: problem definition, data gathering and preparation, social network modeling, social network analysis, interpretation and evaluation, and presentation and reporting.
+- The problem definition stage involves identifying the research question, the purpose, the scope, and the expected outcomes of the analysis.
+- The data gathering and preparation stage involves collecting and cleaning the data, as well as defining the nodes, edges, and attributes of the social network.
+- The social network modeling stage involves choosing the appropriate format and representation of the social network, such as the sociomatrix, the adjacency list, the edge list, or the graph object.
+- The social network analysis stage involves applying various techniques and algorithms to the social network model, such as network measures, network visualization, network statistics, network dynamics, network comparison, etc.
+- The interpretation and evaluation stage involves analyzing and assessing the results of the social network analysis, as well as validating and verifying the findings and conclusions.
+- The presentation and reporting stage involves communicating and disseminating the results of the social network analysis, as well as providing recommendations and implications for the stakeholders.
+- The reasoning for social network analysis can help to gain insights into the social structure, the patterns, the trends, the behaviors, the influences, and the outcomes of the social network.

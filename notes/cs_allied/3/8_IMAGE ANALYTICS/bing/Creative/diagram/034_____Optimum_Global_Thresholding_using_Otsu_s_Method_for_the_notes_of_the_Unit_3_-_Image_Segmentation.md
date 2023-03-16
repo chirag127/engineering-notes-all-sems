@@ -1,0 +1,21 @@
+### Optimum Global Thresholding using Otsu’s Method
+
+- Otsu’s method is a technique of performing global thresholding on a digital image. It is optimum in the sense that it maximizes the between-class variance .
+- Global thresholding is a process of converting a grayscale image into a binary image by using a single intensity value as a threshold .
+- Otsu’s method assumes that the image histogram has two peaks, one for the foreground pixels and one for the background pixels, and tries to find the optimal threshold that separates them  .
+- Otsu’s method can be formulated as an optimization problem, where the objective function is the within-class variance of the thresholded image, and the goal is to minimize it  .
+- Otsu’s method can be implemented as follows  :
+  - Compute the normalized histogram of the image, denoted by p(i), where i is the intensity level ranging from 0 to L-1, and L is the number of possible intensity levels.
+  - Initialize the optimal threshold T to 0, and the minimum within-class variance to infinity.
+  - For each intensity level i from 0 to L-2, do the following:
+    - Compute the probability of the background class, denoted by w0, as the sum of p(j) for j from 0 to i.
+    - Compute the mean intensity of the background class, denoted by u0, as the weighted sum of j*p(j) for j from 0 to i, divided by w0.
+    - Compute the probability of the foreground class, denoted by w1, as the sum of p(j) for j from i+1 to L-1.
+    - Compute the mean intensity of the foreground class, denoted by u1, as the weighted sum of j*p(j) for j from i+1 to L-1, divided by w1.
+    - Compute the within-class variance, denoted by sigma, as w0*(u0-u)^2 + w1*(u1-u)^2, where u is the overall mean intensity of the image.
+    - If sigma is less than the current minimum within-class variance, update T to i and the minimum within-class variance to sigma.
+  - Return T as the optimal threshold.
+- Otsu’s method can also be interpreted as a one-dimensional discrete analogue of Fisher's Discriminant Analysis, is related to Jenks optimization method, and is equivalent to a globally optimal k-means performed on the intensity histogram.
+- Otsu’s method is simple, fast, and effective for images with bimodal histograms, but it may not work well for images with multimodal histograms or uneven illumination  .
+- Otsu’s method can be extended to multilevel thresholding, where more than two classes are considered, by using a recursive or iterative approach .
+- Otsu’s method can be implemented using various libraries and tools, such as OpenCV, MATLAB, scikit-image, etc .

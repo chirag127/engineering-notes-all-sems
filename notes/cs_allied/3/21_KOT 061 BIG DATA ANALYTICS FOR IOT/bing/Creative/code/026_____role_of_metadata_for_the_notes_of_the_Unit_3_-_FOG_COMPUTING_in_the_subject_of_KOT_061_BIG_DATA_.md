@@ -1,0 +1,10 @@
+# Role of Metadata for the Notes of the Unit 3 - Fog Computing in the Subject of KOT 061 Big Data Analytics for IoT KCS
+
+- Metadata is data that describes other data, such as its source, format, quality, and context.
+- Metadata plays an important role in fog computing, which is a distributed and virtualized platform that extends cloud computing to the edge of the network, where IoT devices generate and consume data.
+- Some of the roles of metadata in fog computing are:
+
+  - **Data optimization**: Metadata can help optimize data analytics by storing information closer to the data source for real-time analysis. This can reduce latency, bandwidth, and energy consumption, as well as improve security and privacy. Metadata can also help decide whether to process the data locally using fog resources or send it to the cloud for long-term storage and analysis that doesn’t require immediate action .
+  - **Data integration**: Metadata can help integrate data from multiple sources and devices in fog computing, by providing information about the data semantics, provenance, and quality. Metadata can also help resolve data heterogeneity and inconsistency issues, by enabling data transformation, mapping, and fusion.
+  - **Data sharing**: Metadata can help share data and analytical summaries among different fog nodes and cloud platforms, by providing information about the data location, availability, and access policies. Metadata can also help enable data discovery, retrieval, and exchange among different fog applications and services .
+  - **Data management**: Metadata can help manage data in fog computing, by providing information about the data lifecycle, storage, backup, replication, and deletion. Metadata can also help monitor and control data flows, quality, and security in fog computing, by providing information about the data events, errors, and anomalies.

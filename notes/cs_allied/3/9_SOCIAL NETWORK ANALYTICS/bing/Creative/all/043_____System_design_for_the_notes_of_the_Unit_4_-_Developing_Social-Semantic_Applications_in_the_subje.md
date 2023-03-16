@@ -1,0 +1,24 @@
+# System design for the notes of the Unit 4 - Developing Social-Semantic Applications
+
+- Social-semantic applications are applications that use the semantic web technologies and social network analysis to provide novel and useful functionalities for the users of the social web.
+- The semantic web is an extension of the current web that aims to make the data on the web more understandable and interoperable for machines by using ontologies, RDF, and other standards.
+- Social network analysis is a field of study that investigates the structure, dynamics, and properties of social networks, which are collections of entities (nodes) and their relationships (edges).
+- Developing social-semantic applications involves the following steps:
+  - Identifying the domain and the user needs for the application
+  - Modeling the domain and the social network using ontologies and RDF
+  - Collecting and integrating data from various sources, such as web pages, blogs, wikis, social media platforms, etc.
+  - Analyzing the data using social network analysis methods and metrics, such as centrality, clustering, community detection, etc.
+  - Providing the results and functionalities to the users using web interfaces, visualization tools, recommender systems, etc.
+- Some examples of social-semantic applications are:
+  - FOAF, which is a project to create a web of personal connections using RDF and ontologies
+  - SIOC, which is a project to link online communities using RDF and ontologies
+  - DBpedia, which is a project to extract structured data from Wikipedia and make it available as RDF
+  - BibSonomy, which is a social bookmarking and publication sharing system that uses RDF and ontologies
+  - Flickr, which is a photo-sharing platform that allows users to tag their photos with keywords and geolocations
+- Some challenges and opportunities for developing social-semantic applications are:
+  - Dealing with the heterogeneity, incompleteness, and inconsistency of the data on the web
+  - Ensuring the privacy and security of the users and their data
+  - Enhancing the usability and user experience of the applications
+  - Leveraging the collective intelligence and the wisdom of the crowds
+  - Exploiting the feedback loops and the network effects
+  - Evaluating the impact and the value of the applications

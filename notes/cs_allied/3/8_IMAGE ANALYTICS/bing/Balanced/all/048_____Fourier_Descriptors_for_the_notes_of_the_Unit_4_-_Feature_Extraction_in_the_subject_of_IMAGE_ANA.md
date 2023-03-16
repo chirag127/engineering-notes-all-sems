@@ -1,0 +1,24 @@
+# Fourier Descriptors for Feature Extraction
+
+- Fourier descriptors are a method of representing the shape of an object by using the Fourier transform of its boundary points.
+- Fourier descriptors can capture both global and local features of a shape, and can be invariant to translation, rotation, scaling, and starting point of the boundary.
+- Fourier descriptors can be computed as follows:
+  - Extract the boundary pixels of the object and store them in a sequence of complex numbers, where the real and imaginary parts are the x and y coordinates of the pixels.
+  - Apply the discrete Fourier transform (DFT) to the sequence of complex numbers to obtain a set of Fourier coefficients, which are also complex numbers.
+  - The Fourier coefficients are the Fourier descriptors of the shape, and they represent the frequency components of the boundary curve.
+  - The low-frequency coefficients capture the coarse features of the shape, while the high-frequency coefficients capture the fine details of the shape.
+  - The number of Fourier coefficients can be reduced by discarding the high-frequency coefficients, which are more sensitive to noise and less relevant for recognition.
+  - The Fourier descriptors can be made invariant to translation by setting the first coefficient to zero, which corresponds to the mean position of the boundary points.
+  - The Fourier descriptors can be made invariant to rotation by taking the magnitude of the coefficients, which eliminates the phase information.
+  - The Fourier descriptors can be made invariant to scaling by dividing the coefficients by the magnitude of the first nonzero coefficient, which normalizes the size of the shape.
+  - The Fourier descriptors can be made invariant to starting point of the boundary by shifting the coefficients by a certain amount, which corresponds to the circular shift of the boundary points.
+- Fourier descriptors can be used for various applications, such as shape recognition, shape classification, shape retrieval, and shape analysis.
+- Fourier descriptors have some advantages and disadvantages:
+  - Advantages:
+    - They are easy to compute and manipulate.
+    - They can handle complex and irregular shapes.
+    - They can be modified to achieve different levels of invariance and resolution.
+  - Disadvantages:
+    - They are sensitive to noise and boundary distortions.
+    - They cannot handle occluded or mixed shapes.
+    - They may lose some shape information due to coefficient reduction.

@@ -1,0 +1,9 @@
+### Network analysis for the notes of the Unit 1 - Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Network analysis is a method of studying the structure and behavior of social entities (such as individuals, groups, organizations, etc.) and their relationships (such as connections, interactions, influences, etc.) using networks and graph theory.
+- A network is a collection of nodes (also called vertices or actors) and links (also called edges or ties) that connect them. Nodes represent the social entities and links represent the relationships between them.
+- A graph is a mathematical representation of a network, where nodes are usually depicted as points or circles and links are usually depicted as lines or curves.
+- Network analysis can be used to measure various properties of networks, such as size, density, centrality, clustering, distance, path, connectivity, etc. These properties can help to understand the characteristics, patterns, and dynamics of social phenomena.
+- Network analysis can also be used to identify and analyze different types of networks, such as ego networks, personal networks, affiliation networks, communication networks, collaboration networks, etc. These types of networks can help to understand the roles, functions, and impacts of social entities and their relationships.
+- Network analysis can be applied to various domains and disciplines, such as sociology, psychology, anthropology, economics, management, education, health, politics, etc. It can also be used to study networks outside of the social realm, such as biological networks, technological networks, ecological networks, etc.
+- Network analysis can be performed using various tools and techniques, such as data collection, data processing, data visualization, data analysis, data interpretation, etc. There are also various software and platforms that can facilitate network analysis, such as UCINET, Gephi, NodeXL, R, Python, etc.

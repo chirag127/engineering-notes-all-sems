@@ -1,0 +1,14 @@
+### The features of Flink
+
+Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink can handle any kind of stream, whether it is real-time or batch, and provide sophisticated features such as event-time processing, state management, and exactly-once consistency . Flink can also run on various resource providers, such as YARN, Kubernetes, or stand-alone clusters.
+
+Some of the features of Flink are:
+
+- **Real-time ordering**: Flink can order events based on their timestamps, regardless of their arrival order, and provide correct results for time-based operations, such as windows, joins, or aggregations .
+- **Real-time tracking**: Flink can track the state of each event or entity in the stream, and update it as new events arrive. This allows Flink to perform complex analytics, such as fraud detection, anomaly detection, or user behavior analysis .
+- **Real-time discounts**: Flink can apply dynamic pricing or discounts to events or entities in the stream, based on their attributes, such as location, time, or demand. This allows Flink to optimize revenue or customer satisfaction.
+- **Real-time delivery navigation**: Flink can provide real-time navigation and routing for delivery services, such as groceries, food, or e-commerce. Flink can optimize the delivery routes based on traffic, weather, or customer preferences.
+- **Real-time personalized shopping**: Flink can provide real-time personalized recommendations or offers to customers, based on their shopping history, preferences, or context. Flink can also integrate with external data sources, such as social media, to enhance the personalization.
+- **Get groceries delivered in under an hour**: Flink can power on-demand grocery delivery services, such as Flink, that can deliver fresh produce and packaged goods directly from local stores via the app. Flink can handle high volumes of orders, inventory, and deliveries, and provide a seamless customer experience.
+- **Scan items into your cart with your phone**: Flink can enable scan-and-go shopping experiences, where customers can scan items into their cart with their phone, and pay with a single tap. Flink can process the scans, payments, and receipts in real-time, and provide feedback to the customers and the store.
+- **Buy fresh produce and packaged goods directly from local stores via the app**: Flink can enable online-to-offline shopping experiences, where customers can browse and buy products from local stores via the app, and pick them up or get them delivered. Flink can manage the online catalog, the inventory, and the fulfillment of the orders, and provide a convenient and fast service.

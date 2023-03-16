@@ -1,0 +1,12 @@
+### Ontology languages for the Semantic Web
+
+- Ontology languages are formal languages that are used to represent the concepts, properties, and relations of a domain of knowledge in a machine-readable way.
+- Ontology languages enable the semantic web, which is an extension of the current web that aims to make the web content more meaningful and interoperable for humans and machines.
+- Ontology languages differ from markup languages such as HTML, which only describe the structure and presentation of web pages, but not their meaning or semantics.
+- Some of the main ontology languages for the semantic web are:
+
+  - **XML (eXtensible Markup Language)**: A general-purpose language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. XML is the basis for many other languages, such as RDF and OWL.
+  - **RDF (Resource Description Framework)**: A language that expresses information about resources on the web using triples of the form (subject, predicate, object). RDF can be serialized in different formats, such as XML, N-Triples, Turtle, or JSON-LD.
+  - **RDFS (RDF Schema)**: A language that defines a vocabulary for describing the classes and properties of RDF resources, as well as the constraints and relationships between them. RDFS is an extension of RDF that provides basic ontological features, such as subclass, subproperty, domain, and range.
+  - **OWL (Web Ontology Language)**: A language that extends RDFS with more expressive features, such as cardinality, disjointness, equivalence, inverse, transitivity, and restrictions. OWL is based on description logic, which is a family of logic languages that allow for automated reasoning and inference. OWL has different sublanguages, such as OWL Lite, OWL DL, and OWL Full, with different levels of expressivity and complexity .
+  - **Other ontology languages**: There are also other ontology languages that have been proposed or used for the semantic web, such as KIF (Knowledge Interchange Format), SHOE (Simple HTML Ontology Extensions), OIL (Ontology Interchange Language), DAML (DARPA Agent Markup Language), and DAML+OIL (a combination of DAML and OIL)   . However, these languages are less widely adopted or standardized than XML, RDF, RDFS, and OWL.

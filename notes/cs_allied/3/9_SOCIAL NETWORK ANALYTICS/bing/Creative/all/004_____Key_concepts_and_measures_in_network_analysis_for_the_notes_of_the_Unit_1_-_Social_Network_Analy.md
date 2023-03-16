@@ -1,0 +1,21 @@
+# Key concepts and measures in network analysis
+
+- Network analysis is a method of studying the structure and behavior of complex systems composed of many interacting elements, such as social networks, computer networks, biological networks, etc.  
+- Network analysis involves the following steps:
+  - Network data collection: gathering information about the elements and their interactions in the system of interest.
+  - Network representation: choosing a suitable way to model the system as a network, such as a graph, a matrix, or a tensor.
+  - Network analysis and review: applying various techniques and measures to analyze the network and its properties, such as centrality, density, clustering, community detection, etc.
+  - Network interpretation and visualization: deriving insights and conclusions from the network analysis and presenting them in a clear and meaningful way, such as using charts, diagrams, or maps.
+- Some of the key concepts and measures in network analysis are   :
+  - Node: an element or an actor in the network, such as a person, a computer, a gene, etc.
+  - Edge: a connection or a relation between two nodes in the network, such as a friendship, a communication, a interaction, etc.
+  - Degree: the number of edges connected to a node, indicating its activity or popularity in the network.
+  - Path: a sequence of edges that connects two nodes in the network, indicating their distance or closeness in the network.
+  - Shortest path: the path with the minimum number of edges between two nodes in the network, indicating their efficiency or accessibility in the network.
+  - Diameter: the maximum shortest path length among all pairs of nodes in the network, indicating the size or span of the network.
+  - Centrality: a measure of the importance or influence of a node in the network, based on various criteria, such as degree, closeness, betweenness, eigenvector, etc.
+  - Density: the ratio of the number of actual edges to the number of possible edges in the network, indicating the connectivity or cohesion of the network.
+  - Clustering: the tendency of nodes to form groups or communities in the network, based on their similarity or affinity in the network.
+  - Modularity: a measure of the quality of the network partition into clusters or communities, based on the difference between the actual and the expected number of edges within and between the clusters.
+  - Network type: a classification of the network based on its characteristics, such as directed or undirected, weighted or unweighted, bipartite or multipartite, etc.
+  - Network model: a mathematical or statistical representation of the network that captures its essential features, such as random graph, small-world, scale-free, etc.

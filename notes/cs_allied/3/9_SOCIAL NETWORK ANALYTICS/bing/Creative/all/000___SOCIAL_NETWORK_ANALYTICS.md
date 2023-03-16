@@ -1,0 +1,22 @@
+# SOCIAL NETWORK ANALYTICS
+
+- Social network analytics is the application of social network analysis (SNA) to various types of data, such as social media, communication, collaboration, and transaction data, to gain insights into the patterns and behaviors of social actors and their relationships .
+- Social network analytics can be used for various purposes, such as:
+  - Understanding the structure and dynamics of social networks, such as communities, clusters, bridges, brokers, influencers, and outliers .
+  - Measuring the social capital, trust, reputation, and influence of social actors within and across networks .
+  - Analyzing the diffusion of information, opinions, innovations, and behaviors through social networks .
+  - Detecting and preventing fraud, spam, cyberattacks, and other malicious activities by identifying anomalous or suspicious patterns and actors .
+  - Recommending products, services, content, or connections to social actors based on their preferences, interests, and network positions .
+  - Optimizing the design and performance of social media platforms, campaigns, and strategies by evaluating their reach, engagement, and impact .
+- Social network analytics involves various steps, such as:
+  - Collecting and preprocessing data from various sources, such as social media platforms, web pages, emails, phone calls, surveys, etc. .
+  - Constructing and representing social networks as graphs, where nodes are social actors and edges are relationships or interactions .
+  - Applying network metrics and algorithms to analyze the properties and patterns of social networks, such as density, centrality, degree, closeness, betweenness, eigenvector, clustering coefficient, modularity, etc. .
+  - Visualizing and interpreting the results of social network analytics using graphs, charts, maps, dashboards, etc. .
+  - Evaluating and validating the results of social network analytics using statistical methods, such as hypothesis testing, correlation, regression, etc. .
+- Social network analytics requires various skills and tools, such as:
+  - Knowledge of social network theory, concepts, and methods .
+  - Proficiency in data collection, cleaning, integration, and management .
+  - Familiarity with network analysis software and programming languages, such as R, Python, Gephi, UCINET, NodeXL, etc. .
+  - Ability to visualize and communicate the results of social network analytics using graphs, charts, maps, dashboards, etc. .
+  - Creativity and critical thinking to generate and test hypotheses, insights, and recommendations based on social network analytics .

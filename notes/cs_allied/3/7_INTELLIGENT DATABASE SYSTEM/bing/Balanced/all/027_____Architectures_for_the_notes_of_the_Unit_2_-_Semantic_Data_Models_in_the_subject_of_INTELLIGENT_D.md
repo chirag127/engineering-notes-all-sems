@@ -1,0 +1,14 @@
+# Architectures for Semantic Data Models
+
+Semantic data models are high-level conceptual data models that include semantic information to describe the meaning and relationships of data. Semantic data models can be used to design databases, exchange information, and support knowledge representation and reasoning. Semantic data models can be classified into three main architectures:
+
+- **Entity-relationship model**: This is the most common and widely used semantic data model. It represents data as entities (objects or concepts) and relationships (associations or links) between them. Entities have attributes (properties or characteristics) and relationships have cardinalities (constraints or rules) that specify the number of entities that can participate in a relationship. Entity-relationship models can be represented graphically using diagrams or textually using schemas. Entity-relationship models are suitable for modeling structured and semi-structured data, such as relational databases, XML documents, and RDF graphs.  
+
+- **Object-oriented model**: This is a semantic data model that extends the entity-relationship model by adding inheritance, encapsulation, and polymorphism. Inheritance allows entities to inherit attributes and relationships from other entities (superclasses or parents) and to define new ones (subclasses or children). Encapsulation hides the internal details of entities and exposes only the relevant operations (methods or functions) that can be performed on them. Polymorphism allows entities to have different behaviors (implementations or versions) depending on their context (type or state). Object-oriented models can be represented using diagrams such as UML or textually using languages such as Java or C++. Object-oriented models are suitable for modeling complex and dynamic data, such as software systems, multimedia, and simulations.  
+
+- **Ontology model**: This is a semantic data model that represents data as concepts (classes or categories) and relations (properties or predicates) between them. Concepts have attributes (data or literals) and relations have domains (source concepts) and ranges (target concepts) that specify the types of concepts that can participate in a relation. Ontology models can be represented using diagrams such as OWL or textually using languages such as RDF or SPARQL. Ontology models are suitable for modeling unstructured and heterogeneous data, such as natural language, images, and web data. Ontology models can also support logical inference and reasoning, such as classification, subsumption, and consistency checking.  
+
+: Semantic data model - Wikipedia
+: What is the Semantic Data Model? - Definition from Techopedia
+: What Is a Semantic Data Model? | GoodData
+: Data model - Wikipedia

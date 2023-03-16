@@ -1,0 +1,30 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and is also known as the interactive consistency problem.
+- The problem can be illustrated by the analogy of the Byzantine generals problem, where several divisions of the Byzantine army are camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action, such as attack or retreat. However, some of the generals may be traitors and try to sabotage the plan by sending false messages or no messages at all.
+- A solution to the Byzantine agreement problem must satisfy the following properties:
+  - **Agreement**: All honest parties must agree on the same value.
+  - **Validity**: If all honest parties start with the same value, they must agree on that value.
+  - **Termination**: All honest parties must eventually decide on a value.
+- A solution to the Byzantine agreement problem also depends on the following assumptions:
+  - **Synchrony**: There is a known upper bound on the message delivery time and the processing time of each party.
+  - **Authentication**: The messages sent by each party can be verified to be authentic and not tampered with.
+  - **Majority**: The number of honest parties is greater than the number of corrupted parties.
+- A simple solution to the Byzantine agreement problem is the following algorithm:
+  - Each party starts with an initial value, either 0 or 1.
+  - Each party broadcasts its initial value to all other parties.
+  - Each party collects the values received from all other parties and computes the majority value among them.
+  - Each party decides on the majority value as the final value.
+- This solution works if there is at most one corrupted party, since the majority value will always be the same as the initial value of the honest parties. However, if there are more than one corrupted parties, they can send different values to different parties and cause disagreement.
+- To tolerate more corrupted parties, a more sophisticated solution is needed. One such solution is the **Oral Messages** algorithm proposed by Lamport, which works as follows:
+  - The algorithm is executed in rounds, where each round consists of two phases: **send** and **receive**.
+  - In the first round, the source party (the one that initiates the agreement) broadcasts its initial value to all other parties. This is the **send** phase of the first round.
+  - In the **receive** phase of the first round, each party receives the value from the source party and stores it as its own value.
+  - In the second round, each party broadcasts its value to all other parties. This is the **send** phase of the second round.
+  - In the **receive** phase of the second round, each party receives the values from all other parties and computes the majority value among them. This is the value of the second round.
+  - The algorithm continues for k rounds, where k is the number of corrupted parties that can be tolerated. In each round, each party broadcasts its value of the previous round and computes the majority value of the current round.
+  - After k rounds, each party decides on the value of the k-th round as the final value.
+- The Oral Messages algorithm works if the number of corrupted parties is less than one third of the total number of parties, i.e., k < n/3, where n is the total number of parties. This is because in each round, the majority value will always be the same as the value of the honest parties, and the corrupted parties cannot change the majority value by sending different values to different parties.
+- The Oral Messages algorithm requires n^k+1 messages to be exchanged, where n is the total number of parties and k is the number of corrupted parties that can be tolerated. This is because in each round, each party sends one message to each of the other n-1 parties, and there are k+1 rounds in total. Therefore, the algorithm is inefficient and impractical for large values of n and k.
+- To improve the efficiency of the Oral Messages algorithm, several optimizations have been proposed, such as

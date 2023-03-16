@@ -1,0 +1,15 @@
+# Regional Feature Descriptors for Image Analytics
+
+- Regional feature descriptors are methods to extract and describe distinctive regions or patches in an image that can be used for various image analysis tasks, such as matching, retrieval, classification, and recognition    .
+- Regional feature descriptors can be divided into two categories: hand-crafted and learned.
+  - Hand-crafted feature descriptors are designed based on human knowledge and intuition, such as shape, color, texture, and local binary patterns. They are usually fast and simple to compute, but may not capture the complex and high-level semantic information in the image.
+  - Learned feature descriptors are obtained by training deep neural networks on large-scale datasets, such as convolutional neural networks (CNNs) and autoencoders. They can learn more abstract and robust representations of the image regions, but may require more computational resources and data.
+- Regional feature descriptors can be further classified based on the type of regions they extract and describe:
+  - Global feature descriptors use the whole image as a single region and generate a single feature vector for the image. They are suitable for images that have a clear and dominant object or scene, but may not handle the diversity and complexity of natural images well.
+  - Local feature descriptors use multiple regions that are detected by interest point detectors, such as SIFT, SURF, ORB, and FAST . They generate multiple feature vectors for each region, which can be matched or aggregated to form a global representation . They are suitable for images that have multiple objects or scenes, but may not be invariant to geometric and photometric transformations .
+  - Region-wise feature descriptors use multiple regions that are segmented by region proposal methods, such as selective search, edge boxes, and R-CNN. They generate multiple feature vectors for each region, which can be encoded by methods such as VLAD, Fisher vector, and BoW to form a global representation. They are suitable for images that have complex and diverse objects or scenes, and can capture the local geometric invariance and reduce noise.
+- Regional feature descriptors can be evaluated based on various criteria, such as accuracy, robustness, efficiency, and scalability    . Some common metrics are:
+  - Precision and recall: the ratio of correctly matched or retrieved regions to the total number of matched or retrieved regions, and the ratio of correctly matched or retrieved regions to the total number of relevant regions, respectively   .
+  - F1-score: the harmonic mean of precision and recall, which balances the trade-off between them   .
+  - Mean average precision (mAP): the average of the precision values at different recall levels, which measures the overall performance of the matching or retrieval system   .
+  - Classification accuracy: the ratio of correctly classified images to the total number of images, which measures the performance of the feature descriptor for image classification tasks .

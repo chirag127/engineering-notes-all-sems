@@ -1,0 +1,22 @@
+## Unit 4 - Developing Social-Semantic Applications
+
+- Social-semantic applications are applications that combine social media and semantic web technologies to create rich and interactive user experiences.
+- Social media refers to the platforms and tools that enable users to create, share, and consume user-generated content, such as blogs, wikis, social networks, microblogs, etc.
+- Semantic web refers to the vision and technologies that aim to make the web more understandable and interoperable for machines, such as RDF, OWL, SPARQL, etc.
+- Social-semantic applications can leverage the benefits of both social media and semantic web, such as:
+  - Enhancing the expressiveness and structure of user-generated content with semantic annotations and ontologies.
+  - Enabling the integration and aggregation of heterogeneous and distributed data sources across the web.
+  - Supporting the discovery and recommendation of relevant and personalized content and services for users.
+  - Facilitating the collaboration and communication among users and communities with common interests and goals.
+- Some examples of social-semantic applications are:
+  - DBpedia, which extracts structured data from Wikipedia and makes it available as Linked Data and SPARQL endpoints.
+  - SIOC, which is an ontology that describes the structure and content of online communities, such as blogs, forums, wikis, etc.
+  - FOAF, which is an ontology that describes the personal and social information of people and their relationships.
+  - TwitLogic, which is a system that collects and analyzes tweets and enriches them with semantic annotations and links to Linked Data sources.
+  - Revyu, which is a web site that allows users to rate and review anything and link their reviews to other web resources.
+- Developing social-semantic applications involves the following steps:
+  - Identifying the user requirements and the domain of the application.
+  - Choosing the appropriate social media and semantic web technologies and tools for the application.
+  - Designing and implementing the user interface and the backend of the application.
+  - Evaluating and testing the functionality and usability of the application.
+  - Deploying and maintaining the application on the web.

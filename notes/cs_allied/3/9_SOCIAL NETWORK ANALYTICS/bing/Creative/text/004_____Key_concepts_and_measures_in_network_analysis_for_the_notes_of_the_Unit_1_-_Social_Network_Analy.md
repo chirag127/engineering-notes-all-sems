@@ -1,0 +1,21 @@
+### Key concepts and measures in network analysis
+
+- A network is a system of interconnected entities, such as people, organizations, or computers, that can exchange information, resources, or influence. 
+- Network analysis is the process of studying the structure and behavior of networks, using mathematical and computational methods. 
+- Some key concepts in network analysis are:
+  - Nodes: the entities that make up the network, such as individuals, groups, or devices. 
+  - Edges: the connections or relationships between the nodes, such as friendship, communication, or collaboration. 
+  - Network size: the number of nodes in the network. 
+  - Network density: the proportion of possible edges that are present in the network, indicating how closely connected the nodes are. 
+  - Degree: the number of edges that a node has, indicating its popularity or activity. 
+  - Centrality: a measure of how important or influential a node is in the network, based on its position or connections. There are different types of centrality, such as degree centrality, closeness centrality, betweenness centrality, and eigenvector centrality. 
+  - Path: a sequence of edges that connects two nodes in the network, indicating the distance or accessibility between them. 
+  - Diameter: the longest shortest path in the network, indicating the maximum distance or reachability between any two nodes. 
+  - Clustering: a measure of how likely nodes that are connected to a common node are also connected to each other, indicating the presence of subgroups or communities in the network. 
+  - Modularity: a measure of how well the network can be divided into distinct clusters or modules, indicating the degree of heterogeneity or diversity in the network. 
+- Some key measures in network analysis are:
+  - Network performance: the quality of the network in terms of delivering the desired outcomes, such as speed, reliability, or efficiency. 
+  - Network metrics: the quantitative indicators of network performance, such as latency, throughput, packet loss, jitter, or availability. 
+  - Network monitoring: the process of collecting and analyzing network metrics over time, using tools such as probes, agents, or dashboards. 
+  - Network optimization: the process of improving network performance by adjusting network parameters, such as topology, routing, or configuration. 
+  - Network simulation: the process of creating and testing network models, using software or hardware, to evaluate network performance under different scenarios or conditions.

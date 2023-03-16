@@ -1,0 +1,12 @@
+### System design for social-semantic applications
+
+- Social-semantic applications are applications that combine social computing and semantic technologies to support collaboration, communication, and knowledge sharing among users and communities.
+- Social computing is a relatively new approach to systems design that emphasizes the importance of facilitating collaboration and communication between users. Examples of social computing applications include social networking sites, blogs, wikis, online forums, etc.
+- Semantic technologies are technologies that enable machines to understand the meaning and context of data and information. Examples of semantic technologies include ontologies, RDF, SPARQL, natural language processing, etc.
+- Social-semantic applications aim to leverage the benefits of both social computing and semantic technologies to create more intelligent, personalized, and adaptive systems that can support users and communities in various domains, such as health care, education, tourism, etc.
+- System design for social-semantic applications involves the following steps:
+
+  - Define the problem and the goals of the system. Identify the users and the communities that the system will serve, and the needs and expectations that they have. Analyze the current situation and the challenges that the system will address.
+  - Design the system architecture and the data model. Choose the appropriate technologies and tools that will enable the system to provide the desired functionality and performance. Define the data sources and the data structures that the system will use, and how they will be represented and stored using semantic technologies. Define the system components and the interactions among them.
+  - Design the user interface and the user experience. Design the layout, the navigation, the interaction, and the feedback mechanisms that the system will offer to the users. Consider the usability, the accessibility, the aesthetics, and the emotional aspects of the system. Use user-centered design methods, such as personas, scenarios, prototypes, etc., to test and evaluate the design with the users and the stakeholders.
+  - Design the system evaluation and the system maintenance. Define the criteria and the methods that will be used to measure the effectiveness, the efficiency, the satisfaction, and the impact of the system. Define the processes and the procedures that will be used to update, improve, and maintain the system over time. Consider the ethical, social, and environmental implications of the system.

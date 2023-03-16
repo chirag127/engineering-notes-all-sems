@@ -1,0 +1,9 @@
+### Pattern Classification by Prototype Matching
+
+- Prototype matching is a theory of pattern recognition that describes the process by which a sensory unit registers a new stimulus and compares it to a stored prototype, or standard model, of said stimulus.
+- A prototype is a kind of average of many other patterns that belong to the same category. For example, a prototype of a bird might be a combination of features that are common to most birds, such as wings, feathers, beak, etc.
+- Unlike template matching and featural analysis, an exact match is not expected for prototype matching, allowing for a more flexible and generalizable recognition of patterns.
+- Prototype matching can be applied to image pattern classification by using prototypes to represent different classes of images, such as faces, animals, vehicles, etc. and measuring the similarity between a new image and the prototypes.
+- The similarity can be computed by using various metrics, such as Euclidean distance, cosine similarity, Mahalanobis distance, etc. The new image is then assigned to the class of the prototype that has the highest similarity.
+- Prototype matching has some advantages over template matching, such as being able to handle variations in size, orientation, and position of the patterns, and being able to learn from experience by updating the prototypes based on new examples.
+- However, prototype matching also has some limitations, such as being sensitive to noise and outliers, requiring a large number of prototypes to cover all possible variations, and being unable to capture the complex relationships between features that might be important for recognition.

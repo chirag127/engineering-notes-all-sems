@@ -1,0 +1,22 @@
+### Results for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is an approach for examining the relationships (i.e., connections) among individuals, groups, organizations or other entities within a specified network through the use of networks and graph theory.
+- SNA helps the understanding of phenomena that emerge from the interaction of individuals or institutions and is useful to evaluate the effectiveness, outcomes and impacts of network-based interventions or programs.
+- SNA can be used to answer evaluation questions such as:
+  - Who are the key actors or influencers in a network and what are their roles?
+  - How are the network members connected and how does this affect the flow of information, resources or influence?
+  - How cohesive, diverse or centralised is the network and what are the implications for its performance or sustainability?
+  - How does the network change over time and what factors contribute to its evolution or decline?
+  - What are the benefits or challenges of participating in a network for the individual members or the collective goals?
+- SNA can be conducted using three types of interrelated tools, which can be used either alone or in combination:
+  - Collecting data on relationships (matrix): A matrix is a table that shows the presence or absence of a relationship between pairs of network members, as well as the strength or direction of the relationship if applicable. The data can be collected using surveys, interviews, observation, document analysis or other methods.
+  - Visualizing relationships (maps): A map is a graphical representation of the network, where the nodes are the network members and the edges are the relationships between them. The map can be drawn by hand or using software, and can be used to illustrate the network structure, patterns or dynamics.
+  - Assessing the network structure (measures): Measures are numerical indicators that describe the characteristics of the network or its members, such as the size, density, centrality, diversity, cohesion or reciprocity of the network. The measures can be calculated using formulas or software, and can be used to compare, analyse or evaluate the network.
+- SNA can be combined with other evaluation methods and techniques, such as surveys, interviews, document analysis, case studies, outcome mapping or rapid evaluation, to provide a comprehensive and holistic assessment of the network and its context .
+- SNA can be applied at different stages of the evaluation cycle, such as planning, design, data collection, analysis, reporting or dissemination, depending on the purpose and scope of the evaluation.
+- SNA can be used for different types of networks, such as formal or informal, personal or professional, online or offline, local or global, depending on the evaluation focus and boundaries.
+- SNA can provide valuable insights and evidence for network evaluation, but it also has some limitations and challenges, such as:
+  - The complexity and dynamism of networks, which may require multiple data sources, methods and perspectives to capture and analyse.
+  - The ethical and practical issues of obtaining informed consent, ensuring confidentiality and protecting privacy of the network members, especially in sensitive or risky contexts.
+  - The validity and reliability of the data, which may depend on the quality, availability and comparability of the data sources, methods and tools.
+  - The interpretation and communication of the results, which may require clear definitions, assumptions and explanations of the SNA concepts, tools and measures.

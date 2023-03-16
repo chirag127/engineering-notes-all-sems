@@ -1,0 +1,9 @@
+## Unit 1 - Social Network Analysis
+
+- Social network analysis (SNA) is the study of the structure, dynamics, and properties of social networks, which are collections of entities (nodes) and their relationships (edges).
+- SNA can be used to understand various phenomena, such as social influence, diffusion of information, collaboration, community detection, and network evolution.
+- SNA involves different steps, such as data collection, network representation, network analysis, and network visualization.
+- Data collection can be done from various sources, such as surveys, online platforms, archives, or sensors. Data can be either static (snapshot) or dynamic (time-series).
+- Network representation can be done using different formats, such as matrices, graphs, or hypergraphs. Networks can be either unipartite (one type of nodes) or bipartite (two types of nodes), and either undirected (symmetric edges) or directed (asymmetric edges).
+- Network analysis can be done using different methods, such as descriptive statistics, centrality measures, clustering algorithms, network models, or network inference. Network analysis can reveal various aspects of the network, such as size, density, degree distribution, diameter, clustering coefficient, betweenness, closeness, eigenvector, modularity, community structure, or network motifs.
+- Network visualization can be done using different tools, such as Gephi, Cytoscape, or NetworkX. Network visualization can help to explore, communicate, and interpret the network structure and patterns. Network visualization can use different layouts, such as force-directed, circular, or hierarchical. Network visualization can also use different attributes, such as color, size, shape, or label, to encode node or edge properties.

@@ -1,0 +1,10 @@
+# Evaluating Smushing for the Notes of the Unit 3 - Modelling and Aggregating Social Network Data
+
+Smushing is a technique for aggregating social network data by combining nodes that share some common attributes or characteristics. Smushing can help reduce the complexity and noise of large social networks, and reveal patterns and insights that are otherwise hidden. Smushing can also be used to anonymize social network data by removing identifying information from nodes.
+
+Some points to note about smushing are:
+
+- Smushing can be done based on different criteria, such as node attributes, edge attributes, node degree, node centrality, node similarity, or community detection. The choice of criteria depends on the research question and the data available.
+- Smushing can have different effects on the network structure and properties, such as the number of nodes and edges, the density, the diameter, the degree distribution, the clustering coefficient, the modularity, and the centrality measures. Smushing can also affect the network dynamics, such as the diffusion of information or influence.
+- Smushing can be evaluated by comparing the original network and the smushed network using various metrics, such as the accuracy, the fidelity, the utility, the privacy, and the interpretability. The evaluation can also involve visualizing the networks and examining the differences and similarities.
+- Smushing can have advantages and disadvantages depending on the context and the purpose of the analysis. Some advantages are: reducing the computational cost and complexity, enhancing the readability and clarity, preserving the essential features and patterns, and protecting the privacy and confidentiality. Some disadvantages are: losing the granularity and diversity, introducing the bias and distortion, reducing the validity and reliability, and compromising the ethics and legality.

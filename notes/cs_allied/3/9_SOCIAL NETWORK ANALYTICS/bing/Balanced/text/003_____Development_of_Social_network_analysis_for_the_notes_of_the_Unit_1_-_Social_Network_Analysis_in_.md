@@ -1,0 +1,10 @@
+### Development of Social Network Analysis
+
+- Social network analysis (SNA) is the study of patterns of relationships that connect social actors, such as individuals, groups, organizations, or communities.
+- SNA has its theoretical roots in the work of early sociologists such as Georg Simmel and Émile Durkheim, who wrote about the importance of studying social structures and networks.
+- SNA emerged as a distinct field of research in the 1930s, when Jacob Levy Moreno introduced the concepts of sociometry and sociograms, which are graphical representations of social networks .
+- SNA developed further in the 1950s and 1960s, with the contributions of researchers such as Alex Bavelas, Anatol Rapoport, Harrison White, and James Coleman, who applied mathematical and statistical methods to analyze social networks .
+- SNA gained popularity in the 1970s and 1980s, with the publication of influential books and articles by researchers such as Mark Granovetter, Stanley Milgram, Linton Freeman, Ronald Burt, and Barry Wellman, who introduced new concepts and measures of network properties, such as centrality, density, cohesion, embeddedness, weak ties, and structural holes .
+- SNA has become a key technique in modern sociology and has also been adopted by other disciplines, such as anthropology, biology, communication studies, economics, geography, history, information science, organizational studies, political science, public health, social psychology, and development studies  .
+- SNA has also benefited from the advances in computer technology, software, and data availability, which have enabled the analysis of large-scale and dynamic networks, such as online social networks, citation networks, and co-authorship networks .
+- SNA has also been applied to various practical and policy domains, such as education, health, crime, terrorism, social movements, innovation, and governance .

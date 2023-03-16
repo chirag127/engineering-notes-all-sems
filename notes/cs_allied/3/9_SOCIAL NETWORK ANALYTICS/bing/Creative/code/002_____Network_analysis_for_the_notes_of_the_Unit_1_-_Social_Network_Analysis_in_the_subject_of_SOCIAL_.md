@@ -1,0 +1,24 @@
+# Network analysis for the notes of the Unit 1 - Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Network analysis is a method of studying the structure and behavior of social entities (such as individuals, groups, organizations, etc.) and their relationships (such as connections, interactions, influences, etc.) using networks and graph theory.
+- A network is a set of nodes (also called vertices or actors) and a set of ties (also called edges or links) that connect them. Nodes can represent any social entity, such as a person, a group, an organization, a concept, a resource, etc. Ties can represent any type of relationship, such as friendship, communication, collaboration, affiliation, similarity, etc.
+- A graph is a mathematical representation of a network, where nodes are depicted as points and ties are depicted as lines. Graphs can be directed or undirected, depending on whether the ties have a direction or not. Graphs can also be weighted or unweighted, depending on whether the ties have a numerical value or not.
+- Social network analysis (SNA) is the application of network analysis to social phenomena. SNA aims to uncover the patterns, properties, and processes of social networks, and to explain how they affect or are affected by individual and collective behavior, outcomes, and phenomena.
+- SNA can be used for various purposes, such as:
+  - Describing the structure and characteristics of a social network, such as its size, density, centrality, clustering, etc.
+  - Identifying the roles and positions of nodes in a social network, such as their degree, closeness, betweenness, prestige, authority, etc.
+  - Measuring the strength, quality, and diversity of ties in a social network, such as their frequency, duration, intensity, reciprocity, homophily, etc.
+  - Analyzing the dynamics and evolution of a social network, such as its formation, growth, change, dissolution, etc.
+  - Modeling and simulating the behavior and outcomes of a social network, such as its diffusion, contagion, influence, cooperation, etc.
+  - Comparing and contrasting different social networks, such as their similarity, difference, equivalence, etc.
+  - Evaluating the effects and impacts of a social network, such as its performance, efficiency, resilience, etc.
+- SNA can be applied to various domains and contexts, such as:
+  - Sociology, psychology, anthropology, and other social sciences, to study the social aspects of human behavior, culture, and society.
+  - Communication, media, and information sciences, to study the flow and exchange of information, knowledge, and opinions in various channels and platforms.
+  - Business, management, and economics, to study the organization, coordination, and innovation of firms, markets, and industries.
+  - Education, learning, and pedagogy, to study the interaction, collaboration, and achievement of students, teachers, and institutions.
+  - Health, medicine, and epidemiology, to study the transmission, prevention, and treatment of diseases, infections, and behaviors.
+  - Politics, governance, and policy, to study the power, influence, and participation of actors, groups, and networks in various levels and arenas.
+  - Science, technology, and engineering, to study the collaboration, citation, and impact of researchers, publications, and inventions.
+  - Art, culture, and creativity, to study the expression, diffusion, and appreciation of works, genres, and styles.
+  - History, geography, and ecology, to study the change, movement, and distribution of events, places, and species.

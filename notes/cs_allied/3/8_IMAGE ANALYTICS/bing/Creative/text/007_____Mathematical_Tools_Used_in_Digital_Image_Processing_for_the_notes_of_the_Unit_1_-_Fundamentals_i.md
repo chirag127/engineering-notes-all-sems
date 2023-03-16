@@ -1,0 +1,18 @@
+### Mathematical Tools Used in Digital Image Processing
+
+- A digital image is a collection of numerical values represented in the form of a matrix. Each value corresponds to the intensity or color of a pixel in the image.
+- Digital image processing (DIP) is the manipulation of digital images using various mathematical and computational techniques to enhance, analyze, or transform them for various purposes.
+- Some of the mathematical tools that are used in DIP are:
+
+  - **Matrix operations**: Matrix operations such as addition, subtraction, multiplication, inversion, transpose, etc. are used to perform various image processing activities such as filtering, scaling, rotation, transformation, etc. 
+  - **Set operations**: Set operations such as union, intersection, complement, difference, etc. are used to perform image processing activities such as segmentation, region of interest extraction, morphological operations, etc. 
+  - **Distance functions**: Distance functions such as Euclidean, Manhattan, Chebyshev, etc. are used to measure the similarity or dissimilarity between pixels, regions, or images. They are useful for image processing activities such as clustering, classification, edge detection, etc. 
+  - **Statistical methods**: Statistical methods such as mean, median, mode, standard deviation, variance, histogram, etc. are used to analyze the distribution and characteristics of the pixel values in an image. They are useful for image processing activities such as noise removal, contrast enhancement, thresholding, etc. 
+  - **Fourier transform**: Fourier transform is a mathematical tool that converts a signal or an image from the spatial domain to the frequency domain. It is useful for image processing activities such as frequency filtering, compression, restoration, etc. 
+  - **Wavelet transform**: Wavelet transform is a mathematical tool that converts a signal or an image from the spatial domain to the wavelet domain. It is useful for image processing activities such as multi-resolution analysis, edge detection, compression, denoising, etc. 
+  - **Linear filtering**: Linear filtering is a mathematical tool that applies a linear operator to an image to produce a filtered image. It is useful for image processing activities such as smoothing, sharpening, edge detection, etc. 
+  - **Nonlinear filtering**: Nonlinear filtering is a mathematical tool that applies a nonlinear operator to an image to produce a filtered image. It is useful for image processing activities such as median filtering, morphological filtering, anisotropic diffusion, etc. 
+  - **Hidden Markov models**: Hidden Markov models are mathematical tools that model the stochastic behavior of a system with hidden states. They are useful for image processing activities such as segmentation, recognition, restoration, etc. 
+  - **Independent component analysis**: Independent component analysis is a mathematical tool that decomposes a signal or an image into independent components. It is useful for image processing activities such as blind source separation, feature extraction, etc. 
+  - **Neural networks**: Neural networks are mathematical tools that simulate the structure and function of biological neural networks. They are useful for image processing activities such as learning, classification, recognition, etc. 
+  - **Partial differential equations**: Partial differential equations are mathematical tools that model the evolution of a system with respect to space and time. They are useful for image processing activities such as image inpainting, image segmentation, image restoration, etc.

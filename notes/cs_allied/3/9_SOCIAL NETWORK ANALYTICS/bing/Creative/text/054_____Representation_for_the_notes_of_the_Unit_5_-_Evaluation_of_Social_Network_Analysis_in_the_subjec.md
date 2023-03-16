@@ -1,0 +1,27 @@
+### Representation for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is an evaluation approach that uses mathematics and visualization to represent the structure of relationships between people, organizations, goals, interests, and other entities within a larger system.
+- SNA helps the understanding of phenomena that emerge from the interaction of individuals or institutions and is useful to assess the impact, effectiveness, and sustainability of interventions that aim to change or improve social networks.
+- SNA can be used to find the type, importance, and quantity of relationships in a social network, allowing for a graphical output in conjunction with mathematical analysis.
+- SNA can be applied in various domains, such as health, education, development, business, and policy, to answer different evaluation questions, such as:
+  - Who are the key actors or influencers in a network and what are their roles and positions?
+  - How are the actors connected and how do they communicate or exchange resources?
+  - What are the characteristics and patterns of the network structure and how do they affect the network performance or outcomes?
+  - How does the network change over time and what are the factors that influence the network dynamics?
+  - How does the network compare to other networks or to a desired or optimal network?
+- SNA involves several steps, such as:
+  - Defining the evaluation purpose and scope, and identifying the evaluation questions and indicators that can be addressed by SNA.
+  - Selecting the network boundary and level of analysis, and defining the network actors (nodes) and relationships (edges) of interest.
+  - Collecting the network data using various methods, such as surveys, interviews, observations, or secondary sources.
+  - Analyzing the network data using various measures, such as density, centrality, cohesion, subgroups, or network position, and using software tools, such as UCINET, NetDraw, Gephi, or R.
+  - Visualizing the network data using graphs, maps, or matrices, and using colors, shapes, sizes, or labels to highlight different attributes or features of the network.
+  - Interpreting the network results and findings, and comparing them to the evaluation questions and indicators, and to other sources of evidence or benchmarks.
+  - Reporting and disseminating the network results and findings, and providing recommendations or implications for the network stakeholders or decision-makers.
+- SNA has several advantages, such as:
+  - It provides a holistic and systemic perspective of the network phenomena and context, and captures the complexity and diversity of the network actors and relationships.
+  - It enables the identification and assessment of the network strengths and weaknesses, opportunities and threats, and gaps and potentials, and supports the network learning and improvement.
+  - It generates rich and insightful information and evidence that can inform the network design, implementation, monitoring, and evaluation, and enhance the network accountability and transparency.
+- SNA also has several challenges, such as:
+  - It requires a clear and specific evaluation purpose and scope, and a careful selection of the network boundary and level of analysis, to avoid the risk of oversimplification or overgeneralization of the network phenomena and context.
+  - It involves a high demand and cost of data collection and analysis, and a high level of technical skills and expertise, to ensure the validity and reliability of the network data and results.
+  - It faces ethical and political issues, such as confidentiality, anonymity, consent, ownership, and power, that need to be addressed and managed throughout the evaluation process.

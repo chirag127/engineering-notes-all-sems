@@ -1,0 +1,9 @@
+# Fuzzy If-Then Rules
+
+- Fuzzy if-then rules are expressions of the form "If x is A then y is B", where x and y are variables, and A and B are linguistic values defined by fuzzy sets on the domains of x and y, respectively.
+- Fuzzy if-then rules are used to model the relationship between input and output variables in a fuzzy system, and to perform fuzzy reasoning or inference.
+- Fuzzy if-then rules can be classified into two types: **Mamdani-type** and **Takagi-Sugeno-type** .
+- Mamdani-type rules have fuzzy sets as both antecedents and consequents, and are interpreted as fuzzy relations. For example, "If pressure is high then volume is small" is a Mamdani-type rule, where high and small are fuzzy sets on the domains of pressure and volume, respectively .
+- Takagi-Sugeno-type rules have fuzzy sets as antecedents and crisp functions as consequents, and are interpreted as fuzzy mappings. For example, "If pressure is high then volume is 0.5*pressure + 2" is a Takagi-Sugeno-type rule, where high is a fuzzy set on the domain of pressure, and 0.5*pressure + 2 is a crisp function of pressure .
+- Fuzzy if-then rules can be combined using logical connectives, such as AND, OR, and NOT, to form complex rules. For example, "If pressure is high and temperature is low then volume is small" is a complex rule, where high, low, and small are fuzzy sets, and AND is a logical connective.
+- Fuzzy if-then rules can be evaluated using different methods, such as **max-min** and **max-product** composition, to obtain the output fuzzy sets or crisp values. For example, the max-min composition method uses the maximum and minimum operations to evaluate the antecedent and consequent of a fuzzy rule, while the max-product composition method uses the maximum and multiplication operations.

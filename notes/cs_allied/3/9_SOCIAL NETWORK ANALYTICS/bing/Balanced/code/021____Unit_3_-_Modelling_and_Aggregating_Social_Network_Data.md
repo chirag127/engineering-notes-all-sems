@@ -1,0 +1,24 @@
+## Unit 3 - Modelling and Aggregating Social Network Data
+
+- This unit covers the basic concepts and methods for modelling and analysing social network data.
+- A social network is a set of actors (nodes) and their relationships (edges).
+- Social network data can be represented by graphs, matrices, or tables.
+- Graphs are visual representations of nodes and edges, where nodes are usually drawn as circles or squares, and edges are usually drawn as lines or curves.
+- Matrices are numerical representations of nodes and edges, where rows and columns correspond to nodes, and cells contain values indicating the presence or strength of an edge between two nodes.
+- Tables are textual representations of nodes and edges, where each row corresponds to an edge, and each column contains attributes of the edge or the nodes involved.
+- Social network data can be analysed using various measures and methods, such as:
+  - Degree: the number of edges connected to a node.
+  - Centrality: the importance or influence of a node in the network.
+  - Density: the proportion of possible edges that are present in the network.
+  - Clustering: the tendency of nodes to form groups or communities within the network.
+  - Homophily: the similarity of nodes based on their attributes or connections.
+  - Path: a sequence of edges connecting two nodes.
+  - Distance: the number of edges in the shortest path between two nodes.
+  - Diameter: the maximum distance between any pair of nodes in the network.
+  - Connectedness: the property of a network having only one component, i.e., no isolated nodes or subgraphs.
+  - Modularity: the extent to which a network can be partitioned into meaningful subgroups based on the structure of the edges.
+- Social network data can be aggregated using various techniques, such as:
+  - Projection: creating a new network from an existing network by selecting a subset of nodes or edges, or by collapsing multiple nodes or edges into one.
+  - Sampling: creating a new network from an existing network by randomly selecting a subset of nodes or edges, or by using a systematic or stratified method.
+  - Transformation: creating a new network from an existing network by changing the values or attributes of the nodes or edges, or by applying a mathematical or statistical function.
+  - Reduction: creating a new network from an existing network by removing nodes or edges based on some criteria or threshold, or by merging or splitting nodes or edges.

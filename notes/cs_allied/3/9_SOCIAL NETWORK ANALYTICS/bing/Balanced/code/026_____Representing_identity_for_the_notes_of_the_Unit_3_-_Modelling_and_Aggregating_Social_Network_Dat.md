@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Representing identity for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS. Here is some information that I found from web searches:
+
+### Representing identity
+
+- Identity is the set of attributes, characteristics, and behaviors that define a person or an entity in a social network.
+- Identity can be represented in different ways, depending on the purpose and scope of the analysis, such as:
+  - Nodes: The simplest way to represent identity is to use nodes in a graph, where each node corresponds to a person or an entity. Nodes can have attributes, such as name, age, gender, location, etc., that describe the identity of the node. Nodes can also have labels, such as "friend", "follower", "customer", etc., that indicate the role or status of the node in the network.
+  - Edges: Another way to represent identity is to use edges in a graph, where each edge connects two nodes and represents a relationship or an interaction between them. Edges can have attributes, such as type, weight, direction, timestamp, etc., that describe the nature and strength of the relationship or the interaction. Edges can also have labels, such as "like", "comment", "share", etc., that indicate the action or the sentiment of the edge in the network.
+  - Features: A more advanced way to represent identity is to use features, which are numerical or categorical values that capture some aspects of the identity of a node or an edge. Features can be derived from the attributes or the labels of the nodes or the edges, or from the structure or the dynamics of the network. Features can be used to measure, compare, or classify the identity of the nodes or the edges in the network.
+  - Embeddings: A state-of-the-art way to represent identity is to use embeddings, which are low-dimensional vectors that encode the identity of a node or an edge in a latent space. Embeddings can be learned from the features or the raw data of the nodes or the edges, using deep learning techniques, such as autoencoders, graph neural networks, or generative adversarial networks. Embeddings can preserve the similarity, the diversity, and the hierarchy of the identity of the nodes or the edges in the network.
+
+- Representing identity is important for social network analysis, because it can help to:
+  - Understand the social structure and the social dynamics of the network, such as the roles, the groups, the communities, the influencers, the trends, the events, etc.
+  - Predict the behavior and the outcome of the network, such as the link formation, the information diffusion, the opinion formation, the recommendation, the ranking, etc.
+  - Optimize the performance and the utility of the network, such as the network growth, the network resilience, the network efficiency, the network security, etc.

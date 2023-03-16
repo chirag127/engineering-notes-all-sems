@@ -1,0 +1,28 @@
+### Aggregating and reasoning with social network data
+
+- Social network data refers to the information about the entities and relationships in a social network, such as people, groups, organizations, events, topics, etc.
+- Social network data can be represented in various formats, such as relational databases, spreadsheets, XML files, etc. However, these formats have some limitations, such as lack of semantics, interoperability, and flexibility.
+- A more suitable format for social network data is the Resource Description Framework (RDF), which is a standard model for data interchange on the Web. RDF uses triples of the form (subject, predicate, object) to express statements about resources. RDF can also use ontologies to define the concepts and properties of a domain.
+- Ontologies are formal specifications of the terms and relationships in a domain of interest. They can provide a common vocabulary and a logical structure for social network data. Ontologies can also support reasoning, which is the process of inferring new knowledge from existing knowledge.
+- Aggregating social network data means collecting and combining data from different sources and formats into a unified RDF-based representation. This can enable more comprehensive and integrated analysis of social networks. Aggregating social network data involves the following steps:
+  - Identifying the relevant data sources and formats
+  - Mapping the data sources and formats to a common ontology
+  - Extracting and transforming the data into RDF triples
+  - Storing and querying the RDF data in an ontology store
+- Reasoning with social network data means applying logical rules and inference mechanisms to the RDF data to derive new insights and conclusions. This can enhance the understanding and interpretation of social networks. Reasoning with social network data involves the following steps:
+  - Defining the reasoning tasks and goals
+  - Selecting the appropriate reasoning methods and tools
+  - Applying the reasoning methods and tools to the RDF data
+  - Evaluating and validating the reasoning results
+- Aggregating and reasoning with social network data can provide various benefits, such as:
+  - Enriching the data with semantics and context
+  - Improving the data quality and consistency
+  - Facilitating the data integration and interoperability
+  - Supporting the data exploration and discovery
+  - Enabling the data visualization and presentation
+- Aggregating and reasoning with social network data can also pose some challenges, such as:
+  - Dealing with the heterogeneity and complexity of the data sources and formats
+  - Choosing the suitable ontology and mapping strategies
+  - Handling the scalability and performance issues
+  - Ensuring the privacy and security of the data
+  - Assessing the accuracy and reliability of the reasoning results

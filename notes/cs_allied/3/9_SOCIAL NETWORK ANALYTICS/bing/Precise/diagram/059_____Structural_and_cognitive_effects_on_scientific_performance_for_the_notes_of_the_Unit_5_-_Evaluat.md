@@ -1,0 +1,6 @@
+### Structural and cognitive effects on scientific performance
+
+1. Social networks and cognitive style can have an impact on innovative performance. A social network rich in structural holes can enhance the innovative performance of employees with an adaptive cognitive style. However, individuals with an innovative cognitive style are most innovative when embedded within a closed network of densely interconnected contacts .
+2. The cognitive turn in social networks exemplifies the modern conception of the brain as fundamentally reprogrammable by experience and circumstance. Cognition and social networks coconstitute each other .
+3. Social network analysis (SNA) can be used to examine the association between researchers' structural position in the network and their scientific performance .
+4. Scientists' ego-centered social networks can be measured using a position generator. Their performance can be measured by multiple indexes, including recognitions from the academic (papers), governmental (awards), and market (patents) sectors .

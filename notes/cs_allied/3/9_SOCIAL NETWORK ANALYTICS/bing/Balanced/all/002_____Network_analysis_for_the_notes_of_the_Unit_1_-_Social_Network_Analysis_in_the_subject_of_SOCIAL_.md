@@ -1,0 +1,10 @@
+# Network Analysis for the Notes of the Unit 1 - Social Network Analysis in the Subject of Social Network Analytics
+
+- Network analysis is a general term for the study of networks and their properties, such as structure, patterns, dynamics, and functions.
+- Networks are mathematical representations of entities and their relationships, where entities are called nodes and relationships are called edges or links.
+- Social network analysis (SNA) is a specific branch of network analysis that focuses on the social aspects of networks, such as individuals, groups, organizations, or other social entities, and their interactions, such as communication, collaboration, influence, or trust.
+- SNA can be used to understand the behavior of social actors, the structure of social networks, and the effects of networks on various outcomes, such as performance, innovation, diffusion, or resilience.
+- SNA can also be applied to other domains that involve complex systems of interactions, such as biology, ecology, economics, or computer science.
+- SNA uses various methods and tools to collect, analyze, visualize, and model network data, such as surveys, interviews, observations, web scraping, network metrics, graphs, matrices, algorithms, and software.
+- SNA can provide insights into the characteristics and dynamics of social networks, such as the size, density, centrality, clustering, homophily, reciprocity, transitivity, or community detection of networks, and the roles, positions, influence, or prestige of network actors.
+- SNA can also help to identify the opportunities and challenges of social networks, such as the benefits of social capital, the risks of network fragmentation, the trade-offs between network efficiency and robustness, or the strategies for network intervention or optimization.
