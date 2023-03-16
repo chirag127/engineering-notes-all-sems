@@ -1,4 +1,4 @@
-
+# ENGINEERING CHEMISTRY LAB
 ## Course Objectives:
 ### 1. To enable the students to understand about the fundamental concepts of analytical instruments
 ### 2. To enable the students to understand about the analysis of chloride content, hardness, alkalinity of water.
