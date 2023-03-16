@@ -1,0 +1,12 @@
+# Weighted Cepstral Distances And Filtering for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- Cepstral distance is a measure of similarity between two speech signals based on their cepstral coefficients, which are obtained by applying a discrete cosine transform to the log spectrum of the signal.
+- Cepstral distance can be used for speech recognition, speaker recognition, speech enhancement, and speech synthesis applications.
+- A weighted cepstral distance measure is a variant of the cepstral distance measure that assigns different weights to the cepstral coefficients according to their importance or variability.
+- One way to obtain the weights is to use the inverse of the variance of the cepstral coefficients, which reflects the degree of variation of each coefficient across different speech signals or speakers .
+- Another way to obtain the weights is to use the logarithm of the index of the cepstral coefficient, which reflects the degree of correlation between the coefficient and the speech signal or speaker.
+- A weighted cepstral distance measure can improve the performance of speech recognition or speaker recognition systems by emphasizing the more relevant or discriminative features and reducing the influence of noise or variability.
+- Filtering is a process of modifying or enhancing a speech signal by applying a filter, which is a function that operates on the signal and produces a new signal as output.
+- Filtering can be used for speech analysis to remove noise, improve signal quality, extract features, or transform the signal to a different domain or representation.
+- One example of filtering is pre-emphasis, which is a high-pass filter that amplifies the high-frequency components of the speech signal and attenuates the low-frequency components. Pre-emphasis can improve the signal-to-noise ratio and the spectral resolution of the speech signal.
+- Another example of filtering is cepstral filtering, which is a filter that operates on the cepstral domain of the speech signal and modifies the cepstral coefficients. Cepstral filtering can be used for speech enhancement, speech synthesis, or speech modification applications.

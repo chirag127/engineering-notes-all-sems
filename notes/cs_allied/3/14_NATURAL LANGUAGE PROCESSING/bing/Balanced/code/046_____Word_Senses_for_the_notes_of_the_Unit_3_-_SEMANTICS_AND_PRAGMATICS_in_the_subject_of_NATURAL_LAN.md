@@ -1,0 +1,22 @@
+### Word Senses
+
+- A word sense is the meaning of a word in a given context.
+- A word can have multiple senses depending on how it is used in different sentences or situations.
+- For example, the word "bank" can have the following senses:
+  - A financial institution that holds money and provides loans.
+  - The edge of a river or lake.
+  - A set of similar things arranged in a row or a group.
+  - An act of tilting or turning something sideways.
+- Word sense disambiguation is the task of identifying the correct sense of a word in a given context.
+- Word sense disambiguation can be done using various methods, such as:
+  - Dictionary-based methods that use definitions and examples from a lexical resource, such as WordNet, to match the word with the most appropriate sense.
+  - Corpus-based methods that use statistical information from large collections of texts, such as frequency, collocations, and co-occurrences, to determine the most likely sense of a word.
+  - Knowledge-based methods that use external sources of information, such as ontologies, semantic networks, or common sense knowledge, to infer the meaning of a word from the context.
+  - Supervised methods that use machine learning techniques to train a classifier or a neural network to predict the sense of a word based on features extracted from the context.
+  - Unsupervised methods that use clustering algorithms to group words into senses based on their similarity or relatedness.
+- Word sense disambiguation is important for natural language processing applications, such as:
+  - Machine translation, where the correct sense of a word can affect the choice of the target word or phrase in another language.
+  - Information retrieval, where the correct sense of a word can affect the relevance of a document or a query.
+  - Information extraction, where the correct sense of a word can affect the extraction of entities, relations, or events from a text.
+  - Text summarization, where the correct sense of a word can affect the selection and compression of the main points of a text.
+  - Text generation, where the correct sense of a word can affect the coherence and fluency of the generated text.

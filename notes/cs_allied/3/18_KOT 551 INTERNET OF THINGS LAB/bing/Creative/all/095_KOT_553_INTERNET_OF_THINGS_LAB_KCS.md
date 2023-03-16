@@ -1,0 +1,22 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- KOT 553 is a course code for Internet of Things Lab, offered by the Department of Computer Science and Engineering at Dr. A.P.J. Abdul Kalam Technical University (AKTU) in Lucknow, India.
+- Internet of Things (IoT) is a network of physical objects embedded with sensors, actuators, and communication devices that can interact with each other and exchange data over the internet.
+- The course aims to provide students with hands-on experience in designing, developing, and testing IoT applications using various hardware devices and sensors.
+- The course covers the following topics:
+  - Introduction to IoT and its applications
+  - IoT architecture and protocols
+  - IoT hardware devices and sensors
+  - IoT platforms and cloud services
+  - IoT programming and development tools
+  - IoT security and privacy issues
+- The course has a total of 60 hours of lab sessions, divided into 15 experiments. Each experiment has a specific objective, procedure, and expected outcome.
+- The course is evaluated based on the following criteria:
+  - Lab performance: 30 marks
+  - Lab record: 10 marks
+  - Viva voce: 10 marks
+- The course outcomes are as follows:
+  - CO1: Demonstrate basic concepts, principles, and challenges in IoT
+  - CO2: Illustrate functioning of hardware devices and sensors used for IoT
+  - CO3: Develop and deploy IoT applications using various IoT platforms and cloud services
+  - CO4: Analyze and evaluate IoT applications in terms of performance, security, and privacy

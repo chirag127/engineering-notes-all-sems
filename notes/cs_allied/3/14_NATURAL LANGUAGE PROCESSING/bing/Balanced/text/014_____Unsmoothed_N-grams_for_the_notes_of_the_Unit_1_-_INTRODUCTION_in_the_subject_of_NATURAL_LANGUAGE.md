@@ -1,0 +1,8 @@
+### Unsmoothed N-grams
+
+- An n-gram is a sequence of n words or tokens in a text. For example, "natural language processing" is a trigram (n = 3).
+- N-grams are used to model the probability of a word given its previous words or context. For example, P(processing | natural language) is the probability of the word "processing" given the previous words "natural language".
+- N-gram models are based on the assumption of the Markov property, which states that the probability of a word only depends on a fixed number of previous words. For example, a bigram model (n = 2) assumes that P(w | w1, w2, ..., wn-1) = P(w | wn-1), where w is the current word and wn-1 is the previous word.
+- Unsmoothed n-gram models estimate the probabilities of n-grams by counting their frequencies in a corpus or a large collection of texts. For example, P(processing | natural language) = C(natural language processing) / C(natural language), where C(x) is the count of x in the corpus.
+- Unsmoothed n-gram models have some limitations, such as data sparsity and zero probabilities. Data sparsity refers to the problem of having insufficient data to estimate the probabilities of rare or unseen n-grams. Zero probabilities refer to the problem of assigning zero probability to n-grams that do not occur in the corpus, which can lead to inaccurate predictions or underflow errors.
+- To overcome these limitations, smoothed n-gram models are used, which apply various techniques to adjust the probabilities of n-grams based on their frequencies and contexts. Some examples of smoothing techniques are Laplace smoothing, Good-Turing smoothing, Kneser-Ney smoothing, etc.

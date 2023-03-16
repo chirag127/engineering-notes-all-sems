@@ -1,0 +1,8 @@
+# Digital vs. Analog circuits
+
+- Digital circuits operate on signals that have only two discrete values, usually called 0 and 1. Analog circuits operate on signals that vary continuously in amplitude and frequency.
+- Digital circuits are easier to design and implement than analog circuits, as they can be composed of logic gates, flip-flops, counters, and other digital components that can be interconnected using software tools.
+- Analog circuits require more manual design and tuning, as they involve resistors, capacitors, inductors, diodes, transistors, and other analog components that have to be carefully selected and arranged to achieve the desired functionality.
+- Digital circuits are more robust and reliable than analog circuits, as they are less affected by noise, interference, and distortion. Analog circuits are more sensitive to these factors, as they can alter the shape and amplitude of the signal.
+- Digital circuits can perform complex operations such as arithmetic, logic, encryption, and data processing, as they can manipulate binary digits using algorithms and instructions. Analog circuits can perform simple operations such as amplification, filtering, modulation, and demodulation, as they can modify the signal's characteristics using analog components.
+- Digital circuits can store and transmit information more efficiently and accurately than analog circuits, as they can use binary codes and protocols that can be easily decoded and error-corrected. Analog circuits can lose information due to noise and degradation, as they can only represent the signal's magnitude and frequency.

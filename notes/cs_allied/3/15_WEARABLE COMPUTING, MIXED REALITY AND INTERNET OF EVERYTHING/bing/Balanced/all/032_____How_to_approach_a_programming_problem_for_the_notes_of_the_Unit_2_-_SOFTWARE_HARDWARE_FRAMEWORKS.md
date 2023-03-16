@@ -1,0 +1,13 @@
+# How to approach a programming problem
+
+Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be challenging and rewarding, but also frustrating and confusing at times. To solve a programming problem, it is helpful to follow a systematic and logical approach that can break down the problem into smaller and simpler parts. Here are some general steps that can guide you in approaching a programming problem:
+
+- **Understand the problem.** Before you start writing any code, you need to make sure you understand what the problem is asking you to do. Read the problem statement carefully and identify the input, output, and constraints of the problem. Try to restate the problem in your own words and come up with some examples or test cases. If the problem is unclear or ambiguous, ask for clarification or make some reasonable assumptions.
+
+- **Create a plan.** Once you have a clear idea of what the problem is, you need to devise a strategy or an algorithm to solve it. An algorithm is a step-by-step procedure that describes how to transform the input into the output. You can use various tools to help you create a plan, such as pseudocode, flowcharts, diagrams, or UML. A good plan should be clear, concise, and correct.
+
+- **Implement the plan.** After you have a plan, you need to translate it into a programming language that the computer can understand. This is where you write the actual code that implements your algorithm. You should follow the syntax and conventions of the programming language you are using and use meaningful names for your variables and functions. You should also comment your code to explain what it does and why.
+
+- **Test and debug the plan.** The final step is to check if your code works as intended and produces the correct output for different inputs. You can use various tools to help you test and debug your code, such as print statements, breakpoints, or unit tests. You should also handle any errors or exceptions that may occur during the execution of your code. If you find any bugs or mistakes in your code, you should fix them and test again until your code is error-free.
+
+- **Review and improve the plan.** After you have a working solution, you can review your code and see if there are any ways to improve it. You can look for opportunities to optimize your code for performance, readability, or maintainability. You can also compare your solution with other solutions and learn from them. You should always strive to write code that is simple, elegant, and efficient.

@@ -1,0 +1,21 @@
+### Competitive Learning
+
+- Competitive learning is a form of unsupervised learning in artificial neural networks, in which nodes compete for the right to respond to a subset of the input data.
+- Competitive learning works by increasing the specialization of each node in the network, so that different nodes become sensitive to different patterns or features in the data.
+- Competitive learning is well suited to finding clusters within data, as the nodes tend to form prototypes or centroids of the data clusters.
+- Competitive learning is usually implemented with neural networks that contain a hidden layer, which is commonly known as the "competitive layer".
+- Every competitive neuron is described by a vector of weights and calculates the similarity measure between the input data and the weight vector.
+- The neuron with the highest similarity measure (or the lowest distance measure) is declared the winner and its weights are updated to move closer to the input data.
+- The other neurons do not change their weights or change them by a smaller amount.
+- This process is repeated for each input data until the network converges to a stable state.
+- Competitive learning can be seen as a variant of Hebbian learning, which is based on the principle that neurons that fire together wire together.
+- Competitive learning can also be seen as a form of reinforcement learning, where the winning neuron receives a positive reward and the losing neurons receive a negative or zero reward.
+- Competitive learning can be applied to various problems, such as data clustering, vector quantization, feature extraction, dimensionality reduction, and self-organization.
+- Some of the popular competitive learning algorithms include k-means clustering, learning vector quantization, self-organizing maps, and adaptive resonance theory.
+- Competitive learning has some advantages, such as simplicity, scalability, and adaptability to dynamic data.
+- Competitive learning also has some disadvantages, such as sensitivity to initialization, lack of convergence guarantee, and difficulty in determining the optimal number of neurons or clusters.
+- Competitive learning can be combined with other learning methods, such as collaborative learning and individualized learning, to achieve better performance and flexibility.
+- Collaborative learning is a learning method where the components of the learning system cooperate with each other to achieve a common goal.
+- Individualized learning is a learning method where the components of the learning system adjust their behavior according to their own preferences and needs.
+- Competitive learning can also be contrasted with cooperative learning, where the components of the learning system work together to produce a joint output.
+- Competitive learning can also be contrasted with supervised learning, where the components of the learning system receive external feedback or labels for their outputs.

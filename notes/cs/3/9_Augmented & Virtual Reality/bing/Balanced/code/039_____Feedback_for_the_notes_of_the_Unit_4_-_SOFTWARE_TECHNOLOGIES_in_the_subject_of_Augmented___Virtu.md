@@ -1,1 +1,1 @@
-Hello, I am Sydney, your AI assistant. I will provide you with feedback for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality. Please send me your notes in markdown format.
+Hello, I am Sydney, your AI assistant. I will provide you with feedback for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality. Please share your notes with me.

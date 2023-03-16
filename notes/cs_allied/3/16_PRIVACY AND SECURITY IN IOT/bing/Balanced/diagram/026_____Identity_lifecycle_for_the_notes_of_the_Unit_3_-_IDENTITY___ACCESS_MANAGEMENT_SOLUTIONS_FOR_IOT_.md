@@ -1,0 +1,21 @@
+### Identity lifecycle for IoT devices
+
+- Identity lifecycle is the process of managing the digital identities of IoT devices from creation to deletion.
+- Identity lifecycle consists of the following phases :
+  - **Naming**: defining the naming conventions and formats for the device identities, such as serial numbers, MAC addresses, or URIs.
+  - **Provisioning**: assigning a unique identity to each device and binding it to a PKI certificate or a symmetric key to ensure security and authentication.
+  - **Registration**: enrolling the device identity to an identity registry or an IoT platform that can store and manage the device metadata and credentials.
+  - **Activation**: enabling the device identity to communicate with other devices or services and access the resources and functions of the IoT platform.
+  - **Revocation**: disabling or suspending the device identity in case of loss, theft, compromise, or malfunction of the device.
+  - **Recovery**: restoring the device identity and its associated credentials and metadata after a revocation or a temporary deactivation.
+  - **Deletion**: removing the device identity and its associated data from the identity registry or the IoT platform when the device is decommissioned or retired.
+- Identity lifecycle management is essential for ensuring the security, privacy, and scalability of IoT devices and systems. It allows for:
+  - **Authentication**: verifying the identity and legitimacy of the device and preventing unauthorized access or impersonation.
+  - **Authorization**: granting or denying the device the permission to access or perform certain actions or resources based on its identity and role.
+  - **Audit**: tracking and logging the device activities and events based on its identity and timestamp.
+  - **Update**: maintaining and updating the device identity and its associated credentials and metadata to reflect the current state and configuration of the device.
+- Identity lifecycle management can be performed by using various tools and technologies, such as:
+  - **PKI**: Public Key Infrastructure is a system that uses asymmetric cryptography to generate and manage digital certificates and keys for device identities. PKI provides strong security and encryption for device communication and data transfer.
+  - **Symmetric keys**: Symmetric keys are secret keys that are shared between the device and the IoT platform and are used to encrypt and decrypt the device data and messages. Symmetric keys provide faster and simpler security than PKI, but require secure key distribution and storage.
+  - **Identity registry**: Identity registry is a database or a service that stores and manages the device identities and their associated credentials and metadata. Identity registry can be hosted by the IoT platform or by a third-party provider. Identity registry provides a centralized and consistent way of managing device identities and their lifecycle.
+  - **IoT platform**: IoT platform is a software or a cloud service that provides the infrastructure and functionality for connecting and managing IoT devices and systems. IoT platform can offer various features and services for identity lifecycle management, such as device provisioning, registration, activation, revocation, recovery, and deletion. IoT platform can also provide other services, such as device management, data processing, analytics, and integration.

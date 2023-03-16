@@ -1,0 +1,23 @@
+# Inter-process communication for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Inter-process communication (IPC) is a form of data sharing between processes that happen with RTOS .
+- IPC is essential for creating useful applications that can use resources, peripherals, and events efficiently and flexibly.
+- Some of the common IPC methods are  :
+  - Shared memory: a region of memory that can be accessed by multiple processes.
+  - Pipes: a unidirectional or bidirectional channel that can transfer data between processes.
+  - Queues: a data structure that can store and retrieve data in a first-in first-out (FIFO) order.
+  - Mailbox: a message buffer that can send and receive fixed-size messages between processes.
+  - Signals: a notification mechanism that can interrupt a process and invoke a handler function.
+  - Remote procedure calls: a method that can invoke a function in another process and return the result.
+- Different open source RTOSes may implement different IPC methods or use different names for them  .
+  - For example, FreeRTOS supports queues, mailboxes, semaphores, mutexes, event groups, and software timers.
+  - Bern RTOS supports queues, mailboxes, signals, semaphores, mutexes, and event flags.
+  - Zephyr RTOS supports queues, pipes, mailboxes, message queues, signals, semaphores, mutexes, and condition variables.
+  - Linux RTOS supports shared memory, pipes, message queues, signals, semaphores, mutexes, and sockets.
+- IPC methods have different advantages and disadvantages in terms of performance, complexity, reliability, and scalability  .
+  - For example, shared memory is fast and simple, but it requires synchronization and protection mechanisms to avoid data corruption and race conditions.
+  - Pipes are easy to use and portable, but they have limited capacity and can cause blocking and deadlock.
+  - Queues are flexible and robust, but they consume memory and CPU resources and can introduce latency and overhead.
+  - Mailboxes are convenient and efficient, but they can only handle fixed-size messages and may lose data if the buffer is full.
+  - Signals are lightweight and asynchronous, but they have limited information and can be lost or ignored.
+  - Remote procedure calls are powerful and transparent, but they are complex and prone to errors and security issues.

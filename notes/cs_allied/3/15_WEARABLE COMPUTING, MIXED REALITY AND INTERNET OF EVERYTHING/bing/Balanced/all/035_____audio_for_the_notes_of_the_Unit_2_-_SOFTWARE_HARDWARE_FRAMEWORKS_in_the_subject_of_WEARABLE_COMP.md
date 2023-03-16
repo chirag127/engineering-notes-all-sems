@@ -1,0 +1,17 @@
+# Audio for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing, mixed reality and internet of everything are three emerging technologies that aim to create immersive, interactive and connected experiences for users.
+- Wearable computing refers to devices that are worn on the body or integrated into clothing, such as smartwatches, fitness trackers, smart glasses, etc. These devices can sense, process and communicate data, and provide feedback to the user or other devices.
+- Mixed reality refers to the blending of physical and digital worlds, where virtual and augmented reality are two extremes of the spectrum. Virtual reality creates a fully synthetic environment that replaces the real one, while augmented reality overlays digital information on top of the real one.
+- Internet of everything refers to the network of physical and digital objects that are connected and communicate with each other and with humans, using various technologies such as cloud computing, edge computing, artificial intelligence, etc. These objects can include sensors, actuators, devices, machines, people, etc.
+- Software hardware frameworks are the tools and methods that enable the development, deployment and integration of wearable computing, mixed reality and internet of everything applications. They consist of various components, such as software libraries, middleware, protocols, standards, APIs, etc., that provide functionalities and services for different aspects of the applications, such as sensing, processing, communication, visualization, interaction, etc .
+- Some examples of software hardware frameworks are:
+  - ARCore and ARKit: These are software development kits (SDKs) that enable developers to create augmented reality applications for Android and iOS devices, respectively. They provide features such as motion tracking, environmental understanding, light estimation, etc., that allow the applications to sense and interact with the real world.
+  - Azure IoT: This is a cloud platform that provides various services and solutions for internet of everything applications, such as device management, data ingestion, analytics, digital twins, etc. It also supports edge computing, which allows some of the data processing and decision making to happen closer to the devices, reducing latency and bandwidth consumption.
+  - Multi-access Edge Computing (MEC): This is a framework that pushes the boundaries of edge computing by providing computing and storage resources next to low-power, low-resource mobile devices, such as wearable computing and mixed reality devices. It ensures connectivity and computing opportunities through wireless networks, such as 5G, and enables low-latency, high-bandwidth and context-aware applications.
+
+: Modules combining software and hardware, communicating over the network. https://www.researchgate.net/figure/Modules-combining-software-and-hardware-communicating-over-the-network_fig3_2380873
+: Frameworks Enabling Ubiquitous Mixed Reality Applications. https://www.frontiersin.org/articles/10.3389/frvir.2022.765959/full
+: Azure IoT – Internet of Things Platform. https://azure.microsoft.com/en-us/solutions/iot/
+: ARCore and ARKit. https://developers.google.com/ar/ and https://developer.apple.com/augmented-reality/
+: A Survey on Wearable Technology: History, State-of-the-Art and Future Perspectives. https://www.sciencedirect.com/science/article/pii/S1389128621001651

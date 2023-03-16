@@ -1,0 +1,14 @@
+# Smart Sensors: Introduction, Primary Sensors, Excitation, Amplification, Filters, Converters, Compensation, Information Coding/Processing, Data Communication, Standards for Smart Sensor Interface, the Automation.
+
+- A smart sensor is a device that takes input from the physical environment and uses built-in compute resources to perform predefined functions upon detection of specific input and then process data before passing it on.
+- A smart sensor has three components: a sensor that captures data, a microprocessor that computes on the output of the sensor via programming and communications capabilities. A smart sensor might also include several other components besides the primary sensor.
+- The primary sensor is the transducer that converts a physical quantity into an electrical signal. The primary sensor can be of various types, such as temperature, pressure, light, sound, motion, etc.
+- The excitation is the process of providing an external stimulus to the primary sensor to generate an output signal. The excitation can be electrical, optical, mechanical, thermal, etc.
+- The amplification is the process of increasing the magnitude of the output signal from the primary sensor to make it suitable for further processing. The amplification can be done by using amplifiers, transistors, op-amps, etc.
+- The filters are the devices that remove unwanted noise or interference from the output signal and enhance its quality. The filters can be analog or digital, low-pass, high-pass, band-pass, etc.
+- The converters are the devices that change the format of the output signal from analog to digital or vice versa. The converters can be analog-to-digital converters (ADCs), digital-to-analog converters (DACs), etc.
+- The compensation is the process of correcting the errors or deviations in the output signal due to environmental factors, aging, drift, etc. The compensation can be done by using calibration, linearization, temperature compensation, etc.
+- The information coding/processing is the process of encoding, compressing, encrypting, or manipulating the output signal to make it more efficient, secure, or meaningful. The information coding/processing can be done by using algorithms, protocols, standards, etc.
+- The data communication is the process of transmitting the output signal to a receiver or a network. The data communication can be done by using wired or wireless, serial or parallel, analog or digital, etc.
+- The standards for smart sensor interface are the rules or specifications that define how the smart sensor communicates with other devices or systems. The standards for smart sensor interface can be IEEE 1451, I2C, SPI, etc.
+- The automation is the process of controlling or operating the smart sensor without human intervention. The automation can be done by using feedback, logic, programming, etc.

@@ -1,0 +1,10 @@
+### Hardware to Hardware Communication
+
+- Hardware to hardware communication is the process of transferring data between different devices or components that form a network or a system.
+- Hardware to hardware communication can be achieved by using various protocols, standards, and interfaces that define the rules and formats of data exchange.
+- Some examples of hardware to hardware communication are:
+  - Interrupt request (IRQ): A signal sent by a hardware device to the CPU to request its attention and service. The CPU can respond by suspending its current task and executing the interrupt handler routine associated with the device.
+  - Universal Asynchronous Receiver/Transmitter (UART): A serial communication protocol that allows two devices to exchange data asynchronously, meaning that the data is transmitted and received at different rates without a common clock signal. UART is commonly used for device-to-device communication in embedded systems and microcontrollers.
+  - Hardware-to-hardware communication with a twist: A method of linking data between different control systems by using an OPC server and an HMI or SCADA system. The HMI or SCADA system acts as a bridge that reads data from one device and writes it to another device, possibly displaying it on the screen as well.
+- Hardware to hardware communication requires a hardware-software interface (HSI) that defines how the hardware devices and the software components interact with each other. The HSI can include specifications for the data formats, the memory addresses, the registers, the interrupts, the commands, and the status signals of the hardware devices.
+- Hardware to hardware communication is essential for the functionality and performance of any network or system that involves multiple devices or components. It enables data sharing, synchronization, coordination, and control among the hardware devices. It also facilitates the integration and interoperability of different hardware platforms and technologies.

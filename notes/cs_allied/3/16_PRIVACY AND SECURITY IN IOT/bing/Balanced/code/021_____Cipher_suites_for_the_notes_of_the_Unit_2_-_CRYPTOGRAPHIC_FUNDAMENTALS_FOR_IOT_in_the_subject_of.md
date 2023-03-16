@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of cipher suites for the unit 2 - cryptographic fundamentals for IoT in the subject of privacy and security in IoT.
+
+### Cipher suites
+- A cipher suite is a set of algorithms that are used to secure the communication between two parties, such as a client and a server, in a network.
+- A cipher suite consists of four components: a key exchange algorithm, an authentication algorithm, an encryption algorithm, and a message authentication code (MAC) algorithm.
+- The key exchange algorithm is used to establish a shared secret key between the parties, which is then used to encrypt and decrypt the data.
+- The authentication algorithm is used to verify the identity of the parties and prevent impersonation attacks.
+- The encryption algorithm is used to transform the data into an unintelligible form, so that only the parties who have the secret key can read it.
+- The MAC algorithm is used to ensure the integrity and authenticity of the data, by generating a code that depends on the data and the secret key, and appending it to the data.
+- A cipher suite is usually denoted by a string of the form `Kx-Au-Enc-Mac`, where `Kx` is the key exchange algorithm, `Au` is the authentication algorithm, `Enc` is the encryption algorithm, and `Mac` is the MAC algorithm. For example, `ECDHE-RSA-AES128-GCM-SHA256` is a cipher suite that uses elliptic curve Diffie-Hellman ephemeral (ECDHE) for key exchange, RSA for authentication, AES with 128-bit key and Galois/Counter Mode (GCM) for encryption, and SHA-256 for MAC.
+- A cipher suite is chosen by the client and the server during the handshake phase of the communication protocol, such as TLS or DTLS, based on their capabilities and preferences. The client sends a list of supported cipher suites to the server, and the server selects one of them and sends it back to the client. The client and the server then use the selected cipher suite for the rest of the communication.
+- A cipher suite should be chosen carefully, as it affects the security, performance, and compatibility of the communication. Some factors to consider are:
+  - The security level of the algorithms, which depends on their design, implementation, and key size. The algorithms should be resistant to known attacks and have no known weaknesses or vulnerabilities.
+  - The performance of the algorithms, which depends on their computational complexity, memory usage, and bandwidth consumption. The algorithms should be efficient and scalable, and not introduce significant overhead or latency to the communication.
+  - The compatibility of the algorithms, which depends on their availability, support, and interoperability. The algorithms should be widely implemented and supported by various platforms, devices, and applications, and be compatible with the communication protocol and the network environment.

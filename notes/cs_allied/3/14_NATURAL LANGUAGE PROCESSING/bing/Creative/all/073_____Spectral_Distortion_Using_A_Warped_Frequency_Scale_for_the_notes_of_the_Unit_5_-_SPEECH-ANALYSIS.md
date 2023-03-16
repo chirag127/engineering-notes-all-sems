@@ -1,0 +1,13 @@
+# Spectral Distortion Using A Warped Frequency Scale
+
+- Spectral distortion is a measure of how much the spectral shape of a signal is changed by a transformation, such as filtering, compression, or encoding.
+- A warped frequency scale is a nonlinear mapping of the frequency axis that changes the resolution and spacing of the frequency bins, usually to match some perceptual or physiological criterion.
+- Warped frequency scales are often used in speech analysis and synthesis to improve the accuracy and efficiency of spectral modeling, especially for low-order models that use a limited number of parameters.
+- Some examples of warped frequency scales are:
+  - The Bark scale, which is based on the critical band rate of the human auditory system, derived from auditory masking experiments. The Bark scale has higher resolution for low frequencies and lower resolution for high frequencies, reflecting the frequency selectivity of the ear. 
+  - The Mel scale, which is based on the just noticeable differences in frequency, or pitch, of the human ear. The Mel scale is a logarithmic scale that has higher resolution for low frequencies and lower resolution for high frequencies, reflecting the pitch perception of the ear. 
+  - The ERB scale, which is based on the equivalent rectangular bandwidth of the auditory filters in the cochlea. The ERB scale is similar to the Bark scale, but has a more accurate representation of the frequency resolution of the ear. 
+- Warped frequency scales can be applied to speech analysis and synthesis in various ways, such as:
+  - Warping the frequency axis of the speech signal before applying linear prediction (LP) or other spectral modeling techniques, to obtain a better fit of the model to the warped spectrum. This can reduce the spectral distortion and improve the perceptual quality of the synthesized speech.  
+  - Warping the frequency axis of the spectral model parameters, such as the cepstral coefficients or the LPC coefficients, to obtain a more compact and efficient representation of the spectral envelope. This can reduce the bit rate and the computational complexity of the speech coding or synthesis system. 
+  - Warping the frequency axis of the spectral features, such as the mel-frequency cepstral coefficients (MFCCs) or the perceptual linear prediction (PLP) coefficients, to obtain a more robust and discriminative representation of the speech signal for speech recognition or speaker identification. This can improve the performance and accuracy of the speech recognition or speaker identification system.

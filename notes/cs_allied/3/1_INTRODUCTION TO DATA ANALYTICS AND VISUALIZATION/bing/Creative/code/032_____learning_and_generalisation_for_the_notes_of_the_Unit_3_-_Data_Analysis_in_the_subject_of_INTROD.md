@@ -1,0 +1,30 @@
+### Learning and Generalisation for the Notes of the Unit 3 - Data Analysis in the Subject of Introduction to Data Analytics and Visualization
+
+- Learning analytics is the collection and analysis of data about learners and their environments for the purpose of understanding and improving learning outcomes.
+- Learning analytics can be used to:
+  - Provide feedback and guidance to learners and instructors
+  - Identify at-risk learners and intervene early
+  - Personalize learning experiences and pathways
+  - Evaluate the effectiveness of learning activities and interventions
+  - Discover new insights and patterns from learning data
+- Generalisation is the ability of a machine learning model to classify or forecast new data that is not part of the training set.
+- Generalisation is the ultimate goal of machine learning, as it indicates that the model has learned the underlying statistical patterns from the data, not just memorized the specific examples.
+- Generalisation can be measured by the difference between the training error and the test error of a model. A small difference indicates good generalisation, while a large difference indicates overfitting or underfitting.
+- Overfitting is when a model performs well on the training data, but poorly on the test data, because it has learned too many details and noise that are not relevant to the general problem.
+- Underfitting is when a model performs poorly on both the training and the test data, because it has not learned enough features and complexity to capture the general problem.
+- Bias is the difference between the expected prediction of a model and the true value. A model with high bias has a strong assumption about the data and tends to oversimplify the problem.
+- Variance is the variability of the model prediction for a given data point. A model with high variance has a high sensitivity to the data and tends to overcomplicate the problem.
+- There is a trade-off between bias and variance in machine learning. A low bias and high variance model can lead to overfitting, while a high bias and low variance model can lead to underfitting.
+- Regularization is a technique to reduce overfitting and improve generalisation by adding a penalty term to the model complexity or the model parameters.
+- Some examples of regularization methods are:
+  - L1 and L2 regularization: adding the absolute value or the square of the model parameters to the loss function
+  - Dropout: randomly dropping out some units or connections in a neural network during training
+  - Early stopping: stopping the training process when the validation error starts to increase
+  - Data augmentation: increasing the size and diversity of the training data by applying transformations such as rotation, scaling, cropping, etc.
+- Adaptive data analysis is the process of performing multiple analyses on the same data set, where each analysis depends on the results of previous analyses .
+- Adaptive data analysis can lead to overfitting and false discoveries, because the data set is reused multiple times and the hypotheses are not independent .
+- To prevent overfitting and ensure generalisation in adaptive data analysis, some possible solutions are:
+  - Using a separate holdout set for each analysis and never reusing it
+  - Using a larger data set and splitting it into smaller subsets for each analysis
+  - Using differential privacy techniques to add noise to the data or the results
+  - Using information-theoretic measures to bound the mutual information between the hypotheses and the output .

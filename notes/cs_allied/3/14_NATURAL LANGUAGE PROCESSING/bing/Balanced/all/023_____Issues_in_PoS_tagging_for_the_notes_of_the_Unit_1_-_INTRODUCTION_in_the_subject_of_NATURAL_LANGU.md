@@ -1,0 +1,8 @@
+# Issues in PoS tagging
+
+- Part-of-speech (PoS) tagging is the process of assigning a grammatical category to each word in a text, such as noun, verb, adjective, etc. based on its definition and context.
+- PoS tagging is an important task in natural language processing (NLP) as it can help in syntactic analysis, semantic disambiguation, information extraction, machine translation, and other applications.
+- However, PoS tagging is not a trivial task as it faces several challenges and difficulties, such as:
+  - **Ambiguity**: Many words can have multiple PoS depending on the context. For example, the word "book" can be a noun or a verb in different sentences. A PoS tagger has to resolve this ambiguity accurately based on the surrounding words and their PoS  .
+  - **Unknown words**: A PoS tagger may encounter words that are not in its vocabulary or training data, such as new words, proper names, foreign words, acronyms, etc. A PoS tagger has to assign a PoS to these words based on some heuristics, such as word morphology, capitalization, suffixes, etc. However, these heuristics may not always work well and may lead to errors .
+  - **Variation**: Different languages, dialects, genres, domains, and styles may have different PoS systems and conventions. A PoS tagger has to adapt to these variations and use appropriate PoS tags for different texts. Moreover, different PoS taggers may use different PoS tag sets and schemes, ranging from a few to hundreds of tags. A PoS tagger has to be consistent and compatible with the chosen tag set and scheme .

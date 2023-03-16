@@ -1,0 +1,12 @@
+### Characteristics of Embedded Operating Systems
+
+An embedded operating system is a computer operating system designed for use in embedded computer systems. These operating systems are designed to be small, resource-efficient, dependable, and reduce many features that aren't required by specialized applications .
+
+Some of the main characteristics of embedded operating systems are:
+
+- **Direct use of interrupts**: Embedded operating systems can handle interrupts from various sources, such as sensors, timers, or communication devices, without relying on a general-purpose interrupt handler. This allows for faster and more predictable response times.
+- **Reactive operation**: Embedded operating systems are often event-driven, meaning they react to external stimuli and perform the appropriate actions. This requires a high degree of concurrency and synchronization among different tasks.
+- **Real-time operation**: Embedded operating systems must meet strict timing constraints and deadlines, as the performance of the system depends on the timely execution of tasks. This requires the use of scheduling algorithms and priority mechanisms to ensure that the most critical tasks are executed first.
+- **Streamlined protection mechanisms**: Embedded operating systems often have simplified or minimal protection mechanisms, such as memory management, access control, or exception handling, as they are designed to run on dedicated hardware with limited resources. This reduces the overhead and complexity of the system, but also increases the risk of errors or security breaches.
+- **I/O device flexibility**: Embedded operating systems must support a wide range of input/output devices, such as sensors, actuators, displays, keyboards, or cameras, that are specific to the application domain. This requires the use of device drivers and interfaces that can communicate with the hardware and the application layer.
+- **Application-specific customization**: Embedded operating systems are often tailored to the needs and requirements of the application and the hardware platform, as they are not intended to run general-purpose software. This allows for optimizing the performance, functionality, and reliability of the system, but also reduces the portability and compatibility of the operating system .

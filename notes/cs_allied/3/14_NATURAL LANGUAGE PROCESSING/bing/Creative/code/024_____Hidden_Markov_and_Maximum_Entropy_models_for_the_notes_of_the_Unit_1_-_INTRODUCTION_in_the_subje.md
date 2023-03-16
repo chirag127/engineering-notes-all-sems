@@ -1,0 +1,12 @@
+### Hidden Markov and Maximum Entropy models for natural language processing
+
+- Hidden Markov Model (HMM) is a probabilistic graphical model that allows us to calculate a sequence of unknown or unobserved variables (hidden states) from a set of observed variables (emissions).
+- HMMs are widely used in natural language processing, especially in speech recognition, part-of-speech tagging, named entity recognition, and machine translation. 
+- HMMs are based on the assumption that the hidden state at a given time depends only on the previous hidden state, and the emission at a given time depends only on the current hidden state. This is known as the Markov property.
+- HMMs can be represented by a set of parameters: the initial state probabilities, the state transition probabilities, and the emission probabilities. These parameters can be estimated from training data using algorithms such as the Baum-Welch algorithm or the Viterbi algorithm.
+- Maximum Entropy Markov Model (MEMM) is a discriminative model that extends a standard maximum entropy classifier by assuming that the unknown values to be learnt are connected in a Markov chain rather than being conditionally independent of each other.
+- MEMMs find applications in natural language processing, specifically in part-of-speech tagging and information extraction.
+- MEMMs are based on the principle of maximum entropy, which states that the best model is the one that makes the least assumptions about the data, subject to some constraints.
+- MEMMs can be represented by a set of features and weights, which are used to calculate the conditional probability of a hidden state given an observed variable and the previous hidden state. These weights can be estimated from training data using algorithms such as the Improved Iterative Scaling algorithm or the Generalized Iterative Scaling algorithm.
+- MEMMs overcome some of the limitations of HMMs, such as the inability to incorporate arbitrary features of the observed variables, the independence assumption of the emissions, and the label bias problem.
+- However, MEMMs also have some drawbacks, such as the requirement of large amounts of training data, the difficulty of handling long-range dependencies, and the possibility of producing zero probabilities for unseen events.

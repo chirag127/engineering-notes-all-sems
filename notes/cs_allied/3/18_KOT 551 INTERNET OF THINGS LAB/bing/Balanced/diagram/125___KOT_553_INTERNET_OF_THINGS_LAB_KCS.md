@@ -1,0 +1,23 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- Internet of Things (IoT) is the network of physical objects or devices that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet.
+- IoT Lab is a course that aims to provide students with hands-on experience in designing, developing, and testing IoT applications using various hardware and software platforms.
+- KOT 553 is the course code for IoT Lab offered by the Department of Computer Science and Engineering at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+- KCS is the abbreviation for Kalam Computer Science, which is the name of the degree program offered by AKTU for Computer Science and Engineering students.
+- The course objectives of KOT 553 are:
+  - To understand the basic concepts and principles of IoT and its applications in various domains.
+  - To learn how to use different IoT devices, sensors, actuators, and communication protocols.
+  - To develop skills in programming, interfacing, and integrating IoT components using various software tools and platforms.
+  - To design and implement IoT solutions for real-world problems and scenarios.
+- The course outcomes of KOT 553 are:
+  - Students will be able to explain the key features and challenges of IoT and its impact on society and environment.
+  - Students will be able to identify and select appropriate IoT devices, sensors, actuators, and communication protocols for a given application.
+  - Students will be able to program, interface, and integrate IoT components using various software tools and platforms such as Arduino, Raspberry Pi, NodeMCU, MQTT, etc.
+  - Students will be able to design and implement IoT solutions for real-world problems and scenarios such as smart home, smart city, smart agriculture, etc.
+- The course syllabus of KOT 553 covers the following topics:
+  - Introduction to IoT: Definition, characteristics, architecture, components, applications, and challenges of IoT.
+  - IoT Devices: Types, features, and functions of IoT devices such as microcontrollers, sensors, actuators, etc.
+  - IoT Communication: Types, features, and protocols of IoT communication such as wired, wireless, cellular, Bluetooth, Wi-Fi, ZigBee, LoRa, etc.
+  - IoT Software: Types, features, and platforms of IoT software such as operating systems, middleware, cloud services, etc.
+  - IoT Programming: Basics of programming languages, libraries, and frameworks for IoT such as C, Python, Arduino, Node-RED, etc.
+  - IoT Projects: Design and implementation of IoT projects for various domains such as smart home, smart city, smart agriculture, etc. using different IoT devices, sensors, actuators, communication protocols, and software platforms.

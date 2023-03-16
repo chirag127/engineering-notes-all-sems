@@ -1,0 +1,27 @@
+### Cryptographic controls built into IoT messaging and communication protocols
+
+- Cryptographic controls are methods and techniques that use codes to protect information and communications, making them inaccessible to unauthorized parties.
+- Cryptographic controls are essential for securing IoT point-to-point and end-to-end communications, as IoT devices often operate in untrusted or hostile environments and transmit sensitive or critical data.
+- Cryptographic controls can provide authentication, data integrity, confidentiality, and non-repudiation services for IoT messaging and communication protocols.
+- Authentication is the process of verifying the identity or legitimacy of a sender or receiver of a message or a communication channel.
+- Data integrity is the property that ensures that the data has not been altered or tampered with during transmission or storage.
+- Confidentiality is the property that ensures that the data is only accessible to authorized parties and not disclosed to unauthorized parties.
+- Non-repudiation is the property that ensures that the sender or receiver of a message cannot deny having sent or received it.
+- Cryptographic controls can be implemented at different layers of the IoT communication stack, such as the physical, network, transport, or application layer.
+- Cryptographic controls can be based on different types of algorithms, such as symmetric, asymmetric, or hybrid algorithms.
+- Symmetric algorithms use the same key for encryption and decryption of data, and are faster and more efficient than asymmetric algorithms, but require a secure way to distribute and manage the keys.
+- Asymmetric algorithms use different keys for encryption and decryption of data, and are more secure and scalable than symmetric algorithms, but require more computational resources and bandwidth.
+- Hybrid algorithms combine symmetric and asymmetric algorithms, and use asymmetric algorithms to exchange symmetric keys, and then use symmetric algorithms to encrypt and decrypt data.
+- Cryptographic controls can also be based on different types of schemes, such as stream ciphers, block ciphers, hash functions, digital signatures, or public key infrastructures.
+- Stream ciphers encrypt and decrypt data bit by bit, and are suitable for continuous or real-time data streams, but are vulnerable to replay attacks and require synchronization between sender and receiver.
+- Block ciphers encrypt and decrypt data in fixed-size blocks, and are suitable for discrete or batch data, but require padding or chaining modes to handle data that is not a multiple of the block size.
+- Hash functions generate a fixed-length output from a variable-length input, and are used to verify the data integrity and authenticity, but cannot provide confidentiality or non-repudiation.
+- Digital signatures use hash functions and asymmetric algorithms to generate and verify a signature that is attached to a message, and can provide data integrity, authenticity, and non-repudiation, but cannot provide confidentiality.
+- Public key infrastructures use certificates and authorities to manage and distribute public keys, and can provide authentication, confidentiality, and non-repudiation, but require trust and coordination among the entities involved.
+- Cryptographic controls are integrated into various IoT messaging and communication protocols, such as ZigBee, Z-Wave, Bluetooth Low Energy, MQTT, CoAP, or DTLS.
+- ZigBee is a wireless protocol that operates in the network layer and supports mesh networking, and uses AES-128 for encryption and authentication, and ECC for key exchange and digital signatures.
+- Z-Wave is a wireless protocol that operates in the network layer and supports mesh networking, and uses AES-128 for encryption and authentication, and Diffie-Hellman for key exchange.
+- Bluetooth Low Energy is a wireless protocol that operates in the physical and network layer and supports point-to-point and star networking, and uses AES-CCM for encryption and authentication, and ECDH for key exchange and digital signatures.
+- MQTT is a lightweight application layer protocol that supports publish-subscribe messaging, and uses TLS for encryption, authentication, and non-repudiation, and X.509 certificates for public key management.
+- CoAP is a lightweight application layer protocol that supports request-response and observe messaging, and uses DTLS for encryption, authentication, and non-repudiation, and X.509 certificates or raw public keys for public key management.
+- DTLS is a transport layer protocol that provides security for datagram-based protocols, and uses TLS for encryption, authentication, and non-repudiation, and X.509 certificates or raw public keys for public key management.

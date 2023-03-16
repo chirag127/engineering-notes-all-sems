@@ -1,0 +1,7 @@
+### Part-of-Speech Tagging
+
+- Part-of-speech (POS) tagging is the process of assigning a grammatical category to each word in a sentence or text, such as noun, verb, adjective, adverb, etc.  
+- POS tagging is an important task in natural language processing (NLP), as it can help to analyze the structure and meaning of a sentence, and to perform other tasks such as parsing, named entity recognition, sentiment analysis, machine translation, etc.  
+- POS tagging can be done manually by human annotators, or automatically by computer programs. Automatic POS tagging is more efficient and scalable, but also more challenging and error-prone, as natural languages are complex and ambiguous.  
+- There are different methods and techniques for automatic POS tagging, such as rule-based, statistical, and neural network-based approaches. Each method has its own advantages and disadvantages, depending on the language, the domain, the corpus, and the evaluation criteria.  
+- One of the most popular and widely used statistical methods for POS tagging is the Hidden Markov Model (HMM), which is a probabilistic model that assigns the most likely POS tag to each word based on the previous word and tag, and the likelihood of the word given the tag. HMMs can be trained on large corpora of tagged data, and can achieve high accuracy and efficiency.

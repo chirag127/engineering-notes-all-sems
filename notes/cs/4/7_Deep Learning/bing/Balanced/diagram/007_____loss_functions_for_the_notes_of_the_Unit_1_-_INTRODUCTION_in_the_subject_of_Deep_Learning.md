@@ -1,0 +1,14 @@
+### Loss Functions for Deep Learning
+
+- A loss function is a method of evaluating how well a deep learning model is modelling the dataset. It measures the difference between the predicted output and the true output for a single example or a batch of examples in the training data  .
+- The loss function is also called the cost function or the objective function in some contexts .
+- The goal of training a deep learning model is to minimize the loss function by adjusting the model parameters using an optimization algorithm such as gradient descent .
+- The choice of the loss function depends on the type and complexity of the problem, the output activation function, and the performance metric  .
+- Some of the common loss functions for deep learning are:
+  - Mean Squared Error (MSE): It is the average of the squared differences between the predicted and true values. It is used for regression problems with continuous outputs. It is sensitive to outliers and assumes a Gaussian distribution of errors .
+  - Mean Absolute Error (MAE): It is the average of the absolute differences between the predicted and true values. It is also used for regression problems with continuous outputs. It is less sensitive to outliers and does not assume any distribution of errors .
+  - Binary Cross-Entropy (BCE): It is the negative of the average of the logarithm of the predicted probabilities for the true class labels. It is used for binary and multilabel classification problems with sigmoid or softmax output activation functions. It penalizes wrong predictions more than correct ones  .
+  - Categorical Cross-Entropy (CCE): It is the negative of the average of the logarithm of the predicted probabilities for the true class labels. It is used for multiclass classification problems with softmax output activation function. It also penalizes wrong predictions more than correct ones  .
+  - Sparse Categorical Cross-Entropy (SCCE): It is similar to CCE, but it accepts integer-encoded class labels instead of one-hot encoded labels. It is useful when the number of classes is large and one-hot encoding is inefficient .
+  - Hinge Loss: It is the average of the maximum of zero and one minus the product of the true class label and the predicted score. It is used for binary and multiclass classification problems with linear output activation function. It encourages a large margin between the classes  .
+  - Kullback-Leibler Divergence (KLD): It is the average of the product of the true probability distribution and the logarithm of the ratio of the true and predicted probability distributions. It is used for measuring the similarity between two probability distributions. It is also called the relative entropy  .

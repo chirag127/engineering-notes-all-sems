@@ -1,0 +1,9 @@
+# Word Senses
+
+- A word sense is a representation of one aspect of a word's meaning.
+- A word can have multiple senses, depending on the context in which it is used. For example, the word "bank" can mean a financial institution, a sloping mound, a biological repository, or a building where a bank does its business.
+- Word sense disambiguation (WSD) is the task of assigning the appropriate sense to a given word in a text or discourse. It is one of the fundamental problems in natural language processing (NLP), as natural language is ambiguous and many words can be interpreted in multiple ways.
+- WSD can be useful for many NLP applications, such as machine translation, information retrieval, text summarization, sentiment analysis, etc. For example, translating the word "bank" from English to French would require different words depending on the sense of "bank" in the source text.
+- WSD can be performed using various methods, such as rule-based, knowledge-based, supervised, unsupervised, or semi-supervised approaches. Each method has its own advantages and disadvantages, such as accuracy, coverage, scalability, etc.
+- Neural word representations, such as word2vec or GloVe, are popular techniques for modeling semantic and syntactic word relationships in NLP. However, most of these techniques model only one representation per word, despite the fact that a single word can have multiple senses.
+- sense2vec is a method for word sense disambiguation that leverages neural word representations and part-of-speech tags to create multiple vectors for each word, corresponding to different senses. It is a fast and accurate method that can capture fine-grained semantic differences between words and their senses.

@@ -1,0 +1,8 @@
+# Analysis vs Reporting
+
+- Analysis and reporting are two different processes that are often confused or used interchangeably in data analytics and visualization.
+- Reporting is the process of presenting data in a structured and summarized way, such as tables, charts, dashboards, etc. Reporting aims to answer questions like what, when, where, and how much.
+- Analysis is the process of exploring, interpreting, and explaining data, such as finding patterns, trends, outliers, correlations, causations, etc. Analysis aims to answer questions like why, how, and what if.
+- Reporting is usually done for a specific audience, such as managers, clients, or stakeholders, who need to monitor the performance or status of a project, process, or system. Reporting is often based on predefined metrics, indicators, or goals, and follows a standard format or template.
+- Analysis is usually done for a general or exploratory purpose, such as discovering new insights, generating hypotheses, or testing assumptions. Analysis is often based on ad hoc queries, experiments, or models, and follows a flexible or iterative approach.
+- Reporting and analysis are both important and complementary aspects of data analytics and visualization. Reporting helps to communicate the results of analysis, and analysis helps to generate new questions or hypotheses for reporting. Reporting and analysis can also be integrated or automated using tools and techniques such as interactive dashboards, data mining, machine learning, etc.

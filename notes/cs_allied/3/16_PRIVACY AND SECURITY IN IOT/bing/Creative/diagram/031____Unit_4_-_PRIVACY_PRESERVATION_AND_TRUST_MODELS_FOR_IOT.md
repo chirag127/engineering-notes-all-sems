@@ -1,0 +1,17 @@
+## Unit 4 - Privacy Preservation and Trust Models for IoT
+
+- Privacy preservation and trust models are important aspects of IoT security, as they deal with the protection of sensitive data and the establishment of reliable interactions among IoT devices and users.
+- Privacy preservation techniques aim to prevent unauthorized access, disclosure, or inference of personal or confidential information that is generated, transmitted, or processed by IoT devices.
+- Trust models aim to evaluate the credibility, reliability, and reputation of IoT devices and users, based on their behavior, performance, and feedback.
+- Some of the challenges and requirements for privacy preservation and trust models in IoT are:
+  - The heterogeneity and diversity of IoT devices, applications, and data types.
+  - The resource constraints and scalability issues of IoT devices and networks.
+  - The dynamic and distributed nature of IoT environments and interactions.
+  - The trade-off between privacy, trust, and utility of IoT data and services.
+  - The legal and ethical implications of IoT data collection and usage.
+- Some of the existing techniques and frameworks for privacy preservation and trust models in IoT are:
+  - Encryption and decryption: This technique involves transforming data into an unreadable form using a secret key, and restoring it to the original form using the same or a different key. Encryption and decryption can provide data confidentiality and integrity, but also introduce computational and communication overhead. Examples of encryption schemes for IoT are DPP model, EPIC, and IBE.
+  - Obfuscation: This technique involves modifying or hiding data to reduce its sensitivity or identifiability, while preserving its utility or functionality. Obfuscation can provide data privacy and anonymity, but also affect data quality and accuracy. Examples of obfuscation mechanisms for IoT are DP, slicing and mixing, and informative event.
+  - Functional encryption and decryption: This technique involves encrypting data in such a way that only specific functions can be performed on the encrypted data, without revealing any other information. Functional encryption and decryption can provide fine-grained access control and data minimization, but also require complex cryptographic schemes and protocols. Examples of functional encryption schemes for IoT are information relevance model and contextual privacy perception framework.
+  - Trust evaluation: This technique involves measuring and quantifying the trustworthiness of IoT devices and users, based on their attributes, behavior, performance, and feedback. Trust evaluation can provide trust-based decision making and reputation management, but also require trust metrics, algorithms, and policies. Examples of trust models for IoT are interaction-based privacy protection management framework, privacy-preserving trust model, and privacy-preserving model based on trust evaluation.
+  - Privacy monitoring: This technique involves detecting and preventing privacy violations or breaches in IoT environments, based on privacy policies, rules, and regulations. Privacy monitoring can provide privacy enforcement and accountability, but also require privacy-aware architectures, protocols, and mechanisms. Examples of privacy monitoring frameworks for IoT are privacy monitoring framework, privacy preserving communication protocol, and balance privacy-preserving data aggregation model.

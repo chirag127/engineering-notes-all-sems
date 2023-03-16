@@ -1,0 +1,28 @@
+### Arduino for the notes of the Unit 3 - CYBERNETICS AND HUM
+
+- Arduino is an open-source electronics platform based on easy-to-use hardware and software.
+- Arduino boards are able to read inputs from sensors, buttons, or online sources, and turn them into outputs such as motors, LEDs, or online actions .
+- Arduino boards are programmed using the Arduino Software (IDE), which is a cross-platform application that allows users to write code, upload it to the board, and monitor the serial communication .
+- The Arduino Software (IDE) can be extended through the use of libraries, which are collections of code that provide extra functionality to the sketches.
+- The Arduino Software (IDE) supports a variety of Arduino boards, each with different features and capabilities.
+- The main components of an Arduino board are:
+  - Microcontroller: this is the brain of the Arduino, and is the component that we load programs into. It is a small computer that can execute instructions and perform calculations.
+  - USB port: used to connect the Arduino board to a computer, and to provide power to the board.
+  - USB to Serial chip: this is an important component, as it helps translating data that comes from the computer to the microcontroller, and vice versa.
+  - Power jack: used to connect an external power source to the board, such as a battery or a wall adapter.
+  - Voltage regulator: this is a component that ensures that the board receives a stable and constant voltage, regardless of the power source.
+  - Reset button: used to restart the microcontroller and the program.
+  - Digital pins: these are pins that can be used to send or receive digital signals, such as HIGH or LOW, or 1 or 0. They can be used to control LEDs, motors, switches, etc.
+  - Analog pins: these are pins that can be used to read analog signals, such as voltages that vary between 0 and 5 volts. They can be used to read sensors, potentiometers, etc.
+  - PWM pins: these are digital pins that can be used to generate pulse-width modulation (PWM) signals, which are signals that vary in duty cycle, or the ratio of on and off time. They can be used to control the brightness of LEDs, the speed of motors, etc.
+  - LED: this is a small light that indicates the status of the board, such as power, communication, or program execution.
+- Some basic electronics concepts that are useful for working with Arduino are:
+  - Electricity: this is the flow of electric charge carriers, such as electrons, through a conductive material, such as wires. Electricity can be measured in terms of voltage, current, and resistance.
+  - Voltage: this is the difference in electric potential between two points, and is measured in volts (V). Voltage is the force that pushes the electrons through the circuit.
+  - Current: this is the rate of flow of electric charge, and is measured in amperes (A). Current is the amount of electrons that pass through a point in the circuit per unit of time.
+  - Resistance: this is the opposition to the flow of electric charge, and is measured in ohms (Ω). Resistance is the property of a material or a component that limits the current that can pass through it.
+  - Ohm's law: this is a mathematical equation that relates voltage, current, and resistance in a circuit. It states that voltage is equal to current times resistance, or V = I * R.
+  - Resistors: these are components that have a fixed or variable resistance, and are used to limit the current, divide the voltage, or protect other components in a circuit.
+  - Capacitors: these are components that can store electric charge, and are used to smooth out voltage fluctuations, filter out noise, or create time delays in a circuit.
+  - LEDs: these are components that emit light when a current passes through them, and are used to indicate the status, display information, or create effects in a circuit. LEDs have a polarity, which means they have a positive and a negative terminal, and they must be connected correctly to work. LEDs also need a resistor in series to limit the current and prevent them from burning out.
+  - Switches: these are components that can open or close a circuit, and are used to control the flow of current, or to provide inputs to the Arduino board. Switches can be pushbuttons, toggle switches, slide switches

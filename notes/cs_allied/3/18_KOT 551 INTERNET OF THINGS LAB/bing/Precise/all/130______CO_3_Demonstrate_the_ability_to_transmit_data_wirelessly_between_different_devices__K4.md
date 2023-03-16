@@ -1,0 +1,10 @@
+#### CO 3 Demonstrate the ability to transmit data wirelessly between different devices. K4
+
+1. **Wireless data transmission** refers to the transfer of information between two or more devices without the use of physical connections such as cables or wires.
+2. There are several **wireless technologies** that can be used for data transmission, including Wi-Fi, Bluetooth, cellular networks, and satellite communication.
+3. **Wi-Fi** is a popular wireless technology that allows devices to connect to a local area network (LAN) and access the internet. It operates in the 2.4 GHz and 5 GHz frequency bands and can achieve high data transfer rates.
+4. **Bluetooth** is another widely used wireless technology that enables short-range communication between devices. It is commonly used for connecting peripherals such as keyboards, mice, and headphones to computers and mobile devices.
+5. **Cellular networks** provide wireless communication over long distances and are used for mobile voice and data services. They operate using a system of interconnected base stations, or cell sites, that transmit and receive signals over a range of frequencies.
+6. **Satellite communication** is a form of wireless communication that uses satellites to transmit data over long distances. It is commonly used for global positioning systems (GPS), satellite television, and satellite internet services.
+7. To transmit data wirelessly between different devices, the devices must be equipped with the appropriate wireless technology and be within range of each other or a wireless access point. The data is then transmitted using radio waves or infrared signals.
+8. Wireless data transmission has several advantages over wired transmission, including increased mobility, flexibility, and ease of installation. However, it can also be subject to interference, security risks, and range limitations.

@@ -1,0 +1,27 @@
+### Inter Process Communication – Semaphore
+
+- Inter Process Communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
+- IPC can be achieved through both shared memory and message passing methods.
+- A semaphore is a counter that can be used to control access to a shared resource by multiple processes .
+- A semaphore can be initialized to a positive integer value, which represents the number of available units of the resource .
+- A process that wants to use the resource must first perform a wait operation on the semaphore, which decrements the value by one .
+- If the value of the semaphore is zero or negative, the process is blocked until another process releases the resource by performing a signal operation on the semaphore, which increments the value by one .
+- A semaphore can be either binary (only two values: 0 or 1) or counting (any non-negative value) .
+- A binary semaphore can be used to implement mutual exclusion, where only one process can access the resource at a time .
+- A counting semaphore can be used to implement synchronization, where a process can wait for a certain number of other processes to finish before proceeding .
+- Semaphores can be either local (within a single process) or global (shared by multiple processes) .
+- A global semaphore can be implemented using a system call or a shared memory segment .
+- A global semaphore can be used for interprocess communication, where processes can exchange data or signals using the semaphore value or the shared memory segment .
+- To perform synchronization using semaphores, the following steps are required:
+  - Step 1: Create a semaphore or connect to an already existing semaphore (semget())
+  - Step 2: Perform operations on the semaphore, i.e., allocate or release or wait for the resources (semop())
+  - Step 3: Perform control operations on the semaphore, i.e., set or get or remove the semaphore (semctl())
+- Semaphores have some advantages and disadvantages over other IPC methods :
+  - Advantages:
+    - Semaphores are simple and flexible to use
+    - Semaphores can be used for both mutual exclusion and synchronization
+    - Semaphores can be used for both local and global communication
+  - Disadvantages:
+    - Semaphores can cause deadlock or starvation if not used carefully
+    - Semaphores can be corrupted by process failures or system crashes
+    - Semaphores can be difficult to debug and maintain

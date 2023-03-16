@@ -1,0 +1,9 @@
+### Semaphore
+
+A semaphore is a variable or abstract data type used to control access to a common resource by multiple processes in a concurrent system such as a multitasking operating system. A semaphore is simply a variable that is non-negative and shared between threads. A semaphore is a signaling mechanism, and a thread that is waiting on a semaphore can be signaled by another thread. It uses two atomic operations, `wait` and `signal` for process synchronization.
+
+In VXWorks and FreeRTOS, semaphores are used for task synchronization and mutual exclusion. The basic idea is to use a semaphore to signal when a resource is available for use. When a task wants to use the resource, it must first `wait` on the semaphore. If the semaphore value is greater than zero, the task can proceed and the semaphore value is decremented. If the semaphore value is zero, the task must wait until the semaphore value becomes greater than zero. When the task is finished with the resource, it `signals` the semaphore, incrementing its value and potentially allowing another waiting task to proceed.
+
+Semaphores can be binary or counting. A binary semaphore can have only two values, 0 and 1, and is used for mutual exclusion. A counting semaphore can have a range of values and is used for signaling and synchronization.
+
+In summary, a semaphore is a synchronization tool used in concurrent systems such as VXWorks and FreeRTOS to control access to shared resources. It uses atomic operations `wait` and `signal` to synchronize tasks and can be binary or counting. Semaphores are an essential tool for ensuring the correct operation of multitasking systems.

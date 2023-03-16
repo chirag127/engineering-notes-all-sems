@@ -1,0 +1,12 @@
+## Unit 1 - Sensors / Transducers: Principles Classification, Parameters, Characteristics, Environmental Parameters (EP), Characterization
+
+- A **sensor** is an element that senses a variation in input energy to produce a variation in another or same form of energy . A **transducer** is an element that converts one form of energy to another form . The process of conversion of energy from one form to another is called **transduction**.
+- Sensors and transducers can be classified based on different criteria, such as:
+  - The principle of transduction form used, such as resistive, inductive, capacitive, piezoelectric, etc. depending on their conversion into resistance, inductance, capacitance, voltage, etc. respectively.
+  - The type of input energy, such as mechanical, thermal, optical, chemical, biological, etc. depending on the physical phenomenon they sense or detect .
+  - The type of output signal, such as analog or digital, depending on the representation of the measured quantity.
+  - The type of contact with the measured quantity, such as contact or non-contact, depending on the physical interaction between the sensor and the object.
+- Sensors and transducers have various parameters that describe their performance and behavior, such as:
+  - **Characteristics**, which are the static or dynamic properties of the sensor or transducer, such as range, sensitivity, resolution, accuracy, precision, repeatability, linearity, hysteresis, drift, response time, etc .
+  - **Environmental parameters (EP)**, which are the external factors that affect the sensor or transducer, such as temperature, humidity, pressure, vibration, electromagnetic interference, etc .
+- **Characterization** is the process of measuring and evaluating the parameters and characteristics of the sensor or transducer under different conditions and environments . Characterization can be done in different ways depending on the type of sensor or transducer, such as electrical, mechanical, thermal, optical, chemical, biological, etc. Characterization helps to understand the behavior, performance, and limitations of the sensor or transducer, and to calibrate, optimize, and improve its design and operation.

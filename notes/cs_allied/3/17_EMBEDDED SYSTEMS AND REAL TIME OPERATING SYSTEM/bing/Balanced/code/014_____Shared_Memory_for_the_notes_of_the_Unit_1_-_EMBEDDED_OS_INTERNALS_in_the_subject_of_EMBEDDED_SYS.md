@@ -1,0 +1,24 @@
+### Shared Memory
+
+- Shared memory is a method of interprocess communication (IPC) that allows multiple processes to access a common region of memory.
+- Shared memory can be used for data exchange, synchronization, or coordination among processes.
+- Shared memory is faster than other IPC methods, such as message passing or pipes, because it does not involve copying data or system calls.
+- Shared memory can be implemented in different ways, such as:
+  - Using a special system call, such as `shmget` or `mmap`, to create and map a shared memory segment in the address space of each process.
+  - Using a memory-mapped file, which is a file that is mapped to a region of memory and can be accessed by multiple processes.
+  - Using a shared memory object, which is a named object that can be created and opened by multiple processes and can be resized dynamically.
+- Shared memory systems can be classified into two types, depending on how the memory is accessed by the processes:
+  - Uniform memory access (UMA), where all processes have the same view of the memory and can access any location with the same latency and bandwidth.
+  - Non-uniform memory access (NUMA), where different processes have different views of the memory and may experience different latencies and bandwidths depending on the location of the memory.
+- Shared memory systems can also be classified into two types, depending on how the memory is distributed among the processors:
+  - Centralized shared memory, where all the processors share a single physical memory and communicate through a common bus or interconnect.
+  - Distributed shared memory, where each processor has its own local memory and can access the memory of other processors through a network or special hardware.
+- Shared memory systems have advantages and disadvantages, such as:
+  - Advantages:
+    - High performance and low overhead for IPC.
+    - Simple and natural programming model for data sharing and parallelism.
+    - No need for explicit message passing or serialization.
+  - Disadvantages:
+    - Potential for data inconsistency and race conditions due to concurrent access.
+    - Need for synchronization mechanisms, such as locks, semaphores, or barriers, to ensure data integrity and coordination.
+    - Scalability and reliability issues due to memory contention and single point of failure.

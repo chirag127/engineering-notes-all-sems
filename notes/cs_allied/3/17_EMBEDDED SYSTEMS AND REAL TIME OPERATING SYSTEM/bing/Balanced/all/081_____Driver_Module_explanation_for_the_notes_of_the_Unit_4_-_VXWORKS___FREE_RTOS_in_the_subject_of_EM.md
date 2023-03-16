@@ -1,0 +1,26 @@
+# Driver Module Explanation for the Notes of the Unit 4 - VXWORKS / FREE RTOS in the Subject of Embedded Systems and Real Time Operating Systems
+
+- A driver module is a software component that interacts with a specific hardware device or peripheral, such as a keyboard, mouse, printer, network card, etc.
+- A driver module provides a uniform interface to the device, hiding the details of its implementation and operation from the application layer.
+- A driver module typically consists of two parts: a device driver and a device controller.
+- A device driver is the part of the driver module that communicates with the operating system kernel, such as VxWorks or FreeRTOS, and handles requests from user applications to access the device.
+- A device controller is the part of the driver module that communicates with the hardware device directly, using the device-specific protocols and commands.
+- A driver module may also include a device library, which is a set of functions or APIs that provide higher-level abstractions and functionalities for the device, such as printing a document, scanning an image, sending a packet, etc.
+- A driver module may be implemented in different ways, depending on the operating system, the hardware platform, and the device characteristics.
+- Some common types of driver modules are:
+  - Character device drivers: These drivers handle devices that transfer data in a byte-by-byte or character-by-character manner, such as serial ports, keyboards, mice, etc.
+  - Block device drivers: These drivers handle devices that transfer data in fixed-size blocks, such as hard disks, floppy disks, CD-ROMs, etc.
+  - Network device drivers: These drivers handle devices that transfer data over a network, such as Ethernet cards, Wi-Fi adapters, Bluetooth modules, etc.
+  - USB device drivers: These drivers handle devices that use the Universal Serial Bus (USB) protocol, such as flash drives, webcams, printers, etc.
+  - PCI device drivers: These drivers handle devices that use the Peripheral Component Interconnect (PCI) bus, such as sound cards, video cards, network cards, etc.
+- VxWorks and FreeRTOS are two examples of real-time operating systems (RTOS) that support driver modules for various devices and peripherals.
+- VxWorks is a proprietary RTOS developed by Wind River Systems, which is widely used in embedded systems for aerospace, defense, industrial, medical, and automotive applications.
+- FreeRTOS is an open-source RTOS developed by Real Time Engineers Ltd., which is popular in embedded systems for education, hobby, and commercial purposes.
+- VxWorks and FreeRTOS have different approaches to driver module development and integration, as follows:
+  - VxWorks provides a comprehensive set of board support packages (BSPs) and device drivers for various hardware platforms and devices, which are available from Wind River or third-party vendors.
+  - VxWorks also provides a standard driver model (SDM) and a device driver interface (DDI) that define the common interfaces and structures for driver modules, which enable portability and compatibility across different devices and platforms.
+  - VxWorks driver modules are typically written in C or C++, and are compiled and linked with the VxWorks kernel image, which is then loaded into the target device's memory at boot time.
+  - FreeRTOS does not provide any official BSPs or device drivers, but relies on the hardware vendors or the community to provide them.
+  - FreeRTOS also does not have a standard driver model or a device driver interface, but rather allows the driver modules to use the native APIs and services of the FreeRTOS kernel, such as tasks, queues, semaphores, etc.
+  - FreeRTOS driver modules are typically written in C, and are compiled and linked with the FreeRTOS kernel image, which is then loaded into the target device's memory at boot time.
+  - FreeRTOS also supports a POSIX-like peripheral driver library extension called FreeRTOS-Plus-IO, which provides a common interface to driver modules using the open(), read(), write(), and ioctl() functions.

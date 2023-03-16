@@ -1,0 +1,12 @@
+### Memory Management for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Memory management is the process of allocating and deallocating memory resources to programs and processes in an efficient and effective way.
+- Memory management is essential for embedded systems, which have limited and constrained memory resources and often run multiple tasks with different memory requirements .
+- Memory management can be divided into two categories: static and dynamic.
+  - Static memory management allocates memory at compile time or before the program execution, and does not change during the program lifetime. Static memory management is simple, fast, and deterministic, but it can waste memory and limit the flexibility of the program.
+  - Dynamic memory management allocates memory at run time, and can change during the program lifetime. Dynamic memory management is more complex, slower, and less predictable, but it can save memory and allow the program to adapt to different situations.
+- Memory management can be performed by the hardware, the software, or a combination of both.
+  - Hardware memory management uses a memory management unit (MMU) or a memory protection unit (MPU) to map virtual addresses to physical addresses, and to protect the memory spaces of different processes and tasks . Hardware memory management can provide fast and secure memory access, but it can also introduce overhead and complexity.
+  - Software memory management uses a memory manager or a memory allocator to manage the memory pools, heaps, or stacks that store the memory blocks for the processes and tasks . Software memory management can provide more flexibility and control over the memory allocation and deallocation, but it can also introduce fragmentation, memory leaks, and concurrency issues .
+- Memory management can be influenced by several factors, such as the memory type, the memory size, the memory speed, the memory layout, the memory access pattern, the memory allocation algorithm, the memory deallocation algorithm, and the memory fragmentation policy  .
+- Memory management can have a significant impact on the performance, reliability, and functionality of the embedded system, and thus requires careful design and implementation  .

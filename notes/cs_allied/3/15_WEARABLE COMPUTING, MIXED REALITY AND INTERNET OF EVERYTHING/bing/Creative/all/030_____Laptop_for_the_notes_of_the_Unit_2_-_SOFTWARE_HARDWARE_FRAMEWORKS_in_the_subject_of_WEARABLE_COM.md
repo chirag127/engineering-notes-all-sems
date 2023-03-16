@@ -1,0 +1,21 @@
+# Laptop for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the field of technology that involves creating devices that can be worn on the body, such as smartwatches, smart glasses, fitness trackers, etc. 
+- Wearable devices usually have microprocessors, batteries, sensors, and wireless connectivity to collect data and communicate with other devices, such as smartphones or laptops. 
+- A laptop is a portable computer that can be used for various purposes, such as browsing the web, writing documents, playing games, etc. A laptop can also be used to connect to wearable devices and sync data, control settings, or run applications. 
+- Some of the topics that are covered in the unit 2 of the subject are:
+  - The hardware and software components of wearable devices, such as processors, memory, storage, operating systems, user interfaces, etc. 
+  - The design principles and challenges of wearable computing, such as power consumption, ergonomics, privacy, security, etc. 
+  - The applications and use cases of wearable computing, such as health monitoring, fitness tracking, augmented reality, entertainment, etc.  
+  - The integration of wearable computing with other technologies, such as mixed reality, internet of things, cloud computing, etc.  
+- A laptop that is suitable for taking notes of the unit 2 should have the following features:
+  - A good battery life, as wearable devices may drain the laptop's battery when connected. 
+  - A fast processor and enough memory, as wearable devices may require intensive computation and data processing. 
+  - A wireless network adapter, as wearable devices may use Wi-Fi or Bluetooth to communicate with the laptop. 
+  - A high-resolution display, as wearable devices may have graphical user interfaces or display images or videos. 
+  - A webcam and a microphone, as wearable devices may support voice or gesture commands or enable video conferencing. 
+  - A rugged design, as the laptop may be exposed to harsh environments or impacts when used with wearable devices. 
+- Some examples of laptops that meet these criteria are:
+  - The Getac B360, which is a fully rugged laptop with a bright, full HD touch display, dual, hot-swappable batteries, and a best-in-class warranty. 
+  - The Dell Latitude 7424 Rugged Extreme, which is a durable laptop with a quad-core processor, a solid-state drive, and a long battery life. 
+  - The Panasonic Toughbook 55, which is a modular laptop with a customizable configuration, a glove-friendly touchpad, and a backlit keyboard.

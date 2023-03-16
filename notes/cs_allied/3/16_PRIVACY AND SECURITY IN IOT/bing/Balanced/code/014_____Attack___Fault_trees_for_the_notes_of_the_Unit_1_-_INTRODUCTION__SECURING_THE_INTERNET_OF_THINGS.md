@@ -1,0 +1,7 @@
+### Attack & Fault Trees
+
+- Attack and fault trees are graphical methods to model and analyze the reliability and security of systems, especially in the context of IoT (Internet of Things).
+- Fault trees represent the possible causes of a system failure as a tree of logical gates and events. The root node is the top event (the system failure), and the leaf nodes are the basic events (the component failures or faults). The intermediate nodes are the logical gates that combine the events according to Boolean logic (AND, OR, NOT, etc.).
+- Attack trees represent the possible ways of achieving a malicious goal as a tree of attack steps and sub-goals. The root node is the main goal (the system compromise), and the leaf nodes are the atomic steps (the attack actions or techniques). The intermediate nodes are the logical gates that combine the steps according to the attacker's strategy (AND, OR, SAND, SOR, etc.).
+- Attack and fault trees can be used to evaluate the probability, cost, impact, and difficulty of system failures and attacks, as well as to identify the most critical and vulnerable components and paths in the system.
+- Attack and fault trees can also be integrated or extended to model the interaction of random failures and deliberate attacks, as well as the possible countermeasures and defenses that can mitigate the risks. Some examples of such methods are attack-defense trees, attack-fault trees, and cyber-physical system risk overlays.

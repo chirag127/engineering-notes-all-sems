@@ -1,0 +1,12 @@
+### Clustering high-dimensional data
+
+Clustering high-dimensional data is the process of grouping data points that have many attributes or features into meaningful clusters. Clustering is a useful technique for data analysis, exploration, and visualization, but it becomes challenging when the data has high dimensionality. Some of the challenges and solutions for clustering high-dimensional data are:
+
+- **Curse of dimensionality**: As the number of dimensions increases, the data becomes sparse and the distance between any two points becomes similar. This makes it hard to find meaningful clusters and measure their quality. One solution is to reduce the dimensionality of the data by applying feature selection or feature extraction techniques, such as principal component analysis (PCA), linear discriminant analysis (LDA), or autoencoders .
+- **Subspace clustering**: Not all dimensions are relevant for clustering, and different clusters may exist in different subspaces of the data. For example, in a gene expression dataset, different genes may be related to different diseases or conditions. Subspace clustering methods aim to find clusters in different subspaces of the data, rather than in the full space. Some examples of subspace clustering methods are CLIQUE, PROCLUS, and ORCLUS.
+- **Multi-view clustering**: Sometimes, the data can be represented by multiple views or sources, such as text, images, or audio. Each view may contain complementary or redundant information for clustering. Multi-view clustering methods try to integrate or combine the information from different views to improve the clustering performance. Some examples of multi-view clustering methods are co-training, co-regularization, and consensus clustering.
+- **Evaluation and validation**: Evaluating and validating the quality and robustness of the clusters in high-dimensional data is not straightforward, as there may not be a ground truth or a clear objective function. Some possible ways to evaluate and validate the clusters are using internal measures, such as silhouette coefficient, Davies-Bouldin index, or Calinski-Harabasz index, or using external measures, such as adjusted Rand index, normalized mutual information, or F-measure .
+
+: Clustering high-dimensional data - Wikipedia
+: Clustering High-Dimensional Data in Data Mining - GeeksforGeeks
+: High-dimensional multi-view clustering methods - arXiv

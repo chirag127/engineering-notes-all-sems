@@ -1,0 +1,27 @@
+### Digital Signatures
+
+- A digital signature is a mathematical scheme for verifying the authenticity and integrity of digital messages or documents.
+- A digital signature is backed by a digital certificate, which provides proof of the identity of the signer.
+- A digital signature consists of two components: a signing algorithm and a verification algorithm.
+- The signing algorithm takes the message and a private key as inputs and produces a signature as output.
+- The verification algorithm takes the message, the signature and a public key as inputs and outputs whether the signature is valid or not.
+- The public key and the private key are mathematically related, but the private key cannot be derived from the public key.
+- The public key is distributed to the recipients of the message, while the private key is kept secret by the signer.
+- A digital signature provides the following security properties:
+  - Authenticity: the recipient can verify that the message was created by a known sender.
+  - Integrity: the recipient can detect any alteration of the message during transmission.
+  - Non-repudiation: the sender cannot deny having created and signed the message.
+- A digital signature can be used for various applications, such as:
+  - Signing electronic documents, contracts, invoices, etc.
+  - Securing email communications, software updates, online transactions, etc.
+  - Implementing digital rights management, access control, audit trails, etc.
+- A digital signature can be implemented using various algorithms, such as:
+  - Digital Signature Algorithm (DSA)
+  - RSA
+  - Elliptic Curve Digital Signature Algorithm (ECDSA)
+  - EdDSA
+- A digital signature can be integrated with various formats and standards, such as:
+  - Portable Document Format (PDF)
+  - XML Signature
+  - Public Key Infrastructure (PKI)
+  - X.509 certificates

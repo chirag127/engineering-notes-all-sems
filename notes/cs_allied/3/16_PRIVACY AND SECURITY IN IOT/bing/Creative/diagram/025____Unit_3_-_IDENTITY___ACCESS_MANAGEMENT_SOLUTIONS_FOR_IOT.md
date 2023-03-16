@@ -1,0 +1,16 @@
+## Unit 3 - IDENTITY & ACCESS MANAGEMENT SOLUTIONS FOR IOT
+
+Identity and access management (IAM) is a set of technologies and policies that ensure that the right users and devices have the appropriate access to the resources and data in an IoT system. IAM also helps identify and authenticate users and devices, as well as protect the integrity and confidentiality of the communications and data.
+
+Some of the key concepts and components of IAM solutions for IoT are:
+
+- **IoT identity**: An IoT identity is a unique identifier that represents a user or a device in an IoT system. An IoT identity can be based on various attributes, such as certificates, tokens, biometrics, or passwords. An IoT identity can also be associated with metadata, such as roles, permissions, or policies.
+- **IoT authentication**: IoT authentication is the process of verifying the identity of a user or a device that requests access to an IoT system. IoT authentication can be based on various factors, such as something the user or device knows (e.g., password), something the user or device has (e.g., token), or something the user or device is (e.g., biometric). IoT authentication can also be multi-factor, which means combining two or more factors for stronger security.
+- **IoT authorization**: IoT authorization is the process of granting or denying access to a user or a device based on their identity and the policies defined by the IoT system. IoT authorization can be based on various criteria, such as the role, the context, the location, or the time of the access request. IoT authorization can also be dynamic, which means adapting to the changing conditions and risks of the IoT system.
+- **IoT encryption**: IoT encryption is the process of transforming the data and communications in an IoT system into an unreadable format that can only be decrypted by authorized parties. IoT encryption can be applied at different levels, such as the data at rest, the data in transit, or the data in use. IoT encryption can also be symmetric, which means using the same key for encryption and decryption, or asymmetric, which means using different keys for encryption and decryption.
+- **IoT integrity**: IoT integrity is the process of ensuring that the data and communications in an IoT system are not tampered with or modified by unauthorized parties. IoT integrity can be achieved by using various techniques, such as digital signatures, hash functions, or message authentication codes. IoT integrity can also be verified by using various methods, such as checksums, timestamps, or audit logs.
+
+Some of the benefits and challenges of IAM solutions for IoT are:
+
+- **Benefits**: IAM solutions for IoT can provide various benefits, such as enhancing the security and privacy of the IoT system, improving the user and device experience and trust, enabling the scalability and interoperability of the IoT system, and facilitating the compliance and governance of the IoT system.
+- **Challenges**: IAM solutions for IoT can also face various challenges, such as managing the complexity and diversity of the IoT system, coping with the resource and performance constraints of the IoT devices, addressing the evolving and emerging threats and risks of the IoT system, and balancing the trade-offs between security and usability of the IoT system.

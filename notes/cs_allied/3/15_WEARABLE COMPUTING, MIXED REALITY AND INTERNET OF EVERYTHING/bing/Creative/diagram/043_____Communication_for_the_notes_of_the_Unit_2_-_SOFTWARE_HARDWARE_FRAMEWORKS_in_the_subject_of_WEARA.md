@@ -1,0 +1,13 @@
+### Communication
+
+Communication is the process of exchanging information and data between different entities or devices. In the context of wearable computing, mixed reality and internet of everything, communication can be classified into three types:
+
+- **Human-to-human communication**: This is the communication between two or more humans, using wearable devices or mixed reality interfaces as mediators. For example, a wearable user can communicate with a remote expert using a head-mounted display and a microphone, or a group of users can share a virtual environment using wearable sensors and haptic feedback.
+- **Human-to-machine communication**: This is the communication between a human and a machine, such as a wearable device, a smart object, or a virtual agent. For example, a user can interact with a smart watch using voice commands, gestures, or touch, or a user can control a virtual character using eye tracking or brain-computer interface.
+- **Machine-to-machine communication**: This is the communication between two or more machines, such as wearable devices, sensors, actuators, or servers. For example, a wearable device can communicate with other wearable devices or smart objects using wireless protocols, such as Bluetooth, Wi-Fi, or NFC, or a wearable device can communicate with a cloud service using internet protocols, such as HTTP, MQTT, or CoAP.
+
+Communication in wearable computing, mixed reality and internet of everything has some unique characteristics and challenges, such as:
+
+- **Ubiquity**: Communication can occur anytime, anywhere, and with any device, as long as there is a connection and a compatible interface. This enables new forms of communication that are not limited by physical boundaries or fixed devices.
+- **Immersiveness**: Communication can create immersive experiences that blend the real and the virtual worlds, enhancing the sense of presence, engagement, and realism. This can also create new challenges for privacy, security, and ethics, as communication can expose personal information or manipulate the perception of reality.
+- **Multimodality**: Communication can involve multiple modalities, such as voice, text, image, video, sound, gesture, touch, or smell, depending on the context and the preference of the user. This can increase the expressiveness, richness, and accessibility of communication, but also require more processing power, bandwidth, and compatibility.

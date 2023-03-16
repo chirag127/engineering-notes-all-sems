@@ -1,0 +1,24 @@
+### Task Creation
+
+- Task creation is the process of defining and allocating the resources for a new task in an RTOS.
+- A task is a basic unit of execution that can run concurrently with other tasks on the same processor or across multiple processors.
+- A task has its own state, priority, stack, and entry point function that defines its behavior.
+- In FreeRTOS, tasks can be created dynamically or statically, depending on the configuration of the RTOS and the application requirements.
+- Dynamic task creation uses the `xTaskCreate()` function, which allocates the memory for the task state and stack from the FreeRTOS heap at run time.
+- Static task creation uses the `xTaskCreateStatic()` function, which requires the application to provide the memory for the task state and stack at compile time.
+- Both functions take the following parameters:
+  - `pvTaskCode`: a pointer to the function that implements the task.
+  - `pcName`: a descriptive name for the task, used for debugging purposes.
+  - `usStackDepth`: the size of the stack allocated for the task, in words.
+  - `pvParameters`: a pointer to a parameter that can be passed to the task function.
+  - `uxPriority`: the priority of the task, which determines its scheduling order.
+  - `pxCreatedTask`: an optional pointer to a variable that receives the handle of the created task.
+- The functions return `pdPASS` if the task was successfully created, or `errCOULD_NOT_ALLOCATE_REQUIRED_MEMORY` if the memory allocation failed.
+- In VxWorks, tasks can be created using the `taskSpawn()` function, which takes the following parameters:
+  - `name`: a string that identifies the task, used for debugging purposes.
+  - `priority`: the priority of the task, which determines its scheduling order.
+  - `options`: a set of flags that control the behavior of the task, such as whether it is preemptible, floating-point enabled, or attached to a message queue.
+  - `stackSize`: the size of the stack allocated for the task, in bytes.
+  - `entryPt`: a pointer to the function that implements the task.
+  - `arg1` to `arg10`: up to 10 arguments that can be passed to the task function.
+- The function returns the task ID of the created task, or `ERROR` if the task creation failed.

@@ -1,0 +1,26 @@
+# MAC protocol survey for IoT
+
+Medium Access Control (MAC) protocols are responsible for coordinating the access of multiple devices to a shared wireless medium. MAC protocols are essential for the performance and reliability of wireless networks, especially in the context of Internet of Things (IoT), where a large number of devices with diverse requirements and capabilities need to communicate efficiently and reliably.
+
+## Wireless Medium Access Issues
+
+Some of the main challenges and issues that affect the design and operation of MAC protocols for wireless networks are:
+
+- **Limited bandwidth**: The wireless spectrum is a scarce and expensive resource that needs to be utilized efficiently. MAC protocols need to avoid or minimize collisions, interference, and overhead, and maximize throughput and fairness.
+- **Hidden and exposed terminal problems**: Due to the broadcast nature of wireless transmissions, a device may not be able to sense the transmissions of other devices that are out of its range, leading to possible collisions or wasted opportunities. This is known as the hidden terminal problem. Conversely, a device may sense the transmissions of other devices that are not its intended receivers, leading to unnecessary deferral or backoff. This is known as the exposed terminal problem.
+- **Dynamic topology and mobility**: The wireless network topology may change frequently due to the movement of devices or environmental factors. MAC protocols need to adapt to these changes and maintain connectivity and coordination among devices.
+- **Heterogeneity and scalability**: The wireless network may consist of devices with different capabilities, such as transmission power, battery life, processing speed, memory, and sensing modalities. MAC protocols need to accommodate these differences and provide fair and efficient access to all devices. Moreover, the wireless network may grow or shrink in size, depending on the number of devices joining or leaving the network. MAC protocols need to scale well with the network size and density.
+- **Energy efficiency and reliability**: Many wireless devices are battery-powered and have limited energy resources. MAC protocols need to minimize the energy consumption of devices by reducing idle listening, overhearing, collisions, retransmissions, and control overhead. At the same time, MAC protocols need to ensure the reliability of data transmission and reception by coping with channel errors, fading, and interference.
+
+## MAC Protocol Survey
+
+MAC protocols for wireless networks can be broadly classified into two categories: contention-based and contention-free. Contention-based protocols allow devices to compete for the medium access using random or deterministic methods, such as Carrier Sense Multiple Access (CSMA), Aloha, or Slotted Aloha. Contention-free protocols assign the medium access to devices using reservation or scheduling mechanisms, such as Time Division Multiple Access (TDMA), Frequency Division Multiple Access (FDMA), or Code Division Multiple Access (CDMA).
+
+In the context of IoT, contention-based protocols are more suitable for scenarios where the network size and traffic pattern are dynamic and unpredictable, and the devices have low data rate and latency requirements. Contention-free protocols are more suitable for scenarios where the network size and traffic pattern are static and predictable, and the devices have high data rate and latency requirements.
+
+Some of the examples of MAC protocols for IoT are:
+
+- **IEEE 802.11ah**: Also known as WiFi HaLow, this is a scalable solution for medium-range communication in IoT. It leverages various innovative medium access techniques, such as Restricted Access Window (RAW), Target Wake Time (TWT), and Group Synchronized Distributed Coordination Function (GS-DCF), to support a large number of devices with low power consumption and high reliability.
+- **IEEE 802.15.4**: This is a standard for low-rate wireless personal area networks (LR-WPANs), which are widely used for IoT applications, such as smart home, smart city, and industrial automation. It defines two types of MAC protocols: a beacon-enabled mode, which uses a superframe structure with contention-free and contention-based periods, and a non-beacon-enabled mode, which uses an unslotted CSMA/CA mechanism.
+- **LoRaWAN**: This is a low-power wide-area network (LPWAN) protocol that uses a chirp spread spectrum (CSS) modulation technique to enable long-range and low-data-rate communication in IoT. It uses a star-of-stars topology, where end devices communicate with gateways, which relay the messages to a network server. It uses a pure Aloha mechanism for uplink transmissions and a time-synchronized mechanism for downlink transmissions.
+- **ZigBee**: This is a protocol for wireless mesh networks, which are self-organizing and self-healing networks that can support a large number of devices with low power consumption and high reliability. It uses the IEEE 802.15.4 MAC protocol as the lower layer,

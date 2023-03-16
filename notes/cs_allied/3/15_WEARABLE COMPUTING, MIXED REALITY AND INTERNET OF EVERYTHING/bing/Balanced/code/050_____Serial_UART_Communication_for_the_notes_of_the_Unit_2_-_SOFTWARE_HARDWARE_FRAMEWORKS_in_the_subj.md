@@ -1,0 +1,25 @@
+### Serial UART Communication
+
+- UART stands for **Universal Asynchronous Receiver Transmitter**  .
+- It is a **serial communication device** that performs parallel-to-serial and serial-to-parallel data conversion .
+- It is **universal** because the parameters like transfer speed, data speed, etc. are configurable .
+- It is **asynchronous** because there is no clock signal to synchronize the output bits from the transmitting device to the receiving device.
+- A UART is usually an individual or part of an integrated circuit (IC) used for serial communications over a computer or peripheral device serial port.
+- One or more UART peripherals are commonly integrated in microcontroller chips.
+- Specialised UARTs are used for automobiles, smart cards and SIMs.
+- A UART consists of a **transmitter** and a **receiver**  .
+- The transmitter and the receiver have separate data registers and shift registers  .
+- The transmitter converts parallel data from the data register into serial data and sends it to the receiver through a transmission line  .
+- The receiver converts serial data from the shift register into parallel data and stores it in the data register  .
+- The transmission and reception of data are controlled by **control signals** such as start bit, stop bit, parity bit, etc  .
+- The transmission and reception of data are also governed by **baud rate**, which is the number of bits per second transferred over the serial line  .
+- The baud rate of the transmitter and the receiver must be the same or close enough for successful communication  .
+- UART communication can be **full-duplex** or **half-duplex** .
+- Full-duplex means that data can be transmitted and received simultaneously .
+- Half-duplex means that data can be transmitted or received at a time, but not both .
+- UART communication can be **synchronous** or **asynchronous**.
+- Synchronous means that data is transmitted and received in fixed intervals, with a clock signal to synchronize the devices.
+- Asynchronous means that data is transmitted and received in variable intervals, without a clock signal to synchronize the devices.
+- UART communication can use different **protocols** such as RS-232, RS-485, RS-422, etc .
+- Protocols define the electrical and logical characteristics of the serial line, such as voltage levels, signal polarity, wiring, connectors, etc .
+- UART communication can be used for various applications, such as data logging, wireless communication, GPS, Bluetooth, etc .

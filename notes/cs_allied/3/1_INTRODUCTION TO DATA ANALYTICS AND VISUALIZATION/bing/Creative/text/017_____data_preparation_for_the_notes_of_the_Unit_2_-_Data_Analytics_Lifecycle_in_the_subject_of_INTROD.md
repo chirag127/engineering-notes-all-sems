@@ -1,0 +1,22 @@
+### Data Preparation for the Notes of the Unit 2 - Data Analytics Lifecycle
+
+- Data preparation is the process of collecting, processing, and cleansing data for use in analytics and business intelligence.
+- Data preparation is one of the six phases of the data analytics lifecycle, which covers the process of conducting a data analytics project based on the CRISP-DM methodology.
+- The data analytics lifecycle consists of the following phases  :
+  - Business understanding: defining the business problem and objectives, and identifying the stakeholders and their expectations.
+  - Data understanding: collecting and exploring the data from various sources, and assessing its quality and relevance.
+  - Data preparation: transforming, integrating, and cleaning the data to make it ready for analysis.
+  - Modeling: applying various analytical techniques and algorithms to the data to discover patterns and insights.
+  - Evaluation: evaluating the results and outcomes of the analysis, and validating the assumptions and hypotheses.
+  - Deployment: communicating and presenting the findings and recommendations to the stakeholders, and implementing the solutions.
+- The data preparation phase in the data analytics lifecycle requires the following steps  :
+  - Accessing and loading the data from different sources, such as databases, files, web services, etc.
+  - Structuring and formatting the data to make it consistent and compatible, such as converting data types, encoding, etc.
+  - Purging and filtering the data to remove outliers, duplicates, errors, missing values, etc.
+  - Unifying and joining the data from different sources to create a single view of the data, such as merging, appending, etc.
+  - Adjusting and enriching the data to enhance its quality and usefulness, such as normalizing, scaling, imputing, etc.
+  - Creating and deriving new variables and features from the existing data, such as aggregating, calculating, etc.
+  - Exploring and visualizing the data to understand its characteristics and distributions, such as summarizing, plotting, etc.
+- The data preparation phase in the data analytics lifecycle requires a scalable and flexible platform that data analysts and data scientists use to process data, known as an analytical sandbox.
+- The data preparation phase in the data analytics lifecycle is an iterative and interactive process that involves frequent feedback and refinement.
+- The data preparation phase in the data analytics lifecycle is a critical and time-consuming process that affects the quality and accuracy of the subsequent analysis and modeling .

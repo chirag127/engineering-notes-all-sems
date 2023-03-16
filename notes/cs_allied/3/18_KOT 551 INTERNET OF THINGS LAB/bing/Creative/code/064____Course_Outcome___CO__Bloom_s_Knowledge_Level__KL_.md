@@ -1,0 +1,19 @@
+## Course Outcome (CO) Bloom's Knowledge Level (KL)
+
+- Course Outcome (CO) is a statement that describes what a learner should be able to do at the end of a course or a unit of instruction.
+- Bloom's Knowledge Level (KL) is a classification of cognitive skills that learners can demonstrate in relation to a given topic or domain.
+- Bloom's taxonomy consists of six levels of knowledge: remember, understand, apply, analyze, evaluate, and create.
+- Each level of knowledge requires a higher degree of cognitive processing and complexity than the previous one.
+- The levels of knowledge can be used to design learning objectives, assessments, and activities that align with the intended course outcomes.
+- The following table shows some examples of verbs that can be used to express different levels of knowledge for a course outcome.
+
+| Bloom's Knowledge Level | Verbs |
+| ----------------------- | ----- |
+| Remember                | Define, list, recall, identify, name, recognize, state, describe |
+| Understand              | Explain, summarize, paraphrase, interpret, illustrate, classify, compare, contrast, infer |
+| Apply                   | Use, demonstrate, solve, calculate, apply, perform, implement, operate |
+| Analyze                 | Compare, contrast, differentiate, distinguish, examine, relate, organize, outline, break down |
+| Evaluate                | Judge, critique, assess, appraise, justify, argue, defend, support, evaluate |
+| Create                  | Design, construct, produce, generate, compose, synthesize, invent, create |
+
+- For example, a course outcome for a mathematics course could be: "Apply the concepts of calculus to solve real-world problems." This outcome corresponds to the apply level of knowledge, and it could be assessed by asking learners to use calculus formulas and methods to find the optimal solution for a given scenario.

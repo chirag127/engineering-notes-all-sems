@@ -1,0 +1,24 @@
+### Serial UART Communication
+
+- UART stands for **Universal Asynchronous Receiver Transmitter**  .
+- It is a **serial communication device** that performs **parallel-to-serial** and **serial-to-parallel** data conversion .
+- It is **universal** because the parameters like **transfer speed**, **data speed**, etc. are **configurable** .
+- It is **asynchronous** because there is **no clock signal** to synchronize the output bits from the transmitting device to the receiving device.
+- A UART is usually an **individual** or **part of an** integrated circuit (IC) used for serial communication over a computer or peripheral device serial port.
+- One or more UART peripherals are commonly integrated in **microcontroller chips**.
+- Specialized UARTs are used for **automobiles**, **smart cards** and **SIMs**.
+- A UART typically consists of a **transmitter**, a **receiver**, a **data bus**, a **baud rate generator**, and some **control pins**  .
+- The transmitter and receiver use **start bits**, **stop bits**, and **parity bits** to ensure data integrity and synchronization  .
+- The data bus is used to transfer data between the UART and the CPU or memory  .
+- The baud rate generator is used to generate the **clock signal** for the transmitter and receiver based on the desired **data rate**  .
+- The control pins are used to indicate the **status** of the UART, such as **data ready**, **buffer full**, **transmit enable**, **receive enable**, etc  .
+- UART communication can be **full-duplex** or **half-duplex**, depending on the number of wires used .
+- Full-duplex means that data can be transmitted and received **simultaneously** .
+- Half-duplex means that data can be transmitted and received **alternately** .
+- UART communication can be **point-to-point** or **multi-point**, depending on the number of devices involved .
+- Point-to-point means that only **two devices** communicate with each other .
+- Multi-point means that **more than two devices** communicate with each other, using a **common bus** or a **network** .
+- UART communication can use different **standards** or **protocols**, such as **RS-232**, **RS-485**, **RS-422**, **TTL**, etc .
+- These standards or protocols define the **voltage levels**, **signal levels**, **connector types**, **cable lengths**, **terminations**, etc. for UART communication .
+- UART communication is widely used for **low-speed**, **short-distance**, and **low-cost** data transmission between devices .
+- Some examples of UART communication are **keyboard**, **mouse**, **modem**, **GPS**, **Bluetooth**, **Wi-Fi**, **Arduino**, etc .

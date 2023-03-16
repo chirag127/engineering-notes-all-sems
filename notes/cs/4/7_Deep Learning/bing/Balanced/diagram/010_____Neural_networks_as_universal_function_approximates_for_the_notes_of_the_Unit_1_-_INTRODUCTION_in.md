@@ -1,0 +1,10 @@
+### Neural networks as universal function approximators
+
+- A neural network is a computational model that consists of layers of interconnected units called neurons that can process and learn from data.
+- A function is a mathematical rule that assigns an output to an input. A function is continuous if it does not have any jumps or breaks in its graph. A function is compact if it is defined on a finite or bounded domain.
+- A universal function approximator is a function that can approximate any other continuous function on a compact domain with arbitrary accuracy, given enough parameters or complexity.
+- The universal approximation theorem states that a feed-forward neural network with a single hidden layer containing a finite number of neurons can approximate any continuous function on a compact domain, under mild assumptions on the activation function  .
+- The activation function is a nonlinear function that transforms the input of a neuron into an output. Examples of activation functions are sigmoid, tanh, ReLU, etc.
+- The universal approximation theorem does not specify how to find the optimal weights and biases of the neural network, nor how many neurons are needed in the hidden layer. It only guarantees the existence of such a network that can approximate the target function.
+- The universal approximation theorem also does not imply that a single hidden layer neural network is the best choice for any problem. In practice, deeper neural networks with multiple hidden layers can achieve better performance and generalization than shallow networks, as they can capture more complex and abstract features of the data  .
+- The universal approximation theorem shows the theoretical power and flexibility of neural networks as function approximators, but it does not provide practical guidance on how to design and train them effectively.

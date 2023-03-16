@@ -1,0 +1,16 @@
+# Ardunio Platform Boards Anatomy
+
+- Arduino boards are the microcontroller development platform that will be at the heart of your projects. They can sense the environment by receiving inputs from many sensors, and affect their surroundings by controlling lights, motors, and other actuators .
+- Arduino Uno is one of the most popular and widely used Arduino boards. It has 14 digital input/output pins, 6 analog input pins, a USB connection, a power jack, a reset button, and an ICSP header.
+- The main components of Arduino Uno board are  :
+  - **Microcontroller**: It is a tiny computer that can execute instructions stored in its memory. Arduino Uno uses an ATmega328P microcontroller that has 32 KB of flash memory, 2 KB of SRAM, and 1 KB of EEPROM.
+  - **USB port**: It is used to connect the board to a computer and upload the code. It also provides power to the board when connected to a USB cable.
+  - **USB to Serial chip**: It is what makes it possible to program the Arduino board from the computer. It converts the USB signals to serial signals that the microcontroller can understand. Arduino Uno uses an ATmega16U2 chip for this purpose.
+  - **Digital pins**: They are commonly used for switches, LEDs, sensors, and other devices that can be turned on or off. They can be configured as inputs or outputs using the pinMode() function. They can also be used for serial communication, PWM, and interrupts. Arduino Uno has 14 digital pins, numbered from 0 to 13.
+  - **Analog pins**: They are used to read the signal from an analog sensor, such as a potentiometer, a light sensor, or a temperature sensor. They can convert the analog voltage (0 to 5V) to a digital value (0 to 1023) using the analogRead() function. Arduino Uno has 6 analog pins, numbered from A0 to A5.
+  - **Power jack**: It is used to supply external power to the board, such as a battery or an AC adapter. The board can accept 7 to 12V of input voltage, but the recommended range is 7 to 9V.
+  - **Reset button**: It is used to restart the microcontroller and run the code from the beginning. It can also be used to enter the bootloader mode, which allows uploading new code to the board.
+  - **ICSP header**: It stands for In-Circuit Serial Programming, and it is used to program the microcontroller directly using another device, such as an AVR programmer. It can also be used to communicate with other devices that support the SPI protocol, such as some sensors and displays.
+  - **Voltage regulator**: It is used to regulate the input voltage to a stable 5V, which is used by the microcontroller and other components on the board.
+  - **LEDs**: There are three LEDs on the board: a power LED that indicates that the board is receiving power, a TX LED that flashes when data is transmitted from the board to the computer, and an RX LED that flashes when data is received from the computer to the board. There is also a built-in LED connected to digital pin 13, which can be controlled using the digitalWrite() function.
+  - **Crystal oscillator**: It is used to provide a clock signal to the microcontroller, which determines the speed of execution of the code. Arduino Uno uses a 16 MHz crystal oscillator.

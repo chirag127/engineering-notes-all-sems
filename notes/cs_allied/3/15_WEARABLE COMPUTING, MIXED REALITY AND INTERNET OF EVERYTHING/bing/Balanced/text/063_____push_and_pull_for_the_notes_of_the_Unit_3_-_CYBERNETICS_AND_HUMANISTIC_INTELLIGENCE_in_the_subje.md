@@ -1,0 +1,16 @@
+### Push and Pull for the Notes of the Unit 3 - Cybernetics and Humanistic Intelligence in the Subject of Wearable Computing, Mixed Reality and Internet of Everything
+
+- Push and pull are two different modes of communication and interaction between systems, agents, or users.
+- Push mode is when a system or an agent initiates an action or a message to another system or an agent, without waiting for a request or a demand from the receiver. For example, a push notification is a message that is sent by an app or a website to a user's device, without the user asking for it.
+- Pull mode is when a system or an agent responds to an action or a message from another system or an agent, based on a request or a demand from the sender. For example, a web browser is a pull system that retrieves web pages from a server, based on the user's input of a URL or a search query.
+- Push and pull modes have different advantages and disadvantages, depending on the context and the goal of the communication or the interaction. Some of the factors that influence the choice of push or pull mode are:
+  - The availability and reliability of the network or the channel of communication.
+  - The urgency and the frequency of the information or the data that needs to be exchanged.
+  - The complexity and the size of the information or the data that needs to be exchanged.
+  - The level of control and autonomy that the sender and the receiver have over the communication or the interaction.
+  - The level of trust and security that the sender and the receiver have in the communication or the interaction.
+- Push and pull modes can also be combined or hybridized to create more flexible and adaptive systems, agents, or users. For example, a push-pull system is a system that can switch between push and pull modes, depending on the situation and the needs of the sender and the receiver. A push-pull agent is an agent that can initiate or respond to actions or messages from other agents, depending on the situation and the needs of the agent. A push-pull user is a user that can request or receive information or data from other systems, agents, or users, depending on the situation and the needs of the user.
+- Push and pull modes are relevant for the study of cybernetics and humanistic intelligence, as they reflect different ways of modeling, designing, and evaluating the interactions and the feedback loops between humans and machines, or between humans and humans mediated by machines. Some of the questions that can be explored in this context are:
+  - How can push and pull modes enhance or hinder the performance, the usability, the accessibility, and the satisfaction of the systems, the agents, or the users involved in the communication or the interaction?
+  - How can push and pull modes affect the ethical, social, and cultural implications of the communication or the interaction, such as the privacy, the security, the transparency, the accountability, and the responsibility of the systems, the agents, or the users involved in the communication or the interaction?
+  - How can push and pull modes enable or constrain the creativity, the innovation, the learning, and the adaptation of the systems, the agents, or the users involved in the communication or the interaction?

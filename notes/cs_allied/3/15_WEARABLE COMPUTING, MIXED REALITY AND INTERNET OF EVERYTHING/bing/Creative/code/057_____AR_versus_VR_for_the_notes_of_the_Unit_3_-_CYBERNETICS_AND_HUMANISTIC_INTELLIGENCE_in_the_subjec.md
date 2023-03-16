@@ -1,0 +1,34 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on AR versus VR for the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING. Here are some points you can use:
+
+- AR stands for **augmented reality**, which is a technology that **adds** digital elements to the real world, such as images, sounds, or text, through a device like a smartphone or a headset .
+- VR stands for **virtual reality**, which is a technology that **replaces** the real world with a simulated one, such as a game or a movie, through a device like a headset or a controller .
+- The main differences between AR and VR are  :
+  - VR is **75 percent virtual**, while AR is only **25 percent virtual**.
+  - VR requires a **headset device**, while AR does not.
+  - VR users move in a **completely fictional world**, while AR users are in contact with the **real world**.
+  - AR requires **higher bandwidth** than VR.
+  - AR is intended to **enhance** the virtual world and the real world. VR replaces the real world with a fictional reality, which is primarily intended to **entertain**.
+- Some examples of AR applications are :
+  - Pokemon Go, a game that lets you catch virtual creatures in your surroundings.
+  - Google Lens, a tool that lets you scan objects and get information about them.
+  - Snapchat, a social media app that lets you add filters and stickers to your photos and videos.
+- Some examples of VR applications are :
+  - Oculus Rift, a headset that lets you play immersive games and watch 360-degree videos.
+  - Google Cardboard, a low-cost device that lets you experience VR with your smartphone.
+  - VRChat, a social platform that lets you interact with other users in virtual worlds.
+- Some advantages of AR are :
+  - It can provide useful information and guidance in real-time.
+  - It can enhance learning and creativity.
+  - It can improve accessibility and inclusivity.
+- Some advantages of VR are :
+  - It can create immersive and realistic experiences.
+  - It can provide entertainment and escapism.
+  - It can reduce stress and anxiety.
+- Some challenges of AR are :
+  - It can cause privacy and security issues.
+  - It can be distracting and intrusive.
+  - It can have technical limitations and compatibility issues.
+- Some challenges of VR are :
+  - It can cause motion sickness and eye strain.
+  - It can be isolating and addictive.
+  - It can be expensive and bulky.

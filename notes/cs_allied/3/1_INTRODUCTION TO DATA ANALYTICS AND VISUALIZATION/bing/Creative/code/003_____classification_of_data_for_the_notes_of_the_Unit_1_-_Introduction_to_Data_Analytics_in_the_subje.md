@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Introduction to Data Analytics and Visualization. Here is the content for the topic of classification of data for the notes of Unit 1 - Introduction to Data Analytics.
+
+### Classification of Data
+
+- Data can be classified into different types based on the nature, source, format, and level of abstraction of the information they contain.
+- Some of the common types of data are:
+
+  - **Quantitative data**: Data that can be measured or counted using numerical values, such as height, weight, temperature, income, etc. Quantitative data can be further classified into discrete data (data that can only take certain values, such as number of students, coins, etc.) and continuous data (data that can take any value within a range, such as height, weight, etc.).
+  - **Qualitative data**: Data that can be described or categorized using words, symbols, images, sounds, etc., such as color, gender, name, emotion, etc. Qualitative data can be further classified into nominal data (data that can only be named or labeled, such as gender, blood type, etc.) and ordinal data (data that can be ordered or ranked, such as grade, satisfaction, etc.).
+  - **Structured data**: Data that can be organized and stored in a predefined format, such as tables, spreadsheets, databases, etc. Structured data is easy to process and analyze using standard tools and techniques, such as SQL, Excel, etc.
+  - **Unstructured data**: Data that does not have a predefined format or structure, such as text, images, videos, audio, etc. Unstructured data is difficult to process and analyze using standard tools and techniques, and may require specialized methods, such as natural language processing, computer vision, etc.
+  - **Semi-structured data**: Data that has some elements of structure, such as tags, labels, metadata, etc., but not enough to fit into a predefined format, such as XML, JSON, HTML, etc. Semi-structured data is easier to process and analyze than unstructured data, but may still require some parsing and extraction techniques, such as XPath, JSONPath, etc.
+  - **Primary data**: Data that is collected directly from the source or the original phenomenon, such as surveys, experiments, observations, etc. Primary data is usually more accurate, reliable, and relevant, but may also be more costly, time-consuming, and difficult to obtain.
+  - **Secondary data**: Data that is collected from other sources or derived from primary data, such as books, reports, websites, databases, etc. Secondary data is usually less accurate, reliable, and relevant, but may also be more accessible, affordable, and convenient to obtain.
+  - **Aggregated data**: Data that is summarized or grouped based on some criteria, such as average, sum, count, etc. Aggregated data is useful for providing an overview or a general trend of the data, but may also lose some details or variations of the data.
+  - **Disaggregated data**: Data that is broken down or separated into smaller units or categories, such as gender, age, location, etc. Disaggregated data is useful for providing more insights or comparisons of the data, but may also increase the complexity or volume of the data.

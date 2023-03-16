@@ -1,0 +1,31 @@
+### Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats – Functional modes – Introduction to Commercial Processors
+
+- Introduction
+  - Digital Signal Processing is the process of representing signals in a discrete mathematical sequence of numbers and analyzing, modifying, and extracting the information contained in the signal by carrying out algorithmic operations and processing on the signal.
+  - Digital Signal Processors (DSP) are specialized microprocessors that take real-world signals like voice, audio, video, temperature, pressure, or position that have been digitized and then mathematically manipulate them.
+  - DSPs are mainly designed for supporting repetitive and numerically intensive tasks and have a powerful data path and the capacity to move large amounts of data to memory quickly.
+- Architecture
+  - DSPs have a unique architecture that differs from general-purpose processors in several aspects, such as:
+    - Multiple execution units that can operate in parallel, such as multipliers, adders, shifters, and logical units.
+    - Dedicated hardware for looping and branching, such as zero-overhead loops, delayed branches, and conditional execution.
+    - Specialized addressing modes and data paths, such as circular buffers, bit-reversed addressing, and modulo arithmetic.
+    - Enhanced memory hierarchy and bus structure, such as multiple on-chip memories, dual-access memories, and multi-port buses.
+    - Hardware support for fast interrupt handling and context switching, such as shadow registers, interrupt stacking, and low-latency interrupts.
+  - DSPs can be classified into different types based on their architecture, such as:
+    - Accumulator architecture: This is the simplest and oldest type of DSP, which uses a single accumulator register to store the intermediate results of arithmetic operations. Examples of this type are TMS32010 and TMS320C2x.
+    - Modified Harvard architecture: This is the most common type of DSP, which uses separate data and program memories and buses, allowing simultaneous access to both. Examples of this type are TMS320C5x, TMS320C54x, and TMS320C55x.
+    - Super Harvard architecture: This is an advanced type of DSP, which uses multiple data and program memories and buses, allowing parallel access to more than one memory at a time. Examples of this type are TMS320C6x and SHARC.
+    - Very long instruction word (VLIW) architecture: This is a type of DSP that uses a single instruction word of 256 bits or more, which can encode multiple operations to be executed in parallel by different functional units. Examples of this type are TMS320C6x and TriMedia.
+- Features
+  - DSPs have several features that make them suitable for signal processing applications, such as:
+    - High performance: DSPs can achieve high throughput and low latency by exploiting parallelism, pipelining, and specialized instructions.
+    - Low power consumption: DSPs can reduce power consumption by using low-voltage operation, clock gating, and power management techniques.
+    - High integration: DSPs can integrate various peripherals and interfaces on a single chip, such as analog-to-digital converters, digital-to-analog converters, timers, serial ports, and DMA controllers.
+    - High flexibility: DSPs can support various signal processing algorithms and standards by using programmable and reconfigurable hardware and software.
+    - High reliability: DSPs can ensure error-free and robust operation by using error detection and correction techniques, fault tolerance mechanisms, and self-test features.
+- Addressing Formats
+  - DSPs use various addressing formats to access data and instructions from memory, such as:
+    - Direct addressing: This is the simplest format, which uses a constant or a register to specify the memory location to be accessed. Example: MOV A, #1000h ; move the value at address 1000h to register A
+    - Indirect addressing: This format uses a register to hold the address of the memory location to be accessed. Example: MOV A, *AR0 ; move the value at the address pointed by register AR0 to register A
+    - Indexed addressing: This format uses a register and a constant to form the address of the memory location to be accessed. Example: MOV A, *AR0(10) ; move the value at the address pointed by register AR0 plus 10 to register A
+    - Circular addressing: This format uses a register and a modulo value to form the address of the memory location to be accessed, and wraps around the address when it reaches the modulo value. This is

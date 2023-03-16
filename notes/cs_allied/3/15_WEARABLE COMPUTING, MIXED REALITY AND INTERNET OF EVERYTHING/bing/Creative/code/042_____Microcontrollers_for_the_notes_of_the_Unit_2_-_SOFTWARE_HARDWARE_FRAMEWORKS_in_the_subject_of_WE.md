@@ -1,0 +1,10 @@
+### Microcontrollers
+
+- A microcontroller is a small computer on a single VLSI integrated circuit (IC) chip that contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals .
+- Microcontrollers are used in automatically controlled products and devices, such as automobile engine control systems, implantable medical devices, remote controls, office machines, appliances, power tools, toys and other embedded systems.
+- Microcontrollers are classified by their architecture, memory size, instruction set, clock speed, power consumption, peripheral interfaces, and packaging.
+- Some of the common architectures of microcontrollers are 8-bit, 16-bit and 32-bit, which refer to the size of the data bus and the number of bits that can be processed in one instruction cycle .
+- Some of the common instruction sets of microcontrollers are RISC (Reduced Instruction Set Computer), CISC (Complex Instruction Set Computer), and DSP (Digital Signal Processor), which affect the performance, efficiency, and complexity of the microcontroller .
+- Some of the common peripheral interfaces of microcontrollers are GPIO (General Purpose Input/Output), UART (Universal Asynchronous Receiver/Transmitter), SPI (Serial Peripheral Interface), I2C (Inter-Integrated Circuit), ADC (Analog-to-Digital Converter), DAC (Digital-to-Analog Converter), PWM (Pulse Width Modulation), and USB (Universal Serial Bus), which enable the microcontroller to communicate with other devices and sensors .
+- Some of the common packaging types of microcontrollers are DIP (Dual In-line Package), QFP (Quad Flat Package), BGA (Ball Grid Array), and CSP (Chip Scale Package), which affect the size, cost, and reliability of the microcontroller .
+- Some of the common applications of microcontrollers in wearable computing, mixed reality and internet of everything are smart watches, fitness trackers, VR/AR headsets, smart glasses, smart clothing, smart home devices, smart city devices, and IoT sensors.

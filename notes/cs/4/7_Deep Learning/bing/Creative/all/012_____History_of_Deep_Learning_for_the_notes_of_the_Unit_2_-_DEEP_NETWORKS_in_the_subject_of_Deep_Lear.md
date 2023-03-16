@@ -1,0 +1,22 @@
+# History of Deep Learning
+
+- Deep learning is a branch of machine learning that uses artificial neural networks to learn from data and perform tasks such as classification, regression, generation, etc.
+- The term deep learning was introduced by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.
+- The history of deep learning can be traced back to 1943, when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain. They used a combination of algorithms and mathematics they called “threshold logic” to mimic the thought process.
+- In 1950, Alan Turing predicted the future existence of a supercomputer with human-like intelligence and proposed the Turing test to evaluate it.
+- In 1957, Frank Rosenblatt developed the perceptron, a single-layer neural network that could learn to classify linearly separable patterns.
+- In 1965, Alexey Ivakhnenko and Valentin Lapa published the first general, working learning algorithm for supervised deep feedforward multilayer perceptrons.
+- In 1969, Marvin Minsky and Seymour Papert published a book called Perceptrons, which showed the limitations of single-layer neural networks and discouraged further research in the field.
+- In 1974, Paul Werbos proposed the backpropagation algorithm, which could efficiently train multi-layer neural networks by adjusting the weights using the gradient of the error function.
+- In 1980, Kunihiko Fukushima proposed the neocognitron, a hierarchical neural network that could recognize handwritten digits and other patterns.
+- In 1986, Geoffrey Hinton, David Rumelhart and Ronald Williams popularized the backpropagation algorithm and demonstrated its applications to various tasks such as speech recognition, computer vision, natural language processing, etc.
+- In 1989, Yann LeCun, Leon Bottou, Yoshua Bengio and Patrick Haffner developed the LeNet-5, a convolutional neural network that could recognize handwritten digits with high accuracy.
+- In 1997, Sepp Hochreiter and Jürgen Schmidhuber introduced the long short-term memory (LSTM) network, a recurrent neural network that could learn long-term dependencies in sequential data.
+- In 2006, Geoffrey Hinton, Simon Osindero and Yee-Whye Teh proposed the deep belief network, a generative model that could learn multiple layers of features from unlabeled data using a greedy layer-wise pre-training strategy.
+- In 2012, Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) using a deep convolutional neural network called AlexNet, which achieved a significant improvement over the previous state-of-the-art methods.
+- In 2014, Ian Goodfellow, Yoshua Bengio and Aaron Courville published a book called Deep Learning, which provided a comprehensive overview of the field and its applications.
+- In 2014, Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio introduced the generative adversarial network (GAN), a framework that could generate realistic images and other types of data using two competing neural networks.
+- In 2015, Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio proposed the attention mechanism, which could improve the performance of neural machine translation by allowing the model to focus on relevant parts of the input and output sequences.
+- In 2017, Geoffrey Hinton, Sara Sabour and Nicholas Frosst proposed the capsule network, a novel architecture that could encode the pose and part-whole relationships of objects using groups of neurons called capsules.
+- In 2018, Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever introduced the Transformer, a self-attention based model that could achieve state-of-the-art results on various natural language processing tasks such as machine translation, text summarization, question answering, etc.
+- In 2019, OpenAI released GPT-2, a large-scale pre-trained language model that could generate

@@ -1,0 +1,9 @@
+### Linux Device Drivers
+
+- A device driver is a piece of software that enables the kernel to communicate with a specific piece of hardware, such as a disk, a network card, a printer, etc.
+- Device drivers are usually written in C and follow the Linux kernel coding style.
+- Device drivers can be built as loadable modules, which are pieces of code that can be added to or removed from the kernel at runtime, or as static modules, which are compiled into the kernel image and cannot be changed without recompiling the kernel.
+- Device drivers interact with the kernel through a well-defined internal programming interface (API), which consists of data structures, functions, macros, and constants that are defined in various header files.
+- Device drivers also interact with the user space through a device file, which is a special file that represents the device and allows the user to read from or write to the device using standard system calls, such as open, read, write, close, etc.
+- Device drivers can be classified into different types according to the nature of the device they control, such as character devices, block devices, network devices, etc. Each type of device has its own set of functions and data structures that the driver must implement and register with the kernel.
+- Device drivers can also use various kernel services and subsystems to perform their tasks, such as memory management, interrupt handling, DMA, locking, scheduling, etc. These services and subsystems provide abstractions and mechanisms that simplify the driver development and ensure the correct and efficient operation of the device and the kernel.

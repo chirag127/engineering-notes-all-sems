@@ -1,0 +1,9 @@
+## Unit 3 - Identity and Access Management Solutions for IoT
+
+Identity and access management (IAM) is a set of technologies and policies that ensure that the right users and devices have the appropriate access to the resources and data in an IoT system. IAM also helps to identify and authenticate users and devices, as well as to protect the integrity and confidentiality of the communications and data.
+
+Some of the key challenges and solutions for IAM in IoT are:
+
+- **Scalability**: IoT systems may involve millions or billions of devices, each with their own identity and access rights. IAM solutions need to be able to handle this large number of identities and requests, as well as to support dynamic and heterogeneous device types and environments. Some possible solutions are using cloud-based IAM services, federated identity models, and lightweight protocols and standards.
+- **Security**: IoT devices may be exposed to various threats, such as physical tampering, malware, denial-of-service attacks, and data breaches. IAM solutions need to ensure that the devices are securely provisioned, authenticated, authorized, and updated, as well as to protect the data in transit and at rest. Some possible solutions are using strong encryption, digital certificates, multifactor authentication, and device security enablers.
+- **Usability**: IoT devices may have limited or no user interfaces, making it difficult or impossible for users to interact with them or to manage their access rights. IAM solutions need to provide user-friendly and intuitive ways for users to onboard, control, and monitor their devices, as well as to revoke or transfer their access rights when needed. Some possible solutions are using single sign-on, biometric authentication, mobile apps, and voice or gesture commands.

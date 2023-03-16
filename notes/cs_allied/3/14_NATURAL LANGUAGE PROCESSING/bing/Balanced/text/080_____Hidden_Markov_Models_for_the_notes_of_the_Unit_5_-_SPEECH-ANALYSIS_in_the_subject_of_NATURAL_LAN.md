@@ -1,0 +1,26 @@
+### Hidden Markov Models for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- A hidden Markov model (HMM) is a statistical model that explains the probability of the observable state or variable by learning the hidden or unobservable states.
+- HMMs are widely used in fields where the hidden variables control the observable variables, such as speech recognition, image recognition, gesture recognition, handwriting recognition, parts of speech tagging, and time series analysis.
+- In speech recognition, HMMs are used to model the acoustic features of speech signals and to recognize the words or phonemes that are spoken .
+- An HMM consists of the following components :
+  - A set of hidden states, denoted by Q = {q1, q2, ..., qN}, where N is the number of states.
+  - A set of observable symbols, denoted by V = {v1, v2, ..., vM}, where M is the size of the vocabulary.
+  - A transition probability matrix, denoted by A = {aij}, where aij is the probability of transitioning from state qi to state qj.
+  - An emission probability matrix, denoted by B = {bj(k)}, where bj(k) is the probability of emitting symbol vk from state qj.
+  - An initial state distribution, denoted by π = {πi}, where πi is the probability of starting in state qi.
+- The goal of HMMs is to find the most likely sequence of hidden states that generated the observed sequence of symbols, given the model parameters .
+- There are three main problems that HMMs can solve :
+  - The evaluation problem: Given an HMM and an observation sequence, compute the probability of the observation sequence given the model.
+  - The decoding problem: Given an HMM and an observation sequence, find the most likely sequence of hidden states that generated the observation sequence.
+  - The learning problem: Given an observation sequence and the number of hidden states, estimate the model parameters that maximize the probability of the observation sequence.
+- There are various algorithms that can solve these problems, such as the forward-backward algorithm, the Viterbi algorithm, and the Baum-Welch algorithm .
+- HMMs have some advantages and disadvantages for speech recognition:
+  - Advantages:
+    - They can model the temporal dynamics of speech signals and capture the sequential dependencies among acoustic features.
+    - They can handle variability and uncertainty in speech signals by using probabilistic models and learning from data.
+    - They can be easily extended and modified to incorporate different features, constraints, and structures.
+  - Disadvantages:
+    - They assume that the hidden states are discrete and independent, which may not reflect the true nature of speech signals and phonetic units.
+    - They assume that the observable symbols are independent given the hidden states, which may not capture the correlations among acoustic features.
+    - They require a large amount of training data and computational resources to estimate the model parameters and to perform inference.

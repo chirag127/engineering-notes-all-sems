@@ -1,0 +1,12 @@
+### Stochastic Search Methods
+
+- Stochastic search methods are optimization techniques that use randomness in some way, either in the objective function or in the search algorithm.
+- Stochastic search methods are useful for finding approximate solutions to complex problems that are hard to solve exactly or efficiently by deterministic methods.
+- Some examples of stochastic search methods are:
+  - Simulated annealing: a method that mimics the physical process of cooling a material to find its lowest energy state. It starts with a high temperature and randomly explores the search space, accepting worse solutions with some probability that decreases as the temperature cools down.
+  - Genetic algorithms: a method that mimics the biological process of evolution by natural selection. It starts with a population of candidate solutions and applies genetic operators such as crossover and mutation to generate new solutions. The fitness of each solution is evaluated and the best ones are selected to form the next generation.
+  - Particle swarm optimization: a method that mimics the social behavior of a flock of birds or a school of fish. It starts with a swarm of particles that move in the search space, influenced by their own best position and the best position of the swarm. The particles update their velocities and positions iteratively until they converge to an optimal solution.
+- Some practical considerations when using stochastic search methods are:
+  - Repeated evaluations: since stochastic search methods are based on randomness, they may not find the same solution every time. Therefore, it is advisable to run the algorithm multiple times and compare the results.
+  - Parameter tuning: stochastic search methods often have parameters that control the behavior of the algorithm, such as the temperature, the population size, the mutation rate, etc. These parameters may affect the performance and the quality of the solutions, so they need to be carefully chosen or adapted.
+  - Stopping criteria: stochastic search methods may not have a clear termination condition, since they may not guarantee to find the global optimum or even a local optimum. Therefore, they need to have some criteria to decide when to stop the search, such as a maximum number of iterations, a minimum improvement, or a convergence measure.

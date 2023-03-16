@@ -1,0 +1,29 @@
+# Architectural view for the notes of the Unit 1 - Internet of Things (IoT)
+
+- Internet of Things (IoT) is the interconnection of computing devices embedded in everyday objects, enabling them to send and receive data over the internet or other communication networks .
+- IoT has a vision of creating a smart and connected world, where physical objects can interact with each other and with humans, and provide various services and applications.
+- IoT has a conceptual framework that consists of four main components: things, networks, platforms, and applications.
+  - Things are the physical objects that have sensors, actuators, and other devices that collect data and perform actions.
+  - Networks are the communication channels that connect things to platforms and applications, and enable data transmission and exchange.
+  - Platforms are the software systems that provide data processing, storage, analysis, and management capabilities, and enable device management, security, and integration.
+  - Applications are the software solutions that provide specific functionalities and services to the end users, and leverage the data and capabilities of the things, networks, and platforms.
+- IoT has a layered architecture that defines the physical components, the functional organization and configuration of the network, operational procedures, and data formats to be used. There is no single standard reference architecture for IoT, but most models include 3 to 7 layers, such as :
+  - Device layer: This is the layer closest to the physical world and consists of the sensors, actuators, and other devices that collect data and perform actions .
+  - Transport layer: This is the layer that provides the communication protocols and technologies to connect the devices to the platforms and applications, and enable data transmission and exchange .
+  - Processing layer: This is the layer that provides the data processing, storage, analysis, and management capabilities, and enables device management, security, and integration .
+  - Application layer: This is the layer that provides the software solutions that offer specific functionalities and services to the end users, and leverage the data and capabilities of the lower layers .
+- IoT has various technologies behind it, such as:
+  - Wireless sensor networks (WSNs): These are networks of distributed sensors that monitor physical or environmental conditions, such as temperature, sound, pressure, etc., and communicate the data to a central location.
+  - Radio frequency identification (RFID): This is a technology that uses electromagnetic fields to identify and track tags attached to objects, and can store and transmit data about the objects.
+  - Cloud computing: This is a technology that provides on-demand access to shared computing resources, such as servers, storage, networks, software, etc., over the internet.
+  - Big data analytics: This is a technology that processes large and complex data sets to extract useful insights and patterns, and support decision making.
+  - Artificial intelligence (AI): This is a technology that enables machines to perform tasks that normally require human intelligence, such as learning, reasoning, perception, etc..
+- IoT has various sources, such as:
+  - Smart homes: These are homes that have devices and appliances that can be remotely controlled and monitored, and can provide comfort, security, and energy efficiency.
+  - Smart cities: These are cities that have devices and systems that can provide various services and solutions, such as traffic management, waste management, public safety, etc..
+  - Smart health: This is a domain that has devices and systems that can provide health care and wellness services, such as remote monitoring, diagnosis, treatment, etc..
+  - Smart agriculture: This is a domain that has devices and systems that can provide agricultural services, such as irrigation, pest control, crop management, etc..
+  - Smart industry: This is a domain that has devices and systems that can provide industrial services, such as automation, optimization, quality control, etc..
+- IoT has machine-to-machine (M2M) communication, which is the direct exchange of data and information between devices without human intervention.
+- IoT has various examples, such as:
+  - Smart thermostats: These are devices that can adjust the temperature of a room or a building based on the preferences and behavior of the

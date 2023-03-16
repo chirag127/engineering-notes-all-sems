@@ -1,0 +1,13 @@
+### Electro Analytical Sensors
+
+- Electro analytical sensors are devices that use electrochemical principles to measure the concentration or activity of an analyte in a solution or a gas .
+- Electro analytical sensors consist of an electrochemical cell, which is composed of two electrodes (anode and cathode) and an electrolyte that allows the transfer of ions between the electrodes.
+- The electrochemical cell generates a potential difference (voltage) between the electrodes, which depends on the chemical reactions occurring at the electrode surfaces and the concentration of the analyte.
+- The cell potential can be measured by connecting a voltmeter to the electrodes, or by applying a known external potential and measuring the resulting current.
+- The cell potential can be calculated using the Nernst equation, which relates the potential to the standard electrode potentials, the temperature, and the activities of the reactants and products involved in the electrochemical reactions.
+- The standard hydrogen electrode (SHE) is a reference electrode that is defined to have a potential of zero volts at any temperature and pressure. It consists of a platinum wire immersed in a solution of 1 M H+ and bubbled with hydrogen gas at 1 atm.
+- The liquid junction potential is a potential difference that arises when two solutions of different concentrations or compositions are in contact through a porous membrane or a salt bridge. It is caused by the unequal diffusion rates of the ions in the solutions.
+- Polarization is the deviation of the electrode potential from its equilibrium value due to the passage of current. It can be caused by activation (the energy barrier for the electrochemical reactions), concentration (the depletion or accumulation of reactants or products near the electrode surface), or ohmic (the resistance of the electrolyte or the electrodes).
+- Reference electrodes are electrodes that have a stable and well-defined potential that can be used to measure the potential of other electrodes. They are usually composed of a metal and its salt in a saturated solution, such as Ag/AgCl, Cu/CuSO4, or Hg/Hg2Cl2.
+- Sensor electrodes are electrodes that are sensitive to the concentration or activity of a specific analyte. They can be classified into potentiometric (based on measuring the potential), amperometric (based on measuring the current), or impedimetric (based on measuring the impedance) sensors.
+- Electro ceramics are materials that have electrical properties that depend on the oxygen partial pressure in the gas phase. They can be used as gas sensors by measuring the change in their conductivity, capacitance, or potential when exposed to different gases.

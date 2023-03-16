@@ -1,0 +1,14 @@
+## Unit 3 - Identity and Access Management Solutions for IoT
+
+- Identity and access management (IAM) is a set of technologies and policies that ensure that the right users and devices have the appropriate access to the resources and data in an IoT system.
+- IAM is essential for IoT security, as it helps to prevent unauthorized access, data breaches, and cyberattacks that can compromise the functionality and integrity of IoT devices and networks.
+- IAM for IoT involves the following components and processes:
+  - **Identity provisioning**: This is the process of creating and assigning unique identities to IoT devices, such as serial numbers, certificates, or tokens. Identity provisioning can be done manually or automatically, depending on the scale and complexity of the IoT system.
+  - **Authentication**: This is the process of verifying the identity of an IoT device or user before granting access to a resource or data. Authentication can be based on different factors, such as passwords, biometrics, or cryptographic keys.
+  - **Authorization**: This is the process of determining the level and scope of access that an IoT device or user has to a resource or data. Authorization can be based on different policies, such as roles, permissions, or attributes.
+  - **Auditing**: This is the process of recording and monitoring the activities and events of IoT devices and users in an IoT system. Auditing can help to detect and prevent malicious or anomalous behavior, as well as to ensure compliance and accountability.
+- IAM for IoT can be implemented using different solutions and architectures, such as:
+  - **Single sign-on (SSO)**: This is a solution that allows IoT devices and users to access multiple resources and data with a single authentication process. SSO can simplify and streamline the user experience, as well as reduce the risk of password compromise.
+  - **Multi-factor authentication (MFA)**: This is a solution that requires IoT devices and users to provide more than one factor of authentication, such as a password and a one-time code. MFA can enhance the security and reliability of authentication, as well as prevent identity theft and fraud.
+  - **Identity as a service (IDaaS)**: This is a solution that provides IAM functionalities as a cloud-based service, rather than as an on-premise system. IDaaS can offer scalability, flexibility, and cost-effectiveness for IoT systems, as well as reduce the complexity and maintenance of IAM infrastructure.
+  - **Federation**: This is a solution that allows IoT devices and users to access resources and data across different domains, organizations, or systems, using a common set of identities and policies. Federation can enable interoperability, collaboration, and trust among different IoT stakeholders, as well as reduce the duplication and inconsistency of identities and policies.

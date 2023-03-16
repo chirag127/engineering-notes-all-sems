@@ -1,0 +1,21 @@
+## Unit 2 - Cryptographic Fundamentals for IoT
+
+- Cryptography is the science of securing information by transforming it into a form that only the intended recipients can understand.
+- Cryptography is essential for IoT devices, which often communicate over wireless networks and store sensitive data on cloud servers.
+- Cryptography can provide confidentiality, integrity, authentication, and non-repudiation for IoT data and communications.
+- Confidentiality means that only authorized parties can access the information.
+- Integrity means that the information is not altered or corrupted during transmission or storage.
+- Authentication means that the parties involved can verify each other's identity and legitimacy.
+- Non-repudiation means that the parties cannot deny their involvement or actions in the communication.
+- Cryptography relies on two main concepts: encryption and digital signatures.
+- Encryption is the process of transforming plaintext (the original information) into ciphertext (the scrambled information) using a secret key.
+- Decryption is the reverse process of recovering the plaintext from the ciphertext using the same or a different key.
+- There are two types of encryption: symmetric and asymmetric.
+- Symmetric encryption uses the same key for both encryption and decryption. It is fast and efficient, but requires a secure way to share the key between the parties.
+- Asymmetric encryption uses a pair of keys: a public key and a private key. The public key can be shared with anyone, but the private key is kept secret by the owner. The public key can encrypt messages that only the private key can decrypt, and vice versa. It is slower and more complex, but does not require a secure key exchange.
+- Digital signatures are a way of proving the authenticity and integrity of a message using asymmetric encryption. The sender uses their private key to encrypt a hash (a fixed-length summary) of the message, and attaches it to the message. The receiver uses the sender's public key to decrypt the hash, and compares it with the hash of the message. If they match, the message is authentic and intact.
+- Cryptography faces several challenges in IoT, such as resource constraints, scalability, interoperability, and security threats.
+- Resource constraints mean that IoT devices have limited processing power, memory, battery life, and bandwidth. This affects the choice and performance of cryptographic algorithms and protocols.
+- Scalability means that IoT systems can have a large number of devices and users, which increases the complexity and overhead of key management and authentication.
+- Interoperability means that IoT devices and applications can use different standards and platforms, which may not be compatible or secure with each other.
+- Security threats mean that IoT devices and networks can be vulnerable to various attacks, such as eavesdropping, replay, modification, spoofing, denial-of-service, and physical tampering. These attacks can compromise the confidentiality, integrity, authentication, and non-repudiation of IoT data and communications.

@@ -1,0 +1,21 @@
+#### CO 4 Show an ability to upload/download sensor data on cloud and server K2
+
+- Sensor data is the information collected by various types of sensors that measure physical phenomena such as temperature, humidity, pressure, light, sound, motion, etc.
+- Cloud and server are two types of platforms that can store and process sensor data remotely over the internet.
+- Cloud is a network of servers that provide on-demand computing resources and services such as storage, databases, analytics, etc. Server is a single computer that hosts a specific application or service such as a web server, a database server, etc.
+- To upload sensor data to cloud or server, the following steps are required:
+  - Connect the sensor to a device that can communicate with the internet, such as a microcontroller, a computer, a smartphone, etc.
+  - Configure the device to send the sensor data to a specific cloud or server address, such as a URL, an IP address, a port number, etc.
+  - Use a protocol or a method that is compatible with the cloud or server, such as HTTP, MQTT, CoAP, WebSocket, etc.
+  - Optionally, encrypt or compress the sensor data to ensure security or efficiency of the transmission.
+- To download sensor data from cloud or server, the following steps are required:
+  - Connect to the internet using a device that can receive and process the sensor data, such as a computer, a smartphone, a tablet, etc.
+  - Access the cloud or server address where the sensor data is stored or streamed, such as a URL, an IP address, a port number, etc.
+  - Use a protocol or a method that is compatible with the cloud or server, such as HTTP, MQTT, CoAP, WebSocket, etc.
+  - Optionally, decrypt or decompress the sensor data to ensure security or efficiency of the reception.
+- Some examples of cloud and server platforms that can handle sensor data are:
+  - Microsoft Azure Defender for IoT: A cloud-based service that provides security and management for OT sensors.
+  - AWS IoT: A cloud-based service that provides connectivity, analytics, and machine learning for IoT devices and sensors.
+  - ThingSpeak: A cloud-based platform that allows users to collect, visualize, and analyze sensor data using MATLAB.
+  - Raspberry Pi: A low-cost, single-board computer that can act as a server for sensor data using various programming languages and frameworks.
+  - SAPHI: A hardware and software company that offers six smart ways to send sensor data to the cloud using different technologies such as cellular, satellite, LoRaWAN, etc.

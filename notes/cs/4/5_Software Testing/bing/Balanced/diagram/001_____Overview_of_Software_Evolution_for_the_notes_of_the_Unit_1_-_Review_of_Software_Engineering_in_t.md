@@ -1,0 +1,10 @@
+### Overview of Software Evolution
+
+- Software evolution is the continual development of a piece of software after its initial release to address changing stakeholder and/or market requirements .
+- Software evolution is important because organizations invest large amounts of money in their software and are completely dependent on this software. Software evolution helps software adapt to new business needs, improve quality, fix defects, and cope with environmental changes.
+- Software evolution refers to the dynamic behavior of software systems, as they are maintained and enhanced over their lifetimes. Software evolution is particularly important as systems in organizations become longer-lived.
+- Software development and evolution can be thought of as an integrated, iterative process that can be represented using a spiral model. The spiral model combines the features of the waterfall model and the prototyping model, and adds a new element of risk analysis.
+- The process of software evolution is driven by requests for changes and includes change impact analysis, release planning, system implementation and releasing a system to customers. Software evolution can be classified into three types: corrective, adaptive, and perfective.
+- Corrective evolution is the process of fixing errors or bugs in the software that affect its functionality or performance. Corrective evolution is usually reactive, meaning that it is done after the errors are detected by users or testers.
+- Adaptive evolution is the process of modifying the software to cope with changes in the software environment, such as hardware, operating system, or other software components. Adaptive evolution is usually proactive, meaning that it is done before the changes in the environment affect the software.
+- Perfective evolution is the process of improving the software by adding new features, enhancing existing features, or improving the usability, efficiency, or reliability of the software. Perfective evolution is usually initiated by the users or the developers, based on their feedback or analysis of the software.

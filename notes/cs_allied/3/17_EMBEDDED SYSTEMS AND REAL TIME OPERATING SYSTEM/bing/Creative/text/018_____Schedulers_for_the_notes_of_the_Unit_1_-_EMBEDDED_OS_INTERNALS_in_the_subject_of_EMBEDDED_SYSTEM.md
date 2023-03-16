@@ -1,0 +1,11 @@
+### Schedulers for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A scheduler is the software that determines which task should be run next by the processor in an embedded system.
+- A scheduling algorithm is the logic and mechanism that decides when and how the scheduler should run.
+- Scheduling is important for ensuring that tasks can meet their deadlines, priorities, and performance requirements in real-time embedded systems.
+- There are different types of schedulers and scheduling algorithms, depending on the system design and requirements. Some common ones are:
+
+  - Time Slice (TS) Scheduler: A TS scheduler divides time into slots, and assigns each task a slot to execute. The tasks are executed in a round-robin fashion, with each task getting a fixed amount of processor time. This is a simple and fair scheduler, but it does not consider task priorities or deadlines.
+  - Priority Scheduler: A priority scheduler assigns each task a priority level, and always runs the highest priority task that is ready. If two or more tasks have the same priority, they can be scheduled using a round-robin or a first-come-first-served policy. This scheduler can handle task deadlines and preempt lower priority tasks, but it may suffer from priority inversion or starvation problems.
+  - Composite Scheduler: A composite scheduler combines two or more scheduling algorithms to achieve a balance between simplicity, fairness, and performance. For example, a composite scheduler may use a priority scheduler for real-time tasks, and a TS scheduler for non-real-time tasks. This scheduler can handle different types of tasks and system requirements, but it may be more complex and difficult to implement and verify.
+  - Function Pointer Scheduler: A function pointer scheduler is a cooperative scheduler that uses function pointers to store and execute tasks. Each task is a function that is registered with the scheduler, and the scheduler calls the function pointer of the next task in a loop. This scheduler is easy to implement and does not require an RTOS, but it does not support preemption, multitasking, or task synchronization.

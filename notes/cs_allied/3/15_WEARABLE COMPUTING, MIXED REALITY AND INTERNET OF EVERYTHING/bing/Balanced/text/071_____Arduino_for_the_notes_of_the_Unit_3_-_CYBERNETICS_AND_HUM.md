@@ -1,0 +1,14 @@
+### Arduino
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs from sensors, buttons, or online sources, and turn them into outputs such as activating motors, LEDs, or online actions. Arduino boards can be programmed using the Arduino Software (IDE), which is a cross-platform application that allows you to write code, upload it to the board, and monitor the serial communication.
+
+Some of the basic concepts and components of Arduino are:
+
+- Microcontroller: this is the brain of an Arduino, and is the component that we load programs into. It is a small computer that can execute instructions and perform calculations. Arduino boards use different types of microcontrollers, such as the ATmega328P, the ATmega2560, or the SAMD21.
+- USB port: used to connect your Arduino board to a computer. It provides power and data transfer between the board and the computer.
+- USB to Serial chip: this is an important component, as it helps translating data that comes from the computer into a format that the microcontroller can understand, and vice versa. It also allows you to monitor the serial communication between the board and the computer using the Serial Monitor tool in the IDE.
+- Pins: these are the connectors that allow you to attach external components to the board, such as sensors, LEDs, motors, etc. There are different types of pins, such as digital pins, analog pins, power pins, and communication pins. Each pin has a specific function and can be configured as an input or an output.
+- Circuit: this is the arrangement of components and wires that create a path for the electric current to flow. Circuits consist of at least one active electronic component, such as a microcontroller, a sensor, or a LED, and a conductive material, such as wires, so that current can pass through. Circuits also need a power source, such as a battery, a USB cable, or a wall adapter, to provide the energy for the components to work.
+- Resistors: these are components with an electrical resistance, in other words, they limit the amount of current that flows through them. Resistors are used to protect other components from getting damaged by excessive current, or to create voltage dividers that can reduce the voltage to a desired level.
+- Capacitors: these are components that can store and release electric charge. Capacitors are used to smooth out fluctuations in voltage or current, or to provide a temporary power source when the main power is interrupted.
+- LEDs: these are components that emit light when current flows through them. LEDs are used to indicate the status of the board, the program, or the circuit, or to create visual effects. LEDs have two terminals, called anode and cathode, and the current can only flow in one direction, from the anode to the cathode. LEDs also need a resistor in series to limit the current and prevent them from burning out.

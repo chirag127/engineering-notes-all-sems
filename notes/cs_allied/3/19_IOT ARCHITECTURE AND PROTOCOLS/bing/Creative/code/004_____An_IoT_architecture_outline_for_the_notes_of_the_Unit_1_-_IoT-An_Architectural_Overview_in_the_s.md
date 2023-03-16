@@ -1,0 +1,12 @@
+### An IoT architecture outline for the notes of the Unit 1 - IoT-An Architectural Overview in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- IoT architecture is the system of numerous elements that enable IoT devices to communicate with each other and perform various tasks.
+- A basic IoT architecture consists of three layers: Perception, Network, and Application.
+- Perception layer: This layer comprises the sensors, actuators, and other smart devices that collect data from the physical environment and perform actions based on commands .
+- Network layer: This layer comprises the network devices and communications types and protocols that transmit data between the perception layer and the application layer . Examples of network devices are routers, gateways, and switches. Examples of communications types and protocols are 5G, Wi-Fi, Bluetooth, MQTT, and CoAP.
+- Application layer: This layer comprises the cloud services, platforms, and applications that store, process, and analyze data from the network layer and provide user interfaces and functionalities . Examples of cloud services are AWS, Azure, and Google Cloud. Examples of platforms are ThingWorx, IBM Watson, and Cisco IoT. Examples of applications are smart home, smart city, and smart health.
+- Some IoT architectures may have additional layers or components, such as the Edge layer, the Middleware layer, the Security layer, and the Management layer  .
+- Edge layer: This layer comprises the edge devices and servers that perform data processing and analytics near the source of data, reducing latency and bandwidth consumption . Examples of edge devices are Raspberry Pi, Arduino, and Jetson Nano. Examples of edge servers are AWS Greengrass, Azure IoT Edge, and Google Cloud IoT Core.
+- Middleware layer: This layer comprises the software components that provide interoperability, integration, and abstraction between the network layer and the application layer . Examples of middleware components are data brokers, service discovery, and semantic annotation.
+- Security layer: This layer comprises the mechanisms and protocols that provide confidentiality, integrity, and availability of data and devices in the IoT system . Examples of security mechanisms and protocols are encryption, authentication, authorization, and blockchain.
+- Management layer: This layer comprises the tools and services that provide monitoring, configuration, and maintenance of the IoT system . Examples of management tools and services are device management, data management, and network management.

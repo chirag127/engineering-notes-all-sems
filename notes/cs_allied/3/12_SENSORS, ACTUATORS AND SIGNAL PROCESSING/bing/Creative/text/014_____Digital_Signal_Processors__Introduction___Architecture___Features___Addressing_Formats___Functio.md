@@ -1,0 +1,30 @@
+### Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats – Functional modes – Introduction to Commercial Processors
+
+- **Introduction**: Digital Signal Processing is the process of representing signals in a discrete mathematical sequence of numbers and analyzing, modifying, and extracting the information contained in the signal by carrying out algorithmic operations and processing on the signal. Digital Signal Processors (DSP) are specialized microprocessors that take real-world signals like voice, audio, video, temperature, pressure, or position that have been digitized and then mathematically manipulate them.
+- **Architecture**: The architecture of a DSP is designed to optimize the performance of repetitive and numerically intensive tasks. Most DSPs include a powerful data path and also the capacity to move large amounts of data to memory quickly. A typical DSP architecture consists of the following components:
+  - **Program Memory**: It stores the instructions that control the operation of the DSP.
+  - **Data Memory**: It stores the input and output data of the DSP.
+  - **Arithmetic Logic Unit (ALU)**: It performs the arithmetic and logical operations on the data.
+  - **Multiplier-Accumulator (MAC)**: It performs the multiplication and accumulation of the data in a single cycle.
+  - **Address Generation Unit (AGU)**: It generates the addresses for accessing the data memory.
+  - **Direct Memory Access (DMA)**: It transfers the data between the external memory and the data memory without involving the CPU.
+- **Features**: The features of a DSP include the following:
+  - **High speed**: DSPs can execute millions of instructions per second (MIPS) and process large amounts of data in real time.
+  - **Low power consumption**: DSPs can operate at low voltages and consume less power than general-purpose processors.
+  - **Parallel processing**: DSPs can perform multiple operations in parallel using multiple functional units and data paths.
+  - **Pipelining**: DSPs can overlap the execution of different stages of an instruction to increase the throughput.
+  - **Specialized instructions**: DSPs can support specialized instructions that are optimized for signal processing applications, such as circular buffering, bit-reversal, and complex arithmetic.
+- **Addressing Formats**: The addressing formats of a DSP determine how the operands of an instruction are accessed from the memory. Some common addressing formats are:
+  - **Direct addressing**: The operand is specified by its address in the memory.
+  - **Indirect addressing**: The operand is specified by a register that contains its address in the memory.
+  - **Indexed addressing**: The operand is specified by a register that contains a base address and an index that is added to the base address to obtain the final address.
+  - **Circular addressing**: The operand is specified by a register that contains a base address and an index that is added to the base address to obtain the final address, but the address is wrapped around a predefined boundary to form a circular buffer.
+  - **Bit-reversed addressing**: The operand is specified by a register that contains a base address and an index that is added to the base address to obtain the final address, but the address is reversed in bit order to facilitate the computation of the fast Fourier transform (FFT).
+- **Functional modes**: The functional modes of a DSP determine how the instructions are executed and how the data is processed. Some common functional modes are:
+  - **Serial mode**: The instructions are executed one by one and the data is processed one word at a time.
+  - **Parallel mode**: The instructions are executed in parallel and the data is processed in parallel using multiple functional units and data paths.
+  - **Very long instruction word (VLIW) mode**: The instructions are grouped into a single long instruction word that specifies the operations to be performed by each functional unit in parallel.
+  - **Single instruction multiple data (SIMD) mode**: The same instruction is executed on multiple data elements in parallel using multiple functional units and data paths.
+  - **Single instruction multiple thread (SIMT) mode**: The same instruction is executed on multiple data elements in parallel using multiple functional units and data paths, but each data element belongs to a different thread of execution that can have its own program counter and register file.
+- **Introduction to Commercial Processors**: There are many commercial processors that are designed for digital signal processing applications. Some examples are:
+  - **Texas Instruments (TI) TMS320C6000 DSP**: It is a VLIW processor that has eight 32-bit functional units and two parallel data paths.

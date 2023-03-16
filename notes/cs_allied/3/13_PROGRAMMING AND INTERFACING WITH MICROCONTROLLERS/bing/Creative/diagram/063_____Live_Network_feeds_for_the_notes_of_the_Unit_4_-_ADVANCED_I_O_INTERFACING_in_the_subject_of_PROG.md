@@ -1,0 +1,25 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of Live Network feeds for the notes of the Unit 4 - ADVANCED I/O INTERFACING in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS.
+
+### Live Network feeds
+
+- Live network feeds are streams of data that are continuously transmitted over a network, such as the Internet, from a source to a destination.
+- Live network feeds can be used for various applications, such as video conferencing, online gaming, webcasting, surveillance, etc.
+- Live network feeds require special protocols and techniques to ensure reliable, timely, and efficient delivery of data, as well as to cope with network congestion, packet loss, jitter, and latency.
+- Some of the protocols and techniques used for live network feeds are:
+
+  - Real-time Transport Protocol (RTP): A standard protocol that provides end-to-end delivery services for data with real-time characteristics, such as audio and video. RTP supports payload type identification, sequence numbering, timestamping, and delivery monitoring.
+  - Real-time Transport Control Protocol (RTCP): A companion protocol to RTP that provides feedback on the quality of the data distribution, such as packet loss, delay, and jitter. RTCP also supports synchronization of multiple streams, sender and receiver identification, and session management.
+  - Real-time Streaming Protocol (RTSP): A protocol that enables the control of streaming media servers, such as play, pause, fast forward, rewind, etc. RTSP also supports session initiation, termination, and modification, as well as media description and negotiation.
+  - User Datagram Protocol (UDP): A connectionless protocol that provides fast and simple transmission of data over the network, without guaranteeing reliability, ordering, or error recovery. UDP is suitable for live network feeds that can tolerate some packet loss and delay, but require low overhead and latency.
+  - Transmission Control Protocol (TCP): A connection-oriented protocol that provides reliable, ordered, and error-free transmission of data over the network, by using acknowledgments, retransmissions, flow control, and congestion control. TCP is suitable for live network feeds that require high reliability and integrity, but can tolerate some overhead and latency.
+  - Internet Protocol (IP): A protocol that provides the basic functionality of routing and addressing data packets over the network, by using a hierarchical structure of IP addresses and network masks. IP is the underlying protocol for both UDP and TCP, and supports both unicast and multicast transmission modes.
+  - Internet Group Management Protocol (IGMP): A protocol that enables the management of multicast groups, by allowing hosts to join and leave multicast groups, and routers to maintain multicast group membership information. IGMP is used for live network feeds that involve multiple receivers that share the same data stream, such as webcasting.
+  - Quality of Service (QoS): A set of mechanisms that enable the prioritization and differentiation of network traffic, by using parameters such as bandwidth, delay, jitter, packet loss, etc. QoS can be implemented at various layers of the network, such as the application layer, the transport layer, the network layer, or the link layer. QoS can improve the performance and quality of live network feeds, by allocating appropriate resources and handling congestion.
+
+- Some of the challenges and issues faced by live network feeds are:
+
+  - Bandwidth: The amount of data that can be transmitted over the network in a given time. Bandwidth is a limited and shared resource that affects the quality and availability of live network feeds. Bandwidth can be measured in bits per second (bps), kilobits per second (kbps), megabits per second (Mbps), etc.
+  - Delay: The time it takes for a data packet to travel from the source to the destination. Delay is composed of several components, such as propagation delay, transmission delay, processing delay, and queuing delay. Delay affects the timeliness and synchronization of live network feeds. Delay can be measured in milliseconds (ms), microseconds (µs), nanoseconds (ns), etc.
+  - Jitter: The variation in delay of data packets. Jitter is caused by factors such as network congestion, routing changes, packet reordering, etc. Jitter affects the smoothness and continuity of live network feeds. Jitter can be measured in milliseconds (ms), microseconds (µs), nanoseconds (ns), etc.
+  - Packet loss: The loss of data packets during transmission over the network. Packet loss is caused by factors such as network congestion, errors, collisions, etc. Packet loss affects the reliability and quality of live network feeds. Packet loss can be measured in percentage, fraction, or rate.
+  - Security: The protection of data from unauthorized access, modification, or disclosure. Security is a crucial

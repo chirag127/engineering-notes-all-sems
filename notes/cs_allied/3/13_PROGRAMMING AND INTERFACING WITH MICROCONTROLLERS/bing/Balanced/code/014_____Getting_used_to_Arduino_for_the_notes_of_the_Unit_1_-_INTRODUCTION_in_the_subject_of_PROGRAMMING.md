@@ -1,0 +1,26 @@
+### Getting used to Arduino for the notes of the Unit 1 - INTRODUCTION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- Arduino is an open-source platform that combines hardware and software for creating interactive projects with microcontrollers.
+- A microcontroller is a small computer that can be programmed to perform specific tasks, such as controlling sensors, motors, LEDs, etc.
+- Arduino consists of two main components: the Arduino board and the Arduino IDE (Integrated Development Environment).
+- The Arduino board is the physical device that contains the microcontroller and other components, such as input/output pins, voltage regulators, USB ports, etc.
+- The Arduino IDE is the software that allows you to write, compile, and upload code to the Arduino board using a programming language called Arduino C/C++.
+- To get started with Arduino, you need the following items:
+  - An Arduino board (such as Arduino Uno, Nano, Mega, etc.)
+  - A USB cable to connect the board to your computer
+  - The Arduino IDE software installed on your computer
+  - A breadboard, jumper wires, and some basic electronic components (such as LEDs, resistors, buttons, etc.) for testing and prototyping
+- To set up your Arduino environment, you need to do the following steps:
+  - Connect the Arduino board to your computer using the USB cable
+  - Launch the Arduino IDE software and select the correct board and port from the Tools menu
+  - Write or open an Arduino sketch (a file that contains your code) in the IDE
+  - Verify (compile) your sketch to check for errors and warnings
+  - Upload your sketch to the Arduino board and run it
+  - Monitor the serial output or the behavior of the board and the components
+- To learn the basics of Arduino programming, you need to understand the following concepts:
+  - The structure of an Arduino sketch, which consists of two main functions: setup() and loop()
+  - The syntax and rules of the Arduino C/C++ language, such as variables, data types, operators, expressions, statements, control structures, functions, etc.
+  - The Arduino library, which is a collection of predefined functions and variables that you can use to interact with the hardware and the software of the Arduino platform
+  - The Arduino pinout, which is the layout and the function of the input/output pins on the Arduino board
+  - The Arduino serial communication, which is a way of sending and receiving data between the Arduino board and the computer or other devices using the serial port
+  - The Arduino analog and digital signals, which are the two types of electrical signals that the Arduino board can read and write using the analog and digital pins

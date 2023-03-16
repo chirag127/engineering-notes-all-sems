@@ -1,0 +1,21 @@
+# Cancellation for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Cancellation is a technique to terminate a thread before it completes its execution.
+- Cancellation can be useful to free up resources, handle errors, or respond to user requests.
+- Cancellation can be initiated by another thread or by the thread itself.
+- Cancellation can be either asynchronous or deferred.
+  - Asynchronous cancellation means that the thread can be terminated at any point in its execution.
+  - Deferred cancellation means that the thread can only be terminated at certain points, called cancellation points, where it checks for cancellation requests.
+- Cancellation can be either enabled or disabled by the thread.
+  - Enabled cancellation means that the thread can be cancelled if a cancellation request is received.
+  - Disabled cancellation means that the thread ignores any cancellation requests and continues its execution.
+- Cancellation can have different types of cleanup actions, depending on how the thread is terminated.
+  - If the thread is terminated by a return statement, it can perform normal cleanup actions, such as closing files, releasing locks, or freeing memory.
+  - If the thread is terminated by a cancellation request, it can perform additional cleanup actions, such as notifying other threads, restoring the state of the system, or logging the event.
+  - The thread can register one or more cleanup handlers, which are functions that are executed when the thread is cancelled.
+  - The thread can also use cancellation cleanup push and pop macros, which are used to manage a stack of cleanup handlers.
+- Cancellation can have different effects on the thread's exit status and joinability.
+  - If the thread is terminated by a return statement, it returns a value that can be obtained by another thread using the pthread_join function.
+  - If the thread is terminated by a cancellation request, it returns a special value, PTHREAD_CANCELED, that indicates that the thread was cancelled.
+  - The thread can also use the pthread_exit function to terminate itself and return a value.
+  - The thread can also use the pthread_detach function to make itself unjoinable, meaning that its resources are automatically released when it terminates and no other thread can obtain its exit status.

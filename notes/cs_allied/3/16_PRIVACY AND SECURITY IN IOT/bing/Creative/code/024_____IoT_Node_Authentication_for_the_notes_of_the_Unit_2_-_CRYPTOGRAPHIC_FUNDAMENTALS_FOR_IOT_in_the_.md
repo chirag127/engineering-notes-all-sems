@@ -1,0 +1,9 @@
+### IoT Node Authentication
+
+- IoT node authentication is the process of verifying the identity and legitimacy of IoT devices that communicate with each other or with a server over a network  .
+- IoT node authentication is important for ensuring the security, privacy and integrity of the data exchanged among IoT devices, as well as preventing unauthorized access, malicious attacks and data tampering  .
+- IoT node authentication can be challenging due to the heterogeneity, resource constraints, mobility and scalability of IoT devices, as well as the dynamic and complex nature of IoT networks   .
+- IoT node authentication can be performed at different layers of the network stack, such as the physical layer, the data link layer, the network layer, the transport layer or the application layer, depending on the requirements and capabilities of the IoT devices and the network  .
+- IoT node authentication can use different methods and techniques, such as passwords, certificates, tokens, biometrics, cryptographic keys, digital signatures, hash-based message authentication codes, challenge-response protocols, physical unclonable functions, channel state information, machine learning, blockchain, etc    .
+- IoT node authentication can have different properties and goals, such as mutual authentication, lightweight authentication, robust authentication, adaptive authentication, continuous authentication, etc   .
+- IoT node authentication can face different challenges and issues, such as key management, device enrollment, device revocation, device compromise, device spoofing, device cloning, replay attacks, man-in-the-middle attacks, denial-of-service attacks, etc    .

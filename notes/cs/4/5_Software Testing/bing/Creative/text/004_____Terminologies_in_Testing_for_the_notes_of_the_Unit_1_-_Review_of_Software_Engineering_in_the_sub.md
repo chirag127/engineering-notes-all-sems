@@ -1,0 +1,30 @@
+### Terminologies in Testing
+
+- Testing: The process of verifying and validating that a software product or system meets the business and technical requirements that guided its design and development, and works as expected.
+- Software Engineering: The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software.
+- Software Development Life Cycle (SDLC): A framework that defines the tasks and activities involved in each phase of software development, such as planning, analysis, design, implementation, testing, deployment, and maintenance.
+- Software Test Life Cycle (STLC): A subset of SDLC that focuses on the testing activities and deliverables, such as test planning, test design, test execution, test reporting, and test closure.
+- Test Level: A specific instantiation of a test process that targets a particular component or system under test, such as unit testing, integration testing, system testing, or acceptance testing.
+- Test Type: A group of test activities that aim to evaluate a specific quality attribute of a software product or system, such as functional testing, non-functional testing, structural testing, or change-related testing.
+- Test Design Technique: A method or procedure used to derive and select test cases based on the test objectives, test conditions, and test criteria.
+- Test Case: A set of input values, execution preconditions, expected results, and execution postconditions, developed for a particular objective or test condition, such as to exercise a particular program path or to verify compliance with a specific requirement.
+- Test Script: A sequence of instructions for the execution of a test, usually automated.
+- Test Data: The data that is used as input for a test or that is produced as output by a test.
+- Test Environment: An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test.
+- Test Execution: The process of running a test on the component or system under test, producing actual result(s).
+- Test Result: The outcome of a test execution, such as pass, fail, inconclusive, or error.
+- Test Report: A document summarizing testing activities and results, and evaluating the quality of the test object and the testing process.
+- Test Log: A chronological record of relevant details about the execution of tests.
+- Test Incident: Any event that occurs during testing that requires investigation, such as a deviation from expected results, a defect, a failure, or an error.
+- Defect: A flaw in a component or system that can cause the component or system to fail to perform its required function, e.g. an incorrect statement or data definition. A defect, if encountered during execution, may cause a failure of the component or system.
+- Failure: An event in which a component or system does not perform a required function within specified limits.
+- Error: A human action that produces an incorrect result, such as a mistake in a specification, design, code, or test case.
+- Bug: A common term for a defect, especially in the context of software development.
+- Debugging: The process of finding, analyzing, and removing the causes of failures in software.
+- Root Cause Analysis: An analysis technique aimed at identifying the root causes of problems or incidents and devising solutions to prevent recurrence.
+- Verification: Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
+- Validation: Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
+- Quality: The degree to which a component, system, or process meets specified requirements and/or user/customer needs and expectations.
+- Quality Assurance: Part of quality management focused on providing confidence that quality requirements will be fulfilled.
+- Quality Control: Part of quality management focused on fulfilling quality requirements.
+- Quality Management: Coordinated activities to direct and control an organization with regard to quality. Quality management includes the establishment of a quality policy and quality objectives, quality planning, quality assurance, quality control, and quality improvement.

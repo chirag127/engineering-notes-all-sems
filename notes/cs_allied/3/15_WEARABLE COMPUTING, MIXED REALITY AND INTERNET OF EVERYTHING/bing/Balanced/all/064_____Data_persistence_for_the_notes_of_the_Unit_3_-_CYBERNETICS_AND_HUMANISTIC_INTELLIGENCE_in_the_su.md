@@ -1,0 +1,18 @@
+# Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the longevity of data after the application that created it has been closed.
+- In order for data persistence to happen, the data must be written to non-volatile storage, a type of memory that can retain that information long-term, even if the application is no longer running.
+- Data persistence is important for various reasons, such as:
+  - Preserving the state and history of the data across sessions and devices.
+  - Enabling data analysis and reporting on the data over time.
+  - Providing backup and recovery options in case of data loss or corruption.
+  - Enhancing the performance and scalability of the application by reducing the need to recompute or reload the data.
+- Data persistence can be achieved by different methods and technologies, depending on the type, size, and structure of the data, as well as the requirements and constraints of the application.
+- Some of the common methods and technologies for data persistence are:
+  - Files: This is the simplest and most basic form of data persistence, where the data is stored as plain text or binary files on the disk. Files are easy to create and access, but they have limitations in terms of data integrity, concurrency, and security.
+  - Databases: This is the most widely used and sophisticated form of data persistence, where the data is stored in structured or semi-structured tables or collections, and can be manipulated by using a query language or an application programming interface (API). Databases offer many advantages in terms of data consistency, reliability, and efficiency, but they also have challenges in terms of complexity, cost, and maintenance.
+  - Cloud storage: This is a modern and flexible form of data persistence, where the data is stored on remote servers that are accessed over the internet. Cloud storage offers many benefits in terms of scalability, availability, and security, but it also has drawbacks in terms of latency, bandwidth, and dependency.
+- For the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING, some of the possible options for data persistence are:
+  - A local file system: This is a simple and convenient option for storing the notes as text or image files on the device's disk. This option allows the user to access the notes offline and without any additional software, but it also exposes the notes to the risk of data loss or corruption if the device is damaged or stolen.
+  - A relational database: This is a more advanced and robust option for storing the notes as records in a table with predefined attributes and relationships. This option allows the user to query and manipulate the notes using a structured query language (SQL), and to ensure the data integrity and security using transactions and encryption. However, this option also requires the user to install and manage a database management system (DBMS) on the device or on a server, and to design and maintain a suitable database schema.
+  - A cloud storage service: This is a modern and flexible option for storing the notes as objects or documents on a remote server that is accessed over the internet. This option allows the user to access the notes from any device and location, and to benefit from the scalability and reliability of the cloud provider. However, this option also requires the user to have a stable and secure internet connection, and to pay for the storage space and bandwidth used.

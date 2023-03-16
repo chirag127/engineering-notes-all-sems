@@ -1,0 +1,8 @@
+### Relations between Senses
+
+- In natural language processing (NLP), word sense disambiguation (WSD) is the task of identifying the correct meaning of a word in a given context, when the word has multiple possible meanings (polysemy).
+- WSD is important for NLP applications such as machine translation, information retrieval, text summarization, question answering, and sentiment analysis, as the meaning of a word can affect the interpretation and understanding of the whole text.
+- WSD can be performed using different methods, such as rule-based, knowledge-based, supervised, semi-supervised, or unsupervised approaches, depending on the availability and quality of linguistic resources and annotated data.
+- WSD is closely related to other NLP tasks, such as part-of-speech tagging, named entity recognition, semantic role labeling, and coreference resolution, as they can provide useful information for disambiguating word senses.
+- WSD is also influenced by the level of granularity of the sense inventory, which is the set of possible meanings for each word. Different sense inventories, such as WordNet, BabelNet, or FrameNet, may have different criteria and coverage for defining word senses, and may affect the performance and evaluation of WSD systems.
+- WSD is a challenging and open problem in NLP, as natural language is inherently ambiguous, dynamic, and context-dependent, and word senses may not be clearly defined or distinguished. Moreover, WSD requires a deep understanding of the semantics and pragmatics of natural language, which are not fully captured by existing computational models.

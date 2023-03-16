@@ -1,0 +1,18 @@
+## Unit 1 - INTRODUCTION: SECURING THE INTERNET OF THINGS
+
+- The Internet of Things (IoT) is the network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, actuators, and connectivity which enables these things to connect and exchange data, creating opportunities for more direct integration of the physical world into computer-based systems, resulting in efficiency improvements, economic benefits, and reduced human exertions.
+- IoT devices are becoming more prevalent and diverse, ranging from smart home appliances, wearables, medical devices, industrial sensors, to smart city infrastructure. However, IoT devices also pose significant security and privacy risks, as they can be compromised by malicious actors, used for unauthorized surveillance, or exploited for data breaches.
+- Securing the IoT is the process of ensuring the confidentiality, integrity, and availability of IoT devices and data, as well as protecting them from cyberattacks and unauthorized access. Securing the IoT involves various aspects, such as device security, network security, cloud security, data security, and user security.
+- Some of the challenges and issues in securing the IoT include:
+  - The heterogeneity and diversity of IoT devices, which may have different hardware, software, protocols, and standards, making it difficult to apply a uniform security solution.
+  - The resource constraints of IoT devices, which may have limited processing power, memory, battery life, and bandwidth, making it challenging to implement robust security mechanisms, such as encryption, authentication, and updates.
+  - The scalability and complexity of IoT networks, which may consist of thousands or millions of devices, creating a large attack surface and increasing the difficulty of monitoring and managing the security of each device.
+  - The lack of awareness and education among IoT users, manufacturers, and service providers, which may result in poor security practices, such as using default or weak passwords, not updating firmware, or not following security guidelines. 
+- Some of the best practices and recommendations for securing the IoT include:
+  - Securing your devices, when possible, by changing default passwords, enabling encryption, disabling unnecessary features, and updating firmware regularly.
+  - Choosing reputable vendors when buying smart devices, and checking their security policies, features, and reviews before purchasing.
+  - Upgrading the security of your home network, by using a strong password, enabling firewall, and separating IoT devices from other devices on different networks or subnets.
+  - Considering whether you’ll be using the public or private cloud, and getting educated about the risks of each. Public cloud services may offer more convenience and scalability, but also more exposure and vulnerability. Private cloud services may offer more security and control, but also more cost and maintenance.
+  - To prevent attacks that penetrate your network, using a virtual private network (VPN) on your router to add a firewall to incoming traffic.
+  - Securing the data generated and transmitted by IoT devices, by using encryption, anonymization, and access control mechanisms, and by following data protection regulations and standards.
+  - Securing the users of IoT devices, by educating them about the security and privacy risks and benefits of IoT, and by providing them with clear and transparent information and choices about how their data is collected, used, and shared.

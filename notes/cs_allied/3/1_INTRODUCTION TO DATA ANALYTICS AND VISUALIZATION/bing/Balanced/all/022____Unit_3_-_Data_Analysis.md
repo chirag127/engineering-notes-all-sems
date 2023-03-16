@@ -1,0 +1,11 @@
+## Unit 3 - Data Analysis
+
+Data analysis is the process of collecting, organizing, exploring, and interpreting data to answer questions, test hypotheses, or draw conclusions. Data analysis can be performed using various methods, tools, and techniques, depending on the type, source, and purpose of the data.
+
+Some of the topics covered in this unit are:
+
+- Data types and sources: Data can be classified into different types, such as quantitative or qualitative, continuous or discrete, nominal or ordinal, etc. Data can also come from different sources, such as surveys, experiments, observations, databases, etc. Data types and sources affect the choice of data analysis methods and tools.
+- Data visualization: Data visualization is the use of graphical representations, such as charts, graphs, maps, etc., to display and communicate data. Data visualization can help to explore data, identify patterns, trends, outliers, and relationships, and present data in an effective and appealing way.
+- Descriptive statistics: Descriptive statistics are numerical or graphical summaries of data that describe its main features, such as central tendency, variability, and distribution. Descriptive statistics can help to understand and compare data sets, but they do not infer or generalize beyond the data.
+- Inferential statistics: Inferential statistics are methods of drawing conclusions or generalizations about a population or a phenomenon based on a sample or a subset of data. Inferential statistics use techniques such as hypothesis testing, confidence intervals, and correlation and regression analysis to test hypotheses, estimate parameters, and measure relationships among variables.
+- Data analysis tools: Data analysis tools are software applications or programs that help to perform data analysis tasks, such as data collection, cleaning, manipulation, visualization, and statistical analysis. Some examples of data analysis tools are Excel, SPSS, R, Python, Tableau, etc. Data analysis tools vary in their features, functions, and user interfaces.

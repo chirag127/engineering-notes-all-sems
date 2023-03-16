@@ -1,0 +1,10 @@
+### DAC
+
+DAC stands for Digital-to-Analog Converter. It is a device that converts digital audio signals into analog audio signals that can be output to speakers, headphones or other analog devices. DACs are essential for any device that delivers digital sound, such as laptops, smartphones, wearable devices, etc.
+
+Some points to note about DACs are:
+
+- DACs can vary in quality, performance, features and price. Some factors that affect the quality of a DAC are the sampling rate, bit depth, jitter, noise, distortion, etc. Higher-end DACs can offer better sound quality, lower noise and distortion, and more advanced features such as volume control, filters, equalizers, etc.
+- DACs can be integrated into the device itself, such as in a smartphone or a laptop, or they can be external, such as in a USB, portable or desktop DAC. External DACs can offer better sound quality and more flexibility than internal DACs, as they can bypass the limitations and interferences of the device's sound card and circuitry.
+- DACs can be used for various applications, such as music listening, gaming, audio production, etc. Different applications may require different types of DACs, depending on the user's preferences, needs and budget. For example, a music listener may prefer a DAC that supports high-resolution audio formats, such as DSD or MQA, while a gamer may prefer a DAC that supports surround sound and virtualization effects.
+- DACs can also be used for wearable computing, which is the field of designing and developing wearable devices that provide various services, such as collecting personal data, monitoring health conditions, etc. Wearable devices, such as smartwatches, fitness trackers, smart glasses, etc., can use DACs to output audio signals to headphones or speakers, or to communicate with other devices via Bluetooth or Wi-Fi. Wearable devices may require DACs that are small, low-power, wireless and secure, as they have limited space, battery and connectivity options.

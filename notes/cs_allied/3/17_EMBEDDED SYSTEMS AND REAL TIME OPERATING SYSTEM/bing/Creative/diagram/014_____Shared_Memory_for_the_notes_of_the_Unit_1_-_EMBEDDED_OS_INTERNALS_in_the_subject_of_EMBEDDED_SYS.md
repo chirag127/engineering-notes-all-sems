@@ -1,0 +1,21 @@
+### Shared Memory
+
+- Shared memory is a method of inter-process communication (IPC) that allows multiple processes to access a common region of memory.
+- Shared memory can be used for data exchange, synchronization, or coordination among processes.
+- Shared memory is faster than other IPC methods, such as message passing or pipes, because it does not involve copying data or system calls.
+- Shared memory can be implemented in different ways, such as:
+  - Using a special system call (e.g., `shmget` in Linux) to create and attach a shared memory segment to the address space of a process.
+  - Using memory-mapped files (e.g., `mmap` in Linux) to map a file or a device to the address space of a process, and then sharing the file or device among multiple processes.
+  - Using a shared memory object (e.g., `shm_open` in POSIX) to create and open a named shared memory region that can be accessed by multiple processes.
+- Shared memory can also be classified into two types, depending on the scope of sharing:
+  - Local shared memory: the shared memory region is accessible only by processes on the same machine or processor.
+  - Distributed shared memory: the shared memory region is accessible by processes on different machines or processors, connected by a network or a bus.
+- Shared memory can have advantages and disadvantages, such as:
+  - Advantages:
+    - High performance and low overhead.
+    - Simple and intuitive programming model.
+    - Flexible and scalable communication paradigm.
+  - Disadvantages:
+    - Potential data inconsistency and race conditions.
+    - Lack of protection and security mechanisms.
+    - Complexity and difficulty of management and synchronization.

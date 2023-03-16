@@ -1,0 +1,11 @@
+### Cipher suites
+
+- A cipher suite is a set of cryptographic algorithms that are used to secure the communication between two parties in a network.
+- A cipher suite consists of four components: a key exchange algorithm, an authentication algorithm, an encryption algorithm, and a message authentication code (MAC) algorithm.
+- The key exchange algorithm is used to establish a shared secret key between the two parties, which is then used to encrypt and decrypt the data.
+- The authentication algorithm is used to verify the identity of the two parties and prevent impersonation attacks.
+- The encryption algorithm is used to transform the plaintext data into ciphertext, which is unintelligible to anyone who does not have the secret key.
+- The MAC algorithm is used to generate a tag that is attached to the ciphertext, which ensures the integrity and authenticity of the data.
+- A cipher suite is usually denoted by a string of the form `KEX-AUTH-ENC-MAC`, where `KEX` is the key exchange algorithm, `AUTH` is the authentication algorithm, `ENC` is the encryption algorithm, and `MAC` is the MAC algorithm. For example, `ECDHE-RSA-AES128-GCM-SHA256` is a cipher suite that uses Elliptic Curve Diffie-Hellman Ephemeral (ECDHE) for key exchange, RSA for authentication, AES with 128-bit key and Galois/Counter Mode (GCM) for encryption, and SHA-256 for MAC.
+- A cipher suite is negotiated between the two parties during the handshake phase of a secure protocol, such as TLS or DTLS. The client sends a list of supported cipher suites to the server, and the server selects one that is compatible with its own capabilities and preferences. The selected cipher suite is then used for the rest of the communication session.
+- The choice of a cipher suite affects the security, performance, and compatibility of the communication. A good cipher suite should provide strong security guarantees, such as confidentiality, integrity, authenticity, and forward secrecy. It should also have low computational and communication overhead, and be widely supported by different platforms and devices.

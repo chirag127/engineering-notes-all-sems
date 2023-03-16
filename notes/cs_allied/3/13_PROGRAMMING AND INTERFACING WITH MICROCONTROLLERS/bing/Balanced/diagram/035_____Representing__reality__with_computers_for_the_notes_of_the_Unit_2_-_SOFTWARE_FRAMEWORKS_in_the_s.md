@@ -1,0 +1,24 @@
+### Representing “reality” with computers
+
+- Computers are devices that process information in binary form, using sequences of 0s and 1s to represent data and instructions.
+- To represent reality with computers, we need to find ways to convert real-world phenomena into binary data, and to manipulate and interpret binary data in meaningful ways.
+- There are several levels of modeling reality with computers, such as:
+  - Physical conversion of input signals into digital signals (as well as converting digital signals into an output signal)
+    - This involves using sensors, transducers, analog-to-digital converters, digital-to-analog converters, and other devices to capture, measure, and output physical quantities such as temperature, pressure, sound, light, etc. in binary form.
+  - Encoding schemes for representing information in binary
+    - This involves using standard or custom formats to encode different types of information, such as text, numbers, images, audio, video, etc. in binary form.
+    - For example, ASCII is an encoding scheme that assigns a 7-bit binary code to each character in the English alphabet, while JPEG is an encoding scheme that compresses and decompresses images in binary form.
+  - Algorithmic modeling of physical processes
+    - This involves using mathematical equations, logical rules, and programming languages to describe and simulate the behavior and interactions of real-world systems and phenomena in binary form.
+    - For example, Newton's laws of motion can be used to model the movement of objects in a computer game, while cellular automata can be used to model the growth of patterns and structures in nature.
+- The goal of representing reality with computers is to create accurate, efficient, and useful models that can help us understand, predict, control, or enhance real-world situations and problems.
+- However, there are also limitations and challenges in representing reality with computers, such as:
+  - The complexity and uncertainty of reality
+    - Reality is often too complex, dynamic, and unpredictable to be fully captured and modeled by computers, especially for large-scale and long-term systems and phenomena.
+    - For example, weather forecasting is a difficult task that involves many variables and uncertainties, and computer simulations can only provide probabilistic estimates based on available data and assumptions.
+  - The trade-off between simplicity and fidelity
+    - Reality is often simplified and abstracted to make it easier and faster to model and process by computers, but this may result in losing some details and accuracy of the original phenomena.
+    - For example, raster data models use regular grids of pixels to represent spatial information, but this may cause distortion and resolution issues when dealing with irregular or curved features.
+  - The ethical and social implications of modeling reality
+    - Reality is often influenced and shaped by human values, beliefs, and interests, and computer models may reflect or affect these aspects of reality in positive or negative ways.
+    - For example, computer models may be used to support decision making, policy making, education, entertainment, etc., but they may also be used to manipulate, deceive, harm, or exclude people or groups.

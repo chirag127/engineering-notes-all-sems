@@ -1,0 +1,21 @@
+### Bootstrapping methods for the notes of the Unit 3 - SEMANTICS AND PRAGMATICS in the subject of NATURAL LANGUAGE PROCESSING
+
+- Bootstrapping methods are a type of semi-supervised learning techniques that use a small set of labeled data and a large set of unlabeled data to learn a model or a task.
+- Bootstrapping methods can be applied to various natural language processing (NLP) tasks, such as part-of-speech tagging, named entity recognition, relation extraction, sentiment analysis, etc.
+- Bootstrapping methods generally follow the same format:
+  - Start with an empty list of things (e.g., tags, entities, relations, etc.).
+  - Initialize the list with carefully chosen seeds (e.g., rules, patterns, examples, etc.).
+  - Leverage the things in the list to find more things from the unlabeled data (e.g., by matching, expanding, scoring, etc.).
+  - Repeat the previous step until a stopping criterion is met (e.g., no more things are found, a threshold is reached, etc.).
+- Bootstrapping methods can be classified into two main categories:
+  - Generative bootstrapping: the model learns a probabilistic distribution over the data and uses it to generate new labels or examples.
+  - Discriminative bootstrapping: the model learns a classifier or a function that discriminates between different labels or examples and uses it to assign new labels or examples.
+- Bootstrapping methods can benefit from the following advantages :
+  - They can reduce the cost and effort of manual annotation.
+  - They can exploit the redundancy and diversity of the unlabeled data.
+  - They can adapt to new domains or tasks with minimal supervision.
+  - They can improve the performance and robustness of the model or the task.
+- Bootstrapping methods can also face the following challenges :
+  - They can suffer from semantic drift, which is the deviation of the learned things from the original seeds due to noise or ambiguity in the data.
+  - They can be sensitive to the quality and quantity of the seeds, which can affect the initial and final results of the bootstrapping process.
+  - They can be prone to overfitting or underfitting, which can lead to poor generalization or low coverage of the model or the task.

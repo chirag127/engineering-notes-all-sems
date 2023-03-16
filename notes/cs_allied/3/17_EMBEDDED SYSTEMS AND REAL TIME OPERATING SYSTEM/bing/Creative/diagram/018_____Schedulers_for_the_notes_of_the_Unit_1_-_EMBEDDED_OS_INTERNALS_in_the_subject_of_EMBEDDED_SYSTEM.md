@@ -1,0 +1,12 @@
+### Schedulers for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A scheduler is a mechanism within an embedded OS that determines the order and the duration of tasks to run on the CPU.
+- A scheduler creates the illusion that all the tasks are running concurrently by allowing each to have a share of the processor time.
+- The way that time is allocated between tasks is termed "scheduling" and it can affect the performance, responsiveness, and predictability of the system.
+- There are different types of schedulers in embedded systems, such as:
+  - Time Slice (TS) Scheduler: A TS scheduler is the next step in complexity from Round Robin (RR). Time is divided into "slots", with each task being allowed to execute for the duration of its slot. A TS scheduler can be fair or unfair, depending on whether the slots are equal or unequal in length.
+  - Priority Scheduler: A priority scheduler assigns a priority level to each task and always runs the highest priority task that is ready. A priority scheduler can be cooperative or preemptive, depending on whether a task can voluntarily relinquish the CPU or be interrupted by a higher priority task. A priority scheduler can also be static or dynamic, depending on whether the priority levels are fixed or can change at runtime.
+  - Composite Scheduler: A composite scheduler combines different scheduling algorithms to achieve a balance between performance and predictability. For example, a composite scheduler can use a priority scheduler for real-time tasks and a TS scheduler for non-real-time tasks.
+- A scheduler can also be implemented in different ways, such as:
+  - Kernel-based Scheduler: A kernel-based scheduler is part of the embedded OS and provides scheduling services and other features useful in multitasking systems, such as semaphores, mutexes, queues, etc.. A kernel-based scheduler can be complex and require special compilation.
+  - Application-based Scheduler: An application-based scheduler is directly inserted into the application code and provides basic support for multiple tasks. An application-based scheduler can be simple and require no special compilation. An example of an application-based scheduler is RIOS (Real-time Interrupt-driven Operating System).

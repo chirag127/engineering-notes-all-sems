@@ -1,0 +1,25 @@
+### Interrupt management in RTOS environment
+
+- An interrupt is a signal that causes the processor to temporarily suspend its current execution and switch to a predefined handler routine.
+- Interrupts are useful for handling time-critical events, such as input/output, timers, sensors, etc.
+- Interrupts can also be a source of latency and unpredictability in real-time systems, especially when using an RTOS.
+- An RTOS is a software that manages the execution of multiple tasks on a single processor, according to some scheduling policy and priority scheme.
+- An RTOS typically provides services such as task creation, synchronization, communication, memory management, etc.
+- An RTOS also handles interrupts by providing an interrupt dispatcher that invokes the appropriate user-defined interrupt service routine (ISR) for each interrupt source.
+- An ISR is a function that performs the minimal amount of work required to acknowledge and service the interrupt, and then returns control to the RTOS.
+- An ISR should not call any RTOS function that might cause a task switch, such as blocking, yielding, or sending a message, unless the RTOS is aware that an ISR is running and can handle it safely.
+- An ISR should also not perform any long or complex operations that might delay the execution of other ISRs or tasks, or violate the real-time constraints of the system.
+- An ISR should defer most of the processing to another thread, such as a task or a deferred interrupt handler (DHI), that can use the RTOS services and has a lower priority than the ISR.
+- A DHI is a special type of task that is activated by an ISR and runs in the background to complete the interrupt processing.
+- A DHI can be implemented using various mechanisms, such as semaphores, queues, software timers, event flags, etc.
+- A DHI can also be preempted by other tasks or ISRs, depending on the RTOS scheduling policy and priority scheme.
+- The main advantages of using DHIs are:
+  - Reducing the interrupt latency, which is the time between the occurrence of an interrupt and the execution of its ISR.
+  - Reducing the interrupt jitter, which is the variation in the interrupt latency.
+  - Reducing the interrupt blocking time, which is the time during which an ISR disables other interrupts to prevent interference.
+  - Improving the modularity and maintainability of the interrupt code, by separating the ISR and the DHI into different functions or modules.
+  - Improving the portability and compatibility of the interrupt code, by using the RTOS services and abstractions instead of the hardware-specific details.
+- The main challenges of using DHIs are:
+  - Ensuring the correct synchronization and communication between the ISR and the DHI, to avoid data corruption, race conditions, or missed events.
+  - Ensuring the correct priority assignment and scheduling of the DHI, to avoid priority inversion, deadlock, or starvation.
+  - Ensuring the correct error handling and recovery of the DHI, to avoid system instability, inconsistency, or failure.

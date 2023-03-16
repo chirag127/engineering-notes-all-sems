@@ -1,0 +1,22 @@
+### I2C/IIC
+
+- I2C or IIC stands for **Inter-Integrated Circuit**, a serial communication protocol made by Philips Semiconductor (now NXP Semiconductor) in 1982 .
+- It is intended for communication between chips that reside on the same Printed Circuit Board (PCB) or within a short distance .
+- It is a **synchronous**, **multi-master/multi-slave**, **packet switched**, **single-ended**, **serial communication bus**.
+- It uses only **two wires** to transmit and receive data: a **serial data line (SDA)** and a **serial clock line (SCL)**  .
+- The **clock signal** is always controlled by the **master device**, which initiates and terminates the data transfer  .
+- The **data signal** is **bidirectional**, meaning that both master and slave devices can send and receive data over the same wire  .
+- The data transfer is **synchronized** to the rising and falling edges of the clock signal .
+- Each device on the bus has a **unique address** that is used to identify it during the data transfer  .
+- The data transfer consists of **packets** of 8 bits each, with an **acknowledgment bit** after each packet  .
+- The data transfer can be either **read** or **write**, depending on the direction of the data flow  .
+- The data transfer can be either **single-byte** or **multi-byte**, depending on the length of the data  .
+- The data transfer can be either **single-master** or **multi-master**, depending on the number of devices that can initiate the data transfer  .
+- The data transfer can be either **single-slave** or **multi-slave**, depending on the number of devices that can respond to the data transfer  .
+- The data transfer can be either **standard mode** (up to 100 kbit/s), **fast mode** (up to 400 kbit/s), **fast mode plus** (up to 1 Mbit/s), or **high-speed mode** (up to 3.4 Mbit/s), depending on the speed of the clock signal .
+- The data transfer can be either **7-bit addressing** or **10-bit addressing**, depending on the size of the address field .
+- The data transfer can be either **general call** or **directed call**, depending on the type of addressing used .
+- The data transfer can be either **normal** or **combined**, depending on the number of start and stop conditions used .
+- The data transfer can be either **arbitrated** or **non-arbitrated**, depending on the resolution of conflicts between multiple masters .
+- The data transfer can be either **polled** or **interrupt-driven**, depending on the method of notification used.
+- The data transfer can be either **blocking** or **non-blocking**, depending on the mode of operation used.

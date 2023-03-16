@@ -1,0 +1,10 @@
+# Building peer to peer communication system using Bluetooth &WiFi
+
+- Peer to peer (P2P) communication system is a network of devices that can communicate directly with each other without relying on any central server or infrastructure.
+- Bluetooth and WiFi are two wireless technologies that can be used to create P2P networks using smartphones or other devices.
+- Bluetooth is a short-range wireless technology that allows devices to exchange data over a distance of up to 10 meters. Bluetooth can be used for streaming audio, transferring files, or connecting peripherals such as keyboards or mice.
+- WiFi is a longer-range wireless technology that allows devices to access the internet or a local area network (LAN) over a distance of up to 100 meters. WiFi can be used for browsing the web, downloading files, or streaming video.
+- Both Bluetooth and WiFi have advantages and disadvantages for P2P communication. Bluetooth consumes less power and is more secure, but has lower bandwidth and range. WiFi has higher bandwidth and range, but consumes more power and is more vulnerable to interference and hacking.
+- To create a P2P network using Bluetooth, devices need to pair with each other using a unique code or a near field communication (NFC) tap. Once paired, devices can discover and connect to other nearby devices that are also paired. Bluetooth P2P networks are also known as personal area networks (PANs) or Bluetooth ad hoc networks.
+- To create a P2P network using WiFi, devices need to use a special mode called WiFi Direct or WiFi P2P. This mode allows devices to discover and connect to other nearby devices that support WiFi Direct without using a wireless access point or a router. WiFi Direct networks are also known as WiFi ad hoc networks or WiFi peer to peer networks.
+- Both Bluetooth and WiFi P2P networks can be used for various applications, such as file sharing, gaming, messaging, or social networking. Some examples of apps that use P2P networks are Bridgefy, FireChat, SHAREit, and Wi-Fi Shoot.

@@ -1,0 +1,27 @@
+### Structure for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Introduction
+  - Define embedded systems and their characteristics
+  - Explain the role of embedded operating systems (EOS) and their features
+  - Compare and contrast EOS with general-purpose operating systems (GPOS)
+  - List some examples of EOS and their applications
+- EOS Architecture
+  - Describe the components and layers of EOS architecture
+  - Explain the functions and interfaces of EOS kernel, device drivers, middleware, and applications
+  - Discuss the advantages and disadvantages of monolithic, microkernel, and hybrid EOS architectures
+  - Compare and contrast EOS architectures for single-core and multicore processors
+- EOS Scheduling
+  - Define the concepts of task, process, thread, and context switch
+  - Explain the criteria and challenges of EOS scheduling
+  - Compare and contrast different EOS scheduling algorithms, such as round-robin, priority-based, earliest deadline first, rate monotonic, and least laxity first
+  - Analyze the performance and trade-offs of EOS scheduling algorithms using metrics such as utilization, response time, deadline miss ratio, and overhead
+- EOS Memory Management
+  - Define the concepts of memory hierarchy, memory allocation, memory mapping, and memory protection
+  - Explain the methods and challenges of EOS memory management
+  - Compare and contrast different EOS memory management techniques, such as static, dynamic, paging, segmentation, and virtual memory
+  - Analyze the performance and trade-offs of EOS memory management techniques using metrics such as memory utilization, fragmentation, access time, and overhead
+- EOS Interprocess Communication and Synchronization
+  - Define the concepts of interprocess communication (IPC), synchronization, mutual exclusion, deadlock, and livelock
+  - Explain the methods and challenges of EOS IPC and synchronization
+  - Compare and contrast different EOS IPC and synchronization mechanisms, such as message passing, shared memory, semaphores, mutexes, monitors, and condition variables
+  - Analyze the performance and trade-offs of EOS IPC and synchronization mechanisms using metrics such as throughput, latency, fairness, and overhead

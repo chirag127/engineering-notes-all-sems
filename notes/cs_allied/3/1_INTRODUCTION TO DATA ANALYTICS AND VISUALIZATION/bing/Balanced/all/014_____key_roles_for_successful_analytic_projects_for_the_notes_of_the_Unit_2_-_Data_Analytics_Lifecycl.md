@@ -1,0 +1,14 @@
+# Key Roles for Successful Analytic Projects
+
+- A successful analytic project requires a team of people with different skills and responsibilities to work together towards a common goal.
+- Some of the key roles for a successful analytic project are:
+
+  - **Project sponsor**: The project sponsor is responsible for the start of the project and provides all the requirements for the project and defines the core business problem. The project sponsor also secures the budget and resources for the project and approves the final deliverables. The project sponsor is usually a senior executive or a business leader who has a stake in the outcome of the project .
+  - **Project manager**: The project manager ensures that key milestones and objectives are met on time and at the expected quality. The project manager also coordinates the communication and collaboration among the project team and other stakeholders. The project manager is usually a skilled professional who has experience in managing projects and leading teams .
+  - **Business user**: A business user is someone who understands the domain area and usually benefits from the results. This person can consult and advise the project team on the context of the project, the value of the results, and how the outputs will be operationalized. A business user is usually a business analyst, a line manager, or a deep subject matter expert .
+  - **Business intelligence analyst**: A business intelligence analyst is someone who can analyze and visualize the data and provide insights and recommendations to the business users and the project sponsor. A business intelligence analyst is usually a skilled professional who has knowledge of data analysis tools and techniques and business acumen .
+  - **Database administrator (DBA)**: A database administrator is someone who can manage and maintain the data sources and databases that are used for the project. A database administrator is usually a technical expert who has knowledge of data modeling, data quality, data security, and data governance .
+  - **Data engineer**: A data engineer is someone who can design and build the data pipelines and platforms that are used for the project. A data engineer is usually a technical expert who has knowledge of data engineering tools and frameworks, such as ETL, cloud computing, and big data .
+  - **Data scientist**: A data scientist is someone who can apply advanced analytical methods and techniques, such as machine learning, statistics, and optimization, to the data and provide solutions and predictions for the business problem. A data scientist is usually a technical expert who has knowledge of data science tools and languages, such as Python, R, and SQL .
+
+- Depending on the size and complexity of the project, some of these roles may be combined or split among different people. The key is to have a clear definition of the roles and responsibilities and a good collaboration among the team members.

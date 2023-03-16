@@ -1,0 +1,8 @@
+### Live Network Feeds for the Notes of the Unit 3 - Cybernetics and Humanistic Intelligence in the Subject of Wearable Computing, Mixed Reality and Internet of Everything
+
+- Live network feeds are streams of data that are transmitted over a network in real time, such as video, audio, sensor readings, or location information.
+- Wearable computing is the study or practice of inventing, designing, building, or using miniature body-borne computational and sensory devices that can act as intelligent assistants, augment reality, or enable intellectual collectives  .
+- Cybernetics is the science of communication and control in living organisms and machines, which involves feedback loops, self-regulation, adaptation, and learning.
+- Humanistic intelligence is the ability to use technology as an extension of the human mind and body, rather than as a separate entity, which allows for natural and intuitive interaction, personal expression, and creative exploration.
+- Mixed reality is the blending of physical and digital worlds, where real and virtual objects coexist and interact in real time, creating new possibilities for communication, education, entertainment, and collaboration.
+- Internet of everything is the concept of connecting people, processes, data, and things through the internet, creating a network of networks that can enable smart services, applications, and solutions for various domains and industries.

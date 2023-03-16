@@ -1,0 +1,26 @@
+## Unit 1 - INTRODUCTION
+
+- This unit introduces the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be divided into two main branches: symbolic AI and sub-symbolic AI.
+- Symbolic AI uses logic, rules, and symbols to represent and manipulate knowledge. Examples of symbolic AI include expert systems, knowledge bases, and logic programming.
+- Sub-symbolic AI uses numerical and statistical methods to model and learn from data. Examples of sub-symbolic AI include neural networks, evolutionary algorithms, and fuzzy logic.
+- AI can also be classified according to the type and degree of intelligence exhibited by the system. Some common types of AI are:
+  - Artificial Narrow Intelligence (ANI): AI that can perform a specific task or domain at or above human level, such as playing chess, recognizing faces, or translating languages.
+  - Artificial General Intelligence (AGI): AI that can perform any intellectual task that a human can, such as understanding and reasoning across domains, contexts, and goals.
+  - Artificial Super Intelligence (ASI): AI that can surpass human intelligence and capabilities in all domains and aspects, such as creativity, wisdom, and morality.
+- AI has many applications and benefits for various fields and domains, such as medicine, education, entertainment, business, and security. Some examples of AI applications are:
+  - Diagnosis and treatment of diseases
+  - Personalized learning and tutoring
+  - Virtual assistants and chatbots
+  - Recommendation systems and search engines
+  - Autonomous vehicles and robots
+  - Fraud detection and cybersecurity
+- AI also poses many challenges and risks for society and humanity, such as ethical, social, legal, and philosophical issues. Some examples of AI challenges and risks are:
+  - Bias and discrimination in data and algorithms
+  - Privacy and security of personal and sensitive information
+  - Accountability and responsibility of AI decisions and actions
+  - Job displacement and economic inequality
+  - Human dignity and autonomy
+  - Existential threat and superintelligence
+- AI is an interdisciplinary and evolving field that draws from and contributes to various disciplines, such as computer science, mathematics, psychology, philosophy, linguistics, and neuroscience.

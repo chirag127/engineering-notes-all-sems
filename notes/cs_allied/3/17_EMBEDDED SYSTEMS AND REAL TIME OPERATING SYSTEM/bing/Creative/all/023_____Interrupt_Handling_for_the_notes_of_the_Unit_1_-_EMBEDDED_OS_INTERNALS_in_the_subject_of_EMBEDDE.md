@@ -1,0 +1,22 @@
+# Interrupt Handling
+
+- An interrupt is a signal to the processor emitted by hardware or software indicating an event that needs immediate attention.
+- Interrupts are indispensable when writing any practical embedded firmware, as they allow the CPU to respond to external events that are not synchronized to the software running on the system .
+- Interrupts can be classified into two types: hardware interrupts and software interrupts.
+  - Hardware interrupts are triggered by peripheral devices outside the micro-controller, such as timers, sensors, buttons, etc .
+  - Software interrupts are called from software, using a specified command, such as a system call or an exception .
+- Interrupts have several advantages over polling, such as reducing CPU overhead, improving responsiveness, and simplifying the program logic.
+- Interrupts also have some challenges, such as handling multiple interrupts, prioritizing interrupts, saving and restoring the CPU context, and synchronizing with the main program .
+- Interrupt handling involves the following steps :
+  - Detecting the interrupt request signal and identifying the source of the interrupt.
+  - Saving the current CPU state, such as the program counter, the stack pointer, and the registers.
+  - Jumping to the interrupt service routine (ISR), which is a function that performs the specific task related to the interrupt source.
+  - Executing the ISR and clearing the interrupt flag to acknowledge the interrupt.
+  - Restoring the CPU state and returning to the main program.
+- Interrupt handling can be affected by the operating system, the hardware architecture, and the application requirements .
+- Some of the best practices for writing ISRs are :
+  - Keep the ISR as short and simple as possible, and avoid blocking or waiting operations.
+  - Use interrupt priorities and nested interrupts to handle multiple interrupts efficiently and avoid missing or losing interrupts.
+  - Use semaphores, mutexes, or flags to synchronize the ISR with the main program and avoid data corruption or race conditions.
+  - Use volatile qualifiers and memory barriers to ensure the compiler does not optimize away the variables or instructions that are accessed by the ISR.
+  - Use atomic operations or disable interrupts temporarily to protect critical sections of code that should not be interrupted.

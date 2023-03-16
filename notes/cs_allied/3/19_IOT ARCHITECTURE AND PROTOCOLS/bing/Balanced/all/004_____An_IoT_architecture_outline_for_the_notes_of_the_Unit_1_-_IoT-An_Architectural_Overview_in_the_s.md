@@ -1,0 +1,8 @@
+# An IoT architecture outline for the notes of the Unit 1 - IoT-An Architectural Overview in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- IoT architecture is the system of numerous elements that enable IoT devices to communicate with each other and perform various tasks.
+- A basic IoT architecture consists of three layers: Perception, Network, and Application.
+- Perception layer: This layer comprises the sensors, actuators, and other smart devices that collect data from the physical environment and perform actions on it . Examples of perception devices are temperature sensors, cameras, RFID tags, etc.
+- Network layer: This layer comprises the network devices and communications types and protocols that transmit the data from the perception layer to the application layer or vice versa  . Examples of network devices are routers, gateways, switches, etc. Examples of communication types and protocols are 5G, Wi-Fi, Bluetooth, MQTT, CoAP, etc.
+- Application layer: This layer comprises the cloud services, platforms, and applications that store, process, and analyze the data from the network layer and provide feedback or commands to the perception layer  . Examples of cloud services are AWS, Azure, Google Cloud, etc. Examples of platforms are IoT Central, ThingWorx, etc. Examples of applications are smart home, smart city, smart agriculture, etc.
+- Some IoT architectures may have additional layers or components, such as middleware, edge computing, security, etc., depending on the complexity and requirements of the IoT system  .

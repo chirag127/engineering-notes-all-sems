@@ -1,0 +1,27 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- This is a course offered by Dr. A.P.J. Abdul Kalam Technical University for the third year students of Computer Science and Engineering (IoT) branch.
+- The course aims to provide practical exposure to the students on the concepts, principles and challenges of Internet of Things (IoT) and its applications in various domains.
+- The course consists of 10 lab experiments that cover the following topics:
+  - Introduction to IoT and its components
+  - IoT hardware devices and sensors
+  - IoT communication protocols and standards
+  - IoT cloud platforms and services
+  - IoT data analytics and visualization
+  - IoT security and privacy
+  - IoT applications in smart home, smart city, smart agriculture, etc.
+- The course also requires the students to complete a mini project based on IoT using any hardware device, sensor, communication protocol, cloud platform and application domain of their choice.
+- The course outcomes are as follows:
+  - Demonstrate basic concepts, principles and challenges in IoT
+  - Illustrate functioning of hardware devices and sensors used for IoT
+  - Implement IoT communication protocols and standards
+  - Utilize IoT cloud platforms and services
+  - Analyze and visualize IoT data
+  - Apply IoT security and privacy measures
+  - Develop IoT applications in various domains
+- The course assessment is based on the following criteria:
+  - Lab performance: 40%
+  - Lab record: 10%
+  - Mini project: 30%
+  - Viva voce: 20%
+- The course is designed to prepare the students for the future of IoT innovation and to equip them with the skills and knowledge to create smart and connected solutions for various problems and needs.

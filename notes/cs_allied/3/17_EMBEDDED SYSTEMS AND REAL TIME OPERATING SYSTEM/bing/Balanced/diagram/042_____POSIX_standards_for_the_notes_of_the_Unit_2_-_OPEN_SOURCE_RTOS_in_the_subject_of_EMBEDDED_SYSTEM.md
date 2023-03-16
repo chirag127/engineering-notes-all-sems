@@ -1,0 +1,26 @@
+### POSIX standards
+
+- POSIX stands for Portable Operating System Interface. It is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems.
+- POSIX defines both the system and user-level application programming interfaces (APIs), along with command line shells and utility interfaces, for software compatibility (portability) with variants of Unix and other operating systems.
+- POSIX is also a trademark of the IEEE. POSIX is intended to be used by both application and system developers.
+- POSIX comprises four major components (each in an associated volume):
+  - General terms, concepts, and interfaces common to all volumes of this standard, including utility conventions and C-language header definitions, are included in the Base Definitions volume.
+  - Definitions for system interfaces and headers, including utility interfaces, are included in the System Interfaces volume.
+  - Definitions for the shell and utilities, including the POSIX.1-2017 Shell and Utilities volume, are included in the Shell and Utilities volume.
+  - Definitions for the Realtime Extension, including interfaces and headers for realtime application support, are included in the Realtime volume.
+- POSIX defines a standard way for an application to interface to the operating system. The original POSIX standard defines interfaces to core functions such as file operations, process management, signals, and devices.
+- Subsequent releases of POSIX have also been defined to cover real-time extensions and multi-threading.
+- POSIX real-time extensions provide features such as:
+  - Priority-based scheduling
+  - High-resolution timers
+  - Inter-process communication (IPC) mechanisms
+  - Synchronization primitives
+  - Memory locking
+  - Asynchronous and synchronous I/O
+  - Real-time signals
+- POSIX real-time extensions aim to improve the predictability and responsiveness of real-time applications by reducing the sources of indeterminism and interference in the system.
+- POSIX real-time extensions are optional and not all operating systems support them fully or partially.
+- Some examples of operating systems that support POSIX real-time extensions are:  
+  - LynxOS-178: a native POSIX, hard real-time partitioning operating system developed and certified to FAA DO-178C DAL A safety standards.
+  - FreeRTOS-Plus-POSIX: a library that implements a small subset of the POSIX threading API for FreeRTOS, a popular open source real-time operating system .
+  - Linux: a widely used open source operating system that supports most of the POSIX real-time extensions through the POSIX.1b (real-time) and POSIX.1c (threads) standards.

@@ -1,0 +1,13 @@
+### Handling Large Data Sets in Main Memory
+
+- Large data sets are those that exceed the available memory of a single machine or a cluster of machines.
+- Handling large data sets is a common challenge in data analytics and visualization, especially for tasks such as frequent itemset mining and clustering.
+- Some of the techniques and tools for handling large data sets in main memory are:
+
+  - **Data compression**: Reducing the size of the data by applying encoding schemes, such as run-length encoding, dictionary encoding, or bitmap encoding. This can help save memory space and improve performance. However, some compression methods may introduce errors or lose information. 
+  - **Data chunking**: Splitting the data into smaller chunks that can be loaded and processed individually in main memory. This can help parallelize the computation and reduce the memory footprint. However, some algorithms may not work well with chunked data or may require additional steps to combine the results from different chunks.   
+  - **Data sampling**: Selecting a subset of the data that represents the whole data set. This can help reduce the complexity and noise of the data and speed up the analysis. However, some sampling methods may introduce bias or variance and affect the accuracy of the results.  
+  - **Data streaming**: Processing the data as it arrives in a continuous stream, rather than storing it in memory. This can help handle dynamic and real-time data and avoid memory overflow. However, some streaming algorithms may require more computational resources or may not guarantee exact results.  
+  - **Data indexing**: Creating an index structure that allows fast and efficient access to the data. This can help improve the performance of queries and operations on the data. However, some indexing methods may require extra memory space or may not support complex queries. 
+  - **Data partitioning**: Dividing the data into disjoint or overlapping subsets based on some criteria, such as attributes, values, or clusters. This can help reduce the search space and improve the scalability of the algorithms. However, some partitioning methods may introduce redundancy or inconsistency and affect the quality of the results.  
+  - **Data summarization**: Creating a concise and meaningful representation of the data, such as statistics, histograms, sketches, or models. This can help capture the main characteristics and patterns of the data and facilitate the analysis. However, some summarization methods may lose details or information and affect the precision of the results.

@@ -1,0 +1,11 @@
+# Survey routing protocols for IoT
+
+Routing protocols are the rules that determine how data packets are forwarded from one node to another in a network. Routing protocols for IoT are designed to meet the specific requirements and challenges of IoT networks, such as low power consumption, scalability, mobility, heterogeneity, and security. 
+
+Some of the routing protocols for IoT are:
+
+- **RPL**: Routing Protocol for Low-Power and Lossy Networks. It is a distance-vector protocol that uses a Directed Acyclic Graph (DAG) to represent the network topology and select the best paths based on various metrics and constraints. It is standardized by the IETF and is suitable for static IoT devices .
+- **CoAP**: Constrained Application Protocol. It is a web transfer protocol that enables resource-oriented communication between constrained nodes and servers. It is based on the REST architecture and uses UDP as the transport layer protocol. It supports various features such as caching, discovery, observation, and multicast.
+- **6LoWPAN**: IPv6 over Low-Power Wireless Personal Area Networks. It is an adaptation layer that enables the transmission of IPv6 packets over IEEE 802.15.4 networks, which are widely used for wireless sensor networks. It provides header compression, fragmentation, and reassembly mechanisms to reduce the overhead and fit the IPv6 packets into the small frames of IEEE 802.15.4.
+- **MQTT**: Message Queuing Telemetry Transport. It is a publish/subscribe protocol that enables lightweight and reliable messaging between IoT devices and brokers. It uses TCP as the transport layer protocol and provides three levels of quality of service (QoS) for message delivery. It is widely used for IoT applications that require low bandwidth and high latency.
+- **DTLS**: Datagram Transport Layer Security. It is a security protocol that provides end-to-end encryption, authentication, and integrity protection for data packets transmitted over UDP. It is based on the TLS protocol but adapts to the unreliable and datagram-oriented nature of UDP. It is used to secure the communication between IoT devices and servers that use CoAP or MQTT .

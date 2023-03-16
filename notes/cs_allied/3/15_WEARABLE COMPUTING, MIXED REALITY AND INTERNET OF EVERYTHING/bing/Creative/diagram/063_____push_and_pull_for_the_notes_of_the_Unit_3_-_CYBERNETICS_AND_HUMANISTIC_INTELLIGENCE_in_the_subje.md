@@ -1,0 +1,25 @@
+### Push and Pull for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Push and pull are two different approaches to managing information flow and control in cybernetic systems.
+- A push system initiates production or action as a reaction to present demand, while a pull system initiates production or action in anticipation of future demand.
+- Push and pull systems can be applied to various domains, such as marketing, software development, security, and platform design   .
+- Push and pull systems have different advantages and disadvantages, depending on the context and the goals of the system.
+- Some of the advantages of push systems are:
+  - They can reduce uncertainty and variability in demand and supply.
+  - They can improve efficiency and utilization of resources.
+  - They can enable proactive planning and coordination of activities.
+- Some of the disadvantages of push systems are:
+  - They can create excess inventory and waste.
+  - They can increase the risk of obsolescence and mismatch between demand and supply.
+  - They can reduce responsiveness and flexibility to changing customer needs and preferences.
+- Some of the advantages of pull systems are:
+  - They can reduce inventory and waste.
+  - They can increase the alignment between demand and supply.
+  - They can enhance customer satisfaction and loyalty.
+- Some of the disadvantages of pull systems are:
+  - They can increase uncertainty and variability in demand and supply.
+  - They can reduce efficiency and utilization of resources.
+  - They can require more coordination and communication among stakeholders.
+- Push and pull systems can be combined or hybridized to achieve a balance between the benefits and drawbacks of each approach.
+- Push and pull systems can also be influenced by the power dynamics and the algorithmic logic of the platforms and the users involved in the system.
+- Push and pull systems can have implications for the humanistic intelligence and the ethical values of the cybernetic systems.

@@ -1,0 +1,9 @@
+# IoT IAM infrastructure
+
+- IoT IAM infrastructure is the set of technologies and policies that enable identity and access management for the Internet of Things (IoT).
+- IoT IAM infrastructure aims to provide secure and scalable authentication, authorization, and auditing of IoT devices, users, and data.
+- IoT IAM infrastructure typically involves the following components:
+  - **Public Key Infrastructure (PKI)**: A system that uses cryptographic keys and certificates to establish the identity and trustworthiness of IoT devices and users. PKI enables secure communication and data encryption between IoT devices and other entities, such as cloud services, gateways, or applications. PKI also supports device lifecycle management, such as provisioning, revocation, and renewal of certificates .
+  - **Thing Registry**: A service that registers and manages the metadata and attributes of IoT devices, such as name, type, serial number, location, and deployment date. Thing registry helps to identify and group IoT devices, and to assign policies and permissions to them.
+  - **Policy Engine**: A service that defines and enforces the rules and conditions for accessing IoT devices and data. Policy engine evaluates the requests and attributes of IoT devices and users, and grants or denies access based on predefined policies. Policy engine also supports fine-grained access control, such as role-based access control (RBAC) or attribute-based access control (ABAC) .
+  - **Audit Log**: A service that records and monitors the activities and events related to IoT devices and data. Audit log helps to track and verify the actions and outcomes of IoT devices and users, and to detect and respond to anomalies, breaches, or misuse .

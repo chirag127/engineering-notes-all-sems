@@ -1,0 +1,15 @@
+# Analysis of Time Series
+
+- A time series is a series of data points indexed in time order. For example, the daily closing value of a stock, the monthly sales of a product, or the yearly temperature of a city are all time series data.
+- Time series analysis is the process of using statistical techniques to model and explain the behavior of a time series data. Time series analysis can help us understand the patterns, trends, cycles, seasonality, and other features of the data, as well as forecast future values based on past observations .
+- Time series analysis can be useful for various purposes, such as:
+  - Exploring the relationships between variables over time, such as the effect of interest rates on inflation, or the impact of weather on crop yields.
+  - Testing hypotheses about the causes and effects of changes in the data, such as the effect of a policy intervention, a marketing campaign, or a natural disaster.
+  - Evaluating the performance of a system, a process, or a strategy over time, such as the quality of a product, the efficiency of a service, or the profitability of a business.
+  - Predicting future outcomes based on historical data, such as the demand for a product, the price of a commodity, or the growth of a population  .
+- There are different types of time series analysis, depending on the characteristics and objectives of the data. Some of the common types are:
+  - Classification: This type of analysis aims to identify and assign categories to the data, based on some criteria or rules. For example, we can classify the data into high, medium, or low values, or into normal, abnormal, or anomalous patterns.
+  - Curve fitting: This type of analysis aims to plot the data along a curve that best fits the shape and direction of the data. For example, we can fit the data to a linear, exponential, or logarithmic curve, to study the relationships of variables within the data.
+  - Descriptive analysis: This type of analysis aims to identify the patterns in the data, such as trends, cycles, or seasonality. For example, we can use descriptive analysis to detect the upward or downward movement of the data over time, the periodic fluctuations of the data around a mean level, or the recurring patterns of the data that depend on the time of the year, the week, or the day.
+  - Inferential analysis: This type of analysis aims to test hypotheses or make inferences about the data, based on statistical methods and assumptions. For example, we can use inferential analysis to estimate the parameters of a model, to compare the means or variances of different groups of data, or to assess the significance or causality of the relationships between variables.
+  - Forecasting: This type of analysis aims to predict future values of the data, based on a model that captures the historical patterns and relationships of the data. For example, we can use forecasting to project the sales of a product, the revenue of a company, or the population of a country, based on the past data and some assumptions.

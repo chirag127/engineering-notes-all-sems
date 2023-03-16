@@ -1,0 +1,17 @@
+# Digital to Analog Conversion
+
+- Digital to analog conversion (DAC) is the process by which digital signals (which have a binary state) are converted to analog signals (which theoretically have an infinite number of states).
+- For example, a modem converts computer digital data to analog audio-frequency signals that can be transmitted over telephone lines.
+- DAC is necessary when we communicate information from one system to another across a public access phone line or when we want to reproduce high-quality sound or video from digital data.
+- There are several DAC architectures; the suitability of a DAC for a particular application is determined by figures of merit including resolution, maximum sampling frequency, accuracy, linearity, speed, power consumption, and cost.
+- The following techniques can be used for DAC :
+  - Amplitude Shift keying (ASK) – Amplitude Shift Keying is a technique in which carrier signal is analog and data to be modulated is digital. The amplitude of analog carrier signal is modified to reflect binary data.
+  - Frequency Shift keying (FSK) – Frequency Shift Keying is a technique in which carrier signal is analog and data to be modulated is digital. The frequency of analog carrier signal is modified to reflect binary data.
+  - Phase Shift keying (PSK) – Phase Shift Keying is a technique in which carrier signal is analog and data to be modulated is digital. The phase of analog carrier signal is modified to reflect binary data.
+  - Quadrature Amplitude Modulation (QAM) – Quadrature Amplitude Modulation is a technique in which carrier signal is analog and data to be modulated is digital. The amplitude and phase of analog carrier signal are modified to reflect binary data.
+- A DAC can be implemented using different methods, such as:
+  - Binary-weighted resistor DAC – A binary-weighted resistor DAC uses a network of resistors with values proportional to the powers of two. The digital input bits are applied to a set of switches that connect or disconnect the resistors to the output. The output voltage is proportional to the weighted sum of the input bits.
+  - R-2R ladder DAC – A R-2R ladder DAC uses a network of resistors with values of R and 2R. The digital input bits are applied to a set of switches that connect or disconnect the resistors to the output. The output voltage is proportional to the weighted sum of the input bits.
+  - String DAC – A string DAC uses a series of equal resistors connected between a reference voltage and ground. The digital input bits are applied to a set of switches that select one of the resistors as the output. The output voltage is proportional to the position of the selected resistor in the string.
+  - Flash DAC – A flash DAC uses a set of comparators, each with a different reference voltage. The digital input bits are applied to a parallel encoder that generates a binary code corresponding to the comparator that has the highest reference voltage below the input voltage. The output code is then converted to an analog voltage by a resistor network or a current source.
+  - Sigma-delta DAC – A sigma-delta DAC uses a feedback loop that consists of a sigma-delta modulator, a low-pass filter, and a 1-bit DAC. The sigma-delta modulator oversamples the digital input and produces a 1-bit output stream with a high frequency and a low resolution. The low-pass filter removes the high-frequency noise and preserves the low-frequency signal. The 1-bit DAC converts the output stream to an analog voltage.

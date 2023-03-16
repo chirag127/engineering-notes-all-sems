@@ -1,0 +1,15 @@
+### Communication for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Communication is the process of exchanging information and data between different devices, systems, and users.
+- Communication in wearable computing, mixed reality, and internet of everything involves the use of various technologies and protocols to enable seamless and ubiquitous interaction and collaboration across different domains and contexts.
+- Some of the key aspects of communication in these fields are:
+
+  - Wearable communication: The use of wearable devices, such as smart glasses, smart watches, smart clothing, etc., to provide constant access to computing and communication resources, and to support remote collaboration and social interaction.
+  - Mixed reality communication: The use of mixed reality devices, such as head-mounted displays, projectors, cameras, etc., to create immersive and interactive experiences that blend the real and the virtual worlds, and to enable communication and interaction with physical and digital objects and environments.
+  - Internet of everything communication: The use of internet of things devices, such as sensors, actuators, RFID tags, etc., to connect and communicate with various physical and digital entities, such as people, machines, data, services, etc., and to enable smart and context-aware applications and services.
+
+- Some of the challenges and opportunities of communication in these fields are:
+
+  - Wearable communication: The challenges include the design of wearable devices that are comfortable, unobtrusive, secure, and energy-efficient, and that support multimodal and natural user interfaces, such as speech, gesture, touch, etc. The opportunities include the enhancement of personal and social communication, the support of remote collaboration and assistance, and the creation of new forms of expression and interaction.
+  - Mixed reality communication: The challenges include the creation of realistic and consistent mixed reality environments, the synchronization and alignment of real and virtual objects, the management of occlusion and transparency, and the provision of feedback and guidance to the users. The opportunities include the augmentation of reality with information and functionality, the creation of novel and engaging experiences, and the support of learning and training.
+  - Internet of everything communication: The challenges include the scalability, interoperability, security, and privacy of the internet of things devices and networks, the processing and analysis of large and heterogeneous data, and the adaptation and personalization of the applications and services. The opportunities include the optimization of resources and processes, the improvement of efficiency and productivity, and the enhancement of quality of life and well-being.

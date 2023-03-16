@@ -1,0 +1,22 @@
+### K-means for the notes of the Unit 5 - Frequent Itemsets and Clustering in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- K-means is a **clustering algorithm** that aims to partition a set of data points into a number of clusters, such that the data points in the same cluster are similar to each other, and the data points in different clusters are dissimilar to each other.
+- K-means is an **unsupervised learning algorithm**, meaning that it does not require any labels or classes for the data points, but instead tries to discover the inherent structure or patterns in the data .
+- K-means is a **simple and popular** algorithm for data analysis and visualization, as it can handle large and high-dimensional data sets, and can be easily implemented and interpreted  .
+- K-means has many **applications** in various domains, such as customer segmentation, image segmentation, anomaly detection, market research, etc .
+- K-means works as follows:
+  - First, we initialize **k** points, called **means** or **cluster centroids**, randomly or by some heuristic method.
+  - Then, we assign each data point to the cluster that has the closest mean, using some distance measure, such as Euclidean distance.
+  - Next, we update the cluster means by taking the average of the data points in each cluster.
+  - We repeat the previous two steps until the cluster assignments do not change or some convergence criterion is met.
+- K-means has some **advantages** and **disadvantages**  :
+  - Advantages:
+    - It is easy to understand and implement.
+    - It is computationally efficient and scalable.
+    - It can produce compact and spherical clusters.
+    - It can be adapted to different distance measures and data types.
+  - Disadvantages:
+    - It requires the number of clusters **k** to be specified in advance, which may not be known or optimal.
+    - It is sensitive to the initial cluster means, which may lead to different and suboptimal results.
+    - It is prone to getting stuck in local minima, meaning that it may not find the best possible clustering.
+    - It may not work well for data sets that have non-spherical, overlapping, or noisy clusters.

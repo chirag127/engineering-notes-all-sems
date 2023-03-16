@@ -1,0 +1,11 @@
+# Open Frameworks for Microcontroller Programming
+
+- An open framework is a software platform that provides a set of libraries, tools, and standards for developing applications for microcontrollers.
+- An open framework can simplify the programming process, enable cross-platform compatibility, and support various features and functionalities for embedded systems.
+- Some examples of open frameworks for microcontroller programming are:
+
+  - **Wiring**: an open-source framework that allows writing cross-platform software to control devices attached to a wide range of microcontroller boards. Wiring supports Arduino, Raspberry Pi, and other popular platforms. Wiring also provides a graphical development environment and a code editor. 
+  - **AIfES**: an open-source framework that facilitates the deployment of artificial intelligence and machine learning on microcontrollers. AIfES is written in C and can run on 8-bit, 16-bit, and 32-bit MCUs. AIfES supports neural networks, fuzzy logic, and genetic algorithms. 
+  - **CMSIS**: a software framework that provides a ground-up software framework for embedded applications that run on Cortex-M based microcontrollers. CMSIS provides a common interface to access the core and peripheral functions of the MCU, as well as libraries for DSP, RTOS, and neural networks. CMSIS also supports TrustZone hardware security extensions for Armv8-M architecture. 
+  - **MicroPython**: a lean and efficient implementation of the Python 3 programming language that runs on microcontrollers and in constrained environments. MicroPython includes a small subset of the Python standard library and is optimized for low memory usage and high performance. MicroPython also provides a REPL (read-evaluate-print loop) and a file system for interactive development. 
+  - **.NET nanoFramework**: a framework that allows for C# coding in Visual Studio for constrained embedded devices. .NET nanoFramework is based on the .NET platform and supports a subset of the .NET API. .NET nanoFramework also provides a debugger, a deployment tool, and a device explorer.

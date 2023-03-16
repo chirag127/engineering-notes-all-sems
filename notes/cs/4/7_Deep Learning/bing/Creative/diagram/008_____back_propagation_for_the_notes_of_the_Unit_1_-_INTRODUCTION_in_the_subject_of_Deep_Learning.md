@@ -1,0 +1,13 @@
+### Backpropagation
+
+Backpropagation is a method for calculating the gradients of the parameters of a deep feedforward neural network with respect to a loss function. It is based on the chain rule of calculus and allows us to efficiently update the weights of the network using gradient descent or other optimization algorithms. Backpropagation is a key component of supervised learning algorithms for training neural networks.
+
+#### Overview of backpropagation
+
+- A neural network consists of multiple layers of neurons, each with a nonlinear activation function, that are connected by weighted edges. The input layer receives the features of the data, and the output layer produces the predictions of the network. The intermediate layers are called hidden layers.
+- The network is trained by minimizing a loss function that measures the discrepancy between the network's predictions and the true labels of the data. The loss function depends on the weights of the network, which are the parameters that we want to optimize.
+- To update the weights, we need to compute the gradients of the loss function with respect to each weight. This is where backpropagation comes in. Backpropagation is an algorithm that efficiently computes these gradients using the chain rule of calculus.
+- The chain rule states that the derivative of a composite function is the product of the derivatives of the individual functions. For example, if f(x) = g(h(x)), then f'(x) = g'(h(x)) * h'(x). In a neural network, each neuron's output is a composite function of its inputs and weights, so we can apply the chain rule to compute the gradients.
+- Backpropagation works by propagating the errors (i.e. the differences between the network's predictions and the true labels) backwards through the network, from the output layer to the input layer. At each layer, the errors are multiplied by the derivatives of the activation functions and the weights to obtain the gradients. The gradients are then used to update the weights using gradient descent or other optimization algorithms.
+- Backpropagation can be implemented using a forward pass and a backward pass. In the forward pass, the network computes the outputs of each layer and the loss function given the inputs and the weights. In the backward pass, the network computes the gradients of the loss function and the weights using the chain rule and the outputs from the forward pass.
+- Backpropagation is an efficient and general algorithm that can be applied to any differentiable loss function and activation function. It is widely used in deep learning to train various types of neural networks, such as convolutional neural networks, recurrent neural networks, and transformers.

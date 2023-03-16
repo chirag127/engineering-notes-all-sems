@@ -1,0 +1,14 @@
+### Smart Sensors: Introduction, Primary Sensors, Excitation, Amplification, Filters, Converters, Compensation, Information Coding/Processing, Data Communication, Standards for Smart Sensor Interface, the Automation.
+
+- A smart sensor is a device that takes input from the physical environment and uses built-in compute resources to perform predefined functions upon detection of specific input and then process data before passing it on.
+- A smart sensor has three components: a sensor that captures data, a microprocessor that computes on the output of the sensor via programming and communications capabilities. A smart sensor might also include several other components besides the primary sensor.
+- The primary sensor is the transducer that converts a physical quantity into an electrical signal. Examples of primary sensors are thermocouples, RTDs, thermowells, etc.
+- The excitation is the power supply that provides the necessary voltage or current to the primary sensor for its operation. Examples of excitation sources are batteries, solar cells, etc.
+- The amplification is the process of increasing the magnitude of the signal from the primary sensor to a suitable level for further processing. Examples of amplifiers are operational amplifiers, instrumentation amplifiers, etc.
+- The filters are the devices that remove unwanted noise or interference from the signal and enhance its quality. Examples of filters are low-pass, high-pass, band-pass, etc.
+- The converters are the devices that change the format of the signal from analog to digital or vice versa. Examples of converters are analog-to-digital converters (ADCs), digital-to-analog converters (DACs), etc.
+- The compensation is the process of correcting the errors or deviations in the signal due to environmental factors or sensor characteristics. Examples of compensation methods are calibration, linearization, temperature compensation, etc.
+- The information coding/processing is the process of encoding, compressing, encrypting, or manipulating the signal for efficient transmission or storage. Examples of information coding/processing techniques are pulse code modulation (PCM), Huffman coding, RSA encryption, etc.
+- The data communication is the process of transmitting or receiving the signal over a wired or wireless network. Examples of data communication protocols are Bluetooth, Wi-Fi, ZigBee, etc.
+- The standards for smart sensor interface are the rules or specifications that define the format, structure, and functionality of the smart sensor and its communication with other devices or systems. Examples of standards for smart sensor interface are IEEE 1451, I2C, SPI, etc.
+- The automation is the process of controlling or monitoring the smart sensor and its associated devices or systems without human intervention. Examples of automation applications are smart home, smart city, smart grid, etc.

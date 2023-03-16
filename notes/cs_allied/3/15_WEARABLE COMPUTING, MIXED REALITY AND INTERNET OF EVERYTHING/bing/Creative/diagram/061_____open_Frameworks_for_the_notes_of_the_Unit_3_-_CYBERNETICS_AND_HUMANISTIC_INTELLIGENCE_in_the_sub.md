@@ -1,0 +1,22 @@
+### Open Frameworks for Wearable Computing
+
+- Open frameworks for wearable computing are software platforms that enable the development and deployment of applications for wearable devices, such as smart glasses, smart watches, smart clothing, etc.
+- Open frameworks aim to provide a hardware-independent, modular, and extensible architecture that can support various functionalities and features of wearable computing, such as:
+  - Wireless communication
+  - Positioning systems
+  - Speech recognition
+  - Interface devices
+  - Low-level software platforms
+  - Computer vision
+  - Natural language processing
+  - Facial recognition
+  - Database
+  - Cloud connection
+  - etc.
+- Open frameworks can facilitate the integration of wearable computing with other domains, such as smart cities, internet of things, augmented reality, artificial intelligence, etc.
+- Open frameworks can also enable the exploration of new paradigms and applications of wearable computing, such as intelligence augmentation, remembrance agents, intellectual collectives, etc.
+- Some examples of open frameworks for wearable computing are:
+  - The Open Wearable Computing Framework, which comprises a central, easily wearable and hardware-independent computing unit that gives access to an ICT environment.
+  - The Wearable and Autonomous Computing for Future Smart Cities Framework, which addresses the challenges and opportunities of wearable and autonomous computing systems in the context of smart cities.
+  - The Wearable Intelligence System, which is a wearable computing software framework for intelligence augmentation research and applications, that provides various built-in modules and tools for smart glasses apps.
+  - The MIT Wearable Computing Project, which is a research initiative that explores the design and implementation of wearable computers as intelligent assistants, using heads-up displays, unobtrusive input devices, personal wireless local area networks, and other context sensing and communication tools.

@@ -1,0 +1,27 @@
+## Unit 1 - Review of Software Engineering
+
+- Software engineering is the application of engineering principles and practices to the development, operation, and maintenance of software systems.
+- Software engineering covers a wide range of activities, such as:
+  - Requirements analysis: eliciting, specifying, and validating the needs and expectations of the stakeholders for a software system.
+  - Design: defining the architecture, components, interfaces, and data structures of a software system.
+  - Implementation: writing, testing, and debugging the source code of a software system.
+  - Verification and validation: ensuring that a software system meets its requirements and quality attributes, such as functionality, reliability, usability, security, etc.
+  - Deployment: delivering, installing, and configuring a software system for its intended use.
+  - Maintenance: correcting, improving, and adapting a software system to changing requirements, environments, and user feedback.
+  - Evolution: managing the changes and enhancements of a software system over its lifecycle.
+- Software engineering also involves the use of methods, tools, standards, and processes to support the software development activities, such as:
+  - Software process models: frameworks that describe the phases, tasks, roles, and deliverables of a software project, such as waterfall, agile, iterative, etc.
+  - Software engineering methodologies: approaches that guide the planning, execution, and control of a software project, such as Scrum, XP, RUP, etc.
+  - Software engineering techniques: practices that help to perform specific software development tasks, such as modeling, testing, refactoring, etc.
+  - Software engineering tools: software applications that assist in the creation, analysis, management, and documentation of software artifacts, such as IDEs, compilers, debuggers, testing tools, etc.
+  - Software engineering standards: norms and guidelines that define the quality, format, and interoperability of software artifacts, such as ISO/IEC 12207, IEEE 830, UML, etc.
+  - Software engineering processes: procedures and rules that regulate the workflow, communication, and coordination of software development activities, such as configuration management, quality assurance, risk management, etc.
+- Software engineering is influenced by and interacts with other disciplines, such as:
+  - Computer science: the study of the theory, design, and implementation of algorithms, data structures, and programming languages.
+  - Software engineering is based on the foundations and principles of computer science, but also applies them to practical problems and solutions.
+  - Mathematics: the study of the abstract concepts and structures of numbers, logic, geometry, and calculus.
+  - Software engineering uses mathematics to model, analyze, and verify software systems, as well as to perform calculations and computations.
+  - Engineering: the application of scientific and technical knowledge to design, build, and operate systems and devices.
+  - Software engineering shares the common goals and challenges of engineering, such as meeting requirements, ensuring quality, managing complexity, and optimizing resources.
+  - Management: the administration and coordination of the resources, activities, and goals of an organization or a project.
+  - Software engineering requires management skills to plan, organize, lead, and control software projects, as well as to deal with stakeholders, risks, and changes.

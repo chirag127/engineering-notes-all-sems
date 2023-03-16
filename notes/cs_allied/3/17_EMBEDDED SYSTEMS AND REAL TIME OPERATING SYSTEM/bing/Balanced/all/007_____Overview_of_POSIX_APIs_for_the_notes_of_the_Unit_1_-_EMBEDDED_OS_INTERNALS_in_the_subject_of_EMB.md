@@ -1,0 +1,32 @@
+# Overview of POSIX APIs
+
+- POSIX stands for **Portable Operating System Interface** . It is a family of standards specified by **IEEE** for maintaining compatibility among operating systems.
+- POSIX defines both the **system** and **user-level** application programming interfaces (APIs), along with command line shells and utility interfaces, for software compatibility (portability) with variants of Unix and other operating systems.
+- POSIX is also a **trademark** of the IEEE. POSIX is intended to be used by both application and system developers.
+- POSIX APIs are an increasingly popular OSAL (operating system abstraction layer) for IoT and embedded applications, as can be seen in Zephyr, AWS:FreeRTOS, TI-RTOS, and NuttX. Benefits of POSIX support in Zephyr include:
+  - Offering a familiar API to non-embedded programmers, especially from Linux.
+  - Enabling the use of existing libraries and middleware that use POSIX APIs.
+  - Reducing the learning curve and development time for new applications.
+- POSIX APIs can be divided into several categories, such as:
+  - Process control: APIs for creating, terminating, and synchronizing processes, such as fork, exec, wait, and pthread.
+  - File and directory operations: APIs for manipulating files and directories, such as open, close, read, write, and mkdir.
+  - Input and output: APIs for performing input and output operations, such as printf, scanf, and fprintf.
+  - Device control: APIs for controlling devices, such as ioctl, tcsetattr, and tcgetattr.
+  - Signals: APIs for handling signals, such as signal, sigaction, and sigprocmask.
+  - Timers: APIs for measuring and setting time, such as clock, time, and alarm.
+  - Interprocess communication: APIs for communicating between processes, such as pipe, socket, and message queue.
+  - Memory management: APIs for allocating and freeing memory, such as malloc, free, and mmap.
+  - Threads: APIs for creating and managing threads, such as pthread_create, pthread_join, and pthread_mutex.
+  - Sockets: APIs for creating and using sockets, such as socket, bind, listen, and accept.
+  - System information: APIs for obtaining system information, such as uname, sysconf, and gethostname.
+- POSIX APIs are defined in various **headers** that are included in the C POSIX library. Some of the common headers are:
+  - stdio.h: for input and output operations.
+  - stdlib.h: for memory management and general utilities.
+  - unistd.h: for file and directory operations and process control.
+  - signal.h: for signal handling.
+  - time.h: for timers and time-related functions.
+  - pthread.h: for threads and synchronization.
+  - sys/types.h: for basic data types and system types.
+  - sys/stat.h: for file status and mode information.
+  - sys/socket.h: for sockets and network communication.
+  - sys/utsname.h: for system information.

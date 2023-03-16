@@ -1,0 +1,11 @@
+## Unit 3 - Data Analysis
+
+Data analysis is the process of collecting, organizing, exploring, and interpreting data to answer questions, solve problems, or make decisions. Data analysis can be done using various methods, tools, and techniques, depending on the type, source, and purpose of the data.
+
+Some of the topics covered in this unit are:
+
+- Data types and sources: Data can be classified into different types, such as numerical, categorical, ordinal, or nominal, depending on the nature and level of measurement of the data. Data can also come from different sources, such as primary or secondary, internal or external, qualitative or quantitative, etc.
+- Data collection and sampling: Data collection is the process of gathering data from the population or a sample of interest. Sampling is the process of selecting a subset of the population that represents the whole population. Sampling methods can be classified into probability or non-probability methods, depending on the degree of randomness and representativeness of the sample.
+- Data organization and presentation: Data organization is the process of arranging data in a logical and meaningful way, such as using tables, charts, graphs, or diagrams. Data presentation is the process of displaying data in a clear and concise way, such as using titles, labels, legends, scales, or colors.
+- Data exploration and summary: Data exploration is the process of examining data to identify patterns, trends, outliers, or relationships among variables. Data summary is the process of describing data using numerical or graphical measures, such as mean, median, mode, range, standard deviation, frequency, percentage, histogram, boxplot, scatterplot, etc.
+- Data interpretation and inference: Data interpretation is the process of explaining the meaning and significance of the data analysis results, such as using comparisons, contrasts, or correlations. Data inference is the process of drawing conclusions or making predictions based on the data analysis results, such as using hypothesis testing, confidence intervals, or regression analysis.

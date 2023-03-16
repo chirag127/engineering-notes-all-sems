@@ -1,0 +1,30 @@
+# Risk Analysis for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Risk analysis is the process of identifying and prioritizing the potential risks in software applications or systems that are under test .
+- Risks are the possible outcomes or events that can cause loss or damage to the software or the organization .
+- Risk analysis aims to quantify the severity and probability of the risks, and to categorize them according to their impact and likelihood .
+- Risk analysis helps to allocate testing resources and efforts effectively, and to focus on the most critical and vulnerable areas of the software .
+- Risk analysis can be performed at different stages of the software development life cycle, such as planning, design, implementation, testing, and deployment .
+- Risk analysis can be done using various techniques, such as brainstorming, checklists, interviews, surveys, historical data, expert opinions, etc .
+- Risk analysis can be supported by various tools, such as LogicManager, EHSInsight, EcoOnline, etc.
+- Risk analysis can be classified into different types, such as business risks, testing risks, premature release risks, software risks, etc.
+- Business risks are the risks that may affect the profitability, reputation, or market share of the organization.
+- Testing risks are the risks that may arise from the testing process, such as lack of skills, tools, time, or requirements.
+- Premature release risks are the risks that may occur when the software is released before it is fully tested or ready.
+- Software risks are the risks that may affect the quality, functionality, performance, security, or reliability of the software.
+- Regression testing is a type of software testing that verifies that the software still works as expected after any changes, such as bug fixes, enhancements, or updates .
+- Regression testing is important to ensure that the changes do not introduce new defects or break existing features .
+- Regression testing can be done manually or automatically, depending on the scope, complexity, and frequency of the changes .
+- Regression testing can be done using various strategies, such as retest all, regression test selection, test case prioritization, etc .
+- Retest all is a strategy that involves testing all the test cases in the test suite, regardless of the changes .
+- Regression test selection is a strategy that involves testing only a subset of the test cases that are relevant to the changes .
+- Test case prioritization is a strategy that involves testing the test cases in a certain order based on their importance, risk, or coverage .
+- Risk analysis can be applied to regression testing to identify and prioritize the test cases that have the highest risk of failure or impact .
+- Risk analysis can help to reduce the cost, time, and effort of regression testing, and to improve the effectiveness and efficiency of the testing process .
+- Risk analysis can be done using various criteria, such as the frequency, severity, or complexity of the changes, the functionality, performance, or security of the features, the history, feedback, or defects of the software, etc .
+- Risk analysis can be done using various methods, such as risk-based testing, risk matrix, risk impact analysis, etc .
+- Risk-based testing is a method that involves testing the software based on the risk level of the test cases, such as high, medium, or low .
+- Risk matrix is a method that involves plotting the test cases on a matrix based on their probability and impact of failure .
+- Risk impact analysis is a method that involves calculating the risk exposure of the test cases based on their probability and impact of failure .
+- Risk analysis can be done using various metrics, such as risk coverage, risk density, risk index, risk priority number, etc .
+- Risk coverage is a metric that measures the percentage of the total risk that is covered by the test cases

@@ -1,0 +1,65 @@
+### Overview of POSIX APIs
+
+- POSIX stands for **Portable Operating System Interface** . It is a family of standards specified by **IEEE** for maintaining compatibility among operating systems.
+- POSIX defines both the **system** and **user-level** application programming interfaces (APIs), along with **command line shells** and **utility interfaces**, for software compatibility (portability) with variants of Unix and other operating systems.
+- POSIX is also a **trademark** of the IEEE. POSIX is intended to be used by both application and system developers.
+- The POSIX API subset is an increasingly popular **OSAL** (operating system abstraction layer) for IoT and embedded applications, as can be seen in Zephyr, AWS:FreeRTOS, TI-RTOS, and NuttX.
+- Benefits of POSIX support in Zephyr include:
+  - Offering a familiar API to non-embedded programmers, especially from Linux.
+  - Enabling the use of existing libraries and middleware that use POSIX APIs.
+  - Reducing the learning curve for developing applications for Zephyr.
+- The C POSIX library is a specification of a C standard library for POSIX systems. It was developed at the same time as the ANSI C standard. Some effort was made to make POSIX compatible with standard C; POSIX includes additional functions to those introduced in standard C.
+- C POSIX library header files include:
+  - `<assert.h>`: verify program assertion
+  - `<complex.h>`: complex arithmetic
+  - `<ctype.h>`: character types
+  - `<dirent.h>`: directory entry format
+  - `<dlfcn.h>`: dynamic linking
+  - `<errno.h>`: system error numbers
+  - `<fcntl.h>`: file control options
+  - `<fenv.h>`: floating-point environment
+  - `<float.h>`: floating-point constants
+  - `<fnmatch.h>`: filename-matching types
+  - `<ftw.h>`: file tree traversal
+  - `<glob.h>`: pathname pattern-matching types
+  - `<grp.h>`: group structure
+  - `<iconv.h>`: codeset conversion facility
+  - `<inttypes.h>`: fixed size integer types
+  - `<iso646.h>`: alternative spellings
+  - `<langinfo.h>`: language information constants
+  - `<limits.h>`: implementation-defined constants
+  - `<locale.h>`: category macros
+  - `<math.h>`: mathematical declarations
+  - `<monetary.h>`: monetary types
+  - `<mqueue.h>`: message queues
+  - `<ndbm.h>`: definitions for ndbm database operations
+  - `<net/if.h>`: sockets local interfaces
+  - `<netdb.h>`: definitions for network database operations
+  - `<netinet/in.h>`: Internet address family
+  - `<netinet/tcp.h>`: definitions for the Internet Transmission Control Protocol (TCP)
+  - `<nl_types.h>`: data types
+  - `<poll.h>`: definitions for the poll() function
+  - `<pthread.h>`: threads
+  - `<pwd.h>`: password structure
+  - `<regex.h>`: regular expression matching types
+  - `<sched.h>`: execution scheduling
+  - `<search.h>`: search tables
+  - `<semaphore.h>`: semaphores
+  - `<setjmp.h>`: stack environment declarations
+  - `<signal.h>`: signals
+  - `<spawn.h>`: spawn (create new processes) declarations
+  - `<stdbool.h>`: boolean type and values
+  - `<stddef.h>`: standard type definitions
+  - `<stdint.h>`: integer types
+  - `<stdio.h>`: standard buffered input/output
+  - `<stdlib.h>`: standard library definitions
+  - `<string.h>`: string operations
+  - `<strings.h>`: string operations
+  - `<stropts.h>`: STREAMS interface (STREAMS)
+  - `<sys/ipc.h>`: interprocess communication access structure
+  - `<sys/mman.h>`: memory management declarations
+  - `<sys/msg.h>`: XSI message queue structures
+  - `<sys/resource.h>`: definitions for XSI resource operations
+  - `<sys/select.h>`: select types
+  - `<sys/sem.h>`: XSI semaphore facility
+  - `<sys/shm.h>`: XSI

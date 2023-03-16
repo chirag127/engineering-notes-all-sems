@@ -1,0 +1,24 @@
+### Serial UART Communication
+
+- UART stands for **Universal Asynchronous Receiver Transmitter**  .
+- It is a **serial communication device** that performs parallel-to-serial and serial-to-parallel data conversion .
+- It is **universal** because the parameters like transfer speed, data speed, etc. are configurable .
+- It is **asynchronous** because there is no clock signal to synchronize the output bits from the transmitting device to the receiving device.
+- A UART is usually an individual or part of an integrated circuit (IC) used for serial communications over a computer or peripheral device serial port.
+- One or more UART peripherals are commonly integrated in microcontroller chips.
+- Specialised UARTs are used for automobiles, smart cards and SIMs.
+- A UART consists of a **transmitter** and a **receiver**  .
+- The transmitter and the receiver have separate data registers and control registers .
+- The transmitter and the receiver operate independently but use the same baud rate and data format .
+- The baud rate is the number of bits per second that can be transmitted or received  .
+- The data format is the number of data bits, the parity bit and the number of stop bits in each frame  .
+- The parity bit is used for error detection and the stop bit is used for signaling the end of a frame  .
+- The UART uses two wires for data transmission: **RX** (receive) and **TX** (transmit).
+- The RX wire of one device is connected to the TX wire of another device and vice versa.
+- The UART also uses additional wires for flow control, such as **RTS** (request to send) and **CTS** (clear to send).
+- The flow control wires are used to prevent data loss or buffer overflow when the sender is faster than the receiver or vice versa.
+- The UART communication protocol is widely used for full-duplex serial communication between devices  .
+- Full-duplex means that data can be sent and received simultaneously  .
+- UART communication is simple, reliable and low-cost  .
+- UART communication is suitable for short-distance and low-speed applications  .
+- UART communication is not suitable for long-distance and high-speed applications because of noise, interference and signal degradation  .

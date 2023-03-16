@@ -1,0 +1,10 @@
+### Building peer to peer communication system using Bluetooth &WiFi
+
+- Peer to peer (P2P) communication system is a network of devices that can communicate directly with each other without relying on any central server or infrastructure.
+- Bluetooth and Wi-Fi are two wireless technologies that can be used to create P2P networks using smartphones or other devices.
+- Bluetooth is a short-range wireless technology that allows devices to exchange data over a distance of up to 10 meters. Bluetooth can be used for streaming audio, transferring files, or connecting peripherals such as keyboards or mice.
+- Wi-Fi is a wireless technology that allows devices to connect to the internet or a local area network (LAN) over a distance of up to 100 meters. Wi-Fi can be used for browsing the web, downloading files, or streaming video.
+- Bluetooth and Wi-Fi can also be used to create P2P networks without internet or LAN access, using features such as Bluetooth pairing, Wi-Fi Direct, or smartphone ad hoc networks (SPANs).
+- Bluetooth pairing is a process of establishing a secure connection between two Bluetooth devices by exchanging a passkey or a confirmation. Once paired, the devices can communicate with each other without any further authentication or interference.
+- Wi-Fi Direct is a feature that allows Wi-Fi devices to discover and connect to each other directly, without requiring a wireless access point or a router. Wi-Fi Direct can be used for sharing files, playing games, or printing documents.
+- SPANs are P2P networks that use the existing hardware (primarily Bluetooth and Wi-Fi) in commercially available smartphones to create dynamic and self-organizing networks without relying on cellular carrier networks, wireless access points, or traditional network infrastructure. SPANs can be used for emergency communication, social networking, or collaborative computing.

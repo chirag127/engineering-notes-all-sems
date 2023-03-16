@@ -1,0 +1,8 @@
+### Interpolation and Backoff
+
+Interpolation and backoff are two methods for smoothing n-gram language models. Smoothing is the process of assigning non-zero probabilities to unseen n-grams, and adjusting the probabilities of seen n-grams, to improve the generalization and performance of the language model.
+
+- **Backoff**: Backoff is a method that uses lower-order n-grams when higher-order n-grams have insufficient data. For example, if the trigram probability P(w3|w1,w2) is zero or very low, we can use the bigram probability P(w3|w2) or the unigram probability P(w3) instead. Backoff usually involves a discounting factor that reduces the probabilities of seen n-grams to reserve some probability mass for unseen n-grams .
+- **Interpolation**: Interpolation is a method that combines the probabilities of n-grams of different orders, weighted by some coefficients. For example, the interpolated trigram probability can be computed as P(w3|w1,w2) = λ1 P(w3|w1,w2) + λ2 P(w3|w2) + λ3 P(w3), where λ1, λ2, and λ3 are interpolation coefficients that sum to one. Interpolation can capture more information from various n-gram models, and the coefficients can be estimated using some held-out data or cross-validation  .
+
+In general, interpolation works better than backoff, as it can leverage more information from different n-gram models. However, both methods require careful tuning of the parameters, and may not be able to handle rare or novel words well .

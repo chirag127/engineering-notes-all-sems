@@ -1,0 +1,24 @@
+# Analysis of Time Series
+
+- A time series is a series of data points indexed in time order. Most commonly, a time series is a sequence taken at successive equally spaced points in time.
+- Time series analysis is a specific way of analyzing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly.
+- The objectives of time series analysis are :
+  - Compact description of data. Example: Classical decomposition: Xt = Tt +St +Yt, where Xt is the observed value, Tt is the trend component, St is the seasonal component, and Yt is the random component.
+  - Interpretation. Example: Seasonal adjustment. Removing the seasonal component from the data to reveal the underlying trend and cyclical patterns.
+  - Forecasting. Example: Predict sales. Using past data to project future values of the time series.
+  - Control. Example: Monitor quality. Using time series data to detect deviations from the expected or desired level of performance.
+  - Hypothesis testing. Example: Test for stationarity. Checking if the statistical properties of the time series are constant over time or not.
+  - Simulation. Example: Generate synthetic data. Creating artificial time series data that mimic the characteristics of real data.
+- The types of time series are:
+  - Univariate time series. A time series that consists of a single variable observed over time. Example: Monthly sales of a product.
+  - Multivariate time series. A time series that consists of multiple variables observed over time. Example: Monthly sales and prices of a product.
+  - Continuous time series. A time series that is observed at every instant of time. Example: Stock prices.
+  - Discrete time series. A time series that is observed at discrete and equally spaced points of time. Example: Daily temperature.
+  - Stationary time series. A time series that has constant mean, variance, and autocorrelation over time. Example: White noise.
+  - Non-stationary time series. A time series that has changing mean, variance, or autocorrelation over time. Example: Random walk.
+- The techniques of time series analysis are  :
+  - Descriptive analysis. Summarizing and visualizing the time series data using plots, statistics, and tables. Example: Plotting the time series, calculating the mean and standard deviation, and creating a frequency table.
+  - Exploratory analysis. Identifying and extracting the components of the time series data using methods such as smoothing, differencing, and decomposition. Example: Applying a moving average to smooth the data, taking the first difference to remove the trend, and using seasonal decomposition to separate the seasonal and random components.
+  - Inferential analysis. Testing hypotheses and estimating parameters of the time series data using methods such as correlation, regression, and confidence intervals. Example: Calculating the autocorrelation function to measure the dependence of the data on its past values, fitting a linear regression model to explain the relationship between the variables, and constructing a confidence interval for the forecast.
+  - Predictive analysis. Forecasting future values of the time series data using methods such as exponential smoothing, ARIMA, and neural networks. Example: Applying a simple exponential smoothing method to generate a single forecast, using an ARIMA model to capture the dynamics of the data, and training a neural network to learn the nonlinear patterns of the data.
+  - Prescriptive analysis. Recommending actions and decisions based on the time series data using methods such as optimization, simulation, and decision analysis. Example: Optimizing the inventory level to minimize the cost and maximize the profit, simulating different scenarios to assess the risk and uncertainty, and performing a decision analysis to evaluate the alternatives and outcomes.

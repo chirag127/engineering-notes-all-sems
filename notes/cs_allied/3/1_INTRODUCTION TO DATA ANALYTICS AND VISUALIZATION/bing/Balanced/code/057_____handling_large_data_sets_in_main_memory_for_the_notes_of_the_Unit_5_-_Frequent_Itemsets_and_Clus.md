@@ -1,0 +1,13 @@
+### Handling large data sets in main memory
+
+- Large data sets are those that exceed the available memory of a single machine or a cluster of machines.
+- Handling large data sets is a common challenge in data analytics and visualization, especially for tasks such as frequent itemset mining and clustering.
+- Some possible solutions for handling large data sets in main memory are:
+
+  - **Data compression**: Reducing the size of the data by applying techniques such as encoding, quantization, dimensionality reduction, or feature selection . This can help to fit more data into memory and speed up the processing time.
+  - **Data chunking**: Splitting the data into smaller chunks that can be loaded and processed individually in memory . This can help to avoid memory overflow and enable parallel or distributed computing. Each chunk can be processed by a separate classifier or clusterer, and the results can be aggregated or compared later.
+  - **Data streaming**: Processing the data as it arrives in a continuous stream, rather than loading it all at once. This can help to handle dynamic or real-time data that may not fit into memory. Streaming algorithms can update the model or the summary statistics incrementally as new data arrives, without storing the entire data.
+  - **Data sampling**: Selecting a representative subset of the data that preserves the essential characteristics and patterns of the whole data . This can help to reduce the complexity and noise of the data and improve the accuracy and efficiency of the analysis. Sampling techniques can be random, stratified, or based on some criteria or heuristic.
+  - **Data partitioning**: Dividing the data into disjoint or overlapping subsets that can be processed separately or jointly in memory . This can help to exploit the structure or the distribution of the data and improve the scalability and performance of the analysis. Partitioning techniques can be based on hashing, sorting, or grouping the data by some attribute or value.
+  - **Data indexing**: Creating a data structure that allows fast and efficient access to the data based on some key or query. This can help to reduce the search space and the computational cost of the analysis. Indexing techniques can be based on trees, graphs, arrays, or hashes.
+  - **Data approximation**: Replacing the data with a simpler or more compact representation that approximates the original data with some error or loss. This can help to reduce the storage and processing requirements of the data and speed up the analysis. Approximation techniques can be based on sketches, histograms, or summaries.

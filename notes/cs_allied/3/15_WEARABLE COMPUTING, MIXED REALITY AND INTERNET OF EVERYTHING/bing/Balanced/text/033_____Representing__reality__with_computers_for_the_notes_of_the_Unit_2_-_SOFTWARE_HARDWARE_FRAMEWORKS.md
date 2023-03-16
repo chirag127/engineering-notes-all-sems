@@ -1,0 +1,10 @@
+### Representing “reality” with computers
+
+- Computers can model some aspects of reality by using data, algorithms and simulations.
+- Data is a collection of facts or measurements that can be processed by a computer. Data can be represented in binary, which is a system of two symbols (0 and 1) that can encode any information.
+- Algorithms are a set of instructions or rules that tell a computer how to perform a specific task or solve a problem. Algorithms can be used to manipulate, analyze or transform data.
+- Simulations are a way of imitating or mimicking a real-world phenomenon or system by using a computer model. Simulations can be used to test hypotheses, explore scenarios, predict outcomes or visualize data.
+- Some examples of representing reality with computers are:
+  - Physical conversion of input signals into digital signals and vice versa. For example, a microphone converts sound waves into electrical signals, which are then converted into binary data by an analog-to-digital converter (ADC). A speaker does the opposite process, converting binary data into electrical signals and then into sound waves by a digital-to-analog converter (DAC).
+  - Encoding schemes for representing information in binary. For example, ASCII is a standard code that assigns a binary number to each character in the English alphabet, numerals and punctuation marks. JPEG is a compression algorithm that reduces the size of an image file by discarding some information that is not noticeable to the human eye.
+  - Algorithmic modeling of physical processes. For example, a weather simulation uses mathematical equations and data from sensors to model the atmospheric conditions and predict the weather. A nuclear simulation uses physical laws and data from experiments to model the behavior of nuclear particles and reactions.

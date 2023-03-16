@@ -1,0 +1,27 @@
+# Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the longevity of data after the application that created it has been closed.
+- In order for data persistence to happen, the data must be written to non-volatile storage, a type of memory that can retain that information long-term, even if the application is no longer running.
+- Data persistence is important for various reasons, such as:
+  - Preserving the state and history of the application and its users
+  - Enabling data analysis and reporting
+  - Supporting backup and recovery
+  - Enhancing performance and scalability
+  - Complying with legal and regulatory requirements
+- Data persistence can be achieved by different methods, such as:
+  - Pure in-memory storage, which offers the least amount of persistence and relies on RAM
+  - In-memory storage with periodic snapshots, which saves the data to disk at regular intervals
+  - Disk-based storage, which writes the data to disk every time it changes
+  - Log-structured storage, which appends the data to a log file and avoids overwriting
+- Data persistence can be implemented by various technologies, such as:
+  - Relational databases, which store the data in tables and use SQL for querying
+  - NoSQL databases, which store the data in various formats and use different query languages
+  - File systems, which store the data in files and directories
+  - Cloud storage, which store the data in remote servers and offer scalability and availability
+- Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING can be achieved by using any of the above methods and technologies, depending on the requirements and preferences of the user and the application.
+- Some factors that can influence the choice of data persistence for the notes are:
+  - The size and complexity of the data
+  - The frequency and type of data access and modification
+  - The performance and reliability of the data store
+  - The security and privacy of the data
+  - The cost and availability of the data store

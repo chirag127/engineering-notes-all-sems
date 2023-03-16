@@ -1,0 +1,10 @@
+### Spectral Distortion Using A Warped Frequency Scale
+
+- Spectral distortion is the difference between the original and the estimated spectra of a speech signal, usually measured in decibels (dB).
+- A warped frequency scale is a transformation of the linear frequency scale that changes the spacing of the frequency bins according to some function, such as the Bark scale or the Mel scale.
+- Warping the frequency scale can improve the perceptual accuracy of the spectral estimation, especially at low model orders, by emphasizing the frequency regions that are more important for speech perception and reducing the effects of harmonic peaks.
+- A common technique for spectral estimation is linear prediction (LP), which models the speech signal as the output of an all-pole filter driven by a source signal. The LP coefficients can be converted to the frequency domain by taking the inverse Fourier transform of the filter transfer function, resulting in the LP spectrum.
+- To apply LP on a warped frequency scale, one can either warp the speech signal before applying LP, or warp the LP spectrum after applying LP. The former is called frequency-warped LP (FWLP), and the latter is called frequency-warped cepstral distortion (FWCD).
+- FWLP can be implemented by using a frequency warping function that maps the linear frequency to the warped frequency, and applying a time-weighted LP algorithm on the warped speech signal. The resulting LP coefficients can be converted back to the linear frequency scale by using the inverse warping function.
+- FWCD can be implemented by using a frequency warping function that maps the linear frequency to the warped frequency, and applying a cepstral distortion measure on the warped LP spectrum. The resulting distortion measure can be used to evaluate the quality of the spectral estimation or to select the optimal model order.
+- Both FWLP and FWCD can improve the spectral estimation accuracy and the speech recognition performance compared to the conventional LP and cepstral distortion methods, especially for low model orders and noisy speech signals   .

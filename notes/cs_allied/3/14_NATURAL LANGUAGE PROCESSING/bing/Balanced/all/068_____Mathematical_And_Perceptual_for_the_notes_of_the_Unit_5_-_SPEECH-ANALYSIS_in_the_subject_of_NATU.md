@@ -1,0 +1,20 @@
+# Mathematical And Perceptual Speech Analysis
+
+- Mathematical speech analysis is the study of how human language and mathematics relate to each other and to the real world. It involves using mathematical models and methods to describe, explain, and predict linguistic phenomena and cognitive processes .
+- Perceptual speech analysis is the study of how human speech is perceived and processed by the auditory system. It involves using psychophysical and physiological principles to measure, model, and manipulate the acoustic features and cues of speech signals.
+- Some of the topics covered in mathematical and perceptual speech analysis are:
+
+  - Phonology: the study of the sound patterns and systems of language, such as phonemes, syllables, stress, intonation, and prosody. Mathematical models of phonology include finite-state automata, regular expressions, and algebraic structures.
+  - Morphology: the study of the structure and formation of words, such as roots, affixes, inflection, derivation, and compounding. Mathematical models of morphology include concatenation, substitution, and transduction.
+  - Syntax: the study of the rules and principles that govern the structure and combination of sentences, such as word order, agreement, case, and movement. Mathematical models of syntax include context-free grammars, tree structures, and transformations.
+  - Semantics: the study of the meaning and interpretation of words, phrases, and sentences, such as reference, truth, entailment, and ambiguity. Mathematical models of semantics include logic, set theory, and lambda calculus.
+  - Pragmatics: the study of how language is used in context, such as speech acts, implicature, presupposition, and politeness. Mathematical models of pragmatics include game theory, decision theory, and Gricean maxims.
+  - Speech recognition: the task of converting speech signals into text or commands, such as speech-to-text, voice control, and dictation. Perceptual models of speech recognition include feature extraction, acoustic modeling, and language modeling.
+  - Speech synthesis: the task of generating speech signals from text or commands, such as text-to-speech, voice conversion, and speech animation. Perceptual models of speech synthesis include text analysis, prosody generation, and waveform synthesis.
+  - Speech enhancement: the task of improving the quality and intelligibility of speech signals, such as noise reduction, echo cancellation, and dereverberation. Perceptual models of speech enhancement include spectral subtraction, Wiener filtering, and perceptual weighting.
+  - Speech coding: the task of compressing and decompressing speech signals, such as vocoders, waveform coders, and source-filter coders. Perceptual models of speech coding include linear predictive coding, perceptual linear predictive coding, and code-excited linear prediction.
+  - Speech perception: the study of how speech signals are processed and understood by the human auditory system, such as auditory scene analysis, speech segmentation, and phonetic categorization. Perceptual models of speech perception include auditory filters, equal-loudness curves, and power laws.
+  - Speech production: the study of how speech signals are generated and controlled by the human vocal tract, such as articulation, coarticulation, and speech errors. Perceptual models of speech production include source-filter theory, articulatory synthesis, and motor theory.
+  - Speech communication: the study of how speech signals are used and exchanged in social and interactive contexts, such as conversation, dialogue, and discourse. Perceptual models of speech communication include turn-taking, feedback, and alignment.
+
+- Mathematical and perceptual speech analysis are important for understanding and improving human communication, cognition, and education. They can also be applied to various domains and applications, such as natural language processing, artificial intelligence, speech technology, linguistics, psychology, neuroscience, and education   .

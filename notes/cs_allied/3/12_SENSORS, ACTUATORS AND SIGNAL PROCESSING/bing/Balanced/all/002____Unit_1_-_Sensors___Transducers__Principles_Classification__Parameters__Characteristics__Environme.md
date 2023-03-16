@@ -1,0 +1,28 @@
+# Unit 1 - Sensors / Transducers: Principles Classification, Parameters, Characteristics, Environmental Parameters (EP), Characterization
+
+- A **sensor** is an element that senses a variation in input energy to produce a variation in another or same form of energy . A sensor converts any form of energy to an electrical signal.
+- A **transducer** is an element that converts one form of energy to another form . The process of conversion of energy from one form to another is called **transduction**.
+- The **principle of transduction** is the physical phenomenon or property that is used to convert one form of energy to another. For example, a thermocouple uses the Seebeck effect to convert heat to voltage, and a piezoelectric crystal uses the piezoelectric effect to convert mechanical stress to voltage.
+- The **classification of sensors/transducers** can be based on different criteria, such as:
+  - The type of input/output energy, such as thermal, optical, mechanical, electrical, chemical, etc .
+  - The principle of transduction, such as resistive, inductive, capacitive, piezoelectric, etc.
+  - The mode of operation, such as active or passive. Active sensors require an external source of power that provides the majority of the output power of the signal, while passive sensors rely on the measured signal to provide the output power.
+  - The application or function, such as temperature, pressure, level, flow, etc .
+- The **parameters** of sensors/transducers are the quantities that describe their performance, behavior, and characteristics. Some of the common parameters are :
+  - **Range**: The minimum and maximum values of the input/output that the sensor/transducer can measure/produce.
+  - **Sensitivity**: The ratio of the change in output to the change in input.
+  - **Resolution**: The smallest change in input/output that the sensor/transducer can detect/produce.
+  - **Accuracy**: The degree of closeness of the output to the true value of the input.
+  - **Precision**: The degree of repeatability of the output for the same input.
+  - **Linearity**: The degree of proportionality of the output to the input.
+  - **Hysteresis**: The difference in output for the same input when the input is increasing or decreasing.
+  - **Response time**: The time required for the output to reach a certain percentage of its final value when the input changes.
+  - **Stability**: The ability of the sensor/transducer to maintain its performance and characteristics over time and under varying conditions.
+  - **Reliability**: The probability of the sensor/transducer to function properly and without failure for a given period of time and under given conditions.
+- The **characteristics** of sensors/transducers are the graphical or mathematical representations of the relationship between the input and output of the sensor/transducer. They can be static or dynamic .
+  - **Static characteristics** are the characteristics of the sensor/transducer when the input is constant or changes slowly. They include the transfer function, the sensitivity curve, the calibration curve, the error curve, etc .
+  - **Dynamic characteristics** are the characteristics of the sensor/transducer when the input changes rapidly or periodically. They include the frequency response, the phase response, the impulse response, the step response, etc .
+- The **environmental parameters (EP)** are the external factors that affect the performance and behavior of the sensor/transducer. They include temperature, humidity, pressure, vibration, noise, electromagnetic interference, etc .
+- The **characterization** of the sensor/transducer is the process of measuring and evaluating its parameters and characteristics under different conditions and for different applications. It can be done by using various methods and techniques, such as :
+  - **Electrical characterization**: This involves measuring the electrical properties and signals of the sensor/transducer, such as resistance, capacitance, inductance, voltage, current, power, etc .
+  - **Mechanical and thermal characterization**: This involves measuring the mechanical and thermal properties and effects of the sensor/transducer, such as stress, strain, force, displacement,

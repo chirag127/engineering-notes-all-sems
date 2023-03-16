@@ -1,0 +1,11 @@
+### Language for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Software hardware frameworks are systems that combine software and hardware components to enable the development and deployment of applications that involve wearable computing, mixed reality and internet of everything.
+- Wearable computing is the use of wearable devices that can sense, process and communicate information, such as smartwatches, fitness trackers, smart glasses and head-mounted displays.
+- Mixed reality is the blending of physical and digital worlds, where virtual and real objects coexist and interact in real time, such as augmented reality and virtual reality.
+- Internet of everything is the concept of connecting people, things, data and processes through the internet, enabling new capabilities and opportunities for innovation, such as digital twins, autonomous systems and cloud computing.
+- Some examples of software hardware frameworks for wearable computing, mixed reality and internet of everything are:
+  - MIRELA: a high-level language and a rapid prototyping framework dedicated to systems where virtual and digital objects coexist in the same environment and interact in real time. Its semantics is given in the form of networks of timed automata, which can be checked using symbolic methods.
+  - UbiVis: a framework that tackles challenges emerging from using different hardware for the current mixed reality experience. It includes solutions for hardware related challenges and for displaying virtual content in collaborative MR-applications.
+  - Azure IoT: a platform that provides a set of services and tools for building and managing IoT solutions, such as device provisioning, data ingestion, analytics, edge computing, digital twins and mixed reality.
+  - XRI: a mixed-reality internet-of-things architectural framework that aims to enable the integration of IoT devices and data with mixed reality applications, using a common data model, a distributed data store, a semantic query language and a middleware layer.

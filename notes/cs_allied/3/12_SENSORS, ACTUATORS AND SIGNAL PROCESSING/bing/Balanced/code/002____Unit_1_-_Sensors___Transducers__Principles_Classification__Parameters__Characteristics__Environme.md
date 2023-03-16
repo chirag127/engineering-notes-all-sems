@@ -1,0 +1,39 @@
+## Unit 1 - Sensors / Transducers: Principles Classification, Parameters, Characteristics, Environmental Parameters (EP), Characterization
+
+- A sensor is an element that senses a variation in input energy to produce a variation in another or same form of energy.
+- A transducer is an element that converts one form of energy to another.
+- Sensors and transducers are classified based on the principle of transduction, the type of input and output, the nature of output signal, the application, and the material used .
+- Some examples of classification based on the principle of transduction are resistive, inductive, capacitive, piezoelectric, thermoelectric, photoelectric, etc.
+- Some examples of classification based on the type of input and output are temperature, pressure, displacement, force, light, sound, etc.
+- Some examples of classification based on the nature of output signal are analog, digital, pulse, frequency, etc.
+- Some examples of classification based on the application are biomedical, industrial, environmental, automotive, etc.
+- Some examples of classification based on the material used are metal, ceramic, polymer, semiconductor, etc.
+- The parameters of sensors and transducers are the characteristics that describe their performance and behavior .
+- Some of the parameters are:
+  - Responsivity: The ratio of the output signal to the input measurand.
+  - Detectivity: The least input measurand that can be detected.
+  - Sensitivity: The ratio of the change in output signal to the change in input measurand.
+  - Range: The minimum and maximum values of the input measurand that can be measured.
+  - Resolution: The smallest change in the input measurand that can be detected.
+  - Accuracy: The degree of closeness of the output signal to the true value of the input measurand.
+  - Precision: The degree of repeatability of the output signal for the same input measurand.
+  - Linearity: The degree of proportionality between the output signal and the input measurand.
+  - Hysteresis: The difference in the output signal for the same input measurand when it is increasing and decreasing.
+  - Drift: The change in the output signal over time due to aging, temperature, humidity, etc.
+  - Noise: The unwanted variation in the output signal due to external or internal sources.
+- The environmental parameters (EP) are the external factors that affect the performance and behavior of the sensors and transducers.
+- Some of the EP are:
+  - Temperature: The degree of hotness or coldness of the environment.
+  - Humidity: The amount of water vapor in the air.
+  - Pressure: The force exerted by the air or fluid on the surface of the sensor or transducer.
+  - Vibration: The oscillatory motion of the sensor or transducer due to external forces.
+  - Shock: The sudden and large change in the acceleration or velocity of the sensor or transducer due to external forces.
+  - Electromagnetic interference: The disturbance caused by the electric or magnetic fields of other devices or sources.
+  - Chemical or biological agents: The substances or organisms that can damage or contaminate the sensor or transducer.
+- The characterization of the sensors and transducers is the process of measuring and evaluating their parameters and EP .
+- The characterization can be done in different ways depending on the types of sensors and transducers, such as electrical, mechanical, thermal, optical, chemical, biological, etc.
+- Some examples of characterization methods are:
+  - Electrical characterization: Measuring the resistance, capacitance, inductance, voltage, current, power, frequency, etc of the sensor or transducer.
+  - Mechanical characterization: Measuring the displacement, force, stress, strain, pressure, torque, etc of the sensor or transducer.
+  - Thermal characterization: Measuring the temperature, heat, thermal conductivity, thermal expansion, etc of the sensor or transducer.
+  - Optical characterization: Measuring the light intensity, wavelength, polarization, reflection, refraction, etc of the

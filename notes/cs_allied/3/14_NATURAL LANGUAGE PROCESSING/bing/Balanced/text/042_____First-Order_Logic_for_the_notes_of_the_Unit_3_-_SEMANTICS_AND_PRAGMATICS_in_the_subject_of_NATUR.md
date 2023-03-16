@@ -1,0 +1,24 @@
+### First-Order Logic
+
+- First-order logic (FOL) is a formal language for representing and reasoning about the properties and relations of objects and events in the world.
+- FOL consists of symbols for constants, variables, predicates, functions, logical connectives, and quantifiers.
+- A constant symbol represents a specific object or entity, such as `John` or `2`.
+- A variable symbol represents an unspecified object or entity, such as `x` or `y`.
+- A predicate symbol represents a property or relation of one or more objects or entities, such as `Human(x)` or `Loves(x,y)`.
+- A function symbol represents a mapping from one or more objects or entities to another object or entity, such as `Father(x)` or `Plus(x,y)`.
+- A logical connective represents a logical operation on one or more propositions, such as `and`, `or`, `not`, `implies`, or `equals`.
+- A quantifier represents a scope of a variable over a domain of objects or entities, such as `forall` or `exists`.
+- A term is either a constant, a variable, or a function applied to one or more terms, such as `John`, `x`, or `Father(John)`.
+- A formula is either a predicate applied to one or more terms, a logical connective applied to one or more formulas, or a quantifier applied to a variable and a formula, such as `Human(John)`, `Loves(x,y) and Human(x)`, or `forall x (Human(x) implies Loves(x,x))`.
+- A sentence is a formula that contains no free variables, that is, variables that are not bound by a quantifier, such as `forall x (Human(x) implies Loves(x,x))`.
+- The semantics of FOL defines the truth value of a sentence with respect to a model, which consists of a domain of objects or entities and an interpretation of the symbols in the language.
+- A model assigns a specific object or entity to each constant symbol, a subset of the domain to each predicate symbol, a function from the domain to the domain to each function symbol, and a truth value to each logical connective.
+- A model satisfies a sentence if the sentence is true under the model, according to the rules of FOL.
+- A sentence is valid if it is satisfied by every model, such as `forall x (x equals x)`.
+- A sentence is satisfiable if it is satisfied by some model, such as `exists x (Human(x) and Loves(x,John))`.
+- A sentence is unsatisfiable if it is satisfied by no model, such as `forall x (Human(x) and not Human(x))`.
+- A sentence is a logical consequence of a set of sentences if it is satisfied by every model that satisfies the set of sentences, such as `forall x (Human(x) implies Loves(x,x))` is a logical consequence of `forall x (Human(x) implies Loves(x,John))`.
+- FOL is a powerful and expressive language for natural language processing, as it can capture many aspects of natural language semantics, such as quantification, negation, implication, and equality.
+- FOL can also be used to perform automated inference, that is, to derive new sentences from existing sentences using logical rules and algorithms, such as resolution or natural deduction.
+- FOL parsing is the task of mapping natural language sentences to FOL sentences, which can be modeled as a sequence to sequence problem using neural networks or other methods.
+- FOL reasoning is the task of evaluating the truth value or the logical consequence of FOL sentences, which can be modeled as a natural language inference problem using neural networks or other methods.

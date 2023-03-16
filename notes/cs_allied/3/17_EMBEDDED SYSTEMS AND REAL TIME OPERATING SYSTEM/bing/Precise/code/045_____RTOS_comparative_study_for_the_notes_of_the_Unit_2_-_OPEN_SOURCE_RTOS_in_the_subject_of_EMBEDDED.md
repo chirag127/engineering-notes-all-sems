@@ -1,0 +1,7 @@
+### RTOS Comparative Study
+
+Real-Time Operating Systems (RTOSs) are operating systems in which the time taken to process an input stimulus is less than the time lapsed until the next input stimulus of the same type .
+
+When choosing an RTOS, the size of the RTOS should depend on the requirements of the system. For example, the default configuration of LynxOS-178® is 1.4MB, which includes a POSIX RTOS with thread and process support, floating point, a filesystem, USB, networking, optional bash shell, and printf . On the other hand, Zephyr is a small open source RTOS with a minimum configuration of 8K, which includes threading, interrupts, and memory allocation. If Bluetooth communication is needed, the footprint doubles to 16K . This is suitable for tiny Internet of Things (IoT) devices that Zephyr is aimed at.
+
+In general, an RTOS with many features can be expected to be around 1.5MB, while a minimal specialist RTOS like Zephyr would be around 16KB . The size of the RTOS is not necessarily an indicator of its quality, as each RTOS is built as small as possible with the features it needs to satisfy its intended purpose .

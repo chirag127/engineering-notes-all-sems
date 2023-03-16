@@ -1,0 +1,22 @@
+# Dictionary & Thesaurus
+
+- A dictionary is a collection of words and their meanings, often with additional information such as pronunciation, usage, synonyms, antonyms, etymology, etc.
+- A thesaurus is a collection of words and their synonyms, often with additional information such as usage, related words, antonyms, etc.
+- Both dictionary and thesaurus are useful tools for natural language processing, as they can help with tasks such as word sense disambiguation, lexical analysis, text generation, text summarization, etc.
+- Dictionary and thesaurus can be classified into different types based on their scope, coverage, format, structure, etc. Some common types are:
+  - Monolingual dictionary: A dictionary that covers one language only, such as an English dictionary or a French dictionary.
+  - Bilingual dictionary: A dictionary that covers two languages, such as an English-French dictionary or a Hindi-English dictionary.
+  - Multilingual dictionary: A dictionary that covers more than two languages, such as an English-French-German dictionary or a Hindi-English-Urdu dictionary.
+  - General dictionary: A dictionary that covers a wide range of words and meanings, such as a standard dictionary or a learner's dictionary.
+  - Specialized dictionary: A dictionary that covers a specific domain, genre, or register of language, such as a medical dictionary, a legal dictionary, or a slang dictionary.
+  - Descriptive dictionary: A dictionary that describes how words are actually used in a language, based on corpus evidence, such as a usage dictionary or a historical dictionary.
+  - Prescriptive dictionary: A dictionary that prescribes how words should be used in a language, based on norms, rules, or standards, such as a grammar dictionary or a spelling dictionary.
+  - Online dictionary: A dictionary that is available on the internet, such as a web-based dictionary or a mobile app dictionary.
+  - Print dictionary: A dictionary that is available in a printed form, such as a book or a pamphlet.
+  - Electronic dictionary: A dictionary that is available in a digital form, such as a CD-ROM or a USB drive.
+  - Structured dictionary: A dictionary that has a well-defined and consistent format and structure, such as a XML-based dictionary or a relational database dictionary.
+  - Unstructured dictionary: A dictionary that has a loose or variable format and structure, such as a plain text dictionary or a wiki-based dictionary.
+  - Synonym thesaurus: A thesaurus that lists words that have the same or similar meanings, such as a synonym dictionary or a synonym finder.
+  - Antonym thesaurus: A thesaurus that lists words that have the opposite or contrasting meanings, such as an antonym dictionary or an antonym finder.
+  - Conceptual thesaurus: A thesaurus that lists words that are related by a common concept, theme, or category, such as a topical thesaurus or a semantic network.
+  - Associative thesaurus: A thesaurus that lists words that are related by a common association, such as a collocation thesaurus or a wordnet.

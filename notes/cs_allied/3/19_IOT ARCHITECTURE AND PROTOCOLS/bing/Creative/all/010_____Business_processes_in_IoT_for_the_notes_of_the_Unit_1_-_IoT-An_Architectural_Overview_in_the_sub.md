@@ -1,0 +1,20 @@
+# Business processes in IoT
+
+Business processes are collections of related events, activities and decisions that involve a number of factors and resources, and that lead to an outcome that is of value for the organisation and the customer. Business processes can be improved with the Internet of Things (IoT), which is the network of physical objects embedded with sensors, software and other technologies that enable data collection and communication.
+
+Some of the benefits of IoT for business processes are:
+
+- Automating process: IoT devices can perform tasks without human intervention, such as controlling temperature, lighting, security, etc. This can reduce errors, costs and risks, and increase efficiency and productivity.
+- Gathering valuable information: IoT devices can collect and transmit data about various aspects of the process, such as performance, quality, usage, location, etc. This can provide insights for decision making, optimization, innovation and customer satisfaction.
+- Extending business functions: IoT devices can enable new capabilities and services that were not possible before, such as remote monitoring, predictive maintenance, asset tracking, etc. This can create new revenue streams, competitive advantages and customer loyalty.
+- Triggering rules: IoT devices can act as triggers for other actions or events in the process, such as sending alerts, notifications, commands, etc. This can enhance coordination, collaboration and responsiveness among different actors and stakeholders in the process.
+- Sourcing predictive analytics and big data: IoT devices can generate large amounts of data that can be analysed with advanced techniques such as machine learning, artificial intelligence, etc. This can enable predictive analytics and big data, which can help anticipate future outcomes, trends, behaviours, etc. and provide recommendations, solutions, warnings, etc.
+
+Some of the recommendations for implementing IoT business processes are:
+
+- Define the business process to improve and identify the problem to solve: The first step is to have a clear understanding of the current state of the process, the desired state of the process, and the gap between them. The problem should be specific, measurable, achievable, relevant and time-bound.
+- Use an end-to-end approach: The second step is to consider the whole process from the beginning to the end, and not just focus on one part or aspect of it. The IoT solution should be aligned with the overall objectives, requirements and expectations of the process, and should cover all the stages, activities and actors involved.
+- Make agile design and start with proof of concept prototyping: The third step is to adopt an agile methodology for designing and developing the IoT solution, which involves iterative, incremental and collaborative processes. The IoT solution should be tested and validated with a proof of concept prototype, which is a small-scale and low-cost version of the solution that demonstrates its feasibility and functionality.
+- Get on board the right people, better if you keep it low but with the best knowledge: The fourth step is to involve the right people in the IoT project, such as experts, stakeholders, users, etc. The IoT project team should be small but diverse, with the best knowledge and skills in the relevant domains, such as IoT, business, technology, etc.
+- Be persistent but acknowledgeable to failure: The fifth step is to be persistent and resilient in the IoT project, as there might be challenges, risks and uncertainties along the way. The IoT project team should be open to feedback, learning and improvement, and should be able to recognise and address failures and mistakes.
+- Disruption could be there, but don’t go crazy about it: The sixth step is to be aware of the potential disruption that IoT can cause to the existing business processes, models and strategies, and to be prepared to adapt and change accordingly. The IoT project team should not be afraid of innovation and experimentation, but should also be realistic and pragmatic about the costs and benefits of IoT.

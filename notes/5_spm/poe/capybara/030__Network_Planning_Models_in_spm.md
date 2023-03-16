@@ -1,0 +1,13 @@
+### Network Planning Models in SPM
+
+Network planning models are a set of tools and techniques used in project management to plan, schedule, and control project activities. In SPM (Software Project Management), network planning models are used to estimate project duration, identify critical activities, and allocate resources efficiently. Here are some important network planning models used in SPM:
+
+1. **Critical Path Method (CPM):** CPM is a widely used network planning model that helps project managers to identify the critical path of a project. The critical path is the longest sequence of activities that determines the project duration. CPM uses a network diagram to represent project activities and their dependencies. By analyzing the network diagram, project managers can calculate the earliest and latest start and finish times of each activity, and identify the critical path.
+
+2. **Program Evaluation and Review Technique (PERT):** PERT is another popular network planning model used in SPM. PERT is used to estimate project duration when there is a high degree of uncertainty in activity duration. PERT uses three time estimates for each activity: optimistic time, pessimistic time, and most likely time. By calculating the expected time of each activity, project managers can estimate the project duration and identify the critical path.
+
+3. **Gantt Chart:** A Gantt chart is a visual representation of a project schedule that shows the start and finish dates of project activities. A Gantt chart is used to track project progress and identify delays or potential problems. Project managers can use Gantt charts to allocate resources, identify dependencies, and monitor project milestones.
+
+4. **Resource Allocation Model:** Resource allocation model is a network planning model used in SPM to allocate resources efficiently. The model helps project managers to identify the optimal allocation of resources to project activities. By analyzing the resource allocation model, project managers can identify resource conflicts and resolve them before they become a problem.
+
+In conclusion, network planning models are essential tools for project managers in SPM. These models help project managers to plan, schedule, and control project activities efficiently. By using these models, project managers can estimate project duration, identify critical activities, allocate resources efficiently, and monitor project progress.

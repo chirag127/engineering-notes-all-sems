@@ -1,0 +1,11 @@
+### Hardware for Wearable Computing, Mixed Reality and Internet of Everything
+
+- Hardware refers to the physical components and devices that enable the functionality and interaction of wearable computing, mixed reality and internet of everything applications.
+- Hardware can be classified into different categories based on the type, purpose, form factor, and connectivity of the devices.
+- Some of the common hardware categories are:
+
+  - **Sensors**: Devices that measure physical phenomena such as motion, temperature, light, sound, etc. and convert them into electrical signals. Sensors are essential for collecting data from the environment and the user, and providing feedback and input for the applications. Examples of sensors are accelerometers, gyroscopes, magnetometers, GPS, cameras, microphones, etc.
+  - **Actuators**: Devices that convert electrical signals into physical actions such as movement, sound, light, etc. Actuators are used for providing output and feedback to the user and the environment, and enabling interaction and control of the applications. Examples of actuators are motors, speakers, LEDs, displays, etc.
+  - **Processors**: Devices that perform computations and data processing for the applications. Processors can be embedded in the devices or connected to external servers or cloud platforms. Processors are responsible for running the software and algorithms that enable the functionality and intelligence of the applications. Examples of processors are microcontrollers, microprocessors, GPUs, FPGAs, etc.
+  - **Memory**: Devices that store data and information for the applications. Memory can be volatile or non-volatile, and can be embedded in the devices or connected to external servers or cloud platforms. Memory is used for storing the software, data, and settings of the applications. Examples of memory are RAM, ROM, flash, hard disk, etc.
+  - **Communication**: Devices that enable data transmission and reception between the devices and other entities such as servers, cloud platforms, other devices, etc. Communication can be wired or wireless, and can use different protocols and standards. Communication is essential for enabling connectivity and interoperability of the applications. Examples of communication devices are antennas, transceivers, modems, routers, etc.

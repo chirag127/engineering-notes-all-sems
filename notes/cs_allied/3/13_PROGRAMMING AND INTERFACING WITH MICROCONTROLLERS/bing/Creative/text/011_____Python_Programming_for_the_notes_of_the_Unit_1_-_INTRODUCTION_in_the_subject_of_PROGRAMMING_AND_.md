@@ -1,0 +1,7 @@
+### Python Programming
+
+- Python is a popular, general-purpose, high-level, and object-oriented programming language that was created by Guido van Rossum in 1991  and further developed by the Python Software Foundation.
+- Python has a simple and expressive syntax that allows programmers to write programs with fewer lines of code than some other programming languages . Python also supports multiple programming paradigms, such as procedural, object-oriented, functional, and imperative.
+- Python can be used for various applications, such as web development, data analysis, machine learning, system scripting, automation, game development, and more  . Python can also interact with various databases, files, and external libraries.
+- Python runs on an interpreter system, which means that the code is executed line by line at runtime, rather than being compiled beforehand. This makes Python an interpreted, dynamic, and interactive language that supports rapid prototyping and testing .
+- Python has a large and active community of developers and users who contribute to its development and maintenance, as well as provide various resources, such as tutorials, books, modules, frameworks, and tools. Python is also open source and free to use and distribute.

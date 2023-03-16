@@ -1,0 +1,21 @@
+### Digital Signatures
+
+- A digital signature is a mathematical scheme for verifying the authenticity and integrity of digital messages or documents.
+- A digital signature is backed by a digital certificate, which provides proof of the identity of the signer.
+- A digital signature consists of two components: a signing algorithm and a verification algorithm.
+- The signing algorithm takes the message and a private key as inputs and produces a signature as output.
+- The verification algorithm takes the message, the signature and a public key as inputs and outputs a boolean value indicating whether the signature is valid or not.
+- The public key and the private key are mathematically related, but the private key cannot be derived from the public key.
+- The private key is kept secret by the signer, while the public key is made available to anyone who wants to verify the signature.
+- The digital certificate is a document that binds the public key to the identity of the signer, and is issued by a trusted authority called a certificate authority (CA) .
+- The digital certificate contains information such as the name of the signer, the public key, the validity period, the issuer name and the digital signature of the CA.
+- The digital signature of the CA ensures that the certificate is authentic and has not been tampered with.
+- The verifier of the signature must trust the CA that issued the certificate, or verify the CA's signature using another certificate, and so on, until a root CA is reached.
+- The root CA is a trusted entity that signs its own certificate and is widely recognized by the verifiers.
+- A digital signature provides the following benefits :
+  - It ensures that the message was created by a known sender (authenticity).
+  - It ensures that the message was not altered in transit (integrity).
+  - It prevents the sender from denying having sent the message (non-repudiation).
+  - It allows the verifier to check the validity of the certificate and the identity of the signer (certification).
+- A digital signature can be used for various purposes, such as signing contracts, invoices, emails, software, documents, etc. .
+- A digital signature can be implemented using various algorithms, such as the Digital Signature Algorithm (DSA), the RSA algorithm, the Elliptic Curve Digital Signature Algorithm (ECDSA), etc..

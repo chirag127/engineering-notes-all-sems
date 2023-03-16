@@ -1,0 +1,25 @@
+# Inter-Integrated Circuit
+
+- Inter-Integrated Circuit (I2C) is a serial communication protocol that allows multiple devices to communicate with each other using only two wires: a clock line (SCL) and a data line (SDA)    .
+- I2C was invented by Philips Semiconductor (now NXP Semiconductors) in 1982 and is widely used in applications where low cost and ease of implementation are more important than high speed  .
+- I2C can support up to 1008 slave devices on the same bus, each with a unique address . The devices can be either masters or slaves, depending on whether they initiate or respond to the communication  .
+- I2C uses a packet-based data transfer, where each packet consists of a start condition, an address byte, one or more data bytes, and a stop condition  . The address byte contains the 7-bit address of the slave device and a read/write bit that indicates the direction of the data transfer  .
+- I2C supports multiple masters on the same bus, which can arbitrate for the bus access using a mechanism called clock stretching  . Clock stretching allows a slave device to hold the clock line low until it is ready to send or receive data  .
+- I2C has several advantages over other serial communication protocols, such as SPI and UART, such as:
+  - Simpler hardware and wiring, as only two wires are needed   .
+  - Higher scalability, as more devices can be added to the bus without increasing the number of wires   .
+  - Lower power consumption, as the devices can be powered by the pull-up resistors on the bus lines   .
+  - Higher reliability, as the devices can detect and recover from bus errors using the start and stop conditions  .
+- I2C also has some limitations and challenges, such as:
+  - Lower speed, as the maximum data rate is limited by the capacitance of the bus lines and the clock frequency  . The standard mode of I2C supports up to 100 kbit/s, the fast mode supports up to 400 kbit/s, and the high-speed mode supports up to 3.4 Mbit/s .
+  - Longer transmission time, as the address byte and the acknowledge bits add overhead to each data transfer  .
+  - Higher complexity, as the devices need to implement the protocol logic and handle the arbitration and error detection  .
+  - Address conflicts, as the devices need to have unique addresses on the bus, which may require external configuration or hardware switches  .
+- I2C is widely used in various applications, such as:
+  - Sensors and actuators, such as temperature, humidity, pressure, light, sound, motion, etc.   .
+  - Memory devices, such as EEPROM, flash, etc.   .
+  - Display devices, such as LCD, OLED, etc.   .
+  - Audio devices, such as codecs, amplifiers, speakers, etc.   .
+  - Real-time clocks, timers, watchdogs, etc.   .
+  - Power management devices, such as voltage regulators, battery chargers, etc.   .
+  - Microcontrollers and microprocessors, as a way to communicate with peripheral devices or other controllers   .

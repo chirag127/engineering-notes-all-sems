@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I will help you with your notes on Bayesian modeling for the Unit 3 - Data Analysis in the subject of Introduction to Data Analytics and Visualization. Here are some points to remember:
+
+- Bayesian modeling is a statistical model where you use probability to represent all uncertainty within the model, both the uncertainty regarding the output but also the uncertainty regarding the input (aka parameters) to the model.
+- A Bayesian approach means that probabilities can be assigned to events that are neither repeatable nor random, such as the likelihood of a new novel becoming a New York Times bestseller.
+- Bayesian modeling is based on Bayes' theorem, which describes the conditional probability of an event based on data as well as prior information or beliefs about the event or conditions related to the event.
+- Bayesian modeling can be written in multiple levels (hierarchical form) that estimates the parameters of the posterior distribution using the Bayesian method. This allows for more flexibility and complexity in modeling real-world phenomena.
+- Bayesian modeling is a powerful tool for decision-making. It can be used to inform policy decisions by providing a quantitative assessment of a variety of complex risks associated with exposure to pollutants.
+- Bayesian modeling requires specifying a prior distribution for the parameters, a likelihood function for the data given the parameters, and a posterior distribution for the parameters given the data. The posterior distribution can be computed using analytical methods, numerical methods, or simulation methods.

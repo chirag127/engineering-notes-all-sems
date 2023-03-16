@@ -1,0 +1,7 @@
+### TCP/IP and UDP for IoT
+
+- TCP/IP is the most common protocol suite used for transmitting data over the Internet. It consists of four layers: application, transport, internet, and network access.
+- UDP is a transport layer protocol that provides fast and unreliable data transmission. It does not establish a connection, order data packets, or control congestion.
+- TCP is another transport layer protocol that provides reliable and ordered data transmission. It establishes a connection, segments data packets, and uses acknowledgments and retransmissions to ensure delivery.
+- IoT devices use both TCP and UDP depending on the application and network requirements. TCP is more suitable for applications that need high reliability, security, and data integrity, such as remote control, firmware updates, or file transfers. UDP is more suitable for applications that need low latency, high throughput, and low overhead, such as streaming, gaming, or voice over IP .
+- TCP/IP and UDP are not the only protocols used for IoT. There are other protocols that are designed to meet the specific challenges and needs of IoT, such as low power consumption, limited bandwidth, and heterogeneous devices. Some of these protocols are MQTT, CoAP, AMQP, and LwM2M.

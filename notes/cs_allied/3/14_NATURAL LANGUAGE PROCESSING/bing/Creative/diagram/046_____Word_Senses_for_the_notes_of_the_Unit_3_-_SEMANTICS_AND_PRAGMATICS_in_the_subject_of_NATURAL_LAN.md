@@ -1,0 +1,10 @@
+### Word Senses
+
+- A word sense is a representation of one aspect of a word's meaning.
+- A word can have multiple senses, depending on the context in which it is used. For example, the word "bank" can mean a financial institution, a sloping mound, a biological repository, or a building where a bank does its business.
+- Word sense disambiguation (WSD) is the task of assigning the appropriate sense to a given word in a text or discourse. It is one of the fundamental problems in natural language processing (NLP), as natural language is ambiguous and many words can be interpreted in multiple ways.
+- WSD is important for many NLP applications, such as machine translation, information retrieval, text summarization, question answering, sentiment analysis, etc. For example, in machine translation, the correct sense of a word can affect the choice of the target word in another language.
+- WSD can be performed using different methods, such as rule-based, knowledge-based, supervised, semi-supervised, or unsupervised approaches. Each method has its own advantages and disadvantages, depending on the availability of resources, the domain of the text, the granularity of the senses, etc.
+- Neural word representations, such as word embeddings, have proven useful in WSD, as they can model complex semantic and syntactic word relationships. However, most techniques model only one representation per word, despite the fact that a single word can have multiple senses. Sense embeddings are an extension of word embeddings that aim to capture the different senses of a word in a vector space.
+- Sense embeddings can be learned using different methods, such as clustering, retrofitting, or joint learning. Each method has its own assumptions and objectives, such as the number of senses per word, the type of context, the level of supervision, etc.
+- Sense embeddings can be evaluated using different tasks, such as word similarity, word analogy, lexical substitution, or WSD itself. Each task has its own metrics and datasets, such as SimLex-999, Google analogy test set, SemEval, etc.

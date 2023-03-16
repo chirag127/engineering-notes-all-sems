@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have asked me to write the content in markdown format on the topic "At the end of course, the student will be able to". Here is my response:
+
+# At the end of course, the student will be able to
+
+- The phrase "at the end of course, the student will be able to" is often used to describe the learning outcomes or objectives of a course. It indicates what the student is expected to know, understand, or do by the time they complete the course.
+- Learning outcomes or objectives are usually written in the form of verbs that describe the observable actions or behaviors of the student. For example, "at the end of this course, the student will be able to analyze, compare, evaluate, etc."
+- Learning outcomes or objectives should be specific, measurable, achievable, relevant, and time-bound (SMART). They should also align with the course content, activities, and assessments.
+- Learning outcomes or objectives can be categorized into different levels of cognitive, affective, or psychomotor domains, depending on the type and complexity of the learning involved. For example, Bloom's taxonomy is a widely used framework for classifying learning outcomes or objectives into six levels of cognitive domain: remember, understand, apply, analyze, evaluate, and create.
+- Learning outcomes or objectives can help the student to focus on the essential aspects of the course, monitor their own progress, and evaluate their learning achievements. They can also help the instructor to design, deliver, and assess the course effectively and efficiently.

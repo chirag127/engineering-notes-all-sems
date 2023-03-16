@@ -1,0 +1,9 @@
+### SPEECH MODELING
+
+- Speech modeling is the process of representing speech signals in a mathematical or statistical way that captures the relevant information and patterns in the speech data.
+- Speech modeling is an important task in natural language processing (NLP), which is a branch of artificial intelligence that deals with the interaction between computers and human languages  .
+- Speech modeling can be used for various applications, such as speech recognition, speech synthesis, speech enhancement, speech segmentation, speech emotion recognition, speaker identification, and speech translation  .
+- Speech modeling can be divided into two main types: acoustic modeling and language modeling.
+  - Acoustic modeling is the process of mapping speech signals to a sequence of acoustic units, such as phonemes, syllables, or words. Acoustic modeling involves extracting features from the speech signals, such as pitch, energy, spectral, and cepstral features, and using statistical models, such as hidden Markov models, Gaussian mixture models, or neural networks, to estimate the probability of each acoustic unit given the speech features.
+  - Language modeling is the process of estimating the probability of a sequence of words or symbols in a natural language, such as English, Chinese, or Arabic. Language modeling involves collecting a large corpus of text or speech data, and using statistical models, such as n-gram models, neural network models, or transformer models, to learn the patterns and rules of the language, such as syntax, semantics, and pragmatics.
+- Speech modeling can be evaluated using various metrics, such as accuracy, perplexity, word error rate, mean opinion score, and subjective tests, depending on the application and the goal of the speech modeling.

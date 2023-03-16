@@ -1,0 +1,21 @@
+### Offerings related to IoT from cloud service providers
+
+- Cloud service providers (CSPs) are companies that offer various services and solutions for Internet of Things (IoT) applications, such as connectivity, data storage, analytics, security, and management.
+- IoT cloud platforms are specific types of cloud services that enable users to connect, monitor, and control IoT devices and data, as well as to build, deploy, and manage IoT applications.
+- Some of the benefits of using IoT cloud platforms are:
+  - Scalability: IoT cloud platforms can handle large volumes of data and devices, and can scale up or down as needed.
+  - Cost-effectiveness: IoT cloud platforms can reduce the upfront and operational costs of IoT projects, as users only pay for the resources they use.
+  - Security: IoT cloud platforms can provide various security features, such as encryption, authentication, authorization, and compliance, to protect IoT data and devices from unauthorized access and attacks.
+  - Integration: IoT cloud platforms can integrate with other cloud services and third-party applications, such as artificial intelligence, machine learning, and blockchain, to enhance the functionality and value of IoT solutions.
+- Some of the examples of IoT cloud platforms are:
+  - Thingworx 8 IoT Platform: This is one of the leading IoT platforms for industrial companies, which provides easy connectivity for devices, data management and analytics, application development and deployment, and augmented reality capabilities.
+  - Microsoft Azure IoT Suite: This is a collection of services and solutions that help users to create IoT solutions, such as Azure IoT Hub, Azure IoT Edge, Azure IoT Central, Azure IoT Device Provisioning Service, and Azure IoT Solution Accelerators .
+  - Google Cloud IoT Platform: This is a set of services and tools that enable users to connect, process, store, and analyze IoT data at the edge and in the cloud, such as Cloud IoT Core, Cloud IoT Edge, Cloud Pub/Sub, Cloud Functions, and Cloud ML Engine.
+  - IBM Watson IoT Platform: This is a platform that helps users to connect, manage, and secure IoT devices and data, as well as to apply cognitive computing and analytics to derive insights and actions from IoT data, such as Watson IoT Platform Analytics, Watson IoT Platform Blockchain, and Watson IoT Platform Edge Analytics.
+  - AWS IoT Platform: This is a platform that offers various services and features to connect, secure, and manage IoT devices and data, as well as to build IoT applications, such as AWS IoT Core, AWS IoT Device Management, AWS IoT Greengrass, AWS IoT Analytics, and AWS IoT Things Graph .
+  - Cisco IoT Cloud Connect: This is a platform that provides network connectivity, device management, and data management for IoT devices and applications, especially for mobile operators and service providers.
+  - Salesforce IoT Cloud: This is a platform that enables users to capture and process IoT data, and to integrate it with Salesforce CRM and other applications, to create personalized and proactive customer experiences.
+  - Kaa IoT Platform: This is an open-source platform that allows users to connect and manage IoT devices, collect and analyze IoT data, and build and run IoT applications, using various features and modules, such as Kaa Device Management, Kaa Data Collection, Kaa Data Processing, and Kaa Application Enablement.
+  - Oracle Integrated Cloud for IoT: This is a platform that provides real-time IoT data analysis, endpoint management, and high-speed messaging, where the user can get real-time notification directly on their devices. Oracle IoT cloud service is a Platform as a Service (PaaS), cloud-based offering that helps users to make critical business decisions .
+  - SAP Cloud Platform for the Internet of Things: This is a platform that enables users to connect, monitor, and control IoT devices and data, as well as to integrate them with SAP applications and services, to optimize business processes and outcomes.
+  - Huawei Cloud IoT Platform: This is a platform that provides device management, data management, rule engine, and application enablement for IoT devices and applications, especially for smart city, smart home, and smart industry scenarios.

@@ -1,0 +1,24 @@
+# Hierarchical Clustering
+
+- Hierarchical clustering is a method of cluster analysis that seeks to build a hierarchy of clusters.
+- Clustering is a technique used to create homogeneous groups of entities or objects based on some similarity measure.
+- Hierarchical clustering can be performed in two ways: agglomerative or divisive.
+  - Agglomerative clustering is a bottom-up approach that starts with each observation in its own cluster and then merges the closest pairs of clusters until all observations are in one cluster.
+  - Divisive clustering is a top-down approach that starts with all observations in one cluster and then splits the cluster into smaller clusters based on some criterion until each observation is in its own cluster.
+- Hierarchical clustering requires a distance measure to determine the similarity or dissimilarity between observations or clusters.
+  - Some common distance measures are Euclidean distance, Manhattan distance, Minkowski distance, and cosine similarity.
+  - Euclidean distance is the straight-line distance between two points in a Euclidean space.
+  - Manhattan distance is the sum of the absolute differences between the coordinates of two points in a grid-like space.
+  - Minkowski distance is a generalization of Euclidean and Manhattan distances that allows different weights for different dimensions.
+  - Cosine similarity is the cosine of the angle between two vectors that represent the observations in a high-dimensional space.
+- Hierarchical clustering also requires a linkage method to determine how to merge or split clusters based on the distance measure.
+  - Some common linkage methods are single linkage, complete linkage, average linkage, and Ward's method.
+  - Single linkage merges or splits clusters based on the minimum distance between any two observations in the clusters.
+  - Complete linkage merges or splits clusters based on the maximum distance between any two observations in the clusters.
+  - Average linkage merges or splits clusters based on the average distance between all pairs of observations in the clusters.
+  - Ward's method merges or splits clusters based on the minimum increase in the total within-cluster variance.
+- Hierarchical clustering can be visualized using a dendrogram, which is a tree-like diagram that shows the nested structure of the clusters and the distances between them .
+- Hierarchical clustering can be performed in R using the functions `hclust` and `cutree` from the `stats` package, and the function `fviz_dend` from the `factoextra` package.
+- `hclust` takes a distance matrix and a linkage method as arguments and returns an object of class `hclust` that contains the hierarchical clustering results.
+- `cutree` takes an object of class `hclust` and a number of clusters or a height as arguments and returns a vector of cluster memberships for each observation.
+- `fviz_dend` takes an object of class `hclust` and some graphical parameters as arguments and returns a dendrogram plot.

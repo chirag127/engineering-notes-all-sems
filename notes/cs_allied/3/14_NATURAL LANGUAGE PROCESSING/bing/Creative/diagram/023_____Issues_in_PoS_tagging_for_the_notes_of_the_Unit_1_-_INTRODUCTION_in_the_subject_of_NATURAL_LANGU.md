@@ -1,0 +1,11 @@
+### Issues in PoS tagging
+
+- PoS tagging is the task of assigning a part-of-speech (PoS) label to each word in a sentence, such as noun, verb, adjective, etc.
+- PoS tagging is useful for many natural language processing (NLP) applications, such as syntactic parsing, semantic analysis, information extraction, machine translation, etc.
+- PoS tagging is not a trivial task, as there are many issues and challenges involved, such as:
+
+  - **Ambiguity**: Many words can have more than one possible PoS tag, depending on the context. For example, the word "book" can be a noun or a verb, and the word "can" can be a modal verb or a noun. PoS taggers need to resolve this ambiguity by using linguistic rules or statistical models.
+  - **Sparsity**: Many words are rare or unseen in the training data, and PoS taggers need to handle them appropriately. For example, proper nouns, acronyms, foreign words, etc. PoS taggers can use morphological, lexical, or contextual clues to infer the PoS tag of unknown words, or use a default tag such as "unknown" or "other".
+  - **Variability**: Language is dynamic and constantly evolving, and PoS taggers need to adapt to new words, new meanings, new genres, new domains, etc. For example, the word "tweet" can be a noun or a verb, and its meaning has changed with the emergence of social media. PoS taggers can use online learning, domain adaptation, or self-training techniques to update their models with new data.
+  - **Granularity**: Different PoS tag sets have different levels of granularity, or the number and specificity of PoS tags. For example, the Penn Treebank tag set has 36 tags, while the Universal Dependencies tag set has 17 tags. PoS taggers need to choose an appropriate tag set for their task and data, and be able to map between different tag sets if needed.
+  - **Evaluation**: PoS tagging is usually evaluated by comparing the predicted tags with the gold-standard tags, and computing the accuracy or the error rate. However, this evaluation may not reflect the true performance of PoS taggers, as some errors may be more serious or more frequent than others, and some tags may be more difficult or more important than others. PoS taggers can use more fine-grained or task-specific evaluation metrics, such as precision, recall, F1-score, confusion matrix, etc.

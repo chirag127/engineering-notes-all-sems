@@ -1,0 +1,31 @@
+### Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the longevity of data after the application that created it has been closed.
+- In order for data persistence to happen, the data must be written to non-volatile storage, a type of memory that can retain that information long-term, even if the application is no longer running.
+- Data persistence is important for various reasons, such as:
+  - Preserving the state and history of the application and its users.
+  - Enabling data analysis and reporting.
+  - Providing backup and recovery options.
+  - Enhancing performance and scalability.
+  - Supporting data sharing and collaboration.
+- Data persistence can be achieved by different methods, such as:
+  - Using files, such as text, XML, JSON, etc.
+  - Using databases, such as relational, NoSQL, graph, etc.
+  - Using cloud services, such as AWS, Azure, Google Cloud, etc.
+  - Using distributed systems, such as Hadoop, Spark, Kafka, etc.
+- Data persistence can also be classified by the level of persistence, such as:
+  - Pure in-memory storage, which offers the least amount of persistence and relies on RAM .
+  - In-memory storage with periodic snapshots, which maintains persistence by saving the data to disk at regular intervals .
+  - Disk-based storage, which triggers update-in-place writes and ensures persistence by overwriting the old data with the new data .
+  - Log-structured storage, which appends new data to the end of a log file and ensures persistence by keeping a record of all changes .
+- Data persistence can also be influenced by the device states, such as:
+  - Active state, which means the device is powered on and connected to the network.
+  - Idle state, which means the device is powered on but not connected to the network.
+  - Sleep state, which means the device is powered off but can be woken up by a signal.
+  - Off state, which means the device is powered off and cannot be woken up.
+- Data persistence can also be affected by the challenges and opportunities of wearable computing, mixed reality and internet of everything, such as:
+  - The need for low latency, high throughput and real-time data processing.
+  - The need for security, privacy and trust in data collection and transmission.
+  - The need for interoperability, compatibility and standardization among different devices and platforms.
+  - The need for user-centric, context-aware and adaptive data services.
+  - The need for ethical, social and legal implications of data usage and ownership.

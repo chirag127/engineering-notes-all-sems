@@ -1,0 +1,7 @@
+### CLIQUE and ProCLUS for the notes of the Unit 5 - Frequent Itemsets and Clustering in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- CLIQUE and ProCLUS are two algorithms for subspace clustering, which is a technique to find clusters in high-dimensional data by considering only relevant subsets of dimensions for each cluster.
+- CLIQUE stands for Clustering In QUEst and is a density-based and grid-based algorithm that partitions each dimension into equal-width intervals and identifies dense regions as clusters .
+- ProCLUS stands for PROjected CLUStering and is a distance-based and medoid-based algorithm that iteratively selects a set of medoids and assigns each point to the nearest medoid in the projected subspace .
+- CLIQUE and ProCLUS have different advantages and disadvantages. CLIQUE can find clusters of any shape and does not require the number of clusters as an input parameter, but it is sensitive to the choice of the grid size and the density threshold . ProCLUS can find clusters with different sizes and densities, but it requires the number of clusters and the average subspace dimensionality as input parameters, and it may fail to find clusters that are not well-separated .
+- CLIQUE and ProCLUS can be applied to various domains, such as chemistry, biology, image processing, text mining, and web mining, where high-dimensional data is common and clusters may exist in different subspaces    .

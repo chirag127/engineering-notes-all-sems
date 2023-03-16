@@ -1,0 +1,7 @@
+### Discovery
+- The first phase of the data analytics lifecycle is discovery, which involves identifying the business problem, the data sources, the analytical methods, and the expected outcomes.
+- The discovery phase has the following steps:
+  - Framing the business problem: This involves defining the scope, objectives, and success criteria of the analytics project, as well as identifying the stakeholders and their expectations.
+  - Identifying the data sources: This involves finding and evaluating the available data sources, both internal and external, that are relevant to the business problem. The data sources may include structured, unstructured, or semi-structured data, such as databases, files, web pages, social media, sensors, etc.
+  - Selecting the analytical methods: This involves choosing the appropriate analytical techniques and tools that can address the business problem and generate insights from the data. The analytical methods may include descriptive, diagnostic, predictive, or prescriptive analytics, as well as data visualization, machine learning, or natural language processing.
+  - Planning the expected outcomes: This involves defining the desired outputs and deliverables of the analytics project, such as reports, dashboards, models, recommendations, or actions. The expected outcomes should be aligned with the business problem and the success criteria, and should be measurable and actionable.

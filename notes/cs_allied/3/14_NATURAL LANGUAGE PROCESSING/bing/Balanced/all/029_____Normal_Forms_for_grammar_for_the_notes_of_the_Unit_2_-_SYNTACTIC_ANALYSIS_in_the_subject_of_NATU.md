@@ -1,0 +1,8 @@
+# Normal Forms for Grammar
+
+Normal forms for grammar are ways of transforming and simplifying the rules of a grammar to make it more suitable for certain applications, such as parsing and analyzing natural language sentences. There are different types of normal forms for grammar, depending on the class of grammar and the desired properties of the transformed grammar. Some of the most common normal forms for grammar are:
+
+- **Chomsky Normal Form (CNF)**: This is a normal form for context-free grammars, where every rule has the form A -> BC or A -> a, where A, B, and C are non-terminal symbols and a is a terminal symbol. CNF is useful for parsing natural language sentences using efficient algorithms, such as the CYK algorithm.
+- **Greibach Normal Form (GNF)**: This is another normal form for context-free grammars, where every rule has the form A -> aB1B2...Bn, where A and Bi are non-terminal symbols and a is a terminal symbol. GNF is useful for parsing natural language sentences using top-down parsers, such as the recursive descent parser.
+- **Backus-Naur Form (BNF)**: This is a notation for context-free grammars, where every rule has the form <A> ::= <B> | <C> | ... | <Z>, where <A> is a non-terminal symbol and <B>, <C>, ..., <Z> are sequences of terminal and non-terminal symbols. BNF is useful for defining the syntax of programming languages and other formal languages.
+- **Extended Backus-Naur Form (EBNF)**: This is an extension of BNF that allows more expressive notation for context-free grammars, such as using parentheses, brackets, braces, and other symbols to indicate optional, repeated, or grouped elements. EBNF is useful for defining the syntax of natural languages and other complex languages.

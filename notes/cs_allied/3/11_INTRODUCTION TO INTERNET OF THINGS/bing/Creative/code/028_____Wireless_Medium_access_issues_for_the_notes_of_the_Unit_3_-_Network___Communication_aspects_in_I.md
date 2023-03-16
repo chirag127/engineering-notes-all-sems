@@ -1,0 +1,21 @@
+### Wireless Medium Access Issues for IoT
+
+- Wireless medium access issues refer to the challenges and problems that arise when multiple IoT devices share the same wireless channel for data transmission and reception.
+- Wireless medium access issues can affect the network performance, reliability, energy efficiency, and scalability of IoT systems.
+- Some of the common wireless medium access issues in IoT are:
+  - Interference: Interference occurs when the signals from different IoT devices or other wireless sources overlap and cause distortion or corruption of the data. Interference can reduce the signal quality, increase the packet loss, and consume more energy for retransmissions.
+  - Hidden terminal problem: Hidden terminal problem occurs when two IoT devices that are out of each other's transmission range try to communicate with a common receiver at the same time. This can result in collisions and data loss at the receiver.
+  - Exposed terminal problem: Exposed terminal problem occurs when an IoT device that is in the transmission range of another IoT device cannot transmit to its intended receiver because the other IoT device is already transmitting to a different receiver. This can result in unnecessary waiting and channel underutilization.
+  - Near-far problem: Near-far problem occurs when an IoT device that is closer to the receiver transmits with a higher power than an IoT device that is farther from the receiver. This can result in the near device dominating the channel and preventing the far device from accessing the channel.
+  - Fading: Fading occurs when the wireless signal strength varies due to the changes in the propagation environment, such as distance, obstacles, reflection, refraction, and scattering. Fading can cause fluctuations in the signal quality, increase the bit error rate, and require adaptive modulation and coding schemes.
+
+- To overcome the wireless medium access issues in IoT, various Medium Access Control (MAC) protocols have been proposed and developed. MAC protocols are responsible for coordinating the access and allocation of the wireless channel among the IoT devices.
+- MAC protocols can be classified into two main categories: contention-based and contention-free.
+  - Contention-based MAC protocols allow the IoT devices to compete for the channel access using random or deterministic methods, such as Carrier Sense Multiple Access (CSMA), Aloha, Slotted Aloha, and Time Division Multiple Access (TDMA). Contention-based MAC protocols are simple, flexible, and scalable, but they can suffer from collisions, overhead, and latency.
+  - Contention-free MAC protocols assign the channel access to the IoT devices using a centralized or distributed controller, such as Frequency Division Multiple Access (FDMA), Code Division Multiple Access (CDMA), and Orthogonal Frequency Division Multiple Access (OFDMA). Contention-free MAC protocols are efficient, reliable, and interference-resistant, but they can be complex, rigid, and costly.
+
+- The choice of the MAC protocol for IoT depends on the application requirements, network characteristics, and device capabilities. Some of the factors that influence the MAC protocol design for IoT are:
+  - Network topology: The network topology defines the structure and connectivity of the IoT devices, such as star, mesh, tree, or cluster. The network topology affects the channel access, routing, and synchronization of the IoT devices.
+  - Traffic pattern: The traffic pattern defines the data generation and transmission behavior of the IoT devices, such as periodic, event-driven, query-based, or bursty. The traffic pattern affects the channel utilization, congestion, and fairness of the IoT devices.
+  - Energy consumption: The energy consumption defines the power consumption and battery life of the IoT devices, which are usually limited and constrained. The energy consumption affects the channel availability, duty cycle, and sleep mode of the IoT devices.
+  - Quality of service: The quality of service defines the performance and reliability metrics of the IoT applications, such as throughput, latency, packet loss, and jitter. The quality of service affects the channel allocation, priority, and adaptation of the IoT devices.

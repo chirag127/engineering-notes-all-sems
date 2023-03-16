@@ -1,0 +1,10 @@
+### Statistical Language Model for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+- A statistical language model (SLM) is a mathematical tool that assigns probabilities to sequences of words or symbols in a natural language.
+- SLMs are used to generate or analyze natural language texts for various applications, such as speech recognition, machine translation, natural language generation, information retrieval, etc.
+- SLMs are based on the assumption that the probability of a word or symbol depends on its previous words or symbols, i.e., its context.
+- SLMs can be classified into two types: n-gram models and neural network models.
+- N-gram models are the simplest and most widely used SLMs. They estimate the probability of a word or symbol based on its n-1 previous words or symbols, where n is a fixed parameter. For example, a bigram model (n=2) estimates the probability of a word based on its previous word, while a trigram model (n=3) estimates the probability of a word based on its previous two words.
+- Neural network models are more complex and powerful SLMs. They use artificial neural networks to learn the probability distribution of words or symbols in a natural language. They can capture long-range dependencies and semantic similarities between words or symbols. For example, a recurrent neural network (RNN) model can process variable-length sequences of words or symbols, while a transformer model can encode the context and attention of words or symbols.
+- SLMs are trained on large corpora of natural language texts, using various methods such as maximum likelihood estimation, smoothing techniques, backpropagation, etc.
+- SLMs are evaluated on various metrics, such as perplexity, accuracy, recall, precision, etc. Perplexity measures how well a SLM predicts the next word or symbol in a sequence, while accuracy measures how often a SLM predicts the correct word or symbol. Recall measures how many relevant words or symbols a SLM retrieves, while precision measures how many retrieved words or symbols are relevant.

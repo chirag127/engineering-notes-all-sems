@@ -1,0 +1,10 @@
+### Weighted Cepstral Distances And Filtering for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- Cepstral distance is a measure of similarity between two speech signals based on their cepstral coefficients, which are obtained by applying a discrete cosine transform to the log spectrum of the signal.
+- Cepstral distance can be used for speech recognition, speaker recognition, speech enhancement, and speech synthesis applications.
+- A simple cepstral distance measure is the Euclidean distance between the cepstral coefficients of two signals, but this may not be optimal for speech recognition because it does not account for the different importance and variability of each coefficient.
+- A weighted cepstral distance measure is a variant of the cepstral distance measure that assigns different weights to each cepstral coefficient according to some criterion, such as the inverse variance, the log-index, or the perceptual relevance of the coefficient.
+- A weighted cepstral distance measure can improve the performance of speech recognition systems by reducing the mismatch between the training and testing conditions, enhancing the discriminative power of the cepstral features, and reducing the computational complexity of the distance computation.
+- A common method to obtain the weights for the cepstral coefficients is to use a statistical approach, such as the maximum likelihood estimation or the minimum classification error criterion, based on a training set of speech data.
+- Another method to obtain the weights for the cepstral coefficients is to use a perceptual approach, such as the mel-scale or the bark-scale, based on the human auditory system.
+- A weighted cepstral distance measure can be combined with other techniques, such as dynamic time warping, vector quantization, or hidden Markov models, to achieve robust and accurate speech recognition systems.

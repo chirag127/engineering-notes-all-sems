@@ -1,0 +1,21 @@
+### WSD using Supervised
+
+- Word Sense Disambiguation (WSD) is the task of identifying the correct meaning of a word in a given context, when the word has multiple possible meanings.
+- Supervised WSD methods use sense-annotated corpora to train machine learning models that can predict the word sense based on the features of the context.
+- The most widely used training corpus for supervised WSD is SemCor, which contains 226,036 sense annotations from 352 documents manually annotated with WordNet senses.
+- Some of the common features used for supervised WSD are:
+  - Bag-of-words: The words in the surrounding context of the target word, optionally weighted by their frequency or distance from the target word.
+  - Part-of-speech tags: The grammatical categories of the words in the context, such as noun, verb, adjective, etc.
+  - Collocations: The combinations of words that occur frequently together, such as "make sense", "break the ice", etc.
+  - Syntactic dependencies: The relations between the words in the context, such as subject, object, modifier, etc.
+  - Semantic features: The information about the meaning or the category of the words in the context, such as hypernyms, hyponyms, synonyms, antonyms, etc.
+- Some of the common machine learning algorithms used for supervised WSD are:
+  - Decision trees: These are tree-like structures that split the feature space into regions based on rules, and assign a class label to each region.
+  - Naive Bayes: These are probabilistic models that estimate the likelihood of a class label given the features, based on the assumption of independence between the features.
+  - Support vector machines: These are linear models that find the optimal hyperplane that separates the classes in the feature space, with the maximum margin.
+  - Neural networks: These are nonlinear models that learn complex mappings between the features and the classes, using layers of neurons and activation functions.
+- Supervised WSD methods have the advantage of being able to learn from large amounts of data and achieve high accuracy on the same domain and genre as the training data.
+- However, supervised WSD methods also have some limitations, such as:
+  - Data sparsity: The lack of sufficient sense-annotated data for all the words and senses in a language, especially for rare or domain-specific words and senses.
+  - Domain adaptation: The difficulty of transferring the learned models to different domains or genres, where the distribution of the features and the senses may vary significantly.
+  - Sense granularity: The mismatch between the level of detail of the senses in the training data and the level of detail required for the application. For example, WordNet senses may be too fine-grained for some tasks, or too coarse-grained for others.

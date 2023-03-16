@@ -1,0 +1,14 @@
+# Evolution of Analytic Scalability
+
+- Analytic scalability refers to the ability to handle large and complex data sets for analysis purposes.
+- Analytic scalability is essential for data analytics, as it enables faster and deeper insights from big data.
+- Analytic scalability has evolved over time, as the volume, variety, and velocity of data have increased, and as the analytical techniques and tools have become more sophisticated and diverse.
+- Some of the key milestones in the evolution of analytic scalability are:
+
+  - The convergence of the analytic and data environments: This refers to the integration of the data warehouse and the analytic platform, which reduces the need to move data between different systems and improves performance and efficiency. Examples of converged environments are Teradata, Netezza, and Greenplum   .
+  - Massively parallel processing (MPP) architectures: These are systems that use multiple processors or nodes to perform parallel computations on large data sets. MPP architectures enable faster and more scalable analytics, as they can distribute the workload and leverage the power of multiple machines. Examples of MPP architectures are Hadoop, Spark, and Databricks   .
+  - The cloud: This refers to the use of remote servers and networks to store, manage, and process data. The cloud offers several benefits for analytic scalability, such as elasticity, flexibility, cost-effectiveness, and accessibility. Examples of cloud-based platforms for data analytics are Amazon Web Services, Google Cloud Platform, and Microsoft Azure   .
+  - Grid computing: This is a form of distributed computing that uses a network of computers to share resources and perform tasks. Grid computing can enhance analytic scalability, as it can leverage the idle capacity of existing machines and provide a large and dynamic computing environment. Examples of grid computing platforms for data analytics are Condor, Globus, and GridGain   .
+  - MapReduce: This is a programming model and framework that allows processing large data sets in parallel using a cluster of machines. MapReduce consists of two phases: map, which applies a function to each data element and produces intermediate results, and reduce, which aggregates the intermediate results and produces the final output. MapReduce is the core component of Hadoop, and it enables scalable and distributed analytics on big data   .
+
+- The evolution of analytic scalability has enabled data analytics to cope with the challenges and opportunities of big data, and to deliver more value and impact for organizations and society.

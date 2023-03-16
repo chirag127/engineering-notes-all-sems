@@ -1,0 +1,7 @@
+# Secrecy and Secret-Key Capacity
+
+- Secrecy and secret-key capacity are two important concepts in information-theoretic security, which studies the fundamental limits of secure communications over noisy channels.
+- Secrecy capacity is the maximal rate at which a sender can transmit a message to a receiver over a wiretap channel, such that the message is reliable at the receiver and highly secret from an eavesdropper who can observe a degraded version of the transmitted signal.
+- Secret-key capacity is the maximal rate at which two legitimate parties can generate a common secret key by observing correlated random variables and exchanging public messages, such that the key is highly secret from an eavesdropper who can observe another correlated random variable and the public messages.
+- Secrecy and secret-key capacity depend on the channel model, the noise distribution, the secrecy criterion, and the availability of side information or feedback.
+- Secrecy and secret-key capacity are relevant for securing the Internet of Things (IoT), which is a network of interconnected devices that can collect, process, and exchange data. IoT devices may be subject to various types of attacks, such as eavesdropping, jamming, spoofing, or tampering, and may have limited resources, such as power, bandwidth, or memory. Therefore, information-theoretic security can provide a rigorous framework to design and analyze efficient and robust cryptographic schemes for IoT applications .

@@ -1,0 +1,9 @@
+### Cipher suites
+
+- A cipher suite is a set of algorithms that help secure a network connection using Transport Layer Security (TLS) or its predecessor Secure Socket Layer (SSL) .
+- A cipher suite typically consists of four components: a key exchange algorithm, a bulk encryption algorithm, a message authentication code (MAC) algorithm, and a pseudorandom function (PRF)  .
+- The key exchange algorithm is used to establish a shared secret key between the communicating parties. The bulk encryption algorithm is used to encrypt the data transmitted over the network. The MAC algorithm is used to verify the integrity and authenticity of the data. The PRF is used to generate random values for various purposes, such as generating keys and nonces  .
+- Cipher suites are identified by standardized names, such as `TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384`, which indicate the algorithms used in the suite  . Different implementations of TLS may use different naming conventions, such as OpenSSL or GnuTLS .
+- Cipher suites are negotiated between the client and the server during the TLS handshake, where they exchange a list of supported cipher suites and select the most preferred one that they both support  .
+- Cipher suites are designed to provide different levels of security, performance, and compatibility. Some cipher suites may offer stronger encryption or authentication than others, but may also require more computational resources or may not be supported by some devices or platforms  .
+- Cipher suites are constantly evolving to address new security threats and requirements. New cipher suites may be introduced or deprecated by standards organizations, such as the Internet Engineering Task Force (IETF), or by vendors, such as Microsoft or OpenSSL   .

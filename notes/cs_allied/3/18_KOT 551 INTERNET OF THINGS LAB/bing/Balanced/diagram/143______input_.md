@@ -1,0 +1,12 @@
+#### Input
+- Input is the process of receiving data or instructions from a user or another device.
+- Input devices are hardware components that allow the user or the device to enter data or commands into a computer system.
+- Examples of input devices are keyboard, mouse, microphone, scanner, webcam, barcode reader, etc.
+- Input devices can be classified into different categories based on their functions, such as:
+  - Text input devices: These devices allow the user to enter text or characters, such as keyboard, touch screen, stylus, etc.
+  - Pointing input devices: These devices allow the user to move a cursor or pointer on the screen, such as mouse, trackball, touchpad, joystick, etc.
+  - Audio input devices: These devices allow the user to record or transmit sound, such as microphone, headset, voice recognition software, etc.
+  - Image input devices: These devices allow the user to capture or scan images, such as scanner, webcam, digital camera, etc.
+  - Video input devices: These devices allow the user to record or stream video, such as webcam, camcorder, video capture card, etc.
+  - Biometric input devices: These devices allow the user to authenticate their identity using their physical or behavioral characteristics, such as fingerprint scanner, face recognition camera, iris scanner, etc.
+  - Sensor input devices: These devices allow the user to measure or detect physical phenomena, such as temperature, pressure, motion, light, etc.

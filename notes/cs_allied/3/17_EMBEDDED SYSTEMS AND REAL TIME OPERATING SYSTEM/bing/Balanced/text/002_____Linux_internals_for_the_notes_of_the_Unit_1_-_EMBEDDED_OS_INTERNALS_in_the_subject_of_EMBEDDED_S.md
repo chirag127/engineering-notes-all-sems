@@ -1,0 +1,15 @@
+### Linux internals for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Embedded Linux is a type of Linux kernel that is specially designed for embedded devices, such as smartphones, set-top boxes, smart TVs, routers, etc.  
+- Embedded Linux systems consist of the following main components :
+  - Toolchain: A collection of development tools, such as GCC compiler, C libraries, and GNU debugger, which are used to create source code for the target embedded hardware.
+  - Bootloader: A piece of code that runs when we apply power to the embedded hardware first time. It initializes the hardware, loads the Linux kernel into memory, and passes some parameters to the kernel.
+  - Linux Kernel: The core of the operating system that manages the hardware resources, such as CPU, memory, I/O devices, etc. It also provides system calls and drivers for the user applications to interact with the hardware.
+  - Device Tree: A data structure that describes the hardware configuration of the embedded system, such as the CPU type, memory size, peripheral devices, etc. It is used by the Linux kernel to initialize the hardware and load the appropriate drivers.
+  - Root File System: A collection of files and directories that provide the basic functionality of the operating system, such as shell, utilities, libraries, configuration files, etc. It can be stored in different types of storage media, such as flash memory, SD card, hard disk, etc.
+  - Configuration Files: Files that store the settings and preferences of the system and the user applications, such as network configuration, user accounts, etc. They can be modified by the user or the system administrator to customize the behavior of the system.
+- Embedded Linux systems have some advantages over other operating systems for embedded applications, such as  :
+  - Open-source: Linux is free and open-source, which means that anyone can access, modify, and distribute the source code. This gives more flexibility and control to the developers and reduces the licensing costs and vendor lock-in.
+  - Scalability: Linux can run on different types of hardware platforms, from low-end microcontrollers to high-end servers. It can also be configured and customized to meet the specific requirements and constraints of the embedded system, such as memory footprint, performance, functionality, etc.
+  - Developer Support: Linux has a large and active community of developers and users who contribute to the development and improvement of the kernel and the user applications. There are also many online resources, such as documentation, tutorials, forums, etc., that provide guidance and help for the developers.
+  - Tooling: Linux provides a rich set of tools and frameworks for developing, debugging, testing, and deploying embedded applications, such as cross-compilers, debuggers, profilers, emulators, etc. These tools can help the developers to create high-quality and reliable software for the embedded system.

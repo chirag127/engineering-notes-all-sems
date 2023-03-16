@@ -1,0 +1,13 @@
+### Live Network feeds
+
+- Live network feeds are streams of data that are continuously transmitted over a network, such as the Internet, from a source to a destination.
+- Live network feeds can be used for various applications, such as video conferencing, online gaming, webcasting, surveillance, etc.
+- Live network feeds require special protocols and techniques to ensure reliable, timely, and efficient delivery of data, as well as to cope with network congestion, packet loss, jitter, and latency.
+- Some of the protocols and techniques used for live network feeds are:
+  - Real-time Transport Protocol (RTP): A standard protocol that provides end-to-end delivery services for data with real-time characteristics, such as audio and video. RTP supports features such as payload type identification, sequence numbering, timestamping, and synchronization.
+  - Real-time Transport Control Protocol (RTCP): A companion protocol to RTP that provides feedback on the quality of the data transmission and information about the participants in a session. RTCP can be used to adjust the transmission rate, detect network congestion, and synchronize multiple sources.
+  - Real-time Streaming Protocol (RTSP): A protocol that enables the control of streaming media servers. RTSP allows clients to perform operations such as play, pause, fast forward, rewind, and record on the media streams.
+  - User Datagram Protocol (UDP): A connectionless protocol that provides fast and simple data transmission, but does not guarantee reliability, ordering, or error correction. UDP is often used for live network feeds, as it has lower overhead and latency than TCP, and can tolerate some packet loss.
+  - Transmission Control Protocol (TCP): A connection-oriented protocol that provides reliable, ordered, and error-free data transmission, but has higher overhead and latency than UDP. TCP is usually not preferred for live network feeds, as it can cause delays and retransmissions that affect the quality of the data.
+  - Multicast: A technique that allows a single source to send data to multiple destinations simultaneously, using a single copy of the data. Multicast can reduce the network bandwidth and server load for live network feeds, but requires special routers and protocols to support it.
+  - Unicast: A technique that involves sending data from a source to a single destination, using a separate copy of the data for each destination. Unicast can provide better quality and security for live network feeds, but requires more network bandwidth and server resources than multicast.

@@ -1,0 +1,11 @@
+## DETAILED SYLLABUS
+
+A detailed syllabus is a document that outlines the topics, objectives, assignments, assessments, and policies of a course. It serves as a guide for both instructors and students to plan and manage their learning activities. A detailed syllabus typically includes the following sections:
+
+- **Course information**: This section provides basic information about the course, such as the course title, code, number, credits, prerequisites, instructor name, contact details, office hours, and course website.
+- **Course description**: This section gives an overview of the course, its purpose, scope, and main themes. It also explains how the course fits into the curriculum and the learning outcomes expected from the students.
+- **Course schedule**: This section lists the topics, readings, assignments, and assessments for each week or unit of the course. It also indicates the deadlines, due dates, and weightings of the assessments. It may also include a tentative schedule of lectures, tutorials, labs, or other activities.
+- **Course materials**: This section specifies the required and recommended texts, articles, videos, software, or other resources that the students need to access or purchase for the course. It also provides information on how and where to obtain them.
+- **Course policies**: This section outlines the rules and expectations that the students and the instructor must follow in the course. It may cover topics such as attendance, participation, communication, academic integrity, late submissions, extensions, grading, feedback, appeals, accommodations, and emergencies.
+- **Course evaluation**: This section explains how the students will be assessed and graded in the course. It may include the criteria, rubrics, or standards that will be used to evaluate the students' work. It may also provide examples or samples of previous or exemplary work.
+- **Course support**: This section provides information on the available resources and services that can help the students succeed in the course. It may include the contact details of the teaching assistants, tutors, mentors, librarians, counselors, or other support staff. It may also refer to the online platforms, forums, groups, or communities that the students can join or access.

@@ -1,0 +1,22 @@
+## Unit 4 - Mining Data Streams
+
+- A data stream is a sequence of data items that arrives continuously and rapidly, such as sensor readings, web clicks, tweets, etc.
+- Mining data streams poses several challenges, such as:
+  - The data is unbounded and cannot be stored in memory or disk.
+  - The data is transient and may not be revisited or modified.
+  - The data is noisy and may contain outliers or errors.
+  - The data is dynamic and may change over time.
+- Some common tasks for mining data streams are:
+  - Sampling: selecting a representative subset of the data stream for analysis or storage.
+  - Filtering: removing unwanted or irrelevant data items from the data stream.
+  - Aggregation: computing summary statistics or functions over the data stream, such as count, sum, average, min, max, etc.
+  - Clustering: grouping similar data items in the data stream into clusters or categories.
+  - Classification: assigning labels or categories to data items in the data stream based on predefined rules or models.
+  - Outlier detection: identifying data items in the data stream that deviate significantly from the normal or expected behavior.
+  - Frequent pattern mining: finding recurring patterns or associations among data items in the data stream, such as frequent items, itemsets, subsequences, etc.
+- Some common techniques for mining data streams are:
+  - Sliding window: maintaining a fixed-size buffer of the most recent data items in the data stream and discarding older items as new ones arrive.
+  - Reservoir sampling: maintaining a fixed-size sample of the data stream by randomly replacing items in the sample with new ones as they arrive.
+  - Sketching: maintaining a compact summary or approximation of the data stream using probabilistic data structures, such as count-min sketch, bloom filter, hyperloglog, etc.
+  - Streaming algorithms: designing algorithms that use limited memory and time to process the data stream and produce approximate or exact answers with high probability.
+  - Online learning: updating models or parameters incrementally as new data items arrive in the data stream, using techniques such as stochastic gradient descent, online k-means, online decision trees, etc.

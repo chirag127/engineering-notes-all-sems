@@ -1,0 +1,11 @@
+### Pipes
+- Pipes are a mechanism for interprocess communication (IPC) in operating systems.
+- Pipes allow two or more processes to communicate by passing data from one process to another.
+- Pipes are implemented using a buffer in the kernel memory, which is used to temporarily store the data being transferred between processes.
+- Pipes are unidirectional, meaning that data can only flow in one direction, from the writer process to the reader process.
+- Pipes are created using the `pipe()` system call, which returns two file descriptors, one for reading and one for writing.
+- The `read()` and `write()` system calls are used to read from and write to the pipe, respectively.
+- Pipes can be used to implement filters, where the output of one command is passed as input to another command.
+- Pipes can also be used to implement simple client-server architectures, where the server process listens on a pipe for incoming requests from client processes.
+- Pipes have some limitations, such as a fixed buffer size and the inability to seek within the data stream.
+- Named pipes, also known as FIFOs, are a variation of pipes that allow bidirectional communication and can be accessed by multiple processes simultaneously.

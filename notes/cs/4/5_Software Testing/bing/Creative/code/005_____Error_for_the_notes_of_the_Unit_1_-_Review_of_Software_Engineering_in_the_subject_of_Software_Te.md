@@ -1,0 +1,14 @@
+### Error
+- An error is a human action that produces an incorrect or undesired result.
+- An error can occur at any stage of the software development life cycle, such as requirements, design, coding, testing, or maintenance.
+- An error can be classified into two types: syntactic and semantic.
+- A syntactic error is a violation of the rules or grammar of a programming language. For example, a missing semicolon or a mismatched parenthesis in a code statement.
+- A semantic error is a deviation from the intended meaning or logic of a program. For example, a wrong formula or a wrong condition in a code statement.
+- An error can cause a fault or a failure in a software system.
+- A fault is a defect or a flaw in a software component or system that can cause it to behave abnormally or incorrectly.
+- A failure is a deviation of the actual behavior or output of a software system from the expected or specified behavior or output.
+- A failure is the manifestation of a fault at the interface of the software system and its environment.
+- A failure can be detected by testing or by observing the software system in operation.
+- A failure can be classified into two types: transient and permanent.
+- A transient failure is a failure that occurs only under certain conditions or circumstances and disappears when those conditions or circumstances change.
+- A permanent failure is a failure that persists regardless of the conditions or circumstances and requires a correction or repair of the fault.

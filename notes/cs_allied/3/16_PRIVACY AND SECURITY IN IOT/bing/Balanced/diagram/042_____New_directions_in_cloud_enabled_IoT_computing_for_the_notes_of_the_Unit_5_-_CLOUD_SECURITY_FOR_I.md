@@ -1,0 +1,10 @@
+### New directions in cloud enabled IoT computing
+
+- Cloud computing and IoT are two complementary technologies that enable new applications and services for various domains such as smart cities, healthcare, agriculture, and industry.
+- Cloud computing provides scalable, elastic, and on-demand resources and services for IoT devices and applications, such as storage, processing, analytics, and security.
+- IoT devices generate large amounts of data that can be transmitted, processed, and stored in the cloud, enabling data-driven insights and actions.
+- Some of the new directions and challenges in cloud enabled IoT computing are:
+
+  - Edge and fog computing: These are paradigms that extend the cloud computing capabilities to the edge of the network, closer to the IoT devices and sources of data. Edge and fog computing can reduce the latency, bandwidth, and energy consumption of IoT applications, as well as enhance the privacy and security of the data. However, they also introduce new issues such as resource management, orchestration, and interoperability among different edge and fog nodes and cloud platforms.
+  - Serverless computing: This is a model that abstracts the underlying infrastructure and allows developers to focus on the application logic and functionality, rather than the provisioning and management of servers. Serverless computing can enable rapid and cost-effective development and deployment of IoT applications, as well as scalability and fault-tolerance. However, it also poses new challenges such as cold start, state management, and debugging.
+  - Blockchain and distributed ledger technologies: These are technologies that enable secure, transparent, and decentralized transactions and data sharing among multiple parties, without the need for a trusted intermediary. Blockchain and distributed ledger technologies can enhance the trust, security, and privacy of IoT applications, as well as enable new business models and value propositions. However, they also face limitations such as scalability, performance, and energy consumption.

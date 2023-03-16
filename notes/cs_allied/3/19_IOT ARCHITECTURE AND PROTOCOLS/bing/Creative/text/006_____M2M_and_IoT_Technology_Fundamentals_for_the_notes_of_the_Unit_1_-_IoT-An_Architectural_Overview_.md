@@ -1,0 +1,10 @@
+### M2M and IoT Technology Fundamentals
+
+- M2M stands for Machine-to-Machine, which refers to the direct communication between devices without human intervention.
+- IoT stands for Internet of Things, which refers to the network of devices that can collect, process and share data over the internet.
+- M2M is a subset of IoT, as IoT involves communication between machines without human input, making it by definition a form of M2M communication.
+- However, IoT expands the power and potential of M2M technology in new ways. The biggest difference between M2M and IoT is that an M2M system uses point-to-point communication, while an IoT system typically situates its devices within a global cloud network that allows larger-scale integration and more sophisticated applications .
+- Scalability is another key difference between M2M and IoT. M2M systems are usually limited by the number of devices that can be connected and the bandwidth that can be used. IoT systems, on the other hand, can leverage the cloud infrastructure, software and platform to support millions of devices and data streams.
+- M2M technology was first adopted in manufacturing and industrial settings, where other technologies, such as SCADA and remote monitoring, helped remotely manage and control data from equipment. M2M has since found applications in other sectors, such as healthcare, business and insurance.
+- IoT technology emerged from the convergence of wireless technologies, micro-electromechanical systems (MEMS), microservices and the internet. IoT enables new possibilities for smart homes, smart cities, smart agriculture, smart healthcare and smart transportation.
+- M2M and IoT technologies share some common benefits, such as improved efficiency, productivity, safety, security and customer satisfaction. They also share some common challenges, such as interoperability, security, privacy and regulation.

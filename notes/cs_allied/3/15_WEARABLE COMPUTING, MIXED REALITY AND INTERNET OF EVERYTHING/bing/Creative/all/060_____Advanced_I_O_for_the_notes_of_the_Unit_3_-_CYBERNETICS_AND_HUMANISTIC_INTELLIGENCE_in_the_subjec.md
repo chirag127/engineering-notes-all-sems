@@ -1,0 +1,17 @@
+# Advanced I/O for Wearable Computing
+
+- Input/output (I/O) is the process of transferring data between a computer and its external devices, such as sensors, displays, speakers, microphones, etc.
+- Wearable computing is a field of computer science that aims to create devices that can be worn on the body, integrated with clothing, or implanted in the body, to provide various functions such as communication, health monitoring, entertainment, etc.
+- Advanced I/O for wearable computing refers to the design and implementation of novel and efficient ways of interacting with wearable devices, using natural modalities such as voice, gesture, touch, eye gaze, etc.
+- Some of the challenges and opportunities of advanced I/O for wearable computing are:
+
+  - **Power consumption**: Wearable devices have limited battery life and need to optimize their power consumption by using low-power sensors, processors, and wireless communication protocols. Some possible solutions are using energy harvesting techniques, adaptive power management, and wireless charging.
+  - **User experience**: Wearable devices need to provide a seamless and intuitive user experience, by using natural and multimodal interfaces, context-awareness, personalization, and feedback mechanisms. Some possible solutions are using machine learning, computer vision, natural language processing, and haptic technologies.
+  - **Privacy and security**: Wearable devices collect and process sensitive personal data, such as biometrics, location, health, etc., and need to protect them from unauthorized access and misuse. Some possible solutions are using encryption, authentication, anonymization, and user consent mechanisms.
+  - **Social acceptance**: Wearable devices need to be socially acceptable and aesthetically pleasing, by using ergonomic and fashionable designs, cultural and ethical considerations, and user preferences. Some possible solutions are using user-centered design, participatory design, and co-design methods.
+
+- Some of the examples of advanced I/O for wearable computing are:
+
+  - **Smart glasses**: These are wearable devices that provide augmented reality (AR) or mixed reality (MR) experiences, by projecting digital information onto the user's field of view. They can use voice, gesture, or eye gaze as input modalities, and provide visual or auditory feedback. Some examples are Google Glass, Microsoft HoloLens, and Facebook Ray-Ban Stories .
+  - **Smart watches**: These are wearable devices that provide various functions such as time, notifications, fitness tracking, health monitoring, etc., by using a touch screen, buttons, or a rotating bezel as input modalities, and providing visual, auditory, or haptic feedback. Some examples are Apple Watch, Samsung Galaxy Watch, and Fitbit Versa .
+  - **Smart hearables**: These are wearable devices that provide audio functions such as music, calls, navigation, etc., by using wireless transmission, microphones, or bone conduction as input modalities, and providing auditory feedback. They can also monitor the user's health, such as heart rate, blood pressure, etc., by using biometric sensors. Some examples are Apple AirPods, Samsung Galaxy Buds, and Bose QuietComfort Earbuds.

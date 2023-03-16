@@ -1,0 +1,6 @@
+# Driver Module Explanation for Unit 4 - VXWORKS / FREE RTOS in the Subject of Embedded Systems and Real Time Operating Systems
+
+- A **Real-Time Operating System (RTOS)** is an operating system that guarantees real-time applications a certain capability within a specified deadline. RTOSes are designed for critical systems and for devices like microcontrollers that are timing-specific. RTOS processing time requirements are measured in milliseconds.
+- A monolithic kernel runs all operating system components in the kernel space. For instance, a monolithic RTOS includes device drivers, file management, networking, and a graphics stack as part of the kernel space. Applications, however, run in the user space.
+- VxWorks is a deterministic, priority-based preemptive RTOS with low latency and minimal jitter. It is built on an upgradable, future-proof architecture to help you rapidly respond to changing market requirements and technology advancements.
+- Although VxWorks and Linux provide a similar device driver interface, they differ in the way they enforce the application to adhere to it. In Linux, all hardware access must be funneled through a device driver. On the other hand, in VxWorks, an application can manipulate the device by writing commands directly to the device's registers.

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your programming and interfacing with microcontrollers course. Here are some notes on how to approach a programming problem for the unit 2 - software frameworks.
+
+# How to approach a programming problem
+
+A programming problem is a task that requires writing a computer program to solve it. A software framework is a set of tools, libraries, and conventions that provide a common structure and functionality for developing applications. To approach a programming problem using a software framework, you can follow these steps:
+
+- **Analyze the problem**: Understand the requirements, objectives, constraints, and assumptions of the problem. Identify the inputs, outputs, and processes involved. Break down the problem into smaller and simpler subproblems if possible.
+- **Choose a software framework**: Select a software framework that suits the problem domain, the programming language, and the target platform. Consider the features, benefits, limitations, and compatibility of the framework. Learn how to use the framework's documentation, tutorials, and examples.
+- **Design a solution**: Plan the structure, components, and interactions of your program. Use the framework's conventions and best practices to organize your code. Define the classes, methods, variables, and data structures that you will use. Sketch the user interface and the user experience of your program.
+- **Implement the solution**: Write the code for your program using the framework's syntax, libraries, and tools. Follow the framework's coding standards and guidelines. Test and debug your code as you go. Use the framework's testing and debugging tools if available.
+- **Evaluate the solution**: Run your program and check if it meets the problem's requirements, objectives, and constraints. Measure the performance, efficiency, and reliability of your program. Compare your program with other possible solutions or alternative frameworks. Refine and improve your code if needed.

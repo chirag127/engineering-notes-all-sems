@@ -1,0 +1,36 @@
+### Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats – Functional modes – Introduction to Commercial Processors
+
+- Introduction
+  - Digital Signal Processing is the process of representing signals in a discrete mathematical sequence of numbers and analyzing, modifying, and extracting the information contained in the signal by carrying out algorithmic operations and processing on the signal.
+  - Digital Signal Processors (DSP) are specialized microprocessors that take real-world signals like voice, audio, video, temperature, pressure, or position that have been digitized and then mathematically manipulate them.
+  - DSPs are mainly used for applications that require high-speed and high-accuracy computations, such as audio and video processing, communications, biomedical engineering, radar, sonar, etc.
+- Architecture
+  - DSPs have a unique architecture that is optimized for performing repetitive and numerically intensive tasks.
+  - Most DSPs include a powerful data path and also the capacity to move large amounts of data to memory quickly.
+  - The data path consists of multiple functional units, such as arithmetic logic units (ALUs), multipliers, accumulators, shifters, etc., that can operate in parallel and independently.
+  - The memory system consists of multiple levels of memory, such as registers, cache, internal and external RAM, ROM, etc., that can be accessed by the data path with low latency and high bandwidth.
+  - The control unit consists of an instruction decoder, a program counter, a pipeline controller, etc., that can fetch and execute multiple instructions per cycle.
+  - Some DSPs also have specialized hardware units, such as direct memory access (DMA) controllers, serial and parallel ports, timers, interrupt controllers, etc., that can handle peripheral and external devices without involving the CPU.
+- Features
+  - DSPs have some distinctive features that make them suitable for signal processing applications, such as:
+    - Fixed-point and floating-point arithmetic support: DSPs can perform arithmetic operations on different formats of numbers, such as integers, fractions, and exponents, depending on the accuracy and dynamic range required by the application.
+    - Single-cycle instruction execution: DSPs can execute most instructions in one clock cycle, which reduces the instruction overhead and increases the throughput.
+    - Zero-overhead looping: DSPs can execute loops without any branch or decrement instructions, which saves cycles and simplifies the code.
+    - Circular buffering: DSPs can access memory locations in a circular fashion, which eliminates the need for pointer arithmetic and boundary checking.
+    - Hardware looping: DSPs can execute nested loops with hardware support, which reduces the loop overhead and increases the performance.
+    - Bit-reversed addressing: DSPs can access memory locations in a bit-reversed order, which is useful for implementing fast Fourier transform (FFT) algorithms.
+    - SIMD and VLIW instruction support: DSPs can execute multiple operations on multiple data elements in parallel, which increases the parallelism and efficiency.
+- Addressing Formats
+  - DSPs use different addressing formats to access data from memory, such as:
+    - Direct addressing: The operand is specified by a direct address in the instruction.
+    - Indirect addressing: The operand is specified by a register that contains the address of the operand.
+    - Register indirect addressing: The operand is specified by a register that contains the address of another register that contains the address of the operand.
+    - Indexed addressing: The operand is specified by a register that contains the base address of the operand and an index value that is added to the base address.
+    - Circular addressing: The operand is specified by a register that contains the base address of the operand and a modulo value that is used to wrap around the address when it reaches the boundary.
+    - Bit-reversed addressing: The operand is specified by a register that contains the bit-reversed address of the operand.
+- Functional modes
+  - DSPs can operate in different functional modes, such as:
+    - Normal mode: The DSP executes the instructions sequentially from the program memory.
+    - Interrupt mode: The DSP suspends the normal execution and jumps to an interrupt service routine (ISR) when an interrupt request is received from an external or internal source.
+    - DMA mode: The DSP transfers data between memory and peripherals without involving the CPU.
+    - Standby mode: The DSP reduces

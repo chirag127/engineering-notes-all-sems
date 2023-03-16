@@ -1,0 +1,13 @@
+# Architecture - Security in Enabling Technologies - Security Concerns in IoT Applications
+
+- IoT applications are systems that use internet-connected devices to collect, process, and exchange data.
+- IoT applications enable various benefits such as automation, efficiency, convenience, and innovation.
+- However, IoT applications also pose significant security challenges that need to be addressed to ensure their reliability, safety, and privacy.
+- Some of the major security concerns in IoT applications are:
+
+  - **Devices lack fundamental security features**: Many IoT devices are designed with low-cost and low-power constraints, which limit their ability to implement basic security mechanisms such as encryption, authentication, and firmware updates. This makes them vulnerable to attacks that can compromise their functionality, data, or network .
+  - **Specially designed malware**: IoT devices can be targeted by malicious software that exploits their vulnerabilities or exploits their features for malicious purposes. For example, IoT botnets can use compromised devices to launch distributed denial-of-service (DDoS) attacks, ransomware, or cryptojacking .
+  - **Need to keep all components of IoT system secure**: IoT applications involve multiple components such as devices, gateways, cloud servers, and user interfaces. Each component has its own security requirements and challenges, and a breach in any of them can affect the whole system. Therefore, IoT security needs to be considered holistically and end-to-end .
+  - **Variations in quality of IoT devices**: IoT devices vary widely in their quality, performance, and functionality. Some devices may have more robust security features than others, or may follow different standards and protocols. This creates interoperability and compatibility issues, as well as inconsistent security levels across the IoT system .
+  - **Keeping communication between device and server secure**: IoT devices communicate with cloud servers or other devices over the internet, which exposes them to various network threats such as eavesdropping, interception, modification, or spoofing. Therefore, IoT communication needs to be secured using encryption, authentication, and integrity mechanisms .
+  - **Privacy concerns**: IoT devices collect and transmit large amounts of personal and sensitive data, such as location, health, behavior, or preferences. This data can be used for legitimate purposes, such as personalization, analytics, or optimization, but it can also be misused, leaked, or stolen by unauthorized parties. Therefore, IoT privacy needs to be protected using data minimization, anonymization, consent, and access control techniques  .

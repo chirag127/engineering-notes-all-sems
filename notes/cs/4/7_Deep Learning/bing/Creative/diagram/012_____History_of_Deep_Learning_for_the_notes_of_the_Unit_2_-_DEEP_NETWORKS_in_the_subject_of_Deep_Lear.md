@@ -1,0 +1,22 @@
+### History of Deep Learning
+
+- Deep learning is a branch of machine learning that uses artificial neural networks to learn from data and perform tasks such as classification, regression, generation, etc.
+- The term deep learning was introduced by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000.
+- The history of deep learning can be traced back to 1943, when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain.
+- They used a combination of algorithms and mathematics they called “threshold logic” to mimic the thought process.
+- In 1950, Alan Turing predicted the future existence of a supercomputer with human-like intelligence and proposed the Turing test to measure it.
+- In 1957, Frank Rosenblatt developed the perceptron, a single-layer neural network that could learn to classify linearly separable patterns.
+- In 1965, Alexey Ivakhnenko and Valentin Lapa published the first general, working learning algorithm for multilayered (deep) networks.
+- In 1969, Marvin Minsky and Seymour Papert published a book called Perceptrons, which showed the limitations of single-layer neural networks and discouraged further research in the field.
+- In 1974, Paul Werbos proposed the backpropagation algorithm, which could efficiently train multilayer neural networks by adjusting the weights using the gradient of the error function.
+- In 1980, Kunihiko Fukushima developed the neocognitron, a hierarchical neural network that could recognize handwritten digits and other patterns.
+- In 1986, Geoffrey Hinton, David Rumelhart and Ronald Williams popularized the backpropagation algorithm and demonstrated its applications to various tasks such as speech recognition, image recognition, natural language processing, etc.
+- In 1989, Yann LeCun, Leon Bottou, Yoshua Bengio and Patrick Haffner developed the convolutional neural network (CNN), a type of neural network that could exploit the spatial structure of images and reduce the number of parameters.
+- In 1997, Sepp Hochreiter and Jürgen Schmidhuber introduced the long short-term memory (LSTM), a type of recurrent neural network (RNN) that could overcome the problem of vanishing gradients and learn long-term dependencies in sequential data.
+- In 2006, Geoffrey Hinton, Simon Osindero and Yee-Whye Teh proposed the deep belief network (DBN), a generative model that could learn multiple layers of features from unlabeled data using a greedy layer-wise pre-training strategy.
+- In 2009, Yoshua Bengio, Pascal Lamblin, Dan Popovici and Hugo Larochelle showed that deep neural networks could outperform shallow ones on various tasks such as object recognition, natural language processing, etc.
+- In 2012, Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) using a deep CNN called AlexNet, which achieved a significant improvement over the previous state-of-the-art methods.
+- In 2014, Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio introduced the generative adversarial network (GAN), a type of neural network that could generate realistic images from random noise using a game-theoretic framework.
+- In 2015, Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio proposed the attention mechanism, which could improve the performance of RNNs by allowing them to focus on relevant parts of the input and output sequences.
+- In 2017, Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin introduced the transformer, a type of neural network that could encode and decode sequences using only attention layers, without any recurrence or convolution.
+- In 2018, Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever developed the generative pre-trained

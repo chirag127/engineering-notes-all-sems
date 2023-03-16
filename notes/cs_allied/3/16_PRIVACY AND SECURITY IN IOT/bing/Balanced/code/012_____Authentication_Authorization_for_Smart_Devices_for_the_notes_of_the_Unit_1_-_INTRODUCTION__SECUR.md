@@ -1,0 +1,10 @@
+### Authentication/Authorization for Smart Devices
+
+- Authentication is the process of verifying the identity of a device or a user, while authorization is the process of granting permissions to a device or a user to access certain resources or perform certain actions.
+- Authentication and authorization are essential for securing the Internet of Things (IoT), which consists of a large number of interconnected devices that collect, process and exchange data.
+- Authentication and authorization can be implemented at different levels of the IoT architecture, such as device, network, cloud and application level.
+- Some of the common methods of authentication and authorization for smart devices are:
+
+  - Device code flow: This method is suitable for devices that have limited input capabilities, such as smart TVs, game consoles and printers. The device displays a code and a URL to the user, who then uses another device (such as a smartphone or a computer) to visit the URL and enter the code. The user then signs in with their credentials and grants permission to the device. The device then receives an access token from the authorization server and can use it to access the protected resources.
+  - Multi-factor authentication (MFA): This method requires the user to provide more than one piece of evidence to prove their identity, such as a password, a PIN, a biometric feature, a one-time code or a device certificate. MFA can enhance the security of smart devices by preventing unauthorized access and unwanted actions, even if the user's credentials are compromised.
+  - Mobile authenticator app: This method uses a smartphone app to generate or receive codes that can be used to sign in to online accounts or smart devices. The app can also support passwordless sign-in or password autofill features, which can improve the user experience and convenience. Some examples of mobile authenticator apps are Microsoft Authenticator, Google Authenticator and Authy.

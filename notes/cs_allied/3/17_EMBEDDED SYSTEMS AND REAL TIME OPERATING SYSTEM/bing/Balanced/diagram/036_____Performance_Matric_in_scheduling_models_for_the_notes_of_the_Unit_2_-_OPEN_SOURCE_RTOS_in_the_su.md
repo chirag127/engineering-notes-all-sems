@@ -1,0 +1,22 @@
+### Performance Metrics in Scheduling Models for Open Source RTOS
+
+- Performance metrics are the criteria used to evaluate and compare the performance of real-time operating systems (RTOS) in terms of meeting the timing requirements of the system.
+- Scheduling models are the algorithms and policies used by the RTOS to manage the execution of tasks and allocate the CPU resources among them.
+- Open source RTOS are the RTOS that are freely available and can be modified and distributed by anyone under certain licenses.
+- Some of the common performance metrics for RTOS are:
+  - Memory footprint: the amount of ROM and RAM needed by the RTOS kernel and the application. It affects the cost and power consumption of the system.
+  - Latency: the delay between an event occurrence and the response of the system. It includes interrupt latency, context switch latency, and scheduling latency. It affects the predictability and responsiveness of the system.
+  - Throughput: the amount of work done by the system in a given time. It depends on the CPU utilization and the task execution time. It affects the efficiency and productivity of the system.
+  - Reliability: the ability of the system to perform correctly and consistently under different conditions. It depends on the fault tolerance and error handling mechanisms of the RTOS. It affects the safety and quality of the system.
+  - Scalability: the ability of the system to adapt to changes in the workload and the hardware resources. It depends on the flexibility and configurability of the RTOS. It affects the maintainability and extensibility of the system.
+- Some of the common scheduling models for RTOS are:
+  - Preemptive scheduling: the RTOS can interrupt a running task and switch to a higher priority task at any time. It provides better responsiveness and predictability, but higher overhead and complexity.
+  - Non-preemptive scheduling: the RTOS can only switch to a higher priority task when the current task finishes or blocks. It provides lower overhead and complexity, but worse responsiveness and predictability.
+  - Fixed priority scheduling: the RTOS assigns a fixed priority to each task and always executes the highest priority task that is ready. It is simple and widely used, but may suffer from priority inversion and starvation problems.
+  - Dynamic priority scheduling: the RTOS assigns a dynamic priority to each task based on some criteria, such as deadline, execution time, or resource requirements. It can improve the system performance, but may incur higher overhead and complexity.
+  - Cooperative scheduling: the RTOS does not enforce any scheduling policy, but relies on the tasks to voluntarily yield the CPU when they are done or waiting. It provides high flexibility and low overhead, but requires careful design and coordination of the tasks.
+- Some of the popular open source RTOS are:
+  - FreeRTOS: a lightweight and portable RTOS that supports preemptive and cooperative scheduling, fixed priority scheduling, and various synchronization and communication mechanisms. It is widely used in embedded systems and IoT devices.
+  - Linux: a general-purpose operating system that supports preemptive scheduling, dynamic priority scheduling, and various features and services. It can be configured and customized to run as an RTOS with real-time extensions and patches.
+  - Zephyr: a scalable and modular RTOS that supports preemptive and cooperative scheduling, fixed and dynamic priority scheduling, and various protocols and standards. It is designed for resource-constrained and connected devices.
+  - RT-Thread: a rich and easy-to-use RTOS that supports preemptive scheduling, fixed priority scheduling, and various components and libraries. It is suitable for complex and diverse applications.

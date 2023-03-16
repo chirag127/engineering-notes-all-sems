@@ -1,0 +1,15 @@
+### Vulnerabilities for the notes of the Unit 1 - INTRODUCTION: SECURING THE INTERNET OF THINGS in the subject of PRIVACY AND SECURITY IN IOT
+
+- Vulnerabilities are weaknesses or flaws that can be exploited by attackers to compromise the confidentiality, integrity, or availability of IoT devices or systems.
+- Some of the common vulnerabilities in IoT are:
+
+  - A shaky web interface: Many IoT devices have a built-in web server that hosts a web application for managing them. This web interface may have vulnerabilities such as weak or default credentials, cross-site scripting, SQL injection, or lack of input validation that can allow attackers to gain access to the device or its data.
+  - Improper usage of authentication or authorization mechanisms: Some IoT devices may not implement proper authentication or authorization mechanisms to verify the identity and permissions of users or devices. This can lead to unauthorized access, privilege escalation, or impersonation attacks.
+  - Insecure network services: Some IoT devices may expose network services that are not needed or not secured properly. These services may have vulnerabilities such as buffer overflows, denial-of-service, or remote code execution that can allow attackers to crash the device, execute arbitrary commands, or take over the device.
+  - An absence of transport layer encryption: Some IoT devices may not encrypt the data they transmit or receive over the network. This can allow attackers to intercept, modify, or steal the data, or perform man-in-the-middle attacks.
+  - Privacy issues: Some IoT devices may collect, store, or share sensitive or personal data of users or devices without their consent or knowledge. This can violate the privacy rights of users or devices, or expose them to identity theft, fraud, or blackmail.
+  - Unreliable cloud interface: Some IoT devices may rely on cloud services for data storage, processing, or communication. These cloud services may have vulnerabilities such as insecure APIs, misconfigured access controls, or data breaches that can affect the security and privacy of the IoT devices or systems.
+  - Unreliable mobile interface: Some IoT devices may use mobile applications for remote control or monitoring. These mobile applications may have vulnerabilities such as insecure data storage, weak encryption, or malicious code that can compromise the security and privacy of the IoT devices or systems.
+  - Inadequate security features: Some IoT devices may not have adequate security features such as firmware updates, anti-virus, firewalls, or logging that can help prevent, detect, or mitigate attacks.
+  - Low computational power and hardware limitations: Some IoT devices may have low computational power and hardware limitations that prevent them from implementing built-in security features or running complex security algorithms.
+  - Supply chain vulnerabilities: Some IoT devices may be compromised during the manufacturing, distribution, or installation process by malicious actors who can insert backdoors, malware, or spyware into the devices or systems.

@@ -1,0 +1,9 @@
+### Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence refers to the ability of a system to retain data even after the system is shut down or restarted.
+- In the context of wearable computing, mixed reality, and the Internet of Everything, data persistence is important for ensuring that user data is not lost and can be accessed across multiple devices and sessions.
+- There are several methods for achieving data persistence, including storing data on a local device, using cloud storage, or using a combination of both.
+- Local storage involves saving data directly on the device, such as on a hard drive or solid-state drive. This method is fast and reliable, but can be limited by the storage capacity of the device.
+- Cloud storage involves saving data on remote servers, which can be accessed from any device with an internet connection. This method is more flexible and scalable, but can be slower and less reliable than local storage.
+- A combination of local and cloud storage can provide the best of both worlds, allowing for fast and reliable access to frequently used data, while also providing the flexibility and scalability of cloud storage for larger or less frequently accessed data.
+- In the context of wearable computing, mixed reality, and the Internet of Everything, data persistence is essential for providing a seamless and consistent user experience across multiple devices and sessions. It allows users to access their data and continue their interactions with the system, regardless of where they are or what device they are using.

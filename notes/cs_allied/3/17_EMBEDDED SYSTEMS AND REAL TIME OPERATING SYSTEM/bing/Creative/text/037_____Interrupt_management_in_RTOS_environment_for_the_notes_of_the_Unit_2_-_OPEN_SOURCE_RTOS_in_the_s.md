@@ -1,0 +1,26 @@
+### Interrupt management in RTOS environment
+
+- Interrupts are events that occur asynchronously and require immediate attention from the processor.
+- Interrupts can be triggered by external devices, such as sensors, timers, or communication interfaces, or by internal sources, such as software exceptions or system calls.
+- Interrupts can improve the responsiveness and efficiency of an embedded system, but they can also introduce challenges and complexities, especially when using a real-time operating system (RTOS).
+- An RTOS is a software layer that provides services for managing tasks, resources, synchronization, and communication in a real-time system.
+- An RTOS typically uses a scheduler to determine which task should run at any given time, based on their priorities and deadlines.
+- An RTOS also provides mechanisms for tasks to communicate and synchronize with each other, such as queues, semaphores, mutexes, and events.
+- When an interrupt occurs, the processor suspends the current task and jumps to a predefined address, where an interrupt service routine (ISR) is located.
+- An ISR is a special function that handles the interrupt source and performs the necessary actions, such as reading or writing data, clearing flags, or sending signals.
+- An ISR should be as short and simple as possible, to minimize the interrupt latency and the impact on the RTOS scheduler and other tasks.
+- Interrupt latency is the time between the occurrence of an interrupt and the execution of the ISR.
+- Interrupt latency can be affected by several factors, such as the processor architecture, the interrupt controller, the interrupt priority, the interrupt nesting, and the RTOS configuration.
+- Interrupt nesting is the ability of the processor to handle multiple interrupts at the same time, by allowing higher priority interrupts to preempt lower priority ones.
+- Interrupt nesting can reduce the interrupt latency for critical interrupts, but it can also increase the stack usage and the complexity of the ISR code.
+- When using an RTOS, the ISR should not perform any complex or time-consuming operations, such as memory allocation, file access, or blocking calls.
+- Instead, the ISR should defer most of the processing to another thread, such as a task, by using the RTOS services, such as queues, semaphores, or events.
+- This way, the ISR can return quickly and allow the RTOS scheduler to resume the normal execution of tasks, while the deferred processing can be done at a lower priority and with proper synchronization.
+- The RTOS also provides mechanisms for managing the interaction between interrupts and tasks, such as critical sections, interrupt-safe APIs, and context switching.
+- A critical section is a code segment that should not be interrupted by other tasks or interrupts, to avoid data corruption or inconsistency.
+- A critical section can be protected by disabling interrupts, using the RTOS APIs, or using hardware locks, depending on the RTOS and the processor.
+- An interrupt-safe API is a function that can be safely called from an ISR, without causing any problems for the RTOS or other tasks.
+- An interrupt-safe API typically uses atomic operations, non-blocking algorithms, or special data structures, to ensure the correctness and consistency of the RTOS services.
+- A context switch is the process of saving the state of the current task and restoring the state of another task, when the RTOS scheduler decides to switch the execution from one task to another.
+- A context switch can also occur when an ISR signals a task that has a higher priority than the current task, causing the RTOS scheduler to preempt the current task and resume the signaled task.
+- A context switch can be costly in terms of time and memory, so it should be avoided or minimized when possible, by using appropriate interrupt priorities, task priorities, and RTOS configuration options.

@@ -1,0 +1,13 @@
+# I/O Systems
+
+- I/O systems are the components that enable an embedded system to interact with the external world, such as sensors, actuators, displays, keyboards, etc.
+- I/O systems can be classified into two types: parallel and serial.
+- Parallel I/O systems transfer multiple bits of data simultaneously using multiple wires or pins. They are faster but require more hardware resources and wiring complexity. Examples of parallel I/O systems are GPIO (General Purpose Input/Output), LCD (Liquid Crystal Display), etc.
+- Serial I/O systems transfer one bit of data at a time using one or two wires or pins. They are slower but require less hardware resources and wiring complexity. Examples of serial I/O systems are UART (Universal Asynchronous Receiver/Transmitter), SPI (Serial Peripheral Interface), I2C (Inter-Integrated Circuit), USB (Universal Serial Bus), etc.
+- I/O systems can also be classified into two modes: polling and interrupt.
+- Polling mode is when the embedded system continuously checks the status of the I/O device to see if there is any data available or any action required. Polling mode is simple but consumes more CPU time and power. It can also cause delays or missed events if the polling frequency is not high enough.
+- Interrupt mode is when the embedded system is notified by the I/O device when there is any data available or any action required. Interrupt mode is complex but saves CPU time and power. It can also handle events more promptly and reliably. However, interrupt mode can cause concurrency issues or priority inversion if the interrupt handlers are not well designed.
+- I/O systems can also be classified into two types: synchronous and asynchronous.
+- Synchronous I/O systems are those that operate at a fixed or predetermined rate or frequency. They are easier to program and synchronize but require more accurate timing and clock signals. Examples of synchronous I/O systems are SPI, I2C, etc.
+- Asynchronous I/O systems are those that operate at a variable or unpredictable rate or frequency. They are harder to program and synchronize but require less accurate timing and clock signals. Examples of asynchronous I/O systems are UART, USB, etc.
+- I/O systems are essential for embedded systems and real time operating systems (RTOS) to perform their specific functions in a much larger system. RTOS are operating systems that provide deterministic and timely responses to events or tasks. RTOS can handle multiple I/O devices and prioritize them according to their importance or urgency. RTOS can also provide features such as multitasking, inter-task communication, synchronization, memory management, etc. for embedded systems. Examples of RTOS are FreeRTOS, VxWorks, QNX, etc.

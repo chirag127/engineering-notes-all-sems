@@ -1,0 +1,37 @@
+### Overview of POSIX APIs
+
+- POSIX stands for **Portable Operating System Interface** and it is a family of standards specified by IEEE for maintaining compatibility among operating systems.
+- POSIX defines both the system and user-level application programming interfaces (APIs), along with command line shells and utility interfaces, for software compatibility (portability) with variants of Unix and other operating systems.
+- POSIX is also a trademark of the IEEE and it is intended to be used by both application and system developers.
+- POSIX APIs are divided into several categories, such as:
+  - Process control: creating, terminating, and synchronizing processes, signals, timers, etc.
+  - File and directory operations: opening, closing, reading, writing, and manipulating files and directories, permissions, etc.
+  - Input/output: standard input, output, and error streams, pipes, sockets, terminals, etc.
+  - Device control: accessing and controlling devices, such as disks, tapes, printers, etc.
+  - Information and status: getting and setting information about the system, processes, files, etc.
+  - Memory management: allocating, freeing, and protecting memory, shared memory, etc.
+  - Threads: creating, terminating, and synchronizing threads, mutexes, condition variables, etc.
+  - Scheduling: setting and getting scheduling policies and parameters, priorities, etc.
+  - Interprocess communication: message queues, semaphores, shared memory, etc.
+  - Network services: sockets, protocols, address resolution, etc.
+  - Internationalization: character sets, locales, collation, etc.
+  - Database functions: accessing and manipulating records, cursors, etc.
+  - Cryptography: encryption, decryption, hashing, etc.
+- POSIX APIs are defined in a series of standards, such as:
+  - POSIX.1: Core Services
+  - POSIX.1b: Real-time Extensions
+  - POSIX.1c: Threads Extensions
+  - POSIX.1d: Additional Real-time Extensions
+  - POSIX.1j: Advanced Real-time Extensions
+  - POSIX.2: Shell and Utilities
+  - POSIX.4: Application Environment Profile
+  - POSIX.5: Ada Language Interfaces
+  - POSIX.6: Security Extensions
+  - POSIX.7: System Administration
+  - POSIX.8: Additional System Services
+  - POSIX.9: FORTRAN Language Interfaces
+  - POSIX.10: Supercomputing Application Environment Profile
+  - POSIX.13: User Portability Extension
+  - POSIX.15: Test Methods for Measuring Conformance
+- POSIX APIs are implemented by various operating systems, such as Linux, macOS, BSD, Solaris, etc. Some operating systems, such as Windows, provide partial or optional support for POSIX APIs through subsystems or libraries.
+- POSIX APIs are widely used by IoT and embedded applications, as they offer a familiar and portable API to developers, especially from Linux. Some examples of POSIX-compliant embedded operating systems are Zephyr, AWS:FreeRTOS, TI-RTOS, and NuttX.

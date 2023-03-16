@@ -1,0 +1,25 @@
+## Unit 4 - Privacy Preservation and Trust Models for IoT
+
+- Internet of Things (IoT) is a network of interconnected devices that can collect, process, and share data with each other and with other entities.
+- Privacy preservation and trust models are essential for ensuring the security and reliability of IoT applications and services, as well as the protection of users' personal and sensitive data.
+- Privacy preservation techniques aim to prevent unauthorized access, disclosure, or inference of users' data, while preserving the utility and functionality of IoT systems.
+- Trust models aim to evaluate the trustworthiness and reputation of IoT devices, users, and services, based on their behavior, performance, and feedback.
+- Some of the challenges and open issues in privacy preservation and trust models for IoT are:
+  - The heterogeneity and diversity of IoT devices, platforms, and applications, which require interoperable and scalable solutions.
+  - The resource constraints and dynamic nature of IoT devices, which limit the computational and communication capabilities and affect the availability and reliability of IoT systems.
+  - The trade-off between privacy and utility, which requires balancing the level of data obfuscation and aggregation with the quality of service and user satisfaction.
+  - The lack of common standards and regulations for privacy and trust in IoT, which may lead to inconsistent and conflicting policies and practices across different domains and jurisdictions.
+- Some of the existing and proposed solutions for privacy preservation and trust models for IoT are:
+  - Encryption and decryption techniques, which use cryptographic algorithms to protect the confidentiality and integrity of data in transit and at rest .
+  - Differential privacy techniques, which add random noise to data to prevent the identification of individual records or attributes, while preserving the statistical properties of the data.
+  - Functional encryption techniques, which allow selective access to encrypted data based on the function or role of the requester.
+  - Information relevance techniques, which filter and rank the data based on the context and preferences of the user.
+  - Contextual privacy perception techniques, which adapt the privacy level based on the user's perception and expectation of privacy in different situations.
+  - Interaction-based privacy protection techniques, which monitor and control the interactions between IoT devices and users, and restrict or neutralize the non-authorized operations.
+  - Privacy monitoring techniques, which detect and report the privacy violations and risks in IoT systems, and provide feedback and guidance to the users.
+  - Privacy-preserving communication protocols, which use chaos-based cryptographic schemes and message authentication codes to secure the data transmission and authentication in IoT networks.
+  - Balance privacy-preserving data aggregation techniques, which use slicing and mixing methods to anonymize and aggregate the data from multiple IoT devices, while minimizing the information loss.
+  - Identity-based encryption techniques, which use the identity of the user or device as the public key to encrypt and decrypt the data, and avoid the need for certificate management.
+  - Trust evaluation techniques, which use various metrics and methods to measure and compute the trust value of IoT devices, users, and services, based on their attributes, behavior, and feedback .
+  - Trust management techniques, which use various mechanisms and policies to establish, maintain, and update the trust relationships among IoT entities, and to handle the trust dynamics and uncertainties .
+  - Trust-based privacy preservation techniques, which use the trust value as a criterion to determine the level of data disclosure and protection, and to enhance the privacy and utility trade-off.
