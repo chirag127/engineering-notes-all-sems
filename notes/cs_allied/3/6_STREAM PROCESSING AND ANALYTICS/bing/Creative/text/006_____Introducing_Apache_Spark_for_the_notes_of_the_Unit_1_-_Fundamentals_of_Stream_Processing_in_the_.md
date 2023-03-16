@@ -1,0 +1,9 @@
+### Introducing Apache Spark
+
+- Apache Spark is an open-source, distributed computing framework that provides a unified platform for large-scale data processing, streaming, machine learning, and graph analytics.
+- Apache Spark consists of four main components: Spark Core, Spark SQL, Spark Streaming, and Spark MLlib.
+- Spark Core is the foundational layer that provides the basic functionality of Spark, such as distributed task scheduling, memory management, fault tolerance, and data abstraction.
+- Spark SQL is a module that enables users to query structured and semi-structured data using SQL or a DataFrame API, which is similar to Pandas or R data frames. Spark SQL also supports various data sources, such as Hive, Parquet, JSON, and JDBC.
+- Spark Streaming is a module that enables users to process real-time data streams from various sources, such as Kafka, Flume, Twitter, and socket. Spark Streaming provides high-level abstractions, such as discretized streams (DStreams) and structured streaming, to simplify the development of streaming applications.
+- Spark MLlib is a module that provides scalable and distributed machine learning algorithms and utilities, such as classification, regression, clustering, recommendation, feature extraction, and dimensionality reduction. Spark MLlib also supports a pipeline API that allows users to chain multiple transformers and estimators to build complex machine learning workflows.
+- Apache Spark can run on various cluster managers, such as Hadoop YARN, Apache Mesos, and Kubernetes, or in a standalone mode. Spark also supports multiple programming languages, such as Scala, Python, Java, and R.

@@ -1,0 +1,14 @@
+### Nested and semantic data models
+
+- Nested data models are a way of representing hierarchical data structures, such as trees or graphs, in a relational database. Nested data models allow data to be grouped into nested sets or nested lists, where each set or list can contain other sets or lists as elements. Nested data models can be useful for storing and querying data that has a recursive or nested structure, such as XML documents, JSON objects, or organizational charts.
+- Semantic data models are a way of representing the meaning and relationships of data in a database, using concepts and rules from a specific domain or application. Semantic data models can capture the entities, attributes, and relationships of a domain, as well as the constraints, rules, and operations that apply to them. Semantic data models can be useful for integrating and querying data from multiple sources, as well as for supporting natural language processing, reasoning, and inference.
+- Some of the differences between nested and semantic data models are:
+
+  - Nested data models focus on the structure and organization of data, while semantic data models focus on the meaning and interpretation of data.
+  - Nested data models are based on mathematical concepts, such as sets and lists, while semantic data models are based on logical concepts, such as entities and relationships.
+  - Nested data models are more suitable for storing and querying data that has a hierarchical or recursive structure, while semantic data models are more suitable for storing and querying data that has a complex or heterogeneous structure.
+  - Nested data models are more efficient and compact for storing data, while semantic data models are more expressive and flexible for querying data.
+  - Nested data models are more compatible with relational databases, while semantic data models are more compatible with non-relational databases.
+
+- A semantic layer is a component of a data and analytics stack that provides a unified and consistent view of data across multiple sources and types, using a semantic data model. A semantic layer can abstract the complexity and diversity of data sources and types, and provide a simple and intuitive interface for users to access and analyze data. A semantic layer can also support data governance, security, and quality, by enforcing rules and policies on data access and usage .
+- A semantic layer can be used in conjunction with nested data models, to provide a richer and more meaningful representation of data. For example, a semantic layer can map the nested sets or lists of data to entities and relationships in a domain, and provide natural language queries and answers for users. A semantic layer can also leverage the nested structure of data to perform efficient and scalable queries and operations on data.

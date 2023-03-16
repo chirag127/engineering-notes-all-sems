@@ -1,0 +1,10 @@
+### Comparison with other data models
+
+- Semantic data models are a type of conceptual data models that aim to capture the meaning and structure of data in a domain.
+- Semantic data models differ from other data models, such as relational, hierarchical, network, or object-oriented, in several aspects:
+  - Semantic data models support **relationships** as first-class citizens, meaning that they can have properties, constraints, and inheritance. Other data models treat relationships as secondary or derived constructs, such as foreign keys, pointers, or references.
+  - Semantic data models support **data abstraction**, meaning that they can define complex data types, such as sets, lists, or records, and hide their implementation details. Other data models rely on primitive data types, such as integers, strings, or booleans, and expose their physical representation.
+  - Semantic data models support **inheritance**, meaning that they can define subtypes and supertypes of entities and relationships, and inherit their properties and constraints. Other data models do not have a direct mechanism for modeling generalization and specialization hierarchies.
+  - Semantic data models support **constraints**, meaning that they can specify rules and conditions that must hold for the data to be valid and consistent. Other data models either have limited or no support for constraints, or delegate them to external procedures or triggers.
+  - Semantic data models support **unstructured objects**, meaning that they can accommodate data that does not have a fixed schema or structure, such as documents, images, or videos. Other data models require data to conform to a predefined schema or structure, or store unstructured data as binary blobs or text.
+  - Semantic data models support **dynamic properties**, meaning that they can capture the changes and evolution of data over time, such as history, versions, or states. Other data models assume that data is static or immutable, or handle dynamic properties as separate tables or attributes.

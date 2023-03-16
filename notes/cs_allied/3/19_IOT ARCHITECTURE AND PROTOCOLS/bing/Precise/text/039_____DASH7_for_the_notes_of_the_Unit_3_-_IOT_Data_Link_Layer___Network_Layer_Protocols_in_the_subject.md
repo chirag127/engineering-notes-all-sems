@@ -1,0 +1,5 @@
+### DASH7
+
+DASH7 is a communication protocol that uses active RFID and is designed to be used within Industrial IoT applications for secure long-range communication. It is more scalable, has greater network coverage, and greater data rates compared to Zigbee. It is not only a physical and MAC layer protocol but also includes IPv6 addressing for the network layer. The protocol uses unique identifiers along with 16-bit network identifiers for addressing in the IoT network   .
+
+DASH7 Alliance Protocol originates from the ISO/IEC 18000-7 standard describing a 433 MHz ISM band air interface for active RFID. This standard was mainly used for military logistics. The DASH7 Alliance re-purposed the original 18000-7 technology in 2011 and made it evolve toward a wireless sensor network technology for commercial applications .

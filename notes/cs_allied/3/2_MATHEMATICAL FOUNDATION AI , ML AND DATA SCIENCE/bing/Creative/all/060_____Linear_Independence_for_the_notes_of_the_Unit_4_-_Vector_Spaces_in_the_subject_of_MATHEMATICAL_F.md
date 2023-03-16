@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of linear independence for the unit 4 - vector spaces in the subject of mathematical foundation for AI, ML and data science.
+
+# Linear Independence
+
+- A set of vectors is said to be **linearly independent** if none of the vectors can be written as a linear combination of the others.
+- In other words, a set of vectors is linearly independent if the only solution to the equation $c_1\vec{v}_1 + c_2\vec{v}_2 + \cdots + c_n\vec{v}_n = \vec{0}$ is $c_1 = c_2 = \cdots = c_n = 0$, where $c_i$ are scalars and $\vec{v}_i$ are vectors.
+- A set of vectors that is not linearly independent is called **linearly dependent**. This means that at least one of the vectors can be expressed as a linear combination of the others, or equivalently, that there exists a non-trivial solution to the equation $c_1\vec{v}_1 + c_2\vec{v}_2 + \cdots + c_n\vec{v}_n = \vec{0}$, where $c_i$ are scalars and $\vec{v}_i$ are vectors.
+- Linear independence is a property of a set of vectors, not of a single vector. A single vector is always linearly independent, unless it is the zero vector, in which case it is linearly dependent on any other vector.
+- Linear independence is also a property of a set of functions, matrices, polynomials, or any other objects that can be added and multiplied by scalars. The definition is the same as for vectors, except that the zero vector is replaced by the zero function, matrix, polynomial, etc.
+- Linear independence is an important concept in linear algebra, as it allows us to determine the **dimension** of a vector space, the **basis** of a vector space, the **rank** of a matrix, the **nullity** of a matrix, and the **solvability** of a system of linear equations, among other things.

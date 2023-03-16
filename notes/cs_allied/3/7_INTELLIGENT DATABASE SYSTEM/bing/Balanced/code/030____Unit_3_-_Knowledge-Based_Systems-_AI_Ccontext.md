@@ -1,0 +1,21 @@
+# Unit 3 - Knowledge-Based Systems - AI Context
+
+- A knowledge-based system (KBS) is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making .
+- A KBS stores knowledge in the form of rules, facts, concepts, or other representations, which are then used to generate solutions to specific problems .
+- A KBS consists of two main components: a knowledge base and an inference engine .
+  - A knowledge base is a collection of knowledge that is relevant to a specific problem domain, such as medicine, law, engineering, etc.
+  - An inference engine is a software program that applies logical rules and reasoning methods to the knowledge base to derive new knowledge or conclusions.
+- A KBS can have different types and uses, depending on the nature and complexity of the problem domain and the knowledge representation .
+  - Some common types of KBS are expert systems, case-based reasoning systems, rule-based systems, ontology-based systems, etc.
+  - Some common uses of KBS are diagnosis, planning, scheduling, design, configuration, tutoring, etc.
+- A KBS can have various advantages and disadvantages, depending on the quality and quantity of the knowledge, the efficiency and accuracy of the inference engine, and the usability and reliability of the system .
+  - Some advantages of KBS are:
+    - They can provide consistent and objective solutions to complex and ill-structured problems.
+    - They can preserve and reuse the knowledge of human experts, who may be scarce, expensive, or unavailable.
+    - They can enhance human learning and performance, by providing explanations, feedback, and guidance.
+    - They can reduce the cost and time of problem-solving, by automating and speeding up the reasoning process.
+  - Some disadvantages of KBS are:
+    - They can be difficult and costly to develop, maintain, and update, due to the dynamic and uncertain nature of knowledge.
+    - They can be limited and biased by the scope and quality of the knowledge base, which may not cover all possible scenarios or exceptions.
+    - They can be prone to errors and inconsistencies, due to the limitations and assumptions of the inference engine, which may not account for all logical or probabilistic factors.
+    - They can be misunderstood or misused by the users, due to the lack of transparency, trust, or interaction of the system.

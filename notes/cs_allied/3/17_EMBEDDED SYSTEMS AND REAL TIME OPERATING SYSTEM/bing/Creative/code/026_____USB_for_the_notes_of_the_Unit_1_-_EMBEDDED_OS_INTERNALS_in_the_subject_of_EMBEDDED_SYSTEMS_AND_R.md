@@ -1,0 +1,22 @@
+### USB
+
+- USB stands for **Universal Serial Bus**, a standardized technology for attaching peripheral devices to a computer  .
+- USB enables communication between devices and a host controller such as a personal computer (PC) or smartphone.
+- USB connects peripheral devices such as digital cameras, mice, keyboards, printers, scanners, media devices, external hard drives and flash drives .
+- USB establishes specifications for cables, connectors and protocols for connection, communication and power supply (interfacing) between computers, peripherals and other computers.
+- USB was first introduced in 1996 by a number of American companies, including IBM, Intel Corporation, and Microsoft Corporation, as a simpler way of connecting hardware to personal computers (PCs).
+- USB has several versions, such as USB 1.0, USB 2.0, USB 3.0, USB 3.1, USB 3.2, USB 4.0, each with different data transfer rates, power delivery, and compatibility.
+- USB supports **plug and play**, which means that devices can be connected and disconnected without restarting the computer or installing drivers.
+- USB also supports **hot swapping**, which means that devices can be replaced without shutting down the system.
+- USB devices can be connected in a **daisy chain**, which means that multiple devices can be linked together using a single port on the computer.
+- USB devices can also be connected using a **hub**, which is a device that expands a single USB port into several ports.
+- USB devices are classified into different **device classes**, such as human interface devices (HID), mass storage devices (MSD), audio devices, video devices, etc., which define the functionality and behavior of the devices.
+- USB devices communicate with the host controller using **packets**, which are units of data that contain information such as device address, endpoint number, data length, data payload, etc.
+- USB devices have one or more **endpoints**, which are logical entities within the device that send or receive data.
+- USB devices have one or more **configurations**, which are sets of endpoints and their attributes that define how the device operates.
+- USB devices have one or more **interfaces**, which are groups of endpoints that perform a specific function.
+- USB devices have one or more **alternate settings**, which are different modes of operation for an interface.
+- USB devices have one or more **descriptors**, which are data structures that provide information about the device, such as vendor ID, product ID, device class, configuration, interface, endpoint, etc.
+- USB devices use **standard requests** and **class-specific requests** to communicate with the host controller and perform various operations, such as enumeration, configuration, data transfer, power management, etc.
+- USB devices can operate in different **power modes**, such as suspended, active, and remote wakeup, to conserve power and resume operation when needed.
+- USB devices can also support **isochronous transfer**, which is a type of data transfer that guarantees a fixed bandwidth and a constant delivery rate, such as for audio and video streaming.

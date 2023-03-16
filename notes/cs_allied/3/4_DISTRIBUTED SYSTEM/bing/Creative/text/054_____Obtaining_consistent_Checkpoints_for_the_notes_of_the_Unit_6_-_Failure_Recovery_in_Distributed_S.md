@@ -1,0 +1,30 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- A failure in a distributed system can be caused by various factors, such as hardware faults, software bugs, network errors, malicious attacks, power outages, etc.
+- A failure can affect one or more components of the system, such as processes, messages, links, or nodes.
+- A failure can have different consequences, such as data loss, data corruption, performance degradation, service unavailability, or inconsistency.
+- To recover from a failure, the system needs to detect the failure, identify the cause and location of the failure, and restore the system to a consistent and correct state.
+- One of the common techniques for failure recovery in distributed systems is checkpointing .
+- Checkpointing is the process of periodically saving the state of the system or its components to a stable storage, such as a disk or a cloud service.
+- Checkpointing can be done at different levels, such as process level, node level, or system level.
+- Checkpointing can be done in different ways, such as synchronous, asynchronous, coordinated, or uncoordinated.
+- Checkpointing can help the system to recover from a failure by restoring the system or its components to the last saved state, and then replaying the messages or events that occurred after the checkpoint.
+- However, checkpointing also has some challenges, such as how to ensure the consistency of the checkpoints, how to minimize the overhead of checkpointing, how to coordinate the checkpointing among different components, and how to handle concurrent or cascading failures .
+- To ensure the consistency of the checkpoints, the system needs to ensure that the checkpoints reflect a global state of the system that is reachable and valid.
+- A global state of the system is a collection of the local states of all the components and the messages in transit among them.
+- A global state is reachable if it can be obtained by executing the system from some initial state.
+- A global state is valid if it does not violate any invariant or constraint of the system.
+- To ensure the consistency of the checkpoints, the system can use different algorithms, such as the Chandy-Lamport algorithm, the Lai-Yang algorithm, or the Manetho algorithm.
+- These algorithms use different mechanisms, such as message logging, message piggybacking, message ordering, or message vector clocks, to capture the global state of the system.
+- To minimize the overhead of checkpointing, the system can use different strategies, such as incremental checkpointing, selective checkpointing, or adaptive checkpointing .
+- Incremental checkpointing is the process of saving only the changes in the state since the last checkpoint, rather than the entire state.
+- Selective checkpointing is the process of saving only the state of some components, rather than all the components, based on some criteria, such as the frequency of failure, the importance of the component, or the dependency among the components.
+- Adaptive checkpointing is the process of adjusting the frequency or the granularity of the checkpointing based on some factors, such as the workload, the network condition, or the failure rate.
+- To coordinate the checkpointing among different components, the system can use different protocols, such as centralized, decentralized, or hierarchical protocols.
+- Centralized protocols use a single coordinator to initiate and control the checkpointing process among all the components.
+- Decentralized protocols use a distributed agreement or a leader election algorithm to coordinate the checkpointing process among all the components.
+- Hierarchical protocols use a tree structure or a cluster structure to divide the components into groups and coordinate the checkpointing process among the groups.
+- To handle concurrent or cascading failures, the system can use different techniques, such as fault masking, fault tolerance, or fault isolation .
+- Fault masking is the technique of hiding the failure from the users or the other components by providing an alternative service or a backup component.
+- Fault tolerance is the technique of continuing the service despite the failure by using redundancy or replication[^5^

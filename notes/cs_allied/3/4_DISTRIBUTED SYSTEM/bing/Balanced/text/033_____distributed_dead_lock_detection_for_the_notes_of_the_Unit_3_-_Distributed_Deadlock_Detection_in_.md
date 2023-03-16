@@ -1,0 +1,13 @@
+### Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set, and none of the processes can proceed or release the resources.
+- Distributed deadlocks can occur when distributed transactions or concurrency control are utilized in distributed systems.
+- Deadlock detection in distributed systems entails addressing two basic issues: detection of existing deadlocks and resolution of detected deadlocks.
+- Deadlock detection requires an examination of the status of the process-resource interactions for the presence of a cyclic wait.
+- There are three approaches to detect deadlocks in distributed systems: centralized, hierarchical, and distributed.
+- Centralized approach: A single node is designated as the deadlock detector and collects the local wait-for graphs from all the nodes and constructs a global wait-for graph to detect cycles.
+- Hierarchical approach: The nodes are organized into a hierarchy of clusters and each cluster has a coordinator that collects the local wait-for graphs from the nodes in the cluster and constructs a cluster wait-for graph. The coordinators communicate with each other to detect cycles in the global wait-for graph.
+- Distributed approach: There is no central coordinator or hierarchy of clusters. Each node communicates with other nodes to detect cycles in the global wait-for graph. There are two main techniques for distributed deadlock detection: edge chasing and diffusing computation.
+- Edge chasing: A node initiates a probe message that contains the identity of the initiator and the sequence of nodes and resources visited by the probe. The probe message is forwarded along the wait-for edges until it either reaches the initiator (deadlock detected) or a node that is not waiting for any resource (deadlock not detected).
+- Diffusing computation: A node initiates a computation that involves sending queries to the nodes that it is waiting for and receiving replies from them. The initiator maintains a counter that indicates the number of outstanding queries. When the counter reaches zero, the initiator either detects a deadlock (if it has not received a positive reply from any node) or terminates the computation (if it has received a positive reply from at least one node).
+- To resolve the deadlock, one or more processes involved in the cycle have to be aborted and their resources have to be released. The selection of the victim process can be based on criteria such as priority, execution time, number of resources, etc.

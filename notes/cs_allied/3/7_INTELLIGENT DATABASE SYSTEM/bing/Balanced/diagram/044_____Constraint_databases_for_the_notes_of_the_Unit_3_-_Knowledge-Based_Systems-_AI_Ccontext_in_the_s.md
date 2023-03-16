@@ -1,0 +1,24 @@
+### Constraint databases
+
+- Constraint databases are a type of database that use constraints to represent and query data.
+- Constraints are logical expressions that specify the properties or relationships of data values.
+- Constraint databases can store and manipulate data that is not easily represented by tables or tuples, such as geometric shapes, spatial regions, temporal intervals, or infinite sets.
+- Constraint databases provide extra expressive power over relational databases in a largely hidden way. They keep the view of the database for a user or application programmer almost as simple as in relational databases.
+- Constraint databases are shown to be powerful and simple tools for data modeling and querying in application areas -- such as environmental modeling, bioinformatics, and computer vision -- that are not suitable for relational databases.
+- Some examples of constraint databases are:
+  - GeoSQL: a constraint database system for spatial data that supports geometric operations and spatial queries.
+  - Tempura: a constraint database system for temporal data that supports temporal logic and temporal queries.
+  - CLP(Q,R): a constraint database system for rational and real numbers that supports arithmetic and algebraic operations and queries.
+- Constraint databases can be implemented using different techniques, such as:
+  - Constraint logic programming: a paradigm that combines logic programming and constraint solving.
+  - Constraint satisfaction: a technique that finds values for variables that satisfy a set of constraints.
+  - Constraint optimization: a technique that finds values for variables that optimize a given objective function subject to a set of constraints.
+- Constraint databases have some advantages and disadvantages, such as:
+  - Advantages:
+    - They can handle complex and heterogeneous data types and domains.
+    - They can express queries and constraints in a declarative and concise way.
+    - They can perform efficient and scalable query processing and optimization.
+  - Disadvantages:
+    - They may have high computational complexity and memory requirements.
+    - They may have limited support for updates and transactions.
+    - They may have difficulty in integrating with other database systems and standards.

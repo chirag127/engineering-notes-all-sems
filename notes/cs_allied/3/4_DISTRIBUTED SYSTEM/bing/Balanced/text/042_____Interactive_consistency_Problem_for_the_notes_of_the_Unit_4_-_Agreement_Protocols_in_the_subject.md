@@ -1,0 +1,10 @@
+### Interactive Consistency Problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Interactive consistency is the problem in which n distinct nodes, each having its own private value, where up to t may be Byzantine, run an algorithm that allows all non-faulty nodes to infer the values of each other node  .
+- Byzantine nodes are nodes that can behave arbitrarily, such as sending incorrect or conflicting messages, or remaining silent .
+- Interactive consistency is a generalization of distributed consensus, which is the problem of reaching agreement on a single value among n nodes, where up to t may be Byzantine .
+- Interactive consistency is also known as Byzantine generals problem, which is a metaphor for the situation where a group of generals must coordinate an attack or retreat, but some of them may be traitors who try to sabotage the plan .
+- Interactive consistency is relevant to critical applications that rely on the combination of the opinions of multiple peers to provide a service, such as fault-tolerant distributed systems, blockchain systems, or voting systems  .
+- Interactive consistency is a hard problem to solve, especially in asynchronous or partially synchronous systems, where there is no global clock or bounded message delays  .
+- Interactive consistency has some fundamental limitations, such as the impossibility of achieving it with less than 3t + 1 nodes, or the impossibility of achieving it deterministically in asynchronous systems  .
+- Interactive consistency can be achieved by using various algorithms, such as the original oral messages algorithm by Pease, Shostak and Lamport, which requires multiple rounds of message exchanges and exponential message complexity , or the more efficient algorithms based on broadcast and randomized Byzantine consensus, which require only a single synchronization barrier and polynomial message complexity .

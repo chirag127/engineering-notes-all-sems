@@ -1,0 +1,25 @@
+# Temporal Query Languages
+
+- A temporal query language is a database query language that offers some form of built-in support for the querying and modification of time-referenced data, as well as enabling the specification of assertions and constraints on such data.
+- Temporal query languages can be used to manipulate data that has temporal aspects, such as historical records, events, transactions, sensor readings, or temporal blockchains.
+- Temporal query languages can be classified into two main categories: calculus-based and algebra-based.
+  - Calculus-based temporal query languages use logical formulas to express queries over temporal data. Examples of calculus-based temporal query languages are first-order temporal logic (FOTL), temporal relational calculus (TRC), and temporal SQL (TSQL).
+  - Algebra-based temporal query languages use operators and expressions to manipulate temporal data. Examples of algebra-based temporal query languages are temporal relational algebra (TRA), temporal relational model (TRM), and temporal stream query language (TSQ).
+- Temporal query languages can also be distinguished by the type of temporal data they support: valid-time, transaction-time, or bitemporal.
+  - Valid-time temporal query languages deal with data that is valid or true at some point or interval in the real world. For example, a valid-time query can ask for the salary of an employee during a certain period of employment.
+  - Transaction-time temporal query languages deal with data that is recorded or stored at some point or interval in the database system. For example, a transaction-time query can ask for the history of changes made to a record in the database.
+  - Bitemporal temporal query languages deal with data that has both valid-time and transaction-time dimensions. For example, a bitemporal query can ask for the salary of an employee as it was recorded at a certain point in the database, and as it was valid at a certain point in the real world.
+- Temporal query languages can provide various features and functionalities, such as temporal selection, projection, join, aggregation, grouping, ordering, negation, quantification, and temporal operators.
+  - Temporal selection allows filtering temporal data based on some condition involving time attributes or values.
+  - Temporal projection allows extracting some attributes or values from temporal data, possibly changing their temporal granularity or representation.
+  - Temporal join allows combining temporal data from different sources or relations, based on some temporal condition or alignment.
+  - Temporal aggregation allows summarizing temporal data by applying some function or operation over a set of temporal values or intervals.
+  - Temporal grouping allows partitioning temporal data into subsets based on some temporal criterion or attribute.
+  - Temporal ordering allows sorting temporal data according to some temporal criterion or attribute.
+  - Temporal negation allows expressing queries that involve the absence or non-existence of temporal data or events.
+  - Temporal quantification allows expressing queries that involve the existence or frequency of temporal data or events over some temporal domain or scope.
+  - Temporal operators allow manipulating temporal data or intervals by applying some temporal logic or algebra, such as temporal intersection, union, difference, complement, or temporal modalities.
+- Temporal query languages can be implemented using various approaches, such as extending existing query languages (e.g., SQL), developing new query languages (e.g., Trill), or using temporal annotations or metadata (e.g., RDF) .
+  - Extending existing query languages involves adding temporal features or constructs to a standard or widely used query language, such as SQL. This approach can benefit from the familiarity and compatibility of the existing query language, but may also face challenges in terms of syntax, semantics, or performance.
+  - Developing new query languages involves creating a query language from scratch, specifically designed for temporal data. This approach can offer more flexibility and expressiveness for temporal queries, but may also require more effort and expertise to design, implement, and use.
+  - Using temporal annotations or metadata involves adding temporal information to the data or the query, using some standard or custom format, such as RDF. This approach can enable temporal queries over heterogeneous or distributed data sources, but may also introduce complexity or ambiguity in the temporal representation or interpretation.

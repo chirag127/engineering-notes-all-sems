@@ -1,0 +1,24 @@
+### RTOS comparative study
+
+- A real-time operating system (RTOS) is an operating system that guarantees a certain capability within a specified time constraint. For example, an operating system might be designed to ensure that a certain object was available for a robot on an assembly line. In what follows, the term RTOS is used to describe the class of operating systems that are intended for real-time applications.
+- There are many different RTOSs available, each with different features, performance, and cost. Some of the factors that can be used to compare RTOSs are:
+  - Scheduling algorithm: The scheduling algorithm determines how the RTOS allocates CPU time to the tasks that are ready to run. Some common scheduling algorithms are:
+    - Fixed priority: Each task is assigned a fixed priority level, and the RTOS always runs the highest priority task that is ready. This is simple and fast, but can suffer from priority inversion, where a low priority task blocks a high priority task indirectly.
+    - Earliest deadline first: Each task is assigned a deadline, and the RTOS always runs the task that has the earliest deadline. This is optimal for meeting deadlines, but can be complex and computationally intensive.
+    - Rate monotonic: Each task is assigned a priority based on its period, and the RTOS always runs the highest priority task that is ready. This is a special case of fixed priority scheduling that is optimal for periodic tasks, but can also suffer from priority inversion.
+  - Memory management: The memory management determines how the RTOS allocates and deallocates memory for the tasks and their data. Some common memory management techniques are:
+    - Static: The memory for each task and its data is allocated at compile time, and never changes at run time. This is simple and fast, but can waste memory and limit flexibility.
+    - Dynamic: The memory for each task and its data is allocated and deallocated at run time, as needed. This is flexible and efficient, but can introduce memory fragmentation, overhead, and unpredictability.
+    - Hybrid: The memory for each task and its data is allocated at compile time, but can be resized at run time, as needed. This is a compromise between static and dynamic memory management, that tries to balance the advantages and disadvantages of both.
+  - Inter-task communication: The inter-task communication determines how the tasks can exchange data and synchronize with each other. Some common inter-task communication mechanisms are:
+    - Message passing: The tasks can send and receive messages to and from each other, using queues, mailboxes, pipes, or sockets. This is flexible and modular, but can introduce overhead and complexity.
+    - Shared memory: The tasks can access a common memory area, using semaphores, mutexes, or monitors to ensure mutual exclusion. This is fast and simple, but can introduce errors and inconsistency.
+    - Event flags: The tasks can set and wait for binary or group flags, using masks and modes to specify the conditions. This is efficient and easy, but can be limited in functionality and expressiveness.
+  - Interrupt handling: The interrupt handling determines how the RTOS responds to external or internal events that require immediate attention. Some common interrupt handling techniques are:
+    - Polling: The RTOS periodically checks for the occurrence of interrupts, and executes the corresponding interrupt service routines (ISRs). This is simple and predictable, but can introduce latency and waste CPU time.
+    - Vectored: The RTOS uses a table of pointers to the ISRs, and jumps to the corresponding ISR when an interrupt occurs. This is fast and direct, but can introduce priority inversion and nesting issues.
+    - Hybrid: The RTOS uses a combination of polling and vectored interrupt handling, depending on the type and priority of the interrupt. This is a compromise between polling and vectored interrupt handling, that tries to balance the advantages and disadvantages of both.
+- Some examples of RTOSs are:
+  - FreeRTOS: An open source RTOS that supports fixed priority scheduling, dynamic memory management, message passing, shared memory, event flags, and hybrid interrupt handling. It is designed to be portable, scalable, and easy to use. It is widely used in embedded systems, IoT devices, and microcontrollers.
+  - Zephyr: An open source RTOS that supports fixed priority scheduling, static memory management, message passing, shared memory, event flags, and vectored interrupt handling. It is designed to be small, modular, and secure. It is mainly used for IoT devices, microcontrollers, and sensors.
+  - LynxOS: A proprietary RTOS that supports fixed priority scheduling, hybrid memory management, message passing,

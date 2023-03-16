@@ -1,0 +1,8 @@
+## Unit 4 - Evidence Management
+
+1. **Introduction:** Evidence management refers to the process of collecting, preserving, analyzing, and presenting evidence in a manner that is admissible in a court of law.
+2. **Evidence Collection:** The first step in evidence management is the collection of evidence. This involves identifying, securing, and documenting all relevant evidence at the scene of a crime or incident.
+3. **Evidence Preservation:** Once evidence has been collected, it must be preserved in a manner that maintains its integrity and prevents contamination or degradation. This may involve storing evidence in a secure location, using proper packaging materials, and maintaining a chain of custody.
+4. **Evidence Analysis:** After evidence has been collected and preserved, it may be analyzed to extract information that can be used to support or refute a case. This may involve forensic analysis, such as DNA testing or fingerprint analysis, or other forms of scientific examination.
+5. **Evidence Presentation:** The final step in evidence management is the presentation of evidence in a court of law. This involves presenting evidence in a clear and concise manner, using visual aids or expert testimony to support the evidence, and ensuring that the evidence is admissible under the rules of evidence.
+6. **Conclusion:** Evidence management is a critical component of the criminal justice system, as it helps to ensure that evidence is collected, preserved, analyzed, and presented in a manner that is fair, accurate, and admissible in a court of law.

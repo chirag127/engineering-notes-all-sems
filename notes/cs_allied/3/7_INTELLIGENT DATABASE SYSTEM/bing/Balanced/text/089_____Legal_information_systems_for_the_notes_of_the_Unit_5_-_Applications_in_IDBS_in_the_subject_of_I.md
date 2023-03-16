@@ -1,0 +1,22 @@
+### Legal information systems
+
+- Legal information systems are systems that store, process, and retrieve legal information, such as legislation, case law, and scholarly works.
+- Legal information systems are important for providing access to the law to laymen and legal professionals, as well as for supporting legal tasks such as research, drafting, negotiation, consulting, management, and argumentation.
+- Legal information systems face several challenges, such as:
+  - Dealing with law-specific words and phrases, which may have different meanings in legal or common-speech contexts, or which may exist solely in law.
+  - Handling the complexity and diversity of legal sources, which may vary in structure, format, language, jurisdiction, and authority.
+  - Incorporating legal reasoning and argumentation, which may involve logic, analogy, precedent, policy, and evidence.
+  - Adapting to the dynamic and evolving nature of the law, which may change due to new legislation, judicial decisions, or social norms.
+- Legal information systems can be classified into different types, such as:
+  - Legal information retrieval systems, which aim to find and rank relevant legal documents or passages based on a user query.
+  - Legal information extraction systems, which aim to identify and extract specific information or entities from legal texts, such as names, dates, facts, or arguments.
+  - Legal information analysis systems, which aim to analyze and summarize legal texts, such as by identifying the main issues, arguments, or outcomes of a case.
+  - Legal information generation systems, which aim to produce legal texts, such as by drafting contracts, pleadings, or opinions.
+  - Legal information management systems, which aim to organize and store legal information, such as by creating databases, indexes, or ontologies.
+  - Legal information briefing systems, which aim to provide legal information and advice to users, such as by answering questions, explaining concepts, or suggesting actions.
+- Legal information systems can benefit from various techniques and methods, such as:
+  - Natural language processing, which enables the processing of natural language texts, such as by parsing, tagging, or translating them.
+  - Information retrieval, which enables the searching and ranking of relevant documents or passages, such as by using keywords, vectors, or graphs.
+  - Machine learning, which enables the learning and prediction of patterns or outcomes from data, such as by using classification, clustering, or regression.
+  - Knowledge representation and reasoning, which enables the representation and inference of facts, rules, or arguments, such as by using logic, ontologies, or argumentation frameworks.
+  - Artificial intelligence, which enables the simulation of human intelligence and behavior, such as by using agents, planning, or dialogue.

@@ -1,0 +1,18 @@
+### Real time languages for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Real time languages are programming languages that are designed to support the development of real time embedded systems, which are systems that have to respond to events or stimuli within strict time constraints.
+- Real time languages typically provide features such as concurrency, synchronization, memory management, exception handling, and real time scheduling, which are essential for real time systems.
+- Some examples of real time languages are:
+
+  - **C/C++**: C and C++ are widely used languages for embedded systems, as they offer low-level access to hardware, high performance, and portability. C and C++ can also be used with real time operating systems (RTOS) or real time extensions, such as POSIX or RTLinux, to provide real time capabilities.
+  - **Ada**: Ada is a high-level language that was originally designed for safety-critical and military applications. Ada supports concurrency, modularity, strong typing, exception handling, and real time scheduling. Ada also has a subset called Ravenscar, which is a profile for high-integrity real time systems.
+  - **Java**: Java is an object-oriented language that runs on a virtual machine, which provides portability and security. Java also has a real time specification (RTSJ), which extends the language with features such as real time threads, memory areas, asynchronous event handling, and real time clocks. Java can also be used with real time operating systems, such as JamaicaVM or OSEK/VDX.
+  - **Rust**: Rust is a modern language that focuses on safety and concurrency. Rust prevents common errors such as memory leaks, data races, and null pointers, by using a system of ownership and borrowing. Rust also supports real time programming, by providing features such as low-level control, zero-cost abstractions, and embedded-hal, which is a hardware abstraction layer for embedded systems.
+
+- Real time languages can help to improve the quality, reliability, and performance of real time embedded systems, by providing abstractions and mechanisms that are suitable for real time requirements. However, real time languages also have some challenges, such as:
+
+  - **Complexity**: Real time languages can be complex to learn and use, as they involve concepts and constructs that are not common in other languages. For example, real time scheduling, concurrency, and memory management can be difficult to understand and implement correctly.
+  - **Compatibility**: Real time languages may not be compatible with existing tools, libraries, or platforms, which can limit the availability and usability of real time languages. For example, some real time languages may not support certain hardware architectures, operating systems, or development environments.
+  - **Overhead**: Real time languages may introduce some overhead in terms of memory, CPU, or communication, which can affect the performance and efficiency of real time systems. For example, some real time languages may require a runtime system, a virtual machine, or a garbage collector, which can consume resources and cause delays or jitter.
+
+- Therefore, real time languages are an important aspect of real time embedded systems, but they also require careful selection, design, and implementation, to ensure that they meet the real time constraints and specifications of the system.

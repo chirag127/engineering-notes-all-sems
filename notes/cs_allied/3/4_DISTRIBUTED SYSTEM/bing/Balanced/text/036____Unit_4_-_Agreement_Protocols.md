@@ -1,0 +1,24 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are used in distributed systems to ensure that processes can reach a common goal or decision in the presence of failures  .
+- Agreement protocols can be classified into different types based on the type of failure, the type of communication, and the type of agreement  .
+- Some common types of agreement protocols are:
+  - Consensus: All processes must agree on a single value proposed by one or more processes  .
+  - Atomic commit: All processes must agree on whether to commit or abort a transaction that involves multiple processes  .
+  - Leader election: All processes must agree on a single process that acts as the leader or coordinator of the system  .
+  - Group membership: All processes must agree on the set of processes that belong to a group or a cluster  .
+- Agreement protocols must satisfy some properties to ensure correctness and termination  :
+  - Validity: The agreed value must be one of the proposed values.
+  - Agreement: All correct processes must agree on the same value.
+  - Termination: All correct processes must eventually decide on a value.
+  - Integrity: The agreed value must be proposed by at most one process.
+- Agreement protocols face some challenges in distributed systems, such as  :
+  - Asynchronous communication: Processes may have different speeds and message delays may be unpredictable.
+  - Partial failures: Some processes may fail or crash while others continue to operate normally.
+  - Byzantine failures: Some processes may behave maliciously or arbitrarily and send conflicting or incorrect messages.
+  - Network partitions: Some processes may be unable to communicate with others due to network failures or disruptions.
+- Agreement protocols use various techniques to overcome these challenges, such as  :
+  - Message passing: Processes exchange messages with each other to share information and coordinate actions.
+  - Quorums: Processes form subsets of processes that have enough votes or authority to make decisions.
+  - Fault tolerance: Processes use redundancy, replication, or recovery mechanisms to cope with failures.
+  - Synchronization: Processes use clocks, timestamps, or logical ordering to ensure consistency and causality.

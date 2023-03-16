@@ -1,0 +1,11 @@
+## Unit 9 - Distributed Transactions
+
+- A distributed transaction is a type of transaction that involves two or more network hosts, usually providing transactional resources, such as databases, message queues, file systems, etc.   
+- A distributed transaction is coordinated by a transaction manager, which is responsible for creating and managing a global transaction that encompasses all the operations against the transactional resources.   
+- A distributed transaction requires the following properties to ensure data consistency and reliability: atomicity, consistency, isolation, and durability (ACID). 
+- Atomicity means that either all the operations in a distributed transaction are executed successfully, or none of them are. If any operation fails, the transaction manager should roll back the changes made by the previous operations. 
+- Consistency means that a distributed transaction should preserve the integrity constraints and business rules of the data. The data should be in a valid state before and after the transaction. 
+- Isolation means that a distributed transaction should not interfere with other concurrent transactions. The data accessed or modified by one transaction should not be visible to other transactions until the transaction is committed. 
+- Durability means that once a distributed transaction is committed, the changes made by the transaction should be permanent and survive any failures. The transaction manager should ensure that the changes are written to the transactional resources and can be recovered if needed. 
+- A distributed transaction can be implemented using different protocols, such as two-phase commit (2PC), three-phase commit (3PC), or consensus algorithms (such as Paxos or Raft). These protocols aim to achieve agreement among the transactional resources and the transaction manager on the outcome of the transaction (commit or abort).  
+- A distributed transaction faces various challenges, such as network failures, resource failures, concurrency conflicts, deadlock detection, and performance overhead. These challenges require careful design and implementation of the distributed transaction system.

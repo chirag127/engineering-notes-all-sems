@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is some content on the topic of Theoretical Foundation for Distributed System for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM.
+
+### Theoretical Foundation for Distributed System
+
+- A distributed system is a collection of processes that are spatially separated and do not share a common memory and communicate with one another by exchanging messages with arbitrary delays .
+- Theoretical foundations of distributed systems aim to understand the inherent limitations, capabilities, and trade-offs of distributed systems and their algorithms.
+- Some of the fundamental concepts and challenges in distributed systems are:
+  - **Limitations of distributed systems**: Due to the lack of a global clock, a shared memory, and a reliable communication network, distributed systems face issues such as uncertainty, inconsistency, concurrency, and failures  .
+  - **Logical clocks**: Logical clocks are a way of ordering events in a distributed system based on their causal relationships, rather than their physical timestamps. Logical clocks can be implemented using scalar values (Lamport clocks) or vector values (vector clocks) that are updated and exchanged with each message  .
+  - **Message passing systems**: Message passing systems are a model of distributed computation where processes communicate by sending and receiving messages over a network. Message passing systems can be synchronous or asynchronous, reliable or unreliable, and FIFO or non-FIFO  .
+  - **Consensus and agreement**: Consensus and agreement are problems of achieving a common decision or value among a set of processes in a distributed system, despite the presence of failures or faults. Consensus and agreement are essential for achieving coordination, consistency, and fault tolerance in distributed systems  .
+  - **Distributed algorithms**: Distributed algorithms are algorithms that run on multiple processes in a distributed system and coordinate their actions by exchanging messages. Distributed algorithms can be designed for various problems and objectives, such as leader election, mutual exclusion, distributed sorting, distributed graph algorithms, etc  .

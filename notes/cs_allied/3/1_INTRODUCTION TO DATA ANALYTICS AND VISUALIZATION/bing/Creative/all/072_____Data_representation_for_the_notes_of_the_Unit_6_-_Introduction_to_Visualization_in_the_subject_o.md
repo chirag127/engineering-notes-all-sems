@@ -1,0 +1,23 @@
+# Data representation for the notes of the Unit 6 - Introduction to Visualization
+
+- Data representation is the process of transforming data into a format that can be easily understood and communicated by humans or machines.
+- Data visualization is a specific type of data representation that uses graphical elements, such as charts, graphs, maps, and animations, to display data in a visual way.
+- Data visualization can help users to:
+  - Explore and analyze data, such as finding patterns, trends, outliers, and correlations.
+  - Communicate and present data, such as telling a story, making a point, or persuading an audience.
+  - Interact and manipulate data, such as filtering, zooming, or selecting different views.
+- Data visualization can be classified into different types, such as:
+  - Statistical graphics, such as histograms, box plots, scatter plots, and line charts, that show the distribution, relationship, or change of data over time or space.
+  - Geospatial graphics, such as maps, choropleths, and cartograms, that show the location, density, or movement of data on a geographic area.
+  - Information graphics, such as pie charts, bar charts, tables, and infographics, that show the proportion, comparison, or composition of data in a simple or intuitive way.
+  - Scientific graphics, such as heat maps, contour plots, and network diagrams, that show the structure, function, or behavior of complex data, such as biological, physical, or social systems.
+  - Artistic graphics, such as word clouds, treemaps, and mosaic plots, that show the aesthetic, emotional, or creative aspects of data, such as text, images, or sounds.
+- Data visualization can be created using different tools, such as:
+  - Programming languages, such as Python, R, or JavaScript, that offer libraries and frameworks for creating custom and interactive visualizations, such as matplotlib, ggplot2, or D3.js.
+  - Software applications, such as Excel, Tableau, or Power BI, that offer built-in features and templates for creating standard and professional visualizations, such as charts, dashboards, or reports.
+  - Online platforms, such as Google Charts, Plotly, or Datawrapper, that offer web-based services and interfaces for creating simple and shareable visualizations, such as widgets, charts, or maps.
+- Data visualization can be evaluated and improved using different criteria, such as:
+  - Accuracy, such as ensuring that the visualization does not distort, mislead, or omit data, and that it reflects the data source and quality.
+  - Clarity, such as ensuring that the visualization does not confuse, overwhelm, or distract the user, and that it uses appropriate labels, legends, and scales.
+  - Aesthetics, such as ensuring that the visualization does not clash, bore, or annoy the user, and that it uses suitable colors, shapes, and fonts.
+  - Effectiveness, such as ensuring that the visualization does not fail, frustrate, or disappoint the user, and that it meets the user's needs, goals, and expectations.

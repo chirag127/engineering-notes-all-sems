@@ -1,0 +1,22 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of Space Limitation for the Unit 7 - Human Vision in the subject of Introduction to Data Analytics and Visualization. Here is a summary of the main points:
+
+- Space limitation refers to the challenge of displaying large amounts of data in a limited space, such as a screen or a paper.
+- Space limitation can affect the readability, clarity, and effectiveness of data visualization, as well as the user's cognitive load and attention span.
+- Some common techniques to overcome space limitation are:
+  - Aggregation: reducing the number of data points by grouping them into categories or bins, such as histograms, pie charts, or treemaps.
+  - Filtering: removing irrelevant or redundant data points based on some criteria, such as sliders, checkboxes, or drop-down menus.
+  - Zooming: allowing the user to focus on a specific region of the data by enlarging it, such as maps, scatter plots, or line charts.
+  - Panning: allowing the user to navigate through the data by moving it horizontally or vertically, such as maps, timelines, or parallel coordinates.
+  - Brushing: allowing the user to select a subset of data points by drawing a shape over them, such as scatter plots, parallel coordinates, or matrix plots.
+  - Linking: allowing the user to see the relationship between different views of the data by highlighting the same data points across them, such as scatter plot matrices, linked histograms, or coordinated multiple views.
+  - Distortion: altering the shape or size of the data points or the axes to emphasize or de-emphasize certain aspects of the data, such as fisheye views, perspective walls, or hyperbolic trees.
+  - Animation: changing the appearance of the data points or the axes over time to show trends, patterns, or changes, such as bubble charts, motion charts, or animated maps.
+- Some trade-offs and challenges of using these techniques are:
+  - Aggregation can reduce the detail and accuracy of the data, as well as introduce bias or errors due to the choice of categories or bins.
+  - Filtering can hide important or unexpected data points, as well as require user input and interaction to adjust the criteria.
+  - Zooming can lose the context and overview of the data, as well as require user input and interaction to change the level of detail.
+  - Panning can lose the focus and orientation of the data, as well as require user input and interaction to move the data.
+  - Brushing can be difficult to perform and interpret, especially for complex or high-dimensional data, as well as require user input and interaction to draw the shape.
+  - Linking can be confusing and overwhelming, especially for multiple or large views of the data, as well as require user input and interaction to select the data points.
+  - Distortion can distort the perception and interpretation of the data, as well as introduce visual artifacts or illusions due to the change of shape or size.
+  - Animation can be distracting and misleading, especially for fast or irregular changes of the data, as well as require user input and interaction to control the speed or direction of the animation.

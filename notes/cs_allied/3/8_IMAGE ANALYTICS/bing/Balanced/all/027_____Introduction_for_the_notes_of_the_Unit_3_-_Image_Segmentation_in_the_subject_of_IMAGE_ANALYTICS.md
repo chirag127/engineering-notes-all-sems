@@ -1,0 +1,20 @@
+# Introduction for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+
+- Image segmentation is the process of dividing an image into multiple regions or segments that share some common characteristics, such as color, intensity, texture, shape, etc.
+- Image segmentation is useful for many applications, such as object detection, face recognition, medical imaging, scene understanding, etc.
+- Image segmentation can be classified into two types: supervised and unsupervised.
+  - Supervised segmentation uses some prior knowledge or labels to guide the segmentation process, such as ground truth masks, bounding boxes, or user inputs.
+  - Unsupervised segmentation does not use any prior knowledge or labels, but relies on the inherent features or structures of the image to group the pixels into segments.
+- Image segmentation can be performed at different levels of granularity, such as pixel-level, region-level, or object-level.
+  - Pixel-level segmentation assigns a label to each pixel in the image, such as foreground or background, or a specific class or category.
+  - Region-level segmentation groups adjacent pixels with similar features into regions or superpixels, which can be further merged or split based on some criteria.
+  - Object-level segmentation identifies and separates the objects of interest from the background or other objects in the image, and provides a contour or boundary for each object.
+- Image segmentation can be achieved by various methods, such as thresholding, clustering, edge detection, region growing, graph-based methods, active contours, level sets, watershed, etc.
+  - Thresholding is the simplest method of segmentation, which separates the pixels into two or more groups based on a predefined or adaptive threshold value.
+  - Clustering is a method of segmentation that partitions the pixels into clusters based on their feature similarity, such as color, intensity, or texture. Examples of clustering algorithms are K-means, Fuzzy C-means, Mean-shift, etc.
+  - Edge detection is a method of segmentation that detects the boundaries or edges of the regions or objects in the image, based on the discontinuities or changes in the image features, such as gradient, laplacian, or zero-crossing. Examples of edge detection operators are Sobel, Prewitt, Canny, etc.
+  - Region growing is a method of segmentation that starts from a seed pixel or region and expands it to include neighboring pixels that satisfy some homogeneity criterion, such as feature similarity or connectivity.
+  - Graph-based methods are methods of segmentation that model the image as a graph, where the nodes represent the pixels or regions, and the edges represent the similarity or dissimilarity between them. The segmentation problem is then formulated as finding the optimal partition or cut of the graph, such as minimum cut, normalized cut, etc.
+  - Active contours are methods of segmentation that use a deformable curve or surface to fit the contour or boundary of the region or object of interest, based on some energy minimization or optimization criteria, such as internal energy, external energy, or constraint energy. Examples of active contours are snakes, balloons, geodesic active contours, etc.
+  - Level sets are methods of segmentation that use a implicit function to represent the contour or boundary of the region or object of interest, and evolve it according to some partial differential equation (PDE) or variational principle, such as curvature, gradient, or region-based terms. Examples of level sets are Chan-Vese model, geodesic active contours, etc.
+  - Watershed is a method of segmentation that simulates the flooding of the image from the local minima or markers, and creates boundaries or watersheds at the regions where the water from different sources meet. The watershed algorithm can be implemented based on gradient, distance, or marker-based approaches.

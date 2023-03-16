@@ -1,0 +1,8 @@
+### Visual Objects and Data Objects
+
+- Visual objects are any identifiable, separate, and distinct parts of the visual world that have certain visual attributes, such as shape, color, size, position, orientation, texture, etc. 
+- Data objects are any abstract entities that have certain data attributes, such as name, value, type, category, relation, etc. 
+- Visual objects and data objects can be mapped to each other by using visual features to represent data values. For example, a bar chart maps data objects (such as sales, profit, etc.) to visual objects (such as bars) by using visual features (such as length, color, etc.) to represent data values (such as numbers, categories, etc.). 
+- The mapping between visual objects and data objects can be used to organize, explore, and communicate data in a meaningful and effective way. The object metaphor is pervasive in the way we think about abstract data. 
+- The mapping between visual objects and data objects can also be interactive, allowing users to manipulate, filter, drill down, or highlight data by using on-object actions on the visual objects. For example, a user can click on a bar in a bar chart to see more details, or drag a slider to change the range of data displayed.
+- The mapping between visual objects and data objects should follow some principles and guidelines to ensure clarity, accuracy, and expressiveness. For example, the visual features should match the data values in terms of scale, order, and direction; the visual objects should avoid occlusion, distortion, or ambiguity; and the visual objects should support the tasks and goals of the users.

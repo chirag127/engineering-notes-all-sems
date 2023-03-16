@@ -1,0 +1,17 @@
+### Cyber Crime
+
+Cyber crime is any illegal activity that involves a computer, a network, or a device connected to the internet. Cyber crime can affect individuals, organizations, or governments, and can cause financial, reputational, or physical harm. Cyber crime can be classified into three main types:
+
+- **A computer is the target of the attack**: This type of cyber crime involves unauthorized access, modification, or destruction of data or systems on a computer or network. For example, a data breach on a corporate network, a ransomware attack that encrypts files on a device, or a cryptojacking attack that uses a computer's resources to mine cryptocurrency without the owner's consent.
+- **A computer is the weapon for an attack**: This type of cyber crime involves using a computer or network to launch an attack on another computer or network, or to facilitate other criminal activities. For example, a denial of service (DoS) attack that floods a website with traffic and prevents legitimate users from accessing it, a phishing attack that sends fraudulent emails to trick recipients into revealing sensitive information or downloading malware, or a spoofing attack that impersonates a legitimate entity to deceive or manipulate others.
+- **A computer is an accessory to an attack**: This type of cyber crime involves using a computer or network to store, transmit, or process information related to other criminal activities. For example, identity fraud that uses stolen personal information to commit fraud or theft, cyberextortion that demands money to prevent a threatened attack or to release stolen data, or cyberstalking that harasses or threatens a person online.
+
+Some examples of cyber crime are  :
+
+- Email and internet fraud: Sending deceptive or fraudulent emails or messages to trick recipients into sending money, revealing personal or financial information, or downloading malware. For example, a Nigerian prince scam, a lottery scam, or a romance scam.
+- Theft of financial or card payment data: Stealing or intercepting credit card or bank account information to make unauthorized transactions or withdrawals. For example, a skimming device, a keylogger, or a man-in-the-middle attack.
+- Theft and sale of corporate data: Stealing or leaking confidential or proprietary information from a company or organization to sell it to competitors, hackers, or other parties. For example, a disgruntled employee, a hacker group, or a spy.
+- Cyberterrorism: Using cyber attacks to cause fear, panic, or violence for political or ideological purposes. For example, a cyber attack on a critical infrastructure, a government website, or a media outlet.
+- Cyberwarfare: Using cyber attacks to disrupt, damage, or destroy the capabilities or assets of an enemy state or group. For example, a cyber attack on a military network, a nuclear facility, or a satellite.
+- Child pornography: Producing, distributing, or accessing images or videos of minors engaged in sexual activities or poses. For example, a pedophile, a child porn website, or a peer-to-peer network.
+- Intellectual property theft: Stealing or infringing on the rights of the creators or owners of original works, such as music, movies, books, software, or patents. For example, a pirate, a torrent site, or a counterfeit product.

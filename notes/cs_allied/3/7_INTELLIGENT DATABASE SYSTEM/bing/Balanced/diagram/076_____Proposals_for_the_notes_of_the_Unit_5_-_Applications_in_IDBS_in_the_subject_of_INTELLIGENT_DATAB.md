@@ -1,0 +1,22 @@
+### Proposals for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- An intelligent database is a full-text database with artificial intelligence (AI) components that interact with users to ensure that users are supplied all relevant information.
+- An intelligent database system (IDBS) is a system that manages information (rather than data) in a way that appears natural to users and which goes beyond simple record keeping.
+- An IDBS has three levels of intelligence: high level tools, the user interface and the database engine.
+- High level tools manage data quality and automatically discover relevant patterns in the data with a process called data mining.
+- The user interface provides natural language processing, speech recognition, graphical visualization and multimedia capabilities to facilitate user interaction with the system.
+- The database engine supports advanced features such as object orientation, active rules, temporal and spatial data, fuzzy logic, uncertainty management and knowledge representation.
+- Some of the applications of IDBS are:
+  - Business intelligence: IDBS can help businesses analyze their data and gain insights for decision making, planning and forecasting.
+  - Scientific discovery: IDBS can help scientists explore large and complex data sets and find new hypotheses, patterns and correlations.
+  - Personalization: IDBS can help customize the content and services for individual users based on their preferences, behavior and feedback.
+  - Recommendation: IDBS can help suggest relevant items, products or information to users based on their needs, interests and context.
+  - Fraud detection: IDBS can help detect and prevent fraudulent activities by identifying anomalies, outliers and suspicious patterns in the data.
+  - Security: IDBS can help protect the data and the system from unauthorized access, modification or deletion by using encryption, authentication and authorization techniques.
+- Some of the challenges of IDBS are:
+  - Data integration: IDBS need to deal with heterogeneous, distributed and dynamic data sources and ensure their consistency, completeness and accuracy.
+  - Data privacy: IDBS need to respect the privacy and confidentiality of the data and the users and comply with the ethical and legal regulations.
+  - Data scalability: IDBS need to handle large and growing volumes of data and provide fast and efficient query processing and analysis.
+  - Data quality: IDBS need to ensure the reliability, validity and relevance of the data and the results and avoid errors, noise and bias.
+  - Data interpretation: IDBS need to explain the meaning and significance of the data and the results and provide feedback and guidance to the users.
+  - Data security: IDBS need to protect the data and the system from malicious attacks, such as viruses, worms, hackers and cybercriminals.

@@ -1,0 +1,21 @@
+### Contactless IOT Doorbell for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+
+- A contactless IOT doorbell is a device that uses internet of things (IOT) technology to detect the presence of a visitor at the door and alert the house owner without requiring any physical contact.
+- A contactless IOT doorbell can also perform additional functions such as scanning the temperature of the visitor, recognizing the face of the visitor, capturing the image of the visitor, and sending notifications to the house owner's mobile or desktop device.
+- A contactless IOT doorbell can help prevent the spread of Covid-19 and other infectious diseases by avoiding direct contact between the visitor and the doorbell or the house owner.
+- A contactless IOT doorbell can also enhance the security and convenience of the house owner by allowing them to monitor the activity outside the house, identify the visitor, and communicate with the visitor remotely.
+- A contactless IOT doorbell typically consists of the following components:
+  - A sensor module that detects the presence of a visitor using infrared, ultrasonic, or motion sensors.
+  - A camera module that captures the image of the visitor and performs face recognition using machine learning algorithms.
+  - A temperature sensor that measures the body temperature of the visitor using infrared or thermocouple sensors.
+  - A speaker module that provides voice feedback and instructions to the visitor using text-to-speech technology.
+  - A controller module that coordinates the operations of the other modules using a microcontroller or a microprocessor such as Raspberry Pi or NodeMCU.
+  - A communication module that connects the device to the internet using Wi-Fi, Bluetooth, or cellular networks and sends data and notifications to the house owner's device using cloud services such as Firebase, Blynk, or AWS.
+- A contactless IOT doorbell can be designed and implemented using the following steps:
+  - Define the problem statement and the objectives of the device.
+  - Identify the user requirements and the specifications of the device.
+  - Select the appropriate hardware and software components for the device.
+  - Design the circuit diagram and the physical layout of the device.
+  - Program the controller module using a suitable programming language such as Python, C, or Arduino.
+  - Test and debug the device using a breadboard, a multimeter, and a logic analyzer.
+  - Deploy and evaluate the device using real-world scenarios and user feedback.

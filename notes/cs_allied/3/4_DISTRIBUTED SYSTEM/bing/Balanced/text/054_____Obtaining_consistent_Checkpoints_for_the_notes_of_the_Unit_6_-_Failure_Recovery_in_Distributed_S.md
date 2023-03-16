@@ -1,0 +1,22 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- A failure in a distributed system can be caused by various factors, such as hardware faults, software bugs, network errors, malicious attacks, or natural disasters.
+- A failure can affect one or more components of the system, such as nodes, processes, messages, or data.
+- A failure can have different consequences, such as data loss, data corruption, performance degradation, or system unavailability.
+- To recover from a failure, the system needs to detect the failure, identify the cause and the scope of the failure, and restore the system to a consistent and correct state.
+- A consistent state is a state where all the components of the system agree on the same view of the system and its data.
+- A correct state is a state where the system and its data satisfy the specifications and the invariants of the system.
+- One of the common techniques for failure recovery in distributed systems is checkpointing.
+- Checkpointing is the process of periodically saving the state of the system or its components to a stable storage, such as a disk or a cloud service.
+- Checkpointing can be done at different levels, such as process level, node level, or system level.
+- Checkpointing can be done in different ways, such as synchronous, asynchronous, coordinated, or uncoordinated.
+- Checkpointing can be used to recover the system or its components to a previous consistent and correct state in case of a failure.
+- Checkpointing can also be used to improve the performance and availability of the system by reducing the amount of work that needs to be redone after a failure.
+- Checkpointing has some challenges and trade-offs, such as the overhead of saving and restoring the state, the frequency and granularity of checkpointing, the consistency and correctness of the checkpoints, and the coordination and synchronization of the checkpoints.
+- To obtain consistent checkpoints, the system needs to ensure that the checkpoints of different components are compatible and reflect the same global state of the system.
+- To obtain consistent checkpoints, the system can use different algorithms, such as the Chandy-Lamport algorithm, the Lai-Yang algorithm, or the Manivannan-Singhal algorithm.
+- These algorithms use different techniques, such as message logging, vector clocks, or dependency graphs, to capture the causal dependencies and the logical order of the events in the system.
+- These algorithms can also handle different types of failures, such as crash failures, omission failures, or Byzantine failures.
+- These algorithms can also deal with different types of communication, such as reliable or unreliable, FIFO or non-FIFO, or multicast or broadcast.
+- These algorithms have different properties, such as the number of checkpoints, the number of messages, the storage space, the recovery time, and the fault tolerance.

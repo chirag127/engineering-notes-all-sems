@@ -1,0 +1,19 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of different types of tasks in data visualization. Here is a summary of what I found from the web:
+
+### Different Types of Tasks in Data Visualization
+
+- Data visualization is the process of transforming data into visual forms, such as charts, graphs, maps, etc., to communicate insights, patterns, trends, and relationships in the data.
+- Data visualization can serve different purposes and roles, depending on the type of data, the audience, and the message. Some common roles for data visualization include :
+  - Showing change over time: This involves using line charts, area charts, or sparklines to display how a variable or a set of variables changes over a period of time.
+  - Showing a part-to-whole composition: This involves using pie charts, donut charts, treemaps, or stacked bar charts to display how a whole is divided into parts or categories, and what proportion each part contributes to the whole.
+  - Looking at how data is distributed: This involves using histograms, box plots, or violin plots to display how the values of a variable are spread out or clustered, and to identify outliers, gaps, or skewness in the data.
+  - Comparing values between groups: This involves using bar charts, column charts, or scatter plots to display how the values of one or more variables differ across different groups or categories, and to identify similarities or differences among them.
+  - Observing relationships between variables: This involves using scatter plots, bubble charts, or correlation matrices to display how two or more variables are related to each other, and to identify positive or negative correlations, clusters, or outliers in the data.
+  - Looking at geographical data: This involves using maps, choropleth maps, or cartograms to display how the values of a variable vary across different regions or locations, and to identify spatial patterns or trends in the data.
+- Data visualization can also be classified into different types based on the number of dimensions or attributes in the data:
+  - Temporal: This type of data visualization involves one-dimensional data that is ordered by time, such as sales, stock prices, or temperature. Temporal data visualization can use line charts, area charts, or sparklines to show change over time.
+  - Hierarchical: This type of data visualization involves data that is organized into groups or levels, such as organizational structure, product categories, or file system. Hierarchical data visualization can use pie charts, donut charts, treemaps, or sunburst charts to show a part-to-whole composition.
+  - Network: This type of data visualization involves data that is connected by links or edges, such as social networks, web pages, or citations. Network data visualization can use node-link diagrams, matrix diagrams, or arc diagrams to show the connections and relationships among the data elements.
+  - Multidimensional: This type of data visualization involves data that has more than one attribute or variable, such as sales, population, or income. Multidimensional data visualization can use bar charts, column charts, scatter plots, bubble charts, or heat maps to show the values, distributions, comparisons, or correlations of the variables.
+  - Geospatial: This type of data visualization involves data that has a spatial or geographical component, such as countries, cities, or addresses. Geospatial data visualization can use maps, choropleth maps, or cartograms to show the location, size, or color of the data elements.
+  - Miscellaneous: This type of data visualization involves data that does not fit into any of the above categories, such as text, images, or sounds. Miscellaneous data visualization can use word clouds, tag clouds, pictograms, or sound graphs to show the frequency, sentiment, or emotion of the data elements.

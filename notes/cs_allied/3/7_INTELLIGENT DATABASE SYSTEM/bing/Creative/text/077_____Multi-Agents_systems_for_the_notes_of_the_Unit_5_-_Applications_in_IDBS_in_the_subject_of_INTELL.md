@@ -1,0 +1,14 @@
+### Multi-Agent Systems for the Notes of the Unit 5 - Applications in IDBS in the Subject of Intelligent Database Systems
+
+- A multi-agent system (MAS) is a computerized system composed of multiple interacting intelligent agents that can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve.
+- A MAS consists of agents and their environment. Agents are autonomous entities that can perceive, reason, act, and communicate with other agents. The environment is the shared space where agents operate and interact.
+- A MAS can be classified into two categories: distributed artificial intelligence (DAI) and distributed problem solving (DPS). DAI systems are conceived as a group of intelligent entities that interact by cooperation, coexistence, or competition. DPS systems are focused on the decomposition and distribution of problems among agents.
+- A MAS can be designed using various methodologies, architectures, algorithms, platforms, frameworks, and simulators. Some examples are: BDI (belief-desire-intention), JADE (Java Agent Development Framework), NetLogo, and MASON (Multi-Agent Simulator Of Neighborhoods or Networks) .
+- A MAS can have various applications in intelligent database systems (IDBS), such as:
+  - Data integration: A MAS can facilitate the integration of heterogeneous and distributed data sources by using agents that can negotiate, coordinate, and cooperate to provide a unified view of the data .
+  - Data mining: A MAS can enhance the data mining process by using agents that can perform different tasks, such as data preprocessing, pattern discovery, pattern evaluation, and knowledge presentation, in a parallel and distributed manner .
+  - Data security: A MAS can improve the data security by using agents that can monitor, detect, prevent, and respond to malicious attacks, such as unauthorized access, data tampering, data leakage, and denial of service .
+  - Data quality: A MAS can ensure the data quality by using agents that can verify, validate, clean, and enrich the data, as well as resolve data conflicts, inconsistencies, and redundancies .
+  - Data visualization: A MAS can support the data visualization by using agents that can generate, customize, and adapt the visual representations of the data, as well as interact with the users and provide feedback and recommendations .
+- A MAS can also have applications in other domains, such as online trading, disaster response, target surveillance, and social structure modelling  .
+- A MAS can provide several benefits, such as scalability, flexibility, robustness, efficiency, and intelligence, but also pose some challenges, such as complexity, coordination, communication, and trust  .

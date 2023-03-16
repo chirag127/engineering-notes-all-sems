@@ -1,0 +1,20 @@
+# Concurrency control in distributed transactions
+
+Concurrency control is the process of managing the concurrent access and modification of shared data by multiple transactions in a database system. Concurrency control ensures that the transactions preserve the ACID (atomicity, consistency, isolation, and durability) properties and do not interfere with each other.
+
+Distributed transactions are transactions that span multiple data servers in a distributed database system. A distributed database system is a system where data is stored and managed by a network of interconnected data servers that cooperate to provide a unified view of the data. Distributed transactions may access and update data on different servers, and thus require coordination and synchronization among the servers.
+
+Concurrency control in distributed transactions is the problem of ensuring that the concurrent execution of distributed transactions does not violate the ACID properties and maintains the consistency and integrity of the distributed database. Concurrency control in distributed transactions is more challenging than in centralized transactions, because of the following issues:
+
+- Network latency and communication overhead: The data servers need to communicate with each other to coordinate and synchronize the distributed transactions, which may incur delays and costs due to the network distance and bandwidth.
+- Network failures and partitions: The data servers may become unreachable or disconnected from each other due to network failures or partitions, which may cause the distributed transactions to abort, retry, or wait indefinitely.
+- Data replication and consistency: The data servers may replicate the same data for availability and performance reasons, which may introduce the problem of maintaining the consistency of the replicated data across the servers.
+- Distributed deadlock detection and resolution: The distributed transactions may acquire locks on different data items on different servers, which may lead to circular wait and deadlock situations that need to be detected and resolved.
+
+There are different approaches and algorithms for concurrency control in distributed transactions, such as:
+
+- Locking-based concurrency control protocols: These protocols use the concept of locking data items to prevent concurrent transactions from accessing or modifying the same data item. Locking-based protocols can be classified into two-phase locking (2PL), rigorous two-phase locking (R2PL), and tree-structured locking (TSL) protocols. Locking-based protocols require a distributed lock manager (DLM) to manage the locks across the servers.
+- Timestamp-based concurrency control algorithms: These algorithms use a transaction's timestamp to order and serialize the transactions. Timestamp-based algorithms can be classified into basic timestamp ordering (BTO), conservative timestamp ordering (CTO), and optimistic timestamp ordering (OTO) algorithms. Timestamp-based algorithms require a global clock or a logical clock to generate timestamps across the servers.
+- Optimistic concurrency control algorithms: These algorithms allow transactions to execute without locking or checking timestamps, and validate the transactions at commit time. Optimistic algorithms can be classified into basic optimistic concurrency control (BOCC), optimistic concurrency control with certification (OCC-C), and optimistic concurrency control with version numbers (OCC-VN) algorithms. Optimistic algorithms require a validation manager (VM) to validate the transactions across the servers.
+
+Each approach and algorithm has its own advantages and disadvantages in terms of performance, scalability, availability, and complexity. The choice of the best approach and algorithm depends on the characteristics of the distributed database system and the workload.

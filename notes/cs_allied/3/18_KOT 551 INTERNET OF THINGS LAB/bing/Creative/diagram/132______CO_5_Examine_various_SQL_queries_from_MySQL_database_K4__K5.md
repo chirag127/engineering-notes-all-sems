@@ -1,0 +1,35 @@
+#### CO 5 Examine various SQL queries from MySQL database K4, K5
+
+- SQL stands for Structured Query Language, which is a standard language for accessing and manipulating data in relational database systems.
+- MySQL is a relational database management system (RDBMS) that uses SQL as its primary interface. MySQL is one of the most popular open source databases, and it supports various data types, functions, operators, and commands.
+- A SQL query is a statement that requests data from one or more tables or views in a database. A SQL query can perform various operations, such as selecting, inserting, updating, deleting, or creating data.
+- MySQL database consists of several components, such as:
+  - Server: The main program that manages the database and executes SQL queries.
+  - Client: A program that connects to the server and sends SQL queries to it.
+  - Database: A collection of related data organized in tables and views.
+  - Table: A structure that stores data in rows and columns.
+  - View: A virtual table that shows the result of a SQL query.
+  - Column: A named attribute of a table or a view that holds a specific type of data.
+  - Row: A record of data that consists of values for each column in a table or a view.
+  - Index: A data structure that improves the performance of data retrieval and sorting.
+  - Primary key: A column or a combination of columns that uniquely identifies each row in a table.
+  - Foreign key: A column or a combination of columns that references a primary key in another table, to establish a relationship between the tables.
+  - Constraint: A rule that defines the validity and integrity of the data in a table or a column.
+- Some of the common SQL queries from MySQL database are:
+  - SELECT: To retrieve data from one or more tables or views.
+  - INSERT: To add new rows of data to a table.
+  - UPDATE: To modify existing rows of data in a table.
+  - DELETE: To remove existing rows of data from a table.
+  - CREATE: To create a new database, table, view, index, or other object.
+  - DROP: To delete an existing database, table, view, index, or other object.
+  - ALTER: To change the structure or properties of an existing database, table, view, index, or other object.
+  - JOIN: To combine data from two or more tables or views based on a common column or condition.
+  - GROUP BY: To group rows of data that have the same values in one or more columns, and apply aggregate functions to them.
+  - ORDER BY: To sort the result of a query by one or more columns or expressions.
+  - HAVING: To filter the groups of data that satisfy a certain condition.
+  - WHERE: To filter the rows of data that satisfy a certain condition.
+  - LIMIT: To limit the number of rows returned by a query.
+  - UNION: To combine the result of two or more queries into a single result set.
+  - SUBQUERY: To use the result of one query as an input for another query.
+  - FUNCTION: To perform a specific calculation or operation on the data.
+  - OPERATOR: To compare, combine, or manipulate the data.

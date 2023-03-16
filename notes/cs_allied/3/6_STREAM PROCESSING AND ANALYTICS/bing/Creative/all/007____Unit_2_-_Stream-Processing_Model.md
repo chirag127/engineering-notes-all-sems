@@ -1,0 +1,21 @@
+## Unit 2 - Stream-Processing Model
+
+- Stream-processing model is a programming paradigm that views data streams, or sequences of events in time, as the central input and output objects of computation.
+- Stream-processing model is a methodology for managing big data, which allows professionals to continually collect, analyze, filter or transform their data.
+- Stream-processing model is suitable for applications that require low latency, high throughput, and complex processing of data streams, such as image, video, and digital signal processing.
+- Stream-processing model is different from batch-processing model, which processes data in fixed-size chunks or batches, and requires storing the data before processing it.
+- Stream-processing model has some advantages over batch-processing model, such as:
+  - It can handle unbounded and dynamic data sources that generate data continuously.
+  - It can provide real-time or near-real-time insights and actions based on the data streams.
+  - It can reduce the storage and maintenance costs of data by processing it on the fly.
+- Stream-processing model has some challenges and limitations, such as:
+  - It has to deal with unpredictable and variable data rates, which may cause back-pressure, buffering, or scaling issues.
+  - It has to ensure the correctness and consistency of the data processing results, which may involve handling duplicates, out-of-order events, or failures.
+  - It has to balance the trade-offs between latency, throughput, and complexity of the data processing logic.
+- Stream-processing model requires a stream-processing framework, which is an end-to-end processing system that provides a dataflow pipeline that accepts streaming inputs for processing while generating useful, real-time analytics .
+- Stream-processing framework typically consists of the following components:
+  - Data sources: The origin of the data streams, such as sensors, web servers, or message brokers.
+  - Data ingestion: The process of collecting and transferring the data streams from the sources to the processing system, such as Kafka, Flume, or Kinesis.
+  - Data processing: The core of the stream-processing framework, which applies various operations and functions to the data streams, such as filtering, aggregation, windowing, or joining, such as Spark Streaming, Flink, or Storm.
+  - Data storage: The optional component that stores the intermediate or final results of the data processing, such as HDFS, Cassandra, or MongoDB.
+  - Data visualization: The optional component that displays the data processing results in a user-friendly way, such as dashboards, charts, or alerts, such as Grafana, Kibana, or Splunk.

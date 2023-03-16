@@ -1,0 +1,21 @@
+### Morphological Image Processing
+
+- Morphological image processing is a collection of non-linear operations that process images based on shapes or morphology of features in an image .
+- Morphological operations apply a structuring element to an input image, creating an output image of the same size .
+- The structuring element defines the region of interest or neighborhood around a pixel.
+- By choosing the size and shape of the structuring element, you can construct a morphological operation that is sensitive to specific shapes in the input image .
+- Morphological operations can be used for various purposes, such as:
+  - Removing noise or small objects from an image  .
+  - Filling holes or gaps in an image  .
+  - Extracting boundaries, skeletons, or thin lines from an image  .
+  - Enhancing contrast or edges in an image  .
+- Some common morphological operations are:
+  - Erosion: Shrinks the foreground regions by eroding away the boundaries   .
+  - Dilation: Expands the foreground regions by adding pixels to the boundaries   .
+  - Opening: Removes small objects or noise from the foreground by applying erosion followed by dilation   .
+  - Closing: Fills small holes or gaps in the foreground by applying dilation followed by erosion   .
+  - Morphological Gradient: Computes the difference between dilation and erosion of an image, highlighting the edges   .
+  - Top Hat: Computes the difference between the input image and its opening, enhancing bright spots on a dark background   .
+  - Black Hat: Computes the difference between the input image and its closing, enhancing dark spots on a bright background   .
+- Morphological operations can be implemented using various libraries or tools, such as MATLAB, scikit-image, OpenCV, etc  .
+- Morphological operations can be combined or modified to create more complex or customized operations for specific applications  .

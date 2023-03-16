@@ -1,0 +1,7 @@
+### Distributed Stream Processing
+
+- Distributed Stream Processing is a programming paradigm in computer science which views data streams, or sequences of events in time, as the central input and output objects of computation.
+- Distributed stream processing systems involve the use of geographically distributed architectures for processing large data streams in real-time to increase efficiency and reliability of the data ingestion, data processing, and the display of data for analysis.
+- Distributed stream processing engines are gaining popularity over the last years. Stream processing is a technology that can query continuous streams of data in real-time and perform operations on the received data. It also goes by the name event-processing, Complex Event Processing, real-time-analytics or stream analytics.
+- Kafka Streams, a scalable stream processing client library in Apache Kafka, decouples the consistency and completeness challenges and tackles them with separate approaches: idempotent and transactional writes for consistency, and speculative processing with revision for completeness.
+- Stream processing is needed to develop adaptive and responsive applications, help enterprises improve real-time business analytics, facilitate faster decisions, accelerate decision-making, improve decision-making with increased context, improve the user experience, and create new applications that use a stream of data.

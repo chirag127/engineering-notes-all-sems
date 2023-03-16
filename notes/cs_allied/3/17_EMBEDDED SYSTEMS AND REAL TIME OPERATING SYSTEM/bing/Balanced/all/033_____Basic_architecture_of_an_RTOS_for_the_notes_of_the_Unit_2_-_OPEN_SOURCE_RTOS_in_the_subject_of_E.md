@@ -1,0 +1,25 @@
+# Basic architecture of an RTOS
+
+- An RTOS (Real-Time Operating System) is a specialized operating system that provides deterministic and predictable behavior for time-critical applications.
+- An RTOS typically consists of a kernel and optional modules, such as device drivers, network protocols, file systems, debugging tools, etc.
+- The kernel is the core component of the RTOS that manages the tasks, resources, interrupts, and timers of the system.
+- The kernel provides the following services to the application:
+  - Task management: The kernel creates, deletes, schedules, and synchronizes tasks, which are the basic units of execution in an RTOS. Tasks can have different priorities, states, and attributes. The kernel uses a preemptive or cooperative scheduling algorithm to assign CPU time to tasks based on their priorities and deadlines.
+  - Memory management: The kernel allocates and deallocates memory for tasks and other system components. The kernel can use static or dynamic memory allocation methods, depending on the requirements and constraints of the system. The kernel also provides mechanisms for memory protection and sharing among tasks.
+  - Interrupt management: The kernel handles the interrupts from external or internal sources, such as hardware devices, timers, or software exceptions. The kernel can use different interrupt handling techniques, such as polling, vectored, or nested interrupts, to minimize the interrupt latency and overhead.
+  - Timer management: The kernel provides timers for measuring time intervals, generating periodic events, or implementing timeouts. The kernel can use hardware or software timers, depending on the availability and accuracy of the system clock. The kernel also provides mechanisms for adjusting the system time and synchronizing it with external sources.
+  - Communication and synchronization: The kernel provides inter-task communication and synchronization mechanisms, such as message queues, semaphores, mutexes, event flags, pipes, signals, etc. These mechanisms allow tasks to exchange data, coordinate actions, or access shared resources in a safe and efficient way.
+  - Other services: The kernel may also provide other services, such as power management, fault tolerance, security, logging, tracing, etc., depending on the needs and features of the system.
+
+- The modules are optional components of the RTOS that extend the functionality of the kernel and provide higher-level services to the application. Some examples of modules are:
+  - Device drivers: These are software components that interface with the hardware devices of the system, such as sensors, actuators, displays, keyboards, etc. Device drivers abstract the details of the device operation and provide a uniform and consistent interface to the kernel and the application.
+  - Network protocols: These are software components that implement the communication protocols for data transmission and reception over various network interfaces, such as Ethernet, Wi-Fi, Bluetooth, etc. Network protocols enable the system to communicate with other systems or devices over the network.
+  - File systems: These are software components that manage the storage and retrieval of data on various storage media, such as flash memory, hard disk, SD card, etc. File systems provide a hierarchical and logical organization of the data and support different file formats and attributes.
+  - Debugging tools: These are software components that assist the development, testing, and debugging of the system. Debugging tools provide features such as breakpoints, watchpoints, single-stepping, variable inspection, stack trace, etc. Debugging tools can use different communication channels, such as serial port, USB, JTAG, etc., to connect to the system.
+  - Other modules: The RTOS may also include other modules, such as graphical user interface (GUI), multimedia, encryption, compression, etc., depending on the application domain and requirements of the system.
+
+- The RTOS architecture can be classified into two main types: monolithic kernel and microkernel.
+  - A monolithic kernel is a single and large kernel that contains all the services and modules of the RTOS. A monolithic kernel runs in a single address space and has direct access to the hardware and memory. A monolithic kernel has the advantages of high performance, low overhead, and simplicity, but also has the disadvantages of low modularity, high complexity, and low reliability.
+  - A microkernel is a small and minimal kernel that contains only the essential services of the RTOS, such as task management, memory management, and interrupt management. A microkernel runs in a separate address space and communicates with the modules and the application through message passing. A microkernel has the advantages of high modularity, low complexity, and high reliability, but also has the disadvantages of low performance, high overhead, and difficulty.
+
+- The choice of the RTOS architecture depends on the trade-offs between the performance, functionality, reliability, and

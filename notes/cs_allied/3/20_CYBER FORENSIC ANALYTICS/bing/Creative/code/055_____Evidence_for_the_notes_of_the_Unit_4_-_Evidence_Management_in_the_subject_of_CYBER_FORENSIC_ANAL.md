@@ -1,0 +1,27 @@
+### Evidence for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of protecting, preserving, analyzing and presenting digital evidence in a cyber forensic investigation.
+- Digital evidence is information stored or transmitted in binary form that may be relied on in court. It can be found on a computer hard drive, a mobile phone, among other places.
+- The objectives of evidence management are:
+  - To recover, analyze, and preserve digital evidence in such a manner that it helps the investigation agency to present them as evidence in a court of law.
+  - To postulate the motive behind the crime and identity of the main culprit.
+  - To ensure the integrity, authenticity, and reliability of the digital evidence.
+- The challenges of evidence management are:
+  - The large volume and variety of digital evidence that needs to be collected, stored, and analyzed.
+  - The dynamic and volatile nature of digital evidence that can be easily altered, deleted, or corrupted.
+  - The legal and ethical issues related to the privacy, security, and ownership of digital evidence.
+  - The technical and operational issues related to the compatibility, standardization, and interoperability of digital evidence tools and systems.
+- The steps of evidence management are:
+  - Identification: The investigator identifies the potential sources and types of digital evidence relevant to the case.
+  - Collection: The investigator collects the digital evidence using appropriate methods and tools, such as imaging, hashing, and logging.
+  - Preservation: The investigator preserves the digital evidence using proper storage media and formats, such as write-protected disks, encryption, and compression.
+  - Analysis: The investigator analyzes the digital evidence using various techniques and tools, such as data carving, keyword searching, and timeline analysis.
+  - Presentation: The investigator presents the digital evidence in a clear and concise manner, using reports, charts, graphs, and tables.
+  - Disposition: The investigator disposes of the digital evidence according to the legal and organizational policies, such as retention, destruction, or return.
+- The best practices of evidence management are:
+  - Follow the standard operating procedures and guidelines for digital evidence handling and processing.
+  - Document and record every action and decision related to the digital evidence, such as who, what, when, where, why, and how.
+  - Maintain the chain of custody and continuity of the digital evidence, such as who had access, when, where, and for what purpose.
+  - Use reliable and validated tools and methods for digital evidence collection, preservation, and analysis.
+  - Verify and test the digital evidence for accuracy and completeness, such as using hash values, checksums, and digital signatures.
+  - Protect the digital evidence from unauthorized access, modification, or damage, such as using locks, seals, passwords, and backups.

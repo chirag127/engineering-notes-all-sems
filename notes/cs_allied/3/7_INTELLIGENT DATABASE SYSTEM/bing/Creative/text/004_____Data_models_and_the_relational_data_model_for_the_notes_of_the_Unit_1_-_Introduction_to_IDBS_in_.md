@@ -1,0 +1,25 @@
+### Data models and the relational data model
+
+- A data model is a way of representing the structure, organization, and relationships of data in a database system.
+- A data model can be conceptual, logical, or physical, depending on the level of abstraction and detail.
+- A conceptual data model describes the entities, attributes, and relationships of data in a high-level and independent way, without specifying how they are stored or implemented.
+- A logical data model describes the data in more detail, using a specific data model type, such as relational, hierarchical, network, or object-oriented.
+- A physical data model describes the data in terms of how they are stored and accessed in a specific database system, such as MySQL, Oracle, or MongoDB.
+- A relational data model is a type of logical data model that represents data as a collection of tables, also known as relations.
+- A table consists of rows, also known as tuples or records, and columns, also known as attributes or fields.
+- Each row in a table represents a unique instance of an entity, and each column represents a property or characteristic of that entity.
+- A table has a primary key, which is a column or a combination of columns that uniquely identifies each row in the table.
+- A table can also have foreign keys, which are columns that reference the primary keys of other tables, to establish relationships between tables.
+- A relational data model supports the following operations:
+  - Data definition: creating, modifying, and deleting tables and their attributes, constraints, and indexes.
+  - Data manipulation: inserting, updating, deleting, and querying data from tables using a query language, such as SQL.
+  - Transaction management: ensuring the consistency, integrity, and durability of data across multiple operations.
+- A relational data model has the following advantages:
+  - Simplicity: data are organized in a clear and intuitive way, using tables and columns.
+  - Flexibility: data can be accessed and manipulated in various ways, using different queries and operators.
+  - Integrity: data can be enforced to follow certain rules and constraints, such as primary keys, foreign keys, and referential integrity.
+  - Scalability: data can be distributed and replicated across multiple servers, to improve performance and availability.
+- A relational data model has the following disadvantages:
+  - Redundancy: data can be duplicated or repeated in multiple tables, leading to storage inefficiency and inconsistency.
+  - Rigidity: data are constrained by the predefined structure and schema of tables, which can be difficult to change or adapt to new requirements.
+  - Impedance mismatch: data are represented differently in the relational model and in the application or programming language, which can cause compatibility and performance issues.

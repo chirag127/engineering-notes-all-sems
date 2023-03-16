@@ -1,0 +1,15 @@
+### Architecture for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- An intelligent database system (IDBS) is a full-text database with artificial intelligence components that interact with users to ensure that users are supplied all relevant information.
+- An IDBS can be seen as a combination of three levels of intelligence: high level tools, the user interface and the database engine.
+- High level tools manage data quality and automatically discover relevant patterns in the data with a process called data mining. Data mining is the extraction of useful information from large amounts of data by applying various techniques such as classification, clustering, association, prediction, etc.
+- The user interface provides natural language processing, speech recognition, graphical visualization and intelligent agents to facilitate the interaction between the user and the system. Natural language processing is the ability of the system to understand and generate natural language queries and responses. Speech recognition is the ability of the system to convert spoken words into text or commands. Graphical visualization is the ability of the system to present the data in a graphical or pictorial form. Intelligent agents are software programs that can perform tasks on behalf of the user, such as searching, filtering, summarizing, etc.
+- The database engine provides efficient and reliable storage, retrieval and manipulation of data, as well as support for transactions, concurrency, security and integrity. The database engine can also incorporate features such as fuzzy logic, neural networks, genetic algorithms, etc to enhance the performance and functionality of the system. Fuzzy logic is a form of logic that deals with uncertainty and imprecision by using degrees of truth rather than binary values. Neural networks are computational models that mimic the structure and function of biological neurons and can learn from data and adapt to changes. Genetic algorithms are optimization techniques that use the principles of natural selection and evolution to find optimal solutions.
+
+- Some of the applications of IDBS are:
+
+  - Banking: IDBS can manage the transactions, accounts, loans, fraud detection, customer service, etc of banks and financial institutions.
+  - Education: IDBS can facilitate the online examinations, grading, feedback, course recommendation, etc of universities and colleges.
+  - Business: IDBS can help the businesses in decision making, marketing, customer relationship management, supply chain management, etc by analyzing the data and providing insights.
+  - Healthcare: IDBS can assist the healthcare providers in diagnosis, treatment, prescription, monitoring, etc by using the medical records, images, sensors, etc of the patients.
+  - Government: IDBS can support the government in policy making, public service, security, law enforcement, etc by using the data from various sources such as census, surveys, social media, etc.

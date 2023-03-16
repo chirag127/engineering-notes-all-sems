@@ -1,0 +1,23 @@
+## Unit 7 - Human Vision
+
+- Human vision is the ability to perceive visible light and use visual information for various purposes.
+- Human vision is binocular, meaning that each eye forms a different image on its retina and the brain combines these two images to create a three-dimensional perception of the world.
+- The human eye is a complex sensory organ that consists of several parts, such as the cornea, the pupil, the iris, the lens, the retina, the optic nerve, and the extraocular muscles.
+- The cornea is the clear front layer of the eye that bends light to help the eye focus.
+- The pupil is the opening in the center of the iris that controls the amount of light that enters the eye.
+- The iris is the colored part of the eye that regulates the size of the pupil.
+- The lens is the transparent structure behind the pupil that changes shape to help focus light onto the retina.
+- The retina is the thin layer of tissue at the back of the eye that contains light-sensitive cells called photoreceptors.
+- The optic nerve is the bundle of nerve fibers that connects the retina to the brain and carries visual signals.
+- The extraocular muscles are the six muscles that control the movements of the eye in different directions.
+- Human vision has some limitations, such as the blind spot, the visual field, the visual acuity, the depth perception, and the color perception.
+- The blind spot is the area in the retina where the optic nerve exits the eye and has no photoreceptors, making it insensitive to light.
+- The visual field is the range of angles that can be seen by each eye without moving the head.
+- The visual acuity is the ability to distinguish fine details and shapes at a certain distance.
+- The depth perception is the ability to judge the relative distance and position of objects in three-dimensional space.
+- The color perception is the ability to distinguish different wavelengths of light and assign them different colors.
+- Human color perception is based on three types of photoreceptors in the retina, called cones, that respond to red, green, and blue light.
+- The combination of signals from these three types of cones allows the brain to perceive a wide range of colors, but not all the colors that exist in the electromagnetic spectrum.
+- Some people have color vision deficiencies, meaning that they have fewer or different types of cones, making them unable to perceive certain colors or distinguish them from others.
+- Human vision is also influenced by external factors, such as the lighting conditions, the contrast, the context, and the expectations.
+- These factors can affect the perception of brightness, hue, saturation, and shape of the objects, and sometimes create optical illusions or misinterpretations.

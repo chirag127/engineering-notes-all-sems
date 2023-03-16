@@ -1,0 +1,21 @@
+### Multi-Agent Systems for the Notes of the Unit 5 - Applications in IDBS in the Subject of Intelligent Database Systems
+
+- A multi-agent system (MAS) is a computerized system composed of multiple interacting intelligent agents that can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve.
+- Multi-agent systems are a subfield of distributed artificial intelligence (DAI) that studies how a group of intelligent entities, called agents, can interact by cooperation, coexistence or competition.
+- Multi-agent systems can be applied to various domains, such as online trading, disaster response, target surveillance and social structure modelling.
+- Some of the benefits of using multi-agent systems are:
+  - Modularity: the system can be decomposed into smaller and simpler components that can be developed and maintained independently.
+  - Scalability: the system can adapt to changes in the environment or the problem size by adding or removing agents.
+  - Robustness: the system can tolerate failures or errors of individual agents by relying on the collective behaviour of the group.
+  - Flexibility: the system can handle dynamic and uncertain situations by allowing agents to negotiate and coordinate their actions.
+  - Intelligence: the system can exhibit emergent and adaptive behaviour by allowing agents to learn from their interactions and experiences.
+- Some of the challenges of using multi-agent systems are:
+  - Complexity: the system can be difficult to design, implement and test due to the high number of agents and interactions involved.
+  - Communication: the system can suffer from communication overhead, latency and bandwidth limitations due to the distributed nature of the agents.
+  - Coordination: the system can face coordination problems, such as conflicts, inconsistencies and inefficiencies, due to the autonomous and heterogeneous nature of the agents.
+  - Security: the system can be vulnerable to malicious attacks, such as eavesdropping, spoofing and denial of service, due to the open and distributed nature of the agents.
+- Some of the examples of multi-agent systems and their applications are:
+  - Kiva Systems: a multi-agent system that uses mobile robots to automate the warehouse operations of e-commerce companies, such as Amazon and Walmart.
+  - RoboCup: a multi-agent system that uses soccer-playing robots to demonstrate and evaluate the research on artificial intelligence, robotics and multi-agent systems.
+  - Ambient Intelligence: a multi-agent system that uses embedded and networked devices to provide personalized and context-aware services to users in smart environments, such as homes, offices and cars.
+  - Agent-Based Modelling: a multi-agent system that uses computational models to simulate and analyze the behaviour and interactions of complex systems, such as social networks, epidemics and ecosystems.

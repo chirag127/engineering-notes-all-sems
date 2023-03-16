@@ -1,0 +1,8 @@
+### A 'knowledge level' approach to the interaction with an IAS- TELOS for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A 'knowledge level' approach to the interaction with an IAS-TELOS refers to the use of a high-level, abstract representation of knowledge in the interaction between a user and an Intelligent Advisory System (IAS) that uses the TELOS language.
+- TELOS is a formal language for representing knowledge, designed to support the development of knowledge-based systems.
+- The 'knowledge level' approach focuses on the knowledge itself, rather than the specific details of how that knowledge is represented or manipulated within the system.
+- This approach allows for more natural and intuitive interaction between the user and the system, as the user can express their queries and requests in terms of the knowledge they are seeking, rather than having to understand the specific details of how the system represents and manipulates that knowledge.
+- The use of a 'knowledge level' approach can also facilitate the development and maintenance of the system, as changes to the underlying representation and manipulation of knowledge can be made without affecting the user's interaction with the system.
+- In the context of an IAS-TELOS, the 'knowledge level' approach can be used to support a wide range of tasks, including query answering, explanation generation, and decision support.

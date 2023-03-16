@@ -1,0 +1,14 @@
+### Architectures for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A semantic data model is a high-level, conceptual data model that includes semantic information that adds meaning to the data and the relationships between them .
+- A semantic data model is designed to capture more of the meaning of an application environment than is possible with contemporary database models.
+- A semantic data model can express and exchange information that enables interoperability, integration, and reasoning over data from different sources .
+- A semantic data model can be represented using various formalisms, such as entity-relationship diagrams, object-oriented models, or ontologies .
+- A semantic data model can be mapped to a logical data model that is implemented by a database management system (DBMS).
+- A semantic data model can be used for various purposes, such as data analysis, data integration, data quality, data governance, data security, and data visualization.
+
+Some of the architectures for semantic data models are:
+
+- Single-layer architecture: This architecture consists of a single semantic data model that is directly mapped to a logical data model and a physical data model. This architecture is simple and easy to maintain, but it may not be able to capture the complexity and diversity of the application environment.
+- Two-layer architecture: This architecture consists of two semantic data models: a global semantic data model that represents the common concepts and relationships across the application environment, and a local semantic data model that represents the specific concepts and relationships for each application domain. The global semantic data model is mapped to a logical data model and a physical data model, while the local semantic data model is mapped to a view or a schema of the logical data model. This architecture allows for more flexibility and scalability, but it may introduce redundancy and inconsistency between the global and local semantic data models.
+- Three-layer architecture: This architecture consists of three semantic data models: a conceptual semantic data model that represents the abstract and general concepts and relationships of the application environment, a logical semantic data model that represents the concrete and specific concepts and relationships of the application environment, and a physical semantic data model that represents the implementation details of the logical semantic data model. The conceptual semantic data model is mapped to the logical semantic data model, which is mapped to the physical semantic data model, which is mapped to a logical data model and a physical data model. This architecture allows for more modularity and abstraction, but it may increase the complexity and overhead of the mapping process.

@@ -1,0 +1,21 @@
+### Solution to Byzantine Agreement problem
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties to agree on a value even if some of the parties are corrupted or faulty.
+- The problem was first defined by Lamport and is also known as the interactive consistency problem.
+- The problem can be illustrated by the analogy of the Byzantine generals problem, where several divisions of the Byzantine army are camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action, such as attack or retreat. However, some of the generals may be traitors and try to sabotage the plan. The loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination).
+- A solution to the Byzantine agreement problem must satisfy the following properties:
+  - **Agreement**: All honest parties must agree on the same value.
+  - **Validity**: If all honest parties start with the same value, they must agree on that value.
+  - **Termination**: All honest parties must eventually decide on a value.
+- A solution to the Byzantine agreement problem also depends on the following assumptions:
+  - **Synchronous communication**: There is a known upper bound on the time it takes for a message to be delivered.
+  - **Authenticated messages**: The sender and the content of a message can be verified by the receiver.
+  - **Number of faulty parties**: The number of faulty parties is less than a certain fraction of the total number of parties.
+- One of the classical solutions to the Byzantine agreement problem is the **Oral Messages Algorithm** proposed by Lamport. The algorithm works as follows:
+  - There is one source party that has an initial value and n-1 other parties that need to agree on that value.
+  - The source party sends its value to all other parties.
+  - Each party that receives a value from the source party sends that value to all other parties.
+  - Each party that receives n-1 identical values from other parties decides on that value.
+  - The algorithm repeats for m rounds, where m is the maximum number of faulty parties.
+  - The algorithm guarantees that if there are at most m faulty parties, then all honest parties will agree on the same value as the source party, if the source party is honest.
+  - The algorithm requires n ≥ 3m+1 parties and m+1 rounds of communication.

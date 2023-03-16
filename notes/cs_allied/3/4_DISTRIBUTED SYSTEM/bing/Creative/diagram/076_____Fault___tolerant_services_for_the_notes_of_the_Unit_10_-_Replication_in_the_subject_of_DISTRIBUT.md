@@ -1,0 +1,11 @@
+### Fault-Tolerant Services for the Notes of the Unit 10 - Replication in the Subject of Distributed System
+
+- Fault-tolerance is the ability of a system to continue providing correct service despite the occurrence of faults, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique for achieving fault-tolerance by creating and maintaining multiple copies of the same service or data on different servers or locations.
+- Replication can improve the availability, performance, and reliability of a distributed system, but also introduces challenges such as consistency, coordination, and recovery.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+  - Primary-backup replication: One server acts as the primary and handles all the requests from the clients, while the others act as backups and receive updates from the primary. The primary is responsible for ensuring the consistency and order of the updates. If the primary fails, one of the backups takes over as the new primary.
+  - Active replication: All servers are active and execute the same requests from the clients in the same order. The servers use a consensus protocol to agree on the order of the requests. The clients receive responses from all the servers and ignore the faulty ones.
+- The correctness criterion for replicated services is linearizability, which means that every operation appears to take effect instantaneously at some point between its invocation and response, and that the operations respect their real-time order.
+- The replicated state machine approach is a general method for implementing a fault-tolerant service by replicating servers and coordinating client interactions with server replicas. This approach can use either primary-backup replication or active replication, depending on the type and number of faults to be tolerated.
+- An alternative method for fault-tolerance is fused state machines, which combines ideas from replication and coding theory to achieve efficiency and savings in storage and messages during normal operations, at the cost of higher overhead during recovery from faults. This method uses a combination of erasure coding and secret sharing to encode the state of the service and distribute it among the servers.

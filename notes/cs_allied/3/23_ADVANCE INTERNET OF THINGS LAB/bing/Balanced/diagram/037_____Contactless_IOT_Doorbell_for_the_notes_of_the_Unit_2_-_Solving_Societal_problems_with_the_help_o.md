@@ -1,0 +1,21 @@
+### Contactless IOT Doorbell
+
+- A contactless IOT doorbell is a device that uses internet of things (IOT) technology to alert the house owner about the arrival of a visitor without requiring physical contact.
+- A contactless IOT doorbell can also perform additional functions such as scanning the temperature of the visitor, recognizing the face of the visitor, capturing the image of the visitor, and sending notifications to the house owner's mobile or desktop device.
+- A contactless IOT doorbell can help solve societal problems such as preventing the spread of infectious diseases like Covid-19, enhancing the security and safety of the house, and improving the convenience and comfort of the house owner.
+- A contactless IOT doorbell typically consists of the following components:
+  - A microcontroller or a microprocessor such as NodeMCU or Raspberry Pi that acts as the brain of the device and controls the communication and processing of data.
+  - A non-contact infrared temperature sensor such as MLX90614 that measures the body temperature of the visitor and sends the data to the microcontroller.
+  - A camera module such as Pi Camera that captures the image of the visitor and sends the data to the microcontroller.
+  - A speaker or a buzzer that produces a sound or a voice message to alert the house owner or the visitor.
+  - A wireless communication module such as Wi-Fi or Bluetooth that connects the device to the internet and enables the data transmission and reception between the device and the house owner's mobile or desktop device.
+  - A power supply such as a battery or a solar panel that provides the necessary voltage and current to the device.
+  - A casing or a frame that encloses and protects the device from external factors such as weather, dust, and vandalism.
+- A contactless IOT doorbell works as follows:
+  - When a visitor approaches the door, the device detects the presence of the visitor using the temperature sensor or the camera module.
+  - The device then scans the temperature of the visitor using the temperature sensor and compares it with a predefined threshold value. If the temperature is above the threshold, the device assumes that the visitor may have a fever and could be a potential Covid-19 patient.
+  - The device then captures the image of the visitor using the camera module and performs face recognition using a pre-trained model or a database. If the face is recognized, the device identifies the visitor as a known person. If the face is not recognized, the device identifies the visitor as an unknown person.
+  - The device then sends the temperature and the image data along with the visitor's identity to the house owner's mobile or desktop device using the wireless communication module. The house owner can view the data on a mobile app or a web browser and decide whether to allow or deny the entry of the visitor.
+  - The device also sends the data to an online database such as Firebase that logs all the readings of the device and provides a history of the visitors and their temperatures.
+  - The device then produces a sound or a voice message using the speaker or the buzzer to alert the house owner or the visitor about the status of the entry. The sound or the voice message can be customized according to the house owner's preference or the visitor's identity.
+  - The device can also trigger an alarm or a notification on the house owner's mobile or desktop device in case of an abnormal or suspicious behaviour of the visitor such as a high temperature, an unknown face, or a repeated attempt to enter the house.

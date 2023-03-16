@@ -1,0 +1,8 @@
+# IPv4
+
+- IPv4 stands for Internet Protocol version 4, which is the fourth version in the development of the Internet Protocol (IP) and the first version of the protocol to be widely deployed .
+- IPv4 is a numeric address that consists of 32 bits, which are divided into four octets (bytes) separated by dots. Each octet can have a value between 0 and 255 in decimal notation . For example, 192.168.0.1 is a valid IPv4 address.
+- IPv4 has 12 header fields, each of which has a fixed length of 20 bytes. The header fields contain information such as the source and destination addresses, the protocol type, the packet length, the time to live (TTL), and the checksum .
+- IPv4 supports different types of addresses, such as unicast, broadcast, and multicast. Unicast addresses are used to identify a single host on the network, broadcast addresses are used to send a packet to all hosts on the network, and multicast addresses are used to send a packet to a group of hosts on the network .
+- IPv4 also supports variable length subnet masking (VLSM), which allows the network administrator to divide the network into subnets of different sizes, depending on the number of hosts and the traffic requirements .
+- IPv4 has a limited address space of 2^32, which is about 4.3 billion addresses. Due to the rapid growth of the Internet, IPv4 addresses are running out and a new version of IP, called IPv6, has been developed to overcome this limitation .

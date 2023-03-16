@@ -1,0 +1,17 @@
+#### 1. Start Raspberry Pi and try various Linux commands in command terminal window: ls, cd, touch, mv, rm, man
+
+- Raspberry Pi is a small computer that runs on Linux, a free and open source operating system.
+- To start Raspberry Pi, you need to connect it to a power source, a monitor, a keyboard, and a mouse. You also need to insert a microSD card with a Linux distribution installed on it, such as Raspberry Pi OS.
+- Once Raspberry Pi boots up, you will see a graphical user interface (GUI) with icons and menus. You can use the mouse and keyboard to interact with the GUI, or you can open a command terminal window to type commands.
+- A command terminal window is a text-based interface that allows you to execute commands and programs on Raspberry Pi. You can open a command terminal window by clicking on the terminal icon on the taskbar, or by pressing Ctrl+Alt+T on the keyboard.
+- In the command terminal window, you will see a prompt that looks something like this: pi@raspberrypi:~ $
+- The prompt shows your username (pi), your hostname (raspberrypi), and your current working directory (~, which means your home directory).
+- You can type commands after the prompt and press Enter to execute them. Commands are case-sensitive and can have options and arguments. For example, the command ls -l /home/pi shows a detailed list of files and directories in the /home/pi directory.
+- Some of the most common and useful Linux commands are:
+
+  - ls: lists the files and directories in the current working directory or in a specified directory. You can use options such as -l (long format), -a (all files, including hidden ones), -h (human-readable sizes), etc. to modify the output of the command.
+  - cd: changes the current working directory to a specified directory. You can use . (current directory), .. (parent directory), ~ (home directory), or an absolute or relative path as an argument. For example, cd /home/pi/Desktop changes the current working directory to /home/pi/Desktop, and cd .. changes it to /home/pi.
+  - touch: creates a new empty file or updates the timestamp of an existing file. You can specify one or more filenames as arguments. For example, touch test.txt creates or updates a file named test.txt in the current working directory.
+  - mv: moves or renames a file or directory. You can specify the source and the destination as arguments. For example, mv test.txt Documents moves the file test.txt from the current working directory to the Documents directory, and mv test.txt new.txt renames the file test.txt to new.txt.
+  - rm: removes a file or directory. You can specify one or more filenames or directories as arguments. You can use options such as -r (recursive, removes directories and their contents), -f (force, ignores nonexistent files and prompts), -i (interactive, asks for confirmation before removing each file), etc. to modify the behavior of the command. For example, rm -rf test deletes the file or directory named test and all its contents without asking for confirmation.
+  - man: displays the manual page for a command or a topic. You can specify the name of the command or the topic as an argument. For example, man ls shows the manual page for the ls command, which explains its syntax, options, arguments, and examples. You can use the arrow keys, Page Up, Page Down, Home, End, etc. to scroll through the manual page, and press Q to quit.

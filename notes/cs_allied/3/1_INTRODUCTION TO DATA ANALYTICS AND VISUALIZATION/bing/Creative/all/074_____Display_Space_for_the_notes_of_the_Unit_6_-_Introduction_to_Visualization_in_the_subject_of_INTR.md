@@ -1,0 +1,21 @@
+# Display Space for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Visualization is the process of creating and displaying graphical representations of data or information.
+- Visualization can help to explore, analyze, communicate, and understand data in various contexts and domains.
+- Visualization can be classified into different types based on the purpose, the data, the audience, and the technique.
+- Some common types of visualization are:
+  - Statistical charts: These are used to show the distribution, correlation, comparison, or composition of numerical data. Examples are bar charts, pie charts, scatter plots, histograms, etc.
+  - Maps: These are used to show the spatial or geographical distribution of data or information. Examples are choropleth maps, heat maps, bubble maps, etc.
+  - Networks: These are used to show the relationships or connections between entities or nodes. Examples are graphs, trees, matrices, etc.
+  - Timelines: These are used to show the temporal or chronological sequence of events or data. Examples are line charts, Gantt charts, calendars, etc.
+  - Hierarchies: These are used to show the structure or organization of data or information. Examples are treemaps, sunburst charts, dendrograms, etc.
+  - Texts: These are used to show the content or meaning of textual data or information. Examples are word clouds, tag clouds, text summaries, etc.
+  - Images: These are used to show the visual or perceptual features of data or information. Examples are photographs, icons, diagrams, etc.
+- Visualization can be created and displayed using various tools and technologies, such as software applications, programming languages, libraries, frameworks, etc.
+- Some common tools and technologies for visualization are:
+  - Excel: This is a spreadsheet application that can create and display various types of charts and graphs.
+  - Tableau: This is a software application that can create and display interactive and dynamic visualizations of data from various sources.
+  - Python: This is a programming language that can create and display visualizations using various libraries, such as matplotlib, seaborn, plotly, etc.
+  - R: This is a programming language that can create and display visualizations using various libraries, such as ggplot2, lattice, shiny, etc.
+  - D3.js: This is a JavaScript library that can create and display web-based visualizations using HTML, CSS, and SVG.
+  - Power BI: This is a software application that can create and display business intelligence and analytics visualizations of data from various sources.

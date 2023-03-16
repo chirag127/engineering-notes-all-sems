@@ -1,0 +1,21 @@
+# Architectural Models for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+
+- A data platform is a collection of technologies and services that enable data ingestion, storage, processing, analysis, and visualization.
+- A data platform architecture is a design that specifies how the data platform components interact and interoperate to achieve the desired data outcomes and business goals.
+- A data platform architecture can be described by using different types of models, such as conceptual, logical, and physical models.
+- Conceptual models provide a high-level view of the data platform, focusing on the business entities, relationships, and rules that are relevant to the data domain .
+- Logical models provide a more detailed view of the data platform, focusing on the data structures, formats, and schemas that are used to represent and store the data .
+- Physical models provide a low-level view of the data platform, focusing on the specific technologies, platforms, and configurations that are used to implement the data platform .
+- Conceptual, logical, and physical models are interrelated and can be derived from each other, but they serve different purposes and audiences.
+- Conceptual models are useful for communicating the data platform vision and scope to the business stakeholders and users.
+- Logical models are useful for designing the data platform components and ensuring data quality, consistency, and integrity.
+- Physical models are useful for implementing and deploying the data platform components and ensuring data performance, scalability, and security.
+- A data platform architecture can also be described by using different perspectives, such as data sources, data pipelines, data storage, data processing, data analysis, and data visualization .
+- Data sources are the origins of the data that are ingested into the data platform, such as databases, files, streams, APIs, etc.
+- Data pipelines are the processes and workflows that transform, enrich, and move the data from the sources to the storage.
+- Data storage are the repositories that store the data in different formats and structures, such as data lakes, data warehouses, data reservoirs, etc.
+- Data processing are the techniques and tools that manipulate, aggregate, and query the data in the storage, such as batch processing, stream processing, SQL, etc.
+- Data analysis are the methods and models that extract insights and patterns from the data in the storage, such as descriptive analytics, predictive analytics, prescriptive analytics, etc.
+- Data visualization are the ways and means that present the data and insights to the users, such as dashboards, reports, charts, graphs, etc.
+- Data platform architectures can vary depending on the data characteristics, requirements, and objectives, such as data volume, velocity, variety, veracity, value, etc.
+- Data platform architectures can also evolve over time to adapt to the changing data needs and opportunities, such as new data sources, new data technologies, new data use cases, etc.

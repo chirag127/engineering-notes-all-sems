@@ -1,0 +1,23 @@
+# Real Time Sentiment Analysis
+
+- Real time sentiment analysis is a machine learning technique that automatically recognizes and extracts the sentiment in a text whenever it occurs .
+- Sentiment is the subjective attitude or emotion expressed by a person or a group of people towards a topic, such as a brand, a product, a service, or an event.
+- Sentiment analysis can be performed at different levels of granularity, such as document-level, sentence-level, aspect-level, or entity-level.
+- Sentiment analysis can be classified into two main approaches: rule-based and learning-based.
+  - Rule-based approaches use predefined rules, lexicons, and dictionaries to assign sentiment scores to text based on the presence and combination of words and phrases.
+  - Learning-based approaches use supervised or unsupervised machine learning algorithms to learn from labeled or unlabeled data and generate sentiment predictions.
+- Real time sentiment analysis is useful for various applications, such as:
+  - Monitoring brand reputation and customer feedback on social media and online platforms  .
+  - Detecting customer satisfaction and loyalty, and identifying pain points and areas of improvement  .
+  - Analyzing market trends and consumer preferences, and discovering new opportunities and threats  .
+  - Enhancing customer service and support, and providing personalized and timely responses  .
+  - Improving product development and marketing strategies, and increasing sales and revenue  .
+- Real time sentiment analysis faces several challenges, such as:
+  - Dealing with noisy, unstructured, and informal data from various sources and languages  .
+  - Handling sarcasm, irony, humor, and figurative language, which can affect the sentiment polarity and intensity  .
+  - Capturing the context, tone, and intention of the text, which can vary depending on the domain, audience, and situation  .
+  - Balancing the trade-off between speed and accuracy, and ensuring the scalability and robustness of the sentiment analysis models  .
+- Real time sentiment analysis can be implemented using various tools and frameworks, such as:
+  - Repustate: a cloud-based platform that provides real time sentiment analysis for social media and online data, with support for multiple languages and domains .
+  - MonkeyLearn: a cloud-based platform that allows users to create and deploy custom sentiment analysis models using pre-trained or user-defined data, with support for various text formats and integrations.
+  - Microsoft Dynamics 365 Customer Insights: a cloud-based platform that enables users to perform sentiment analysis on customer feedback and interactions, and generate insights and recommendations for improving customer experience.

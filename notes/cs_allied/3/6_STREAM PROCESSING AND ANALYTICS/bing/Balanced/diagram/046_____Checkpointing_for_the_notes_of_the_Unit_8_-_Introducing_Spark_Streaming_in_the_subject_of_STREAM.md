@@ -1,0 +1,24 @@
+### Checkpointing for the notes of the Unit 8 - Introducing Spark Streaming in the subject of STREAM PROCESSING AND ANALYTICS
+
+- Checkpointing is a process of writing received records at checkpoint intervals to HDFS or other HDFS compatible file systems to build fault-tolerant and resilient Spark applications  .
+- Checkpointing is a requirement for streaming applications that must operate 24/7  and recover from failures without data loss .
+- Checkpointing can be of two types: metadata checkpointing and data checkpointing .
+- Metadata checkpointing stores the following information:
+  - Incomplete batches: the events that are grouped for a period of time and processed as a batch.
+  - Configuration: the settings that were set up for the streaming application, such as maxFilesPerTrigger, maxOffsetsPerTrigger, etc.
+  - DStream operations: the transformations and output operations applied on the DStreams.
+  - Offsets: the offsets of the events that have been processed or are being processed.
+- Data checkpointing stores the actual data received by the streaming application .
+- Data checkpointing is necessary when the lineage of the RDDs becomes too long and may cause performance issues or out of memory errors .
+- Data checkpointing can be enabled by setting the Spark configuration `spark.streaming.receiver.writeAheadLog.enable` to `true`.
+- Metadata checkpointing can be enabled by calling the `checkpoint()` method on the streaming context object and passing the directory path where the checkpoint data will be stored .
+- Checkpointing can also be done asynchronously, which means the state updates are written to the checkpoint location in a separate thread, without blocking the main query execution.
+- Asynchronous checkpointing can reduce end-to-end latencies without sacrificing any fault-tolerance guarantees, but with a minor cost of higher restart delays.
+- Asynchronous checkpointing can be enabled by setting the Spark configuration `spark.sql.streaming.stateStore.providerClass` to `org.apache.spark.sql.execution.streaming.state.HDFSBackedStateStoreProvider`.
+- Spark Structured Streaming uses the same underlying architecture as Spark, so it can take advantage of all the performance and cost optimizations built into the Spark engine.
+- Spark Structured Streaming can handle both batch and streaming data sources with a unified API.
+- Spark Structured Streaming supports various input sources, such as Kafka, Flume, socket, file, etc.
+- Spark Structured Streaming supports various output sinks, such as console, file, memory, Kafka, etc.
+- Spark Structured Streaming supports various output modes, such as append, update, and complete.
+- Spark Structured Streaming supports various operations, such as map, filter, join, aggregate, window, etc.
+- Spark Structured Streaming supports various triggers, such as processing time, event time, and continuous.

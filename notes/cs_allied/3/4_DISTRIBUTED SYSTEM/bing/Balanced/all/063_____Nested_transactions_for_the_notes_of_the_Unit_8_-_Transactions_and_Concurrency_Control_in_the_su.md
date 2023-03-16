@@ -1,0 +1,13 @@
+# Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a logical unit of work that consists of a sequence of operations that must be executed atomically, consistently, isolated, and durable (ACID properties).
+- A distributed transaction is a transaction that accesses data or resources that are managed by different servers or nodes in a distributed system.
+- A nested transaction is a transaction that is composed of subtransactions that can be committed or aborted independently, but are also coordinated by a parent transaction that ensures the overall atomicity of the whole transaction.
+- Nested transactions can be useful for several reasons, such as:
+  - Breaking down a complex transaction into simpler and more manageable subtransactions.
+  - Allowing partial results or intermediate states to be visible or persistent without violating the ACID properties of the whole transaction.
+  - Supporting concurrency control and recovery mechanisms that can handle subtransactions separately and reduce locking or logging overheads.
+  - Providing modularity and flexibility for transaction processing in distributed systems, where different subtransactions can be executed by different servers or nodes.
+- Nested transactions can be classified into two types, depending on how the subtransactions are related to the parent transaction:
+  - Closed nested transactions: The subtransactions are completely isolated from the parent transaction and other subtransactions, and their effects are only visible to the parent transaction after they commit. The parent transaction can abort any subtransaction at any time, and can also abort itself, which causes all the subtransactions to abort as well. This type of nested transactions preserves the strict serializability of the whole transaction, but may incur high overheads for maintaining isolation and undoing subtransactions.
+  - Open nested transactions: The subtransactions are allowed to share some data or resources with the parent transaction or other subtransactions, and their effects can be visible or persistent before they commit. The parent transaction cannot abort any subtransaction after it commits, and can only abort itself if none of the subtransactions have committed. This type of nested transactions relaxes the serializability of the whole transaction, but may improve the performance and availability of the system by allowing more concurrency and reducing the need for compensation or recovery.

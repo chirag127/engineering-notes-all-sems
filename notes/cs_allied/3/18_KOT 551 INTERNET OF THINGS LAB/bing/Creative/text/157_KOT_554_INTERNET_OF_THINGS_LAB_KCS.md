@@ -1,0 +1,24 @@
+# KOT 554 INTERNET OF THINGS LAB KCS
+
+- Internet of Things (IoT) is a course that introduces the concepts and applications of connecting physical objects to the internet and to each other.
+- The course covers the following topics:
+  - Introduction to IoT and its architecture, components, and protocols.
+  - IoT devices and sensors, their types, characteristics, and interfacing methods.
+  - IoT communication technologies and standards, such as Wi-Fi, Bluetooth, ZigBee, LoRa, MQTT, CoAP, etc.
+  - IoT cloud platforms and services, such as AWS IoT, Google Cloud IoT, IBM Watson IoT, etc.
+  - IoT data processing and analytics, such as data acquisition, storage, visualization, and machine learning.
+  - IoT security and privacy, such as encryption, authentication, authorization, and attack prevention and detection.
+  - IoT applications and case studies, such as smart home, smart city, smart agriculture, smart health, etc.
+- The course has a lab component that involves hands-on experiments and projects using various IoT devices, sensors, communication modules, and cloud platforms.
+- The course objectives are:
+  - To understand the basic concepts and principles of IoT and its architecture, components, and protocols.
+  - To learn how to design, implement, and test IoT systems using various IoT devices, sensors, communication modules, and cloud platforms.
+  - To develop skills in IoT data processing and analytics using various tools and techniques.
+  - To explore the challenges and opportunities of IoT in various domains and applications.
+  - To enhance the creativity and problem-solving abilities of the students in IoT domain.
+- The course outcomes are:
+  - The students will be able to explain the basic concepts and principles of IoT and its architecture, components, and protocols.
+  - The students will be able to design, implement, and test IoT systems using various IoT devices, sensors, communication modules, and cloud platforms.
+  - The students will be able to perform IoT data processing and analytics using various tools and techniques.
+  - The students will be able to identify the challenges and opportunities of IoT in various domains and applications.
+  - The students will be able to demonstrate their creativity and problem-solving abilities in IoT domain.

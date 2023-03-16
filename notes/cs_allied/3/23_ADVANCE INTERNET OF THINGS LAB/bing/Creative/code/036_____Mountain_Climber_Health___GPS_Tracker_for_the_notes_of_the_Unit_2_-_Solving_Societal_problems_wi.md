@@ -1,0 +1,26 @@
+# Mountain Climber Health & GPS Tracker
+
+- This is a project that aims to solve the societal problem of mountaineering accidents and emergencies by using the Internet of Things (IoT) technology.
+- IoT is the interconnection of physical devices, sensors, and networks that can collect and exchange data over the internet.
+- The project consists of a wearable device that monitors the health and location of a mountain climber, and an IoT platform that displays the data and alerts the rescue team in case of any abnormality.
+- The wearable device has the following components:
+  - A heart rate sensor that measures the pulse of the climber and sends it to the IoT platform.
+  - A GPS module that tracks the position of the climber and sends it to the IoT platform.
+  - A GSM module that enables the communication between the device and the IoT platform via SMS messages.
+  - A microcontroller that controls the logic and operation of the device.
+  - A battery that powers the device.
+- The IoT platform has the following components:
+  - A web server that hosts the web application and the database.
+  - A web application that displays the data and alerts of the climber on a map and a dashboard.
+  - A database that stores the data and alerts of the climber.
+  - A SMS gateway that receives and sends SMS messages from and to the device.
+- The project has the following advantages:
+  - It allows for real-time monitoring of the climber's health and location over the internet.
+  - It provides upper and lower limit settings for the heart rate of the climber, and sends alerts if the limits are crossed.
+  - It enables the rescue team to locate and reach the climber in case of an emergency.
+  - It operates automatically and does not require any manual intervention from the climber or the rescue team.
+- The project has the following challenges:
+  - It requires a reliable and stable network connection between the device and the IoT platform.
+  - It depends on the accuracy and availability of the GPS signal in the mountainous terrain.
+  - It consumes a lot of battery power and needs frequent recharging.
+  - It may face interference and noise from other devices and environmental factors.

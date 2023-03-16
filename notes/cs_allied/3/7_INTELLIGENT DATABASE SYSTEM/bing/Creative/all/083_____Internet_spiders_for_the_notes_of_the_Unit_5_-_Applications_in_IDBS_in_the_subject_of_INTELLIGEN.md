@@ -1,0 +1,7 @@
+# Internet spiders
+
+- Internet spiders, also known as web crawlers, web spiders, or spiderbots, are programs that systematically browse the World Wide Web and index the content of websites   .
+- Internet spiders are typically operated by search engines like Google and Bing to provide relevant and updated search results for user queries  .
+- Internet spiders work by following the hyperlinks on web pages and downloading the HTML content of each page. They also extract metadata, such as keywords, titles, and descriptions, from the web pages and store them in a database .
+- Internet spiders use various algorithms and policies to decide which web pages to visit, how often to revisit them, and how to handle duplicate or dynamic content. Some of the factors that influence these decisions are the popularity, freshness, and quality of the web pages.
+- Internet spiders can have positive or negative impacts on the web. On the positive side, they enable users to find relevant and updated information on the web and help webmasters to improve their websites' visibility and performance. On the negative side, they can consume a lot of bandwidth and resources, violate the privacy and security of web users and webmasters, and cause ethical and legal issues.

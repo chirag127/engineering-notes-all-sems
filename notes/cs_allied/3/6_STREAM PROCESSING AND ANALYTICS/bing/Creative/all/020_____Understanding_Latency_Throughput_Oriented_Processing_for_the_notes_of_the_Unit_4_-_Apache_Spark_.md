@@ -1,0 +1,25 @@
+# Understanding Latency-Throughput-Oriented Processing for the notes of the Unit 4 - Apache Spark as a Stream-Processing Engine
+
+- Apache Spark is a framework for large-scale data processing that supports batch, streaming, and interactive queries.
+- Streaming applications require low latency and high throughput to process data in real time and provide timely insights.
+- Latency is the time it takes to process a single record or a batch of records from the input source to the output sink.
+- Throughput is the number of records processed per unit of time, usually measured in records per second or megabytes per second.
+- Latency and throughput are often inversely related, meaning that lowering latency may reduce throughput and vice versa.
+- Spark uses a Bulk Synchronous Parallel (BSP) computation model, where tasks are executed in batches and synchronized at the end of each batch.
+- Spark Streaming divides the input data stream into micro-batches, which are processed by Spark's core engine as RDDs.
+- Spark Structured Streaming is a higher-level API that builds on Spark Streaming and provides a unified model for batch and streaming queries.
+- Spark Structured Streaming uses a continuous execution mode, where tasks are executed as soon as data arrives, without waiting for micro-batch boundaries.
+- Spark Structured Streaming also uses a Project Lightspeed feature, which optimizes the query plan and the execution engine to reduce latency and increase throughput.
+- Some of the techniques used by Project Lightspeed are:
+  - Adaptive query execution, which dynamically adjusts the query plan based on runtime statistics
+  - Code generation, which compiles the query plan into optimized Java bytecode
+  - Shuffle improvements, which reduce the network and disk overhead of data shuffling
+  - State store improvements, which enhance the performance and scalability of stateful operations
+  - Delta Lake integration, which enables fast and reliable data ingestion and output using a transactional storage layer
+- Some of the best practices for achieving low latency and high throughput with Spark Streaming are :
+  - Choosing the right input and output sources, such as Kafka, Flume, or Delta Lake, that support high concurrency and parallelism
+  - Tuning the batch size and the batch interval, which affect the trade-off between latency and throughput
+  - Increasing the level of parallelism, by setting the number of partitions, cores, and executors appropriately
+  - Minimizing the data shuffling, by using co-partitioning, coalescing, or caching techniques
+  - Leveraging the built-in functions and operators, which are optimized for performance and memory efficiency
+  - Monitoring and debugging the streaming application, using the Spark UI, the metrics system, or the structured streaming UI

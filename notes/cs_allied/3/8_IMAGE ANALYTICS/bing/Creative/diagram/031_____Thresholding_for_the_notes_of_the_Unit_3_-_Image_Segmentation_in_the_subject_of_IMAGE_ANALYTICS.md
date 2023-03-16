@@ -1,0 +1,15 @@
+### Thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+
+- Thresholding is one of the segmentation techniques that generates a binary image (a binary image is one whose pixels have only two values – 0 and 1 and thus requires only one bit to store pixel intensity) from a given grayscale image by separating it into two regions based on a threshold value.
+- Image thresholding is a type of image segmentation that divides the foreground from the background in an image. In this technique, the pixel values are assigned corresponding to the provided threshold values. In computer vision, thresholding is done in grayscale images.
+- The basic idea of thresholding is to compare each pixel of an image with a predefined threshold and assign it to one of the two possible output values, such as 0 or 1, black or white, etc. The threshold can be a constant value or a variable value that depends on the image characteristics.
+- There are different types of thresholding methods, such as global thresholding, local thresholding, adaptive thresholding, Otsu's method, etc. Each method has its own advantages and disadvantages, depending on the image quality, noise level, contrast, and application .
+- Image thresholding segmentation based on weighted Parzen window estimation (WPWE) is a new bi-level thresholding approach that uses a weighted probability density function to estimate the optimal threshold. This method can handle images with low contrast, uneven illumination, and complex background.
+
+Here is a diagram that illustrates the thresholding process:
+
+```markdown
+![Thresholding diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Thresholding.png/800px-Thresholding.png)
+
+Source: https://en.wikipedia.org/wiki/Thresholding_(image_processing)
+```

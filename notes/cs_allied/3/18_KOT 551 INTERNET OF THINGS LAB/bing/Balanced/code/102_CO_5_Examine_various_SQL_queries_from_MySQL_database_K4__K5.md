@@ -1,0 +1,19 @@
+# CO 5 Examine various SQL queries from MySQL database K4, K5
+
+SQL stands for Structured Query Language and is a standard language for accessing and manipulating data in relational databases. MySQL is an open-source relational database management system that uses SQL as its query language.
+
+Some of the basic SQL queries that can be used in MySQL database are:
+
+- **SELECT**: This query is used to retrieve data from one or more tables based on some conditions. For example, `SELECT * FROM customers;` will return all the data from the customers table.
+- **INSERT**: This query is used to insert new data into a table. For example, `INSERT INTO customers (name, email, phone) VALUES ('John', 'john@example.com', '1234567890');` will add a new record to the customers table with the specified values.
+- **UPDATE**: This query is used to modify existing data in a table. For example, `UPDATE customers SET email = 'john@gmail.com' WHERE name = 'John';` will update the email address of the customer named John in the customers table.
+- **DELETE**: This query is used to delete existing data from a table. For example, `DELETE FROM customers WHERE name = 'John';` will delete the record of the customer named John from the customers table.
+- **CREATE**: This query is used to create a new table or database in MySQL. For example, `CREATE TABLE products (id INT, name VARCHAR(50), price DECIMAL(10,2));` will create a new table named products with the specified columns and data types.
+- **ALTER**: This query is used to modify the structure of an existing table or database in MySQL. For example, `ALTER TABLE products ADD COLUMN description TEXT;` will add a new column named description to the products table.
+- **DROP**: This query is used to delete an existing table or database in MySQL. For example, `DROP TABLE products;` will delete the products table from the database.
+- **JOIN**: This query is used to combine data from two or more tables based on a common column or condition. For example, `SELECT customers.name, orders.order_id, products.name FROM customers INNER JOIN orders ON customers.id = orders.customer_id INNER JOIN products ON orders.product_id = products.id;` will return the name of the customer, the order id, and the name of the product for each order placed by the customers.
+- **GROUP BY**: This query is used to group the data based on one or more columns and apply aggregate functions such as SUM, COUNT, AVG, etc. For example, `SELECT products.name, SUM(orders.quantity) AS total_quantity FROM products INNER JOIN orders ON products.id = orders.product_id GROUP BY products.name;` will return the name of the product and the total quantity ordered for each product.
+- **HAVING**: This query is used to filter the data after applying the GROUP BY clause based on some conditions. For example, `SELECT products.name, SUM(orders.quantity) AS total_quantity FROM products INNER JOIN orders ON products.id = orders.product_id GROUP BY products.name HAVING total_quantity > 10;` will return the name of the product and the total quantity ordered for each product that has more than 10 orders.
+- **ORDER BY**: This query is used to sort the data based on one or more columns in ascending or descending order. For example, `SELECT * FROM customers ORDER BY name ASC;` will return the data from the customers table sorted by the name column in ascending order.
+- **LIMIT**: This query is used to limit the number of rows returned by a query. For example, `SELECT * FROM customers LIMIT 10;` will return only the first 10 rows from the customers table.
+- **DISTINCT**: This query is used to remove duplicate values from a column or a set of columns. For example, `SELECT DISTINCT name FROM customers;` will return only the unique names from the customers table.

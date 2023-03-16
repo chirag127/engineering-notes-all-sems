@@ -1,0 +1,38 @@
+# CO 5 Examine various SQL queries from MySQL database K4, K5
+
+- SQL stands for Structured Query Language, which is a standard language for accessing and manipulating data in relational databases.
+- MySQL is one of the most popular open-source relational database management systems (RDBMS) that supports SQL.
+- SQL queries are statements that specify what data to retrieve, insert, update, delete, or manipulate from a database.
+- SQL queries can be classified into four categories: Data Definition Language (DDL), Data Manipulation Language (DML), Data Query Language (DQL), and Data Control Language (DCL).
+- DDL is used to define the structure and schema of the database, such as creating, altering, or dropping tables, views, indexes, or constraints.
+- DML is used to manipulate the data in the database, such as inserting, updating, deleting, or merging records.
+- DQL is used to query the data in the database, such as selecting, filtering, sorting, grouping, or joining records.
+- DCL is used to control the access and privileges of the database, such as granting, revoking, or auditing permissions or roles.
+- Some of the common SQL queries from MySQL database are:
+
+  - `CREATE TABLE` to create a new table with the specified columns and data types.
+  - `ALTER TABLE` to modify the structure or schema of an existing table, such as adding, dropping, renaming, or changing columns or constraints.
+  - `DROP TABLE` to delete an existing table and its data from the database.
+  - `INSERT INTO` to insert one or more records into a table with the specified values or subqueries.
+  - `UPDATE` to modify one or more records in a table with the specified values or expressions.
+  - `DELETE FROM` to remove one or more records from a table that match the specified condition or subquery.
+  - `SELECT` to retrieve data from one or more tables or views that match the specified criteria or join conditions.
+  - `WHERE` to filter the records based on the specified condition or expression.
+  - `ORDER BY` to sort the records in ascending or descending order based on the specified column or expression.
+  - `GROUP BY` to group the records based on the specified column or expression and apply aggregate functions such as `SUM`, `COUNT`, `AVG`, `MIN`, or `MAX`.
+  - `HAVING` to filter the groups based on the specified condition or expression.
+  - `LIMIT` to limit the number of records returned by the query.
+  - `OFFSET` to skip the specified number of records before returning the query result.
+  - `JOIN` to combine data from two or more tables or views based on the specified join condition or expression.
+  - `INNER JOIN` to return only the records that have matching values in both tables or views.
+  - `LEFT JOIN` to return all the records from the left table or view and the matching records from the right table or view.
+  - `RIGHT JOIN` to return all the records from the right table or view and the matching records from the left table or view.
+  - `FULL JOIN` to return all the records from both tables or views, regardless of whether they have matching values or not.
+  - `CROSS JOIN` to return the Cartesian product of the records from both tables or views, without any join condition or expression.
+  - `UNION` to combine the results of two or more queries into a single result set, eliminating any duplicate records.
+  - `UNION ALL` to combine the results of two or more queries into a single result set, preserving any duplicate records.
+  - `INTERSECT` to return only the records that are common to the results of two or more queries.
+  - `EXCEPT` to return only the records that are unique to the result of the first query and not present in the results of the other queries.
+  - `GRANT` to give a user or role the specified privileges or permissions on a table, view, database, or schema.
+  - `REVOKE` to take away a user or role's specified privileges or permissions on a table, view, database, or schema.
+  - `AUDIT` to enable or disable the auditing of the specified actions or events on a table, view, database, or schema.

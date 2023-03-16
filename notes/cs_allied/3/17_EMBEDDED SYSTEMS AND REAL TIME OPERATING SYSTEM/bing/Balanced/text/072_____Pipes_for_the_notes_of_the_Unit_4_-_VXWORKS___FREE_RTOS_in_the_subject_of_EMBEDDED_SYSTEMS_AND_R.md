@@ -1,0 +1,15 @@
+### Pipes
+
+- A pipe is a data stream that can be used to communicate between two processes or tasks, usually in a producer-consumer pattern.
+- A pipe has a write end and a read end, and data written to the write end can be read from the read end in a FIFO (first-in, first-out) order.
+- Pipes are often used to implement inter-process communication (IPC) or redirection of standard input/output streams in POSIX-compliant operating systems such as Linux or Unix.
+- However, pipes are not a native feature of FreeRTOS, which is a real-time operating system (RTOS) designed for embedded systems. FreeRTOS does not support POSIX APIs or pseudo files, and has a different set of features and services than POSIX operating systems.
+- VxWorks, on the other hand, is another RTOS that supports POSIX APIs and provides pipe functionality through the pipeDevCreate() and pipeDevDelete() functions. VxWorks pipes are implemented as device drivers and can be accessed through the standard open(), close(), read(), and write() functions.
+- Therefore, if you want to use pipes in FreeRTOS, you will have to either implement your own pipe mechanism using the available FreeRTOS features, or use a porting kit or a compatibility layer that can emulate POSIX APIs and pipes on FreeRTOS.
+- Some possible alternatives or solutions for using pipes in FreeRTOS are:
+
+  - Stream buffers: Stream buffers are a FreeRTOS feature that can be used to implement circular buffers that can store and transfer data between tasks or interrupts. Stream buffers can be used just like pipes between two tasks, and can be created and accessed using the xStreamBufferCreate(), xStreamBufferSend(), and xStreamBufferReceive() functions.
+  - Message buffers: Message buffers are a special type of stream buffers that can store and transfer discrete messages between tasks or interrupts. Message buffers can be used to implement message queues or mailboxes, and can be created and accessed using the xMessageBufferCreate(), xMessageBufferSend(), and xMessageBufferReceive() functions.
+  - Queues: Queues are another FreeRTOS feature that can be used to store and transfer data items between tasks or interrupts. Queues can be used to implement producer-consumer patterns, and can be created and accessed using the xQueueCreate(), xQueueSend(), and xQueueReceive() functions.
+  - OS Changer: OS Changer is a porting kit that can automatically migrate and re-use VxWorks applications to FreeRTOS. OS Changer provides a highly integrated development environment that combines VxWorks and FreeRTOS applications development with optimization benefits. OS Changer can emulate VxWorks APIs and pipes on FreeRTOS, and can reduce the porting effort and cost.
+  - FreeRTOS+POSIX: FreeRTOS+POSIX is a compatibility layer that can provide some POSIX APIs and utilities on FreeRTOS. FreeRTOS+POSIX can enable some POSIX compliant applications to run on FreeRTOS with minimal changes. However, FreeRTOS+POSIX does not support pipes, and if you used pipes in your POSIX compliant design, you will have a major rewrite ahead of you to port to FreeRTOS.

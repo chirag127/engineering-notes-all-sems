@@ -1,0 +1,10 @@
+### Fault-tolerant services for the notes of the Unit 10 - Replication in the subject of DISTRIBUTED SYSTEM
+
+- Fault-tolerant services are services that can continue to function correctly even in the presence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique for implementing fault-tolerant services by creating and maintaining multiple copies of the same service (or object) on different servers in a distributed system.
+- Replication can improve availability, performance, and reliability of services, but also introduces challenges such as consistency, concurrency, and communication overhead.
+- The correctness criterion for replicated services is linearizability, which means that every operation on the service appears to take effect atomically at some point between its invocation and response, and that the order of operations is consistent with the real-time order of invocations.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+  - Primary-backup replication assigns one server as the primary and the others as backups. The primary executes the operations and sends updates to the backups. The backups apply the updates in the same order as the primary. If the primary fails, one of the backups takes over as the new primary.
+  - Active replication assigns all servers as active replicas. The clients send requests to all replicas, and the replicas execute the operations and send responses to the clients. The replicas use a consensus protocol to agree on the order of operations. If some replicas fail, the others can still provide the service.
+- There are trade-offs between primary-backup replication and active replication in terms of performance, communication, and fault-tolerance. Primary-backup replication requires less communication and can tolerate more failures, but has lower performance and higher latency. Active replication requires more communication and can tolerate fewer failures, but has higher performance and lower latency.

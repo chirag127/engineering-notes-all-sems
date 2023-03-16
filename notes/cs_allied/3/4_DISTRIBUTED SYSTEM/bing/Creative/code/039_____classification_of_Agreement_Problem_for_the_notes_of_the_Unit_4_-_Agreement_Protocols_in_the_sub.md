@@ -1,0 +1,11 @@
+### Classification of Agreement Problem
+
+An agreement problem in distributed systems is a problem where a set of processes need to agree on a common value or decision, despite the possibility of failures or malicious behavior. Agreement problems are fundamental to achieving fault tolerance and consistency in distributed systems.
+
+There are different types of agreement problems, depending on the assumptions and requirements of the system. Some of the well-known agreement problems are:
+
+- **Byzantine agreement problem**: A single value, which is to be agreed on, is initialized by an arbitrary process and all non-faulty processes have to agree on that value. The processes may be subject to Byzantine failures, which means they can behave arbitrarily or maliciously. The goal is to ensure that all non-faulty processes agree on the same value, and that value is the initial value of some non-faulty process  .
+- **Consensus problem**: A generalization of the Byzantine agreement problem, where each process can propose a value and all non-faulty processes have to agree on a common value. The value must satisfy two properties: validity (the agreed value must be one of the proposed values) and agreement (all non-faulty processes must agree on the same value). The processes may be subject to different types of failures, such as crash, omission, or Byzantine  .
+- **Interactive consistency problem**: A variation of the Byzantine agreement problem, where each process has an initial value and all non-faulty processes have to agree on a vector of values, one for each process. The vector must satisfy two properties: validity (the value for each process must be its initial value or the default value) and agreement (all non-faulty processes must agree on the same vector). The processes may be subject to Byzantine failures .
+
+These problems are related to each other and have different applications in distributed systems. For example, Byzantine agreement can be used to implement reliable broadcast, consensus can be used to implement atomic commit or state machine replication, and interactive consistency can be used to implement group membership or fault diagnosis.

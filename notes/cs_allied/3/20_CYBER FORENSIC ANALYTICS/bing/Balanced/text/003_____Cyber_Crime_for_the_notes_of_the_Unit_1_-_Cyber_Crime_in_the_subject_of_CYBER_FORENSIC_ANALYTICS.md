@@ -1,0 +1,11 @@
+### Cyber Crime
+
+Cyber crime is the use of a computer or a network as an instrument to commit illegal acts, such as fraud, identity theft, data theft, cyberextortion, ransomware, phishing, spoofing, etc. Cyber crime can harm individuals, organizations, or even nations by compromising their security, privacy, or financial well-being. Cyber crime can also affect the functioning of critical infrastructure, such as power grids, transportation systems, or health care services.
+
+Some of the main types of cyber crime are:
+
+- **Hacking**: The unauthorized access to or manipulation of a computer system or data, often for malicious purposes. Examples of hacking include stealing passwords, defacing websites, deleting files, or installing malware.
+- **Denial of service (DoS) attack**: The intentional disruption of a computer system or network by overwhelming it with traffic or requests, making it unavailable to legitimate users. Examples of DoS attacks include flooding a server with ping requests, sending malformed packets, or exploiting a vulnerability in the system.
+- **Software piracy**: The illegal copying, distribution, or use of software without the permission of the owner or the license agreement. Examples of software piracy include downloading cracked software from torrent sites, using counterfeit software keys, or sharing software with others.
+- **Phishing**: The fraudulent attempt to obtain sensitive information, such as usernames, passwords, credit card numbers, or bank account details, by pretending to be a trustworthy entity in an email or other online communication. Examples of phishing include sending fake emails from banks, social media platforms, or online retailers, asking the recipients to click on a link or open an attachment that leads to a malicious website or downloads malware.
+- **Spoofing**: The falsification of the identity or origin of an online communication, such as an email, a website, or an IP address, to deceive the recipient or hide the true source. Examples of spoofing include sending emails with forged headers, creating fake websites that mimic legitimate ones, or using proxy servers to mask the real IP address.

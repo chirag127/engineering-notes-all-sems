@@ -1,0 +1,13 @@
+# Recovery in Distributed Database Systems
+
+- Recovery in distributed database systems is the process of restoring the database to a consistent and correct state after a failure or an error .
+- Recovery in distributed database systems is more complicated than in centralized database systems because failures can occur at multiple sites, communication links, or during the execution of distributed transactions.
+- Recovery in distributed database systems aims to maintain the atomicity and durability of distributed transactions, which means that either all or none of the subtransactions at different sites should be committed, and the committed changes should be permanent.
+- Recovery in distributed database systems can be classified into two types: local recovery and global recovery .
+  - Local recovery is the process of recovering a single site from a failure, such as a disk crash or a power outage. Local recovery techniques include restoring a backup copy of the database, applying the redo and undo operations from the log, and using checkpoints to reduce the recovery time.
+  - Global recovery is the process of recovering the entire distributed database system from a failure, such as a network partition or a site failure. Global recovery techniques include using distributed commit protocols, such as two-phase commit (2PC) or three-phase commit (3PC), to coordinate the commit or abort of distributed transactions, and using distributed concurrency control protocols, such as timestamp ordering or locking, to prevent conflicts and deadlocks among distributed transactions.
+- Recovery in distributed database systems faces several challenges, such as:
+  - How to handle the partial failures of sites or links, and how to resume the execution of distributed transactions after the failures are repaired.
+  - How to ensure the consistency and correctness of the distributed database, and how to detect and resolve any inconsistencies or conflicts that may arise due to failures or errors.
+  - How to minimize the overhead and performance degradation caused by the recovery techniques, such as the communication and synchronization costs, the logging and checkpointing overhead, and the global rollback and restart costs.
+  - How to provide partial operability and availability of the distributed database system during the recovery process, and how to balance the trade-off between availability and consistency.

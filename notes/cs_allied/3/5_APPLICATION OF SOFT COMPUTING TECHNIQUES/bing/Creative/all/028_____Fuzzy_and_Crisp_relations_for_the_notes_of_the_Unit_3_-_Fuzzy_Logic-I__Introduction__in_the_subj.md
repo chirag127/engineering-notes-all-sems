@@ -1,0 +1,9 @@
+# Fuzzy and Crisp Relations
+
+- A **crisp relation** is a binary relation that represents the presence or absence of association, interaction or interconnection between the elements of two or more sets   .
+- A **fuzzy relation** is a fuzzy set defined on the Cartesian product of crisp sets  . It represents the degrees or strengths of association, interaction or interconnection between the elements of two or more sets using membership grades.
+- A fuzzy relation can be seen as a generalization of a crisp relation, where the binary values of 0 and 1 are replaced by real values in the interval [0, 1] .
+- Some examples of crisp and fuzzy relations are:
+
+  - Crisp relation: The relation "is a multiple of" between the sets A = {2, 4, 6, 8} and B = {3, 6, 9, 12} is a crisp relation defined by R = {(4, 12), (6, 6), (6, 12), (8, 12)}. The elements of R indicate which pairs of elements from A and B satisfy the relation. The relation can also be represented by a matrix M, where M[i, j] = 1 if (a_i, b_j) ∈ R and M[i, j] = 0 otherwise. For example, M[2, 3] = 1 because (6, 9) ∈ R, and M[1, 2] = 0 because (2, 6) ∉ R.
+  - Fuzzy relation: The relation "is similar to" between the sets A = {apple, banana, orange, pear} and B = {red, yellow, green, orange} is a fuzzy relation defined by a membership function μ_R: A × B → [0, 1] that assigns a degree of similarity to each pair of elements from A and B. For example, μ_R(apple, red) = 0.9, μ_R(apple, yellow) = 0.2, μ_R(banana, yellow) = 0.8, μ_R(banana, green) = 0.4, etc. The fuzzy relation can also be represented by a matrix M, where M[i, j] = μ_R(a_i, b_j). For example, M[1, 2] = 0.2 because μ_R(apple, yellow) = 0.2, and M[3, 4] = 1 because μ_R(orange, orange) = 1.

@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some issues in distributed file systems for the notes of the unit 5 - Distributed Resource Management in the subject of Distributed System:
+
+### Issues in Distributed File Systems
+
+- **Performance**: The performance of a distributed file system depends on factors such as network latency, bandwidth, caching, replication, consistency, and load balancing. A distributed file system should minimize the network overhead and optimize the data transfer and access speed.  
+- **Reliability**: A distributed file system should be able to continue in case of any partial failures like a link failure, a node failure, or a storage drive crash. A high authentic and adaptable distributed file system should have different and independent file servers for controlling different and independent storage devices. 
+- **Scalability**: A distributed file system should be able to handle the growth of data and users without compromising the performance and reliability. A scalable distributed file system should support dynamic addition and removal of nodes, load balancing, and fault tolerance. 
+- **Security**: A distributed file system should provide mechanisms for authentication, authorization, encryption, and auditing to protect the data from unauthorized access and modification. A secure distributed file system should also prevent data leakage and tampering. 
+- **Complexity**: A distributed file system should hide the complexity of the underlying network and storage devices from the users and applications. A distributed file system should provide a uniform and transparent interface for file operations, such as naming, location, access, and sharing.

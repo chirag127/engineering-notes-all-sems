@@ -1,0 +1,6 @@
+## Unit 4 - Fuzzy Logic –II (Fuzzy Membership, Rules)
+
+- Fuzzy logic is a form of multi-valued logic that deals with reasoning that is approximate rather than fixed and exact. It is based on the concept of fuzzy sets, which are sets that have degrees of membership rather than crisp boundaries.
+- Fuzzy membership is a function that assigns a degree of belonging to each element of a fuzzy set, ranging from 0 (no membership) to 1 (full membership). Fuzzy membership functions can have various shapes, such as triangular, trapezoidal, Gaussian, sigmoid, etc.
+- Fuzzy rules are statements that describe the relationship between fuzzy sets using linguistic variables and connectives. For example, a fuzzy rule for temperature control could be: IF temperature is high THEN fan speed is fast. Fuzzy rules can be represented as IF-THEN statements, implication operators, or fuzzy relations.
+- Fuzzy rules can be combined using fuzzy inference methods, such as Mamdani, Sugeno, or Tsukamoto, to produce a fuzzy output. The fuzzy output can then be defuzzified using various techniques, such as centroid, bisector, mean of maxima, etc., to obtain a crisp value.

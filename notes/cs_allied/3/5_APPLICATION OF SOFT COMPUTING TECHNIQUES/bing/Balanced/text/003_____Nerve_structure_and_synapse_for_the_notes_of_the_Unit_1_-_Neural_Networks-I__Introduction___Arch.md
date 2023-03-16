@@ -1,0 +1,11 @@
+### Nerve structure and synapse
+
+- A nerve is a bundle of nerve fibres (axons) that transmit electrical impulses from one part of the body to another.
+- A nerve fibre is a long extension of a nerve cell (neuron) that carries an action potential (a brief change in the electrical potential of the cell membrane) along its length.
+- A neuron consists of a cell body (soma) that contains the nucleus and other organelles, and one or more processes (extensions) that connect it to other cells.
+- The processes of a neuron are of two types: dendrites and axons. Dendrites are short, branched processes that receive signals from other neurons or sensory receptors and convey them to the cell body. Axons are long, thin processes that transmit signals from the cell body to other neurons, muscles or glands.
+- The point of contact between an axon terminal of one neuron and a dendrite or cell body of another neuron, or a muscle or gland cell, is called a synapse.
+- A synapse is a structure that allows the transmission of information from one cell to another, either by electrical or chemical means.
+- An electrical synapse is a type of synapse where the membranes of the presynaptic and postsynaptic cells are connected by gap junctions, which are channels that allow the direct flow of ions and small molecules between the cells. Electrical synapses are fast and synchronous, but they do not allow modulation or amplification of the signal.
+- A chemical synapse is a type of synapse where the presynaptic and postsynaptic cells are separated by a narrow gap called the synaptic cleft, which is filled with extracellular fluid. The presynaptic cell releases chemical messengers called neurotransmitters into the synaptic cleft, which bind to specific receptors on the postsynaptic cell and trigger a response. Chemical synapses are slower and more diverse than electrical synapses, but they allow modulation and amplification of the signal by various mechanisms.
+- A synaptic connection between a neuron and a muscle cell is called a neuromuscular junction, and a synaptic connection between a neuron and a smooth muscle cell or a gland cell is called a neuroeffector junction. These are special types of chemical synapses that involve different neurotransmitters and receptors than those in the central nervous system.

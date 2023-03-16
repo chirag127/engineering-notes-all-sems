@@ -1,0 +1,10 @@
+# Dimension of Vector Spaces
+
+- A vector space is a set of objects called vectors that can be added and multiplied by scalars (numbers) according to certain rules.
+- A basis of a vector space is a set of linearly independent vectors that span the whole space, meaning that every vector in the space can be written as a linear combination of the basis vectors.
+- The dimension of a vector space is the number of vectors in a basis of the space, and is denoted by dim(V). It measures how many independent directions are needed to describe the space.
+- For example, the dimension of the vector space R^n is n, because any vector in R^n can be written as a linear combination of n standard unit vectors, which form a basis.
+- Another example is the vector space of polynomials in x with real coefficients having degree at most 2, denoted by P_2(R). This space has dimension 3, because any polynomial of degree at most 2 can be written as a linear combination of 1, x, and x^2, which form a basis.
+- A special case is the trivial vector space {0}, which contains only the zero vector. This space has dimension 0, because the empty set is the only basis for it.
+- The dimension of a vector space is a well-defined concept, meaning that any two bases of the same space have the same number of vectors. This can be proved using the exchange lemma, which states that if a vector v belongs to the span of a linearly independent set S, then v can be replaced by another vector in S without changing the span.
+- The dimension of a vector space is an important property that determines many aspects of its structure and behavior. For example, the rank-nullity theorem relates the dimension of a vector space to the dimension of its subspaces, the linear transformation theorem relates the dimension of a vector space to the dimension of its image and kernel under a linear map, and the dimension formula gives the dimension of the sum and intersection of two subspaces.

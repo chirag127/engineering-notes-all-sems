@@ -1,0 +1,10 @@
+# Multi-Agent Systems for the Notes of the Unit 5 - Applications in IDBS in the Subject of Intelligent Database Systems
+
+- A multi-agent system (MAS) is a computerized system composed of multiple interacting intelligent agents that can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve.
+- An intelligent agent is an entity that can perceive its environment, reason, learn, and act autonomously or semi-autonomously to achieve its goals.
+- A multi-agent system can be seen as a distributed artificial intelligence (DAI) system that involves cooperation, coordination, or competition among agents in a shared environment.
+- Multi-agent systems can be applied to various domains that require distributed control, such as online trading, disaster response, target surveillance, and social structure modelling .
+- Some examples of multi-agent systems applications in intelligent database systems are:
+  - Ambient intelligence: a vision of human-centric computing that aims to provide intelligent and personalized services to users in a natural and unobtrusive way. Multi-agent systems can provide a paradigm to design ambient intelligent applications that can adapt to the user's preferences, context, and needs.
+  - Data mining: a process of discovering useful patterns and knowledge from large and complex data sets. Multi-agent systems can enhance data mining by enabling distributed, parallel, and collaborative analysis of data, as well as providing intelligent decision support to the users.
+  - Semantic web: an extension of the current web that aims to make the data more understandable and interoperable by machines. Multi-agent systems can facilitate the semantic web by providing mechanisms for ontology creation, alignment, and reasoning, as well as for information retrieval, integration, and exchange.

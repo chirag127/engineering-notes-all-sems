@@ -1,0 +1,23 @@
+## Unit 6 - Failure Recovery in Distributed Systems
+
+- Failure recovery is the process of restoring the correct state of a distributed system after a failure occurs.
+- Failure recovery is essential for fault tolerance, which is the ability of a system to continue functioning despite failures.
+- Failures in distributed systems can be classified into different types, such as:
+  - Process failures: when a process stops executing or behaves incorrectly.
+  - Communication failures: when a message is lost, delayed, duplicated, or corrupted during transmission.
+  - Network failures: when a network partition occurs, isolating some processes from others.
+  - Media failures: when a secondary storage device fails or becomes inaccessible.
+  - Byzantine failures: when a process or a message behaves maliciously or arbitrarily.
+- Failure recovery techniques can be broadly divided into two categories, based on the timing of recovery actions:
+  - Reactive recovery: when the recovery actions are triggered after a failure is detected.
+  - Proactive recovery: when the recovery actions are performed periodically or preemptively, before a failure is detected.
+- Reactive recovery techniques include:
+  - Checkpointing: when a process periodically saves its state to a stable storage, which can be used to resume execution after a failure.
+  - Logging: when a process records its actions and messages to a stable storage, which can be used to replay or undo the effects of a failure.
+  - Replication: when a process has one or more backup copies, which can take over its role after a failure.
+  - Voting: when a process consults with other processes to reach a consensus on the correct state or action after a failure.
+- Proactive recovery techniques include:
+  - Garbage collection: when a process periodically removes unused or obsolete data from its memory or storage, which can prevent memory leaks or data corruption.
+  - Heartbeat: when a process periodically sends a message to another process to indicate its aliveness, which can detect failures or network partitions.
+  - Renewal: when a process periodically restarts itself or creates a new copy of itself, which can eliminate accumulated errors or malicious behavior.
+  - Diversity: when a process uses different algorithms, hardware, or software components, which can reduce the probability of common failures or attacks.

@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of the effect of time for the stream-processing model.
+
+### The Effect of Time
+
+- Stream processing is a programming paradigm that views data streams, or sequences of events in time, as the central input and output objects of computation.
+- Stream processing is designed for instant data processing and real-time analytics. The goal is to provide current, up-to-the-millisecond insights into what’s happening within a system — and to help you respond to critical events as soon as they occur.
+- Time is a crucial factor in stream processing, as it affects how the data is processed, analyzed, and delivered. There are different ways to define and handle time in stream processing, such as event time, processing time, ingestion time, and watermarking.
+- Event time is the time when the event actually occurred in the real world. Processing time is the time when the event is processed by the stream processing engine. Ingestion time is the time when the event is ingested into the stream processing system. Watermarking is a technique to track the progress of event time in a stream.
+- The effect of time on stream processing can be seen in various aspects, such as:
+  - Latency: the delay between the occurrence of an event and its processing. Stream processing aims to minimize latency and provide near-real-time results. Latency can be affected by factors such as network congestion, system load, and data volume.
+  - Windowing: the process of dividing a stream into finite segments based on time or other criteria. Windowing enables stream processing to perform aggregations, joins, and other operations on subsets of data. Windowing can be based on event time, processing time, or ingestion time, depending on the application requirements.
+  - Ordering: the sequence of events in a stream. Ordering can be important for some stream processing applications, such as fraud detection, anomaly detection, or complex event processing. Ordering can be based on event time, processing time, or ingestion time, depending on the data source and the system architecture.
+  - State: the information that is maintained by the stream processing engine across multiple events. State can be used to store intermediate results, track historical patterns, or perform complex calculations. State can be affected by time, as it may need to be updated, expired, or checkpointed periodically.

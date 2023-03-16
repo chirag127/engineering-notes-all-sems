@@ -1,0 +1,13 @@
+# Applying spatial relationships, functions, and models for the notes of the Unit 2 - RFID False Authentications in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- RFID (Radio Frequency Identification) is a technology that uses radio waves to identify objects or people by attaching tags to them. Tags contain a unique identifier and some data that can be read by a reader device.
+- RFID authentication is the process of verifying the identity and validity of a tag or a reader. Authentication can prevent unauthorized access, counterfeiting, cloning, or tampering of RFID tags .
+- RFID false authentication is a situation where a legitimate tag is wrongly rejected by a reader, or a fake tag is wrongly accepted by a reader. False authentication can compromise the security and privacy of RFID systems and cause losses or damages to the users .
+- RFID false authentication can be caused by various factors, such as:
+  - Protocol design flaws: Some authentication protocols may have logical errors, vulnerabilities, or assumptions that do not hold in practice. For example, YA-TRAP is a protocol that uses a trapdoor function to authenticate tags, but it can cause false rejections when applied to C1G2 passive tags that have limited memory and computation capabilities.
+  - Implementation errors: Some authentication protocols may not be implemented correctly or consistently by different vendors or devices. For example, some tags may not follow the standard specifications or may have different encoding schemes or data formats.
+  - Environmental factors: Some authentication protocols may be affected by external factors, such as noise, interference, collisions, or physical damage. For example, some tags may not respond properly or may send corrupted data due to low battery, weak signal, or harsh conditions.
+- RFID false authentication can be prevented or mitigated by various methods, such as:
+  - Protocol improvement: Some authentication protocols can be modified or enhanced to address the design flaws or limitations. For example, YA-TRAP can be improved by using a hash function instead of a trapdoor function, or by adding a nonce or a timestamp to prevent replay attacks.
+  - Implementation standardization: Some authentication protocols can be implemented in a uniform and consistent way by following the standard specifications and guidelines. For example, some tags can be encoded and formatted according to the EPCglobal or ISO standards.
+  - Environmental adaptation: Some authentication protocols can be adapted to the environmental factors by using error correction, encryption, or anti-collision techniques. For example, some tags can use CRC, AES, or Aloha to ensure data integrity, confidentiality, or availability.

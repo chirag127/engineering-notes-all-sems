@@ -1,0 +1,10 @@
+# Deductive database systems and logic programming systems—differences
+
+- Deductive database systems are systems that combine relational databases with logic programming to support a powerful and declarative formalism for querying and manipulating data.
+- Logic programming systems are systems that use a subset of logic to represent and execute programs, usually based on the resolution principle and unification.
+- Some of the main differences between deductive database systems and logic programming systems are:
+
+  - Order sensitivity and procedurality: In logic programming systems, such as Prolog, the order of rules and the order of parts of rules affect the program execution and the efficiency. In deductive database systems, such as Datalog, the order of rules and the order of parts of rules are irrelevant, as the system computes the minimal model of the program.
+  - Special predicates: In logic programming systems, programmers can use special predicates, such as cut, fail, assert, retract, etc., to control the execution flow and modify the program dynamically. In deductive database systems, these predicates are not allowed, as they violate the declarative semantics and the monotonicity of the logic.
+  - Negation: In logic programming systems, negation is usually implemented by negation as failure, which is a procedural and non-monotonic technique that relies on the closed-world assumption. In deductive database systems, negation is usually implemented by stratified negation, which is a declarative and monotonic technique that relies on the well-founded semantics.
+  - Recursion: In logic programming systems, recursion is unrestricted and can be used to express complex computations and algorithms. In deductive database systems, recursion is restricted to stratified programs, which ensure the existence and uniqueness of the minimal model.

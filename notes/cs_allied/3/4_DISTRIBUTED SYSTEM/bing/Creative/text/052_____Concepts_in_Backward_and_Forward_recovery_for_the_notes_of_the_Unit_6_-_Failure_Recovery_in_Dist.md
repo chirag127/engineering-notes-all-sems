@@ -1,0 +1,13 @@
+### Concepts in Backward and Forward Recovery
+
+- Backward recovery and forward recovery are two techniques to restore the system state after a failure in a distributed system.
+- Backward recovery involves rolling back the system state to a previous error-free state by using checkpoints or logs. Forward recovery involves correcting the errors in the current state and continuing the execution from there.
+- Backward recovery is more general and independent of the nature of faults, but it may require more overhead and coordination among processes. Forward recovery is more efficient and avoids repeating the computation, but it may require more knowledge and prediction of the faults and their effects.
+- Some of the concepts related to backward and forward recovery are:
+
+  - Checkpoint: A checkpoint is a snapshot of the system state at a certain point in time. Checkpoints can be taken periodically or triggered by some events. Checkpoints can be local (for each process) or global (for the whole system). Checkpoints can be used to roll back the system state in case of a failure.
+  - Log: A log is a record of the actions or events that have occurred in the system. Logs can be used to undo or redo the actions or events in case of a failure. Logs can be physical (recording the actual changes in the data) or logical (recording the operations or transactions that caused the changes).
+  - Recovery line: A recovery line is a set of consistent checkpoints that define a global state of the system. A recovery line can be used to restore the system state after a failure. A recovery line can be consistent (no causal dependency violation) or optimal (the latest possible consistent state).
+  - Dependency graph: A dependency graph is a representation of the causal dependencies among the processes or events in the system. A dependency graph can be used to determine the consistent checkpoints or the effects of faults in the system. A dependency graph can be static (based on the program structure) or dynamic (based on the actual execution).
+  - Error detection: Error detection is the process of identifying and locating the faults or errors in the system. Error detection can be done by using techniques such as timeouts, acknowledgments, heartbeats, voting, checksums, etc.
+  - Error correction: Error correction is the process of removing or repairing the faults or errors in the system. Error correction can be done by using techniques such as retrying, masking, compensation, etc.

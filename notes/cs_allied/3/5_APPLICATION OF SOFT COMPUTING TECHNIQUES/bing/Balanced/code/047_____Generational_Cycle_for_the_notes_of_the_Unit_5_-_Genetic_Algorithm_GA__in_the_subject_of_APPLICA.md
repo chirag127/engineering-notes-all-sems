@@ -1,0 +1,11 @@
+### Generational Cycle for Genetic Algorithm
+
+A genetic algorithm (GA) is a bio-inspired optimization technique that mimics the natural process of evolution. A GA works on a population of candidate solutions, each encoded as a string of symbols (usually binary digits). A GA iteratively applies genetic operators, such as selection, crossover, and mutation, to create new solutions that are hopefully better than the previous ones. A GA evaluates the fitness of each solution according to an objective function, and terminates when a stopping criterion is met. The generational cycle of a GA can be summarized as follows :
+
+- **Initialization**: Generate an initial population of random solutions, usually of a fixed size.
+- **Evaluation**: Calculate the fitness of each solution using the objective function.
+- **Selection**: Choose a subset of solutions from the current population to be the parents of the next generation. The selection is usually based on fitness, with higher-fitness solutions having a higher probability of being selected.
+- **Crossover**: Combine two or more parent solutions to produce one or more offspring solutions. The crossover is usually done by exchanging some parts of the parent strings at random points.
+- **Mutation**: Alter one or more offspring solutions by flipping, inserting, deleting, or swapping some symbols in their strings. The mutation is usually done with a low probability to introduce some diversity in the population.
+- **Replacement**: Replace the current population with the new population of offspring solutions. The replacement can be done by discarding the old population entirely, or by keeping some of the best solutions from the old population.
+- **Termination**: Check if a stopping criterion is met, such as reaching a maximum number of generations, finding an optimal or near-optimal solution, or reaching a convergence threshold. If the criterion is met, stop the algorithm and return the best solution found. Otherwise, go back to the evaluation step and repeat the cycle.

@@ -1,0 +1,23 @@
+### Types of Evidence in Cyber Forensics
+
+Cyber forensics is the process of collecting, preserving, analyzing and presenting digital evidence from electronic devices, networks and online platforms. Cyber forensics can be used to investigate various types of crimes, such as cyberattacks, fraud, identity theft, child pornography, terrorism and espionage.
+
+There are different types of evidence that can be obtained from digital sources, depending on the nature and scope of the investigation. Some of the common types of evidence in cyber forensics are:
+
+- **Logs**: These are records of events or activities that occur on a system, network or application. Logs can provide information about the actions, identities, locations and timestamps of the users, devices and processes involved in a digital incident. Examples of logs are operating system logs, web server logs, firewall logs, application logs, network logs and audit logs .
+- **Video footage and images**: These are visual data that can capture the appearance, behavior and context of the persons, objects and scenes related to a digital incident. Video footage and images can be obtained from various sources, such as surveillance cameras, webcams, mobile phones, social media platforms and digital storage devices.
+- **Archives**: These are collections of files or data that are compressed, encrypted or organized in a specific format. Archives can contain valuable information that is hidden, protected or preserved from unauthorized access or modification. Examples of archives are zip files, rar files, iso files, backup files and encrypted containers.
+- **Active data**: These are files or data that are readily accessible and visible on a system, network or application. Active data can provide information about the current state, configuration and usage of the digital sources. Examples of active data are documents, emails, messages, photos, videos, databases, browser history, bookmarks and cookies .
+- **Metadata**: These are data that describe or provide additional information about other data. Metadata can provide information about the origin, authorship, format, modification and properties of the files or data. Examples of metadata are file names, extensions, sizes, dates, hashes, EXIF data, geolocation data and digital signatures .
+- **Residual data**: These are files or data that are deleted, overwritten or partially erased from a system, network or application. Residual data can provide information about the past state, history and usage of the digital sources. Examples of residual data are recycle bin, trash, temporary files, swap files, slack space, unallocated space and file fragments .
+- **Volatile data**: These are files or data that are stored in the memory or cache of a system, network or application. Volatile data can provide information about the current activities, processes and connections of the digital sources. Examples of volatile data are RAM, CPU registers, network packets, clipboard, cache and DNS records .
+- **Replicant data**: These are files or data that are copied, duplicated or replicated from one digital source to another. Replicant data can provide information about the transfer, distribution and dissemination of the files or data. Examples of replicant data are cloud storage, email attachments, file sharing, social media posts and backups.
+
+These types of evidence can be classified into different categories based on their characteristics, such as:
+
+- **Visible data**: These are data that can be seen or observed by the human eye or a standard software tool. Examples are logs, video footage, images and active data.
+- **Latent data**: These are data that cannot be seen or observed by the human eye or a standard software tool, but can be revealed or extracted by a specialized software tool or technique. Examples are archives, metadata, residual data and replicant data.
+- **Persistent data**: These are data that remain on a system, network or application until they are deleted, overwritten or erased. Examples are logs, archives, active data, metadata and residual data.
+- **Transient data**: These are data that disappear or change on a system, network or application when they are accessed, modified or terminated. Examples are volatile data and replicant data.
+
+The types of evidence in cyber forensics can vary in their availability, reliability, relevance and admissibility, depending on the circumstances and context of the investigation. Therefore, cyber forensics examiners should follow the best practices and standards for collecting, preserving, analyzing and presenting digital evidence in a lawful, ethical and professional manner[^5

@@ -1,0 +1,11 @@
+## Unit 6 - Failure Recovery in Distributed Systems
+
+1. **Introduction:** In distributed systems, failure recovery is the process of restoring the system to a consistent state after a failure has occurred. This is important because failures are inevitable in any system, and the ability to recover from them is crucial for maintaining the availability and reliability of the system.
+
+2. **Types of Failures:** There are several types of failures that can occur in a distributed system, including node failures, network failures, and Byzantine failures. Node failures occur when a single node in the system fails, while network failures occur when there is a problem with the communication between nodes. Byzantine failures are more complex and can involve nodes sending incorrect or conflicting information.
+
+3. **Failure Detection:** In order to recover from a failure, the system must first be able to detect that a failure has occurred. This can be done through the use of heartbeat messages, timeouts, and other mechanisms that allow nodes to monitor the health of the system.
+
+4. **Recovery Strategies:** There are several strategies that can be used to recover from a failure in a distributed system. These include checkpointing, replication, and rollback recovery. Checkpointing involves periodically saving the state of the system so that it can be restored in the event of a failure. Replication involves maintaining multiple copies of data or services so that if one fails, another can take over. Rollback recovery involves rolling back the system to a previous consistent state and replaying the operations that occurred since that state.
+
+5. **Conclusion:** Failure recovery is an important aspect of distributed systems, as it allows the system to maintain its availability and reliability in the face of failures. There are several types of failures that can occur, and various strategies can be used to recover from them. Effective failure recovery requires careful design and implementation of the system, as well as ongoing monitoring and maintenance.

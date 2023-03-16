@@ -1,0 +1,13 @@
+### Temporal Query Languages
+
+- A temporal query language is a database query language that offers some form of built-in support for the querying and modification of time-referenced data, as well as enabling the specification of assertions and constraints on such data.
+- Time-referenced data is data that has temporal attributes, such as valid time, transaction time, or event time, that indicate when the data is valid, when it was stored, or when it occurred.
+- Temporal query languages can be classified into two main categories: temporal extensions of existing query languages, such as SQL, and novel query languages designed specifically for temporal data.
+- Temporal extensions of existing query languages aim to preserve the syntax and semantics of the original query language, while adding new temporal features, such as temporal data types, temporal predicates, temporal operators, temporal functions, and temporal integrity constraints .
+- Novel query languages for temporal data are based on different data models and paradigms, such as logic programming, functional programming, or stream processing . They offer more expressive power and flexibility for temporal data manipulation, but they may also require more learning effort and implementation complexity.
+- Some examples of temporal extensions of existing query languages are TSQL2, ATSQL2, IXSQL, ATSQL, and SQL/TP, which are based on SQL, and TQL, which is based on Datalog .
+- Some examples of novel query languages for temporal data are TPL, which is based on Prolog, TFL, which is based on Lisp, and Trill, which is based on LINQ and stream processing .
+- Temporal query languages can support different temporal semantics, such as snapshot semantics, sequenced semantics, or nonsequenced semantics, depending on how they evaluate temporal expressions and predicates over temporal data .
+- Snapshot semantics treats temporal data as if it were nontemporal, and evaluates temporal expressions and predicates at a single point in time or over a single time interval .
+- Sequenced semantics evaluates temporal expressions and predicates over each point in time or each time interval in the temporal domain, and returns a temporal result that reflects the changes over time .
+- Nonsequenced semantics evaluates temporal expressions and predicates over the entire temporal domain, and returns a nontemporal result that summarizes the temporal data .

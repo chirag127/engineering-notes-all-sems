@@ -1,0 +1,30 @@
+### Data mining for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Data mining is a process of discovering patterns in a large set of data and data warehouses using various techniques such as regression analysis, association, and clustering, classification, and outlier analysis.
+- Data mining is a crucial component of successful analytics initiatives in organizations, as it can generate useful information for business intelligence (BI) and advanced analytics applications.
+- Data mining can also be used for real-time analytics applications that examine streaming data as it is created or collected.
+- Data mining applications can be classified into different domains, such as economic and management, industrial engineering, healthcare, education, social media, etc.
+- Some examples of data mining applications are:
+  - Customer segmentation and loyalty analysis: Data mining can help identify the characteristics and preferences of different customer groups and tailor marketing strategies accordingly.
+  - Fraud detection and prevention: Data mining can help detect anomalous or suspicious transactions or behaviors and alert the authorities or take preventive actions.
+  - Recommender systems: Data mining can help suggest relevant products or services to customers based on their past purchases, ratings, or preferences.
+  - Text mining and sentiment analysis: Data mining can help extract useful information from unstructured text data, such as news articles, social media posts, reviews, etc., and analyze the opinions, emotions, or attitudes of the authors or audiences.
+  - Bioinformatics and medical diagnosis: Data mining can help analyze genomic, proteomic, or clinical data and discover new biological insights or diagnose diseases.
+- Intelligent data mining is a subfield of data mining that integrates artificial intelligence techniques, such as fuzzy logic, neural networks, genetic algorithms, etc., to enhance the performance and accuracy of data mining methods.
+- Intelligent data mining techniques and applications are covered in the book "Intelligent Data Mining: Techniques and Applications" by Da Ruan et al, which is part of the series "Studies in Computational Intelligence" by Springer.
+- The book consists of 16 chapters, divided into four parts: Part I - Basic Knowledge for Intelligent Systems and Data Mining, Part II - Intelligent Data Mining Techniques, Part III - Data Mining Applications in Economic and Management, and Part IV - Data Mining Applications in Industrial Engineering.
+- Some of the topics covered in the book are:
+  - Fuzzy set theory and fuzzy logic
+  - Neural networks and learning algorithms
+  - Genetic algorithms and evolutionary computation
+  - Rough set theory and granular computing
+  - Fuzzy clustering and classification
+  - Fuzzy association rules and sequential patterns
+  - Fuzzy neural networks and neuro-fuzzy systems
+  - Fuzzy genetic algorithms and hybrid systems
+  - Customer relationship management and data mining
+  - Financial forecasting and data mining
+  - Decision support systems and data mining
+  - Quality control and data mining
+  - Fault diagnosis and data mining
+  - Web mining and intelligent e-commerce

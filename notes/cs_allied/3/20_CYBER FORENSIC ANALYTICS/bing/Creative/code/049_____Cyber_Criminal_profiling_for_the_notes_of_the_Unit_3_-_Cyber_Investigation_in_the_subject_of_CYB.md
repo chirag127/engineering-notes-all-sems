@@ -1,0 +1,21 @@
+# Cyber Criminal Profiling
+
+- Cyber criminal profiling is the process of identifying or determining the real identity of individual attackers or an attacker group involved in cyber crimes by analyzing their characteristics, their tools and their relationships .
+- Cyber criminal profiling can help in deterring cyber crimes, enhancing cyber security, supporting cyber investigations and prosecutions, and improving cyber threat intelligence.
+- Cyber criminal profiling can be based on different types of data, such as:
+  - Technical data: the digital traces left by the attackers on the network, such as IP addresses, malware signatures, attack patterns, etc.
+  - Behavioral data: the actions, motivations, preferences, and personality traits of the attackers, such as their targets, goals, methods, skills, etc.
+  - Social data: the relationships, affiliations, and communication patterns of the attackers, such as their groups, networks, forums, etc.
+- Cyber criminal profiling can be performed using different methods, such as:
+  - Deductive profiling: the use of logic and evidence to infer the characteristics of the attackers from the specific details of the cyber crime, such as the modus operandi, the victimology, the crime scene, etc.
+  - Inductive profiling: the use of statistics and generalizations to infer the characteristics of the attackers from the similarities and differences among various cyber crimes, such as the frequency, distribution, typology, etc.
+  - Hybrid profiling: the combination of deductive and inductive methods to enhance the accuracy and validity of the profiling results.
+- Cyber criminal profiling can be applied to different types of cyber crimes, such as:
+  - Cyberterrorism: the use of cyber attacks to cause fear, harm, or disruption for political, religious, or ideological purposes, such as hacking, denial-of-service, ransomware, etc.
+  - Cyberespionage: the use of cyber attacks to steal or manipulate confidential or sensitive information for strategic, economic, or military advantages, such as phishing, malware, data breaches, etc.
+  - Cyberfraud: the use of cyber attacks to deceive or cheat others for financial or personal gains, such as identity theft, online scams, credit card fraud, etc.
+  - Cyberbullying: the use of cyber attacks to harass, intimidate, or humiliate others for psychological or emotional reasons, such as cyberstalking, trolling, flaming, etc.
+- Cyber criminal profiling can face various challenges, such as:
+  - Data quality: the availability, accuracy, and reliability of the data used for profiling, which can be affected by factors such as encryption, anonymization, spoofing, etc.
+  - Data analysis: the complexity, diversity, and dynamism of the data used for profiling, which can require advanced techniques such as machine learning, natural language processing, network analysis, etc.
+  - Data privacy: the ethical, legal, and social implications of the data used for profiling, which can involve issues such as consent, confidentiality, transparency, accountability, etc.

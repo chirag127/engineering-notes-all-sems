@@ -1,0 +1,8 @@
+### Spark’s Fault-Tolerance Guarantees
+
+- Spark Streaming is a framework for processing data streams in a scalable and fault-tolerant way.
+- Spark Streaming provides fault-tolerance guarantees for both the input data and the processing logic.
+- For the input data, Spark Streaming relies on the fault-tolerance mechanisms of the underlying data sources, such as Kafka, Flume, or HDFS. Spark Streaming can track the offsets of the data consumed from these sources and resume from the same offsets in case of failures.
+- For the processing logic, Spark Streaming uses a technique called checkpointing to periodically save the state of the streaming computation to a reliable storage system, such as HDFS or S3. Checkpointing ensures that the streaming computation can recover from failures and continue from where it left off.
+- Spark Streaming also uses a mechanism called Write-Ahead Logs (WAL) to ensure end-to-end exactly-once semantics for output operations, such as writing to databases, HDFS, or Kafka. WAL records the output data to a reliable storage system before sending it to the final destination. This way, if a failure occurs, the output data can be replayed from the WAL and avoid data loss or duplication.
+- Spark Streaming's fault-tolerance guarantees are based on the assumption that the input data sources and the output destinations are reliable and can handle failures gracefully. If the input or output systems are unreliable, Spark Streaming cannot guarantee exactly-once semantics or data consistency.

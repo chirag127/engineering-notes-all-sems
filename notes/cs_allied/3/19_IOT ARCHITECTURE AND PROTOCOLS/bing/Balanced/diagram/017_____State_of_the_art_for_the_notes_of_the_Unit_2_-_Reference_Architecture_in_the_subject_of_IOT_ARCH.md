@@ -1,0 +1,21 @@
+### State of the art for the notes of the Unit 2 - Reference Architecture in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- A reference model is a model that describes the main conceptual entities and how they are related to each other .
+- A reference architecture aims at describing the main functional components of a system as well as how the system works, how the system is deployed, what information the system processes, etc .
+- A reference architecture can be derived from a reference model by adding more details and specifications.
+- A reference architecture can also be used as a blueprint or a guideline for designing and implementing specific IoT systems.
+- There are different approaches to define a reference architecture for IoT, depending on the scope, the objectives, the requirements, and the challenges of the IoT domain.
+- Some of the common elements or layers that are often found in IoT reference architectures are:
+  - Device layer: This layer consists of the physical devices or things that are connected to the internet, such as sensors, actuators, smart objects, etc. This layer is responsible for sensing, actuating, and communicating with the other layers.
+  - Network layer: This layer provides the connectivity and the communication protocols between the devices and the other layers. This layer can use different technologies, such as wired, wireless, cellular, satellite, etc.
+  - Middleware layer: This layer provides the services and the functionalities that enable the integration, the interoperability, the management, and the security of the devices and the data. This layer can include components such as data processing, data storage, data analytics, device management, service discovery, service orchestration, etc.
+  - Application layer: This layer provides the end-user applications and the business logic that use the data and the services from the middleware layer. This layer can include components such as user interfaces, dashboards, decision support systems, etc.
+- Some of the examples of IoT reference architectures are:
+  - The IoT-A reference architecture: This is a European project that aims to provide a comprehensive and coherent reference architecture for IoT. It defines a set of architectural principles, a reference model, and a reference architecture framework for IoT.
+  - The IEEE P2413 reference architecture: This is an ongoing standardization project that aims to provide a common framework and a reference architecture for IoT. It defines a set of architectural building blocks, a reference model, and a reference architecture for IoT.
+  - The oneM2M reference architecture: This is a global initiative that aims to provide a common platform and a reference architecture for IoT. It defines a set of functional entities, a reference model, and a reference architecture for IoT.
+- The state of the art for IoT is constantly evolving and improving, as new technologies, paradigms, and challenges emerge in the IoT domain .
+- Some of the current trends and directions for IoT are :
+  - Reactive systems: These are systems that are responsive, resilient, elastic, and message-driven. They can handle the complexity, the uncertainty, and the dynamism of IoT systems. They can also leverage the distributed and parallel computing capabilities of IoT devices.
+  - Fog computing: This is a paradigm that extends the cloud computing to the edge of the network, where the IoT devices are located. It enables the processing, the storage, and the analysis of the data closer to the source, reducing the latency, the bandwidth, and the energy consumption. It also enhances the privacy, the security, and the scalability of IoT systems.
+  - 6G networks: These are the next generation of wireless networks that will provide ultra-high speed, ultra-low latency, ultra-high reliability, and ultra-high capacity for IoT systems. They will also enable new applications and services, such as holographic communications, immersive virtual reality, and tactile internet.

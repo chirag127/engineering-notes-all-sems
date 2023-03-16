@@ -1,0 +1,16 @@
+### Conclusions for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Intelligent database systems (IDBS) are systems that integrate database management systems (DBMS) with artificial intelligence (AI) techniques to provide enhanced functionality, performance, and usability.
+- IDBS can be classified into three categories based on the level of integration between DBMS and AI: loosely coupled, tightly coupled, and fully integrated.
+- Loosely coupled IDBS are systems that use separate DBMS and AI components that communicate through a common interface. They are easy to implement and maintain, but have limited interoperability and efficiency.
+- Tightly coupled IDBS are systems that use a modified DBMS that incorporates some AI features, such as deductive rules, uncertainty management, or learning capabilities. They have better interoperability and efficiency than loosely coupled IDBS, but require more modifications to the DBMS and may compromise its reliability and scalability.
+- Fully integrated IDBS are systems that use a unified DBMS and AI framework that supports both data and knowledge representation, manipulation, and reasoning. They have the highest level of interoperability and efficiency, but are the most difficult to design and implement, and may suffer from complexity and inconsistency issues.
+- IDBS have various applications in different domains, such as expert systems, decision support systems, data mining, data warehousing, multimedia databases, spatial databases, temporal databases, and web databases.
+- Expert systems are systems that use knowledge bases and inference engines to provide advice or solutions to complex problems in specific domains, such as medical diagnosis, engineering design, or legal reasoning.
+- Decision support systems are systems that use databases, models, and analytical tools to support decision making processes in various domains, such as business, finance, or management.
+- Data mining is the process of discovering useful patterns, trends, or associations from large and complex data sets, using techniques such as classification, clustering, association rule mining, or anomaly detection.
+- Data warehousing is the process of integrating, transforming, and storing data from multiple sources into a centralized repository that supports analytical queries and reporting.
+- Multimedia databases are databases that store and manage various types of multimedia data, such as images, audio, video, or text, using techniques such as compression, indexing, retrieval, or annotation.
+- Spatial databases are databases that store and manipulate spatial data, such as points, lines, polygons, or regions, using techniques such as spatial data models, spatial query languages, spatial indexing, or spatial operations.
+- Temporal databases are databases that store and manipulate temporal data, such as dates, times, intervals, or events, using techniques such as temporal data models, temporal query languages, temporal indexing, or temporal operations.
+- Web databases are databases that store and manage data on the web, such as web pages, hyperlinks, or XML documents, using techniques such as web data models, web query languages, web indexing, or web mining.

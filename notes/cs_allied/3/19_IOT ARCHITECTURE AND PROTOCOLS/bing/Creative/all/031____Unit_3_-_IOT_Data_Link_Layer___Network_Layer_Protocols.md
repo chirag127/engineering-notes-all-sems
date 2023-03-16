@@ -1,0 +1,23 @@
+# Unit 3 - IOT Data Link Layer & Network Layer Protocols
+
+The data link layer and the network layer are two important layers in the IoT technology stack. They are responsible for providing reliable and efficient communication between IoT devices and other networks.
+
+## Data Link Layer Protocols
+
+The data link layer provides service to the network layer. It is responsible for framing, error detection, medium access control, and link management. There are various protocols and standard technologies specified by different organizations for data link protocols. Some of the common data link layer protocols in IoT are:
+
+- **Bluetooth**: Bluetooth is a short-range wireless communication network over a radio frequency. It is widely used for connecting IoT devices such as smartphones, wearables, speakers, keyboards, etc. Bluetooth supports low power consumption, low cost, and easy pairing. There are different versions of Bluetooth, such as Bluetooth Classic, Bluetooth Low Energy (BLE), and Bluetooth Mesh.
+- **Wi-Fi**: Wi-Fi is a wireless LAN technology that uses radio waves to provide high-speed internet access and network connectivity. Wi-Fi is one of the most popular and ubiquitous data link layer protocols in IoT. It supports high data rates, long range, and interoperability. Wi-Fi can be used for connecting IoT devices such as laptops, cameras, smart TVs, etc. There are different standards of Wi-Fi, such as IEEE 802.11a/b/g/n/ac/ax.
+- **Zigbee**: Zigbee is a low-power, low-data-rate, and low-cost wireless mesh network protocol. It is based on the IEEE 802.15.4 standard and operates in the 2.4 GHz frequency band. Zigbee is designed for applications that require long battery life, network scalability, and self-healing. Zigbee can be used for connecting IoT devices such as sensors, actuators, smart meters, etc.
+- **Z-Wave**: Z-Wave is another low-power, low-data-rate, and low-cost wireless mesh network protocol. It operates in the sub-GHz frequency band and supports up to 232 nodes per network. Z-Wave is optimized for home automation and security applications. Z-Wave can be used for connecting IoT devices such as lights, locks, thermostats, etc.
+- **LoRa**: LoRa is a long-range, low-power, and low-data-rate wireless network protocol. It uses a spread spectrum modulation technique and operates in the sub-GHz frequency band. LoRa is suitable for applications that require wide area coverage, low bandwidth, and low cost. LoRa can be used for connecting IoT devices such as smart agriculture, smart city, smart parking, etc.
+
+## Network Layer Protocols
+
+The network layer provides service to the transport layer. It is responsible for addressing, routing, and forwarding of data packets. There are various protocols and standard technologies specified by different organizations for network layer protocols. Some of the common network layer protocols in IoT are:
+
+- **IPv4**: IPv4 is the fourth version of the Internet Protocol (IP). It is the most widely used network layer protocol in the internet and IoT. It supports a 32-bit address space, which can accommodate up to 4.3 billion devices. IPv4 uses a hierarchical addressing scheme and supports various routing protocols, such as RIP, OSPF, BGP, etc.
+- **IPv6**: IPv6 is the sixth version of the Internet Protocol (IP). It is the successor of IPv4 and aims to overcome its limitations, such as address exhaustion, security, and scalability. It supports a 128-bit address space, which can accommodate up to 3.4 x 10^38 devices. IPv6 uses a flat addressing scheme and supports various routing protocols, such as RIPng, OSPFv3, BGP4+, etc.
+- **6LoWPAN**: 6LoWPAN is an adaptation layer that enables the transmission of IPv6 packets over low-power wireless personal area networks (LoWPANs), such as IEEE 802.15.4. It provides header compression, fragmentation, and reassembly of IPv6 packets to fit the constraints of LoWPANs. 6LoWPAN enables the integration of IoT devices with the IPv6 internet.
+- **CoAP**: CoAP is an application layer protocol that provides a RESTful web service for constrained IoT devices and networks. It is based on the HTTP protocol and uses the UDP transport protocol. It supports various features, such as caching, discovery, observation, multicast, etc. CoAP enables the communication between IoT devices and web servers.
+- **MQTT**: MQTT is an application layer protocol that provides a publish/subscribe messaging pattern for IoT devices

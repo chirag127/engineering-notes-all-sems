@@ -1,0 +1,11 @@
+### Byzantine agreement problem
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport  and inspired by a hypothetical scenario of several divisions of the Byzantine army camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- The problem is that some of the generals may be traitors and try to prevent the loyal generals from reaching agreement. The traitors may send conflicting messages to different generals, or send no messages at all. The loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination).
+- A solution to the Byzantine agreement problem is a protocol that ensures that all the loyal generals agree on the same value, and that the value is the initial value of one of the loyal generals. The protocol must be resilient to any number of traitors, as long as they do not outnumber the loyal generals.
+- A number of solutions to the Byzantine agreement problem exist, depending on the assumptions made about the communication model, the synchrony of the system, the number of parties, the number of traitors, and the computational power of the parties. Some examples of solutions are:
+  - The oral messages algorithm, which assumes synchronous and reliable communication, and requires more than two-thirds of the generals to be loyal.
+  - The signed messages algorithm, which assumes asynchronous and reliable communication, and requires more than half of the generals to be loyal and to have digital signatures.
+  - The practical Byzantine fault tolerance algorithm, which assumes partially synchronous and reliable communication, and requires more than two-thirds of the parties to be loyal and to use public-key cryptography.
+- The Byzantine agreement problem is relevant for many applications in distributed systems, such as distributed databases, consensus protocols, blockchain systems, and fault-tolerant systems .

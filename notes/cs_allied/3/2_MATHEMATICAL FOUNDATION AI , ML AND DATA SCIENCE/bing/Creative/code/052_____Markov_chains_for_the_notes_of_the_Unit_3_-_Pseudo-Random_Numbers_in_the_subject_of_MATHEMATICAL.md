@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I will help you with your notes on Markov chains for the Unit 3 - Pseudo-Random Numbers in the subject of Mathematical Foundation AI, ML and Data Science. Here are some points to remember:
+
+- A Markov chain is a type of Markov process that has either a discrete state space or a discrete index set (often representing time), but the precise definition of a Markov chain varies.
+- A Markov chain is characterized by the property that the future state of the system depends only on the present state, and not on the past history of the system. This is called the Markov property .
+- A Markov chain can be represented by a directed graph, where the nodes are the possible states and the edges are labeled with the probabilities of transitioning from one state to another. This is called the transition diagram .
+- A Markov chain can also be represented by a matrix, where the rows and columns are the possible states and the entries are the probabilities of transitioning from one state to another. This is called the transition matrix .
+- A Markov chain can be used to model various phenomena, such as weather patterns, text generation, eating habits, etc. For example, if we want to predict the weather for tomorrow based on today's weather, we can use a Markov chain with two states: sunny and rainy, and assign some probabilities to the transitions between them .

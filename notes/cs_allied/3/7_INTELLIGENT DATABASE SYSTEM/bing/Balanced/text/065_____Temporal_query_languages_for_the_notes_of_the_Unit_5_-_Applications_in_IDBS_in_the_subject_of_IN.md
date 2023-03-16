@@ -1,0 +1,9 @@
+### Temporal Query Languages
+
+- A temporal query language is a database query language that offers some form of built-in support for the querying and modification of time-referenced data, as well as enabling the specification of assertions and constraints on such data.
+- Time-referenced data is data that has temporal attributes, such as valid time, transaction time, or both, that indicate when the data is valid or when it was stored in the database.
+- Temporal query languages can be classified into two main categories: temporal extensions of existing query languages, such as SQL, and novel query languages designed specifically for temporal data.
+- Temporal extensions of existing query languages aim to preserve the syntax and semantics of the original query language, while adding new temporal features, such as temporal data types, temporal predicates, temporal operators, and temporal modifiers.
+- Novel query languages for temporal data are based on different data models and paradigms, such as logic programming, functional programming, or stream processing, and offer different expressive power and performance characteristics.
+- Some examples of temporal extensions of SQL are TSQL2, ATSQL2, IXSQL, ATSQL, and SQL/TP . TSQL2 represents an effort to design a consensus data model and query language, and it includes many of the concepts that were proposed by earlier temporal data models and query languages.
+- Some examples of novel query languages for temporal data are Tempura, TQuel, TLP, TFL, and Trill. Trill is an open source .NET library designed to process one trillion events a day, and it provides a temporal query language enabling you to embed real-time analytics in your own application.

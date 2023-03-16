@@ -1,0 +1,8 @@
+### Deductive Database Systems
+
+Deductive database systems are an extension of relational databases that support more complex data modeling. They are more expressive than relational databases but less expressive than logic programming systems .
+
+- Deductive databases offer elegant and powerful ways of managing complex data in a declarative way, especially for information that is derived by use of recursion .
+- Deductive systems typically provide a declarative query language such as a logic programming language (e.g., Prolog) .
+- Knowledge-based database systems are centered on the notion of rules. Broadly speaking, two types of rules can be distinguished: production or forward-chaining rules (also known as IF-THEN or condition-action rules), and deductive or backward-chaining rules .
+- KBDB systems utilizing the former are typically referred to as expert database systems (indicating the relationship to AI expert systems), and those based on the latter are often known as deductive database systems. However, these are by no means exclusive .

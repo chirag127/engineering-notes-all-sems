@@ -1,0 +1,14 @@
+### Internet Payment Services
+
+- Internet payment services are online platforms that allow users to send and receive money electronically, such as PayPal, Venmo, Stripe, etc.
+- Internet payment services are convenient, fast, and widely accepted, but they also pose some risks and challenges for cyber crime investigation.
+- Some of the common cyber crimes involving internet payment services are:
+  - Identity theft: Cyber criminals may steal personal or financial information of users and use it to access their accounts, make fraudulent transactions, or open new accounts in their names.
+  - Phishing: Cyber criminals may send fake emails or messages that appear to be from legitimate payment service providers, asking users to click on a link, download an attachment, or provide sensitive information, such as passwords, PINs, or verification codes.
+  - Money laundering: Cyber criminals may use internet payment services to transfer illicit funds from one account to another, or to purchase goods or services that can be resold for cash, in order to conceal the origin or destination of the money.
+  - Ransomware: Cyber criminals may infect users' devices with malicious software that encrypts their data or locks their access, and then demand a ransom, usually in cryptocurrency, to restore their functionality.
+  - Cryptojacking: Cyber criminals may hijack users' devices or networks and use their computing power to mine cryptocurrency without their consent or knowledge, consuming their resources and increasing their electricity bills.
+- Some of the challenges and strategies for cyber crime investigation involving internet payment services are:
+  - Obtaining evidence: Cyber crime investigators may face difficulties in obtaining digital evidence from internet payment service providers, due to their privacy policies, encryption methods, or jurisdictional issues. Investigators may need to use legal tools, such as subpoenas, warrants, or mutual legal assistance treaties, to request or compel cooperation from the providers or their intermediaries.
+  - Tracing transactions: Cyber crime investigators may face challenges in tracing the flow of funds through internet payment services, especially when they involve multiple accounts, platforms, or currencies. Investigators may need to use analytical tools, such as transaction mapping, network analysis, or blockchain forensics, to identify the source, destination, and purpose of the transactions.
+  - Identifying suspects: Cyber crime investigators may face obstacles in identifying the perpetrators or beneficiaries of cyber crimes involving internet payment services, due to their use of anonymity techniques, such as fake identities, proxy servers, or encryption. Investigators may need to use investigative techniques, such as undercover operations, online surveillance, or social engineering, to gather intelligence or evidence about the suspects.

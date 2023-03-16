@@ -1,0 +1,23 @@
+### Task scheduling for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Task scheduling is the process of determining how the various tasks are picked for execution by the operating system in a real time system .
+- A real time system is a system that must respond to events within a specified time limit.
+- A task is a unit of work that can be executed by the processor.
+- Tasks can be classified into two types: periodic and aperiodic.
+  - Periodic tasks are tasks that have a fixed interval between their occurrences and a fixed deadline for their completion.
+  - Aperiodic tasks are tasks that occur at unpredictable times and have variable deadlines.
+- A task scheduler is a component of the operating system that decides which task to run next based on some criteria .
+- There are different types of task schedulers for real time systems, such as  :
+  - Run to completion (RTC): A RTC scheduler is very simple. It runs each task until it finishes or blocks for some reason. It does not preempt any task. It is suitable for systems with low task complexity and low interrupt frequency.
+  - Round robin (RR): An RR scheduler is the next level of complexity. It runs each task in sequence for a fixed amount of time (called quantum) and then switches to the next task. It is a fair and simple scheduler, but it does not consider the priority or deadline of the tasks.
+  - Time slice (TS): A TS scheduler is a preemptive multitasking scheduler. It runs each task for a fixed amount of time (called time slice) and then preempts it if there is another task with a higher priority or a shorter deadline. It is suitable for systems with high task complexity and high interrupt frequency.
+  - Time slice with background task (TSBG): A TSBG scheduler is a variation of the TS scheduler. It has a special task (called background task) that runs only when there is no other task ready to run. The background task can perform low-priority or non-critical activities, such as garbage collection or maintenance.
+  - Priority (PRI): A PRI scheduler is a preemptive priority-based scheduler. It runs the task with the highest priority among the ready tasks. If there are multiple tasks with the same priority, it can use RR or TS to break the tie. It is suitable for systems with mixed periodic and aperiodic tasks.
+- A task scheduler must ensure that the system meets the timing constraints of the tasks and avoids deadline misses .
+- A valid schedule for a set of tasks is one where at most one task is assigned to a processor at a time, no task is scheduled before its arrival time, and the precedence and resource constraints of all tasks are satisfied.
+- A feasible schedule for a set of tasks is one where all the tasks meet their deadlines.
+- A task scheduler can be evaluated based on its schedulability, optimality, complexity, and overhead.
+  - Schedulability is the ability of the scheduler to produce a feasible schedule for a given set of tasks.
+  - Optimality is the ability of the scheduler to produce a valid schedule for any feasible set of tasks.
+  - Complexity is the amount of computation and memory required by the scheduler to make scheduling decisions.
+  - Overhead is the amount of time and resources consumed by the scheduler itself.

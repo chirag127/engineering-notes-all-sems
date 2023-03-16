@@ -1,0 +1,43 @@
+# Unit 8 - Transactions and Concurrency Control
+
+## Introduction
+
+- A transaction is a logical unit of work that accesses and possibly modifies the data in a database.
+- A transaction has the following properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that either all the operations in a transaction are executed or none of them are.
+- Consistency means that a transaction preserves the integrity constraints of the database.
+- Isolation means that a transaction executes as if it is the only one running on the database, without interference from other transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failures.
+- Concurrency control is the process of managing the simultaneous execution of transactions in a shared database, to ensure the serializability and correctness of the transactions.
+- Serializability is the property that the concurrent execution of a set of transactions is equivalent to some serial execution of the same transactions.
+- A serial execution is one in which each transaction is executed one after another, without any overlap.
+- A schedule is a sequence of operations from a set of transactions, where each operation is either a read or a write of a data item.
+- A schedule is serial if it consists of a sequence of operations from one transaction, followed by a sequence of operations from another transaction, and so on.
+- A schedule is serializable if it is equivalent to some serial schedule of the same transactions.
+- Two schedules are equivalent if they produce the same final state of the database and the same output for each transaction.
+- There are different methods of testing and ensuring serializability, such as conflict serializability, view serializability, precedence graph, and locking protocols.
+- Conflict serializability is a criterion that a schedule is serializable if it can be transformed into a serial schedule by swapping non-conflicting operations.
+- Two operations conflict if they belong to different transactions, access the same data item, and at least one of them is a write.
+- View serializability is a criterion that a schedule is serializable if it is view equivalent to some serial schedule of the same transactions.
+- Two schedules are view equivalent if they have the same initial and final values for each data item, and the same transaction reads the value written by the same transaction for each data item.
+- A precedence graph is a directed graph that represents the conflicts among the transactions in a schedule.
+- Each node in the graph is a transaction, and each edge from Ti to Tj means that Ti has to finish before Tj in any serial schedule equivalent to the given schedule.
+- A schedule is conflict serializable if and only if its precedence graph is acyclic.
+- A locking protocol is a set of rules that govern when and how a transaction can lock and unlock a data item in a database.
+- A lock is a mechanism that grants exclusive or shared access to a data item to a transaction.
+- A lock can be either exclusive (X) or shared (S).
+- An exclusive lock allows a transaction to read and write a data item, and prevents any other transaction from accessing it.
+- A shared lock allows a transaction to read a data item, and allows other transactions to read it as well, but prevents any transaction from writing it.
+- A transaction can request a lock on a data item before accessing it, and release the lock after finishing the access.
+- A transaction can also upgrade a shared lock to an exclusive lock, or downgrade an exclusive lock to a shared lock, if needed.
+- A locking protocol ensures serializability by preventing conflicting operations from executing concurrently.
+- A locking protocol can be either strict or rigorous, depending on when a transaction releases its locks.
+- A strict locking protocol requires a transaction to hold all its exclusive locks until it commits or aborts, to ensure durability.
+- A rigorous locking protocol requires a transaction to hold all its locks, both exclusive and shared, until it commits or aborts, to ensure recoverability.
+- Recoverability is the property that a transaction does not read a value written by another transaction that may abort later.
+- A locking protocol can also be either conservative or optimistic, depending on when a transaction requests its locks.
+- A conservative locking protocol requires a transaction to request all its locks before it starts execution, to avoid deadlock.
+- A deadlock is a situation where a set of transactions are waiting for each other to release their locks, and none of them can proceed.
+- An optimistic locking protocol allows a transaction to request locks as it executes, and aborts and restarts the transaction if it encounters a deadlock or a conflict.
+- A locking protocol can also be either two-phase or multi-phase, depending on the number of phases in which a transaction requests and releases its locks.
+- A two-phase locking protocol requires a transaction to follow two phases: a growing

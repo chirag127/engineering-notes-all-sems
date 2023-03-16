@@ -1,0 +1,10 @@
+### Other projects based on a 'conceptual representation' approach
+
+- Conceptual representation is a technique for representing knowledge in a structured and meaningful way, using concepts and relations among them.
+- Conceptual representation can be used for building knowledge-based systems, which are systems that use knowledge to perform tasks such as reasoning, planning, diagnosis, and learning.
+- Some examples of projects based on a conceptual representation approach are:
+
+  - **Conceptual graphs**: A graphical notation for representing knowledge, based on the theory of conceptual structures by John Sowa. Conceptual graphs consist of nodes that represent concepts and links that represent relations. They can be used to express natural language sentences, logical formulas, and database queries. Conceptual graphs can also support inference and query processing by applying graph operations and rules .
+  - **Frames**: A data structure for representing knowledge, based on the idea of frames by Marvin Minsky. Frames consist of slots that represent attributes and values that represent data or other frames. Frames can be used to model objects, events, situations, and categories. Frames can also support inheritance, default values, and procedural attachments .
+  - **Semantic networks**: A graphical notation for representing knowledge, based on the idea of semantic nets by Ross Quillian. Semantic networks consist of nodes that represent concepts and arcs that represent relations. They can be used to model semantic memory, associative memory, and conceptual hierarchies. Semantic networks can also support inference and retrieval by applying spreading activation and path finding.
+  - **Ontologies**: A formal specification of a shared conceptualization of a domain of interest, based on the idea of ontologies by Tom Gruber. Ontologies consist of terms that represent concepts and axioms that represent constraints and definitions. They can be used to model domains, vocabularies, and knowledge bases. Ontologies can also support interoperability, integration, and reasoning by applying logic and inference engines .

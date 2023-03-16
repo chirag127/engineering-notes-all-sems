@@ -1,0 +1,22 @@
+### Search engines or meta-searchers for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A search engine is a software system that allows users to find information on the web by using keywords or queries.
+- A meta-search engine is a type of search engine that aggregates results from multiple other search engines, such as Google and Bing, and then applies its own algorithms to re-order or filter them.
+- Some advantages of meta-search engines are:
+  - They can provide a broader coverage of the web by combining results from different sources.
+  - They can offer more relevant results by eliminating duplicates or ranking them according to user preferences.
+  - They can save time and bandwidth by sending only one query to multiple search engines and displaying the results on one page.
+- Some disadvantages of meta-search engines are:
+  - They depend on the quality and availability of the underlying search engines, which may vary or change over time.
+  - They may not support all the features or options of the individual search engines, such as advanced operators or filters.
+  - They may not respect the privacy or security policies of the original search engines, such as cookies or encryption.
+- Some examples of meta-search engines are:
+  - Dogpile: A meta-search engine that fetches results from Google, Yahoo, Bing, and Yandex.
+  - MetaCrawler: A meta-search engine that combines results from Google, Yahoo, Bing, Ask, and About.
+  - Yippy: A meta-search engine that clusters results into topics and categories from various sources.
+- Some applications of intelligent database systems (IDBS) are:
+  - Data mining: The process of discovering patterns, trends, or associations from large and complex data sets.
+  - Data warehousing: The process of integrating, organizing, and storing data from multiple sources for analysis and reporting.
+  - Data cleaning: The process of detecting and correcting errors, inconsistencies, or anomalies in data.
+  - Data integration: The process of combining data from different sources and providing a unified view of them.
+  - Data visualization: The process of presenting data in graphical or interactive forms to facilitate understanding and communication.

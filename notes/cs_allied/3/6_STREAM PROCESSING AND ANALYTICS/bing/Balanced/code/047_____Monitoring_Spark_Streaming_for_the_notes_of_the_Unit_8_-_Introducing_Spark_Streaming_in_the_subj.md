@@ -1,0 +1,31 @@
+### Monitoring Spark Streaming
+
+- Spark Streaming provides a web UI to monitor the streaming applications.
+- The web UI can be accessed at `http://<driver-node>:4040`.
+- The web UI shows the following information:
+  - The list of running batches and their processing times.
+  - The list of completed batches and their statistics, such as input records, scheduling delay, processing time, and total delay.
+  - The list of received streams and their rates, as well as the aggregated input rate of the application.
+  - The list of active receivers and their statuses, such as running, stopped, or error.
+  - The visualizations of the batch timeline, the input rate, the processing time, and the scheduling delay.
+- Spark Streaming also provides a REST API to programmatically access the streaming metrics.
+- The REST API can be accessed at `http://<driver-node>:4040/api/v1/applications/<app-id>/streaming`.
+- The REST API returns a JSON object with the following fields:
+  - `activeBatches`: an array of active batch objects, each containing the batch id, the submission time, the processing start time, the processing end time, the number of input records, the scheduling delay, the processing time, and the total delay.
+  - `completedBatches`: an array of completed batch objects, similar to the active batch objects.
+  - `waitingBatches`: an array of waiting batch objects, similar to the active batch objects, but without the processing start time, the processing end time, the scheduling delay, the processing time, and the total delay.
+  - `receivers`: an array of receiver objects, each containing the receiver id, the stream name, the active flag, the executor id, the executor host, the last error, and the last message.
+- Spark Streaming also provides a metrics system to collect and report various metrics, such as the number of records received, the number of records dropped, the memory used, and the CPU time spent.
+- The metrics system can be configured to use various sinks, such as JMX, Ganglia, Graphite, or CSV files.
+- The metrics system can be enabled by setting the `spark.metrics.conf` property to point to a metrics configuration file.
+- The metrics configuration file can specify the following parameters:
+  - `*.sink`: the class name of the sink to use, such as `org.apache.spark.metrics.sink.JmxSink` or `org.apache.spark.metrics.sink.GangliaSink`.
+  - `*.period`: the frequency at which the metrics are reported, in seconds.
+  - `*.unit`: the time unit of the period, such as `seconds` or `minutes`.
+  - `*.host`: the host name or IP address of the sink, if applicable.
+  - `*.port`: the port number of the sink, if applicable.
+  - `*.instance`: the instance name of the sink, if applicable.
+  - `*.prefix`: the prefix of the metrics names, if applicable.
+  - `*.source`: the class name of the source to collect metrics from, such as `org.apache.spark.streaming.metrics.StreamingMetricsSystem` or `org.apache.spark.streaming.metrics.ReceiverMetricsSystem`.
+  - `*.namespace`: the namespace of the metrics names, if applicable.
+  - `*.enabled`: the flag to enable or disable the source, if applicable.

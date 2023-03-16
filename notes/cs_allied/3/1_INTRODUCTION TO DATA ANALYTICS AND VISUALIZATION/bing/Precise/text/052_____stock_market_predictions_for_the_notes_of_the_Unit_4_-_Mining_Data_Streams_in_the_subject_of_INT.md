@@ -1,0 +1,12 @@
+### Stock Market Predictions
+
+- Stock market data analysis needs the help of artificial intelligence and data mining techniques .
+- The volatility of stock prices depends on gains or losses of certain companies .
+- Many people consider stock market prediction as gambling. However, it is possible to generate constructive patterns by the analysis of stock prices .
+- Data mining techniques can be applied to past and present financial data to generate patterns and decision-making algorithms .
+- Precisely predicting stocks is essential for investors to gain enormous profits. However, the volatility of the market makes this kind of prediction highly difficult .
+- Data Mining and Machine Learning could be used to guide an investor’s decisions .
+- The main purpose of forecasting by data mining in the stock market is to discover knowledge that can assist decision-makers .
+- It is important that companies use data mining with utmost care to improve their business by increasing revenue and reducing costs .
+- Prediction accuracy results can range from 72.73% to 86.21% .
+- News polarities and historical stock prices can be combined together to predict future stock prices .

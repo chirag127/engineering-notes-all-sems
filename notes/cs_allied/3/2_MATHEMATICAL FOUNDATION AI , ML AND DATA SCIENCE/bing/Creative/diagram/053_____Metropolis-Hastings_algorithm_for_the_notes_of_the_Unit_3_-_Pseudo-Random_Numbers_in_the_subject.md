@@ -1,0 +1,25 @@
+### Metropolis-Hastings algorithm
+
+- The Metropolis-Hastings algorithm is a Markov chain Monte Carlo (MCMC) method for obtaining a sequence of random samples from a probability distribution from which direct sampling is difficult  .
+- The Metropolis-Hastings algorithm works by generating a sequence of sample values in such a way that, as more and more sample values are produced, the distribution of values more closely approximates the desired distribution.
+- The Metropolis-Hastings algorithm involves designing a Markov process (by constructing transition probabilities) that fulfills the two above conditions, such that its stationary distribution () is chosen to be (). The derivation of the algorithm starts with the condition of detailed balance:
+  - Detailed balance: For any two states and , the probability of being in state and transitioning to state is equal to the probability of being in state and transitioning to state , i.e., 
+  - This implies that the Markov chain is reversible and has a unique stationary distribution .
+- The Metropolis-Hastings algorithm consists of the following steps  :
+  - Choose an initial state .
+  - For each iteration , do the following:
+    - Generate a candidate state from a proposal distribution , which depends on the current state .
+    - Calculate the acceptance ratio , where is the target distribution and is the proposal distribution.
+    - Generate a uniform random number .
+    - If , accept the candidate state and set . Otherwise, reject the candidate state and set .
+  - Return the sequence of states as the output of the algorithm.
+- The Metropolis-Hastings algorithm can be applied to various problems, such as Bayesian inference, optimization, simulation, and statistical physics  .
+- The Metropolis-Hastings algorithm has some advantages and disadvantages :
+  - Advantages:
+    - It is a general and flexible method that can be applied to many problems and distributions.
+    - It only requires the evaluation of the target distribution up to a constant factor, which is often easier than direct sampling or normalization.
+    - It can explore the target distribution efficiently by using a suitable proposal distribution.
+  - Disadvantages:
+    - It can be sensitive to the choice of the proposal distribution, which affects the convergence and mixing of the Markov chain.
+    - It can produce correlated samples, which reduces the effective sample size and increases the variance of the estimates.
+    - It can suffer from the curse of dimensionality, which means that the acceptance rate decreases as the dimension of the state space increases.

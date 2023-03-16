@@ -1,0 +1,31 @@
+### Data representation for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data representation is the process of transforming data into a format that can be easily understood and analyzed by humans or machines.
+- Data visualization is a specific type of data representation that uses graphical elements, such as charts, plots, maps, and animations, to display data in a visual way.
+- Data visualization can help to communicate complex data relationships and data-driven insights in a way that is easy to understand and engaging for the audience.
+- Data visualization can also help to explore and discover patterns, trends, outliers, and anomalies in data, as well as to compare and contrast different data sets or variables.
+- Data visualization can be used for various purposes, such as:
+  - Explaining or presenting data to inform, persuade, or educate others
+  - Exploring or analyzing data to generate hypotheses, test assumptions, or answer questions
+  - Monitoring or tracking data to detect changes, anomalies, or performance issues
+  - Interacting or manipulating data to explore different scenarios, options, or outcomes
+- Data visualization can be classified into different types, such as:
+  - Pie chart: A circular chart that shows the proportion of each category or segment in a whole
+  - Bar chart: A rectangular chart that shows the magnitude or frequency of each category or variable along a horizontal or vertical axis
+  - Histogram: A special type of bar chart that shows the distribution of a continuous variable by grouping the values into bins or intervals
+  - Line chart: A chart that shows the change or trend of one or more variables over time or along a continuous axis
+  - Scatter plot: A chart that shows the relationship or correlation between two variables by plotting the values as points on a Cartesian plane
+  - Map: A chart that shows the spatial distribution or location of data by using geographic features or regions
+  - Infographic: A chart that combines data visualization with text, icons, images, or other design elements to tell a story or convey a message
+  - Animation: A chart that shows the change or movement of data over time or space by using motion or transition effects
+- Data visualization can be created and consumed using various tools, such as:
+  - Data visualization software or applications, such as Tableau, Power BI, Excel, or R
+  - Data visualization libraries or frameworks, such as D3.js, Plotly, or Matplotlib
+  - Data visualization platforms or services, such as Google Charts, Chart.js, or Highcharts
+  - Data visualization websites or blogs, such as FlowingData, Information is Beautiful, or The Pudding
+- Data visualization can be evaluated and improved using various criteria, such as:
+  - Accuracy: The degree to which the data visualization represents the data correctly and without errors or distortions
+  - Clarity: The degree to which the data visualization communicates the data effectively and without ambiguity or confusion
+  - Aesthetics: The degree to which the data visualization appeals to the senses and emotions of the audience
+  - Functionality: The degree to which the data visualization supports the intended purpose and audience of the data
+  - Interactivity: The degree to which the data visualization allows the audience to manipulate, explore, or engage with the data

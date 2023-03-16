@@ -1,0 +1,7 @@
+### Deductive database systems and logic programming systems—differences
+
+Deductive databases and logic programming systems are two different approaches to managing and manipulating data. Deductive databases have grown out of the desire to combine logic programming with relational databases to construct systems that support a powerful formalism and are still fast and able to deal with very large datasets. Deductive databases are more expressive than relational databases but less expressive than logic programming systems.
+
+However, there are important differences between deductive databases and logic programming systems. One of the main differences is order sensitivity and procedurality. In Prolog, a logic programming language, program execution depends on the order of rules in the program and on the order of parts of rules. These properties are used by programmers to build efficient programs .
+
+In summary, deductive databases and logic programming systems have different strengths and weaknesses, and the choice between them depends on the specific needs of the application. Deductive databases are more suited for managing large datasets, while logic programming systems are more expressive and flexible.

@@ -1,0 +1,22 @@
+### The Spark Streaming Programming Model
+
+- Spark Streaming is an extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams.
+- Spark Streaming provides a high-level abstraction called **discretized stream** or **DStream**, which represents a continuous stream of data.
+- DStreams can be created either from input data streams from sources such as Kafka, Flume, and Kinesis, or by applying high-level operations on other DStreams.
+- DStreams are internally represented as a sequence of **RDDs** (Resilient Distributed Datasets), the basic abstraction in Spark.
+- Each RDD in a DStream contains data from a certain interval, called a **batch interval**.
+- Spark Streaming launches a **Spark job** to process each RDD and generate the final result.
+- Spark Streaming supports two types of operations on DStreams: **transformations** and **output operations**.
+- Transformations are functions that produce a new DStream from one or more existing DStreams, such as map, filter, reduceByKey, join, etc.
+- Output operations are functions that write data from a DStream to an external system, such as print, saveAsTextFile, foreachRDD, etc.
+- Spark Streaming also supports **window operations**, which allow applying transformations over a sliding window of data.
+- Window operations require specifying two parameters: a **window duration**, which is the width of the window, and a **sliding interval**, which is how often the window slides.
+- Spark Streaming also supports **stateful operations**, which allow maintaining and updating some state information across batches of data.
+- Stateful operations require specifying a **state function**, which defines how to update the state with the new data, and a **checkpoint directory**, which is where the state is periodically saved for fault tolerance.
+- Spark Streaming also supports **event-time processing**, which allows handling out-of-order and late-arriving data based on the event timestamps.
+- Event-time processing requires specifying a **watermark**, which is a threshold for how late the data is expected to be, and a **trigger**, which is how often the results are updated.
+- Spark Streaming also supports **structured streaming**, which is a high-level API that allows expressing streaming computations using the Dataset/DataFrame API.
+- Structured streaming queries are executed using a **micro-batch processing model**, which treats streaming data as a table that is updated in micro-batches.
+- Structured streaming queries can be written using SQL or the Dataset/DataFrame API in Scala, Java, Python or R.
+- Structured streaming queries can perform streaming aggregations, event-time windows, stream-to-batch joins, etc.
+- Structured streaming queries can write the output to various sinks, such as console, file, memory, Kafka, etc.

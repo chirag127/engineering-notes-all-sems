@@ -1,0 +1,11 @@
+### Introduction for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Intelligent database systems (IDBS) are systems that integrate database management techniques with artificial intelligence methods to provide intelligent data management and processing capabilities.
+- IDBS can support various applications that require complex data analysis, knowledge discovery, decision making, and problem solving.
+- Some of the applications of IDBS are:
+  - Data mining and knowledge discovery: IDBS can use techniques such as machine learning, neural networks, genetic algorithms, fuzzy logic, and rule-based systems to discover patterns, trends, associations, and rules from large and heterogeneous data sets.
+  - Expert systems and decision support systems: IDBS can use techniques such as knowledge representation, inference, and explanation to provide expert advice and guidance to users in specific domains, such as medical diagnosis, financial planning, or engineering design.
+  - Natural language processing and information retrieval: IDBS can use techniques such as natural language understanding, generation, and translation, as well as information extraction, summarization, and retrieval to process and access natural language data, such as text, speech, or images.
+  - Multimedia and web databases: IDBS can use techniques such as image processing, computer vision, speech recognition, and synthesis, as well as web mining, crawling, and indexing to manage and query multimedia and web data, such as audio, video, graphics, or hypertext.
+  - Spatial and temporal databases: IDBS can use techniques such as spatial reasoning, temporal logic, and spatio-temporal indexing to handle and manipulate data that have spatial and temporal dimensions, such as geographic information systems, moving object databases, or sensor networks.
+  - Bioinformatics and biometric databases: IDBS can use techniques such as sequence analysis, phylogenetic analysis, and pattern recognition to deal with data that are related to biological and biometric phenomena, such as DNA, proteins, genes, or fingerprints.

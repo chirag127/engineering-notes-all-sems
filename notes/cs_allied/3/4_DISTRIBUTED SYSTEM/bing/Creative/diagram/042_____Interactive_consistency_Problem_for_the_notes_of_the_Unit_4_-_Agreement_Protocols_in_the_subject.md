@@ -1,0 +1,11 @@
+### Interactive Consistency Problem
+
+- Interactive consistency is the problem in which **n** distinct nodes, each having its own private value, where up to **t** may be Byzantine, run an algorithm that allows all non-faulty nodes to infer the values of each other node  .
+- Byzantine nodes are nodes that can behave arbitrarily, such as sending different messages to different nodes, lying about their values, or crashing .
+- Interactive consistency is also known as **Byzantine Generals Problem** or **Byzantine Agreement Problem**.
+- Interactive consistency is a fundamental problem in distributed systems, especially for critical applications that rely on the combination of the opinions of multiple peers to provide a service, such as fault-tolerant replication, distributed consensus, or distributed voting  .
+- Interactive consistency is a challenging problem because of the possibility of network failures, message delays, or message losses, which make it hard to distinguish between faulty and non-faulty nodes  .
+- Interactive consistency has been proven to be impossible to solve in a purely asynchronous system, where there is no bound on the message delivery time, if **t >= n/3**  .
+- Interactive consistency can be solved in a synchronous system, where there is a known bound on the message delivery time, using algorithms that involve multiple rounds of message exchanges, such as the **Oral Messages Algorithm** or the **Signed Messages Algorithm**  .
+- Interactive consistency can also be solved in a partially synchronous system, where there is a bound on the message delivery time that is unknown to the nodes, using algorithms that rely on randomization, such as the **King Algorithm** or the **Randomized Byzantine Consensus Algorithm** .
+- Interactive consistency can be achieved with only a single synchronization barrier, which is a point in time where all nodes agree on the order of the messages they have received, using algorithms that leverage prior work on broadcast and randomized Byzantine consensus algorithms, such as the **Synchronous Broadcast Algorithm** or the **Asynchronous Broadcast Algorithm**.

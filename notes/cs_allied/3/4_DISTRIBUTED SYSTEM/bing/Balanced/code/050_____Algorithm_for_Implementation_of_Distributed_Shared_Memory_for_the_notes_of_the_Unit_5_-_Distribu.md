@@ -1,0 +1,13 @@
+# Algorithm for Implementation of Distributed Shared Memory
+
+Distributed Shared Memory (DSM) is a technique that allows multiple processes on different nodes of a distributed system to share a common virtual address space and access the same data objects. DSM can simplify the programming of distributed applications by providing a uniform view of memory and hiding the details of data distribution and communication.
+
+There are different algorithms for implementing DSM, each with its own advantages and disadvantages. Some of the basic algorithms are:
+
+- **Central Server Algorithm**: In this algorithm, a central server maintains all the shared data and services read and write requests from other nodes. The server can use a page-based or an object-based approach to manage the shared data. The advantage of this algorithm is that it is simple and ensures data consistency. The disadvantage is that it introduces a single point of failure and a performance bottleneck.
+
+- **Migration Algorithm**: In this algorithm, the shared data is initially stored at the central server, but it can migrate to other nodes upon request. The node that holds the data becomes the owner of that data and can service read requests locally. Write requests are forwarded to the server, which updates the data and invalidates the copies at other nodes. The advantage of this algorithm is that it reduces the network traffic and improves the locality of data access. The disadvantage is that it may cause frequent data migration and inconsistency.
+
+- **Replication Algorithm**: In this algorithm, the shared data is replicated at multiple nodes, and each node can service read requests locally. Write requests are propagated to all the nodes that have a copy of the data, and a consistency protocol is used to ensure that all the copies are updated atomically. The advantage of this algorithm is that it improves the availability and fault-tolerance of the data. The disadvantage is that it increases the network traffic and the complexity of the consistency protocol.
+
+- **Coherence Algorithm**: In this algorithm, the shared data is divided into fixed-size pages or variable-size objects, and each page or object has a coherence state that indicates its validity and ownership. A coherence protocol is used to maintain the consistency of the data across the nodes. The protocol can be based on a central manager, a distributed directory, or a multicast group. The advantage of this algorithm is that it can achieve a balance between performance and consistency. The disadvantage is that it requires additional hardware or software support for the coherence protocol.

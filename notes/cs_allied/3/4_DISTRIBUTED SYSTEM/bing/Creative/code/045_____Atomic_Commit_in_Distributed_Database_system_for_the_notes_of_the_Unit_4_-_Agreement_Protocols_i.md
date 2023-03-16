@@ -1,0 +1,8 @@
+### Atomic Commit in Distributed Database System
+
+- An atomic commit is an operation that applies a set of distinct changes as a single operation. If the changes are applied, then the atomic commit is said to have succeeded. If the changes are not applied, then the atomic commit is said to have failed or aborted.
+- In distributed database systems, the primary need for commit protocols is to maintain the atomicity of distributed transactions. A distributed transaction is a transaction that accesses data from multiple sites in a distributed system .
+- Atomic commitment issue is of prime importance in the distributed system and the issue becomes more necessary to deal with if some of the sites participating in the execution of the transaction commitment fail .
+- An atomic commit protocol is a protocol that coordinates the distinct operations of a distributed transaction and then commits or aborts the transaction as needed. An atomic commit protocol guarantees, in spite of possible failures, that either all the sites agree to commit the transaction, or all the sites agree to abort the transaction .
+- There are two main types of atomic commit protocols: blocking and non-blocking. Blocking protocols require that some sites wait for the recovery of other failed sites before deciding the outcome of the transaction. Non-blocking protocols do not require such waiting and can decide the outcome of the transaction even if some sites fail .
+- Some examples of blocking protocols are two-phase commit (2PC) and three-phase commit (3PC). Some examples of non-blocking protocols are Paxos commit, consensus commit, and FLAC  .

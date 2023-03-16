@@ -1,0 +1,12 @@
+# Structured, semi-structured and unstructured data
+
+- Structured data is data with a high degree of organization, typically stored in a spreadsheet-like manner. It has a predefined schema and follows a rigid format. Examples of structured data are relational databases, CSV files, XML files, etc. Structured data is easy to query, analyze and manipulate using SQL or other programming languages. Structured data is used in machine learning and drives its algorithms   .
+- Semi-structured data is data with some degree of organization, but not as much as structured data. It does not follow a tabular data structure, but it has some elements that can be used to group or categorize the data, such as tags, labels, keys, etc. Examples of semi-structured data are JSON files, HTML files, log files, etc. Semi-structured data is more flexible than structured data, but still requires some processing to extract useful information. Semi-structured data is the “bridge” between structured and unstructured data    .
+- Unstructured data is data with no predefined organizational form and no specific format. It is a collection of many varied data types that are stored in their native formats. Examples of unstructured data are text documents, images, videos, audio files, social media posts, etc. Unstructured data is the most complex and abundant type of data, but also the most difficult to analyze and process. It requires advanced techniques such as natural language processing and text mining to extract meaningful insights. Unstructured data is used in natural language processing and text mining     .
+
+: https://www.indeed.com/career-advice/career-development/structured-vs-unstructured-vs-semi-structured-data
+: https://www.michael-gramlich.com/what-is-structured-semi-structured-and-unstructured-data/
+: https://k21academy.com/microsoft-azure/dp-900/structured-data-vs-unstructured-data-vs-semi-structured-data/
+: https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data/
+: https://www.ibm.com/cloud/blog/structured-vs-unstructured-data
+: https://www.forbes.com/sites/bernardmarr/2019/10/18/whats-the-difference-between-structured-semi-structured-and-unstructured-data/

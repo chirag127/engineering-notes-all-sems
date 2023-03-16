@@ -1,0 +1,11 @@
+# Examples of Stream Processing
+
+Stream processing is the process of continuously ingesting, analyzing, and acting on data streams in real time. Stream processing can enable applications to process large volumes of data with low latency, high scalability, and high reliability. Stream processing can also provide insights and actions that are not possible with batch processing, which operates on historical data.
+
+Some common examples of stream processing are:
+
+- **Fraud and anomaly detection**: Stream processing can help detect fraudulent or anomalous transactions or events in real time, such as credit card fraud, cyberattacks, or network failures. Stream processing can also trigger alerts or actions to prevent or mitigate the impact of such incidents .
+- **Internet of Things (IoT) edge analytics**: Stream processing can help analyze data from IoT devices, such as sensors, cameras, or wearables, at the edge of the network, where the data is generated. This can reduce the bandwidth and storage costs of sending the data to the cloud, and also enable faster and more responsive decisions based on the data .
+- **Personalized customer experience**: Stream processing can help deliver personalized and relevant content, recommendations, or offers to customers based on their real-time behavior, preferences, or context. For example, stream processing can help tailor the content of a website, app, or email to each individual customer, or provide dynamic pricing or discounts based on their purchase history or location .
+- **Stock market trading**: Stream processing can help monitor and analyze the fluctuations of stock prices, volumes, and trends in real time, and execute trades based on predefined rules or algorithms. Stream processing can also help detect and prevent market abuse or manipulation, such as insider trading or spoofing .
+- **Digital experience monitoring**: Stream processing can help measure and improve the performance, availability, and quality of digital services, such as websites, apps, or APIs, by collecting and analyzing metrics and logs from various sources, such as servers, browsers, or network devices. Stream processing can also help identify and resolve issues or bottlenecks that affect the user experience, such as slow loading, errors, or crashes .

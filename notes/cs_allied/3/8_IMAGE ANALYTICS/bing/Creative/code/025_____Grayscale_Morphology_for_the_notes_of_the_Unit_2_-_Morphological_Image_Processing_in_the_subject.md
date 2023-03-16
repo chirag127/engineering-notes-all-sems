@@ -1,0 +1,9 @@
+### Grayscale Morphology
+
+- Grayscale morphology is an image processing technique used to produce a modified image from an original image by applying a set of mathematical operations.
+- It is used to modify the shapes and patterns of objects in an image without changing their identities.
+- Grayscale image processing can be identified by analyzing the amount of shades of gray present in the image. Generally, the more shades of gray present in the image, the higher the level of image processing. This is because the more gray values present, the more detail can be interpreted from the image.
+- Grayscale morphology is based on the concepts of umbrae and structuring elements. Umbrae are sets of pixels that have the same gray value in an image. Structuring elements are small images that are used to probe the image and modify the umbrae.
+- Grayscale morphology can be performed using two basic operations: dilation and erosion. Dilation is the process of enlarging the umbrae by adding pixels to their boundaries. Erosion is the process of shrinking the umbrae by removing pixels from their boundaries.
+- Dilation and erosion can be combined to form other operations, such as opening, closing, top-hat, and bottom-hat. Opening is the process of eroding an image and then dilating it. It is used to remove small objects and noise from an image. Closing is the process of dilating an image and then eroding it. It is used to fill small holes and gaps in an image. Top-hat is the process of subtracting the opening of an image from the original image. It is used to enhance bright objects on a dark background. Bottom-hat is the process of subtracting the original image from the closing of an image. It is used to enhance dark objects on a bright background.
+- Grayscale morphology can be applied to various applications, such as edge detection, image enhancement, image segmentation, image filtering, and image restoration.

@@ -1,0 +1,29 @@
+### Spark’s Memory Usage
+
+- Memory usage in Spark largely falls under one of two categories: execution and storage.
+  - Execution memory refers to that used for computation in shuffles, joins, sorts and aggregations.
+  - Storage memory refers to that used for caching and propagating internal data across the cluster.
+- In Spark, execution and storage share a unified region (M) in the executor's on-heap memory .
+  - The size of M is controlled by the `spark.executor.memory` configuration parameter.
+  - The amount of memory used for storage and execution can be dynamically adjusted by setting `spark.memory.fraction` and `spark.memory.storageFraction`.
+- Spark also supports off-heap memory, which is outside the JVM and is not subject to garbage collection.
+  - The size of off-heap memory is controlled by the `spark.memory.offHeap.size` configuration parameter.
+  - Off-heap memory can be used for caching data in serialized form.
+- Spark operates by placing data in memory, so managing memory resources is a key aspect of optimizing the execution of Spark jobs.
+  - There are several techniques to use the cluster's memory efficiently, such as:
+    - Choosing the right data serialization format
+    - Tuning the data structures and partitions
+    - Using broadcast variables and accumulators
+    - Avoiding unnecessary caching and shuffling
+    - Monitoring and tuning the memory usage
+- Spark provides a web UI that displays useful information about the application, including a summary of RDD sizes and memory usage.
+  - The web UI can be accessed by default on port 4040 of the driver node.
+  - The web UI shows the storage memory used and available for each executor, as well as the details of each cached RDD.
+- Spark also provides metrics and logs that can help diagnose memory issues and performance bottlenecks.
+  - The metrics can be accessed through various sinks, such as JMX, Ganglia, Graphite, or a custom sink.
+  - The logs can be accessed through the web UI or the cluster manager's UI.
+  - The metrics and logs can provide information such as:
+    - The memory usage and garbage collection of each executor
+    - The execution time and shuffle size of each stage and task
+    - The input and output size and compression ratio of each RDD
+    - The spill size and frequency of each operation

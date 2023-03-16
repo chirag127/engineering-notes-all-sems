@@ -1,0 +1,22 @@
+### Concepts in Message Passing Systems
+
+- Message passing is a technique for invoking behavior (i.e., running a program) on a computer.
+- In message-passing systems, processors communicate with one another by sending and receiving messages over a communication channel.
+- The pattern of the connection provided by the channel is described by some topology systems.
+- The collection of the channels are called a network.
+- A message-passing system gives a collection of message-based IPC protocols while sheltering programmers from the complexities of sophisticated network protocols and many heterogeneous platforms.
+- A message-passing mechanism can be used in a distributed system for the following two forms of inter-process communication:
+  - Local communication, where the communicating processes are located on the same node.
+  - Distant communication, in which the communication activities are distributed among multiple nodes.
+- The formal model for distributed message passing has two timing models:
+  - Synchronous, where the sender and the receiver are synchronized by the message exchange.
+  - Asynchronous, where the sender and the receiver are independent and do not wait for each other.
+- Message passing can be classified into two types based on the direction of communication:
+  - Unidirectional, where the messages are sent in one direction only.
+  - Bidirectional, where the messages are sent and received in both directions.
+- Message passing can also be classified into two types based on the number of receivers:
+  - Point-to-point, where the message is sent to a single receiver.
+  - Broadcast, where the message is sent to multiple receivers.
+- Message passing can also be classified into two types based on the delivery order:
+  - FIFO, where the messages are delivered in the same order as they are sent.
+  - Non-FIFO, where the messages are delivered in any order.

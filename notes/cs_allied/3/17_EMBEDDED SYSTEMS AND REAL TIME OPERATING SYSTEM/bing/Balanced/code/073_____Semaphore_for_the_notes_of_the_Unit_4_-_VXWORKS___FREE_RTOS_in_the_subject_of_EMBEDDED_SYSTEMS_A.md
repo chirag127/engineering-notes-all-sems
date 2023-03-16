@@ -1,0 +1,18 @@
+### Semaphore for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A semaphore is a variable used to control access to a common, shared resource that needs to be accessed by multiple threads or processes.
+- A semaphore can have a value of 0 or 1, indicating whether the resource is available or not.
+- A semaphore can be used to implement mutual exclusion (mutex) or synchronization between threads or processes.
+- A mutex is a special type of semaphore that can only be owned by one thread or process at a time. A mutex can be used to protect a critical section of code or data from concurrent access.
+- A semaphore can also be used to signal the occurrence of an event or condition to one or more waiting threads or processes. A semaphore can be used to implement a producer-consumer pattern, where one thread or process produces data and another thread or process consumes it.
+- In VXWORKS, a semaphore can be created by calling semBCreate() for a binary semaphore, semCCreate() for a counting semaphore, or semMCreate() for a mutex semaphore. A semaphore can be deleted by calling semDelete().
+- In VXWORKS, a semaphore can be taken by calling semTake(), which blocks the calling thread or process until the semaphore is available or a timeout occurs. A semaphore can be given by calling semGive(), which releases the semaphore and wakes up any waiting thread or process.
+- In VXWORKS, a semaphore can also be given from an interrupt service routine (ISR) by calling semGiveFromISR(), which does not block the ISR but posts the semaphore to a queue for later processing by the kernel.
+- In FREE RTOS, a semaphore can be created by calling xSemaphoreCreateBinary() for a binary semaphore, xSemaphoreCreateCounting() for a counting semaphore, xSemaphoreCreateMutex() for a mutex semaphore, or xSemaphoreCreateRecursiveMutex() for a recursive mutex semaphore. A semaphore can be deleted by calling vSemaphoreDelete().
+- In FREE RTOS, a semaphore can be taken by calling xSemaphoreTake() or xSemaphoreTakeRecursive(), which blocks the calling task until the semaphore is available or a timeout occurs. A semaphore can be given by calling xSemaphoreGive() or xSemaphoreGiveRecursive(), which releases the semaphore and wakes up any waiting task.
+- In FREE RTOS, a semaphore can also be given from an ISR by calling xSemaphoreGiveFromISR(), which does not block the ISR but posts the semaphore to a queue for later processing by the kernel.
+- In FREE RTOS, a semaphore is built on a queue, which is a data structure that can store multiple items in a first-in first-out (FIFO) order. A queue can be used to pass data or messages between tasks or ISRs.
+- In FREE RTOS+POSIX, a semaphore can be created by calling sem_init() for a named or unnamed semaphore. A semaphore can be deleted by calling sem_destroy() or sem_unlink().
+- In FREE RTOS+POSIX, a semaphore can be taken by calling sem_wait() or sem_trywait(), which blocks the calling thread until the semaphore is available or a timeout occurs. A semaphore can be given by calling sem_post(), which releases the semaphore and wakes up any waiting thread.
+- In FREE RTOS+POSIX, a semaphore can also be given from an ISR by calling sem_post_from_isr(), which does not block the ISR but posts the semaphore to a queue for later processing by the kernel.
+- In FREE RTOS+POSIX, a semaphore is built on a FreeRTOS queue, which is wrapped by a POSIX layer that provides compatibility with the POSIX standard.

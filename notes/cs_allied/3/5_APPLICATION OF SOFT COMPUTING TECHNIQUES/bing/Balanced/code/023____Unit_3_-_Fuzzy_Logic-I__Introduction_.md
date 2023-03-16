@@ -1,0 +1,8 @@
+## Unit 3 - Fuzzy Logic-I (Introduction)
+
+- Fuzzy logic is a form of many-valued logic that allows for partial truths, where the truth value of variables may be any real number between 0 and 1 .
+- Fuzzy logic is an extension of classical logic that incorporates the uncertainties that factor into human decision-making. It is frequently used to solve complex problems, where the parameters may be unclear or imprecise.
+- Fuzzy logic emerged in the context of the theory of fuzzy sets, introduced by Iranian Azerbaijani mathematician Lotfi Zadeh in 1965. A fuzzy set assigns a degree of membership, typically a real number from the interval [0,1], to elements of a universe .
+- Fuzzy logic is based on the concept of membership function and the implementation is done using fuzzy rules. A membership function defines how each point in the input space is mapped to a membership value between 0 and 1. A fuzzy rule is a conditional statement that relates fuzzy sets using linguistic variables.
+- Fuzzy logic can work with any type of inputs whether it is imprecise, distorted or noisy input information. The construction of fuzzy logic systems is easy and understandable. Fuzzy logic comes with mathematical concepts of set theory and the reasoning of that is quite simple. It provides a very effective framework for dealing with imprecision and vagueness in real-world problems.
+- Fuzzy logic is also used in investment software, where it can be used to interpret ambiguous or unclear trading signals. Fuzzy logic can help investors to make better decisions based on fuzzy indicators, such as market sentiment, risk appetite, or market volatility.

@@ -1,0 +1,28 @@
+### System Model for Distributed Deadlock Detection
+
+- A distributed system consists of a collection of nodes that communicate and cooperate to achieve a common goal.
+- A node can be a process, a processor, a computer, or a cluster of computers.
+- A node can request, hold, and release resources that are shared among the nodes.
+- A resource can be a physical device, a logical entity, or a message.
+- A node can be in one of the following states: active, waiting, or blocked.
+- An active node is executing its own instructions and does not need any resource.
+- A waiting node is waiting for a resource that is currently held by another node.
+- A blocked node is waiting for a resource that is not currently available in the system.
+- A node can transition from one state to another by sending or receiving messages.
+- A deadlock is a situation where a set of nodes are blocked and none of them can proceed.
+- A deadlock can be detected by examining the status of the nodes and the resources in the system.
+- A wait-for graph (WFG) is a directed graph that represents the dependency among the nodes and the resources in the system.
+- A node in the WFG is either a process node or a resource node.
+- A process node corresponds to a node in the distributed system that is waiting or blocked.
+- A resource node corresponds to a resource in the distributed system that is held by a node or requested by a node.
+- An edge in the WFG is either a request edge or an assignment edge.
+- A request edge goes from a process node to a resource node, indicating that the process is waiting for the resource.
+- An assignment edge goes from a resource node to a process node, indicating that the resource is held by the process.
+- A cycle in the WFG indicates the existence of a deadlock in the system.
+- A global WFG is a WFG that contains all the nodes and edges in the distributed system.
+- A local WFG is a WFG that contains only the nodes and edges that are relevant to a subset of the nodes in the distributed system.
+- A system model for distributed deadlock detection defines the following components:
+  - The structure and representation of the WFG.
+  - The algorithm and protocol for constructing and updating the WFG.
+  - The mechanism and frequency for detecting cycles in the WFG.
+  - The strategy and policy for resolving deadlocks in the system.

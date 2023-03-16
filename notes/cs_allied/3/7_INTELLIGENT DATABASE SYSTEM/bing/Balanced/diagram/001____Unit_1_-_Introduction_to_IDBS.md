@@ -1,0 +1,22 @@
+## Unit 1 - Introduction to IDBS
+
+- IDBS stands for Integrated Database Systems, which is a course that covers the concepts and techniques of designing, implementing, and managing database systems.
+- A database is a collection of data that is organized so that it can be easily accessed, managed, and updated.
+- A database system is a software system that provides the functionality to create, manipulate, and query databases.
+- A database system consists of two main components: the database and the database management system (DBMS).
+- The database is the actual data stored in a structured format, such as tables, records, and fields.
+- The DBMS is the software that controls the access and manipulation of the database, such as creating, deleting, updating, and querying data.
+- The DBMS also provides other features, such as data security, data integrity, data backup and recovery, data concurrency, and data abstraction.
+- There are different types of database systems, such as relational, hierarchical, network, object-oriented, and NoSQL databases, each with its own advantages and disadvantages.
+- The most widely used type of database system is the relational database system, which organizes data into tables, where each table has a set of columns (attributes) and rows (tuples).
+- The relational model is based on the concept of mathematical relations, and supports operations such as selection, projection, join, union, intersection, and difference.
+- The relational model also defines a set of integrity constraints, such as primary keys, foreign keys, and referential integrity, to ensure the validity and consistency of the data.
+- The relational model also supports a standard query language, called SQL (Structured Query Language), which is used to define, manipulate, and query data in a relational database.
+- SQL is a declarative language, which means that it specifies what data is required, rather than how to obtain it.
+- SQL consists of several sublanguages, such as DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and DQL (Data Query Language).
+- DDL is used to define the structure and schema of the database, such as creating, altering, and dropping tables, indexes, views, and constraints.
+- DML is used to manipulate the data in the database, such as inserting, updating, deleting, and merging data.
+- DCL is used to control the access and privileges of the database, such as granting, revoking, and auditing permissions and roles.
+- DQL is used to query the data in the database, such as selecting, joining, grouping, and aggregating data.
+- SQL also supports various functions, operators, expressions, clauses, and keywords to perform complex and advanced queries and operations on the data.
+- SQL is a standard language, but different DBMSs may have different implementations and extensions of SQL, such as Oracle, MySQL, PostgreSQL, SQL Server, and SQLite.

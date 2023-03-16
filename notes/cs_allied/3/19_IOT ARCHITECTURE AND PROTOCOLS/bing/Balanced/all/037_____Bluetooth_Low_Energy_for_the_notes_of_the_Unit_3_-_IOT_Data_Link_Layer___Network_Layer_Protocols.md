@@ -1,0 +1,12 @@
+# Bluetooth Low Energy
+
+- Bluetooth Low Energy (BLE) is a wireless personal area network technology designed and marketed by the Bluetooth Special Interest Group (Bluetooth SIG) aimed at novel applications in the healthcare, fitness, beacons, security, and home entertainment industries.
+- BLE is distinct from the previous (often called "classic") Bluetooth Basic Rate/Enhanced Data Rate (BR/EDR) protocol, but the two protocols can both be supported by one device: the Bluetooth 4.0 specification permits devices to implement either or both of the LE and BR/EDR systems.
+- BLE has the following advantages over classic Bluetooth:
+  - Lower power consumption: BLE devices can operate for months or years on a coin cell battery, while classic Bluetooth devices require frequent recharging.
+  - Faster connection time: BLE devices can connect in a few milliseconds, while classic Bluetooth devices may take several seconds.
+  - Simpler pairing process: BLE devices can use a variety of methods to pair, such as scanning a QR code, tapping a NFC tag, or using a proximity-based trigger, while classic Bluetooth devices require a PIN code or a confirmation button.
+  - Higher scalability: BLE devices can support up to 20 concurrent connections, while classic Bluetooth devices are limited to 7.
+- BLE uses two protocols for discovery and communication between devices: the Generic Access Profile (GAP) and the Generic Attribute Profile (GATT).
+  - GAP defines how devices advertise themselves and discover other devices in the vicinity. GAP also defines the roles and modes of devices, such as peripheral (device that advertises data) and central (device that scans for data), broadcaster (device that sends data without connection) and observer (device that receives data without connection), and bonded (device that has a trusted relationship with another device) and non-bonded (device that has no trusted relationship with another device).
+  - GATT defines how devices exchange data using a client-server model. GATT also defines the structure and format of data, such as services (collections of related data), characteristics (individual data elements), and descriptors (metadata about characteristics). GATT also defines the operations that can be performed on data, such as read, write, notify, and indicate.

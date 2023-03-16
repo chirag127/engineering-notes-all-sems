@@ -1,0 +1,6 @@
+### General characteristics of IDBSs
+
+- IDBS stands for Intelligent Database Systems, which are systems that manage information (rather than data) in a way that appears natural to users and which goes beyond simple record keeping.
+- IDBSs have artificial intelligence (AI) components that interact with users to ensure that users are supplied all relevant information. These components may include natural language processing, knowledge representation, reasoning, learning, and expert systems.
+- IDBSs are designed to efficiently access one or more database management systems (DBMSs), remote or not, and provide a lot of choices and flexible options for conducting queries. They can also integrate heterogeneous and distributed data sources and handle complex data types.
+- IDBSs aim to provide intelligent support for decision making, problem solving, and knowledge discovery, as well as to enhance the usability and functionality of databases. They can also adapt to the changing needs and preferences of users and the environment.

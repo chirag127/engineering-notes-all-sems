@@ -1,0 +1,21 @@
+### Guidelines for using intelligent database systems
+
+- An intelligent database system (IDBS) is a system that manages information, rather than simple data, and presents it in such a way that is natural and informative for users .
+- An IDBS can go beyond simple record keeping and provide features such as natural language processing, knowledge representation, reasoning, learning, and adaptation.
+- An IDBS can also interface with one or more database management systems (DBMSs), either local or remote, and provide efficient and flexible query options.
+- Some of the benefits of using an IDBS are:
+  - It can help users to access and understand complex and heterogeneous data sources.
+  - It can support decision making and problem solving by providing relevant and timely information.
+  - It can enhance the quality and consistency of the information by applying rules and constraints.
+  - It can evolve and adapt to changing user needs and preferences.
+- Some of the challenges of using an IDBS are:
+  - It requires a high level of expertise and domain knowledge to design and implement an IDBS.
+  - It may face scalability and performance issues when dealing with large and dynamic data sets.
+  - It may encounter ethical and legal issues regarding the ownership, privacy, and security of the information.
+  - It may have to cope with uncertainty and inconsistency in the information and the user feedback.
+- Some of the guidelines for using an IDBS are:
+  - Identify the goals and requirements of the users and the information sources.
+  - Choose an appropriate architecture and framework for the IDBS, such as rule-based, logic-based, or neural-based.
+  - Design and implement the components of the IDBS, such as the knowledge base, the inference engine, the user interface, and the communication module.
+  - Evaluate and test the IDBS for its functionality, usability, reliability, and validity.
+  - Monitor and update the IDBS to reflect the changes in the data and the user feedback.

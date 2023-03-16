@@ -1,0 +1,9 @@
+### Monitoring Spark Streaming
+
+Spark Streaming is an extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams. Spark Streaming can ingest data from various sources, such as Kafka, Flume, Kinesis, Event Hubs, IoT Hub, TCP sockets, or HDFS , and process them using complex algorithms expressed with high-level functions like map, reduce, join, and window.
+
+Monitoring Spark Streaming applications is important to ensure that they are running correctly and efficiently. Spark Streaming provides several ways to monitor the performance and status of streaming queries, such as:
+
+- **Web UIs**: Spark Streaming applications have a web UI that displays useful information about the streaming queries, such as input rate, processing rate, latency, state size, watermarks, and active and completed batches  . The web UI also shows the logical and physical plans of the queries, as well as the metrics and statistics of each operator. The web UI can be accessed by default on port 4040 of the driver node.
+- **Metrics**: Spark Streaming publishes various metrics that can be collected and displayed by external systems, such as Ganglia, Graphite, or Prometheus. Some of the metrics include input rate, processing rate, scheduling delay, processing time, and batch size . Metrics can be configured by setting the `spark.metrics.conf` property in the Spark configuration file.
+- **External instrumentation**: Spark Streaming applications can also be monitored by using external tools or libraries that instrument the code and collect performance data, such as logging, tracing, or profiling. For example, one can use Log4j to log the events and errors of the streaming queries, or use OpenTelemetry to trace the execution of the queries across different nodes and stages.

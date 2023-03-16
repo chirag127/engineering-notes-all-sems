@@ -1,0 +1,24 @@
+# KOT 554 INTERNET OF THINGS LAB KCS
+
+- KOT 554 is a course code for Internet of Things Lab offered by KCS Technologies Inc.
+- Internet of Things (IoT) is a network of physical objects that can communicate and interact with each other and other devices through the internet.
+- IoT Lab is a practical course that teaches students how to design, develop, and test IoT applications using various hardware and software platforms.
+- The course objectives are:
+  - To understand the fundamental concepts of IoT, such as embedded systems, connectivity, cloud computing, and security.
+  - To gain hands-on experience in creating smartphone apps and controlling a wearable device using the Arm Mbed platform and Android SDK.
+  - To learn how to use sensors, actuators, and communication modules to collect and transmit data from the physical world to the cloud and vice versa.
+  - To explore the applications and challenges of IoT in various domains, such as smart home, smart city, smart health, and smart agriculture.
+- The course outline is:
+  - Introduction to IoT: definition, characteristics, architecture, components, and examples of IoT systems.
+  - IoT Hardware Platforms: overview of microcontrollers, sensors, actuators, and communication modules used in IoT devices.
+  - IoT Software Platforms: overview of operating systems, programming languages, frameworks, and tools used in IoT development.
+  - IoT Connectivity: overview of wireless technologies, protocols, and standards used in IoT communication, such as Wi-Fi, Bluetooth, Zigbee, LoRa, and MQTT.
+  - IoT Cloud Services: overview of cloud computing, cloud models, cloud providers, and cloud services used in IoT, such as AWS IoT, Google Cloud IoT, and Microsoft Azure IoT.
+  - IoT Security: overview of security threats, challenges, and solutions in IoT, such as encryption, authentication, authorization, and privacy.
+  - IoT Applications: overview of IoT use cases and scenarios in various domains, such as smart home, smart city, smart health, and smart agriculture.
+  - IoT Project: design, develop, and test an IoT application using the Arm Mbed platform and Android SDK, and present the project to the class.
+- The course assessment is:
+  - Lab Assignments: 40%
+  - Midterm Exam: 20%
+  - Final Project: 30%
+  - Presentation: 10%

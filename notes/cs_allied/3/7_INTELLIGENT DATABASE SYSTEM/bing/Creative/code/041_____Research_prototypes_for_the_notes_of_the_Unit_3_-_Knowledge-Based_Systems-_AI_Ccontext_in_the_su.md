@@ -1,0 +1,13 @@
+### Research prototypes for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A research prototype is a preliminary version of a system that is used to test and evaluate its feasibility, functionality, performance, and usability in a specific domain or problem.
+- A research prototype can be used to demonstrate the potential of a new approach, technique, or technology, or to explore the design space and user needs of a system.
+- A research prototype can also be used to collect feedback and data from users, experts, or stakeholders, and to refine and improve the system based on the findings.
+- Research prototypes can vary in their level of fidelity, complexity, and interactivity, depending on the purpose and scope of the research.
+- Research prototypes for knowledge-based systems are systems that use artificial intelligence techniques, such as knowledge representation, reasoning, learning, and natural language processing, to provide intelligent and adaptive functionality to users.
+- Knowledge-based systems can be applied to various domains and problems, such as decision support, diagnosis, planning, scheduling, information retrieval, natural language understanding, and computer vision.
+- Some examples of research prototypes for knowledge-based systems are:
+
+  - Prototypical knowledge for expert systems: This is a framework for representing and using prototypical knowledge in expert systems. Prototypical knowledge is the knowledge of typical situations or cases that can be used as a basis for comparison and inference. The framework uses frames to represent prototypes, and rules to define the similarity and difference between prototypes and actual situations.
+  - A prototype knowledge-based simulation support system : This is a system that supports the teaching and learning of simulation modeling and analysis in industrial engineering. The system uses a knowledge base to store and retrieve simulation concepts, methods, and examples, and a rule-based inference engine to provide guidance, feedback, and explanations to students and instructors.
+  - Geometric knowledge-based systems framework for fingerprint image classification: This is a system that uses geometric knowledge and fuzzy logic to classify fingerprint images into four categories: arch, loop, whorl, and composite. The system uses a knowledge base to store the geometric features and rules of each category, and a fuzzy inference engine to compute the similarity and membership of each fingerprint image to the categories.

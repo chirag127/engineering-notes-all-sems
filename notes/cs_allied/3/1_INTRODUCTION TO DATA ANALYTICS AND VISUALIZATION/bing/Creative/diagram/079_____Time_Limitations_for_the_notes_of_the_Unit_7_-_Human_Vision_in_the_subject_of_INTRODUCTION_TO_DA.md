@@ -1,0 +1,23 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Introduction to Data Analytics and Visualization. Here is the content for the topic of Time Limitations for the notes of the Unit 7 - Human Vision:
+
+### Time Limitations
+
+- Human vision is not only limited by the spatial resolution and color perception, but also by the temporal resolution and motion perception.
+- Temporal resolution refers to the ability to distinguish between two events that occur in a short time interval. Motion perception refers to the ability to detect and track the movement of objects in the visual field.
+- Both temporal resolution and motion perception depend on the type, speed, direction, and contrast of the stimuli, as well as the attention and expectation of the observer.
+- Some factors that affect the temporal resolution and motion perception are:
+
+  - Flicker fusion: The minimum frequency at which a flickering light appears as a steady light. It varies depending on the brightness, color, and size of the light source, as well as the location on the retina. The average flicker fusion threshold for humans is about 60 Hz, but it can be higher or lower depending on the conditions.
+  - Critical flicker frequency: The frequency at which the flicker fusion threshold is reached. It is inversely proportional to the stimulus intensity. The higher the intensity, the lower the critical flicker frequency.
+  - Persistence of vision: The phenomenon that a visual stimulus remains in the retina for a brief period after it is removed. It is caused by the slow decay of the photoreceptor response and the neural processing in the visual system. The duration of persistence of vision varies depending on the stimulus characteristics, but it is usually between 50 and 200 ms.
+  - Phi phenomenon: The illusion of apparent motion that occurs when two or more stationary stimuli are presented in rapid succession at different locations. It is caused by the temporal integration of the visual system, which fills in the gaps between the stimuli. The phi phenomenon can be used to create animations and movies from still images.
+  - Beta movement: A type of apparent motion that occurs when two or more stimuli are presented in rapid succession at the same location, but with different shapes or orientations. It is caused by the temporal integration and the shape constancy of the visual system, which interprets the stimuli as a single object that changes its form. The beta movement can be used to create morphing and transformation effects.
+  - Stroboscopic effect: The illusion of apparent motion that occurs when a series of still images are presented in rapid succession, each showing a slightly different phase of a moving object. It is caused by the temporal integration and the motion constancy of the visual system, which interprets the images as a continuous motion. The stroboscopic effect can be used to create slow-motion and stop-motion effects.
+  - Motion aftereffect: The phenomenon that a stationary stimulus appears to move in the opposite direction after viewing a moving stimulus for a prolonged period. It is caused by the adaptation and the contrast of the motion-sensitive neurons in the visual cortex, which become less responsive to the original motion and more responsive to the opposite motion. The motion aftereffect can be used to create motion illusions and art.
+
+- Temporal resolution and motion perception are important for data visualization, as they can affect the perception of change, trend, pattern, and causality in the data. Some guidelines for designing effective temporal and motion visualizations are:
+
+  - Use appropriate temporal scales and units for the data and the message. Avoid using too many or too few time points, or mixing different time units.
+  - Use appropriate motion techniques and speeds for the data and the message. Avoid using too fast or too slow motion, or motion that distracts or confuses the viewer.
+  - Use appropriate visual cues and transitions for the data and the message. Avoid using abrupt or inconsistent changes, or changes that are not noticeable or meaningful.
+  - Use appropriate interactivity and animation for the data and the message. Avoid using unnecessary or excessive interactivity or animation, or interactivity or animation that interferes with the comprehension or exploration of the data.

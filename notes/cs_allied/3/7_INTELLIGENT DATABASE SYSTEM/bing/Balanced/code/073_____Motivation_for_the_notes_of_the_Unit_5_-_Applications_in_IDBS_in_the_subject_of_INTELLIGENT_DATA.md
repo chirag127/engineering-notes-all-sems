@@ -1,0 +1,12 @@
+### Motivation for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Intelligent database systems (IDBS) are systems that combine database management and artificial intelligence techniques to provide intelligent data management and processing capabilities.
+- IDBS can support various applications that require complex data analysis, decision making, knowledge discovery, and reasoning over large and heterogeneous data sources.
+- Some of the applications of IDBS are:
+  - Data mining and knowledge discovery: IDBS can use machine learning, statistical, and logical methods to discover patterns, rules, associations, clusters, and anomalies from data, and to extract useful and actionable knowledge for various domains and tasks.
+  - Expert systems and decision support systems: IDBS can use knowledge representation, inference, and explanation techniques to model domain knowledge, provide expert advice, and support decision making processes for various problems and scenarios.
+  - Natural language processing and information retrieval: IDBS can use natural language understanding, generation, and translation techniques to process natural language data, and to retrieve and present relevant information from structured and unstructured data sources.
+  - Multimedia and web databases: IDBS can use image processing, computer vision, speech recognition, and content-based retrieval techniques to manage and query multimedia and web data, and to provide rich and interactive user interfaces.
+  - Spatial and temporal databases: IDBS can use spatial and temporal reasoning, indexing, and querying techniques to handle spatial and temporal data, and to support applications that involve geographic information systems, location-based services, and temporal data analysis.
+  - Bioinformatics and health informatics: IDBS can use bioinformatics and health informatics techniques to manage and analyze biological and medical data, and to support applications that involve genomics, proteomics, drug discovery, diagnosis, and treatment.
+- The notes of Unit 5 will cover some of the above applications in detail, and will illustrate how IDBS can provide intelligent solutions for them. The notes will also discuss some of the challenges and future directions of IDBS research and development.

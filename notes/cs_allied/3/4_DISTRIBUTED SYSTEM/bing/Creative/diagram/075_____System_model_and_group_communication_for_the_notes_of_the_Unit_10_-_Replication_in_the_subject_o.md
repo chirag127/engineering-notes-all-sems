@@ -1,0 +1,25 @@
+### System model and group communication for replication in distributed systems
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by passing messages .
+- Replication is a technique to improve the availability, performance, and fault tolerance of a distributed system by creating and maintaining multiple copies of data or services .
+- A system model is a set of assumptions and properties that describe the behavior and characteristics of a distributed system, such as the communication model, the failure model, the timing model, and the security model .
+- Group communication is a form of communication between multiple processes in a distributed system that share some common interest or goal, such as achieving consistency, ordering, or reliability   .
+- Group communication can be classified into two types: broadcast communication and multicast communication .
+  - Broadcast communication is when a source process sends a message to all the processes in the system, regardless of their group membership or interest .
+  - Multicast communication is when a source process sends a message to a subset of processes in the system that belong to a specific group .
+- Group communication can also be characterized by different levels of reliability, such as best-effort, reliable, or atomic .
+  - Best-effort group communication is when a source process sends a message to a group and does not expect any acknowledgment or guarantee of delivery .
+  - Reliable group communication is when a source process sends a message to a group and expects that all the processes in the group will eventually receive the message, unless they fail .
+  - Atomic group communication is when a source process sends a message to a group and expects that either all or none of the processes in the group will receive the message, and that they will receive it in the same order .
+- Group communication can be implemented by various protocols and algorithms, such as IP multicast, gossip protocols, reliable broadcast, reliable multicast, atomic broadcast, and atomic multicast .
+- Group communication can be used for replication in distributed systems by enabling the processes to exchange information, coordinate actions, and maintain consistency among the replicas  .
+- Replication can be achieved by different strategies, such as primary-backup, active replication, passive replication, or quorum-based replication  .
+  - Primary-backup replication is when one process acts as the primary and handles all the requests, while the other processes act as backups and receive updates from the primary .
+  - Active replication is when all the processes execute the same requests in the same order and produce the same results .
+  - Passive replication is when one process acts as the leader and executes the requests, while the other processes act as followers and receive the results from the leader .
+  - Quorum-based replication is when each process maintains a local copy of the data and updates it according to a voting scheme that ensures a minimum number of processes agree on the value .
+- Replication can also be classified by different consistency models, such as strong consistency, weak consistency, eventual consistency, or causal consistency  .
+  - Strong consistency is when all the processes see the same value of the data at all times .
+  - Weak consistency is when the processes may see different values of the data at different times, but the data will eventually converge to a consistent state .
+  - Eventual consistency is when the processes may see different values of the data at different times, but the data will eventually converge to a consistent state if no more updates occur .
+  - Causal consistency is when the processes see the same value of the data for causally related updates, but may see different values for concurrent updates .

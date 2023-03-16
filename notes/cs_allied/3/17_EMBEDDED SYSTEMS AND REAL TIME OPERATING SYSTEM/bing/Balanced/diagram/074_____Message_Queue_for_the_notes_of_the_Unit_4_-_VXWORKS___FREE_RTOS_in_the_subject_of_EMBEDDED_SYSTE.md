@@ -1,0 +1,14 @@
+### Message Queue
+
+- A message queue is a form of inter-task communication that allows tasks and interrupts to send and receive data by copy.
+- A message queue can store multiple messages of the same size, which can be either fixed or variable depending on the configuration.
+- A message queue can be created using the `xQueueCreate()` or `xQueueCreateStatic()` functions, which return a handle to the queue.
+- A message queue can be deleted using the `vQueueDelete()` function, which frees the memory allocated to the queue.
+- A message can be sent to a queue using the `xQueueSend()`, `xQueueSendToFront()`, or `xQueueSendToBack()` functions, which copy the message to the queue and return a status code.
+- A message can be received from a queue using the `xQueueReceive()`, `xQueuePeek()`, or `xQueuePeekFromISR()` functions, which copy the message from the queue and return a status code.
+- A message queue can be used in an interrupt service routine (ISR) using the `xQueueSendFromISR()`, `xQueueSendToFrontFromISR()`, `xQueueSendToBackFromISR()`, or `xQueueReceiveFromISR()` functions, which are similar to the non-ISR versions but use a different parameter to indicate if a context switch is required.
+- A message queue can be queried for its status using the `uxQueueMessagesWaiting()`, `uxQueueSpacesAvailable()`, or `xQueueIsQueueEmptyFromISR()` functions, which return the number of messages in the queue, the number of free spaces in the queue, or a boolean value indicating if the queue is empty, respectively.
+- A message queue can be used to implement a semaphore or a mutex by sending and receiving a dummy value, or by using the `xSemaphoreCreateBinary()`, `xSemaphoreCreateMutex()`, or `xSemaphoreCreateCounting()` functions, which create a queue with a single message slot and return a semaphore handle .
+- A message queue can be used to synchronize tasks or interrupts by blocking on the queue until a message is available, or by using the `xQueueSelectFromSet()` function, which allows a task to block on multiple queues at once .
+- A message queue can be used to pass data between tasks or interrupts by sending and receiving pointers to larger buffers, or by using the `xQueueOverwrite()`, `xQueueOverwriteFromISR()`, or `xQueueReset()` functions, which overwrite or clear the queue contents .
+- A message queue can be used to implement a POSIX message queue by using the `mq_open()`, `mq_close()`, `mq_send()`, `mq_receive()`, `mq_getattr()`, or `mq_setattr()` functions, which are part of the FreeRTOS+POSIX library and provide a similar interface to the standard POSIX message queue API.

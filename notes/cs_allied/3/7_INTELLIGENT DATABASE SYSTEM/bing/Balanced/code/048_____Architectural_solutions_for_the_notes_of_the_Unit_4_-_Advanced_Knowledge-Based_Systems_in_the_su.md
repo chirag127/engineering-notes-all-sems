@@ -1,0 +1,25 @@
+### Architectural solutions for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A knowledge-based system (KBS) is a computer system that uses artificial intelligence techniques to solve problems that require human expertise and knowledge.
+- A KBS consists of two main components: a knowledge base and an inference engine.
+- A knowledge base is a collection of facts, rules, heuristics, and other forms of knowledge representation that capture the domain knowledge of a human expert.
+- An inference engine is a software component that applies logical reasoning and search methods to the knowledge base to derive conclusions or recommendations.
+- There are different types of KBS, such as rule-based systems, case-based systems, neural networks, fuzzy systems, genetic algorithms, and hybrid systems.
+- There are also different architectural solutions for designing and implementing KBS, such as blackboard systems, expert systems shells, and multi-agent systems .
+- A blackboard system is a KBS that uses a shared memory space, called a blackboard, to store and exchange information among different modules, called knowledge sources.
+- A knowledge source is a specialized module that can perform a specific task or subtask, such as generating hypotheses, evaluating solutions, or providing feedback.
+- A control unit is a module that coordinates the activities of the knowledge sources and manages the access to the blackboard.
+- A blackboard system is suitable for solving complex and ill-structured problems that require the cooperation and integration of multiple sources of knowledge and expertise.
+- An expert system shell is a KBS that provides a general framework and a set of tools for building domain-specific KBS.
+- An expert system shell typically consists of a user interface, a knowledge base editor, an inference engine, and a knowledge acquisition module.
+- A user interface is a module that allows the communication between the KBS and the user, such as asking questions, displaying results, or explaining the reasoning process.
+- A knowledge base editor is a module that allows the creation, modification, and deletion of the knowledge base.
+- A knowledge acquisition module is a module that facilitates the elicitation and validation of the knowledge from the human expert or other sources.
+- An expert system shell is suitable for building KBS that have a well-defined and narrow domain, a clear and consistent knowledge representation, and a standard inference mechanism.
+- A multi-agent system is a KBS that consists of a collection of autonomous and distributed agents that interact and cooperate with each other to achieve a common or individual goal.
+- An agent is a software entity that has the following characteristics: autonomy, reactivity, proactiveness, and social ability.
+- Autonomy means that an agent can act independently and make its own decisions without direct intervention from other agents or humans.
+- Reactivity means that an agent can perceive its environment and respond to changes or events in a timely manner.
+- Proactiveness means that an agent can initiate actions and pursue its own goals or plans.
+- Social ability means that an agent can communicate and cooperate with other agents or humans using a common language or protocol.
+- A multi-agent system is suitable for solving problems that are distributed, dynamic, heterogeneous, and open.

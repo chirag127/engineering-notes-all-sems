@@ -1,0 +1,23 @@
+### Color Fundamentals
+
+- Color is a property of light that depends on the wavelength and intensity of the electromagnetic (EM) radiation.
+- Human color vision is achieved through 6 to 7 million cones in each eye, which are sensitive to different ranges of wavelengths.
+- Three principal sensing groups of cones are: 
+  - 66% of these cones are sensitive to red light (long wavelengths)
+  - 33% to green light (medium wavelengths)
+  - 2% to blue light (short wavelengths)
+- The combination of these three primary colors can produce a range of colors that humans can perceive.
+- Color can be represented and processed in different ways, depending on the application and the device.
+- Some common color models are:
+  - RGB: Red, Green, and Blue are the primary colors for additive color mixing, which is used for display devices such as monitors and TVs.
+  - CMYK: Cyan, Magenta, Yellow, and Black are the primary colors for subtractive color mixing, which is used for printing devices such as printers and scanners.
+  - HSV: Hue, Saturation, and Value are the components of color that describe the colorfulness, brightness, and shade of a color.
+  - YCbCr: Luminance, Blue Chrominance, and Red Chrominance are the components of color that separate the brightness and color information of a color, which is useful for compression and transmission.
+- Color image processing involves manipulating and analyzing color images for various purposes, such as enhancement, segmentation, recognition, and compression.
+- Some common techniques for color image processing are:
+  - Color space conversion: Changing the color representation of an image from one color model to another, such as from RGB to HSV.
+  - Color correction: Adjusting the color balance, contrast, and brightness of an image to improve its appearance or match a reference image.
+  - Color quantization: Reducing the number of colors in an image to a smaller set of representative colors, which can reduce the storage size and complexity of an image.
+  - Color segmentation: Partitioning an image into regions that have similar or homogeneous colors, which can facilitate object detection and recognition.
+  - Color feature extraction: Extracting meaningful information from an image based on its color characteristics, such as color histograms, color moments, and color descriptors.
+  - Color analysis: Analyzing the color usage and distribution within an image, such as detecting the dominant and accent colors, the color scheme, and the color mood.

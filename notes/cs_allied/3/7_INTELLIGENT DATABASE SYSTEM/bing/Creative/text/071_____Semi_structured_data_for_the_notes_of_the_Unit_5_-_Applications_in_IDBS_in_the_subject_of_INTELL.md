@@ -1,0 +1,23 @@
+### Semi-structured data
+
+- Semi-structured data is a form of structured data that does not obey the tabular structure of data models associated with relational databases or other forms of data tables   .
+- Semi-structured data contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data   .
+- Semi-structured data is often qualitative, or textual, and can include data that has an organizational structure understandable to both machines and humans.
+- Examples of semi-structured data are email, HTML, XML, JSON, online images and videos, social media posts, web logs, etc .
+- Benefits of semi-structured data are:
+  - It can capture more complex and diverse data than structured data .
+  - It can be more flexible and adaptable to changes than structured data .
+  - It can be easier to query and analyze than unstructured data .
+  - It can be integrated with structured data to enrich the data quality and insights .
+- Challenges of semi-structured data are:
+  - It can be more difficult to store and manage than structured data .
+  - It can require more processing and transformation to extract useful information than structured data .
+  - It can have inconsistent or ambiguous formats and semantics than structured data .
+  - It can have lower data quality and reliability than structured data .
+- Applications of semi-structured data in IDBS are:
+  - Web data mining: extracting and analyzing data from web sources, such as HTML, XML, JSON, etc .
+  - Text analytics: extracting and analyzing data from textual sources, such as email, social media posts, web logs, etc .
+  - Multimedia analytics: extracting and analyzing data from image and video sources, such as online images and videos, etc .
+  - Data integration: combining and reconciling data from different sources, such as structured and semi-structured data, etc .
+  - Data warehousing: storing and organizing data from different sources, such as structured and semi-structured data, etc .
+  - Data visualization: presenting and exploring data from different sources, such as structured and semi-structured data, etc .

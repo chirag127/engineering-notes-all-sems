@@ -1,0 +1,8 @@
+### Internet spiders
+
+- Internet spiders, also known as web crawlers, web spiders, or bots, are programs that systematically browse the World Wide Web and collect information from web pages.
+- Internet spiders can be used for various purposes, such as indexing web pages for search engines, archiving web content, analyzing web usage, extracting data, testing web performance, and detecting web vulnerabilities.
+- Internet spiders typically follow the hyperlinks on web pages to navigate from one page to another, and use a set of rules or policies to determine which pages to visit, how often to revisit them, and how to store or process the information they collect.
+- Internet spiders can be classified into two types: generic and focused. Generic spiders aim to cover as many web pages as possible, regardless of their content or domain. Focused spiders target a specific subset of web pages that are relevant to a given topic, query, or task.
+- Internet spiders can also be categorized based on their behavior: polite or impolite. Polite spiders respect the rules and preferences of web servers and webmasters, such as the robots.txt file, the robots meta tag, and the crawl-delay directive. Impolite spiders ignore or violate these rules and may cause excessive load or damage to web servers.
+- Internet spiders face several challenges and limitations, such as the dynamic and heterogeneous nature of the web, the scalability and efficiency of crawling, the quality and relevance of the collected information, the ethical and legal issues of web scraping, and the detection and evasion of anti-crawling techniques.

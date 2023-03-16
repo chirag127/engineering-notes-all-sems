@@ -1,0 +1,23 @@
+### Temporal Data Models
+
+- Temporal data models are data models that capture the changes of data over time, as well as the time references that indicate when the data are valid or recorded.
+- Temporal data models exist at three abstraction levels:
+  - The conceptual level, in which the data models are generally extensions of the Entity-Relationship Model (ERM).
+  - The logical level, in which the data models are generally extensions of the relational data model or of an object-oriented data model.
+  - The physical level, in which the data model details how the data are to be stored.
+- Temporal data models can be classified according to the type of time they capture :
+  - Valid time: the time when the data are true in the real world.
+  - Transaction time: the time when the data are recorded in the database.
+  - Decision time: the time when the data are used for decision making.
+- Temporal data models can also be classified according to the number of time dimensions they capture:
+  - Uni-temporal: only one type of time is captured (either valid time or transaction time).
+  - Bi-temporal: both valid time and transaction time are captured.
+  - Tri-temporal: valid time, transaction time and decision time are captured.
+- Temporal data models have several advantages over conventional data models:
+  - They can support historical queries and analysis, such as finding the state of the data at a given point in time or tracking the changes of the data over time.
+  - They can support temporal integrity constraints, such as ensuring that the valid time of a fact does not overlap with the valid time of another contradictory fact.
+  - They can support temporal reasoning, such as inferring the temporal relationships between facts or events based on their time references.
+- Temporal data models also have some challenges and limitations:
+  - They require more storage space and processing time than conventional data models, as they need to store and manipulate multiple time references for each data item.
+  - They require more complex query languages and operators to express temporal queries and operations, such as temporal selection, projection, join, aggregation, etc.
+  - They require more careful design and implementation to avoid temporal anomalies and inconsistencies, such as gaps, overlaps, duplicates, or conflicts in the temporal data.

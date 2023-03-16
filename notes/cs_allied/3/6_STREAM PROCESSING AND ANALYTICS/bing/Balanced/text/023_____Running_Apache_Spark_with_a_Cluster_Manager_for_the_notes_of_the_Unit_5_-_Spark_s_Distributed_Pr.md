@@ -1,0 +1,15 @@
+### Running Apache Spark with a Cluster Manager
+
+- Apache Spark is a distributed processing framework that can run on different types of cluster managers, such as Standalone, YARN, Mesos, and Kubernetes.
+- A cluster manager is a platform that provides resources to the Spark driver and executor processes, such as CPU, memory, disk, and network.
+- The Spark driver program communicates with the cluster manager to request resources for launching Spark tasks on the cluster nodes.
+- The cluster manager allocates the resources to the Spark application and starts the executor processes on the worker nodes.
+- The Spark driver program then sends the application code and the tasks to the executor processes, which run them in parallel and return the results to the driver.
+- The cluster manager also monitors the health and status of the Spark application and the cluster nodes, and can restart failed tasks or nodes if needed.
+- The choice of the cluster manager depends on the availability, compatibility, and performance of the Spark application and the cluster environment.
+- The following are some of the features and differences of the four cluster managers supported by Spark:
+
+  - Standalone: This is the simplest and easiest cluster manager to set up and run on Spark. It is built-in Spark and does not require any external dependencies. It can run on Linux, Mac, or Windows, and can access data from local file system, HDFS, or any other storage system supported by Spark . However, it does not support advanced features such as dynamic resource allocation, security, or high availability.
+  - YARN: This is the resource manager in Hadoop 2 and 3, and can integrate Spark with other Hadoop components such as MapReduce, Hive, and HBase. It supports dynamic resource allocation, security, and high availability, and can run Spark applications on existing Hadoop clusters without any changes . However, it requires installing and configuring Hadoop and YARN, and may have some performance overhead due to the extra layer of scheduling and resource management.
+  - Mesos: This is a general cluster manager that can run various types of applications, such as Hadoop, Spark, and other services. It supports fine-grained resource allocation, which allows Spark to share resources with other frameworks on the same cluster. It also supports dynamic resource allocation, security, and high availability . However, it is deprecated in Spark 3.0 and will be removed in future versions. It also requires installing and configuring Mesos and its dependencies, and may have some compatibility issues with some Spark features or libraries.
+  - Kubernetes: This is an open-source system for automating deployment, scaling, and management of containerized applications. It supports running Spark applications in Docker containers, which can provide isolation, portability, and consistency. It also supports dynamic resource allocation, security, and high availability . However, it requires installing and configuring Kubernetes and its components, and may have some challenges in accessing data from external sources or managing dependencies.

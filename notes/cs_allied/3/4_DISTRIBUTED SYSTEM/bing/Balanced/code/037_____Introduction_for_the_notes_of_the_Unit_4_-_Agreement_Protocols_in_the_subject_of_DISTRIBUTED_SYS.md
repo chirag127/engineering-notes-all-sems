@@ -1,0 +1,21 @@
+### Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement protocols are a class of protocols that enable a set of processes to reach a common decision or consensus in a distributed system.
+- Agreement protocols are essential for ensuring the consistency, reliability, and fault-tolerance of distributed systems, especially in the presence of failures or malicious behavior.
+- Agreement protocols can be classified into different types based on the problem they solve, such as:
+  - Consensus: All processes agree on a single value from a set of proposed values.
+  - Atomic commit: All processes agree on whether to commit or abort a transaction.
+  - Byzantine agreement: All processes agree on a single value from a set of proposed values, even if some processes are faulty or malicious.
+  - Leader election: All processes agree on a single process to act as the leader or coordinator.
+  - Mutual exclusion: All processes agree on which process can access a shared resource exclusively.
+- Agreement protocols can also be classified based on the assumptions they make about the system, such as:
+  - Synchronous vs asynchronous: Whether the system has bounded or unbounded delays in message delivery and process execution.
+  - Crash vs Byzantine: Whether the system can tolerate only crash failures or also arbitrary failures.
+  - Authenticated vs unauthenticated: Whether the system can verify the identity and integrity of the messages and processes.
+  - Deterministic vs randomized: Whether the system can guarantee the termination and correctness of the protocol or only with some probability.
+- Agreement protocols are often based on the following techniques or primitives:
+  - Broadcast: A process sends a message to all other processes in the system.
+  - Multicast: A process sends a message to a subset of processes in the system.
+  - Quorum: A process collects responses from a majority or a subset of processes in the system.
+  - Round: A process executes a sequence of steps or messages in a logical order.
+  - Voting: A process chooses a value based on the preferences or opinions of other processes in the system.

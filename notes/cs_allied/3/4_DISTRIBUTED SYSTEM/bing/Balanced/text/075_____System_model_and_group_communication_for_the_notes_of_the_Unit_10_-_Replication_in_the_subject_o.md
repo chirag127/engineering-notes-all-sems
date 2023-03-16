@@ -1,0 +1,12 @@
+### System model and group communication for replication in distributed systems
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by passing messages.
+- Replication is a technique to improve the availability, performance, and fault tolerance of a distributed system by creating and maintaining multiple copies of data or services across different processes or nodes.
+- A system model is a set of assumptions and properties that describe the behavior and characteristics of a distributed system, such as the communication model, the failure model, the timing model, and the security model.
+- A group is a subset of processes in a distributed system that share some common interest or functionality, such as maintaining a replicated service or data item.
+- Group communication is a mechanism for sending messages from one process to a group of processes in a reliable, ordered, and efficient way.
+- Group communication can be classified into two types: broadcast communication and multicast communication.
+- Broadcast communication is when a process sends a message to all other processes in the system, regardless of their group membership or interest. Broadcast communication can be used for disseminating information, discovering resources, or electing leaders in a distributed system.
+- Multicast communication is when a process sends a message to a subset of processes in the system, based on their group membership or interest. Multicast communication can be used for implementing replicated services, synchronizing clocks, or coordinating transactions in a distributed system.
+- Group communication can be implemented using various protocols and algorithms, such as reliable broadcast, causal broadcast, atomic broadcast, reliable multicast, causal multicast, and atomic multicast. These protocols and algorithms differ in their guarantees and properties, such as reliability, ordering, atomicity, and causality.
+- Group communication can also be supported by various middleware and infrastructures, such as publish-subscribe systems, message brokers, message queues, group communication toolkits, and overlay networks. These middleware and infrastructures provide different levels of abstraction, functionality, and scalability for group communication in distributed systems.

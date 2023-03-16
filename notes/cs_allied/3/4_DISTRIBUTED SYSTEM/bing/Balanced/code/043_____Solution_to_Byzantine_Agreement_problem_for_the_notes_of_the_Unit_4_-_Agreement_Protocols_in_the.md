@@ -1,0 +1,15 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The Byzantine Agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem is also known as the Byzantine Generals problem, which is a metaphor for a scenario where several divisions of the Byzantine army are camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- The problem is challenging because some of the generals may be traitors who try to prevent the loyal generals from reaching an agreement or make them adopt a bad plan. The traitors may also collude with each other or send conflicting messages to different generals.
+- The solution to the problem relies on an algorithm that can guarantee that: 1) All loyal generals decide upon the same plan of action, and 2) A small number of traitors cannot cause the loyal generals to adopt a bad plan.
+- One of the most well-known solutions to the problem is the Oral Message algorithm proposed by Lamport et al. in 1982. The algorithm assumes that the messages are authenticated and reliable, and that the generals have a common knowledge of the total number of generals and the maximum number of traitors.
+- The algorithm works as follows: 
+  - Each general sends his initial value to every other general.
+  - For each round, each general acts as a commander and sends an order (the value he received from the source general) to every other general, who act as lieutenants. The lieutenants then send the order they received to every other lieutenant, except the commander. This process is repeated for m rounds, where m is the maximum number of traitors.
+  - After m rounds, each lieutenant constructs a matrix of values he received from each commander and each lieutenant. He then applies a majority function to each row of the matrix to obtain a vector of values. He then applies the majority function to the vector to obtain the final value.
+- The algorithm can tolerate up to m traitors, where m < n/3, where n is the total number of generals. The algorithm requires O(n^2) messages and O(m) rounds of communication.
+- The algorithm can be extended to handle the case where the messages are not authenticated, by using digital signatures or message authentication codes. However, this introduces additional complexity and overhead.
+- The algorithm can also be extended to handle the case where the messages are not reliable, by using timeouts, acknowledgments, and retransmissions. However, this may introduce additional delays and inconsistencies.
+- The Byzantine Agreement problem is relevant for many applications in distributed systems, such as consensus protocols, fault-tolerant replication, distributed databases, distributed ledgers, and blockchain  .

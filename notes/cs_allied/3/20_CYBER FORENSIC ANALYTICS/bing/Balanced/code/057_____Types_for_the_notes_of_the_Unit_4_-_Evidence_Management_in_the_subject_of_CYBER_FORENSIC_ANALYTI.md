@@ -1,0 +1,14 @@
+# Types of Evidence in Cyber Forensics
+
+- Evidence management is the process of collecting, preserving, analyzing and presenting digital evidence in a way that is legally admissible and forensically sound.
+- There are different types of evidence in cyber forensics, depending on the source, format, location and volatility of the data.
+- Some of the common types of evidence in cyber forensics are:
+
+  - **Logs**: These are records of events or activities that occur on a system, network or application. Logs can provide information about the actions, identities, locations and timestamps of the users or devices involved. Examples of logs are operating system logs, web server logs, firewall logs, network traffic logs, etc.
+  - **Video footage and images**: These are visual data that can capture the appearance, behavior, location and context of the subjects or objects of interest. Video footage and images can be obtained from cameras, smartphones, drones, CCTV, etc. They can also be enhanced, edited or manipulated using digital tools.
+  - **Archives**: These are collections of files or data that are compressed, encrypted or organized in a specific format. Archives can store large amounts of data in a smaller space and protect them from unauthorized access or modification. Examples of archives are ZIP, RAR, TAR, ISO, etc.
+  - **Active data**: These are data that are readily accessible and visible to the user or the system. Active data are usually stored in the primary storage devices, such as hard disks, flash drives, memory cards, etc. They can be easily retrieved, copied or deleted using normal commands or tools.
+  - **Metadata**: These are data that describe or provide information about other data. Metadata can reveal the properties, characteristics, origin, history and context of the data. Examples of metadata are file names, extensions, sizes, dates, locations, authors, etc.
+  - **Residual data**: These are data that are not visible or accessible to the user or the system, but remain in the storage devices after being deleted, overwritten or corrupted. Residual data can be recovered using special techniques or tools, such as data carving, file recovery, etc. Examples of residual data are deleted files, file fragments, slack space, etc.
+  - **Volatile data**: These are data that are stored in the temporary or secondary storage devices, such as RAM, cache, registers, etc. Volatile data are only available when the system is powered on and can be lost or changed when the system is powered off or rebooted. Examples of volatile data are running processes, network connections, open files, etc.
+  - **Replicant data**: These are data that are copied or duplicated from the original source to another location or device. Replicant data can be created for backup, synchronization, replication or distribution purposes. Examples of replicant data are cloud storage, email attachments, external drives, etc.

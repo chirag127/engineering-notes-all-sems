@@ -1,0 +1,26 @@
+# KOT 554 INTERNET OF THINGS LAB KCS
+
+- KOT 554 is a course code for Internet of Things Lab offered by KCS Technologies Inc., a company that provides IoT solutions and services.
+- Internet of Things (IoT) is a term that describes the network of physical objects that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet.
+- The main objectives of the course are to:
+  - Teach the students the fundamental concepts of IoT, such as embedded systems, connectivity, cloud computing, and security.
+  - Provide the students with practical experience in creating smartphone apps and controlling a wearable device using the Arm Mbed platform and Android SDK.
+  - Develop the students' skills in designing, implementing, and testing IoT applications for various domains and scenarios.
+- The course consists of the following modules:
+  - Module 1: Introduction to IoT and Embedded Systems
+    - This module covers the basics of IoT, such as its definition, characteristics, applications, and challenges. It also introduces the concepts of embedded systems, such as microcontrollers, sensors, actuators, and communication protocols.
+  - Module 2: IoT Connectivity and Cloud Services
+    - This module covers the various methods of connecting IoT devices to the internet, such as Wi-Fi, Bluetooth, cellular, and LoRaWAN. It also covers the use of cloud services, such as AWS IoT, Google Cloud IoT, and Azure IoT, to store, process, and analyze the data from IoT devices.
+  - Module 3: IoT Security and Privacy
+    - This module covers the security and privacy issues and risks associated with IoT, such as authentication, encryption, access control, and data protection. It also covers the best practices and standards for securing IoT devices and systems, such as TLS, MQTT, and CoAP.
+  - Module 4: IoT Application Development
+    - This module covers the steps and tools for developing IoT applications, such as selecting the hardware and software platforms, designing the user interface, coding the logic, and testing the functionality. It also covers the use of the Arm Mbed platform and Android SDK to create smartphone apps and control a wearable device.
+- The course requires the students to complete the following assignments and projects:
+  - Assignment 1: IoT Device Configuration and Testing
+    - This assignment requires the students to configure and test an IoT device, such as a Raspberry Pi or an Arduino, using the Arm Mbed platform and a web browser. The students need to connect the device to the internet, upload a program, and monitor the device status and data.
+  - Assignment 2: IoT Cloud Service Integration and Visualization
+    - This assignment requires the students to integrate and visualize the data from an IoT device using a cloud service, such as AWS IoT, Google Cloud IoT, or Azure IoT. The students need to create an account, register the device, and create a dashboard to display the data.
+  - Assignment 3: IoT Security and Privacy Assessment and Implementation
+    - This assignment requires the students to assess and implement the security and privacy measures for an IoT device and system, such as authentication, encryption, access control, and data protection. The students need to identify the threats and vulnerabilities, select the appropriate solutions, and apply them to the device and system.
+  - Project: IoT Application Development and Demonstration
+    - This project requires the students to develop and demonstrate an IoT application for a specific domain and scenario, such as smart home, smart city, smart health, or smart agriculture. The students need to select the hardware and software platforms, design the user interface, code the logic, and test the functionality. The students also need to use the Arm Mbed platform and Android SDK to create a smartphone app and control a wearable device. The students need to present their project to the instructor and peers.

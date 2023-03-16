@@ -1,0 +1,10 @@
+### Other projects based on a 'conceptual representation' approach
+
+- Conceptual representation is a technique for representing knowledge in a structured and meaningful way, using concepts and their relationships as the basic units of information.
+- Conceptual representation can be used for building knowledge-based systems, which are systems that use explicit and formal knowledge to perform tasks that require human expertise or intelligence.
+- Some examples of projects that use conceptual representation for knowledge-based systems are:
+
+  - **Conceptual graphs**: A graphical notation for representing knowledge as a network of nodes and links, where nodes represent concepts and links represent relations between concepts. Conceptual graphs can be used for natural language understanding, reasoning, and knowledge acquisition .
+  - **Frames**: A data structure for representing knowledge as a collection of attributes and values, where each attribute represents a feature or property of a concept, and each value represents a possible instantiation or specification of that attribute. Frames can be used for modeling complex and dynamic domains, such as planning, diagnosis, and learning .
+  - **Logic**: A formal language for representing knowledge as a set of statements or propositions, where each statement expresses a fact or a rule about the domain. Logic can be used for deductive and inductive reasoning, as well as for querying and updating knowledge bases .
+  - **Term-rewriting systems**: A computational model for representing knowledge as a set of symbols and rules, where each symbol represents a concept or an expression, and each rule specifies how to transform one symbol into another. Term-rewriting systems can be used for symbolic manipulation, algebraic computation, and program synthesis .

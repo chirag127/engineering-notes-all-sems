@@ -1,0 +1,11 @@
+### Query languages and query processing for semantic data models
+
+- A query language is a formal language that allows users to retrieve and manipulate data from a database or a data source.
+- A query processing is the process of translating a query from a high-level language to a low-level language that can be executed by the database system, and optimizing the query execution plan to minimize the cost and time.
+- A semantic data model is a data model that captures the meaning and relationships of the data, rather than the structure and format. Semantic data models are often based on graphs, linked data, or triples, which enable the query to process the actual relationships between information and infer the answers from the network of data.
+- Some examples of query languages and query processing for semantic data models are:
+
+  - SPARQL: A standard query language for RDF (Resource Description Framework), a data model that uses triples to represent data as subject-predicate-object statements. SPARQL allows users to query and update RDF data sources, and supports various features such as graph patterns, filters, aggregations, subqueries, and federated queries.
+  - CQL: A query language for continuous data streams, which are unbounded sequences of data items that arrive over time. CQL uses SQL as the relational query language and window specifications to map from streams to relations, and supports various operators such as selection, projection, join, union, and aggregation.
+  - Datalog: A logic programming language that uses facts and rules to represent data and queries. Datalog is based on the concept of deductive databases, which use logic inference to derive new facts from existing facts and rules. Datalog can express recursive queries and complex constraints, and can be used to query graph data models.
+  - Natural language query: A query language that uses natural language (such as English) to express the user's information need. Natural language query can be translated to a formal query language (such as SQL or SPARQL) using a semantic parser, which maps the natural language query to a logical form that can be executed by the database system.

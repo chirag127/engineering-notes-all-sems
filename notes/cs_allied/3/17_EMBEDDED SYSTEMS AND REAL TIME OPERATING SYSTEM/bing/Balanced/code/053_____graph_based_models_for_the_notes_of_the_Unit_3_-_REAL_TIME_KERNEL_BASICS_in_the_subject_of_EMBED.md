@@ -1,0 +1,14 @@
+# Graph Based Models for Embedded Systems
+
+- Graph based models are a way of representing the structure and behavior of embedded systems using nodes and edges.
+- Nodes can represent components, variables, states, events, or functions of the system, while edges can represent connections, dependencies, transitions, or interactions between nodes.
+- Graph based models can be used to analyze, simulate, prototype, specify, and deploy software algorithms within a variety of embedded systems and applications, which is closer to real-world implementation .
+- Graph based models can also be used to generate graph embeddings, which are low-dimensional vector representations of the nodes that capture their semantic and structural features.
+- Graph embeddings can be used for tasks such as similarity search, recommendation, clustering, classification, or anomaly detection on graph data.
+- Graph based models can be classified into different types based on the nature and complexity of the graphs, such as bipartite graphs, general graphs, or knowledge graphs.
+- Bipartite graphs are graphs that have two sets of nodes, such that no two nodes within the same set are connected by an edge. For example, a user-item graph in a recommender system is a bipartite graph, where one set of nodes represents users and the other set represents items.
+- General graphs are graphs that can have any number of nodes and edges, and can be directed or undirected, weighted or unweighted, cyclic or acyclic. For example, a social network graph is a general graph, where nodes represent users and edges represent friendships, likes, comments, or other interactions.
+- Knowledge graphs are graphs that represent structured and semantic information about entities and their relationships, using nodes and edges with labels and attributes. For example, a knowledge graph of movies can have nodes for actors, directors, genres, and movies, and edges for roles, awards, ratings, or reviews.
+- Graph based models can be created and manipulated using graphical modeling environments, such as MATLAB/Simulink, Stateflow, or LabVIEW, which provide block diagrams and state machines as graphical elements.
+- Graph based models can also be created and manipulated using graph databases, such as Neo4j, TigerGraph, or Amazon Neptune, which provide query languages and APIs for storing and accessing graph data.
+- Graph based models can benefit from graph theory and dynamic visualization techniques, which can help understand the properties, patterns, and behaviors of the system, such as connectivity, centrality, modularity, stability, or resilience.

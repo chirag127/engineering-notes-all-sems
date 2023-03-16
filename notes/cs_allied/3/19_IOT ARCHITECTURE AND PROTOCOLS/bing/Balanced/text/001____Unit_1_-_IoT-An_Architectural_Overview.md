@@ -1,0 +1,10 @@
+## Unit 1 - IoT-An Architectural Overview
+
+- IoT stands for Internet of Things, which is a network of physical devices, sensors, actuators, and software that can collect, process, and exchange data over the internet.
+- IoT enables various applications and services that can improve the quality of life, efficiency, productivity, and sustainability of different domains, such as smart cities, smart homes, smart health, smart agriculture, smart industry, etc.
+- IoT architecture is a conceptual framework that defines the components, layers, interfaces, and protocols of an IoT system, and how they interact and communicate with each other.
+- IoT architecture can be divided into four main layers: perception layer, network layer, service layer, and application layer.
+- Perception layer: This layer consists of the physical devices, sensors, and actuators that can sense, measure, and control the physical world. This layer is responsible for data acquisition, preprocessing, and transmission.
+- Network layer: This layer provides the connectivity and communication between the perception layer and the service layer. This layer can use various wired or wireless technologies, such as Wi-Fi, Bluetooth, ZigBee, cellular, LoRaWAN, etc. This layer is responsible for data routing, forwarding, and security.
+- Service layer: This layer provides the data storage, processing, and analysis capabilities for the IoT system. This layer can use various cloud computing, edge computing, or fog computing platforms, such as AWS, Azure, Google Cloud, etc. This layer is responsible for data management, processing, and analytics.
+- Application layer: This layer provides the end-user interfaces and applications that can utilize the data and services provided by the service layer. This layer can use various web, mobile, or desktop applications, such as dashboards, alerts, notifications, etc. This layer is responsible for data visualization, interaction, and decision making.

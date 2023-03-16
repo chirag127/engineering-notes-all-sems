@@ -1,0 +1,23 @@
+# Micro and Macro Scale Implementations for the Notes of the Unit 3 - Electromagnetic Energy Harvesting and Non-Linear Techniques
+
+Electromagnetic energy harvesting (EMEH) is a technique that converts ambient mechanical vibrations into electrical energy using electromagnetic induction. EMEH devices consist of a coil and a magnet that move relative to each other and generate an electromotive force (EMF) in the coil. EMEH devices can be used to power wireless sensor nodes, wearable devices, biomedical implants and other low-power applications.
+
+## Micro Scale Implementations
+
+Micro scale EMEH devices are typically fabricated using microelectromechanical systems (MEMS) technology and have dimensions in the order of micrometers. Micro scale EMEH devices can harvest energy from vibrations with frequencies ranging from a few Hz to a few kHz and amplitudes from a few μm to a few mm. Micro scale EMEH devices can achieve power densities of up to 8 mW/cm^3^ .
+
+Some examples of micro scale EMEH devices are:
+
+- Cantilever-based EMEH devices: These devices consist of a cantilever beam with a coil attached to one end and a magnet attached to the other end. The cantilever beam is excited by external vibrations and the relative motion between the coil and the magnet induces an EMF in the coil. The cantilever beam can be designed to have a resonant frequency that matches the vibration frequency for maximum power output. The coil can be wound on the beam or embedded in the beam using MEMS techniques.
+- Bridge-based EMEH devices: These devices consist of a bridge structure with a coil attached to the center and two magnets attached to the opposite ends. The bridge structure is excited by external vibrations and the relative motion between the coil and the magnets induces an EMF in the coil. The bridge structure can be designed to have a resonant frequency that matches the vibration frequency for maximum power output. The coil can be wound on the bridge or embedded in the bridge using MEMS techniques.
+- Magnetic levitation-based EMEH devices: These devices consist of a magnet that is levitated by another magnet or an electromagnet and a coil that surrounds the levitated magnet. The levitated magnet is excited by external vibrations and the relative motion between the magnet and the coil induces an EMF in the coil. The magnetic levitation can provide a low-friction and low-damping environment for the magnet and enhance the power output. The coil can be wound on a substrate or embedded in a substrate using MEMS techniques.
+
+## Macro Scale Implementations
+
+Macro scale EMEH devices are typically fabricated using conventional machining and assembly techniques and have dimensions in the order of centimeters or meters. Macro scale EMEH devices can harvest energy from vibrations with frequencies ranging from a few Hz to a few hundred Hz and amplitudes from a few mm to a few cm. Macro scale EMEH devices can achieve power outputs of up to several watts .
+
+Some examples of macro scale EMEH devices are:
+
+- Spring-mass-damper EMEH devices: These devices consist of a spring, a mass and a damper that form a mechanical oscillator and a coil and a magnet that form an electromagnetic transducer. The spring-mass-damper system is excited by external vibrations and the relative motion between the coil and the magnet induces an EMF in the coil. The spring-mass-damper system can be designed to have a resonant frequency that matches the vibration frequency for maximum power output. The coil and the magnet can be attached to the mass or the spring or both.
+- Nonlinear EMEH devices: These devices consist of a magnet that moves in a tube surrounded by a coil and two fixed magnets at the ends of the tube. The magnet is excited by external vibrations and the relative motion between the magnet and the coil induces an EMF in the coil. The fixed magnets create a nonlinear magnetic force on the moving magnet and enhance the power output. The nonlinear EMEH devices can harvest energy from a wide range of vibration frequencies and amplitudes  .
+- Rotational EMEH devices: These devices consist of a rotor that rotates due to external vibrations and a stator that contains a coil and a magnet. The relative motion between the rotor and the stator induces an EMF in the coil. The rotational EMEH devices can harvest energy from rotational vibrations or from linear vibrations using a mechanism that converts linear motion to rotational motion. The rotor and the stator can be designed to have a resonant frequency that matches the vibration

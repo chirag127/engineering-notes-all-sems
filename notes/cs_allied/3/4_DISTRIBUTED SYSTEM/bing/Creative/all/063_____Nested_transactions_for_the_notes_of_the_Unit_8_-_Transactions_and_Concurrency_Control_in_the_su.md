@@ -1,0 +1,23 @@
+# Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a unit of work that accesses and possibly modifies data in a database or a distributed system.
+- A transaction has the properties of atomicity, consistency, isolation, and durability (ACID).
+- A nested transaction is a transaction that is composed of subtransactions, each of which may have its own begin and end points, and may be executed concurrently or sequentially.
+- A nested transaction has the following advantages:
+  - It allows for partial rollback and recovery of subtransactions without affecting the whole transaction.
+  - It enables concurrency control and deadlock detection at different levels of granularity.
+  - It facilitates modular design and implementation of complex transactions.
+  - It supports distributed transactions that span multiple servers or systems.
+- A nested transaction has the following challenges:
+  - It requires a mechanism to coordinate the commit or abort of subtransactions and the parent transaction.
+  - It may introduce additional overhead and complexity in maintaining the consistency and serializability of transactions.
+  - It may increase the risk of cascading aborts or inconsistent states if subtransactions are not properly isolated or synchronized.
+- A nested transaction can be structured in two different ways:
+  - Flat transactions: A flat transaction has a single begin and end point, and may access data from multiple servers or systems. It is usually simple and suitable for short activities.
+  - Nested transactions: A nested transaction has a hierarchical structure of subtransactions, each of which may have its own begin and end point, and may access data from different servers or systems. It is usually complex and suitable for long or composite activities.
+- A nested transaction can be implemented using different protocols, such as:
+  - Two-phase commit (2PC): A protocol that ensures atomicity of a distributed transaction by coordinating the commit or abort decision among all the servers or systems involved in the transaction. It consists of two phases: prepare and commit/abort.
+  - Presumed abort (PA): A protocol that optimizes 2PC by reducing the number of messages and log entries required for commit or abort. It assumes that a transaction will abort unless it receives a commit request from the coordinator.
+  - Presumed commit (PC): A protocol that optimizes 2PC by reducing the number of messages and log entries required for commit or abort. It assumes that a transaction will commit unless it receives an abort request from the coordinator or a participant.
+  - Nested two-phase commit (N2PC): A protocol that extends 2PC to support nested transactions by allowing subtransactions to prepare and commit/abort independently, and propagating the final decision to the parent transaction.
+  - Saga: A protocol that implements a long-running transaction as a sequence of subtransactions, each of which can be committed or compensated (undone) independently. It ensures eventual consistency of the transaction by applying compensating actions in case of failures or aborts.

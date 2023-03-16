@@ -1,0 +1,11 @@
+### Fuzzy sets and Crisp sets
+
+- Fuzzy sets and Crisp sets are two different set theories that deal with the representation of uncertainty and vagueness in data and information.
+- A **crisp set** is a set that has a clear and precise boundary, and every element in the universe of discourse either belongs or does not belong to the set. A crisp set uses the bi-valued logic of true or false, 1 or 0, to assign the membership of elements to the set. For example, the set of even numbers is a crisp set, as every number is either even or not, and there is no ambiguity or partiality involved.
+- A **fuzzy set** is a set that has an indeterminate and gradual boundary, and every element in the universe of discourse has a degree of membership to the set that ranges from 0 to 1. A fuzzy set uses the infinite-valued logic of possibility or probability, to assign the membership of elements to the set. For example, the set of tall people is a fuzzy set, as every person has a different height and there is no clear-cut criterion to define who is tall and who is not, and there may be some people who are partially tall or moderately tall.
+- Some main differences between fuzzy sets and crisp sets are:
+
+  - Fuzzy sets are defined by their membership functions, which assign a degree of membership to each element in the universe of discourse, while crisp sets are defined by their indicator functions, which assign a binary value of membership to each element in the universe of discourse.
+  - Fuzzy sets allow for partial and gradual membership of elements to the set, while crisp sets only allow for full and discrete membership of elements to the set.
+  - Fuzzy sets can handle uncertainty, ambiguity, and imprecision in data and information, while crisp sets can only handle certainty, clarity, and precision in data and information.
+  - Fuzzy sets can model complex and subjective concepts and phenomena, such as natural language, human perception, and decision making, while crisp sets can only model simple and objective concepts and phenomena, such as mathematics, logic, and computation.

@@ -1,0 +1,24 @@
+### Ontology theoretical foundations
+
+- Ontology is the philosophical study of being, as well as related concepts such as existence, becoming, and reality.
+- Ontology addresses questions like how entities are grouped into categories and which of these entities exist on the most fundamental level.
+- Ontology is also a branch of knowledge engineering, artificial intelligence and computer science, where it is used to represent and reason about the concepts and relations in a domain of interest.
+- Ontology can be used for knowledge management, natural language processing, e-commerce, intelligent information integration, information retrieval, and more.
+- Ontology can be developed in a top-down or bottom-up approach, depending on the level of generality and specificity required.
+- At the highest level of generality, there are the foundational ontologies, which span across many fields and model the very basic and general concepts and relations that make up the world, such as object, event, parthood relation, etc.  .
+- Foundational ontologies provide a high-level categorization about the kinds of things that will be represented in the ontology, such as process and physical object, relations that are useful across subject domains, such as participation and parthood, and how to represent attributes in a particular subject domain, such as color and height.
+- Foundational ontologies can be used as a common reference for domain ontologies, which are more specific and focused on a particular field or application.
+- Some examples of foundational ontologies are DOLCE, BFO, SUMO, GFO, etc.  .
+- The choice of a foundational ontology depends on the ontological commitments, the intended use, and the compatibility with other ontologies.
+- The development and evaluation of ontologies require a rigorous and systematic methodology, which involves the following steps: specification, conceptualization, formalization, implementation, and maintenance.
+- The specification phase defines the purpose, scope, and requirements of the ontology.
+- The conceptualization phase constructs a conceptual model of the domain, using natural language, diagrams, or other informal representations.
+- The formalization phase translates the conceptual model into a formal language, such as OWL, RDF, or F-Logic.
+- The implementation phase encodes the formal ontology in a software system, such as Protégé, OntoEdit, or KAON.
+- The maintenance phase updates and revises the ontology according to the changes in the domain or the user feedback.
+- The evaluation of ontologies can be done using different criteria, such as clarity, coherence, consistency, completeness, correctness, expressiveness, usability, etc. .
+- The evaluation methods can be classified into four categories: verification, validation, comparison, and application.
+- Verification checks the internal quality of the ontology, such as the syntactic and logical correctness.
+- Validation checks the external quality of the ontology, such as the correspondence with the domain and the user needs.
+- Comparison measures the similarity or difference between two or more ontologies, using metrics such as precision, recall, or F-measure.
+- Application measures the performance or impact of the ontology in a specific task or system, such as information retrieval, natural language processing, or e-commerce.

@@ -1,0 +1,10 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are a class of distributed algorithms that allow a set of processes to reach a common decision, despite the possibility of failures or malicious behavior.
+- Agreement protocols are useful for implementing fault-tolerant services, such as distributed consensus, atomic broadcast, leader election, and distributed transactions.
+- Agreement protocols can be classified into different types, depending on the assumptions they make about the system model, the communication model, the failure model, and the adversary model.
+- Some common types of agreement protocols are:
+  - **Crash fault-tolerant protocols**: These protocols assume that processes may fail by crashing, but do not behave maliciously. They typically use reliable, synchronous, or partially synchronous communication channels, and require a majority of processes to be correct.
+  - **Byzantine fault-tolerant protocols**: These protocols assume that processes may fail by behaving arbitrarily, or even colluding with other faulty processes. They typically use authenticated, asynchronous, or partially synchronous communication channels, and require at least two-thirds of processes to be correct.
+  - **Randomized protocols**: These protocols use randomization techniques, such as coin tossing or sampling, to break symmetry and achieve agreement with high probability, even in the presence of failures or adversaries. They typically use unreliable, asynchronous, or partially synchronous communication channels, and have weaker correctness guarantees than deterministic protocols.
+  - **Cryptographic protocols**: These protocols use cryptographic primitives, such as digital signatures, hash functions, or encryption, to ensure the integrity, authenticity, or confidentiality of messages, and to prevent or detect malicious behavior. They typically use unreliable, asynchronous, or partially synchronous communication channels, and have stronger security guarantees than non-cryptographic protocols.

@@ -1,0 +1,23 @@
+# Detection and Resolution of Distributed Deadlocks
+
+- A distributed deadlock is a situation where a set of processes in a distributed system are waiting for each other to release resources or send messages, and none of them can proceed.
+- Distributed deadlocks are more difficult to detect and resolve than centralized deadlocks, because there is no global knowledge of the system state and no central authority to coordinate the actions of the processes.
+- Detection and resolution of distributed deadlocks involve two main steps: 
+  - Maintenance of the wait-for graph (WFG), which is a directed graph that represents the dependencies among the processes and resources in the system.
+  - Searching of the WFG for the presence of cycles (or knots), which indicate the existence of deadlocks.
+- There are three main approaches to detect and resolve distributed deadlocks:
+  - Centralized approach: One designated node (called the coordinator) is responsible for collecting the information about the WFG from all the other nodes, and detecting and resolving the deadlocks. This approach is simple and efficient, but it has a single point of failure and a high communication overhead.
+  - Distributed approach: Each node maintains a local WFG for its own processes and resources, and exchanges messages with other nodes to detect and resolve global deadlocks. This approach is more fault-tolerant and scalable, but it has a higher complexity and a higher risk of false or phantom deadlocks.
+  - Hierarchical approach: The nodes are organized into a hierarchy of clusters, and each cluster has a local coordinator that maintains a partial WFG for its own cluster, and communicates with other coordinators to detect and resolve inter-cluster deadlocks. This approach is a compromise between the centralized and distributed approaches, and it can reduce the communication and computation costs, but it still has some drawbacks such as the need for a global deadlock detection algorithm and the possibility of false or phantom deadlocks.
+- Various resolutions of distributed deadlocks are as follows:
+  - Deadlock resolution includes the breaking of existing wait-for dependencies in the system WFG. It involves rolling back some or all of the deadlocked processes and releasing their resources to the blocked processes in the deadlock so that they may resume execution.
+  - The choice of which processes to roll back depends on several factors, such as the priority, the execution time, the number of resources, and the cost of rollback of each process.
+  - Some common strategies for deadlock resolution are:
+    - Victim selection: Choose one or more processes in the deadlock cycle as victims, and roll them back to a safe state or abort them completely.
+    - Successive rollback: Roll back the processes in the deadlock cycle one by one, starting from the youngest or the lowest priority process, until the deadlock is resolved.
+    - Global restart: Roll back all the processes in the system to their initial states, and restart them with a new order or allocation of resources.
+    - Preemption: Temporarily take away some resources from some processes in the deadlock cycle, and give them to other processes, and then return them later when the deadlock is resolved.
+- Deadlock detection and resolution algorithms must be resilient to failures, such as node crashes, message losses, or network partitions. Some techniques to achieve this are:
+  - Checkpointing and logging: Periodically save the state of each process and the WFG to a stable storage, and use the logged information to recover from failures and resume the deadlock detection and resolution.
+  - Timeout and retransmission: Use timers to detect the loss or delay of messages, and retransmit the messages if necessary.
+  - Failure detection and recovery: Use heartbeat messages or other mechanisms to detect the failure of nodes or coordinators, and use backup nodes or coordinators to take over their roles and continue the deadlock detection and resolution.

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of transactions with replicated data for the unit 10 - replication in the subject of distributed system.
+
+### Transactions with replicated data
+
+- A transaction is a logical unit of work that accesses and possibly modifies the data in a database. A transaction must satisfy the ACID properties: atomicity, consistency, isolation, and durability.
+- Data replication is the process of copying and maintaining data from a source server to other servers in a distributed system. Data replication can improve availability, performance, and fault-tolerance of the system .
+- Transactions with replicated data involve coordinating the execution and commit of transactions across multiple servers that hold copies of the same data. This can introduce challenges such as concurrency control, consistency, and recovery.
+- There are different approaches to handle transactions with replicated data, such as:
+  - Primary copy: One server is designated as the primary copy holder for each data item, and all transactions that access that data item must go through the primary server. The primary server is responsible for propagating the updates to the secondary servers. This approach simplifies concurrency control and recovery, but introduces a single point of failure and a bottleneck for each data item.
+  - Voting: Each server that holds a copy of a data item has a vote on whether to commit or abort a transaction that accesses that data item. A transaction can commit only if it receives a majority of votes from the servers involved. This approach can tolerate failures and improve availability, but requires more communication and coordination among servers.
+  - Two-phase commit: A transaction that accesses replicated data is divided into two phases: prepare and commit. In the prepare phase, the transaction coordinator asks each server involved to vote on whether to commit or abort the transaction. In the commit phase, the coordinator decides based on the votes and informs each server to either commit or abort the transaction. This approach ensures atomicity and consistency, but introduces blocking and recovery problems if the coordinator or some servers fail .

@@ -1,0 +1,14 @@
+### Concepts in Message Passing Systems for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Message passing is a technique for invoking behavior on a computer by sending a message to a process, which may be an actor or object, and relying on that process and its supporting infrastructure to then select and run some appropriate code.
+- Message passing is used in distributed systems, where communication is carried out between processes by passing messages from one process to another .
+- A message-passing system is a subsystem of a distributed operating system that provides a set of message-based interprocess communication (IPC) protocols while sheltering programmers from the complexities of sophisticated network protocols and many heterogeneous platforms.
+- Message passing systems can be classified into two categories: synchronous and asynchronous.
+  - Synchronous message passing systems require the sender and the receiver to be ready at the same time for the communication to take place. The sender blocks until the receiver acknowledges the message, and the receiver blocks until a message arrives.
+  - Asynchronous message passing systems do not require the sender and the receiver to be ready at the same time. The sender can send a message and continue its execution without waiting for the receiver's acknowledgment, and the receiver can receive a message at any time without blocking.
+- Message passing systems can also be classified into two types: direct and indirect.
+  - Direct message passing systems require the sender and the receiver to explicitly name each other in the communication. A communication link must be established between the cooperating processes before messages can be sent.
+  - Indirect message passing systems do not require the sender and the receiver to explicitly name each other in the communication. Instead, messages are sent and received through a common entity called a mailbox or a port, which acts as an intermediary between the processes.
+- Message passing systems can have different features that affect their performance and reliability, such as message ordering, message buffering, message delivery guarantees, message format, message size, message security, and message routing.
+- Message passing systems can be implemented using different methods, such as sockets, remote procedure calls (RPCs), remote method invocation (RMI), message-oriented middleware (MOM), and publish-subscribe systems.
+- Message passing systems can be used for various purposes in distributed systems, such as data transfer, synchronization, coordination, load balancing, fault tolerance, and distributed algorithms.

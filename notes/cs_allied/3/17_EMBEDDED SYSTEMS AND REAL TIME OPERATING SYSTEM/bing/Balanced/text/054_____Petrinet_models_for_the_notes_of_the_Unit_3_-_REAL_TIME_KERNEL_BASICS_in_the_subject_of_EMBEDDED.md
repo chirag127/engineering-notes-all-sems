@@ -1,0 +1,9 @@
+### Petri net models for embedded systems
+
+- A Petri net is a graphical and mathematical model that can be used to describe the dynamic behaviour of concurrent and distributed systems.
+- A Petri net consists of places, transitions, arcs, and tokens. Places represent the states or conditions of the system, transitions represent the events or actions that change the system state, arcs connect places and transitions, and tokens represent the resources or data in the system.
+- A Petri net can be used to model embedded systems by capturing the structure, functionality, timing, and communication aspects of the system.
+- There are different types of Petri nets, such as timed Petri nets, coloured Petri nets, stochastic Petri nets, and high-level Petri nets, that can be used to model different aspects of embedded systems.
+- One example of a Petri net model for embedded systems is the Interpreted Petri Nets for Embedded Systems (IPNES) proposed by . IPNES is a Petri net extension that allows describing both single-module and distributed systems that require process synchronization and data exchange.
+- IPNES introduces the concepts of interpretation, communication, and synchronization to the classical Petri net model. Interpretation defines the meaning and behaviour of each transition in the system, communication allows transitions to send and receive messages, and synchronization allows transitions to wait for each other before firing.
+- IPNES can be used to model embedded systems at different levels of abstraction, from the system level to the code level, and can be verified using formal methods.

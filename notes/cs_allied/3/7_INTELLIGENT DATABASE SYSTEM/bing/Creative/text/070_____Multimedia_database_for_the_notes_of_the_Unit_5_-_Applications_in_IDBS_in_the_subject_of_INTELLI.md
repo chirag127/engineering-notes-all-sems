@@ -1,0 +1,26 @@
+### Multimedia database
+
+- A multimedia database (MMDB) is a collection of related multimedia data that includes one or more primary media data types such as text, images, graphic objects, audio, video, and animation .
+- Multimedia data are broadly categorized into three classes:
+  - Static media (time-independent): image and graphic object
+  - Dynamic media (time-dependent): audio, video, and animation
+  - Dimensional media: virtual reality and holograms
+- Multimedia databases should address the following requirements:
+  - Integration: data items do not need to be duplicated for different programs or applications
+  - Data independence: separate the database structure and content from the programs that access it
+  - Consistency: ensure that the data items are valid and accurate
+  - Security: protect the data items from unauthorized access or modification
+  - Backup and recovery: provide mechanisms to restore the data items in case of failure or damage
+  - Querying: allow users to retrieve and manipulate the data items based on their content and properties
+- Multimedia databases face some challenges that are different from traditional databases, such as :
+  - Large data size: multimedia data require more storage space and bandwidth than alphanumeric data
+  - Complex data types: multimedia data have diverse formats, structures, and semantics that are difficult to represent and manipulate
+  - Content-based retrieval: multimedia data need to be searched and retrieved based on their content rather than their identifiers or keywords
+  - Temporal and spatial relationships: multimedia data have temporal and spatial dimensions that need to be preserved and synchronized
+  - Quality of service: multimedia data need to be delivered and displayed with certain levels of quality, such as resolution, frame rate, and latency
+- Multimedia databases have many applications in various domains, such as:
+  - Documents and record management: industries and businesses that keep detailed records and variety of documents, such as medical, legal, and financial records
+  - Knowledge dissemination: multimedia databases are effective tools for knowledge dissemination in terms of providing information, education, and entertainment, such as online courses, digital libraries, and museums
+  - Multimedia authoring: multimedia databases support the creation and editing of multimedia content, such as web pages, presentations, and animations
+  - Computer vision and image processing: multimedia databases enable the analysis and processing of multimedia data, such as face recognition, object detection, and image enhancement
+  - Multimedia communication: multimedia databases facilitate the transmission and sharing of multimedia data, such as video conferencing, social media, and streaming services

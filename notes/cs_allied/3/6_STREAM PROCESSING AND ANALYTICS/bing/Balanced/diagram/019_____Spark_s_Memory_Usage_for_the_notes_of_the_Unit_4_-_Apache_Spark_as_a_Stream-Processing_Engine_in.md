@@ -1,0 +1,22 @@
+### Spark's Memory Usage
+
+- Memory usage in Spark largely falls under one of two categories: **execution** and **storage**.
+- Execution memory refers to that used for computation in shuffles, joins, sorts and aggregations, while storage memory refers to that used for caching and propagating internal data across the cluster.
+- In Spark, execution and storage share a unified region (M) in the executor's heap memory.
+- The size of M can be configured by setting `spark.executor.memory`.
+- Spark also supports off-heap memory allocation for caching and computation.
+- The size of off-heap memory can be configured by setting `spark.memory.offHeap.size`.
+- Spark uses a memory manager to dynamically allocate and reclaim memory between execution and storage.
+- The memory manager can be either **static** or **dynamic**, depending on the value of `spark.memory.useLegacyMode`.
+- In static mode, Spark pre-allocates a fixed fraction of M for execution and the rest for storage.
+- The fractions can be configured by setting `spark.memory.fraction` and `spark.memory.storageFraction`.
+- In dynamic mode, Spark can adjust the execution and storage memory usage based on the workload.
+- Spark tries to keep a minimum amount of storage memory to avoid evicting cached data too frequently.
+- The minimum amount can be configured by setting `spark.memory.storageFraction`.
+- Spark also reserves some memory for system overhead, such as garbage collection and interned strings.
+- The amount of reserved memory can be configured by setting `spark.memory.reservedFraction`.
+- Spark provides various metrics to monitor and tune the memory usage of the application.
+- Some of the metrics are: `JVMHeapMemory`, `JVMOffHeapMemory`, `OnHeapExecutionMemory`, `OffHeapExecutionMemory`, `OnHeapStorageMemory`, `OffHeapStorageMemory`, `OnHeapUnifiedMemory`, `OffHeapUnifiedMemory`.
+- These metrics can be accessed through web UI, REST API, or external monitoring tools.
+- Spark memory management is crucial for the performance and stability of the application.
+- Some of the best practices for managing memory are: choosing the right data structures, partitioning the data, caching the data wisely, tuning the memory parameters, and scaling the cluster resources.

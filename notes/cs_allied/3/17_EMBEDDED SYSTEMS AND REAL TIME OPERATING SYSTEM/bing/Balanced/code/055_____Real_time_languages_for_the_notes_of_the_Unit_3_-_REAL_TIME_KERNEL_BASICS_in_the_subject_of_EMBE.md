@@ -1,0 +1,11 @@
+### Real time languages for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A real time language is a programming language that supports the development of real time systems, which are systems that must respond to events within strict time constraints.
+- Real time languages typically provide features such as concurrency, synchronization, memory management, exception handling, and timing analysis.
+- Some examples of real time languages are:
+
+  - Ada: A general-purpose language that supports object-oriented, concurrent, and distributed programming. Ada has a strong focus on reliability, safety, and efficiency. Ada provides a real time annex that defines features such as tasking, scheduling, timing, interrupts, and real time systems.
+  - C/C++: The most widely used languages for embedded systems development. C and C++ offer low-level access to hardware, high performance, and portability. C and C++ can be used with real time operating systems (RTOS) and real time libraries that provide features such as threads, semaphores, mutexes, timers, and queues.
+  - Java: A high-level, object-oriented language that supports concurrency, exception handling, and garbage collection. Java can be used for real time systems with the Real Time Specification for Java (RTSJ), which defines features such as real time threads, priority inheritance, memory areas, asynchronous events, and real time clocks.
+  - Rust: A relatively new language that aims to provide memory safety, concurrency, and performance. Rust has a unique ownership and borrowing system that prevents data races and memory errors. Rust can be used for embedded systems with the Embedded Rust project, which provides tools, libraries, and documentation for developing embedded applications.
+  - Python: A high-level, interpreted, and dynamic language that supports multiple programming paradigms. Python is known for its readability, simplicity, and productivity. Python can be used for real time embedded systems with MicroPython, which is a lean and efficient implementation of Python for microcontrollers. MicroPython supports features such as concurrency, interrupts, timers, and modules.

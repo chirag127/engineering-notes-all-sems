@@ -1,0 +1,21 @@
+## Unit 10 - Replication
+
+- Replication is a biological process of duplicating or producing an exact copy, such as a polynucleotide strand (DNA) .
+- DNA replication is one of the most vital biological processes in all living things. It is a molecular process taking place in dividing cells by which the DNA creates a copy of itself .
+- Replication is also a term used to describe the duplication of a laboratory or experimental procedure, which is essential for research statistics .
+- Replication can be classified into two types: biological replicates and technical replicates .
+  - Biological replicates are parallel measurements of biologically distinct samples that capture random biological variation, which can be a subject of study or a source of noise itself .
+  - Biological replicates are important because they address how widely your experimental results can be generalized .
+  - Technical replicates are repeated measurements of the same sample that capture random technical variation, such as measurement error or instrument noise .
+  - Technical replicates are important because they assess the precision and reliability of your experimental method .
+- The molecular mechanism of DNA replication involves several steps and enzymes .
+  - Helicase opens up the DNA at the replication fork .
+  - Single-strand binding proteins coat the DNA around the replication fork to prevent rewinding of the DNA .
+  - Topoisomerase works at the region ahead of the replication fork to prevent supercoiling .
+  - Primase synthesizes a short RNA primer that provides a 3' end for DNA polymerase to start from .
+  - DNA polymerase adds nucleotides to the 3' end of the primer, following the template strand .
+  - DNA polymerase can only work in the 5' to 3' direction, so it replicates the leading strand continuously and the lagging strand discontinuously .
+  - The lagging strand is synthesized in short fragments called Okazaki fragments, each with its own primer .
+  - DNA ligase joins the Okazaki fragments together to form a continuous strand .
+  - The RNA primers are removed by another DNA polymerase and replaced with DNA nucleotides .
+  - The result is two identical DNA molecules, each with one original strand and one new strand . This is called semi-conservative replication .

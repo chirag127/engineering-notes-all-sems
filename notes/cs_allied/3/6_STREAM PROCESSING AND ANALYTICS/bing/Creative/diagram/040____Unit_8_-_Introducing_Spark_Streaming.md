@@ -1,0 +1,15 @@
+## Unit 8 - Introducing Spark Streaming
+
+Spark Streaming is an extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams. Spark Streaming can ingest data from various sources such as Kafka, Flume, Twitter, ZeroMQ, Kinesis, or TCP sockets, and can process the data using complex algorithms expressed with high-level functions like map, reduce, join and window. The processed data can be pushed out to filesystems, databases, and live dashboards.
+
+Spark Streaming provides a high-level abstraction called discretized stream or DStream, which represents a continuous stream of data. DStreams can be created either from input data streams from sources such as Kafka, Flume, and Kinesis, or by applying high-level operations on other DStreams. Internally, a DStream is represented as a sequence of RDDs.
+
+Spark Streaming receives live input data streams and divides the data into batches, which are then processed by the Spark engine to generate the final stream of results in batches. This approach enables the same set of application code written for batch analytics to be used in stream processing, and allows the same set of optimizations and fault-tolerance guarantees available in Spark to be applied to streaming data.
+
+Spark Streaming supports two types of operations on DStreams: transformations and output operations. Transformations are functions that produce a new DStream from one or more existing DStreams, such as map, filter, reduceByKey, join, etc. Output operations are functions that write data from a DStream to an external system or storage, such as print, saveAsTextFiles, saveAsHadoopFiles, foreachRDD, etc.
+
+Spark Streaming also provides windowed operations, which allow processing data in a sliding window of time. For example, one can use windowed operations to compute the word counts in the last 10 seconds of data, every 5 seconds. Windowed operations can be applied on either a single DStream or on two DStreams using sliding window joins.
+
+Spark Streaming also integrates with advanced sources of streaming data, such as structured streaming and MLlib. Structured streaming is a scalable and fault-tolerant stream processing engine built on the Spark SQL engine. It allows users to express streaming computations the same way as batch computations on static data, using either the SQL language or the Dataset/DataFrame API. MLlib is Spark's machine learning library, which provides various algorithms and utilities for stream processing, such as streaming linear regression, streaming k-means, streaming PCA, etc.
+
+Spark Streaming is a powerful and flexible framework for stream processing, which can handle a variety of use cases, such as fraud detection, log analysis, clickstream analysis, social media analytics, IoT analytics, etc. Spark Streaming can also interoperate with other Spark components, such as Spark SQL, Spark MLlib, and GraphX, to enable complex and sophisticated analytics on streaming data.

@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of IPv4 for the unit 3 of IOT Architecture and Protocols.
+
+### IPv4
+- IPv4 stands for Internet Protocol version 4. It is the most widely used protocol for data communication over the internet.
+- IPv4 uses 32-bit addresses to identify devices on the network. Each address consists of four octets (8 bits) separated by dots, such as 192.168.1.1.
+- IPv4 addresses are divided into two parts: network prefix and host identifier. The network prefix indicates the network to which the device belongs, and the host identifier indicates the specific device on that network.
+- The network prefix can vary in length depending on the address class or the subnet mask. There are five address classes: A, B, C, D, and E. Each class has a different range of network prefixes and host identifiers.
+- Class A addresses have a network prefix of 8 bits and a host identifier of 24 bits. They can support up to 126 networks and 16,777,214 hosts per network. The first octet of a class A address ranges from 1 to 126.
+- Class B addresses have a network prefix of 16 bits and a host identifier of 16 bits. They can support up to 16,384 networks and 65,534 hosts per network. The first octet of a class B address ranges from 128 to 191.
+- Class C addresses have a network prefix of 24 bits and a host identifier of 8 bits. They can support up to 2,097,152 networks and 254 hosts per network. The first octet of a class C address ranges from 192 to 223.
+- Class D addresses are reserved for multicast communication. They have a network prefix of 28 bits and a host identifier of 4 bits. The first octet of a class D address is 224.
+- Class E addresses are reserved for experimental purposes. They have a network prefix of 32 bits and no host identifier. The first octet of a class E address is 240.
+- A subnet mask is a 32-bit binary number that indicates which part of the address is the network prefix and which part is the host identifier. For example, a subnet mask of 255.255.255.0 means that the first 24 bits are the network prefix and the last 8 bits are the host identifier.
+- IPv4 uses a hierarchical addressing scheme, which means that the addresses are assigned and managed by different levels of authorities. The top-level authority is the Internet Assigned Numbers Authority (IANA), which allocates blocks of addresses to regional internet registries (RIRs). The RIRs then distribute the addresses to local internet registries (LIRs), such as internet service providers (ISPs) or organizations. The LIRs then assign the addresses to end users or customers.
+- IPv4 has some limitations, such as the exhaustion of address space, the lack of security and quality of service features, and the complexity of configuration and management. To overcome these limitations, a new version of the internet protocol, IPv6, was developed and is gradually being adopted.

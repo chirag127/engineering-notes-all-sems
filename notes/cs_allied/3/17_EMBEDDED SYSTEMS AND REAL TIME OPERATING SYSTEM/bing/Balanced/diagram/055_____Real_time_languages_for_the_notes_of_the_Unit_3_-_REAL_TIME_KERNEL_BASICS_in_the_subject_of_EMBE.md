@@ -1,0 +1,11 @@
+### Real time languages for embedded systems
+
+- Real time languages are programming languages that are designed to support the development of real time systems, which are systems that have to meet strict timing constraints and respond to events in a predictable and timely manner.
+- Real time languages typically provide features such as concurrency, synchronization, memory management, exception handling, and real time scheduling that are tailored to the needs of real time applications.
+- Some examples of real time languages are:
+
+  - Ada: A general-purpose, object-oriented, and strongly typed language that supports concurrency, real time scheduling, and high-integrity systems. Ada is widely used in defense, aerospace, and avionics domains.
+  - C/C++: The most popular languages for embedded systems development, due to their low-level control, efficiency, and portability. C and C++ can be used to program real time systems with the help of libraries, frameworks, and extensions, such as POSIX, RTOS, and RTAI.
+  - Java: A high-level, object-oriented, and platform-independent language that supports concurrency, garbage collection, and exception handling. Java can be used for real time systems with the Real Time Specification for Java (RTSJ), which defines extensions and modifications to the standard Java language and libraries to support real time features, such as real time threads, memory areas, and scheduling.
+  - Rust: A relatively new language that focuses on safety, performance, and concurrency. Rust has a unique ownership and borrowing system that prevents memory errors, such as dangling pointers, memory leaks, and data races. Rust can be used for real time systems with the help of libraries and frameworks, such as RTFM, RTIC, and RT-Thread.
+  - Python: A high-level, interpreted, and dynamic language that supports multiple programming paradigms, such as object-oriented, functional, and procedural. Python is known for its readability, simplicity, and productivity. Python can be used for real time systems with the help of implementations and libraries, such as MicroPython, PyPy, and PyRTOS.

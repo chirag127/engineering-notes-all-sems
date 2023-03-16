@@ -1,0 +1,11 @@
+# Multilayer Perceptron Model
+
+- A multilayer perceptron (MLP) is a type of feedforward artificial neural network (ANN) that consists of multiple layers of neurons (also called perceptrons) connected by weighted links .
+- A perceptron is a simple unit that takes a vector of inputs, applies a linear transformation, and outputs a binary value based on a threshold function .
+- A layer is a group of perceptrons that operate in parallel and share the same inputs. The output of a layer is the input of the next layer. The first layer is called the input layer, the last layer is called the output layer, and the intermediate layers are called hidden layers .
+- An activation function is a nonlinear function that maps the output of a perceptron to a value between 0 and 1 (or -1 and 1). It introduces nonlinearity into the network and allows it to learn complex patterns. Some common activation functions are sigmoid, tanh, ReLU, and softmax .
+- A multilayer perceptron can learn to approximate any continuous function, given enough hidden units and training data. It can also perform classification tasks by assigning a class label to the output with the highest activation value .
+- A multilayer perceptron is trained using a supervised learning algorithm called backpropagation, which consists of two phases: forward propagation and backward propagation .
+  - In forward propagation, the network computes the output for a given input by passing it through the layers and applying the activation functions. The output is compared with the desired output (target) and the error (loss) is calculated .
+  - In backward propagation, the network adjusts the weights of the links by propagating the error backwards from the output layer to the input layer. The weights are updated using a learning rule that minimizes the loss function, such as gradient descent or stochastic gradient descent .
+- A multilayer perceptron can be implemented using various frameworks and libraries, such as TensorFlow, PyTorch, Keras, and Scikit-learn  .
