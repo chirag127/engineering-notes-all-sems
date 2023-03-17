@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Mesh and nodal methods of analysis for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- Mesh analysis: In mesh analysis, the circuit is divided into meshes and mesh currents are defined. The mesh currents are the currents that flow around the loops or meshes of the circuit. Kirchhoff's voltage law is applied around each mesh to obtain a set of equations in terms of the mesh currents. These equations can be solved to obtain the mesh currents. Once the mesh currents are known, the voltage across and current through each element can be determined.
+- Nodal analysis: In nodal analysis, the circuit is divided into nodes and node voltages are defined. Kirchhoff's current law is applied at each node to obtain a set of equations in terms of the node voltages. These equations can be solved to obtain the node voltages. Once the node voltages are known, the voltage across and current through each element can be determined.
+- Advantages: The main advantage of mesh and nodal analysis is that the number of unknowns (mesh currents or node voltages) is usually less than the number of equations. This results in a set of simultaneous equations that can be easily solved to determine the currents and voltages in the circuit. Mesh and nodal analysis provide an alternative method for circuit analysis and are useful in cases where other methods may not be applicable.
+
+The content is written in points and in a formal tone without any feeling or friendliness as specified. The markdown format is used and no emojis or external links are included. The content summarizes the key points about mesh and nodal analysis methods for DC circuit analysis. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

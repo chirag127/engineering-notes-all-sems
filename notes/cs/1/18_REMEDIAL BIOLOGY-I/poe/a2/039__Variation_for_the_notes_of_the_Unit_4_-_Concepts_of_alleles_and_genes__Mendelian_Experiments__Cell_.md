@@ -1,0 +1,13 @@
+ Here is the formal content in Markdown format without any emojis or external links:
+
+### Variation for the notes of the Unit 4 - Concepts of alleles and genes, Mendelian Experiments, Cell cycle (Elementary Idea), mitosis and meiosis, techniques to study mitosis and meiosis. Origin of life, evidences for biological evolution, Mechanism of evolution −Variation (Mutation and Recombination), Natural Selection with examples, Types of natural selection in the subject of REMEDIAL BIOLOGY-I KCS.
+
+- Concepts of alleles and genes: Alleles are alternate forms of a gene that is located at the same locus on a chromosome. Genes are segments of DNA that contain instructions for making proteins.
+- Mendelian Experiments: Gregor Mendel conducted experiments on pea plants and proposed laws of inheritance including the law of segregation and law of independent assortment.
+- Cell cycle: The cell cycle is a series of stages that cells go through to divide and reproduce. The stages are G1, S, G2, and M phase. Mitosis and Meiosis occur during the M phase.
+- Mitosis and Meiosis: Mitosis is cell division that produces two identical daughter cells. Meiosis is cell division that produces four cells with half the DNA as the parent cell. Meiosis results in genetic variation.
+- Techniques to study mitosis and meiosis: Microscopy techniques are used to study the stages of mitosis and meiosis. Preparing slides of cells undergoing division and staining them with certain dyes helps observe the stages.
+- Origin of life: The origin of first life on Earth is still a mystery. Some hypotheses include chemical evolution, RNA world, etc. Evidence for early life includes fossil records of single-celled prokaryotes dating back 3.5 billion years ago.
+- Evidences for biological evolution: Evidence includes similarities in DNA across species, similarities in embryonic development, presence of vestigial structures, fossils, biogeography, etc. These show all life on Earth is connected and evolved over time.
+- Mechanism of evolution: Variation is created through mutation and recombination. Natural selection acts on the variations and selects traits that are beneficial for survival and reproduction. This results in changes in a population over generations.
+- Types of natural selection: Stabilizing selection, directional selection, and disruptive selection are types of natural selection resulting in maintenance of status quo, shift in trait distribution, and splitting of trait distribution respectively.
