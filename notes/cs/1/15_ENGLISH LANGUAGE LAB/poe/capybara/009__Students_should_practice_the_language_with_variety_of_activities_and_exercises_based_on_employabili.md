@@ -1,0 +1,11 @@
+#### Importance of practicing language with variety of activities and exercises based on employability skills:
+
+- Language learning is not limited to just grammar and vocabulary. It is important for students to practice the language with a variety of activities and exercises based on employability skills to improve their overall communication skills.
+- Interactive and communicative practical exercises help students to develop effective communication skills that are essential for employability.
+- Emphasis on oral presentation and spoken communication is crucial in today's job market. Students who can communicate effectively are more likely to succeed in their careers.
+- The International Phonetic Alphabet (I.P.A.) is an important tool for language learners. It helps students to learn correct pronunciation and intonation of words, which is essential for effective communication.
+- Practicing language through a variety of activities and exercises based on employability skills not only helps students to improve their language skills, but also develops their critical thinking, problem-solving, and teamwork skills.
+- Role plays, group discussions, debates, presentations, and simulations are some of the interactive and communicative practical exercises that can help students to develop effective communication skills.
+- These activities can be customized to suit the needs and interests of the students, making the learning process more engaging and effective.
+- Language learning should not be limited to the classroom. Students should be encouraged to practice the language in real-life situations, such as through internships or volunteer work, to further develop their employability skills.
+- In conclusion, practicing language with a variety of activities and exercises based on employability skills is essential for students to develop effective communication skills that are crucial for success in their careers. The use of interactive and communicative practical exercises, along with the International Phonetic Alphabet, can help students to improve their language skills and overall employability.

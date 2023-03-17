@@ -1,0 +1,12 @@
+### 3. To train students to use the correct and error-free writing by being well versed in rules of English grammar.
+
+To become proficient in writing, it is important to have a strong understanding of the rules of English grammar. Here are some tips that can help students train themselves to use correct and error-free writing:
+
+- **Study the basics:** Start by learning the basic rules of English grammar, such as subject-verb agreement, proper use of tenses, and correct punctuation. This will form the foundation of your writing skills.
+- **Read extensively:** Reading extensively not only improves your vocabulary but also helps you understand how sentences are constructed and how grammar is used in different contexts. It is recommended to read a variety of materials, such as newspapers, magazines, novels, and academic articles.
+- **Practice writing:** Writing is a skill that can be improved with practice. Start with simple exercises, such as writing short paragraphs or essays, and gradually move on to more complex writing tasks. It is important to review your writing and identify the errors that you make, so that you can work on improving them.
+- **Get feedback:** Feedback from teachers, peers, or professional editors can be very helpful in improving your writing skills. They can point out the errors that you may have missed and suggest ways to improve your writing. It is important to be open to feedback and use it to improve your skills.
+- **Use writing tools:** There are several writing tools available online that can help you improve your grammar and writing skills. These tools can check your writing for errors, suggest corrections, and offer writing tips. Some popular writing tools include Grammarly, Hemingway Editor, and ProWritingAid.
+- **Read and follow style guides:** Style guides provide guidelines for writing in a specific style or format, such as MLA, APA, or Chicago. Following these guidelines can help you write consistently and avoid errors. It is important to read and follow the style guide that is relevant to your field of study or profession.
+
+By following these tips, students can train themselves to use correct and error-free writing by being well versed in rules of English grammar. With practice and persistence, they can develop strong writing skills that will serve them well in their academic and professional careers.
