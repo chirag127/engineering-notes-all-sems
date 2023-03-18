@@ -1,0 +1,10 @@
+
+### Contract Management in SPM
+
+1. Contract management is the process of managing the various aspects of contracts throughout their lifecycle. This includes the initial negotiation, drafting, execution, and post-execution administration. 
+2. The goal of contract management is to ensure that all parties involved in a contract understand and abide by their obligations. This includes making sure that the contract is valid and enforceable and that any changes to the contract are documented and agreed to by all parties. 
+3. Contract management also involves monitoring the performance of the contract to ensure that all parties are fulfilling their obligations. This includes tracking deadlines, payments, and other contractual obligations. 
+4. Contract management is an important part of Supply Chain Management (SCM). SCM involves managing the flow of goods and services from suppliers to customers. Contracts are an essential part of SCM, as they provide a legal framework for the relationship between the parties involved. 
+5. Contract management can help ensure that SCM is carried out in a timely and cost-effective manner. By monitoring and managing contracts, organizations can ensure that goods and services are delivered on time and that all parties are meeting their contractual obligations. 
+6. Contract management also helps organizations to identify and manage risks associated with contracts. This includes ensuring that contracts are compliant with applicable laws and regulations and that any changes to the contract are documented and agreed to by all parties. 
+7. Finally, contract management can help organizations to negotiate better terms and conditions with their suppliers. By understanding the various aspects of a contract, organizations can ensure that they are getting the best possible terms and conditions for their contracts.
