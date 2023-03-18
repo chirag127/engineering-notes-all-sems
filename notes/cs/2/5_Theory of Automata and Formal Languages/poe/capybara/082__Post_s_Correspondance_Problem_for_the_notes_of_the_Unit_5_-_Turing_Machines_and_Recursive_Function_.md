@@ -1,0 +1,12 @@
+### Post’s Correspondance Problem
+
+Post’s Correspondance Problem is a decision problem that was introduced by Emil Post in the 1940s. The problem is an important concept in the field of theoretical computer science and is closely related to the concept of Turing machines and recursive function theory. Here are some key points to understand the problem:
+
+- The problem is concerned with finding a solution to a specific kind of puzzle. The puzzle consists of a set of pairs of strings, and the task is to find a way to concatenate some of the pairs in a way that the resulting strings are the same.
+- More formally, given a set of pairs of strings, the problem is to determine whether there is a sequence of pairs such that the concatenation of the first string in each pair is equal to the concatenation of the second string in each pair.
+- The problem is known to be undecidable, meaning that there is no algorithm that can solve it for all instances. This was shown by Alan Turing in his famous paper on computable numbers.
+- The undecidability of the problem has important implications for the limits of computation. It shows that there are some problems that cannot be solved by any algorithm or Turing machine, no matter how powerful.
+- The problem is closely related to the halting problem, which is another famous undecidable problem. In fact, the halting problem can be reduced to the Post’s Correspondance Problem, meaning that if we had an algorithm for solving the Post’s Correspondance Problem, we could use it to solve the halting problem as well.
+- The undecidability of the problem is usually proved using diagonalization arguments, which are a common technique in the theory of computability. The basic idea is to assume that there is an algorithm that can solve the problem and then construct a new instance of the problem that the algorithm cannot solve, leading to a contradiction.
+
+In conclusion, Post’s Correspondance Problem is an important concept in the theory of automata and formal languages. It illustrates the limits of computation and the power of undecidability proofs. Understanding the problem and its implications is essential for anyone interested in the foundations of computer science.

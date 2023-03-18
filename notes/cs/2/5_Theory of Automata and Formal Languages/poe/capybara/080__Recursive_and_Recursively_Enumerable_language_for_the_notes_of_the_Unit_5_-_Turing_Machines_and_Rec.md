@@ -1,0 +1,11 @@
+### Recursive and Recursively Enumerable Languages
+
+In the field of theory of automata and formal languages, recursive and recursively enumerable languages are important topics. Here are some key points to understand these concepts:
+
+- A language is said to be recursive if there exists a Turing machine that can decide whether a given string is a member of the language or not. In other words, the Turing machine halts on all inputs and accepts if the input is in the language and rejects if it is not.
+- On the other hand, a language is said to be recursively enumerable if there exists a Turing machine that can enumerate all the strings in the language. This means that the Turing machine halts and outputs a string in the language for every input in the language, but may never halt on inputs that are not in the language.
+- Every recursive language is also recursively enumerable, but the converse is not true. There exist recursively enumerable languages that are not recursive.
+- The set of all recursive languages is closed under the operations of union, intersection, and complement. This means that if two languages are recursive, their union, intersection, and complement are also recursive.
+- The set of all recursively enumerable languages is closed under the operations of union and concatenation, but not under intersection or complement. This means that if two languages are recursively enumerable, their union and concatenation are also recursively enumerable, but their intersection and complement may not be.
+- The halting problem, which asks whether a given Turing machine halts on a given input, is an example of a recursively enumerable language that is not recursive. This problem is undecidable, meaning that there exists no Turing machine that can decide whether a given Turing machine halts on a given input or not.
+- The Chomsky hierarchy is a classification of languages based on the types of grammars that generate them. Recursive languages correspond to Type 0 grammars, while recursively enumerable languages correspond to Type 1 grammars.

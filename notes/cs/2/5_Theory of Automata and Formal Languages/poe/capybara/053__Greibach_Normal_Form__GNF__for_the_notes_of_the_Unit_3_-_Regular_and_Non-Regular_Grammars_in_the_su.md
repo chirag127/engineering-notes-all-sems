@@ -1,0 +1,21 @@
+### Greibach Normal Form (GNF)
+
+- Greibach Normal Form (GNF) is a type of context-free grammar that is named after its inventor Sheila Greibach. 
+- In this form, each production rule has a single terminal symbol as its first symbol. 
+- The left-hand side of each production rule is a single non-terminal symbol.
+- The right-hand side of each production rule is a string of terminal and non-terminal symbols.
+- GNF is useful in automata theory and formal language theory because it simplifies the process of parsing a context-free grammar. 
+- A context-free grammar is said to be in GNF if and only if it satisfies the following conditions:
+  - The start symbol appears only on the left-hand side of a production rule.
+  - Each production rule has a single terminal symbol as its first symbol.
+  - All remaining symbols in the right-hand side of the production rule are non-terminals, except for ε.
+  - There are no ε-productions.
+- To convert a context-free grammar to GNF, we need to perform the following steps:
+  - Eliminate all ε-productions.
+  - Eliminate all unit productions.
+  - Convert all remaining productions to the form A → aB1B2...Bn, where A, B1, B2, ..., Bn are non-terminal symbols and a is a terminal symbol.
+  - Introduce new non-terminal symbols for each terminal symbol that appears in a right-hand side of a production rule.
+- GNF is useful because it simplifies the process of parsing a context-free grammar. 
+- A GNF grammar can be parsed in linear time.
+- However, not all context-free grammars can be converted to GNF. 
+- In fact, the conversion process for some grammars can be quite complex and may require a significant amount of time and effort.

@@ -1,0 +1,10 @@
+### Tautology for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+In propositional logic, a tautology is a statement that is always true regardless of the truth values of its propositional variables. Tautologies are important in logic because they are used to establish the validity of arguments and to test the consistency of logical systems. Here are some key points to understand tautology:
+
+- A tautology is a statement that is true in every possible interpretation of its propositional variables. For example, the statement "A or not A" is a tautology because it is true regardless of whether A is true or false.
+- Tautologies can be expressed using logical connectives such as "and", "or", "not", "implies", and "if and only if". For example, the statement "if P implies Q, and Q implies R, then P implies R" is a tautology because it is true for all possible truth values of its propositional variables.
+- Tautologies can be proven using truth tables, which list all possible combinations of truth values for the propositional variables and show whether the statement is true or false in each case. If the statement is true in every row of the truth table, it is a tautology.
+- Tautologies can also be proven using logical equivalences, which are rules for transforming one logical statement into another that is logically equivalent. For example, the logical equivalence "P and not P is equivalent to false" can be used to prove that "A or not A" is a tautology.
+- Tautologies are important in logic because they can be used to establish the validity of arguments. If an argument is based on tautologies, it is logically valid regardless of the truth values of its premises. For example, the argument "either it is raining or it is not raining" and "it is not raining" therefore "it must be raining" is valid because it is based on the tautology "A or not A".
+- Tautologies are also used to test the consistency of logical systems. If a logical system contains a tautology, it is consistent because it is always true. If a logical system contains a contradiction, it is inconsistent because it is never true.

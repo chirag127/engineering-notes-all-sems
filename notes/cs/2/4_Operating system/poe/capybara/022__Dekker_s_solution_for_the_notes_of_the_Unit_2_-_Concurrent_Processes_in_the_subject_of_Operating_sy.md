@@ -1,0 +1,8 @@
+### Dekker’s solution for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+
+Dekker’s solution is a synchronization algorithm that prevents two or more processes from accessing a shared resource simultaneously. Here are some key points to keep in mind when studying Dekker’s solution:
+
+- Dekker’s solution is based on the idea of mutual exclusion, which means that only one process can access a shared resource at a time. This is achieved by using a flag variable that indicates whether a process is currently accessing the resource or not.
+- The flag variable is used in combination with a turn variable that determines which process should have access to the resource next. The turn variable is set to the ID of the other process, so that each process takes turns accessing the resource.
+- To enter the critical section (i.e. the code that accesses the shared resource), a process must first set its flag variable to true and then wait until the turn variable is set to its own ID. Once the process has access to the resource, it can perform its operations and then reset the flag variable to false.
+- The problem with Dekker’s solution is that it is not starvation-free, which means that a process may be prevented from accessing the resource indefinitely if the other process keeps setting the turn variable to its own ID. To overcome this problem, a variant of Dekker’s solution called the Peterson’s solution was developed, which guarantees that all processes will eventually access the resource.
