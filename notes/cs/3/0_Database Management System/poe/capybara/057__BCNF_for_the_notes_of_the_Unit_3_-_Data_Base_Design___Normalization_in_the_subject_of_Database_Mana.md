@@ -1,0 +1,12 @@
+### BCNF for the notes of the Unit 3 - Data Base Design & Normalization in the subject of Database Management System
+
+BCNF stands for Boyce-Codd Normal Form, which is a normal form in database normalization. It is a stricter form of the third normal form (3NF) and is used to eliminate certain kinds of anomalies that can arise in a database.
+
+Here are some key points to understand BCNF:
+
+- BCNF is based on functional dependencies between attributes in a relation. A functional dependency is a relationship between two attributes, where the value of one attribute determines the value of another attribute. For example, if we have a relation that contains information about customers and their orders, we might have a functional dependency between the customer ID and the customer name.
+- For a relation to be in BCNF, every determinant (a set of attributes that uniquely determines another attribute) must be a candidate key. In other words, there should be no non-trivial functional dependencies between non-key attributes.
+- BCNF is important because it helps to prevent certain kinds of anomalies that can occur in a database. For example, if we have a relation that contains information about customers and their orders, we might have a problem if we try to update the customer name for a particular customer. If the customer name is also used as a determinant for another attribute (such as the shipping address), then updating the customer name could result in incorrect information being stored in the database. BCNF helps to prevent these kinds of problems by ensuring that there are no non-trivial functional dependencies between non-key attributes.
+- BCNF is not always necessary or desirable. In some cases, it may be more appropriate to use a less strict form of normalization, such as 3NF. The choice of normalization form depends on the specific requirements of the database and the trade-offs between data consistency, query performance, and storage efficiency.
+
+Overall, BCNF is an important concept in database normalization that helps to ensure the integrity and consistency of data in a database. By understanding the principles of BCNF, database designers can make informed decisions about the appropriate normalization form for a given database.
