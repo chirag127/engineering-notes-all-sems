@@ -1,0 +1,14 @@
+### Selection of Devices Based and Screen Based Controls for the Notes of the Unit 4 - Windows in the Subject of Human Computer Interface
+
+In this unit, we will be discussing the selection of devices based and screen based controls for the notes of Windows in the subject of Human Computer Interface. The following points will help you understand this topic better:
+
+- The selection of devices based and screen based controls is essential to provide an efficient user experience. The choice of device and control depends on the user's needs, preferences, and abilities.
+- Devices based controls include input devices such as a keyboard, mouse, joystick, touchpad, and trackball. These devices require physical movement and provide direct interaction with the computer system.
+- Screen based controls include graphical user interfaces (GUIs), touch screens, voice recognition, and eye-tracking devices. These controls provide an indirect interaction with the system and require less physical effort.
+- The selection of devices and controls for Windows notes should be based on the user's physical abilities, cognitive abilities, and preferences. For example, a person with a physical disability may prefer a touch screen or voice recognition control over a keyboard or mouse.
+- The design of the user interface should consider the user's mental model of the system. A mental model is a representation of the system in the user's mind. The user interface should be designed in such a way that it matches the user's mental model, thereby reducing the cognitive load on the user.
+- The user interface should also provide feedback to the user to indicate the system's status and progress. Feedback can be visual, auditory, or haptic. For example, a progress bar can indicate the status of a file transfer, while a beep can indicate an error in the system.
+- The user interface should be consistent throughout the system to provide a seamless user experience. Consistency can be achieved through the use of common icons, terminology, and layout.
+- Finally, the user interface should be customizable to meet the user's individual needs and preferences. Customization can include changing the color scheme, font size, or layout of the interface.
+
+In conclusion, the selection of devices based and screen based controls for the notes of Windows in the subject of Human Computer Interface is a crucial aspect of providing an efficient user experience. The choice of device and control should be based on the user's needs, preferences, and abilities. The user interface should be designed to match the user's mental model, provide feedback, be consistent, and customizable.
