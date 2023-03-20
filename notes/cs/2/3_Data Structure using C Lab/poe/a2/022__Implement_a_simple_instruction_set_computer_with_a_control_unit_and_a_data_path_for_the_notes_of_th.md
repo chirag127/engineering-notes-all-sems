@@ -1,0 +1,11 @@
+ Here is the formal content in Markdown format without any emojis or external links:
+
+## Implement a simple instruction set computer with a control unit and a data path
+
+1.  Control Unit: The control unit is responsible for fetching, decoding and executing instructions. It controls all the components of the computer and coordinates their activities. It fetches an instruction from memory, decodes it and based on the instruction, it activates the relevant components to execute the instruction. It moves between steps by generating control signals.
+2.  Data Path: The data path is responsible for the actual processing of data. It is composed of registers, ALU, multiplexers, buses, etc. The control unit controls these components and coordinates their functioning to execute the instructions. The data path receives input data, processes it and produces the output.
+3.  Registers: Registers are high-speed storage units used for temporary storage of data and addresses. They store the operands and the results of a computation. General purpose registers can store both data and addresses while special purpose registers have specific uses.
+4.  Arithmetic and Logic Unit (ALU): The ALU performs arithmetic and logical operations such as addition, subtraction, AND, OR, etc. on the data. It receives input from the registers and sends the output to the registers or memory. The specific operation to be performed is defined by the control unit.
+5.  Buses: Buses are pathways that carry data between the different components of the computer. They connect the control unit to the memory and the data path. The width of the bus determines how much data can be transferred at a time. Most buses are bidirectional and can transfer data in both directions.
+
+The above points cover the major components required to implement a simple instruction set computer with a control unit and data path. The control unit coordinates the activities of the different components to execute instructions and carry out computations.
