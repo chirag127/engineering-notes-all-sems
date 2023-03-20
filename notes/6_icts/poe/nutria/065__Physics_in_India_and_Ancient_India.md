@@ -1,0 +1,8 @@
+
+### Physics in India and Ancient India
+
+* India has a long history of scientific thought and practice, stretching back to ancient times. The Vedic period (1500 BCE - 500 BCE) saw a flourishing of scientific knowledge, with the emergence of the Vedic sciences of astronomy, mathematics, medicine, and philosophy.
+* In the classical period (500 BCE - 500 CE), Indian mathematicians such as Aryabhata, Varahamihira, and Brahmagupta made significant advances in the fields of mathematics, astronomy, and physics.
+* During the medieval period (500 CE - 1500 CE), Indian scholars continued to make important contributions to the scientific fields of mathematics, astronomy, and physics. The works of scholars such as Bhaskara, Madhava, and Nilakantha Somayaji laid the foundations for the development of modern mathematics, while the works of scholars such as Varahamihira, Brahmagupta, and Bhaskara II laid the foundations for the development of modern astronomy.
+* In the modern period (1500 CE - present), Indian scientists have made significant advances in the fields of mathematics, astronomy, and physics. Indian mathematicians such as Ramanujan and Srinivasa Ramanujan made important contributions to the field of mathematics, while Indian physicists such as Satyendra Nath Bose and Homi J. Bhabha made important contributions to the field of physics.
+* In the present day, India is home to a thriving scientific community, with numerous universities, research institutes, and scientific laboratories dedicated to the advancement of scientific knowledge. Indian scientists are making significant contributions to the fields of mathematics, astronomy, and physics, and are leading the way in the development of new technologies.

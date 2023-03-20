@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Definition for the notes of the Unit 1 - INTRODUCTION in the subject of ARTIFICIAL INTELLIGENCE KCS.
+
+1. Artificial Intelligence: Artificial Intelligence (AI) is the field of computer science that attempts to build machines that can think and act intelligently, similar to a human. AI systems are powered by machine learning algorithms and neural networks which allow them to learn from data, recognize patterns, adapt and make decisions with minimal human input.
+
+2. Machine Learning: Machine Learning is a field of computer science that gives computers the ability to learn without being explicitly programmed. Machine Learning focuses on the development of computer programs that can change when exposed to new data. Machine Learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
+
+3. Deep Learning: Deep Learning is a type of machine learning that uses neural networks with many layers of processing units for feature extraction and pattern analysis. Deep Learning algorithms are inspired by the hierarchical structure and function of the human brain. Deep Learning has achieved state-of-the-art results in various tasks like computer vision, speech recognition, natural language processing, etc. Deep Learning models are fed large amounts of data and learn complex patterns in the data to make predictions or decisions.
+
+4. Computer Vision: Computer Vision is a field of artificial intelligence that focuses on teaching computers to understand and label what's in images and videos. Computer Vision powers facial recognition, self-driving cars, image classification, object recognition, etc. Computer Vision systems use machine learning and deep learning algorithms to detect and classify objects/scenes in images and videos. The goal of Computer Vision is to replicate human vision and understand the content of images/videos at a semantic level.
