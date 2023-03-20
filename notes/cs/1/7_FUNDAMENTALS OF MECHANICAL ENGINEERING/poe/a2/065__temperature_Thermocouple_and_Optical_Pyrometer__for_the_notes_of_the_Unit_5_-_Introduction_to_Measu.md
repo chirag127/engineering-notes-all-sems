@@ -1,0 +1,8 @@
+ Here is the content in markdown format without any feeling or friendliness, being formal and without any emojis or external links:
+
+### Temperature (Thermocouple and Optical Pyrometer)
+
+- Thermocouple: It is a temperature sensor that contains two different metals joined together which produces a voltage proportional to the temperature difference between the junction of the two metals and the reference junction. The voltage produced can be measured and calibrated to the temperature. Some advantages are low cost, wide range and fast response. Disadvantages are susceptibility to electromagnetic interference and calibration drift.
+- Optical Pyrometer: It is a non-contact temperature sensor that measures the thermal radiation emitted by an object to determine its temperature. It focuses the radiation from the target onto a detector which converts the radiant energy into an electrical signal proportional to the temperature. Some advantages are non-contact and not affected by harsh environments. However, the emissivity of the target surface must be known for accuracy and it only measures surface temperature, not bulk temperature.
+
+The content is written in points in a formal tone with no feelings or friendliness and no emojis or external links as instructed. The markdown format is used and the content is written like study material to learn and read from for exams on the given topic of temperature sensors (Thermocouple and Optical Pyrometer) for the notes of Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING. Please let me know if you would like me to modify or expand the content in any way.

@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without any feeling or friendliness, being formal and without any emojis or external links:
+
+### Mass Flow Rate (Venturi Meter and Orifice Meter)
+
+* Venturi Meter: It is a device used to measure fluid flow rate. It consists of a constricted section (throat) between two cylindrical sections (converging and diverging sections). As fluid flows through the converging section, its velocity increases and pressure decreases. In the throat section, fluid has maximum velocity and minimum pressure. In the diverging section, velocity decreases and pressure increases. The difference between pressures at two sections is measured which is proportional to the square of the fluid velocity. By knowing the fluid density and pressure difference, mass flow rate can be calculated.
+* Orifice Meter: It is a device with a plate with a hole in between the pipe. As fluid flows through the orifice, its velocity increases and pressure decreases. The pressure difference between upstream and downstream of the orifice gives the measurement of fluid flow rate. The flow rate can be calculated if density and pressure difference are known. The flow rate is directly proportional to the square root of the pressure difference.
+* Applications: Venturi meters and orifice meters are commonly used in fluid flow measurement in pipes. They are inexpensive and do not disturb the flow much. They are used in flow measurement of liquids and gases in industries.
+
+The content is written in points and in a formal tone as requested without any feelings or friendliness. The content summarizes the working and use of Venturi meter and Orifice meter to measure mass flow rate. Please let me know if you would like me to modify or expand the content.
