@@ -1,0 +1,12 @@
+ Here is the formal content in Markdown format without any emojis or external links:
+
+### Other issues in access control for the notes of the Unit 3 - Secure architecture principles isolation and leas in the subject of COMPUTER SYSTEM SECURITY
+
+1. Need to restrict access based on time of day or day of week. For example, an employee may only need access to certain servers or data during working hours. Access should be restricted outside of these times.
+2. Need to restrict access based on location. For example, access may only be permitted from devices within the corporate network or office locations. Remote access from other locations could be restricted.
+3. Need to restrict access based on multiple factors (multi-factor authentication). For example, in addition to a password, access could require a security token, biometric authentication, or other factor. This creates a more secure authentication process.
+4. Need to restrict access based on multiple roles. For example, an employee may have access to some systems as part of their standard role, but more restricted access to other more sensitive systems based on a more limited administrative role. The access controls need to enforce these different levels of roles and permissions.
+5. If third parties are given access, then access controls need to restrict their access to only the necessary systems and data. Their access should be carefully controlled and monitored. Temporary accounts and credentials can be used where appropriate to limit the timespan of external access.
+6. The principle of least privilege should be enforced, meaning that users and systems are only given the minimum amount of access and privilege needed to perform their legitimate activities. This limits the potential damage from malicious or erroneous activity.
+7. Access controls need to be consistently enforced, with no exceptions or bypasses permitted. Any exceptions could create security vulnerabilities that compromise the overall access control system.
+8. The access control system itself needs to be protected from unauthorized access or modification. If the access control system could be compromised, then this could allow broader access to resources. So, the access control system should be subject to access controls and strong security protections.

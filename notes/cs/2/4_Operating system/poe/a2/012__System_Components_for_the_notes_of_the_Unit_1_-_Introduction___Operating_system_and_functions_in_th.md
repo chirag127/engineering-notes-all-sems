@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### System Components
+1. Kernel: The kernel is the core component of an operating system. It acts as an interface between the hardware and the software. It is responsible for tasks like allocating memory, coordinating processes, handling files, and communication between hardware devices.
+2. System calls: System calls are interfaces provided by the kernel to interact with the hardware and request resources from the operating system. Application programs utilize system calls to perform tasks such as input/output, creating and deleting files, etc.
+3. Process management: The operating system must manage the execution of application programs by the scheduling and coordination of processes. It allocates resources to processes, coordinates their execution, handles deadlocks, and provides mechanisms for process synchronization and communication.
+4. Memory management: The operating system must manage the computer's memory resources efficiently. It keeps track of which parts of memory are currently being used and by whom, and decides which processes reside in memory and which do not. It allocates and deallocates memory space as needed to accommodate the demands of programs for memory resources.
+5. File management: The operating system provides mechanisms for the creation, deletion, protection, and synchronization of files. It manages the hierarchy of files stored on permanent storage devices and keeps track of which areas of storage are allocated and which are free.
+
+The content covers the major system components of an operating system in points in a formal tone without any emojis or external links as per the given instructions. Please let me know if you would like me to modify or expand the content in any way.

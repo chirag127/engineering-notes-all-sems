@@ -1,0 +1,11 @@
+ Here is the content in Markdown format without any emojis or external links and in formal tone:
+
+### Review and Management of User Needs for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering.
+
+1. Identify actual users and stakeholders: It is important to identify who the actual users of the software will be and who all stakeholders are. This could include end users, customers, managers, operators, administrators, etc. Their needs and requirements must be elicited and analyzed.
+2. Elicit needs and requirements: This is the most crucial step where the requirements of the identified users and stakeholders are gathered. This can be done through various techniques such as interviews, questionnaires, observation, focus groups, etc. The goal is to get a comprehensive set of user needs and requirements.
+3. Analyze and negotiate needs: The elicited user needs may be conflicting, vague, overlapping or even missing some aspects. These needs must be thoroughly analyzed for consistency, completeness, clarity, conciseness and possibility of implementation. If required, further discussion and negotiation may be needed with users to resolve conflicts or gaps and arrive at a consolidated set of needs.
+4. Document the needs: The final set of user needs must be properly documented as it will serve as an input to the next step of deriving software requirements. The documentation should be precise, unambiguous and understandable to all stakeholders. It can be in the form of need statements, graphs, dataflow diagrams, etc.
+5. Review and verify needs: The documented needs must be reviewed by all stakeholders to verify that they accurately reflect the actual needs. Sometimes new insights come up during review which must be incorporated. The needs may also evolve over time due to changes in business environment or user preferences, so periodic verification and review is required.
+
+The above points cover the key steps involved in reviewing and managing user needs which then pave the way for deriving the software requirements. Careful and thorough completion of this step leads to development of a product that meets the user expectations.

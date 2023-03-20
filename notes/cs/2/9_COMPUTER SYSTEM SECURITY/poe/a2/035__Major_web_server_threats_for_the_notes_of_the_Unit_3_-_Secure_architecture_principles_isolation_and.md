@@ -1,0 +1,11 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Major web server threats
+
+1. SQL Injection: SQL injection is a web security vulnerability that allows an attacker to influence the queries that an application makes to its database. It generally allows an attacker to read sensitive data from the database, modify database data (insert/update/delete), execute administration operations on the database (shutdown the DB, retrieve a backup, etc), recover the content of a given file present on the DB server and in some cases issue commands to the operating system.
+2. Cross-Site Scripting (XSS): XSS flaws occur whenever an application includes untrusted data in a new web page without proper validation or escaping, and the vulnerable web application transmits that data to the browser without escaping it first. XSS allows attackers to execute scripts in the victim's browser which can hijack user sessions, deface web sites, or redirect the user to malicious sites.
+3. Broken Authentication: Application functions related to authentication and session management are often not implemented correctly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users' identities.
+4. Sensitive Data Exposure: Many web applications and APIs do not properly protect sensitive data, such as financial, healthcare, and PII. Attackers may steal or modify such weakly protected data to conduct credit card fraud, identity theft, or other crimes.
+5. XML External Entities (XXE): Many older or poorly configured XML processors evaluate external entity references within XML documents. External entities can be used to disclose internal files using the file URI handler, internal file shares, internal port scanning, remote code execution, and denial of service attacks.
+
+The above points cover some of the major web server threats. I have written the content in a formal tone with points and without any emojis or external links as instructed. Please let me know if you would like me to modify or add any other points.
