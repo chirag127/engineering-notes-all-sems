@@ -1,0 +1,13 @@
+### Satisfiability
+
+In propositional logic, satisfiability is the property of a logical formula to be true or valid under some interpretation or assignment of truth values to its propositional variables. In this section, we will discuss the concept of satisfiability and its importance in the field of discrete structures and the theory of logic.
+
+Here are some key points to understand satisfiability:
+
+- A propositional formula is said to be satisfiable if there exists at least one truth assignment to its propositional variables that makes the formula true.
+- Conversely, a formula is said to be unsatisfiable if no such truth assignment exists, meaning that the formula is always false for any assignment of truth values to its variables.
+- The problem of determining whether a propositional formula is satisfiable is known as the satisfiability problem or SAT for short. It is one of the fundamental problems in computer science and has many practical applications in areas such as artificial intelligence, automated reasoning, and circuit design.
+- The satisfiability problem is known to be NP-complete, meaning that it is unlikely to have a polynomial-time algorithm that solves it for all cases. However, efficient algorithms have been developed for many special cases of the problem, and SAT solvers have become an important tool in software verification and testing.
+- One of the key insights in the study of satisfiability is the use of Boolean logic and Boolean algebra to manipulate propositional formulas. Boolean logic provides a mathematical framework for expressing logical operations such as conjunction, disjunction, and negation, while Boolean algebra provides a set of rules for simplifying complex formulas and determining their satisfiability.
+- The concept of satisfiability is closely related to other concepts such as validity, equivalence, and inconsistency. A formula is said to be valid if it is true for all possible truth assignments to its variables, while two formulas are said to be equivalent if they have the same truth values for all possible assignments. A set of formulas is said to be inconsistent if it is impossible for all of them to be true at the same time.
+- The study of satisfiability has led to the development of many important tools and techniques for solving complex logical problems. These include resolution, Davis-Putnam-Logemann-Loveland (DPLL) procedure, and Stålmarck's algorithm. These algorithms use a combination of heuristics and search techniques to efficiently explore the space of possible truth assignments and determine the satisfiability of a given formula.
