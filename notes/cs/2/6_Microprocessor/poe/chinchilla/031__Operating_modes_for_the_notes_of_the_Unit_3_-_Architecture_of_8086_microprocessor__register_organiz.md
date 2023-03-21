@@ -1,0 +1,95 @@
+### Operating Modes for the Notes of Unit 3 - Architecture of 8086 Microprocessor
+
+The 8086 microprocessor is a 16-bit microprocessor that has a complex architecture. To understand this architecture, we need to understand the different operating modes of the 8086 microprocessor. The following are the operating modes of the 8086 microprocessor:
+
+1. Real Mode: In this mode, the 8086 microprocessor behaves as an 8-bit microprocessor. The maximum memory that can be addressed in this mode is 1 MB. The address space is divided into segments of 64 KB each.
+
+2. Protected Mode: In this mode, the 8086 microprocessor behaves as a 32-bit microprocessor. The maximum memory that can be addressed in this mode is 4 GB. The address space is divided into segments of 4 KB each.
+
+### Register Organization
+
+The 8086 microprocessor has a total of 14 registers. These registers are divided into different categories based on their functions. The following are the categories of registers in the 8086 microprocessor:
+
+1. Data Registers: These registers are used for storing data. There are four data registers in the 8086 microprocessor - AX, BX, CX, and DX.
+
+2. Pointer Registers: These registers are used for storing pointers to memory locations. There are two pointer registers in the 8086 microprocessor - SP and BP.
+
+3. Index Registers: These registers are used for indexing into memory. There are two index registers in the 8086 microprocessor - SI and DI.
+
+4. Segment Registers: These registers are used for storing segment addresses. There are four segment registers in the 8086 microprocessor - CS, DS, SS, and ES.
+
+### Bus Interface Unit (BIU)
+
+The Bus Interface Unit is responsible for managing the bus operations of the 8086 microprocessor. It consists of the following components:
+
+1. Instruction Queue: This component is used for prefetching instructions from memory.
+
+2. Instruction Pointer: This component is used for pointing to the next instruction to be executed.
+
+3. Segment Registers: This component is used for storing the segment addresses.
+
+### Execution Unit (EU)
+
+The Execution Unit is responsible for executing the instructions fetched by the Bus Interface Unit. It consists of the following components:
+
+1. Arithmetic and Logic Unit (ALU): This component is used for performing arithmetic and logic operations.
+
+2. Flags Register: This component is used for storing the status of the ALU operations.
+
+3. General Registers: This component is used for storing intermediate results.
+
+### Memory Addressing
+
+The 8086 microprocessor supports different modes of memory addressing. The following are the different modes of memory addressing:
+
+1. Register Addressing: In this mode, the data is stored in registers.
+
+2. Immediate Addressing: In this mode, the data is directly specified in the instruction.
+
+3. Direct Addressing: In this mode, the data is stored at a memory location whose address is specified in the instruction.
+
+4. Indirect Addressing: In this mode, the data is stored at a memory location whose address is stored in a register.
+
+### Memory Segmentation
+
+The 8086 microprocessor uses a memory segmentation technique to address memory. The address space is divided into segments of 64 KB each. Each segment is identified by a segment register. The following are the segment registers used in the 8086 microprocessor:
+
+1. Code Segment (CS): This register is used for storing the segment address of the code segment.
+
+2. Data Segment (DS): This register is used for storing the segment address of the data segment.
+
+3. Stack Segment (SS): This register is used for storing the segment address of the stack segment.
+
+4. Extra Segment (ES): This register is used for storing the segment address of an additional data segment.
+
+### Instruction Set
+
+The 8086 microprocessor has a complex instruction set that consists of different types of instructions. The following are the different types of instructions in the 8086 microprocessor:
+
+1. Data Transfer Instructions: These instructions are used for transferring data between registers and memory.
+
+2. Arithmetic Instructions: These instructions are used for performing arithmetic operations.
+
+3. Logical Instructions: These instructions are used for performing logical operations.
+
+4. Branch Instructions: These instructions are used for controlling the flow of execution.
+
+5. String Instructions: These instructions are used for manipulating strings.
+
+### Instruction Format
+
+The instructions in the 8086 microprocessor have a variable length. The instruction format consists of the following components:
+
+1. Opcode: This component specifies the operation to be performed.
+
+2. Operand(s): These components specify the data on which the operation is to be performed.
+
+### Interrupts
+
+The 8086 microprocessor supports both hardware and software interrupts. The following are the different types of interrupts in the 8086 microprocessor:
+
+1. Hardware Interrupts: These interrupts are generated by external devices.
+
+2. Software Interrupts: These interrupts are generated by the software.
+
+Interrupts are used for handling asynchronous

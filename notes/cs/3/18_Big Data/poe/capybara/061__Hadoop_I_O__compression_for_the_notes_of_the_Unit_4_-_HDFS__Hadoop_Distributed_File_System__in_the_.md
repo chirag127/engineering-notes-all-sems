@@ -1,0 +1,15 @@
+### Hadoop I/O: Compression for the Notes of Unit 4 - HDFS (Hadoop Distributed File System) in the Subject of Big Data
+
+Hadoop I/O is a set of tools and techniques that enable data to be read from and written to Hadoop Distributed File System (HDFS). Compression is one of the vital techniques used in Hadoop I/O to minimize the storage space and enhance the processing speed of big data. The following points explain the concept of compression in Hadoop I/O:
+
+- Hadoop provides a set of compression codecs for data compression and decompression in HDFS. These codecs can be categorized into two groups: built-in codecs and external codecs.
+- The built-in codecs are the compression algorithms that are included in the Hadoop core library. They are GzipCodec, BZip2Codec, DeflateCodec, Lz4Codec, and SnappyCodec. These codecs are supported by the Hadoop framework and can be used without any configuration.
+- External codecs are compression algorithms that are not included in the Hadoop core library. These codecs can be added to the Hadoop framework by configuring them in the Hadoop configuration files. Examples of external codecs are Zstandard, LZMA, and Zlib.
+- Compression in Hadoop I/O can be applied at three levels: block level, record level, and file level. Block level compression compresses each HDFS block, record level compression compresses each record in a file, and file level compression compresses the whole file.
+- Block level compression is the most common type of compression used in Hadoop I/O. When a block is written to HDFS, it is compressed using a codec and stored in a compressed format. When the block is read, it is decompressed on-the-fly, and the data is returned in its original form.
+- Record level compression is used when the data contains multiple records, and each record needs to be compressed individually. This type of compression is suitable for data that is processed as individual records, such as log files.
+- File level compression is used to compress the entire file. This type of compression is suitable for data that is processed in its entirety, such as image or video files.
+- In Hadoop I/O, compression can be enabled by setting the compression codec in the Hadoop configuration files. The compression codec can be set at the job level, file level or programmatic level.
+- Compression in Hadoop I/O comes with a trade-off. While compression reduces storage space and improves processing speed, it also introduces overhead in terms of CPU utilization. Therefore, the choice of compression codec should be made based on the nature of the data and the processing requirements.
+
+In conclusion, compression is an essential technique used in Hadoop I/O to optimize storage space and enhance processing speed. Hadoop provides a set of built-in and external codecs that can be used to compress data at block, record, and file levels. The compression codec can be configured at the job, file or programmatic level, and the choice of codec should be made based on the data and processing requirements.
