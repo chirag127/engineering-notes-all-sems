@@ -1,0 +1,13 @@
+### Coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Compression is a technique used to reduce the size of a file or data, without losing any important information. It is used to save storage space and to make data transfer faster.
+- There are two types of compression techniques: Lossless and Lossy compression.
+- In Lossless compression, the compressed data can be restored to its original form without any loss of information. It is mainly used for text and data files. Examples of Lossless compression techniques are Huffman coding, Lempel-Ziv coding, and Arithmetic coding.
+- In Lossy compression, some data is lost during compression which makes it impossible to restore the original data. It is mainly used for audio, video, and image files. Examples of Lossy compression techniques are JPEG, MPEG, and MP3.
+- Huffman coding is a widely used Lossless compression technique. It uses variable-length codes to compress data. The more frequent a character is in the data, the shorter its code will be. This technique is widely used for text and data files.
+- Lempel-Ziv coding is also a Lossless compression technique. It works by finding repeated patterns in the data and replacing them with a shorter code. This technique is widely used for text and data files.
+- Arithmetic coding is another Lossless compression technique. It works by converting a message into a fraction and then encoding it. This technique is widely used for text and data files.
+- JPEG is a widely used Lossy compression technique for images. It works by reducing the quality of the image by removing some data that is not visible to the human eye. This technique is widely used for images.
+- MPEG is a widely used Lossy compression technique for video. It works by reducing the quality of the video by removing some data that is not visible to the human eye. This technique is widely used for videos.
+- MP3 is a widely used Lossy compression technique for audio. It works by removing some data that is not audible to the human ear. This technique is widely used for audio files.
+- In conclusion, compression techniques are essential for saving storage space and making data transfer faster. Lossless compression techniques are mainly used for text and data files, while Lossy compression techniques are mainly used for audio, video, and image files. The most widely used compression techniques are Huffman coding, Lempel-Ziv coding, Arithmetic coding, JPEG, MPEG, and MP3.
