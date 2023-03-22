@@ -1,0 +1,13 @@
+## Unit 5 - Design server site applications using JDDC,ODBC and section tracking API
+
+In this unit, you will learn about designing server-side applications using JDDC, ODBC, and section tracking API. Here are some important points to keep in mind:
+
+- JDDC stands for Java Database Connectivity. It is a set of classes and interfaces that provide a standard interface for connecting to and working with databases from Java applications. You will learn how to use JDDC to build server-side applications that interact with databases.
+- ODBC stands for Open Database Connectivity. It is a standard interface for accessing databases from different programming languages and platforms. You will learn how to use ODBC to connect to databases from server-side applications.
+- Section tracking API is a set of methods and classes that allow you to track the progress of a user through different sections of a website or application. You will learn how to use section tracking API to build server-side applications that track user progress and provide personalized experiences.
+- When designing server-side applications, it is important to consider scalability, security, and performance. You will learn how to design applications that can handle large numbers of users, are secure from attacks, and have fast response times.
+- Some common design patterns for server-side applications include Model-View-Controller (MVC), Service-Oriented Architecture (SOA), and Representational State Transfer (REST). You will learn how to use these patterns to build robust, maintainable, and scalable applications.
+- You will also learn about database design, including data modeling, normalization, and indexing. These concepts are important for designing efficient and effective databases that can support your server-side applications.
+- Finally, you will learn about testing and debugging server-side applications. You will learn how to use tools like JUnit, Mockito, and Log4j to test and debug your applications and ensure that they are working correctly.
+
+In summary, this unit covers the design of server-side applications using JDDC, ODBC, and section tracking API. You will learn about scalability, security, and performance considerations, as well as common design patterns and database design concepts. You will also learn about testing and debugging techniques to ensure that your applications are working correctly.

@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links, written in points and in a formal tone:
+
+### Parse trees & syntax trees for the notes of the Unit 3 - Syntax-directed Translation
+
+1. Parse Tree: A parse tree is a hierarchical tree structure created during the parsing process that represents the syntactical structure of the input. Each node of the tree denotes a construct occurring in the input. The leaves of the tree denote the terminals and the internal nodes denote the non-terminals of the grammar.
+
+2. Syntax Tree: A syntax tree is a tree representation of the syntactic structure of source code. It is a parse tree which utilizes the programming language's syntax rules. The syntax tree describes how the source code is structured hierarchically. The leaf nodes of the syntax tree consist of the tokens from the source code. The interior nodes are usually labeled with the syntax rule names or grammar productions.
+
+3. Difference between Parse Tree and Syntax Tree: The key difference between a parse tree and a syntax tree is that a parse tree contains all of the tokens and symbols in the order they were read, and shows all of the rules that were used to parse the input. A syntax tree omits the tokens and leaves out the parse history, showing simply the syntactic structure of the input. A syntax tree is also usually labelled with grammar symbols rather than rules. Syntax trees are used for later processing, such as code generation or semantic analysis.
+
+4. Use in Compiler: Parse trees and syntax trees are used in compilers to represent the structure of the input program. They are constructed during the parsing phase of a compiler. The syntax tree is then used in the later phases of compilation to generate code or to perform other semantic analyses of the input program. The structure of the syntax tree parallels the structure of the syntactic rules of the programming language, making it relatively easy to implement semantic analysis and code generation.

@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Basic Priority-Inheritance and Priority-Ceiling Protocols
+
+- Priority Inheritance Protocol: To prevent priority inversion, the priority of a lower priority task that is holding a resource needed by a higher priority task is temporarily boosted to that of the higher priority task until it releases the resource. This is known as priority inheritance.
+- Priority Ceiling Protocol: Each resource is assigned a priority ceiling, which is the priority of the highest priority task that may ever request that resource. When a task acquires a resource, its priority is boosted to the ceiling of that resource if that ceiling is higher than the task's own priority. This prevents a high priority task from being blocked by a lower priority task holding a resource.
+- Both protocols can be implemented to deal with the priority inversion problem in real-time systems and ensure that higher priority tasks are not blocked by lower priority tasks holding shared resources. Priority inheritance protocol is more widely used due to its simplicity and efficiency. However, the possible uncontrolled boosting of priorities can be an issue in priority inheritance. Priority ceiling protocol avoids this issue but at the cost of determining appropriate priority ceilings for resources.
+
+The above content summarizes the key points about priority inheritance and priority ceiling protocols to deal with priority inversion in resource sharing real-time systems. The points are written in a formal tone with bullets and without any emojis or external links as instructed. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.
