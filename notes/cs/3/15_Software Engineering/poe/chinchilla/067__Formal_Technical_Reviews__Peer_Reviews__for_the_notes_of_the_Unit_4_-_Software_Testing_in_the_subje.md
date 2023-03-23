@@ -1,0 +1,14 @@
+### Formal Technical Reviews (Peer Reviews) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+Formal Technical Reviews, also known as Peer Reviews, are an essential part of the software development process. These reviews involve a group of people who examine the software product, documentation, or code to identify and correct defects, errors, and other issues. In this unit, we will discuss Formal Technical Reviews and their importance in Software Testing.
+
+Here are some points to understand Formal Technical Reviews:
+
+- Formal Technical Reviews are conducted to identify defects, errors, and other issues in the software product, documentation, or code. These reviews are an essential part of the quality assurance process, as they help to identify and correct issues before the product is released to the end-users.
+- The participants of Formal Technical Reviews are usually peers, who have expertise in the relevant area of software development. They can be developers, testers, business analysts, or other stakeholders who are familiar with the software requirements and design.
+- The goals of Formal Technical Reviews are to improve the quality of the software product, identify defects and errors early in the development process, reduce the overall cost of software development, and improve the knowledge and skills of the participants.
+- The different types of Formal Technical Reviews include Code Reviews, Design Reviews, Requirements Reviews, and Test Plan Reviews. Each type of review has its own objectives, scope, and participants, but the overall goal is to identify and correct defects and errors in the software product.
+- The steps involved in conducting Formal Technical Reviews include Planning, Preparation, Review Meeting, Rework, and Follow-up. In the Planning phase, the review objectives, scope, and participants are identified. In the Preparation phase, the product or documentation is distributed to the participants for review. In the Review Meeting phase, the participants meet to discuss the issues and defects identified during the review. In the Rework phase, the defects and issues are corrected, and in the Follow-up phase, the review results are documented and communicated to the relevant stakeholders.
+- The benefits of Formal Technical Reviews include improved software quality, reduced development costs, improved communication and collaboration among team members, increased knowledge and skills of the participants, and reduced risk of software failure.
+
+In conclusion, Formal Technical Reviews are an essential part of the software development process, and they help to identify and correct defects and errors early in the development cycle. By conducting Formal Technical Reviews, organizations can improve the quality of their software products, reduce development costs, and improve the knowledge and skills of their team members.
