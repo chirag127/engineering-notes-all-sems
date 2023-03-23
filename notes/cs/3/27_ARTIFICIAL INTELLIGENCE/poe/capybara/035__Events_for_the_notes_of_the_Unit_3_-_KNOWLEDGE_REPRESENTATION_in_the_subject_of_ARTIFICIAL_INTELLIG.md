@@ -1,0 +1,11 @@
+### Events for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+In this unit, we will explore the various events related to knowledge representation in Artificial Intelligence. Here are the key events that you should be aware of:
+
+- **The birth of Artificial Intelligence (AI)**: This event occurred in the 1950s when researchers started exploring the idea of creating machines that could think and act like humans. It led to the development of various AI techniques such as rule-based systems, decision trees, and neural networks.
+- **The introduction of knowledge-based systems**: In the 1970s, researchers started developing knowledge-based systems that could solve complex problems by representing knowledge in a structured form. This led to the development of expert systems that could provide advice and make decisions based on the knowledge they had acquired.
+- **The emergence of ontologies**: In the 1990s, ontologies emerged as a popular way of representing knowledge in AI. An ontology is a formal representation of a domain that defines the concepts and relationships within the domain. They are used to represent knowledge in a structured form that can be easily understood and processed by machines.
+- **The rise of machine learning**: In the 2000s, machine learning techniques started gaining popularity in AI. Machine learning algorithms use statistical techniques to learn patterns in data and make predictions. They are used to represent knowledge in an implicit form that can be learned from data.
+- **The development of natural language processing (NLP)**: In recent years, NLP has emerged as a popular way of representing knowledge in AI. NLP techniques are used to analyze and understand human language and represent it in a structured form that can be processed by machines. NLP is used in various applications such as chatbots, voice assistants, and language translation.
+
+By understanding these key events in the history of knowledge representation in AI, you will be better equipped to understand the current state of the field and its future directions.
