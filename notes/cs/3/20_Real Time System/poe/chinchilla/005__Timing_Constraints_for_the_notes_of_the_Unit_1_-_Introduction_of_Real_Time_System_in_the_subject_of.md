@@ -1,0 +1,14 @@
+### Timing Constraints for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+Real-time systems are designed to produce results within a certain time frame, and timing constraints play a crucial role in ensuring that these systems operate effectively. In this unit, we will study the timing constraints that are essential for real-time systems to function efficiently. Here are some key points to keep in mind:
+
+- Timing constraints are critical in real-time systems, as they ensure that the system produces results within a specified timeframe. If the timing constraints are not met, the system may produce incorrect results or fail to produce any results at all.
+- Real-time systems often have hard and soft deadlines. Hard deadlines are absolute and must be met, while soft deadlines are flexible and can be missed occasionally, as long as they are met most of the time.
+- Timing constraints can be classified into two categories: temporal constraints and logical constraints. Temporal constraints refer to the timing requirements of the system, while logical constraints specify the sequence of events that must occur in the system.
+- There are several types of temporal constraints, including release time, deadline, response time, and jitter. Release time is the time at which a task becomes available for processing, while deadline is the time by which the task must be completed. Response time is the time taken by the system to produce a response to an input, while jitter is the variation in the time taken to produce a response.
+- Logical constraints ensure that events occur in the correct sequence. For example, in a real-time system that controls a robot arm, the logical constraint would be that the arm must move to a certain position before it can pick up an object.
+- Timing analysis is a crucial aspect of real-time systems. It involves analyzing the timing constraints of the system to ensure that they are being met. This can be done using techniques such as worst-case execution time analysis and schedulability analysis.
+- Real-time systems often use scheduling algorithms to ensure that tasks are executed in a timely manner. Some common scheduling algorithms include rate monotonic scheduling, earliest deadline first scheduling, and deadline monotonic scheduling.
+- In addition to timing constraints, real-time systems must also consider other factors such as reliability, safety, and security.
+
+In summary, timing constraints are critical in real-time systems, and understanding them is essential for ensuring that these systems operate effectively. By analyzing timing constraints and using scheduling algorithms, real-time systems can produce results within the required time frame and meet their deadlines.

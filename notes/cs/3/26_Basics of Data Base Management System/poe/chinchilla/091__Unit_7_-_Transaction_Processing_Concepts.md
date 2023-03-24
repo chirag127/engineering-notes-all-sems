@@ -1,0 +1,17 @@
+## Unit 7 - Transaction Processing Concepts
+
+Transaction processing is a critical concept in the field of computer science and information technology. It refers to the process of executing a series of operations as a single unit of work. The goal of transaction processing is to ensure that all operations are executed in a consistent and reliable manner, even in the face of system failures or other disruptions.
+
+The following points cover some of the key concepts related to transaction processing:
+
+- A transaction is a logical unit of work that involves a series of operations on a database or other data store. Transactions can be initiated by users or application programs, and they typically involve a set of database operations such as reads, writes, and updates.
+- ACID is an acronym that stands for Atomicity, Consistency, Isolation, and Durability. These four characteristics are considered essential for ensuring the reliability and consistency of transaction processing systems.
+- Atomicity refers to the property of a transaction that ensures that all operations within the transaction are treated as a single, indivisible unit of work. If any part of the transaction fails, the entire transaction is rolled back and the system returns to its previous state.
+- Consistency refers to the property of a transaction that ensures that the execution of the transaction brings the database from one valid state to another. This means that the constraints and rules associated with the database are not violated during the execution of the transaction.
+- Isolation refers to the property of a transaction that ensures that concurrent transactions do not interfere with each other. This means that each transaction executes independently of other transactions, and the results of one transaction are not visible to other transactions until the transaction is committed.
+- Durability refers to the property of a transaction that ensures that once a transaction has been committed, its effects are permanent and will survive any subsequent system failures or disruptions.
+- A transaction manager is a software component that manages the execution of transactions in a transaction processing system. The transaction manager is responsible for ensuring that transactions are executed according to the ACID properties, and for managing the recovery of the system in the event of failures or disruptions.
+- Two-phase commit is a protocol used by transaction managers to ensure that distributed transactions are executed atomically. The protocol involves two phases: a prepare phase, in which participants in the transaction prepare to commit, and a commit phase, in which the transaction is either committed or rolled back.
+- Recovery is the process of restoring a transaction processing system to a consistent state after a failure or disruption. Recovery typically involves replaying or undoing transactions that were in progress at the time of the failure, and restoring the system to its previous state.
+
+In summary, transaction processing is a fundamental concept in database management and information technology. Understanding the properties and characteristics of transactions, as well as the role of the transaction manager and recovery protocols, is essential for building reliable and consistent transaction processing systems.

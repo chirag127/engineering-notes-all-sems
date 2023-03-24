@@ -1,0 +1,12 @@
+### Decision surface for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+
+Regression is a powerful technique in Machine Learning that helps us to predict the value of a continuous variable based on the input variables. In regression analysis, we try to fit a function that best describes the relationship between the input variables and the output variable. The decision surface is a term used to describe the boundary that separates the regions of the feature space where different classes are assigned. In this context, the decision surface for regression analysis is the curve or surface that separates the regions of the feature space where different values of the output variable are assigned. Here are some important points about the decision surface in regression analysis:
+
+- The decision surface is a mathematical function that maps the input variables to the output variable. The function is usually represented as a curve or surface.
+- The decision surface is determined by the parameters of the regression model. These parameters are estimated from the training data using different optimization algorithms.
+- The decision surface can be linear or nonlinear. In linear regression, the decision surface is a straight line, while in nonlinear regression, the decision surface can be a curve or surface.
+- The decision surface can be used to make predictions on new input data. A new input data point is assigned a value of the output variable based on its location relative to the decision surface.
+- The decision surface can be visualized in two or three dimensions. In two dimensions, the decision surface is a curve, while in three dimensions, the decision surface is a surface.
+- The decision surface can be used to evaluate the performance of the regression model. A good decision surface should separate the regions of the feature space where different values of the output variable are assigned, and should generalize well to new input data.
+
+In conclusion, the decision surface is an important concept in regression analysis. It helps us to understand the relationship between the input variables and the output variable, and to make predictions on new input data. By understanding the decision surface, we can build better regression models that generalize well to new data.

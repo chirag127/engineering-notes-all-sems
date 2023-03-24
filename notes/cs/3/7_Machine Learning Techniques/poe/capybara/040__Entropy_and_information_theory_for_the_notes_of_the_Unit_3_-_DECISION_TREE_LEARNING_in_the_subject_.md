@@ -1,0 +1,9 @@
+### Entropy and Information Theory
+
+In the field of Machine Learning, Decision Tree Learning is a widely used technique. It is a type of supervised learning algorithm that is used for classification and regression. Decision Trees are constructed by recursively partitioning the dataset with the goal of maximizing the information gain at each step. In order to understand Decision Tree Learning, it is important to have a good understanding of Entropy and Information Theory. Here are some key points to keep in mind:
+
+- Entropy is a measure of the randomness or uncertainty of a system. In the context of Decision Tree Learning, Entropy is used to measure the impurity of a set of examples. If a set is completely pure, then the Entropy is 0. If a set is evenly split between different classes, then the Entropy is at its maximum.
+- Information gain is the measure of the reduction in entropy that is achieved by splitting a set of examples based on a particular attribute. In other words, it measures how much information is gained by splitting the dataset based on a particular attribute.
+- The decision tree algorithm seeks to maximize information gain at each step of the tree building process. This means that it tries to find the attribute that will split the dataset in a way that maximizes the reduction in entropy.
+
+In summary, Entropy and Information Theory are important concepts in the field of Decision Tree Learning. They are used to measure the impurity of a set of examples and to determine the best attribute to split the dataset. Understanding these concepts is crucial for anyone looking to master Decision Tree Learning and Machine Learning in general.

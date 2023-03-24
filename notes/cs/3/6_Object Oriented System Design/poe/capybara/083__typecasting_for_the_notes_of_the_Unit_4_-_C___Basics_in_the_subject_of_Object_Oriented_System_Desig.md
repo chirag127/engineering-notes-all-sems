@@ -1,0 +1,11 @@
+### Typecasting
+
+Typecasting is the process of converting a value of one data type to another data type. In C++, there are two types of typecasting: implicit typecasting and explicit typecasting. Here are some important points to keep in mind about typecasting:
+
+- Implicit typecasting, also known as automatic type promotion, occurs when the compiler automatically converts one data type to another data type. This happens when operators of different data types are used together in an expression. For example, if you add an integer and a float, the compiler will promote the integer to a float before performing the addition operation.
+- Explicit typecasting, also known as type conversion, occurs when the programmer explicitly converts one data type to another data type. This is done by using special operators called casting operators. There are three types of casting operators in C++: static_cast, dynamic_cast, and reinterpret_cast.
+- The static_cast operator is used to convert one data type to another data type in a safe manner. It can be used to convert between built-in data types, as well as between user-defined data types that have a common ancestor. For example, you can use static_cast to convert an int to a double, or a pointer to a base class to a pointer to a derived class.
+- The dynamic_cast operator is used to convert between pointers or references to objects of related classes at runtime. It can only be used with polymorphic classes that have at least one virtual function. If the conversion is not possible, dynamic_cast returns a null pointer or throws a bad_cast exception.
+- The reinterpret_cast operator is used to convert one data type to another data type in an unsafe and implementation-dependent manner. It should only be used when there is no other way to achieve the desired conversion. For example, you can use reinterpret_cast to convert a pointer to an int to a pointer to a char.
+
+In conclusion, typecasting is an important concept in C++ that allows you to convert values of one data type to another data type. It can be done implicitly or explicitly using different casting operators. However, it is important to use typecasting carefully and to understand the potential risks and limitations of each typecasting operator.
