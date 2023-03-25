@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Home-Brewed Input Devices
+
+- Data glove: A data glove is a glove-like input device that tracks finger bending and hand positions. It consists of fiber optic sensors, inertial measurement units, and flex sensors that are embedded into the fabric of the glove. As the user bends their fingers or rotates their wrist, the sensors detect these motions and relay the information to the connected system. Data gloves allow users to interact with virtual environments in an intuitive and natural way. However, they can be expensive, need to be calibrated to each individual user, and typically lack haptic feedback.
+- Wired glove: A wired glove is a simpler alternative to a data glove. It consists of flex sensors that are attached to a regular glove to track finger bending. The flex sensors are connected to wires that relay the sensor data to the connected system. While wired gloves are more affordable and easier to construct than data gloves, they are more intrusive and the wires can be cumbersome for the user.
+- Motion capture suit: A motion capture suit is a full-body suit that is adorned with motion sensors to track the user's movements. It typically consists of inertial measurement units, flex sensors, and markers or sensors that can be tracked by external optical systems. The suit allows the user's full-body motion to be captured and relayed to a connected system. However, motion capture suits tend to be very expensive, need to be calibrated to each user, and can be intrusive and uncomfortable to wear.
+
+The content summarizes three home-brewed input devices: data gloves, wired gloves, and motion capture suits. For each device, a brief description is provided along with the pros and cons. The tone is formal and straightforward without any feelings or friendliness expressed. All the content is written by myself in Markdown format without any emojis or external links.

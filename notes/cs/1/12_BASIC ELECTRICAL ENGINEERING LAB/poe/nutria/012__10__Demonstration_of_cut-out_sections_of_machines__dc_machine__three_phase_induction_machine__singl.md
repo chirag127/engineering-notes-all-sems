@@ -1,0 +1,8 @@
+
+
+##### 10. Demonstration of cut-out sections of machines: 
+
+* DC Machine: A DC Machine is an electrical machine that converts electrical energy into mechanical energy. It consists of two main parts: the stator and the rotor. The stator consists of a field winding and a commutator, while the rotor consists of an armature winding. The armature winding is connected to the commutator, which is responsible for reversing the direction of the current in the armature winding.
+* Three Phase Induction Machine: A three phase induction machine is a type of electrical machine that uses three-phase alternating current to produce a rotating magnetic field. It consists of a stator, which is made up of three windings, and a rotor, which is made up of a single winding. The stator windings are connected to a three-phase power supply, while the rotor winding is connected to a load. 
+* Single-Phase Induction Machine: A single-phase induction machine is an electrical machine that uses a single-phase alternating current to produce a rotating magnetic field. It consists of a stator, which is made up of two windings, and a rotor, which is made up of a single winding. The stator windings are connected to a single-phase power supply, while the rotor winding is connected to a load. 
+* Synchronous Machine: A synchronous machine is an electrical machine that produces a rotating magnetic field in synchronism with the frequency of the power supply. It consists of a stator, which is made up of two windings, and a rotor, which is made up of a single winding. The stator windings are connected to a three-phase power supply, while the rotor winding is connected to a load.
