@@ -1,0 +1,13 @@
+### Back Propagation Learning Methods for the Notes of Unit 2 - Neural Networks-II (Back Propagation Networks) in the Subject of Application of Soft Computing
+
+Back propagation learning is one of the most widely used techniques in the field of neural networks for supervised learning. It is a common method for training artificial neural networks used in various applications such as image recognition, voice recognition, and natural language processing. Here are some important points to understand the back propagation learning method:
+
+- Back propagation is a supervised learning method, which means that it requires a set of input-output pairs for training the neural network. 
+- The basic idea behind back propagation is to adjust the weights of the connections between neurons in the neural network in such a way that the difference between the actual output and the desired output is minimized. 
+- The back propagation algorithm consists of two phases: the forward phase and the backward phase. In the forward phase, the input is fed into the neural network, and the output is computed. In the backward phase, the error between the actual output and the desired output is propagated back through the network, and the weights are updated accordingly. 
+- The back propagation algorithm uses the gradient descent method to adjust the weights. The gradient descent method is a popular optimization algorithm used to minimize the error function. 
+- The back propagation algorithm can be prone to overfitting, which means that the neural network may perform well on the training set, but not on the test set. To avoid overfitting, techniques such as regularization and early stopping can be used. 
+- There are several variations of the back propagation algorithm, such as the resilient back propagation (Rprop) and the conjugate gradient back propagation (CGprop) algorithms. These variations differ in the way they update the weights of the neural network. 
+- Back propagation learning has been successfully applied in various real-world applications, such as speech recognition, image recognition, and financial forecasting. 
+
+In conclusion, the back propagation learning method is an important technique for training artificial neural networks in various applications. By understanding the basic principles of back propagation, it is possible to develop and train neural networks that can perform complex tasks with high accuracy.
