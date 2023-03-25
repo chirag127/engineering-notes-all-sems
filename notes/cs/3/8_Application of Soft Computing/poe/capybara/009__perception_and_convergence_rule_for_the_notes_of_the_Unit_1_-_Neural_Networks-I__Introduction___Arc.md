@@ -1,0 +1,12 @@
+### Perception and Convergence Rule for the Notes of Unit 1 - Neural Networks-I (Introduction & Architecture) in the Subject of Application of Soft Computing
+
+Neural Networks are an important part of Soft Computing that help computers learn and adapt to new situations. Here are some important points to keep in mind when studying the perception and convergence rule for Unit 1:
+
+- Perception is the process by which a network receives input and processes it to produce an output. It involves the activation of neurons in the network based on the input data received.
+- The convergence rule is used to train a neural network to produce the correct output by adjusting the weights of the connections between neurons. This is done through the use of an error function that measures the difference between the actual output and the desired output.
+- One of the main convergence rules used in neural networks is the delta rule, which involves adjusting the weights of the connections based on the error signal and the input signal. The delta rule is used in supervised learning, where the network is trained using a set of input-output pairs.
+- Another important convergence rule is the perceptron learning rule, which is used for binary classification problems where the output is either a 0 or a 1. The perceptron learning rule involves adjusting the weights of the connections based on the error signal and the input signal, similar to the delta rule.
+- In unsupervised learning, where the network is not given a set of input-output pairs, the Hebbian learning rule is often used. The Hebbian learning rule involves adjusting the weights of the connections based on the correlation between the input signals and the output signals.
+- It is important to note that the convergence rule used in a neural network can have a significant impact on its performance and accuracy. Choosing the right convergence rule for a given problem is therefore an important decision that must be made by the network designer.
+
+In conclusion, understanding the perception and convergence rule is essential when studying neural networks in Soft Computing. By keeping these points in mind, students can gain a better understanding of how neural networks work and how to design them for various applications.
