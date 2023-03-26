@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### YA TRAP for the notes of the Unit 2 - RFID FALSE AUTHENTICATIONS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- RFID tags can be cloned or spoofed using inexpensive devices. This allows an attacker to emulate a genuine RFID tag and access resources or accounts that require RFID authentication.
+- Relay attacks are a type of man-in-the-middle attack where an attacker intercepts the communication between an RFID reader and a tag to get access to data or resources. The attacker uses a device to relay the signals from the reader to the tag and back to fool them into thinking they are directly communicating with each other.
+- Tag numbering attacks involve an attacker tracking the unique ID numbers of RFID tags to deduce patterns and generate probable IDs for cloning. Due to the sequential nature of how tags are numbered by manufacturers, an attacker can infer the probable IDs in a set of tags.
+- RFID jamming attacks involve using a device to jam the radio frequencies that RFID tags use to communicate with readers. This blocks the RFID system and can be used to prevent legitimate users from accessing accounts or resources. The jamming device overwhelms the receivers of RFID readers with noise to drown out communications from tags.
+- Secure RFID systems use measures like encryption, authentication, kill commands, and pseudorandom number generation to mitigate vulnerabilities and make RFID attacks more difficult to execute. However, no system is foolproof and new research is continually identifying additional attack vectors even in secured RFID implementations.

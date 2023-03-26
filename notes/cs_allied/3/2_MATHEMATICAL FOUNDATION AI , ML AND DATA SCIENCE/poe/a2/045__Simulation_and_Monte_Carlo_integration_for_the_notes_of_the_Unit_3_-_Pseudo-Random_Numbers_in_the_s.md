@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Simulation and Monte Carlo integration for the notes of the Unit 3 - Pseudo-Random Numbers in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+1. Simulation: Simulation is a technique to solve a complex problem by creating a simpler model of a system and studying its behavior. It is used when an analytical solution is not feasible or very difficult to obtain. Simulation uses a computer to implement the model and analyze the results.
+2. Monte Carlo integration: Monte Carlo integration is a technique to compute the numerical approximation of a definite integral using random sampling. It generates random samples from the function within the given integration range and approximates the integral by calculating the average of the function values at these points. The more samples we use, the more accurate the approximation becomes.
+3. Pseudo-random numbers: Pseudo-random number generators are algorithms that generate numbers with random-like properties. The sequence of numbers produced by a pseudo-random number generator appears random but is completely determined by an initial value called seed. Pseudo-random numbers are useful for simulation and Monte Carlo methods as they are cheaper to generate than truly random numbers and can produce longer sequences. However, they may exhibit unwanted patterns that can introduce bias.
+
+The points are written in a formal tone with no emojis or external links as instructed. Please let me know if you would like me to modify or expand the content in any way.
