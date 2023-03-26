@@ -1,0 +1,13 @@
+### WSD using Supervised for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+In the field of Natural Language Processing, Word Sense Disambiguation (WSD) is an important task that involves identifying the correct sense of a word in a given context. In this unit, we will focus on WSD using supervised learning techniques. Here are some key points to keep in mind:
+
+- Supervised learning is a machine learning approach that involves training a model on labeled data. In the context of WSD, this means providing the model with a set of examples where the correct sense of a word is known.
+- One popular approach to WSD using supervised learning is to use a classifier. A classifier is a model that learns to predict the correct sense of a word based on various features of the context in which the word appears.
+- In order to use a classifier for WSD, we need to first define the features that it will use to make its predictions. These features may include information about the surrounding words, the part of speech of the word in question, and other linguistic features.
+- Once we have defined the features, we can train the classifier on a labeled dataset. This involves feeding the classifier many examples of words in context, along with their correct senses, and allowing it to learn from these examples.
+- After the classifier has been trained, we can use it to predict the sense of a word in new, unseen contexts. This involves feeding the classifier the features of the context in which the word appears, and allowing it to make a prediction based on these features.
+- It is important to evaluate the performance of the classifier on a held-out test set, in order to ensure that it is not overfitting to the training data. Common evaluation metrics for WSD include accuracy, precision, recall, and F1-score.
+- While supervised learning approaches can be effective for WSD, they do require a large amount of labeled data in order to train a high-quality model. Additionally, they may struggle with out-of-vocabulary words or words that have multiple senses that are not well represented in the training data.
+
+Overall, WSD using supervised learning is an important technique for disambiguating the meaning of words in natural language. By training a classifier on labeled data, we can build models that are capable of accurately predicting the correct sense of a word in a given context.

@@ -1,0 +1,12 @@
+### Channel Structure for the Notes of Unit 1 - Introduction, Issues in Mobile Computing, Overview of Wireless Telephony: Cellular Concept, GSM in Mobile Computing
+
+The channel structure is an important concept in mobile computing that allows for the transmission of information between mobile devices and networks. Here are some key points to understand about channel structure in the context of Unit 1:
+
+- Mobile devices communicate with cellular networks using a variety of channels, including voice channels, data channels, and control channels.
+- Voice channels are used for transmitting voice calls, while data channels are used for transmitting data such as text messages and internet data. Control channels are used for managing connections between mobile devices and the network.
+- The cellular concept is the basic architecture of wireless telephony, which involves dividing a geographic area into cells, each of which is served by a base station. This allows for efficient use of radio frequencies and enables mobile devices to move seamlessly between cells.
+- The Global System for Mobile Communications (GSM) is a standard used for mobile communications in many parts of the world. It uses a combination of time division multiple access (TDMA) and frequency division multiple access (FDMA) to transmit voice and data over the airwaves.
+- In GSM, voice and data are transmitted in separate channels, with each channel consisting of eight time slots. This allows for multiple users to share the same frequency band, increasing the efficiency of the network.
+- The channel structure in GSM also includes control channels, which are used for managing connections between mobile devices and the network. These channels include the broadcast control channel (BCCH), which broadcasts information about the network to mobile devices, and the paging channel (PCH), which is used to notify mobile devices of incoming calls or messages.
+
+Understanding the channel structure is essential for anyone studying mobile computing, as it forms the basis for how mobile devices communicate with cellular networks. By learning about the different types of channels and how they are used in the cellular concept and GSM, students can gain a solid foundation in the fundamentals of mobile computing.

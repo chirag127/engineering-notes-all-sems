@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links as per your instructions:
+
+### Building Semantic Web applications with social network features for the notes of the Unit 4 - Developing Social-Semantic Applications in the subject of SOCIAL NETWORK ANALYTICS
+
+1. Semantic Web: The Semantic Web is an extension of the World Wide Web that enables people to create data stores on the web, build ontologies, and perform useful inferences on the data. It introduces semantics to the web and allows machines to understand the meaning of information on the web better than traditional web techniques.
+2. Ontology: An ontology is a formal representation of knowledge as a set of concepts within a domain and the relationships between those concepts. It is used to reason about the entities within that domain and may be used to describe the domain.
+3. RDF: The Resource Description Framework (RDF) is a framework for representing information in the Web. It is a directed, labeled graph data format for representing knowledge in the Web. RDF allows structured and semi-structured data to be shared across different applications.
+4. SPARQL: SPARQL is a query language for RDF. It is used to retrieve and manipulate data stored in RDF format. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware.
+5. Building social-semantic applications: Social-semantic applications combine semantic web technologies like ontologies and RDF with social networking features. This allows building applications that can understand the meaning and relationships between information and also incorporate social interactions between users. Some examples are semantic wikis, semantic blogs, and semantic social networks.
+
+The content summarizes some key concepts related to semantic web and building semantic web applications with social features. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.
