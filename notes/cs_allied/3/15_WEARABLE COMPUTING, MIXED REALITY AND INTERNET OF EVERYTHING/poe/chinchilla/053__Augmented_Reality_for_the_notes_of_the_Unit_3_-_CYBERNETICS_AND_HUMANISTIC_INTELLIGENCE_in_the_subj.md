@@ -1,0 +1,15 @@
+### Augmented Reality for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+Augmented Reality (AR) is a technology that overlays digital information on top of the real world. AR can be experienced through a variety of devices such as smartphones, tablets, and wearable devices like AR glasses. In the context of Wearable Computing, Mixed Reality, and Internet of Everything, AR has the potential to revolutionize the way we interact with the world and each other. 
+
+Here are some points to understand Augmented Reality better:
+
+- AR enhances the user's perception of reality by overlaying digital information on top of the real world. This digital information can be in the form of text, graphics, video, or sound.
+- AR has a wide range of applications in various industries such as entertainment, education, healthcare, manufacturing, and retail. For example, AR can be used to create immersive educational experiences, visualize complex medical procedures, and enhance shopping experiences.
+- AR can be experienced through a variety of devices such as smartphones, tablets, and AR glasses. AR glasses are wearable devices that provide a hands-free AR experience and have the potential to replace smartphones in the future.
+- AR glasses are equipped with sensors such as cameras, accelerometers, and gyroscopes, which enable them to track the user's movements and the real-world environment. This tracking information is used to overlay digital information on top of the real world in a way that is aligned with the user's perspective.
+- AR glasses are still in the early stages of development and face several challenges such as battery life, field of view, and social acceptance. However, with the advancement of technology and the increasing demand for AR, it is expected that AR glasses will become more advanced and widely adopted in the future.
+- AR has the potential to revolutionize the way we interact with the world and each other. It can create new opportunities for communication, collaboration, and creativity. However, it also raises ethical and privacy concerns such as the misuse of personal information and the potential for addiction.
+- To create AR experiences, developers use AR software development kits (SDKs) such as ARKit for iOS and ARCore for Android. These SDKs provide tools and resources for creating AR content and integrating it with the real world.
+
+In conclusion, Augmented Reality is a technology that has the potential to revolutionize the way we interact with the world and each other. It has a wide range of applications in various industries and can be experienced through a variety of devices such as smartphones, tablets, and AR glasses. While AR glasses are still in the early stages of development, it is expected that they will become more advanced and widely adopted in the future. However, AR also raises ethical and privacy concerns that need to be addressed. Overall, AR is an exciting technology that has the potential to transform the world around us.

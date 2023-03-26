@@ -1,0 +1,16 @@
+### Dependency Grammar
+
+Dependency Grammar is a type of syntactic analysis that focuses on the relationships between words in a sentence. It is based on the notion of dependency, which refers to the way that words in a sentence are connected to each other through their syntactic roles.
+
+Here are some key concepts and principles of Dependency Grammar:
+
+- **Dependency**: Dependency is the fundamental concept of Dependency Grammar. It refers to the way that words in a sentence are connected to each other through their syntactic roles. In Dependency Grammar, each word is considered to be a node in a tree structure, and the relationships between the nodes are represented by labeled arcs.
+- **Dependency Relationship**: The relationship between two words in a sentence is represented by a labeled arc. The label on the arc indicates the syntactic relationship between the two words. For example, the arc between the verb "ate" and the noun "apple" in the sentence "John ate an apple" would be labeled "obj" to indicate that "apple" is the direct object of the verb "ate".
+- **Dependency Tree**: A dependency tree is a tree structure that represents the dependencies between the words in a sentence. Each node in the tree represents a word, and each arc represents a dependency relationship between two words. The root of the tree is usually the main verb of the sentence.
+- **Dependency Parsing**: Dependency parsing is the process of analyzing a sentence and building a dependency tree that represents the syntactic structure of the sentence. Dependency parsing is a key component of many natural language processing tasks, such as machine translation and information extraction.
+- **Head Word**: In Dependency Grammar, each phrase has a head word, which is the word that determines the syntactic category of the phrase. For example, in the phrase "the big red ball", the head word is "ball", which is a noun. The head word is usually the word that is most important for determining the meaning of the phrase.
+- **Dependent Word**: In Dependency Grammar, a dependent word is a word that depends on another word in the sentence. For example, in the phrase "the big red ball", the words "the", "big", and "red" are all dependents of the head word "ball".
+- **Syntactic Roles**: In Dependency Grammar, each word in a sentence is assigned a syntactic role based on its relationship to other words in the sentence. Some common syntactic roles include subject, object, and modifier.
+- **Arc Direction**: In Dependency Grammar, the direction of the arcs in the dependency tree indicates the direction of the dependency relationship between the two words. For example, in the sentence "John ate an apple", the arc between "ate" and "John" would be directed from "ate" to "John" to indicate that "John" is the subject of the verb "ate".
+
+Dependency Grammar is a powerful framework for analyzing the syntactic structure of sentences. By focusing on the relationships between words, rather than on rigid phrase structures, Dependency Grammar can capture a wide range of syntactic phenomena and is well-suited to many natural language processing tasks.

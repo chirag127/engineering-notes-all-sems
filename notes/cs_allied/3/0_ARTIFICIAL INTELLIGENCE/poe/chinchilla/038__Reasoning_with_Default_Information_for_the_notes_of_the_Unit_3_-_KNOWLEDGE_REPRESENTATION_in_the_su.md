@@ -1,0 +1,11 @@
+### Reasoning with Default Information
+
+In artificial intelligence, reasoning with default information is a common approach to deal with incomplete or uncertain knowledge. Default information refers to assumptions or generalizations that are typically accepted unless evidence to the contrary is presented. Here are some key points about reasoning with default information:
+
+- Default logic is a formalism for reasoning with default information. It allows for the representation of default rules, which are statements of the form "typically, if A then B". For example, a default rule might be "typically, if a bird has wings, it can fly".
+- In default logic, a default rule is used to derive a conclusion unless there is evidence to the contrary. For example, if we know that Tweety is a bird and we know that Tweety cannot fly, we can conclude that Tweety must be an exception to the default rule that birds can fly.
+- Default logic also allows for the representation of exceptions to default rules. An exception is a statement that contradicts a default rule. For example, the statement "Tweety cannot fly" is an exception to the default rule "typically, if a bird has wings, it can fly".
+- Circumscription is another formalism for reasoning with default information. It involves limiting the possible interpretations of a statement in order to make reasoning more efficient. For example, if we have a default rule that "typically, if a bird has wings, it can fly", we might circumscribe the interpretation of "bird" to exclude penguins, which have wings but cannot fly.
+- Default reasoning is useful for dealing with uncertain or incomplete knowledge, such as in diagnostic systems or legal reasoning. It allows for the representation of generalizations and assumptions that can be overridden by specific evidence.
+
+Overall, reasoning with default information is a valuable tool for dealing with incomplete or uncertain knowledge in artificial intelligence. By representing default rules and exceptions, we can make reasonable inferences even when we do not have complete information.

@@ -1,0 +1,11 @@
+### Language for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+When taking notes on the topic of SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING, it is important to use a clear and concise language that accurately conveys the concepts and ideas being discussed. Here are some guidelines to follow for effective note-taking:
+
+- Use technical terms appropriately and accurately. It is important to understand the meanings of technical terms and use them correctly in your notes. This will help you to better understand the concepts being discussed and to communicate your understanding to others.
+- Define unfamiliar terms. If you come across a technical term that you are unfamiliar with, take the time to define it in your notes. This will help you to better understand its meaning and to remember it later on.
+- Use abbreviations and acronyms sparingly. While abbreviations and acronyms can be useful for shorthand, they can also be confusing if overused. Only use them when they are widely recognized and when they will not impede understanding.
+- Summarize key points. When taking notes, focus on summarizing the key points of the discussion. This will help you to remember the most important information and to better understand the overall structure of the topic.
+- Use diagrams and illustrations. Visual aids can be very helpful for understanding complex concepts. Use diagrams, illustrations, and other visual aids to help you remember key information and to better understand the relationships between different parts of the topic.
+- Be organized. When taking notes, it is important to be organized and to structure your notes in a clear and logical way. Use headings, subheadings, and bullet points to help you organize your thoughts and to make your notes easier to read and understand.
+- Be concise. Finally, when taking notes, it is important to be concise and to focus on the most important information. Avoid including unnecessary details or information that is not directly relevant to the topic at hand. This will help you to better understand the topic and to remember the most important information.

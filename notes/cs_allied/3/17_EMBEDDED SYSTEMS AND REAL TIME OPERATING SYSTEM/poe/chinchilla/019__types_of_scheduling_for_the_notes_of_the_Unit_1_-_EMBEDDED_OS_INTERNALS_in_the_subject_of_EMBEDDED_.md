@@ -1,0 +1,15 @@
+### Types of Scheduling
+
+Scheduling is an essential part of any operating system, including embedded operating systems. It is the process of determining which task or process should execute next on the CPU. There are several types of scheduling algorithms used in embedded operating systems, each with its own advantages and disadvantages. Here are the most common types of scheduling:
+
+1. **Round Robin Scheduling:** This is a simple scheduling algorithm that works by assigning a fixed time slice to each process in a circular order. Once a process has completed its time slice, it is moved to the end of the queue, and the next process is scheduled to run. Round-robin scheduling ensures that each process gets an equal share of the CPU time, but it may not be suitable for real-time systems that require a higher level of responsiveness.
+
+2. **Priority-based Scheduling:** In this type of scheduling algorithm, each process is assigned a priority level based on its importance or urgency. The process with the highest priority is scheduled to run first, and if two or more processes have the same priority, round-robin scheduling is used to determine the order. Priority-based scheduling is suitable for real-time systems that require a high level of responsiveness and can ensure that critical processes get executed first.
+
+3. **Deadline-based Scheduling:** This type of scheduling algorithm is used in real-time systems that require strict deadlines for task completion. Each process is assigned a deadline by which it must complete, and the scheduler ensures that the process is executed in a way that meets the deadline. This type of scheduling algorithm is suitable for time-critical applications such as flight control systems, medical devices, and industrial automation systems.
+
+4. **Earliest Deadline First (EDF) Scheduling:** EDF is a dynamic priority scheduling algorithm that assigns priorities based on the deadline of each task. The process with the earliest deadline is given the highest priority and is scheduled to run first. EDF scheduling is suitable for real-time systems that require a high level of responsiveness and can ensure that critical processes are executed in a timely manner.
+
+5. **Rate Monotonic Scheduling (RMS):** RMS is a priority-based scheduling algorithm that assigns priorities based on the period of each task. The process with the shortest period is given the highest priority, and the process with the longest period is given the lowest priority. RMS scheduling is suitable for periodic tasks and can ensure that critical processes are executed in a timely manner.
+
+In conclusion, choosing the right scheduling algorithm is crucial for the proper functioning of an embedded operating system. The choice of scheduling algorithm depends on the specific requirements of the system, such as responsiveness, time-criticality, and the nature of the tasks or processes to be executed.

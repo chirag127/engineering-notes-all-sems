@@ -1,0 +1,14 @@
+### Kernel for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+The kernel is the core component of an operating system that manages system resources, provides services to applications, and serves as an interface between hardware and software components. In embedded systems, the kernel is typically designed to be lightweight and efficient to meet the real-time requirements of the system. Here are some key points about the kernel in embedded systems:
+
+- The kernel provides memory management services, including virtual memory and memory protection, to ensure that applications do not interfere with each other or with the operating system itself.
+- The kernel also manages system processes and threads, including scheduling, synchronization, and communication between processes.
+- Interrupt handling is a critical function of the kernel in embedded systems. The kernel must respond quickly to interrupts from hardware devices and ensure that they are handled in a timely and efficient manner.
+- Device drivers are an important part of the kernel, as they provide an interface between hardware devices and the rest of the operating system. The kernel must be able to manage device drivers and ensure that they are properly installed, configured, and updated.
+- Real-time operating systems require a kernel that is designed specifically to meet the real-time requirements of the system. This means that the kernel must be able to respond quickly and predictably to events and interrupts, and must be able to manage system resources in a way that ensures that real-time deadlines are met.
+- The kernel is responsible for managing system resources, including CPU time, memory, and I/O bandwidth. This requires careful resource allocation and scheduling to ensure that all applications and system processes receive the resources they need to function properly.
+- Security is also a critical concern for the kernel in embedded systems. The kernel must be able to enforce access controls and ensure that applications do not have access to system resources that they should not have.
+- Finally, the kernel must be designed to be modular and extensible, to allow for the addition of new features and functionality as needed. This requires careful design and implementation to ensure that the kernel remains stable and reliable, even as new features are added.
+
+In summary, the kernel is a critical component of any operating system, and is particularly important in embedded systems where real-time requirements and resource constraints are paramount. The kernel must be carefully designed and implemented to ensure that it provides the necessary services and functionality to meet the needs of the system, while remaining lightweight, efficient, and reliable.

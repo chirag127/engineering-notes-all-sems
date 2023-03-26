@@ -1,0 +1,10 @@
+### Stochastic
+
+Stochastic refers to a process that involves randomness or probability. In the context of Natural Language Processing, stochastic models are used to model language and its behavior. Here are some important points to understand about stochastic models in NLP:
+
+- Stochastic models use probability distributions to represent the uncertainty inherent in language. These models can be used to estimate the likelihood of different language phenomena, such as the likelihood of a particular word occurring in a certain context.
+- One common type of stochastic model used in NLP is the n-gram model. This model represents the probability of a word based on its surrounding words, up to a certain number of words (n) in the sequence. For example, a 3-gram model would consider the three preceding words to determine the probability of the current word.
+- Stochastic models can be used for a variety of NLP tasks, such as language modeling, part-of-speech tagging, and machine translation. By estimating the probability of different language phenomena, these models can help improve the accuracy of NLP systems.
+- Stochastic models can be trained on large amounts of language data, such as corpora of text. By training on a large amount of data, these models can learn the statistical patterns of language and make more accurate predictions.
+- Stochastic models are not without their limitations. They can struggle with rare or unseen phenomena, and can be biased by the data they are trained on. Additionally, stochastic models may not always capture the nuances of language, such as idiomatic expressions or sarcasm.
+- Despite these limitations, stochastic models remain an important tool in NLP. They provide a way to model language in a probabilistic way, which can help improve the accuracy of NLP systems and enable new applications of NLP technology.

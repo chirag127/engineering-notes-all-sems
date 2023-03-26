@@ -1,0 +1,12 @@
+### Smoothing for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+Smoothing is a statistical technique used in Natural Language Processing (NLP) to address the problem of sparse data. It is used to estimate the probability of unseen words or n-grams in a language model. Here are some important points to understand about smoothing in NLP:
+
+- In language modeling, we calculate the probability of a sequence of words using the chain rule of probability. However, if a word or n-gram is not present in the training data, its probability is zero, which leads to the problem of zero probability. 
+- Smoothing techniques are used to assign non-zero probabilities to unseen words or n-grams. This is done by borrowing some probability mass from the observed words and redistributing it among the unseen words. 
+- The most common smoothing technique used in NLP is the Laplace smoothing or add-one smoothing. In this technique, we add one count to each word in the vocabulary and then normalize the counts. This ensures that no word has zero probability. 
+- Another popular smoothing technique is the Good-Turing smoothing. This technique estimates the probability of unseen words by counting the number of words that occur once in the training data and using this count to estimate the probability of unseen words. 
+- Smoothing techniques can be applied to different levels of language modeling, such as unigram, bigram, trigram, and so on. The choice of smoothing technique and the level of language modeling depend on the specific problem and the size of the training data. 
+- Smoothing is an important technique in NLP because it helps to improve the accuracy of language models, which in turn helps to improve the performance of NLP applications such as speech recognition, machine translation, and text classification. 
+
+In conclusion, smoothing is a statistical technique used in NLP to estimate the probability of unseen words or n-grams in a language model. It helps to address the problem of sparse data and improve the accuracy of language models. Understanding different smoothing techniques and their application to different levels of language modeling is important for building effective NLP applications.
