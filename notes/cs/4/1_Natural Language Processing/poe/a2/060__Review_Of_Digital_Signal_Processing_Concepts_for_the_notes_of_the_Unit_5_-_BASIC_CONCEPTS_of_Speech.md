@@ -1,0 +1,11 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Review Of Digital Signal Processing Concepts for the notes of the Unit 5 - BASIC CONCEPTS of Speech Processing in the subject of Natural Language Processing
+
+1.  Signals: Anything that carries information is called a signal. Signals can be classified into analog signals and digital signals. Analog signals are continuous time varying signals whereas digital signals are discrete time varying signals. Speech signal is an example of analog signal.
+2.  Sampling: The process of converting a continuous analog signal into a discrete digital signal is called sampling. The analog signal is sampled at regular intervals of time and the amplitude of the analog signal at each sampling instant is quantized to the nearest integer value. This converts the analog signal into a digital signal. The number of samples taken per second is called the sampling rate or sampling frequency.
+3.  Quantization: The process of approximating the sampled amplitude to the nearest quantum level is called quantization. The interval between two adjacent quantum levels is called the quantization interval. Quantization introduces an error called quantization error. Quantization is required to represent the analog signal in digital form.
+4.  Aliasing: When the sampling rate is less than twice the highest frequency component present in the signal, aliasing occurs. This results in distortion of the signal. To avoid aliasing, the sampling rate must be greater than twice the highest frequency component of the signal. This is known as the Nyquist sampling rate.
+5.  Resolution: The number of quantum levels used to quantize the signal determines the resolution of the quantizer. A higher resolution results in lower quantization error but requires more bits to represent the quantized values. Quantization with more number of levels provides a more accurate representation of the signal.
+
+The content is written in points and in a formal tone without any emojis or external links as per the instructions. Let me know if you would like me to modify or expand the content.

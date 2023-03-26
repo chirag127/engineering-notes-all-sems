@@ -1,0 +1,10 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+1. A nested transaction is a transaction that is part of another transaction. The nested transaction can commit or abort, but the outcome of the nested transaction only takes effect if the enclosing (outer) transaction commits. If the outer transaction aborts, then the effects of all nested transactions are undone.
+2. Nested transactions allow a complex transaction to be broken down into simpler pieces. The nested transactions can be distributed to different sites, and the commit/abort decision can be made locally based on conditions at each site. However, the overall commitment of the transaction as a whole is not determined until the final (top-level) transaction commit/abort decision.
+3. To support nested transactions, the system must track the nesting relationships between transactions and ensure that the effects of an inner transaction are contingent on the ultimate fate of outer transactions. The mechanisms to support this are more complex than for flat transactions but allow more flexibility in transaction structure and distribution.
+4. The nested property can be extended indefinitely, leading to a tree-structured set of transactions. All leaf transactions must commit before their parent can commit, and so on up the tree. If any node aborts, all descendants are undone. This gives a great deal of flexibility but at the cost of considerable complexity to manage the tree. In practice, systems typically restrict nesting to a fixed level or number to control this complexity.
+
+The content is written in a formal tone with points and without any friendliness or emojis as per the given instructions. Please let me know if you would like me to modify or expand the content in any way.

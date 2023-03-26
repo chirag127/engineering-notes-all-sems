@@ -1,0 +1,11 @@
+ Here are the notes in markdown format without any emojis or external links:
+
+### Consensus for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design.
+
+1. Consensus is a key concept of blockchain which refers to the agreement on a shared ledger. The consensus algorithm ensures all the participating nodes reach agreement on the validity of new transactions and blocks.
+2. Proof of Work consensus (POW): Bitcoin and Ethereum use POW consensus where miners solve complex cryptographic problems to validate transactions and earn mining rewards. The solution to the cryptographic problem is the proof of work. The POW process makes the blockchain tamper-resistant and immutable. However, POW is inefficient and leads to high energy consumption for mining.
+3. Proof of Stake consensus (POS): Unlike POW which uses mining, POS selects validators based on their economic stake in the network. Validators with higher stake have more chances of being selected to forge/validate the new block and earn rewards. The block validation process is more efficient than mining in POW. However, POS could lead to centralization as wealthier stakeholders could gain more control. Some popular blockchains using POS are EOS, Cardano.
+4. Byzantine Fault Tolerance consensus (BFT): BFT algorithms allow the blockchain network to reach consensus even when some nodes are malicious or faulty. The consensus is achieved through a vote among validated nodes. BFT algorithms can handle faster transaction throughput but could face scalability issues with a large number of nodes in the network. Examples of blockchain using BFT consensus are Hyperledger Fabric, Stellar.
+5. Delegated Proof of Stake (DPOS): DPOS is a variant of the POS consensus where stakeholders delegate their voting rights to selected nodes called delegates or witnesses. The delegates are responsible for validating transactions and creating blocks. DPOS enables faster transactions through parallel block creation. However, it could lead to centralization as the powerful delegates control most of the network. Popular blockchains using DPOS are EOS, Tron.
+
+The notes are written in a formal tone with points in markdown format as requested. Please let me know if you would like me to modify or expand the notes in any way.

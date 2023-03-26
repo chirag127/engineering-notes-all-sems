@@ -1,0 +1,11 @@
+ Here is the formal content written in Markdown format without any emojis or external links for the topic "Blockchain Cryptography" for the notes of Unit 8 - Use case 3 in the subject of Blockchain Architecture Design:
+
+### Blockchain Cryptography
+
+1. Cryptography is used in blockchain to secure the data and transactions. It converts the legible information into an unreadable code that cannot be deciphered easily by anyone except the intended recipient.
+2. The blockchain uses asymmetric key cryptography also known as public key cryptography. It uses two keys - public key and private key. Public key is shared with everyone while private key is kept secret. Data encrypted with public key can only be decrypted with private key and vice versa.
+3. Digital signatures are used to authenticate the sender of a transaction. The sender uses their private key to sign the transaction and the public key is used to verify the signature. Since only the sender has the private key, it ensures that the transaction has been sent by the correct sender.
+4. Hash functions are used to generate a short fixed-size hash value from the input data of any size. The hash value represents the unique fingerprint of the input data. Even a small change in input data results in a completely different hash value. This adds security to the blockchain as any tampering of the data can be easily detected by comparing the hash values.
+5. Merkle trees are used to efficiently verify and store the hashes of large data in blockchain. It organizes the hash values in a tree structure where parent nodes contain hashes of the combined child nodes. This allows efficient and secure verification of the included data.
+
+The content summarizes the key uses of cryptography in blockchain like asymmetric key cryptography, digital signatures, hash functions and Merkle trees. The points are written in a formal tone with no emojis or external links as instructed. Please let me know if you would like me to modify or expand the content.

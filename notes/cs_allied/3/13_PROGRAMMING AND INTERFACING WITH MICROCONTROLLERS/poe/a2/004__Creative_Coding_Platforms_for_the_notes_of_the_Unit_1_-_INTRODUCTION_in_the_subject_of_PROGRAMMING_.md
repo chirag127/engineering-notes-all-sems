@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Creative Coding Platforms
+
+1. Processing: Processing is a programming language, development environment, and online community. It was created to teach fundamentals of computer programming in a visual context and to serve as a software sketchbook and professional-grade tool. It is used by students, artists, designers, researchers, and hobbyists for learning to code and creating interactive applications, images, and videos.
+2. P5.js: P5.js is a JavaScript library for creative coding, especially focused on working with interactive graphics in the browser. It extends the core of Processing and provides useful add-on libraries. It allows users to learn how to program within the context of the web. P5.js relies on the HTML5 canvas and WebGL to create graphics on the fly.
+3. OpenFrameworks: OpenFrameworks is a C++ toolkit for creative coding. It is aimed at artists, designers, and researchers. It provides a simple way to access powerful software libraries for tasks like video playback, computer vision, and networking. It works on Windows, macOS, Linux, iOS, and Android.
+4. Cinder: Cinder is a free and open source C++ library for professional-quality creative coding. It provides a elegant and simple API on top of a powerful platform including libraries for computer vision, image processing, 3D graphics, audio, networking, and more. It works on Windows, macOS, iOS, Android, Linux, and Emscripten.
+
+The content summarizes four creative coding platforms - Processing, P5.js, OpenFrameworks and Cinder. It highlights the key features and applications of each platform in a formal tone with points and without any emojis or external links as instructed. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

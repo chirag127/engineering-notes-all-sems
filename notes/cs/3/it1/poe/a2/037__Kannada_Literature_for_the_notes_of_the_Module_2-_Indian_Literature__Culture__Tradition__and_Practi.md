@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without any emojis or external links and in a formal tone:
+
+### Kannada Literature
+
+- Kannada literature refers to literature written in the Kannada language, particularly in the Kannada alphabet. It is one of the oldest languages of India with a literary history of over a thousand years.
+- The earliest literary works in the Kannada language date from centuries prior to the 14th century. Highlights of Kannada literature include the 9th century Kavirājamārga, written by King Durvinita, and the Prithviraj Raso, an epic poem about the king Prithviraj Chauhan, sung by warrior-poet Chand Bardai in the 12th century CE.
+- The Rashtrakuta Court of Manyakheta was a major center of Kannada literature during the 9th to 10th century. The Western Chalukya and the Hoysala courts became major centers of Kannada literary development during the 11th to 13th centuries.
+- Major literary works in Kannada are the Gokak Agama and Pampa Bharatha. Kumara Vyasa also wrote the Karnata Bharata Kathamanjari, a verbatim translation of the Mahabharata into Kannada. Chamarasa's Prabhulingaleele deals with the romantic exploits of the legendary King Parashurama in humor. Srivaishnavism resulted in works such as the Vadhula Charite. Jain literature in Kannada includes Santisvara's Hadibadeya Dharma, Devasena's Samyukta Koumudi and Ratnakara Varni's Adipurana.
+- Most literary works from the medieval period were written on palm leaves which were tied together. As paper came into use during the 16th century, literary works were written on paper in the form of manuscripts. From the 19th century onwards, lithography and printing allowed literature in Kannada to reach a much wider audience enabling the growth of theater and publishing.

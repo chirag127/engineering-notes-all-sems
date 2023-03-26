@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links as per your instructions:
+
+### Path Pushing Algorithms for Distributed Deadlock Detection
+
+1. Deadlock detection algorithm: This algorithm detects deadlocks in a distributed system. Each node maintains a WAIT-FOR graph which contains processes and resources with edges depicting waiting relationships. The algorithm checks for cycles in the WAIT-FOR graph to detect deadlocks. If a cycle is detected, a deadlock exists.
+2. Distributed deadlock detection algorithm: This is an extension of the deadlock detection algorithm for distributed systems. Each node maintains its own local WAIT-FOR graph. The algorithm then merges all local WAIT-FOR graphs to form a global system WAIT-FOR graph. Deadlocks are detected by checking for cycles in the global system WAIT-FOR graph. The merging of local graphs and cycle detection is done periodically to detect deadlocks.
+3. Edge chasing algorithm: This algorithm identifies deadlocked processes instead of just detecting that a deadlock exists. When a cycle is detected in the system WAIT-FOR graph, the algorithm 'chases' along the edges of the cycle to identify the processes that form the deadlock. The detected deadlocked processes can then be killed to resolve the deadlock. This may result in abortion of some processes but allows the system to continue functioning.
+
+The above points cover the key path pushing algorithms for distributed deadlock detection. The algorithms work by constructing WAIT-FOR graphs and checking for cycles to detect and in some cases identify deadlocked processes. Periodic detection and graph merging is required for distributed systems. Please let me know if you would like me to elaborate on any of the points or add additional details.

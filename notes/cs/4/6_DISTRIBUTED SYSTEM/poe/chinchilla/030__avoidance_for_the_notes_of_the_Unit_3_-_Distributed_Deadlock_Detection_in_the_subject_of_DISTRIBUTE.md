@@ -1,0 +1,15 @@
+### Avoidance for the Notes of the Unit 3 - Distributed Deadlock Detection in the Subject of Distributed System
+
+In distributed systems, deadlock is a common problem that can occur when two or more processes are waiting for each other to release resources. Deadlock can cause the system to become unresponsive, resulting in a significant impact on the system's overall performance. To prevent deadlock from occurring, avoidance techniques can be implemented. This section will discuss avoidance techniques for distributed deadlock detection.
+
+1. Resource Allocation Graph (RAG) Algorithm: The RAG algorithm is a well-known technique for deadlock avoidance. The algorithm maintains a directed graph of resources and processes. To avoid deadlock, the algorithm checks the graph for the presence of a cycle. If a cycle is detected, the algorithm will prevent the request for a new resource until the cycle is broken.
+
+2. Banker's Algorithm: The Banker's algorithm is another well-known technique for deadlock avoidance. The algorithm works by assigning a priority to each process based on its need for resources. When a process requests a resource, the algorithm will check if granting the request will result in a deadlock. If the request does not result in a deadlock, the resource is allocated to the process. If the request will result in a deadlock, the resource is not allocated.
+
+3. Wait-Die and Wound-Wait Techniques: Wait-Die and Wound-Wait are two techniques used to avoid deadlock. In Wait-Die, a process that requests a resource is allowed to wait only if its priority is higher than the process holding the resource. In Wound-Wait, a process that requests a resource is allowed to wait only if its priority is lower than the process holding the resource.
+
+4. Distributed Deadlock Avoidance: Distributed deadlock avoidance is a technique used to avoid deadlock in a distributed system. The technique works by using a central coordinator to manage the allocation of resources. The coordinator is responsible for monitoring the system and ensuring that no process is waiting for a resource that is held by another process.
+
+5. Dynamic Allocation: Dynamic allocation is a technique used to avoid deadlock in a distributed system. The technique works by allowing the system to allocate resources dynamically as they are needed. This approach can help to reduce the likelihood of deadlock by ensuring that resources are allocated only when they are needed.
+
+In conclusion, distributed deadlock can have a significant impact on the performance of a distributed system. Avoidance techniques such as the Resource Allocation Graph algorithm, Banker's algorithm, Wait-Die and Wound-Wait techniques, Distributed Deadlock Avoidance, and Dynamic Allocation can be used to prevent deadlock from occurring. It is essential to understand these techniques to build efficient and reliable distributed systems.

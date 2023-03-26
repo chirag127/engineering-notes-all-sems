@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Current developments in Arts and Cultural for the notes of the Module 5- Cultural Heritage and Performing Arts in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Revival of folk arts and crafts: Many states in India have reviving their traditional folk arts and crafts such as Madhubani paintings from Bihar, Pattachitra paintings from Odisha, Kondapalli toys from Andhra Pradesh etc. This is being done through government schemes and private organizations to preserve the cultural heritage.
+- Growth of contemporary art forms: New art forms like digital art, installation art, conceptual art, experimental theatre etc are emerging in India. Many young artists are experimenting with these contemporary art forms and gaining recognition.
+- Popularity of performing arts: Classical dance and music forms like Bharatnatyam, Kathak, Carnatic music, Hindustani classical music etc are very popular in India. Many youngsters are taking up training in these traditional art forms to keep them alive. Various dance and music festivals are also being organized in India and abroad to showcase these art forms.
+- Increased government support: The government is providing funds and recognition to artists and art forms through schemes like Sangeet Natak Akademi fellowships and awards, setting up of cultural centres, implementing schemes to preserve heritage art forms etc. This government support is helping the arts and culture sector to grow in the country.
+
+The above points cover the major current developments in arts and culture in India while keeping the tone formal and avoiding any emojis or external links as requested. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

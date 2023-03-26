@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Pottery
+
+- Pottery is the process of forming vessels and other objects with clay and other ceramic materials, which are fired to harden them. Major types include earthenware, stoneware, and porcelain.
+- The place where such wares are made by a potter is also called a pottery. The definition of pottery used by the American Society for Testing and Materials (ASTM) is "all fired ceramic wares that contain clay when formed, except technical, structural, and refractory products." In archaeology, especially of ancient cultures, the term "ceramic" is often used to mean pottery.
+- Clay-based pottery can be decorated in many different ways, including painting, carving, or impressing patterns into the clay. Decorative techniques may include incising, embossing, moulding, stamping, rendering, and glazing. Glaze may be applied to pottery for decoration, as a sealant, or to alter the pottery's desired properties.
+- The earliest pottery vessels were made by the Jōmon people of Japan, dating back as early as 14,000 BC. The wheel was invented in Mesopotamia and the Indus Valley civilization around 3500 BC, and allowed for a continuous production process. Mass production began around 3000 BC in Mesopotamia and ancient Egypt. The ancient Romans greatly increased the scale of pottery production using wheel-thrown pottery and fired in large kilns.
+- Pottery played an important role in the lives of ancient cultures. It was used for storage, carrying water and food, cooking meals, ceremonial usages, and as decorative art. Clay pottery allowed ancient cultures to store and boil water, cook stews, and make grain-based foods edible by creating simple dishes.

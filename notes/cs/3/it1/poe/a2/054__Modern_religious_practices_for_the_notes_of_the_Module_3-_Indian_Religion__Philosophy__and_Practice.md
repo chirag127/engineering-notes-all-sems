@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any feeling or friendliness, being formal and without any emojis or external links:
+
+### Modern religious practices
+
+- Many Indians continue to practice indigenous religious traditions, such as Hinduism, Buddhism, Jainism, Sikhism, and others. These religions have adapted to modern conditions in various ways.
+- New Hindu temple complexes are still being built around the world, including some massive ones in India. Many incorporate modern architectural styles and building materials. The rituals conducted in the temples continue largely unchanged but now use modern communication technologies and online streaming to reach larger audiences.
+- Buddhism has seen growth in modern mindfulness and meditation practices adapted for secular and therapeutic contexts. The Dala Lama has a strong online and social media presence to spread Buddhist teachings.
+- Sikh places of worship, known as gurdwaras, have modernized with multimedia systems, larger prayer spaces, and other modifications. Langar, the free shared meal, has expanded to become a global seva, or selfless service, initiative to feed hungry and needy people regardless of religion or background.
+- Jainism's focus on nonviolence and harmlessness has resonated with modern concerns for ethics and the environment. Jain leaders teach the principle of anekantavada, or non-absolutism, to promote religious tolerance and pluralism. Jain monastic orders have become involved in interfaith initiatives and underprivileged community service activities.
+- Other indigenous religious traditions of India, as well as newer movements like Brahma Kumaris, continue to adapt their practices, principles, and use of media to address contemporary issues and reach larger audiences around the world. There is immense diversity among modern Indian religious traditions and practitioners.

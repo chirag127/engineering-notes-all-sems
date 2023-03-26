@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any feeling or friendliness and being formal:
+
+### Iterative coding methodology for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+1. Wearable computing: Wearable computing refers to the integration of computing devices into worn items, such as clothing, accessories, and implants. Wearable devices are fast becoming popular as they serve as smart assistants to users. Some examples are smart watches, fitness trackers, and virtual reality headsets.
+2. Mixed reality: Mixed reality (MR) is the merging of real and virtual worlds to produce new environments and visualizations where physical and digital objects co-exist and interact in real time. It incorporates elements of augmented reality (AR), virtual reality (VR), and augmented virtuality (AV). MR holds a lot of promise for various applications such as entertainment, business, and education.
+3. Internet of Everything: The Internet of Everything (IoE) refers to the interconnection of everyday physical objects and people via the internet, including the connections among these objects and people. It is a combination of the Internet of Things, Internet of People, and Internet of Information. The IoE enables advanced connectivity of devices, systems, and services that goes beyond machine-to-machine communications and covers a variety of protocols, domains, and applications.
+
+The above points cover the key concepts related to the topic. Let me know if you would like me to elaborate on any of the points or add more points to the content.

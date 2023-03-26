@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+# WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+1. Wearable Computing: Wearable computers are miniature electronic devices that are worn on the body, either as an accessory or as part of the material of the clothing. They are hands-free devices with computing capabilities and wireless connectivity. Some examples are smart watches, fitness trackers, smart glasses, head-mounted displays, etc. They are used for applications such as health monitoring, communications, and augmented reality.
+
+2. Mixed Reality: Mixed reality (MR) is the merging of real and virtual worlds to produce new environments and visualizations where physical and digital objects co-exist and interact in real time. It is an extension of augmented reality and incorporates augmented reality, augmented virtuality and mediated reality concepts. Devices like Microsoft Hololens and Magic Leap use MR for applications such as interactive training, design and prototyping, entertainment, etc.
+
+3. Internet of Everything: The Internet of Everything (IoE) is the networked connection of people, processes, data, and things. It is the intelligent connectivity of the Internet of Things, including the connections between people-people, people-things, and things-things. The IoE is enabling advanced data sharing, analysis, and services in various domains. It allows integrated management and optimization of systems comprising of computing devices, software agents, and sensors connected via networks. The IoE leads to automation, analytics, and interoperability that create value for businesses, communities, and societies.
+
+The content covers the key points on the topics of wearable computing, mixed reality, and Internet of Everything in a formal tone with bullet points and no emojis or external links as required. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

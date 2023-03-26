@@ -1,0 +1,11 @@
+ Here are the notes on Likelihood Distortions for Unit 6 - SPEECH-ANALYSIS in Natural Language Processing:
+
+### Likelihood Distortions
+
+1. Acoustic Model Likelihood Distortion: The acoustic model predicts the likelihood of observing an acoustic feature vector given a phonetic transcription. During decoding, this likelihood is combined with language model scores to find the best path through the lattice. However, the acoustic model is trained on a large amount of data and will not have seen all possible pronunciations or acoustic environments. This can lead to distortions in the likelihood due to unseen data or data mismatch.
+2. Pronunciation Model Likelihood Distortion: The pronunciation model provides pronunciations for words in the vocabulary. However, the pronunciation model is imperfect and will not list all possible pronunciations for a word. This can lead to likelihood distortions for unexpected or variants pronunciations of words.
+3. Language Model Likelihood Distortion: The language model provides the likelihood of a sequence of words appearing in text. However, the language model is trained on a limited amount of data and will not have seen all possible sequences of words. This can lead to distortions in the likelihood for unseen n-grams or data domains that do not match the training data.
+
+To reduce likelihood distortions, more data can be used to train the models, interpolation of multiple models can be used, or special models for out-of-vocabulary words or unseen contexts can be included. However, some amount of likelihood distortion is unavoidable due to the inherent limitations of statistical models. Care must be taken to not overweight likelihoods and make strong assumptions about unseen data.
+
+The content is written in markdown format with headings and points as requested. I have avoided the use of emojis and external links and written the content formally as directed. Please let me know if you would like me to modify or expand the response in any way.
