@@ -1,0 +1,11 @@
+### Visual Objects and Data Objects
+
+In the field of data analytics and visualization, visual objects and data objects are important concepts to understand. Here are some key points to keep in mind:
+
+- Visual objects refer to any kind of graphical representation of data that can be seen by human eyes. Examples include charts, graphs, maps, and diagrams.
+- Data objects, on the other hand, are the underlying data that visual objects are based on. This can include tables, spreadsheets, databases, and other structured data sources.
+- It is important to understand the relationship between visual objects and data objects. Visual objects are designed to help humans understand and interpret data, but they are only as good as the underlying data they are based on. Therefore, it is important to ensure that the data objects are accurate and reliable before creating visual objects.
+- When designing visual objects, it is important to consider the human visual system. This includes factors such as color, contrast, visual acuity, and depth perception. By understanding how the human visual system works, we can design visual objects that are more effective at conveying information.
+- There are many different types of visual objects that can be used in data analytics and visualization. Some common examples include bar charts, line graphs, scatter plots, heat maps, and tree maps. Each type of visual object has its own strengths and weaknesses, and choosing the right one depends on the specific data and analysis goals.
+- In addition to visual objects, there are also other types of sensory objects that can be used in data analytics and visualization. For example, auditory objects (such as sound effects) and haptic objects (such as vibrations) can be used to provide additional information and feedback to users.
+- Overall, understanding visual objects and data objects is essential for anyone working in the field of data analytics and visualization. By understanding how these objects work and how they can be used effectively, we can create more accurate, informative, and engaging data visualizations.

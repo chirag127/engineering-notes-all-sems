@@ -1,0 +1,11 @@
+### Negotiation and Bargaining
+
+In the field of artificial intelligence, negotiation and bargaining are important concepts when it comes to software agents. Here are some key points to keep in mind when studying this topic:
+
+- Negotiation involves two or more agents attempting to come to an agreement on a particular issue or problem. This can involve a variety of factors, including preferences, resources, and goals.
+- Bargaining is a specific type of negotiation in which the agents attempt to divide a fixed set of resources between them. This can involve haggling, making concessions, and finding creative solutions to divide the resources fairly.
+- Negotiation and bargaining are important because they allow agents to work together more effectively, even when they have different goals or preferences. By finding common ground and working collaboratively, agents can achieve better outcomes than they would on their own.
+- There are a variety of negotiation and bargaining strategies that agents can use, depending on the situation. For example, agents might use a "tit-for-tat" strategy, in which they mirror the other agent's actions, or they might use a "concession" strategy, in which they make small concessions to the other agent in order to build trust and goodwill.
+- In order for negotiation and bargaining to be successful, agents must be able to communicate effectively with one another. This means that they must be able to understand one another's preferences and goals, and they must be able to convey their own preferences and goals clearly.
+- There are a variety of techniques that agents can use to improve their communication skills during negotiation and bargaining. For example, they might use natural language processing techniques to understand the other agent's statements more accurately, or they might use argumentation techniques to build a more convincing case for their own preferences and goals.
+- Finally, it's important to note that negotiation and bargaining are not always successful. Sometimes, agents are unable to come to an agreement, or they may come to an agreement that is suboptimal for both parties. In these cases, it's important for agents to be able to adapt and find new strategies for achieving their goals.

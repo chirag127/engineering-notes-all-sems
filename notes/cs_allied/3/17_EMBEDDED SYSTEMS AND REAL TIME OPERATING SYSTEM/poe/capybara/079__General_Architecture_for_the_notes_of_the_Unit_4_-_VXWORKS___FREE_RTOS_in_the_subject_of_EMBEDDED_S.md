@@ -1,0 +1,12 @@
+### General Architecture for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+The following are the key points to understand the general architecture of VXWORKS / FREE RTOS:
+
+- VXWORKS and FreeRTOS are real-time operating systems (RTOS) that are designed for use in embedded systems. They are specifically created to provide low-latency, high-reliability, and high-performance for systems with strict timing requirements.
+- The general architecture of VXWORKS / FREE RTOS comprises of three main components: Kernel, Middleware, and Application.
+- Kernel is the main component of both VXWORKS / FREE RTOS. It provides the core functionality required for the operating system to function properly. It is responsible for memory management, task scheduling, inter-process communication, and device management.
+- Middleware is the set of software components that sits between the kernel and the application. It provides additional functionality to the operating system, such as networking, file systems, and graphical user interfaces. It essentially acts as a bridge between the kernel and the application, allowing the application to interact with the underlying hardware.
+- Application is the top layer of the operating system. It is the layer where the user interacts with the system, and where the actual application code is executed. The application layer is responsible for implementing the desired functionality of the system and for communicating with the middleware layer and the kernel layer.
+- VXWORKS / FREE RTOS also provide a range of tools and utilities to aid in the development process. These include debugging tools, profiling tools, and memory management tools. These tools help developers to identify and fix issues in the code, and to optimize the performance of the system.
+- In addition, VXWORKS / FREE RTOS also support a wide range of hardware platforms and architectures, making them highly flexible and versatile operating systems. They can be used in a variety of embedded systems, from small microcontrollers to large-scale industrial systems.
+- Overall, the general architecture of VXWORKS / FREE RTOS is designed to provide a highly reliable, high-performance operating system for embedded systems with strict timing requirements. With its kernel, middleware, and application layers, and its range of development tools and utilities, VXWORKS / FREE RTOS provides a complete solution for developing robust and efficient embedded systems.

@@ -1,0 +1,11 @@
+### Software for the Notes of Unit 2 - Software Hardware Frameworks in the Subject of Wearable Computing, Mixed Reality and Internet of Everything
+
+Here are some important points to remember about software for the notes of Unit 2 - Software Hardware Frameworks in the subject of Wearable Computing, Mixed Reality and Internet of Everything:
+
+- Software is a set of instructions that tells a computer what to do. It is a crucial component of any computer system, including wearable devices and mixed reality systems.
+- In the context of wearable computing and mixed reality, software is used to create applications and experiences that can be used on these devices. This software needs to be designed to work seamlessly with the hardware components of these systems.
+- There are various software frameworks available for building applications for wearable devices and mixed reality systems. Some popular frameworks include Unity, Unreal Engine, and Vuforia. Each of these frameworks has its own unique features and advantages, so it is important to choose the one that is best suited for your specific needs.
+- In addition to frameworks, there are also software development kits (SDKs) available for building applications for wearable devices and mixed reality systems. These SDKs provide a set of tools and resources that developers can use to build their applications.
+- When developing software for wearable devices and mixed reality systems, it is important to consider the user experience. The software should be designed to be intuitive and easy to use, with a focus on providing a seamless and immersive experience for the user.
+- Testing and debugging are important parts of the software development process. Before releasing any software, it should be thoroughly tested to ensure that it works as intended and is free of any bugs or errors.
+- Finally, it is important to keep the software up-to-date and to continually improve upon it. This can help to ensure that the software remains relevant and useful, and can help to address any issues or bugs that may arise over time.

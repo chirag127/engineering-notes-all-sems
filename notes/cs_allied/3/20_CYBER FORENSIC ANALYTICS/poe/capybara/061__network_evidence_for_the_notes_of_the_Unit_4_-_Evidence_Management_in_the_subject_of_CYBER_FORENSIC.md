@@ -1,0 +1,11 @@
+### Network Evidence
+
+Network evidence is an important source of evidence in cyber forensic investigations. It can provide valuable information about the communication and activities of individuals or entities on a network. Here are some key points to keep in mind when dealing with network evidence:
+
+- Network logs: Network logs are records of network activity that can be used to identify the source, destination, and nature of network traffic. They can provide valuable evidence in cyber forensic investigations. Some common types of network logs include firewall logs, web server logs, and email server logs.
+- Packet captures: Packet captures are recordings of network traffic that can be used to reconstruct the communication between two or more hosts on a network. They can be particularly useful in identifying the contents of network traffic and detecting malicious activity, such as malware infections or network intrusions.
+- Network topology: Network topology refers to the physical and logical layout of a network. It can provide important information about the structure of a network, including the location of servers, workstations, and other network devices. This information can be used to identify potential vulnerabilities in a network and to trace the source of network activity.
+- Network diagrams: Network diagrams are graphical representations of a network's topology. They can be particularly useful in visualizing the structure of a network and in identifying potential vulnerabilities or points of attack.
+- Network forensics tools: Network forensics tools are software applications that can be used to analyze network traffic and logs. They can help investigators identify patterns of activity, detect anomalies, and reconstruct network traffic. Some common network forensics tools include Wireshark, tcpdump, and NetworkMiner.
+
+In summary, network evidence can be a valuable source of evidence in cyber forensic investigations. By analyzing network logs, packet captures, network topology, and network diagrams, investigators can gain important insights into the communication and activities of individuals or entities on a network. Network forensics tools can help investigators analyze this evidence and identify potential sources of malicious activity.

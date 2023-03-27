@@ -1,0 +1,11 @@
+### Apriori algorithm for the notes of the Unit 5 - Frequent Itemsets and Clustering in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+The Apriori algorithm is a popular algorithm used for mining frequent itemsets and association rules. Here are some key points to keep in mind about the Apriori algorithm:
+
+- The Apriori algorithm is based on the notion of frequent itemsets. A frequent itemset is a set of items that appear together in a transaction database with a frequency greater than or equal to a specified minimum support threshold.
+- The Apriori algorithm uses a bottom-up approach to find frequent itemsets. It starts by finding all individual items that have a frequency greater than or equal to the given minimum support threshold. It then combines these individual items to form larger itemsets, and checks if each of the larger itemsets has a frequency greater than or equal to the minimum support threshold. This process continues until no more frequent itemsets can be found.
+- The Apriori algorithm is an iterative algorithm that can be computationally expensive, especially for large transaction databases.
+- One way to reduce the computational complexity of the Apriori algorithm is by using a technique called pruning. Pruning involves eliminating candidate itemsets that cannot be frequent based on the properties of the frequent itemsets that have already been found.
+- The Apriori algorithm can be used to generate association rules from frequent itemsets. Association rules are rules that describe relationships between items in a transaction database. For example, if the itemset {milk, bread} has a high frequency, then we can generate the association rule {milk} => {bread}, which states that if a customer purchases milk, they are likely to purchase bread as well.
+
+Overall, the Apriori algorithm is a powerful tool for mining frequent itemsets and association rules, but it requires careful tuning of parameters and can be computationally expensive for large datasets.

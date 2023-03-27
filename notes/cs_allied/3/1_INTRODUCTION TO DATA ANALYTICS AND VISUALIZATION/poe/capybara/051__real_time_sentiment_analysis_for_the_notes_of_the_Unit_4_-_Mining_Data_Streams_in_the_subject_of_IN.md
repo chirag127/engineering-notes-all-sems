@@ -1,0 +1,13 @@
+### Real Time Sentiment Analysis for the Notes of the Unit 4 - Mining Data Streams in the Subject of Introduction to Data Analytics and Visualization
+
+In the field of data analytics, sentiment analysis is a popular technique that is used to determine the emotional tone of a piece of text. It is commonly used in social media monitoring, customer feedback analysis, and market research. In this unit, we will be learning about real-time sentiment analysis for the notes of the unit 4 - Mining Data Streams in the subject of Introduction to Data Analytics and Visualization. 
+
+Here are some key points to keep in mind:
+
+- Real-time sentiment analysis involves analyzing text data as it is generated, rather than analyzing a pre-existing dataset. This allows for more timely and relevant insights.
+- There are various techniques that can be used for real-time sentiment analysis, including rule-based systems, machine learning, and deep learning. Each technique has its own strengths and weaknesses, and the choice of technique will depend on the specific use case.
+- In order to perform real-time sentiment analysis, we need to have access to a continuous stream of data. This can be achieved through APIs that provide access to social media platforms, news websites, or other sources of text data.
+- Once we have access to the data stream, we can apply our sentiment analysis technique to each piece of text as it is generated. This allows us to track changes in sentiment over time, identify trends, and respond quickly to any issues that arise.
+- Real-time sentiment analysis can be a valuable tool for businesses, governments, and other organizations that need to monitor public opinion and respond quickly to emerging trends. However, it is important to keep in mind that sentiment analysis is not a perfect science, and there are limitations to what it can tell us about how people are feeling.
+
+In conclusion, real-time sentiment analysis is an important technique for analyzing text data as it is generated. By applying sentiment analysis techniques to the notes of the unit 4 - Mining Data Streams in the subject of Introduction to Data Analytics and Visualization, we can gain valuable insights and respond quickly to emerging trends. However, it is important to be aware of the limitations of sentiment analysis and to use it in conjunction with other data analysis techniques for a more complete picture of public opinion.

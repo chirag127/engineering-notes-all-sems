@@ -1,0 +1,13 @@
+### Deadlock Prevention
+
+Deadlock prevention is an essential technique used in distributed systems to avoid the occurrence of deadlocks. Deadlocks occur when a group of processes in a distributed system gets stuck in a waiting state, waiting for the resources held by others in the same group. In this section, we will discuss some techniques to prevent deadlock in a distributed system.
+
+1. Resource Allocation Graph (RAG) Algorithm: One of the most common algorithms used to prevent deadlocks in a distributed system is the Resource Allocation Graph (RAG) algorithm. In this algorithm, a graph is constructed that represents the resource allocation state of the processes in the system. The graph is then checked for the presence of cycles. If a cycle is detected, it means that there is a possibility of a deadlock occurring. To prevent deadlock, the system can avoid allocating resources that could lead to the formation of a cycle in the RAG.
+
+2. Banker's Algorithm: The Banker's algorithm is another popular algorithm used to prevent deadlocks in a distributed system. In this algorithm, the system keeps track of the maximum and available resources for each process in the system. Before allocating any resources, the system checks if the allocation will not lead to a deadlock. If the allocation will lead to a deadlock, the system waits until the resources become available before allocating them.
+
+3. Timeouts: Another technique used to prevent deadlock is timeouts. In this technique, a process waiting for a resource will only wait for a certain amount of time. If the resource does not become available within that time, the process will release all the resources it holds and restart the request. This technique ensures that a process does not wait indefinitely for a resource, which could lead to a deadlock.
+
+4. Avoidance of Circular Wait: Circular wait is a common cause of deadlock in distributed systems. To prevent circular wait, the system can impose a strict ordering of resources. For example, if a process requests resources A and B, it must request them in a specific order (e.g., A before B) and release them in the reverse order (e.g., B before A).
+
+In conclusion, preventing deadlocks is crucial in a distributed system to ensure the smooth running of processes. The techniques discussed above, such as the Resource Allocation Graph algorithm, Banker's algorithm, timeouts, and avoidance of circular wait, are all effective ways of preventing deadlocks. By implementing these techniques, a distributed system can avoid deadlocks and continue to function efficiently.

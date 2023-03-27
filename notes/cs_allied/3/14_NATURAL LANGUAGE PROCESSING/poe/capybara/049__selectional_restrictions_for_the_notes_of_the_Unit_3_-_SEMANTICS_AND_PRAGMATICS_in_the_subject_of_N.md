@@ -1,0 +1,11 @@
+### Selectional Restrictions for the Notes of Unit 3 - SEMANTICS AND PRAGMATICS in the Subject of Natural Language Processing
+
+In the study of natural language processing, semantics and pragmatics are two important subfields that deal with the meaning of language. One important concept in these fields is the idea of selectional restrictions. Here are some key points to keep in mind when studying selectional restrictions:
+
+- Selectional restrictions refer to the constraints that a word or phrase imposes on the types of words or phrases that can be used as its arguments.
+- For example, the verb "eat" has a selectional restriction that its subject must be an animate entity, such as a person or an animal, and its object must be an inanimate object, such as food.
+- Selectional restrictions can help disambiguate the meaning of a sentence. For example, the sentence "I saw the man with the telescope" can be ambiguous without knowing the selectional restrictions of the verb "saw". If "saw" has a selectional restriction that its object must be a physical entity, then the sentence can only mean that the man was holding the telescope. If "saw" has a selectional restriction that its object must be an event or action, then the sentence can mean that the man was observing something with the telescope.
+- Selectional restrictions can also be used to predict the meaning of an unknown word. If a new verb is introduced that has a selectional restriction that its subject must be a plant and its object must be a tool, then we can predict that the verb means something like "to use a plant as a tool".
+- Selectional restrictions can be complex and can vary depending on the context. For example, the verb "give" has a selectional restriction that its subject must give something to someone, but the specific requirements for the subject and object can vary depending on the context. In some cases, the subject must be a person and the object must be a physical object, while in other cases, the subject can be a non-human entity and the object can be an abstract concept.
+
+Overall, understanding selectional restrictions is crucial for understanding the meaning of language and for building natural language processing systems that can accurately interpret and generate language.
