@@ -1,0 +1,13 @@
+
+
+# Preparation, Properties, and Industrial Applications of Teflon, Lucite, Bakelite, Kelvar, and Dacron
+
+* Teflon: Teflon is a synthetic fluoropolymer of tetrafluoroethylene. It is a strong, non-reactive material that is used in a variety of applications due to its chemical resistance and low coefficient of friction. Teflon is prepared by polymerizing tetrafluoroethylene in aqueous suspension. Its properties include high melting point, low coefficient of friction, and high thermal stability. Teflon is used in a variety of industrial applications, including as a coating for cookware, as a lubricant for machinery, and as a non-stick coating for fabrics.
+
+* Lucite: Lucite is a brand name for a type of acrylic resin. It is a transparent, lightweight material with excellent optical properties. Lucite is prepared by polymerizing methyl methacrylate. Its properties include high optical clarity, low weight, and excellent weather-resistance. Lucite is used in a variety of industrial applications, including as a coating for aircraft and automotive parts, as a protective coating for furniture, and as a material for signage.
+
+* Bakelite: Bakelite is a type of thermosetting plastic. It is a strong, hard material that is resistant to heat, fire, and chemicals. Bakelite is prepared by polymerizing phenol formaldehyde. Its properties include high strength and rigidity, low electrical conductivity, and excellent chemical resistance. Bakelite is used in a variety of industrial applications, including as a material for electrical insulation, as a molding compound for castings, and as a protective coating for machinery.
+
+* Kelvar: Kelvar is a brand name for a type of aramid fiber. It is a strong, lightweight material with excellent thermal and chemical resistance. Kelvar is prepared by spinning a solution of poly-paraphenylene terephthalamide. Its properties include high tensile strength, low weight, and excellent heat resistance. Kelvar is used in a variety of industrial applications, including as a material for protective clothing, as a reinforcement for composites, and as a material for bullet-proof vests.
+
+* Dacron: Dacron is a brand name for a type of polyester fiber. It is a strong, lightweight material with excellent thermal and chemical resistance. Dacron is prepared by spinning a solution of polyethylene terephthalate. Its properties include high tensile strength, low weight, and excellent heat resistance. Dacron is used in a variety of industrial applications, including as a material for clothing, as a reinforcement for composites, and as a material for sails and boat covers.

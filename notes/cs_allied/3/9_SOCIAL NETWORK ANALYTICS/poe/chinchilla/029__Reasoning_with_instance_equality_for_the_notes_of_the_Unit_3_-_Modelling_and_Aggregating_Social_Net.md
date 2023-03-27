@@ -1,0 +1,13 @@
+### Reasoning with Instance Equality
+
+In social network analytics, one of the most important concepts is instance equality. Instance equality refers to the relationship between two nodes in a graph that represent the same person or entity. For example, if we have two nodes in a graph that represent the same person, we need to be able to reason about these nodes as if they were the same.
+
+Here are some key points to understand about instance equality:
+
+- Instance equality is important because in social networks, we often have multiple representations of the same person or entity. For example, a person may have multiple social media accounts, each represented by a different node in a graph.
+- To reason about instance equality, we need to be able to identify nodes that represent the same person or entity. One way to do this is by using unique identifiers, such as email addresses or usernames. Another way is by using matching algorithms that compare different attributes of the nodes, such as name, location, and profile picture.
+- Once we have identified nodes that represent the same person or entity, we can aggregate the information from these nodes to get a more complete picture of the person or entity. For example, we can combine the social media activity from multiple nodes to get a better understanding of the person's interests and behavior.
+- One challenge with reasoning about instance equality is that it can be difficult to determine with certainty whether two nodes represent the same person or entity. For example, two people with the same name and location may be different individuals, or two social media accounts with the same username may be owned by different people. In these cases, we need to use probabilistic methods to estimate the likelihood that two nodes represent the same person or entity.
+- Another challenge is that instance equality can change over time. For example, a person may change their username or email address, which would require us to update our identification and matching algorithms. Additionally, a person may create new social media accounts, which would require us to identify and match these new nodes to existing nodes that represent the same person or entity.
+
+Overall, instance equality is a critical concept in social network analytics that allows us to reason about nodes in a graph as if they were the same person or entity. By identifying and aggregating information from nodes that represent the same person or entity, we can gain a deeper understanding of social networks and the people and entities that inhabit them.

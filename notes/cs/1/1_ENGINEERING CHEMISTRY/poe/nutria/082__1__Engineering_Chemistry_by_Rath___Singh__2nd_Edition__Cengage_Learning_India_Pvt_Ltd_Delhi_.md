@@ -1,0 +1,4 @@
+
+### 1. Engineering Chemistry by Rath & Singh, 2nd Edition, Cengage Learning India Pvt Ltd Delhi
+
+This book provides a comprehensive overview of the fundamentals of engineering chemistry, including topics such as atomic structure, chemical bonding, chemical kinetics, thermodynamics, electrochemistry, and more. It covers the fundamentals of engineering chemistry, and provides a comprehensive introduction to the subject. The book also includes a range of examples and problems to illustrate the concepts discussed. The book is suitable for undergraduate students of engineering, as well as those studying for postgraduate degrees.
