@@ -1,0 +1,15 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+In distributed systems, Byzantine Agreement is a fundamental problem that needs to be solved in order to achieve consensus among nodes. The problem arises when some of the nodes in the system are faulty and send conflicting information to other nodes. The goal of Byzantine Agreement is to find a way for all nodes to agree on a single value, even in the presence of faulty nodes. Here are some solutions to the Byzantine Agreement problem:
+
+1. Byzantine Fault Tolerance (BFT) Algorithm: This algorithm is designed to tolerate up to one-third of the total number of faulty nodes in the system. The algorithm works by having each node send its value to all other nodes in the system. Each node then collects all the values it receives and runs a consensus algorithm to determine the final value. The BFT algorithm is widely used in blockchain systems to achieve consensus.
+
+2. Practical Byzantine Fault Tolerance (PBFT) Algorithm: PBFT is an improvement over the BFT algorithm that is designed to handle a larger number of faulty nodes. PBFT works by having a leader node that is responsible for collecting values from all other nodes and running a consensus algorithm to determine the final value. The algorithm uses a three-phase approach that ensures that all nodes agree on the final value.
+
+3. Proof of Work (PoW) Algorithm: PoW is a consensus algorithm used in blockchain systems that requires nodes to perform computational work in order to add a new block to the blockchain. The algorithm is designed to make it difficult for a single node to take control of the blockchain, as the computational work required to do so would be prohibitively expensive.
+
+4. Proof of Stake (PoS) Algorithm: PoS is another consensus algorithm used in blockchain systems that requires nodes to stake a certain amount of cryptocurrency in order to participate in the consensus process. The algorithm is designed to make it difficult for a single node to take control of the blockchain, as the cost of acquiring enough cryptocurrency to do so would be prohibitively expensive.
+
+5. Federated Byzantine Agreement (FBA) Algorithm: FBA is a consensus algorithm used in Stellar, a blockchain-based payment system. The algorithm works by having a group of trusted nodes, called validators, reach consensus on the final value. Each validator votes on the final value, and the algorithm determines the final value based on a threshold of votes.
+
+In conclusion, solving the Byzantine Agreement problem is essential in distributed systems, and there are various algorithms available to achieve consensus among nodes. The choice of algorithm depends on the specific requirements of the system, such as the number of faulty nodes and the level of trust among nodes.

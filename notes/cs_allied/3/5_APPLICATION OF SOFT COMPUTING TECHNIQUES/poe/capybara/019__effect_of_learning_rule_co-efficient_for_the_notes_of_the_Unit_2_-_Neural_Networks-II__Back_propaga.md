@@ -1,0 +1,14 @@
+### Effect of Learning Rule Co-efficient for the Notes of Unit 2 - Neural Networks-II (Back Propagation Networks) in the Subject of Application of Soft Computing Techniques
+
+In the field of neural networks, back propagation is a widely used algorithm for training artificial neural networks. The learning rule co-efficient, also known as the learning rate, is an important parameter in the back propagation algorithm that determines the size of the weight updates during training. In this section, we will discuss the effect of the learning rule co-efficient on the performance of back propagation networks.
+
+Here are some key points to consider:
+
+- The learning rule co-efficient controls the step size of weight updates during the training process. A small learning rate may result in slow convergence, while a large learning rate may cause the weights to oscillate and prevent convergence.
+- The optimal learning rate depends on the specific problem and the network architecture. Generally, a learning rate between 0.1 and 0.01 is a good starting point for most problems.
+- If the learning rate is too low, the network may take a long time to converge, or it may get stuck in a local minimum. In this case, increasing the learning rate can help speed up convergence and improve the final performance.
+- If the learning rate is too high, the weight updates may be too large and cause the network to overshoot the optimal solution. This can cause the network to oscillate, diverge, or perform poorly on the test data. In this case, reducing the learning rate can help stabilize the training process and improve the final performance.
+- It is often useful to use a decreasing learning rate schedule, where the learning rate is reduced over time as the network approaches the optimal solution. This can help improve the stability and the final performance of the network.
+- Other factors, such as the batch size, the network architecture, and the optimization algorithm, can also affect the performance of the back propagation network. It is important to experiment with different settings and parameters to find the optimal configuration for the specific problem.
+
+In conclusion, the learning rule co-efficient is a crucial parameter in the back propagation algorithm that determines the speed and the quality of the training process. Finding the optimal learning rate for a specific problem requires experimentation and tuning, and it depends on various factors such as the network architecture, the optimization algorithm, and the training data. By carefully adjusting the learning rate and other parameters, we can train effective back propagation networks for various applications in soft computing.

@@ -1,0 +1,13 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+In distributed systems, it is essential to have a mechanism to recover from failures that occur in the system. One way to achieve this is through checkpointing, which involves periodically saving the current state of the system to disk. However, if the checkpoint is inconsistent, it can lead to incorrect recovery and ultimately result in system failures. Therefore, obtaining consistent checkpoints is crucial in distributed systems. Here are some ways to achieve this:
+
+1. **Quiescence-based approach**: This approach involves suspending all activities in the system before taking a checkpoint. It ensures that all messages have been delivered and all processes have reached a quiescent state before the checkpoint is taken. This method is easy to implement but can be time-consuming and may impact system performance.
+
+2. **Logging-based approach**: In this approach, all updates to the system state are logged. To take a checkpoint, the state is frozen, and the log is truncated. The frozen state and the truncated log form the consistent checkpoint. This approach is efficient and does not require the system to be suspended. However, it can be complex to implement and may require additional storage capacity.
+
+3. **Transaction-based approach**: This approach involves grouping all updates to the system state into transactions. A checkpoint is taken after each transaction is committed. This ensures that the checkpoint is consistent with the state of the system after the transaction. However, this method may require significant changes to the system's design, and the overhead of creating transactions may impact system performance.
+
+4. **Hybrid approach**: This approach combines two or more of the above methods to achieve consistent checkpoints. For example, a system may use the quiescence-based approach to take periodic checkpoints and use the logging-based approach to take intermediate checkpoints. This approach can provide a balance between consistency and performance but may require more complex implementation.
+
+In conclusion, obtaining consistent checkpoints is essential in distributed systems to ensure correct recovery from failures. The choice of checkpointing approach depends on the system's design, requirements, and performance considerations. A well-designed checkpointing mechanism can help ensure the reliability and availability of distributed systems.

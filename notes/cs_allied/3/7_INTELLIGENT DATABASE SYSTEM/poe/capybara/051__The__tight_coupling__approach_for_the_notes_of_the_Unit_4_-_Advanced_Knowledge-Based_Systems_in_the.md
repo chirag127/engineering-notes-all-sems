@@ -1,0 +1,11 @@
+### The 'Tight Coupling' Approach for the Notes of Unit 4 - Advanced Knowledge-Based Systems in the Subject of Intelligent Database System
+
+The 'tight coupling' approach is a method used in knowledge-based systems to integrate domain knowledge into the system. It involves integrating the knowledge representation and reasoning components of the system, making it a tightly coupled system. Here are some important points to understand about the 'tight coupling' approach:
+
+- The 'tight coupling' approach is used to create a system that is highly dependent on the domain knowledge, which is integrated into the system's reasoning and knowledge representation components.
+- In a tightly coupled system, the domain knowledge is used to guide the reasoning process of the system. This means that the system is designed to use the domain knowledge to make decisions and solve problems.
+- The 'tight coupling' approach allows the system to reason about the domain knowledge by using a set of rules or constraints. These rules are used to ensure that the system produces accurate results and makes decisions that are in line with the domain knowledge.
+- The 'tight coupling' approach requires a significant amount of domain knowledge to be integrated into the system. This means that the system must be designed to handle a large amount of data and information related to the domain.
+- The 'tight coupling' approach is particularly useful in situations where the domain knowledge is complex and difficult to represent in a simple way. By tightly coupling the knowledge representation and reasoning components of the system, it is possible to create a system that is more accurate and effective in solving problems related to the domain.
+
+In conclusion, the 'tight coupling' approach is an important method for integrating domain knowledge into knowledge-based systems. It allows the system to use the domain knowledge to guide its reasoning and decision-making processes, resulting in a more effective and accurate system. Understanding the 'tight coupling' approach is essential for students studying advanced knowledge-based systems in the subject of Intelligent Database System.

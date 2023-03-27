@@ -1,0 +1,11 @@
+### Gibbs sampling for the notes of the Unit 3 - Pseudo-Random Numbers in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+Gibbs sampling is a technique used in the field of probability and statistics to generate samples from a multivariate distribution. It is a form of Markov chain Monte Carlo (MCMC) method and is widely used in various fields such as machine learning, data science, and artificial intelligence. Here are some important points to keep in mind while studying Gibbs sampling:
+
+- Gibbs sampling is a powerful algorithm that can be used to approximate the posterior distribution of a set of parameters. This is particularly useful in Bayesian inference, where we want to estimate the posterior distribution of the parameters given the observed data.
+- The basic idea behind Gibbs sampling is to sample from the conditional distributions of each parameter, given the values of all the other parameters. This is done iteratively, by updating one parameter at a time.
+- At each iteration, we select a parameter to update and sample a new value for that parameter using its conditional distribution. The values of all the other parameters are held fixed during this process.
+- The process of updating each parameter is repeated many times until the samples converge to the desired posterior distribution. This convergence can be assessed using various diagnostic tools such as trace plots and autocorrelation plots.
+- One advantage of Gibbs sampling is that it can be used to sample from complex distributions that are difficult or impossible to sample from directly. For example, in Bayesian hierarchical models, the joint posterior distribution of all the parameters can be very complex and may not have a closed-form solution. Gibbs sampling can be used to approximate this distribution by iteratively sampling from the conditional distributions of each parameter.
+- However, one limitation of Gibbs sampling is that it can be slow to converge when the conditional distributions are highly correlated. In such cases, other MCMC methods such as Metropolis-Hastings algorithm may be more efficient.
+- In conclusion, Gibbs sampling is a powerful and widely used algorithm for approximating complex multivariate distributions. It is an important tool in the field of Bayesian inference, machine learning, and data science.

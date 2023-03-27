@@ -1,0 +1,10 @@
+### Absence of Global Clock
+
+In distributed systems, absence of a global clock is a common issue that arises due to the fact that each node in the system has its own clock which may be different from others. Here are some important points to understand this concept:
+
+- The lack of a global clock makes it difficult to determine the exact order of events that occur in the system. This is because each node has its own clock and there is no way to synchronize them perfectly.
+- In a distributed system, events may occur concurrently at different nodes, and it is difficult to determine which event happened first without a global clock. This can lead to inconsistencies in the system and affect its overall functioning.
+- To overcome this issue, distributed systems use logical clocks which keep track of the order of events based on causal relationships between them. Logical clocks are not dependent on physical time and are used to determine the order of events in the system.
+- One common type of logical clock used in distributed systems is the Lamport clock. It assigns a unique timestamp to each event and uses this timestamp to determine the order of events. However, Lamport clocks cannot accurately determine causality in all cases and may lead to incorrect ordering of events in certain scenarios.
+- Another approach to overcome the absence of a global clock is to use vector clocks. Vector clocks assign a vector of timestamps to each event, which represents the timestamp of the event at each node in the system. Vector clocks can accurately determine causality and are widely used in distributed systems.
+- It is important to carefully design the clock synchronization mechanism in a distributed system to ensure that it functions correctly and consistently. Any inconsistencies in the clock synchronization mechanism can lead to serious issues in the system.

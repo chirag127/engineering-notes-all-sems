@@ -1,0 +1,12 @@
+### Orthogonal Vectors
+
+In the subject of MATHEMATICAL FOUNDATION AI, ML AND DATA SCIENCE, one of the key concepts that you'll come across in Unit 4 - Vector Spaces is that of orthogonal vectors. Here are some important points to keep in mind about orthogonal vectors:
+
+- Orthogonal vectors are two vectors that are perpendicular to each other. This means that their dot product is equal to zero.
+- The dot product of two vectors is defined as the sum of the products of their corresponding components. For example, if we have two vectors a = [a1, a2, a3] and b = [b1, b2, b3], then their dot product is given by a · b = a1*b1 + a2*b2 + a3*b3.
+- If two vectors are orthogonal, then their dot product is zero. This can be seen from the fact that the dot product is equal to the sum of the products of their corresponding components, and if any of these products is zero (because the vectors are perpendicular), then the dot product is zero as well.
+- Orthogonal vectors are important in many areas of mathematics and physics. For example, in linear algebra, orthogonal vectors are used to define orthogonal bases for vector spaces. In physics, orthogonal vectors are used to define the direction of forces and velocities.
+- It's important to note that not all vectors are orthogonal. In fact, most vectors are not orthogonal. However, it's often possible to find orthogonal vectors that are related to a given vector. For example, if we have a vector a, we can find an orthogonal vector b by taking the cross product of a with some other vector c.
+- Finally, it's worth noting that orthogonal vectors are not the same as unit vectors. Unit vectors are vectors that have a length of one, while orthogonal vectors are vectors that are perpendicular to each other. However, it's often possible to find unit vectors that are orthogonal to each other, and these vectors are called orthonormal vectors.
+
+In summary, orthogonal vectors are an important concept in the study of vector spaces. They are two vectors that are perpendicular to each other, and their dot product is equal to zero. Orthogonal vectors are used to define orthogonal bases for vector spaces, and they are also used in physics to define the direction of forces and velocities. While most vectors are not orthogonal, it's often possible to find orthogonal vectors that are related to a given vector, and it's also possible to find unit vectors that are orthogonal to each other.
