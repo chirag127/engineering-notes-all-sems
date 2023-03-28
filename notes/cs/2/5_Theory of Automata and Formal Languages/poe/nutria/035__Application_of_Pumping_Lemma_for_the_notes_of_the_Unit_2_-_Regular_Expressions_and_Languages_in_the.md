@@ -1,0 +1,7 @@
+
+### Application of Pumping Lemma for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+
+* The Pumping Lemma is a tool used to prove whether a language is regular or not. 
+* It states that for any regular language, there exists a constant number (called the pumping length) such that for any string in the language of length greater than the pumping length, it can be divided into three parts such that the first and second parts are concatenated any number of times and the resulting string is still in the language. 
+* The Pumping Lemma can be used to prove that a language is not regular by providing a string that cannot be divided into the three parts as described above. 
+* For example, the language L = {anbn | n ≥ 0} cannot be proven to be regular using the Pumping Lemma. If we assume that the language is regular, then there exists a pumping length p such that for any string in L of length greater than p, it can be divided into three parts. However, for any such string in L, the first part must be of length 0 or 1 and the second part must be of length n. This means that no matter what the pumping length is, the string cannot be divided into three parts such that the resulting string is still in the language. Therefore, L cannot be regular.

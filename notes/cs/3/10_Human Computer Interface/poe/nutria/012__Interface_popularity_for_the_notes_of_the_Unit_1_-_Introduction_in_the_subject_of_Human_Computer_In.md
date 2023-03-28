@@ -1,0 +1,6 @@
+
+### Interface Popularity
+1. Graphical User Interfaces (GUI) are the most popular type of user interface, and are used in most modern operating systems. They allow users to interact with the system and applications through visual elements such as icons, menus, toolbars, and windows.
+2. Command Line Interfaces (CLI) are text-based interfaces that allow users to interact with the system and applications using text commands. CLIs are often used by system administrators and developers, as they provide more control and flexibility than GUI interfaces.
+3. Voice-based User Interfaces (VUI) are interfaces that allow users to interact with the system and applications using voice commands. VUIs are becoming increasingly popular, as they allow users to interact with the system without having to use a keyboard or mouse.
+4. Natural Language Interfaces (NLI) are interfaces that allow users to interact with the system and applications using natural language. NLIs are becoming more popular due to advances in artificial intelligence and natural language processing.

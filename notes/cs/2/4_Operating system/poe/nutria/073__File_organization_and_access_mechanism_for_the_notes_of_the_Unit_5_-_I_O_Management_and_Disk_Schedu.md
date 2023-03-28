@@ -1,0 +1,6 @@
+
+### File Organization and Access Mechanism for Unit 5 - I/O Management and Disk Scheduling
+1. File organization is the process of organizing data into a logical structure for efficient storage and retrieval. It involves the creation of a hierarchical structure of files and directories, as well as the allocation of storage space for the files.
+2. Access mechanisms are the methods used to control access to files and directories. These include access control lists (ACLs), access control matrices (ACMs), and encryption.
+3. I/O management is the process of managing the input/output operations of a computer system. This includes the scheduling of I/O operations, the selection of appropriate I/O devices, and the optimization of I/O operations.
+4. Disk scheduling is the process of scheduling I/O operations on a disk drive. This involves selecting the optimal sequence of operations for the disk drive to minimize the overall time taken for all operations. Common disk scheduling algorithms include First-Come-First-Served (FCFS), Shortest-Seek-Time-First (SSTF), and SCAN.

@@ -1,0 +1,10 @@
+
+### Time Stamping Protocols for Concurrency Control
+
+Time stamping protocols are used to control concurrent transactions in a database management system. Time stamping protocols are based on the concept of assigning each transaction a unique time stamp. This time stamp is used to determine which transaction should be executed first and which should be aborted in the case of a conflict. 
+
+Time stamping protocols can be used to ensure the serializability of concurrent transactions, i.e. to ensure that the final state of the database is equivalent to the one that would have been obtained if the transactions had been executed serially.
+
+Time stamping protocols work by assigning each transaction a unique time stamp. This time stamp is used to order the transactions according to their execution time. When a transaction is initiated, it is assigned a time stamp and the database management system records the time stamp. When a transaction attempts to access an item that is already locked by another transaction, the system checks the time stamps of the two transactions. If the time stamp of the requesting transaction is larger than the time stamp of the locked transaction, the requesting transaction is allowed to proceed. Otherwise, the requesting transaction is aborted.
+
+Time stamping protocols can be used to ensure the serializability of concurrent transactions, i.e. to ensure that the final state of the database is equivalent to the one that would have been obtained if the transactions had been executed serially. Additionally, time stamping protocols can be used to detect and resolve deadlocks, i.e. situations in which two or more transactions are waiting for each other to release a locked item. In such cases, the transaction with the smallest time stamp is aborted and the other transactions are allowed to proceed.

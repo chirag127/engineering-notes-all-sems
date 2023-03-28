@@ -1,0 +1,8 @@
+
+### Types for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+1. Technical Writing: Technical writing is a form of communication that is used to explain complex technical topics to the audience. This form of communication is used in various industries such as aerospace, engineering, and healthcare. Technical writing is used to explain the processes, operations, and procedures of a particular topic. 
+2. Instructional Design: Instructional design is a form of technical communication that is used to create instructional materials. Instructional design involves the analysis of the target audience, the development of instructional objectives, and the design of instructional materials. 
+3. Technical Reports: Technical reports are documents that provide detailed information about a particular topic or project. Technical reports are used to provide information about a particular topic or project, and they are typically written in a formal style. 
+4. User Guides: User guides are documents that provide instructions on how to use a particular product or service. User guides are used to help users understand how to use a particular product or service. 
+5. Technical Presentations: Technical presentations are presentations that are used to explain a particular topic or project to an audience. Technical presentations are typically used to explain complex topics in a concise and clear manner.
