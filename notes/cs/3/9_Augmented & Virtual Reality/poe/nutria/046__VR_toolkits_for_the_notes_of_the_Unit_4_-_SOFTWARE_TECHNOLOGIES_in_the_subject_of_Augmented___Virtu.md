@@ -1,0 +1,8 @@
+
+### VR Toolkits for Unit 4 - SOFTWARE TECHNOLOGIES in Augmented & Virtual Reality
+
+* Unity: Unity is a cross-platform game engine used to develop video games for PC, consoles, mobile devices and websites. It is also used to create interactive 3D and 2D applications, such as architectural visualizations and medical simulations. Unity supports the development of virtual reality (VR) applications, including the integration of various types of input devices and tracking systems.
+* Unreal Engine: Unreal Engine is a game engine developed by Epic Games. It is used to create 3D and 2D games and interactive experiences. It supports the development of VR applications, including the integration of various types of input devices and tracking systems.
+* WebVR: WebVR is an open source API that enables virtual reality experiences to be created within web browsers. It supports the development of VR applications, including the integration of various types of input devices and tracking systems.
+* A-Frame: A-Frame is an open source web framework for building virtual reality (VR) experiences. It is designed to be easy to use and provides a simple API for creating 3D and 2D applications. It supports the development of VR applications, including the integration of various types of input devices and tracking systems.
+* Three.js: Three.js is an open source JavaScript library used to create 3D graphics for web applications. It supports the development of VR applications, including the integration of various types of input devices and tracking systems.

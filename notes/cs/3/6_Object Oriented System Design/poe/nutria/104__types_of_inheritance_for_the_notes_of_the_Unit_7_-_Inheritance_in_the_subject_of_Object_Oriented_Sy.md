@@ -1,0 +1,7 @@
+
+### Types of Inheritance 
+1. Single Inheritance: Single inheritance is a type of inheritance where a derived class is inherited from a single base class. This type of inheritance allows a derived class to inherit only the features of a single base class. 
+2. Multiple Inheritance: Multiple inheritance is a type of inheritance where a derived class is inherited from more than one base class. This type of inheritance allows a derived class to inherit the features of multiple base classes.
+3. Hierarchical Inheritance: Hierarchical inheritance is a type of inheritance where a derived class is inherited from more than one base class in a hierarchical manner. This type of inheritance allows a derived class to inherit the features of multiple base classes in a hierarchical manner.
+4. Multilevel Inheritance: Multilevel inheritance is a type of inheritance where a derived class is inherited from a base class which is also inherited from another base class. This type of inheritance allows a derived class to inherit the features of multiple base classes in a multilevel manner.
+5. Hybrid Inheritance: Hybrid inheritance is a type of inheritance which combines two or more types of inheritance. This type of inheritance allows a derived class to inherit the features of multiple base classes in a combined manner.

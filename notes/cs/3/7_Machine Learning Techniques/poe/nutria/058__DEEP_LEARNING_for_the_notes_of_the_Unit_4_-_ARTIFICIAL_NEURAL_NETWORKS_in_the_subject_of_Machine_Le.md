@@ -1,0 +1,9 @@
+
+### Deep Learning for the Notes of Unit 4 - Artificial Neural Networks in the Subject of Machine Learning Techniques
+
+* Deep Learning is a subset of Machine Learning which uses algorithms inspired by the human brain to process data.
+* Artificial Neural Networks (ANNs) are a type of Deep Learning algorithm that simulate the neurons in the brain. They are used to recognize patterns in data and can be used for a variety of tasks, such as image recognition, natural language processing, and speech recognition.
+* ANNs are composed of layers of neurons, which are connected by weights. Each neuron has an activation function, which determines how it will respond to the input it receives.
+* Training an ANN involves adjusting the weights and activation functions of the neurons in order to make the ANN more accurate in its predictions. This is done by providing the ANN with a set of labeled data, and then adjusting the weights and activation functions in response to the errors in the predictions.
+* ANNs can be used for supervised learning, unsupervised learning, and reinforcement learning. Supervised learning involves training the ANN on labeled data in order to make predictions. Unsupervised learning involves training the ANN on unlabeled data in order to discover patterns in the data. Reinforcement learning involves training the ANN to take actions in order to maximize rewards.
+* Deep Learning has become increasingly popular in recent years due to its ability to solve complex problems with high accuracy. It has been used in many applications, such as facial recognition, autonomous driving, and medical diagnosis.

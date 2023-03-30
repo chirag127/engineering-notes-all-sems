@@ -1,0 +1,10 @@
+
+### Introduction
+
+1. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+2. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+3. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content.
+4. CSS can be applied to HTML or XHTML using three methods: linked, embedded, and inline. In the linked method, the CSS is stored in a separate file, instead of directly in the HTML page. In the embedded method, CSS is stored as part of the HTML page, in the header section. In the inline method, CSS is applied directly to the HTML element using the style attribute.
+5. CSS has a simple syntax and uses a number of English keywords to specify the names of various style properties. A style sheet consists of a list of rules. Each rule or rule-set consists of one or more selectors, and a declaration block. In CSS, selectors declare which part of the markup a style applies to by matching tags and attributes in the markup itself.
+
+6. CSS works with HTML to create visually appealing webpages. It can control the layout of multiple web pages all at once, saving time and effort. CSS also helps web developers maintain consistency across multiple web pages and websites. CSS can be used to create different layouts for different devices, such as tablets and mobile phones, ensuring that the user experience is consistent across all devices.
