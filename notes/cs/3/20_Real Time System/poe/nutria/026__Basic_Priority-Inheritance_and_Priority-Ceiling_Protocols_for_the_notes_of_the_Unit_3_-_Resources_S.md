@@ -1,0 +1,8 @@
+
+### Basic Priority-Inheritance and Priority-Ceiling Protocols
+
+1. Priority-Inheritance Protocol (PIP): This protocol is used to prevent priority inversion in real-time systems. It is a priority-based protocol that allows tasks to inherit the priority of a higher priority task that is accessing a shared resource. When a higher priority task is accessing a shared resource, any lower priority tasks that request access to the same resource will inherit the priority of the higher priority task until the resource is released.
+
+2. Priority-Ceiling Protocol (PCP): This protocol is used to prevent priority inversion in real-time systems. It is a priority-based protocol that assigns a priority ceiling to each shared resource. When a task requests access to a shared resource, the priority of the task is raised to the priority ceiling of the resource. This ensures that the task will not be preempted by any other task while it is accessing the shared resource.
+
+3. Benefits of Priority-Based Protocols: Priority-based protocols are beneficial for real-time systems because they help to ensure that tasks with higher priority are not delayed due to lower priority tasks. This helps to ensure that the system meets its deadlines and performs its functions in a timely manner. Additionally, priority-based protocols can help to reduce the amount of context switching that occurs in the system, which helps to improve overall system performance.
