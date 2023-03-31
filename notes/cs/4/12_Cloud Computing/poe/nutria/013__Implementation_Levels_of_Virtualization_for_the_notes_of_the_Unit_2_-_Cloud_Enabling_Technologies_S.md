@@ -1,0 +1,9 @@
+
+### Implementation Levels of Virtualization
+
+1. Virtualization is the process of creating a virtual version of a physical or logical entity. It is a key technology for enabling cloud computing, as it allows for the creation of virtual resources such as virtual machines, networks, storage, and applications.
+2. There are three main levels of virtualization: hardware, platform, and application. 
+3. Hardware virtualization, also known as server virtualization, is the process of creating virtual versions of physical hardware components, such as CPUs, memory, and storage. This allows multiple virtual machines to run on the same physical hardware, thus reducing costs and improving efficiency.
+4. Platform virtualization, also known as operating system virtualization, is the process of creating virtual versions of operating systems, such as Linux, Windows, or Mac OS X. This allows multiple operating systems to run on the same physical hardware, thus allowing for greater flexibility in software development and deployment.
+5. Application virtualization, also known as software virtualization, is the process of creating virtual versions of software applications, such as web servers, database servers, or email servers. This allows multiple applications to run on the same physical hardware, thus reducing costs and improving efficiency.
+6. Service-oriented architecture (SOA) is an architectural style for distributed computing that enables the creation of services that can be accessed and used by other applications. SOA is a key enabling technology for cloud computing, as it allows for the creation of virtual services that can be accessed and used by other applications.
