@@ -1,0 +1,11 @@
+
+### Definition for the notes of the Unit 1 - Internet of Things (IoT): 
+- **Vision:** The Internet of Things (IoT) is a network of physical objects, including people, animals, machines, and sensors, that are connected to the internet and can send and receive data.
+- **Definition:** The Internet of Things is a network of physical objects that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
+- **Conceptual Framework:** The Internet of Things is based on the concept of connecting physical objects to the internet, allowing them to communicate with each other and with other systems.
+- **Architectural view:** The Internet of Things consists of three main components: devices, networks, and services. Devices are the physical objects that are connected to the internet, networks are the communication infrastructure that connects the devices, and services are the applications that use the data from the devices.
+- **Technology behind IoT:** The technology behind the Internet of Things includes sensors, embedded systems, software, and networks. Sensors are used to collect data from the physical objects, embedded systems are used to process the data, software is used to store and analyze the data, and networks are used to transmit the data.
+- **Sources of the IoT:** The sources of the Internet of Things include the internet, wireless technologies, and sensor networks.
+- **M2M Communication:** Machine-to-machine (M2M) communication is the exchange of data between two or more machines in order to enable the machines to interact with each other.
+- **IoT Examples:** Examples of the Internet of Things include smart home devices, connected cars, medical devices, and industrial automation systems.
+- **Design Principles for Connected Devices:** IoT/M2M systems layers and design standardization, communication technologies, data enrichment and consolidation, ease of designing and affordability.

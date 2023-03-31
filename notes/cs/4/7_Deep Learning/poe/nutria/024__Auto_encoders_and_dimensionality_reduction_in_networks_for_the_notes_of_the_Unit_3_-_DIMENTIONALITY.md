@@ -1,0 +1,7 @@
+
+### Auto Encoders and Dimensionality Reduction in Networks
+
+* Auto encoders are neural networks used for dimensionality reduction. They are composed of an input layer, an output layer, and a hidden layer. The hidden layer is composed of a smaller number of neurons than the input layer, and the output layer is usually the same size as the input layer.
+* Auto encoders learn to reconstruct the input data by minimizing the reconstruction error. This is done by training the network to map the input data to the output layer. The hidden layer is used to capture the most important features of the input data.
+* Dimensionality reduction is the process of reducing the number of features in a dataset. The goal is to reduce the computational complexity and data storage requirements of the dataset. This can be done by removing redundant or irrelevant features, or by transforming the data into a lower dimensional space.
+* Dimensionality reduction can be used to improve the performance of a machine learning model. By reducing the number of features, the model can focus on the most important features and reduce the risk of overfitting. It can also reduce the computational complexity of the model, making it faster and more efficient.
