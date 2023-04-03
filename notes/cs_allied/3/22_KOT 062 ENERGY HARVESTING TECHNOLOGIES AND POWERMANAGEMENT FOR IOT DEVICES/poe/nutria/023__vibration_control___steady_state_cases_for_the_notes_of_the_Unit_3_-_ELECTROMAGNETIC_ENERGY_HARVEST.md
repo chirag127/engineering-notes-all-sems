@@ -1,0 +1,8 @@
+
+### Vibration Control & Steady State Cases for the Notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Vibration control is the process of controlling the vibrations of a system in order to reduce the amount of energy it consumes. It is most commonly used in the context of energy harvesting, where vibrations are used to generate power.
+- Steady state cases refer to the conditions in which a system is in equilibrium, meaning that the energy input is equal to the energy output. This is important in energy harvesting systems, as it ensures that the system is able to generate a consistent amount of power.
+- Electromagnetic energy harvesting (EMEH) is a type of energy harvesting technology that uses electromagnetic fields to generate power. This technology is often used in IoT devices, as it is relatively efficient and can be used in a variety of environments.
+- Non-linear techniques are used to increase the efficiency of energy harvesting systems by allowing the system to respond to changes in the environment. These techniques can be applied to both EMEH and other types of energy harvesting systems.
+- In order to maximize the efficiency of an energy harvesting system, it is important to ensure that the system is able to maintain a steady state. This means that the system should be able to maintain a consistent output of power, regardless of changes in the environment. In order to achieve this, it is important to use vibration control and non-linear techniques.

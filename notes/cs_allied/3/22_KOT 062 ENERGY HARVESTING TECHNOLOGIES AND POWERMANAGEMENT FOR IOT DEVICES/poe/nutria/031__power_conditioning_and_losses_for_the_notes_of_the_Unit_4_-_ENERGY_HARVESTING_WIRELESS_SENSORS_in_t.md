@@ -1,0 +1,9 @@
+
+### Power Conditioning and Losses for the Notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the Subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Power conditioning is the process of changing the form of electrical energy from one type to another. This is typically done to improve the efficiency of the energy transfer or to reduce the amount of energy lost during the transfer.
+- Losses in power conditioning can be caused by several factors, such as resistance, inductance, and capacitance. Resistance is caused by the resistance of the materials used in the power conditioning circuit, while inductance and capacitance are caused by the inductance and capacitance of the components used in the circuit.
+- Power conditioning can also be used to reduce the amount of energy lost during the transfer of energy. This is done by increasing the efficiency of the power transfer, or by reducing the amount of energy lost during the transfer.
+- In energy harvesting wireless sensors, power conditioning is used to ensure that the energy harvested from the environment is converted into the desired form of energy. This is done to ensure that the energy harvested is used efficiently and does not cause any losses.
+- In order to reduce the losses in power conditioning, it is important to use the right components and materials in the power conditioning circuit. It is also important to use the right power conditioning techniques, such as using the right frequency, voltage, and current levels. 
+- Finally, it is important to ensure that the power conditioning circuit is designed and implemented correctly to ensure that the losses are minimized. This can be done by using the right components and materials, as well as using the right techniques and strategies.
