@@ -1,0 +1,9 @@
+
+### Single Layer and Multilayer Feed Forward Networks
+
+* Neural networks are a family of algorithms that are used to identify patterns in data. They are inspired by the structure and function of biological neurons in the human brain.
+* A single layer feed forward network is a type of neural network that consists of a single layer of neurons. The neurons in this layer are connected to each other and to an input and output layer. A single layer feed forward network is used for simple tasks, such as recognizing patterns in data.
+* A multilayer feed forward network is a type of neural network that consists of multiple layers of neurons. The neurons in each layer are connected to each other and to an input and output layer. A multilayer feed forward network is used for more complex tasks, such as recognizing objects in images or predicting future events.
+* The structure of a multilayer feed forward network is composed of an input layer, one or more hidden layers, and an output layer. The input layer receives the input data, which is then passed to the hidden layers. The hidden layers are composed of neurons that process the data and pass the output to the output layer. The output layer produces the desired output.
+* The weights of the neurons in a multilayer feed forward network are adjusted through a process called backpropagation. Backpropagation is an iterative process that adjusts the weights of the neurons in order to minimize the difference between the predicted output and the desired output.
+* The training of a multilayer feed forward network is an iterative process that is used to adjust the weights of the neurons in order to minimize the difference between the predicted output and the desired output. The training process involves the use of a training dataset that is used to adjust the weights of the neurons in order to minimize the error between the predicted output and the desired output.
