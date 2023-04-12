@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- Artificial Intelligence
-- Climate Change
-- Quantum Computing
-- Blockchain Technology
-- COVID-19 Pandemic
-
-
-
 # FUNDAMENTALS OF ELECTRONICS ENGINEERING
 
 Electronics engineering is a branch of engineering that deals with the design, development and testing of electronic systems and products. Electronics engineers work with various components and devices that manipulate electric signals, such as resistors, capacitors, diodes, transistors, integrated circuits, microcontrollers, sensors, etc.
@@ -27,6 +17,16 @@ Some of the topics that are essential for understanding the fundamentals of elec
   - Transistors: Components that amplify or switch electric signals. Transistors consist of three terminals: base, collector, and emitter. Transistors can be classified into two types: bipolar junction transistors (BJT) and field-effect transistors (FET). Transistors are the building blocks of logic gates, amplifiers, and microprocessors.
   - Integrated circuits: Components that contain many transistors and other components on a single chip of silicon or other semiconductor material. Integrated circuits can perform complex functions, such as arithmetic, memory, or communication. Integrated circuits are classified into different categories, such as analog, digital, or mixed-signal.
   - Microcontrollers: Components that contain a microprocessor, memory, and input/output devices on a single chip. Microcontrollers are programmable devices that can control other components or devices in a circuit. Microcontrollers are used for embedded systems, such as robotics, automation, or smart devices.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- Artificial Intelligence
+- Climate Change
+- Quantum Computing
+- Blockchain Technology
+- COVID-19 Pandemic
 
 
 

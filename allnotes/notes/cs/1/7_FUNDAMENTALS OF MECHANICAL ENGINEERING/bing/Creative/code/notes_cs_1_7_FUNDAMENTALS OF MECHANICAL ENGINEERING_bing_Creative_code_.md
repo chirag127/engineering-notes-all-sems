@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
-
-# Topic: <your topic here>
-
-For example:
-
-# Topic: Photosynthesis
-
-
-
 # FUNDAMENTALS OF MECHANICAL ENGINEERING
 
 - Mechanical engineering is the study of physical machines that may involve force and movement.
@@ -22,6 +12,16 @@ For example:
 - The Fundamentals of Engineering (FE) exam is generally the first step in the process to becoming a professional licensed engineer (P.E.).
 - It is designed for recent graduates and students who are close to finishing an undergraduate engineering degree from an EAC/ABET-accredited program.
 - The FE exam covers topics such as mathematics, engineering mechanics, fluid mechanics, thermodynamics, material science, electrical circuits, and engineering ethics.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
+
+# Topic: <your topic here>
+
+For example:
+
+# Topic: Photosynthesis
 
 
 

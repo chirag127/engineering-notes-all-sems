@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Principles of Economics
-- Introduction to Philosophy
-- Fundamentals of Music Theory
-
-
-
 # FUNDAMENTALS OF ELECTRICAL ENGINEERING
 
 Electrical engineering is the branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism. Electrical engineers design, develop, test, and supervise the operation of electrical and electronic devices, systems, and networks.
@@ -31,6 +21,16 @@ Some of the topics that are covered in the fundamentals of electrical engineerin
 - **Series and Parallel Circuits**: This topic covers the analysis of simple circuits that have only one or two types of components, such as resistors, capacitors, or inductors, connected in series or parallel. Series circuits have only one path for the current to flow, while parallel circuits have multiple paths for the current to flow. Series and parallel circuits can be analyzed using Ohm's law, Kirchhoff's laws, and equivalent resistance or impedance formulas. 
 
 These are some of the fundamental topics of electrical engineering that can help you to understand the basic concepts and principles of the field. You can learn more about these topics by reading books, watching videos, taking
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Principles of Economics
+- Introduction to Philosophy
+- Fundamentals of Music Theory
 
 
 

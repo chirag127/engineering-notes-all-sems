@@ -1,17 +1,5 @@
 
 
-# The topic is
-
-- A topic is a subject or theme that is discussed or written about.
-- A topic can be general or specific, depending on the purpose and scope of the discussion or writing.
-- A topic can be chosen by the speaker, writer, or audience, depending on the context and situation.
-- A topic can be expressed by a word, phrase, sentence, or question, depending on the level of detail and clarity needed.
-- A topic can be related to other topics by subtopics, categories, or aspects, depending on the complexity and depth of the topic.
-- A topic can be developed by providing information, examples, arguments, or opinions, depending on the type and goal of the discussion or writing.
-- A topic can be evaluated by criteria, such as relevance, interest, accuracy, or originality, depending on the standards and expectations of the discussion or writing.
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools. The course also introduces the students to some topics in linear algebra, differential equations, and complex analysis.
@@ -34,6 +22,18 @@ The course requires the students to have a good background in pre-calculus, such
 The course is usually assessed by quizzes, assignments, mid-term exams, and a final exam. The course may also require the students to complete some projects or presentations on the applications of mathematics in engineering.
 
 The course is beneficial for the students who want to pursue engineering as a career, as it provides them with the essential mathematical skills and knowledge that are required for solving engineering problems. The course also helps the students to develop their logical thinking, analytical reasoning, and problem-solving abilities. The course also prepares the students for further studies in advanced mathematics and engineering courses.
+
+
+
+# The topic is
+
+- A topic is a subject or theme that is discussed or written about.
+- A topic can be general or specific, depending on the purpose and scope of the discussion or writing.
+- A topic can be chosen by the speaker, writer, or audience, depending on the context and situation.
+- A topic can be expressed by a word, phrase, sentence, or question, depending on the level of detail and clarity needed.
+- A topic can be related to other topics by subtopics, categories, or aspects, depending on the complexity and depth of the topic.
+- A topic can be developed by providing information, examples, arguments, or opinions, depending on the type and goal of the discussion or writing.
+- A topic can be evaluated by criteria, such as relevance, interest, accuracy, or originality, depending on the standards and expectations of the discussion or writing.
 
 
 

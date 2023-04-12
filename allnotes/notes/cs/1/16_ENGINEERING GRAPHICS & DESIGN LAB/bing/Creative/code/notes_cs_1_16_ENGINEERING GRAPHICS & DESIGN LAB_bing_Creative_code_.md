@@ -1,22 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic:
-
-# The topic is
-
-The topic is a general term for the subject matter or main idea of a text, speech, or conversation. The topic can be expressed in a word, a phrase, or a question. For example, the topic of this text is "the topic".
-
-Some points to remember about the topic are:
-
-- The topic is different from the main idea, which is the central message or argument that the author wants to convey about the topic. For example, the main idea of this text is to explain what the topic is and how to identify it.
-- The topic is different from the title, which is the name or label given to a text, speech, or conversation. The title may or may not reflect the topic accurately. For example, the title of this text is "The topic is", which is not very informative about the topic.
-- The topic is different from the thesis statement, which is a sentence that summarizes the main idea and the main points of a text, speech, or argument. The thesis statement usually appears at the end of the introduction or the beginning of the conclusion. For example, the thesis statement of this text is: "In this text, I will explain what the topic is and how to identify it in different types of texts, speeches, and conversations."
-- The topic is different from the keywords, which are the most important words or phrases that relate to the topic and the main idea. The keywords can help the reader or listener to find, understand, and remember the information in the text, speech, or conversation. For example, some of the keywords of this text are: topic, main idea, title, thesis statement, keywords, text, speech, conversation.
-- To identify the topic of a text, speech, or conversation, one can ask oneself: "What is this text, speech, or conversation about?" or "What is the general subject matter of this text, speech, or conversation?" The answer should be a word, a phrase, or a question that captures the essence of the topic. For example, the topic of a text about the history of chocolate could be "chocolate" or "the origin and evolution of chocolate". The topic of a speech about the benefits of meditation could be "meditation" or "why meditation is good for you". The topic of a conversation about the latest movie could be "the movie" or "what did you think of the movie?".
-
-
-
-
 # Engineering Graphics and Design Lab
 
 Engineering graphics and design lab is a course that introduces the students to the principles and techniques of engineering drawing, computer-aided design (CAD), and engineering design. The course covers the following topics:
@@ -49,6 +32,23 @@ The course outcomes are:
 - The students will be able to work in teams and present their engineering design projects effectively
 
 The course consists of lectures and laboratory sessions. The lectures cover the theoretical aspects of engineering graphics and design, while the laboratory sessions provide the students with practical exercises and projects using CAD software and 3D printers. The course assessment is based on quizzes, assignments, laboratory reports, midterm exam, final exam, and design project. The course syllabus may vary depending on the instructor and the institution.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic:
+
+# The topic is
+
+The topic is a general term for the subject matter or main idea of a text, speech, or conversation. The topic can be expressed in a word, a phrase, or a question. For example, the topic of this text is "the topic".
+
+Some points to remember about the topic are:
+
+- The topic is different from the main idea, which is the central message or argument that the author wants to convey about the topic. For example, the main idea of this text is to explain what the topic is and how to identify it.
+- The topic is different from the title, which is the name or label given to a text, speech, or conversation. The title may or may not reflect the topic accurately. For example, the title of this text is "The topic is", which is not very informative about the topic.
+- The topic is different from the thesis statement, which is a sentence that summarizes the main idea and the main points of a text, speech, or argument. The thesis statement usually appears at the end of the introduction or the beginning of the conclusion. For example, the thesis statement of this text is: "In this text, I will explain what the topic is and how to identify it in different types of texts, speeches, and conversations."
+- The topic is different from the keywords, which are the most important words or phrases that relate to the topic and the main idea. The keywords can help the reader or listener to find, understand, and remember the information in the text, speech, or conversation. For example, some of the keywords of this text are: topic, main idea, title, thesis statement, keywords, text, speech, conversation.
+- To identify the topic of a text, speech, or conversation, one can ask oneself: "What is this text, speech, or conversation about?" or "What is the general subject matter of this text, speech, or conversation?" The answer should be a word, a phrase, or a question that captures the essence of the topic. For example, the topic of a text about the history of chocolate could be "chocolate" or "the origin and evolution of chocolate". The topic of a speech about the benefits of meditation could be "meditation" or "why meditation is good for you". The topic of a conversation about the latest movie could be "the movie" or "what did you think of the movie?".
+
 
 
 

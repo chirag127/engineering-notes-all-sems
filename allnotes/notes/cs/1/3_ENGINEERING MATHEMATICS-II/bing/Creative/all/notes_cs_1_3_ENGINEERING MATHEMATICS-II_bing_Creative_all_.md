@@ -1,16 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
-- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
-- The topic can be used to guide the reader's or listener's attention and interest, as well as to help them understand the purpose and main message of the text.
-- The topic can be related to other topics in the same or different texts, such as by using transitions, comparisons, contrasts, or connections.
-
-
-
 # Engineering Mathematics-II
 
 Engineering Mathematics-II is a course that covers various topics in mathematics that are relevant and useful for engineering students. The course aims to develop the students' analytical and problem-solving skills, as well as to provide them with a solid foundation for further studies in engineering.
@@ -24,6 +13,17 @@ The syllabus of Engineering Mathematics-II may vary depending on the institution
 - Transform Techniques: Laplace transform, inverse Laplace transform, properties and applications of Laplace transform, Fourier series, Fourier transform, inverse Fourier transform, properties and applications of Fourier transform, Z-transform, inverse Z-transform, properties and applications of Z-transform.
 
 Engineering Mathematics-II is a course that requires a good understanding of the basic concepts and principles of mathematics, as well as a lot of practice and revision. The course is designed to help the students to enhance their mathematical skills and to apply them to various engineering problems. The course is also intended to prepare the students for more advanced courses in engineering.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
+- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
+- The topic can be used to guide the reader's or listener's attention and interest, as well as to help them understand the purpose and main message of the text.
+- The topic can be related to other topics in the same or different texts, such as by using transitions, comparisons, contrasts, or connections.
 
 
 

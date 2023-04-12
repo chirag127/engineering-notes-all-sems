@@ -1,5 +1,20 @@
 
 
+# Engineering Chemistry Lab
+
+Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills of conducting experiments, analyzing data, and preparing reports in the field of chemical engineering. The course covers some of the following topics:
+
+- Polymerization: Introduction, mechanism, methods, properties, and applications of polymers.
+- Water analysis: Determination of hardness, alkalinity, chloride, dissolved oxygen, and biochemical oxygen demand of water samples.
+- Electrochemistry: Principles, applications, and measurements of electrochemical cells, batteries, and corrosion.
+- Fuels and combustion: Analysis of calorific value, flash point, fire point, and viscosity of fuels. Study of combustion and flue gas analysis.
+- Spectroscopy: Introduction, theory, and applications of UV-visible, IR, and NMR spectroscopy for chemical analysis.
+- Chromatography: Introduction, theory, and applications of paper, thin layer, column, and gas chromatography for separation and identification of organic compounds.
+
+The course requires the students to perform the experiments in the laboratory, follow the safety rules, record the observations, calculate the results, and write the reports. The course also evaluates the students on their performance, attendance, and viva-voce. The course syllabus may vary depending on the institution and the branch of engineering.
+
+
+
 Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of **nuclear fusion**. Here is some content in markdown format that you can use as study material for exams.
 
 # Nuclear Fusion
@@ -25,21 +40,6 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
   - It produces some radioactive byproducts, such as neutrons, tritium, or activated materials, which need to be handled and disposed of safely and responsibly.
   - It faces many technical and scientific challenges, such as plasma instabilities, materials degradation, fuel breeding, or plasma heating and diagnostics, which require further research and development.
   - It has not yet been demonstrated to produce net energy gain or sustained power output, which are the main goals of fusion research.
-
-
-
-# Engineering Chemistry Lab
-
-Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills of conducting experiments, analyzing data, and preparing reports in the field of chemical engineering. The course covers some of the following topics:
-
-- Polymerization: Introduction, mechanism, methods, properties, and applications of polymers.
-- Water analysis: Determination of hardness, alkalinity, chloride, dissolved oxygen, and biochemical oxygen demand of water samples.
-- Electrochemistry: Principles, applications, and measurements of electrochemical cells, batteries, and corrosion.
-- Fuels and combustion: Analysis of calorific value, flash point, fire point, and viscosity of fuels. Study of combustion and flue gas analysis.
-- Spectroscopy: Introduction, theory, and applications of UV-visible, IR, and NMR spectroscopy for chemical analysis.
-- Chromatography: Introduction, theory, and applications of paper, thin layer, column, and gas chromatography for separation and identification of organic compounds.
-
-The course requires the students to perform the experiments in the laboratory, follow the safety rules, record the observations, calculate the results, and write the reports. The course also evaluates the students on their performance, attendance, and viva-voce. The course syllabus may vary depending on the institution and the branch of engineering.
 
 
 

@@ -1,5 +1,16 @@
 
 
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
+- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
+- The topic can be used to guide the reader's or listener's attention and interest, such as by using hooks, transitions, examples, or questions.
+- The topic can be used to communicate the purpose and goal of the text, such as by using a thesis statement, a claim, an argument, or a conclusion.
+
+
+
 # Soft Skills
 
 Soft skills are personal attributes that enable a person to interact effectively and harmoniously with other people. They are also known as power skills, common skills or core skills, because they are applicable to any profession and industry. Unlike hard skills, which are specific and measurable abilities that can be learned and taught, soft skills are more difficult to acquire and develop, as they are often innate and related to one's personality and character. However, soft skills can also be improved through training, practice and feedback.
@@ -23,17 +34,6 @@ Some examples of soft skills are:
 - Intercultural fluency: The ability to communicate and interact effectively and appropriately with people from different cultures, backgrounds and perspectives, as well as to appreciate and value diversity and inclusion.
 
 Soft skills are essential for success in the workplace, as they enable one to perform well in various tasks and roles, as well as to build and maintain positive and productive relationships with colleagues, clients and stakeholders. Soft skills are also important for personal and professional development, as they help one to grow and improve as an individual and as a member of a team and a community. Therefore, it is important to assess and enhance one's soft skills, as well as to showcase them in one's resume, cover letter and interview.
-
-
-
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
-- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
-- The topic can be used to guide the reader's or listener's attention and interest, such as by using hooks, transitions, examples, or questions.
-- The topic can be used to communicate the purpose and goal of the text, such as by using a thesis statement, a claim, an argument, or a conclusion.
 
 
 

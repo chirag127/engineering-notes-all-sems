@@ -1,14 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss.
-
-Some possible ways to continue the conversation are:
-
-- What topic do you want to learn or discuss today?
-- Do you have any specific questions or commands for me?
-
-
-
 # Engineering Graphics and Design Lab
 
 Engineering graphics and design lab is a course that introduces the students to the principles and techniques of engineering drawing, computer-aided design (CAD), and engineering design. The course covers the following topics:
@@ -27,6 +18,15 @@ The course consists of lectures and laboratory sessions, where the students prac
 - To enhance the students' spatial visualization and creativity abilities.
 - To familiarize the students with the CAD software and its applications in engineering design.
 - To provide the students with hands-on experience in engineering design and problem-solving.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss.
+
+Some possible ways to continue the conversation are:
+
+- What topic do you want to learn or discuss today?
+- Do you have any specific questions or commands for me?
 
 
 

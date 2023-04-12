@@ -1,15 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be identified by looking for the main idea, the purpose, or the focus of the text, speech, or conversation.
-- The topic can be used to organize, summarize, or evaluate the text, speech, or conversation.
-- The topic can be related to other topics by finding similarities, differences, causes, effects, or implications.
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools. The course also introduces the students to the use of computer algebra systems for performing calculations and visualizing results.
@@ -35,6 +25,16 @@ Some of the references for Engineering Mathematics-I are:
 - Grewal B.S., Higher Engineering Mathematics, 43rd Edition, Khanna Publishers, 2014.
 - James Stewart, Calculus: Early Transcendentals, 8th Edition, Cengage Learning, 2016.
 - R.K. Jain and S.R.K. Iyengar, Advanced Engineering Mathematics, 4th Edition, Narosa Publishing House, 2014.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be identified by looking for the main idea, the purpose, or the focus of the text, speech, or conversation.
+- The topic can be used to organize, summarize, or evaluate the text, speech, or conversation.
+- The topic can be related to other topics by finding similarities, differences, causes, effects, or implications.
 
 
 

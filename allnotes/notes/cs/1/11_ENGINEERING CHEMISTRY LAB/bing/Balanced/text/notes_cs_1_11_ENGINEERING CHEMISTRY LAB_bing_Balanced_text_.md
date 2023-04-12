@@ -1,5 +1,30 @@
 
 
+# Engineering Chemistry Lab
+
+Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills of conducting experiments, analyzing data, and preparing reports in the field of chemical engineering. The course covers some of the following topics:
+
+- Polymerization and properties of polymers
+- Water analysis and treatment
+- Corrosion and its prevention
+- Fuels and combustion
+- Phase equilibria and phase diagrams
+- Electrochemistry and batteries
+- Spectroscopy and chromatography
+- Nanomaterials and applications
+
+The course may vary depending on the curriculum and the institution, but generally it involves the following components:
+
+- Lab manual: A guide that contains the objectives, procedures, observations, calculations, and questions for each experiment.
+- Lab notebook: A record of the experimental work done in the lab, including the date, title, aim, apparatus, procedure, observations, results, discussion, and conclusion of each experiment.
+- Lab report: A formal document that summarizes the experimental work done in the lab, including the introduction, theory, experimental details, results and analysis, discussion, conclusion, and references of each experiment.
+- Lab quiz: A short test that assesses the understanding of the theory and the experimental work done in the lab.
+- Lab viva: A oral examination that evaluates the knowledge and skills of the students in the lab.
+
+The course requires the students to follow the safety rules and regulations, wear appropriate protective equipment, and handle the chemicals and instruments with care. The course also expects the students to work in teams, communicate effectively, and demonstrate ethical and professional behavior. The course is graded based on the performance in the lab work, lab reports, lab quizzes, and lab viva.
+
+
+
 Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of **nuclear fusion**. Here is some content in markdown format that you can use as study material for exams.
 
 # Nuclear Fusion
@@ -25,31 +50,6 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
   - It is very complex and expensive to develop and operate, requiring advanced technology and engineering, large-scale facilities, and high capital and operational costs.
   - It is still far from being commercially viable, as no fusion reactor has yet achieved a net energy gain or a sustained fusion reaction, and many technical and scientific challenges remain to be solved.
   - It may still produce some environmental and safety issues, such as neutron radiation, tritium leakage, or activation of materials, which need to be carefully managed and minimized.
-
-
-
-# Engineering Chemistry Lab
-
-Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills of conducting experiments, analyzing data, and preparing reports in the field of chemical engineering. The course covers some of the following topics:
-
-- Polymerization and properties of polymers
-- Water analysis and treatment
-- Corrosion and its prevention
-- Fuels and combustion
-- Phase equilibria and phase diagrams
-- Electrochemistry and batteries
-- Spectroscopy and chromatography
-- Nanomaterials and applications
-
-The course may vary depending on the curriculum and the institution, but generally it involves the following components:
-
-- Lab manual: A guide that contains the objectives, procedures, observations, calculations, and questions for each experiment.
-- Lab notebook: A record of the experimental work done in the lab, including the date, title, aim, apparatus, procedure, observations, results, discussion, and conclusion of each experiment.
-- Lab report: A formal document that summarizes the experimental work done in the lab, including the introduction, theory, experimental details, results and analysis, discussion, conclusion, and references of each experiment.
-- Lab quiz: A short test that assesses the understanding of the theory and the experimental work done in the lab.
-- Lab viva: A oral examination that evaluates the knowledge and skills of the students in the lab.
-
-The course requires the students to follow the safety rules and regulations, wear appropriate protective equipment, and handle the chemicals and instruments with care. The course also expects the students to work in teams, communicate effectively, and demonstrate ethical and professional behavior. The course is graded based on the performance in the lab work, lab reports, lab quizzes, and lab viva.
 
 
 

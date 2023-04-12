@@ -1,5 +1,16 @@
 
 
+# B.Sc. (Hons.) in Environmental Science
+
+- B.Sc. (Hons.) in Environmental Science is a three-year undergraduate degree course that covers the study of the natural and human-made environment, its problems and solutions.
+- The course aims to provide students with the knowledge and skills to understand, analyze and manage environmental issues and challenges in various domains such as ecology, engineering, conservation, biology and chemistry.
+- The course curriculum consists of 140 credits spread across 26 papers, including eight electives and four ability-enhancement courses. The course also includes two skill enhancement papers and a project work in the final semester.
+- The course syllabus covers topics such as environmental planning, disaster management, natural resources management, environmental pollution, environmental biotechnology, environmental law and policy, environmental impact assessment, climate change and sustainability.
+- The course is accredited by the Institution of Environmental Sciences (IES) and follows the National Education Policy-2020 guidelines for curriculum restructuring.
+- The course prepares students for various career opportunities in the fields of environmental research, consultancy, education, policy, management, conservation and advocacy. Some of the job roles that graduates can pursue are environmental scientist, environmental engineer, environmental consultant, environmental educator, environmental manager, environmental officer, environmental auditor, environmental activist and environmental journalist.
+
+
+
 Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of:
 
 # The topic is
@@ -13,17 +24,6 @@ Some points to remember about the topic are:
 - The topic can be simple or complex. A simple topic is one that can be expressed by a single word or phrase, such as "dogs", "climate change", or "love". A complex topic is one that requires more than one word or phrase to express, such as "the effects of social media on mental health", "the ethical implications of genetic engineering", or "the similarities and differences between Buddhism and Hinduism".
 - The topic can be specific or general. A specific topic is one that is narrow, focused, and limited in scope, such as "the impact of COVID-19 on the tourism industry in Italy", "the symbolism of the green light in The Great Gatsby", or "the advantages and disadvantages of online learning". A general topic is one that is broad, vague, and unlimited in scope, such as "health", "literature", or "education".
 - The topic can be factual or opinionated. A factual topic is one that is based on verifiable facts, evidence, or data, such as "the history of the Roman Empire", "the properties of water", or "the statistics of global poverty". An opinionated topic is one that is based on personal views, beliefs, or preferences, such as "the best movie of all time", "the meaning of life", or "the pros and cons of vegetarianism".
-
-
-
-# B.Sc. (Hons.) in Environmental Science
-
-- B.Sc. (Hons.) in Environmental Science is a three-year undergraduate degree course that covers the study of the natural and human-made environment, its problems and solutions.
-- The course aims to provide students with the knowledge and skills to understand, analyze and manage environmental issues and challenges in various domains such as ecology, engineering, conservation, biology and chemistry.
-- The course curriculum consists of 140 credits spread across 26 papers, including eight electives and four ability-enhancement courses. The course also includes two skill enhancement papers and a project work in the final semester.
-- The course syllabus covers topics such as environmental planning, disaster management, natural resources management, environmental pollution, environmental biotechnology, environmental law and policy, environmental impact assessment, climate change and sustainability.
-- The course is accredited by the Institution of Environmental Sciences (IES) and follows the National Education Policy-2020 guidelines for curriculum restructuring.
-- The course prepares students for various career opportunities in the fields of environmental research, consultancy, education, policy, management, conservation and advocacy. Some of the job roles that graduates can pursue are environmental scientist, environmental engineer, environmental consultant, environmental educator, environmental manager, environmental officer, environmental auditor, environmental activist and environmental journalist.
 
 
 

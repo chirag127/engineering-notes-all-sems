@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general or specific subject of discussion, writing, or study.
-- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
-- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
-- A topic can be expressed as a word, phrase, question, or statement.
-- A topic can be related to other topics by subtopics, categories, or themes.
-- A topic can be developed by providing details, examples, evidence, or arguments that support or explain it.
-- A topic can be organized by using an outline, a mind map, a graphic organizer, or a thesis statement.
-- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, perspective, or tone of the communication.
-
-
-
 # Engineering Physics Lab
 
 Engineering physics lab is a course that aims to provide students with hands-on experience in conducting experiments related to the topics covered in the engineering physics theory course. Engineering physics lab also helps students to develop skills in data analysis, error estimation, report writing, and scientific communication.
@@ -64,6 +51,19 @@ The engineering physics lab course usually requires students to submit a lab rep
 - References: A list of the sources of information used in the report
 
 The engineering physics lab course also requires students to participate in the lab sessions actively, follow the safety rules and the instructions of the instructor, and cooperate with their lab partners. The engineering physics lab course is usually graded based on the performance in the lab sessions, the quality of the lab reports, and the performance in the lab quizzes and exams.
+
+
+
+# The topic is
+
+- The topic is a general or specific subject of discussion, writing, or study.
+- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
+- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
+- A topic can be expressed as a word, phrase, question, or statement.
+- A topic can be related to other topics by subtopics, categories, or themes.
+- A topic can be developed by providing details, examples, evidence, or arguments that support or explain it.
+- A topic can be organized by using an outline, a mind map, a graphic organizer, or a thesis statement.
+- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, perspective, or tone of the communication.
 
 
 

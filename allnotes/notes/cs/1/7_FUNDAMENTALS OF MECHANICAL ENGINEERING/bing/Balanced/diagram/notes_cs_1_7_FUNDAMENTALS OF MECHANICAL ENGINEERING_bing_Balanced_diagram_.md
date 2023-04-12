@@ -1,17 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic in the following format:
-
-# Topic: <your topic here>
-
-For example:
-
-# Topic: Photosynthesis
-
-I will then write the content in markdown format inside a header diagram. The content will be concise, formal, and informative. It will include points, diagrams, and definitions. It will be suitable for studying and reading for exams.
-
-
-
 # FUNDAMENTALS OF MECHANICAL ENGINEERING
 
 - Mechanical engineering is the study of physical machines that may involve force and movement.
@@ -25,6 +13,18 @@ I will then write the content in markdown format inside a header diagram. The co
 - The Fundamentals of Engineering (FE) exam is generally the first step in the process to becoming a professional licensed engineer (P.E.).
 - The FE exam is designed for recent graduates and students who are close to finishing an undergraduate engineering degree from an EAC/ABET-accredited program.
 - The FE exam covers the following topics: mathematics, probability and statistics, engineering economics, ethics and professional practice, engineering sciences, statics, dynamics, mechanics of materials, fluid mechanics, thermodynamics, heat transfer, material properties and processing, electrical fundamentals, computer and numerical methods, measurement, instrumentation and controls, mechanical design and analysis, and engineering mechanics.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic in the following format:
+
+# Topic: <your topic here>
+
+For example:
+
+# Topic: Photosynthesis
+
+I will then write the content in markdown format inside a header diagram. The content will be concise, formal, and informative. It will include points, diagrams, and definitions. It will be suitable for studying and reading for exams.
 
 
 

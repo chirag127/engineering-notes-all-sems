@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general or specific subject of discussion, writing, or study.
-- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
-- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
-- A topic can be expressed as a word, phrase, question, or statement.
-- A topic can be related to other topics by subtopics, categories, or themes.
-- A topic can be developed by providing details, examples, evidence, or arguments.
-- A topic can be organized by using outlines, diagrams, or graphic organizers.
-- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, tone, or perspective.
-
-
-
 # ENGINEERING CHEMISTRY LAB
 
 Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills and knowledge of chemical engineering students in performing experiments, analyzing data, and reporting results. The course covers various topics related to chemical engineering, such as polymers, fuels, corrosion, water treatment, electrochemistry, and spectroscopy. The course also introduces the students to the scientific method, experimental design, chemical instrumentation, safety, and ethics.
@@ -25,6 +12,19 @@ The following are some of the main points of the engineering chemistry lab sylla
 - The course evaluates the students based on their performance in the experiments, their reports, their presentations, and their participation in the class discussions.
 - The course follows the guidelines and standards of the American Chemical Society (ACS) and the Accreditation Board for Engineering and Technology (ABET).
 - The course also exposes the students to the current trends and developments in the field of chemical engineering and its applications.
+
+
+
+# The topic is
+
+- The topic is a general or specific subject of discussion, writing, or study.
+- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
+- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
+- A topic can be expressed as a word, phrase, question, or statement.
+- A topic can be related to other topics by subtopics, categories, or themes.
+- A topic can be developed by providing details, examples, evidence, or arguments.
+- A topic can be organized by using outlines, diagrams, or graphic organizers.
+- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, tone, or perspective.
 
 
 

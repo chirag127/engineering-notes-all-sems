@@ -1,11 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name after the colon:
-
-The topic is:
-
-
-
 # Programming for Problem Solving
 
 Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using various languages, such as Python, Java, C, etc. Programming can be used to solve various problems in different domains, such as web development, data analysis, game design, etc.
@@ -19,6 +13,12 @@ Problem solving is an essential skill for programmers, as it helps them to analy
 - Test the solution: Run the code with different test cases and inputs to check if the solution works as expected. Debug and fix any errors or bugs that arise. Optimize the code for performance and efficiency.
 
 Problem solving in programming can be improved by practicing coding problems regularly and learning from different sources, such as books, online courses, blogs, etc. There are many online platforms that offer coding problems for various levels and topics, such as CodeChef, HackerRank, LeetCode, etc. Solving coding problems can help to develop logical thinking, analytical skills, and creativity. It can also help to prepare for coding interviews and competitions.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name after the colon:
+
+The topic is:
 
 
 

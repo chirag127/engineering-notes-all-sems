@@ -1,20 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have chosen the topic of **nuclear fusion**. Here is some information about it:
-
-# Nuclear Fusion
-
-- Nuclear fusion is a process in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles.
-- The difference in mass between the reactants and products is converted into energy by the mass-energy equivalence formula E = mc^2, where E is energy, m is mass, and c is the speed of light.
-- Nuclear fusion is the source of energy for the Sun and other stars, as well as hydrogen bombs and fusion reactors.
-- The main challenge of achieving nuclear fusion on Earth is to overcome the electrostatic repulsion between the positively charged nuclei, which requires high temperatures and pressures to initiate and sustain the fusion reaction.
-- The most common fusion reaction in the Sun and other stars is the proton-proton chain, which fuses four hydrogen nuclei (protons) into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays.
-- The most studied fusion reaction for terrestrial applications is the deuterium-tritium reaction, which fuses one deuterium nucleus (a hydrogen isotope with one proton and one neutron) and one tritium nucleus (a hydrogen isotope with one proton and two neutrons) into one helium nucleus, releasing one neutron and 17.6 MeV of energy.
-- The main advantages of nuclear fusion as a source of energy are that it produces no greenhouse gases or radioactive waste, it uses abundant and cheap fuels (hydrogen isotopes), and it has a high energy density (the amount of energy released per unit mass of fuel).
-- The main disadvantages of nuclear fusion as a source of energy are that it requires complex and expensive technology, it poses safety and security risks (such as neutron radiation and nuclear proliferation), and it faces technical and scientific challenges (such as plasma confinement and stability, materials engineering, and fusion ignition and control).
-
-
-
 # FUNDAMENTALS OF ELECTRICAL ENGINEERING
 
 - Electrical engineering is the branch of engineering that deals with the study, design, and application of electrical and electronic systems, devices, and circuits.
@@ -32,6 +17,21 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
   - Power and energy in AC circuits: Power and energy in AC circuits are different from those in DC circuits, because of the presence of reactive elements, such as capacitors and inductors, that store and release energy. Power and energy in AC circuits can be classified into active, reactive, and apparent power, and active and reactive energy. Power factor is a measure of how efficiently a circuit uses the supplied power.
   - Three-phase circuits: Three-phase circuits are a type of AC circuits that use three sinusoidal voltages and currents that are 120 degrees out of phase with each other. Three-phase circuits are widely used in power systems, because they offer advantages such as balanced power delivery, higher efficiency, and lower losses.
   - Transformers: Transformers are devices that use electromagnetic induction to transfer electrical energy from one circuit to another, without changing the frequency. Transformers can be used to step up or step down the voltage level, to isolate circuits, or to match impedances. Transformers can be classified into single-phase or three-phase, and ideal or practical.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have chosen the topic of **nuclear fusion**. Here is some information about it:
+
+# Nuclear Fusion
+
+- Nuclear fusion is a process in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles.
+- The difference in mass between the reactants and products is converted into energy by the mass-energy equivalence formula E = mc^2, where E is energy, m is mass, and c is the speed of light.
+- Nuclear fusion is the source of energy for the Sun and other stars, as well as hydrogen bombs and fusion reactors.
+- The main challenge of achieving nuclear fusion on Earth is to overcome the electrostatic repulsion between the positively charged nuclei, which requires high temperatures and pressures to initiate and sustain the fusion reaction.
+- The most common fusion reaction in the Sun and other stars is the proton-proton chain, which fuses four hydrogen nuclei (protons) into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays.
+- The most studied fusion reaction for terrestrial applications is the deuterium-tritium reaction, which fuses one deuterium nucleus (a hydrogen isotope with one proton and one neutron) and one tritium nucleus (a hydrogen isotope with one proton and two neutrons) into one helium nucleus, releasing one neutron and 17.6 MeV of energy.
+- The main advantages of nuclear fusion as a source of energy are that it produces no greenhouse gases or radioactive waste, it uses abundant and cheap fuels (hydrogen isotopes), and it has a high energy density (the amount of energy released per unit mass of fuel).
+- The main disadvantages of nuclear fusion as a source of energy are that it requires complex and expensive technology, it poses safety and security risks (such as neutron radiation and nuclear proliferation), and it faces technical and scientific challenges (such as plasma confinement and stability, materials engineering, and fusion ignition and control).
 
 
 

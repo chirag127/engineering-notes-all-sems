@@ -1,22 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have chosen the topic of
-
-# Nuclear Fusion
-
-Nuclear fusion is the process of combining two or more atomic nuclei to form a heavier nucleus, releasing a large amount of energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
-
-Some of the main points to know about nuclear fusion are:
-
-- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion to occur is around 100 million degrees Celsius.
-- The most common fusion reaction in stars is the proton-proton chain, which fuses four hydrogen nuclei (protons) into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays. This reaction converts about 0.7% of the mass of the hydrogen into energy, according to Einstein's equation E = mc^2.
-- Another fusion reaction that can occur in stars is the carbon-nitrogen-oxygen (CNO) cycle, which uses carbon, nitrogen, and oxygen as catalysts to fuse hydrogen into helium. This reaction is more efficient than the proton-proton chain, but requires higher temperatures and densities.
-- The most promising fusion reaction for human-made reactors is the deuterium-tritium (DT) reaction, which fuses a deuterium nucleus (one proton and one neutron) with a tritium nucleus (one proton and two neutrons) into a helium nucleus and a neutron, releasing a lot of energy. Deuterium and tritium are isotopes of hydrogen that can be extracted from water and lithium, respectively.
-- The main challenge of achieving nuclear fusion on Earth is to create and sustain a plasma, a state of matter where the nuclei and electrons are separated and can move freely. A plasma can be heated and compressed by various methods, such as magnetic confinement, inertial confinement, or laser fusion.
-- The benefits of nuclear fusion as a source of energy are that it is clean, safe, abundant, and sustainable. Nuclear fusion does not produce greenhouse gases or radioactive waste, unlike nuclear fission. Nuclear fusion also does not pose the risk of a meltdown or a nuclear weapon proliferation, as the reaction can be easily stopped by removing the fuel or the heat source. Nuclear fusion has virtually unlimited potential, as the fuel is widely available and the energy output is enormous.
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to provide the students with the mathematical tools and skills that are essential for engineering analysis and modelling. The course may have different syllabi depending on the university or college, but some of the common topics are:
@@ -31,6 +14,23 @@ The course may also include other topics such as complex numbers, matrices, line
 The course is usually taught using lectures, tutorials, assignments, quizzes, and exams. The students are expected to attend the classes, participate in the discussions, practice the problems, and complete the assessments. The course may also use online platforms, software, or calculators to enhance the learning experience.
 
 The course is designed to help the students develop their mathematical reasoning, problem-solving, and communication skills. The course also prepares the students for further studies in engineering mathematics and other engineering courses that require mathematical knowledge and methods. The course is beneficial for the students who want to pursue careers in engineering, science, technology, or related fields.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have chosen the topic of
+
+# Nuclear Fusion
+
+Nuclear fusion is the process of combining two or more atomic nuclei to form a heavier nucleus, releasing a large amount of energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
+
+Some of the main points to know about nuclear fusion are:
+
+- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion to occur is around 100 million degrees Celsius.
+- The most common fusion reaction in stars is the proton-proton chain, which fuses four hydrogen nuclei (protons) into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays. This reaction converts about 0.7% of the mass of the hydrogen into energy, according to Einstein's equation E = mc^2.
+- Another fusion reaction that can occur in stars is the carbon-nitrogen-oxygen (CNO) cycle, which uses carbon, nitrogen, and oxygen as catalysts to fuse hydrogen into helium. This reaction is more efficient than the proton-proton chain, but requires higher temperatures and densities.
+- The most promising fusion reaction for human-made reactors is the deuterium-tritium (DT) reaction, which fuses a deuterium nucleus (one proton and one neutron) with a tritium nucleus (one proton and two neutrons) into a helium nucleus and a neutron, releasing a lot of energy. Deuterium and tritium are isotopes of hydrogen that can be extracted from water and lithium, respectively.
+- The main challenge of achieving nuclear fusion on Earth is to create and sustain a plasma, a state of matter where the nuclei and electrons are separated and can move freely. A plasma can be heated and compressed by various methods, such as magnetic confinement, inertial confinement, or laser fusion.
+- The benefits of nuclear fusion as a source of energy are that it is clean, safe, abundant, and sustainable. Nuclear fusion does not produce greenhouse gases or radioactive waste, unlike nuclear fission. Nuclear fusion also does not pose the risk of a meltdown or a nuclear weapon proliferation, as the reaction can be easily stopped by removing the fuel or the heat source. Nuclear fusion has virtually unlimited potential, as the fuel is widely available and the energy output is enormous.
 
 
 

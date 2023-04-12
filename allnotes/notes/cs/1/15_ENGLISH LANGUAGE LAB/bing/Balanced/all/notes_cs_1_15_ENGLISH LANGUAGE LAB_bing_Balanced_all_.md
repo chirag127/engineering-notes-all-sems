@@ -1,22 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of:
-
-# Nuclear Fusion
-
-Nuclear fusion is the process of combining two or more atomic nuclei into a single, heavier nucleus, releasing a large amount of energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
-
-Some of the main points to know about nuclear fusion are:
-
-- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion to occur is in the order of millions of degrees Celsius.
-- The most common fusion reaction in the Sun and other stars is the proton-proton chain, which converts four hydrogen nuclei into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays. The mass of the helium nucleus is slightly less than the mass of the four hydrogen nuclei, and the difference is converted into energy according to Einstein's equation E = mc^2.
-- Another possible fusion reaction is the deuterium-tritium reaction, which fuses one deuterium nucleus (hydrogen with one neutron) and one tritium nucleus (hydrogen with two neutrons) into one helium nucleus and one neutron, releasing a lot of energy. Deuterium and tritium are isotopes of hydrogen that are rare in nature, but can be produced artificially.
-- Nuclear fusion has the potential to provide a clean, safe, and abundant source of energy for human civilization, as it does not produce radioactive waste or greenhouse gases. However, achieving controlled and sustained fusion on Earth is very challenging, as it requires sophisticated technology and engineering to create and maintain the necessary conditions for fusion. The main approaches to achieve fusion are magnetic confinement and inertial confinement.
-- Magnetic confinement uses strong magnetic fields to confine a plasma (a state of matter where atoms are ionized) and heat it up to the fusion temperature. The most common device for magnetic confinement is the tokamak, which has a doughnut-shaped chamber where the plasma is circulated. The largest and most advanced tokamak in the world is the ITER (International Thermonuclear Experimental Reactor), which is under construction in France and aims to achieve net energy gain from fusion by 2035.
-- Inertial confinement uses powerful lasers or particle beams to compress and heat a small pellet of fusion fuel, such as deuterium-tritium, to the point where fusion occurs. The fusion reaction is very fast and explosive, and the energy released is captured by a surrounding chamber. The most advanced device for inertial confinement is the NIF (National Ignition Facility), which is located in the US and has achieved record levels of fusion energy output in 2021.
-
-
-
 # English Language Lab
 
 - An English language lab is a computer-based facility that allows students to practice and improve their English skills in an interactive and engaging way.
@@ -32,6 +15,23 @@ Some of the main points to know about nuclear fusion are:
   - It can foster the students' autonomy and responsibility in their own learning and encourage them to self-evaluate and self-correct.
   - It can facilitate the teacher's assessment and evaluation of the students' progress and performance and provide useful data and feedback.
   - It can integrate technology and innovation into the language curriculum and make the learning process more fun and enjoyable.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of:
+
+# Nuclear Fusion
+
+Nuclear fusion is the process of combining two or more atomic nuclei into a single, heavier nucleus, releasing a large amount of energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
+
+Some of the main points to know about nuclear fusion are:
+
+- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion to occur is in the order of millions of degrees Celsius.
+- The most common fusion reaction in the Sun and other stars is the proton-proton chain, which converts four hydrogen nuclei into one helium nucleus, releasing two positrons, two neutrinos, and gamma rays. The mass of the helium nucleus is slightly less than the mass of the four hydrogen nuclei, and the difference is converted into energy according to Einstein's equation E = mc^2.
+- Another possible fusion reaction is the deuterium-tritium reaction, which fuses one deuterium nucleus (hydrogen with one neutron) and one tritium nucleus (hydrogen with two neutrons) into one helium nucleus and one neutron, releasing a lot of energy. Deuterium and tritium are isotopes of hydrogen that are rare in nature, but can be produced artificially.
+- Nuclear fusion has the potential to provide a clean, safe, and abundant source of energy for human civilization, as it does not produce radioactive waste or greenhouse gases. However, achieving controlled and sustained fusion on Earth is very challenging, as it requires sophisticated technology and engineering to create and maintain the necessary conditions for fusion. The main approaches to achieve fusion are magnetic confinement and inertial confinement.
+- Magnetic confinement uses strong magnetic fields to confine a plasma (a state of matter where atoms are ionized) and heat it up to the fusion temperature. The most common device for magnetic confinement is the tokamak, which has a doughnut-shaped chamber where the plasma is circulated. The largest and most advanced tokamak in the world is the ITER (International Thermonuclear Experimental Reactor), which is under construction in France and aims to achieve net energy gain from fusion by 2035.
+- Inertial confinement uses powerful lasers or particle beams to compress and heat a small pellet of fusion fuel, such as deuterium-tritium, to the point where fusion occurs. The fusion reaction is very fast and explosive, and the energy released is captured by a surrounding chamber. The most advanced device for inertial confinement is the NIF (National Ignition Facility), which is located in the US and has achieved record levels of fusion energy output in 2021.
 
 
 

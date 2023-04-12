@@ -1,16 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
-- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
-- The topic can be used to guide the research and analysis of the text, such as by finding relevant sources, evaluating the evidence, and drawing conclusions.
-- The topic can be used to communicate the purpose and message of the text, such as by using a thesis statement, a hook, a transition, or a call to action.
-
-
-
 # Programming for Problem Solving
 
 Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using various languages, such as Python, Java, C, etc.
@@ -31,6 +20,17 @@ Some of the steps to follow for problem solving in programming are:
 3. Divide and conquer: Break down the problem into smaller and simpler subproblems, and solve them individually. This helps to reduce the complexity and scope of the problem, and makes it easier to test and debug.
 4. Implement the solution: Write the code for the solution using the chosen programming language and syntax. Follow the coding standards and conventions, and use meaningful names and comments. Test the code for different cases and scenarios, and fix any errors or bugs.
 5. Review and optimize the solution: Evaluate the performance and efficiency of the solution, and look for any possible improvements or enhancements. Refactor the code to make it more readable and maintainable, and use tools like code analysis, debugging, profiling, etc. to optimize the code.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
+- The topic can be used to organize and structure the information in the text, such as by using headings, subheadings, paragraphs, or bullet points.
+- The topic can be used to guide the research and analysis of the text, such as by finding relevant sources, evaluating the evidence, and drawing conclusions.
+- The topic can be used to communicate the purpose and message of the text, such as by using a thesis statement, a hook, a transition, or a call to action.
 
 
 

@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a conversation, text, or presentation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
-- The topic can be broad or narrow, depending on how much information or detail it covers or excludes.
-- The topic can be related to different domains, such as science, history, art, politics, etc.
-- The topic can be chosen by the speaker or writer, or assigned by someone else, such as a teacher, a boss, or a client.
-- The topic can be influenced by various factors, such as the purpose, audience, context, and tone of the communication.
-- The topic can be developed or changed throughout the conversation, text, or presentation, depending on the feedback, questions, or arguments of the listener or reader.
-
-
-
 # Engineering Graphics and Design Lab
 
 Engineering graphics and design lab is a course that introduces the students to the principles and techniques of engineering drawing, sketching, and computer-aided design (CAD). The course aims to develop the students' graphic skills for communication of concepts, ideas, and design of engineering products. The course also exposes the students to the existing national and international standards related to technical drawings.
@@ -47,6 +34,19 @@ The course outcomes are:
 - The students will be able to use surface modeling and rendering techniques to create and present realistic and aesthetic engineering models and drawings.
 - The students will be able to use engineering analysis and simulation tools to verify and optimize engineering models and designs.
 - The students will be able to demonstrate the applications of engineering graphics and design in various engineering disciplines and fields.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a conversation, text, or presentation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
+- The topic can be broad or narrow, depending on how much information or detail it covers or excludes.
+- The topic can be related to different domains, such as science, history, art, politics, etc.
+- The topic can be chosen by the speaker or writer, or assigned by someone else, such as a teacher, a boss, or a client.
+- The topic can be influenced by various factors, such as the purpose, audience, context, and tone of the communication.
+- The topic can be developed or changed throughout the conversation, text, or presentation, depending on the feedback, questions, or arguments of the listener or reader.
 
 
 

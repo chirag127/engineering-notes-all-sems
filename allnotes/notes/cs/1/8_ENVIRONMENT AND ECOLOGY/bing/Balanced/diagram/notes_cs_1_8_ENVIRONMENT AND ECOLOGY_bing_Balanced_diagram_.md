@@ -1,5 +1,21 @@
 
 
+# B.Sc. (Hons.) in Environmental Science
+
+- B.Sc. (Hons.) in Environmental Science is a three-year undergraduate degree course that covers the study of the natural and human-made environment, its problems and solutions.
+- The course aims to equip students with the knowledge and skills to understand, analyze and manage environmental issues and challenges in various domains such as ecology, engineering, conservation, biology and chemistry.
+- The course curriculum is divided into six semesters, each consisting of four or five papers. The papers include core, elective, ability-enhancement and skill-enhancement courses. The total number of credits for the course is 140.
+- The core papers cover the fundamental concepts and principles of environmental science, such as environmental chemistry, environmental biology, environmental geology, environmental physics, environmental statistics, environmental law and policy, environmental impact assessment, environmental management and auditing, etc.
+- The elective papers allow students to choose from a range of topics related to their interests and career goals, such as climate change, biodiversity, disaster management, natural resources management, environmental biotechnology, environmental engineering, environmental economics, environmental sociology, etc.
+- The ability-enhancement papers are designed to improve the communication, research and analytical skills of the students, such as environmental communication, environmental research methods, environmental ethics, environmental education, etc.
+- The skill-enhancement papers are aimed at providing practical training and exposure to the students, such as environmental instrumentation, environmental field techniques, environmental laboratory techniques, environmental modeling and simulation, environmental project work, etc.
+- The course also involves field visits, internships, seminars, workshops and projects to enhance the learning experience and employability of the students.
+- The course is accredited by the Institution of Environmental Sciences (IES) and follows the guidelines of the National Education Policy-2020 and the University Grants Commission (UGC).
+- The course is offered by various colleges and universities across India and abroad, such as Delhi University, Bangalore University, University of Portsmouth, etc.
+- The course prepares students for a variety of career opportunities in the public and private sectors, such as environmental consultants, environmental engineers, environmental scientists, environmental educators, environmental journalists, environmental activists, environmental managers, environmental auditors, etc.
+
+
+
 Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of header diagram. Here is some information about it:
 
 # Header Diagram
@@ -24,22 +40,6 @@ Here is an example of a header diagram for a web page:
 +-----------------------------------------------------------------+
 ```
 
-
-
-
-# B.Sc. (Hons.) in Environmental Science
-
-- B.Sc. (Hons.) in Environmental Science is a three-year undergraduate degree course that covers the study of the natural and human-made environment, its problems and solutions.
-- The course aims to equip students with the knowledge and skills to understand, analyze and manage environmental issues and challenges in various domains such as ecology, engineering, conservation, biology and chemistry.
-- The course curriculum is divided into six semesters, each consisting of four or five papers. The papers include core, elective, ability-enhancement and skill-enhancement courses. The total number of credits for the course is 140.
-- The core papers cover the fundamental concepts and principles of environmental science, such as environmental chemistry, environmental biology, environmental geology, environmental physics, environmental statistics, environmental law and policy, environmental impact assessment, environmental management and auditing, etc.
-- The elective papers allow students to choose from a range of topics related to their interests and career goals, such as climate change, biodiversity, disaster management, natural resources management, environmental biotechnology, environmental engineering, environmental economics, environmental sociology, etc.
-- The ability-enhancement papers are designed to improve the communication, research and analytical skills of the students, such as environmental communication, environmental research methods, environmental ethics, environmental education, etc.
-- The skill-enhancement papers are aimed at providing practical training and exposure to the students, such as environmental instrumentation, environmental field techniques, environmental laboratory techniques, environmental modeling and simulation, environmental project work, etc.
-- The course also involves field visits, internships, seminars, workshops and projects to enhance the learning experience and employability of the students.
-- The course is accredited by the Institution of Environmental Sciences (IES) and follows the guidelines of the National Education Policy-2020 and the University Grants Commission (UGC).
-- The course is offered by various colleges and universities across India and abroad, such as Delhi University, Bangalore University, University of Portsmouth, etc.
-- The course prepares students for a variety of career opportunities in the public and private sectors, such as environmental consultants, environmental engineers, environmental scientists, environmental educators, environmental journalists, environmental activists, environmental managers, environmental auditors, etc.
 
 
 

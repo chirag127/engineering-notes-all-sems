@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Principles of Economics
-- Introduction to Philosophy
-- Fundamentals of Music Theory
-
-
-
 # Engineering Graphics and Design Lab
 
 Engineering graphics and design lab is a course that introduces the students to the principles and techniques of engineering drawing, computer-aided design (CAD), and engineering design. The course covers the following topics:
@@ -59,6 +49,16 @@ The course syllabus may vary depending on the instructor and the institution, bu
 - Course resources and support services
 
 The course may require the students to have access to a computer with CAD software installed, such as AutoCAD, SolidWorks, Inventor, or Fusion 360. The students may also need to have a drawing board, a T-square, a compass, a protractor, a ruler, a pencil, and an eraser for the lab sessions. The students may be expected to spend about 2 hours of lecture and 3 hours of lab per week, and additional hours for homework, assignments, and projects. The students may be assessed based on their performance in the lab assignments, projects, exams, quizzes, and participation. The students may be expected to submit their drawings and models electronically or in hard copy, depending on the instructor's preference. The students may be expected to follow the engineering graphics standards and conventions, such as ANSI, ISO, or ASME, in their drawings and models. The students may be expected to work individually or in teams, depending on the nature and scope of the assignments and projects. The students may be expected to present their design projects to the instructor and the class, using oral, written, and graphical communication skills. The students may be expected to demonstrate their understanding of the course topics and their application in engineering design.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Principles of Economics
+- Introduction to Philosophy
+- Fundamentals of Music Theory
 
 
 

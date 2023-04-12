@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Principles of Economics
-- Introduction to Psychology
-- Fundamentals of Music Theory
-
-
-
 # Engineering Chemistry Lab
 
 Engineering chemistry lab is a practical course that complements the theoretical concepts of engineering chemistry. It aims to develop the skills of conducting experiments, analyzing data, and preparing reports in the field of chemical engineering and related disciplines. 
@@ -56,6 +46,16 @@ The engineering chemistry lab is an essential part of the chemical engineering c
 - Learn the scientific method and research ethics
 - Communicate the findings and recommendations effectively
 - Collaborate with peers and instructors
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Principles of Economics
+- Introduction to Psychology
+- Fundamentals of Music Theory
 
 
 

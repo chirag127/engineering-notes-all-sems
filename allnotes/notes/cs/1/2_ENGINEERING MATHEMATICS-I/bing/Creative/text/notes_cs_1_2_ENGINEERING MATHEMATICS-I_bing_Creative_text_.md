@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- A topic can be broad or narrow, depending on the scope and purpose of the communication.
-- A topic can be expressed as a word, a phrase, a question, or a statement.
-- A topic can be chosen by the speaker, the writer, the listener, the reader, or a combination of them.
-- A topic can be influenced by the context, the audience, the genre, the tone, and the goal of the communication.
-- A topic can be developed by providing details, examples, evidence, arguments, opinions, or perspectives on it.
-- A topic can be organized by using strategies such as classification, comparison, contrast, cause and effect, problem and solution, or chronological order.
-- A topic can be evaluated by applying criteria such as relevance, accuracy, clarity, coherence, completeness, or originality.
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools. The course also introduces the students to the use of computer algebra systems for performing calculations and visualizing results.
@@ -29,6 +16,19 @@ The course may also include some topics from linear algebra, such as matrices, d
 The course may require the use of a computer algebra system, such as MATLAB, Mathematica, Maple, or Python, for performing calculations, plotting graphs, solving equations, etc. The students may also learn how to use the software for symbolic, numerical, and graphical computations, and how to write scripts and functions for various tasks.
 
 The course may have different modes of assessment, such as quizzes, assignments, midterms, finals, projects, etc. The students may be expected to demonstrate their understanding of the concepts and techniques, as well as their ability to apply them to engineering problems. The students may also be required to present their solutions in a clear and logical manner, using proper notation and terminology.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- A topic can be broad or narrow, depending on the scope and purpose of the communication.
+- A topic can be expressed as a word, a phrase, a question, or a statement.
+- A topic can be chosen by the speaker, the writer, the listener, the reader, or a combination of them.
+- A topic can be influenced by the context, the audience, the genre, the tone, and the goal of the communication.
+- A topic can be developed by providing details, examples, evidence, arguments, opinions, or perspectives on it.
+- A topic can be organized by using strategies such as classification, comparison, contrast, cause and effect, problem and solution, or chronological order.
+- A topic can be evaluated by applying criteria such as relevance, accuracy, clarity, coherence, completeness, or originality.
 
 
 

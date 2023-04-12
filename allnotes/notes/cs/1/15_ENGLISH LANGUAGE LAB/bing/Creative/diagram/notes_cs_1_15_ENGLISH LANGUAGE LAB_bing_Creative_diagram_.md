@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- Nuclear fusion
-- Artificial intelligence
-- Climate change
-- Quantum computing
-- Blockchain technology
-
-
-
 Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have chosen the topic # English Language Lab. Here is some information about it:
 
 # English Language Lab
@@ -30,6 +20,16 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
   - Developing the learner's autonomy, confidence, and self-efficacy in language learning.
   - Supplementing and complementing the classroom instruction and curriculum.
   - Facilitating the teacher's monitoring, evaluation, and feedback of the learner's progress and performance.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- Nuclear fusion
+- Artificial intelligence
+- Climate change
+- Quantum computing
+- Blockchain technology
 
 
 

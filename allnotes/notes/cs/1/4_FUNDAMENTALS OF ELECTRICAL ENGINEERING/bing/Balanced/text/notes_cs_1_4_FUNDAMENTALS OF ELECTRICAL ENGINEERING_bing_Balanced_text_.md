@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- A topic is a subject or a theme that is discussed or written about.
-- A topic can be broad or narrow, depending on the scope and purpose of the discussion or writing.
-- A topic can be chosen by the writer or speaker, or assigned by a teacher or an editor.
-- A topic can be expressed as a word, a phrase, a question, or a statement.
-- A topic can be related to various fields of study, such as science, history, literature, art, etc.
-- A topic can be informative, persuasive, argumentative, descriptive, narrative, or analytical, depending on the type and goal of the communication.
-- A topic can be supported by evidence, examples, facts, opinions, or arguments, depending on the genre and audience of the communication.
-- A topic can be organized in different ways, such as chronological, spatial, cause and effect, problem and solution, compare and contrast, etc., depending on the structure and logic of the communication.
-
-
-
 # FUNDAMENTALS OF ELECTRICAL ENGINEERING
 
 - Electrical engineering is the branch of engineering that deals with the study, design, and application of electrical and electronic systems, devices, and circuits.
@@ -29,6 +16,19 @@
   - Three-phase circuits: Three-phase circuits are circuits that use three AC voltages that are 120 degrees out of phase with each other. Three-phase circuits are more efficient and reliable than single-phase circuits for transmitting and distributing power over long distances.
   - Diodes: Diodes are semiconductor devices that allow current to flow in one direction only. Diodes are used for rectification, which is the process of converting AC to DC, and for switching, which is the process of controlling the flow of current in a circuit.
   - Transistors: Transistors are semiconductor devices that can amplify or switch electrical signals. Transistors consist of three terminals, called the base, collector, and emitter, that are made of different types of semiconductor materials. By applying a small voltage to the base, the transistor can control the current flow between the collector and the emitter. Transistors are the building blocks of modern electronic devices, such as computers and smartphones.
+
+
+
+# The topic is
+
+- A topic is a subject or a theme that is discussed or written about.
+- A topic can be broad or narrow, depending on the scope and purpose of the discussion or writing.
+- A topic can be chosen by the writer or speaker, or assigned by a teacher or an editor.
+- A topic can be expressed as a word, a phrase, a question, or a statement.
+- A topic can be related to various fields of study, such as science, history, literature, art, etc.
+- A topic can be informative, persuasive, argumentative, descriptive, narrative, or analytical, depending on the type and goal of the communication.
+- A topic can be supported by evidence, examples, facts, opinions, or arguments, depending on the genre and audience of the communication.
+- A topic can be organized in different ways, such as chronological, spatial, cause and effect, problem and solution, compare and contrast, etc., depending on the structure and logic of the communication.
 
 
 

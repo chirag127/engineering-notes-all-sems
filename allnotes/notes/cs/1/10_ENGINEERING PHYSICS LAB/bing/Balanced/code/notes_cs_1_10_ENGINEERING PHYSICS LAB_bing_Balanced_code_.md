@@ -1,22 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of
-
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
-- The topic can be broad or narrow, depending on how much information or detail it covers or excludes.
-- The topic can be related to different fields or disciplines, such as science, history, literature, or art.
-- The topic can be chosen by the speaker or writer, or assigned by a teacher, a publisher, or a listener or reader.
-- The topic can be influenced by the purpose, audience, context, and genre of the communication.
-- The topic can be developed or supported by using various types of evidence, such as facts, examples, statistics, quotations, or anecdotes.
-- The topic can be organized or structured by using different methods, such as comparison, contrast, cause and effect, problem and solution, or chronological order.
-- The topic can be evaluated or analyzed by using different criteria, such as relevance, accuracy, clarity, coherence, or originality.
-
-
-
 # Engineering Physics Lab
 
 Engineering physics is a branch of science that combines the principles of physics and engineering to solve practical problems in various fields of technology and science. Engineering physics lab is a course that provides hands-on experience in conducting experiments and measurements using modern equipment and techniques. The course also aims to develop skills in data analysis, error estimation, report writing, and scientific communication.
@@ -41,6 +24,23 @@ The course objectives are to:
 - Analyze and interpret the experimental data and results using statistical methods and error analysis.
 - Communicate the experimental procedures and results effectively using written and oral reports and presentations.
 - Apply the concepts and principles of physics and engineering to solve real-world problems and design projects.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
+- The topic can be broad or narrow, depending on how much information or detail it covers or excludes.
+- The topic can be related to different fields or disciplines, such as science, history, literature, or art.
+- The topic can be chosen by the speaker or writer, or assigned by a teacher, a publisher, or a listener or reader.
+- The topic can be influenced by the purpose, audience, context, and genre of the communication.
+- The topic can be developed or supported by using various types of evidence, such as facts, examples, statistics, quotations, or anecdotes.
+- The topic can be organized or structured by using different methods, such as comparison, contrast, cause and effect, problem and solution, or chronological order.
+- The topic can be evaluated or analyzed by using different criteria, such as relevance, accuracy, clarity, coherence, or originality.
 
 
 

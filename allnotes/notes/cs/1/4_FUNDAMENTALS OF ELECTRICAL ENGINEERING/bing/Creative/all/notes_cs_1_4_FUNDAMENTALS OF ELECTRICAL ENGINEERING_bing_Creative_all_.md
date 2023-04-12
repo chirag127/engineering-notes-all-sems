@@ -1,16 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
-- The topic can be used to organize and structure the text, such as by using headings, subheadings, paragraphs, or bullet points.
-- The topic can be used to guide the research, writing, and presentation of the text, such as by finding relevant sources, selecting appropriate evidence, and choosing suitable language and style.
-- The topic can be used to evaluate the text, such as by checking if it is clear, coherent, accurate, relevant, and interesting.
-
-
-
 # FUNDAMENTALS OF ELECTRICAL ENGINEERING
 
 - Electrical engineering is the branch of engineering that deals with the study, design, and application of electrical and electronic systems, devices, and circuits.
@@ -28,6 +17,17 @@
   - Transformers: Transformers are devices that use electromagnetic induction to transfer electrical energy from one circuit to another. Transformers can step up or step down the voltage and current levels, depending on the ratio of the number of turns in the primary and secondary coils. Transformers are widely used in power systems, communication systems, and electronic devices.
   - Electromagnetic induction: Electromagnetic induction is the phenomenon of generating an electric current in a conductor when it is exposed to a changing magnetic field. Electromagnetic induction is the basis of many devices, such as generators, motors, transformers, and induction coils.
   - Motors and generators: Motors and generators are devices that convert electrical energy into mechanical energy, and vice versa. Motors use electric current to produce torque and rotation, while generators use mechanical motion to produce electric current. Motors and generators are widely used in industrial, domestic, and transportation applications.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be identified by looking for clues in the text, such as the title, the introduction, the main idea, the keywords, or the summary.
+- The topic can be used to organize and structure the text, such as by using headings, subheadings, paragraphs, or bullet points.
+- The topic can be used to guide the research, writing, and presentation of the text, such as by finding relevant sources, selecting appropriate evidence, and choosing suitable language and style.
+- The topic can be used to evaluate the text, such as by checking if it is clear, coherent, accurate, relevant, and interesting.
 
 
 

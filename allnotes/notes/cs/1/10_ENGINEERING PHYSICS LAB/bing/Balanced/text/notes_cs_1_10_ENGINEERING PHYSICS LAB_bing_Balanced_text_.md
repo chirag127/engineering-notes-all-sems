@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- A topic is a subject or theme that is discussed or written about.
-- A topic can be general or specific, broad or narrow, depending on the purpose and audience of the communication.
-- A topic can be chosen by the speaker or writer, or assigned by a teacher or editor.
-- A topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- A topic can be related to other topics, such as subtopics, main topics, or supporting topics.
-- A topic can be developed by using various methods, such as examples, facts, opinions, arguments, or anecdotes.
-- A topic can be organized by using different structures, such as chronological, spatial, compare and contrast, cause and effect, or problem and solution.
-- A topic can be evaluated by using different criteria, such as relevance, clarity, coherence, accuracy, or originality.
-
-
-
 # Engineering Physics Lab
 
 Engineering physics is a branch of science that combines the principles of physics and engineering to solve practical problems in various fields of technology and science. Engineering physics lab is a course that provides hands-on experience in performing experiments and measurements using modern equipment and techniques. The course also aims to develop skills in data analysis, error estimation, report writing, and scientific communication.
@@ -33,6 +20,19 @@ The syllabus and subjects of engineering physics lab may vary depending on the i
 - Lab presentation: This is an oral or poster presentation that showcases the students' work and findings on a selected experiment. The lab presentation may be done individually or in groups, depending on the instructor's preference. The lab presentation is evaluated based on the quality, relevance, and delivery of the content.
 
 Engineering physics lab is a valuable course that helps the students to apply their theoretical knowledge to practical situations, and to develop their experimental, analytical, and communication skills. The course also prepares the students for further studies and research in engineering and physics.
+
+
+
+# The topic is
+
+- A topic is a subject or theme that is discussed or written about.
+- A topic can be general or specific, broad or narrow, depending on the purpose and audience of the communication.
+- A topic can be chosen by the speaker or writer, or assigned by a teacher or editor.
+- A topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- A topic can be related to other topics, such as subtopics, main topics, or supporting topics.
+- A topic can be developed by using various methods, such as examples, facts, opinions, arguments, or anecdotes.
+- A topic can be organized by using different structures, such as chronological, spatial, compare and contrast, cause and effect, or problem and solution.
+- A topic can be evaluated by using different criteria, such as relevance, clarity, coherence, accuracy, or originality.
 
 
 

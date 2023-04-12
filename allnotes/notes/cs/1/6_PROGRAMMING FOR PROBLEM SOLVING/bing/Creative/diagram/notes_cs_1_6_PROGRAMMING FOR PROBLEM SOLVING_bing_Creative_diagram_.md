@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- Photosynthesis
-- World War II
-- Artificial Intelligence
-- Shakespeare
-- Pythagoras Theorem
-
-
-
 # Programming for Problem Solving
 
 Programming for problem solving is the process of using a programming language to create a solution for a given problem. Programming for problem solving involves the following steps:
@@ -20,6 +10,16 @@ Programming for problem solving is the process of using a programming language t
 - **Test and debug the solution**: This step involves running the code with different input values, checking the output for correctness, and fixing any errors or bugs that may arise. The code should also be optimized for performance, memory, and readability.
 
 Programming for problem solving is an essential skill for programmers, as it helps them to develop logical thinking, creativity, and analytical abilities. Programming for problem solving also helps to learn new concepts, languages, and frameworks, and to apply them to real-world scenarios. Programming for problem solving can be practiced by solving coding problems online, such as on CodeChef, or by participating in coding competitions or hackathons.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- Photosynthesis
+- World War II
+- Artificial Intelligence
+- Shakespeare
+- Pythagoras Theorem
 
 
 

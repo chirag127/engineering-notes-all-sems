@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- A topic can be broad or narrow, depending on the scope and purpose of the communication.
-- A topic can be expressed as a word, a phrase, a question, or a statement.
-- A topic can be chosen by the speaker, the writer, the listener, the reader, or a combination of them.
-- A topic can be influenced by the context, the audience, the genre, the tone, and the goal of the communication.
-- A topic can be developed by providing details, examples, evidence, arguments, opinions, or perspectives on it.
-- A topic can be organized by using an outline, a thesis statement, a main idea, or a central point.
-- A topic can be evaluated by considering its relevance, clarity, coherence, originality, accuracy, and significance.
-
-
-
 # Engineering Physics Lab
 
 Engineering physics lab is a course that introduces students to the basic concepts and methods of experimental physics. The course aims to develop the skills of observation, measurement, analysis, and interpretation of physical phenomena. The course also exposes students to various instruments and techniques used in physics experiments.
@@ -45,6 +32,19 @@ Some of the skills and outcomes expected from engineering physics lab are:
 - Ability to work in a team and follow safety and ethical guidelines
 - Ability to apply the theoretical knowledge of physics to practical situations
 - Ability to appreciate the role and relevance of physics in engineering and technology
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- A topic can be broad or narrow, depending on the scope and purpose of the communication.
+- A topic can be expressed as a word, a phrase, a question, or a statement.
+- A topic can be chosen by the speaker, the writer, the listener, the reader, or a combination of them.
+- A topic can be influenced by the context, the audience, the genre, the tone, and the goal of the communication.
+- A topic can be developed by providing details, examples, evidence, arguments, opinions, or perspectives on it.
+- A topic can be organized by using an outline, a thesis statement, a main idea, or a central point.
+- A topic can be evaluated by considering its relevance, clarity, coherence, originality, accuracy, and significance.
 
 
 

@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose from the following suggestions:
-
-- Nuclear fusion
-- Artificial intelligence
-- Climate change
-- Quantum computing
-- Blockchain technology
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools.
@@ -30,6 +20,16 @@ To learn Engineering Mathematics-I, the students need to have a good background 
 - Vector Calculus by J.E. Marsden and A.J. Tromba
 
 Engineering Mathematics-I is a foundational course for engineering students that helps them develop their mathematical skills and prepare them for more advanced courses in their field. By mastering this course, the students can enhance their analytical and problem-solving abilities and apply them to various engineering situations.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose from the following suggestions:
+
+- Nuclear fusion
+- Artificial intelligence
+- Climate change
+- Quantum computing
+- Blockchain technology
 
 
 

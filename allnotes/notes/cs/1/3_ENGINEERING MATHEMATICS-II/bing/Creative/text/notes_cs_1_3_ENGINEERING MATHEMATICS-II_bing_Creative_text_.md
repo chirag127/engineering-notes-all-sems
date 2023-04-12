@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general term for the subject or theme of a text, speech, or conversation.
-- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
-- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
-- The topic can be broad or narrow, depending on how much detail or scope it covers.
-- The topic can be informative or persuasive, depending on the purpose or goal of the communication.
-- The topic can be factual or opinionated, depending on the evidence or arguments that support it.
-- The topic can be interesting or boring, depending on the audience or context.
-- The topic can be original or common, depending on the novelty or familiarity of the information or perspective.
-
-
-
 # Engineering Mathematics-II
 
 Engineering Mathematics-II is a course that covers various topics in mathematics that are relevant and useful for engineering students. The course aims to develop the students' analytical and problem-solving skills, as well as to provide them with a solid foundation for further studies in engineering.
@@ -26,6 +13,19 @@ The syllabus of Engineering Mathematics-II may vary depending on the institution
 - **Transform Techniques**: This topic covers the concepts of Laplace transform, inverse Laplace transform, properties of Laplace transform, convolution theorem, and applications of Laplace transform to solving differential equations, transfer functions, and stability analysis. It also covers the concepts of Fourier series, Fourier transform, inverse Fourier transform, properties of Fourier transform, and applications of Fourier transform to solving partial differential equations, signal processing, and frequency analysis.
 
 Engineering Mathematics-II is a challenging but rewarding course that requires a lot of practice and dedication. Students who successfully complete this course will have a deeper understanding of the mathematical tools and methods that are essential for engineering.
+
+
+
+# The topic is
+
+- The topic is a general term for the subject or theme of a text, speech, or conversation.
+- The topic can be expressed in different ways, such as a word, a phrase, a question, or a statement.
+- The topic can be explicit or implicit, depending on how clearly it is stated or implied by the speaker or writer.
+- The topic can be broad or narrow, depending on how much detail or scope it covers.
+- The topic can be informative or persuasive, depending on the purpose or goal of the communication.
+- The topic can be factual or opinionated, depending on the evidence or arguments that support it.
+- The topic can be interesting or boring, depending on the audience or context.
+- The topic can be original or common, depending on the novelty or familiarity of the information or perspective.
 
 
 

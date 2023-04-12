@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Introduction to Cryptography
-- Principles of Economics
-- Fundamentals of Music Theory
-
-
-
 Engineering Physics Lab
 
 Engineering physics lab is a practical course that complements the theoretical knowledge of physics and its applications in engineering and science. It involves experimental techniques and modern equipment to investigate various phenomena and principles of physics. Engineering physics lab also helps to develop skills such as data analysis, error estimation, report writing, and teamwork.
@@ -35,6 +25,16 @@ Depending on the syllabus and the institution, engineering physics lab may also 
 - Materials development
 
 Engineering physics lab usually consists of a series of experiments that are performed in groups or individually, under the guidance of an instructor or a lab assistant. Each experiment has a set of objectives, procedures, observations, calculations, and questions that need to be completed and recorded in a lab notebook or a report. The experiments are graded based on the accuracy, completeness, and quality of the results and the analysis. Engineering physics lab may also require a pre-lab quiz, a post-lab quiz, or a final exam to assess the understanding of the concepts and the skills. Engineering physics lab is typically a co-requisite or a prerequisite for the corresponding engineering physics theory course.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Introduction to Cryptography
+- Principles of Economics
+- Fundamentals of Music Theory
 
 
 

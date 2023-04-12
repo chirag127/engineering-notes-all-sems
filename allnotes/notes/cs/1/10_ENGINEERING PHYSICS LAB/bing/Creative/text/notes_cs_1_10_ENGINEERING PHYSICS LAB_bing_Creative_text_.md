@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
-
-# Topic: <your topic here>
-
-For example:
-
-# Topic: Photosynthesis
-
-
-
 # Engineering Physics Lab
 
 Engineering physics lab is a practical course that complements the theoretical knowledge of physics and its applications in engineering and science. It involves experimental techniques and modern equipment to perform experiments related to topics like optics, electronics, mechanics, thermodynamics, etc. Engineering physics lab also helps to develop skills like data analysis, error estimation, report writing, and scientific communication.
@@ -43,6 +33,16 @@ The syllabus of engineering physics lab may vary depending on the institution an
 - Nuclear physics and radiation
 
 Engineering physics lab is an essential part of the engineering physics course that helps to enhance the understanding and appreciation of physics and its relevance to engineering and science. It also provides an opportunity to apply the concepts and principles learned in the classroom to real-world situations and problems. Engineering physics lab also fosters the development of scientific attitude, creativity, and teamwork among the students.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
+
+# Topic: <your topic here>
+
+For example:
+
+# Topic: Photosynthesis
 
 
 

@@ -1,13 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
-
-`The topic is <topic name>.`
-
-For example, `The topic is photosynthesis.`
-
-
-
 # FUNDAMENTALS OF ELECTRICAL ENGINEERING
 
 Electrical engineering is the branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism. Electrical engineers design, develop, test, and supervise the operation of electrical and electronic devices, systems, and networks.
@@ -26,6 +18,14 @@ Some of the topics that are covered in the fundamentals of electrical engineerin
 - **Signals and systems**: such as analog and digital signals, Fourier series and transform, Laplace transform, and Z-transform.
 
 These topics provide the foundation for further studies in electrical engineering and related fields, such as electronics, communication, control, power, and computer engineering.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter a topic in the following format:
+
+`The topic is <topic name>.`
+
+For example, `The topic is photosynthesis.`
 
 
 

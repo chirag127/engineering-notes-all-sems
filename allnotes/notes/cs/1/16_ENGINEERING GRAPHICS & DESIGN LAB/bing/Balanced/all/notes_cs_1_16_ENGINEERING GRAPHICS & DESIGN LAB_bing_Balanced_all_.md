@@ -1,22 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of:
-
-# Nuclear Fusion
-
-Nuclear fusion is the process of combining two or more atomic nuclei to form a heavier nucleus, releasing energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
-
-Some points to remember about nuclear fusion are:
-
-- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion is around 100 million degrees Celsius.
-- Nuclear fusion can produce more energy per unit mass than nuclear fission, which is the process of splitting a heavy nucleus into lighter ones. For example, the fusion of four hydrogen atoms into one helium atom releases about 17.6 MeV of energy, while the fission of one uranium-235 atom releases about 200 MeV of energy.
-- Nuclear fusion can also produce less radioactive waste than nuclear fission, as the fusion products are usually stable or have short half-lives. However, nuclear fusion can also generate high-energy neutrons that can damage the materials and components of the fusion reactor.
-- Nuclear fusion is not yet a viable source of energy for human use, as the current fusion experiments consume more energy than they produce. The main challenges for achieving fusion are creating and maintaining the plasma (a state of matter where the atoms are ionized), confining and heating the plasma to the required conditions, and extracting the energy from the fusion reactions.
-- There are different types of nuclear fusion, depending on the nuclei involved and the reaction mechanism. The most common and promising type of fusion is the deuterium-tritium (D-T) reaction, where two isotopes of hydrogen (deuterium and tritium) fuse to form helium and a neutron. The D-T reaction has a high cross-section (probability of occurrence) and a high energy output. However, tritium is rare and radioactive, and needs to be produced from lithium in a fusion reactor.
-- There are different methods of achieving nuclear fusion, such as inertial confinement fusion (ICF) and magnetic confinement fusion (MCF). ICF uses powerful lasers or ion beams to compress and heat a small pellet of fusion fuel, creating a short burst of fusion. MCF uses strong magnetic fields to confine and heat a plasma of fusion fuel, creating a continuous fusion reaction. The most advanced and largest MCF experiment is the International Thermonuclear Experimental Reactor (ITER), which is under construction in France and aims to achieve a net energy gain from fusion by 2035.
-
-
-
 # Engineering Graphics and Design Lab
 
 Engineering graphics and design lab is a course that introduces the students to the principles and techniques of engineering drawing, computer-aided design (CAD), and engineering design. The course covers the following topics:
@@ -76,6 +59,23 @@ The course references are:
 - Engineering Graphics with AutoCAD 2020 by James Bethune
 - Engineering Design: A Project-Based Introduction by Clive Dym and Patrick Little
 - Engineering Design: An Introduction by John Karsnitz, Stephen O'Brien, and John Hutchinson
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn about. You have chosen the topic of:
+
+# Nuclear Fusion
+
+Nuclear fusion is the process of combining two or more atomic nuclei to form a heavier nucleus, releasing energy in the process. Nuclear fusion is the source of energy for the Sun and other stars.
+
+Some points to remember about nuclear fusion are:
+
+- Nuclear fusion requires high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei. The temperature needed for fusion is around 100 million degrees Celsius.
+- Nuclear fusion can produce more energy per unit mass than nuclear fission, which is the process of splitting a heavy nucleus into lighter ones. For example, the fusion of four hydrogen atoms into one helium atom releases about 17.6 MeV of energy, while the fission of one uranium-235 atom releases about 200 MeV of energy.
+- Nuclear fusion can also produce less radioactive waste than nuclear fission, as the fusion products are usually stable or have short half-lives. However, nuclear fusion can also generate high-energy neutrons that can damage the materials and components of the fusion reactor.
+- Nuclear fusion is not yet a viable source of energy for human use, as the current fusion experiments consume more energy than they produce. The main challenges for achieving fusion are creating and maintaining the plasma (a state of matter where the atoms are ionized), confining and heating the plasma to the required conditions, and extracting the energy from the fusion reactions.
+- There are different types of nuclear fusion, depending on the nuclei involved and the reaction mechanism. The most common and promising type of fusion is the deuterium-tritium (D-T) reaction, where two isotopes of hydrogen (deuterium and tritium) fuse to form helium and a neutron. The D-T reaction has a high cross-section (probability of occurrence) and a high energy output. However, tritium is rare and radioactive, and needs to be produced from lithium in a fusion reactor.
+- There are different methods of achieving nuclear fusion, such as inertial confinement fusion (ICF) and magnetic confinement fusion (MCF). ICF uses powerful lasers or ion beams to compress and heat a small pellet of fusion fuel, creating a short burst of fusion. MCF uses strong magnetic fields to confine and heat a plasma of fusion fuel, creating a continuous fusion reaction. The most advanced and largest MCF experiment is the International Thermonuclear Experimental Reactor (ITER), which is under construction in France and aims to achieve a net energy gain from fusion by 2035.
 
 
 

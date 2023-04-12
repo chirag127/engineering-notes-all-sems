@@ -1,11 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name after the colon:
-
-The topic is:
-
-
-
 # English Language Lab
 
 - An English language lab is a facility where learners can practice and improve their language skills using various audio-visual materials and interactive software.
@@ -26,6 +20,12 @@ The topic is:
   - It offers a variety of materials and activities that cater to different learning styles and preferences.
   - It exposes the learners to authentic and diverse language input and output from different sources and contexts.
   - It enhances the learners' motivation and interest in learning English.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name after the colon:
+
+The topic is:
 
 
 

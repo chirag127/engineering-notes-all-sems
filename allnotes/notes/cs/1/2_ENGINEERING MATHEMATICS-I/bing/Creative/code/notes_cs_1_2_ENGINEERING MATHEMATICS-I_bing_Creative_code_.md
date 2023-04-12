@@ -1,11 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss.
-
-You have not specified the topic you want to write about. Please provide a topic name or a keyword. For example, you can write "Biology" or "Photosynthesis".
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools.
@@ -37,6 +31,12 @@ The course may have some learning outcomes, such as:
 - To use computer algebra software to perform calculations, graph functions, and solve problems.
 - To communicate mathematical ideas and results effectively in written and oral forms.
 - To appreciate the role and importance of mathematics in engineering disciplines.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss.
+
+You have not specified the topic you want to write about. Please provide a topic name or a keyword. For example, you can write "Biology" or "Photosynthesis".
 
 
 

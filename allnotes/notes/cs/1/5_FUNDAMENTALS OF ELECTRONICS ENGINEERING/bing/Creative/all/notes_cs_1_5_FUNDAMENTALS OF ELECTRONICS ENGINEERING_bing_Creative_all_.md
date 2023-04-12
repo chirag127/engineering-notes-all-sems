@@ -1,18 +1,5 @@
 
 
-# The topic is
-
-- The topic is a general or specific subject of discussion, writing, or study.
-- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
-- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
-- A topic can be expressed as a word, phrase, question, or statement.
-- A topic can be related to other topics by subtopics, categories, or themes.
-- A topic can be developed by providing details, examples, evidence, or arguments.
-- A topic can be organized by using an outline, a mind map, or a graphic organizer.
-- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, tone, or perspective.
-
-
-
 # FUNDAMENTALS OF ELECTRONICS ENGINEERING
 
 Electronics engineering is a branch of engineering that deals with the design, development and testing of electronic systems and products. Electronics engineers work with various components and devices that use electric current or electromagnetic fields to perform different functions.
@@ -29,6 +16,19 @@ Some of the basic concepts and topics that are essential for electronics enginee
   - Capacitors: Capacitors are passive components that store electric charge and energy in an electric field. Capacitors consist of two conductive plates separated by a dielectric material. Capacitors have a capacitance value that is measured in farads (F) and depends on the area of the plates, the distance between them and the dielectric constant of the material. Capacitors can be classified into different types such as ceramic, electrolytic, film, etc. based on their characteristics. Capacitors are used for various purposes such as filtering, smoothing, coupling, decoupling, timing, etc. in electronic circuits .
   - Inductors: Inductors are passive components that store electric current and energy in a magnetic field. Inductors consist of a coil of wire wrapped around a core. Inductors have an inductance value that is measured in henrys (H) and depends on the number of turns, the cross-sectional area, the length and the permeability of the core. Inductors can be classified into different types such as air-core, iron-core, ferrite-core, etc. based on their characteristics. Inductors are used for various purposes such as filtering, tuning, matching, etc. in electronic circuits .
   - Diodes: Diodes are active components that allow electric current to flow in one direction only. Diodes consist of a p-n junction, which is a boundary between two types of semiconductor materials: p-type and n-type. Diodes have a forward voltage drop that is typically 0.7 V for silicon diodes and 0.3 V for germanium diodes. Diodes can be classified into different types such as rectifier, zener, light-emitting,
+
+
+
+# The topic is
+
+- The topic is a general or specific subject of discussion, writing, or study.
+- A topic can be chosen by the speaker, writer, or student, or assigned by a teacher, editor, or supervisor.
+- A topic can be broad or narrow, depending on the purpose, audience, and scope of the communication.
+- A topic can be expressed as a word, phrase, question, or statement.
+- A topic can be related to other topics by subtopics, categories, or themes.
+- A topic can be developed by providing details, examples, evidence, or arguments.
+- A topic can be organized by using an outline, a mind map, or a graphic organizer.
+- A topic can be revised by adding, deleting, or rearranging information, or by changing the focus, tone, or perspective.
 
 
 

@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose from the following suggestions:
-
-- Nuclear fusion
-- Artificial intelligence
-- Climate change
-- Quantum computing
-- Blockchain technology
-
-
-
 # Engineering Mathematics-I
 
 Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools.
@@ -27,6 +17,16 @@ To learn Engineering Mathematics-I, one needs to have a good background in algeb
 - **Engineering Mathematics by K.A. Stroud and D.J. Booth**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a clear and comprehensive manner. It also provides numerous examples, exercises, and self-assessment tests for the students.
 - **Advanced Engineering Mathematics by Erwin Kreyszig**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a rigorous and detailed manner. It also provides many applications, examples, and problems for the students.
 - **Engineering Mathematics: A Foundation for Electronic, Electrical, Communications and Systems Engineers by Anthony Croft, Robert Davison, Martin Hargreaves, and James Flint**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a relevant and practical manner. It also provides many engineering examples, case studies, and projects for the students.
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose from the following suggestions:
+
+- Nuclear fusion
+- Artificial intelligence
+- Climate change
+- Quantum computing
+- Blockchain technology
 
 
 

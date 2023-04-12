@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Introduction to Cryptography
-- Principles of Economics
-- Fundamentals of Music Theory
-
-
-
 # B.Sc. (Hons.) in Environmental Science
 
 - B.Sc. (Hons.) in Environmental Science is an undergraduate degree program that focuses on the study of the natural environment and the impact of human activities on it .
@@ -20,6 +10,16 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
 - The program may have different entry requirements depending on the institution, but generally requires a high school diploma with good grades in science subjects, such as biology, chemistry, physics, and mathematics   .
 - The program may also require students to take an entrance exam or an interview to demonstrate their aptitude and interest in environmental science .
 - The program may be offered by various universities and colleges around the world, such as the Open University, the University of Manchester, and the University of York in the UK  .
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Introduction to Cryptography
+- Principles of Economics
+- Fundamentals of Music Theory
 
 
 

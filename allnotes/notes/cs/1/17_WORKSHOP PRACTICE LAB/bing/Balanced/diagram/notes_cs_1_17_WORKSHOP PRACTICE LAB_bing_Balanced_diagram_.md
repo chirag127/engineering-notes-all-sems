@@ -1,15 +1,5 @@
 
 
-Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
-
-- History of Artificial Intelligence
-- Basics of Quantum Computing
-- Introduction to Blockchain Technology
-- Principles of Economics
-- Fundamentals of Music Theory
-
-
-
 # Workshop Practice Lab:
 
 - Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
@@ -44,6 +34,16 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
   - Analyze the data and results and draw conclusions
   - Write a clear and concise post-lab report following the given format
   - Review the lab concepts and prepare for the lab quiz or test
+
+
+
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have not specified the topic you want to write about. Please enter the topic name or choose one from the following suggestions:
+
+- History of Artificial Intelligence
+- Basics of Quantum Computing
+- Introduction to Blockchain Technology
+- Principles of Economics
+- Fundamentals of Music Theory
 
 
 
