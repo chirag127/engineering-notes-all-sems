@@ -42,7 +42,7 @@ def os_system(command):
     os.system(command)
 
 
-os_system("python 03_remove all links from all files.py")
+os_system('python "03_remove all links from all files.py"')
 os_system("python 05_addodd.py")
 os_system("python 06_merge_markdowns.py")
 os_system("python 07_convert_all_markdown_to_pdf.py")

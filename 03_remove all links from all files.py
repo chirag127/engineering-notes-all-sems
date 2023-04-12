@@ -3,8 +3,8 @@ import glob
 import os
 import re
 
-files = glob.glob("/workspaces/6th-sem-archive/notes/**/*.md", recursive=True)
-
+files = glob.glob("notes/**/*.md", recursive=True)
+# notes/2_wt/poe/capybara/002__Introduction_to_Web_Technology.md
 print(files)
 
 for file in files:
